@@ -4935,7 +4935,6 @@ endarch
 endarchy
 endarchies
 endarterectomy
-endarterial
 endarterium
 endarteteria
 endaspidean
@@ -5703,6 +5702,7 @@ engine
 engined
 engineeringly
 enrolment
+endarterial
 engineers
 enginehouse
 engineless
