@@ -10576,7 +10576,6 @@ engrams
 expatriated
 enclavement
 erstwhile
-ensigns
 etioporphyrin
 eversive
 etypic
@@ -12309,6 +12308,7 @@ enfect
 executor
 executory
 excur
+ensigns
 erodable
 executorial
 executors
