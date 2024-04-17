@@ -6463,7 +6463,6 @@ astringently
 agrionia
 agrionidae
 agriot
-arborescent
 agriotype
 agriotypidae
 agriotypus
@@ -18082,6 +18081,7 @@ apricot
 apricots
 aff
 april
+arborescent
 aprilesque
 atticists
 antipodean
