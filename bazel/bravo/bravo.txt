@@ -1968,7 +1968,6 @@ bandolero
 bandoleros
 bandolier
 blellum
-bixa
 bandonion
 bandor
 bandora
@@ -16934,6 +16933,7 @@ building
 buildingless
 buildings
 betimes
+bixa
 backseats
 builds
 binominous
