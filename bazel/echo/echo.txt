@@ -4891,6 +4891,7 @@ enrichment
 encumberment
 encumbers
 encumbrance
+excused
 electrometeor
 ectoderm
 encurl
@@ -12244,7 +12245,6 @@ ethaldehyde
 englishes
 excusatory
 excuse
-excused
 excuseful
 excusefully
 exostome
