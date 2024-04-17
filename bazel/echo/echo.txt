@@ -204,6 +204,7 @@ earthworms
 earwax
 earwaxes
 earwig
+executions
 earwigged
 eidolic
 earwigginess
@@ -12299,7 +12300,6 @@ execution
 executioneering
 executioner
 executioneress
-executions
 emulates
 executively
 entangledly
