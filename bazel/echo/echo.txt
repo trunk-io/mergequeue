@@ -6307,7 +6307,6 @@ enroot
 enrooted
 enroots
 encirclement
-enround
 enruin
 enrut
 ens
@@ -8854,6 +8853,7 @@ erythrogonium
 eradicate
 eradicated
 eradicates
+enround
 eradication
 eradications
 embeddable
