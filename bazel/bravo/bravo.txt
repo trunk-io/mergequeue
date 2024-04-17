@@ -3423,7 +3423,6 @@ bays
 bassetting
 bassi
 bassy
-blowtorch
 bassia
 bassie
 bassine
@@ -13370,6 +13369,7 @@ bereaved
 botryoid
 bantin
 botryomycoma
+blowtorch
 biquadratic
 botryomycosis
 botryopteriaceae
