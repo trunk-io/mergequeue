@@ -1828,6 +1828,7 @@ featural
 fainness
 fibrinogen
 feature
+fulminant
 featured
 featureful
 featurelessness
@@ -10960,7 +10961,6 @@ fullwords
 frescoes
 fulmar
 fulmina
-fulminant
 flighthead
 franchised
 feoffeeship
