@@ -21199,6 +21199,7 @@ concerns
 chinbeak
 concertante
 concertantes
+countersank
 chapped
 concertanto
 concertati
@@ -27032,7 +27033,6 @@ counterround
 counterruin
 counters
 countersalient
-countersank
 counterscale
 counterscalloped
 counterscarp
