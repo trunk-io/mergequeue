@@ -1922,7 +1922,6 @@ grapefruits
 gatehouse
 gatekeep
 graine
-glovemaking
 gatekeeper
 gatekeepers
 gurgly
@@ -8976,6 +8975,7 @@ gralloch
 glagah
 griffins
 gymnasial
+glovemaking
 griffith
 griffonage
 grulla
