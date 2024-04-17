@@ -4813,7 +4813,6 @@ feridji
 flayed
 fault
 front
-flayer
 flaying
 flailed
 fluidify
@@ -10622,6 +10621,7 @@ fructiculose
 fructicultural
 fructiculture
 foreleader
+flayer
 forestall
 forethoughtful
 firefanging
