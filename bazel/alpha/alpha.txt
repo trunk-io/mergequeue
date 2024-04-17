@@ -4873,7 +4873,6 @@ aerials
 aeric
 aerical
 aerides
-aeried
 aerier
 aeries
 aeriest
@@ -5893,6 +5892,7 @@ aly
 aligner
 anthracitism
 agatize
+aeried
 author
 aplanatically
 agatized
