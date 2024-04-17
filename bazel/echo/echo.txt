@@ -2145,7 +2145,6 @@ elastin
 elastins
 elastivity
 elastomer
-elastomeric
 enfamish
 elastomers
 elastometer
@@ -4101,6 +4100,7 @@ emphatical
 endometritis
 emendately
 emphaticalness
+elastomeric
 emphemeralness
 emphysema
 emphyteusis
