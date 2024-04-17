@@ -4476,7 +4476,6 @@ demeaned
 demeaning
 drawk
 demeanor
-dactylograph
 demeanored
 demeanors
 demeanour
@@ -13643,6 +13642,7 @@ donates
 danburite
 diatomiferous
 dissite
+dactylograph
 disslander
 defects
 dyssnite

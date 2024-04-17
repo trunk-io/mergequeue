@@ -5985,7 +5985,6 @@ floreal
 floreated
 furnaced
 forced
-floreating
 folletto
 florent
 florentines
@@ -8419,6 +8418,7 @@ foreannouncement
 furthering
 fieldpiece
 febronian
+floreating
 floridans
 flunkeyite
 formentation
