@@ -5022,7 +5022,6 @@ endiablee
 endiadem
 eyer
 endiaper
-endict
 endymal
 endimanche
 epiparodos
@@ -5801,6 +5800,7 @@ engrained
 epizoicide
 engrainer
 engraining
+endict
 engram
 engrammatic
 engramme
