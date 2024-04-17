@@ -2315,7 +2315,6 @@ fenchyl
 fenchone
 fencible
 fencings
-fend
 fended
 ferric
 fender
@@ -11204,6 +11203,7 @@ funfairs
 featherway
 funfest
 flashtester
+fend
 feminize
 figged
 fungales
