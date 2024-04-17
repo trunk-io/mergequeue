@@ -8496,6 +8496,7 @@ edaphic
 eponymies
 eponymist
 eponymous
+etiolate
 eponyms
 eponymus
 epoophoron
@@ -10558,7 +10559,6 @@ ergotization
 etymonic
 etymons
 etiogenic
-etiolate
 etiolated
 etiolating
 etiolize
