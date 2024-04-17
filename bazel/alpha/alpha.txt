@@ -4452,6 +4452,7 @@ adterminal
 adtevac
 aduana
 adular
+alkalinised
 adularescence
 assertorial
 adularia
@@ -8420,7 +8421,6 @@ alkalimetrically
 alkaline
 alkalinisation
 alkalinise
-alkalinised
 alkalinising
 ankylostoma
 alkalinity
