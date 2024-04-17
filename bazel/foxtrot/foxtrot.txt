@@ -330,7 +330,6 @@ fag
 flagboat
 fagaceae
 fagald
-fayal
 fisk
 fayettism
 fail
@@ -7452,6 +7451,7 @@ ferrimagnet
 floatative
 forcut
 floes
+fayal
 fivers
 flabbergastation
 ford
