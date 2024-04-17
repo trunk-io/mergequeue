@@ -5502,6 +5502,7 @@ gramercy
 glycosides
 goliard
 gardenias
+glutelin
 grant
 glycosidically
 glycosyl
@@ -6178,7 +6179,6 @@ ginkgoes
 garigue
 glutaminic
 gluteal
-glutelin
 gonepoietic
 glutelins
 glutenin
