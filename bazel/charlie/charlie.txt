@@ -975,7 +975,6 @@ coelelminthes
 calavance
 calaverite
 calbroben
-calc
 calcaire
 calcanea
 chimpanzee
@@ -28200,6 +28199,7 @@ crassest
 crassier
 crassilingual
 crassina
+calc
 crassis
 crassities
 crassitude
