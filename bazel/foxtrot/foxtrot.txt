@@ -1476,6 +1476,7 @@ fattiness
 funis
 fattishness
 fattrels
+fother
 fatuate
 fatuism
 fatuity
@@ -8912,7 +8913,6 @@ fistulize
 fostership
 filestatus
 fot
-fother
 fothergilla
 fothering
 foreshorten

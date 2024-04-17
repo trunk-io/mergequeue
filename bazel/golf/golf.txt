@@ -4254,7 +4254,6 @@ gymnoderinae
 gymnodiniaceous
 gymnodiniidae
 gymnodinium
-gymnodont
 garn
 goatling
 gringophobia
@@ -4900,6 +4899,7 @@ groat
 gagor
 gitterns
 giulio
+gymnodont
 giunta
 grosse
 giuseppe
