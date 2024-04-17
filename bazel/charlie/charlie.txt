@@ -5315,7 +5315,6 @@ castigations
 castigative
 castigator
 castigatory
-castigatories
 castigators
 castile
 castilla
@@ -19022,6 +19021,7 @@ collibert
 collybist
 collicle
 colliculate
+castigatories
 colliculus
 collide
 cometographer
