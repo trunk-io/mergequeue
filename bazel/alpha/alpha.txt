@@ -16185,6 +16185,7 @@ antisensuously
 antisensuousness
 antisepsis
 antiseptic
+asseverate
 antiseptical
 antiseptically
 antisepticised
@@ -21726,7 +21727,6 @@ asset
 asseth
 amiss
 assever
-asseverate
 asseverating
 asseveration
 asseverative
