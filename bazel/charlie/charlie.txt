@@ -7606,7 +7606,6 @@ cerebritis
 caponatas
 cerebrize
 cerebrocardiac
-cerebrogalactose
 cerebroganglion
 cerebroganglionic
 cerebroid
@@ -24551,6 +24550,7 @@ copydesk
 copied
 copier
 copiers
+cerebrogalactose
 copies
 copyfitter
 comvia
