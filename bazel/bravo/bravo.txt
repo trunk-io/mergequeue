@@ -1738,6 +1738,7 @@ blending
 bals
 balsa
 balsam
+biramous
 balsamaceous
 balsamation
 balsamed
@@ -7222,7 +7223,6 @@ bestamp
 bestand
 bestar
 bestare
-biramous
 bestarve
 bribery
 bestatued
