@@ -3090,7 +3090,6 @@ deist
 deerwood
 deescalate
 deescalated
-diacritics
 diphtheriaphor
 deescalation
 deescalations
@@ -16390,6 +16389,7 @@ downton
 downtown
 downtowner
 downtowns
+diacritics
 downtrampling
 downtreading
 downtrend
