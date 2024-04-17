@@ -2162,7 +2162,6 @@ elatery
 elaterids
 elaterins
 exterminatress
-elaterite
 elateroid
 elaterometer
 estive
@@ -5506,6 +5505,7 @@ enharmonically
 energized
 energizers
 energizes
+elaterite
 energizing
 energumenon
 eschatologically
