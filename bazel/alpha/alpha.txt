@@ -6295,7 +6295,6 @@ agnomination
 agnosy
 agnosia
 agnosias
-agnostic
 agnostically
 agnostics
 agnostus
@@ -17952,6 +17951,7 @@ apprense
 apprentice
 apprenticehood
 apprenticement
+agnostic
 apprenticeships
 apprenticing
 appress
