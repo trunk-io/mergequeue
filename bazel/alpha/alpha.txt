@@ -2378,6 +2378,7 @@ acidiferous
 argil
 acidify
 acidifiant
+adderfish
 acidific
 acidification
 acidified
@@ -3491,7 +3492,6 @@ addendums
 adder
 adderbolt
 abridgment
-adderfish
 adderspit
 adderwort
 addy
