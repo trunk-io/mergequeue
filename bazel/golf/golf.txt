@@ -1387,6 +1387,7 @@ grippers
 gazania
 gare
 garefowl
+goods
 garefowls
 germanhood
 garetta
@@ -8583,7 +8584,6 @@ guisards
 grebo
 grecale
 galvanising
-goods
 grece
 gulas
 grecism
