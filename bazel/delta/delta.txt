@@ -11065,7 +11065,6 @@ disapprovable
 diaplasma
 disapproval
 disapprovals
-disapproved
 disapprover
 disapproves
 disapprovingly
@@ -15976,6 +15975,7 @@ dotriacontane
 dermatophytic
 dots
 dottard
+disapproved
 dotted
 dottedness
 dottels
