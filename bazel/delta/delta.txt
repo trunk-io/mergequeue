@@ -2470,6 +2470,7 @@ decke
 deckedout
 deckel
 deckels
+dirigent
 decken
 decker
 deckhand
@@ -10856,7 +10857,6 @@ dirichletian
 disyoke
 disedge
 dirige
-dirigent
 dirigible
 dirigo
 dirity
