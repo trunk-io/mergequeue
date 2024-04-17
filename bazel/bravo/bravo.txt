@@ -3559,7 +3559,6 @@ babelic
 birdie
 bannered
 besigh
-batement
 bater
 bates
 batete
@@ -10925,6 +10924,7 @@ blissfully
 blissfulness
 blissless
 blissom
+batement
 blist
 blister
 balden
