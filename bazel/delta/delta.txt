@@ -12366,6 +12366,7 @@ dishpan
 dishpanful
 dishpans
 dishrags
+dockmaster
 dishtowels
 dishumanize
 dishumor
@@ -14680,7 +14681,6 @@ docklands
 dockmackie
 dominica
 dockman
-dockmaster
 diazotizable
 docks
 dockside
