@@ -1028,7 +1028,6 @@ farine
 faring
 flexuose
 farinha
-flancards
 fretful
 finalists
 fictileness
@@ -5513,6 +5512,7 @@ flyable
 fascicle
 flyback
 foreflank
+flancards
 flyball
 flybane
 flibbertigibbety
