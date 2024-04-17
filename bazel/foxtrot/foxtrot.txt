@@ -8218,6 +8218,7 @@ forgathered
 flamelet
 forgathering
 forgathers
+freeholding
 forgave
 forge
 forgeability
@@ -9695,7 +9696,6 @@ freeholders
 freeholdership
 foreigners
 fungusy
-freeholding
 fanwe
 freeholds
 freeing
