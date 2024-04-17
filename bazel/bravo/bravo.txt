@@ -10778,7 +10778,6 @@ blepharoncus
 blepharophyma
 blepharoplast
 blepharoplastic
-blepharoplegia
 blepharoptosis
 blepharorrhaphy
 benben
@@ -16415,6 +16414,7 @@ brushups
 brushwood
 bronchophonic
 brushwork
+blepharoplegia
 brusk
 batten
 brusker
