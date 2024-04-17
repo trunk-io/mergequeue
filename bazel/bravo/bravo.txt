@@ -1362,7 +1362,6 @@ balboas
 bulgarian
 balbusard
 balbutiate
-balbutient
 buffbar
 balconet
 balconette
@@ -2528,6 +2527,7 @@ bares
 baresark
 baresarks
 baresma
+balbutient
 binotic
 baresthesia
 baret
