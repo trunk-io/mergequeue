@@ -91,7 +91,6 @@ dactylar
 dactylate
 dactylic
 dactylically
-dactylics
 dactylioglyph
 dactylioglyphy
 dactylioglyphic
@@ -9128,6 +9127,7 @@ didym
 didymate
 dackers
 didymis
+dactylics
 didymitis
 disfrocks
 didymus
