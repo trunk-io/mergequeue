@@ -23204,6 +23204,7 @@ consulship
 consulships
 consult
 consulta
+crig
 consultable
 commote
 consultant
@@ -28927,7 +28928,6 @@ crier
 criers
 cries
 cryesthesia
-crig
 crying
 cerotype
 cryingly
