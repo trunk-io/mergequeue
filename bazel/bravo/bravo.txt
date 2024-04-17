@@ -12980,6 +12980,7 @@ bordrag
 bordrage
 biophysicochemical
 beringite
+bulder
 bordroom
 borinqueno
 bordun
@@ -16990,7 +16991,6 @@ bulbule
 bulbus
 bulchin
 bure
-bulder
 booing
 bulgar
 bulgari
