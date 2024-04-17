@@ -7559,6 +7559,7 @@ forecastors
 forecatching
 fatbrained
 forechase
+foretake
 forechoice
 forechoir
 foregame
@@ -8689,7 +8690,6 @@ forthputting
 forthright
 fetches
 forthrightly
-foretake
 forthset
 fadges
 forthtell
