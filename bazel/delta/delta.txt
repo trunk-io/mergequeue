@@ -11237,6 +11237,7 @@ disbursals
 disburse
 disbursements
 disburser
+duckpins
 disburses
 divinistre
 definability
@@ -13712,7 +13713,6 @@ dissuading
 dissuasion
 dissuasions
 dissuasively
-duckpins
 dissuasory
 dissue
 drogues
