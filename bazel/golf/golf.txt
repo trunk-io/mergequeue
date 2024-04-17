@@ -2516,7 +2516,6 @@ geminate
 geminated
 geminately
 geminates
-geminating
 gemination
 geminations
 geminative
@@ -5752,6 +5751,7 @@ glockenspiels
 glub
 gemology
 garnice
+geminating
 gloeosporiose
 gradable
 gloeosporium
