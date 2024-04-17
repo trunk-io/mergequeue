@@ -3318,7 +3318,6 @@ furlanas
 fidejussor
 fidejussory
 fidele
-frakfurt
 fidelia
 fortunous
 fabricant
@@ -9207,6 +9206,7 @@ frusta
 fracedinous
 frache
 function
+frakfurt
 fracid
 fract
 fouls
