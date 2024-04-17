@@ -6143,6 +6143,7 @@ benchers
 benchership
 benches
 benchfellow
+bethwine
 burglary
 benchful
 benchy
@@ -7425,7 +7426,6 @@ bethumb
 bethump
 bethumped
 bethwack
-bethwine
 basidiogenetic
 bashilange
 busked

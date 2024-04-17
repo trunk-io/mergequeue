@@ -11267,6 +11267,7 @@ discants
 discapacitate
 downgrowth
 dodger
+dimmable
 discard
 discardable
 discarded
@@ -15193,7 +15194,6 @@ dollarleaf
 dollars
 dollarwise
 dollbeer
-dimmable
 dolldom
 dolled
 dehull
