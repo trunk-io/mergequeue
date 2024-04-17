@@ -923,6 +923,7 @@ agglutinating
 absences
 absent
 ascochyta
+actionized
 absentation
 absented
 absentee
@@ -3215,7 +3216,6 @@ actioner
 actiones
 actionist
 actionize
-actionized
 actionizing
 anaesthesia
 actionless
