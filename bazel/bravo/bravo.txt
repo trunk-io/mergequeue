@@ -3954,6 +3954,7 @@ bawrel
 badling
 bawsint
 bawsunt
+bennet
 bawtie
 bawties
 baxter
@@ -6319,7 +6320,6 @@ benkulen
 benne
 bennel
 bennes
-bennet
 bennets
 bennettitaceae
 bennettitaceous
