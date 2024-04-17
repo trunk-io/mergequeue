@@ -4288,7 +4288,6 @@ beatster
 beauts
 beatuti
 bowls
-beau
 beaucoup
 beaued
 banting
@@ -9392,6 +9391,7 @@ birdcages
 birdcalls
 birdcatching
 birdcraft
+beau
 birddom
 birded
 birdeen
