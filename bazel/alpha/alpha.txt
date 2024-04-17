@@ -10328,6 +10328,7 @@ ametropia
 anaerobia
 ametropic
 adeline
+autodiffusion
 ametrous
 amgarn
 amhar
@@ -24005,7 +24006,6 @@ autodidact
 autodidactic
 autodidactically
 autodifferentiation
-autodiffusion
 autodigestion
 autodyne
 antisplitting
