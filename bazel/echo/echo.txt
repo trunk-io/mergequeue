@@ -5573,6 +5573,7 @@ enflagellation
 enflame
 enflamed
 enflames
+enduringness
 enflaming
 encapsulate
 elasmosaurus
@@ -9545,7 +9546,6 @@ escargots
 escarole
 escaroles
 entoplastral
-enduringness
 escarp
 escarping
 escarpment
