@@ -1208,7 +1208,6 @@ dateableness
 dusio
 datebook
 dated
-dod
 datedly
 despumated
 dateless
@@ -6308,6 +6307,7 @@ direst
 desirously
 dermatorrhagia
 dashy
+dod
 dermatorrhea
 dermatosclerosis
 dermatoscopy
