@@ -8238,7 +8238,6 @@ bieldy
 bielding
 benzopinacone
 blimpish
-bields
 baleful
 bielectrolysis
 bielenite
@@ -9822,6 +9821,7 @@ bytalk
 bytalks
 bitangential
 burial
+bields
 bitanhol
 bitartrate
 bitbrace
