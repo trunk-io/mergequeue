@@ -6296,7 +6296,6 @@ gnatlike
 gnatproof
 glyptographic
 gnats
-gnatsnap
 grume
 gonococcoid
 gnatter
@@ -8318,6 +8317,7 @@ grippes
 grata
 graminicolous
 gratae
+gnatsnap
 girdlingly
 grate
 grateful
