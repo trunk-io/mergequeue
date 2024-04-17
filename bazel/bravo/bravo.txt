@@ -1655,7 +1655,6 @@ buffets
 ballottine
 ballottines
 ballow
-blear
 ballpark
 ballplayer
 ballplayers
@@ -2535,6 +2534,7 @@ batster
 barfy
 barfing
 britzka
+blear
 barfish
 barfs
 bargain

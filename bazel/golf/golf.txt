@@ -729,6 +729,7 @@ gallovidian
 gallow
 galloway
 gallowglass
+glint
 gallows
 glar
 gallowses
@@ -5555,7 +5556,6 @@ glinse
 gesten
 granularity
 gregory
-glint
 grandmotherliness
 glinting
 glioma
