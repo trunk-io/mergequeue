@@ -10655,7 +10655,6 @@ chimed
 chimer
 chimera
 criosphinges
-chimeral
 chimeras
 chanteys
 chimere
@@ -22034,6 +22033,7 @@ conflictive
 conflictless
 conflictory
 conflicts
+chimeral
 conflictual
 conflow
 confluent
