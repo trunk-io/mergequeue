@@ -6352,7 +6352,6 @@ flunkey
 fullback
 flunkeyhood
 flunkeyistic
-flightshot
 flunker
 foetid
 flunky
@@ -6745,6 +6744,7 @@ foolship
 fogman
 fogmen
 fuseless
+flightshot
 fogo
 fogon
 frenzic
