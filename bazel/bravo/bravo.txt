@@ -1974,7 +1974,6 @@ bandoleros
 bandolier
 blellum
 bixa
-bandoline
 bandonion
 bandor
 bandora
@@ -10598,6 +10597,7 @@ bleachery
 bleacheries
 bleacherite
 bleacherman
+bandoline
 bleachers
 bleaches
 bleachfield
