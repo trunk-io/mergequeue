@@ -13362,7 +13362,6 @@ brushing
 botonnee
 blastomycosis
 botry
-botrychium
 botrycymose
 botrydium
 botrylle
@@ -16111,6 +16110,7 @@ broombush
 broomcorn
 broomed
 broomer
+botrychium
 betrough
 bugproof
 broomiest
