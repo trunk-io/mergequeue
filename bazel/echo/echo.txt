@@ -5739,6 +5739,7 @@ endues
 england
 englander
 englanders
+establishments
 englante
 engle
 engleim
@@ -8781,7 +8782,6 @@ equisignal
 epicyclic
 equisonance
 equispatial
-establishments
 extradicting
 equitability
 equitableness
