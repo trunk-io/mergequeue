@@ -6882,6 +6882,7 @@ bertie
 bertillonage
 bertin
 bertolonia
+bioacoustics
 bertram
 bertrand
 bertrum
@@ -8924,7 +8925,6 @@ binucleated
 binucleolate
 binukau
 bioaccumulation
-bioacoustics
 bioactivities
 bioassaying
 bioastronautical
