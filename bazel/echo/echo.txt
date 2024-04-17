@@ -3827,7 +3827,6 @@ enscale
 emer
 emerald
 emeraldine
-emeralds
 emeras
 emeraude
 emerge
@@ -12684,6 +12683,7 @@ eczematization
 emda
 envermeil
 exodus
+emeralds
 exoenzyme
 expulsory
 exogamic
