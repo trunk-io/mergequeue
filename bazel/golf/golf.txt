@@ -6776,7 +6776,6 @@ giroflore
 gomphodont
 gomphoses
 gomukhi
-gon
 gimmerpet
 gonadal
 gonadial
@@ -9124,6 +9123,7 @@ gripier
 gripman
 girderless
 gripmen
+gon
 gripment
 gryposis
 grypotherium
