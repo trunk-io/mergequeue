@@ -924,7 +924,6 @@ absences
 absent
 ascochyta
 absentation
-absented
 absentee
 absentees
 absenter
@@ -17750,6 +17749,7 @@ anthophore
 antilogy
 appetiser
 appetising
+absented
 appetit
 appetite
 appetition
