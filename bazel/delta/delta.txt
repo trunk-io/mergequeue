@@ -2542,6 +2542,7 @@ declinal
 declinational
 declinations
 declinator
+domesticate
 declinatory
 declinature
 decline
@@ -15312,7 +15313,6 @@ domesdays
 domesticability
 domesticality
 domestically
-domesticate
 domesticated
 domesticates
 domesticating
