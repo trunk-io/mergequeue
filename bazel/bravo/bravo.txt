@@ -3666,7 +3666,6 @@ bathoses
 brachiated
 bathrobe
 bathrobes
-balneophysiology
 bathroom
 bathroomed
 bathrooms
@@ -12656,6 +12655,7 @@ bookhood
 booky
 bookie
 bookiness
+balneophysiology
 bookings
 bookishly
 batiste
