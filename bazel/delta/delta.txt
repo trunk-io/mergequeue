@@ -3574,6 +3574,7 @@ defunct
 defunction
 dollface
 defunctionalization
+disenchanter
 defunctionalize
 defunctive
 defuse
@@ -11963,7 +11964,6 @@ disenact
 disenamor
 disenchant
 disenchanted
-disenchanter
 disenchanting
 disenchantingly
 disenchantments
