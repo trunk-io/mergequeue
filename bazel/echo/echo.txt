@@ -1704,7 +1704,6 @@ eyases
 eyass
 eichhornia
 eichwaldite
-eicosane
 eide
 eydent
 eider
@@ -7141,6 +7140,7 @@ enuresises
 equiform
 enurny
 env
+eicosane
 eventuations
 envaye
 esogastritis
