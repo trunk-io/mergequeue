@@ -1631,7 +1631,6 @@ gangland
 gasoliers
 gasoline
 gasoliner
-germiparity
 gasolines
 gasometry
 gastrodisc
@@ -6372,6 +6371,7 @@ go
 goa
 grammar
 gorgonaceous
+germiparity
 grammaticize
 glycosidic
 garibaldi
