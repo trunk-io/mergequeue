@@ -992,7 +992,6 @@ eczema
 erythroblastotic
 eczematoid
 eidolology
-endodontic
 enervative
 eczematosis
 eczematous
@@ -10386,6 +10385,7 @@ ethynes
 ethinyl
 ethynyl
 ethinyls
+endodontic
 exponence
 ethynyls
 ethiodide
