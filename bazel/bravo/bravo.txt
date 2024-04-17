@@ -3090,6 +3090,7 @@ breachy
 bonitas
 backrests
 barwal
+benzophenoxazine
 badminton
 barware
 barwares
@@ -6498,7 +6499,6 @@ benzophenazine
 benzophenol
 benzophenone
 benzophenothiazine
-benzophenoxazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
