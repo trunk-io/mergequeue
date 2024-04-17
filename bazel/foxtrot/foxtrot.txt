@@ -130,6 +130,7 @@ fairlike
 fackeltanz
 flajolotite
 fackins
+fem
 facks
 faconde
 faconne
@@ -2229,7 +2230,6 @@ felts
 feltwort
 felucca
 felwort
-fem
 femaleness
 females
 femality
