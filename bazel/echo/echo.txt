@@ -2497,7 +2497,6 @@ entering
 electromagnetical
 engines
 echoist
-electromagnetics
 electromagnetism
 electromagnetist
 escalloping
@@ -11787,6 +11786,7 @@ examinable
 examinant
 exocannibalism
 enscrolled
+electromagnetics
 examinationism
 examinationist
 examinator
