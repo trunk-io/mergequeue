@@ -15498,6 +15498,7 @@ bryologies
 bryologist
 bisso
 briony
+bichromatic
 bryony
 bryonia
 bryonidin
@@ -16445,7 +16446,6 @@ brutalising
 brontometer
 brutalism
 brutalist
-bichromatic
 brutalitarian
 brutalitarianism
 brutality
