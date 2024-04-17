@@ -2204,7 +2204,6 @@ gazetteership
 gremlin
 gazettes
 gazetting
-gazing
 gazingstock
 gazogene
 gazogenes
@@ -6163,6 +6162,7 @@ geodesics
 glutamates
 glutamic
 glutaminase
+gazing
 gallegan
 griots
 genesiac
