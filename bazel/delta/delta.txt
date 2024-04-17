@@ -14919,7 +14919,6 @@ dogbodies
 dogbush
 dogcart
 diathermacy
-dogcatcher
 digestive
 dogcatchers
 dogdom
@@ -15816,6 +15815,7 @@ deuteron
 dorsilateral
 dorsimeson
 deinodon
+dogcatcher
 dorsiparous
 disyllabize
 dorsipinal
