@@ -118,6 +118,7 @@ fromfile
 facility
 facilities
 facings
+fenmen
 francophile
 foldable
 functionally
@@ -2347,7 +2348,6 @@ ficaria
 fenetre
 fenks
 fenman
-fenmen
 furrings
 fennec
 flagitious
