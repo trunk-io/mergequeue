@@ -3628,7 +3628,6 @@ briquetted
 bathyscaphes
 bathyseism
 bathysmal
-bomarea
 bathysophic
 bathysophical
 bathysphere
@@ -15328,6 +15327,7 @@ briefly
 briefness
 bleeds
 bedstaves
+bomarea
 brier
 briered
 briery
