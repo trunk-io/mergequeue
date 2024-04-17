@@ -12096,7 +12096,6 @@ chout
 chowanoc
 chowchow
 chowchows
-chowder
 chowderheaded
 clockwork
 chowdering
@@ -23355,6 +23354,7 @@ contemning
 contemningly
 contemnor
 contemns
+chowder
 contemp
 contemper
 contemplable
