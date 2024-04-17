@@ -2989,7 +2989,6 @@ brei
 barrette
 barricader
 barricaders
-barricades
 bedplates
 barricado
 barricadoes
@@ -7075,6 +7074,7 @@ besmoothed
 besmoothing
 besmooths
 besmother
+barricades
 besmottered
 besmouch
 besmudge
