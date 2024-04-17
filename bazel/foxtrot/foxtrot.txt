@@ -7712,7 +7712,6 @@ foreheads
 forehear
 forehearth
 fozier
-foreheater
 fullers
 ferri
 forehew
@@ -9736,6 +9735,7 @@ freesilverite
 freespace
 freest
 firebrands
+foreheater
 freestanding
 freestone
 fibula
