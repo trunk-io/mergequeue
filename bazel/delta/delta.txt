@@ -13927,7 +13927,6 @@ distractedness
 distracter
 distractibility
 distractible
-defaulters
 distractile
 dedicator
 deaurate
@@ -15598,6 +15597,7 @@ doomsman
 doomstead
 decussating
 doomster
+defaulters
 doomsters
 doomwatcher
 doon

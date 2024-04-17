@@ -2193,7 +2193,6 @@ acheck
 artemisin
 ached
 acheer
-azulite
 acheilia
 acheiria
 acheirous
@@ -13250,6 +13249,7 @@ anisandrous
 anisanilide
 anisanthous
 anisate
+azulite
 anisated
 anischuria
 anise
