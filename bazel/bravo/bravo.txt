@@ -406,6 +406,7 @@ burrer
 biradiated
 backlog
 backlogged
+bethank
 backlogging
 backmost
 backoff
@@ -7391,7 +7392,6 @@ betelnut
 betelnuts
 betels
 betes
-bethank
 bethanked
 bethanking
 bethankit
