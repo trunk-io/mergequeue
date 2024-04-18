@@ -3509,7 +3509,6 @@ forel
 fighteress
 fanwort
 fighting
-fightingly
 fights
 foundation
 figitidae
@@ -7376,6 +7375,7 @@ featous
 footlessly
 forbidden
 foobar
+fightingly
 forbiddenly
 focometry
 fissidens
