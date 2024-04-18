@@ -330,6 +330,7 @@ filar
 flyness
 fag
 flagboat
+feint
 fagaceae
 fagald
 fisk
@@ -5076,7 +5077,6 @@ forellenstein
 frothi
 flashness
 flashover
-feint
 florigens
 fructure
 foodservices
