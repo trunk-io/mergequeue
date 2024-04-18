@@ -5241,6 +5241,7 @@ gte
 glathsheimr
 gigglish
 glauber
+guichet
 glauberite
 glaucescent
 glaucidium
@@ -10136,7 +10137,6 @@ guianan
 guyandot
 guianese
 gangflower
-guichet
 guidable
 guidance
 guide
