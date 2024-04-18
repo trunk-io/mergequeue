@@ -2230,7 +2230,6 @@ fligger
 foretypified
 felspars
 felspath
-felspathose
 felstone
 felstones
 framers
@@ -4377,6 +4376,7 @@ fisherman
 flammably
 fisherwoman
 fishes
+felspathose
 fishet
 fishfinger
 fluxionary
