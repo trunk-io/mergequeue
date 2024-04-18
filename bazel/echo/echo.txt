@@ -5039,7 +5039,6 @@ endoangiitis
 exemplum
 endoaortitis
 endoappendicitis
-endoarteritis
 enamelled
 elan
 endoauscultation
@@ -11375,6 +11374,7 @@ evaporated
 evaporates
 enemylike
 evaporating
+endoarteritis
 evaporation
 exams
 evaporations
