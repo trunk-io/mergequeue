@@ -2237,7 +2237,6 @@ baptizement
 baptizer
 baptizers
 buggyman
-blender
 baptizing
 bar
 barabara
@@ -14635,6 +14634,7 @@ brassworker
 brassworks
 brast
 brat
+blender
 bratina
 bratling
 bratstvo
