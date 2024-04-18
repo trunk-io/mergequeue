@@ -3009,7 +3009,6 @@ geoagronomic
 geobiont
 geoblast
 geobotany
-galivant
 geobotanic
 goitre
 glutetei
@@ -4253,6 +4252,7 @@ gymnasts
 grapplement
 geronomite
 gymnic
+galivant
 gymnical
 ginkgoaceous
 gymnoblastea
