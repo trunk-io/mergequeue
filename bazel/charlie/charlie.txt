@@ -9828,7 +9828,6 @@ chemicocautery
 chemicodynamic
 chemicoluminescence
 chemicoluminescent
-chemicomechanical
 chemicomineralogical
 chemicopharmaceutical
 chemicophysical
@@ -28584,6 +28583,7 @@ cremaster
 cremasterial
 cremasteric
 cremate
+chemicomechanical
 cremates
 crosspoints
 cremating
