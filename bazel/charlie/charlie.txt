@@ -14368,7 +14368,6 @@ circumplect
 circumplicate
 circumplication
 circumpolar
-circumpolygon
 circumpose
 circumposition
 condite
@@ -22261,6 +22260,7 @@ congoes
 congoese
 coroplasty
 congolese
+circumpolygon
 congoleum
 congou
 congous
