@@ -3331,7 +3331,6 @@ geratology
 geratologous
 gerb
 gerbe
-gypsography
 gerbera
 gardencraft
 gerbil
@@ -8589,6 +8588,7 @@ greedyguts
 greedless
 greedsome
 greegree
+gypsography
 greegrees
 greek
 greekdom
