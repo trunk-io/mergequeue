@@ -4646,7 +4646,6 @@ giraffidae
 giraffine
 garlicky
 gyral
-gyrant
 ghetti
 gigantine
 girasol
@@ -5388,6 +5387,7 @@ glaucophane
 glib
 glibber
 grippy
+gyrant
 gorilla
 glibly
 glibness
