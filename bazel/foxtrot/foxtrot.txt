@@ -3784,7 +3784,6 @@ filmcard
 filmcards
 filmdom
 firebases
-fireflies
 filmer
 forepost
 forborn
@@ -8098,6 +8097,7 @@ flue
 flowerets
 forestwards
 foresummon
+fireflies
 foreswear
 foreswearing
 funkiest
