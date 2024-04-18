@@ -9632,7 +9632,6 @@ cheesebox
 cheeseburger
 cheeseburgers
 cheesecake
-cheesecakes
 cheesecloth
 cheesecloths
 cheesecurd
@@ -10212,6 +10211,7 @@ chiaroscuro
 chiaroscuros
 chias
 chiasm
+cheesecakes
 chiasma
 chiasmal
 chiasmas
