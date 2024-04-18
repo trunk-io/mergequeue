@@ -2201,7 +2201,6 @@ achen
 achene
 achenes
 achenial
-achenium
 achernar
 acheron
 acheronian
@@ -16979,6 +16978,7 @@ apiarist
 apiarists
 adolescently
 apiator
+achenium
 apically
 apices
 apician
