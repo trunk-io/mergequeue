@@ -2068,6 +2068,7 @@ feigns
 feijoa
 fourpounder
 feil
+frontspiece
 forerunnership
 feinschmecker
 filacer
@@ -4803,7 +4804,6 @@ flagmen
 fellers
 flagons
 fasciolaria
-frontspiece
 flagpole
 faena
 faunula
