@@ -2942,7 +2942,6 @@ bunco
 barrenness
 bullring
 barrenwort
-barrer
 blockaderunning
 barres
 babuls
@@ -6393,6 +6392,7 @@ benzamido
 benzamine
 benzaminic
 benzamino
+barrer
 bantamweight
 benzanalgen
 benzanilide
