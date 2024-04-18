@@ -338,6 +338,7 @@ ebcd
 ebcdic
 ebdomade
 eben
+experts
 ebenaceae
 ebenaceous
 ebenales
@@ -1769,7 +1770,6 @@ eliding
 eyelessness
 eyelet
 eyeleted
-experts
 eyelets
 eyeletted
 eyeletting
