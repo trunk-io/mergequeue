@@ -382,7 +382,6 @@ faqirs
 firmisternial
 faintly
 ferrymen
-faintling
 faintness
 faints
 faipule
@@ -6994,6 +6993,7 @@ followingly
 floppers
 followings
 fomalhaut
+faintling
 frogface
 fomentations
 fidley
