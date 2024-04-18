@@ -1922,6 +1922,7 @@ fecundity
 falcinellus
 fecundize
 fundless
+feltyfare
 fed
 facets
 frs
@@ -2235,7 +2236,6 @@ farmhouses
 felt
 felted
 felter
-feltyfare
 feltyflier
 felting
 feltings
