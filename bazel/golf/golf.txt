@@ -3660,7 +3660,6 @@ gigas
 ghassanid
 ghast
 ghastfully
-ghastfulness
 gingersnap
 glazement
 glassblowing
@@ -7037,6 +7036,7 @@ goofball
 goofballs
 goofer
 goofy
+ghastfulness
 goofiness
 goofing
 goog
