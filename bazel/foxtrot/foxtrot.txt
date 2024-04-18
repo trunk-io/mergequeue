@@ -10048,6 +10048,7 @@ farrow
 fleshhook
 friezer
 frigage
+funfairs
 frigate
 frigates
 frigatoon
@@ -11205,7 +11206,6 @@ freeloaders
 funerealness
 funestal
 funfair
-funfairs
 featherway
 funfest
 flashtester
