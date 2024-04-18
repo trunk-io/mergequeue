@@ -11,7 +11,6 @@ aam
 ammiral
 autoimmunities
 aani
-aardvark
 aardvarks
 aardwolf
 archerfish
@@ -23992,6 +23991,7 @@ autodermic
 autodestruction
 autodiagnosis
 autodiagnostic
+aardvark
 autodiagrammatic
 autodial
 adobe
