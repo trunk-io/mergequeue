@@ -5470,6 +5470,7 @@ behearse
 beheira
 bandlimit
 behelp
+bolter
 behemoth
 behemothic
 behemoths
@@ -12222,7 +12223,6 @@ boltcutter
 buckstay
 bolted
 bowenite
-bolter
 bolters
 boltheader
 behold
