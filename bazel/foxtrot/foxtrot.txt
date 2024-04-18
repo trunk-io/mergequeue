@@ -1783,7 +1783,6 @@ featherbedded
 featherbird
 featherbrained
 feathercut
-feathered
 falconiformes
 fibropsammoma
 featheredge
@@ -9313,6 +9312,7 @@ fizzier
 fragmentise
 fragmentising
 fragmentist
+feathered
 frivolers
 fragmentizing
 forsakers
