@@ -1752,7 +1752,6 @@ gastrocnemius
 gastrocoel
 gastrocolic
 goriest
-gastrocoloptosis
 gastrocolostomy
 gastrocolotomy
 gastrodermal
@@ -3089,6 +3088,7 @@ geognostical
 geognostically
 galloped
 geographers
+gastrocoloptosis
 gurge
 grenadian
 geographical
