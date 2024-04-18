@@ -6661,7 +6661,6 @@ ahungry
 arboretum
 ahunt
 ahura
-ahurewa
 ahush
 ahuula
 ahwal
@@ -22643,6 +22642,7 @@ athwartship
 athwartships
 athwartwise
 ablating
+ahurewa
 arhar
 atikokania
 atilt
