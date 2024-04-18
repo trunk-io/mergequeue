@@ -2905,7 +2905,6 @@ fossilification
 fusarium
 fettled
 foxship
-fettles
 frabjously
 fettlings
 freighted
@@ -5316,6 +5315,7 @@ fleak
 fg
 fleamy
 fleams
+fettles
 faverel
 fleas
 fulgurator
