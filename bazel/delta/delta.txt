@@ -12116,7 +12116,6 @@ disfavoring
 davoch
 disfavour
 disfavoured
-disfavourer
 disfavouring
 disfeature
 disfeatured
@@ -17001,6 +17000,7 @@ dreigh
 dreikanter
 dreikanters
 dreiling
+disfavourer
 dreint
 dreynt
 dreissiger
