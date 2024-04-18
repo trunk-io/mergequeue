@@ -8838,7 +8838,6 @@ chaplaincies
 chaplains
 chaplanry
 chapless
-chaplet
 chapleted
 chaplets
 chapman
@@ -25262,6 +25261,7 @@ chaplainship
 cornbole
 cornbottle
 commemorating
+chaplet
 cornbread
 corncake
 causeways
