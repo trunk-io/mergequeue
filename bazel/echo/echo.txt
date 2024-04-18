@@ -1485,7 +1485,6 @@ effumability
 effume
 emulsionize
 effund
-effuse
 extrications
 effused
 effusely
@@ -4100,6 +4099,7 @@ euthanasia
 empyemas
 empyemata
 empyemic
+effuse
 empierce
 empiercement
 empyesis

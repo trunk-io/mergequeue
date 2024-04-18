@@ -3042,7 +3042,6 @@ digraphic
 ditheists
 deerhair
 disacknowledge
-dinobryon
 deerherd
 deerhorn
 dragonfish
@@ -6455,6 +6454,7 @@ desalinator
 desalinize
 dendrogaean
 desalinized
+dinobryon
 decadenza
 desalt
 desalted
