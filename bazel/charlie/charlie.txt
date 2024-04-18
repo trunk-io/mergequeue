@@ -11373,7 +11373,6 @@ cloudlessly
 counterpillar
 chlorosilicate
 chlorosis
-chlorospinel
 chlorosulphonic
 chlorotic
 chlorotically
@@ -22225,6 +22224,7 @@ conglobation
 congenerousness
 conglobe
 conglobed
+chlorospinel
 conglobes
 conglobing
 conglomerate
