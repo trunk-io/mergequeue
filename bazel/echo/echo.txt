@@ -2234,6 +2234,7 @@ eleanor
 eleazar
 elec
 elecampane
+endocytic
 expilation
 enameller
 enterprises
@@ -6866,7 +6867,6 @@ entoiling
 entoils
 entoloma
 entom
-endocytic
 episternalia
 expressionful
 entombed
