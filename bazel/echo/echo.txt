@@ -12341,7 +12341,6 @@ echoes
 exemplarity
 exemplars
 exempli
-embodier
 exemplify
 evocatrix
 exemplification
@@ -12426,6 +12425,7 @@ exflect
 exfodiation
 exfoliate
 endower
+embodier
 exfoliated
 exfoliating
 eurasian

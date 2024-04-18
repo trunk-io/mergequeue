@@ -119,7 +119,6 @@ fromfile
 facility
 facilities
 facings
-fenmen
 francophile
 foldable
 functionally
@@ -9386,6 +9385,7 @@ fingu
 fishmen
 frampold
 franca
+fenmen
 france
 frontward
 frances
