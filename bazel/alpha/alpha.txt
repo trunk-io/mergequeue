@@ -2869,7 +2869,6 @@ acrobryous
 acrocarpi
 alfridaric
 acrocarpous
-acrocentric
 assassinator
 acrocephaly
 acrocephalia
@@ -13629,6 +13628,7 @@ announces
 announcing
 annualize
 archeol
+acrocentric
 annualized
 annually
 annuals
