@@ -5080,6 +5080,7 @@ bicentenaries
 befathered
 befavor
 befavour
+biglenoid
 befeather
 befell
 beferned
@@ -8396,7 +8397,6 @@ bight
 bighted
 bighting
 bights
-biglenoid
 belabouring
 biglot
 baryphony
