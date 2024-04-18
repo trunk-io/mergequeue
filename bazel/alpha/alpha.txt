@@ -5149,7 +5149,6 @@ aes
 aesc
 aeschylean
 aeschylus
-astronauts
 aeschynite
 aeschynomene
 aeschynomenous
@@ -11847,6 +11846,7 @@ anangular
 autoantitoxin
 ananias
 addable
+astronauts
 ananym
 ananism
 ananite
