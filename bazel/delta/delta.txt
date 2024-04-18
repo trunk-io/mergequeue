@@ -15617,7 +15617,6 @@ doorposts
 dowl
 dawdle
 doorsill
-doorsills
 doorstead
 didactics
 doorstep
@@ -18215,6 +18214,7 @@ dumbfish
 dunghills
 djakarta
 diaphototropic
+doorsills
 dungy
 dungier
 dungiest
