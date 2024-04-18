@@ -728,7 +728,6 @@ abortive
 acusection
 abortiveness
 abortogenic
-aborts
 abortus
 antiaesthetic
 abos
@@ -2100,6 +2099,7 @@ aquincubitalism
 acetobenzoic
 acetol
 acetolysis
+aborts
 acetolytic
 acetometer
 acetometry
