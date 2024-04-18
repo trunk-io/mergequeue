@@ -501,7 +501,6 @@ galeorhinus
 gamont
 goblinry
 garcons
-galera
 galere
 galeres
 galericulate
@@ -5946,6 +5945,7 @@ glosts
 glottal
 grapsoid
 gattine
+galera
 glottalization
 girl
 glottalize
