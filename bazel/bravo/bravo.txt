@@ -1929,7 +1929,6 @@ banditti
 bandle
 bandleader
 bandless
-bejabers
 blastoff
 bandlet
 bandlimited
@@ -17840,6 +17839,7 @@ biotechs
 burrito
 burritos
 bordellos
+bejabers
 bellowed
 burrknot
 burro
