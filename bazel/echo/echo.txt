@@ -4341,7 +4341,6 @@ enactors
 enacture
 enaena
 enajim
-enalid
 effeminated
 enaliornis
 enaliosaurian
@@ -12890,6 +12889,7 @@ expandable
 expanded
 escropulo
 expandedly
+enalid
 expandedness
 expanders
 educabilia
