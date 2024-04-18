@@ -2388,7 +2388,6 @@ deciliters
 decilitre
 dripstick
 disaffects
-decillionth
 doeskin
 decima
 decimalise
@@ -13102,6 +13101,7 @@ displayed
 displayer
 displaying
 displays
+decillionth
 defectology
 disentanglements
 doucely
