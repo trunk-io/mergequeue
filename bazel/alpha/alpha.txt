@@ -1216,7 +1216,6 @@ academie
 academies
 academised
 academising
-academism
 academist
 academite
 academization
@@ -22810,6 +22809,7 @@ alcelaphus
 atopen
 atophan
 atopy
+academism
 atopic
 atopite
 atorai
