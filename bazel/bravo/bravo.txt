@@ -2427,7 +2427,6 @@ barbwire
 barbwires
 ballyhooer
 bullpout
-barcarole
 betatter
 barcaroles
 becut
@@ -17079,6 +17078,7 @@ bullboat
 bullcart
 brownprint
 bullcomber
+barcarole
 bulldog
 blabby
 barrel
