@@ -9145,6 +9145,7 @@ almoners
 almonership
 almonry
 almonries
+apinch
 almoravid
 almoravide
 almoravides
@@ -17026,7 +17027,6 @@ apina
 aciculated
 armillated
 apinae
-apinch
 aping
 apio
 apioceridae
