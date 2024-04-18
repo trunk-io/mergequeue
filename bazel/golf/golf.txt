@@ -1083,6 +1083,7 @@ gandurah
 ganef
 ganevs
 guillotinade
+guerdon
 gang
 ganga
 gangamopteris
@@ -2435,7 +2436,6 @@ gelatinizer
 gelatinizing
 gallanting
 gelatinobromide
-guerdon
 gelatinoid
 gadbee
 gaelicize
