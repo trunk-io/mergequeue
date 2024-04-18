@@ -4485,7 +4485,6 @@ graces
 gunky
 greengrocer
 ginglymostomoid
-ginglymus
 ginglyni
 glarily
 glaive
@@ -8413,6 +8412,7 @@ genecologist
 gravelled
 gravelly
 geoglyphic
+ginglymus
 gravelliness
 gravelling
 goshdarn
