@@ -10895,7 +10895,6 @@ fulgent
 forelocks
 fulgently
 fulgentness
-fulgid
 fulgide
 fulgidity
 fulgor
@@ -11609,6 +11608,7 @@ fusinist
 floodometer
 fusional
 fenestra
+fulgid
 fusionism
 fusionist
 fusionless
