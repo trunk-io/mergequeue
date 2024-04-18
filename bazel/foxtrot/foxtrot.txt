@@ -345,7 +345,6 @@ flaxdrop
 failure
 failures
 factish
-fain
 fainaigue
 fainaigued
 faucial
@@ -7042,6 +7041,7 @@ fone
 fonly
 fonnish
 fermentum
+fain
 fono
 fons
 fontal
