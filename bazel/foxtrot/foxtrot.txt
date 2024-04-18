@@ -4436,7 +4436,6 @@ fringilliformes
 fishworm
 fisnoga
 frostbound
-fissidactyl
 fissidentaceous
 fissile
 fissilinguia
@@ -5280,6 +5279,7 @@ flimmer
 fleabag
 fusible
 fleabags
+fissidactyl
 fleabane
 fleabite
 fleabites
