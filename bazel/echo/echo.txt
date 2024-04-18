@@ -2742,7 +2742,6 @@ exotropism
 explorations
 eleme
 elytrous
-esdras
 eutropic
 elementalism
 elementalist
@@ -9363,6 +9362,7 @@ erratic
 erratical
 erratically
 endosmos
+esdras
 erraticalness
 erraticism
 erred
