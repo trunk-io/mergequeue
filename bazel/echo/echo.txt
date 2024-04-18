@@ -8561,7 +8561,6 @@ equalized
 equalizer
 equalizers
 equalizes
-equaller
 equally
 equalling
 equals
@@ -11408,6 +11407,7 @@ evasiveness
 ergatoid
 encephalomeric
 eve
+equaller
 evea
 eveck
 eelbob
