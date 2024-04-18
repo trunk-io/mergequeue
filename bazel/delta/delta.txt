@@ -11964,6 +11964,7 @@ disenchanting
 disenchantments
 daglock
 deities
+druidry
 disenchantress
 disencharm
 drip
@@ -17567,7 +17568,6 @@ druidical
 decolorise
 dissemilative
 druidisms
-druidry
 druids
 druith
 dissimulator
