@@ -874,7 +874,6 @@ bagels
 bagful
 bagfuls
 barbaric
-baggageman
 baggagemaster
 baggager
 benzidin
@@ -15202,6 +15201,7 @@ bobac
 brickmaker
 brickmaking
 brickmason
+baggageman
 brockage
 bethylid
 bricktimber
