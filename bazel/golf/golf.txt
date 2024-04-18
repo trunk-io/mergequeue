@@ -3103,7 +3103,6 @@ geologized
 geologizing
 geomagnetic
 geomagnetically
-geomagnetics
 guestless
 glassed
 geomagnetist
@@ -8259,6 +8258,7 @@ grasses
 grasset
 goosishness
 grubstaked
+geomagnetics
 galleypot
 grassfire
 getters
