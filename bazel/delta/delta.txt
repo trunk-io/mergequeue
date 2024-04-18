@@ -1014,7 +1014,6 @@ darklier
 darkliest
 draffsack
 darkling
-darklings
 darkmans
 disannexation
 darknesses
@@ -7194,6 +7193,7 @@ detection
 detective
 daeva
 detectives
+darklings
 detectivism
 detector
 detectors
