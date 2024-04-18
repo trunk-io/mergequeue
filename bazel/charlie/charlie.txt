@@ -11948,7 +11948,6 @@ choriocapillaris
 choriocarcinoma
 counterculturist
 choriocarcinomas
-choriocarcinomata
 choriocele
 chorioepithelioma
 chorioepitheliomas
@@ -16082,6 +16081,7 @@ cliency
 client
 clientage
 cliental
+choriocarcinomata
 cliented
 clientelage
 clienteles
