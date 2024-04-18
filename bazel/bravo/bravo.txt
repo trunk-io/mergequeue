@@ -1438,6 +1438,7 @@ balers
 bales
 boun
 balestra
+baloo
 balete
 bali
 balian
@@ -1708,7 +1709,6 @@ balonea
 baloney
 baloneys
 bryan
-baloo
 balopticon
 burghermaster
 balor
