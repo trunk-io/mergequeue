@@ -4742,6 +4742,7 @@ folie
 flagellula
 flagellulae
 fortressed
+flickeringly
 flagellum
 flageolet
 fannings
@@ -5542,7 +5543,6 @@ flicked
 formication
 flicker
 flickered
-flickeringly
 flickermouse
 flossa
 flickers
