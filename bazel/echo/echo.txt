@@ -8630,6 +8630,7 @@ equid
 equidiagonal
 equidifferent
 equidimensional
+escapades
 equidist
 equidistance
 ectal
@@ -13802,7 +13803,6 @@ extracosmical
 erlkings
 extracostal
 ethnozoological
-escapades
 equivocation
 experienceable
 extractability
