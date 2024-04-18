@@ -910,7 +910,6 @@ grandam
 gymnoblastic
 giddies
 gamboling
-gambolled
 gambols
 gambreled
 gambrels
@@ -6823,6 +6822,7 @@ goners
 gonesome
 gonfalcon
 gammaridae
+gambolled
 glowed
 gonfalons
 gonfanon
