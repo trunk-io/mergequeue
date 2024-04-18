@@ -1263,7 +1263,6 @@ cathartin
 calyciferous
 calycifloral
 calyciflorate
-calyciflorous
 cyclopaedically
 caliciform
 calycinal
@@ -21262,6 +21261,7 @@ conched
 concher
 conches
 cunonia
+calyciflorous
 conchfishes
 conchy
 conchie
