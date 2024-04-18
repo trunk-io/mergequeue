@@ -13824,6 +13824,7 @@ cinemagoer
 cinemagoers
 cinemas
 cinemascope
+chartophylaxes
 cinematheque
 comakers
 cinematheques
@@ -28194,7 +28195,6 @@ craspedal
 craspedodromous
 craves
 craspedota
-chartophylaxes
 cartels
 craspedotal
 calcar
