@@ -4563,6 +4563,7 @@ advantageousness
 advantages
 accus
 advantaging
+antipruritic
 advect
 advected
 advecting
@@ -11326,7 +11327,6 @@ amplitude
 amplitudes
 amplitudinous
 ampollosity
-antipruritic
 accurate
 ampongue
 ampoule
