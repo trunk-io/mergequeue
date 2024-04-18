@@ -10938,7 +10938,6 @@ crost
 chirologist
 chiromancy
 chiromancist
-chiromant
 ceramic
 chiromantic
 chiromantical
@@ -25217,6 +25216,7 @@ corkir
 corkish
 crome
 corklike
+chiromant
 corkline
 corkmaking
 corks
