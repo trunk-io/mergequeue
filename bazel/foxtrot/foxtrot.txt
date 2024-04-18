@@ -3160,7 +3160,6 @@ flip
 fibroins
 fibrolipomatous
 fibrolite
-fibrolitic
 fibroma
 forgetable
 fibromatoid
@@ -4917,6 +4916,7 @@ fallback
 flamethrowers
 frankpledge
 fraternity
+fibrolitic
 flamy
 flyflower
 flamiest
