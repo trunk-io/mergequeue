@@ -7869,7 +7869,6 @@ forepoint
 forepointer
 forepole
 forepoled
-fruitions
 fardels
 forepossessed
 fortalice
@@ -11411,6 +11410,7 @@ furlana
 firbolg
 furler
 furlers
+fruitions
 furlong
 furlongs
 fiendliness
