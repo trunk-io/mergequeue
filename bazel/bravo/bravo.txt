@@ -2157,6 +2157,7 @@ banshie
 banshies
 banstickle
 bantay
+binary
 bantayan
 bidstand
 bantam
@@ -8807,7 +8808,6 @@ baconic
 bugologist
 byname
 binaphthyl
-binary
 binaries
 binate
 binately
