@@ -3364,7 +3364,6 @@ fied
 fiedlerite
 fief
 foredeem
-fiefs
 forfeitable
 fiel
 fieldball
@@ -9271,6 +9270,7 @@ frae
 fraela
 fraena
 furcates
+fiefs
 fraenum
 foundationless
 foment
