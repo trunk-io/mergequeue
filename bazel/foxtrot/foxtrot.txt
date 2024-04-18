@@ -2356,7 +2356,6 @@ fendillation
 fending
 fopship
 fends
-fenerate
 filches
 fenestellid
 fenestellidae
@@ -10904,6 +10903,7 @@ fon
 fulgur
 fulgural
 floccular
+fenerate
 filicic
 fulgurata
 fulgurate
