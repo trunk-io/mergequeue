@@ -8870,7 +8870,6 @@ charabancs
 charac
 characeae
 characetum
-characid
 characids
 characin
 characine
@@ -29162,6 +29161,7 @@ crip
 crippied
 crippingly
 cripple
+characid
 crippledom
 crippleness
 crippler
