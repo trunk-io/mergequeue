@@ -9149,6 +9149,7 @@ coderive
 chartula
 chartulae
 chartulary
+coalface
 chartularies
 chartulas
 charvet
@@ -17139,7 +17140,6 @@ coalescency
 coalescent
 coalesces
 coalescing
-coalface
 coalfield
 coalfish
 coalfishes
