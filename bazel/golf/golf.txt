@@ -4748,7 +4748,6 @@ giro
 ganch
 glossae
 gyro
-gelid
 gyroceran
 gallery
 guildsman
@@ -9657,6 +9656,7 @@ ghanaians
 gaudies
 grueller
 gruellers
+gelid
 gruellings
 gruesome
 germens
