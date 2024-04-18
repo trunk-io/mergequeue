@@ -7197,7 +7197,6 @@ detectives
 detectivism
 detector
 detectors
-detects
 dizzied
 detenant
 desolately
@@ -15795,6 +15794,7 @@ dorsiflex
 dorsiflexion
 dorsigrade
 deuteron
+detects
 dorsilateral
 dorsimeson
 deinodon
