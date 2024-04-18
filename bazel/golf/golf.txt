@@ -2390,7 +2390,6 @@ gelandelaufer
 gymnodiniaceae
 gelant
 gelants
-gelastic
 gelate
 gelated
 gelates
@@ -6318,6 +6317,7 @@ gnomical
 gnomide
 gastroid
 gnomish
+gelastic
 gnomist
 gabert
 gnomologic
