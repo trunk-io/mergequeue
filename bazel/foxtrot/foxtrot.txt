@@ -5879,7 +5879,6 @@ flockings
 flitter
 facetiousness
 flocklike
-flockmaster
 footway
 fumigators
 florigraphy
@@ -8770,6 +8769,7 @@ faying
 fortuitously
 fortuitus
 frizzled
+flockmaster
 fortunate
 fortunately
 fortunateness
