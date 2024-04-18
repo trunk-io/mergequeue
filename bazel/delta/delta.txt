@@ -4481,7 +4481,6 @@ demele
 demembration
 demembre
 deonerate
-demency
 dobule
 dement
 dementate
@@ -15825,6 +15824,7 @@ dorsoepitrochlear
 dorsointercostal
 dorsolateral
 dorsolum
+demency
 dorsolumbar
 destinations
 dorsomedial
