@@ -5510,6 +5510,7 @@ aflight
 aflow
 acumen
 aflower
+amnionic
 adlegiare
 afluking
 adenemphraxis
@@ -10827,7 +10828,6 @@ amnionata
 amosite
 anhydric
 amnionia
-amnionic
 airtight
 amnions
 amnios
