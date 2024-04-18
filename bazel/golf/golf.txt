@@ -5278,7 +5278,6 @@ glave
 glaver
 glycidic
 gaudete
-glyptodontidae
 glavering
 glaze
 glazer
@@ -6394,6 +6393,7 @@ goar
 goasila
 goniale
 goat
+glyptodontidae
 goatbeard
 goatbrush
 gatepost
