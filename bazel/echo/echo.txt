@@ -5235,6 +5235,7 @@ embeam
 eupneic
 endoplastron
 endoplastular
+equiform
 endopleural
 east
 endopleurite
@@ -7124,7 +7125,6 @@ enures
 enureses
 evadible
 enuresises
-equiform
 enurny
 env
 eicosane
