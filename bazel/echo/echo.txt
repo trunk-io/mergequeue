@@ -8370,7 +8370,6 @@ epitheliomuscular
 epitheliosis
 enaliosaur
 epitheliotoxin
-epithelium
 epitheliums
 epithelization
 epidictic
@@ -13547,6 +13546,7 @@ experientially
 extemporizes
 extemporizing
 electrotheraputics
+epithelium
 eking
 extendability
 extended
