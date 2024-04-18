@@ -7759,7 +7759,6 @@ expos
 epidermical
 epidermically
 excisemen
-epidermidalization
 epidermis
 epidermization
 epidermolysis
@@ -8010,6 +8009,7 @@ epineuneuria
 epineural
 epineuria
 eomecon
+epidermidalization
 exemplifiable
 educationese
 epineurial
