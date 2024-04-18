@@ -1782,7 +1782,6 @@ debel
 diplasiasmus
 debellate
 debellator
-deben
 debenture
 debentured
 debentures
@@ -10596,6 +10595,7 @@ diplomas
 diplomat
 diplomata
 diplomate
+deben
 diplomates
 diplomatically
 diplomatique
