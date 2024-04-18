@@ -3396,7 +3396,6 @@ basophils
 basos
 basqued
 basques
-basquine
 bass
 bassa
 bassalia
@@ -7143,6 +7142,7 @@ bespeaking
 bespeaks
 bouzouki
 bespecked
+basquine
 bespeckle
 bespeckled
 bespecklement
