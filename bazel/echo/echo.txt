@@ -2923,7 +2923,6 @@ elicitors
 elicits
 expensefulness
 elide
-expolish
 enameloma
 egrimony
 exogastric
@@ -4287,6 +4286,7 @@ emulsible
 emulsify
 emulsifications
 efoveolate
+expolish
 entablatured
 emulsified
 entrechats
