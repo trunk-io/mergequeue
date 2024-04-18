@@ -4775,6 +4775,7 @@ gyrohorizon
 gyroidal
 gigantostraca
 gidgee
+goldsmithing
 ginny
 graphophobia
 gyrolith
@@ -9681,7 +9682,6 @@ gruyere
 gruiform
 gruiformes
 gruine
-goldsmithing
 gruys
 grumble
 georgiana
