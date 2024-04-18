@@ -12652,7 +12652,6 @@ angaries
 angas
 angdistis
 angeyok
-angekok
 aeronomist
 angel
 angela
@@ -13199,6 +13198,7 @@ actionable
 animateness
 animater
 animaters
+angekok
 animates
 animating
 animatingly
