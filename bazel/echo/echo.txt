@@ -6499,7 +6499,6 @@ epitomizer
 ensuable
 embolisms
 ensuant
-ensued
 ensues
 ensuingly
 ensurance
@@ -12330,6 +12329,7 @@ exegetist
 exemplar
 evertile
 echinostomiasis
+ensued
 exemplaric
 electromerism
 exemplarily
