@@ -5223,6 +5223,7 @@ gormless
 grief
 gluten
 glassmen
+goblinize
 glassophone
 glassrope
 glassteel
@@ -6126,7 +6127,6 @@ geometrised
 glumes
 glumiferous
 gaincome
-goblinize
 glumly
 glummer
 glummest
