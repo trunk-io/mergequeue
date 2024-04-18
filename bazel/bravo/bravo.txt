@@ -1587,7 +1587,6 @@ ballyragged
 ballyrags
 ballised
 ballism
-ballismus
 ballista
 bigoted
 ballistae
@@ -11506,6 +11505,7 @@ blurters
 blurting
 bedels
 blurts
+ballismus
 blush
 blushed
 blusher
