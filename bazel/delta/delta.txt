@@ -5012,7 +5012,6 @@ demotists
 demount
 demountability
 demountable
-demounted
 demounting
 demounts
 disgage
@@ -10706,6 +10705,7 @@ dippings
 dipppy
 dipppier
 dipppiest
+demounted
 downstater
 diprimary
 diprismatic
