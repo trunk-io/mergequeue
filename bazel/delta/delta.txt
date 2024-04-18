@@ -1467,7 +1467,6 @@ deaconry
 deacons
 deaconship
 deactivate
-deactivated
 deactivates
 discontinuing
 dicranoid
@@ -14333,6 +14332,7 @@ diverters
 denies
 divertibility
 diverticle
+deactivated
 diverticula
 diverticulate
 diverticulitis
