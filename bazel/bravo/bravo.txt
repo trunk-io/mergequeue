@@ -3246,7 +3246,6 @@ basify
 bathtub
 baccate
 borocalcite
-basification
 basifier
 basifies
 basifying
@@ -5234,6 +5233,7 @@ begay
 begalled
 begalls
 boarcite
+basification
 begani
 begar
 begari
