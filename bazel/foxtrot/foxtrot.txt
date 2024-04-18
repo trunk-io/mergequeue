@@ -125,7 +125,6 @@ facioplegia
 facit
 fluvioglacial
 fack
-fairlike
 fackeltanz
 flajolotite
 fackins
@@ -4577,6 +4576,7 @@ fitout
 fitroot
 finedrawing
 fits
+fairlike
 fittage
 fellagha
 fytte
