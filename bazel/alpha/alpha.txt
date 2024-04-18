@@ -20904,7 +20904,6 @@ asbolite
 ascanian
 ascanius
 ascape
-ascare
 ascared
 aphasias
 ascariasis
@@ -22972,6 +22971,7 @@ attaint
 attainted
 attainting
 attaintment
+ascare
 attaints
 attainture
 attal
