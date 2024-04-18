@@ -2531,7 +2531,6 @@ feroce
 ferocious
 ferociously
 ferrier
-flatboat
 fibromembranous
 forehorse
 frocks
@@ -6500,6 +6499,7 @@ flurt
 flush
 flushboard
 flushed
+flatboat
 flushers
 flushest
 face
