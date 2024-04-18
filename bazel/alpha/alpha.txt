@@ -3737,7 +3737,6 @@ adenoneural
 adenoneure
 adenopharyngeal
 adenopharyngitis
-adenophyma
 adenophlegmon
 adenophora
 amblyaphia
@@ -16110,6 +16109,7 @@ antiresonance
 antiresonator
 antirestoration
 antirevisionist
+adenophyma
 antirevolution
 antirevolutionary
 antirevolutionaries
