@@ -12193,7 +12193,6 @@ anchorlike
 anchorman
 anchormen
 asseverates
-anchors
 anchorwise
 anchoveta
 anchovy
@@ -17073,6 +17072,7 @@ affectedness
 angliae
 aplanatic
 aplanatism
+anchors
 ately
 aplanobacter
 aplanogamete
