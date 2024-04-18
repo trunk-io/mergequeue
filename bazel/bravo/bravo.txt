@@ -12693,7 +12693,6 @@ bookmarks
 bookmate
 bookmobile
 bookmobiles
-bookplate
 bookplates
 barwise
 bookpress
@@ -17949,6 +17948,7 @@ bushelfuls
 beseeched
 busheling
 bushelled
+bookplate
 bushelling
 bushelman
 bushelmen
