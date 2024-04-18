@@ -6305,6 +6305,7 @@ fluke
 fluked
 filix
 feridgi
+framea
 flukes
 flukeworm
 flukewort
@@ -9357,7 +9358,6 @@ framable
 frambesia
 frame
 frowzily
-framea
 filleting
 flavorlessness
 framer

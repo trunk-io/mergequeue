@@ -3218,6 +3218,7 @@ caponette
 caponier
 caponiere
 caponiers
+cartoned
 caponisation
 calabash
 caponise
@@ -18169,7 +18170,6 @@ cofactors
 cofane
 cofaster
 cofather
-cartoned
 cofathership
 cofeature
 cofeatures
