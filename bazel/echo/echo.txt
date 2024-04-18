@@ -7554,7 +7554,6 @@ ephthalite
 estall
 ephthianura
 encroaches
-epibaterium
 epibatholithic
 euskera
 epibatus
@@ -9101,6 +9100,7 @@ eriometer
 extraspherical
 erionite
 eriophyid
+epibaterium
 eriophyidae
 eriophyllous
 eryopid
