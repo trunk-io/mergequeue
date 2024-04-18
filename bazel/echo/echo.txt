@@ -6214,6 +6214,7 @@ enqueue
 entered
 enqueued
 enqueues
+enticeable
 enquicken
 enquire
 eten
@@ -6790,7 +6791,6 @@ experiencible
 eta
 enthusiastly
 excellences
-enticeable
 enticements
 earwiggy
 enticer
