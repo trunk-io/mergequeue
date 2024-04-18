@@ -2247,7 +2247,6 @@ feltmaker
 ferbams
 feltmaking
 feltman
-foulard
 foredeep
 feltmonger
 furfuran
@@ -5061,6 +5060,7 @@ fishiest
 flashforward
 fubbing
 flashgun
+foulard
 flashguns
 flashy
 flashiest
