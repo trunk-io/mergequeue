@@ -6011,7 +6011,6 @@ cats
 catskill
 coll
 catskin
-catslide
 catso
 catsos
 catspaw
@@ -21866,6 +21865,7 @@ conferrers
 conferring
 counterstain
 conferruminate
+catslide
 confers
 conferted
 conferva
