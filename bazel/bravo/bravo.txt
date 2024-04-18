@@ -3728,6 +3728,7 @@ battable
 battailant
 browntop
 battak
+blackest
 bally
 battakhin
 battalias
@@ -10119,7 +10120,6 @@ blackener
 blackening
 baronetical
 blackens
-blackest
 blacketeer
 blackface
 blackfeet
