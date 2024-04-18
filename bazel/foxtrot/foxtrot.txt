@@ -3552,7 +3552,6 @@ figurato
 folioliferous
 figure
 figured
-figuredly
 figureheadless
 fairylands
 forcepses
@@ -4178,6 +4177,7 @@ faithwise
 firebombs
 forestery
 fireboot
+figuredly
 firebox
 frogflower
 familiarism
