@@ -5874,7 +5874,6 @@ grenado
 glossemes
 glossemic
 girondism
-glosser
 glossers
 glosses
 glossy
@@ -9318,6 +9317,7 @@ groomy
 glazieries
 gpss
 gambrel
+glosser
 gadis
 groomlet
 gifts
