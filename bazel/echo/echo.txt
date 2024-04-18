@@ -8751,6 +8751,7 @@ ensiferi
 equipotential
 equipotentiality
 equipped
+electrostereotype
 equiprobability
 equiprobable
 equiprobably
@@ -10543,7 +10544,6 @@ etiam
 etymic
 etymologer
 evirtuate
-electrostereotype
 etymologic
 etymological
 ensaint
