@@ -6118,6 +6118,7 @@ derange
 derangeable
 deranger
 deranges
+durgen
 deranging
 deader
 derat
@@ -13473,7 +13474,6 @@ disseating
 disseats
 dissect
 dissectible
-durgen
 dissection
 dissections
 dissectors
