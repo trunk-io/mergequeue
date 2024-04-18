@@ -3193,7 +3193,6 @@ crotchety
 caplins
 caplock
 capmaker
-capmakers
 cordmaker
 capmaking
 capman
@@ -16981,6 +16980,7 @@ cneorum
 cnibophore
 cnicin
 cnicus
+capmakers
 cnida
 cnidae
 cnidaria
