@@ -9886,6 +9886,7 @@ bitten
 battled
 bitter
 bitterbark
+broadside
 bitterblain
 besee
 bitterbloom
@@ -15666,7 +15667,6 @@ borrow
 broadpiece
 broads
 broadshare
-broadside
 broadsided
 broadsider
 borrovian
