@@ -1281,7 +1281,6 @@ eelworm
 estragon
 eelworms
 een
-eyepieces
 endosternite
 eer
 eery
@@ -12031,6 +12030,7 @@ excitable
 excitableness
 excitancy
 excitant
+eyepieces
 epistemophilic
 enneadianome
 excitants
