@@ -5080,6 +5080,7 @@ bisellia
 boneshave
 befalls
 battlers
+botfly
 befame
 bloodthirst
 befamilied
@@ -17061,7 +17062,6 @@ bullate
 bullated
 bullation
 bullback
-botfly
 bullbaiting
 bagattini
 bullbat
