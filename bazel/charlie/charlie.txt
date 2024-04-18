@@ -26351,7 +26351,6 @@ cotyledons
 cotyligerous
 cotyliscus
 cotillage
-cotyloid
 cotylophora
 chaplin
 cotylophorous
@@ -28979,6 +28978,7 @@ criminologies
 criminologist
 criminologists
 criminous
+cotyloid
 conscribed
 criminously
 criminousness
