@@ -5550,6 +5550,7 @@ afright
 akamnik
 afrikaans
 afrikander
+amalgams
 afrikanderdom
 afrikanderism
 afrikaner
@@ -9762,7 +9763,6 @@ amalgamist
 amalgamization
 amalgamize
 akonge
-amalgams
 amalic
 amalrician
 amaltas
