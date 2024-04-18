@@ -1960,7 +1960,6 @@ ejam
 expatiated
 eject
 ejecta
-ejectable
 ebeneous
 epitaxial
 effray
@@ -10959,6 +10958,7 @@ epicauta
 euphemian
 erythemic
 euphemious
+ejectable
 euphemiously
 epilated
 euphemisation
