@@ -1712,6 +1712,7 @@ feak
 federate
 flocks
 frowny
+forebowels
 feal
 fealty
 fumigates
@@ -7540,7 +7541,6 @@ folksongs
 foreboding
 forebodingness
 foreboom
-forebowels
 forebowline
 farceur
 flaveria
