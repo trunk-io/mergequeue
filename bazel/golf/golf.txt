@@ -5937,7 +5937,6 @@ glossoscopy
 galleasses
 goings
 glossosteresis
-glossotype
 grimmish
 glossotomy
 glosts
@@ -8411,6 +8410,7 @@ grudgment
 gravedo
 gravegarth
 gravel
+glossotype
 gobi
 gravely
 gravelike
