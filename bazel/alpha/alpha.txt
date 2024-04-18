@@ -1984,7 +1984,6 @@ acetaldol
 acetalize
 acetals
 acetamid
-acetamide
 acetamidin
 acetamidine
 acetamido
@@ -21591,6 +21590,7 @@ assam
 assamar
 assamese
 assamites
+acetamide
 assapan
 assapanic
 assapanick
