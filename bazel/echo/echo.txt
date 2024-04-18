@@ -4711,7 +4711,6 @@ encipher
 ersatzes
 ease
 enciphered
-enameled
 enciphering
 encipherment
 evolutional
@@ -13025,6 +13024,7 @@ euphuisms
 estacade
 expender
 expenders
+enameled
 expendible
 edgeweed
 expending
