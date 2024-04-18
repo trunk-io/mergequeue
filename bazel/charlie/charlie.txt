@@ -5893,7 +5893,6 @@ catheti
 cathetometer
 cathetometric
 cephalophorous
-cathetus
 cathetusti
 cathexes
 cathexion
@@ -26278,6 +26277,7 @@ cinematize
 costuming
 costumire
 costusroot
+cathetus
 cosubject
 cosubordinate
 clarify
