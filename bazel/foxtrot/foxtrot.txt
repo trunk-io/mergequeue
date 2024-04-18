@@ -4136,7 +4136,6 @@ fiords
 fiorin
 fiorite
 featurette
-flockling
 fluidrams
 fippence
 fipples
@@ -9323,6 +9322,7 @@ fragrantness
 fray
 facioscapulohumeral
 fabulists
+flockling
 fraid
 frayedly
 frayedness
