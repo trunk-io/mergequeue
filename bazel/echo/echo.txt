@@ -2531,6 +2531,7 @@ extravagancies
 elchee
 electronically
 electronics
+enamellers
 electronography
 ecad
 electrons
@@ -4353,7 +4354,6 @@ enolization
 enamelist
 enamellar
 equiped
-enamellers
 enamelless
 enamels
 enami
