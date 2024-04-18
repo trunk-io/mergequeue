@@ -2939,7 +2939,6 @@ feudalized
 feudalizing
 feudary
 fantastical
-feudaries
 feudatary
 feudatory
 feudatorial
@@ -9121,6 +9120,7 @@ fowells
 foredesign
 fowent
 fowk
+feudaries
 fowl
 fowled
 fowler
