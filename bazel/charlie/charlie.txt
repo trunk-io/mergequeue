@@ -1827,7 +1827,6 @@ camel
 camelback
 cameleer
 cameleon
-camelhair
 camelia
 camelias
 camelid
@@ -27049,6 +27048,7 @@ countersalient
 counterscale
 counterscalloped
 counterscarp
+camelhair
 counterscoff
 counterscrutiny
 cs
