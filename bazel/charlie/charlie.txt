@@ -909,7 +909,6 @@ calamar
 calamary
 calamariaceae
 calamariaceous
-calamariales
 calamarian
 calamaries
 calamarioid
@@ -20824,6 +20823,7 @@ compositous
 compositure
 caramelised
 compossible
+calamariales
 compost
 composted
 composting
