@@ -4647,6 +4647,7 @@ fructescence
 fibroreticulate
 fixer
 fixers
+feinted
 filamentar
 fixidity
 fixing
@@ -6836,7 +6837,6 @@ flouncey
 folder
 featherpated
 folderols
-feinted
 folders
 foldy
 folding
