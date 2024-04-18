@@ -7886,7 +7886,6 @@ forepurpose
 forequarter
 forequarters
 fraidycat
-fleet
 forerake
 figural
 frankalmoin
@@ -8121,6 +8120,7 @@ forethinking
 forethough
 forethoughtfully
 forethoughtfulness
+fleet
 fingery
 forethrift
 fulminic
