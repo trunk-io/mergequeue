@@ -2040,6 +2040,7 @@ forebooms
 feet
 feeze
 feezed
+fissuration
 feezes
 flagfish
 fefnicute
@@ -4474,7 +4475,6 @@ fissirostrate
 fissirostres
 fissle
 fissura
-fissuration
 fungite
 finesse
 frawn
