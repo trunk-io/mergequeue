@@ -10891,7 +10891,6 @@ diruption
 disa
 dis
 dashboards
-disabilities
 disable
 disabled
 doorplates
@@ -11423,6 +11422,7 @@ disclout
 disclusion
 dislimb
 decephalization
+disabilities
 discoactine
 documentation
 discoast
