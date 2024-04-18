@@ -11397,7 +11397,6 @@ evaporimeter
 evaporite
 erythrolitmin
 evaporitic
-exhibitive
 evaporize
 evapotranspiration
 erythremomelalgia
@@ -13658,6 +13657,7 @@ exteroceptor
 elatine
 emersions
 esteemed
+exhibitive
 exterous
 euphemised
 exterrestrial
