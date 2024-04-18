@@ -7364,6 +7364,7 @@ borrowed
 balisier
 bystanders
 betask
+bottier
 beadrow
 betassel
 birde
@@ -16688,7 +16689,6 @@ bucksaw
 bucksaws
 buckshee
 buckshees
-bottier
 buckshot
 borsch
 bourgeoise
