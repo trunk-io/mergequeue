@@ -4894,7 +4894,6 @@ cartographic
 cartographical
 confessionist
 cartographically
-cartographies
 cartomancy
 cartomancies
 carton
@@ -23432,6 +23431,7 @@ contesseration
 contest
 contestability
 contestableness
+cartographies
 churled
 contestant
 contested
