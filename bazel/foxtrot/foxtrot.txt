@@ -4313,7 +4313,6 @@ firmisternous
 firmity
 firmland
 fibulare
-firmly
 firmness
 firmnesses
 fauces
@@ -7772,6 +7771,7 @@ foreknowingly
 forelady
 forelay
 forelaying
+firmly
 foreland
 forelands
 foreleg
