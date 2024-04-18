@@ -2144,7 +2144,6 @@ banned
 banner
 bannerer
 banneret
-bannerets
 bannerfish
 beduke
 bannerless
@@ -6882,6 +6881,7 @@ bugshas
 berteroa
 berth
 bertha
+bannerets
 berthas
 berthed
 berther
