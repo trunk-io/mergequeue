@@ -9887,6 +9887,7 @@ chemoreflex
 chemoresistance
 chemosensitive
 chemosensitivities
+cladoselache
 chemoserotherapy
 chemoses
 chemosynthesis
@@ -15204,7 +15205,6 @@ cladoptosis
 companyless
 cladose
 canicule
-cladoselache
 cladoselachea
 cladoselachian
 cladoselachidae
