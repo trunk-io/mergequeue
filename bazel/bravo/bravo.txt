@@ -14432,7 +14432,6 @@ branchiomeric
 branch
 branchage
 branchellion
-brancher
 branchery
 branches
 beadle
@@ -17141,6 +17140,7 @@ beeishness
 bullfoot
 brahmic
 blandishment
+brancher
 bullgine
 bullhead
 bullheaded
