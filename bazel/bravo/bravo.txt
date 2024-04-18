@@ -3356,7 +3356,6 @@ baltic
 basoche
 basocyte
 basoga
-banderoles
 braciolas
 broadgage
 bungled
@@ -9797,6 +9796,7 @@ bactriticone
 bistro
 bottleholder
 bistroic
+banderoles
 boos
 bistros
 benchwork
