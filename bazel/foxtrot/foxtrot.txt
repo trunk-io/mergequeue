@@ -4442,7 +4442,6 @@ fishskin
 fishspear
 fishtail
 flether
-fawner
 fishtails
 fishway
 fishways
@@ -5067,6 +5066,7 @@ flashiness
 flashings
 flashlamp
 flashlight
+fawner
 futilitarian
 forellenstein
 frothi
