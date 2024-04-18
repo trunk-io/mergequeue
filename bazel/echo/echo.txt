@@ -10487,7 +10487,6 @@ euchological
 ethnomusicological
 existant
 elytra
-ethnomusicologist
 ethnopsychology
 ethnopsychological
 enalite
@@ -11452,6 +11451,7 @@ event
 eventail
 eventful
 eventfully
+ethnomusicologist
 eventfulness
 eventide
 exuvia
