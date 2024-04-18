@@ -5300,7 +5300,6 @@ begirds
 bromvogel
 begirt
 beglad
-begladding
 bogies
 beglare
 beglerbeg
@@ -6212,6 +6211,7 @@ bhikhari
 benefactress
 benefactresses
 benefactrices
+begladding
 bukat
 bardesanism
 benefice
