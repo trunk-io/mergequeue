@@ -8752,7 +8752,6 @@ biloquist
 bilos
 biloxi
 bilsh
-bilskirnir
 bilsteds
 biltong
 bima
@@ -13526,6 +13525,7 @@ bouldery
 bouldering
 boulders
 boules
+bilskirnir
 brairo
 bigener
 bouleuterion
