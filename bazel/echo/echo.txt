@@ -2452,6 +2452,7 @@ electromyographically
 electroimpulse
 electroindustrial
 electroing
+exfigure
 electroionic
 enzymology
 electrojet
@@ -12422,7 +12423,6 @@ exfetation
 economiser
 expects
 exfiguration
-exfigure
 exfiltrate
 exflagellate
 earthward
