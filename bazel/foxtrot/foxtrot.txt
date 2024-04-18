@@ -3635,6 +3635,7 @@ filenames
 filer
 fanons
 filers
+fighter
 fungivorous
 files
 frailly
@@ -10667,7 +10668,6 @@ fructoses
 fructuarius
 floralia
 finched
-fighter
 frictionizing
 fructuate
 familiary
