@@ -18173,7 +18173,6 @@ coextend
 coextended
 coextends
 coextension
-coextensive
 creep
 coextensively
 coextent
@@ -25385,6 +25384,7 @@ cornsack
 cornstalks
 carida
 cunner
+coextensive
 cornstarch
 cornstone
 cornstook

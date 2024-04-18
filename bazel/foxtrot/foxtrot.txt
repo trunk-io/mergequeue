@@ -5400,7 +5400,6 @@ fretsome
 fleeter
 fleetest
 fleeting
-fathom
 fleets
 fleetwing
 flegm
@@ -7676,6 +7675,7 @@ flusherman
 forefoot
 frenchmen
 fangot
+fathom
 fotui
 fungaceous
 foregallery
