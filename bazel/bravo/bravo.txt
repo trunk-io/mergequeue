@@ -6941,7 +6941,6 @@ bescribble
 bescribbled
 bescutcheon
 beseam
-beseecher
 beseeches
 beseechingness
 beseechment
@@ -16770,6 +16769,7 @@ budgie
 budgies
 budging
 budh
+beseecher
 blottesquely
 budless
 budlet
