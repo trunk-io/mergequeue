@@ -4154,6 +4154,7 @@ emplaced
 emplane
 emplaned
 emplanement
+endoute
 emplanes
 emplaster
 emplastic
@@ -5385,7 +5386,6 @@ endotracheal
 endotrophic
 endotropic
 endoubt
-endoute
 endovaccination
 ecclesial
 endovasculitis
