@@ -4998,7 +4998,6 @@ casalty
 casamarca
 casanova
 casanovanic
-combated
 casaques
 casaquin
 casas
@@ -29544,6 +29543,7 @@ croaker
 conceptually
 croakers
 croaky
+combated
 croakier
 croakiest
 croakily
