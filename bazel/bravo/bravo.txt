@@ -7829,7 +7829,6 @@ biacetyls
 biacid
 bozal
 biacromial
-biacuminate
 biacuru
 biajaiba
 bialate
@@ -10762,6 +10761,7 @@ blepharocarcinoma
 bounden
 batman
 bakership
+biacuminate
 blepharocera
 blepharoceridae
 birthrate
