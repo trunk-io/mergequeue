@@ -2596,7 +2596,6 @@ gemotes
 gemots
 gems
 genouillere
-gemsbok
 glassing
 gemsbuck
 gemsbucks
@@ -2634,6 +2633,7 @@ genders
 ghoulie
 geneal
 genealogic
+gemsbok
 genealogical
 gantlope
 genealogists
