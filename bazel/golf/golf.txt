@@ -2621,6 +2621,7 @@ genal
 genapp
 gater
 gimels
+gospodar
 genapping
 genarch
 galenian
@@ -7289,7 +7290,6 @@ gospoda
 grecizing
 grabbings
 getfd
-gospodar
 gillers
 gospodin
 gosport
