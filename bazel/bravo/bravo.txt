@@ -4505,6 +4505,7 @@ becloak
 belchers
 becloaking
 becloaks
+blackfriars
 beclog
 beclogged
 beclogging
@@ -10139,7 +10140,6 @@ blackfly
 blackflies
 bibasic
 bassing
-blackfriars
 blackguard
 bos
 blackguardize
