@@ -9387,7 +9387,6 @@ ers
 ersar
 ersatz
 evasible
-electrolyzable
 eulamellibranch
 erse
 erses
@@ -13005,6 +13004,7 @@ expeditious
 expeditiously
 ecstasies
 expeditiousness
+electrolyzable
 expeditive
 expeditor
 expellable
