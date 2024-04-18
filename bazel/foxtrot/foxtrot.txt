@@ -52,7 +52,6 @@ facaded
 faceable
 facebar
 facebow
-facecloth
 firestone
 faced
 foreladies
@@ -3274,6 +3273,7 @@ ficula
 ftnerr
 foregone
 frizziest
+facecloth
 fidac
 foism
 foldwards
