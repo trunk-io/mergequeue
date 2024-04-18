@@ -17783,6 +17783,7 @@ duci
 duck
 depa
 duckbill
+duckstone
 duckbills
 dossing
 duckblind
@@ -17818,7 +17819,6 @@ dollfish
 dishouse
 ducks
 dotiness
-duckstone
 ducktail
 duckweed
 duckweeds
