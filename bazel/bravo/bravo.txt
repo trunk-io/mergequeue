@@ -1253,7 +1253,6 @@ balaenoidea
 balaenoidean
 balaenoptera
 balaenopteridae
-bcf
 bambocciade
 bobbies
 balaghat
@@ -10751,6 +10750,7 @@ blepharocera
 blepharoceridae
 birthrate
 blepharochromidrosis
+bcf
 blepharoclonus
 blepharocoloboma
 blepharodiastasis
