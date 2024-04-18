@@ -2060,7 +2060,6 @@ garnerage
 garland
 gauntry
 gaup
-gelatinize
 grahamite
 gunfought
 gliomatous
@@ -7006,6 +7005,7 @@ gamut
 goodwillie
 gils
 goodwillies
+gelatinize
 gorgonise
 gunkhole
 goodwives
