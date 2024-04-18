@@ -9964,7 +9964,6 @@ bivalents
 biognosis
 bivalve
 bivalved
-bivalves
 bivalvia
 bonnyclabber
 bivalvian
@@ -16848,6 +16847,7 @@ buffware
 bufidin
 bufo
 bufonid
+bivalves
 bromoethylene
 bufonidae
 bufonite
