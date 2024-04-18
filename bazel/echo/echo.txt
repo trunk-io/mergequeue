@@ -9131,6 +9131,7 @@ erythraea
 enfant
 erythraean
 erythraemia
+exsiccate
 erythrasma
 erythremia
 erythric
@@ -13486,7 +13487,6 @@ exsheath
 exsibilation
 exsiccant
 exsiccatae
-exsiccate
 exsiccating
 exsiccative
 exsiccator
