@@ -8844,6 +8844,7 @@ gremmies
 gossipmongering
 grenada
 grenade
+gravilea
 grenades
 gibby
 grenadier
@@ -9856,7 +9857,6 @@ guanize
 guano
 glideness
 guanosine
-gravilea
 guans
 gazook
 groundwood
