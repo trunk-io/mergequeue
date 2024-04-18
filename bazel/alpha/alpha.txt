@@ -12823,7 +12823,6 @@ acclamations
 arlington
 angiosymphysis
 angiosis
-armlet
 angiosperm
 angiospermae
 attacks
@@ -24230,6 +24229,7 @@ autonegation
 autonephrotoxin
 autonetics
 autoneurotoxin
+armlet
 autonym
 autonitridation
 autonoetic
