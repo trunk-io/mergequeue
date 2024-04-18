@@ -7825,7 +7825,6 @@ cervicapra
 cervicaprine
 cervicectomy
 catachresti
-cervicicardiac
 cervicide
 cerviciplex
 cervicispinal
@@ -26216,6 +26215,7 @@ costlew
 costlier
 costliest
 costliness
+cervicicardiac
 costmaries
 clericalist
 costoabdominal
