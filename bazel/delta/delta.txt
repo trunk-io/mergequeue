@@ -3520,7 +3520,6 @@ deformations
 deformative
 deformed
 deckie
-diplex
 deformedly
 deformeter
 deforming
@@ -18010,6 +18009,7 @@ dulcigenic
 deemed
 dulciloquent
 dulciloquy
+diplex
 dulcimer
 dulcimers
 dulcimore
