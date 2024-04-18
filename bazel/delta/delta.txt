@@ -6722,7 +6722,6 @@ desilt
 declared
 desilvered
 desilvering
-desilverization
 desilverizer
 desilverizing
 desilvers
@@ -8674,6 +8673,7 @@ dyassic
 deoxyribonuclease
 diastalses
 diastalsis
+desilverization
 diastases
 dahabiahs
 diastasic

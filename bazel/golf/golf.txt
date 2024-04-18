@@ -778,7 +778,6 @@ galv
 guebucu
 galvayne
 galvayning
-galvanic
 galvanically
 galvanisation
 galvanise
@@ -9311,6 +9310,7 @@ grond
 greiges
 gront
 greatheartedness
+galvanic
 groof
 groom
 groomed
