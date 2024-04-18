@@ -2788,7 +2788,6 @@ baroness
 baronesses
 baronet
 backtack
-baronetage
 baronetcy
 baronetcies
 buboed
@@ -8978,6 +8977,7 @@ bioecologies
 bioecologist
 bioelectric
 bioelectrical
+baronetage
 bioelectricity
 bioelectricities
 bioelectrogenesis
