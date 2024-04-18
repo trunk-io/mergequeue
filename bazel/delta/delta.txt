@@ -1327,7 +1327,6 @@ daur
 dauri
 daurna
 decipolar
-daut
 draffier
 dauted
 dautie
@@ -4373,6 +4372,7 @@ demagnetise
 demagnetised
 demagnetiser
 demagnetising
+daut
 demagnetization
 deplores
 demagnetize
