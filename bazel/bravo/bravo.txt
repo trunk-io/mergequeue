@@ -1574,7 +1574,6 @@ ballgame
 ballgames
 ballgowns
 ballhausplatz
-ballhawk
 ballhawks
 ballhooter
 balli
@@ -17442,6 +17441,7 @@ bigheartedly
 bunyan
 bunyas
 bunyip
+ballhawk
 buninahua
 bunion
 bootholder
