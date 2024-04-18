@@ -6386,7 +6386,6 @@ benzalazine
 benzalcohol
 bakupari
 briguer
-bish
 benzaldehyde
 benzaldoxime
 benumb
@@ -11728,6 +11727,7 @@ bocasin
 boccaccio
 boccale
 boccarella
+bish
 boccaro
 bocce
 bocces
