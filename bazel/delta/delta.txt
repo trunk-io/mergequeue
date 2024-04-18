@@ -1029,7 +1029,6 @@ darks
 darkskin
 darksomeness
 darksum
-darktown
 darling
 disobligingness
 darlingly
@@ -1176,6 +1175,7 @@ dogtrot
 datableness
 datably
 datacell
+darktown
 datafile
 dataflow
 datagram
