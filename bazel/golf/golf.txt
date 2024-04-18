@@ -1944,7 +1944,6 @@ growable
 goaf
 groose
 gatewards
-gatewise
 gyrostabilized
 gatewoman
 gatherable
@@ -2178,6 +2177,7 @@ garrisoned
 gawkish
 gawkishly
 gawm
+gatewise
 gawn
 gawney
 gapo
