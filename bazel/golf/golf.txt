@@ -1300,7 +1300,6 @@ garaged
 gyved
 gowk
 glandless
-garageman
 garaging
 garance
 gloomy
@@ -4493,6 +4492,7 @@ ginhound
 ginhouse
 geneticism
 gyniatrics
+garageman
 gyniatries
 gynic
 gink
