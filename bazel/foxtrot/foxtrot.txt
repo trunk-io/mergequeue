@@ -8466,7 +8466,6 @@ ferrous
 formicary
 formicariae
 formicarian
-formicaries
 feaked
 formicarioid
 formicaroid
@@ -10521,6 +10520,7 @@ frostbite
 frostbites
 frostbiting
 favella
+formicaries
 forcite
 frostbitten
 frostbow
