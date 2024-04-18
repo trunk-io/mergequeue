@@ -11691,7 +11691,6 @@ columbian
 chondric
 chondrify
 chondrification
-chondrigen
 cygnine
 chondrigenous
 chondrilla
@@ -28018,6 +28017,7 @@ cran
 cranage
 cranberries
 cranch
+chondrigen
 cranched
 cranches
 cranching
