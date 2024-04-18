@@ -5896,7 +5896,6 @@ archdeaconry
 anomaloscope
 amphoras
 agrised
-agastreae
 ashmen
 agastric
 adenyls
@@ -9833,6 +9832,7 @@ amaryllises
 amarillo
 amarillos
 amarin
+agastreae
 admeasurement
 amarine
 amarity
