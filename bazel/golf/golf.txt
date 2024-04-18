@@ -7533,7 +7533,6 @@ gowks
 gradeless
 gowl
 gowlan
-gown
 galavanted
 gowning
 gownlet
@@ -10323,6 +10322,7 @@ gulfy
 gulfiest
 gulfing
 gerbo
+gown
 gulfside
 gainsaid
 gulfwards
