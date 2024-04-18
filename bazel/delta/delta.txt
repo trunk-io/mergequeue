@@ -3357,7 +3357,6 @@ definitise
 dilatant
 definitised
 domesticable
-definitising
 definitive
 definitively
 delaying
@@ -13279,6 +13278,7 @@ dunkard
 dacrydium
 disputeless
 disputer
+definitising
 disputers
 discord
 disputes
