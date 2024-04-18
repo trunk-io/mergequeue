@@ -8900,7 +8900,6 @@ characterlessness
 characterology
 characterologically
 characterologist
-chincha
 characters
 characterstring
 charadrii
@@ -18068,6 +18067,7 @@ coequalness
 coequals
 coequate
 centerward
+chincha
 cruses
 colpocystocele
 coequated
