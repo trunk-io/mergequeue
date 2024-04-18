@@ -8082,6 +8082,7 @@ gemmiparity
 granulators
 granules
 gripper
+guanidins
 granulet
 galuth
 gloomful
@@ -9843,7 +9844,6 @@ guango
 grudgeless
 guanidin
 guanidine
-guanidins
 guanidopropionic
 gasholder
 guaniferous
