@@ -12259,7 +12259,6 @@ bombarde
 byrls
 bombarded
 bushfighter
-bombardelle
 baetylic
 bombarder
 bombardier
@@ -12343,6 +12342,7 @@ bombycilla
 bombs
 bombsights
 bombus
+bombardelle
 bomi
 bomos
 bon
