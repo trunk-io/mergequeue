@@ -1083,7 +1083,6 @@ bailli
 baillie
 baillone
 baillonella
-bailment
 bailments
 bailo
 bailor
@@ -4534,6 +4533,7 @@ burlier
 beclowning
 becluster
 becollier
+bailment
 becolme
 becolor
 becombed
