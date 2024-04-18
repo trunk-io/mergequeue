@@ -6296,7 +6296,6 @@ gnawings
 giaours
 gnawn
 gnaws
-gneiss
 gneisses
 gneissitic
 gneissoid
@@ -8749,6 +8748,7 @@ greg
 gallomania
 gregale
 gregaloid
+gneiss
 glucosin
 guileless
 graduals
