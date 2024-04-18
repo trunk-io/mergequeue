@@ -20962,7 +20962,6 @@ comptrollership
 compts
 compulsative
 compulsatively
-compulsatory
 cabretta
 compulsatorily
 compulse
@@ -23477,6 +23476,7 @@ codded
 complicating
 conjoins
 contignate
+compulsatory
 contignation
 contiguate
 contiguity
