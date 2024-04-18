@@ -11440,7 +11440,6 @@ communality
 calcomp
 choctaw
 choctaws
-choel
 choenix
 choes
 choga
@@ -19215,6 +19214,7 @@ coloenteritis
 colog
 cologarithm
 cologned
+choel
 colognes
 cologs
 colola
