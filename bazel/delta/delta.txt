@@ -3908,6 +3908,7 @@ dekaparsec
 dekapode
 demand
 dekarch
+dollied
 dekare
 dekares
 dekastere
@@ -15192,7 +15193,6 @@ dollia
 deuteranopic
 dollie
 dingmaul
-dollied
 dollier
 dollies
 dollymen
