@@ -3965,7 +3965,6 @@ emmove
 emodins
 emollescence
 efflorescent
-emolliate
 emollience
 emollient
 emollients
@@ -5430,6 +5429,7 @@ endurer
 endures
 enki
 enduring
+emolliate
 enduringly
 enduros
 earthmen
