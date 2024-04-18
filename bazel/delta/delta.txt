@@ -2400,7 +2400,6 @@ decimally
 decimals
 dressages
 dixenite
-decimate
 decimated
 decimates
 decimating
@@ -15839,6 +15838,7 @@ dorsosternal
 dorsothoracic
 digitize
 diablotin
+decimate
 dismalize
 dorsoventrad
 dorsoventrality
