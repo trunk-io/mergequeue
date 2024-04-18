@@ -2230,6 +2230,7 @@ canalisation
 canalise
 coherently
 canalised
+consequences
 canalises
 canalising
 canalization
@@ -22786,7 +22787,6 @@ consentive
 consentively
 consentment
 consents
-consequences
 consequency
 combinableness
 consequent
