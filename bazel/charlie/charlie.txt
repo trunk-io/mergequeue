@@ -5014,7 +5014,6 @@ casbah
 casbahs
 cascabel
 cascabels
-cascable
 cascadable
 cascade
 crotaline
@@ -16634,6 +16633,7 @@ closefistedly
 closefistedness
 closefitting
 closehanded
+cascable
 closehauled
 cardiodysesthesia
 closemouth
