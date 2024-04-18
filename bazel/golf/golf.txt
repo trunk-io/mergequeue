@@ -5144,7 +5144,6 @@ girderage
 glandules
 gossipper
 glanduliferous
-giron
 glanduliform
 glanduligerous
 grogshops
@@ -5684,6 +5683,7 @@ globetrotters
 gangplanks
 guaruan
 globetrotting
+giron
 globy
 globicephala
 gorsier
