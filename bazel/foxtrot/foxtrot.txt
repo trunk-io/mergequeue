@@ -5360,6 +5360,7 @@ fleece
 factory
 fribourg
 feirie
+fowling
 fianna
 forechurch
 fleeceless
@@ -9125,7 +9126,6 @@ froeman
 fowlerite
 fowlers
 fowlfoot
-fowling
 fowlings
 fowlpox
 fowlpoxes
