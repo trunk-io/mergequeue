@@ -2608,6 +2608,7 @@ gemmology
 gemstone
 gemuetlich
 gemuti
+groan
 goral
 gemutlich
 gemwork
@@ -9286,7 +9287,6 @@ groin
 geogonic
 groyne
 gangplow
-groan
 gastaldo
 gypsydom
 goniotropous
