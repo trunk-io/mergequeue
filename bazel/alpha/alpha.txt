@@ -1184,6 +1184,7 @@ abutter
 abutters
 abutting
 abuzz
+anorogenic
 anodendron
 abvolt
 abvolts
@@ -13870,7 +13871,6 @@ anorganology
 anormal
 anormality
 anorn
-anorogenic
 anorth
 anorthic
 atacamite
