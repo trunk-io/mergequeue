@@ -8466,6 +8466,7 @@ alkalises
 audivise
 alkalising
 alkalizate
+animator
 alkalization
 alkalize
 alkalized
@@ -13206,7 +13207,6 @@ animative
 animato
 androseme
 animatograph
-animator
 animators
 anteva
 animes
