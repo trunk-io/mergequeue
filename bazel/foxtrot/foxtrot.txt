@@ -2309,7 +2309,6 @@ femora
 femoral
 flic
 femorofibular
-femoropopliteal
 farmland
 faceman
 femororotulian
@@ -3562,6 +3561,7 @@ figury
 friesic
 famulative
 figurial
+femoropopliteal
 figurine
 figuring
 figurist
