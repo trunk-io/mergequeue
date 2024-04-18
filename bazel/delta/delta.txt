@@ -6270,6 +6270,7 @@ desexes
 dermatologies
 dermatologists
 dermatoma
+duchesnea
 dermatome
 daubing
 dermatomere
@@ -17841,7 +17842,6 @@ duculinae
 dud
 decurve
 dudaim
-duchesnea
 dudder
 duddery
 dentile
