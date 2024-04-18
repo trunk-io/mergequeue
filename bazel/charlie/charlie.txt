@@ -11478,7 +11478,6 @@ choke
 chokeable
 chokeberry
 chokeberries
-chokebore
 chokecherry
 chokecherries
 choked
@@ -29883,6 +29882,7 @@ contrahent
 crossover
 crossovers
 crosspatch
+chokebore
 crosspatches
 crosspath
 crosspiece
