@@ -929,7 +929,6 @@ etherealized
 ectotheca
 expelled
 entocondyloid
-epimerize
 epicenter
 ectotoxin
 ectotrophi
@@ -5052,6 +5051,7 @@ endoblast
 endoblastic
 endobronchial
 embryoscopic
+epimerize
 empathizing
 enunciation
 eucaryotic
