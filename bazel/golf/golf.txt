@@ -1945,7 +1945,6 @@ growable
 goaf
 groose
 gatewards
-guariba
 gatewise
 gatewoman
 gatherable
@@ -5121,6 +5120,7 @@ glancingly
 growled
 gland
 glandaceous
+guariba
 glander
 glandered
 glimpser
