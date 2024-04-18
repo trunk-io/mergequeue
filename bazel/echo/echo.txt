@@ -4434,7 +4434,6 @@ effusion
 enarched
 enarm
 enarme
-enarration
 enarthrodia
 engagers
 enarthrodial
@@ -10256,6 +10255,7 @@ elkoshite
 esthete
 etheostomoid
 electrophoresed
+enarration
 ether
 etherate
 etherealisation
