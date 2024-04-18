@@ -1855,7 +1855,6 @@ bicorne
 banca
 bancales
 bancha
-burnished
 banchi
 banco
 bibliopegist
@@ -17784,6 +17783,7 @@ burnishable
 brazening
 burnisher
 burnishers
+burnished
 burnishes
 burnishing
 brainache
