@@ -4794,6 +4794,7 @@ carrions
 carryons
 carryout
 carryouts
+crosshatched
 carryover
 carryovers
 carritch
@@ -29853,7 +29854,6 @@ crosshair
 crosshairs
 crosshand
 crosshatch
-crosshatched
 crosshatcher
 crosshatches
 cogwheel
