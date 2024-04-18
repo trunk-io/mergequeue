@@ -2091,7 +2091,6 @@ elaphomycetaceae
 elaphrium
 ensnarements
 elaphurus
-elapid
 elapidae
 elapids
 erotophobia
@@ -5452,6 +5451,7 @@ enecate
 eneclann
 empaestic
 empetraceae
+elapid
 emblemize
 electuary
 earaches
