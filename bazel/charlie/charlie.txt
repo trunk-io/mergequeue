@@ -6394,7 +6394,6 @@ cavelet
 cavelike
 caveman
 cavemen
-cavendish
 caver
 complimenters
 cavern
@@ -14296,6 +14295,7 @@ circumflant
 circumflect
 circumflex
 circumfluence
+cavendish
 circumfluent
 circumfluous
 ceratobatrachinae
