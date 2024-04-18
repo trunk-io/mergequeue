@@ -1072,7 +1072,6 @@ farmed
 farmer
 farmeress
 farmery
-farmeries
 farmerish
 farmerly
 farmerlike
@@ -7411,6 +7410,7 @@ forboding
 forbore
 fertilisation
 forborne
+farmeries
 forbow
 forbruise
 formalised
