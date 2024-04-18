@@ -2314,6 +2314,7 @@ cancerated
 cancerating
 chastize
 canceration
+chordal
 cancerdrops
 cancerigenic
 cancerin
@@ -11866,7 +11867,6 @@ chordaceae
 chordacentrous
 chordacentrum
 chordaceous
-chordal
 chordamesoderm
 chordamesodermal
 chordamesodermic
