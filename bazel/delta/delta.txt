@@ -4921,6 +4921,7 @@ demonists
 demonize
 demonized
 demonizes
+desmon
 demonizing
 demonkind
 demonland
@@ -6817,7 +6818,6 @@ desmoid
 desmoids
 desmolase
 desmology
-desmon
 dupla
 desmoncus
 desmoneoplasm
