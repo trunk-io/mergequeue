@@ -4156,7 +4156,6 @@ gillotage
 good
 gillotype
 gillstoup
-gilo
 gilour
 gilpey
 groceries
@@ -7915,6 +7914,7 @@ getups
 grandiflora
 grandiloquent
 grandiloquently
+gilo
 grandiloquous
 gunshots
 grandiose
