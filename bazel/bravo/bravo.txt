@@ -2763,7 +2763,6 @@ barocco
 barocyclonometer
 barbra
 baroclinicity
-baroco
 barodynamic
 barodynamics
 barognosis
@@ -3683,6 +3682,7 @@ batik
 batiked
 buddh
 batiker
+baroco
 batiks
 batikuling
 batino
