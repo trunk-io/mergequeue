@@ -14218,7 +14218,6 @@ circulatories
 circulators
 circulet
 caslon
-circulin
 circulus
 circumaction
 circumadjacent
@@ -14499,6 +14498,7 @@ cirrhus
 cirri
 cirribranch
 cirriferous
+circulin
 caponizes
 cirrigerous
 cirrigrade
