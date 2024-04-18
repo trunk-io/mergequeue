@@ -1996,6 +1996,7 @@ banes
 banewort
 banga
 bangalow
+bombard
 bangash
 boodling
 bangboard
@@ -9306,7 +9307,6 @@ bipyramid
 bipyridyl
 bubale
 byplace
-bombard
 bagged
 byplay
 biplanal
