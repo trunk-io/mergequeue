@@ -7067,7 +7067,6 @@ fontinas
 fontlet
 foredate
 fonts
-furnitures
 fortitudinous
 foochowese
 food
@@ -8307,6 +8306,7 @@ forints
 forisfamiliate
 forisfamiliation
 forjaskit
+furnitures
 forjesket
 forjudge
 foujdar
