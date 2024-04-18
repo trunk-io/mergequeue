@@ -19581,7 +19581,6 @@ argon
 argonaut
 argonauta
 argonautid
-argonauts
 argonne
 argonon
 argons
@@ -19796,6 +19795,7 @@ aristogenetic
 aristogenic
 aristogenics
 aristoi
+argonauts
 aristol
 aristolochia
 aristolochiales
