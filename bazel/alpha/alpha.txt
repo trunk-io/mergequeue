@@ -3678,7 +3678,6 @@ adenocarcinoma
 adenocarcinomas
 adenocarcinomata
 akepiros
-adenocele
 adenochondroma
 adenochondrosarcoma
 adenochrome
@@ -11451,6 +11450,7 @@ anabaptize
 angustifoliate
 anabaptized
 anabaptizing
+adenocele
 anabas
 anabases
 anabasin
