@@ -19423,6 +19423,7 @@ colotomy
 colotomies
 citharoedus
 colour
+configurational
 colourability
 colourable
 colourably
@@ -21926,7 +21927,6 @@ configurated
 coexclusive
 configurating
 configuration
-configurational
 configurationally
 configurationism
 configurationist
