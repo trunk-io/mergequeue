@@ -8540,6 +8540,7 @@ champignons
 chaya
 champine
 champing
+clapped
 cryohydric
 celebrated
 chevrette
@@ -15417,7 +15418,6 @@ clapnet
 clapotis
 cricketed
 clappe
-clapped
 clapper
 clapperclaw
 clapperclawer
