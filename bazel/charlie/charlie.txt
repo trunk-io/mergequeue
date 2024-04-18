@@ -7913,7 +7913,6 @@ cesta
 cestas
 ceste
 cestidae
-cestoda
 cestode
 cestodes
 cestoi
@@ -8588,6 +8587,7 @@ chancel
 chanceled
 chanceless
 chancelled
+cestoda
 chancellery
 chancelleries
 chancellor
