@@ -207,7 +207,6 @@ cabrioles
 cabriolet
 cabriolets
 contemporise
-chinar
 cabrit
 cabs
 cabstand
@@ -29676,6 +29675,7 @@ cronel
 crones
 cronet
 crony
+chinar
 cuckoo
 cronian
 communicated
