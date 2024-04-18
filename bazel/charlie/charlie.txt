@@ -9925,7 +9925,6 @@ chemotaxy
 chemotaxis
 chemotaxonomy
 chemotaxonomic
-chemotaxonomically
 cannular
 comma
 carices
@@ -15547,6 +15546,7 @@ censused
 carmele
 caitanyas
 clarseth
+chemotaxonomically
 clarshech
 clart
 customary
