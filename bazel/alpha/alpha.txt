@@ -1902,6 +1902,7 @@ assembles
 acephalous
 anticipatory
 akoasma
+adduct
 acephalus
 acepots
 atridean
@@ -3599,7 +3600,6 @@ adducible
 anthracic
 auriculo
 acari
-adduct
 adducted
 adducting
 adduction
