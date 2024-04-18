@@ -2448,6 +2448,7 @@ gaelicize
 gelation
 greaves
 gardon
+gastroenteroptosis
 glunching
 gelations
 gelatose
@@ -4657,7 +4658,6 @@ gyrated
 gosain
 gainpain
 gyrates
-gastroenteroptosis
 gyrating
 gyrator
 gonads
