@@ -6699,7 +6699,6 @@ bedevil
 bergeret
 brissotine
 bergfall
-benefactions
 berggylt
 bibliographical
 brephic
@@ -13133,6 +13132,7 @@ boschveld
 bowet
 bose
 bosey
+benefactions
 boselaphus
 boser
 boxboards
