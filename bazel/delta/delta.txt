@@ -1455,7 +1455,6 @@ depressure
 deaccession
 deaccessioned
 deaccessioning
-demarking
 deaccessions
 deacetylate
 defraudment
@@ -5012,6 +5011,7 @@ demothball
 demotion
 demotions
 demotist
+demarking
 demotists
 demount
 demountability
