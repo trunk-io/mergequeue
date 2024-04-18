@@ -4832,7 +4832,6 @@ cogitable
 carshops
 carsick
 carsickness
-carsmith
 carson
 caviteno
 carstone
@@ -13822,6 +13821,7 @@ cinemas
 cinemascope
 chartophylaxes
 cinematheque
+carsmith
 comakers
 cinematheques
 cinematic
