@@ -1094,7 +1094,6 @@ geodete
 gravata
 gangdom
 gange
-ganged
 ganger
 gelidity
 gangerel
@@ -5344,6 +5343,7 @@ gurmukhi
 gleeful
 gleefully
 glaucomatous
+ganged
 gleeking
 gleeks
 goaling
