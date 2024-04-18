@@ -2672,6 +2672,7 @@ barkometer
 barkpeel
 barkpeeler
 bijugate
+bescorch
 barkpeeling
 butyr
 beheld
@@ -6918,7 +6919,6 @@ bescarf
 belout
 bescatter
 bescent
-bescorch
 browband
 bescorched
 bruchid
