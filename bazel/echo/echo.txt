@@ -1474,7 +1474,6 @@ effulgence
 effulgences
 effulgent
 effulgently
-effulging
 effumability
 effume
 emulsionize
@@ -6648,6 +6647,7 @@ enteroepiplocele
 enterogastrone
 egrimonle
 enterogenous
+effulging
 ephyrae
 enterogram
 enterograph
