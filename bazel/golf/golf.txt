@@ -3983,7 +3983,6 @@ gangways
 gateworks
 glazier
 gigantological
-gigantopithecus
 gigantosaurus
 gaddi
 gaviiformes
@@ -4707,6 +4706,7 @@ guillotiner
 grinter
 girgasite
 gyric
+gigantopithecus
 gyring
 gymnastics
 gastroenteric
