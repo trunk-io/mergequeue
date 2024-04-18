@@ -5815,7 +5815,6 @@ engrossed
 engrossedly
 engrosser
 engrossers
-epistolization
 eduction
 engrossingness
 engs
@@ -12796,6 +12795,7 @@ exorcized
 exorcizement
 exorcizer
 exorcizes
+epistolization
 exordia
 epiceratodus
 exordial
