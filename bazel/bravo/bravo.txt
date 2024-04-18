@@ -3012,6 +3012,7 @@ bartended
 betrayer
 bartender
 bess
+boist
 bartenders
 bartending
 bartends
@@ -6738,7 +6739,6 @@ battledore
 berycoidea
 bumbershoot
 barpost
-boist
 berycoidean
 berycomorphi
 beride
