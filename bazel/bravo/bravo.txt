@@ -2351,7 +2351,6 @@ barbatimao
 barbe
 barbeau
 barbecue
-barbecued
 bellyfull
 barbecuer
 barbecues
@@ -12496,6 +12495,7 @@ boni
 bony
 boniata
 bonier
+barbecued
 boniest
 boniface
 bonifaces
