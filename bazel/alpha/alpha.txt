@@ -9339,7 +9339,6 @@ archispore
 alphatoluic
 alphean
 alphecca
-alphenic
 alpheratz
 afterdamp
 alpheus
@@ -21926,6 +21925,7 @@ assuefaction
 assuetude
 assumable
 avantgarde
+alphenic
 assumably
 assume
 assumed

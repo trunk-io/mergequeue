@@ -10059,7 +10059,6 @@ cyclogram
 chichis
 cheshire
 chesil
-cheskey
 choices
 cheskeys
 cheslep
@@ -18922,6 +18921,7 @@ collectively
 collectives
 collectivise
 compensate
+cheskey
 collectivism
 collectivist
 collectivistic
