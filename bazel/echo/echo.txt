@@ -2430,7 +2430,6 @@ electroextraction
 expedient
 electroform
 electroforming
-electrofused
 electrofusion
 ethanol
 electrogalvanization
@@ -4988,6 +4987,7 @@ endemical
 endemically
 endemicity
 endemics
+electrofused
 endemiology
 examiner
 endemism
