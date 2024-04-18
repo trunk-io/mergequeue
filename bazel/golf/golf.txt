@@ -3642,7 +3642,6 @@ goth
 geums
 gewgaw
 gewgawy
-gewgawish
 gnetaceae
 gewgawry
 gewgaws
@@ -6089,6 +6088,7 @@ glucuronidase
 glue
 gangsman
 gastroenterotomy
+gewgawish
 glueyness
 gluelikeness
 glueman
