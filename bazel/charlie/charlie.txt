@@ -1634,6 +1634,7 @@ calpacked
 calpacks
 calpacs
 calpolli
+conformation
 calpul
 calpulli
 counterfallacy
@@ -28229,7 +28230,6 @@ crateral
 cruziero
 cratered
 craterellus
-conformation
 craterid
 carabineer
 crateriform
