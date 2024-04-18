@@ -797,7 +797,6 @@ galvanoglyphy
 galvanography
 galvanographic
 galvanolysis
-gauily
 galvanology
 galvanologist
 grotzen
@@ -2361,6 +2360,7 @@ glaucescence
 geissolomataceous
 geissorhiza
 gasterozooid
+gauily
 glissaded
 geissospermine
 geist
