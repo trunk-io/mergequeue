@@ -7828,7 +7828,6 @@ bozal
 biacromial
 biacuru
 biajaiba
-bialate
 biali
 brio
 bialis
@@ -10942,6 +10941,7 @@ blisters
 bibracteolate
 blit
 blites
+bialate
 blithe
 blithefully
 blithehearted
