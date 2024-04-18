@@ -3405,7 +3405,6 @@ farina
 falconets
 fiendly
 freestyle
-fireflies
 fiendlier
 fleckiness
 fractionize
@@ -3769,6 +3768,7 @@ filmcard
 filmcards
 filmdom
 firebases
+fireflies
 filmed
 filmer
 forepost
