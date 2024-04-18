@@ -2092,6 +2092,7 @@ bankings
 bankman
 banality
 bankmen
+berley
 banknote
 badaud
 banknotes
@@ -6783,7 +6784,6 @@ berkovets
 berkovtsi
 berkowitz
 berkshire
-berley
 bedull
 berlin
 beneficing
