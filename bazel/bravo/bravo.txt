@@ -3100,7 +3100,6 @@ basally
 bursarship
 basalt
 basaltes
-basaltic
 boroughlet
 basaltine
 bodilessness
@@ -5236,6 +5235,7 @@ boarcite
 begani
 begar
 begari
+basaltic
 bighorn
 bisiliquous
 bicentenary
