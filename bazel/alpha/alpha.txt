@@ -3838,7 +3838,6 @@ adiabatic
 avalanched
 adiabolist
 assistency
-adiactinic
 adiadochokinesia
 adiadochokinesis
 adiadokokinesi
@@ -24556,6 +24555,7 @@ avalanching
 avale
 avalent
 avalon
+adiactinic
 avalvular
 avance
 avanguardisti
