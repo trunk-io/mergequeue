@@ -5210,6 +5210,7 @@ denims
 denis
 directives
 denitrate
+doctrinalist
 denitrated
 daemon
 denitration
@@ -14729,7 +14730,6 @@ diplomacies
 doctrinal
 doctrinalism
 disownable
-doctrinalist
 deposals
 doctrinality
 doctrinally
