@@ -3109,7 +3109,6 @@ elohim
 externalizing
 eloigned
 excepter
-eloigner
 eloigning
 eloignment
 eloigns
@@ -11991,6 +11990,7 @@ excerpter
 etheneldeli
 excerpting
 excerption
+eloigner
 ectodynamomorphic
 excess
 excesses
