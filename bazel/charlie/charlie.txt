@@ -12786,6 +12786,7 @@ chunters
 chupak
 chupatti
 chupatty
+counterbrace
 chuppah
 chuppahs
 chuppoth
@@ -31325,7 +31326,6 @@ coenzymatic
 curiam
 curiara
 curiate
-counterbrace
 curiatii
 chaetopodous
 cicatrixes
