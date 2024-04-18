@@ -5858,7 +5858,6 @@ agaricaceae
 agaricaceous
 agaricales
 agaricic
-agaricin
 agaricine
 agaricinic
 agaricoid
@@ -10387,6 +10386,7 @@ antiager
 amicicide
 amyclaean
 amyclas
+agaricin
 amicous
 amicrobic
 amicron

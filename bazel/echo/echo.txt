@@ -3967,7 +3967,6 @@ emmenic
 emmensite
 emmental
 emmer
-emmergoose
 emmers
 emmetrope
 emmetropy
@@ -8812,6 +8811,7 @@ equivaluer
 equivalve
 electrocystoscope
 equivalved
+emmergoose
 encloses
 electricity
 equivalvular
