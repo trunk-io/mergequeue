@@ -4666,6 +4666,7 @@ deminudity
 demioctangular
 demiofficial
 demiorbit
+disusing
 demiourgoi
 demiowl
 demiox
@@ -14081,7 +14082,6 @@ disbarments
 disbranching
 disused
 disuses
-disusing
 disutility
 deported
 disutilize
