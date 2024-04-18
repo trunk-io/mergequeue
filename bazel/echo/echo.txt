@@ -4233,6 +4233,7 @@ equidominant
 emptiable
 euros
 emptied
+exhorter
 emptier
 elektra
 emptiers
@@ -12516,7 +12517,6 @@ earthshock
 exhortator
 exhortatory
 exhorted
-exhorter
 exhorters
 exhorting
 exhortingly
