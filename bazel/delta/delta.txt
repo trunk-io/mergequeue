@@ -4784,6 +4784,7 @@ demobilizations
 demobilize
 demobilizes
 diaheliotropism
+disvaluing
 demobilizing
 democracy
 democracies
@@ -14101,7 +14102,6 @@ disvalue
 disvalued
 dramatists
 doses
-disvaluing
 disvantage
 disvelop
 disventure
