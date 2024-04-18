@@ -5114,7 +5114,6 @@ glamourize
 glamourless
 glamourous
 glance
-glanced
 glancing
 glancingly
 growled
@@ -8967,6 +8966,7 @@ griffes
 griffinage
 griffinesque
 gralloch
+glanced
 glagah
 griffins
 gymnasial
