@@ -806,7 +806,6 @@ aviarists
 anglophily
 abrazos
 abreact
-abreacted
 abreacting
 abreactions
 abreacts
@@ -5346,6 +5345,7 @@ affinition
 affinitive
 affirm
 affirmable
+abreacted
 affirmably
 affirmance
 affirmant

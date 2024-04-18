@@ -6359,7 +6359,6 @@ flunkey
 fullback
 flunkeyhood
 flunkeyistic
-flunker
 fixtureless
 foetid
 flunky
@@ -8769,6 +8768,7 @@ fortunate
 fortunately
 fortunateness
 fillers
+flunker
 fortunel
 froe
 formated
