@@ -3493,7 +3493,6 @@ figging
 figgle
 figgum
 fight
-funniment
 fightable
 fatiguable
 forel
@@ -10597,6 +10596,7 @@ frownful
 frowns
 frows
 frowsy
+funniment
 frowsier
 frowsiest
 frowsily
