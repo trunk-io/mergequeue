@@ -13349,7 +13349,6 @@ cyclop
 cyclopaedia
 cyclopaedias
 civetlike
-cyclopaedic
 cyclopaedist
 cycloparaffin
 chinning
@@ -27527,6 +27526,7 @@ cowardness
 cowbane
 collided
 convive
+cyclopaedic
 cowbanes
 cariosity
 cowbarn
