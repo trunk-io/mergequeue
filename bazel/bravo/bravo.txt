@@ -1358,7 +1358,6 @@ balboa
 balboas
 bulgarian
 balbusard
-balbutiate
 buffbar
 balconet
 balconette
@@ -9428,6 +9427,7 @@ birdland
 birdless
 beirut
 birdlet
+balbutiate
 birdlife
 birdlike
 birdlimes
