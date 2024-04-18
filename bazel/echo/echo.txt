@@ -2549,7 +2549,6 @@ electrophilic
 electrophilically
 encephalalgia
 electrophysicist
-electrophysics
 electrophysiological
 exportability
 electrophysiologically
@@ -9568,6 +9567,7 @@ epistemonical
 escheatage
 escheatment
 escheator
+electrophysics
 escheatorship
 escheats
 eschel
