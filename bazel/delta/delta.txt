@@ -12114,7 +12114,6 @@ davoch
 disfavour
 disfavoured
 disfavouring
-disfeature
 disfeatured
 discursion
 disfeaturement
@@ -17510,6 +17509,7 @@ damnyankee
 detant
 discarder
 drowsiest
+disfeature
 drowsihead
 drowsiness
 drowte
