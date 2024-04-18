@@ -5397,7 +5397,6 @@ biographical
 biasness
 beqwete
 begrutten
-buzzes
 begs
 brevipen
 begster
@@ -8012,6 +8011,7 @@ bovicide
 biblos
 buoyed
 biblus
+buzzes
 bodymaker
 bibracteate
 bibulosity
