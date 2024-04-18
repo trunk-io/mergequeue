@@ -9518,7 +9518,6 @@ exudate
 escapable
 escapado
 escape
-enframement
 escaped
 escapee
 escapees
@@ -10927,6 +10926,7 @@ euouae
 eupad
 eupanorthidae
 eupanorthus
+enframement
 endarteria
 eupatorium
 eupatrid
