@@ -2545,7 +2545,6 @@ electropathology
 extramorainic
 electrophilic
 electrophilically
-encephalalgia
 electrophysicist
 electrophysics
 electrophysiological
@@ -9034,6 +9033,7 @@ exocardial
 electropathic
 eric
 enterocinetic
+encephalalgia
 erica
 ericaceae
 ericaceous
