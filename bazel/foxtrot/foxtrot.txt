@@ -287,7 +287,6 @@ fadging
 figura
 fady
 fadingly
-fadingness
 finbone
 furyl
 fadings
@@ -1818,6 +1817,7 @@ featherman
 feathermonger
 fackings
 featherpate
+fadingness
 flamming
 feathers
 featherstitch
