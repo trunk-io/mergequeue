@@ -6913,7 +6913,6 @@ gerocomy
 gonochorism
 gonochorismal
 gonocyte
-gonocytes
 gonococcal
 gamelote
 gonococci
@@ -10519,6 +10518,7 @@ gunmetal
 genesis
 gunmetals
 gunnage
+gonocytes
 gunnar
 gobbing
 gunne
