@@ -4230,7 +4230,6 @@ gymnarchidae
 globin
 grangerism
 gymnasia
-gymnasiarch
 galaxiidae
 gymnasiarchy
 gymnasiast
@@ -7641,6 +7640,7 @@ gradgrindish
 gradgrindism
 gradient
 gradientia
+gymnasiarch
 gamopetalae
 gradients
 gradin
