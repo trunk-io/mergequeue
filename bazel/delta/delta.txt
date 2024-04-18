@@ -4830,7 +4830,6 @@ deair
 dingiest
 deprecates
 disseizor
-demodulations
 demodulator
 demogenic
 demographer
@@ -12413,6 +12412,7 @@ disillusionizer
 disillusionments
 disillusions
 disillusive
+demodulations
 disimitate
 disimitation
 disimpark

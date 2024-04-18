@@ -4869,7 +4869,6 @@ encrotchet
 encrown
 encrownment
 eateries
-encrust
 encrustation
 encrusted
 encrusting
@@ -12998,6 +12997,7 @@ expediting
 expedition
 expeditionary
 expeditionist
+encrust
 euchromatin
 expeditions
 expeditious
