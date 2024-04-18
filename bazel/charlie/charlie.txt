@@ -2867,7 +2867,6 @@ cantily
 choroidea
 chinquapin
 casuarinaceous
-cantillated
 cantillation
 cantina
 cantinas
@@ -23073,6 +23072,7 @@ constipation
 constituency
 clerked
 constituencies
+cantillated
 constituent
 clouded
 constituently
