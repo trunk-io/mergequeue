@@ -19504,7 +19504,6 @@ coltpixy
 coltpixie
 coltsfoot
 coltsfoots
-coltskin
 colubaria
 coluber
 colubrid
@@ -24765,6 +24764,7 @@ coquetting
 coquettish
 coquettishly
 coquettishness
+coltskin
 coquicken
 coquilla
 compare
