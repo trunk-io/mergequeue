@@ -6272,7 +6272,6 @@ duchesnea
 dermatome
 daubing
 dermatomere
-desugar
 dermatomyces
 divorceuse
 dermatomycosis
@@ -10527,6 +10526,7 @@ dipleuric
 dipleurogenesis
 dipleurogenetic
 defected
+desugar
 devot
 dipleurulas
 dipleurule
