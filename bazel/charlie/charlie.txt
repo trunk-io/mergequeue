@@ -27325,6 +27325,7 @@ courtezanship
 courthouse
 courthouses
 cyanhidrosis
+crossbanded
 courty
 courtyards
 coonroot
@@ -29784,7 +29785,6 @@ crossable
 crossarms
 calculate
 crossband
-crossbanded
 crossbanding
 crossbar
 crossbarred
