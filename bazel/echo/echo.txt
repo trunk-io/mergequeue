@@ -12596,7 +12596,6 @@ existents
 exister
 existibility
 extant
-existimation
 existing
 existlessness
 exists
@@ -12989,6 +12988,7 @@ expeding
 eluders
 expeditate
 expeditated
+existimation
 expeditating
 expedited
 expeditely
