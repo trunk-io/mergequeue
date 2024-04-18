@@ -6582,7 +6582,6 @@ fluviology
 fluviomarine
 fleetly
 fluvioterrestrial
-fluvious
 fluviovolcanic
 fondu
 fluxation
@@ -9486,6 +9485,7 @@ featless
 franz
 forbear
 franzy
+fluvious
 fumarine
 fliers
 foreteeth
