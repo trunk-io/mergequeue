@@ -4710,7 +4710,6 @@ flabellation
 flabellifoliate
 flabellum
 fullage
-flabile
 flabrum
 flabs
 flaccid
@@ -8471,6 +8470,7 @@ formicating
 formicicide
 formicid
 formicide
+flabile
 formicine
 falseface
 formicivora
