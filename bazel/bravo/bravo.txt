@@ -3512,7 +3512,6 @@ bumbass
 bissext
 birdcall
 batched
-brachia
 batcher
 batches
 batching
@@ -10148,6 +10147,7 @@ blackgums
 blackhead
 blackheads
 blackheart
+brachia
 blackhearted
 blackheartedly
 blacky
