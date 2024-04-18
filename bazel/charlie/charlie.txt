@@ -3329,6 +3329,7 @@ caprioling
 capriote
 capriped
 capripede
+chordotonal
 caducecaducean
 capris
 caprizant
@@ -11890,7 +11891,6 @@ chordoid
 chordomesoderm
 chordophone
 chordotomy
-chordotonal
 chore
 caviare
 chorea
