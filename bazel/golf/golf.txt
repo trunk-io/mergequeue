@@ -7992,7 +7992,6 @@ graniform
 gadding
 granite
 granites
-graniteware
 granitiferous
 granitification
 granitiform
@@ -9739,6 +9738,7 @@ gloeosporium
 grungier
 grungiest
 grieflessness
+graniteware
 gelidities
 grunion
 grunt
