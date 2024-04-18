@@ -5070,6 +5070,7 @@ flasker
 foretooth
 flaskets
 faecal
+fellahin
 flasklet
 flasks
 flasque
@@ -5459,7 +5460,6 @@ fleta
 fletched
 fletcherism
 fletcherite
-fellahin
 following
 fletcherize
 fletchers
