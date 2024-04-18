@@ -2228,7 +2228,6 @@ gazpachos
 gazump
 grainer
 graders
-gazzetta
 gcd
 gconv
 gd
@@ -10699,6 +10698,7 @@ goburra
 garamond
 gadgeteers
 gussies
+gazzetta
 gussying
 gust
 gladiolus
