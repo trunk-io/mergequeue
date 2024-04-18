@@ -7742,6 +7742,7 @@ devisings
 dholes
 devolatilised
 dervishes
+dielectrics
 dryrot
 devolatilization
 depeople
@@ -9202,7 +9203,6 @@ dyeleaves
 dielectric
 dielectrical
 dielectrically
-dielectrics
 discontinuor
 debarkation
 discolour
