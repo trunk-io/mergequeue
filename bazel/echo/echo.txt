@@ -6550,6 +6550,7 @@ entangledness
 endotrachelitis
 evensong
 entanglement
+exceptions
 entanglements
 euharmonic
 entangler
@@ -11965,7 +11966,6 @@ exceptionality
 exceptionally
 exceptionary
 exceptionless
-exceptions
 exceptious
 exceptiousness
 exultation
