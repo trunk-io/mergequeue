@@ -6111,6 +6111,7 @@ bemuddlement
 bemuddles
 bemuddling
 barrowcoat
+bloodstone
 bemuffle
 bemurmur
 bemurmure
@@ -8839,7 +8840,6 @@ bind
 binderies
 binders
 banjos
-bloodstone
 bulliest
 binding
 bindingness
