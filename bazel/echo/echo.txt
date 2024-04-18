@@ -3468,7 +3468,6 @@ emblazonment
 emblazonments
 emblazonry
 emblazons
-emblem
 encharnel
 escandalize
 eebree
@@ -6121,6 +6120,7 @@ entohyal
 ennerve
 empeine
 ennew
+emblem
 ennia
 enniche
 equitemporal
