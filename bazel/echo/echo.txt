@@ -757,6 +757,7 @@ ecorche
 ecosystem
 ecosystems
 erastian
+enstyle
 ellipsometer
 ecospecific
 ecosphere
@@ -6842,7 +6843,6 @@ entodermal
 entodermic
 entogastric
 entogenous
-enstyle
 entoglossal
 epithelilia
 embonpoint
