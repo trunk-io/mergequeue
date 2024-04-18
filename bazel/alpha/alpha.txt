@@ -3401,7 +3401,6 @@ aday
 adays
 adalat
 adam
-adamance
 adamances
 adamancy
 assistor
@@ -7590,6 +7589,7 @@ amidist
 alcazaba
 alcazar
 alcazars
+adamance
 alcazava
 alce
 alcedinidae
