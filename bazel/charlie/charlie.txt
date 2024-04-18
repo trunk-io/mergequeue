@@ -23433,7 +23433,6 @@ contents
 contenu
 conterminable
 callorhynchus
-conterminal
 conterminant
 conterminous
 conterminously
@@ -26531,6 +26530,7 @@ coughwort
 couhage
 could
 coul
+conterminal
 coulage
 couldest
 couldn
