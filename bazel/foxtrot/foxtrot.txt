@@ -2776,7 +2776,6 @@ fraze
 forbidder
 festiveness
 festivity
-festology
 flowerer
 frasco
 feston
@@ -7781,6 +7780,7 @@ forelive
 florilege
 forelook
 francisco
+festology
 foreloop
 forelooper
 foreloper
