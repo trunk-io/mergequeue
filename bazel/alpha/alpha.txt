@@ -14423,7 +14423,6 @@ anthologion
 anthologise
 anthologised
 anthologising
-anthologist
 anthologists
 anthologize
 anthologized
@@ -22753,6 +22752,7 @@ atomicism
 arciferous
 atomicity
 atomies
+anthologist
 atomiferous
 atomisation
 adrenals

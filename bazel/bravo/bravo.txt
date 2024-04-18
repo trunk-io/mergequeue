@@ -2372,7 +2372,6 @@ backrest
 barbera
 barbered
 barberfish
-barberite
 barbermonger
 benedictional
 ballooned
@@ -15908,6 +15907,7 @@ bidiurnal
 bromoauric
 bromobenzene
 bromocyanide
+barberite
 balsameaceae
 broiden
 blepharochalasis
