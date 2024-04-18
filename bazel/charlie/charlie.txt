@@ -7095,6 +7095,7 @@ centinel
 centinormal
 centipedal
 centipedes
+crossties
 centiplume
 centistere
 centistoke
@@ -29897,7 +29898,6 @@ creepier
 classisms
 crosstalk
 crosstie
-crossties
 crosstoes
 crosstown
 crosstrack

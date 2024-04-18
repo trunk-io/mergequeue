@@ -8274,7 +8274,6 @@ baccar
 bietle
 byeworker
 byeworkman
-bluejoint
 bifaces
 bifacial
 bifara
@@ -16421,6 +16420,7 @@ benames
 barbeled
 brusque
 brusquely
+bluejoint
 brusqueness
 brusquerie
 brusquest
