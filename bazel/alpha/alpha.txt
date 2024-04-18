@@ -13283,7 +13283,6 @@ aerographer
 adsorbing
 anisobranchiate
 anisocarpic
-anisocarpous
 anisocercal
 anisochromatic
 anisocycle
@@ -16874,6 +16873,7 @@ aphydrotropism
 aphids
 aphilanthropy
 aphylly
+anisocarpous
 aloofe
 autoplasties
 aphyllies
