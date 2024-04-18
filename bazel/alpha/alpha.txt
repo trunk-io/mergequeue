@@ -6306,7 +6306,6 @@ agnomina
 ababua
 agnominal
 antirennet
-agnomination
 agnosy
 agnosia
 agnosias
@@ -18095,6 +18094,7 @@ appulsively
 appunctuation
 appurtenance
 appurtenances
+agnomination
 alinotum
 ammeline
 appurtenant
