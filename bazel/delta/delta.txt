@@ -11954,7 +11954,6 @@ disemployment
 dirking
 disempower
 disemprison
-disenable
 disenabled
 deferable
 disenabling
@@ -16709,6 +16708,7 @@ dramaticism
 dramaticle
 deinosaur
 dramatics
+disenable
 dramatis
 dramatisable
 dramatise
