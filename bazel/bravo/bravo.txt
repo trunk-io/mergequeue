@@ -2111,7 +2111,6 @@ bankruptism
 babylonia
 bankruptlike
 betraise
-bankruptship
 bankrupture
 banks
 bankshall
@@ -15167,6 +15166,7 @@ bribri
 blockheadedness
 bryce
 brick
+bankruptship
 brickbat
 brickbats
 borish
