@@ -167,7 +167,6 @@ editorially
 embryo
 ensand
 ergogram
-earthpea
 earthpeas
 earthquake
 earthquaked
@@ -13456,6 +13455,7 @@ exscind
 exscinding
 exscinds
 entailers
+earthpea
 exscissor
 exscript
 exscriptural
