@@ -5403,7 +5403,6 @@ catabolite
 catabolize
 catabolized
 claim
-catabolizing
 catachreses
 catachresis
 catachrestic
@@ -19853,6 +19852,7 @@ comiakin
 comic
 comical
 cusso
+catabolizing
 comicality
 comically
 comicalness
