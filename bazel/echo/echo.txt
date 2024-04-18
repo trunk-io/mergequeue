@@ -1826,7 +1826,6 @@ eyespot
 exstimulate
 eyespots
 eyess
-eyestalk
 ecclesiasticalness
 eyestalks
 eyestrain
@@ -6786,6 +6785,7 @@ enthusiasm
 evacuation
 enthusiasms
 exhibits
+eyestalk
 enthusiast
 enthusiastic
 enthusiastical
