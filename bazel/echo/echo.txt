@@ -2314,7 +2314,6 @@ electroaffinity
 electroamalgamation
 electroanalytic
 electroanalytical
-encl
 embassade
 electroanesthesia
 electroballistically
@@ -2792,6 +2791,7 @@ elenctical
 ectocornea
 elenge
 elengely
+encl
 emitter
 electrometallurgical
 elengeness
