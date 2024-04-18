@@ -1867,7 +1867,6 @@ bandboxes
 bandboxy
 barricos
 bandboxical
-bandcase
 bandcutter
 bande
 bandeau
@@ -4959,6 +4958,7 @@ beefsteaks
 beeftongue
 beefwood
 beefwoods
+bandcase
 beegerite
 blackcock
 beehead
