@@ -3855,7 +3855,6 @@ carburometer
 carcajou
 carcajous
 carcake
-carcinoscorpius
 carcanet
 carcanets
 carcanetted
@@ -30359,6 +30358,7 @@ ctenidia
 ctenidial
 ctenidium
 cteniform
+carcinoscorpius
 ctenii
 creat
 cteninidia
