@@ -4997,7 +4997,6 @@ ferries
 fedelini
 frontenis
 flannels
-flanning
 flanque
 flapcake
 flapdock
@@ -8353,6 +8352,7 @@ faceup
 flickery
 forlay
 forlain
+flanning
 forlanas
 fragrancies
 fumers
