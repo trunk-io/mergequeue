@@ -3097,7 +3097,6 @@ basad
 basal
 backhouse
 basale
-basally
 bursarship
 basalt
 basaltes
@@ -10075,6 +10074,7 @@ blackarm
 blackback
 blackball
 blackballed
+basally
 blackballer
 blackballs
 bridehood
