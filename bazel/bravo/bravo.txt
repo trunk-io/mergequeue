@@ -4651,7 +4651,6 @@ bedazzles
 bedazzlingly
 bedboard
 bedbugs
-bedcap
 bedcase
 bedchair
 bedchairs
@@ -16899,6 +16898,7 @@ buginese
 blahlaut
 buginvillaea
 bugle
+bedcap
 bugled
 badmouth
 buglet
