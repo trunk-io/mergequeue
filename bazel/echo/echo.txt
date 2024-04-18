@@ -2503,7 +2503,6 @@ electromechanics
 electromedical
 esquireship
 electromer
-extrasacerdotal
 efficaciousness
 electrometallurgy
 electrometallurgist
@@ -6760,6 +6759,7 @@ enthetic
 enthymematic
 enthymeme
 entremess
+extrasacerdotal
 exterminist
 enthral
 enthralldom
