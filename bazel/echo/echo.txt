@@ -4974,7 +4974,6 @@ endemicity
 endemics
 electrofused
 endemiology
-examiner
 endemism
 endemisms
 estates
@@ -11022,6 +11021,7 @@ euphuistic
 eyalet
 euphuize
 enregistering
+examiner
 euphuizing
 eupion
 eupyrchroite
