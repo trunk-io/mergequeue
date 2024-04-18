@@ -2596,6 +2596,7 @@ didascaly
 decolonize
 decolonizes
 decoloration
+desalter
 decolorimeter
 decoloring
 decolorisation
@@ -6465,7 +6466,6 @@ dinobryon
 decadenza
 desalt
 desalted
-desalter
 desalters
 dominicker
 desalting
