@@ -3896,6 +3896,7 @@ ethid
 emigr
 emigrant
 eavesdrip
+endometry
 emigrants
 emigrates
 emigrating
@@ -5184,7 +5185,6 @@ endolumbar
 endomastoiditis
 endome
 empt
-endometry
 ecossaise
 erasions
 ephesians
