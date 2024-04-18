@@ -3476,7 +3476,6 @@ caput
 caputium
 caque
 colonel
-caquet
 caqueterie
 caqueteuse
 caquetio
@@ -7947,6 +7946,7 @@ cetid
 chitinization
 cetyl
 cetylic
+caquet
 cetin
 cetiosaurian
 cetology
