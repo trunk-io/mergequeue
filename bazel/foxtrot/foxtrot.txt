@@ -3498,6 +3498,7 @@ figgum
 fight
 funniment
 fightable
+fingerable
 fatiguable
 forel
 fighteress
@@ -3985,7 +3986,6 @@ finfoots
 fingal
 fingall
 fingan
-fingerable
 fingerberry
 fingerboard
 fingerbreadth
