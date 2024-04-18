@@ -2946,6 +2946,7 @@ canvasback
 canvasbacks
 canvasers
 canvases
+coperiodic
 canvasing
 canvaslike
 canvasser
@@ -24487,7 +24488,6 @@ copepodan
 copepodous
 copepods
 coper
-coperiodic
 copernican
 creatophagous
 copernicanism
