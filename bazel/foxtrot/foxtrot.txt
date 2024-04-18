@@ -7385,7 +7385,6 @@ fissidens
 forbiddenness
 fenestellae
 flames
-foolishness
 forbidding
 fruitery
 forbiddingly
@@ -9991,6 +9990,7 @@ fricasseing
 fecula
 fireboats
 fricative
+foolishness
 fricatrice
 frickle
 friction
