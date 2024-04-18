@@ -3739,7 +3739,6 @@ filletster
 filleul
 filly
 feodal
-fillies
 filling
 fillingly
 fillings
@@ -6683,6 +6682,7 @@ foehnlike
 foehns
 foeish
 foeless
+fillies
 foelike
 forenotice
 foemanship
