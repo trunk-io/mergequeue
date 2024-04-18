@@ -7587,7 +7587,6 @@ foreclaw
 foreclose
 foreclosed
 foreclosure
-feteless
 foreclosures
 forecome
 forecommend
@@ -8716,6 +8715,7 @@ fadges
 forthtell
 femalist
 forthteller
+feteless
 floodwater
 flanging
 forthwith
