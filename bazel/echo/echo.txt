@@ -3055,7 +3055,6 @@ ellipsis
 ellipsograph
 ellipsoid
 ellipsoidal
-ellipsoids
 executiveness
 ellipsone
 ellipsonic
@@ -8918,6 +8917,7 @@ eremochaeta
 eremochaetous
 eremology
 eremophilous
+ellipsoids
 extracranial
 eremuri
 eremurus

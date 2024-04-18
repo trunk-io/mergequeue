@@ -2214,7 +2214,6 @@ gremlin
 gazettes
 gazetting
 gazingstock
-gazogene
 gazogenes
 gadder
 gazophylacium
@@ -3199,6 +3198,7 @@ guardlike
 glycoside
 geophones
 geoplagiotropism
+gazogene
 geoplana
 gonadectomized
 geoplanidae
