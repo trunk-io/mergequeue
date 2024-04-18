@@ -1900,7 +1900,6 @@ fecifork
 fasola
 feck
 feckful
-feckfully
 feckless
 feckly
 fecks
@@ -5415,6 +5414,7 @@ flanges
 fleys
 frankfold
 fleysome
+feckfully
 flem
 fleme
 flemer
