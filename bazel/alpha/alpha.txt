@@ -4384,7 +4384,6 @@ adrenally
 androginous
 ambitus
 adrenalone
-acoelous
 adrench
 asarota
 adrenergic
@@ -14933,6 +14932,7 @@ anticity
 anticytolysin
 anticytotoxin
 anticivic
+acoelous
 anticivil
 anticivilian
 atturn
