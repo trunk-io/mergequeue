@@ -1153,7 +1153,6 @@ dassies
 dastardy
 dastardize
 dastardly
-dastardliness
 dastur
 donkey
 doublehandedness
@@ -5918,6 +5917,7 @@ dextrorsal
 dianoialogy
 depreciate
 depreciated
+dastardliness
 depreciatingly
 depreciation
 depreciative
