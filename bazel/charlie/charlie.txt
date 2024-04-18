@@ -5034,7 +5034,6 @@ cephalopagus
 cascaron
 cascavel
 caschielawis
-caschrom
 casco
 crawlways
 cascrom
@@ -19578,6 +19577,7 @@ crinkleroot
 columned
 columner
 crosspieces
+caschrom
 columniation
 columniferous
 columniform
