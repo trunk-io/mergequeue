@@ -8737,7 +8737,6 @@ bilobate
 bilobated
 bilobe
 bilobed
-bilobiate
 bilocation
 bilocular
 biloculate
@@ -10204,6 +10203,7 @@ blackrag
 ballarag
 blackroot
 blacks
+bilobiate
 blackseed
 biofeedback
 blackshirt
