@@ -6675,7 +6675,6 @@ fod
 fodda
 fodder
 fodderer
-foddering
 fodderless
 foder
 fries
@@ -9766,6 +9765,7 @@ freewheeling
 fulcrumage
 freewheelingness
 freewill
+foddering
 fei
 freewoman
 freewomen
