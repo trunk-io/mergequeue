@@ -5879,6 +5879,7 @@ glossers
 glosses
 glossy
 glossier
+goitered
 glossies
 glossiest
 granitical
@@ -7662,7 +7663,6 @@ grads
 granzita
 gradual
 gradualist
-goitered
 gradualistic
 gallantness
 gradually
