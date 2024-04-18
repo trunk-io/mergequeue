@@ -11800,7 +11800,6 @@ analogousness
 analogue
 analphabet
 analphabete
-analphabetic
 acyanopsia
 awink
 administrate
@@ -17906,6 +17905,7 @@ ampule
 apportioner
 anthophoridae
 apportioning
+analphabetic
 australic
 apportionment
 apportionments
