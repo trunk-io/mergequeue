@@ -8056,7 +8056,6 @@ dhurrie
 dhutis
 di
 diabase
-diabaterial
 diabetes
 diabetical
 diabetometer
@@ -14780,6 +14779,7 @@ dode
 dodecade
 dresden
 dodecadrachm
+diabaterial
 dodecafid
 dodecahedral
 delivery
