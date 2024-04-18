@@ -4443,7 +4443,6 @@ fissidentaceous
 fissile
 fissilinguia
 fissility
-fission
 fissionable
 fissioned
 frays
@@ -10338,6 +10337,7 @@ fibroadenia
 flaming
 frogman
 frogmarch
+fission
 frogmen
 frognose
 fruticant
