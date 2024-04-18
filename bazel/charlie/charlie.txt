@@ -19696,7 +19696,6 @@ cloudburst
 combiner
 combiners
 combines
-combing
 combings
 combining
 combite
@@ -26355,6 +26354,7 @@ cotyledonar
 cotyledonary
 cotyledonoid
 cotyledonous
+combing
 cotyledons
 cotyligerous
 cotyliscus
