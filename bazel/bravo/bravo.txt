@@ -5615,6 +5615,7 @@ basementward
 bruscus
 beachcomber
 belaboring
+blankit
 belabours
 belace
 bewigs
@@ -10386,7 +10387,6 @@ blanking
 blankish
 botherer
 brazing
-blankit
 boregat
 blankly
 blankminded
