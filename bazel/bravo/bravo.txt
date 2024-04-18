@@ -12647,7 +12647,6 @@ bookism
 buoyancies
 bookkeep
 bookkeeper
-bookkeeps
 bookland
 booklear
 bistouries
@@ -13541,6 +13540,7 @@ besand
 boult
 boultel
 boulter
+bookkeeps
 boulterer
 bounce
 bounceable
