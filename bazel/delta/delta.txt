@@ -5591,6 +5591,7 @@ departisanize
 dehistoricize
 departition
 department
+dicot
 departmental
 depreciant
 drily
@@ -8990,7 +8991,6 @@ dicoelous
 dicolic
 dicolon
 dicophane
-dicot
 dicotyledon
 dicotyledonous
 dicotyledons
