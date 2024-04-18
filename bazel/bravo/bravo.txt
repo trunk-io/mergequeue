@@ -13835,7 +13835,6 @@ bowshot
 bowshots
 bowsie
 bowsing
-bowsprit
 bowsprits
 bowstaff
 brokenhearted
@@ -14799,6 +14798,7 @@ breakability
 bronchoesophagoscopy
 breakable
 bullwhip
+bowsprit
 breakableness
 breakables
 breakably
