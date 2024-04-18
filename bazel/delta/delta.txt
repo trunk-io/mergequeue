@@ -2656,7 +2656,6 @@ decomposing
 decomposition
 decapod
 decomposure
-decompound
 dogwatches
 decompoundable
 decompoundly
@@ -3965,6 +3964,7 @@ delapse
 delapsion
 dominatingly
 delassation
+decompound
 delassement
 delated
 delater
