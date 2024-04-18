@@ -7903,7 +7903,6 @@ alength
 alenu
 aleochara
 aleph
-alephs
 alephzero
 alepidote
 alepine
@@ -19693,6 +19692,7 @@ aridities
 aridly
 aridness
 ariegite
+alephs
 ariel
 airbill
 ariels
