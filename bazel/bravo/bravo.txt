@@ -6567,6 +6567,7 @@ bepicture
 bepiece
 bellyflaught
 bepierce
+besant
 bepile
 beacher
 bepill
@@ -6915,7 +6916,6 @@ besayle
 brachycephalic
 besan
 besand
-besant
 bravados
 bescab
 bescarf
