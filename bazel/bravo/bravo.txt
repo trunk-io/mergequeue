@@ -11190,7 +11190,6 @@ blotchiness
 benegro
 burblier
 blote
-blotless
 blotlessness
 blots
 beaker
@@ -12865,6 +12864,7 @@ bangalay
 bootstrapping
 boottop
 booze
+blotless
 boozed
 boozehound
 boozer
