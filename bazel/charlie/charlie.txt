@@ -8489,7 +8489,6 @@ chamfrain
 cradock
 chamfron
 chamian
-chamidae
 chamisal
 chamise
 chamises
@@ -24663,6 +24662,7 @@ coppling
 coppra
 coppras
 copr
+chamidae
 copra
 copraemia
 copraemic

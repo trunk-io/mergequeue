@@ -2930,6 +2930,7 @@ feudatories
 feuded
 fakers
 feudee
+fictitious
 feuder
 flock
 fumier
@@ -10732,7 +10733,6 @@ fruitwood
 flavobacterium
 fruitworm
 frumaryl
-fictitious
 frument
 frumentaceous
 flitchplate
