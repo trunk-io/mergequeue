@@ -1669,6 +1669,7 @@ accordionist
 accordionists
 accordions
 accords
+anaesthetist
 accorporate
 accorporation
 accost
@@ -11620,7 +11621,6 @@ anaesthetically
 anthropomantic
 ade
 anaesthetics
-anaesthetist
 anaesthetization
 anaesthetize
 anaesthetized
