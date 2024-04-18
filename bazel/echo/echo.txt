@@ -9503,7 +9503,6 @@ escallop
 enrobement
 esseda
 escalloped
-equiponderation
 eikonogen
 escalop
 escalope
@@ -11457,6 +11456,7 @@ evenness
 exaristate
 enghosted
 evennesses
+equiponderation
 evensongs
 event
 eventail
