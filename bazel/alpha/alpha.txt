@@ -1249,7 +1249,6 @@ acalephs
 acalycal
 ampelitic
 acalycine
-acalycinous
 acalyculate
 acalypha
 azlactone
@@ -11184,6 +11183,7 @@ amphiprotic
 amphirhina
 amphirhinal
 amphirhine
+acalycinous
 amphisarca
 amphisbaena
 amphisbaenae
