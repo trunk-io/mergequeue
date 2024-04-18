@@ -488,6 +488,7 @@ galeopsis
 glossoncus
 galeorchis
 goner
+glucinic
 geelhout
 glutoid
 galeorhinidae
@@ -6034,7 +6035,6 @@ gonoblastidial
 glucid
 glucidic
 glucine
-glucinic
 glucinium
 glucinum
 gypsologist
