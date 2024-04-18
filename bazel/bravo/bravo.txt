@@ -8660,7 +8660,6 @@ billfolds
 burel
 billheads
 billholder
-billhook
 baptisteries
 boopic
 burnouses
@@ -10739,6 +10738,7 @@ blepharemphysema
 blepharydatis
 blephariglottis
 blepharism
+billhook
 blepharitic
 blepharoadenitis
 blepharoadenoma
