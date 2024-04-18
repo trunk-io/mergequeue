@@ -5431,7 +5431,6 @@ glycid
 glycide
 galoshed
 glycidol
-glycyl
 guffy
 glycyls
 gutte
@@ -10750,6 +10749,7 @@ gutsily
 glossospasm
 gutsiness
 goths
+glycyl
 gutt
 gygis
 guttable
