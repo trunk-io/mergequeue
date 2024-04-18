@@ -2557,6 +2557,7 @@ exportability
 electrophysiologically
 electrophobia
 electrophore
+electrotherapeutic
 ecphova
 electrophorese
 electrophoreses
@@ -12879,7 +12880,6 @@ exotics
 exotism
 exotospore
 exotoxic
-electrotherapeutic
 exotoxins
 ecomomist
 emigrate
