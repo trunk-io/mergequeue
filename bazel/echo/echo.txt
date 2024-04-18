@@ -4078,6 +4078,7 @@ empetrum
 empexa
 emphase
 emphases
+equiprobably
 epicoelian
 emphasised
 emphasize
@@ -8742,7 +8743,6 @@ equipped
 electrostereotype
 equiprobability
 equiprobable
-equiprobably
 enablers
 equiproportional
 equiproportionality
