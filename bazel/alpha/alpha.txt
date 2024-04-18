@@ -9611,7 +9611,6 @@ acrotarsial
 aluminothermics
 aluminous
 alumins
-aluminum
 aluminums
 alumish
 alumite
@@ -11230,6 +11229,7 @@ antialien
 amphithecium
 amphithect
 antepartum
+aluminum
 amphithyra
 amphithyron
 amphithura
