@@ -8431,6 +8431,7 @@ autopyotherapy
 alkalinize
 alkalinized
 alkalinizes
+antilog
 alkalinizing
 alkalinuria
 apocryphalist
@@ -15453,7 +15454,6 @@ antilocapra
 antilochus
 anaglypton
 antiloemic
-antilog
 antilogarithmic
 antilogic
 atropinize

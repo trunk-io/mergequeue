@@ -6492,7 +6492,6 @@ descartes
 diag
 descendability
 descendable
-descendance
 descendants
 dilemmatically
 descendence
@@ -15863,6 +15862,7 @@ dorter
 diamondize
 dorty
 dortiness
+descendance
 dortiship
 dortour
 doruck
