@@ -497,6 +497,7 @@ galeres
 galericulate
 galerie
 galerum
+garveys
 gales
 galesaur
 galesaurus
@@ -1553,7 +1554,6 @@ garths
 garum
 girdlers
 garvey
-garveys
 garvock
 gas
 gasalier
