@@ -12725,7 +12725,6 @@ dismastment
 disme
 dismeasured
 darkrooms
-dismember
 dismembered
 dismembering
 dismemberments
@@ -16135,6 +16134,7 @@ douter
 desorbing
 douzaine
 domable
+dismember
 deoxygenize
 douzaines
 douzainier
