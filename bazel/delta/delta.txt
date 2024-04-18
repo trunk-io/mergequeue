@@ -11841,7 +11841,6 @@ discussionis
 discussionist
 discussions
 discustom
-discutable
 discutient
 disdain
 disdainable
@@ -14654,6 +14653,7 @@ dockage
 drawglove
 dilatancy
 docked
+discutable
 docker
 dockers
 docket
