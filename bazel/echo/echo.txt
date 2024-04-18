@@ -5351,7 +5351,6 @@ endothelia
 elechi
 epigoneion
 ecalcavate
-epitendineum
 endothelial
 endothelioid
 evocatory
@@ -5482,6 +5481,7 @@ energico
 energid
 energids
 energise
+epitendineum
 epirot
 energiser
 energises
