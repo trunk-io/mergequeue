@@ -10530,7 +10530,6 @@ decolourize
 diplococcemia
 diplococci
 diplococcic
-diplococcocci
 diplococcoid
 downsize
 deciduary
@@ -15470,6 +15469,7 @@ donet
 dong
 donga
 donging
+diplococcocci
 despin
 dongola
 decollated
