@@ -26286,7 +26286,6 @@ cotabulate
 carya
 cotangent
 cotangents
-cotans
 cotarius
 cotbetty
 cotch
@@ -28868,6 +28867,7 @@ cryable
 cryaesthesia
 cephalhydrocele
 cryalgesia
+cotans
 carbonisation
 criance
 cryanesthesia
