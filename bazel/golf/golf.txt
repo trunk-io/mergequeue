@@ -2380,7 +2380,6 @@ gelidiaceae
 guideship
 gelandelaufer
 gymnodiniaceae
-gelandesprung
 gelant
 gelants
 gelastic
@@ -8438,6 +8437,7 @@ gesan
 graveolent
 gipons
 galactophagist
+gelandesprung
 graverobbing
 gravers
 glomi
