@@ -2755,6 +2755,7 @@ fesels
 fesse
 fessed
 fesses
+flaunche
 fessewise
 fest
 festae
@@ -7471,7 +7472,6 @@ fivers
 flabbergastation
 ford
 fordable
-flaunche
 fordableness
 forded
 fibromyxosarcoma
