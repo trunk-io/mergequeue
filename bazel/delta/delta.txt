@@ -744,7 +744,6 @@ danceability
 danceable
 danced
 degasification
-danceress
 dancers
 dances
 dancettee
@@ -5210,6 +5209,7 @@ delies
 denigratory
 denyingly
 denim
+danceress
 denims
 denis
 directives
