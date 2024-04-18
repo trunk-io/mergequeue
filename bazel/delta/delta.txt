@@ -9321,6 +9321,7 @@ diffarreation
 diffeomorphic
 diffeomorphism
 differ
+disconnectiveness
 differed
 differen
 differenced
@@ -11752,7 +11753,6 @@ distally
 disported
 deoxidising
 discrested
-disconnectiveness
 discretely
 dogfall
 discreteness
