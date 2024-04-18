@@ -2250,6 +2250,7 @@ elective
 ephemerons
 electives
 electivism
+engram
 electivity
 electo
 elector
@@ -5775,7 +5776,6 @@ epizoicide
 engrainer
 engraining
 endict
-engram
 excerptible
 engrammatic
 engramme
