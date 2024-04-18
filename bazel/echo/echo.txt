@@ -4597,6 +4597,7 @@ enchanted
 euthycomic
 enchanter
 excitement
+exhalent
 enchantery
 enchanters
 enchanting
@@ -12433,7 +12434,6 @@ exhalation
 exhalations
 exhalatory
 exhale
-exhalent
 exhalents
 exhales
 exhaling
