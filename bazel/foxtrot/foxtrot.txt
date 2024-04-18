@@ -442,6 +442,7 @@ faisan
 faisceau
 feodality
 faitery
+formatting
 faithbreach
 faithbreaker
 finagles
@@ -8413,7 +8414,6 @@ formations
 folies
 flingdust
 formats
-formatting
 formature
 flappering
 formazan
