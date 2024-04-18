@@ -4729,7 +4729,6 @@ codeias
 carr
 carrack
 carracks
-carrageen
 carrageenan
 carrageenin
 carragheen
@@ -6528,6 +6527,7 @@ cecidiologist
 cecidium
 cacafugo
 cecidogenous
+carrageen
 cecidology
 cecidomyian
 cecidomyiidae
