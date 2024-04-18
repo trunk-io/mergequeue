@@ -8556,7 +8556,6 @@ dethrone
 diaphaneity
 didacts
 diaphanie
-diaphanometer
 diaphanometry
 drawbacks
 diaphanometric
@@ -9639,6 +9638,7 @@ dispersedelement
 dikaryon
 dikaryophase
 delignated
+diaphanometer
 dikaryophasic
 dikaryophyte
 dikaryophytic
