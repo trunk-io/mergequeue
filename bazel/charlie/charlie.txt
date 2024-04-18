@@ -19112,6 +19112,7 @@ collocatory
 collochemistry
 collochromate
 collock
+compartmentalizes
 collocution
 collocutor
 collocutory
@@ -20474,7 +20475,6 @@ compartment
 conelet
 compartmentalization
 compartmentalized
-compartmentalizes
 compartmentalizing
 compartmentation
 crenelling
