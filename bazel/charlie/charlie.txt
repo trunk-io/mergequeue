@@ -11278,7 +11278,6 @@ culicid
 chlorize
 chesterbed
 chlormethane
-chlormethylic
 chlornal
 chloro
 chloroacetic
@@ -25989,6 +25988,7 @@ cosherer
 coshery
 cosheries
 coshering
+chlormethylic
 coshers
 coshes
 coshing
