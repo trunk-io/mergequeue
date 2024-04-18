@@ -1394,7 +1394,6 @@ baldpated
 baldpatedness
 baldpates
 baldrib
-blent
 baldric
 baldrick
 baldricked
@@ -11183,6 +11182,7 @@ blotch
 beestride
 blotches
 blotchier
+blent
 blotchiest
 bestrapped
 blotchiness
