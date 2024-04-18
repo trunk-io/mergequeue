@@ -11584,7 +11584,6 @@ boaster
 boasters
 boastfully
 boastfulness
-boastingly
 boastings
 boastive
 boasts
@@ -12293,6 +12292,7 @@ bombastical
 behoovefully
 bioclean
 bombasticness
+boastingly
 bombastry
 blockades
 bombasts
