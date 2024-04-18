@@ -6950,7 +6950,6 @@ cenosity
 cenospecies
 custodiam
 cenospecific
-cenotaph
 cenotaphy
 cenotaphies
 cenotaphs
@@ -15840,6 +15839,7 @@ clearing
 clearinghouse
 clearinghouses
 clearings
+cenotaph
 clearish
 clearly
 clearminded
