@@ -22491,7 +22491,6 @@ conjuration
 conjurations
 conjurator
 cesar
-conjure
 conjured
 conjurement
 conjurer
@@ -26948,6 +26947,7 @@ counterpleading
 counterplot
 counterplotted
 counterplotter
+conjure
 counterplotting
 chimneypot
 counterpoint

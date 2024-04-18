@@ -5085,7 +5085,6 @@ endocyclic
 endocyemate
 enfield
 endocyst
-epicyclical
 exclusionary
 endocystitis
 eardrums
@@ -12680,6 +12679,7 @@ eczematization
 emda
 envermeil
 exodus
+epicyclical
 emeralds
 exoenzyme
 expulsory
