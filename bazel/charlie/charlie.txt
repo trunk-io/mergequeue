@@ -4598,7 +4598,6 @@ carouser
 cuddly
 carousers
 carouses
-carousing
 carousingly
 carp
 continuua
@@ -19332,6 +19331,7 @@ colopuncture
 coloquies
 coloquintid
 coloquintida
+carousing
 checkstone
 color
 colorability
