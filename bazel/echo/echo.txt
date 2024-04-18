@@ -6433,7 +6433,6 @@ enslaves
 espave
 enslaving
 epiphyseolysis
-enslumber
 ensnare
 ensnared
 explosive
@@ -9416,6 +9415,7 @@ eructating
 eructation
 eructative
 eructed
+enslumber
 erring
 eruction
 eructs
