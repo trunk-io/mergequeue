@@ -2609,7 +2609,6 @@ electroscope
 electroscopes
 encheiria
 endpapers
-electroscopic
 electrosensitive
 electrosherardizing
 electroshock
@@ -6575,6 +6574,7 @@ entente
 ententes
 entepicondylar
 enter
+electroscopic
 enterable
 enteraden
 enteradenography
