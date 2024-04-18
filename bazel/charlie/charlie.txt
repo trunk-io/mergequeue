@@ -11199,7 +11199,6 @@ chlorcosane
 chlordan
 chlordane
 chlordans
-chlore
 chlored
 chlorella
 costotransversal
@@ -17051,6 +17050,7 @@ campement
 coadjute
 coadjutement
 coadjutive
+chlore
 coadjutor
 coadjutors
 carduus
