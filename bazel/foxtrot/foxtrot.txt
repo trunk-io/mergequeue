@@ -821,7 +821,6 @@ flusher
 furtiveness
 fautor
 footlike
-fanioned
 fortes
 fanions
 firebolt
@@ -8858,6 +8857,7 @@ fossicks
 fossified
 fossiform
 fossil
+fanioned
 fossilage
 featly
 franking
