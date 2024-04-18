@@ -3801,7 +3801,6 @@ exscribe
 erythrons
 expendables
 emendable
-edifier
 emendandum
 emendated
 ekerite
@@ -9140,6 +9139,7 @@ erythrinidae
 erythrinus
 exclusory
 eteocretes
+edifier
 edriophthalma
 erythristic
 erythrite
