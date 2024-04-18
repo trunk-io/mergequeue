@@ -14211,6 +14211,7 @@ anteoccupation
 alarming
 anteocular
 anteopercle
+assoin
 anteoperculum
 anteorbital
 antepagment
@@ -21874,7 +21875,6 @@ archminister
 aminolipin
 assoils
 assoilzie
-assoin
 assonanced
 assonances
 assonant
