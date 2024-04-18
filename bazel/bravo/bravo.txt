@@ -3596,7 +3596,6 @@ bathypelagic
 bastinadoes
 babesiasis
 bathyplankton
-buglers
 baygall
 bathyscaph
 briquetted
@@ -16144,6 +16143,7 @@ brothels
 bistorta
 borrowing
 brother
+buglers
 brotherhood
 brothering
 brotherless
