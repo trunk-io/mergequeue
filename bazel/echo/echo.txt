@@ -4555,7 +4555,6 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
-endrins
 encephalometric
 encephalomyelitic
 encephalomyelitis
@@ -6124,6 +6123,7 @@ ennoble
 electrosynthetic
 ennoblement
 estuant
+endrins
 ennoblements
 ennobler
 ellerian
