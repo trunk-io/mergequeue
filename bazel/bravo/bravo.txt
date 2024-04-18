@@ -5782,7 +5782,6 @@ bellacoola
 belladonna
 biltongs
 bellatrix
-burglar
 bellbind
 buckjump
 bellbinder
@@ -13229,6 +13228,7 @@ bostonian
 blitheness
 bostonite
 banderillas
+burglar
 bostrychid
 bostrychidae
 bostrychoidal
