@@ -271,7 +271,6 @@ gainyield
 grafter
 gaining
 gainings
-gainlessness
 gainly
 gainlier
 gouda
@@ -3084,6 +3083,7 @@ gyropilot
 geogenetic
 geogeny
 geogenic
+gainlessness
 goldney
 geoglossaceae
 graphitized
