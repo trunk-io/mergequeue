@@ -3967,7 +3967,6 @@ cardialgia
 calla
 cardialgic
 cardiameter
-cardiamorphia
 cardianesthesia
 cardianeuria
 cardiaplegia
@@ -16250,6 +16249,7 @@ clinoclasite
 cartelize
 clinodiagonal
 clinodomatic
+cardiamorphia
 clinodome
 clinograph
 clinographic
