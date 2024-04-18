@@ -2768,7 +2768,6 @@ duchess
 dogtail
 decrease
 decreased
-decreaseless
 depravate
 decreases
 decreasing
@@ -4119,6 +4118,7 @@ decimalizing
 delim
 delimed
 delimes
+decreaseless
 deliming
 delimit
 delimitate
