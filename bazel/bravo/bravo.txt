@@ -1487,7 +1487,6 @@ balker
 balkers
 balky
 balkiest
-balkily
 balkiness
 bolloxed
 balking
@@ -6385,6 +6384,7 @@ briguer
 benzaldehyde
 benzaldoxime
 benumb
+balkily
 bandeaus
 benzalethylamine
 benzalphenylhydrazone
