@@ -2682,6 +2682,7 @@ barking
 barkingly
 barkinji
 barkless
+blinter
 barklyite
 barkometer
 barkpeel
@@ -10907,7 +10908,6 @@ blinkers
 blinky
 blinkingly
 blinks
-blinter
 blintzes
 blip
 bluming
