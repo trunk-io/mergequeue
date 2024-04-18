@@ -3669,6 +3669,7 @@ embryology
 epigonousepigons
 embryologic
 embryological
+endocoeliac
 embryologically
 embryologist
 embryologists
@@ -10597,7 +10598,6 @@ etoile
 estrangle
 eton
 etrenne
-endocoeliac
 etrog
 etrogim
 etruscan
