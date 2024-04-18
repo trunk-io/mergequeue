@@ -5254,7 +5254,6 @@ bastes
 begaud
 begaudy
 bobbled
-begaze
 begazes
 begazing
 blinds
@@ -15321,6 +15320,7 @@ brieflessly
 brieflessness
 briefly
 briefness
+begaze
 bleeds
 bedstaves
 bomarea
