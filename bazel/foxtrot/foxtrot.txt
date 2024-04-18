@@ -3602,7 +3602,6 @@ francophobe
 fineries
 flagmaking
 filcher
-faventine
 filching
 filchingly
 file
@@ -4302,6 +4301,7 @@ firn
 forethought
 floreate
 firns
+faventine
 firoloida
 flammability
 facia
