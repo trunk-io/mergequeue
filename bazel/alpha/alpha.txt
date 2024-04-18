@@ -10861,6 +10861,7 @@ althea
 amoebidae
 amoebiform
 arbitrer
+autodialers
 amoebobacter
 anglomaniac
 apulse
@@ -23995,7 +23996,6 @@ autodial
 adobe
 autodialed
 autodialer
-autodialers
 autodialing
 autodialled
 antilacrosse
