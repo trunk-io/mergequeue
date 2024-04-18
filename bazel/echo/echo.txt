@@ -6038,6 +6038,7 @@ enlists
 enlive
 enliven
 enlivened
+expendability
 enlivener
 enliveningly
 emancipatory
@@ -13021,7 +13022,6 @@ explications
 efficacious
 eoliths
 expend
-expendability
 euphuisms
 estacade
 expender
