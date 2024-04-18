@@ -6026,7 +6026,6 @@ agglomerator
 autoing
 aramis
 agglutinable
-agglutinant
 apical
 anthropodus
 agglutinate
@@ -7333,6 +7332,7 @@ alarmclock
 alexanders
 alarmed
 alarmedly
+agglutinant
 alarmingly
 assn
 alarmingness
