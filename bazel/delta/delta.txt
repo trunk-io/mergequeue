@@ -1202,7 +1202,6 @@ dialyzers
 dateableness
 dusio
 datebook
-dated
 datedly
 dolichos
 despumated
@@ -5684,6 +5683,7 @@ dephlegmatory
 dephlegmedness
 dephlogisticate
 dess
+dated
 dephlogisticated
 dephlogistication
 dephosphorization
