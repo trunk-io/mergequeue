@@ -2950,7 +2950,6 @@ blind
 barrelhead
 barrelhouse
 barrelhouses
-besmearer
 barreling
 broad
 barrelled
@@ -15163,6 +15162,7 @@ batwa
 bribing
 boldheartedness
 bodyweight
+besmearer
 bribri
 blockheadedness
 bryce
