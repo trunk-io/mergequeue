@@ -3294,7 +3294,6 @@ dragoons
 disfavored
 defibrillatory
 defibrinate
-defibrination
 defibrinize
 deficiency
 deficient
@@ -10183,6 +10182,7 @@ dinnery
 dinnerless
 dinnerly
 dinners
+defibrination
 dinnertime
 dinnerware
 dinning
