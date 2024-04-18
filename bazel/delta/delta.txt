@@ -1237,6 +1237,7 @@ datolitic
 datos
 datsun
 deluster
+descamisado
 datsuns
 datsw
 dulcetness
@@ -6470,7 +6471,6 @@ desands
 desc
 descale
 descaling
-descamisado
 descamisados
 descant
 disencumber
