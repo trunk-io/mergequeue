@@ -10120,7 +10120,6 @@ amoeboidism
 ambulanced
 ambulancer
 ambulances
-ambulant
 alloted
 ambulante
 antihierarchical
@@ -25306,6 +25305,7 @@ abask
 azohumic
 azoic
 azole
+ambulant
 azoles
 azolitmin
 azolla
