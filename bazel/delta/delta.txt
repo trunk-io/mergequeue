@@ -6383,7 +6383,6 @@ dermopterous
 dermoreaction
 dyotheletism
 dermosclerite
-dermoskeletal
 dermoskeleton
 dermotherm
 dermotropic
@@ -9366,6 +9365,7 @@ difflation
 diffluent
 difform
 difforme
+dermoskeletal
 desmogen
 difformed
 diffract
