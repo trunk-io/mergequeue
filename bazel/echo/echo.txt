@@ -6367,7 +6367,6 @@ exuberant
 ensembles
 ensepulcher
 ensepulchered
-ensepulchering
 ensepulchre
 enseraph
 enserfed
@@ -11701,6 +11700,7 @@ enhances
 exacerbating
 endostylar
 exacerbatingly
+ensepulchering
 exacerbations
 exacerbescence
 ethicophysical
