@@ -4492,7 +4492,6 @@ graces
 gunky
 greengrocer
 ginglymostomoid
-ginglyni
 glarily
 glaive
 ginhound
@@ -9089,6 +9088,7 @@ gwantus
 grinning
 grinningly
 gravemaster
+ginglyni
 grint
 griot
 genoveva
