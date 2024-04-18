@@ -5340,6 +5340,7 @@ beelines
 blackboys
 breviers
 beglue
+bloomery
 begnaw
 begnawed
 begnawn
@@ -11151,7 +11152,6 @@ blooey
 burmese
 blooie
 bloomed
-bloomery
 bricks
 bloomeries
 bloomerism
