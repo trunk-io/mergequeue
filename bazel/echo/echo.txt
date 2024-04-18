@@ -6963,7 +6963,6 @@ entosthoblast
 entothorax
 entotympanic
 ebullioscope
-entotrophi
 enterokinetic
 enterparlance
 entourage
@@ -9899,6 +9898,7 @@ eisoptrophobia
 epimorphic
 esselenian
 essenced
+entotrophi
 essences
 eddo
 essenhout
