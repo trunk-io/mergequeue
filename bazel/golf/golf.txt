@@ -4970,6 +4970,7 @@ glaciarium
 greeing
 glaciated
 glaciates
+grumbles
 glaciating
 glaciation
 glaciered
@@ -9691,7 +9692,6 @@ georgiana
 germinable
 grumbled
 grumbler
-grumbles
 grumbling
 grumblingly
 greyhounds
