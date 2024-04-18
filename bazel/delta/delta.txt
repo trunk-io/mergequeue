@@ -11821,7 +11821,6 @@ delicateness
 discuses
 discussed
 discusses
-deflection
 discussing
 discussion
 dunked
@@ -15116,6 +15115,7 @@ dolefuls
 dolente
 dolentissimo
 dolently
+deflection
 dolerin
 doleritic
 dolerophanite
