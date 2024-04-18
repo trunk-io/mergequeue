@@ -7055,6 +7055,7 @@ brahmanhood
 basidium
 besmircher
 besmirchers
+billethead
 besmirches
 besmirchment
 besmoke
@@ -8650,7 +8651,6 @@ brawlis
 billeted
 billeter
 billeters
-billethead
 billety
 billets
 billette
