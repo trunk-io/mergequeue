@@ -72,7 +72,6 @@ dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
 dacryocystotomy
-dacryohemorrhea
 dacryolin
 dacryolithiasis
 dacryoma
@@ -9992,6 +9991,7 @@ dynamistic
 dynamists
 diverticular
 duplexs
+dacryohemorrhea
 definitization
 dynamitard
 dynamited
