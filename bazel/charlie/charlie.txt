@@ -5095,7 +5095,6 @@ casernes
 caserns
 cases
 casette
-casettes
 caseum
 caseweed
 casewood
@@ -22301,6 +22300,7 @@ coradicate
 congressist
 congressive
 cebids
+casettes
 congresso
 congresswoman
 congresswomen
