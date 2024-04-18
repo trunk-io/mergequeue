@@ -8736,7 +8736,6 @@ chanted
 chantey
 chanteyman
 chantepleure
-chanter
 chanterelle
 chanters
 chantership
@@ -30345,6 +30344,7 @@ crystallogenic
 csardas
 csch
 csect
+chanter
 cholecystectomies
 csects
 csi
