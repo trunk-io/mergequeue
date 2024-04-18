@@ -81,7 +81,6 @@ dacryops
 dacryorrhea
 dacryosyrinx
 dacryostenosis
-dacryuria
 dactyl
 dactylar
 dactylate
@@ -11785,6 +11784,7 @@ discriminates
 dilettanist
 discriminating
 discriminatingly
+dacryuria
 discriminatingness
 discriminational
 discriminative
