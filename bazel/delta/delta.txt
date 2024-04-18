@@ -9535,7 +9535,6 @@ desterilize
 dignifying
 deglazes
 dignitary
-dignitarial
 dignitarian
 dignitaries
 dignity
@@ -13490,6 +13489,7 @@ desolations
 disseizoress
 disseizure
 dissemblance
+dignitarial
 dictyonina
 dissemble
 dissembler
