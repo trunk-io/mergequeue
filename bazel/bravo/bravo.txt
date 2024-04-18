@@ -11197,7 +11197,6 @@ blotless
 blotlessness
 blots
 beaker
-blotted
 blotter
 blotters
 blottesque
@@ -12707,6 +12706,7 @@ bookshops
 babassus
 booksy
 bookstall
+blotted
 buds
 bookstand
 bookstore
