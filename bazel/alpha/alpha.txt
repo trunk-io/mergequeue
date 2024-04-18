@@ -1716,6 +1716,7 @@ accoutres
 accoutring
 accra
 accredit
+argenteum
 accreditable
 accreditate
 accreditation
@@ -6737,7 +6738,6 @@ aikido
 aikidos
 aikinite
 aikona
-argenteum
 ailantery
 ailanthic
 ailanthus
