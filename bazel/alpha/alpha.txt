@@ -2541,6 +2541,7 @@ acknowledgedly
 acknowledgements
 acknowledger
 acknowledgers
+airometer
 acknowledges
 acknowledging
 acknowledgment
@@ -6946,7 +6947,6 @@ airmonger
 airn
 aloadae
 airns
-airometer
 airpark
 airphobia
 airplay
