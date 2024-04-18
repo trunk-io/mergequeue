@@ -14391,6 +14391,7 @@ circumradius
 circumradiuses
 circumferent
 circumrenal
+claver
 circumrotate
 circumrotated
 circumrotation
@@ -15732,7 +15733,6 @@ clavelize
 clavellate
 clavellated
 controllingly
-claver
 clavered
 clavering
 clavers
