@@ -1153,7 +1153,6 @@ enlightening
 elephantine
 edition
 editions
-electronvolt
 editor
 editorial
 editorialization
@@ -5406,6 +5405,7 @@ equinox
 endovenous
 eskimoes
 elsewhither
+electronvolt
 endowing
 endoerythrocytic
 endowment
