@@ -4970,7 +4970,6 @@ flanker
 flankers
 falconries
 fringilliform
-fireshaft
 flanking
 flanks
 faineantise
@@ -8000,6 +7999,7 @@ foresightful
 foresightless
 foresights
 feasts
+fireshaft
 flotorial
 floorthrough
 foresignify
