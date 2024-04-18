@@ -1706,7 +1706,6 @@ deathrate
 deathrates
 deaths
 deathsman
-deathsmen
 depaysee
 deathtime
 deathtrap
@@ -7372,6 +7371,7 @@ decoymen
 detraining
 detrainment
 detraque
+deathsmen
 detrect
 detrench
 detribalization
