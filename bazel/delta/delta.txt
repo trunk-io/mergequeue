@@ -2959,7 +2959,6 @@ deducted
 deductibility
 deductible
 deductibles
-deductile
 donacidae
 deductio
 deduction
@@ -13328,6 +13327,7 @@ disquisitional
 disquisitionary
 duckwheat
 disquisitions
+deductile
 desulfurate
 disquisitive
 disquisitively

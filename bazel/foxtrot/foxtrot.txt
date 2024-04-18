@@ -1184,7 +1184,6 @@ fascet
 foldskirt
 flippers
 fingerlike
-frogeater
 forestaller
 filtrability
 fenite
@@ -3787,6 +3786,7 @@ fillock
 fanzine
 fillowite
 fake
+frogeater
 fills
 foregirth
 faultlessly
