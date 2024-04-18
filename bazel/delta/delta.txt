@@ -3780,6 +3780,7 @@ demultiplexing
 deia
 deicate
 dateable
+defluxion
 deice
 deiced
 deicers
@@ -16790,7 +16791,6 @@ drave
 dolours
 dravya
 dravidian
-defluxion
 dravidic
 dravite
 draw
