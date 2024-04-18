@@ -1539,7 +1539,6 @@ descrial
 dibstones
 deadpans
 deadrise
-deadtongue
 deadweight
 deadwood
 deadwork
@@ -7843,6 +7842,7 @@ desmocyte
 dewaxed
 dewaxing
 dewberry
+deadtongue
 dewberries
 dewcap
 dewclaw
