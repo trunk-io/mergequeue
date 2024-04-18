@@ -4210,6 +4210,7 @@ firedragon
 footnotes
 firedrake
 firefall
+florican
 firefang
 firefanged
 firefangs
@@ -10628,7 +10629,6 @@ feuar
 frubbish
 favose
 flamboyant
-florican
 fruchtschiefer
 feodaries
 fructescent
