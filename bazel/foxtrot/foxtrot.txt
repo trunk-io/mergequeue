@@ -1528,7 +1528,6 @@ frighten
 faultfind
 faultfinder
 faultfinders
-faultfinding
 fervescent
 faultful
 faultfully
@@ -11289,6 +11288,7 @@ falcade
 frontispieces
 funks
 funmaker
+faultfinding
 funmaking
 funnel
 funneled
