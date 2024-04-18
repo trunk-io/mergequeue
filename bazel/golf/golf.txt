@@ -1034,7 +1034,6 @@ graptolite
 gamostele
 gamotropic
 genetically
-gamotropism
 goblinism
 gamp
 gamps
@@ -2530,6 +2529,7 @@ geminates
 gemination
 geminations
 geminative
+gamotropism
 gemini
 giusto
 geminid
