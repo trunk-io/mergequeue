@@ -555,6 +555,7 @@ backway
 backwall
 bewhite
 backward
+benzoylating
 backwardation
 backwardly
 backwardness
@@ -6468,7 +6469,6 @@ benzohydrol
 benzoic
 benzoid
 benzoylated
-benzoylating
 benzoylation
 benzoylformic
 benzoylglycine
