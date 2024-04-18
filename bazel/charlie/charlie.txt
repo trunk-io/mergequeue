@@ -6881,6 +6881,7 @@ cement
 cementa
 cemental
 cementation
+chymosins
 coaugment
 chapeaux
 cementatory
@@ -27467,7 +27468,6 @@ consumation
 coverlid
 coverlids
 covers
-chymosins
 caller
 coversed
 coverside
