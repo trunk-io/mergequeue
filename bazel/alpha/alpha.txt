@@ -17393,6 +17393,7 @@ aport
 aportlast
 aportoise
 aposaturnium
+argestes
 aposelene
 admittee
 acridan
@@ -19509,7 +19510,6 @@ adversarial
 argents
 argentum
 argentums
-argestes
 argh
 arghel
 arghool
