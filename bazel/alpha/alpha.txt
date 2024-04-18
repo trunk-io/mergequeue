@@ -8519,6 +8519,7 @@ alkyloxy
 alkyls
 alkin
 alkine
+atimy
 alkyne
 alkynes
 alkitran
@@ -22631,7 +22632,6 @@ ablating
 arhar
 atikokania
 atilt
-atimy
 atimon
 ating
 asthenobiotic
