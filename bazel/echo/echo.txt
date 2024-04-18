@@ -4916,7 +4916,6 @@ emptional
 estuate
 endangeitis
 endanger
-endangering
 endangerment
 endangerments
 endangitis
@@ -8799,6 +8798,7 @@ equivocacy
 equivocal
 equivocally
 equivocate
+endangering
 encoffin
 excoriable
 equivocated
