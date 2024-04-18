@@ -2237,7 +2237,6 @@ felstones
 framers
 farmhouses
 felt
-felted
 felter
 feltyfare
 feltyflier
@@ -4009,6 +4008,7 @@ fingernails
 fingerpost
 forfeited
 fingerprint
+felted
 fingerprints
 fingerroot
 forleft
