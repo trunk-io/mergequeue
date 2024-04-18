@@ -4294,7 +4294,6 @@ gates
 gabbros
 governorship
 gymnosophist
-gymnospermae
 gymnospermy
 gymnospermism
 gymnospermous
@@ -5231,6 +5230,7 @@ gluten
 glassmen
 goblinize
 glassophone
+gymnospermae
 glassrope
 glassteel
 gnathic
