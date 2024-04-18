@@ -180,7 +180,6 @@ ectoplacenta
 evacuee
 eloigners
 earthset
-electroplated
 electrodeposit
 exprobratory
 epiclesis
@@ -4040,6 +4039,7 @@ empanelling
 empanelment
 empanels
 expressibly
+electroplated
 empannel
 empanoply
 empaper
