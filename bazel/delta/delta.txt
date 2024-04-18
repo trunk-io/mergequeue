@@ -8405,7 +8405,6 @@ dialogged
 dialogging
 dialogic
 dialogical
-digitigrada
 dialogically
 dialogised
 disambiguated
@@ -11190,6 +11189,7 @@ disbenchment
 disbend
 dispair
 disbind
+digitigrada
 disblame
 disbloom
 disboard
