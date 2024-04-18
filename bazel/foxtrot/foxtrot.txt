@@ -3651,6 +3651,7 @@ fanons
 fourniture
 filers
 fighter
+freelage
 fungivorous
 files
 filesmith
@@ -9706,7 +9707,6 @@ freeing
 freeings
 fluviograph
 ferias
-freelage
 flunkers
 freelance
 freelanced
