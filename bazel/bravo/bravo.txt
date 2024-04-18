@@ -1807,7 +1807,6 @@ biteless
 bamming
 bamoth
 bams
-ban
 banaba
 boss
 bizardite
@@ -3681,6 +3680,7 @@ batlon
 bradylalia
 batmen
 bigaroon
+ban
 batocrinidae
 batoidei
 baton
