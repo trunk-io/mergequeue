@@ -13016,6 +13016,7 @@ anhaematopoiesis
 anhaematosis
 anhaemolytic
 aberdavine
+aortoclasia
 anhalamine
 anhaline
 anhalonidine
@@ -16620,7 +16621,6 @@ aortectasia
 aortectasis
 aortic
 aortitis
-aortoclasia
 aortography
 aortographic
 augelite
