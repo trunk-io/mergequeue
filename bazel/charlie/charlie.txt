@@ -477,6 +477,7 @@ caddie
 caddies
 cottons
 caddiing
+clinics
 chincough
 cadding
 caddis
@@ -16212,7 +16213,6 @@ cask
 clinicist
 clinicopathological
 clinicopathologically
-clinics
 clinid
 clinium
 clink
