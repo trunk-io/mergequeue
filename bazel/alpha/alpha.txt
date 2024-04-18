@@ -5868,7 +5868,6 @@ agar
 agaricaceae
 agaricaceous
 agaricales
-agaricic
 agaricine
 agaricinic
 agaricoid
@@ -10249,6 +10248,7 @@ amendments
 arris
 amene
 aeroides
+agaricic
 amenia
 amenism
 amenite
