@@ -1295,7 +1295,6 @@ fasibitikite
 fasinite
 flavine
 fass
-fruity
 fassaite
 felonwood
 felsic
@@ -9369,6 +9368,7 @@ fasciolet
 farewells
 fram
 framable
+fruity
 frambesia
 frame
 frowzily

@@ -1768,7 +1768,6 @@ gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
 gastroduodenostomies
-gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
 gibson
@@ -4219,6 +4218,7 @@ gimmickery
 geomorphic
 gatewayman
 gimmicky
+gastroduodenotomy
 gimmicking
 gimmickry
 gimmor
