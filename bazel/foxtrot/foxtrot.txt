@@ -1870,7 +1870,6 @@ febricity
 febricula
 fore
 fermentology
-febrifacient
 febriferous
 febrific
 fougue
@@ -4233,6 +4232,7 @@ flosh
 firelit
 firelocks
 firemanship
+febrifacient
 fragmentize
 firepink
 firepinks
