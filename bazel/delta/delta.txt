@@ -2620,7 +2620,6 @@ decolorization
 decolorized
 decolorizer
 decolors
-decolour
 decolouration
 decolouring
 decolourisation
@@ -18486,6 +18485,7 @@ duretto
 durezza
 desulfurization
 durgan
+decolour
 durham
 durian
 durians
