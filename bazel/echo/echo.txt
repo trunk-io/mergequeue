@@ -8693,7 +8693,6 @@ environage
 expel
 emergently
 equinate
-electrized
 emerging
 equine
 everbearer
@@ -12713,6 +12712,7 @@ exognathite
 exogonium
 exograph
 exolete
+electrized
 exolution
 exolve
 exometritis
