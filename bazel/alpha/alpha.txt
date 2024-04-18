@@ -3238,6 +3238,7 @@ activators
 active
 actively
 aweather
+apostrophized
 activeness
 alforge
 actives
@@ -9876,7 +9877,6 @@ aquadag
 amazedness
 amazeful
 amazement
-apostrophized
 amazer
 amazers
 amazilia
