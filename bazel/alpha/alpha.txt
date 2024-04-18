@@ -17145,7 +17145,6 @@ apochromatism
 apocynaceae
 ascitic
 apocynaceous
-apocyneous
 apocynthion
 apocynthions
 apocyte
@@ -22318,6 +22317,7 @@ astrophysical
 astrophysicist
 anteal
 astrophysicists
+apocyneous
 astrophysics
 astrophyton
 astrophobia
