@@ -1198,6 +1198,7 @@ dialyzers
 dateableness
 datebook
 datedly
+deruralize
 dolichos
 dateless
 datelessness
@@ -3158,7 +3159,6 @@ defeatism
 defeats
 defeature
 defecant
-deruralize
 dowless
 defecate
 defecated
