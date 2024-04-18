@@ -16190,7 +16190,6 @@ clinamen
 clinamina
 clinandrdria
 clepe
-clinandria
 clinandrium
 clinanthia
 clinanthium
@@ -23363,6 +23362,7 @@ contemp
 contemper
 contemplable
 contemplance
+clinandria
 contemplant
 contemplate
 contemplatedly
