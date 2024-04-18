@@ -4398,7 +4398,6 @@ fissural
 frameworks
 fishlet
 fosterage
-fishlike
 furlough
 fishline
 fishlines
@@ -5245,6 +5244,7 @@ frothiest
 flaw
 flawed
 flawedness
+fishlike
 flawflower
 fermiums
 flawful
