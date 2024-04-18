@@ -4796,7 +4796,6 @@ carryovers
 carritch
 carritches
 carriwitchet
-conform
 carrizo
 carrocci
 carroccio
@@ -29298,6 +29297,7 @@ cryptoneurous
 cryptonymic
 casina
 cryptonymous
+conform
 cryptoperthite
 cryptophagidae
 cryptophyceae
