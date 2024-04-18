@@ -8726,6 +8726,7 @@ greenhorns
 garron
 greenweed
 greenwich
+gunship
 greenwing
 geneticists
 greenwithe
@@ -10567,7 +10568,6 @@ guns
 gunsel
 gunsels
 gilly
-gunship
 golp
 gunships
 gunshop
