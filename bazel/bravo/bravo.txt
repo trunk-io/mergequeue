@@ -10535,6 +10535,7 @@ blattering
 blatters
 blattid
 blattidae
+bulwand
 boomerang
 bajada
 blastemata
@@ -17255,7 +17256,6 @@ bulter
 bandores
 bultong
 bultow
-bulwand
 bulwarked
 bulwarking
 bulwarks
