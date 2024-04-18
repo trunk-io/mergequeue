@@ -9558,6 +9558,7 @@ checkwork
 checkwriter
 cheddar
 commentating
+colourlessness
 cheddaring
 cheddars
 cheddites
@@ -19462,7 +19463,6 @@ colourist
 colouristic
 colourize
 colourless
-colourlessness
 colourman
 colours
 colourtype

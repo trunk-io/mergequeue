@@ -3917,7 +3917,6 @@ electrotonus
 epacme
 emilia
 emim
-eminence
 eminences
 extraboldface
 eminencies
@@ -9277,6 +9276,7 @@ endocrinous
 erodium
 erogenesis
 erogenetic
+eminence
 erogeny
 enslavement
 enginelike
