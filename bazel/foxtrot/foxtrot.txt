@@ -8425,6 +8425,7 @@ folies
 flingdust
 formats
 formature
+frapp
 formazan
 formboard
 forme
@@ -9486,7 +9487,6 @@ fliers
 foreteeth
 frape
 fraple
-frapp
 frappe
 frappeing
 frappes
