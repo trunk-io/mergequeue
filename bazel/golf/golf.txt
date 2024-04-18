@@ -1521,7 +1521,6 @@ goodnight
 garrisonian
 garrisoning
 garrisonism
-garrisons
 garrnishable
 gemeinde
 garroo
@@ -3951,6 +3950,7 @@ gutte
 goldwater
 giftwrap
 giftwrapping
+garrisons
 gig
 giga
 globoseness
