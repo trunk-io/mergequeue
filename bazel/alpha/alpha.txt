@@ -1800,6 +1800,7 @@ accupy
 accur
 accuracy
 accuracies
+ada
 accurately
 approvement
 affliction
@@ -3375,7 +3376,6 @@ acutorsion
 acxoyatl
 arthropathology
 autophotograph
-ada
 adactyl
 adactylia
 anomurous
