@@ -580,7 +580,6 @@ galleon
 galleons
 galler
 gaucher
-gallowsness
 gallera
 geisotherm
 galleria
@@ -7109,6 +7108,7 @@ grailing
 gooseneck
 goosenecked
 goosepimply
+gallowsness
 griselda
 goosery
 gladiators

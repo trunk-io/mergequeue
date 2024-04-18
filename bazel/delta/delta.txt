@@ -2059,7 +2059,6 @@ decani
 decannulation
 decently
 decanoyl
-decanol
 decennia
 decanonize
 disselboom
@@ -7910,6 +7909,7 @@ dextrality
 dextrally
 dextran
 dextranase
+decanol
 dextrane
 dextrer
 dextrin
