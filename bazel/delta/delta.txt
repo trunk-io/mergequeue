@@ -3346,6 +3346,7 @@ domesticable
 definitive
 definitively
 delaying
+discloister
 definitiveness
 definitize
 definitized
@@ -11409,7 +11410,6 @@ disclassify
 disclike
 disclimax
 discloak
-discloister
 dissuader
 debug
 disclosed
