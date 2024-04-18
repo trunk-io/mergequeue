@@ -10962,7 +10962,6 @@ fulminant
 flighthead
 franchised
 feoffeeship
-fulminating
 frosts
 fulminations
 flame
@@ -11404,6 +11403,7 @@ furl
 fatalisms
 furlable
 furlan
+fulminating
 filiality
 furlana
 firbolg
