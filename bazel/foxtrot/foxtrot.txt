@@ -2875,7 +2875,6 @@ fetlocked
 fetlocks
 fetography
 fetology
-fetologies
 fetometry
 forcefully
 fulwa
@@ -4154,6 +4153,7 @@ firebed
 firebirds
 fireboard
 falconidae
+fetologies
 feezed
 fireboat
 fileted
