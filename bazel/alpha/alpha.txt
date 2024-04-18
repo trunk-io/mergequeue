@@ -8350,7 +8350,6 @@ aliped
 architectonic
 alipeds
 alipin
-alypin
 abbie
 apophylaxis
 alypine
@@ -19833,6 +19832,7 @@ arithmancy
 arithmetic
 arithmetically
 aoudads
+alypin
 arithmetician
 arithmeticians
 arithmetizations
