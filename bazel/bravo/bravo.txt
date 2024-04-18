@@ -6591,7 +6591,6 @@ bepretty
 bepride
 bepuddle
 bedirt
-bepuff
 bepuffed
 brontephobia
 bepuzzle
@@ -9710,6 +9709,7 @@ bismuthide
 bismuthiferous
 bismuthyl
 btise
+bepuff
 bismuthine
 bismuthinite
 bismuthous
