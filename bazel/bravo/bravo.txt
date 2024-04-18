@@ -13470,7 +13470,6 @@ bouchon
 bouchons
 boucl
 boucle
-boucles
 boudeuse
 boudin
 boudoir
@@ -13798,6 +13797,7 @@ bowkail
 bowknots
 bowl
 blinking
+boucles
 backrun
 bowla
 breadstuffs
