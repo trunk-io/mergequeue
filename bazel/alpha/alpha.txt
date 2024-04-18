@@ -5229,7 +5229,6 @@ aevum
 af
 afterpart
 automate
-aface
 afaced
 afacing
 afaint
@@ -23890,6 +23889,7 @@ autocade
 autocades
 autocall
 antilogarithms
+aface
 autocamper
 autocamping
 autocar
