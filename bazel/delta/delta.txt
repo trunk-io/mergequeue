@@ -6876,7 +6876,6 @@ despair
 doomful
 dirgeful
 demobbing
-despairer
 despairful
 despairfully
 despect
@@ -12285,6 +12284,7 @@ dicyclica
 dishboard
 douar
 dishcloth
+despairer
 dishcloths
 dishclout
 darogha
