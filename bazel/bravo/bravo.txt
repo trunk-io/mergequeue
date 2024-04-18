@@ -9599,6 +9599,7 @@ bisdiapason
 babbitter
 bisdimethylamino
 bisect
+berate
 bisected
 bisecting
 bisection
@@ -17899,7 +17900,6 @@ burthened
 bluewing
 burthening
 burthens
-berate
 burthensome
 burtonization
 burtonize
