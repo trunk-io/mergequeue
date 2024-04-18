@@ -1486,7 +1486,6 @@ fattishness
 fattrels
 fother
 fatuate
-fatuism
 fatuity
 futhork
 fatuitous
@@ -5205,6 +5204,7 @@ flavian
 flavic
 flavicant
 flavid
+fatuism
 flavines
 frigorify
 fireproof
