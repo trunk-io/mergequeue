@@ -4684,6 +4684,7 @@ disbursable
 disfranchised
 distilland
 demiram
+drukpa
 demirelief
 dourahs
 demirep
@@ -17570,7 +17571,6 @@ druidry
 druids
 druith
 dissimulator
-drukpa
 drum
 drumbeat
 drumbled
