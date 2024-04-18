@@ -17044,7 +17044,6 @@ coadjutive
 coadjutor
 coadjutors
 carduus
-campman
 coadjutorship
 coadjutress
 coadjutrices
@@ -18063,6 +18062,7 @@ coequal
 coequality
 coequalize
 coequally
+campman
 coequalness
 coequals
 coequate
