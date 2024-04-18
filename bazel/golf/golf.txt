@@ -5446,7 +5446,6 @@ glycocoll
 glycogelatin
 glycogen
 galactogogue
-glycogenase
 glycogeny
 glycogenic
 glycogenize
@@ -7675,6 +7674,7 @@ goitered
 gradualistic
 gallantness
 gradually
+glycogenase
 gleir
 gradualness
 graduands
