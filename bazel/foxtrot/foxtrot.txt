@@ -7496,7 +7496,6 @@ furling
 fordull
 fumattoria
 fibreware
-fordwine
 foreact
 false
 fitly
@@ -9815,6 +9814,7 @@ fremdly
 fremdness
 fremescence
 fremituses
+fordwine
 fremontia
 fremontodendron
 fremt
