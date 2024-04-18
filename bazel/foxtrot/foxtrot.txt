@@ -2044,7 +2044,6 @@ fooless
 forebooms
 feet
 feeze
-feezed
 fissuration
 feezes
 flagfish
@@ -4159,6 +4158,7 @@ firebed
 firebirds
 fireboard
 falconidae
+feezed
 fireboat
 fileted
 fireboy
