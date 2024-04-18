@@ -4879,7 +4879,6 @@ encrown
 encrownment
 eateries
 encrust
-encrustant
 encrustation
 encrusted
 encrusting
@@ -9685,6 +9684,7 @@ entapophysial
 ethynylation
 eskimoic
 emigree
+encrustant
 eskimoid
 eskimoized
 eskimos
