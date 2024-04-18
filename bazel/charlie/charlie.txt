@@ -14994,7 +14994,6 @@ cloud
 cytotrophoblastic
 cytotropic
 cytotropism
-circularity
 cytovirin
 cytozoic
 cytozzoa
@@ -28437,6 +28436,7 @@ creature
 cheapjack
 creaturehood
 creatureless
+circularity
 creaturely
 creatureliness
 creatureling
