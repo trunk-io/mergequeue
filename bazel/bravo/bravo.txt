@@ -5132,7 +5132,6 @@ befleaing
 begirdle
 befleas
 befleck
-bantamweight
 beflecked
 beflecking
 bigmouth
@@ -6401,6 +6400,7 @@ benzamido
 benzamine
 benzaminic
 benzamino
+bantamweight
 benzanalgen
 benzanilide
 benzanthracene
