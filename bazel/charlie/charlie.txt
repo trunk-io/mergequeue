@@ -6415,7 +6415,6 @@ cavettos
 cavy
 cavia
 caviar
-caviares
 caviars
 cavicorn
 cuprocyanide
@@ -7868,6 +7867,7 @@ cesarians
 cesarolite
 chats
 cesious
+caviares
 cesium
 cesiums
 cespititious
