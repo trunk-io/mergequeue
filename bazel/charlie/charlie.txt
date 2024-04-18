@@ -2468,7 +2468,6 @@ canebrakes
 cephalodynia
 cyamelide
 caned
-canel
 canela
 canelas
 canella
@@ -22499,6 +22498,7 @@ conjure
 conjured
 conjurement
 conjurer
+canel
 conjurers
 conjures
 conjury
