@@ -14383,6 +14383,7 @@ circumsciss
 circumscissile
 circumscribable
 circumscribe
+cribbers
 circumscribed
 circumscriber
 circumscript
@@ -28868,7 +28869,6 @@ cribbages
 cribbed
 clanks
 cribber
-cribbers
 cribbing
 cribbings
 cribbiting
