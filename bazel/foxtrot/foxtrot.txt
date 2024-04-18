@@ -1860,6 +1860,7 @@ febrifugal
 febrifuge
 febrile
 featherlessness
+fluidizer
 febrility
 finickingness
 febriphobia
@@ -6289,7 +6290,6 @@ fluidities
 fluidization
 fluidized
 followup
-fluidizer
 fingerflower
 fluidizes
 fluidmeter
