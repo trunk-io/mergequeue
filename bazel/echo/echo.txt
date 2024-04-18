@@ -3447,7 +3447,6 @@ earshots
 embitter
 embittered
 embitterer
-elev
 embitterment
 embitterments
 energizer
@@ -8847,6 +8846,7 @@ embeddable
 eradicatory
 eradicators
 eral
+elev
 eranist
 eranthemum
 electrotherapeutics
