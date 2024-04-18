@@ -6443,7 +6443,6 @@ benzinduline
 bethinking
 benzine
 benzines
-benzins
 benzoate
 bisectrix
 benzoates
@@ -8841,6 +8840,7 @@ binding
 bindingness
 bindings
 bindis
+benzins
 bindle
 bindles
 bindoree
