@@ -3324,7 +3324,6 @@ caprimulgi
 caprimulgidae
 caprimulgiformes
 caprimulgine
-caprimulgus
 caprin
 caprinic
 capriola
@@ -7081,6 +7080,7 @@ centigrade
 centigrado
 centigram
 centigramme
+caprimulgus
 confluences
 centigrams
 centile
