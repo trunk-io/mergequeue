@@ -7054,6 +7054,7 @@ destriers
 destroy
 destroyable
 destroyed
+divisionally
 dismays
 destroyer
 destroyers
@@ -14443,7 +14444,6 @@ divisibleness
 division
 dollop
 divisional
-divisionally
 diachronicness
 divisionary
 divisionist
