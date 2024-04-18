@@ -1977,6 +1977,7 @@ bandsaw
 bandsawed
 bandsawing
 bandsawn
+battailous
 bandsman
 bandsmen
 bandspreading
@@ -3728,7 +3729,6 @@ batta
 battable
 battailant
 browntop
-battailous
 battak
 bally
 battakhin
