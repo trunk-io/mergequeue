@@ -18530,6 +18530,7 @@ coiners
 crossrow
 coyness
 coynesses
+colposcope
 coinfer
 coinferred
 coinferring
@@ -19476,7 +19477,6 @@ colportage
 colporter
 colporteurs
 covido
-colposcope
 colposcopy
 colpotomy
 colpotomies
