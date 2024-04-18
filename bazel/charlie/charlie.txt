@@ -2440,7 +2440,6 @@ candlesnuffer
 candlestand
 committeewoman
 candlestick
-candlesticked
 candlesticks
 candlestickward
 candlewaster
@@ -5330,6 +5329,7 @@ castles
 cortaderia
 china
 castlet
+candlesticked
 chairwoman
 castleward
 castlewards
