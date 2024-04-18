@@ -10832,7 +10832,6 @@ bletia
 bletilla
 blackbrush
 bronteum
-bibbed
 blets
 bodikin
 bleu
@@ -11349,6 +11348,7 @@ bluebush
 bluebutton
 build
 bluecap
+bibbed
 bluecoat
 bluecoated
 bluecoats
