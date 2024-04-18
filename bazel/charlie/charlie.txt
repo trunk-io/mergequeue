@@ -7985,7 +7985,6 @@ cevitamic
 cezannesque
 cf
 cfd
-cfi
 cfm
 cfs
 cgm
@@ -20687,6 +20686,7 @@ chronologic
 complexive
 complexly
 complexness
+cfi
 complexometry
 complexometric
 complexus
