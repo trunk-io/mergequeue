@@ -9025,7 +9025,6 @@ biogeochemical
 biogeochemistry
 biogeographer
 biogeography
-biogeographic
 biogeographical
 biogeographically
 biographee
@@ -12040,6 +12039,7 @@ boyship
 boisterous
 boisterously
 biffing
+biogeographic
 boistous
 boistously
 boistousness
