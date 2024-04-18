@@ -854,7 +854,6 @@ bagasse
 bagasses
 bagataway
 bari
-bagatelle
 bruxisms
 beflags
 bagatelles
@@ -12528,6 +12527,7 @@ balcon
 bonorum
 bonos
 bons
+bagatelle
 bullom
 bonsai
 bills
