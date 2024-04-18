@@ -3952,7 +3952,6 @@ adiposuria
 adipous
 adipsy
 adipsia
-azygospore
 adipsic
 adipsous
 adirondack
@@ -12787,6 +12786,7 @@ angioneurosis
 abernethy
 angionoma
 arcabucero
+azygospore
 angionosis
 angioparalysis
 aquiculture
