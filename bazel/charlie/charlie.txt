@@ -10466,7 +10466,6 @@ childbearing
 childbed
 childbirths
 childcrowing
-childe
 childed
 childermas
 childes
@@ -11285,6 +11284,7 @@ chloro
 chloroacetic
 chloroacetone
 chloroacetophenone
+childe
 chloroamide
 chloroamine
 chloroaurate

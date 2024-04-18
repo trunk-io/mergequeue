@@ -1004,6 +1004,7 @@ edacities
 edam
 edana
 edaphology
+exallotriote
 enerve
 edaphon
 edaphosauria
@@ -11762,7 +11763,6 @@ exairesis
 exalate
 exalbuminose
 exalbuminous
-exallotriote
 embedder
 exalt
 enfile
