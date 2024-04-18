@@ -2240,6 +2240,7 @@ guernseys
 gasterotricha
 gearset
 gearshift
+gestation
 gearshifts
 gearwheels
 garden
@@ -3564,7 +3565,6 @@ gestated
 gestates
 gestating
 gullygut
-gestation
 gestational
 gestations
 gantry
