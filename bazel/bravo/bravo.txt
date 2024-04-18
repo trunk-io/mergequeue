@@ -2054,7 +2054,6 @@ banisher
 banishing
 banishment
 banister
-banisters
 bursting
 banyuls
 baniva
@@ -6608,6 +6607,7 @@ belittles
 begat
 basilyst
 beraking
+banisters
 berakoth
 berapt
 berascal
