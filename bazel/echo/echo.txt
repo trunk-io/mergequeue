@@ -4039,7 +4039,6 @@ emparchment
 emparl
 empasma
 everbloomer
-empassion
 embarrassingly
 empathetic
 empathy
@@ -11909,6 +11908,7 @@ excave
 epizoarian
 excecate
 excecation
+empassion
 excedent
 exceedable
 elutes
