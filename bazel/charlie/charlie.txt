@@ -2285,7 +2285,6 @@ canceler
 cancelers
 cancelier
 collaborated
-canceling
 cancellability
 cancellable
 cancellarius
@@ -17022,6 +17021,7 @@ coachmaking
 corrasion
 cogency
 coachmaster
+canceling
 coachmen
 coachs
 chorobates
