@@ -7358,7 +7358,6 @@ bystanders
 betask
 bottier
 beadrow
-betassel
 birde
 betatron
 betatrons
@@ -10512,6 +10511,7 @@ blathered
 blatherer
 blathery
 blathers
+betassel
 blatherskite
 bermudians
 blatherskites
