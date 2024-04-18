@@ -1791,6 +1791,7 @@ eyemark
 epilogue
 eyen
 electric
+euflavine
 eyeopener
 eyepiece
 eyepit
@@ -11509,7 +11510,6 @@ everblooming
 everest
 everglades
 epeirogeny
-euflavine
 evergreen
 evergreens
 every
