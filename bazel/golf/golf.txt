@@ -2625,7 +2625,6 @@ genarch
 galenian
 genarcha
 gastrostegal
-genarchaship
 gonangiums
 gendarme
 gendarmery
@@ -8904,6 +8903,7 @@ griddled
 genderless
 griddles
 griddling
+genarchaship
 groundling
 gride
 gryde
