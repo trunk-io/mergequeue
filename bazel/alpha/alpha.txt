@@ -4514,7 +4514,6 @@ adultness
 adultoid
 adultress
 adumbrated
-adumbrates
 abductores
 assertive
 adumbrating
@@ -22395,6 +22394,7 @@ atamascos
 atame
 atamosco
 azafrin
+adumbrates
 atangle
 alchitran
 atar
