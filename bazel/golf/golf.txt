@@ -7917,7 +7917,6 @@ grandesque
 grandeur
 grandeurs
 gliriform
-grandeval
 grandevity
 grandeza
 grandezza
@@ -8555,6 +8554,7 @@ greatcoat
 greatcoated
 greatened
 greatening
+grandeval
 greatens
 greater
 geostatics
