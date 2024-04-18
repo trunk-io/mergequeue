@@ -3236,7 +3236,6 @@ basidiomycete
 baclava
 basidiomycetous
 basidiophore
-bifrontal
 belesprit
 basidiospore
 basidiosporous
@@ -3711,6 +3710,7 @@ bourbonesque
 batrachia
 batrachian
 brainwork
+bifrontal
 bruet
 batrachians
 breadbaskets
