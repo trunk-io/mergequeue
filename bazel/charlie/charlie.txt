@@ -12589,6 +12589,7 @@ crystallophobia
 chronologer
 curvedness
 chronology
+cleanish
 chronological
 chronologically
 chronologies
@@ -15807,7 +15808,6 @@ cleanhanded
 cleanhandedness
 cleanhearted
 cleanings
-cleanish
 cleanlier
 cleanliest
 cleanness
