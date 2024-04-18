@@ -1086,6 +1086,7 @@ geodete
 gravata
 gangdom
 gange
+guelphish
 ganger
 gelidity
 gangerel
@@ -10030,7 +10031,6 @@ gammation
 ghosting
 guelf
 guelph
-guelphish
 gastrins
 greasing
 goalers
