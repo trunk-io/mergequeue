@@ -1801,6 +1801,7 @@ eyeshade
 eyeshield
 equvalent
 eyeshine
+exolve
 eyeshot
 etherialise
 eyeshots
@@ -12705,7 +12706,6 @@ exograph
 exolete
 electrized
 exolution
-exolve
 exometritis
 emerse
 encephaloma
