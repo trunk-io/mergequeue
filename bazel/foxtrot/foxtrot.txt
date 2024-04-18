@@ -8181,7 +8181,6 @@ foreworld
 flung
 foreworn
 forewritten
-forewrought
 forfairn
 fetiales
 forfalt
@@ -8650,6 +8649,7 @@ forspeak
 forspend
 farstepped
 ferally
+forewrought
 footing
 forspoke
 forspread
