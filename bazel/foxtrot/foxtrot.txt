@@ -2219,7 +2219,6 @@ fazendeiro
 felons
 felonsetter
 fluorescence
-felonweed
 felonwort
 fractionizing
 flancard
@@ -8388,6 +8387,7 @@ formalist
 formalistically
 fallibilist
 formalith
+felonweed
 funned
 flange
 faeries
