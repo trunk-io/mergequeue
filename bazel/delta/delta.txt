@@ -1185,6 +1185,7 @@ datapunch
 disinvolve
 datary
 dataries
+dawns
 dataset
 datasetname
 datasets
@@ -1384,7 +1385,6 @@ digresses
 demiurgical
 dawning
 dawnlike
-dawns
 dawnward
 drooliest
 dawpate
