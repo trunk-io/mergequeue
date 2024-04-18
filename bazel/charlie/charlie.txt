@@ -12979,6 +12979,7 @@ cyanizing
 cyanmethemoglobin
 cyano
 cyanoacetate
+cystogenous
 cyanoacetic
 cyanoacrylate
 cyanoaurate
@@ -14663,7 +14664,6 @@ cystoepithelioma
 cystofibroma
 cystoflagellata
 cystogenesis
-cystogenous
 cystogram
 cystoid
 cystoidea
