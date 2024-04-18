@@ -5292,7 +5292,6 @@ gleamingly
 gleamless
 gleams
 gifture
-glean
 gleanable
 grayback
 gleaned
@@ -8578,6 +8577,7 @@ gyarung
 grecque
 groff
 gree
+glean
 greece
 greed
 greedier
