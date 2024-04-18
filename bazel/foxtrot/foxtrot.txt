@@ -7516,7 +7516,6 @@ fructus
 fraile
 forebar
 forebear
-forebearing
 falconine
 forebemoan
 finises
@@ -10745,6 +10744,7 @@ frumenty
 frumenties
 frumentum
 frump
+forebearing
 frumpery
 footband
 frumperies
