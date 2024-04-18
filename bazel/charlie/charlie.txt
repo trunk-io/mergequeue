@@ -7807,7 +7807,6 @@ cellarman
 cerumens
 ceruminal
 casa
-ceruminiferous
 ceruminous
 cerumniparous
 ceruse
@@ -29465,6 +29464,7 @@ crystallose
 cryptozonia
 congeable
 crystallurgy
+ceruminiferous
 crystals
 crystalwort
 cristate
