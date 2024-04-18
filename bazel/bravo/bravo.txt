@@ -4558,7 +4558,6 @@ becry
 becrime
 becrimed
 brasqued
-becrimes
 becriming
 becrinolined
 bewrapped
@@ -7332,6 +7331,7 @@ beswarmed
 beswarms
 besweatered
 beswelter
+becrimes
 beswim
 beswinge
 beswink

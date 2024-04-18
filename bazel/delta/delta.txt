@@ -743,6 +743,7 @@ dopester
 dance
 danceability
 danceable
+diaskeuast
 danced
 degasification
 dancers
@@ -8643,7 +8644,6 @@ defecating
 diascordium
 dehydration
 diasystem
-diaskeuast
 damselflies
 diaspidine
 diaspinae
