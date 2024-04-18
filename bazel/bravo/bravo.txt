@@ -1829,7 +1829,6 @@ bicorne
 banca
 bancales
 bancha
-banchi
 banco
 bibliopegist
 bipunctate
@@ -4375,6 +4374,7 @@ bebloom
 beblot
 beblotch
 benitoite
+banchi
 beblubber
 basurale
 beblubbered
