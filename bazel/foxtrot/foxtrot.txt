@@ -1303,7 +1303,6 @@ faked
 flumed
 fastgoing
 fidgety
-farnovian
 fasthold
 flashlamps
 forefit
@@ -1472,6 +1471,7 @@ fattening
 fattens
 fattest
 fatty
+farnovian
 fattier
 featherweight
 fatties
