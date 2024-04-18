@@ -1377,7 +1377,6 @@ baldakin
 blithen
 baldaquin
 baldberry
-brunches
 baldcrown
 balded
 balder
@@ -4402,6 +4401,7 @@ bec
 bowlders
 becall
 boisseaux
+brunches
 becalm
 becalming
 becalmment
