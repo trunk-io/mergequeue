@@ -84,7 +84,6 @@ cabbies
 cabble
 cabbled
 cabbler
-cabda
 cabdriver
 chars
 cabdriving
@@ -20961,6 +20960,7 @@ comptoir
 comptometer
 comptonia
 comptonite
+cabda
 comptrol
 comptroller
 comptrollers
