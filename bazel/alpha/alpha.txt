@@ -5096,7 +5096,6 @@ aeroplane
 aeroplaner
 aeroplanes
 aeroplanist
-aeroplankton
 aeropleustic
 aeroscepsy
 aurum
@@ -20777,6 +20776,7 @@ artistic
 artistical
 artistically
 aftercourse
+aeroplankton
 artistry
 artistries
 artists
