@@ -3963,7 +3963,6 @@ baxter
 baxterian
 baxterianism
 baxtone
-bazaar
 bazar
 bagworms
 bazars
@@ -6315,6 +6314,7 @@ benignly
 becharm
 benignness
 benim
+bazaar
 benin
 benincasa
 beniseed
