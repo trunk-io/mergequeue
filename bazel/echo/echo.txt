@@ -6475,6 +6475,7 @@ ecru
 entryways
 ensouls
 elaterid
+expansion
 ensphere
 ensphered
 ensphering
@@ -12894,7 +12895,6 @@ expanse
 expansibility
 expansible
 expansile
-expansion
 epileptologist
 emmet
 expansionism
