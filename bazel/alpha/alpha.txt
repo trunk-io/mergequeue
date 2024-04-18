@@ -18098,7 +18098,6 @@ appurtenant
 apr
 apractic
 apraxia
-apraxias
 apreynte
 aprendiz
 apres
@@ -25109,6 +25108,7 @@ axin
 axine
 axing
 accentuable
+apraxias
 axiniform
 axinite
 adventurish
