@@ -11477,7 +11477,6 @@ calumnies
 chok
 chokage
 choke
-chokeable
 chokeberry
 chokeberries
 chokebore
@@ -27699,6 +27698,7 @@ collinear
 congratulate
 coxendix
 coxes
+chokeable
 coxy
 creeper
 coxier
