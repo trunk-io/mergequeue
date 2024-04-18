@@ -3860,7 +3860,6 @@ emesidae
 emesis
 emetia
 emetic
-emetics
 entrapped
 emetins
 easiness
@@ -9315,6 +9314,7 @@ erotogenic
 erotogenicity
 encrinitical
 erotographomania
+emetics
 etymol
 erotomaniac
 erotomaniacal
