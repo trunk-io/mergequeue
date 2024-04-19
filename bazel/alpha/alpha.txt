@@ -3691,7 +3691,6 @@ adenocystomatous
 adenodermia
 adenodynia
 adenogenesis
-adenogenous
 aggelation
 adenographer
 adenography
@@ -16288,6 +16287,7 @@ antistadholderian
 antistalling
 antistaphylococcic
 antistate
+adenogenous
 anile
 antistater
 antistatism
