@@ -394,6 +394,7 @@ galaginae
 gimballing
 gangboard
 galago
+gedrite
 galagos
 galahads
 gynobasic
@@ -5338,7 +5339,6 @@ glenohumeral
 glenoid
 glenoidal
 glent
-gedrite
 glenwood
 glew
 guitarfish
