@@ -13294,7 +13294,6 @@ aniseeds
 aniseikonia
 aniseikonic
 aniselike
-amphigoric
 anises
 archhost
 anisette
@@ -18583,6 +18582,7 @@ arbitrative
 appending
 arbitrator
 arbitrators
+amphigoric
 artize
 arbitratorship
 abib
