@@ -2340,6 +2340,7 @@ electrocoating
 electrocolloidal
 endarteritis
 extensively
+exhaustable
 electrocontractility
 ectodermoidal
 electroconvulsive
@@ -7634,7 +7635,6 @@ epicly
 epiclidal
 expectance
 epiclike
-exhaustable
 epiclinal
 epicnemial
 epicoele
