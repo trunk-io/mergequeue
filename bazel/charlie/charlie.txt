@@ -8891,7 +8891,6 @@ characids
 characin
 characine
 characinid
-characinidae
 characinoid
 characins
 charact
@@ -24555,6 +24554,7 @@ cosponsorships
 copyboys
 copybook
 cupelers
+characinidae
 circulariser
 copybooks
 confederates
