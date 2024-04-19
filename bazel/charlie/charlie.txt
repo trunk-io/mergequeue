@@ -4305,7 +4305,6 @@ culvertage
 carilloneur
 confidentiality
 carillonneur
-carillonneurs
 carillonning
 carillons
 carina
@@ -11755,6 +11754,7 @@ chondrography
 conduplication
 chondroitic
 chondroitin
+carillonneurs
 chondrolipoma
 chondrology
 chondromata
