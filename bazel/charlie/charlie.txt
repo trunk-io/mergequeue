@@ -2955,7 +2955,6 @@ cantraips
 cantrap
 cantraps
 cantred
-cantref
 cantrip
 cantrips
 coveting
@@ -27098,6 +27097,7 @@ counterside
 crance
 countersign
 countersignature
+cantref
 countersignatures
 countersigned
 countersigning
