@@ -5224,7 +5224,6 @@ gigglish
 glauber
 guichet
 glauberite
-glaucescent
 glaucidium
 grapnels
 glaucin
@@ -6057,6 +6056,7 @@ guazzo
 goldfinch
 glucoses
 glucosidase
+glaucescent
 glances
 glucoside
 glucosidic
