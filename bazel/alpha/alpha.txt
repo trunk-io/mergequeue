@@ -1360,7 +1360,6 @@ acatalepsia
 acataleptic
 acatallactic
 acatamathesia
-asyndesis
 acataphasia
 acataposis
 acatastasia
@@ -22051,6 +22050,7 @@ asterisks
 asterism
 asterismal
 asterisms
+asyndesis
 asterixis
 astern
 asternal
