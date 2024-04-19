@@ -778,6 +778,7 @@ ecphoriae
 ecphorias
 ecphractic
 ecphrasis
+emergences
 ecrase
 ecraseur
 ecraseurs
@@ -3814,7 +3815,6 @@ emerge
 emerged
 embryogony
 emergence
-emergences
 emergencies
 emergentness
 emergents
