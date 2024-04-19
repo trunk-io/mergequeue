@@ -1159,6 +1159,7 @@ gangman
 gangmaster
 gangplank
 gangplows
+galleasses
 glycerine
 gonimous
 gangrenate
@@ -5894,7 +5895,6 @@ glossoptosis
 guidebook
 glossorrhaphy
 glossoscopy
-galleasses
 goings
 glossosteresis
 grimmish

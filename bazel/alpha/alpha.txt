@@ -8545,7 +8545,6 @@ alkekengi
 alkene
 alkenyl
 alkenna
-alkermes
 alkes
 alky
 alkyd
@@ -24919,6 +24918,7 @@ awaked
 axemaster
 awakened
 amarna
+alkermes
 awakener
 awakeners
 awakening
