@@ -8642,7 +8642,6 @@ billbug
 biller
 billers
 beast
-billet
 billete
 brantcorn
 brawlis
@@ -10462,6 +10461,7 @@ blastodisc
 bobfly
 blastoffs
 boxfish
+billet
 bedeswoman
 blastogenesis
 blastogenetic
