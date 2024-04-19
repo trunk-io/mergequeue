@@ -4627,7 +4627,6 @@ demilitarized
 demilitarizes
 demilitarizing
 demiliterate
-demilunes
 demilustre
 demiman
 demimark
@@ -7333,6 +7332,7 @@ detinuit
 detn
 detonability
 detonable
+demilunes
 depersonalised
 detonate
 detonated
