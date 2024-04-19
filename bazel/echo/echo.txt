@@ -4762,7 +4762,6 @@ equitangential
 encolour
 encolpia
 encolpion
-encolumn
 encolure
 encomy
 extrospection
@@ -7434,6 +7433,7 @@ epentheses
 epenthesis
 epenthesize
 epephragmal
+encolumn
 epepophysial
 epepophysis
 epergne
