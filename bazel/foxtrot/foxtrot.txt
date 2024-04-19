@@ -6739,7 +6739,6 @@ foretype
 feeders
 fogfruits
 fogger
-foggers
 fairgrass
 fluerics
 foggier
@@ -6940,6 +6939,7 @@ fatting
 foreignization
 folkmoots
 fauchard
+foggers
 folkmoter
 formuliser
 funning
