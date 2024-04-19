@@ -1215,7 +1215,6 @@ educive
 educt
 economicalness
 examinability
-eductor
 eductors
 excursionists
 environ
@@ -13171,6 +13170,7 @@ explainingly
 explanation
 explanative
 explanator
+eductor
 expurgator
 etheriidae
 engaol
