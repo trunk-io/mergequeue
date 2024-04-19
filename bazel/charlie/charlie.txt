@@ -4914,6 +4914,7 @@ cartist
 cartload
 cartloads
 cartmaker
+clicket
 cartmaking
 cartobibliography
 cartogram
@@ -16090,7 +16091,6 @@ click
 clicked
 clicker
 clickers
-clicket
 cosigns
 clicky
 clemmed
