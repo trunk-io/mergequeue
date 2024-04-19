@@ -1180,7 +1180,6 @@ edomitish
 exorbitate
 edoni
 edp
-edplot
 edriasteroidea
 edrioasteroid
 edrioasteroidea
@@ -10890,6 +10889,7 @@ esterases
 eumolpus
 endomictic
 eumorphic
+edplot
 engenderer
 eunicid
 encasserole
