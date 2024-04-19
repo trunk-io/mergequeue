@@ -9810,7 +9810,6 @@ crucialness
 chemehuevi
 chemesthesis
 chemiatric
-chemiatrist
 chemic
 chemical
 chemicalization
@@ -10876,6 +10875,7 @@ chippage
 cordwain
 chippendale
 chipper
+chemiatrist
 chippered
 chippering
 chippers
