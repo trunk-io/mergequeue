@@ -973,7 +973,6 @@ gametogenic
 gametogenous
 gametoid
 goodtemperedness
-gametophyll
 gametophyte
 gyneolatry
 gadgety
@@ -4571,6 +4570,7 @@ gyps
 gipseian
 gypseian
 gipser
+gametophyll
 gipsy
 gypsy
 gipsydom
