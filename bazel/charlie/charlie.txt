@@ -14109,6 +14109,7 @@ cyprinodont
 cyprinodontes
 cyprinodontoid
 cyprinoid
+corners
 cyprinoidean
 cyprinus
 cypriot
@@ -25567,7 +25568,6 @@ corporational
 corporationer
 corporationism
 corporations
-corners
 corporatism
 corporatist
 corporative
