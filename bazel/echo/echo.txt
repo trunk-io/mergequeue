@@ -2046,7 +2046,6 @@ enchronicle
 eligibleness
 elaeosaccharum
 ended
-ethos
 equiangle
 elaic
 entoretina
@@ -12990,6 +12989,7 @@ ethernets
 esophagectomy
 effossion
 expedients
+ethos
 expediment
 eremophyte
 expeding
