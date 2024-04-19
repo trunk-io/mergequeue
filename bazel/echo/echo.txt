@@ -6451,7 +6451,6 @@ ensnarls
 ensnow
 ectocyst
 ensober
-expiscate
 ensophic
 ensorcel
 ensorceled
@@ -11166,6 +11165,7 @@ europa
 europasian
 europe
 europeanism
+expiscate
 europeanization
 estoc
 encomimia
