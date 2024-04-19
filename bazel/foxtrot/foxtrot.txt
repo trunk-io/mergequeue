@@ -3839,7 +3839,6 @@ filopodium
 filosa
 filose
 furnitureless
-filosofe
 filosus
 fils
 filterability
@@ -10516,6 +10515,7 @@ foregoer
 flyblew
 forbodes
 flavorful
+filosofe
 frostbite
 frostbites
 frostbiting

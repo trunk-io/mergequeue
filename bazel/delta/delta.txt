@@ -3904,6 +3904,7 @@ dekaparsec
 dekapode
 demand
 dekarch
+dentistries
 dollied
 dekare
 dekares
@@ -5416,7 +5417,6 @@ demonisms
 dentistic
 dentistical
 dentistry
-dentistries
 dentists
 dentition
 dilating
