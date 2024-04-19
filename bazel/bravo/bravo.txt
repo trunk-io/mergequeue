@@ -5589,6 +5589,7 @@ bejewels
 backstamp
 bejezebel
 beadhouses
+bricksetter
 bestowed
 bejig
 bejuco
@@ -13712,7 +13713,6 @@ bovarysm
 bovarist
 bovaristic
 bovate
-bricksetter
 bovey
 bovenland
 bovidae
