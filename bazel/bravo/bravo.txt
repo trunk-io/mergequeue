@@ -12434,6 +12434,7 @@ bowmaking
 bondship
 bondslave
 bondsman
+braeman
 bondsmen
 bondstone
 bondswoman
@@ -14224,7 +14225,6 @@ braeface
 boarding
 bandfiling
 braehead
-braeman
 benefactory
 begoud
 bouillon
