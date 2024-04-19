@@ -3052,6 +3052,7 @@ ellipsoidal
 executiveness
 ellipsone
 ellipsonic
+exteriorization
 elliptical
 elliptically
 ellipticalness
@@ -7314,7 +7315,6 @@ eopalaeozoic
 eopaleozoic
 eophytic
 eophyton
-exteriorization
 eorhyolite
 eos
 eosate
