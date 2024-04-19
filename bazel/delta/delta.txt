@@ -82,7 +82,6 @@ dactylically
 dactylics
 darndests
 dactylioglyph
-dactylioglyphy
 dactylioglyphic
 dactylioglyphist
 dactyliography
@@ -2772,6 +2771,7 @@ dop
 decrement
 disharmonize
 decremental
+dactylioglyphy
 decrementing
 decrements
 decremeter
