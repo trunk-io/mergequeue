@@ -64,7 +64,6 @@ gabions
 gips
 gormandized
 gelatiniser
-gablatores
 gableboard
 gabled
 gabler
@@ -5568,6 +5567,7 @@ gracelike
 glyptographer
 galactosidase
 gethsemane
+gablatores
 gaia
 gonake
 greenhearted
