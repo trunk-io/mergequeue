@@ -7201,6 +7201,7 @@ centrifuges
 centrifuging
 centring
 centrings
+curblike
 centriole
 centripetal
 centripetence
@@ -31245,7 +31246,6 @@ curbing
 curbings
 curbless
 cotonam
-curblike
 curbline
 curbs
 curbside
