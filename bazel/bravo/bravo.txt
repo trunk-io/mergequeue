@@ -1813,6 +1813,7 @@ bananalander
 banande
 bananist
 bushwood
+boidae
 bananivorous
 banat
 banatite
@@ -12000,7 +12001,6 @@ barbarians
 boycotts
 boid
 boyd
-boidae
 boydekyn
 boydom
 boyer
