@@ -370,7 +370,6 @@ faintest
 finspot
 faintheart
 fleying
-fusee
 fainthearted
 faintheartedness
 fainty
@@ -5606,6 +5605,7 @@ flying
 flyings
 flyleaves
 flyless
+fusee
 flyman
 flymen
 flimflammed
