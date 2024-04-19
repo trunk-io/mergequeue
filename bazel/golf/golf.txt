@@ -622,7 +622,6 @@ gallicisms
 glottises
 gallicize
 gallicizer
-gallicola
 gallicolae
 gobletful
 gutturize
@@ -4274,6 +4273,7 @@ ghent
 gamostely
 gymnopaedic
 gundogs
+gallicola
 gymnophiona
 gymnophobia
 gymnoplast
