@@ -14357,7 +14357,6 @@ circumlocutionist
 circumlocutions
 circumlocutory
 circumlunar
-circummeridian
 crepeier
 circummeridional
 circummigrate
@@ -29780,6 +29779,7 @@ crosne
 crosnes
 cross
 crossability
+circummeridian
 crossable
 crossarms
 calculate
