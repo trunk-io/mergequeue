@@ -15788,7 +15788,6 @@ dorsicolumn
 dorsicornu
 dorsiduct
 dorsiferous
-dopants
 dorsifixed
 dorsiflex
 dorsiflexion
@@ -18288,6 +18287,7 @@ duodecastyle
 duodecennial
 duodecillion
 duodecillions
+dopants
 duodecillionth
 duodecimal
 duodenotomy
