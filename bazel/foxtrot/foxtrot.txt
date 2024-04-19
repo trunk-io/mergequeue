@@ -761,7 +761,6 @@ fancier
 fetidness
 fanciers
 fancies
-fancify
 fanciful
 fancifulness
 fancying
@@ -4676,6 +4675,7 @@ foined
 fulgurantly
 fjord
 fizzy
+fancify
 fizziest
 fip
 fizzle
