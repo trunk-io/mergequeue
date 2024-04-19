@@ -5567,7 +5567,6 @@ bejant
 bloodwit
 bechamels
 bejape
-balances
 bejel
 bejeled
 bejelled
@@ -11059,6 +11058,7 @@ blocklayer
 blocklike
 broil
 blockmaker
+balances
 blockpate
 blocks
 bhunder
