@@ -10651,7 +10651,6 @@ antischolastic
 aminopherase
 apothec
 arccosine
-aminophylline
 aminopyrine
 aminoplast
 aminoplastic
@@ -18368,6 +18367,7 @@ arabian
 arabianize
 arabians
 andarko
+aminophylline
 arabic
 amity
 arabica
