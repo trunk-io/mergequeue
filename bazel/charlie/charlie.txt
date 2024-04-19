@@ -21110,6 +21110,7 @@ concaveness
 concaves
 concaving
 concavity
+conjunction
 concavities
 concavo
 conceal
@@ -22488,7 +22489,6 @@ conjugium
 conjunct
 conjuncted
 circumcision
-conjunction
 conjunctional
 coohee
 conjunctionally

@@ -5232,6 +5232,7 @@ bohemias
 beg
 begabled
 begad
+boskopoid
 begay
 begalled
 begalls
@@ -13149,7 +13150,6 @@ bosker
 blueings
 bosky
 boskier
-boskopoid
 backlotter
 blandiloquous
 bosn
