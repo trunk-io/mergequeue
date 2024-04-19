@@ -9714,6 +9714,7 @@ esoneural
 esophagal
 esophagalgia
 esophageal
+epi
 esophagean
 esophagectasia
 explicans
@@ -12537,7 +12538,6 @@ ependyme
 elocutionists
 exigences
 exigencies
-epi
 exigent
 escortment
 exigenter
