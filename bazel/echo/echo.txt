@@ -1069,7 +1069,6 @@ executing
 edgeling
 edgeman
 edger
-edgers
 edges
 edgeshot
 edgeway
@@ -6646,6 +6645,7 @@ enterograph
 enterography
 encompasser
 enterohemorrhage
+edgers
 enterohydrocele
 enterointestinal
 escarped
