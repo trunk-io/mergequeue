@@ -5057,6 +5057,7 @@ cascades
 cascadia
 cascadian
 cascading
+chondrosamine
 cascadite
 cascalho
 cascalote
@@ -6595,7 +6596,6 @@ cedars
 cedarware
 cedarwood
 ceded
-chondrosamine
 cedens
 ceder
 ceders
