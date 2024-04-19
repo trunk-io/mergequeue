@@ -2215,6 +2215,7 @@ felons
 felonsetter
 fluorescence
 felonwort
+feriae
 fractionizing
 flancard
 fels
@@ -7235,7 +7236,6 @@ footpace
 footpaces
 forefather
 flavonoid
-feriae
 fifer
 foxite
 footpad
