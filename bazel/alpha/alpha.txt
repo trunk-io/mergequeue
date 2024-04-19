@@ -827,7 +827,6 @@ abridger
 abridgers
 abridges
 abridging
-aphidian
 abridgments
 abrim
 abrin
@@ -1656,6 +1655,7 @@ accordionist
 accordionists
 accordions
 accords
+aphidian
 anaesthetist
 accorporate
 accorporation
