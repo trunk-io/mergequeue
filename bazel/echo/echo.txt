@@ -6711,7 +6711,6 @@ enterotomy
 enterotoxemia
 enterotoxication
 essence
-enterotoxin
 enteroviral
 emplastra
 equalization
@@ -13500,6 +13499,7 @@ exsiccant
 exsiccatae
 exsiccating
 exsiccative
+enterotoxin
 exsiccator
 embowment
 exsolution
