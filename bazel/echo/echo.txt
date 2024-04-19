@@ -7490,7 +7490,6 @@ empight
 ephemeron
 ephemeroptera
 eigne
-ephemerous
 ephererist
 ephesian
 ephesine
@@ -12725,6 +12724,7 @@ exonerate
 embaphium
 exonerated
 exonerating
+ephemerous
 exoneration
 exonerations
 exonerative
