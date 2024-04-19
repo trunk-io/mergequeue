@@ -3913,7 +3913,6 @@ fimbristylis
 fin
 finable
 fashious
-fantail
 finagler
 finaglers
 fanatical
@@ -8383,6 +8382,7 @@ forktail
 fruiterer
 faceup
 flickery
+fantail
 forlay
 forlain
 flanning
