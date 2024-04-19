@@ -4070,7 +4070,6 @@ gilbertian
 gaseity
 gilbertianism
 gilbertine
-gamene
 gild
 gildable
 gilded
@@ -8664,6 +8663,7 @@ gangion
 garnishments
 gigues
 greenlander
+gamene
 greenlandite
 granges
 greenlandman
