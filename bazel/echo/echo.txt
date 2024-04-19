@@ -5289,7 +5289,6 @@ endosmometric
 equipments
 eyr
 evaders
-electroplax
 endosmose
 endosmoses
 endosmosic
@@ -8387,6 +8386,7 @@ epityphlitis
 elopers
 epityphlon
 endogenetic
+electroplax
 epitomate
 excubittoria
 epitomator

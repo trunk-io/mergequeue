@@ -13564,7 +13564,6 @@ disserving
 dissettle
 dissettlement
 dissever
-disseveration
 dissevered
 dissevering
 disseverment
@@ -18358,6 +18357,7 @@ duotype
 diospyros
 duotone
 duotoned
+disseveration
 disembody
 duotones
 duotriacontane
