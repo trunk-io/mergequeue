@@ -5237,7 +5237,6 @@ denitrificator
 denitrifier
 denitrifying
 denitrize
-denizate
 denization
 denizen
 denizenation
@@ -9452,6 +9451,7 @@ digestedly
 daddynut
 digestedness
 digesters
+denizate
 digestibility
 digestible
 downshifting
