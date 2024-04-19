@@ -4261,7 +4261,6 @@ beatee
 beaten
 beaterman
 beaters
-beath
 beati
 beatify
 beatific
@@ -15021,6 +15020,7 @@ blousons
 brens
 brent
 begot
+beath
 brents
 brerd
 brere
