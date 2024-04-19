@@ -3171,6 +3171,7 @@ defecting
 diplomacy
 defection
 defectious
+devotionalness
 defective
 dribbled
 defectively
@@ -7794,7 +7795,6 @@ devotional
 devotionalist
 devotionality
 devotionally
-devotionalness
 devotionary
 deckhands
 devotionate
