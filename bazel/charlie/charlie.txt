@@ -23728,6 +23728,7 @@ contrapose
 contraposed
 contraposit
 contraposita
+cataplexy
 contraposition
 contrapositive
 contrapositives
@@ -27776,7 +27777,6 @@ cpo
 cps
 cpt
 cpu
-cataplexy
 cpus
 cputime
 centriffed
