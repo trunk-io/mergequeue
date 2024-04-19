@@ -6226,7 +6226,6 @@ brookie
 benefaction
 benefactive
 benefactor
-benefactors
 bhikhari
 benefactress
 benefactresses
@@ -14754,6 +14753,7 @@ breach
 breached
 breacher
 breachers
+benefactors
 bibliotaphic
 breaches
 bulborectal
