@@ -15778,7 +15778,6 @@ dorsiferous
 dorsifixed
 dorsiflex
 dorsiflexion
-dorsigrade
 deuteron
 detects
 dualization
@@ -17756,6 +17755,7 @@ duces
 duchan
 distrouble
 duchesse
+dorsigrade
 deflationary
 disaproned
 dopesheet
