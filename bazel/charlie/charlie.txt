@@ -5773,6 +5773,7 @@ categorizers
 categorizes
 categorizing
 cultured
+chateau
 cateye
 catel
 catelectrode
@@ -9264,7 +9265,6 @@ chatchka
 chatchkas
 chatchke
 chatchkes
-chateau
 chateaugray
 chateaus
 chateaux
