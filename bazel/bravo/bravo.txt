@@ -10144,7 +10144,6 @@ brakeage
 bypast
 blackfellow
 blackfellows
-blackfigured
 blackfins
 blackfire
 blackfish
@@ -11767,6 +11766,7 @@ belook
 bodement
 balloonation
 bodements
+blackfigured
 boden
 buskins
 baking
