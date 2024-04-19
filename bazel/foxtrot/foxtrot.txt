@@ -5346,7 +5346,6 @@ flecnodal
 friendlily
 flect
 frigefact
-flection
 flectionless
 flector
 flinter
@@ -7192,6 +7191,7 @@ footiest
 footingly
 footings
 fluently
+flection
 footle
 footled
 fiducinales
