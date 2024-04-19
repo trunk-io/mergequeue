@@ -2452,7 +2452,6 @@ decken
 decker
 deckhand
 deckhead
-deckhouse
 decking
 deckle
 deckman
@@ -8396,6 +8395,7 @@ diallel
 diallelon
 dine
 diallelus
+deckhouse
 drowned
 draughtiness
 diallers
