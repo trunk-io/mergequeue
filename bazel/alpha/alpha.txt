@@ -5692,7 +5692,6 @@ afterpeak
 afterpiece
 afterplanting
 afterpotential
-autolysis
 afterpressure
 afterproof
 afterrake
@@ -11382,6 +11381,7 @@ amritas
 astomous
 amritsar
 amsath
+autolysis
 adulteries
 afterwitted
 amsel
