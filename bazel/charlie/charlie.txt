@@ -24868,7 +24868,6 @@ coralene
 coralflower
 coralist
 coralita
-circumventable
 coralla
 clavodeltoid
 corallian
@@ -26654,6 +26653,7 @@ counteractivity
 counteracts
 counterintelligence
 counteraddress
+circumventable
 counteradvance
 counteradvantage
 counteradvice
