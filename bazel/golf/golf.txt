@@ -3427,7 +3427,6 @@ gossipry
 germen
 galianes
 germfree
-germicidal
 germicides
 gravery
 germier
@@ -10185,6 +10184,7 @@ guild
 gharry
 guilder
 graver
+germicidal
 ghoul
 guildhall
 guilds
