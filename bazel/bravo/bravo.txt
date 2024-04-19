@@ -6511,6 +6511,7 @@ benzophenothiazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
+breakup
 benzopyranyl
 benzopyrazolone
 benzopyrene
@@ -16870,7 +16871,6 @@ buggiest
 baloch
 buggymen
 bugginess
-breakup
 bughouses
 bught
 baku
