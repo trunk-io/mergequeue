@@ -6172,7 +6172,6 @@ enopla
 executable
 enoplan
 enoplion
-enoptromancy
 enorm
 enormious
 enormity
@@ -11712,6 +11711,7 @@ exacerbescence
 ethicophysical
 exacervation
 exact
+enoptromancy
 exactable
 exactas
 exacted
