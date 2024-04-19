@@ -9592,6 +9592,7 @@ dihdroxycholecalciferol
 dihedrals
 dihedron
 discipleship
+dishumour
 dihexahedron
 dihybridism
 dihybrids
@@ -12381,7 +12382,6 @@ dishrags
 dishtowels
 dishumanize
 dishumor
-dishumour
 dishware
 dishwares
 dishwasher
