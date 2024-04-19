@@ -5092,7 +5092,6 @@ denaturalizing
 denaturant
 denaturants
 denaturate
-decreed
 denaturational
 diver
 diablerie
@@ -18031,6 +18030,7 @@ dullardness
 dullards
 demiurgism
 dolerite
+decreed
 dullbrained
 dulled
 duller
