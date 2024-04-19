@@ -8206,7 +8206,6 @@ diadochite
 defogger
 diadochokinesia
 diadochokinetic
-diadokokinesis
 diadoumenos
 diadrom
 diadrome
@@ -10266,6 +10265,7 @@ dioestrous
 dioestrus
 diogenes
 dipnoi
+diadokokinesis
 diogenic
 diogenite
 duel
