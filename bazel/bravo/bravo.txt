@@ -955,7 +955,6 @@ bultow
 bogey
 bagwigs
 bagwyn
-bagwoman
 bagwomen
 bagwork
 bah
@@ -3737,6 +3736,7 @@ battak
 blackest
 bally
 battakhin
+bagwoman
 battalias
 battalion
 battarism
