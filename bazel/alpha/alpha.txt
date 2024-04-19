@@ -7624,7 +7624,6 @@ alchemy
 alchemic
 alchemies
 alchemised
-abstracting
 actinozoal
 alchemising
 antilepsis
@@ -17259,6 +17258,7 @@ aftertax
 apokatastasis
 argyric
 apokatastatic
+abstracting
 antiserum
 anchoring
 apokrea
