@@ -5349,7 +5349,6 @@ ecalcavate
 endothelial
 endothelioid
 evocatory
-endothelioma
 endotheliomas
 endotheliomata
 ecphory
@@ -10195,6 +10194,7 @@ eternalising
 eternalism
 exoarteritis
 eternality
+endothelioma
 esoterical
 eternalize
 eternalized
