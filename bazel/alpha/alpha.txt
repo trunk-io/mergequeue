@@ -6113,7 +6113,6 @@ aerialness
 aggregate
 alpestrian
 aggregated
-aggregately
 appay
 aggregateness
 aggregates
@@ -18734,6 +18733,7 @@ archaeolithic
 archaeologer
 archaeologian
 archaeologic
+aggregately
 archaeological
 archaeologist
 archaeologists
