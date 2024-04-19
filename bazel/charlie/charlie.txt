@@ -4722,7 +4722,6 @@ carpopedal
 carpophagous
 carpophalangeal
 carpophyl
-carpophyll
 carpophyte
 carpophore
 carpopodite
@@ -20695,6 +20694,7 @@ coelian
 completers
 chemosmosis
 completest
+carpophyll
 completing
 completion
 corraded
