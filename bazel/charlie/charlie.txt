@@ -11292,7 +11292,6 @@ childe
 chloroamide
 chloroamine
 chloroaurate
-chloroauric
 chloroaurite
 chlorobenzene
 chlorobromide
@@ -30685,6 +30684,7 @@ cuissen
 cuisses
 cuit
 cuitlateco
+chloroauric
 cuitling
 cuittikin
 cuittle
