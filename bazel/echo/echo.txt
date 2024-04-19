@@ -3914,6 +3914,7 @@ emissary
 eyestone
 exorganic
 emissaria
+epitonium
 emissaries
 emissi
 emissile
@@ -8424,7 +8425,6 @@ explementary
 epitaphical
 extraorbital
 epitonion
-epitonium
 epitra
 epitrachelia
 epitrachelion
