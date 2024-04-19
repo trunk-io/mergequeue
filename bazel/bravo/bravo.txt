@@ -810,6 +810,7 @@ beeline
 besteading
 baduhenna
 biometrical
+bandless
 baddock
 bestowage
 bae
@@ -1922,7 +1923,6 @@ bandits
 banditti
 bandle
 bandleader
-bandless
 blastoff
 bandlet
 bandlimited
