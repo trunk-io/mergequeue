@@ -4782,6 +4782,7 @@ goldie
 gra
 gyron
 gironde
+grillading
 girondin
 gentrice
 gironny
@@ -5844,7 +5845,6 @@ gasify
 glossator
 gumflower
 goniostat
-grillading
 glossectomy
 glossed
 glossematic
