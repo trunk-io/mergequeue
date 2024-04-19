@@ -4104,7 +4104,6 @@ contracting
 cardiopath
 chionanthus
 cardiopathic
-cardiopericarditis
 cardiophobe
 cardiophobia
 cardiophrenia
@@ -13406,6 +13405,7 @@ cycloplegic
 cyclopoid
 cyclopropane
 cyclopteridae
+cardiopericarditis
 cyclopteroid
 cyclopterous
 cyclorama
