@@ -4676,6 +4676,7 @@ albication
 advertizable
 amulets
 advertized
+assuagable
 advertizement
 allobars
 advertizes
@@ -21928,7 +21929,6 @@ asst
 abomination
 alphonso
 assuade
-assuagable
 alphabetics
 assuage
 astrologer
