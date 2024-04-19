@@ -4858,7 +4858,6 @@ endosteal
 encushion
 end
 endable
-endamage
 endamageable
 endamagement
 endamages
@@ -5194,6 +5193,7 @@ elimination
 enthronising
 endophagy
 elevational
+endamage
 endophagous
 endophasia
 endophasic
