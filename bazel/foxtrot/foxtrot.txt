@@ -8108,6 +8108,7 @@ forests
 faddisms
 focalizing
 flue
+forseeable
 forestwards
 foresummon
 fireflies
@@ -8647,7 +8648,6 @@ forsar
 fardh
 flagellative
 forsee
-forseeable
 forseek
 forseen
 forset
