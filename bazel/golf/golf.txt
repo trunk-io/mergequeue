@@ -6295,7 +6295,6 @@ gnomes
 gnomesque
 gnomic
 gnomical
-gnomide
 gastroid
 gnomish
 gelastic
@@ -10035,6 +10034,7 @@ gook
 guemal
 guemul
 graveolency
+gnomide
 guenon
 gueparde
 greenback
