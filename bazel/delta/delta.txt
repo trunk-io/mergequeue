@@ -1731,7 +1731,6 @@ debark
 debarkations
 dobroes
 dodecuplet
-debarked
 debarking
 debarkment
 debarks
@@ -18188,6 +18187,7 @@ dunderpate
 darapti
 dundrearies
 dune
+debarked
 duneland
 dunelands
 dunelike
