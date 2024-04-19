@@ -3535,7 +3535,6 @@ embolomycotic
 embolon
 emboltement
 embolus
-emborder
 embordered
 embordering
 epidesmine
@@ -11525,6 +11524,7 @@ everyplace
 everything
 extermine
 everyway
+emborder
 everywhen
 everywhereness
 everywhither
