@@ -3455,6 +3455,7 @@ bastards
 baste
 basted
 boort
+biotechnologicaly
 baster
 basters
 bastile
@@ -9209,7 +9210,6 @@ biotaxy
 barotropy
 biotechnology
 biotechnological
-biotechnologicaly
 bianchi
 basilemma
 biotechnologically
