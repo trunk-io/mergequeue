@@ -8421,7 +8421,6 @@ dialogism
 dedications
 dialogist
 dialogistical
-dialogite
 departements
 dialogize
 decouple
@@ -11407,6 +11406,7 @@ disclass
 disclassify
 disclike
 disclimax
+dialogite
 discloak
 dissuader
 debug
