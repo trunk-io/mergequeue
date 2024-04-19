@@ -6114,7 +6114,6 @@ glusid
 gluside
 glutamate
 geodesics
-glutamates
 glutamic
 glutaminase
 gazing
@@ -8125,6 +8124,7 @@ graphicness
 ghosts
 geissospermin
 graphing
+glutamates
 glorioso
 graphiological
 graphis
