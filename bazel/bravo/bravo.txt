@@ -7718,7 +7718,6 @@ battleground
 bathycurrent
 bewrapt
 bewreak
-bewreath
 bewreck
 befreckle
 bewry
@@ -17769,6 +17768,7 @@ boilerhouse
 burnbeat
 bombshell
 burned
+bewreath
 burner
 bloodstain
 burnettize
