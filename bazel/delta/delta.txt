@@ -10596,7 +10596,6 @@ diplomaing
 diplomas
 diplomat
 diplomata
-diplomate
 deben
 diplomates
 diplomatically
@@ -16791,6 +16790,7 @@ dolours
 dravya
 dravidian
 dravidic
+diplomate
 dravite
 draw
 dongon
