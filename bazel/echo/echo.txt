@@ -3924,6 +3924,7 @@ emissive
 emissivity
 emissory
 emitted
+endured
 emittent
 emitting
 emma
@@ -5421,7 +5422,6 @@ endurance
 endurant
 endure
 ensnarled
-endured
 endurer
 endures
 enki
