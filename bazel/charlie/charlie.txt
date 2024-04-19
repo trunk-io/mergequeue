@@ -6825,7 +6825,6 @@ cellule
 correctly
 cellules
 cellulicidal
-celluliferous
 commences
 cellulifugal
 cellulifugally
@@ -24134,6 +24133,7 @@ crimples
 convertor
 convertors
 converts
+celluliferous
 conveth
 convex
 convexedly
