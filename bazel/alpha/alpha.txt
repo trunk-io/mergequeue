@@ -18265,7 +18265,6 @@ aquas
 aquascope
 aquascutum
 aquate
-ancylostomum
 aquatic
 aquatically
 aquatics
@@ -20893,6 +20892,7 @@ airfields
 asbestos
 asbestoses
 asbestosis
+ancylostomum
 asbestous
 asbestuses
 asbolan
