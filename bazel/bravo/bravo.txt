@@ -4779,7 +4779,6 @@ bedmate
 bibbons
 bednights
 bedoctor
-bedotted
 bedouinism
 bedouins
 bote
@@ -12212,6 +12211,7 @@ buckstay
 bolted
 bowenite
 bolters
+bedotted
 boltheader
 behavers
 behold
