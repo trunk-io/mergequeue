@@ -3422,7 +3422,6 @@ capsuler
 capsules
 capsuliferous
 capsuliform
-capsuligerous
 capsuling
 capsulitis
 capsulize
@@ -7486,6 +7485,7 @@ ceratioid
 ceration
 ceratite
 ceratitic
+capsuligerous
 ceratitidae
 ceratitis
 ceratitoidea
