@@ -2051,7 +2051,6 @@ gauntest
 gaunty
 glairs
 gauntleting
-gauntlets
 gullage
 gauntness
 garnerage
@@ -6932,6 +6931,7 @@ grungy
 gymsia
 gonothecal
 gonotyl
+gauntlets
 gonotype
 gonotome
 gonozooid
