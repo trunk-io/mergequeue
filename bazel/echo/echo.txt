@@ -5737,7 +5737,6 @@ eucharistical
 englishwomen
 englobe
 englobed
-englobement
 exophagous
 englobing
 entrail
@@ -13418,6 +13417,7 @@ expungeable
 expunged
 expunger
 expungers
+englobement
 expunging
 expurgate
 expurgated
