@@ -3941,6 +3941,7 @@ giftwrap
 giftwrapping
 garrisons
 gig
+gripping
 giga
 globoseness
 gigabyte
@@ -9118,7 +9119,6 @@ gabfest
 geneticist
 guanajuatite
 gahnite
-gripping
 grippingly
 grippit
 gripple

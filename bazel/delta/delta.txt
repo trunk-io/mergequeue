@@ -5794,6 +5794,7 @@ depoetize
 depoh
 depolarisation
 depolarise
+dissentiency
 drapeable
 depolarised
 depolariser
@@ -13515,7 +13516,6 @@ dissented
 dissenter
 dissenters
 dissentience
-dissentiency
 dissentients
 dissenting
 dissentingly
