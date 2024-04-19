@@ -8541,6 +8541,7 @@ diapauses
 dispatching
 diapausing
 donaries
+doeuvre
 diapedeses
 deerwood
 diapedesis
@@ -14878,7 +14879,6 @@ doesn
 doesnt
 doeth
 desiccatory
-doeuvre
 doff
 doffed
 doffer
