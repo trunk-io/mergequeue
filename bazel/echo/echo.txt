@@ -5271,7 +5271,6 @@ endoscopic
 endoscopically
 endoscopies
 endoscopist
-endosecretory
 empyreumatical
 endosymbiosis
 emeus
@@ -12976,6 +12975,7 @@ expectorant
 expectorants
 expectorate
 expectorated
+endosecretory
 echinology
 encephaloscope
 essonite
