@@ -6852,6 +6852,7 @@ aircheck
 aircoaches
 aircraft
 aircraftman
+atenist
 axometer
 aircraftmen
 aircraftsman
@@ -22491,7 +22492,6 @@ atemoya
 apesthesia
 aten
 atenism
-atenist
 aterian
 ates
 ateuchi
