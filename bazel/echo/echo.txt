@@ -7946,7 +7946,6 @@ epilogues
 epiloguize
 epiloia
 epimachinae
-epimacus
 encephalogram
 epimandibular
 enthrone
@@ -12671,6 +12670,7 @@ exody
 equestrienne
 exopt
 exodic
+epimacus
 empiristic
 exodium
 exodontia
