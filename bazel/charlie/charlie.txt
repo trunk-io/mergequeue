@@ -7915,6 +7915,7 @@ chord
 cipolin
 cessible
 cessing
+clinician
 cessio
 cession
 cessionaire
@@ -16238,7 +16239,6 @@ clinia
 clinic
 clinical
 clinically
-clinician
 clinicians
 condensations
 cask
