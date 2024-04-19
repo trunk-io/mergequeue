@@ -6281,7 +6281,6 @@ gnomoniaceae
 gnomonic
 gnomonology
 gnomonological
-germanious
 gnosiology
 gnosiological
 gnosis
@@ -8566,6 +8565,7 @@ gree
 glean
 greece
 greed
+germanious
 greedier
 gregor
 greediest
