@@ -2233,7 +2233,6 @@ banderoling
 bebite
 benzotoluide
 baragouin
-baragouinish
 bestseller
 bedawn
 buffetings
@@ -6657,6 +6656,7 @@ berceaunette
 berceuse
 berceuses
 bournous
+baragouinish
 berchemia
 berdache
 berdaches
