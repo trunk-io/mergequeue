@@ -4422,7 +4422,6 @@ enneacontahedral
 electrobioscopy
 encaged
 encages
-encake
 encalendar
 encamping
 encampment
@@ -5485,6 +5484,7 @@ energumenon
 enervate
 enervates
 enervating
+encake
 enzymosis
 enervation
 enervators
