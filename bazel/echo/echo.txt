@@ -2358,6 +2358,7 @@ exanguin
 electrocutions
 electrode
 electrodeless
+exponentials
 entremets
 ergatomorph
 enjeopard
@@ -13277,7 +13278,6 @@ exponency
 exponent
 exponential
 exponentially
-exponentials
 exponentiates
 entomion
 exponentiating
