@@ -554,7 +554,6 @@ daltonist
 dam
 dama
 damage
-damageability
 damageably
 describent
 damaged
@@ -2499,6 +2498,7 @@ declaring
 declasse
 divisibly
 declasses
+damageability
 declassicize
 declassify
 declassification
