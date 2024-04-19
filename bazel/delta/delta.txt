@@ -8900,6 +8900,7 @@ dichloride
 dichloroacetic
 dichlorobenzene
 dichlorodifluoromethane
+domiciling
 dichlorodiphenyltrichloroethane
 dichlorohydrin
 dichloromethane
@@ -15335,7 +15336,6 @@ domiciliated
 domiciliating
 dialytically
 domiciliation
-domiciling
 domify
 dovetail
 domification
