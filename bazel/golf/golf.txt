@@ -3487,7 +3487,6 @@ gerontocracies
 genericalness
 gerontocrat
 gerontology
-gerontological
 gerontologies
 gerontologist
 giesel
@@ -8598,6 +8597,7 @@ greekling
 grammars
 geranials
 greeks
+gerontological
 green
 greenage
 gonys
