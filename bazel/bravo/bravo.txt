@@ -9569,7 +9569,6 @@ baffeta
 birthrights
 birthroot
 births
-birthstone
 bristletail
 birthstones
 birthstool
@@ -15315,6 +15314,7 @@ brierwood
 bries
 bonnetless
 brieve
+birthstone
 brigade
 brigaded
 bhangs
