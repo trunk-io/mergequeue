@@ -7377,6 +7377,7 @@ commisce
 cephalomant
 cephalomeningitis
 cultivatable
+cleansing
 cephalomere
 cyclostylar
 cephalometer
@@ -15837,7 +15838,6 @@ cleanse
 cleanser
 cleansers
 cleanses
-cleansing
 cleanskin
 cleanskins
 cleanup
