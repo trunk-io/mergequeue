@@ -4667,6 +4667,7 @@ farming
 fixup
 fixure
 fixures
+fatalistic
 fiz
 fizelyite
 fizgig
@@ -11586,7 +11587,6 @@ flavedos
 fusilading
 fusile
 fusileer
-fatalistic
 fusileers
 fossilising
 fcs
