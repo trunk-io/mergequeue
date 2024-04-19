@@ -2657,7 +2657,6 @@ detectaphone
 decompressive
 decelerating
 downwarp
-dotardy
 deconcatenate
 deconcentrate
 deconcentrated
@@ -14661,6 +14660,7 @@ dockhouse
 dockyard
 dockyardman
 daktylon
+dotardy
 deringers
 dockyards
 docking
