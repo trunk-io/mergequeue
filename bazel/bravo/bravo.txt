@@ -4646,7 +4646,6 @@ bedazed
 bedazement
 bigotedly
 bedazzle
-bedazzled
 bedazzles
 bedazzlingly
 bedboard
@@ -14642,6 +14641,7 @@ bratstvo
 blunderer
 brattach
 bratty
+bedazzled
 brattice
 brattices
 bratticing
