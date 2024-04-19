@@ -3664,7 +3664,6 @@ daffish
 dictamnus
 deguelin
 damaging
-degumming
 degums
 degust
 degusted
@@ -11408,6 +11407,7 @@ disabilities
 discoactine
 documentation
 discoast
+degumming
 discoblastic
 deriv
 digladiated
