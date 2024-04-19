@@ -3570,7 +3570,6 @@ degases
 degasify
 degasifier
 disguise
-definition
 degass
 degassed
 degassing
@@ -6805,6 +6804,7 @@ desmidiologist
 dvorak
 desmids
 dolichoblond
+definition
 disfranchisers
 dampang
 desmine
