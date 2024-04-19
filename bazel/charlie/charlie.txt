@@ -19923,7 +19923,6 @@ comitatus
 caccias
 coachmanship
 comity
-comitia
 comitial
 conglobulate
 comities
@@ -27246,6 +27245,7 @@ countryseat
 countryside
 countryward
 countrywoman
+comitia
 countrywomen
 castoridae
 counts
