@@ -2809,7 +2809,6 @@ cantaro
 counterseal
 cantata
 cantatas
-corolline
 cantate
 cantation
 cantatory
@@ -13745,6 +13744,7 @@ cynanche
 cynanchum
 concentus
 ciliophora
+corolline
 chagal
 cynaraceous
 cynareous
