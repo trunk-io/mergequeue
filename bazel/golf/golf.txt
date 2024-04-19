@@ -2697,7 +2697,6 @@ generate
 generated
 generater
 gurdy
-gregaritic
 gombroons
 generations
 generative
@@ -3376,6 +3375,7 @@ guess
 germanyl
 germanish
 gumihan
+gregaritic
 germanist
 gladder
 gelotoscopy
