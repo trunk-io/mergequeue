@@ -8483,7 +8483,6 @@ diaminogen
 diaminogene
 diamins
 diammine
-diamminobromide
 diamminonitrate
 diammonium
 downgrades
@@ -12221,6 +12220,7 @@ dogface
 dwarfness
 disgracive
 durbar
+diamminobromide
 disgradation
 dappleness
 dazzlement
