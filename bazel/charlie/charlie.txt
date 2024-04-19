@@ -8771,7 +8771,6 @@ chantress
 chantry
 chantries
 chanukah
-chao
 chaogenous
 chaology
 chaori
@@ -21142,6 +21141,7 @@ couplets
 conceders
 concedes
 conceding
+chao
 conceit
 conceited
 conceitedness
