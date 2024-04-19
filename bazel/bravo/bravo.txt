@@ -7059,7 +7059,6 @@ besmear
 blvd
 bluejackets
 besmearing
-besmears
 besmile
 besmiled
 besmiles
@@ -16944,6 +16943,7 @@ bukshee
 bul
 bulak
 babylonic
+besmears
 bulb
 bulbar
 bulbed
