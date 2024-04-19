@@ -2596,7 +2596,6 @@ decolorising
 dispose
 decolorization
 decolorized
-decolorizer
 decolors
 decolouration
 decolouring
@@ -11632,6 +11631,7 @@ deresinate
 dysteleological
 discorded
 discorder
+decolorizer
 discordful
 discordia
 discording
