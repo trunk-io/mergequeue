@@ -3669,7 +3669,6 @@ becrowds
 batik
 batiked
 buddh
-batiker
 baroco
 batiks
 bassly
@@ -4415,6 +4414,7 @@ bidactyle
 bemirrorment
 bebusy
 bebuttoned
+batiker
 bec
 bowlders
 becall

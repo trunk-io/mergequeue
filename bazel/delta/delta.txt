@@ -11452,7 +11452,6 @@ discographical
 discographically
 dekaliter
 discographies
-disruptability
 discoid
 daubry
 discoidal
@@ -18387,6 +18386,7 @@ duplicability
 duplicand
 duplicando
 duplicately
+disruptability
 duplicates
 duplication
 duplications
