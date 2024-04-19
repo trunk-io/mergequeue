@@ -2422,6 +2422,7 @@ electrofusion
 ethanol
 electrogalvanization
 electrogenetic
+enharbor
 electrogenic
 electrogild
 electrogilding
@@ -7330,7 +7331,6 @@ ergatogynous
 eosinlike
 eosinoblast
 ennage
-enharbor
 eosinophile
 eosins
 eosophobia
