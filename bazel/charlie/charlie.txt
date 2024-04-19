@@ -11759,7 +11759,6 @@ chondrography
 conduplication
 chondroitic
 chondroitin
-chondrolipoma
 chondrology
 chondromata
 chondromatous
@@ -16569,6 +16568,7 @@ cloys
 cloysome
 cloison
 crinivorous
+chondrolipoma
 cloisonless
 cloisonn
 cloisonne
