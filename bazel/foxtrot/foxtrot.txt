@@ -5967,7 +5967,6 @@ floorcloths
 floored
 flooring
 foreclosable
-flummoxes
 fluidizing
 floors
 folkways
@@ -11631,6 +11630,7 @@ fussification
 fussily
 fussiness
 friend
+flummoxes
 fussing
 fatigues
 fussle
