@@ -6456,7 +6456,6 @@ fluorochrome
 fluoroform
 flaminian
 fluorogen
-fluorometer
 fluorometry
 fluoroscopes
 forechamber
@@ -9474,6 +9473,7 @@ fettler
 frantic
 franticly
 freeloading
+fluorometer
 flybook
 forged
 functionalizing

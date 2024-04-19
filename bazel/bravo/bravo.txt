@@ -1444,6 +1444,7 @@ bali
 balian
 bucare
 balibago
+boarhound
 balibuntal
 balibuntl
 balija
@@ -11568,7 +11569,6 @@ boardsmanship
 boardwalks
 boarfish
 boarfishes
-boarhound
 boarish
 bursar
 boarishness
