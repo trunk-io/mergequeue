@@ -7789,7 +7789,6 @@ certificating
 collisions
 certifications
 certificative
-certificator
 certificatory
 certified
 certifier
@@ -13492,6 +13491,7 @@ cierge
 cierzo
 cierzos
 cyeses
+certificator
 cyesiology
 courb
 cyesis

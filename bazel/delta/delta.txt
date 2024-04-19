@@ -10312,7 +10312,6 @@ discophore
 deskmen
 dioptometry
 dismemberer
-dioptomiter
 dioptra
 dioptral
 dioptrate
@@ -11832,6 +11831,7 @@ decumbence
 discussionis
 discussionist
 discussions
+dioptomiter
 discustom
 discutient
 disdain
