@@ -209,7 +209,6 @@ factorize
 factorized
 factorizing
 factors
-factorship
 fazenda
 factotum
 flambeed
@@ -8932,6 +8931,7 @@ fosterling
 fingerlet
 frenzily
 frolics
+factorship
 fosterlings
 fosters
 fondant
