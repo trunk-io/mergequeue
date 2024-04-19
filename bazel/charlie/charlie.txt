@@ -24570,6 +24570,7 @@ copyfitter
 comvia
 copyfitting
 copygraph
+cosmati
 copygraphed
 copyhold
 copyholders
@@ -26034,7 +26035,6 @@ cosing
 cosins
 cosinusoid
 chaja
-cosmati
 cosmecology
 cosmete
 cosmetic
