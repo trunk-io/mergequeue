@@ -6361,7 +6361,6 @@ enseem
 exuberant
 ensembles
 ensepulcher
-ensepulchered
 ensepulchre
 enseraph
 enserfed
@@ -7601,6 +7600,7 @@ eructing
 epicerastic
 epicheirema
 epicheiremata
+ensepulchered
 emusify
 epichil
 epichile
