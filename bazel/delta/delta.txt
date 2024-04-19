@@ -2348,7 +2348,6 @@ decider
 deciders
 disownment
 disguisements
-decides
 deciding
 decidua
 deadrize
@@ -3978,6 +3977,7 @@ disadventurous
 deleatur
 deleble
 delectability
+decides
 dermestoid
 discontinuous
 desmacyte
