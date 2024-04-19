@@ -2371,7 +2371,6 @@ amazed
 annamese
 aciculate
 aciculum
-aciculums
 acid
 acidaemia
 acidanthera
@@ -20762,6 +20761,7 @@ artilleryman
 artillerymen
 aurochloride
 artilleryship
+aciculums
 artillerist
 artillerists
 artiness
