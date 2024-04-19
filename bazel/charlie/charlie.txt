@@ -19001,6 +19001,7 @@ collegiation
 collegiugia
 collegium
 classes
+combattant
 colley
 carpetbeater
 collembola
@@ -19690,7 +19691,6 @@ combative
 combatively
 combativeness
 combats
-combattant
 combatter
 combatting
 combe

@@ -897,7 +897,6 @@ gambirs
 gambist
 gambits
 guillemot
-gamble
 gambler
 gamblesome
 gamblesomeness
@@ -5685,6 +5684,7 @@ globosite
 globosity
 globous
 globousness
+gamble
 globs
 grumps
 globular
