@@ -1751,7 +1751,6 @@ dismayingness
 debateful
 debatefully
 discovered
-debaters
 debates
 debating
 divalence
@@ -16830,6 +16829,7 @@ declamation
 drawers
 drawfile
 disallowances
+debaters
 dissuited
 drawfiling
 debatingly
