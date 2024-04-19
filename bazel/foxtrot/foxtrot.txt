@@ -4371,7 +4371,6 @@ focuser
 fishability
 fishable
 fishback
-fishberry
 fleshers
 fishberries
 fishboat
@@ -5479,6 +5478,7 @@ fletches
 fletchings
 feynesses
 fleur
+fishberry
 fleuret
 flypaper
 fleurette
