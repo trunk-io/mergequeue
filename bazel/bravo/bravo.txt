@@ -794,6 +794,7 @@ badland
 badlands
 buba
 badly
+bat
 badman
 badmash
 badmen
@@ -3501,7 +3502,6 @@ basural
 basuto
 barramundis
 bander
-bat
 broadhead
 batable
 batad
