@@ -2259,7 +2259,6 @@ decennials
 decennium
 decennoval
 deflux
-dialdehyde
 decent
 decentered
 decentering
@@ -2388,6 +2387,7 @@ decimalist
 decimalization
 decimalize
 decimalized
+dialdehyde
 decimalizes
 desugared
 decimally
