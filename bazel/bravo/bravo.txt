@@ -2122,7 +2122,6 @@ bannack
 bannat
 banned
 basaltoid
-banner
 bannerer
 banneret
 bannerfish
@@ -7156,6 +7155,7 @@ bouzouki
 bespecked
 backrun
 bespeckle
+banner
 bespeckled
 bespecklement
 bespectacled
