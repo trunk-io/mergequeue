@@ -1760,7 +1760,6 @@ gastroduodenoscopy
 gastroduodenostomy
 gastroduodenostomies
 gastroelytrotomy
-gastroenteralgia
 garlanded
 gibson
 gastroenteritic
@@ -10446,6 +10445,7 @@ gibbon
 gumptious
 gumpus
 gums
+gastroenteralgia
 gumshield
 gastroxynsis
 gosling
