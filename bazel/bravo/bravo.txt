@@ -1873,6 +1873,7 @@ bandfiled
 bandgap
 bandh
 brownism
+brython
 bandhava
 bandhook
 borer
@@ -15558,7 +15559,6 @@ biting
 britannically
 britchel
 britches
-brython
 brythonic
 blimy
 british
