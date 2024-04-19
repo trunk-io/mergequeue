@@ -7831,7 +7831,6 @@ bimilllennia
 bagpipes
 bi
 biabo
-biacetyl
 biacetyls
 biacid
 breechblock
@@ -14603,6 +14602,7 @@ brassarts
 brassavola
 bolson
 brassbound
+biacetyl
 brassbounder
 brasse
 brassey
