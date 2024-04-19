@@ -9792,6 +9792,7 @@ bist
 bistable
 bystander
 bistate
+boomer
 bistephanic
 bister
 bistered
@@ -12758,7 +12759,6 @@ boomboxes
 boomdas
 brokers
 boomed
-boomer
 boomeranged
 boomeranging
 boozehound
