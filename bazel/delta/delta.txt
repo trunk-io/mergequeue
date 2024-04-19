@@ -4777,7 +4777,6 @@ demobilisation
 demobilise
 disremember
 demobilising
-demobilizations
 demobilize
 demobilizes
 diaheliotropism
@@ -16897,6 +16896,7 @@ dreamery
 disport
 dreamful
 dreamfully
+demobilizations
 dorsiflexor
 dreamfulness
 dreamhole
