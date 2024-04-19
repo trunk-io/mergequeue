@@ -7247,6 +7247,7 @@ environments
 enwwove
 euphonym
 enzym
+excuseless
 ensample
 enzymatic
 evillest
@@ -12260,7 +12261,6 @@ excuse
 excuseful
 excusefully
 exostome
-excuseless
 excuser
 excusers
 excusing
