@@ -2697,6 +2697,7 @@ cannons
 cannophori
 curvilineal
 cannstatt
+convoy
 chebeck
 cannula
 cannulae
@@ -24201,7 +24202,6 @@ colleterial
 convocations
 convocative
 convocator
-convoy
 convoyed
 convoying
 convoke
