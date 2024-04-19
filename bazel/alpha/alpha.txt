@@ -5560,7 +5560,6 @@ aeonial
 afreets
 afresca
 afresh
-afret
 acinous
 another
 afrete
@@ -17519,6 +17518,7 @@ apothecaries
 apothecaryship
 apothece
 apothecia
+afret
 apothecial
 apothecium
 autocriticism
