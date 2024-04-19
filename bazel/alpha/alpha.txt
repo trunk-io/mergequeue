@@ -9051,6 +9051,7 @@ allowance
 allowanced
 auricularly
 allowancing
+autosuggest
 allowed
 assagais
 allowedly
@@ -24395,7 +24396,6 @@ autostylism
 autostoper
 autostrada
 autostradas
-autosuggest
 autosuggestibility
 autosuggestible
 autosuggestion
