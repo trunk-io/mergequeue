@@ -7639,6 +7639,7 @@ epicly
 epiclidal
 expectance
 epiclike
+exhaustable
 epiclinal
 epicnemial
 epicoele
@@ -13146,7 +13147,6 @@ expirations
 expirator
 expiratory
 expire
-exhaustable
 expired
 embale
 expiree
