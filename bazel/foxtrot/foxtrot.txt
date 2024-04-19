@@ -373,7 +373,6 @@ faintheart
 fleying
 fusee
 fainthearted
-faintheartedness
 fainty
 fainting
 forestallment
@@ -7283,6 +7282,7 @@ footwarmer
 footwear
 floodmark
 fumiferous
+faintheartedness
 fabricable
 frigs
 fuliginous
