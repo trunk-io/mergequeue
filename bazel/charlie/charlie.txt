@@ -6218,7 +6218,6 @@ caulome
 chasselas
 caulomer
 caulomic
-chevet
 caulophylline
 caulophyllum
 caulopteris
@@ -26934,6 +26933,7 @@ counternotice
 counterobjection
 counterobligation
 counteroffensive
+chevet
 counteroffer
 counteropening
 counteropponent
