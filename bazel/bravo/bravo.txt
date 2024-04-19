@@ -8841,6 +8841,7 @@ benzins
 bindle
 bindles
 binds
+brewer
 bindweed
 bacillophobia
 bynedestin
@@ -15092,7 +15093,6 @@ brew
 brewage
 brewages
 bogier
-brewer
 bishopscap
 brewery
 breweries
