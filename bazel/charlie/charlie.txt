@@ -8579,6 +8579,7 @@ champs
 chams
 chamsin
 chan
+corslet
 chanabal
 chanca
 chance
@@ -25852,7 +25853,6 @@ corsican
 circumscribes
 corsie
 corsite
-corslet
 corsned
 corso
 corsos
