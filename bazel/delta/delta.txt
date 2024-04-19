@@ -9176,6 +9176,7 @@ didus
 die
 dye
 desoxycinchonine
+diptych
 dyeability
 dyeable
 ditriglyph
@@ -10763,7 +10764,6 @@ dipteron
 dipteros
 dipterus
 diptyca
-diptych
 diptychs
 dipware
 disloign
