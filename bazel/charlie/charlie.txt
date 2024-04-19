@@ -6595,6 +6595,7 @@ cedens
 ceder
 ceders
 cedes
+cunye
 cedi
 cedilla
 cedillas
@@ -31034,7 +31035,6 @@ cacodylate
 cunicular
 cuniculi
 cuniculus
-cunye
 cuniform
 cuniforms
 cunila
