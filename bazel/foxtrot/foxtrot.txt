@@ -6265,7 +6265,6 @@ fluentness
 formalisms
 fraticellian
 ferroprint
-fervour
 fluer
 forfeiting
 flues
@@ -8854,6 +8853,7 @@ forwore
 forwork
 frailer
 forwrap
+fervour
 fallacia
 forz
 forzando
