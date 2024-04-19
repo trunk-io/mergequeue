@@ -1179,7 +1179,6 @@ abutters
 abutting
 abuzz
 anodendron
-abvolt
 abvolts
 abwab
 abwatt
@@ -9999,6 +9998,7 @@ arousing
 ambigu
 ambiguity
 ambiguities
+abvolt
 ambiguous
 ambiguously
 ambilateral
