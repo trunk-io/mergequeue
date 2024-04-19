@@ -5431,7 +5431,6 @@ buzzsaw
 beguines
 begulf
 brandering
-begum
 begummed
 begumming
 begums
@@ -16050,6 +16049,7 @@ broodless
 broodling
 broodmare
 broods
+begum
 broodsac
 brook
 brooke
