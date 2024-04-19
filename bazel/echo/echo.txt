@@ -5405,7 +5405,6 @@ eltime
 endseal
 endshake
 endsheet
-everglade
 execrates
 endue
 exploration
@@ -7427,6 +7426,7 @@ ependymary
 economised
 esrog
 epenetic
+everglade
 epenla
 epentheses
 epenthesis
