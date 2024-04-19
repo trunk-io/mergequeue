@@ -3231,7 +3231,6 @@ glutaeous
 georgical
 goofs
 georgics
-gripy
 georgium
 geoscience
 grenade
@@ -5492,6 +5491,7 @@ glycosuria
 glycosuric
 glycuronic
 graph
+gripy
 glidder
 gliddery
 glided
