@@ -4873,6 +4873,7 @@ endamage
 endamageable
 endamagement
 endamages
+esquire
 endamaging
 endameba
 elelments
@@ -9849,7 +9850,6 @@ exsuperate
 espundia
 esq
 esquamulose
-esquire
 esquirearchy
 esquired
 esquiredom
