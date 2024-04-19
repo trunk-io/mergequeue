@@ -1886,7 +1886,6 @@ banjara
 bandersnatch
 bandfile
 bandfiled
-bandfish
 bandgap
 bandh
 brownism
@@ -10723,6 +10722,7 @@ burbled
 blennemesis
 blennenteria
 blueback
+bandfish
 blennenteritis
 blennies
 bogijiab
