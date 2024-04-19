@@ -79,7 +79,6 @@ gablewise
 grapelet
 giggly
 gabling
-gablock
 glimmerite
 gabon
 gorcrow
@@ -1220,6 +1219,7 @@ ganoses
 ganosis
 geometrical
 gutsiest
+gablock
 gansa
 gondite
 gliff

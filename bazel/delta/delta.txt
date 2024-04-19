@@ -4530,6 +4530,7 @@ duress
 demy
 demiadult
 diffinity
+dismisser
 demiangel
 demiassignation
 declivitous
@@ -12766,7 +12767,6 @@ dismissable
 dismissal
 dismissals
 dismissed
-dismisser
 doormaking
 dismissers
 dismisses
