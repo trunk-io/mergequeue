@@ -2426,7 +2426,6 @@ feretory
 forclose
 firearmed
 feretories
-frontes
 ferfel
 ferforth
 fooleries
@@ -6704,6 +6703,7 @@ fodge
 fodient
 foederati
 foederis
+frontes
 foeffment
 foehn
 foehnlike
