@@ -5070,7 +5070,6 @@ den
 dename
 denar
 denarcotization
-denarcotize
 disgregation
 denari
 denaries
@@ -5177,6 +5176,7 @@ dendrologous
 dendromecon
 dendrometer
 dendron
+denarcotize
 drills
 dendrons
 dendrophagous
