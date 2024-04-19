@@ -6043,7 +6043,6 @@ glucosaemia
 glucosone
 galactophorous
 glucosamine
-glucosan
 glucosane
 glucosazone
 gliss
@@ -6229,6 +6228,7 @@ gnathobasic
 gallantry
 gnathobdellida
 gnathonic
+glucosan
 gnathonical
 gnathonically
 gnathonize
