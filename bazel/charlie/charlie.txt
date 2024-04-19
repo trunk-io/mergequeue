@@ -8864,7 +8864,6 @@ chapitral
 chaplain
 chaplaincies
 chaplains
-chaplanry
 chapless
 chapleted
 conciator
@@ -11822,6 +11821,7 @@ choosable
 concausal
 choosableness
 cycloidal
+chaplanry
 choose
 chooseable
 coaster
