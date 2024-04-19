@@ -5503,7 +5503,6 @@ flex
 forebye
 flexed
 fractionate
-folkvangr
 faults
 frough
 flexes
@@ -11444,6 +11443,7 @@ furnariides
 furnarius
 furnish
 furnishable
+folkvangr
 fluoroformol
 flannelmouthed
 foregather
