@@ -6402,7 +6402,6 @@ cavaliers
 cavaliership
 cavallas
 cavally
-cavalry
 cavalryman
 cavalrymen
 cavascope
@@ -18235,6 +18234,7 @@ coffeehouse
 coffeehoused
 coffeehouses
 coffeehousing
+cavalry
 coffeeleaf
 coffeeman
 coffeepot
