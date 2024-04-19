@@ -4749,7 +4749,6 @@ experimentalists
 enclosed
 elem
 enclosers
-enclosing
 efik
 enclosures
 excentral
@@ -4976,6 +4975,7 @@ endenization
 endenize
 endenizen
 ender
+enclosing
 entosarc
 edgerman
 endermatic
