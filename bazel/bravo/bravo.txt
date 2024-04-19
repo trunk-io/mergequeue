@@ -4179,6 +4179,7 @@ boomlet
 beard
 bankrupts
 bodysurfs
+beggars
 bearded
 beardedness
 beardfishes
@@ -5294,7 +5295,6 @@ beggarlice
 beggarlike
 beggarliness
 beggarman
-beggars
 beggarweed
 batrachoididae
 beggarwise
