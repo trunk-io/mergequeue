@@ -734,7 +734,6 @@ glessite
 gallweed
 gallwort
 germanesque
-gisarme
 gametically
 gutterize
 grapplers
@@ -3377,6 +3376,7 @@ german
 germane
 germany
 glassier
+gisarme
 germanical
 germanify
 gloominess
