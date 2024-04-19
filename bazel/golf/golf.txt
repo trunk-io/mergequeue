@@ -437,7 +437,6 @@ galbulinae
 galbulus
 galcha
 growl
-gale
 galea
 galeage
 galeas
@@ -10769,6 +10768,7 @@ guttera
 gallybagger
 gutteral
 ganoidean
+gale
 gurneys
 galiongee
 guttered
