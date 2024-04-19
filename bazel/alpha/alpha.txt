@@ -1507,7 +1507,6 @@ accessorized
 accessorizing
 arsenobenzene
 accessors
-acciaccatura
 acciaccaturas
 acetite
 acciaccature
@@ -5111,6 +5110,7 @@ aerophore
 aloneness
 aerophotos
 aeroplane
+acciaccatura
 aeroplaner
 aeroplanes
 aeroplanist
