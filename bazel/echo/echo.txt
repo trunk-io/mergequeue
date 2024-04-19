@@ -192,7 +192,6 @@ earthwards
 earthwork
 earthworks
 enddamaged
-ecdysones
 earthworms
 earwax
 earwaxes
@@ -6134,6 +6133,7 @@ ennuye
 evviva
 ennuied
 ennuis
+ecdysones
 enoch
 enochic
 enodal
