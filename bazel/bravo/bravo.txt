@@ -2459,7 +2459,6 @@ barding
 bardings
 bardism
 bardlet
-boothian
 bardlike
 burut
 bardling
@@ -7127,6 +7126,7 @@ burelle
 besort
 blunting
 besot
+boothian
 besotment
 balkar
 besottedly
