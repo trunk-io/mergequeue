@@ -615,7 +615,6 @@ echoism
 echoisms
 exhumation
 epigeal
-echoize
 echoless
 echolocation
 echometer
@@ -5408,6 +5407,7 @@ everglade
 execrates
 endue
 exploration
+echoize
 enduing
 endura
 esthesioneurosis
