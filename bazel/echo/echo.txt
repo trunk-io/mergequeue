@@ -5308,7 +5308,6 @@ exploitative
 endostyle
 endostylic
 excarnate
-endostitis
 excommunicable
 endostoma
 endostosis
@@ -13500,6 +13499,7 @@ eikones
 exserting
 exserts
 exsheath
+endostitis
 exsibilation
 evadable
 exsiccant
