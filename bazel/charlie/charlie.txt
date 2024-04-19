@@ -2755,7 +2755,6 @@ canonistical
 canonists
 centenarianism
 canonizant
-canonization
 canonizations
 canonize
 canonized
@@ -4852,6 +4851,7 @@ carroting
 congregants
 carrotins
 carrotweed
+canonization
 carrotwood
 carrousel
 carrousels
