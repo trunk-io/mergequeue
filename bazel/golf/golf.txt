@@ -1462,6 +1462,7 @@ gibier
 garlicwort
 garlion
 garlopa
+glycolic
 garment
 goaded
 gerara
@@ -2533,7 +2534,6 @@ greenhood
 gemmary
 grenadine
 gemmate
-glycolic
 gemmated
 gemmating
 gubernaculum
