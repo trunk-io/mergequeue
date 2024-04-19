@@ -320,7 +320,6 @@ dayakker
 dayal
 dayanim
 directories
-diau
 daybeacon
 dipylon
 daybed
@@ -1109,6 +1108,7 @@ dashpot
 dashwheel
 dasya
 dasyatidae
+diau
 dodunk
 dasyatis
 dasymeter
