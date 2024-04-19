@@ -7682,7 +7682,6 @@ flusherman
 forefoot
 frenchmen
 fangot
-fathom
 fotui
 fungaceous
 foregallery
@@ -10477,6 +10476,7 @@ frontlash
 frontlessness
 fistnote
 frontoauricular
+fathom
 fashionize
 frontogenesis
 frontolysis
