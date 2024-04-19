@@ -3453,7 +3453,6 @@ adapa
 adapid
 adapt
 anisospore
-adaptability
 adaptable
 adaptableness
 almocrebe
@@ -8856,6 +8855,7 @@ allocyanine
 alloclase
 asphodeline
 allocthonous
+adaptability
 allocute
 allocution
 allocutive
