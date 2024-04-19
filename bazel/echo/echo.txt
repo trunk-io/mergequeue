@@ -188,7 +188,6 @@ electrize
 erythritic
 earthslide
 earthsmoke
-earthtongue
 earthwall
 earthwards
 earthwork
@@ -12077,6 +12076,7 @@ earthmaking
 exclamational
 exclamations
 exclamative
+earthtongue
 exclamatory
 exclaustration
 exclaves

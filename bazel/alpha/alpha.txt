@@ -4165,6 +4165,7 @@ admissory
 admit
 admits
 admittable
+antedate
 admittance
 admittances
 admittatur
@@ -14141,7 +14142,6 @@ antecoxal
 antecubital
 antecurvature
 anted
-antedate
 asbestiform
 antedates
 antedating
