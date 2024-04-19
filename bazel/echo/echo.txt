@@ -9827,7 +9827,6 @@ enfoil
 evilsayer
 esplanade
 esplees
-esponton
 espontoon
 espousage
 espousals
@@ -10369,6 +10368,7 @@ ethylenic
 ethylenimine
 ethylenoid
 eaglehawk
+esponton
 ethylhydrocupreine
 enhearse
 epithelial
