@@ -5190,7 +5190,6 @@ beforeness
 beforesaid
 beforested
 beforetimes
-befoul
 biolytic
 baffled
 befouled
@@ -12130,6 +12129,7 @@ boleweed
 bolewort
 baklawas
 bolide
+befoul
 bolides
 bolimba
 bolivar
