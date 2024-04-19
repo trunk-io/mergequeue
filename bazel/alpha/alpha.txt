@@ -5233,7 +5233,6 @@ afterpart
 automate
 afaced
 afacing
-afaint
 afara
 afars
 afd
@@ -15749,6 +15748,7 @@ antiophthalmic
 antiopium
 antiopiumist
 antioptimism
+afaint
 antioptimistic
 antioptimistically
 antipharisaic
