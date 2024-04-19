@@ -4882,7 +4882,6 @@ dequeued
 demonetising
 demonetize
 dagestan
-demonetized
 disappearances
 distitle
 demonetizes
@@ -14659,6 +14658,7 @@ dockage
 drawglove
 dilatancy
 docked
+demonetized
 discutable
 docker
 dockers
