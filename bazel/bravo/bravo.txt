@@ -9510,6 +9510,7 @@ byroads
 birodo
 bakeshops
 brittling
+blazoning
 biron
 byron
 byronesque
@@ -10584,7 +10585,6 @@ blazingly
 blazoner
 blazoners
 bluing
-blazoning
 blazonment
 blazonry
 blazonries
