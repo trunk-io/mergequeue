@@ -7157,7 +7157,6 @@ detachers
 detaching
 detachment
 dotting
-detachments
 detacwable
 dentagra
 detailedness
@@ -10738,6 +10737,7 @@ donship
 dhoon
 dipsadinae
 dipsadine
+detachments
 dipsey
 dipsy
 dipsie
