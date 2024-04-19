@@ -2702,6 +2702,7 @@ cannula
 cannulae
 cannulas
 cannulate
+circumscribe
 cannulated
 cannulating
 cannulation
@@ -14414,7 +14415,6 @@ circumsaturnian
 circumsciss
 circumscissile
 circumscribable
-circumscribe
 cribbers
 circumscribed
 circumscriber
