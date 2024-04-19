@@ -9235,7 +9235,6 @@ ermani
 episcenia
 exumbrella
 ermanrich
-enherit
 endotheca
 endocone
 ebulus
@@ -12601,6 +12600,7 @@ exite
 exited
 exitial
 exiting
+enherit
 exition
 exitious
 exits
