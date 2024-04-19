@@ -17389,7 +17389,6 @@ abumbral
 apophthegmatical
 antineuralgic
 apoplastogamous
-apoplectical
 apoplectoid
 apoplex
 apoplexy
@@ -23080,6 +23079,7 @@ atterrate
 attest
 attestable
 abolla
+apoplectical
 attestant
 alytarch
 attestations
