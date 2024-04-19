@@ -7520,7 +7520,6 @@ ge
 glyoxime
 gowpen
 guna
-gowpin
 gox
 gozill
 gangism
@@ -10217,6 +10216,7 @@ gutsy
 guillotine
 guillotined
 guillotines
+gowpin
 guillotinist
 guiltful
 gaspergous
