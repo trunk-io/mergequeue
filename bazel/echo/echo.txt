@@ -9219,7 +9219,6 @@ extraembryonal
 exploding
 erythrorrhexis
 erythroscope
-erythrosiderite
 erythrosin
 exochorda
 erythrosine
@@ -13402,6 +13401,7 @@ entoolitic
 expropriation
 expropriations
 expropriator
+erythrosiderite
 expropriatory
 exptl
 expugn
