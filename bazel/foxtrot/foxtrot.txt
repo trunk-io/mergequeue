@@ -8914,7 +8914,6 @@ flamefish
 formulation
 fossorious
 fossulae
-fossulate
 fostell
 faltche
 featureless
@@ -11041,6 +11040,7 @@ fifers
 fumblers
 fumbles
 fumbling
+fossulate
 feldspathization
 flemings
 forlornest
