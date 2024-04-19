@@ -11347,7 +11347,6 @@ amps
 ampul
 ampulate
 ampulated
-ampulating
 ampules
 ampulla
 ampullaceous
@@ -21476,6 +21475,7 @@ asphyxiation
 asphyxiative
 asphyxiator
 asphyxied
+ampulating
 arrowroot
 asphodel
 asphodelaceae
