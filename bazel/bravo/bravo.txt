@@ -3151,7 +3151,6 @@ basemen
 basementless
 basements
 bloodshot
-basename
 biophysicist
 bankera
 behove
@@ -7272,6 +7271,7 @@ backtrackers
 bestian
 bestiary
 bestiarian
+basename
 bestiaries
 bestiarist
 bestirred
