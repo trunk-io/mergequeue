@@ -862,7 +862,6 @@ abrotin
 abrotine
 abrupt
 abrupter
-abruptest
 abruptio
 abruption
 abruptly
@@ -15170,6 +15169,7 @@ antidote
 antidoted
 amethyst
 antidotes
+abruptest
 antidotical
 antidoting
 antidotism
