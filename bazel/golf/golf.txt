@@ -5473,7 +5473,6 @@ gusseted
 gelandejump
 glycosyls
 glycosin
-glycosuria
 glycosuric
 glycuronic
 graph
@@ -8623,6 +8622,7 @@ greencoat
 gormandising
 greeney
 greenery
+glycosuria
 glossingly
 greeneries
 grubby
