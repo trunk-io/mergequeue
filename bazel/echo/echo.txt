@@ -3079,7 +3079,6 @@ elocular
 elocute
 elocution
 elocutionary
-elocutioner
 elocutionist
 empennage
 elodea
@@ -10896,6 +10895,7 @@ eumoirous
 eumolpides
 esterases
 eumolpus
+elocutioner
 endomictic
 eumorphic
 engenderer
