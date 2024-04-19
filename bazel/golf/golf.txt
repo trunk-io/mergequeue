@@ -6634,6 +6634,7 @@ goldstone
 gradins
 goldurned
 goldurns
+gap
 goldweed
 goldworker
 golem
@@ -7839,7 +7840,6 @@ grammy
 gramoches
 gramophone
 gramophonic
-gap
 guttulae
 gramophonically
 gametangium
