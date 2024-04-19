@@ -12686,7 +12686,6 @@ chuckleheaded
 chuckleheadedness
 chuckler
 cottier
-chucklers
 chuckles
 chucklesome
 chuckling
@@ -25323,6 +25322,7 @@ cornerer
 cornering
 cornerman
 cornerpiece
+chucklers
 cornerstone
 cornerstones
 cornerways
