@@ -816,6 +816,7 @@ dangle
 dangleberry
 dangled
 danglers
+disannex
 dangles
 danglin
 dangling
@@ -11002,7 +11003,6 @@ disangularize
 disanimal
 disanimated
 disanimation
-disannex
 despots
 disannul
 disannulled
