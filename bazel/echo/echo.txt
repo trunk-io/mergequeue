@@ -6762,6 +6762,7 @@ enthral
 enthralldom
 enthralled
 enthralling
+epigrammatize
 enthrallment
 enthrallments
 enthralment
@@ -7871,7 +7872,6 @@ epigrammatically
 eddyroot
 epigrammatise
 epigrammatising
-epigrammatize
 epigrammatized
 epigrammatizer
 epigrammatizing
