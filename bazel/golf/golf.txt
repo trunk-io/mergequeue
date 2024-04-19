@@ -4259,7 +4259,6 @@ garn
 goatling
 gringophobia
 gymnogene
-giftless
 gyneccia
 gymnogyps
 gymnoglossa
@@ -5367,6 +5366,7 @@ gliadine
 geomedicine
 gliadines
 gliadins
+giftless
 glaucophane
 glib
 grippy
