@@ -3195,6 +3195,7 @@ eluting
 elution
 enzymatically
 elutions
+eigenstate
 etacism
 epirotulian
 elutriate
@@ -7680,7 +7681,6 @@ electees
 epicrates
 epicrises
 epicrisis
-eigenstate
 engagingly
 epics
 epictetian
