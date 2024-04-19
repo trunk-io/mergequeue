@@ -487,7 +487,6 @@ faky
 fakiness
 footmaker
 faking
-fluoaluminate
 fakir
 fakirs
 falafel
@@ -6452,6 +6451,7 @@ fluoroborate
 fluorochrome
 fluoroform
 flaminian
+fluoaluminate
 fluorogen
 fluorometer
 fluorometry
