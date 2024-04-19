@@ -2928,7 +2928,6 @@ elides
 elidible
 eligenda
 eligibility
-eligibilities
 eligible
 eligibles
 eligibly
@@ -5442,6 +5441,7 @@ eneid
 epidia
 enema
 enemas
+eligibilities
 enemata
 enquere
 enemies
