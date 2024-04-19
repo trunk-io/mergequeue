@@ -7276,6 +7276,7 @@ footwear
 floodmark
 fumiferous
 fabricable
+frigs
 fuliginous
 firefly
 footwears
@@ -10086,7 +10087,6 @@ flacourtia
 frigorific
 frigotherapy
 finalist
-frigs
 frying
 frija
 formity
