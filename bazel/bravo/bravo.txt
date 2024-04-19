@@ -5424,7 +5424,6 @@ beguileful
 beguilement
 beguilements
 beguiler
-bottlelike
 beguilers
 beguiles
 breakdown
@@ -16416,6 +16415,7 @@ brusquely
 bluejoint
 brusqueness
 brusquest
+bottlelike
 brussel
 brussels
 brustle
