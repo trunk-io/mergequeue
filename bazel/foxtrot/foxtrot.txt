@@ -3776,7 +3776,6 @@ fillister
 fillmore
 flow
 fillock
-fanzine
 fillowite
 fake
 frogeater
@@ -5342,6 +5341,7 @@ fleckering
 flecky
 friendliness
 fogyisms
+fanzine
 fleckiest
 flecking
 fleckled
