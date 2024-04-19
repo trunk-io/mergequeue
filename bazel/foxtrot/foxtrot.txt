@@ -7869,7 +7869,6 @@ foliously
 forepaw
 forepaws
 forepeak
-foreperiod
 foreplace
 foreplay
 foreplays
@@ -9231,6 +9230,7 @@ fluing
 fractionalized
 fractionalizing
 fractionally
+foreperiod
 florulae
 fractionary
 fungosity

@@ -8522,7 +8522,6 @@ alkedavy
 advocatrix
 alkekengi
 alkene
-alkenes
 alkenyl
 alkenna
 alkermes
@@ -18820,6 +18819,7 @@ aphotic
 archdeceiver
 archdefender
 archdepredator
+alkenes
 agenesia
 archdetective
 amputee
