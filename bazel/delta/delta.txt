@@ -8229,6 +8229,7 @@ diageotropic
 diaglyph
 diaglyphic
 davainea
+disomaty
 ductus
 diaglyptic
 diagnosable
@@ -12844,7 +12845,6 @@ dorsocaudal
 dysodontiasis
 dimensionless
 dendroica
-disomaty
 disomatic
 disomatous
 doubtmonger
