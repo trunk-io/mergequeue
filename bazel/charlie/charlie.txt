@@ -16505,7 +16505,6 @@ carthamin
 clockworks
 clod
 clodbreaker
-clodded
 clodder
 cloddier
 cloddiest
@@ -22630,6 +22629,7 @@ connivery
 connivers
 connives
 conniving
+clodded
 connivingly
 connixation
 connochaetes

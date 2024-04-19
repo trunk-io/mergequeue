@@ -5240,6 +5240,7 @@ formulators
 fingertips
 flavour
 fencelike
+fstore
 flavoured
 fableland
 flavourful
@@ -10804,7 +10805,6 @@ frutilla
 frwy
 formular
 fs
-fstore
 fabianism
 forinsec
 fth
