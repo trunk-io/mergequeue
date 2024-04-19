@@ -1400,6 +1400,7 @@ ginkgo
 gardinol
 grippers
 gazania
+gestation
 gare
 garefowl
 goods
@@ -2250,7 +2251,6 @@ gearset
 glucose
 geraldine
 gearshift
-gestation
 gearshifts
 gearwheels
 garden
