@@ -4290,7 +4290,6 @@ firetraps
 finestiller
 firewall
 fleckier
-fibrilliform
 feculent
 flail
 fireward
@@ -7860,6 +7859,7 @@ forenoon
 forenoons
 forenote
 forenotion
+fibrilliform
 flattens
 flinchingly
 forensic
