@@ -674,7 +674,6 @@ fameflower
 fameless
 famelic
 fames
-felicitator
 fameworthy
 forereport
 familial
@@ -9022,6 +9021,7 @@ forstand
 fountainous
 feaze
 fustle
+felicitator
 fives
 founts
 frizziness
