@@ -5620,6 +5620,7 @@ beknotting
 beknow
 bel
 bela
+burgonets
 belabor
 basementward
 braggadocio
@@ -15467,7 +15468,6 @@ brynza
 brioches
 bellona
 bryogenin
-burgonets
 briolettes
 bryology
 bryologies
