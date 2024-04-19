@@ -5373,7 +5373,6 @@ begorry
 begotten
 begottenness
 begowk
-begowned
 buyable
 benchboard
 begray
@@ -15291,6 +15290,7 @@ bridlers
 boredom
 bridles
 bathmotropism
+begowned
 bridling
 ballerine
 bridoons
