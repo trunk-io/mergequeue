@@ -529,7 +529,6 @@ evocate
 echimys
 echinacea
 evelina
-echinate
 equianchorate
 echinated
 eching
@@ -13010,6 +13009,7 @@ expediting
 expeditionary
 expeditionist
 eminence
+echinate
 euchromatin
 expeditions
 expeditious
