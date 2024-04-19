@@ -2392,7 +2392,6 @@ collinal
 candidate
 candidated
 candidates
-candidateship
 candidating
 ceria
 cryptogenetic
@@ -20507,6 +20506,7 @@ compassion
 compassionable
 compassionate
 compassionately
+candidateship
 compassionateness
 compassionating
 catalepsy
