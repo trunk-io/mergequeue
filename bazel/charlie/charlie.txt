@@ -5650,7 +5650,6 @@ catchcry
 colocates
 catched
 catcher
-catchers
 catches
 catchflies
 catchie
@@ -19154,6 +19153,7 @@ colloid
 caseconv
 cinerins
 colloidal
+catchers
 colloidality
 colloider
 colloidize
