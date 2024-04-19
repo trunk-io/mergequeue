@@ -5329,7 +5329,6 @@ bags
 bakalai
 beglerbegluc
 beglerbegship
-beglerbey
 beglew
 beglide
 bewilderedness
@@ -7619,6 +7618,7 @@ bewailed
 bewailer
 bewailers
 behung
+beglerbey
 bummers
 blowpit
 bewailing
