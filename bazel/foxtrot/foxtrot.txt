@@ -2659,6 +2659,7 @@ ferruginate
 flintiness
 flintify
 filmed
+frivol
 filigreed
 ferruginating
 ferrugination
@@ -10226,7 +10227,6 @@ fantasticly
 fellage
 frittering
 fritters
-frivol
 frivoled
 frivoler
 frivolist
