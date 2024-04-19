@@ -5599,6 +5599,7 @@ fligged
 flight
 flighted
 flighter
+fistiana
 flightful
 flighty
 flightier
@@ -11126,7 +11127,6 @@ ferricyanic
 footmenfootpad
 farceuse
 functionalities
-fistiana
 fixups
 formatively
 firemaster
