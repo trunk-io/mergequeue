@@ -2656,7 +2656,6 @@ ferrotyping
 fibrocaseose
 feist
 ferrotitanium
-flamfew
 ferrovanadium
 ferrozirconium
 ferruginate
@@ -10558,6 +10557,7 @@ fogies
 frot
 froth
 frothed
+flamfew
 frother
 frothy
 forebodings
