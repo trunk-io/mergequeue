@@ -6016,7 +6016,6 @@ enlisted
 excursionize
 enlistees
 enlister
-epistrophe
 enlistment
 enlistments
 enlists
@@ -7445,6 +7444,7 @@ eperotesis
 eternalizing
 entwisting
 eperua
+epistrophe
 encell
 epexegetic
 epexegetically
