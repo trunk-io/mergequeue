@@ -4601,7 +4601,6 @@ grammatication
 grandfatherish
 gradine
 griffin
-gartered
 gipsology
 gypsology
 grossing
@@ -8586,6 +8585,7 @@ greedsome
 greegree
 gypsography
 greegrees
+gartered
 greek
 greekdom
 greekery
