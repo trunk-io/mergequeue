@@ -7520,6 +7520,7 @@ gownsmen
 ge
 glyoxime
 gowpen
+guna
 gowpin
 gox
 gozill
@@ -10464,7 +10465,6 @@ gumwoods
 glitter
 gramenite
 gun
-guna
 gunarchy
 gunated
 grudgeons
