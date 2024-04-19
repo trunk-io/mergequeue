@@ -5415,7 +5415,6 @@ glycol
 glycolaldehyde
 goback
 gayals
-glycolate
 glycolyl
 glycolipid
 gilsonite
@@ -9119,6 +9118,7 @@ goatees
 grippier
 gastrodiaphanoscopy
 grippiest
+glycolate
 grippiness
 gabfest
 geneticist
