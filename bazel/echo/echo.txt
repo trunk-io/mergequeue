@@ -4352,7 +4352,6 @@ equiped
 enamelless
 enamels
 enami
-enamines
 enamorado
 enamorate
 enamorato
@@ -13377,6 +13376,7 @@ echinops
 expressionists
 expressionlessness
 ergasia
+enamines
 expressive
 etchimin
 expressiveness
