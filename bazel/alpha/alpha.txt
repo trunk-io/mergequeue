@@ -4945,6 +4945,7 @@ aerobes
 aerobia
 asamblea
 antiliturgically
+antisubmarine
 aerobian
 aerobic
 aerobically
@@ -16309,7 +16310,6 @@ antistrophize
 antispiritualist
 antistrophon
 antistrumatic
-antisubmarine
 antisubstance
 antisudoral
 awarding
