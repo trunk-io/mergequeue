@@ -3618,6 +3618,7 @@ getspace
 getsul
 guidons
 gettableness
+glacialism
 gitalin
 gilt
 getting
@@ -4950,7 +4951,6 @@ glaces
 ghostfish
 grawls
 gryphite
-glacialism
 glacialist
 glacialize
 glaciaria

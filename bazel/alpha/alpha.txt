@@ -4410,7 +4410,6 @@ adrift
 adrogate
 adroiter
 adroitly
-adroop
 adrostral
 adrowse
 adrue
@@ -4874,6 +4873,7 @@ aerated
 ablactating
 aerating
 aeration
+adroop
 aerations
 aerenchyma
 aery
