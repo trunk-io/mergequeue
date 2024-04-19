@@ -3673,6 +3673,7 @@ embryony
 embryonic
 embryoniferous
 embryons
+extracellular
 embryopathology
 embryophagous
 embryophyta
@@ -13773,7 +13774,6 @@ ecteron
 extracardial
 extracarpal
 encodes
-extracellular
 extorsive
 extracellularly
 earring
