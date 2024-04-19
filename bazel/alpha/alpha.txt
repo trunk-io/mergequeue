@@ -11009,6 +11009,7 @@ amovable
 amuser
 amove
 amoved
+aprosopous
 amoving
 amowt
 amp
@@ -18134,7 +18135,6 @@ apronful
 aprons
 apronstring
 amphigenetic
-aprosopous
 aproterodont
 aprowl
 apselaphesia
