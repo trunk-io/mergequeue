@@ -8624,7 +8624,6 @@ allegata
 allegate
 allegations
 alcoholizable
-allegator
 alleged
 allegedly
 allegement
@@ -18242,6 +18241,7 @@ aquanauts
 aquaphobia
 abdicated
 autoscience
+allegator
 arrondi
 aerogenic
 aquaplane
