@@ -1807,7 +1807,6 @@ banal
 bilging
 banalities
 banally
-banana
 bananaland
 bananalander
 banande
@@ -11275,6 +11274,7 @@ blowlamp
 blown
 blowoff
 blowouts
+banana
 blowpipe
 bolster
 blowproof
