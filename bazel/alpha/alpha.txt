@@ -8692,7 +8692,6 @@ allelomorphism
 allelopathy
 allelotropy
 allelotropic
-admeasured
 allelotropism
 alleluia
 alleluiah
@@ -15376,6 +15375,7 @@ antihidrotic
 antihierarchy
 antihierarchically
 aidless
+admeasured
 antihierarchies
 antihierarchism
 abactor
