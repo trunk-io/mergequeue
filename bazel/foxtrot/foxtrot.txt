@@ -914,6 +914,7 @@ fanums
 fanweed
 fanwise
 fanwork
+flintlock
 forefront
 faunistical
 fanworts
@@ -5665,7 +5666,6 @@ flintily
 flashlike
 flintless
 flintlike
-flintlock
 fellatios
 flintwood
 flintworker
