@@ -6734,7 +6734,6 @@ berginization
 berglet
 bergman
 bergmannite
-bergomask
 bungy
 bergs
 bodegon
@@ -10330,6 +10329,7 @@ bepainting
 blanc
 blanca
 blancard
+bergomask
 blanch
 blanche
 blanched
