@@ -1124,7 +1124,6 @@ edwina
 edit
 electromechanically
 editable
-editchar
 edith
 editing
 epacts
@@ -4586,6 +4585,7 @@ elacolite
 ectochondral
 enchases
 enchasing
+editchar
 emanating
 enchasten
 encheason
