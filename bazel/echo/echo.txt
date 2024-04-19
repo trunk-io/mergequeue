@@ -5353,7 +5353,6 @@ elizabethanize
 endotheliulia
 eophyte
 epiglottises
-endothelium
 etchings
 endotherm
 endothermal
@@ -13835,6 +13834,7 @@ extracurial
 extracurricular
 extracurriculum
 extracutaneous
+endothelium
 electropoion
 extradicted
 extraditable
