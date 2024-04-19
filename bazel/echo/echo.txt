@@ -4873,6 +4873,7 @@ encumbrance
 excused
 electrometeor
 ectoderm
+equipartition
 encurl
 encurtain
 endosteal
@@ -8689,7 +8690,6 @@ equiparation
 equipartile
 equipartisan
 eggcrate
-equipartition
 epithecal
 equipedal
 equipede
