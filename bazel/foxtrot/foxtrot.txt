@@ -7310,7 +7310,6 @@ foppy
 foppish
 fourer
 footstep
-forage
 facers
 foraged
 fluttery
@@ -11424,6 +11423,7 @@ furmeties
 furmint
 furmity
 furmities
+forage
 feverish
 fervors
 fossed
