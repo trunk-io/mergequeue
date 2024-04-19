@@ -2222,7 +2222,6 @@ gorrel
 geadephaga
 geal
 geanticlinal
-geylies
 geanticline
 gubernacula
 gurish
@@ -7666,6 +7665,7 @@ gilse
 graduates
 girning
 graduateship
+geylies
 graduatical
 graduation
 graduator
