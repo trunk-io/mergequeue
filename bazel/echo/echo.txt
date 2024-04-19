@@ -7571,7 +7571,6 @@ epicardia
 epicardium
 epicarid
 eyebrow
-epicaridea
 epicarides
 echinostomatidae
 epicarp
@@ -13183,6 +13182,7 @@ eodevonian
 explanted
 explanting
 explat
+epicaridea
 explement
 explete
 expletively
