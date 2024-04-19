@@ -7877,7 +7877,6 @@ epigrams
 epigraph
 epigrapher
 eftest
-epigraphy
 egyptianization
 epigraphic
 epigraphist
@@ -10967,6 +10966,7 @@ exsiccated
 ecchondrosis
 euphemistical
 euphemistically
+epigraphy
 exhilarant
 euphemization
 euphemize
