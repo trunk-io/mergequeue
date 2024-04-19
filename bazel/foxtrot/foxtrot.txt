@@ -4467,6 +4467,7 @@ fishpotter
 fishskin
 fishspear
 fishtail
+fomentation
 flether
 fishtails
 fishway
@@ -8616,7 +8617,6 @@ farmsteading
 forninst
 factitious
 fornix
-fomentation
 florence
 forspent
 fantast
