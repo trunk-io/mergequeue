@@ -5634,7 +5634,6 @@ flinched
 flincher
 flinching
 founce
-flinchingly
 flinders
 fibrine
 flindersia
@@ -7836,6 +7835,7 @@ forenoons
 forenote
 forenotion
 flattens
+flinchingly
 forensic
 forensics
 flyleaf
