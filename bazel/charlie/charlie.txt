@@ -3383,7 +3383,6 @@ capsheaf
 circumjacent
 capshore
 capsian
-capsicin
 capsicins
 capsicums
 capsid
@@ -21821,6 +21820,7 @@ conepates
 conepatl
 conepatls
 coner
+capsicin
 circumnutatory
 counterpaly
 cones
