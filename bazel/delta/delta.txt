@@ -1674,7 +1674,6 @@ daggle
 diplopias
 deaspiration
 deassimilation
-deathbed
 deathcup
 degree
 diabolonian
@@ -14921,6 +14920,7 @@ dogears
 dogedom
 dogedoms
 dogeys
+deathbed
 doges
 doggerelled
 dogeship
