@@ -10361,7 +10361,6 @@ estus
 ethylamine
 ethylate
 ethylated
-enregister
 ethylates
 excavators
 ethylating
@@ -12208,6 +12207,7 @@ exculpates
 exculpating
 exculpation
 exculpations
+enregister
 exculpative
 equanimity
 especial
