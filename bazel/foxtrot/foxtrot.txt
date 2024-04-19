@@ -3488,7 +3488,6 @@ figary
 figaro
 faster
 figbird
-figboy
 farm
 fightwite
 figeater
@@ -3650,6 +3649,7 @@ fructification
 fighter
 freelage
 fungivorous
+figboy
 files
 filesmith
 filesniff
