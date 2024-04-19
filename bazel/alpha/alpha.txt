@@ -2716,7 +2716,6 @@ amaranthoid
 acquisita
 acquisite
 acquisited
-acquisition
 acquisitional
 acquisitions
 acquisitive
@@ -14559,6 +14558,7 @@ anthrop
 anthrophore
 anthropic
 anthropical
+acquisition
 anthropidae
 anthropobiology
 arthritism
