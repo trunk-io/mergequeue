@@ -1715,7 +1715,6 @@ baloneys
 bryan
 balopticon
 burghermaster
-balor
 browning
 baloskion
 baloskionaceae
@@ -9322,6 +9321,7 @@ bullfrogs
 biplanar
 biplane
 bobolink
+balor
 biplanes
 biplicate
 biplicity
