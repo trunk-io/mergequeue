@@ -5799,7 +5799,6 @@ dipneedle
 depolymerized
 depolish
 davened
-depolished
 deaconed
 depolishes
 dukhobor
@@ -13267,6 +13266,7 @@ disputability
 disputable
 dihely
 dotters
+depolished
 disputableness
 disputacity
 disfen
