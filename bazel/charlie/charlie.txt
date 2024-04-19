@@ -5734,6 +5734,7 @@ coumarate
 categorem
 categorematic
 categorematical
+conjurer
 category
 categorial
 categoric
@@ -22528,7 +22529,6 @@ conjurator
 cesar
 conjured
 conjurement
-conjurer
 canel
 conjurers
 conjures
