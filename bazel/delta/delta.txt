@@ -1433,6 +1433,7 @@ dc
 deoxygenate
 dca
 deceived
+drapability
 dcb
 dclass
 dcollet
@@ -16736,7 +16737,6 @@ dramshop
 drang
 drank
 drant
-drapability
 draparnaldia
 drape
 draped
