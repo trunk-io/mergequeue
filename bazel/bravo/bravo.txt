@@ -5639,7 +5639,6 @@ belay
 belayed
 belayer
 belaying
-belays
 belait
 biface
 belam
@@ -9585,6 +9584,7 @@ bys
 bisabol
 bisacromial
 bisagre
+belays
 bisayan
 barnacling
 beryllonite
