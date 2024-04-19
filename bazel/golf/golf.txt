@@ -7223,6 +7223,7 @@ gangsa
 gonopod
 gorra
 glouts
+gunshop
 gorry
 giles
 grs
@@ -10575,7 +10576,6 @@ gunsels
 gullishness
 golp
 gunships
-gunshop
 graybeards
 gunshot
 gunslinger
