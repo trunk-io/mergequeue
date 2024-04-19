@@ -1495,7 +1495,6 @@ deadheadism
 deadhearted
 deadheartedly
 deadheartedness
-deadhouse
 deady
 dikaryon
 deading
@@ -10848,6 +10847,7 @@ dirhams
 dirhem
 dirhinous
 dirian
+deadhouse
 dirichletian
 disyoke
 disedge
