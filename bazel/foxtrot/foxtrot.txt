@@ -1855,7 +1855,6 @@ feats
 featural
 fainness
 fibrinogen
-feature
 forgets
 featured
 featureful
@@ -9065,6 +9064,7 @@ fourscorth
 foursomes
 fathmur
 foursquare
+feature
 foursquarely
 foursquareness
 fourteen
