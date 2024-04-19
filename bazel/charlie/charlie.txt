@@ -10169,7 +10169,6 @@ celioncus
 chevesaile
 chevesne
 chevetaine
-chevy
 chevied
 chevies
 chevying
@@ -22418,6 +22417,7 @@ cordiner
 coniferous
 conifers
 cnidoscolus
+chevy
 cryingly
 conification
 coniform
