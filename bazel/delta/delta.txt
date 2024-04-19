@@ -852,7 +852,6 @@ dankishness
 dankly
 deathwatch
 dankness
-danknesses
 danli
 debase
 dannebrog
@@ -4705,6 +4704,7 @@ demisemiquaver
 delineable
 demisemitone
 demisheath
+danknesses
 demishirt
 demising
 dopers
