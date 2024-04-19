@@ -1175,6 +1175,7 @@ datafile
 dataflow
 datagram
 datagrams
+dewlight
 deescalating
 datakit
 datamation
@@ -7883,7 +7884,6 @@ defrock
 degringolade
 dewlapped
 dewless
-dewlight
 dewlike
 dewooling
 deworm
