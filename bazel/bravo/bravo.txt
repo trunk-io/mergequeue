@@ -1946,7 +1946,6 @@ bastardising
 biscuitmaker
 bandolero
 bandoleros
-bandolier
 blellum
 bandonion
 bandor
@@ -7623,6 +7622,7 @@ bewailing
 bewailingly
 bewails
 bewake
+bandolier
 bewall
 beware
 bewared

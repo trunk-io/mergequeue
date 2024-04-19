@@ -3361,7 +3361,6 @@ guilelessly
 germ
 germain
 german
-germane
 germany
 glassier
 gisarme
@@ -5323,6 +5322,7 @@ glegnesses
 girdering
 gleys
 gleization
+germane
 glen
 glendover
 glene
