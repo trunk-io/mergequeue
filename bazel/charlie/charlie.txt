@@ -10388,6 +10388,7 @@ chilies
 chief
 chiefage
 chiefdoms
+commentaries
 chiefer
 carotic
 chiefery
@@ -20049,7 +20050,6 @@ comment
 commentable
 commentary
 commentarialism
-commentaries
 centralisation
 commentate
 commentated
