@@ -6154,6 +6154,7 @@ flowcharted
 fulicinae
 flowcharts
 furnit
+fossicks
 finality
 flowcontrol
 flowe
@@ -8869,7 +8870,6 @@ fossick
 fossicked
 fossicker
 fossicking
-fossicks
 fossified
 fossiform
 fossil
