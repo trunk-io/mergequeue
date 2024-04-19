@@ -5769,7 +5769,6 @@ burials
 belight
 boring
 baaed
-beliing
 bulldozer
 belike
 beliked
@@ -16971,6 +16970,7 @@ bulbocodium
 bulbomedullary
 backcloth
 brainchild
+beliing
 biloculine
 bulbospinal
 bulbourethral
