@@ -3790,7 +3790,6 @@ emend
 exscribe
 erythrons
 expendables
-emendable
 emendandum
 emendated
 ekerite
@@ -8570,6 +8569,7 @@ equationally
 equationist
 essentia
 emperies
+emendable
 equative
 equator
 etherial
