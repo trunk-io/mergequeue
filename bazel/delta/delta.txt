@@ -8741,7 +8741,6 @@ diatom
 diatoma
 diatomaceae
 diatomaceous
-diatomales
 diatomeae
 diatomic
 diatomicity
@@ -16643,6 +16642,7 @@ dragoonage
 dragooned
 dragooner
 dragooning
+diatomales
 dragrope
 decades
 discoplacentalia
