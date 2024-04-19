@@ -3237,7 +3237,6 @@ geoscientists
 geoscopy
 gelasian
 grondwet
-gnawable
 geoscopic
 geoselenic
 geosid
@@ -9405,6 +9404,7 @@ grottoes
 grottolike
 grottos
 grottowork
+gnawable
 guanine
 geryonidae
 grouch
