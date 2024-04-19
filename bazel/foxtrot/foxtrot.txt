@@ -1477,6 +1477,7 @@ fattening
 fattens
 fattest
 fatty
+footnotes
 fattier
 featherweight
 fatties
@@ -4203,7 +4204,6 @@ firedamps
 fracture
 firedog
 firedragon
-footnotes
 firedrake
 frayn
 florican
