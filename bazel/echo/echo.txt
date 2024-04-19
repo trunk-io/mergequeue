@@ -3897,7 +3897,6 @@ emir
 emirates
 emirs
 eels
-emissary
 ethylidene
 eyestone
 exorganic
@@ -5878,6 +5877,7 @@ enhunger
 enhungered
 electromyographical
 enid
+emissary
 enif
 exhilarates
 erythrose
