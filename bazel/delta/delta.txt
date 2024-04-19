@@ -4671,7 +4671,6 @@ demiplacate
 demiplate
 demipomada
 demipremise
-demipremiss
 demipronation
 diazid
 demipuppet
@@ -8418,6 +8417,7 @@ departements
 dialogize
 divia
 dialogized
+demipremiss
 dogshore
 dialogizing
 dialogue
