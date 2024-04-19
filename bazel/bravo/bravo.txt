@@ -4829,7 +4829,6 @@ bentiness
 bedright
 bedrip
 balsawood
-bedrite
 bedrivel
 broadening
 bedriveling
@@ -9315,6 +9314,7 @@ byplace
 bagged
 byplay
 biplanal
+bedrite
 brutalising
 bottonhook
 brisque
