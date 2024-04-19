@@ -4172,7 +4172,6 @@ gilttail
 gilver
 gasterosteoid
 glottogony
-gim
 gimbal
 gimbaled
 gimballed
@@ -8239,6 +8238,7 @@ grassflat
 grassflower
 grasshook
 golds
+gim
 grasshop
 grasshopper
 gry
