@@ -7211,7 +7211,6 @@ aktivismus
 aktivist
 aku
 akuammin
-akuammine
 akule
 amphikaryon
 akund
@@ -22926,6 +22925,7 @@ attabal
 attacapan
 attacca
 attacco
+akuammine
 attach
 attachableness
 attache
