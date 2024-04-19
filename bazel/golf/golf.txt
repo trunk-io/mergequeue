@@ -1596,7 +1596,6 @@ gasless
 gallivanter
 guerinet
 gaslighted
-grandpa
 glyoxim
 gaslightness
 gaslights
@@ -8362,6 +8361,7 @@ graunt
 graupel
 grudgers
 graupels
+grandpa
 graustark
 grauwacke
 gymnotoka
