@@ -1836,6 +1836,7 @@ guardfish
 gastronosus
 gastroparalysis
 gastroparesis
+gonyaulax
 gastroparietal
 gastropathy
 gastropathic
@@ -6797,7 +6798,6 @@ grint
 goniatitic
 goniatitid
 goosey
-gonyaulax
 guid
 grey
 gonycampsis
