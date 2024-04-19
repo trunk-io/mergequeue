@@ -9263,7 +9263,6 @@ chastisers
 clapperboard
 composture
 chastises
-chastising
 corf
 chastity
 chastities
@@ -11615,6 +11614,7 @@ cholelithiasis
 caliperer
 cholelithic
 cholelithotomy
+chastising
 crenellate
 cholelithotripsy
 cholelithotrity
