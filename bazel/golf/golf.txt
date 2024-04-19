@@ -440,6 +440,7 @@ galeas
 geoponics
 galeass
 galeate
+goliard
 gastrojejunal
 galeated
 galeche
@@ -5475,7 +5476,6 @@ glycosidase
 gramercy
 generalisation
 glycosides
-goliard
 goiters
 gardenias
 glutelin
