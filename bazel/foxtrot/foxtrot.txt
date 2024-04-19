@@ -3219,7 +3219,6 @@ fiches
 fichtean
 fichteanism
 fichtelite
-fichu
 fichus
 ficiform
 footsteps
@@ -6417,6 +6416,7 @@ frisked
 fluorescigenic
 fluorescigenous
 fulcrum
+fichu
 fluorescin
 frogspawn
 fluorescing
