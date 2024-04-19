@@ -3615,7 +3615,6 @@ carapine
 carapus
 carara
 carassow
-carassows
 carat
 caratacus
 caratch
@@ -19794,6 +19793,7 @@ comedy
 comedial
 comedian
 comedians
+carassows
 comediant
 comedic
 comedical
