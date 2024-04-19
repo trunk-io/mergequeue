@@ -9700,7 +9700,6 @@ alveolonasal
 alveolosubnasal
 alveolus
 alveus
-alvia
 alviducous
 alvin
 ambidexterous
@@ -15948,6 +15947,7 @@ aristolochiaceous
 antipool
 antipooling
 antipope
+alvia
 antipopery
 antipopes
 antipopular
