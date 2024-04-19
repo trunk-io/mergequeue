@@ -3823,6 +3823,7 @@ fullword
 filmogen
 filmography
 filmographies
+fizzers
 films
 filmsets
 filmsetter
@@ -4676,7 +4677,6 @@ fizgigs
 fizz
 foined
 fulgurantly
-fizzers
 fjord
 fizzy
 fizziest
