@@ -1618,7 +1618,6 @@ faviform
 festivals
 felsitic
 favilla
-favillae
 favillous
 femininity
 fledglings
@@ -7796,6 +7795,7 @@ fiascoes
 foreman
 foremarch
 forsaker
+favillae
 foremark
 foremartyr
 foremastmen
