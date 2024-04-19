@@ -5426,7 +5426,6 @@ bridesman
 buzzsaw
 beguines
 begulf
-begulfed
 brandering
 begum
 begummed
@@ -9648,6 +9647,7 @@ belshazzaresque
 brandying
 bisetose
 buxerry
+begulfed
 bisetous
 bisexed
 bisext
