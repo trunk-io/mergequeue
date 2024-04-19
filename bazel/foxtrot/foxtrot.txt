@@ -4934,7 +4934,6 @@ flaminica
 flaminical
 frenulum
 flamless
-flammable
 floorers
 filefish
 flammation
@@ -9999,6 +9998,7 @@ frictionally
 flowering
 feverless
 finically
+flammable
 fictively
 filibusters
 frictionless
