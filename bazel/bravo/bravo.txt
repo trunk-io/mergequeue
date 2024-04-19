@@ -9080,7 +9080,6 @@ biomagnetism
 biomass
 biggins
 biomasses
-biomaterial
 biomathematics
 biome
 bradycinesia
@@ -14182,6 +14181,7 @@ bradypnea
 boobyalla
 bayhead
 bradypode
+biomaterial
 bradypodidae
 borotungstic
 bradyseism
