@@ -2547,7 +2547,6 @@ electropathy
 electropathology
 extramorainic
 electrophilic
-electrophilically
 electrophysicist
 electrophysiological
 exportability
@@ -2683,6 +2682,7 @@ electrotitration
 electrotonize
 electrotrephine
 electrotropic
+electrophilically
 egoize
 electrovalence
 electrovalent

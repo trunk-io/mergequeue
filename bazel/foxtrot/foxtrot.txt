@@ -1168,7 +1168,6 @@ fogyishness
 faddiest
 farthingdeal
 facty
-focuser
 fibrillary
 filiates
 farthings
@@ -4369,6 +4368,7 @@ forb
 forwardation
 fisetin
 fish
+focuser
 fishability
 fishable
 fishback
