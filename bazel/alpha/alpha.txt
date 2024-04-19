@@ -21054,7 +21054,6 @@ ascolichenes
 ascoma
 ascomycetal
 ascomycete
-ascomycetes
 ascomycetous
 ascon
 ascones
@@ -21447,6 +21446,7 @@ aspersoir
 aspersor
 aspersory
 aspersoria
+ascomycetes
 aspersoriums
 aspersors
 asperugo
