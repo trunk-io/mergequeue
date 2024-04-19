@@ -2781,6 +2781,7 @@ decrees
 decreet
 dop
 decrement
+disharmonize
 decremental
 decrementing
 decrements
@@ -4148,7 +4149,6 @@ delimitized
 delimitizing
 diplomyelia
 deline
-disharmonize
 delineament
 dissoluteness
 deblocked

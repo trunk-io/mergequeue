@@ -2162,6 +2162,7 @@ bans
 bansalague
 bansela
 banshie
+billbeetle
 banshies
 banstickle
 bornan
@@ -8640,7 +8641,6 @@ billabong
 billage
 bushwhacker
 blushers
-billbeetle
 billbergia
 beckon
 billboards
