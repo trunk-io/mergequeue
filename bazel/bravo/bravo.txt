@@ -2248,7 +2248,6 @@ brownie
 barangay
 bertat
 bararesque
-briquetting
 bararite
 barasingha
 barat
@@ -7141,6 +7140,7 @@ bespangle
 bespangling
 bespate
 bespattered
+briquetting
 bespattering
 bespatterment
 bespatters
