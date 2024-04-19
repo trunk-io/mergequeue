@@ -2059,7 +2059,6 @@ garnerage
 garland
 gaup
 grahamite
-gunfought
 gliomatous
 gladrags
 gaur
@@ -6677,6 +6676,7 @@ gith
 goliaths
 golilla
 goll
+gunfought
 guddling
 glaikitness
 golland
