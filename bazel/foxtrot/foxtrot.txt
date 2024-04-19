@@ -1836,6 +1836,7 @@ featherworker
 flagelliferous
 ferninst
 featy
+flowe
 forbesite
 fluxweed
 fourierist
@@ -6157,7 +6158,6 @@ flowcharts
 furnit
 finality
 flowcontrol
-flowe
 flowed
 flower
 flowerage
