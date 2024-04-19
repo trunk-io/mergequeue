@@ -1156,7 +1156,6 @@ bajan
 bajardo
 bajarigar
 bajau
-basaltoid
 boxer
 beelzebubian
 bajocco
@@ -2122,6 +2121,7 @@ banlieue
 bannack
 bannat
 banned
+basaltoid
 banner
 bannerer
 banneret
