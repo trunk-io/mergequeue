@@ -3638,6 +3638,7 @@ filemot
 filename
 filenames
 filer
+fixates
 fanons
 fourniture
 filers
@@ -11322,7 +11323,6 @@ furanes
 furanoid
 flix
 furanose
-fixates
 furanoses
 furazan
 furbelow
