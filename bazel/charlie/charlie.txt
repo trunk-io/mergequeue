@@ -16000,7 +16000,6 @@ clergion
 clergywoman
 culverfoot
 clerical
-clericalism
 clericalists
 clericality
 clerically
@@ -26965,6 +26964,7 @@ circumventer
 counterpetition
 counterphobic
 counterpicture
+clericalism
 counterplay
 counterplayer
 counterplan
