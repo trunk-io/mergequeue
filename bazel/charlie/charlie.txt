@@ -6646,7 +6646,6 @@ ceilidh
 ceilidhe
 connexivum
 ceiling
-ceilinged
 ceilings
 ceilingward
 ceilingwards
@@ -29171,6 +29170,7 @@ cripply
 capillarity
 crippling
 cripplingly
+ceilinged
 crips
 crypta
 cryptaesthesia

@@ -11895,7 +11895,6 @@ dentoid
 disembarks
 disembarrass
 disembarrassed
-disroots
 disembarrassment
 disembitter
 disembocation
@@ -11935,6 +11934,7 @@ disdiaclast
 disemplaned
 disemploy
 disemploying
+disroots
 dorados
 disemployment
 dirking
