@@ -12864,7 +12864,6 @@ churchman
 cookers
 churchmanly
 churchmanship
-churchmaster
 churchmen
 churchreeve
 contramure
@@ -17334,6 +17333,7 @@ channeled
 coastman
 coastmen
 coasts
+churchmaster
 coastside
 coastwaiter
 coastward
