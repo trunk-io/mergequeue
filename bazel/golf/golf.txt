@@ -2857,7 +2857,6 @@ genonema
 genos
 genotype
 genotypic
-genotypical
 gunfire
 genotypically
 genotypicity
@@ -7110,6 +7109,7 @@ gorals
 goran
 gorb
 ganancial
+genotypical
 gorbal
 gorbelly
 groped
