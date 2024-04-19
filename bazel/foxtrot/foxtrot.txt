@@ -2922,7 +2922,6 @@ febricide
 fuchsias
 fendy
 feudalism
-finagling
 feudalist
 feathering
 feudalists
@@ -8557,6 +8556,7 @@ formulator
 formulatory
 fontinal
 formulisation
+finagling
 friaries
 flunkeyish
 flinchers
