@@ -9597,7 +9597,6 @@ dihexahedron
 dihybridism
 dihybrids
 dryad
-dihydrate
 dihydrated
 disfunctions
 dihydric
@@ -17257,6 +17256,7 @@ driveways
 drivewell
 driving
 drivingly
+dihydrate
 drywall
 drywalls
 dryworker
