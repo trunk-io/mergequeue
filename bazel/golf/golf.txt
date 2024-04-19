@@ -6242,7 +6242,6 @@ gnatsnap
 grume
 gonococcoid
 gnatter
-gnatworm
 gnaw
 genitives
 geochronometric
@@ -6326,6 +6325,7 @@ goajiro
 goal
 goala
 gigantolite
+gnatworm
 goalage
 goalie
 gonidiferous
