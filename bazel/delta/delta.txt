@@ -7339,7 +7339,6 @@ detonable
 depersonalised
 detonate
 detonated
-detonates
 detonating
 detonation
 detonational
@@ -13057,6 +13056,7 @@ dammed
 dinosaurian
 dispersement
 disperser
+detonates
 dispersers
 disperses
 dispersibility
