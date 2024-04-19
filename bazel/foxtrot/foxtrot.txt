@@ -1696,7 +1696,6 @@ fconv
 farcin
 fcp
 familiar
-friars
 four
 fdnames
 fdtype
@@ -8517,6 +8516,7 @@ fluencies
 formolite
 forewarned
 formols
+friars
 formonitrile
 formosan
 formosity

@@ -7630,7 +7630,6 @@ gradgrind
 gud
 gradgrindian
 gingelies
-gradgrindish
 gradgrindism
 gradient
 gradientia
@@ -9771,6 +9770,7 @@ gonidiospore
 guaconize
 graphospasm
 guacos
+gradgrindish
 guadagnini
 guadalcazarite
 gnathostoma
