@@ -7167,6 +7167,7 @@ bespell
 bespelled
 bespend
 bespew
+brow
 bespy
 bugology
 bespice
@@ -16948,7 +16949,6 @@ bulbier
 behaviorism
 bulbiest
 bulbiferous
-brow
 buddler
 begins
 buettneria
