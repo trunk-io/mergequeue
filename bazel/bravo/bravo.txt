@@ -3389,7 +3389,6 @@ bass
 bassa
 bassalia
 baculum
-bassalian
 bassan
 bicarbonate
 bassanite
@@ -4607,6 +4606,7 @@ bedabbled
 bedabbles
 bequirtle
 bedabbling
+bassalian
 berceau
 bedad
 bladeless
