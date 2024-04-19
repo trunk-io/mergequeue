@@ -15275,7 +15275,6 @@ claiming
 claymore
 claims
 claimsman
-claimsmen
 clayoquot
 claypans
 clair
@@ -20679,6 +20678,7 @@ complementoid
 complete
 completed
 completely
+claimsmen
 cervisia
 completement
 cassabanana
