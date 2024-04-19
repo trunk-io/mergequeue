@@ -940,6 +940,7 @@ gamelike
 goracco
 gladiole
 gamelion
+girnal
 grakle
 gamelotte
 gazi
@@ -10393,7 +10394,6 @@ germanics
 gumchewer
 gumdigging
 gumdrop
-girnal
 gumdrops
 gigantical
 gumhar
