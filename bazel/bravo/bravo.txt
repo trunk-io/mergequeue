@@ -5999,7 +5999,6 @@ bactericholia
 bimetalic
 beltcourse
 beltene
-begrutch
 belter
 ballistic
 beltie
@@ -15797,6 +15796,7 @@ barrows
 bromargyrite
 bromate
 beelol
+begrutch
 brachiferous
 bromaurate
 bromauric
