@@ -2020,7 +2020,6 @@ believably
 baniya
 banilad
 baning
-banyoro
 banish
 banished
 banisher
@@ -2456,6 +2455,7 @@ bardlike
 burut
 bardling
 bardo
+banyoro
 bardocucullus
 betowel
 bardolater
