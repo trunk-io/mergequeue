@@ -10427,7 +10427,6 @@ cooncan
 cryptometer
 chiffonnier
 chiffonnieres
-chiffonniers
 chiffons
 continuable
 chifforobe
@@ -18029,6 +18028,7 @@ coenamors
 coenamourment
 contaminable
 coenanthium
+chiffonniers
 carrottop
 coalitional
 coendidae
