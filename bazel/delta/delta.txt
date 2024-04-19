@@ -3467,7 +3467,6 @@ dinner
 deforcer
 deforces
 deforciant
-deforest
 deforested
 deforester
 dentiform
@@ -5900,6 +5899,7 @@ deprecative
 deprecatively
 drainages
 deprecator
+deforest
 deprecatory
 doppia
 deprecatorily
