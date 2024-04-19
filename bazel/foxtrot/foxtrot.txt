@@ -4532,7 +4532,6 @@ fistinut
 fistlike
 followeth
 fama
-filterable
 fistmele
 forecounsel
 fistnotes
@@ -5390,6 +5389,7 @@ fastness
 fleeciest
 floorwalkers
 fitchery
+filterable
 fling
 fleecing
 fleeing
