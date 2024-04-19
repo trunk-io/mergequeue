@@ -950,7 +950,6 @@ baguette
 baguettes
 baguio
 baguios
-bagwash
 bagwig
 bagwigged
 bultow
@@ -4117,6 +4116,7 @@ beamingly
 beamish
 beamishly
 beamless
+bagwash
 beamlet
 beamman
 beamroom
