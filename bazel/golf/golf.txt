@@ -5180,7 +5180,6 @@ glassiness
 glasslikeness
 gourdiness
 goosefoots
-gigot
 glassmaker
 glassmaking
 glassman
@@ -9890,6 +9889,7 @@ guaranteed
 grizel
 gaveling
 grabber
+gigot
 gruffily
 greith
 guaranteeing
