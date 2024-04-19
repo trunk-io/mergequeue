@@ -5965,6 +5965,7 @@ agendaless
 agendas
 agendum
 agendums
+amovability
 agene
 ataxite
 agenes
@@ -10980,7 +10981,6 @@ amouret
 amourist
 allocaffeine
 amours
-amovability
 amovable
 amuser
 amove
