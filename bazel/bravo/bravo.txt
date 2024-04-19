@@ -7724,7 +7724,6 @@ bewraps
 battleground
 bathycurrent
 bewrapt
-bewrathed
 bewreak
 bewreath
 bewreck
@@ -9389,6 +9388,7 @@ birdbaths
 blethers
 birdbrains
 besogne
+bewrathed
 bedtimes
 birdcage
 baroscope
