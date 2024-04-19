@@ -4224,7 +4224,6 @@ bearm
 bawhorse
 bearpaw
 bearship
-bearskin
 bearskins
 beartongue
 birdwatch
@@ -13751,6 +13750,7 @@ benighten
 buriat
 bowdlerization
 bowdlerizations
+bearskin
 bedfellowship
 basquine
 benjamite
