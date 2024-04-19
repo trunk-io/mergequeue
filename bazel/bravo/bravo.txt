@@ -6016,6 +6016,7 @@ beltman
 belts
 beltway
 bloodspilling
+boondocker
 beltwise
 beluchi
 belucki
@@ -12772,7 +12773,6 @@ boomtowns
 boon
 brumalia
 boondock
-boondocker
 boondocks
 boondoggle
 boondoggler
