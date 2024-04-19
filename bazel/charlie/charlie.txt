@@ -5901,7 +5901,6 @@ cathedraled
 cathedralesque
 cavorter
 cathedralic
-cathedrallike
 cathedrals
 cathedralwise
 cathedras
@@ -21573,6 +21572,7 @@ concussional
 cribbled
 cobbly
 crowners
+cathedrallike
 concussions
 concussive
 concussively
