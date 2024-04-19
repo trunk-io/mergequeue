@@ -5747,7 +5747,6 @@ depletive
 decarboxylating
 depletory
 deploy
-deployed
 deploying
 defilade
 deployment
@@ -10887,6 +10886,7 @@ dirts
 dudish
 diruption
 disa
+deployed
 dis
 dashboards
 disable
