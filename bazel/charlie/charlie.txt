@@ -14215,7 +14215,6 @@ circularly
 circularness
 circulars
 circulatable
-channeled
 circulated
 circulates
 circulation
@@ -17312,6 +17311,7 @@ coasting
 coastings
 coastland
 coastlines
+channeled
 coastman
 coastmen
 coasts
