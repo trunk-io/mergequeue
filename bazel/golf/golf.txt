@@ -2447,7 +2447,6 @@ ghostlikeness
 geldability
 goodwill
 griffinish
-glamourousness
 goodnesses
 gelded
 gelder
@@ -4857,6 +4856,7 @@ gitanos
 gallotannin
 gite
 gitim
+glamourousness
 gravies
 geochemically
 garshuni
