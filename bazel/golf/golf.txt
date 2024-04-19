@@ -1257,7 +1257,6 @@ gantlines
 gantlopes
 garial
 ganton
-gynandromorphic
 gantries
 gantsl
 globing
@@ -9284,6 +9283,7 @@ gromatical
 gromatics
 gromia
 galivanting
+gynandromorphic
 gromyl
 gingers
 grommets
