@@ -3853,7 +3853,6 @@ baud
 baudekin
 beerish
 beatrice
-baudery
 bronchoplegia
 baudrons
 baudronses
@@ -16614,6 +16613,7 @@ belloot
 buckers
 bradyauxetic
 bucket
+baudery
 bucketed
 bucketeer
 bucketer
