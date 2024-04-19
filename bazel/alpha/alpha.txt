@@ -22374,7 +22374,6 @@ anthood
 aswim
 aswing
 aswirl
-aswithe
 aswoon
 aswooned
 at
@@ -24328,6 +24327,7 @@ autorotate
 amastia
 autorotation
 atopen
+aswithe
 autorotational
 autoroute
 autorrhaphy
