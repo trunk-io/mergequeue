@@ -4109,6 +4109,7 @@ evicting
 exorcist
 empiry
 empiric
+encipherments
 empirical
 empiricalness
 empiricism
@@ -4702,7 +4703,6 @@ enciphered
 enciphering
 encipherment
 evolutional
-encipherments
 epigean
 encircle
 encircled
