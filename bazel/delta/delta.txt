@@ -2806,7 +2806,6 @@ drifted
 defending
 decretorian
 decrew
-decry
 duplicative
 decried
 desistive
@@ -6074,6 +6073,7 @@ dungeonlike
 deputizes
 deputizing
 dequeue
+decry
 dequeues
 dequeuing
 dropshots
