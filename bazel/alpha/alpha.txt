@@ -5682,7 +5682,6 @@ afterimpression
 afterings
 afterking
 afterknowledge
-afterlifetime
 afterlight
 afterlives
 achree
@@ -21948,6 +21947,7 @@ assumedly
 assument
 assumer
 assumers
+afterlifetime
 ambagiousness
 assumes
 assuming
