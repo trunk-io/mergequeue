@@ -438,7 +438,6 @@ growl
 galea
 galeage
 galeas
-geoponics
 galeass
 goliard
 gastrojejunal
@@ -5381,6 +5380,7 @@ ganof
 granuloma
 gloriousness
 ganglionitis
+geoponics
 glycerolyses
 glycerolysis
 glycerophosphoric
