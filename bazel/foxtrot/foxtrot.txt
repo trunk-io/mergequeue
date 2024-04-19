@@ -7977,7 +7977,6 @@ faience
 foremanship
 foresentence
 foreset
-foresettled
 foreshadow
 foreshadowed
 foreshadower
@@ -8458,6 +8457,7 @@ flingdust
 formats
 formature
 frapp
+foresettled
 formazan
 formboard
 forme
