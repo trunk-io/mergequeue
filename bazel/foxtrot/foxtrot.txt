@@ -2219,7 +2219,6 @@ foreignership
 feloniousness
 fumatories
 fazendeiro
-felons
 felonsetter
 fluorescence
 flogging
@@ -4732,6 +4731,7 @@ flack
 fife
 flacks
 fibrovasal
+felons
 foundry
 flacourtiaceae
 flaffer
