@@ -10258,7 +10258,6 @@ defalcations
 dioeciopolygamous
 duodenal
 dustpans
-dioeciousness
 dioecisms
 dioestrous
 dioestrus
@@ -13767,6 +13766,7 @@ distenant
 distending
 distends
 distensibility
+dioeciousness
 distensibilities
 dichroscopic
 declericalize
