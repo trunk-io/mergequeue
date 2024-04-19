@@ -6119,6 +6119,7 @@ aggro
 aggroup
 affrontee
 arcaded
+archt
 aggroupment
 aghan
 aghanee
@@ -19193,7 +19194,6 @@ archsynagogue
 archspy
 archspirit
 archsteward
-archt
 archthief
 archtyrant
 archtraitor
