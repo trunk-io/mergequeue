@@ -908,7 +908,6 @@ fanteeg
 forcive
 fanti
 frugally
-floor
 factualness
 fantigue
 fantoccini
@@ -4825,6 +4824,7 @@ flagstaff
 fainer
 factorylike
 fustigate
+floor
 formalin
 fairishness
 fitchy
