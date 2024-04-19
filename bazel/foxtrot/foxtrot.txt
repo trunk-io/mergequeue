@@ -2734,7 +2734,6 @@ fisheress
 ferulae
 floodwall
 fervid
-falanaka
 fervidly
 fervor
 forecar
@@ -8592,6 +8591,7 @@ forninst
 factitious
 fornix
 fomentation
+falanaka
 florence
 forspent
 fantast
