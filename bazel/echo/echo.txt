@@ -11398,7 +11398,6 @@ evaporations
 euvrou
 evaporators
 evaporimeter
-evaporite
 erythrolitmin
 evaporitic
 evapotranspiration
@@ -13762,6 +13761,7 @@ extortionists
 extortions
 electrodynamical
 extortive
+evaporite
 extorts
 eastward
 extra
