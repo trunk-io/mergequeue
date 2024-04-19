@@ -5642,6 +5642,7 @@ flimsiness
 flinch
 flagleaf
 freighters
+foulnesses
 faff
 flinched
 flincher
@@ -6906,7 +6907,6 @@ foliocellosis
 floridities
 felicitation
 forejudger
-foulnesses
 folioed
 foreporch
 foliolate
