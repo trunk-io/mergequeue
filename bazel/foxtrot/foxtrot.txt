@@ -5059,7 +5059,6 @@ flashes
 fishiest
 flashforward
 fubbing
-flashgun
 foulard
 flashguns
 flashy
@@ -11708,6 +11707,7 @@ foreacquaint
 faiences
 forefaces
 futurisms
+flashgun
 foretellableness
 fumaryl
 falus
