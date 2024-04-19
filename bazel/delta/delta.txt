@@ -1701,6 +1701,7 @@ depaysee
 deathtime
 deathtrap
 deathtraps
+dhunchee
 deathward
 deathwatches
 deathweed
@@ -8058,7 +8059,6 @@ dhow
 dhows
 dhritarashtra
 dhu
-dhunchee
 dhunchi
 dhundia
 dhurna
