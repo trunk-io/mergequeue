@@ -9140,7 +9140,6 @@ biopsic
 bailliage
 benightmare
 biopsychical
-biopsychology
 biopsychological
 biopsychologies
 biopsychologist
@@ -18035,6 +18034,7 @@ busyhead
 bedpan
 benzbitriazole
 busying
+biopsychology
 blatters
 busyish
 busily
