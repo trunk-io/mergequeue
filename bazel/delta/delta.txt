@@ -1083,7 +1083,6 @@ darwinite
 decolorize
 darzee
 das
-drawgear
 dase
 dasein
 dasewe
@@ -1662,6 +1661,7 @@ dearths
 decidendi
 dearworthily
 dearworthiness
+drawgear
 deas
 deashed
 deashes
