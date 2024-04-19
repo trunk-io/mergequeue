@@ -1917,7 +1917,6 @@ flocks
 feckulence
 feliform
 feculence
-feculency
 fecundate
 fecundated
 foreknows
@@ -5826,6 +5825,7 @@ floatingly
 floatless
 floatman
 floatsman
+feculency
 floatsmen
 floatstone
 flob
