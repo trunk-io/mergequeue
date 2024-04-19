@@ -5980,6 +5980,7 @@ depressor
 dinos
 depressors
 diversifications
+demagnetizer
 depressurize
 deprest
 depreter
@@ -7030,7 +7031,6 @@ destinal
 destinate
 destination
 destine
-demagnetizer
 dechlorinating
 dacryoadenalgia
 decussately
