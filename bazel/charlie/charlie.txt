@@ -21132,7 +21132,6 @@ concealer
 concealers
 concealing
 conceals
-conceded
 concededly
 conceder
 couplets
@@ -26923,6 +26922,7 @@ countermutiny
 counternaiant
 counternarrative
 chromeplated
+conceded
 chuntering
 counternecromancy
 counternotice

@@ -935,7 +935,6 @@ guardsmen
 gamelan
 garpikes
 gemologies
-grooviness
 gossan
 grammaticality
 gamelang
@@ -8926,6 +8925,7 @@ grievable
 ghaist
 grievance
 grievances
+grooviness
 gabelles
 grievants
 grievedly
