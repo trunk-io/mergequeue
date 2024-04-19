@@ -5234,7 +5234,6 @@ flagships
 fourteenfold
 flavored
 flavorer
-flavorers
 flavorfully
 fusetron
 flavoriness
@@ -8202,6 +8201,7 @@ forewoman
 forewonted
 forewords
 fossils
+flavorers
 foreworld
 flung
 foreworn
