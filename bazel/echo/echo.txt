@@ -5515,6 +5515,7 @@ enfeeblements
 empestic
 espiritual
 enfeebles
+entitative
 enfeebling
 enent
 enfeeblish
@@ -6806,7 +6807,6 @@ entirely
 entireness
 entiris
 entirities
-entitative
 entitatively
 entities
 entitle
