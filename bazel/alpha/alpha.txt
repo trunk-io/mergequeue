@@ -8444,7 +8444,6 @@ alkalic
 alkalies
 alkaliferous
 alkalify
-alkalifiable
 aludel
 alkalified
 alkalifying
@@ -20898,6 +20897,7 @@ asbestoses
 asbestosis
 ancylostomum
 asbestous
+alkalifiable
 asbestuses
 asbolan
 asbolane
