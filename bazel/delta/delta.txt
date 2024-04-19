@@ -4951,7 +4951,6 @@ drays
 demonstrably
 demonstrandum
 demonstratability
-demonstratable
 demonstrate
 demonstrated
 demonstratedly
@@ -7045,6 +7044,7 @@ destress
 destressed
 destry
 desynchronizing
+demonstratable
 destrier
 destriers
 destroy
