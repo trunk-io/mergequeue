@@ -3353,6 +3353,7 @@ basket
 basketballer
 basketballs
 basketfuls
+bathers
 basketing
 basketlike
 basketmaker
@@ -3578,7 +3579,6 @@ batheable
 bathed
 bellower
 bather
-bathers
 bathes
 bathetically
 bathflower
