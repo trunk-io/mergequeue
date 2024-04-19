@@ -2672,6 +2672,7 @@ decongestants
 decongested
 decongesting
 decongestion
+digredience
 decongestive
 deconsecrate
 deconsecrated
@@ -9557,7 +9558,6 @@ dulias
 digraph
 digraphically
 digraphs
-digredience
 digrediency
 digredient
 digressed
