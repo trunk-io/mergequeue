@@ -7524,7 +7524,6 @@ deutschemark
 deutschland
 deutzia
 deuzan
-dev
 drou
 darwinistic
 deva
@@ -7664,6 +7663,7 @@ darshana
 devilism
 devility
 deprotestantize
+dev
 devilize
 devilkins
 devillike
