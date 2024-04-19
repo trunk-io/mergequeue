@@ -5860,7 +5860,6 @@ glossemic
 girondism
 glossers
 glosses
-glossy
 glossier
 goitered
 glossies
@@ -7555,6 +7554,7 @@ grabbiest
 gitaligenin
 grabble
 glottogonic
+glossy
 generation
 grabbled
 gravimetrically
