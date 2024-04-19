@@ -4491,6 +4491,7 @@ fissile
 fissilinguia
 footmenfootpad
 fissility
+flintified
 fissionable
 fissioned
 frays
@@ -11481,7 +11482,6 @@ furriers
 fibular
 flaunching
 footmen
-flintified
 furriest
 flares
 furrily
