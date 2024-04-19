@@ -23862,7 +23862,6 @@ controllably
 controlled
 controller
 costophrenic
-controllers
 controlless
 controlling
 cananga
@@ -24675,6 +24674,7 @@ coppersmith
 coppersmithing
 copperware
 copperwing
+controllers
 chemotroph
 coppet
 coppy
