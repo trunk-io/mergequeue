@@ -5099,7 +5099,6 @@ befalls
 battlers
 blazoned
 botfly
-befame
 bloodthirst
 befamilied
 befancy
@@ -12549,6 +12548,7 @@ bono
 bononian
 balcon
 bonorum
+befame
 bonos
 bons
 bagatelle
