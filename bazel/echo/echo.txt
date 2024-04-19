@@ -3337,6 +3337,7 @@ embarcation
 elaidin
 efformation
 embarge
+entablement
 embargo
 embargoed
 embargoes
@@ -6520,7 +6521,6 @@ ephyra
 entablature
 emigrated
 exstruct
-entablement
 entablements
 entach
 entackle
