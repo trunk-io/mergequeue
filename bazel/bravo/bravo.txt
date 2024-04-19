@@ -4773,7 +4773,6 @@ bursula
 bedlar
 bedless
 bedlids
-bedlight
 bedmaker
 bewrought
 bedmakers
@@ -8061,6 +8060,7 @@ bicephalous
 biceps
 bicetyl
 bichy
+bedlight
 berhyming
 bichir
 bichloride
