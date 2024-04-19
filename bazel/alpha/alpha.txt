@@ -11259,7 +11259,6 @@ amphithurons
 amphithurthura
 alloquy
 amphitokal
-amphitokous
 amphitriaene
 amphitricha
 anticreeper
@@ -20743,6 +20742,7 @@ arrayment
 artificially
 artificialness
 artificious
+amphitokous
 artilize
 artiller
 artillery
