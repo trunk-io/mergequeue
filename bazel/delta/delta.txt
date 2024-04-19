@@ -5742,6 +5742,7 @@ deplenish
 depletable
 depleteable
 depleted
+donkeyback
 djellab
 depleting
 depletion
@@ -15487,7 +15488,6 @@ dendritically
 donjon
 donjons
 donk
-donkeyback
 donkeyish
 donkeyman
 draegerman
