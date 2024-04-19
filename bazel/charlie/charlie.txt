@@ -7689,7 +7689,6 @@ cerianthidae
 cerianthoid
 cerianthus
 cerias
-ceric
 ceride
 ceryl
 cerilla
@@ -15311,6 +15310,7 @@ clayweed
 clam
 clamant
 clamantly
+ceric
 clamaroo
 clamative
 clamatory
