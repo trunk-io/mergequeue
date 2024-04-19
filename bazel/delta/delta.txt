@@ -1876,7 +1876,6 @@ debtee
 debtful
 debtless
 debtor
-debtors
 debts
 dendropogon
 debuggers
@@ -4243,6 +4242,7 @@ delousing
 decimal
 delph
 delphacidae
+debtors
 delphically
 dasyurus
 delphin
