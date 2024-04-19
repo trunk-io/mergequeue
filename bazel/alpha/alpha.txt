@@ -7642,7 +7642,6 @@ alcazava
 alce
 alcedinidae
 alcedininae
-alcedo
 alcelaphine
 arthurian
 alces
@@ -17684,6 +17683,7 @@ appellor
 appellors
 appels
 accompany
+alcedo
 appenage
 append
 appendage
