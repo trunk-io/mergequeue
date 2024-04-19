@@ -1509,7 +1509,6 @@ acciaccature
 accidence
 annotto
 accidency
-arthrempyesis
 accidencies
 accident
 accidentalism
@@ -21532,6 +21531,7 @@ asplenieae
 affenspalte
 asplenioid
 asplenium
+arthrempyesis
 asporogenic
 asporogenous
 asporulate
