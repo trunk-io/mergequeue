@@ -9365,7 +9365,6 @@ difficileness
 difficilitate
 difficult
 difficulty
-doddle
 difficulties
 difficultly
 difficultness
@@ -10026,6 +10025,7 @@ dynamitically
 dynamitish
 dynamitism
 dynamization
+doddle
 dockmackie
 dyschromatopsia
 dynamo
