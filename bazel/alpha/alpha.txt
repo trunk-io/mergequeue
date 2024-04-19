@@ -14304,7 +14304,6 @@ anterofrontal
 anterograde
 anteroinferior
 alismaceae
-anterointerior
 anterointernal
 anterolateral
 anterolaterally
@@ -16838,6 +16837,7 @@ aphasics
 aphelandra
 aphelenchus
 agog
+anterointerior
 aphelia
 aphelian
 anthophagy
