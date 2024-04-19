@@ -1866,6 +1866,7 @@ debrief
 debriefing
 dowser
 debriefings
+dibble
 debris
 debrominate
 dogship
@@ -8806,7 +8807,6 @@ dibbed
 dibber
 dibbing
 deterring
-dibble
 dibbled
 dibbler
 dibbling
