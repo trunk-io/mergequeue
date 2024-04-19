@@ -3962,7 +3962,6 @@ frounces
 finement
 fineness
 finer
-fatstocks
 finery
 fines
 flouting
@@ -7511,6 +7510,7 @@ foreadvice
 foreadvise
 forearmed
 foreallege
+fatstocks
 foreallot
 foreannounce
 flatuses
