@@ -3520,7 +3520,6 @@ figulated
 finnic
 figuline
 figulines
-figurability
 figurable
 fixture
 figurae
@@ -9866,6 +9865,7 @@ frenuna
 fraicheur
 frenzy
 frenzied
+figurability
 frenzies
 fulmineous
 freq
