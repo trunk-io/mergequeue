@@ -5712,6 +5712,7 @@ afterpiece
 afterplanting
 afterpotential
 afterpressure
+amicable
 afterproof
 afterrake
 afterreckoning
@@ -10432,7 +10433,6 @@ amyatonic
 amic
 amicability
 amicabilities
-amicable
 amicably
 amical
 autexousy
