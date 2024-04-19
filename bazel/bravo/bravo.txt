@@ -1572,7 +1572,6 @@ bullwhack
 bellowing
 balliage
 ballies
-ballyhack
 ballyhoo
 ballyhooed
 ballyhooing
@@ -4394,6 +4393,7 @@ bebopper
 beboppers
 bevel
 bebops
+ballyhack
 belongings
 beboss
 blessing
