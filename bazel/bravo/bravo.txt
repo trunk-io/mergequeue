@@ -4972,7 +4972,6 @@ beefwoods
 bandcase
 beegerite
 blackcock
-beehead
 bedrock
 beeheaded
 beeherd
@@ -7391,6 +7390,7 @@ betattering
 betaxed
 blandishes
 bunemost
+beehead
 boloroot
 bete
 beteach
