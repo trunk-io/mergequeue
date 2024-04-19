@@ -1894,7 +1894,6 @@ begulfing
 bandyball
 bandicoy
 bandicoot
-bandicoots
 bloodier
 bandido
 bandidos
@@ -8778,6 +8777,7 @@ bimedial
 bimesters
 bimetalism
 bimetallic
+bandicoots
 belching
 bulldoggish
 bimetallism
