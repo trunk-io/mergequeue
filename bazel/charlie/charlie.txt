@@ -3373,7 +3373,6 @@ capshore
 capsian
 capsicin
 capsicins
-capsicum
 capsicums
 capsid
 capsidal
@@ -18535,6 +18534,7 @@ coyish
 chrometophobia
 coyishness
 coil
+capsicum
 coilability
 coiled
 crusie
