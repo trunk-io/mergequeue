@@ -11306,7 +11306,6 @@ abaff
 amphophilic
 amphora
 amphorae
-amphoral
 amphore
 amphorette
 amphoric
@@ -19866,6 +19865,7 @@ arivaipa
 arizona
 arizonan
 arizonans
+amphoral
 arizonian
 arizonians
 arapunga
