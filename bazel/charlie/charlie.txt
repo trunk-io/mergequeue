@@ -9004,6 +9004,7 @@ coatracks
 chariot
 chariotee
 charioteer
+continuo
 charioting
 chariotlike
 chariotman
@@ -23554,7 +23555,6 @@ continuities
 choeropsis
 cribbages
 cassiaceae
-continuo
 continuos
 cholecyanin
 continuously
