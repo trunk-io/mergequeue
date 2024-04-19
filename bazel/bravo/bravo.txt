@@ -4057,7 +4057,6 @@ beadlet
 beadman
 beadmen
 billjim
-beadroll
 beadrolls
 blepharophimosis
 beads
@@ -10933,6 +10932,7 @@ blinkard
 blinkards
 blinked
 beanfest
+beadroll
 blinker
 blinkered
 blinkering
