@@ -5959,6 +5959,7 @@ fluidrachm
 floorward
 furniment
 floorwise
+fabes
 floosy
 floosies
 floozy
@@ -7192,7 +7193,6 @@ footle
 footled
 fiducinales
 footler
-fabes
 footlers
 freinage
 footles
