@@ -3559,7 +3559,6 @@ gestations
 gantry
 gestative
 gestatory
-gestatorial
 geste
 gested
 gingham
@@ -7984,6 +7983,7 @@ gadding
 granite
 granites
 granitiferous
+gestatorial
 granitification
 granitiform
 granitite
