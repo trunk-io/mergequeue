@@ -5900,7 +5900,6 @@ dentaries
 depravity
 deprecable
 deutochloride
-deprecated
 dreamers
 demythologise
 deprecating
@@ -16618,6 +16617,7 @@ dragonfishes
 dragonfly
 dragonflies
 dragonhead
+deprecated
 dragonhood
 downily
 decompositional
