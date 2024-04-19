@@ -1287,7 +1287,6 @@ boliviano
 bawdyhouses
 balaniferous
 broderie
-balanite
 balanites
 bigamic
 balanitis
@@ -4425,6 +4424,7 @@ becap
 becapping
 brassylic
 becaps
+balanite
 becard
 becarpeted
 becarpeting
