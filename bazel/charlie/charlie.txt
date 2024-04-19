@@ -10082,7 +10082,6 @@ cheshire
 chesil
 cheskey
 campine
-choices
 cheskeys
 cheslep
 chesoun
@@ -29205,6 +29204,7 @@ cryptobranch
 cryptobranchia
 cryptobranchiata
 chondroma
+choices
 cryptobranchiate
 cryptobranchidae
 ciphered
