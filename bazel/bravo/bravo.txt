@@ -3844,7 +3844,6 @@ bunkos
 beached
 battutos
 batukite
-batule
 batuque
 batussi
 batwing
@@ -9520,6 +9519,7 @@ byronic
 byronically
 byronics
 byronish
+batule
 beholden
 byronist
 byronite
