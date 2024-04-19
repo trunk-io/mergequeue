@@ -4425,7 +4425,6 @@ becalming
 becalmment
 becalms
 becap
-becapping
 brassylic
 becaps
 becard
@@ -9066,6 +9065,7 @@ benzazide
 biolite
 biolith
 blackfoot
+becapping
 biologic
 biologicohumanistic
 biologics
