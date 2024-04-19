@@ -10846,7 +10846,6 @@ eulysite
 eulytine
 expansibleness
 eulogy
-eulogia
 eelblenny
 eulogias
 eulogic
@@ -12196,6 +12195,7 @@ excubant
 excubitoria
 excubitorium
 epistolet
+eulogia
 excud
 excudate
 exoenzymic
