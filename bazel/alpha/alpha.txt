@@ -2284,7 +2284,6 @@ algebraized
 achrodextrinase
 achroglobin
 achroiocythaemia
-achroiocythemia
 antepaschel
 anthropocosmic
 apod
@@ -6006,6 +6005,7 @@ ages
 agete
 ageustia
 aggadic
+achroiocythemia
 asthenic
 aggenerate
 agger
