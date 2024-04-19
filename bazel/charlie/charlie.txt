@@ -13649,6 +13649,7 @@ cimbalom
 cymbalom
 cimbaloms
 cymbalon
+cubicles
 cymbel
 cymbella
 cymbid
@@ -30460,7 +30461,6 @@ catskinner
 cubicalness
 chalcidid
 cubicities
-cubicles
 cubicone
 cubicontravariant
 cubicula
