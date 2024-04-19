@@ -7047,6 +7047,7 @@ entresols
 entresse
 endocardial
 entrez
+epicranial
 entria
 expressivity
 entries
@@ -9457,7 +9458,6 @@ ellen
 estruate
 eruptive
 estrous
-epicranial
 episematic
 eruptively
 eruptiveness
