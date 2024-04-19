@@ -13510,7 +13510,6 @@ disseminating
 dissemination
 disseminations
 disseminative
-disseminator
 dissimulators
 disseminule
 dissension
@@ -14765,6 +14764,7 @@ dumky
 documentations
 disposableness
 documenter
+disseminator
 dilogical
 documenting
 documentize
