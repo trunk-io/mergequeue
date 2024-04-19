@@ -19133,7 +19133,6 @@ collocutor
 collocutory
 collodion
 collodionization
-collodionize
 culpate
 collodiotype
 collogen
@@ -21897,6 +21896,7 @@ conferruminate
 catslide
 confers
 conferted
+collodionize
 conferva
 congregate
 confervaceae
