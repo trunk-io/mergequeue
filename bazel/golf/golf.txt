@@ -3519,7 +3519,6 @@ glottic
 gertie
 gerund
 gerundial
-gerundive
 gabbarts
 gervais
 goutily
@@ -4100,6 +4099,7 @@ gildship
 gildsman
 gildsmen
 gastrosplenic
+gerundive
 gilenyie
 gilet
 gormandizers
