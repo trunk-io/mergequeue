@@ -6088,7 +6088,6 @@ dequeuing
 dropshots
 der
 derabbinize
-deracialize
 deracinate
 deracinating
 dropling
@@ -16070,6 +16069,7 @@ doughbellies
 doughbird
 doughface
 doughfaceism
+deracialize
 dactylographer
 dakhma
 doughhead
