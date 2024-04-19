@@ -550,7 +550,6 @@ daltonism
 daltonist
 dam
 dama
-damage
 damageability
 damageably
 describent
@@ -14097,6 +14096,7 @@ disvantage
 disvelop
 disventure
 dicer
+damage
 disvisage
 disvisor
 disvoice
