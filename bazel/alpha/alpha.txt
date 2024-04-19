@@ -10768,6 +10768,7 @@ ammocoetid
 ammocoetidae
 abides
 ammocoetoid
+apparentement
 ammodyte
 arteriole
 ammodytes
@@ -17609,7 +17610,6 @@ apparency
 almucantar
 apparens
 apparent
-apparentement
 apparentements
 apparently
 apparentness
