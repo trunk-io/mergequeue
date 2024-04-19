@@ -8771,6 +8771,7 @@ diazin
 diazines
 diazins
 diazo
+drinkable
 diazoalkane
 diazoamin
 depeter
@@ -17161,7 +17162,6 @@ drink
 drainway
 decius
 drinkability
-drinkable
 drinkables
 drinkably
 drinker
