@@ -13110,6 +13110,7 @@ display
 displayable
 displayed
 displayer
+downtimes
 decolorate
 displaying
 displays
@@ -16372,7 +16373,6 @@ downthrow
 downthrown
 downthrust
 downtime
-downtimes
 downton
 downtown
 downtowner
