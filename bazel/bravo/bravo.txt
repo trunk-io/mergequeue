@@ -2526,7 +2526,6 @@ bargainer
 bargaining
 bargainor
 bargander
-bumptiously
 barge
 bargeboard
 bargeer
@@ -4578,6 +4577,7 @@ becrowd
 becrowded
 buttering
 bucketed
+bumptiously
 bearhide
 becrush
 buffering
