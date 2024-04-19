@@ -3780,7 +3780,6 @@ frogeater
 fills
 foregirth
 faultlessly
-filmcard
 filmcards
 filmdom
 firebases
@@ -8774,6 +8773,7 @@ fortravail
 frightenable
 fortread
 foreordains
+filmcard
 formican
 fortresses
 furors

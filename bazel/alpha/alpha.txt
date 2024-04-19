@@ -6294,7 +6294,6 @@ agnates
 agnatha
 agnathia
 agnathic
-agnathostomata
 agnathous
 advenient
 agnatic
@@ -12372,6 +12371,7 @@ androcephalum
 audits
 androcyte
 androclclinia
+agnathostomata
 anisotropic
 androclinia
 androclinium
