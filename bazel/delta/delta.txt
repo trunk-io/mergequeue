@@ -625,7 +625,6 @@ devonport
 damier
 damine
 drek
-damlike
 dammars
 damme
 dammer
@@ -17485,6 +17484,7 @@ droved
 drover
 drovers
 drovy
+damlike
 drow
 drown
 drownd
