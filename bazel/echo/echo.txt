@@ -8767,7 +8767,6 @@ equitative
 equitemporaneous
 eagle
 ecchymotic
-equites
 equity
 epiploon
 equities
@@ -11380,6 +11379,7 @@ eavesdrops
 evanished
 expirable
 evanishes
+equites
 enterostenosis
 evanishing
 evanishment
