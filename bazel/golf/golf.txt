@@ -4216,6 +4216,7 @@ gunrunner
 gymnasic
 gonif
 gymnasisia
+grenadin
 generability
 glamours
 gentilities
@@ -8830,7 +8831,6 @@ grenadier
 grenadierial
 grenadierly
 grenadiers
-grenadin
 grenat
 grenatite
 gleeted
