@@ -10454,7 +10454,6 @@ blastocyte
 blastocoel
 blastocoele
 blastoderm
-blastodermatic
 blastodermic
 balcone
 blastodisc
@@ -13231,6 +13230,7 @@ bostonian
 blitheness
 bostonite
 banderillas
+blastodermatic
 burglar
 bostrychid
 bostrychidae
