@@ -2071,6 +2071,7 @@ feigners
 feigning
 feigningly
 feigns
+flirtingly
 feijoa
 fourpounder
 feil
@@ -3665,7 +3666,6 @@ filets
 fylfot
 fili
 findfault
-flirtingly
 feeblest
 filially
 filiate
