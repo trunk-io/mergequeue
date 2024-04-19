@@ -9658,7 +9658,6 @@ doorcase
 daphnite
 dilacerated
 dilacerating
-demisovereign
 dilaceration
 doused
 dilactic
@@ -16653,6 +16652,7 @@ dragstaff
 dragster
 dragsters
 dray
+demisovereign
 donatory
 drayage
 drayed
