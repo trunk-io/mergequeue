@@ -1006,6 +1006,7 @@ calcarated
 calcarea
 calcareoargillaceous
 calcareosiliceous
+cholesterinemia
 calcareous
 calcareously
 calcareousness
@@ -11644,7 +11645,6 @@ cholesteremia
 cholesteric
 cholesteryl
 cholesterin
-cholesterinemia
 chappow
 cholesterinic
 cholesterinuria
