@@ -2541,7 +2541,6 @@ electrooptically
 electroori
 electroosmosis
 eirenicon
-electroosmotically
 electropathy
 electropathology
 extramorainic
@@ -8986,6 +8985,7 @@ ergostat
 ergosterin
 elegit
 eulogised
+electroosmotically
 ergosterol
 equiponderous
 ergot
