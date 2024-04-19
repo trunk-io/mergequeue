@@ -4810,7 +4810,6 @@ flagman
 flagmen
 faciobrachial
 fellers
-flagons
 fasciolaria
 flagpole
 faena
@@ -9398,6 +9397,7 @@ franchisees
 franchisement
 franchisers
 franchises
+flagons
 frivoling
 flintier
 fireworms
