@@ -9106,7 +9106,6 @@ bion
 byon
 bionditional
 bionergy
-bionic
 bionics
 bionomy
 bionomic
@@ -11392,6 +11391,7 @@ bluelines
 blueness
 bluenose
 beri
+bionic
 burros
 bluenosed
 bluenoser
