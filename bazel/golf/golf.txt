@@ -497,7 +497,6 @@ gamont
 goblinry
 garcons
 galere
-galeres
 galericulate
 galerie
 galerum
@@ -3026,6 +3025,7 @@ geochemical
 gentes
 geochemists
 geochrony
+galeres
 geochronology
 geochronological
 geocyclic
