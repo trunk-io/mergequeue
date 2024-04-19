@@ -12651,7 +12651,6 @@ escheat
 exocycloida
 exoclinal
 exocline
-expensive
 exocoelar
 exocoele
 eradiated
@@ -13200,6 +13199,7 @@ exsiliency
 explicableness
 explicably
 embolium
+expensive
 explicanda
 explicate
 eaglewood
