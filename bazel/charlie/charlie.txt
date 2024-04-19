@@ -9021,7 +9021,6 @@ charismata
 consuete
 charismatic
 charisms
-charissa
 charisticary
 charitable
 charitably
@@ -29915,6 +29914,7 @@ crosswalk
 crosswalks
 crossweb
 crossweed
+charissa
 crosswise
 crosswiseness
 crossworder
