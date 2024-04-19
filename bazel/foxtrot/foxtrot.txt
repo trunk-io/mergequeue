@@ -962,6 +962,7 @@ faradmeter
 ferny
 fhrer
 faradomuscular
+fiqh
 farandman
 farandmen
 fordays
@@ -4146,7 +4147,6 @@ featurette
 fluidrams
 fippence
 fipples
-fiqh
 functionate
 fiques
 firca
