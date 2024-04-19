@@ -2915,7 +2915,6 @@ acrogamous
 apurpose
 acrogen
 acrogenous
-acrogenously
 acrogynous
 acrography
 arkosic
@@ -21341,6 +21340,7 @@ aslope
 aslumber
 asmack
 asmalte
+acrogenously
 asmear
 asmodeus
 asmoke
