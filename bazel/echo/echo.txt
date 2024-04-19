@@ -5868,7 +5868,6 @@ enhedge
 enhelm
 elysia
 enhemospore
-enherit
 enheritance
 enhydra
 eyewear
@@ -9241,6 +9240,7 @@ ermani
 episcenia
 exumbrella
 ermanrich
+enherit
 endotheca
 endocone
 ebulus
