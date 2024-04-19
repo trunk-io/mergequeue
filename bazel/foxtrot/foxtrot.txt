@@ -3942,7 +3942,6 @@ finchery
 finches
 find
 finalizes
-furled
 findable
 flabellinerved
 findhorn
@@ -4853,6 +4852,7 @@ forearm
 fasher
 frightenedness
 flaite
+furled
 frolicky
 flaithship
 foisons
