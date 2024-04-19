@@ -643,7 +643,6 @@ bacteriophage
 bacteriophages
 bacteriophagy
 bacteriophagic
-bacteriophagous
 bear
 bacterioprecipitin
 bacteriopsonin
@@ -4853,6 +4852,7 @@ bedsite
 bedsitter
 bedsock
 bedsonia
+bacteriophagous
 bedsonias
 bumblefoot
 bedsore
