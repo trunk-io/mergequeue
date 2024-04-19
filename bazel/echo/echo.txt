@@ -3850,7 +3850,6 @@ emeu
 engladden
 emeutes
 emf
-emulator
 emforth
 emic
 emicate
@@ -12034,6 +12033,7 @@ emetatrophia
 excisemanship
 excises
 excising
+emulator
 excision
 excyst
 excystation
