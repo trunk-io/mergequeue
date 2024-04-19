@@ -6480,7 +6480,6 @@ desaminase
 desands
 desc
 descale
-descaling
 descamisados
 descant
 dentinoblast
@@ -9025,6 +9024,7 @@ dicrotal
 dicrotism
 dicrotous
 dicruridae
+descaling
 dyable
 dict
 dicta
