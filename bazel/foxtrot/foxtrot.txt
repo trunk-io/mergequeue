@@ -1309,7 +1309,6 @@ fasteners
 fastening
 frocked
 floscular
-fastenings
 flagrante
 fishhouse
 faked
@@ -11279,6 +11278,7 @@ forepayment
 funkiness
 forgetness
 flocculant
+fastenings
 fete
 falcade
 frontispieces
