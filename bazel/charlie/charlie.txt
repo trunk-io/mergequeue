@@ -9950,7 +9950,6 @@ chemotherapies
 chemotherapist
 chemotherapists
 chemotic
-chemotroph
 chemotrophic
 chemotropic
 chemotropically
@@ -24683,6 +24682,7 @@ coppersmith
 coppersmithing
 copperware
 copperwing
+chemotroph
 coppet
 coppy
 coppice
