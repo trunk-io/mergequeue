@@ -6508,6 +6508,7 @@ caws
 crabsidle
 caxiri
 counterpoises
+commissaries
 caxon
 caxton
 caxtonian
@@ -20135,7 +20136,6 @@ callicebus
 commiserator
 commissary
 commissariats
-commissaries
 commissaryship
 commissars
 commission
