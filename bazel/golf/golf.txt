@@ -3859,7 +3859,6 @@ gibbous
 gibbousness
 geochemist
 gibbsite
-geotactic
 griph
 glaucomys
 gibbus
@@ -10493,6 +10492,7 @@ gunfights
 gunfires
 gunflint
 gearless
+geotactic
 gung
 gunge
 gregge
