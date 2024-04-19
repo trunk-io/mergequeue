@@ -2231,7 +2231,6 @@ felsites
 felsobanyite
 fligger
 foretypified
-felspars
 forebless
 forestate
 felspath
@@ -11457,6 +11456,7 @@ furnishment
 felup
 filaceous
 furnishness
+felspars
 foreranks
 furniture
 furodiazole
