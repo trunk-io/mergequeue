@@ -8283,7 +8283,6 @@ align
 aligned
 aligners
 aligning
-alignment
 allochezia
 alignments
 aligns
@@ -9554,6 +9553,7 @@ altricial
 altropathy
 altrose
 altruism
+alignment
 autoionization
 accendibility
 altruisms
