@@ -6349,7 +6349,6 @@ goal
 goala
 gigantolite
 goalage
-goaler
 goalie
 gonidiferous
 goalkeeper
@@ -10314,6 +10313,7 @@ gastrodialysis
 guanaco
 gules
 gulfy
+goaler
 gulfiest
 gulfing
 gerbo
