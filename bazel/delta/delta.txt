@@ -1476,7 +1476,6 @@ deadeye
 deaden
 doolee
 deadened
-deadener
 dendra
 deadeners
 deadening
@@ -14543,6 +14542,7 @@ djuka
 dk
 dkg
 dkl
+deadener
 dullness
 disgruntle
 dkm
