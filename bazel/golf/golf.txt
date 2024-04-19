@@ -266,6 +266,7 @@ gainer
 gainful
 gym
 gibs
+ghostwrote
 gainfulness
 gainyield
 grafter
@@ -3772,7 +3773,6 @@ ghostwriter
 ghostwriters
 ghostwriting
 ghostwritten
-ghostwrote
 giggler
 glandulose
 gutturotetany
