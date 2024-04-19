@@ -3055,7 +3055,6 @@ deerskin
 deerstalker
 deerstalkers
 deerstalking
-deerstand
 deerstealer
 discourteously
 deervetch
@@ -14696,6 +14695,7 @@ docosane
 docosanoic
 dipteral
 docquet
+deerstand
 docs
 doctor
 doctoral
