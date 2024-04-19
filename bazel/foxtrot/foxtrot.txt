@@ -5096,6 +5096,7 @@ flashtubes
 flask
 ferricyanhydric
 flasker
+funiliform
 foretooth
 flaskets
 faecal
@@ -10414,7 +10415,6 @@ frondesced
 fluoridising
 frondescent
 foofaraw
-funiliform
 fingerleaf
 flackery
 frillies
