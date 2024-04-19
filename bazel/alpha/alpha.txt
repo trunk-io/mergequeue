@@ -3881,7 +3881,6 @@ adiaphorite
 appaume
 adiaphoron
 adiapneustia
-articles
 adiate
 adiated
 adiathermal
@@ -23602,6 +23601,7 @@ aurin
 aurinasal
 aurine
 acicula
+articles
 auriphone
 auriphrygia
 auriphrygiate
