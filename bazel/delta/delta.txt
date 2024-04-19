@@ -10906,7 +10906,6 @@ disabuses
 disabusing
 disacceptance
 disaccharid
-disaccharidase
 disaccharide
 disaccharose
 disaccommodate
@@ -14655,6 +14654,7 @@ demonetized
 discutable
 docker
 dockers
+disaccharidase
 docket
 docketed
 diakineses
