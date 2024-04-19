@@ -5270,6 +5270,7 @@ affectible
 affecting
 acrorhagus
 affectingly
+antitangent
 affection
 affectional
 affectionally
@@ -14060,7 +14061,6 @@ antapexes
 antaphrodisiac
 antaphroditic
 antapocha
-antitangent
 antapodosis
 antapology
 antar
