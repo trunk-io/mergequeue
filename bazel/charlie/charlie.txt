@@ -2043,7 +2043,6 @@ campephilus
 camper
 channeler
 campers
-campership
 chiloma
 campesino
 campesinos
@@ -20900,6 +20899,7 @@ comprehensively
 comprehensiveness
 comprehensives
 comprehensor
+campership
 comprend
 compresbyter
 compresbyterial
