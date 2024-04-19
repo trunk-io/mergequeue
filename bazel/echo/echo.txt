@@ -1073,7 +1073,6 @@ edgers
 edges
 edgeshot
 edgeway
-edgeways
 enshrouded
 embryonically
 edgewise
@@ -8941,6 +8940,7 @@ eyecups
 erethistic
 erethizon
 eretrian
+edgeways
 endotheliolysin
 erewhile
 erewhiles
