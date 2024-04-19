@@ -2913,7 +2913,6 @@ dedifferentiate
 dedifferentiated
 denationalising
 dedifferentiating
-dedifferentiation
 dedignation
 developist
 dedit
@@ -5856,6 +5855,7 @@ depositors
 deposits
 depositum
 daimon
+dedifferentiation
 doumaist
 deposure
 depot
