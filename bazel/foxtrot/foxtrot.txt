@@ -2573,6 +2573,7 @@ ferrels
 fossilisable
 floatmaker
 fooster
+fluorine
 ferreous
 ferrer
 fusulina
@@ -6447,7 +6448,6 @@ fub
 fluorinating
 fluorinations
 fluorindin
-fluorine
 frippet
 fluorines
 forepoling
