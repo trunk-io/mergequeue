@@ -11826,7 +11826,6 @@ choosiness
 choosing
 chadar
 choosingly
-chop
 chopa
 chopas
 chopboat
@@ -13383,6 +13382,7 @@ cyclopy
 cyclopia
 cyclopic
 citatum
+chop
 chymistry
 cyclopism
 crabbit
