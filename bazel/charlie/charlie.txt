@@ -2141,6 +2141,7 @@ campsheeting
 campsite
 compasser
 campsites
+conusor
 campstool
 camptodrome
 camptonite
@@ -23936,7 +23937,6 @@ conusable
 conusance
 conusant
 conuses
-conusor
 conutrition
 conuzee
 cacological
