@@ -4316,7 +4316,6 @@ encoop
 enabling
 enact
 enactable
-enacted
 enacting
 ers
 enactment
@@ -10195,6 +10194,7 @@ eternals
 embarking
 eterne
 executional
+enacted
 eternisation
 ethylation
 eternises
