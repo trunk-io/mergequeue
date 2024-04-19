@@ -2662,7 +2662,6 @@ barkentines
 barker
 barkery
 barkevikite
-barkevikitic
 bub
 barkhan
 batman
@@ -7328,6 +7327,7 @@ bardie
 bestrown
 bathochromatic
 ballasted
+barkevikitic
 bestrut
 borasqueborate
 bestsellerdom
