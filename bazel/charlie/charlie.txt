@@ -909,6 +909,7 @@ calamanco
 calamancoes
 calamancos
 calamander
+citywards
 calamansi
 calamar
 calamary
@@ -14862,7 +14863,6 @@ cityscapes
 cytisine
 cytitis
 chamkanni
-citywards
 citizen
 citizeness
 citizenhood
