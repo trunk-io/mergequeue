@@ -3708,6 +3708,7 @@ antepectoral
 adenocystomatous
 adenodermia
 adenodynia
+apotheces
 adenogenesis
 aggelation
 adenographer
@@ -17513,7 +17514,6 @@ apothecary
 apothecaries
 apothecaryship
 apothece
-apotheces
 apothecia
 apothecial
 apothecium
