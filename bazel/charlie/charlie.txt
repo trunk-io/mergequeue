@@ -5867,7 +5867,6 @@ cathartolinum
 catheads
 cathect
 cathected
-cathectic
 cathecting
 cathection
 cathects
@@ -24493,6 +24492,7 @@ copatriot
 copatron
 copatroness
 capetonian
+cathectic
 crankum
 contraflow
 copatrons
