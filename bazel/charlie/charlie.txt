@@ -17011,6 +17011,7 @@ crayoned
 cnidoblast
 cnidocell
 cnidocil
+coexplosion
 cnidocyst
 cnidophorous
 cupmate
@@ -18192,7 +18193,6 @@ coexists
 coexpand
 coexpanded
 coexperiencer
-coexplosion
 coextend
 coextended
 coextends
