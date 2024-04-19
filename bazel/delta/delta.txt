@@ -4965,6 +4965,7 @@ demonstratable
 demonstrate
 demonstrated
 demonstratedly
+dermatograph
 demonstrater
 demonstrates
 demonstration
@@ -6261,7 +6262,6 @@ dermatoconiosis
 dermatodynia
 dermatogen
 dermatoglyphics
-dermatograph
 dermatography
 dermatographia
 denucleate
