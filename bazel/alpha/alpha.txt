@@ -3836,7 +3836,6 @@ adherends
 aquashow
 adherent
 adherents
-adherer
 adherers
 adheres
 adherescence
@@ -18983,6 +18982,7 @@ archicytula
 archicoele
 archicontinent
 archidamus
+adherer
 archidiaceae
 archidiaconate
 archididascalos
