@@ -2610,7 +2610,6 @@ barit
 baryta
 bloodlike
 barytas
-barite
 baryte
 baritenor
 barytes
@@ -7245,6 +7244,7 @@ bestayed
 bestain
 bestamp
 bestand
+barite
 bestar
 bestare
 bestarve
