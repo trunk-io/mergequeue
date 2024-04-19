@@ -12731,7 +12731,6 @@ chukchi
 chukka
 chukkar
 chukkars
-chukkas
 chukker
 chukor
 currish
@@ -19985,6 +19984,7 @@ commelina
 commelinaceae
 commelinaceous
 capers
+chukkas
 commem
 commemorable
 chromosome
