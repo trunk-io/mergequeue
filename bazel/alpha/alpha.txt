@@ -9431,7 +9431,6 @@ anaglyptograph
 altarlet
 altarpieces
 altars
-afghanets
 altarwise
 altazimuth
 alter
@@ -14581,6 +14580,7 @@ anthropoglot
 anoplotheroid
 anthropogony
 anthropography
+afghanets
 anthropographic
 anthropoid
 antroscopy

@@ -2149,6 +2149,7 @@ banovina
 banquet
 banqueted
 banqueter
+bundist
 banqueters
 banqueting
 banquets
@@ -17374,7 +17375,6 @@ bedamns
 barnage
 bewray
 bundy
-bundist
 bundists
 bundle
 bundled
