@@ -3644,6 +3644,7 @@ filenames
 filer
 fixates
 fanons
+forspoken
 fourniture
 filers
 fructification
@@ -9437,7 +9438,6 @@ fanneling
 francophone
 frangibility
 frangible
-forspoken
 frangipani
 fathoming
 fendillate
