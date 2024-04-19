@@ -945,6 +945,7 @@ exculpatory
 escadrille
 ectromelic
 ectromelus
+equipping
 ectropion
 ectropionization
 ectropionize
@@ -7511,7 +7512,6 @@ ephyrula
 effluency
 ephod
 ephods
-equipping
 ephor
 essayical
 ephoralty
