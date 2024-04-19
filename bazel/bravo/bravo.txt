@@ -2222,7 +2222,6 @@ baptized
 baptizement
 baptizer
 baptizers
-buggyman
 baptizing
 bar
 barabara
@@ -8896,6 +8895,7 @@ binocle
 binocs
 binocular
 binocularly
+buggyman
 binoculars
 bellarmine
 binodose
