@@ -1622,7 +1622,6 @@ balloonfishes
 balloonflower
 briticism
 balloonish
-balloonlike
 babby
 bodicemaker
 balloons
@@ -16891,6 +16890,7 @@ bugling
 bugloss
 buglosses
 bugong
+balloonlike
 bugout
 bugs
 bugsha
