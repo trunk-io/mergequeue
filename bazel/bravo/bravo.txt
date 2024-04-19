@@ -620,6 +620,7 @@ bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
 bacteriocin
+bathylite
 bishopbird
 bacteriodiagnosis
 bromates
@@ -12366,7 +12367,6 @@ bonagh
 bonaire
 bonairly
 bescorches
-bathylite
 bonamano
 bonang
 bonanzas
