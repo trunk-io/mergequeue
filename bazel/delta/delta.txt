@@ -5069,7 +5069,6 @@ denationalisation
 darci
 denationalise
 dilleniad
-denationalised
 denationalization
 denationalize
 denationalized
@@ -11511,6 +11510,7 @@ discommons
 discommune
 demotics
 dcolletage
+denationalised
 discommunity
 doggoneder
 discompanied
