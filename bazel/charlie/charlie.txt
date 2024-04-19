@@ -21256,7 +21256,6 @@ contumeliously
 concertize
 concertized
 concertizer
-concertizes
 concertizing
 concertmaster
 concertmasters
@@ -23230,6 +23229,7 @@ consul
 consulage
 consulary
 consularity
+concertizes
 consulate
 consulated
 curiouser
