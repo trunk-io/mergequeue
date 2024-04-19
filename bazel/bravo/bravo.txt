@@ -2270,6 +2270,7 @@ barbacan
 barbacoa
 belgae
 barbacoan
+bloc
 barbadian
 birdfarms
 bayards
@@ -11022,7 +11023,6 @@ bricklay
 blobbiness
 backed
 blobs
-bloc
 blocage
 block
 blockade
