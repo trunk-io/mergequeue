@@ -10131,7 +10131,6 @@ dinged
 dingee
 dingey
 discastle
-dissave
 dingeing
 dinghee
 dinghy
@@ -10829,6 +10828,7 @@ directorate
 dispartment
 directorates
 directory
+dissave
 directorial
 directorially
 departing
