@@ -4376,7 +4376,6 @@ adpress
 alchornea
 adpromissor
 adrad
-avo
 adradially
 adradius
 adramelech
@@ -10174,6 +10173,7 @@ ambulatorium
 ambulatoriums
 ambulomancy
 appoggiatura
+avo
 amburbial
 ambury
 ambuscade
