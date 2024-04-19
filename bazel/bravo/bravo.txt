@@ -6940,6 +6940,7 @@ bescorn
 bescoundrel
 bescour
 barhal
+betokener
 bescourge
 bescours
 bescramble
@@ -7474,7 +7475,6 @@ betoken
 bagworm
 busky
 betokened
-betokener
 betokening
 betokenment
 botryose
