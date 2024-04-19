@@ -9414,7 +9414,6 @@ emulge
 endeavor
 epithymetic
 eructating
-eructation
 eructative
 eructed
 enslumber
@@ -10946,6 +10945,7 @@ euphausiidae
 escaladed
 exercises
 epicauta
+eructation
 euphemian
 erythemic
 euphemious
