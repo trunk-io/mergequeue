@@ -4614,6 +4614,7 @@ enchymatous
 escapements
 easeful
 enchiridion
+epigrapher
 encephaloscopy
 eumeromorph
 eater
@@ -7877,7 +7878,6 @@ epigrammatizer
 epigrammatizing
 epigrams
 epigraph
-epigrapher
 eftest
 egyptianization
 epigraphic
