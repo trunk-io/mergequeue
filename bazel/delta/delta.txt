@@ -12386,7 +12386,6 @@ dishwashings
 dellaring
 dendrolite
 dishwatery
-dishwiper
 disidentify
 dysidrosis
 disilane
@@ -17379,6 +17378,7 @@ droopt
 drop
 desquamation
 dropax
+dishwiper
 dropberry
 dropcloth
 dropforge
