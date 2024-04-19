@@ -5612,7 +5612,6 @@ afterdeck
 afterdrain
 aftereffect
 aftereffects
-aftereye
 afterfame
 afterfeed
 afterform
@@ -11286,6 +11285,7 @@ amphoriloquy
 actinolite
 amphoriskoi
 amphoriskos
+aftereye
 amphorous
 alarming
 amphoteric
