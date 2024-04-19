@@ -9093,6 +9093,7 @@ allwhither
 allwork
 allworthy
 alma
+antu
 almacantar
 almacen
 almacenista
@@ -16548,7 +16549,6 @@ antsiest
 aground
 antsigne
 antthrush
-antu
 antum
 antwerp
 antwise
