@@ -13698,7 +13698,6 @@ cymiferous
 cymlin
 cymlings
 cymlins
-cimmaron
 charnel
 crematories
 cimmeria
@@ -25651,6 +25650,7 @@ correctioner
 corrections
 corrective
 correctively
+cimmaron
 correctiveness
 correctives
 correctness
