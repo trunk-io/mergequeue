@@ -9560,6 +9560,7 @@ escarpment
 enplanement
 epipodium
 escarpments
+eustatic
 eodiscid
 escarps
 escars
@@ -11198,7 +11199,6 @@ eustace
 eustachian
 eustacy
 eustathian
-eustatic
 eustele
 extradural
 extromit
