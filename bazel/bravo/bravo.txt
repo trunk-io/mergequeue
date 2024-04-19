@@ -2176,7 +2176,6 @@ banxring
 banzai
 beezer
 baobabs
-bap
 baphia
 baphometic
 bapistery
@@ -5890,6 +5889,7 @@ biunique
 bruin
 biogenetical
 berger
+bap
 bellypiece
 bombastically
 bellypinch
