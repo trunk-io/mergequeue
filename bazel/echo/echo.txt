@@ -6325,7 +6325,6 @@ enscroll
 ecotypic
 enscrolling
 envenomation
-enchalice
 enscrolls
 ensculpture
 ense
@@ -6981,6 +6980,7 @@ entranced
 entrancedly
 entrancement
 entrances
+enchalice
 entrants
 etherializing
 entrapment
