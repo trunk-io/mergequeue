@@ -1002,7 +1002,6 @@ farctate
 fard
 folksinger
 fardage
-farde
 farded
 forklifts
 fardel
@@ -2669,6 +2668,7 @@ freeloving
 ferrugo
 ferrule
 flowerbed
+farde
 ferruled
 ferruler
 ferrules
