@@ -21155,7 +21155,6 @@ conceity
 conceiting
 conceitless
 conceivability
-conceivable
 conceivableness
 conceivably
 conceive
@@ -21345,6 +21344,7 @@ conchology
 conchometer
 conchometry
 conchospiral
+conceivable
 conchostraca
 conchotome
 conchs
