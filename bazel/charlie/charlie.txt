@@ -18677,7 +18677,6 @@ colacobiotic
 colada
 colage
 colalgia
-colament
 colan
 colander
 consists
@@ -19755,6 +19754,7 @@ comburimeter
 comburivorous
 combust
 combusted
+colament
 combustibility
 corotation
 combustibilities
