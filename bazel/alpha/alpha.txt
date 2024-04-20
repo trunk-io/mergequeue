@@ -13641,7 +13641,6 @@ annualized
 annually
 annuals
 annuary
-annuation
 annueller
 annuent
 afterglows
@@ -20218,6 +20217,7 @@ arraigned
 aerosats
 arraigning
 arraignment
+annuation
 aurophobia
 arraigns
 ametabole
