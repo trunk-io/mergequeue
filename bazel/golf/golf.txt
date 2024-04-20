@@ -2430,7 +2430,6 @@ gelatinoid
 gadbee
 gaelicize
 gelation
-greaves
 gardon
 gastroenteroptosis
 glunching
@@ -4970,6 +4969,7 @@ galaxian
 grabbed
 gladiator
 gladiatorial
+greaves
 gladiatorism
 genesiacal
 glutaric
