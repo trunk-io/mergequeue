@@ -15472,6 +15472,7 @@ clapboards
 clapcake
 clapdish
 clape
+cripply
 clapholt
 clapmatch
 clapnest
@@ -29183,7 +29184,6 @@ crippledom
 crippleness
 crippler
 cripples
-cripply
 capillarity
 crippling
 cripplingly
