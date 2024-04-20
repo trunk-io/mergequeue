@@ -2350,6 +2350,7 @@ achroodextrinase
 achroous
 achtehalber
 achtel
+amounts
 athetized
 achtelthaler
 abacisci
@@ -10996,7 +10997,6 @@ amount
 amounted
 amounter
 amounters
-amounts
 amouret
 amourist
 allocaffeine
