@@ -7981,7 +7981,6 @@ cestoi
 cestoid
 chamberwoman
 cestoidea
-coronize
 cestoidean
 cestoids
 ceston
@@ -9232,6 +9231,7 @@ chasable
 chase
 chaseable
 chased
+coronize
 corbeilles
 chasers
 chases
