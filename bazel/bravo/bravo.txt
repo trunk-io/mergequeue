@@ -1731,7 +1731,6 @@ balsamine
 balsaming
 balsamitic
 balsamiticness
-balsamize
 balsamorrhiza
 balsamroot
 balsams
@@ -7329,6 +7328,7 @@ ballasted
 barkevikitic
 bestrut
 borasqueborate
+balsamize
 bestsellerdom
 bestsellers
 boarstaff
