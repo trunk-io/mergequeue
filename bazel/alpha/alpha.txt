@@ -4882,7 +4882,6 @@ aggrieves
 aeq
 aequi
 arariba
-aequiculi
 aequipalpia
 aequor
 aequoreal
@@ -14529,6 +14528,7 @@ ardelio
 aeron
 anthraflavic
 anthragallol
+aequiculi
 anthrahydroquinone
 androgynism
 anthramine
