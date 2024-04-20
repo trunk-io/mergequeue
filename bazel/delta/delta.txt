@@ -5772,7 +5772,6 @@ deployments
 deftest
 deplorabilia
 deplorability
-depolymerizing
 deplorableness
 deplorably
 deplorate
@@ -9331,6 +9330,7 @@ dishonored
 dyewood
 dyewoods
 diezeugmenon
+depolymerizing
 dif
 diferrion
 diffame
