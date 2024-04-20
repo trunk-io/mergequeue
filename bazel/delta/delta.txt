@@ -8162,7 +8162,6 @@ defiladed
 diaconal
 dopaoxidase
 diaconica
-diaconicum
 diaconus
 diacope
 diacoustics
@@ -14678,6 +14677,7 @@ disaccharidase
 docket
 docketed
 diakineses
+diaconicum
 docketing
 dockets
 dockhand
