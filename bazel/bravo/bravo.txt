@@ -8310,7 +8310,6 @@ bifocal
 bifocals
 buffbar
 bifoil
-bifold
 bifolia
 bifoliate
 brant
@@ -10356,6 +10355,7 @@ blanches
 blanchimeter
 blanching
 blancmange
+bifold
 besnows
 blancmanges
 bland
