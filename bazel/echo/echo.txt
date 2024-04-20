@@ -3210,7 +3210,6 @@ envigor
 elvan
 ethnographic
 elvanitic
-elvers
 elvet
 elvis
 elvishly
@@ -11755,6 +11754,7 @@ exalting
 exhilarate
 exaltment
 expunge
+elvers
 exalts
 exam
 examen
