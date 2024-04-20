@@ -4599,7 +4599,6 @@ becurses
 becursing
 becurst
 basommatophorous
-becurtained
 blubbering
 becushioned
 bed
@@ -10670,6 +10669,7 @@ bled
 blee
 bleed
 bleeder
+becurtained
 bleeders
 boottopping
 biferous
