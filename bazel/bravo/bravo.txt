@@ -8819,7 +8819,6 @@ binaural
 binauricular
 bind
 binderies
-binders
 banjos
 bulliest
 binding
@@ -12461,6 +12460,7 @@ brushite
 boneshaker
 backbeat
 boneshaw
+binders
 bonetail
 bonetta
 bonewood
