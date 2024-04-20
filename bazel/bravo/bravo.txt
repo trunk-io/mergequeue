@@ -3588,6 +3588,7 @@ bathymetrical
 bathinette
 bathing
 bulreedy
+blockhouse
 bathypelagic
 bastinadoes
 babesiasis
@@ -11049,7 +11050,6 @@ blockheadism
 blockheads
 brained
 blockholer
-blockhouse
 blockhouses
 bawbees
 beveto
