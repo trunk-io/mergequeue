@@ -15558,6 +15558,7 @@ clarissa
 cufflinks
 counterraising
 certification
+cognomen
 continuist
 costrel
 censorate
@@ -18387,7 +18388,6 @@ cognizer
 cognizes
 cognizing
 cognizor
-cognomen
 cognomens
 chelonidae
 cognominal
