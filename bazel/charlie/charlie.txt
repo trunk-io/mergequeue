@@ -17871,7 +17871,6 @@ codilla
 codille
 coding
 codings
-codiniac
 codirected
 codirecting
 codirector
@@ -28158,6 +28157,7 @@ craniopathy
 craniopathic
 craniopharyngeal
 craniophore
+codiniac
 cranioplasty
 craniorhachischisis
 countercheck
