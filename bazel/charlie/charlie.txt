@@ -11610,6 +11610,7 @@ cholecystorrhaphy
 cholecystostomy
 cholecystostomies
 cholecystotomy
+cobbier
 cholecystotomies
 choledoch
 choledochal
@@ -25330,7 +25331,6 @@ corncribs
 corncrusher
 corncutter
 curculionist
-cobbier
 corndodger
 cornea
 corneagen
