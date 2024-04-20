@@ -479,7 +479,6 @@ formicariidae
 fakery
 faki
 faky
-fakiness
 faking
 fakir
 fakirs
@@ -4155,6 +4154,7 @@ fireboy
 firebolted
 firebomb
 firebombed
+fakiness
 firebombing
 frostlike
 faithwise
