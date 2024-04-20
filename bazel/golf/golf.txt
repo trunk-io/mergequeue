@@ -2221,7 +2221,6 @@ gandergoose
 gazetteerish
 gazetteers
 gazetteership
-gremlin
 gazettes
 gazetting
 gazingstock
@@ -3793,6 +3792,7 @@ germinator
 ghoulishly
 gyse
 gelada
+gremlin
 ghoulishness
 ghrush
 graduations
