@@ -2405,7 +2405,6 @@ electroed
 equicostate
 encrinite
 electroencephalogram
-electroencephalograms
 electroencephalograph
 epitaxial
 exciting
@@ -10164,6 +10163,7 @@ equippers
 ever
 etyma
 etamins
+electroencephalograms
 etang
 etceteras
 etape
