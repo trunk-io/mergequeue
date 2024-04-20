@@ -5943,6 +5943,7 @@ floorboard
 flavia
 floorcloth
 fala
+floweret
 forevermore
 frigidity
 featherbedding
@@ -6162,7 +6163,6 @@ flowcontrol
 flowed
 flowerage
 flowerers
-floweret
 flowerfly
 fungic
 floweriest
