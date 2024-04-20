@@ -11100,6 +11100,7 @@ chitchat
 chitchats
 chitchatted
 chitchatty
+cyclicly
 chitchatting
 chithe
 chitimacha
@@ -13321,7 +13322,6 @@ cyclically
 cyclicalness
 cyclicism
 cyclicity
-cyclicly
 cyclide
 cubeb
 cyclindroid
