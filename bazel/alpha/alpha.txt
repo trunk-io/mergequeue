@@ -2680,7 +2680,6 @@ acousticophobia
 acoustoelectric
 acpt
 acquaint
-acquaintances
 acquaintanceship
 acquaintanceships
 asymmetrocarpous
@@ -6615,6 +6614,7 @@ ahead
 aheap
 ahey
 attenuating
+acquaintances
 aheight
 abjure
 astronomic
