@@ -2351,7 +2351,6 @@ gaits
 geyan
 griseofulvin
 gorgonacean
-geic
 geyerite
 geiger
 gangrel
@@ -6112,6 +6111,7 @@ gnosticize
 glusid
 gluside
 glutamate
+geic
 geodesics
 glutamic
 glutaminase
