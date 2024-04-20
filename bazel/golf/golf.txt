@@ -4529,7 +4529,6 @@ giornata
 giovanni
 giardia
 gip
-gypaetus
 gype
 gipon
 ghoul
@@ -5249,6 +5248,7 @@ gregos
 gleamier
 gleamiest
 gleamily
+gypaetus
 gleaminess
 gerardia
 gleaming
