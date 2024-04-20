@@ -5732,7 +5732,6 @@ glomerular
 gregau
 glomerulate
 glomerule
-glomerulitis
 glomerulonephritis
 giftware
 glomerulose
@@ -6483,6 +6482,7 @@ goggly
 gavialis
 greenwort
 gunnera
+glomerulitis
 gogglier
 goggliest
 goggling
