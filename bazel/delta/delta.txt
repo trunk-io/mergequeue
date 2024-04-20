@@ -1910,7 +1910,6 @@ debunks
 disedify
 deburr
 drunks
-deburse
 debus
 debused
 debusing
@@ -14573,6 +14572,7 @@ daunomycin
 dl
 dlr
 dlvy
+deburse
 didymium
 dm
 dmarche
