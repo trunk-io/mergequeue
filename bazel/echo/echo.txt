@@ -3213,7 +3213,6 @@ eluviums
 envigor
 eluxate
 elvan
-elvanite
 ethnographic
 elvanitic
 elvers
@@ -9293,6 +9292,7 @@ erosivity
 erostrate
 erotema
 eroteme
+elvanite
 erotesis
 enjambements
 erotic
