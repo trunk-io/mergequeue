@@ -1785,7 +1785,6 @@ gluts
 gastroenteroanastomosis
 gastroenterocolostomy
 gastroenterology
-gelatination
 gastroenterologic
 gastroenterological
 gastroenterologically
@@ -8743,6 +8742,7 @@ get
 grammatophyllum
 gair
 gregarinidal
+gelatination
 grim
 gregariniform
 gregarinina
