@@ -3953,7 +3953,6 @@ adipomatous
 adipometer
 adiponitrile
 axial
-adipopectic
 adipopexia
 adipopexic
 adipopexis
@@ -8314,6 +8313,7 @@ aplanat
 aliform
 aligerous
 alight
+adipopectic
 afterplay
 alighted
 alighting
