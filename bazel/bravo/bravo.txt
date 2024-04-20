@@ -3081,7 +3081,6 @@ basalt
 bacteriofluorescin
 basaltes
 boroughlet
-basaltine
 balsamy
 bodilessness
 basalts
@@ -9495,6 +9494,7 @@ bullshitted
 birlieman
 birling
 birlings
+basaltine
 birls
 birma
 birmingham
