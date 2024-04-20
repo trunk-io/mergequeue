@@ -2858,7 +2858,6 @@ barracan
 barrace
 barrack
 barracked
-barracker
 barracking
 barraclade
 barracoon
@@ -5981,6 +5980,7 @@ bels
 belshazzar
 belsire
 beltane
+barracker
 bactericholia
 bimetalic
 beltcourse
