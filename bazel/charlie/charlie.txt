@@ -8791,6 +8791,7 @@ chanteyman
 chantepleure
 chanterelle
 chanters
+coinhering
 chantership
 chanteur
 chanteuse
@@ -18598,7 +18599,6 @@ coinhere
 coinhered
 coinherence
 coinherent
-coinhering
 coinheritance
 coinheritor
 coiny
