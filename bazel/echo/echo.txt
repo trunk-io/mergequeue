@@ -5009,6 +5009,7 @@ endoauscultation
 endobatholithic
 endoblast
 endoblastic
+exauthorize
 extensionally
 endobronchial
 embryoscopic
@@ -7540,7 +7541,6 @@ eyebrow
 epicarides
 echinostomatidae
 epicarp
-exauthorize
 epicarps
 espiglerie
 epicede
