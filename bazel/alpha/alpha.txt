@@ -4810,7 +4810,6 @@ aegipan
 aegyptilla
 agonisingly
 aegir
-aegirine
 aegirinolite
 aegirite
 aegyrite
@@ -15852,6 +15851,7 @@ automobiling
 agura
 andradite
 antipestilent
+aegirine
 antipestilential
 antipestilently
 antipetalous
