@@ -3507,7 +3507,6 @@ captured
 captures
 capturing
 capuan
-cadging
 capuche
 capuched
 capuchins
@@ -22004,6 +22003,7 @@ confine
 confineable
 confined
 chalcophile
+cadging
 confinedly
 confinedness
 confineless
