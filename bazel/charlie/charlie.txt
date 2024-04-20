@@ -9485,6 +9485,7 @@ chazzanut
 chazzenim
 chazzens
 che
+catalogue
 cyclene
 cheap
 cheapen
@@ -16777,7 +16778,6 @@ cloudbursts
 cloudcap
 cloudful
 cloudy
-catalogue
 cloudiest
 cloudily
 cloudiness
