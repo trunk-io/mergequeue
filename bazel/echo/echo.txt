@@ -5328,7 +5328,6 @@ evocatory
 endotheliomas
 endotheliomata
 ecphory
-envassalage
 economically
 endotheliomyoma
 esquiline
@@ -13304,6 +13303,7 @@ exposed
 exposedness
 exposes
 exposing
+envassalage
 exposit
 expositing
 esthesiometry
