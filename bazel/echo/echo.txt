@@ -10443,7 +10443,6 @@ ethnicity
 ethnish
 ethnobiological
 elingued
-ethnobotanic
 egotize
 ethnobotanist
 ethnocentric
@@ -12926,6 +12925,7 @@ expatiate
 expatiates
 expatiating
 expatiation
+ethnobotanic
 estragol
 expatiations
 expatiative
