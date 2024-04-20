@@ -1256,6 +1256,7 @@ grazers
 ganzie
 guffin
 gaol
+guar
 gynostegium
 gaoled
 guiltier
@@ -9427,7 +9428,6 @@ groundenell
 grounders
 groundhog
 groundy
-guar
 gunnies
 groundless
 groundlessly

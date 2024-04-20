@@ -14131,7 +14131,6 @@ anteceding
 antispermotoxin
 antecessor
 antechamber
-anelastic
 alonso
 antechambers
 antechapel
@@ -16207,6 +16206,7 @@ ascertainable
 antisepticized
 archine
 antisepticizing
+anelastic
 antiseptics
 advection
 autolysin
