@@ -4648,7 +4648,6 @@ ephahs
 encyclopedial
 encyclopedian
 encyclopedias
-encamp
 encyclopedic
 encyclopedical
 expulsions
@@ -4956,6 +4955,7 @@ enclosing
 entosarc
 endermatic
 expediate
+encamp
 endermic
 endogastric
 enderon
