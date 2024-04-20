@@ -1233,7 +1233,6 @@ extremal
 eeyuch
 equiv
 eel
-eelback
 eelboat
 epigrammatise
 eelbobber
@@ -4575,6 +4574,7 @@ enchasten
 encheason
 encheer
 enchelycephali
+eelback
 elliott
 enchequer
 encheson
