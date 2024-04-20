@@ -10683,7 +10683,6 @@ amioidei
 amyosthenic
 amyotonia
 amyotrophia
-amyotrophic
 amir
 amiray
 averting
@@ -12414,6 +12413,7 @@ androgynies
 androgynous
 androgynus
 androgone
+amyotrophic
 ascidia
 androgonial
 androgonidium
