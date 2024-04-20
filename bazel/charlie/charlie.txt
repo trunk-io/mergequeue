@@ -19934,7 +19934,6 @@ coml
 conjugating
 comm
 commaes
-ceduous
 command
 commandable
 commandant
@@ -20830,6 +20829,7 @@ composed
 croupily
 composedly
 composedness
+ceduous
 composer
 composing
 composita
