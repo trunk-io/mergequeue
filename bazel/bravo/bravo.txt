@@ -64,6 +64,7 @@ babeldom
 babelet
 babelish
 burnetize
+bluestoner
 babelism
 bongar
 bendell
@@ -11427,7 +11428,6 @@ bluestocking
 bluestockingish
 bethreaten
 bluestockings
-bluestoner
 blowhards
 blueth
 bluetit
