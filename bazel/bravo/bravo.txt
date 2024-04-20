@@ -3843,7 +3843,6 @@ bishopship
 batz
 batzen
 barreler
-baubee
 baubees
 bethunder
 bauble
@@ -9867,6 +9866,7 @@ bimbos
 bitmapped
 bitnet
 bito
+baubee
 bicalvous
 bitonalities
 brasilete
