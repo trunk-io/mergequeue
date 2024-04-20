@@ -9439,7 +9439,6 @@ birdsnest
 birdstone
 basichromatic
 browpiece
-bereavement
 braider
 bungs
 birdwise
@@ -12249,6 +12248,7 @@ boltspreet
 boltwork
 bolus
 boluses
+bereavement
 benn
 bomb
 bombable
