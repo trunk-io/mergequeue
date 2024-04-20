@@ -13991,7 +13991,6 @@ anser
 autocephaly
 anserated
 anseres
-anseriformes
 anserine
 ashen
 argalis
@@ -23867,6 +23866,7 @@ autoallogamous
 autoanalysis
 autoanalytic
 autoantibody
+anseriformes
 autoanticomplement
 autoasphyxiation
 apologetically
