@@ -1337,7 +1337,6 @@ balboas
 botrylle
 bulgarian
 balbusard
-buffbar
 butterbump
 balconet
 balconette
@@ -8321,6 +8320,7 @@ biflorate
 bifluoride
 bifocal
 bifocals
+buffbar
 bifoil
 bifold
 bifolia
