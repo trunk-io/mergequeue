@@ -1765,7 +1765,6 @@ gastroduodenal
 gracilaria
 gastroduodenitis
 gametophagia
-gastroduodenoscopy
 gastroduodenostomy
 gastroduodenostomies
 gastroelytrotomy
@@ -4500,6 +4499,7 @@ gaultheria
 gynecic
 ginnet
 ginnier
+gastroduodenoscopy
 ginnings
 gynobase
 gynobaseous
