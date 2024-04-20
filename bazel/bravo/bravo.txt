@@ -6069,7 +6069,6 @@ bravery
 burnewin
 bandlimited
 bemirror
-bemist
 biltongue
 businessman
 bemisted
@@ -7419,6 +7418,7 @@ betes
 bethanked
 bethanking
 bethankit
+bemist
 bethanks
 bethel
 blunter
