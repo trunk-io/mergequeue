@@ -2732,7 +2732,6 @@ forerunnership
 fervency
 fervencies
 fervent
-fervently
 forecasting
 firebote
 furosemide
@@ -11232,6 +11231,7 @@ fungicides
 fungicolous
 fungiferous
 formability
+fervently
 feneration
 fungin
 fungistat
