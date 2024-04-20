@@ -3495,6 +3495,7 @@ guerdonable
 gerontine
 garten
 gorkun
+goosecap
 geronto
 gerontocracy
 gerontocracies
@@ -5535,7 +5536,6 @@ goi
 gunl
 glyptodon
 glyptodont
-goosecap
 grandness
 grounding
 glyptodontoid
