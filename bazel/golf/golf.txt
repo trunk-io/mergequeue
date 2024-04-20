@@ -5194,7 +5194,6 @@ gymnospermae
 glaucochroite
 gnatflower
 glassteel
-gnathic
 guestship
 glasswork
 gutturality
@@ -6269,6 +6268,7 @@ gneu
 gnide
 gnome
 gnomed
+gnathic
 gnomes
 gnomesque
 gnomical
