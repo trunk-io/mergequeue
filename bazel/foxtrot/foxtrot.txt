@@ -1761,7 +1761,6 @@ feasters
 formants
 feastful
 feastfully
-feasting
 feastly
 feastraw
 feateous
@@ -4820,6 +4819,7 @@ formative
 flagstaff
 fainer
 factorylike
+feasting
 fustigate
 floor
 formalin
