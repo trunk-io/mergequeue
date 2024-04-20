@@ -5634,7 +5634,6 @@ afterfruits
 ascomata
 afterfuture
 anadem
-aftergame
 aftergas
 afterglide
 afterglow
@@ -21317,6 +21316,7 @@ askapart
 askari
 askaris
 asked
+aftergame
 asker
 askers
 askeses
