@@ -717,7 +717,6 @@ famousness
 famp
 fixating
 froes
-famulary
 famuli
 famulli
 fan
@@ -3594,6 +3593,7 @@ fb
 fains
 fiked
 frangipanni
+famulary
 frightful
 filamentary
 fikey
