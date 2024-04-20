@@ -6774,7 +6774,6 @@ flightshot
 fogo
 fogon
 frenzic
-fogou
 fogproof
 fogram
 fogramity
@@ -7528,6 +7527,7 @@ faraon
 foreappoint
 foreappointment
 franklinite
+fogou
 forearms
 foreassign
 foreassurance
