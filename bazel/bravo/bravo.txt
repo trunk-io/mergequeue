@@ -1260,7 +1260,6 @@ balancers
 balancing
 balander
 balandrana
-balaneutics
 balangay
 balanidae
 boose
@@ -6185,6 +6184,7 @@ bends
 blastodisk
 bendwise
 beneception
+balaneutics
 beneceptor
 benedicite
 benedicks
