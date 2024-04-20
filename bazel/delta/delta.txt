@@ -5028,6 +5028,7 @@ demotists
 demount
 demountability
 demountable
+dewclaw
 demounting
 demounts
 disgage
@@ -7863,7 +7864,6 @@ dewberry
 deadtongue
 dewberries
 dewcap
-dewclaw
 dewclawed
 dewclaws
 dewcup
