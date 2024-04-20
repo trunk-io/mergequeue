@@ -778,7 +778,6 @@ gujar
 galvanizes
 galvanizing
 galvanocauteries
-galvanofaradization
 galvanoglyph
 glycid
 gerbillinae
@@ -3403,6 +3402,7 @@ germanomaniac
 germanophile
 gritten
 granat
+galvanofaradization
 germanophilist
 gapes
 germanophobia
