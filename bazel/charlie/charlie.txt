@@ -4760,7 +4760,6 @@ carpophore
 carpopodite
 carpopoditic
 carpoptosia
-carpoptosis
 carport
 carpos
 chibouk
@@ -27466,6 +27465,7 @@ couxia
 covado
 covalences
 covalency
+carpoptosis
 coriander
 corallike
 covalent
