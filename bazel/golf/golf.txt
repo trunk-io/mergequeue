@@ -5642,6 +5642,7 @@ globicephala
 gorsier
 globiferous
 globigerina
+gillot
 globigerinae
 grunerite
 globigerinas
@@ -6232,7 +6233,6 @@ gnathopodous
 gnathostomata
 gnathostome
 gnathotheca
-gillot
 gnatlike
 glyptographic
 gnats
