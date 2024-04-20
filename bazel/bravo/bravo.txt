@@ -5511,7 +5511,6 @@ behooves
 behooving
 behorn
 bacterioprotein
-behorror
 bellmaster
 bilabe
 behoved
@@ -7413,6 +7412,7 @@ beteach
 brazera
 borides
 barways
+behorror
 betear
 backflip
 beteela
