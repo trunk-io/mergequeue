@@ -2418,7 +2418,6 @@ gelatinizable
 graphometer
 gelatinization
 gruppetto
-gelatinized
 gelatinizer
 gallanting
 gelatinobromide
@@ -9331,6 +9330,7 @@ gloved
 gozell
 guilt
 groovier
+gelatinized
 grooviest
 grope
 gropers
