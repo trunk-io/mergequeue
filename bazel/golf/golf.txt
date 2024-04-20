@@ -480,7 +480,6 @@ galeodes
 galeodidae
 galeoid
 gnapweed
-galeopsis
 glossoncus
 galeorchis
 goner
@@ -6656,6 +6655,7 @@ goliardic
 goliards
 garble
 geocentricism
+galeopsis
 goliath
 goliathize
 gith
