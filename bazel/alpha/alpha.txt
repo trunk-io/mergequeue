@@ -955,7 +955,6 @@ absis
 absist
 absistos
 absit
-absohm
 absoil
 antient
 absolent
@@ -16327,6 +16326,7 @@ antisudoral
 awarding
 antisudorific
 antisuffrage
+absohm
 antisuffragist
 antisun
 antisupernatural
