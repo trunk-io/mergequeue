@@ -11501,7 +11501,6 @@ choicelessness
 choicely
 choiceness
 caryatides
-choicer
 choicest
 choicy
 choicier
@@ -27633,6 +27632,7 @@ cowheart
 cowhearted
 cowheel
 cowherb
+choicer
 cowherbs
 cowherds
 clavicornate
