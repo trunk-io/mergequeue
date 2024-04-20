@@ -3746,6 +3746,7 @@ franchisal
 flywort
 foreleech
 fledges
+fermental
 fillable
 fillagreed
 fillemot
@@ -8253,7 +8254,6 @@ forgave
 forge
 forgeability
 forgeable
-fermental
 forgery
 forgeries
 forges
