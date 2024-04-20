@@ -20989,7 +20989,6 @@ comptness
 comptoir
 comptometer
 comptonia
-comptonite
 cabda
 comptrol
 comptroller
@@ -27465,6 +27464,7 @@ coriander
 corallike
 covalent
 covalently
+comptonite
 carnaubic
 covarecas
 covary
