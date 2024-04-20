@@ -3943,6 +3943,7 @@ biocoenosis
 bawn
 bawneen
 bawra
+bestial
 barrow
 bawrel
 badling
@@ -7255,7 +7256,6 @@ besteer
 bioflavonoid
 bestench
 bester
-bestial
 bestialise
 bullheadedly
 bestialised

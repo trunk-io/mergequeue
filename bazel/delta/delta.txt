@@ -637,7 +637,6 @@ daiquiris
 damnableness
 damnably
 declassed
-damned
 damnedest
 damner
 damners
@@ -10642,6 +10641,7 @@ diplopoda
 discorrespondent
 diplopodic
 divests
+damned
 diplopods
 diplopteryga
 diplopterous
