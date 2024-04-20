@@ -5274,6 +5274,7 @@ flb
 fant
 federacy
 flche
+forkmen
 flchette
 flimflam
 fld
@@ -8346,7 +8347,6 @@ forklift
 forklike
 forkman
 forswornness
-forkmen
 forks
 forksful
 forksmith
