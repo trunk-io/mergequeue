@@ -3515,6 +3515,7 @@ deforse
 diplomatic
 dinitrotoluene
 disapproving
+deprivate
 defrayable
 defrayal
 defrayals
@@ -6000,7 +6001,6 @@ deprivable
 deprival
 disprofit
 deprivals
-deprivate
 deprivation
 deprivative
 deprive
