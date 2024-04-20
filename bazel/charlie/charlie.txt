@@ -16260,7 +16260,6 @@ condensations
 cask
 clinicist
 clinicopathological
-clinicopathologically
 clinid
 clinkant
 clinker
@@ -24157,6 +24156,7 @@ convex
 convexedly
 convexedness
 convexes
+clinicopathologically
 convexity
 convexities
 convexly
