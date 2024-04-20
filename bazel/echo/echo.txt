@@ -2067,7 +2067,6 @@ elapids
 erotophobia
 euthyneural
 elapine
-elapoid
 elapse
 edificant
 englory
@@ -11133,6 +11132,7 @@ echafaudage
 eurytherm
 eurythermal
 eurithermophile
+elapoid
 eurithermophilic
 eurythermous
 eurythmic
