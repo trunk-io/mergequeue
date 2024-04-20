@@ -13634,7 +13634,6 @@ consignees
 ciliolum
 cilioretinal
 corenounce
-cilioscleral
 ciliotomy
 cilium
 cylix
@@ -24408,6 +24407,7 @@ cooperations
 chilognathan
 cooperative
 cooperatively
+cilioscleral
 cooperatives
 cooperator
 coopered
