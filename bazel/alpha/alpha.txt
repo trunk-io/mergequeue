@@ -10252,7 +10252,6 @@ anacrusis
 apocenter
 amelioration
 ameliorations
-ameliorativ
 ameliorative
 ameliorator
 amelioratory
@@ -10482,6 +10481,7 @@ aaa
 anlaute
 apollonia
 amidophosphoric
+ameliorativ
 amidoplast
 amaryllid
 amidoplastid
