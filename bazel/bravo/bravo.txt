@@ -12979,6 +12979,7 @@ bowsery
 bordermark
 bordman
 bordrag
+brevit
 bordrage
 biophysicochemical
 beringite
@@ -15072,7 +15073,6 @@ breviradiate
 brevirostral
 bugeyed
 brevis
-brevit
 brevity
 brevities
 backboneless

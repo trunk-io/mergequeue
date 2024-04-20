@@ -8487,6 +8487,7 @@ grazes
 gallimatia
 grazierdom
 graziery
+gurglet
 greenuk
 graziers
 grazing
@@ -10622,7 +10623,6 @@ grocerly
 gurgitation
 gurgled
 gurgles
-gurglet
 gaitt
 gurgling
 guardee
