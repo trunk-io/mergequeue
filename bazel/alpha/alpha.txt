@@ -14455,7 +14455,6 @@ anthologion
 anthologise
 anthologised
 anthologising
-anthologists
 anthologize
 anthologized
 aposporous
@@ -17692,6 +17691,7 @@ appeasing
 archenemies
 appeasingly
 affirmly
+anthologists
 ambrosia
 appel
 appellability
