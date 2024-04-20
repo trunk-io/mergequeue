@@ -785,7 +785,6 @@ dandruffs
 dane
 daneball
 danebrog
-domicilii
 delusters
 daneflower
 danegeld
@@ -16873,6 +16872,7 @@ diffidence
 drawoff
 drawout
 drawplate
+domicilii
 drawpoint
 draws
 drawsheet
