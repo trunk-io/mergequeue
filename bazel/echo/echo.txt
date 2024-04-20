@@ -4283,7 +4283,6 @@ emunctory
 electroencephalographic
 enlay
 emunctories
-emundation
 exostracism
 epigraphical
 emunge
@@ -9900,6 +9899,7 @@ essenis
 essenism
 essenize
 essentialism
+emundation
 essentialist
 essentiality
 essentialization
