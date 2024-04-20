@@ -21216,7 +21216,6 @@ ashram
 analyse
 ashrama
 ashstone
-ashthroat
 ashtoreth
 ashtray
 ashtrays
@@ -21653,6 +21652,7 @@ assausive
 assaut
 assbaa
 affixing
+ashthroat
 asse
 asseal
 assecuration
