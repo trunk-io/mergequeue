@@ -4929,6 +4929,7 @@ flameproofer
 flintlocks
 flamer
 flamers
+fluviomarine
 ferneries
 fallback
 flamethrowers
@@ -6583,7 +6584,6 @@ fluviatile
 fluvicoline
 fluviolacustrine
 fluviology
-fluviomarine
 florula
 fleetly
 fluvioterrestrial
