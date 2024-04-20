@@ -4602,7 +4602,6 @@ fellagha
 fitted
 fountful
 fibromas
-fittedness
 fitten
 fitters
 fitty
@@ -4839,6 +4838,7 @@ flayed
 fault
 front
 flaying
+fittedness
 flailed
 fluidify
 flivvers
