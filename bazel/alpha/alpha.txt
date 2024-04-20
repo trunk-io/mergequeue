@@ -8825,7 +8825,6 @@ ammonolyses
 allobroges
 allobrogical
 allocability
-allocable
 allocatable
 allocate
 allocatee
@@ -13741,6 +13740,7 @@ anodon
 auteciousness
 anodonta
 anodontia
+allocable
 abys
 anodos
 anoegenetic
