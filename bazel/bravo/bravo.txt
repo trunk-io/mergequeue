@@ -5910,6 +5910,7 @@ befilch
 bellowslike
 belted
 bellowsmaker
+buttress
 bellowsmaking
 brassie
 bellowsman
@@ -18335,7 +18336,6 @@ boulle
 buttons
 buttonweed
 buttonwood
-buttress
 buttressed
 buttressing
 buttressless
