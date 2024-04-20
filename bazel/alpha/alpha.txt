@@ -6772,6 +6772,7 @@ ailments
 ails
 allemandes
 acarol
+autosign
 ailsyte
 ailuridae
 ailuro
@@ -24364,7 +24365,6 @@ autoserotherapy
 autosexing
 autosight
 albuminuric
-autosign
 autosymbolic
 autosymbolical
 autosymbolically

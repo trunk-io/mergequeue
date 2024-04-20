@@ -2388,7 +2388,6 @@ electrodialyze
 ecospecies
 electrodynamic
 electrodynamics
-electrodynamism
 electrodiplomatic
 eumenidean
 electroed
@@ -2882,6 +2881,7 @@ erigenia
 elhi
 etches
 elian
+electrodynamism
 elianic
 ephippial
 elias
