@@ -12518,7 +12518,6 @@ anemochorous
 anemoclastic
 anemogram
 appropriated
-anemograph
 anemography
 anemographically
 anemology
@@ -14397,6 +14396,7 @@ anthesis
 aftergrass
 alkahests
 adrop
+anemograph
 anthesteriac
 autarkik
 antepreterit
