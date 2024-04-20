@@ -7639,7 +7639,6 @@ exocrine
 everduring
 enterohelcosis
 epicormic
-epicorolline
 epicortical
 epicostal
 enterogastritis
@@ -8559,6 +8558,7 @@ equation
 equational
 equationally
 equationist
+epicorolline
 essentia
 emperies
 equative
