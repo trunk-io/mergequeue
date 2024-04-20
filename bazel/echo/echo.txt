@@ -7331,7 +7331,6 @@ epanalepsis
 evanition
 escruage
 enolize
-enable
 epanaphora
 emission
 epanisognathism
@@ -8725,6 +8724,7 @@ estreats
 equipondious
 equipostile
 etoiles
+enable
 ensiferi
 equipotential
 equipotentiality
