@@ -17392,7 +17392,6 @@ cobitidae
 careerist
 coauthered
 coauthor
-coauthoring
 connectedness
 coauthority
 coauthors
@@ -19166,6 +19165,7 @@ colloid
 caseconv
 cinerins
 colloidal
+coauthoring
 catchers
 colloidality
 colloider
