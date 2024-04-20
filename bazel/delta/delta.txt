@@ -6533,6 +6533,7 @@ degradedness
 dactyliomancy
 describable
 described
+dolous
 describers
 describes
 descried
@@ -7296,7 +7297,6 @@ deterrent
 deterrently
 deterrents
 djelfa
-dolous
 deters
 daylighting
 detersiveness
