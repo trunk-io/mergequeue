@@ -4188,7 +4188,6 @@ delint
 dacryohelcosis
 delinter
 deliquate
-deliquesces
 deliquescing
 deliquiate
 deliquiesce
@@ -8455,6 +8454,7 @@ diamantiferous
 ditrochee
 deluding
 diamantoid
+deliquesces
 diamat
 diamber
 diambic
