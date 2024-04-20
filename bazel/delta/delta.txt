@@ -1516,7 +1516,6 @@ dryopithecinae
 deadliness
 deadlock
 deadlocking
-dantist
 deadman
 dipus
 diffusibly
@@ -8238,6 +8237,7 @@ diagnosticated
 diagnosticating
 diagnostication
 diagnostician
+dantist
 diagnosticians
 diagnostics
 diagometer
