@@ -4898,7 +4898,6 @@ endboard
 endbrains
 extemporaneous
 enddamaging
-enantiomorphism
 ende
 endear
 energistic
@@ -12979,6 +12978,7 @@ expectorators
 extill
 expeded
 expedience
+enantiomorphism
 evocativeness
 expediente
 entice
