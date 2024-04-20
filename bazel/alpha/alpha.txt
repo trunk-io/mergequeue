@@ -7578,7 +7578,6 @@ albuminoscope
 atlantoaxial
 albuminose
 albuminosis
-avulsions
 albuminous
 albuminousness
 albumins
@@ -21162,6 +21161,7 @@ ashes
 ashy
 automatist
 adermia
+avulsions
 ashier
 ashiest
 ashily
