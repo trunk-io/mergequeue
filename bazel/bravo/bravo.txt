@@ -11578,7 +11578,6 @@ boardbill
 boarded
 bibulosity
 boarder
-brotula
 boarders
 boardinghouse
 boardings
@@ -15760,6 +15759,7 @@ broken
 brokenheartedly
 binder
 buddha
+brotula
 beaconing
 bullheadedness
 boletic
