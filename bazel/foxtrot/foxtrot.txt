@@ -55,6 +55,7 @@ faceable
 facebar
 facebow
 firestone
+foochowese
 faced
 foreladies
 faceharden
@@ -7075,7 +7076,6 @@ fontinas
 fontlet
 foredate
 fonts
-foochowese
 froisse
 food
 foodful
