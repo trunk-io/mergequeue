@@ -4342,7 +4342,6 @@ adorner
 adorners
 adorning
 algaesthesis
-adorningly
 adornment
 armamentaria
 adornments
@@ -7934,6 +7933,7 @@ alepole
 alepot
 allantoic
 american
+adorningly
 administered
 aleppo
 alerce
