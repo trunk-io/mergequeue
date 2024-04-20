@@ -3013,7 +3013,6 @@ few
 fewest
 fewmand
 flossy
-fingian
 foreflap
 fetis
 forestside
@@ -10351,6 +10350,7 @@ frogmen
 frognose
 fruticant
 fleshly
+fingian
 frogs
 frogskin
 frogwort
