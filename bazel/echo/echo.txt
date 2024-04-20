@@ -10898,7 +10898,6 @@ elocutioner
 effs
 eumorphic
 engenderer
-eunicid
 encasserole
 eunicidae
 eunomy
@@ -12584,6 +12583,7 @@ exines
 exing
 exinguinal
 exinite
+eunicid
 exintine
 euphemy
 endsweep
