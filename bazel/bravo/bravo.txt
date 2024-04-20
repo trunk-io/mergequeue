@@ -7420,7 +7420,6 @@ buttwood
 blacklegs
 betelgeuse
 bircher
-batitinan
 betell
 bambuba
 betelnut
@@ -16367,6 +16366,7 @@ becharms
 brushed
 booted
 brushes
+batitinan
 brushet
 boorishly
 brushful
