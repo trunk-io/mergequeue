@@ -6580,7 +6580,6 @@ golden
 geryoniidae
 goldenback
 goldeney
-gusseted
 gauger
 goldeneyes
 goldener
@@ -6788,6 +6787,7 @@ gammaridae
 gambolled
 glowed
 gonfalons
+gusseted
 gonfanon
 gong
 gunreach
