@@ -11097,7 +11097,6 @@ chitlings
 chewstick
 cowpath
 candours
-chitlins
 calamus
 charvet
 closured
@@ -26572,6 +26571,7 @@ coughs
 coughwort
 could
 coul
+chitlins
 candleberry
 conterminal
 coulage
