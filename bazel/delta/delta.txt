@@ -5735,7 +5735,6 @@ deplane
 deplaned
 deplaning
 deplant
-deplantation
 disvertebrate
 deplasmolysis
 desterilized
@@ -6735,6 +6734,7 @@ desinent
 dallying
 desinential
 desynonymize
+deplantation
 deadens
 deracinated
 dogbodies
