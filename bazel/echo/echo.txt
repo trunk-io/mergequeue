@@ -11507,7 +11507,6 @@ evergreens
 every
 everyday
 everydayness
-emotionlessness
 everyhow
 everylike
 everyman
@@ -12409,6 +12408,7 @@ entozoan
 elpidite
 exertion
 exertionless
+emotionlessness
 emictory
 exertions
 exertive
