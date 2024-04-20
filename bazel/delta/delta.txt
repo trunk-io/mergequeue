@@ -2668,7 +2668,6 @@ detectaphone
 decompressive
 decelerating
 downwarp
-dotardy
 deconcatenate
 deconcentrate
 deconcentrated
@@ -3299,6 +3298,7 @@ disfavored
 defibrillatory
 defibrinate
 defibrinize
+dotardy
 democritean
 discomfortableness
 deficiency
