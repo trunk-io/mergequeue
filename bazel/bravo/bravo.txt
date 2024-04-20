@@ -4872,7 +4872,6 @@ bedstraw
 bedstraws
 bedstring
 bedswerver
-bedtick
 bices
 branchiurous
 bate
@@ -8753,6 +8752,7 @@ bundt
 bodysurf
 bimanual
 bournless
+bedtick
 bimanually
 bimas
 bimasty

@@ -6003,7 +6003,6 @@ enlinkment
 enlist
 enlisted
 excursionize
-enlistees
 enlister
 enlistment
 enlistments
@@ -7665,6 +7664,7 @@ epicrasis
 electees
 epicrates
 epicrises
+enlistees
 epicrisis
 engagingly
 epics
