@@ -8496,7 +8496,6 @@ chamaepericlymenum
 chamaephyte
 chamaeprosopic
 chamaerops
-chamaerrhine
 chamaesaura
 chamaesyce
 chamaesiphonaceae
@@ -21834,6 +21833,7 @@ conepates
 conepatl
 conepatls
 coner
+chamaerrhine
 capsicin
 circumnutatory
 counterpaly
