@@ -3774,7 +3774,6 @@ emendated
 ekerite
 escutcheon
 emendates
-emendating
 emendations
 esthetical
 emendator
@@ -5243,6 +5242,7 @@ entopterygoid
 endorsation
 endorsed
 endorsee
+emendating
 endorsees
 echinologist
 endorser
