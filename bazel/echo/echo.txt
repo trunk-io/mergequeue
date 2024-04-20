@@ -5861,7 +5861,6 @@ escrol
 ectozoic
 enhuile
 enhunger
-enhungered
 electromyographical
 enid
 emissary
@@ -12872,6 +12871,7 @@ exoticness
 exotics
 exotism
 exotoxic
+enhungered
 exotoxins
 ecomomist
 emigrate
