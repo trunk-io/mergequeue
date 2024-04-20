@@ -2871,6 +2871,7 @@ elflike
 elflock
 elflocks
 elfship
+envisages
 elfwife
 elfwort
 erigenia
@@ -7142,7 +7143,6 @@ envisage
 envisaged
 experimentations
 envisagement
-envisages
 envisaging
 emulable
 envision
