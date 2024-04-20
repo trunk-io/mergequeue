@@ -2650,7 +2650,6 @@ expurgates
 epiperipheral
 electrothermic
 electrothermics
-enschedule
 enrapturer
 entrainer
 endomycetaceae
@@ -4936,6 +4935,7 @@ endemial
 engorges
 endemical
 endemically
+enschedule
 endemicity
 electrofused
 endemiology
