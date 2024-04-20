@@ -13665,7 +13665,6 @@ bousouki
 bousoukia
 biomass
 bousoukis
-boussingaultia
 boussingaultite
 boustrophedon
 bloomer
@@ -14239,6 +14238,7 @@ braggish
 braggishly
 braggite
 braggle
+boussingaultia
 bragi
 bragite
 bird
