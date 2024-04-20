@@ -2085,7 +2085,6 @@ acetins
 acetize
 acetla
 acetmethylanilide
-acetnaphthalide
 acetoacetanilide
 acetoacetate
 acetoacetic
@@ -17995,6 +17994,7 @@ appreciators
 aphlaston
 appredicate
 apprehendable
+acetnaphthalide
 apprehended
 anaclisis
 apprehending
