@@ -3872,7 +3872,6 @@ bugging
 baumhauerite
 baumier
 baun
-bauno
 baure
 bauson
 bausond
@@ -13811,6 +13810,7 @@ breadstuffs
 bowlder
 bearbaiting
 bowlderhead
+bauno
 bowldery
 bowldering
 bowleg
