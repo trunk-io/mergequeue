@@ -1945,6 +1945,7 @@ bandsman
 bandsmen
 bandspreading
 bandstand
+boronia
 beraked
 bandstands
 bandster
@@ -13046,7 +13047,6 @@ boroglycerate
 boroglycerine
 borohydride
 boronatrocalcite
-boronia
 benty
 boronic
 borophenylic
