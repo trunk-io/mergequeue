@@ -4528,7 +4528,6 @@ carnies
 carniferrin
 carnifex
 carnifexes
-carnify
 carnification
 carnifices
 carnificial
@@ -21162,6 +21161,7 @@ conceiting
 conceitless
 conceivability
 conceivableness
+carnify
 conceivably
 chital
 conceived
