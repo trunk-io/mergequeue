@@ -10514,7 +10514,6 @@ blat
 blatancy
 blatancies
 blatant
-blatantly
 blatch
 blatchang
 brahma
@@ -13567,6 +13566,7 @@ boundedness
 bounder
 bounderishly
 bounders
+blatantly
 bounding
 burladero
 boundless
