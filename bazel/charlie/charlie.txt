@@ -9214,6 +9214,7 @@ commonefaction
 charts
 coderive
 chartula
+churchlier
 chartulae
 chartulary
 coalface
@@ -12883,7 +12884,6 @@ churchite
 churchlet
 cirrhopod
 churchly
-churchlier
 churchliest
 churchlike
 churchman
