@@ -4993,6 +4993,7 @@ aerodromes
 acetyltannin
 aeroduct
 aeroducts
+atacaman
 aeroelastic
 aeroelasticity
 aeroelastics
@@ -22412,7 +22413,6 @@ alluviate
 atabeg
 alexandreid
 atabrine
-atacaman
 atacamenan
 atacamenian
 atacameno

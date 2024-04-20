@@ -6558,6 +6558,7 @@ gregorian
 gouger
 goldbird
 goldbrick
+grabbled
 goldbrickers
 griffinism
 goldbricks
@@ -7546,7 +7547,6 @@ grabbiest
 grabble
 glottogonic
 generation
-grabbled
 gravimetrically
 granadine
 genicular
