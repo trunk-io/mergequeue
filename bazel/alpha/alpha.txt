@@ -15828,7 +15828,6 @@ antipathogen
 antipathogene
 antipathogenic
 antipatriarch
-antipatriarchal
 antipatriarchally
 antipatriarchy
 antipatriot
@@ -20042,6 +20041,7 @@ armoured
 arachnephobia
 armourer
 armourers
+antipatriarchal
 aplustre
 armouries
 armouring
