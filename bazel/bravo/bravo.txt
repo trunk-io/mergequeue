@@ -7164,7 +7164,6 @@ bespend
 bespew
 brow
 bespy
-bugology
 bespice
 breadthwise
 butterlike
@@ -8705,6 +8704,7 @@ billman
 blechnum
 basigenic
 bual
+bugology
 billmen
 billon
 baronizing
