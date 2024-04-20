@@ -8040,7 +8040,6 @@ forespeech
 forespencer
 forespoke
 fiz
-forespoken
 forest
 fellmongered
 forestaffs
@@ -10643,6 +10642,7 @@ favose
 flamboyant
 fruchtschiefer
 feodaries
+forespoken
 fructescent
 fructiculose
 fructicultural
