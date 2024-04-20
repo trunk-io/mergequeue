@@ -3646,6 +3646,7 @@ brachiated
 bathrobe
 bathrobes
 balneophysiology
+bibliognost
 bathroomed
 bathrooms
 bathroot
@@ -7929,7 +7930,6 @@ biblike
 biblioclasm
 bibliofilm
 bibliog
-bibliognost
 benzophenanthroline
 botaniser
 bacteriophagia
