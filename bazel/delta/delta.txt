@@ -7716,7 +7716,6 @@ devisability
 devisable
 dined
 devisal
-deviscerate
 devise
 devised
 devisees
@@ -14589,6 +14588,7 @@ doaty
 delusionist
 doating
 doats
+deviscerate
 dob
 dobby
 dobbies
