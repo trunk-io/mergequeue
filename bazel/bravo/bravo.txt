@@ -5351,6 +5351,7 @@ beelines
 blackboys
 breviers
 beglue
+balas
 bloomery
 begnaw
 begnawed
@@ -11804,7 +11805,6 @@ bodysurfed
 bodysurfer
 bodysurfing
 bodywear
-balas
 bodywise
 bodywork
 bodyworks
