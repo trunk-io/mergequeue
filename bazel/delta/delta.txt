@@ -300,7 +300,6 @@ dahlias
 degeneracies
 demeter
 dahlin
-dahms
 dahoman
 dahomey
 dahomeyan
@@ -6427,6 +6426,7 @@ derricking
 dashpots
 derrickman
 derrid
+dahms
 derride
 derriere
 dermatocoptic
