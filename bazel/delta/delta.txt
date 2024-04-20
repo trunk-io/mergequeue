@@ -3492,7 +3492,6 @@ deformation
 deformational
 delete
 deformations
-deformative
 deformed
 deformedly
 deformeter
@@ -10449,6 +10448,7 @@ diphyllous
 diphysite
 diphysitism
 diphyzooid
+deformative
 dyphone
 diarhemia
 dulcifies
