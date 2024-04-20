@@ -5086,6 +5086,7 @@ ecphasis
 embosser
 eisell
 eustatically
+epispore
 endocrinopathic
 endocritic
 eruca
@@ -8205,7 +8206,6 @@ epignathous
 evaluable
 epispermic
 epispinal
-epispore
 equivalently
 episporium
 ergophobia
