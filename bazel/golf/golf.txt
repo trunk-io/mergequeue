@@ -4248,7 +4248,6 @@ ginkgoaceous
 gymnoblastea
 gymnocarpic
 gymnoceratous
-gershom
 gymnoderinae
 gymnodiniaceous
 gymnodiniidae
@@ -7643,6 +7642,7 @@ gastrophilus
 grads
 granzita
 gradual
+gershom
 gradualist
 gradualistic
 gallantness
