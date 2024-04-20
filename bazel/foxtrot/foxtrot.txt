@@ -6987,7 +6987,6 @@ feuille
 fatheads
 follow
 followable
-follower
 foisting
 fascines
 followers
@@ -10883,6 +10882,7 @@ foolhardihood
 fidgeting
 fulfil
 flamines
+follower
 fishtailed
 forthgoing
 fulfiller
