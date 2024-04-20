@@ -13147,7 +13147,6 @@ boshes
 boshvark
 boshvarks
 bosjesman
-bosk
 boskages
 breunnerite
 bosker
@@ -14453,6 +14452,7 @@ branchiest
 branchiferous
 beswarming
 branchiform
+bosk
 branchihyal
 becompliment
 branchiness
