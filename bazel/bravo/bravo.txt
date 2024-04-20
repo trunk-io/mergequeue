@@ -4526,7 +4526,6 @@ bretonian
 beclothe
 beclothes
 becloud
-beclouded
 beclouding
 beclout
 bootee
@@ -6941,6 +6940,7 @@ barhal
 betokener
 bescourge
 bescours
+beclouded
 bescramble
 began
 bescrape
