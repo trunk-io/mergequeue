@@ -8975,7 +8975,6 @@ characterless
 characterlessness
 characterology
 characterologically
-characterologist
 characters
 characterstring
 charadrii
@@ -26376,6 +26375,7 @@ cepous
 ciminite
 chaoses
 coterminously
+characterologist
 coterminousness
 cotes
 cotesian
