@@ -5667,7 +5667,6 @@ flyovers
 fustanella
 flypast
 flypasts
-flipe
 flype
 focalise
 freezers
@@ -6649,6 +6648,7 @@ focalising
 featness
 focalization
 focalize
+flipe
 focalizes
 forbye
 focaloid
