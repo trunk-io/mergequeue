@@ -4608,7 +4608,6 @@ demijambe
 dottled
 deergrass
 demijohns
-demiking
 demilance
 demilancer
 demilawyer
@@ -5564,6 +5563,7 @@ deoxygenized
 deoxyribonucleoprotein
 deoxyribonucleotide
 deozonization
+demiking
 deozonizer
 dep
 depaganize
