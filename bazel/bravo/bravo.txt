@@ -901,7 +901,6 @@ bagmen
 bagne
 bagnes
 bagnet
-bagnette
 bagnio
 blowze
 bago
@@ -16116,6 +16115,7 @@ balklines
 brotheler
 brothellike
 bulla
+bagnette
 brothelry
 brothels
 bistorta
