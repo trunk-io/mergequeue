@@ -5694,6 +5694,7 @@ catchpole
 cynoscion
 catchpoled
 catchpolery
+corrector
 catchpoleship
 catchpoling
 catchpoll
@@ -25668,7 +25669,6 @@ cimmaron
 correctiveness
 correctives
 correctness
-corrector
 correctory
 chignon
 correctorship
