@@ -8371,7 +8371,6 @@ chalcomancy
 chalcomenite
 chalcone
 chalcophanite
-chalcophyllite
 chalcopyrite
 chalcosiderite
 chalcosine
@@ -23645,6 +23644,7 @@ causticiser
 counderstand
 contrabandism
 contrabandist
+chalcophyllite
 contrabandista
 corrodentia
 carroccio
