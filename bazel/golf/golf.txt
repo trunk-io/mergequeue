@@ -1824,7 +1824,6 @@ gazet
 gastralgic
 gastrolobium
 gastrologer
-gastrology
 gastrologists
 gastromalacia
 garoo
@@ -8781,6 +8780,7 @@ gaffle
 gunmanship
 gm
 glis
+gastrology
 greybeard
 grouseless
 greycoat
