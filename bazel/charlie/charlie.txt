@@ -7325,6 +7325,7 @@ century
 centuria
 column
 centurial
+concerto
 covenably
 centuriate
 centuriator
@@ -21276,7 +21277,6 @@ concertmaster
 concertmasters
 concertmeister
 concertment
-concerto
 communally
 concertos
 contempt
