@@ -16911,7 +16911,6 @@ clucks
 clue
 clued
 clueing
-charlatan
 clueless
 cephalothorax
 clues
@@ -22230,6 +22229,7 @@ cleuch
 congeeing
 congees
 congeing
+charlatan
 congelation
 congelative
 congelifraction
