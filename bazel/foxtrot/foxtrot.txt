@@ -2228,7 +2228,6 @@ feriae
 fractionizing
 flancard
 fels
-felsites
 felsobanyite
 fligger
 foretypified
@@ -11018,6 +11017,7 @@ fortunation
 filter
 flagellar
 finally
+felsites
 fumarases
 fumarate
 fumarates
