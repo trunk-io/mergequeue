@@ -9684,7 +9684,6 @@ archegoniophore
 anticynicism
 alveola
 alveolae
-alveolar
 alveolary
 alveolariform
 alveolarly
@@ -20912,6 +20911,7 @@ asarums
 asb
 asbest
 asbestic
+alveolar
 acumens
 asbestine
 asbestinize
