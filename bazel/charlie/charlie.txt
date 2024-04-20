@@ -18495,6 +18495,7 @@ cohomology
 cill
 cohorn
 cohort
+craterid
 cohortative
 cohosh
 circumdiction
@@ -21036,7 +21037,6 @@ computer
 computerese
 computerise
 computerite
-craterid
 computerization
 computerize
 computerizes
