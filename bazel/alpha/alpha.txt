@@ -5702,7 +5702,6 @@ afterrake
 afterreckoning
 auxofluor
 afterrider
-afterripening
 afterroll
 afters
 afterschool
@@ -13307,6 +13306,7 @@ accessories
 antirational
 adigranth
 aerographer
+afterripening
 anglos
 afflux
 anisobranchiate
