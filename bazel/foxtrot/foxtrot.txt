@@ -4483,6 +4483,7 @@ fissionable
 fissioned
 frays
 fissions
+fregit
 fissipalmation
 fissiparism
 fissiparity
@@ -9798,7 +9799,6 @@ freezing
 freezingly
 fregata
 fortitude
-fregit
 frey
 freya
 freyalite
