@@ -6874,7 +6874,6 @@ aircrews
 aerophone
 airdate
 afterband
-airdates
 airdock
 airdrome
 airdromes
@@ -17413,6 +17412,7 @@ apoplectoid
 apoplex
 apoplexy
 apoplexious
+airdates
 adamantoid
 anemometrographic
 aporetic
