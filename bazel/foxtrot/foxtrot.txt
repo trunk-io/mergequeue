@@ -6886,7 +6886,6 @@ foliated
 foliates
 foliating
 foliation
-foliator
 foliature
 foliiferous
 folily
@@ -10143,6 +10142,7 @@ frimaire
 fungus
 frontopontine
 fortuneteller
+foliator
 frimitts
 fringed
 fulgora
