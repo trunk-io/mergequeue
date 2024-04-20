@@ -28,7 +28,6 @@ aas
 aasvogel
 aasvogels
 ab
-assyria
 ababdeh
 abac
 abaca
@@ -12281,6 +12280,7 @@ adenocellulitis
 ancony
 anconitis
 aegopodium
+assyria
 anconoid
 ancor
 ancora
