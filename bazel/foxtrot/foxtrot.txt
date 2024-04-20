@@ -5495,7 +5495,6 @@ flexes
 flexibilities
 favouredly
 flexibilty
-flexible
 forgedly
 flexile
 flexility
@@ -10412,6 +10411,7 @@ fraenula
 floodlighted
 fortiori
 fontanel
+flexible
 frondless
 forepaling
 frondlet
