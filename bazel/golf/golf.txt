@@ -4334,6 +4334,7 @@ gladiators
 gynandrism
 geochronologic
 gynandromorphy
+gyrometer
 gilthead
 gunnings
 gluish
@@ -4663,7 +4664,6 @@ grapevine
 gire
 graminous
 gableended
-gyrometer
 gyred
 girella
 girellidae
