@@ -1891,7 +1891,6 @@ fidepromission
 fluidizer
 febrility
 febriphobia
-febris
 factualist
 februarius
 flemishing
@@ -3055,6 +3054,7 @@ flatways
 fascinates
 fianchetti
 fiancing
+febris
 fevertrap
 flocoon
 fiant

@@ -4240,7 +4240,6 @@ adneural
 adnex
 adnexal
 adnexed
-adnexitis
 adnexopexy
 adnominal
 adnominally
@@ -11408,6 +11407,7 @@ amtman
 amtrac
 amtrack
 amtracks
+adnexitis
 amtracs
 aeroporotomy
 amtrak
