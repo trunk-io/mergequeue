@@ -1260,6 +1260,7 @@ gaoled
 guiltier
 gaoler
 gaolers
+gyronny
 gaoling
 groatsworth
 gaoloring
@@ -4769,7 +4770,6 @@ girondin
 glyoxime
 gentrice
 gironny
-gyronny
 girons
 gyrons
 gyrophoraceae
