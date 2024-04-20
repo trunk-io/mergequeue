@@ -7146,7 +7146,6 @@ eburnification
 embosses
 envisage
 envisaged
-experimentations
 envisagement
 envisaging
 emulable
@@ -12348,6 +12347,7 @@ exemplified
 exemplifier
 exemplifying
 exempted
+experimentations
 egipto
 exempting
 emarginate
