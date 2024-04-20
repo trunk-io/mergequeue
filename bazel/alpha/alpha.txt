@@ -7944,6 +7944,7 @@ alerta
 anorak
 alerted
 anabasis
+antinaturalist
 alertedly
 alerters
 alertest
@@ -15682,7 +15683,6 @@ antinationalization
 antesignani
 antinatural
 antinaturalism
-antinaturalist
 antinaturally
 antinaturalness
 antinegroism
