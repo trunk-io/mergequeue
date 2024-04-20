@@ -2503,7 +2503,6 @@ declare
 declaredly
 declaredness
 doorjamb
-declarers
 declares
 daneworts
 declaring
@@ -4522,6 +4521,7 @@ depravities
 demesmerize
 demesne
 demesnes
+declarers
 dishwashing
 doctrinalism
 demesnial
