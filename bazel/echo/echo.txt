@@ -778,6 +778,7 @@ emptores
 extramedullary
 entresol
 ecstasis
+electrobus
 ecstatic
 englishwoman
 eosines
@@ -2291,7 +2292,6 @@ epicenity
 eremitic
 electrobrasser
 epistroma
-electrobus
 electrocapillary
 electrocapillarity
 electrocardiogram
