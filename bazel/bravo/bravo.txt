@@ -2733,7 +2733,6 @@ barnumism
 barocyclonometer
 barbra
 baroclinicity
-barodynamic
 barodynamics
 barognosis
 barogram
@@ -5358,6 +5357,7 @@ buyable
 benchboard
 begray
 begrain
+barodynamic
 boodie
 begrave
 birne
