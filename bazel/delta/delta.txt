@@ -1006,7 +1006,6 @@ disannexation
 darknesses
 darkroom
 dineutron
-darks
 darkskin
 darksomeness
 darksum
@@ -10302,6 +10301,7 @@ diolefins
 diols
 diomate
 decalcification
+darks
 diomedeidae
 deans
 diomedes
