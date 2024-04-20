@@ -3322,6 +3322,7 @@ colicweed
 capriccetto
 capricci
 capriccio
+cephaleuros
 capriccios
 capriccioso
 caprice
@@ -7345,7 +7346,6 @@ cephalata
 cephalate
 cephalemia
 cephaletron
-cephaleuros
 cephalhematoma
 cephalic
 cephalically
