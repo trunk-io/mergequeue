@@ -216,7 +216,6 @@ allokinesis
 abscision
 abbott
 abbozzo
-abbr
 abbrev
 abbreviatable
 abbreviate
@@ -13434,6 +13433,7 @@ ankylodontia
 ankyloglossia
 ankylomerism
 ankylophobia
+abbr
 ankylopodia
 ankyloproctia
 ankylos
