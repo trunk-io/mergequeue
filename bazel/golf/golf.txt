@@ -1706,6 +1706,7 @@ grego
 gillnet
 gastness
 gastnesses
+gregarinida
 gingili
 grignet
 gastornithidae
@@ -8747,7 +8748,6 @@ gregarinae
 grovels
 gobonated
 get
-gregarinida
 grammatophyllum
 gair
 gregarinidal
