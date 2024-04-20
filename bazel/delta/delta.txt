@@ -5045,7 +5045,6 @@ demultiplexers
 disroot
 dimedone
 demultiplexes
-dinamode
 decussion
 delustered
 demure
@@ -17935,6 +17934,7 @@ diathermancy
 dufrenoysite
 dufter
 dufterdar
+dinamode
 duftery
 duftite
 dialoguer
