@@ -8302,7 +8302,6 @@ forgotten
 forgrow
 fricandeau
 forhaile
-fevercup
 funmaker
 forestian
 faroese
@@ -10029,6 +10028,7 @@ friendliest
 friendlike
 friendliwise
 friends
+fevercup
 futurable
 fuse
 fenestrone
