@@ -14861,7 +14861,6 @@ citify
 cueball
 citification
 cityfied
-citifies
 citifying
 cityfolk
 citigradae
@@ -16281,6 +16280,7 @@ clinochlore
 charlatanically
 clinoclase
 clinoclasite
+citifies
 cartelize
 clinodiagonal
 clinodomatic
