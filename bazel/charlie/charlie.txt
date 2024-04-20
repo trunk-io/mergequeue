@@ -15739,7 +15739,6 @@ circumambulatory
 counterassertion
 claustrophobe
 candidature
-claustrophobia
 clausula
 clausulae
 clausular
@@ -21740,6 +21739,7 @@ condolence
 condolences
 condolent
 condoler
+claustrophobia
 condolers
 condoles
 condoling
