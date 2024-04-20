@@ -2999,7 +2999,6 @@ greyling
 gallerylike
 geoagronomic
 geobiont
-geobotany
 geobotanic
 goitre
 gemmates
@@ -7349,6 +7348,7 @@ gothamite
 gothically
 gothicist
 gunflints
+geobotany
 gothicizer
 gothicness
 gothish
