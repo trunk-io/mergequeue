@@ -1951,7 +1951,6 @@ bandster
 ballroom
 bandstop
 bandstring
-bandura
 bandurria
 bandusia
 bandusian
@@ -11142,6 +11141,7 @@ bloodtest
 bloodthirster
 bloodthirstier
 bloodthirstiness
+bandura
 bloodweed
 bloodwite
 bloodwood
