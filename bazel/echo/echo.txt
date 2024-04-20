@@ -6643,7 +6643,6 @@ enteromegaly
 eaved
 enteromegalia
 enteromesenteric
-enteromorpha
 enteroneuritis
 ewelease
 enterons
@@ -9170,6 +9169,7 @@ erythroglucin
 erythrol
 erythrolein
 erythrolysis
+enteromorpha
 epigrammatised
 electrothermostatic
 ennobled
