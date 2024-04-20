@@ -1204,7 +1204,6 @@ ganodont
 gemologists
 glutens
 ganofs
-ganoid
 greenside
 greking
 ganoidei
@@ -8251,6 +8250,7 @@ gedecktwork
 geast
 gobos
 geoblast
+ganoid
 grassland
 gedds
 glaswegian
