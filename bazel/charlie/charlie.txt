@@ -10138,7 +10138,6 @@ chest
 chesteine
 chesterfield
 chesterfieldian
-chesterlite
 chestful
 chemophysiological
 chestfuls
@@ -28984,6 +28983,7 @@ criminaldom
 charlemagne
 criminalism
 criminalistic
+chesterlite
 criminalistician
 criminalistics
 criminality
