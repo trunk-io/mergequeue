@@ -5363,7 +5363,6 @@ begobs
 begod
 backening
 begone
-bellhop
 begonia
 begoniaceae
 begoniaceous
@@ -10918,6 +10917,7 @@ blinkering
 backslides
 blinkers
 blinky
+bellhop
 blinkingly
 blinter
 blintzes
