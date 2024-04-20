@@ -2325,6 +2325,7 @@ barbe
 barbeau
 barbecue
 bellyfull
+bicone
 barbecuer
 barbecues
 burp
@@ -8122,7 +8123,6 @@ biconcave
 biconcavity
 breezelike
 bidder
-bicone
 biconic
 boundlessness
 biconical
