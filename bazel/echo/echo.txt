@@ -7031,7 +7031,6 @@ entrez
 epicranial
 entria
 expressivity
-entrike
 entryman
 entrymen
 entryway
@@ -9740,6 +9739,7 @@ esophagogastroscopy
 esophagomalacia
 endfile
 esopgi
+entrike
 esophagometer
 esophagomycosis
 esophagopathy
