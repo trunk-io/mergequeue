@@ -11449,7 +11449,6 @@ enghosted
 evennesses
 equiponderation
 evensongs
-event
 eventail
 eventful
 eventfully
@@ -13339,6 +13338,7 @@ etude
 exposure
 ethered
 excalfaction
+event
 emporetic
 enframes
 exposures
