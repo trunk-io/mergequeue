@@ -3250,7 +3250,6 @@ ficoes
 ficoidaceae
 forewarningly
 forgivingly
-fogbound
 fascicule
 fictation
 futurity
@@ -5264,6 +5263,7 @@ flawn
 flaws
 fatigated
 fungibles
+fogbound
 flax
 flaxboard
 frivolously
