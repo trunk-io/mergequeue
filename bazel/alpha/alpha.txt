@@ -854,7 +854,6 @@ auditress
 abronia
 abrood
 abrook
-abrosia
 archididascalian
 abrotanum
 abrotin
@@ -15440,6 +15439,7 @@ antilegomena
 antilemic
 antilens
 antileptic
+abrosia
 antilethargic
 antileukemic
 antileveling
