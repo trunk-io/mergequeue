@@ -2818,6 +2818,7 @@ barmie
 baroreceptor
 baroscopic
 baroscopical
+body
 barosinusitis
 barosinusitus
 barosma
@@ -4257,7 +4258,6 @@ beatified
 begged
 beatifies
 beatifying
-body
 beatinest
 beating
 beatings
