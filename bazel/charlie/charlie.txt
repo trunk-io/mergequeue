@@ -9859,7 +9859,6 @@ chemicobiology
 chemicobiologic
 chemicobiological
 chemicocautery
-chemicodynamic
 chemicoluminescence
 chemicoluminescent
 chemicomineralogical
@@ -27943,6 +27942,7 @@ cradles
 cradleside
 cradlesong
 cradlesongs
+chemicodynamic
 cradling
 cystidiums
 craft
