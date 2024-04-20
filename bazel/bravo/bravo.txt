@@ -2143,6 +2143,7 @@ blaw
 binary
 bantayan
 bidstand
+broguery
 bantam
 bantamize
 bantams
@@ -15718,7 +15719,6 @@ brogueful
 basiparachromatin
 broguer
 blessedly
-broguery
 brogueries
 boraces
 brogues
