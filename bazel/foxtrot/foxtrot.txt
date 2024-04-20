@@ -1411,7 +1411,6 @@ fatigable
 firmamental
 fourteenthly
 fatigableness
-fatigate
 fazendas
 frits
 fatigating
@@ -7779,6 +7778,7 @@ francisco
 foreloop
 forelooper
 forelouper
+fatigate
 foremade
 fiascoes
 foreman
