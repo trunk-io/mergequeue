@@ -2462,7 +2462,6 @@ exoskeleton
 electrolytic
 entoiled
 electrolytically
-electrolyze
 electrolyzed
 electrology
 electrological
@@ -12469,6 +12468,7 @@ essencing
 exhedrae
 exheredation
 exhibit
+electrolyze
 exhibitable
 expedientially
 earn
