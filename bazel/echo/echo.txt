@@ -7698,7 +7698,6 @@ epidemicalness
 epidemicity
 epidemiography
 ejulation
-epidemiographist
 elytroplastic
 epidemiology
 enterorrhexis
@@ -9531,6 +9530,7 @@ escapers
 escapes
 electiveness
 enleaf
+epidemiographist
 escaping
 escapingly
 escapisms
