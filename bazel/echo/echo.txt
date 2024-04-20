@@ -4866,7 +4866,6 @@ endamebae
 endamebiasis
 extradictable
 endamnify
-expelling
 endamoeba
 expectorating
 escutellate
@@ -6473,6 +6472,7 @@ ensures
 ensuring
 enswathe
 enswathed
+expelling
 enswathement
 encephalola
 enswathes
