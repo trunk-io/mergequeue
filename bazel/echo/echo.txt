@@ -4504,7 +4504,6 @@ emprosthotonus
 emulators
 encephalitogenic
 encephalocele
-encephalocoele
 equivocators
 elotherium
 encephalograph
@@ -12721,6 +12720,7 @@ exomologesis
 exomorphic
 exomorphism
 exomphalos
+encephalocoele
 exomphalous
 entohyal
 embryogeny
