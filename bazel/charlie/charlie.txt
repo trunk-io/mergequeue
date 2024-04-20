@@ -6374,7 +6374,6 @@ cauterized
 cauterizer
 cauterizes
 cauterizing
-cautio
 caution
 cautionary
 couve
@@ -26738,6 +26737,7 @@ counterbewitch
 counterblast
 counterblow
 counterbond
+cautio
 counterborder
 crookneck
 counterbore
