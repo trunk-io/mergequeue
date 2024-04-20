@@ -854,7 +854,6 @@ ectogeneous
 eddic
 epistolizer
 encomiastical
-ectogenic
 ectogenous
 ectoglia
 encroached
@@ -11836,6 +11835,7 @@ exareolate
 exarillate
 eireannach
 eth
+ectogenic
 exarticulation
 euthenic
 exasperate
