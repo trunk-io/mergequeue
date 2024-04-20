@@ -17555,6 +17555,7 @@ corr
 cocci
 coccic
 coccid
+constables
 coccidae
 coccidial
 coccidian
@@ -23090,7 +23091,6 @@ cryptorrhesis
 constable
 constablery
 cowgate
-constables
 constableship
 constabless
 constablewick
