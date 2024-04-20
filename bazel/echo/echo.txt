@@ -5813,7 +5813,6 @@ enfortune
 enhancements
 enhancers
 enhancing
-enhappy
 encyclic
 enharbour
 enharden
@@ -7683,6 +7682,7 @@ epicurize
 epicuticle
 epicuticular
 entomotomist
+enhappy
 embrued
 epideictic
 endomesoderm
