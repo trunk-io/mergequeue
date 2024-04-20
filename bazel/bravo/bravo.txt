@@ -4711,6 +4711,7 @@ bedewing
 bedewoman
 bedews
 bedfellows
+buildable
 bedford
 bedfordshire
 bedframes
@@ -16910,7 +16911,6 @@ buy
 bushgoats
 buibui
 buick
-buildable
 builded
 bizarre
 building

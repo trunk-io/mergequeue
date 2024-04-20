@@ -7170,7 +7170,6 @@ glycan
 greys
 gorgoneum
 gorgonia
-gessamine
 grassier
 grattoirs
 geoffrey
@@ -9934,6 +9933,7 @@ guardo
 guardrails
 gelasimus
 gallused
+gessamine
 guardroom
 grandams
 guarico
