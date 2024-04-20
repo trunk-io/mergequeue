@@ -298,6 +298,7 @@ abe
 abeam
 abear
 annexing
+assumed
 abearance
 abecedaire
 abecedaria
@@ -21945,7 +21946,6 @@ assuetude
 avantgarde
 assumably
 assume
-assumed
 assumedly
 assument
 assumer
