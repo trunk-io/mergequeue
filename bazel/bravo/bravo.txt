@@ -2449,6 +2449,7 @@ brickiest
 brobdingnagian
 barding
 bardings
+becalms
 bardism
 bardlet
 bardlike
@@ -4426,7 +4427,6 @@ bonehead
 becalm
 becalming
 becalmment
-becalms
 becap
 blacklead
 brassylic
