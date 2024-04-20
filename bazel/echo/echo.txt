@@ -1033,7 +1033,6 @@ edentalous
 edentata
 ethyls
 edentate
-edentates
 elegance
 edentulate
 envy
@@ -9460,6 +9459,7 @@ ellen
 estruate
 eruptive
 ectotropic
+edentates
 estrous
 episematic
 eruptively
