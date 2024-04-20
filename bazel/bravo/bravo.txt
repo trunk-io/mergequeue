@@ -2528,7 +2528,6 @@ bergere
 bargehouse
 bargelike
 bargelli
-bargello
 bargellos
 bargeload
 bargeman
@@ -10978,6 +10977,7 @@ blitzkrieged
 bendways
 babysit
 blitzkrieging
+bargello
 bardelle
 backslapper
 blizz
