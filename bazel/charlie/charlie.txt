@@ -14255,7 +14255,6 @@ circulars
 circulatable
 circulated
 crockeryware
-circulates
 circulation
 circulations
 circulative
@@ -19843,6 +19842,7 @@ comestible
 cyclostrophic
 charade
 comestion
+circulates
 comet
 chang
 cometary
