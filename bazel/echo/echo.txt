@@ -5792,7 +5792,6 @@ engs
 ensynopticity
 endocarditic
 engulf
-engulfed
 epicardial
 engulfing
 episcopalian
@@ -5966,6 +5965,7 @@ enlargedness
 eupepsias
 enlargements
 enlarges
+engulfed
 exposer
 enjamb
 enlarging
