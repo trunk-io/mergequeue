@@ -5261,7 +5261,6 @@ afer
 afetal
 affability
 affable
-affabrous
 affair
 affaire
 affaires
@@ -19805,6 +19804,7 @@ aristocraticalness
 alphyn
 aristocraticism
 aristocraticness
+affabrous
 aristocratism
 aristocrats
 aristodemocracy
