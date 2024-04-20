@@ -6608,6 +6608,7 @@ fluxes
 fire
 fluxgraph
 fob
+feaked
 frack
 fluxible
 fulciform
@@ -8486,7 +8487,6 @@ formica
 ferrous
 formicariae
 formicarian
-feaked
 formicarioid
 formicate
 franchiser
