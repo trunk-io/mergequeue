@@ -6311,6 +6311,7 @@ gnow
 gns
 gatefolds
 gnus
+graylings
 go
 goa
 grammar
@@ -7715,7 +7716,6 @@ grailer
 grayling
 gittite
 graysbies
-graylings
 graymill
 guaracha
 germiculture
