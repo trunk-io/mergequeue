@@ -5636,7 +5636,6 @@ belage
 belah
 billingsgate
 belay
-belayed
 belayer
 belaying
 biface
@@ -5705,6 +5704,7 @@ belemnite
 belemnites
 belemnitic
 belemnoid
+belayed
 bowssen
 boer
 belemnoidea
