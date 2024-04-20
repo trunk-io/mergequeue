@@ -3562,7 +3562,6 @@ bathetically
 bathflower
 bathhouse
 bathhouses
-bathyal
 braggest
 bathybius
 bathic
@@ -6530,6 +6529,7 @@ benzotrifluoride
 benzoxate
 bolection
 benzoxyacetic
+bathyal
 benzoxycamphor
 benzpinacone
 benzpyrene
