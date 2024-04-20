@@ -1979,6 +1979,7 @@ daimen
 decagons
 decagram
 decagramme
+dourness
 decagrams
 decahedra
 decahedral
@@ -16127,7 +16128,6 @@ derere
 dourest
 deraign
 drear
-dourness
 dournesses
 douroucouli
 douse
