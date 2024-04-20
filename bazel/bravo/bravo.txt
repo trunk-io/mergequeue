@@ -690,7 +690,6 @@ bodeful
 bactrites
 bactritoid
 blairmorite
-bacula
 baculere
 breakerman
 baculiform
@@ -3901,6 +3900,7 @@ baw
 bawarchi
 bawble
 brachycerous
+bacula
 bookend
 bawcock
 bawcocks

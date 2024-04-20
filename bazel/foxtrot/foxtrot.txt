@@ -2233,7 +2233,6 @@ felspath
 felstone
 felstones
 framers
-farmhouses
 felt
 felted
 furless
@@ -6382,6 +6381,7 @@ fluoborite
 flirtable
 fluobromide
 fubsier
+farmhouses
 fille
 fluocarbonate
 fecundities
