@@ -7540,6 +7540,7 @@ cardamoms
 ceratophyllaceous
 ceratophyllum
 ceratophyta
+coart
 colocephalous
 ceratophrys
 changepocket
@@ -17317,7 +17318,6 @@ commelinaceae
 coarsest
 crureus
 coarsish
-coart
 coarticulate
 coarticulation
 coascend
