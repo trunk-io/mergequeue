@@ -4564,7 +4564,6 @@ excrementitious
 enchainments
 epiblema
 enchancement
-enchant
 extension
 enchanted
 ecumenopolis
@@ -6543,6 +6542,7 @@ entelodon
 entelodont
 entender
 entendre
+enchant
 entendres
 epitomatory
 entente
