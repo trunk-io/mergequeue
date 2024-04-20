@@ -180,7 +180,6 @@ gardenmaker
 gamboges
 gatewright
 gaffes
-gaffs
 gloaming
 gag
 grampuses
@@ -7144,6 +7143,7 @@ gorfly
 groundplot
 gorgeous
 grommet
+gaffs
 gorgeret
 gorgers
 grandnephews
