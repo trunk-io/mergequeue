@@ -5132,6 +5132,7 @@ aerosiderite
 amphib
 aerosol
 aerosolization
+asclepieion
 aerosolize
 aerosolized
 aerosols
@@ -21041,7 +21042,6 @@ asclepian
 asclepias
 asclepidin
 asclepidoid
-asclepieion
 asclepin
 adamant
 aerogenesis
