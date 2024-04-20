@@ -3413,7 +3413,6 @@ adays
 adalat
 adam
 adamances
-adamancy
 assistor
 adamantean
 anisodactylous
@@ -8576,6 +8575,7 @@ alkool
 alkoran
 alkoxy
 alkoxid
+adamancy
 alkoxyl
 all
 allabuta
