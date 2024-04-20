@@ -5372,6 +5372,7 @@ buyable
 benchboard
 begray
 begrain
+boodie
 begrave
 birne
 begrett
@@ -12601,7 +12602,6 @@ boobs
 bood
 boodh
 boody
-boodie
 boodled
 braccia
 boodler
