@@ -2761,6 +2761,7 @@ canonizations
 canonize
 canonized
 catapult
+cetorhinoid
 canonizer
 canonizes
 canonizing
@@ -8011,7 +8012,6 @@ castigated
 cetorhinid
 cetorhinidae
 chickadee
-cetorhinoid
 criteriions
 cetorhinus
 cetotolite
