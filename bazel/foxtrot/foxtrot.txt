@@ -3788,7 +3788,6 @@ filmize
 filmized
 filmizing
 filmland
-fringes
 filmlands
 filmmake
 fullword
@@ -8194,6 +8193,7 @@ forfended
 formwork
 forfending
 forfends
+fringes
 forfex
 fairyologist
 forficate
