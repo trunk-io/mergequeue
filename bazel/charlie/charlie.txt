@@ -5165,6 +5165,7 @@ cashable
 cashableness
 cashaws
 cashboy
+carida
 cashbook
 cashbooks
 cashbox
@@ -25433,7 +25434,6 @@ cornrows
 corns
 cornsack
 cornstalks
-carida
 caviares
 cunner
 coextensive
