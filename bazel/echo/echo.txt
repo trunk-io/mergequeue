@@ -1767,6 +1767,7 @@ electric
 euflavine
 eyeopener
 eyepiece
+entempest
 eyepit
 eyepoint
 eyereach
@@ -6538,7 +6539,6 @@ entelechial
 entelechies
 entelodon
 entelodont
-entempest
 entender
 entendre
 entendres
