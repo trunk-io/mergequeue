@@ -1898,7 +1898,6 @@ gastrostege
 gastrostenosis
 gastrostomy
 gastrostomies
-gastrostomize
 grummer
 gastrostomus
 gastrotaxis
@@ -8024,6 +8023,7 @@ gauzes
 gepoun
 grantia
 grassplat
+gastrostomize
 grantiidae
 goldhammer
 grantor
