@@ -4978,6 +4978,7 @@ flankers
 falconries
 flanking
 flanks
+foremartyr
 faineantise
 flankwise
 flannel
@@ -7802,7 +7803,6 @@ foremarch
 forsaker
 favillae
 foremark
-foremartyr
 foremastmen
 foremasts
 foremean
