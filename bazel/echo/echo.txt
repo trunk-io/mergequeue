@@ -9428,7 +9428,6 @@ erudition
 erugate
 erugation
 emerant
-enciphered
 eruginous
 empathetically
 erugo
@@ -9641,6 +9640,7 @@ esculents
 esculetin
 esculic
 esculin
+enciphered
 escurialize
 escutcheoned
 eugenesis
