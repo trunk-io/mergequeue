@@ -21624,7 +21624,6 @@ condensedness
 condenser
 condensery
 comether
-condenseries
 condensers
 condenses
 condensible
@@ -28120,6 +28119,7 @@ cranioclasis
 cranioclasm
 cranioclast
 celebrities
+condenseries
 cranioclasty
 craniofacial
 craniognomic
