@@ -6396,7 +6396,6 @@ fellowess
 fluohydric
 feedhead
 formin
-fluor
 fluoran
 fluorane
 fluoranthene
@@ -8055,6 +8054,7 @@ funerals
 foss
 forestation
 flexional
+fluor
 forestaves
 frontoethmoid
 forgetting
