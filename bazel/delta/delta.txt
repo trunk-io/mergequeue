@@ -8639,6 +8639,7 @@ desponsories
 drainless
 deathblow
 dyarchies
+distilment
 diary
 disimmure
 diarian
@@ -13832,7 +13833,6 @@ dadding
 distilling
 distillment
 distillmint
-distilment
 distils
 distinct
 distinctify
