@@ -7254,7 +7254,6 @@ flocculating
 footraces
 footrail
 footrest
-footrests
 footrope
 footropes
 fremescent
@@ -9689,6 +9688,7 @@ fizzed
 facticide
 friableness
 front
+footrests
 ferren
 freedwoman
 floriferous
