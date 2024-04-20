@@ -19692,7 +19692,6 @@ absorptions
 aryballoi
 antithesize
 aryballoid
-aryballos
 aryballus
 arybballi
 aribine
@@ -20063,6 +20062,7 @@ almagra
 armpits
 astrologe
 acclimatization
+aryballos
 armplate
 armrack
 aniline
