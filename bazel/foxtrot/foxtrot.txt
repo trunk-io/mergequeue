@@ -3992,7 +3992,6 @@ finfoots
 fingal
 fingall
 fingan
-fingerberry
 fingerbreadth
 fingered
 fingerer
@@ -9599,6 +9598,7 @@ foreignize
 fraxetin
 fraxin
 featherlight
+fingerberry
 fraxinus
 frazed
 fiscus
