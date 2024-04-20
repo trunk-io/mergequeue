@@ -2643,6 +2643,7 @@ decompensation
 delinquents
 decompensations
 decompensatory
+dairy
 decompiler
 decomponent
 decomponible
@@ -9921,7 +9922,6 @@ diminished
 diminisher
 diminishingly
 diminishment
-dairy
 diminishments
 diminue
 dulcet
