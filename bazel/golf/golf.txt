@@ -4665,6 +4665,7 @@ gawkers
 grapevine
 gire
 graminous
+glyphographic
 gableended
 gyred
 girella
@@ -5522,7 +5523,6 @@ gastraeadae
 gus
 glyphographer
 germanly
-glyphographic
 glovers
 glyphs
 greenness
