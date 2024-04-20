@@ -1532,7 +1532,6 @@ deadwood
 deadwork
 deaerated
 deaeration
-deaerator
 deaf
 dynamogenous
 deafened
@@ -17958,6 +17957,7 @@ dugouts
 dulbert
 dugs
 dugway
+deaerator
 duhat
 duhr
 dui
