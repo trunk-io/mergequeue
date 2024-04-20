@@ -11349,7 +11349,6 @@ chloroformize
 chloroforms
 chlorogenic
 chloroguanide
-chlorohydrocarbon
 chlorohydroquinone
 chloroid
 chloroma
@@ -25062,6 +25061,7 @@ coree
 coreflexed
 chinked
 coregency
+chlorohydrocarbon
 colessee
 coregent
 coregnancy
