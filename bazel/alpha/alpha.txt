@@ -4878,7 +4878,6 @@ aepyornithiformes
 aggrieves
 aeq
 aequi
-aequian
 arariba
 aequiculi
 aequipalpia
@@ -10732,6 +10731,7 @@ amixia
 amyxorrhea
 amizilis
 amla
+aequian
 architis
 antiphilosophy
 amlacra
