@@ -5139,7 +5139,6 @@ endogenies
 exundation
 endogenous
 essive
-electrocataphoresis
 endogenously
 endogens
 embroider
@@ -7428,6 +7427,7 @@ epenthesize
 epephragmal
 encolumn
 epepophysial
+electrocataphoresis
 epepophysis
 epergne
 etalon
