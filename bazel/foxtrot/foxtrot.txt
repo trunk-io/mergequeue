@@ -5317,7 +5317,6 @@ fleche
 flechette
 forelady
 flechettes
-fleck
 flecked
 fleckered
 fleckering
@@ -8727,6 +8726,7 @@ fortifications
 fortifier
 florets
 fortifiers
+fleck
 fortifies
 flooring
 fafnir
