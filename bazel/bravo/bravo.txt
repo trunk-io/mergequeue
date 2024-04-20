@@ -5421,7 +5421,6 @@ begummed
 begumming
 begums
 begun
-bokark
 begunk
 begut
 behale
@@ -13367,6 +13366,7 @@ bereaved
 botryoid
 bantin
 botryomycoma
+bokark
 blowtorch
 biquadratic
 botryomycosis
