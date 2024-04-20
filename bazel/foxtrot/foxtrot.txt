@@ -5291,6 +5291,7 @@ fleabag
 fusible
 fleabags
 fissidactyl
+fluorites
 fleabane
 fleabite
 fleabites
@@ -7047,7 +7048,6 @@ forfeiter
 fonduk
 fondus
 frustrations
-fluorites
 fluorocarbon
 fone
 fonly
