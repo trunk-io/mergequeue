@@ -9268,7 +9268,6 @@ chasses
 chasseurs
 chassignite
 coachful
-chassis
 chemisorptive
 chastacosta
 chaste
@@ -12034,6 +12033,7 @@ chorisepalous
 chorisis
 chorism
 chorist
+chassis
 choristate
 chorister
 choristers
