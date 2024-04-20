@@ -671,7 +671,6 @@ ecliptical
 excrementally
 ecliptically
 eidetically
-ecliptics
 eclogic
 eclogite
 eccles
@@ -4911,6 +4910,7 @@ endearedness
 entocornea
 endearingness
 exactive
+ecliptics
 endosiphon
 everywhere
 exsolved
