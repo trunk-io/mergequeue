@@ -8688,7 +8688,6 @@ equinumerally
 equinus
 ethrogs
 equipage
-equipages
 equiparation
 equipartisan
 eggcrate
@@ -10562,6 +10561,7 @@ equalities
 ergotization
 etymonic
 etymons
+equipages
 etiogenic
 etiolated
 etiolating

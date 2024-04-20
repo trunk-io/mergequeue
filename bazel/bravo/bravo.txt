@@ -12780,7 +12780,6 @@ boondocks
 boondoggle
 boondoggler
 boondogglers
-bradykinesia
 blipped
 boondoggles
 boondoggling
@@ -14624,6 +14623,7 @@ blender
 bratina
 bratling
 bratstvo
+bradykinesia
 blunderer
 brattach
 bratty
