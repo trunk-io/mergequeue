@@ -8251,7 +8251,6 @@ countertrades
 chair
 calliophone
 chairborne
-chairer
 chairing
 chairlady
 chairladies
@@ -8989,6 +8988,7 @@ charbon
 charbonnier
 coldheartedly
 crumby
+chairer
 charbroil
 charuk
 cephalalgic

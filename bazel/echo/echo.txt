@@ -1496,7 +1496,6 @@ eg
 egad
 eligent
 egads
-emendate
 egal
 egalitarian
 egalitarians
@@ -7893,6 +7892,7 @@ epikleses
 epikouros
 ejectum
 epil
+emendate
 epilabra
 epilamellar
 epilate
