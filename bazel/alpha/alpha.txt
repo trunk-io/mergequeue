@@ -6701,6 +6701,7 @@ arraigner
 aider
 aides
 antiaggressive
+awk
 aidful
 aiding
 aidman
@@ -25009,7 +25010,6 @@ awing
 awingly
 awiwi
 astrometer
-awk
 awkly
 awkward
 awkwarder
