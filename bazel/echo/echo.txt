@@ -3041,6 +3041,7 @@ elliptical
 elliptically
 ellipticalness
 ellipticity
+extemporize
 elliptograph
 elliptoid
 etiolates
@@ -13544,7 +13545,6 @@ extemporisation
 extemporised
 extemporiser
 extemporization
-extemporize
 esrogs
 extemporized
 experientially
