@@ -225,7 +225,6 @@ abbreviatable
 abbreviate
 abbreviated
 argotic
-afdecho
 acantholysis
 abbreviates
 abbreviating
@@ -2627,6 +2626,7 @@ aconelline
 aconic
 aconin
 aconine
+afdecho
 autobiographic
 aconital
 aconite
