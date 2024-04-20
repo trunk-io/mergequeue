@@ -8102,7 +8102,6 @@ algazel
 algebra
 aquatical
 algebraical
-algebraically
 algebraist
 algebraists
 algebraization
@@ -22400,6 +22399,7 @@ asunder
 aswarm
 aswash
 abidden
+algebraically
 asweat
 aswell
 asweve
