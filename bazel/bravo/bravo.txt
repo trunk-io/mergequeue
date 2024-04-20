@@ -6501,7 +6501,6 @@ benzoin
 benzoinated
 benzoiodohydrin
 benzol
-benzoline
 benzolize
 bidet
 benzols
@@ -16097,6 +16096,7 @@ broos
 broose
 broquery
 ballgown
+benzoline
 bros
 broses
 bloodhound
