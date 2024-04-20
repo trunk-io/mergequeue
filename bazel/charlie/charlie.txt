@@ -12450,7 +12450,6 @@ confocally
 chromidae
 chromide
 chromides
-chromidial
 chromididae
 chromidiogamy
 chromidiosome
@@ -27843,6 +27842,7 @@ crabier
 crabit
 crablet
 crablike
+chromidial
 crabman
 crabmeat
 crabmill
