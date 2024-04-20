@@ -4561,6 +4561,7 @@ gypsy
 gipsydom
 gigsman
 gipsied
+gelid
 gypsied
 gipsies
 gypsies
@@ -10131,7 +10132,6 @@ guianese
 guidable
 guidance
 git
-gelid
 guide
 gruf
 guideboard
