@@ -8622,6 +8622,7 @@ equidist
 equidistance
 embranglement
 equidistribution
+exect
 equidiurnal
 equidivision
 equielliptical
@@ -12290,7 +12291,6 @@ execratively
 execrator
 emusive
 execrators
-exect
 engines
 execute
 executed
