@@ -2694,7 +2694,6 @@ electrowinning
 entermete
 electuaries
 eudidymite
-eledoisin
 enceint
 eledone
 eleemosinar
@@ -8495,6 +8494,7 @@ epoxies
 epoxying
 eppy
 eppie
+eledoisin
 eprise
 eggment
 extendable
