@@ -618,7 +618,6 @@ damine
 drek
 dammars
 disaffection
-damme
 discreet
 dammer
 docetist
@@ -13507,6 +13506,7 @@ dissemblers
 dissembles
 dissemblies
 disseminating
+damme
 dissemination
 disseminations
 disseminative
