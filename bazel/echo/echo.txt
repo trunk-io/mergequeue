@@ -10417,7 +10417,6 @@ ethmomaxillary
 ethmonasal
 effacer
 ethmopalatal
-ethmose
 ethmosphenoid
 enacts
 epiphyllous
@@ -10681,6 +10680,7 @@ euchre
 euchred
 enchest
 euchres
+ethmose
 erotomania
 euchroic
 entomophily
