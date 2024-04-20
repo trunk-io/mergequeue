@@ -523,7 +523,6 @@ backswing
 backsword
 backswording
 bettergates
-behaviourist
 backswordman
 bestness
 backswordmen
@@ -12956,6 +12955,7 @@ borderings
 borders
 borderland
 borderlander
+behaviourist
 borderlands
 borderlight
 borderline
