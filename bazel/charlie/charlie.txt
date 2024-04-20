@@ -4259,7 +4259,6 @@ carfax
 carfloat
 codebreak
 coater
-comprizable
 carfour
 carfuffle
 carfuffling
@@ -18915,6 +18914,7 @@ collapsibility
 cuddles
 collapsing
 collar
+comprizable
 collarband
 collarbird
 collarbone
