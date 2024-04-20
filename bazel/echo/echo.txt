@@ -2965,7 +2965,6 @@ echelonment
 elishah
 elysian
 elysiidae
-elisions
 elysium
 elisor
 elissa
@@ -10943,6 +10942,7 @@ externals
 euphausiid
 ensigncies
 eligibilities
+elisions
 endostomata
 electrodiagnoses
 euphausiidae
