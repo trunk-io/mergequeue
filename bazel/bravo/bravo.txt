@@ -1899,7 +1899,6 @@ bandle
 bandleader
 blastoff
 bandlet
-bandlimited
 breadwinners
 bandlimiting
 bandlimits
@@ -6082,6 +6081,7 @@ bemire
 bemirement
 bemiring
 bravery
+bandlimited
 bemirror
 bemist
 biltongue
