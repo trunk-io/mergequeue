@@ -1819,7 +1819,6 @@ fadingness
 flamming
 feathers
 featherstitch
-folktale
 feathertop
 flagellation
 featherweed
@@ -2333,6 +2332,7 @@ fenchone
 fencible
 fencings
 forewarm
+folktale
 fended
 ferric
 fender
