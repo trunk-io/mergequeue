@@ -2862,7 +2862,6 @@ educative
 elfins
 elfinwood
 elfish
-elfishly
 elfishness
 emotionalist
 extemporise
@@ -5379,6 +5378,7 @@ execrates
 endue
 exploration
 echoize
+elfishly
 enduing
 endura
 epipedometry
