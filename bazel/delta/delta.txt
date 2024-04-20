@@ -2790,6 +2790,7 @@ deviless
 decrescendo
 duodecahedron
 decrescent
+deknight
 decretal
 decretalist
 dogey
@@ -15180,7 +15181,6 @@ dolium
 dollar
 dollardom
 dollarfishes
-deknight
 derrickmen
 dollarleaf
 dollars
