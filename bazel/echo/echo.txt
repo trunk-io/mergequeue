@@ -6298,7 +6298,6 @@ emmenagogue
 ensafe
 elenchtic
 ensampler
-ensamples
 ensanguine
 ensanguining
 evisite
@@ -12323,6 +12322,7 @@ exemplar
 entoiling
 evertile
 echinostomiasis
+ensamples
 ensued
 eds
 exemplaric
