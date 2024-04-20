@@ -3737,7 +3737,6 @@ battener
 beknown
 broomwort
 batteners
-battening
 battens
 batter
 bread
@@ -9724,6 +9723,7 @@ boulangerite
 bisks
 bisley
 bislings
+battening
 bysmalith
 biggety
 benzoate
