@@ -3927,6 +3927,7 @@ dekes
 deking
 dekkos
 dotage
+douser
 dekle
 deyship
 del
@@ -16123,7 +16124,6 @@ dournesses
 douroucouli
 douse
 descendant
-douser
 dousers
 downhill
 dispurpose
