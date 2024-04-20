@@ -922,7 +922,6 @@ dapped
 dapper
 dapperer
 dapperly
-dermapostasis
 dapperling
 dapperness
 dapping
@@ -2433,6 +2432,7 @@ dialogs
 degorder
 decimeters
 decimetre
+dermapostasis
 decimolar
 diplacusis
 daysman
