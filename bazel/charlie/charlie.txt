@@ -5052,6 +5052,7 @@ casas
 colisepsis
 casate
 casaun
+closemouthed
 casava
 casavas
 crowsteps
@@ -16682,7 +16683,6 @@ closehanded
 closehauled
 cardiodysesthesia
 closemouth
-closemouthed
 closen
 closeness
 closenesses
