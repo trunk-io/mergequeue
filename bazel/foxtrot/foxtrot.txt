@@ -2057,7 +2057,6 @@ fanfare
 feigners
 feigning
 feigningly
-feigns
 flirtingly
 fistulatous
 feijoa
@@ -5233,6 +5232,7 @@ flavoring
 flavorless
 flavors
 formant
+feigns
 filippi
 flavorsome
 formulators
