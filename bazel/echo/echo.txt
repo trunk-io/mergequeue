@@ -1794,7 +1794,6 @@ eyeshield
 eyeshine
 exolve
 echinulation
-eyeshot
 etherialise
 eyeshots
 eyesight
@@ -2032,6 +2031,7 @@ elaeoblastic
 elaeocarpaceae
 elaeococca
 elaeodendron
+eyeshot
 elaeodochon
 elaeometer
 entamebic
