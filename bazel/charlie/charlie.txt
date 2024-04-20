@@ -5464,6 +5464,7 @@ catabolite
 catabolize
 catabolized
 claim
+congaing
 catachreses
 catachresis
 catachrestic
@@ -22206,7 +22207,6 @@ confuting
 cong
 conga
 congaed
-congaing
 congas
 conge
 congeal
