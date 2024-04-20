@@ -1882,6 +1882,7 @@ gastroschisis
 guaiacols
 gastroscopy
 gastroscopic
+gonadial
 genealogizer
 gastroscopist
 gelatinotype
@@ -6725,7 +6726,6 @@ gomphodont
 gomukhi
 gimmerpet
 gonadal
-gonadial
 ghostwrite
 gluconeogenetic
 gonadotrope
