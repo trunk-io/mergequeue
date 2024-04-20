@@ -6693,6 +6693,7 @@ celarent
 celastraceae
 cerograph
 celastraceous
+clan
 cibarium
 celastrus
 celation
@@ -15408,7 +15409,6 @@ clamping
 clamps
 clamshell
 clamworms
-clan
 crissa
 charivaris
 catalyzes
