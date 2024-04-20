@@ -6559,6 +6559,7 @@ bedrocks
 bepale
 bepaper
 beparch
+blickey
 beparse
 bepart
 bepaste
@@ -10862,7 +10863,6 @@ bodikin
 blew
 blewits
 blick
-blickey
 blickeys
 blicky
 betone

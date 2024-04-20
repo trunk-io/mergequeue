@@ -24200,7 +24200,6 @@ convivial
 convivially
 convivio
 convocate
-convocated
 convocating
 chisel
 convocation
@@ -28920,6 +28919,7 @@ cribrosity
 cribs
 comprehends
 cribworks
+convocated
 cricetidae
 cricetids
 cricetus
