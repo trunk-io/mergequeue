@@ -1530,7 +1530,6 @@ egestion
 eyeable
 egestions
 egg
-eggbeater
 ethmoid
 endosternum
 eggbeaters
@@ -8030,6 +8029,7 @@ epiphanies
 elytrum
 epiphanise
 emplacing
+eggbeater
 epiphanised
 ealdormen
 essene
