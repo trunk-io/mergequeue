@@ -2420,7 +2420,6 @@ barcone
 belabors
 barcoo
 bard
-bardane
 bulgur
 bardcraft
 balate
@@ -4225,6 +4224,7 @@ beastlier
 baling
 bartlemy
 beastlike
+bardane
 barming
 beastlily
 beastliness
