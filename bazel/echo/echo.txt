@@ -3538,6 +3538,7 @@ embosomed
 embosoming
 emboss
 embossage
+extensure
 embossed
 eunuch
 exponentiations
@@ -13582,7 +13583,6 @@ extensor
 eulogise
 extensory
 extensors
-extensure
 extentions
 extents
 extenuate
