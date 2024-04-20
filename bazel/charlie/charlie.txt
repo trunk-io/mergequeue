@@ -8985,6 +8985,7 @@ charadrii
 charadriiform
 charadriiformes
 charadrine
+clothlike
 charadrioid
 charadriomorphae
 charadrius
@@ -16735,7 +16736,6 @@ clothiers
 clothilda
 clothing
 clothings
-clothlike
 clothmaker
 catharpin
 cloths

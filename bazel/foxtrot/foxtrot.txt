@@ -3968,7 +3968,6 @@ forrue
 finfoot
 finfoots
 fingal
-fingall
 fingan
 fluviose
 fisticuffing
@@ -5192,6 +5191,7 @@ flavanthrone
 flavedo
 fiscals
 flavescence
+fingall
 flavescent
 farse
 flavian
