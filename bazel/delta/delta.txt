@@ -3459,7 +3459,6 @@ defogs
 defoil
 dawish
 defoliage
-defoliant
 dorsobranchiata
 defoliants
 defoliate
@@ -3622,6 +3621,7 @@ dishearten
 deglutinated
 deglutinating
 dermatoplasty
+defoliant
 dropforging
 deglutination
 deglutition
