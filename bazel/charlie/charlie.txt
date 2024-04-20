@@ -12194,7 +12194,6 @@ chrysanthemums
 chrysanthous
 chrysaor
 chrysarobin
-chrysatropic
 cont
 chrysazol
 chryseis
@@ -25874,6 +25873,7 @@ corse
 corselet
 corseleted
 catfishes
+chrysatropic
 contradicting
 corseleting
 corselets
