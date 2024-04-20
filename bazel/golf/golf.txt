@@ -5885,6 +5885,7 @@ glossopathy
 glossophaga
 glossopharyngeus
 gettered
+glancer
 grecizes
 goldeneye
 gorling
@@ -8818,7 +8819,6 @@ grelot
 ghana
 gremial
 gremiale
-glancer
 gremio
 gruel
 glamorizations
