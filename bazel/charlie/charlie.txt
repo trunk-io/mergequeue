@@ -5938,6 +5938,7 @@ catheterism
 catheterization
 catheterize
 catheterized
+cerastium
 catheterizes
 catheters
 catheti
@@ -30230,7 +30231,6 @@ crumpled
 crumpler
 chorten
 crumples
-cerastium
 crumply
 cargoose
 crumps
