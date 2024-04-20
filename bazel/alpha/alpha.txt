@@ -12179,7 +12179,6 @@ ancestries
 allodge
 ancha
 anchat
-anchietin
 anchietine
 analysed
 anchieutectic
@@ -12404,6 +12403,7 @@ androgenesis
 androgenetic
 askar
 androgenous
+anchietin
 androgens
 androgyn
 acephalism
