@@ -4370,6 +4370,7 @@ focuser
 fibroplastic
 fishability
 fishable
+frightenedly
 fishback
 fishberry
 fleshers
@@ -10068,7 +10069,6 @@ forequarters
 format
 fanglement
 flocculated
-frightenedly
 frightener
 fanmaker
 frightens
