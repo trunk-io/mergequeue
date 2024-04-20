@@ -5814,7 +5814,6 @@ antipeptone
 agalmatolite
 ardea
 arctically
-agalwood
 agalwoods
 agama
 agamas
@@ -18186,6 +18185,7 @@ apteryla
 apterium
 apteryx
 apteryxes
+agalwood
 agentship
 apteroid
 apterous
