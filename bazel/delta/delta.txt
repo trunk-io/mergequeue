@@ -9611,7 +9611,6 @@ dryad
 dihydrated
 disfunctions
 dihydric
-daemonian
 dihydrochloride
 dihydrocuprin
 dishonestly
@@ -13837,6 +13836,7 @@ distilled
 durwan
 distillery
 diacoca
+daemonian
 distilleries
 distillers
 dachs
