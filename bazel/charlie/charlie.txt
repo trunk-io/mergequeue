@@ -3495,7 +3495,6 @@ capuan
 cadging
 capuche
 capuched
-colonus
 capuchins
 capucine
 capulet
@@ -7073,6 +7072,7 @@ centerer
 centerfold
 compania
 campings
+colonus
 centerfolds
 centering
 centerless
