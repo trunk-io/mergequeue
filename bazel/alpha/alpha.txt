@@ -7652,7 +7652,6 @@ alchemies
 augments
 alchemised
 actinozoal
-alchemising
 antilepsis
 alchemister
 alchemistic
@@ -10381,6 +10380,7 @@ amethystine
 amethystlike
 amethodical
 amethodically
+alchemising
 ametoecious
 aculeolus
 ametrometer
