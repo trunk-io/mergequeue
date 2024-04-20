@@ -9818,7 +9818,6 @@ chelifer
 chrematistics
 cheliform
 chelinga
-curua
 chelingas
 chelingo
 chelingos
@@ -29978,6 +29977,7 @@ cyclovertebral
 crottle
 crouch
 crouchant
+curua
 crouchback
 crouche
 crouched
