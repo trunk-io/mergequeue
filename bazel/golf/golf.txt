@@ -3096,6 +3096,7 @@ geologised
 gambusia
 gansy
 guardian
+glitnir
 gooks
 geologist
 geologists
@@ -6452,7 +6453,6 @@ goes
 glacon
 goetae
 gatter
-glitnir
 goethian
 geologize
 goethite
