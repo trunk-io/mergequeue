@@ -4637,6 +4637,7 @@ demilitarizing
 demiliterate
 demilustre
 demiman
+dibrom
 demimark
 demimentoniere
 demimetope
@@ -8842,7 +8843,6 @@ dibranch
 dibranchia
 dibranchiata
 dibranchiate
-dibrom
 dropperful
 dibromide
 dibromoacetaldehyde
