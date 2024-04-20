@@ -6319,6 +6319,7 @@ fishhold
 flukes
 flukeworm
 flukewort
+forbar
 follicle
 fluky
 flukier
@@ -6529,7 +6530,6 @@ flustrating
 flustration
 flustrine
 flustroid
-forbar
 figurally
 flutebird
 foils
