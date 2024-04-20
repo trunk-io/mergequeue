@@ -6189,7 +6189,6 @@ enplane
 ecorticate
 enplaned
 extraphysiological
-enplanes
 enquarter
 enqueue
 entered
@@ -12580,6 +12579,7 @@ eximidus
 eximious
 eximiously
 exine
+enplanes
 escaloped
 exines
 exing
