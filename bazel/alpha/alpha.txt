@@ -2525,7 +2525,6 @@ acknew
 atrochal
 arisings
 acknowing
-acknowledge
 aphid
 acknowledgeable
 acknowledged
@@ -11198,6 +11197,7 @@ amphiphithyra
 amphipyrenin
 acerbically
 amphiplatyan
+acknowledge
 amphipleura
 amphiploid
 amphiploidy
