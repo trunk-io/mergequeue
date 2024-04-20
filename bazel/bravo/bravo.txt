@@ -7050,6 +7050,7 @@ billyer
 beslings
 banque
 besiclometer
+boolies
 beslipper
 beslobber
 besluit
@@ -15642,7 +15643,6 @@ broadsiding
 broadspread
 broadsword
 broadtail
-boolies
 broadthroat
 broadway
 broadwayite
