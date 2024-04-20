@@ -7279,7 +7279,6 @@ centroacinar
 centrobarical
 centroclinal
 centrode
-centrodesmose
 centrodesmus
 centrodorsal
 centroid
@@ -17069,6 +17068,7 @@ coachsmith
 coachsmithing
 coachway
 chaetosema
+centrodesmose
 coachwhip
 coevolving
 coachwise
