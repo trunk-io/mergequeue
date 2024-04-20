@@ -5879,7 +5879,6 @@ glossopalatinus
 glossopathy
 glossophaga
 glossopharyngeus
-glossophobia
 gettered
 grecizes
 goldeneye
@@ -10155,6 +10154,7 @@ guideposts
 guiders
 genial
 guides
+glossophobia
 guideway
 gigger
 geroderma
