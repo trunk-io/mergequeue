@@ -9330,7 +9330,6 @@ chetahs
 chatsome
 clancular
 chatta
-chattable
 chattack
 chattah
 chattanooga
@@ -29044,6 +29043,7 @@ crimpiness
 crimping
 crimple
 crimpled
+chattable
 crimpness
 crimps
 crimson
