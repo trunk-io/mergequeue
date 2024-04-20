@@ -3879,7 +3879,6 @@ adiaphoresis
 adiaphoretic
 acephalina
 adiaphory
-adiaphorism
 adiaphorist
 adiaphoristic
 adiaphorite
@@ -4682,6 +4681,7 @@ advices
 advisable
 advisableness
 advisably
+adiaphorism
 advisal
 antheridial
 advise
