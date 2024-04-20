@@ -3943,7 +3943,6 @@ carcharias
 carchariid
 carchariidae
 carcharioid
-carcharodon
 congredient
 carcharodont
 correctify
@@ -20479,6 +20478,7 @@ comparableness
 comparably
 comparascope
 comparate
+carcharodon
 comparatist
 crotchets
 comparatival
