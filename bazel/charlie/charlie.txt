@@ -6940,6 +6940,7 @@ coaugment
 capricornus
 chapeaux
 cementatory
+chapaties
 cemented
 cementer
 cementers
@@ -8837,7 +8838,6 @@ chaparrals
 chaparraz
 chaparro
 chapati
-chapaties
 chapatis
 chapatti
 chapatty
