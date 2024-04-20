@@ -2460,7 +2460,6 @@ electroless
 electrolier
 electrolysation
 electrolyse
-everydeal
 elephantlike
 electrolysed
 electrolyses
@@ -13308,6 +13307,7 @@ exposit
 expositing
 esthesiometry
 exsanguinity
+everydeal
 exposition
 expositions
 expositive
