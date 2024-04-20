@@ -5864,7 +5864,6 @@ depositories
 depositors
 deposits
 depositum
-daimon
 dedifferentiation
 doumaist
 deposure
@@ -13155,6 +13154,7 @@ dyspneic
 dyspnoea
 dyspnoeal
 dyspnoeas
+daimon
 dyspnoeic
 droopily
 dispoint
