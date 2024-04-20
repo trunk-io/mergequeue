@@ -2802,7 +2802,6 @@ estrays
 elettaria
 eleuin
 eleusine
-extradialectal
 embraceable
 emotionlessly
 eleusinia
@@ -12373,6 +12372,7 @@ exequial
 equilucent
 exerce
 exercent
+extradialectal
 exercisable
 exercise
 enculturated
