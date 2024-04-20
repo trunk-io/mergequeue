@@ -21315,6 +21315,7 @@ anomalure
 asystole
 asystolic
 asyzygetic
+atterrate
 ask
 askable
 askant
@@ -23088,7 +23089,6 @@ atterminement
 attern
 atterr
 ascence
-atterrate
 attest
 attestable
 abolla
