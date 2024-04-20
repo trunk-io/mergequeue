@@ -2740,6 +2740,7 @@ fisheress
 ferulae
 floodwall
 fervid
+fwd
 falanaka
 fervidly
 fervor
@@ -8208,7 +8209,6 @@ friezing
 formagenic
 flatbottom
 forfare
-fwd
 forfars
 forfault
 forfaulture
