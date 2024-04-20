@@ -7739,6 +7739,7 @@ blockhole
 bewrite
 bankroller
 braggardism
+bahar
 bezaleel
 bezan
 bezant
@@ -13394,7 +13395,6 @@ burdies
 bdellotomy
 bottlefuls
 bigential
-bahar
 bottlehead
 bottommost
 bottlemaker
