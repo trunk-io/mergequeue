@@ -2996,7 +2996,6 @@ barroom
 barrowman
 barrulee
 barruly
-bothridium
 bars
 bedumb
 barsac
@@ -9597,6 +9596,7 @@ bisantler
 burse
 beetlehead
 bisaxillary
+bothridium
 burucha
 bisbeeite
 biscacha
