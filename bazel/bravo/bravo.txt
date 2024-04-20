@@ -11475,7 +11475,6 @@ bab
 blunthearted
 bluntish
 bluntishness
-bluntly
 bannerer
 badinaged
 bluntness
@@ -16926,6 +16925,7 @@ bezette
 buildup
 buildups
 builtin
+bluntly
 bromated
 buyouts
 buirdly
