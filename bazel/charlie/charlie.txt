@@ -14645,6 +14645,7 @@ cistaceae
 cistaceous
 cystadenoma
 cystadenosarcoma
+cubicontravariant
 cystalgia
 cystamine
 cystaster
@@ -30472,7 +30473,6 @@ cubicalness
 chalcidid
 cubicities
 cubicone
-cubicontravariant
 cubicula
 costly
 cubicular
