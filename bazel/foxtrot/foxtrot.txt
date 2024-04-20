@@ -6702,7 +6702,6 @@ foemanship
 foemen
 famble
 foenngreek
-flysch
 forethoughtfully
 filemarks
 foeship
@@ -8864,6 +8863,7 @@ fossicking
 fossified
 fleecer
 fluigramme
+flysch
 fossiform
 fastwalk
 fossil
