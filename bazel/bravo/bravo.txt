@@ -1838,6 +1838,7 @@ bandelette
 bandeng
 banderlog
 banderma
+benkulen
 banderol
 banderole
 biochemical
@@ -6319,7 +6320,6 @@ benjamin
 benjaminite
 boletus
 benjamins
-benkulen
 benne
 bennel
 bennes
