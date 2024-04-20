@@ -2980,7 +2980,6 @@ fleches
 feulamort
 formulary
 freezed
-fever
 feverberry
 feverberries
 feverbush
@@ -10166,6 +10165,7 @@ frenetic
 frisado
 frisbee
 frisca
+fever
 friscal
 frisch
 flatfish
