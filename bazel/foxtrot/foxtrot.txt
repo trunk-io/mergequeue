@@ -3108,7 +3108,6 @@ fibrillate
 freend
 fireproofing
 fibrillating
-forky
 fibrilled
 fibrillose
 fibrination
@@ -4353,6 +4352,7 @@ fishbone
 falchions
 fishbowls
 fisheater
+forky
 fisheyes
 fisher
 forecomingness
