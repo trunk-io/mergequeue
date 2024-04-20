@@ -5217,7 +5217,6 @@ aetat
 aethalia
 aethalioid
 aethalium
-aetheogamous
 airth
 aether
 aethereal
@@ -14860,6 +14859,7 @@ anticancer
 anaryan
 anticancerous
 anticapital
+aetheogamous
 anticapitalism
 anticapitalist
 abrege
