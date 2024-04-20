@@ -2735,7 +2735,6 @@ firebote
 furosemide
 ferventness
 frighteningness
-fervescence
 fisheress
 ferulae
 floodwall
@@ -4064,6 +4063,7 @@ finisher
 finishers
 finishes
 finishing
+fervescence
 finitary
 finite
 finites
