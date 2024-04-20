@@ -1292,6 +1292,7 @@ acanthopod
 acanthopodous
 adalid
 acanthopomatous
+amylodextrin
 acanthopteran
 acanthopteri
 acanthopterygian
@@ -10572,7 +10573,6 @@ amyloclastic
 aponogetonaceae
 antiredeposition
 amylocoagulase
-amylodextrin
 aristolochiaceous
 amylodyspepsia
 anthriscus
