@@ -7583,7 +7583,6 @@ cercomonad
 cercomonadidae
 cercopid
 continent
-cercopidae
 cercopithecid
 coenenchymata
 cercopithecidae
@@ -26142,6 +26141,7 @@ cosmologists
 compages
 cosmonaut
 crymodynia
+cercopidae
 cosmonautical
 cosmonautically
 cosmonautics
