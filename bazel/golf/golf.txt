@@ -4490,6 +4490,7 @@ ginmill
 gaonic
 grammatist
 ginner
+graecize
 gagsters
 ginneries
 goliardery
@@ -7658,7 +7659,6 @@ graduses
 graeae
 graecian
 gemlike
-graecize
 grumpish
 gashly
 graecizes
