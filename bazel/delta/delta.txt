@@ -9793,7 +9793,6 @@ dillweed
 dilo
 differentially
 dilogarithm
-dilogy
 dilos
 dilucid
 dilucidate
@@ -10882,6 +10881,7 @@ dirichletian
 disyoke
 disedge
 dirige
+dilogy
 dirigible
 dirigo
 dirity
