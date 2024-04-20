@@ -13772,7 +13772,6 @@ cymraeg
 cymry
 cymric
 cymrite
-cymtia
 cymule
 conduciveness
 cymulose
@@ -16856,6 +16855,7 @@ cloxacillin
 crinkle
 cloze
 clr
+cymtia
 clinorhombic
 cohabit
 clubable
