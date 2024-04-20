@@ -4455,6 +4455,7 @@ drawk
 demeanor
 dayshine
 dactylograph
+disallowableness
 demeanored
 demeanors
 demegoric
@@ -10994,7 +10995,6 @@ disally
 deplumed
 disalliege
 disallow
-disallowableness
 disallowance
 disvalue
 diatomean
