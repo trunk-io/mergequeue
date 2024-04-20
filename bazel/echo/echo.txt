@@ -8905,7 +8905,6 @@ enteritidis
 escharoid
 erenach
 eulytin
-erenow
 erepsin
 ereptic
 ereption
@@ -12021,6 +12020,7 @@ electrocauteries
 excitable
 excitableness
 excitancy
+erenow
 excitant
 eyepieces
 epistemophilic
