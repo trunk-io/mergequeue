@@ -3859,7 +3859,6 @@ gibbled
 gibblegabble
 gumpheon
 gibblegabbler
-gibblegable
 gibbles
 grungier
 gibbol
@@ -6446,6 +6445,7 @@ gramophones
 goundou
 grubstaker
 gyromagnetic
+gibblegable
 geographic
 goblins
 gobo
