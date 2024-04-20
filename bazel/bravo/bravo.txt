@@ -9437,6 +9437,7 @@ birdsnest
 birdstone
 basichromatic
 browpiece
+braider
 bungs
 birdwise
 benedictus
@@ -14287,7 +14288,6 @@ brahui
 bray
 braid
 braided
-braider
 braiders
 bovoid
 braiding
