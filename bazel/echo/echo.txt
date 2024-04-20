@@ -3572,6 +3572,7 @@ expendability
 embowing
 embows
 eequinoctium
+estramazone
 embox
 eloquence
 eluvium
@@ -10101,7 +10102,6 @@ estrayed
 estraying
 estral
 endorse
-estramazone
 estrange
 estranged
 estrangedness
