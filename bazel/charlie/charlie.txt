@@ -8358,7 +8358,6 @@ chalcis
 chalcites
 chalcocite
 chalcogen
-chalcogenide
 cheapishly
 collectional
 chalcograph
@@ -21529,6 +21528,7 @@ comblike
 concretor
 concrew
 cubital
+chalcogenide
 concubinage
 concubinal
 cupromanganese
