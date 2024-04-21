@@ -6237,7 +6237,6 @@ gloriette
 gnaws
 gills
 gneiss
-gneisses
 gombos
 gressible
 gnessic
@@ -7689,6 +7688,7 @@ graftproof
 gravestones
 graham
 guatemalans
+gneisses
 grahamism
 grorudite
 gazoz
