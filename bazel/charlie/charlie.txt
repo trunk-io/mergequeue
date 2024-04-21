@@ -14741,6 +14741,7 @@ cystoflagellata
 cosmopolicy
 cystogenesis
 cystogram
+cystorrhaphy
 cystoid
 cystoidea
 cypseline
@@ -14780,7 +14781,6 @@ cystoptosis
 cystopus
 cystoradiography
 cistori
-cystorrhaphy
 cystorrhea
 cystosarcoma
 cowbyre
