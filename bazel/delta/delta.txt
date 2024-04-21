@@ -3391,7 +3391,6 @@ deflated
 dogmen
 dewar
 diagonality
-drynaria
 deflater
 deflates
 deflating
@@ -14677,6 +14676,7 @@ dalk
 docimology
 docious
 docity
+drynaria
 dock
 dockage
 drawglove
