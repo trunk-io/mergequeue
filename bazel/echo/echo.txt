@@ -2281,6 +2281,7 @@ electrization
 earthenware
 electro
 electroacoustic
+etruscan
 ecblastpsis
 electroacoustical
 electroacoustically
@@ -10577,7 +10578,6 @@ etrenne
 etrog
 extralinguistic
 etrogim
-etruscan
 etruscology
 etta
 encrypted
