@@ -3093,7 +3093,6 @@ fiberglas
 flanconade
 fiberizes
 fiberizing
-fiberless
 fenestrule
 fiberous
 fibers
@@ -8231,6 +8230,7 @@ forgathering
 forgathers
 freeholding
 forgave
+fiberless
 forge
 forgeability
 forgeable
