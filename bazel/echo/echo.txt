@@ -2646,7 +2646,6 @@ edaphodont
 electrotherapy
 electrotherapist
 electrotheraputic
-electrotheraputical
 electrotheraputically
 electrothermal
 expurgates
@@ -10494,6 +10493,7 @@ excreted
 ecb
 ethoxyl
 ethoxyls
+electrotheraputical
 emoters
 ethrog
 ethrogim
