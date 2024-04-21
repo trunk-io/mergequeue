@@ -12070,7 +12070,6 @@ choroids
 chorology
 coheres
 chorological
-chorologist
 choromania
 choromanic
 chorometry
@@ -28098,6 +28097,7 @@ cranesman
 cranet
 craneway
 conniption
+chorologist
 crany
 crania
 craniacromial
