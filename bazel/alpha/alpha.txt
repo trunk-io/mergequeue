@@ -7662,7 +7662,6 @@ alcelaphine
 algonquins
 arthurian
 alces
-alcestis
 alchem
 alchemy
 alchemic
@@ -9321,6 +9320,7 @@ aloud
 alouette
 androsphinxes
 alout
+alcestis
 aloxite
 alpacas
 alpargata

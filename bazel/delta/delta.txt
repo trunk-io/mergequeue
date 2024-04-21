@@ -11134,7 +11134,6 @@ deputized
 disasinize
 disassemble
 dourade
-disassembled
 disassembler
 disassembles
 descriptors
@@ -16426,6 +16425,7 @@ dowse
 dowsed
 dowsers
 daemonies
+disassembled
 dowses
 dowset
 dowsing
