@@ -855,7 +855,6 @@ baftah
 baga
 baganda
 bagani
-bagass
 bagasse
 bagasses
 bagataway
@@ -6751,6 +6750,7 @@ bergy
 bergylt
 berginization
 berglet
+bagass
 bergman
 bergmannite
 bungy
