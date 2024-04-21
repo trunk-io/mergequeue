@@ -4736,6 +4736,7 @@ dinic
 demisang
 demisangue
 demisavage
+doable
 demiscible
 demise
 demisecond
@@ -14596,7 +14597,6 @@ devotees
 dmod
 dnieper
 do
-doable
 doand
 doarium
 doated

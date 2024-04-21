@@ -8428,7 +8428,6 @@ chalkos
 chalkosideric
 chalkotheke
 chalkpit
-crackling
 chalkrail
 circumflect
 chalkstone
@@ -14426,6 +14425,7 @@ circumplicate
 circumplication
 circumpolar
 circumpose
+crackling
 circumposition
 condite
 circumquaque
