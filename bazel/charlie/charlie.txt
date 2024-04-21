@@ -2223,6 +2223,7 @@ canaigre
 canaille
 canailles
 canajong
+chargeship
 canakin
 canakins
 canal
@@ -9039,7 +9040,6 @@ chargehouse
 chargeless
 charger
 charges
-chargeship
 charybdian
 crankman
 charybdis
