@@ -3624,7 +3624,6 @@ embryological
 endocoeliac
 embryologically
 embryologist
-embryologists
 embryoma
 elects
 embryomas
@@ -6656,6 +6655,7 @@ enterons
 euplotid
 enteroparesis
 enteropathy
+embryologists
 enculturative
 ergatocracy
 enteropexia
