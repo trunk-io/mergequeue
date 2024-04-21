@@ -2768,7 +2768,6 @@ cetorhinoid
 canonizer
 canonizes
 canonizing
-canonlike
 canonry
 canonries
 canons
@@ -17609,6 +17608,7 @@ coccogoneae
 coccoid
 coccoidal
 coccoids
+canonlike
 coccolite
 coccolithophorid
 coccoloba

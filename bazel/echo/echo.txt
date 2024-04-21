@@ -3984,6 +3984,7 @@ euphoniousness
 exhilaratory
 empanel
 eyebridled
+expoundable
 empaneled
 empaneling
 empanelling
@@ -13341,7 +13342,6 @@ emporetic
 enframes
 exposures
 expound
-expoundable
 expounder
 expounders
 expounds
