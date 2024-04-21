@@ -18945,6 +18945,7 @@ cloine
 collative
 catouse
 collator
+couldna
 collators
 collaudation
 colleague
@@ -26588,7 +26589,6 @@ conterminal
 coulage
 couldest
 couldn
-couldna
 couldnt
 couldst
 coulee
