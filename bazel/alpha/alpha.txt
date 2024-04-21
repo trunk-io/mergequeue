@@ -18852,7 +18852,6 @@ archcrown
 archcupbearer
 archd
 archdapifer
-archdeaconess
 archdeaconries
 archdeacons
 archdeaconship
@@ -19227,6 +19226,7 @@ archprotopope
 archpublican
 archpuritan
 archradical
+archdeaconess
 acroataxia
 archrascal
 archreactionary
