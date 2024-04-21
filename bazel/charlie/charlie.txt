@@ -18123,7 +18123,6 @@ coenzymes
 coequal
 coequality
 coequalize
-coequally
 campman
 coequalness
 coequals
@@ -27434,6 +27433,7 @@ couter
 combativity
 couters
 cerebellums
+coequally
 coutet
 committing
 couth
