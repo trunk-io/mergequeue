@@ -15404,7 +15404,6 @@ antihydropic
 antihydropin
 antihidrotic
 antihierarchy
-antihierarchically
 aidless
 admeasured
 antihierarchies
@@ -16742,6 +16741,7 @@ apass
 apast
 apasttra
 apatan
+antihierarchically
 apatela
 apatetic
 apathaton
