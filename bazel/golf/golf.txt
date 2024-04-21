@@ -2180,7 +2180,6 @@ gawkihood
 guggles
 geison
 gawking
-gheg
 garrisoned
 gawkish
 gawkishly
@@ -8379,6 +8378,7 @@ gobi
 golems
 gobiesox
 gravely
+gheg
 gayal
 gravelike
 guaranteed

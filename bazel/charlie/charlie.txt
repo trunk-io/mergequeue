@@ -9756,7 +9756,6 @@ chromotype
 cheiranthus
 cheirogaleus
 cheiroglossa
-cheirognomy
 cheirography
 cheirolin
 cytoma
@@ -20537,6 +20536,7 @@ compeers
 compellability
 compellable
 compellative
+cheirognomy
 compelled
 considerer
 crumpling
