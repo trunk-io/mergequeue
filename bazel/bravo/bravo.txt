@@ -8918,7 +8918,6 @@ banalities
 battery
 binomen
 balsamiferous
-binomenclature
 binomy
 binomialism
 binomially
@@ -18135,6 +18134,7 @@ butcherbird
 butcherbroom
 bipalium
 biovular
+binomenclature
 butcherdom
 butchered
 butcherer
