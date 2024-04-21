@@ -2846,7 +2846,6 @@ barotrauma
 bulgurs
 babi
 barotraumas
-barotraumata
 bostons
 barotropic
 barouche
@@ -3776,6 +3775,7 @@ battings
 battledores
 baldly
 boyar
+barotraumata
 battledoring
 borehole
 battlefront
