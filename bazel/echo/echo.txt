@@ -5354,6 +5354,7 @@ endothermy
 endothermic
 endothia
 endothoracic
+escribiente
 evangelium
 envisioned
 envergure
@@ -9619,7 +9620,6 @@ escout
 escry
 escribe
 eiffel
-escribiente
 escribientes
 escrime
 escript
