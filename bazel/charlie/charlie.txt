@@ -14701,6 +14701,7 @@ chondrule
 cysticercoid
 cysticercoidal
 cysticercosis
+creatureship
 cysticerus
 cysticle
 cysticolous
@@ -28476,7 +28477,6 @@ creatureliness
 creatureling
 creatures
 carapo
-creatureship
 creaturize
 churchanity
 creaze
