@@ -5162,6 +5162,7 @@ glasswork
 gutturality
 guider
 guideway
+gunpaper
 glassworker
 glassworkers
 glassworm
@@ -10537,7 +10538,6 @@ gunocracy
 gudgeoned
 goldenmouth
 gunong
-gunpaper
 grabbers
 gerbille
 gunpapers
