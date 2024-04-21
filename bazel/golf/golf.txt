@@ -7303,7 +7303,6 @@ gossamers
 goggles
 gossaniferous
 gossans
-gossard
 gossep
 globe
 goujay
@@ -9885,6 +9884,7 @@ guarantied
 guaranties
 guarantying
 gerontomorphosis
+gossard
 guarantor
 guarantors
 geode
