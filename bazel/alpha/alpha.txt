@@ -10093,7 +10093,6 @@ alodially
 amblyopsidae
 arecaceae
 amblyopsis
-amblyoscope
 amblypodous
 amblyrhynchus
 amblystegite
@@ -19037,6 +19036,7 @@ archikaryon
 archil
 aposafranine
 archilithic
+amblyoscope
 archilochian
 archilowe
 archilute
