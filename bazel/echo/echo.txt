@@ -636,6 +636,7 @@ eckehart
 ecklein
 eclair
 eclaircissement
+embossed
 enchantingness
 eclairissement
 eery
@@ -3527,7 +3528,6 @@ embosomed
 embosoming
 emboss
 embossage
-embossed
 eunuch
 exponentiations
 enbibe
