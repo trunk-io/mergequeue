@@ -3428,6 +3428,7 @@ capstans
 capstone
 creekside
 capsula
+cons
 coached
 capsular
 capsulated
@@ -22739,7 +22740,6 @@ conrectorship
 conred
 conrey
 conringia
-cons
 consacre
 consanguine
 chevise

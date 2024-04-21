@@ -8587,7 +8587,6 @@ greedier
 gregor
 greediest
 grandfilial
-greedygut
 greedyguts
 greedless
 greedsome
@@ -9639,6 +9638,7 @@ ghanaians
 gaudies
 grueller
 gruellers
+greedygut
 gerund
 given
 gruellings
