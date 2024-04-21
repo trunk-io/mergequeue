@@ -6738,6 +6738,7 @@ aigret
 antidogmatical
 aigrets
 aigrette
+amortized
 adenomeningeal
 afloat
 aiguelle
@@ -10992,7 +10993,6 @@ amortisseur
 amortizable
 amortization
 arbitrarily
-amortized
 amortizement
 amortizes
 angiothlipsis
