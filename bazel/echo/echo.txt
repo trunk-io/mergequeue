@@ -3781,7 +3781,6 @@ emendator
 emended
 eunuchal
 epinikian
-expansometer
 ensandal
 emending
 emer
@@ -10709,6 +10708,7 @@ eudaemonism
 embrangle
 enmeshes
 excluders
+expansometer
 exchangee
 ensorceling
 experience
