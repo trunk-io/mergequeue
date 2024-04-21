@@ -4734,7 +4734,6 @@ carpognia
 carpogonia
 choanoflagellata
 carpoidea
-cystinosis
 carpolite
 carpolith
 carpology
@@ -22027,6 +22026,7 @@ confirmedness
 confirmer
 cibarious
 confirming
+cystinosis
 confirmity
 confirmment
 ceramiaceous
