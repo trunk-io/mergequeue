@@ -9915,7 +9915,6 @@ estadel
 estadio
 estafa
 estafet
-ergotin
 endothys
 estafetted
 espaliering
@@ -13297,6 +13296,7 @@ exposable
 emotionalising
 exposals
 exposed
+ergotin
 exposedness
 exposes
 exposing
