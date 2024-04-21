@@ -2578,6 +2578,7 @@ burmite
 barid
 burgus
 barye
+bois
 baryecoia
 barcolongo
 bemixt
@@ -12059,7 +12060,6 @@ boyology
 battiest
 boyos
 bucayo
-bois
 babajaga
 boys
 boise
