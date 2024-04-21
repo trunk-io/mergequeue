@@ -5568,7 +5568,6 @@ alkalizable
 africanization
 africanize
 africanoid
-africanthropus
 affrettando
 afridi
 afright
@@ -11754,6 +11753,7 @@ analgia
 analgias
 analgic
 analgize
+africanthropus
 analysability
 analysable
 awakes
