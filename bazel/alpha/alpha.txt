@@ -12895,7 +12895,6 @@ anglian
 anglic
 anglican
 anglicanism
-antimaterialism
 anglicanisms
 anglicanly
 anglicans
@@ -22916,6 +22915,7 @@ atroceruleous
 atroceruleus
 archdiocesan
 atrochous
+antimaterialism
 atrocious
 atrociously
 atrociousness
