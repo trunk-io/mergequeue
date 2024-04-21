@@ -11865,7 +11865,6 @@ amperage
 appense
 anamite
 asperous
-anammonid
 anammonide
 anamneses
 anamnestic
@@ -15427,6 +15426,7 @@ antihumanist
 antihumanistic
 antihunting
 authorization
+anammonid
 asparaginous
 aceratosis
 antiinsurrectionally
