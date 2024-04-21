@@ -13351,7 +13351,6 @@ cycloaliphatic
 cycloalkane
 cyclobothra
 cyclobutane
-caesuras
 cyclocephaly
 cyclocoelic
 cycloconium
@@ -27574,6 +27573,7 @@ covolume
 covotary
 catchpennies
 cow
+caesuras
 cowage
 cowages
 cowan
