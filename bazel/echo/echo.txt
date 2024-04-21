@@ -6171,7 +6171,6 @@ enorn
 enos
 enosis
 enosises
-encephalosis
 expatriations
 enosist
 enostosis
@@ -11515,6 +11514,7 @@ everliving
 evernia
 evernioid
 eversible
+encephalosis
 evert
 evertebrata
 evertebrate
