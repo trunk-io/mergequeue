@@ -9773,7 +9773,6 @@ emplacements
 esperanto
 espy
 earhead
-ectophloic
 espial
 enforcer
 espieglerie
@@ -10008,6 +10007,7 @@ enabled
 esthiomene
 eplot
 esthiomenus
+ectophloic
 estimable
 expenthesis
 empiricists
