@@ -158,7 +158,6 @@ earthman
 earthmove
 earsore
 earthmover
-earthnut
 editorially
 embryo
 ensand
@@ -3655,6 +3654,7 @@ embryophyta
 embryophyte
 embryophore
 embryoplastic
+earthnut
 etiolation
 embryos
 embryotega
