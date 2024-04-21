@@ -17665,7 +17665,6 @@ cloddiness
 coldbloodedness
 cochlidiidae
 cochliodont
-cochliodontidae
 cochliodus
 cochlite
 cochlitis
@@ -24532,6 +24531,7 @@ copelata
 copelatae
 copeman
 copemate
+cochliodontidae
 copemates
 copen
 copending
