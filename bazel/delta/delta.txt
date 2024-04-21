@@ -3451,7 +3451,6 @@ dimethylhydrazine
 debasement
 deflocculate
 deflocculating
-drawtubes
 dermatoptera
 deflocculent
 deflorate
@@ -4854,6 +4853,7 @@ diiodotyrosine
 dispells
 dewaterer
 democratised
+drawtubes
 democratising
 democratism
 democratist
