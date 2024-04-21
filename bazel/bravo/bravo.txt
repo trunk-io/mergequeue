@@ -1837,7 +1837,6 @@ bibliopegist
 bonhomie
 bipunctate
 bullose
-band
 bandage
 bandaged
 bandager
@@ -15605,6 +15604,7 @@ broadcaster
 broadcasters
 broadcastings
 beakerful
+band
 broadcloth
 broaden
 broadeners
