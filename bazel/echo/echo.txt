@@ -2435,7 +2435,6 @@ electrohemostasis
 exacinate
 electrohydraulically
 electrohomeopathy
-ellan
 embassador
 endexines
 electromyographically
@@ -6015,6 +6014,7 @@ embossment
 enlinkment
 enlist
 enlisted
+ellan
 excursionize
 enlister
 enlistment
