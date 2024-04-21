@@ -4311,6 +4311,7 @@ adoptee
 alcid
 adoptees
 adopter
+antitarnish
 adoptian
 adoptianism
 acinuni
@@ -16348,7 +16349,6 @@ antisurplician
 antitabetic
 antitabloid
 antitank
-antitarnish
 antitarnishing
 antiteetotalism
 actinine
