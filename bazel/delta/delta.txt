@@ -14226,6 +14226,7 @@ ditrichotomous
 ditriglyphic
 ditrocha
 ditroite
+dragropes
 dits
 ditt
 duotones
@@ -16666,7 +16667,6 @@ dragooning
 dragrope
 decades
 discoplacentalia
-dragropes
 drags
 diobolons
 dragsaw
