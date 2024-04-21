@@ -6362,6 +6362,7 @@ cautioner
 cautioners
 cautiones
 cautioning
+canard
 cautionings
 cautionry
 cautions
@@ -23401,7 +23402,6 @@ contemns
 chowder
 contemp
 contemper
-canard
 contemplable
 contemplance
 clinandria
