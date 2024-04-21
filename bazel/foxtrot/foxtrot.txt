@@ -5269,7 +5269,6 @@ formolite
 fldxt
 flea
 fleabag
-fusible
 fleabags
 fissidactyl
 fluorites
@@ -10829,6 +10828,7 @@ faciendum
 fuchsine
 fuchsinophil
 fuchsinophilous
+fusible
 forefeeling
 fumigant
 foveation
