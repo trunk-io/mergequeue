@@ -10301,6 +10301,7 @@ bladesmith
 bladewise
 bladygrass
 blasters
+blennostasis
 bierstube
 bloodmonger
 bridgemaker
@@ -12169,7 +12170,6 @@ bollito
 bootlicked
 bollix
 bollixed
-blennostasis
 bollixing
 blamable
 buffy
