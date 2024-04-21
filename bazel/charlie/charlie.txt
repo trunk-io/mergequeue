@@ -7277,7 +7277,6 @@ centronote
 centronucleus
 centroplasm
 centropomidae
-centropomus
 centrosymmetry
 centrosymmetric
 countians
@@ -10891,6 +10890,7 @@ coquina
 chionophobia
 chiopin
 chiotilla
+centropomus
 chip
 chipboard
 chipchap
