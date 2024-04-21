@@ -6762,7 +6762,6 @@ gondolas
 gondoletta
 gangliform
 gondolier
-gondoliere
 gordius
 gondoliers
 gone
@@ -8031,6 +8030,7 @@ granted
 grantedly
 gnatty
 grantee
+gondoliere
 grantees
 grantha
 goric
