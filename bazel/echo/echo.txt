@@ -3215,6 +3215,7 @@ ethnographic
 elvanitic
 elvet
 elvis
+elicitable
 elvishly
 enigmatically
 elzevir
@@ -9083,7 +9084,6 @@ erysipelous
 emigre
 erysiphaceae
 erysiphe
-elicitable
 eristic
 eristically
 erithacus
