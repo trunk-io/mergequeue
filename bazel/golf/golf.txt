@@ -2690,7 +2690,6 @@ generalities
 generalizations
 gain
 generalize
-genl
 gyrations
 germigenous
 genappe
@@ -3199,6 +3198,7 @@ geophysics
 geophytes
 geophytic
 gonimolobe
+genl
 guardlike
 geophones
 geoplagiotropism
