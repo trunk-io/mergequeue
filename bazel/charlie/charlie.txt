@@ -20413,7 +20413,6 @@ compact
 compactability
 compactable
 compacted
-compactedness
 compacter
 compactible
 compactify
@@ -24823,6 +24822,7 @@ coquettish
 coquettishly
 capmaker
 coquettishness
+compactedness
 coltskin
 coquicken
 coquilla
