@@ -564,7 +564,6 @@ galleon
 galleons
 galler
 gallera
-geisotherm
 gallerian
 gasolines
 galleries
@@ -6997,6 +6996,7 @@ goofer
 ghastfulness
 goofiness
 gibbetted
+geisotherm
 glegly
 giinwale
 googul
