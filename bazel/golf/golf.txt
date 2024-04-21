@@ -6947,7 +6947,6 @@ gooders
 goog
 gonidium
 goodheartedness
-goodhumoredness
 goody
 goodie
 goodyera
@@ -9437,6 +9436,7 @@ groundlessly
 guacharos
 groundlessness
 groundliness
+goodhumoredness
 groundlings
 groundmass
 groundneedle
