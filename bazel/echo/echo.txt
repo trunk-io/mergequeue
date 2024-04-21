@@ -2155,6 +2155,7 @@ elbower
 elbowy
 elbowpiece
 electrican
+encaustes
 elbowroom
 elbows
 elcaja
@@ -4155,7 +4156,6 @@ empodia
 eatche
 empoison
 empoisoned
-encaustes
 evocators
 etherol
 empoisonment
