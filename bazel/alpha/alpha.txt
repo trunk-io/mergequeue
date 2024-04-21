@@ -3868,7 +3868,6 @@ adiabolist
 assistency
 adiadochokinesia
 adiadochokinesis
-adiadokokinesi
 adiadokokinesia
 adventurers
 adiagnostic
@@ -22923,6 +22922,7 @@ atrochous
 atrocious
 atrociously
 atrociousness
+adiadokokinesi
 atrocities
 atrocoeruleus
 atrolactic
