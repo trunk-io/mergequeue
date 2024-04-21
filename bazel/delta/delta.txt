@@ -16434,7 +16434,6 @@ doxa
 desalts
 doxastic
 doxasticon
-doxy
 doxie
 doxies
 doxography
@@ -17087,6 +17086,7 @@ delightable
 dribs
 drycoal
 diclinies
+doxy
 dauby
 diaplexus
 disaffected
