@@ -7903,6 +7903,7 @@ crystal
 cervicomuscular
 cerviconasal
 cribrous
+crotchy
 cervicoscapular
 cervicothoracic
 cervicovesical
@@ -11823,7 +11824,6 @@ coscinodiscaceae
 chondropterygious
 chondrosarcoma
 chondrosarcomas
-crotchy
 chondrosarcomatous
 chondroseptum
 construed
