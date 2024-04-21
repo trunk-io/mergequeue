@@ -3569,6 +3569,7 @@ gestural
 gallimaufries
 gangwaymen
 gesture
+glimpse
 gestureless
 gesturers
 gesturist
@@ -7743,7 +7744,6 @@ geomys
 grainsickness
 grainsman
 grainsmen
-glimpse
 gentianal
 gainable
 goggled

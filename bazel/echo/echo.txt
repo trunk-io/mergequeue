@@ -2427,6 +2427,7 @@ electrogilding
 electrogilt
 ejecting
 electrogram
+entender
 electrography
 electrographic
 eudyptes
@@ -6518,7 +6519,6 @@ entelechial
 entelechies
 entelodon
 entelodont
-entender
 erzahler
 entendre
 enchant
