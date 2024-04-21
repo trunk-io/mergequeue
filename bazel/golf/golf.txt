@@ -1419,7 +1419,6 @@ gariba
 grumphies
 gleaning
 garishly
-garishness
 garlandage
 garlanding
 growingupness
@@ -4930,6 +4929,7 @@ gurjan
 glabrousness
 grubstreet
 glaceed
+garishness
 gamophagia
 ghostfish
 gryphite
