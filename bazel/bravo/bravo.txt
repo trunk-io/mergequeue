@@ -10566,6 +10566,7 @@ biotelemetric
 blats
 blatta
 blattariae
+bounding
 biostrome
 blatted
 blatter
@@ -14695,7 +14696,6 @@ braving
 bravish
 bravissimo
 bigram
-bounding
 bravoed
 bravoes
 boho
