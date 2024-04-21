@@ -7787,7 +7787,6 @@ ceroplastic
 ceroplastics
 ceros
 cerosin
-cerotate
 cerote
 cerotene
 cerotic
@@ -8115,6 +8114,7 @@ chaenactis
 chaenolobus
 chaeta
 chaetae
+cerotate
 chemin
 chaetal
 chaetangiaceae
