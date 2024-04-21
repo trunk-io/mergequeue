@@ -10068,7 +10068,6 @@ blenders
 biz
 begohm
 byzantine
-byzantinesque
 byzantinize
 barmecide
 byzantium
@@ -17910,6 +17909,7 @@ busera
 bush
 bushbashing
 bushbeck
+byzantinesque
 bushbody
 bushbodies
 bushbuck
