@@ -3565,7 +3565,6 @@ caradoc
 carafe
 carafes
 cornicing
-carafon
 coteau
 cocineras
 caragana
@@ -26521,6 +26520,7 @@ cottonian
 cottonization
 coexpire
 cottonize
+carafon
 cottonless
 cottonmouth
 carposperm
