@@ -4468,7 +4468,6 @@ demean
 dizening
 diffidation
 demeaned
-demeaning
 drawk
 demeanor
 dayshine
@@ -5907,6 +5906,7 @@ danes
 deprecation
 darter
 diachoresis
+demeaning
 deprecations
 disconcert
 deprecative
