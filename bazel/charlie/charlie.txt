@@ -8621,7 +8621,6 @@ championize
 championless
 champions
 championships
-champlainic
 champlev
 champleve
 champs
@@ -22411,6 +22410,7 @@ conicle
 conicopoly
 conidae
 conidial
+champlainic
 conidian
 conidioid
 conidiophorous

@@ -8597,7 +8597,6 @@ bilimbis
 bilin
 bylina
 bolded
-byline
 bilinear
 boardmanship
 berun
@@ -9434,6 +9433,7 @@ bescribbling
 breezeless
 birdies
 brimse
+byline
 buriti
 birding
 bulbochaete
