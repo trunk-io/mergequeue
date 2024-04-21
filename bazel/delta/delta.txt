@@ -9951,6 +9951,7 @@ demarch
 devonian
 diminutal
 diminute
+ducape
 diminutely
 diminuting
 diminution
@@ -17769,7 +17770,6 @@ dubs
 duc
 ducal
 ducally
-ducape
 ducat
 drunt
 ducaton
