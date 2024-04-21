@@ -13696,7 +13696,6 @@ annunciable
 annunciade
 annunciate
 annunciated
-aforesaid
 astrobiologist
 annunciates
 annunciating
@@ -20590,6 +20589,7 @@ artesonado
 artesonados
 artful
 adhesivemeter
+aforesaid
 artfulness
 artgum
 artha
