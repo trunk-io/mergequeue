@@ -1096,6 +1096,7 @@ echolalia
 edificate
 edification
 edificative
+exfigure
 edificator
 elderhood
 earock
@@ -2444,7 +2445,6 @@ electromyographically
 electroimpulse
 electroindustrial
 electroing
-exfigure
 electroionic
 eductions
 enzymology
