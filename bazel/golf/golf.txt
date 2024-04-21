@@ -2465,7 +2465,6 @@ gabi
 gutturalisation
 gellants
 gruffer
-gallbladder
 gellert
 gnatoo
 gelofer
@@ -6251,6 +6250,7 @@ gnomish
 goutwort
 gelastic
 gnomist
+gallbladder
 gabert
 geitonogamous
 gnomologist
