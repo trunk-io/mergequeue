@@ -5057,7 +5057,6 @@ epistlar
 embolies
 exinanition
 endoclinal
-endocline
 endocoelar
 erosionally
 endocoele
@@ -8786,6 +8785,7 @@ equivokes
 equivoluminal
 engrain
 excretolic
+endocline
 equivoque
 equivorous
 emulsor
