@@ -4654,7 +4654,6 @@ carouses
 carousingly
 carp
 carpaine
-carpal
 carpale
 carpalia
 carpals
@@ -10384,6 +10383,7 @@ chickling
 chickory
 coprosterol
 chickories
+carpal
 chickpea
 conspirator
 chickpeas
