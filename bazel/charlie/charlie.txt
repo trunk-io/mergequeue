@@ -8054,6 +8054,7 @@ cevine
 cevitamic
 contes
 cf
+cofeatures
 cfd
 cfs
 cgm
@@ -18214,7 +18215,6 @@ cofane
 cofaster
 cofather
 cofeature
-cofeatures
 coferment
 cofermentation
 coffea
