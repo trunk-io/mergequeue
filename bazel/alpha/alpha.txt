@@ -14153,7 +14153,6 @@ anteceding
 antispermotoxin
 antecessor
 antechamber
-anelastic
 alonso
 antechambers
 aloetic
@@ -24509,6 +24508,7 @@ agriology
 auxiliaries
 auxiliarly
 auxiliate
+anelastic
 auxiliator
 auxilytic
 auxin
