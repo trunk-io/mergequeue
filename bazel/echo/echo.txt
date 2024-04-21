@@ -2324,7 +2324,6 @@ ephemerality
 epitheliogenetic
 extractors
 eutectic
-electrocoagulation
 egba
 erythrophore
 episteme
@@ -7959,6 +7958,7 @@ eteocreton
 epimyth
 embower
 energetical
+electrocoagulation
 epimorphosis
 epinaoi
 epinaos
