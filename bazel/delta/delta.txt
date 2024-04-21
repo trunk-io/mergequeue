@@ -2599,7 +2599,6 @@ decolonize
 decolonizes
 decoloration
 desalter
-decolorimeter
 decoloring
 decolorisation
 decoloriser
@@ -11247,6 +11246,7 @@ disbursals
 disburse
 disbursements
 duckpins
+decolorimeter
 disburses
 divinistre
 definability
