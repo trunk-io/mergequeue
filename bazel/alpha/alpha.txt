@@ -11223,6 +11223,7 @@ amour
 amphipodal
 antiballistic
 amphipodan
+abp
 arloup
 avidious
 amphipodiform
@@ -19745,7 +19746,6 @@ alephs
 amanita
 airbill
 ariels
-abp
 arienzo
 aryepiglottic
 aryepiglottidean
