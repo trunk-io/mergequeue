@@ -336,7 +336,6 @@ ebb
 ebbet
 ebbets
 ebbing
-ebbman
 ebbs
 ebcasc
 enterosyphilis
@@ -5111,6 +5110,7 @@ endofaradism
 endogamic
 encipherer
 endogastritis
+ebbman
 endogen
 exsanguinated
 electroballistician
