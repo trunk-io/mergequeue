@@ -14360,7 +14360,6 @@ antevert
 anteverted
 anteverting
 americanist
-antevocalic
 antewar
 anthdia
 anthroposociologist
@@ -15877,6 +15876,7 @@ antipestilent
 aegirine
 antipestilential
 antipestilently
+antevocalic
 antipetalous
 antipewism
 antiphagocytic
