@@ -3632,6 +3632,7 @@ adducted
 adducting
 adduction
 adductor
+allochroite
 agcy
 aranea
 afaced
@@ -8861,7 +8862,6 @@ allochiral
 allochiria
 allochlorophyll
 allochroic
-allochroite
 allochromatic
 allochthon
 allochthonous
