@@ -3592,7 +3592,6 @@ blithesomeness
 bathymetry
 behn
 bathymetric
-bathymetrical
 bathinette
 bathing
 bulreedy
@@ -12138,6 +12137,7 @@ boleros
 blaff
 beaumontia
 boletaceae
+bathymetrical
 babble
 boletes
 bribes
