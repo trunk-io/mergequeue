@@ -12067,6 +12067,7 @@ chorogi
 chorograph
 chorographer
 chorographical
+criticizable
 chorographically
 choroid
 choroiditis
@@ -29524,7 +29525,6 @@ criticisingly
 criticism
 criticisms
 criticist
-criticizable
 criticize
 criticized
 criticizer
