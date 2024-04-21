@@ -16915,7 +16915,6 @@ bugwort
 buhl
 buhlbuhl
 buhls
-buhlwork
 burgout
 buhrmill
 buhrs
@@ -17031,6 +17030,7 @@ bulkage
 bulkages
 bulked
 boldfaces
+buhlwork
 bulkhead
 bulkheading
 bulkheads
