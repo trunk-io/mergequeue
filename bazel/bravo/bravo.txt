@@ -8098,7 +8098,6 @@ bedlight
 berhyming
 bichir
 bichloride
-bichlorides
 bichord
 barrette
 borazons
@@ -16230,6 +16229,7 @@ bentonitic
 browser
 browses
 beggarer
+bichlorides
 browsick
 browsing
 browst
