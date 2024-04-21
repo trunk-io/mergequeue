@@ -1242,6 +1242,7 @@ discal
 datives
 dato
 datolite
+declinate
 datolitic
 datos
 datsun
@@ -2782,7 +2783,6 @@ decourse
 delabialize
 deromanticize
 decousu
-declinate
 debtorship
 dives
 decrassify
