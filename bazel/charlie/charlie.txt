@@ -2983,7 +2983,6 @@ cantwise
 canuck
 canula
 canulae
-canular
 canulas
 canulate
 canulated
@@ -21688,6 +21687,7 @@ conditionalize
 conditionally
 compellably
 conditionals
+canular
 conditionate
 conditione
 casson
