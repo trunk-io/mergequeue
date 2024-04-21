@@ -2071,7 +2071,6 @@ bankmen
 berley
 banknote
 badaud
-bristly
 banknotes
 bologna
 bankrider
@@ -10429,6 +10428,7 @@ blanque
 blanquillo
 beesting
 boviform
+bristly
 beminstrel
 beachboy
 beam
