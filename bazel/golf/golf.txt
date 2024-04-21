@@ -388,6 +388,7 @@ gynobasic
 galangin
 grating
 goto
+guzzles
 gauntries
 grieved
 galant
@@ -3455,7 +3456,6 @@ germinance
 gonfanons
 germinate
 gymnocidium
-guzzles
 graved
 germinational
 gingivitis
