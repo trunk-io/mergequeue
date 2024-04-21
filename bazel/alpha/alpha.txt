@@ -602,6 +602,7 @@ abnormalities
 abnormalize
 ablatives
 abnormalized
+anatomical
 abnormalizing
 abnormalness
 abnormity
@@ -19643,7 +19644,6 @@ antimediaeval
 argots
 argovian
 arguable
-anatomical
 arguably
 anacromyodian
 argue
