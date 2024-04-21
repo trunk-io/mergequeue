@@ -5946,6 +5946,7 @@ blanco
 biomicroscopy
 belluine
 bellum
+bigroot
 becobweb
 bluer
 bellweather
@@ -8458,7 +8459,6 @@ bigotedness
 besotted
 bigots
 bigotty
-bigroot
 bigthatch
 bachelors
 biguttulate
