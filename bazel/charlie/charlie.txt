@@ -18174,7 +18174,6 @@ coestate
 cellae
 coetanean
 coetaneous
-coetaneously
 coeternal
 coeternally
 coeternity
@@ -24522,6 +24521,7 @@ contraflow
 copatrons
 cope
 chrysidella
+coetaneously
 copeck
 copecks
 christliness
