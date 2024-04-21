@@ -8884,7 +8884,6 @@ equiprobabilist
 erelong
 emblement
 eremic
-eremite
 eases
 eremitism
 espied
@@ -13916,6 +13915,7 @@ extraordinarily
 enduement
 extraordinariness
 embryogenic
+eremite
 electrolytical
 extraovate
 ergamine
