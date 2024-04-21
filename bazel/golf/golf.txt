@@ -2186,7 +2186,6 @@ gazangabin
 gaze
 ganodus
 gazebo
-gazeboes
 gazebos
 giller
 galla
@@ -10611,6 +10610,7 @@ gusting
 gur
 guran
 gurdle
+gazeboes
 gurdwara
 gurglingly
 gurged
