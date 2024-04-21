@@ -5883,6 +5883,7 @@ grinder
 glossoplasty
 glossoplegia
 glossopodium
+gunfighter
 glossoptosis
 guidebook
 glossorrhaphy
@@ -8806,7 +8807,6 @@ greylag
 greylags
 gyte
 greillade
-gunfighter
 glimpsing
 grapeline
 gabby
