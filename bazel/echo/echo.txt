@@ -5440,6 +5440,7 @@ energids
 energise
 epitendineum
 epirot
+etoffe
 etatist
 energiser
 enantiosis
@@ -12723,7 +12724,6 @@ exonerative
 exonerator
 exonerators
 emparadise
-etoffe
 enrail
 exoneural
 electrowin
