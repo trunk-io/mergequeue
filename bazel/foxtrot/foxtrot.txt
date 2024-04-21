@@ -297,6 +297,7 @@ faecalith
 fourierite
 faeces
 faecula
+forward
 faeculence
 forkable
 faenas
@@ -8780,7 +8781,6 @@ forvay
 forwalk
 forwander
 fullfil
-forward
 forwardal
 frescoer
 frenzic
