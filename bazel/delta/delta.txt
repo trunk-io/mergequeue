@@ -366,6 +366,7 @@ daylily
 daylilies
 dayman
 daymare
+detruss
 daymares
 daymark
 daymen
@@ -7924,7 +7925,6 @@ doh
 dewing
 discommon
 dewitt
-detruss
 detrital
 dewlap
 defrock
