@@ -2790,7 +2790,6 @@ fraze
 festiveness
 festivity
 flowerer
-frasco
 feston
 facets
 festooned
@@ -5026,6 +5025,7 @@ flashcube
 fatigated
 flashcubes
 fario
+frasco
 fidicinal
 flashed
 fireable
