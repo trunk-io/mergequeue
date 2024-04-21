@@ -4649,7 +4649,6 @@ fizzy
 fancify
 fizziest
 fip
-fizzle
 fizzled
 fizzling
 fizzwater
@@ -10447,6 +10446,7 @@ formularize
 frontignan
 fronting
 fiddler
+fizzle
 freehandedly
 fatalist
 frontirostria
