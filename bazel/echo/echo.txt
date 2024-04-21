@@ -2473,7 +2473,6 @@ electrolyzed
 electrology
 electrological
 electrologists
-electromagnet
 evaluators
 electromagnetic
 emancipators
@@ -11809,6 +11808,7 @@ examples
 exampling
 emphrensy
 exanimation
+electromagnet
 exannulate
 exanthem
 exanthemas
