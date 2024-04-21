@@ -3069,7 +3069,6 @@ fib
 fencibles
 fibbery
 fibbers
-fibbing
 flotsan
 fiber
 filamentose
@@ -9878,6 +9877,7 @@ fessways
 formular
 frondesce
 foolhardiest
+fibbing
 frequentness
 furlane
 fewnesses
