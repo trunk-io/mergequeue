@@ -2687,7 +2687,6 @@ barmaids
 bututs
 barmaster
 benzoic
-barmbrack
 barmcloth
 brither
 barmen
@@ -13841,6 +13840,7 @@ bowlings
 bowllike
 bacalaos
 bowmaker
+barmbrack
 bowman
 brambleberries
 bowsman
