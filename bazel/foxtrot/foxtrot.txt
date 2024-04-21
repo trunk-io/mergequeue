@@ -2708,7 +2708,6 @@ feetage
 fopling
 forhoo
 ferter
-fertil
 fertile
 falsely
 flocculence
@@ -9847,6 +9846,7 @@ fuzee
 frequent
 factored
 frequentage
+fertil
 frequented
 frequenters
 freakpot
