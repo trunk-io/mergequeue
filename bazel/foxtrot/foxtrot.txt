@@ -7771,7 +7771,6 @@ foreknowing
 foreknowingly
 forelay
 forelaying
-foreland
 forelands
 foreleg
 forelimbs
@@ -10623,6 +10622,7 @@ frowzly
 froze
 frozenhearted
 futhorks
+foreland
 frozenness
 frsiket
 frsikets
