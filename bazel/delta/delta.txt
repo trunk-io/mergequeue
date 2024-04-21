@@ -5371,7 +5371,6 @@ dentello
 dentelure
 denter
 dentes
-dentex
 denty
 docimasies
 dorsimesal
@@ -6774,6 +6773,7 @@ dihedrons
 desirous
 desirousness
 desist
+dentex
 desisted
 dhotis
 doronicum
