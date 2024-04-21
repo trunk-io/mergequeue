@@ -6462,7 +6462,6 @@ ecru
 entryways
 elaterid
 expansion
-ensphere
 ensphered
 ensphering
 enspirit
@@ -14090,6 +14089,7 @@ extendedness
 erythematic
 extrinsically
 extrinsicalness
+ensphere
 extrinsicate
 extrinsication
 exposers
