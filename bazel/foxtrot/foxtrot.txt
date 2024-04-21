@@ -5076,7 +5076,6 @@ flasque
 flatbed
 flatcaps
 flatcar
-flatcars
 flated
 flatette
 flatfishes
@@ -10787,6 +10786,7 @@ frustule
 frustulent
 frustules
 frustum
+flatcars
 frutage
 frutescent
 frutex
