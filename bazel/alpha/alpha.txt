@@ -4830,7 +4830,6 @@ aegyptilla
 agonisingly
 aegir
 aegirinolite
-aegirite
 aegyrite
 aegises
 azocoralline
@@ -12215,6 +12214,7 @@ anchylotic
 anchimonomineral
 anchisaurus
 anchises
+aegirite
 anchistea
 anchithere
 anchitherioid
