@@ -1103,6 +1103,7 @@ faro
 floter
 foredestining
 faroelite
+franzy
 foremast
 farolito
 farrage
@@ -9458,7 +9459,6 @@ furacana
 featless
 franz
 forbear
-franzy
 fumarine
 ferritization
 fliers

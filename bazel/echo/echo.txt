@@ -1575,6 +1575,7 @@ extraversion
 epipany
 egyptologic
 egis
+exogeny
 egises
 eglamore
 eglandular
@@ -12680,7 +12681,6 @@ exogenae
 expressibly
 ekaha
 excommunicable
-exogeny
 encratism
 exogenic
 epipleurae
