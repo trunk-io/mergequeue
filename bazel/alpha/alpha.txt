@@ -14337,7 +14337,6 @@ anteroom
 anterooms
 anteroparietal
 anteropygal
-anteroposterior
 ancipitous
 anterospinal
 anterosuperior
@@ -18554,6 +18553,7 @@ araphorostic
 anticensoriously
 autoecious
 araponga
+anteroposterior
 araquaju
 arar
 araracanga
