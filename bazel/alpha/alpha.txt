@@ -1528,7 +1528,6 @@ accipenser
 accipient
 accipitrary
 accipitrine
-accipter
 accise
 accismus
 akala
@@ -21867,6 +21866,7 @@ assish
 assishly
 assishness
 anchietine
+accipter
 autostage
 assist
 assistance
