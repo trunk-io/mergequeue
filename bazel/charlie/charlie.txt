@@ -5132,6 +5132,7 @@ caseless
 caselessly
 caseload
 caseloads
+croker
 caselty
 casemaker
 casemaking
@@ -29658,7 +29659,6 @@ croissante
 croissants
 crojack
 crojik
-croker
 crokinole
 crom
 cromaltite
