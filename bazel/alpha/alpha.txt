@@ -5726,6 +5726,7 @@ afterswarming
 aftertask
 aftertaste
 aftertastes
+ancestress
 afterthinker
 achromatium
 afterthought
@@ -12195,7 +12196,6 @@ angst
 ancestors
 ancestral
 ancestrally
-ancestress
 ancestry
 ancestrian
 ancestries
