@@ -8597,6 +8597,7 @@ allactite
 allaeanthus
 allagite
 arborolatry
+armlocks
 allagostemonous
 allah
 allay
@@ -20043,7 +20044,6 @@ armlike
 armload
 armloads
 armlock
-armlocks
 armoire
 armoires
 armomancy
