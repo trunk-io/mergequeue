@@ -2921,7 +2921,6 @@ choroidea
 chinquapin
 casuarinaceous
 cantina
-cantinas
 canting
 cantingly
 cantingness
@@ -19025,6 +19024,7 @@ collembolous
 collenchymatic
 collenchymatous
 collenchyme
+cantinas
 creasiest
 collencyte
 colleri
