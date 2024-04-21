@@ -18090,7 +18090,6 @@ appropriator
 appropriators
 approvability
 arbitrational
-approvableness
 approval
 approvals
 avitaminoses
@@ -21944,6 +21943,7 @@ alphabetics
 assuage
 astrologer
 apprise
+approvableness
 assuaged
 assuages
 assuasive
