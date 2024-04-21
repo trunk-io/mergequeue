@@ -6774,7 +6774,6 @@ bemixes
 blachong
 berigora
 beryl
-berylate
 beltways
 bitemporal
 beryllate
@@ -15847,6 +15846,7 @@ bromination
 broadband
 bromine
 buzzbomb
+berylate
 bromines
 brominize
 bromios
