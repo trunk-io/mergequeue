@@ -5145,7 +5145,6 @@ glariness
 glaring
 gymnolaema
 glassworking
-gammelost
 gametogonium
 glaringly
 glarry
@@ -5342,6 +5341,7 @@ glenoid
 glenoidal
 glent
 glenwood
+gammelost
 glew
 gangly
 glowerer
