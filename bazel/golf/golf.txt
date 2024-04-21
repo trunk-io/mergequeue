@@ -3252,6 +3252,7 @@ geostatic
 geostationary
 geostrategist
 geostrophic
+graminiferous
 geostrophically
 graylags
 geotactically
@@ -9019,7 +9020,6 @@ grimily
 grimines
 grimly
 gizzards
-graminiferous
 grimm
 glyceryls
 grimme
