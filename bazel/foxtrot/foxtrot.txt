@@ -2238,6 +2238,7 @@ femaleness
 females
 fleer
 femality
+frigate
 femcee
 feme
 feruling
@@ -10042,7 +10043,6 @@ farrow
 fleshhook
 friezer
 frigage
-frigate
 frigates
 frigatoon
 frigged
