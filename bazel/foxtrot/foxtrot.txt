@@ -8272,7 +8272,6 @@ forgiveable
 faroff
 forgiveably
 forgiveless
-forgiven
 fimetic
 foxiest
 forewarn
@@ -10014,6 +10013,7 @@ frictionless
 frictionproof
 frictions
 festering
+forgiven
 fridays
 fastuously
 fiddlehead
