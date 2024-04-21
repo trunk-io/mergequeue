@@ -3967,7 +3967,6 @@ gangways
 gateworks
 glazier
 gigantological
-gigantosaurus
 gaddi
 gaviiformes
 gigantostracous
@@ -10113,6 +10112,7 @@ guiac
 groundsel
 guberla
 guiana
+gigantosaurus
 gridding
 guianan
 guyandot
