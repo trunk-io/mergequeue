@@ -1278,7 +1278,6 @@ amidst
 acanthodes
 acanthodian
 acanthodidae
-acanthodii
 acanthodini
 acanthoid
 acantholimon
@@ -13381,6 +13380,7 @@ anisoptera
 anisopteran
 arunta
 anisopterous
+acanthodii
 anisosepalous
 anisostaminous
 anisosthenic
