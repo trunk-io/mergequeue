@@ -4670,6 +4670,7 @@ carpellum
 cytinaceous
 carpenter
 carpentered
+coattended
 carpenteria
 carpentering
 carpenters
@@ -17364,7 +17365,6 @@ coattailed
 cheloid
 coattails
 coattend
-coattended
 cajeta
 coattending
 coattest
