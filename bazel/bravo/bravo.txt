@@ -61,6 +61,7 @@ babe
 babel
 bursters
 bolbonac
+berouged
 babeldom
 babelet
 babelish
@@ -8554,7 +8555,6 @@ bilbo
 bobadilism
 bilboa
 bilboas
-berouged
 bearableness
 bilch
 bilcock
