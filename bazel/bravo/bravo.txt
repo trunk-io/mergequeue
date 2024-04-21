@@ -2425,7 +2425,6 @@ basis
 barbwire
 bibliogenesis
 barbwires
-ballyhooer
 bullpout
 betatter
 barcaroles
@@ -6209,6 +6208,7 @@ bendies
 buskle
 bendingly
 bends
+ballyhooer
 bendwise
 beneception
 balaneutics
