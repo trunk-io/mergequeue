@@ -4760,7 +4760,6 @@ geologise
 gowkit
 gumfield
 gyromele
-griskin
 gameful
 gobiiformes
 gasconade
@@ -7277,6 +7276,7 @@ gunung
 gospelers
 groutier
 genet
+griskin
 gospelist
 gospelize
 gospeller
