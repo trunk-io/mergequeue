@@ -12418,7 +12418,6 @@ chromatology
 chromatologies
 chromatometer
 chromatone
-chromatopathy
 chromatopathia
 celebe
 chromatopathic
@@ -16537,6 +16536,7 @@ clogged
 cenobium
 clogger
 cloggy
+chromatopathy
 cucumbers
 cloggier
 chiliasm
