@@ -1960,7 +1960,6 @@ bandusia
 bandusian
 bandwagon
 burdenable
-bonhomme
 bandwagons
 baahling
 bdls
@@ -18388,6 +18387,7 @@ betwattled
 bobowler
 buzzer
 buzzerphone
+bonhomme
 buzzers
 buzzgloak
 buzzier
