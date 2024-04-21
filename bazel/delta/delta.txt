@@ -1612,6 +1612,7 @@ designating
 deresinize
 deallocation
 deallocations
+dipteron
 deals
 dealt
 deambulate
@@ -10798,7 +10799,6 @@ dependent
 diastase
 dipterology
 devitalise
-dipteron
 dipterus
 diptyca
 diptychs
