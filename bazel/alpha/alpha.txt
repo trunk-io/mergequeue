@@ -10832,6 +10832,7 @@ accentuable
 ammonolitic
 ammonolytic
 aitches
+anticult
 ammonolyzing
 ammophila
 ammophilous
@@ -20464,7 +20465,6 @@ arsyl
 arsylene
 arsine
 arsinic
-anticult
 anlia
 arsino
 arsinoitherium
