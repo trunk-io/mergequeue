@@ -6143,7 +6143,6 @@ disauthentic
 derays
 derange
 derangeable
-deranger
 deranges
 disdiazo
 durgen
@@ -7862,6 +7861,7 @@ defiances
 devouringly
 devouringness
 devourment
+deranger
 devoutful
 devoutlessly
 devoutlessness
