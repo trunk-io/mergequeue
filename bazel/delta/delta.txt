@@ -1989,6 +1989,7 @@ damageableness
 decahedrons
 decahydrate
 decahydronaphthalene
+dealates
 decay
 decayable
 decayed
@@ -2498,7 +2499,6 @@ declarable
 declarant
 declaration
 declarations
-dealates
 declarative
 deutzias
 declarator
