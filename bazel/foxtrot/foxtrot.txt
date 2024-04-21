@@ -2579,7 +2579,6 @@ forwake
 ferriferous
 ferrels
 fossilisable
-floatmaker
 fooster
 fluorine
 ferreous
@@ -7728,6 +7727,7 @@ forehooves
 foreyard
 forpit
 fibrolipoma
+floatmaker
 floodlights
 finnack
 fulls
