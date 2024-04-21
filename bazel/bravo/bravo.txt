@@ -2634,7 +2634,6 @@ balsameaceous
 barkeeper
 barkeepers
 barkeeps
-boardwalk
 byelaws
 bunglesome
 barkey
@@ -12231,6 +12230,7 @@ bolstered
 bolsterer
 bolsters
 bunters
+boardwalk
 brake
 bolsterwork
 bolt
