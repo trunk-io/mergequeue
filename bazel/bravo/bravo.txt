@@ -2758,7 +2758,6 @@ barology
 barolong
 botryoidally
 baromacrometer
-barometer
 boroughship
 barometers
 barometry
@@ -9299,6 +9298,7 @@ bipeltate
 blepharophthalmia
 bipennate
 built
+barometer
 burry
 bipennated
 bipenniform
