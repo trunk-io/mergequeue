@@ -1461,7 +1461,6 @@ deoxygenate
 dca
 deceived
 dcb
-dclass
 dcollet
 dcor
 ddname
@@ -9759,6 +9758,7 @@ darnedest
 dilemmic
 dilettante
 domino
+dclass
 dilettanteish
 dilettanteship
 devaster
