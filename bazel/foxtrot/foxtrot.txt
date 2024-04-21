@@ -2228,7 +2228,6 @@ felstone
 felstones
 framers
 felt
-felted
 furless
 felter
 feltyflier
@@ -9253,6 +9252,7 @@ fractious
 frontierlike
 foolheaded
 frilliest
+felted
 fractocumulus
 fads
 foundationally
