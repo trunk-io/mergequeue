@@ -546,7 +546,6 @@ genders
 gobblers
 gallbladders
 gaudish
-galleass
 galled
 geogenic
 geotic
@@ -4322,6 +4321,7 @@ gasteralgia
 gynandrous
 gynantherous
 guisian
+galleass
 gnathoplasty
 gynarchy
 gnawed
