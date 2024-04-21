@@ -1841,7 +1841,6 @@ bandarlog
 bandbox
 bandboxes
 bandboxy
-barricos
 bandboxical
 bandcutter
 bandeau
@@ -16221,6 +16220,7 @@ browses
 beggarer
 browsick
 browsing
+barricos
 browst
 barre
 browzer

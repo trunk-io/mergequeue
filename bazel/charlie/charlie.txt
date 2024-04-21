@@ -1998,6 +1998,7 @@ campagus
 campaign
 campaigner
 campaigners
+chassignite
 campaigning
 campaigns
 campana
@@ -9260,7 +9261,6 @@ cinderella
 chassepots
 chasses
 chasseurs
-chassignite
 coachful
 chemisorptive
 chastacosta
