@@ -2122,7 +2122,6 @@ bowlines
 bannockburn
 bannocks
 bivittate
-bannut
 banovina
 banquet
 banqueted
@@ -14232,6 +14231,7 @@ bilsted
 brag
 bloodlessness
 breloque
+bannut
 bragas
 braggadocian
 braggadocianism
