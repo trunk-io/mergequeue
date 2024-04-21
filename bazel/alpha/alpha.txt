@@ -4726,7 +4726,6 @@ advisive
 advisiveness
 adviso
 adlumine
-amatungula
 advisor
 advisory
 advisories
@@ -22953,6 +22952,7 @@ atroscine
 ankylomele
 atrous
 alikuluf
+amatungula
 atsara
 att
 atta
