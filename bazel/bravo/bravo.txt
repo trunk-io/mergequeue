@@ -5732,7 +5732,6 @@ belgrade
 belgravia
 belgravian
 bely
-belial
 belialic
 belibel
 belick
@@ -9729,6 +9728,7 @@ boulangerite
 bisks
 bisley
 bislings
+belial
 battening
 bysmalith
 biggety
