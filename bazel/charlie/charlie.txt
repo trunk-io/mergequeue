@@ -4954,6 +4954,7 @@ condors
 cartoons
 cartop
 cartopper
+corrupt
 chrysomonadina
 cartouch
 cartouche
@@ -25841,7 +25842,6 @@ corrump
 corrup
 corrupable
 carolinian
-corrupt
 corruptedly
 corruptedness
 culinarily
