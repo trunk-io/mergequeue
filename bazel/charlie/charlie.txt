@@ -6665,6 +6665,7 @@ ceiling
 ceilings
 ceilingward
 ceilingwards
+couche
 ceilometer
 ceylon
 ceylonese
@@ -26553,7 +26554,6 @@ couchancy
 couchant
 couchantly
 couths
-couche
 couchee
 coucher
 conjugata
