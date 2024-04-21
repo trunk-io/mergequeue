@@ -2805,7 +2805,6 @@ decrease
 decreased
 depravate
 decreases
-decreasing
 decreasingly
 decreation
 decreeable
@@ -11740,6 +11739,7 @@ discountenances
 discounter
 distastes
 discounters
+decreasing
 discounting
 defecates
 discountinuous
