@@ -10367,7 +10367,6 @@ amerimnon
 amerind
 anchorage
 androgen
-amerindian
 amerindians
 anatomisable
 amerinds
@@ -11776,6 +11775,7 @@ addressee
 arbitre
 analyses
 analysing
+amerindian
 antimoniate
 analysis
 analyst
