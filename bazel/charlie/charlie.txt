@@ -8581,7 +8581,6 @@ champa
 champaca
 champacol
 champagne
-cherimoya
 champagned
 champagneless
 champagnes
@@ -22121,6 +22120,7 @@ chowderhead
 confound
 confounded
 comfits
+cherimoya
 cumin
 chironomic
 catholicizer
