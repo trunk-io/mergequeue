@@ -652,6 +652,7 @@ bacteriophagy
 bacteriophagic
 bear
 bacterioprecipitin
+bande
 bacteriopsonin
 bellwethers
 butchering
@@ -10898,7 +10899,6 @@ blindcat
 bevue
 blindedly
 beeyard
-bande
 blinder
 blinders
 blindest
