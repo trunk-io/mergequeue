@@ -2940,6 +2940,7 @@ gageable
 gentleman
 grasped
 gentlemanize
+gingelies
 gentlemanly
 gentlemanlikeness
 gentlemanliness
@@ -7628,7 +7629,6 @@ grader
 grades
 gradgrind
 gud
-gingelies
 gradgrindism
 gradient
 gradientia
