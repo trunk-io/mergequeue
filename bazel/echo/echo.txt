@@ -2605,7 +2605,6 @@ electrosensitive
 electrosherardizing
 electroshock
 electroshocks
-electrosynthesis
 electrosynthetically
 elucidative
 envenoms
@@ -11275,6 +11274,7 @@ embezzle
 evadingly
 emprime
 evadne
+electrosynthesis
 enviroment
 exanthema
 evaginable
