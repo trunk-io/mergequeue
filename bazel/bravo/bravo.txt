@@ -9137,6 +9137,7 @@ branchstand
 biophysical
 biophysics
 biophysiography
+bindweb
 biophysiology
 biophysiologist
 brunellia
@@ -15137,7 +15138,6 @@ bribed
 blossomhead
 bribee
 bribees
-bindweb
 bribegiver
 bribeless
 bribemonger
