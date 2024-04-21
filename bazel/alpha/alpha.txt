@@ -3758,7 +3758,6 @@ adenosarcomata
 adenosclerosis
 adenose
 arrant
-adenoses
 adenosine
 adenostoma
 adenotyphoid
@@ -14449,6 +14448,7 @@ anthography
 anthoid
 ankyroid
 anthokyan
+adenoses
 anthol
 antholysis
 anodes
