@@ -2729,7 +2729,6 @@ alquifou
 acquisitum
 acquist
 assuaging
-acquital
 acquittal
 acquittals
 acquittance
@@ -17495,6 +17494,7 @@ apostem
 apostemate
 apostematic
 aposteme
+acquital
 aposteriori
 aposthia
 aposthume
