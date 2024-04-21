@@ -6954,7 +6954,6 @@ began
 bescrape
 bescratch
 bescreen
-bescreened
 belleek
 bescreening
 bescreens
@@ -10520,6 +10519,7 @@ blastomycete
 blastomycetic
 bergamots
 blastomycotic
+bescreened
 blastoneuropore
 bogan
 beld
