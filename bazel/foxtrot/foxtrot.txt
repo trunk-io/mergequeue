@@ -4855,7 +4855,6 @@ foxings
 fatiscence
 flamb
 flambage
-flambant
 flambe
 furcately
 foreboded
@@ -8141,6 +8140,7 @@ forevouch
 febronian
 fontanges
 farcify
+flambant
 forevow
 fruitages
 forewarmer
