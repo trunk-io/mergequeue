@@ -2936,7 +2936,6 @@ barrelmaking
 birdwomen
 barrelwise
 barren
-barrenly
 bunco
 barrenness
 bullring
@@ -4329,6 +4328,7 @@ beautifiers
 beautifying
 beautiful
 beautifulness
+barrenly
 beautihood
 beautiless
 beautyship
