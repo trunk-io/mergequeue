@@ -9236,7 +9236,6 @@ chasma
 chasmed
 chasmic
 chondrigenous
-coffinite
 chasmogamy
 chasmogamic
 chasmogamous
@@ -9366,6 +9365,7 @@ chaudron
 chaufer
 chaufers
 chauffage
+coffinite
 chauffer
 chauffers
 chauffeured
