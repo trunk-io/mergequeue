@@ -6576,7 +6576,6 @@ bepepper
 beperiwigged
 bephilter
 bephrase
-brachiopodist
 bepicture
 bepiece
 bellyflaught
@@ -10286,6 +10285,7 @@ bladderlike
 burbles
 bladdernut
 bladderpod
+brachiopodist
 bladderseed
 bladderweed
 bladderwort
