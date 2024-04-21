@@ -1940,7 +1940,6 @@ acerous
 acertannin
 acerval
 acervate
-acervatim
 acervation
 acervative
 acervose
@@ -20149,6 +20148,7 @@ arolia
 aroma
 aromacity
 aromal
+acervatim
 azonal
 auspices
 aculeate
