@@ -9056,7 +9056,6 @@ erinaceidae
 erinaceous
 eryngium
 eringo
-externity
 eryngo
 eringos
 ectotherm
@@ -10364,6 +10363,7 @@ ethylin
 ethylmorphine
 enflowering
 ethylsulphuric
+externity
 ethylthioethane
 ethylthioether
 ethinamate
