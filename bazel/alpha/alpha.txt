@@ -1661,6 +1661,7 @@ accorporation
 accost
 accosted
 adeodatus
+amatorian
 accosting
 accosts
 accouche
@@ -9909,7 +9910,6 @@ amatols
 amatory
 amatorial
 amatorially
-amatorian
 amatorious
 amatrice
 amaurosis
