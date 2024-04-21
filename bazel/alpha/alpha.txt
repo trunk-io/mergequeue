@@ -2672,6 +2672,7 @@ autodetector
 acounter
 acouometer
 acouophonia
+adjacently
 acoluthic
 acoup
 acoupa
@@ -3992,7 +3993,6 @@ adjacence
 adjacency
 adjacencies
 amated
-adjacently
 adjag
 adject
 adjection
