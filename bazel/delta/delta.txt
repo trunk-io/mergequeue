@@ -4211,6 +4211,7 @@ delit
 delitescence
 dumous
 delitescency
+desize
 delitescent
 deliverables
 deliverance
@@ -6784,7 +6785,6 @@ desists
 dedicates
 diaconate
 desitive
-desize
 deskbound
 deskill
 desklike

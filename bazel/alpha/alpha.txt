@@ -6356,6 +6356,7 @@ agonia
 agoniada
 aul
 ascabart
+assertum
 agoniadin
 acanthite
 agoniatite
@@ -21761,7 +21762,6 @@ assertorily
 autodynamic
 assertress
 asserts
-assertum
 asserve
 apparencies
 acroteric
