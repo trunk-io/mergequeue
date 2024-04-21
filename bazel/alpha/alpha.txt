@@ -1186,6 +1186,7 @@ acacias
 acaciin
 acclimatized
 academe
+amiloun
 academes
 academy
 academia
@@ -10628,7 +10629,6 @@ amyloses
 amylosynthesis
 amylosis
 asthenosphere
-amiloun
 amyls
 amylum
 amimide
