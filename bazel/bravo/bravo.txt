@@ -10713,7 +10713,6 @@ blemmatrope
 brooches
 buffle
 blench
-blenched
 bullweeds
 bureaucratize
 blenchers
@@ -11393,6 +11392,7 @@ bluefin
 blobbing
 bluefins
 bluegill
+blenched
 belonosphaerite
 bluegills
 bluegrass
