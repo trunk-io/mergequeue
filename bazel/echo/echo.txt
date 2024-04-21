@@ -3987,7 +3987,6 @@ empanelling
 empanels
 electroplated
 enantiotropy
-empannel
 empanoply
 empaper
 emparchment
@@ -9284,6 +9283,7 @@ essenical
 eupomatia
 eroticomaniac
 eroticomaniacal
+empannel
 erotylid
 etamines
 erotylidae

@@ -5355,7 +5355,6 @@ castice
 castigable
 castigate
 castigates
-castigating
 citraconic
 castigation
 castigations
@@ -10089,6 +10088,7 @@ cherub
 cherubfish
 cherubfishes
 cherubic
+castigating
 cherubical
 cherubically
 cherubim
