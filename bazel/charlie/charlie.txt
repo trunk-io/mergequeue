@@ -16878,7 +16878,6 @@ clubhauls
 clubhouse
 clubhouses
 clubionid
-clubionidae
 clubland
 clubman
 clubmate
@@ -16954,6 +16953,7 @@ clunter
 clupanodonic
 clupea
 contranatural
+clubionidae
 clupeid
 clupeidae
 clupeids
