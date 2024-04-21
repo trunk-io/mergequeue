@@ -2691,6 +2691,7 @@ acquest
 acquests
 astrologists
 acquiesce
+addiction
 acquiesced
 acquiescement
 acquiescence
@@ -25080,7 +25081,6 @@ axiality
 axialities
 axiate
 axifera
-addiction
 axiferous
 axifugal
 axil
