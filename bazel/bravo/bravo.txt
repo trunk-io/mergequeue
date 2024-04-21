@@ -2975,7 +2975,6 @@ barricoes
 barrier
 barriers
 barrigudos
-broadaxe
 barrikin
 burled
 barriness
@@ -5364,6 +5363,7 @@ begorah
 begorra
 begorry
 begotten
+broadaxe
 blastier
 begottenness
 begowk
