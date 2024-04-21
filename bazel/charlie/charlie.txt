@@ -13689,7 +13689,6 @@ cymbalists
 cymballed
 cymballike
 cob
-cymballing
 cymbalo
 cimbalom
 cymbalom
@@ -18946,6 +18945,7 @@ collationer
 collations
 cesti
 collatitious
+cymballing
 cloine
 collative
 catouse
