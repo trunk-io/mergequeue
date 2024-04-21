@@ -1633,6 +1633,7 @@ deamidase
 deamidation
 deamidization
 deaminase
+digitize
 deaminate
 deaminated
 deaminating
@@ -15864,7 +15865,6 @@ dorsosacral
 dorsoscapular
 dorsosternal
 dorsothoracic
-digitize
 diablotin
 decimate
 dismalize
