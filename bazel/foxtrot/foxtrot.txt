@@ -8127,6 +8127,7 @@ fibrocrystalline
 fretless
 foretop
 foretopman
+fraid
 foretopmast
 foretopmen
 foretops
@@ -9295,7 +9296,6 @@ facts
 fragrantness
 fabulists
 flockling
-fraid
 frayedly
 fibrochondritis
 frayedness
