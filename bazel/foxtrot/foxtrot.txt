@@ -3881,6 +3881,7 @@ finaglers
 final
 finale
 finales
+fordable
 finalization
 finalized
 fourstrand
@@ -7468,7 +7469,6 @@ fractionized
 flabbergastation
 ford
 flagellata
-fordable
 fordableness
 forded
 fibromyxosarcoma
