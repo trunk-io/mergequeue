@@ -6332,7 +6332,6 @@ dysgenesic
 dermatopnagic
 dermatopsy
 dermatoptera
-dermatoptic
 debatter
 desolative
 direst
@@ -9903,6 +9902,7 @@ dosimetrist
 dimethoate
 dimethoxy
 dropworts
+dermatoptic
 dimetient
 dimetry
 disquisitionary
