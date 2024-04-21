@@ -2355,7 +2355,6 @@ acichloride
 acyclic
 acast
 aciculae
-acicularity
 annamese
 aciculate
 aciculum
@@ -4079,6 +4078,7 @@ androgyny
 aplanospore
 adjutancies
 adjutant
+acicularity
 adjutants
 adjutantship
 anesthetic
