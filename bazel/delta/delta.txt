@@ -1114,7 +1114,6 @@ dropflower
 dashpot
 depaint
 dashwheel
-dasya
 dicyanid
 dasyatidae
 diau
@@ -3218,6 +3217,7 @@ defedation
 defeise
 defeit
 de
+dasya
 defeminize
 densimeter
 dismarshall
