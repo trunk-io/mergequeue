@@ -1289,7 +1289,6 @@ fassalite
 fastbacks
 fastball
 feower
-fastened
 fastener
 foreclaw
 fasteners
@@ -3335,6 +3334,7 @@ fideist
 folklorist
 fideistic
 faction
+fastened
 ferrying
 fidejussionary
 furlanas
