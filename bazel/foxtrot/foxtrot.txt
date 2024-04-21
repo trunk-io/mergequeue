@@ -521,7 +521,6 @@ folium
 falcons
 falcopern
 folkboat
-falcula
 flatfeet
 falculate
 falcunculus
@@ -1941,6 +1940,7 @@ federalists
 federalization
 federalizations
 federalize
+falcula
 federalized
 federally
 frankliniana
