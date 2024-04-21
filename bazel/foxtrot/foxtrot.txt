@@ -5087,7 +5087,6 @@ flatette
 flatfishes
 flatfoot
 flatfootedly
-flathat
 flathead
 flatiron
 froom
@@ -11368,6 +11367,7 @@ furfuralcohol
 firetower
 filiciform
 francium
+flathat
 forcible
 fusobacterium
 furfuramid
