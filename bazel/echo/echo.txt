@@ -11365,6 +11365,7 @@ epiblastema
 evaporated
 evaporates
 enemylike
+exacum
 eimer
 evaporating
 entredeux
@@ -11718,7 +11719,6 @@ electrophone
 exacuate
 exhance
 equimomental
-exacum
 exadverso
 exadversum
 exaestuate
