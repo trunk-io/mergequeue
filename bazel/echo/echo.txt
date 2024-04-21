@@ -7948,7 +7948,6 @@ epimers
 enchains
 epimyocardial
 epanagoge
-epimyocardium
 epimysia
 eudiometer
 eteocreton
@@ -13040,6 +13039,7 @@ expense
 envoi
 ephedrin
 expensed
+epimyocardium
 expensefully
 expenses
 expensing
