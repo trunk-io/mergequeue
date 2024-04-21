@@ -11255,7 +11255,6 @@ bloused
 blouselike
 basks
 blouses
-blousier
 blousing
 blouson
 blout
@@ -15275,6 +15274,7 @@ bridgewards
 barrulet
 bridgewater
 bridgework
+blousier
 bridging
 bridie
 barish
