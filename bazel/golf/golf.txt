@@ -3707,7 +3707,6 @@ gro
 gheraoing
 gillnetting
 genearch
-gherkin
 gnathalgia
 galyaks
 ghettoed
@@ -7665,6 +7664,7 @@ graduation
 graduators
 graduses
 graeae
+gherkin
 graecian
 gemlike
 graecize
