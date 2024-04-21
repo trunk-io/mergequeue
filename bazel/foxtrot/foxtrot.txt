@@ -7652,7 +7652,6 @@ forefield
 frigidities
 foreorlop
 forefigure
-forefin
 forefinger
 forjudged
 forefingers
@@ -11197,6 +11196,7 @@ foresettle
 funerary
 funeration
 funereality
+forefin
 flintwork
 funereally
 freeloaders

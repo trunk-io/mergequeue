@@ -16664,7 +16664,6 @@ aortomalaxis
 aortopathy
 aortoptosia
 aortorrhaphy
-aortostenosis
 aosmic
 aotea
 aotearoa
@@ -17344,6 +17343,7 @@ apological
 apologies
 amenage
 apologise
+aortostenosis
 apologised
 apologising
 amicableness
