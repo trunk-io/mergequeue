@@ -985,6 +985,7 @@ darkeys
 dicyanide
 darkening
 darkens
+default
 dibatis
 darker
 darkest
@@ -3149,7 +3150,6 @@ demythologizing
 defatting
 defensing
 dual
-default
 duringly
 defaultant
 defaulted
