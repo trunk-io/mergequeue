@@ -11398,7 +11398,6 @@ convenee
 commands
 chlorophyceous
 chlorophyl
-chlorophyll
 chlorophyllase
 chlorophyllian
 chlorophyllide
@@ -11813,6 +11812,7 @@ chondromyces
 chondromyxoma
 chondromyxosarcoma
 chondromucoid
+chlorophyll
 chondropharyngeus
 chondrophyte
 chondrophore
