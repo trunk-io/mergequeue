@@ -5515,7 +5515,6 @@ enfevers
 eyeline
 enfigure
 enfilade
-enfiladed
 emolument
 enfilades
 enfilading
@@ -12822,6 +12821,7 @@ expatiater
 explicative
 exospheric
 extraneously
+enfiladed
 exorcists
 exospherical
 encephalomere
