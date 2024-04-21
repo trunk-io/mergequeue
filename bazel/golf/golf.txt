@@ -5562,7 +5562,6 @@ glyptotherium
 globeholder
 glires
 gliridae
-gliriformia
 glirine
 groundskeep
 glisk
@@ -9664,6 +9663,7 @@ gamahe
 gruffest
 gifblaar
 glycocoll
+gliriformia
 gruffier
 gammon
 gruffiest
