@@ -9799,7 +9799,6 @@ chelators
 chelerythrine
 chelicer
 chelicera
-cheliceral
 chelicerate
 cysts
 chelide
@@ -14882,6 +14881,7 @@ citigrade
 cityish
 cigale
 coordinate
+cheliceral
 cityless
 cytinaceae
 cityness
