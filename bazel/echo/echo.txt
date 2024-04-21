@@ -4054,7 +4054,6 @@ emphemeralness
 emphysema
 emphyteusis
 emphyteuta
-eozoon
 emphyteutic
 emphlysis
 emphraxis
@@ -5648,6 +5647,7 @@ engarb
 engarble
 engarrison
 engastrimyth
+eozoon
 excitonutrient
 engastrimythic
 evening
