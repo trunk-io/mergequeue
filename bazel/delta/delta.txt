@@ -2033,7 +2033,6 @@ devonite
 decamp
 decamped
 decamping
-decampment
 decan
 decanal
 decanally
@@ -12977,6 +12976,7 @@ divorceable
 dispel
 dory
 dispellable
+decampment
 dispelled
 diaphanous
 dispelling
