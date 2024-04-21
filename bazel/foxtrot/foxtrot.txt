@@ -3612,7 +3612,6 @@ filecard
 filechar
 filed
 filefishes
-fogie
 foretack
 filemaker
 fluidize
@@ -11753,5 +11752,6 @@ fv
 flocculi
 feverbush
 fw
+fogie
 fwelling
 fz
