@@ -8845,7 +8845,6 @@ chapatti
 chapatty
 chapatties
 chapattis
-chapbook
 chape
 chapeau
 chaped
@@ -10436,6 +10435,7 @@ chiefless
 cytisus
 chiefling
 chiefs
+chapbook
 chieftain
 chieftaincy
 chieftaincies
