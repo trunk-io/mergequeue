@@ -6994,7 +6994,6 @@ cenosite
 cenosity
 cenospecies
 custodiam
-cenospecific
 cenotaphy
 contorsive
 cenotaphies
@@ -8937,6 +8936,7 @@ characin
 characine
 characinid
 characinoid
+cenospecific
 characins
 charact
 cutouts
