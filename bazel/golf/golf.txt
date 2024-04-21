@@ -4870,7 +4870,6 @@ gladeye
 glossematics
 gyves
 givingness
-grudgingness
 gizmos
 glassblowers
 gizz
@@ -6090,6 +6089,7 @@ gazing
 gallegan
 griots
 genesiac
+grudgingness
 glutamine
 genevois
 ginkgoes
