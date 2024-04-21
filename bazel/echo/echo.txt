@@ -2362,7 +2362,6 @@ extemporaneousness
 electrification
 electrodeposition
 electrodepositor
-escalation
 electrodes
 electrodesiccation
 electrodiagnosis
@@ -6259,6 +6258,7 @@ enroll
 enrolle
 enrolled
 enrollee
+escalation
 embryologies
 efformative
 exhalant

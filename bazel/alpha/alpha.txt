@@ -6605,7 +6605,6 @@ ahantchuyuk
 ahartalav
 ahaunch
 ahead
-aheap
 ahey
 attenuating
 acquaintances
@@ -8287,6 +8286,7 @@ alienated
 alienates
 alienating
 alienation
+aheap
 alienator
 aliene
 aliened
