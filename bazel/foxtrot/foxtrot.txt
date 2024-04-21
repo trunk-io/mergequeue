@@ -1062,7 +1062,6 @@ frowzier
 farls
 fetal
 fantad
-farmable
 farmed
 farmer
 foraminous
@@ -3758,6 +3757,7 @@ fillips
 fillmore
 fosse
 forehatchway
+farmable
 flow
 fillock
 fake
