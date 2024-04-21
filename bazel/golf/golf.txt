@@ -5171,6 +5171,7 @@ glassworker
 glassworkers
 glassworm
 glasswort
+gnomish
 gees
 glathsheim
 gte
@@ -6242,7 +6243,6 @@ gnomesque
 gnomical
 gnomide
 gastroid
-gnomish
 goutwort
 gelastic
 gnomist
