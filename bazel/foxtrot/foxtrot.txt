@@ -6799,6 +6799,7 @@ furthersome
 foysen
 foison
 foisonless
+flavorers
 fusils
 failsafe
 forthset
@@ -8169,7 +8170,6 @@ figbird
 forewit
 forewoman
 forewords
-flavorers
 foreworld
 flung
 flabbier
