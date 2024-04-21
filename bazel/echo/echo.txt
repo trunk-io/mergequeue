@@ -7383,7 +7383,6 @@ epencephalic
 epencephalon
 epencephalons
 ependymal
-ependymary
 enskied
 economised
 esrog
@@ -11508,6 +11507,7 @@ eversible
 encephalosis
 evert
 evertebrata
+ependymary
 evertebrate
 everting
 everted
