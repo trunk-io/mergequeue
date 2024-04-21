@@ -9443,7 +9443,6 @@ altar
 altarage
 altared
 allodies
-altarlet
 altarpieces
 altars
 altarwise
@@ -14693,6 +14692,7 @@ astonishingness
 anthropopsychism
 anthropos
 anthroposociology
+altarlet
 anthroposomatology
 anthroposophy
 alcyonacea
