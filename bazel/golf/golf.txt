@@ -3019,7 +3019,6 @@ guacimo
 grammaticism
 gruesomeness
 geocentric
-gallophobe
 greenlandish
 glycollic
 glints
@@ -6219,6 +6218,7 @@ gallantry
 gnathobdellida
 gnathonic
 gnathonical
+gallophobe
 gnathonically
 gnathonize
 gourd
