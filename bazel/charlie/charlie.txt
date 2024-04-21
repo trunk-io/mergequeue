@@ -18817,6 +18817,7 @@ coliform
 coliforms
 codisjunct
 crooked
+communicational
 coliidae
 cavil
 colilysin
@@ -20304,7 +20305,6 @@ communicate
 communicates
 communicating
 communication
-communicational
 communications
 communicative
 communicatively
