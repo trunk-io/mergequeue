@@ -11845,6 +11845,7 @@ angelus
 acyanopsia
 awink
 administrate
+antimachine
 anam
 anama
 anametadromous
@@ -15507,7 +15508,6 @@ antimacassar
 antimacassars
 allays
 antimachination
-antimachine
 antimagistratical
 antimalaria
 antimalarial
