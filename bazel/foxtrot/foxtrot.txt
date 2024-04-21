@@ -4106,6 +4106,7 @@ fiords
 fiorin
 fiorite
 featurette
+fontanel
 fluidrams
 fippence
 fipples
@@ -10402,7 +10403,6 @@ fiaunt
 fraenula
 floodlighted
 fortiori
-fontanel
 fibrilation
 flexible
 frondless
