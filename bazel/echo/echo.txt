@@ -2202,7 +2202,6 @@ eleazar
 elec
 elecampane
 endocytic
-expilation
 enameller
 erring
 electromotion
@@ -12720,6 +12719,7 @@ exonerator
 exonerators
 emparadise
 etoffe
+expilation
 enrail
 exoneural
 electrowin
