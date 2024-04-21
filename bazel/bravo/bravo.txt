@@ -3529,6 +3529,7 @@ bateau
 bateaux
 batiking
 blastomycetous
+belating
 bated
 bateful
 bucchero
@@ -5666,7 +5667,6 @@ briton
 belate
 belated
 belatedness
-belating
 belaud
 belauded
 balt

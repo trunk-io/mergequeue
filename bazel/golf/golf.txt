@@ -1535,7 +1535,6 @@ gn
 garrotte
 garrotted
 garrulinae
-ghouls
 garruline
 garrulity
 goatherds
@@ -4281,6 +4280,7 @@ gymnosophist
 gymnospermism
 gymnospermous
 gymnosporangium
+ghouls
 guddler
 gymnospore
 gymnosporous
