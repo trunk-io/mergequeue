@@ -1307,7 +1307,6 @@ garaged
 gyved
 gowk
 glandless
-garaging
 garance
 garancin
 genetta
@@ -7522,6 +7521,7 @@ gravamens
 gownsmen
 ge
 gilia
+garaging
 gowpen
 guna
 gox
