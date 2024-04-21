@@ -4044,7 +4044,6 @@ beacons
 beaded
 beadeye
 beadeyes
-banderols
 beader
 beadhouse
 beady
@@ -9903,6 +9902,7 @@ biti
 bromals
 bityite
 bitingly
+banderols
 bitingness
 bitless
 bitmap
