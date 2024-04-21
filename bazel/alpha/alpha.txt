@@ -582,7 +582,6 @@ abnaki
 abnegate
 abnegated
 abnegates
-abnegating
 abnegation
 abnegative
 abnegator
@@ -10502,6 +10501,7 @@ amidship
 amidstream
 accoy
 amidulin
+abnegating
 absinthiating
 arsenical
 amidward
