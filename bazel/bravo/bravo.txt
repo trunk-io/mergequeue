@@ -531,6 +531,7 @@ bestness
 backswordmen
 backtender
 backtenter
+beaners
 backtrack
 backtracked
 backtracker
@@ -4141,7 +4142,6 @@ beaned
 beaner
 beanery
 beaneries
-beaners
 beanfeast
 beanfield
 beany
