@@ -4684,6 +4684,7 @@ advertiser
 advertisers
 albication
 advertizable
+ankhs
 amulets
 advertized
 assuagable
@@ -25013,7 +25014,6 @@ astrometer
 awkly
 awkward
 awkwarder
-ankhs
 awkwardish
 apologetical
 awkwardness
