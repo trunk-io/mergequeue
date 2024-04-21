@@ -12119,7 +12119,6 @@ boldos
 boldu
 bolectioned
 boled
-boleite
 besmoothing
 bolelia
 bolelike
@@ -17118,6 +17117,7 @@ bulletlike
 bulletmaker
 battalia
 burghmote
+boleite
 bullom
 breadseller
 bulletmaking
