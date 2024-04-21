@@ -7000,7 +7000,6 @@ entrecotes
 entree
 epiglottides
 entrees
-eisegeses
 excisor
 entrefer
 entrelac
@@ -10411,6 +10410,7 @@ ethnicity
 ethnish
 ethnobiological
 elingued
+eisegeses
 ethnobotanist
 ethnocentric
 entoolitic
