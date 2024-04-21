@@ -7175,7 +7175,6 @@ backrun
 bespeckle
 banner
 bespeckled
-bespecklement
 bespectacled
 besped
 bespeech
@@ -17275,6 +17274,7 @@ bumblebomb
 bumblekite
 bottomchrome
 bumblepuppy
+bespecklement
 brontosaur
 bumbler
 bromophenol
