@@ -650,7 +650,6 @@ damnify
 damnificatus
 dilapidating
 disoccupation
-damnified
 damnifies
 drowns
 damnifying
@@ -9577,6 +9576,7 @@ dignity
 doubloons
 dignities
 dignosle
+damnified
 dignotion
 deuterons
 dygogram
