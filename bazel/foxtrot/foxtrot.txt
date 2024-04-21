@@ -8744,7 +8744,6 @@ fortresses
 furors
 finchery
 fortuity
-fortuitous
 faying
 firebases
 fortuitously
@@ -11747,6 +11746,7 @@ fertilitate
 femmes
 fruitive
 fuzziness
+fortuitous
 flauntiest
 flacianism
 foo

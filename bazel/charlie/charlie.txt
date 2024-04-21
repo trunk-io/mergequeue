@@ -9929,7 +9929,6 @@ chemophysiology
 chemoprophyalctic
 chemoprophylactic
 chemoprophylaxis
-condensative
 chemoreception
 chemoreceptive
 chemoreceptivity
@@ -26151,6 +26150,7 @@ cosmologists
 compages
 cosmonaut
 crymodynia
+condensative
 cercopidae
 cosmonautical
 cosmonautically
