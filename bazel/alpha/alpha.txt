@@ -4408,7 +4408,6 @@ adrenitis
 adrenochrome
 adrenocortical
 adrenocorticosteroid
-aurorae
 adrenocorticotrophic
 ammonolysis
 adrenocorticotropic
@@ -21025,6 +21024,7 @@ ascicidia
 ascidiacea
 amalings
 antiperistatically
+aurorae
 ascidiae
 ascidians
 ascidiate
