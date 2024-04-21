@@ -2154,7 +2154,6 @@ elbowpiece
 electrican
 elbowroom
 elbows
-elcaja
 eld
 embolismic
 examination
@@ -8901,6 +8900,7 @@ eremic
 eremite
 eases
 eremitism
+elcaja
 espied
 eremochaetous
 eremology
