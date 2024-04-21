@@ -8462,7 +8462,6 @@ bigotty
 bigroot
 bigthatch
 bachelors
-biguanide
 biguttulate
 bigwig
 bigwigged
@@ -16671,6 +16670,7 @@ buckone
 buckpot
 buckram
 bozal
+biguanide
 buckraming
 buckrams
 bedrel
