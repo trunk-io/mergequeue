@@ -7277,7 +7277,6 @@ fortlet
 fraternising
 footstools
 fleeches
-footways
 finnesko
 footwalk
 footwarmer
@@ -8162,6 +8161,7 @@ forewords
 foreworld
 flung
 flabbier
+footways
 firecracker
 foreworn
 forewritten
