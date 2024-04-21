@@ -4193,7 +4193,6 @@ entomotaxy
 emprison
 emprize
 emulgent
-emprizes
 emprosthotonic
 emancipatress
 emprosthotonos
@@ -5199,6 +5198,7 @@ east
 endopleurite
 electrometry
 endopodite
+emprizes
 esphresis
 enstore
 endopoditic
