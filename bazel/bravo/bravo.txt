@@ -4511,7 +4511,6 @@ beclothe
 beclothes
 becloud
 beclouded
-beclouding
 beclout
 bootee
 beclowned
@@ -13007,6 +13006,7 @@ boread
 boreal
 borealis
 branchedness
+beclouding
 borean
 borecole
 borecoles
