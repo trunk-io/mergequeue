@@ -2513,6 +2513,7 @@ declarators
 declare
 declaredly
 doorjamb
+dialecticism
 declares
 daneworts
 declaring
@@ -8333,7 +8334,6 @@ dockmaster
 dialectical
 doddered
 dialectician
-dialecticism
 dialecticize
 dialectics
 deathcup
