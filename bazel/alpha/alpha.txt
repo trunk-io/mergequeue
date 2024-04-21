@@ -5749,7 +5749,6 @@ afterthrift
 apastron
 aftertrial
 assortive
-afterturn
 arosaguntacook
 artisans
 aboudikro
@@ -19055,6 +19054,7 @@ arctogaeal
 agnoiology
 archimime
 archimorula
+afterturn
 archimperialism
 actinomycetales
 archimperialist

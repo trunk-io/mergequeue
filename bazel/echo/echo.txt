@@ -4870,7 +4870,6 @@ encushion
 end
 endable
 endamage
-endamagement
 endamages
 esquire
 endameba
@@ -10752,6 +10751,7 @@ euergetes
 egoity
 erythristic
 euge
+endamagement
 eutaxies
 eugenesic
 eugeny
