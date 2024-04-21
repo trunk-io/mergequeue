@@ -1507,7 +1507,6 @@ biophore
 brutalization
 balladromic
 ballads
-ballahoo
 ballahou
 ballam
 ballan
@@ -6015,6 +6014,7 @@ ballistic
 beltie
 belting
 beltings
+ballahoo
 bedroom
 bangalay
 beltir
