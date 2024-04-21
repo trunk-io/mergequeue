@@ -2326,7 +2326,6 @@ dielike
 databases
 decertify
 dissociant
-decertificaton
 decertified
 distances
 decess
@@ -12935,6 +12934,7 @@ disparagements
 deodorizers
 disparages
 disparagingly
+decertificaton
 disparate
 disparation
 downlike
