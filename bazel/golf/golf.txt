@@ -6599,7 +6599,6 @@ garotting
 goldentop
 gastronome
 galbula
-gastrea
 golder
 goldest
 goldfielder
@@ -7969,6 +7968,7 @@ geographics
 granduncle
 granduncles
 grane
+gastrea
 grittle
 granes
 gunrooms
