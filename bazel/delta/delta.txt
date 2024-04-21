@@ -8474,7 +8474,6 @@ dichogamous
 diamido
 deesis
 diamylene
-diamylose
 dislimn
 diamin
 diamine
@@ -8938,6 +8937,7 @@ dichotomized
 dichotomous
 dichotomousness
 demographic
+diamylose
 dub
 dichroic
 disgeneric
