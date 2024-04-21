@@ -1888,7 +1888,6 @@ debrief
 debriefing
 dowser
 debriefings
-dibble
 debris
 debrominate
 dogship
@@ -2672,6 +2671,7 @@ decompoundable
 diffractional
 decompoundly
 decompress
+dibble
 decompresses
 decompressing
 detectaphone
