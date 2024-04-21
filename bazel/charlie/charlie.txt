@@ -3258,6 +3258,7 @@ caponier
 cassolette
 caponiere
 caponiers
+concavely
 caponisation
 calabash
 caponise
@@ -21119,7 +21120,6 @@ concause
 concavation
 concave
 concaved
-concavely
 concaveness
 concaves
 concaving
