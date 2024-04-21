@@ -4317,6 +4317,7 @@ facia
 first
 fylker
 forbearer
+foamed
 feerie
 focally
 firsthand
@@ -6624,7 +6625,6 @@ foaling
 foals
 foam
 foambow
-foamed
 fluotitanate
 frounce
 foamer

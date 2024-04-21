@@ -14321,7 +14321,6 @@ circumcise
 circumcises
 circumcission
 circumclude
-circumcolumnar
 circumcone
 coenduring
 circumconic
@@ -31267,6 +31266,7 @@ curdiness
 curdle
 curdled
 curdler
+circumcolumnar
 curdlers
 curdles
 curdly
