@@ -17388,7 +17388,6 @@ careerist
 coauthered
 coauthor
 connectedness
-coauthority
 coauthors
 coauthorship
 coawareness
@@ -27387,6 +27386,7 @@ coonroot
 closter
 courtier
 courtiery
+coauthority
 courtierism
 courtierly
 cabinetmaker
