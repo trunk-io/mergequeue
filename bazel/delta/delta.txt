@@ -9361,7 +9361,6 @@ differen
 differenced
 differences
 differency
-differencing
 differentia
 differentiability
 differentiable
@@ -11517,6 +11516,7 @@ discoloured
 discolouring
 discolourization
 discombobulate
+differencing
 denominator
 dismark
 discombobulating
