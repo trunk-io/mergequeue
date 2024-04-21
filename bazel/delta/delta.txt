@@ -3840,7 +3840,6 @@ deicate
 dateable
 defluxion
 deice
-deiced
 deicers
 deicidal
 deicides
@@ -15867,6 +15866,7 @@ dismalize
 dorsoventrad
 dorsoventrality
 dorsoventrally
+deiced
 derails
 diabolo
 demonesses
