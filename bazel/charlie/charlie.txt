@@ -3234,6 +3234,7 @@ capling
 caplins
 caplock
 cordmaker
+cryptarch
 capmaking
 capman
 capnodium
@@ -29199,7 +29200,6 @@ cryptanalyze
 capybara
 cryptanalyzed
 cryptanalyzing
-cryptarch
 cryptarchy
 crypted
 crypteroniaceae

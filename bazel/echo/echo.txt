@@ -2645,7 +2645,6 @@ electrotellurograph
 exogens
 equipollently
 electrotherapeutical
-electrotherapeutist
 edaphodont
 electrotherapy
 electrotherapist
@@ -13142,6 +13141,7 @@ expiscated
 empressement
 expiscating
 epiphloedic
+electrotherapeutist
 expiscation
 expiscatory
 explain
