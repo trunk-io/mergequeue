@@ -6612,7 +6612,6 @@ guerillas
 goldonian
 goldsinny
 goldsmithry
-glider
 gospellike
 gabionage
 goldspink
@@ -7079,6 +7078,7 @@ grailing
 gooseneck
 goosenecked
 goosepimply
+glider
 gallowsness
 griselda
 goosery
