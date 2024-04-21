@@ -5915,6 +5915,7 @@ glottologies
 glottologist
 goniometer
 gloucester
+greyfly
 glout
 geometricist
 glouted
@@ -6488,7 +6489,6 @@ gowland
 goyim
 glommed
 galeproof
-greyfly
 goyish
 going
 graduand
