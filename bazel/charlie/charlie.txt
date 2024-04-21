@@ -13867,7 +13867,6 @@ cuffless
 cheddite
 cineaste
 cinecamera
-cinefilm
 cacosplanchnia
 cynegetic
 cynegild
@@ -16741,6 +16740,7 @@ carts
 clotter
 clotty
 clotting
+cinefilm
 cloture
 clotured
 clotures
