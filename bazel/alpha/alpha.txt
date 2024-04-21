@@ -12253,7 +12253,6 @@ ancillary
 ancillaries
 aulostomidae
 ancylocladus
-apathist
 ancylopod
 atlantis
 ancylopoda
@@ -24299,6 +24298,7 @@ autoportraiture
 autopotamic
 autopotent
 autoprogressive
+apathist
 acinacity
 autoproteolysis
 argillomagnesian
