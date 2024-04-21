@@ -1084,7 +1084,6 @@ fuzzle
 farmy
 forthcomer
 farmyard
-fructuary
 ferlies
 farmyardy
 foremastman
@@ -3772,6 +3771,7 @@ faultlessly
 farsakh
 filmcard
 filmcards
+fructuary
 filmdom
 fluxing
 filmer
