@@ -7868,7 +7868,6 @@ dewdrop
 disassimilated
 dewdropper
 disklike
-dewdrops
 dewed
 dewey
 deweylite
@@ -12249,6 +12248,7 @@ disgruntlement
 discuss
 dreamed
 dextrotropic
+dewdrops
 disguisable
 disguisay
 donnishly
