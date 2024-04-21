@@ -5400,7 +5400,6 @@ emydosauria
 empaestic
 empetraceae
 elapid
-emblemize
 electuary
 ened
 eneid
@@ -8476,6 +8475,7 @@ eutony
 epotation
 epoxides
 epoxidize
+emblemize
 epoxied
 epoxyed
 epoxies
