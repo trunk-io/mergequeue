@@ -2800,6 +2800,7 @@ genio
 genioglossal
 globoids
 genioglossi
+gesnera
 genioglossus
 geniohyoglossal
 gnathions
@@ -3535,7 +3536,6 @@ gomerils
 gesithcund
 gesithcundman
 gesling
-gesnera
 gesneraceous
 gesnerad
 gesneria
