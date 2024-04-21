@@ -9535,6 +9535,7 @@ determa
 digitinerved
 digitisation
 digitised
+dunpickle
 danio
 digitising
 desulphurise
@@ -18273,7 +18274,6 @@ dunnite
 dunnites
 dunno
 dextorsal
-dunpickle
 donkeyism
 duns
 dunst
