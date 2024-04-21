@@ -10444,6 +10444,7 @@ chieftains
 chieftainship
 chiefty
 chiel
+coapts
 chield
 chields
 chiels
@@ -17280,7 +17281,6 @@ coaptation
 carnel
 coapted
 coapting
-coapts
 coaration
 coarb
 coarbitrator
