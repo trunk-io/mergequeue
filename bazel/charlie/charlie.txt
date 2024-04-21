@@ -3299,7 +3299,6 @@ capparidaceous
 capparis
 copesmate
 capped
-cappelenite
 cappelletti
 capper
 cappers
@@ -25337,6 +25336,7 @@ cornea
 corneagen
 corneal
 corneas
+cappelenite
 cornein
 corneitis
 cornel
