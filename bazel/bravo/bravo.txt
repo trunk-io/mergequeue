@@ -5626,7 +5626,6 @@ ballistite
 beknotted
 beknottedly
 biotype
-beknotting
 beknow
 bel
 bela
@@ -14857,6 +14856,7 @@ breakwater
 breakweather
 barky
 breakwind
+beknotting
 bream
 beati
 breamed
