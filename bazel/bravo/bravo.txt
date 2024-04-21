@@ -1773,7 +1773,6 @@ balusters
 balustrade
 balustrades
 balustrading
-balwarra
 balza
 balzarine
 bam
@@ -3491,6 +3490,7 @@ badgerly
 bastions
 bastite
 bastnaesite
+balwarra
 bastnasite
 balanoglossus
 basto
