@@ -1259,6 +1259,7 @@ balan
 balance
 bedstead
 blonder
+bardie
 balanceable
 bafflements
 bluejays
@@ -7327,7 +7328,6 @@ bestrowed
 binarium
 blanketflower
 bestrowing
-bardie
 bestrown
 bathochromatic
 ballasted
