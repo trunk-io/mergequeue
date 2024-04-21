@@ -5577,7 +5577,6 @@ afrite
 attuned
 afrits
 afro
-afrogaea
 afrormosia
 afshah
 aft
@@ -14796,6 +14795,7 @@ araneous
 acraze
 antiascetic
 antiasthmatic
+afrogaea
 accentuate
 antiastronomical
 antiatheism
