@@ -870,7 +870,6 @@ bagful
 bagfuls
 barbaric
 baggagemaster
-baggager
 benzidin
 baggala
 bagganet
@@ -5714,6 +5713,7 @@ boer
 belemnoidea
 beleper
 bicycle
+baggager
 bathybic
 beleve
 blunderheadedness
