@@ -562,6 +562,7 @@ galleys
 gamodemes
 galleyworm
 geneat
+glimpsed
 galleon
 galleons
 galler
@@ -5467,7 +5468,6 @@ gadroons
 glunimie
 gaslock
 glimmers
-glimpsed
 grylle
 glimpses
 glyn
