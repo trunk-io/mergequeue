@@ -2188,6 +2188,7 @@ ganodus
 gazebo
 gazeboes
 gazebos
+gossipmongering
 giller
 galla
 gazeful
@@ -8831,7 +8832,6 @@ gelastocoridae
 gremlins
 gremmy
 gremmies
-gossipmongering
 grenada
 gravilea
 grenades
