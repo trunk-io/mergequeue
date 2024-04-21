@@ -1169,7 +1169,6 @@ cichar
 caleche
 caleches
 caledonia
-caledonian
 clobbering
 chiding
 cestuses
@@ -21855,6 +21854,7 @@ confectioneries
 confectiones
 confects
 confecture
+caledonian
 confed
 confederacy
 confederalist
