@@ -8869,6 +8869,7 @@ chapelries
 chapels
 cardiologies
 chapelward
+compile
 chaperno
 chaperon
 chaperonage
@@ -16392,7 +16393,6 @@ clitellar
 clitelliferous
 clitellum
 clitellus
-compile
 crappin
 clites
 clithe
