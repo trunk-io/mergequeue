@@ -8429,6 +8429,7 @@ chalkotheke
 chalkpit
 crackling
 chalkrail
+circumflect
 chalkstone
 chalkworker
 challah
@@ -14338,7 +14339,6 @@ circumferences
 circumferential
 circumferentially
 circumflant
-circumflect
 circumflex
 cawnie
 circumfluence
