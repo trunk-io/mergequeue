@@ -515,7 +515,6 @@ echea
 eched
 echelle
 extraphenomenal
-echelon
 echeloned
 emberizidae
 echeneidae
@@ -13197,6 +13196,7 @@ explicator
 explicatory
 ecclesiasticus
 eelgrasses
+echelon
 explicators
 explicit
 explicitly

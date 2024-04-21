@@ -24321,6 +24321,7 @@ charbroiling
 cookless
 cookout
 cookouts
+craniophore
 cookroom
 caverning
 cookshop
@@ -28141,7 +28142,6 @@ craniometrist
 craniopathy
 craniopathic
 craniopharyngeal
-craniophore
 codiniac
 cranioplasty
 craniorhachischisis
