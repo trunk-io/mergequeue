@@ -671,7 +671,6 @@ damon
 damone
 damonico
 damosel
-damosels
 decapitalize
 damp
 dampcourse
@@ -7559,6 +7558,7 @@ drillable
 dolours
 deutoplasm
 dancy
+damosels
 declassify
 deutoplasmic
 diverging
