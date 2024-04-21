@@ -6738,7 +6738,6 @@ fogging
 foggish
 flectional
 foghorn
-fogy
 flaggily
 fanflower
 fogyish
@@ -11331,6 +11330,7 @@ fleabug
 furbish
 furbishes
 flaxwife
+fogy
 furbishment
 florikan
 furcate
