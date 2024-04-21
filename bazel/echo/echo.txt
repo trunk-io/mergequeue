@@ -1126,6 +1126,7 @@ edwina
 edit
 electromechanically
 editable
+electrotypes
 edith
 editing
 epacts
@@ -2660,7 +2661,6 @@ electrotype
 entosphenoid
 electrotyped
 electrotyper
-electrotypes
 electrotypy
 escarmouche
 electrotyping
