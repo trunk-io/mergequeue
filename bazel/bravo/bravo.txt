@@ -3125,7 +3125,6 @@ baseness
 basenesses
 basenji
 bodge
-briskly
 basenjis
 butles
 bibliotheca
@@ -5902,6 +5901,7 @@ bellonion
 bibiru
 bonavist
 bellota
+briskly
 bellote
 bellovaci
 brutal
