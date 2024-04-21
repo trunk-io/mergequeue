@@ -7416,7 +7416,6 @@ farmeries
 forbow
 forbruise
 fotive
-formalised
 forcarve
 force
 fasciculus
@@ -8119,6 +8118,7 @@ fulminic
 felonries
 faithful
 fibrocrystalline
+formalised
 fretless
 foretop
 foretopman
