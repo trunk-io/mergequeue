@@ -3632,7 +3632,6 @@ embryoism
 epithelioglandular
 embryology
 epigonousepigons
-embryologic
 embryological
 endocoeliac
 embryologically
@@ -7704,6 +7703,7 @@ enterorrhexis
 equilibration
 epidemiologic
 epistolean
+embryologic
 effronteries
 enfeeblement
 efficacity
