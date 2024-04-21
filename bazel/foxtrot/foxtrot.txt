@@ -2692,7 +2692,6 @@ farde
 ferruled
 ferruler
 ferrules
-fences
 ferrum
 freshes
 ferruminating
@@ -9817,6 +9816,7 @@ frenchify
 frenchification
 freakful
 frenchly
+fences
 frenchman
 floatable
 furanoside
