@@ -5524,7 +5524,6 @@ catalepsis
 cataleptic
 cataleptically
 cataleptics
-cataleptiform
 cataleptize
 cataleptoid
 catalexes
@@ -8727,6 +8726,7 @@ chanfrons
 changa
 changable
 changar
+cataleptiform
 change
 changeable
 chuckram
