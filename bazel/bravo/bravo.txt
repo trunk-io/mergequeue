@@ -4195,7 +4195,6 @@ beswarms
 beardy
 beardie
 bearding
-brainer
 bruting
 beardlike
 bv
@@ -10235,6 +10234,7 @@ blacklist
 blacklisted
 blacklister
 blacklists
+brainer
 breviaries
 blackmail
 banian
