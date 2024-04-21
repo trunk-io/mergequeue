@@ -6236,7 +6236,6 @@ gigliato
 gnomes
 geochronologically
 gnomesque
-gnomical
 gnomide
 gastroid
 goutwort
@@ -8471,6 +8470,7 @@ gossipiness
 gravitic
 gardenin
 gretchen
+gnomical
 governante
 gravities
 gravitometer
