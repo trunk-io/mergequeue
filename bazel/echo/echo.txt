@@ -684,7 +684,6 @@ eclogic
 eclogite
 epopoean
 eccles
-eclogue
 eclogues
 eclosion
 eskimo
@@ -11209,6 +11208,7 @@ euthenist
 erogate
 eutherian
 erotetic
+eclogue
 euthycomi
 europiums
 ethene
