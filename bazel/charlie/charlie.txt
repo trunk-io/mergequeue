@@ -16895,7 +16895,6 @@ carpogonium
 clubweed
 clubwoman
 clubwomen
-clubwood
 cluck
 clucked
 chinches
@@ -21959,6 +21958,7 @@ confide
 coseismic
 confided
 confidence
+clubwood
 confidency
 confident
 confidente
