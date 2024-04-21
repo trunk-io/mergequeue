@@ -13667,6 +13667,7 @@ annuity
 annuities
 annul
 annular
+augmentative
 annulary
 annularia
 annularity
@@ -23405,7 +23406,6 @@ absolutistic
 augmentable
 augmentation
 augmentations
-augmentative
 acopic
 augmented
 augmentedly
