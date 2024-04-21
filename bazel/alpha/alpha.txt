@@ -3561,7 +3561,6 @@ additive
 additively
 alloisomeric
 additives
-additivity
 additory
 additum
 acetimeter
@@ -15963,6 +15962,7 @@ antipolar
 antipole
 antipolemist
 acanthus
+additivity
 antipolygamy
 antipolyneuritic
 assorts
