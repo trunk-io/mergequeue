@@ -1621,7 +1621,6 @@ dealkylation
 deallocate
 deallocated
 daunter
-deallocates
 deallocating
 designating
 deresinize
@@ -18007,6 +18006,7 @@ dissyllabising
 dulcification
 dulcified
 dulcifying
+deallocates
 dulcifluous
 defaitisme
 delegatee
