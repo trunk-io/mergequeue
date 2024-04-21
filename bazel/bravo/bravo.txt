@@ -16804,7 +16804,6 @@ buffe
 beauish
 buffed
 backings
-buffer
 bohemians
 bufferrers
 brachyprism
@@ -16898,6 +16897,7 @@ badmouth
 buglet
 bugleweed
 buglewort
+buffer
 blennophlogisma
 bugling
 bugloss
