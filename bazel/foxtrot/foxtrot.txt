@@ -8588,7 +8588,6 @@ florence
 foraramens
 forspent
 fantast
-forpass
 forpet
 forpine
 forpining
@@ -11585,6 +11584,7 @@ fusilading
 fusile
 furanoses
 fusileer
+forpass
 fatalistic
 fossilising
 fcs
