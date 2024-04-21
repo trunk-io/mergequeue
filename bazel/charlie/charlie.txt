@@ -13756,7 +13756,6 @@ cymographic
 capsicins
 cymoid
 cenacles
-cysticercus
 cymoidium
 cantankerousness
 cymol
@@ -15818,6 +15817,7 @@ clawk
 carlines
 clawker
 clawless
+cysticercus
 clawlike
 claws
 claxon
