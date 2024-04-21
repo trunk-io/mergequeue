@@ -5503,7 +5503,6 @@ flexuosity
 flexuously
 flexuousness
 flexura
-flexured
 flexures
 flyable
 formalising
@@ -11341,6 +11340,7 @@ furcate
 flexure
 famishes
 forepiece
+flexured
 fellen
 furcellate
 furciferine
