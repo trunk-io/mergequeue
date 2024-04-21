@@ -2614,7 +2614,6 @@ acondylose
 adversity
 acone
 aconelline
-aconic
 aconin
 aconine
 afdecho
@@ -5094,6 +5093,7 @@ amyliferous
 aeronomy
 aeronomic
 aeronomical
+aconic
 aeronomics
 aeronomies
 antisymmetric
