@@ -6100,7 +6100,6 @@ amoroso
 aggravates
 aggravating
 aggravatingly
-aggravation
 aggravations
 aggravative
 aggravator
@@ -12290,6 +12289,7 @@ automanipulative
 ancodont
 ancoly
 ancome
+aggravation
 ancon
 ancona
 angoumian

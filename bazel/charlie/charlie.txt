@@ -28214,7 +28214,6 @@ crantara
 crants
 cardiopathy
 crapehanger
-crapelike
 crapes
 crapette
 crapy
@@ -29853,6 +29852,7 @@ crosshackle
 crosshair
 crosshairs
 crosshand
+crapelike
 crosshatcher
 crosshatches
 cogwheel
