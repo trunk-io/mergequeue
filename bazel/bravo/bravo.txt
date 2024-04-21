@@ -4924,7 +4924,6 @@ belavendered
 bedwards
 bedwarf
 bedtimes
-bedwarfed
 bedwarfing
 bedwarfs
 bedwell
@@ -12648,6 +12647,7 @@ boondoggled
 boohooing
 besilver
 boohoos
+bedwarfed
 boojum
 book
 balsamo
