@@ -14604,7 +14604,6 @@ algologically
 anthropographic
 anthropoid
 antroscopy
-anthropoidea
 anthropoidean
 anthropoids
 anthropol
@@ -23902,6 +23901,7 @@ autobiographers
 autobiography
 autobiographical
 autobiographically
+anthropoidea
 autobiographist
 autobiology
 autoboat
