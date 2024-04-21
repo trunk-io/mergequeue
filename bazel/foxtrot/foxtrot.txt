@@ -390,6 +390,7 @@ faqirs
 firmisternial
 faintly
 ferrymen
+fearer
 faintness
 faints
 faipule
@@ -1729,7 +1730,6 @@ freelancer
 firebreaks
 fearedness
 ferri
-fearer
 fearers
 forefeels
 fearlessness
