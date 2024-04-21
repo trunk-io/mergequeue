@@ -990,7 +990,6 @@ absorb
 adiathermanous
 absorbability
 absorbable
-absorbance
 absorbancy
 absorbant
 absorbed
@@ -16867,6 +16866,7 @@ agog
 anterointerior
 aphelia
 aphelian
+absorbance
 anthophagy
 aphelilia
 aphelilions
