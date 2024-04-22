@@ -1414,6 +1414,7 @@ balductum
 bale
 baleare
 balearian
+basnet
 branchiostomidae
 balearic
 balearica
@@ -13074,7 +13075,6 @@ bornites
 bornitic
 boro
 borocaine
-basnet
 borofluohydric
 borofluorin
 boroglycerate
