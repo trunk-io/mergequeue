@@ -1483,6 +1483,7 @@ fattrels
 fother
 foreweep
 freewheel
+fluoroscopic
 fatuism
 fatuity
 filasse
@@ -6450,7 +6451,6 @@ foreseeing
 fluoroscopy
 framing
 feasant
-fluoroscopic
 fibrinolysis
 fluoroscopies
 forestudy
