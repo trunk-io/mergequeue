@@ -2074,7 +2074,6 @@ feijoa
 fourpounder
 feil
 frontspiece
-feinschmecker
 filacer
 feinter
 feudary
@@ -4080,6 +4079,7 @@ fiorite
 fontanel
 featherwood
 fluidrams
+feinschmecker
 fippence
 flywheel
 fipples
