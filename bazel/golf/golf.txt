@@ -223,7 +223,6 @@ galactosan
 greyest
 gaius
 gaging
-gagroot
 gavot
 gags
 gagster
@@ -4898,6 +4897,7 @@ giver
 givers
 gladeye
 glossematics
+gagroot
 gyves
 givingness
 gizmos
