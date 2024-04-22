@@ -9502,7 +9502,6 @@ byrl
 btl
 barrett
 byrlady
-byrlakin
 baptisteries
 byrlawman
 bailed
@@ -12889,6 +12888,7 @@ bootman
 boots
 bootstrapped
 bootstrapping
+byrlakin
 boottop
 blotless
 boozed
