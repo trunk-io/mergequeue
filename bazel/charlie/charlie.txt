@@ -13468,6 +13468,7 @@ cyclopoid
 cyclopropane
 cyclopteridae
 cyclopteroid
+compactification
 cyclopterous
 cyclorama
 cycloramas
@@ -20435,7 +20436,6 @@ compactedness
 compacter
 compactible
 compactify
-compactification
 cinderlike
 compacting
 compaction
