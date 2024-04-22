@@ -11032,7 +11032,6 @@ amortise
 audiologists
 amortising
 amortissement
-amortisseur
 amortizable
 amortization
 arbitrarily
@@ -16395,6 +16394,7 @@ antitheism
 antitheist
 antitheistic
 antithenar
+amortisseur
 arthrocace
 agrest
 antitheology
