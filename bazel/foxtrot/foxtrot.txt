@@ -2065,7 +2065,6 @@ furnacing
 fieldwards
 fishhooks
 feignedly
-feigner
 fanfare
 feigners
 feigning
@@ -6145,6 +6144,7 @@ fulminations
 flouters
 floutingly
 fewnes
+feigner
 fetidity
 flouts
 foredoor
