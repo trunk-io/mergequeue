@@ -5328,7 +5328,6 @@ broadsheet
 begirding
 begirdled
 blankard
-begirdling
 begirds
 beamsmen
 bromvogel
@@ -12049,6 +12048,7 @@ boils
 boyo
 boyology
 battiest
+begirdling
 boyos
 bucayo
 babajaga
