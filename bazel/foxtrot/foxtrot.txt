@@ -3953,7 +3953,6 @@ ft
 forbearers
 flagellum
 fingerling
-folksinging
 fingerlings
 facadal
 fervorlessness
@@ -4793,6 +4792,7 @@ flivvers
 foothook
 flailing
 flaillike
+folksinging
 fisheries
 flails
 fragmentarily
