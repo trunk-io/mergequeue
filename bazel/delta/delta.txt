@@ -1114,7 +1114,6 @@ dartle
 dashiki
 dashikis
 diporpa
-disobey
 dashmaker
 dashnak
 dashnakist
@@ -11804,6 +11803,7 @@ declamations
 dg
 discreetest
 dermography
+disobey
 discreetly
 distinguisher
 discreetness
