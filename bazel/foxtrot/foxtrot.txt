@@ -2661,6 +2661,7 @@ flintify
 filmed
 fastus
 frivol
+flintlike
 filigreed
 ferruginating
 ferrugination
@@ -5637,7 +5638,6 @@ formularizer
 flintily
 flashlike
 flintless
-flintlike
 flintwood
 fanfold
 ferreted
