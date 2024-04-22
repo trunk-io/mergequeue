@@ -6998,7 +6998,6 @@ beseige
 beset
 besetment
 besets
-besetters
 besew
 betrim
 beshackle
@@ -13762,6 +13761,7 @@ bowdlerization
 bowdlerizations
 bearskin
 bedfellowship
+besetters
 basquine
 benjamite
 biocides

@@ -14928,6 +14928,7 @@ cityscapes
 cytisine
 cytitis
 chamkanni
+crucible
 citywards
 citizen
 citizeness
@@ -30108,7 +30109,6 @@ cruciated
 cruciately
 cruciating
 cruciation
-crucible
 crucibles
 crucibulum
 crucifer
