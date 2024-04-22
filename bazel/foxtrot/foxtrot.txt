@@ -259,7 +259,6 @@ fathomable
 fustee
 fade
 forgivers
-faded
 fadednyess
 foetors
 fadeless
@@ -8177,6 +8176,7 @@ forfeit
 forfeitableness
 flanerie
 fluormeter
+faded
 forfeitures
 forfend
 formwork
