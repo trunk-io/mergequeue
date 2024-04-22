@@ -6400,7 +6400,6 @@ fichu
 fronture
 fluorescin
 frogspawn
-fluorescing
 fluorhydric
 fluoric
 fluoridate
@@ -7480,6 +7479,7 @@ fleyedness
 fee
 fourhanded
 fordo
+fluorescing
 fordoes
 flittingly
 fordrive
