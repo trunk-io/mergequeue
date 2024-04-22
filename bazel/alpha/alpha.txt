@@ -15053,7 +15053,6 @@ anticoagulator
 anticoagulin
 airparks
 anticodon
-anticoincidence
 anticold
 anticolic
 anticombination
@@ -15427,6 +15426,7 @@ antihypertensives
 antihypnotic
 antihypnotically
 antihypochondriac
+anticoincidence
 antihypophora
 antihistamine
 acetopiperone
