@@ -6281,7 +6281,6 @@ earle
 ens
 emmenagogue
 ensafe
-elenchtic
 ensanguine
 ensanguining
 evisite
@@ -14122,6 +14121,7 @@ extruded
 extruder
 epithelioceptor
 entrails
+elenchtic
 examinees
 extrudes
 epitaphic
