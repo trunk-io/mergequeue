@@ -6976,7 +6976,6 @@ entreats
 entrec
 entrecote
 entrecotes
-entree
 epiglottides
 entrees
 eisegeses
@@ -10851,6 +10850,7 @@ eumenidae
 eumenides
 ethicized
 eumerism
+entree
 encrinus
 eumeristic
 expediences
