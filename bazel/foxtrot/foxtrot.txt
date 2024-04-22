@@ -4805,6 +4805,7 @@ flivvers
 foothook
 flailing
 flaillike
+fisheries
 flails
 fragmentarily
 flain
@@ -11041,7 +11042,6 @@ fossulate
 feldspathization
 flemings
 forlornest
-fisheries
 fumblingness
 fumbulator
 farewelling
