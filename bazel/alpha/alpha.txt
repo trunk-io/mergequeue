@@ -5400,6 +5400,7 @@ affixers
 affixes
 adenylpyrophosphate
 affixial
+aspatia
 android
 affixion
 affixment
@@ -21411,7 +21412,6 @@ asparamic
 asparkle
 aspartame
 aspasia
-aspatia
 akoluthia
 aspca
 aspect
