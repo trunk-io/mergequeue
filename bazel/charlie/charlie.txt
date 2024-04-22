@@ -4666,6 +4666,7 @@ carpals
 chela
 carpathian
 carpe
+coccygalgia
 carped
 carpel
 carpellary
@@ -17583,7 +17584,6 @@ circumflexion
 coccids
 cocciferous
 cocciform
-coccygalgia
 coccygeal
 coccygean
 coccygectomy
