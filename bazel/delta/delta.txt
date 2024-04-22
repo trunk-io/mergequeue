@@ -4588,7 +4588,6 @@ dysphoric
 demicaponier
 demichamfron
 demicylinder
-demicircle
 deception
 demicircular
 drowningly
@@ -9664,6 +9663,7 @@ dijudicant
 dijudicated
 defiliation
 dispensatrix
+demicircle
 dijudication
 dika
 dikage
