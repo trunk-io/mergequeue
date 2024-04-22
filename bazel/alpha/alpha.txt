@@ -6715,6 +6715,7 @@ aiding
 aidman
 aidmanmen
 aidmen
+adjunctive
 aids
 aye
 aiel
@@ -16208,7 +16209,6 @@ antiscepticism
 antischolasticism
 antischool
 amenta
-adjunctive
 antiscia
 adherence
 antiscians
