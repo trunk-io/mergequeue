@@ -4763,6 +4763,7 @@ faciobrachial
 fellers
 fasciolaria
 flagpole
+fullwords
 faena
 faunula
 figurehead
@@ -10974,7 +10975,6 @@ flavorful
 fulltime
 fraternalist
 foothook
-fullwords
 frescoes
 fulmar
 fulminant
