@@ -10578,6 +10578,7 @@ etwite
 eu
 euahlayi
 euascomycetes
+electromagnetics
 eubacteria
 elegits
 eubacteriales
@@ -11761,7 +11762,6 @@ examinable
 examinant
 exocannibalism
 enscrolled
-electromagnetics
 examinationist
 examinator
 examinatory
