@@ -4057,7 +4057,6 @@ gilbertian
 gamont
 gorse
 gaseity
-gild
 gildable
 gilded
 gildedness
@@ -6761,6 +6760,7 @@ gonged
 gonging
 gekkota
 gongorist
+gild
 gongoristic
 goli
 gongs
