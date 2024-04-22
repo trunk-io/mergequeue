@@ -5798,6 +5798,7 @@ categorizer
 categorizers
 categorizes
 cultured
+crawling
 chateau
 cateye
 creamers
@@ -28354,7 +28355,6 @@ crawly
 crawlie
 crawlier
 crawliest
-crawling
 crawlingly
 crawlsome
 crawlspace
