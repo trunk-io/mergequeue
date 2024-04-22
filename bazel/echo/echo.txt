@@ -8543,6 +8543,7 @@ equatability
 equatable
 equate
 equating
+egocentristic
 essentializing
 eastlin
 equational
@@ -12437,7 +12438,6 @@ enunciating
 exfoliative
 exfoliatory
 entopical
-egocentristic
 exterminative
 exhalation
 expiscator
