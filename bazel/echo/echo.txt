@@ -1604,7 +1604,6 @@ enlivens
 egoism
 entrenchments
 eggheadedness
-egoisms
 egoist
 egoistical
 egoistically
@@ -4233,6 +4232,7 @@ emulgence
 emulously
 escambio
 emulousness
+egoisms
 emuls
 emulsibility
 emulsible

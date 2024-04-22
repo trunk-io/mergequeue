@@ -4395,7 +4395,6 @@ adenalgia
 appoint
 adrenalcortical
 adrenalectomy
-adrenalectomies
 adrenalectomize
 adrenalectomizing
 aumous
@@ -15966,6 +15965,7 @@ antipodist
 antipoetic
 apennines
 antipoetical
+adrenalectomies
 antipoetically
 antipoints
 antipolar
