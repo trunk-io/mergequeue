@@ -10321,7 +10321,6 @@ amydon
 amendatory
 amende
 amended
-amender
 amending
 amendment
 amendments
@@ -12082,6 +12081,7 @@ anaspadias
 anaspalin
 auntship
 amphitheatrically
+amender
 anaspida
 anaspidacea
 anaspides
