@@ -2440,7 +2440,6 @@ coasters
 candies
 candify
 candyh
-candying
 candil
 candymaker
 candymaking
@@ -29560,6 +29559,7 @@ coadunating
 critters
 crittur
 critturs
+candying
 consular
 crivetz
 crizzel
