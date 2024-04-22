@@ -3401,7 +3401,6 @@ doles
 defis
 defix
 deflagrable
-desulfuriser
 decolor
 deflagrated
 deflagrates
@@ -5470,6 +5469,7 @@ denudating
 dj
 denudation
 deltidial
+desulfuriser
 diplomatics
 dehusk
 deterrers
