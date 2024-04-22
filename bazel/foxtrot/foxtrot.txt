@@ -4805,6 +4805,7 @@ fittedness
 flailed
 fluidify
 flivvers
+foothook
 flailing
 flaillike
 flails
@@ -10973,7 +10974,6 @@ fullterm
 flavorful
 fulltime
 fraternalist
-foothook
 frescoes
 fulmar
 fulminant
