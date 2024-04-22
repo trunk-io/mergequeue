@@ -6251,6 +6251,7 @@ dermal
 degrades
 drabness
 dermalgia
+dazzlement
 dermalith
 dermamycosis
 dactylopodite
@@ -12600,7 +12601,6 @@ disanoint
 disjasket
 disjaskit
 disject
-dazzlement
 disjected
 disjoin
 disjoinable
