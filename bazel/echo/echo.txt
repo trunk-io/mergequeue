@@ -1833,7 +1833,6 @@ expirant
 euphemous
 eighteens
 eighteenth
-eighteenths
 euryprognathous
 equisonant
 eightfold
@@ -3686,6 +3685,7 @@ engregge
 embroidered
 embroideress
 endures
+eighteenths
 encoders
 epitoke
 economite
