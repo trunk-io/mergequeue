@@ -938,6 +938,7 @@ far
 ferocity
 farad
 faraday
+fittest
 faradaic
 fratchy
 fireproofness
@@ -5071,7 +5072,6 @@ flathead
 flatiron
 froom
 flatirons
-fittest
 flatlands
 flatlets
 floorwalker
