@@ -14035,7 +14035,6 @@ creepiest
 cynoclept
 cynocrambaceae
 cynocrambaceous
-cynocrambe
 cynodictis
 cynodontia
 cinofoil
@@ -25582,6 +25581,7 @@ coronetty
 coroniform
 coronilla
 coronillo
+cynocrambe
 coronion
 coronis
 coronitis
