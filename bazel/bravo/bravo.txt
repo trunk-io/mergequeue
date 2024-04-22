@@ -1422,7 +1422,6 @@ balebos
 baled
 baleen
 baleens
-bossism
 bromide
 balefire
 balefires
@@ -5685,6 +5684,7 @@ blowpipes
 bicyclical
 blepharodiastasis
 beldame
+bossism
 bookworms
 benjoin
 beldames
