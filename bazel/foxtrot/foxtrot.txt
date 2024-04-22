@@ -7312,6 +7312,7 @@ fourer
 footstep
 forage
 facers
+fourgon
 fluttery
 forager
 formable
@@ -9002,7 +9003,6 @@ filea
 foveola
 frithborh
 fourchite
-fourgon
 fatigueless
 fourier
 fourierism
