@@ -5657,7 +5657,6 @@ billingsgate
 belay
 belayer
 belaying
-biface
 belam
 belamcanda
 belamy
@@ -7922,6 +7921,7 @@ bibacious
 bibaciousness
 balche
 bicephalous
+biface
 bibacity
 bypasses
 bibation
