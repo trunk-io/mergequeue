@@ -1461,7 +1461,6 @@ callidness
 calligram
 calligraph
 calligrapha
-calligrapher
 chemurgy
 calligraphers
 calligraphy
@@ -18907,6 +18906,7 @@ claw
 collaborator
 collaborators
 collada
+calligrapher
 colladas
 collage
 collagen
