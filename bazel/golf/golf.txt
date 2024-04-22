@@ -3740,7 +3740,6 @@ ghorkhar
 ghost
 ghostdom
 generalidad
-ghosted
 guardstone
 ghostfishes
 ghostflower
@@ -10196,6 +10195,7 @@ graver
 germicidal
 guildhall
 guilds
+ghosted
 guildship
 guildsmen
 guessworker
