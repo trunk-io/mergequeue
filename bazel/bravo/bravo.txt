@@ -10966,7 +10966,6 @@ blissom
 blockman
 batement
 blist
-blister
 balden
 blistered
 blistering
@@ -15221,6 +15220,7 @@ brideman
 brideweed
 brachyure
 bridewell
+blister
 bridewort
 bedimplies
 bridge
