@@ -10174,7 +10174,6 @@ ambrosiaceae
 ambrosial
 ambrosially
 ambrosian
-antitrope
 ambrosias
 ambrosiate
 ambrosin
@@ -17569,6 +17568,7 @@ afret
 apothecial
 apothecium
 autocriticism
+antitrope
 aphasiology
 arbitrement
 applot
