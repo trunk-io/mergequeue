@@ -15195,7 +15195,6 @@ coheritage
 civilly
 consternating
 civilness
-crushability
 civism
 civisms
 civitan
@@ -25566,6 +25565,7 @@ corvets
 coronets
 coronetted
 condurango
+crushability
 coronettee
 coronetty
 coroniform
