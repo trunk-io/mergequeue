@@ -866,7 +866,6 @@ emblazon
 exostosed
 ectopatagia
 exceptioner
-ectopatagium
 ectopy
 eviscerated
 eliquating
@@ -11236,6 +11235,7 @@ evacuations
 evulse
 evacuator
 evacuators
+ectopatagium
 ewhow
 esterlin
 exteriors
