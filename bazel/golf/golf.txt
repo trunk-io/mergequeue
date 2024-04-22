@@ -8384,6 +8384,7 @@ gravat
 grave
 graveclod
 griquaite
+gruesomest
 gravecloth
 graveclothes
 gravedigger
@@ -9919,7 +9920,6 @@ ghatwal
 guarder
 guardful
 guardhouses
-gruesomest
 glozer
 gnomic
 guardiancy
