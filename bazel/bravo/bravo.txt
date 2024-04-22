@@ -526,7 +526,6 @@ butomaceous
 backstroke
 backstrokes
 backstromite
-backswing
 backsword
 backswording
 bettergates
@@ -4490,6 +4489,7 @@ beckoners
 beckoningly
 barfed
 byward
+backswing
 bonairness
 beckons
 becks
