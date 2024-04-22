@@ -2345,7 +2345,6 @@ fender
 fumarole
 fulmineous
 fuster
-fendered
 filchers
 foresing
 fraischeur
@@ -6167,6 +6166,7 @@ furnit
 finality
 flowcontrol
 flowed
+fendered
 flowerage
 flowerers
 fungic
