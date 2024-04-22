@@ -7106,7 +7106,6 @@ besmokes
 besmoking
 biodynamic
 besmooth
-barbarian
 bloman
 besmoothed
 besmooths
@@ -9524,6 +9523,7 @@ birma
 birmingham
 birminghamize
 buckwasher
+barbarian
 birn
 bayed
 byrnie
