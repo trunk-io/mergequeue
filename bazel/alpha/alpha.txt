@@ -7691,7 +7691,6 @@ alchemists
 angelicas
 alchemize
 amazes
-alchemized
 alchemizing
 alchera
 alcheringa
@@ -18034,6 +18033,7 @@ apprehension
 apprehensively
 apprend
 apprense
+alchemized
 apprentice
 apprenticehood
 apprenticement
