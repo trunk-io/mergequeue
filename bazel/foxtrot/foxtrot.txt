@@ -8768,7 +8768,6 @@ filth
 forwarders
 forwarding
 forwardly
-forwards
 farfugium
 forwardsearch
 forwarn
@@ -10054,6 +10053,7 @@ frigger
 forequarters
 format
 flocculated
+forwards
 frightener
 fanmaker
 frightens
