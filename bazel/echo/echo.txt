@@ -1970,7 +1970,6 @@ ejusdem
 ekaboron
 ekacaesium
 ekasilicon
-ekatantalum
 eke
 epop
 ekebergite
@@ -5175,6 +5174,7 @@ endophagy
 elevational
 endophagous
 endophasia
+ekatantalum
 endophasic
 enamines
 endophyllous
