@@ -2004,7 +2004,6 @@ feedbin
 feedboard
 feiseanna
 feedbox
-feedboxes
 feeder
 foundationed
 foresense
@@ -9614,6 +9613,7 @@ frecklier
 foredescribe
 freckliness
 flighting
+feedboxes
 freckling
 freddy
 freddie
