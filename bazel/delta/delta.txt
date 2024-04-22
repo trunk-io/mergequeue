@@ -6362,6 +6362,7 @@ dermestes
 dermestid
 disseminating
 dermestidae
+dynodes
 dermic
 dermis
 dermises
@@ -10235,7 +10236,6 @@ dinnerware
 dinning
 dinoceras
 dynode
-dynodes
 dinoflagellata
 distresses
 dinomic
