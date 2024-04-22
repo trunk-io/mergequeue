@@ -697,6 +697,7 @@ cafiz
 caftan
 caftans
 cag
+cheilion
 cage
 caged
 cageful
@@ -6538,7 +6539,6 @@ caxton
 chokidar
 caxtonian
 caza
-cheilion
 cazibi
 cazimi
 cazique
