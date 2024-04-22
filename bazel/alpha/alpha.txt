@@ -6924,7 +6924,6 @@ adiate
 airglow
 airglows
 acondylous
-airgraph
 airgraphics
 areopagus
 anisometropia
@@ -25209,6 +25208,7 @@ axstone
 amoralize
 axweed
 axwise
+airgraph
 axwort
 alfarga
 az
