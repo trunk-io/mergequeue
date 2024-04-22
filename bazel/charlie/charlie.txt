@@ -14434,7 +14434,6 @@ circummigrate
 cassoni
 circummundane
 circummure
-circummured
 circummuring
 circumnavigable
 circumnavigate
@@ -22196,6 +22195,7 @@ confucianism
 confucius
 confusability
 confusably
+circummured
 confused
 confusedly
 confusedness
