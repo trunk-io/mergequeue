@@ -10034,6 +10034,7 @@ ambiguities
 abvolt
 ambiguous
 ambiguously
+anorthitite
 ambilateral
 ambilateralaterally
 ambilaterally
@@ -13944,7 +13945,6 @@ anorthic
 atacamite
 anorthite
 anorthitic
-anorthitite
 apoise
 anorthoclase
 antiliturgic
