@@ -3826,7 +3826,6 @@ emeutes
 emf
 emforth
 emic
-emicate
 eudendrium
 emication
 emyde
@@ -8390,6 +8389,7 @@ epitrachelion
 edriophthalmian
 epitria
 electroplate
+emicate
 epitrichial
 epitrochlear
 earplug
