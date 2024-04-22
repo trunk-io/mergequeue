@@ -1635,7 +1635,6 @@ digitize
 deaminate
 deaminated
 deaminating
-dowel
 dioscorein
 deamination
 deaminize
@@ -5878,6 +5877,7 @@ deposito
 depositor
 depositories
 depositors
+dowel
 deafforestation
 deposits
 depositum
