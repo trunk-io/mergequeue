@@ -2405,7 +2405,6 @@ gharial
 gerastian
 gelatiniform
 gelatinigerous
-gelatinise
 gelatinising
 grumpily
 genom
@@ -5275,6 +5274,7 @@ gledes
 gledy
 glee
 gleed
+gelatinise
 gentiin
 glandulousness
 gingellies
