@@ -3526,7 +3526,6 @@ deforce
 disjunct
 deuteroprism
 deforced
-dogstail
 dinner
 deforcer
 deforces
@@ -10846,6 +10845,7 @@ directionalize
 directionally
 dorothy
 directions
+dogstail
 directitude
 defiable
 directively
