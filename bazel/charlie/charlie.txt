@@ -355,7 +355,6 @@ capsulate
 cacogeusia
 cacoglossia
 cacographer
-cacography
 chemicovital
 cacographic
 chlorals
@@ -4414,6 +4413,7 @@ caryota
 caryotin
 carious
 cariousness
+cacography
 caripuna
 cariri
 caririan
