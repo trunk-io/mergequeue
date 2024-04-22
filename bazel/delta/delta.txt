@@ -2495,7 +2495,6 @@ deckels
 deblocking
 dirigent
 decken
-decker
 deckhand
 duckwing
 deerstalker
@@ -12313,6 +12312,7 @@ dishabilitate
 dishabille
 dishabit
 dimorphite
+decker
 dishabited
 dishabituate
 dishabituated
