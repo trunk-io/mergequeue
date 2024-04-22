@@ -5046,7 +5046,6 @@ dabble
 dempsters
 demulce
 demulceate
-demulcent
 demulcents
 diphycercy
 demulsibility
@@ -18329,6 +18328,7 @@ duodenocystostomy
 duodenoenterostomy
 duodenogram
 duodenojejunostomy
+demulcent
 duodenojejunostomies
 duodenopancreatectomy
 duodenoscopy
