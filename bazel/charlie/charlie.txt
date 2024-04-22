@@ -7213,7 +7213,6 @@ caracas
 centranth
 centrarchid
 centrarchoid
-centration
 centraxonia
 centraxonial
 centre
@@ -9219,6 +9218,7 @@ cerebra
 chartophylacium
 chartophylax
 chartreux
+centration
 chartroom
 commonefaction
 charts
