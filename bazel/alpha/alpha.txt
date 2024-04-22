@@ -12294,7 +12294,6 @@ ancienty
 ancientism
 anciently
 ancientness
-ancients
 ancile
 ancilla
 ancillae
@@ -17560,6 +17559,7 @@ apotactite
 anthesteria
 astuciously
 apotelesm
+ancients
 apotelesmatic
 apotelesmatical
 apothecal
