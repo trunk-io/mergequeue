@@ -17808,7 +17808,6 @@ appetence
 archetypical
 appetency
 appetent
-appetently
 antitegula
 appetibility
 appetibleness
@@ -20440,6 +20439,7 @@ arsenobismite
 arsenofuran
 arsenohemol
 arsenolite
+appetently
 arsenophagy
 arsenophen
 arsenophenylglycin
