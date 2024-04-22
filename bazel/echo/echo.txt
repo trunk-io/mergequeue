@@ -4496,7 +4496,6 @@ encephaloid
 enforcing
 eromania
 encephalolith
-encephalomalacosis
 encephalomas
 encephalomeningocele
 encephalometric
@@ -9138,6 +9137,7 @@ erythrocytometer
 erythrocytometry
 erythrocytoschisis
 erythrocytosis
+encephalomalacosis
 elementariness
 erythroclasis
 erythroclastic
