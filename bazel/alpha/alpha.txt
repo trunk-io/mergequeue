@@ -3559,6 +3559,7 @@ additively
 alloisomeric
 appoggiatura
 additives
+antisquama
 additivity
 additory
 additum
@@ -16317,7 +16318,6 @@ antisplasher
 antispreader
 alkalinised
 antispreading
-antisquama
 antisquatting
 antistadholder
 antistadholderian
