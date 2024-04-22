@@ -2809,6 +2809,7 @@ baronga
 barongs
 barony
 bassets
+baudrons
 bowlers
 baronial
 baronies
@@ -3857,7 +3858,6 @@ baud
 beerish
 beatrice
 bronchoplegia
-baudrons
 baudronses
 baufrey
 bauge
