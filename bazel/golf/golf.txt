@@ -6666,6 +6666,7 @@ grays
 ganglioneural
 gardenly
 gelechiidae
+grottolike
 goma
 gomari
 gametophobia
@@ -9452,7 +9453,6 @@ groundlings
 groundmass
 groundneedle
 groundout
-grottolike
 gros
 glycans
 glim
