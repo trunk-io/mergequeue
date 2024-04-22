@@ -8980,7 +8980,6 @@ flout
 fleshes
 fountainlike
 filicite
-forstand
 fountainous
 fustle
 felicitator
@@ -10594,6 +10593,7 @@ frows
 frowsy
 funniment
 frowsier
+forstand
 frowsiest
 frowsily
 footslogging
