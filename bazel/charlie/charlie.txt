@@ -3397,7 +3397,6 @@ caproin
 capromys
 capron
 caprone
-capronyl
 caponiser
 capsaicin
 cotterite
@@ -28140,6 +28139,7 @@ craniomalacia
 cremains
 craniomaxillary
 craniometry
+capronyl
 craniometric
 craniometrist
 craniopathy
