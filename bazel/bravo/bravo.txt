@@ -6743,7 +6743,6 @@ bergeret
 brissotine
 bergfall
 berggylt
-bibliographical
 brephic
 burstwort
 bergh
@@ -10048,6 +10047,7 @@ bivouacking
 brawlys
 bivouacks
 bivouacs
+bibliographical
 babiroussa
 bivvy
 byway
