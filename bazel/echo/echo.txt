@@ -754,7 +754,6 @@ ecphorable
 ecphore
 ecphoria
 ecphoriae
-ecphorias
 emotes
 ecphractic
 ecphrasis
@@ -12309,6 +12308,7 @@ exegetic
 exegetics
 exegetist
 exemplar
+ecphorias
 entoiling
 evertile
 ensamples
