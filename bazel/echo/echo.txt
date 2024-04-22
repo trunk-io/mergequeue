@@ -6437,6 +6437,7 @@ emotionist
 enstool
 evenblush
 enstranged
+explodable
 enstore
 enstrengthen
 epitomizer
@@ -13223,7 +13224,6 @@ explicitness
 explicits
 eurylaimidae
 explida
-explodable
 explode
 eschars
 exploded
