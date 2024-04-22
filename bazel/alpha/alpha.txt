@@ -21883,7 +21883,6 @@ assythment
 assize
 alliterations
 assized
-assizer
 amiant
 assizes
 assizing
@@ -22201,6 +22200,7 @@ astoundment
 astounds
 astr
 astracism
+assizer
 axially
 astraddle
 astraea
