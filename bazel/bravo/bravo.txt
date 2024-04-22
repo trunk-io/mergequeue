@@ -3495,6 +3495,7 @@ bastnasite
 balanoglossus
 basto
 beworms
+bucklandite
 baston
 bastonet
 bovine
@@ -16662,7 +16663,6 @@ buckism
 buckjumper
 buckland
 bilkers
-bucklandite
 buckle
 befallen
 buckled
