@@ -4825,7 +4825,6 @@ demobilisation
 demobilise
 disremember
 demobilising
-demobilize
 demobilizes
 disvaluing
 demobilizing
@@ -11270,6 +11269,7 @@ detoxifies
 deckers
 dysbulic
 disburden
+demobilize
 demipike
 disburdened
 disburdenment

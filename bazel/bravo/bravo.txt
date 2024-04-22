@@ -1008,6 +1008,7 @@ boohooed
 boat
 bayamos
 bayano
+bewitch
 bayardly
 bayberry
 bayberries
@@ -7700,7 +7701,6 @@ bewimple
 bewinged
 bewinter
 bewired
-bewitch
 bewitched
 bewitchedness
 bewitcher
