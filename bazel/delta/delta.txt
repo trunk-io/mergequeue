@@ -351,7 +351,6 @@ dayflowers
 detailed
 donatories
 dayglows
-daygoing
 daiker
 delightfully
 disrupter
@@ -1199,6 +1198,7 @@ datatype
 datatypes
 datcha
 dynamometry
+daygoing
 dragooner
 dialyzers
 dateableness
