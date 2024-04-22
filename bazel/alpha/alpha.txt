@@ -8859,7 +8859,6 @@ allmouth
 allmouths
 allness
 allo
-alloantibody
 anoesia
 agreers
 allobar
@@ -10809,6 +10808,7 @@ ammocoete
 ammocoetes
 ammocoetid
 ammocoetidae
+alloantibody
 antirent
 abides
 ammocoetoid
