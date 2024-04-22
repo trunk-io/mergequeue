@@ -3528,7 +3528,6 @@ deforces
 distrail
 deforciant
 deforest
-deforested
 deforester
 dentiform
 deforests
@@ -3819,6 +3818,7 @@ dehumanising
 dehumanization
 defibrinize
 dehumanized
+deforested
 decarchy
 dehumidify
 dehumidified
