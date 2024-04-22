@@ -4637,7 +4637,6 @@ carotenes
 chaser
 carotenoid
 carotid
-carotidal
 chinas
 cardioplasty
 capitulating
@@ -30457,6 +30456,7 @@ cubers
 cubes
 cubi
 chattering
+carotidal
 cuculine
 corrumpable
 chayotes
