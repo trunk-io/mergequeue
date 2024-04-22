@@ -6310,7 +6310,6 @@ benevolist
 beng
 bourn
 bengalese
-bengaline
 bengals
 bengola
 beni
@@ -9474,6 +9473,7 @@ boga
 bloodripe
 byre
 bizonal
+bengaline
 birectangular
 bonedog
 birefraction
