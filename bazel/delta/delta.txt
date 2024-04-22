@@ -1120,7 +1120,6 @@ dropflower
 dashpot
 depaint
 dashwheel
-dicyanid
 diau
 dodunk
 dasyatis
@@ -13885,6 +13884,7 @@ distinguishes
 detesting
 disparison
 distinguishingly
+dicyanid
 dentalising
 distinguishment
 distintion
