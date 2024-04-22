@@ -5481,7 +5481,6 @@ denaturiser
 denumerability
 denumerable
 denumerably
-degradation
 dolling
 denumerant
 denumerantive
@@ -14505,6 +14504,7 @@ divorcers
 divorces
 duckeries
 demureness
+degradation
 dysfunction
 damourite
 divorcible
