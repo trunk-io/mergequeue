@@ -12026,7 +12026,6 @@ disenabled
 deferable
 disenabling
 disenact
-disenamor
 disenchant
 disenchanted
 disenchanting
@@ -17401,6 +17400,7 @@ dropberry
 dropcloth
 dropforge
 dorsicommissure
+disenamor
 dropforger
 drophead
 ditchbur
