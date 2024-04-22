@@ -19600,7 +19600,6 @@ columbae
 columban
 capabilities
 columbanian
-columbary
 columbaria
 columbaries
 columbarium
@@ -24080,6 +24079,7 @@ cirrolite
 convergence
 convergences
 convergency
+columbary
 convergent
 converges
 convergescence
