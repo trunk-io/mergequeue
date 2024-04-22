@@ -15269,7 +15269,6 @@ dolomitizing
 diabolical
 dolomize
 dementate
-deadlatch
 dolor
 dolores
 doloriferous
@@ -16043,6 +16042,7 @@ doublethinking
 doublethought
 dasi
 doubleton
+deadlatch
 divides
 doublette
 discoid
