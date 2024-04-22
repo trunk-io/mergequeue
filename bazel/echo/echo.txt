@@ -6618,6 +6618,7 @@ elaborateness
 eddies
 eudalene
 elastomeric
+exchangeable
 excoecaria
 ectomorphy
 enterolith
@@ -11978,7 +11979,6 @@ expectorator
 excessively
 enarthroses
 exchangeability
-exchangeable
 exchanged
 excriminate
 exchanges
