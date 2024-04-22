@@ -1645,7 +1645,6 @@ calorizing
 calosoma
 calotermes
 calothrix
-calotin
 calotype
 cyclodiolefine
 calotypic
@@ -21479,6 +21478,7 @@ concoctor
 crowfoot
 coigned
 chilostomata
+calotin
 concolor
 concolour
 counterplotting
