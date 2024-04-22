@@ -8675,7 +8675,6 @@ biller
 billers
 billete
 brantcorn
-brawlis
 billeted
 billeter
 billeters
@@ -17611,6 +17610,7 @@ brightwork
 brushball
 baptist
 burgeon
+brawlis
 burgeoning
 bonnive
 burgeons
