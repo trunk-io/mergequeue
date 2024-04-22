@@ -4672,6 +4672,7 @@ blent
 bedding
 beddingroll
 beddings
+bops
 bede
 bogans
 bedeaf
@@ -12918,7 +12919,6 @@ bopping
 boppist
 bloomers
 balanid
-bops
 bungle
 bora
 borable
