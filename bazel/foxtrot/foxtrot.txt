@@ -6094,7 +6094,6 @@ fragor
 felspar
 flotillas
 furnisher
-flotsams
 formulaic
 fishmeal
 feelingness
@@ -6930,6 +6929,7 @@ freekirker
 folks
 forlana
 folksay
+flotsams
 futhermore
 folksy
 folksiest
