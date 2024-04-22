@@ -271,6 +271,7 @@ aurata
 affiant
 abdominohysterotomy
 abnormals
+attemper
 abdominoposterior
 abdominoscopy
 agas
@@ -17579,7 +17580,6 @@ apothegmatist
 apothegmatize
 apothem
 apothems
-attemper
 apotheosis
 albuminimetry
 apotheosised
