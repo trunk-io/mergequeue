@@ -5494,7 +5494,6 @@ flybelts
 fortunetellers
 foolhardier
 featherers
-flyby
 fossils
 flybys
 fluctisonous
@@ -9365,6 +9364,7 @@ flukey
 francia
 fluidise
 francic
+flyby
 fallowness
 francisc
 franciscan

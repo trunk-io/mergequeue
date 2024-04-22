@@ -2406,7 +2406,6 @@ episcope
 electroendosmosis
 electroengrave
 epoist
-electroengraving
 electroextraction
 earthquaked
 elutriate
@@ -13370,6 +13369,7 @@ expressio
 expression
 expressionable
 expressional
+electroengraving
 ebionitic
 expressionistic
 expressionistically
