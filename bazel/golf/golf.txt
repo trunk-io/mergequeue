@@ -2213,7 +2213,6 @@ gazetteerish
 gazetteers
 gazetteership
 gazettes
-gazetting
 gazingstock
 gazogenes
 goyetian
@@ -7573,6 +7572,7 @@ gurgulation
 gravimetrically
 genicular
 guignol
+gazetting
 gypseous
 gemmula
 grabhook
