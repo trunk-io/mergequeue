@@ -8715,6 +8715,7 @@ annulosan
 allegro
 alley
 alleyite
+anding
 alleys
 alleyway
 alleyways
@@ -12393,7 +12394,6 @@ acyloxymethane
 andia
 andian
 andine
-anding
 andira
 andirin
 andirine
