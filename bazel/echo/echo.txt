@@ -3757,7 +3757,6 @@ expendables
 effusely
 emendable
 emendandum
-emendated
 ekerite
 escutcheon
 emendates
@@ -12858,6 +12857,7 @@ exothermically
 exothermous
 elytriform
 exotica
+emendated
 enriched
 eisteddfods
 efecks
