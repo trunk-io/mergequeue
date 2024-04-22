@@ -6123,6 +6123,7 @@ enteroscopy
 educate
 enologist
 enols
+enterclose
 enomania
 enomotarch
 exodist
@@ -6530,7 +6531,6 @@ enteral
 enteralgia
 enterally
 enterate
-enterclose
 enterectomy
 enterectomies
 echelons
