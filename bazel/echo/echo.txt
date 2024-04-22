@@ -983,7 +983,6 @@ edacities
 edam
 edana
 edaphology
-enerve
 edaphon
 edaphosauria
 edaphosaurid
@@ -9880,6 +9879,7 @@ essentialization
 essentially
 eeyuck
 esotericist
+enerve
 ecumene
 essentiate
 esses
