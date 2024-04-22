@@ -3200,7 +3200,6 @@ dexterity
 defecator
 defect
 decontrols
-digress
 draughtily
 defecters
 defectibility
@@ -6910,6 +6909,7 @@ desorbs
 desorption
 desoxalate
 damn
+digress
 deinodontidae
 discomposes
 desoxalic
