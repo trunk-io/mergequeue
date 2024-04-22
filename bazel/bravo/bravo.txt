@@ -9872,6 +9872,7 @@ bitartrate
 bitbrace
 biteable
 bonitas
+bongo
 blockbuster
 biteche
 bited
@@ -12478,7 +12479,6 @@ bonework
 bonewort
 bonfires
 bonging
-bongo
 bowedness
 bongoes
 bongoist
