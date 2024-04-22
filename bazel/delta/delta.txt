@@ -14107,7 +14107,6 @@ disunions
 disunite
 discernably
 disuniter
-disunites
 disunity
 dalteen
 disunities
@@ -15815,6 +15814,7 @@ dorsiduct
 dorsiferous
 dorsifixed
 dorsiflex
+disunites
 dorsiflexion
 deuteron
 detects
