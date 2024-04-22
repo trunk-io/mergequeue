@@ -5580,7 +5580,6 @@ cataloguize
 catalonian
 cataloon
 catalos
-catalowne
 catalpa
 catalpas
 catalufa
@@ -26234,6 +26233,7 @@ cosset
 cosseted
 cosseting
 cossette
+catalowne
 cleanliness
 cossetting
 cosshen
