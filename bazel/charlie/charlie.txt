@@ -2769,7 +2769,6 @@ canonicalness
 canonicals
 canonicate
 calashes
-canonics
 canonisation
 canonise
 contermine
@@ -3374,6 +3373,7 @@ caprifoil
 caprifole
 caprifoliaceae
 caprifoliaceous
+canonics
 caprifolium
 capriform
 caprigenous
