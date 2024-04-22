@@ -3607,7 +3607,6 @@ bathinette
 bathing
 bulreedy
 blockhouse
-bathypelagic
 bastinadoes
 babesiasis
 beckoning
@@ -8941,6 +8940,7 @@ biostatistics
 binucleated
 binucleolate
 binukau
+bathypelagic
 bioaccumulation
 bioactivities
 bioassaying
