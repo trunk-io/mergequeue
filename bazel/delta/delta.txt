@@ -4816,7 +4816,6 @@ disremember
 demobilising
 demobilizes
 disvaluing
-demobilizing
 democracy
 denominated
 democracies
@@ -14101,6 +14100,7 @@ discernably
 disuniter
 disunites
 disunity
+demobilizing
 dalteen
 disunities
 descended
