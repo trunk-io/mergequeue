@@ -2467,6 +2467,7 @@ cytogenesis
 confraternities
 candlelighting
 candlelit
+carvels
 candlemaker
 candlemaking
 candlemas
@@ -5026,7 +5027,6 @@ carvage
 carval
 carve
 carved
-carvels
 confabular
 cannabinol
 carven
