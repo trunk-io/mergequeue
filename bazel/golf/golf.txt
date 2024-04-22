@@ -8798,7 +8798,6 @@ gaffle
 gm
 greybeard
 grouseless
-greased
 graecized
 greyed
 grosser
@@ -9669,6 +9668,7 @@ galloflavin
 gruffier
 gammon
 gruffiest
+greased
 gruffness
 grugous
 graphitoidal
