@@ -21217,7 +21217,6 @@ ashir
 ashiver
 ashkey
 ashkenazi
-ashkenazic
 ashlar
 ashlared
 ashlars
@@ -23665,6 +23664,7 @@ aurorian
 aurorium
 aurotellurite
 aurothiosulphate
+ashkenazic
 additionally
 aurous
 aurrescu
