@@ -20704,7 +20704,6 @@ cassabanana
 completeness
 continentalist
 croftland
-completer
 cultures
 coelian
 completers
@@ -22286,6 +22285,7 @@ cupride
 congest
 compote
 congestedness
+completer
 cosmoscope
 congestible
 congesting
