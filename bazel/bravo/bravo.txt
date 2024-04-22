@@ -3131,7 +3131,6 @@ bismarck
 baselike
 baseline
 basella
-bkpt
 botete
 basellaceae
 basementless
@@ -10786,6 +10785,7 @@ blepharanthracosis
 bambos
 blepharelcosis
 blepharemphysema
+bkpt
 blepharydatis
 blephariglottis
 blepharism
