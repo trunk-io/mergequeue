@@ -3144,6 +3144,7 @@ discharge
 defalcation
 defalk
 defamation
+demiseason
 defamations
 defamatory
 defame
@@ -7517,7 +7518,6 @@ deuteroalbumose
 deuterocanonical
 darwinical
 deuterocasease
-demiseason
 dakhma
 drivels
 deuteroconid
