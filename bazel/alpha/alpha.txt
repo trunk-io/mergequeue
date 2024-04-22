@@ -6747,7 +6747,6 @@ apterous
 amphoriskos
 apatosaurus
 aiguellette
-aiguiere
 aiguille
 apocryphally
 aiguilles
@@ -11378,6 +11377,7 @@ archidiaconal
 airsheet
 ampliation
 ampliative
+aiguiere
 amplication
 amplicative
 amplify

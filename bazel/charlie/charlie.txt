@@ -4271,7 +4271,6 @@ cottages
 carfare
 carfares
 carfax
-colins
 carfloat
 coater
 carfour
@@ -5457,6 +5456,7 @@ catabolin
 catabolism
 catabolite
 catabolize
+colins
 catabolized
 claim
 crevalles
