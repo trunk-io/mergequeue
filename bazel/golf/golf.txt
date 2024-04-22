@@ -1498,7 +1498,6 @@ gabbai
 gipsying
 graywacke
 garous
-genos
 gaminish
 grandmaternal
 greggle
@@ -2696,6 +2695,7 @@ generalizing
 gene
 grassed
 generalness
+genos
 generalships
 generalty
 generant
