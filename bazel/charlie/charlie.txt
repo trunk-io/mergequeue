@@ -3121,6 +3121,7 @@ cede
 capetown
 cacochymic
 capeweed
+coverlet
 capewise
 capework
 capeworks
@@ -27545,7 +27546,6 @@ coverer
 campfire
 coverers
 coverings
-coverlet
 comped
 counterindoctrination
 coverlets
