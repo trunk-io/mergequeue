@@ -1274,7 +1274,6 @@ eerock
 ergoplasm
 eesome
 effable
-emacerate
 efface
 effaceable
 effaced
@@ -10796,6 +10795,7 @@ euhemerist
 euhemeristically
 euhemerize
 euhemerized
+emacerate
 euhemerizing
 euhyostyly
 euhyostylic
