@@ -4434,6 +4434,7 @@ fissile
 fissilinguia
 footmenfootpad
 fissility
+focaloid
 fissionable
 fissioned
 frays
@@ -10979,7 +10980,6 @@ frescoes
 fulmar
 fulminant
 flighthead
-focaloid
 feoffeeship
 frosts
 flame
