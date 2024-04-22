@@ -9190,7 +9190,6 @@ derangements
 didle
 didler
 diffund
-demi
 dunnage
 didn
 didna
@@ -11974,6 +11973,7 @@ disembarked
 duskish
 disembarking
 dugout
+demi
 disthrone
 disembarks
 disembarrass
