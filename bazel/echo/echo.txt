@@ -1663,7 +1663,6 @@ eh
 eheu
 ehretiaceae
 ehrman
-elegiac
 ehtanethial
 exsomatic
 ey
@@ -11649,6 +11648,7 @@ explicating
 evolved
 ergotic
 enframing
+elegiac
 electroretinogram
 evolver
 equivalencies
