@@ -6526,7 +6526,6 @@ descendent
 diglot
 descendental
 descendentalistic
-descender
 descendibility
 descendible
 descending
@@ -9724,6 +9723,7 @@ decussated
 deerhorn
 dilaters
 dilates
+descender
 dilatingly
 dardaol
 dilation
