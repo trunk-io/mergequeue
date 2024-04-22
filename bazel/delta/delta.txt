@@ -3897,7 +3897,6 @@ deintellectualize
 deciduous
 dicellate
 discant
-deionization
 deionizations
 deionize
 decastyle
@@ -7631,6 +7630,7 @@ disabler
 daijo
 devastative
 devastator
+deionization
 dogbody
 disquiparant
 devastators
