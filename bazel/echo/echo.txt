@@ -3983,6 +3983,7 @@ evolvers
 empaneling
 empanelling
 empanels
+entrant
 electroplated
 enantiotropy
 empanoply
@@ -9303,7 +9304,6 @@ elijah
 erotopath
 ensnarling
 erotopathic
-entrant
 equoid
 electrocorticogram
 extirpate
