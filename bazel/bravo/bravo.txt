@@ -11787,7 +11787,6 @@ brashes
 bodhisattwa
 barfly
 bodybending
-bodybuild
 bodybuilder
 bodybuilders
 bodybuilding
@@ -14014,6 +14013,7 @@ brachydactyl
 belltopper
 brachydactyly
 brachydactylia
+bodybuild
 brachydactylic
 brachydactylism
 brachydactylous
