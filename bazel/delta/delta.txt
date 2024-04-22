@@ -2503,7 +2503,6 @@ deckle
 deckman
 deckpipe
 decks
-dulls
 declaim
 dichorisandra
 declaimer
@@ -7664,6 +7663,7 @@ donary
 developmentally
 decompressions
 dermatologist
+dulls
 developmentarian
 demoniacs
 developmentist
