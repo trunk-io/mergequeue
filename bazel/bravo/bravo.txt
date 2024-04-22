@@ -8322,7 +8322,6 @@ biff
 biffies
 biffin
 biffs
-bifid
 bifidated
 bifidity
 bifidities
@@ -17741,6 +17740,7 @@ burlesquer
 boviculture
 burlesques
 burlesquing
+bifid
 bedsides
 berkeleyism
 burlet
