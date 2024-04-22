@@ -1811,7 +1811,6 @@ gastrolobium
 gastrologer
 guerdoning
 gastrology
-gastrologists
 gastromalacia
 garoo
 gastromancy
@@ -7400,6 +7399,7 @@ gruelling
 goupen
 goupin
 gour
+gastrologists
 goldfish
 grugru
 gymnosperms
