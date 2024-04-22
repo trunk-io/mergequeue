@@ -908,6 +908,7 @@ gamecraft
 guffaws
 girba
 gamey
+gaoler
 gyrosyn
 gloriousness
 gaydiang
@@ -1248,7 +1249,6 @@ gaol
 gracilaria
 gynostegium
 gaoled
-gaoler
 gaoling
 groatsworth
 gaoloring
