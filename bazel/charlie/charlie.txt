@@ -5686,6 +5686,7 @@ carolean
 cretic
 cannon
 catchlight
+cultivatability
 clockcase
 catchline
 catchment
@@ -20265,7 +20266,6 @@ commoning
 commonition
 commonly
 commonness
-cultivatability
 commonplace
 camias
 crucifixion
