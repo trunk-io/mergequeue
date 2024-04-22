@@ -2661,7 +2661,6 @@ barkentine
 barkentines
 barker
 barkery
-barkevikite
 bub
 barkhan
 batman
@@ -4172,6 +4171,7 @@ bestiaries
 bearance
 bearbaiter
 bedmaking
+barkevikite
 bearbane
 bearberry
 bearberries
