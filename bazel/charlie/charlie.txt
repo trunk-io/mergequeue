@@ -13206,7 +13206,6 @@ cyborg
 cibory
 chinotti
 ciboria
-ciboule
 ciboules
 cyc
 cicad
@@ -25540,6 +25539,7 @@ corollifloral
 corolliform
 capsidae
 corollitic
+ciboule
 corpsmen
 coromandel
 coromell
