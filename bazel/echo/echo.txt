@@ -4734,6 +4734,7 @@ encollar
 euryalean
 equitangential
 encolour
+epiglottiditis
 encolpia
 encolpion
 encolure
@@ -7052,7 +7053,6 @@ enumerably
 enumerates
 exemptile
 earthfast
-epiglottiditis
 enumeration
 euphone
 enumerative
