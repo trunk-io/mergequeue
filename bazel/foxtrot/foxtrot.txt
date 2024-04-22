@@ -7166,7 +7166,6 @@ fesels
 footfolk
 fortalice
 footganger
-footgears
 fruticulture
 foothalt
 filths
@@ -9363,6 +9362,7 @@ fordull
 front
 frivoling
 flintier
+footgears
 fireworms
 franchisor
 flukey
