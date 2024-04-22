@@ -306,7 +306,6 @@ forethinker
 fleeciness
 faenus
 foreboder
-frozenness
 fumade
 forthrightness
 faerie
@@ -7260,6 +7259,7 @@ footstalk
 forecasts
 fliest
 fakeers
+frozenness
 floorboards
 footstall
 footstick
