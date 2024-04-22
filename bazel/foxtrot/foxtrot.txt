@@ -1588,6 +1588,7 @@ foreshift
 fauterer
 fauteuil
 foredoom
+foreplot
 feverroot
 foreteach
 fauve
@@ -7371,7 +7372,6 @@ forby
 forewarnings
 faunlike
 foreparent
-foreplot
 forbid
 forebodingly
 flakiness
