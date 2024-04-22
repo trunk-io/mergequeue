@@ -3407,6 +3407,7 @@ blibe
 bassetta
 bemata
 bughouse
+beholders
 bassette
 bassetted
 bays
@@ -5507,7 +5508,6 @@ behither
 berrigan
 bechamel
 bunkery
-beholders
 bahmani
 beholdingness
 beholds
