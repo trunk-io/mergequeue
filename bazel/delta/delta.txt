@@ -2001,7 +2001,6 @@ dourness
 decagrams
 decahedra
 decahedral
-decahedron
 degamis
 damageableness
 decahedrons
@@ -2717,6 +2716,7 @@ deconsecration
 deconsider
 deconsideration
 decontaminated
+decahedron
 decontaminates
 decontaminating
 diatessaron

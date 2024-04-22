@@ -4254,7 +4254,6 @@ esotrope
 eremital
 emulsions
 emulsoid
-emulsoidal
 emulsoids
 emunct
 enteropathogenic
@@ -7305,6 +7304,7 @@ emission
 epanisognathism
 epanody
 endemics
+emulsoidal
 ensues
 emanationism
 epanodos
