@@ -11741,7 +11741,6 @@ cholo
 cholochrome
 cholocyanine
 caperer
-choloepus
 choloid
 choloidinic
 chololith
@@ -24252,6 +24251,7 @@ convolvulin
 convolvulinic
 certiorari
 comr
+choloepus
 convolvulinolic
 convolvulus
 convolvuluses
