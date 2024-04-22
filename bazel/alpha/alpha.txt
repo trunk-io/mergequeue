@@ -3091,7 +3091,6 @@ aulostomi
 actiniform
 actiniomorpha
 actinisms
-actinistia
 anesthetist
 actinium
 actiniums
@@ -18576,6 +18575,7 @@ arawa
 arawak
 arawakian
 asteroidea
+actinistia
 arb
 arba
 arbacia
