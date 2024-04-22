@@ -2419,6 +2419,7 @@ acidosis
 acidosteophyte
 acidotic
 acids
+automatization
 acidulant
 acidulate
 acidulated
@@ -24198,7 +24199,6 @@ autunite
 autocoids
 antepatriarchal
 automative
-automatization
 automatize
 automatized
 automatizes
