@@ -3357,6 +3357,7 @@ acus
 acusector
 atresy
 acustom
+ambassadeur
 antagonized
 acutance
 acutances
@@ -9972,7 +9973,6 @@ ambaris
 ambas
 ambash
 ambassade
-ambassadeur
 ambassador
 ambassadorially
 ambassadors
