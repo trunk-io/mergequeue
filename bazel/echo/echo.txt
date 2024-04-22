@@ -2200,7 +2200,6 @@ electary
 epithet
 enthraldom
 erected
-elysee
 electic
 esparto
 election
@@ -2567,6 +2566,7 @@ electropult
 electropuncturation
 euphemiously
 electropuncture
+elysee
 electroreceptive
 electroreduction
 ergophobiac
