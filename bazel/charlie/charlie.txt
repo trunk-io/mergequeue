@@ -11951,6 +11951,7 @@ chordate
 chorded
 chordee
 choriso
+cst
 chordeiles
 chording
 chorditis
@@ -30206,7 +30207,6 @@ crumbling
 crumbs
 caging
 crumen
-cst
 crumena
 crumenal
 crumhorn

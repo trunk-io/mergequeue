@@ -4070,7 +4070,6 @@ gila
 gearksutite
 gilaki
 gilbert
-gilbertage
 gilbertese
 gilbertian
 gamont
@@ -4938,6 +4937,7 @@ glaciated
 glaciates
 grumbles
 glaciating
+gilbertage
 glaciation
 gibbed
 glacieret
