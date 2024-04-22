@@ -12340,7 +12340,6 @@ christadelphian
 cabrito
 carrytale
 christcross
-calycoid
 christdom
 christed
 christen
@@ -20201,6 +20200,7 @@ commit
 commitment
 commitments
 commits
+calycoid
 committable
 committed
 committedly
