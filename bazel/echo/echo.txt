@@ -479,7 +479,6 @@ earshell
 ecclesiolatry
 exoerythrocytic
 egoistic
-ecclesiology
 ecclesiologic
 ecclesiological
 ecclesiologically
@@ -5453,6 +5452,7 @@ exploiters
 enharmonically
 energizers
 energizes
+ecclesiology
 electromotor
 energumenon
 enervate
