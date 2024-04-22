@@ -139,6 +139,7 @@ flajolotite
 fem
 faconde
 faconne
+fidgets
 facsim
 facsimile
 facsimiled
@@ -10113,7 +10114,6 @@ frillery
 filminess
 frillers
 frillily
-fidgets
 freezer
 frilliness
 florid
