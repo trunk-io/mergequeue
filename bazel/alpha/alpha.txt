@@ -16456,7 +16456,6 @@ antivariolous
 antivenefic
 antivenereal
 antivenin
-antivenine
 antivenins
 antivenomous
 antipathist
@@ -18380,6 +18379,7 @@ aquintocubital
 aquintocubitalism
 aquiparous
 aquiver
+antivenine
 architect
 aquocapsulitis
 apoplasmodial
