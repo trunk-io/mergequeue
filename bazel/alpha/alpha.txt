@@ -11181,7 +11181,6 @@ amphidiploidy
 amphidisc
 amphidiscophora
 amphidiscophoran
-amphidisk
 amphidromic
 amphierotic
 amphierotism
@@ -18235,6 +18234,7 @@ aproning
 aptitude
 anaudia
 aptitudes
+amphidisk
 aptitudinal
 antagonised
 aptitudinally
