@@ -1250,7 +1250,6 @@ gracilaria
 gynostegium
 gaoled
 gaoler
-gaolers
 gaoling
 groatsworth
 gaoloring
@@ -3216,6 +3215,7 @@ geopositive
 geopotential
 geoprumnon
 georama
+gaolers
 george
 georgemas
 gauss
