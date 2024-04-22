@@ -1805,6 +1805,7 @@ flagrance
 forejudgment
 featherfew
 featherhead
+fistmele
 featherheaded
 featherier
 floit
@@ -4489,7 +4490,6 @@ fisting
 fistinut
 followeth
 fama
-fistmele
 fistnotes
 familiarize
 froghopper
