@@ -1811,7 +1811,6 @@ gastrolysis
 gangliglions
 gazet
 gastralgic
-gastrolobium
 gastrologer
 guerdoning
 gastrology
@@ -8685,6 +8684,7 @@ gools
 guacharoes
 greenleek
 greenlet
+gastrolobium
 garni
 greenlets
 gorge
