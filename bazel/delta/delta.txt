@@ -4209,7 +4209,6 @@ delinter
 deliquate
 deliquescing
 deliquiate
-deliquiesce
 deliquium
 demisolde
 drama
@@ -7657,6 +7656,7 @@ dermatologist
 drabbles
 developmentarian
 demoniacs
+deliquiesce
 developmentist
 dignation
 developments
