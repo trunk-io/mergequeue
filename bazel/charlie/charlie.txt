@@ -4545,7 +4545,6 @@ couscouses
 carnie
 clapperdudgeon
 carnied
-carnies
 carniferrin
 carnifex
 carnifexes
@@ -30986,6 +30985,7 @@ cumular
 cumulate
 cumulated
 cumulately
+carnies
 cumulates
 cumulating
 cumulation
