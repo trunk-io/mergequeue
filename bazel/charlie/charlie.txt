@@ -120,6 +120,7 @@ cacana
 cabinetworking
 cabining
 cabinlike
+crafter
 canisiana
 cabio
 camelopard
@@ -18831,7 +18832,6 @@ colicines
 colicins
 colicystitis
 coappellee
-crafter
 colicystopyelitis
 colicker
 colicolitis
