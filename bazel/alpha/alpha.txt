@@ -10132,7 +10132,6 @@ acanthin
 architective
 anisette
 amboceptoid
-amboceptor
 ambocoelia
 angiosclerosis
 amoraic
@@ -14546,6 +14545,7 @@ anthracometric
 anthraconecrosis
 abecedarium
 anthraconite
+amboceptor
 anthracosaurus
 anthracosilicosis
 anthracosis
