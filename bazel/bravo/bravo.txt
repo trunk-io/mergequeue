@@ -3991,6 +3991,7 @@ bdellostoma
 booksellerish
 bocstaff
 bdellostomatidae
+brickbats
 bdellostomidae
 bacteritic
 bdelloura
@@ -15142,7 +15143,6 @@ bryce
 brick
 bankruptship
 brickbat
-brickbats
 borish
 brickbatted
 brickbatting
