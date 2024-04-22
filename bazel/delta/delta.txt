@@ -7486,6 +7486,7 @@ deul
 dumpler
 deuniting
 deurbanize
+dayglow
 deurwaarder
 diarrheic
 destroyable
@@ -13338,7 +13339,6 @@ dacrydium
 disputeless
 disputer
 definitising
-dayglow
 discerns
 disputers
 discord
