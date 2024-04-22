@@ -9901,7 +9901,6 @@ dimeter
 dimeters
 dimethyl
 dimethylamine
-dimethylanthranilate
 dimethylbenzene
 disneyland
 dimethyldiketone
@@ -11734,6 +11733,7 @@ discountinuous
 discounts
 discour
 discourage
+dimethylanthranilate
 daubiest
 deitate
 discourageable
