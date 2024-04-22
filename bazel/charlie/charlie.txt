@@ -4022,7 +4022,6 @@ coevals
 centaurian
 cardialgia
 calla
-cardialgic
 cardiameter
 cardianesthesia
 cardianeuria
@@ -17797,6 +17796,7 @@ codamine
 cardiography
 codas
 codder
+cardialgic
 coddy
 carbonero
 coddle
