@@ -2344,7 +2344,6 @@ chromocytometer
 concion
 coleorhiza
 canceller
-curettement
 chasseur
 cancelling
 cancellous
@@ -23122,6 +23121,7 @@ constantness
 constat
 constatation
 constate
+curettement
 constatory
 constellate
 coystrel
