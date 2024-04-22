@@ -6760,7 +6760,6 @@ enticers
 empyema
 enticingly
 enticingness
-entier
 evanid
 entify
 enemied
@@ -9150,6 +9149,7 @@ educe
 erythroglucin
 erythrol
 erythrolein
+entier
 erythrolysis
 enteromorpha
 epigrammatised
