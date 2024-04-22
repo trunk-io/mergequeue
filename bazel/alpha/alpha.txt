@@ -13738,7 +13738,6 @@ annunciates
 annunciating
 annunciation
 annunciations
-annunciatory
 annus
 anoa
 ariel
@@ -18701,6 +18700,7 @@ analytics
 arbutase
 arbute
 arbutean
+annunciatory
 arbutinase
 arbutuses
 arca
