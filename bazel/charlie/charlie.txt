@@ -4773,6 +4773,7 @@ carpophalangeal
 carpophyl
 carpophyte
 carpophore
+cynosarges
 carpopodite
 carpopoditic
 carpoptosia
@@ -14071,7 +14072,6 @@ cynopithecoid
 cynopodous
 cynorrhoda
 cynorrhodon
-cynosarges
 cynosura
 cynosure
 czarowitz
