@@ -17802,6 +17802,7 @@ codal
 cerebrasthenia
 codamin
 codamine
+calibrators
 cardiography
 codas
 codder
@@ -30412,7 +30413,6 @@ cuarenta
 choux
 cuarta
 cuartel
-calibrators
 cuarteron
 carfuffled
 cocceian
