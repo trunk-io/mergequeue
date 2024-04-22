@@ -19,7 +19,6 @@ baaskaaps
 bifronted
 bevels
 baaskap
-baba
 babacoote
 babaylanes
 bhalu
@@ -1889,6 +1888,7 @@ burdon
 brownism
 brython
 bakehouse
+baba
 bandhava
 bandhook
 bandhu

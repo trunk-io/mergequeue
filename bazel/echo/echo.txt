@@ -9608,7 +9608,6 @@ escudos
 eyehole
 esculent
 esculents
-esculetin
 esculic
 esculin
 enciphered
@@ -10239,6 +10238,7 @@ escherichia
 etherean
 etherene
 etabelli
+esculetin
 exotically
 enteropexy
 earphones
