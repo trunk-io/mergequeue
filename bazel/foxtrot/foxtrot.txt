@@ -752,7 +752,6 @@ fenchol
 fibreglass
 fluxions
 fancy
-fancical
 fancied
 fetidness
 fanciers
@@ -1446,6 +1445,7 @@ frivoller
 farcies
 fatly
 fatling
+fancical
 fourieristic
 fatness
 facto
