@@ -3469,7 +3469,6 @@ figging
 femes
 flacker
 figgle
-figgum
 fight
 fightable
 fingerable
@@ -5366,6 +5365,7 @@ fleing
 flanges
 frankfold
 fleysome
+figgum
 faithing
 flem
 fleme
