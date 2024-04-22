@@ -5556,7 +5556,6 @@ flightiness
 flightless
 forepassed
 flights
-frightenable
 flightworthy
 fannier
 fructuose
@@ -6494,6 +6493,7 @@ fogyism
 flusterer
 flustery
 fondnesses
+frightenable
 facades
 flustrate
 flustrated
