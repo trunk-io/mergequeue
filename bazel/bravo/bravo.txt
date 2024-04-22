@@ -3190,6 +3190,7 @@ basibregmatic
 bowwood
 bauld
 basic
+bombardier
 basically
 basicerite
 basichromatin
@@ -12259,7 +12260,6 @@ byrls
 bombarded
 bushfighter
 bombarder
-bombardier
 bombardiers
 bombarding
 bombardman
