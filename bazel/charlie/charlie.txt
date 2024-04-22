@@ -7543,7 +7543,6 @@ cardamoms
 ceratophyllaceous
 ceratophyllum
 ceratophyta
-coart
 colocephalous
 ceratophrys
 changepocket
@@ -28712,6 +28711,7 @@ creoleize
 creolian
 creolin
 creolism
+coart
 creolite
 creolization
 creolized
