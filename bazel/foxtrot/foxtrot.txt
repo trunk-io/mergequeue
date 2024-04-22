@@ -5948,7 +5948,6 @@ folkways
 fiddleback
 felaheen
 fawny
-floorshifts
 floorshow
 floorway
 fluidrachm
@@ -7648,6 +7647,7 @@ forefingers
 figlike
 fritillaries
 fistulized
+floorshifts
 franger
 flusherman
 forefoot
