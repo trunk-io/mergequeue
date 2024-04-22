@@ -4569,7 +4569,6 @@ crithmene
 carnivorous
 carnivorously
 carnivorousness
-carnose
 colorationally
 carnosine
 carnosities
@@ -13361,6 +13360,7 @@ cyclings
 cyclism
 cyclist
 cyclistic
+carnose
 cyclists
 cyclitic
 cyclitis
