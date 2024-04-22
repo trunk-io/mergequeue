@@ -4379,6 +4379,7 @@ albumenize
 alright
 adoulie
 adoxa
+aoristic
 adoxaceae
 adoxaceous
 angild
@@ -16661,7 +16662,6 @@ aorist
 afterhand
 advertises
 assimilate
-aoristic
 aoristically
 aorists
 aorta
