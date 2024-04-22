@@ -698,7 +698,6 @@ aborad
 aboral
 aborally
 abord
-aboriginal
 aboriginality
 aboriginally
 aboriginals
@@ -13807,6 +13806,7 @@ anolis
 anolyte
 absolutization
 anomala
+aboriginal
 anomaly
 anomalies
 anomaliflorous
