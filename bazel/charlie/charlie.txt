@@ -11549,6 +11549,7 @@ choirlike
 conoidally
 choristoma
 choirman
+ceratitoid
 choirmaster
 choirmasters
 choyroot
@@ -25887,7 +25888,6 @@ corrupts
 corsac
 corsacs
 corsage
-ceratitoid
 corsages
 corsairs
 corsak
