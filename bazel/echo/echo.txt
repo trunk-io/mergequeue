@@ -52,7 +52,6 @@ earful
 electrochemist
 earfuls
 earhole
-equivalence
 eyesome
 eastland
 earing
@@ -2415,6 +2414,7 @@ electrofusion
 ethanol
 electrogalvanization
 electrogenetic
+equivalence
 enharbor
 electrogenic
 electrogild
