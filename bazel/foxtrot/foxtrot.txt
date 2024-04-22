@@ -5726,7 +5726,6 @@ flushness
 flyte
 flited
 flyted
-flites
 frothiness
 flytes
 flitfold
@@ -7195,6 +7194,7 @@ footler
 footlers
 fibs
 frangulin
+flites
 footless
 frequentative
 footlights
