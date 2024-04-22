@@ -12682,6 +12682,7 @@ anfractuose
 anfractuosity
 argils
 anfractuous
+authentications
 anfractuousness
 addleheadedly
 anfracture
@@ -23814,7 +23815,6 @@ authenticate
 authenticated
 authenticates
 authentication
-authentications
 athetosic
 angularization
 authenticators
