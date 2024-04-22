@@ -360,6 +360,7 @@ borgh
 backfurrow
 birdlimed
 backgame
+beamlet
 backgammon
 backgeared
 barbarical
@@ -4129,7 +4130,6 @@ beamish
 beamishly
 beamless
 bagwash
-beamlet
 beamman
 beamroom
 braize
