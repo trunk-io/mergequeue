@@ -3321,6 +3321,7 @@ geratologous
 gerb
 gerbe
 gerbil
+gnu
 groutnoll
 geegaw
 gimels
@@ -9098,7 +9099,6 @@ griotte
 grip
 genie
 grandest
-gnu
 gradins
 gripey
 gramicidin
