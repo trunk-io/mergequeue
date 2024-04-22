@@ -1567,7 +1567,6 @@ acclimatizes
 anticness
 acclinal
 acclinate
-acclivity
 apostatising
 acclivities
 acclivitous
@@ -21033,6 +21032,7 @@ adverb
 aschaffite
 ascher
 aschistic
+acclivity
 asci
 ascian
 ascians
