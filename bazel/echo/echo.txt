@@ -2278,7 +2278,6 @@ earthenware
 electro
 electroacoustic
 etruscan
-ecblastpsis
 electroacoustical
 electroacoustically
 electroacoustics
@@ -12954,6 +12953,7 @@ expected
 eulogistically
 expectedness
 expecter
+ecblastpsis
 expecting
 exasperative
 expectingly
