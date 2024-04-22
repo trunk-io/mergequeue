@@ -739,7 +739,6 @@ excepted
 elaterin
 ecophysiology
 ecophysiological
-ecorch
 ecorche
 ecosystem
 ecosystems
@@ -6615,6 +6614,7 @@ extratension
 enteroischiocele
 enterolysis
 elaborateness
+ecorch
 eddies
 eudalene
 elastomeric
