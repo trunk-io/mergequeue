@@ -5814,7 +5814,6 @@ amphidromia
 againward
 agal
 agalactic
-agalawood
 animalcule
 appoggiaturas
 agalaxy
@@ -19420,6 +19419,7 @@ arecoline
 arecuna
 archetypic
 ared
+agalawood
 areek
 areel
 arefact
