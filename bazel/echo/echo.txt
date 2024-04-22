@@ -111,7 +111,6 @@ earpiece
 earplugs
 enchisel
 earreach
-earringed
 earrings
 ears
 earsh
@@ -11627,6 +11626,7 @@ evolutionize
 evolutions
 elaeocarpus
 extorted
+earringed
 ecuadoran
 evolutive
 evolutoid
