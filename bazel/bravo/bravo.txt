@@ -2139,7 +2139,6 @@ banquet
 banqueted
 banqueter
 bundist
-banqueters
 banqueting
 banquets
 banquette
@@ -13376,6 +13375,7 @@ brannier
 botryomycoma
 biogenetically
 brutal
+banqueters
 bokark
 blowtorch
 biquadratic
