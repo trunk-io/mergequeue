@@ -4696,7 +4696,6 @@ enrib
 enclitical
 endosmosic
 encycl
-encloak
 exploratory
 eclipsis
 encloister
@@ -6408,6 +6407,7 @@ ensnarer
 ensnarers
 ensnares
 exornate
+encloak
 eobionts
 euctical
 ensnarl
