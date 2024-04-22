@@ -721,7 +721,6 @@ economising
 endotheloid
 economism
 economist
-economization
 economize
 enweaved
 economized
@@ -4983,6 +4982,7 @@ endoangiitis
 exemplum
 endoaortitis
 endoappendicitis
+economization
 enamelled
 elan
 endoauscultation
