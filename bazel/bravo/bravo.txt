@@ -2601,7 +2601,6 @@ baring
 bariolage
 blackie
 basiglandular
-barefooted
 baryon
 baryonic
 baryphonia
@@ -11681,6 +11680,7 @@ bobbin
 bobbiner
 bobbinet
 bobbinets
+barefooted
 bobbing
 bobbinite
 bobbins
