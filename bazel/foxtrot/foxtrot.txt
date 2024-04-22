@@ -4696,7 +4696,6 @@ flagellantism
 flagellariaceae
 flagellariaceous
 flagellatae
-flagellate
 facund
 follies
 flagellated
@@ -5832,6 +5831,7 @@ fastigia
 flocced
 fname
 flocci
+flagellate
 floccipend
 freeloader
 floccose
