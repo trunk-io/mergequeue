@@ -3688,6 +3688,7 @@ galyaks
 ghettoed
 ghettoes
 gulflike
+glassworm
 ghettoized
 grubbing
 ghettoizing
@@ -5162,7 +5163,6 @@ guideway
 gunpaper
 glassworker
 glassworkers
-glassworm
 glasswort
 gnomish
 gees
