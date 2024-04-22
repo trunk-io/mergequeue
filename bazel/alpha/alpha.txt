@@ -13439,7 +13439,6 @@ anywhen
 ascill
 anywhence
 anywhere
-anywhereness
 anywhither
 anywise
 anywither
@@ -24506,6 +24505,7 @@ auxeses
 auxesis
 auxetic
 auxil
+anywhereness
 applegrower
 antacids
 auxiliar
