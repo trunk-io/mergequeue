@@ -3052,7 +3052,6 @@ bartramia
 bubba
 bartramiaceae
 bartramian
-bartree
 bdft
 bilobular
 bulwark
@@ -6765,6 +6764,7 @@ beribbon
 beriber
 baptize
 beriberis
+bartree
 berycid
 busyhead
 berycidae
