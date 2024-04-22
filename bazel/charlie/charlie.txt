@@ -10722,7 +10722,6 @@ chymiferous
 chymify
 chymification
 chymified
-chymifying
 chimin
 chiminage
 chiming
@@ -19425,6 +19424,7 @@ cinerea
 carpocervical
 colorfast
 colorfastness
+chymifying
 colorful
 colorfully
 colorfulness
