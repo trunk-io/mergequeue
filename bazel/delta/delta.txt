@@ -3512,7 +3512,6 @@ defogging
 defogs
 defoil
 dawish
-defoliage
 dorsobranchiata
 defoliants
 defoliate
@@ -12650,6 +12649,7 @@ dvandva
 divesting
 dextrorse
 diskophile
+defoliage
 die
 daubs
 disks
