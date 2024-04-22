@@ -7802,7 +7802,6 @@ gemauve
 gramineae
 gyres
 gramineal
-gramineous
 giglets
 graminiform
 gynaeocracy
@@ -9361,6 +9360,7 @@ grosgrain
 gypsies
 gastroenterologist
 grosgrains
+gramineous
 gripped
 gross
 grumblesome
