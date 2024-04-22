@@ -6030,7 +6030,6 @@ belter
 ballistic
 beltie
 belting
-beltings
 ballahoo
 bedroom
 bangalay
@@ -16555,6 +16554,7 @@ buccanned
 bent
 buccanning
 buccellarius
+beltings
 buccheros
 blastogeny
 bilaminated
