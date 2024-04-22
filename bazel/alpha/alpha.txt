@@ -2605,6 +2605,7 @@ acology
 airometer
 absciss
 acologic
+amidate
 acolous
 adulterants
 acoma
@@ -10471,7 +10472,6 @@ amicron
 amicronucleate
 amictus
 amicus
-amidate
 amidating
 amidation
 aliofar
