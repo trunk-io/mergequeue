@@ -1603,6 +1603,7 @@ accommodation
 accommodations
 accommodatively
 accommodativeness
+additum
 accommodators
 accomodate
 accompanable
@@ -3562,7 +3563,6 @@ appoggiatura
 additives
 additivity
 additory
-additum
 acetimeter
 additur
 addle
