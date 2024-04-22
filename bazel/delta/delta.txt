@@ -59,7 +59,6 @@ doray
 drengh
 dacryocystitis
 dacryocystoblennorrhea
-dacryocystocele
 diarchial
 dacryocystoptosis
 dacryocystosyringotomy
@@ -11526,6 +11525,7 @@ discolorations
 discolored
 discoloring
 doest
+dacryocystocele
 discolorment
 discolors
 diosma
