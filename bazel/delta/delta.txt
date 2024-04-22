@@ -1174,6 +1174,7 @@ datafile
 dataflow
 datagram
 datagrams
+doormat
 dewlight
 deescalating
 datakit
@@ -15616,7 +15617,6 @@ doorless
 doormaid
 doormaker
 doorman
-doormat
 doormats
 doormen
 doornboom
