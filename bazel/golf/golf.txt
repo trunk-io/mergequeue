@@ -1362,7 +1362,6 @@ garboards
 garbologist
 gimlety
 garce
-geocentrical
 gean
 grallina
 garcinia
@@ -6289,6 +6288,7 @@ goalage
 goalie
 gallotannate
 goalkeeping
+geocentrical
 gargarize
 goalpost
 gambusias
