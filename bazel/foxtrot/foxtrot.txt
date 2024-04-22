@@ -1395,7 +1395,6 @@ flinting
 fatherless
 fatherlessness
 fatherly
-fructed
 fatherlike
 fathership
 forswore
@@ -9155,6 +9154,7 @@ flagellulae
 femorocele
 fidiculae
 fielded
+fructed
 fp
 fritz
 featherlike
