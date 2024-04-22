@@ -4206,7 +4206,6 @@ carecloth
 cared
 careen
 coccidia
-careener
 careens
 career
 careered
@@ -15918,6 +15917,7 @@ cleated
 cleats
 cheilitis
 cleavable
+careener
 cleavage
 cleavages
 cleave
