@@ -2415,7 +2415,6 @@ deciles
 decylic
 deciliter
 deciliters
-decilitre
 doorbells
 dripstick
 disaffects
@@ -16824,6 +16823,7 @@ drawboy
 drawbolt
 drawbore
 deare
+decilitre
 drawbores
 deodars
 dorsomesal
