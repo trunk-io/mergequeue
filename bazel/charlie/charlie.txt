@@ -17171,7 +17171,6 @@ coagulin
 coaguline
 coagulometer
 coagulose
-coagulum
 coahuiltecan
 coaid
 coaita
@@ -23140,6 +23139,7 @@ constitutes
 consociating
 constituting
 constitutional
+coagulum
 constitutionalism
 constitutionalist
 constitutionalization
