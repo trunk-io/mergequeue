@@ -14206,6 +14206,7 @@ cypselidae
 cypseliform
 cypseliformes
 chiriana
+cryptostomate
 colorist
 cypseloid
 counterconversion
@@ -18167,7 +18168,6 @@ coercibleness
 coercibly
 coercion
 coercionary
-cryptostomate
 coercitive
 coercive
 coerciveness
