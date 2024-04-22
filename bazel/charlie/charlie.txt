@@ -3508,7 +3508,6 @@ consonantizing
 captive
 calvarias
 captives
-captiving
 comatulae
 captivities
 cojoin
@@ -27685,6 +27684,7 @@ cowy
 clockers
 cowier
 cowiest
+captiving
 cowing
 crizzle
 carcinosarcomata
