@@ -13076,7 +13076,6 @@ bornitic
 boro
 borocaine
 borofluohydric
-borofluorin
 boroglycerate
 boroglycerine
 borohydride
@@ -16284,6 +16283,7 @@ bruiter
 bruiters
 bruiting
 bruits
+borofluorin
 blackeners
 breadthen
 baddeleyite
