@@ -3822,7 +3822,6 @@ guanylic
 gibberellin
 gaffing
 gibberish
-gibberose
 gibbert
 goffers
 gibbet
@@ -6133,6 +6132,7 @@ gravamen
 geometry
 gnabble
 graspers
+gibberose
 gelotometer
 gnamma
 gingles
