@@ -3462,6 +3462,7 @@ deflorescence
 deflourish
 dropforged
 dubash
+disgarland
 deflower
 deflowered
 deflowerer
@@ -17042,7 +17043,6 @@ dressily
 dematerialising
 disalicylide
 dressings
-disgarland
 dressline
 divinityship
 dobbed
