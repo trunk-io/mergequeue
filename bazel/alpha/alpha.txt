@@ -16354,7 +16354,6 @@ antitank
 antitarnishing
 antiteetotalism
 actinine
-antitetanic
 antitetanolysin
 antithalian
 aetian
@@ -20565,6 +20564,7 @@ arteriometer
 arteriomotor
 arterionecrosis
 arteriopalmus
+antitetanic
 arteriopathy
 arterioplasty
 arteriopressor
