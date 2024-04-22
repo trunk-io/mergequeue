@@ -13534,6 +13534,7 @@ cicorees
 coruscated
 cicurate
 cicuta
+classifications
 creches
 cicutoxin
 cid
@@ -15673,7 +15674,6 @@ classify
 classifiable
 classific
 classifically
-classifications
 classificator
 classificatory
 classified
