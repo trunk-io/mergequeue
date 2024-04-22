@@ -4220,6 +4220,7 @@ firesafeness
 firesafety
 fissicostate
 fireside
+frightened
 firesider
 firespout
 freshmanship
@@ -6559,7 +6560,6 @@ fluttering
 favn
 flutteringly
 flutterless
-frightened
 flutterment
 fossula
 fluttersome
