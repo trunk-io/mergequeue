@@ -3814,6 +3814,7 @@ filose
 furnitureless
 fils
 filterability
+foreturn
 finify
 freakily
 filterableness
@@ -8115,7 +8116,6 @@ foretopmast
 foretopmen
 foretops
 foretrace
-foreturn
 foreuse
 foreutter
 forevalue
