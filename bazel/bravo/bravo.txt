@@ -433,7 +433,6 @@ backpointer
 backpointers
 backrope
 bushwas
-brimstony
 backropes
 backrush
 backrushes
@@ -1983,6 +1982,7 @@ bandwidths
 bandwork
 bandworm
 boogiewoogie
+brimstony
 bane
 baneberry
 benzoflavine
