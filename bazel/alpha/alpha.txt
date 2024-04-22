@@ -6435,7 +6435,6 @@ agrarianize
 aggress
 agrarianly
 agrauleum
-agravic
 agre
 agreation
 agreations
@@ -7976,6 +7975,7 @@ aleppo
 alerce
 alerion
 alerse
+agravic
 alert
 alerta
 anorak
