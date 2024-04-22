@@ -9085,6 +9085,7 @@ charitable
 charitably
 charitative
 charity
+chessmen
 charities
 charityless
 charivari
@@ -10145,7 +10146,6 @@ chesset
 chessylite
 chessist
 chessman
-chessmen
 chirimen
 chessner
 chessom
