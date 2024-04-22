@@ -1126,7 +1126,6 @@ farseeingness
 fluoroid
 flocculable
 filiated
-farseer
 farset
 frogged
 farsighted
@@ -4222,6 +4221,7 @@ frightened
 firesider
 firespout
 freshmanship
+farseer
 forestiera
 firestop
 firestorm

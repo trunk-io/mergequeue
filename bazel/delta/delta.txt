@@ -6596,7 +6596,6 @@ duckish
 dished
 deseasonalize
 desecrate
-decollated
 desecrated
 dipole
 desecrates
@@ -10470,6 +10469,7 @@ diphenylmethane
 diphenylquinomethane
 diphenyls
 diphenylthiourea
+decollated
 dispowder
 diphenoxylate
 diphycercal
