@@ -1502,7 +1502,6 @@ accessless
 achenodia
 alg
 accessory
-anakinetic
 accessorily
 accessorius
 accessoriusorii
@@ -9723,6 +9722,7 @@ accidie
 alveoliform
 aduncated
 alveolite
+anakinetic
 alveolitis
 autophobia
 alveololabial
