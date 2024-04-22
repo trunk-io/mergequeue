@@ -9272,7 +9272,6 @@ chemisorptive
 chastacosta
 chaste
 chastelain
-chasten
 catarrh
 chastener
 chasteners
@@ -25080,6 +25079,7 @@ coreflexed
 chinked
 coregency
 chlorohydrocarbon
+chasten
 colessee
 coregent
 coregnancy
