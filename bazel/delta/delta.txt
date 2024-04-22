@@ -13559,7 +13559,6 @@ disseminule
 dissension
 dissensualize
 dissent
-dissentaneousness
 dissentation
 dissented
 dissenter
@@ -17506,6 +17505,7 @@ drovers
 drovy
 damlike
 drown
+dissentaneousness
 dermatitis
 drownd
 drownds
