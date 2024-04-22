@@ -1483,7 +1483,6 @@ garnison
 garniture
 grecize
 ganyie
-garon
 grimace
 garookuh
 garote
@@ -9109,6 +9108,7 @@ gemmoid
 gripes
 geoponic
 gripgrass
+garon
 griphite
 geosynclinal
 golee
