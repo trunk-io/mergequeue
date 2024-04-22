@@ -5287,7 +5287,6 @@ begettal
 begetter
 begetters
 broth
-beggardom
 bandagist
 beggared
 beggaress
@@ -10031,6 +10030,7 @@ bizarrerie
 bield
 biventral
 bargainor
+beggardom
 biverb
 bivial
 beinness
