@@ -20410,6 +20410,7 @@ arrowleaf
 arrowless
 alkyl
 ashet
+asphyxiative
 arrowlet
 arrowlike
 arrowplate
@@ -21517,7 +21518,6 @@ auxoaction
 asphyxiated
 asphyxiating
 asphyxiation
-asphyxiative
 asphyxiator
 asphyxied
 ampulating
