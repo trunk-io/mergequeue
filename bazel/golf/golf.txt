@@ -1584,7 +1584,6 @@ gashing
 guazuti
 grainways
 guarded
-greedily
 gashouse
 generale
 gabe
@@ -4949,6 +4948,7 @@ ganisters
 glaciomarine
 glacionatant
 gamb
+greedily
 glacious
 glad
 gladden
