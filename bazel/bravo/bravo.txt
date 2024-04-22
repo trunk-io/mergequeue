@@ -6512,7 +6512,6 @@ benzoin
 bernard
 benzoinated
 benzoiodohydrin
-benzol
 benzolize
 brinishness
 bidet
@@ -8047,6 +8046,7 @@ bibliotist
 biblism
 boordly
 biblists
+benzol
 bovicide
 biblos
 buoyed
