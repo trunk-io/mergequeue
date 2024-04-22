@@ -2417,7 +2417,6 @@ candidacy
 candidacies
 careeristic
 collinal
-candidate
 candidated
 candidates
 candidating
@@ -16741,6 +16740,7 @@ clotured
 clotures
 confixed
 cloturing
+candidate
 clotweed
 clou
 cinnyl
