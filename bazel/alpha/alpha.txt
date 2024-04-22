@@ -4616,7 +4616,6 @@ advectitious
 advective
 advects
 advena
-advent
 adventist
 asperness
 adventists
@@ -7943,6 +7942,7 @@ aleiptes
 agammaglobulinemia
 aleiptic
 alphitomancy
+advent
 aleyrodes
 augites
 apostemation
