@@ -3434,7 +3434,6 @@ fifteenths
 fifthly
 fabricate
 fifty
-fantastic
 festa
 fifties
 fumiduct
@@ -7261,6 +7260,7 @@ footslogged
 footslogger
 finnmarks
 footsores
+fantastic
 footstalk
 forecasts
 fliest
