@@ -7927,7 +7927,6 @@ alefs
 aleft
 alefzero
 alegar
-alehouse
 alehouses
 amor
 aleyard
@@ -13452,6 +13451,7 @@ ascill
 anywhence
 anywhere
 anywhither
+alehouse
 anywise
 anywither
 anhalonium
