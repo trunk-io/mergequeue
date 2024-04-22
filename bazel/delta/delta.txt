@@ -2490,6 +2490,7 @@ dateline
 deckedout
 deckel
 deckels
+deporte
 deblocking
 dirigent
 decken
@@ -5842,7 +5843,6 @@ deport
 deportability
 deportation
 deportations
-deporte
 deportee
 divorced
 decriminalized
