@@ -5458,7 +5458,6 @@ grafts
 gruft
 gamodesmy
 gigartinaceae
-gliders
 gospodipoda
 guttural
 grando
@@ -5973,6 +5972,7 @@ gate
 gynoecium
 glucate
 glucemia
+gliders
 glucic
 galipoidine
 generalcies
