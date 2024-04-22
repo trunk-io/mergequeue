@@ -4688,6 +4688,7 @@ flacianist
 flack
 fife
 flacks
+forerank
 fibrovasal
 felons
 foundry
@@ -7869,7 +7870,6 @@ forequarter
 fraidycat
 forerake
 foreran
-forerank
 forereach
 forereading
 forerecited
