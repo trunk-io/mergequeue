@@ -4664,6 +4664,7 @@ gapperi
 grapewort
 girtonian
 grout
+gluteus
 gluelike
 gyrencephala
 gyrencephalic
@@ -6111,7 +6112,6 @@ genisaro
 gluteofemoral
 gluteoinguinal
 glutethimide
-gluteus
 grogs
 glutimate
 granolithic
