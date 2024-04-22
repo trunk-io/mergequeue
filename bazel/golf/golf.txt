@@ -179,7 +179,6 @@ gingerroot
 gardenmaker
 gamboges
 gatewright
-gaffes
 gloaming
 gag
 grampuses
@@ -1523,6 +1522,7 @@ garefowls
 garrnishable
 gemeinde
 garroo
+gaffes
 garroted
 garroter
 garroters
