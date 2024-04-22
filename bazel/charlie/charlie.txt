@@ -8989,7 +8989,6 @@ characterlessness
 characterology
 characterologically
 characters
-characterstring
 charadrii
 charadriiform
 charadriiformes
@@ -10087,6 +10086,7 @@ circumhorizontal
 cherry
 cherryblossom
 cherried
+characterstring
 cherries
 chlorioninae
 chugalugs
