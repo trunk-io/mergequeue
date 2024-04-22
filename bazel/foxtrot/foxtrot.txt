@@ -3043,7 +3043,6 @@ floorshift
 farrandly
 fy
 fiacres
-fiancailles
 februaries
 fetichry
 fiance
@@ -5484,6 +5483,7 @@ flexor
 flexors
 fluffed
 flexuosity
+fiancailles
 flexuously
 flexuousness
 flexura
