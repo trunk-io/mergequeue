@@ -1465,7 +1465,6 @@ damnatory
 dea
 depressure
 deaccession
-deaccessioned
 deaccessioning
 deaccessions
 deacetylate
@@ -6358,6 +6357,7 @@ dermatozoonosis
 dermatozzoa
 dermatrophia
 dermatropic
+deaccessioned
 dermenchysis
 dermestes
 dermestid
