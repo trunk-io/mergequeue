@@ -3359,7 +3359,6 @@ epeidia
 embattled
 eudipleural
 estranger
-embattlement
 embattles
 embden
 embed
@@ -4446,6 +4445,7 @@ encashment
 elementarity
 encasing
 excluder
+embattlement
 emphatically
 entoderm
 encastre
