@@ -6058,6 +6058,7 @@ enneahedron
 eyepoints
 enneahedrons
 ethnicize
+etherical
 enneandrian
 epididymovasostomy
 egotisms
@@ -9474,7 +9475,6 @@ executant
 ephedrine
 eurhythmical
 esterase
-etherical
 escapeful
 equisized
 escapeless
