@@ -7621,6 +7621,7 @@ enterohelcosis
 epicormic
 epicortical
 epicostal
+explanator
 enterogastritis
 epicotyl
 epicotyls
@@ -13166,7 +13167,6 @@ explainers
 explaining
 explainingly
 explanation
-explanator
 eductor
 expurgator
 etheriidae
