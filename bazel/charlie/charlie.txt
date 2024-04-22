@@ -5611,6 +5611,7 @@ cuitled
 cataphora
 cataphoresis
 cataphoretically
+concordant
 cataphoria
 cataphract
 cataphracta
@@ -21487,7 +21488,6 @@ concordance
 concordancer
 concordances
 concordancy
-concordant
 concordantial
 cankerworm
 councilorship

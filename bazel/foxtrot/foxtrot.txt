@@ -7618,6 +7618,7 @@ foredune
 foreface
 firy
 ferroglass
+forestep
 forefatherly
 fingerprinting
 forefathers
@@ -9723,7 +9724,6 @@ freety
 freeway
 freeward
 flavorings
-forestep
 foresign
 freewheelers
 fecklessly
