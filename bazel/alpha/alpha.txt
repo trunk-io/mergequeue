@@ -10863,7 +10863,6 @@ ammoniureted
 ammono
 ammonobasic
 atty
-ammonocarbonic
 ammonocarbonous
 ammonoidea
 ammonoidean
@@ -13049,6 +13048,7 @@ angulate
 angulated
 angulately
 angulateness
+ammonocarbonic
 angulating
 angulation
 angulatogibbous
