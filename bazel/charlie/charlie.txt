@@ -17317,7 +17317,6 @@ coarser
 commelinaceae
 coarsest
 crureus
-coarsish
 coarticulate
 coarticulation
 coascend
@@ -25411,6 +25410,7 @@ cornic
 cornice
 corniced
 collaud
+coarsish
 corniches
 cornicle
 cornicles
