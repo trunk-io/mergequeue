@@ -6325,7 +6325,6 @@ agnomen
 agnomens
 agnomina
 ababua
-agnominal
 antirennet
 agnosy
 agnosia
@@ -23062,6 +23061,7 @@ agglomerations
 attendance
 attendances
 attendancy
+agnominal
 allopurinol
 attendant
 attendants
