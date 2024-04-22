@@ -7167,7 +7167,6 @@ epharmonic
 enworthed
 enwound
 enwove
-enwrapment
 enwrapping
 enwraps
 epiphyseal
@@ -12847,6 +12846,7 @@ elementalistically
 exoterical
 exoterically
 exotericism
+enwrapment
 extenuated
 embossmen
 ephesine
