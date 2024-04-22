@@ -4692,7 +4692,6 @@ bedecks
 bedegar
 bankfull
 bedeguar
-bindings
 bedehouse
 bedehouses
 bedell
@@ -4920,6 +4919,7 @@ bedway
 bolsterers
 battuto
 bedways
+bindings
 blackwashing
 belavendered
 bedwards
