@@ -4953,7 +4953,6 @@ glad
 gladden
 geogenous
 gladdens
-gladdy
 gladding
 glade
 glades
@@ -8534,6 +8533,7 @@ gantlines
 garlicmonger
 gozzard
 guttered
+gladdy
 greaseproof
 greaseproofness
 greaser
