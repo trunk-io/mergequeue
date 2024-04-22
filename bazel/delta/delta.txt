@@ -1182,6 +1182,7 @@ deescalating
 datakit
 datamation
 datana
+disenabled
 diospyraceae
 denasalizing
 datapac
@@ -12011,7 +12012,6 @@ disemployment
 disempower
 disemprison
 disenable
-disenabled
 deferable
 disenabling
 disenact
