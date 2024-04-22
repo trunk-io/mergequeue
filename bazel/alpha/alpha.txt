@@ -3197,6 +3197,7 @@ antrotome
 actinopterygious
 actinoscopy
 actinosome
+appendiculate
 actinosphaerium
 actinost
 actinostereoscopy
@@ -17770,7 +17771,6 @@ abanic
 appendiculariidae
 azygosperm
 appendiculata
-appendiculate
 alectoris
 appendorontgenography
 appendotome
