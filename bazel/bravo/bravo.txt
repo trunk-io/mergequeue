@@ -8663,7 +8663,6 @@ beckon
 billboards
 billbroking
 billbug
-biller
 billers
 billete
 brantcorn
@@ -12246,6 +12245,7 @@ bawds
 boltspreet
 boltwork
 bolus
+biller
 boluses
 bereavement
 benn
