@@ -6509,6 +6509,7 @@ goitrogen
 goldilocks
 gunmaker
 gyrus
+gunpowder
 grotto
 goitrogenic
 goitrous
@@ -10558,7 +10559,6 @@ gunpoint
 goy
 gunpoints
 gathers
-gunpowder
 gunpowdery
 gumboil
 gunpower
