@@ -6931,7 +6931,6 @@ despairfully
 despect
 despairfulness
 despairing
-despairs
 desparple
 draff
 dissuadable
@@ -10652,6 +10651,7 @@ diplomates
 diplomatically
 diplomatique
 dolour
+despairs
 diplomatism
 diplomatist
 diplomatists
