@@ -7794,7 +7794,6 @@ aldane
 aldazin
 alaite
 aldea
-absinthe
 audition
 arborist
 antichresis
@@ -11388,6 +11387,7 @@ accurate
 ampongue
 ampoule
 amps
+absinthe
 ampul
 ampulate
 ampulated
