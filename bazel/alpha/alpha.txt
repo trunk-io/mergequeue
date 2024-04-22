@@ -8971,7 +8971,6 @@ allonyms
 allonomous
 alloo
 allopalladium
-airframe
 allopath
 allopathetic
 allopathic
@@ -10212,6 +10211,7 @@ ahepatokla
 ambulomancy
 avo
 amburbial
+airframe
 ambury
 ambuscade
 ambuscaded
