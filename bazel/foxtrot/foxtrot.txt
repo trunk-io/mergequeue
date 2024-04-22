@@ -3607,7 +3607,6 @@ filesmith
 filesniff
 ferrotype
 filespec
-fossores
 fileting
 flaccidities
 floatboard
@@ -5886,6 +5885,7 @@ fructiferous
 flood
 ferrotungsten
 floodable
+fossores
 fineable
 floodage
 fabiform
