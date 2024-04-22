@@ -13320,7 +13320,6 @@ disprover
 disproves
 disprovide
 disproving
-dispunishable
 dispunitive
 dispurse
 dispurvey
@@ -17194,6 +17193,7 @@ disputatively
 drinking
 drinkproof
 drinks
+dispunishable
 drinn
 dryobalanops
 decolorizing
