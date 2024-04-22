@@ -2244,7 +2244,6 @@ fels
 felsites
 fligger
 foretypified
-forebless
 forestate
 felspath
 felstone
@@ -7224,6 +7223,7 @@ footpace
 footpaces
 forefather
 flavonoid
+forebless
 fifer
 footpad
 footpath
