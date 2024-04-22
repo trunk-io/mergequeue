@@ -8931,7 +8931,6 @@ balsamiferous
 binomenclature
 binomy
 binomialism
-binomially
 binomials
 binominal
 bunchbacked
@@ -17413,6 +17412,7 @@ bungey
 beety
 bunger
 bungerly
+binomially
 bungfull
 bunghole
 bungholes
