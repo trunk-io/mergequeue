@@ -1357,6 +1357,7 @@ flap
 foreturn
 former
 fatbacks
+fructivorous
 fatbird
 fate
 fated
@@ -10644,7 +10645,6 @@ fructifying
 frontpiece
 furfurals
 fructiform
-fructivorous
 fructosan
 fructose
 freespac
