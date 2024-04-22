@@ -5928,6 +5928,7 @@ glows
 geoethnic
 gorgeable
 grimmia
+galvanotropism
 glowworms
 ghastfulness
 gloxinia
@@ -6521,7 +6522,6 @@ gobiesocid
 golconda
 golcondas
 goldang
-galvanotropism
 giddypate
 gentisate
 goldarned

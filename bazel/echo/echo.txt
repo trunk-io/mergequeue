@@ -4265,7 +4265,6 @@ enteropathogenic
 emunctory
 electroencephalographic
 enlay
-emunctories
 exostracism
 epigraphical
 emunge
@@ -13348,6 +13347,7 @@ exemplify
 exposture
 epanaphoral
 etude
+emunctories
 exposure
 ethered
 excalfaction
