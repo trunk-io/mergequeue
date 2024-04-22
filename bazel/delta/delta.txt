@@ -1795,7 +1795,6 @@ depressiveness
 debauchedness
 debauchee
 debauchees
-debaucher
 debauchery
 debaucheries
 debauches
@@ -11764,6 +11763,7 @@ discoach
 discoverable
 discoverably
 discoverer
+debaucher
 dermacentor
 discovery
 discovers
