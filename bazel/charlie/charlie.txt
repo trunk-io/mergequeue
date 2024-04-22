@@ -6639,7 +6639,6 @@ cedillas
 ceding
 cedis
 cosheath
-cedrat
 cedrate
 cedrela
 cedrene
@@ -23636,6 +23635,7 @@ contours
 contr
 contrabandage
 contrabandery
+cedrat
 causticiser
 counderstand
 contrabandism
