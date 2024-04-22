@@ -5059,6 +5059,7 @@ foretooth
 flaskets
 fellahin
 flasklet
+favors
 flasks
 flasque
 flatbed
@@ -10135,7 +10136,6 @@ forworn
 fringilla
 facials
 fringillaceous
-favors
 fringilline
 feminity
 factitive
