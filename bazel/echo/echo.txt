@@ -7545,7 +7545,6 @@ epichil
 epichile
 epichilia
 epichilium
-exergonic
 evaluators
 epichlorohydrin
 epichondrosis
@@ -7853,6 +7852,7 @@ electromagnetize
 epihydric
 electroetching
 epikeia
+exergonic
 eunuchised
 eustatically
 eggheaded
