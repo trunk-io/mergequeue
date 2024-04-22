@@ -4424,6 +4424,7 @@ festschrift
 fissile
 fissilinguia
 footmenfootpad
+furcates
 fissility
 focaloid
 fissionable
@@ -9242,7 +9243,6 @@ foolify
 frae
 fraela
 fraena
-furcates
 fiefs
 foundationless
 fanning
