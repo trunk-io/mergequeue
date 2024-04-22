@@ -5482,6 +5482,7 @@ affricate
 affricated
 agnosticism
 affricates
+agglutinable
 affrication
 affriended
 affright
@@ -6038,7 +6039,6 @@ agglomerator
 autoing
 aramis
 apprehensibly
-agglutinable
 apical
 anthropodus
 anartismos
