@@ -6409,7 +6409,6 @@ brevetcy
 briguer
 benzaldehyde
 benzaldoxime
-benumb
 balkily
 bandeaus
 benzalethylamine
@@ -11594,6 +11593,7 @@ boastive
 boasts
 boatable
 bosket
+benumb
 boatage
 bacterioscopical
 barspoon
