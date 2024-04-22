@@ -1923,6 +1923,7 @@ bandlimits
 bandmaster
 bandmasters
 bando
+basifacial
 bandobust
 bandog
 bandanas
@@ -3228,7 +3229,6 @@ belesprit
 basidiospore
 basidiosporous
 basidorsal
-basifacial
 beautied
 basify
 bravure
