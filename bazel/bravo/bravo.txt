@@ -6787,7 +6787,6 @@ beryl
 beltways
 bitemporal
 beryllate
-berylline
 berylliosis
 berylloid
 beryllonate
@@ -8684,6 +8683,7 @@ billety
 bennetweed
 billets
 billette
+berylline
 broomtail
 billetty
 billetwood
