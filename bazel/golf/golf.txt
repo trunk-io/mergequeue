@@ -5325,7 +5325,6 @@ grippy
 gyrant
 gloppy
 gorilla
-gloomy
 glibly
 glibness
 glibnesses
@@ -5867,6 +5866,7 @@ grimmish
 glossotomy
 glosts
 glottal
+gloomy
 grapsoid
 gattine
 galera
