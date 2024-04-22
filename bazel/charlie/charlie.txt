@@ -13234,7 +13234,6 @@ cicadid
 cicadidae
 cycadiform
 cycadite
-cycadlike
 cycadofilicale
 catstone
 cycadofilicales
@@ -19421,6 +19420,7 @@ colorate
 coloration
 colorational
 colorative
+cycadlike
 coloraturas
 colorature
 colorblind
