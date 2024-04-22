@@ -15229,7 +15229,6 @@ bridgeable
 bridgebote
 borofluoride
 bridgebuilder
-bridgebuilding
 bridged
 bridgehead
 bridgeless
@@ -18324,6 +18323,7 @@ buttonholes
 bowlegs
 buttony
 buttoning
+bridgebuilding
 bosks
 beths
 buttonlike
