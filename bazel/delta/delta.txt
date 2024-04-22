@@ -4629,7 +4629,6 @@ dendrite
 demigod
 decern
 demigoddess
-demigods
 demigrate
 demigriffin
 dermochrome
@@ -5765,6 +5764,7 @@ deplaned
 deplaning
 deplant
 disvertebrate
+demigods
 deplasmolysis
 desterilized
 disposit
