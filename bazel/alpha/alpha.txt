@@ -4389,7 +4389,6 @@ adposition
 adpress
 azonium
 alchornea
-adpromissor
 adrad
 adramelech
 adreamed
@@ -21438,6 +21437,7 @@ aspergilliform
 anatira
 aspergillin
 arteriogram
+adpromissor
 aspergilloses
 aspergillosis
 aspergillum
