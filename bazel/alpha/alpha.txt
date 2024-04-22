@@ -16923,7 +16923,6 @@ abepithymia
 aphidius
 aphidivorous
 aphidlion
-anapneic
 aphidolysin
 aphidozer
 archipterygium
@@ -18356,6 +18355,7 @@ aqueous
 aqueously
 aquerne
 aberuncator
+anapneic
 aquiclude
 aquicolous
 athericerous
