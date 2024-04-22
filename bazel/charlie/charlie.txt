@@ -9992,6 +9992,7 @@ chemotherapeutics
 chemotherapy
 chemotherapies
 chemotherapist
+crackjaw
 chemotherapists
 chemotic
 chemotrophic
@@ -24873,7 +24874,6 @@ coracopectoral
 coracoprocoracoid
 coracoradialis
 coracoscapular
-crackjaw
 coracosteon
 civilizing
 coracovertebral
