@@ -471,6 +471,7 @@ geelbec
 globulicidal
 gannets
 galleyman
+genotype
 galenites
 galenobismutite
 galenoid
@@ -2864,7 +2865,6 @@ genoise
 genomic
 genoms
 gasts
-genotype
 genotypic
 gunfire
 genotypically
