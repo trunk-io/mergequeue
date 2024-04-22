@@ -3083,7 +3083,6 @@ geognosy
 gilenyer
 geognosies
 geognost
-geognostical
 geognostically
 galloped
 geographers
@@ -9399,6 +9398,7 @@ greenleaf
 grothite
 goldfinnies
 gymel
+geognostical
 grotianism
 gatchwork
 gratefuller
