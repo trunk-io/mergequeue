@@ -1502,6 +1502,7 @@ deactivation
 deactivations
 deactivators
 defrosts
+distressedness
 doublure
 deadcenter
 deeryards
@@ -13977,7 +13978,6 @@ distress
 distressed
 diductor
 distressedly
-distressedness
 distressful
 deformer
 distressfulness
