@@ -2572,6 +2572,7 @@ declutch
 discouragements
 deco
 dorms
+draftsperson
 decoagulation
 decoat
 decocainize
@@ -15339,7 +15340,6 @@ domesticate
 domesticated
 domesticates
 domesticating
-draftsperson
 domesticative
 dazing
 domesticator
