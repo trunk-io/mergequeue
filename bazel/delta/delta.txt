@@ -847,7 +847,6 @@ deteriorator
 declinometer
 danize
 duralumin
-diastaltic
 dank
 delegatory
 diazotizability
@@ -15839,6 +15838,7 @@ dankly
 dorsomedial
 dorsomedian
 dorsonasal
+diastaltic
 dorsonuchal
 dorsopleural
 derationalization
