@@ -5615,6 +5615,7 @@ gangplanks
 giron
 gorsier
 globiferous
+gunnysacks
 gillot
 globigerinae
 grunerite
@@ -10078,7 +10079,6 @@ guesdism
 gravigrade
 guesdist
 gutturalize
-gunnysacks
 graphics
 guesser
 guesses
