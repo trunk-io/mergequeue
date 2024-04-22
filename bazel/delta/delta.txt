@@ -10164,7 +10164,6 @@ discastle
 dingeing
 defilade
 dinghee
-dinghy
 dinghies
 dolichocephal
 drillability
@@ -13528,6 +13527,7 @@ dissection
 dissections
 dissectors
 dissects
+dinghy
 desperadoes
 disseise
 disseised
