@@ -2450,7 +2450,6 @@ bardings
 becalms
 bardlet
 bardlike
-burut
 bardling
 bardo
 banyoro
@@ -15168,6 +15167,7 @@ brickkiln
 bricklayer
 bricklayers
 bricklaying
+burut
 brickle
 brickly
 bricklike
