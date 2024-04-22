@@ -8635,6 +8635,7 @@ champleve
 champs
 chams
 chamsin
+couverte
 compositionally
 chan
 corslet
@@ -27480,7 +27481,6 @@ couturire
 couvade
 couvades
 coaeval
-couverte
 couveuse
 cuprous
 couxia
