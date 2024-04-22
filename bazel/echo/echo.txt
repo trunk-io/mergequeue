@@ -763,7 +763,6 @@ ecphorias
 emotes
 ecphractic
 ecphrasis
-emergences
 ecrase
 ecraseur
 ecraseurs
@@ -7267,6 +7266,7 @@ eastwardly
 epa
 epipial
 epacmaic
+emergences
 eliciting
 enricher
 epacrid
