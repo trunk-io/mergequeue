@@ -1615,7 +1615,6 @@ farcetta
 femininity
 fledglings
 findability
-firn
 favissa
 favorable
 fegary
@@ -6557,6 +6556,7 @@ fluvialist
 fluviatile
 fluvicoline
 fluviolacustrine
+firn
 fluviology
 florula
 fleetly
