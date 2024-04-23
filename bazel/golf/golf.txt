@@ -2145,7 +2145,6 @@ gaults
 gonocytes
 gaviae
 gnateater
-gavials
 gearing
 gamogenetic
 gavots
@@ -2441,6 +2440,7 @@ gelations
 gelatose
 geld
 ghostlikeness
+gavials
 geldability
 goodwill
 griffinish
