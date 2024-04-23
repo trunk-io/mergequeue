@@ -2811,7 +2811,6 @@ baronized
 baronnes
 benzoxyphenanthrene
 baronries
-barons
 briggs
 baronship
 baroque
@@ -8256,6 +8255,7 @@ bloodbird
 brotherly
 bieldy
 bossa
+barons
 bielding
 bouleuteria
 benzopinacone
