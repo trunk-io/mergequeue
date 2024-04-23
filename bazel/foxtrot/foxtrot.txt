@@ -2248,6 +2248,7 @@ feltyflier
 felting
 feltmaker
 ferbams
+fluidism
 feltmaking
 feltman
 foredeep
@@ -6274,7 +6275,6 @@ fallal
 fluidising
 formaldehyde
 frolicked
-fluidism
 fluidist
 fluidity
 furlable
