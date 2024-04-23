@@ -1767,7 +1767,6 @@ gastroduodenitis
 gametophagia
 gastroduodenostomy
 gastroduodenostomies
-gastroelytrotomy
 garlanded
 graved
 gibson
@@ -2054,6 +2053,7 @@ gauming
 gaumish
 gambodic
 gaunch
+gastroelytrotomy
 gaunt
 gemmier
 gauntest
