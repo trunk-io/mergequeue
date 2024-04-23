@@ -13176,7 +13176,6 @@ drippings
 dielec
 displeasing
 displeasingness
-displeasurable
 displeasured
 displeasures
 displeasuring
@@ -13380,6 +13379,7 @@ disquisited
 disquisition
 diazotic
 disquisitional
+displeasurable
 disquisitions
 deductile
 desulfurate
