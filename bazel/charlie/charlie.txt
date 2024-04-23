@@ -1627,6 +1627,7 @@ circ
 calorifacient
 countersiege
 correspondents
+counterdiscipline
 calorifical
 calorification
 calorifics
@@ -9503,7 +9504,6 @@ cheapest
 cheapies
 cheaping
 cheapish
-counterdiscipline
 cheaply
 cheapness
 cheapos
