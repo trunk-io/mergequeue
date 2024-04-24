@@ -7474,6 +7474,7 @@ deurwaarder
 diarrheic
 destroyable
 diomedea
+dottiness
 disentwine
 discriminably
 deusan
@@ -15983,7 +15984,6 @@ dotterel
 dotterels
 dottier
 dottiest
-dottiness
 disintegratory
 dottle
 devolutionary
