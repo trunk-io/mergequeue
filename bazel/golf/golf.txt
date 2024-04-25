@@ -869,7 +869,6 @@ gambeering
 glauke
 grants
 gambelli
-gambes
 gambeson
 gambesons
 gambetta
@@ -9696,6 +9695,7 @@ grummet
 grumness
 gooder
 grumose
+gambes
 ganching
 grumous
 grump
