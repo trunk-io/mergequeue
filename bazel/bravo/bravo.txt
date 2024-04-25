@@ -484,7 +484,6 @@ backspierer
 besottingly
 backspin
 blady
-backspliced
 backslapper
 backsplicing
 backspringing
@@ -8300,6 +8299,7 @@ bierbalk
 byerite
 bierkeller
 byerlite
+backspliced
 bierstuben
 byestreet
 biethnic
