@@ -1280,7 +1280,6 @@ fasinite
 fezzan
 flavine
 fass
-fassaite
 felsic
 fassalite
 fastbacks
@@ -8338,6 +8337,7 @@ flanning
 forlanas
 fragrancies
 forlane
+fassaite
 forleave
 frumpily
 forleaving
