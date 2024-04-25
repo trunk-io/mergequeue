@@ -2695,6 +2695,7 @@ grondwet
 generalizers
 granodiorite
 gamodeme
+geotropic
 gorillas
 gene
 grassed
@@ -4911,7 +4912,6 @@ graspable
 glaciable
 gatelike
 glabella
-geotropic
 gunless
 glabellar
 globalized
