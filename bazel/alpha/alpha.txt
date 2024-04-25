@@ -8941,7 +8941,6 @@ alloisomerism
 allokurtic
 allolalia
 allomerization
-allomerize
 allomerized
 allomerizing
 allomerous
@@ -18046,6 +18045,7 @@ apprised
 appriser
 apprisers
 apprising
+allomerize
 apprizal
 apprize
 apprized
