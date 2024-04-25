@@ -1859,7 +1859,6 @@ gastrophrenic
 gastrophthisis
 gastroplasty
 gonfalonier
-gravelroot
 gastropneumonic
 guitarfishes
 gozill
@@ -3176,6 +3175,7 @@ geomorphologically
 golliwog
 graveolence
 geomorphologist
+gravelroot
 georgian
 gadinic
 glutination
