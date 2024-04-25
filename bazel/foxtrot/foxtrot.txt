@@ -8097,6 +8097,7 @@ fathogram
 foretellers
 foretells
 forethink
+fatiguability
 forethinking
 forethough
 forethoughtfulness
@@ -11444,7 +11445,6 @@ frustrable
 furnishes
 furnishing
 fireboxes
-fatiguability
 furnishment
 felup
 furnishness
