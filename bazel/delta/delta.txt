@@ -8168,6 +8168,7 @@ disinvite
 duellists
 damselhood
 diacids
+deprecate
 diacipiperazine
 diaclinal
 diacodion
@@ -11679,7 +11680,6 @@ devillike
 defeminise
 decating
 discoplacental
-deprecate
 discoplacentalian
 discoplasm
 divell
