@@ -9164,7 +9164,6 @@ erythropsia
 ericetum
 erythropsin
 entreatment
-electroretinograph
 establish
 extraembryonal
 exploding
@@ -10420,6 +10419,7 @@ enneastyle
 ethnog
 epencephal
 ethnogenic
+electroretinograph
 ethnogenies
 ethnogeographer
 ethnogeographic
