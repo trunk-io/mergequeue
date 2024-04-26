@@ -2525,6 +2525,7 @@ declarant
 declaration
 declarations
 declarative
+discomorula
 deutzias
 declarator
 declaratory
@@ -2704,7 +2705,6 @@ deconcentrate
 deconcentrated
 deconcentrating
 deconcentration
-discomorula
 didy
 deconcentrator
 decondition
