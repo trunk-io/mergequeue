@@ -6558,7 +6558,6 @@ bepale
 bepaper
 beparch
 blickey
-beparse
 bepart
 bepaste
 broached
@@ -10212,6 +10211,7 @@ blacklegism
 blacklist
 blacklisted
 blacklister
+beparse
 blacklists
 brainer
 breviaries
