@@ -2226,7 +2226,6 @@ flogging
 flatfooting
 felonwort
 feriae
-flancard
 fels
 felsites
 fligger
@@ -4673,6 +4672,7 @@ frises
 flabs
 flaccid
 flachery
+flancard
 flacian
 footsies
 flacianist
