@@ -5614,6 +5614,7 @@ demicolumn
 depascent
 depass
 delphinoid
+digested
 disrepute
 depasturable
 duodecane
@@ -9475,7 +9476,6 @@ domdaniel
 digerent
 dereistically
 disparateness
-digested
 digestedness
 dehumanizes
 digesters
