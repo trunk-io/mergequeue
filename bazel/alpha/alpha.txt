@@ -1411,6 +1411,7 @@ accent
 accented
 accenting
 anticnemion
+analogically
 alcae
 airtightly
 accentor
@@ -3926,7 +3927,6 @@ adipic
 adermin
 abseil
 adipyl
-analogically
 adipinic
 adipocellulose
 adipocere
