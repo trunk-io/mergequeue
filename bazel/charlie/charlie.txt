@@ -19161,7 +19161,6 @@ collock
 compartmentalizes
 collocution
 collocutor
-collocutory
 collodion
 collodionization
 culpate
@@ -24185,6 +24184,7 @@ convincedness
 cataclysm
 convincement
 camois
+collocutory
 counterrecoil
 cruddy
 convinces
