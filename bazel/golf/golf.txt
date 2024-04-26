@@ -5165,7 +5165,6 @@ gravery
 glassmaker
 glassmaking
 grav
-glassman
 gunman
 gamotropism
 gormless
@@ -6524,6 +6523,7 @@ giddiest
 glaury
 golaseccan
 glottitis
+glassman
 gallstones
 gobiesocid
 golconda
