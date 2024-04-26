@@ -10393,7 +10393,6 @@ blanketlike
 bootlickers
 blanketmaker
 boatwise
-blanketmaking
 blanketry
 blankets
 brigue
@@ -15067,6 +15066,7 @@ brewery
 breweries
 brewers
 benting
+blanketmaking
 brewership
 brewhouse
 brewhouses
