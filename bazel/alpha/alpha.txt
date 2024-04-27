@@ -6531,7 +6531,6 @@ agronome
 agronomy
 agronomial
 agronomical
-agronomically
 agronomist
 agronomists
 aberrate
@@ -16351,6 +16350,7 @@ antisun
 antisupernaturalism
 antisupernaturalist
 agelaius
+agronomically
 antisupernaturalistic
 antisurplician
 antitabetic
