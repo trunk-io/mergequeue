@@ -5420,6 +5420,7 @@ afflictive
 afflictively
 avadavats
 afflicts
+auctioneer
 affloof
 affluence
 affluency
@@ -23276,7 +23277,6 @@ auckland
 auction
 auctionary
 auctioned
-auctioneer
 auctioneers
 alcornoco
 avengeress
