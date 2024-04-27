@@ -1254,7 +1254,6 @@ acanthion
 allophytoid
 acanthocarpous
 annectent
-acanthocephala
 acanthocephali
 acanthocephalous
 acanthocereus
@@ -19201,6 +19200,7 @@ archprelatic
 archprelatical
 armenize
 aholt
+acanthocephala
 alphanumeric
 alveoloclasia
 agritos
