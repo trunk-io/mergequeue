@@ -6142,7 +6142,6 @@ bemurmure
 bemurmured
 bemurmuring
 bittier
-bemurmurs
 burnings
 bemuse
 bemuses
@@ -11454,6 +11453,7 @@ blundering
 blunderings
 blunge
 bullae
+bemurmurs
 blunged
 blunger
 blunges
