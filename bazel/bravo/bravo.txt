@@ -2104,6 +2104,7 @@ bannat
 banned
 basaltoid
 banneret
+bouleuteria
 bannerfish
 biflorous
 bannerline
@@ -8249,7 +8250,6 @@ bieldy
 bossa
 barons
 bielding
-bouleuteria
 benzopinacone
 blimpish
 byblis
