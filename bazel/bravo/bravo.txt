@@ -2055,7 +2055,6 @@ banking
 bankings
 bankman
 blowiest
-banality
 bankmen
 berley
 banknote
@@ -9560,6 +9559,7 @@ birthless
 besaint
 bromatology
 birthmark
+banality
 bunkum
 besots
 birthmate
