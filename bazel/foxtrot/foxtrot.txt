@@ -3210,7 +3210,6 @@ fichteanism
 fichtelite
 fusilade
 fichus
-ficiform
 footsteps
 furling
 ficins
@@ -5709,6 +5708,7 @@ ferrocalcite
 frankist
 figmental
 flitched
+ficiform
 flushness
 flyte
 flited
