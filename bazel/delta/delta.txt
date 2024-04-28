@@ -12551,7 +12551,6 @@ disinherits
 disinhibition
 disinhume
 disinhuming
-disinsection
 disinsectization
 dichroiscope
 dorsoventral
@@ -14128,6 +14127,7 @@ disbranching
 disused
 disuses
 disutility
+disinsection
 disutilize
 dismasts
 dramatists
