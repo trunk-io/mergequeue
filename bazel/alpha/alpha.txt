@@ -4211,7 +4211,6 @@ admitter
 admitters
 admitting
 admixed
-admixes
 arachnomorphae
 adempted
 admixing
@@ -9313,6 +9312,7 @@ alopeke
 alophas
 aliases
 alopiidae
+admixes
 alorcinic
 alosa
 arteriosclerotic
