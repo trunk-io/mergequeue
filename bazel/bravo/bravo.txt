@@ -2841,7 +2841,6 @@ barouchette
 barouni
 baroxyton
 barque
-barquette
 beebread
 bigoted
 buttonmold
@@ -12618,6 +12617,7 @@ besilver
 boohoos
 bedwarfed
 boojum
+barquette
 book
 balsamo
 bookbind
