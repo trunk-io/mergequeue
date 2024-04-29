@@ -5151,7 +5151,6 @@ doubleprecision
 describing
 dendrochronology
 dendrochronologically
-dendrochronologist
 dendrocygna
 dotty
 dendrocoela
@@ -5964,6 +5963,7 @@ depressing
 depressingly
 depressingness
 depression
+dendrochronologist
 depressional
 depressions
 detachers
