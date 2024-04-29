@@ -5054,7 +5054,6 @@ apocamphoric
 aeroliths
 aerolitic
 aerolitics
-aerologic
 aerological
 aerologies
 aerologist
@@ -21450,6 +21449,7 @@ asperity
 asperities
 asperly
 atactiform
+aerologic
 amphiprostyle
 aspermatic
 aspermatism
