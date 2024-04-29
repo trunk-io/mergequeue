@@ -5860,7 +5860,6 @@ enigma
 enigmas
 embrangle
 enrapturer
-evanescent
 enigmata
 enigmatical
 elephantiasic
@@ -8040,6 +8039,7 @@ emerize
 epiphytic
 epiphytism
 extensum
+evanescent
 escartelly
 exotic
 expositor
