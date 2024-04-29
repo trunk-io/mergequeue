@@ -2673,7 +2673,6 @@ diverge
 decompensation
 delinquents
 decompensations
-decompensatory
 dairy
 decompiler
 decomponent
@@ -14042,6 +14041,7 @@ distrusts
 demiadult
 dubbers
 disturb
+decompensatory
 disturbance
 dominican
 doggoned
