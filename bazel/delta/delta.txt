@@ -8835,7 +8835,6 @@ detractor
 diazotype
 dromicia
 diazotization
-diazotize
 diazotized
 dib
 dibasicity
@@ -16036,6 +16035,7 @@ discoid
 doublewidth
 doubly
 dermatosis
+diazotize
 diminishable
 doubloon
 doublures
