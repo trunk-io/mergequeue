@@ -10225,6 +10225,7 @@ blackout
 blackpatch
 beauclerk
 batara
+bromometric
 blackpot
 blackprint
 ballarag
@@ -15882,7 +15883,6 @@ bushhammer
 bromometry
 bhumidar
 biose
-bromometric
 bestrow
 bromometrical
 bromonaphthalene
