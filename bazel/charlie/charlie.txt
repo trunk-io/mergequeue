@@ -20778,7 +20778,6 @@ complimentariness
 complimentarity
 complimentation
 complimentative
-complimented
 complimenter
 complimenting
 complimentingly
@@ -29676,6 +29675,7 @@ croissants
 crojack
 crojik
 carousingly
+complimented
 croker
 crokinole
 crom
