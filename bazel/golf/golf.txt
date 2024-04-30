@@ -4426,6 +4426,7 @@ gradation
 generalate
 gingersnaps
 groundsill
+glozing
 gingerspice
 gingerwort
 globularity
@@ -5950,7 +5951,6 @@ glozed
 gallophobia
 glozes
 gathering
-glozing
 gaffers
 glt
 glucaemia
