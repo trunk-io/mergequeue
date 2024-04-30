@@ -2145,7 +2145,6 @@ bidstand
 bantam
 bantamize
 bantams
-bantamweights
 banteng
 bizant
 banter
@@ -9324,6 +9323,7 @@ biplanes
 biplicate
 biplicity
 biplosion
+bantamweights
 bipod
 bipods
 baccae
