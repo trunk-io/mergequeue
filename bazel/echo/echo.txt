@@ -9918,7 +9918,6 @@ estampage
 evolving
 estampede
 emender
-eolith
 estang
 episkotister
 estately
@@ -13905,6 +13904,7 @@ erective
 exporter
 extranean
 extraneity
+eolith
 extraneous
 epipleura
 epixylous
