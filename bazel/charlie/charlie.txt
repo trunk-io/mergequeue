@@ -16064,7 +16064,6 @@ clerkdom
 clerkdoms
 clerkery
 clerkess
-clerkhood
 clerking
 carcinosis
 clerkish
@@ -18569,6 +18568,7 @@ carcinogeneses
 crusie
 coiler
 combusted
+clerkhood
 coilers
 coin
 cooperativeness
