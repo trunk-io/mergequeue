@@ -2592,6 +2592,7 @@ electrosensitive
 electrosherardizing
 electroshock
 electroshocks
+equiangularity
 electrosynthetically
 elucidative
 envenoms
@@ -8553,7 +8554,6 @@ eques
 equestrial
 equestrian
 equestrianize
-equiangularity
 epigeous
 equiaxe
 elaborately
