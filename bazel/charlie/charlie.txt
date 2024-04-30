@@ -21037,7 +21037,6 @@ computed
 computer
 computerese
 computerise
-computerite
 computerization
 computerize
 computerizes
@@ -21287,6 +21286,7 @@ concessit
 concessive
 caqueteuses
 concessiveness
+computerite
 concessor
 concessory
 concettism
