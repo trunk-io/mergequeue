@@ -3392,7 +3392,6 @@ defis
 defix
 deflagrable
 decolor
-deflagrated
 deflagrates
 deflagrating
 deflagration
@@ -4181,6 +4180,7 @@ delineament
 dissoluteness
 deblocked
 deliberant
+deflagrated
 devilhood
 decuple
 delineate
