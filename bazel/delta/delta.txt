@@ -11445,7 +11445,6 @@ dissuader
 debug
 disclosed
 discloser
-discloses
 disclosive
 disclosure
 disclosures
@@ -13562,6 +13561,7 @@ dissenting
 disreputation
 dissentingly
 decant
+discloses
 directrices
 dissentious
 dismeasurable
