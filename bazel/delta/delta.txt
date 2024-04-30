@@ -14895,7 +14895,6 @@ dods
 doe
 doebird
 diachylon
-doedicurus
 doeg
 doeglic
 doegling
@@ -15059,6 +15058,7 @@ dognapper
 dognaps
 dogplate
 dogra
+doedicurus
 dogrib
 dreamwise
 dogs
