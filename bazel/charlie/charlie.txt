@@ -9067,7 +9067,6 @@ chariness
 charing
 coatracks
 chariot
-chariotee
 charioteer
 continuo
 charioting
@@ -11710,6 +11709,7 @@ cholestene
 cholesteremia
 cholesteric
 cholesteryl
+chariotee
 cholesterin
 chappow
 cholesterinic
