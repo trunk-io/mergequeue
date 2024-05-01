@@ -4157,7 +4157,6 @@ astropecten
 administrative
 administratively
 administrator
-apokatastatic
 administrators
 administratrices
 administratrix
@@ -5628,6 +5627,7 @@ aftercost
 aftercrop
 aftercure
 afterdays
+apokatastatic
 afterdate
 antifoam
 afterdated
