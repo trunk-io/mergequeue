@@ -1452,7 +1452,6 @@ gibier
 garlion
 garlopa
 glycolic
-garment
 gerara
 gunyang
 garmenting
@@ -7904,6 +7903,7 @@ grandfathers
 grandfer
 gudge
 getups
+garment
 grandiflora
 grandiloquent
 grandiloquently
