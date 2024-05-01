@@ -1511,7 +1511,6 @@ accident
 accidentalism
 accidentality
 accidented
-alphabets
 accidential
 accidentiality
 accidently
@@ -2184,6 +2183,7 @@ acheiria
 acheirous
 achenes
 achenial
+alphabets
 argon
 achernar
 acheron
