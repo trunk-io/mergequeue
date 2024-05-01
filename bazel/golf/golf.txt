@@ -3066,7 +3066,6 @@ geodynamical
 geodynamics
 geoduck
 grebes
-grissen
 geoemtry
 gollop
 geoffroyin
@@ -5623,6 +5622,7 @@ grunerite
 globigerinas
 ghastful
 greens
+grissen
 greatest
 globigerinidae
 gendering
