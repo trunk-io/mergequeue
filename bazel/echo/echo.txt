@@ -4087,6 +4087,7 @@ entries
 emplaced
 emplaned
 emplanement
+entoilment
 endoute
 emplanes
 emplaster
@@ -4810,7 +4811,6 @@ erminites
 encrinal
 encrinic
 encrinidae
-entoilment
 encrinital
 encrinitic
 encrinoid
