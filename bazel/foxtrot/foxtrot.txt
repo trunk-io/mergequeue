@@ -6750,7 +6750,6 @@ foyer
 furioso
 foyers
 foil
-foiled
 foiling
 foin
 foining
@@ -7065,6 +7064,7 @@ forejudger
 felix
 foolhardily
 footful
+foiled
 flapjack
 foolhardiness
 foolhardiship
