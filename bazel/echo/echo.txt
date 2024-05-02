@@ -2252,7 +2252,6 @@ excretal
 ester
 electrifiers
 europasian
-equalization
 electrifies
 electrifying
 expert
@@ -2403,6 +2402,7 @@ electroforming
 electrofusion
 ethanol
 electrogalvanization
+equalization
 electrogenetic
 equivalence
 enharbor
