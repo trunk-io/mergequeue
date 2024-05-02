@@ -4990,7 +4990,6 @@ flarfishes
 flary
 fellatee
 flashboard
-flashbulb
 fiendliest
 furazolidone
 fianna
@@ -7984,6 +7983,7 @@ forestair
 fireplough
 forestays
 forehinting
+flashbulb
 forestaysail
 forestal
 forestalled
