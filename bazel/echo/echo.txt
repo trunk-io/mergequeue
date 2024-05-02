@@ -6356,7 +6356,6 @@ ensiform
 ensign
 ensigncy
 electroplaque
-ensigned
 entranceway
 ensignry
 ensilaged
@@ -7809,6 +7808,7 @@ erasement
 endearing
 epigne
 empyocele
+ensigned
 exclamation
 epigonation
 epigone
