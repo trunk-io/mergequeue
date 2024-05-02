@@ -5133,7 +5133,6 @@ endolabyrinthitis
 endolymph
 endolymphangial
 endolymphatic
-etiotropic
 endolymphic
 estafette
 endolysin
@@ -11701,6 +11700,7 @@ exadversum
 exaestuate
 etymologizing
 exaggerate
+etiotropic
 enumerator
 exaggerated
 euchological
