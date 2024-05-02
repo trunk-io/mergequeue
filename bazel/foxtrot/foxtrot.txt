@@ -5552,7 +5552,6 @@ flightiness
 flightless
 forepassed
 flights
-flightworthy
 fannier
 fructuose
 flying
@@ -7585,6 +7584,7 @@ felicitations
 foredefeated
 foredesignment
 frankheartedness
+flightworthy
 foreshaft
 foredestine
 foredevote
