@@ -9850,7 +9850,6 @@ bisulc
 bisulcated
 bubblebow
 bisulfate
-bhar
 bisulfide
 buries
 bisulphate
@@ -11306,6 +11305,7 @@ badgerbrush
 blub
 blubbed
 blubber
+bhar
 bluntest
 blubberer
 blubberers
