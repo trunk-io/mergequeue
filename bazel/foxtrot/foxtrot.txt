@@ -3222,7 +3222,6 @@ forgivingly
 fascicule
 fictation
 faecalith
-fossilated
 fictility
 fiction
 fictionalize
@@ -10045,6 +10044,7 @@ friezed
 farrow
 fleshhook
 friezer
+fossilated
 frigage
 frigates
 frigged
