@@ -5116,7 +5116,6 @@ denatured
 denaturing
 diminishingturns
 denaturisation
-demast
 denaturise
 denaturised
 duodiode
@@ -13768,6 +13767,7 @@ daikering
 distalwards
 distance
 denumeration
+demast
 distanceless
 distancy
 distancing
