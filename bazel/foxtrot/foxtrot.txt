@@ -4176,6 +4176,7 @@ fireplace
 fireplow
 farcical
 fleeceable
+fatting
 fireplug
 frieze
 fireplugs
@@ -5510,7 +5511,6 @@ flichtering
 flick
 fiftyfold
 filet
-fatting
 flicked
 finale
 flicker
