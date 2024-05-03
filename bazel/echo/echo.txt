@@ -1293,7 +1293,6 @@ effaceable
 effaced
 effacement
 effacers
-effaces
 effare
 effate
 exumbrellar
@@ -7209,6 +7208,7 @@ eobiont
 enrheum
 ejaculating
 eocene
+effaces
 eof
 eoghanacht
 eohippus
