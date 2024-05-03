@@ -3074,6 +3074,7 @@ capataces
 capataz
 capcase
 cape
+chequerboard
 capeadores
 caped
 capel
@@ -10035,7 +10036,6 @@ cheoplastic
 chepster
 chequebook
 chequer
-chequerboard
 chequered
 chequering
 chequers
