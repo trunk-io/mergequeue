@@ -6903,7 +6903,6 @@ consultee
 celotomies
 celsia
 celsian
-celsitude
 celsius
 celt
 comnenian
@@ -12500,6 +12499,7 @@ chromides
 chromididae
 chromidiosome
 circuses
+celsitude
 chromidium
 chromidrosis
 chromyl
