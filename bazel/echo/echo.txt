@@ -2747,6 +2747,7 @@ eltime
 ecthyma
 elench
 ephebeibeia
+extrasyllabic
 elenchi
 elenchic
 ethnohistorical
@@ -5960,7 +5961,6 @@ enlargeable
 ethiopic
 enlargeableness
 euryaleae
-extrasyllabic
 enlarged
 exosepsis
 enlargedly
