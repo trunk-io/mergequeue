@@ -3747,7 +3747,6 @@ emden
 embrake
 eversion
 emeerate
-expulsed
 epilogs
 emeerates
 emeers
@@ -11736,6 +11735,7 @@ expunge
 elvers
 exalts
 exam
+expulsed
 examen
 elementals
 eleometer
