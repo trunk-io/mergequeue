@@ -5470,7 +5470,6 @@ beheadlined
 beheads
 behearse
 beheira
-bandlimit
 behelp
 bolter
 behemoth
@@ -6332,6 +6331,7 @@ beniseed
 bronziest
 benisons
 benitier
+bandlimit
 benjamin
 benjaminite
 boletus
