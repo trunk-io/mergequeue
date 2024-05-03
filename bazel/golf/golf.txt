@@ -5926,6 +5926,7 @@ gametes
 gloveman
 glover
 gloves
+glochines
 glow
 glowbard
 garrulous
@@ -6095,7 +6096,6 @@ glutaminase
 gazing
 gallegan
 griots
-glochines
 genesiac
 glutamine
 genevois
