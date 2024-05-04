@@ -5016,7 +5016,6 @@ beerpull
 beers
 beest
 beestings
-breve
 bonytail
 beeswax
 beeswaxes
@@ -7403,6 +7402,7 @@ betell
 bambuba
 betelnut
 betelnuts
+breve
 betels
 betes
 beamiest
