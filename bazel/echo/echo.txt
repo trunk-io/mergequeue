@@ -3549,6 +3549,7 @@ embost
 exembryonate
 embottle
 embouchement
+embusqu
 embouchment
 enaena
 explication
@@ -9965,7 +9966,6 @@ esther
 estherian
 esthesio
 ecbatic
-embusqu
 esthesioblast
 esthesiogen
 entophyte
