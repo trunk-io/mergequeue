@@ -4387,7 +4387,6 @@ enatic
 enations
 enaunter
 electrodesiccate
-erythrocytolysin
 enbrave
 embar
 enc
@@ -4692,6 +4691,7 @@ encystment
 eugenol
 encystments
 encysts
+erythrocytolysin
 encitadel
 enclasped
 evenest
