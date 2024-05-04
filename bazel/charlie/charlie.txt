@@ -11654,7 +11654,6 @@ cholecystotomies
 choledoch
 choledochal
 culpability
-choledochectomy
 choledochoduodenostomy
 choledochoenterostomy
 clomb
@@ -25254,6 +25253,7 @@ coryphees
 coryphene
 coryphylly
 coryphodon
+choledochectomy
 corystoid
 corita
 convergently
