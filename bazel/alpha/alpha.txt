@@ -8752,7 +8752,6 @@ allergenicity
 allergies
 anacahuita
 allergin
-allergins
 allergist
 allergists
 allergology
@@ -20692,6 +20691,7 @@ arthrotome
 arthrotomy
 arthrotomies
 arthrotropic
+allergins
 arthrous
 arthroxerosis
 arthrozoa
