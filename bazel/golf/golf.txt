@@ -6702,7 +6702,6 @@ gastroxynsis
 ghostwrite
 gluconeogenetic
 gonadotrope
-gonadotrophic
 gainsaid
 gallinula
 gonadotrophin
@@ -7973,6 +7972,7 @@ gongorism
 gastrulas
 grangerizer
 grangerizing
+gonadotrophic
 gold
 gessamine
 glassier
