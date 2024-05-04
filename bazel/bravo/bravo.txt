@@ -5430,7 +5430,6 @@ begummed
 begumming
 begun
 begunk
-begut
 behale
 behalf
 behallow
@@ -12699,6 +12698,7 @@ bookracks
 baronry
 bookrest
 bookrests
+begut
 bookroom
 bookseller
 berendo
