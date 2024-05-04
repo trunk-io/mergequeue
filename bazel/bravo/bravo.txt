@@ -3998,6 +3998,7 @@ birdmouthed
 brittlewood
 beaches
 beachhead
+behavers
 beachheads
 brand
 bnf
@@ -6976,7 +6977,6 @@ beastie
 beseemliness
 beseems
 beseen
-behavers
 bejaundice
 bitumed
 beseige
