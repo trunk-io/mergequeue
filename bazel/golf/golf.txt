@@ -6570,7 +6570,6 @@ girrock
 goldenness
 glidewort
 goldenrod
-goldenrods
 gucked
 garotting
 goldentop
@@ -9388,6 +9387,7 @@ grotesqueness
 grotesqueries
 gph
 grothine
+goldenrods
 greenleaf
 grothite
 goldfinnies
