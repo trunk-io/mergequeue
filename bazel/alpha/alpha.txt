@@ -14771,7 +14771,6 @@ antiaquatic
 antiar
 antiarcha
 antiarchi
-arthroclisis
 antiarin
 antilogarithm
 antiarins
@@ -16591,6 +16590,7 @@ allodian
 anorchus
 anviled
 anvilling
+arthroclisis
 anvils
 adrenal
 anvilsmith
