@@ -4024,7 +4024,6 @@ emphasize
 emphasized
 embargos
 enrollees
-emphatic
 emphatical
 endometritis
 emphemeralness
@@ -8088,6 +8087,7 @@ epirote
 epirotic
 epirrheme
 elderling
+emphatic
 electrochronographic
 exothermicity
 episarcine
