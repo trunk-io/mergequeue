@@ -1462,7 +1462,6 @@ dazzler
 dazzlers
 dwindle
 dazzlingness
-db
 dbl
 dbms
 demidolmen
@@ -7397,6 +7396,7 @@ disquarter
 detoxication
 detoxicator
 detoxification
+db
 detoxified
 discovering
 detoxifier
