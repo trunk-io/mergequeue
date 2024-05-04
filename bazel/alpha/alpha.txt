@@ -7610,6 +7610,7 @@ albumose
 albumosuria
 albums
 adrenocorticotrophin
+arrestable
 alburn
 alburnous
 alburnum
@@ -20254,7 +20255,6 @@ arrentation
 arreption
 arreptitious
 arrest
-arrestable
 arrestation
 anophyte
 arrested
