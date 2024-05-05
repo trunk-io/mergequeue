@@ -3808,7 +3808,6 @@ dehumidified
 dehumidifier
 dehumidifiers
 dehumidifies
-dehumidifying
 dignosce
 disarticulate
 dehwar
@@ -9251,6 +9250,7 @@ diemaker
 diemakers
 dilatorily
 disfavoring
+dehumidifying
 dimnesses
 dictynid
 diencephala
