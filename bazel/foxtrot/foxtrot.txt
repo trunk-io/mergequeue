@@ -1486,7 +1486,6 @@ fatuous
 fatuus
 fairtime
 furculum
-fatwood
 faubourg
 fantasie
 fable
@@ -11551,6 +11550,7 @@ furtiveness
 fusel
 furthering
 fuselage
+fatwood
 fuselages
 fuselike
 faradiser
