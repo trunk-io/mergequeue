@@ -5602,7 +5602,6 @@ flingers
 flingy
 fablemonger
 funded
-flinging
 flings
 flinkite
 fator
@@ -7368,6 +7367,7 @@ fenestellae
 flywort
 flames
 frust
+flinging
 forbidding
 fruitery
 forbiddingly
