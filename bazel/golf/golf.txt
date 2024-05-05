@@ -4643,7 +4643,6 @@ girella
 girellidae
 gastrogastrotomy
 gapperi
-grapewort
 girtonian
 grout
 generalissimos
@@ -7285,6 +7284,7 @@ gossy
 gossip
 gossipdom
 gossiped
+grapewort
 glycerolysis
 gossipee
 gossiper
