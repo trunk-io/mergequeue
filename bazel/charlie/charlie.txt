@@ -13,7 +13,6 @@ cabaho
 cabal
 condylarthrous
 cryptostoma
-cabala
 cabalassou
 chaenomeles
 cabaletta
@@ -8536,6 +8535,7 @@ chamecephalic
 chamecephalous
 chamecephalus
 chameleon
+cabala
 chameleonic
 chameleonize
 chameleonlike
