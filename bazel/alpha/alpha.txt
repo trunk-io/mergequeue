@@ -10575,6 +10575,7 @@ amylene
 amylenes
 amylenol
 amiles
+antireactive
 amylic
 amylidene
 amylin
@@ -14943,7 +14944,6 @@ anticyclical
 apocodeine
 anticyclically
 anticyclogenesis
-antireactive
 anticyclolysis
 aphotic
 anticyclone
