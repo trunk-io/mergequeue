@@ -6001,6 +6001,7 @@ belowground
 brontothere
 blueweeds
 belowstairs
+blab
 belozenged
 belshazzar
 belsire
@@ -11150,7 +11151,6 @@ bloodwood
 burgeoned
 bloodworm
 biquadratic
-blab
 bloodwort
 bloodworthy
 blearily
