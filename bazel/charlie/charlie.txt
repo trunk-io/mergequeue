@@ -3603,7 +3603,6 @@ caradoc
 carafe
 carafes
 cornicing
-coteau
 cocineras
 caragana
 caraganas
@@ -28512,6 +28511,7 @@ churchanity
 creaze
 crebricostate
 crebrisulcate
+coteau
 crebrity
 canny
 chalukyan
