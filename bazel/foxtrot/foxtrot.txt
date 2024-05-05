@@ -8666,7 +8666,6 @@ furcellaria
 fornent
 fortier
 fortieth
-fidele
 fortieths
 fortify
 fortifier
@@ -9101,6 +9100,7 @@ fringillid
 fabrique
 fix
 fleetwing
+fidele
 forboded
 fox
 foxbane
