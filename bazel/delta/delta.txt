@@ -5720,7 +5720,6 @@ depictors
 dihexagonal
 depicture
 depictured
-depigment
 depigmentate
 depigmentation
 damnosa
@@ -9989,6 +9988,7 @@ dertrotheca
 dimorphotheca
 dogwood
 dimout
+depigment
 dimple
 dimpled
 deputised
