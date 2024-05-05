@@ -123,6 +123,7 @@ cabinlike
 crafter
 canisiana
 cabio
+costotransverse
 camelopard
 cabirean
 cabiria
@@ -26327,7 +26328,6 @@ costotomy
 costotomies
 costotrachelian
 ceteosaur
-costotransverse
 costovertebral
 costraight
 cloudberries
