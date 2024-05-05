@@ -1986,7 +1986,6 @@ gnomonology
 gaucho
 germinated
 gauchos
-gibelite
 germaniums
 groundable
 gaucy
@@ -5953,6 +5952,7 @@ gynoecium
 glucate
 glucemia
 gliders
+gibelite
 glucic
 galipoidine
 generalcies
