@@ -8630,7 +8630,6 @@ champleve
 champs
 chams
 chamsin
-couverte
 compositionally
 chan
 corslet
@@ -13122,6 +13121,7 @@ cyanophose
 cyanopia
 colloquize
 cyanoplastid
+couverte
 cyanoplatinite
 cyanoplatinous
 cyanose
