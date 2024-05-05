@@ -6246,7 +6246,6 @@ expediencies
 exalte
 enringed
 enringing
-enripen
 embalms
 enrobe
 enrobed
@@ -6376,6 +6375,7 @@ elizabeth
 ensiles
 expatiations
 ensiling
+enripen
 ensilist
 ensilver
 existentially
