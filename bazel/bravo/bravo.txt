@@ -2948,7 +2948,6 @@ barricados
 bulbilla
 barricoes
 barrier
-barriers
 barrigudos
 barrikin
 barriness
@@ -11758,6 +11757,7 @@ bodes
 bodewash
 bodger
 brashes
+barriers
 bodhisattwa
 barfly
 bodybending
