@@ -1717,7 +1717,6 @@ balsam
 biramous
 balsamaceous
 balsamation
-balsamed
 balsamical
 balsamically
 bluenesses
@@ -13271,6 +13270,7 @@ brachioradialis
 botanizes
 botanizing
 botanomancy
+balsamed
 bemat
 bradburya
 botanophilist
