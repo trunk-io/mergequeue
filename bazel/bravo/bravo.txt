@@ -5108,7 +5108,6 @@ befire
 befist
 braised
 befit
-befits
 beneficiary
 befitted
 befitting
@@ -9163,6 +9162,7 @@ bioscientist
 bulrushes
 bejabbers
 bioscope
+befits
 boylikeness
 bioscopes
 bioscopy
