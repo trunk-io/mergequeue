@@ -5348,6 +5348,7 @@ figurativeness
 firmware
 falconer
 fretsome
+foredispose
 fleeter
 fleetest
 fleeting
@@ -7586,7 +7587,6 @@ flightworthy
 foreshaft
 foredestine
 foredevote
-foredispose
 foredivine
 fermentation
 figments
