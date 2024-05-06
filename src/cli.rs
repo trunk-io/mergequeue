@@ -3,6 +3,7 @@ use clap::{Parser, Subcommand};
 #[derive(Parser, Debug)]
 #[clap(version = env!("CARGO_PKG_VERSION"))]
 pub struct Cli {
+    // this code does something interesting
     #[command(subcommand)]
     pub subcommand: Option<Subcommands>,
 
