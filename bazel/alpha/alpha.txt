@@ -2967,7 +2967,6 @@ acronyctous
 acronym
 acronymic
 acronomy
-acronymically
 acronymize
 apium
 acronymized
@@ -12815,6 +12814,7 @@ angioid
 angiokeratoma
 anthocerotales
 angioleucitis
+acronymically
 angiolymphoma
 agisted
 angiolith
