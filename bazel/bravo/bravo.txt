@@ -2639,7 +2639,6 @@ barkinji
 barkless
 barklyite
 barkometer
-barkpeeler
 bijugate
 bescorch
 barkpeeling
@@ -5984,6 +5983,7 @@ belostoma
 backslap
 belostomatidae
 bedog
+barkpeeler
 belostomidae
 boccale
 belotte
