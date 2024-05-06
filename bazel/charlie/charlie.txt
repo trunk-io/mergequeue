@@ -7897,6 +7897,7 @@ cervicoauricular
 chippable
 cervicobasilar
 cervicobregmatic
+cobitis
 cervicobuccal
 cervicodynia
 cervicofacial
@@ -17141,7 +17142,6 @@ coagitate
 cladophoraceae
 coagitator
 coagment
-cobitis
 coagmentation
 cresotic
 coagonize
