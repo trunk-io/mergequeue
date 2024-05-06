@@ -1275,6 +1275,7 @@ feower
 fastener
 foreclaw
 fastening
+flare
 frocked
 floscular
 flagrante
@@ -4956,7 +4957,6 @@ fumettes
 fitched
 flaps
 faultfully
-flare
 footbeat
 flareback
 foramens
