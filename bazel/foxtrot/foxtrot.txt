@@ -4522,7 +4522,6 @@ fitness
 fidia
 feudalised
 fitout
-fitroot
 fairlike
 fittage
 fellagha
@@ -5666,6 +5665,7 @@ flirtatiously
 flirtatiousness
 fertilizability
 fibroses
+fitroot
 fiducially
 flirters
 filipinos
