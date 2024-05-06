@@ -9030,7 +9030,6 @@ eriobotrya
 eriocaulaceae
 eriocomi
 eriodendron
-eriometer
 extraspherical
 erionite
 epibaterium
@@ -11068,6 +11067,7 @@ egocentric
 emotionalizing
 expede
 euryphage
+eriometer
 extradict
 eurypharyngidae
 euripi
