@@ -7930,7 +7930,6 @@ bibles
 bohmite
 bibless
 bipunctal
-burga
 biblical
 biblicality
 biblicism
@@ -11788,6 +11787,7 @@ bodieron
 bodies
 becrowding
 boucan
+burga
 bodyguards
 beribers
 bodykins
