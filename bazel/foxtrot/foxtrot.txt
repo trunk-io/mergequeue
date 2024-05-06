@@ -832,7 +832,6 @@ fantails
 fantaisie
 fantasy
 fantasia
-focalisation
 freakishly
 flybane
 faddishness
@@ -6055,6 +6054,7 @@ fogbow
 festing
 futilize
 flossed
+focalisation
 flosser
 flosses
 flossflower
