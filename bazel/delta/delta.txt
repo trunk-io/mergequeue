@@ -3668,7 +3668,6 @@ dropforging
 deglutination
 deglutition
 deglutitious
-deglutitory
 degold
 decathlon
 decenyl
@@ -6886,6 +6885,7 @@ diaphote
 deft
 desocialize
 dispositor
+deglutitory
 desoeuvre
 desolate
 desolated
