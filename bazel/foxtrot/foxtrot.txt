@@ -8733,6 +8733,7 @@ fortunes
 frenchism
 frankfort
 forchase
+fizz
 forbiddable
 flogged
 fortunetelling
@@ -8927,7 +8928,6 @@ freinage
 foulmouthed
 fibrochondroma
 floreta
-fizz
 foulmouthedness
 fetched
 foulness
