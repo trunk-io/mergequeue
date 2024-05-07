@@ -1246,7 +1246,6 @@ balaenidae
 balaenoid
 balaenoptera
 bocca
-balaenopteridae
 bambocciade
 bobbies
 balaghat
@@ -12166,6 +12165,7 @@ beld
 bolognan
 bolognas
 bolognese
+balaenopteridae
 birdling
 bolographic
 bolographically
