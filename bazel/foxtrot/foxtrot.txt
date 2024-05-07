@@ -2283,7 +2283,6 @@ forehard
 fen
 fenagled
 fatil
-foraged
 fenagles
 fence
 fenced
@@ -5338,6 +5337,7 @@ fleecing
 fleerer
 fireclay
 fleering
+foraged
 filcher
 farseeingness
 frisii
