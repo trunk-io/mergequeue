@@ -4852,6 +4852,7 @@ bedsonia
 bedsonias
 bumblefoot
 bedsore
+believableness
 branchia
 bedsores
 bedspreads
@@ -6544,7 +6545,6 @@ benzothiodiazole
 benzothiofuran
 benzothiophene
 benzothiopyran
-believableness
 benzotriazine
 benzotriazole
 benzotrichloride
