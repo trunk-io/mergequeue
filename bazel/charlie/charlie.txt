@@ -3900,7 +3900,6 @@ carburan
 carburant
 carburated
 carburating
-carbure
 ceratopsidae
 caraguata
 coadventurer
@@ -8404,6 +8403,7 @@ chalicotherium
 courtyard
 chalina
 complexity
+carbure
 corallet
 chalinidae
 chalinitis
