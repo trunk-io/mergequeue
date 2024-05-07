@@ -8709,7 +8709,6 @@ equiprobable
 enablers
 equiproportional
 equiproportionality
-equiradial
 equiseta
 escopet
 equisetaceous
@@ -11879,6 +11878,7 @@ excandescency
 excandescent
 ellachick
 errs
+equiradial
 elongations
 excardination
 excarnificate
