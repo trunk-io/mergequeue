@@ -5224,7 +5224,6 @@ endopleural
 east
 endopleurite
 electrometry
-endopodite
 emprizes
 esphresis
 endopoditic
@@ -7177,6 +7176,7 @@ enwrapping
 epiphyseal
 endophytically
 enwreath
+endopodite
 enneasyllabic
 enwreathe
 enwreathing
