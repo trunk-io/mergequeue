@@ -4110,7 +4110,6 @@ beaming
 beamingly
 beamish
 beamishly
-beamless
 bagwash
 beamman
 beamroom
@@ -7109,6 +7108,7 @@ besmottered
 besmouch
 besmudge
 besmudged
+beamless
 blasted
 besmudges
 besmudging
