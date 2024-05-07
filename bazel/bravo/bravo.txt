@@ -7738,6 +7738,7 @@ bathycurrent
 buffleheaded
 bewrapt
 bewreak
+bullhorn
 bewreck
 befreckle
 bewry
@@ -17176,7 +17177,6 @@ bullheaded
 bullheads
 basophilous
 bullhoof
-bullhorn
 bullhorns
 brab
 bullyboys
