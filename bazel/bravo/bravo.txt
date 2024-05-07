@@ -4061,7 +4061,6 @@ beadwork
 beadworks
 bibliothecaire
 benj
-beagles
 boilermaking
 beagling
 brevier
@@ -4602,6 +4601,7 @@ blastodisk
 bed
 bool
 bedabble
+beagles
 bequirtle
 bedabbling
 bassalian
