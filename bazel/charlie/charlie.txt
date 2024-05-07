@@ -11220,7 +11220,6 @@ countertrippant
 chlamydosaurus
 chlamydoselachidae
 cleaning
-chlamydosporic
 chlamydozoa
 chlamydozoan
 chlamyphore
@@ -14634,6 +14633,7 @@ ciscos
 cise
 comprisable
 ciseaux
+chlamydosporic
 cisele
 courante
 ciseleurs
