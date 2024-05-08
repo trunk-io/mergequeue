@@ -4406,7 +4406,6 @@ bonehead
 becalm
 becalming
 becalmment
-becap
 blacklead
 brassylic
 becaps
@@ -8110,6 +8109,7 @@ bleakish
 bicolorous
 bicolors
 bicoloured
+becap
 bicolourous
 benchwork
 boutell
