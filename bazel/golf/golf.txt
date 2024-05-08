@@ -4871,7 +4871,6 @@ gelidly
 giveaways
 genies
 givens
-garderobe
 giver
 givers
 gladeye
@@ -8983,6 +8982,7 @@ griggles
 grigris
 grihyasutra
 grill
+garderobe
 geog
 grilladed
 gnathophorous
