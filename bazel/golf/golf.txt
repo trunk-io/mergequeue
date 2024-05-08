@@ -4576,7 +4576,6 @@ gypsywort
 grandfatherish
 gradine
 griffin
-gipsology
 gypsology
 gypsophila
 gypsophily
@@ -5521,6 +5520,7 @@ gaia
 geranium
 gaea
 glyptolith
+gipsology
 games
 guessing
 glyptological
