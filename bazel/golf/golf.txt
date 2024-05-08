@@ -5414,7 +5414,6 @@ glyconian
 galvanoplastical
 glyconic
 glyconics
-glycopeptide
 gravaminous
 glycopexis
 gynecomastism
@@ -9644,6 +9643,7 @@ given
 gruellings
 gruesome
 germens
+glycopeptide
 gruesomer
 grassworm
 gutsily
