@@ -12833,7 +12833,6 @@ angiospermous
 angiosperms
 assistive
 angiosporous
-angiostegnosis
 angiostomize
 angiostrophy
 angiotasis
@@ -15017,6 +15016,7 @@ airparks
 anticodon
 anticold
 ayelp
+angiostegnosis
 anticolic
 anticombination
 anticomment
