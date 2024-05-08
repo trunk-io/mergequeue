@@ -2110,7 +2110,6 @@ grunch
 gomorrah
 gnaeus
 goldbricker
-galactia
 gauzy
 gauzier
 gladdening
@@ -10199,6 +10198,7 @@ guilder
 graver
 germicidal
 guildhall
+galactia
 guilds
 ghosted
 guildship
