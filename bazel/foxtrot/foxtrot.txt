@@ -3963,7 +3963,6 @@ feceris
 feudalise
 fotched
 fingram
-fingrigo
 fini
 finial
 finical
@@ -7893,6 +7892,7 @@ foresaw
 forescene
 forescent
 forescript
+fingrigo
 flowered
 forewarned
 foreseason
