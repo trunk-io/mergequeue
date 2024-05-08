@@ -5986,7 +5986,6 @@ agents
 ageometrical
 ager
 ageratums
-agers
 ages
 agete
 allthorn
@@ -11177,6 +11176,7 @@ aldononose
 amphimictic
 amphimictical
 ares
+agers
 amphimorula
 amphimorulae
 amphinesian

@@ -498,6 +498,7 @@ fumados
 falcata
 falcate
 fylgja
+forestate
 falces
 falciform
 frowny
@@ -2209,7 +2210,6 @@ felsites
 freewoman
 fligger
 foretypified
-forestate
 felspath
 felstone
 felstones
