@@ -7370,7 +7370,6 @@ duncifying
 detectability
 dorsum
 detouring
-detournement
 dasypodidae
 detours
 daric
@@ -10952,6 +10951,7 @@ disadventure
 disadvise
 disadvising
 dysaesthesia
+detournement
 disaffect
 dropvie
 dryopithecine
