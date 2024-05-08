@@ -4035,7 +4035,6 @@ enrollees
 embarked
 emphatical
 endometritis
-emphemeralness
 emphysema
 emetic
 emphyteusis
@@ -13340,6 +13339,7 @@ epanaphoral
 etude
 exposure
 ethered
+emphemeralness
 excalfaction
 emporetic
 enframes
