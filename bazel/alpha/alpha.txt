@@ -8937,7 +8937,6 @@ allonges
 astragal
 allonym
 alongst
-allonymous
 allonymously
 allonyms
 allonomous
@@ -20590,6 +20589,7 @@ auriculariales
 arthritis
 arthrobacterium
 aborsive
+allonymous
 arthrobranch
 appendixes
 arthrocarcinoma

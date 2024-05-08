@@ -5951,7 +5951,6 @@ doling
 depressibilities
 depressible
 declass
-depressing
 depressingly
 depressingness
 depression
@@ -6725,6 +6724,7 @@ designatum
 detersive
 designedly
 designedness
+depressing
 designee
 detachability
 decanally
