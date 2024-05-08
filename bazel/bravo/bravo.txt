@@ -4848,6 +4848,7 @@ believableness
 branchia
 bedsores
 bedspreads
+bivinyls
 bedspring
 bedsprings
 bolivars
@@ -10534,7 +10535,6 @@ blatherer
 blathery
 blathers
 betassel
-bivinyls
 blatherskite
 bermudians
 blatherskites
