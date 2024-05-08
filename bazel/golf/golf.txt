@@ -2079,7 +2079,6 @@ gimbri
 gaussage
 gaussbergite
 gaussian
-gaskings
 gageite
 gaussmeter
 gauster
@@ -5917,6 +5916,7 @@ glover
 gloves
 glochines
 glow
+gaskings
 glowbard
 garrulous
 gadinine
