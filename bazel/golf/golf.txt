@@ -7569,6 +7569,7 @@ gracefuller
 graceless
 gracelessly
 gallerying
+ghosted
 gracelessness
 gnawn
 gunnage
@@ -10202,7 +10203,6 @@ graver
 germicidal
 guildhall
 guilds
-ghosted
 guildship
 guildsmen
 guessworker
