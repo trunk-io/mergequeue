@@ -2407,7 +2407,6 @@ acidophilus
 acidoses
 afternoon
 acidosis
-acidosteophyte
 acidotic
 acids
 automatization
@@ -11716,6 +11715,7 @@ anakoluthia
 anakrousis
 anaktoron
 anal
+acidosteophyte
 analagous
 analav
 analcimes
