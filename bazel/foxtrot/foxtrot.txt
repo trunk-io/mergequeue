@@ -1192,6 +1192,7 @@ fluidics
 fascinating
 familiarizer
 fascinatingly
+ferrule
 finkel
 fascination
 fascinations
@@ -2656,7 +2657,6 @@ flintiness
 freeloving
 ferrugo
 flusters
-ferrule
 finales
 farde
 ferruler
