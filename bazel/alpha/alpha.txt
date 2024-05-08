@@ -2965,7 +2965,6 @@ adessive
 acronyms
 adenomyxoma
 acrook
-ancylopoda
 acroparalysis
 anilopyrine
 amidopyrine
@@ -19653,6 +19652,7 @@ arhythmic
 arhythmical
 aphthous
 ary
+ancylopoda
 aria
 arya
 acetannin
