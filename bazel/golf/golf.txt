@@ -4721,6 +4721,7 @@ gussied
 gallstone
 greenheart
 grough
+gonad
 gidgee
 germanically
 gyrolith
@@ -9996,7 +9997,6 @@ gamba
 grumousness
 gumdigger
 gosport
-gonad
 glossophagine
 gudemother
 grassers
