@@ -7572,7 +7572,6 @@ forelegs
 flees
 fulmen
 farmhands
-furuncles
 foredays
 fanal
 fivefoldness
@@ -7860,6 +7859,7 @@ fraidycat
 forerake
 foreran
 forereach
+furuncles
 forereading
 forerecited
 forereckon
