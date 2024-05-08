@@ -1196,7 +1196,6 @@ freelovism
 froggy
 fascine
 fishmeals
-fellmonger
 furring
 fascintatingly
 fasciola
@@ -10665,6 +10664,7 @@ flatnesses
 frugalities
 frugalness
 fruggin
+fellmonger
 freck
 frugiferous
 foreheater
