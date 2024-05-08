@@ -12618,6 +12618,7 @@ amphistomatic
 arhatship
 aneuploid
 aneuploidy
+autocoder
 aneuria
 aneuric
 aneurilemmic
@@ -23968,7 +23969,6 @@ autocomplexes
 autoclaves
 allemands
 autoclaving
-autocoder
 autocoenobium
 autocollimate
 autocollimation
