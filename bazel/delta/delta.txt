@@ -5652,7 +5652,6 @@ deperm
 depermed
 deperms
 depersonalise
-depersonalising
 depersonalized
 depersonalizes
 denudated
@@ -11685,6 +11684,7 @@ deresinate
 dysteleological
 discorded
 discorder
+depersonalising
 discordful
 discording
 discordous
