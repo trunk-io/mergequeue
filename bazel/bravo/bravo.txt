@@ -8047,7 +8047,6 @@ bicched
 bribegiving
 bice
 batocrinus
-bicentric
 bicentricity
 bardier
 banksias
@@ -14434,6 +14433,7 @@ broma
 branchiform
 bdft
 becompliment
+bicentric
 branchiness
 butterburr
 blackcurrant
