@@ -2519,7 +2519,6 @@ fernery
 foremessenger
 fernyear
 frustulum
-fernier
 fernlike
 fernseed
 flustrum
@@ -5317,6 +5316,7 @@ fowling
 forechurch
 fichu
 fleeceless
+fernier
 feasten
 fleecers
 forcefulness
