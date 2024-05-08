@@ -2203,7 +2203,6 @@ flatfooting
 felonwort
 feriae
 fraela
-fels
 felsites
 freewoman
 fligger
@@ -8856,6 +8855,7 @@ foggara
 footstone
 foist
 fosterers
+fels
 forblow
 fosterhood
 fostering
