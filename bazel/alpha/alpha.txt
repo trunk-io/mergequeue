@@ -11888,7 +11888,6 @@ ananism
 ananite
 anelace
 anankastic
-allergen
 ananke
 alouatte
 authenticator
@@ -17033,6 +17032,7 @@ apprehender
 apimania
 apimanias
 apina
+allergen
 aciculated
 armillated
 alphorn
