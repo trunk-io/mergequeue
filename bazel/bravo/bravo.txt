@@ -9752,7 +9752,6 @@ byssal
 bebization
 bigam
 bissellia
-bissextile
 bissextus
 byssiferous
 beslings
@@ -16301,6 +16300,7 @@ backsets
 brulyiement
 beduins
 beknottedness
+bissextile
 brulzies
 brumaire
 brumbee
