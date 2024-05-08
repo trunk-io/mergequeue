@@ -2024,7 +2024,6 @@ campagna
 campagne
 conli
 campagnol
-campagnols
 campagus
 campaign
 campaigner
@@ -18792,6 +18791,7 @@ coleosporium
 coleplant
 colera
 coles
+campagnols
 coleseed
 coleseeds
 coleslaw
