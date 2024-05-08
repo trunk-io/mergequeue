@@ -1910,6 +1910,7 @@ bandlet
 breadwinners
 bandlimits
 bandmaster
+bespelled
 bandmasters
 bando
 bandobust
@@ -7168,7 +7169,6 @@ beaugregories
 bespeed
 becalmed
 bespell
-bespelled
 bespend
 bespew
 brow
