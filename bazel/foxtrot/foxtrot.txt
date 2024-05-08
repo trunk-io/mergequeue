@@ -2759,6 +2759,7 @@ fluidible
 fester
 festered
 flutters
+farmyards
 fratery
 festerment
 festers
@@ -10432,7 +10433,6 @@ feracities
 fronter
 frontier
 frontierless
-farmyards
 fictor
 forgivableness
 filigerous
