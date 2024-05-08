@@ -5844,7 +5844,6 @@ glossology
 glossologist
 glossophaga
 glossopharyngeus
-globulous
 gettered
 glancer
 goldweed
@@ -9410,6 +9409,7 @@ grouchily
 glycollide
 glochis
 gamphrel
+globulous
 gizmo
 grouchiness
 gunwhale
