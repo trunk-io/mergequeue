@@ -9403,7 +9403,6 @@ fewmets
 foreaccustom
 frangulic
 forjudge
-franion
 frankability
 frankalmoign
 filibustrous
@@ -10295,6 +10294,7 @@ freetrader
 fraudproof
 ferrado
 frogbit
+franion
 figurette
 frogeye
 frogeyed

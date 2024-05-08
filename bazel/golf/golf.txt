@@ -5944,6 +5944,7 @@ gallophobia
 glozes
 gathering
 gaffers
+groveler
 glt
 glucaemia
 greywacke
@@ -9529,7 +9530,6 @@ grove
 groved
 groveled
 goster
-groveler
 graphical
 groveless
 grovelingly
