@@ -5929,7 +5929,6 @@ folate
 floorcloth
 fala
 floweret
-frigidity
 featherbedding
 floorcloths
 floored
@@ -7881,6 +7880,7 @@ florent
 flindosy
 fusillades
 foresail
+frigidity
 farl
 foresails
 farmscape
