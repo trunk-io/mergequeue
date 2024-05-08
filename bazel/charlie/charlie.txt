@@ -3192,7 +3192,6 @@ coelelminthes
 centrotus
 crax
 componentwise
-capistrate
 capita
 catenated
 capital
@@ -5567,6 +5566,7 @@ catalyses
 catalysis
 catalyst
 catalysts
+capistrate
 catalyte
 catalytical
 cassinoid
