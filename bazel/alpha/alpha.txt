@@ -313,7 +313,6 @@ abeyances
 abeyancy
 abeyancies
 abeles
-abelia
 abelian
 abelmoschus
 abelmosk
@@ -5513,6 +5512,7 @@ aflatoxin
 aflight
 argans
 aflow
+abelia
 acumen
 aflower
 amnionic
