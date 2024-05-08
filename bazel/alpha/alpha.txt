@@ -2027,7 +2027,6 @@ acetylhydrazine
 acetylic
 acetylid
 acetylide
-automatontons
 acetyliodide
 acetylizable
 acetylization
@@ -11862,6 +11861,7 @@ anamorphic
 asuri
 anamorphoscope
 anamorphosis
+automatontons
 azocochineal
 anamorphote
 anamorphous
