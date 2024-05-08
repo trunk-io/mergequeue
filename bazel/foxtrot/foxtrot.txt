@@ -647,7 +647,6 @@ fringefoot
 fam
 famacide
 furlanas
-fame
 fortitudinous
 frill
 famed
@@ -8660,6 +8659,7 @@ femalist
 forthteller
 feteless
 floodwater
+fame
 faveolus
 flanging
 fourness
