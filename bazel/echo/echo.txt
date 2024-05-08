@@ -5338,7 +5338,6 @@ effet
 elaps
 elamitic
 elechi
-epigoneion
 endothelial
 ebdomade
 endothelioid
@@ -10739,6 +10738,7 @@ eutaxies
 eugenesic
 enarbor
 eugeny
+epigoneion
 expeditate
 erinaceous
 eyeletter
