@@ -7303,6 +7303,7 @@ bobsledding
 bestridden
 blueberry
 biotoxins
+bcf
 broomsquire
 bestride
 breakless
@@ -10777,7 +10778,6 @@ blepharocera
 blepharoceridae
 birthrate
 blepharochromidrosis
-bcf
 blepharoclonus
 blepharolithiasis
 blepharomelasma
