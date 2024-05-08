@@ -3376,7 +3376,6 @@ fashionist
 fierasferid
 frithborgh
 fierasferidae
-fierasferoid
 fierce
 fiercely
 fableist
@@ -7972,6 +7971,7 @@ fiz
 forest
 fellmongered
 forestaffs
+fierasferoid
 forestage
 forestair
 fireplough
