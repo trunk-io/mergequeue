@@ -19637,7 +19637,6 @@ columnizing
 columns
 columnwise
 colure
-colures
 colusite
 colville
 colza
@@ -24783,6 +24782,7 @@ copsing
 copt
 copter
 copters
+colures
 clausilia
 coptic
 coptine
