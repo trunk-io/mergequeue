@@ -6847,7 +6847,6 @@ cellepore
 cellfalcicula
 celliferous
 celliform
-cellipetal
 cellist
 cellists
 cellite
@@ -28559,6 +28558,7 @@ curial
 creditress
 creditrix
 crednerite
+cellipetal
 continuances
 cavallies
 crustaceans
