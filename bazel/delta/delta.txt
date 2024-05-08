@@ -3146,7 +3146,6 @@ defamation
 demiseason
 defamations
 defamatory
-defame
 dentated
 defamed
 defamer
@@ -17492,6 +17491,7 @@ drouthy
 drouthier
 drouthiest
 drouthiness
+defame
 demidog
 drouths
 drove
