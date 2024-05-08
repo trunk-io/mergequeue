@@ -15525,7 +15525,6 @@ corrade
 clambered
 clappermaclaw
 clappers
-clapping
 claps
 consecratedness
 clapstick
@@ -30162,6 +30161,7 @@ cruellest
 cruelly
 cruelness
 cruels
+clapping
 cruelty
 cruent
 cruentate
