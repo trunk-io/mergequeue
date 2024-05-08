@@ -1153,7 +1153,6 @@ executiveship
 eidology
 editorializer
 editorializers
-enation
 editorializes
 editors
 editorship
@@ -8603,6 +8602,7 @@ equidist
 equidistance
 embranglement
 equidistribution
+enation
 exect
 equidiurnal
 eleutheromania
