@@ -3895,7 +3895,6 @@ adience
 atrail
 aprowl
 antiunionist
-adient
 adieu
 adieus
 adighe
@@ -18614,6 +18613,7 @@ anthropoidal
 arboraceous
 arboral
 allotype
+adient
 arborary
 amias
 arborea
