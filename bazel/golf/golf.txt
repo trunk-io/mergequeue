@@ -3061,7 +3061,6 @@ gainlessness
 graphitized
 ginn
 geognosy
-geognost
 geognostically
 galloped
 gpad
@@ -5243,6 +5242,7 @@ gleamingly
 gleamless
 gleams
 gleanable
+geognost
 garroters
 genial
 grinny
