@@ -10602,7 +10602,6 @@ blazonries
 blazons
 bld
 bothriocidaris
-bleach
 bleachable
 bleached
 bleacher
@@ -10714,6 +10713,7 @@ blendwater
 bowhead
 blenheim
 boilerless
+bleach
 blenk
 blennadenitis
 burbled

@@ -12463,7 +12463,6 @@ conquerable
 chromatolytic
 chromatology
 chromatologies
-chromatone
 chromatopathy
 chromatopathia
 celebe
@@ -24825,6 +24824,7 @@ coquicken
 coquilla
 compare
 contumax
+chromatone
 coquillage
 coquille
 crosiers
