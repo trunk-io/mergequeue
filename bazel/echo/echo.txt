@@ -6731,7 +6731,6 @@ enthean
 entheasm
 enfuddle
 enthelminthic
-enthetic
 enthymematic
 enthymeme
 entremess
@@ -13180,6 +13179,7 @@ eudaemonistic
 expletives
 expletory
 explicability
+enthetic
 edacity
 exsiliency
 erosely
