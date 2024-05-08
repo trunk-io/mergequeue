@@ -3536,6 +3536,7 @@ distomum
 deformable
 deformalize
 deformation
+deferable
 deformational
 delete
 deformations
@@ -11998,7 +11999,6 @@ disemployment
 disemprison
 disenable
 disenabled
-deferable
 disenabling
 disenact
 disenamor
