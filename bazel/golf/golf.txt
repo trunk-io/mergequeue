@@ -1137,7 +1137,6 @@ galleasses
 gonimous
 gangrened
 gigantism
-grapeline
 gangrenes
 gangrenescent
 gangrenous
@@ -10558,6 +10557,7 @@ gunong
 grabbers
 gerbille
 gunpapers
+grapeline
 greenockite
 gratify
 gerusia

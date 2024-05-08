@@ -5253,7 +5253,6 @@ fetchers
 flea
 fleabag
 fusible
-fleabags
 fissidactyl
 fluorites
 fleabite
@@ -10976,6 +10975,7 @@ fulmines
 fulminurate
 fulminuric
 fulness
+fleabags
 fulnesses
 fiver
 fulsomely
