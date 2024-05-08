@@ -10512,6 +10512,7 @@ grateman
 gunks
 gesning
 gunlaying
+garrisons
 gunline
 gunlock
 grimliness
@@ -10741,7 +10742,6 @@ gignate
 gutium
 gimbals
 gallium
-garrisons
 gynostemiumia
 grubbier
 graduality
