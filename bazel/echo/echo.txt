@@ -4786,7 +4786,6 @@ encomimiums
 encomium
 encomiumia
 erianthus
-encomiums
 encommon
 encompany
 encompassment
@@ -11450,6 +11449,7 @@ eventuality
 eventualize
 epitrochlea
 eventually
+encomiums
 eventuated
 eventuating
 evenwise
