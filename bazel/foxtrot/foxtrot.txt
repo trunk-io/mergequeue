@@ -8090,7 +8090,6 @@ furnishings
 fleet
 featherhead
 forethrift
-fulminic
 fire
 focalized
 faithful
@@ -10991,6 +10990,7 @@ facsimiles
 fetishmonger
 fertilities
 fooled
+fulminic
 funding
 flavin
 fulvescent
