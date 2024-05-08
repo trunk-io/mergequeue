@@ -3044,7 +3044,6 @@ epeiridae
 elem
 elocutionize
 ellipsis
-emblematic
 ellipsograph
 ellipsoid
 ellipsoidal
@@ -7141,6 +7140,7 @@ emulable
 envision
 extrapolative
 envisioning
+emblematic
 envisionment
 effeminacy
 envisions
