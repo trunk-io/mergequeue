@@ -4729,7 +4729,6 @@ afficionado
 advocated
 angiotome
 advocates
-advocateship
 advocating
 advocation
 advocative
@@ -12736,6 +12735,7 @@ angeluses
 anger
 angered
 angering
+advocateship
 angerless
 angerly
 angerona
