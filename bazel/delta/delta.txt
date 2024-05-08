@@ -2750,7 +2750,6 @@ decor
 decorability
 distemperedness
 diplopic
-decorable
 decorably
 doubtfulness
 desertic
@@ -7421,6 +7420,7 @@ destitutely
 detrimentally
 detrited
 deglute
+decorable
 detrition
 dancer
 drumfire
