@@ -4677,7 +4677,6 @@ bedeck
 bedecked
 bedrid
 bebannered
-bedecking
 bewormed
 bedecks
 bangboard
@@ -8849,6 +8848,7 @@ bindingness
 bindis
 bindle
 binds
+bedecking
 brewer
 bindweed
 bacillophobia
