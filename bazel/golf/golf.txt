@@ -4534,7 +4534,6 @@ gyps
 griskin
 gipser
 gipsy
-gipsydom
 gipsied
 gypsied
 gipsies
@@ -7942,6 +7941,7 @@ greenishness
 geatas
 gunshots
 gleaned
+gipsydom
 gatten
 genuine
 grandparents
