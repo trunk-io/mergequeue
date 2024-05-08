@@ -838,7 +838,6 @@ gleds
 goldin
 galways
 gamari
-gamash
 gonidium
 gamashes
 gamasidae
@@ -7832,6 +7831,7 @@ guydom
 gramps
 glorifier
 gounau
+gamash
 galvanograph
 gourdworm
 gullishly
