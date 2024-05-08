@@ -5303,6 +5303,7 @@ gendered
 galbanum
 glenlike
 glomerulus
+gentry
 glenohumeral
 glenoid
 glenoidal
@@ -6406,7 +6407,6 @@ goblinesque
 griffins
 goblinish
 gramophones
-gentry
 goundou
 glyoxylic
 grubstaker
