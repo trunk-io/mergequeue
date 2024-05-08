@@ -5768,7 +5768,6 @@ catechismal
 catechistic
 catechistical
 catechistically
-catechists
 coween
 catechizable
 catechization
@@ -18811,6 +18810,7 @@ colet
 coletit
 cobego
 coleur
+catechists
 coleuses
 coleworts
 coli
