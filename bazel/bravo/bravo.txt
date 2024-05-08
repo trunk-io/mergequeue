@@ -2956,6 +2956,7 @@ bemazed
 boarders
 barricados
 bulbilla
+bisognio
 blackmails
 barricoes
 barrier
@@ -9740,7 +9741,6 @@ busking
 bismutosphaerite
 bisnaga
 bisnagas
-bisognio
 bison
 byspell
 bispinose
