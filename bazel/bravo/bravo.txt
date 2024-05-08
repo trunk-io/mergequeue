@@ -5792,7 +5792,6 @@ biltongs
 bellatrix
 bellbind
 buckjump
-beaverroot
 bellbinder
 bellbine
 bullous
@@ -7507,6 +7506,7 @@ betrumpet
 betrunk
 betrust
 bets
+beaverroot
 betsileos
 betso
 bulbine

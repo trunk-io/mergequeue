@@ -1233,7 +1233,6 @@ fissilingual
 fretty
 forebemoaned
 fascistization
-fascistize
 frenzying
 fascists
 flavorless
@@ -7146,6 +7145,7 @@ ferruling
 festive
 filthified
 footfalls
+fascistize
 footfarer
 falsework
 footfault
