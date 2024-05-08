@@ -5400,7 +5400,6 @@ gayals
 glycolyl
 gilsonite
 glycolipine
-glycolysis
 glycolytic
 gateman
 gahnites
@@ -6766,6 +6765,7 @@ giantism
 gumbotil
 goniatites
 guttler
+glycolysis
 grint
 gobmouthed
 goniatitic

@@ -10571,7 +10571,6 @@ annularly
 amylodyspepsia
 anthriscus
 amylogenesis
-amylogenic
 amylogens
 archoptoma
 amylohydrolysis
@@ -22523,6 +22522,7 @@ atemoya
 aten
 atenism
 aterian
+amylogenic
 ates
 alfas
 ateuchi
