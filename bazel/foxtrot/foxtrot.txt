@@ -646,7 +646,6 @@ falutin
 falx
 fringefoot
 fam
-famacide
 furlanas
 fame
 fortitudinous
@@ -5654,6 +5653,7 @@ flipjack
 flippance
 flippant
 flipped
+famacide
 fracturableness
 flipperling
 frogface
