@@ -2626,6 +2626,7 @@ barkeeper
 barkeepers
 barkeeps
 byelaws
+borana
 bunglesome
 barkey
 briers
@@ -12930,7 +12931,6 @@ borago
 bedamn
 boral
 boran
-borana
 boranes
 borani
 boras
