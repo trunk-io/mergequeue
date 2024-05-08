@@ -48,7 +48,6 @@ fibrotic
 foreshowing
 forworn
 fabulize
-fabulosity
 frosk
 feedway
 faster
@@ -3130,6 +3129,7 @@ fibrocystoma
 fibrocyte
 fibrocytic
 fibroelastic
+fabulosity
 fibroenchondroma
 finagled
 fibroferrite
