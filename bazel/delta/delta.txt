@@ -11177,7 +11177,6 @@ desophisticate
 disbeliever
 disbelievers
 dazingly
-disbelieves
 disbench
 disavowals
 daubier
@@ -15203,6 +15202,7 @@ dec
 dollar
 dollardom
 dollarfishes
+disbelieves
 dollarleaf
 dollars
 dollarwise
