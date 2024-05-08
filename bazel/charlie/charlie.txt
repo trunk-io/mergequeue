@@ -1029,7 +1029,6 @@ calcareoargillaceous
 calcareosiliceous
 cholesterinemia
 calcareous
-calcareousness
 calcariferous
 cribo
 calcariform
@@ -15164,6 +15163,7 @@ civic
 civical
 civically
 civicism
+calcareousness
 civicisms
 civics
 civie
