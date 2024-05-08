@@ -6327,7 +6327,6 @@ fullback
 fixtureless
 foetid
 flunkyish
-flunkyize
 fumigatorium
 felonsetting
 flunking
@@ -7904,6 +7903,7 @@ foreseeingly
 ferd
 functionating
 foreseen
+flunkyize
 foreseer
 foresees
 foresey
