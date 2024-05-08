@@ -7576,6 +7576,7 @@ changepocket
 crozier
 ceratopsian
 ceratopsid
+cotylosaur
 cutikin
 ceratopteridaceae
 ceratopteris
@@ -26451,7 +26452,6 @@ cotylopubic
 catatonics
 criminalist
 cotylosacral
-cotylosaur
 cotylosauria
 cotylosaurian
 cotingid
