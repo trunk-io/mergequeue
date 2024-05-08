@@ -5222,6 +5222,7 @@ casita
 casitas
 caskanet
 casket
+corpl
 casketed
 caskets
 casky
@@ -25603,7 +25604,6 @@ coroutines
 corozos
 cardsharper
 corp
-corpl
 corpn
 corpora
 corporacy
