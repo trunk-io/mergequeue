@@ -12217,7 +12217,6 @@ beaupers
 boltmaker
 boltonia
 boltonias
-boltonite
 boltrope
 bittern
 boltropes
@@ -14558,6 +14557,7 @@ brasher
 brashest
 brashier
 brashiest
+boltonite
 badged
 brashiness
 bookplates
