@@ -3569,6 +3569,7 @@ addleheadedness
 addleness
 addlepate
 adjudge
+attackman
 addlepated
 addlepatedness
 addleplot
@@ -22976,7 +22977,6 @@ anticontagiousness
 attacking
 antedated
 attackingly
-attackman
 accustom
 archispore
 attacus
