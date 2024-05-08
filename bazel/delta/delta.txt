@@ -1643,7 +1643,6 @@ deamidization
 deaminase
 digitize
 deaminate
-deaminated
 deaminating
 dioscorein
 deamination
@@ -12075,6 +12074,7 @@ dehisces
 discoplacentalia
 disenthralled
 disenthrone
+deaminated
 dicalcic
 disenthronement
 deled
