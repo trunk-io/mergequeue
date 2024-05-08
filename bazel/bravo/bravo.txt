@@ -4192,7 +4192,6 @@ bras
 bearhound
 broozled
 bearess
-bearfoots
 bearherd
 bearhug
 bilicyanin
@@ -4648,6 +4647,7 @@ bedcase
 brunneous
 bedchair
 bedchairs
+bearfoots
 buntal
 bryophyte
 bratstva
