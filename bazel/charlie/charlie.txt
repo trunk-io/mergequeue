@@ -11486,6 +11486,7 @@ chlorpromazine
 chlorpropamide
 cheerfulsome
 ciboule
+cyath
 chlorsalol
 chlortetracycline
 chm
@@ -13165,7 +13166,6 @@ cyanus
 ciao
 cyaphenine
 chichili
-cyath
 cyathea
 cytodieresis
 cyatheaceae
