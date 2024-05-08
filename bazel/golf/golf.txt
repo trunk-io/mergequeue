@@ -4957,7 +4957,6 @@ glade
 glades
 grush
 gladful
-guttling
 gnomonics
 gleg
 gladfulness
@@ -6358,6 +6357,7 @@ gob
 goban
 gobbe
 glycemic
+guttling
 gobbed
 gobber
 girja
