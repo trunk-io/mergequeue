@@ -3280,7 +3280,6 @@ getatability
 grimp
 groats
 geranomorph
-graffage
 gormandizer
 gerard
 gundalow
@@ -4968,6 +4967,7 @@ gladier
 gladii
 gladiola
 gladiolas
+graffage
 gypsyesque
 gladys
 goldurns
