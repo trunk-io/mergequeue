@@ -3679,7 +3679,6 @@ adenectopia
 akenbold
 allosterically
 adenemphractic
-adenyl
 adenylic
 adenine
 adenitis
@@ -13643,6 +13642,7 @@ announce
 announced
 announcements
 adenectopic
+adenyl
 arbalestre
 announces
 astrophyllite
