@@ -4764,7 +4764,6 @@ demitint
 demitoilet
 demitone
 deteriorated
-demitrain
 demitranslucence
 demits
 demitted
@@ -17652,6 +17651,7 @@ divekeeper
 drusedom
 druses
 dishevels
+demitrain
 deuteropathy
 deliquesced
 diffusor

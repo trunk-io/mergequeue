@@ -1694,6 +1694,7 @@ gordolobo
 gallons
 gastight
 gastly
+girded
 gillnet
 gastness
 gastnesses
@@ -8660,7 +8661,6 @@ gelded
 glossingly
 greeneries
 groundenell
-girded
 glomerate
 grubby
 gambit
