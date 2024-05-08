@@ -21878,7 +21878,6 @@ assizing
 asslike
 assman
 assmanship
-assobre
 associability
 associable
 associableness
@@ -25378,6 +25377,7 @@ azoxybenzene
 azoxime
 azoxynaphthalene
 azoxine
+assobre
 achterveld
 azoxytoluidine
 accoutering
