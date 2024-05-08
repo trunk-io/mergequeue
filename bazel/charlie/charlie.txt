@@ -13926,7 +13926,6 @@ congruities
 cinematheques
 cutleriales
 cinematic
-cinematical
 cogency
 coulibiaca
 celiagra
@@ -28736,6 +28735,7 @@ crepidula
 crepier
 crepiest
 crepine
+cinematical
 creping
 crepis
 crepitaculum
