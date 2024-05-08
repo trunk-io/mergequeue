@@ -18960,7 +18960,6 @@ collations
 cesti
 collatitious
 cloine
-collative
 catouse
 collator
 couldna
@@ -20428,6 +20427,7 @@ compactly
 chondrodynia
 compactor
 compactors
+collative
 cardiataxia
 compacts
 compacture
