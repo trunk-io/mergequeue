@@ -1329,7 +1329,6 @@ calycozoon
 calicular
 caliculate
 calyculate
-calyculated
 calycule
 coercing
 caliculi
@@ -13638,6 +13637,7 @@ cilicism
 ciliectomy
 ciliella
 cistern
+calyculated
 ciliferous
 ciliform
 cocytean
