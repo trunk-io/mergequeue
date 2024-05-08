@@ -140,6 +140,7 @@ fem
 faconde
 fidgets
 facsim
+fluoroformol
 facsimile
 facsimiled
 fastest
@@ -11433,7 +11434,6 @@ furnish
 furnishable
 flamenship
 folkvangr
-fluoroformol
 flannelmouthed
 firestone
 frustrable
