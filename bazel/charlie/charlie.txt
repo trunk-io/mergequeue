@@ -16357,7 +16357,6 @@ clypeola
 clypeolar
 clypeolate
 clypeole
-clypeus
 collapsible
 clippable
 clipped
@@ -20175,6 +20174,7 @@ commissural
 clypeastroidea
 commissure
 commissurotomy
+clypeus
 commissurotomies
 commistion
 caulite
