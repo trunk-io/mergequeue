@@ -7402,7 +7402,6 @@ detrainment
 detraque
 deathsmen
 detrect
-detrench
 domajig
 detribalize
 dismoded
@@ -12919,6 +12918,7 @@ downing
 demulsifying
 dysoxidation
 dissilition
+detrench
 disoxygenation
 debacchate
 disp
