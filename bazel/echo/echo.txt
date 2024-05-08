@@ -2010,7 +2010,6 @@ evictees
 emulsic
 eradiculose
 elaborating
-elaboration
 espials
 elaboratively
 endocrinotherapy
@@ -7530,6 +7529,7 @@ enzymologist
 epicardium
 epicarid
 eyebrow
+elaboration
 epicarides
 employs
 epicarp
