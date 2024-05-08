@@ -1907,7 +1907,6 @@ bandlet
 breadwinners
 bandlimits
 bandmaster
-bandmasters
 bando
 bandobust
 bandog
@@ -3211,6 +3210,7 @@ baccate
 borocalcite
 basifies
 basifying
+bandmasters
 blatters
 basifixed
 basifugal
