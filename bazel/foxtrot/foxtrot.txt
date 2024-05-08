@@ -3529,7 +3529,6 @@ filamented
 filamentiferous
 filamentoid
 fuzztail
-filaments
 formularise
 filamentule
 filander
@@ -11049,6 +11048,7 @@ fumets
 follows
 flongs
 felsosphaerite
+filaments
 fumeuse
 flickerproof
 fumid
