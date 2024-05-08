@@ -6262,7 +6262,6 @@ fluidising
 frolicked
 frog
 fluidist
-fluidity
 fluidization
 fluidized
 followup
@@ -10350,6 +10349,7 @@ fractioned
 froideur
 froise
 fulminous
+fluidity
 frokin
 fletch
 frolic
