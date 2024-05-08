@@ -4817,6 +4817,7 @@ conjuror
 codeias
 carr
 carrack
+crawfoot
 carracks
 carrageenin
 carragheen
@@ -28354,7 +28355,6 @@ crawdad
 crawdads
 collector
 crawfishing
-crawfoot
 crawfoots
 crawful
 corviform
