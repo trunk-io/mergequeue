@@ -1382,7 +1382,6 @@ epeidia
 effigies
 epilaryngeal
 effigurate
-effiguration
 efflagitate
 efflate
 endears
@@ -7967,6 +7966,7 @@ epimers
 enchains
 epanagoge
 epimysia
+effiguration
 enervator
 excitonic
 eteocreton

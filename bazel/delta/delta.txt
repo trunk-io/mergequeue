@@ -2477,7 +2477,6 @@ dand
 delay
 disintegrative
 decipherably
-deciphered
 decipherer
 deciphering
 deciphers
@@ -4704,6 +4703,7 @@ disfranchised
 distilland
 deaness
 demiram
+deciphered
 drukpa
 demirelief
 dourahs
