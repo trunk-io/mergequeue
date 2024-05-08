@@ -7094,7 +7094,6 @@ beetling
 beryllia
 besnowing
 besognier
-bardiness
 besoil
 bypasser
 besomer
@@ -17339,6 +17338,7 @@ bummock
 bumped
 bumpee
 burrowed
+bardiness
 blobber
 beechier
 burbling
