@@ -2423,7 +2423,6 @@ bardings
 becalms
 bardlet
 bardlike
-bardling
 bardo
 banyoro
 bardocucullus
@@ -16654,6 +16653,7 @@ barbershops
 bucketer
 bucketful
 bucketfull
+bardling
 bucketmaker
 bucketmaking
 begoggled
