@@ -3727,7 +3727,6 @@ battels
 battement
 basisolute
 battements
-battened
 braata
 battener
 beknown
@@ -17307,6 +17306,7 @@ bumbles
 bumbling
 bumblingly
 bumblings
+battened
 bumbo
 bumboat
 bumboatman
