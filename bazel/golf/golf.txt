@@ -1771,7 +1771,6 @@ gastroenteroanastomosis
 gastroenterocolostomy
 gastroenterology
 gelatination
-gaffsman
 gastroenterologic
 gastroenterostomies
 gandurah
@@ -3836,6 +3835,7 @@ grungier
 gibbons
 gibbose
 gibbosely
+gaffsman
 gibboseness
 gibbosity
 gibbosities
