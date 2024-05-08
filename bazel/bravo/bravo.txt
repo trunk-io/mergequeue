@@ -490,7 +490,6 @@ bicentral
 bandeaux
 broomier
 backspang
-backspier
 beseeched
 backspierer
 besottingly
@@ -15411,6 +15410,7 @@ bringal
 bringall
 bringdown
 beneficience
+backspier
 bringela
 bringer
 breakbone
