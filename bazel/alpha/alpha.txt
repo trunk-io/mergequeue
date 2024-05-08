@@ -11584,7 +11584,6 @@ anacrogynous
 anacrotic
 altricial
 anacrotism
-anacruses
 anacrustic
 aristarch
 anaculture
@@ -22493,6 +22492,7 @@ atelectasis
 atelene
 ateleological
 aspartyl
+anacruses
 ateles
 amnemonic
 antidromy
