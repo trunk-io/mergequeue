@@ -2329,7 +2329,6 @@ gaddis
 geggery
 galax
 gehlenite
-goblet
 guideway
 gey
 gaits
@@ -5774,6 +5773,7 @@ glossalgy
 glossalgia
 glossarial
 georgiadesite
+goblet
 glossarist
 geomyidae
 glossarize
