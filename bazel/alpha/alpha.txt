@@ -3037,7 +3037,6 @@ actification
 agrarian
 actin
 actinautography
-actinautographic
 actine
 actinenchyma
 acting
@@ -18381,6 +18380,7 @@ arabic
 amity
 arabica
 arabicism
+actinautographic
 articulationes
 arabidopsis
 arabiyeh
