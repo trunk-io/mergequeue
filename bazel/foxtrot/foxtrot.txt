@@ -1093,6 +1093,7 @@ foredestining
 faroelite
 franzy
 foremast
+fanons
 farolito
 ferriages
 farrage
@@ -3565,7 +3566,6 @@ filemot
 flenches
 filename
 fixates
-fanons
 forspoken
 fourniture
 filers
