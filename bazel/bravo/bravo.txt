@@ -2352,7 +2352,6 @@ barbierite
 barbing
 barbion
 burhinus
-barbita
 barbital
 barrators
 barbiton
@@ -7267,6 +7266,7 @@ bestirs
 bestock
 billy
 bestore
+barbita
 bloom
 bestow
 bestowals
