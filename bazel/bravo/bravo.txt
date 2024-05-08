@@ -12542,6 +12542,7 @@ bonorum
 bisector
 befame
 bons
+bedazzled
 bagatelle
 bills
 bonsela
@@ -14620,7 +14621,6 @@ bratstvo
 blunderer
 brattach
 bratty
-bedazzled
 brattice
 brattices
 bratticing

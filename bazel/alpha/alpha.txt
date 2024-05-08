@@ -2317,6 +2317,7 @@ achromatope
 achromatophile
 achromatophilia
 achromatophilic
+alveolation
 achromatopia
 achromatopsy
 apologizes
@@ -9674,7 +9675,6 @@ ararauna
 alveolarly
 alveolars
 alveolate
-alveolation
 alveole
 alveolectomy
 alveoli
