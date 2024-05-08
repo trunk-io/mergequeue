@@ -1173,6 +1173,7 @@ dasturi
 dat
 dogtrot
 datableness
+deploration
 datably
 datacell
 datafile
@@ -5762,7 +5763,6 @@ deplorability
 deplorableness
 deplorably
 diving
-deploration
 deplore
 deplored
 deploredness
