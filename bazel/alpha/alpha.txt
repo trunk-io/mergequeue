@@ -7372,6 +7372,7 @@ alatern
 alaternus
 alation
 aeolharmonica
+aspersor
 anticaste
 alternant
 alauda
@@ -24035,7 +24036,6 @@ alerts
 autodidact
 autodidactic
 autodidactically
-aspersor
 autodifferentiation
 autodigestion
 autodyne
