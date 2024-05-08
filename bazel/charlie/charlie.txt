@@ -11955,7 +11955,6 @@ choragus
 choraguses
 calashes
 chorai
-choral
 choralcelo
 chorale
 crumbing
@@ -26052,6 +26051,7 @@ caddoan
 coseier
 coseiest
 cribble
+choral
 catharine
 coseism
 coseismal
