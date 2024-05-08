@@ -4619,7 +4619,6 @@ epigrapher
 enchanter
 encephaloscopy
 eater
-enchytrae
 enchytraeid
 estive
 enchytraeus
@@ -11044,6 +11043,7 @@ eurasianism
 eremites
 endocervicitis
 eureka
+enchytrae
 electrizing
 eurhythmic
 eurhythmics
