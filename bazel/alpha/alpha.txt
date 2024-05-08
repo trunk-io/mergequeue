@@ -890,7 +890,6 @@ absconsa
 aerator
 abscound
 absee
-abseiled
 abseils
 aerohydroplane
 absence
@@ -9981,6 +9980,7 @@ ambiance
 ambiances
 ambicolorate
 ambicoloration
+abseiled
 ambidexterity
 ambidexterities
 ambidextral
