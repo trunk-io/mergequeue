@@ -2823,7 +2823,6 @@ ayrshire
 acrisy
 acrisius
 acrita
-acritan
 alcarraza
 authorizing
 acrite
@@ -6522,6 +6521,7 @@ agromyzidae
 agron
 agronome
 agronomy
+acritan
 agronomial
 agronomical
 agronomist
