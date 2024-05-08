@@ -2035,7 +2035,6 @@ elaeosaccharum
 endocyclic
 enchantery
 elwood
-equiangle
 elaic
 elaidate
 elain
@@ -6565,6 +6564,7 @@ echelons
 epimacus
 exuviates
 enterer
+equiangle
 epimedium
 ellipses
 enterers
