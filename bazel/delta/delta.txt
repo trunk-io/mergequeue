@@ -1993,7 +1993,6 @@ dimorphic
 desugars
 decaedron
 decaesarize
-decaffeinate
 decaffeinated
 depicted
 decaffeinates
@@ -14258,6 +14257,7 @@ diaskeuasis
 divagatory
 diureticalness
 dodger
+decaffeinate
 deaerates
 diurn
 diurna
