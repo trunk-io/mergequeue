@@ -98,7 +98,6 @@ cabernets
 carcinosarcomas
 clusters
 cabestro
-cabestros
 cabezon
 cabezone
 convict
@@ -29527,6 +29526,7 @@ critic
 critical
 criticality
 criticalness
+cabestros
 criticaster
 criticasterism
 criticastry
