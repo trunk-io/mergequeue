@@ -6473,7 +6473,6 @@ caver
 cavern
 cavernal
 caverned
-cavernlike
 cavernoma
 cavernous
 cavernously
@@ -16008,6 +16007,7 @@ changuinan
 cleped
 clepes
 cleping
+cavernlike
 clepsydra
 clepsydrae
 clepsydras
