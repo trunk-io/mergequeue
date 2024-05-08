@@ -6017,6 +6017,7 @@ apprehensibly
 apical
 anthropodus
 anartismos
+ardu
 agglutinate
 agglutinated
 alehoof
@@ -19338,7 +19339,6 @@ ardors
 ardour
 ardours
 ardri
-ardu
 aminoethionic
 accessit
 aerosiderolite

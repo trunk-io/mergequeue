@@ -5701,7 +5701,6 @@ engineries
 ellwand
 engirding
 engirdle
-engirdled
 exodromy
 engirdles
 everywhereness
@@ -6588,6 +6587,7 @@ enterrologist
 equivalue
 enterocele
 enteroceptor
+engirdled
 enterochirurgia
 ergothioneine
 endorsement
