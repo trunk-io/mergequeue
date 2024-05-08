@@ -5834,7 +5834,6 @@ floccosely
 failsoft
 fangas
 fossick
-flocculator
 forts
 fencing
 froggiest
@@ -10798,6 +10797,7 @@ frutilla
 frwy
 fabianism
 fervent
+flocculator
 fth
 ftncmd
 feuars
