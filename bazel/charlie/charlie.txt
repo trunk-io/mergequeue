@@ -6696,7 +6696,6 @@ ceilingwards
 couche
 ceilometer
 couac
-concurrence
 ceylonite
 coosify
 ceils
@@ -9643,6 +9642,7 @@ checkweighman
 checkweighmen
 checkwork
 checkwriter
+concurrence
 cheddar
 commentating
 colourlessness
