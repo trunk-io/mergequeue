@@ -574,7 +574,6 @@ caduac
 cruiseway
 chirographic
 caduca
-caducean
 caducecei
 caducei
 caduceus
@@ -9476,6 +9475,7 @@ comitative
 chawers
 chawia
 combinement
+caducean
 cembali
 chawing
 chawk
