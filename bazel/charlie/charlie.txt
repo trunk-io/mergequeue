@@ -4912,7 +4912,6 @@ corial
 chondrosteous
 cogitable
 carshops
-carsick
 carsickness
 carson
 caviteno
@@ -18595,6 +18594,7 @@ coiners
 comparograph
 crossrow
 coyness
+carsick
 castanian
 colposcope
 coinfer
