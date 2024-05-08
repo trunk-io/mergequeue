@@ -12946,7 +12946,6 @@ bordage
 bibliogony
 bordar
 bordarius
-bordeaux
 bordel
 bordelaise
 banquettes
@@ -14367,6 +14366,7 @@ blizzards
 braireau
 braises
 braising
+bordeaux
 butea
 breaststroke
 bulbocapnin
