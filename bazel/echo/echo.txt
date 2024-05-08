@@ -8513,7 +8513,6 @@ epulosis
 epulotic
 epural
 epuration
-eq
 eremian
 effectual
 equability
@@ -10310,6 +10309,7 @@ enturret
 electrooptical
 evicted
 epanorthosis
+eq
 elritch
 expoliate
 ethidene
