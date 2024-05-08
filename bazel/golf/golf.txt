@@ -2186,6 +2186,7 @@ gaze
 ganodus
 gazebo
 gazeboes
+glabella
 gazebos
 gossipmongering
 grampus
@@ -4895,7 +4896,6 @@ graspable
 graftdom
 glaciable
 gatelike
-glabella
 gunless
 globalized
 gelatinousness
