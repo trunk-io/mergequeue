@@ -2890,7 +2890,6 @@ elfenfolk
 epinard
 elfic
 eponymous
-elfins
 elfinwood
 elfish
 emotionalist
@@ -3416,6 +3415,7 @@ emberizinae
 emberizine
 embers
 ecthlipsis
+elfins
 embetter
 elaphe
 enate
