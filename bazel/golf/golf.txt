@@ -3467,7 +3467,6 @@ gerontocracy
 gerontocracies
 gerontocrat
 gerontology
-gerontologist
 giesel
 gerontologists
 garvanzo
@@ -7783,6 +7782,7 @@ grasscutter
 ganoin
 gramary
 gramarye
+gerontologist
 gramaries
 gramaryes
 gramas
