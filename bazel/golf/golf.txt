@@ -1596,7 +1596,6 @@ generale
 gabe
 gasification
 guacamole
-guarachas
 gametogonium
 gasifier
 gasifiers
@@ -6274,6 +6273,7 @@ gatefolds
 gnus
 go
 goa
+guarachas
 grammar
 germiparity
 grammaticize
