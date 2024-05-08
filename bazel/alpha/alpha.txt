@@ -3601,6 +3601,7 @@ addresses
 addressful
 addressing
 acanthocephalan
+armbone
 addressograph
 aloe
 addrest
@@ -9443,7 +9444,6 @@ altared
 allodies
 altarpieces
 altars
-armbone
 altarwise
 altazimuth
 alter
