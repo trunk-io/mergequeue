@@ -1964,7 +1964,6 @@ bandwidths
 bandwork
 bandworm
 boogiewoogie
-brimstony
 bane
 baneberry
 benzoflavine
@@ -16119,6 +16118,7 @@ balklines
 brotheler
 bulla
 bagnette
+brimstony
 brothels
 bistorta
 borrowing
