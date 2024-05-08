@@ -2427,7 +2427,6 @@ electroextraction
 earthquaked
 elutriate
 electroforming
-electrofusion
 ethanol
 electrogalvanization
 equalization
@@ -12577,6 +12576,7 @@ enteropneustal
 existentialistically
 ejidos
 existentialize
+electrofusion
 existibility
 extant
 epilogic
