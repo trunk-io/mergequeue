@@ -6597,7 +6597,6 @@ deflectometer
 disshroud
 desecrator
 delimits
-desectionalize
 daps
 desegmentation
 desegmented
@@ -8454,6 +8453,7 @@ ditrochee
 deluding
 diamantoid
 diamat
+desectionalize
 diamber
 diambic
 dysentery
