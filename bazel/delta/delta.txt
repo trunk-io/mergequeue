@@ -1742,6 +1742,7 @@ depaysee
 deathtime
 deathtrap
 deathtraps
+diglucoside
 dhunchee
 deathward
 deathwatches
@@ -15775,7 +15776,6 @@ dorsale
 dioscoreaceae
 dorsales
 dorsalgia
-diglucoside
 dorsally
 decasualization
 dorsals
