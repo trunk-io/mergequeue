@@ -7316,7 +7316,6 @@ deterrents
 djelfa
 deters
 daylighting
-detersiveness
 detest
 detestation
 dominate
@@ -8790,6 +8789,7 @@ drinkable
 decke
 diazoalkane
 depeter
+detersiveness
 diazoamine
 diazoaminobenzene
 diazoanhydride
