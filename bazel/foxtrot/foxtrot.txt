@@ -5051,7 +5051,6 @@ flathead
 flatiron
 froom
 flatirons
-flatlands
 flatlets
 floorwalker
 flavoprotein
@@ -5101,6 +5100,7 @@ flugelman
 flatulently
 flatulentness
 flatware
+flatlands
 flatwares
 futter
 flatwash

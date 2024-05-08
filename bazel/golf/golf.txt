@@ -4842,7 +4842,6 @@ greenwood
 guck
 gadling
 gitter
-ganocephalan
 goad
 groat
 gitterns
@@ -10705,6 +10704,7 @@ gustation
 gustative
 guergal
 gustativeness
+ganocephalan
 gustatorial
 gularis
 gustavus
