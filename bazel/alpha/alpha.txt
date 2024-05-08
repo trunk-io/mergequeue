@@ -2968,7 +2968,6 @@ ancylopoda
 acroparalysis
 anilopyrine
 amidopyrine
-astrild
 acropathy
 acropathology
 achromatin
@@ -7156,6 +7155,7 @@ aketon
 akha
 akhara
 akhyana
+astrild
 anecdotalist
 akhissar
 akhlame
