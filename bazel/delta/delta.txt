@@ -3219,7 +3219,6 @@ defector
 defectors
 duplicating
 despaired
-defectoscope
 defectum
 dehumidification
 defectuous
@@ -9633,6 +9632,7 @@ delative
 diiambus
 diverting
 diiodide
+defectoscope
 diiodoform
 diipenates
 diipolia
