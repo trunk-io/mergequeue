@@ -13664,7 +13664,6 @@ cylindroconoidal
 cylindrodendrite
 classicistic
 cylindrograph
-compilers
 cylindroid
 cylindroidal
 cylindroma
@@ -19923,6 +19922,7 @@ conjugating
 cerilla
 comm
 command
+compilers
 commandable
 commandant
 curtaxe
