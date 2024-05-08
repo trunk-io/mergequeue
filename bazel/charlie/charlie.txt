@@ -6831,6 +6831,7 @@ cellaring
 cellarmen
 cartograph
 cellars
+coalification
 chaplet
 charivariing
 cellarwoman
@@ -17229,7 +17230,6 @@ coaliest
 clubmen
 coalify
 cymbaline
-coalification
 coalified
 clinopinacoidal
 coalifies
