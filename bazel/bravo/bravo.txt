@@ -3591,7 +3591,6 @@ bulreedy
 blockhouse
 bastinadoes
 babesiasis
-beckoning
 bathyplankton
 baygall
 bathyscaph
@@ -9062,6 +9061,7 @@ bludgeoneer
 benzazide
 biolite
 blackfoot
+beckoning
 becapping
 biologic
 biologicohumanistic
