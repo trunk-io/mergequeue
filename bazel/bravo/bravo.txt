@@ -9685,7 +9685,6 @@ biborate
 bishopful
 bishophood
 bowwort
-bishoplike
 barbarianism
 baptists
 brucella
@@ -15817,6 +15816,7 @@ bromeliad
 bromelin
 bromelins
 batler
+bishoplike
 bryozoa
 beduke
 bromeosin
