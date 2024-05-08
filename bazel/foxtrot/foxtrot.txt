@@ -3203,7 +3203,6 @@ flanky
 fusilade
 fichus
 footsteps
-fundamentalness
 furling
 ficins
 ficklest
@@ -5848,6 +5847,7 @@ frigidoreceptor
 flocculose
 fluctuations
 flocculus
+fundamentalness
 flushes
 flocker
 flocky
