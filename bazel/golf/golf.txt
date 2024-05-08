@@ -2215,6 +2215,7 @@ gazpachos
 grainer
 graders
 gconv
+guck
 gdinfo
 gds
 grayfish
@@ -4834,7 +4835,6 @@ gaupus
 grovelers
 gytrash
 greenwood
-guck
 gadling
 gitter
 ganocephalan
