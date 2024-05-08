@@ -4404,6 +4404,7 @@ electrobioscopy
 encaged
 encages
 encalendar
+exocycloida
 encamping
 encampment
 encampments
@@ -12610,7 +12611,6 @@ epistylar
 explosible
 effulged
 escheat
-exocycloida
 eaglehawk
 estrangedness
 exoclinal
