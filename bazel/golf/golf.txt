@@ -1386,7 +1386,6 @@ ginkgo
 gardinol
 grippers
 gazania
-gestation
 garefowl
 goods
 garetta
@@ -5219,6 +5218,7 @@ glazers
 glazes
 glaziery
 glaziers
+gestation
 gullible
 grueling
 glazing
