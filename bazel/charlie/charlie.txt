@@ -242,7 +242,6 @@ ciconiid
 caccagogue
 currency
 cacciatora
-capeador
 chiquitan
 cacciatore
 cacei
@@ -13520,6 +13519,7 @@ cyclostome
 cyclostomes
 cyclostomi
 cyclostomidae
+capeador
 cyclostomous
 cedent
 cyclothymiac
