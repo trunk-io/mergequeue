@@ -3047,7 +3047,6 @@ elocutionize
 ellipsis
 emblematic
 ellipsograph
-ellipsoid
 ellipsoidal
 executiveness
 ellipsone
@@ -10217,6 +10216,7 @@ excentrical
 ethereally
 expwy
 etherealness
+ellipsoid
 epoptes
 estanciero
 escherichia
