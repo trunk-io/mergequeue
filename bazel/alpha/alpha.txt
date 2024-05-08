@@ -1305,6 +1305,7 @@ acarapis
 acarari
 acardite
 acarian
+asymtote
 acariasis
 acariatre
 acarid
@@ -21277,7 +21278,6 @@ asymptote
 accompletive
 asymptotes
 asymptotically
-asymtote
 aquafortist
 aggrievement
 asymtotic

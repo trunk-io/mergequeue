@@ -799,7 +799,6 @@ danegelds
 danelaw
 dungeon
 dermititis
-daneweed
 daneweeds
 danged
 detections
@@ -13780,6 +13779,7 @@ domesticize
 distant
 distantly
 distantness
+daneweed
 distaste
 distasted
 distasteful
