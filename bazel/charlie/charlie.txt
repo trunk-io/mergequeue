@@ -20532,7 +20532,6 @@ compatibilities
 compatible
 circumambages
 compatibleness
-compatibles
 compatriot
 compatriotic
 compatriotism
@@ -26706,6 +26705,7 @@ contendere
 cobus
 counteractively
 chinchier
+compatibles
 counteractivity
 counteracts
 chwas
