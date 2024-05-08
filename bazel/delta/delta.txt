@@ -2401,7 +2401,6 @@ decidedness
 decidence
 destabilized
 decider
-deciders
 disownment
 disguisements
 deciding
@@ -8943,6 +8942,7 @@ distilery
 dichotomize
 dichotomized
 dichotomousness
+deciders
 demographic
 diamylose
 dub
