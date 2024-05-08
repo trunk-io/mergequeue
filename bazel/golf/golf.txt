@@ -5101,7 +5101,6 @@ glareola
 gigantostracan
 gumshoing
 giganticidal
-greenable
 glareproof
 glyptologist
 globeflower
@@ -7054,6 +7053,7 @@ goosegrass
 goosehouse
 gonal
 gullability
+greenable
 grandson
 gell
 gestalter
