@@ -6756,7 +6756,6 @@ beryl
 beltways
 bitemporal
 beryllate
-berylliosis
 beryllonate
 beryllosis
 berimed
@@ -7244,6 +7243,7 @@ besteal
 bedcover
 bested
 besteer
+berylliosis
 bioflavonoid
 bestench
 bester
