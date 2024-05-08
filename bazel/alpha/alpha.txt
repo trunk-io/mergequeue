@@ -7897,7 +7897,6 @@ alecup
 alee
 alef
 assisters
-alefnull
 alefs
 aleft
 alefzero
@@ -10698,6 +10697,7 @@ amish
 amissibility
 affa
 amissible
+alefnull
 amissing
 amita
 amitabha
