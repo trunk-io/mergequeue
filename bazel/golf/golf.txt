@@ -2216,7 +2216,6 @@ guttur
 gazpachos
 grainer
 graders
-gcd
 gconv
 gdinfo
 gds
@@ -8339,6 +8338,7 @@ governmentalist
 gaffe
 gawsie
 gratin
+gcd
 gratingly
 globing
 gratings
