@@ -3596,7 +3596,6 @@ defuses
 defusion
 dingles
 defuze
-dolman
 defuzed
 dakoities
 defuzes
@@ -5436,6 +5435,7 @@ diamonds
 denuclearized
 denuclearizing
 denudant
+dolman
 denudate
 denudating
 dj
