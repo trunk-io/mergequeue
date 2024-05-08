@@ -3385,7 +3385,6 @@ beholders
 bassette
 bassetted
 bays
-bassetting
 bassi
 bassy
 bassia
@@ -18142,6 +18141,7 @@ bistouries
 butcheress
 butchery
 butcherly
+bassetting
 befamine
 butcherous
 butchers
