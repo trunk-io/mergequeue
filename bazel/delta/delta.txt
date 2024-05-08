@@ -6838,7 +6838,6 @@ destroyed
 desmine
 desmitis
 desmocytoma
-desmodactyli
 desmodynia
 desmodontidae
 desmogenous
@@ -17763,6 +17762,7 @@ deputation
 duboisin
 duboisine
 dubonnet
+desmodactyli
 dubonnets
 dubs
 duc
