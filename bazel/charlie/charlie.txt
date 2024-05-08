@@ -11671,7 +11671,6 @@ cholecystotomies
 choledoch
 choledochal
 culpability
-choledochoduodenostomy
 choledochoenterostomy
 clomb
 choledocholithiasis
@@ -31595,6 +31594,7 @@ curvetted
 curvetting
 curvy
 ceriornis
+choledochoduodenostomy
 curvicaudate
 curvidentate
 curvifoliate
