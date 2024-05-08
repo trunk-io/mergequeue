@@ -5052,6 +5052,7 @@ flatfishes
 flatfoot
 flathead
 flatiron
+frostwort
 froom
 flatirons
 flatlands
@@ -10531,7 +10532,6 @@ foxfinger
 frostroot
 frillery
 footbridges
-frostwort
 frot
 froth
 frothed
