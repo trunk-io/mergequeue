@@ -15910,6 +15910,7 @@ bromouracil
 bromphenol
 brompicrin
 breakfront
+burgh
 bromuret
 bromus
 bromvoel
@@ -17646,7 +17647,6 @@ burgessdom
 burgesses
 burggrave
 bello
-burgh
 burghal
 burghbote
 burgher
