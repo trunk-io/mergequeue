@@ -1378,6 +1378,7 @@ gardinol
 grippers
 gazania
 gestation
+gulley
 garefowl
 goods
 garetta
@@ -9800,7 +9801,6 @@ guam
 guama
 gris
 guamuchil
-gulley
 griqua
 guan
 gletscher

@@ -1298,7 +1298,6 @@ acapnia
 acapnias
 acapsular
 acapu
-acara
 acarapis
 acarari
 acardite
@@ -2039,6 +2038,7 @@ acetylize
 acetylized
 acetylizer
 acetylizing
+acara
 acetylmethylcarbinol
 acetylperoxide
 acetylphenylhydrazine
