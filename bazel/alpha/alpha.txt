@@ -9286,7 +9286,6 @@ aloose
 alop
 alopecia
 alopecias
-alopecic
 alopecoid
 alopecurus
 alopekai
@@ -14898,6 +14897,7 @@ antichance
 antichymosin
 antichlor
 antichlorine
+alopecic
 antichloristic
 antichlorotic
 anticholagogue
