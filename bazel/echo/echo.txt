@@ -5087,7 +5087,6 @@ ensurers
 endocranium
 enzootically
 ember
-endocrine
 endocrines
 endocrinic
 endocrinism
@@ -13256,6 +13255,7 @@ ethicalities
 eclipsareon
 exploringly
 encephalodialysis
+endocrine
 explosimeter
 englishmen
 explosion
