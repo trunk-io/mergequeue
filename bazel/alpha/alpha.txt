@@ -3984,7 +3984,6 @@ anaemia
 adjectional
 adjectitious
 anastatica
-absorptance
 adjectival
 autoactivation
 adjective
@@ -6386,6 +6385,7 @@ abortuses
 agouties
 apodous
 agoutis
+absorptance
 agleam
 agpaitic
 agr
