@@ -16892,7 +16892,6 @@ clubroot
 clubroots
 clubs
 clubstart
-clubster
 carpogonium
 cliffless
 clubweed
@@ -19069,6 +19068,7 @@ colliculate
 castigatories
 colliculus
 collide
+clubster
 cometographer
 collidin
 collidine
