@@ -454,6 +454,7 @@ gastrojejunal
 galeated
 galee
 gardenable
+gemlike
 gunnery
 gammexane
 galeeny
@@ -7660,7 +7661,6 @@ graduators
 graduses
 gherkin
 graecian
-gemlike
 graecize
 grumpish
 gashly
