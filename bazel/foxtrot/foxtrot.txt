@@ -6702,6 +6702,7 @@ finableness
 fogginess
 foggish
 flectional
+foreanswer
 foghorn
 flaggily
 fanflower
@@ -8612,7 +8613,6 @@ fillebeg
 filicides
 fumistery
 forswear
-foreanswer
 fields
 forswears
 fortake
