@@ -1658,6 +1658,7 @@ accosts
 accouche
 accouchement
 accoucheur
+ambiance
 accoucheurs
 accoucheuses
 account
@@ -9971,7 +9972,6 @@ antisepticise
 amberoid
 amberoids
 ambers
-ambiance
 ambiances
 ambicolorate
 ambicoloration
