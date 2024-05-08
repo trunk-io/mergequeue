@@ -18588,7 +18588,6 @@ coincline
 coincorporate
 coindicant
 coindication
-coindwelling
 coiner
 coiners
 comparograph
@@ -23576,6 +23575,7 @@ continuation
 continuatively
 continuativeness
 counterdemand
+coindwelling
 continuator
 continue
 continued
