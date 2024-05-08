@@ -1726,6 +1726,7 @@ exindusiate
 empory
 eyedropperful
 eyedroppers
+euclidean
 eyeflap
 eyefuls
 erratics
@@ -6303,7 +6304,6 @@ enroots
 embowed
 encirclement
 enrut
-euclidean
 earle
 ens
 emmenagogue
