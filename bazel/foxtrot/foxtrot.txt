@@ -3717,7 +3717,6 @@ farsakh
 filmcard
 filmcards
 fructuary
-filmdom
 fluxing
 filmer
 forborn
@@ -8088,6 +8087,7 @@ forethoughtfulness
 furnishings
 fleet
 featherhead
+filmdom
 forethrift
 fulminic
 fire
