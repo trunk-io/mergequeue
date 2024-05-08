@@ -16755,7 +16755,6 @@ aperient
 aperients
 aperiodic
 aperiodically
-average
 aperiodicity
 aperispermic
 aglet
@@ -21172,6 +21171,7 @@ adermia
 ashier
 ashiest
 alderliefest
+average
 annulli
 authenticalness
 ashimmer
