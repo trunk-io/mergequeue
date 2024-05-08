@@ -4850,7 +4850,6 @@ aenach
 aeneas
 aeneolithic
 androgenesis
-aenigmatite
 aeolia
 aeolian
 aeolic
@@ -23591,6 +23590,7 @@ allineate
 apologetics
 auricularian
 auricularias
+aenigmatite
 auricularis
 allothigenetic
 alowe
