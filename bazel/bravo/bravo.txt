@@ -848,7 +848,6 @@ bafflingness
 bedene
 baffs
 boltholes
-baft
 baftah
 bloodroots
 baga
@@ -13444,6 +13443,7 @@ beseeching
 boucher
 bouchette
 bouchon
+baft
 boucl
 boucle
 boucles

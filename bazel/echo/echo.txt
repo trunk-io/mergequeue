@@ -6361,7 +6361,6 @@ enshell
 enshelter
 enshield
 eprouvette
-enumerating
 enshielding
 enshrined
 enshrinement
@@ -12841,6 +12840,7 @@ exothecal
 exothecate
 exothermal
 exothermically
+enumerating
 exothermous
 elytriform
 exotica
