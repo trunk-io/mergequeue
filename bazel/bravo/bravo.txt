@@ -17045,6 +17045,7 @@ bulk
 backswept
 bishoping
 bulkage
+bimetallists
 bulkages
 bulked
 boldfaces
@@ -17765,7 +17766,6 @@ burliest
 burlily
 brachioganoid
 bratchet
-bimetallists
 burlington
 buyer
 burma
