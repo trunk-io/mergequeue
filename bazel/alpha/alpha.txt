@@ -20002,6 +20002,7 @@ armlessness
 armlets
 armlike
 armload
+auscultation
 armloads
 armlock
 armoire
@@ -23685,7 +23686,6 @@ androphobia
 auscultates
 atik
 auscultating
-auscultation
 auscultative
 auscultatory
 auscultoscope

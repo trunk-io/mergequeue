@@ -7167,7 +7167,6 @@ det
 detachable
 detachableness
 detached
-detachedly
 dilutors
 disparaging
 detachedness
@@ -14969,6 +14968,7 @@ dogger
 disembosom
 disarrangements
 doggerel
+detachedly
 doggerelism
 doggerelist
 desperate
