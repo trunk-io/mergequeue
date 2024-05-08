@@ -6385,7 +6385,6 @@ foredooms
 frogspawn
 fluorhydric
 fluoric
-fluoridate
 filtered
 formularization
 fluoridating
@@ -10390,6 +10389,7 @@ fingerleaf
 flackery
 frillies
 frondeurs
+fluoridate
 frondiferous
 feaze
 fiaunt
