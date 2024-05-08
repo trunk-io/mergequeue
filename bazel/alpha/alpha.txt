@@ -4186,7 +4186,6 @@ admissable
 admissibility
 admission
 admissions
-admissive
 admissively
 antiperistasis
 admissory
@@ -23132,6 +23131,7 @@ atticisms
 atticist
 atticize
 atticized
+admissive
 atticizing
 atticomastoid
 apiculture
