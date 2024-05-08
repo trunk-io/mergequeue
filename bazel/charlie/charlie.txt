@@ -7693,6 +7693,7 @@ cerebroganglionic
 cerebroid
 cerebromalacia
 cerebromeningeal
+comprobate
 cerebromeningitis
 carbolating
 cerebrometer
@@ -19645,7 +19646,6 @@ colza
 colzas
 com
 coma
-comprobate
 carillon
 comacine
 comade
