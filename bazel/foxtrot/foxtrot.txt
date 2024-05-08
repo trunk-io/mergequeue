@@ -4450,6 +4450,7 @@ fluocerite
 fistical
 fettucine
 faciolingual
+feuder
 feedable
 fisticuff
 fort
@@ -5777,7 +5778,6 @@ fishable
 faunas
 further
 flyweight
-feuder
 ferr
 fribblish
 flywinch
