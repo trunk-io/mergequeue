@@ -16786,7 +16786,6 @@ apes
 antiptosis
 apesthetic
 affiche
-apesthetize
 attachment
 apetaly
 apetalies
@@ -17982,6 +17981,7 @@ aphlaston
 appredicate
 apprehendable
 acetnaphthalide
+apesthetize
 apprehended
 anaclisis
 acquired
