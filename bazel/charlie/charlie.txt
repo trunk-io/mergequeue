@@ -87,6 +87,7 @@ cabble
 cabbled
 cabbler
 chars
+coinheritor
 cabdriving
 cabecudo
 capellet
@@ -18613,7 +18614,6 @@ coinherent
 catjang
 coinheritance
 circuting
-coinheritor
 coiny
 coining
 coinitial
