@@ -7180,6 +7180,7 @@ centimos
 centinel
 centinormal
 centipedes
+cordeliere
 crossties
 carites
 centiplume
@@ -29851,7 +29852,6 @@ crossette
 crossfall
 crossfertilizable
 crossfired
-cordeliere
 craniodidymus
 crossfiring
 crossfish
