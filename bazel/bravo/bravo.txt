@@ -2028,7 +2028,6 @@ baptanodon
 bazaars
 banjorine
 banjuke
-banjulele
 buntings
 boardman
 bank
@@ -16102,6 +16101,7 @@ broquery
 ballgown
 benzoline
 bros
+banjulele
 broses
 bloodhound
 brosy
