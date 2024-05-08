@@ -13138,7 +13138,6 @@ cyanoplastid
 couverte
 cyanoplatinite
 cyanoplatinous
-cyanose
 cyanosed
 cyanoses
 cyanosis
@@ -27075,6 +27074,7 @@ counterpropaganda
 counterpropagandize
 counterprophet
 conceptualization
+cyanose
 counterproposal
 counterproposition
 counterprotection
