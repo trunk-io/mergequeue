@@ -547,7 +547,6 @@ electronographic
 echinital
 echinite
 echinocaris
-echinocereus
 echinochrome
 echinococcosis
 echinococcus
@@ -12568,6 +12567,7 @@ exintine
 euphemy
 endocondensation
 endsweep
+echinocereus
 exist
 existed
 existent
