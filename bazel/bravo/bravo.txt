@@ -15931,7 +15931,6 @@ bronchoalveolar
 bronchoaspergillosis
 bronchoblennorrhea
 bronchobuster
-bronchocavernous
 batterable
 bronchocele
 bufotenin
@@ -17520,6 +17519,7 @@ brawlie
 bastardizing
 buntline
 buntlines
+bronchocavernous
 buoy
 braidings
 bipinnatiparted
