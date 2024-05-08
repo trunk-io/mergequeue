@@ -19504,6 +19504,7 @@ colours
 colourtype
 colp
 colpenchyma
+crispier
 colpeo
 colpeurysis
 colpheg
@@ -29395,7 +29396,6 @@ crisper
 crispers
 crispest
 cymbals
-crispier
 crispiest
 crispily
 crispin
