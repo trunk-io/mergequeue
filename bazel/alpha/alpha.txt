@@ -11229,7 +11229,6 @@ antapices
 anacamptometer
 admiralships
 amphisbaenas
-amphisbaenian
 amphisbaenidae
 amphisbaenoid
 amphiscians
@@ -15901,6 +15900,7 @@ antiphrastic
 antiphthisic
 antiepileptic
 antiphthisical
+amphisbaenian
 antipyic
 antipyics
 arctitude
