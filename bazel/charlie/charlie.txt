@@ -2641,7 +2641,6 @@ cankerfret
 crystall
 calcemia
 cankery
-cankering
 cestas
 cankerroot
 cankers
@@ -27725,6 +27724,7 @@ cowry
 cowrie
 cowries
 cowroid
+cankering
 cotwin
 cows
 campal

@@ -4745,7 +4745,6 @@ adz
 arcae
 adzer
 ae
-anetholes
 aeacides
 aeacus
 aechmophorus
@@ -4884,6 +4883,7 @@ aequipalpia
 aequor
 aequorin
 aequorins
+anetholes
 aer
 aerage
 aerarium
