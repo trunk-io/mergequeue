@@ -486,7 +486,6 @@ butteries
 bicentral
 bandeaux
 broomier
-backspang
 backspier
 beseeched
 backspierer
@@ -6247,6 +6246,7 @@ blacker
 blotchily
 beneficial
 beneficialness
+backspang
 beneficiaryship
 bluebooks
 beneficiate
