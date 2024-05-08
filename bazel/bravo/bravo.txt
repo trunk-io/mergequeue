@@ -1864,7 +1864,6 @@ benkulen
 banderol
 banderole
 biochemical
-banderoled
 brigading
 banders
 banjara
@@ -16535,6 +16534,7 @@ basiated
 bubbly
 bubblier
 bubbliest
+banderoled
 bubbliness
 brisky
 borer
