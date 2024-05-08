@@ -5419,7 +5419,6 @@ avadavats
 afflicts
 auctioneer
 affloof
-affluence
 affluency
 affluent
 affluently
@@ -12767,6 +12766,7 @@ angiocarp
 angiocarpian
 angiocarpic
 angiocarpous
+affluence
 angiocavernous
 angiocholecystitis
 angiochondroma
