@@ -5062,7 +5062,6 @@ enfield
 endocyst
 exclusionary
 endocystitis
-experted
 exploders
 eardrums
 earthbound
@@ -6889,6 +6888,7 @@ entomophthoraceous
 eschalot
 entomophthorales
 enfeoffed
+experted
 exsolved
 electroscopes
 elixirs
