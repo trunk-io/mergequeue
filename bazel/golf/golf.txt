@@ -5956,7 +5956,6 @@ guarea
 glucagons
 gate
 gynoecium
-glucate
 gnomonia
 glucemia
 gliders
@@ -7755,6 +7754,7 @@ gainable
 groundspeed
 gambias
 gangplank
+glucate
 graisse
 geodiatropism
 guestimate
