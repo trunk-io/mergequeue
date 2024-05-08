@@ -8139,7 +8139,6 @@ gleeked
 greases
 graphitization
 gondolier
-graphitize
 gyros
 geobiology
 glacioaqueous
@@ -9483,6 +9482,7 @@ glimes
 groupoid
 galbraithian
 gisla
+graphitize
 groupwise
 grouseberry
 groused
