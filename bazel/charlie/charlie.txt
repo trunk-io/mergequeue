@@ -902,7 +902,6 @@ canzo
 calaboose
 canelle
 calabooses
-calabozo
 calabrese
 calabrian
 calabrians
@@ -14263,6 +14262,7 @@ circue
 circuit
 circuitable
 circuital
+calabozo
 circuited
 circuiteer
 circuiter
