@@ -8531,7 +8531,6 @@ alkalous
 alkalurops
 algorithms
 alkamine
-alkanal
 alkanes
 alkanet
 alkanethiol
@@ -13396,6 +13395,7 @@ anisosepalous
 anisostaminous
 anisosthenic
 anisostichous
+alkanal
 anisostichus
 anisostomous
 anisotonic
