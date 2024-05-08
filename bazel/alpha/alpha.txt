@@ -5213,7 +5213,6 @@ aethalium
 aether
 aethereal
 aromacity
-ahrimanian
 aetheric
 affrication
 aethers
@@ -12057,6 +12056,7 @@ anastrophe
 anastrophy
 anastrophia
 anat
+ahrimanian
 anatabine
 anatase
 anatases
