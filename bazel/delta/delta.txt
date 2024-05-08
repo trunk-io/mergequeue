@@ -5504,7 +5504,6 @@ deodorization
 deodorize
 deodorized
 diolefinic
-deodorizer
 deodorizes
 deontological
 deontologist
@@ -6023,6 +6022,7 @@ dept
 depth
 depthen
 devitation
+deodorizer
 depthless
 depthlessness
 demonetization
