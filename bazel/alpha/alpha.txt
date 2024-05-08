@@ -2271,7 +2271,6 @@ achondroplastic
 achor
 achordal
 anthracemia
-alqueire
 achordata
 achordate
 achorion
@@ -6059,6 +6058,7 @@ advowry
 aggrandizement
 aggrandizements
 agriculture
+alqueire
 anthraphenone
 aggrandizer
 aggrandizers
