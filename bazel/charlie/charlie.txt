@@ -17150,6 +17150,7 @@ coagency
 coeloms
 coagencies
 coagent
+characid
 caftan
 customary
 coagents
@@ -29189,7 +29190,6 @@ cryotron
 crip
 crippied
 cripple
-characid
 crippledom
 crippleness
 crippler
