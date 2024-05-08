@@ -3161,7 +3161,6 @@ geophagia
 geophagies
 geophagism
 geophagist
-geophagous
 guanase
 gliff
 geophila
@@ -5770,6 +5769,7 @@ grutches
 glossa
 glossolabiolaryngeal
 glossal
+geophagous
 glossalgy
 glossalgia
 glossarial
