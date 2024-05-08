@@ -619,7 +619,6 @@ abode
 aboded
 abodement
 antarctic
-auditoria
 abodes
 abody
 aboding
@@ -5403,6 +5402,7 @@ absent
 afflatuses
 algesireceptor
 afflicted
+auditoria
 antiegotist
 afflictedness
 afflicter
