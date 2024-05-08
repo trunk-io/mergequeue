@@ -1058,7 +1058,6 @@ eqpt
 edestosaurus
 edgar
 edge
-embellishing
 edgebone
 emyd
 edgeboned
@@ -8001,6 +8000,7 @@ epinicia
 epinicial
 epinician
 epidermis
+embellishing
 epinicion
 epinyctis
 effervesce
