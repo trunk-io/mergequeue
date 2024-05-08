@@ -5773,7 +5773,6 @@ disposes
 deplume
 deplumes
 decarchy
-depluming
 dewanee
 demonland
 deplump
@@ -10709,6 +10708,7 @@ dippable
 dissipative
 dope
 dipper
+depluming
 dippers
 digitalize
 dippier
