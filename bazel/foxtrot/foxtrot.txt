@@ -8611,7 +8611,6 @@ fellatory
 fillebeg
 filicides
 fumistery
-forswear
 fields
 forswears
 fortake
@@ -9560,6 +9559,7 @@ frazzle
 flattop
 frazzled
 frazzles
+forswear
 frazzling
 frden
 freity
