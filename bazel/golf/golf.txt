@@ -161,7 +161,6 @@ gadus
 gadwall
 gadwalls
 gae
-glottalization
 gaedelian
 gael
 girth
@@ -483,6 +482,7 @@ gastrocoele
 gollar
 galenites
 galenobismutite
+glottalization
 galenoid
 guardedly
 galeod
