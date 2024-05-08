@@ -24640,7 +24640,6 @@ copyreaders
 copyreading
 curiosos
 copyrightable
-copyrighter
 copyrights
 copis
 committals
@@ -30166,6 +30165,7 @@ cruelty
 cruent
 cruentate
 colmar
+copyrighter
 cruentation
 cruentous
 caneton
