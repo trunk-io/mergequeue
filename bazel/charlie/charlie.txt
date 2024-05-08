@@ -7848,7 +7848,6 @@ certifiability
 certifiable
 coliiformes
 certifiableness
-certificate
 certificated
 certificates
 collisions
@@ -8867,6 +8866,7 @@ chapbook
 carbonylating
 chape
 chapeau
+certificate
 chaped
 cobriform
 chapeled
