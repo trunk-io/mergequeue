@@ -14826,7 +14826,6 @@ breakshugh
 besselian
 breakstone
 breakthrough
-breakthroughs
 barchan
 breakwater
 breakweather
@@ -15946,6 +15945,7 @@ bronchography
 bronchographic
 bronchohemorrhagia
 broncholemmitis
+breakthroughs
 bronchomycosis
 besought
 bronchomotor
