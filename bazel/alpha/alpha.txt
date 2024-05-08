@@ -3552,7 +3552,6 @@ alloisomeric
 appoggiatura
 additives
 additivity
-additory
 additum
 acetimeter
 additur
@@ -23065,6 +23064,7 @@ attenders
 attending
 actinologous
 artaba
+additory
 anticous
 attendingly
 attendment
