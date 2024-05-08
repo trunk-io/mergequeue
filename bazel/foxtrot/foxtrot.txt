@@ -4758,7 +4758,6 @@ factorylike
 feasting
 fustigate
 floor
-fickleness
 formalin
 fairishness
 fitchy
@@ -10423,6 +10422,7 @@ facewise
 frontalis
 frontally
 flatmate
+fickleness
 footgeld
 frontals
 frontbencher
