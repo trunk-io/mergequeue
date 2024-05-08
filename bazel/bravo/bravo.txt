@@ -4078,7 +4078,6 @@ bealtine
 bom
 beambird
 beamed
-beamer
 bestrut
 beamers
 beamfilling
@@ -9594,6 +9593,7 @@ bothridium
 burucha
 bisbeeite
 bluejack
+beamer
 brachiolarian
 biscacha
 biscayan

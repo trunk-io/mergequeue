@@ -3945,6 +3945,7 @@ fingerpost
 forfeited
 fingerprint
 fingerprints
+fivefold
 fingerroot
 fluorosis
 forleft
@@ -9707,7 +9708,6 @@ freesheet
 freesias
 freesilverism
 freesilverite
-fivefold
 freespace
 freest
 fluming
