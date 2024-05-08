@@ -20922,7 +20922,6 @@ compressibilities
 compressible
 compressibleness
 compressibly
-compression
 compressional
 compressive
 compressively
@@ -22529,6 +22528,7 @@ conjuncted
 circumcision
 conjunctional
 coohee
+compression
 conjunctionally
 conjunctions
 conjunctiva
