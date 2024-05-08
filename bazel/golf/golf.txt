@@ -5503,6 +5503,7 @@ glyphographic
 glyphs
 gharris
 greenness
+geosynchronous
 glyptic
 glyptician
 gibli
@@ -10305,7 +10306,6 @@ gynecologies
 gaspergous
 gladiest
 gagged
-geosynchronous
 goldfishes
 gobioidei
 gulancha
