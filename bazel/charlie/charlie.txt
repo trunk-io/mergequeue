@@ -9085,7 +9085,6 @@ chariotway
 conceivability
 charism
 charisma
-counterpointe
 charismas
 charismata
 consuete
@@ -10535,6 +10534,7 @@ cyrtidae
 chylaqueous
 chilaria
 coppernose
+counterpointe
 chilarium
 complimentable
 chilblain
