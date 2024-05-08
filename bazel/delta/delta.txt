@@ -5226,7 +5226,6 @@ directives
 doctrinalist
 dyings
 denitrated
-daemon
 denitrator
 deathly
 denitrify
@@ -11025,6 +11024,7 @@ disangularize
 disanimal
 disanimation
 despots
+daemon
 discomforted
 disannulled
 disannuller
