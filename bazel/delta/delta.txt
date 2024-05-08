@@ -4038,7 +4038,6 @@ delegacy
 domiculture
 delegalizing
 delegant
-delegare
 delegate
 dropline
 delegates
@@ -12164,6 +12163,7 @@ disfeaturement
 dialogised
 disfiguration
 declensional
+delegare
 disfigurative
 decertifying
 disfigure
