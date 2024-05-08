@@ -5437,7 +5437,6 @@ begumming
 begun
 begunk
 behale
-behalf
 behallow
 behammer
 behang
@@ -14925,6 +14924,7 @@ brechan
 brechans
 brecht
 beekeeper
+behalf
 billowy
 billitonite
 brechtian
