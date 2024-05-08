@@ -15374,7 +15374,6 @@ cartooned
 clamb
 clambake
 clamber
-clamberer
 colfox
 cassique
 chaining
@@ -28949,6 +28948,7 @@ cricoid
 cricoids
 cricopharyngeal
 cricothyreoid
+clamberer
 cricothyreotomy
 cojuror
 cricothyroidean
