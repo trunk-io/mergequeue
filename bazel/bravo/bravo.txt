@@ -4408,7 +4408,6 @@ batiker
 bec
 bowlders
 becall
-boisseaux
 bonehead
 becalm
 becalming
@@ -9748,6 +9747,7 @@ byspell
 bispinose
 bispinous
 bathybian
+boisseaux
 bisporous
 bisque
 bayeta
