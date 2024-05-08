@@ -4930,6 +4930,7 @@ falconries
 flanking
 flanks
 foremartyr
+frowsier
 faineantise
 flankwise
 flatbeds
@@ -10587,7 +10588,6 @@ frenchiness
 frownful
 frowns
 frows
-frowsier
 forstand
 frowsily
 footslogging
