@@ -6404,7 +6404,6 @@ dermoskeleton
 dermotropic
 derms
 ducula
-demurrable
 dern
 dietary
 derned
@@ -11880,6 +11879,7 @@ decumbence
 discussionis
 discussionist
 discussions
+demurrable
 dioptomiter
 discustom
 discutient
