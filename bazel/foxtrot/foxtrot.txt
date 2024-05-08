@@ -778,7 +778,6 @@ ferricyanogen
 funnellike
 fanfishes
 fabricable
-freemasonry
 fanfolds
 floggable
 fontina
@@ -11271,6 +11270,7 @@ faultfinding
 funmaking
 funnel
 flit
+freemasonry
 fingerflower
 frailly
 forpine
