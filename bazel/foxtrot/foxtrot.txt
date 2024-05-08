@@ -5133,6 +5133,7 @@ flapperish
 flaunters
 fitting
 fractural
+forenote
 flappier
 foretalk
 flaunty
@@ -7805,7 +7806,6 @@ flogger
 frondivorous
 forenoon
 forenoons
-forenote
 fibrilliform
 flattens
 fids
