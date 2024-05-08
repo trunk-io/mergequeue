@@ -11522,7 +11522,6 @@ embodying
 evictor
 evictors
 evidence
-evidences
 evidencing
 ethicophysical
 evident
@@ -12356,6 +12355,7 @@ exenterate
 exhalable
 equilucent
 exerce
+evidences
 exercent
 extradialectal
 exercise
