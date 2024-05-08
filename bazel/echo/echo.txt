@@ -1097,7 +1097,6 @@ edictum
 edicule
 edify
 echolalia
-edificate
 edification
 exfigure
 edificator
@@ -2965,6 +2964,7 @@ eliquate
 excrementize
 episplenitis
 entrenched
+edificate
 eliquidate
 elisabeth
 echelonment
