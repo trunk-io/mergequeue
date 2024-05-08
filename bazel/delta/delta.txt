@@ -4551,6 +4551,7 @@ demy
 dovetailing
 diffinity
 dismisser
+disjoinable
 demiangel
 duces
 demiassignation
@@ -12585,7 +12586,6 @@ disjaskit
 disject
 disjected
 disjoin
-disjoinable
 disjoining
 dastard
 descendentalist
