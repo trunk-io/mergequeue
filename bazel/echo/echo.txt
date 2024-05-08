@@ -2317,7 +2317,6 @@ electrochemical
 electrochemistry
 electrochronometer
 equison
-electrochronometric
 electroplating
 electroplates
 ejam
@@ -8175,6 +8174,7 @@ episioplasty
 episiorrhagia
 extralinguistically
 electrolysis
+electrochronometric
 electromotivity
 exulting
 episiorrhaphy
