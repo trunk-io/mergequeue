@@ -4124,7 +4124,6 @@ fringilliform
 fritt
 feuage
 farness
-firedamp
 feezing
 fetus
 firedamps
@@ -5395,6 +5394,7 @@ flesher
 fossilizable
 fleshful
 friseurs
+firedamp
 fleshhood
 farcied
 fleshy
