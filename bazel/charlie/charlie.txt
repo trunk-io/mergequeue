@@ -12030,6 +12030,7 @@ chorial
 choriamb
 choriambi
 choriambic
+clockings
 costeen
 choriambize
 confarreate
@@ -16506,7 +16507,6 @@ clocker
 clockface
 clockhouse
 clocking
-clockings
 clockless
 cuon
 clockmaker

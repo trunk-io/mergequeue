@@ -12594,7 +12594,6 @@ disjointedly
 disjointedness
 disjointing
 disjointly
-disjointness
 dulia
 disjoints
 disjointure
@@ -18518,6 +18517,7 @@ diphthonged
 deterrer
 durmast
 durndest
+disjointness
 durned
 durneder
 durnedest
