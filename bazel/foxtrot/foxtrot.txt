@@ -6808,7 +6808,6 @@ filla
 foldedly
 folden
 fusspot
-flouncey
 foretokening
 fanlight
 featherpated
@@ -7246,6 +7245,7 @@ fliest
 fakeers
 frozenness
 floorboards
+flouncey
 footstall
 footstock
 fortlet
