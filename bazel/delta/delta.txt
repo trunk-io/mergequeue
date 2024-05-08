@@ -2642,7 +2642,6 @@ decoloration
 desalter
 decoloring
 decolorisation
-decoloriser
 decolorising
 dispose
 decolorization
@@ -14895,6 +14894,7 @@ dodonean
 disdainous
 decoyed
 dodos
+decoloriser
 dodrans
 dods
 doe
