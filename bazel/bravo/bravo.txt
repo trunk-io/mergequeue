@@ -4592,7 +4592,6 @@ bed
 bool
 bedabble
 beagles
-bequirtle
 bedabbling
 bassalian
 barricadoed
@@ -13974,6 +13973,7 @@ brachycrany
 bowpot
 brachycranial
 brachycranic
+bequirtle
 brachydactyl
 belltopper
 brachydactyly

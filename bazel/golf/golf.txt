@@ -6307,7 +6307,6 @@ glyptodontidae
 goatbeard
 gatepost
 gausses
-goatbush
 gervase
 gollywobbler
 gamblesome
@@ -7479,6 +7478,7 @@ gombay
 garron
 gymnast
 governless
+goatbush
 governmental
 governmentalize
 geodesies
