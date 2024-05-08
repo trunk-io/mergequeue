@@ -4156,7 +4156,6 @@ cookey
 chrysolophus
 cardioncus
 cardionecrosis
-cardionephric
 cardioneurosis
 cardionosus
 conjugably
@@ -7503,6 +7502,7 @@ cepheids
 cephen
 coastings
 cephid
+cardionephric
 cephidae
 cephus
 cepolidae
