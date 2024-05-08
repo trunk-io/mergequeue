@@ -3199,6 +3199,7 @@ capistrate
 capita
 catenated
 capital
+chevronny
 capitaldom
 capitaled
 capitaling
@@ -10242,7 +10243,6 @@ chevrone
 chiropatagium
 chevronel
 chevronelly
-chevronny
 chevronwise
 chevrotain
 chevvy
