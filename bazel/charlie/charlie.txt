@@ -29568,7 +29568,6 @@ cro
 croak
 croqueting
 croaked
-croaker
 conceptually
 croakers
 croaky
@@ -30610,6 +30609,7 @@ cuddle
 circularize
 cuddleable
 cuddled
+croaker
 cuddlesome
 cuddlier
 cuddliest
