@@ -1487,6 +1487,7 @@ efs
 efts
 eftsoons
 eg
+exequial
 egad
 elderlies
 eligent
@@ -2181,7 +2182,6 @@ encipherer
 eldermen
 elders
 equiangular
-exequial
 exhortatively
 eldersisterly
 elderwoman
