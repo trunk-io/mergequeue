@@ -2064,6 +2064,7 @@ garland
 gaup
 gas
 goring
+gardbrace
 gunfought
 gliomatous
 gladrags
@@ -10589,7 +10590,6 @@ gunsmithing
 gonocalyx
 gloomiest
 gonadotropic
-gardbrace
 gunmanship
 gastrocnemius
 gunstick
