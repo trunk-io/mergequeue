@@ -6091,7 +6091,6 @@ enneahedron
 eyepoints
 enneahedrons
 eustatic
-ethnicize
 enneandrian
 egotisms
 exorcisers
@@ -6448,6 +6447,7 @@ emit
 ectodactylism
 ensoul
 ensouled
+ethnicize
 energist
 erythrinus
 ecru
