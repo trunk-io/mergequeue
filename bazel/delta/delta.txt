@@ -6860,7 +6860,6 @@ derivative
 desmopathology
 desmopelmous
 desmopexia
-desmopyknosis
 desmorrhexis
 desmoscolecidae
 desmoscolex
@@ -14979,6 +14978,7 @@ dingeys
 deamidate
 decnet
 doggers
+desmopyknosis
 doggess
 deodands
 doggy
