@@ -8347,7 +8347,6 @@ dargue
 duchies
 dialed
 dyed
-dialycarpous
 dialin
 dissonant
 dialiness
@@ -12509,6 +12508,7 @@ dar
 disinfestation
 dualities
 divagation
+dialycarpous
 disinflate
 disinflationary
 disingenious
