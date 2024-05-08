@@ -21755,7 +21755,6 @@ assess
 assessable
 antitartaric
 assessably
-archplagiary
 assessed
 assessing
 assession
@@ -23026,6 +23025,7 @@ attatched
 attatches
 atte
 atteal
+archplagiary
 ammonolyze
 antheriform
 attemperament
