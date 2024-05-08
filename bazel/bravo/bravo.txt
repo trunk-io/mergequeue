@@ -5790,7 +5790,6 @@ belknap
 bell
 bonos
 bellacoola
-belladonna
 bifidities
 biltongs
 bellatrix
@@ -14672,6 +14671,7 @@ braveness
 braver
 boschboks
 bravers
+belladonna
 braves
 bravi
 bayoneted

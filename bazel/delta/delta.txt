@@ -6304,7 +6304,6 @@ dodecanesian
 dermatopathology
 dermatopathophobia
 dermatophyte
-dermatophytosis
 dermatophone
 dermatophony
 dunking
@@ -13004,6 +13003,7 @@ disembower
 dimin
 dispendiously
 dispenditure
+dermatophytosis
 dispensability
 deducible
 dispensableness
