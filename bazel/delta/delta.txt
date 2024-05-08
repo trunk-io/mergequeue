@@ -3857,7 +3857,6 @@ deimos
 deincrustant
 dizzied
 deindividualization
-deindividualize
 dicarboxylate
 differential
 deinoceras
@@ -14114,6 +14113,7 @@ disuse
 disbarments
 disbranching
 disused
+deindividualize
 disuses
 disutility
 disinsection
