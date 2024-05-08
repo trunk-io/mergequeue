@@ -1100,7 +1100,6 @@ edify
 echolalia
 edificate
 edification
-edificative
 exfigure
 edificator
 elderhood
@@ -5211,6 +5210,7 @@ endophlebitis
 endophragm
 embarcadero
 endophragmal
+edificative
 enantiomeride
 embeam
 eupneic
