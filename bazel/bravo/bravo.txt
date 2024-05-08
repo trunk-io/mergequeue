@@ -9366,6 +9366,7 @@ bathroom
 birchwood
 bandoline
 brindle
+brontogram
 birdbander
 birdbanding
 bathwater
@@ -13241,7 +13242,6 @@ botany
 botanic
 botanica
 bandoleered
-brontogram
 botanical
 bivaulted
 botanically
