@@ -7412,6 +7412,7 @@ cephalobranchiata
 cephalocathartic
 carks
 cephalocaudal
+cypseli
 cupels
 cephalocele
 cephalocentesis
@@ -14205,7 +14206,6 @@ cypris
 cyproterone
 cyprus
 cypsela
-cypseli
 criterion
 cypselidae
 cypseliform
