@@ -1562,6 +1562,7 @@ ballgames
 ballgowns
 ballhausplatz
 ballhawks
+baragouinish
 ballhooter
 balli
 bullwhack
@@ -6647,7 +6648,6 @@ berceaunette
 berceuses
 bournous
 bagattino
-baragouinish
 berchemia
 berdache
 berdaches

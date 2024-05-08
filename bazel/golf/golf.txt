@@ -4894,7 +4894,6 @@ gjetosts
 gl
 galvanise
 graspable
-graftdom
 glaciable
 gatelike
 glabella
@@ -10043,6 +10042,7 @@ guerdons
 guereba
 guidecraft
 gravenstein
+graftdom
 glycocin
 gadflies
 guereza
