@@ -1725,6 +1725,7 @@ baloskion
 baloskionaceae
 bulbels
 balow
+baser
 blending
 bals
 balsa
@@ -3134,7 +3135,6 @@ barquest
 branchway
 baseplug
 basepoint
-baser
 bortsch
 baserunning
 besetter

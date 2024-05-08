@@ -6568,7 +6568,6 @@ athelia
 agudist
 agueproof
 agueweeds
-axal
 aguglia
 arachnidan
 aguilt
@@ -22664,6 +22663,7 @@ athwart
 assuredly
 athwartship
 acrimoniously
+axal
 athwartships
 athwartwise
 actian
