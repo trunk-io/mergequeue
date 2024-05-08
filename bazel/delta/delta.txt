@@ -3732,7 +3732,6 @@ dehepatize
 dehgan
 dehydrase
 dozinesses
-dimensioned
 doolies
 dehydrate
 dehydrates
@@ -8585,6 +8584,7 @@ diaphysial
 diaphonia
 duenna
 deliberates
+dimensioned
 diaphonic
 diaphonical
 diaphonies
