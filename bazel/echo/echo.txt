@@ -1605,7 +1605,6 @@ egohood
 elutriating
 enlivens
 egoism
-entrenchments
 eggheadedness
 egoist
 egoistical
@@ -5293,6 +5292,7 @@ equilibrist
 endomorphism
 extispices
 endosomes
+entrenchments
 endospermic
 endospermous
 endospore
