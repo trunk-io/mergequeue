@@ -3674,6 +3674,7 @@ cognates
 carapacic
 carapax
 carapaxes
+coracobrachial
 coachable
 carapidae
 carapine
@@ -24858,7 +24859,6 @@ coracle
 carders
 coracles
 coracoacromial
-coracobrachial
 calcimeter
 coracobrachialis
 coracoclavicular
