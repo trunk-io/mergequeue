@@ -3303,6 +3303,7 @@ battle
 basiradial
 basirostral
 basiscopic
+bonitarian
 blepharitic
 basisidia
 balladwise
@@ -12497,7 +12498,6 @@ bordered
 bonitary
 bepommel
 beauing
-bonitarian
 bonity
 bullhide
 bonito
