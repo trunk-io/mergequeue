@@ -2443,7 +2443,6 @@ electrohomeopathy
 embassador
 endexines
 electromyographically
-electroimpulse
 electroindustrial
 electroing
 eductions
@@ -6489,6 +6488,7 @@ euorthoptera
 entablements
 entackle
 entad
+electroimpulse
 endpleasure
 entail
 entails
