@@ -1261,7 +1261,6 @@ caliber
 calibers
 cunas
 clavicembali
-calibogus
 colunar
 calibrated
 canichana
@@ -12226,6 +12225,7 @@ camelman
 caliginousness
 chris
 chrysal
+calibogus
 chrysalid
 coronet
 chrysalida
