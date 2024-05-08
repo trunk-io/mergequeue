@@ -9423,7 +9423,6 @@ digallic
 dehematize
 digamy
 digamies
-digamma
 digammas
 digammate
 digammated
@@ -18390,6 +18389,7 @@ disembody
 duotriacontane
 duotriode
 duoviri
+digamma
 dup
 dupable
 dupatta
