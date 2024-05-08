@@ -9495,7 +9495,6 @@ grouselike
 gem
 gloving
 grouser
-gigantocyte
 gnomonical
 gaed
 gospel
@@ -10852,6 +10851,7 @@ gweducks
 gavages
 gweed
 gemmation
+gigantocyte
 gweeon
 gwely
 geomagnetician
