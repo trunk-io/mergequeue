@@ -1292,6 +1292,7 @@ daughter
 dogate
 detonators
 daughterkin
+driving
 desorb
 daughterless
 daughterly
@@ -17266,7 +17267,6 @@ delving
 dingoes
 distanced
 drivewell
-driving
 drywall
 dryworker
 dodding
