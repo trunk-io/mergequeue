@@ -1693,7 +1693,6 @@ eyebalm
 eyebar
 eyebeam
 eyebeams
-expire
 effie
 eyeberry
 ertebolle
@@ -9764,6 +9763,7 @@ espieglerie
 edulcorated
 euryon
 espinal
+expire
 espinel
 electrogalvanic
 epimerize

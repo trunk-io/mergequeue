@@ -5062,7 +5062,6 @@ aerometer
 aerometry
 abluted
 agenizes
-aerometric
 aeromotor
 aeronat
 aeronaut
@@ -17057,6 +17056,7 @@ apyrexy
 apyrexial
 antiscience
 apyrotype
+aerometric
 articulating
 anteverts
 apish
