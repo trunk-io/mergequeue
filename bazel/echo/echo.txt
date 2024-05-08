@@ -692,7 +692,6 @@ eccles
 eclogues
 eclosion
 eclosions
-engaging
 excursionism
 esteros
 enanthesis
@@ -2434,6 +2433,7 @@ elytrtra
 electrograving
 erythrophyllin
 enstatite
+engaging
 electrogasdynamics
 electroharmonic
 empanelment
