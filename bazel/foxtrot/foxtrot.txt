@@ -1435,6 +1435,7 @@ facto
 fatnesses
 fylgjur
 fats
+filer
 fluctuosity
 fatshedera
 fatsia
@@ -7534,7 +7535,6 @@ fallacious
 forechase
 fuzils
 foretake
-filer
 foregame
 fetisheer
 frocks
