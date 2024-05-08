@@ -877,7 +877,6 @@ abscisins
 abscissae
 abscissas
 abscisse
-arctogaea
 amphicyrtous
 abscission
 absconce
@@ -21927,6 +21926,7 @@ alternations
 assort
 assortatively
 assorted
+arctogaea
 assortedness
 assorter
 assortment
