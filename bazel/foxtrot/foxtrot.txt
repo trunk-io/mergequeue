@@ -4260,6 +4260,7 @@ faventine
 firoloida
 flammability
 folderol
+freestanding
 facia
 first
 forbearer
@@ -9713,7 +9714,6 @@ freespace
 freest
 fluming
 fibrofatty
-freestanding
 fortunetell
 fogramite
 favoured
