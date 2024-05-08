@@ -11257,7 +11257,6 @@ blown
 blowoff
 blowouts
 banana
-bolster
 blowproof
 blows
 biologism
@@ -12951,6 +12950,7 @@ border
 blackberry
 bakeboard
 bordering
+bolster
 borderings
 borders
 botrydium
