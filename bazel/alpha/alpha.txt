@@ -4217,6 +4217,7 @@ admonish
 admonished
 admonishes
 anaesthetizing
+ataraxies
 apercu
 admonishingly
 admonishments
@@ -22451,7 +22452,6 @@ ataraxy
 ataraxia
 ataraxic
 ataraxics
-ataraxies
 affectlessness
 atatschite
 ataunt
