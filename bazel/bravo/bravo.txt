@@ -2036,7 +2036,6 @@ barat
 bankalachi
 bankbooks
 basti
-bankcard
 becrawl
 bankcards
 banked
@@ -4371,6 +4370,7 @@ beblubber
 basurale
 beblubbered
 bebog
+bankcard
 bebop
 bebopper
 beboppers
