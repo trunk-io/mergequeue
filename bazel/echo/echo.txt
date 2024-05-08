@@ -2698,7 +2698,6 @@ electrowinning
 entermete
 electrogilding
 electuaries
-eudidymite
 enceint
 eledone
 eleemosinar
@@ -5695,6 +5694,7 @@ engineers
 engineless
 engineman
 enginemen
+eudidymite
 extruct
 enginery
 engineries
