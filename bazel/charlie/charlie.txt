@@ -181,7 +181,6 @@ cabooses
 caboshed
 chloroanemia
 cabot
-cabotage
 cabotages
 clangored
 carmagnoles
@@ -16724,6 +16723,7 @@ cirrus
 clothesline
 clotheslines
 clothesman
+cabotage
 carbamoyl
 cosuitor
 clothespin
