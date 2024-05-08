@@ -4629,7 +4629,6 @@ adverbless
 adverbs
 adversa
 adversant
-adversaria
 adversariness
 adversative
 adversatively
@@ -6244,6 +6243,7 @@ aglyphodont
 aglyphodonta
 aglyphous
 alcyones
+adversaria
 aglitter
 aspartokinase
 aglossa
