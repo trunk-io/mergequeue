@@ -12823,7 +12823,6 @@ bootees
 booter
 blunging
 bootery
-booth
 boothage
 boothale
 bootheel
@@ -17239,6 +17238,7 @@ bullseye
 binbashi
 bullshitting
 barbeiro
+booth
 birthdom
 begat
 bullskin
