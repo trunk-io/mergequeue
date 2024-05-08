@@ -681,7 +681,6 @@ dampishness
 dampne
 disseminate
 dampness
-dampproof
 dampproofer
 dampproofing
 damselfish
@@ -7349,6 +7348,7 @@ dissociate
 detonate
 detonating
 detonation
+dampproof
 detonations
 detonative
 detonator
