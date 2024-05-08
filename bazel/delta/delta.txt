@@ -10692,7 +10692,6 @@ demorage
 disendower
 drownproofing
 deoxidise
-disbutton
 dipneumonous
 dipneust
 dipnoans
@@ -16873,6 +16872,7 @@ drawout
 drawplate
 domicilii
 drawpoint
+disbutton
 draws
 drawsheet
 drawspring
