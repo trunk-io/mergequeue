@@ -3093,6 +3093,7 @@ capcase
 cape
 chequerboard
 capeadores
+cartwright
 caped
 capel
 capelan
@@ -30382,7 +30383,6 @@ ctenodont
 criers
 ctenodus
 ctenoid
-cartwright
 ctenoidean
 curatize
 carrys
