@@ -17615,6 +17615,7 @@ adducers
 appalto
 appanage
 appanaged
+ascending
 acrocera
 appanages
 appanaging
@@ -20972,7 +20973,6 @@ adeuism
 ascendent
 ascendible
 arbitrament
-ascending
 ascendingly
 ascends
 avgases
