@@ -3702,6 +3702,7 @@ degrease
 deplantation
 degreaser
 degreases
+diffusor
 dishling
 decadescent
 dentiloquy
@@ -17655,7 +17656,6 @@ druses
 dishevels
 deuteropathy
 deliquesced
-diffusor
 drusy
 dreamfulness
 druther
