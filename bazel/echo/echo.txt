@@ -5533,6 +5533,7 @@ etherlike
 enheritance
 enfeoffing
 episcopant
+entelechies
 enfeoffment
 enfester
 enfettered
@@ -6534,7 +6535,6 @@ ecumenically
 enaction
 entelam
 equilibrations
-entelechies
 entelodon
 entelodont
 entender
