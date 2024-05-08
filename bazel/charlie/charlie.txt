@@ -2081,7 +2081,6 @@ camper
 channeler
 campers
 chiloma
-campesino
 campesinos
 campestral
 cordelier
@@ -2940,6 +2939,7 @@ canty
 choledochitis
 cantic
 canticle
+campesino
 canticles
 cantiga
 cantilated
