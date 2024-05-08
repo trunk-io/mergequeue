@@ -4318,7 +4318,6 @@ felspathose
 fishet
 ferneries
 fish
-fishfinger
 fluxionary
 footgear
 fishgarth
@@ -8715,6 +8714,7 @@ frizzled
 formant
 fortunate
 fortunately
+fishfinger
 fortunateness
 fissileness
 fillers
