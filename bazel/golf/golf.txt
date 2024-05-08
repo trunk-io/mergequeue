@@ -4873,7 +4873,6 @@ giveaways
 genies
 givens
 garderobe
-giver
 givers
 gladeye
 glossematics
@@ -5698,6 +5697,7 @@ glomera
 game
 glomerella
 glomeroporphyritic
+giver
 groundedness
 gallinago
 gradative
