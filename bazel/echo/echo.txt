@@ -2782,7 +2782,6 @@ elengely
 encl
 emitter
 electrometallurgical
-eleoblast
 eleolite
 eleomargaric
 eleonorite
@@ -4165,6 +4164,7 @@ eatche
 energids
 empoison
 empoisoned
+eleoblast
 encaustes
 evocators
 etherol
