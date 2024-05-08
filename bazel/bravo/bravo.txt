@@ -386,6 +386,7 @@ baseballdom
 backyard
 bindlet
 boron
+bandfiled
 bullocky
 beri
 backie
@@ -1868,7 +1869,6 @@ banders
 banjara
 bandersnatch
 bandfile
-bandfiled
 bandgap
 bandh
 burdon
