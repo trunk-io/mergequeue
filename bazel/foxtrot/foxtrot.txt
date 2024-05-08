@@ -1047,7 +1047,6 @@ fanes
 farish
 farkleberry
 farkleberries
-farley
 farles
 feast
 frowzier
@@ -6134,6 +6133,7 @@ feigner
 fetidity
 flouts
 foredoor
+farley
 fuses
 furdle
 flowable
