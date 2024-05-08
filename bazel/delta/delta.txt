@@ -79,7 +79,6 @@ dactylically
 dactylics
 darndests
 dactylioglyph
-dactylioglyphic
 dacoiting
 dactylioglyphist
 dactyliography
@@ -2324,6 +2323,7 @@ dekaparsec
 deformism
 decentred
 decentring
+dactylioglyphic
 danglement
 drat
 dermoreaction
