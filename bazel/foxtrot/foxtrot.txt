@@ -207,7 +207,6 @@ fifing
 fazenda
 forebar
 factotum
-factotums
 ferrihemoglobin
 fellsman
 factrix
@@ -8461,6 +8460,7 @@ formicoidea
 formidable
 floormen
 furoin
+factotums
 florissant
 formidolous
 formylal

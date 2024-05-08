@@ -4933,7 +4933,6 @@ endeavorer
 endamaging
 edificable
 endeavors
-emulsifiable
 enthronise
 endeavoured
 endeavourer
@@ -8642,6 +8641,7 @@ elderbrotherhood
 extraliminal
 epicyclical
 equilibriums
+emulsifiable
 equiliria
 equilobed
 ecstasy
