@@ -11240,7 +11240,6 @@ amphispore
 amphistylic
 amphistoma
 africans
-amphistomatic
 amphistome
 asyllabic
 amphitene
@@ -12616,6 +12615,7 @@ anetic
 avertible
 anetiological
 aneuch
+amphistomatic
 arhatship
 aneuploid
 aneuploidy
