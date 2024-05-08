@@ -6077,7 +6077,6 @@ bemeaned
 bemeans
 bemedaled
 bementite
-blanda
 bemercy
 bemete
 bemingled
@@ -14231,6 +14230,7 @@ braggishly
 braggite
 braggle
 boussingaultia
+blanda
 bragi
 bragite
 bird
