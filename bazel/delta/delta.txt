@@ -14459,7 +14459,6 @@ divisibleness
 division
 durango
 dollop
-divisional
 diachronicness
 durio
 divisionary
@@ -17616,6 +17615,7 @@ drumroll
 drumrolls
 drums
 drumslade
+divisional
 drumstick
 drumsticks
 diplokaryon
