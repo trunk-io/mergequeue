@@ -13439,7 +13439,6 @@ ankylosis
 ankylostomiasis
 ankylotia
 ankylotic
-allotriodontia
 ankylotomy
 ankle
 anklejack
@@ -14707,6 +14706,7 @@ antiagglutinative
 antiaggression
 antiaggressionist
 antiaggressively
+allotriodontia
 antiaggressiveness
 antiaircraft
 antialbumin
