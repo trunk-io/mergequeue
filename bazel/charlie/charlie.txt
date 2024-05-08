@@ -15684,7 +15684,6 @@ classiness
 classis
 classism
 classists
-classless
 classlessness
 cytopathology
 classmanship
@@ -18523,6 +18522,7 @@ chebulinic
 considerateness
 coyer
 coyest
+classless
 coif
 coifed
 coiffe
