@@ -5322,7 +5322,6 @@ giftless
 glaucophane
 grippy
 gyrant
-gloppy
 gorilla
 glibly
 glibness
@@ -6008,6 +6007,7 @@ goldfinch
 gawney
 growler
 gipsyweed
+gloppy
 glucoses
 glances
 glucoside
