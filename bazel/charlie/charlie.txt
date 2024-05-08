@@ -158,7 +158,6 @@ cabling
 cablish
 campmaster
 copellidine
-cabmen
 cabob
 coredeem
 caboceer
@@ -4803,6 +4802,7 @@ carpos
 chibouk
 carposporangial
 cerebropathy
+cabmen
 carposporangium
 catalase
 carpospore
