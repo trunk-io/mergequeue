@@ -7251,6 +7251,7 @@ fakeers
 frozenness
 floorboards
 footstall
+fevercup
 footstock
 fortlet
 fraternising
@@ -10009,7 +10010,6 @@ friendliest
 forepeaks
 friendlike
 friendliwise
-fevercup
 fuse
 fenestrone
 fleawood
