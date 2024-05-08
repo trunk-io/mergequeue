@@ -423,6 +423,7 @@ glucogenesis
 galbula
 gd
 galatine
+giantsize
 gelled
 galavanting
 galaxes
@@ -3801,7 +3802,6 @@ giants
 gratifyingly
 giantship
 gastroesophagostomy
-giantsize
 gujrati
 ghafir
 goodish
