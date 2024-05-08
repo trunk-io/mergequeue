@@ -13826,7 +13826,6 @@ bowlfuls
 bowly
 burghs
 bowlike
-bowline
 bowlings
 bowllike
 bacalaos
@@ -15641,6 +15640,7 @@ broadwife
 broadwise
 boutel
 brob
+bowline
 brobdingnag
 betorcin
 brocade
