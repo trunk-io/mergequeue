@@ -4903,7 +4903,6 @@ canonization
 carrotwood
 carrousel
 carrousels
-compiles
 carrs
 cars
 carse
@@ -13954,6 +13953,7 @@ cinematographic
 clarenceuxship
 caving
 cinematographical
+compiles
 chkfil
 cantharidin
 cinematographically
