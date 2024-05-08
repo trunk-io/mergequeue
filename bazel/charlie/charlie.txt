@@ -10947,7 +10947,6 @@ chippage
 cordwain
 chippendale
 chipper
-chemiatrist
 chippered
 chippering
 chippers
@@ -25267,6 +25266,7 @@ corium
 corixa
 cytomitome
 corixidae
+chemiatrist
 coryza
 coryzal
 coryzas
