@@ -9008,6 +9008,7 @@ allotypies
 aquabib
 allotment
 allotments
+adhesivemeter
 allotransplant
 allotransplantation
 adversaries
@@ -20557,7 +20558,6 @@ artesonado
 achieves
 artesonados
 artful
-adhesivemeter
 aforesaid
 artfulness
 artgum
