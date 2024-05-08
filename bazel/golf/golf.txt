@@ -4875,7 +4875,6 @@ giver
 givers
 gladeye
 glossematics
-gagroot
 gyves
 givingness
 gizmos
@@ -10016,6 +10015,7 @@ grandstands
 globs
 graybeard
 gudgeons
+gagroot
 graphidiaceae
 gowned
 gudget
