@@ -463,6 +463,7 @@ disintermediation
 dakotas
 daks
 dalaga
+desks
 diatropic
 dalai
 dalapons
@@ -6810,7 +6811,6 @@ deskbound
 deskill
 desklike
 deskman
-desks
 deleted
 destined
 deslime
