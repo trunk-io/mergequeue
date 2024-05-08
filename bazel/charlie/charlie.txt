@@ -1655,7 +1655,6 @@ calorized
 calorizer
 calorizes
 calorizing
-calosoma
 calotermes
 calothrix
 calotype
@@ -9716,6 +9715,7 @@ cyathaspis
 caingua
 cheerled
 cheerlessly
+calosoma
 cheerlessness
 cheerly
 crustedly
