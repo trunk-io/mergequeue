@@ -739,6 +739,7 @@ burtree
 breathable
 baddie
 betimber
+boga
 baddies
 babyish
 baddish
@@ -9453,7 +9454,6 @@ benedictus
 breme
 birdwitted
 birdwoman
-boga
 bloodripe
 byre
 bengaline
