@@ -12636,7 +12636,6 @@ booker
 bucktail
 bookery
 bookers
-birdlike
 bookfold
 bookhood
 bloodhounds
@@ -15923,6 +15922,7 @@ barie
 bronchoalveolar
 bronchoaspergillosis
 bronchoblennorrhea
+birdlike
 bronchobuster
 bronchocavernous
 batterable
