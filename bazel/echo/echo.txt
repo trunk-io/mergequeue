@@ -6734,7 +6734,6 @@ entheasm
 enfuddle
 enthelminthic
 enthetic
-enthymematic
 enthymeme
 entremess
 enwingly
@@ -7544,6 +7543,7 @@ ectoprocta
 espiglerie
 epicede
 epicedia
+enthymematic
 epicedial
 epicedian
 extracolumella

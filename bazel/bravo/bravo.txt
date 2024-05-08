@@ -2572,6 +2572,7 @@ baryon
 baryonic
 baryphonia
 baryphonic
+bondar
 baris
 bearleap
 bromating
@@ -12384,7 +12385,6 @@ bondage
 bondager
 bondages
 bless
-bondar
 bonder
 bockerel
 bonderize
