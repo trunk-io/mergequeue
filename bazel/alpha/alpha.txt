@@ -10610,7 +10610,6 @@ amimide
 amin
 antimonarchial
 aminase
-aminate
 aminated
 amination
 aminded
@@ -11040,6 +11039,7 @@ ampelotherapy
 amper
 amperages
 ampere
+aminate
 amperemeter
 ampery
 amperian

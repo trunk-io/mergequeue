@@ -844,6 +844,7 @@ fantaisie
 fantasy
 fantasia
 freakishly
+findability
 flybane
 faddishness
 findings
@@ -1599,7 +1600,6 @@ favillous
 farcetta
 femininity
 fledglings
-findability
 florilage
 favissa
 favorable
