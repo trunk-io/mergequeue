@@ -655,6 +655,7 @@ fameflower
 famelic
 faint
 fames
+furfur
 fameworthy
 forereport
 fusser
@@ -3551,7 +3552,6 @@ filched
 francophobe
 fatimid
 filchingly
-furfur
 filecard
 filechar
 filed
