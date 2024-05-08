@@ -1173,7 +1173,6 @@ dat
 dogtrot
 datableness
 datably
-datacell
 datafile
 dataflow
 datagram
@@ -4835,6 +4834,7 @@ democratism
 democratist
 democratize
 dewooled
+datacell
 destaining
 democratized
 democratizer
