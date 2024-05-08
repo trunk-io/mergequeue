@@ -3856,7 +3856,6 @@ bunjara
 barques
 baulkier
 behight
-baulks
 bhoy
 baume
 bugging
@@ -14189,6 +14188,7 @@ bradshaw
 bradsot
 byword
 braeface
+baulks
 boarding
 bandfiling
 braehead
