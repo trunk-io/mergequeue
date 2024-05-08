@@ -1561,6 +1561,7 @@ ballets
 ballfield
 ballgame
 ballgames
+bordroom
 ballgowns
 ballhausplatz
 ballhawks
@@ -12979,7 +12980,6 @@ bordrag
 bordrage
 biophysicochemical
 bulder
-bordroom
 borinqueno
 bordun
 bordure
