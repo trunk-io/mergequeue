@@ -6160,6 +6160,7 @@ beluga
 benamee
 bpt
 benami
+buck
 bequeathable
 becowarded
 benamidar
@@ -16625,7 +16626,6 @@ buchnerite
 buchonite
 buchu
 basementward
-buck
 bayamo
 bicornuous
 buckayro
