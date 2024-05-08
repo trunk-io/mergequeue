@@ -13262,6 +13262,7 @@ epithecate
 explosions
 emoted
 explosively
+equalising
 explosiveness
 explosives
 expo
@@ -13947,7 +13948,6 @@ extrapoetical
 extrapolar
 earscrew
 extrapolated
-equalising
 extrapolating
 ebbed
 elaterist
