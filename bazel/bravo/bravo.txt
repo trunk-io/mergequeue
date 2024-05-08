@@ -4625,7 +4625,6 @@ blackened
 besuit
 bundeli
 borborus
-bioenergetics
 bedaubing
 bedaubs
 bedlike
@@ -9775,6 +9774,7 @@ backslapped
 buildingless
 babble
 boatels
+bioenergetics
 basilosaurus
 byssogenous
 byssoid
