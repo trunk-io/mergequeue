@@ -6019,7 +6019,6 @@ ctenodontidae
 catholicize
 catholicizing
 catholicly
-catholicness
 catholicoi
 catholicon
 catholicos
@@ -25309,6 +25308,7 @@ cormophytic
 cormorant
 cormous
 corms
+catholicness
 corn
 cornaceae
 cystoscopy

@@ -2426,7 +2426,6 @@ ejecting
 electrogram
 electrography
 eudyptes
-electrographite
 encephalosepsis
 elytrtra
 electrograving
@@ -11158,6 +11157,7 @@ eustathian
 eustele
 extradural
 extromit
+electrographite
 extorsively
 eusteles
 expiate
