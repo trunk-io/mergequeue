@@ -4824,7 +4824,6 @@ flakelet
 footed
 flakier
 flakiest
-favouredness
 flaking
 foxings
 fatiscence
@@ -9906,6 +9905,7 @@ frettage
 frettation
 fiducial
 frette
+favouredness
 fretten
 fretters
 flowoff
