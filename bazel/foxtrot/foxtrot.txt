@@ -2586,7 +2586,6 @@ flew
 ferrets
 foresightful
 flanes
-ferryboat
 ferryboats
 familistery
 ferricyanate
@@ -5150,6 +5149,7 @@ flautino
 flautist
 formulas
 flauto
+ferryboat
 flacket
 fratercula
 flav
