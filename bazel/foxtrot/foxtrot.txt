@@ -5916,7 +5916,6 @@ favism
 fistfight
 floodwood
 flannelboard
-faitour
 flook
 forgottenness
 floorboard
@@ -9508,6 +9507,7 @@ favourers
 frothy
 fraticelli
 focalises
+faitour
 fauld
 furcating
 fearbabe
