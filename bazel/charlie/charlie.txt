@@ -9647,7 +9647,6 @@ colourlessness
 cheddaring
 cheddars
 cheddites
-cheder
 cheders
 chedite
 chedlock
@@ -29716,6 +29715,7 @@ cronus
 crooch
 crood
 croodle
+cheder
 crook
 crookbacked
 crookbill
