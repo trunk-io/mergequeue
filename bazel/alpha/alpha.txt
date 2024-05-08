@@ -16799,7 +16799,6 @@ aph
 antilogical
 asserters
 aphacia
-aphacial
 alcaides
 anethole
 alap
@@ -16879,6 +16878,7 @@ aphydrotropism
 aphids
 aphilanthropy
 aphylly
+aphacial
 anisocarpous
 aloofe
 autoplasties
