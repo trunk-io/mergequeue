@@ -4694,7 +4694,6 @@ carpalia
 carpals
 chela
 carpathian
-carpe
 carped
 carpel
 carpellary
@@ -8149,6 +8148,7 @@ cipher
 chaetetidae
 chaetifera
 chaetiferous
+carpe
 chaetitidae
 chaetochloa
 chaetodon
