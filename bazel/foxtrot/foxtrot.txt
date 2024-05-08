@@ -400,7 +400,6 @@ futharc
 fairyish
 foulage
 fairyland
-fairing
 failings
 freestyler
 filariid
@@ -8078,6 +8077,7 @@ foretasting
 fretsaw
 foretell
 foretellable
+fairing
 fillister
 fathogram
 foretellers
