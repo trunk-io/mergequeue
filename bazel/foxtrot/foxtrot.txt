@@ -9943,7 +9943,6 @@ frats
 friation
 frib
 fruitage
-fribbler
 friskle
 fribbling
 friable
@@ -11211,6 +11210,7 @@ fallfishes
 frenzelite
 fungistatically
 forcipes
+fribbler
 fungitoxic
 fungitoxicity
 fluorophosphate
