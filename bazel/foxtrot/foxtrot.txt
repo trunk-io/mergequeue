@@ -3004,7 +3004,6 @@ facelifts
 fezes
 fazed
 fezzed
-fezzes
 fezzy
 fadings
 fezziwig
@@ -8102,6 +8101,7 @@ ferrotyped
 foretopmast
 foretopmen
 foretops
+fezzes
 foretrace
 foreuse
 foreutter
