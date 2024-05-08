@@ -3994,7 +3994,6 @@ delassation
 decompound
 diathermic
 delassement
-delated
 delater
 delates
 delating
@@ -5411,6 +5410,7 @@ dentiroster
 dentirostral
 dentist
 demonisms
+delated
 dribbler
 dentistical
 dentistry
