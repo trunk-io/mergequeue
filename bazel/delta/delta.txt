@@ -4557,7 +4557,6 @@ demiassignation
 demibarrel
 demibastion
 demibath
-demibeast
 demibelt
 dinornithes
 dislink
@@ -7724,6 +7723,7 @@ devilmonger
 devilry
 devilries
 devils
+demibeast
 deviltry
 dissociation
 dandered
