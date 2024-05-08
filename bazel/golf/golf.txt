@@ -6565,6 +6565,7 @@ gastrea
 golder
 grower
 goldfielder
+gramophonic
 gambrelled
 goldfields
 goldfinny
@@ -7816,7 +7817,6 @@ guildsman
 grammel
 grammy
 gramophone
-gramophonic
 guttulae
 gruelling
 gesnera
