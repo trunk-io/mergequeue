@@ -6643,6 +6643,7 @@ berattle
 boatside
 beraunite
 berber
+bishopdom
 borickite
 berberi
 berberia
@@ -9673,7 +9674,6 @@ borazon
 bishydroxycoumarin
 bishop
 backbeats
-bishopdom
 bishoped
 biborate
 bishopful
