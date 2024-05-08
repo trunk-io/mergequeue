@@ -6277,7 +6277,6 @@ deerskin
 drupe
 dermatoconiosis
 dermatodynia
-dermatogen
 dermatoglyphics
 dermatography
 diplonephridia
@@ -12840,6 +12839,7 @@ disoblige
 disobliged
 disobliger
 dognapping
+dermatogen
 disobliges
 duodynatron
 disobstruct
