@@ -3252,7 +3252,6 @@ defender
 defenders
 defenestrate
 decorativeness
-demagnify
 defenestrates
 defenestrating
 dingdong
@@ -12607,6 +12606,7 @@ disjointure
 disjunctions
 disjunctive
 disjunctively
+demagnify
 deseed
 disjunctor
 divia
