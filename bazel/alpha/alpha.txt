@@ -14374,7 +14374,6 @@ anthemis
 anthems
 anther
 antheraea
-antherid
 antheridia
 antheridium
 antherless
@@ -17902,6 +17901,7 @@ appmt
 asphyxiate
 appointable
 appals
+antherid
 appointe
 appointee
 antistatic
