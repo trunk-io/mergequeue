@@ -3741,7 +3741,6 @@ dehydrates
 dehydrator
 depiedmontize
 danaid
-dehydroascorbic
 demonstrating
 dehydrochlorinase
 diagramming
@@ -7745,6 +7744,7 @@ devisal
 devise
 devised
 devisees
+dehydroascorbic
 dihydrogen
 deviser
 devisers
