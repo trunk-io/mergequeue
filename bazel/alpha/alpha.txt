@@ -7158,7 +7158,6 @@ akhlame
 agaricin
 akhoond
 abnerval
-allow
 akhund
 akhundzada
 akia
@@ -7304,6 +7303,7 @@ alange
 alangin
 alangine
 arthrectomies
+allow
 alangium
 alani
 alanin

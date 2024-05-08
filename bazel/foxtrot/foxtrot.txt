@@ -7714,7 +7714,6 @@ foreimpressed
 flagmaker
 fleetness
 firnismalerei
-foreinstruct
 fuchsia
 fac
 foreiron
@@ -11758,4 +11757,5 @@ fv
 flocculi
 feverbush
 fw
+foreinstruct
 fwelling
