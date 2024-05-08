@@ -2939,6 +2939,7 @@ fantastical
 feudatary
 fastings
 feudatory
+freedoot
 fanciable
 feudatories
 feuded
@@ -9646,7 +9647,6 @@ feltwork
 facete
 flatworks
 freedoms
-freedoot
 fizzed
 facticide
 friableness
