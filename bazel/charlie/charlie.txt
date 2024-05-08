@@ -19063,7 +19063,6 @@ collets
 colletside
 combustibilities
 cresorcin
-colly
 collyba
 collibert
 collicle
@@ -21469,6 +21468,7 @@ conconscious
 concordable
 concordably
 concordal
+colly
 concordance
 concordancer
 concordances
