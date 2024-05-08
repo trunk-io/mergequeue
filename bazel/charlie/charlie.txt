@@ -2530,7 +2530,6 @@ cane
 corneum
 cities
 cliffing
-canebrake
 canebrakes
 cephalodynia
 counterdisengage
@@ -19242,6 +19241,7 @@ cousins
 colluvium
 copolymerous
 cooperating
+canebrake
 colmars
 colmose
 colnaria

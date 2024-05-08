@@ -3464,7 +3464,6 @@ deflorescence
 dropforged
 dubash
 disgarland
-desexualization
 deflower
 deflowered
 deflowerer
@@ -12040,6 +12039,7 @@ disenfranchising
 disengaged
 disengagedness
 disengagement
+desexualization
 disengaging
 disengirdle
 disenjoyment
