@@ -14324,7 +14324,6 @@ circulators
 circulet
 circulus
 circumaction
-circumadjacent
 circumagitate
 circumambagious
 circumambiency
@@ -19294,6 +19293,7 @@ colonelship
 colonelships
 coloner
 colones
+circumadjacent
 cassena
 colonette
 colongitude
