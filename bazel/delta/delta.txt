@@ -4378,7 +4378,6 @@ decanter
 dysarthria
 delver
 documentalist
-delvers
 delves
 dorsointestinal
 dem
@@ -18172,6 +18171,7 @@ dunair
 dunamis
 dunbird
 duncan
+delvers
 dunce
 disobedience
 disprized
