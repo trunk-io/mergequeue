@@ -17264,6 +17264,7 @@ berstel
 bulnbuln
 bulrush
 bulrushy
+brightens
 blechnoid
 bulrushlike
 bult
@@ -18332,7 +18333,6 @@ buttonlike
 bestiarianism
 brahmans
 boulle
-brightens
 buttons
 buttonweed
 buttonwood
