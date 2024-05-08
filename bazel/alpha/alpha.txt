@@ -7324,7 +7324,6 @@ aggerose
 alaria
 allele
 alaric
-alarm
 alarmclock
 alexanders
 abamps
@@ -9750,6 +9749,7 @@ abandonedly
 amalekite
 amalfian
 amalfitan
+alarm
 amalg
 amalgam
 amalgamable
