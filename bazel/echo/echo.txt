@@ -6607,6 +6607,7 @@ enteroclysis
 enterococcal
 esperantidist
 enseam
+expulsatory
 enterococcus
 enterocoela
 enterocoelous
@@ -8268,7 +8269,6 @@ epistropheal
 endolaryngeal
 epistropheus
 eryopid
-expulsatory
 epitactic
 epitaphian
 electrostatics
