@@ -6616,7 +6616,6 @@ desegregation
 duststorm
 deselected
 deselecting
-deselects
 desiccants
 datums
 dauphiness
@@ -10212,6 +10211,7 @@ dynode
 dinoflagellata
 distresses
 dinomic
+deselects
 dinomys
 dinophyceae
 debitor
