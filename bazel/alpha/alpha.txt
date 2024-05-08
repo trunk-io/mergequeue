@@ -21395,7 +21395,6 @@ aspectual
 aspen
 aspens
 asper
-amnesties
 asperate
 asperated
 artefact
@@ -22804,6 +22803,7 @@ abrocoma
 analgesic
 atomization
 atomize
+amnesties
 atomized
 atomizer
 atomizers
