@@ -5547,7 +5547,6 @@ gliriformia
 glirine
 groovy
 groundskeep
-glisk
 glisky
 gluily
 glissader
@@ -5666,6 +5665,7 @@ globuliform
 gefilte
 glottogonist
 globulimeter
+glisk
 gurges
 garuda
 gravestone

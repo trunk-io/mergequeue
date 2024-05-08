@@ -4501,6 +4501,7 @@ endolithic
 encephalartos
 encephalasthenia
 exurbias
+extraformal
 encyclical
 encephalic
 encephalin
@@ -12642,7 +12643,6 @@ ellagitannin
 epitonium
 exocrinologies
 epiphytically
-extraformal
 estradas
 exoculate
 engore
