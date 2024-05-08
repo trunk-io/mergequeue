@@ -7622,7 +7622,6 @@ cercises
 cercocebus
 cercolabes
 cercolabidae
-cercomonad
 cercomonadidae
 cercopid
 continent
@@ -25421,6 +25420,7 @@ cornific
 cornified
 corniform
 cornigerous
+cercomonad
 cornin
 cryptological
 consignable
