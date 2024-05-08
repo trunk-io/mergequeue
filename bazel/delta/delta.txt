@@ -3130,7 +3130,6 @@ defacing
 defacto
 dodgers
 defade
-deashes
 defaillance
 defaitiste
 defalcate
@@ -5224,6 +5223,7 @@ denims
 directives
 doctrinalist
 dyings
+deashes
 denitrated
 daemon
 denitrator
