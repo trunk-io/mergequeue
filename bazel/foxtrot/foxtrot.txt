@@ -7201,7 +7201,6 @@ floodproof
 flathe
 frighteningly
 footnote
-footnoted
 footpace
 footpaces
 forefather
@@ -9918,6 +9917,7 @@ frettingly
 fretum
 furies
 figurante
+footnoted
 fluors
 fanfaronading
 freud
