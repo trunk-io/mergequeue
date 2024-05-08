@@ -648,6 +648,7 @@ falx
 fringefoot
 fam
 famacide
+furlanas
 fame
 fortitudinous
 frill
@@ -3299,7 +3300,6 @@ faction
 ferrying
 factures
 fidejussionary
-furlanas
 fidejussor
 fortunous
 fabricant
