@@ -342,7 +342,6 @@ ebb
 ebbet
 ebbets
 ebbing
-ebbs
 ebcasc
 ebcd
 eben
@@ -2881,6 +2880,7 @@ eponymous
 elfins
 elfinwood
 elfish
+ebbs
 emotionalist
 engrailment
 extemporise

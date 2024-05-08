@@ -5787,7 +5787,6 @@ ferulas
 floatage
 farmeries
 fireling
-floatation
 firesides
 finicky
 floated
@@ -8877,6 +8876,7 @@ fiberization
 foreignize
 fothering
 foreshorten
+floatation
 forelimbs
 folia
 fleuron
