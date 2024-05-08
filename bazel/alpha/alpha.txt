@@ -11891,7 +11891,6 @@ anankastic
 allergen
 ananke
 alouatte
-authenticator
 anansi
 ananta
 antimasquerade
@@ -13671,6 +13670,7 @@ almacantar
 annuitants
 aquarists
 annuity
+authenticator
 annuities
 annul
 annular
