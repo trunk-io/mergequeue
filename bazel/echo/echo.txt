@@ -6671,6 +6671,7 @@ extraduction
 enteroplegia
 enthalpies
 epilogism
+exsputory
 exhume
 enteropneusta
 enteroptosis
@@ -9391,7 +9392,6 @@ erudition
 erugate
 erugation
 emerant
-exsputory
 erugo
 erugos
 erump
