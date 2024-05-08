@@ -4421,7 +4421,6 @@ gingersnaps
 groundsill
 glozing
 gingerspice
-gingerwort
 gingiva
 gingivae
 gingival
@@ -10263,6 +10262,7 @@ gab
 gil
 gry
 gratifies
+gingerwort
 guise
 guitar
 grubstake
