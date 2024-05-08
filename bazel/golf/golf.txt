@@ -5300,7 +5300,6 @@ gendered
 galbanum
 glenlike
 glomerulus
-glenohumeral
 glenoid
 glenoidal
 glent
@@ -8055,6 +8054,7 @@ granulations
 gudebrother
 granulative
 giggling
+glenohumeral
 granulators
 gripper
 guanidins
