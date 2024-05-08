@@ -3179,7 +3179,6 @@ geophones
 gazogene
 gonadectomized
 glanduliferous
-geopolar
 geopolitic
 golandaas
 gripe
@@ -8505,6 +8504,7 @@ gradus
 globated
 grayish
 gimbaljawed
+geopolar
 grazes
 gallimatia
 grazierdom
