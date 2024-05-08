@@ -3741,7 +3741,6 @@ beknown
 batteners
 battens
 batter
-batterable
 battercake
 batterdock
 battered
@@ -15935,6 +15934,7 @@ bronchoaspergillosis
 bronchoblennorrhea
 bronchobuster
 bronchocavernous
+batterable
 bronchocele
 bufotenin
 brutish
