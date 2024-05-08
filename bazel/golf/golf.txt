@@ -2981,7 +2981,6 @@ gerontologic
 gentilitial
 geoagronomic
 geobiont
-geobotanic
 goitre
 gemmates
 glutetei
@@ -7580,6 +7579,7 @@ gallotannic
 grainy
 giovanni
 gyroidally
+geobotanic
 gynaecea
 graciles
 gluttonised
