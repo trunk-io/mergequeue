@@ -2687,6 +2687,7 @@ decomposer
 decomposers
 decomposes
 decomposing
+drawtube
 decomposition
 decapod
 decomposure
@@ -16878,7 +16879,6 @@ dinoceratid
 drawstrings
 drawtongs
 defortify
-drawtube
 decanically
 drazel
 dread
