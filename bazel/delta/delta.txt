@@ -2678,7 +2678,6 @@ delinquents
 decompensations
 decompiler
 decomponent
-decomposability
 decomposable
 decompose
 decomposed
@@ -13834,6 +13833,7 @@ disubstitution
 distichs
 distil
 derisive
+decomposability
 distylar
 desisting
 distyle
