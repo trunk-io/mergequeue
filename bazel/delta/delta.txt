@@ -8337,6 +8337,7 @@ dialectological
 dialectologically
 dialectologist
 dialector
+didymous
 dargue
 duchies
 dialed
@@ -13445,7 +13446,6 @@ disrobing
 disroof
 disroost
 disrooted
-didymous
 disrooting
 disrout
 dizygous
