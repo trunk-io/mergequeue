@@ -2758,7 +2758,6 @@ allergic
 acraspedote
 apartment
 acraturesis
-acrawl
 acre
 acreable
 aquamarine
@@ -4183,6 +4182,7 @@ admissibility
 admission
 admissions
 admissive
+acrawl
 admissively
 antiperistasis
 admissory
