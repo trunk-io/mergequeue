@@ -8103,7 +8103,6 @@ algaesthesia
 algal
 algalia
 algarad
-angiolipoma
 anolytes
 algarroba
 adnexed
@@ -15393,6 +15392,7 @@ antihypnotic
 antihypnotically
 antihypochondriac
 anticoincidence
+angiolipoma
 antihypophora
 antihistamine
 acetopiperone
