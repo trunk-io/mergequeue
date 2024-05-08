@@ -1025,6 +1025,7 @@ gams
 ganam
 gananciales
 ganancias
+granted
 ganapati
 ganched
 granulomatosis
@@ -8027,7 +8028,6 @@ grantable
 genoblastic
 goalee
 gunrunning
-granted
 gravelous
 grantedly
 gnatty

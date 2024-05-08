@@ -4158,7 +4158,6 @@ ensured
 epopt
 entombments
 euphonical
-emplore
 ereptase
 emplume
 eniac
@@ -12032,6 +12031,7 @@ erythrin
 exciton
 ellipse
 excitons
+emplore
 excitor
 excitosecretory
 excitovascular
