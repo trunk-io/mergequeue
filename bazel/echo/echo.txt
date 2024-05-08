@@ -1692,7 +1692,6 @@ effetmen
 eyeballs
 eyebalm
 eyebar
-eyebeam
 eyebeams
 expire
 effie
@@ -8242,6 +8241,7 @@ entozoa
 epistilbite
 epistyle
 epistyles
+eyebeam
 epistylis
 exulcerate
 emetocathartic
