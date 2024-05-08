@@ -7153,7 +7153,6 @@ centiares
 centiday
 centifolious
 centigrade
-centigrado
 cannikin
 centigram
 centigramme
@@ -16132,6 +16131,7 @@ commutations
 clydesider
 client
 clientage
+centigrado
 cliental
 choriocarcinomata
 converged

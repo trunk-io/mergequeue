@@ -1754,7 +1754,6 @@ gastrodermis
 gnotobiote
 goosemouth
 gravemaking
-gastroduodenal
 gastroduodenitis
 gametophagia
 gastroduodenostomy
@@ -6855,6 +6854,7 @@ gamelote
 gonococci
 gonococcic
 gambler
+gastroduodenal
 glossophytia
 glacis
 gaposises
