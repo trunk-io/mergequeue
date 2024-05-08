@@ -5582,7 +5582,6 @@ beadhouses
 bricksetter
 bejig
 bejuco
-bajri
 bejuggle
 bejumbles
 bejumbling
@@ -12022,6 +12021,7 @@ bucayo
 babajaga
 boys
 boysenberry
+bajri
 boiserie
 boyship
 boisterous
