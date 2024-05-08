@@ -411,7 +411,6 @@ biradiated
 backlog
 bib
 backlogged
-bredi
 backlogging
 backouts
 broggle
@@ -9623,6 +9622,7 @@ bisecting
 bisection
 bisectional
 bisections
+bredi
 bisectors
 bisectrices
 busybodyness
