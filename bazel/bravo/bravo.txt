@@ -8441,6 +8441,7 @@ bignou
 bygo
 bygone
 bygones
+bist
 bigoniac
 bigonial
 bigotedness
@@ -9786,7 +9787,6 @@ byssus
 bundies
 byssuses
 besing
-bist
 bistable
 bystander
 bistate

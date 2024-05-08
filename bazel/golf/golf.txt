@@ -3542,7 +3542,6 @@ gested
 gingham
 graphonomy
 gestes
-gestic
 gestical
 gesticulant
 gesticulate
@@ -10573,6 +10572,7 @@ gunsel
 glutaminase
 golp
 gimmickry
+gestic
 gunships
 gimberjawed
 gratefully
