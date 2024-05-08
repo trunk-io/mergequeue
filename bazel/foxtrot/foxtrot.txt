@@ -5504,6 +5504,7 @@ flyblowing
 flyblows
 flyboat
 flyboats
+flunks
 freshmanic
 fleers
 flaxlike
@@ -8790,7 +8791,6 @@ facily
 fly
 frustula
 fosite
-flunks
 frolicly
 fossage
 fole
