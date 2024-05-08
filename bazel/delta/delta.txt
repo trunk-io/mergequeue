@@ -5757,6 +5757,7 @@ depletory
 deploy
 deploying
 deployment
+dispansive
 decastich
 deployments
 deftest
@@ -11466,7 +11467,6 @@ destructiveness
 discocarp
 duecento
 disbelieving
-dispansive
 discocarpous
 discodactyl
 discodactylous
