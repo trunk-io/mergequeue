@@ -1652,7 +1652,6 @@ calorize
 calorized
 calorizer
 calorizes
-calorizing
 calosoma
 calotermes
 calothrix
@@ -25581,6 +25580,7 @@ coronium
 coronobasilar
 coronofrontal
 coronograph
+calorizing
 crenelation
 coronographic
 canvasman
