@@ -2837,7 +2837,6 @@ baroxyton
 barque
 beebread
 bigoted
-buttonmold
 barrabora
 barracan
 barrace
@@ -14108,6 +14107,7 @@ bractlets
 bracts
 busticate
 bradawls
+buttonmold
 bradbury
 bladish
 balmily
