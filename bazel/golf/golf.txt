@@ -8253,7 +8253,6 @@ garnisher
 grasshouse
 gentlemanlike
 gaeltacht
-gushet
 grassy
 graminaceae
 gallycrow
@@ -8363,6 +8362,7 @@ gurly
 gratuities
 galusha
 gongman
+gushet
 gagor
 glutinant
 guarabu
