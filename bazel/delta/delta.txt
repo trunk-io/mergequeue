@@ -8342,7 +8342,6 @@ diplois
 dialectology
 dialectological
 dialectologically
-dialectologist
 dialector
 dargue
 duchies
@@ -10976,6 +10975,7 @@ disafforestment
 disaggregate
 disaggregated
 disaggregation
+dialectologist
 disaggregative
 disagree
 discrive
