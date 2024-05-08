@@ -10513,7 +10513,6 @@ amygdalic
 archduchy
 amygdaliferous
 amygdalin
-antiderivative
 amygdaline
 amygdalinic
 amygdalitis
@@ -24852,6 +24851,7 @@ avouched
 anticourt
 adamical
 avoucher
+antiderivative
 aporrhais
 anamorphism
 avouchers

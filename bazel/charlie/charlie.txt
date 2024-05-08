@@ -14688,7 +14688,6 @@ clefs
 cissoids
 cissus
 cist
-cyst
 continuantly
 cista
 cistaceae
@@ -15099,6 +15098,7 @@ citramide
 citramontane
 citrangeade
 citrate
+cyst
 capsize
 capillarimeter
 citrates
