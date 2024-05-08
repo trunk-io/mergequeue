@@ -1074,7 +1074,6 @@ feronia
 farmhousey
 fontinalaceae
 fuzzle
-farmy
 forthcomer
 farmyard
 ferlies
@@ -3884,6 +3883,7 @@ farmost
 fineness
 finer
 finery
+farmy
 flouting
 fought
 feuilletonism
