@@ -2184,6 +2184,7 @@ cabaan
 campus
 chromatic
 campuses
+coincides
 campusses
 campward
 chametz
@@ -28728,7 +28729,6 @@ constringe
 crepeiest
 croquettes
 crepes
-coincides
 crepy
 crepidoma
 crepidula
