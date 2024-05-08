@@ -1467,7 +1467,6 @@ fattier
 featherweight
 fatties
 forceable
-fattiness
 footstick
 funis
 fattishness
@@ -9849,6 +9848,7 @@ frequentest
 frapp
 fessways
 formular
+fattiness
 frondesce
 foolhardiest
 factionalist
