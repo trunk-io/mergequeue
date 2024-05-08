@@ -4330,7 +4330,6 @@ apophlegmatism
 adoretus
 adoringly
 abomas
-adorn
 adornation
 adorned
 adorner
@@ -22609,6 +22608,7 @@ atheroscleroses
 atherosclerosis
 anticrepuscule
 atherosclerotic
+adorn
 atherosclerotically
 atherosperma
 abfarads
