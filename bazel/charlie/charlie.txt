@@ -11453,7 +11453,6 @@ chloropicrin
 chloroplast
 chloroplastic
 chloroplastid
-chloroplasts
 coenamorment
 chloroplatinite
 chloroplatinous
@@ -12475,6 +12474,7 @@ chromatophore
 conicoid
 chromatophoric
 canthectomy
+chloroplasts
 chevroned
 confucianist
 chalukya
