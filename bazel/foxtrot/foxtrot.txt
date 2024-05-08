@@ -5058,7 +5058,6 @@ flatfoot
 flathead
 flatiron
 froom
-flatirons
 flatlands
 flatlets
 floorwalker
@@ -10271,6 +10270,7 @@ foveolas
 farce
 furdel
 favoritism
+flatirons
 frizzle
 frizzly
 favela
