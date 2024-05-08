@@ -1751,6 +1751,7 @@ gentled
 gastrodermal
 gastrodermis
 gnotobiote
+goosemouth
 gravemaking
 gastroduodenal
 gastroduodenitis
@@ -7056,7 +7057,6 @@ graith
 gaumy
 gercrow
 gooselike
-goosemouth
 gooseneck
 goosenecked
 glider
