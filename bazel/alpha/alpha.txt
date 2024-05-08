@@ -13024,6 +13024,7 @@ arendalite
 angustisellate
 angustiseptal
 angustiseptate
+aslant
 angustura
 angwantibo
 angwich
@@ -21337,7 +21338,6 @@ askos
 askr
 asks
 aslake
-aslant
 aslantwise
 aslaver
 anguille
