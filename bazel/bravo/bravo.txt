@@ -2033,6 +2033,7 @@ buntings
 boardman
 bank
 barat
+balolo
 bankalachi
 bankbooks
 basti
@@ -2845,7 +2846,6 @@ barracked
 borh
 barracking
 barracoon
-balolo
 bulgarians
 barracouta
 barracoutas
