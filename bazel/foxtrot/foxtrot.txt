@@ -9914,6 +9914,7 @@ frette
 fretten
 fretters
 flowoff
+footsoldiers
 flagellums
 furnacite
 fpm
@@ -10803,7 +10804,6 @@ fth
 ftncmd
 feuars
 featherlet
-footsoldiers
 fubbed
 fubbery
 fubby
