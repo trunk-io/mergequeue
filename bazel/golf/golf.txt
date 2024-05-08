@@ -4745,7 +4745,6 @@ groszy
 gasconade
 gra
 gyron
-galliards
 gironde
 girondin
 glyoxime
@@ -9700,6 +9699,7 @@ grubstaking
 goboes
 grumped
 grf
+galliards
 grumph
 grumphy
 grumphie
