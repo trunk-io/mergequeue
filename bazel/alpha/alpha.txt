@@ -3263,7 +3263,6 @@ actorship
 actress
 actresses
 acts
-aminic
 actu
 actualisation
 actualise
@@ -20082,6 +20081,7 @@ arnement
 arni
 arnicas
 arnold
+aminic
 aquarellist
 arnotto
 adzooks
