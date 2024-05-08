@@ -1588,7 +1588,6 @@ garneter
 greedily
 gashouse
 generale
-gabe
 gasification
 guacamole
 guarachas
@@ -5681,6 +5680,7 @@ gloeosporiose
 gradable
 gelfomino
 glogg
+gabe
 gloggs
 gloy
 ganefs
