@@ -4749,6 +4749,7 @@ eremopteris
 encoding
 encodings
 encoffinment
+endogenicity
 ectoblast
 extense
 esox
@@ -5137,7 +5138,6 @@ endogenae
 echeloning
 endogenesis
 exorate
-endogenicity
 endogenies
 exundation
 endogenous
