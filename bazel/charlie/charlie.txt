@@ -11817,7 +11817,6 @@ colubriformia
 chondriosphere
 ceresin
 chondrites
-chondritic
 chondroadenoma
 chondroalbuminoid
 chondroangioma
@@ -18454,6 +18453,7 @@ coheartedness
 coheir
 coheiress
 coheirs
+chondritic
 coheirship
 cohelper
 cohelpership
