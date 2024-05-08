@@ -5599,7 +5599,6 @@ dimmock
 departmentalism
 departmentalization
 departmentalized
-departmentalizes
 departmentalizing
 departmentally
 designment
@@ -10310,6 +10309,7 @@ diastrophy
 dionize
 dognapped
 dioon
+departmentalizes
 diophysite
 dyophysite
 dyophysitical
