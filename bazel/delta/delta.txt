@@ -1252,7 +1252,6 @@ discal
 datives
 disconcord
 dato
-datolite
 declinate
 datolitic
 datos
@@ -8921,6 +8920,7 @@ dichlorohydrin
 dichloromethane
 dichocarpism
 dichocarpous
+datolite
 dichogamic
 dichondra
 dichondraceae
