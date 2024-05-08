@@ -1025,7 +1025,6 @@ absterges
 absterse
 ambuling
 abstersion
-averages
 abstersive
 abstersiveness
 abstertion
@@ -1835,6 +1834,7 @@ accustomation
 accustomed
 accustomedly
 accustoming
+averages
 accustomized
 accustomizing
 actualist
