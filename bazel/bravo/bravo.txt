@@ -10094,7 +10094,6 @@ blabbermouth
 blabbermouths
 blabbers
 blabbing
-blabmouth
 bagge
 braziers
 bott
@@ -12800,6 +12799,7 @@ bedsheet
 bacciform
 boorish
 boorishness
+blabmouth
 boombox
 boors
 bertrandite
