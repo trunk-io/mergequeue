@@ -2484,6 +2484,7 @@ fermentativeness
 floatplane
 fermenter
 fermentescible
+forswat
 forbiddingness
 ferther
 fielding
@@ -5819,7 +5820,6 @@ flob
 formidableness
 furanes
 flobby
-forswat
 fraternate
 fastigia
 flocced
