@@ -3762,7 +3762,6 @@ filose
 furnitureless
 fils
 fideists
-filterability
 finify
 filterableness
 faut
@@ -5489,6 +5488,7 @@ fortunetellers
 foolhardier
 featherers
 flyby
+filterability
 fossils
 flybys
 fluctisonous
