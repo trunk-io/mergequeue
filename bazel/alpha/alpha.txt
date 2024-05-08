@@ -1119,7 +1119,6 @@ abundantia
 abundantly
 abune
 abura
-angles
 aburban
 aburton
 artemisia
@@ -2273,6 +2272,7 @@ achor
 achordal
 anthracemia
 alqueire
+angles
 achordata
 achordate
 achorion
