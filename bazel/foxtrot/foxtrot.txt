@@ -2626,7 +2626,6 @@ fricassees
 ferromanganese
 ferrometer
 ferronatrite
-ferronickel
 ferrophosphorus
 filicologist
 frustulose
@@ -4561,6 +4560,7 @@ faussebraye
 fivebar
 fiveling
 freeheartedness
+ferronickel
 fervid
 fivepence
 forages
