@@ -2238,6 +2238,7 @@ flaggier
 felucca
 felwort
 femaleness
+fuzils
 females
 fleer
 femality
@@ -7531,7 +7532,6 @@ fatbrained
 five
 fallacious
 forechase
-fuzils
 foretake
 filer
 foregame
