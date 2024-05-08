@@ -11606,6 +11606,7 @@ boatloads
 boatman
 beigy
 beclown
+buyer
 boatmanship
 boatmaster
 boatmen
@@ -17769,7 +17770,6 @@ brachioganoid
 bratchet
 bimetallists
 burlington
-buyer
 burma
 bleeping
 burman

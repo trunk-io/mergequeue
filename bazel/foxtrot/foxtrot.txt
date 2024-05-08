@@ -3569,7 +3569,6 @@ filename
 fixates
 fanons
 forspoken
-fourniture
 filers
 fructification
 felinity
@@ -3947,6 +3946,7 @@ forleft
 fragrance
 fistulas
 fingersmith
+fourniture
 footbreadth
 furrow
 femur
