@@ -5530,7 +5530,6 @@ glyptotherium
 globeholder
 glires
 gliridae
-gliriformia
 glirine
 groovy
 groundskeep
@@ -9050,6 +9049,7 @@ gladiatory
 griping
 grimoire
 gainstand
+gliriformia
 grimsir
 grimsire
 grin
