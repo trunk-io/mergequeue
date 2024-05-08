@@ -1639,7 +1639,6 @@ favouring
 favouringly
 favours
 favous
-favus
 foredone
 favuses
 flannel
@@ -2617,6 +2616,7 @@ ferroelectric
 fliping
 ferrogoslarite
 formulaically
+favus
 fooler
 frogtongue
 ferromagnetic

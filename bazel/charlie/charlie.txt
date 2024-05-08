@@ -9037,7 +9037,6 @@ charcoalist
 charcuteries
 chard
 chards
-chared
 charely
 chares
 charet
@@ -17881,6 +17880,7 @@ codilla
 codille
 coding
 codings
+chared
 codirected
 codirecting
 codirector
