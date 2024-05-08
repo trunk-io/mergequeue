@@ -2659,6 +2659,7 @@ barksome
 becrawls
 barkstone
 barlafumble
+blurred
 bicentennial
 barbitals
 brachiocrural
@@ -11369,7 +11370,6 @@ bluey
 blueys
 bluejacket
 bluejacks
-blurred
 blueline
 bluelines
 bluenose
