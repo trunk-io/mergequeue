@@ -6230,6 +6230,7 @@ dawed
 deriving
 derma
 dermabrasion
+diopsimeter
 dithyramb
 dermal
 degrades
@@ -10311,7 +10312,6 @@ decultivate
 decolorised
 diopsidic
 disaffectedness
-diopsimeter
 disillusionizing
 dioptases
 diopter
