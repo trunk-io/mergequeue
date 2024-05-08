@@ -4106,7 +4106,6 @@ cubed
 cardinalities
 cardinally
 cardinalship
-carding
 cardings
 crocky
 cardioarterial
@@ -16893,6 +16892,7 @@ clubroom
 casebooks
 clubrooms
 clubroot
+carding
 clubroots
 clubs
 clubstart
