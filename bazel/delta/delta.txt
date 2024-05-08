@@ -13699,7 +13699,6 @@ dissogony
 dissolubility
 downrushing
 doll
-dissoluble
 dissolubleness
 dissolute
 dissolutely
@@ -18280,6 +18279,7 @@ dunness
 dunny
 defence
 dunniewassel
+dissoluble
 dunning
 dunnish
 dunnite
