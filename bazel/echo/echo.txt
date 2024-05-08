@@ -2444,7 +2444,6 @@ electrohomeopathy
 embassador
 endexines
 electromyographically
-electroimpulse
 electroindustrial
 electroing
 eductions
@@ -7536,6 +7535,7 @@ enzymologist
 epicardium
 epicarid
 eyebrow
+electroimpulse
 epicarides
 employs
 epicarp
