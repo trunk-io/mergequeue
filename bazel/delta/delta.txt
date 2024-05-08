@@ -5317,7 +5317,6 @@ densimetry
 diplegic
 densimetric
 downgyved
-dilatometry
 densimetrically
 downrightly
 density
@@ -13721,6 +13720,7 @@ desugaring
 digitise
 damndests
 dissolver
+dilatometry
 diabetogenous
 dissolvingly
 drab
