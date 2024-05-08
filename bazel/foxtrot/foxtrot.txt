@@ -2294,7 +2294,6 @@ fenced
 fingerboards
 fenceless
 fencelessness
-fayalite
 fencelet
 fencepost
 fencers
@@ -11398,6 +11397,7 @@ furler
 flattened
 furlong
 furlongs
+fayalite
 fraxinus
 fornacic
 fiasco
