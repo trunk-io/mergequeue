@@ -1989,6 +1989,7 @@ grails
 germal
 gelignite
 grelot
+gorer
 gaudiest
 gaudiness
 gunboat
@@ -7140,7 +7141,6 @@ gorebill
 gearboxes
 gored
 guaranteing
-gorer
 gores
 gorfly
 groundplot
