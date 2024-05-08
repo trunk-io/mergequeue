@@ -2684,7 +2684,6 @@ benzoic
 barmbrack
 barmcloth
 brither
-barmfel
 becoward
 barmiest
 barmote
@@ -14756,6 +14755,7 @@ boneyard
 breadboxes
 breadearner
 backscratching
+barmfel
 breadearning
 basipetally
 breaded
