@@ -5346,7 +5346,6 @@ analects
 affines
 affinitative
 affinitatively
-affinite
 aggerate
 affinity
 affinities
@@ -19496,6 +19495,7 @@ allicins
 argenticyanide
 argentide
 argentiferous
+affinite
 argentin
 azotometer
 argentine
