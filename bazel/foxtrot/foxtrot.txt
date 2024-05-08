@@ -7362,7 +7362,6 @@ forewarnings
 faunlike
 foreparent
 foreplot
-forbid
 forebodingly
 flakiness
 forbidals
@@ -11366,6 +11365,7 @@ furial
 fervorless
 furibund
 furicane
+forbid
 figureheads
 furied
 frankincense
