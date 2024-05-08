@@ -5637,7 +5637,6 @@ anadem
 aftergas
 afterglow
 alloclasite
-aftergo
 ascesis
 aftergood
 aftergrave
@@ -8615,6 +8614,7 @@ allantiasis
 allantochorion
 ammoniemia
 advisatory
+aftergo
 allantoid
 allantoidal
 allantoidea
