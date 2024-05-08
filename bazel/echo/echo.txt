@@ -9127,7 +9127,6 @@ erythrocytoschisis
 erythrocytosis
 elementariness
 erythroclastic
-erythrophage
 erythrodegenerative
 ephebeum
 erythrodermia
@@ -11387,6 +11386,7 @@ evendown
 extrametaphysical
 evener
 errite
+erythrophage
 equivalencing
 equiparate
 evenfall
