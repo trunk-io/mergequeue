@@ -1378,6 +1378,7 @@ baldfaced
 blots
 bloodstained
 baldhead
+brimfull
 blanketmaking
 baldheaded
 baldheads
@@ -14928,7 +14929,6 @@ bredestitch
 betainogen
 breech
 breechcloth
-brimfull
 breechcloths
 breechclout
 breeched
