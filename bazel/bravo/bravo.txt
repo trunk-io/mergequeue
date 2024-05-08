@@ -8597,7 +8597,6 @@ brave
 bilingual
 bilinguality
 bilingually
-bilinguar
 bijoux
 bilinguist
 byliny
@@ -12157,6 +12156,7 @@ boloing
 blushiness
 boloism
 boloman
+bilinguar
 bolomen
 bolometric
 bolometrically
