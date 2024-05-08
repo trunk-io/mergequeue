@@ -4994,7 +4994,6 @@ corrupt
 chrysomonadina
 cassettes
 cartouch
-cartouche
 costrel
 chiclero
 cartouches
@@ -12606,6 +12605,7 @@ coffle
 chromoptometrical
 chromos
 coadjacency
+cartouche
 chromoscopy
 chromoscopic
 chromosomally
