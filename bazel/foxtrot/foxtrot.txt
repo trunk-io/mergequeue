@@ -758,7 +758,6 @@ fancies
 fanciful
 fancifulness
 fancying
-fanciless
 fancymonger
 fanciness
 fancysick
@@ -4247,6 +4246,7 @@ firmland
 fibulare
 footle
 firmly
+fanciless
 flattered
 firmness
 funditor
