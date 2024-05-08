@@ -3554,7 +3554,6 @@ capulet
 capuli
 capulin
 caput
-caputium
 caque
 counterstrike
 colonel
@@ -26287,6 +26286,7 @@ courteous
 caciqueship
 crusader
 costious
+caputium
 costipulator
 costispinal
 costive
