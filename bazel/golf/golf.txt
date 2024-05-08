@@ -5608,7 +5608,6 @@ grissen
 greatest
 globigerinidae
 gendering
-galactosemic
 gorses
 glucine
 globiocephalus
@@ -6900,6 +6899,7 @@ gonotype
 gonotome
 galeas
 gonozooid
+galactosemic
 gonzalo
 gonzo
 gripman
