@@ -6254,7 +6254,6 @@ fluidisation
 fld
 fooder
 fluxer
-fluorocarbons
 forewisdom
 fallal
 frisian
@@ -10483,6 +10482,7 @@ foutre
 frontonasal
 fotive
 frontons
+fluorocarbons
 fruitwood
 fleetingness
 frowst
