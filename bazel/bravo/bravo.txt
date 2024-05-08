@@ -5659,6 +5659,7 @@ belaud
 belauded
 balt
 belauder
+biostrome
 brocks
 belauds
 belshazzar
@@ -10538,7 +10539,6 @@ bionomics
 blatta
 blattariae
 bounding
-biostrome
 blatted
 buoying
 blattered
