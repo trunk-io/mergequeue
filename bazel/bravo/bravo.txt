@@ -6827,6 +6827,7 @@ berobed
 billings
 bedells
 beroe
+bolas
 berogue
 bylander
 berime
@@ -12050,7 +12051,6 @@ behalves
 bokom
 bola
 bolag
-bolas
 bearcoot
 berbery
 bolases
