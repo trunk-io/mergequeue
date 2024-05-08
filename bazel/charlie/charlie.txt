@@ -9252,7 +9252,6 @@ chased
 corbeilles
 chasers
 chases
-chashitsu
 chasid
 chasidim
 chasings
@@ -31846,6 +31845,7 @@ cuts
 cuttable
 cyclothyme
 chaffiest
+chashitsu
 cuttage
 ceratoglossus
 cuttages
