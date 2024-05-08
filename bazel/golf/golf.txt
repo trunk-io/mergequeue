@@ -1625,6 +1625,7 @@ gasohol
 gasolene
 gasolier
 gangland
+gonangial
 gasoliers
 gasoliner
 gasometry
@@ -6706,7 +6707,6 @@ granivorous
 gonaduct
 gesticulated
 gonalgia
-gonangial
 gola
 gonangium
 grub
