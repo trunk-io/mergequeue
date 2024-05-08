@@ -12916,7 +12916,6 @@ disorganizes
 disorganizing
 disorient
 disorientate
-disorientates
 daywork
 disoriented
 disorients
@@ -13980,6 +13979,7 @@ deformer
 distressfulness
 distressing
 decomponible
+disorientates
 deglamorization
 distressingly
 distrest
