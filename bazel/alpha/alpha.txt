@@ -11335,7 +11335,6 @@ amplificator
 amplificatory
 amplified
 amplifier
-amplifies
 amplifying
 amplitude
 amplitudinous
@@ -12315,6 +12314,7 @@ andantino
 andantinos
 andaquian
 andaste
+amplifies
 ande
 andean
 accelerations

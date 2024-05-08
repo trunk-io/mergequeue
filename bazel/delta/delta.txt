@@ -2945,7 +2945,6 @@ deltoid
 durn
 dedanite
 demigoddessship
-dedd
 dedecorate
 dedecorous
 desmodont
@@ -3365,6 +3364,7 @@ defines
 definienda
 definiendum
 dippy
+dedd
 deionizes
 definiens
 derencephalocele
