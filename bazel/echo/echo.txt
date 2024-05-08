@@ -1488,7 +1488,6 @@ eg
 egad
 elderlies
 eligent
-egads
 emendate
 egal
 egalitarian
@@ -3128,6 +3127,7 @@ epigraphically
 elopement
 emblemize
 epit
+egads
 elopements
 ejaculum
 esperantist

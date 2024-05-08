@@ -3223,7 +3223,6 @@ geosid
 geosphere
 geostationary
 geostrategist
-geostrophic
 graminiferous
 geostrophically
 graylags
@@ -10255,6 +10254,7 @@ guinness
 gristmilling
 guyot
 guipure
+geostrophic
 gruelled
 galatians
 guys
