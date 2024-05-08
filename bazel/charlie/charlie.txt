@@ -8960,6 +8960,7 @@ characinid
 characinoid
 cenospecific
 characins
+cordia
 charact
 cutouts
 charactered
@@ -25005,7 +25006,6 @@ corder
 cordery
 corders
 cordewane
-cordia
 clavial
 cordial
 cordiality
