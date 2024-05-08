@@ -2277,6 +2277,7 @@ electrization
 earthenware
 epigonus
 electro
+equatorwards
 electroacoustic
 etruscan
 electroacoustical
@@ -8569,7 +8570,6 @@ erase
 equatorial
 elucidating
 equatorward
-equatorwards
 excessmen
 equerry
 emulsifying

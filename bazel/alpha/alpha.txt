@@ -13322,7 +13322,6 @@ anisodactyli
 athens
 anisodactylic
 anisodont
-anisogamete
 anisogametes
 algarde
 anisogamic
@@ -14981,6 +14980,7 @@ ambassadress
 anticlastic
 anticlea
 anticlergy
+anisogamete
 anticlerical
 anticlericalism
 anticlericalist
