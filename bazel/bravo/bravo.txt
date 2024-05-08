@@ -8129,7 +8129,6 @@ bicolours
 biconcave
 biconcavity
 breezelike
-bidder
 biconic
 biconical
 biconically
@@ -15498,6 +15497,7 @@ bescurf
 briskish
 bagleaves
 brislings
+bidder
 briss
 brisses
 botryolite
