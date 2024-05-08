@@ -4135,6 +4135,7 @@ firefang
 firefanged
 fleys
 firefangs
+forestep
 flaggings
 firefighting
 fireflaught
@@ -9723,7 +9724,6 @@ freethinking
 freety
 freeway
 freeward
-forestep
 foresign
 freewheelers
 fecklessly
