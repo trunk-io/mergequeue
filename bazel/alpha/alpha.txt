@@ -7364,6 +7364,7 @@ apiology
 alastor
 alate
 alated
+ascribing
 alatern
 alaternus
 alation
@@ -21085,7 +21086,6 @@ ascribable
 ascribe
 ascribed
 ascribes
-ascribing
 ascript
 ascription
 ascriptions
