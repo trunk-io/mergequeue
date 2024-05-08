@@ -1460,6 +1460,7 @@ gemmel
 geogony
 garments
 grasseye
+granivore
 glutael
 garmenture
 garmentworker
@@ -7998,7 +7999,6 @@ granitoid
 granitoidal
 girlish
 gentlewoman
-granivore
 grank
 gasconader
 grannam
