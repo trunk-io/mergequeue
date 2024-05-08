@@ -4401,6 +4401,7 @@ felafel
 footmenfootpad
 furcates
 fissility
+fortifiable
 focaloid
 fissionable
 fissioned
@@ -5911,7 +5912,6 @@ floods
 finestiller
 facingly
 forst
-fortifiable
 frounces
 favism
 fistfight
