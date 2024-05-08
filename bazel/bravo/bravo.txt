@@ -5158,7 +5158,6 @@ busti
 beflowered
 biotas
 beflowering
-beflum
 befluster
 befog
 baetylus
@@ -12994,6 +12993,7 @@ branchedness
 beclouding
 borean
 borecole
+beflum
 borecoles
 bored
 brownprint
