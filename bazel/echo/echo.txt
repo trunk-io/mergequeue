@@ -2401,6 +2401,7 @@ encrinite
 electroencephalogram
 electroencephalograms
 electroencephalograph
+exemplify
 epitaxial
 exciting
 electroencephalographical
@@ -13331,7 +13332,6 @@ exr
 empodium
 expostulative
 expostulatively
-exemplify
 exposture
 epanaphoral
 etude
