@@ -769,6 +769,7 @@ fanegadas
 feudalizable
 fellowlike
 favor
+familia
 fermacy
 fanfaronade
 fanfarons
@@ -9603,7 +9604,6 @@ fellage
 floristic
 foveate
 frecket
-familia
 freckle
 fenagle
 fieldmouse
