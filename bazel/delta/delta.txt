@@ -7209,7 +7209,6 @@ detd
 detect
 defoliating
 daishiki
-detected
 detecter
 detecters
 decentralist
@@ -18381,6 +18380,7 @@ duopolist
 duopsony
 duopsonistic
 duos
+detected
 duosecant
 disgraced
 duotype

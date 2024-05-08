@@ -3818,7 +3818,6 @@ ginglymoid
 greece
 gibber
 ganomalite
-gibberella
 guanylic
 gibberellin
 gaffing
@@ -6400,6 +6399,7 @@ grabens
 garnet
 gliffy
 gastriloquous
+gibberella
 greenhouse
 gastronomist
 goblin
