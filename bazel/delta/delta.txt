@@ -6329,7 +6329,6 @@ dermatosclerosis
 dermatoscopy
 delegatus
 dermatoses
-dermatosiophobia
 degausses
 dermatotherapy
 depurated
@@ -7783,6 +7782,7 @@ dholes
 devolatilised
 dervishes
 dielectrics
+dermatosiophobia
 dryrot
 devolatilization
 depeople
