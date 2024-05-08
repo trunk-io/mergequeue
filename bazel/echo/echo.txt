@@ -10822,6 +10822,7 @@ eulogious
 euphonic
 evermore
 eulogising
+expandible
 eulogism
 eulogist
 eulogistic
@@ -12870,7 +12871,6 @@ expandedly
 expandedness
 expanders
 educabilia
-expandible
 embalmer
 etherialization
 erogate
