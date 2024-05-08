@@ -2130,7 +2130,6 @@ banqueter
 bundist
 banqueting
 banquets
-banquette
 bans
 bansalague
 boguing
@@ -11949,6 +11948,7 @@ biogens
 bohireen
 begroaned
 breathing
+banquette
 bohor
 bohora
 bohorok
