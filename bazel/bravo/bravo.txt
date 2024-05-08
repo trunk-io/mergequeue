@@ -6523,7 +6523,6 @@ benzothiodiazole
 benzothiofuran
 benzothiophene
 benzothiopyran
-benzotriazine
 benzotriazole
 benzotrichloride
 buster
@@ -10955,6 +10954,7 @@ bloodlessly
 blithesome
 blithesomely
 bkgd
+benzotriazine
 blithest
 blitum
 blitz
