@@ -7104,6 +7104,7 @@ devitaminize
 diluvian
 dressages
 destructible
+dispersement
 destructibleness
 dicoccous
 dimedon
@@ -7156,7 +7157,6 @@ delatorian
 desulphurised
 dysgnosia
 desulphurising
-dispersement
 drawboring
 deerkill
 dents
