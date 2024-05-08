@@ -5059,7 +5059,6 @@ demurral
 demurrals
 demurrant
 demurrer
-demurrers
 demurring
 demurringly
 deadhand
@@ -9058,6 +9057,7 @@ dictatorial
 dictatorialness
 dictators
 disserviceable
+demurrers
 dictatorships
 doxycycline
 dictature
