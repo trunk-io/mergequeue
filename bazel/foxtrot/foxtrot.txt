@@ -7857,7 +7857,6 @@ foreran
 forereach
 forereading
 forerecited
-forereckon
 forerehearsed
 forerequest
 foreribs
@@ -11014,6 +11013,7 @@ fumarolic
 fumatory
 fumatoria
 fumatoriums
+forereckon
 fasted
 fumble
 fumbled
