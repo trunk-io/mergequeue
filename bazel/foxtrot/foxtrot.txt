@@ -500,6 +500,7 @@ fumados
 falcata
 falcate
 fylgja
+finned
 falces
 falciform
 frowny
@@ -4025,7 +4026,6 @@ frondescing
 finmarks
 finnac
 finnan
-finned
 finner
 finny
 fiddledeedee
