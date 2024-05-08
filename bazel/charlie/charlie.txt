@@ -2057,6 +2057,7 @@ campanulales
 campanular
 campanulariae
 campanularidae
+chimere
 campanulatae
 campanulate
 campanulated
@@ -10735,7 +10736,6 @@ chimer
 chimeral
 chimeras
 chanteys
-chimere
 chimeric
 chimerically
 calci
