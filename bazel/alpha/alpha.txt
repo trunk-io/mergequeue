@@ -18735,7 +18735,6 @@ archaeologist
 archaeomagnetism
 archaeopterygiformes
 archaeopteris
-archaeopteryx
 archaeornis
 altincar
 archaeornithes
@@ -20804,6 +20803,7 @@ artocarpous
 artolater
 artolatry
 amianthiform
+archaeopteryx
 abraid
 artophagous
 artophophoria
