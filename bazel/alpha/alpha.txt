@@ -5145,7 +5145,6 @@ aerostatical
 amalett
 apteryges
 aerostats
-avunculize
 aerosteam
 aerotactic
 aerotaxis
@@ -17699,6 +17698,7 @@ appellable
 appellant
 appellants
 appellation
+avunculize
 aeropulse
 appendiculated
 acalypterae
