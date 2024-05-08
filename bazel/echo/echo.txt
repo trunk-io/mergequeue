@@ -4661,7 +4661,6 @@ ephahs
 electromagnets
 encyclopedial
 encyclopedian
-extrality
 encyclopedias
 encyclopedic
 encyclopedical
@@ -10321,6 +10320,7 @@ ethylamide
 ethylamime
 estus
 ethylamine
+extrality
 ethylate
 ethylates
 excavators
