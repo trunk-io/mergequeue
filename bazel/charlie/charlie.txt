@@ -2143,6 +2143,7 @@ camping
 campion
 campions
 campit
+chargers
 calcaneus
 cample
 chaetopoda
@@ -7712,7 +7713,6 @@ codewords
 cerebrose
 chirruped
 cerebrosensorial
-chargers
 cerebrosis
 cerebrospinal
 cerebrospinant
