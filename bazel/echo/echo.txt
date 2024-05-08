@@ -951,6 +951,7 @@ ecttypal
 ecu
 excurvation
 ediface
+exhaustedness
 equates
 exeresis
 ecuadorian
@@ -12471,7 +12472,6 @@ exhibitionistic
 exhibitionists
 extracanonical
 exhibitions
-exhaustedness
 excluded
 epicycloid
 exhibitors
