@@ -12799,6 +12799,7 @@ angiomas
 angiomata
 angiomatosis
 angiomyocardiac
+antiphrastic
 angiomyoma
 anoestrous
 angiomyosarcoma
@@ -15900,7 +15901,6 @@ assistants
 antiphrases
 antiphrasis
 autogamy
-antiphrastic
 antiphthisic
 antiepileptic
 antiphthisical
