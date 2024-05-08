@@ -271,6 +271,7 @@ abdominoanterior
 abdominocentesis
 abdominocystic
 abdominogenital
+anesthetization
 aurata
 affiant
 abdominohysterotomy
@@ -12603,7 +12604,6 @@ acarology
 anesthetically
 anesthetics
 anesthetists
-anesthetization
 anesthetize
 atveen
 anesthetized
