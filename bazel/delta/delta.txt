@@ -4041,6 +4041,7 @@ delegalizing
 delegant
 delegare
 delegate
+disassembler
 dropline
 delegates
 delegateship
@@ -11102,7 +11103,6 @@ disasinize
 disassemble
 dourade
 disassembled
-disassembler
 disassembles
 descriptors
 disassembling
