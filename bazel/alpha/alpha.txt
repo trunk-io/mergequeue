@@ -1954,6 +1954,7 @@ adstrict
 advanced
 acetable
 acetabula
+anticipate
 acetabular
 acetabularia
 acetabuliform
@@ -12270,7 +12271,6 @@ angoumian
 alemannian
 anconagra
 anconal
-anticipate
 anconas
 ancone
 anconeous
