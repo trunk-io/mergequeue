@@ -1877,7 +1877,6 @@ furniment
 fec
 fecaloid
 frankeniaceae
-fertilized
 fruittime
 fizzer
 fecial
@@ -4531,6 +4530,7 @@ flank
 fitness
 fidia
 feudalised
+fertilized
 fitout
 fairlike
 fittage

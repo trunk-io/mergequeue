@@ -6944,6 +6944,7 @@ enjoyableness
 entosphenal
 entosphere
 entosternal
+epimysium
 entosternum
 entosthoblast
 entothorax
@@ -10699,7 +10700,6 @@ excluders
 exchangee
 experience
 emblematically
-epimysium
 eudaemons
 eudaimonia
 eudaimonism
