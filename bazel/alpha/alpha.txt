@@ -2008,6 +2008,7 @@ acetylator
 acetylbenzene
 amenders
 acetylbenzoate
+ambries
 acetylbenzoic
 acetylcarbazole
 acetylcellulose
@@ -10120,7 +10121,6 @@ ambrette
 ambrettolide
 aphrizite
 ambry
-ambries
 alluminor
 ambrite
 ambroid
