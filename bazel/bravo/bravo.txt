@@ -4023,7 +4023,6 @@ beadhouse
 beady
 beadier
 baalitical
-beerothite
 beadiest
 beading
 beadings
@@ -12200,6 +12199,7 @@ boltcutter
 bookmark
 buckstay
 bolted
+beerothite
 bowenite
 bolters
 bedotted
