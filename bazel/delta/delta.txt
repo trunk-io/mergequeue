@@ -678,7 +678,6 @@ dampers
 dampishly
 dampishness
 dampne
-disseminate
 dampness
 dampproof
 dampproofer
@@ -17420,6 +17419,7 @@ dropout
 dolce
 dinitrobenzene
 droppage
+disseminate
 dropped
 droppers
 droppy
