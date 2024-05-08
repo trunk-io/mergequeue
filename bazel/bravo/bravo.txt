@@ -3763,7 +3763,6 @@ batties
 battik
 batting
 battings
-battledores
 baldly
 barotraumata
 battledoring
@@ -12576,6 +12575,7 @@ bonzer
 bosk
 bp
 bonzery
+battledores
 benchland
 bonzes
 bushgoats
