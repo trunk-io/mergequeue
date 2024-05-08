@@ -5322,7 +5322,6 @@ giftless
 glaucophane
 grippy
 gyrant
-gloppy
 gorilla
 glibly
 glibness
@@ -8258,6 +8257,7 @@ gentlemanlike
 gaeltacht
 gushet
 grassy
+gloppy
 graminaceae
 gallycrow
 galvanoglyphy
