@@ -7383,7 +7383,6 @@ forbids
 farfels
 foregather
 florilegia
-friandise
 forbled
 fading
 forbode
@@ -11185,6 +11184,7 @@ funfest
 flashtester
 fend
 figged
+friandise
 flirts
 furores
 fungation
