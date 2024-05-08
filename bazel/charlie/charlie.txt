@@ -2018,6 +2018,7 @@ chests
 camoufleurs
 camp
 campa
+catarrhal
 campagi
 coquettes
 crosslets
@@ -5660,7 +5661,6 @@ cataractous
 cataracts
 cataractwise
 cataria
-catarrhal
 col
 catarrhed
 catarrhina
