@@ -1364,7 +1364,6 @@ gundeck
 giftlike
 gaonate
 gardenless
-gardenlike
 gardnap
 gardenmaking
 gabbroic
@@ -5198,6 +5197,7 @@ gregarinous
 goldcup
 glauconia
 glauconiidae
+gardenlike
 glaucophanite
 gallish
 gammick
