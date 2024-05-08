@@ -236,7 +236,6 @@ abc
 abcissa
 abcoulomb
 abd
-abdali
 aba
 abdaria
 abdat
@@ -24167,6 +24166,7 @@ autoinfection
 autolyzate
 autolyze
 auks
+abdali
 autolyzed
 autolyzes
 autoloader
