@@ -1984,6 +1984,7 @@ gaucie
 gynopara
 gumshoe
 gowd
+gisla
 gummier
 gaudeamus
 gaudeamuses
@@ -9484,7 +9485,6 @@ groupment
 glimes
 groupoid
 galbraithian
-gisla
 groupwise
 grouseberry
 groused
