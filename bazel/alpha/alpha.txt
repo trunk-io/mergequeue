@@ -1523,7 +1523,6 @@ acclaimer
 afterwrist
 acclaimers
 acclamator
-acclamatory
 acclimatable
 acclimatation
 acclimate
@@ -22018,6 +22017,7 @@ anus
 astart
 astarte
 aramu
+acclamatory
 astigmatoscopies
 astartidae
 afforest
