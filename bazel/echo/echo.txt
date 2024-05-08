@@ -3039,6 +3039,7 @@ embeds
 elliot
 educationable
 epeiridae
+enlistment
 elem
 elocutionize
 ellipsis
@@ -6029,7 +6030,6 @@ enlisted
 ellan
 exulcerative
 enlister
-enlistment
 enlistments
 enlive
 enliven
