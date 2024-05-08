@@ -5348,7 +5348,6 @@ falconer
 fretsome
 foredispose
 fleeter
-fleetest
 fleeting
 fusionless
 fleets
@@ -10080,6 +10079,7 @@ formity
 frijole
 ferruled
 fogging
+fleetest
 foraging
 fiercly
 frijolillo
