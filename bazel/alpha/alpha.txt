@@ -1188,7 +1188,6 @@ aneroidograph
 academician
 academicianship
 academicism
-academics
 academie
 academies
 abacaxi
@@ -5881,6 +5880,7 @@ apluda
 autonavigators
 agaristidae
 agarita
+academics
 astronautics
 ameristic
 agaroid
