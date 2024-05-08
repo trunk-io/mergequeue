@@ -4147,6 +4147,7 @@ boondoggles
 bearbaiter
 bedmaking
 blearedness
+byname
 bearbane
 buccheros
 bearberry
@@ -8819,7 +8820,6 @@ barycentre
 bimuscular
 binal
 bugologist
-byname
 binaphthyl
 binaries
 binate
