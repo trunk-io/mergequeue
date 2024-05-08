@@ -2089,6 +2089,7 @@ banksmen
 bibliophage
 banlieu
 botel
+boated
 boidae
 backgeared
 beuniformed
@@ -11570,7 +11571,6 @@ barspoon
 byres
 brutality
 boatbuilding
-boated
 boatel
 boatheader
 boathook
