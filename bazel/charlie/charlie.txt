@@ -5604,6 +5604,7 @@ cataloguize
 catalonian
 cataloon
 catalos
+colilysin
 catalpa
 catalpas
 catalufa
@@ -18842,7 +18843,6 @@ coliidae
 chaetophoraceae
 cavil
 clitellus
-colilysin
 caddied
 colymbidae
 coarcted
