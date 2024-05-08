@@ -6954,7 +6954,6 @@ airport
 airports
 airpost
 airposts
-asst
 airproofs
 aggrieving
 ambagiously
@@ -16983,6 +16982,7 @@ apiarist
 apiarists
 adolescently
 apiator
+asst
 achenium
 apically
 apices
