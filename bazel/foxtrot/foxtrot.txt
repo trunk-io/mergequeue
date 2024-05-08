@@ -1831,7 +1831,6 @@ fraenum
 featliness
 fuscescent
 fractureproof
-fissiparous
 forane
 feats
 fainness
@@ -4552,6 +4551,7 @@ formulised
 forty
 financiered
 fitzclarence
+fissiparous
 fidessa
 fitzroya
 forgers
