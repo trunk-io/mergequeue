@@ -20491,7 +20491,6 @@ compartment
 conelet
 compartmentalization
 compartmentalized
-compartmentalizing
 chrysenic
 compartmentation
 crenelling
@@ -29437,6 +29436,7 @@ civilizade
 crystallike
 crystallin
 crystalline
+compartmentalizing
 crystalling
 crystallinity
 closet
