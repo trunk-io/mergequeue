@@ -6128,7 +6128,6 @@ affrontee
 arcaded
 archt
 aggroupment
-aghan
 aghanee
 aghas
 aghast
@@ -14408,6 +14407,7 @@ anthochlorine
 authorially
 anthocyan
 anthropidae
+aghan
 anthocyanidin
 anthocyanin
 apocryphate
