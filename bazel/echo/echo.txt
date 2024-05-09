@@ -1090,7 +1090,6 @@ expurgatory
 edibles
 edict
 extratemporal
-edictal
 edictally
 edictum
 edicule
@@ -9152,6 +9151,7 @@ eschalots
 elumbated
 erythrolytic
 erythroneocytosis
+edictal
 erythronium
 erythropenia
 espoused
