@@ -10408,7 +10408,6 @@ germanics
 gumchewer
 gumdigging
 gumdrop
-gumhar
 gumless
 gigman
 gumly
@@ -10697,6 +10696,7 @@ gazzetta
 garnishing
 gonopodia
 gladiolus
+gumhar
 gairfish
 gustables
 gustard
