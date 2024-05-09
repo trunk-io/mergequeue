@@ -3295,7 +3295,6 @@ capon
 caponata
 chloroacetic
 capone
-caponette
 cyrtandraceae
 caponier
 cassolette
@@ -28921,6 +28920,7 @@ cribbling
 cribellum
 crible
 cribose
+caponette
 cribrate
 cribrately
 cribriform
