@@ -4057,7 +4057,6 @@ empiecement
 equilibristic
 electroosmotic
 empyemata
-empyemic
 effuse
 empierce
 empiercement
@@ -11212,6 +11211,7 @@ eutrophication
 ectoderms
 eutrophies
 eutropous
+empyemic
 euxanthate
 euxanthin
 euxanthone
