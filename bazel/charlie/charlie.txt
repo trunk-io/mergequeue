@@ -6023,7 +6023,6 @@ catholicus
 cleg
 catholyte
 cathouse
-carryable
 chandeliers
 cathouses
 crownling
@@ -11030,6 +11029,7 @@ chironym
 chironomid
 chironomidae
 coinhabit
+carryable
 chironomus
 cosmologies
 curlicuing
