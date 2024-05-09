@@ -1769,6 +1769,7 @@ buses
 biretta
 balun
 balustrade
+besmearer
 balustrades
 balustrading
 balwarra
@@ -15043,7 +15044,6 @@ breviger
 brevilingual
 beholding
 bestirring
-besmearer
 breviloquent
 bedflower
 breviradiate
