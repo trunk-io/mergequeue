@@ -327,7 +327,6 @@ fancifully
 falding
 fairyology
 flaxdrop
-failure
 failures
 factish
 fainaigue
@@ -6867,6 +6866,7 @@ foreadvertise
 foliates
 filopodium
 foliating
+failure
 foliation
 foliature
 foliiferous
