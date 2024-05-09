@@ -5108,6 +5108,7 @@ denatured
 denaturing
 diminishingturns
 denaturisation
+diphenylamine
 denaturise
 denaturised
 duodiode
@@ -10420,7 +10421,6 @@ dibase
 diphenan
 diphenhydramine
 diphenylacetylene
-diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
 diaphoretic
