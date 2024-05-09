@@ -4300,6 +4300,7 @@ friendlies
 fise
 forb
 fisetin
+flunked
 focuser
 fibroplastic
 fishability
@@ -6337,7 +6338,6 @@ friability
 freckliest
 ferriprussiate
 foute
-flunked
 flunkey
 fullback
 fixtureless
