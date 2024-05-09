@@ -2237,7 +2237,6 @@ gurish
 genocides
 gnathites
 gearcase
-gearcases
 gearman
 gears
 guernseys
@@ -7177,6 +7176,7 @@ gad
 goopy
 glaciate
 greenthumbed
+gearcases
 geotectonics
 gorgonlike
 gorgons
