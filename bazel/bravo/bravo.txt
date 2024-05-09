@@ -4221,7 +4221,6 @@ beasties
 biomedical
 backbend
 beastily
-beastish
 beastishness
 beastly
 beastlier
@@ -6922,6 +6921,7 @@ besayle
 brachycephalic
 besan
 besant
+beastish
 bravados
 bescab
 bescarf
