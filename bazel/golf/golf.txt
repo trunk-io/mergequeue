@@ -6648,7 +6648,6 @@ ganglioneural
 glaucic
 gelechiidae
 grottolike
-goma
 gomari
 gametophobia
 grasp
@@ -9344,6 +9343,7 @@ grosbeaks
 groser
 gosh
 groset
+goma
 grosgrain
 gypsies
 grosgrains
