@@ -4404,6 +4404,7 @@ fishweed
 fico
 fishwood
 fishworker
+forisfamiliate
 fishworks
 fringilliformes
 furze
@@ -8284,7 +8285,6 @@ furnished
 felonous
 forints
 facade
-forisfamiliate
 forisfamiliation
 forjaskit
 forjesket
