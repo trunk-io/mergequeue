@@ -4047,7 +4047,6 @@ fattable
 finecomb
 fellatrixes
 fletching
-frockless
 finnochio
 filiopietistic
 finns
@@ -5369,6 +5368,7 @@ flanges
 frankfold
 figgum
 faithing
+frockless
 flem
 flemer
 fluozirconic
