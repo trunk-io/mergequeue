@@ -3625,7 +3625,6 @@ embreathe
 embrectomy
 embrica
 embryectomy
-embryectomies
 embright
 epigrammatist
 embrighten
@@ -9441,6 +9440,7 @@ escalating
 escalations
 entrance
 enkindle
+embryectomies
 escalator
 escalier
 echeveria
