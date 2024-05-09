@@ -5500,6 +5500,7 @@ epidendric
 effector
 enfasten
 episporangium
+ephemeron
 enfatico
 enfavor
 enfeeble
@@ -5834,7 +5835,6 @@ enharbour
 empanelled
 enharden
 eurytopicity
-ephemeron
 enhardy
 enharmonic
 eructates
