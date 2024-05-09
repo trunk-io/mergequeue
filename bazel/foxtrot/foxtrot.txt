@@ -1629,6 +1629,7 @@ favosely
 favosite
 frostbit
 flowerpots
+fireplace
 favosites
 forecovert
 favositidae
@@ -4176,7 +4177,6 @@ fragmentize
 fohat
 firepink
 firepinks
-fireplace
 fireplow
 farcical
 fleeceable

@@ -21470,7 +21470,6 @@ concordably
 concordal
 concordance
 concordancer
-concordances
 concordancy
 concordant
 concordantial
@@ -29296,6 +29295,7 @@ concelebrated
 cryptogrammic
 craggedly
 cryptograms
+concordances
 composition
 cryptograph
 cryptographal
