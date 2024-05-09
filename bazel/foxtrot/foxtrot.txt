@@ -1678,6 +1678,7 @@ fcomp
 fconv
 farcin
 fcp
+formity
 familiar
 faradocontractility
 four
@@ -10082,7 +10083,6 @@ fusileers
 frying
 francophilism
 frija
-formity
 frijole
 ferruled
 foraging
