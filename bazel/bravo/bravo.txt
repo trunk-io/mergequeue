@@ -1739,7 +1739,6 @@ bigotries
 balsamina
 balsaminaceae
 balsaminaceous
-balsamine
 balsaming
 bankside
 balsamitic
@@ -15670,6 +15669,7 @@ brocht
 brochure
 bullfight
 babblishly
+balsamine
 brock
 brockets
 brockish
