@@ -3415,6 +3415,7 @@ elaphe
 enate
 epees
 elaeothesium
+ethysulphuric
 embezzlement
 embezzlers
 embezzling
@@ -10360,7 +10361,6 @@ ethiopia
 ethiopian
 ethiopians
 enzymologies
-ethysulphuric
 excelsitude
 ethize
 ethmyphitis
