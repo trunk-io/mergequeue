@@ -12504,7 +12504,6 @@ chromic
 chromicizing
 chromid
 confocally
-chromidae
 chromide
 chromides
 chromididae
@@ -21027,6 +21026,7 @@ computationally
 computations
 computatively
 computativeness
+chromidae
 circumstantiates
 compute
 computed
