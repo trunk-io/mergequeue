@@ -16818,7 +16818,6 @@ clownade
 clownage
 clownery
 clowneries
-clownheal
 coadjutrices
 clowning
 clownishness
@@ -27422,6 +27421,7 @@ courtiers
 courtin
 cauldron
 courting
+clownheal
 courtly
 courtlier
 compreg
