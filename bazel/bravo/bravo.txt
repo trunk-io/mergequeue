@@ -4352,7 +4352,6 @@ bebat
 bebathe
 bebeast
 bebed
-bebeerin
 bebeerine
 bebeerus
 bobo
@@ -11725,6 +11724,7 @@ bocce
 bocces
 boccia
 boccias
+bebeerin
 boccie
 backstring
 bromogelatin
