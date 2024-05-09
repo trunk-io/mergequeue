@@ -9198,6 +9198,7 @@ fractionalized
 forepoled
 fractionally
 foreperiod
+flakers
 fodient
 faired
 florulae
@@ -10761,7 +10762,6 @@ flam
 frumpling
 frumps
 frundel
-flakers
 frusla
 fecche
 frustrated
