@@ -5845,6 +5845,7 @@ forts
 fencing
 froggiest
 furans
+floroscope
 flocculency
 flocculent
 floccules
@@ -8183,7 +8184,6 @@ forficate
 felines
 forficated
 forfication
-floroscope
 forficiform
 forficula
 fioriture

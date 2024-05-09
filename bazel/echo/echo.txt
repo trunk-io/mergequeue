@@ -5540,7 +5540,6 @@ enfettering
 enophthalmos
 equianchorate
 enfever
-enfevered
 enfevering
 enfevers
 eyeline
@@ -13849,6 +13848,7 @@ extracurricular
 extracurriculum
 extracutaneous
 electropoion
+enfevered
 eosin
 extradicted
 ethnics
