@@ -11708,7 +11708,6 @@ cholericness
 choleriform
 cholerigenous
 cholerine
-choleroid
 cholerophobia
 cholerrhagia
 cholestanol
@@ -11843,6 +11842,7 @@ chondroitin
 chondrology
 chondromata
 chondromatous
+choleroid
 chondromyces
 chondromyxosarcoma
 chondromucoid
