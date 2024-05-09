@@ -7929,7 +7929,6 @@ gonolobus
 gemse
 grandpapa
 granny
-grandparent
 gruesomely
 garbo
 gastrolytic
@@ -9939,6 +9938,7 @@ generical
 guarrau
 gratillity
 glegness
+grandparent
 guars
 gipsyfy
 gaiters
