@@ -2337,7 +2337,6 @@ goblet
 guideway
 gey
 gaits
-gallantry
 griseofulvin
 gorgonacean
 geyerite
@@ -6292,6 +6291,7 @@ geocentrical
 gargarize
 goalpost
 gambusias
+gallantry
 goals
 governessdom
 gaddishness
