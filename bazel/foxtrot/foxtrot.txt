@@ -8051,6 +8051,7 @@ flashback
 forestral
 flunkeys
 forestries
+fever
 fluorescent
 firebrats
 flayflint
@@ -9001,7 +9002,6 @@ fenrir
 fitweed
 fouquieriaceae
 forcipated
-fever
 fumify
 fovent
 fourball
