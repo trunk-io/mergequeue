@@ -2166,7 +2166,6 @@ anaspid
 achate
 achatina
 achatinidae
-afterripening
 act
 ache
 acheat
@@ -16673,6 +16672,7 @@ arthrodynic
 aparejos
 apargia
 aparithmesis
+afterripening
 apart
 actinologue
 automaker
