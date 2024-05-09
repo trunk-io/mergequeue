@@ -4629,7 +4629,6 @@ demilancer
 decurrence
 demilawyer
 demilitarisation
-demilitarise
 demilitarised
 demilitarising
 demilitarization
@@ -13284,6 +13283,7 @@ disproval
 disprover
 demurrage
 disproves
+demilitarise
 disprovide
 dispunitive
 dispurse
