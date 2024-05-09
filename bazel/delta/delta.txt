@@ -3498,6 +3498,7 @@ defoggers
 deluder
 defogging
 defogs
+dysfunctional
 defoil
 dawish
 dorsobranchiata
@@ -12186,7 +12187,6 @@ disfunction
 declaratively
 dennstaedtia
 dendrochronological
-dysfunctional
 dysfunctioning
 disability
 detector
