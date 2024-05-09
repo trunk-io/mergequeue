@@ -6352,7 +6352,6 @@ bentgrass
 brachycatalectic
 bridechamber
 belaboured
-benthal
 benthamic
 benthamism
 benthic
@@ -12095,6 +12094,7 @@ bolelike
 bacchanalias
 bolero
 bivoltine
+benthal
 biclavate
 boleros
 blaff
