@@ -6657,7 +6657,6 @@ didymitis
 desertions
 desertism
 desertless
-desertlessly
 desertness
 desertress
 desertrice
@@ -9046,6 +9045,7 @@ dictaphones
 dictate
 dictating
 doping
+desertlessly
 deglycerine
 dictatingly
 dictation
