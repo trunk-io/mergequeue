@@ -6900,7 +6900,6 @@ bewrap
 basigenous
 bibliolatry
 bertrum
-bullarium
 beruffed
 beruffled
 bedumbing
@@ -13882,6 +13881,7 @@ brierberry
 boxhauling
 boxhauls
 boxhead
+bullarium
 boxy
 boxing
 boxkeeper
