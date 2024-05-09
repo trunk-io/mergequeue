@@ -9759,6 +9759,7 @@ dilling
 doorstops
 dillisk
 dills
+discern
 dillseed
 dimetria
 desilver
@@ -17701,7 +17702,6 @@ dualizes
 dually
 dualmutef
 dualogue
-discern
 duals
 duan
 dunkard
