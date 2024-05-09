@@ -6962,7 +6962,6 @@ airscapes
 airscrews
 airshed
 aldohexose
-airsheds
 airships
 airsick
 airsickness
@@ -24288,6 +24287,7 @@ amorosa
 autoplast
 autoplasty
 autopneumatic
+airsheds
 autopoint
 autopoisonous
 autopolar
