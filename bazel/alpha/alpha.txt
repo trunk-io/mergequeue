@@ -2406,7 +2406,6 @@ acidometry
 antinationalization
 asmear
 acidophil
-acidophile
 acidophilic
 acidophilus
 acidoses
@@ -6868,6 +6867,7 @@ alanyls
 airdropping
 airdrops
 aired
+acidophile
 airedale
 airedales
 airer
