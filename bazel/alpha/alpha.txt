@@ -6074,7 +6074,6 @@ aggravating
 aggravatingly
 aggravation
 aggravations
-aggravative
 aggravator
 aggregable
 adenohypophysis
@@ -20015,6 +20014,7 @@ armorplated
 aplopappus
 armorproof
 armors
+aggravative
 armorwise
 armouchiquois
 anopisthographic
