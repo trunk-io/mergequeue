@@ -4496,6 +4496,7 @@ encephalartos
 encephalasthenia
 exurbias
 encyclical
+expiable
 encephalic
 encephalin
 encephalitic
@@ -13099,7 +13100,6 @@ expertness
 enlure
 estriche
 enfeature
-expiable
 enregistration
 expiating
 equitant
