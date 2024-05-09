@@ -1171,7 +1171,6 @@ bajonado
 bajra
 beltmen
 brakehand
-bajree
 bajury
 bakairi
 bakal
@@ -2731,6 +2730,7 @@ barograms
 barograph
 barographic
 bathtubs
+bajree
 barbiturates
 bioscientific
 baroko
