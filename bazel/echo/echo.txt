@@ -4703,7 +4703,6 @@ encysts
 erythrocytolysin
 encitadel
 evenest
-eyepieces
 enclasping
 enclasps
 enclave
@@ -12426,6 +12425,7 @@ exfoliative
 entopical
 egocentristic
 exhalation
+eyepieces
 expiscator
 ejective
 exhalations
