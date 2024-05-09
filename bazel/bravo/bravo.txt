@@ -1403,7 +1403,6 @@ baldpatedness
 baldrib
 baldrick
 baldrics
-baldricwise
 balds
 balducta
 bugged
@@ -16541,6 +16540,7 @@ brisky
 borer
 bubbling
 ballon
+baldricwise
 bubblish
 bube
 bubinga
