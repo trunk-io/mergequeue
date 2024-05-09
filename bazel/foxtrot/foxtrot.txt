@@ -2849,7 +2849,6 @@ farmsteads
 fetching
 floreat
 feterita
-foxproof
 fetes
 fluidly
 fetichic
@@ -10014,6 +10013,7 @@ friendliest
 forepeaks
 friendlike
 friendliwise
+foxproof
 fevercup
 fuse
 fenestrone
