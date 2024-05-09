@@ -1636,6 +1636,7 @@ ballot
 bacauan
 ballota
 ballotade
+brewises
 bilobated
 balloted
 balloter
@@ -15076,7 +15077,6 @@ brewhouses
 brewing
 brewis
 benzofuroquinoxaline
-brewises
 bocks
 brewmaster
 bibliopolistic
