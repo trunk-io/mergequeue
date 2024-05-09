@@ -2223,6 +2223,7 @@ guttur
 gazpachos
 grainer
 graders
+gestations
 gconv
 gdinfo
 gds
@@ -6933,7 +6934,6 @@ gangliglia
 grewhound
 graphemes
 gammed
-gestations
 glaucopis
 giaour
 glyconin
