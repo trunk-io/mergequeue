@@ -2497,6 +2497,7 @@ camelion
 candler
 candlerent
 candlers
+chlorocalcite
 candles
 candleshine
 candleshrift
@@ -11365,7 +11366,6 @@ chloroaurite
 chlorobenzene
 chlorobromide
 chlorobromomethane
-chlorocalcite
 corroboreeing
 chlorocarbonate
 chlorochromates
