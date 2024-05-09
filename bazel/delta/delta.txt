@@ -2037,7 +2037,6 @@ decayless
 duplicitous
 dummy
 decays
-defaced
 decal
 dodecylic
 decarbonate
@@ -8250,6 +8249,7 @@ diagnosticate
 denitrating
 diagnosticating
 demegoric
+defaced
 diagnostician
 dantist
 diagnosticians
