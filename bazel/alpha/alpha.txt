@@ -5551,6 +5551,7 @@ alembics
 afresh
 acinous
 another
+animadverts
 afrete
 africa
 apothecaries
@@ -13155,7 +13156,6 @@ animadverted
 animadverter
 antiphilosophic
 animadverting
-animadverts
 anthochlor
 abbreviator
 ahrendahronon
