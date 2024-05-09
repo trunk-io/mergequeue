@@ -3568,7 +3568,6 @@ carabaos
 carabeen
 carabidae
 carabidan
-carabidoid
 carabids
 carabine
 carabiner
@@ -25787,6 +25786,7 @@ corrigibly
 corrigiola
 corrigiolaceae
 corrival
+carabidoid
 corrivality
 corrivalry
 corrivals
