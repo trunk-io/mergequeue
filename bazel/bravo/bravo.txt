@@ -3958,7 +3958,6 @@ bd
 bebar
 bde
 bdellatomy
-brotan
 bdellium
 bdelliums
 bdelloid
@@ -15828,6 +15827,7 @@ bromidically
 bromidrosis
 bromids
 brominate
+brotan
 blowhard
 brominated
 brominating
