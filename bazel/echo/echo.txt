@@ -321,7 +321,6 @@ eunomia
 epitaphless
 eavedrop
 evangel
-eavedropper
 eavedropping
 exsecants
 eccentring
@@ -6403,6 +6402,7 @@ earthling
 enterprisingness
 ensky
 euthanasia
+eavedropper
 enskies
 enslaved
 emulate
