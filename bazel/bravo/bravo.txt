@@ -1307,7 +1307,6 @@ bedbug
 bacterioprecipitin
 balanopsidales
 balanorrhagia
-balanta
 bottine
 balante
 balantidic
@@ -12311,6 +12310,7 @@ bacchantic
 bombination
 bobfly
 bombing
+balanta
 brenthis
 beautifies
 bombings
