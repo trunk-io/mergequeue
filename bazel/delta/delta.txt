@@ -4421,7 +4421,6 @@ daylit
 detuned
 demandative
 dysacousia
-demanded
 demander
 dissyllabized
 demanding
@@ -11782,6 +11781,7 @@ discreetness
 discrepancies
 discrepancries
 discrepantly
+demanded
 didelphis
 discrepated
 discrepating
