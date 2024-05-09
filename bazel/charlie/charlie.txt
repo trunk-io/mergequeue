@@ -9571,6 +9571,7 @@ checkerwork
 commissionaire
 checkhook
 checky
+crystallometric
 checklaton
 cityful
 checkle
@@ -29485,7 +29486,6 @@ crystallomagnetic
 crystallomancy
 crystallometry
 continuist
-crystallometric
 crystallose
 cryptozonia
 congeable
