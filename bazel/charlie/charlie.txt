@@ -8743,7 +8743,6 @@ changedness
 changeful
 cataphyllary
 changefully
-changefulness
 changeless
 cynosural
 complementaries
@@ -23632,6 +23631,7 @@ contouring
 chivvies
 contours
 contr
+changefulness
 contrabandage
 contrabandery
 causticiser
