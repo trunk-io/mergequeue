@@ -10615,7 +10615,6 @@ blazons
 bld
 bothriocidaris
 bleach
-bleachable
 bleached
 bleacher
 bleachery
@@ -18105,6 +18104,7 @@ busuuti
 brazilins
 but
 benzhydrol
+bleachable
 butacaine
 boastless
 bishopess
