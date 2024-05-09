@@ -15116,6 +15116,7 @@ blossomhead
 bribees
 bribegiver
 bribeless
+brutalities
 briber
 briberies
 bribers
@@ -16458,7 +16459,6 @@ brutalist
 brutalitarian
 brutalitarianism
 billed
-brutalities
 backside
 brutalized
 bolivia
