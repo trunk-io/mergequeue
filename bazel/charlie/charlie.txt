@@ -6965,7 +6965,6 @@ cementoma
 cements
 cementwork
 cemetaries
-cemetery
 cemeterial
 ceratinous
 cemeteries
@@ -26595,6 +26594,7 @@ cachinnator
 cougar
 coughed
 choosiest
+cemetery
 cougher
 coughers
 culch
