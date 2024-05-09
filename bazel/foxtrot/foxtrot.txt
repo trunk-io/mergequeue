@@ -7402,7 +7402,6 @@ forbidding
 festiveness
 fruitery
 forbiddingly
-forbids
 farfels
 foregather
 florilegia
@@ -8088,6 +8087,7 @@ foretastes
 fragrancy
 foretasting
 fretsaw
+forbids
 foretell
 foretellable
 fillister
