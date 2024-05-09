@@ -4459,7 +4459,6 @@ fisticuff
 fort
 fouldre
 familiarness
-fisticuffery
 fistiness
 fisting
 falbala
@@ -10950,6 +10949,7 @@ folk
 farawayness
 flamingly
 foilable
+fisticuffery
 fiscalizing
 fullonian
 franticness
