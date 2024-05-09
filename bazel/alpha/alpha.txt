@@ -4984,7 +4984,6 @@ aerodonetic
 aerodonetics
 aerodontalgia
 aerodrome
-aerodromes
 acetyltannin
 aeroduct
 aeroducts
@@ -18250,6 +18249,7 @@ aquarelle
 aquarelles
 alascan
 aquaria
+aerodromes
 alcovinometer
 aquarial
 agt
