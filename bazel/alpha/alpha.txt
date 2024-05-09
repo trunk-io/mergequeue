@@ -1276,7 +1276,6 @@ acanthomas
 acanthomeridae
 acanthon
 acanthopanax
-acanthophis
 acanthophorous
 acanthopodous
 acanthopomatous
@@ -10350,6 +10349,7 @@ anatomisable
 amerinds
 ailuromania
 amerveil
+acanthophis
 amesace
 arendator
 amesaces
