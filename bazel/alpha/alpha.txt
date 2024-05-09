@@ -2358,6 +2358,7 @@ aciculum
 acid
 acidaemia
 appassionato
+analemmata
 acidanthera
 acidaspis
 acidemia
@@ -11729,7 +11730,6 @@ analcitite
 analecta
 analemma
 analemmas
-analemmata
 analepses
 analepsis
 analeptic
