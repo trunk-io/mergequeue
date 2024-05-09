@@ -12203,6 +12203,7 @@ boltage
 biasses
 boltcutter
 bookmark
+brightening
 buckstay
 bolted
 bowenite
@@ -15321,7 +15322,6 @@ breton
 bannerlike
 brighteyes
 brighten
-brightening
 brainwork
 blennoid
 brightest
