@@ -5986,7 +5986,6 @@ agents
 ageometrical
 ager
 ageratums
-agers
 ages
 agete
 allthorn
@@ -6865,6 +6864,7 @@ airdrome
 airdromes
 airdrop
 alanyls
+agers
 airdropping
 airdrops
 aired
