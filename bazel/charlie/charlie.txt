@@ -27167,7 +27167,6 @@ coverage
 cardicentesis
 counterstand
 counterstatant
-counterstep
 chapman
 counterstimulate
 counterstimulation
@@ -27675,6 +27674,7 @@ cowiest
 cowing
 crizzle
 carcinosarcomata
+counterstep
 cowinner
 cowinners
 cowish
