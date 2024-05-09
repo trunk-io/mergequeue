@@ -4621,6 +4621,7 @@ gainpain
 gyrating
 gyrator
 genocidal
+goar
 gyratory
 gyrators
 goldsmiths
@@ -6306,7 +6307,6 @@ goanese
 goanna
 gamboler
 ganglionless
-goar
 gahrwali
 graip
 goniale

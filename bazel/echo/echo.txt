@@ -3578,7 +3578,6 @@ exemplifies
 embowelling
 embowelment
 embowels
-exhaustible
 embowered
 esperantism
 embowering
@@ -9438,6 +9437,7 @@ escalations
 entrance
 enkindle
 escalator
+exhaustible
 escalier
 echeveria
 escalin
