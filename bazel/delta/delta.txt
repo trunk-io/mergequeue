@@ -2496,6 +2496,7 @@ deckel
 deckels
 deporte
 deblocking
+diagrammed
 dirigent
 decken
 deckhand
@@ -8275,7 +8276,6 @@ diagram
 diagramed
 dammers
 diagrammatic
-diagrammed
 diagrammer
 dendrograph
 diagrammers
