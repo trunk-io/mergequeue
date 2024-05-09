@@ -8449,7 +8449,6 @@ dialoguing
 dialonian
 dials
 dialup
-ds
 dialuric
 defenestrated
 diamagnet
@@ -8726,6 +8725,7 @@ dhootie
 diastimeter
 diastoles
 diastomatic
+ds
 diastral
 decors
 demonocracy
