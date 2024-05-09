@@ -20565,7 +20565,6 @@ arthralgic
 arthrectomy
 alae
 arthredema
-arthresthesia
 arthritic
 arrased
 arthritical
@@ -23847,6 +23846,7 @@ authorize
 authorized
 authorizer
 alluvions
+arthresthesia
 authorizers
 agostadero
 authorizes
