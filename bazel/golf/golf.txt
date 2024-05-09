@@ -1690,7 +1690,6 @@ gallons
 gastight
 gastly
 gillnet
-gastness
 gastnesses
 gregarinida
 gingili
@@ -3968,6 +3967,7 @@ gigantology
 genioplasty
 genetrix
 gangways
+gastness
 gateworks
 gigantological
 gaddi
