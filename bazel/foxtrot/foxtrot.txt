@@ -2931,7 +2931,6 @@ feudalist
 feudalists
 feudality
 fractionising
-fustigation
 feudalize
 fratching
 feudalized
@@ -11634,6 +11633,7 @@ fetch
 fioretti
 fustet
 fusty
+fustigation
 fustianish
 forbearingness
 fustianize
