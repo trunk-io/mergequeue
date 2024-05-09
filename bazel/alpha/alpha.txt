@@ -1637,6 +1637,7 @@ accorded
 accorder
 accordingly
 accordion
+allothigenic
 accordionist
 accordionists
 autoportrait
@@ -8992,7 +8993,6 @@ allotheism
 allotheria
 allothigenetically
 anthropomorphising
-allothigenic
 allothimorph
 allothimorphic
 allothogenic
