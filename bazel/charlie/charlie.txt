@@ -11900,6 +11900,7 @@ chooseable
 coaster
 copaljocote
 caprock
+ceca
 chooser
 choosers
 cadilesker
@@ -12131,7 +12132,6 @@ chortling
 chortosterol
 chaunters
 champlev
-ceca
 chorused
 choruses
 chorusing
