@@ -5412,6 +5412,7 @@ afflictionless
 afflictions
 archoplasm
 afflictive
+arsonium
 afflictively
 avadavats
 afflicts
@@ -6448,7 +6449,6 @@ agria
 agribusinesses
 agric
 agricere
-arsonium
 airs
 archscoundrel
 amphionic
