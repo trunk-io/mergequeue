@@ -7497,7 +7497,6 @@ conchucu
 cepheids
 cephen
 coastings
-cephid
 cardionephric
 cephidae
 cephus
@@ -14067,6 +14066,7 @@ cynomorium
 cynomorphic
 cynomorphous
 cynophilic
+cephid
 cynophilist
 cynophobe
 cynophobia

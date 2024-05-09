@@ -6138,7 +6138,6 @@ gnaphalium
 gravitate
 gnar
 gnarl
-gnarly
 greatcoats
 goutte
 gnarliest
@@ -8217,6 +8216,7 @@ grassbird
 gropes
 glossographical
 grasschat
+gnarly
 greyness
 grasscut
 grievously
