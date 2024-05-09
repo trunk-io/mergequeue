@@ -9597,6 +9597,7 @@ checkrack
 checkrail
 checkrein
 checkroll
+coventries
 checkroom
 compathy
 checkrooms
@@ -28881,7 +28882,6 @@ crevice
 creviced
 cussers
 crevices
-coventries
 crevis
 crew
 crewcut
