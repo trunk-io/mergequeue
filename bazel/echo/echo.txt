@@ -9441,7 +9441,6 @@ entrance
 enkindle
 escalator
 escalier
-echeveria
 escalin
 escalloniaceae
 erythrean
@@ -13542,6 +13541,7 @@ embroiders
 extance
 extancy
 ecchymosed
+echeveria
 extbook
 extemporal
 ethylated
