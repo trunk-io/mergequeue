@@ -3719,7 +3719,6 @@ batt
 bammed
 batta
 brotulidae
-battable
 battailant
 browntop
 blackest
@@ -15171,6 +15170,7 @@ backstrip
 bhoot
 bucketing
 benchers
+battable
 bridale
 basehearted
 bridally
