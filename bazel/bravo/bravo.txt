@@ -816,7 +816,6 @@ baedeker
 baedekerian
 baedekers
 bael
-baeria
 bliny
 bluecaps
 bonier
@@ -5787,6 +5786,7 @@ bavardage
 belknap
 bell
 bonos
+baeria
 bellacoola
 belladonna
 bifidities
