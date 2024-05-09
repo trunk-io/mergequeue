@@ -2498,7 +2498,6 @@ deck
 dateline
 deckedout
 deckel
-deckels
 deporte
 deblocking
 dirigent
@@ -6793,6 +6792,7 @@ diasynthesis
 desirer
 desires
 dihedrons
+deckels
 desirous
 desirousness
 desist
