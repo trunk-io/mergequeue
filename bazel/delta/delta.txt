@@ -3719,7 +3719,6 @@ damaging
 degust
 degusted
 dumaist
-degusting
 din
 degusts
 dehache
@@ -9461,6 +9460,7 @@ digestibly
 digestif
 digesting
 digestion
+degusting
 digestively
 digestiveness
 dermad
