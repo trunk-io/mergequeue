@@ -2787,7 +2787,6 @@ baudrons
 bowlers
 baronial
 burying
-baronies
 baronize
 baronized
 baronnes
@@ -14054,6 +14053,7 @@ brass
 brachistochrone
 brachistochronic
 brachistochronous
+baronies
 brachystomatous
 brachystomous
 brachytic
