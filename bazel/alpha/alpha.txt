@@ -4836,7 +4836,6 @@ aeipathy
 aetheling
 antedawn
 aeluroid
-aerobacteriology
 aeluroidea
 aelurophobe
 aeluropodous
@@ -17928,6 +17927,7 @@ accidentary
 apposer
 apposers
 apposing
+aerobacteriology
 alida
 allegiances
 appositely
