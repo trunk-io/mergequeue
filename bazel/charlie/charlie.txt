@@ -27420,7 +27420,6 @@ courtierly
 cabinetmaker
 courtiers
 courtin
-cauldron
 courting
 courtly
 courtlier
@@ -30254,6 +30253,7 @@ crunchiness
 crunching
 crunchingly
 crunchweed
+cauldron
 crunk
 crunkle
 crunodes
