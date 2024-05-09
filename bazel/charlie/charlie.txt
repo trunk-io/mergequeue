@@ -3367,7 +3367,6 @@ clifflet
 capreoline
 continuua
 commonable
-capreolus
 capretto
 capri
 capric
@@ -9473,6 +9472,7 @@ chawing
 chawk
 chawl
 chawle
+capreolus
 chawn
 chitarrino
 coying
