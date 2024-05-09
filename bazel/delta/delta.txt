@@ -8486,6 +8486,7 @@ diamins
 diammonium
 downgrades
 diamond
+discern
 diamondback
 diamondbacked
 dynamiting
@@ -17701,7 +17702,6 @@ dualizes
 dually
 dualmutef
 dualogue
-discern
 duals
 duan
 dunkard
