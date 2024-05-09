@@ -3674,7 +3674,6 @@ fatigability
 fortified
 franchisal
 fairstead
-foreleech
 fledges
 fermental
 fillable
@@ -9530,6 +9529,7 @@ flatfootedness
 fossilological
 fishpound
 floodometer
+foreleech
 fantasm
 featish
 frau
