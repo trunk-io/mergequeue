@@ -3818,7 +3818,6 @@ fights
 fimbriatum
 feral
 frigidness
-fimbricate
 fimbricated
 ferruminate
 fellowly
@@ -8732,6 +8731,7 @@ forchase
 fizz
 forbiddable
 flogged
+fimbricate
 fortunetelling
 fortunite
 forefence
