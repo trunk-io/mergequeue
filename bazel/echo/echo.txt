@@ -11578,7 +11578,6 @@ encodement
 eremiteship
 epitoxoid
 ernest
-energy
 ennoy
 evocator
 evoe
@@ -13260,6 +13259,7 @@ explosion
 explosionist
 epithecate
 explosions
+energy
 emoted
 explosively
 explosiveness
