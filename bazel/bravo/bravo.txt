@@ -2668,7 +2668,6 @@ barlafummil
 barleduc
 branchiate
 barleducs
-barley
 barleybrake
 barleybreak
 barleycorn
@@ -10369,6 +10368,7 @@ blandish
 blandished
 backwoodser
 bouleverse
+barley
 blandishers
 bumpering
 bemaddening
