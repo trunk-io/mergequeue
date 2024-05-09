@@ -6007,6 +6007,7 @@ gliss
 grasshook
 goldfinch
 gawney
+gulix
 growler
 gipsyweed
 glucoses
@@ -10715,7 +10716,6 @@ grayhead
 genesiurgic
 gustful
 gustfully
-gulix
 gusty
 gromet
 gustier

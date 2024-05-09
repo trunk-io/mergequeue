@@ -5618,7 +5618,6 @@ depatriate
 dispergation
 depauperate
 depauperation
-depauperize
 depauperized
 depeach
 depeinct
@@ -15277,6 +15276,7 @@ dolphinfishes
 dolphinlike
 dolphins
 design
+depauperize
 documentarily
 dolphus
 dryfat
