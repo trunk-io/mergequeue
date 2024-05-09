@@ -4639,7 +4639,6 @@ adversative
 adversatively
 armorial
 atavus
-analogice
 ambushed
 attomy
 adverse
@@ -13217,6 +13216,7 @@ applaudingly
 animative
 animato
 androseme
+analogice
 animatograph
 animators
 anteva
