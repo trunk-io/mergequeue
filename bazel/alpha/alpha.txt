@@ -4705,7 +4705,6 @@ advisiveness
 adviso
 adlumine
 amatungula
-advisor
 advisory
 advisories
 advisorily
@@ -13338,6 +13337,7 @@ anorexia
 archit
 aged
 anisoin
+advisor
 articulation
 anisol
 anisoles
