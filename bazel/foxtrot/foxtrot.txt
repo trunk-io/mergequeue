@@ -3065,7 +3065,6 @@ fiberboard
 fiberglas
 fiberizes
 fiberizing
-fenestrule
 fishmen
 festine
 flagstaves
@@ -3912,6 +3911,7 @@ forepromised
 frenziedly
 furriered
 frightfulness
+fenestrule
 forrue
 figuring
 finfoot

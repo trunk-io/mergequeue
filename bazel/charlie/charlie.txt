@@ -23953,7 +23953,6 @@ conurus
 conus
 conusable
 conusance
-conusant
 conuses
 conutrition
 conuzee
@@ -26464,6 +26463,7 @@ cotingid
 cotingidae
 cotingoid
 cotinus
+conusant
 cotype
 cusparine
 cotise
