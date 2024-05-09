@@ -6573,7 +6573,6 @@ enteria
 enwind
 enteric
 elaterid
-exolemma
 emove
 emphases
 elelments
@@ -12455,6 +12454,7 @@ echites
 essencing
 exheredation
 exhibit
+exolemma
 electrolyze
 exhibitable
 expedientially
