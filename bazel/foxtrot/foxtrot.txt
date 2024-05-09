@@ -5538,6 +5538,7 @@ fmt
 flied
 flier
 flyer
+foxfires
 footglove
 faeces
 flyers
@@ -9110,7 +9111,6 @@ foxfeet
 foxfire
 firmer
 forbruise
-foxfires
 frolicsomeness
 foxfish
 foxglove

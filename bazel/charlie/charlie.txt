@@ -2936,7 +2936,6 @@ canty
 choledochitis
 cantic
 canticle
-campesino
 canticles
 cantiga
 cantilated
@@ -9176,6 +9175,7 @@ charqued
 charqui
 charquid
 charr
+campesino
 charras
 charre
 charred
