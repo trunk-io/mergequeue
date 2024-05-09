@@ -4787,6 +4787,7 @@ girshes
 geomorphologic
 glossarian
 gaize
+gastrula
 gallomania
 guisard
 graecism
@@ -7349,7 +7350,6 @@ gothlander
 gurnetty
 gassit
 gotiglacial
-gastrula
 galactosidase
 gotos
 gangliitis
