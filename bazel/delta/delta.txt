@@ -9735,6 +9735,7 @@ demonkind
 dilettanti
 dilettantism
 dilettantist
+devote
 dilettantship
 diligence
 dynamiter
@@ -17162,7 +17163,6 @@ drillman
 discourser
 drillmaster
 drillmasters
-devote
 drylots
 drilvis
 dryness
