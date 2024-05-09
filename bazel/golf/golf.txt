@@ -1033,6 +1033,7 @@ gyrinus
 greeney
 ganders
 ganderteeth
+groupoid
 gesneraceae
 gandertmeeth
 gandharva
@@ -9475,7 +9476,6 @@ gecking
 grouplet
 groupment
 glimes
-groupoid
 galbraithian
 gisla
 groupwise
