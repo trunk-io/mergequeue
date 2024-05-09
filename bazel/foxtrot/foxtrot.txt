@@ -1815,7 +1815,6 @@ frostless
 flaunts
 flakeboard
 featherweights
-featherwing
 featherwise
 freeboard
 featherwork
@@ -3256,6 +3255,7 @@ facecloth
 foism
 foldwards
 faradizer
+featherwing
 fidate
 fulgourous
 flaught
