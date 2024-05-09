@@ -1639,7 +1639,6 @@ ballota
 ballotade
 blier
 bilobated
-balloted
 balloter
 betrayal
 balloters
@@ -14371,6 +14370,7 @@ braireau
 braises
 braising
 butea
+balloted
 breaststroke
 bulbocapnin
 braystone
