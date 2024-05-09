@@ -11250,7 +11250,6 @@ amphitheater
 amphitheatered
 amphitheaters
 amphitheatre
-amphitheatric
 amphitheatrical
 affiancer
 amphithecia
@@ -22586,6 +22585,7 @@ athericeran
 apickaback
 atherine
 atherinidae
+amphitheatric
 atheriogaea
 atheriogaean
 atheris
