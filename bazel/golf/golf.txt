@@ -3638,7 +3638,6 @@ granulomatous
 gastronomy
 gharnao
 goniaster
-gnomonic
 gregarinaria
 gavial
 glutinose
@@ -8701,6 +8700,7 @@ greenlet
 gastrolobium
 greenlets
 gorge
+gnomonic
 greenly
 greenling
 gyving
