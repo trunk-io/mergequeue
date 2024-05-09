@@ -10143,7 +10143,6 @@ bayou
 blackbutt
 blackcap
 blackcaps
-bejeweled
 borrelia
 blackcod
 blackcods
@@ -15910,6 +15909,7 @@ bronchi
 bronchia
 brooding
 bronchiarctia
+bejeweled
 babyship
 bronchiogenic
 bronchiolar
