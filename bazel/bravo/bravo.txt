@@ -3109,6 +3109,7 @@ baselevel
 bismarck
 baselike
 baseline
+beetlike
 basella
 botete
 basellaceae
@@ -5047,7 +5048,6 @@ bu
 billiardly
 borosilicic
 bhunder
-beetlike
 bacteriophagia
 bisley
 beetrave
