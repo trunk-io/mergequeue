@@ -4031,6 +4031,7 @@ equiprobably
 epicoelian
 emphasised
 emphasize
+entoplastron
 emphasized
 embargos
 enrollees
@@ -6926,7 +6927,6 @@ extrusive
 epimere
 entopic
 entoplasm
-entoplastron
 entopopliteal
 eightyfold
 entoprocta
