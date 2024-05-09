@@ -7901,7 +7901,6 @@ epilepsies
 epileptical
 epileptically
 epileptiform
-epileptogenous
 epileptoid
 epileptology
 exotospore
@@ -11063,6 +11062,7 @@ euryclea
 epiclastic
 eurygaea
 eurygnathic
+epileptogenous
 euryhaline
 ecart
 editorializations
