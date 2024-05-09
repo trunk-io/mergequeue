@@ -4800,6 +4800,7 @@ flivvers
 foothook
 flailing
 folksinging
+freaks
 fisheries
 flails
 flain
@@ -9599,7 +9600,6 @@ freeman
 felicify
 flitches
 flagitation
-freaks
 forfear
 fellage
 floristic
