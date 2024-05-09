@@ -7454,7 +7454,6 @@ doggier
 deuce
 deuced
 deuces
-deul
 dumpler
 deuniting
 detested
@@ -9581,6 +9580,7 @@ dihalo
 discommendable
 dihalogen
 dihdroxycholecalciferol
+deul
 dihedrals
 dihedron
 discipleship
