@@ -2741,7 +2741,6 @@ bonneting
 barology
 barolong
 botryoidally
-baromacrometer
 boroughship
 barometers
 barometric
@@ -12138,6 +12137,7 @@ bollixing
 blamable
 buffy
 bollock
+baromacrometer
 bolloxes
 bolloxing
 bolls
