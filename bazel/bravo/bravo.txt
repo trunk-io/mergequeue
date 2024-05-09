@@ -4738,6 +4738,7 @@ bella
 busywork
 bedims
 bedirter
+befoolable
 brothellike
 bedirtied
 bedirtying
@@ -13618,7 +13619,6 @@ bourdon
 bourdons
 bant
 bourg
-befoolable
 bourgade
 bonailie
 bourgeois
