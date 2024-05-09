@@ -690,7 +690,6 @@ eclogite
 epopoean
 eccles
 eclogues
-eclosion
 eclosions
 engaging
 excursionism
@@ -8279,6 +8278,7 @@ epitaphian
 electrostatics
 epitaphist
 ejection
+eclosion
 expensively
 epitaphs
 epitases
