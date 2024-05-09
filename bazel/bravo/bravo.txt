@@ -6129,6 +6129,7 @@ bemoult
 bemourn
 boathead
 bemartyr
+bibl
 bemuck
 bemuddlement
 bemuddles
@@ -11554,7 +11555,6 @@ boardsmanship
 boardwalks
 boarfish
 boarhound
-bibl
 battledored
 benefactrix
 bursar
