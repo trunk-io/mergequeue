@@ -449,7 +449,6 @@ galeass
 goliard
 gastrojejunal
 galeated
-galee
 gardenable
 gunnery
 gammexane
@@ -8119,6 +8118,7 @@ governorships
 glues
 graphemically
 gasconading
+galee
 graphemics
 gastroscopies
 greenhorn

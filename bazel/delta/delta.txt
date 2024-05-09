@@ -460,7 +460,6 @@ determinists
 disintermediation
 dakotas
 daks
-dalaga
 diatropic
 dalai
 dalapons
@@ -2703,6 +2702,7 @@ deconcatenate
 deconcentrate
 deconcentrated
 deconcentrating
+dalaga
 deconcentration
 didy
 decondition
