@@ -1309,7 +1309,6 @@ effectuality
 err
 epeus
 eburine
-effectualize
 effectualness
 effectuated
 effectuating
@@ -13849,6 +13848,7 @@ extractorship
 extracurial
 exsert
 extracurricular
+effectualize
 extracurriculum
 extracutaneous
 electropoion
