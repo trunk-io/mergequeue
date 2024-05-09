@@ -3695,7 +3695,6 @@ cosmogonize
 chemics
 caravaner
 caravanned
-chetty
 caravanner
 caravans
 caravansary
@@ -26860,6 +26859,7 @@ carniferous
 counterfactual
 counterfactually
 counterfaller
+chetty
 counterfeisance
 counterfeit
 counterfeiter
