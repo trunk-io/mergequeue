@@ -4783,6 +4783,7 @@ carpophyte
 cynosarges
 carpopodite
 carpopoditic
+cellae
 carpoptosia
 carport
 carpos
@@ -18178,7 +18179,6 @@ coessentially
 coestablishment
 cowleech
 coestate
-cellae
 coetanean
 coetaneous
 coeternal
