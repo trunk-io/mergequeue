@@ -6640,7 +6640,6 @@ acridane
 ahull
 ahum
 ahungry
-arboretum
 ahunt
 ahura
 ahush
@@ -16719,6 +16718,7 @@ apatites
 apatornis
 aouad
 anabrosis
+arboretum
 apaturia
 antisimoniacal
 ape
