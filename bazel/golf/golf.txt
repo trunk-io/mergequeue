@@ -292,6 +292,7 @@ governorship
 golgotha
 gringos
 grayout
+garnered
 gaintwist
 ganev
 gamuts
@@ -3112,7 +3113,6 @@ glassed
 gurgle
 geomancer
 geomancy
-garnered
 gushingness
 geomant
 geobios

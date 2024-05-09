@@ -4817,7 +4817,6 @@ frightenedness
 ferrety
 flaite
 flaithship
-flutelike
 federationist
 foisons
 flakage
@@ -8458,6 +8457,7 @@ formic
 formica
 formicariae
 formicarioid
+flutelike
 formicate
 felichthys
 franchiser
