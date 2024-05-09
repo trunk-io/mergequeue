@@ -4992,7 +4992,6 @@ boltless
 beeping
 beeps
 beer
-beerbachite
 beerbelly
 bees
 beerbibber
@@ -7549,6 +7548,7 @@ betulinic
 briolette
 bipyramidal
 bobwood
+beerbachite
 biont
 bowermay
 betumbled
