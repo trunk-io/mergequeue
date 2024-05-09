@@ -3878,7 +3878,6 @@ bautta
 bauxite
 blistery
 bauxites
-bauxitic
 bauxitite
 bavaroy
 bowdlerizations
@@ -6542,6 +6541,7 @@ beothukan
 beowulf
 bellicose
 bepainted
+bauxitic
 belady
 basidiogenetic
 bedrocks

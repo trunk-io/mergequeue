@@ -2106,7 +2106,6 @@ foreintend
 foremasthand
 felicity
 felicitous
-foreproffer
 felid
 felids
 felinae
@@ -8843,6 +8842,7 @@ fossilizing
 foreshoulder
 furcular
 fossillike
+foreproffer
 foozles
 formly
 fossilogy
