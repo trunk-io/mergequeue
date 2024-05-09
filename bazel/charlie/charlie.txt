@@ -2358,7 +2358,6 @@ chasseur
 cancelling
 cancellous
 cancellus
-cancelment
 cancels
 chimneys
 cancer
@@ -10132,6 +10131,7 @@ chesil
 cheskey
 campine
 cheskeys
+cancelment
 cheslep
 coleochaete
 chesoun
