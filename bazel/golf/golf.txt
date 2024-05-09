@@ -707,7 +707,6 @@ gerbilles
 gelosine
 galls
 gallup
-grimmer
 gargle
 glessite
 giddies
@@ -7653,6 +7652,7 @@ graduateship
 graduatical
 graduation
 graduators
+grimmer
 graduses
 gherkin
 graecian

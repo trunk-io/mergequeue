@@ -3728,6 +3728,7 @@ battels
 battement
 basisolute
 battements
+brazier
 battened
 braata
 battener
@@ -14713,7 +14714,6 @@ brazer
 brazers
 bestialities
 brazes
-brazier
 braziery
 barres
 ballooner
