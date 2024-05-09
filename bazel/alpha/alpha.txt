@@ -7221,7 +7221,6 @@ akvavits
 al
 antiquarium
 ala
-aeciotelia
 antibiotics
 alabamian
 argovian
@@ -16859,6 +16858,7 @@ aphicide
 aphides
 arkansans
 aphidid
+aeciotelia
 aphidious
 aphidius
 aphidivorous
