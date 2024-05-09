@@ -4289,7 +4289,6 @@ adopt
 adoptability
 adoptabilities
 adoptable
-adoptant
 armorers
 adoptative
 abruptiones
@@ -21771,6 +21770,7 @@ asseveration
 asseverative
 asseveratively
 applesnits
+adoptant
 asseveratory
 assewer
 asshead
