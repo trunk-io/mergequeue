@@ -1852,7 +1852,6 @@ eighties
 eightieth
 enleaf
 electropotential
-eightling
 eightpenny
 euler
 eights
@@ -7669,6 +7668,7 @@ espece
 epicurish
 epicurishly
 epicurize
+eightling
 epicuticle
 elephanticide
 epicuticular
