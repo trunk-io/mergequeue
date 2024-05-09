@@ -4757,7 +4757,6 @@ flagroot
 flags
 flagship
 fuss
-firepower
 formative
 fainer
 floribunda
@@ -10968,6 +10967,7 @@ fulminatory
 fulmined
 fadridden
 fickler
+firepower
 fayumic
 fulmines
 fulminurate

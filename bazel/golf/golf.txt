@@ -3936,7 +3936,6 @@ groten
 gouda
 gigahertz
 gigahertzes
-gibbed
 galloperdix
 gigaherz
 geese
@@ -7632,6 +7631,7 @@ grads
 granzita
 gynandrophore
 gradual
+gibbed
 gershom
 gradualist
 gradualistic
