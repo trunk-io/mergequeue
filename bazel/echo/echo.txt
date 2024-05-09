@@ -1091,6 +1091,7 @@ edict
 extratemporal
 edictal
 edictally
+excuse
 edictum
 edicule
 edify
@@ -12222,7 +12223,6 @@ excusal
 excusative
 ethaldehyde
 excusatory
-excuse
 excuseful
 epigraphy
 excusefully

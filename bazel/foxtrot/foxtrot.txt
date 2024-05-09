@@ -3288,7 +3288,6 @@ field
 fiddlery
 fiddles
 foreknowable
-fiddlestick
 fiddlesticks
 ferrel
 floricultural
@@ -8074,6 +8073,7 @@ foreswearing
 funkiest
 foresweat
 foreswore
+fiddlestick
 fumacious
 foret
 floodgate
