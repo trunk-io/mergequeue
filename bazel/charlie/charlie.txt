@@ -2402,7 +2402,6 @@ cancionero
 canciones
 cancri
 cancrid
-cancriform
 cruzeiro
 cancrine
 cirrostome
@@ -4516,6 +4515,7 @@ carnalite
 carnality
 culverin
 carnalize
+cancriform
 counterexposition
 carnalized
 carnalizing
