@@ -6647,7 +6647,6 @@ guestchamber
 gomart
 gomashta
 gombo
-gome
 gapy
 gomeisa
 gromwell
@@ -10768,6 +10767,7 @@ gynaecomastia
 gale
 gurneys
 galiongee
+gome
 glycocoll
 guttery
 guttering
