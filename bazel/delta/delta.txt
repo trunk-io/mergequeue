@@ -7157,7 +7157,6 @@ dents
 desulphurize
 depullulation
 disgusts
-desulphurizer
 deedbox
 desultory
 desultorily
@@ -11141,6 +11140,7 @@ disavowance
 disavowed
 disavowedly
 divinities
+desulphurizer
 dissectional
 disavower
 disavows
