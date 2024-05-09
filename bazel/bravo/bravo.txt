@@ -4203,7 +4203,6 @@ bearm
 bawhorse
 bearpaw
 bearship
-bearskins
 beartongue
 birdwatch
 bearward
@@ -15360,6 +15359,7 @@ brilliantwise
 brilliolette
 brills
 brimborion
+bearskins
 brimborium
 bisulfid
 brimful
