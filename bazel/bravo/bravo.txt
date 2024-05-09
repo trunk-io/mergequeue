@@ -2155,7 +2155,6 @@ bantery
 boxfishes
 bantering
 banteringly
-banty
 bushrope
 bantings
 bantling
@@ -3384,6 +3383,7 @@ basseting
 burkers
 bassetta
 bemata
+banty
 bughouse
 beholders
 bassette

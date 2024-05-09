@@ -425,7 +425,6 @@ ecaudata
 ecaudate
 ernest
 ecballium
-ecblastesis
 ecbole
 ecbolic
 electrizer
@@ -6548,6 +6547,7 @@ electroscopic
 enterable
 enteraden
 enteradenography
+ecblastesis
 enteradenographic
 enteradenological
 enteral
