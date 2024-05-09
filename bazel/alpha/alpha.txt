@@ -3973,7 +3973,6 @@ adits
 adytta
 aditus
 analcite
-adj
 alphorns
 adjacence
 adjacencies
@@ -20680,6 +20679,7 @@ artichokes
 article
 articled
 acidimetrical
+adj
 arefy
 austerus
 articulable
