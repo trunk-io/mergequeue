@@ -5959,7 +5959,6 @@ challa
 catheterized
 cerastium
 catheterizes
-catheters
 catheti
 cathetometer
 cathetometric
@@ -16328,6 +16327,7 @@ clint
 clinty
 clinting
 clinton
+catheters
 clintonia
 clintonite
 cashing
