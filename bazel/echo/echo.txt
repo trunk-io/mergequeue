@@ -266,7 +266,6 @@ easternizing
 easternmost
 easters
 emblic
-exhumation
 eastertide
 enterolobium
 endark
@@ -10685,6 +10684,7 @@ eucrite
 embuia
 essency
 eucrites
+exhumation
 entobranchiate
 electrotherapies
 endorse
