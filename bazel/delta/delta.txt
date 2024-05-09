@@ -8226,7 +8226,6 @@ diadoumenos
 diadrom
 diadrome
 diadromous
-dioti
 diadumenus
 diaene
 diaereses
@@ -13863,6 +13862,7 @@ distillers
 dachs
 distillment
 distillmint
+dioti
 distinct
 distinctify
 distinctio
