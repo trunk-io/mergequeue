@@ -27157,6 +27157,7 @@ cupful
 countersignature
 countersignatures
 countersigned
+crate
 countersigning
 countersigns
 countersympathy
@@ -28294,7 +28295,6 @@ cratchens
 champlain
 cratches
 cratchins
-crate
 crateful
 cratemaker
 crateman
