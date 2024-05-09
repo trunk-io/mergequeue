@@ -9461,7 +9461,6 @@ grange
 glaciaria
 groundward
 gamodesmy
-groundwards
 group
 groupable
 grouped
@@ -10620,6 +10619,7 @@ glossopyrosis
 gelidium
 goli
 grocerly
+groundwards
 ganges
 gurgitation
 gurgled
