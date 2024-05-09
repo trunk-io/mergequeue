@@ -3774,7 +3774,6 @@ battlements
 battlepiece
 barnstorms
 battler
-battles
 battleship
 battleships
 buhr
@@ -13479,6 +13478,7 @@ bouffe
 bilipyrrhin
 bumpiness
 bouffon
+battles
 bougainvillaeas
 bremeness
 bougainvillia
