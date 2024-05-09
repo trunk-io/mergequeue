@@ -1659,6 +1659,7 @@ glares
 gassers
 greasehorn
 guddle
+guarea
 gassy
 gassier
 gassiest
@@ -5954,7 +5955,6 @@ gnawable
 geaster
 glucagon
 gladify
-guarea
 glucagons
 gate
 gynoecium
