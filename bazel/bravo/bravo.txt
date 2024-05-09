@@ -3653,6 +3653,7 @@ boutade
 baron
 by
 banilad
+boats
 bathtubful
 bathukolpian
 bathvillite
@@ -11615,7 +11616,6 @@ boatmanship
 boatmaster
 boatmen
 boatowner
-boats
 boatsetter
 boatshop
 bugology
