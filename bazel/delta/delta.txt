@@ -6392,6 +6392,7 @@ dejeune
 dermophobe
 dermoptera
 decarbonylated
+detail
 dermopterous
 dermosclerite
 dermoskeleton
@@ -7703,7 +7704,6 @@ devilfish
 devilfishes
 decelerators
 devily
-detail
 deviling
 disenjoy
 devilishly
