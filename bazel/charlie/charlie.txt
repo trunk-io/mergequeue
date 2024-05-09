@@ -9589,7 +9589,6 @@ chirosophist
 checkmating
 checkoffs
 checkout
-circumferences
 checkpoint
 checkpointed
 concursus
@@ -11708,6 +11707,7 @@ cholericness
 choleriform
 cholerigenous
 cholerine
+circumferences
 choleroid
 cholerophobia
 cholerrhagia
