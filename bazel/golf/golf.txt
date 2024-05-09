@@ -2356,6 +2356,7 @@ geyserish
 genuflectory
 galwegian
 geyserite
+guilds
 geysers
 georgia
 graduated
@@ -10202,7 +10203,6 @@ guilder
 graver
 germicidal
 guildhall
-guilds
 ghosted
 guildship
 guildsmen
