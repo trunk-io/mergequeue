@@ -9020,7 +9020,6 @@ allotriomorphic
 allotriophagy
 allotriophagia
 allotriuria
-allotropy
 allotropic
 allotropical
 allotropically
@@ -10296,6 +10295,7 @@ arundineous
 ankylopoietic
 algaroth
 amentia
+allotropy
 amentiferae
 amentiform
 aplodiorite
