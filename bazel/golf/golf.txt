@@ -2821,7 +2821,6 @@ gloam
 genitive
 genitocrural
 geniculum
-glug
 grasps
 genitor
 gauntry
@@ -6315,6 +6314,7 @@ gollywobbler
 gamblesome
 goatfishes
 goatherdess
+glug
 gentium
 goalies
 grudgefully
