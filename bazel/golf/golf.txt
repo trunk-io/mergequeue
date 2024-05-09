@@ -3106,7 +3106,6 @@ geologized
 glosses
 gallinacei
 glassed
-gurgle
 geomancer
 geomancy
 garnered
@@ -9040,6 +9039,7 @@ guillotinement
 grimmiaceae
 goadster
 gyrostatic
+gurgle
 grimness
 gease
 glowworm

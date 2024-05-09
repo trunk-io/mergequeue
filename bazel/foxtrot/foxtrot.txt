@@ -1006,6 +1006,7 @@ felinophobe
 fares
 faretta
 farewell
+firebolted
 fearfuller
 foreshortens
 fuchsin
@@ -4093,7 +4094,6 @@ fetologies
 feezed
 fireboat
 fireboy
-firebolted
 firebomb
 fakiness
 firebombing
