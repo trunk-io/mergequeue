@@ -1229,6 +1229,7 @@ guffin
 gaol
 grift
 gynostegium
+girt
 gaoled
 gaoling
 groatsworth
@@ -2596,7 +2597,6 @@ gemstone
 gemuetlich
 gemuti
 gearwheels
-girt
 goral
 gabbing
 gemutlich
