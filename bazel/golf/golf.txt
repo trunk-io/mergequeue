@@ -1626,7 +1626,6 @@ gasoliers
 gasoliner
 gasometry
 gastrodisc
-galileo
 gasometric
 grype
 gasometrical
@@ -2298,6 +2297,7 @@ grundel
 galas
 gawkiest
 geebung
+galileo
 guyots
 glucosidase
 greystone
