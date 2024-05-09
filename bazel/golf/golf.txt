@@ -1837,7 +1837,6 @@ gastroparalysis
 gastroparesis
 gonyaulax
 galluot
-gastroparietal
 gastropathy
 gastropathic
 gabbier
@@ -9775,6 +9774,7 @@ grat
 guaiac
 gastrocolpotomy
 guayacan
+gastroparietal
 grasping
 gymnotid
 guaiacolize
