@@ -9669,7 +9669,6 @@ anticynicism
 alveola
 alveolae
 alveolary
-alveolariform
 ararauna
 alveolarly
 alveolars
@@ -24433,6 +24432,7 @@ autotomy
 autotomise
 autotomised
 altercate
+alveolariform
 adoptively
 antinovels
 autotomize
