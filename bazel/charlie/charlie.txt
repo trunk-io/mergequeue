@@ -5153,7 +5153,6 @@ casemates
 casemented
 casements
 caseolysis
-caseose
 caseous
 caserios
 cowpunch
@@ -5972,6 +5971,7 @@ coherency
 cathodegraph
 comique
 cathodes
+caseose
 cathodic
 cuckstool
 cathodical
