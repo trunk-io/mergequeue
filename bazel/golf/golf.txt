@@ -1292,6 +1292,7 @@ garaged
 gyved
 gowk
 gillying
+gears
 glandless
 grece
 garancin
@@ -2239,7 +2240,6 @@ gnathites
 gearcase
 gearcases
 gearman
-gears
 guernseys
 glucose
 genteelly
