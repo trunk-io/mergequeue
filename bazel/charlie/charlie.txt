@@ -9198,7 +9198,6 @@ charting
 chartist
 chartless
 chartlet
-chartographer
 chartography
 chartographic
 chartographical
@@ -13664,6 +13663,7 @@ cylindrometric
 cylindroogival
 cylindrophis
 cilioflagellata
+chartographer
 chrysophan
 ciliograde
 consignees

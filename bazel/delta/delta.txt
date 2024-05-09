@@ -14600,6 +14600,7 @@ dmod
 do
 doand
 doarium
+dimensionality
 diphylleia
 doated
 drizzling
@@ -16388,7 +16389,6 @@ dephlegm
 droukit
 downwith
 dowp
-dimensionality
 dows
 dowsabel
 dowse
