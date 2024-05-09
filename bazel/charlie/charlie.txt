@@ -2447,6 +2447,7 @@ candids
 countermands
 coasters
 candies
+cluther
 candify
 candyh
 candying
@@ -16985,7 +16986,6 @@ candela
 clutchingly
 consignificate
 clutchman
-cluther
 conglutinating
 cheepy
 cluttered
