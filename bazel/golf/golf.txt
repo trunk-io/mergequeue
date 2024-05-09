@@ -5216,7 +5216,6 @@ goldcup
 glauconia
 glauconiidae
 glaucophanite
-gallish
 gammick
 glaucophanize
 glaucous
@@ -7601,6 +7600,7 @@ gradational
 geospiza
 gradationally
 gradatively
+gallish
 grade
 graded
 geobotanically
