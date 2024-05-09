@@ -7966,7 +7966,6 @@ cessionaire
 castaway
 cessionee
 cessment
-cessor
 cesspipe
 cesspit
 cesspits
@@ -23803,6 +23802,7 @@ contrastimulus
 contrastingly
 capillarities
 contrastive
+cessor
 contrastively
 contrastiveness
 contrasts
