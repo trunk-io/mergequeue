@@ -10438,7 +10438,6 @@ ethnohistoric
 enquired
 etwite
 ethnol
-encrypting
 ethnolinguist
 ethnologer
 erysibe
@@ -11952,6 +11951,7 @@ excerpta
 engravings
 etheneldeli
 excerpting
+encrypting
 excerption
 eloigner
 ectodynamomorphic
