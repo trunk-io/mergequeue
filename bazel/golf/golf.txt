@@ -3481,7 +3481,6 @@ gerres
 gerrhosaurid
 glossolaryngeal
 gutturalising
-gerridae
 gerrymander
 gimme
 gerrymanders
@@ -6723,6 +6722,7 @@ global
 gondoletta
 gangliform
 gordius
+gerridae
 gucks
 gondoliers
 goneness
