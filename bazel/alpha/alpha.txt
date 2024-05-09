@@ -8439,7 +8439,6 @@ alive
 alives
 achromatiaceae
 aeolodicon
-alivincular
 alix
 alizarate
 alizari
@@ -16859,6 +16858,7 @@ aphanitic
 aphetize
 aphicide
 aphides
+alivincular
 arkansans
 aphidid
 aphidious

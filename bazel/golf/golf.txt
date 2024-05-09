@@ -5835,7 +5835,6 @@ gobos
 gaonic
 glossolalia
 glossolysis
-glossology
 glossologist
 glossophaga
 glossopharyngeus
@@ -8417,6 +8416,7 @@ gillaroo
 geldant
 gravelled
 gravelly
+glossology
 geoglyphic
 ginglymus
 gravelliness
