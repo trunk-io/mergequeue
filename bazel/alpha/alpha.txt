@@ -10965,7 +10965,6 @@ archegone
 amorphozoa
 anychia
 assais
-amorphus
 antechapel
 amort
 amuguis
@@ -11525,6 +11524,7 @@ anachromasis
 anachronical
 aerospace
 accolated
+amorphus
 alfred
 apodes
 acicularly
