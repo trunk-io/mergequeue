@@ -8171,7 +8171,6 @@ episynthetic
 electrodispersive
 expedientist
 essayette
-episyntheton
 episiocele
 episioplasty
 episiorrhagia
@@ -11661,6 +11660,7 @@ exacerbations
 exacerbescence
 exacervation
 exact
+episyntheton
 exactable
 epexegesis
 exactas
