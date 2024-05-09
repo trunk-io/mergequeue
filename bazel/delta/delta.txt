@@ -4253,7 +4253,6 @@ deinsularize
 depopulations
 delocalisation
 decylenic
-delocalised
 delocalising
 deescalations
 delocalization
@@ -15683,6 +15682,7 @@ disentrain
 dori
 doria
 dorian
+delocalised
 doryanthes
 dorical
 doricism
