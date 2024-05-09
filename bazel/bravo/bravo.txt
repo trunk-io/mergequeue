@@ -7169,7 +7169,6 @@ beaugregories
 bespeed
 becalmed
 bespell
-bespelled
 bespend
 bespew
 brow
@@ -7204,6 +7203,7 @@ bespreng
 besprent
 bocking
 blowy
+bespelled
 besprinkle
 backless
 besprinkles
