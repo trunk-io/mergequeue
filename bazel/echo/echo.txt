@@ -1750,7 +1750,6 @@ eyelessness
 engs
 eyelet
 eyeleted
-eyeletted
 eyeletting
 eyelid
 eyelids
@@ -13141,6 +13140,7 @@ expiscatory
 explain
 extras
 explainable
+eyeletted
 explainableness
 eidetically
 explained
