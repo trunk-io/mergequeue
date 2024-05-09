@@ -5741,7 +5741,6 @@ cabasset
 counterinsurgents
 catclaw
 catdom
-cate
 catechesis
 catechetic
 congenator
@@ -18827,6 +18826,7 @@ counteractor
 colicwort
 colies
 cocinero
+cate
 coliform
 coliforms
 codisjunct
