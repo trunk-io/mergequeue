@@ -2475,7 +2475,6 @@ assesses
 acinacifoliate
 acinaciform
 acinacious
-acinar
 acouchy
 albardine
 acinary
@@ -13174,6 +13173,7 @@ anopsy
 animalier
 animalillio
 arracacia
+acinar
 adenostemonous
 animalisation
 animalise
