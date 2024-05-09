@@ -1553,7 +1553,6 @@ garum
 girdlers
 gidjee
 garvey
-gasalier
 ge
 gamma
 gradualness
@@ -2204,6 +2203,7 @@ gazeless
 gazella
 gazelle
 gazellelike
+gasalier
 gazelline
 gazement
 gynocratic
