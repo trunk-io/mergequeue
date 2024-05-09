@@ -3059,7 +3059,6 @@ breather
 badminton
 barware
 barwares
-barwood
 boneblack
 basad
 basal
@@ -15714,6 +15713,7 @@ broiderer
 broidery
 broideries
 broigne
+barwood
 blueprinting
 bunds
 broiled

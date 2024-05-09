@@ -6838,7 +6838,6 @@ celloid
 colubrids
 cathodofluorescence
 celloidin
-cellophane
 constative
 cellose
 cells
@@ -7841,6 +7840,7 @@ coys
 certiorate
 certiorating
 certis
+cellophane
 certitude
 certitudes
 certosa
