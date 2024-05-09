@@ -23263,7 +23263,6 @@ consulated
 curiouser
 consulates
 consulship
-consulships
 consult
 consulta
 consultable
@@ -26357,6 +26356,7 @@ cosubordinate
 cochlospermaceous
 cosuffer
 caracole
+consulships
 cosuretyship
 clings
 caricatures
