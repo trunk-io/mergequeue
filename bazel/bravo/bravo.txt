@@ -3822,7 +3822,6 @@ bacterian
 battutos
 blastomeric
 batwing
-beswitch
 batwoman
 batwomen
 batuque
@@ -17636,6 +17635,7 @@ bifidate
 burger
 burgers
 burgess
+beswitch
 burgessdom
 burgesses
 burggrave
