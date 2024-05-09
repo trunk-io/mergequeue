@@ -6838,7 +6838,6 @@ celled
 centennium
 cellepora
 cellepore
-cellfalcicula
 celliferous
 celliform
 cellist
@@ -23743,6 +23742,7 @@ contraorbital
 contraplete
 contraplex
 contrapolarization
+cellfalcicula
 chuffy
 contrapone
 contraposaune
