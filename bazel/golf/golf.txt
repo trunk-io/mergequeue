@@ -4894,6 +4894,7 @@ gobiiform
 gjetosts
 gl
 galvanise
+governable
 graspable
 graftdom
 glaciable
@@ -8788,7 +8789,6 @@ greyed
 grosser
 greyflies
 glyoxilin
-governable
 ganglioside
 greyiaceae
 gadbush
