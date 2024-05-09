@@ -6856,6 +6856,7 @@ entomogenous
 emmantle
 empoisoning
 entomol
+extractability
 elasmosaurus
 entomolegist
 exogamous
@@ -13819,7 +13820,6 @@ evaporize
 ethionic
 experienceable
 educators
-extractability
 extractable
 eluated
 extractant
