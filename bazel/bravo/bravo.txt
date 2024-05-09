@@ -7724,7 +7724,6 @@ bathycurrent
 buffleheaded
 bewrapt
 bewreak
-bullhorn
 bewreck
 befreckle
 bewry
@@ -17976,6 +17975,7 @@ bushlike
 bareness
 bushmaker
 bakuninism
+bullhorn
 bearbine
 bushmaking
 bierstubes
