@@ -3053,7 +3053,6 @@ gollop
 geoffroyin
 grus
 geomance
-geoform
 geogen
 geogenesis
 gyropilot
@@ -5979,6 +5978,7 @@ glucofrangulin
 guatemaltecan
 gunsling
 glucokinase
+geoform
 gliocyte
 glucokinin
 gaseous
