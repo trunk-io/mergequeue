@@ -5203,7 +5203,6 @@ aestivates
 admonisher
 alphamerical
 aestivating
-aestivation
 aestive
 aestuary
 aestuate
@@ -7905,6 +7904,7 @@ alegar
 alehouse
 alehouses
 amor
+aestivation
 aleyard
 aleikoum
 apophysate
