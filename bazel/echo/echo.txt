@@ -1118,7 +1118,6 @@ ediya
 ectoblastic
 edile
 exanthematous
-entocranial
 epyllion
 estonian
 ectocranial
@@ -7604,6 +7603,7 @@ epicoele
 elkesaite
 enlacing
 epicoelia
+entocranial
 epicoeliac
 epicoeloma
 epicoelous

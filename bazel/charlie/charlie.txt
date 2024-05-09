@@ -4952,7 +4952,6 @@ cartogram
 chloridizing
 criniger
 cartographers
-comminate
 cartography
 cartographic
 cartographical
@@ -23425,6 +23424,7 @@ contemporanean
 contemporaneity
 contemporaneous
 contemporaneously
+comminate
 contemporaneousness
 contemporary
 contemporarily
