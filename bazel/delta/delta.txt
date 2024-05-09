@@ -276,7 +276,6 @@ daguerrean
 daguerreotype
 daguerreotyped
 deipnosophistic
-daguerreotypic
 daguerreotyping
 daguerreotypist
 dreadnaught
@@ -2264,6 +2263,7 @@ dogmas
 decempartite
 decempedal
 decemplex
+daguerreotypic
 dissocialize
 decempunctate
 dyothelism
