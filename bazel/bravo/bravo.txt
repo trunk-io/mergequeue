@@ -9870,7 +9870,6 @@ bromocamphor
 biter
 biternately
 biters
-bearfoot
 bow
 begums
 bites
@@ -18282,6 +18281,7 @@ basque
 butterworker
 butterwort
 butterwright
+bearfoot
 buttgenbachite
 breed
 bruchus
