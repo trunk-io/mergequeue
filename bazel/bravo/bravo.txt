@@ -3923,7 +3923,6 @@ bawra
 bestial
 barrow
 bawrel
-badling
 bawsint
 bawsunt
 bennet
@@ -10377,6 +10376,7 @@ blandishingly
 blandishments
 britzskas
 braggadocian
+badling
 blank
 blankbook
 burgrave
