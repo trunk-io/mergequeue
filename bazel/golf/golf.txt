@@ -6569,7 +6569,6 @@ goldentop
 gastrea
 golder
 grower
-goldfielder
 gambrelled
 goldfields
 goldfinny
@@ -8543,6 +8542,7 @@ gilpy
 gantlines
 garlicmonger
 gozzard
+goldfielder
 guttered
 gladdy
 goodbye
