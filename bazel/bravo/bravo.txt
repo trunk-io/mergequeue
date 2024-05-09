@@ -9686,7 +9686,6 @@ backbeats
 bishopdom
 bishoped
 biborate
-bishopful
 bishophood
 bowwort
 barbarianism
@@ -16024,6 +16023,7 @@ bronzitite
 broo
 buxeous
 brooch
+bishopful
 brooching
 brood
 brooded
