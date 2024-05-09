@@ -2324,7 +2324,6 @@ eutectic
 egba
 erythrophore
 episteme
-electrocoating
 electrocolloidal
 exhaustable
 esclandre
@@ -6370,6 +6369,7 @@ eyemark
 ethmoids
 ensient
 ensiform
+electrocoating
 ensign
 ensigncy
 electroplaque
