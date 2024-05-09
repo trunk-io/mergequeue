@@ -4700,7 +4700,6 @@ bedfellows
 buildable
 bedford
 bedfordshire
-bedframes
 bedgoer
 bedgowns
 bediademed
@@ -9966,6 +9965,7 @@ bituminate
 berliner
 bluewood
 bituminising
+bedframes
 bituminized
 bedivere
 bana
