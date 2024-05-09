@@ -3733,7 +3733,6 @@ carbarn
 chondriomite
 carbarns
 carbasus
-carbazic
 carbazide
 carbazylic
 chlorpikrin
@@ -11225,6 +11224,7 @@ cliftonia
 chlamydobacteriaceae
 chlamydobacteriaceous
 chlamydobacteriales
+carbazic
 chlamydomonadaceae
 clamours
 chlamydophore
