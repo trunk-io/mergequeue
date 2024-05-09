@@ -8949,7 +8949,6 @@ beslow
 bungler
 babooism
 biochemic
-biochemics
 biochemistry
 biochemists
 biblioclast
@@ -12189,6 +12188,7 @@ bolshie
 brocage
 bolstered
 bolsterer
+biochemics
 bunters
 boardwalk
 brake
