@@ -5844,6 +5844,7 @@ enharmonic
 eructates
 epicureans
 excursive
+eftest
 enhaulse
 enhaunt
 enhazard
@@ -7862,7 +7863,6 @@ epigrammatizing
 endaortitis
 epigrams
 epigraph
-eftest
 egyptianization
 epigraphic
 epigraphist
