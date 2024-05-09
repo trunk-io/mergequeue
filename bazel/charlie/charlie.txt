@@ -15667,7 +15667,6 @@ classifically
 classificator
 classificatory
 classified
-classifier
 censive
 curriers
 cyanastraceae
@@ -29906,6 +29905,7 @@ crosspatch
 chokebore
 crosspatches
 crosspath
+classifier
 crosspoint
 crossroad
 crossroads
