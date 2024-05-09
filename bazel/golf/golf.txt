@@ -5978,7 +5978,6 @@ glucocorticoid
 glucofrangulin
 guatemaltecan
 gunsling
-glucokinase
 gliocyte
 glucokinin
 gaseous
@@ -9119,6 +9118,7 @@ glycolate
 grippiness
 gabfest
 geneticist
+glucokinase
 guanajuatite
 gahnite
 gripping
