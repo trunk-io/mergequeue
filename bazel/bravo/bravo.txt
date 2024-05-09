@@ -2421,7 +2421,6 @@ brickiest
 brobdingnagian
 barding
 bardings
-becalms
 bardlet
 bardlike
 bardling
@@ -10624,6 +10623,7 @@ bleakest
 buphthalmos
 bernese
 bleaky
+becalms
 buist
 bleakness
 bleaks
