@@ -13032,7 +13032,6 @@ cherkesser
 cyamus
 cyan
 cyanacetic
-cyanamid
 cyanamide
 cyananthrol
 conspires
@@ -21011,6 +21010,7 @@ cauponate
 compurgatory
 compursion
 computability
+cyanamid
 connexional
 computable
 computably

@@ -2598,7 +2598,6 @@ electropuncture
 electroreceptive
 electroreduction
 ergophobiac
-electrorefining
 electroresection
 extratribal
 erectly
@@ -9963,6 +9962,7 @@ esther
 estherian
 esthesio
 ecbatic
+electrorefining
 esthesioblast
 esthesiogen
 entophyte
