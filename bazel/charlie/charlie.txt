@@ -4600,6 +4600,7 @@ carnous
 carns
 chamaecistus
 caro
+calombigas
 caroa
 cohost
 caroaches
@@ -7796,7 +7797,6 @@ cerographer
 cerography
 cerographic
 cerographical
-calombigas
 cerographies
 ceroid
 ceroline
