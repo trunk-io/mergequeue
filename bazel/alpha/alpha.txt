@@ -4756,7 +4756,6 @@ agitates
 aecidial
 aecidioform
 aecidiomycetes
-aecidiospore
 aecidiostage
 aecidium
 aeciospore
@@ -23208,6 +23207,7 @@ apoapsides
 attritive
 antitobacconal
 amoretto
+aecidiospore
 attritus
 attriutively
 atropinization
