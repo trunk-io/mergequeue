@@ -17992,7 +17992,6 @@ apprense
 apprentice
 apprenticehood
 apprenticement
-agnostic
 apprenticeships
 apprenticing
 appress
@@ -20048,6 +20047,7 @@ armrack
 azans
 aniline
 armrests
+agnostic
 arms
 archididascalian
 armscye

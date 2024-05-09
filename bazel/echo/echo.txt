@@ -5677,7 +5677,6 @@ engender
 engendered
 engenderment
 engenders
-engendrure
 engendure
 enghle
 engild
@@ -5889,6 +5888,7 @@ enid
 emissary
 enif
 exhilarates
+engendrure
 erythrose
 enigma
 exotoxin
