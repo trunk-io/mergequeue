@@ -1376,7 +1376,6 @@ gardevin
 granulose
 galium
 gardevisure
-gyrostatics
 gardy
 ginkgo
 gardinol
@@ -7436,6 +7435,7 @@ gourmets
 gourounut
 governail
 goustrous
+gyrostatics
 gibing
 guesstimate
 gymnotidae
