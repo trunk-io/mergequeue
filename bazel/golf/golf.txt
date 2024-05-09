@@ -5954,7 +5954,6 @@ glt
 glucaemia
 greywacke
 gnawable
-geaster
 glucagon
 gladify
 guarea
@@ -6938,6 +6937,7 @@ grewhound
 graphemes
 gammed
 gestations
+geaster
 glaucopis
 giaour
 glyconin
