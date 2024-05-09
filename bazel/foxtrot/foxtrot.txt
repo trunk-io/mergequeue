@@ -5651,6 +5651,7 @@ flintworker
 flyoff
 facial
 flyover
+friendliwise
 federary
 flyovers
 fustanella
@@ -10010,7 +10011,6 @@ friendlier
 friendliest
 forepeaks
 friendlike
-friendliwise
 fevercup
 fuse
 fenestrone
