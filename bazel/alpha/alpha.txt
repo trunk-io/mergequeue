@@ -6128,6 +6128,7 @@ aggro
 aggroup
 affrontee
 arcaded
+appliqueing
 archt
 aggroupment
 aghan
@@ -17883,7 +17884,6 @@ appling
 applique
 afterdrops
 appliqued
-appliqueing
 abiogenetic
 appliques
 assorters
