@@ -9853,7 +9853,6 @@ chellean
 chello
 cheloids
 cutinizing
-chelonia
 chelonian
 cheloniid
 cheloniidae
@@ -31443,6 +31442,7 @@ cavitating
 curricle
 charted
 curricles
+chelonia
 curricling
 currycomb
 currycombing
