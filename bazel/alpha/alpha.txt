@@ -10086,7 +10086,6 @@ amboceptoid
 ambocoelia
 angiosclerosis
 amoraic
-ambodexter
 adjutage
 archaeopithecus
 amboina
@@ -24100,6 +24099,7 @@ autoheader
 alnus
 axone
 autohemolytic
+ambodexter
 autohemorrhage
 autohemotherapy
 autohexaploid
