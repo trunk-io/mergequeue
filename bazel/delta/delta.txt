@@ -4708,7 +4708,6 @@ dourahs
 divaricating
 demirep
 demireps
-demirhumb
 demirilievo
 demirobe
 demonastery
@@ -7325,6 +7324,7 @@ dain
 dearer
 dethronements
 dethrones
+demirhumb
 dwight
 damnable
 deti
