@@ -7087,7 +7087,6 @@ besmudge
 besmudged
 beamless
 blasted
-besmudges
 besmudging
 besmutch
 baalist
@@ -12669,6 +12668,7 @@ bioecologic
 booklouse
 booklover
 bookmakers
+besmudges
 bedot
 blackishly
 bookman
