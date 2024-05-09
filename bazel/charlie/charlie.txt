@@ -2844,7 +2844,6 @@ congenialize
 canst
 cant
 cantabank
-cantabile
 cantabri
 countercultures
 clothesmonger
@@ -13002,6 +13001,7 @@ charquis
 chut
 chute
 chuted
+cantabile
 chuter
 chuting
 chutists

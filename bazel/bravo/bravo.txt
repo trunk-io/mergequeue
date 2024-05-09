@@ -5615,7 +5615,6 @@ beknighting
 beknived
 ballistite
 beknotted
-beknottedly
 biotype
 beknow
 bel
@@ -15081,6 +15080,7 @@ bibliopolistic
 brews
 bristlier
 brewst
+beknottedly
 brewsterite
 brezhnev
 bombylious
