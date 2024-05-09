@@ -12591,7 +12591,6 @@ alumstone
 anesthesiologists
 anesthesis
 acarology
-anesthetically
 anesthetics
 anesthetists
 anesthetization
@@ -22522,6 +22521,7 @@ alexipharmacon
 atfalati
 avitaminotic
 athabasca
+anesthetically
 acater
 athabascan
 athalline
