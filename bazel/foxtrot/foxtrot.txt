@@ -7964,7 +7964,6 @@ foresights
 fireshaft
 floorthrough
 foresignify
-foresin
 foreskin
 foreskins
 flench
@@ -9424,6 +9423,7 @@ frankfurt
 floatiest
 frostbiting
 fleecier
+foresin
 frankfurters
 frankify
 flexo
