@@ -2619,7 +2619,6 @@ genderer
 goliardery
 ghoulie
 goshawks
-geneal
 gemsbok
 genealogical
 gantlope
@@ -9817,6 +9816,7 @@ groow
 guanche
 galaxy
 guaneide
+geneal
 gallowsness
 gratuito
 gogetting
