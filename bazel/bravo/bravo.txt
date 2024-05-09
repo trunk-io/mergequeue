@@ -1945,7 +1945,6 @@ bandsawed
 bandsawn
 bandsman
 bandsmen
-bandspreading
 bandstand
 boronia
 beraked
@@ -8255,6 +8254,7 @@ baleful
 bielectrolysis
 bielenite
 beardie
+bandspreading
 brontophobia
 bielid
 burn
