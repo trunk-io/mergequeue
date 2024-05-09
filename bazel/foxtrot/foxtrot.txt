@@ -1595,7 +1595,6 @@ festivals
 farcelike
 favilla
 favillous
-farcetta
 femininity
 fledglings
 findability
@@ -9986,6 +9985,7 @@ flowering
 feverless
 finically
 flammable
+farcetta
 filibusters
 frictionless
 frictionproof

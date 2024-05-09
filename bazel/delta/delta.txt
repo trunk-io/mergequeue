@@ -3215,7 +3215,6 @@ defectors
 duplicating
 despaired
 defectoscope
-defectum
 dehumidification
 defectuous
 dummkopf
@@ -17385,6 +17384,7 @@ droopingness
 disphenoid
 drow
 drop
+defectum
 desquamation
 dropax
 dishwiper
