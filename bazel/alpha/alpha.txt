@@ -12498,7 +12498,6 @@ autoexcitation
 anemobiagraph
 anemochord
 anemochore
-acetonuria
 anemochoric
 anemochorous
 anemoclastic
@@ -18413,6 +18412,7 @@ arachidic
 arachidonic
 augen
 arachin
+acetonuria
 arachis
 arachne
 arsenyl
