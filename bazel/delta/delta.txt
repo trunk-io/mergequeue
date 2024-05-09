@@ -999,7 +999,6 @@ default
 daffling
 darker
 darkest
-diploconical
 darkhearted
 darky
 darkie
@@ -18452,6 +18451,7 @@ discoursive
 dupper
 dups
 defray
+diploconical
 denat
 dur
 dubitative
