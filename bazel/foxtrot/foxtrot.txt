@@ -2206,6 +2206,7 @@ fazendeiro
 fluorescence
 flogging
 flatfooting
+flongs
 felonwort
 feriae
 fraela
@@ -11045,7 +11046,6 @@ fumes
 fumet
 fumets
 follows
-flongs
 felsosphaerite
 fumeuse
 flickerproof

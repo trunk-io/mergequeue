@@ -5596,6 +5596,7 @@ afterblow
 afterbody
 afterbodies
 amyloids
+alpenstock
 afterbrain
 afterbreach
 afterbreast
@@ -9304,7 +9305,6 @@ alpax
 alpeen
 alpen
 alpenglow
-alpenstock
 alpenstocker
 alpenstocks
 alpestral
