@@ -11624,6 +11624,7 @@ cholecyanine
 cholecyst
 cholecystectasia
 cholecystectomy
+cingulum
 cholecystectomized
 chimachima
 countermeasure
@@ -13991,7 +13992,6 @@ cockneity
 cingulectomy
 consumership
 cingulectomies
-cingulum
 cynhyena
 cynias
 cyniatria
