@@ -949,7 +949,6 @@ ecttypal
 ecu
 excurvation
 ediface
-equates
 exeresis
 ecuadorian
 ecumenacy
@@ -11355,6 +11354,7 @@ endue
 evaporation
 exams
 evaporations
+equates
 euvrou
 evaporators
 evaporimeter
