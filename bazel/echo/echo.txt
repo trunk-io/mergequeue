@@ -3555,7 +3555,6 @@ elasmobranchii
 embost
 exembryonate
 embottle
-embouchement
 embusqu
 embouchment
 enaena
@@ -9167,6 +9166,7 @@ electrifier
 enveil
 entwining
 equinoxes
+embouchement
 erythropsia
 ericetum
 erythropsin
