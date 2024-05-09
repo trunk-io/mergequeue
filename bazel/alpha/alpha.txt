@@ -5278,7 +5278,6 @@ apheliotropism
 affecter
 annotating
 affecters
-affectibility
 affecting
 acrorhagus
 affectingly
@@ -6211,6 +6210,7 @@ antireforming
 axumite
 agitatorial
 aromaticness
+affectibility
 amyous
 agitators
 agitatrix

@@ -4216,7 +4216,6 @@ biomedical
 backbend
 beastily
 beastish
-beastishness
 beastly
 beastlier
 barkening
@@ -9853,6 +9852,7 @@ beneplacito
 bitbrace
 biteable
 bonitas
+beastishness
 bongo
 blockbuster
 burgherhood
