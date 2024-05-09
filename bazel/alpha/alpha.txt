@@ -5796,7 +5796,6 @@ agalawood
 animalcule
 appoggiaturas
 agalaxy
-agalaxia
 anisomelus
 agalena
 agalenidae
@@ -12796,6 +12795,7 @@ anoestrous
 angiomyosarcoma
 angioneoplasm
 angioneurosis
+agalaxia
 abernethy
 anamirtin
 angionoma
