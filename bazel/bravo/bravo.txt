@@ -5708,7 +5708,6 @@ belemnoid
 belayed
 bowssen
 boer
-bkpr
 belemnoidea
 beleper
 bicycle
@@ -17075,6 +17074,7 @@ begorrah
 bullary
 bleakly
 brodekin
+bkpr
 bullate
 bullation
 bullback
