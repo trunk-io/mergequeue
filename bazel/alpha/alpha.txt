@@ -16964,7 +16964,6 @@ aphthitalite
 aphthong
 aphthongal
 aphthongia
-apiaca
 apiaceae
 apiaceous
 apiales
@@ -24820,6 +24819,7 @@ acheck
 avogadrite
 avogram
 apolitical
+apiaca
 avoid
 avoidable
 avoidably
