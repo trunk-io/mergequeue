@@ -383,7 +383,6 @@ balayeuse
 backy
 baseballdom
 backyard
-bindlet
 boron
 bullocky
 beri
@@ -2795,6 +2794,7 @@ benzoxyphenanthrene
 baronries
 briggs
 baroque
+bindlet
 bureaus
 baroquely
 barites
