@@ -754,7 +754,6 @@ bogwort
 badgered
 badgerer
 badgering
-buoyant
 blundersome
 boltant
 booking
@@ -16640,6 +16639,7 @@ buckbush
 bucked
 buckeen
 buckeens
+buoyant
 busby
 bosnisch
 beclad
