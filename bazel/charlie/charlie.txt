@@ -8158,7 +8158,6 @@ chaetophorous
 chaetopod
 caffein
 chaetopodan
-countergauger
 colonalgia
 chaetopterin
 chaetopterus
@@ -12602,6 +12601,7 @@ chromoplasmic
 corundophilite
 chromoplast
 chromoplastid
+countergauger
 chromoprotein
 chromopsia
 chromoptometer

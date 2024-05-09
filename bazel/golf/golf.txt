@@ -2153,7 +2153,6 @@ grubs
 ginglmi
 gnomist
 gelndesprung
-gawked
 gazometer
 gawkhammer
 glanced
@@ -4403,6 +4402,7 @@ gyrostabilizer
 gravidity
 gnashing
 gingerberry
+gawked
 geopony
 gingerbready
 galeopsis
