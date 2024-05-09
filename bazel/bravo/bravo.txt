@@ -2243,7 +2243,6 @@ bioscience
 barba
 barbacan
 belgae
-barbacoan
 bloc
 bayards
 boneheadedness
@@ -17076,6 +17075,7 @@ boggy
 begorrah
 bullary
 bleakly
+barbacoan
 brodekin
 bullate
 bullation
