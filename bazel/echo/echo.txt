@@ -2521,7 +2521,6 @@ enwiden
 epimerised
 escadrilles
 electron
-eleutherarch
 ectethmoid
 ethnarchy
 evaporator
@@ -13808,6 +13807,7 @@ extracorpuscular
 emphasis
 extracosmic
 elaeothesia
+eleutherarch
 extraversively
 extracosmical
 erlkings
