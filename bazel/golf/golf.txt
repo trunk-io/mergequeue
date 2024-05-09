@@ -480,6 +480,7 @@ gannets
 galleyman
 genotype
 gastrocoele
+gyratory
 gollar
 galenites
 galenobismutite
@@ -4620,7 +4621,6 @@ gainpain
 gyrating
 gyrator
 genocidal
-gyratory
 gyrators
 goldsmiths
 grademark
