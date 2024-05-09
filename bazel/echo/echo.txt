@@ -4845,7 +4845,6 @@ encrinitic
 encryption
 encrisp
 encroach
-edgestone
 encroacher
 encroaching
 encroachingly
@@ -11408,6 +11407,7 @@ evenly
 evenlong
 exotropic
 evenmete
+edgestone
 evenness
 endocrin
 exaristate
