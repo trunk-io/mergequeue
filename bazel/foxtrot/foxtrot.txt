@@ -571,7 +571,6 @@ forlornity
 floorings
 foo
 fallowist
-fluctuation
 forerunners
 fleshpots
 foulmouthedly
@@ -2798,6 +2797,7 @@ festivity
 frosted
 flowerer
 frasco
+fluctuation
 feston
 facets
 festooned

@@ -11349,7 +11349,6 @@ chloritization
 chloritize
 culicid
 chlorize
-chesterbed
 chlormethane
 chlornal
 chloro
@@ -23030,6 +23029,7 @@ consonantise
 consonantised
 camber
 consonantism
+chesterbed
 consonantized
 consonantness
 consonants
