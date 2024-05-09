@@ -14946,7 +14946,6 @@ dogears
 dogedom
 dogedoms
 dogeys
-doges
 doggerelled
 dogeship
 dicentrine
@@ -17230,6 +17229,7 @@ drivable
 drive
 driveable
 driveaway
+doges
 demitasse
 drivebolt
 drivel
