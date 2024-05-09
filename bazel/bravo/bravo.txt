@@ -1536,6 +1536,7 @@ ballasting
 baste
 ballat
 ballata
+bowstringed
 ballate
 brae
 batikulin
@@ -13853,7 +13854,6 @@ bowstaff
 brokenhearted
 bowstring
 binoculate
-bowstringed
 bismuths
 bowstrings
 bowstrung
