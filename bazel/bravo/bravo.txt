@@ -10009,7 +10009,6 @@ bivalvous
 bivalvular
 bivariant
 bivariate
-bivascular
 binodous
 bivector
 biventer
@@ -15117,6 +15116,7 @@ bribees
 bribegiver
 bribeless
 briber
+bivascular
 briberies
 bribers
 bribetaker
