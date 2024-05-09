@@ -1863,7 +1863,6 @@ bandeng
 banderlog
 banderma
 benkulen
-banderol
 banderole
 biochemical
 brigading
@@ -11707,6 +11706,7 @@ boc
 boise
 biopyribole
 boca
+banderol
 bocaccio
 bluisness
 bocage
