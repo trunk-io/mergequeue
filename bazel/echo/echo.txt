@@ -5618,7 +5618,6 @@ enfoulder
 enfrai
 enframe
 enframed
-enfranch
 ethnarch
 enfranchised
 estimating
@@ -12503,6 +12502,7 @@ exibilate
 enthronization
 espinette
 exies
+enfranch
 entreaty
 ependyme
 elocutionists
