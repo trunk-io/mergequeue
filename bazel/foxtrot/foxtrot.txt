@@ -7659,7 +7659,6 @@ foregift
 foregleam
 ferrocyanide
 foreglow
-forego
 fables
 fasciolidae
 flannelet
@@ -11061,6 +11060,7 @@ fumigated
 festal
 fumigations
 fumigatories
+forego
 furzery
 fuminess
 fuming
