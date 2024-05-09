@@ -9544,6 +9544,7 @@ checkbooks
 checker
 cartoned
 checkerbelly
+cubbyhouse
 checkerbellies
 checkerberry
 checkerberries
@@ -30442,7 +30443,6 @@ cubby
 cubbies
 cubbyhole
 cubbyholes
-cubbyhouse
 cubbyyew
 cubbing
 cubbishly
