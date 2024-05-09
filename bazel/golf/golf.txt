@@ -1033,7 +1033,6 @@ granulomatosis
 gander
 gamogeny
 gorget
-gundi
 ganderess
 geanticline
 gyrinus
@@ -9466,6 +9465,7 @@ group
 groupable
 grouped
 gynophoric
+gundi
 grandrelle
 grouper
 glycolipin
