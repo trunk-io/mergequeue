@@ -1218,7 +1218,6 @@ fasciolae
 fasciole
 fascioliasis
 fustier
-fascioloid
 fascis
 flanken
 flustering
@@ -9438,6 +9437,7 @@ frankish
 franklandite
 franklinian
 fastenings
+fascioloid
 foredetermine
 festivities
 frails
