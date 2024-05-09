@@ -2941,7 +2941,6 @@ elymi
 eliminable
 eliminand
 eliminate
-entoplastic
 equiprobabilism
 eliminated
 ellipsometry
@@ -5199,6 +5198,7 @@ endophasic
 expungers
 enamines
 endophyllous
+entoplastic
 etiolation
 endophyllum
 esophagostomy
