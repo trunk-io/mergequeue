@@ -2943,7 +2943,6 @@ fractionising
 fustigation
 feudalize
 fratching
-feudalized
 feudalizing
 fantastical
 feudatary
@@ -5982,6 +5981,7 @@ flopover
 flopovers
 flopper
 fibrinoplastin
+feudalized
 foundation
 floppy
 floppier

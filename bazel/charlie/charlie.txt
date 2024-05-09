@@ -9525,7 +9525,6 @@ chebel
 chebog
 chebule
 chebulic
-chechako
 chechakos
 chechem
 chechia
@@ -11211,6 +11210,7 @@ cotys
 chladnite
 chondrite
 chlamyd
+chechako
 chlamydate
 chlamydeous
 chlamydes
