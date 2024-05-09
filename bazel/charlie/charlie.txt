@@ -2599,7 +2599,6 @@ canids
 carbonylation
 canikin
 canikins
-cephalocereus
 canille
 canine
 canines
@@ -4441,6 +4440,7 @@ caritas
 conelrads
 capybaras
 claustrum
+cephalocereus
 caritative
 carity
 caritive
