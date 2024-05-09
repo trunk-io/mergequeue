@@ -1341,6 +1341,7 @@ fleeced
 fittable
 finds
 flauntier
+footmark
 fatalities
 fatally
 fatalness
@@ -2941,7 +2942,6 @@ feudatory
 fanciable
 feudatories
 feuded
-footmark
 fakers
 flexuoseness
 flock
