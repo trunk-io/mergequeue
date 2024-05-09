@@ -3885,7 +3885,6 @@ bavin
 blossombill
 bavius
 biaxial
-baw
 bawarchi
 bawble
 bacula
@@ -15062,6 +15061,7 @@ brewage
 brewages
 bogier
 bishopscap
+baw
 bicentennials
 brickliner
 brewery
