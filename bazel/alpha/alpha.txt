@@ -12787,7 +12787,6 @@ angiolith
 angiology
 angioma
 angiomalacia
-angiomas
 angiomata
 angiomatosis
 angiomyocardiac
@@ -18172,6 +18171,7 @@ apterygidae
 apterygiformes
 almsgiver
 arace
+angiomas
 apterygota
 apterygote
 arcanist
