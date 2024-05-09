@@ -1023,6 +1023,7 @@ baycuru
 baidar
 baidarka
 baidarkas
+bored
 baidya
 blueish
 boltmaking
@@ -12992,7 +12993,6 @@ beclouding
 borean
 borecole
 borecoles
-bored
 brownprint
 boredoms
 boree

@@ -2796,6 +2796,7 @@ genio
 genioglossal
 globoids
 genioglossi
+globy
 genioglossus
 geniohyoglossal
 gipsyhood
@@ -7231,7 +7232,6 @@ gladstonian
 gorsebird
 glazed
 gharri
-globy
 gelatinify
 gilliflirt
 gassendist
