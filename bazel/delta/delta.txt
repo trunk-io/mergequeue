@@ -8291,6 +8291,7 @@ droob
 dishmaking
 diagraph
 diagraphs
+diffeomorphism
 diagredium
 diagrydium
 diaguitas
@@ -9327,7 +9328,6 @@ diffarreation
 depolarised
 diffeomorphic
 doited
-diffeomorphism
 differ
 disconnectiveness
 differed
