@@ -2876,6 +2876,7 @@ cantate
 cantation
 cantatory
 cantatrice
+croslet
 cantatrices
 chestily
 cantatrici
@@ -4083,7 +4084,6 @@ cardinal
 costoxiphoid
 cardinalates
 cardinalfish
-croslet
 cancans
 cardinalfishes
 crofterize
