@@ -1085,7 +1085,6 @@ flakily
 farmtown
 farnesol
 farnesols
-fogas
 flinger
 faro
 floriken
@@ -4289,6 +4288,7 @@ freeboot
 fiscalize
 fiscalized
 fixatif
+fogas
 fischerite
 foresleeve
 friendlies
