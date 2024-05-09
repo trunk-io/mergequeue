@@ -4393,7 +4393,6 @@ adrenalize
 ambitus
 afounde
 adrench
-asarota
 adrenergic
 adrenin
 attice
@@ -10575,6 +10574,7 @@ arkite
 amylolytic
 advenae
 amylom
+asarota
 amylometer
 amylopectin
 amylophagia
