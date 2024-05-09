@@ -3884,6 +3884,7 @@ guttar
 globigerine
 giblets
 giboia
+gypsyhead
 goyle
 gibsons
 gibstaff
@@ -4561,7 +4562,6 @@ gravelweed
 generically
 gipsyhead
 gazehound
-gypsyhead
 gaitt
 gradate
 gloeocapsoid
