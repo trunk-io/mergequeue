@@ -636,7 +636,6 @@ elasticities
 engages
 exiguousness
 eckehart
-eclair
 eclaircissement
 eclairissement
 entach
@@ -2103,6 +2102,7 @@ enarm
 elastin
 elastins
 exemplupla
+eclair
 elastivity
 elastomer
 enfamish
