@@ -2736,7 +2736,6 @@ fwd
 falanaka
 fervidly
 fervor
-forecar
 formicivorous
 fervorous
 forbiddance
@@ -3589,6 +3588,7 @@ fylfot
 fili
 feeblest
 filially
+forecar
 filiate
 fusoid
 filiating
