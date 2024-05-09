@@ -3524,6 +3524,7 @@ deforciant
 deforest
 deforested
 deforester
+disruptor
 dentiform
 deforests
 deform
@@ -13460,7 +13461,6 @@ dyophysitism
 disruptive
 disruptively
 disruptment
-disruptor
 dismaw
 disrupts
 diss
