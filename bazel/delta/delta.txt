@@ -4606,7 +4606,6 @@ demigentleman
 demiglace
 dendrite
 demigod
-decern
 demigoddess
 demigrate
 demigriffin
@@ -13718,6 +13717,7 @@ desugaring
 digitise
 damndests
 dissolver
+decern
 diabetogenous
 dissolvingly
 drab
