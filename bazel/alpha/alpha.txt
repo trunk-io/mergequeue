@@ -3475,7 +3475,6 @@ adapts
 adar
 aglobulia
 adarbitrium
-adarme
 adati
 adatis
 adatom
@@ -6541,6 +6540,7 @@ agrotechny
 agrotype
 agrotis
 agrufe
+adarme
 assiduate
 arguta
 agruif

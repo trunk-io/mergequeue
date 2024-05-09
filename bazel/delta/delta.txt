@@ -4440,6 +4440,7 @@ demarcatordemarcators
 disnaturalize
 demarcature
 demarches
+dequeue
 demarchy
 demaree
 demargarinate
@@ -6084,7 +6085,6 @@ disminister
 dungeonlike
 deputizes
 deputizing
-dequeue
 dermorhynchi
 duomi
 decry
