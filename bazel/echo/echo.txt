@@ -8826,6 +8826,7 @@ erastus
 erasure
 erasures
 erat
+exceptionless
 erato
 erava
 erbia
@@ -11928,7 +11929,6 @@ exceptional
 exceptionality
 exceptionally
 exceptionary
-exceptionless
 euclase
 exceptious
 exceptiousness
