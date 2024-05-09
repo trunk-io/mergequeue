@@ -1584,7 +1584,6 @@ ballism
 ballista
 boilermaker
 ballistae
-bijous
 ballistician
 brachioganoidei
 ballisticians
@@ -16982,6 +16981,7 @@ bulb
 bulbar
 bulbed
 bulbel
+bijous
 bulby
 bulbier
 behaviorism
