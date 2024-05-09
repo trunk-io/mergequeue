@@ -6672,7 +6672,6 @@ enteroplegia
 enthalpies
 epilogism
 exhume
-enteropneusta
 enteroptosis
 enterorrhagia
 ethions
@@ -7402,6 +7401,7 @@ electrocataphoresis
 epepophysis
 epergne
 etalon
+enteropneusta
 eperlan
 echevin
 eperotesis
