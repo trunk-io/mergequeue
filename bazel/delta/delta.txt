@@ -5045,7 +5045,6 @@ demultiplexer
 demultiplexers
 disroot
 dimedone
-demultiplexes
 deposed
 dinamode
 decussion
@@ -9311,6 +9310,7 @@ dietotoxic
 depilation
 dietrichite
 diets
+demultiplexes
 duvetine
 dietzeite
 dieugard
