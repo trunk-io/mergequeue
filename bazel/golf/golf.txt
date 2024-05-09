@@ -4676,7 +4676,6 @@ girlhoods
 gyrophoric
 girlhood
 girliness
-girlishly
 glink
 galen
 girlishness
@@ -7805,6 +7804,7 @@ grammatite
 glossotherium
 gastroenterostomy
 gelatification
+girlishly
 gramme
 groggiest
 gumwood
