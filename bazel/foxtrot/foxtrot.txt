@@ -2039,6 +2039,7 @@ feetfirst
 furnacing
 fieldwards
 fishhooks
+firebombs
 feignedly
 fanfare
 feigners
@@ -4099,7 +4100,6 @@ fakiness
 firebombing
 frostlike
 faithwise
-firebombs
 fireboot
 fosh
 figuredly
