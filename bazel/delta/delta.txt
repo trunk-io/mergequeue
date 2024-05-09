@@ -3521,6 +3521,7 @@ deforcer
 deforces
 distrail
 deforciant
+disembodiments
 deforest
 deforested
 deforester
@@ -11963,7 +11964,6 @@ disembodied
 disembodying
 domicils
 disembodiment
-disembodiments
 disembogue
 disembogued
 denaturation
