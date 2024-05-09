@@ -2826,7 +2826,6 @@ decremental
 dactylioglyphy
 decrementing
 decrements
-decremeter
 decrepid
 decrepit
 duodecahedral
@@ -8395,6 +8394,7 @@ discountenancer
 dialyzate
 dialyzation
 dialyze
+decremeter
 dialyzed
 dialyzer
 dialyzes
