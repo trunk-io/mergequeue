@@ -5510,7 +5510,6 @@ glyphographer
 germanly
 glyphographic
 glyphs
-gharris
 greenness
 glyptic
 glyptician
@@ -7544,6 +7543,7 @@ guanamine
 grabby
 grabbiest
 glottogonic
+gharris
 generation
 gurgulation
 gravimetrically
