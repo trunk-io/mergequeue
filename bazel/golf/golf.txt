@@ -2549,6 +2549,7 @@ gyrochrome
 gambled
 gazel
 genistin
+geoscientist
 gemmological
 gemmologist
 gadders
@@ -3213,7 +3214,6 @@ georgics
 gnast
 geoscience
 grenade
-geoscientist
 geoscientists
 gellant
 geoscopy
