@@ -7861,6 +7861,7 @@ flashproof
 filler
 farmplace
 forepretended
+flaskful
 foreprize
 forepromise
 foreprovision
@@ -10286,7 +10287,6 @@ fro
 ferryage
 foggages
 frazing
-flaskful
 froebelian
 froebelism
 feared

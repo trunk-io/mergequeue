@@ -3659,7 +3659,6 @@ ghastliest
 gatewaymen
 groups
 gianthood
-gargil
 geonyctitropic
 ghastlily
 gantries
@@ -7878,6 +7877,7 @@ gliriform
 grandevity
 grandeza
 gymnopaedes
+gargil
 gymnolaema
 gregaloid
 gerents
