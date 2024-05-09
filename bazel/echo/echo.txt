@@ -424,6 +424,7 @@ evenoo
 ecaudata
 ecaudate
 ernest
+encephalitogenic
 ecballium
 ecblastesis
 ecbole
@@ -4495,7 +4496,6 @@ encephalitic
 endostyle
 exocolitis
 emulators
-encephalitogenic
 elotherium
 encephalographic
 encephalographically
