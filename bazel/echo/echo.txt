@@ -3204,6 +3204,7 @@ elute
 eluted
 eluting
 elution
+enfasten
 enzymatically
 elutions
 eigenstate
@@ -5508,7 +5509,6 @@ epicenism
 enfants
 epidendric
 effector
-enfasten
 episporangium
 enfatico
 enfavor
