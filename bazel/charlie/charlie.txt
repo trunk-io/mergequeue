@@ -36,7 +36,6 @@ caballine
 caballing
 caballo
 ceratopteridaceous
-caballos
 caban
 cardiae
 cabana
@@ -4784,6 +4783,7 @@ carpophagous
 carpophalangeal
 carpophyl
 cressier
+caballos
 carpophyte
 cynosarges
 carpopodite
