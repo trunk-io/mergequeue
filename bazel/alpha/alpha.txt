@@ -1957,6 +1957,7 @@ adstrict
 advanced
 acetable
 acetabula
+aerofoil
 acetabular
 acetabularia
 acetabuliform
@@ -4992,7 +4993,6 @@ aeroelastic
 aeroelasticity
 aeroelastics
 aporphin
-aerofoil
 aerofoils
 algine
 aerogel
