@@ -583,7 +583,6 @@ damassin
 devast
 droiture
 damboard
-dambonite
 dambonitol
 dambose
 derived
@@ -5696,6 +5695,7 @@ dephlogistication
 duennadom
 dephosphorize
 depickle
+dambonite
 depict
 depicter
 denuclearize
