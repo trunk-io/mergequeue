@@ -18841,6 +18841,7 @@ colinear
 cantalas
 chelodina
 cabins
+corpuscule
 colinearity
 colinephritis
 coling
@@ -25683,7 +25684,6 @@ confinedness
 completed
 corpuscularity
 corpusculated
-corpuscule
 corpusculous
 corpusculum
 corradial
