@@ -404,7 +404,6 @@ exposits
 empoisons
 ebulliometer
 ergometer
-expressman
 ebullioscopy
 ebullioscopic
 earworm
@@ -3159,6 +3158,7 @@ elsewhere
 elsewheres
 elsewise
 elsholtzia
+expressman
 elsin
 elt
 eltrot
