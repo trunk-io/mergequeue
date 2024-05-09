@@ -5258,7 +5258,6 @@ casse
 caveats
 cassegrain
 chromomeric
-cassegrainian
 casserole
 casseroled
 casseroling
@@ -26904,6 +26903,7 @@ confabbed
 counteridea
 copperization
 counterideal
+cassegrainian
 circumambience
 counterimagination
 cyclomyarian
