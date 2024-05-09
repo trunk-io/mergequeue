@@ -12870,7 +12870,6 @@ exp
 embusque
 expalpate
 expandable
-expanded
 escropulo
 expandedly
 expandedness
@@ -13431,6 +13430,7 @@ expurgated
 expurgating
 expurgation
 elision
+expanded
 expurgational
 ethan
 expurgations
