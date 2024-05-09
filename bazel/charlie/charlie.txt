@@ -11937,6 +11937,7 @@ choragion
 choragus
 choraguses
 calashes
+complects
 chorai
 choral
 choralcelo
@@ -20656,7 +20657,6 @@ complect
 cottierism
 complecting
 complection
-complects
 complement
 converser
 complemental
