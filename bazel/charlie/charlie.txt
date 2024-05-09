@@ -2744,7 +2744,6 @@ cannons
 cannophori
 curvilineal
 cannstatt
-colluded
 chebeck
 cannulae
 cannulas
@@ -10143,6 +10142,7 @@ cheskeys
 cheslep
 coleochaete
 chesoun
+colluded
 chess
 chessart
 chessboard
