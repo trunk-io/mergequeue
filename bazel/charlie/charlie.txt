@@ -8248,6 +8248,7 @@ chainman
 courts
 chainmen
 chainomatic
+curarization
 chainon
 cultists
 chains
@@ -31200,7 +31201,6 @@ caulker
 curari
 curarines
 curaris
-curarization
 chattily
 curarizes
 curarizing
