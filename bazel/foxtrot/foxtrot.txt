@@ -6653,7 +6653,6 @@ frontes
 foeffment
 flunkeyhood
 fillip
-foehn
 foehnlike
 foehns
 foeish
@@ -9104,6 +9103,7 @@ fleetwing
 fidele
 forboded
 fox
+foehn
 foxbane
 foxberry
 foxberries
