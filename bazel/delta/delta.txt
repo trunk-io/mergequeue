@@ -12813,7 +12813,6 @@ dismounted
 dismounts
 dismutation
 disna
-dryope
 disnatural
 disnature
 disnaturalization
@@ -15506,6 +15505,7 @@ donjon
 dayflower
 donjons
 donk
+dryope
 danios
 doloriferous
 donkeyish
