@@ -2506,7 +2506,6 @@ electrometallurgy
 electrometallurgist
 electrometer
 enage
-earthgrubber
 ecstrophy
 electrometrical
 electrometrically
@@ -11673,6 +11672,7 @@ exacting
 enclosure
 empaled
 electroirrigation
+earthgrubber
 embattling
 emigrated
 eburnian

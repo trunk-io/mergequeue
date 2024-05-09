@@ -5582,7 +5582,6 @@ cariousness
 centi
 catalogia
 contractible
-catalogical
 carking
 catalogist
 catalogistic
@@ -10292,6 +10291,7 @@ chiasmata
 chiasmatic
 connaraceae
 chiasmatype
+catalogical
 chiasmi
 chiasmic
 chiasmodontid
