@@ -2045,7 +2045,6 @@ defaced
 decal
 dodecylic
 decarbonate
-decalage
 decalcify
 decalcifier
 donar
@@ -18403,6 +18402,7 @@ dupioni
 disendowing
 duplation
 duple
+decalage
 dislock
 dedicatedly
 duplexer
