@@ -2196,7 +2196,6 @@ gonocyte
 galla
 globosity
 gazeless
-gazella
 gazelle
 gazellelike
 gazelline
@@ -4711,6 +4710,7 @@ gigantic
 glandulosity
 gyrodactylidae
 gaveler
+gazella
 gapa
 gopherroot
 gansy
