@@ -1261,7 +1261,6 @@ gapingstock
 gruffs
 gapless
 galactopoietic
-gaplessness
 gizzened
 gapped
 gapper
@@ -3637,6 +3636,7 @@ gastronomy
 gharnao
 goniaster
 gnomonic
+gaplessness
 gregarinaria
 gavial
 glutinose
