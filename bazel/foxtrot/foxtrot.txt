@@ -1101,7 +1101,6 @@ ferriages
 farrage
 foldstool
 farrago
-fordone
 frizzed
 flyaways
 frigatoon
@@ -9137,6 +9136,7 @@ foxing
 furbishable
 folliculosis
 fasciae
+fordone
 fictil
 foxly
 frettier
