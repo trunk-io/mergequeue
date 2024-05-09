@@ -2225,6 +2225,7 @@ foretypified
 forestate
 felspath
 felstone
+foresummon
 felstones
 framers
 forewinning
@@ -8064,7 +8065,6 @@ fcy
 focalizing
 forseeable
 forestwards
-foresummon
 fireflies
 fulminated
 fabulist
