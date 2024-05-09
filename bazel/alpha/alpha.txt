@@ -6839,7 +6839,6 @@ airbrushing
 airburst
 arresting
 airbursts
-airbuses
 airbusses
 aircheck
 aircoaches
@@ -19360,6 +19359,7 @@ arecoline
 arecuna
 ared
 areek
+airbuses
 areel
 arefact
 arefaction
