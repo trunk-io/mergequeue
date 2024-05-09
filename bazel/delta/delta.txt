@@ -4251,7 +4251,6 @@ della
 drizzle
 deaconess
 discolorization
-desynapsis
 dells
 dryadic
 delobranchiata
@@ -4975,6 +4974,7 @@ demonstrably
 demonstrandum
 demonstratability
 demonstrate
+desynapsis
 demonstrated
 demonstratedly
 dermatograph
