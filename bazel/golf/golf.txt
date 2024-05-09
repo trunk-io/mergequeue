@@ -501,7 +501,6 @@ glutoid
 galeorhinidae
 galeorhinus
 gillying
-galere
 galericulate
 galerum
 garveys
@@ -1404,6 +1403,7 @@ gargler
 gerontologies
 gargling
 gargoyley
+galere
 gourmands
 gargoylish
 gazaboes
