@@ -3519,7 +3519,6 @@ distrail
 deforciant
 deforest
 deforested
-deforester
 dentiform
 deforests
 deform
@@ -13023,6 +13022,7 @@ dispeopling
 dyspepsy
 dyspepsies
 dyspeptic
+deforester
 diversifying
 dyspeptical
 dyspeptically
