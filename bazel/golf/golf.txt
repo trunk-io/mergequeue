@@ -1748,7 +1748,6 @@ gader
 goriest
 gastrocolotomy
 gentled
-gastrodermal
 gastrodermis
 gnotobiote
 goosemouth
@@ -5142,6 +5141,7 @@ grizzlies
 glassie
 gateaux
 glassies
+gastrodermal
 glassin
 gravigrada
 gastrorrhagia
