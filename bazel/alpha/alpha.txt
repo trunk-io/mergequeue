@@ -2597,7 +2597,6 @@ acolyte
 attaboy
 ascidiferous
 amoebicidal
-acolytes
 acolyth
 acolythate
 acolytus
@@ -16690,6 +16689,7 @@ apast
 apasttra
 apatan
 antihierarchically
+acolytes
 apatela
 apatetic
 apathaton
