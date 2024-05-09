@@ -7699,7 +7699,6 @@ actual
 alcmene
 alco
 alcoate
-atterrate
 alcogel
 alchemical
 andiroba
@@ -10306,6 +10305,7 @@ archivers
 amerced
 acupressure
 amercement
+atterrate
 acromion
 anaphorically
 amercer
