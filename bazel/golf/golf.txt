@@ -1968,7 +1968,6 @@ grissel
 gluer
 gawker
 gatteridge
-ghettoizes
 gauche
 gauchely
 gaud
@@ -10749,6 +10748,7 @@ graduality
 grudge
 graywall
 gutlike
+ghettoizes
 gutnish
 gynaecomorphous
 glossospasm
