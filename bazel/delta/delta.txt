@@ -3657,7 +3657,6 @@ dermatoxerasia
 deglut
 disarrangement
 deglutinate
-deglutinated
 deglutinating
 dermatoplasty
 defoliant
@@ -9615,6 +9614,7 @@ dihydronicotine
 dihydrosphingosine
 disinclines
 discomfortably
+deglutinated
 dihydrostreptomycin
 dihydrotachysterol
 dihydroxy
