@@ -917,6 +917,7 @@ grammaticality
 gamelang
 gonagia
 gamelans
+gemshorn
 gameless
 gentian
 gamelike
@@ -7881,7 +7882,6 @@ gerents
 graphy
 grandfatherhood
 gamond
-gemshorn
 grasslike
 grandfathers
 grandfer
