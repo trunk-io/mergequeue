@@ -6389,7 +6389,6 @@ dermophobe
 dermoptera
 decarbonylated
 dermopterous
-dermosclerite
 dermoskeleton
 dermotropic
 derms
@@ -9001,6 +9000,7 @@ dicodeine
 dicoelious
 dicoelous
 dicolic
+dermosclerite
 dicolon
 dicotyledon
 dicotyledonous
