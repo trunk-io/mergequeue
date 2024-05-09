@@ -10903,7 +10903,6 @@ disacceptance
 disaccharid
 disaccharide
 deafens
-disaccharose
 disaccommodate
 disaccomodate
 disaccord
@@ -13190,6 +13189,7 @@ disponer
 disponge
 deprogrammers
 dysporomorph
+disaccharose
 disporous
 disporting
 disportive
