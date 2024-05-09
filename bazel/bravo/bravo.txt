@@ -2373,6 +2373,7 @@ biolysis
 bookdom
 bachelorlike
 barbre
+broon
 barbu
 barbula
 barbulate
@@ -17066,7 +17067,6 @@ brickset
 bulkish
 bulks
 bull
-broon
 bakerdom
 bullalaria
 bullamacow
