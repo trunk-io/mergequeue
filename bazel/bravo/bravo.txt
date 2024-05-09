@@ -4312,6 +4312,7 @@ beautifier
 biriba
 bishopbird
 beautifiers
+bucktail
 beautifying
 beautiful
 beautifulness
@@ -12638,7 +12639,6 @@ bushmaster
 blastophthoric
 bookends
 booker
-bucktail
 bookery
 bookers
 bookfold
