@@ -8911,6 +8911,7 @@ binomialism
 bayberries
 binomially
 binomials
+bisubstitution
 binominal
 bedchamber
 bunchbacked
@@ -9839,7 +9840,6 @@ banderoles
 boos
 bistros
 bisubstituted
-bisubstitution
 bisulc
 bisulcated
 bubblebow
