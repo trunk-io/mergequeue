@@ -4170,7 +4170,6 @@ firelocks
 firemanship
 formed
 febrifacient
-fragmentize
 fohat
 firepink
 firepinks
@@ -8543,6 +8542,7 @@ fluorographic
 florins
 formulizing
 flapdoodle
+fragmentize
 fameless
 fornax
 frighty
