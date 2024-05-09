@@ -4405,7 +4405,6 @@ gravidity
 gnashing
 gingerberry
 geopony
-glycocholic
 gingerbready
 galeopsis
 ghetto
@@ -5182,6 +5181,7 @@ gte
 glathsheimr
 glauber
 gourmander
+glycocholic
 guichet
 glaucescent
 gastrosoph
