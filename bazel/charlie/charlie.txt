@@ -14341,7 +14341,6 @@ circumbasal
 circumbendibus
 conception
 circumboreal
-carpellum
 cyclotella
 circumbuccal
 circumbulbar
@@ -22157,6 +22156,7 @@ confricamenta
 cass
 confricamentum
 confrontal
+carpellum
 confrontation
 confrontationism
 confrontationist
