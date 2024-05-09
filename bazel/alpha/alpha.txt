@@ -4810,7 +4810,6 @@ austria
 aegicrania
 aegilops
 aegina
-aeginetan
 aeginetic
 aegipan
 aegyptilla
@@ -18285,6 +18284,7 @@ aquatints
 aquation
 ascender
 aquatone
+aeginetan
 abampere
 acidemias
 aquavit
