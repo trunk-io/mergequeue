@@ -1081,6 +1081,7 @@ farmyardy
 foremastman
 farmout
 fisc
+forewisdom
 flakily
 farmtown
 farnesol
@@ -6263,7 +6264,6 @@ fld
 fooder
 fluxer
 fluorocarbons
-forewisdom
 fallal
 frisian
 fluidising
