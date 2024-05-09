@@ -5759,6 +5759,7 @@ deftest
 deplorabilia
 deplorability
 deplorableness
+doto
 deplorably
 diving
 deploration
@@ -15959,7 +15960,6 @@ devilish
 dotless
 dottiest
 dotlet
-doto
 dotonidae
 dotriacontane
 dottard
