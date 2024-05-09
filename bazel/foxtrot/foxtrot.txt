@@ -5865,7 +5865,6 @@ furans
 flocculency
 flocculent
 floccules
-frigidoreceptor
 flocculose
 fluctuations
 flocculus
@@ -10754,6 +10753,7 @@ frumpishly
 frumpishness
 forespake
 foreyear
+frigidoreceptor
 fructified
 frenne
 flam
