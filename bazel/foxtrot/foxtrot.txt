@@ -2218,6 +2218,7 @@ felspath
 felstone
 felstones
 framers
+forewinning
 felt
 felted
 furless
@@ -8149,7 +8150,6 @@ freezable
 frostbird
 forewings
 faldetta
-forewinning
 foothils
 flabbiest
 fangle
