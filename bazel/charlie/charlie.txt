@@ -2751,7 +2751,6 @@ canoeist
 canoeists
 canoeload
 canoeman
-canoes
 calmy
 cardiogenesis
 canoewood
@@ -16275,6 +16274,7 @@ chilblains
 clinocephaly
 carideer
 clinocephalous
+canoes
 clinocephalus
 charlatanically
 clinoclasite
