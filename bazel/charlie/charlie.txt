@@ -12648,7 +12648,6 @@ chronique
 chronisotherm
 chronist
 chronobarometer
-chronocarator
 chronocyclegraph
 chronocinematography
 crake
@@ -16678,6 +16677,7 @@ closets
 closewing
 closing
 crusading
+chronocarator
 closings
 closkey
 campoo
