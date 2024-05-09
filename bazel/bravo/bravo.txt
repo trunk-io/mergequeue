@@ -6393,7 +6393,6 @@ brevetcy
 briguer
 benzaldehyde
 benzaldoxime
-balkily
 bandeaus
 benzalethylamine
 benzalphenylhydrazone
@@ -9632,6 +9631,7 @@ bisdimethylamino
 bicapsular
 bisect
 bisected
+balkily
 bisecting
 bisection
 bisectional
