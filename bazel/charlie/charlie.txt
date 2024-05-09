@@ -19829,7 +19829,6 @@ cometaria
 cometarium
 cometh
 cavum
-cometic
 cabulla
 cometlike
 cometography
@@ -21103,6 +21102,7 @@ concarnation
 concassation
 cherishers
 concatenate
+cometic
 concatenated
 concatenates
 coequating
