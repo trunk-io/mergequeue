@@ -3169,7 +3169,6 @@ basibranchial
 basibranchiate
 basibregmatic
 bowwood
-bauld
 basic
 bombardier
 basically
@@ -4276,6 +4275,7 @@ bowls
 bugbear
 boudoir
 beaucoup
+bauld
 beaued
 banting
 bleedings
