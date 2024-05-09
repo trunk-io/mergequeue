@@ -4501,6 +4501,7 @@ birdwomen
 blackfriars
 beclog
 beclogged
+bestowal
 beclogging
 beclogs
 bretonian
@@ -12065,7 +12066,6 @@ bolder
 boldest
 bostrychoid
 boldfaced
-bestowal
 boldfacedly
 boldfacedness
 banshees
