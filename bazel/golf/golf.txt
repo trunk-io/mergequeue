@@ -2247,6 +2247,7 @@ gearshift
 gearshifts
 gearwheels
 goldfinches
+gilgames
 garden
 garlics
 glistening
@@ -4095,7 +4096,6 @@ gilet
 gormandizers
 gauric
 gastrosuccorrhea
-gilgames
 gilgie
 gilguy
 gymnoconia
