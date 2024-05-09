@@ -5871,6 +5871,7 @@ agennetic
 agar
 agaricaceae
 agaricaceous
+ambry
 agaricales
 agaricine
 agaricoid
@@ -10116,7 +10117,6 @@ adytum
 ambrette
 ambrettolide
 aphrizite
-ambry
 ambries
 alluminor
 ambrite
