@@ -9716,6 +9716,7 @@ boulangerite
 bisks
 bislings
 belial
+brimstony
 battening
 bysmalith
 biggety
@@ -16124,7 +16125,6 @@ balklines
 brotheler
 bulla
 bagnette
-brimstony
 brothels
 bistorta
 borrowing
