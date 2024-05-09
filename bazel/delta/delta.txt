@@ -2659,7 +2659,6 @@ decempeda
 decolourizer
 dulse
 decolourizing
-decreers
 decolours
 decommission
 decommissioned
@@ -2981,6 +2980,7 @@ dedit
 deditician
 daggy
 dediticiancy
+decreers
 dedoggerelize
 dedogmatize
 dedolation
