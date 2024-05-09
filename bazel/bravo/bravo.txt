@@ -3606,7 +3606,6 @@ bathkol
 barbar
 bathman
 bathmat
-bathmats
 bereaven
 bollard
 bathmism
@@ -10635,6 +10634,7 @@ blearyeyedness
 blearier
 bleariest
 begarnish
+bathmats
 boomless
 bleariness
 brabbles
