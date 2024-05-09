@@ -158,7 +158,6 @@ gadwall
 gadwalls
 gae
 glottalization
-gaedelian
 gael
 girth
 gaelic
@@ -5950,6 +5949,7 @@ geaster
 glucagon
 gladify
 guarea
+gaedelian
 glucagons
 gate
 gynoecium
