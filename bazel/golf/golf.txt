@@ -6298,7 +6298,6 @@ goaltender
 goaltenders
 geognosist
 goan
-goanese
 goanna
 gamboler
 ganglionless
@@ -7434,6 +7433,7 @@ gyrostatics
 gibing
 guesstimate
 gymnotidae
+goanese
 goldsmith
 gerful
 gluemaking
