@@ -537,7 +537,6 @@ backstromite
 backswording
 bettergates
 backswordman
-backtender
 backtenter
 backtracked
 backtracker
@@ -17734,6 +17733,7 @@ burkundauze
 burgherdom
 boucherism
 berlines
+backtender
 bridegod
 burkundaz
 burl

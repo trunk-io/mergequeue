@@ -7436,7 +7436,6 @@ cephalomere
 cyclostylar
 cephalometer
 cephalometric
-cephalomotor
 clysis
 cephalonasal
 cephalopathy
@@ -11467,6 +11466,7 @@ chlorphenol
 caffa
 chlorpicrin
 chlorpromazine
+cephalomotor
 chlorpropamide
 cheerfulsome
 ciboule
