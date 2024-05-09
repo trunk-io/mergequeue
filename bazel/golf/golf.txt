@@ -6559,6 +6559,7 @@ girrock
 goldenness
 glidewort
 goldenrod
+gothlander
 gucked
 goldentop
 gastrea
@@ -7344,7 +7345,6 @@ griphe
 gothite
 glandula
 gothites
-gothlander
 gurnetty
 gassit
 gotiglacial
