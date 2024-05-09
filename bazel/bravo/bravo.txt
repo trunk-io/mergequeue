@@ -2201,7 +2201,6 @@ benzpyrene
 baptizer
 biplanar
 baptizers
-backbitten
 butterbill
 baptizing
 becompass
@@ -7695,6 +7694,7 @@ borne
 butanones
 beworried
 basidiomycetous
+backbitten
 beworries
 beworrying
 beworship
