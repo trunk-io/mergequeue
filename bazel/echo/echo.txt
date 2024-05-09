@@ -7345,6 +7345,7 @@ eccoprotic
 eparchies
 eparchs
 eparterial
+explorable
 epaule
 epaulement
 epaulet
@@ -13237,7 +13238,6 @@ exploiting
 enstatitite
 erethitic
 exploiture
-explorable
 exploratively
 enragedly
 exfiltration
