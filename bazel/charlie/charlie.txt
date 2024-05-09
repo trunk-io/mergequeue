@@ -24740,6 +24740,7 @@ coprisoner
 coprocessor
 coprodaeum
 coproduce
+catpiece
 cardioplegia
 coproducer
 coproduct
@@ -27120,7 +27121,6 @@ counterriposte
 counterroll
 counterrotating
 counterround
-catpiece
 counterruin
 counters
 countersalient
