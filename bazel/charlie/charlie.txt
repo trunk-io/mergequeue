@@ -6350,6 +6350,7 @@ concessionaries
 caustification
 caustified
 caustifying
+columnwise
 cautela
 chancre
 cautelous
@@ -19627,7 +19628,6 @@ creeperless
 columnizes
 columnizing
 columns
-columnwise
 colure
 colures
 colusite
