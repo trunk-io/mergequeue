@@ -5210,7 +5210,6 @@ denied
 denyer
 denierer
 denigrate
-denigrated
 denigrates
 denigration
 denigrations
@@ -14741,6 +14740,7 @@ degradational
 doctorfishes
 doctorhood
 diethylenediamine
+denigrated
 doctorial
 doctorially
 detorsion
