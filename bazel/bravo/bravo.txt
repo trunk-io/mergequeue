@@ -3382,6 +3382,7 @@ bassalia
 bootable
 baculum
 bassan
+beswitch
 bicarbonate
 bassanite
 bassara
@@ -3826,7 +3827,6 @@ bacterian
 battutos
 blastomeric
 batwing
-beswitch
 batwoman
 batwomen
 batuque

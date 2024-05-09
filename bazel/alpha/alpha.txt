@@ -4476,7 +4476,6 @@ adsum
 adterminal
 adtevac
 aduana
-adular
 arrestor
 adularescence
 assertorial
@@ -8205,6 +8204,7 @@ aquatinted
 algophilist
 algophobia
 assistantships
+adular
 algor
 attar
 almsmoney
