@@ -6343,7 +6343,6 @@ bennies
 benomyl
 benorth
 bands
-bensall
 bensell
 bensh
 benshea
@@ -6806,6 +6805,7 @@ blurted
 bacchiuchii
 bermuda
 bermudas
+bensall
 buffoons
 buccinae
 bermudite
