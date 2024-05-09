@@ -8827,6 +8827,7 @@ fossified
 fleecer
 fluigramme
 flysch
+fortune
 frondigerous
 fossiform
 fastwalk
@@ -10424,7 +10425,6 @@ frontals
 frontbencher
 frontcourt
 fronted
-fortune
 feracities
 fronter
 frontier
