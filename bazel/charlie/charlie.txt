@@ -11624,6 +11624,7 @@ chamberer
 cholates
 crafting
 contestation
+cryptogamian
 cinctures
 cleavingly
 chold
@@ -29277,7 +29278,6 @@ cryptogam
 cryptogame
 cryptogamy
 cryptogamia
-cryptogamian
 cryptogamic
 cryptogamical
 cryptogamist
