@@ -264,7 +264,6 @@ bacillicidic
 bacilliculture
 burrow
 bacilliform
-bacilligenic
 bacilliparous
 bacillogenic
 bacillogenous
@@ -7939,6 +7938,7 @@ berinse
 biblioclasm
 bibliofilm
 bibliog
+bacilligenic
 botaniser
 bibliographers
 bewigged
