@@ -5977,6 +5977,7 @@ deprest
 dechlorination
 depreter
 depriment
+doveweed
 deprint
 depriorize
 dysmerism
@@ -16167,7 +16168,6 @@ doolie
 diacritics
 dovetailwise
 dulciana
-doveweed
 dovyalis
 decibar
 dovishness
