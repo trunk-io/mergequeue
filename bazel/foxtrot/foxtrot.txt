@@ -6496,6 +6496,7 @@ flatboat
 flushers
 flourlike
 flushgate
+fallacia
 flushy
 flushingly
 flusk
@@ -8793,7 +8794,6 @@ flue
 forwork
 feoffing
 forwrap
-fallacia
 forz
 forzando
 fulgor
