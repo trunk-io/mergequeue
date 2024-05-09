@@ -3292,7 +3292,6 @@ fideicommission
 flasket
 facioscapulohumeral
 fideist
-fossilologist
 folklorist
 fideistic
 faction
@@ -8500,6 +8499,7 @@ forms
 formula
 formulae
 fard
+fossilologist
 fulgid
 foggy
 formularies
