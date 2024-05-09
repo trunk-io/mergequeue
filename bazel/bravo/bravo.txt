@@ -11909,7 +11909,6 @@ battalia
 brothelry
 bogymen
 bogland
-boglander
 bogle
 bogled
 bogledom
@@ -12486,6 +12485,7 @@ bongrace
 burgwere
 bonhomies
 bonhomous
+boglander
 bradyteleokinesis
 bonhomously
 boni
