@@ -6135,7 +6135,6 @@ gluttonously
 griffado
 gmelina
 gravamen
-geometry
 gnabble
 graspers
 gibberose
@@ -8909,6 +8908,7 @@ galenism
 groundling
 gryde
 gridelin
+geometry
 griding
 goldney
 gabion
