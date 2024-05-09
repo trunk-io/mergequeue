@@ -11571,7 +11571,6 @@ boastfully
 blimps
 boastfulness
 boastive
-boasts
 boatable
 bosket
 benumb
@@ -12251,6 +12250,7 @@ bombarder
 bombardiers
 bombarding
 bombardman
+boasts
 burrfishes
 bullwhacker
 bramantesque
