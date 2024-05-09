@@ -3722,7 +3722,6 @@ ghost
 ghostdom
 generalidad
 guardstone
-ghostfishes
 ghostflower
 growths
 goalmouth
@@ -5936,6 +5935,7 @@ grimmia
 glowworms
 ghastfulness
 gloxinia
+ghostfishes
 gloxinias
 glozed
 gallophobia
