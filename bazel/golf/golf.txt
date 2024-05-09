@@ -7668,7 +7668,6 @@ graecophil
 graeculus
 granth
 graeme
-gonion
 grenadier
 geography
 gunbarrel
@@ -10027,6 +10026,7 @@ gudrun
 glume
 gemelled
 gulped
+gonion
 gammation
 gargoyles
 guelf

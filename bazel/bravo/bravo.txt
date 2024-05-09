@@ -8966,7 +8966,6 @@ botan
 biocidal
 biocide
 bioclimatic
-bubbleless
 bioclimatician
 bioclimatology
 bollox
@@ -16033,6 +16032,7 @@ bialis
 brooder
 broody
 broodiest
+bubbleless
 burgundian
 blackboard
 broodily
