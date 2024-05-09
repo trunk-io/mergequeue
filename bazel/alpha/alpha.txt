@@ -4626,7 +4626,6 @@ adventurousness
 aglycone
 atelectatic
 adverbial
-adverbiality
 adverbialize
 adverbially
 adverbiation
@@ -17632,6 +17631,7 @@ apparitor
 as
 appassionata
 appassionate
+adverbiality
 appd
 acetarsone
 appeach
