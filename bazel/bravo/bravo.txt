@@ -5642,7 +5642,6 @@ bioral
 bilbie
 belah
 billingsgate
-belay
 belayer
 belaying
 belam
@@ -11532,6 +11531,7 @@ bighorns
 bromobenzyl
 bm
 bo
+belay
 boa
 boaedon
 belfast
