@@ -7181,6 +7181,7 @@ glaciate
 greenthumbed
 geotectonics
 gorgonlike
+guzul
 gorgons
 groggily
 gypsyry
@@ -10827,7 +10828,6 @@ guz
 goldlike
 guzmania
 gyrograph
-guzul
 genotypical
 guzzle
 gersdorffite
