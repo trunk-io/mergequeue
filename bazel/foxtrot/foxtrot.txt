@@ -347,7 +347,6 @@ foredeck
 faineant
 faineantism
 fainest
-fainly
 fuseboard
 famines
 fiercening
@@ -2223,6 +2222,7 @@ felstones
 framers
 felt
 felted
+fainly
 furless
 felter
 feltyflier
