@@ -11100,6 +11100,7 @@ beldamship
 bloodcurdling
 breastband
 bloodcurdlingly
+bombax
 blooddrop
 blooddrops
 bloodfin
@@ -12271,7 +12272,6 @@ barbeyaceae
 bombasticness
 boastingly
 bombasts
-bombax
 bombazet
 bombazette
 bombed
