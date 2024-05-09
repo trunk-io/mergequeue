@@ -1041,7 +1041,6 @@ abstinently
 abstort
 abstr
 anthos
-abstract
 abstractable
 abstracted
 abstractedly
@@ -3599,6 +3598,7 @@ addresses
 addressful
 addressing
 acanthocephalan
+abstract
 addressograph
 aloe
 addrest
