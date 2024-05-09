@@ -4085,7 +4085,6 @@ bom
 beambird
 beamed
 beamer
-bestrut
 beamers
 beamfilling
 beamful
@@ -11622,6 +11621,7 @@ boatshop
 bugology
 bobbed
 boatsmen
+bestrut
 boatsteerer
 brandying
 boatswain
