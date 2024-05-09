@@ -5772,6 +5772,7 @@ belight
 baaed
 bulldozer
 belike
+bitewing
 beliked
 bribes
 belili
@@ -9878,7 +9879,6 @@ bites
 brubru
 belying
 bytes
-bitewing
 brail
 bathyl
 blastiest
