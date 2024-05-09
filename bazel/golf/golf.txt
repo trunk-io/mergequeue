@@ -2700,7 +2700,6 @@ gameball
 generators
 generatrices
 generic
-gabeler
 glaumrie
 glabbella
 gorbellied
@@ -8490,6 +8489,7 @@ guatemala
 glycins
 gravitometer
 graviton
+gabeler
 gravitons
 gravure
 grazable
