@@ -5123,7 +5123,6 @@ caseases
 caseated
 caseates
 caseation
-casebearer
 casebook
 collectivity
 casebound
@@ -15031,6 +15030,7 @@ cytopharynx
 cytophil
 cytophilic
 cytula
+casebearer
 crypta
 consulting
 consignors
