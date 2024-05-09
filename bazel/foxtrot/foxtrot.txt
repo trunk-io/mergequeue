@@ -4224,6 +4224,7 @@ firewoods
 fendable
 fireworky
 fastuous
+fluor
 fireworkless
 fireworks
 firing
@@ -7490,7 +7491,6 @@ foreallege
 fatstocks
 foreallot
 flatuses
-fluor
 faraon
 foreappoint
 fountains
