@@ -8091,6 +8091,7 @@ caliches
 clergies
 chabot
 chabouk
+crankshaft
 challoth
 chabuk
 chabuks
@@ -28209,7 +28210,6 @@ crankpins
 crankplate
 cranks
 crossbarring
-crankshaft
 crankshafts
 corpulent
 crannage
