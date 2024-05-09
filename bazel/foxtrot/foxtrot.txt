@@ -360,6 +360,7 @@ finspot
 fungales
 flumerin
 fleying
+flickered
 fainthearted
 faintheartedness
 fainty
@@ -5523,7 +5524,6 @@ filet
 flicked
 finale
 flicker
-flickered
 flickermouse
 flossa
 flickers
