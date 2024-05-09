@@ -16037,7 +16037,6 @@ antique
 antiqueness
 antiquers
 antiques
-antiquing
 appraise
 antiquist
 antiquity
@@ -21022,6 +21021,7 @@ ascitb
 ampheclexis
 ascite
 amphibologism
+antiquing
 aceconitic
 ascites
 ascitical
