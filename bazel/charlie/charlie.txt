@@ -14127,7 +14127,6 @@ calotermitidae
 cypher
 cipherable
 cipherdom
-cyphered
 cipherer
 cipherhood
 ciphering
@@ -20566,6 +20565,7 @@ cystomata
 camerata
 compendious
 compendium
+cyphered
 compendiums
 compends
 compenetration
