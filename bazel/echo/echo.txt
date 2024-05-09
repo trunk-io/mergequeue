@@ -568,7 +568,6 @@ echinopsine
 egotist
 echinorhynchus
 echinorhinidae
-embolus
 echinorhinus
 elbuck
 etnas
@@ -8373,6 +8372,7 @@ endogenetic
 excubittoria
 electrobiology
 engineery
+embolus
 epitomator
 equivocating
 epitome
