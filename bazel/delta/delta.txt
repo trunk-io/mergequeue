@@ -11159,7 +11159,6 @@ dehydrant
 drubbings
 disbarment
 disbarred
-disbarring
 disbars
 disbase
 disbeliefs
@@ -17634,6 +17633,7 @@ drunkeries
 drunkest
 dorsalis
 drunkly
+disbarring
 drunkometer
 drupa
 dysthyroidism
