@@ -4362,7 +4362,6 @@ gibeonite
 gynecolatry
 graffito
 gynecologic
-gynecological
 gliadin
 generatively
 glossist
@@ -7981,6 +7980,7 @@ granitification
 granitiform
 granitite
 granitization
+gynecological
 granitized
 granitizing
 gibbles
