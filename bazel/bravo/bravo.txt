@@ -5081,7 +5081,6 @@ benzomorpholine
 befalls
 battlers
 blazoned
-botfly
 bloodthirst
 befamilied
 biogeography
@@ -14703,6 +14702,7 @@ braza
 brazas
 brazee
 brazen
+botfly
 brazened
 brazenfaced
 brunt
