@@ -5050,7 +5050,6 @@ apocamphoric
 aeroliths
 aerolitic
 aerolitics
-aerological
 aerologies
 aerologist
 aerologists
@@ -11346,6 +11345,7 @@ absinthe
 ampul
 ampulated
 ampulla
+aerological
 anhydremia
 ampullary
 anselmian
