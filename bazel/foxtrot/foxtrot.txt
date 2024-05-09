@@ -503,7 +503,6 @@ fylgja
 falces
 falciform
 frowny
-falco
 falcon
 forthon
 fiscally
@@ -6505,6 +6504,7 @@ figurally
 faulty
 foremarch
 flutebird
+falco
 foils
 fluted
 frills
