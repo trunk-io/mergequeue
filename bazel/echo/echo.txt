@@ -2312,6 +2312,7 @@ electrocatalysis
 explorational
 electrocautery
 evasion
+erased
 entocele
 electrochemical
 electrochemistry
@@ -8808,7 +8809,6 @@ enterozoan
 eranthemum
 erasability
 erasable
-erased
 eraser
 erasers
 exallotriote
