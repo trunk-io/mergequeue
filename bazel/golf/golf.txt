@@ -952,7 +952,6 @@ gobioid
 genome
 gametophyte
 gulinulae
-gastroduodenotomy
 grudges
 gadgety
 galerite
@@ -7026,6 +7025,7 @@ grindle
 goosander
 glucosan
 gooseberry
+gastroduodenotomy
 gamete
 geranomorphae
 gossipmonger

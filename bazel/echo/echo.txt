@@ -6115,7 +6115,6 @@ ennoble
 electrosynthetic
 ennoblement
 estuant
-everliving
 endrins
 ennoblements
 eluviation
@@ -7767,6 +7766,7 @@ euphorbiaceae
 epidote
 epiproct
 epidotic
+everliving
 electrothermancy
 epidotiferous
 ectocinerea
