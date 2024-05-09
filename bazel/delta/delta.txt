@@ -5520,7 +5520,6 @@ decompression
 deorganization
 decolouriser
 deorganize
-deorientalize
 deorsum
 deorsumvergence
 deorsumversion
@@ -8125,6 +8124,7 @@ disbogue
 diabrotic
 diabrotica
 dragginess
+deorientalize
 diacanthous
 diacatholicon
 dampy
