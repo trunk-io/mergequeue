@@ -2476,7 +2476,6 @@ decipherably
 deciphered
 decipherer
 deciphering
-deciphers
 decipium
 dramshops
 decision
@@ -6605,6 +6604,7 @@ dephlegmated
 desegregated
 decontamination
 desegregates
+deciphers
 desegregating
 dilettant
 deprecations
