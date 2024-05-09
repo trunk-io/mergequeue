@@ -3627,7 +3627,6 @@ bankeress
 batholitic
 blinded
 bathometer
-bathometry
 borsht
 bathonian
 blockmaking
@@ -8538,6 +8537,7 @@ bylawman
 bilberry
 bilberries
 bilbi
+bathometry
 bilby
 banqueteering
 bilbies
