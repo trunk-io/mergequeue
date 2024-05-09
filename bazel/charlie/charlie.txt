@@ -3475,7 +3475,6 @@ centinody
 capsuled
 colasciones
 capsuler
-capsules
 capsuliferous
 capsuliform
 capsuling
@@ -17093,6 +17092,7 @@ coadjument
 coadjustment
 coadjutant
 coadjutator
+capsules
 campement
 coadjute
 coadjutement
