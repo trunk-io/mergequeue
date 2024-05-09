@@ -18601,6 +18601,7 @@ catjang
 coinheritance
 circuting
 coinheritor
+coronium
 coiny
 coining
 coinitial
@@ -25580,7 +25581,6 @@ coronion
 coronis
 coronitis
 chese
-coronium
 coronobasilar
 coronofrontal
 coronograph
