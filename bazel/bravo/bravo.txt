@@ -4644,6 +4644,7 @@ byplays
 bedcovers
 beddable
 blader
+beshivered
 blent
 bedding
 beddingroll
@@ -6999,7 +7000,6 @@ beshaming
 beshear
 brontosauri
 beshiver
-beshivered
 bigamistic
 brassed
 beshod
