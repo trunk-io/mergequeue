@@ -4334,7 +4334,6 @@ deltoids
 delubra
 delubrubra
 deluce
-deludable
 delude
 deluded
 duftry
@@ -9609,6 +9608,7 @@ dihydroergotamine
 dihydrol
 dihydromorphinone
 dissight
+deludable
 dihydronicotine
 dihydrosphingosine
 disinclines
