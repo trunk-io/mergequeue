@@ -4416,7 +4416,6 @@ cytogenetics
 caryophyllous
 caryophyllus
 caryopilite
-caryopses
 caryopsides
 caryopsis
 currawong
@@ -10759,6 +10758,7 @@ chytridial
 chimney
 cantharidated
 chimneyed
+caryopses
 chimneyhead
 chalk
 chimneyless
