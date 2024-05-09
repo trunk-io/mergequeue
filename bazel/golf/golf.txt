@@ -2960,7 +2960,6 @@ gustfulness
 gallivants
 genuflecting
 graphicalness
-gullish
 genuflections
 genuflects
 grid
@@ -6255,6 +6254,7 @@ glaky
 gnostical
 gnosticity
 geomechanics
+gullish
 gnostology
 gastrotheca
 gnotobiologies
