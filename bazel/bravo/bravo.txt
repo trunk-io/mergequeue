@@ -4702,7 +4702,6 @@ beltmaking
 bedfellows
 buildable
 bedford
-bedfordshire
 bedframes
 bedgoer
 bedgowns
@@ -11746,6 +11745,7 @@ boddhisattva
 boddle
 bode
 boded
+bedfordshire
 bodefully
 bodegas
 bengali
