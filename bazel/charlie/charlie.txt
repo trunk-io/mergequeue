@@ -9898,7 +9898,6 @@ chemis
 chemise
 comport
 crinet
-chemises
 chemisette
 chemism
 choosy
@@ -25286,6 +25285,7 @@ corkir
 crome
 corklike
 chiromant
+chemises
 corkline
 corkmaking
 corks

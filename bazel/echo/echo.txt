@@ -1647,7 +1647,6 @@ egromancy
 egurgitate
 equation
 egurgitated
-egurgitating
 endearingly
 eguttulate
 euphonon
@@ -11711,6 +11710,7 @@ eventide
 expends
 ecphasis
 exaggerative
+egurgitating
 exaggeratively
 exagitate
 epistemologically
