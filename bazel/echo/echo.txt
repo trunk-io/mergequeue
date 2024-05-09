@@ -1596,7 +1596,6 @@ ego
 egocentrically
 entires
 egocentricity
-exoticity
 electrothermally
 egohood
 elutriating
@@ -12445,6 +12444,7 @@ exhaustingly
 exhaustive
 eryon
 exhaustiveness
+exoticity
 elegances
 exhaustless
 exhaustlessly
