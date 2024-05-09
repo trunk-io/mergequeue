@@ -3723,7 +3723,6 @@ ghostdom
 generalidad
 guardstone
 ghostfishes
-ghostflower
 growths
 goalmouth
 gracilariid
@@ -5389,6 +5388,7 @@ guttulous
 glycol
 glycolaldehyde
 goback
+ghostflower
 gayals
 glycolyl
 gilsonite
