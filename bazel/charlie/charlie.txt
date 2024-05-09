@@ -5500,7 +5500,6 @@ catacombic
 catacombs
 catacorner
 catacorolla
-catacoustics
 catacromyodian
 ceratothecal
 catacrotic
@@ -21653,6 +21652,7 @@ condiddling
 condigness
 condignity
 condignly
+catacoustics
 comethers
 condignness
 condylar
