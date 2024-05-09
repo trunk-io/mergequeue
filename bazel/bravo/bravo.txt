@@ -12199,7 +12199,6 @@ biasses
 boltcutter
 bookmark
 buckstay
-bolted
 bowenite
 bolters
 bedotted
@@ -12910,6 +12909,7 @@ borachio
 boracite
 boracium
 boracous
+bolted
 budgeting
 borage
 bombarde
