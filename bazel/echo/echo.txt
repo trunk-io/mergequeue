@@ -5843,7 +5843,6 @@ empanelled
 enharden
 eurytopicity
 enhardy
-enharmonic
 eructates
 epicureans
 excursive
@@ -9886,6 +9885,7 @@ endarterial
 est
 equimolecular
 echinoids
+enharmonic
 eyebath
 estab
 euphrates
