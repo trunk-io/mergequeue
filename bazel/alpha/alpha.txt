@@ -3829,7 +3829,6 @@ acetite
 adherents
 adherers
 adheres
-adherescence
 anticipatively
 archivolt
 adhering
@@ -19894,6 +19893,7 @@ armariolum
 arpanet
 armarium
 armariumaria
+adherescence
 armata
 armatoles
 auxilium
