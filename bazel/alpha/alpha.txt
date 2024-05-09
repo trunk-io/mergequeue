@@ -943,7 +943,6 @@ absist
 absistos
 absit
 absoil
-antient
 absolent
 absolute
 axmen
@@ -17722,6 +17721,7 @@ appendicitis
 appendicle
 appendicocaecostomy
 appendicostomy
+antient
 appendicular
 appendicularia
 appendicularian
