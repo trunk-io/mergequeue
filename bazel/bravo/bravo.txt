@@ -2704,7 +2704,6 @@ barnbrack
 barndoor
 barneys
 barnhardtite
-barnyard
 beastings
 barnyards
 barnier
@@ -13212,6 +13211,7 @@ bostonian
 blitheness
 bostonite
 banderillas
+barnyard
 burglar
 bostrychid
 bostrychidae
