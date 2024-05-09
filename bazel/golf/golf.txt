@@ -1625,7 +1625,6 @@ gasoliers
 gasoliner
 gasometry
 gastrodisc
-galileo
 gasometric
 grype
 gasometrical
@@ -9486,6 +9485,7 @@ groupwise
 grouseberry
 groused
 gonglike
+galileo
 gulpy
 grouselike
 gem
