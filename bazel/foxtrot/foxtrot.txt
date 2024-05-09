@@ -3225,7 +3225,6 @@ fraile
 fictionalizes
 funorin
 fictionalizing
-fictioneering
 folkmote
 fictioner
 forehent
@@ -5950,6 +5949,7 @@ floorshow
 floorway
 fluidrachm
 floorward
+fictioneering
 floorwise
 fabes
 flus
