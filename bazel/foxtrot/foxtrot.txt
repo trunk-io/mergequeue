@@ -2705,7 +2705,6 @@ forecooler
 fertilize
 fertilizer
 funeral
-figurate
 fillagreing
 fertilizers
 foremelt
@@ -6174,6 +6173,7 @@ flrie
 flu
 fluate
 fluavile
+figurate
 father
 flub
 fingery
