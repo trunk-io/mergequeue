@@ -9892,7 +9892,6 @@ chemiculture
 chemigraphy
 chemigraphic
 chemiloon
-chemiluminescence
 chemiluminescent
 cheminee
 chemiotactic
@@ -17413,6 +17412,7 @@ coaxy
 clinoaxis
 cordigeri
 coaxial
+chemiluminescence
 coaxing
 coazervate
 coazervation
