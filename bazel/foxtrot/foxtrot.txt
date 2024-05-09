@@ -7229,7 +7229,6 @@ footpaths
 forewarner
 fatidic
 fetial
-fogs
 forepeak
 forefronts
 footpounds
@@ -10003,6 +10002,7 @@ friedcake
 friedelite
 filibusterous
 fromward
+fogs
 friedrichsdor
 friended
 folliculous
