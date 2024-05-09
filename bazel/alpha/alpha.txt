@@ -968,7 +968,6 @@ absolver
 absolves
 absolving
 absolvitor
-alkannin
 aldolize
 appeasably
 absonous
@@ -9216,6 +9215,7 @@ almuredin
 almury
 alnage
 alnager
+alkannin
 alnaschar
 alnath
 alnein
