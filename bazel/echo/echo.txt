@@ -4612,6 +4612,7 @@ escapements
 easeful
 enchiridion
 epigrapher
+elytroptosis
 enchanter
 encephaloscopy
 eater
@@ -12737,7 +12738,6 @@ espressivo
 elrage
 excommunicated
 exorable
-elytroptosis
 exactingness
 elderberry
 exconjugant
