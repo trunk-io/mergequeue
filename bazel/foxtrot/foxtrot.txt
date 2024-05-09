@@ -7258,7 +7258,6 @@ footslog
 furious
 flagarie
 flockman
-footslogged
 footslogger
 fuseau
 finnmarks
@@ -9069,6 +9068,7 @@ feeling
 fistle
 foveole
 fewer
+footslogged
 fregatidae
 furuncular
 foveolet
