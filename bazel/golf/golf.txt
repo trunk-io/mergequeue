@@ -5983,7 +5983,6 @@ gliocyte
 glucokinin
 gaseous
 gravimetric
-glucolipid
 glucolipin
 glaizie
 gamogony
@@ -10479,6 +10478,7 @@ grayishness
 gundy
 gettysburg
 gangers
+glucolipid
 goblinry
 gundie
 gundog
