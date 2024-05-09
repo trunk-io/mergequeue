@@ -12364,7 +12364,6 @@ disher
 damas
 disherent
 disherison
-durability
 disherited
 dinosauric
 divet
@@ -17466,6 +17465,7 @@ dross
 dibasic
 drossel
 drosser
+durability
 drossy
 dagaba
 densation
