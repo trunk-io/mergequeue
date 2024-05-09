@@ -4852,7 +4852,6 @@ bedsores
 bedspreads
 bedspring
 bedsprings
-bolivars
 bedstand
 brazenface
 baikerinite
@@ -14083,6 +14082,7 @@ bracked
 brackened
 brackens
 bracker
+bolivars
 brey
 bracketed
 billyo
