@@ -3593,7 +3593,6 @@ blockhouse
 bastinadoes
 babesiasis
 beckoning
-bathyplankton
 baygall
 bathyscaph
 briquetted
@@ -8593,6 +8592,7 @@ bibliotheke
 bilineated
 blennorrheal
 bylined
+bathyplankton
 babbittian
 billfold
 byliner
