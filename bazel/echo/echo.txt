@@ -6945,7 +6945,6 @@ entosphere
 entosternal
 entosternum
 entosthoblast
-entothorax
 entotympanic
 enterokinetic
 entourage
@@ -10017,6 +10016,7 @@ endoperitonitis
 euchrone
 encephalotomies
 estivating
+entothorax
 estivator
 emgalla
 estocada
