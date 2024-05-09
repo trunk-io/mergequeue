@@ -4762,7 +4762,6 @@ formative
 fainer
 floribunda
 fossores
-factorylike
 feasting
 fustigate
 floor
@@ -9447,6 +9446,7 @@ facing
 fettler
 franticly
 freeloading
+factorylike
 forged
 functionalizing
 furacana
