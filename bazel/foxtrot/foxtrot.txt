@@ -3125,7 +3125,6 @@ fibrocalcareous
 fibrocartilaginous
 fibrocellular
 flanders
-frowstier
 fibrocement
 forechoice
 fibrocyst
@@ -5583,6 +5582,7 @@ flying
 flyings
 flyleaves
 flyless
+frowstier
 firebrands
 fusee
 flyman
