@@ -4830,7 +4830,6 @@ bedroll
 bedrolls
 bedrooms
 bedrop
-bilixanthin
 bedrown
 bedrowse
 bedrugged
@@ -16426,6 +16425,7 @@ brusker
 befilleted
 bumpkinish
 beneficially
+bilixanthin
 blepharelcosis
 burrhel
 bruskly
