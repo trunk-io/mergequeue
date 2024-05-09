@@ -13829,6 +13829,7 @@ bowlike
 bowline
 bowlings
 bowllike
+buckleya
 bacalaos
 bowmaker
 bowman
@@ -16677,7 +16678,6 @@ bilkers
 buckle
 befallen
 buckled
-buckleya
 bebilya
 buckleless
 baklavas
