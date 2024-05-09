@@ -7844,6 +7844,7 @@ aldosterone
 aldosteronism
 abapical
 aldrin
+allomerized
 aldrins
 aldrovanda
 aldus
@@ -8919,7 +8920,6 @@ alloisomerism
 allokurtic
 allolalia
 allomerization
-allomerized
 allomerizing
 allomerous
 averager
