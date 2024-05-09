@@ -22961,6 +22961,7 @@ consistent
 consistently
 consistible
 consisting
+currying
 cent
 consistorial
 camellus
@@ -31459,7 +31460,6 @@ cleridae
 curryfavour
 campstools
 curriing
-currying
 currijong
 curring
 currishly
