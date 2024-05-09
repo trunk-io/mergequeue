@@ -9751,7 +9751,6 @@ especialness
 echinocactus
 esperantido
 erupted
-escribano
 embryoctony
 emplacements
 esperanto
@@ -11468,6 +11467,7 @@ ethanal
 everyplace
 effusiometer
 exucontian
+escribano
 everyway
 emborder
 everywhen
