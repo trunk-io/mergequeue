@@ -7893,7 +7893,6 @@ alectrion
 alectrionidae
 alecup
 alee
-alef
 assisters
 alefnull
 alefs
@@ -13351,6 +13350,7 @@ anisomerous
 arraignability
 apoturmeric
 anisometric
+alef
 allodification
 anisometrope
 adhocracy
