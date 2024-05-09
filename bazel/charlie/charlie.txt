@@ -2112,7 +2112,6 @@ clerkliest
 camphorone
 camphorphorone
 camphors
-camphorweed
 camphorwood
 campi
 concurrency
@@ -23638,6 +23637,7 @@ consequentially
 contrabandism
 circumoesophagal
 contrabandist
+camphorweed
 contrabandista
 corrodentia
 carroccio
