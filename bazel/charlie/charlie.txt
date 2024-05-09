@@ -2873,6 +2873,7 @@ cantata
 cantatas
 cantate
 cantation
+coded
 cantatory
 cantatrice
 cantatrices
@@ -26039,7 +26040,6 @@ cosecs
 cosectarian
 cosectional
 cosed
-coded
 cosegment
 cosey
 caddoan
