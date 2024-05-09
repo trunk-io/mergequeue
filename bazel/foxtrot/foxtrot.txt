@@ -2987,7 +2987,6 @@ feverous
 fillmass
 feverously
 footscald
-fevertwitch
 feelinglessly
 feverwort
 fers
@@ -11013,6 +11012,7 @@ fumatory
 fumatoria
 fumatoriums
 fasted
+fevertwitch
 fumble
 fumbled
 forecatharping
