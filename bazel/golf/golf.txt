@@ -1432,6 +1432,7 @@ glycolylurea
 garliclike
 geoside
 guitermanite
+grooms
 galloner
 gervao
 gibier
@@ -2838,7 +2839,6 @@ genoas
 glossological
 gliadins
 guillotine
-grooms
 genoese
 genoise
 genomic
