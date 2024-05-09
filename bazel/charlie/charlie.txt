@@ -6257,7 +6257,6 @@ caulomic
 caulophyllum
 caulopteris
 caulosarc
-caulotaxy
 caulotaxis
 caulote
 cauls
@@ -17524,6 +17523,7 @@ cocainize
 cocainomania
 cocainomaniac
 cocains
+caulotaxy
 cocama
 cocamama
 corrodible
