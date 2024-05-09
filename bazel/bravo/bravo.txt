@@ -12717,7 +12717,6 @@ blotted
 buds
 blastoderm
 bookstand
-bookstore
 bookstores
 beerocracy
 biforked
@@ -17370,6 +17369,7 @@ bumwood
 bun
 beladied
 bopyrus
+bookstore
 bepimples
 brasset
 batted
