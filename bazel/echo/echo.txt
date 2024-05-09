@@ -796,7 +796,6 @@ electrophotography
 ectasia
 ectasis
 ectomesoblast
-ectatic
 exequies
 ectental
 ecthesis
@@ -12722,6 +12721,7 @@ entrapping
 eudiometer
 elmer
 exonym
+ectatic
 exonuclease
 exopathic
 energizing
