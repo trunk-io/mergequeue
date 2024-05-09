@@ -1629,6 +1629,7 @@ gasometry
 gastrodisc
 galileo
 gasometric
+glenlike
 grype
 gasometrical
 gothicity
@@ -5315,7 +5316,6 @@ guardsman
 gendered
 galbanum
 grenade
-glenlike
 glomerulus
 glenohumeral
 glenoid
