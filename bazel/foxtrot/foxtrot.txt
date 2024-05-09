@@ -2643,7 +2643,6 @@ ferrometer
 ferronatrite
 ferrophosphorus
 filicologist
-frustulose
 ferrotyping
 fluorouracil
 fibrocaseose
@@ -8795,6 +8794,7 @@ forwrap
 fallacia
 forz
 forzando
+frustulose
 fulgor
 facily
 fly
