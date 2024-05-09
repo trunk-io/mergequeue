@@ -2124,6 +2124,7 @@ banqueting
 banquets
 banquette
 bans
+brandishes
 bansalague
 boguing
 bansela
@@ -14494,7 +14495,6 @@ brandished
 brandisher
 biochron
 blume
-brandishes
 brandisite
 backwrap
 brandywine
