@@ -1815,6 +1815,7 @@ banande
 bananist
 bridgewall
 bushwood
+bronchiectasis
 bananivorous
 banat
 banatite
@@ -3785,7 +3786,6 @@ battlestead
 battlewagon
 belemnid
 battleward
-bronchiectasis
 behatted
 bliest
 bemist
