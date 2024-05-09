@@ -4105,6 +4105,7 @@ frostlike
 faithwise
 firebombs
 fireboot
+facks
 fosh
 figuredly
 firebox
@@ -5952,7 +5953,6 @@ floorcloths
 floored
 foreclosable
 fluidizing
-facks
 floors
 folkways
 felaheen
