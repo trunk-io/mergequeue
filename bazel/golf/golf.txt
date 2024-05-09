@@ -8801,7 +8801,6 @@ gadbush
 guanos
 greying
 gigantoblast
-greyish
 greylag
 greylags
 gyte
@@ -8923,6 +8922,7 @@ griecep
 gnathion
 glued
 ganglier
+greyish
 giveaway
 grieffully
 grivoise
