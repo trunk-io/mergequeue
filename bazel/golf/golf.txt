@@ -8238,6 +8238,7 @@ grassfire
 grassflower
 gnatter
 golds
+gummiferous
 grasshop
 grasshopper
 gnarling
@@ -10430,7 +10431,6 @@ gigantomachia
 gummic
 guyana
 gambreled
-gummiferous
 gumming
 gummose
 gummoses
