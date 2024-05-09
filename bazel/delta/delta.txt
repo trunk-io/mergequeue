@@ -3560,7 +3560,6 @@ decadarchy
 defrayed
 defrayer
 defrayers
-defraying
 defraudation
 defrauding
 defrauds
@@ -4955,6 +4954,7 @@ demonologer
 dismortgage
 demonology
 dawted
+defraying
 demasts
 demonologically
 disluster
