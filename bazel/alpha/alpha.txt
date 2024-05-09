@@ -570,7 +570,6 @@ abmodality
 abmodalities
 airscrew
 acusector
-ariste
 ashlers
 abn
 abnaki
@@ -11212,6 +11211,7 @@ ameen
 amphipod
 amphipoda
 amour
+ariste
 amphipodal
 antiballistic
 abp

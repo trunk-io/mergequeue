@@ -5814,7 +5814,6 @@ deltidium
 depopulated
 depopulates
 depopulating
-depopulation
 denitrize
 depopulative
 depopulator
@@ -15231,6 +15230,7 @@ dolomite
 dolomites
 derries
 dolomitic
+depopulation
 dilators
 despiritualize
 descriptives
