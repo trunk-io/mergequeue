@@ -10498,7 +10498,6 @@ biobibliographic
 bullied
 blastomas
 blastomyces
-blastomycete
 blastomycetic
 blastomycotic
 benignities
@@ -13154,6 +13153,7 @@ blowoffs
 bosniak
 battlewise
 bifer
+blastomycete
 bosnian
 benzoyl
 bosom
