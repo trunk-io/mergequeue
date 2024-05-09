@@ -1855,7 +1855,6 @@ bandboxical
 bandcutter
 besotter
 branchling
-bandeau
 betula
 bandelet
 bandelette
@@ -8897,6 +8896,7 @@ binnogue
 binocle
 binocs
 binocular
+bandeau
 binocularly
 binoculars
 bellarmine
