@@ -6576,7 +6576,6 @@ exolemma
 emove
 emphases
 elelments
-endothecate
 enterobacterial
 eosinophilia
 epoxide
@@ -7664,6 +7663,7 @@ enforcive
 epicurean
 excusation
 espece
+endothecate
 epicurish
 epicurishly
 epicurize
