@@ -879,6 +879,7 @@ baggagemaster
 baggager
 benzidin
 baggala
+bedsheets
 bagganet
 baggara
 brevis
@@ -4831,7 +4832,6 @@ beds
 bedscrew
 bits
 bedsick
-bedsheets
 bedside
 bedsitter
 bedsock
