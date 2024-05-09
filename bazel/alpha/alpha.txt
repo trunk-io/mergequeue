@@ -10973,7 +10973,6 @@ amortise
 audiologists
 amortising
 amortissement
-amortizable
 amortization
 arbitrarily
 amortized
@@ -16885,6 +16884,7 @@ abanga
 amberina
 aphodal
 aphodi
+amortizable
 alle
 aphodian
 aphodius
