@@ -9998,7 +9998,6 @@ bivalve
 bivalvia
 bivalvian
 bivalvous
-bivalvular
 bivariant
 bivariate
 bivascular
@@ -11428,6 +11427,7 @@ bluings
 bluish
 bombload
 blumea
+bivalvular
 blumes
 blunder
 benighting

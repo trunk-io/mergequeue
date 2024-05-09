@@ -1173,7 +1173,6 @@ fascia
 fogeater
 fasciate
 forefends
-farraginous
 flots
 fimbriodentate
 factionaries
@@ -7021,6 +7020,7 @@ filthify
 fain
 fons
 fontal
+farraginous
 frothing
 fontanelle
 fraenums
