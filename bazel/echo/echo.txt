@@ -4278,7 +4278,6 @@ enteropathogenic
 emunctory
 electroencephalographic
 enlay
-emunctories
 exostracism
 epigraphical
 emunge
@@ -10716,6 +10715,7 @@ educts
 expectations
 eudemonistic
 eudemons
+emunctories
 electrojet
 eudemonics
 eudeve

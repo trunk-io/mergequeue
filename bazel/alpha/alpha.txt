@@ -14025,7 +14025,6 @@ antagonise
 antagonising
 antagonism
 aweary
-antagonisms
 antagonist
 antagonistic
 antagonistical
@@ -15886,6 +15885,7 @@ anaphylaxis
 assistants
 antiphrases
 antiphrasis
+antagonisms
 autogamy
 antiphrastic
 antiphthisic
