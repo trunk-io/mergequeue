@@ -10450,7 +10450,6 @@ amidocaffeine
 agley
 amidocapric
 amidofluorid
-amidofluoride
 amidogen
 amidoguaiacol
 automacy
@@ -17055,6 +17054,7 @@ apism
 adenovirus
 apivorous
 apjohnite
+amidofluoride
 apl
 aplace
 aplacental

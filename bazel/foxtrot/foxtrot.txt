@@ -2076,7 +2076,6 @@ farewelling
 finetop
 funebrial
 feldsparphyre
-federator
 feldspath
 forerigging
 favissae
@@ -5413,6 +5412,7 @@ fossilizable
 fleshful
 friseurs
 firedamp
+federator
 fleshhood
 farcied
 fleshy
