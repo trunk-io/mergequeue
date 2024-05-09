@@ -16054,7 +16054,6 @@ clerkdoms
 clerkery
 clerkess
 clerking
-carcinosis
 clerkish
 clerkless
 clerklier
@@ -17845,6 +17844,7 @@ codfish
 codfisher
 codfisheries
 coniophora
+carcinosis
 codfishes
 codfishing
 clysterize
