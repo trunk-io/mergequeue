@@ -5320,7 +5320,6 @@ flecnodal
 friendlily
 frigefact
 fermentology
-formfitting
 flectionless
 fry
 fido
@@ -5480,6 +5479,7 @@ family
 flexibilty
 forgedly
 flexile
+formfitting
 flexility
 flexion
 figulate
