@@ -6350,6 +6350,7 @@ bolthead
 brandsolder
 bentgrass
 brachycatalectic
+book
 bridechamber
 belaboured
 benthal
@@ -12626,7 +12627,6 @@ boohoos
 bedwarfed
 boojum
 barquette
-book
 balsamo
 bookbind
 baianism
