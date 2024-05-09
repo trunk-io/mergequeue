@@ -339,6 +339,7 @@ formagenic
 fusses
 fungal
 fortypenny
+fid
 faineance
 foredeck
 faineant
@@ -2805,7 +2806,6 @@ flunkyite
 festivally
 flidder
 faqir
-fid
 festively
 fraze
 festivity
