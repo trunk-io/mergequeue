@@ -2059,6 +2059,7 @@ fourpounder
 feil
 frontspiece
 filacer
+fivescore
 feinter
 feudary
 facedown
@@ -10680,7 +10681,6 @@ fraughtage
 fellatio
 foreprise
 floush
-fivescore
 filletlike
 fruitbearing
 frankness
