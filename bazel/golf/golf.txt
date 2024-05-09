@@ -4733,7 +4733,6 @@ gyroidal
 guapilla
 gigantostraca
 gussied
-gallstone
 greenheart
 grough
 gidgee
@@ -4940,6 +4939,7 @@ glacieret
 glacierist
 glaciers
 glacify
+gallstone
 glacification
 glaciology
 globalist
