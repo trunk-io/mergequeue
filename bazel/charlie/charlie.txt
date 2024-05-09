@@ -2745,7 +2745,6 @@ cannstatt
 colluded
 chebeck
 cannulae
-cannulas
 cannulate
 circumscribe
 cannulated
@@ -24454,6 +24453,7 @@ coot
 cootch
 cooter
 cootfoot
+cannulas
 cooth
 coothay
 cooty
