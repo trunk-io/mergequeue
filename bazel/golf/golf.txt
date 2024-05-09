@@ -5987,7 +5987,6 @@ gunsling
 glucokinase
 gliocyte
 glucokinin
-gravimetric
 glucolipid
 glucolipin
 glaizie
@@ -8625,6 +8624,7 @@ greekish
 greekism
 gawkier
 germiniparous
+gravimetric
 glyph
 greekize
 greekling
