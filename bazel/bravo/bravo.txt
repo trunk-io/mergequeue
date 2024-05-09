@@ -2845,6 +2845,7 @@ barrace
 barrack
 barracked
 borh
+bleaters
 barracking
 barracoon
 balolo
@@ -15398,7 +15399,6 @@ brindles
 brindlish
 bryndza
 brine
-bleaters
 blacklegging
 brined
 brinehouse
