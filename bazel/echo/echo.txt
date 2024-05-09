@@ -6316,7 +6316,6 @@ emporium
 ectypes
 ensconcing
 enscroll
-ecotypic
 envenomation
 enscrolls
 ensphered
@@ -12631,6 +12630,7 @@ exocoelum
 exocoetus
 exocone
 eumeromorph
+ecotypic
 eyeserver
 endokaryogamy
 exocrines
