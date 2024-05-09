@@ -11437,6 +11437,7 @@ authenticators
 amarelles
 amusette
 anisole
+autographing
 amusia
 amusias
 antinatural
@@ -24093,7 +24094,6 @@ asianic
 autographer
 autography
 autographically
-autographing
 autographism
 autographist
 autographometer
