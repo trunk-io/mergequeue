@@ -1950,6 +1950,7 @@ galidictis
 gatherable
 gilgai
 gatherers
+graphicly
 graplins
 greenfishes
 greking
@@ -3983,7 +3984,6 @@ graphomotor
 gigasecond
 girthline
 gigaton
-graphicly
 gomutis
 gigatons
 grego
