@@ -5127,7 +5127,6 @@ dendrium
 dendrobium
 derailed
 dendrocalamus
-dendroceratina
 dendroceratine
 dendrochirota
 doubleprecision
@@ -13696,6 +13695,7 @@ dissolution
 digamists
 dissolutional
 dissolutionism
+dendroceratina
 dissolutive
 dissolvability
 dissolvable
