@@ -2763,6 +2763,7 @@ grittle
 grabbing
 gadgets
 genghis
+go
 gamboised
 glareworm
 guaican
@@ -6265,7 +6266,6 @@ gnow
 gns
 gatefolds
 gnus
-go
 goa
 grammar
 germiparity
