@@ -4223,7 +4223,6 @@ emption
 emptor
 emptory
 empurple
-endoconidium
 empurpled
 empurples
 enterochlorophyll
@@ -7741,6 +7740,7 @@ exophthalmic
 existentialistic
 epidermophyton
 englify
+endoconidium
 ensure
 epidermose
 epidermous
