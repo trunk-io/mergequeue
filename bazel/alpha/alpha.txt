@@ -10162,7 +10162,6 @@ ambulative
 ambulator
 ambulatory
 ambulatoria
-aphanitism
 ambulatorial
 agraphias
 ambulatories
@@ -20563,6 +20562,7 @@ arthralgia
 attendantly
 arthralgic
 arthrectomy
+aphanitism
 alae
 arthredema
 arthresthesia
