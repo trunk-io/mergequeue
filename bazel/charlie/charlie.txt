@@ -5167,6 +5167,7 @@ cowpunch
 casern
 caserne
 casernes
+cesspipe
 caserns
 cases
 casette
@@ -7976,7 +7977,6 @@ cessionary
 cessionee
 cessment
 cessor
-cesspipe
 cesspit
 cesspits
 clamors
