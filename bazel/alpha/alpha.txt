@@ -9492,7 +9492,6 @@ alternator
 alterne
 alternifoliate
 alternipetalous
-alternipinnate
 alternisepalous
 alternity
 alternize
@@ -15468,6 +15467,7 @@ antilobium
 antilocapra
 aspersorium
 antilochus
+alternipinnate
 anaglypton
 angiocholitis
 antilogic
