@@ -4387,7 +4387,6 @@ enaunter
 electrodesiccate
 enbrave
 embar
-enc
 encadre
 encaenia
 ectorganism
@@ -6034,6 +6033,7 @@ exulcerative
 enlister
 enlistments
 enlive
+enc
 enliven
 enlivened
 enlivener

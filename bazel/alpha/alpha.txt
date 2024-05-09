@@ -24170,7 +24170,6 @@ aldeia
 autologist
 antiatheist
 autologous
-autoluminescence
 alienicolae
 autoluminescent
 automa
@@ -25339,6 +25338,7 @@ azotaemia
 azotate
 azotea
 algesia
+autoluminescence
 azotemia
 azotemias
 amnestying
