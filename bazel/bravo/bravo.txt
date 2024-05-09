@@ -5416,7 +5416,6 @@ beguilement
 ballader
 beguilements
 beguiler
-beguiles
 breakdown
 beguilingly
 bicellular
@@ -7141,6 +7140,7 @@ bespattered
 briquetting
 bespattering
 bespatterment
+beguiles
 bespatters
 bespawl
 backaches
