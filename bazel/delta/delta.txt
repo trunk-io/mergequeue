@@ -4612,7 +4612,6 @@ demigrate
 demigriffin
 devocation
 demigroat
-dogmatician
 demihagbut
 dextrocular
 demihague
@@ -10840,6 +10839,7 @@ debunkment
 diletant
 digit
 direption
+dogmatician
 direr
 decanormal
 direx
