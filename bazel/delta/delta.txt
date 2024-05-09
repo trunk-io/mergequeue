@@ -2967,7 +2967,6 @@ dedicative
 disannul
 dedicatory
 deployable
-dedicatorily
 doggoner
 dedicators
 ducatus
@@ -3540,6 +3539,7 @@ deformations
 deformative
 deformed
 deformedly
+dedicatorily
 deformeter
 deforming
 downfold
