@@ -6599,7 +6599,6 @@ desectionalize
 daps
 desegmentation
 desegmented
-disordination
 dephlegmated
 desegregated
 decontamination
@@ -7214,6 +7213,7 @@ detectives
 darklings
 detectivism
 dyspnoeic
+disordination
 detenant
 desolately
 detenebrate
