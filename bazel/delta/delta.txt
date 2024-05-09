@@ -8767,7 +8767,6 @@ dysmerogenesis
 diatomous
 demythologisation
 diatoms
-diatonic
 diatonically
 durzi
 dilettanteish
@@ -9025,6 +9024,7 @@ dicotyls
 dicots
 dicoumarin
 disembed
+diatonic
 dicoumarol
 dicranaceae
 dicranaceous
