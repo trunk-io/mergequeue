@@ -13853,7 +13853,6 @@ anoplonemertean
 apotheosise
 anoplonemertini
 anoplotheriidae
-anoplotherioid
 amorality
 anoplotherium
 arrowed
@@ -24071,6 +24070,7 @@ autogeneses
 autogenesis
 autogenetically
 autogeny
+anoplotherioid
 autogenic
 autogenies
 autogenous
