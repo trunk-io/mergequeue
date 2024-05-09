@@ -6904,7 +6904,6 @@ discomposes
 desoxalic
 dichromasy
 desoxyephedrine
-desoxymorphine
 desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
@@ -8568,6 +8567,7 @@ didacts
 diaphanie
 diaphanometry
 diaphanometric
+desoxymorphine
 dirties
 diaphanotype
 debateful
