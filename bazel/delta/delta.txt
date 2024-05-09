@@ -8830,7 +8830,6 @@ drownings
 dermolysis
 defied
 dybbuks
-dibenzyl
 dibenzoyl
 deg
 dibenzophenazine
@@ -13966,6 +13965,7 @@ distraught
 distraughtly
 draggy
 distream
+dibenzyl
 details
 distress
 distressed
