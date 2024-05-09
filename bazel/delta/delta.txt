@@ -5095,6 +5095,7 @@ denaturate
 denaturational
 diver
 diablerie
+desanding
 denature
 denatured
 denaturing
@@ -11301,7 +11302,6 @@ discernable
 dammaret
 discerned
 discerner
-desanding
 distortive
 discernibly
 delegalize
