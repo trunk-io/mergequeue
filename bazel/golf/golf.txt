@@ -6249,7 +6249,6 @@ genealogize
 gnomoniaceae
 gnomonological
 globicephala
-glossic
 gnosis
 gnostic
 glaky
@@ -10766,6 +10765,7 @@ gutteral
 ganoidean
 gynaecomastia
 gale
+glossic
 gurneys
 galiongee
 guttery
