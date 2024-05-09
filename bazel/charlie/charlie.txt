@@ -3929,7 +3929,6 @@ carburization
 casemated
 carburize
 carburized
-carburizer
 carburizes
 caphs
 carburizing
@@ -15890,6 +15889,7 @@ clearest
 clearheadedly
 clearheadedness
 clearhearted
+carburizer
 clearing
 clearinghouse
 coquelicot
