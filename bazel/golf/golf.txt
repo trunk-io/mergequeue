@@ -3084,7 +3084,6 @@ geographies
 geordie
 grocerdom
 galliardness
-geoids
 gladioluses
 geoisotherm
 gegenion
@@ -8587,6 +8586,7 @@ gormandized
 gulas
 graben
 granter
+geoids
 greco
 gigantesque
 galactoscope
