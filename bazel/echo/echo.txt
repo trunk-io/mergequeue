@@ -5736,7 +5736,6 @@ englishwomen
 englobe
 expressions
 englobed
-exophagous
 englobing
 exosmic
 entrail
@@ -10021,6 +10020,7 @@ extensionist
 endocytosis
 estoile
 exude
+exophagous
 expiatoriness
 estolide
 exoculated
