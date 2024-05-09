@@ -988,7 +988,6 @@ edana
 edaphology
 edaphon
 epicures
-edaphosauria
 edaphosaurid
 edaphosaurus
 explosibility
@@ -4273,6 +4272,7 @@ emulsions
 emacerated
 emulsoid
 emulsoidal
+edaphosauria
 emulsoids
 emunct
 enteropathogenic
