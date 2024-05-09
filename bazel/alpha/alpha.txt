@@ -8994,7 +8994,6 @@ allothigenetically
 anthropomorphising
 allothigenic
 allothimorph
-allothimorphic
 allothogenic
 astrakanite
 allotypes
@@ -11505,6 +11504,7 @@ archhead
 anility
 anacamptics
 anacanthine
+allothimorphic
 apoplectiform
 anacanthini
 anacanthous
