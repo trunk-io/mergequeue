@@ -1256,7 +1256,6 @@ gapingstock
 gruffs
 gapless
 galactopoietic
-gaplessness
 gizzened
 gapped
 gapper
@@ -5296,6 +5295,7 @@ gleys
 glen
 glendover
 glene
+gaplessness
 grindery
 gaited
 golgi
