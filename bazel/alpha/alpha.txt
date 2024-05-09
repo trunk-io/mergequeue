@@ -1958,7 +1958,6 @@ advanced
 acetable
 acetabula
 acetabular
-acetabularia
 acetabuliform
 acetabulous
 alacrify
@@ -21745,6 +21744,7 @@ assertum
 asserve
 apparencies
 acroteric
+acetabularia
 asservilize
 asses
 assess
