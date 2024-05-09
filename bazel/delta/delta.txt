@@ -16346,7 +16346,6 @@ downstairs
 duras
 devout
 drainable
-downstate
 dolmens
 downstreet
 downstroke
@@ -18039,6 +18038,7 @@ duler
 duly
 dull
 dullard
+downstate
 dipotassium
 deckload
 dishonored
