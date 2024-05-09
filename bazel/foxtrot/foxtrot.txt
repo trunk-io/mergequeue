@@ -5393,6 +5393,7 @@ flentes
 flerried
 furandi
 flerrying
+flanging
 flesh
 fricassee
 fleshbrush
@@ -8669,7 +8670,6 @@ feteless
 floodwater
 fame
 faveolus
-flanging
 fourness
 forthwith
 flamelike
