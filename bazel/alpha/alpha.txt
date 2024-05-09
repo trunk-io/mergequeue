@@ -3179,7 +3179,6 @@ actinopteran
 actinopteri
 actinopterygian
 amylopsase
-actinopterygious
 actinoscopy
 actinosome
 actinosphaerium
@@ -15201,6 +15200,7 @@ antieducation
 assurant
 antieducational
 antieducationalist
+actinopterygious
 assist
 antieducationally
 antiegotistic
