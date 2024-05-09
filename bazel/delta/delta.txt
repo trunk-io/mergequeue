@@ -4181,6 +4181,7 @@ delineature
 delineavit
 delinition
 delinquence
+diathetic
 delinquency
 delinquencies
 delinquent
@@ -8743,7 +8744,6 @@ diathesic
 desilicating
 demisacrilege
 diathesis
-diathetic
 diatom
 diatoma
 diatomaceae

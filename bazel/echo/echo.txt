@@ -5541,7 +5541,6 @@ enfigure
 enfilade
 emolument
 enfilades
-enfilading
 enfiled
 enfin
 enticing
@@ -13938,6 +13937,7 @@ extraparochially
 extrapatriarchal
 extraperineal
 exundance
+enfilading
 emplacement
 extraperiosteal
 endonuclease
