@@ -6337,7 +6337,6 @@ agoniada
 aul
 ascabart
 alchemise
-acanthite
 agoniatite
 agoniatites
 aegerian
@@ -19924,6 +19923,7 @@ armeria
 assaulted
 aspires
 armers
+acanthite
 armet
 armets
 armful
