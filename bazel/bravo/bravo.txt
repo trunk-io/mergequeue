@@ -4096,7 +4096,6 @@ bartletts
 berrylike
 beaminess
 beatille
-beaming
 beamingly
 beamish
 beamishly
@@ -11776,6 +11775,7 @@ bodiced
 brainwashers
 brushlike
 biometeorology
+beaming
 bum
 bodicemaking
 bodices
