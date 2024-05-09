@@ -12437,7 +12437,6 @@ chromatype
 chromatism
 chromatist
 compares
-competency
 chromatium
 chromatize
 chromatocyte
@@ -15665,6 +15664,7 @@ classific
 classifically
 classificator
 classificatory
+competency
 classified
 classifier
 censive
