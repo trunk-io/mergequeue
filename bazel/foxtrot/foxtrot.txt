@@ -4547,6 +4547,7 @@ feudalised
 fitout
 fairlike
 fittage
+forethrift
 fellagha
 flumadiddle
 fitted
@@ -8099,7 +8100,6 @@ forethoughtfulness
 furnishings
 fleet
 featherhead
-forethrift
 fulminic
 fire
 focalized
