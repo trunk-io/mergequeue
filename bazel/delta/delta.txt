@@ -4139,6 +4139,7 @@ deliliria
 dirigibles
 decimalizing
 delimed
+deg
 depilous
 delimes
 decreaseless
@@ -8828,7 +8829,6 @@ defied
 dybbuks
 dibenzyl
 dibenzoyl
-deg
 dibenzophenazine
 dibenzopyrrole
 dibhole
