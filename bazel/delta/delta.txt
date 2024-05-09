@@ -5994,7 +5994,6 @@ deprive
 deprived
 deprivement
 depriver
-deprivers
 dixit
 disconcerts
 dawks
@@ -10075,6 +10074,7 @@ dynasty
 disengage
 dynastically
 dynastid
+deprivers
 dales
 dynastidan
 dynastides
