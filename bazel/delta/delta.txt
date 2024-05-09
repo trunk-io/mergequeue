@@ -5589,7 +5589,6 @@ departition
 department
 departmental
 depreciant
-diphyllous
 drily
 departmentalise
 departmentalised
@@ -8755,6 +8754,7 @@ diatom
 diatoma
 diatomaceae
 diatomaceous
+diphyllous
 diatomales
 diatomeae
 diatomic
