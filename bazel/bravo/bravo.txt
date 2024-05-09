@@ -9368,7 +9368,6 @@ birchbark
 birched
 birchen
 birchers
-bewater
 borderies
 bathroom
 birchwood
@@ -12089,6 +12088,7 @@ boldos
 boldu
 bolectioned
 boled
+bewater
 besmoothing
 bolelia
 bolelike
