@@ -2415,7 +2415,6 @@ bardess
 bardy
 bardic
 bardiest
-bardiglio
 bardily
 brickiest
 brobdingnagian
@@ -3957,6 +3956,7 @@ bdelliums
 bdelloid
 bdelloida
 bdellometer
+bardiglio
 bdellostoma
 booksellerish
 bocstaff
