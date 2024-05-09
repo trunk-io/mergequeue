@@ -2657,6 +2657,7 @@ decolours
 decommission
 decommissioned
 dumbbeller
+deconsecration
 decommissions
 deepens
 diomedes
@@ -2715,7 +2716,6 @@ detailedly
 dyostyle
 dattos
 dollish
-deconsecration
 deconsider
 determinoid
 deconsideration
