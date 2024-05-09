@@ -7558,7 +7558,6 @@ blitheful
 beturbaned
 biparted
 betutor
-betutored
 betweenbrain
 betweenity
 bejesus
@@ -17412,6 +17411,7 @@ boardmen
 bundler
 bundlerooted
 bundlers
+betutored
 bundles
 bundlet
 bundlings
