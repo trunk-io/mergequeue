@@ -4613,7 +4613,6 @@ bedamning
 bedamp
 benzylpenicillin
 bituberculated
-bedangled
 babbled
 bedare
 bemingles
@@ -13967,6 +13966,7 @@ brachiata
 brachiate
 blames
 brachiating
+bedangled
 brachiator
 brachyaxis
 brachycephali
