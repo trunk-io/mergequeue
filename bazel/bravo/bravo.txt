@@ -5168,7 +5168,6 @@ befogging
 beguile
 befogs
 bottoms
-batoid
 blenniiform
 befooled
 befooling
@@ -10759,6 +10758,7 @@ balanopsidaceae
 blennosis
 blennostatic
 beclart
+batoid
 bibulus
 brainchildren
 bleo

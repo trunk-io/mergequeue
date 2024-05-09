@@ -19293,6 +19293,7 @@ authorish
 ardebs
 accedes
 acidifiable
+artifacts
 ardeid
 ardelia
 ardella
@@ -20727,7 +20728,6 @@ artifact
 acquitment
 affrighter
 artifactitious
-artifacts
 artifactual
 artifactually
 antipellagric
