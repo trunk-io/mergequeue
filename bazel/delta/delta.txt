@@ -9015,7 +9015,6 @@ dicotyls
 dicots
 dicoumarin
 disembed
-dicoumarol
 dicranaceae
 dicranaceous
 diligentia
@@ -12430,6 +12429,7 @@ disilicate
 disilicide
 disyllabic
 disyllabized
+dicoumarol
 disyllabizing
 destains
 disilluded
