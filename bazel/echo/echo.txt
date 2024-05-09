@@ -5065,7 +5065,6 @@ earthbound
 exited
 episperm
 epistlar
-embolies
 exinanition
 endoclinal
 endocoelar
@@ -13617,6 +13616,7 @@ exteriorize
 ejects
 elucidators
 encomiendas
+embolies
 exteriorized
 erratum
 exteriorizing
