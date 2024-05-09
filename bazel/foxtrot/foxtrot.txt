@@ -8543,7 +8543,6 @@ florins
 formulizing
 flapdoodle
 fameless
-fornax
 frighty
 fornaxid
 forncast
@@ -9360,6 +9359,7 @@ franchise
 franchisee
 franchisees
 fertil
+fornax
 finings
 franchisers
 franchises
