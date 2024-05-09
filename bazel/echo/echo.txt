@@ -571,7 +571,6 @@ embolus
 echinorhinus
 elbuck
 etnas
-echinosphaeritidae
 elusions
 exhaustivity
 echinostoma
@@ -6560,6 +6559,7 @@ enterate
 enterectomy
 enterectomies
 echelons
+echinosphaeritidae
 exuviates
 enterer
 extemporaneousness
