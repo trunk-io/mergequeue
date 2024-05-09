@@ -8615,7 +8615,6 @@ forslow
 forsooth
 forspeak
 forspend
-farstepped
 ferally
 fatuitousness
 forewrought
@@ -10422,6 +10421,7 @@ frontally
 flatmate
 footgeld
 frontals
+farstepped
 frontbencher
 frontcourt
 fronted
