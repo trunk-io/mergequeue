@@ -2246,7 +2246,6 @@ genteelly
 geraldine
 gearshift
 gearshifts
-gearwheels
 goldfinches
 garden
 garlics
@@ -2590,6 +2589,7 @@ gemmology
 gemstone
 gemuetlich
 gemuti
+gearwheels
 girt
 goral
 gabbing
