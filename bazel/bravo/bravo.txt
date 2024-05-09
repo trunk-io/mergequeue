@@ -5640,7 +5640,6 @@ belah
 billingsgate
 belay
 belayer
-belaying
 belam
 belamcanda
 belamy
@@ -13624,6 +13623,7 @@ befoolable
 bourgade
 bonailie
 bourgeois
+belaying
 bourgeoisie
 brashness
 bourgeoisitic
