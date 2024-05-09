@@ -3747,6 +3747,7 @@ fullword
 firesafe
 filmogen
 filmography
+fut
 frosteds
 filmographies
 fodda
@@ -11670,7 +11671,6 @@ fundal
 filoselle
 froglike
 flushable
-fut
 futchel
 futchell
 fute
