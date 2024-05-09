@@ -6728,7 +6728,6 @@ designatum
 detersive
 designedly
 designedness
-designee
 detachability
 decanally
 designer
@@ -10724,6 +10723,7 @@ diprimary
 dipropargyl
 dipropellant
 deficit
+designee
 diprotic
 diarthrosis
 dragnet
