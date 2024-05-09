@@ -1769,6 +1769,7 @@ frustule
 featherbedded
 fistulana
 featherbird
+foreshore
 fraught
 feathercut
 falconiformes
@@ -4365,7 +4366,6 @@ fub
 fishman
 folic
 fishmonger
-foreshore
 fraternizer
 ferociousness
 fluorapatite

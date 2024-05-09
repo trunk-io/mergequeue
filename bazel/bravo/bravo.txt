@@ -4435,6 +4435,7 @@ bechalks
 barbacoa
 bechance
 bechanced
+banana
 becharmed
 bellona
 bromhydric
@@ -11271,7 +11272,6 @@ blowlamp
 blown
 blowoff
 blowouts
-banana
 blowproof
 blows
 biologism
