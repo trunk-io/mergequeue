@@ -19734,7 +19734,6 @@ cappie
 combining
 combite
 comble
-carrow
 combless
 combmaker
 combmaking
@@ -23553,6 +23552,7 @@ chancelled
 conviviality
 continuality
 continually
+carrow
 clavation
 conchiolin
 conjoined
