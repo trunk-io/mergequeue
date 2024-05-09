@@ -1165,7 +1165,6 @@ featest
 fasces
 foldskirt
 flippers
-fingerlike
 forestaller
 filtrability
 fenite
@@ -9498,6 +9497,7 @@ firry
 fondak
 fraternize
 fulica
+fingerlike
 fraternized
 fulyie
 fraternizing

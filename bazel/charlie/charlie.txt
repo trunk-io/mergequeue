@@ -4793,7 +4793,6 @@ cynosarges
 carpopodite
 carpopoditic
 carpoptosia
-carport
 carpos
 chibouk
 carposporangial
@@ -6227,6 +6226,7 @@ codeword
 circularise
 cauking
 cyrtoceracone
+carport
 caul
 collieries
 cauld
