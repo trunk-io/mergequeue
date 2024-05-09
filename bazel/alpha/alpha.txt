@@ -10761,7 +10761,6 @@ airtightness
 ammodytoid
 ammonal
 ammonals
-ammonate
 angleworms
 ammonea
 arm
@@ -25269,6 +25268,7 @@ azimuth
 azimuthal
 azimuthally
 azimuths
+ammonate
 azine
 azines
 aziola
