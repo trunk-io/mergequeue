@@ -2670,6 +2670,7 @@ decompensations
 decompiler
 decomponent
 decomposability
+digladiator
 decomposable
 decompose
 decomposed
@@ -9518,7 +9519,6 @@ dialogising
 digits
 digitule
 digladiating
-digladiator
 diglyceride
 diglots
 disenchantment
