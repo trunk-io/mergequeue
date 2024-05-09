@@ -3600,6 +3600,7 @@ addresses
 addressful
 addressing
 acanthocephalan
+agar
 addressograph
 aloe
 addrest
@@ -5867,7 +5868,6 @@ agapeti
 agapetid
 agapetidae
 agennetic
-agar
 agaricaceae
 agaricaceous
 agaricales
