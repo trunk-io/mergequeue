@@ -12019,7 +12019,6 @@ chores
 choreus
 choreutic
 chorial
-choriamb
 choriambi
 choriambic
 costeen
@@ -12469,6 +12468,7 @@ chromatopathic
 chromatophil
 chromatophile
 chromatophilic
+choriamb
 chromatophilous
 chromatophobia
 chromatophore

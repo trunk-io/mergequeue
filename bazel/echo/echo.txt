@@ -4878,7 +4878,6 @@ euchymous
 encurtain
 endosteal
 end
-endable
 endamage
 endamagement
 endamages
@@ -14157,6 +14156,7 @@ exudatory
 externalising
 exudence
 encrust
+endable
 exudes
 exuding
 exul
