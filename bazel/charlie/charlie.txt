@@ -8325,7 +8325,6 @@ chalazas
 chalaze
 cloak
 chalazian
-coevolve
 cranely
 cercomonas
 concertanti
@@ -9989,6 +9988,7 @@ choochoo
 chemotaxy
 collocatory
 chemotaxonomy
+coevolve
 chemotaxonomic
 cannular
 comma
