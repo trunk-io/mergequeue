@@ -442,7 +442,6 @@ dilapidator
 disthrall
 daystars
 daystreak
-daytide
 daytimes
 dayton
 disburthen
@@ -14610,6 +14609,7 @@ doats
 deviscerate
 dobby
 dobbies
+daytide
 dobbing
 dobchick
 doberman
