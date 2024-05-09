@@ -998,7 +998,6 @@ dicyanide
 darkening
 darkens
 default
-dibatis
 daffling
 darker
 darkest
@@ -8622,6 +8621,7 @@ diapophysial
 diapophysis
 diaporesis
 diaporthe
+dibatis
 defrayment
 diapsida
 diapsidan
