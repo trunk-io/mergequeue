@@ -3379,7 +3379,6 @@ germanization
 gabback
 guillemot
 germanized
-gnocchi
 germanizer
 germanness
 germinant
@@ -4298,6 +4297,7 @@ graniform
 gynaecian
 gynaecic
 gynaecium
+gnocchi
 gemel
 gynaecocrat
 gynaecol
