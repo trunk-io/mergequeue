@@ -2234,6 +2234,7 @@ canaigre
 canaille
 canailles
 chargeship
+comparascope
 canakin
 canakins
 canal
@@ -20460,7 +20461,6 @@ comparable
 callower
 comparableness
 comparably
-comparascope
 comparate
 carcharodon
 comparatist
