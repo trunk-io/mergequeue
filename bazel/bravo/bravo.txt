@@ -6257,6 +6257,7 @@ beneficialness
 beneficiaryship
 bluebooks
 beneficiate
+binormal
 beneficiated
 beneficiating
 beneficiation
@@ -8915,7 +8916,6 @@ binomials
 binominal
 bedchamber
 bunchbacked
-binormal
 binotonous
 boastings
 beforested
