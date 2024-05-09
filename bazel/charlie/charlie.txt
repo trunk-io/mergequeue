@@ -3057,7 +3057,6 @@ capacious
 capaciously
 cannibalic
 capaciousness
-capacitance
 capacitate
 cofounder
 cooperators
@@ -22249,6 +22248,7 @@ chamaeleontidae
 congenite
 congeon
 congeree
+capacitance
 congery
 congerie
 coloratura
