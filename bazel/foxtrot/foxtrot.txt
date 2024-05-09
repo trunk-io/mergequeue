@@ -7762,7 +7762,6 @@ florilege
 feathers
 forelook
 francisco
-foreloop
 forelooper
 forelouper
 fatigate
@@ -7877,6 +7876,7 @@ forerake
 foreran
 forereach
 forereading
+foreloop
 forerecited
 forereckon
 forerehearsed

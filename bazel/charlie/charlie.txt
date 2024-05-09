@@ -4675,7 +4675,6 @@ carpaine
 carpale
 carpalia
 carpals
-chela
 carpathian
 carpe
 carped
@@ -27933,6 +27932,7 @@ cracking
 crackings
 crackle
 crackled
+chela
 crackles
 crackless
 crackleware
