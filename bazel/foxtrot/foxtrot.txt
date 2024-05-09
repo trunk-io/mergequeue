@@ -10343,7 +10343,6 @@ frogwort
 filtrate
 fermentor
 fluorimeter
-frilly
 forebow
 fractioned
 froideur
@@ -11104,6 +11103,7 @@ functionalist
 ferricyanic
 farceuse
 fantoms
+frilly
 functionalities
 fixups
 firemaster
