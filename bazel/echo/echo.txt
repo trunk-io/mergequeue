@@ -5889,7 +5889,6 @@ enif
 exhilarates
 erythrose
 enigma
-exotoxin
 enigmas
 embrangle
 enrapturer
@@ -10234,6 +10233,7 @@ ectethmoidal
 enumerators
 eurhodine
 electrotonize
+exotoxin
 etherialised
 expressor
 exhausts

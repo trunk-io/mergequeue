@@ -1742,7 +1742,6 @@ accruer
 adiabatic
 accrues
 accruing
-aerocar
 accts
 aventail
 accubation
@@ -13428,6 +13427,7 @@ ankylophobia
 arteriostosis
 abbr
 ankylopodia
+aerocar
 ankyloproctia
 ankylos
 abound
