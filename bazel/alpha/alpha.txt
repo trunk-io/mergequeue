@@ -4365,7 +4365,6 @@ adoxography
 adoze
 adp
 aclastic
-adposition
 adpress
 azonium
 alchornea
@@ -19513,6 +19512,7 @@ argents
 argentum
 adalid
 anaconda
+adposition
 argentums
 argh
 arghel
