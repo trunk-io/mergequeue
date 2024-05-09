@@ -1383,7 +1383,6 @@ fatherlike
 fathership
 forswore
 frontways
-fathomableness
 fathomage
 faunal
 fathomed
@@ -2313,6 +2312,7 @@ folktale
 fended
 ferric
 frolicness
+fathomableness
 fender
 fulmineous
 fuster
