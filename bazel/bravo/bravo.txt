@@ -1815,7 +1815,6 @@ bouleversement
 bananalander
 banande
 bananist
-bridgewall
 bushwood
 bananivorous
 banat
@@ -12669,6 +12668,7 @@ booklike
 bookling
 bieennia
 booklists
+bridgewall
 booklore
 bhavan
 bioecologic
