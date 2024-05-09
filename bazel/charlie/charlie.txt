@@ -9019,7 +9019,6 @@ choosey
 cassidinae
 charco
 charcoal
-charcoaled
 charcoaly
 charcoaling
 cryptologic
@@ -20472,6 +20471,7 @@ comparably
 comparascope
 comparate
 carcharodon
+charcoaled
 comparatist
 crotchets
 comparatival
