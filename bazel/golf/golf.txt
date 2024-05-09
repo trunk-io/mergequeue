@@ -2604,6 +2604,7 @@ gossaniferous
 gonangiums
 geranomorphic
 gendarmery
+glinse
 geobotanical
 gendarmerie
 guided
@@ -3783,7 +3784,6 @@ glabellae
 gasterothecal
 glabrous
 glace
-glinse
 gladiate
 giantesses
 getatable
