@@ -2059,7 +2059,6 @@ garland
 gaup
 gas
 goring
-gunfought
 gliomatous
 gladrags
 gaur
@@ -6802,6 +6801,7 @@ globulet
 goniometric
 greasewood
 gynecomania
+gunfought
 graminivorous
 gropple
 giving
