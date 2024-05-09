@@ -10603,6 +10603,7 @@ diplomates
 diplomatically
 depositum
 diplomatique
+disadvantageous
 dolour
 diplomatism
 diplomatist
@@ -10767,7 +10768,6 @@ dipterus
 diptyca
 diptychs
 dipware
-disadvantageous
 diquat
 dir
 diradiation
