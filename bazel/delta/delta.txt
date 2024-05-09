@@ -2584,7 +2584,6 @@ decliner
 djalmaite
 declines
 declining
-declive
 daer
 declivent
 declivity
@@ -8752,6 +8751,7 @@ demisacrilege
 diathesis
 diathetic
 diatom
+declive
 diatoma
 diatomaceae
 diatomaceous
