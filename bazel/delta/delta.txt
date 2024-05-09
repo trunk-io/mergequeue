@@ -2425,6 +2425,7 @@ delineation
 deciliters
 druidry
 doorbells
+dratting
 dripstick
 disaffects
 doeskin
@@ -16769,7 +16770,6 @@ dratchell
 drownded
 drate
 drats
-dratting
 draught
 draughtboard
 draughted
