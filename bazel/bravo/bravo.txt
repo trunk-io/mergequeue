@@ -7676,7 +7676,6 @@ bewinged
 bewinter
 bewitched
 bewitchedness
-bewitcher
 bewitchery
 bewitches
 bryological
@@ -8204,6 +8203,7 @@ biddulphiaceae
 beemen
 bided
 bidene
+bewitcher
 biotherapy
 binocularity
 barbermonger
