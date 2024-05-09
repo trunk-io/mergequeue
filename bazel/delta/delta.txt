@@ -5523,6 +5523,7 @@ decolouriser
 deorganize
 deorientalize
 deorsum
+disassiduity
 deorsumvergence
 deorsumversion
 deossify
@@ -11110,7 +11111,6 @@ disassembles
 descriptors
 disassembling
 disassent
-disassiduity
 disassimilate
 dodecastyle
 disassimilation
