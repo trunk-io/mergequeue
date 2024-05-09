@@ -10377,7 +10377,6 @@ dioxane
 dioxanes
 dioxy
 dioxid
-divergence
 dioxide
 disfavors
 dioxides
@@ -12025,6 +12024,7 @@ disenfranchisements
 decumaria
 disenfranchises
 dollarbird
+divergence
 diapsid
 dromaeus
 diadelphic
