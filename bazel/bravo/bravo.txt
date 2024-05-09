@@ -8269,7 +8269,6 @@ bienness
 biennial
 biennially
 biennials
-biennium
 bienniums
 boyism
 bronchial
@@ -13326,6 +13325,7 @@ bothria
 bothridia
 bontequagga
 bothriocephalus
+biennium
 bothrium
 bothrodendron
 bothropic
