@@ -3452,7 +3452,6 @@ deflocculent
 deflorate
 doubting
 duendes
-defloration
 deflorations
 deflore
 deflorescence
@@ -17425,6 +17424,7 @@ dropping
 departmentalisation
 droppings
 drops
+defloration
 differentiates
 dropseed
 dropshot
