@@ -6380,7 +6380,6 @@ cauterized
 cauterizer
 cavally
 cauterizes
-cauterizing
 caution
 cautionary
 couve
@@ -29406,6 +29405,7 @@ crispine
 crisping
 crispins
 crisply
+cauterizing
 chalcanthite
 chartists
 crispness
