@@ -20234,7 +20234,6 @@ common
 cutification
 commonage
 commonality
-commonalities
 commonalty
 camouflages
 commonance
@@ -20660,6 +20659,7 @@ complect
 cottierism
 complecting
 complection
+commonalities
 complects
 complement
 converser

@@ -5827,7 +5827,6 @@ enhaemospore
 enhallow
 enhalo
 enhaloes
-explees
 entocoel
 ergates
 ecarinate
@@ -10607,6 +10606,7 @@ eucharis
 eucharises
 epilachnides
 eucharist
+explees
 eucharistial
 eudaemony
 exhortator
