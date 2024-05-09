@@ -2506,7 +2506,6 @@ dirigent
 decken
 deckhand
 duckwing
-deerstalker
 deckhead
 deckle
 deckman
@@ -15164,6 +15163,7 @@ denticete
 dolichocephalize
 debe
 daresay
+deerstalker
 durzee
 damnit
 dolichocephalous
