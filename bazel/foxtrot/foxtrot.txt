@@ -8096,7 +8096,6 @@ foretellers
 foretells
 fatiguability
 forethinking
-forethough
 forethoughtfulness
 furnishings
 fleet
@@ -8507,6 +8506,7 @@ formoxime
 forms
 formulae
 fard
+forethough
 fulgid
 foggy
 formularies
