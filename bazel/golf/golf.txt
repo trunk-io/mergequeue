@@ -1626,6 +1626,7 @@ gasoliers
 gasoliner
 gasometry
 gastrodisc
+geic
 galileo
 gasometric
 grype
@@ -6086,7 +6087,6 @@ gluneamie
 gluside
 glutamate
 grass
-geic
 geodesics
 gazing
 griots
