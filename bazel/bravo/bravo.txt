@@ -3389,7 +3389,6 @@ bays
 bassetting
 bassi
 bassy
-bassia
 bobbishly
 bassie
 bassine
@@ -5707,6 +5706,7 @@ belemnoid
 belayed
 bowssen
 boer
+bassia
 bkpr
 belemnoidea
 beleper
