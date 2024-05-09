@@ -6724,6 +6724,7 @@ fadding
 fogman
 fogmen
 fuseless
+forejudge
 fogo
 fogon
 fogproof
@@ -7280,7 +7281,6 @@ feudalization
 furazan
 fuliginous
 frotteur
-forejudge
 firefly
 footwears
 fleered

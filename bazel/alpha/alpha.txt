@@ -2928,7 +2928,6 @@ acromial
 acromicria
 acromimia
 acromioclavicular
-acromiocoracoid
 acromiodeltoid
 acromyodi
 abominability
@@ -4529,6 +4528,7 @@ antiprism
 adulterously
 adulterousness
 autohemolysis
+acromiocoracoid
 adulthood
 adulticidal
 adulticide
