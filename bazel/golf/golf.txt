@@ -2244,7 +2244,6 @@ guernseys
 glucose
 genteelly
 geraldine
-gearshift
 gearshifts
 goldfinches
 garden
@@ -5451,6 +5450,7 @@ graph
 gripy
 gliddery
 grafts
+gearshift
 geotechnics
 gruft
 gigartinaceae
