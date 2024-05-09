@@ -12204,7 +12204,6 @@ drillstock
 disgarnish
 desegregate
 disgavel
-ditone
 disgaveling
 disgavelled
 disgavelling
@@ -17222,6 +17221,7 @@ drysne
 drissel
 dividedly
 dryster
+ditone
 drivable
 drive
 driveable
