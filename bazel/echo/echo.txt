@@ -3053,7 +3053,6 @@ ellipsone
 ellipsonic
 exteriorization
 elliptical
-elliptically
 ellipticalness
 ellipticity
 extemporize
@@ -13386,6 +13385,7 @@ electrotechnical
 expurge
 excipular
 etas
+elliptically
 expressway
 expressways
 exprimable

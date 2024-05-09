@@ -8523,7 +8523,6 @@ alkalizer
 alkalizes
 alkalizing
 alkaloid
-alkaloids
 alkalometry
 alkalosis
 allege
@@ -13619,6 +13618,7 @@ annotater
 amputated
 annotates
 avoiding
+alkaloids
 annotations
 annotative
 annotatively
