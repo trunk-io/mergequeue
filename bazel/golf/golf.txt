@@ -6138,7 +6138,6 @@ gnaphalium
 gravitate
 gnar
 gnarl
-gnarly
 greatcoats
 goutte
 gnarliest
@@ -7266,6 +7265,7 @@ glareolidae
 ghast
 gilgul
 gospels
+gnarly
 gospelwards
 gossard
 gosplan

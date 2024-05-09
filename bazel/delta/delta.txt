@@ -409,7 +409,6 @@ densitometry
 diathermia
 deboning
 dairies
-dairying
 dairyings
 disobedient
 dairymaids
@@ -5720,6 +5719,7 @@ depilate
 depilated
 deadlocked
 distractibility
+dairying
 dendrocoelous
 depilates
 depilating
