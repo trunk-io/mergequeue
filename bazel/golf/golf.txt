@@ -6827,7 +6827,6 @@ gamgee
 galatotrophic
 graptoloidea
 gonystylaceous
-gonystylus
 golliwogs
 gaffsail
 gossiping
@@ -7251,6 +7250,7 @@ gephyrophobia
 greyling
 groutier
 golfer
+gonystylus
 genet
 gospelist
 gospeller

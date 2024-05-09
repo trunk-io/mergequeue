@@ -4050,6 +4050,7 @@ dialing
 delegating
 dirten
 delegation
+dueness
 delegations
 dalradian
 dummies
@@ -17909,7 +17910,6 @@ droopt
 duenas
 duende
 dracaena
-dueness
 duenesses
 discandy
 dissector
