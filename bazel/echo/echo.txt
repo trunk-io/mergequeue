@@ -764,7 +764,6 @@ ecphoria
 ecphoriae
 emotes
 ecphractic
-ecphrasis
 emergences
 ecrase
 ecraseur
@@ -12083,6 +12082,7 @@ exclusivity
 excoct
 excoction
 excogitated
+ecphrasis
 excogitative
 epigaeous
 excogitator
