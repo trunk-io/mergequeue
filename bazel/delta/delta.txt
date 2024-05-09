@@ -9956,6 +9956,7 @@ dimness
 dimolecular
 debriefs
 dimoric
+degradability
 dimorph
 dimorphism
 dertrotheca
@@ -14542,7 +14543,6 @@ dixits
 dizain
 discursiveness
 desilverize
-degradability
 dizdar
 dizen
 devitalized
