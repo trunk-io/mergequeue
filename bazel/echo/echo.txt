@@ -3044,7 +3044,6 @@ ellipsis
 emblematic
 ellipsograph
 ellipsoid
-ellipsoidal
 executiveness
 ellipsone
 ellipsonic
@@ -7221,6 +7220,7 @@ equinecessary
 encyclic
 electropercussive
 enguard
+ellipsoidal
 embrave
 ephoral
 excitomotion
