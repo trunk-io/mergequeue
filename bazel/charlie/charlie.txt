@@ -6973,7 +6973,6 @@ ceratinous
 cemeteries
 culm
 cen
-cenaculum
 cenanthy
 cecily
 cenanthous
@@ -10560,6 +10559,7 @@ comicality
 children
 childrenite
 corylin
+cenaculum
 childridden
 childship
 childward
