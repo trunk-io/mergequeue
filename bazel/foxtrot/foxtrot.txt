@@ -7902,6 +7902,7 @@ farl
 foresails
 farmscape
 fibered
+flexible
 foresaw
 forescene
 forescent
@@ -10401,7 +10402,6 @@ fiaunt
 fraenula
 floodlighted
 fortiori
-flexible
 frondless
 forepaling
 frondlet
