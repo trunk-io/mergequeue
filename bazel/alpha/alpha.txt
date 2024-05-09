@@ -6072,7 +6072,6 @@ aggravated
 azoxyphenetole
 adversary
 amoroso
-aggravates
 aggravating
 aggravatingly
 aggravation
@@ -17303,6 +17302,7 @@ apologias
 apological
 apologies
 amenage
+aggravates
 apologised
 apologising
 amicableness
