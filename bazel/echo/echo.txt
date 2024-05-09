@@ -441,6 +441,7 @@ eccentrics
 ecch
 engraved
 ecchymosis
+epidemic
 ecchondroma
 emperize
 esthacyte
@@ -7681,7 +7682,6 @@ epideictic
 endomesoderm
 epideistic
 enthymematical
-epidemic
 eriocaulaceous
 eulogically
 estrus
