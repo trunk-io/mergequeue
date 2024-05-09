@@ -8131,7 +8131,6 @@ algeria
 algerian
 algerienne
 algerine
-anticommercial
 algerines
 algerita
 algerite
@@ -18997,6 +18996,7 @@ archimagus
 archimandrite
 archimandrites
 archimedean
+anticommercial
 archimedes
 archimycetes
 abrogation
