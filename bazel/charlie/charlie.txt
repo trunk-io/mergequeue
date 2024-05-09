@@ -7564,7 +7564,6 @@ changepocket
 crozier
 ceratopsian
 ceratopsid
-cutikin
 ceratopteridaceae
 ceratopteris
 ceratorhine
@@ -11635,6 +11634,7 @@ cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
 cholecystic
+cutikin
 cholecystis
 cholecystitis
 cozies
