@@ -4389,7 +4389,6 @@ fishpotter
 fishskin
 fistfuls
 fourhanded
-fishspear
 fishtail
 fluffier
 fomentation
@@ -10610,6 +10609,7 @@ feuar
 frubbish
 favose
 flamboyant
+fishspear
 fruchtschiefer
 feodaries
 forespoken
