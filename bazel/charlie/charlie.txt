@@ -4871,7 +4871,6 @@ casework
 carrosserie
 catheterising
 carrot
-carrotage
 carroter
 carroty
 carrotiest
@@ -16496,6 +16495,7 @@ cuon
 clockmaker
 craninia
 clockmaking
+carrotage
 crewer
 clocksmith
 clockwatcher
