@@ -5607,7 +5607,6 @@ bekisses
 bekko
 blethering
 beknave
-beknight
 blossoming
 beknighted
 beknighting
@@ -13287,6 +13286,7 @@ botchier
 botchily
 botchiness
 bairnteem
+beknight
 braciole
 becrimson
 botella
