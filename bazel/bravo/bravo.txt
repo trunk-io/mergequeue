@@ -3803,7 +3803,6 @@ battologise
 bukshi
 battologised
 battologising
-battologist
 battologize
 battologized
 bookmaking
@@ -11373,6 +11372,7 @@ bluegums
 bluffy
 bombers
 bluehearted
+battologist
 bluehearts
 bluey
 blueys
