@@ -1307,7 +1307,6 @@ balanta
 bottine
 balante
 balantidic
-beamage
 balantidium
 ballium
 bilertinned
@@ -6983,6 +6982,7 @@ besew
 beelike
 betrim
 beshackle
+beamage
 beshade
 begrudges
 beshadowed
