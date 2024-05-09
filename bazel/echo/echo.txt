@@ -1674,7 +1674,6 @@ eiders
 eidograph
 eidola
 eidolism
-eidolon
 electromotiv
 eidoptometry
 eidos
@@ -9459,6 +9458,7 @@ escaloping
 escambron
 escamotage
 exudate
+eidolon
 escapable
 escapado
 escape
