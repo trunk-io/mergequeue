@@ -1097,6 +1097,7 @@ foremast
 farolito
 ferriages
 farrage
+flyweight
 foldstool
 farrago
 fordone
@@ -5781,7 +5782,6 @@ flyways
 fishable
 faunas
 further
-flyweight
 ferr
 fribblish
 flywinch

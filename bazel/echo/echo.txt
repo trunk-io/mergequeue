@@ -2027,7 +2027,6 @@ enchantery
 elwood
 equiangle
 elaic
-elaidate
 elain
 enamoured
 elaioleucite
@@ -6387,6 +6386,7 @@ embezzler
 eva
 endoparasitic
 enrollment
+elaidate
 expenseful
 elizabeth
 ensiles
