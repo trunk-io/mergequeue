@@ -4867,7 +4867,6 @@ encumbrance
 excused
 english
 electrometeor
-ectoderm
 engagedly
 ephyrula
 euchymous
@@ -9480,6 +9479,7 @@ enflagellation
 escapement
 enstool
 echeneid
+ectoderm
 escaper
 escapers
 evulgation
