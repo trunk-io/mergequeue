@@ -5593,7 +5593,6 @@ flimsily
 florist
 fellowshiped
 fianchetto
-flimsiness
 flinch
 flagleaf
 forecabin
@@ -11728,6 +11727,7 @@ futurologists
 filibustered
 futwa
 fissional
+flimsiness
 fibdom
 fuzed
 fingerboard
