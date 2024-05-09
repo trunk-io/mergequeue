@@ -2647,7 +2647,6 @@ expansionary
 extendibility
 electrotechnologist
 electrotelegraphy
-electrotelethermometer
 endplay
 epithelioma
 electrotellurograph
@@ -13762,6 +13761,7 @@ embargoing
 extortioners
 extortionists
 extortions
+electrotelethermometer
 electrodynamical
 extortive
 evaporite
