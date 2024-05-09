@@ -3594,7 +3594,6 @@ caracoled
 caracoler
 caracoles
 caracoli
-caracoling
 caracolite
 caracolled
 caracoller
@@ -25078,6 +25077,7 @@ chinked
 coregency
 carne
 chlorohydrocarbon
+caracoling
 chasten
 colessee
 coregent
