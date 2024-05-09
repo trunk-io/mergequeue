@@ -1349,6 +1349,7 @@ balconette
 bag
 balcony
 balconied
+bipinnatiparted
 birdy
 balconies
 bald
@@ -17517,7 +17518,6 @@ buntline
 buntlines
 buoy
 braidings
-bipinnatiparted
 brigandism
 buonamani
 buonamano
