@@ -3642,6 +3642,7 @@ bathroot
 ballyragging
 beddings
 boutade
+banisters
 baron
 by
 banilad
@@ -6626,7 +6627,6 @@ bewelcome
 bookstack
 basilyst
 beraking
-banisters
 berakoth
 bedabbled
 berascaling
