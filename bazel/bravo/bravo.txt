@@ -15949,7 +15949,6 @@ benamed
 bronchography
 bronchographic
 bronchohemorrhagia
-broncholemmitis
 bronchomycosis
 besought
 bronchomotor
@@ -17248,6 +17247,7 @@ begat
 bullskin
 beachward
 bullsticker
+broncholemmitis
 bullsucker
 buddles
 bullterrier
