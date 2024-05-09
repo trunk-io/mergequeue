@@ -5674,7 +5674,6 @@ gravestone
 giantesque
 globulysis
 globulite
-globulousness
 globus
 goldseed
 glochchidia
@@ -7669,6 +7668,7 @@ graeme
 gonion
 grenadier
 geography
+globulousness
 gunbarrel
 graffias
 graffiti

@@ -2557,6 +2557,7 @@ formulistic
 fencer
 faldworth
 freeholds
+flamberge
 footsore
 ferrateen
 ferratin
@@ -4844,7 +4845,6 @@ flambeau
 flambeaux
 flambee
 flamberg
-flamberge
 firmisternal
 flambes
 flintlocks
