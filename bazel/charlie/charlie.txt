@@ -11466,7 +11466,6 @@ chlorpheniramine
 chlorphenol
 caffa
 chlorpicrin
-chlorpromazine
 chlorpropamide
 cheerfulsome
 ciboule
@@ -17906,6 +17905,7 @@ codworm
 coe
 coed
 chantage
+chlorpromazine
 coedit
 coedited
 coediting
