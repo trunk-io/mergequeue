@@ -9590,7 +9590,6 @@ dihalo
 discommendable
 dihalogen
 dihdroxycholecalciferol
-dihedrals
 dihedron
 discipleship
 dishumour
@@ -14210,6 +14209,7 @@ ditremid
 despectant
 ditrichotomous
 ditriglyphic
+dihedrals
 ditrocha
 ditroite
 dragropes
