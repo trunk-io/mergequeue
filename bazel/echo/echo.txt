@@ -10877,7 +10877,6 @@ eunuchs
 euodic
 euonym
 escheatage
-euonymy
 euonymous
 euonymus
 expectoration
@@ -13675,6 +13674,7 @@ ewers
 elocular
 elatine
 emersions
+euonymy
 esteemed
 exhibitive
 exterous
