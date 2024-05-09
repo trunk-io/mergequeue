@@ -8736,7 +8736,6 @@ alleviates
 aliya
 alleviating
 alleviatingly
-alleviation
 alleviative
 alleviator
 alleviatory
@@ -19126,6 +19125,7 @@ archostegnosis
 archaeostomatous
 archostenosis
 archoverseer
+alleviation
 archpall
 archpapist
 archpastor

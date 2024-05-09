@@ -1532,6 +1532,7 @@ emarginately
 eggcups
 eggeater
 egged
+enframe
 embog
 envapour
 evenglome
@@ -5610,7 +5611,6 @@ enforth
 estrangle
 enfoulder
 enfrai
-enframe
 expressness
 enframed
 enfranch
