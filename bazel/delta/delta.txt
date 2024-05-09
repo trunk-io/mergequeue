@@ -7495,7 +7495,6 @@ disenchain
 deadeye
 daemonology
 deuteride
-diplanetism
 deuterium
 deinocephalia
 deuteroalbumose
@@ -17823,6 +17822,7 @@ duckmeat
 duckpin
 dishouse
 diabolarch
+diplanetism
 dotiness
 ducktail
 duckweed
