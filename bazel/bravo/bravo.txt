@@ -4079,7 +4079,6 @@ bedtick
 beala
 beallach
 byously
-bealtared
 bealtine
 bom
 beambird
@@ -12735,6 +12734,7 @@ bookworm
 bookwright
 booleans
 booley
+bealtared
 booleys
 booly
 betatters
