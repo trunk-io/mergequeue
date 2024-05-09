@@ -1439,7 +1439,6 @@ distrainee
 damages
 daze
 discerptibility
-dazed
 dazedly
 dazedness
 dispulp
@@ -2879,6 +2878,7 @@ decubitus
 deculturate
 decuman
 digest
+dazed
 dramatizations
 discrepant
 decumanus
