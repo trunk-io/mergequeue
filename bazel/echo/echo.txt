@@ -6440,7 +6440,6 @@ encheck
 ensorcellment
 ensorrow
 eucalyn
-emit
 ectodactylism
 ensoul
 ensouled
@@ -7840,6 +7839,7 @@ epigonism
 euconjugatae
 epigonium
 epigonos
+emit
 extractions
 epigonous
 eliquated
