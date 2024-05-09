@@ -6500,7 +6500,6 @@ ectophytic
 excuss
 empyrical
 entamoebic
-entangled
 entangledness
 endotrachelitis
 evensong
@@ -9765,6 +9764,7 @@ electrogalvanic
 epimerize
 espingole
 engines
+entangled
 editorialist
 espino
 espinos
