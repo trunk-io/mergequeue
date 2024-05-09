@@ -3584,7 +3584,6 @@ disenchanter
 denegation
 deified
 defunctionalize
-defuse
 defuses
 defusion
 dingles
@@ -7692,6 +7691,7 @@ demonically
 deviler
 devilet
 duits
+defuse
 danaidean
 darwinism
 devilfish
