@@ -2074,7 +2074,6 @@ feldspar
 farewelling
 finetop
 funebrial
-feldsparphyre
 federator
 feldspath
 forerigging
@@ -7490,6 +7489,7 @@ foreadvise
 forearmed
 foreallege
 fatstocks
+feldsparphyre
 foreallot
 flatuses
 fluor
