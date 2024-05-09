@@ -14838,7 +14838,6 @@ cists
 cistudo
 colonic
 cistus
-cistuses
 citable
 cambibia
 citadel
@@ -27613,6 +27612,7 @@ cowardice
 chrobat
 cowardish
 cupelled
+cistuses
 coecum
 cowardly
 cowardliness
