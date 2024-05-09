@@ -4475,7 +4475,6 @@ barfed
 byward
 backswing
 bonairness
-beckons
 becks
 beclamor
 beclamored
@@ -5903,6 +5902,7 @@ berger
 bap
 bellypiece
 bellypinch
+beckons
 bellipotent
 biliverdin
 bellmaking
