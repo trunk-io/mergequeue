@@ -11696,6 +11696,7 @@ disbecome
 dodginess
 discos
 discost
+dermacentor
 discostate
 discotheque
 discothque
@@ -11743,7 +11744,6 @@ discoach
 discoverable
 discoverably
 discoverer
-dermacentor
 discovery
 discovers
 discovert
