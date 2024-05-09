@@ -5803,7 +5803,6 @@ categorised
 chansonnier
 categorising
 categorist
-cleaves
 categorization
 categorizations
 categorize
@@ -31868,6 +31867,7 @@ cuttings
 cuttle
 cuttlebone
 cuttlebones
+cleaves
 cuttled
 cuttlefish
 calamitous
