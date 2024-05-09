@@ -2488,7 +2488,6 @@ furzechat
 fermentable
 ferrocyanic
 forlie
-fermentate
 fermentativeness
 floatplane
 fermenter
@@ -9493,6 +9492,7 @@ flowerist
 frater
 frateries
 fideism
+fermentate
 fells
 fraternal
 fraternality
