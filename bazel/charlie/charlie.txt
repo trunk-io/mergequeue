@@ -5869,7 +5869,6 @@ catfooted
 cambists
 catgut
 cath
-catha
 capillatus
 convolutionary
 classman
@@ -23328,6 +23327,7 @@ carua
 coarsen
 contactant
 contacted
+catha
 contactile
 circumspect
 congests
