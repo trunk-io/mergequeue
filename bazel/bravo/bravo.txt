@@ -7906,7 +7906,6 @@ bibberies
 bibbing
 bibble
 beclose
-bibbler
 blooms
 bibcocks
 bibelot
@@ -17599,6 +17598,7 @@ bureaucratizes
 boss
 bureaucratizing
 bureaucrats
+bibbler
 bureaux
 burele
 buret

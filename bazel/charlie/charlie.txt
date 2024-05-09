@@ -4694,7 +4694,6 @@ carpel
 carpellary
 cytinaceous
 carpentered
-coattended
 carpenteria
 carpentering
 carpenters
@@ -28271,6 +28270,7 @@ crashing
 crashingly
 crashproof
 crashworthiness
+coattended
 craspedal
 craspedodromous
 craves
