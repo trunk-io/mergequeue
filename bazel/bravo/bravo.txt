@@ -2413,6 +2413,7 @@ balate
 barde
 bardes
 brabant
+buhr
 bardesanite
 barwin
 bardess
@@ -3778,7 +3779,6 @@ battler
 battles
 battleship
 battleships
-buhr
 battlesome
 brahmany
 brigantes
