@@ -6332,7 +6332,6 @@ dermatosclerosis
 dermatoscopy
 delegatus
 dermatoses
-dermatosiophobia
 degausses
 dermatotherapy
 depurated
@@ -9100,6 +9099,7 @@ dictronics
 dictum
 dailiness
 didache
+dermatosiophobia
 drubbed
 decouple
 dunted
