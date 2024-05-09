@@ -1114,7 +1114,6 @@ dashiki
 dashikis
 diporpa
 dashmaker
-dashnak
 dashnakist
 dashplate
 dropflower
@@ -6421,6 +6420,7 @@ derogatively
 derogator
 derogatory
 dooja
+dashnak
 dauk
 deplorate
 disincorporating
