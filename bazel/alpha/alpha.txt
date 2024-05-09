@@ -18518,7 +18518,6 @@ anteroposterior
 araquaju
 arar
 araracanga
-anaclinal
 arleng
 ararobas
 arase
@@ -20015,6 +20014,7 @@ armories
 abstrusenesses
 armorist
 armorless
+anaclinal
 armorplated
 aplopappus
 armorproof

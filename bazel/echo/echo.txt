@@ -11662,7 +11662,6 @@ exacerbations
 exacerbescence
 exacervation
 exact
-exactable
 epexegesis
 exactas
 exacted
@@ -13122,6 +13121,7 @@ eche
 expired
 earmark
 equivale
+exactable
 embale
 expiree
 expirer
