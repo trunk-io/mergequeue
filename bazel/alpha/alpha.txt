@@ -6224,6 +6224,7 @@ aglaia
 ancle
 atocia
 aglance
+antiexpansion
 aglaos
 aglaozonia
 aglare
@@ -15244,7 +15245,6 @@ anteconsonantal
 antievolutionist
 antievolutionistic
 astint
-antiexpansion
 antiexpansionism
 antiexpansionist
 antiexpressionism
