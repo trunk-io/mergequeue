@@ -16046,7 +16046,6 @@ comfrey
 clerihews
 clerisies
 clerk
-clerkage
 chalcotript
 chunderous
 carryovers
@@ -31496,6 +31495,7 @@ cursiveness
 conveyal
 cursives
 cursor
+clerkage
 cursorary
 cundite
 cursory
