@@ -2408,7 +2408,6 @@ asmear
 acidophil
 acidophile
 acidophilic
-acidophilus
 acidoses
 afternoon
 acidosis
@@ -9634,6 +9633,7 @@ alumish
 alumite
 autolith
 anticonvulsant
+acidophilus
 alumna
 alumnae
 alumni
