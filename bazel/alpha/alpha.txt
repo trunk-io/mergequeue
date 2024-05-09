@@ -10064,6 +10064,7 @@ amblygonal
 amblygonite
 attractant
 asterism
+autoslip
 absinthic
 ambling
 amblingly
@@ -24380,7 +24381,6 @@ autosite
 autositic
 autoskeleton
 afterdinner
-autoslip
 altruistic
 autosomal
 autosomally
