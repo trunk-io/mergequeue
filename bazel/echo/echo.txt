@@ -4573,7 +4573,6 @@ epidemiologies
 enchanting
 enchantments
 englante
-enchantress
 enchants
 encharged
 encharging
@@ -13585,6 +13584,7 @@ eggcup
 extensometer
 engrosses
 extensor
+enchantress
 eulogise
 extensory
 echograph
