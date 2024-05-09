@@ -3128,7 +3128,6 @@ delible
 defacers
 defaces
 defacing
-defacto
 dodgers
 defade
 deashes
@@ -13435,6 +13434,7 @@ disrobement
 disrober
 disrobers
 danseur
+defacto
 disrobes
 disrobing
 disroof
