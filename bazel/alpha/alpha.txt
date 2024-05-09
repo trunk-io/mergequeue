@@ -4552,7 +4552,6 @@ adunc
 aduncate
 athbash
 aduncity
-aduncous
 adure
 adurent
 aggregant
@@ -15766,6 +15765,7 @@ antipapism
 antipapist
 antipapistic
 antigun
+aduncous
 anaglyptic
 aquaphobia
 antipapistical
