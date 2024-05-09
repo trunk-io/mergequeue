@@ -5952,7 +5952,6 @@ foresays
 floosy
 floozy
 filicide
-flaughts
 flacon
 fumattoria
 floperoo
@@ -6516,6 +6515,7 @@ fluter
 fast
 flatuous
 fluters
+flaughts
 forspread
 fibroglia
 fougade
