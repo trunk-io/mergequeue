@@ -1232,7 +1232,6 @@ gaoled
 gaoling
 groatsworth
 gaoloring
-glutinate
 gaols
 gamolepis
 gaon
@@ -2967,6 +2966,7 @@ gater
 ghaznevid
 genua
 galli
+glutinate
 gruel
 gustfulness
 gallivants
