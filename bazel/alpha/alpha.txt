@@ -6479,7 +6479,6 @@ amoeban
 arrogancy
 almah
 agriological
-agriologist
 astringently
 animate
 agrionidae
@@ -15459,6 +15458,7 @@ adjutancy
 albinoism
 atmiatrics
 antiliturgical
+agriologist
 antiliturgist
 antilobium
 antilocapra
