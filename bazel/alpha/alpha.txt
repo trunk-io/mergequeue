@@ -1380,7 +1380,6 @@ acceding
 accel
 accelerable
 accelerando
-amnesias
 accelerant
 aiolis
 annihilator
@@ -14425,6 +14424,7 @@ anthography
 anthoid
 ankyroid
 anthokyan
+amnesias
 adenoses
 anthol
 antholysis
