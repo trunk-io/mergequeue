@@ -2059,7 +2059,6 @@ facedown
 feinting
 feis
 flatlander
-ferberite
 fogbows
 frauder
 flaunting
@@ -7483,6 +7482,7 @@ finement
 fibromyositis
 foreact
 false
+ferberite
 foreadvice
 foreadvise
 forearmed

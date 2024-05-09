@@ -5763,7 +5763,6 @@ decastich
 deployments
 deftest
 deplorabilia
-deplorability
 deplorableness
 deplorably
 diving
@@ -15867,6 +15866,7 @@ dogproof
 daffadillies
 dosimetrician
 dosing
+deplorability
 dosinia
 dehairer
 darjeeling
