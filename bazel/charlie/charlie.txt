@@ -6638,7 +6638,6 @@ cedis
 cosheath
 chromule
 cedrat
-cedrate
 cedrela
 cedrene
 cedry
@@ -7998,6 +7997,7 @@ catecholamine
 cetane
 cetanes
 cete
+cedrate
 cetera
 ceterach
 cetes
