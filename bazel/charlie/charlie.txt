@@ -1234,7 +1234,6 @@ circumcrescence
 captainly
 calendric
 calendrical
-calendula
 carrageenan
 calendulas
 calendulin
@@ -20375,6 +20374,7 @@ commute
 commuted
 commuter
 cumbersome
+calendula
 commuters
 commutes
 commuting
