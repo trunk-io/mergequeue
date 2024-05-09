@@ -3589,7 +3589,6 @@ embowering
 endoscopy
 embowerment
 embowers
-expendability
 embowing
 embows
 embox
@@ -4574,6 +4573,7 @@ enchanting
 enchantments
 englante
 enchantress
+expendability
 enchants
 encharged
 encharging
