@@ -4993,7 +4993,6 @@ beeping
 beeps
 beer
 beerbachite
-beerbelly
 bees
 beerbibber
 beerhouse
@@ -16765,6 +16764,7 @@ buddies
 budding
 burrito
 boswell
+beerbelly
 buddle
 buddled
 banksman
