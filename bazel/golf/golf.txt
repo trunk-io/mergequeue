@@ -158,7 +158,6 @@ gadwall
 gadwalls
 gae
 glottalization
-gaedelian
 gael
 girth
 gaelic
@@ -5001,6 +5000,7 @@ gougingly
 galvaniser
 glaiket
 gavotted
+gaedelian
 glaiks
 glaymore
 galibi
