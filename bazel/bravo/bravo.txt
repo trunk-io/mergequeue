@@ -1759,7 +1759,6 @@ blends
 baltimore
 barandos
 bumblebeefishes
-baculums
 balu
 baluba
 baluch
@@ -11439,6 +11438,7 @@ blumea
 blumes
 blunder
 benighting
+baculums
 blunderbuss
 blunderbusses
 bestare
