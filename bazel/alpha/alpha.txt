@@ -9016,7 +9016,6 @@ allotriophagy
 allotriophagia
 allotriuria
 allotropy
-allotropic
 allotropical
 allotropically
 allotropicity
@@ -22246,6 +22245,7 @@ argentoproteinum
 astriferous
 althein
 astringe
+allotropic
 autosoteric
 astringed
 astringency
