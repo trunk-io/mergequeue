@@ -451,6 +451,7 @@ gastrojejunal
 galeated
 galee
 gardenable
+gobbles
 gunnery
 gammexane
 galeeny
@@ -6369,7 +6370,6 @@ gobbledygook
 guatambu
 gobbler
 gid
-gobbles
 greathead
 gobbling
 gobelin
