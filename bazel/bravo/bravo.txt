@@ -647,7 +647,6 @@ bacteriology
 breadnut
 bacteriologic
 bacteriologist
-bacteriologists
 bacteriopathology
 burnoose
 buckishly
@@ -12952,6 +12951,7 @@ bordelaise
 banquettes
 bordels
 backpacker
+bacteriologists
 border
 blackberry
 bakeboard

@@ -5982,7 +5982,6 @@ dere
 deprest
 dechlorination
 depreter
-deprevation
 depriment
 deprint
 depriorize
@@ -17697,6 +17696,7 @@ dualin
 dualisms
 dualist
 drugman
+deprevation
 dualistic
 dualize
 deflocculation
