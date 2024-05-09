@@ -8789,7 +8789,6 @@ diazoamine
 diazoaminobenzene
 diazoanhydride
 diazohydroxide
-destituting
 dinettes
 diazoic
 diffident
@@ -9595,6 +9594,7 @@ dihydrated
 disfunctions
 distensibility
 dihydric
+destituting
 dihydrochloride
 dihydrocuprin
 dishonestly
