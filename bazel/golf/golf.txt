@@ -2746,7 +2746,6 @@ genetic
 genetics
 ganymedes
 geomorphological
-genetika
 gurgeon
 genetoid
 genetor
@@ -3240,6 +3239,7 @@ geoteuthis
 gomeril
 geotherm
 geothermic
+genetika
 gelatinobromide
 geoty
 gregarinian

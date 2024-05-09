@@ -7781,7 +7781,6 @@ epigaea
 epigamic
 excesses
 eubranchipus
-epigaster
 epigastraeum
 expectably
 encyclopaedize
@@ -12048,6 +12047,7 @@ exclamations
 exclamative
 earthtongue
 exclamatory
+epigaster
 exclaves
 exclosure
 excavational
