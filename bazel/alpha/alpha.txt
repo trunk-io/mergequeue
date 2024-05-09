@@ -1550,7 +1550,6 @@ acclimatize
 acclimatizer
 acclimatizes
 acrisia
-anticness
 acclinal
 acclinate
 apostatising
@@ -3276,6 +3275,7 @@ actuality
 adnexa
 actualities
 actualization
+anticness
 actualness
 allochromatic
 actuals

@@ -2303,7 +2303,6 @@ fsiest
 fluidness
 fenchene
 fenchone
-fencible
 fencings
 forewarm
 full
@@ -10887,6 +10886,7 @@ fulgur
 fulfill
 fustianist
 fulgural
+fencible
 floccular
 fenerate
 filicic
