@@ -1680,7 +1680,6 @@ eidograph
 eidola
 eidolism
 eidolon
-electromotiv
 eidoptometry
 eidos
 eidouranion
@@ -8559,6 +8558,7 @@ equational
 equationally
 ethicism
 equationist
+electromotiv
 epicorolline
 essentia
 emperies
