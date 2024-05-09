@@ -7631,7 +7631,6 @@ cerebellipetal
 cerebellitis
 cerebellocortex
 constrain
-cerebellopontile
 cerebellorubral
 cerebellospinal
 cerebellum
@@ -7920,6 +7919,7 @@ cervixes
 cervoid
 cervuline
 cervulus
+cerebellopontile
 cervus
 cesare
 cesareans
