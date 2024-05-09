@@ -525,7 +525,6 @@ cadette
 cadettes
 coulis
 competence
-carbuilder
 cadged
 cadger
 cacao
@@ -2801,6 +2800,7 @@ cetorhinoid
 canonizer
 canonizes
 canonizing
+carbuilder
 caesalpinia
 canonry
 canonries
