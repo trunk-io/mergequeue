@@ -8163,6 +8163,7 @@ bicostate
 bicrenate
 bicrofarad
 bicron
+beleap
 bicrural
 bicultural
 bucca
@@ -8982,7 +8983,6 @@ biodegradable
 biodegradation
 becassocked
 biodegrade
-beleap
 bavary
 biodegraded
 biodegrading
