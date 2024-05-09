@@ -54,7 +54,6 @@ annotation
 abacuses
 abaddon
 abadejo
-abadengo
 abadia
 abadite
 argusfish
@@ -24789,6 +24788,7 @@ allegros
 amalaita
 avirulent
 avis
+abadengo
 aflare
 avys
 almas

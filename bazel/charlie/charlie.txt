@@ -7162,6 +7162,7 @@ centimo
 centimos
 centinel
 centinormal
+coracocostal
 centipedes
 crossties
 carites
@@ -24859,7 +24860,6 @@ coracobrachial
 calcimeter
 coracobrachialis
 coracoclavicular
-coracocostal
 coracohyoid
 christiform
 coracohumeral
