@@ -834,7 +834,6 @@ abrogate
 anaglyphy
 antagonisation
 abrogating
-abrogations
 abrogative
 angiomegaly
 abroma
@@ -2109,6 +2108,7 @@ acetonize
 acetophenetide
 acetophenetidin
 acetophenetidine
+abrogations
 astel
 antiodontalgic
 armada
