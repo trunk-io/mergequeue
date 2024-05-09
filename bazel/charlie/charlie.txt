@@ -3711,6 +3711,7 @@ costate
 caraways
 carbachol
 carbacidometer
+congruent
 cryoprotective
 carbamate
 carbamic
@@ -22375,7 +22376,6 @@ congruence
 crystallitis
 congruency
 columella
-congruent
 congruential
 congruism
 corv
