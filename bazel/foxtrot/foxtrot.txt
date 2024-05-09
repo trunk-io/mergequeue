@@ -2834,7 +2834,6 @@ faunae
 filanders
 farmsteads
 fetching
-floreat
 feterita
 foxproof
 fetes
@@ -9879,6 +9878,7 @@ flavanone
 feases
 fulminator
 fundable
+floreat
 frowardly
 freshmen
 filippic
