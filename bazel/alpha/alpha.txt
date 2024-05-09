@@ -7586,7 +7586,6 @@ albums
 adrenocorticotrophin
 arrestable
 alburn
-alburnous
 alburnum
 alburnums
 albus
@@ -19929,6 +19928,7 @@ armet
 armets
 armful
 armfuls
+alburnous
 armgaunt
 agoroth
 armguard
