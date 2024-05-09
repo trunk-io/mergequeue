@@ -5926,7 +5926,6 @@ depredated
 discernibleness
 depredation
 depredationist
-depredations
 droshky
 depredator
 depredatory
@@ -8083,6 +8082,7 @@ dhurra
 detrimentalness
 dhurry
 di
+depredations
 diabase
 diabetes
 diabetical
