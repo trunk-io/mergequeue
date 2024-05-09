@@ -7894,7 +7894,6 @@ fibered
 foresaw
 forescene
 forescent
-forescript
 flowered
 forewarned
 foreseason
@@ -8580,6 +8579,7 @@ forride
 forril
 forrit
 foxish
+forescript
 forsay
 fir
 footmanry
