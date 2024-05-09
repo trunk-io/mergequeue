@@ -28175,7 +28175,6 @@ codiniac
 cranioplasty
 craniorhachischisis
 countercheck
-craniosacral
 cranioschisis
 conforbably
 cranioscopy
@@ -30771,6 +30770,7 @@ culls
 chordates
 culmed
 culmy
+craniosacral
 culmicolous
 critteria
 culmiferous
