@@ -2227,7 +2227,6 @@ canafistola
 computerized
 canafistolo
 canafistula
-canafistulo
 chlorapatite
 canaglia
 canaigre
@@ -31370,6 +31369,7 @@ compressing
 curled
 curledly
 centranthus
+canafistulo
 curledness
 curler
 curlewberry
