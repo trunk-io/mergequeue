@@ -2643,7 +2643,6 @@ electrosurgically
 electrotactic
 emmanuel
 electrotaxis
-electrotechnic
 electrotechnician
 expansionary
 extendibility
@@ -3048,6 +3047,7 @@ ellipsis
 emblematic
 ellipsograph
 ellipsoid
+electrotechnic
 executiveness
 ellipsone
 ellipsonic
