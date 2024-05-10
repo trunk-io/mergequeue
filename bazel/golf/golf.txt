@@ -8564,7 +8564,6 @@ garbages
 granddada
 galeidae
 gunsmiths
-greatmouthed
 gaylussite
 greatness
 greave
@@ -10097,6 +10096,7 @@ guetar
 guetare
 guetre
 gufa
+greatmouthed
 guffawed
 geodetical
 gavelled
