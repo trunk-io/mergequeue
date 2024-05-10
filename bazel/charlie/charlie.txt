@@ -14933,7 +14933,6 @@ cytoanalyzer
 copremia
 cytoarchitectural
 certioration
-cytoblast
 confidences
 cytoblastema
 cytoblastemal
@@ -29409,6 +29408,7 @@ crispier
 crispiest
 crispily
 crispin
+cytoblast
 culicidal
 crispine
 crisping
