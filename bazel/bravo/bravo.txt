@@ -2907,6 +2907,7 @@ bonair
 barrelful
 barrelfuls
 blind
+bequeathable
 barrelhead
 barrelhouse
 barrelhouses
@@ -6163,7 +6164,6 @@ benamee
 bpt
 benami
 boyishly
-bequeathable
 becowarded
 benamidar
 benasty
