@@ -1567,7 +1567,6 @@ deadpans
 deadrise
 displeasurably
 deadweight
-deadwood
 deadwork
 deaerated
 deaeration
@@ -17752,6 +17751,7 @@ dubiousness
 dubitable
 detent
 dubitably
+deadwood
 dubitancy
 dubitant
 dorey
