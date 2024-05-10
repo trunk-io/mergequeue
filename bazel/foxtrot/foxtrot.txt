@@ -197,7 +197,6 @@ foreign
 factoryship
 factorization
 fuzzed
-floatiness
 factorize
 factorizing
 finicking
@@ -3141,6 +3140,7 @@ fibrocartilaginous
 fibrocellular
 flanders
 frowstier
+floatiness
 fibrocement
 forechoice
 fibrocyst
