@@ -6347,7 +6347,6 @@ dag
 distributable
 dermobranchiata
 dovetailed
-derout
 dermobranchiate
 dermococcus
 decolonise
@@ -8029,6 +8028,7 @@ dhaura
 dioscuri
 dhaw
 dialleli
+derout
 dhyal
 departmentize
 dawing
