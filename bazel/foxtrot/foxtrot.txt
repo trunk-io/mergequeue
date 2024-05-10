@@ -3805,7 +3805,6 @@ faze
 forenoted
 foliole
 fatlike
-freckleproof
 froze
 filthifying
 filthily
@@ -5082,6 +5081,7 @@ flatfoot
 flathead
 flatiron
 froom
+freckleproof
 flatirons
 flatlands
 flatlets
