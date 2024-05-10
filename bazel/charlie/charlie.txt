@@ -20062,7 +20062,6 @@ comment
 commentable
 commentary
 commentarialism
-commentate
 corky
 commentated
 chaotically
@@ -25674,6 +25673,7 @@ corporealness
 corporeals
 corporeity
 crankier
+commentate
 corporeous
 corporify
 corporification
