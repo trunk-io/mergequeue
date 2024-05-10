@@ -17454,7 +17454,6 @@ antiforeign
 apostate
 apostates
 apostatic
-apostatical
 apostatically
 apostatise
 astomatal
@@ -24089,6 +24088,7 @@ autogram
 analytic
 asianic
 autographer
+apostatical
 autography
 autographically
 autographing

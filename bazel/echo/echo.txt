@@ -185,7 +185,6 @@ ectoplacenta
 earthset
 embosking
 entwist
-electrodeposit
 exprobratory
 epiclesis
 earthsets
@@ -5787,6 +5786,7 @@ engrasp
 engrave
 engravement
 engraver
+electrodeposit
 entree
 engravers
 engraves
