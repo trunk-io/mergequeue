@@ -9544,7 +9544,6 @@ dulias
 digraph
 digraphically
 digredience
-digrediency
 digredient
 decenaries
 disjunction
@@ -17424,6 +17423,7 @@ dinitrobenzene
 droppage
 dropped
 droppers
+digrediency
 droppy
 dropping
 departmentalisation
