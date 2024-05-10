@@ -19488,6 +19488,7 @@ albolite
 argentic
 allicins
 argenticyanide
+arterial
 argentide
 argentiferous
 affinite
@@ -20487,7 +20488,6 @@ apotropaic
 arteriae
 autere
 arteriagra
-arterial
 arterialise
 arterialization
 arterialize
