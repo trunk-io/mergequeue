@@ -5981,6 +5981,7 @@ belonoid
 belorussian
 belostoma
 backslap
+banshees
 belostomatidae
 bedog
 barkpeeler
@@ -12070,7 +12071,6 @@ boldfaced
 bestowal
 boldfacedly
 boldfacedness
-banshees
 boldfacing
 batodendron
 bootprint
