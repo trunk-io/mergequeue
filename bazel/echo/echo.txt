@@ -3365,7 +3365,6 @@ exponentially
 extempory
 epionynychia
 embars
-embase
 embassadress
 embassy
 epiphytes
@@ -10192,6 +10191,7 @@ ethenic
 ethenyl
 ethenoid
 ethenol
+embase
 ensorcelize
 exploitation
 erythromelalgia

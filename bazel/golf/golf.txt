@@ -5939,7 +5939,6 @@ ghastfulness
 gloxinia
 gloxinias
 glozed
-glozes
 gathering
 gaffers
 glt
@@ -7286,6 +7285,7 @@ goujay
 gossy
 gossip
 gossipdom
+glozes
 gossiped
 glycerolysis
 gossipee
