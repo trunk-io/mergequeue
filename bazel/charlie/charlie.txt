@@ -10131,6 +10131,7 @@ cheshire
 chesil
 cheskey
 campine
+customizer
 cheskeys
 cheslep
 coleochaete
@@ -31734,7 +31735,6 @@ customization
 customizations
 customize
 customized
-customizer
 customizers
 customizes
 customizing
