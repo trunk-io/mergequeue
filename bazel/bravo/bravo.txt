@@ -1588,7 +1588,6 @@ ballistician
 brachioganoidei
 ballisticians
 ballistocardiogram
-ballistocardiograph
 ballistocardiography
 bifurcate
 beheadlined
@@ -14593,6 +14592,7 @@ brassy
 brassica
 brassicaceae
 brassicaceous
+ballistocardiograph
 brassicas
 backworm
 brassier
