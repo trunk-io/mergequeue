@@ -9705,6 +9705,7 @@ alveolonasal
 alveolosubnasal
 alveolus
 alveus
+averruncate
 alviducous
 alvin
 ambidexterous
@@ -22620,7 +22621,6 @@ athyria
 acronymous
 athyrid
 athyroid
-averruncate
 athyroidism
 athyrosis
 abcess
