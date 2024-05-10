@@ -9949,6 +9949,7 @@ chemoreceptive
 chemoreceptivity
 chemoreceptivities
 castrating
+circulatable
 chemoreceptor
 crystallisation
 chemoreflex
@@ -14292,7 +14293,6 @@ checklists
 circularly
 circularness
 circulars
-circulatable
 circulated
 crockeryware
 circulation
