@@ -8902,7 +8902,6 @@ folia
 fleuron
 fotmal
 foud
-foudroyant
 feeblemindedly
 folkvang
 forum
@@ -11432,6 +11431,7 @@ furnarius
 furnish
 furnishable
 flamenship
+foudroyant
 folkvangr
 fluoroformol
 flannelmouthed

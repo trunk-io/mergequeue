@@ -16318,7 +16318,6 @@ downrush
 downset
 dismes
 downshare
-downshift
 downshifted
 downshifts
 downshore
@@ -18668,6 +18667,7 @@ derivability
 dwarfs
 dwarves
 dwell
+downshift
 dwelled
 dweller
 dwelling
