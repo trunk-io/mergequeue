@@ -11631,7 +11631,6 @@ anaerobium
 avanti
 anaerophyte
 anaphylactic
-anaeroplasty
 anaeroplastic
 anaesthesiology
 anaesthesiologist
@@ -16089,6 +16088,7 @@ antireality
 antirebating
 aparaphysate
 antired
+anaeroplasty
 adaptedness
 antireducer
 autotrophically
