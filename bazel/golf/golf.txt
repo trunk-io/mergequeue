@@ -258,7 +258,6 @@ ghostlike
 gipsire
 gibs
 ghostwrote
-gainyield
 grafter
 galiots
 gordiacean
@@ -7751,6 +7750,7 @@ grallae
 greenrooms
 geophone
 goldminer
+gainyield
 glagol
 grallic
 groaners
