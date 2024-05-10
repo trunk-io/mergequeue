@@ -9606,7 +9606,6 @@ compathy
 checkrooms
 checkrope
 colleagued
-chemicked
 checkrow
 checkrowed
 checkrower
@@ -28099,6 +28098,7 @@ crampoon
 crampoons
 cramps
 cran
+chemicked
 cranage
 cranberries
 cranch
