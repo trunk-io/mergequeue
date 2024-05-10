@@ -5538,7 +5538,6 @@ freshmanic
 fleers
 flaxlike
 flybrush
-felsophyre
 flatulences
 favourite
 firefight
@@ -7720,6 +7719,7 @@ forehook
 forehooves
 forpit
 fibrolipoma
+felsophyre
 floatmaker
 floodlights
 finnack
