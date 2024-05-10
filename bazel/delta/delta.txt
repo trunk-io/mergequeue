@@ -1510,6 +1510,7 @@ deactivation
 deactivations
 deactivators
 distressedness
+dreamwhile
 doublure
 deadcenter
 deeryards
@@ -16929,7 +16930,6 @@ deadflat
 dreamt
 dreamtide
 dreamtime
-dreamwhile
 drearfully
 directive
 discomedusoid
