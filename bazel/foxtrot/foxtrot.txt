@@ -3203,7 +3203,6 @@ fibrosis
 fibrosities
 fibrositis
 fibrospongiae
-fibrotuberculosis
 farreate
 figurative
 fibrously
@@ -4549,6 +4548,7 @@ filister
 footweary
 fitches
 fruitgrowing
+fibrotuberculosis
 fitchew
 fitful
 foggier
