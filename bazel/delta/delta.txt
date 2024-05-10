@@ -5533,6 +5533,7 @@ deoxidiser
 dorsiventrality
 deoxidize
 deoxidizer
+dread
 dreggy
 deoxidizers
 deoxidizes
@@ -16876,7 +16877,6 @@ defortify
 drawtube
 decanically
 drazel
-dread
 deprocedured
 dreadable
 dreaded
