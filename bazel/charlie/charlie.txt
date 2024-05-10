@@ -12576,7 +12576,6 @@ chromophobic
 chromophore
 chromophoric
 chromophorous
-chromophotograph
 chromophotography
 chromophotographic
 cranky
@@ -28616,6 +28615,7 @@ creepiness
 chammies
 creepmouse
 creeps
+chromophotograph
 creese
 creeses
 cinchonine
