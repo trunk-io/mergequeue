@@ -17468,7 +17468,6 @@ cobblestones
 chokeweed
 cobbling
 cobbra
-cobbs
 chloritoid
 calixtin
 cobcab
@@ -27717,6 +27716,7 @@ cowman
 connumeration
 coworkers
 chivage
+cobbs
 cowpat
 cowpats
 curtalax
