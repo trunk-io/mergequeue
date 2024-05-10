@@ -6624,7 +6624,6 @@ enterogram
 enterograph
 enterography
 encompasser
-enterohemorrhage
 estatesman
 enantiomeric
 enterohydrocele
@@ -12406,6 +12405,7 @@ evader
 exfetation
 expects
 exfiguration
+enterohemorrhage
 extracathedral
 exfiltrate
 egolatrous
