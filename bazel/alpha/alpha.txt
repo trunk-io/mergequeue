@@ -13427,7 +13427,6 @@ ankylos
 abound
 ankylosaur
 ankyloses
-anantherate
 antihumbuggist
 ankylosing
 ankylosis
@@ -22372,6 +22371,7 @@ astrophotography
 abrader
 astrophotographic
 astrophotometer
+anantherate
 astrophotometry
 astrophotometrical
 astroscopy
