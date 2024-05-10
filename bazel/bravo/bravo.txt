@@ -3857,7 +3857,6 @@ barrington
 baulea
 baulk
 baulked
-baulky
 brache
 behowling
 bunjara
@@ -4733,6 +4732,7 @@ bathymetrically
 bacterioid
 bella
 busywork
+baulky
 bedims
 bedirter
 brothellike
