@@ -7196,7 +7196,6 @@ detainment
 detar
 detassel
 detat
-detd
 detect
 defoliating
 daishiki
@@ -9732,6 +9731,7 @@ diligence
 dynasties
 diligences
 depolarizer
+detd
 diligent
 debentured
 dilis
