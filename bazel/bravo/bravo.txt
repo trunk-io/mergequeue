@@ -7075,7 +7075,6 @@ borderism
 besmircher
 besmirchers
 billethead
-besmirches
 besmirchment
 besmoke
 bruiser
@@ -13453,6 +13452,7 @@ bibliophile
 bra
 boudoiresque
 boudoirs
+besmirches
 bagman
 bouet
 beatermen
