@@ -5399,6 +5399,7 @@ eparchate
 endurability
 endurance
 endurant
+embroiling
 endure
 engorges
 ensnarled
@@ -10564,7 +10565,6 @@ etuve
 etuvee
 epulary
 etwas
-embroiling
 extusion
 encraal
 etwee
