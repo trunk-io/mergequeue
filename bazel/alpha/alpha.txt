@@ -499,7 +499,6 @@ abjurations
 abjuratory
 abjured
 abjurement
-abjurer
 abjurers
 abjures
 abkar
@@ -14909,6 +14908,7 @@ antichthones
 acuan
 azoology
 autospray
+abjurer
 antimachinery
 anticyclic
 anticyclical
