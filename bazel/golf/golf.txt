@@ -8149,6 +8149,7 @@ grammarians
 grippingness
 glareous
 grylli
+gulp
 georgium
 garamond
 graphometric
@@ -10380,7 +10381,6 @@ globuliferous
 grein
 groundplot
 gillbird
-gulp
 giller
 gulpers
 geepound
