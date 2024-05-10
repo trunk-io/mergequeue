@@ -2210,6 +2210,7 @@ electability
 electable
 electant
 electary
+exauthorizeexc
 epithet
 enthraldom
 erected
@@ -11833,7 +11834,6 @@ exaun
 ectothermic
 endemiological
 exauthorate
-exauthorizeexc
 epileptics
 earlyish
 excalate
