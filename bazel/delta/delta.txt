@@ -9283,7 +9283,6 @@ dog
 dermatophagus
 diethylaminoethanol
 diethylethanolamine
-dolomization
 diethylmalonylurea
 diethylstilboestrol
 dekaliters
@@ -16854,6 +16853,7 @@ drawknives
 deliquescent
 drawlatch
 drawled
+dolomization
 diaphanoscopy
 drawlier
 drawliest

@@ -3037,6 +3037,7 @@ beduin
 brainwashing
 bimetal
 breastplate
+burseed
 bakerite
 boffola
 basipoditic
@@ -17319,7 +17320,6 @@ blotched
 bumkin
 bothridiums
 bibliomancy
-burseed
 berretta
 bummack
 bikeways
