@@ -13270,7 +13270,6 @@ aniridia
 anisado
 anabolic
 artamus
-amygdalus
 anisal
 anisaldehyde
 araks
@@ -16837,6 +16836,7 @@ abstricts
 aphelinus
 aphelion
 ascogonial
+amygdalus
 aphemia
 aphemic
 aphengescope
