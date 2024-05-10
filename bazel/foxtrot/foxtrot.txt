@@ -4315,7 +4315,6 @@ forb
 fisetin
 focuser
 fibroplastic
-fishability
 fishback
 fishberry
 forebackwardly
@@ -10605,6 +10604,7 @@ frowzled
 frowzly
 foreland
 frsiket
+fishability
 frsikets
 fourposters
 frt
