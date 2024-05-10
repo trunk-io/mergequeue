@@ -10296,7 +10296,6 @@ amentaceous
 amental
 arundineous
 ankylopoietic
-algaroth
 amentia
 amentiferae
 amentiform
@@ -13189,6 +13188,7 @@ animalivorous
 animalization
 animalize
 animalized
+algaroth
 animally
 alapa
 animallike
