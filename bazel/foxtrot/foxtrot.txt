@@ -8827,6 +8827,7 @@ floppiest
 fossettes
 feucht
 flon
+formability
 fossicked
 fossicker
 fiants
@@ -11197,7 +11198,6 @@ fungicides
 fungicolous
 flummoxes
 fungiferous
-formability
 fervently
 fraughted
 fibronuclear
