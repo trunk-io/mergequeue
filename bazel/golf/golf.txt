@@ -4579,7 +4579,6 @@ gypsine
 gipsiologist
 gypsite
 gypsyweed
-gypsywise
 gipsywort
 gorgio
 gypsywort
@@ -4877,6 +4876,7 @@ goaltending
 gyve
 giveable
 gederite
+gypsywise
 gunbright
 gandhism
 gant
