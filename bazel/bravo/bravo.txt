@@ -1587,7 +1587,6 @@ boilermaker
 ballistae
 bijous
 ballistician
-brachioganoidei
 ballisticians
 ballistocardiogram
 ballistocardiograph
@@ -16819,6 +16818,7 @@ buffalo
 buffaloback
 blasty
 buffaloes
+brachioganoidei
 buffalofish
 botheration
 buffaloing
