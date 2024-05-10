@@ -4780,7 +4780,6 @@ glossarian
 gaize
 gallomania
 guisard
-graecism
 girted
 girthed
 galactoside
@@ -7947,6 +7946,7 @@ grandstanding
 grandtotal
 geographics
 granduncle
+graecism
 granduncles
 grane
 gunrooms
