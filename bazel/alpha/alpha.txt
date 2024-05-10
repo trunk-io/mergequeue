@@ -3182,6 +3182,7 @@ actinopraxis
 aget
 actinopteran
 actinopteri
+armures
 actinopterygian
 amylopsase
 actinoscopy
@@ -20064,7 +20065,6 @@ armsful
 amyelinic
 armure
 activistic
-armures
 arn
 achromatinic
 arnatta
