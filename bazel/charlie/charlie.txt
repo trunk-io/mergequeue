@@ -15835,6 +15835,7 @@ clavolae
 clavolet
 chapel
 clavus
+cosharer
 clavuvi
 clawed
 clawer
@@ -26091,7 +26092,6 @@ cosettler
 cosh
 codable
 collectables
-cosharer
 coshed
 cosher
 cupreine
