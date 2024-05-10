@@ -3982,7 +3982,6 @@ carcharioid
 congredient
 carcharodont
 correctify
-carcinemia
 carcinogenesis
 carcinogenic
 colorimetry
@@ -27977,6 +27976,7 @@ cradlemaker
 cradlemaking
 cradlemate
 cradler
+carcinemia
 celeomorphic
 cradlers
 cradles
