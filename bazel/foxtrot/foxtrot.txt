@@ -5157,7 +5157,6 @@ fiot
 flatwoods
 fonder
 flaunch
-flaunched
 ferie
 flaunter
 funest
@@ -6821,6 +6820,7 @@ fevers
 foldage
 favellilidia
 fuzing
+flaunched
 foldaway
 foldboater
 farmings
