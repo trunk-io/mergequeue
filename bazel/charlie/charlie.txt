@@ -3491,7 +3491,6 @@ cuirie
 capsulorrhaphy
 capsulotomy
 captacula
-coequation
 captaculum
 captain
 captaincy
@@ -30601,6 +30600,7 @@ clinicist
 cucurbitine
 compromis
 cud
+coequation
 cuda
 chanelled
 caterwauls

@@ -1974,7 +1974,6 @@ feebleness
 feebler
 feebless
 feebly
-fratriage
 feeblish
 fulldo
 flammivomous
@@ -5511,6 +5510,7 @@ fram
 flexures
 flyable
 fascicle
+fratriage
 flyback
 foreflank
 flancards
