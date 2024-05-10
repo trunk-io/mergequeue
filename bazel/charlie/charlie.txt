@@ -1269,7 +1269,6 @@ calibrating
 calibrations
 calibre
 calibred
-calibres
 chromatophilia
 cyanohydrin
 caliburn
@@ -13059,6 +13058,7 @@ cyanine
 cyanines
 cyanins
 contingent
+calibres
 cyanite
 cyanitic
 columnating
