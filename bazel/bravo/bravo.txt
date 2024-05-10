@@ -5257,7 +5257,6 @@ bastes
 begaud
 bobbled
 bothsided
-barlock
 begaze
 begazes
 begazing
@@ -9729,6 +9728,7 @@ bismer
 bismerpund
 bismillah
 bipartisanism
+barlock
 bismite
 bismosol
 bismuth
