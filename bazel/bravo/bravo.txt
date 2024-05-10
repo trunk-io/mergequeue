@@ -7045,6 +7045,7 @@ besit
 beslab
 bromism
 beslabber
+bowshot
 beslap
 beslave
 barks
@@ -13831,7 +13832,6 @@ bowsaw
 bowsed
 bowser
 baccalaurean
-bowshot
 bowshots
 bowsie
 bowsprit
