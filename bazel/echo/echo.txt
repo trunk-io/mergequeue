@@ -7190,7 +7190,6 @@ euphonym
 enzym
 ensample
 enzymatic
-evillest
 enzymes
 enzymic
 exiguous
@@ -7642,6 +7641,7 @@ epicranium
 entophytic
 emplead
 epicranius
+evillest
 epicrasis
 electees
 epicrates
