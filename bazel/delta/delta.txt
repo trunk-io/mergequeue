@@ -792,7 +792,6 @@ danelaw
 dungeon
 dermititis
 daneweed
-daneweeds
 danged
 detections
 dangerfully
@@ -15649,6 +15648,7 @@ didascaliae
 decedent
 doozies
 dopa
+daneweeds
 determine
 dopas
 diaristic

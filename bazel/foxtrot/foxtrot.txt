@@ -5255,7 +5255,6 @@ flax
 flaxboard
 fissural
 frivolously
-foamer
 flaxy
 flammeous
 fribblers
@@ -10489,6 +10488,7 @@ frontonasal
 fotive
 frontons
 fruitwood
+foamer
 fleetingness
 flodge
 fetterer
