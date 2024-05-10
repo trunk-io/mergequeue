@@ -12975,7 +12975,6 @@ biophysicochemical
 bulder
 bordroom
 borinqueno
-bordun
 bordure
 buckbeans
 bordures
@@ -14253,6 +14252,7 @@ birefracting
 brahmas
 brahmi
 blowback
+bordun
 brahmin
 brahminic
 brahminism
