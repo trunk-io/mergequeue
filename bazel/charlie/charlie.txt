@@ -2038,6 +2038,7 @@ cephalopagus
 campaniliform
 campanini
 campanist
+catapults
 campanistic
 campanologer
 crucis
@@ -5641,7 +5642,6 @@ catapuce
 catapulted
 catapultic
 catapultier
-catapults
 cataract
 cataracted
 cataractous
