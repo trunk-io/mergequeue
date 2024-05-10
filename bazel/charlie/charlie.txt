@@ -19327,6 +19327,7 @@ colonies
 colonisability
 colonisable
 colonisationist
+convectively
 colonise
 colonised
 colonising
@@ -23996,7 +23997,6 @@ crewelist
 convection
 caitanyas
 convective
-convectively
 carpetbagged
 convects
 caproyl
