@@ -1522,7 +1522,6 @@ baralipton
 bousing
 becost
 ballas
-ballast
 baronetised
 ballastage
 bulbiform
@@ -4987,6 +4986,7 @@ beeped
 bunt
 bricks
 boltless
+ballast
 beeping
 beeps
 beer
