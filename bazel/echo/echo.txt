@@ -3148,7 +3148,6 @@ else
 elsehow
 elseways
 endemiology
-elsewhen
 exaggerators
 elsewhere
 elsewheres
@@ -13214,6 +13213,7 @@ eschars
 exploded
 eucarpous
 eutechnic
+elsewhen
 eponymize
 extrorsely
 entozoarian
