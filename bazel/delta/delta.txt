@@ -3151,7 +3151,6 @@ demihuman
 defamy
 defaming
 defamingly
-defamous
 deadworks
 dollyway
 defat
@@ -13832,6 +13831,7 @@ distylar
 desisting
 distyle
 distill
+defamous
 deles
 distillable
 dollhouse
