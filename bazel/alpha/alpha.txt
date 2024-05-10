@@ -1825,7 +1825,6 @@ accusator
 associates
 accusatory
 apectomy
-accusatorial
 accusatorially
 accusatrix
 accusatrixes
@@ -16153,6 +16152,7 @@ amenta
 antiscia
 adherence
 antiscientific
+accusatorial
 antiscii
 antiscion
 acrotarsium
