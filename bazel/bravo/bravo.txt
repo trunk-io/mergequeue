@@ -518,7 +518,6 @@ backstitched
 biserial
 billhead
 backstitches
-briming
 backstitching
 broadway
 backstop
@@ -5477,6 +5476,7 @@ behest
 bemixed
 behests
 beehouse
+briming
 behew
 busybodied
 behymn
