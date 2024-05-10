@@ -15530,6 +15530,7 @@ chicane
 claptraps
 clapwort
 culbuter
+cleamer
 claque
 calipering
 claquer
@@ -15856,7 +15857,6 @@ clead
 cleaded
 cord
 cleam
-cleamer
 confectioneries
 clean
 cleanable
