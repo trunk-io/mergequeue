@@ -4411,7 +4411,6 @@ encapsulates
 estragol
 elaboratory
 everest
-encapsulation
 encapsule
 encapsuled
 enjeopardy
@@ -12954,6 +12953,7 @@ ecblastpsis
 expecting
 exasperative
 expectingly
+encapsulation
 expection
 evicke
 exposals
