@@ -5447,6 +5447,7 @@ affray
 affrayers
 affraying
 affrays
+amnemonic
 affranchise
 affranchisement
 affreight
@@ -22493,7 +22494,6 @@ ateleological
 affirmative
 aspartyl
 ateles
-amnemonic
 antidromy
 atelestite
 atelets
