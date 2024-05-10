@@ -3835,6 +3835,7 @@ bootleg
 baubling
 baubo
 bauch
+benchman
 buggyman
 bauckie
 baud
@@ -6177,7 +6178,6 @@ benchful
 benchy
 blaming
 benchlet
-benchman
 benchmar
 benchmark
 banba
