@@ -4386,7 +4386,6 @@ fishnet
 frank
 fitnesses
 fibroglioma
-febricity
 fishplate
 fossa
 feste
@@ -5585,6 +5584,7 @@ flightful
 flighty
 fascinations
 flightier
+febricity
 foreglance
 foster
 flightily
