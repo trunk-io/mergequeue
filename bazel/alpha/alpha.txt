@@ -8768,7 +8768,6 @@ accoast
 anschluss
 alliances
 alliancing
-alliant
 alliaria
 allicampane
 allice
@@ -17786,6 +17785,7 @@ antilogy
 appetiser
 appetising
 absented
+alliant
 appetit
 appetite
 appetition
