@@ -20469,7 +20469,6 @@ artefac
 artefacts
 assentation
 artels
-artemas
 artemia
 artemis
 aeroenterectasia
@@ -22931,6 +22930,7 @@ atropisms
 atropos
 atropous
 atrorubent
+artemas
 arroba
 atrosanguineous
 atroscine
