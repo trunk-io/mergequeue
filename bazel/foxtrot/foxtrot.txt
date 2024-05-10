@@ -4974,6 +4974,7 @@ flannelleaves
 floc
 flannelly
 flannelmouth
+florets
 ferries
 fedelini
 flannels
@@ -8694,7 +8695,6 @@ fortieth
 fortieths
 fortify
 fortifier
-florets
 fortifiers
 fortifies
 fafnir
