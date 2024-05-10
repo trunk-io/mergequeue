@@ -6255,7 +6255,6 @@ expediencies
 exalte
 enringed
 enringing
-embalms
 enrobe
 enrobed
 essenize
@@ -9761,6 +9760,7 @@ enfoil
 evilsayer
 esplanade
 esplees
+embalms
 espontoon
 espousage
 espousals
