@@ -42,6 +42,7 @@ earache
 enumerated
 emigrational
 earbash
+elastica
 earbob
 esperance
 earclip
@@ -2088,7 +2089,6 @@ equatoreal
 elastase
 excretory
 elastases
-elastica
 extrapolator
 epictetian
 elastically
