@@ -2622,7 +2622,6 @@ frowziness
 ferrites
 frailties
 ferritic
-fortuitus
 fiduciaries
 forechamber
 forbidden
@@ -11409,6 +11408,7 @@ furls
 furmenty
 furmenties
 felling
+fortuitus
 furmeties
 fluencies
 faradizes
