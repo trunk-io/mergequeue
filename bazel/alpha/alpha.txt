@@ -11877,7 +11877,6 @@ anangioid
 anangular
 autoantitoxin
 ananias
-addable
 astronauts
 ananym
 ananism
@@ -13209,6 +13208,7 @@ animaters
 angekok
 animates
 animating
+addable
 animatingly
 animation
 animatism
