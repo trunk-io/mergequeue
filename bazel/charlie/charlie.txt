@@ -2243,6 +2243,7 @@ canalage
 canalatura
 canalboat
 charales
+chlamydozoan
 canale
 canaled
 canaler
@@ -11226,7 +11227,6 @@ chlamydosaurus
 chlamydoselachidae
 cleaning
 chlamydozoa
-chlamydozoan
 chlamyphore
 chlamyphorus
 chlamys
