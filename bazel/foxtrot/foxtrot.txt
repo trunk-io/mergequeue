@@ -3431,7 +3431,6 @@ fifteenths
 fabricate
 fifty
 fifties
-fumiduct
 fiftieth
 forseen
 forefeet
@@ -5973,6 +5972,7 @@ floorway
 fluidrachm
 floorward
 fictioneering
+fumiduct
 floorwise
 fabes
 flus
