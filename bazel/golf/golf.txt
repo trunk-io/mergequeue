@@ -6345,7 +6345,6 @@ gob
 goban
 gobbe
 glycemic
-guttling
 gobbed
 gobber
 girja
@@ -9220,6 +9219,7 @@ grocers
 gedanken
 globulose
 gastric
+guttling
 grockle
 gamely
 groenendael
