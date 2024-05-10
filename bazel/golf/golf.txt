@@ -3025,6 +3025,7 @@ geocyclic
 geocline
 geocoronium
 gordunite
+geomorphogeny
 geocratic
 geraniols
 geodaesia
@@ -5710,7 +5711,6 @@ glomerulate
 glomerule
 glomerulonephritis
 glomerulose
-geomorphogeny
 graphomaniac
 galapee
 geraniol
