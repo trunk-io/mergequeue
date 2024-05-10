@@ -1230,7 +1230,6 @@ azlactone
 apheliotropic
 acalyptratae
 acalyptrate
-acamar
 acampsia
 acana
 apesthesia
@@ -21419,6 +21418,7 @@ aspergillin
 arteriogram
 adpromissor
 aspergilloses
+acamar
 aspergillosis
 aspergillum
 aseptify
