@@ -3022,7 +3022,6 @@ ella
 equipoises
 electrothermostat
 ellagic
-ellasar
 ellebore
 elleck
 ellenyard
@@ -5500,6 +5499,7 @@ enfatico
 enfavor
 enfeeble
 episcopy
+ellasar
 enfeeblements
 empestic
 espiritual

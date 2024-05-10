@@ -8737,7 +8737,6 @@ billposting
 buchmanism
 billsticker
 bubalis
-billtong
 bilobate
 bilobe
 bilobed
@@ -8949,6 +8948,7 @@ biocenosis
 biocenotic
 biocentric
 biochemy
+billtong
 beslow
 bungler
 babooism
