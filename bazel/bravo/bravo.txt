@@ -4761,7 +4761,6 @@ bedlamized
 brandishers
 bedlamizing
 bedlamps
-bedlams
 bursula
 bottled
 bedlar
@@ -8092,6 +8091,7 @@ bicyclers
 bicyclic
 bicycling
 bicyclism
+bedlams
 blastaea
 biked
 bicyclist
