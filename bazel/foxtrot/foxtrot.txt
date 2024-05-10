@@ -141,6 +141,7 @@ fidgets
 facsim
 facsimile
 facsimiled
+fracturable
 fastest
 facsimileing
 frigidaria
@@ -1075,7 +1076,6 @@ farmerly
 fireworm
 farmerlike
 fletcherize
-fracturable
 farmership
 formicarian
 farmhouse
