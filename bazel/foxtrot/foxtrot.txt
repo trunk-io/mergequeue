@@ -1080,7 +1080,6 @@ feronia
 farmhousey
 fontinalaceae
 fuzzle
-forthcomer
 farmyard
 ferlies
 farmyardy
@@ -8306,6 +8305,7 @@ fork
 forkbeard
 forkedness
 frostbites
+forthcomer
 forkers
 forkfuls
 forkhead
