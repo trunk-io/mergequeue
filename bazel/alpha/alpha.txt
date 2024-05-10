@@ -1929,7 +1929,6 @@ acerdol
 acerli
 acerola
 acerolas
-acerous
 acertannin
 acerval
 acervate
@@ -7832,6 +7831,7 @@ academias
 anthozooid
 archy
 aphidicide
+acerous
 aldazine
 aldoheptose
 antiphrastical
