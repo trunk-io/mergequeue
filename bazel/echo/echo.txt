@@ -9549,6 +9549,7 @@ escoba
 escobadura
 escobilla
 empetrous
+eulerian
 escolar
 escolars
 escopeta
@@ -10800,7 +10801,6 @@ eulamellibranchiata
 embruted
 eulamellibranchiate
 electrical
-eulerian
 epithecicia
 etrier
 eulimidae
