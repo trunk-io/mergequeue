@@ -5796,7 +5796,6 @@ glossed
 glossematic
 grenado
 glossemes
-glossemic
 glossers
 gondi
 glossy
@@ -6220,6 +6219,7 @@ gombos
 gressible
 gnessic
 gomarist
+glossemic
 gnetaceous
 gnetales
 gastrogenous

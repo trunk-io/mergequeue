@@ -15786,7 +15786,6 @@ clavering
 clavi
 chirres
 clavy
-claviature
 clavicembalist
 clavicembalo
 claviceps
@@ -21351,6 +21350,7 @@ clast
 conciliabulum
 centremost
 conciliarism
+claviature
 conciliarly
 conciliated
 commissionship
