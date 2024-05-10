@@ -2489,7 +2489,6 @@ excepting
 engines
 euphony
 echoist
-electromagnetism
 electromagnetist
 escalloping
 eyesores
@@ -3524,6 +3523,7 @@ embolize
 embolo
 embolomalerism
 ectoskeleton
+electromagnetism
 embolomycotic
 embolon
 elms
