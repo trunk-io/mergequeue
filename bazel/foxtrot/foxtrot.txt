@@ -5599,6 +5599,7 @@ flying
 flyings
 flyleaves
 flyless
+filius
 firebrands
 fusee
 flyman
@@ -6549,7 +6550,6 @@ fusains
 flutiest
 fluctuate
 fraist
-filius
 flytail
 flutina
 fluting
