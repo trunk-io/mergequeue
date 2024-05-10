@@ -1118,7 +1118,6 @@ farrel
 felicitously
 fortnightlies
 farrier
-fastback
 farrisite
 farrowing
 fluorins
@@ -2981,6 +2980,7 @@ feuillants
 feuilleton
 feuilletons
 fleches
+fastback
 flapcake
 feulamort
 facier
