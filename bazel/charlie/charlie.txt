@@ -6369,7 +6369,6 @@ cauterisation
 cauterise
 cauterised
 cauterising
-cauterism
 cataloging
 cauterization
 correcter
@@ -11778,6 +11777,7 @@ cuffle
 commissionary
 chon
 chonchina
+cauterism
 chondral
 chondralgia
 chondrarsenite
