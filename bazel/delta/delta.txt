@@ -4761,7 +4761,6 @@ demitranslucence
 demits
 demitted
 denticulately
-demitting
 demitube
 diglyph
 dilutive
@@ -6733,6 +6732,7 @@ desilicated
 desilicify
 degummer
 desilicified
+demitting
 dyestuff
 desiliconization
 dribbed
