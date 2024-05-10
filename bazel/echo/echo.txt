@@ -8419,7 +8419,6 @@ extrapleural
 epizoal
 epizoic
 epizoisms
-elasmotherium
 eudaemonia
 essera
 emittent
@@ -13218,6 +13217,7 @@ explode
 eschars
 exploded
 eucarpous
+elasmotherium
 eutechnic
 eponymize
 extrorsely
