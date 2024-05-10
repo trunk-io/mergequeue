@@ -5863,6 +5863,7 @@ floccose
 fluvanna
 flaggers
 failsoft
+foreright
 fangas
 fossick
 flocculator
@@ -9900,7 +9901,6 @@ fress
 fresser
 fret
 fontally
-foreright
 fallibleness
 felonsetter
 fatals
