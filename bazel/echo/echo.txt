@@ -2274,7 +2274,6 @@ electrizable
 electrization
 earthenware
 epigonus
-electro
 electroacoustic
 etruscan
 electroacoustical
@@ -8682,6 +8681,7 @@ expander
 equipment
 equipoise
 equipollency
+electro
 evasively
 euphemizing
 epilepsy
