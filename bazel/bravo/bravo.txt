@@ -1265,7 +1265,6 @@ bedim
 balan
 balance
 bedstead
-bardie
 balanceable
 bafflements
 bluejays
@@ -7586,6 +7585,7 @@ beveled
 bevelers
 bevelled
 beveller
+bardie
 bookbinder
 biathlon
 bevenom
