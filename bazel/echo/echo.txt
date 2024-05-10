@@ -4501,7 +4501,6 @@ encephalographically
 entrainer
 enamelling
 elsewhat
-eelware
 encephaloid
 enforcing
 encephalolith
@@ -8610,6 +8609,7 @@ equigranular
 equilater
 equilateral
 equilaterally
+eelware
 enthrones
 equilibrant
 equilibrate

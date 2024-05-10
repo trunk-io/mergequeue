@@ -4666,7 +4666,6 @@ advertisements
 advertiser
 advertisers
 albication
-ankhs
 arrowstone
 amulets
 assuagable
@@ -15645,6 +15644,7 @@ antimonopolistic
 antimonopolization
 antimonous
 antimonsoon
+ankhs
 antimoral
 antimoralism
 avale
