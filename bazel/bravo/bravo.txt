@@ -10351,7 +10351,6 @@ blanche
 balant
 blanched
 blancher
-blanches
 blancmange
 besnows
 blancmanges
@@ -13314,6 +13313,7 @@ benzophenanthroline
 bothrenchyma
 butterpaste
 bothria
+blanches
 bothridia
 bontequagga
 bothriocephalus
