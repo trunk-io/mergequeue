@@ -3907,7 +3907,6 @@ bawdrics
 bawdries
 bawl
 bevelment
-bawled
 bawley
 bawler
 bawlers
@@ -6527,6 +6526,7 @@ basirhinal
 benzothiodiazole
 benzothiofuran
 benzothiophene
+bawled
 benzothiopyran
 benzotriazole
 benzotrichloride
