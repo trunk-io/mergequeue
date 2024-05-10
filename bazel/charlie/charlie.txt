@@ -2151,6 +2151,7 @@ campodeoid
 campody
 campong
 campongs
+cowrie
 camponotus
 campoody
 coteline
@@ -27737,7 +27738,6 @@ cowpuncher
 cowquake
 champagnizing
 cowry
-cowrie
 cowries
 cowroid
 cows
