@@ -2949,7 +2949,6 @@ eliminator
 earmarked
 engineering
 eliminators
-elymus
 elinguate
 elinguated
 elinguating
@@ -7510,6 +7509,7 @@ entailer
 epiblemata
 epibole
 epiboly
+elymus
 epiboulangerite
 entelechial
 enwoven
