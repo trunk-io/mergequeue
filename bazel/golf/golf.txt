@@ -7295,6 +7295,7 @@ gossipdom
 gossiped
 glycerolysis
 gossipee
+groundmass
 gossiper
 gadolinium
 gossiphood
@@ -9441,7 +9442,6 @@ groundliness
 goldmist
 germicides
 groundlings
-groundmass
 groundneedle
 groundout
 gros
