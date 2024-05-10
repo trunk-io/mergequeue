@@ -6414,6 +6414,7 @@ grubstaker
 gibblegable
 guarantorship
 geographic
+globing
 goblins
 gobo
 gobony
@@ -8333,7 +8334,6 @@ gratin
 gasproof
 gcd
 gratingly
-globing
 gratings
 gyromele
 gratins

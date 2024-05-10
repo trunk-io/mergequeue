@@ -11724,7 +11724,6 @@ enfile
 eunuchized
 exaltate
 exaltation
-excurvature
 exaltations
 epiphytology
 eggfish
@@ -13902,6 +13901,7 @@ extranational
 evulge
 erective
 exporter
+excurvature
 extranean
 extraneity
 eolith
