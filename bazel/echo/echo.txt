@@ -5740,7 +5740,6 @@ entrail
 engloom
 englut
 encampments
-engluts
 etagere
 englutted
 englutting
@@ -8844,6 +8843,7 @@ exclusionist
 erecter
 erecters
 erectile
+engluts
 erecting
 easternly
 ethnicon
