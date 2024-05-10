@@ -2453,7 +2453,6 @@ eduskunta
 exterminative
 electrokinetics
 elasticum
-electroless
 electrolier
 epopoeist
 existently
@@ -5900,6 +5899,7 @@ echowise
 enigmatist
 enigmatize
 enigmatizing
+electroless
 enigmatographer
 exempts
 eternities
