@@ -5225,7 +5225,6 @@ glycidic
 garnetwork
 glavering
 glazer
-glazers
 glazes
 glaziery
 glaziers
@@ -7871,6 +7870,7 @@ grumping
 grandeur
 gliriform
 grandevity
+glazers
 grandeza
 gymnopaedes
 gymnolaema
