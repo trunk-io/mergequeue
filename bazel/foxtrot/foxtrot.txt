@@ -5289,7 +5289,6 @@ fissidactyl
 fluorites
 fleabite
 fricandoes
-fleabites
 fringelike
 friskier
 foreclosing
@@ -6515,6 +6514,7 @@ flusterer
 flustery
 fondnesses
 frightenable
+fleabites
 facades
 flustrated
 flustration
