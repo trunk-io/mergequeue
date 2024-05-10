@@ -8849,7 +8849,6 @@ cobriform
 chapeled
 chapeless
 convalescency
-chapelet
 chapelgoer
 crenelle
 chapelgoing
@@ -11720,6 +11719,7 @@ chariotee
 cholesterin
 chappow
 cholesterinic
+chapelet
 cholesterinuria
 cholesterol
 cholesterolemia
