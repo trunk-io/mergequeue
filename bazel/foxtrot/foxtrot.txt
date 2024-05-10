@@ -5815,6 +5815,7 @@ flneuse
 finickier
 feff
 fload
+farer
 ferulas
 floatage
 farmeries
@@ -7354,7 +7355,6 @@ fullnesses
 fleshlessness
 facultative
 feathered
-farer
 foragers
 foramination
 foraminifer
