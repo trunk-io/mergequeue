@@ -4991,7 +4991,6 @@ framableness
 formalising
 flappers
 flappet
-flappy
 faraway
 flapping
 flywire
@@ -8342,6 +8341,7 @@ forktail
 ferromagneticism
 fruiterer
 faceup
+flappy
 fantail
 forlay
 forlain
