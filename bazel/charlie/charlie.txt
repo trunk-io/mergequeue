@@ -12249,6 +12249,7 @@ cuadrillas
 crossbench
 chrysemys
 cynodon
+claritude
 chrysene
 chrysid
 countercouchant
@@ -14841,7 +14842,6 @@ citadel
 citadels
 cital
 cytase
-claritude
 cytasic
 cytasters
 coralberry
