@@ -5004,7 +5004,6 @@ galvaniser
 glaiket
 gavotted
 glaiks
-glaymore
 galibi
 glair
 glaire
@@ -7098,6 +7097,7 @@ gollywog
 gora
 gorals
 goran
+glaymore
 gorb
 gorbal
 gorbelly
