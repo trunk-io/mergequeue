@@ -5370,7 +5370,6 @@ begorra
 begorry
 begotten
 broadaxe
-blastier
 begottenness
 bryogenin
 begowk
@@ -10443,6 +10442,7 @@ bengal
 blashy
 blasia
 blason
+blastier
 blaspheme
 blasphemed
 blasphemes
