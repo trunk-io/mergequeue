@@ -5223,7 +5223,6 @@ caskets
 casky
 casking
 casklike
-casks
 caspar
 castings
 casparian
@@ -7828,6 +7827,7 @@ coliiformes
 certifiableness
 certificate
 certificated
+casks
 certificates
 collisions
 certifications
