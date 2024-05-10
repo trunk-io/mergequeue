@@ -2607,7 +2607,6 @@ gendarmery
 geobotanical
 gendarmerie
 guided
-gendarmes
 gigacycle
 genderer
 goliardery
@@ -9263,6 +9262,7 @@ grolieresque
 glycerole
 gromatical
 gromatics
+gendarmes
 gromia
 gilbertine
 galivanting
