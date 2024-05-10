@@ -4477,6 +4477,7 @@ gynic
 goasila
 gink
 geometdecrne
+gloss
 grides
 graplines
 ginks
@@ -5774,7 +5775,6 @@ grizzler
 glandulous
 genipapada
 gravedo
-gloss
 grutches
 glossa
 glossolabiolaryngeal
