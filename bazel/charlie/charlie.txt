@@ -19862,7 +19862,6 @@ comfortabilities
 comfortableness
 comfortably
 comfortation
-comfortative
 comforter
 comforters
 comfortful
@@ -21856,6 +21855,7 @@ confab
 confabs
 confabulate
 confabulated
+comfortative
 confabulating
 confabulations
 confabulator
