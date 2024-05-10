@@ -1101,7 +1101,6 @@ faroelite
 franzy
 foremast
 farolito
-ferriages
 farrage
 foldstool
 farrago
@@ -9475,6 +9474,7 @@ foreteeth
 frape
 frappe
 frappeing
+ferriages
 frappes
 frondescence
 frapping
