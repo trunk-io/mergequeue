@@ -6338,7 +6338,6 @@ benni
 bennies
 benomyl
 benorth
-bands
 bensall
 bensell
 bensh
@@ -8998,6 +8997,7 @@ bioecology
 bioecological
 bioecologically
 bioecologies
+bands
 biochemically
 bioecologist
 bioelectric
