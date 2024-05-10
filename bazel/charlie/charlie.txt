@@ -1640,7 +1640,6 @@ calorimetric
 calorimetrical
 calorimetrically
 calorimotor
-calorist
 calorite
 calorize
 calorized
@@ -13200,6 +13199,7 @@ cibory
 cessions
 chinotti
 ciboules
+calorist
 cyc
 cicad
 cicada
