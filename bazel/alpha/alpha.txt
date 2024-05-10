@@ -8759,7 +8759,6 @@ allhallowtide
 allheals
 ally
 alliaceae
-auspicial
 alliage
 arragonite
 alliance
@@ -16187,6 +16186,7 @@ antisepticising
 antisepticism
 accipiter
 antisepticize
+auspicial
 ascertainable
 antisepticized
 archine
