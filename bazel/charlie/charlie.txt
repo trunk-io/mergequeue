@@ -142,6 +142,7 @@ cabled
 cablegram
 cablegrams
 cablelaid
+cesura
 cableless
 cablelike
 cableman
@@ -7800,7 +7801,6 @@ ceroplastics
 ceros
 cerosin
 cerote
-cesura
 cerotic
 cerotin
 cerotypes
