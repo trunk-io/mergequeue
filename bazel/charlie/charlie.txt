@@ -1862,6 +1862,7 @@ cambuca
 cambuscan
 came
 camel
+compactions
 camelback
 cameleer
 culverins
@@ -20423,7 +20424,6 @@ cinderlike
 compacting
 compaction
 cincinnus
-compactions
 compactly
 chondrodynia
 compactor

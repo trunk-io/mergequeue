@@ -2728,7 +2728,6 @@ acquire
 acquirement
 acquiring
 amaranthoid
-acquisite
 acquisited
 acquisitional
 acquisitive
@@ -14183,6 +14182,7 @@ antemedial
 alining
 antemeridian
 antemetallic
+acquisite
 antemetic
 antemillennial
 antemingent
