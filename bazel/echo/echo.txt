@@ -4964,7 +4964,6 @@ endogastric
 enderon
 enders
 endexine
-eardrum
 endgate
 enfief
 eumitotic
@@ -8407,6 +8406,7 @@ epivalve
 epizeuxis
 extravagantes
 extraforaneous
+eardrum
 erodible
 extrapleural
 epizoal
