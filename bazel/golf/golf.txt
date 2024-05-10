@@ -805,6 +805,7 @@ genae
 galvanoplasty
 gavel
 gridder
+goldenness
 galvanopsychic
 galvanopuncture
 goatherd
@@ -6556,7 +6557,6 @@ gauchest
 galliard
 guaharibo
 girrock
-goldenness
 glidewort
 goldenrod
 gucked
