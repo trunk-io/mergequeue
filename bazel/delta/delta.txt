@@ -5813,7 +5813,6 @@ depopulator
 deaconries
 deport
 deportability
-debilities
 deportation
 deportations
 deportee
@@ -14293,6 +14292,7 @@ downstage
 diverberate
 diverged
 dregginess
+debilities
 dispireme
 divergement
 divergencies
