@@ -7514,6 +7514,7 @@ gownsman
 gallflies
 gravamens
 gownsmen
+gramme
 gilia
 garaging
 gowpen
@@ -7802,7 +7803,6 @@ grammatite
 glossotherium
 gastroenterostomy
 gelatification
-gramme
 groggiest
 gumwood
 guildsman
