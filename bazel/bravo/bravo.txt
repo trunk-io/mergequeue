@@ -4737,7 +4737,6 @@ bedirter
 brothellike
 bedirtied
 bedirtying
-bedismal
 bedizen
 bemitered
 beekmantown
@@ -8528,6 +8527,7 @@ bilaterality
 bilateralities
 behaviors
 betangle
+bedismal
 bilaterally
 blackheads
 bilati
