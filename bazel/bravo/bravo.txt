@@ -2675,7 +2675,6 @@ barleymow
 barleys
 barless
 brisque
-barly
 barling
 barghest
 barlow
@@ -3475,6 +3474,7 @@ badgerly
 bastions
 battutas
 bastite
+barly
 brushfire
 bastnasite
 balanoglossus
