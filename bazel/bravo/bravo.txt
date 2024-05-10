@@ -901,7 +901,6 @@ bistratal
 baghdad
 bluishness
 bagie
-baginda
 bromonaphthalene
 bagio
 bagios
@@ -8377,6 +8376,7 @@ bigarreau
 basifier
 bigas
 bigate
+baginda
 bigbloom
 bigbury
 bigemina
