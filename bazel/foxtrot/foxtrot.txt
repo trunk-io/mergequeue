@@ -5971,7 +5971,6 @@ floorshow
 floorway
 fluidrachm
 floorward
-fictioneering
 floorwise
 fabes
 flus
@@ -11329,6 +11328,7 @@ forepiece
 flexured
 focalising
 firedog
+fictioneering
 fellen
 furciferine
 feverfew
