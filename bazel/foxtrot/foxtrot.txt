@@ -1438,7 +1438,6 @@ fatless
 frivoller
 farcies
 fatly
-fatling
 fancical
 fourieristic
 fatness
@@ -9530,6 +9529,7 @@ fratry
 fulcrate
 foreward
 foothil
+fatling
 fratricelli
 fratricide
 fratricides
