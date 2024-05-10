@@ -862,7 +862,6 @@ gambeer
 gambeered
 glauke
 grants
-gambelli
 gambeson
 gambesons
 gambetta
@@ -8628,6 +8627,7 @@ greekize
 greekling
 grammars
 geranials
+gambelli
 greeks
 gerontological
 giglets
