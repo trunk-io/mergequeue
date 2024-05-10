@@ -17645,7 +17645,6 @@ alteregoism
 appeal
 appealable
 arsono
-appealed
 appealer
 appealers
 appealing
@@ -18201,6 +18200,7 @@ aptitudes
 amphidisk
 aptitudinal
 antagonised
+appealed
 aptitudinally
 aptly
 aptness
