@@ -968,6 +968,7 @@ despisement
 dentaria
 daren
 darer
+deploy
 darers
 dargah
 darghin
@@ -5740,7 +5741,6 @@ depletive
 denutrition
 decarboxylating
 depletory
-deploy
 deploying
 deployment
 dispansive
