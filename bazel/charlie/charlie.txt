@@ -9249,7 +9249,6 @@ chondrigenous
 chasmogamy
 chasmogamic
 chasmogamous
-chasmophyte
 chass
 chasse
 cauliculus
@@ -25796,6 +25795,7 @@ corrigible
 chainbearer
 curassows
 corrigibleness
+chasmophyte
 chatta
 corrigibly
 corrigiola
