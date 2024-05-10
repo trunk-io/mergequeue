@@ -18783,6 +18783,7 @@ archbeacon
 archbeadle
 aridge
 autocephality
+alkermes
 archbishopess
 archbishopry
 archbishopric
@@ -24925,7 +24926,6 @@ awaked
 axemaster
 awakened
 amarna
-alkermes
 awakener
 awakeners
 awakening
