@@ -1141,7 +1141,6 @@ abusefulness
 abuser
 aminomyelin
 abusers
-abuses
 abusion
 abusious
 anythingarianism
@@ -24723,6 +24722,7 @@ aviated
 adulterates
 adjoined
 aviatic
+abuses
 aviating
 aviation
 auscult
