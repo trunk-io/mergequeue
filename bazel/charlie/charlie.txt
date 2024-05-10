@@ -11563,6 +11563,7 @@ costless
 chokage
 choke
 chokeberry
+constraining
 certif
 chokeberries
 chokecherry
@@ -21388,7 +21389,6 @@ comparts
 concio
 concional
 concionate
-constraining
 concionator
 commemorational
 concionatory
