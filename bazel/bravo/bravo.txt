@@ -8124,7 +8124,6 @@ bicolored
 barret
 bleakish
 bicolorous
-bicolors
 bicoloured
 bicolourous
 benchwork
@@ -14687,6 +14686,7 @@ brawnier
 brawnily
 bove
 braxy
+bicolors
 braxies
 braza
 brazas
