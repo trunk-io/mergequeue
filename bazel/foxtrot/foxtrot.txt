@@ -703,6 +703,7 @@ famine
 famished
 faming
 freewill
+fuliguline
 fired
 famishing
 famose
@@ -9281,7 +9282,6 @@ fragmentary
 freeborn
 floroon
 fragmentariness
-fuliguline
 fragmented
 fragmenting
 fragmentise
