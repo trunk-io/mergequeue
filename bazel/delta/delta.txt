@@ -8779,7 +8779,6 @@ drinkable
 decke
 diazoalkane
 depeter
-diazoamine
 diazoaminobenzene
 diazoanhydride
 diazohydroxide
@@ -11660,6 +11659,7 @@ discordance
 discordancy
 discordancies
 discordant
+diazoamine
 dipetalous
 discordantly
 discordantness
