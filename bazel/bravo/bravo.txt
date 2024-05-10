@@ -549,6 +549,7 @@ bishopless
 backups
 backus
 backveld
+bryologies
 bayok
 backvelder
 beagle
@@ -15432,7 +15433,6 @@ backshish
 beardlike
 brynza
 brioches
-bryologies
 bryologist
 bisso
 briony

@@ -5342,6 +5342,7 @@ caste
 casted
 casteism
 casteisms
+clayware
 casteless
 chimerical
 castellany
@@ -15353,7 +15354,6 @@ claithes
 clayton
 claytonia
 claiver
-clayware
 claywares
 clayweed
 clam
