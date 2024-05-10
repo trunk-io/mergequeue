@@ -2642,6 +2642,7 @@ cankerwort
 canli
 coff
 combinatorics
+chapters
 canmaker
 climbs
 canman
@@ -8922,7 +8923,6 @@ chapteral
 chaptered
 chapterhouse
 chaptering
-chapters
 chaptrel
 chapwoman
 chaqueta
