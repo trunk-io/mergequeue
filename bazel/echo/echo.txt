@@ -2413,7 +2413,6 @@ emerges
 exfoliatory
 ethanol
 electrogalvanization
-equalization
 electrogenetic
 equivalence
 enharbor
@@ -5812,6 +5811,7 @@ engrossers
 engrossingness
 endocarditic
 engulf
+equalization
 epicardial
 euthyroid
 engulfing
