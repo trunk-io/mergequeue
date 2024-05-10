@@ -9284,7 +9284,6 @@ conjugally
 chastiment
 chastisable
 chastise
-chastised
 chastiser
 chastisers
 clapperboard
@@ -16636,6 +16635,7 @@ coadmire
 clonking
 clonorchiasis
 crypt
+chastised
 clonorchis
 chapeaus
 cosponsorships
