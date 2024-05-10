@@ -715,7 +715,6 @@ fanfish
 famuli
 fana
 fossilised
-fanakalo
 feministics
 faceman
 flittiness
@@ -7539,6 +7538,7 @@ farceur
 forebrace
 forestaff
 fizzling
+fanakalo
 foreburton
 fuzzing
 forebush
