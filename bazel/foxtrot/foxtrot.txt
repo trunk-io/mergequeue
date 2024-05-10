@@ -2039,6 +2039,7 @@ fegs
 feh
 fingerfish
 feigher
+fishiness
 fillercap
 fretted
 formlessness
@@ -4364,7 +4365,6 @@ furlers
 fatuousness
 fishifying
 fishily
-fishiness
 fishing
 frenum
 flanched
