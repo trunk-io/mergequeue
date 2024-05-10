@@ -2310,7 +2310,6 @@ driech
 dekaparsec
 deformism
 decentred
-decentring
 dactylioglyphic
 danglement
 drat
@@ -8296,6 +8295,7 @@ diaheliotropic
 doree
 dyak
 diaka
+decentring
 duskly
 dikamalli
 diakinesis
