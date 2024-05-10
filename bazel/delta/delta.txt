@@ -9408,7 +9408,6 @@ digamies
 digamma
 digammas
 digammate
-digammated
 digammic
 digastric
 dibatag
@@ -9763,6 +9762,7 @@ dilos
 dilucid
 dilucidate
 diluendo
+digammated
 diluent
 dilutant
 dilute
