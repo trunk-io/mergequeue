@@ -5325,7 +5325,6 @@ glaucophane
 grippy
 gyrant
 gloppy
-gorilla
 glibly
 grenier
 glibness
@@ -8747,6 +8746,7 @@ gobonated
 get
 gair
 gurniad
+gorilla
 grim
 gregariniform
 goodenoviaceae
