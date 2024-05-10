@@ -2729,7 +2729,6 @@ fertilizers
 foremelt
 ferula
 foghorns
-ferulaceous
 ferular
 foreimpression
 ferule
@@ -5940,6 +5939,7 @@ floods
 finestiller
 facingly
 forst
+ferulaceous
 fingerboards
 fortifiable
 frounces
