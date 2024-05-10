@@ -347,6 +347,7 @@ backfields
 backfiller
 backfilling
 backfills
+baggily
 backfired
 backfires
 backfiring
@@ -6806,7 +6807,6 @@ buffoons
 buccinae
 bermudite
 beshrouding
-baggily
 burrowers
 buhlwork
 bernacle
