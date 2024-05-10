@@ -4153,7 +4153,6 @@ blearedness
 bearbane
 buccheros
 bearberry
-bearberries
 bearbind
 bearcat
 bearcats
@@ -15856,6 +15855,7 @@ bromlite
 bromo
 bromoacetone
 bidiurnal
+bearberries
 bromoauric
 bromobenzene
 balsameaceae
