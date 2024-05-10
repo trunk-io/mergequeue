@@ -11529,7 +11529,6 @@ anacharis
 anachorism
 anachromasis
 anachronical
-aerospace
 accolated
 alfred
 apodes
@@ -22288,6 +22287,7 @@ astrodome
 astrofel
 astrofell
 astrogated
+aerospace
 amphitheatral
 astrogating
 agreeing
