@@ -2225,7 +2225,6 @@ gconv
 gdinfo
 gds
 grayfish
-grinnellia
 gaycat
 gastrotomy
 gorrel
@@ -4863,6 +4862,7 @@ goad
 groat
 gitterns
 ganglioblast
+grinnellia
 gangliar
 giulio
 gasometer
