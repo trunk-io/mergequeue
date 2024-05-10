@@ -6234,7 +6234,6 @@ eccentric
 encoignure
 enraptured
 engagee
-exopterygotic
 enraptures
 enrapturing
 enravish
@@ -8321,6 +8320,7 @@ epitheliomas
 egyptians
 epithalamiast
 elvan
+exopterygotic
 epitheliosis
 epitheliotoxin
 enheritage
