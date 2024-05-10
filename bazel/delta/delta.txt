@@ -5789,7 +5789,6 @@ depolymerization
 depolymerize
 dipneedle
 depolish
-davened
 depolished
 dogbush
 deaconed
@@ -15245,6 +15244,7 @@ derries
 dolomitic
 dilators
 despiritualize
+davened
 descriptives
 dorididae
 dolomitise

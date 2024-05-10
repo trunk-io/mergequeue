@@ -7581,6 +7581,7 @@ ceraunomancy
 costmary
 ceraunophone
 ceraunoscope
+consensus
 ceraunoscopy
 cerberic
 cerberus
@@ -18063,7 +18064,6 @@ coalitional
 coendidae
 coendure
 coendures
-consensus
 coenenchym
 casualness
 cephalosporin
