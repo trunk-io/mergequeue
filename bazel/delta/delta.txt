@@ -717,7 +717,6 @@ dopester
 dance
 danceability
 danceable
-diaskeuast
 danced
 diddled
 degasification
@@ -15717,6 +15716,7 @@ dormette
 dormeuse
 dormice
 dormient
+diaskeuast
 dormilona
 dormins
 dormitary
