@@ -6861,7 +6861,6 @@ exogamous
 entomology
 effray
 extraterritorial
-exocentric
 entomological
 entomologically
 entomologies
@@ -10887,6 +10886,7 @@ eupanorthus
 endarteria
 eupatorium
 eupatrid
+exocentric
 eupatridae
 eupatrids
 eluent
