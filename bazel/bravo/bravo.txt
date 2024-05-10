@@ -57,7 +57,6 @@ babel
 bolbonac
 berouged
 babeldom
-babelet
 babelish
 barouches
 bluestoner
@@ -3449,6 +3448,7 @@ bastile
 bastiles
 bastille
 bastilles
+babelet
 biggah
 bastiment
 bastinaded
