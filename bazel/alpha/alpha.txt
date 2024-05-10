@@ -6883,6 +6883,7 @@ airflows
 airfoil
 airfoils
 airframes
+astringency
 adiate
 abortus
 airglow
@@ -22255,7 +22256,6 @@ althein
 astringe
 autosoteric
 astringed
-astringency
 astringent
 astringents
 astringer
