@@ -5321,7 +5321,6 @@ guardsman
 gendered
 galbanum
 grenade
-glenlike
 glomerulus
 glenohumeral
 glenoid
@@ -8705,6 +8704,7 @@ gorge
 greenly
 greenling
 gyving
+glenlike
 greenovite
 greenroom
 greensauce
