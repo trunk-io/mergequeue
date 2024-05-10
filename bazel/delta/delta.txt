@@ -8866,7 +8866,6 @@ dicebox
 dicecup
 debituminize
 diced
-diceman
 dicentras
 dicephalous
 dicephalus
@@ -12943,6 +12942,7 @@ disparts
 dispassion
 dunfish
 dispassionate
+diceman
 deathful
 dispassionateness
 daughterhood
