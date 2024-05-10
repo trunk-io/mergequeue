@@ -9643,6 +9643,7 @@ elaidinic
 exodermal
 eskuara
 ergatandry
+eireannach
 eslisor
 executives
 esmeralda
@@ -11809,7 +11810,6 @@ egomanias
 epimerise
 exareolate
 exarillate
-eireannach
 eth
 ectogenic
 exasperate
