@@ -17921,7 +17921,6 @@ codworm
 coe
 coed
 chantage
-coedit
 coedited
 coediting
 coeditors
@@ -25640,6 +25639,7 @@ corporalities
 corporally
 cack
 corporals
+coedit
 corporalship
 corporas
 corporate
