@@ -5526,7 +5526,6 @@ deoxidative
 dibbles
 deoxidisation
 deadest
-deoxidised
 deoxidiser
 dorsiventrality
 deoxidize
@@ -5546,6 +5545,7 @@ deoxyribonucleotide
 deozonization
 demiking
 deozonizer
+deoxidised
 dolichos
 depaganize
 depainted
