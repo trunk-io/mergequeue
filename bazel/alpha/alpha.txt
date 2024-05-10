@@ -238,7 +238,6 @@ abd
 abdali
 aba
 abdaria
-abdat
 abashing
 abderian
 admonition
@@ -22775,6 +22774,7 @@ aquo
 atomic
 atomical
 atomically
+abdat
 atomician
 adelphoi
 ahnfeltia
