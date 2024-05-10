@@ -284,6 +284,7 @@ backare
 burdensomeness
 backarrow
 barefisted
+bore
 backarrows
 backband
 backbar
@@ -12978,7 +12979,6 @@ bordure
 buckbeans
 bordures
 butein
-bore
 boreable
 boread
 boreal
