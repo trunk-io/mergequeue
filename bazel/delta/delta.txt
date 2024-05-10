@@ -1981,6 +1981,7 @@ dimorphic
 desugars
 decaedron
 decaesarize
+decking
 decaffeinate
 decaffeinated
 depicted
@@ -10086,7 +10087,6 @@ dodecahedra
 dindon
 dyne
 dynel
-decking
 dinero
 digestive
 disrupted
