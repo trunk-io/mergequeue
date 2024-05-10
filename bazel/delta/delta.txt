@@ -7946,7 +7946,6 @@ dextro
 dextroamphetamine
 dextroaural
 dextrocardia
-drunkery
 dextrocardial
 dextrocerebral
 durenol
@@ -12857,6 +12856,7 @@ distains
 disposal
 disoperculate
 desmosome
+drunkery
 disopinion
 depressionary
 dainful
