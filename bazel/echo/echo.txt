@@ -1691,7 +1691,6 @@ expire
 effie
 eyeberry
 ertebolle
-eyeblack
 eyeblink
 eyebright
 exorcistical
@@ -9975,6 +9974,7 @@ encave
 encydlopaedic
 encompasses
 ecdysons
+eyeblack
 eugenicist
 esthetics
 esthetology
