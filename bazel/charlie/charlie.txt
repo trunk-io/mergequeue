@@ -2021,6 +2021,7 @@ campagnols
 campagus
 campaign
 campaigner
+clotheshorses
 campaigners
 campaigning
 campaigns
@@ -16710,7 +16711,6 @@ clothes
 clothesbag
 clothesbasket
 clothesbrush
-clotheshorses
 clothesyard
 clothesless
 cirrus
