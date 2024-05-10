@@ -5179,7 +5179,6 @@ guider
 gunpaper
 glassworker
 glassworm
-gushed
 glasswort
 gnomish
 gees
@@ -9049,6 +9048,7 @@ grimsir
 grimsire
 grin
 germination
+gushed
 grinch
 geoid
 groose
