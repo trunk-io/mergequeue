@@ -3721,7 +3721,6 @@ battailant
 browntop
 blackest
 bally
-battakhin
 bagwoman
 battalias
 battarismus
@@ -6212,6 +6211,7 @@ benedicite
 benedicks
 benedicta
 benedictine
+battakhin
 bletonism
 benedictinism
 belinuridae
