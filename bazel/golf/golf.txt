@@ -5789,7 +5789,6 @@ glossectomy
 glossematic
 grenado
 glossemes
-glossemic
 glossers
 gondi
 glossy
@@ -10838,6 +10837,7 @@ geason
 gillied
 girderless
 globins
+glossemic
 giraffish
 growze
 guzzling
