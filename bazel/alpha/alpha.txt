@@ -14155,6 +14155,7 @@ anaesthyl
 anteflexed
 antefurcae
 antefurcal
+appressorial
 antehall
 antehypophysis
 aquaculture
@@ -17999,7 +18000,6 @@ appress
 appressed
 appressor
 appressoria
-appressorial
 appressorium
 aphoria
 appreteur
