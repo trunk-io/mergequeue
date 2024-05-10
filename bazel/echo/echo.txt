@@ -6347,7 +6347,6 @@ enshade
 enshawl
 ensheath
 ensheathe
-embiotocid
 ensheathing
 explores
 ensheaths
@@ -10911,6 +10910,7 @@ ethnobotanist
 endostomata
 electrodiagnoses
 euphausiidae
+embiotocid
 eisteddfodau
 exercises
 epicauta
