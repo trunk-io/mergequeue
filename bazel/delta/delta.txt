@@ -5184,6 +5184,7 @@ deneutralization
 deny
 deniability
 deniable
+deleted
 deniably
 denial
 dentinoid
@@ -6799,7 +6800,6 @@ decompositional
 desklike
 deskman
 desks
-deleted
 destined
 deslime
 desma
