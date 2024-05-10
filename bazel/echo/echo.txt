@@ -118,7 +118,6 @@ enchisel
 earreach
 earrings
 ears
-earshot
 edifies
 earsplitting
 earspool
@@ -1042,6 +1041,7 @@ enhamper
 edessan
 evenhanded
 electioneered
+earshot
 endoskeleton
 eqpt
 edgar
