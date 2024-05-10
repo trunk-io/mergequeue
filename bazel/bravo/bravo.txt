@@ -1910,7 +1910,6 @@ banditti
 bandle
 bandleader
 blastoff
-bandlet
 breadwinners
 bandlimits
 bandmaster
@@ -5178,6 +5177,7 @@ budworm
 befop
 before
 biotic
+bandlet
 beforementioned
 bagpod
 beforeness
