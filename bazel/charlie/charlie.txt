@@ -15349,6 +15349,7 @@ cloisteral
 clairsentience
 clairsentient
 clairvoyance
+cueva
 clairvoyances
 clairvoyancy
 clairvoyant
@@ -30658,7 +30659,6 @@ cuerpo
 cuprotungstite
 cues
 cuestas
-cueva
 capitulating
 cuff
 cuffed

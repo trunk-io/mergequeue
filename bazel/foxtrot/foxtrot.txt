@@ -2406,6 +2406,7 @@ fenester
 flaxseed
 feoffors
 fidelis
+followed
 feoffs
 fumant
 fand
@@ -11418,7 +11419,6 @@ feverish
 fleckless
 fluent
 fossed
-followed
 ferrimagnetic
 furnacelike
 fosters
