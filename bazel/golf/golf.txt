@@ -35,7 +35,6 @@ gabbling
 grittiness
 gabbro
 gabbroid
-gabbroitic
 gabelleman
 gabendum
 gowf
@@ -9346,6 +9345,7 @@ grosgrain
 gypsies
 grosgrains
 gramineous
+gabbroitic
 gripped
 gunpowderous
 gross
