@@ -3639,7 +3639,6 @@ caramels
 conjugable
 commendam
 carancha
-carancho
 caranda
 caranday
 carandas
@@ -31887,6 +31886,7 @@ cutwater
 cutwaters
 cutweed
 cutwork
+carancho
 carbineers
 collow
 cutworm
