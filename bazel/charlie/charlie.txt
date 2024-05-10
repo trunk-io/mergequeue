@@ -2092,7 +2092,6 @@ coalbin
 camphines
 campho
 camphocarboxylic
-camphoid
 camphol
 campholic
 campholide
@@ -14900,6 +14899,7 @@ cityless
 cytinaceae
 cityness
 citynesses
+camphoid
 citing
 cytinus
 chinantecs
