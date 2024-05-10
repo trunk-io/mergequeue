@@ -10140,6 +10140,7 @@ chess
 chessart
 chessboard
 chessboards
+coelom
 chessdom
 chessel
 chesser
@@ -17985,7 +17986,6 @@ coelodont
 coelogastrula
 coelogyne
 coeloglossum
-coelom
 charging
 coeloma
 coelomata

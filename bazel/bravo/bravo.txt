@@ -2452,7 +2452,6 @@ bareback
 bareboat
 borderside
 bareboats
-barrener
 bareboned
 bemuffle
 barebones
@@ -16207,6 +16206,7 @@ brownouts
 brachysclereid
 brownstone
 brownstones
+barrener
 browntail
 brownweed
 brownwort
