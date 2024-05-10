@@ -2339,7 +2339,6 @@ griseofulvin
 gorgonacean
 geyerite
 geiger
-gangrel
 gandered
 guavina
 gorgoneia
@@ -10143,6 +10142,7 @@ guidable
 guidance
 git
 gelid
+gangrel
 guide
 guideboard
 guidebooky
