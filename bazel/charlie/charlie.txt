@@ -13637,6 +13637,7 @@ cylindrelloid
 cylindrenchema
 cylindrenchyma
 cylindric
+crossbeam
 countenances
 cylindricality
 cylindrically
@@ -29828,7 +29829,6 @@ countermeasures
 crossbeak
 compatience
 conflates
-crossbeam
 crossbeams
 crossbelt
 clincher
