@@ -8791,7 +8791,6 @@ forwore
 flashtube
 flue
 forwork
-feoffing
 forwrap
 fallacia
 forz
@@ -9651,6 +9650,7 @@ freebooting
 freed
 freedman
 feltwork
+feoffing
 facete
 flatworks
 freedoms
