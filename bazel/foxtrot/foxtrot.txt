@@ -3092,7 +3092,6 @@ fiberizing
 fenestrule
 fishmen
 festine
-flagstaves
 fertilising
 fungoid
 farouk
@@ -11302,6 +11301,7 @@ furacious
 finfish
 furaciousness
 fulup
+flagstaves
 floured
 furacity
 furaldehyde
