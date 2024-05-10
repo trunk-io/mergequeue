@@ -4448,7 +4448,6 @@ gingivectomy
 guberniya
 golfs
 gigerium
-gingivolabial
 gashy
 gays
 ginglymi
@@ -5594,6 +5593,7 @@ grapeys
 grillwork
 globalization
 gymnasium
+gingivolabial
 gypsum
 globalize
 gaugeably
