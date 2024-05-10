@@ -3011,7 +3011,6 @@ canulae
 canulas
 canulate
 canulated
-canulates
 canulating
 comatic
 canun
@@ -30164,6 +30163,7 @@ crudity
 crudities
 crudle
 cruds
+canulates
 crudwort
 cruel
 cruelhearted
