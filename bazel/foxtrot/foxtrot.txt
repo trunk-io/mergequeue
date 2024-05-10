@@ -5482,7 +5482,6 @@ frough
 flexes
 flexibilities
 favouredly
-family
 flexibilty
 forgedly
 flexile
@@ -8722,6 +8721,7 @@ filtrable
 fortread
 foreordains
 fortresses
+family
 furors
 finchery
 fortuity
