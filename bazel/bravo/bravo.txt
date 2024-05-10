@@ -5260,7 +5260,6 @@ begattal
 bastes
 begaud
 bobbled
-bothsided
 barlock
 begaze
 begazes
@@ -16976,6 +16975,7 @@ babylonic
 bulb
 bulbar
 bulbed
+bothsided
 bulbel
 bulby
 bulbier
