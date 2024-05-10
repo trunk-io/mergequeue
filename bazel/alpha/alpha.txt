@@ -12305,7 +12305,6 @@ andamenta
 andamentos
 andante
 ancre
-arightly
 andantini
 allopatric
 andantino
@@ -19965,6 +19964,7 @@ armillary
 armillaria
 annist
 armillas
+arightly
 armillate
 armine
 arming
