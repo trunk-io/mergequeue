@@ -2642,7 +2642,6 @@ genear
 genecology
 gradienter
 genecor
-griever
 genep
 genepi
 genera
@@ -4421,6 +4420,7 @@ gnashing
 gingerberry
 gawked
 geopony
+griever
 gingerbready
 galeopsis
 ghetto
