@@ -13326,6 +13326,7 @@ cycledom
 cycler
 cyclers
 comonomer
+circumflex
 cycles
 cyclesmith
 castoridae
@@ -14368,7 +14369,6 @@ chave
 circumferential
 circumferentially
 circumflant
-circumflex
 cawnie
 circumfluence
 cantillation
