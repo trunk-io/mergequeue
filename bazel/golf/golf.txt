@@ -1942,6 +1942,7 @@ gatewoman
 galidictis
 gatherable
 gilgai
+grusian
 gatherers
 graplins
 greenfishes
@@ -6911,7 +6912,6 @@ guineas
 gonadectomies
 genealogic
 goatishly
-grusian
 girllike
 galloman
 gooders
