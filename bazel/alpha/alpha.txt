@@ -7656,7 +7656,6 @@ augments
 alchemised
 actinozoal
 antilepsis
-alchemister
 alchemistical
 amatorious
 antennulary
@@ -21894,6 +21893,7 @@ apocinchonine
 achoke
 accommodator
 anientise
+alchemister
 associationalist
 associationism
 antiegoist
