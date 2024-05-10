@@ -3916,7 +3916,6 @@ dejectedness
 dejection
 dejectly
 devested
-dactyloid
 dejects
 dejecture
 dejeration
@@ -15422,6 +15421,7 @@ debated
 dominos
 discontentful
 dominule
+dactyloid
 dominus
 dozy
 domite
