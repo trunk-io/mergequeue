@@ -6922,6 +6922,7 @@ flyboy
 floccosely
 feudovassalism
 foreignization
+flense
 folkmoots
 fauchard
 firetower
@@ -11111,7 +11112,6 @@ firemaster
 functionalized
 functionated
 frameae
-flense
 forbidder
 functionation
 functioned
