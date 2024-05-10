@@ -12392,7 +12392,6 @@ electrode
 evectant
 exertion
 exertionless
-emotionlessness
 emictory
 exertions
 exertive
@@ -13624,6 +13623,7 @@ erratum
 exteriorizing
 exteriorness
 exoduses
+emotionlessness
 emigated
 elephantidae
 exterminate
