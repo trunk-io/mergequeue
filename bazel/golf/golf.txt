@@ -5711,7 +5711,6 @@ grx
 gregau
 glomerulate
 glomerule
-glomerulonephritis
 glomerulose
 geomorphogeny
 graphomaniac
@@ -10661,6 +10660,7 @@ guserid
 gaultherine
 galanas
 gush
+glomerulonephritis
 glucogene
 garvock
 glossocoma
