@@ -5562,7 +5562,6 @@ deparliament
 delighting
 devocalised
 depart
-departed
 dwining
 denials
 departer
@@ -9213,6 +9212,7 @@ dimnesses
 dictynid
 diencephala
 diencephalic
+departed
 diencephalon
 diener
 dienes
