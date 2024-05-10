@@ -9122,7 +9122,6 @@ biophysic
 branchstand
 biophysics
 biophysiography
-bindweb
 biophysiology
 biophysiologist
 backfire
@@ -11791,6 +11790,7 @@ bodykins
 bodiless
 bodiliness
 bodilize
+bindweb
 bodiment
 boding
 bodyshirt
