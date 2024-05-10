@@ -162,6 +162,7 @@ glottalization
 gael
 girth
 gaelic
+graveling
 gasogenes
 gynostegia
 geometrize
@@ -8396,7 +8397,6 @@ gravelike
 guaranteed
 gagelike
 gashed
-graveling
 gravelish
 glottidean
 gillaroo
