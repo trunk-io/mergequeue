@@ -4737,7 +4737,6 @@ excentral
 extraction
 enclothe
 elopers
-encloud
 encode
 existible
 encoded
@@ -7959,6 +7958,7 @@ epimeron
 embellishes
 epimers
 enchains
+encloud
 epanagoge
 epimysia
 enervator
