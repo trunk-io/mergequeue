@@ -105,7 +105,6 @@ faciation
 freeport
 faciend
 fisherpeople
-funtumia
 faciends
 fossulet
 featheredges
@@ -3090,6 +3089,7 @@ fiberizing
 fenestrule
 fishmen
 festine
+funtumia
 flagstaves
 fertilising
 fungoid
