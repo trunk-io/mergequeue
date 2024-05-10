@@ -11952,6 +11952,7 @@ bohora
 bohorok
 become
 blameful
+bombsights
 beltis
 bohunk
 backwash
@@ -12337,7 +12338,6 @@ bombora
 bombous
 bombycilla
 bombs
-bombsights
 bombus
 bombardelle
 bomi
