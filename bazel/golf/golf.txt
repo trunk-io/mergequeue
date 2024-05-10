@@ -1614,7 +1614,6 @@ gasolene
 gasolier
 gangland
 gasoliers
-gasoliner
 gasometry
 gastrodisc
 galileo
@@ -8357,6 +8356,7 @@ guarabu
 gecarcinus
 gratuitous
 gratuitousness
+gasoliner
 goatishness
 guglets
 glauconitization
