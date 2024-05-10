@@ -1586,7 +1586,6 @@ deafmuteness
 digression
 deafness
 deairing
-dependents
 deairs
 dealable
 dealate
@@ -6889,6 +6888,7 @@ desophistication
 dipneumona
 desorbed
 desorbs
+dependents
 desorption
 desoxalate
 damn
