@@ -3675,7 +3675,6 @@ adenasthenia
 alod
 adendritic
 adenectomy
-adenectopia
 akenbold
 allosterically
 adenemphractic
@@ -20514,6 +20513,7 @@ arteriocapillary
 arteriogenesis
 arteriograph
 averin
+adenectopia
 arteriographic
 alacreatine
 arteriolar
