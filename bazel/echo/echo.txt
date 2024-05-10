@@ -5045,7 +5045,6 @@ endocycle
 emancipating
 engrains
 enfield
-endocyst
 endocystitis
 experted
 exploders
@@ -12667,6 +12666,7 @@ exogamies
 excitron
 exogastrically
 ephete
+endocyst
 expedited
 exogen
 exogenae

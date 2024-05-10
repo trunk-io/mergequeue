@@ -1274,7 +1274,6 @@ acantholimon
 acanthology
 avowal
 acanthomas
-acanthomeridae
 acanthon
 acanthopanax
 acanthophorous
@@ -23421,6 +23420,7 @@ anguidae
 appartement
 autoelectronic
 auguries
+acanthomeridae
 auguring
 augurous
 augurs
