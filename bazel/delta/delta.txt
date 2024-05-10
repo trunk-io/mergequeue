@@ -252,6 +252,7 @@ daggerboard
 daggerlike
 daggerproof
 daggers
+deflower
 dagging
 disavaunce
 daggled
@@ -3459,7 +3460,6 @@ dropforged
 dubash
 disgarland
 desexualization
-deflower
 deflowered
 deflowerer
 distrustful
