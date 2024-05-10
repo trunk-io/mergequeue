@@ -1016,6 +1016,7 @@ calcaneonavicular
 calcaneoplantar
 countershout
 countersale
+ceding
 calcaneoscaphoid
 calcaneum
 calcannea
@@ -6634,7 +6635,6 @@ cunye
 cedi
 cedilla
 cedillas
-ceding
 cedis
 cosheath
 chromule
