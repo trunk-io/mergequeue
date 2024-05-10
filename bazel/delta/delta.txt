@@ -3656,7 +3656,6 @@ disarrangement
 deglutinate
 deglutinated
 deduce
-deglutinating
 dermatoplasty
 defoliant
 dropforging
@@ -15441,6 +15440,7 @@ don
 dona
 dyslexias
 donable
+deglutinating
 donaciform
 donack
 dilatometric
