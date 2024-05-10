@@ -2035,7 +2035,6 @@ campanile
 campaniles
 campanili
 cephalopagus
-campaniliform
 campanini
 campanist
 campanistic
@@ -22445,6 +22444,7 @@ conima
 conimene
 conine
 calends
+campaniliform
 conines
 coning
 conynge

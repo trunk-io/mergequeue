@@ -61,7 +61,6 @@ facebow
 faced
 foreladies
 faceharden
-faceless
 flagships
 flecken
 facelessness
@@ -5764,6 +5763,7 @@ fertilizes
 fulfilling
 flytime
 flueric
+faceless
 fliting
 flyting
 flytrap
