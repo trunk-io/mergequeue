@@ -1353,7 +1353,6 @@ fatally
 fatalness
 flap
 foreturn
-former
 fatbacks
 fructivorous
 fatbird
@@ -9582,6 +9581,7 @@ freakdom
 fentanyl
 freaked
 frostproof
+former
 freaky
 frayne
 ficoid
