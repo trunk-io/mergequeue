@@ -5808,6 +5808,7 @@ further
 flyweight
 ferr
 fribblish
+fluoryl
 flywinch
 fatty
 flamingoes
@@ -6431,7 +6432,6 @@ fairm
 feltyfare
 fourfiusher
 feudalities
-fluoryl
 fluorimetry
 frolicks
 franc
