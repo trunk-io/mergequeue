@@ -2947,7 +2947,6 @@ feudal
 feudalising
 febricide
 feudalism
-feudalist
 feudalists
 feudality
 fractionising
@@ -10971,6 +10970,7 @@ fickler
 fayumic
 fulmines
 fulminurate
+feudalist
 fulness
 fulnesses
 fiver
