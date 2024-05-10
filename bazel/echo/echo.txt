@@ -8736,7 +8736,6 @@ epyllia
 equivalenced
 equivalency
 equivalent
-equivalents
 equivaluer
 effs
 electrocystoscope
@@ -13890,6 +13889,7 @@ extrameridional
 extrametrical
 extramission
 erythrism
+equivalents
 extramodal
 extramoral
 emprise
