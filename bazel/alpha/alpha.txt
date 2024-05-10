@@ -4010,6 +4010,7 @@ adjoint
 adjoints
 apieces
 adjourn
+arrondi
 adjournal
 anhelous
 adjourned
@@ -18247,7 +18248,6 @@ abdicated
 agerasia
 autoscience
 allegator
-arrondi
 aerogenic
 aquaplane
 aquaplaned
