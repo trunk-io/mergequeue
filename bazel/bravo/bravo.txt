@@ -7735,7 +7735,6 @@ bewrite
 bankroller
 bullwhip
 braggardism
-bahar
 bezaleel
 bezan
 bezant
@@ -15547,6 +15546,7 @@ britoness
 britons
 brits
 bridlewise
+bahar
 britska
 britskas
 beice
