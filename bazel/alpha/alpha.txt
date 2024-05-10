@@ -3291,7 +3291,6 @@ actuarially
 aphis
 actuarian
 actuaryship
-actuated
 actuates
 actuating
 actuation
@@ -23534,6 +23533,7 @@ aurate
 aurated
 aureal
 aureate
+actuated
 aureately
 aureity
 axels
