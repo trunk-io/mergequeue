@@ -1469,7 +1469,6 @@ efl
 eflagelliferous
 erosive
 efoliolate
-efoliose
 empedoclean
 electromagnetically
 efph
@@ -6538,6 +6537,7 @@ epidermophytosis
 entente
 ententes
 entepicondylar
+efoliose
 erythorbate
 enameloma
 electroscopic
