@@ -9456,6 +9456,7 @@ escapado
 escape
 escaped
 enfamous
+exordiums
 escapee
 escapees
 empark
@@ -12779,7 +12780,6 @@ exordia
 epiceratodus
 exordial
 exordium
-exordiums
 exordize
 electrogenesis
 exorhason
