@@ -5942,7 +5942,6 @@ depresses
 doling
 depressibilities
 depressible
-declass
 depressingly
 depressingness
 depression
@@ -11797,6 +11796,7 @@ discriminativeness
 demyship
 discriminator
 dashingly
+declass
 deferrals
 dislodges
 desponsories
