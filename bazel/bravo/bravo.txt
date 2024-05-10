@@ -1377,6 +1377,7 @@ biskop
 bepewed
 baldest
 baldfaced
+baggy
 blots
 bloodstained
 baldhead
@@ -17949,7 +17950,6 @@ bimester
 busher
 bushers
 bedder
-baggy
 bushes
 bushet
 bushfighting
