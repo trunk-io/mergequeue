@@ -7823,7 +7823,6 @@ devour
 dorsad
 devourer
 devourers
-devouress
 depersonalize
 devouring
 discourseless
@@ -11112,6 +11111,7 @@ donating
 disastrously
 decemberish
 disattaint
+devouress
 disattune
 disauthenticate
 disauthorize
