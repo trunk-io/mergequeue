@@ -3954,7 +3954,6 @@ carceag
 cosmodrome
 carcel
 carcels
-carcer
 cameleers
 cosmosphere
 carceral
@@ -17503,6 +17502,7 @@ cobol
 cobola
 contriving
 coboss
+carcer
 coboundless
 cobourg
 cobras
