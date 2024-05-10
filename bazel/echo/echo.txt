@@ -9736,7 +9736,6 @@ esparsette
 espartos
 eagerly
 enhydritic
-espavel
 espec
 ependymitis
 especialness
@@ -12567,6 +12566,7 @@ exist
 existed
 existent
 existentialism
+espavel
 existentialist
 enteropneustal
 existentialistically
