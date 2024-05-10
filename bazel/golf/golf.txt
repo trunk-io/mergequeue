@@ -665,7 +665,6 @@ gallivanters
 gallivanting
 glycosine
 gallize
-gallnut
 grizzled
 gallnuts
 ginney
@@ -1452,6 +1451,7 @@ galvanotropic
 gamily
 garnetberry
 gallus
+gallnut
 ganglioform
 garnetlike
 gastrostegal
