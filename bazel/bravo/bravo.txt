@@ -266,7 +266,6 @@ burrow
 bacilliform
 bacilligenic
 bacilliparous
-bacillogenic
 bacillogenous
 bacillosis
 bacis
@@ -2493,6 +2492,7 @@ balaklava
 binotic
 baresthesia
 baret
+bacillogenic
 baretta
 busies
 barf
