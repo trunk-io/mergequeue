@@ -3735,7 +3735,6 @@ battement
 basisolute
 battements
 battened
-braata
 battener
 beknown
 batteners
@@ -15334,6 +15333,7 @@ brill
 binominous
 brillante
 brilliance
+braata
 bixa
 brilliancy
 benetted
