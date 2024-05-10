@@ -4627,7 +4627,6 @@ demilitarisation
 demilitarise
 demilitarised
 demilitarising
-demilitarization
 demilitarized
 dentaliidae
 demilitarizes
@@ -18307,6 +18306,7 @@ duo
 debussing
 duodecastyle
 duodecennial
+demilitarization
 duodecillions
 dopants
 duodecillionth
