@@ -634,7 +634,6 @@ damnedest
 damners
 dervishlike
 damnify
-damnificatus
 dilapidating
 disoccupation
 damnifies
@@ -16854,6 +16853,7 @@ drawlink
 drawloom
 drawls
 drawn
+damnificatus
 determinativeness
 dissyllabise
 diffidence
