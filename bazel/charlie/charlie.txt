@@ -6722,7 +6722,6 @@ celebrations
 celebrative
 celebre
 celebret
-celebrious
 celebrity
 celebs
 celemin
@@ -18327,6 +18326,7 @@ cogit
 cogitability
 cogitabund
 cogitabundity
+celebrious
 cogitabundly
 cogitabundous
 creamcups
