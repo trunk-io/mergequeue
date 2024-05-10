@@ -4111,7 +4111,6 @@ entoilment
 endoute
 emplanes
 emplaster
-emplastic
 emplastration
 ethological
 eggberries
@@ -6447,6 +6446,7 @@ entryways
 expansion
 ensphere
 ensphering
+emplastic
 enspirit
 enstar
 espanoles
