@@ -5161,6 +5161,7 @@ glassmaking
 grav
 gasoliery
 gunman
+greensward
 gamotropism
 gormless
 glib
@@ -8709,7 +8710,6 @@ greenstick
 greenstone
 gauntree
 guran
-greensward
 greenswarded
 gorger
 grimacingly
