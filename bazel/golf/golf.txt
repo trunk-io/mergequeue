@@ -387,6 +387,7 @@ gawcie
 gimballing
 gangboard
 galago
+glossophaga
 gedrite
 galahads
 gynobasic
@@ -5848,7 +5849,6 @@ glossolalia
 glossolysis
 glossology
 glossologist
-glossophaga
 glossopharyngeus
 globulous
 gettered
