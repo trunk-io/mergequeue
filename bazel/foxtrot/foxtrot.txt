@@ -1759,7 +1759,6 @@ ficary
 filicin
 flashflood
 feasters
-formants
 feastful
 feastfully
 feastly
@@ -9033,6 +9032,7 @@ fourposter
 flabellarium
 finickingness
 fourragere
+formants
 flotsam
 fourrageres
 fourre
