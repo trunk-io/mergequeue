@@ -2462,6 +2462,7 @@ denizenize
 designs
 decyne
 diaeresis
+dacryon
 decinormal
 decipherability
 decipherable
@@ -14146,7 +14147,6 @@ disweapon
 diswere
 demonifuge
 diswit
-dacryon
 debatable
 dita
 dinocerata

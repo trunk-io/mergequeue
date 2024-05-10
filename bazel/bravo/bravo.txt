@@ -5476,7 +5476,6 @@ behemoth
 behemothic
 behemoths
 behenate
-behenic
 behest
 bemixed
 behests
@@ -12492,6 +12491,7 @@ barbecued
 boniface
 bonification
 bonyfish
+behenic
 bacubert
 brontosaurs
 boniform
