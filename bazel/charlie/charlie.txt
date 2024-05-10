@@ -15915,7 +15915,6 @@ coraciiform
 clearstoried
 clearstories
 clearwater
-clearweed
 cleat
 cleated
 cleats
@@ -30585,6 +30584,7 @@ cuculliform
 cuculoid
 cuculus
 cucumaria
+clearweed
 cucumariidae
 cucumber
 cyathoid
