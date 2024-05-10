@@ -5092,6 +5092,7 @@ flatlands
 flatlets
 floorwalker
 flavoprotein
+forepass
 fatigued
 flatly
 flatlings
@@ -7846,7 +7847,6 @@ furor
 foreannounce
 foredesk
 foreparts
-forepass
 feedstuffs
 foliously
 forepaw

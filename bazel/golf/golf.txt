@@ -4553,7 +4553,6 @@ gipser
 gipsy
 gipsydom
 gipsied
-gypsied
 gipsies
 gugu
 gypsiferous
@@ -10429,6 +10428,7 @@ gneissy
 gigantomachia
 gummic
 guyana
+gypsied
 gambreled
 gumming
 gummose
