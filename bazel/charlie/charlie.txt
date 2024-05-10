@@ -18936,7 +18936,6 @@ cosmetical
 collarless
 collars
 collate
-collatee
 correspondentially
 collaterality
 collateralize
@@ -25786,6 +25785,7 @@ crated
 corresponsion
 corresponsively
 corrida
+collatee
 corridas
 corridored
 corridors
