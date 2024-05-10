@@ -2923,7 +2923,6 @@ elicits
 expensefulness
 elide
 euchromatin
-emaciate
 egrimony
 exogastric
 elided
@@ -5843,6 +5842,7 @@ enharmonic
 eructates
 epicureans
 excursive
+emaciate
 eftest
 enhaulse
 enhaunt
