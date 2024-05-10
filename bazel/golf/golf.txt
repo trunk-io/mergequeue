@@ -5512,7 +5512,6 @@ germanly
 glyphographic
 glyphs
 gharris
-greenness
 glyptic
 glyptician
 gibli
@@ -9177,6 +9176,7 @@ gristliness
 graveled
 grasper
 giltcup
+greenness
 grith
 grithbreach
 griths
