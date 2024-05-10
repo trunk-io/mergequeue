@@ -1888,7 +1888,6 @@ camelopardel
 camelopardid
 cinnamomum
 camelopardidae
-camelopards
 camelopardus
 camelot
 counterflashing
@@ -17562,6 +17561,7 @@ coccidiidea
 corticotropin
 coccydynia
 coccidioidal
+camelopards
 coccidioides
 coccidiomorpha
 cacoxene
