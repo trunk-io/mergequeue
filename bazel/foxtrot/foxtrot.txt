@@ -3154,7 +3154,6 @@ fibrocytic
 fibroelastic
 fabulosity
 fibroenchondroma
-finagled
 fibroferrite
 fibrohemorrhagic
 farfet
@@ -11116,6 +11115,7 @@ flense
 forbidder
 functionation
 functioned
+finagled
 functionize
 flockless
 functionnaire
