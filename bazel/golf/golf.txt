@@ -1023,7 +1023,6 @@ graysby
 galliferous
 graftonite
 gaps
-gams
 ganam
 gananciales
 ganancias
@@ -5803,6 +5802,7 @@ grenado
 glossemes
 glossemic
 glossers
+gams
 gondi
 glossy
 goniatitoid
