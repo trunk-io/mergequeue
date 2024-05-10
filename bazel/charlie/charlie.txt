@@ -15886,6 +15886,7 @@ cleanup
 clear
 chelaship
 colonized
+cullionly
 clearable
 clearage
 clearance
@@ -30770,7 +30771,6 @@ cullying
 culling
 cullion
 corrodes
-cullionly
 cullionry
 cullisance
 cullises
