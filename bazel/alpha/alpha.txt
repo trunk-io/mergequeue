@@ -2958,7 +2958,6 @@ acronych
 acronychal
 acronichally
 ardure
-acronychally
 acronychous
 acronycta
 acronyctous
@@ -21611,6 +21610,7 @@ assaying
 assail
 assailable
 assailableness
+acronychally
 anteporch
 anotropia
 assailants
