@@ -3170,7 +3170,6 @@ ganglion
 geophagia
 geophagies
 geophagism
-geophagist
 geophagous
 guanase
 gliff
@@ -6447,6 +6446,7 @@ goety
 gladatorial
 gloriosa
 gofer
+geophagist
 grecized
 gigantal
 growliness
