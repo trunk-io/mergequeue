@@ -7853,6 +7853,7 @@ cerule
 cerulean
 ceruleans
 cerulein
+chevrons
 ceruleite
 ceruleolactite
 cravenette
@@ -18502,7 +18503,6 @@ cohosted
 cohosting
 cohosts
 cohow
-chevrons
 closetful
 cohune
 callianassa
