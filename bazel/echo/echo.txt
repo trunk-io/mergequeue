@@ -10500,7 +10500,6 @@ etymologically
 etymologies
 etymologise
 ensmall
-etymologists
 etymologizable
 emerited
 etymologization
@@ -11408,6 +11407,7 @@ evenmete
 evenness
 endocrin
 exaristate
+etymologists
 enghosted
 evennesses
 equiponderation
