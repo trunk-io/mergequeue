@@ -3917,6 +3917,7 @@ bawn
 bawneen
 bawra
 bestial
+belard
 barrow
 bawrel
 bawsint
@@ -5649,7 +5650,6 @@ beclamoring
 brunet
 belar
 baggages
-belard
 belash
 belat
 bindweeds
