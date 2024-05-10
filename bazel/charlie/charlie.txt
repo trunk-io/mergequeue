@@ -4842,7 +4842,6 @@ carrier
 carriers
 carries
 carrying
-carryings
 carriole
 carrioles
 carryon
@@ -28865,6 +28864,7 @@ chollers
 cretinous
 cretins
 consignified
+carryings
 chivalrousness
 chorti
 countless
