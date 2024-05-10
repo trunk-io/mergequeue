@@ -3335,7 +3335,6 @@ expansional
 ethnohistorically
 embargoist
 embark
-embarkations
 epitomize
 embarkment
 embarks
@@ -4049,6 +4048,7 @@ empiecement
 equilibristic
 electroosmotic
 empyemata
+embarkations
 empyemic
 effuse
 empierce
