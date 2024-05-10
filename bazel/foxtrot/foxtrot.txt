@@ -6722,6 +6722,7 @@ fascet
 fogfruit
 foretype
 fogfruits
+funiculus
 fogger
 fluerics
 furrier
@@ -11242,7 +11243,6 @@ funicles
 funiculars
 foiblesse
 forstraught
-funiculus
 funiform
 funipendulous
 funje
