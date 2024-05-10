@@ -5232,7 +5232,6 @@ fluidities
 flawedness
 fishlike
 flawflower
-flawful
 flawiest
 fenbank
 flawing
@@ -10717,6 +10716,7 @@ foxy
 fruitlike
 fruitling
 fivepenny
+flawful
 farfugium
 fruitstalk
 foughten
