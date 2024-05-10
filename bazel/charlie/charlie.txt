@@ -2497,7 +2497,6 @@ candleshrift
 candlestand
 cecidiology
 committeewoman
-candlestick
 candlesticks
 candlestickward
 candlewaster
@@ -15387,6 +15386,7 @@ coelacanthid
 clamer
 clamflat
 chivalry
+candlestick
 clamjamfery
 clamjamfry
 clamjamphrie
