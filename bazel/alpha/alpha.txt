@@ -9610,7 +9610,6 @@ aluminaphone
 aluminas
 aluminate
 alumines
-aluminic
 absfarad
 aluminide
 aluminiferous
@@ -16701,6 +16700,7 @@ antihierarchically
 acolytes
 apatela
 apatetic
+aluminic
 apathaton
 antiwit
 allelvia
