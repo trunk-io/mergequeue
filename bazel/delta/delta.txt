@@ -9492,7 +9492,6 @@ digitiform
 digitigradism
 determa
 digitinerved
-digitisation
 digitised
 danio
 digitising
@@ -14672,6 +14671,7 @@ directionize
 decimalising
 downcasts
 delimitative
+digitisation
 dimidiated
 didepsid
 demipriest
