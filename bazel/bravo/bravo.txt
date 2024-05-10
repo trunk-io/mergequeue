@@ -1150,6 +1150,7 @@ bonnetieres
 brain
 baitylos
 ballard
+bastite
 baiting
 baits
 baittle
@@ -3474,7 +3475,6 @@ branchiopulmonate
 badgerly
 bastions
 battutas
-bastite
 brushfire
 bastnasite
 balanoglossus
