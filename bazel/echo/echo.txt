@@ -1167,7 +1167,6 @@ edomitish
 exorbitate
 eurypharynx
 edoni
-edplot
 edriasteroidea
 edrioasteroid
 edrioasteroidea
@@ -12512,6 +12511,7 @@ espinette
 exies
 entreaty
 ependyme
+edplot
 elocutionists
 exigences
 exigencies
