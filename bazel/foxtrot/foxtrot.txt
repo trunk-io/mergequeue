@@ -2409,7 +2409,6 @@ feoffors
 fidelis
 feoffs
 fumant
-fand
 fremescence
 fer
 farriers
@@ -9178,6 +9177,7 @@ floristry
 filtratable
 forelive
 forestlike
+fand
 filbert
 frabjous
 fracas
