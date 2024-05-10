@@ -17412,7 +17412,6 @@ coaxes
 coaxy
 clinoaxis
 cordigeri
-coaxial
 coaxing
 coazervate
 coazervation
@@ -18746,6 +18745,7 @@ chingma
 colcothar
 cold
 coldblood
+coaxial
 coldblooded
 coldest
 coldfinch

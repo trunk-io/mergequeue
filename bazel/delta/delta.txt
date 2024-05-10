@@ -11999,7 +11999,6 @@ dowd
 disenchantments
 daglock
 deities
-disenchantress
 disencharm
 drip
 disenclose
@@ -13932,6 +13931,7 @@ distinctions
 distortions
 delocalise
 distorts
+disenchantress
 doltishness
 dolomitising
 dentoid
