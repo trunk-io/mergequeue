@@ -6668,7 +6668,6 @@ ceil
 credenzas
 clamoring
 celestine
-ceiled
 ceilers
 ceilidh
 ceilidhe
@@ -23290,6 +23289,7 @@ consultation
 consultatively
 consultatory
 clarksville
+ceiled
 cliquishness
 consulter
 consultive
