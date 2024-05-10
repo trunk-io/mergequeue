@@ -6051,7 +6051,6 @@ enlodge
 enlodgement
 enlumine
 entheos
-ephorus
 enmagazine
 enmarble
 elytron
@@ -9422,6 +9421,7 @@ escalade
 exolution
 emotionally
 effecter
+ephorus
 escalader
 educable
 escalades
