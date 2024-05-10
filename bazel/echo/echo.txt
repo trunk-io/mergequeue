@@ -4941,7 +4941,6 @@ endemical
 endemically
 enschedule
 ethicalness
-endemicity
 electrofused
 endemism
 endemisms
@@ -8730,6 +8729,7 @@ eagle
 ecchymotic
 equity
 epiploon
+endemicity
 equities
 equitriangular
 epyllia
