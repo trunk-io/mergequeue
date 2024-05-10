@@ -14643,7 +14643,6 @@ cisco
 ciscoes
 ciscos
 cise
-comprisable
 ciseaux
 chlamydosporic
 cisele
@@ -16493,6 +16492,7 @@ cecidologist
 clockbird
 comodato
 clocker
+comprisable
 clockface
 clockhouse
 clocking
