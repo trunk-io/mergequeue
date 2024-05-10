@@ -3807,7 +3807,6 @@ giantsize
 gujrati
 gaub
 ghafir
-goodish
 giarra
 giarre
 gyassa
@@ -10135,6 +10134,7 @@ guiana
 gigantosaurus
 gridding
 guianan
+goodish
 gloried
 guyandot
 guidable
