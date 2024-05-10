@@ -11235,7 +11235,6 @@ disbursals
 disburse
 disbursements
 duckpins
-decolorimeter
 divinistre
 definability
 distortedly
@@ -15674,6 +15673,7 @@ dopperbird
 demot
 dopping
 doppio
+decolorimeter
 defer
 dactyloscopy
 defilements
