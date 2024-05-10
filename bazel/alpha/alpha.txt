@@ -5205,7 +5205,6 @@ aestivation
 aestive
 aestuary
 aestuate
-aestuation
 aesture
 aestus
 aetat
@@ -15544,6 +15543,7 @@ acrogens
 antimethod
 acronarcotic
 azonic
+aestuation
 armed
 antimethodical
 antimethodicalness

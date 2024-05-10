@@ -12128,7 +12128,6 @@ crusca
 choruslike
 chockler
 chorusmaster
-chorussed
 chorusses
 chorussing
 cymbalo
@@ -13393,6 +13392,7 @@ cyclohexyl
 cyclohexylamine
 cycloheximide
 chemiatry
+chorussed
 cycloid
 coalternation
 cycloidean
