@@ -8469,7 +8469,6 @@ epos
 epitomes
 eutony
 epotation
-epoxides
 epizootic
 epoxidize
 epoxied
@@ -9939,6 +9938,7 @@ evolvulus
 esterify
 esterifiable
 esterification
+epoxides
 envyingly
 eruditional
 esterified
