@@ -1571,7 +1571,6 @@ deaeration
 dorsum
 deaf
 dynamogenous
-deafened
 deafeningly
 downcurved
 detractors
@@ -11588,6 +11587,7 @@ disconnector
 disconnects
 disconsent
 dithering
+deafened
 disconsideration
 disconsolately
 dobbie
