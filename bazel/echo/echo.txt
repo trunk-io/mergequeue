@@ -3152,7 +3152,6 @@ elsewhere
 elsewheres
 elsewise
 elsholtzia
-elsin
 elt
 eltrot
 eluant
@@ -10561,6 +10560,7 @@ eburnation
 enterolithiasis
 etuve
 etuvee
+elsin
 epulary
 etwas
 embroiling
