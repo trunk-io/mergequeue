@@ -7664,7 +7664,6 @@ alchemists
 angelicas
 alchemize
 amazes
-alchemized
 alchemizing
 alchera
 alcheringa
@@ -18672,6 +18671,7 @@ amboyna
 arcacea
 aspergation
 acarids
+alchemized
 arcades
 arcady
 arcadian
