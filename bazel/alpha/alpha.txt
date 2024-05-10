@@ -2923,7 +2923,6 @@ acromastitis
 acromegaly
 analogs
 acromegalia
-acromegalic
 acromegalies
 acromelalgia
 alpiste
@@ -8141,6 +8140,7 @@ algerian
 algerienne
 algerine
 algerines
+acromegalic
 algerita
 algerite
 algernon

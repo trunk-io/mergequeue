@@ -7542,7 +7542,6 @@ ceratodus
 ceratoduses
 coistrils
 ceratoglossal
-ceratohyal
 ceratohyoid
 ceratoid
 ceratomandibular
@@ -20271,6 +20270,7 @@ commonwealths
 commorancy
 commorancies
 curviform
+ceratohyal
 commorient
 commorse
 commorth
