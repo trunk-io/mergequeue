@@ -1539,7 +1539,6 @@ acclimatement
 acclimates
 arsonite
 acclimating
-acclimation
 acclimatisation
 acclimatise
 anticynically
@@ -18805,6 +18804,7 @@ archcount
 archcozener
 archcriminal
 archcritic
+acclimation
 archcrown
 archcupbearer
 archd

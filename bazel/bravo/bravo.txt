@@ -6412,7 +6412,6 @@ benzanalgen
 benzanilide
 benzanthracene
 bibs
-benzanthrone
 bocklogged
 buhrstone
 benzdiazine
@@ -8308,6 +8307,7 @@ biffs
 bifidity
 bifilar
 bifilarly
+benzanthrone
 biflabellate
 biflagelate
 biflagellate
