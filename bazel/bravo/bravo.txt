@@ -1900,6 +1900,7 @@ bikh
 bevies
 banding
 banjoist
+brackets
 biostatics
 bandit
 branle
@@ -14076,7 +14077,6 @@ bracketed
 billyo
 brusk
 bracketing
-brackets
 brinier
 bracketwise
 bracky
