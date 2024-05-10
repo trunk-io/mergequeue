@@ -1295,7 +1295,6 @@ diplospondyli
 defial
 draconism
 dauke
-dorsigerous
 daulias
 dault
 daunch
@@ -12668,6 +12667,7 @@ dislluminate
 dubbings
 difference
 dislocability
+dorsigerous
 dislocate
 drammer
 dustcloth
