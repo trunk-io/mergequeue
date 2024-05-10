@@ -8944,7 +8944,6 @@ biocenology
 brontolith
 bananas
 biocenosis
-biocenotic
 biocentric
 biochemy
 beslow
@@ -9132,6 +9131,7 @@ biophotophone
 bethumps
 biopic
 bioplasms
+biocenotic
 bunching
 bactericidin
 biopoiesis
