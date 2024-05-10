@@ -2638,6 +2638,7 @@ decolorising
 dispose
 decolorization
 decolors
+destructed
 duopsonies
 decolouration
 decolouring
@@ -13381,7 +13382,6 @@ disrecommendation
 digitalis
 disregard
 disregardable
-destructed
 disregardance
 demons
 dicerion
