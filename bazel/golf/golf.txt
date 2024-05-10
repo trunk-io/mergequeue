@@ -5673,7 +5673,6 @@ glottogonist
 globulimeter
 gurges
 garuda
-gravestone
 giantesque
 globulysis
 globulite
@@ -10293,6 +10292,7 @@ gasfiring
 gujarati
 glood
 gametic
+gravestone
 gelly
 girland
 groutite
