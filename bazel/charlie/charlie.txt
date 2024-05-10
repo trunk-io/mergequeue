@@ -9559,7 +9559,6 @@ clavola
 checkers
 cabbalah
 checkerspot
-carman
 carpodacus
 capos
 checkerwise
@@ -13419,6 +13418,7 @@ cyclonite
 cyclonology
 cycloolefin
 chirred
+carman
 chrysophyll
 clamoured
 cycloolefine
