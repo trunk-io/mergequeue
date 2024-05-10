@@ -3492,7 +3492,6 @@ embodiers
 embodies
 entropy
 emancipation
-embodiment
 exhaled
 emboil
 encephalography
@@ -12866,6 +12865,7 @@ expandable
 expanded
 escropulo
 expandedly
+embodiment
 expandedness
 expanders
 educabilia
