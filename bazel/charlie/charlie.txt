@@ -3361,6 +3361,7 @@ clifflet
 capreoline
 continuua
 commonable
+chondrin
 capreolus
 capretto
 capri
@@ -3862,7 +3863,6 @@ carbonnieux
 carbonometer
 carpuspi
 carbonometry
-chondrin
 carbonous
 carbons
 carbonuria
