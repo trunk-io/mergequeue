@@ -1842,6 +1842,7 @@ bandages
 bandaging
 brakes
 bandaid
+barky
 bimetalism
 bandala
 bandana
@@ -14820,7 +14821,6 @@ breakthroughs
 barchan
 breakwater
 breakweather
-barky
 brachets
 breakwind
 beknotting
