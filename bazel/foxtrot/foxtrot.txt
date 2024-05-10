@@ -1194,7 +1194,6 @@ fasciculi
 fascili
 foetuses
 feller
-fungistatic
 fatherling
 figeaters
 fascinated
@@ -10112,6 +10111,7 @@ florid
 forfar
 frilling
 floscule
+fungistatic
 frim
 flavoury
 frimaire
