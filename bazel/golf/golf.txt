@@ -1751,7 +1751,6 @@ gastrocolotomy
 gentled
 gastrodermal
 gastrodermis
-gnotobiote
 goosemouth
 gravemaking
 gastroduodenal
@@ -5682,6 +5681,7 @@ glochid
 grided
 glochidian
 gastrohypertonic
+gnotobiote
 glochidiate
 goidel
 graphorrhea
