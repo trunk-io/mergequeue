@@ -13793,7 +13793,6 @@ anomite
 archimperial
 anomodont
 amblypod
-anomodontia
 anomoeomery
 anomophyllous
 anomorhomboid
@@ -18670,6 +18669,7 @@ arca
 anthropomorphite
 abrogates
 antejuramentum
+anomodontia
 amboyna
 arcacea
 aspergation
