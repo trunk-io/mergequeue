@@ -19927,7 +19927,6 @@ comm
 command
 commandable
 commandant
-curtaxe
 commandatory
 commanded
 commandedness
@@ -29372,6 +29371,7 @@ chorographic
 cryptozoic
 cryptozoite
 cryptozonate
+curtaxe
 chapbooks
 crazedness
 crypturi
