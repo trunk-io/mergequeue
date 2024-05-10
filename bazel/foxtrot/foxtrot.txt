@@ -9502,7 +9502,6 @@ fideism
 fells
 fraternal
 fraternality
-faultlessness
 filum
 floccilation
 fraternally
@@ -11194,6 +11193,7 @@ fungibility
 fungible
 fungicidal
 fungicidally
+faultlessness
 fungicide
 fungicides
 fungicolous
