@@ -3468,7 +3468,6 @@ fatiguable
 forel
 fighteress
 fanwort
-fighting
 formboard
 figitidae
 fliped
@@ -11451,6 +11450,7 @@ francs
 foraminated
 flattering
 festinate
+fighting
 furomethyl
 forgemen
 fosie
