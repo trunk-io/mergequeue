@@ -6560,7 +6560,6 @@ ellipses
 enterers
 enorthotrope
 enterfeat
-entergogenic
 estrepement
 enteria
 enwind
@@ -6645,6 +6644,7 @@ enterolith
 enuring
 enterology
 enterologic
+entergogenic
 enteromegaly
 eaved
 enteromegalia

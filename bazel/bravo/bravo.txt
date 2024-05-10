@@ -5115,7 +5115,6 @@ befist
 braised
 bustard
 beneficiary
-befitted
 befitting
 beaterman
 brogh
@@ -16724,6 +16723,7 @@ balaic
 buckwheats
 beggarism
 bucolic
+befitted
 bucolical
 bucolically
 bucolicism
