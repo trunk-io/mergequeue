@@ -19295,7 +19295,6 @@ colonelship
 colonelships
 coloner
 colones
-circumadjacent
 cassena
 colonette
 colongitude
@@ -25694,6 +25693,7 @@ corpulentness
 corpus
 corpuscularian
 chapfallen
+circumadjacent
 confinedness
 completed
 corpuscularity

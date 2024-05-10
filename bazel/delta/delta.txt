@@ -6480,7 +6480,6 @@ dobbers
 desamidase
 desands
 desc
-disarranged
 descale
 descamisados
 descant
@@ -10457,6 +10456,7 @@ dunches
 diphrelatic
 diphtheria
 diphtherian
+disarranged
 deda
 diphtheric
 denticeti
