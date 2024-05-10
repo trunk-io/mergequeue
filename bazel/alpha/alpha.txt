@@ -9849,7 +9849,6 @@ amarillo
 amarillos
 amarin
 agastreae
-alerted
 admeasurement
 amarine
 amarity
@@ -21663,6 +21662,7 @@ assaut
 affixing
 asse
 asseal
+alerted
 assecuration
 anagua
 assecure
