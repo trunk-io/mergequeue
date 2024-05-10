@@ -4178,7 +4178,6 @@ delineature
 delineavit
 delinition
 delinquence
-delinquency
 delinquencies
 delinquent
 dysmenorrhagia
@@ -6553,6 +6552,7 @@ descrier
 descriers
 divorce
 deadmen
+delinquency
 descries
 descript
 descriptionist
