@@ -8194,7 +8194,6 @@ chaffseed
 connoisseurs
 carapace
 cavitation
-circumterrestrial
 chaffwax
 chafing
 chafted
@@ -19550,6 +19549,7 @@ colubaria
 coluber
 colubridae
 colubriform
+circumterrestrial
 colubrinae
 colubrine
 cholericly
