@@ -336,7 +336,6 @@ formulariser
 faucial
 formagenic
 fusses
-fungal
 fortypenny
 faineance
 foredeck
@@ -4805,6 +4804,7 @@ flailed
 fluidify
 flivvers
 foothook
+fungal
 flailing
 folksinging
 fisheries
