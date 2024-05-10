@@ -3711,7 +3711,6 @@ batsmanship
 bransles
 benzophenol
 bunsen
-books
 batsmen
 batswing
 batt
@@ -14932,6 +14931,7 @@ bredes
 bredestitch
 betainogen
 breech
+books
 breechcloth
 brimfull
 breechcloths
