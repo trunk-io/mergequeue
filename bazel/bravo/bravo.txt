@@ -6179,6 +6179,7 @@ benchman
 benchmar
 benchmark
 banba
+bradycinesia
 burnout
 benchmarks
 burbles
@@ -9086,7 +9087,6 @@ biggins
 biomasses
 biomathematics
 biome
-bradycinesia
 biomechanical
 begrims
 biomedicine
