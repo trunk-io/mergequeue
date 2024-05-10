@@ -8337,7 +8337,6 @@ forksmith
 forktail
 ferromagneticism
 fruiterer
-faceup
 fantail
 forlay
 forlain
@@ -9879,6 +9878,7 @@ fluidifying
 freshets
 fioritura
 freshhearted
+faceup
 fleetingly
 freshish
 freshly
