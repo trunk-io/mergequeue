@@ -4235,7 +4235,6 @@ carefuller
 carefullest
 carefully
 covenant
-carefulness
 coauthored
 carey
 careys
@@ -18957,6 +18956,7 @@ cloine
 collative
 catouse
 collator
+carefulness
 couldna
 collators
 collaudation
