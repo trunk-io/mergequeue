@@ -3637,7 +3637,6 @@ adelantado
 adelantados
 adelante
 adelarthra
-adelarthrosomata
 alectryon
 apetalae
 adelarthrosomatous
@@ -21070,6 +21069,7 @@ ascon
 ascones
 asconoid
 ascophore
+adelarthrosomata
 aegagropile
 aclydes
 ascorbate
