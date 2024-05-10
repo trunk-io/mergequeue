@@ -10380,6 +10380,7 @@ blank
 blankbook
 burgrave
 blankest
+botcher
 blanket
 blanketed
 blanketeer
@@ -13265,7 +13266,6 @@ botaurus
 beeswings
 botched
 botchedly
-botcher
 bushlet
 bridgeman
 botcheries
