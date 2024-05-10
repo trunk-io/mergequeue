@@ -4667,7 +4667,6 @@ bedecking
 bewormed
 bedecks
 bangboard
-bankfull
 bedeguar
 bedehouse
 bedehouses
@@ -16115,6 +16114,7 @@ bdellidae
 balklines
 brotheler
 bulla
+bankfull
 bagnette
 brimstony
 brothels
