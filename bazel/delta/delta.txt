@@ -5628,6 +5628,7 @@ dispersed
 dukeship
 depeopled
 deperdit
+dishonored
 determiners
 dedecoration
 diamine
@@ -18047,7 +18048,6 @@ dull
 dullard
 dipotassium
 deckload
-dishonored
 dullardness
 dullards
 demiurgism
