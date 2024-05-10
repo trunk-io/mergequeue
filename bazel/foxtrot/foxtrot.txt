@@ -1354,6 +1354,7 @@ fatalness
 flap
 foreturn
 former
+formulator
 fatbacks
 fructivorous
 fatbird
@@ -8533,7 +8534,6 @@ formulated
 formulating
 forgainst
 formulations
-formulator
 formulatory
 fontinal
 formulisation
