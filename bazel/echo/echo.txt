@@ -1754,7 +1754,6 @@ ectorhinal
 epilogue
 eyen
 etacism
-electric
 euflavine
 eyepiece
 eyepit
@@ -11616,6 +11615,7 @@ elemol
 explicating
 evolved
 enframing
+electric
 electroretinogram
 evolver
 equivalencies
