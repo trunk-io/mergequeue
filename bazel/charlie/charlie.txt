@@ -4942,7 +4942,6 @@ clogger
 cartilagineous
 cartilagines
 cartilaginoid
-cartilaginous
 carting
 cartisane
 cartist
@@ -9228,6 +9227,7 @@ charwoman
 cowards
 charwomen
 chasable
+cartilaginous
 chase
 chaseable
 chased
