@@ -7742,7 +7742,6 @@ cerianthid
 cerianthidae
 cerianthoid
 calculable
-cerianthus
 cerias
 ceride
 cerillo
@@ -14894,6 +14893,7 @@ citied
 cueball
 citification
 cityfied
+cerianthus
 citifying
 cityfolk
 citigradae
