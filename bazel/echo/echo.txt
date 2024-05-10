@@ -7026,7 +7026,6 @@ entresols
 entresse
 endocardial
 entrez
-epicranial
 entria
 expressivity
 entryman
@@ -8030,6 +8029,7 @@ epipetalous
 epiphanic
 epiphanies
 extruding
+epicranial
 elytrum
 epiphanise
 epiphanised
