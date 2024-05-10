@@ -12357,7 +12357,6 @@ durability
 disherited
 dinosauric
 divet
-defibrillator
 deamidize
 dynamogenic
 duckmole
@@ -17854,6 +17853,7 @@ ductules
 ductwork
 duculinae
 dictyosome
+defibrillator
 dud
 decurve
 duddery
