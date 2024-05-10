@@ -11158,6 +11158,7 @@ disbands
 disagglomeration
 disbar
 dehydrant
+discover
 drubbings
 disbarment
 disbarred
@@ -15491,7 +15492,6 @@ demisphere
 dondaine
 drawly
 dondia
-discover
 done
 diaries
 deduct
