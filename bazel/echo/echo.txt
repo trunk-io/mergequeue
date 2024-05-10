@@ -1476,7 +1476,6 @@ empedoclean
 electromagnetically
 efph
 epically
-efractory
 erringly
 entification
 efreet
@@ -13346,6 +13345,7 @@ enframes
 expound
 expounder
 expounders
+efractory
 eulogised
 expounds
 enthrong
