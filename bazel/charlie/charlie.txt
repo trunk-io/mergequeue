@@ -5942,7 +5942,6 @@ catherine
 cathern
 catties
 catheterisation
-catheterise
 catheterised
 catheterism
 catheterization
@@ -17661,6 +17660,7 @@ conjunctly
 cerulescent
 cochleiform
 cochleitis
+catheterise
 cochleleae
 cochleleas
 cochleous
