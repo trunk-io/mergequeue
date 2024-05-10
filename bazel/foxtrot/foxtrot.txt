@@ -2551,6 +2551,7 @@ fernier
 fernlike
 fernseed
 flustrum
+fabrique
 faucalize
 fernshaw
 fosterlings
@@ -9111,7 +9112,6 @@ fib
 fallaciousness
 fowls
 fringillid
-fabrique
 fix
 fleetwing
 fidele
