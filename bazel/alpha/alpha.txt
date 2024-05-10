@@ -1984,7 +1984,6 @@ acetanisidine
 acetars
 acetated
 acetation
-acetazolamide
 acetbromamide
 acetenyl
 actinostomal
@@ -16404,6 +16403,7 @@ alpaca
 amphogenous
 antiuratic
 antiurease
+acetazolamide
 antiusurious
 antiutilitarian
 antivaccination
