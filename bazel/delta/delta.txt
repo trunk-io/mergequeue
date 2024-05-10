@@ -1451,7 +1451,6 @@ dazzlers
 dwindle
 dazzlingness
 dbl
-dbms
 demidolmen
 degenerationist
 deevilick
@@ -16898,6 +16897,7 @@ dreadlessness
 dreadly
 dreadlocks
 dreadness
+dbms
 dreadnought
 dreadnoughts
 domestic
