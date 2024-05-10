@@ -8004,6 +8004,7 @@ fireplough
 forestays
 forehinting
 feute
+firry
 flashbulb
 forestaysail
 forestal
@@ -9512,7 +9513,6 @@ fraternally
 fraternisation
 fraternised
 fraternism
-firry
 fondak
 fraternize
 fulica
