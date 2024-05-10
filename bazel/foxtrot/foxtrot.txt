@@ -7098,7 +7098,6 @@ forejudger
 felix
 foolhardily
 footful
-foiled
 flapjack
 foolhardiness
 foolhardiship
@@ -8600,6 +8599,7 @@ fenceress
 frivolizing
 forride
 forril
+foiled
 forrit
 foxish
 forescript
