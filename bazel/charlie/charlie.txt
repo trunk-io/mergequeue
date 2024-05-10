@@ -21120,6 +21120,7 @@ concaves
 concaving
 concavity
 conjunction
+corticifugal
 concavities
 concavo
 conceal
@@ -25964,7 +25965,6 @@ cortication
 cortices
 corticiferous
 catchland
-corticifugal
 cimicid
 corticifugally
 corticine
