@@ -1838,7 +1838,6 @@ bullose
 bandage
 bandaged
 bandager
-bandages
 bandaging
 brakes
 bandaid
@@ -13519,6 +13518,7 @@ brairo
 bigener
 bouleuterion
 boulevardiers
+bandages
 boulevardize
 boulework
 boulimia
