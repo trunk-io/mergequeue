@@ -19763,7 +19763,6 @@ acervately
 alum
 aristae
 aristarchian
-aristarchies
 aristate
 aristeas
 alertness
@@ -22279,6 +22278,7 @@ astrocytomas
 ailerons
 asperger
 astrocompass
+aristarchies
 astrodiagnosis
 astrodynamic
 androphyll
