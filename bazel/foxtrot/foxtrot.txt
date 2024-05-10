@@ -5453,6 +5453,7 @@ flagfall
 fletcherism
 fletcherite
 following
+fruitier
 fletchers
 ferrated
 fletches
@@ -10701,7 +10702,6 @@ forenamed
 flutings
 fruitgrower
 filipuncture
-fruitier
 fruitiness
 famish
 frightable
