@@ -3562,7 +3562,6 @@ bathala
 batheable
 bathed
 bellower
-bather
 bathes
 bathetically
 bathflower
@@ -14368,6 +14367,7 @@ blizzards
 braireau
 braises
 braising
+bather
 butea
 breaststroke
 bulbocapnin
