@@ -5976,6 +5976,7 @@ bailiffship
 bibb
 belongs
 belonid
+bescoured
 belonidae
 belonite
 belonoid
@@ -10890,7 +10891,6 @@ blindfoldedness
 blindfolding
 blindfoldly
 blinding
-bescoured
 blindless
 blindly
 blindling
