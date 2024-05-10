@@ -14559,7 +14559,6 @@ algorithm
 aperitifs
 anthropogeographical
 africanism
-anthropoglot
 anoplotheroid
 anthropogony
 anthropography
@@ -16830,6 +16829,7 @@ aphasiacs
 aphasic
 aphasics
 aphelandra
+anthropoglot
 aphelenchus
 agog
 anterointerior
