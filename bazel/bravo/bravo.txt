@@ -3925,6 +3925,7 @@ barrow
 bawrel
 bawsint
 bawsunt
+boho
 bennet
 bawtie
 bawties
@@ -14669,7 +14670,6 @@ bravissimo
 bigram
 bravoes
 boulevards
-boho
 bound
 bravoing
 bifolium
