@@ -7505,7 +7505,6 @@ betread
 betrend
 braveries
 betrothing
-betrothment
 betroths
 betrousered
 betrumpet
@@ -14882,6 +14881,7 @@ breathes
 boarstaff
 breathful
 bicycler
+betrothment
 bipedism
 burleys
 breathier
