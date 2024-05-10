@@ -7384,6 +7384,7 @@ cephalic
 cephalically
 cephalina
 cephaline
+coeval
 cephalins
 cephalism
 cephalitis
@@ -18193,7 +18194,6 @@ coetanean
 coetaneous
 coeternal
 coeternity
-coeval
 coevality
 coevally
 coevalness
