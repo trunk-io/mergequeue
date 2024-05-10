@@ -5494,7 +5494,6 @@ grylle
 glimpses
 glyn
 glynn
-gesten
 gregory
 grandmotherliness
 glinting
@@ -8805,6 +8804,7 @@ gigantoblast
 greyish
 greylag
 greylags
+gesten
 gyte
 girouettism
 groomlet
