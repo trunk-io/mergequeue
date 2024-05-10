@@ -1144,7 +1144,6 @@ executiveship
 eidology
 editorializer
 editorializers
-enation
 editorializes
 editors
 editorship
@@ -5425,6 +5424,7 @@ epidia
 enema
 enemas
 eclegm
+enation
 enemata
 eburna
 enquere

@@ -5591,7 +5591,6 @@ afterbeat
 afterbirth
 achronical
 afterblow
-afterbody
 afterbodies
 amyloids
 afterbrain
@@ -16100,6 +16099,7 @@ adaptedness
 antireducer
 autotrophically
 antireflexive
+afterbody
 antireform
 antireformer
 antireligion
