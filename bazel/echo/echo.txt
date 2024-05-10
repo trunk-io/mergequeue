@@ -5183,7 +5183,6 @@ elevational
 endophagous
 endophasia
 ekatantalum
-endophasic
 expungers
 enamines
 endophyllous
@@ -8921,6 +8920,7 @@ eightscore
 ergatomorphic
 ergatomorphism
 ergo
+endophasic
 ergodic
 estampie
 ergodicity
