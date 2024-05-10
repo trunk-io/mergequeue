@@ -4957,6 +4957,7 @@ beefwoods
 bandcase
 beegerite
 blackcock
+blindstitch
 badchan
 bedrock
 beeherd
@@ -10896,7 +10897,6 @@ biotrons
 bathwater
 blindness
 burnooses
-blindstitch
 blindstorey
 babroot
 brachioradial

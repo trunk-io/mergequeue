@@ -1676,7 +1676,6 @@ caltha
 calthrop
 calthrops
 caltrap
-caltraps
 caltrop
 caltrops
 cornification
@@ -18167,6 +18166,7 @@ coercionary
 coercitive
 coercive
 coerciveness
+caltraps
 coercivity
 coerebidae
 coerect
