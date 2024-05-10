@@ -9597,7 +9597,6 @@ figurers
 faithworthy
 forsworn
 firths
-falchion
 fastened
 fiador
 freeman
@@ -10792,6 +10791,7 @@ fruticous
 fruticulose
 frutilla
 frwy
+falchion
 fabianism
 fervent
 filmizing
