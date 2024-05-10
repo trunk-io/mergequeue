@@ -7687,7 +7687,6 @@ audiometry
 alcine
 alcyon
 alcyonacean
-alcyonarian
 alcyone
 aerators
 acyls
@@ -19068,6 +19067,7 @@ amebiasis
 atwixt
 architricline
 archival
+alcyonarian
 autotypies
 archivault
 archive
