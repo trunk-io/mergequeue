@@ -1642,6 +1642,7 @@ flatterer
 favourableness
 fallalery
 favouring
+fordless
 favouringly
 favours
 favous
@@ -6998,7 +6999,6 @@ fomenting
 foetus
 foments
 freelances
-fordless
 footrace
 fomites
 forbearance
