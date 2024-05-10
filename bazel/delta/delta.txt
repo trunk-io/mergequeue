@@ -6585,6 +6585,7 @@ desecration
 dampen
 destroyer
 desecrations
+ducts
 denazification
 dhooti
 disulphone
@@ -17121,7 +17122,6 @@ drifter
 drifters
 driftfish
 divestiture
-ducts
 drifty
 driftiest
 drifting
