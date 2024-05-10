@@ -9058,6 +9058,7 @@ germination
 grinch
 geoid
 groose
+germinability
 grincome
 grindable
 glossopalatine
@@ -10497,7 +10498,6 @@ gouged
 gaduin
 gunge
 gregge
-germinability
 gunj
 gunstock
 gunja
