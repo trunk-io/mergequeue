@@ -9233,6 +9233,7 @@ chaseable
 chased
 corbeilles
 chasers
+carsmith
 chases
 chashitsu
 chasid
@@ -13917,7 +13918,6 @@ cinemagoers
 cinemas
 chartophylaxes
 cinematheque
-carsmith
 comakers
 congruities
 cinematheques
