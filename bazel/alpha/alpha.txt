@@ -3748,7 +3748,6 @@ archaize
 amsonia
 adenophore
 adenophorous
-accumulative
 adenopodous
 adenosarcoma
 adenosarcomata
@@ -19745,6 +19744,7 @@ aripple
 arisaema
 arisaid
 arisard
+accumulative
 arise
 athyrium
 arised
