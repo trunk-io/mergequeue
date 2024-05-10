@@ -5145,6 +5145,7 @@ flatwash
 footpaddery
 fanleaf
 felicitators
+frontoorbital
 frontate
 foliiform
 furmente
@@ -10497,7 +10498,6 @@ foreface
 fillagree
 feta
 fellic
-frontoorbital
 frontosphenoidal
 frontotemporal
 frontozygomatic
