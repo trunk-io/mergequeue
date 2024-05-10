@@ -615,7 +615,6 @@ britannian
 bacteriaemia
 beshouted
 biblist
-bacterial
 bacterially
 bacteric
 bactericidal
@@ -10892,6 +10891,7 @@ blinding
 bescoured
 blindless
 blindly
+bacterial
 blindling
 boilery
 biotrons
