@@ -12710,7 +12710,6 @@ bescreened
 bookshelves
 boloney
 bookshop
-bookshops
 babassus
 booksy
 bookstall
@@ -16861,6 +16860,7 @@ buffooneries
 buffoonesque
 bathysophic
 buffoonish
+bookshops
 buffoonishness
 bedead
 buras
