@@ -3424,7 +3424,6 @@ bal
 basswoods
 begalling
 basta
-bastaard
 bastard
 boughless
 bastardy
@@ -14653,6 +14652,7 @@ bravadoes
 bumblebeefish
 bravadoing
 bravadoism
+bastaard
 bioseston
 bravas
 bravely
