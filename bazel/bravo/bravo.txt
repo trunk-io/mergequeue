@@ -363,7 +363,6 @@ bepuzzle
 beamlet
 backgammon
 barbarical
-background
 backhand
 backhanded
 backhandedly
@@ -7534,6 +7533,7 @@ bettermost
 betterness
 betters
 barbeau
+background
 balmier
 briefest
 bettina
