@@ -4333,7 +4333,6 @@ enamorado
 enamorate
 enamorato
 enamored
-enamoring
 ejusdem
 entomologic
 enamorment
@@ -11749,6 +11748,7 @@ exobiology
 exship
 examinable
 examinant
+enamoring
 exocannibalism
 enscrolled
 examinator
