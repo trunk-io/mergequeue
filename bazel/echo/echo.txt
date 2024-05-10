@@ -2084,6 +2084,7 @@ ebullioscope
 equatoreal
 elastase
 excretory
+evictions
 elastases
 elastica
 extrapolator
@@ -11507,7 +11508,6 @@ elenchically
 electromechanics
 extrasyllogistic
 erythraeidae
-evictions
 evenhandedness
 explanatory
 eleocharis

@@ -1052,7 +1052,6 @@ depositions
 darrein
 darrell
 darshan
-darsonval
 darsonvalism
 darst
 dart
@@ -3655,6 +3654,7 @@ deglory
 dermatoxerasia
 deglut
 disarrangement
+darsonval
 deglutinate
 deglutinated
 deduce
