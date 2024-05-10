@@ -882,7 +882,6 @@ galoots
 goldarns
 gambirs
 graduator
-gambist
 gambits
 gamblesomeness
 genseng
@@ -3435,6 +3434,7 @@ grittily
 grisaille
 girkin
 germinative
+gambist
 gustus
 germless
 geniohyoglossus
