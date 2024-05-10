@@ -2946,6 +2946,7 @@ eliminate
 entoplastic
 equiprobabilism
 eliminated
+exode
 ellipsometry
 equaled
 ergotized
@@ -12645,7 +12646,6 @@ exoculate
 engore
 expostulates
 exoculation
-exode
 exoderm
 exodermis
 exoderms
