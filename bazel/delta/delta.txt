@@ -7068,7 +7068,6 @@ disvalues
 destoolment
 destour
 destrer
-diphthongising
 destress
 destressed
 destry
@@ -9536,6 +9535,7 @@ dependants
 deuterons
 dygogram
 digonal
+diphthongising
 digoneutic
 digoneutism
 digonous
