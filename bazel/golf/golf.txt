@@ -1335,7 +1335,6 @@ garbline
 galga
 guib
 garblings
-garboard
 gesticulator
 garboards
 garbologist
@@ -7171,6 +7170,7 @@ glost
 gad
 goopy
 glaciate
+garboard
 greenthumbed
 geotectonics
 gorgonlike
