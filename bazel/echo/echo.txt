@@ -12995,7 +12995,6 @@ emrode
 euhemerised
 expeditating
 expeditely
-expediteness
 expediter
 expedites
 expediting
@@ -13229,6 +13228,7 @@ exploitable
 exploitatively
 exploitatory
 exploited
+expediteness
 exploitee
 exploiter
 exploiting
