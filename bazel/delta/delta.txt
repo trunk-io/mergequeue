@@ -11935,7 +11935,6 @@ disembarking
 dugout
 demi
 disthrone
-disembarks
 disembarrass
 disembarrassed
 dischargers
@@ -17116,6 +17115,7 @@ driftfish
 divestiture
 drifty
 driftiest
+disembarks
 drifting
 devilship
 dressers
