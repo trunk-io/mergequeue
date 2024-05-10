@@ -4782,6 +4782,7 @@ fainer
 floribunda
 fossores
 factorylike
+fockle
 feasting
 fustigate
 floor
@@ -6652,7 +6653,6 @@ focalization
 focalizes
 forbye
 focimeter
-fockle
 focsle
 flowerpot
 focus
