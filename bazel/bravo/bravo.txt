@@ -8984,7 +8984,6 @@ biocoenotic
 biodegradability
 biodegradable
 becassocked
-biodegrade
 beleap
 bavary
 biodegraded
@@ -15367,6 +15366,7 @@ brimless
 bilboes
 bindheimite
 brimly
+biodegrade
 breakdowns
 brimmed
 besom
