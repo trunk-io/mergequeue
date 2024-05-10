@@ -4024,7 +4024,6 @@ electromotor
 ezan
 evaginating
 estrapade
-extirpated
 empexa
 equiprobably
 epicoelian
@@ -14045,6 +14044,7 @@ encounterable
 extravasating
 elasmosaur
 extravehicular
+extirpated
 extravenate
 extraventricular
 extraversive

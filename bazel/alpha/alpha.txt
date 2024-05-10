@@ -17161,6 +17161,7 @@ apocha
 apochae
 apolog
 apocholic
+attemptable
 apochromatic
 apochromatism
 apocynaceae
@@ -23033,7 +23034,6 @@ attempering
 attempers
 attempre
 attempt
-attemptable
 attempted
 attempter
 attempters
