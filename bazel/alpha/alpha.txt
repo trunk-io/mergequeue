@@ -7183,7 +7183,6 @@ akkad
 austerer
 aroint
 androides
-akkadian
 akkadist
 akmite
 anagrammatized
@@ -12027,6 +12026,7 @@ anaspida
 attributable
 anaspidacea
 anaspides
+akkadian
 abducent
 anticonvention
 anastaltic
