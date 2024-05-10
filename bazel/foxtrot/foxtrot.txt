@@ -1883,6 +1883,7 @@ furniment
 fec
 fecaloid
 frankeniaceae
+formity
 fertilized
 fruittime
 fizzer
@@ -10086,7 +10087,6 @@ fusileers
 frying
 francophilism
 frija
-formity
 frijole
 ferruled
 foraging
