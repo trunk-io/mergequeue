@@ -3459,7 +3459,6 @@ biggah
 bastiment
 bastinaded
 bastinades
-baroi
 burbots
 bastinado
 bastinadoed
@@ -8378,6 +8377,7 @@ basifier
 bigas
 bigate
 bigbloom
+baroi
 bigbury
 bigemina
 berberian
