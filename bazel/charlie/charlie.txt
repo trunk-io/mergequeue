@@ -5949,7 +5949,6 @@ catheterize
 challa
 catheterized
 cerastium
-catheterizes
 catheti
 cathetometer
 cathetometric
@@ -31574,6 +31573,7 @@ curvacious
 cheet
 curval
 curvate
+catheterizes
 curvated
 curvation
 curvative
