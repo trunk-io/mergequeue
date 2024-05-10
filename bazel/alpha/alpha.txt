@@ -2790,7 +2790,6 @@ acridin
 acridine
 acridines
 acridinic
-acridinium
 acridity
 acridities
 autophagi
@@ -14780,6 +14779,7 @@ antiattrition
 antiauthoritarian
 antiautolysin
 antibacchic
+acridinium
 anchoresses
 antibacchii
 antibacchius
