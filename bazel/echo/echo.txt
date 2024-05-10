@@ -1967,7 +1967,6 @@ ekasilicon
 eke
 epop
 ekebergite
-ekename
 etymologisable
 exteriorate
 emphysematous
@@ -3906,6 +3905,7 @@ endured
 esopgi
 emitting
 emma
+ekename
 entamebas
 epigastrical
 emmarvel
