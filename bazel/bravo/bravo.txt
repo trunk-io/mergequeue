@@ -1021,7 +1021,6 @@ bucktails
 baybolt
 baycuru
 baidar
-baidarka
 baidarkas
 baidya
 blueish
@@ -17327,6 +17326,7 @@ botanises
 bummalo
 bummalos
 bummel
+baidarka
 bummer
 bummie
 bummil
