@@ -1573,6 +1573,7 @@ fauterer
 fauteuil
 feverroot
 foreteach
+forfaulture
 fauve
 flirtishness
 fauvette
@@ -8174,7 +8175,6 @@ friezing
 formats
 forfars
 forfault
-forfaulture
 flaglike
 forfeit
 forfeitableness
