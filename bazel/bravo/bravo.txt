@@ -9788,6 +9788,7 @@ bioenergetics
 basilosaurus
 byssogenous
 byssoid
+budukha
 byssolite
 bisson
 buckskin
@@ -15258,7 +15259,6 @@ bridling
 ballerine
 bridoons
 brie
-budukha
 briefcase
 birdsong
 bot
