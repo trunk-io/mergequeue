@@ -3264,6 +3264,7 @@ capling
 caplins
 cythera
 caplock
+coherald
 cordmaker
 capmaking
 capman
@@ -18450,7 +18451,6 @@ cohen
 cohenite
 cohens
 carpentership
-coherald
 cohered
 coherence
 cataractal
