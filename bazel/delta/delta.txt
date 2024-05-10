@@ -661,7 +661,6 @@ disrange
 damonico
 damosel
 decapitalize
-dampcourse
 desiccate
 damped
 desquamated
@@ -15626,6 +15625,7 @@ deadhouse
 doorways
 detacher
 doorward
+dampcourse
 doorweed
 divagating
 doover
