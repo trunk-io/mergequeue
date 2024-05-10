@@ -9926,7 +9926,6 @@ breadth
 bitterbrush
 bitterbump
 bedpad
-bitterbur
 bittered
 bitterender
 ballooning
@@ -10935,6 +10934,7 @@ bafta
 blypes
 barkeep
 blips
+bitterbur
 bliss
 branchiostegous
 birdcatcher
