@@ -5264,7 +5264,6 @@ deliriums
 deess
 denotatively
 denotativeness
-denotatum
 denote
 denoted
 denotement
@@ -5392,6 +5391,7 @@ dissipatedness
 diminishes
 dawned
 dentines
+denotatum
 denting
 delineatory
 dentinocemental
