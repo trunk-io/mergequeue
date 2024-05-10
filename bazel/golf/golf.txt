@@ -1887,7 +1887,6 @@ gastrostenosis
 gastrostomy
 gastrostomies
 grummer
-gastrostomus
 gonimolobe
 gastrothecal
 gastrotome
@@ -6244,6 +6243,7 @@ greit
 gumshoed
 greatly
 gyre
+gastrostomus
 genealogize
 gnomoniaceae
 globicephala
