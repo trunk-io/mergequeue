@@ -4402,6 +4402,7 @@ adrenocortical
 adrenocorticosteroid
 adrenocorticotrophic
 ammonolysis
+albuminosis
 adrenocorticotropic
 adrenolysis
 anthracolithic
@@ -7577,7 +7578,6 @@ albuminorrhea
 albuminoscope
 atlantoaxial
 albuminose
-albuminosis
 anonyms
 albuminous
 albuminousness
