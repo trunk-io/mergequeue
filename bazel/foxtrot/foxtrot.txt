@@ -6653,7 +6653,6 @@ focalization
 focalizes
 forbye
 focimeter
-focimetry
 fockle
 focsle
 flowerpot
@@ -7669,6 +7668,7 @@ foregallery
 fumy
 foregate
 foregift
+focimetry
 foregleam
 ferrocyanide
 foreglow
