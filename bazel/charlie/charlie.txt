@@ -5601,7 +5601,6 @@ catamarcan
 catamarenan
 colonizability
 chilopoda
-catamites
 catamiting
 catamnesis
 cordaitean
@@ -20271,6 +20270,7 @@ commonweal
 commonweals
 commonwealths
 commorancy
+catamites
 commorancies
 curviform
 commorient
