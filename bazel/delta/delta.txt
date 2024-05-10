@@ -673,7 +673,6 @@ dampne
 disseminate
 dampness
 dampproof
-dampproofer
 dampproofing
 damselfish
 damselfishes
@@ -735,6 +734,7 @@ deforestation
 dandelion
 dander
 danders
+dampproofer
 dandy
 diplarthrous
 dandiacally

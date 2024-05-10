@@ -4927,7 +4927,6 @@ glacialize
 greeing
 glaciated
 glaciates
-grumbles
 glaciating
 gilbertage
 glaciation
@@ -6419,6 +6418,7 @@ gobony
 gobs
 gobstick
 galipot
+grumbles
 gobstopper
 gerahs
 groceries
