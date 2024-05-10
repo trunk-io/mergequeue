@@ -4336,6 +4336,7 @@ florentium
 fraus
 fisherman
 flammably
+frustules
 fisherwoman
 feinschmeckers
 fishes
@@ -10778,7 +10779,6 @@ frustrative
 frustratory
 flat
 frustulent
-frustules
 frustum
 frutage
 frutescent
