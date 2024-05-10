@@ -457,7 +457,6 @@ ecclesiarch
 ecclesiarchy
 ecclesiast
 expostulated
-empasm
 ecclesiastic
 ecclesiastically
 envelopers
@@ -2112,6 +2111,7 @@ elastomers
 elastometer
 elastometry
 elastose
+empasm
 endocrinopathy
 emportment
 engarde
