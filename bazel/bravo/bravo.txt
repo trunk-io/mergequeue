@@ -15213,7 +15213,6 @@ bridewort
 bedimplies
 bridge
 bridgeable
-bighorn
 bridgebote
 bridgebuilder
 bridged
@@ -17146,6 +17145,7 @@ bulletproofed
 bulletproofing
 bulletwood
 britchka
+bighorn
 bullfeast
 bullfice
 bifold
