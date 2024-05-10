@@ -3441,7 +3441,6 @@ emblazes
 envies
 emblazoned
 emblazoner
-emblazonment
 emblazonments
 emblazons
 encharnel
@@ -4803,6 +4802,7 @@ entitlement
 encounterers
 encountering
 eros
+emblazonment
 encourage
 encouraged
 extremist
