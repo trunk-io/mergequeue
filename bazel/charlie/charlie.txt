@@ -10742,7 +10742,6 @@ chymify
 chymification
 chimin
 chiminage
-chiming
 chymist
 chymists
 chimla
@@ -14586,6 +14585,7 @@ cirri
 cirribranch
 cirriferous
 circulin
+chiming
 caponizes
 cirrigerous
 cirrigrade
