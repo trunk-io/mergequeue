@@ -9566,6 +9566,7 @@ escry
 escribe
 escribientes
 escrime
+ejectable
 escript
 escritoire
 encephalocele
@@ -10916,7 +10917,6 @@ eructation
 ereption
 euphemian
 enlivenments
-ejectable
 excised
 exhalants
 epilated

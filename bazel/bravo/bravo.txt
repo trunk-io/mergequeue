@@ -1545,6 +1545,7 @@ balldom
 balled
 bicorporal
 barbules
+bewraps
 blauboks
 baller
 ballerina
@@ -7725,7 +7726,6 @@ biogenies
 bewrayment
 beeper
 bewrays
-bewraps
 bathycurrent
 buffleheaded
 bewrapt
