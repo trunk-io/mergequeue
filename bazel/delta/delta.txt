@@ -5758,7 +5758,6 @@ deployments
 deftest
 deplorabilia
 deplorability
-deplorableness
 deplorably
 diving
 deploration
@@ -8949,6 +8948,7 @@ disafforestation
 deflator
 dichromat
 dichromatic
+deplorableness
 dichromaticism
 dichromatism
 debonairty
