@@ -2432,6 +2432,7 @@ enstatite
 electrogasdynamics
 electroharmonic
 empanelment
+eloining
 electrohemostasis
 exacinate
 electrohydraulically
@@ -3102,7 +3103,6 @@ eloiner
 eloiners
 eustachium
 eburated
-eloining
 expurgators
 exactiveness
 eloinment
