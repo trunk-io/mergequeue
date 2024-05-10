@@ -11935,6 +11935,7 @@ duskish
 disembarking
 dugout
 demi
+drest
 disthrone
 disembarks
 disembarrass
@@ -17045,7 +17046,6 @@ dressmakers
 dressmaking
 dressoir
 dressoirs
-drest
 diglottism
 dretch
 drevel
