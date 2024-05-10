@@ -7166,7 +7166,6 @@ fatherlandish
 footfall
 forebroads
 ferruling
-festive
 footfalls
 footfarer
 falsework
@@ -9470,6 +9469,7 @@ foreteeth
 frape
 frappe
 frappeing
+festive
 frappes
 frondescence
 frapping
