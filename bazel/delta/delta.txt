@@ -10626,7 +10626,6 @@ dithyrambic
 detritus
 dunnaged
 diplont
-diplonts
 diplophase
 dictional
 dosology
@@ -18590,6 +18589,7 @@ dustless
 dustlessness
 dustlike
 dustoori
+diplonts
 dustour
 dustpan
 dustrags
