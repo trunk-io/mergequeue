@@ -6731,7 +6731,6 @@ entete
 enthean
 entheasm
 enfuddle
-enthelminthic
 enthetic
 enthymematic
 enthymeme
@@ -11073,6 +11072,7 @@ euripi
 euripides
 elizabethan
 eurypyga
+enthelminthic
 encreel
 effected
 experientialist

@@ -9867,6 +9867,7 @@ amasser
 amasses
 aregeneratory
 amassette
+atpoints
 amassing
 amorphic
 attractile
@@ -23567,7 +23568,6 @@ aurichloride
 aurichlorohydric
 asplanchnic
 auricyanhydric
-atpoints
 auricle
 antiexpressively
 auricles
