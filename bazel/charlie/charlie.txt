@@ -24410,7 +24410,6 @@ cooped
 courbache
 cooperage
 cooperant
-cooperate
 cooperated
 cooperates
 cumquats
@@ -30681,6 +30680,7 @@ cuish
 cameography
 cuishes
 cuisinary
+cooperate
 chaps
 cuisine
 compressor
