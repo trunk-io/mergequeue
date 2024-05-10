@@ -10164,6 +10164,7 @@ chemophysiological
 chestfuls
 chesty
 chestier
+catfaces
 corallorhiza
 chestnut
 chestnuts
@@ -22869,7 +22870,6 @@ coutelle
 conservancies
 conservant
 conservate
-catfaces
 circumcise
 conservation
 conservational
