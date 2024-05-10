@@ -5422,7 +5422,6 @@ fogydom
 foretack
 forgeful
 flesher
-fossilizable
 fleshful
 friseurs
 firedamp
@@ -8753,6 +8752,7 @@ fortunetelling
 fortunite
 forefence
 followership
+fossilizable
 fortuuned
 forumize
 forwalk
