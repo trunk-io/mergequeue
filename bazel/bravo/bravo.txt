@@ -1020,7 +1020,6 @@ bucktails
 baybolt
 baycuru
 baidar
-baidarka
 baidarkas
 baidya
 blueish
@@ -13450,6 +13449,7 @@ bouchette
 bouchon
 boucl
 boucle
+baidarka
 boucles
 butterless
 boudeuse
