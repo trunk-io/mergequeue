@@ -3833,7 +3833,6 @@ exemplarily
 emeu
 engladden
 emeutes
-emf
 emforth
 emic
 eudendrium
@@ -8508,6 +8507,7 @@ epuration
 eq
 eremian
 effectual
+emf
 equability
 equableness
 equably
