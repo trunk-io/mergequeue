@@ -1890,6 +1890,7 @@ grummer
 gastrostomus
 gonimolobe
 gastrothecal
+generalizeable
 gastrotome
 gastrotomic
 greensand
@@ -3377,7 +3378,6 @@ germanized
 germanizer
 germanness
 germinant
-generalizeable
 galleine
 gingeley
 glossograph
