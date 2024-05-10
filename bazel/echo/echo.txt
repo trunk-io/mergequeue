@@ -1099,6 +1099,7 @@ elderhood
 earock
 edificatory
 edifice
+emic
 earwaxes
 edificed
 edifices
@@ -3840,7 +3841,6 @@ engladden
 emeutes
 emf
 emforth
-emic
 eudendrium
 emication
 emyde
