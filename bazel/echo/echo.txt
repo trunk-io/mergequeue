@@ -7027,6 +7027,7 @@ entropionize
 entrust
 exarchate
 emote
+established
 entrusting
 entrustment
 entrusts
@@ -14164,7 +14165,6 @@ exul
 ethane
 envenomization
 exulcerating
-established
 evocation
 exulding
 exultant
