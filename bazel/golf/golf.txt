@@ -1832,7 +1832,6 @@ gastroparesis
 gonyaulax
 galluot
 gastroparietal
-gastropathy
 gastropathic
 gabbier
 gastroperiodynia
@@ -6321,6 +6320,7 @@ gentium
 goalies
 grudgefully
 guastalline
+gastropathy
 guao
 grenadin
 garrisoned
