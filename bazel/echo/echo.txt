@@ -4040,7 +4040,6 @@ embarked
 emphatical
 endometritis
 emphysema
-emetic
 emphyteusis
 endobronchitis
 encipherment
@@ -9623,6 +9622,7 @@ encrustant
 eskimoid
 euchromatic
 emeras
+emetic
 eskimoized
 eskimos
 exhibitant
