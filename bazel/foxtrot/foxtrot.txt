@@ -1848,7 +1848,6 @@ feats
 fainness
 forgets
 featured
-featureful
 featurelessness
 featureliness
 figureheadship
@@ -2390,6 +2389,7 @@ firkin
 flippest
 fenugreek
 furner
+featureful
 flattops
 fenzelia
 feod
