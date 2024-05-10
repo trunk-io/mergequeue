@@ -2514,7 +2514,6 @@ bargander
 barge
 bargeboard
 bargeer
-biogasses
 bergere
 bargehouse
 bargelike
@@ -5955,6 +5954,7 @@ butterbur
 bellwether
 bellwind
 bellwine
+biogasses
 bellwood
 bluely
 bellwort
