@@ -204,7 +204,6 @@ deforesting
 dietics
 daemonistic
 daemons
-daemonurgy
 droitural
 daemonurgist
 dishallucination
@@ -16150,6 +16149,7 @@ dovefoot
 decadarch
 dovehouse
 dovekeys
+daemonurgy
 dovekies
 dovelet
 dovelike
