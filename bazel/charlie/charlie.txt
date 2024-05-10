@@ -6554,7 +6554,6 @@ custodial
 ccoya
 charcuterie
 ccw
-cd
 cdf
 carid
 cdg
@@ -9922,6 +9921,7 @@ chemoautotrophically
 chemoceptor
 chemokinesis
 chemokinetic
+cd
 chemolysis
 chemolytic
 coasted
