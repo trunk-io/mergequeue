@@ -8427,7 +8427,6 @@ electrodepositor
 epizootiology
 equip
 eglogue
-epizootology
 epocha
 eumitosis
 epoche
@@ -13797,6 +13796,7 @@ extracerebral
 electrophilic
 extracystic
 extracivic
+epizootology
 extracivically
 etymological
 extraclaustral
