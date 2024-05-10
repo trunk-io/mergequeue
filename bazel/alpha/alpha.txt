@@ -12500,7 +12500,6 @@ anemobiagraph
 anemochord
 anemochore
 acetonuria
-anemochoric
 anemochorous
 anemoclastic
 appropriated
@@ -23131,6 +23130,7 @@ atticomastoid
 apiculture
 attila
 attinge
+anemochoric
 attingency
 attingent
 attirail

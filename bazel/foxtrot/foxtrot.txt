@@ -9473,7 +9473,6 @@ funniment
 fliers
 foreteeth
 frape
-frappe
 frappeing
 frappes
 frondescence
@@ -11426,6 +11425,7 @@ fieldward
 furnariidae
 fleeciest
 furnariides
+frappe
 flect
 fess
 floralize
