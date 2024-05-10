@@ -1340,7 +1340,6 @@ frogskins
 fasts
 fastuousness
 fatagaga
-fecklessness
 fatale
 featherworker
 fatalism
@@ -5658,6 +5657,7 @@ fease
 fledgier
 firelike
 featlier
+fecklessness
 fleme
 flinthearted
 flinty
