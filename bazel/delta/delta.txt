@@ -7387,7 +7387,6 @@ detracter
 detracting
 disclamatory
 detractingly
-detraction
 detractions
 detractively
 detracts
@@ -10145,6 +10144,7 @@ dingleberry
 dinglebird
 dingled
 dreidl
+detraction
 dingledangle
 dunkirk
 decemvirs
