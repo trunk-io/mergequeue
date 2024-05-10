@@ -6609,7 +6609,6 @@ braconidae
 bequeathing
 brawled
 bequeaths
-bequest
 bullyingly
 bequests
 ber
@@ -17833,6 +17832,7 @@ burrbark
 burree
 burrers
 burrfish
+bequest
 burrgrailer
 burrhead
 burrheaded
