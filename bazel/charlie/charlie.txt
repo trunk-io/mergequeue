@@ -19398,7 +19398,6 @@ colorblindness
 colorbreed
 colorcast
 colorcasted
-colorcasting
 colorcasts
 colorectitis
 colorectostomy
@@ -28148,6 +28147,7 @@ condenseries
 cranioclasty
 craniofacial
 craniognomic
+colorcasting
 convolutely
 carbonadoing
 cristated
