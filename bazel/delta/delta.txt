@@ -1125,7 +1125,6 @@ digests
 dasiphora
 dasypod
 diagenetically
-demonstrative
 dasypus
 dasystephana
 dasyures
@@ -15672,6 +15671,7 @@ dorab
 dorad
 doradidae
 dernful
+demonstrative
 dorado
 doralium
 dorask
