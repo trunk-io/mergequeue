@@ -9440,7 +9440,6 @@ echeveria
 escalin
 escalloniaceae
 erythrean
-escalloniaceous
 escallop
 esseda
 escalloped
@@ -10705,6 +10704,7 @@ eudemonic
 extorsive
 eudemonist
 exigenter
+escalloniaceous
 excavate
 endozoa
 educts
