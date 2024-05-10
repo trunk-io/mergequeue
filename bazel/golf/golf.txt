@@ -171,7 +171,6 @@ gaes
 gargantua
 gaet
 gritless
-gallinulelike
 geryon
 guarantees
 grubber
@@ -7958,6 +7957,7 @@ granduncles
 grane
 gunrooms
 granet
+gallinulelike
 goaf
 grangerize
 gongorism
