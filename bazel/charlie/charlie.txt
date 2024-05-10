@@ -2755,7 +2755,6 @@ canoeists
 canoeload
 canoeman
 canoes
-calmy
 cardiogenesis
 canoewood
 crescendi
@@ -12601,6 +12600,7 @@ chromos
 coadjacency
 chromoscopy
 chromoscopic
+calmy
 chromosomally
 condensate
 chromosomes
