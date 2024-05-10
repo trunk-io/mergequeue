@@ -1245,7 +1245,6 @@ ewer
 endostome
 eelery
 enarch
-evaluation
 endopleuritic
 eelfare
 exuberance
@@ -1717,6 +1716,7 @@ eyedropperful
 eyedroppers
 eyeflap
 eyefuls
+evaluation
 erratics
 eyeglance
 eyeglasses
