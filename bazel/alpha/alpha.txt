@@ -9628,7 +9628,6 @@ aluminising
 arrhal
 aluminite
 aluminium
-aluminize
 aluminizes
 aluminizing
 aluminoferric
@@ -22327,6 +22326,7 @@ anaesthesiant
 astrolog
 astrologaster
 astrologers
+aluminize
 astrology
 astrologically
 astrologist
