@@ -5319,7 +5319,6 @@ gammelost
 glauconitic
 gangly
 glowerer
-guitarfish
 grahamite
 gliadine
 geomedicine
@@ -10551,6 +10550,7 @@ goldenmouth
 gunong
 girasols
 grabbers
+guitarfish
 gerbille
 gunpapers
 greenockite
