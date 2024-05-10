@@ -6716,6 +6716,7 @@ celebrant
 celebrants
 celebrate
 celebratedly
+chambranle
 celebratedness
 celebrater
 celebrates
@@ -8524,7 +8525,6 @@ chambray
 colloquist
 chlorine
 chambrays
-chambranle
 confected
 chambre
 catchers
