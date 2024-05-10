@@ -4804,6 +4804,7 @@ foothook
 flailing
 folksinging
 fisheries
+followable
 flails
 flain
 flubdubberies
@@ -6976,7 +6977,6 @@ foutra
 fatheads
 fendy
 follow
-followable
 foisting
 fennig
 frase
