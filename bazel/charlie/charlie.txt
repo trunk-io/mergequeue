@@ -2844,7 +2844,6 @@ countercultures
 clothesmonger
 cantabrian
 cantabrigian
-cantabrize
 cantador
 certainties
 cantala
@@ -24225,6 +24224,7 @@ colleterial
 convocations
 convocative
 convocator
+cantabrize
 convoyed
 convoying
 convoke
