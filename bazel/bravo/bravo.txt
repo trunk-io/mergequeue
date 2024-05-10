@@ -1550,6 +1550,7 @@ bicorporal
 barbules
 blauboks
 baller
+bluecap
 ballerina
 ballerinas
 ballers
@@ -11350,7 +11351,6 @@ bashlik
 bluebush
 bluebutton
 build
-bluecap
 bibbed
 bluecoat
 bluecoated
