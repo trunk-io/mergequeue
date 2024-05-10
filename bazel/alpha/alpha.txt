@@ -12477,6 +12477,7 @@ anechoic
 antireducing
 adaptation
 amazed
+audiometries
 anelasticity
 anele
 augurship
@@ -23329,7 +23330,6 @@ audiometers
 audiometric
 aphaeretic
 audiometrically
-audiometries
 audiometrist
 antitwilight
 audion
