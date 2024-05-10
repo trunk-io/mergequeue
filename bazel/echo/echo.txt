@@ -9532,7 +9532,6 @@ eschewer
 endsheet
 eam
 edges
-editorializing
 eschewers
 eschewing
 everwho
@@ -13835,6 +13834,7 @@ extractiform
 euphenic
 extroverts
 extracting
+editorializing
 extractive
 extractively
 extractor
