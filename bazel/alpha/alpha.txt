@@ -13905,7 +13905,6 @@ anorthoscope
 anorthose
 aguilawood
 anorthosite
-anoscope
 angstrom
 aqueduct
 anoscopy
@@ -23955,6 +23954,7 @@ abutilons
 autochthonously
 atmometer
 autochthonousness
+anoscope
 autochton
 autocycle
 autocide
