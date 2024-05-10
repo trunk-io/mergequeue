@@ -6502,7 +6502,6 @@ goldilocks
 gunmaker
 gyrus
 gunpowder
-grotto
 goitrogenic
 goitrous
 gomlah
@@ -8770,6 +8769,7 @@ gastroschisis
 government
 garcon
 gregg
+grotto
 greggriffin
 globetrotting
 gentianaceous
