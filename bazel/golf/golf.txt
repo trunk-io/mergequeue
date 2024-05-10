@@ -2055,7 +2055,6 @@ gullage
 gauntness
 garnerage
 garland
-gaup
 gas
 goring
 gunfought
@@ -10252,6 +10251,7 @@ guyot
 guipure
 gruelled
 galatians
+gaup
 gumbos
 guys
 glub
