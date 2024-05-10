@@ -12091,7 +12091,6 @@ catchalls
 cariyo
 cutes
 chorograph
-chorographer
 chorographical
 criticizable
 chorographically
@@ -29220,6 +29219,7 @@ cryptanalyze
 capybara
 chemurgic
 cryptanalyzed
+chorographer
 cryptanalyzing
 cryptarch
 cryptarchy
