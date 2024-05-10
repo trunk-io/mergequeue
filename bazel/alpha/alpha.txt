@@ -15823,7 +15823,6 @@ antipathogene
 antipathogenic
 antipatriarch
 antipatriarchally
-antipatriarchy
 antipatriot
 antipatriotic
 afterfermentation
@@ -23312,6 +23311,7 @@ audiencia
 aerobacters
 audiencier
 audient
+antipatriarchy
 audients
 arteriopathy
 audile
