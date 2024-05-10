@@ -2095,7 +2095,6 @@ favissae
 fastidiously
 feloniously
 finiglacial
-feldspathoid
 foys
 feldspathoidal
 franca
@@ -6743,6 +6742,7 @@ fogmen
 fuseless
 fogo
 fogon
+feldspathoid
 fogproof
 fogram
 freewheeler
