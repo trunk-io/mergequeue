@@ -7293,7 +7293,6 @@ gossipee
 gossiper
 gadolinium
 gatehouses
-gossipy
 gravitationally
 guaranteing
 gossypin
@@ -9199,6 +9198,7 @@ grizzlers
 grizzly
 goalers
 grizzliest
+gossipy
 grizzling
 groaned
 gallflower
