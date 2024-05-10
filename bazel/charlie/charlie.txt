@@ -1257,7 +1257,6 @@ caliban
 caliber
 calibers
 cunas
-clavicembali
 colunar
 calibrated
 canichana
@@ -2671,6 +2670,7 @@ cannele
 cannellate
 congruences
 cannelle
+clavicembali
 caliche
 candyfloss
 cannelloni
