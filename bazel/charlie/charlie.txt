@@ -5808,7 +5808,6 @@ catelectrode
 capstones
 catelectrotonic
 catelectrotonus
-colorlessness
 chaffier
 catella
 catena
@@ -24425,6 +24424,7 @@ cooping
 coops
 coopt
 cooptate
+colorlessness
 cooptation
 coopted
 coopting

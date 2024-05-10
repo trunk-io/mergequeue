@@ -8756,7 +8756,6 @@ amblosis
 allhallows
 allhallowtide
 allheals
-ally
 alliaceae
 auspicial
 alliage
@@ -9537,6 +9536,7 @@ altimetrical
 altimetrically
 attacolite
 altingiaceous
+ally
 altininck
 altiplanicie
 ametaboly
