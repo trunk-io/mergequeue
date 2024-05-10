@@ -1452,7 +1452,6 @@ dazzlers
 dwindle
 dazzlingness
 dbl
-dbms
 demidolmen
 degenerationist
 deevilick
@@ -2125,6 +2124,7 @@ decapsulate
 decarbonated
 decarbonating
 dacryocele
+dbms
 decarbonation
 desertedness
 disintegrations
