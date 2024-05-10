@@ -16456,7 +16456,6 @@ antliate
 antlid
 antre
 antlike
-antling
 antlion
 antlions
 antlophobia
@@ -23380,6 +23379,7 @@ aug
 auganite
 augend
 aporrhoea
+antling
 adders
 augends
 auger
