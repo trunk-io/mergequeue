@@ -11648,6 +11648,7 @@ bobbinet
 backlighting
 bobbinets
 barefooted
+bushlands
 bobbing
 bolivias
 bobbinite
@@ -17968,7 +17969,6 @@ bushiness
 bahmanid
 bushland
 bravoite
-bushlands
 bushless
 bushlike
 bareness
