@@ -15766,7 +15766,6 @@ clava
 clavacin
 clavae
 centres
-claval
 clavariaceae
 clavariaceous
 clavate
@@ -30970,6 +30969,7 @@ cummer
 cummerbund
 cummerbunds
 cummers
+claval
 chalkography
 cummingtonite
 cummins
