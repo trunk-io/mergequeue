@@ -3377,7 +3377,6 @@ fieldstrip
 feaking
 faintish
 fieldwork
-fieldworker
 forcipal
 fieldwort
 fiendful
@@ -5529,6 +5528,7 @@ flybys
 fluctisonous
 flyblowing
 flyblows
+fieldworker
 flyboat
 flyboats
 freshmanic
