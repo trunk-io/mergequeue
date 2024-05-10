@@ -1762,7 +1762,6 @@ baltimore
 barandos
 bumblebeefishes
 baculums
-balu
 baluba
 baluch
 bitripinnatifid
@@ -3634,6 +3633,7 @@ borsht
 bathonian
 blockmaking
 bathool
+balu
 bathophobia
 bathos
 bathrobe
