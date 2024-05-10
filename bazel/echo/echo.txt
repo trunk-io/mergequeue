@@ -2113,7 +2113,6 @@ elastometry
 elastose
 endocrinopathy
 emportment
-engarde
 elate
 elated
 engrafting
@@ -7779,6 +7778,7 @@ exosporous
 epigastria
 epigastric
 epigastriocele
+engarde
 epigastrium
 epigastrocele
 eliminations
