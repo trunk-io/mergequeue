@@ -4070,7 +4070,6 @@ fellatrixes
 fletching
 finnochio
 filiopietistic
-finns
 fino
 finochio
 finedrawing
@@ -9776,6 +9775,7 @@ foretoken
 freightage
 fluorite
 fringe
+finns
 fourchette
 fatten
 freightyard
