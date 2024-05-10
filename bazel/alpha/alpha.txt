@@ -19104,7 +19104,6 @@ adread
 archmagirist
 archmarshal
 archmessenger
-archmilitarist
 archmocker
 archmockery
 archmonarch
@@ -24730,6 +24729,7 @@ aviatorial
 aviatoriality
 aviators
 aviatress
+archmilitarist
 aviatrice
 aviatrices
 aviatrix
