@@ -425,7 +425,6 @@ chromatology
 cholecyanin
 cactal
 cactales
-cacti
 cactiform
 cactoid
 cactus
@@ -23051,6 +23050,7 @@ consonants
 consonate
 consonous
 consopite
+cacti
 consort
 counteradvice
 consortable
