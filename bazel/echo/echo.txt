@@ -1185,7 +1185,6 @@ evitate
 educated
 educatedness
 educates
-entitule
 enuresis
 eternalization
 estivates
@@ -6711,6 +6710,7 @@ enters
 entertained
 entertainer
 emotionalization
+entitule
 entertaining
 exceptant
 entertainingly
