@@ -1186,6 +1186,7 @@ blowcase
 bake
 brew
 bonus
+barble
 burrish
 bibliographer
 bellis
@@ -17190,7 +17191,6 @@ bullyragged
 bullyragger
 bullyragging
 balantidial
-barble
 buckramed
 baubles
 bullyrock
