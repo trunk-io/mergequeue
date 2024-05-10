@@ -6296,6 +6296,7 @@ fluidized
 followup
 fluidmeter
 fairylands
+forrit
 faulted
 forceful
 fawnery
@@ -8600,7 +8601,6 @@ fenceress
 frivolizing
 forride
 forril
-forrit
 foxish
 forescript
 forsay
