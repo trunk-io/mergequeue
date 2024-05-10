@@ -506,6 +506,7 @@ galere
 galericulate
 galerum
 garveys
+griots
 geochronological
 gales
 galesaur
@@ -6087,7 +6088,6 @@ grass
 geic
 geodesics
 gazing
-griots
 genesiac
 glutamine
 genevois
