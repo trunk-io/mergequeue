@@ -4128,7 +4128,6 @@ employe
 estado
 eriglossa
 employed
-employee
 endives
 employees
 employer
@@ -9434,6 +9433,7 @@ entrance
 enkindle
 escalator
 escalier
+employee
 echeveria
 escalin
 escalloniaceae
