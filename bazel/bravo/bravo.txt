@@ -6863,7 +6863,6 @@ berrypicking
 berrugate
 bersagliere
 bersaglieri
-berseem
 berseems
 berserker
 blackbirds
@@ -11967,6 +11966,7 @@ boothose
 bartholomean
 boyardom
 burse
+berseem
 boyarism
 bodysuit
 boyau
