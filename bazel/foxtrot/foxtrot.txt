@@ -1902,7 +1902,6 @@ flabra
 fecundate
 fecundated
 foreknows
-footstep
 fecundations
 fallacious
 fecundator
@@ -8045,6 +8044,7 @@ fright
 fessing
 foresting
 foreknow
+footstep
 fulvid
 forestish
 fishier
