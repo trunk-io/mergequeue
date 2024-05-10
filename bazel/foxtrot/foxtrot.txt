@@ -3357,7 +3357,6 @@ foredeem
 forfeitable
 fiel
 forzato
-forthcoming
 fieldbird
 fielden
 fieldfare
@@ -3628,6 +3627,7 @@ fordoing
 funereal
 filicinian
 filicites
+forthcoming
 filosus
 functionaries
 furbisher
