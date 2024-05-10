@@ -3387,7 +3387,6 @@ arthropathology
 autophotograph
 adactyl
 adactylia
-anomurous
 adactylous
 automatograph
 ambilaterally
@@ -10682,6 +10681,7 @@ amyraldist
 amiranha
 anabolitic
 alevins
+anomurous
 amire
 amyrin
 amyris
