@@ -12423,7 +12423,6 @@ bondslave
 bondsman
 braeman
 bondsmen
-bondstone
 bondswoman
 bondswomen
 bonducnut
@@ -16577,6 +16576,7 @@ biometry
 bessemerizing
 buccinatory
 barrabkie
+bondstone
 buccinum
 bigging
 bucco
