@@ -1457,6 +1457,7 @@ effume
 emulsionize
 effund
 empathic
+exemplifier
 effused
 enthalpy
 espiegle
@@ -12327,7 +12328,6 @@ eire
 exemplificator
 exemplified
 extradites
-exemplifier
 exemplifying
 exempted
 experimentations
