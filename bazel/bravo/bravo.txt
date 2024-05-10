@@ -7033,7 +7033,6 @@ besiegement
 besiegers
 biorhythmicities
 besieges
-besiegingly
 besin
 besit
 beslab
@@ -8315,6 +8314,7 @@ bifluoride
 bifocal
 bifocals
 buffbar
+besiegingly
 bifoil
 bifolia
 balanocele
