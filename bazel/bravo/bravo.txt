@@ -3525,6 +3525,7 @@ bissext
 birdcall
 batched
 brokership
+bananaquit
 batcher
 batching
 bargemen
@@ -15644,7 +15645,6 @@ broch
 burliness
 brochant
 brochantite
-bananaquit
 broche
 brochettes
 bauson

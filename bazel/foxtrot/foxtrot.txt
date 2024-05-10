@@ -2616,7 +2616,6 @@ ferricyanide
 ferrihydrocyanic
 fullering
 frizzles
-flangeless
 ferryhouse
 ferrimagnetically
 ferryman
@@ -9104,6 +9103,7 @@ fowlery
 froeman
 fowlerite
 fowlers
+flangeless
 fowlfoot
 fowlings
 fluvious
