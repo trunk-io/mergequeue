@@ -5473,7 +5473,6 @@ energize
 exploiters
 enharmonically
 energizers
-energizes
 ecclesiology
 energumenon
 environ
@@ -7475,6 +7474,7 @@ ephor
 essayical
 ephorate
 ephraim
+energizes
 ekphory
 escalatory
 ephraimite
