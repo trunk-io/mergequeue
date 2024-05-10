@@ -1086,6 +1086,7 @@ fuzzle
 forthcomer
 farmyard
 ferlies
+francophil
 farmyardy
 foremastman
 farmout
@@ -9397,7 +9398,6 @@ francolin
 fontainea
 francolite
 franconian
-francophil
 funebre
 figeter
 fanneling
