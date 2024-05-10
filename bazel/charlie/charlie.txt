@@ -1882,7 +1882,6 @@ camellike
 cornwallises
 camellin
 cameloidea
-critically
 camelopardalis
 camelopardel
 camelopardid
@@ -15301,6 +15300,7 @@ clay
 claybank
 claybanks
 claiborne
+critically
 claibornian
 claybrained
 cathin
