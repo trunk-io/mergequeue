@@ -2682,6 +2682,7 @@ electrotypy
 endiablee
 escarmouche
 earwigged
+emboly
 electrotypist
 electrotitration
 esquamulose
@@ -3511,7 +3512,6 @@ embolectomy
 enicuridae
 embolemia
 emboli
-emboly
 emboliform
 engraphy
 epipodialia
