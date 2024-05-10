@@ -9884,7 +9884,6 @@ guaranteers
 gravemaker
 genevese
 gangplow
-guaranty
 glyceride
 gaolering
 guaranties
@@ -10247,6 +10246,7 @@ gashliness
 genian
 guinness
 gristmilling
+guaranty
 guyot
 guipure
 gruelled

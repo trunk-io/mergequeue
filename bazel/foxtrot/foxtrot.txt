@@ -807,6 +807,7 @@ fesswise
 fango
 fangs
 faniente
+forwardness
 fanion
 frowsy
 flusher
@@ -10176,7 +10177,6 @@ flarfish
 frigidaire
 fifteen
 frise
-forwardness
 fascicular
 frisette
 flatteners
