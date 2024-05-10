@@ -6378,7 +6378,6 @@ goby
 gobia
 goliad
 gobies
-gonococcus
 geckotian
 greenyard
 gordyaean
@@ -9453,6 +9452,7 @@ genteelness
 groundswell
 garni
 gaseously
+gonococcus
 gramp
 groundswells
 germaneness
