@@ -5104,7 +5104,6 @@ grippe
 gossipper
 glanduliform
 glanduligerous
-gazee
 gleba
 governesshood
 guiltful
@@ -10266,6 +10265,7 @@ gratifies
 guise
 guitar
 grubhood
+gazee
 guitarist
 guitarists
 ghazies
