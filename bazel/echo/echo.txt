@@ -2054,7 +2054,6 @@ elaphurus
 extrastate
 elapidae
 elapids
-euthyneural
 elapine
 elapse
 edificant
@@ -5783,6 +5782,7 @@ engrammes
 edwardine
 easily
 engrandize
+euthyneural
 engrandizement
 engraphic
 engraphically
