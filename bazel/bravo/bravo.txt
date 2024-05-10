@@ -1525,6 +1525,7 @@ becost
 ballas
 baronetised
 ballastage
+bepimpling
 bulbiform
 bouton
 backsword
@@ -6580,7 +6581,6 @@ bepimple
 brainpower
 beadily
 brochures
-bepimpling
 bureaucratical
 belonesite
 bepinch
