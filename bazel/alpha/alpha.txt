@@ -10841,6 +10841,7 @@ allamoth
 amnigenia
 arundinaceous
 allegorical
+arteriospasm
 amniocentesis
 amniochorial
 amniomancy
@@ -20536,7 +20537,6 @@ accentless
 arteriosclerosis
 arteriosympathectomy
 airfreight
-arteriospasm
 arteriostenosis
 admix
 arteriotome
