@@ -6280,6 +6280,7 @@ fluidified
 fluidifier
 fluidimeter
 faldage
+frigiferous
 fluidisation
 fld
 fooder
@@ -10074,7 +10075,6 @@ frigiddaria
 frigidly
 feetage
 flemished
-frigiferous
 frigolabile
 fadlike
 fashion
