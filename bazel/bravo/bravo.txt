@@ -14667,7 +14667,6 @@ bayoneted
 braving
 bespatter
 bravissimo
-bigram
 bravoes
 boulevards
 boho
@@ -16140,6 +16139,7 @@ beachfront
 brothiest
 brotocrystal
 bromoform
+bigram
 betweenwhiles
 bezaleelian
 blueheads
