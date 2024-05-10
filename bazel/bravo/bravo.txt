@@ -3036,7 +3036,6 @@ barvell
 beduin
 brainwashing
 bimetal
-breastplate
 bakerite
 boffola
 basipoditic
@@ -7743,6 +7742,7 @@ bezazz
 botswana
 bezazzes
 becloaking
+breastplate
 bezesteen
 binaurally
 butterflyer
