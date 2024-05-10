@@ -2159,7 +2159,6 @@ frailejon
 feldsparphyre
 foddered
 fellatrice
-fellatrices
 fellatrix
 felled
 fellest
@@ -6839,6 +6838,7 @@ filla
 foldedly
 folden
 fusspot
+fellatrices
 flouncey
 foretokening
 fanlight
