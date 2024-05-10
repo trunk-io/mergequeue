@@ -4709,7 +4709,6 @@ ganch
 glossae
 gillhooter
 gyroceran
-gallery
 gramoches
 golliwogg
 gorkhali
@@ -7667,6 +7666,7 @@ granth
 graeme
 gonion
 grenadier
+gallery
 geography
 gunbarrel
 graffias
