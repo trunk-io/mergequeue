@@ -28193,7 +28193,6 @@ cranioscopical
 cranioscopist
 craniotabes
 craniotome
-craniotomy
 craniotomies
 craniotopography
 craniovertebral
@@ -31358,6 +31357,7 @@ curiosa
 curiosi
 curiosities
 cremona
+craniotomy
 curioso
 curious
 curiousest
