@@ -1888,7 +1888,6 @@ gastrostege
 gastrostenosis
 gastrostomy
 gastrostomies
-grummer
 gastrostomus
 gonimolobe
 gastrothecal
@@ -7000,6 +6999,7 @@ gutterlike
 gooma
 garrat
 goonch
+grummer
 goondie
 gardant
 gemsboks

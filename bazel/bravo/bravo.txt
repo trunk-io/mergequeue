@@ -8974,7 +8974,6 @@ biocoenose
 bouchons
 biocoenoses
 biocoenotic
-biodegradability
 biodegradable
 becassocked
 biodegrade
@@ -17833,6 +17832,7 @@ burrbark
 burree
 burrers
 burrfish
+biodegradability
 burrgrailer
 burrhead
 burrheaded
