@@ -7077,6 +7077,7 @@ foodless
 fulfilled
 flowk
 foods
+flannelet
 foodstuff
 flacked
 fooyoung
@@ -7676,7 +7677,6 @@ foreglow
 forego
 fables
 fasciolidae
-flannelet
 foregrounds
 foreguess
 fleshlily
