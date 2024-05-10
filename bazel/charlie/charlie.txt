@@ -9542,7 +9542,6 @@ checkbooks
 checker
 cartoned
 checkerbelly
-checkerbellies
 checkerberry
 checkerberries
 checkerbloom
@@ -15520,6 +15519,7 @@ claps
 consecratedness
 clapstick
 clablaria
+checkerbellies
 clapt
 chicane
 claptraps
