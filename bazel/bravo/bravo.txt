@@ -5752,7 +5752,6 @@ beliefs
 beliers
 belies
 believability
-believable
 believed
 believer
 believers
@@ -7856,6 +7855,7 @@ bianca
 bianchite
 ballons
 birchman
+believable
 biangulate
 backtalk
 baluchitheria
