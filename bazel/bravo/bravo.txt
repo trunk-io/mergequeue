@@ -2872,6 +2872,7 @@ barrages
 barraging
 bailer
 barragon
+berried
 bowle
 bombproof
 bosun
@@ -8629,7 +8630,6 @@ behovely
 badinaging
 bilks
 bill
-berried
 bushveld
 brattish
 bassanello
