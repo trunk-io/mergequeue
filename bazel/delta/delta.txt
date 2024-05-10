@@ -7087,6 +7087,7 @@ diagnostic
 destruct
 destructibility
 devitaminize
+dewclaw
 diluvian
 dressages
 destructible
@@ -7869,7 +7870,6 @@ dewberry
 deadtongue
 dewberries
 dewcap
-dewclaw
 dewclawed
 dewclaws
 dewcup
