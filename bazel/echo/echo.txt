@@ -2782,7 +2782,6 @@ elengely
 encl
 emitter
 electrometallurgical
-eleoblast
 eleolite
 eleomargaric
 eleonorite
@@ -8898,6 +8897,7 @@ erewhile
 erewhiles
 erg
 expuition
+eleoblast
 esthetician
 ergane
 ergastic
