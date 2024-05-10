@@ -617,7 +617,6 @@ falsies
 farrantly
 forelimb
 falsifiability
-falsifiable
 flour
 falsificate
 falsification
@@ -2815,6 +2814,7 @@ faqir
 fid
 festively
 fraze
+falsifiable
 festivity
 frosted
 flowerer
