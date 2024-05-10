@@ -3342,6 +3342,7 @@ acupuncturator
 acupuncture
 abonne
 acupunctured
+aerose
 acupuncturing
 acupuncturist
 acus
@@ -5123,7 +5124,6 @@ aeroscepsis
 aeroscope
 aeroscopy
 aeroscopically
-aerose
 acuminating
 aerosiderite
 amphib
