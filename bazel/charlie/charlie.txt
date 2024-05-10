@@ -7161,7 +7161,6 @@ centimo
 centimos
 centinel
 centinormal
-centipedes
 crossties
 carites
 centiplume
@@ -13816,6 +13815,7 @@ comminutor
 ciliophora
 corolline
 chagal
+centipedes
 cynaraceous
 cynareous
 cynaroid
