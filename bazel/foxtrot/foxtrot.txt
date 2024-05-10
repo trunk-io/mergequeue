@@ -6005,6 +6005,7 @@ floramour
 floras
 floreal
 floreated
+felup
 furnaced
 forced
 fluty
@@ -11443,7 +11444,6 @@ furnishes
 furnishing
 fireboxes
 furnishment
-felup
 furnishness
 felspars
 furniture
