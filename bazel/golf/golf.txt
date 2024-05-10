@@ -8629,7 +8629,6 @@ glyph
 greekize
 greekling
 grammars
-geranials
 greeks
 gerontological
 giglets
@@ -10624,6 +10623,7 @@ gurgled
 gurglet
 gurgling
 guardee
+geranials
 gurgoyl
 gurgoyle
 gurgulio

@@ -6482,7 +6482,6 @@ entackle
 entad
 endpleasure
 entail
-entails
 enzyms
 erythemic
 entally
@@ -12113,6 +12112,7 @@ extinguishable
 excortication
 excremental
 effulgently
+entails
 efflower
 excrementary
 electioneers
