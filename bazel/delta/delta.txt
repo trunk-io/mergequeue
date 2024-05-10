@@ -7250,6 +7250,7 @@ dogless
 disorientation
 determents
 dismissible
+dissheathe
 dowage
 disseized
 diffusivity
@@ -13584,7 +13585,6 @@ dissevered
 dissevering
 disseverment
 disshadow
-dissheathe
 dissheathed
 daddums
 disship
