@@ -1565,7 +1565,6 @@ ballgames
 ballgowns
 ballhausplatz
 ballhawks
-ballhooter
 balli
 bullwhack
 balliage
@@ -4618,6 +4617,7 @@ bedaub
 bendays
 blackened
 besuit
+ballhooter
 bundeli
 borborus
 bedaubing
