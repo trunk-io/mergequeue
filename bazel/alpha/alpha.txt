@@ -13590,7 +13590,6 @@ attributal
 annoyances
 annoyed
 autostandardization
-annoyer
 annoyers
 annoying
 adventurers
@@ -16819,6 +16818,7 @@ akebi
 aposelene
 acrocyst
 arrowhead
+annoyer
 aphanophyre
 aphanozygous
 adenolipomatosis
