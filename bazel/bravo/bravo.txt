@@ -2549,7 +2549,6 @@ baric
 barycenter
 bemused
 barycentric
-bouchons
 burmite
 bloodiest
 barid
@@ -8977,6 +8976,7 @@ blabber
 bioclimatologically
 bioclimatologist
 biocoenose
+bouchons
 biocoenoses
 biocoenotic
 biodegradability
