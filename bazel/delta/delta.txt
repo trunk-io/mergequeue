@@ -8702,7 +8702,6 @@ dichastasis
 diastematic
 diastematomyelia
 diaster
-dyaster
 depolarizing
 diastereoisomerism
 diastereomer
@@ -13320,6 +13319,7 @@ decorrugative
 demonological
 disputisoun
 disqualifiable
+dyaster
 dados
 disqualifications
 doublehorned
