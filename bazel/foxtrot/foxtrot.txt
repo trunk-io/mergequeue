@@ -5791,7 +5791,6 @@ farmlands
 fathmur
 flamb
 foredoom
-flitters
 flitty
 flitting
 fumers
@@ -7905,6 +7904,7 @@ foresaddle
 flowstone
 fyttes
 florent
+flitters
 flindosy
 fusillades
 foresail
