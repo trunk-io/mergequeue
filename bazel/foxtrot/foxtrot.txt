@@ -2425,6 +2425,7 @@ ferae
 fairyship
 fasteners
 feralin
+fencelike
 finlike
 ferash
 favel
@@ -5215,7 +5216,6 @@ filippi
 flavorsome
 formulators
 flavour
-fencelike
 fallers
 fstore
 flot
