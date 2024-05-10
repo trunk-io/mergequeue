@@ -1917,7 +1917,6 @@ gelsemin
 gatekeeper
 gatekeepers
 gnathopod
-gateless
 glutenous
 grugrus
 gatemaker
@@ -10246,6 +10245,7 @@ guanases
 guinfo
 gemmy
 gashliness
+gateless
 genian
 guinness
 gristmilling
