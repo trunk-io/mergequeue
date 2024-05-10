@@ -7550,7 +7550,6 @@ ceratohyoid
 ceratoid
 ceratomandibular
 ceratomania
-ceratonia
 catalineta
 cardamoms
 ceratophyllaceous
@@ -14619,6 +14618,7 @@ cirsectomies
 cirsocele
 cirsoid
 cirsomphalos
+ceratonia
 cirsophthalmia
 completable
 cirsotomy
