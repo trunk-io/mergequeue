@@ -1220,7 +1220,6 @@ fasciolae
 fasciole
 fascioliasis
 fustier
-fascioloid
 fascis
 flanken
 flustering
@@ -6667,6 +6666,7 @@ fluminose
 figurings
 focusses
 flumed
+fascioloid
 focussing
 fod
 fodder
