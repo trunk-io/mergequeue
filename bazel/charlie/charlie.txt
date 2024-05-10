@@ -3264,7 +3264,6 @@ caplin
 capling
 caplins
 cythera
-caplock
 coherald
 cordmaker
 capmaking
@@ -19041,6 +19040,7 @@ collery
 colleries
 colletarium
 colleted
+caplock
 colleter
 colleterium
 chelone
