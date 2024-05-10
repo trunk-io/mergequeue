@@ -10963,7 +10963,6 @@ disaggregated
 disaggregation
 disaggregative
 disagree
-discrive
 disagreeableness
 disagreeably
 duoliteral
@@ -13763,6 +13762,7 @@ distalwards
 distance
 denumeration
 demast
+discrive
 distanceless
 distancy
 distancing
