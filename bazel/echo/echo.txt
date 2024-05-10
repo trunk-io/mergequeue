@@ -1839,7 +1839,6 @@ eighths
 earwax
 elaine
 euthyneura
-excarnation
 eighties
 eightieth
 enleaf
@@ -6846,6 +6845,7 @@ entombs
 elia
 entomere
 entomic
+excarnation
 entomical
 entomofauna
 entomogenous
