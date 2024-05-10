@@ -4643,7 +4643,6 @@ ambushed
 attomy
 adverse
 adversed
-adversely
 adverseness
 adversifoliate
 afternote
@@ -9266,6 +9265,7 @@ alogy
 alogia
 alogically
 alogotrophy
+adversely
 alderwoman
 aloyau
 aloid
