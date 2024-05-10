@@ -2783,6 +2783,7 @@ gestures
 genio
 genioglossal
 globoids
+gibbosities
 genioglossi
 genioglossus
 geniohyoglossal
@@ -3842,7 +3843,6 @@ gibbose
 gibbosely
 gibboseness
 gibbosity
-gibbosities
 gibbous
 gibbousness
 gibbsite
