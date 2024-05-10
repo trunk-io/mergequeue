@@ -4177,7 +4177,6 @@ empoririums
 emporiums
 emporte
 entincture
-empower
 empowerment
 ecumenics
 emprent
@@ -9503,6 +9502,7 @@ elegiacal
 eschatology
 elysium
 eschatological
+empower
 eschatologist
 epistemology
 epistemonical
