@@ -13443,7 +13443,6 @@ boucher
 bouchette
 bouchon
 boucl
-boucle
 boucles
 butterless
 boudeuse
@@ -14595,6 +14594,7 @@ brassier
 brassiere
 blaver
 bulter
+boucle
 brassieres
 brassies
 beatas
