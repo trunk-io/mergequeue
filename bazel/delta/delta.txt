@@ -3449,7 +3449,6 @@ deflorate
 doubting
 duendes
 defloration
-deflorations
 deflore
 dropforged
 dubash
@@ -16161,6 +16160,7 @@ dovekeys
 dovekies
 dovelet
 dovelike
+deflorations
 dephosphorization
 dovelikeness
 doveling

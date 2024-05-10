@@ -2784,6 +2784,7 @@ canonisation
 canonise
 contermine
 cadaverine
+cringle
 canonised
 canoniser
 canonises
@@ -29087,7 +29088,6 @@ cringes
 cringing
 cringingly
 cringingness
-cringle
 crinicultural
 cervicobrachial
 cryptographic
