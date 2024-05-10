@@ -8253,7 +8253,6 @@ epistolographist
 erratums
 epistoma
 epistomal
-epistropheal
 endolaryngeal
 epistropheus
 eryopid
@@ -11301,6 +11300,7 @@ eptatretus
 evangelisation
 enjoyment
 ephedra
+epistropheal
 evangelism
 evangelistary
 evangelistaries
