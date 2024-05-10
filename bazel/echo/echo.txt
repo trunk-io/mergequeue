@@ -569,7 +569,6 @@ echinorhynchus
 echinorhinidae
 embolus
 echinorhinus
-elbuck
 etnas
 echinosphaeritidae
 exhaustivity
@@ -7580,6 +7579,7 @@ enlaces
 embololalia
 epichorion
 epicycle
+elbuck
 epicyemate
 experiments
 epicier
