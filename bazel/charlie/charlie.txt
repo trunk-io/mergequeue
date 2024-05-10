@@ -13543,7 +13543,6 @@ cymols
 cypripedium
 cassida
 cider
-catchingly
 courageously
 cyder
 ciderish
@@ -16204,6 +16203,7 @@ climatology
 climatologic
 climatological
 climatologically
+catchingly
 climatologist
 climatometer
 climature
