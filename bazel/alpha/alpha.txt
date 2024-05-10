@@ -16472,6 +16472,7 @@ antoinette
 antony
 antonym
 antonymy
+artificer
 antonymic
 acousmata
 antonymies
@@ -20738,7 +20739,6 @@ artifactual
 artifactually
 artifex
 artifice
-artificer
 artificers
 artificership
 aerobiology
