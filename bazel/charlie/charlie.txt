@@ -3259,7 +3259,6 @@ capituliform
 capitulum
 capiturlary
 celebratory
-caplan
 caplet
 caplin
 capling
@@ -8298,6 +8297,7 @@ chakobu
 chakram
 chaksi
 chal
+caplan
 cronk
 chalaco
 chalah
