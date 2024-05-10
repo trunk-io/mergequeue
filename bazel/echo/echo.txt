@@ -5551,7 +5551,6 @@ enflaming
 epiklesis
 embryotomy
 enflesh
-escapeway
 embryulcus
 enflower
 enfoeffment
@@ -13359,6 +13358,7 @@ ensculpture
 evilmouthed
 expresses
 expressio
+escapeway
 expression
 expressionable
 expressional
