@@ -26875,7 +26875,6 @@ counterexercise
 coresidual
 counterexplanation
 counterexpostulation
-counterextend
 counterextension
 counterfact
 carniferous
@@ -30733,6 +30732,7 @@ cramble
 culicifugal
 culicifuge
 choragium
+counterextend
 culicinae
 culicine
 charonian

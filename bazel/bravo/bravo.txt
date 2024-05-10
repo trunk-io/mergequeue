@@ -1843,7 +1843,6 @@ brakes
 bandaid
 bimetalism
 bandala
-bandana
 buggery
 bandanaed
 bedgown
@@ -11753,6 +11752,7 @@ buskins
 baking
 bodes
 bodewash
+bandana
 bodger
 brashes
 barriers
