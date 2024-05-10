@@ -2273,7 +2273,6 @@ earthenware
 epigonus
 electro
 electroacoustic
-etruscan
 electroacoustical
 electroacoustically
 electroacoustics
@@ -9158,6 +9157,7 @@ enveil
 entwining
 equinoxes
 erythropsia
+etruscan
 ericetum
 erythropsin
 entreatment
