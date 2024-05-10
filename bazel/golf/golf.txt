@@ -4610,7 +4610,6 @@ getter
 ghoul
 ghetti
 gurrah
-gigantine
 girasol
 gyrate
 gyrated
@@ -10666,6 +10665,7 @@ glossocoma
 gusher
 gutturotetany
 goethe
+gigantine
 gargety
 glitterance
 geohydrologist
