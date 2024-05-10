@@ -2240,7 +2240,6 @@ gurish
 genocides
 gnathites
 gearcase
-gearcases
 gearman
 guernseys
 glucose
@@ -9814,6 +9813,7 @@ griqua
 guan
 gletscher
 gaposis
+gearcases
 gonadic
 guanay
 girondism
