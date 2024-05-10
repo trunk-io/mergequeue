@@ -7124,7 +7124,6 @@ ake
 akeake
 akebia
 actinia
-armature
 althorns
 aked
 akee
@@ -15922,6 +15921,7 @@ antipode
 antipodeans
 antipodes
 antipodic
+armature
 antipodism
 abrased
 antipodist
