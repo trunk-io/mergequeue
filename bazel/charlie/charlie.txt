@@ -4609,7 +4609,6 @@ corridor
 carolers
 carolin
 circlers
-canescene
 cangenet
 carolina
 carolinas
@@ -5316,6 +5315,7 @@ cassowary
 cassowaries
 cassumunar
 cephadia
+canescene
 cast
 castable
 castagnole

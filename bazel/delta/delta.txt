@@ -2658,7 +2658,6 @@ decompensated
 decompensating
 dislocable
 diverge
-decompensation
 delinquents
 decompensations
 decompiler
@@ -5949,6 +5948,7 @@ demagnetizer
 dendrochronologist
 depressional
 depressions
+decompensation
 demonstration
 detachers
 deltahedron
