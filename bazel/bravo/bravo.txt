@@ -6948,7 +6948,6 @@ bescours
 bescramble
 began
 bescrape
-bescratch
 bescreen
 belleek
 bescreening
@@ -14571,6 +14570,7 @@ briefing
 brassards
 brassart
 brassarts
+bescratch
 brassavola
 bolson
 borrichia
