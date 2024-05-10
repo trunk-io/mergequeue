@@ -566,7 +566,6 @@ ciconiiform
 councilors
 cads
 cadua
-colloque
 caduac
 cruiseway
 chirographic
@@ -24363,6 +24362,7 @@ coolers
 coolest
 crosspiece
 coolheadedly
+colloque
 coolhouse
 coolibah
 coolie
