@@ -78,6 +78,7 @@ dactylics
 darndests
 dactylioglyph
 dacoiting
+dimeter
 dactylioglyphist
 dactyliography
 demissly
@@ -9847,7 +9848,6 @@ dimers
 dimes
 dimetallic
 directions
-dimeter
 dimethyl
 dimethylamine
 dimethylbenzene
