@@ -8890,7 +8890,6 @@ filestatus
 fot
 fiberization
 foreignize
-fothering
 foreshorten
 forelimbs
 folia
@@ -10794,6 +10793,7 @@ fabianism
 fervent
 fth
 ftncmd
+fothering
 feuars
 featherlet
 footsoldiers
