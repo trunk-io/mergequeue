@@ -2573,6 +2573,7 @@ barilla
 bariolage
 bleeder
 blackie
+benzonaphthol
 basiglandular
 baryon
 baryonic
@@ -6491,7 +6492,6 @@ benzols
 becrown
 barfy
 batiking
-benzonaphthol
 benzonitrile
 benzonitrol
 benzophenanthrazine
