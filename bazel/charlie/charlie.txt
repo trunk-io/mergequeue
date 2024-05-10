@@ -828,6 +828,7 @@ cs
 cayuca
 chinless
 commendador
+compatient
 cosmothetic
 cayuga
 cayugan
@@ -18385,7 +18386,6 @@ cognizance
 cognizant
 cognize
 cognized
-compatient
 cognizer
 cognizes
 cognizing
