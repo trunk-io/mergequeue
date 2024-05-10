@@ -6871,7 +6871,6 @@ entomophila
 entomophytous
 entomophobia
 entomophthora
-epic
 entomophthoraceae
 entomophthoraceous
 eschalot
@@ -10759,6 +10758,7 @@ ecuador
 ensigning
 euglenas
 euglenineae
+epic
 euglenoid
 expeller
 epistrophic
