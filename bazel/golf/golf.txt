@@ -1776,7 +1776,6 @@ guardants
 gelated
 gastroesophageal
 gastrograph
-griffon
 gastrohelcosis
 gastrohepatitis
 gamebag
@@ -4505,6 +4504,7 @@ gypsyhood
 graveldiver
 gynoecia
 greatish
+griffon
 gynoeciumcia
 gynogenesis
 gynogenetic
