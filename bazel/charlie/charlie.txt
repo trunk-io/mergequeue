@@ -11140,7 +11140,6 @@ chitons
 chitosamine
 chitosan
 chitosans
-chitose
 carbonised
 chitrali
 chytridiaceae
@@ -30897,6 +30896,7 @@ culverkeys
 culvers
 culverwort
 cum
+chitose
 cumacea
 cumacean
 cumaceous
