@@ -4466,6 +4466,7 @@ browny
 bearings
 boatsman
 beckoner
+bleaky
 beckoners
 beckoningly
 barfed
@@ -10633,7 +10634,6 @@ bleaker
 bleakest
 buphthalmos
 bernese
-bleaky
 buist
 bleakness
 bleaks
