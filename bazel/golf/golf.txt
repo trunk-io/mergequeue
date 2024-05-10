@@ -1342,6 +1342,7 @@ galga
 guib
 garblings
 garboard
+grailer
 gesticulator
 garboards
 garbologist
@@ -7204,7 +7205,6 @@ gabionage
 grassflat
 gorlois
 gorman
-grailer
 graminology
 gormand
 gormandised
