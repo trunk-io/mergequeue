@@ -6885,7 +6885,6 @@ airfoil
 airfoils
 airframes
 adiate
-abortus
 airglow
 airglows
 airgraphics
@@ -18810,6 +18809,7 @@ archcorrupter
 archcount
 archcozener
 archcriminal
+abortus
 archcritic
 archcrown
 archcupbearer
