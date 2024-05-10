@@ -2684,6 +2684,7 @@ bututs
 barmaster
 benzoic
 barmbrack
+berattle
 barmcloth
 brither
 barmfel
@@ -6629,7 +6630,6 @@ brustled
 berated
 bushful
 berates
-berattle
 boatside
 beraunite
 berber
