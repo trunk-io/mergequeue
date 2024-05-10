@@ -7816,7 +7816,6 @@ deckhands
 debitable
 devotionate
 diadochokinesis
-devotions
 discorrespondency
 dimensions
 devoto
@@ -16288,6 +16287,7 @@ downlinked
 downlinking
 downloadable
 downloaded
+devotions
 downloading
 downloads
 downlooked
