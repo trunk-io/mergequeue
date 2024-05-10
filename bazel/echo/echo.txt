@@ -6989,7 +6989,6 @@ entreatingly
 entreats
 entrec
 entrecote
-entrecotes
 eslabon
 entrees
 eighteenmo
@@ -11101,6 +11100,7 @@ expounded
 eurythmies
 eurytopic
 euroaquilo
+entrecotes
 earthier
 eurobin
 epimerizing

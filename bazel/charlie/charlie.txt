@@ -2773,6 +2773,7 @@ canonic
 canonical
 cortically
 canonicalization
+cyclopentene
 canonicalize
 cultivable
 canonicalized
@@ -13441,7 +13442,6 @@ cyclopedias
 cyclopedical
 cyclopentadiene
 cyclopentanone
-cyclopentene
 cyclopes
 cyclophoria
 cyclophoric
