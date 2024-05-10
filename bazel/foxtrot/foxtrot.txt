@@ -228,7 +228,6 @@ fasciculation
 femerell
 firelock
 facultatively
-faculty
 font
 faculties
 frostbound
@@ -2821,6 +2820,7 @@ frosted
 flowerer
 frasco
 feston
+faculty
 facets
 festooned
 festoonery
