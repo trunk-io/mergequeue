@@ -4569,6 +4569,7 @@ advance
 advanceable
 advancedness
 advancement
+afterburning
 advancements
 advancer
 advancers
@@ -5603,7 +5604,6 @@ acraldehyde
 aesthesics
 afterburner
 alpian
-afterburning
 aftercareer
 aftercast
 aftercataract
