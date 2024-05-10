@@ -104,6 +104,7 @@ faciata
 faciation
 freeport
 faciend
+flatfoot
 fisherpeople
 funtumia
 faciends
@@ -5083,7 +5084,6 @@ flatcar
 flated
 flatette
 flatfishes
-flatfoot
 flathead
 flatiron
 froom
