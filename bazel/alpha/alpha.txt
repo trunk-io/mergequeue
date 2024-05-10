@@ -5384,7 +5384,6 @@ affixed
 affixer
 affixers
 affixes
-adenylpyrophosphate
 affixial
 aspatia
 android
@@ -21346,6 +21345,7 @@ aslake
 aslant
 aslantwise
 aslaver
+adenylpyrophosphate
 anguille
 asleep
 aslumber
