@@ -4309,6 +4309,7 @@ esplanades
 elaeoptene
 enallachrome
 enallage
+enterable
 echinochloa
 entrenches
 esture
@@ -6546,7 +6547,6 @@ entepicondylar
 erythorbate
 enameloma
 electroscopic
-enterable
 enteraden
 enteradenography
 enteradenographic
