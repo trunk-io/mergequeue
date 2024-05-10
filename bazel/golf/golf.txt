@@ -1091,7 +1091,6 @@ gargoyled
 gansel
 gybed
 guvacoline
-gangliasthenia
 gangliectomy
 gangliest
 gleemen
@@ -2683,6 +2682,7 @@ germigenous
 genappe
 generalized
 gristy
+gangliasthenia
 grondwet
 generalizers
 granodiorite
