@@ -2629,7 +2629,6 @@ electrostenolysis
 eluants
 electrostenolytic
 equable
-encrypt
 entermise
 exciples
 electrostriction
@@ -8860,6 +8859,7 @@ equiprobabilist
 epidotization
 erelong
 emblement
+encrypt
 entanglers
 eremic
 eases
