@@ -9296,7 +9296,6 @@ chasuble
 chasubled
 cooper
 chasubles
-chat
 chataka
 chatchka
 chatchkas
@@ -24883,6 +24882,7 @@ curbash
 coracomorphae
 coracopectoral
 coracoprocoracoid
+chat
 crepitation
 coracoradialis
 coracoscapular
