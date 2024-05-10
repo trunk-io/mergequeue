@@ -15480,7 +15480,6 @@ clansfolk
 clanship
 clansman
 clansmen
-consuetudinary
 clanswoman
 cyprinodontidae
 crenelated
@@ -22145,6 +22144,7 @@ confounds
 confr
 curiegram
 confraction
+consuetudinary
 confragose
 corrading
 confrater
