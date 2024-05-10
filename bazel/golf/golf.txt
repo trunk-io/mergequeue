@@ -3811,6 +3811,7 @@ ghafir
 goodish
 giarra
 giarre
+gormandised
 gyassa
 gib
 guilelessness
@@ -7205,7 +7206,6 @@ gorman
 grailer
 graminology
 gormand
-gormandised
 gormandism
 gormandize
 geodetics
