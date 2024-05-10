@@ -15327,6 +15327,7 @@ claiming
 claymore
 claims
 clayoquot
+convertors
 claypans
 clair
 clairaudience
@@ -24150,7 +24151,6 @@ convertive
 convertoplane
 crimples
 convertor
-convertors
 converts
 conveth
 convex
