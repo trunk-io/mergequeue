@@ -7123,7 +7123,6 @@ forespeech
 flubdubs
 fords
 factious
-fusional
 foretokens
 foolproof
 foolproofness
@@ -10546,6 +10545,7 @@ frostwort
 frot
 froth
 frothed
+fusional
 forebodings
 frothier
 feodary
