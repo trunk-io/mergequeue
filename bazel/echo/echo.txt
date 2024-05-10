@@ -132,7 +132,6 @@ eartab
 enneateric
 eartag
 eartagged
-earth
 earthboard
 earthbred
 enigmatized
@@ -6585,6 +6584,7 @@ enterrologist
 equivalue
 enterocele
 enteroceptor
+earth
 enterochirurgia
 ergothioneine
 endorsement
