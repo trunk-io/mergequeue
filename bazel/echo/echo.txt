@@ -4744,6 +4744,7 @@ ectoblast
 extense
 esox
 enlimn
+expansibleness
 encoil
 encolden
 encollar
@@ -6703,7 +6704,6 @@ exploitations
 enterprising
 enterprize
 eulogiser
-expansibleness
 enters
 entertained
 entertainer
