@@ -4006,7 +4006,6 @@ finish
 fletchings
 finishable
 finisher
-finishers
 finishes
 finishing
 finite
@@ -5298,6 +5297,7 @@ fleahopper
 finiking
 flouncier
 fylker
+finishers
 fleay
 fleak
 fg
