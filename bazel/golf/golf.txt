@@ -2389,7 +2389,6 @@ greyfish
 goles
 gelatine
 glucoprotein
-gharial
 gerastian
 gelatiniform
 grundlov
@@ -6428,6 +6427,7 @@ gocart
 goclenian
 gamic
 gaudy
+gharial
 goers
 gastronomer
 goldarnedest
