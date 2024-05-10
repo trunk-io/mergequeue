@@ -27277,6 +27277,7 @@ counterweights
 counterwheel
 counterwilling
 counterwind
+complanar
 counterwitness
 crushableness
 counterwork
@@ -28892,7 +28893,6 @@ ctge
 crewed
 crewels
 crewet
-complanar
 crushers
 crewing
 cutwal
