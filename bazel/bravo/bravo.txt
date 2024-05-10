@@ -6531,7 +6531,6 @@ benzoxate
 bolection
 benzoxyacetic
 benzoxycamphor
-benzpinacone
 benztrioxazine
 biostratigraphy
 beothuk
@@ -16085,6 +16084,7 @@ blotting
 basanite
 broomsticks
 broomstraw
+benzpinacone
 broomweed
 bonism
 broomwood
