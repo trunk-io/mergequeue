@@ -691,7 +691,6 @@ excursionism
 esteros
 enanthesis
 ecoclimate
-ecodeme
 ecol
 ecole
 espousal
@@ -1010,6 +1009,7 @@ evaluating
 edemas
 emydian
 embolization
+ecodeme
 elevatedly
 epithelium
 edemata
