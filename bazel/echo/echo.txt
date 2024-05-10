@@ -5573,7 +5573,6 @@ effectiveness
 excusers
 esophoria
 enforceability
-enforceable
 enforced
 enforcement
 enlisters
@@ -9109,6 +9108,7 @@ eelier
 enbranglement
 eskimo
 erythrocytometer
+enforceable
 erythrocytometry
 erythrocytoschisis
 erythrocytosis
