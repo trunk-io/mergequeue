@@ -2631,7 +2631,6 @@ aconite
 axoplasm
 aconites
 aconitia
-aconitin
 aconitine
 ampules
 aratory
@@ -20885,6 +20884,7 @@ attenuated
 asale
 androgonial
 asana
+aconitin
 asaph
 arcate
 asaphia
