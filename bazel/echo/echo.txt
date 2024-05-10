@@ -5318,7 +5318,6 @@ englishry
 extorter
 erogeny
 endothecia
-endothecial
 elateridae
 electronarcosis
 ensorcerize
@@ -9043,6 +9042,7 @@ erotized
 ectosome
 ecumenic
 ellinge
+endothecial
 erysipeloid
 erysipelous
 emigre
