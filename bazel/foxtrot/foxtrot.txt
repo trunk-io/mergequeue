@@ -2188,7 +2188,6 @@ fellowship
 fawnier
 fellowshipped
 firster
-fellowships
 fruited
 foxfishes
 floruits
@@ -5809,6 +5808,7 @@ flyweight
 ferr
 fribblish
 flywinch
+fellowships
 fatty
 flamingoes
 finder
