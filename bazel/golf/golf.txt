@@ -4757,7 +4757,6 @@ gyrophoraceous
 gyroplane
 giros
 gyroscope
-glycolipide
 gyroscopes
 gyrose
 gyrostat
@@ -7658,6 +7657,7 @@ gashly
 graecizing
 graecomania
 graecophil
+glycolipide
 graeculus
 granth
 graeme

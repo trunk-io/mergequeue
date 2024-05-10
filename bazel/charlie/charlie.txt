@@ -3465,6 +3465,7 @@ capsular
 capsulated
 capsulation
 capsule
+countersea
 collegatary
 chawbone
 capsulectomy
@@ -10891,7 +10892,6 @@ chronobiology
 chinwag
 coprostasis
 chiococca
-countersea
 chiococcine
 chiogenes
 chiolite
