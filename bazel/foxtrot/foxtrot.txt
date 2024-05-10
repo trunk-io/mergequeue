@@ -10021,7 +10021,6 @@ fevercup
 fuse
 fenestrone
 fleawood
-formalizes
 frier
 felsite
 fryer
@@ -11659,6 +11658,7 @@ fusula
 fusulae
 fumigating
 fusulas
+formalizes
 fusuma
 feathery
 fusure
