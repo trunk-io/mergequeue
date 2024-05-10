@@ -2842,7 +2842,6 @@ barouni
 baroxyton
 barque
 beebread
-bigoted
 buttonmold
 barrabora
 barracan
@@ -16277,6 +16276,7 @@ bullroarer
 bruited
 baduhenna
 bruiter
+bigoted
 bruiters
 bruiting
 bruits
