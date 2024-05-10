@@ -3954,7 +3954,6 @@ bdellatomy
 brotan
 bdellium
 bdelliums
-bdelloid
 bdelloida
 bdellometer
 bdellostoma
@@ -18129,6 +18128,7 @@ butcherbird
 butcherbroom
 bipalium
 benzal
+bdelloid
 biovular
 butcherdom
 butchered
