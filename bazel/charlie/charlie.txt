@@ -11797,7 +11797,6 @@ chondrilla
 chondrinous
 chondrioma
 chondriome
-chondriomere
 chondriosome
 chondriosomes
 colubriformia
@@ -19160,6 +19159,7 @@ colloguing
 chiropter
 colloid
 cinerins
+chondriomere
 coauthoring
 colloidality
 colloider
