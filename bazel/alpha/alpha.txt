@@ -7145,7 +7145,6 @@ apehood
 akenobeite
 akepiro
 aker
-apogeal
 akerite
 aketon
 akha
@@ -14289,6 +14288,7 @@ anterodorsal
 aedeagal
 anteroexternal
 anterofixation
+apogeal
 autobahns
 allomorph
 anteroflexion
