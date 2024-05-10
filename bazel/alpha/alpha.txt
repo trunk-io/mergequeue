@@ -7946,6 +7946,7 @@ alength
 alenu
 aleochara
 aleph
+accouple
 alepidote
 alepine
 alepole
@@ -18437,7 +18438,6 @@ arachnoidean
 arachnoiditis
 arachnology
 arachnologist
-accouple
 arachnopia
 arad
 aradidae
