@@ -272,7 +272,6 @@ affiant
 abdominohysterotomy
 abnormals
 attemper
-abdominoposterior
 abdominoscopy
 agas
 abdominothoracic
@@ -14456,6 +14455,7 @@ acediast
 apometabolism
 anthophobia
 achingly
+abdominoposterior
 attractancy
 anthophora
 anthophorous
