@@ -7328,7 +7328,6 @@ damnable
 deti
 detick
 doorwise
-deticked
 demasculinize
 deticker
 detickers
@@ -16298,6 +16297,7 @@ downloadable
 downloaded
 downloading
 downloads
+deticked
 downlooked
 downlooker
 downness
