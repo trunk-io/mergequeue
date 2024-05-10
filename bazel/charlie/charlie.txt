@@ -7619,7 +7619,6 @@ cercus
 cerdonian
 cere
 cereal
-carrus
 changeability
 cerealian
 cerealism
@@ -26183,6 +26182,7 @@ cosmology
 cosmological
 cosmologically
 convocant
+carrus
 cosmologygy
 cosmologist
 corroborators
