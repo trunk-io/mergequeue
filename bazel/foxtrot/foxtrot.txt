@@ -1839,6 +1839,7 @@ fuscescent
 fractureproof
 fissiparous
 forane
+footbath
 feats
 fainness
 forgets
@@ -11174,7 +11175,6 @@ footmarks
 funerealness
 fluvio
 funfair
-footbath
 featherway
 funfest
 flashtester
