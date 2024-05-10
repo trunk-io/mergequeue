@@ -10329,6 +10329,7 @@ diordinal
 duplet
 diorite
 diorites
+detects
 distraint
 diorthosis
 diorthotic
@@ -15785,7 +15786,6 @@ dorsifixed
 dorsiflex
 dorsiflexion
 deuteron
-detects
 dualization
 dorsilateral
 dorsimeson
