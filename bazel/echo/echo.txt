@@ -8260,7 +8260,6 @@ erratums
 epistoma
 epistomal
 epistropheal
-endolaryngeal
 epistropheus
 eryopid
 epitactic
@@ -11465,6 +11464,7 @@ enlaced
 ethanal
 everyplace
 effusiometer
+endolaryngeal
 exucontian
 everyway
 emborder
