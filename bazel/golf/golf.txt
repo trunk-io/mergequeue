@@ -4553,7 +4553,6 @@ gipser
 gipsy
 gipsydom
 gipsied
-gypsied
 gipsies
 gugu
 gypsiferous
@@ -6654,6 +6653,7 @@ gromwell
 grammatolator
 gomer
 grew
+gypsied
 glutting
 gladstone
 glossopalatinus
