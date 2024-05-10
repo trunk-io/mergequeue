@@ -5867,7 +5867,6 @@ barest
 bellicosely
 bellicoseness
 bibliotherapies
-bellicosity
 bellicosities
 balsamweed
 bellied
@@ -8472,6 +8471,7 @@ backstone
 bodle
 biham
 bihamate
+bellicosity
 birches
 byhand
 bihari
