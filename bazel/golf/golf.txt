@@ -5275,7 +5275,6 @@ glecoma
 gled
 grottesco
 gledes
-gloaters
 glengarries
 gledy
 gospoda
@@ -9002,6 +9001,7 @@ grantsmanship
 grassweed
 grimaced
 grimacers
+gloaters
 grimaces
 gryllid
 galluptious
