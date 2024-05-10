@@ -5796,7 +5796,6 @@ engravement
 engraver
 entree
 engravers
-engraves
 easts
 engysseismology
 endophytous
@@ -11881,6 +11880,7 @@ excavatory
 excave
 epizoarian
 excecate
+engraves
 excecation
 empassion
 exceedable
