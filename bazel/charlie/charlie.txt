@@ -3268,6 +3268,7 @@ cythera
 caplock
 cordmaker
 capmaking
+chivying
 capman
 capnodium
 capnoides
@@ -22007,7 +22008,6 @@ confines
 confining
 confinity
 confirmability
-chivying
 confirmable
 cionocranial
 confirmation
