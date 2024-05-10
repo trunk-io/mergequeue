@@ -3759,7 +3759,6 @@ adenosine
 adenostoma
 adenotyphoid
 adenotyphus
-antislickens
 anachoret
 alimenting
 adenotome
@@ -24923,6 +24922,7 @@ awake
 awakeable
 awaked
 axemaster
+antislickens
 awakened
 amarna
 alkermes
