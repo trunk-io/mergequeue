@@ -4671,6 +4671,7 @@ flabbergast
 films
 flatland
 flabbergasted
+fb
 feathermonger
 finalizations
 forshape
@@ -7255,7 +7256,6 @@ flanderkin
 footprint
 footraces
 footrail
-fb
 footrest
 footrope
 footropes
