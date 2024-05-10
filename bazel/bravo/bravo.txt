@@ -5258,7 +5258,6 @@ begats
 begattal
 bastes
 begaud
-bignesses
 bobbled
 bothsided
 barlock
@@ -10246,6 +10245,7 @@ biofeedback
 blackshirted
 blacksmith
 borates
+bignesses
 blacksmithing
 beastdom
 blacksnake
