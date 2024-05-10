@@ -3773,7 +3773,6 @@ epilogs
 emeerates
 emeers
 emeership
-emend
 exscribe
 electroplax
 erythrons
@@ -13724,6 +13723,7 @@ extirpatory
 extispex
 effusely
 ethnize
+emend
 echiuroidea
 elaterium
 extispicy
