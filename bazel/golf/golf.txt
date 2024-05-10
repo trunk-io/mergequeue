@@ -2972,7 +2972,6 @@ gallivants
 genuflecting
 graphicalness
 gullish
-genuflections
 genuflects
 grid
 geol
@@ -6223,6 +6222,7 @@ grotesquely
 gombos
 gressible
 gnessic
+genuflections
 gomarist
 gnetaceous
 gnetales
