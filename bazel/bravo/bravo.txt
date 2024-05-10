@@ -1759,7 +1759,6 @@ baltimore
 barandos
 bumblebeefishes
 baculums
-balu
 baluba
 baluch
 bitripinnatifid
@@ -10463,6 +10462,7 @@ borolanite
 blastings
 blastman
 blastocarpous
+balu
 blastocele
 boomers
 brickfielder
