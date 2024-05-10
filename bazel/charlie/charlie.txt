@@ -18237,7 +18237,6 @@ coffeegrower
 coffeegrowing
 cuss
 coffeehouse
-coffeehoused
 coffeehouses
 coffeehousing
 cavalry
@@ -19349,6 +19348,7 @@ colophany
 colophene
 cranny
 colophenic
+coffeehoused
 colophon
 colophonate
 colophony
