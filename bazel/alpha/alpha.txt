@@ -4194,7 +4194,6 @@ admits
 admittable
 antedate
 admittance
-admittances
 admittatur
 admitted
 agitpunkt
@@ -13094,6 +13093,7 @@ ambonite
 anhungry
 ani
 aniba
+admittances
 anybody
 antipoles
 anybodies
