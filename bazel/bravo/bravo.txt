@@ -4465,7 +4465,6 @@ browny
 bearings
 boatsman
 beckoner
-beckoners
 beckoningly
 barfed
 byward
@@ -13649,6 +13648,7 @@ bourreau
 bourree
 bourrees
 bourrelet
+beckoners
 briefs
 bourse
 bourtree
