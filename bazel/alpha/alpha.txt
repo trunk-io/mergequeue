@@ -9339,7 +9339,6 @@ affectation
 alphabetiform
 alphabeting
 alphabetisation
-alphabetise
 alphabetised
 alphabetiser
 alphabetising
@@ -19769,6 +19768,7 @@ aristocracy
 aristocratic
 aristocraticalness
 alphyn
+alphabetise
 aristocraticism
 aristocraticness
 affabrous
