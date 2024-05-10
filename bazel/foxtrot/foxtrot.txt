@@ -2727,7 +2727,6 @@ fillagreing
 fertilizers
 foremelt
 ferula
-foghorns
 ferulaceous
 ferular
 foreimpression
@@ -7301,6 +7300,7 @@ frotteur
 forejudge
 firefly
 footwears
+foghorns
 fleered
 fatuate
 farragos
