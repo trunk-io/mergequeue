@@ -6840,6 +6840,7 @@ airbrushing
 airburst
 arresting
 airbursts
+agonium
 airbusses
 aircheck
 aircoaches
@@ -23324,7 +23325,6 @@ acclimatisable
 audiles
 auding
 audings
-agonium
 audiology
 acca
 audiological

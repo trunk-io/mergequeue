@@ -7267,7 +7267,6 @@ centriole
 centripetal
 codebreak
 centripetence
-centripetency
 centriscid
 centriscidae
 centrisciform
@@ -10501,6 +10500,7 @@ chihuahua
 chihuahuas
 crustate
 comephorous
+centripetency
 chikara
 couchmaking
 chikee
