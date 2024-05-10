@@ -3860,7 +3860,6 @@ ermelin
 eavesdrip
 endometry
 emigrants
-endopterygotic
 emigrates
 emigrating
 empowering
@@ -9151,6 +9150,7 @@ erythropenia
 espoused
 exsurge
 enharmonical
+endopterygotic
 erythrophagous
 erythrophyll
 ethinyl
