@@ -5093,7 +5093,6 @@ embosser
 ecdysones
 eisell
 epispore
-endocrinopathic
 eruca
 endoderm
 endodermal
@@ -12356,6 +12355,7 @@ equilucent
 exerce
 exercent
 extradialectal
+endocrinopathic
 exercise
 enculturated
 elaborative
