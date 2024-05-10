@@ -6638,6 +6638,7 @@ enterolysis
 elaborateness
 ecorch
 eddies
+epichordal
 eudalene
 elastomeric
 exchangeable
@@ -7566,7 +7567,6 @@ evaluators
 epichlorohydrin
 epichondrosis
 eyren
-epichordal
 encapsulating
 epichorial
 epichoric
