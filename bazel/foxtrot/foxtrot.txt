@@ -9118,7 +9118,6 @@ fidele
 forboded
 fox
 foxbane
-foxberry
 foxberries
 foxer
 foxfeet
@@ -9274,6 +9273,7 @@ fragment
 fasthold
 floorhead
 fragmental
+foxberry
 fumously
 fragmentalize
 fragmentally
