@@ -71,7 +71,6 @@ demilance
 deanthropomorphize
 dactyl
 dactylar
-dactylate
 doggerelizer
 dactylically
 dactylics
@@ -8936,6 +8935,7 @@ dub
 dichroic
 dail
 dusterman
+dactylate
 dichroism
 dihydride
 dichroite
