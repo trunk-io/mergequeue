@@ -192,7 +192,6 @@ flaky
 frizer
 finitary
 factoring
-foreign
 factoryship
 factorization
 fuzzed
@@ -6963,6 +6962,7 @@ follicles
 forcemeat
 follicular
 federatively
+foreign
 folliculated
 filisters
 folliculina
