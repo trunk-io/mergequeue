@@ -5429,6 +5429,7 @@ castrator
 compendent
 castrators
 castrensial
+chewed
 castrensian
 castrum
 casualism
@@ -10230,7 +10231,6 @@ chewable
 chewbark
 capsa
 cabining
-chewed
 chewer
 chewers
 chewet
