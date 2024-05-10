@@ -5595,6 +5595,7 @@ flightless
 facund
 forepassed
 flights
+fease
 fannier
 fructuose
 flying
@@ -5652,7 +5653,6 @@ fertilisability
 flint
 fluffer
 flinted
-fease
 fledgier
 firelike
 featlier
