@@ -6339,6 +6339,7 @@ endbrain
 ensepulcher
 elderbush
 ensepulchre
+eses
 enseraph
 enserfed
 ethicists
@@ -9603,7 +9604,6 @@ educationese
 eserin
 extracorporeal
 eserine
-eses
 erwin
 esexual
 equianharmonic
