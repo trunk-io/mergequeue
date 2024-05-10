@@ -2378,7 +2378,6 @@ fixities
 flagitious
 fennelflower
 fenner
-friday
 fricatives
 forbysen
 fens
@@ -8338,6 +8337,7 @@ forktail
 ferromagneticism
 fruiterer
 faceup
+friday
 fantail
 forlay
 forlain

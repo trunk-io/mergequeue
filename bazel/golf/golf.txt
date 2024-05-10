@@ -1774,7 +1774,6 @@ gastroenterologic
 gastroenterostomies
 gandurah
 gastroepiploic
-glutch
 guardants
 gelated
 gastroesophageal
@@ -5410,6 +5409,7 @@ glycollate
 guigne
 glycols
 gladkaite
+glutch
 gard
 globulolysis
 glycoluric
