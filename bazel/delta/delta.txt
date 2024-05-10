@@ -11358,6 +11358,7 @@ defrays
 discipled
 disciples
 disciplinability
+disused
 disciplinable
 dishfuls
 disciplinableness
@@ -14110,7 +14111,6 @@ disusance
 disuse
 disbarments
 disbranching
-disused
 disuses
 disutility
 disinsection
