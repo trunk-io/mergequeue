@@ -6340,7 +6340,6 @@ causticism
 causticity
 chanfrin
 causticization
-causticize
 causticized
 causticizer
 camatina
@@ -24634,6 +24633,7 @@ copyists
 compellent
 copilots
 carbonate
+causticize
 copyman
 coping
 chiggak
