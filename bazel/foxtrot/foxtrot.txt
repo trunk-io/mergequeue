@@ -4876,6 +4876,7 @@ flamboyer
 fergusite
 fill
 flameless
+flammation
 flitch
 fchar
 fractabling
@@ -4920,7 +4921,6 @@ frenulum
 flamless
 floorers
 filefish
-flammation
 finfishes
 flammed
 familiarising
