@@ -13513,7 +13513,6 @@ anne
 auxometer
 anneal
 annealer
-annealing
 appoggiature
 anneals
 annect
@@ -16205,6 +16204,7 @@ antisera
 antiminsia
 antiserums
 antiserumsera
+annealing
 antisex
 antisexist
 anarcestean
