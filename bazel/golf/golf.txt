@@ -5867,6 +5867,7 @@ glossotomy
 glosts
 glottal
 gloomy
+gult
 grapsoid
 gattine
 galera
@@ -10391,7 +10392,6 @@ gulps
 gynostemium
 gaucher
 gangrene
-gult
 gum
 gourdy
 gyneolatry
