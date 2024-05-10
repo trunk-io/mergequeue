@@ -418,7 +418,6 @@ dayrooms
 dairous
 dairt
 dais
-daised
 daisee
 dionym
 demirevetment
@@ -12593,6 +12592,7 @@ disjunctively
 deseed
 disjunctor
 divia
+daised
 dereferences
 disk
 disked

@@ -5525,7 +5525,6 @@ euhemerizing
 englifier
 experimentarian
 etherlike
-enheritance
 enfeoffing
 episcopant
 enfeoffment
@@ -13816,6 +13815,7 @@ erlkings
 extracostal
 ethnozoological
 equivocation
+enheritance
 evaporize
 ethionic
 experienceable
