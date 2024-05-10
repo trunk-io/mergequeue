@@ -4440,7 +4440,6 @@ frays
 fissions
 fregit
 fissipalmation
-fissiparism
 forheed
 flammulated
 farming
@@ -10884,6 +10883,7 @@ ferriage
 fantasizing
 fulgorid
 fulgoridae
+fissiparism
 fon
 fulgur
 fulfill

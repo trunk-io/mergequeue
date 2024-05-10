@@ -3108,7 +3108,6 @@ geomancy
 garnered
 gushingness
 geomant
-geobios
 geomantic
 geomorphic
 gyrally
@@ -9308,6 +9307,7 @@ groomling
 gilders
 gonocoel
 geologic
+geobios
 groomsmen
 groop
 groot
