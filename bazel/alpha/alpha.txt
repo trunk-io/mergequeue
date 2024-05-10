@@ -5211,6 +5211,7 @@ aestus
 aetat
 aethalia
 aethalioid
+amphipod
 aethalium
 aether
 aethereal
@@ -11211,7 +11212,6 @@ amphipneustic
 animatist
 amphipnous
 ameen
-amphipod
 amphipoda
 amour
 amphipodal
