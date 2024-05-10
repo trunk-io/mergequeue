@@ -1079,7 +1079,6 @@ gangerel
 guesten
 gride
 ghaut
-gorgoneion
 goffle
 ganging
 genthite
@@ -10220,6 +10219,7 @@ guyline
 gooney
 guiling
 guillem
+gorgoneion
 gynecophore
 guillermo
 gutsy
