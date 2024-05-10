@@ -13488,7 +13488,6 @@ antigrammaticalness
 apathetic
 archking
 annalistic
-axoneuron
 antiprotons
 antiheroes
 aenigma
@@ -17772,6 +17771,7 @@ appertinent
 appertise
 appestat
 apostlehood
+axoneuron
 appestats
 appet
 appete
