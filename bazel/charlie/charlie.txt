@@ -20923,6 +20923,7 @@ compresses
 compressibility
 compressibilities
 compressible
+cornerstone
 compressibleness
 compressibly
 compression
@@ -25378,7 +25379,6 @@ cornerer
 cornering
 cornerman
 cornerpiece
-cornerstone
 cornerways
 cornet
 cornetcy
