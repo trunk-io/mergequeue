@@ -5252,7 +5252,6 @@ fogbound
 flax
 flaxboard
 fissural
-frivolously
 flaxy
 flammeous
 fribblers
@@ -11438,6 +11437,7 @@ flannelmouthed
 firestone
 frustrable
 furnishes
+frivolously
 furnishing
 fireboxes
 furnishment
