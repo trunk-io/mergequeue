@@ -4529,7 +4529,6 @@ glands
 giocoso
 giornata
 gip
-gype
 gipon
 gaetulan
 gunlayer
@@ -7478,6 +7477,7 @@ garron
 gymnast
 governless
 governmental
+gype
 governmentalize
 geodesies
 generalist
