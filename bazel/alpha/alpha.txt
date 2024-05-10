@@ -5617,6 +5617,7 @@ aftercure
 afterdays
 apokatastatic
 afterdate
+allochetia
 antifoam
 amadou
 afterdeal
@@ -8848,7 +8849,6 @@ allocator
 allocators
 allocatur
 antimasonic
-allochetia
 allanturic
 antevocalic
 arrayment
