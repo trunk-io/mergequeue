@@ -8456,7 +8456,6 @@ gonochoristic
 gravette
 graveward
 gonakie
-grips
 gourmand
 gnarled
 gravicembalo
@@ -9898,6 +9897,7 @@ guaranties
 guarantying
 gerontomorphosis
 guarantors
+grips
 geode
 gymnite
 geophyte
