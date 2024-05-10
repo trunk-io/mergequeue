@@ -4963,6 +4963,7 @@ endermic
 endogastric
 enderon
 enders
+elatcha
 endexine
 endgate
 enfief
@@ -7189,7 +7190,6 @@ enzymic
 exiguous
 erythropoietic
 enzymolysis
-elatcha
 extrudability
 eupnoeas
 eatableness
