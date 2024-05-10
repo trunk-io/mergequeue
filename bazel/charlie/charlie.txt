@@ -13092,7 +13092,6 @@ cyanocobalamine
 cyanocrystallin
 cyanoderma
 cantrap
-cyanoethylation
 cataphasia
 crumbable
 crates
@@ -27366,6 +27365,7 @@ courbe
 courbette
 courbettes
 carcaneted
+cyanoethylation
 courgette
 courida
 courie
