@@ -17,6 +17,7 @@ flagellators
 footsoldier
 fabled
 ferry
+freyr
 fablemaker
 fablemongering
 fuder
@@ -5899,7 +5900,6 @@ forehand
 flogmaster
 flogs
 famulli
-freyr
 flogster
 floyd
 flokite
