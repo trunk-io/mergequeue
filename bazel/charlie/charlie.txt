@@ -1578,7 +1578,6 @@ calmed
 centrobaric
 calmest
 calmier
-calmierer
 calmiest
 coeducationally
 calming
@@ -4248,6 +4247,7 @@ conflagrate
 chromatometer
 careme
 carene
+calmierer
 carer
 chyometer
 carers
