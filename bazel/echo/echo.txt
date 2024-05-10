@@ -1102,7 +1102,6 @@ edifices
 edificial
 edificing
 edified
-eliminability
 edifiers
 edifying
 edifyingly
@@ -5255,6 +5254,7 @@ epispinal
 ecostate
 endosalpingitis
 elegiast
+eliminability
 endosarcous
 endosclerite
 endoscope
