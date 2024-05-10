@@ -11591,7 +11591,6 @@ anacrotic
 altricial
 anacrotism
 anacruses
-anacrustic
 aristarch
 anaculture
 anacusia
@@ -22752,6 +22751,7 @@ atmospheric
 atmospherically
 atmospherics
 atmospherology
+anacrustic
 atmosteal
 antependiums
 atmosteon
