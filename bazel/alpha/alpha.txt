@@ -4476,7 +4476,6 @@ adstipulator
 adsum
 adterminal
 adtevac
-aduana
 adular
 arrestor
 adularescence
@@ -21354,6 +21353,7 @@ anguille
 asleep
 aslumber
 arolla
+aduana
 asmack
 acratia
 asmalte
