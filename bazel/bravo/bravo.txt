@@ -3450,7 +3450,6 @@ basters
 bastile
 bastiles
 bastille
-bastilles
 biggah
 bastiment
 bastinaded
@@ -6025,6 +6024,7 @@ benumbing
 battiness
 biparous
 beltless
+bastilles
 beltman
 belts
 beltway
