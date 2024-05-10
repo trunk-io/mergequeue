@@ -17842,7 +17842,6 @@ codesigns
 codespairer
 codetermination
 codetermine
-codifiability
 codetta
 conditioned
 codettas
@@ -24922,6 +24921,7 @@ corallic
 corallidae
 corallidomous
 coralliferous
+codifiability
 coralliform
 cobreathe
 coralligena
