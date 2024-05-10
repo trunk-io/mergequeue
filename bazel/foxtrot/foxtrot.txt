@@ -2689,7 +2689,6 @@ ferruler
 ferrules
 federalese
 ferrum
-fabric
 freshes
 ferruminating
 ferrumination
@@ -8070,6 +8069,7 @@ forestwards
 foresummon
 fireflies
 fulminated
+fabric
 fabulist
 foreswear
 faddy
