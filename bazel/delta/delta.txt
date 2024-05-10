@@ -3612,7 +3612,6 @@ dunnesses
 degaussing
 degelatinize
 diatonous
-degener
 dillydallying
 declaredness
 degeneralize
@@ -11114,6 +11113,7 @@ disattaint
 disattune
 disauthenticate
 disauthorize
+degener
 diplomacy
 dysautonomia
 disavail
