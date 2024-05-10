@@ -7476,7 +7476,6 @@ foreknown
 ferrimagnet
 floatative
 forcut
-floes
 flebile
 fivers
 fractionized
@@ -10289,6 +10288,7 @@ ferryage
 foggages
 frazing
 flaskful
+floes
 froebelian
 froebelism
 feared
