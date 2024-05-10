@@ -6631,6 +6631,7 @@ desert
 deserted
 desertedly
 deserter
+diosma
 deserters
 deescalated
 degrade
@@ -11470,7 +11471,6 @@ doest
 dacryocystocele
 discolorment
 discolors
-diosma
 dure
 discolouring
 discolourization
