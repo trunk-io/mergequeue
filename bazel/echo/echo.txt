@@ -5286,7 +5286,6 @@ endosmoses
 eurasiatic
 endosome
 equilibrist
-endomorphism
 extispices
 endosomes
 endospermic
@@ -6582,6 +6581,7 @@ enterobiliary
 enterrologist
 equivalue
 enterocele
+endomorphism
 enteroceptor
 enterochirurgia
 ergothioneine
