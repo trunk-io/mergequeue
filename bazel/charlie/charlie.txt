@@ -5357,6 +5357,7 @@ castellanies
 castellano
 castellans
 castellanship
+cunila
 castellate
 castellated
 castellation
@@ -31051,7 +31052,6 @@ cuniculi
 camelid
 cuniculus
 cuniforms
-cunila
 characterizable
 cunili
 cunjer
