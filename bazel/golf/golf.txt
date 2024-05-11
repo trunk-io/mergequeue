@@ -3890,7 +3890,6 @@ gneissitic
 gryphons
 greeted
 gunkhole
-gids
 ginhound
 glazework
 gutnic
@@ -7611,6 +7610,7 @@ gradin
 gynecotelic
 gastrophilist
 glumpiness
+gids
 grading
 grease
 gradings
