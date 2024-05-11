@@ -5041,7 +5041,6 @@ demultiplexers
 disroot
 dimedone
 demultiplexes
-deposed
 dinamode
 decussion
 delustered
@@ -18226,6 +18225,7 @@ demioctangular
 dungbred
 deschampsia
 discussant
+deposed
 dungeons
 dunger
 dunghill
