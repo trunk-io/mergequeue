@@ -995,6 +995,7 @@ bitterless
 bahutu
 bahuvrihi
 bahuvrihis
+barkle
 bay
 baya
 bayadeer
@@ -8604,7 +8605,6 @@ bylines
 brave
 bilingual
 bilinguality
-barkle
 bilingually
 bilinguar
 bijoux
