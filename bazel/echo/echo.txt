@@ -7722,7 +7722,6 @@ englify
 ensure
 epidermose
 epidermous
-epiderms
 epidialogue
 epidiascope
 escallops
@@ -10305,6 +10304,7 @@ ethidene
 ethyl
 epigynies
 excretionary
+epiderms
 estamp
 ethylamide
 embedded

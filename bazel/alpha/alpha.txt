@@ -4996,7 +4996,6 @@ aeroduct
 aeroducts
 aeroelastic
 aeroelasticity
-aeroelastics
 aporphin
 aerofoil
 aerofoils
@@ -21961,6 +21960,7 @@ assument
 assumer
 assumers
 afterlifetime
+aeroelastics
 ambagiousness
 assumes
 assuming
