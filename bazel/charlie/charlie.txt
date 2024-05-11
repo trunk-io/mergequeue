@@ -6536,6 +6536,7 @@ crabsidle
 caxiri
 clannish
 commissaries
+colonizers
 caxon
 caxton
 chokidar
@@ -19340,7 +19341,6 @@ colonizationist
 colonize
 comminating
 colonizer
-colonizers
 colonizing
 colonnade
 colonnaded

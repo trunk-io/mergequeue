@@ -376,7 +376,6 @@ filicauline
 filator
 faintness
 faints
-feltings
 fruits
 flows
 fulani
@@ -6017,6 +6016,7 @@ flimsiest
 fresco
 flores
 forgab
+feltings
 footcandle
 fromfile
 flutteration
