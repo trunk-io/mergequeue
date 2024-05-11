@@ -3130,6 +3130,7 @@ butles
 biphase
 balneotherapeutics
 baseplate
+bevomits
 barquest
 branchway
 baseplug
@@ -7618,7 +7619,6 @@ bevoiled
 bevomit
 bevomited
 bevomiting
-bevomits
 bevor
 bevvy
 believe
