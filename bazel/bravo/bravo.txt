@@ -4033,7 +4033,6 @@ beadleism
 beadles
 babul
 beadleship
-beadlet
 beadman
 balloonful
 beadmen
@@ -14051,6 +14050,7 @@ bontee
 brachistocephalic
 boloed
 brass
+beadlet
 brachistochrone
 brachistochronic
 brachistochronous
