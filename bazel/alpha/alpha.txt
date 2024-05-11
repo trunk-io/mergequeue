@@ -3979,7 +3979,6 @@ adits
 adytta
 aditus
 analcite
-alphorns
 adjacence
 adjacencies
 amated
@@ -6980,6 +6979,7 @@ airstream
 allegory
 aischrolatreia
 airstrip
+alphorns
 airstrips
 adrent
 airt
