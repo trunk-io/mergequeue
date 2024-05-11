@@ -1251,6 +1251,7 @@ datolite
 declinate
 datolitic
 datos
+deathrate
 datsun
 deluster
 descamisado
@@ -1726,7 +1727,6 @@ deathlikeness
 drogermen
 dundees
 deathliness
-deathrate
 deathrates
 deaths
 deathsman
