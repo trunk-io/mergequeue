@@ -609,7 +609,6 @@ gallicize
 gallicizer
 gobletful
 gutturize
-gallify
 gingerin
 gallification
 galliform
@@ -1073,6 +1072,7 @@ gangerel
 guesten
 gride
 ghaut
+gallify
 goffle
 ganging
 genthite
