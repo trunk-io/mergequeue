@@ -9396,7 +9396,6 @@ diffusible
 diffusibleness
 diffusimeter
 diffusing
-diffusion
 diffusional
 diffusionist
 dejunkerize
@@ -13260,6 +13259,7 @@ disprofitable
 disproofs
 disproperty
 disproportion
+diffusion
 disproportional
 debosh
 disparities
