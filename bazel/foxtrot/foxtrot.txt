@@ -486,7 +486,6 @@ faking
 fakir
 fakirs
 falafel
-falange
 falangist
 fallaciously
 fades
@@ -6194,6 +6193,7 @@ flowingness
 flowmeter
 fimetarious
 firebreak
+falange
 flrie
 flu
 fluate
