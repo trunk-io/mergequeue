@@ -6368,7 +6368,6 @@ geodic
 granatite
 ganglander
 goby
-gobia
 goliad
 gobies
 gonococcus
@@ -8036,6 +8035,7 @@ grasserie
 granulation
 gnawing
 granulations
+gobia
 gudebrother
 granulative
 giggling
