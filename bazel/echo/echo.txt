@@ -1346,7 +1346,6 @@ endoskeletal
 exomis
 ebcdic
 effervesces
-evenglow
 effervescingly
 enopla
 effervescive
@@ -13200,6 +13199,7 @@ explicatively
 explicator
 ecclesiasticus
 eelgrasses
+evenglow
 effronted
 echelon
 explicit
