@@ -5375,6 +5375,7 @@ firmware
 falconer
 fretsome
 foredispose
+flayer
 fleeter
 fleetest
 fleeting
@@ -10985,7 +10986,6 @@ fooled
 funding
 fulvescent
 fibrillations
-flayer
 fulzie
 fumado
 frontrunner
