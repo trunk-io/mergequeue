@@ -13194,6 +13194,7 @@ bossing
 bizarres
 bowler
 bosslet
+bedlamp
 bossship
 bonnyvis
 bevellers
@@ -17884,7 +17885,6 @@ berkowitz
 bursiculate
 bursitis
 bestialise
-bedlamp
 berths
 booze
 bursitises
