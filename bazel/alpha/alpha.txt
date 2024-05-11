@@ -1595,6 +1595,7 @@ accommodators
 accomodate
 accompanable
 arrivage
+affidare
 accompanier
 australorp
 accompanies
@@ -5316,7 +5317,6 @@ affiancing
 affiants
 affich
 affiches
-affidare
 affidation
 ais
 affidavy
