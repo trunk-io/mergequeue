@@ -5405,6 +5405,7 @@ castleward
 castlewards
 castlewise
 castock
+chaffman
 castoff
 castoffs
 castor
@@ -8189,7 +8190,6 @@ chaffinch
 chaffinches
 chaffless
 chafflike
-chaffman
 chrysograph
 chaffron
 clavicornia
