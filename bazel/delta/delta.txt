@@ -6607,6 +6607,7 @@ desegregation
 duststorm
 deselected
 deselecting
+distensile
 desiccants
 dauphiness
 desemer
@@ -13806,7 +13807,6 @@ distends
 distensibilities
 dichroscopic
 declericalize
-distensile
 drowns
 distension
 dimwittedness
