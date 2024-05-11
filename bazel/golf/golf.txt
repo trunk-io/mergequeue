@@ -4757,7 +4757,6 @@ gyrose
 gyrostat
 gastroplenic
 gesticulating
-gyrotheca
 girouette
 guessed
 girouettes
@@ -8272,6 +8271,7 @@ gunnership
 grasswidow
 gph
 grippes
+gyrotheca
 grata
 gunplay
 ghawazi
