@@ -29,6 +29,7 @@ fieldmen
 floey
 fibrolitic
 fabricated
+figurings
 fabricates
 fabricating
 fabrication
@@ -6665,7 +6666,6 @@ funds
 focusless
 focussed
 fluminose
-figurings
 focusses
 flumed
 focussing
