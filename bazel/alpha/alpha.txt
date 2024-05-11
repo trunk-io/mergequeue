@@ -20741,6 +20741,7 @@ artifactitious
 artifacts
 artifactual
 artifactually
+atmolysis
 artifex
 artifice
 artificer
@@ -22731,7 +22732,6 @@ atmocautery
 atmoclastic
 asgd
 atmogenic
-atmolysis
 atmolyzation
 atmolyze
 atmology
