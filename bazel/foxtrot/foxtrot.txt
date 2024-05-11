@@ -231,7 +231,6 @@ facultatively
 faculty
 font
 faculties
-frostbound
 facultize
 frightening
 firmest
@@ -8941,6 +8940,7 @@ foulish
 febronianism
 falsettos
 fasciolar
+frostbound
 foulminded
 flacourtiaceae
 freinage
