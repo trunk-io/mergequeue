@@ -7811,7 +7811,6 @@ bathyscaphe
 branchiosaurus
 bhikku
 bhikshu
-bhil
 bhili
 bursa
 bhindi
@@ -16064,6 +16063,7 @@ batyphone
 brooks
 brookweed
 brool
+bhil
 buprestid
 bookshelf
 beardtongue
