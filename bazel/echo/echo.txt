@@ -6548,7 +6548,6 @@ enterfeat
 entergogenic
 estrepement
 enteria
-enwind
 enteric
 elaterid
 exolemma
@@ -12388,6 +12387,7 @@ exertive
 exes
 exesion
 exasper
+enwind
 exhibitory
 economical
 estops
