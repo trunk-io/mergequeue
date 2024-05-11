@@ -6640,7 +6640,6 @@ guestchamber
 gomart
 gomashta
 gombo
-gapy
 gomeisa
 gromwell
 gozill
@@ -8874,6 +8873,7 @@ gribane
 gribble
 grice
 gras
+gapy
 gator
 glimmery
 gilgamesh
