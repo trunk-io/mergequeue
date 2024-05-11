@@ -834,7 +834,6 @@ electroanalytical
 ebullient
 ennuyante
 exfetation
-ectoenzym
 ectoenzyme
 endangerments
 eudemonism
@@ -6370,6 +6369,7 @@ elizabeth
 ensiles
 expatiations
 ensiling
+ectoenzym
 ensilist
 ensilver
 existentially
