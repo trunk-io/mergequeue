@@ -6677,7 +6677,6 @@ ensemble
 erepsins
 equipoised
 equilibriria
-enterozoic
 enterozoon
 enterpillar
 enterprise
@@ -7430,6 +7429,7 @@ ephemerid
 ephemerida
 ephemeridae
 ephemeris
+enterozoic
 ephemeromorphic
 ephemeroptera
 eigne
