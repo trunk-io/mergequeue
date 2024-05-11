@@ -1659,6 +1659,7 @@ gaster
 gauntlet
 giltheads
 geropiga
+gravelstone
 ghazism
 goldie
 gastriloquial
@@ -8427,7 +8428,6 @@ geraty
 gulden
 glister
 gratuitously
-gravelstone
 girnel
 gigantomachy
 graveman
