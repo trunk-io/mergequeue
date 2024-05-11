@@ -2023,7 +2023,6 @@ banisher
 banishing
 banishment
 banister
-bursting
 banyuls
 baniva
 buckra
@@ -3781,6 +3780,7 @@ battleships
 buhr
 battlesome
 brahmany
+bursting
 brigantes
 boatfalls
 banderilla
