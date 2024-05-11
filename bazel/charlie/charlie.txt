@@ -996,7 +996,6 @@ calathi
 calathian
 calathidia
 chamberlainship
-calathiform
 calathiscus
 calathos
 cher
@@ -18812,6 +18811,7 @@ colical
 colichemarde
 colicine
 colicines
+calathiform
 colicins
 colicystitis
 coappellee
