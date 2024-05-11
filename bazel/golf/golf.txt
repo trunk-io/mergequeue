@@ -510,7 +510,6 @@ groten
 geonoma
 gallants
 garrya
-galeus
 glozingly
 galgulidae
 galyacs
@@ -9185,6 +9184,7 @@ graveled
 grasper
 giltcup
 grith
+galeus
 grithbreach
 griths
 grudgingness
