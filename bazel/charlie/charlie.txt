@@ -2769,7 +2769,6 @@ canones
 cardooer
 canonesses
 canonic
-canonical
 cortically
 canonicalization
 canonicalize
@@ -31320,6 +31319,7 @@ colocating
 curiality
 cyanomethemoglobin
 crowberries
+canonical
 curialities
 coenzymatic
 curiam
