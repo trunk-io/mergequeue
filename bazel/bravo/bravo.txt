@@ -3332,6 +3332,7 @@ bathers
 basketing
 basketlike
 bathymetric
+biters
 basketmaker
 basketmaking
 biotope
@@ -9870,7 +9871,6 @@ bited
 bromocamphor
 biter
 biternately
-biters
 bearfoot
 bow
 begums
