@@ -15789,7 +15789,6 @@ brome
 bromegrass
 bombycidae
 bromeigon
-bromeikon
 bromelia
 bromeliaceae
 bromeliaceous
@@ -18261,6 +18260,7 @@ bottlenecks
 buttermaker
 betulinamaric
 broguish
+bromeikon
 butterman
 buttermilk
 bannerol
