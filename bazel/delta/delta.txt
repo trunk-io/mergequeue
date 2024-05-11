@@ -10594,7 +10594,6 @@ diploids
 diploma
 diplomaed
 dolven
-diplomaing
 diplomas
 diplomat
 diplomata
@@ -13753,6 +13752,7 @@ dissweeten
 dogvane
 dist
 digram
+diplomaing
 distad
 dindle
 distain
