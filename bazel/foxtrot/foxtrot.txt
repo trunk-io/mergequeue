@@ -2742,7 +2742,6 @@ floodwall
 fwd
 falanaka
 fervidly
-fervor
 forecar
 formicivorous
 fervorous
@@ -5370,6 +5369,7 @@ foraged
 farseeingness
 frisii
 fleerish
+fervor
 figurativeness
 firmware
 falconer

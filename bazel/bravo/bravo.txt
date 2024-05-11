@@ -8529,7 +8529,6 @@ bilateralism
 bilaterality
 bilateralities
 behaviors
-betangle
 bilaterally
 blackheads
 bilati
@@ -16425,6 +16424,7 @@ birdfarms
 bruskly
 bruskness
 benames
+betangle
 barnumize
 barbeled
 brusque
