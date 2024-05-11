@@ -2495,6 +2495,7 @@ candlepower
 chemist
 camelion
 candler
+coalitions
 candlerent
 candlers
 candles
@@ -17237,7 +17238,6 @@ cephalacanthidae
 coalitioner
 coalitionist
 cleans
-coalitions
 coalize
 coalized
 coinclude
