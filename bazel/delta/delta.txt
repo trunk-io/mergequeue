@@ -3544,7 +3544,6 @@ delete
 deformations
 deformative
 deformedly
-deformeter
 deforming
 downfold
 destroyingly
@@ -15409,6 +15408,7 @@ dielectrically
 dominick
 dream
 dominies
+deformeter
 devoured
 dominion
 dominionism
