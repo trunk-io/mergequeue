@@ -3066,7 +3066,6 @@ basale
 bursarship
 basalt
 bacteriofluorescin
-backstabbing
 boroughlet
 balsamy
 bodilessness
@@ -3608,6 +3607,7 @@ bathysphere
 bathythermogram
 bathythermograph
 bathkol
+backstabbing
 barbar
 bathman
 bathmat
