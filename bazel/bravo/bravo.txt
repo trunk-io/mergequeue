@@ -8274,7 +8274,6 @@ bienne
 bienness
 biennial
 biennially
-biennials
 biennium
 bienniums
 boyism
@@ -9096,6 +9095,7 @@ biomes
 biometric
 bayberry
 biometrician
+biennials
 biometricist
 beavery
 babelike
