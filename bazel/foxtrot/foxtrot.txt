@@ -587,7 +587,6 @@ finders
 falsehood
 forestine
 falsehoods
-furfuraceously
 forthbrought
 forfare
 falseness
@@ -6715,6 +6714,7 @@ foge
 forestay
 fascet
 fogfruit
+furfuraceously
 foretype
 fogfruits
 fogger
