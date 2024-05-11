@@ -5151,7 +5151,6 @@ ballpoints
 beflecks
 bombycinous
 beflounce
-bombshells
 bacony
 beflour
 busti
@@ -17701,6 +17700,7 @@ brothier
 burh
 bronchopneumonic
 burhel
+bombshells
 burhmoot
 buri
 bombic
