@@ -643,6 +643,7 @@ falutin
 falx
 fringefoot
 fam
+formalith
 famacide
 furlanas
 fortitudinous
@@ -11373,7 +11374,6 @@ figureheads
 furied
 frankincense
 falconry
-formalith
 freebooted
 fulvene
 furify
