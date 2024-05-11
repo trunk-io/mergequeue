@@ -7023,7 +7023,6 @@ dykage
 dessertspoon
 dessertspoonful
 dessertspoonfuls
-dessicate
 dessil
 dessous
 durst
@@ -8083,6 +8082,7 @@ dirts
 drawable
 dhurra
 detrimentalness
+dessicate
 dhurry
 di
 diabase
