@@ -7343,7 +7343,6 @@ dissociate
 demiadult
 detonate
 detonating
-detonation
 detonations
 detonative
 detonator
@@ -10493,6 +10492,7 @@ downfalling
 dipicrylamin
 disaccordant
 dipicrylamine
+detonation
 dipygus
 despotist
 dipyramidal
