@@ -2285,6 +2285,7 @@ electrocapillary
 electrocapillarity
 electrocardiogram
 electrocardiograms
+estoc
 epacme
 electrocardiograph
 electrocardiographic
@@ -11113,7 +11114,6 @@ europeanism
 eachwhere
 expiscate
 europeanization
-estoc
 encomimia
 europeanize
 eldfather
