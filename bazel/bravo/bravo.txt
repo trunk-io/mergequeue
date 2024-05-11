@@ -2123,7 +2123,6 @@ bannocks
 bivittate
 banovina
 banquet
-banqueted
 banqueter
 bundist
 banqueting
@@ -16400,6 +16399,7 @@ batful
 brumal
 bises
 brushmaking
+banqueted
 brushmen
 butterers
 byrling
