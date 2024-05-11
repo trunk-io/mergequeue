@@ -2734,7 +2734,6 @@ decontrolled
 dermahemia
 deconvolution
 dishwash
-deconvolve
 decopperization
 drowsiest
 dispurpose
@@ -18102,6 +18101,7 @@ dumbed
 dumber
 dumbest
 draftage
+deconvolve
 dumbfound
 dumbfounded
 dumbfounder

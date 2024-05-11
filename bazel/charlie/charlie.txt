@@ -17876,6 +17876,7 @@ codirector
 commonish
 codirects
 codiscoverer
+critter
 codist
 codivine
 codlin
@@ -29560,7 +29561,6 @@ cabals
 critiqued
 critize
 critling
-critter
 climatologists
 coadunating
 critters
