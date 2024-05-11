@@ -10795,7 +10795,6 @@ ammonitess
 ammonitic
 ammoniticone
 abstrude
-ammonitiferous
 ammonitoid
 aerotechnics
 ammonitoidea
@@ -25205,6 +25204,7 @@ axoplasms
 autostyly
 axopodia
 axopodium
+ammonitiferous
 acoupe
 aalii
 algetic
