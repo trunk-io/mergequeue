@@ -1819,7 +1819,6 @@ guardfish
 gastronosus
 gastroparalysis
 gastroparesis
-gonyaulax
 galluot
 gastroparietal
 gastropathy
@@ -1936,6 +1935,7 @@ gatewards
 gyrostabilized
 gatewoman
 galidictis
+gonyaulax
 gatherable
 gilgai
 gatherers
