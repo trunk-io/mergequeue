@@ -25598,7 +25598,6 @@ crenelation
 coronographic
 canvasman
 coronoid
-coronopus
 coronule
 coroparelcysis
 coperception
@@ -27839,6 +27838,7 @@ cp
 contractus
 cpd
 chorus
+coronopus
 chemurgic
 cpi
 cuttoe
