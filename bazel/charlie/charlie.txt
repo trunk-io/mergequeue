@@ -3971,7 +3971,6 @@ carcels
 carcer
 cameleers
 cosmosphere
-carceral
 carcerate
 coassisted
 carcerating
@@ -25203,6 +25202,7 @@ corydalin
 corydaline
 corydine
 corydon
+carceral
 corydora
 corylaceae
 corylaceous
