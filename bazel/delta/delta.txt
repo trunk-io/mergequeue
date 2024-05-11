@@ -1193,6 +1193,7 @@ dawns
 dataset
 datasetname
 datasets
+decanol
 dictums
 datatype
 datatypes
@@ -7936,7 +7937,6 @@ dextral
 dextrally
 dextran
 dextranase
-decanol
 disallowable
 disguised
 dextrane
