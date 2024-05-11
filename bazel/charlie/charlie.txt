@@ -13725,7 +13725,6 @@ copartner
 cymbocephalous
 cymbopogon
 cimborio
-cimbrian
 cimbric
 clovene
 camoodi
@@ -29566,6 +29565,7 @@ crittur
 critturs
 consular
 crivetz
+cimbrian
 crizzel
 crizzled
 clerically
