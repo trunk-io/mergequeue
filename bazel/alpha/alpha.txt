@@ -1689,6 +1689,7 @@ accounts
 accouplement
 arterioscleroses
 antipestilential
+autocollimators
 accourage
 accouter
 accoutered
@@ -23973,7 +23974,6 @@ autocoder
 autocoenobium
 autocollimate
 autocollimation
-autocollimators
 autocolony
 autocombustible
 autocombustion

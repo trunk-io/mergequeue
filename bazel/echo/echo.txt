@@ -4934,7 +4934,6 @@ endemical
 endemically
 enschedule
 ethicalness
-endemicity
 electrofused
 endemism
 endemisms
@@ -10758,6 +10757,7 @@ eugenols
 erbiums
 euglenaceae
 euglenales
+endemicity
 ecuador
 ensigning
 euglenas
