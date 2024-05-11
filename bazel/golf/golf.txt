@@ -571,6 +571,7 @@ galleyworm
 geneat
 glimpsed
 galleon
+gondoletta
 galleons
 galler
 gallera
@@ -6712,7 +6713,6 @@ gratis
 gondola
 gondolas
 global
-gondoletta
 gangliform
 gordius
 gucks
