@@ -18898,7 +18898,6 @@ arches
 archespore
 archespores
 autonephrectomy
-archesporial
 archesporium
 alleviations
 alsikes
@@ -23613,6 +23612,7 @@ aurigation
 agrionid
 aurigerous
 aurigo
+archesporial
 aurigraphy
 aurilave
 aurin
