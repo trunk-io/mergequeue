@@ -3391,7 +3391,6 @@ bemata
 bughouse
 beholders
 bassette
-bassetted
 bays
 bassetting
 bassi
@@ -8468,6 +8467,7 @@ bigwig
 bigwigged
 bigwiggery
 bigwiggism
+bassetted
 bigwigs
 bihai
 bihalve
