@@ -12056,7 +12056,6 @@ bokard
 bokhara
 bokharan
 bokmakierie
-behalves
 bokom
 bola
 bolag
@@ -12880,6 +12879,7 @@ boots
 bootstrapped
 bootstrapping
 boottop
+behalves
 boozed
 biforous
 bushelage
