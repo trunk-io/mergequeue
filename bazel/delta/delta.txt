@@ -11233,6 +11233,7 @@ disbursals
 disburse
 disbursements
 duckpins
+disputations
 decolorimeter
 divinistre
 definability
@@ -13299,7 +13300,6 @@ disputation
 disconnected
 delitous
 delightless
-disputations
 dodecaphonist
 dosimetrist
 deflators
