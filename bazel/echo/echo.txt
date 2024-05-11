@@ -5075,7 +5075,6 @@ expel
 entogenous
 endocrinologist
 embosser
-ecdysones
 eisell
 epispore
 endocrinopathic
@@ -12008,6 +12007,7 @@ excitation
 excitations
 effecting
 excitator
+ecdysones
 excite
 emanation
 excited
