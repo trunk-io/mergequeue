@@ -9770,6 +9770,7 @@ freight
 foretoken
 freightage
 fluorite
+frosts
 fringe
 fourchette
 fatten
@@ -10959,7 +10960,6 @@ fulmar
 fulminant
 flighthead
 feoffeeship
-frosts
 flame
 fripper
 fulminatory
