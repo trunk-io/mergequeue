@@ -5390,6 +5390,7 @@ casting
 castle
 castled
 castlelike
+clitocybe
 castles
 cortaderia
 china
@@ -14421,7 +14422,6 @@ clefted
 circumnavigations
 coelia
 circumnavigator
-clitocybe
 cyclometrical
 chilognath
 circumneutral
