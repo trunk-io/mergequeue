@@ -2590,7 +2590,6 @@ antireduction
 acocotl
 acoela
 acoelomata
-acoelomate
 anisotropal
 acoelomatous
 acoelomi
@@ -16946,6 +16945,7 @@ appenditious
 aphrodisiomania
 aphrodisiomaniac
 adermin
+acoelomate
 adlay
 aphrodisiomaniacal
 aphrodision
