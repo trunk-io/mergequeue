@@ -2993,7 +2993,6 @@ boist
 bartenders
 bartending
 bartends
-baggywrinkle
 barter
 barterers
 bartering
@@ -12476,6 +12475,7 @@ boneshaw
 binders
 bonetail
 bonetta
+baggywrinkle
 bigotish
 bonewood
 bonework
