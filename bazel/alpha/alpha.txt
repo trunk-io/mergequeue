@@ -6450,6 +6450,7 @@ agric
 agricere
 arsonium
 airs
+anoint
 archscoundrel
 amphionic
 agricole
@@ -13750,7 +13751,6 @@ anogra
 archiannelida
 amarth
 astucious
-anoint
 anointed
 anointment
 anointments
