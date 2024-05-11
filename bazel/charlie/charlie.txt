@@ -17883,6 +17883,7 @@ coding
 codings
 codirected
 codirecting
+consignable
 codirector
 commonish
 codirects
@@ -25447,7 +25448,6 @@ corniform
 cornigerous
 cornin
 cryptological
-consignable
 corning
 curviest
 cornish
