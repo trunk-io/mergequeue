@@ -791,7 +791,6 @@ gien
 galvanomagnetic
 galvanomagnetism
 gombeen
-galvanometers
 gecko
 galvanometric
 geometries
@@ -4013,6 +4012,7 @@ gerunds
 giglio
 giglots
 guardage
+galvanometers
 grunth
 gigmanic
 gigmanity
