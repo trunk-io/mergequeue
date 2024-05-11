@@ -4113,7 +4113,6 @@ admeasurer
 adumbrant
 admeasuring
 admedial
-admedian
 afforced
 anthus
 attrist
@@ -11370,6 +11369,7 @@ antespring
 amputate
 amputates
 amputating
+admedian
 amputation
 aguinaldos
 amputational
