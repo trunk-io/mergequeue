@@ -5823,7 +5823,6 @@ graian
 glossocomium
 glossocomon
 gonotheca
-glossodynamometer
 glossoepiglottic
 goldwork
 glossoepiglottidean
@@ -9231,6 +9230,7 @@ groenendael
 goofily
 guiltily
 genialness
+glossodynamometer
 glossophorous
 geotaxis
 gluttei
