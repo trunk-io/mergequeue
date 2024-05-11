@@ -21815,7 +21815,6 @@ adversarial
 assigners
 assignment
 assignments
-assignors
 animadversive
 assigns
 assilag
@@ -24849,6 +24848,7 @@ avoucher
 anamorphism
 avouchers
 avouches
+assignors
 avouching
 avouchment
 apsychia
