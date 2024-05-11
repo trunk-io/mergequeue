@@ -118,7 +118,6 @@ gadget
 glaive
 gadded
 geranial
-gadgetry
 gadgetries
 gadid
 generals
@@ -584,6 +583,7 @@ gallerygoer
 galleriidae
 groundless
 galleryite
+gadgetry
 gableended
 galleta
 galleting
