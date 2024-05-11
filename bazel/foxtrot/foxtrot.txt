@@ -3456,7 +3456,6 @@ fingerable
 fatiguable
 forel
 fighteress
-fanwort
 fighting
 formboard
 figitidae
@@ -7900,6 +7899,7 @@ fittyways
 foreruns
 fumishly
 fores
+fanwort
 foresaddle
 flowstone
 fyttes
