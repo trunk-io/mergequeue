@@ -4196,6 +4196,7 @@ admittable
 antedate
 admittance
 admittances
+antidysenteric
 admittatur
 admitted
 agitpunkt
@@ -15141,7 +15142,6 @@ antidiphtheritic
 acidify
 antidisciplinarian
 administratorship
-antidysenteric
 antidisestablishmentarian
 allothigenous
 antidisestablishmentarianism
