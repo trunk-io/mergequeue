@@ -18,6 +18,7 @@ cabaletta
 cardplaying
 cabalism
 cabalisms
+cyphered
 castratory
 crewelwork
 cabalist
@@ -14109,7 +14110,6 @@ calotermitidae
 cypher
 cipherable
 cipherdom
-cyphered
 cipherer
 cipherhood
 ciphering
