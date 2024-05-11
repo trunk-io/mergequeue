@@ -7707,6 +7707,7 @@ cerecloth
 cered
 cerement
 cerements
+compel
 ceremony
 chrysoeriol
 ceremonial
@@ -9323,7 +9324,6 @@ chaton
 chatons
 cytogenesis
 chatot
-compel
 chetahs
 chatsome
 clancular
