@@ -4958,6 +4958,7 @@ gnomonics
 gleg
 gladfulness
 gorblimey
+glew
 gladhearted
 gracefulness
 galaxian
@@ -5798,7 +5799,6 @@ goniatitoid
 glossier
 goitered
 glossies
-glew
 grey
 glossiest
 glycosuria
