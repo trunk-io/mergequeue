@@ -3460,7 +3460,6 @@ bastilles
 biggah
 bastiment
 bastinaded
-bastinades
 baroi
 burbots
 bastinado
@@ -3897,6 +3896,7 @@ bawdies
 bawdiest
 black
 birthbed
+bastinades
 bawdily
 bawdiness
 bullpouts
