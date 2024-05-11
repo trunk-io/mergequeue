@@ -2078,6 +2078,7 @@ acetobenzoic
 acetol
 acetolysis
 acetolytic
+applicable
 acetometer
 acetometry
 acetometric
@@ -17858,7 +17859,6 @@ appliant
 aillt
 arenous
 applicability
-applicable
 androgonia
 applicableness
 applicancy
