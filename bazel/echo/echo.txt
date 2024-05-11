@@ -5270,6 +5270,7 @@ endoskeletons
 endosmic
 endosmometric
 equipments
+epicoela
 endocrinologic
 eyr
 evaders
@@ -11542,7 +11543,6 @@ evince
 evincement
 evincible
 ectopterygoid
-epicoela
 ewing
 evincing
 evincive
