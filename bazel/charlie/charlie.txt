@@ -10457,7 +10457,6 @@ chieftainry
 chieftainries
 coition
 chieftains
-chieftainship
 countermove
 chiefty
 chiel
@@ -23646,6 +23645,7 @@ contrabandery
 causticiser
 counderstand
 consequentially
+chieftainship
 contrabandism
 circumoesophagal
 contrabandist
