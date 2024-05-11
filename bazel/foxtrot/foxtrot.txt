@@ -2431,7 +2431,6 @@ featural
 ferguson
 fergusonite
 frondage
-ferial
 failing
 fied
 folksiness
@@ -6561,6 +6560,7 @@ flutterable
 flutterboard
 fluttered
 furnacer
+ferial
 flutterers
 freshened
 flutteriness
