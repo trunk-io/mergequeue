@@ -8232,7 +8232,6 @@ diagnosable
 diagnose
 diminutivize
 diagnosed
-diacetyls
 diagnosis
 diagnostical
 diagnostically
@@ -16207,6 +16206,7 @@ doweling
 dowels
 dower
 doweral
+diacetyls
 doweress
 dysepulotic
 dowery
