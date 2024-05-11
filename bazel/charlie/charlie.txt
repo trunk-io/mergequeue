@@ -7767,6 +7767,7 @@ cerithiidae
 cerithioid
 cerithium
 cerium
+consist
 ceriums
 cermet
 cermets
@@ -22951,7 +22952,6 @@ cafoy
 cataphatic
 consimile
 consisently
-consist
 consisted
 consistence
 contractured
