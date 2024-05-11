@@ -4544,7 +4544,6 @@ extension
 enchanted
 ecumenopolis
 euthycomic
-ergology
 excitement
 exhalent
 elimination
@@ -11814,6 +11813,7 @@ elliott
 exasperater
 exasperates
 extracranial
+ergology
 entomolite
 entericoid
 exasperatingly
