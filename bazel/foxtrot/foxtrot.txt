@@ -394,7 +394,6 @@ foreprepare
 frigid
 futharc
 fairyish
-foulage
 fairyland
 fairing
 failings
@@ -6798,6 +6797,7 @@ foresworn
 foiter
 fokker
 fissate
+foulage
 fol
 folacin
 falderols
