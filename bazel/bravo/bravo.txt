@@ -3615,7 +3615,6 @@ bollard
 bathmism
 bathochromatism
 bathochromy
-bathochromic
 bathoflore
 batholith
 bibliomaniacal
@@ -11509,6 +11508,7 @@ blurts
 ballismus
 blush
 blushed
+bathochromic
 blusher
 boosy
 blushfully
