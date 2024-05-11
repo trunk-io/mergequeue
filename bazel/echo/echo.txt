@@ -2311,7 +2311,6 @@ extractors
 eutectic
 egba
 erythrophore
-episteme
 electrocoating
 electrocolloidal
 exhaustable
@@ -7230,6 +7229,7 @@ eolian
 eolipile
 eolipiles
 eolithic
+episteme
 eolopiles
 eggnogs
 eolotropic
