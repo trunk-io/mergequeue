@@ -2679,7 +2679,6 @@ electrovection
 electrowinning
 entermete
 electrosynthetically
-electrogilding
 electuaries
 enceint
 eledone
@@ -5318,6 +5317,7 @@ elechi
 epigoneion
 endothelial
 ebdomade
+electrogilding
 endothelioid
 enchaser
 evocatory
