@@ -10332,7 +10332,6 @@ dioramic
 diordinal
 duplet
 diorite
-diorites
 distraint
 diorthosis
 diorthotic
@@ -14288,6 +14287,7 @@ divast
 doubtable
 divata
 decemfoliolate
+diorites
 desynonymization
 dive
 divebomb
