@@ -4675,6 +4675,7 @@ bedecking
 bewormed
 bedecks
 bankfull
+bigamy
 bedeguar
 bedehouse
 bedehouses
@@ -14346,7 +14347,6 @@ brainwashes
 bluefishes
 bimah
 bisymmetry
-bigamy
 brainwashjng
 brainwave
 brainwood
