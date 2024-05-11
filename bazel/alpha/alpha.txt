@@ -5322,7 +5322,6 @@ affidation
 ais
 affidavy
 affidavit
-aviso
 affied
 affies
 affying
@@ -6851,6 +6850,7 @@ aircraftmen
 ausu
 aircraftsman
 aircraftsmen
+aviso
 aircraftswoman
 adipsous
 aircraftwoman
