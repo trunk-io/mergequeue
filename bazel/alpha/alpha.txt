@@ -7221,6 +7221,7 @@ al
 antiquarium
 ala
 aeciotelia
+antefurcae
 antibiotics
 alabamian
 argovian
@@ -14155,7 +14156,6 @@ antefix
 antefixa
 anaesthyl
 anteflexed
-antefurcae
 antefurcal
 antehall
 antehypophysis
