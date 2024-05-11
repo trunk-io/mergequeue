@@ -2393,7 +2393,6 @@ cancerousness
 curare
 cancerroot
 cancerweed
-cancerwort
 canch
 centgener
 cancha
@@ -5889,6 +5888,7 @@ cathay
 caecocolic
 cathayan
 cathar
+cancerwort
 cathari
 catharina
 catharism
