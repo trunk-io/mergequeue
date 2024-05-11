@@ -1502,6 +1502,7 @@ dissipate
 deaconry
 deacons
 deaconship
+desicate
 deactivate
 darbyite
 deactivates
@@ -6672,7 +6673,6 @@ decharm
 dinitrophenol
 desiatin
 desyatin
-desicate
 disprove
 downrange
 desiccated
