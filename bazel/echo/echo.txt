@@ -6471,7 +6471,6 @@ entail
 entails
 enzyms
 erythemic
-entally
 eaglet
 enpia
 electronegative
@@ -12890,6 +12889,7 @@ embarrassments
 expansionist
 expansionistic
 enserf
+entally
 enclasping
 electroneutrality
 enrough
