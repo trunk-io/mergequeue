@@ -3370,7 +3370,6 @@ embatholithic
 embattle
 enteropneustan
 embattled
-estranger
 embattlement
 eviscerate
 embattles
@@ -14151,6 +14150,7 @@ extuberant
 exuberantness
 exuberated
 endocarpoid
+estranger
 exuberating
 exuccous
 exudation
