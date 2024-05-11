@@ -2288,6 +2288,7 @@ electrocardiogram
 electrocardiograms
 epacme
 electrocardiograph
+endopterygotism
 electrocardiographic
 electrocardiographically
 electrocatalysis
@@ -9449,7 +9450,6 @@ escalop
 easygoing
 escalope
 erlking
-endopterygotism
 escaloping
 escambron
 euspongia

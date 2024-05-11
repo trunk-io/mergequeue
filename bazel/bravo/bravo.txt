@@ -17478,7 +17478,6 @@ bunkered
 brulyies
 bandbox
 borzicactus
-biometer
 bunkering
 bipack
 blackouts
@@ -18343,6 +18342,7 @@ buttressing
 buttressless
 bookstack
 buttresslike
+biometer
 butts
 barbellate
 buttstrap
