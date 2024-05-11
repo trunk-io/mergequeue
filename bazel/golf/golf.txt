@@ -5816,7 +5816,6 @@ galvanomagnet
 glossitic
 glossitis
 garbleable
-glossless
 glossocele
 graian
 glossocomium
@@ -5994,6 +5993,7 @@ galactophorous
 glucosamine
 glucosane
 genteelest
+glossless
 garo
 grenatite
 glucosazone
