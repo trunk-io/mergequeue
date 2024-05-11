@@ -5365,6 +5365,7 @@ castellum
 casten
 caster
 casterless
+complicant
 cinemograph
 casters
 castes
@@ -20745,7 +20746,6 @@ compliant
 compliantly
 compiling
 complicacy
-complicant
 complicate
 complicated
 complicatedly
