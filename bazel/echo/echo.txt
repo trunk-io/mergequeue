@@ -2518,6 +2518,7 @@ ectethmoid
 ethnarchy
 evaporator
 enhaloed
+erosivity
 electronegativity
 electronervous
 electroneutral
@@ -9232,7 +9233,6 @@ eucharistize
 erosional
 erythrulose
 erosiveness
-erosivity
 emplane
 erotema
 electrofuse
