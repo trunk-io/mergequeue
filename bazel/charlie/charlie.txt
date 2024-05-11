@@ -3876,7 +3876,6 @@ carbonometer
 carpuspi
 carbonometry
 chondrin
-carbonous
 carbons
 carbonuria
 contradistinguish
@@ -13348,6 +13347,7 @@ cyclitis
 cyclitols
 conscribe
 cyclization
+carbonous
 cyclizes
 cyclizing
 cyclocoelous
