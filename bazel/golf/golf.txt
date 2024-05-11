@@ -5307,7 +5307,6 @@ gaited
 golgi
 guardsman
 gargets
-galbanum
 grenade
 glenlike
 genuflectory
@@ -7672,6 +7671,7 @@ gauby
 gentisin
 gummy
 gippo
+galbanum
 graftproof
 gravestones
 graham
