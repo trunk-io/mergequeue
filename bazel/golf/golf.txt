@@ -3582,6 +3582,7 @@ genus
 getling
 getmjlkost
 getpenny
+gentiin
 gibberish
 greaselessness
 getspace
@@ -5282,7 +5283,6 @@ glengarries
 gledy
 gospoda
 gleed
-gentiin
 glandulousness
 gingellies
 garlopa
