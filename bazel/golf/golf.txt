@@ -5176,6 +5176,7 @@ glassteel
 guestship
 glasswork
 gutturality
+galenist
 guider
 gunpaper
 glassworker
@@ -10782,7 +10783,6 @@ gravimetry
 galilean
 guttie
 gestonie
-galenist
 gelatinously
 guttiferae
 ganglioneuron

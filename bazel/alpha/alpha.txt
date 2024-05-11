@@ -4709,7 +4709,6 @@ adviso
 adlumine
 amatungula
 advisor
-advisory
 advisories
 advisorily
 advisors
@@ -6752,6 +6751,7 @@ ailments
 ails
 allemandes
 acalycine
+advisory
 acarol
 autosign
 ailsyte
