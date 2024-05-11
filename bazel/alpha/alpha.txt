@@ -5386,7 +5386,6 @@ affixer
 affixers
 affixes
 affixial
-aspatia
 android
 affixion
 affixment
@@ -22247,6 +22246,7 @@ astrier
 antefixal
 argentoproteinum
 astriferous
+aspatia
 althein
 astringe
 autosoteric
