@@ -1523,7 +1523,6 @@ ghostology
 gn
 garrotte
 garrotted
-garrulinae
 ghouls
 garruline
 graven
@@ -5544,6 +5543,7 @@ goujon
 glyptotherium
 globeholder
 glires
+garrulinae
 gliridae
 gliriformia
 glirine
