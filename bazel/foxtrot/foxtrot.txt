@@ -2513,7 +2513,6 @@ flexity
 falsen
 fermions
 fermium
-fern
 fastigium
 floripondio
 forint
@@ -2529,6 +2528,7 @@ fernyear
 frustulum
 fernier
 fernlike
+fern
 fernseed
 flustrum
 faucalize
