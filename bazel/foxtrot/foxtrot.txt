@@ -6890,7 +6890,6 @@ flowmanostat
 flaser
 foliot
 folious
-factioneer
 furoid
 forbearances
 flashingly
@@ -9284,6 +9283,7 @@ fragmentizing
 flex
 frame
 forcing
+factioneer
 forsakers
 fragments
 fishbed
