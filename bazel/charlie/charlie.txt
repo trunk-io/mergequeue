@@ -8424,7 +8424,6 @@ chalkiness
 chalking
 chalklike
 chalkline
-chalkone
 chalkos
 chalkosideric
 chalkotheke
@@ -30670,6 +30669,7 @@ cuya
 cuidado
 contorno
 conspue
+chalkone
 cuiejo
 cuif
 cuifs
