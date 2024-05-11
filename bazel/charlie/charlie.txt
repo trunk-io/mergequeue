@@ -180,7 +180,6 @@ cabooses
 caboshed
 chloroanemia
 cabotage
-cabotages
 clangored
 carmagnoles
 cabotin
@@ -22896,6 +22895,7 @@ conservatrix
 conserve
 conserved
 conserver
+cabotages
 cassaba
 conservers
 conserves
