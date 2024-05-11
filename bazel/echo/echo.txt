@@ -8544,7 +8544,6 @@ equating
 essentializing
 eastlin
 ergographic
-equational
 equationally
 ethicism
 equationist
@@ -14189,6 +14188,7 @@ exuscitate
 enlists
 enlargement
 exust
+equational
 encaging
 exuviability
 eschewals
