@@ -3652,7 +3652,6 @@ deglamorized
 deuteranomalous
 deglamorizing
 deglaze
-deglazed
 deglazing
 deglycerin
 deglory
@@ -5710,6 +5709,7 @@ depilates
 depilating
 depilator
 depilatory
+deglazed
 depilatories
 duplicando
 depilitant
