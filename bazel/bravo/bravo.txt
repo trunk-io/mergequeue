@@ -8995,7 +8995,6 @@ bavary
 biodegraded
 biodegrading
 biodynamical
-biodynamics
 buccinoid
 bocal
 brutalize
@@ -13286,6 +13285,7 @@ botella
 botels
 boterol
 brooched
+biodynamics
 botflies
 both
 bothered
