@@ -7190,6 +7190,7 @@ detainee
 detainees
 detainers
 detaining
+disocclude
 decolourise
 durwaun
 detainingly
@@ -12841,7 +12842,6 @@ disobliges
 duodynatron
 disobstruct
 dipteros
-disocclude
 darkful
 disheveling
 disoccluded
