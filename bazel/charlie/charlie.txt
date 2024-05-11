@@ -15206,7 +15206,6 @@ carposperm
 cl
 clabber
 compellation
-clabbered
 clabbery
 clabbering
 clabbers
@@ -26842,6 +26841,7 @@ countereffort
 counterembattled
 counterembowed
 counterenergy
+clabbered
 counterengagement
 corporator
 counterengine
