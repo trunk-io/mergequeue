@@ -4252,7 +4252,6 @@ carelessness
 conflagrate
 chromatometer
 careme
-carene
 carer
 chyometer
 carers
@@ -11696,6 +11695,7 @@ cholepoietic
 cooks
 choler
 cholera
+carene
 choleras
 choleric
 cholerically
