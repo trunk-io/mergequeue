@@ -1730,7 +1730,6 @@ griper
 gastrocele
 gastrocentrous
 geomorphogenic
-gastrochaena
 garrotting
 gastrochaenidae
 graniticoline
@@ -5125,6 +5124,7 @@ glaring
 goniopholis
 gregarinae
 glaringly
+gastrochaena
 guester
 graveyards
 granch
