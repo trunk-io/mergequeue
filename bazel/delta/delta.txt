@@ -15137,7 +15137,6 @@ doled
 dolefish
 doleful
 dolefully
-dolefulness
 denigrators
 deathfulness
 dolefuls
@@ -15331,6 +15330,7 @@ domesticates
 domesticating
 draftsperson
 domesticative
+dolefulness
 dazing
 domesticator
 domesticity
