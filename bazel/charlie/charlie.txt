@@ -3276,6 +3276,7 @@ capmaking
 capman
 capnodium
 capnoides
+chemesthesis
 colonizes
 capnomancy
 capnomor
@@ -9853,7 +9854,6 @@ cheloniidae
 crucialness
 cunit
 chemehuevi
-chemesthesis
 chemiatric
 chemic
 chemical
