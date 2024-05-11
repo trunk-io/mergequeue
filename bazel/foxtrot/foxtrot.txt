@@ -1690,6 +1690,7 @@ frugivora
 feak
 federate
 feal
+flashcubes
 fealty
 fumigates
 fluorinate
@@ -5022,7 +5023,6 @@ fianna
 flinches
 flashcube
 fatigated
-flashcubes
 fario
 fidicinal
 flashed
