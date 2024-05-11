@@ -1441,7 +1441,6 @@ baloo
 balete
 bali
 balian
-bucare
 bight
 balibago
 balibuntal
@@ -4630,6 +4629,7 @@ bedaubing
 bedaubs
 bedlike
 backhanded
+bucare
 bedawee
 bedazed
 bedazement
