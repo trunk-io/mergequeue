@@ -4390,7 +4390,6 @@ electrobioscopy
 encaged
 encages
 encalendar
-encamping
 encampment
 encamps
 endoparasite
@@ -7090,6 +7089,7 @@ encarnalise
 envenomous
 enventual
 enverdure
+encamping
 edicts
 expansometer
 enemy
