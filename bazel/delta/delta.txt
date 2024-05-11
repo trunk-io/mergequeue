@@ -11586,6 +11586,7 @@ diphead
 debitrix
 disconnecting
 disconnection
+discard
 disconnective
 disconnector
 disconnects
@@ -13707,7 +13708,6 @@ dissolvable
 dissolvableness
 dissolvative
 dissolve
-discard
 dalis
 druxy
 disenshroud
