@@ -4591,6 +4591,7 @@ demifigure
 demiflouncing
 demigardebras
 disinflated
+dorsonasal
 demigauntlet
 demigentleman
 demiglace
@@ -15831,7 +15832,6 @@ draft
 dankly
 dorsomedial
 dorsomedian
-dorsonasal
 diastaltic
 dorsonuchal
 dorsopleural
