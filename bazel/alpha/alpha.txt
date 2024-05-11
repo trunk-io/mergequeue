@@ -4903,7 +4903,6 @@ anthologizing
 aerialist
 aeriality
 aerially
-aerials
 aeric
 anoplocephalic
 aerier
@@ -17407,6 +17406,7 @@ airdates
 adamantoid
 anemometrographic
 aporetic
+aerials
 archmime
 aporhyolite
 amusively
