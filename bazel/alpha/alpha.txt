@@ -283,7 +283,6 @@ arthrochondritis
 abducentes
 abduces
 articulate
-abduct
 abducted
 abducting
 abductions
@@ -19685,6 +19684,7 @@ aricin
 arid
 arided
 adhesions
+abduct
 astringing
 arider
 apterium
