@@ -8895,7 +8895,6 @@ chaplaincies
 chaplains
 cognitives
 chapless
-chapleted
 conciator
 chaplets
 chapon
@@ -26780,6 +26779,7 @@ counterboulle
 counterbracing
 counterbranch
 counterbrand
+chapleted
 confutable
 counterbreastwork
 counterbuff
