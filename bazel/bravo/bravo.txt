@@ -1881,6 +1881,7 @@ bandfile
 bandfiled
 bandgap
 bandh
+bea
 burdon
 brownism
 brython
@@ -3969,7 +3970,6 @@ bdellovibrio
 bromised
 branchiomerism
 bds
-bea
 brachycardia
 batrachospermum
 beach
