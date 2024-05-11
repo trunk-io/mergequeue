@@ -9373,7 +9373,6 @@ dadder
 difformed
 deminudity
 diffract
-diffraction
 diffractions
 defense
 diffractively
@@ -9831,6 +9830,7 @@ desilicification
 dace
 dimensionally
 dimensioning
+diffraction
 dimensum
 decked
 dimer
