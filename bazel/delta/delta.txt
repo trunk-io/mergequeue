@@ -7190,7 +7190,6 @@ detainee
 detainees
 detainers
 detaining
-decolourise
 durwaun
 detainingly
 detainment
@@ -10622,6 +10621,7 @@ dunnaged
 diplont
 diplonts
 diplophase
+decolourise
 dictional
 dosology
 diplophonic
