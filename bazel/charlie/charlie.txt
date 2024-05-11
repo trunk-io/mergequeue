@@ -9972,7 +9972,6 @@ cancers
 chemosterilants
 chemosurgery
 chemotactic
-chemotactically
 choochoo
 chemotaxy
 collocatory
@@ -15481,6 +15480,7 @@ clanswoman
 cyprinodontidae
 crenelated
 clanswomen
+chemotactically
 claosaurus
 clap
 clapboard
