@@ -2715,7 +2715,6 @@ beastings
 barnyards
 barnier
 barillas
-barnlike
 beadflush
 barnman
 barnstormer
@@ -6777,6 +6776,7 @@ berk
 berkeley
 brooking
 bowermaiden
+barnlike
 brilliantine
 berkeleianism
 burlap
