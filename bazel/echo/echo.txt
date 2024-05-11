@@ -4707,7 +4707,6 @@ exploratory
 eclipsis
 encloister
 etymologize
-epiphenomena
 exegetically
 experimentalists
 enclosed
@@ -8624,6 +8623,7 @@ equilibrative
 exorbitance
 equilibria
 equilibrial
+epiphenomena
 equilibriate
 equilibrio
 equilibrious
