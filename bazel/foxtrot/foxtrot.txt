@@ -2971,7 +2971,6 @@ furcation
 foreshows
 feuillants
 feuilleton
-feuilletons
 fleches
 flapcake
 feulamort
@@ -5434,6 +5433,7 @@ furfuran
 fleshlier
 fleshliest
 flavourer
+feuilletons
 fleshliness
 fiddleneck
 fittiest
