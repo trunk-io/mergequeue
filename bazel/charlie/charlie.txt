@@ -6035,7 +6035,6 @@ catlap
 curatory
 catlike
 crowns
-catlin
 catline
 catling
 catlings
@@ -7925,6 +7924,7 @@ cervus
 cesare
 cesareans
 cesarevitch
+catlin
 cesarian
 cesarians
 cesarolite
