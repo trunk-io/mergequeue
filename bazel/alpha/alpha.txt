@@ -13512,6 +13512,7 @@ anne
 auxometer
 anneal
 annealer
+aperiodic
 appoggiature
 anneals
 annect
@@ -16747,7 +16748,6 @@ arterioplania
 aperea
 aperient
 aperients
-aperiodic
 aperiodically
 average
 aperiodicity
