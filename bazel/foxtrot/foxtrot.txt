@@ -8856,7 +8856,6 @@ formly
 fossilogy
 funmaker
 fettstein
-femalely
 fishwife
 fungo
 flamefish
@@ -9254,6 +9253,7 @@ fishpot
 fragileness
 fleabane
 fragility
+femalely
 fadable
 foxery
 faceplate
