@@ -6555,7 +6555,6 @@ glidewort
 goldenrod
 gucked
 goldentop
-gastrea
 golder
 grower
 gambrelled
@@ -10663,6 +10662,7 @@ garvock
 glossocoma
 gusher
 gutturotetany
+gastrea
 goethe
 gargety
 glitterance
