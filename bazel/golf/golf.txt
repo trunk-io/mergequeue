@@ -1837,7 +1837,6 @@ gendered
 gorgonacea
 glandule
 gastrophilism
-grizzle
 gastrophilite
 gastrophrenic
 gastroplasty
@@ -2291,6 +2290,7 @@ geechee
 geeing
 greys
 glaciologic
+grizzle
 generosities
 glossopathy
 geejee
