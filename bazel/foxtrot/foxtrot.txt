@@ -512,6 +512,7 @@ flecker
 folium
 falcons
 falcopern
+fetometry
 folkboat
 falculate
 falcunculus
@@ -2889,7 +2890,6 @@ forecastlemen
 fetlocked
 fetography
 fetology
-fetometry
 fibroglia
 fulwa
 foragement
