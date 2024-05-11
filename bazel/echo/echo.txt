@@ -3360,7 +3360,6 @@ embastardize
 evangelizing
 emmenology
 ennuyant
-entotic
 eduction
 ecliptic
 excel
@@ -6134,6 +6133,7 @@ enologist
 enols
 enterclose
 enomania
+entotic
 enomotarch
 exodist
 enophthalmus
