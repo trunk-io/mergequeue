@@ -6420,7 +6420,6 @@ emitters
 encephalometer
 encheck
 ensorcellment
-ensorrow
 eucalyn
 emit
 ectodactylism
@@ -10460,6 +10459,7 @@ ethologic
 ethologies
 ethologist
 explains
+ensorrow
 exactment
 expressionlessly
 emperorship
