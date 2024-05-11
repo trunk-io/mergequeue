@@ -12172,7 +12172,6 @@ disframe
 disfranchisement
 disfranchises
 depel
-disfrancnise
 deride
 disfrequent
 divineress
@@ -15142,6 +15141,7 @@ dolently
 deflection
 dolerin
 doleritic
+disfrancnise
 despondent
 dolerophanite
 dolesome
