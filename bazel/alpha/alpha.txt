@@ -11581,7 +11581,6 @@ alphabetize
 anacrogynae
 amba
 anacrogynous
-anacrotic
 altricial
 anacrotism
 anacruses
@@ -11776,6 +11775,7 @@ amnestic
 antinational
 analytique
 analyzability
+anacrotic
 analyzable
 analyzation
 arcuately
