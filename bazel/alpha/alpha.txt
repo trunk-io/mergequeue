@@ -2712,7 +2712,6 @@ acquiescence
 acquiescency
 acquiescent
 ansate
-acquiescently
 acquiescer
 acquiesces
 amygdalotomy
@@ -13971,6 +13970,7 @@ ans
 ansae
 ansar
 aradid
+acquiescently
 ansarie
 ansated
 aerobium
