@@ -1850,7 +1850,6 @@ galoubet
 grandevous
 governmentish
 gastropod
-gastropodan
 gallic
 grantsmen
 gastropore
@@ -6390,6 +6389,7 @@ gunite
 glucosulfone
 griddler
 gasteralgia
+gastropodan
 glycohaemia
 goblinesque
 griffins
