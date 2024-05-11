@@ -4655,7 +4655,6 @@ guardrail
 girgasite
 grifter
 gigantopithecus
-gymnastics
 gypseian
 gastroenteric
 gyrinid
@@ -7772,6 +7771,7 @@ gramineae
 graminiform
 gynaeocracy
 gravitational
+gymnastics
 grovy
 graminological
 grammalogue
