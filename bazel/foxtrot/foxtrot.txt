@@ -1612,7 +1612,6 @@ feasibilities
 fixes
 favoredly
 footballer
-favorer
 furtherest
 fi
 fleaworts
@@ -2079,6 +2078,7 @@ funebrial
 federator
 forclose
 feldspath
+favorer
 forerigging
 favissae
 fastidiously
