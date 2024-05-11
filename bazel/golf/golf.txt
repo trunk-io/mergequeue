@@ -71,7 +71,6 @@ glaucoma
 genapped
 gablewindowed
 gogga
-grapelet
 giggly
 gabling
 glimmerite
@@ -5238,6 +5237,7 @@ guzzler
 gleamed
 guss
 gleamy
+grapelet
 ganda
 gregos
 gleamier
