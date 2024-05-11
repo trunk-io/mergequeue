@@ -3576,7 +3576,6 @@ flenches
 filename
 fixates
 fanons
-forspoken
 fourniture
 filers
 fructification
@@ -4748,6 +4747,7 @@ flaggish
 flagilate
 fraudful
 forevers
+forspoken
 flagitiousness
 flaglet
 furmity
