@@ -12697,7 +12697,6 @@ chronons
 chronopher
 chronophotograph
 chronophotography
-chronophotographic
 chronos
 chronoscope
 chronoscopy
@@ -14770,6 +14769,7 @@ cosmopolicy
 cystogenesis
 cystogram
 cystorrhaphy
+chronophotographic
 cystoid
 cystoidea
 cypseline
