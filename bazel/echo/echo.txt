@@ -9535,7 +9535,6 @@ explorate
 eschewed
 expand
 eschewer
-endsheet
 eam
 edges
 egoity
@@ -11153,6 +11152,7 @@ eusporangiate
 eustace
 eustachian
 eustacy
+endsheet
 eustathian
 eustele
 extromit
