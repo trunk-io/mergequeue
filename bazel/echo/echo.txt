@@ -48,7 +48,6 @@ earclip
 earcockle
 eardropper
 earflap
-earflaps
 earflower
 earful
 electrochemist
@@ -502,6 +501,7 @@ earthquaking
 eumerogenesis
 echea
 eched
+earflaps
 echelle
 extraphenomenal
 echeloned
