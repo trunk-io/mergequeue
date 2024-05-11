@@ -8446,7 +8446,6 @@ enwood
 ethopoetic
 eponym
 eponymy
-edaphic
 eponymies
 encarnadine
 eponymist
@@ -11986,6 +11985,7 @@ emetatrophia
 excisemanship
 excises
 excision
+edaphic
 excystation
 excystment
 excitability
