@@ -3025,6 +3025,7 @@ fezzy
 fadings
 ffa
 forsake
+fleshiness
 fossors
 fgrid
 floorshift
@@ -5422,7 +5423,6 @@ farcied
 fleshy
 fleshier
 finch
-fleshiness
 ferally
 fleshing
 fleshings
