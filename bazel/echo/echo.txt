@@ -5299,7 +5299,6 @@ endostoma
 explicators
 endostosis
 endostraca
-epanody
 economiser
 endostracum
 enteromycosis
@@ -9831,6 +9830,7 @@ elementarism
 edgier
 exospheres
 epicoelar
+epanody
 epiplastron
 essedones
 eisoptrophobia
