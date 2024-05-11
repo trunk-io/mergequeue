@@ -15851,7 +15851,6 @@ clead
 cleaded
 cord
 cleam
-cleamer
 confectioneries
 clean
 cleanable
@@ -31865,6 +31864,7 @@ cutting
 cuttingly
 cuttingness
 cuttings
+cleamer
 cuttle
 cuttlebone
 cuttlebones
