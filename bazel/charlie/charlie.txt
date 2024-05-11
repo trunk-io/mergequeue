@@ -17748,6 +17748,7 @@ cocotte
 cocottes
 cocobolo
 cocowood
+culpable
 cocowort
 cocona
 cocozelle
@@ -30803,7 +30804,6 @@ culp
 culpa
 capicha
 culpabilis
-culpable
 congenially
 chabouks
 cathop

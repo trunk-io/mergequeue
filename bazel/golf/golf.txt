@@ -3083,7 +3083,6 @@ guardian
 greasiness
 glitnir
 gempylid
-gelong
 guidwilly
 geologized
 glosses
@@ -6947,6 +6946,7 @@ goodlier
 goodliest
 gynodioeciously
 gingerly
+gelong
 goodlihead
 goodliness
 goodmanship
