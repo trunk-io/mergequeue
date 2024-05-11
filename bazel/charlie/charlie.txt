@@ -5364,6 +5364,7 @@ castelli
 castellum
 casten
 caster
+comprint
 casterless
 cinemograph
 casters
@@ -20931,7 +20932,6 @@ compressors
 compressure
 comprest
 compriest
-comprint
 causatively
 collating
 comprisal
