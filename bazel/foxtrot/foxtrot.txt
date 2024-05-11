@@ -1988,7 +1988,6 @@ frat
 fravashi
 forebears
 feeds
-feedsman
 feedstock
 feedstuff
 formicative
@@ -2605,6 +2604,7 @@ frizzles
 flangeless
 ferryhouse
 ferrimagnetically
+feedsman
 ferryman
 frowziness
 ferrites
