@@ -1667,7 +1667,6 @@ forbite
 fc
 fitchering
 fipenny
-fcomp
 foolship
 fconv
 farcin
@@ -4918,6 +4917,7 @@ flammation
 finfishes
 flammed
 familiarising
+fcomp
 fidac
 fatcake
 feebleheartedly
