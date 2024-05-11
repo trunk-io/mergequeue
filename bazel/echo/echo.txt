@@ -10907,7 +10907,6 @@ ensigncies
 eligibilities
 ethnobotanist
 endostomata
-electrodiagnoses
 euphausiidae
 eisteddfodau
 exercises
@@ -12451,6 +12450,7 @@ encephalology
 exhibiters
 extinctive
 exhibition
+electrodiagnoses
 enforce
 exhibitional
 exhibitioner
