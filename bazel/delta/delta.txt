@@ -9018,6 +9018,7 @@ dehort
 dictaen
 dictamina
 dictaphone
+dirdums
 dictaphones
 dictate
 dictating
@@ -10775,7 +10776,6 @@ dir
 diradiation
 dircaean
 dirdum
-dirdums
 dire
 direcly
 directable
