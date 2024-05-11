@@ -1819,7 +1819,6 @@ acipenserid
 accusants
 accusation
 accusations
-accusatively
 accusativeness
 accusatives
 accusator
@@ -15280,6 +15279,7 @@ antiferromagnetism
 antifertility
 antifertilizer
 accreditation
+accusatively
 alightment
 anakinesis
 antifeudal

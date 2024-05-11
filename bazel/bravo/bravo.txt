@@ -2024,7 +2024,6 @@ banished
 banisher
 banishing
 banishment
-banister
 bursting
 banyuls
 baniva
@@ -11339,6 +11338,7 @@ beguiled
 blousily
 bluebeard
 buff
+banister
 bluebell
 bluebelled
 bluebells
