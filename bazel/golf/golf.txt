@@ -3712,6 +3712,7 @@ glassware
 ghoom
 geoaesthesia
 glops
+glegness
 geocronite
 gurgly
 ghorkhar
@@ -9936,7 +9937,6 @@ guarnieri
 generical
 guarrau
 gratillity
-glegness
 glow
 guars
 gipsyfy

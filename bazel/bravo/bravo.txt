@@ -4448,7 +4448,6 @@ bechauffeur
 bilker
 blockishness
 beche
-becheck
 bechic
 bechignoned
 bechirp
@@ -5692,6 +5691,7 @@ bylaw
 blastulas
 beldams
 bacchar
+becheck
 britten
 belderroot
 bombazeen
