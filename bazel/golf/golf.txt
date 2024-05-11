@@ -3643,7 +3643,6 @@ glove
 ghastliest
 gatewaymen
 groups
-gianthood
 gargil
 geonyctitropic
 ghastlily
@@ -4814,6 +4813,7 @@ gitana
 galeae
 gayety
 gitanemuck
+gianthood
 gitanemuk
 gitanos
 gite
