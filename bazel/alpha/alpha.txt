@@ -5116,7 +5116,6 @@ aloneness
 arrode
 aerophotos
 aeroplane
-aeroplaner
 aeroplanes
 aeroplanist
 aeroscepsy
@@ -17027,6 +17026,7 @@ apimanias
 apina
 aciculated
 armillated
+aeroplaner
 aping
 apio
 apioceridae
