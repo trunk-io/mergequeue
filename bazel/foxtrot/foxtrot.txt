@@ -5407,6 +5407,7 @@ flentes
 flerried
 furandi
 flerrying
+fontal
 flesh
 fricassee
 fleshbrush
@@ -7045,7 +7046,6 @@ fermentum
 filthify
 fain
 fons
-fontal
 frothing
 fontanelle
 fraenums

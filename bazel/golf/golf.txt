@@ -8028,7 +8028,6 @@ grantiidae
 grantor
 grantors
 grantsman
-granula
 granular
 girandole
 gomontia
@@ -9480,6 +9479,7 @@ grouplet
 groupment
 gimbaling
 glimes
+granula
 groupoid
 galbraithian
 gisla
