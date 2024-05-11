@@ -1731,6 +1731,7 @@ calvaries
 calvarium
 calvatia
 calve
+cataclysmatic
 calved
 calver
 calves
@@ -5493,7 +5494,6 @@ cataclasis
 cataclastic
 cataclinal
 cataclysmal
-cataclysmatic
 cataclysmatist
 cataclysmic
 cataclysmically
