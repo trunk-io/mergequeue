@@ -2802,7 +2802,6 @@ emhpasizing
 earthed
 elephantoid
 exsertion
-eath
 elephantoidal
 enantiopathy
 elephantous
@@ -9333,6 +9332,7 @@ erron
 erroneousness
 expositional
 error
+eath
 eugeosynclinal
 errordump
 errorist
