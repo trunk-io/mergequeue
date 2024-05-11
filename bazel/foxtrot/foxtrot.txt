@@ -6001,7 +6001,6 @@ floral
 floramour
 floras
 floreal
-floreated
 furnaced
 forced
 fluty
@@ -7609,6 +7608,7 @@ foredefeated
 foredesignment
 frankheartedness
 flightworthy
+floreated
 foreshaft
 foredestine
 foredevote
