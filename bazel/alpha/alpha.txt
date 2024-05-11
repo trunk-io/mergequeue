@@ -5438,6 +5438,7 @@ afforestable
 afforested
 afforesting
 anticogitative
+alkaptonuric
 afforestment
 afforests
 afformative
@@ -8543,7 +8544,6 @@ avast
 alkapton
 alkaptone
 alkaptonuria
-alkaptonuric
 alkargen
 alkarsin
 alkarsine
