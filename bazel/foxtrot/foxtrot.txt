@@ -1080,7 +1080,6 @@ forthcomer
 farmyard
 ferlies
 farmyardy
-foremastman
 farmout
 fisc
 flakily
@@ -7306,6 +7305,7 @@ farragos
 futureness
 favellae
 finchbacked
+foremastman
 footworn
 filosofe
 finikin
