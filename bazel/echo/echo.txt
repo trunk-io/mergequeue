@@ -10456,7 +10456,6 @@ ethnozoology
 ethography
 etholide
 entropion
-ethology
 ethologic
 ethologies
 ethologist
@@ -12113,6 +12112,7 @@ evzone
 eriglossate
 empetrum
 epirrhema
+ethology
 epacridaceae
 excrementive
 extrasensory
