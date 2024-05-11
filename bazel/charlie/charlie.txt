@@ -6486,7 +6486,6 @@ cavicornia
 cavidae
 cavie
 caviya
-cavyyard
 caviled
 caviler
 cavilers
@@ -28609,6 +28608,7 @@ creese
 creeses
 cinchonine
 chiefship
+cavyyard
 clientless
 creesh
 cedule

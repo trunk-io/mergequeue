@@ -10415,7 +10415,6 @@ flatmate
 footgeld
 firs
 frontals
-frontbencher
 frontcourt
 fronted
 fortune
@@ -11007,6 +11006,7 @@ fumatoria
 fumatoriums
 fasted
 fumble
+frontbencher
 fumbled
 forecatharping
 fourfold
