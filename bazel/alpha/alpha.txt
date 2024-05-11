@@ -4337,7 +4337,6 @@ apophlegmatism
 adoretus
 adoringly
 abomas
-adorn
 adornation
 adorned
 adorner
@@ -11826,6 +11825,7 @@ argentite
 analogized
 appropriation
 analogon
+adorn
 analogous
 analogously
 aristocratically
