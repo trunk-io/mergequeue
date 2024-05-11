@@ -15975,7 +15975,6 @@ bronchostomy
 bronchostomies
 bestrewing
 bronchotyphus
-bronchotome
 bronchotracheal
 bronchovesicular
 bronchus
@@ -16038,6 +16037,7 @@ broodily
 bolography
 broodiness
 byland
+bronchotome
 broodless
 broodling
 broodmare
