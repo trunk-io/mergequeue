@@ -2390,6 +2390,7 @@ firestopping
 fehmic
 factories
 feodum
+flannelette
 farewelled
 feoff
 feoffee
@@ -4957,7 +4958,6 @@ frowsier
 faineantise
 flankwise
 flatbeds
-flannelette
 flanneling
 flannelleaves
 floc
