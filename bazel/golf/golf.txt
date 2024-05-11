@@ -2341,7 +2341,6 @@ gonofs
 geisa
 geisenheimer
 geyserish
-genuflectory
 galwegian
 geyserite
 geysers
@@ -5307,6 +5306,7 @@ gargets
 galbanum
 grenade
 glenlike
+genuflectory
 glomerulus
 glenohumeral
 glenoid
