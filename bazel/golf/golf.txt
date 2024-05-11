@@ -36,6 +36,7 @@ grittiness
 gabbro
 gabbroid
 gabbroitic
+graphometric
 gabelleman
 gabendum
 gowf
@@ -8156,7 +8157,6 @@ glareous
 grylli
 georgium
 garamond
-graphometric
 gara
 gifts
 gweducs
