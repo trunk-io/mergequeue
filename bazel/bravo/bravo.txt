@@ -1916,7 +1916,6 @@ bandlimits
 bandmaster
 bandmasters
 bando
-bandobust
 bandog
 bandanas
 bandogs
@@ -11009,6 +11008,7 @@ between
 bloats
 bermudian
 blob
+bandobust
 bicentrically
 benzoylate
 blobby
