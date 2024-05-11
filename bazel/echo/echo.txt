@@ -2283,7 +2283,6 @@ excuderunt
 electrobrasser
 epistroma
 electrocapillary
-electrocapillarity
 electrocardiogram
 electrocardiograms
 epacme
@@ -4158,6 +4157,7 @@ enchronicle
 excellencies
 empolder
 encallow
+electrocapillarity
 extraessentially
 emporeutic
 egging

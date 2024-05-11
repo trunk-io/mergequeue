@@ -2224,6 +2224,7 @@ fallibilism
 foretypified
 forestate
 felspath
+finite
 felstone
 felstones
 framers
@@ -4004,7 +4005,6 @@ finisher
 finishers
 finishes
 finishing
-finite
 finites
 fightingly
 frolickers
