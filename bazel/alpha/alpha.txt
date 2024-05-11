@@ -6004,6 +6004,7 @@ agglomerated
 agglomerates
 agglomeratic
 agglomerating
+animative
 agglomeration
 agglomerative
 agglomerator
@@ -13213,7 +13214,6 @@ animation
 animatism
 animatistic
 applaudingly
-animative
 animato
 androseme
 animatograph
