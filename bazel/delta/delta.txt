@@ -3391,7 +3391,6 @@ defis
 defix
 diddlers
 deflagrable
-decolor
 deflagrates
 deflagrating
 deflagration
@@ -4097,6 +4096,7 @@ dominance
 diploglossate
 delice
 deploredly
+decolor
 delicense
 dizzying
 deliciae
