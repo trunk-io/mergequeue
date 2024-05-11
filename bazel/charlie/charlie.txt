@@ -7275,7 +7275,6 @@ centriscidae
 centrisciform
 centriscoid
 centriscus
-coservant
 centrism
 cinemascope
 comite
@@ -23035,6 +23034,7 @@ consonantalize
 consonantic
 consonantise
 consonantised
+coservant
 camber
 consonantism
 consonantized
