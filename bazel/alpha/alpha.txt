@@ -3015,7 +3015,6 @@ acrostic
 acrostical
 acrostichal
 approvably
-acrostichic
 acrostichoid
 acrostichum
 acrosticism
@@ -6196,6 +6195,7 @@ agitable
 agitant
 agitate
 agitated
+acrostichic
 agitation
 achillein
 agitational
