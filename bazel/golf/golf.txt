@@ -3069,7 +3069,6 @@ geographies
 geordie
 grocerdom
 galliardness
-geoids
 gladioluses
 geoisotherm
 gegenion
@@ -5702,6 +5701,7 @@ groundedness
 gallinago
 gradative
 grx
+geoids
 gregau
 glomerulate
 glomerule
