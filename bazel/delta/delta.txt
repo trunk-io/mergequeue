@@ -3657,7 +3657,6 @@ deglutinated
 deduce
 deglutinating
 dermatoplasty
-defoliant
 dropforging
 deglutination
 deglutition
@@ -10193,6 +10192,7 @@ dinners
 defibrination
 dinnertime
 dinnerware
+defoliant
 dinning
 dinoceras
 dynode
