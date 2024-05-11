@@ -2029,6 +2029,7 @@ banishment
 banister
 bursting
 banyuls
+baccharoid
 baniva
 buckra
 bioinstrumentation
@@ -17815,7 +17816,6 @@ ballistics
 burnover
 bushido
 bumfs
-baccharoid
 bucerotes
 burnsian
 burnside

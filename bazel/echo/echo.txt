@@ -9380,7 +9380,6 @@ entertainments
 erudit
 equated
 eruditely
-eruditeness
 eruditical
 empeo
 erudition
@@ -12688,6 +12687,7 @@ emerse
 encephaloma
 exomologesis
 exomorphic
+eruditeness
 exomphalos
 encephalocoele
 exomphalous
