@@ -4141,7 +4141,6 @@ beans
 beansetter
 beanshooter
 beanstalk
-beanstalks
 bibbs
 begrain
 beanweed
@@ -10151,6 +10150,7 @@ blacked
 blackey
 becco
 blackeye
+beanstalks
 blackeyes
 blacken
 blackener
