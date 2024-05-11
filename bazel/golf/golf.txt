@@ -1608,7 +1608,6 @@ gasmetophytic
 gasogen
 gandermooner
 gasohol
-gasolene
 gasolier
 gangland
 gasoliers
@@ -6011,6 +6010,7 @@ growler
 gipsyweed
 glucoses
 glances
+gasolene
 glucoside
 glucosidic
 grantha
