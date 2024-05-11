@@ -2040,7 +2040,6 @@ buntings
 boardman
 bank
 barat
-bankalachi
 bankbooks
 basti
 bankcard
@@ -9163,6 +9162,7 @@ biorbital
 biophagy
 burling
 byordinary
+bankalachi
 bioreaction
 bidented
 brachygraphic
