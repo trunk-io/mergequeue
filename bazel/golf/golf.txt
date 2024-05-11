@@ -1996,7 +1996,6 @@ glacier
 groundwave
 gauffre
 garvie
-greenland
 grenat
 gesture
 gauffred
@@ -6543,6 +6542,7 @@ goldeney
 gauger
 goldeneyes
 goldener
+greenland
 guldens
 geheimrat
 gradualism
