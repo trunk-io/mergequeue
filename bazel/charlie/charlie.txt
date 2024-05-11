@@ -1251,7 +1251,6 @@ calf
 calfbound
 calfdozer
 calfish
-calfkill
 calfless
 calflike
 calfling
@@ -5067,6 +5066,7 @@ casal
 casalty
 casamarca
 casanova
+calfkill
 casanovanic
 casaques
 casaquin
