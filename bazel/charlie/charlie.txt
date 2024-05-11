@@ -10135,6 +10135,7 @@ chessboard
 chessboards
 chessdom
 chessel
+chromoleucite
 chesser
 cabinda
 chesses
@@ -12536,7 +12537,6 @@ chromoisomer
 chromoisomeric
 chosing
 chromoisomerism
-chromoleucite
 chromolipoid
 choleinic
 clarioned
