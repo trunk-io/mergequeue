@@ -11453,7 +11453,6 @@ amuze
 atangle
 aquaduct
 amuzzle
-amvis
 amzel
 an
 ana
@@ -16621,6 +16620,7 @@ aortographic
 augelite
 aortoiliac
 amurcous
+amvis
 aortomalacia
 agathism
 aortomalaxis
