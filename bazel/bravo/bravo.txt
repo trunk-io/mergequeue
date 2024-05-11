@@ -2834,7 +2834,6 @@ bravest
 barotraumas
 bostons
 barotropic
-barouche
 barouchette
 barouni
 baroxyton
@@ -16129,6 +16128,7 @@ brotherred
 brailed
 brothers
 brotherwort
+barouche
 beachfront
 brothiest
 brotocrystal
