@@ -29226,7 +29226,6 @@ cryptical
 cryptically
 crypticness
 coupled
-crypto
 cryptoagnostic
 cryptoanalysis
 cryptoanalyst
@@ -29641,6 +29640,7 @@ coriin
 chemosterilant
 crocodilus
 cruth
+crypto
 crocodylus
 counteraffirm
 croconic
