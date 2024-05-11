@@ -3157,6 +3157,7 @@ demihuman
 defamy
 defaming
 defamingly
+disjointness
 defamous
 dermatology
 deadworks
@@ -12591,7 +12592,6 @@ disjointedly
 disjointedness
 disjointing
 disjointly
-disjointness
 dulia
 disjoints
 disjointure
