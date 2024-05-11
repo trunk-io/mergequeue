@@ -7341,7 +7341,6 @@ centuria
 centurial
 concerto
 covenably
-centuriate
 centuriator
 centuried
 centuries
@@ -29219,6 +29218,7 @@ cryptanalyzed
 cryptanalyzing
 cryptarch
 cryptarchy
+centuriate
 crypted
 crypteroniaceae
 cryptesthetic
