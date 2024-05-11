@@ -4965,7 +4965,6 @@ flanneling
 flannelleaves
 floc
 flannelly
-flannelmouth
 ferries
 fedelini
 flannels
@@ -6818,6 +6817,7 @@ foldage
 favellilidia
 fuzing
 foldaway
+flannelmouth
 fellatrices
 foldboater
 farmings
