@@ -6600,7 +6600,6 @@ easterliness
 enterocolitis
 enterocolostomy
 enterodynia
-enteroepiplocele
 enterogastrone
 egrimonle
 enterogenous
@@ -12471,6 +12470,7 @@ extracanonical
 exhibitions
 exhaustedness
 excluded
+enteroepiplocele
 epicycloid
 exhibitors
 enocyte
