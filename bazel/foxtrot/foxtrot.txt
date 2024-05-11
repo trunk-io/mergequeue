@@ -421,7 +421,6 @@ fishgig
 fairnesses
 fragilely
 fur
-fairship
 fairway
 fishline
 fairwater
@@ -7696,6 +7695,7 @@ flitching
 fozier
 franchised
 flustrate
+fairship
 fyrdung
 frontierlike
 foreshadows
