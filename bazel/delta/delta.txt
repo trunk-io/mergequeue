@@ -7025,7 +7025,6 @@ dykage
 dessertspoon
 dessertspoonful
 dessertspoonfuls
-dessicate
 dessil
 dessous
 durst
@@ -11040,6 +11039,7 @@ disjoint
 decarbonylate
 disappearer
 droning
+dessicate
 disarticulated
 detrain
 dehydrogenise
