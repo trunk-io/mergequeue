@@ -580,7 +580,6 @@ falltime
 fallway
 fuzzy
 falsary
-falsedad
 falsehearted
 funt
 favoress
@@ -8781,6 +8780,7 @@ february
 forwearied
 floret
 forwearying
+falsedad
 foliaceousness
 faeries
 forweend
