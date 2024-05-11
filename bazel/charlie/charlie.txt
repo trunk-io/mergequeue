@@ -4845,6 +4845,7 @@ carryed
 carrier
 carriers
 carries
+clavicittern
 carrying
 carryings
 carriole
@@ -15802,7 +15803,6 @@ clavicytherium
 clavicithern
 cytologies
 clavicythetheria
-clavicittern
 clavicle
 clavicles
 clavicorn
