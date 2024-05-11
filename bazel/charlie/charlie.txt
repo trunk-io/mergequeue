@@ -9925,6 +9925,7 @@ chemokinesis
 chemokinetic
 chemolysis
 chemolytic
+cicero
 coasted
 colpostat
 chemolyze
@@ -23321,7 +23322,6 @@ consummatory
 consumo
 consumpted
 consumptible
-cicero
 consumptional
 consumptions
 consumptive
