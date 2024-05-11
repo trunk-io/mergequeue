@@ -1595,7 +1595,6 @@ brachioganoidei
 ballisticians
 ballistocardiogram
 ballistocardiograph
-ballistocardiography
 bifurcate
 beheadlined
 ballywack
@@ -2905,6 +2904,7 @@ barrelfishes
 blennometritis
 bonair
 barrelful
+ballistocardiography
 barrelfuls
 blind
 barrelhead
