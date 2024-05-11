@@ -925,7 +925,6 @@ gentian
 goffered
 gamelike
 goracco
-gadids
 gladiole
 ganglionitis
 gamelion
@@ -9000,6 +8999,7 @@ grager
 guaiocum
 greenbul
 garbs
+gadids
 grilse
 gunstocks
 grantsmanship
