@@ -636,7 +636,6 @@ ectodermoidal
 empocket
 eclampsia
 eclamptic
-eclated
 extuberate
 ephemerides
 eclating
@@ -9329,6 +9328,7 @@ erron
 erroneousness
 expositional
 error
+eclated
 eugeosynclinal
 errordump
 errorist
