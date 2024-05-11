@@ -4916,7 +4916,6 @@ aerify
 aerification
 autarky
 aerifies
-aeriform
 aeriness
 aero
 automania
@@ -18879,6 +18878,7 @@ archemastry
 archemperor
 archencephala
 archencephalic
+aeriform
 archenemy
 archenia
 archeocyte
