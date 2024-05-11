@@ -16645,6 +16645,7 @@ baudery
 barbershops
 bucketer
 bucketful
+buzzers
 bucketfull
 bucketmaker
 bucketmaking
@@ -18388,7 +18389,6 @@ betwattled
 bobowler
 buzzerphone
 bonhomme
-buzzers
 buzzier
 burghermaster
 buzzies
