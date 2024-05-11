@@ -5572,7 +5572,6 @@ excusers
 esophoria
 enforceability
 enforceable
-enforced
 enforcement
 enlisters
 egalitarianism
@@ -9259,6 +9258,7 @@ erotylid
 etamines
 erotylidae
 erotisms
+enforced
 electropneumatic
 enlarges
 erotization
