@@ -2451,6 +2451,7 @@ dialogs
 degorder
 decimetre
 decimolar
+divulgers
 diplacusis
 daysman
 dangering
@@ -18362,7 +18363,6 @@ duodiodepentode
 desucration
 duodrama
 domanial
-divulgers
 duogravure
 duole
 duolog
