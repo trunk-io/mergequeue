@@ -2553,6 +2553,7 @@ bemused
 burmite
 bloodiest
 barid
+bogled
 burgus
 barye
 bois
@@ -11919,7 +11920,6 @@ bogymen
 bogland
 boglander
 bogle
-bogled
 bogledom
 boglet
 bogmire
