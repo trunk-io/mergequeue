@@ -3855,7 +3855,6 @@ executers
 emigres
 emigration
 emigrationist
-emigrator
 equivote
 electrotonus
 emilia
@@ -13294,6 +13293,7 @@ eclipsable
 enlength
 entireties
 exporting
+emigrator
 electroculture
 exports
 effectuate
