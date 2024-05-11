@@ -6848,7 +6848,6 @@ folds
 foldure
 fumewort
 fairyisms
-foleye
 folgerite
 fenceplay
 foliaceous
@@ -11410,6 +11409,7 @@ furls
 furmenty
 furmenties
 felling
+foleye
 furmeties
 fluencies
 faradizes
