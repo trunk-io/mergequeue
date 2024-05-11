@@ -1051,7 +1051,6 @@ blindages
 bailable
 bayldonite
 baile
-boucherize
 bailee
 bugbears
 bodyguard
@@ -6643,6 +6642,7 @@ borickite
 berberi
 berberia
 basiliscine
+boucherize
 biohazard
 berberid
 bundoc
