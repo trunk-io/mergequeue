@@ -764,7 +764,6 @@ boyish
 brinjal
 badgerlike
 bending
-badgers
 badgerweed
 badges
 badging
@@ -11762,6 +11761,7 @@ balloonation
 bodements
 boden
 beedged
+badgers
 buskins
 baking
 bodes
