@@ -3852,6 +3852,7 @@ finalization
 finalized
 fourstrand
 foulsome
+fidejussory
 fionnuala
 forecondemn
 finalizing
@@ -6898,7 +6899,6 @@ folkcraft
 felsitic
 folkfree
 folky
-fidejussory
 folkish
 folkishness
 flickertail
