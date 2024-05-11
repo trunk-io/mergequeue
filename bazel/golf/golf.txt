@@ -1822,6 +1822,7 @@ genotypes
 guardfish
 gastronosus
 gastroparalysis
+groomy
 gastroparesis
 gonyaulax
 galluot
@@ -9298,7 +9299,6 @@ groomers
 governability
 gruf
 gorges
-groomy
 glazieries
 gpss
 geoducks
