@@ -1628,7 +1628,6 @@ dipteron
 deals
 dealt
 deambulate
-deambulatory
 dozening
 divergency
 deamidase
@@ -12031,6 +12030,7 @@ disengagement
 disengaging
 disengirdle
 disenjoyment
+deambulatory
 disenmesh
 disenorm
 deacon
