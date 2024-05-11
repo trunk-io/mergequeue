@@ -4073,6 +4073,7 @@ fiords
 fiorin
 fiorite
 fontanel
+folksong
 featherwood
 fluidrams
 flywheel
@@ -6939,7 +6940,6 @@ folksy
 folksiest
 folksily
 filibusterous
-folksong
 finely
 foll
 foller
