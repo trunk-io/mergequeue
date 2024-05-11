@@ -557,7 +557,6 @@ falloffs
 fallopian
 fallostomy
 fiducia
-frequentative
 funerate
 flagstaff
 finity
@@ -6113,6 +6112,7 @@ fustin
 fragor
 felspar
 flotillas
+frequentative
 forjesket
 fishmeal
 freighter
