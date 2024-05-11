@@ -8154,7 +8154,6 @@ glucogene
 graphophone
 graphophonic
 gastromelus
-graphoscope
 grinderies
 graphostatic
 graphostatics
@@ -9578,6 +9577,7 @@ growthy
 gracileness
 gorevan
 gastromalacia
+graphoscope
 growthless
 guacico
 grubroot
