@@ -2576,6 +2576,7 @@ bleeder
 blackie
 basiglandular
 baryon
+bubastite
 baryonic
 baryphonia
 baryphonic
@@ -10959,7 +10960,6 @@ blithehearted
 blithely
 blithemeat
 backheel
-bubastite
 blither
 blithering
 blithers
