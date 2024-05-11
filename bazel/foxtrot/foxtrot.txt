@@ -4300,6 +4300,7 @@ fixatif
 fischerite
 foresleeve
 friendlies
+funnelled
 fise
 forb
 fisetin
@@ -5396,7 +5397,6 @@ flensed
 flenser
 fascicule
 flensers
-funnelled
 flenses
 fording
 flentes
