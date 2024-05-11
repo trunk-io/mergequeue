@@ -7273,7 +7273,6 @@ gossamered
 gossamery
 gossamers
 glareole
-greetings
 gossep
 globe
 goujay
@@ -8417,6 +8416,7 @@ gulden
 glister
 gratuitously
 gravelstone
+greetings
 girnel
 gigantomachy
 graveman
