@@ -2300,6 +2300,7 @@ canaller
 canallers
 canals
 cylindrocellular
+chipewyan
 calinda
 canalside
 canamary
@@ -10910,7 +10911,6 @@ chip
 chipboard
 chipchap
 chipchop
-chipewyan
 chiplet
 clayman
 chipling
