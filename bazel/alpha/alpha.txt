@@ -14885,7 +14885,6 @@ antichlorine
 antichloristic
 antichlorotic
 anticholagogue
-anticholinergic
 antonia
 antichoromanic
 antichorus
@@ -22166,6 +22165,7 @@ astogeny
 aglutition
 astomatous
 agnostically
+anticholinergic
 astomia
 astond
 astone
