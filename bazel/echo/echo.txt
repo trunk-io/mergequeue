@@ -516,7 +516,6 @@ echeneidoid
 echevaria
 etymology
 echidnas
-endobiotic
 evocate
 echimys
 echinacea
@@ -704,6 +703,7 @@ eidently
 econometer
 eutelegenic
 econometrically
+endobiotic
 econometrics
 enteroparalysis
 equalable
