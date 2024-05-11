@@ -10094,7 +10094,6 @@ circumhorizontal
 cherry
 cherryblossom
 cherried
-characterstring
 cherries
 chlorioninae
 chugalugs
@@ -31729,6 +31728,7 @@ controvertist
 copresent
 chimlas
 customing
+characterstring
 customizable
 cotery
 customization
