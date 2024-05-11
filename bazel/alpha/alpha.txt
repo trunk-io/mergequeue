@@ -3477,7 +3477,6 @@ argosies
 adaptiveness
 adaptometer
 adaptor
-adaptorial
 adapts
 adar
 aglobulia
@@ -25030,6 +25029,7 @@ awmous
 awn
 awned
 awner
+adaptorial
 awning
 awninged
 awnings
