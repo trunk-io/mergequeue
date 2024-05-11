@@ -3458,7 +3458,6 @@ doubting
 duendes
 defloration
 deflorations
-deflore
 dropforged
 dubash
 disgarland
@@ -5937,6 +5936,7 @@ dyscrasy
 depressants
 depressed
 depresses
+deflore
 doling
 dispender
 depressibilities
