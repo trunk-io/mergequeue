@@ -913,7 +913,6 @@ bagmaking
 bagne
 bagnes
 bastnaesite
-bagnet
 bagnio
 blowze
 bago
@@ -14584,6 +14583,7 @@ biographically
 brassy
 brassica
 brassicaceae
+bagnet
 brassicaceous
 brassicas
 backworm

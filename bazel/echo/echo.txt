@@ -1656,6 +1656,7 @@ eyass
 eichhornia
 eichwaldite
 eide
+extraequilibrium
 eydent
 excommunications
 eider
@@ -13864,7 +13865,6 @@ electrogalvanize
 extradoses
 extradotal
 extraembryonic
-extraequilibrium
 extraessential
 extrafine
 extrafloral
