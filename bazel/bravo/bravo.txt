@@ -14493,7 +14493,6 @@ brandywine
 boyar
 brandless
 banda
-brandling
 brandon
 brandreth
 brandrith
@@ -15308,6 +15307,7 @@ bannerlike
 brighteyes
 brighten
 brainwork
+brandling
 blennoid
 brightest
 brightish
