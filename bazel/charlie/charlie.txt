@@ -13829,7 +13829,6 @@ cinches
 crankcase
 cheve
 cinching
-cincholoipon
 cincholoiponic
 countercharging
 cinchona
@@ -24376,6 +24375,7 @@ coolibah
 coolie
 coolies
 cooliman
+cincholoipon
 cooling
 concaver
 coolingly
