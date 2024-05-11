@@ -11794,7 +11794,6 @@ bodies
 becrowding
 boucan
 burga
-bodyguards
 beribers
 bodykins
 bodiless
@@ -13407,6 +13406,7 @@ barrio
 bottomers
 botoyan
 bottoming
+bodyguards
 bottomland
 butyrous
 biotelemetry
