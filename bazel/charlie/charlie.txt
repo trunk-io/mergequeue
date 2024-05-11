@@ -7706,7 +7706,6 @@ collarets
 cerecloth
 cered
 cerement
-cerements
 ceremony
 chrysoeriol
 ceremonial
@@ -27569,6 +27568,7 @@ coverside
 coversine
 coverslip
 covertly
+cerements
 covertness
 coverts
 coverup

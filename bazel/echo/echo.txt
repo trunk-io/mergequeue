@@ -2062,6 +2062,7 @@ entoproct
 emblematist
 epistles
 elapsing
+epileptiform
 efferous
 exterminator
 elasmobranch
@@ -7883,7 +7884,6 @@ endopeptidase
 epilepsies
 epileptical
 epileptically
-epileptiform
 epileptogenous
 epileptoid
 epileptology
