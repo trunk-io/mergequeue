@@ -1368,7 +1368,6 @@ antarchism
 acaudelescent
 acaulescence
 acaulescent
-acauline
 acaulose
 acaulous
 acc
@@ -19552,6 +19551,7 @@ abigeus
 argynnis
 argiope
 argiopoidea
+acauline
 argyranthous
 argyraspides
 amounting
