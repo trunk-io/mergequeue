@@ -3823,7 +3823,6 @@ acclamations
 adhara
 adharma
 adhere
-adhered
 apophantic
 adherency
 adherend
@@ -6920,6 +6919,7 @@ airline
 airliner
 airlines
 airling
+adhered
 aeropleustic
 airlock
 airmailing
