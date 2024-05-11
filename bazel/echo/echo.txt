@@ -3884,6 +3884,7 @@ emissive
 emissivity
 emissory
 emily
+entoplastral
 emitted
 endured
 esopgi
@@ -9488,7 +9489,6 @@ enfetter
 eadish
 escarole
 escaroles
-entoplastral
 escarp
 exogamic
 escarping
