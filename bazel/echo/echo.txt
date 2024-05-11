@@ -10574,7 +10574,6 @@ electricans
 epicerebral
 eu
 euascomycetes
-electromagnetics
 eubacteria
 eubacteriales
 effusing
@@ -13070,6 +13069,7 @@ experimenters
 enheaven
 eschatologically
 epineurial
+electromagnetics
 ecesises
 earthborn
 exilic
