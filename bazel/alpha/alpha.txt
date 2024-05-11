@@ -15775,7 +15775,6 @@ antiparabema
 antiparabemata
 antiparagraphe
 antiparalytic
-aporose
 afterstain
 antirun
 antiparalytical
@@ -21702,6 +21701,7 @@ assemblywoman
 assemblywomen
 assent
 assentaneous
+aporose
 assentatious
 assentator
 assentatory
