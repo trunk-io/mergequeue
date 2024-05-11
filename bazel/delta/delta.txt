@@ -2460,7 +2460,6 @@ damascenine
 denizenize
 designs
 decyne
-diaeresis
 decinormal
 decipherability
 decipherable
@@ -5378,6 +5377,7 @@ denticle
 denticular
 denticulate
 dustfall
+diaeresis
 dentiferous
 dentification
 dentifrice
