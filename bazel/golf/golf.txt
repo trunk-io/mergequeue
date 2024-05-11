@@ -1785,6 +1785,7 @@ gastrointestinal
 gastightness
 gymnostomina
 grassquit
+glycocoll
 gastrojejunostomy
 gastrojejunostomies
 gastrolater
@@ -10766,7 +10767,6 @@ gale
 gurneys
 galiongee
 gome
-glycocoll
 guttery
 guttering
 gutterman
