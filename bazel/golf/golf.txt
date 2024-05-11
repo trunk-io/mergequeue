@@ -2081,7 +2081,6 @@ gaussmeter
 gauster
 granville
 gausterer
-giantry
 glamourization
 goosetongue
 goosewing
@@ -10574,6 +10573,7 @@ gestic
 gunships
 gimberjawed
 gratefully
+giantry
 gunshop
 gunslingers
 grieve
