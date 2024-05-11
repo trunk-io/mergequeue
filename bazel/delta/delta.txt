@@ -1139,7 +1139,6 @@ desexing
 dasyuridae
 dabbers
 dasyurine
-dasyuroid
 digesters
 dasyus
 dassent
@@ -13511,6 +13510,7 @@ disseised
 disseisee
 donorship
 desolations
+dasyuroid
 defterdar
 decadally
 disseizoress
