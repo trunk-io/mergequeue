@@ -3385,7 +3385,6 @@ gove
 germans
 gossipry
 grubbers
-galianes
 germfree
 gullion
 gentlewomanlike
@@ -7951,6 +7950,7 @@ granduncles
 grane
 gunrooms
 granet
+galianes
 goaf
 grangerize
 gongorism
