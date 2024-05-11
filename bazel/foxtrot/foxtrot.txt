@@ -393,6 +393,7 @@ fairyhood
 foreprepare
 frigid
 futharc
+flyings
 fairyish
 foulage
 fairyland
@@ -5593,7 +5594,6 @@ flights
 fannier
 fructuose
 flying
-flyings
 flyleaves
 flyless
 firebrands
