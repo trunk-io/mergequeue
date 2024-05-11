@@ -3142,6 +3142,7 @@ bases
 bardish
 basest
 bash
+brio
 bashalick
 bashara
 bashaw
@@ -13737,7 +13738,6 @@ bowdlerize
 bowdlerized
 bowdlerizer
 bowdlerizes
-brio
 bucephalus
 bowdlerizing
 bowe

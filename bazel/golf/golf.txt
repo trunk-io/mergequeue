@@ -2945,7 +2945,6 @@ gigged
 galacaceae
 galaxies
 genu
-glycogenetic
 grouthead
 gater
 ghaznevid
@@ -9807,6 +9806,7 @@ griqua
 guan
 gletscher
 gaposis
+glycogenetic
 gonadic
 guanay
 girondism
