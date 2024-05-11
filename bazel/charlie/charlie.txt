@@ -3519,7 +3519,6 @@ cretion
 chaired
 cease
 captivated
-captivately
 coset
 captivates
 captivating
@@ -26886,6 +26885,7 @@ counterfact
 carniferous
 counterfactual
 counterfactually
+captivately
 counterfaller
 counterfeisance
 counterfeit
