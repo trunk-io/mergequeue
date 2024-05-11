@@ -3704,6 +3704,7 @@ chetty
 caravanner
 caravans
 caravansary
+corticopeduncular
 caravansaries
 caravanserai
 caravanserial
@@ -25972,7 +25973,6 @@ corticoline
 corticolous
 clammish
 correlate
-corticopeduncular
 corticose
 corticosteroids
 corticosterone
