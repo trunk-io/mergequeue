@@ -3494,7 +3494,6 @@ capsulolenticular
 capsulopupillary
 cuirie
 capsulorrhaphy
-capsulotomy
 captacula
 captaculum
 captain
@@ -8498,6 +8497,7 @@ chamaepericlymenum
 chamaephyte
 compactedness
 chamaeprosopic
+capsulotomy
 chamaerops
 collegianer
 chamaesaura
