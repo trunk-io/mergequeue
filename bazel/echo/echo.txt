@@ -7509,7 +7509,6 @@ ecuelle
 epicalyxes
 eulamellibranch
 eucleidae
-epicanthi
 epicanthic
 epicanthus
 earsore
@@ -9340,6 +9339,7 @@ epitaphize
 errorless
 elytrin
 errors
+epicanthi
 errsyn
 ensuing
 ersatz
