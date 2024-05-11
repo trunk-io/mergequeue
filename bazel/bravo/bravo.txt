@@ -12078,7 +12078,6 @@ banshees
 boldfacing
 batodendron
 bootprint
-boldhearted
 beloid
 boldheartedly
 becovet
@@ -13482,6 +13481,7 @@ bougar
 bouge
 brogued
 brighella
+boldhearted
 bougee
 balisaur
 bougeron
