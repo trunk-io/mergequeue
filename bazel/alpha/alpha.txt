@@ -2031,7 +2031,6 @@ acetylenic
 acetylenyl
 acetylenogen
 acetylfluoride
-appendix
 acetylglycin
 acetylglycine
 apologetical
@@ -7427,6 +7426,7 @@ albee
 alberene
 albergatrice
 alberge
+appendix
 ariosos
 alberghi
 albergo
