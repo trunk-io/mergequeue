@@ -3420,7 +3420,6 @@ brees
 bewall
 berascaled
 basswood
-byrrus
 bal
 basswoods
 begalling
@@ -11936,6 +11935,7 @@ bacchical
 bogtrotting
 bogue
 bangle
+byrrus
 bimillenary
 brushers
 bogued

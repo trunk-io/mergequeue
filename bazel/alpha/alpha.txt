@@ -1415,7 +1415,6 @@ airtightly
 accentor
 accentors
 accents
-anoxyscope
 auxillary
 accentual
 accentually
@@ -15141,6 +15140,7 @@ antidynastic
 antidynastical
 antidynastically
 antidinic
+anoxyscope
 antidiphtheria
 anapsida
 antidiphtheric
