@@ -4074,7 +4074,6 @@ fiords
 fiorin
 fiorite
 fontanel
-featherwood
 fluidrams
 flywheel
 fono
@@ -4478,6 +4477,7 @@ fisticuff
 fort
 filching
 fouldre
+featherwood
 familiarness
 fisticuffery
 fistiness
