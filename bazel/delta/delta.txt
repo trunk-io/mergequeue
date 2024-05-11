@@ -5372,6 +5372,7 @@ dentes
 denty
 docimasies
 dorsimesal
+diamb
 daraf
 dentical
 denticle
@@ -8326,7 +8327,6 @@ doddered
 dialectician
 daniele
 deathcup
-diamb
 dialectologer
 diplois
 dialectology
