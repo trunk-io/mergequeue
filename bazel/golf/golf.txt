@@ -6267,7 +6267,6 @@ goa
 grammar
 germiparity
 grammaticize
-garters
 garibaldi
 goadlike
 goadsman
@@ -7444,6 +7443,7 @@ gire
 guller
 gelate
 grigs
+garters
 generatrix
 getmesost
 generalization
