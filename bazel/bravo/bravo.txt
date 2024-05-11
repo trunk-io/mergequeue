@@ -1882,7 +1882,6 @@ banjara
 bandersnatch
 bandfile
 bandfiled
-bandgap
 bandh
 burdon
 brownism
@@ -16501,6 +16500,7 @@ bsh
 bskt
 blubbered
 bt
+bandgap
 brans
 btry
 briefed
