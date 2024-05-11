@@ -1396,7 +1396,6 @@ azote
 acceleratory
 accelerators
 accelerometer
-accelerometers
 accend
 accendible
 anticatholic
@@ -17040,6 +17039,7 @@ astite
 apiole
 apiologist
 apyonin
+accelerometers
 apionol
 anteflexion
 apiose
