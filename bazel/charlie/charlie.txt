@@ -20275,7 +20275,6 @@ commonweals
 commonwealths
 commorancy
 commorancies
-curviform
 commorient
 commorse
 commorth
@@ -28392,6 +28391,7 @@ crawthumper
 craze
 crazed
 crazedly
+curviform
 crazes
 crazy
 crazycat

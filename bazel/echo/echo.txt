@@ -91,7 +91,6 @@ equitation
 exteroceptive
 ethic
 earmuff
-earnable
 earned
 earner
 earnest
@@ -6436,6 +6435,7 @@ ensoul
 ensouled
 erythrinus
 ecru
+earnable
 entryways
 expansion
 ensphere
