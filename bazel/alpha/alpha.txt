@@ -7859,7 +7859,6 @@ aleatory
 aleatoric
 alebench
 aleberry
-analphabetical
 ambled
 arhats
 alebush
@@ -11776,6 +11775,7 @@ analytical
 alamanni
 araneology
 analyticity
+analphabetical
 amnestic
 antinational
 analytique

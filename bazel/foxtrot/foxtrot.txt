@@ -4104,7 +4104,6 @@ fireboat
 fireboy
 firebolted
 firebomb
-fakiness
 firebombing
 frostlike
 fradicin
@@ -8765,6 +8764,7 @@ frescoer
 frenzic
 forwarded
 forwarder
+fakiness
 filth
 favonian
 forwarders
