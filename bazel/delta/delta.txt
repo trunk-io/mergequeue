@@ -2502,7 +2502,6 @@ duckwing
 deerstalker
 deckhead
 deckle
-deckman
 deckpipe
 decks
 dulls
@@ -4855,6 +4854,7 @@ demodulator
 demographer
 demography
 disemploys
+deckman
 domal
 demographically
 demographics

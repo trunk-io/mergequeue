@@ -742,6 +742,7 @@ foliaging
 fenchol
 fibreglass
 fluxions
+flammant
 fancy
 fancied
 fetidness
@@ -1898,7 +1899,6 @@ fecundity
 falcinellus
 fecundize
 fourdrinier
-flammant
 fundless
 frs
 feddan
