@@ -509,7 +509,6 @@ falconinae
 franking
 falconoid
 flecker
-folium
 falcons
 falcopern
 folkboat
@@ -3742,6 +3741,7 @@ filmier
 flightiest
 filmiform
 filming
+folium
 flannelling
 filmish
 filmize
