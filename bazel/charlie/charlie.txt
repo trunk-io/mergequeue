@@ -8020,7 +8020,6 @@ civiliser
 cetologist
 cetomorpha
 cetomorphic
-cetonia
 cetonian
 curwhibble
 cetoniinae
@@ -24662,6 +24661,7 @@ casualties
 copywriting
 coplaintiff
 coplanar
+cetonia
 coplanarity
 coplanarities
 copleased
