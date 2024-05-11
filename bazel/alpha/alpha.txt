@@ -11981,7 +11981,6 @@ atomists
 anarchist
 anarchistic
 anarchists
-anarchize
 anarcho
 anarchosyndicalism
 anarchosyndicalist
@@ -22743,6 +22742,7 @@ atmometric
 allheal
 atmosphere
 atmosphereful
+anarchize
 atmosphereless
 antiopium
 atmospheres
