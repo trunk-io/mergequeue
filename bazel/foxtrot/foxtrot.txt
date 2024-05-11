@@ -10430,6 +10430,7 @@ farmyards
 fictor
 forgivableness
 filigerous
+fusile
 fraternise
 fontes
 flusterment
@@ -11581,7 +11582,6 @@ flavedos
 farrant
 frogged
 fusilading
-fusile
 flytier
 furanoses
 fusileer
