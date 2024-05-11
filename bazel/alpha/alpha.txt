@@ -7803,7 +7803,6 @@ aldermanic
 archisphere
 aldermanical
 aldermanity
-aldermanly
 aldermanlike
 aldermanry
 aldermanries
@@ -24171,6 +24170,7 @@ autological
 aldeia
 autologist
 antiatheist
+aldermanly
 autologous
 autoluminescence
 alienicolae
