@@ -3063,7 +3063,6 @@ furiousness
 fins
 fiars
 fiascos
-foreman
 fiat
 folders
 fractonimbus
@@ -5379,6 +5378,7 @@ fleetest
 fibroses
 fleeting
 fusionless
+foreman
 fleets
 firefighter
 flegm
