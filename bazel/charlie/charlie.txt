@@ -11081,7 +11081,6 @@ chiru
 chirurgeon
 chirurgeonly
 chirurgery
-chis
 chiseled
 curuba
 chiseler
@@ -18575,6 +18574,7 @@ coindication
 coiner
 coiners
 comparograph
+chis
 crossrow
 coyness
 castanian
