@@ -264,7 +264,6 @@ cachepot
 capitulations
 chillies
 caches
-cachespell
 cagayans
 cachet
 cachetic
@@ -26142,6 +26141,7 @@ cosmist
 cotyledonous
 cosmists
 cosmo
+cachespell
 clocked
 cosmochemical
 cheese
