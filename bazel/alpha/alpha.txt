@@ -6255,6 +6255,7 @@ aglossa
 aglossal
 aglossia
 aglow
+auriscalp
 aglucon
 aglucone
 agma
@@ -23630,7 +23631,6 @@ auriphrygia
 auripigment
 aurir
 auris
-auriscalp
 auriscalpia
 auriscope
 auriscopy
