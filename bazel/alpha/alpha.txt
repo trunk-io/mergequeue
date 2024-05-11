@@ -4553,7 +4553,6 @@ adumbrative
 adumbral
 adunation
 adunc
-aduncate
 athbash
 aduncity
 aduncous
@@ -12327,6 +12326,7 @@ andy
 acyloxymethane
 andia
 andian
+aduncate
 andine
 anding
 andira

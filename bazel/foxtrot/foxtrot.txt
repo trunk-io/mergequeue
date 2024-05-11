@@ -4102,7 +4102,6 @@ fireboat
 fireboy
 firebolted
 firebomb
-fakiness
 firebombing
 frostlike
 faithwise
@@ -9293,6 +9292,7 @@ fragmentizing
 flex
 frame
 forcing
+fakiness
 forsakers
 fragments
 fishbed
