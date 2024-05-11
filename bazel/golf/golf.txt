@@ -5032,7 +5032,6 @@ glairin
 glairiness
 glaister
 genoblast
-glaistig
 glaived
 gladdened
 glaives
@@ -7660,6 +7659,7 @@ graeculus
 granth
 graeme
 gonion
+glaistig
 grenadier
 geography
 gunbarrel
