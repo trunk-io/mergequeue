@@ -8198,7 +8198,6 @@ grappling
 grapsidae
 googolplex
 graptolitha
-graptolithina
 garnisheement
 graptomancy
 gravecloth
@@ -9023,6 +9022,7 @@ gentianwort
 grotian
 grimes
 gingkoes
+graptolithina
 guarana
 gourami
 glycogenolysis
