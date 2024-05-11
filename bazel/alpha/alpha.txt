@@ -5054,6 +5054,7 @@ aerologies
 aerologist
 aerologists
 aeromaechanic
+anthropophagit
 aeromancer
 aeromechanic
 aeromechanics
@@ -14642,7 +14643,6 @@ anthropophagism
 alanyl
 anthropophagist
 atellan
-anthropophagit
 accoutred
 anthropophagite
 anthropophagize
