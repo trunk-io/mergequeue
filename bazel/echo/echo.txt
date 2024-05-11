@@ -6823,6 +6823,7 @@ entoil
 entoils
 entoloma
 entom
+entrance
 extender
 englue
 episternalia
@@ -9430,7 +9431,6 @@ escalan
 enlute
 escalating
 escalations
-entrance
 enkindle
 escalator
 escalier
