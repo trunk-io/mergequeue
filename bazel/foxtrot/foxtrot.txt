@@ -2617,6 +2617,7 @@ ferrites
 frailties
 ferritic
 fortuitus
+fishboat
 fiduciaries
 forechamber
 forbidden
@@ -2755,7 +2756,6 @@ folkway
 fusain
 fervours
 forebays
-fishboat
 fescennine
 fescue
 foggish
