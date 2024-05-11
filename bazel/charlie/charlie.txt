@@ -21666,6 +21666,7 @@ condylarthra
 condyle
 condylectomy
 carboxyhemoglobin
+cathetus
 condyles
 condylion
 cariacus
@@ -26365,7 +26366,6 @@ costumiers
 cinematize
 costuming
 costumire
-cathetus
 cosubject
 cosubordinate
 cochlospermaceous
