@@ -61,7 +61,6 @@ facebar
 facebow
 faced
 foreladies
-faceharden
 faceless
 flagships
 flecken
@@ -5254,6 +5253,7 @@ foamer
 flaxy
 flammeous
 fribblers
+faceharden
 fucaceous
 flaxier
 flaxiest
