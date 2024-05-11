@@ -12985,7 +12985,6 @@ bordure
 buckbeans
 bordures
 butein
-bore
 boreable
 boread
 boreal
@@ -14747,6 +14746,7 @@ bayard
 breadboard
 breadboards
 breadbox
+bore
 brazilian
 billycock
 boneyard

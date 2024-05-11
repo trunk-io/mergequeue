@@ -10785,6 +10785,7 @@ chinaware
 chinawoman
 chinband
 chinbones
+complexometry
 chinch
 chinchayote
 chinche
@@ -20727,7 +20728,6 @@ complexly
 cytoplast
 complexness
 cfi
-complexometry
 chandry
 complexometric
 complexus
