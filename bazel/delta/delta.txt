@@ -792,6 +792,7 @@ danegeld
 danegelds
 danelaw
 dungeon
+dipentene
 dermititis
 daneweed
 daneweeds
@@ -10386,7 +10387,6 @@ dermatoma
 dekkos
 dipchick
 dipcoat
-dipentene
 dipeptidase
 dipeptide
 demiatheist
