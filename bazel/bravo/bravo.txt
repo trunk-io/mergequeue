@@ -7291,6 +7291,7 @@ bloom
 bestow
 bestowals
 bestower
+biconically
 bestowment
 bestows
 bestraddle
@@ -8139,7 +8140,6 @@ breezelike
 bidder
 biconic
 biconical
-biconically
 baalish
 biconnected
 biconsonantal
