@@ -6814,7 +6814,6 @@ epulones
 entoglossal
 embonpoint
 entoil
-entoils
 entoloma
 entom
 extender
@@ -9725,6 +9724,7 @@ espada
 externity
 espadon
 espadrilles
+entoils
 espagnole
 elaeagnus
 entitles
