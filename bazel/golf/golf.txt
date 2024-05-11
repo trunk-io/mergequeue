@@ -3605,6 +3605,7 @@ gully
 gewgawry
 grinded
 gnomonology
+gp
 gazump
 goyazite
 gluttonized
@@ -7525,7 +7526,6 @@ gowpen
 gox
 gangism
 gledge
-gp
 gloomful
 gpd
 germing

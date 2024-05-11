@@ -13428,7 +13428,6 @@ allergia
 ankylophobia
 arteriostosis
 abbr
-ankylopodia
 ankyloproctia
 ankylos
 abound
@@ -22630,6 +22629,7 @@ athyrid
 athyroid
 averruncate
 athyroidism
+ankylopodia
 athyrosis
 abcess
 athletehood
