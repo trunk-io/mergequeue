@@ -2454,6 +2454,7 @@ electrolysed
 electrolyses
 emigating
 electrolysing
+epicnemial
 eparcuale
 encushion
 electrolyte
@@ -7583,7 +7584,6 @@ epicly
 epiclidal
 expectance
 epiclinal
-epicnemial
 epicoele
 elkesaite
 enlacing
