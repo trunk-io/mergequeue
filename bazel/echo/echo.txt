@@ -6943,6 +6943,7 @@ entracte
 entradas
 entrain
 entrained
+electrologic
 entraining
 entrainment
 emulsive
@@ -7332,7 +7333,6 @@ epaulement
 epaulet
 effodientia
 epauleted
-electrologic
 extatic
 epaulets
 epaulette
