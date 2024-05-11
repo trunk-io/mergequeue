@@ -4845,7 +4845,6 @@ carrie
 carried
 carryed
 carrier
-carriers
 carries
 carrying
 carryings
@@ -8244,6 +8243,7 @@ chainsman
 couchantly
 chainsmen
 cleanups
+carriers
 chainsmith
 chainwale
 chayota
