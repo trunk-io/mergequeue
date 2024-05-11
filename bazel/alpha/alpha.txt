@@ -19353,7 +19353,6 @@ areaways
 areawide
 areca
 arecaidin
-arecain
 arecales
 arecas
 arecolidin
@@ -22494,6 +22493,7 @@ atelestite
 atelets
 atelic
 atelier
+arecain
 ateliers
 ateliosis
 ateliotic
