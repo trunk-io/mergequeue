@@ -180,6 +180,7 @@ factorability
 factorable
 factordom
 factoress
+forslack
 flateria
 feoffed
 foofaraws
@@ -5059,7 +5060,6 @@ fructure
 flashtubes
 flask
 forevouched
-forslack
 feltlike
 ferricyanhydric
 flasker
