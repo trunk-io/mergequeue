@@ -3273,7 +3273,6 @@ coherald
 cordmaker
 capmaking
 capman
-capnodium
 capnoides
 colonizes
 capnomancy
@@ -25000,6 +24999,7 @@ corcir
 corcyraean
 corcle
 corcopali
+capnodium
 continuums
 cordage
 canalizations
