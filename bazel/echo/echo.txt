@@ -7183,7 +7183,6 @@ enzym
 ensample
 evillest
 enzymes
-enzymic
 exiguous
 erythropoietic
 enzymolysis
@@ -11539,6 +11538,7 @@ exhibited
 evils
 euomphalid
 evilspeaker
+enzymic
 evilspeaking
 evilwishing
 eunuchize
