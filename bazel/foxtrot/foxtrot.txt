@@ -3999,7 +3999,6 @@ fletchings
 finishable
 finisher
 finishers
-finishes
 finishing
 finite
 finites
@@ -6830,6 +6829,7 @@ foldcourse
 festin
 flaccidity
 faithfuls
+finishes
 futtocks
 fado
 faunch
