@@ -4385,6 +4385,7 @@ demagnetisation
 demagnetise
 demagnetised
 demagnetiser
+detraining
 demagnetising
 diacranteric
 daut
@@ -7396,7 +7397,6 @@ detractively
 detracts
 detrained
 drools
-detraining
 detrainment
 detraque
 deathsmen
