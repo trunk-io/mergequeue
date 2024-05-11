@@ -1961,7 +1961,6 @@ acceleration
 adstrict
 advanced
 acetable
-acetabula
 acetabular
 acetabularia
 acetabuliform
@@ -7004,6 +7003,7 @@ abstruseness
 airwoman
 airworthy
 airworthiest
+acetabula
 airworthiness
 ays
 antiquity
