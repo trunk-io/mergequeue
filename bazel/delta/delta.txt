@@ -4042,6 +4042,7 @@ domiculture
 delegalizing
 delegant
 delegare
+dishelmed
 delegate
 dropline
 delegates
@@ -10319,7 +10320,6 @@ dismemberer
 dioptra
 dioptral
 dioptrate
-dishelmed
 dioptric
 dioptrical
 dioptrics
