@@ -1339,7 +1339,6 @@ fatalists
 fleeced
 fittable
 finds
-flauntier
 fatalities
 fatally
 fatalness
@@ -9275,6 +9274,7 @@ ferritins
 forwardsearch
 fragment
 fasthold
+flauntier
 floorhead
 fragmental
 fumously
