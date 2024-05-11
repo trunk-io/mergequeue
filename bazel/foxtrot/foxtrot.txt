@@ -3578,6 +3578,7 @@ fixates
 fanons
 forspoken
 fourniture
+fishtailing
 filers
 fructification
 felinity
@@ -6380,7 +6381,6 @@ fluoran
 fennish
 fluorane
 fluoranthene
-fishtailing
 favorite
 felonwood
 fluorated
