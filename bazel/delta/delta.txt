@@ -5105,7 +5105,6 @@ denaturizer
 denaturizing
 dendraspis
 dendraxon
-decolorizer
 delightsome
 dendriform
 dialer
@@ -14009,6 +14008,7 @@ districted
 districting
 districtly
 diplosis
+decolorizer
 dsr
 districts
 distringas
