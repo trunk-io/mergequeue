@@ -1213,6 +1213,7 @@ calendar
 chlored
 cambrel
 cervices
+chaseable
 calendared
 calendarer
 calendarial
@@ -9227,7 +9228,6 @@ cowards
 charwomen
 chasable
 chase
-chaseable
 chased
 corbeilles
 chasers
