@@ -3455,6 +3455,7 @@ bastilles
 biggah
 bastiment
 bastinaded
+bellrags
 baroi
 burbots
 bastinado
@@ -5943,7 +5944,6 @@ bellowsman
 bellpull
 bellpulls
 burhead
-bellrags
 bells
 belltail
 baresarks
