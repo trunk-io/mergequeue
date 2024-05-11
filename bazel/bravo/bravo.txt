@@ -2937,6 +2937,7 @@ barrets
 boundaries
 barretter
 boobishness
+blobby
 barricade
 barricaded
 baryes
@@ -11012,7 +11013,6 @@ bermudian
 blob
 bicentrically
 benzoylate
-blobby
 bricklay
 bidentalia
 backed
