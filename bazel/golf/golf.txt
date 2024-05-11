@@ -6909,7 +6909,6 @@ grabman
 graticulate
 goodby
 glis
-goodbyes
 goodenia
 guineas
 gonadectomies
@@ -9849,6 +9848,7 @@ guanines
 guanize
 guano
 grendel
+goodbyes
 gagman
 guans
 gazook
