@@ -3086,6 +3086,7 @@ blindfold
 benzedrine
 baculite
 bascunan
+borderlight
 base
 baseball
 bojite
@@ -12969,7 +12970,6 @@ borderland
 borderlander
 bagpipe
 behaviourist
-borderlight
 borderline
 bowsery
 bordermark
