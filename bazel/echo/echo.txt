@@ -11287,6 +11287,7 @@ evangelically
 eyestring
 erector
 eelbob
+encounterable
 ethmosphenoidal
 evangelicalness
 eradicating
@@ -14041,7 +14042,6 @@ extravagation
 extravagence
 extravaginal
 extravasated
-encounterable
 extravasating
 elasmosaur
 extravehicular
