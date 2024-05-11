@@ -3261,6 +3261,7 @@ disqualification
 derricking
 defenseless
 defenselessly
+deviates
 defenselessness
 defenseman
 defenser
@@ -9673,7 +9674,6 @@ dilatable
 dilatably
 desiderate
 dilatants
-deviates
 dilatate
 dilatational
 dilatative
