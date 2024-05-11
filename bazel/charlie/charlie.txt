@@ -4787,7 +4787,6 @@ carpoptosia
 carport
 carpos
 chibouk
-carposporangial
 cerebropathy
 carposporangium
 catalase
@@ -6743,6 +6742,7 @@ corned
 celestialized
 celestially
 crustacea
+carposporangial
 canstick
 celestialness
 celestify
