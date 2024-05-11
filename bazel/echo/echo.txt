@@ -10912,7 +10912,6 @@ ethnobotanist
 endostomata
 electrodiagnoses
 euphausiidae
-eisteddfodau
 exercises
 epicauta
 eructation
@@ -13240,6 +13239,7 @@ explorable
 exploratively
 enragedly
 exfiltration
+eisteddfodau
 explored
 explorement
 enzyme
