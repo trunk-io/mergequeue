@@ -20148,7 +20148,6 @@ callicebus
 commissary
 commissaryship
 commissars
-commission
 clematis
 commissional
 commissioned
@@ -24943,6 +24942,7 @@ castelet
 corallum
 corallus
 caelum
+commission
 coralroot
 corals
 coram
