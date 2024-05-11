@@ -4164,7 +4164,6 @@ cardiophobia
 cardiophrenia
 capette
 cardiopyloric
-cardiopneumatic
 cardiopneumograph
 cardioptosis
 cardiopulmonary
@@ -6935,6 +6934,7 @@ caecostomy
 cement
 cementa
 cemental
+cardiopneumatic
 cementation
 chymosins
 coaugment
