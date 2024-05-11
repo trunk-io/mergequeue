@@ -2553,7 +2553,6 @@ antiegotism
 appall
 aclidian
 aclinic
-ambulate
 aclys
 acloud
 acmaea
@@ -9891,6 +9890,7 @@ amatol
 apathus
 autotomies
 amatols
+ambulate
 amatorial
 amatorially
 amatrice
