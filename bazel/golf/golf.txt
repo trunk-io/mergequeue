@@ -2228,7 +2228,6 @@ gurish
 genocides
 gnathites
 gearcase
-gearcases
 gearman
 guernseys
 glucose
@@ -10393,6 +10392,7 @@ gangrene
 gult
 gum
 gourdy
+gearcases
 gyneolatry
 gumbo
 gumboils
