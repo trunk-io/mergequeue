@@ -8945,7 +8945,6 @@ biobibliography
 biobibliographical
 behowl
 bioblast
-bioblastic
 bronchotyphoid
 barani
 biocellate
@@ -10480,6 +10479,7 @@ balcone
 blastodisc
 blastoffs
 bioclimatological
+bioblastic
 boxfish
 billet
 bedeswoman
