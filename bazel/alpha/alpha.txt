@@ -2701,7 +2701,6 @@ ageism
 audivision
 acquaintedness
 acquainting
-acquest
 acquests
 astrologists
 acquiesce
@@ -8024,6 +8023,7 @@ aleurons
 aleut
 aneath
 aleutians
+acquest
 aleutic
 aleutite
 alevin
