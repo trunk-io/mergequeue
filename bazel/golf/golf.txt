@@ -2326,7 +2326,6 @@ guideway
 gey
 gaits
 gallantry
-griseofulvin
 gorgonacean
 geyerite
 geiger
@@ -2473,6 +2472,7 @@ gastrolith
 george
 gemeinschaften
 grampa
+griseofulvin
 gemeled
 gemellione
 goldtail
