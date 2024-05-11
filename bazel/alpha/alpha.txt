@@ -13241,7 +13241,6 @@ amaltas
 animo
 anymore
 animose
-animoseness
 allomorphic
 animosity
 animoso
@@ -17879,6 +17878,7 @@ applicators
 appliedly
 afterdischarge
 applier
+animoseness
 autocab
 aversation
 applies
