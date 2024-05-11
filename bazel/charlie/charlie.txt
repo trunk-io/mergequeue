@@ -7288,7 +7288,6 @@ centrodesmus
 centrodorsal
 centroidal
 centroids
-centrolecithal
 centrolepidaceae
 centrolepidaceous
 centrolinead
@@ -28916,6 +28915,7 @@ colat
 carbonigenous
 crib
 crybaby
+centrolecithal
 conductility
 crybabies
 cribbage
