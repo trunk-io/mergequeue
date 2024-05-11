@@ -5597,7 +5597,6 @@ depascent
 depass
 derere
 delphinoid
-digested
 disrepute
 depasturable
 depasturation
@@ -14963,6 +14962,7 @@ doggerelism
 doggerelist
 desperate
 doggerelizing
+digested
 dephilosophize
 decided
 doggerelling
