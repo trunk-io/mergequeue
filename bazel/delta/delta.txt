@@ -9352,7 +9352,6 @@ difficileness
 difficilitate
 difficulty
 difficulties
-difficultly
 difficultness
 diffide
 dunlin
@@ -17042,6 +17041,7 @@ decil
 dumbledore
 disambiguated
 dressily
+difficultly
 dematerialising
 disalicylide
 dressings
