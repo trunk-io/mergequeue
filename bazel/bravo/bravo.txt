@@ -14455,7 +14455,6 @@ branchiosauria
 branchiosaurian
 belugite
 bedumbed
-branchiostegal
 branchiostegan
 branchiostegidae
 branchiostoma
@@ -15621,6 +15620,7 @@ broadsides
 broadsiding
 broadspread
 broadsword
+branchiostegal
 broadwayite
 boonies
 bamangwato
