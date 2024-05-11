@@ -435,7 +435,6 @@ civilisable
 chancered
 cactuses
 cactuslike
-cacumen
 cassavas
 cacuminal
 catheretic
@@ -26995,6 +26994,7 @@ countermined
 countermission
 coinfeftment
 countermotion
+cacumen
 countermount
 circumsciss
 countermoved
