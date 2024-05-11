@@ -25140,7 +25140,6 @@ chabasie
 corepressor
 cubas
 calomba
-corequisite
 corer
 combinantive
 corers
@@ -26079,6 +26078,7 @@ cosharer
 coshed
 cosher
 cupreine
+corequisite
 coshered
 cosherer
 coshery

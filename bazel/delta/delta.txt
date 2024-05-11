@@ -2502,6 +2502,7 @@ duckwing
 deerstalker
 deckhead
 deckle
+descried
 deckman
 deckpipe
 decks
@@ -6547,7 +6548,6 @@ dolous
 describers
 describes
 daunomycin
-descried
 descrier
 descriers
 divorce
