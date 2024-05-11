@@ -14137,7 +14137,6 @@ dehaites
 desmohemoblast
 diswarrening
 diswashing
-delayage
 disweapon
 diswere
 demonifuge
@@ -16620,6 +16619,7 @@ dime
 dragonfishes
 dragonfly
 dragonflies
+delayage
 dragonhead
 deprecated
 dragonhood
