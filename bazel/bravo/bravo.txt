@@ -6142,6 +6142,7 @@ bibl
 bemuck
 bemuddlement
 bemuddles
+bisson
 bemuddling
 backtrail
 barrowcoat
@@ -9795,7 +9796,6 @@ basilosaurus
 byssogenous
 byssoid
 byssolite
-bisson
 buckskin
 bissonata
 byssus
