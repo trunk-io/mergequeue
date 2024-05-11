@@ -947,7 +947,6 @@ fasola
 finitely
 finespun
 flattener
-furile
 faradmeter
 ferny
 fhrer
@@ -6676,6 +6675,7 @@ fillip
 foehn
 foehnlike
 foehns
+furile
 foeish
 fpsps
 foeless
