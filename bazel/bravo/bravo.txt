@@ -10076,7 +10076,6 @@ bizen
 bizes
 bizonal
 backwatered
-bizygomatic
 biznaga
 bokos
 biznagas
@@ -18094,6 +18093,7 @@ beclamour
 boast
 bustler
 bustlers
+bizygomatic
 bustles
 biologize
 bustling
