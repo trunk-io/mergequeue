@@ -1247,7 +1247,6 @@ eely
 eeliest
 eeling
 eellike
-eelpouts
 eelshop
 eelskin
 eelworm
@@ -5851,6 +5850,7 @@ enfonce
 enhypostasia
 enhypostasis
 erethismic
+eelpouts
 enhypostatize
 encrinoidea
 enhorror
