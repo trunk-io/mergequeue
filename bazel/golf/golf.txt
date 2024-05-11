@@ -5829,7 +5829,6 @@ glossohyal
 gaultherase
 gyres
 gobos
-gaonic
 glossolalia
 glossolysis
 glossology
@@ -9683,6 +9682,7 @@ glossaries
 guying
 grummels
 grummest
+gaonic
 grummet
 grumness
 gambir
