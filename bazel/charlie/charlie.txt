@@ -8973,7 +8973,6 @@ characteristicalness
 characteristicness
 characteristics
 characterization
-characterizations
 characterize
 characterizer
 characterizers
@@ -17382,6 +17381,7 @@ cheloid
 coattails
 coattend
 cajeta
+characterizations
 coattending
 coattest
 coattestation
