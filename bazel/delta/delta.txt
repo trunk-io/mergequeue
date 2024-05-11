@@ -5212,7 +5212,6 @@ denims
 directives
 doctrinalist
 dyings
-denitrated
 daemon
 denitrator
 deathly
@@ -15870,6 +15869,7 @@ dosa
 dosain
 dose
 dosed
+denitrated
 doser
 dosers
 dosimeter
