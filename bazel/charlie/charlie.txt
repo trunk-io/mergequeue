@@ -2853,7 +2853,6 @@ cant
 cantabank
 cantabile
 cantabri
-countercultures
 clothesmonger
 cantabrian
 cantabrigian
@@ -6999,6 +6998,7 @@ cratometric
 cenobitical
 cenobitically
 cenobitism
+countercultures
 cenogamy
 cenogenesis
 cenogenetic
