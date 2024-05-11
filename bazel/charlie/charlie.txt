@@ -3153,6 +3153,7 @@ coverlet
 capewise
 capework
 capeworks
+collagenous
 capful
 caphar
 corsaint
@@ -18894,7 +18895,6 @@ collage
 collagen
 collagenase
 collagenic
-collagenous
 checked
 collages
 collapsability

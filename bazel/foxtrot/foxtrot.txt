@@ -709,6 +709,7 @@ famousness
 furoic
 famp
 fanfish
+fatigued
 famuli
 fana
 fossilised
@@ -5083,7 +5084,6 @@ flatlands
 flatlets
 floorwalker
 flavoprotein
-fatigued
 flatly
 flatlings
 fjords
