@@ -5551,7 +5551,6 @@ glissader
 gadean
 glissades
 groschen
-glissandi
 glissando
 gleyde
 ganoids
@@ -9663,6 +9662,7 @@ grugous
 graphitoidal
 goofiest
 gamogenetic
+glissandi
 gruidae
 guilt
 gruyere
