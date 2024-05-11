@@ -5914,7 +5914,6 @@ erythroplastid
 encumbrancer
 enjoy
 enjoyable
-exocarp
 enjoying
 equivaliant
 enjoyingly
@@ -7521,6 +7520,7 @@ epicarp
 epicarps
 ectoprocta
 espiglerie
+exocarp
 epicede
 epicedia
 epicedial
