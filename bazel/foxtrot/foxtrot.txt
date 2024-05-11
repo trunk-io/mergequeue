@@ -1527,6 +1527,7 @@ freebooters
 flakes
 filmset
 forbearing
+features
 furoate
 formamido
 flagless
@@ -7199,7 +7200,6 @@ foothot
 fedn
 flippantness
 faraon
-features
 friz
 footy
 fruitions

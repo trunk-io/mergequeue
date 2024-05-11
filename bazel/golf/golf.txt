@@ -1304,7 +1304,6 @@ golandause
 gooseliver
 guidage
 gonochorismus
-guana
 garb
 garbage
 gastrulated
@@ -2530,6 +2529,7 @@ growable
 gemmingia
 gemmipara
 gemmipares
+guana
 gemmiparous
 gemmiparously
 gyrochrome
