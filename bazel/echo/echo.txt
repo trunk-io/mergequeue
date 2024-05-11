@@ -8911,7 +8911,6 @@ effervescent
 enucleating
 ergatandrous
 ergate
-ergative
 eastmost
 ergatocrat
 excysted
@@ -11517,6 +11516,7 @@ ethicophysical
 evident
 ergasterion
 ejaculation
+ergative
 evidential
 evidentially
 erin
