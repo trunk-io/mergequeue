@@ -1249,7 +1249,6 @@ auscultator
 acanthion
 allophytoid
 acanthocarpous
-annectent
 acanthocephali
 acanthocephalous
 acanthocereus
@@ -23086,6 +23085,7 @@ attenuative
 attenuator
 adfix
 attenuators
+annectent
 atter
 attercop
 artophorion
