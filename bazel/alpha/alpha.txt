@@ -221,6 +221,7 @@ abbreviatable
 abraded
 abbreviated
 argotic
+analysis
 acantholysis
 abbreviates
 abbreviating
@@ -11766,7 +11767,6 @@ analyses
 analysing
 amerindian
 antimoniate
-analysis
 analyst
 analysts
 aurei
