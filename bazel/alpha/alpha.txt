@@ -3944,7 +3944,6 @@ adipomata
 applauded
 adipometer
 adiponitrile
-axial
 adipopexia
 adipopexic
 adipopexis
@@ -19433,6 +19432,7 @@ areosystyle
 anguillule
 androgametangium
 areostyle
+axial
 areotectonics
 aminodiphenyl
 arere
