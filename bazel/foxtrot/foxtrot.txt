@@ -2598,7 +2598,6 @@ flew
 ferrets
 foresightful
 flanes
-ferryboat
 ferryboats
 familistery
 ferricyanate
@@ -6331,6 +6330,7 @@ foraminate
 flummer
 funori
 fribblery
+ferryboat
 flummeries
 fettling
 focometer
