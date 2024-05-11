@@ -10694,7 +10694,6 @@ amish
 amissibility
 affa
 amissible
-amissing
 amita
 amitabha
 amitate
@@ -21795,6 +21794,7 @@ assidaean
 allotropous
 assidual
 agathodaemon
+amissing
 assidually
 adjunction
 antiempiricism
