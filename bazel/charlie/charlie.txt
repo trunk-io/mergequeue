@@ -3839,7 +3839,6 @@ carboned
 coinsure
 cincha
 carbonemia
-coccolith
 cavilled
 carbonic
 carbonide
@@ -8343,6 +8342,7 @@ chalcidica
 chalcidicum
 chalcididae
 chalcidiform
+coccolith
 caird
 chalcidoid
 chalcidoidea
