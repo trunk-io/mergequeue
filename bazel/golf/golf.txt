@@ -5634,7 +5634,6 @@ gonidia
 gconvert
 glare
 gymnasiums
-genuflector
 globularia
 garance
 globulariaceae
@@ -9669,6 +9668,7 @@ gruiformes
 gnathostomous
 gruys
 georgiana
+genuflector
 germinable
 grumbled
 gipons
