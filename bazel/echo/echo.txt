@@ -3492,7 +3492,6 @@ embolectomy
 enicuridae
 embolemia
 emboli
-emboly
 emboliform
 engraphy
 epipodialia
@@ -11130,6 +11129,7 @@ enrail
 euselachii
 eosin
 euskarian
+emboly
 engrafted
 euskaric
 enrapture

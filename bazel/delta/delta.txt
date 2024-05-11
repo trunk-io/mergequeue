@@ -366,6 +366,7 @@ daymares
 daymark
 doupion
 dormmice
+disincrust
 daimiate
 daimiel
 daimyo
@@ -5956,7 +5957,6 @@ deep
 dowy
 donatio
 diadems
-disincrust
 depressomotor
 difluoride
 depressors
