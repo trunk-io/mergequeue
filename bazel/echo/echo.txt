@@ -3601,7 +3601,6 @@ embrail
 embranchment
 el
 evestar
-expositive
 entomophagan
 eudaemonize
 exegetical
@@ -11796,6 +11795,7 @@ exorcista
 exaration
 exarchateship
 euripidean
+expositive
 exarchic
 ekphore
 exarchist
