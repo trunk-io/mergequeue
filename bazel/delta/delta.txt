@@ -1040,6 +1040,7 @@ devoiced
 darners
 darnex
 darning
+directional
 darns
 daroga
 dimeters
@@ -10790,7 +10791,6 @@ directer
 directest
 directexamination
 dacryoadenitis
-directional
 directionality
 directionalize
 directionally

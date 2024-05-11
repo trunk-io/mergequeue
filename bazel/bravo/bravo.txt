@@ -4775,7 +4775,6 @@ byronist
 borak
 bedman
 bedmate
-bibbons
 bednights
 bungo
 bedoctor
@@ -15236,6 +15235,7 @@ begin
 benzidine
 beefily
 bridgeway
+bibbons
 bridgeward
 bridgewards
 barrulet
