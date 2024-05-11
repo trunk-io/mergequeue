@@ -5732,6 +5732,7 @@ enray
 excrements
 entrepot
 emphasise
+explanation
 engouement
 epitheliogenetic
 engouled
@@ -13150,7 +13151,6 @@ explainer
 explainers
 explaining
 explainingly
-explanation
 eductor
 expurgator
 estranging
