@@ -1324,6 +1324,7 @@ daffy
 demissive
 daunting
 dauntingly
+depositum
 dauntingness
 dauntless
 dauntlessly
@@ -10601,7 +10602,6 @@ diplomata
 deben
 diplomates
 diplomatically
-depositum
 diplomatique
 dolour
 diplomatism
