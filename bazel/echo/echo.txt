@@ -13144,7 +13144,6 @@ extras
 explainable
 explainableness
 eidetically
-explained
 entosterna
 explainer
 explainers
@@ -13327,6 +13326,7 @@ ensellure
 expostulate
 expostulating
 expostulations
+explained
 exr
 empodium
 expostulative
