@@ -12569,7 +12569,6 @@ chromophobia
 chromophobic
 chromophore
 chromophoric
-chromophorous
 chromophotograph
 chromophotography
 chromophotographic
@@ -25095,6 +25094,7 @@ cubicity
 counterbalancing
 coregnant
 coregonid
+chromophorous
 coregonidae
 coregonine
 coregonoid
