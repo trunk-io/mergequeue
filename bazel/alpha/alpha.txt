@@ -22946,7 +22946,6 @@ attacapan
 attacca
 attacco
 akuammine
-antiperistaltic
 attach
 ambits
 attachableness
@@ -25151,6 +25150,7 @@ axisymmetry
 axisymmetrical
 axite
 axites
+antiperistaltic
 assault
 axle
 axled
