@@ -8216,7 +8216,6 @@ diadochy
 diorism
 desireable
 diadochian
-diadochic
 diadochite
 diadochokinesia
 diadoumenos
@@ -12551,6 +12550,7 @@ disinterestedness
 distillation
 disinterment
 disinterring
+diadochic
 dimyary
 disinters
 dispiteously
