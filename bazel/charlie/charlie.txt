@@ -8275,7 +8275,6 @@ checkoff
 chairmender
 chairmending
 chairpersons
-caziques
 colpoplastic
 chairs
 chairway
@@ -14137,6 +14136,7 @@ ciphony
 ciphonies
 cyphonism
 celiorrhaphy
+caziques
 cargador
 cyphosis
 compitum
