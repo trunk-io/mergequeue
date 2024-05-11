@@ -10623,7 +10623,6 @@ chilled
 conter
 carports
 chiller
-chillers
 comino
 chillest
 chiromance
@@ -27188,6 +27187,7 @@ countersunken
 cantico
 cowls
 cava
+chillers
 countersurprise
 coydog
 countersway

@@ -14298,7 +14298,6 @@ autobahns
 allomorph
 anteroflexion
 aeroscopic
-anterofrontal
 anterograde
 anteroinferior
 alismaceae
@@ -17012,6 +17011,7 @@ astrographic
 apicultural
 araucan
 apiculturist
+anterofrontal
 apiculus
 apiece
 aluminotype
