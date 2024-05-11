@@ -8839,7 +8839,6 @@ allocations
 amyosthenia
 aqueoglacial
 allocator
-allocators
 allocatur
 antimasonic
 allochetia
@@ -9954,6 +9953,7 @@ amberfish
 analogues
 amberfishes
 autoregressive
+allocators
 ambergris
 ahchoo
 amberite
