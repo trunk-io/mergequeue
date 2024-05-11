@@ -9637,7 +9637,6 @@ dikaryophyte
 dislevelment
 dikaryophytic
 dikaryotic
-dikast
 dikdik
 deliquesces
 dil
@@ -16816,6 +16815,7 @@ drawbeam
 drawbench
 divinise
 drawbolt
+dikast
 detritivorous
 drawbore
 deare
