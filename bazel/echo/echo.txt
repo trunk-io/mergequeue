@@ -6606,7 +6606,6 @@ exacts
 enigua
 ephyrae
 enterogram
-enterograph
 enterography
 encompasser
 enterohemorrhage
@@ -13490,6 +13489,7 @@ exsected
 epimacus
 erythrochaete
 exsectile
+enterograph
 experimentor
 emmarbling
 exsecting
