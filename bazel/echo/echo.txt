@@ -2287,7 +2287,6 @@ electrocardiogram
 electrocardiograms
 epacme
 electrocardiograph
-electrocardiographic
 electrocardiographically
 electrocatalysis
 explorational
@@ -4775,6 +4774,7 @@ encore
 emeute
 encored
 encores
+electrocardiographic
 excitive
 encoronal
 encoronate
