@@ -3839,7 +3839,6 @@ fig
 forfit
 fimbrillose
 flabbergastingly
-fin
 finable
 fashious
 finagler
@@ -8232,6 +8231,7 @@ forge
 forgeable
 forgery
 forges
+fin
 flunkeyistic
 fulgurous
 frohlich
