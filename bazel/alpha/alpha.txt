@@ -17909,7 +17909,6 @@ appointe
 appointee
 antistatic
 appointees
-appointer
 alalite
 adherently
 appointers
@@ -19960,6 +19959,7 @@ axiniform
 armiger
 armigeral
 armigeri
+appointer
 armigeros
 armigerous
 aimful
