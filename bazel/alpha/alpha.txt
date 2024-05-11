@@ -1382,7 +1382,6 @@ accel
 accelerable
 accelerando
 amnesias
-accelerant
 aiolis
 annihilator
 amsterdamer
@@ -22610,6 +22609,7 @@ atherosclerotically
 atherosperma
 abfarads
 atherurus
+accelerant
 atheticize
 athetize
 athetotic
