@@ -16889,7 +16889,6 @@ clubrooms
 clubroot
 carding
 clubroots
-clubs
 clubstart
 clubster
 carpogonium
@@ -17749,6 +17748,7 @@ coconuco
 coconut
 coconuts
 cocoon
+clubs
 cocooneries
 cocooning
 crimeless
