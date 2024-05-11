@@ -8145,7 +8145,6 @@ desman
 diachronic
 diachronically
 diacid
-diacidic
 detachment
 disinvite
 duellists
@@ -10410,6 +10409,7 @@ diphasic
 dibase
 diphenan
 diphenhydramine
+diacidic
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
