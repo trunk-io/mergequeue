@@ -4152,6 +4152,7 @@ fetus
 firedamps
 firedragon
 firedrake
+frokin
 frayn
 foreprise
 foulmart
@@ -10346,7 +10347,6 @@ fractioned
 froideur
 froise
 fulminous
-frokin
 fletch
 frolic
 frolicful
