@@ -4262,7 +4262,6 @@ ges
 gymnostomata
 grotesquery
 gripless
-gymnotus
 ginward
 garnishable
 gest
@@ -7961,6 +7960,7 @@ gestatorial
 greedy
 gladioli
 groundsel
+gymnotus
 granitiform
 granitite
 granitization
