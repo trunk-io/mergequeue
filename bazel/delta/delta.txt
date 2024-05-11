@@ -15607,6 +15607,7 @@ doormaid
 doormaker
 doorman
 doormats
+downwind
 doormen
 doornboom
 draconis
@@ -16388,7 +16389,6 @@ dysanagnosia
 downweed
 dehydrating
 downweighted
-downwind
 demarcators
 dogma
 dephlegm
