@@ -5056,7 +5056,6 @@ aerologists
 aeromaechanic
 aeromancer
 aeromechanic
-aeromechanics
 aeromedical
 aeromedicine
 aerometeorograph
@@ -12153,6 +12152,7 @@ antilapse
 anatta
 anatto
 apothecia
+aeromechanics
 acetification
 arapunga
 anthrone
