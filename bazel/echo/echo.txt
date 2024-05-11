@@ -2032,7 +2032,6 @@ evilly
 environment
 elance
 elanet
-elanus
 exalted
 elaphebolion
 elaphine
@@ -8930,6 +8929,7 @@ estampie
 entoderms
 efflorescency
 ergograph
+elanus
 ergoism
 ergomaniac
 esthesiometer

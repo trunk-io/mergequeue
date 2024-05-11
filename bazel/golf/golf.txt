@@ -2170,6 +2170,7 @@ gawm
 gatewise
 glavering
 gawn
+gilding
 gateways
 gapo
 gardenize
@@ -4070,7 +4071,6 @@ gouter
 gildhall
 gangliomata
 gorgeously
-gilding
 giddyberry
 giantlike
 grounds
