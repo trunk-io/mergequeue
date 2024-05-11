@@ -293,7 +293,6 @@ embleming
 enameler
 eagerer
 eatability
-eatable
 eatables
 electrolyzability
 enteroid
@@ -7467,6 +7466,7 @@ ephor
 essayical
 ephorate
 ephraim
+eatable
 ekphory
 escalatory
 emirates
