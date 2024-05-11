@@ -2553,7 +2553,6 @@ canephorae
 canephore
 canephori
 canephoroi
-canephoros
 canephorus
 canepin
 caner
@@ -23400,6 +23399,7 @@ contect
 contection
 contek
 conteke
+canephoros
 contemned
 contemner
 camletting
