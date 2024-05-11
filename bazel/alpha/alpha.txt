@@ -15904,7 +15904,6 @@ arctitude
 antipyonin
 antipyresis
 antithrombin
-antipyretics
 antipyrin
 antipyrine
 antipyrotic
@@ -18444,6 +18443,7 @@ arachnoidean
 arachnoiditis
 arachnology
 arachnologist
+antipyretics
 arachnopia
 arad
 aradidae
