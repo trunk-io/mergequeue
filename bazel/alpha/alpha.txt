@@ -12336,7 +12336,6 @@ albuminometry
 andiron
 anopisthograph
 andirons
-andor
 affranchising
 astigmatically
 andorite
@@ -23381,6 +23380,7 @@ aug
 auganite
 augend
 aporrhoea
+andor
 adders
 augends
 auger

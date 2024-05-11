@@ -207,6 +207,7 @@ daemonistic
 daemons
 daemonurgy
 droitural
+detectible
 daemonurgist
 dishallucination
 disciplinarianism
@@ -7205,7 +7206,6 @@ detecter
 detecters
 decentralist
 damnified
-detectible
 detection
 demurest
 detectives
