@@ -18164,7 +18164,6 @@ antirestoration
 apselaphesis
 aroused
 apsid
-apsidal
 apsidally
 apsides
 apsidiole
@@ -21515,6 +21514,7 @@ aspy
 aspic
 aspics
 aspiculate
+apsidal
 aspide
 aspidiaria
 aspidinol
