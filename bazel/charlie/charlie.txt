@@ -5772,7 +5772,6 @@ catechizable
 catechization
 catechized
 catechizer
-catechizes
 callicarpa
 catechizing
 catechol
@@ -26647,6 +26646,7 @@ coumaric
 coumarilic
 coumarin
 coumarinic
+catechizes
 coumarins
 coumarone
 coumbite
