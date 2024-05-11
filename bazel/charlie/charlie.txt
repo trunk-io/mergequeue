@@ -4990,6 +4990,7 @@ cartouche
 costrel
 chiclero
 cartouches
+complexions
 curlicued
 canalman
 chevrony
@@ -20720,7 +20721,6 @@ charioted
 complexionist
 complexionless
 cahuapana
-complexions
 chronologic
 complexive
 complexly
