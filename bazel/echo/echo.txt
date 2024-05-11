@@ -9764,7 +9764,6 @@ espinos
 enfoil
 evilsayer
 esplanade
-esplees
 espontoon
 espousage
 espousals
@@ -10691,6 +10690,7 @@ excluders
 exchangee
 experience
 emblematically
+esplees
 epimysium
 eudaemons
 eudaimonia
