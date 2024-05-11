@@ -2326,6 +2326,7 @@ achromatolysis
 achromatope
 achromatophile
 achromatophilia
+anoopsia
 achromatophilic
 achromatopia
 achromatopsy
@@ -13831,7 +13832,6 @@ anonymities
 anonymously
 anonymousness
 anonymuncule
-anoopsia
 anoperineal
 anophele
 anopheles
