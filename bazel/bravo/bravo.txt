@@ -7647,7 +7647,6 @@ bewearying
 broccoli
 bloodleaf
 brainworker
-beweeper
 beweeping
 beweeps
 bastardize
@@ -11704,6 +11703,7 @@ bobwhites
 boc
 boise
 biopyribole
+beweeper
 boca
 bocaccio
 bluisness
