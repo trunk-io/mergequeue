@@ -4800,6 +4800,7 @@ carquaise
 conjuror
 carr
 carrack
+chamaeleo
 carracks
 carrageenin
 carragheen
@@ -8484,7 +8485,6 @@ compinge
 corkir
 chamaecrista
 calorisator
-chamaeleo
 chamaeleon
 chamaelirium
 chamaenerion
