@@ -7167,7 +7167,6 @@ bouzouki
 bespecked
 backrun
 bespeckle
-banner
 bespeckled
 bespectacled
 bogie
@@ -9000,6 +8999,7 @@ biodegrading
 biodynamical
 biodynamics
 buccinoid
+banner
 bocal
 brutalize
 biodyne
