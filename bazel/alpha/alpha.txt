@@ -3081,7 +3081,6 @@ actinisms
 anesthetist
 actinium
 actiniums
-actinobaccilli
 actinobacillosis
 anchusins
 actinobacillotic
@@ -15443,6 +15442,7 @@ antilife
 antilift
 antilipoid
 antiliquor
+actinobaccilli
 achlamydeous
 antilysin
 antilysis
