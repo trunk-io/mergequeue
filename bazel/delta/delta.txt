@@ -5969,7 +5969,6 @@ deprest
 dechlorination
 depreter
 depriment
-deprint
 depriorize
 dysmerism
 deprivable
@@ -17649,6 +17648,7 @@ drupa
 dysthyroidism
 drupel
 drupelets
+deprint
 drupeole
 drupes
 drupetum
