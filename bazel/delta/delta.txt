@@ -8733,7 +8733,6 @@ diathesis
 diathetic
 diatom
 diatoma
-diatomaceae
 diatomaceous
 doorframe
 diatomales
@@ -14177,6 +14176,7 @@ ditheist
 deratizing
 ditheistic
 ditheistical
+diatomaceae
 dither
 dithered
 ditherer
