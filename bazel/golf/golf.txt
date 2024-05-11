@@ -5811,6 +5811,7 @@ glossiphonia
 glossiphonidae
 goldhead
 galvanomagnet
+gipsylike
 glossitic
 glossitis
 garbleable
@@ -8361,7 +8362,6 @@ gratulation
 graunt
 graupel
 gravitations
-gipsylike
 gamb
 grudgers
 gazeful
