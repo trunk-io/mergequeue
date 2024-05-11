@@ -2581,7 +2581,6 @@ girt
 goral
 gabbing
 gemutlich
-gemwork
 goofy
 gringo
 grinnie
@@ -3453,6 +3452,7 @@ garten
 gorkun
 goosecap
 geronto
+gemwork
 gerontocracy
 gerontocracies
 gerontocrat
