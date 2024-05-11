@@ -12087,7 +12087,6 @@ catchalls
 cariyo
 cutes
 chorograph
-chorographer
 chorographical
 criticizable
 chorographically
@@ -18899,6 +18898,7 @@ checked
 collages
 collapsability
 collapsable
+chorographer
 collapsar
 cascado
 collapse
