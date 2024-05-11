@@ -6616,7 +6616,6 @@ cecograph
 cecomorphae
 cecomorphic
 cecopexy
-cecostomy
 cecropia
 cecrops
 codifier
@@ -17622,6 +17621,7 @@ coccothrinax
 coccule
 cocculiferous
 conglobation
+cecostomy
 cost
 cocculus
 coccus
