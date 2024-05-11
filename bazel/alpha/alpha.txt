@@ -10194,6 +10194,7 @@ ame
 anchorhold
 ameba
 appendalgia
+ampler
 amebas
 amebean
 amebian
@@ -11308,7 +11309,6 @@ ampyxes
 ample
 amplect
 amplectant
-ampler
 amplest
 amplex
 amplexicaul
