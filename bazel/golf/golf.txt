@@ -953,6 +953,7 @@ gametogenous
 gametoid
 goodtemperedness
 gobioid
+gilia
 genome
 gametophyte
 gulinulae
@@ -7517,7 +7518,6 @@ gownsman
 gallflies
 gravamens
 gownsmen
-gilia
 garaging
 gowpen
 gox
