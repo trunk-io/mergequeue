@@ -16555,7 +16555,6 @@ cosmos
 clogmaking
 clogwheel
 charoset
-canners
 clogwyn
 clogwood
 calvinian
@@ -26889,6 +26888,7 @@ chronologize
 counterfeitment
 counterfeits
 counterfessed
+canners
 counterfire
 counterfix
 counterflange
