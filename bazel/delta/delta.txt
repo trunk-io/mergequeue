@@ -1172,6 +1172,7 @@ datafile
 dataflow
 datagram
 datagrams
+desirable
 doormat
 dewlight
 deescalating
@@ -1960,7 +1961,6 @@ debuted
 debuting
 defoliators
 dichromism
-desirable
 delichon
 dichromatopsia
 demyelinate
