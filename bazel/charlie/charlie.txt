@@ -4243,7 +4243,6 @@ careful
 carefull
 carefuller
 carefullest
-carefully
 covenant
 coauthored
 carey
@@ -29298,6 +29297,7 @@ cryptogrammic
 craggedly
 cryptograms
 composition
+carefully
 cryptograph
 cryptographal
 cryptography
