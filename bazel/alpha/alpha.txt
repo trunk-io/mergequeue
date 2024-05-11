@@ -14300,7 +14300,6 @@ alismaceae
 anterointernal
 anterolateral
 anterolaterally
-anteromedial
 anteromedian
 anteroom
 anterooms
@@ -17223,6 +17222,7 @@ apodosis
 apods
 apoembryony
 apoenzyme
+anteromedial
 adsorbents
 apofenchene
 apogaeic
