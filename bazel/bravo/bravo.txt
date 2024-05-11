@@ -547,6 +547,7 @@ bishopless
 backups
 backus
 backveld
+bactetiophage
 bayok
 backvelder
 beagle
@@ -7796,7 +7797,6 @@ bhang
 bhut
 bhangi
 bhara
-bactetiophage
 bharal
 barege
 bhat
