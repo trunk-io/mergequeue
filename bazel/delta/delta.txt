@@ -2361,6 +2361,7 @@ drink
 dechemicalize
 dechenite
 dechlog
+diagraming
 dechloridation
 dechloridize
 dechloridized
@@ -10989,7 +10990,6 @@ disagrees
 disagreing
 degeneracy
 dioptroscopy
-diagraming
 disalign
 demonlike
 dibbler
