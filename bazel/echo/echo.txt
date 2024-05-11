@@ -5513,7 +5513,6 @@ experimentarian
 etherlike
 enheritance
 enfeoffing
-episcopant
 enfeoffment
 enfester
 enfettered
@@ -10548,6 +10547,7 @@ extralinguistic
 egressor
 etrogim
 etruscology
+episcopant
 etta
 encrypted
 ending
