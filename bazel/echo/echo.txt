@@ -3045,7 +3045,6 @@ ellipsoid
 executiveness
 ellipsone
 ellipsonic
-exteriorization
 elliptical
 elliptically
 ellipticalness
@@ -11512,6 +11511,7 @@ evidence
 evidences
 evidencing
 ethicophysical
+exteriorization
 evident
 ergasterion
 ejaculation
