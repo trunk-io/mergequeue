@@ -2852,7 +2852,6 @@ cantador
 certainties
 cantala
 cantalever
-cantalite
 cantaliver
 cackled
 cantaloup
@@ -28782,6 +28781,7 @@ crescented
 crescentia
 crescentic
 crescentiform
+cantalite
 chinking
 chylifactive
 crescenting
