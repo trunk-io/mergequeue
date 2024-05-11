@@ -2111,6 +2111,7 @@ biflorous
 bannerline
 bannerman
 bannermen
+blawed
 bannerole
 bannerols
 bannet
@@ -10595,7 +10596,6 @@ boundingly
 bereft
 blaunner
 blauwbok
-blawed
 blawing
 blawn
 blaws
