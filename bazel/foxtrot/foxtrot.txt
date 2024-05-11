@@ -4311,6 +4311,7 @@ fishability
 fishback
 fishberry
 forebackwardly
+fixion
 fishberries
 fishboats
 fishbolt
@@ -8462,7 +8463,6 @@ foreguidance
 formfeeds
 forked
 fiddlestring
-fixion
 formful
 formy
 feoffers
