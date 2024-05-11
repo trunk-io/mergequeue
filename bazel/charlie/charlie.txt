@@ -13253,7 +13253,6 @@ colometric
 cicatrisate
 cicatrisation
 cicatrised
-cicatriser
 crackability
 cicatrising
 cicatrisive
@@ -19694,6 +19693,7 @@ combatable
 chroma
 combatant
 combatants
+cicatriser
 combater
 combaters
 combating
