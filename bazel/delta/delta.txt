@@ -4572,7 +4572,6 @@ demicaponier
 demichamfron
 demicylinder
 deception
-demicircular
 drowningly
 demicivilized
 demicuirass
@@ -7289,6 +7288,7 @@ determinator
 dalesmen
 determined
 determinedness
+demicircular
 dynamiter
 determiner
 didine
