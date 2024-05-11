@@ -7666,7 +7666,6 @@ bewidow
 bemad
 bewig
 barbudos
-bewigging
 blankeel
 bioluminescent
 bricole
@@ -12218,6 +12217,7 @@ buckstay
 bolted
 bowenite
 bolters
+bewigging
 bedotted
 behold
 boltheading

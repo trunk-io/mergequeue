@@ -2518,7 +2518,6 @@ enterritoriality
 extravagancies
 elchee
 electronically
-electronics
 enamellers
 electronography
 ecad
@@ -4899,6 +4898,7 @@ endearedness
 entocornea
 endearingness
 excepts
+electronics
 epinglette
 exactive
 ecliptics
