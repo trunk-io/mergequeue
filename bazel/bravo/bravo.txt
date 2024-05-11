@@ -2837,7 +2837,6 @@ bostons
 barotropic
 barouche
 barouchette
-barouni
 baroxyton
 barque
 beebread
@@ -5984,6 +5983,7 @@ bibb
 belongs
 belonid
 belonidae
+barouni
 belonite
 belonoid
 belorussian
