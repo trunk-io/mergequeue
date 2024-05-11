@@ -5122,7 +5122,6 @@ exorate
 endogenicity
 endogenies
 exundation
-endogenous
 essive
 endogenously
 electo
@@ -6830,6 +6829,7 @@ elastic
 exculpated
 entombing
 entombs
+endogenous
 elia
 entomere
 entomic
