@@ -9489,7 +9489,6 @@ attemperate
 alternatively
 alternativeness
 alternatives
-alternativity
 alternativo
 angioblast
 alternator
@@ -16760,6 +16759,7 @@ aglet
 aperitif
 anapestically
 aperitive
+alternativity
 apers
 apersee
 apert

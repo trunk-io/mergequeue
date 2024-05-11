@@ -662,6 +662,7 @@ forereport
 fusser
 familial
 familiarisation
+flipper
 finessing
 familiarise
 fruitfullness
@@ -7985,7 +7986,6 @@ foreskin
 foreskins
 flench
 floss
-flipper
 foreslow
 foresound
 frumpled
