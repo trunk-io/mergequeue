@@ -2590,6 +2590,7 @@ ferryboat
 ferryboats
 familistery
 ferricyanate
+frocklike
 fella
 ferrandin
 furiosity
@@ -3760,7 +3761,6 @@ fizzers
 filmsets
 footling
 filmsetter
-frocklike
 filmsetting
 fussification
 filmslide

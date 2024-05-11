@@ -6640,7 +6640,6 @@ acridane
 ammocetes
 ahull
 ahum
-ahungry
 arboretum
 ahunt
 ahura
@@ -17774,6 +17773,7 @@ appertinent
 appertise
 appestat
 apostlehood
+ahungry
 appestats
 appet
 appete
