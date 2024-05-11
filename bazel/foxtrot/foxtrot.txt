@@ -3310,7 +3310,6 @@ faction
 ferrying
 flabbergastation
 factures
-fidejussionary
 fidejussor
 fortunous
 fabricant
@@ -3478,6 +3477,7 @@ fixture
 figurae
 figurately
 fibreware
+fidejussionary
 firefall
 forepleasure
 fruiterers

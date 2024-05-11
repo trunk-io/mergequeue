@@ -1709,7 +1709,6 @@ accreditable
 accreditate
 annule
 archpresbyter
-accreditations
 accredited
 accreditee
 animal
@@ -14726,6 +14725,7 @@ antiaphrodisiac
 antiboss
 antiapoplectic
 antiapostle
+accreditations
 antiaquatic
 antiar
 antiarcha
