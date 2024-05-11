@@ -3906,7 +3906,6 @@ gierfalcon
 gif
 gradientia
 grievant
-glimed
 giffgaff
 gifola
 gift
@@ -9787,6 +9786,7 @@ guaiacum
 guayaqui
 geb
 gaslight
+glimed
 guaiasanol
 guaycuruan
 guaymie
