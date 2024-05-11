@@ -1100,7 +1100,6 @@ grovelling
 goldsmithing
 galavant
 glochideous
-gompholobium
 ganglioid
 ganglioma
 gangliomas
@@ -3387,6 +3386,7 @@ gossipry
 grubbers
 galianes
 germfree
+gompholobium
 gullion
 gentlewomanlike
 germier
