@@ -15339,6 +15339,7 @@ clairsentience
 clairsentient
 clairvoyance
 clairvoyances
+cuartillo
 clairvoyancy
 clairvoyant
 clairvoyantly
@@ -30430,7 +30431,6 @@ cuarteron
 carfuffled
 cocceian
 cuartilla
-cuartillo
 cuartino
 cuarto
 cub
