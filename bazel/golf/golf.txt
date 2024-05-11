@@ -5194,7 +5194,6 @@ guichet
 glaucescent
 gastrosoph
 glaucidium
-grapnels
 gammer
 glaucin
 gravidness
@@ -5493,6 +5492,7 @@ gender
 gamaliel
 glutenin
 gliosa
+grapnels
 glyoxal
 glyoxalic
 galliwasp
