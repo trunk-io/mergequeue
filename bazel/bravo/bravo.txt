@@ -1117,6 +1117,7 @@ babongo
 brigadiership
 bairagi
 bairam
+bateau
 bairdi
 bairn
 bromius
@@ -3524,7 +3525,6 @@ batching
 bargemen
 batea
 bogging
-bateau
 blastomycetous
 bated
 bucchero
