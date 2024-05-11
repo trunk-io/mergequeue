@@ -1958,7 +1958,6 @@ ghettoizes
 gauche
 gauchely
 gaud
-gnomonology
 gaucho
 germinated
 gauchos
@@ -3605,6 +3604,7 @@ gnetaceae
 gully
 gewgawry
 grinded
+gnomonology
 gazump
 goyazite
 gluttonized
