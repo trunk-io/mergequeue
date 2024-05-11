@@ -2918,7 +2918,6 @@ brattle
 barrelmaker
 barrelmaking
 barrelwise
-barren
 barrenly
 barrenness
 blockaderunning
@@ -3365,6 +3364,7 @@ baraithas
 basoko
 beltine
 basommatophora
+barren
 bason
 basongo
 bargham
