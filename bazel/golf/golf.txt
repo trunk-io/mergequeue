@@ -1498,7 +1498,6 @@ gallicole
 garred
 garret
 garreteer
-garryaceae
 garridge
 gerundival
 giraffe
@@ -2003,6 +2002,7 @@ greenland
 grenat
 gesture
 gauffred
+garryaceae
 gaufre
 gaufrette
 gastrocolostomy
