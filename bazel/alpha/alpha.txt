@@ -3210,7 +3210,6 @@ actinotherapy
 actinotoxemia
 actinotrichium
 actinotrocha
-actinouranium
 actinozoa
 actinozoan
 actinozoon
@@ -24123,6 +24122,7 @@ autoimmunizing
 autoincrement
 autoincrements
 autoindexing
+actinouranium
 autoinductive
 autoinfusion
 admonishment
