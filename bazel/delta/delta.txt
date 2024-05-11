@@ -1482,6 +1482,7 @@ deacetylate
 defraudment
 diagnosticated
 deacetylating
+distillment
 deacetylation
 deacidification
 deacidified
@@ -13853,7 +13854,6 @@ daemonian
 distilleries
 distillers
 dachs
-distillment
 distillmint
 distinct
 distinctify
