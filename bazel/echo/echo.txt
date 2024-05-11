@@ -2301,6 +2301,7 @@ electrochemical
 electrochemistry
 excrete
 electrochronometer
+electrocataphoresis
 equison
 electrochronometric
 electroplating
@@ -7379,7 +7380,6 @@ epenthesize
 epephragmal
 encolumn
 etruria
-electrocataphoresis
 epepophysis
 epergne
 etalon
