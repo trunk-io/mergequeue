@@ -2494,7 +2494,6 @@ candlenut
 candlepins
 candlepower
 chemist
-camelion
 candler
 candlerent
 candlers
@@ -19968,6 +19967,7 @@ carot
 commassee
 commata
 commaterial
+camelion
 cuprosilicon
 commatic
 commation
