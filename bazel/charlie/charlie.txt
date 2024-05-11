@@ -4889,7 +4889,6 @@ carrotins
 carrotweed
 canonization
 carrotwood
-carrousel
 carrousels
 compiles
 carrs
@@ -6998,6 +6997,7 @@ cratometric
 cenobitical
 cenobitically
 cenobitism
+carrousel
 countercultures
 cenogamy
 cenogenesis
