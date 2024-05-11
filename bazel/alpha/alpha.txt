@@ -2851,7 +2851,6 @@ acroamatic
 acroamatical
 abled
 ammonation
-acroamatics
 acroanesthesia
 acroarthritis
 acroasphyxia
@@ -12541,6 +12540,7 @@ anemosis
 accessively
 anemotactic
 anemotaxis
+acroamatics
 anemotropism
 aggregatae
 anencephalia
