@@ -6602,7 +6602,6 @@ enterocolostomy
 enterodynia
 enteroepiplocele
 enterogastrone
-egrimonle
 enterogenous
 effulging
 exacts
@@ -8178,6 +8177,7 @@ episiotomies
 episkeletal
 episode
 episodes
+egrimonle
 episodial
 episodical
 episodically
