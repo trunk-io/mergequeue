@@ -1446,7 +1446,6 @@ bucare
 bight
 balibago
 balibuntal
-balibuntl
 balija
 beakier
 benefitting
@@ -2665,6 +2664,7 @@ branchiate
 barleducs
 barley
 barleybrake
+balibuntl
 barleybreak
 barleycorn
 barleyhood
