@@ -9957,7 +9957,6 @@ chemoses
 chemosynthesis
 chemosynthetic
 chemosis
-chemosmoic
 chemosmoses
 chemosmotic
 calic
@@ -17699,6 +17698,7 @@ cockpits
 couched
 cockroach
 comaking
+chemosmoic
 confraternity
 cockroaches
 cockscombed
