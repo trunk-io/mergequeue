@@ -12419,7 +12419,6 @@ exhalations
 empresse
 exhalents
 exhales
-exhaling
 exhaust
 exhausted
 exhaustedly
@@ -13235,6 +13234,7 @@ explorable
 exploratively
 enragedly
 exfiltration
+exhaling
 explored
 explorement
 enzyme
