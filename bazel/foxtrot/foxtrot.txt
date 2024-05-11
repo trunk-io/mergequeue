@@ -4187,7 +4187,6 @@ firepinks
 fireplace
 fireplow
 farcical
-fleeceable
 fatting
 fireplug
 frieze
@@ -5853,6 +5852,7 @@ floccose
 fluvanna
 flaggers
 failsoft
+fleeceable
 feague
 fangas
 fossick
