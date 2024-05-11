@@ -794,7 +794,6 @@ gombeen
 galvanometers
 gecko
 galvanometric
-geometries
 generously
 genae
 galvanoplasty
@@ -9168,6 +9167,7 @@ gospeler
 grisons
 grisoutine
 grisset
+geometries
 gariba
 grist
 gaspiness
