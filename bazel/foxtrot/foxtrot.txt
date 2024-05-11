@@ -4420,7 +4420,6 @@ flavorings
 fissidentaceous
 festschrift
 fissile
-fissilinguia
 felafel
 footmenfootpad
 furcates
@@ -9149,6 +9148,7 @@ foxly
 frettier
 fraps
 flaith
+fissilinguia
 fuage
 fozy
 frenetics
