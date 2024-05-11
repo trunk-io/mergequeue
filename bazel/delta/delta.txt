@@ -3096,6 +3096,7 @@ dowress
 deeryard
 decarbonized
 deermeat
+dicyclic
 deers
 deerstalkers
 deerstalking
@@ -17886,7 +17887,6 @@ duds
 due
 duecentist
 derbies
-dicyclic
 drepane
 dueled
 duelers
