@@ -263,6 +263,7 @@ foetors
 faden
 fadeout
 fader
+fried
 faders
 fadge
 forra
@@ -850,7 +851,6 @@ flybane
 faddishness
 findings
 fibrinogen
-fried
 foredawn
 fructuary
 freckened
