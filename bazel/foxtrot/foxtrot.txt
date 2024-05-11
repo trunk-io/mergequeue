@@ -3727,7 +3727,6 @@ filmcard
 filmcards
 filmdom
 fluxing
-filmer
 forborn
 fibrocystic
 ferret
@@ -4311,6 +4310,7 @@ fishability
 fishback
 fishberry
 forebackwardly
+filmer
 fishberries
 fishboats
 fishbolt
