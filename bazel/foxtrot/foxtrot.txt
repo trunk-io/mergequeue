@@ -3862,7 +3862,6 @@ foreconsent
 feebleminded
 finance
 fragmentizer
-financer
 finances
 foppishly
 financial
@@ -8406,6 +8405,7 @@ formalizations
 fictitiously
 formalize
 formerness
+financer
 formalized
 formalizer
 foreknowledge
