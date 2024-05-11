@@ -9080,7 +9080,6 @@ denmark
 dictyopteris
 dictyosiphon
 dictyosiphonaceae
-dictyosiphonaceous
 dullhead
 disowned
 dictyota
@@ -18243,6 +18242,7 @@ dungy
 dungier
 darts
 dungiest
+dictyosiphonaceous
 dunging
 dungon
 disapprobative
