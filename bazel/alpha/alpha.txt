@@ -21066,7 +21066,6 @@ archwise
 ascolichenes
 ascomycete
 ascomycetous
-ascon
 ascones
 asconoid
 ascophore
@@ -24502,6 +24501,7 @@ applegrower
 antacids
 auxiliar
 auxiliary
+ascon
 armsize
 agriology
 auxiliaries
