@@ -5077,6 +5077,7 @@ flathead
 flatiron
 froom
 flatirons
+frequented
 flatlands
 flatlets
 floorwalker
@@ -9845,7 +9846,6 @@ frequent
 factored
 frequentage
 fertil
-frequented
 frequenters
 futural
 freakpot
