@@ -4118,7 +4118,6 @@ estancia
 enteromere
 employe
 estado
-eriglossa
 employed
 employee
 endives
@@ -6536,6 +6535,7 @@ enteral
 enteralgia
 enterally
 enterate
+eriglossa
 enterectomy
 enterectomies
 echelons
