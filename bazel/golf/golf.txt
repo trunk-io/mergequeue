@@ -7282,7 +7282,6 @@ gossamery
 gossamers
 glareole
 greetings
-gossep
 globe
 goujay
 gol
@@ -8564,6 +8563,7 @@ greatening
 grandeval
 greatens
 greater
+gossep
 gastrotrichan
 garbages
 granddada

@@ -8669,7 +8669,6 @@ euchroite
 enchondromas
 equipendent
 equiperiodic
-expander
 equipment
 equipoise
 equipollency
@@ -12037,6 +12036,7 @@ exclaims
 exclam
 earthmaking
 enervators
+expander
 epitenon
 everbearer
 event
