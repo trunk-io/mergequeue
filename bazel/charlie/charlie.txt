@@ -3591,7 +3591,6 @@ carabus
 caracal
 caracara
 carack
-caracks
 caracoa
 caracol
 caracoled
@@ -17067,6 +17066,7 @@ coacting
 constituently
 coaction
 coactive
+caracks
 coactively
 coactivity
 coacts
