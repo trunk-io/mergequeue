@@ -6003,6 +6003,7 @@ flora
 floral
 floramour
 floras
+forbare
 floreal
 furnaced
 forced
@@ -7375,7 +7376,6 @@ frivolized
 fie
 forbade
 flushing
-forbare
 forbarred
 forbathe
 forbborne
