@@ -817,7 +817,6 @@ bael
 baeria
 bliny
 bluecaps
-bonier
 baetyl
 blautok
 baetulus
@@ -1450,6 +1449,7 @@ baline
 bugler
 balinese
 balinger
+bonier
 balinghasay
 balistarii
 balister

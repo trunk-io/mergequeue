@@ -5610,7 +5610,6 @@ depend
 dependability
 dependabilities
 dependableness
-dependably
 dependance
 dependant
 dependantly
@@ -13492,6 +13491,7 @@ disscepter
 drumbeater
 dissceptered
 deplethoric
+dependably
 deferentially
 dissceptre
 doat
