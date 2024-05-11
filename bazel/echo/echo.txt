@@ -3980,7 +3980,6 @@ euphoniousness
 exhilaratory
 empanel
 expoundable
-empaneled
 evolvers
 empaneling
 empanelling
@@ -8886,6 +8885,7 @@ erethic
 expressively
 erethisia
 evolvement
+empaneled
 erethism
 eponymism
 erethisms

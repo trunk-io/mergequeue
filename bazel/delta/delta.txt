@@ -578,7 +578,6 @@ damassin
 devast
 droiture
 damboard
-dambonite
 dambonitol
 dambose
 derived
@@ -9401,6 +9400,7 @@ dejunkerize
 diffusions
 diffusive
 diffusors
+dambonite
 difluoride
 diner
 dipaschal
