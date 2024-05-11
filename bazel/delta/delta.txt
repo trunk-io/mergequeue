@@ -79,7 +79,6 @@ darndests
 dactylioglyph
 dacoiting
 dactylioglyphist
-dactyliography
 demissly
 depressibility
 debilitating
@@ -4645,6 +4644,7 @@ demiman
 demimark
 dali
 demimentoniere
+dactyliography
 demimetope
 detax
 demimillionaire

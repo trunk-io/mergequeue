@@ -2859,7 +2859,6 @@ acroarthritis
 acroasphyxia
 apophthegm
 acroatic
-acrobacy
 amnion
 acrobacies
 amorphophyte
@@ -11685,6 +11684,7 @@ anagnorises
 anagnorisis
 aesculapian
 anagoge
+acrobacy
 accurtation
 anagoges
 anagogy
