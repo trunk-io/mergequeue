@@ -661,7 +661,6 @@ fameworthy
 forereport
 fusser
 familial
-familiarisation
 finessing
 familiarise
 fruitfullness
@@ -5360,6 +5359,7 @@ filterable
 fling
 fleecing
 fleerer
+familiarisation
 fireclay
 fleering
 foraged
