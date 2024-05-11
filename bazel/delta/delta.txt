@@ -3284,7 +3284,6 @@ deferents
 dudder
 deferrable
 deferred
-deferrer
 deferrers
 diphthongia
 deferrize
@@ -4761,6 +4760,7 @@ demythologization
 demythologizations
 diplomatize
 demythologizer
+deferrer
 dees
 demitint
 demitoilet
