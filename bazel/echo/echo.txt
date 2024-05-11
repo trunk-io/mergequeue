@@ -2661,7 +2661,6 @@ electrothermotic
 exogastritis
 electrotype
 entosphenoid
-electrotyped
 electrotypy
 endiablee
 escarmouche
@@ -6811,6 +6810,7 @@ emotionality
 enwombing
 epulones
 entoglossal
+electrotyped
 embonpoint
 entoil
 entoils
