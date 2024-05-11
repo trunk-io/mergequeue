@@ -6621,6 +6621,7 @@ bequests
 ber
 beray
 berain
+boatmaster
 bakepan
 berairou
 blackheartedness
@@ -11617,7 +11618,6 @@ boatman
 beigy
 beclown
 boatmanship
-boatmaster
 boatmen
 boatowner
 boats
