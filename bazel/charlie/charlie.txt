@@ -3703,7 +3703,6 @@ caravaner
 caravanned
 chetty
 caravanner
-caravans
 caravansary
 corticopeduncular
 caravansaries
@@ -25397,6 +25396,7 @@ cornfed
 cornfields
 cornflag
 countersiege
+caravans
 cornflakes
 cornflour
 cornflower
