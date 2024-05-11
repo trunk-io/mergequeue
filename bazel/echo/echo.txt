@@ -5338,7 +5338,6 @@ endothermy
 endothermic
 endothia
 endothoracic
-escribiente
 evangelium
 envisioned
 endotys
@@ -11319,6 +11318,7 @@ extracts
 eonisms
 evangels
 esselen
+escribiente
 evaniidae
 eavesdrops
 expirable
