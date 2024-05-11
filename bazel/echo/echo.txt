@@ -8278,7 +8278,6 @@ epitaxic
 epitaxies
 epitaxis
 egma
-endognathal
 eyelashes
 executory
 enlife
@@ -13510,6 +13509,7 @@ enterotoxin
 exsiccator
 embowment
 exsolve
+endognathal
 epipodiale
 exsolving
 elegancies
