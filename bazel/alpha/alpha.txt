@@ -6590,7 +6590,6 @@ ahamkara
 anthobiology
 antienthusiasm
 ahankara
-ahantchuyuk
 ahartalav
 ahaunch
 ahead
@@ -23535,6 +23534,7 @@ aurate
 aurated
 aureal
 aureate
+ahantchuyuk
 aureately
 aureity
 axels
