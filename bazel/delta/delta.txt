@@ -61,7 +61,6 @@ dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
 dacryolithiasis
-dacryopyosis
 desmoma
 dizygotic
 dacryops
@@ -4886,6 +4885,7 @@ diabantite
 demology
 dialkylic
 demon
+dacryopyosis
 democratically
 demoness
 dyspepsia
