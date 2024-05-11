@@ -5985,7 +5985,6 @@ agents
 ageometrical
 ager
 ageratums
-agers
 ages
 agete
 allthorn
@@ -8519,6 +8518,7 @@ alkalizer
 alkalizes
 alkalizing
 alkaloid
+agers
 alkaloids
 alkalometry
 alkalosis
