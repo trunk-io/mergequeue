@@ -11644,7 +11644,6 @@ biotomy
 backmost
 bobadilian
 broadbill
-bindles
 bobbejaan
 benthon
 bobber
@@ -15221,6 +15220,7 @@ bridgeless
 bridgemaking
 bridgemaster
 bacterization
+bindles
 bionic
 bridgeport
 bridgepot
