@@ -20264,7 +20264,6 @@ commonweals
 commonwealths
 commorancy
 commorancies
-curviform
 commorient
 commorse
 commorth
@@ -21468,6 +21467,7 @@ concomitant
 concomitantly
 concomitate
 concommitant
+curviform
 concommitantly
 conconscious
 concordable
