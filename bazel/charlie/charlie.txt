@@ -1995,7 +1995,6 @@ camorra
 commandants
 camorras
 camorrism
-camorrist
 camorrista
 camorristi
 cruelize
@@ -27503,6 +27502,7 @@ covary
 chelicerae
 curtailer
 covariable
+camorrist
 covariables
 cheongsam
 coal
