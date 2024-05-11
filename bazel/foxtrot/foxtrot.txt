@@ -3745,6 +3745,7 @@ filming
 flannelling
 filmish
 filmize
+furl
 filmized
 filmland
 filmlands
@@ -7809,7 +7810,6 @@ foremost
 foremostly
 foremother
 forename
-furl
 finning
 fogging
 formosan
