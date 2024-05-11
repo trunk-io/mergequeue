@@ -6181,7 +6181,6 @@ enplane
 ecorticate
 enplaned
 extraphysiological
-enquarter
 enqueue
 entered
 enqueued
@@ -7925,6 +7924,7 @@ epilogued
 episcoparian
 epilogues
 epiloguize
+enquarter
 epiloia
 ergusia
 encephalogram
