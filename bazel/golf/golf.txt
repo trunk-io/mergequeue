@@ -4587,7 +4587,6 @@ gait
 girasole
 gypsoplast
 grandparent
-gypster
 gypsuming
 gammadion
 giraffesque
@@ -8746,6 +8745,7 @@ gelatinochloride
 gunslinger
 gregale
 gobiidae
+gypster
 guileless
 graduals
 gametophyll
