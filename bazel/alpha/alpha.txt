@@ -11925,7 +11925,6 @@ anaphoria
 acron
 anthropozoic
 ampelite
-anaphorical
 anaphrodisiac
 anaphroditic
 anaplasia
@@ -19502,6 +19501,7 @@ argentinidae
 argentino
 argention
 argentol
+anaphorical
 argentometer
 antillean
 argentometry

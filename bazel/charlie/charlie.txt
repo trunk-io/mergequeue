@@ -20,6 +20,7 @@ cabalism
 cabalisms
 castratory
 crewelwork
+crystal
 cabalist
 cabalistic
 cabalistical
@@ -7904,7 +7905,6 @@ cervicofacial
 cervicolabial
 cervicolingual
 cervicolumbar
-crystal
 cervicomuscular
 cerviconasal
 cribrous
