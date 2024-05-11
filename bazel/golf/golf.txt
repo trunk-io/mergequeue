@@ -809,7 +809,6 @@ glycuresis
 gossipers
 gulfs
 gibbers
-gummaker
 groupings
 gladly
 gam
@@ -6683,6 +6682,7 @@ gonadal
 galvanizer
 gastroxynsis
 gimp
+gummaker
 ghostwrite
 gluconeogenetic
 gonadotrope
