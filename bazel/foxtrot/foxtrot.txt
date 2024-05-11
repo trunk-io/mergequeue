@@ -4153,6 +4153,7 @@ fetus
 firedamps
 firedragon
 firedrake
+forget
 frayn
 foreprise
 florican
@@ -8963,7 +8964,6 @@ fetters
 foundering
 foundership
 foundling
-forget
 finochios
 foundlings
 foundress
