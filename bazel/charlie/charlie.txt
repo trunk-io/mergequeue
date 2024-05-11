@@ -7447,6 +7447,7 @@ cephalophine
 cephalophus
 cephaloplegia
 cervisia
+calorics
 cryoprobe
 cephaloplegic
 clarisse
@@ -25198,7 +25199,6 @@ corybulbin
 cornels
 corybulbine
 corycavidin
-calorics
 corycavidine
 corycavine
 corydalin
