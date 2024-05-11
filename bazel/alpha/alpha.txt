@@ -3854,7 +3854,6 @@ alberta
 adhort
 ady
 adiabat
-assistency
 adiadochokinesia
 adiadochokinesis
 adiadokokinesi
@@ -7145,6 +7144,7 @@ akerite
 aketon
 akha
 akhara
+assistency
 akhyana
 astrild
 anecdotalist
