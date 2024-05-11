@@ -6338,6 +6338,7 @@ disseminating
 dermestidae
 dynodes
 dermic
+digitise
 dermis
 dermises
 dryopteris
@@ -13715,7 +13716,6 @@ dissolvent
 dissolves
 dreamboat
 desugaring
-digitise
 damndests
 dissolver
 diabetogenous
