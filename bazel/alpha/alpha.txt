@@ -15257,7 +15257,6 @@ antiexpressiveness
 antepredicament
 antiextreme
 antiface
-antifaction
 antifame
 antifanatic
 autoinhibited
@@ -20294,6 +20293,7 @@ arricciato
 arriccios
 arride
 applicator
+antifaction
 arrided
 arridge
 areroscope
