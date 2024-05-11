@@ -29900,6 +29900,7 @@ cymas
 crosslink
 crossness
 crossopodia
+culicifuge
 crossopt
 crossopterygii
 crossosoma
@@ -30729,7 +30730,6 @@ culices
 culiciform
 cramble
 culicifugal
-culicifuge
 choragium
 culicinae
 culicine
