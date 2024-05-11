@@ -2669,6 +2669,7 @@ barleybrake
 barleybreak
 barleycorn
 barleyhood
+barricaded
 biologese
 basidiophore
 bimensal
@@ -2939,7 +2940,6 @@ boundaries
 barretter
 boobishness
 barricade
-barricaded
 baryes
 barricader
 barricaders

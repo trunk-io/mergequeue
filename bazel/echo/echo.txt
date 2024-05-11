@@ -6639,6 +6639,7 @@ enterology
 enterologic
 enteromegaly
 eaved
+exceptant
 enteromegalia
 enteroneuritis
 ewelease
@@ -6702,7 +6703,6 @@ entertained
 entertainer
 emotionalization
 entertaining
-exceptant
 entertainingly
 entertainingness
 entertainment
