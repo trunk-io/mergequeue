@@ -15242,7 +15242,6 @@ cladine
 cladistic
 cladocarpous
 cladocera
-collenchyma
 cladoceran
 cladocerans
 cladocerous
@@ -24611,6 +24610,7 @@ copycutter
 ctenacanthus
 copydesk
 copied
+collenchyma
 copier
 copiers
 cerebrogalactose
