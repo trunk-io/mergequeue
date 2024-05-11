@@ -3152,7 +3152,6 @@ eltrot
 eluant
 episcleritis
 enterophthisis
-eluating
 enteritis
 exchangeably
 elucidate
@@ -5290,6 +5289,7 @@ exploitative
 equipments
 endostylic
 excarnate
+eluating
 endostoma
 explicators
 endostosis
