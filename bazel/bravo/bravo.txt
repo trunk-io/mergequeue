@@ -5236,7 +5236,6 @@ befurred
 bohemias
 beg
 begabled
-begad
 bedders
 boskopoid
 begay
@@ -8800,6 +8799,7 @@ bimetallism
 bimetallist
 bimetallistic
 betoss
+begad
 bimetals
 bioresearch
 bullring
