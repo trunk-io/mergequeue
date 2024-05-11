@@ -7598,6 +7598,7 @@ cercarias
 cercariform
 cerci
 cercidiphyllaceae
+cephalorachidian
 cercises
 cercocebus
 cercolabes
@@ -11238,7 +11239,6 @@ chloasma
 chloe
 chlor
 congenitalness
-cephalorachidian
 chloracetate
 chloracne
 chloraemia
