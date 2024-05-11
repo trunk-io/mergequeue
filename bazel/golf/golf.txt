@@ -2719,6 +2719,7 @@ gyn
 genethliacon
 geomorphist
 gneissoid
+gyrolite
 galleriies
 gasterophilus
 guinea
@@ -8422,7 +8423,6 @@ gravelled
 gravelly
 geoglyphic
 ginglymus
-gyrolite
 gravelliness
 gravelling
 giambeux
