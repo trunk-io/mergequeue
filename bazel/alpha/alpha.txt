@@ -13424,7 +13424,6 @@ ankyloglossia
 allergia
 ankylophobia
 arteriostosis
-abbr
 ankylopodia
 ankyloproctia
 ankylos
@@ -20231,6 +20230,7 @@ arrantness
 arras
 alyssum
 arrasene
+abbr
 arrases
 arrastra
 arrastre
