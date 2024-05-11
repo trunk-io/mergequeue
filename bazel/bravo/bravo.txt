@@ -3995,7 +3995,6 @@ birdmouthed
 brittlewood
 beaches
 beachhead
-behavers
 beachheads
 brand
 bnf
@@ -9046,6 +9045,7 @@ bossisms
 biographic
 bepreach
 bankweed
+behavers
 biographies
 bracingness
 bookkeeping
