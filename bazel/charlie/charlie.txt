@@ -27994,7 +27994,6 @@ craftless
 craftly
 crafts
 craftsman
-craftsmanly
 charactonym
 craftsmanlike
 craftsmanship
@@ -31411,6 +31410,7 @@ curnies
 chromatophorous
 curns
 cerebellar
+craftsmanly
 curpel
 curpin
 curple
