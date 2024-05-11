@@ -2718,7 +2718,6 @@ decontaminated
 decontaminates
 decontaminating
 diatessaron
-decontaminations
 decontaminator
 decontaminators
 decontrol
@@ -6965,6 +6964,7 @@ despiting
 despoil
 despoiled
 despoiler
+decontaminations
 despoilers
 degame
 discreditably
