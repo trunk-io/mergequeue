@@ -8829,7 +8829,6 @@ bruisers
 bimucronate
 barycentre
 bimuscular
-binal
 bugologist
 byname
 binaphthyl
@@ -11996,6 +11995,7 @@ barbarians
 boycotts
 boid
 boyd
+binal
 boydekyn
 boydom
 boyer
