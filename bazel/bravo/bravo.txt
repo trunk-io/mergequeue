@@ -10911,6 +10911,7 @@ brede
 blindweed
 blindworm
 blackamoor
+burrheadedness
 beetler
 blackbeetle
 blinis
@@ -17841,7 +17842,6 @@ burrfish
 burrgrailer
 burrhead
 burrheaded
-burrheadedness
 burriest
 bounce
 burring
