@@ -10288,6 +10288,7 @@ counterformula
 chiasmic
 chiasmodontid
 chiasms
+complicatedly
 chiasmus
 chiastic
 curacao
@@ -20744,7 +20745,6 @@ complicacy
 complicant
 complicate
 complicated
-complicatedly
 complicatedness
 complicates
 complication
