@@ -1534,7 +1534,6 @@ bulbiform
 bouton
 backsword
 butomus
-ballaster
 ballastic
 ballasting
 baste
@@ -13054,6 +13053,7 @@ bornite
 bornites
 bornitic
 boro
+ballaster
 borocaine
 bimbo
 borofluohydric
