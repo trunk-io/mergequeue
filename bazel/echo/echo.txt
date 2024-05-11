@@ -5206,7 +5206,6 @@ endopterygota
 endopterygote
 endoradiosonde
 eupathy
-epedaphic
 embrake
 enkindling
 evened
@@ -7014,6 +7013,7 @@ expressivity
 entryman
 entrymen
 entryway
+epedaphic
 enactory
 entrochite
 eutectoid
