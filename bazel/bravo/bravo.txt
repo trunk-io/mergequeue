@@ -2351,6 +2351,7 @@ blameably
 baobab
 bears
 barbettes
+bilaterality
 barbican
 barbicanage
 bathyscape
@@ -8528,7 +8529,6 @@ bilander
 becolor
 bilateral
 bilateralism
-bilaterality
 bilateralities
 behaviors
 betangle
