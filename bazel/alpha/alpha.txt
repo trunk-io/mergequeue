@@ -2314,6 +2314,7 @@ achromatisation
 acrestaff
 achromatising
 achromatizable
+appraising
 achromatization
 achromatize
 achromatizing
@@ -17956,7 +17957,6 @@ appraisement
 appraiser
 amelioratively
 appraises
-appraising
 abacate
 anabranch
 appraisive

@@ -1910,6 +1910,7 @@ gatecrasher
 gatecrashers
 gatefold
 granat
+gnawings
 grapefruits
 gatehouse
 graine
@@ -6201,7 +6202,6 @@ grume
 gablock
 gonococcoid
 genitives
-gnawings
 gloriette
 gnaws
 gneiss
