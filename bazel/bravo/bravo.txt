@@ -4181,6 +4181,7 @@ bras
 bearhound
 broozled
 bearess
+brankursine
 bearfoots
 bearherd
 bearhug
@@ -14511,7 +14512,6 @@ brank
 berkshire
 brankie
 branks
-brankursine
 branles
 branner
 blench
