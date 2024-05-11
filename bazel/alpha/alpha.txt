@@ -492,7 +492,6 @@ amphineurous
 anisocoria
 abjuration
 abjurations
-abjuratory
 abjured
 abjurement
 abjurer
@@ -21090,6 +21089,7 @@ ascosporic
 ascosporous
 arkoses
 ascothoracica
+abjuratory
 ascots
 ascribable
 ascribe
