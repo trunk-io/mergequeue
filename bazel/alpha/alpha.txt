@@ -13059,6 +13059,7 @@ anhyd
 anhydraemia
 anhydraemic
 antikinase
+apneumonous
 anhydrate
 anhydrated
 anhydrating
@@ -17115,7 +17116,6 @@ aplustria
 apnea
 apneic
 apneumona
-apneumonous
 apneusis
 anthropophagously
 apneustic
