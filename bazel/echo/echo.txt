@@ -3830,6 +3830,7 @@ emf
 emforth
 emic
 eudendrium
+endognathal
 emication
 emyde
 emydea
@@ -8276,7 +8277,6 @@ epitaxic
 epitaxies
 epitaxis
 egma
-endognathal
 eyelashes
 executory
 enlife
