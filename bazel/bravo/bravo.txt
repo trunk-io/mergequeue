@@ -4605,7 +4605,6 @@ basecoat
 bedaggle
 beday
 bedamned
-bedamning
 bedamp
 benzylpenicillin
 bituberculated
@@ -15041,6 +15040,7 @@ beholding
 bestirring
 besmearer
 breviloquent
+bedamning
 bedflower
 breviradiate
 brevirostral

@@ -3207,7 +3207,6 @@ gellant
 geoscopy
 gelasian
 gambeering
-geoscopic
 geoselenic
 geosid
 geosphere
@@ -8712,6 +8711,7 @@ greensickness
 greenskeeper
 greenstick
 greenstone
+geoscopic
 gauntree
 guran
 greensward
