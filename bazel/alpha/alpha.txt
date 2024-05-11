@@ -22280,6 +22280,7 @@ astrodynamics
 avilion
 antilia
 astrodome
+avoidably
 astrofel
 astrofell
 astrogated
@@ -24821,7 +24822,6 @@ avogram
 apolitical
 avoid
 avoidable
-avoidably
 avoidance
 aimfully
 avoidances
