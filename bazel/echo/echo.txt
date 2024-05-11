@@ -1661,6 +1661,7 @@ eydent
 excommunications
 eider
 ectomorphism
+erasability
 eiders
 eidograph
 eidola
@@ -8792,7 +8793,6 @@ elev
 eranist
 enterozoan
 eranthemum
-erasability
 erasable
 erased
 epiploic
