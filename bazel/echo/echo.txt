@@ -3307,7 +3307,6 @@ empathize
 enatant
 embalmed
 envelopes
-eriophyidae
 encyclopaedial
 embalmers
 eradicators
@@ -6844,6 +6843,7 @@ effray
 extraterritorial
 exocentric
 entomological
+eriophyidae
 entomologically
 entomologies
 entomologised
