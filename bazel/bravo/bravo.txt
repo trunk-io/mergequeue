@@ -6256,6 +6256,7 @@ benefices
 beshrew
 bluebonnet
 beneficiaire
+bolts
 blacker
 beneficial
 beneficialness
@@ -12234,7 +12235,6 @@ boltonite
 boltrope
 bittern
 boltropes
-bolts
 beguilers
 boltsmith
 beakful
