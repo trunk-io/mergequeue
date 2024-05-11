@@ -19192,6 +19192,7 @@ archrobber
 archrogue
 archruler
 archsacrificer
+ascicidia
 archsaint
 arachnophagous
 archsatrap
@@ -21012,7 +21013,6 @@ acclivity
 asci
 ascian
 ascians
-ascicidia
 ascidiacea
 amalings
 antiperistatically
