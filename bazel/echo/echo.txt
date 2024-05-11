@@ -10232,7 +10232,6 @@ enumerators
 eurhodine
 electrotonize
 etherialised
-expressor
 exhausts
 etherialising
 escamoteur
@@ -12728,6 +12727,7 @@ exophthalmus
 exoplasm
 exopod
 exopodite
+expressor
 exopterygote
 exopterygotism
 excitative
