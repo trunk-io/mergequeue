@@ -5963,7 +5963,6 @@ floweret
 featherbedding
 floorcloths
 floored
-foreclosable
 fluidizing
 facks
 floors
@@ -9435,6 +9434,7 @@ floatiest
 frostbiting
 fleecier
 frankfurters
+foreclosable
 frankify
 flexo
 fangotherapy
