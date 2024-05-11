@@ -1081,6 +1081,7 @@ ganglia
 gargoyled
 gansel
 gybed
+guck
 guvacoline
 gangliectomy
 gangliest
@@ -4835,7 +4836,6 @@ gaupus
 grovelers
 gytrash
 greenwood
-guck
 gadling
 gitter
 ganocephalan
