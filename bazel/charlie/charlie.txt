@@ -3350,7 +3350,6 @@ capping
 cappings
 capple
 cappuccino
-chandu
 capra
 cupping
 caprate
@@ -13570,6 +13569,7 @@ courb
 cyesis
 cif
 camerawork
+chandu
 cig
 cigar
 cigaret
