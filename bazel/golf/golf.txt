@@ -5627,7 +5627,6 @@ globousness
 gamble
 georgical
 globular
-glossolabial
 gonidia
 gconvert
 glare
@@ -8356,6 +8355,7 @@ glauconitization
 gratulated
 gratulation
 graunt
+glossolabial
 graupel
 gravitations
 gipsylike

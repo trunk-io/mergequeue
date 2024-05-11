@@ -1916,7 +1916,6 @@ bandlimits
 bandmaster
 bandmasters
 bando
-bandobust
 bandog
 bandanas
 bandogs
@@ -12487,6 +12486,7 @@ bonhomous
 bradyteleokinesis
 bonhomously
 boni
+bandobust
 bony
 burtonize
 boniata
