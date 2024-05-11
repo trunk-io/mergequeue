@@ -441,7 +441,6 @@ galcha
 growl
 greyskin
 galea
-galeage
 glucuronide
 galeass
 goliard
@@ -5654,6 +5653,7 @@ globule
 giddyish
 gtd
 gestio
+galeage
 girsh
 geophysical
 generality
