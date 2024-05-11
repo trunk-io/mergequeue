@@ -930,7 +930,6 @@ forswear
 faradisation
 faradise
 fiddlebrained
-faq
 faradised
 frets
 faradisms
@@ -6590,6 +6589,7 @@ fluxes
 fossicking
 fluxgraph
 fob
+faq
 feaked
 fascisticize
 frack
