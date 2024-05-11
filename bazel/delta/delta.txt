@@ -1194,7 +1194,6 @@ datasetname
 datasets
 dictums
 datatype
-datatypes
 datcha
 dynamometry
 dragooner
@@ -9698,6 +9697,7 @@ deerhorn
 dilaters
 dilates
 descender
+datatypes
 dilatingly
 dilation
 decolourization
