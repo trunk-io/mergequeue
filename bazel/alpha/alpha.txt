@@ -5589,7 +5589,6 @@ actinophone
 afterbeat
 afterbirth
 achronical
-afterblow
 afterbody
 afterbodies
 amyloids
@@ -13065,6 +13064,7 @@ anhydration
 anicular
 anhydride
 aslop
+afterblow
 anhydridization
 asocial
 anhydridize
