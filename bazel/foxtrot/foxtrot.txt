@@ -2043,7 +2043,6 @@ feijoa
 fourpounder
 feil
 frontspiece
-filacer
 feinter
 feudary
 facedown
@@ -2554,6 +2553,7 @@ ferrary
 formulistic
 fuzzily
 fencer
+filacer
 faldworth
 freeholds
 footsore

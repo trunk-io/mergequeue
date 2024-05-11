@@ -14,7 +14,6 @@ estocs
 evaporometer
 evansite
 ead
-eadi
 excoriator
 earthmove
 eadios
@@ -12318,6 +12317,7 @@ echoes
 exemplarity
 exemplars
 exempli
+eadi
 ectotheca
 embodier
 efferent
