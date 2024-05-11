@@ -1172,7 +1172,6 @@ bajocco
 bajochi
 bajoire
 bread
-bajonado
 bajra
 beltmen
 brakehand
@@ -13609,6 +13608,7 @@ bant
 bourg
 befoolable
 bourgade
+bajonado
 bonailie
 bourgeois
 bourgeoisie
