@@ -11491,7 +11491,6 @@ ectogenesis
 endover
 eveweed
 evg
-epenthetic
 evocated
 eradiating
 elasticizes
@@ -13522,6 +13521,7 @@ eupractic
 exstemporaneous
 exstill
 exstipulate
+epenthetic
 exstrophy
 exsuction
 ebeneous

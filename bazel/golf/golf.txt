@@ -4900,7 +4900,6 @@ gl
 galvanise
 graspable
 graftdom
-glaciable
 gatelike
 gunless
 globalized
@@ -5455,6 +5454,7 @@ grando
 glides
 groomishly
 governably
+glaciable
 gliding
 guiltless
 galany
