@@ -372,7 +372,6 @@ ferrymen
 fearer
 filicauline
 filator
-faintness
 faints
 feltings
 fruits
@@ -2971,6 +2970,7 @@ furcation
 foreshows
 feuillants
 feuilleton
+faintness
 feuilletons
 fleches
 flapcake
