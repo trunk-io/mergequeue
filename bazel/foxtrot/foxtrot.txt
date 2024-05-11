@@ -4590,6 +4590,7 @@ fivepence
 forages
 fm
 fivesome
+flankard
 fivestones
 foliums
 frenuna
@@ -4945,7 +4946,6 @@ fillowite
 flowerbed
 foe
 flagella
-flankard
 flanked
 flickery
 flanker
