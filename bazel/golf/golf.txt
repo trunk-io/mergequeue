@@ -2337,7 +2337,6 @@ guavina
 gorgoneia
 glunched
 giust
-geira
 gonofs
 geisa
 geisenheimer
@@ -9145,6 +9144,7 @@ gryllotalpa
 gangway
 gripsack
 gripsacks
+geira
 gript
 glom
 geochronic
