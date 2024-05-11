@@ -1554,7 +1554,6 @@ ensconces
 egypt
 egyptianism
 ecoles
-egyptize
 echinate
 egyptologer
 extraversion
@@ -1592,6 +1591,7 @@ entrenchments
 egoist
 egoistical
 egoistically
+egyptize
 egoisticalness
 embay
 eyewitnesses
