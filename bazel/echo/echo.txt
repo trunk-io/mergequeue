@@ -8587,6 +8587,7 @@ encompassing
 equiconvex
 egrets
 equicurve
+etiologist
 equid
 equidiagonal
 equidifferent
@@ -10519,7 +10520,6 @@ etiolize
 etiology
 etiological
 endrumpf
-etiologist
 emetology
 etiologue
 etiophyllin
