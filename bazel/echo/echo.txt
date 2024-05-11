@@ -2455,7 +2455,6 @@ electrolysing
 eparcuale
 encushion
 electrolyte
-electrolithotrity
 epitomisation
 exoskeleton
 excerebrate
@@ -7224,6 +7223,7 @@ entamebae
 eluviated
 executrix
 eolation
+electrolithotrity
 eole
 eolian
 eolipile
