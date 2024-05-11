@@ -3178,7 +3178,6 @@ basically
 basicerite
 basichromatin
 buffi
-basichromatinic
 babai
 basichromiole
 basicity
@@ -3756,6 +3755,7 @@ battycake
 battier
 batties
 battik
+basichromatinic
 batting
 battings
 battledores
