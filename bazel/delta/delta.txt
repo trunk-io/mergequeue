@@ -3968,7 +3968,6 @@ delactation
 delayable
 demes
 delayer
-delayers
 delayful
 delaine
 delays
@@ -11003,6 +11002,7 @@ disalike
 disally
 deplumed
 disalliege
+delayers
 disallow
 disallowance
 disvalue

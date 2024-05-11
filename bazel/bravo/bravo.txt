@@ -2348,6 +2348,7 @@ bears
 barbettes
 barbican
 barbicanage
+blade
 bathyscape
 barbicel
 barbicels
@@ -10285,7 +10286,6 @@ bairnliest
 bladderwort
 blading
 bladderwrack
-blade
 brite
 bladebone
 bladelike
