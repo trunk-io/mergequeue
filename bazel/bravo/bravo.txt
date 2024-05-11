@@ -1360,7 +1360,6 @@ baldacchino
 bywords
 bacule
 baldachin
-baldachined
 brushfires
 bristliest
 bounderishly
@@ -15694,6 +15693,7 @@ broggerite
 brogue
 basiparachromatin
 broguer
+baldachined
 blessedly
 brogueries
 boraces
