@@ -57,7 +57,6 @@ drengh
 dacryocystitis
 dacryocystoblennorrhea
 diarchial
-dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
 dacryolithiasis
@@ -1666,6 +1665,7 @@ dear
 docksides
 dearborn
 damndest
+dacryocystoptosis
 dumortierite
 dearest
 deary
