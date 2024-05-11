@@ -2612,7 +2612,6 @@ equiangularity
 electrosynthetically
 elucidative
 envenoms
-electrosmosis
 electrostatic
 electrostatical
 exegetist
@@ -9316,6 +9315,7 @@ epigenous
 errants
 elayl
 erratas
+electrosmosis
 erratic
 erratical
 erratically
