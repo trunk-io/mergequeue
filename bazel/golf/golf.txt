@@ -31,6 +31,7 @@ gabbler
 gabblers
 glamourize
 gabbling
+gnus
 grittiness
 gabbro
 gabbroid
@@ -6261,7 +6262,6 @@ gnotobiotically
 gnow
 gns
 gatefolds
-gnus
 go
 goa
 grammar
