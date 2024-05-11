@@ -1346,7 +1346,6 @@ grallina
 gospellike
 garde
 gnatsnapper
-gable
 gnosticism
 gardeners
 glauconite
@@ -9055,6 +9054,7 @@ gainstand
 grimsir
 grimsire
 grin
+gable
 germination
 grinch
 geoid

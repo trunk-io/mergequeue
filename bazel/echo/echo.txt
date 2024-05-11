@@ -5260,7 +5260,6 @@ epipodia
 endoskeletons
 endosmic
 endosmometric
-equipments
 endocrinologic
 eyr
 evaders
@@ -5290,6 +5289,7 @@ endosteomas
 endosteomata
 endosteum
 exploitative
+equipments
 endostylic
 excarnate
 endostoma
