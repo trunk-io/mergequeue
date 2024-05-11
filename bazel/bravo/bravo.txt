@@ -765,7 +765,6 @@ badgerlike
 bending
 badgers
 badgerweed
-badges
 badging
 badgir
 badhan
@@ -9550,6 +9549,7 @@ barracks
 bartizaned
 blotching
 birthday
+badges
 birthed
 biflecnode
 birthing
