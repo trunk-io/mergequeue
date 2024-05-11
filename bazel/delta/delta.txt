@@ -3218,7 +3218,6 @@ declaratives
 defectlessness
 defector
 defectors
-duplicating
 despaired
 defectoscope
 defectum
@@ -4355,6 +4354,7 @@ dowsabels
 deluging
 dikaryophase
 delumbate
+duplicating
 delusional
 decoagulated
 delusionary
