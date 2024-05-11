@@ -2787,7 +2787,6 @@ anticyclonic
 acridid
 acrididae
 acridiidae
-acridyl
 acridin
 acridine
 acridines
@@ -17454,6 +17453,7 @@ apostasis
 appreciatively
 archineuron
 auguste
+acridyl
 actors
 autocollimator
 antiforeign
