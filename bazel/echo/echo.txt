@@ -3398,7 +3398,6 @@ emberizinae
 emberizine
 embers
 embetter
-elaphe
 enate
 epees
 elaeothesium
@@ -14121,6 +14120,7 @@ extinction
 estrone
 excussion
 extrude
+elaphe
 extruded
 extruder
 epithelioceptor
