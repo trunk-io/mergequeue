@@ -21932,7 +21932,6 @@ coelomopore
 cornfield
 confessedly
 confesser
-confesses
 confessing
 confessingly
 confessional
@@ -25663,6 +25662,7 @@ crankier
 corporeous
 corporify
 corporification
+confesses
 corporosity
 corposant
 corps
