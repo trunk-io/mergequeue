@@ -5319,7 +5319,6 @@ glent
 gammelost
 glauconitic
 gangly
-glowerer
 guitarfish
 grahamite
 gliadine
@@ -6403,6 +6402,7 @@ generalize
 gruneritization
 grubstaker
 gibblegable
+glowerer
 guarantorship
 geographic
 goblins
