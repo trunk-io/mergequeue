@@ -3565,7 +3565,6 @@ fatimid
 filchingly
 furfur
 filecard
-filechar
 filed
 fogie
 fixations
@@ -8544,6 +8543,7 @@ formulist
 fream
 fanlike
 formulized
+filechar
 famulus
 fred
 frenchwise
