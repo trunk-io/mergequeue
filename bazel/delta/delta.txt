@@ -8700,7 +8700,6 @@ dyaster
 depolarizing
 diastereoisomerism
 diastereomer
-diastyle
 dytiscidae
 diapers
 dismayed
@@ -16807,6 +16806,7 @@ drawability
 diarrhoeic
 deceptiously
 disorganized
+diastyle
 drawarm
 drawback
 drawbar
