@@ -3933,7 +3933,6 @@ carburisation
 carburised
 contributed
 chilean
-carburiser
 carburization
 casemated
 carburize
@@ -5074,6 +5073,7 @@ colisepsis
 casate
 casaun
 closemouthed
+carburiser
 casava
 casavas
 crowsteps
