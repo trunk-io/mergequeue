@@ -4913,7 +4913,6 @@ aeries
 aeriest
 aerifaction
 aerify
-aerification
 autarky
 aerifies
 aeriform
@@ -22434,6 +22433,7 @@ alameda
 activists
 alchitran
 atar
+aerification
 allegretto
 ataractic
 astely
