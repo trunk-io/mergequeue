@@ -2324,6 +2324,7 @@ barber
 bizet
 backrest
 barbera
+borish
 barbered
 backyards
 barberfish
@@ -15120,7 +15121,6 @@ bryce
 brick
 bankruptship
 brickbat
-borish
 brickbatted
 brickbatting
 brickcroft
