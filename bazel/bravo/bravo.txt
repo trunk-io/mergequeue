@@ -1915,7 +1915,6 @@ barramundas
 bandits
 banditti
 bandle
-bandleader
 blastoff
 breadwinners
 bandlimits
@@ -2393,6 +2392,7 @@ barrooms
 basis
 barbwire
 bibliogenesis
+bandleader
 barbwires
 bullpout
 betatter
