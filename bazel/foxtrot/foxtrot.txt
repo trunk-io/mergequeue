@@ -3493,6 +3493,7 @@ ferrimagnetic
 futtah
 faipule
 forcepses
+flection
 forthbringer
 flutebird
 figureless
@@ -7207,7 +7208,6 @@ footier
 footiest
 footingly
 footings
-flection
 footled
 fiducinales
 fermis

@@ -3203,7 +3203,6 @@ capitaling
 capitalisable
 capitalise
 capitalised
-capitaliser
 capitalising
 capitalist
 capitalistic
@@ -5799,6 +5798,7 @@ categorically
 categoricalness
 categories
 cestodaria
+capitaliser
 categorisation
 categorise
 categorised
