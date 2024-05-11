@@ -4318,6 +4318,7 @@ fishbolts
 fishbone
 falchions
 fishbowls
+fuligo
 forky
 fisheyes
 fisher
@@ -4988,7 +4989,6 @@ flapping
 flywire
 flumps
 fun
-fuligo
 fumettes
 fitched
 flaps
