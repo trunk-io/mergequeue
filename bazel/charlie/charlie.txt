@@ -17251,7 +17251,6 @@ coinclude
 coalizer
 coalless
 coalmouse
-cogitos
 counterdrain
 coalpit
 coalpits
@@ -27437,6 +27436,7 @@ courtin
 cauldron
 courting
 courtly
+cogitos
 courtlier
 compreg
 chow
