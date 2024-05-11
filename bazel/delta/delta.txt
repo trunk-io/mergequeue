@@ -1185,7 +1185,6 @@ developoid
 disinvolve
 dextrans
 datary
-dataries
 dawns
 dataset
 datasetname
@@ -7794,6 +7793,7 @@ devonic
 devons
 devonshire
 devoration
+dataries
 devota
 devotary
 devoted
