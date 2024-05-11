@@ -2001,7 +2001,6 @@ gesture
 gauffred
 gaufre
 gaufrette
-gastrocolostomy
 gauged
 glisteningly
 gymnodontes
@@ -5313,6 +5312,7 @@ grenade
 glenlike
 genuflectory
 glomerulus
+gastrocolostomy
 glenohumeral
 glenoid
 glenoidal
