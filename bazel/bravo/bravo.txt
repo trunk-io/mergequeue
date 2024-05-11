@@ -2043,6 +2043,7 @@ buntings
 boardman
 bank
 barat
+blepharal
 bankalachi
 bankbooks
 basti
@@ -5415,7 +5416,6 @@ begs
 begster
 bragging
 beguess
-blepharal
 beguileful
 bels
 beguilement
