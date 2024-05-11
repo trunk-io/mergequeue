@@ -16787,7 +16787,6 @@ antiptosis
 apesthetic
 affiche
 apesthetize
-attachment
 apetaly
 apetalies
 apetalous
@@ -24524,6 +24523,7 @@ auxocardia
 auxochrome
 auxochromism
 auxochromous
+attachment
 auxocyte
 auxograph
 auxology
