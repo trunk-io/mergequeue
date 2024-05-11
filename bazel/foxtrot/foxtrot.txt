@@ -2672,7 +2672,6 @@ flusters
 foreshoulder
 ferrule
 finales
-farde
 ferruler
 ferrules
 federalese
@@ -3016,6 +3015,7 @@ fewness
 fellatios
 fewterer
 fewtrils
+farde
 freethinker
 fez
 fiats
