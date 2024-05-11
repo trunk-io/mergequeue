@@ -877,7 +877,6 @@ cakewalk
 chaptalization
 cakewalked
 cakewalker
-cakewalking
 cryptogramma
 carnotite
 caky
@@ -14453,6 +14452,7 @@ circumradius
 circumradiuses
 circumferent
 claver
+cakewalking
 circumrotate
 circumrotated
 crown
