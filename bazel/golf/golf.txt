@@ -5897,7 +5897,6 @@ glottologic
 griffinesque
 glottological
 glottologies
-glottologist
 goniometer
 gloucester
 greyfly
@@ -10016,6 +10015,7 @@ gudgeon
 grandstands
 globs
 graybeard
+glottologist
 gudgeons
 graphidiaceae
 gowned
