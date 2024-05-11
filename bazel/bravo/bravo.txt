@@ -9393,6 +9393,7 @@ besogne
 bewrathed
 birdcage
 baroscope
+blightbird
 birdcages
 birdcalls
 blirt
@@ -10853,7 +10854,6 @@ blickie
 blickies
 blighia
 blight
-blightbird
 blighted
 blighters
 blightingly
