@@ -5594,6 +5594,7 @@ achronical
 afterblow
 afterbody
 afterbodies
+ambiency
 amyloids
 afterbrain
 afterbreach
@@ -9985,7 +9986,6 @@ andrenid
 avidya
 ambidextrously
 ambience
-ambiency
 ambiens
 aulostomid
 ambient
