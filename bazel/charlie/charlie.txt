@@ -6811,7 +6811,6 @@ cellaret
 cellarets
 caffeine
 cellarette
-cellaring
 cellarmen
 cartograph
 cellars
@@ -23178,6 +23177,7 @@ constitutor
 cassiri
 constr
 campholytic
+cellaring
 constrained
 ceylon
 constrainedly
