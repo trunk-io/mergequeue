@@ -1016,7 +1016,6 @@ darkliest
 draffsack
 darkling
 darkmans
-disannexation
 darkroom
 dineutron
 darkskin
@@ -9991,6 +9990,7 @@ dynamic
 dynamically
 defailance
 dynamics
+disannexation
 dynamis
 dynamism
 dolthead
