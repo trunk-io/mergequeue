@@ -4476,7 +4476,6 @@ endolithic
 encephalartos
 encephalasthenia
 exurbias
-encyclical
 encephalic
 encephalin
 encephalitic
@@ -5887,6 +5886,7 @@ erogenic
 encoronet
 enisled
 enisles
+encyclical
 egotism
 equispaced
 eurylaimus
