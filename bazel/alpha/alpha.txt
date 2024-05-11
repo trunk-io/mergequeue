@@ -6355,7 +6355,6 @@ agonize
 annulettee
 agonized
 angili
-agonizedly
 agonizer
 avenged
 agonizing
@@ -18728,6 +18727,7 @@ archaeologian
 archaeologic
 aggregately
 archaeological
+agonizedly
 archaeologist
 archaeomagnetism
 archaeopterygiformes
