@@ -1068,7 +1068,6 @@ fetal
 farmed
 farmeress
 farmerish
-farmerly
 farmerlike
 fletcherize
 farmership
@@ -3733,6 +3732,7 @@ filmer
 forborn
 fibrocystic
 ferret
+farmerly
 foreflipper
 filmet
 filmgoers

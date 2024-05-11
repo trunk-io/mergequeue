@@ -7586,7 +7586,6 @@ albuminousness
 albumins
 albuminurophobia
 albumoid
-actomyosin
 albumoscope
 albumose
 albumosuria
@@ -9402,6 +9401,7 @@ alpist
 annularity
 arithromania
 alps
+actomyosin
 alquier
 aversions
 aerobated
