@@ -11740,7 +11740,6 @@ cryogen
 chollas
 choller
 cholo
-cholochrome
 cholocyanine
 crossroading
 caperer
@@ -12921,6 +12920,7 @@ churchill
 churchiness
 churching
 crabbedly
+cholochrome
 cognisance
 churchite
 churchlet
