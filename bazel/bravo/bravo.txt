@@ -2094,6 +2094,7 @@ bumbaste
 banksides
 barebone
 banksmen
+bredstitch
 bibliophage
 banlieu
 botel
@@ -5965,7 +5966,6 @@ beloam
 belock
 blousy
 beloeilite
-bredstitch
 basimesostasis
 belomancy
 belone
