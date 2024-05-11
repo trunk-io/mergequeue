@@ -2346,7 +2346,6 @@ escalation
 electrodes
 electrodesiccation
 electrodiagnosis
-entoblast
 electrodiagnostic
 esterling
 edda
@@ -10194,6 +10193,7 @@ electrophoresed
 enarration
 ether
 etherate
+entoblast
 examiner
 etherealised
 etherealising
