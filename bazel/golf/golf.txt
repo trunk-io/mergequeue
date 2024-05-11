@@ -4256,7 +4256,6 @@ gymnospore
 grandfather
 glotum
 gymnosporous
-ges
 gymnostomata
 grotesquery
 gripless
@@ -5733,6 +5732,7 @@ gars
 garlicwort
 groma
 glochidium
+ges
 glooms
 gloomth
 galingale
