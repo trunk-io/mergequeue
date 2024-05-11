@@ -6846,7 +6846,6 @@ empoisoning
 entomol
 eyepopper
 elasmosaurus
-exogamous
 entomology
 effray
 extraterritorial
@@ -7139,6 +7138,7 @@ envolume
 envolupen
 enwall
 enwallow
+exogamous
 enweb
 epitrichium
 enwheel
