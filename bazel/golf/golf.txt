@@ -1441,7 +1441,6 @@ geogony
 garments
 grasseye
 glutael
-garmenture
 garmentworker
 growlers
 gnosticize
@@ -2375,6 +2374,7 @@ glossography
 gynaecologist
 gelatin
 gelatinate
+garmenture
 gelatinating
 girting
 greyfish
