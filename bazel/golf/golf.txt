@@ -129,6 +129,7 @@ grue
 gadman
 gujerat
 gadoids
+generable
 gemutlichkeit
 ganguela
 gyroscopically
@@ -2628,7 +2629,6 @@ genep
 genepi
 grinder
 genera
-generable
 guideress
 generalcy
 generalia
