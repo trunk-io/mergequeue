@@ -226,7 +226,6 @@ femerell
 firelock
 facultatively
 faculty
-font
 faculties
 frostbound
 facultize
@@ -4070,6 +4069,7 @@ finedrawing
 fornenst
 fintadores
 ferth
+font
 fiords
 fiorin
 fiorite
