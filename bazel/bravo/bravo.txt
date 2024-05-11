@@ -1696,6 +1696,7 @@ boroughmaster
 balmorals
 byegaein
 bedticks
+bicycler
 bathless
 balms
 bawdyhouse
@@ -14881,7 +14882,6 @@ blowflies
 breathes
 boarstaff
 breathful
-bicycler
 bipedism
 burleys
 breathier
