@@ -2473,6 +2473,7 @@ candytuft
 curryfavel
 candyweed
 candle
+convertoplane
 coehorn
 candleball
 caripeta
@@ -24152,7 +24153,6 @@ convertism
 convertite
 comfortless
 convertive
-convertoplane
 crimples
 convertor
 convertors
