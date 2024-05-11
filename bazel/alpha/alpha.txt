@@ -1638,7 +1638,6 @@ accorded
 accorder
 accordingly
 accordion
-accordionist
 accordionists
 autoportrait
 antidrag
@@ -16277,6 +16276,7 @@ antisquatting
 antistadholder
 antistadholderian
 antistalling
+accordionist
 antistate
 anile
 antistatism
