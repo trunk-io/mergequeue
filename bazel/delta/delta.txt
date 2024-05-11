@@ -5110,6 +5110,7 @@ dextrogyrate
 denaturization
 denaturizer
 denaturizing
+dietist
 dendraspis
 dendraxon
 decolorizer
@@ -13213,7 +13214,6 @@ disposition
 dispositional
 dispositioned
 dispositions
-dietist
 dispositively
 diuretics
 disdainfully
