@@ -19890,7 +19890,6 @@ armamentary
 armamentarium
 armangite
 armary
-armaria
 aminovaleric
 armarian
 adaptivity
@@ -24504,6 +24503,7 @@ auxiliar
 auxiliary
 armsize
 agriology
+armaria
 auxiliaries
 auxiliarly
 auxiliate
