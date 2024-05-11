@@ -2084,6 +2084,7 @@ gausterer
 giantry
 glamourization
 goosetongue
+gouged
 goosewing
 gaut
 grubberies
@@ -10490,7 +10491,6 @@ gunflint
 gearless
 geotactic
 gung
-gouged
 gaduin
 gunge
 gregge
