@@ -2273,7 +2273,6 @@ bourage
 buddler
 bassoons
 barbarisation
-barbarise
 barbarised
 barbarising
 barbarism
@@ -15445,6 +15444,7 @@ bryophyllum
 benzaldiphenyl
 bouncy
 bryophytic
+barbarise
 brios
 babirusa
 biaxially
