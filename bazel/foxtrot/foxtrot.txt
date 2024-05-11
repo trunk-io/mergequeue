@@ -4753,7 +4753,6 @@ flotation
 flagman
 flagmen
 faciobrachial
-fellers
 fasciolaria
 flagpole
 fullwords
@@ -5452,6 +5451,7 @@ feynesses
 fleuret
 filionymic
 fleurette
+fellers
 financier
 furmint
 flapdragon
