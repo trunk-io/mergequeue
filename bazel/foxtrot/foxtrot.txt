@@ -7549,7 +7549,6 @@ flatboats
 forecaster
 ferrocyanhydric
 forecastingly
-forecastle
 flagellator
 forecastlehead
 forecastles
@@ -10248,6 +10247,7 @@ frizers
 frizes
 forker
 flaxen
+forecastle
 forbit
 fauna
 frizing
