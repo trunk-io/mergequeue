@@ -3552,7 +3552,6 @@ additionary
 additionist
 additions
 addititious
-additive
 additively
 alloisomeric
 appoggiatura
@@ -21878,6 +21877,7 @@ assize
 alliterations
 assized
 amiant
+additive
 assizes
 assizing
 asslike
