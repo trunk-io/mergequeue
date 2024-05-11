@@ -2050,6 +2050,7 @@ elapids
 euthyneural
 elapine
 elapse
+epilachna
 edificant
 epigyny
 englory
@@ -10612,7 +10613,6 @@ enplaning
 enswathed
 eucharists
 eucharitidae
-epilachna
 expenses
 euchysiderite
 electrocutioner
