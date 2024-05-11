@@ -9936,7 +9936,6 @@ chemopause
 congregativeness
 countable
 chemophysiology
-chemoprophyalctic
 chemoprophylactic
 chemoprophylaxis
 condensative
@@ -14746,6 +14745,7 @@ cystocarp
 cystocele
 cystocolostomy
 cystodynia
+chemoprophyalctic
 cystoelytroplasty
 cystoepiplocele
 cystoepithelioma

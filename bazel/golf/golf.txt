@@ -1053,7 +1053,6 @@ guillotinade
 gibers
 gang
 ganga
-gangamopteris
 ginny
 geisha
 gangava
@@ -4601,6 +4600,7 @@ garlicky
 gyral
 getter
 ghoul
+gangamopteris
 ghetti
 gurrah
 gigantine
