@@ -3371,7 +3371,6 @@ fieldworker
 forcipal
 fieldwort
 fiendful
-fiendfully
 flyweights
 fiendhead
 filtre
@@ -11244,6 +11243,7 @@ funiculus
 funiform
 funipendulous
 funje
+fiendfully
 facinorous
 funk
 funked
