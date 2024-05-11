@@ -13849,7 +13849,6 @@ distilled
 durwan
 distillery
 daemonian
-distilleries
 distillers
 dachs
 distillment
@@ -17448,6 +17447,7 @@ decream
 dropsies
 dropsywort
 dermopteran
+distilleries
 deflectional
 dropsonde
 dropt
