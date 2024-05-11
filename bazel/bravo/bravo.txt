@@ -3766,7 +3766,6 @@ baldly
 barotraumata
 battledoring
 battlefronts
-backsheesh
 battleful
 battlegrounds
 barway
@@ -7056,6 +7055,7 @@ bedsite
 beslimes
 besliming
 billyer
+backsheesh
 boolies
 bepaid
 beslipper
