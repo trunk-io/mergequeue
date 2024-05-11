@@ -10230,6 +10230,7 @@ gorhen
 gastroptosis
 geldable
 guiltsick
+gummaking
 guimbard
 guimpe
 gouging
@@ -10417,7 +10418,6 @@ gynandrous
 grimacing
 gruffly
 gummage
-gummaking
 gummas
 gummata
 gymnic
