@@ -1857,7 +1857,6 @@ bedgown
 bandannaed
 bandar
 bandarlog
-bandboxes
 bandboxy
 broilery
 barricos
@@ -7420,6 +7419,7 @@ branchiopneustic
 boletaceous
 bethels
 boulimy
+bandboxes
 bigly
 bethesda
 biangular
