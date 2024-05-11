@@ -3608,7 +3608,6 @@ deganglionate
 degas
 dystome
 degases
-degasify
 degasifier
 douricouli
 disguise
@@ -11911,6 +11910,7 @@ diseconomy
 dolerites
 disedification
 diseducate
+degasify
 dositheans
 dystocias
 dampener
