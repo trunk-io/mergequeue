@@ -3615,7 +3615,6 @@ bathmism
 bathochromatism
 bathochromy
 bathochromic
-bathoflore
 batholith
 bibliomaniacal
 batholithic
@@ -10417,6 +10416,7 @@ blanquillo
 beesting
 boviform
 beminstrel
+bathoflore
 beachboy
 beam
 blanquillos
