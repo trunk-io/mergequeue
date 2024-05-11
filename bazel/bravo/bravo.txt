@@ -1341,7 +1341,6 @@ balau
 balaustine
 balaustre
 balawa
-bacteriophagous
 balboa
 bethlehem
 bioplastic
@@ -9372,6 +9371,7 @@ birational
 bluestem
 balaenoidean
 birchbark
+bacteriophagous
 birched
 birchen
 birchers

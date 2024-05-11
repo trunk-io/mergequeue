@@ -385,7 +385,6 @@ fashioners
 fogged
 fastigated
 fairground
-foredenounce
 forefended
 fairhead
 fairy
@@ -2863,6 +2862,7 @@ fetichism
 fetichist
 fraction
 fetichistic
+foredenounce
 farthingale
 foreadmonish
 farmhand
