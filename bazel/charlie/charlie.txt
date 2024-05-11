@@ -15048,7 +15048,6 @@ cardioaccelerator
 cerebroganglion
 carpologically
 cytotaxis
-cytotaxonomy
 cytotaxonomic
 chilacavote
 cytotaxonomically
@@ -28121,6 +28120,7 @@ cancerate
 craniad
 cranially
 cranian
+cytotaxonomy
 celeriacs
 craniata
 craniate
