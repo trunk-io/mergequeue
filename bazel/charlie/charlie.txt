@@ -9187,6 +9187,7 @@ charter
 chartered
 compensations
 charterer
+contending
 charterers
 charterhouse
 chartering
@@ -23461,7 +23462,6 @@ contend
 contended
 crafty
 contendent
-contending
 contendingly
 contendress
 cornstalk
