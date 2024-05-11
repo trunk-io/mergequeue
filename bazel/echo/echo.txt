@@ -3547,7 +3547,6 @@ emotiomuscular
 embossman
 elasmobranchii
 embost
-exembryonate
 embottle
 embouchement
 embusqu
@@ -10433,6 +10432,7 @@ ethnologer
 erysibe
 ethnology
 ethnological
+exembryonate
 ersh
 evanishing
 ethnologically

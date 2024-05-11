@@ -622,7 +622,6 @@ gallimaufry
 gallinaceae
 gallinacean
 galesaurus
-gasless
 gammas
 gallinaceous
 gallinae
@@ -5278,6 +5277,7 @@ gospoda
 gleed
 gentiin
 glandulousness
+gasless
 gingellies
 garlopa
 gleeful
