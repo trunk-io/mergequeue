@@ -3528,7 +3528,6 @@ exclusionary
 embosoming
 enrobement
 euchlaena
-emboss
 embossage
 exsolution
 embossed
@@ -5361,6 +5360,7 @@ elsewhither
 electronvolt
 endoerythrocytic
 endowment
+emboss
 endowments
 entypies
 eviscerating
