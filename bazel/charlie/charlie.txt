@@ -20404,7 +20404,6 @@ compactability
 compactable
 compacted
 ca
-compacter
 compactible
 compactify
 cinderlike
@@ -21485,6 +21484,7 @@ concordatory
 concordatum
 concorder
 concordist
+compacter
 concordity
 circline
 colicky
