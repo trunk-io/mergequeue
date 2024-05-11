@@ -1616,7 +1616,6 @@ dealkalize
 dealkylate
 dealkylation
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -4589,6 +4588,7 @@ desperateness
 demidistance
 disenfranchised
 demiditone
+deallocated
 diabetogenic
 dehydrators
 demieagle
