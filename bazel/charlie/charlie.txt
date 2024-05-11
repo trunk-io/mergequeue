@@ -10694,7 +10694,6 @@ chylosis
 chilostomatous
 chilotomy
 chilotomies
-chylous
 chilte
 chiltern
 chilver
@@ -17959,6 +17958,7 @@ colpocele
 coelectron
 coelelminthic
 coelentera
+chylous
 chorioid
 chrystocrene
 coelenterata
