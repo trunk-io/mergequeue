@@ -1254,6 +1254,7 @@ datos
 datsun
 deluster
 descamisado
+derangements
 datsuns
 dulcetness
 dysodyle
@@ -9140,7 +9141,6 @@ didynamous
 diffractometer
 didinium
 deligation
-derangements
 didle
 didler
 diffund
