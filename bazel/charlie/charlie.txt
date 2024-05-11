@@ -4247,7 +4247,6 @@ covenant
 coauthored
 carey
 careys
-careless
 carelessly
 carelessness
 conflagrate
@@ -19343,6 +19342,7 @@ cadmean
 colopexy
 colopexia
 colopexotomy
+careless
 colophane
 colophany
 colophene
