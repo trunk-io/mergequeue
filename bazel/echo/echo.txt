@@ -48,7 +48,6 @@ earclip
 earcockle
 eardropper
 earflap
-earflaps
 earflower
 earful
 electrochemist
@@ -6854,6 +6853,7 @@ emblemized
 extracapsular
 erythrozincite
 epidermoidal
+earflaps
 entomologist
 entomologize
 entrap
