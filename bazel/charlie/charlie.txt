@@ -12098,6 +12098,7 @@ choroid
 choroiditis
 choroidocyclitis
 choroidoiritis
+cirrostratus
 choroidoretinitis
 choroids
 chorology
@@ -14608,7 +14609,6 @@ cirrostomi
 cirrostrative
 cuttanee
 celiectasia
-cirrostratus
 cappagh
 cirrous
 counterpuncher

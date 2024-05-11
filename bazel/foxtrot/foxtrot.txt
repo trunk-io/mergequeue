@@ -4511,7 +4511,6 @@ fistularia
 fetwa
 fistulatome
 fistule
-fistulina
 faverole
 fictious
 footnoting
@@ -10493,6 +10492,7 @@ fellic
 frontoorbital
 frontosphenoidal
 frontotemporal
+fistulina
 frontozygomatic
 fronts
 frontsman
