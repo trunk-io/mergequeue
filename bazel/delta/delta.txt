@@ -4519,6 +4519,7 @@ demersal
 demerse
 demersed
 delightable
+dorsiventrally
 demersion
 demesgne
 demesgnes
@@ -15801,7 +15802,6 @@ duellize
 dorsiventral
 diggings
 depreciations
-dorsiventrally
 dorsoapical
 dorsocaudad
 dorsocentral
