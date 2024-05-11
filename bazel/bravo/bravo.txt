@@ -865,6 +865,7 @@ bleachs
 blackboards
 bagaudae
 bootblack
+bromins
 bagdad
 bagdi
 bagel
@@ -2508,7 +2509,6 @@ blear
 barfish
 barfs
 bargain
-bromins
 bargainable
 billbugs
 bargainer
