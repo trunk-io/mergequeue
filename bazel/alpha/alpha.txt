@@ -13289,7 +13289,6 @@ archcity
 auklet
 anisic
 anisidin
-autarkic
 anisidine
 anisidino
 anisyl
@@ -24627,6 +24626,7 @@ aventails
 aventine
 aventurin
 alypine
+autarkic
 androids
 absumption
 autostylic
