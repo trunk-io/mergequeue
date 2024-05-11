@@ -3875,7 +3875,6 @@ gibsons
 gibstaff
 gavelage
 gibuses
-giddap
 guideless
 gynospore
 goff
@@ -4027,6 +4026,7 @@ grillework
 glide
 genealogies
 ganocephala
+giddap
 guachamaca
 goldurn
 gigolo
