@@ -663,7 +663,6 @@ gallivanters
 gallivanting
 glycosine
 gallize
-gallnut
 grizzled
 gallnuts
 ginney
@@ -2537,6 +2536,7 @@ gemmipara
 gemmipares
 gemmiparous
 gemmiparously
+gallnut
 gyrochrome
 gambled
 gazel

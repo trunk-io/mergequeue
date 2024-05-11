@@ -1017,7 +1017,6 @@ bayamos
 brigand
 bayano
 bewitch
-bayardly
 bucktails
 baybolt
 baycuru
@@ -8414,6 +8413,7 @@ biggen
 biggened
 biggening
 biggest
+bayardly
 bacons
 biggy
 biggie
