@@ -14735,7 +14735,6 @@ cysticercoidal
 cysticercosis
 cysticerus
 cysticle
-cysticolous
 cystid
 congenialness
 cystidea
@@ -25723,6 +25722,7 @@ complainingness
 correctest
 correctible
 cubicly
+cysticolous
 correctingly
 correction
 correctional
