@@ -2026,6 +2026,7 @@ campaign
 campaigner
 clotheshorses
 campaigners
+confines
 campaigning
 campaigns
 campana
@@ -22010,7 +22011,6 @@ confinement
 chirurgic
 confinements
 confiners
-confines
 confining
 confinity
 confirmability
