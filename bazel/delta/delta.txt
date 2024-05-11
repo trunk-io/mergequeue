@@ -12494,7 +12494,6 @@ disinfector
 dochter
 disinfects
 disinfest
-disinfestant
 dar
 disinfestation
 dualities
@@ -14740,6 +14739,7 @@ downspout
 doctored
 dramalogue
 degradational
+disinfestant
 doctorfishes
 doctorhood
 diethylenediamine
