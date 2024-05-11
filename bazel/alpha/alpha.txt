@@ -9440,6 +9440,7 @@ altared
 allodies
 altarpieces
 altars
+auxesis
 armbone
 altarwise
 altazimuth
@@ -24498,7 +24499,6 @@ auxanogram
 auxanometer
 anisogenous
 auxeses
-auxesis
 auxetic
 auxil
 anywhereness
