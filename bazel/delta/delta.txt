@@ -6360,7 +6360,6 @@ dermographia
 dermohemal
 disapproved
 dermohemia
-dongolese
 dermohumeral
 dermoid
 dermoidal
@@ -8443,6 +8442,7 @@ decrescence
 diamagnetic
 diamagnetism
 diamagnetize
+dongolese
 dredging
 diamant
 diamante
