@@ -2604,7 +2604,6 @@ geobotanical
 gendarmerie
 guided
 gendarmes
-gigacycle
 genderer
 goliardery
 ghoulie
@@ -6120,6 +6119,7 @@ gaelicist
 gelatigenous
 griffado
 gmelina
+gigacycle
 gravamen
 geometry
 gnabble
