@@ -9409,7 +9409,6 @@ diffuseness
 diffusers
 diffuses
 dechlore
-diffusible
 diffusibleness
 diffusimeter
 diffusing
@@ -14944,6 +14943,7 @@ dogdoms
 deprogram
 dissolving
 dogear
+diffusible
 desobligeant
 dogears
 dogedom
