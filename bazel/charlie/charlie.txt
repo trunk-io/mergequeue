@@ -3919,6 +3919,7 @@ carbureted
 carburetest
 carbureting
 carburetion
+chelicerate
 chichipate
 conformational
 carburetor
@@ -9812,7 +9813,6 @@ chelators
 chelerythrine
 chelicer
 chelicera
-chelicerate
 cysts
 chelide
 chelydidae

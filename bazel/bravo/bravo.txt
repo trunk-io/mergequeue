@@ -6659,7 +6659,6 @@ betons
 bere
 bien
 barretry
-bereareft
 bereason
 bereave
 bereavements
@@ -14945,6 +14944,7 @@ bengalic
 breedings
 breeds
 bacillus
+bereareft
 bacteriol
 babite
 budorcas
