@@ -7771,7 +7771,6 @@ cerithioid
 cerithium
 cerium
 ceriums
-cermet
 cermets
 commissar
 cern
@@ -22338,6 +22337,7 @@ congregation
 coting
 congregational
 congregationalism
+cermet
 congregationalist
 congregationalize
 congregationer
