@@ -2735,7 +2735,6 @@ barograms
 barograph
 barographic
 bathtubs
-barbiturates
 bioscientific
 baroko
 bismutoplagionite
@@ -14666,6 +14665,7 @@ bayoneted
 braving
 bespatter
 bravissimo
+barbiturates
 bigram
 bravoes
 boulevards
