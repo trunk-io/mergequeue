@@ -5620,7 +5620,6 @@ brokers
 bekisses
 bekko
 blethering
-beknave
 beknight
 blossoming
 beknighted
@@ -7641,6 +7640,7 @@ belimousined
 blowpit
 bewailing
 bewails
+beknave
 bandolier
 beware
 bernoullian
