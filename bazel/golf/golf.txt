@@ -7298,7 +7298,6 @@ gossiper
 gatehouses
 gossipy
 gravitationally
-guaranteing
 gomarite
 gossypin
 gossypine
@@ -9387,6 +9386,7 @@ goldenrods
 greenleaf
 grothite
 goldfinnies
+guaranteing
 gymel
 geognostical
 grotianism
