@@ -2069,6 +2069,7 @@ gaussian
 gaskings
 gageite
 gaussmeter
+gees
 gauster
 granville
 gausterer
@@ -5185,7 +5186,6 @@ glassworm
 gushed
 glasswort
 gnomish
-gees
 glathsheim
 gte
 glathsheimr
