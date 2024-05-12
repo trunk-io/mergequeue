@@ -8519,7 +8519,6 @@ alkalising
 animator
 autoheterodyne
 alkalization
-alkalize
 alkalizer
 alkalizes
 alkalizing
@@ -21687,6 +21686,7 @@ assentors
 asseize
 asself
 assembl
+alkalize
 assemblable
 assemblage
 assemblance
