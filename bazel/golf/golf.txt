@@ -3041,7 +3041,6 @@ geoffroyin
 grus
 geomance
 geoform
-geogen
 geogenesis
 gyropilot
 gibbartas
@@ -5046,6 +5045,7 @@ gardens
 glam
 gummosis
 glamberry
+geogen
 gamines
 gonapophysial
 glamorizer
