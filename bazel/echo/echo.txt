@@ -10115,7 +10115,6 @@ esmeraldite
 etched
 etcher
 etchers
-etching
 esodic
 electrotest
 eteoclus
@@ -13926,6 +13925,7 @@ entoire
 extraovular
 eugeosyncline
 extraparental
+etching
 extraparliamentary
 enwound
 eyrar
