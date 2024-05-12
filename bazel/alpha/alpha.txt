@@ -1166,7 +1166,6 @@ abutters
 abutting
 abuzz
 anodendron
-abwab
 abwatt
 abwatts
 ac
@@ -11421,6 +11420,7 @@ amtrac
 amtrack
 amtracks
 alephs
+abwab
 adnexitis
 amtracs
 aeroporotomy
