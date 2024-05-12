@@ -11268,6 +11268,7 @@ disarm
 datsw
 disgracers
 discanting
+deprecated
 discants
 downgrowth
 dimmable
@@ -16623,7 +16624,6 @@ dragonfly
 dragonflies
 delayage
 dragonhead
-deprecated
 dragonhood
 dissimulator
 downily
