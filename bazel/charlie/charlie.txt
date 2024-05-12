@@ -14800,6 +14800,7 @@ cystoscopies
 cystose
 cystosyrinx
 cystospasm
+culiciform
 cystospastic
 cystospore
 cystostomy
@@ -30728,7 +30729,6 @@ culet
 culett
 culeus
 culices
-culiciform
 cramble
 culicifugal
 culicifuge
