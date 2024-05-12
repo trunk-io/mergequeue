@@ -4661,7 +4661,6 @@ boozily
 ballett
 bedeafened
 bedeafening
-botanised
 bedebt
 bedeck
 bedecked
@@ -15169,6 +15168,7 @@ brimstonewort
 bride
 blowout
 bridebed
+botanised
 bridecake
 bulgarophil
 balsamize
