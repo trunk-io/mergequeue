@@ -6821,7 +6821,6 @@ gonionia
 glumella
 goniopholidae
 gland
-globulins
 gamgee
 galatotrophic
 graptoloidea
@@ -10736,6 +10735,7 @@ gutbucket
 graminin
 granule
 glycerinate
+globulins
 gomerels
 gignate
 gutium
