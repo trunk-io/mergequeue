@@ -8375,7 +8375,6 @@ epitomiser
 epitomising
 egency
 epitomized
-endopleura
 epitomizes
 epitomizing
 explementary
@@ -13513,6 +13512,7 @@ enterotoxin
 exsiccator
 embowment
 exsolve
+endopleura
 epipodiale
 exsolving
 epochs
