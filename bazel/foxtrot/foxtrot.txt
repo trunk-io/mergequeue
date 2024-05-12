@@ -1904,7 +1904,6 @@ fecundize
 fourdrinier
 flammant
 fundless
-frs
 feddan
 feddans
 fedellini
@@ -2831,6 +2830,7 @@ festoons
 fastigate
 formenic
 fieulamort
+frs
 festucine
 funli
 festucous
