@@ -4628,7 +4628,6 @@ girdlestead
 gymnosperm
 girdling
 girds
-grapevine
 graminous
 gyred
 girella
@@ -8539,6 +8538,7 @@ guttered
 gladdy
 goodbye
 greaseproof
+grapevine
 greaseproofness
 germinating
 gastronomical
