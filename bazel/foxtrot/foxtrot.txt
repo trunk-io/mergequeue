@@ -33,7 +33,6 @@ fabricated
 fabricates
 fabricating
 fabrication
-fabricational
 flamingo
 fabrications
 fabricator
@@ -1667,6 +1666,7 @@ fcp
 familiar
 faradocontractility
 four
+fabricational
 fdnames
 fdtype
 fdub
