@@ -4556,7 +4556,6 @@ gazehound
 gypsyhead
 gaitt
 gradate
-gloeocapsoid
 giglot
 grapeless
 goslings
@@ -5036,6 +5035,7 @@ glaistig
 glaived
 gladdened
 glaives
+gloeocapsoid
 grulla
 ghebeta
 geochemistry
