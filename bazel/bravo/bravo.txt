@@ -2044,6 +2044,7 @@ bank
 barat
 bankalachi
 bankbooks
+bristlemouths
 basti
 bankcard
 becrawl
@@ -15505,7 +15506,6 @@ biopsychical
 bromacetanilide
 bristleless
 bristlelike
-bristlemouths
 brigander
 bristles
 bristlewort
