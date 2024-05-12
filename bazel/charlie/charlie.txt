@@ -21998,7 +21998,6 @@ confine
 confineable
 confined
 chalcophile
-cadging
 confinedly
 confinement
 chirurgic
@@ -22423,6 +22422,7 @@ coniferin
 coniferophyte
 cuppier
 cordiner
+cadging
 coniferous
 conifers
 cnidoscolus

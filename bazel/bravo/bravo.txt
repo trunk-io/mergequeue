@@ -5092,7 +5092,6 @@ bemas
 befavor
 biglenoid
 bewith
-befeather
 befell
 becoming
 beferned
@@ -11213,6 +11212,7 @@ blotchier
 bur
 bestrapped
 blotchiness
+befeather
 backoff
 benegro
 burblier
