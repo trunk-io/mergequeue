@@ -1124,7 +1124,6 @@ fluoroid
 flocculable
 fictionmonger
 filiated
-farseer
 farset
 farsighted
 flabel
@@ -8687,6 +8686,7 @@ fireworks
 forthwith
 flamelike
 furcellaria
+farseer
 fornent
 frightsome
 feeding
