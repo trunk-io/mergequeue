@@ -7269,7 +7269,6 @@ cavaedia
 centriole
 centripetal
 codebreak
-centripetence
 centripetency
 centriscid
 centriscidae
@@ -29544,6 +29543,7 @@ criticise
 criticiser
 criticising
 criticisingly
+centripetence
 criticism
 criticisms
 criticist

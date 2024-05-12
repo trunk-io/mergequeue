@@ -7913,7 +7913,6 @@ bicephalous
 biface
 bibacity
 bypasses
-bibation
 beglamour
 bibbery
 bursautee
@@ -12212,6 +12211,7 @@ backslid
 bolshie
 brocage
 bolstered
+bibation
 bolsterer
 bunters
 boardwalk
