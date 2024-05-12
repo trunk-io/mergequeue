@@ -5444,6 +5444,7 @@ denudation
 deltidial
 desulfuriser
 diplomatics
+disshiver
 dehusk
 deterrers
 denudations
@@ -13600,7 +13601,6 @@ disshadow
 dissheathed
 daddums
 disship
-disshiver
 dissidence
 diligentness
 dissidently
