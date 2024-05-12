@@ -2520,7 +2520,6 @@ enterritoriality
 elchee
 electronically
 electronics
-enamellers
 electronography
 ecad
 electrons
@@ -4878,6 +4877,7 @@ endarch
 endarchy
 endarchies
 endarteteria
+enamellers
 endaspidean
 escrows
 endboard
