@@ -6981,6 +6981,7 @@ follis
 feuille
 foutra
 fatheads
+forelegs
 fendy
 follow
 foisting
@@ -7595,7 +7596,6 @@ fructoside
 forecourts
 forecover
 fishify
-forelegs
 flees
 fulmen
 farmhands

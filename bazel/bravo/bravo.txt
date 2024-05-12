@@ -323,6 +323,7 @@ backcap
 backchain
 backchat
 backchats
+bifollicular
 bindweb
 backcomb
 backcountry
@@ -2377,7 +2378,6 @@ barboy
 barbola
 bubbletops
 barbotine
-bifollicular
 bastinade
 biolysis
 bookdom
