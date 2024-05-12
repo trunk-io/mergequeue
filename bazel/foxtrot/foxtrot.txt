@@ -2252,6 +2252,7 @@ femaleness
 females
 friseur
 fleer
+foiler
 femality
 frigate
 femcee
@@ -8309,7 +8310,6 @@ foujdar
 forjudges
 forjudging
 formularisation
-foiler
 forensicality
 fingerwise
 forjudgment
