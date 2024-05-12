@@ -3766,7 +3766,6 @@ battlefronts
 battlegrounds
 barway
 battlement
-battlements
 barnstorms
 battler
 battles
@@ -5941,6 +5940,7 @@ befilch
 bellowslike
 belted
 boe
+battlements
 bellowsmaking
 bellowsman
 bellpull
