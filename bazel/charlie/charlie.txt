@@ -8779,7 +8779,6 @@ chansonnette
 chansonniers
 chant
 chera
-chantecler
 chanted
 chantey
 chanteyman
@@ -17722,6 +17721,7 @@ cocomat
 cationic
 coconnection
 coconqueror
+chantecler
 coconscious
 coconsciously
 coconsciousness
