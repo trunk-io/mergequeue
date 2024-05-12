@@ -1536,6 +1536,7 @@ acclimatation
 acclimate
 absinthian
 acclimated
+adjective
 acclimatement
 acclimates
 arsonite
@@ -3988,7 +3989,6 @@ anastatica
 absorptance
 adjectival
 autoactivation
-adjective
 adjectively
 adjectives
 adjectivism
