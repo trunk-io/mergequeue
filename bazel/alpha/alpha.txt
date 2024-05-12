@@ -19198,6 +19198,7 @@ archrobber
 archrogue
 archruler
 archsacrificer
+ascribes
 archsaint
 arachnophagous
 archsatrap
@@ -21090,7 +21091,6 @@ ascots
 ascribable
 ascribe
 ascribed
-ascribes
 ascribing
 ascript
 ascription
