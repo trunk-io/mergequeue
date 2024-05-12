@@ -8371,6 +8371,7 @@ expletively
 epitomically
 epitomise
 epitomiser
+eigenspace
 epitomising
 egency
 epitomized
@@ -12064,7 +12065,6 @@ excludes
 excludingly
 exampleship
 exclusion
-eigenspace
 etherion
 electioneerer
 exclusionism
