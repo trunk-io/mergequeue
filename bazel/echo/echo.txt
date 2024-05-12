@@ -9915,7 +9915,6 @@ emender
 estang
 episkotister
 econometrician
-estating
 estats
 empurpling
 esteemer
@@ -13295,6 +13294,7 @@ enlength
 entireties
 exporting
 electroculture
+estating
 exports
 effectuate
 easier
