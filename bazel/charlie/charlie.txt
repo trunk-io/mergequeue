@@ -3143,7 +3143,6 @@ capersomeness
 clothify
 capes
 capeskin
-capeskins
 capetian
 cede
 capetown
@@ -26863,6 +26862,7 @@ carniferous
 counterfactual
 counterfactually
 captivately
+capeskins
 counterfaller
 counterfeisance
 counterfeit
