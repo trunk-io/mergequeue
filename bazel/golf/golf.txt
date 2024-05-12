@@ -25,7 +25,6 @@ gastroadynamic
 gabbiest
 gabbiness
 gunsling
-gabble
 gabbled
 gabbler
 gabblers
@@ -8676,6 +8675,7 @@ greenish
 greenkeeper
 greenkeeping
 graffer
+gabble
 gangion
 grottowork
 garnishments
