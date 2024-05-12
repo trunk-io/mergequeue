@@ -6809,7 +6809,6 @@ entoglossal
 embonpoint
 entoil
 entoils
-entoloma
 entom
 extender
 episternalia
@@ -14184,6 +14183,7 @@ exurb
 eranthis
 erpetologist
 exurbs
+entoloma
 exurge
 exuscitate
 enlists
