@@ -10291,7 +10291,6 @@ feyness
 freetrader
 fraudproof
 ferrado
-frogbit
 figurette
 frogeye
 frogeyed
@@ -11491,6 +11490,7 @@ freelancing
 fastgoing
 fairleader
 froggery
+frogbit
 furtherly
 foothill
 fenagler
