@@ -11277,7 +11277,6 @@ disgracers
 discanting
 discants
 downgrowth
-dimmable
 discardable
 discarded
 drainageway
@@ -15048,6 +15047,7 @@ dogmeat
 dogmouth
 dognap
 dognaped
+dimmable
 derobe
 dactylopatagium
 darkeners
