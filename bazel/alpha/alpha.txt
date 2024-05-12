@@ -9806,7 +9806,6 @@ amante
 airbrush
 alloplasmatic
 amanuenses
-amanuensis
 amapa
 amapondo
 amara
@@ -20146,6 +20145,7 @@ austrogaean
 aroon
 appendixing
 aroph
+amanuensis
 agitating
 arboreal
 abash
