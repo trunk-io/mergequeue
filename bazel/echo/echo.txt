@@ -2406,7 +2406,6 @@ electrogenetic
 equivalence
 enharbor
 electrogenic
-electrogild
 electrogilt
 ejecting
 electrogram
@@ -5846,6 +5845,7 @@ enfonce
 enhypostasia
 enhypostasis
 erethismic
+electrogild
 enhypostatize
 encrinoidea
 enhorror
