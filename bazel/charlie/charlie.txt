@@ -1801,6 +1801,7 @@ camarera
 camarillas
 camarin
 camarine
+celloidin
 carboras
 constringed
 camaron
@@ -6847,7 +6848,6 @@ cubit
 celloid
 colubrids
 cathodofluorescence
-celloidin
 cellophane
 constative
 cellose
