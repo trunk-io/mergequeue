@@ -2321,6 +2321,7 @@ gaits
 gallantry
 griseofulvin
 gorgonacean
+glamor
 geyerite
 geiger
 gangrel
@@ -5535,7 +5536,6 @@ games
 guessing
 glyptological
 grotesques
-glamor
 grammatic
 gandhiism
 gliffy
