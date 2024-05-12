@@ -570,7 +570,6 @@ galleins
 galleys
 gamodemes
 galleyworm
-geneat
 glimpsed
 galleon
 galleons
@@ -10300,6 +10299,7 @@ gaspergous
 gladiest
 gagged
 geosynchronous
+geneat
 goldfishes
 gobioidei
 gulancha
