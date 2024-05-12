@@ -1542,7 +1542,6 @@ ballata
 ballate
 brae
 batikulin
-baru
 ballatoon
 ballcarrier
 blazer
@@ -2303,6 +2302,7 @@ barbastel
 barbastelle
 barbate
 barbated
+baru
 bescorched
 bolyaian
 barbatimao
