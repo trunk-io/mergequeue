@@ -9508,7 +9508,6 @@ cheat
 cheatableness
 cheated
 cheatee
-cubits
 corvee
 characterisation
 cheater
@@ -18215,6 +18214,7 @@ cofactors
 cofane
 cofaster
 cofather
+cubits
 cutlery
 cofeature
 coferment
