@@ -10038,7 +10038,6 @@ acondylous
 ambitendencies
 analysability
 ambitendent
-ambition
 ambitioning
 ambitions
 ambitiously
@@ -22772,6 +22771,7 @@ atolls
 atom
 atomatic
 atomechanics
+ambition
 atomerg
 aquo
 atomic

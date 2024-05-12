@@ -115,7 +115,6 @@ earplugs
 enchisel
 earreach
 earrings
-ears
 earshot
 edifies
 earsplitting
@@ -2791,6 +2790,7 @@ enduring
 elephant
 exclamatively
 electroluminescent
+ears
 equidistant
 elephantiasis
 elephantic
