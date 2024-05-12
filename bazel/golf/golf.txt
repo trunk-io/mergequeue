@@ -1025,7 +1025,6 @@ gamogeny
 gorget
 gonotokont
 gundi
-ganderess
 geanticline
 gyrinus
 greeney
@@ -6605,6 +6604,7 @@ golilla
 goll
 guddling
 glaikitness
+ganderess
 golland
 goller
 galvanocautery

@@ -1415,7 +1415,6 @@ analogically
 alcae
 airtightly
 accentor
-accentors
 accents
 anoxyscope
 auxillary
@@ -24401,6 +24400,7 @@ antimiscegenation
 autosoterism
 auteciously
 autospore
+accentors
 autosporic
 autostability
 autostarter
