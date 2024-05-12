@@ -1001,7 +1001,6 @@ farding
 fards
 frontomaxillary
 fissiparation
-farenheit
 friarbird
 felinophobe
 fares
@@ -6028,6 +6027,7 @@ flimsiest
 fresco
 flores
 forgab
+farenheit
 footcandle
 fromfile
 flutteration
