@@ -1786,7 +1786,6 @@ accumulativ
 aquatones
 ambisporangiate
 accumulatively
-animalness
 accumulativeness
 accumulator
 accupy
@@ -19420,6 +19419,7 @@ areolation
 areolet
 astrocytomata
 areology
+animalness
 areologic
 areological
 antapocha
