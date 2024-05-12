@@ -4280,7 +4280,6 @@ expertising
 enablement
 exothermic
 entangle
-epiglottides
 echiniform
 enacted
 enacting
@@ -11010,6 +11009,7 @@ eupnoea
 extenuatory
 eupolidean
 eupolyzoa
+epiglottides
 eupolyzoan
 epidermatic
 eupotamic
