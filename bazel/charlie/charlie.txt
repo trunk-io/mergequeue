@@ -592,7 +592,6 @@ caducities
 caducous
 caduke
 cadus
-cadwal
 chiromegaly
 cadwallader
 cadweed
@@ -16631,6 +16630,7 @@ clonos
 clonothrix
 clonus
 cloof
+cadwal
 chymaqueous
 cloop
 cloot
