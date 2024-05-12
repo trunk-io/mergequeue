@@ -1327,6 +1327,7 @@ fastnacht
 fromage
 fissipedial
 fastnesses
+flytraps
 feed
 frogskins
 fasts
@@ -5773,7 +5774,6 @@ flyting
 flytrap
 foxite
 ferrochrome
-flytraps
 floodplain
 flitted
 forestside
