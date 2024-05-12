@@ -7803,7 +7803,6 @@ alderman
 aldermanate
 aldermancy
 aldermaness
-aldermanic
 archisphere
 aldermanical
 aldermanity
@@ -24804,6 +24803,7 @@ avital
 avitaminosis
 avitic
 avizandum
+aldermanic
 avocado
 avocadoes
 augmentatively
