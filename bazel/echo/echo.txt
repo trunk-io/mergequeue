@@ -5770,6 +5770,7 @@ engraphically
 engrasp
 engrave
 engravement
+evermore
 engraver
 entree
 engravers
@@ -10815,7 +10816,6 @@ extrasystolic
 eyelight
 eulogies
 euphonic
-evermore
 eulogism
 eulogist
 eulogistic
