@@ -7445,7 +7445,6 @@ albertist
 albertite
 atle
 alberto
-alberttype
 amitosis
 albescent
 albespyne
@@ -23693,6 +23692,7 @@ auslaute
 auspex
 anisopodous
 acetifier
+alberttype
 auspicated
 auspicating
 auspice
