@@ -2759,7 +2759,6 @@ cannulated
 cursitor
 cannulating
 cannulation
-canoe
 canoeist
 canoeists
 canoeload
@@ -18933,6 +18932,7 @@ cochal
 cosmetical
 collarless
 collars
+canoe
 collate
 collatee
 correspondentially
