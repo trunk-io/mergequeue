@@ -19024,6 +19024,7 @@ collegiation
 collegiugia
 collegium
 classes
+craniometric
 combattant
 carpetbeater
 collembola
@@ -28170,7 +28171,6 @@ craniomaxillary
 craniometry
 championship
 capronyl
-craniometric
 craniometrist
 craniopathy
 craniopathic
