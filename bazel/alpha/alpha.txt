@@ -13437,7 +13437,6 @@ arteriostosis
 abbr
 ankylopodia
 ankyloproctia
-ankylos
 abound
 ankylosaur
 ankyloses
@@ -17896,6 +17895,7 @@ applyment
 appling
 applique
 afterdrops
+ankylos
 appliqued
 appliqueing
 appliques
