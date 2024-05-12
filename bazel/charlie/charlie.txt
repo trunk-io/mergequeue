@@ -11640,6 +11640,7 @@ cholecystography
 cholecystojejunostomy
 cholecystokinin
 coign
+corks
 cholecystolithiasis
 cholecystolithotripsy
 cholecystopexy
@@ -25292,7 +25293,6 @@ chiromant
 corkline
 calendars
 corkmaking
-corks
 corkscrew
 cacophonize
 corkscrewy
