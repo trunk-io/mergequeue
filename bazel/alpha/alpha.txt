@@ -11761,6 +11761,7 @@ analgetic
 awapuhi
 analgia
 analgias
+autocolony
 analgic
 analgize
 altocumulus
@@ -23974,7 +23975,6 @@ autocoenobium
 autocollimate
 autocollimation
 autocollimators
-autocolony
 autocombustible
 autocombustion
 autoconduction
