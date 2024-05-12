@@ -8959,7 +8959,6 @@ deflator
 dichromat
 dichromatic
 dichromaticism
-dichromatism
 debonairty
 dispeller
 dichromic
@@ -11796,6 +11795,7 @@ disjunctions
 distrouser
 dicht
 discretion
+dichromatism
 discretional
 discretive
 discretiveness
