@@ -7199,7 +7199,6 @@ centralising
 centralism
 cepheus
 centrality
-centralities
 centripetally
 centralization
 centralize
@@ -9558,6 +9557,7 @@ checkerbreast
 checkered
 checkery
 checkering
+centralities
 cataphysical
 checkerist
 clavola
