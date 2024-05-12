@@ -11370,6 +11370,7 @@ boathouses
 bluecurls
 blued
 bluefin
+burgees
 bluefins
 bluegill
 blenched
@@ -17632,7 +17633,6 @@ busker
 burgaudine
 burge
 burgee
-burgees
 brightwork
 brushball
 baptist
