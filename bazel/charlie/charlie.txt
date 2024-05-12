@@ -6210,7 +6210,6 @@ caudocephalad
 ceile
 clappering
 caudodorsal
-caudofemoral
 caudolateral
 centetidae
 caudotibialis
@@ -10749,6 +10748,7 @@ chimleys
 calciclase
 chytridial
 chimney
+caudofemoral
 cantharidated
 chimneyed
 caryopses
