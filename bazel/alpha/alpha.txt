@@ -18813,7 +18813,6 @@ archcorrupter
 archcount
 archcozener
 archcriminal
-archcritic
 archcrown
 archcupbearer
 archd
@@ -22519,6 +22518,7 @@ aterian
 ates
 ateuchi
 ateuchus
+archcritic
 anole
 alexipharmacon
 atfalati
