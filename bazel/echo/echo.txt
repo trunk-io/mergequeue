@@ -1165,7 +1165,6 @@ edplot
 errorful
 edriasteroidea
 edrioasteroid
-edrioasteroidea
 elixed
 edriophthalmatous
 echiuroid
@@ -2775,6 +2774,7 @@ emitter
 electrometallurgical
 eleoblast
 eleolite
+edrioasteroidea
 eleomargaric
 eleonorite
 encephaloscope
