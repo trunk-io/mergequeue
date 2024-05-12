@@ -8960,6 +8960,7 @@ finochios
 foundlings
 foundress
 foundryman
+freehold
 foundrymen
 fallency
 faddishly
@@ -9670,7 +9671,6 @@ flagstaffs
 forte
 freeheartedly
 forlet
-freehold
 freeholder
 freeholders
 freeholdership
