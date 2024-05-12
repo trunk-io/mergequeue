@@ -3560,6 +3560,7 @@ gesturist
 glassy
 grosbeak
 gluier
+glomerule
 glycolipid
 girding
 getae
@@ -5709,7 +5710,6 @@ gradative
 grx
 gregau
 glomerulate
-glomerule
 glomerulonephritis
 glomerulose
 geomorphogeny
