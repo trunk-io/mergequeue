@@ -2444,7 +2444,6 @@ acierates
 afterpressure
 abbreviatory
 adelite
-athetoid
 acieration
 acies
 acyesis
@@ -13330,6 +13329,7 @@ anisogametes
 algarde
 anisogamic
 anisogamous
+athetoid
 annueler
 antiparliamenteer
 aorticorenal
