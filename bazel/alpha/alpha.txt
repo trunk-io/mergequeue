@@ -5195,7 +5195,6 @@ aesthiology
 acridium
 almoin
 aestii
-aestival
 aestivate
 achariaceous
 aestivates
@@ -14628,6 +14627,7 @@ anthroponomics
 anthroponomist
 anthropopathy
 anthropopathia
+aestival
 aminotransferase
 anthropopathically
 anthropopathism
