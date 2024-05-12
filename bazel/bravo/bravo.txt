@@ -8529,7 +8529,6 @@ bilateral
 bilateralism
 bilaterality
 bilateralities
-behaviors
 betangle
 bilaterally
 belabouring
@@ -13211,6 +13210,7 @@ bostal
 bostanji
 bosthoon
 boston
+behaviors
 bobtails
 batakan
 bostonian
