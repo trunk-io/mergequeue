@@ -9441,6 +9441,7 @@ aitesis
 amasty
 altamira
 altar
+aurally
 altarage
 altared
 allodies
@@ -23524,7 +23525,6 @@ aura
 arsines
 aurae
 aural
-aurally
 auramin
 auramine
 aurang
