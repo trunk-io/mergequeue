@@ -18591,7 +18591,6 @@ castanian
 colposcope
 coinfer
 chiropterous
-coinferred
 coinferring
 coinfers
 coinfinity
@@ -27976,6 +27975,7 @@ celeomorphic
 cradlers
 cradles
 cradleside
+coinferred
 cradlesong
 cradlesongs
 cradling
