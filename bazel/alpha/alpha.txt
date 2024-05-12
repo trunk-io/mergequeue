@@ -20045,7 +20045,6 @@ armour
 armourbearer
 armoured
 armourer
-armourers
 antipatriarchal
 agranulocytosis
 aplustre
@@ -25294,6 +25293,7 @@ allocability
 azodiphenyl
 azoerythrin
 antithermin
+armourers
 azofy
 actuate
 azofication
