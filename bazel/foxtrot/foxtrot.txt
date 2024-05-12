@@ -1067,7 +1067,6 @@ frowzier
 farls
 fetal
 farmed
-farmeress
 farmerish
 farmerly
 farmerlike
@@ -5378,6 +5377,7 @@ firmware
 falconer
 fretsome
 foredispose
+farmeress
 fleeter
 fleetest
 fibroses

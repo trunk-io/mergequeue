@@ -5680,7 +5680,6 @@ dephlogistication
 duennadom
 dephosphorize
 depickle
-depict
 depicter
 denuclearize
 depicting
@@ -17738,6 +17737,7 @@ dubba
 dubbah
 deformedness
 dubbed
+depict
 deuteroelastose
 disinvigorate
 dys
