@@ -3369,6 +3369,7 @@ dolabre
 definish
 dynagraph
 decapitalization
+decachord
 diadoche
 definite
 definitely
@@ -14438,7 +14439,6 @@ divinization
 dialogue
 divinize
 discoverers
-decachord
 divinized
 divinizes
 demarche
