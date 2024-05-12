@@ -3546,6 +3546,7 @@ deformational
 delete
 deformations
 deformative
+diastataxy
 deformedly
 deforming
 downfold
@@ -8691,7 +8692,6 @@ diazepam
 diastasimetry
 diastasis
 despisedness
-diastataxy
 diastataxic
 deucing
 diastatic
