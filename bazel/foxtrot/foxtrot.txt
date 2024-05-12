@@ -4014,7 +4014,6 @@ finites
 fightingly
 frolickers
 finitesimal
-freefd
 finitism
 finitive
 foppishness
@@ -7821,6 +7820,7 @@ foremost
 foremostly
 foremother
 forename
+freefd
 furl
 finning
 fogging
