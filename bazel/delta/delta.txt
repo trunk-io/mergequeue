@@ -3537,7 +3537,6 @@ deforests
 deform
 diasters
 doughmaker
-deformability
 droughermen
 disknow
 distomum
@@ -14290,6 +14289,7 @@ divaricator
 disciplinarity
 divast
 doubtable
+deformability
 divata
 decemfoliolate
 diorites
