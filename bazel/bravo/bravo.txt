@@ -3090,6 +3090,7 @@ blabby
 base
 baseball
 bojite
+biting
 baseballer
 baseband
 baseboard
@@ -15524,7 +15525,6 @@ brisure
 britain
 buzzardlike
 britannic
-biting
 britannically
 brashy
 britchel
