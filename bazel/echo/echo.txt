@@ -7842,7 +7842,6 @@ epigrammatizer
 epigrammatizing
 endaortitis
 epigrams
-epigraph
 egyptianization
 epigraphic
 epigraphist
@@ -11646,6 +11645,7 @@ emetine
 ewes
 ewest
 ewry
+epigraph
 ewte
 exacerbated
 esothyropexy
