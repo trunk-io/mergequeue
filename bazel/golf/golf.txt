@@ -2088,6 +2088,7 @@ grunch
 gomorrah
 gnaeus
 goldbricker
+giros
 galactia
 gauzy
 gauzier
@@ -4760,7 +4761,6 @@ gyrons
 gyrophoraceae
 gyrophoraceous
 gyroplane
-giros
 gyroscope
 glycolipide
 gyroscopes
