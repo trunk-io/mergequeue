@@ -5901,6 +5901,7 @@ flocs
 flatfeet
 fertilizability
 floeberg
+foldage
 ferthumlungur
 futtock
 floggers
@@ -6817,7 +6818,6 @@ fold
 fleechment
 facette
 fevers
-foldage
 favellilidia
 fuzing
 foldaway
