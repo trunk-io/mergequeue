@@ -9193,7 +9193,6 @@ diecase
 diecious
 diectasis
 damascenes
-died
 dwt
 diedric
 dieffenbachia
@@ -15623,6 +15622,7 @@ doorposts
 dowl
 dawdle
 doorsill
+died
 doorstead
 didactics
 detumescent
