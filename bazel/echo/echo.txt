@@ -416,6 +416,7 @@ epenthesis
 ecarte
 evenoo
 ecaudata
+equispatial
 ecaudate
 ernest
 ecballium
@@ -8718,7 +8719,6 @@ equisignal
 elaborated
 epicyclic
 equisonance
-equispatial
 establishments
 extradicting
 equitableness
