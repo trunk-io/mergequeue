@@ -2779,7 +2779,6 @@ canones
 cardooer
 canonesses
 canonic
-canonical
 cortically
 canonicalization
 canonicalize
@@ -5225,6 +5224,7 @@ casita
 casitas
 caskanet
 casket
+canonical
 corpl
 casketed
 caskets
