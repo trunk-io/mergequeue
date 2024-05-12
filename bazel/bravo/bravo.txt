@@ -3874,6 +3874,7 @@ bowdlerizations
 bavenite
 bavette
 baviaantje
+billers
 bavian
 blossombill
 bavius
@@ -8657,7 +8658,6 @@ billbroking
 billbug
 branching
 biller
-billers
 brantcorn
 brawlis
 billeted
