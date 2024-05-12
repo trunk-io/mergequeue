@@ -7291,7 +7291,6 @@ determinedness
 dynamiter
 determiner
 didine
-devaluated
 determinism
 donia
 determinist
@@ -16292,6 +16291,7 @@ downlier
 downlying
 downlink
 downlinked
+devaluated
 downlinking
 downloadable
 downloaded
