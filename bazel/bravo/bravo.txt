@@ -10135,6 +10135,7 @@ blackbody
 blackboy
 boughpot
 blackbuck
+biotrons
 blackbush
 bayou
 blackbutt
@@ -10896,7 +10897,6 @@ blindless
 blindly
 blindling
 boilery
-biotrons
 bathwater
 blindness
 burnooses
