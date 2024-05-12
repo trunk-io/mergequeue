@@ -4744,7 +4744,6 @@ carpid
 caprimulgus
 cogredient
 carpidium
-carpincho
 carping
 carpings
 carpintero
@@ -9149,6 +9148,7 @@ charonic
 cyanogens
 converted
 charontas
+carpincho
 cardplayer
 charophyta
 charoses
