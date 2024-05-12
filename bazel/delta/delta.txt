@@ -5593,7 +5593,6 @@ departmentally
 designment
 departs
 demicolumn
-depascent
 depass
 derere
 delphinoid
@@ -18499,6 +18498,7 @@ decriers
 dualism
 dureresque
 diumvirate
+depascent
 duressor
 deglutitive
 duret
