@@ -15529,7 +15529,6 @@ clare
 clarence
 carillonned
 clarences
-clarenceux
 clarencieux
 clarendon
 clares
@@ -17980,6 +17979,7 @@ coeloglossum
 coelom
 charging
 coeloma
+clarenceux
 coelomata
 coelomatic
 coelomatous
