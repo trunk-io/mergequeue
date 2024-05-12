@@ -6709,6 +6709,7 @@ designable
 dhutis
 designado
 designated
+disced
 direct
 designates
 designation
@@ -11303,7 +11304,6 @@ discasing
 discatter
 disburser
 deadly
-disced
 dissyllabify
 devaraja
 dalan
