@@ -4616,7 +4616,6 @@ edginesses
 enchoric
 energico
 electrophonically
-encyclicals
 encyclics
 encyclopaediac
 episcenia
@@ -7406,6 +7405,7 @@ epheboi
 ephebos
 ecchondrotome
 ephebus
+encyclicals
 executively
 ephedras
 epencephalic
