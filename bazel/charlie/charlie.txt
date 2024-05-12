@@ -4826,6 +4826,7 @@ carretela
 carretera
 carreton
 carretta
+countersun
 cofferlike
 carri
 carry
@@ -27183,7 +27184,6 @@ counterstream
 counterstroke
 countersuit
 cubehead
-countersun
 countersunken
 cantico
 cowls
