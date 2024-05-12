@@ -2450,7 +2450,6 @@ decime
 dacrya
 decimeter
 downstair
-dialogs
 degorder
 decimetre
 decimolar
@@ -11328,6 +11327,7 @@ dragonlike
 drawshave
 discerped
 deambulatories
+dialogs
 dumble
 discerpibility
 discerpible
