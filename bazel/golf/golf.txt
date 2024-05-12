@@ -589,7 +589,6 @@ galleriidae
 groundless
 galleryite
 gableended
-galleta
 galleting
 gallfly
 gardenly
@@ -2210,6 +2209,7 @@ gazophylacium
 gansey
 guttur
 gazpachos
+galleta
 grainer
 graders
 gconv
