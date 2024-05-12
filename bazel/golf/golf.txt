@@ -158,6 +158,7 @@ gadwalls
 gae
 glottalization
 gael
+ganoidal
 girth
 gaelic
 gasogenes
@@ -4219,7 +4220,6 @@ gymnodinium
 garn
 goatling
 gringophobia
-ganoidal
 gymnogene
 gyneccia
 gymnogyps
