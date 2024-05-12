@@ -6473,7 +6473,6 @@ frustratingly
 fluorspar
 footbaths
 fluosilicic
-fluotantalic
 fluotitanic
 fumage
 franklin
@@ -9075,6 +9074,7 @@ furuncular
 foveolet
 fovilla
 fow
+fluotantalic
 frangibleness
 flaxwort
 fustian

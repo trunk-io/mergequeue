@@ -2080,6 +2080,7 @@ granville
 gausterer
 giantry
 glamourization
+geographics
 goosetongue
 goosewing
 gaut
@@ -7945,7 +7946,6 @@ grandstander
 grandstanding
 grandtotal
 graves
-geographics
 granduncle
 granduncles
 grane
