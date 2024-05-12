@@ -1099,6 +1099,7 @@ calcinosis
 calciobiotite
 calciocarnotite
 calcioferrite
+carpellum
 calcioscheelite
 calciovolborthite
 calcipexy
@@ -14326,7 +14327,6 @@ circumbasal
 circumbendibus
 conception
 circumboreal
-carpellum
 cyclotella
 circumbuccal
 circumbulbar
