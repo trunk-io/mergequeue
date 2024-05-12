@@ -10130,6 +10130,7 @@ groggeries
 guiana
 gigantosaurus
 gridding
+guildsmen
 guianan
 gloried
 guyandot
@@ -10197,7 +10198,6 @@ guildhall
 guilds
 ghosted
 guildship
-guildsmen
 guessworker
 guile
 guileful
