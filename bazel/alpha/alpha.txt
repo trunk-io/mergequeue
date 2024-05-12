@@ -9133,7 +9133,6 @@ almandines
 almanner
 alme
 almeh
-almehs
 amar
 antiputrefaction
 abolishable
@@ -21284,6 +21283,7 @@ asymtotic
 asymtotically
 asynapsis
 angeyok
+almehs
 asynartete
 async
 asynchrony
