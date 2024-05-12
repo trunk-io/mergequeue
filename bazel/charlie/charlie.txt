@@ -2496,6 +2496,7 @@ crewel
 candlenut
 candlepins
 candlepower
+casualness
 chemist
 camelion
 candler
@@ -18054,7 +18055,6 @@ coendure
 coendures
 consensus
 coenenchym
-casualness
 cephalosporin
 coenenchymal
 capouch
