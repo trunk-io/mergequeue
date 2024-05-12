@@ -22539,7 +22539,6 @@ conjunctives
 chersonese
 conjunctivitis
 chimbleys
-conjuncts
 conjunctur
 conjunctures
 conjuration
@@ -31615,6 +31614,7 @@ curvital
 curvities
 curvle
 coconucan
+conjuncts
 curvograph
 curvometer
 curvous
