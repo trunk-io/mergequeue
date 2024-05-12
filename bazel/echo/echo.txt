@@ -1981,7 +1981,6 @@ ektexine
 elabor
 elaborate
 episternite
-elaborated
 evictees
 emulsic
 eradiculose
@@ -8712,6 +8711,7 @@ equisetic
 equisided
 edaphically
 equisignal
+elaborated
 epicyclic
 equisonance
 equispatial
