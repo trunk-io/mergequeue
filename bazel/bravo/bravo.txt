@@ -14716,7 +14716,6 @@ brazes
 brazier
 barres
 ballooner
-burgheress
 brazil
 bilgewater
 birth
@@ -16906,6 +16905,7 @@ buggy
 bakshi
 buggier
 bushboy
+burgheress
 buggies
 buggiest
 baloch
