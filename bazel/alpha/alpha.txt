@@ -11141,7 +11141,6 @@ amphidetic
 amphidiarthrosis
 antibrachial
 amphidiploid
-amphidiploidy
 amphidisc
 amphidiscophora
 amphidiscophoran
@@ -25315,6 +25314,7 @@ azolla
 azon
 azonaphthalene
 azons
+amphidiploidy
 architraves
 azoparaffin
 antisplitting
