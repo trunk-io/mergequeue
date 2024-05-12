@@ -8527,7 +8527,6 @@ bilamellated
 bilaminar
 biland
 bilander
-becolor
 bilateral
 bilateralism
 bilaterality
@@ -15735,6 +15734,7 @@ bullheadedness
 boletic
 bonaght
 brokerage
+becolor
 bloviating
 besmut
 brokeress

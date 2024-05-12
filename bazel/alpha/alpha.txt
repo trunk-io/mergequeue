@@ -5646,7 +5646,6 @@ aftergood
 aftergrief
 armpad
 aftergrind
-aftergrowth
 antipathy
 acetonylidene
 accidentally
@@ -10590,6 +10589,7 @@ arkite
 amylolytic
 advenae
 amylom
+aftergrowth
 amylometer
 amylopectin
 amylophagia
