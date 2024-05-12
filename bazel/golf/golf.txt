@@ -788,7 +788,6 @@ galvanomagnetism
 gombeen
 galvanometers
 gecko
-galvanometric
 geometries
 generously
 genae
@@ -4221,6 +4220,7 @@ gyneccia
 gymnogyps
 gymnoglossate
 gasconaded
+galvanometric
 guarapo
 guilandina
 gambas
