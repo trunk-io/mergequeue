@@ -20564,6 +20564,7 @@ aforesaid
 artfulness
 artgum
 artha
+atomic
 arthemis
 arthogram
 arthra
@@ -22774,7 +22775,6 @@ atomatic
 atomechanics
 atomerg
 aquo
-atomic
 atomical
 atomically
 atomician
