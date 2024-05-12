@@ -5756,7 +5756,6 @@ denutrition
 decarboxylating
 depletory
 deploy
-deploying
 deployment
 dispansive
 decastich
@@ -17689,6 +17688,7 @@ daisybush
 democratizes
 dtd
 discourteously
+deploying
 dtente
 diplococci
 du
