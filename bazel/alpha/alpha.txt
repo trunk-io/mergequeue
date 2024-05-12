@@ -6714,7 +6714,6 @@ aiguelle
 askewness
 apterous
 amphoriskos
-apatosaurus
 aiguellette
 antidomestically
 aiguille
@@ -14592,6 +14591,7 @@ anthropomancy
 anthropomantist
 anthropometer
 anthropometry
+apatosaurus
 anthropometric
 antinucleon
 anthropometrical
