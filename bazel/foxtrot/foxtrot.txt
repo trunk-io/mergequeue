@@ -1879,7 +1879,6 @@ fizzer
 fecial
 fecifork
 feckful
-feckless
 feckly
 fecks
 flocks
@@ -9219,6 +9218,7 @@ fractions
 fractious
 foregoing
 foolheaded
+feckless
 frilliest
 fractocumulus
 fads
