@@ -2228,6 +2228,7 @@ enargite
 electragy
 electress
 electret
+elevatory
 electrets
 eyrer
 esophagogastrostomy
@@ -7701,7 +7702,6 @@ epidermal
 eromania
 enthelmintha
 erythraea
-elevatory
 ebriated
 experiences
 earwort
