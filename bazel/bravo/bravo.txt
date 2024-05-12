@@ -821,7 +821,6 @@ baetyl
 blautok
 bookit
 baetulus
-burgundies
 baetzner
 batrachophobia
 bespeaker
@@ -3033,6 +3032,7 @@ briery
 baruria
 barvel
 barvell
+burgundies
 beduin
 brainwashing
 bimetal
