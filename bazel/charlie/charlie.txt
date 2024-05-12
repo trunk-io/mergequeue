@@ -102,6 +102,7 @@ clusters
 cabestro
 cabestros
 cabezon
+cantative
 cabezone
 convict
 cabful
@@ -12894,7 +12895,6 @@ chondrocranium
 churchful
 cursus
 churchgo
-cantative
 churchgoer
 churchgoers
 canvass
