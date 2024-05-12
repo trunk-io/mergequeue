@@ -9223,7 +9223,6 @@ alnath
 alnein
 awest
 alnico
-authenticating
 alnicoes
 alnilam
 alnitak
@@ -9728,6 +9727,7 @@ apterygotous
 argentina
 amabel
 amabile
+authenticating
 amability
 amable
 allegatum

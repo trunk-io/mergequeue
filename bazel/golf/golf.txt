@@ -1789,7 +1789,6 @@ gastightness
 gymnostomina
 grassquit
 gastrojejunostomy
-gastrojejunostomies
 gastrolater
 gravamina
 grunted
@@ -2955,6 +2954,7 @@ gallivants
 genuflecting
 graphicalness
 gullish
+gastrojejunostomies
 genuflections
 genuflects
 grid
