@@ -1954,7 +1954,6 @@ bandsman
 bandsmen
 bandspreading
 bandstand
-boronia
 beraked
 bandstands
 bandster
@@ -8954,6 +8953,7 @@ bananas
 biocenosis
 biocenotic
 biocentric
+boronia
 biochemy
 beslow
 bungler
