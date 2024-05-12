@@ -6334,7 +6334,6 @@ deaccessioned
 dermenchysis
 dermestes
 dermestid
-disseminating
 dermestidae
 dynodes
 dermic
@@ -10039,6 +10038,7 @@ dishorse
 dynamoneure
 dynamophone
 dynamos
+disseminating
 dynamostatic
 dynamotor
 dividedness
