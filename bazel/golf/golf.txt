@@ -1305,7 +1305,6 @@ garava
 garawi
 golandause
 gooseliver
-guidage
 gonochorismus
 guana
 garb
@@ -10501,6 +10500,7 @@ gaduin
 gunge
 gregge
 germinability
+guidage
 gunj
 gunstock
 gunja
