@@ -4380,7 +4380,6 @@ bevel
 bebops
 belongings
 beboss
-blessing
 bluntish
 boggish
 brabbled
@@ -5520,6 +5519,7 @@ behoot
 behoove
 behooveful
 behoovefulness
+blessing
 brent
 bazigar
 behooves
