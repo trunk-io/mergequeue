@@ -2165,6 +2165,7 @@ achariaceae
 acharne
 afrikander
 acharnement
+aposteriori
 anaspid
 achate
 achatina
@@ -17475,7 +17476,6 @@ apostemate
 apostematic
 aposteme
 acquital
-aposteriori
 aposthia
 aposthume
 apostil

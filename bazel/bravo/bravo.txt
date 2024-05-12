@@ -7924,7 +7924,6 @@ biberon
 bibi
 bibio
 bibionid
-bacteriolytic
 barbitalism
 bibiri
 bibitory
@@ -11281,6 +11280,7 @@ bendsome
 blowlamp
 blown
 bauhinia
+bacteriolytic
 blowoff
 blowouts
 blowproof
