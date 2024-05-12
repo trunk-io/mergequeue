@@ -4724,7 +4724,6 @@ bedighting
 bedights
 bedikah
 bedimming
-bedimple
 bedimples
 billywix
 bedimpling
@@ -8295,6 +8294,7 @@ bierstuben
 byestreet
 biethnic
 baccar
+bedimple
 beswarming
 byeworker
 byeworkman
