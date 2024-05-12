@@ -1396,7 +1396,6 @@ bushings
 baldish
 ballparks
 bootstraps
-baldmoney
 baldmoneys
 bellwaver
 baldnesses
@@ -9796,6 +9795,7 @@ boatels
 bioenergetics
 basilosaurus
 byssogenous
+baldmoney
 byssoid
 byssolite
 bisson
