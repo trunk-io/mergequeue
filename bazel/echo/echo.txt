@@ -3150,6 +3150,7 @@ eltrot
 eluant
 episcleritis
 enterophthisis
+eeler
 eluating
 enteritis
 exchangeably
@@ -13718,7 +13719,6 @@ extirpating
 extirpations
 extirpative
 exceptionable
-eeler
 extirpator
 extirpatory
 extispex
