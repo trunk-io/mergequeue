@@ -3759,6 +3759,7 @@ drepanoid
 disproved
 didact
 dehydrogenate
+despatch
 dehydrogenated
 dehydrogenating
 dehydrogenisation
@@ -11803,7 +11804,6 @@ drawbridges
 discriminational
 dimitted
 discriminatively
-despatch
 discriminativeness
 discriminator
 dashingly
