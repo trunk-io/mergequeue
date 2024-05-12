@@ -2374,7 +2374,6 @@ fricatives
 forbysen
 fens
 fensive
-fenster
 fent
 fenter
 firkin
@@ -9182,6 +9181,7 @@ frusta
 fracedinous
 fracid
 fractal
+fenster
 fracted
 fracticipita
 flashforwards
