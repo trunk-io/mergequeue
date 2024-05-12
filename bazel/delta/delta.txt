@@ -480,6 +480,7 @@ deferring
 dame
 daleman
 delicatessens
+diedral
 decistere
 dalesfolk
 dalesman
@@ -9081,7 +9082,6 @@ didactylous
 dictyopteran
 disembattle
 draggles
-diedral
 denmark
 dictyopteris
 dictyosiphon
