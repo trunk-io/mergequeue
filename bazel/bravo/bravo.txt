@@ -3598,7 +3598,6 @@ briquetted
 bathyscaphes
 bathyseism
 bathysophical
-bathysphere
 bathythermogram
 bathythermograph
 bathkol
@@ -12249,6 +12248,7 @@ bombable
 bombacaceae
 blacktail
 bombace
+bathysphere
 behang
 bombay
 byrls
