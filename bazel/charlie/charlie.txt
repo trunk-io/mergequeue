@@ -2518,7 +2518,6 @@ candlewaster
 candlewasting
 candlewick
 candlewicking
-candlewicks
 candlewright
 candling
 candock
@@ -7240,6 +7239,7 @@ centricae
 clodpate
 centrical
 centricality
+candlewicks
 centrically
 centricipital
 centriciput
