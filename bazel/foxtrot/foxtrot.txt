@@ -3145,6 +3145,7 @@ fibrocement
 forechoice
 fibrocyst
 fibrocystoma
+formulas
 fibrocyte
 fibrocytic
 fibroelastic
@@ -5172,7 +5173,6 @@ fluviatic
 flauntily
 flautino
 flautist
-formulas
 flauto
 flacket
 fratercula
