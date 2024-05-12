@@ -3207,7 +3207,6 @@ actinotoxemia
 actinotrichium
 actinotrocha
 actinouranium
-actinozoa
 actinozoan
 actinozoon
 actins
@@ -17899,6 +17898,7 @@ allianced
 applosion
 applosive
 applotment
+actinozoa
 appmt
 asphyxiate
 appointable
