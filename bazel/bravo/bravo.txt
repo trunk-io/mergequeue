@@ -4991,7 +4991,6 @@ bricks
 boltless
 ballast
 beeping
-beeps
 beer
 beerbachite
 beerbelly
@@ -6655,6 +6654,7 @@ bournous
 bagattino
 baragouinish
 berchemia
+beeps
 berdache
 berdaches
 berdash
