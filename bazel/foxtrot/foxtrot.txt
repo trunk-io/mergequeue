@@ -2216,7 +2216,6 @@ flogging
 flatfooting
 felonwort
 feriae
-fraela
 felsites
 freewoman
 fligger
@@ -10055,6 +10054,7 @@ femalize
 frigidarium
 frumentum
 fedayee
+fraela
 frigiddaria
 frigidly
 feetage
