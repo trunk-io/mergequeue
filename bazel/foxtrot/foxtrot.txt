@@ -996,6 +996,7 @@ farded
 forklifts
 fardel
 foxhound
+filate
 fardelet
 farding
 fards
@@ -2788,7 +2789,6 @@ footway
 festy
 festilogy
 feods
-filate
 fouling
 festilogies
 festinance
