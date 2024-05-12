@@ -2931,7 +2931,6 @@ ellipsometry
 equaled
 ergotized
 eliminating
-eliminator
 earmarked
 engineering
 eliminators
@@ -5111,6 +5110,7 @@ endogenae
 echeloning
 endogenesis
 exorate
+eliminator
 endogenicity
 endogenies
 exundation
