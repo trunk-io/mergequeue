@@ -2376,7 +2376,6 @@ chimneys
 cancer
 cancerated
 corruptibility
-coyed
 convenes
 cancerating
 chastize
@@ -18416,6 +18415,7 @@ cogways
 cogweel
 cogweels
 capelets
+coyed
 cogwheels
 cogwood
 cohabitancy
