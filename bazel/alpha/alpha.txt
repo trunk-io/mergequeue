@@ -5404,7 +5404,6 @@ afflicter
 afflicting
 arenas
 afflictingly
-analgen
 afflictionless
 afflictions
 archoplasm
@@ -15795,6 +15794,7 @@ antheridiophore
 antiparasitically
 antiparliament
 antiparliamental
+analgen
 apoquinamine
 antiparliamentary
 axons

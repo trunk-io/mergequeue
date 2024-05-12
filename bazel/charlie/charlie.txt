@@ -2630,7 +2630,6 @@ cank
 chokestrap
 clingfish
 canker
-cankerberry
 cankerbird
 conder
 cankereat
@@ -18117,6 +18116,7 @@ coenunuri
 coenures
 coenuri
 coenzymatically
+cankerberry
 coenzymes
 coequal
 coequality
