@@ -5132,6 +5132,7 @@ acuminating
 amphib
 aerosol
 aerosolization
+ariboflavinosis
 asclepieion
 aerosolize
 aerosolized
@@ -7404,7 +7405,6 @@ albarco
 anelectrotonic
 albarelli
 attornment
-ariboflavinosis
 albarium
 albas
 albaspidin
