@@ -250,6 +250,7 @@ bacillariaceae
 baldric
 blotless
 barreleye
+binately
 bacillariaceous
 bacillariales
 buccula
@@ -8841,7 +8842,6 @@ byname
 binaphthyl
 binaries
 binate
-binately
 betuckered
 bination
 bradyuria
