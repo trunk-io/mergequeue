@@ -5147,7 +5147,6 @@ endomorphy
 endomorphic
 endoneurium
 endonuclear
-endonucleolus
 evocatively
 equinely
 endoparasitica
@@ -13909,6 +13908,7 @@ extraneous
 epipleura
 extraneousness
 elytrorrhagia
+endonucleolus
 extranormal
 extranuclear
 extraofficial
