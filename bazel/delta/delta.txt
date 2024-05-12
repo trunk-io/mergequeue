@@ -6746,7 +6746,6 @@ decollating
 delate
 desilt
 declared
-desilvered
 desilvering
 desilverizing
 desilvers
@@ -7338,6 +7337,7 @@ detin
 detinet
 detinues
 daimones
+desilvered
 detinuit
 detn
 detonability

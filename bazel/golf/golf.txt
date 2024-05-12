@@ -2181,7 +2181,6 @@ gazangabin
 gaze
 ganodus
 gazebo
-gazeboes
 glabella
 gazebos
 gossipmongering
@@ -4533,6 +4532,7 @@ gyppery
 gippy
 gramophonically
 gobiiformes
+gazeboes
 gypping
 gyp
 gyps
