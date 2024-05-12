@@ -8845,6 +8845,7 @@ bestowage
 binaural
 bind
 bardane
+bossage
 binderies
 biddie
 banjos
@@ -13174,7 +13175,6 @@ bosque
 bosques
 bosquet
 beneficium
-bossage
 bossboy
 bossdom
 balustraded
