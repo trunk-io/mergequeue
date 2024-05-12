@@ -676,6 +676,7 @@ disseminate
 dampness
 dampproof
 dampproofer
+diobol
 dampproofing
 damselfish
 damselfishes
@@ -10243,7 +10244,6 @@ dintless
 dints
 dinumeration
 dinus
-diobol
 diobolon
 dioc
 detonatability
