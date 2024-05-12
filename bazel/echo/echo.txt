@@ -4119,7 +4119,6 @@ endives
 employees
 employer
 exedral
-elastance
 enamine
 ethnical
 employment
@@ -9858,6 +9857,7 @@ essexite
 enact
 eval
 electrovalency
+elastance
 essoign
 extravagate
 essoined
