@@ -9193,7 +9193,6 @@ chartering
 charterism
 charterless
 chartermaster
-charters
 charthouse
 cindered
 charting
@@ -16120,6 +16119,7 @@ commutations
 clydesider
 client
 clientage
+charters
 cliental
 choriocarcinomata
 converged

@@ -5271,7 +5271,6 @@ denotable
 denotative
 deliriums
 deess
-denotatively
 denotativeness
 denotatum
 denote
@@ -6688,6 +6687,7 @@ deadhead
 desiderata
 disregarder
 dahabiyas
+denotatively
 desiderated
 desideration
 desiderative
