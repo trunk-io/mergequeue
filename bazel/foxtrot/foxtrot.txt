@@ -2982,6 +2982,7 @@ fleches
 flapcake
 feulamort
 facier
+findhorn
 formulary
 freezed
 feverberry
@@ -3882,7 +3883,6 @@ fractionised
 furled
 findable
 frontlessly
-findhorn
 finding
 feedboard
 filarees

@@ -649,7 +649,6 @@ bacteriology
 breadnut
 bacteriologic
 bacteriologist
-bacteriologists
 bacteriopathology
 burnoose
 buckishly
@@ -4975,6 +4974,7 @@ betulaceous
 beekeeping
 bedight
 beekite
+bacteriologists
 beelbow
 bosher
 bagginess
