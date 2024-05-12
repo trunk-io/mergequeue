@@ -17090,7 +17090,6 @@ angliae
 aplanatic
 aplanatism
 anchors
-attractable
 ately
 alterate
 aplanobacter
@@ -24108,6 +24107,7 @@ autohemorrhage
 autohemotherapy
 autohexaploid
 acetylthymol
+attractable
 autohybridization
 arbutuses
 antianarchist
