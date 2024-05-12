@@ -12336,7 +12336,6 @@ dishcross
 disheart
 disheartened
 disassembly
-disheartenedly
 disheartener
 disheartening
 devachan
@@ -17706,6 +17705,7 @@ drugman
 dualistic
 dualize
 deflocculation
+disheartenedly
 dualized
 dualizes
 dually
