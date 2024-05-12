@@ -1362,7 +1362,6 @@ giftlike
 gaonate
 gardenless
 gardenlike
-gardnap
 gardenmaking
 gabbroic
 gardevin
@@ -3519,6 +3518,7 @@ glykopectic
 gonfaloniership
 gestaltist
 gynecology
+gardnap
 guildic
 gestant
 gelatinated

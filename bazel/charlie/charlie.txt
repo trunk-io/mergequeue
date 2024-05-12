@@ -22662,7 +22662,6 @@ conns
 connu
 connubial
 connubiality
-conteur
 coordinations
 connubium
 connumerate
@@ -25856,6 +25855,7 @@ corrosives
 complexionally
 corrosiving
 corrosivity
+conteur
 corrugant
 corrugate
 corrugated
