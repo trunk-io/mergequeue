@@ -10258,7 +10258,6 @@ blacksnake
 blackstick
 baneful
 bliaut
-boogaloo
 ballsy
 blacktongue
 blacktopped
@@ -13534,6 +13533,7 @@ boulework
 boulimia
 boogerman
 bornyl
+boogaloo
 boulles
 boullework
 besand
