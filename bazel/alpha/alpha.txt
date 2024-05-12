@@ -3242,6 +3242,7 @@ activations
 activator
 active
 actively
+asterism
 academising
 aweather
 apostrophized
@@ -10060,7 +10061,6 @@ amblygon
 amblygonal
 amblygonite
 attractant
-asterism
 absinthic
 ambling
 amblingly
