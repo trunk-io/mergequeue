@@ -1364,6 +1364,7 @@ gundeck
 giftlike
 gaonate
 gardenless
+gedd
 gardenlike
 gardnap
 gardenmaking
@@ -6729,7 +6730,6 @@ gonepoiesis
 giglet
 geod
 genapper
-gedd
 gunsman
 goners
 gonesome
