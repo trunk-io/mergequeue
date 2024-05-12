@@ -4858,7 +4858,6 @@ bolometer
 bedstraw
 bedstraws
 bedstring
-bedswerver
 bices
 branchiurous
 bate
@@ -14239,6 +14238,7 @@ bragly
 buro
 braguette
 broachers
+bedswerver
 brahmachari
 brahmaic
 brahmana
