@@ -2620,7 +2620,6 @@ ferryman
 frowziness
 ferrites
 frailties
-ferritic
 fortuitus
 fiduciaries
 forechamber
@@ -6195,6 +6194,7 @@ floweriness
 flowerless
 flowerlessness
 flowerpecker
+ferritic
 furca
 flowerwork
 fusels
