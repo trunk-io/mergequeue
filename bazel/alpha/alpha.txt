@@ -11308,7 +11308,6 @@ amphora
 amphorae
 amphore
 amphoric
-actinolite
 amphoriskoi
 aftereye
 amphorous
@@ -19578,6 +19577,7 @@ apoaconitine
 antimedication
 argling
 argoan
+actinolite
 absolvers
 afforestational
 argol
