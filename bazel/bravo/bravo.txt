@@ -4905,6 +4905,7 @@ bedwarfs
 bedwell
 bee
 beearn
+bequeathable
 beeball
 begrace
 beebee
@@ -6163,7 +6164,6 @@ benamee
 bpt
 benami
 boyishly
-bequeathable
 becowarded
 benamidar
 benasty
