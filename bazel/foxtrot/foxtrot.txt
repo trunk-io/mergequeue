@@ -4976,6 +4976,7 @@ fedelini
 flannels
 flanque
 faconne
+francium
 flapdock
 fluvialist
 flaperon
@@ -11347,7 +11348,6 @@ frena
 furfuralcohol
 filiciform
 flaveria
-francium
 flathat
 forcible
 fusobacterium
