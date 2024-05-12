@@ -8545,7 +8545,6 @@ guttered
 gladdy
 goodbye
 greaseproof
-greaseproofness
 germinating
 gastronomical
 gnatflower
@@ -9878,6 +9877,7 @@ grabber
 gruffily
 greith
 groundnut
+greaseproofness
 gratulatorily
 guaranteeing
 guaranteer
