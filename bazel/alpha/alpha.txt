@@ -2581,7 +2581,6 @@ acoasm
 aforethought
 avile
 acocantherin
-acockbill
 antireduction
 acocotl
 acoela
@@ -17876,6 +17875,7 @@ ambosexous
 archdespot
 applicate
 application
+acockbill
 applications
 applicative
 applicatively

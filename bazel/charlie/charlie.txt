@@ -9572,6 +9572,7 @@ clavola
 checkers
 cabbalah
 checkerspot
+cysteine
 carman
 carpodacus
 capos
@@ -14684,7 +14685,6 @@ chaptalizing
 cnidophore
 cysted
 cheerless
-cysteine
 cysteines
 cysteinic
 cysteins
