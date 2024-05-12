@@ -2631,7 +2631,6 @@ generaliser
 glorifying
 gov
 glusid
-galliambic
 gaulish
 groceteria
 grieflessness
@@ -2683,6 +2682,7 @@ generators
 generatrices
 generic
 gabeler
+galliambic
 glabbella
 gorbellied
 generification
