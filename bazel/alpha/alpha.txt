@@ -6675,7 +6675,6 @@ atharvan
 aidance
 aidant
 anhedonia
-aide
 aided
 amphigamae
 aydendron
@@ -18170,6 +18169,7 @@ aproterodont
 antirestoration
 apselaphesis
 aroused
+aide
 apsid
 apsidal
 apsidally
