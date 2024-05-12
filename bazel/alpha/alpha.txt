@@ -8571,6 +8571,7 @@ accelerograph
 alkylarylsulfonate
 alkylate
 alkylated
+anaglyptic
 alkylates
 alkylation
 alkylbenzenesulfonate
@@ -15774,7 +15775,6 @@ antipapism
 antipapist
 antipapistic
 antigun
-anaglyptic
 aquaphobia
 antipapistical
 antiparabema

@@ -389,6 +389,7 @@ fairground
 foredenounce
 fairhead
 fairy
+fields
 fairyhood
 foreprepare
 frigid
@@ -8632,7 +8633,6 @@ fellatory
 fillebeg
 filicides
 fumistery
-fields
 forswears
 fortake
 fertilizations
