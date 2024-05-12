@@ -1637,7 +1637,6 @@ fleyland
 fawn
 fawned
 fretize
-fellmongery
 frankly
 firearms
 forthrights
@@ -9965,6 +9964,7 @@ flounces
 fletton
 fortress
 funnelform
+fellmongery
 farers
 fricando
 fricasseeing
