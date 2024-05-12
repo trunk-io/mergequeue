@@ -2507,7 +2507,6 @@ deckhead
 deckle
 deckman
 deckpipe
-decks
 dulls
 declaim
 dichorisandra
@@ -6005,6 +6004,7 @@ deducibleness
 doctorlike
 donators
 deprovincialize
+decks
 debord
 depsid
 deed
