@@ -2276,6 +2276,7 @@ crutches
 canaliculus
 canaliferous
 canaliform
+concanavalin
 canaling
 canalis
 conflagrant
@@ -12542,7 +12543,6 @@ choleinic
 clarioned
 chromolith
 chromolithic
-concanavalin
 chromolithography
 chromolithographic
 chromomere
