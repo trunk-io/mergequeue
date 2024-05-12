@@ -12484,6 +12484,7 @@ backbeat
 binders
 bonetail
 bonetta
+bulter
 bigotish
 bonewood
 bonework
@@ -14606,7 +14607,6 @@ backworm
 brassier
 brassiere
 blaver
-bulter
 brassieres
 brassies
 beatas
