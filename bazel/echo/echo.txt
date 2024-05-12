@@ -2096,6 +2096,7 @@ enarm
 elastin
 elastins
 exemplupla
+epocha
 elastivity
 elastomer
 emperish
@@ -8425,7 +8426,6 @@ epizootiology
 equip
 eglogue
 epizootology
-epocha
 eumitosis
 epoche
 epochism
