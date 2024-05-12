@@ -2573,7 +2573,6 @@ declinator
 declinatory
 declinature
 decline
-decliner
 djalmaite
 declines
 declining
@@ -11000,6 +10999,7 @@ disaligning
 disalignment
 disalike
 disally
+decliner
 deplumed
 disalliege
 disallow

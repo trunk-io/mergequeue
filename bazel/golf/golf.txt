@@ -36,7 +36,6 @@ grittiness
 gabbro
 gabbroid
 gabbroitic
-gabelleman
 gabendum
 gowf
 gaberdine
@@ -4879,6 +4878,7 @@ genies
 givens
 garderobe
 giver
+gabelleman
 givers
 gladeye
 glossematics
