@@ -2341,6 +2341,7 @@ achromobacterieae
 achromoderma
 achromotrichia
 achromous
+admove
 articulability
 achronychous
 achronism
@@ -24651,7 +24652,6 @@ averment
 apholate
 acinetarian
 averments
-admove
 avern
 avernal
 avernus
