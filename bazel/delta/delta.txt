@@ -1628,6 +1628,7 @@ deresinize
 deallocation
 deallocations
 deprival
+diaeretic
 dipteron
 deals
 dealt
@@ -8231,7 +8232,6 @@ dioti
 diadumenus
 diaene
 diaereses
-diaeretic
 decanoyl
 deceivableness
 diaetetae
