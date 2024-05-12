@@ -10435,7 +10435,6 @@ chiefdoms
 commentaries
 carotic
 chiefery
-chiefest
 chiefish
 countermarch
 chiefless
@@ -26855,6 +26854,7 @@ conspiring
 counterexaggeration
 counterexamples
 counterexcitement
+chiefest
 counterexercise
 coresidual
 counterexplanation
