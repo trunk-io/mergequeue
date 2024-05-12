@@ -1873,7 +1873,6 @@ gradationately
 granodioritic
 gory
 gastrosophy
-gastrospasm
 gildsman
 goodly
 gynandrarchic
@@ -8611,6 +8610,7 @@ greedyguts
 globosphaerite
 greedless
 greedsome
+gastrospasm
 glims
 gorsechat
 geomagnetist
