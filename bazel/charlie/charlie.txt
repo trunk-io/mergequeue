@@ -12968,7 +12968,6 @@ churnmilk
 churns
 churoya
 churoyan
-churrasco
 churred
 churrigueresco
 churring
@@ -23295,6 +23294,7 @@ consumable
 caucussed
 consumate
 consumated
+churrasco
 consumating
 cosmopolitical
 consume
