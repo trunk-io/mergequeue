@@ -8024,7 +8024,6 @@ cetology
 cetologies
 civiliser
 cetologist
-cetomorpha
 cetomorphic
 cetonia
 cetonian
@@ -11568,6 +11567,7 @@ chok
 costless
 chokage
 choke
+cetomorpha
 chokeberry
 certif
 chokeberries

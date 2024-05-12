@@ -14808,7 +14808,6 @@ breakers
 breakfast
 breakfasted
 breakfronts
-breaking
 big
 breakings
 breaklist
@@ -17845,6 +17844,7 @@ burriest
 bounce
 burring
 bejabers
+breaking
 burrknot
 burro
 bygoing
