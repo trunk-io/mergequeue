@@ -8287,7 +8287,6 @@ broid
 byerite
 bierkeller
 byerlite
-backspliced
 bierstuben
 byestreet
 biethnic
@@ -18226,6 +18225,7 @@ butter
 butteraceous
 butterback
 bowsing
+backspliced
 butterball
 butterbird
 barium
