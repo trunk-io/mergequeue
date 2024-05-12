@@ -20112,7 +20112,6 @@ aromal
 acervatim
 azonal
 auspices
-aculeate
 aromas
 aromatic
 aromatical
@@ -23450,6 +23449,7 @@ aularian
 auld
 aulder
 auldest
+aculeate
 ambusher
 auldfarrantlike
 auletai
