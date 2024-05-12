@@ -3004,6 +3004,7 @@ brassiness
 bartisans
 borts
 bartizan
+bombus
 bartizans
 becarpets
 bartlett
@@ -12352,7 +12353,6 @@ bombous
 bombycilla
 bombs
 bombsights
-bombus
 bombardelle
 bomi
 barbuts
