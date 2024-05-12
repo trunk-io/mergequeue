@@ -6018,6 +6018,7 @@ beltane
 bactericholia
 bimetalic
 beltcourse
+boutefeu
 beltene
 belter
 ballistic
@@ -13673,7 +13674,6 @@ boustrophedon
 bloomer
 buccaned
 banqueted
-boutefeu
 banqueteer
 bouteria
 brigands
