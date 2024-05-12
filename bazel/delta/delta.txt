@@ -11294,6 +11294,7 @@ disced
 dissyllabify
 devaraja
 dalan
+disclosive
 discepts
 discernable
 dammaret
@@ -11414,7 +11415,6 @@ dissuader
 debug
 disclosed
 discloser
-disclosive
 disclosure
 disclosures
 discloud
