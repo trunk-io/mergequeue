@@ -929,7 +929,6 @@ ferocity
 farad
 faraday
 fittest
-faradaic
 fireproofness
 flamed
 forswear
@@ -8542,6 +8541,7 @@ fream
 fanlike
 formulized
 famulus
+faradaic
 fred
 frenchwise
 fleeing
