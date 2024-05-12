@@ -9113,6 +9113,7 @@ erythrocytoschisis
 erythrocytosis
 elementariness
 erythroclastic
+enterokinase
 erythrophage
 erythrodegenerative
 ephebeum
@@ -10956,7 +10957,6 @@ exothermic
 euphonising
 euphonized
 easternize
-enterokinase
 euphonous
 emoter
 encephalocoele
