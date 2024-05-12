@@ -5819,6 +5819,7 @@ feff
 fload
 florally
 ferulas
+fontes
 floatage
 farmeries
 fireling
@@ -10433,7 +10434,6 @@ fictor
 forgivableness
 filigerous
 fraternise
-fontes
 flusterment
 fibrocartilage
 frontignac
