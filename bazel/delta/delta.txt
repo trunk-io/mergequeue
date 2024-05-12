@@ -5549,7 +5549,6 @@ deoxygenated
 dilatation
 deoxygenation
 deoxygenized
-deoxyribonucleoprotein
 deoxyribonucleotide
 deozonization
 demiking
@@ -16157,6 +16156,7 @@ dovekeys
 dovekies
 dovelet
 dovelike
+deoxyribonucleoprotein
 dephosphorization
 dovelikeness
 doveling
