@@ -1934,7 +1934,6 @@ bandolero
 bandoleros
 brockle
 bandonion
-bandor
 bandora
 bandore
 bronchium
@@ -15337,6 +15336,7 @@ binominous
 brillante
 brilliance
 braata
+bandor
 bixa
 brilliancy
 ballist
