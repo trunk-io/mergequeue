@@ -776,7 +776,6 @@ galvanizers
 gujar
 galvanizes
 galvanizing
-galvanocauteries
 galvanoglyph
 glycid
 gerbillinae
@@ -3176,6 +3175,7 @@ golandaas
 gripe
 glyceraldehyde
 geopolitical
+galvanocauteries
 gyroceras
 geopolitician
 guttular
