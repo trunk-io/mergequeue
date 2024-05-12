@@ -14232,6 +14232,7 @@ cardcastle
 casemate
 circler
 circles
+climacium
 circlet
 circleting
 circlets
@@ -17481,7 +17482,6 @@ cobias
 cobiron
 cobishop
 craniometer
-climacium
 coble
 cobleman
 comminuting
