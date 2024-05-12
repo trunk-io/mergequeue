@@ -6215,7 +6215,6 @@ agitators
 agitatrix
 agitprop
 agitprops
-agkistrodon
 athrocytosis
 aglaia
 atocia
@@ -19185,6 +19184,7 @@ archpriestship
 archprimate
 archprince
 ars
+agkistrodon
 archprotopope
 archpublican
 archpuritan
