@@ -1,6 +1,5 @@
 bordereaux
 baccalaureat
-baal
 baalath
 balantidiasis
 baalim
@@ -10028,6 +10027,7 @@ biventral
 baroscopical
 bargainor
 beggardom
+baal
 biverb
 bivial
 beinness
