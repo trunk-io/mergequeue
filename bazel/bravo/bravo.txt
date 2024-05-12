@@ -3463,7 +3463,6 @@ bastings
 bastion
 blendure
 builtin
-bituminise
 bastionary
 bodingly
 bastionet
@@ -8455,6 +8454,7 @@ biserially
 beast
 batatilla
 bisons
+bituminise
 bigmouthed
 bigmouths
 benzocoumaran
