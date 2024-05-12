@@ -11631,7 +11631,6 @@ cupellation
 cholecystocolostomy
 cognisability
 crazies
-cholecystoduodenostomy
 cholecystogastrostomy
 cholecystogram
 cholecystography
@@ -11740,6 +11739,7 @@ crossroading
 caperer
 choloid
 choloidinic
+cholecystoduodenostomy
 chololith
 chololithic
 cholones
