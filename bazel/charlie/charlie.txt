@@ -8653,6 +8653,7 @@ cestoda
 chancellery
 chancelleries
 chancellor
+christly
 chancellorate
 chancelloress
 chancellors
@@ -12377,7 +12378,6 @@ crosswind
 christies
 christine
 christlessness
-christly
 christlike
 christmas
 christmasberry
