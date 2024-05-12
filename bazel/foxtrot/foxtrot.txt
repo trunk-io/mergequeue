@@ -640,7 +640,6 @@ falterer
 falteringly
 falters
 falutin
-falx
 fringefoot
 fam
 famacide
@@ -957,6 +956,7 @@ fiqh
 farandman
 fordays
 farandole
+falx
 faerie
 fathomless
 farandoles
