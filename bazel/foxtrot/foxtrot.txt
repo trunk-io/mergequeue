@@ -1684,7 +1684,6 @@ feal
 fealty
 fumigates
 fluorinate
-fear
 fimbles
 fusillade
 fearedly
@@ -4967,6 +4966,7 @@ filthified
 frowsier
 faineantise
 flankwise
+fear
 flatbeds
 flannelette
 flanneling
