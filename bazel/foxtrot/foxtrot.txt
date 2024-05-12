@@ -9132,6 +9132,7 @@ feasing
 foxholes
 film
 furnace
+fungus
 foxhounds
 filterer
 fleabanes
@@ -10107,7 +10108,6 @@ frim
 flavoury
 frimaire
 flor
-fungus
 fitter
 frontopontine
 fortuneteller
