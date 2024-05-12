@@ -2689,7 +2689,6 @@ barmcloth
 brither
 barmfel
 becoward
-barmiest
 barmote
 barms
 barn
@@ -4675,6 +4674,7 @@ bedehouses
 bedell
 bedelve
 bedeman
+barmiest
 bulged
 boud
 bedemen
