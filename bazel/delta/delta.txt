@@ -7732,7 +7732,6 @@ devirgination
 diaglyph
 devirginator
 devirilize
-devisability
 devisable
 dined
 devisal
@@ -15061,6 +15060,7 @@ damningness
 dn
 disencumbering
 dogsleds
+devisability
 degustate
 disconformable
 dogsleep

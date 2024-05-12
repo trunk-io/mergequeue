@@ -3132,7 +3132,6 @@ gangliate
 geomorphology
 geomorphologically
 golliwog
-graveolence
 geomorphologist
 gravelroot
 georgian
@@ -7095,6 +7094,7 @@ guacin
 gopherwood
 grisette
 guignardia
+graveolence
 grottoed
 gherkins
 goolde
