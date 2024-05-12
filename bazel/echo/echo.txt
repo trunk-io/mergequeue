@@ -2076,6 +2076,7 @@ equatoreal
 elastase
 excretory
 elastases
+enterozoan
 elastica
 extrapolator
 epictetian
@@ -8795,7 +8796,6 @@ euda
 extime
 elev
 eranist
-enterozoan
 eranthemum
 erasability
 erasable
