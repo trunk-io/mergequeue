@@ -2047,6 +2047,7 @@ garland
 gaup
 gas
 goring
+gerated
 gunfought
 gliomatous
 gladrags
@@ -4547,7 +4548,6 @@ gipsies
 gugu
 gypsiferous
 gullable
-gerated
 galtonian
 gypsyfy
 gravelweed
