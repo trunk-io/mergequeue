@@ -6721,7 +6721,6 @@ flyblow
 furriness
 fogdogs
 fairways
-fogdom
 foeffment
 foge
 fascet
@@ -9707,6 +9706,7 @@ flowerer
 freenesses
 fidgeters
 figment
+fogdom
 flotations
 freers
 foliosity
