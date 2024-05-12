@@ -6643,7 +6643,6 @@ foams
 flirtier
 frequents
 focal
-featness
 focalization
 focalizes
 formalize
@@ -8817,6 +8816,7 @@ frolicly
 fossage
 fole
 flaxes
+featness
 female
 fossane
 fidel
