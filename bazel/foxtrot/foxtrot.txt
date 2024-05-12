@@ -5512,7 +5512,6 @@ flyball
 fantasticate
 flatworm
 fluctuant
-flibbertigibbety
 flybelt
 flybelts
 fortunetellers
@@ -11330,6 +11329,7 @@ firedog
 fellen
 furciferine
 feverfew
+flibbertigibbety
 fresnels
 frabous
 felicitator

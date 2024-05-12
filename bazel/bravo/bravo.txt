@@ -1507,7 +1507,6 @@ ballades
 bacteremia
 borstal
 balladic
-balladical
 balladier
 balladised
 balladising
@@ -5447,6 +5446,7 @@ behallow
 behammer
 beshine
 behap
+balladical
 bookmonger
 boarstaff
 bubblingly
