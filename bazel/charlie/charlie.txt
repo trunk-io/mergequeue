@@ -6796,6 +6796,7 @@ cubhood
 clearway
 celiomyositis
 celioparacentesis
+coccic
 cerinthian
 celiopyosis
 celiorrhea
@@ -17544,7 +17545,6 @@ conducible
 coccerin
 corr
 cocci
-coccic
 coccid
 coccidae
 coccidial
