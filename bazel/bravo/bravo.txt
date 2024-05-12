@@ -7511,7 +7511,6 @@ betrothing
 betrothment
 betroths
 betrousered
-betrumpet
 betrunk
 betrust
 bets
@@ -10217,6 +10216,7 @@ blacklegism
 blacklist
 blacklisted
 blacklister
+betrumpet
 beparse
 blacklists
 brainer
