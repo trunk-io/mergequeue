@@ -4970,7 +4970,6 @@ endite
 eclairs
 evacuative
 eland
-endjunk
 evens
 endleaf
 endless
@@ -7036,6 +7035,7 @@ evangely
 endotropic
 entwines
 emulatively
+endjunk
 ensuer
 eau
 enucleated
