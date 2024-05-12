@@ -1952,6 +1952,7 @@ bandsawed
 bandsawn
 bandsman
 bandsmen
+blasphemous
 bandspreading
 bandstand
 boronia
@@ -10455,7 +10456,6 @@ blasphemed
 blasphemes
 blasphemy
 blasphemies
-blasphemous
 blasphemously
 blasphemousness
 buttonhole
