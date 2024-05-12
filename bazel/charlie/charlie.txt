@@ -6661,7 +6661,6 @@ crenellation
 cedrine
 cedriret
 cedrium
-cedrol
 corticiform
 cedron
 centibar
@@ -13988,6 +13987,7 @@ cyniatria
 cyniatrics
 cynical
 cosmetologists
+cedrol
 cynically
 cynicalness
 carmakers
