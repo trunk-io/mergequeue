@@ -12268,7 +12268,6 @@ bushfighter
 bombarder
 bombardiers
 bombarding
-bombardman
 burrfishes
 bullwhacker
 bramantesque
@@ -13509,6 +13508,7 @@ bouillone
 bookmate
 boodlers
 bouillons
+bombardman
 bestially
 beento
 beanballs
