@@ -8939,7 +8939,6 @@ dichroic
 dail
 dusterman
 dichroism
-dihydride
 dichroite
 dichroitic
 dichromasia
@@ -12857,6 +12856,7 @@ doubtmonger
 disomus
 discolor
 doubtfully
+dihydride
 disoperation
 dasnt
 distains
