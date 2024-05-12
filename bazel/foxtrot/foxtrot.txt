@@ -6670,7 +6670,6 @@ flumed
 focussing
 fod
 fodder
-fodderer
 foder
 foederati
 frontes
@@ -8712,6 +8711,7 @@ fluctuates
 fortissimi
 fortissimo
 forepad
+fodderer
 fortissimos
 fabricatress
 forefin
