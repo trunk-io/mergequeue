@@ -4560,6 +4560,7 @@ demibarrel
 demibastion
 demibath
 demibeast
+deracine
 demibelt
 dinornithes
 dislink
@@ -6130,7 +6131,6 @@ dijudicant
 deration
 divvying
 duperies
-deracine
 deratized
 derats
 damozels
