@@ -7931,7 +7931,6 @@ cervus
 cesare
 cesareans
 cesarevitch
-cesarian
 cesarians
 cesarolite
 chats
@@ -22670,6 +22669,7 @@ connotive
 connotively
 conns
 connu
+cesarian
 connubial
 connubiality
 conteur
