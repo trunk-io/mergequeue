@@ -13186,7 +13186,6 @@ dispond
 dispondaic
 dispondee
 dispone
-disponed
 disponent
 disserved
 deathling
@@ -14943,6 +14942,7 @@ dogedoms
 dogeys
 doges
 doggerelled
+disponed
 dogeship
 dicentrine
 dueler
