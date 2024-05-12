@@ -3956,6 +3956,7 @@ carcajous
 carcake
 carcanet
 codger
+constellation
 carcanets
 carcanetted
 carcases
@@ -23118,7 +23119,6 @@ coystrel
 constellated
 constellating
 communised
-constellation
 chanting
 constellations
 constellatory
