@@ -7848,7 +7848,6 @@ devouringness
 devourment
 deranger
 devoutful
-decrement
 devoutlessness
 dukery
 devoutly
@@ -15223,6 +15222,7 @@ dollymen
 dollin
 dolliness
 disuniform
+decrement
 dollishly
 dollishness
 dolcian
