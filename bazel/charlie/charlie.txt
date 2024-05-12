@@ -212,7 +212,6 @@ cabrioles
 cabriolet
 cabriolets
 contemporise
-cabrit
 cabs
 cabstand
 cabstands
@@ -8506,6 +8505,7 @@ chambellan
 chamber
 chamberdeacon
 chambered
+cabrit
 catocala
 colonopathy
 chambering
