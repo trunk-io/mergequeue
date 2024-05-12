@@ -4933,7 +4933,6 @@ cassava
 cartelization
 crystallophobia
 cartelizing
-cartellist
 carter
 carters
 cartesian
@@ -26422,6 +26421,7 @@ coterminously
 characterologist
 coterminousness
 cotes
+cartellist
 cotesian
 crossbones
 coth
