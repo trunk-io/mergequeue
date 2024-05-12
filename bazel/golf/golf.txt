@@ -7433,6 +7433,7 @@ gyrostatics
 gibing
 guesstimate
 gymnotidae
+geomagnetist
 goldsmith
 gerful
 gluemaking
@@ -8614,7 +8615,6 @@ greedless
 greedsome
 glims
 gorsechat
-geomagnetist
 gypsography
 greegrees
 gunnysack
