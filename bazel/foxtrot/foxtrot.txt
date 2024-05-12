@@ -3275,6 +3275,7 @@ ferroinclave
 flairs
 fiddle
 faceoff
+fantod
 fiddlebow
 fiddlecome
 fiddled
@@ -7326,7 +7327,6 @@ farmer
 foozle
 foozled
 foliobranchiate
-fantod
 fopped
 forelock
 fopperies
