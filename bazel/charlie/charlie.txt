@@ -2099,7 +2099,6 @@ camphanic
 camphanone
 camphene
 camphenes
-camphine
 conturbation
 coalbin
 camphines
@@ -30652,6 +30651,7 @@ cuecas
 cued
 coeffects
 cueist
+camphine
 colombo
 coempts
 cuemen
