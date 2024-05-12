@@ -15314,7 +15314,6 @@ consumables
 claimers
 claiming
 claymore
-claims
 clayoquot
 claypans
 clair
@@ -27830,6 +27829,7 @@ cozes
 cerebroside
 cozy
 cozie
+claims
 cozier
 coziest
 cp
