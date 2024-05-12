@@ -6507,7 +6507,6 @@ benzopyrazolone
 benzopyrene
 benzopyrylium
 benzoquinoxaline
-baltimorean
 benzosulfimide
 barbaresque
 benzosulphimide
@@ -18337,6 +18336,7 @@ buttonwood
 brachiation
 buttress
 buttressed
+baltimorean
 breviped
 buttressing
 buttressless
