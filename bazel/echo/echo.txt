@@ -2415,7 +2415,6 @@ electrogenic
 electrogild
 electrogilt
 ejecting
-electrogram
 eleve
 electrography
 eudyptes
@@ -8631,6 +8630,7 @@ elderbrotherhood
 extraliminal
 epicyclical
 equilibriums
+electrogram
 equilobed
 equimodal
 exodos
