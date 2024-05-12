@@ -726,7 +726,6 @@ grad
 grammies
 garnierite
 guidership
-galops
 greffotome
 glucosemia
 goniotropous
@@ -6558,6 +6557,7 @@ goldenrod
 gucked
 goldentop
 gastrea
+galops
 golder
 grower
 gambrelled
