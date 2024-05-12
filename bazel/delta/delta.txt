@@ -1735,6 +1735,7 @@ deathtime
 deathtrap
 deathtraps
 dhunchee
+deploration
 deathward
 dikaryon
 deathwatches
@@ -5757,7 +5758,6 @@ deplorability
 deplorableness
 deplorably
 diving
-deploration
 deplore
 deplored
 deploredness

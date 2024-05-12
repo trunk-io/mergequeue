@@ -1410,6 +1410,7 @@ bugged
 balductum
 bale
 baleare
+berline
 balearian
 bathofloric
 basnet
@@ -6789,7 +6790,6 @@ beneficing
 broomstaff
 berate
 balaamitical
-berline
 berliners
 berlinite
 banzais
