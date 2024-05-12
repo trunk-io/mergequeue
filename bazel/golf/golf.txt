@@ -6208,6 +6208,7 @@ gloriette
 gnaws
 gneiss
 grotesquely
+gravitometer
 gombos
 gressible
 greatcoats
@@ -8490,7 +8491,6 @@ governante
 gravities
 guatemala
 glycins
-gravitometer
 graviton
 gravitons
 gravure
