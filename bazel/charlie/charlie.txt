@@ -4286,7 +4286,6 @@ caretake
 caretaker
 caretakers
 cattie
-caretaking
 caretook
 carets
 caretta
@@ -20719,6 +20718,7 @@ complexioned
 charioted
 complexionist
 complexionless
+caretaking
 cahuapana
 complexions
 chronologic
