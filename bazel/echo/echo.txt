@@ -2902,7 +2902,6 @@ elicitor
 ennoblers
 elicitors
 elicits
-elevatedness
 expensefulness
 elide
 euchromatin
@@ -7369,6 +7368,7 @@ encolumn
 etruria
 epepophysis
 epergne
+elevatedness
 etalon
 eperlan
 echevin
