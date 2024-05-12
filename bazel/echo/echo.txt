@@ -6388,7 +6388,6 @@ enslaved
 emulate
 epimerising
 euphoniad
-exarchy
 exonship
 enslavedness
 enslavements
@@ -11780,6 +11779,7 @@ echinoderes
 euglena
 examples
 ectosomal
+exarchy
 exampling
 emphrensy
 exanimation
