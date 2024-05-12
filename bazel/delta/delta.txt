@@ -4691,7 +4691,6 @@ demipillar
 demipique
 demiplacate
 dishtowel
-demiplate
 demipomada
 demipremise
 demipronation
@@ -15633,6 +15632,7 @@ dennis
 deadhouse
 doorways
 detacher
+demiplate
 doorward
 doorweed
 divagating
