@@ -3957,7 +3957,6 @@ deked
 dekes
 deking
 dustcoat
-dotage
 douser
 decameter
 dekle
@@ -12679,6 +12678,7 @@ dislocability
 dislocate
 drammer
 dustcloth
+dotage
 dehydratase
 duramatral
 dislocated
