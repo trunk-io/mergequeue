@@ -3098,7 +3098,6 @@ baseborn
 birdlime
 blemisher
 basebred
-bacterins
 baseburner
 basecourt
 betokener
@@ -4134,6 +4133,7 @@ beanos
 beanpole
 bagge
 beanpoles
+bacterins
 beans
 beansetter
 beanshooter
