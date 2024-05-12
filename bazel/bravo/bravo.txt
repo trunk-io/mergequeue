@@ -4857,7 +4857,6 @@ bolometer
 bedstraw
 bedstraws
 bedstring
-bedswerver
 bices
 branchiurous
 bate
@@ -15498,6 +15497,7 @@ bristlebird
 bristlecone
 birdman
 bombproof
+bedswerver
 bristled
 biopsychical
 bromacetanilide
