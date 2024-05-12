@@ -4790,6 +4790,7 @@ floor
 fickleness
 formalin
 fairishness
+flugel
 fitchy
 flagstick
 falconers
@@ -6258,7 +6259,6 @@ fud
 fluffiness
 fluffs
 frogleaf
-flugel
 fluible
 fabliau
 foreseat
