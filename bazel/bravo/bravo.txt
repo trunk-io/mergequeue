@@ -348,6 +348,7 @@ backfield
 bangala
 backfields
 backfiller
+brachyfacial
 backfilling
 backfills
 backfired
@@ -13994,7 +13995,6 @@ brachydomatic
 brachydome
 brachydont
 brachydontism
-brachyfacial
 brachyglossal
 baluchitherium
 brachygnathia
