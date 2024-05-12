@@ -3947,7 +3947,6 @@ bchs
 ballotage
 bd
 bebar
-bde
 bdellatomy
 brotan
 bdellium
@@ -15555,6 +15554,7 @@ brittlestem
 batrachotoxin
 brittlewort
 brittonic
+bde
 britts
 britzkas
 britzska
