@@ -5861,7 +5861,6 @@ bellic
 bldg
 bellical
 bellicism
-berhymed
 bellicist
 bacteriotoxic
 bestowing
@@ -9715,6 +9714,7 @@ bisymmetric
 billback
 bisymmetrical
 bigg
+berhymed
 bisync
 bisischiatic
 bauera
