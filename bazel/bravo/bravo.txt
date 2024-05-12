@@ -6862,6 +6862,7 @@ berrypicker
 berrypicking
 berrugate
 bersagliere
+beardfish
 bersaglieri
 berseem
 berseems
@@ -18396,7 +18397,6 @@ buzziest
 buzzing
 buzzingly
 buzzle
-beardfish
 buzzword
 bubber
 bespring
