@@ -15388,6 +15388,7 @@ consonantalizing
 clamming
 clammyweed
 clamor
+customableness
 clamored
 clamorer
 clamorers
@@ -31711,7 +31712,6 @@ custodianship
 custodier
 custodies
 custom
-customableness
 customably
 carcerated
 customance
