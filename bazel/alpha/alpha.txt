@@ -9132,6 +9132,7 @@ almandines
 almanner
 alme
 almeh
+artifice
 almehs
 amar
 antiputrefaction
@@ -20740,7 +20741,6 @@ artifacts
 artifactual
 artifactually
 artifex
-artifice
 artificer
 artificers
 artificership
