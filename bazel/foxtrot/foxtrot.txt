@@ -7458,7 +7458,6 @@ foglietto
 futhark
 fumerel
 forceps
-fey
 forceput
 fazing
 fileable
@@ -11271,6 +11270,7 @@ faultfinding
 funmaking
 funnel
 flit
+fey
 fingerflower
 frailly
 forpine
