@@ -2048,6 +2048,7 @@ filacer
 feinter
 feudary
 facedown
+fungian
 frenches
 feinting
 feis
@@ -11183,7 +11184,6 @@ fungation
 fungi
 fungia
 firmisternial
-fungian
 fthm
 firestone
 fungibility
