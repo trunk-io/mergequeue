@@ -3849,7 +3849,6 @@ barrington
 baulea
 baulk
 baulked
-baulky
 brache
 bunjara
 barques
@@ -15797,6 +15796,7 @@ bombycidae
 bromeigon
 bromeikon
 bromelia
+baulky
 bromeliaceae
 bromeliaceous
 bromeliad
