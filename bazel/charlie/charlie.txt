@@ -118,7 +118,6 @@ cabinet
 cabineting
 cabinetmaking
 cabinetry
-capacitated
 cabinetted
 clitelline
 cabinetworker
@@ -1790,6 +1789,7 @@ camanay
 cire
 counterwarmth
 carucal
+capacitated
 camanchaca
 camansi
 camara
