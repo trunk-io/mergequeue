@@ -7523,7 +7523,6 @@ betrend
 braveries
 betrothing
 betrothment
-betroths
 betrousered
 betrumpet
 betrunk
@@ -15785,6 +15784,7 @@ beelol
 begrutch
 buhlworks
 bromaurate
+betroths
 bromauric
 brombenzamide
 bumboats
