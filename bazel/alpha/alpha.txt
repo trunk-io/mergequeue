@@ -8176,6 +8176,7 @@ algodoncillo
 algodonite
 algoesthesiometer
 aides
+avoidances
 artisanship
 algoid
 algol
@@ -24825,7 +24826,6 @@ avoidable
 avoidably
 avoidance
 aimfully
-avoidances
 avoidant
 avoider
 avoidment
