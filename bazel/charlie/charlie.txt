@@ -22002,6 +22002,7 @@ concolorous
 configurative
 configure
 configured
+customizes
 configures
 configuring
 coxcombry
@@ -31736,7 +31737,6 @@ customize
 customized
 customizer
 customizers
-customizes
 customizing
 customly
 citronade
