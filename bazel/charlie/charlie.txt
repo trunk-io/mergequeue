@@ -3425,7 +3425,6 @@ caprioling
 capriote
 capriped
 capripede
-chordotonal
 caducecaducean
 chorography
 capris
@@ -7394,6 +7393,7 @@ carks
 cephalocaudal
 cupels
 cephalocele
+chordotonal
 cephalocentesis
 coprocessors
 cufflink
