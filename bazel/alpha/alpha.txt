@@ -10355,7 +10355,6 @@ algebraic
 amerimnon
 amerind
 anchorage
-androgen
 amerindians
 anatomisable
 amerinds
@@ -19842,6 +19841,7 @@ arithmogram
 arithmograph
 arithmography
 anticoagulants
+androgen
 azulejos
 arithmomancy
 arithmomania
