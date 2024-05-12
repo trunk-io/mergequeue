@@ -1870,7 +1870,6 @@ colobus
 countercampaign
 cambridge
 catostomidae
-chaumer
 cambuca
 cambuscan
 came
@@ -11929,6 +11928,7 @@ choragus
 choraguses
 calashes
 chorai
+chaumer
 choral
 choralcelo
 chorale
