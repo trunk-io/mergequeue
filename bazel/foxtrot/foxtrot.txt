@@ -4429,7 +4429,6 @@ furcates
 fissility
 focaloid
 fissionable
-fissioned
 frays
 fissions
 fregit
@@ -9100,6 +9099,7 @@ fowlers
 fowlfoot
 fowlings
 fluvious
+fissioned
 fowlpox
 fowlpoxes
 fib
