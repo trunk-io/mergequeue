@@ -8741,7 +8741,6 @@ allerion
 allethrin
 alleve
 alleviate
-alleviated
 alleviater
 abscind
 accusatival
@@ -23790,6 +23789,7 @@ allosaurus
 andoke
 autarkist
 aute
+alleviated
 autechoscope
 autoblast
 arising
