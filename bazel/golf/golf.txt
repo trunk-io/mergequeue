@@ -4843,7 +4843,6 @@ gratinate
 geomedical
 gematria
 garran
-garua
 goodyear
 gitoxin
 galactite
@@ -7833,6 +7832,7 @@ granado
 granage
 grandparentage
 granam
+garua
 granary
 gorst
 genetic
