@@ -4233,7 +4233,6 @@ beata
 benches
 beatable
 beatably
-beatae
 beatee
 beaters
 beech
@@ -8144,6 +8143,7 @@ biconnected
 biconsonantal
 biconvex
 biconvexity
+beatae
 bicorn
 benzoylformic
 bombyx
