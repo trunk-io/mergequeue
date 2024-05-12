@@ -1303,7 +1303,6 @@ effectualness
 effectuated
 effectuating
 effervesced
-epimyocardial
 exuberate
 effectuous
 effeir
@@ -6196,6 +6195,7 @@ enraged
 erotizing
 electrofishing
 extraepiphyseal
+epimyocardial
 enragedness
 enragement
 ethnographical
