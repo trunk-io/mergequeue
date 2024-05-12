@@ -6846,6 +6846,7 @@ aircoaches
 aircraft
 aircraftman
 atenist
+assemblymen
 axometer
 aircraftmen
 ausu
@@ -21690,7 +21691,6 @@ assembly
 assemblyman
 apotropaism
 absinthiate
-assemblymen
 assemblywoman
 assemblywomen
 assent
