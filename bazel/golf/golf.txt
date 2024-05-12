@@ -1677,7 +1677,6 @@ gasteropoda
 gordolobo
 gallons
 gastight
-gastly
 gastness
 gastnesses
 gregarinida
@@ -6946,6 +6945,7 @@ gemmaceous
 goodlier
 goodliest
 gynodioeciously
+gastly
 gingerly
 goodlihead
 goodliness
