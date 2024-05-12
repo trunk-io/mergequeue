@@ -3949,7 +3949,6 @@ adiposeness
 adiposis
 adiposity
 abdominoscope
-adiposogenital
 aslope
 adiposuria
 adipous
@@ -13533,6 +13532,7 @@ annelida
 annelidan
 agrammatical
 annelidian
+adiposogenital
 annelidous
 annelids
 aioli
