@@ -2201,7 +2201,6 @@ decreative
 decasualise
 decasualised
 decasualising
-decasualize
 durr
 decasualized
 decasualizing
@@ -2547,6 +2546,7 @@ declasses
 disjudication
 declassicize
 declassification
+decasualize
 declassifications
 dieties
 dothiorella
