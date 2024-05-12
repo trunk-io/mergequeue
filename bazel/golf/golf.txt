@@ -7180,7 +7180,6 @@ glaciate
 greenthumbed
 geotectonics
 gorgonlike
-gorgons
 groggily
 gypsyry
 ganglionary
@@ -10560,6 +10559,7 @@ gunong
 girasols
 gerbille
 greenockite
+gorgons
 gratify
 gerusia
 gunpoint
