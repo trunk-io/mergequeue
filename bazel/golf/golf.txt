@@ -1129,7 +1129,6 @@ gateado
 galleasses
 gonimous
 gangrened
-grapeline
 gangrenes
 gangrenescent
 gangrenous
@@ -6068,6 +6067,7 @@ germlike
 granitelike
 glumpier
 glumpiest
+grapeline
 glunch
 gastrohydrorrhea
 glassmen
