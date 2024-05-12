@@ -6156,7 +6156,6 @@ dereferencing
 deregulate
 deregulated
 deregulation
-deregulationize
 deregulations
 deregulatory
 dereign
@@ -10563,6 +10562,7 @@ diplocephalous
 diplocephalus
 desmognathae
 dister
+deregulationize
 dysaphia
 decolourize
 diplococcemia
