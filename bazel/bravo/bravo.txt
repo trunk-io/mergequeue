@@ -5946,7 +5946,6 @@ bellowslike
 belted
 boe
 bellowsmaking
-bellowsman
 bellpull
 bellpulls
 burhead
@@ -8247,6 +8246,7 @@ bountith
 begets
 bidree
 bottle
+bellowsman
 bidri
 bidry
 brutelike
