@@ -5947,7 +5947,6 @@ bellowslike
 belted
 boe
 bellowsmaking
-bellowsman
 bellpull
 bellpulls
 burhead
@@ -11889,6 +11888,7 @@ botonn
 bogart
 beatificate
 bogatyr
+bellowsman
 bogbean
 bogbeans
 bogberry
