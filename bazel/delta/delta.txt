@@ -312,7 +312,6 @@ decupled
 directories
 daybeacon
 dipylon
-daybed
 disambiguation
 dissuasiveness
 delirant
@@ -8441,6 +8440,7 @@ defenestrated
 diamagnet
 decrescence
 diamagnetic
+daybed
 diamagnetism
 diamagnetize
 dredging
