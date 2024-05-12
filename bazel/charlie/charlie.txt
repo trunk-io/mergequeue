@@ -30593,7 +30593,6 @@ cyathoid
 calcular
 cucumiform
 cucupha
-cucurb
 compole
 cucurbita
 cucurbitaceae
@@ -31549,6 +31548,7 @@ curtlax
 chestiness
 curtness
 curtnesses
+cucurb
 curtseyed
 curtsy
 curtsied
