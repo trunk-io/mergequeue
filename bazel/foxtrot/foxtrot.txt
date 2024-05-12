@@ -3442,6 +3442,7 @@ fiftieth
 forseen
 forefeet
 fiftypenny
+flugel
 figary
 figaro
 farm
@@ -6264,7 +6265,6 @@ fud
 fluffiness
 fluffs
 frogleaf
-flugel
 fluible
 fabliau
 foreseat
