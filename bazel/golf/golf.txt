@@ -725,7 +725,6 @@ govern
 germanesque
 gutterize
 grapplers
-goneril
 galop
 galopade
 galopin
@@ -9702,6 +9701,7 @@ gumma
 grapestone
 grubstaking
 grumped
+goneril
 grf
 grumph
 grumphy
