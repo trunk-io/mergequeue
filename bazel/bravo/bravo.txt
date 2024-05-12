@@ -2685,6 +2685,7 @@ bollixes
 barmaids
 bututs
 barmaster
+beadhouses
 benzoic
 barmbrack
 barmcloth
@@ -5592,7 +5593,6 @@ bejewelling
 bejewels
 backstamp
 bejezebel
-beadhouses
 bricksetter
 bejig
 bejuco
