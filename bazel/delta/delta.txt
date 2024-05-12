@@ -6670,6 +6670,7 @@ deservedness
 deserver
 deservers
 duncify
+distinctor
 ductings
 dovecots
 deserves
@@ -13875,7 +13876,6 @@ distinctive
 distinctively
 distinctiveness
 distinctness
-distinctor
 distingue
 distinguee
 distinguishability
