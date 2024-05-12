@@ -1825,7 +1825,6 @@ eighth
 eighthes
 eighthly
 eighths
-envelop
 earwax
 elaine
 euthyneura
@@ -2307,6 +2306,7 @@ eutectic
 egba
 erythrophore
 episteme
+envelop
 electrocoating
 electrocolloidal
 exhaustable
