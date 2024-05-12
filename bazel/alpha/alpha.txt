@@ -8360,7 +8360,6 @@ abstractly
 alimentativeness
 avoir
 alimented
-alimenter
 alimentic
 alimentive
 alimentotherapy
@@ -17017,6 +17016,7 @@ apiece
 aluminotype
 antienthusiast
 apigenin
+alimenter
 apii
 apikores
 apikoros
