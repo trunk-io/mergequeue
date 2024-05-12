@@ -2444,7 +2444,6 @@ betowel
 bardolater
 bromoiodide
 bardolph
-bardolphian
 bards
 bardship
 bloodguilty
@@ -6592,6 +6591,7 @@ bepranked
 beyonds
 bepress
 brough
+bardolphian
 bepretty
 bepuddle
 bedirt
