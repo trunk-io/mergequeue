@@ -2666,7 +2666,6 @@ genos
 generalships
 generalty
 generant
-greige
 generate
 generated
 generater
@@ -8998,6 +8997,7 @@ garbs
 grilse
 gunstocks
 grantsmanship
+greige
 grassweed
 grimaced
 grimacers
