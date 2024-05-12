@@ -2124,7 +2124,6 @@ acetophenone
 archshepherd
 acetopyrin
 archaecraniate
-acetosalicylic
 acetose
 acetosity
 acetosoluble
@@ -22492,6 +22491,7 @@ affirmative
 aspartyl
 ateles
 amnemonic
+acetosalicylic
 antidromy
 atelestite
 atelets
