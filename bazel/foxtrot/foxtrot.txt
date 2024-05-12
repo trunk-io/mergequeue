@@ -6710,6 +6710,7 @@ flyblow
 furriness
 fogdogs
 fairways
+flagellator
 fogdom
 foeffment
 foge
@@ -7549,7 +7550,6 @@ forecaster
 ferrocyanhydric
 forecastingly
 forecastle
-flagellator
 forecastlehead
 forecastles
 forecatching
