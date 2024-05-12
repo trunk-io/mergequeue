@@ -3537,6 +3537,7 @@ fil
 fattish
 frontless
 filagreed
+foveate
 filagreing
 filament
 filamentiferous
@@ -9598,7 +9599,6 @@ freaks
 forfear
 fellage
 floristic
-foveate
 frecket
 familia
 freckle
