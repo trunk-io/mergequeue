@@ -269,7 +269,6 @@ affiant
 abnormals
 attemper
 abdominoposterior
-abdominoscopy
 agas
 abdominothoracic
 abdominous
@@ -21132,6 +21131,7 @@ asepses
 anagogical
 asepticism
 asepticizing
+abdominoscopy
 aseptolin
 alighted
 actos
