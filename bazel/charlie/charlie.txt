@@ -20215,7 +20215,6 @@ commodiously
 commodiousness
 commoditable
 canfieldite
-commodity
 commodities
 commodore
 commodores
@@ -27984,6 +27983,7 @@ craftily
 craftiness
 craftless
 craftly
+commodity
 crafts
 craftsman
 craftsmanly
