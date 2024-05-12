@@ -10137,6 +10137,7 @@ guidable
 guidance
 git
 gelid
+gr
 guide
 guideboard
 guidebooky
@@ -10233,7 +10234,6 @@ guimbard
 guimpe
 gouging
 guinde
-gr
 grayer
 gorsehatch
 gauzelike
