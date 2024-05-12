@@ -5189,7 +5189,6 @@ gnomish
 gees
 glathsheim
 gte
-glathsheimr
 glauber
 gourmander
 glycocholic
@@ -7905,6 +7904,7 @@ grandma
 grandmammy
 grandmas
 guddled
+glathsheimr
 golach
 grandmaster
 grandmotherly
