@@ -15365,6 +15365,7 @@ clamatory
 cartooned
 clamb
 clambake
+coeloms
 clamber
 clamberer
 colfox
@@ -17146,7 +17147,6 @@ coaged
 cencerros
 coagel
 coagency
-coeloms
 coagencies
 coagent
 caftan
