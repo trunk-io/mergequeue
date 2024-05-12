@@ -3413,6 +3413,7 @@ germinations
 gallicolae
 gossiphood
 grittily
+gablock
 grisaille
 girkin
 gustus
@@ -6198,7 +6199,6 @@ gnats
 geopolitically
 gnatsnap
 grume
-gablock
 gonococcoid
 genitives
 gnawings
