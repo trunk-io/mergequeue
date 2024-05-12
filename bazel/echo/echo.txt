@@ -7507,7 +7507,6 @@ enzymologist
 epicardium
 epicarid
 eyebrow
-epicarides
 employs
 epicarp
 epicarps
@@ -9120,6 +9119,7 @@ elementariness
 erythroclastic
 erythrophage
 erythrodegenerative
+epicarides
 ephebeum
 erythrodermia
 erythrogen
