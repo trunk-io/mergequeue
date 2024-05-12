@@ -3871,7 +3871,6 @@ antimechanist
 adiaphonon
 adiaphoral
 adiaphoresis
-adiaphoretic
 acephalina
 adiaphory
 adiaphorist
@@ -18433,6 +18432,7 @@ adsorptiveness
 arachnean
 arachnid
 asporous
+adiaphoretic
 arachnida
 arachnidial
 arachnids
