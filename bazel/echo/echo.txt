@@ -12302,7 +12302,6 @@ exegesis
 exegesist
 execrated
 exegete
-elegists
 endpaper
 exegetics
 exemplar
@@ -13551,6 +13550,7 @@ extemporary
 extemporariness
 extemporisation
 extemporised
+elegists
 extemporization
 extemporized
 experientially
