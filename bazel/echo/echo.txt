@@ -4025,6 +4025,7 @@ enrollees
 embarked
 emphatical
 endometritis
+effluent
 emphysema
 emetic
 emphyteusis
@@ -12854,7 +12855,6 @@ exotoxins
 ecomomist
 emigrate
 exotropia
-effluent
 exteriorising
 expansum
 eburneoid

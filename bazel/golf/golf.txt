@@ -4555,7 +4555,6 @@ gipsyhead
 gazehound
 gypsyhead
 gaitt
-gradate
 gloeocapsoid
 giglot
 grapeless
@@ -8308,6 +8307,7 @@ gratia
 glassweed
 graticulation
 gibel
+gradate
 gaylies
 gymnurinae
 gamostely
