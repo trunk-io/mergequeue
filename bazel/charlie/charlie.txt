@@ -14330,7 +14330,6 @@ carpellum
 cyclotella
 circumbuccal
 circumbulbar
-circumcallosal
 cuckoos
 circumcellion
 circumcenter
@@ -31821,6 +31820,7 @@ cutlass
 cutlasses
 cutlassfish
 cutlassfishes
+circumcallosal
 cutler
 cutleress
 cutleria

@@ -3290,7 +3290,6 @@ equinovarus
 embain
 epitheliomuscular
 epanthous
-embays
 erythrolitmin
 emballonurid
 emballonuridae
@@ -12120,6 +12119,7 @@ excrementive
 extrasensory
 entomoid
 extramolecular
+embays
 excrementous
 enfolder
 excresce
