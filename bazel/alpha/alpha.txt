@@ -1225,7 +1225,6 @@ acalyculate
 acalypha
 azlactone
 apheliotropic
-acalyptratae
 acalyptrate
 acamar
 acampsia
@@ -9104,6 +9103,7 @@ alluvials
 alluviation
 anatosaurus
 allhallow
+acalyptratae
 alluvio
 alluvion
 anemometric
