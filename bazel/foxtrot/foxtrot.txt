@@ -1343,6 +1343,7 @@ flauntier
 fatalities
 fatally
 flap
+fulminant
 foreturn
 former
 fatbacks
@@ -10954,7 +10955,6 @@ fulltime
 fraternalist
 frescoes
 fulmar
-fulminant
 flighthead
 feoffeeship
 frosts
