@@ -1855,6 +1855,7 @@ bedgown
 bandannaed
 bandar
 bandarlog
+blosmy
 bandboxes
 bandboxy
 broilery
@@ -11205,7 +11206,6 @@ bloops
 balachan
 blooth
 blore
-blosmy
 blossom
 bismuthiferous
 blossomy
