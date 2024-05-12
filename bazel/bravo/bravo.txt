@@ -3183,7 +3183,6 @@ buffi
 basichromatinic
 babai
 basichromiole
-basicity
 bumph
 benzins
 baltis
@@ -8020,6 +8019,7 @@ bibliothecae
 bibliothecal
 bibliothecary
 bibliothecarian
+basicity
 bibliothecas
 beshag
 blake
