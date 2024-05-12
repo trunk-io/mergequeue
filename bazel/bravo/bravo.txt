@@ -3236,7 +3236,6 @@ basileis
 bractea
 babbling
 basileus
-basilian
 bicorporeal
 basilic
 barrenwort
@@ -10655,6 +10654,7 @@ blearyeyedness
 blearier
 bleariest
 begarnish
+basilian
 boomless
 bleariness
 brabbles
