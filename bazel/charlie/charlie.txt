@@ -1128,7 +1128,6 @@ chapmanship
 calcographer
 countermark
 calcography
-culturology
 calcographic
 calcsinter
 calcspar
@@ -6303,6 +6302,7 @@ causality
 causalities
 causally
 causals
+culturology
 causans
 chilopodan
 causate
