@@ -1546,6 +1546,7 @@ guild
 garths
 garum
 girdlers
+glenoidal
 gidjee
 garvey
 gasalier
@@ -5323,7 +5324,6 @@ genuflectory
 glomerulus
 glenohumeral
 glenoid
-glenoidal
 glent
 glauconitic
 gangly
