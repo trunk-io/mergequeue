@@ -862,6 +862,7 @@ blackboards
 bagaudae
 bootblack
 bagdad
+boltin
 bagdi
 bagel
 bagful
@@ -12228,7 +12229,6 @@ behold
 boltheading
 bolthole
 bolty
-boltin
 bolting
 boltlike
 beaupers

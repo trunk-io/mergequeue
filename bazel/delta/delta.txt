@@ -5497,7 +5497,6 @@ deathroot
 deodorization
 deodorize
 deodorized
-diolefinic
 digitalizing
 deodorizer
 deodorizes
@@ -15457,6 +15456,7 @@ donable
 donaciform
 donack
 dilatometric
+diolefinic
 donal
 dextropinene
 defibrillate
