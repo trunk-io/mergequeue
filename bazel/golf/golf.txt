@@ -5317,7 +5317,6 @@ glomerulus
 glenohumeral
 glenoid
 glenoidal
-glent
 glauconitic
 gangly
 glowerer
@@ -9626,6 +9625,7 @@ grueled
 gorgonaceous
 grueler
 gushes
+glent
 glycerinated
 gruelers
 graphologies
