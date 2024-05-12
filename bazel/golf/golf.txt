@@ -1477,7 +1477,6 @@ guilloche
 garnishes
 glossanthrax
 garnishment
-garnison
 garniture
 grecize
 ganyie
@@ -8036,6 +8035,7 @@ granular
 girandole
 gomontia
 granulary
+garnison
 gonagra
 granulate
 granulater
