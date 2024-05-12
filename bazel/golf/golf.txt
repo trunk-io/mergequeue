@@ -6365,7 +6365,6 @@ gobelin
 gobet
 geodic
 granatite
-ganglander
 goby
 goliad
 gobies
@@ -10546,6 +10545,7 @@ grandisonian
 gowany
 glauconiferous
 guttles
+ganglander
 glaciological
 gunners
 gratulating
