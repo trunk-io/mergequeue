@@ -5906,7 +5906,6 @@ bap
 bellypiece
 bellypinch
 beckons
-bellipotent
 biliverdin
 bellmaking
 backlashed
@@ -11712,6 +11711,7 @@ bobtailing
 bellhanging
 bobwhites
 boc
+bellipotent
 boise
 biopyribole
 boca
