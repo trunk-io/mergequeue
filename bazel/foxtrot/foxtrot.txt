@@ -9350,7 +9350,6 @@ firmans
 frances
 franchise
 franchisee
-franchisees
 foulings
 fertil
 finings
@@ -11145,6 +11144,7 @@ faintheartedness
 fister
 funduck
 fundulinae
+franchisees
 funduline
 fundulus
 fundungi
