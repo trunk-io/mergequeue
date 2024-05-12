@@ -14983,6 +14983,7 @@ bioassay
 breird
 breislakite
 breithauptite
+berylate
 brekky
 brekkle
 brelan
@@ -15838,7 +15839,6 @@ bromination
 broadband
 bromine
 buzzbomb
-berylate
 bromines
 brominize
 bromios
