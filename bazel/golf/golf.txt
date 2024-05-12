@@ -5702,6 +5702,7 @@ goonda
 glomera
 game
 glomerella
+guestwise
 glomeroporphyritic
 groundedness
 gallinago
@@ -10452,7 +10453,6 @@ gyrofrequency
 gosling
 goxes
 gyromancy
-guestwise
 gumshoeing
 gumweed
 gemeinschaft
