@@ -7095,7 +7095,6 @@ diluvian
 dressages
 destructible
 destructibleness
-dicoccous
 dimedon
 destruction
 digestors
@@ -8822,6 +8821,7 @@ dibenzyl
 dibenzoyl
 deg
 dibenzophenazine
+dicoccous
 dibenzopyrrole
 dibhole
 diblastula
