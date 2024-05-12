@@ -4172,7 +4172,6 @@ cardiopathic
 cardiopericarditis
 cardiophobe
 cardiophobia
-cardiophrenia
 capette
 cardiopyloric
 cardiopneumatic
@@ -7258,6 +7257,7 @@ canalized
 centrifugaller
 centrifugally
 centrifugate
+cardiophrenia
 centrifugation
 centrifuge
 cavitates
