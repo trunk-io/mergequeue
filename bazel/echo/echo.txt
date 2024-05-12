@@ -2918,7 +2918,6 @@ exerciser
 eligibly
 endodontic
 encephalopsychesis
-evokes
 elymi
 eliminable
 eliminand
@@ -4250,6 +4249,7 @@ esotrope
 eremital
 emulsions
 emacerated
+evokes
 emulsoid
 emulsoidal
 emulsoids
