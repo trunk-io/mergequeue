@@ -12118,6 +12118,7 @@ chaunters
 champlev
 ceca
 chorused
+cognomen
 choruses
 chorusing
 chanceries
@@ -15575,7 +15576,6 @@ circuted
 clarissa
 counterraising
 certification
-cognomen
 censorate
 clarissimo
 clarist
