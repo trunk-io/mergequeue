@@ -4203,7 +4203,6 @@ fireplugs
 firepot
 fireroom
 ferroconcretor
-firerooms
 fleck
 firers
 fanfoot
@@ -11442,6 +11441,7 @@ felspars
 furniture
 furodiazole
 foraminated
+firerooms
 flattering
 festinate
 furomethyl
