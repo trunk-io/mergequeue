@@ -17302,7 +17302,6 @@ coarseness
 coarsening
 coarsens
 coarser
-commelinaceae
 coarsest
 crureus
 coarticulate
@@ -23028,6 +23027,7 @@ consonances
 consonancy
 consonant
 consonantal
+commelinaceae
 consonantalize
 consonantic
 consonantise
