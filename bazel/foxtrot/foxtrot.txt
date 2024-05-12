@@ -528,7 +528,6 @@ feedman
 faldstool
 forded
 fondon
-falern
 falerno
 fall
 fissirostral
@@ -3687,6 +3686,7 @@ foreleech
 fledges
 fermental
 fillable
+falern
 fillagreed
 fillemot
 frownless
