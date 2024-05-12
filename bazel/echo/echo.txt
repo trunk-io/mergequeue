@@ -1713,6 +1713,7 @@ eyeflap
 eyefuls
 erratics
 eyeglance
+electromeric
 eyeglasses
 etudes
 exoneration
@@ -12323,7 +12324,6 @@ electromotion
 electromerism
 exemplariness
 els
-electromeric
 envy
 exemplarism
 echoes
