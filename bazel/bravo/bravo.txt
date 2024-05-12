@@ -2691,6 +2691,7 @@ barmbrack
 barmcloth
 brither
 barmfel
+biochemy
 becoward
 barmiest
 barmote
@@ -8951,7 +8952,6 @@ bananas
 biocenosis
 biocenotic
 biocentric
-biochemy
 beslow
 bungler
 babooism
