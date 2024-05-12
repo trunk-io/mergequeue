@@ -1143,7 +1143,6 @@ dasyuridae
 dabbers
 dasyurine
 dasyuroid
-digesters
 dasyus
 dassent
 deadheads
@@ -13831,6 +13830,7 @@ distichlis
 dimerous
 distichous
 disubstitution
+digesters
 distichs
 distil
 derisive
