@@ -2613,7 +2613,6 @@ enquiries
 electrosteel
 ensealed
 electrostenolysis
-eluants
 electrostenolytic
 equable
 entermise
@@ -9262,6 +9261,7 @@ epistome
 erotize
 extract
 engenderment
+eluants
 excl
 erotogenetic
 estheriidae
