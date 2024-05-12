@@ -5277,7 +5277,6 @@ embroiderers
 epiphyte
 estrangement
 endosteitis
-endosteoma
 encoring
 endosteomas
 endosteomata
@@ -5798,6 +5797,7 @@ engulfing
 episcopalian
 enhaemospore
 enhallow
+endosteoma
 enhalo
 explees
 entocoel
