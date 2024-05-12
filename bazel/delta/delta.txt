@@ -715,6 +715,7 @@ dance
 danceability
 danceable
 diaskeuast
+distylar
 danced
 diddled
 degasification
@@ -13831,7 +13832,6 @@ disubstitution
 distichs
 distil
 derisive
-distylar
 desisting
 distyle
 distill
