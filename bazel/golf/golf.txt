@@ -5173,6 +5173,7 @@ gravery
 glassmaker
 glassmaking
 grav
+gunda
 gasoliery
 gunman
 gamotropism
@@ -10476,7 +10477,6 @@ giftling
 greenbacks
 gypsy
 guiled
-gunda
 gundelow
 gimmicks
 gypsous

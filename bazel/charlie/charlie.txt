@@ -22939,7 +22939,6 @@ consilience
 consilient
 consimilar
 consimilate
-carnified
 consimilated
 consimilating
 convokers
@@ -25611,6 +25610,7 @@ compulsoriness
 corotomy
 craniognomy
 commemorized
+carnified
 coroutine
 coroutines
 corozos
