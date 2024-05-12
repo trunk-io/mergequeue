@@ -5271,7 +5271,6 @@ glebae
 glebal
 gels
 gyrencephalous
-glebeless
 grossification
 glacises
 gnosticizer
@@ -6851,6 +6850,7 @@ geoffroyine
 gonoblast
 gonoblastidium
 grooving
+glebeless
 gonocalycine
 gonochorism
 gusto
