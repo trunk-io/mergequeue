@@ -13755,7 +13755,6 @@ amarth
 astucious
 anoint
 anointed
-anointment
 anointments
 anoints
 anoli
@@ -18515,6 +18514,7 @@ araphorostic
 anticensoriously
 autoecious
 araponga
+anointment
 anteroposterior
 aargh
 araquaju
