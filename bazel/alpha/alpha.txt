@@ -14480,7 +14480,6 @@ anthracia
 anthraciferous
 anthracyl
 anthracin
-almugs
 anthracitic
 anthracitiferous
 anthracitious
@@ -19843,6 +19842,7 @@ arithmic
 arythmic
 arythmical
 allopathy
+almugs
 arithmocratic
 arithmogram
 arithmograph

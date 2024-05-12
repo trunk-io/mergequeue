@@ -6332,6 +6332,7 @@ ensheathing
 explores
 ensheaths
 enshell
+extraovular
 enshelter
 enshield
 eprouvette
@@ -13924,7 +13925,6 @@ evaporable
 extraovate
 epistomata
 entoire
-extraovular
 eugeosyncline
 extraparental
 extraparliamentary
