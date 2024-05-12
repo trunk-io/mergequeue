@@ -1588,7 +1588,6 @@ festivals
 farcelike
 favilla
 favillous
-farcetta
 femininity
 fledglings
 findability
@@ -7083,6 +7082,7 @@ fooyung
 fraternization
 fool
 forsado
+farcetta
 faille
 fumily
 foolable
