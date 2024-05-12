@@ -1959,6 +1959,7 @@ alumium
 acceleration
 adstrict
 advanced
+apochromat
 acetable
 acetabula
 acetabular
@@ -12546,7 +12547,6 @@ anemotropism
 aggregatae
 anencephalia
 anencephalic
-apochromat
 archpoet
 anencephalous
 arvo
