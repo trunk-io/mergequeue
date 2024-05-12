@@ -3108,6 +3108,7 @@ fibreless
 fibril
 fleshquake
 fairily
+forever
 fluorin
 fibrilated
 foxes
@@ -8376,7 +8377,6 @@ forlorn
 filcher
 foredestined
 forlornly
-forever
 fucatious
 forlornness
 form
