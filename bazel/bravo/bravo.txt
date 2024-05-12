@@ -1582,6 +1582,7 @@ balling
 burgheristh
 ballyragged
 ballyrags
+behears
 ballised
 ballism
 ballista
@@ -16282,7 +16283,6 @@ bint
 beneceptive
 bleareyed
 bruising
-behears
 bruisingly
 bruit
 bullroarer

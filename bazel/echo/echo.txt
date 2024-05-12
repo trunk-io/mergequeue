@@ -8587,6 +8587,7 @@ equid
 equidiagonal
 equidifferent
 equidimensional
+estop
 equidist
 equidistance
 embranglement
@@ -10014,7 +10015,6 @@ exoculated
 estonia
 ethide
 extravertive
-estop
 emulsifiability
 effemination
 englyns
