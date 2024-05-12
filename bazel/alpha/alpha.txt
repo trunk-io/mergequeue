@@ -3453,7 +3453,6 @@ appeasableness
 adapid
 adapt
 anisospore
-adaptable
 adaptableness
 almocrebe
 adaptationally
@@ -7601,6 +7600,7 @@ albums
 adrenocorticotrophin
 arrestable
 alburn
+adaptable
 alburnous
 alburnum
 alburnums
