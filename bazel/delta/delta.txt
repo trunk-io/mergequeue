@@ -6612,7 +6612,6 @@ duststorm
 deselected
 deselecting
 desiccants
-dauphiness
 desemer
 dichotomised
 deuteroglobulose
@@ -9462,6 +9461,7 @@ digestory
 denationalizing
 decide
 dislustering
+dauphiness
 digesture
 disapproval
 diggable
