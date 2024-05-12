@@ -72,7 +72,6 @@ abalone
 abalones
 abama
 aromata
-abamperes
 aband
 abandon
 abandonable
@@ -3790,6 +3789,7 @@ abasements
 adequately
 awm
 adequative
+abamperes
 aldamin
 antiatheistically
 adermine
