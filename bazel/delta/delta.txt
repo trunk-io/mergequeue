@@ -1552,7 +1552,6 @@ deadlily
 deadlines
 demand
 dryopithecinae
-deadliness
 deadlock
 deadlocking
 distiller
@@ -11474,6 +11473,7 @@ discolored
 discoloring
 doest
 dacryocystocele
+deadliness
 discolorment
 discolors
 diosma
