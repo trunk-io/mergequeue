@@ -3650,7 +3650,6 @@ bathukolpian
 bathvillite
 bathwort
 batidaceae
-batidaceous
 becrowds
 batik
 birlinn
@@ -13217,6 +13216,7 @@ blitheness
 bostonite
 banderillas
 burglar
+batidaceous
 bostrychid
 bostrychidae
 bostrychoidal
