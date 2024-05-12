@@ -8425,7 +8425,6 @@ bigheaded
 bigheads
 bumpkinet
 battue
-bonefishes
 bindwood
 barramundas
 beccaccia
@@ -8958,6 +8957,7 @@ biochemic
 biochemics
 biochemistry
 biochemists
+bonefishes
 biblioclast
 bandoras
 baisakh
