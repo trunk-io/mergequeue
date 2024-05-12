@@ -5405,7 +5405,6 @@ candlesticked
 chairwoman
 castleward
 castlewards
-castlewise
 castock
 castoff
 castoffs
@@ -15470,6 +15469,7 @@ chloropia
 clannishness
 cradlemen
 clansfolk
+castlewise
 clanship
 clansman
 clansmen
