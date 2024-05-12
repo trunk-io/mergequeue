@@ -3843,6 +3843,7 @@ adhesional
 adhesive
 adhesively
 adhesiveness
+autocoid
 autotoxin
 adhesives
 adhibit
@@ -25355,7 +25356,6 @@ azoth
 azothionium
 azoths
 azotic
-autocoid
 azotise
 azotises
 azotising
