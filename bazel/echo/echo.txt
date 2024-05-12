@@ -6532,6 +6532,7 @@ electroscopic
 enteraden
 enteradenography
 enteradenographic
+elicited
 enteradenological
 enteral
 enteralgia
@@ -9693,7 +9694,6 @@ esophagotome
 esophagus
 earthshine
 esophoric
-elicited
 eremacausis
 epiphenomenalism
 esopus
