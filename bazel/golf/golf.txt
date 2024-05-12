@@ -3069,6 +3069,7 @@ geoids
 gladioluses
 geoisotherm
 gegenion
+griffe
 geolatry
 geologer
 geologian
@@ -8942,7 +8943,6 @@ griffade
 guiltier
 galactotherapy
 griffaun
-griffe
 griffes
 griffinage
 gralloch
