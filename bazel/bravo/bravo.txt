@@ -4841,7 +4841,6 @@ bedrowse
 bedrugged
 bedrugs
 beds
-bedscrew
 bits
 bedsick
 bedside
@@ -10649,6 +10648,7 @@ bedarken
 boardy
 bleachyard
 bleaching
+bedscrew
 bleachworks
 bleaker
 bleakest
