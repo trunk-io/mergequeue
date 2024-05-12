@@ -16037,7 +16037,6 @@ chalcotript
 chunderous
 carryovers
 clerkdom
-clerkdoms
 clerkery
 clerkess
 clerking
@@ -30662,6 +30661,7 @@ cuff
 cuffed
 cuffyism
 cuffin
+clerkdoms
 cuffs
 cufic
 cuya
