@@ -5324,6 +5324,7 @@ affidare
 affidation
 ais
 affidavy
+analepsis
 affidavit
 aviso
 affied
@@ -11749,7 +11750,6 @@ analemma
 analemmas
 analemmata
 analepses
-analepsis
 analeptic
 anthidium
 analgesia
