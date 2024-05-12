@@ -5109,7 +5109,6 @@ diopsidae
 dextrogyrate
 denaturization
 denaturizer
-denaturizing
 dendraspis
 dendraxon
 decolorizer
@@ -15304,6 +15303,7 @@ domba
 dombeya
 dome
 dysaesthetic
+denaturizing
 domed
 domeykite
 displenish
