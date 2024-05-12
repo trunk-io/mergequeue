@@ -2645,7 +2645,6 @@ acool
 assumingness
 algesic
 acopyrin
-acopyrine
 acopon
 acor
 acorea
@@ -17091,6 +17090,7 @@ anchors
 attractable
 ately
 alterate
+acopyrine
 aplanobacter
 aplanogamete
 apses
