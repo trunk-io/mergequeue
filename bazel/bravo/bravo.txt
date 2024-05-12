@@ -9075,7 +9075,6 @@ biologics
 biologies
 biologist
 bedstands
-bioluminescence
 blighties
 biomagnetic
 biomagnetism
@@ -12213,6 +12212,7 @@ bolt
 boltage
 biasses
 boltcutter
+bioluminescence
 bookmark
 buckstay
 bolted
