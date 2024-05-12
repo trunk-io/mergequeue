@@ -1743,6 +1743,7 @@ gentled
 gastrodermal
 gastrodermis
 gnotobiote
+gonapophysial
 goosemouth
 gravemaking
 gastroduodenal
@@ -5044,7 +5045,6 @@ glam
 gummosis
 glamberry
 gamines
-gonapophysial
 glamorizer
 glamorizes
 garbled
