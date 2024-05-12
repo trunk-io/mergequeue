@@ -4215,7 +4215,6 @@ admonish
 admonished
 admonishes
 anaesthetizing
-apercu
 admonishingly
 admonishments
 anoopsias
@@ -13632,6 +13631,7 @@ annotinous
 atwain
 announce
 announced
+apercu
 announcements
 adenectopic
 arbalestre
