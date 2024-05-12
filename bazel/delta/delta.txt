@@ -1703,7 +1703,6 @@ drawgear
 devastate
 deasil
 deaspirate
-decostate
 debilitant
 dasein
 daggle
@@ -3094,6 +3093,7 @@ deerfood
 dippiest
 digraphic
 ditheists
+decostate
 depredating
 deerhair
 deservings
