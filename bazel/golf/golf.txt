@@ -2556,6 +2556,7 @@ growingly
 gems
 genouillere
 glassing
+guans
 galumphing
 gemsbuck
 geodes
@@ -9847,7 +9848,6 @@ guanize
 guano
 grendel
 gagman
-guans
 gazook
 groundwood
 glacially

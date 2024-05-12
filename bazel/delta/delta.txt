@@ -3947,6 +3947,7 @@ damper
 dekalitre
 disherits
 dekameter
+develop
 dekameters
 debutante
 decumani
@@ -7638,7 +7639,6 @@ dryest
 devel
 develing
 diegueno
-develop
 developable
 developed
 defervescence
