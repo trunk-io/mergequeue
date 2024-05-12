@@ -2231,6 +2231,7 @@ felter
 feltyflier
 felting
 feltmaker
+foundrymen
 ferbams
 fluidism
 feltmaking
@@ -8960,7 +8961,6 @@ finochios
 foundlings
 foundress
 foundryman
-foundrymen
 fallency
 faddishly
 foundrous
