@@ -18177,7 +18177,6 @@ apsides
 apsidiole
 apsinthion
 abatises
-apsis
 adsorptive
 aptal
 aptenodytes
@@ -19024,6 +19023,7 @@ archinfamy
 archinformer
 arching
 archings
+apsis
 apospories
 amphibryous
 archipallial
