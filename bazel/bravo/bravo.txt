@@ -1740,6 +1740,7 @@ bals
 balsa
 becrimes
 balsam
+bastionet
 balsamaceous
 balsamation
 bluenesses
@@ -3466,7 +3467,6 @@ builtin
 bituminise
 bastionary
 bodingly
-bastionet
 branchiopulmonate
 badgerly
 bastions
