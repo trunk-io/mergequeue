@@ -3903,7 +3903,6 @@ gierfalcon
 gif
 gradientia
 grievant
-glimed
 giffgaff
 gifola
 gift
@@ -6028,6 +6027,7 @@ gantlopes
 glucuronidase
 glue
 gangsman
+glimed
 gnomide
 gastroenterotomy
 gewgawish
