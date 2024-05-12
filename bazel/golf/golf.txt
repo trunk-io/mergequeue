@@ -7301,7 +7301,6 @@ gossiper
 gatehouses
 gossipy
 gravitationally
-guaranteing
 gomarite
 gossypin
 gossypine
@@ -8293,6 +8292,7 @@ grate
 grateful
 groundman
 gananciales
+guaranteing
 guesting
 goshenite
 grinds
