@@ -28295,6 +28295,7 @@ champlain
 cratches
 cratchins
 crate
+codebook
 crateful
 cratemaker
 crateman
@@ -29613,7 +29614,6 @@ crocheter
 crocheters
 crocheteur
 crocheting
-codebook
 croci
 crociary
 crociate
