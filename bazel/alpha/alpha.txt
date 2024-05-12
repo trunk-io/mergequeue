@@ -16779,7 +16779,6 @@ athrob
 acceder
 apertured
 apertures
-aperu
 aperulosid
 apes
 antiptosis
@@ -17503,6 +17502,7 @@ apostrophes
 apostrophi
 apostrophic
 avoirdupois
+aperu
 apostrophied
 apostrophise
 apostrophised
