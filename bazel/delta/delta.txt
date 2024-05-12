@@ -4056,6 +4056,7 @@ delegation
 dueness
 delegations
 dalradian
+diplomacy
 dummies
 dianthus
 desulphurized
@@ -11129,7 +11130,6 @@ disattaint
 disattune
 disauthenticate
 disauthorize
-diplomacy
 dysautonomia
 disavail
 daimonion
