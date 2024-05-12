@@ -6111,7 +6111,6 @@ flossiness
 foreconscious
 foliar
 foresaid
-florescent
 flossing
 flota
 fanfarade
@@ -7684,6 +7683,7 @@ ferrocyanide
 foreglow
 forego
 fables
+florescent
 fasciolidae
 flannelet
 foregrounds
