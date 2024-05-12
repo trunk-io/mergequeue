@@ -25152,6 +25152,7 @@ corespondent
 cystoflagellate
 corespondents
 coretomy
+crosslegs
 colonists
 coreveler
 cottontail
@@ -29886,7 +29887,6 @@ crossite
 crossjack
 cinnamenyl
 crosslap
-crosslegs
 complainer
 colliding
 crosslet
