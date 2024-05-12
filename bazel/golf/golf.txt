@@ -8749,6 +8749,7 @@ gregarian
 gregarina
 gobonated
 get
+gangway
 gair
 gurniad
 grim
@@ -9140,7 +9141,6 @@ grazier
 grocerymen
 garnel
 gryllotalpa
-gangway
 gripsack
 gripsacks
 gript
