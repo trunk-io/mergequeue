@@ -2879,7 +2879,6 @@ cantate
 cantation
 cantatory
 cantatrice
-cantatrices
 chestily
 cantatrici
 cantboard
@@ -30629,6 +30628,7 @@ cudeigh
 crawls
 cudgel
 communalizing
+cantatrices
 cudgeled
 cudgeler
 cudgelers
