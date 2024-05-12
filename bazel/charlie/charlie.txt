@@ -5601,7 +5601,6 @@ cataloguish
 cataloguist
 cataloguize
 catalonian
-cataloon
 catalos
 catalpa
 catalpas
@@ -26814,6 +26813,7 @@ counterdesire
 counterdevelopment
 columnization
 counterdifficulty
+cataloon
 counterdigged
 cerebroscopy
 counterdike
