@@ -1622,7 +1622,6 @@ flatterer
 favourableness
 fallalery
 favouring
-favours
 favous
 favus
 foredone
@@ -3213,6 +3212,7 @@ floodcock
 fibulocalcaneal
 ficaries
 fice
+favours
 fices
 frosh
 fiche
