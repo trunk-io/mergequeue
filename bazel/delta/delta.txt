@@ -414,7 +414,6 @@ dairymen
 dairywoman
 dairywomen
 defensory
-dayroom
 dayrooms
 dairous
 dairt
@@ -8543,6 +8542,7 @@ diapauses
 donaries
 doeuvre
 decarburize
+dayroom
 dodecastylos
 diapedeses
 deerwood
