@@ -6801,6 +6801,7 @@ fokker
 fissate
 fol
 folacin
+funaria
 falderols
 folacins
 flatterdock
@@ -11084,7 +11085,6 @@ frontality
 funambulic
 funambulism
 funambuloes
-funaria
 facinorousness
 fumago
 funariaceous
