@@ -1620,6 +1620,7 @@ accomplish
 ackman
 antelopine
 accomplishable
+agrilus
 accomplished
 accomplisher
 arthrodesis
@@ -6472,7 +6473,6 @@ agriculturist
 agriculturists
 admittible
 agrief
-agrilus
 agrimony
 agrimonia
 agrimotor
