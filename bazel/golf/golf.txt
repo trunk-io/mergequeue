@@ -5395,7 +5395,6 @@ glycogens
 guttulous
 glycol
 glycolaldehyde
-goback
 gayals
 glycolyl
 gilsonite
@@ -6506,6 +6505,7 @@ gastrocystis
 glutaeous
 giddiest
 glaury
+goback
 grindal
 golaseccan
 glassman
