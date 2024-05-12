@@ -8613,7 +8613,6 @@ bylines
 brave
 bilingual
 bilinguality
-barkle
 bilingually
 bilinguar
 bijoux
@@ -17590,6 +17589,7 @@ burdock
 blowpoint
 burds
 bureaucracy
+barkle
 bureaucracies
 burweeds
 bureaucratically
