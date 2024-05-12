@@ -12319,7 +12319,6 @@ casement
 chrysopsis
 chrysosperm
 chrysosplenium
-chrysotherapy
 chrysothrix
 chrysotile
 chrysotis
@@ -12883,6 +12882,7 @@ chunner
 chuntered
 chunters
 chupak
+chrysotherapy
 chupatti
 chupatty
 counterbrace

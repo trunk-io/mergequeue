@@ -3031,6 +3031,7 @@ baruch
 breakwaters
 barukhzy
 barundi
+boardlike
 briery
 baruria
 barvel
@@ -11558,7 +11559,6 @@ bibulosity
 boardinghouse
 boardings
 boardly
-boardlike
 boards
 boardsmanship
 boardwalks
