@@ -5133,7 +5133,6 @@ endointoxication
 endolymph
 endolymphangial
 endolymphatic
-endolymphic
 estafette
 endolysin
 endolumbar
@@ -11296,6 +11295,7 @@ evangelicalness
 eradicating
 evangelicals
 evangelicity
+endolymphic
 exclusioner
 erupts
 evangelion
