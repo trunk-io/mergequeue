@@ -4271,7 +4271,6 @@ beatster
 beauts
 beatuti
 bowls
-bugbear
 boudoir
 beaucoup
 beaued
@@ -6027,6 +6026,7 @@ beltene
 belter
 ballistic
 beltie
+bugbear
 belting
 ballahoo
 bedroom
