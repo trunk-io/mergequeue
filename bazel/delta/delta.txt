@@ -3078,7 +3078,6 @@ deepsome
 distinguishing
 deepwater
 deepwaterman
-deepwatermen
 deer
 decisionmake
 deerberry
@@ -10988,6 +10987,7 @@ disaggregate
 disaggregated
 disaggregation
 disaggregative
+deepwatermen
 disagree
 discrive
 disagreeableness
