@@ -20430,7 +20430,6 @@ attroopment
 anchitherioid
 aethusa
 arses
-arsesmart
 arsheen
 arshin
 afterimage
@@ -22080,6 +22079,7 @@ asternata
 anapaestic
 asteroid
 asteroids
+arsesmart
 asterolepidae
 asterolepis
 asterope
