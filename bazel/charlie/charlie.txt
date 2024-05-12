@@ -9305,7 +9305,6 @@ chatchke
 chatchkes
 chateaugray
 chateaus
-chateaux
 chatelain
 chatelaine
 chatelaines
@@ -12075,6 +12074,7 @@ chorization
 chorizo
 coactions
 chorizont
+chateaux
 chorizontal
 chorizontes
 chorizontic
