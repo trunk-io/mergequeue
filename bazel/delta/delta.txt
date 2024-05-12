@@ -5249,7 +5249,6 @@ dryopes
 denominable
 dodecuplet
 decursion
-denominant
 denominate
 denominates
 denomination
@@ -8825,6 +8824,7 @@ dibenzopyrrole
 dibhole
 diblastula
 diborate
+denominant
 dibothriocephalus
 dibrach
 dibranch

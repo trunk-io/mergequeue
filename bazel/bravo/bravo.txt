@@ -2336,6 +2336,7 @@ benedictional
 ballooned
 bourdis
 barbero
+binomials
 barberry
 bluestone
 benzoles
@@ -8911,7 +8912,6 @@ binomy
 binomialism
 bayberries
 binomially
-binomials
 binominal
 bedchamber
 bunchbacked
