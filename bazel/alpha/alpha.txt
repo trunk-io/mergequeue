@@ -1395,6 +1395,7 @@ accelerative
 adiaphanousness
 azote
 acceleratory
+aromatical
 accelerators
 accelerometer
 accelerometers
@@ -20122,7 +20123,6 @@ auspices
 aculeate
 aromas
 aromatic
-aromatical
 aromatically
 aromaticity
 actinosoma
