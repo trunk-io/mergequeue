@@ -4661,7 +4661,6 @@ entr
 etiolin
 extroverted
 ease
-enciphering
 executonis
 epigean
 epacme
@@ -13114,6 +13113,7 @@ entailment
 enties
 expiation
 epipaleolithic
+enciphering
 expiational
 expiator
 expiators
