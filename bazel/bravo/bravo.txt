@@ -409,6 +409,7 @@ backlists
 backlit
 biradiated
 backlog
+brachyura
 bib
 backlogged
 bredi
@@ -14066,7 +14067,6 @@ battering
 brachytypous
 brachytmema
 brachium
-brachyura
 brachyuran
 bilimbi
 brachyurus
