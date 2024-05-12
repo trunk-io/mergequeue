@@ -19684,6 +19684,7 @@ chroma
 combatant
 combatants
 combater
+conelike
 combaters
 combating
 combative
@@ -21822,7 +21823,6 @@ conehead
 coneine
 coneys
 comeback
-conelike
 cixiidae
 coexists
 contrasting
