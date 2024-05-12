@@ -4852,7 +4852,6 @@ ephyrula
 euchymous
 endosteal
 end
-endable
 endamage
 endamagement
 endamages
@@ -13910,6 +13909,7 @@ extraneousness
 elytrorrhagia
 extranormal
 extranuclear
+endable
 extraofficial
 expertship
 exotery
