@@ -17695,7 +17695,6 @@ appellations
 appellative
 appellatived
 appellativeness
-anchory
 arriccioci
 appellee
 appellees
@@ -21670,6 +21669,7 @@ asseal
 assecuration
 anagua
 assecure
+anchory
 assecution
 assegai
 amend
