@@ -1353,7 +1353,6 @@ attitudist
 acatastatic
 acate
 acategorical
-abnet
 adephagia
 acatery
 argentinize
@@ -2656,6 +2655,7 @@ acorn
 aghorapanthi
 acorns
 acorus
+abnet
 acosmic
 acosmism
 acosmist
