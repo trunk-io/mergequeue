@@ -3810,6 +3810,7 @@ carbomethoxy
 carbomethoxyl
 carbomycin
 cryptobranchidae
+chloroguanide
 carbon
 carbona
 carbonaceous
@@ -11387,7 +11388,6 @@ chloroformization
 chloroformize
 chloroforms
 chlorogenic
-chloroguanide
 chloroid
 chloroma
 copelidine
