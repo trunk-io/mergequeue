@@ -10981,7 +10981,6 @@ audiologists
 amortising
 amortissement
 amortizable
-amortization
 arbitrarily
 amortized
 accounsel
@@ -23449,6 +23448,7 @@ aularian
 auld
 aulder
 auldest
+amortization
 ambusher
 auldfarrantlike
 auletai
