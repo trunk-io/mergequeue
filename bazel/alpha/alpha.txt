@@ -9942,6 +9942,7 @@ ambay
 amban
 ambar
 abele
+aproterodont
 ambarella
 autochthony
 ambari
@@ -18164,7 +18165,6 @@ apronful
 aprons
 apronstring
 amphigenetic
-aproterodont
 antirestoration
 apselaphesis
 aroused
