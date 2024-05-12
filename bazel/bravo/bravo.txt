@@ -3173,6 +3173,7 @@ bowwood
 bauld
 basic
 bombardier
+bibberies
 basically
 basicerite
 basichromatin
@@ -7908,7 +7909,6 @@ bibation
 beglamour
 bibbery
 bursautee
-bibberies
 bibbing
 bibble
 beclose
