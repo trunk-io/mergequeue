@@ -6111,6 +6111,7 @@ flota
 fanfarade
 flawy
 flotage
+foresting
 florists
 flotages
 frondeur
@@ -8054,7 +8055,6 @@ fractionalization
 forepost
 fright
 fessing
-foresting
 foreknow
 flummeries
 fulvid
