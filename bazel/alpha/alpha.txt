@@ -5178,7 +5178,6 @@ aesculus
 abiogenetic
 aesir
 acrosarc
-almightiness
 aesop
 aesopian
 aesopic
@@ -9440,6 +9439,7 @@ altamira
 altar
 altarage
 altared
+almightiness
 allodies
 altarpieces
 altars
