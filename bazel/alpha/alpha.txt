@@ -13668,7 +13668,6 @@ augmentative
 annulary
 annularia
 annulate
-annulated
 annulately
 annulation
 amidated
@@ -18685,6 +18684,7 @@ arcacea
 aspergation
 acarids
 arcades
+annulated
 arcady
 arcadian
 arcadianism
