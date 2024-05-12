@@ -28905,7 +28905,6 @@ crex
 cry
 cryable
 cephalhydrocele
-cholestane
 cotans
 cryanesthesia
 criant
@@ -29478,6 +29477,7 @@ crystallogenical
 crystallogy
 confliction
 contractibleness
+cholestane
 crystallogram
 crystallograph
 crystallographers
