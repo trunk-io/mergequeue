@@ -6138,7 +6138,6 @@ docken
 dietetist
 derbend
 derby
-derbylite
 derbukka
 deploringly
 doddery
@@ -12540,6 +12539,7 @@ dipterological
 denotation
 disintegrator
 disintegrators
+derbylite
 dispiritedness
 disintegrity
 disinter
