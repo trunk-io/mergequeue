@@ -1858,7 +1858,6 @@ fougue
 feloid
 febrile
 featherlessness
-fluidizer
 febrility
 flavone
 febriphobia
@@ -8601,6 +8600,7 @@ forsay
 fir
 footmanry
 forsaken
+fluidizer
 fluoridise
 fittings
 forsakenly
