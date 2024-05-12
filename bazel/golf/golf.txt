@@ -3350,7 +3350,6 @@ germanification
 guess
 germanish
 gadso
-gregaritic
 germanist
 gladder
 gelotoscopy
@@ -6150,6 +6149,7 @@ gnarly
 goutte
 gnarliest
 gnarliness
+gregaritic
 gnarls
 gesneriaceae
 gradates

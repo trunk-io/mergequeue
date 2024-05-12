@@ -2936,6 +2936,7 @@ boobishness
 blobby
 bailed
 barricade
+betsimisaraka
 barricaded
 baryes
 barricader
@@ -12383,7 +12384,6 @@ braggers
 bludging
 branned
 bonbon
-betsimisaraka
 bobstay
 bicapitate
 backcast
