@@ -927,6 +927,7 @@ goffered
 gamelike
 goracco
 gadids
+geography
 gladiole
 ganglionitis
 gamelion
@@ -7668,7 +7669,6 @@ granth
 graeme
 gonion
 grenadier
-geography
 gunbarrel
 graffias
 graffiti
