@@ -6647,7 +6647,6 @@ gomart
 gomashta
 gombo
 gapy
-gomeisa
 gromwell
 gozill
 grammatolator
@@ -7607,6 +7606,7 @@ gleary
 grader
 gradgrind
 gud
+gomeisa
 grubstake
 gradient
 gamopetalae
