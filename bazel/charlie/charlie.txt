@@ -2440,7 +2440,6 @@ candida
 conject
 candidacy
 candidacies
-careeristic
 collinal
 candidated
 candidates
@@ -10543,6 +10542,7 @@ childlessness
 childly
 childlier
 constitutioner
+careeristic
 childliest
 childlike
 childminder
