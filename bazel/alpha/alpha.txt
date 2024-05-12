@@ -2980,7 +2980,6 @@ anilopyrine
 amidopyrine
 acropathy
 acropathology
-achromatin
 acropetal
 argyroneta
 acrophobia
@@ -20060,6 +20059,7 @@ astrologe
 acclimatization
 aryballos
 armplate
+achromatin
 armrack
 azans
 aniline
