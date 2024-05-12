@@ -4908,7 +4908,6 @@ aeriality
 aerially
 aerials
 aeric
-anoplocephalic
 aerier
 aeries
 aeriest
@@ -12223,6 +12222,7 @@ anchoretism
 anchorets
 autotransplant
 angiometer
+anoplocephalic
 almach
 anchorite
 astate
