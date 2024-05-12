@@ -7558,6 +7558,7 @@ five
 fallacious
 forechase
 fuzils
+fortify
 foretake
 filer
 foregame
@@ -8689,7 +8690,6 @@ feeding
 fortier
 fortieth
 fortieths
-fortify
 fortifier
 florets
 fortifiers
