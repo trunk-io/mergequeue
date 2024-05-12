@@ -3647,6 +3647,7 @@ degerms
 degged
 denounced
 degger
+disacryl
 dictates
 degging
 deglaciation
@@ -10926,7 +10927,6 @@ dysacousis
 dysacousma
 downcut
 disacquaint
-disacryl
 dysadaptation
 doornail
 disadjust
