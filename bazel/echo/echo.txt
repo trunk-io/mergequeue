@@ -6923,7 +6923,6 @@ entorganism
 evangelicality
 enjoyableness
 entosphenal
-entosphere
 entosternal
 entosternum
 entosthoblast
@@ -10541,6 +10540,7 @@ etiquet
 exalate
 etiquette
 etiquettical
+entosphere
 etna
 enteroid
 etoile
