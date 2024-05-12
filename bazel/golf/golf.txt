@@ -6726,7 +6726,6 @@ geod
 genapper
 gedd
 gunsman
-goners
 gonesome
 gonfalcon
 gammaridae
@@ -10609,6 +10608,7 @@ guppy
 guppies
 gusting
 gur
+goners
 gurdle
 gurdwara
 gurglingly
