@@ -1075,7 +1075,6 @@ expeditive
 expurgatory
 edibles
 edict
-extratemporal
 edictal
 edictally
 edictum
@@ -9137,6 +9136,7 @@ erythrolytic
 erythroneocytosis
 erythronium
 erythropenia
+extratemporal
 espoused
 exsurge
 enharmonical
