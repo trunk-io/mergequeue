@@ -6918,7 +6918,6 @@ feudovassalism
 foreignization
 folkmoots
 fauchard
-firetower
 folkmoter
 fossilage
 formuliser
@@ -10723,6 +10722,7 @@ fourteenth
 fruitwoman
 fruitworm
 frument
+firetower
 frumentaceous
 flitchplate
 frumentation

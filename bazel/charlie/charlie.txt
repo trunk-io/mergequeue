@@ -3371,7 +3371,6 @@ capreoline
 continuua
 commonable
 capreolus
-capretto
 capri
 capric
 colicweed
@@ -18627,6 +18626,7 @@ cointensity
 cointer
 cointerest
 cointerred
+capretto
 cointerring
 cointers
 cointersecting
