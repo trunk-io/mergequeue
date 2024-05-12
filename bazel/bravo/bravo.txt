@@ -2866,7 +2866,6 @@ barrage
 barnmen
 barraged
 barrages
-barraging
 bailer
 barragon
 berried
@@ -9488,6 +9487,7 @@ birl
 begrease
 byrl
 btl
+barraging
 byrlady
 baptisteries
 byrlawman
