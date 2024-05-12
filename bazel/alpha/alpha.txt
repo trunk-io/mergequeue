@@ -6935,6 +6935,7 @@ airmen
 apanages
 arietta
 airmobile
+ancientest
 awry
 airmonger
 airn
@@ -12243,7 +12244,6 @@ ancien
 anciency
 anciennete
 anciens
-ancientest
 ancienty
 anciently
 ancientness
