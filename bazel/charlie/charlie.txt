@@ -2350,6 +2350,7 @@ canceled
 canceleer
 canceler
 cancelers
+chamos
 cancelier
 collaborated
 cancellability
@@ -8579,7 +8580,6 @@ chamoline
 chamomile
 chamorro
 confluently
-chamos
 chamosite
 chamotte
 champaca
