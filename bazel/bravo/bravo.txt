@@ -1845,6 +1845,7 @@ bipunctate
 bullose
 bandage
 bandaged
+baccillum
 bandager
 bandages
 bandaging
@@ -17229,7 +17230,6 @@ bullrush
 bijouterie
 bullrushes
 bulls
-baccillum
 bronchopneumonia
 bullseye
 binbashi
