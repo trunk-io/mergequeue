@@ -2345,7 +2345,6 @@ announcement
 achroodextrinase
 achroous
 achtehalber
-amounts
 athetized
 achtelthaler
 achuete
@@ -4383,6 +4382,7 @@ adrenalectomy
 adrenalectomize
 adrenalectomizing
 aumous
+amounts
 adrenalin
 adrenaline
 agraffee
