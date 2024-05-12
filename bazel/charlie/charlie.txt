@@ -13231,7 +13231,6 @@ cicatrice
 colocolo
 cicatrices
 cytozoa
-cicatricial
 cicatricle
 copastorate
 cicatricula
@@ -21166,6 +21165,7 @@ concentrates
 concentration
 concentrations
 concentrative
+cicatricial
 contrabasso
 concentrativeness
 concentrator
