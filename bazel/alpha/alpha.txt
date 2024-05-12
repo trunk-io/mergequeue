@@ -5020,6 +5020,7 @@ aerogramme
 aerograms
 aerograph
 americium
+antiflash
 aerography
 aerographical
 aerographics
@@ -15293,7 +15294,6 @@ aminobenzamide
 antifideism
 antifire
 aeronautics
-antiflash
 antiflattering
 antiflatulent
 antiflux

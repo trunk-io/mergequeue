@@ -4097,7 +4097,6 @@ crofterize
 cardinalic
 collingual
 cardinalis
-cardinalism
 closehearted
 cardinality
 cardiomegalia
@@ -24985,6 +24984,7 @@ corcass
 corchat
 corchorus
 corcir
+cardinalism
 corcyraean
 corcle
 corcopali
