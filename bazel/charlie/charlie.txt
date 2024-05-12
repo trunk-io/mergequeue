@@ -2904,7 +2904,6 @@ canters
 canthal
 curling
 canthari
-cantharic
 cantharidae
 cake
 chytrid
@@ -19124,6 +19123,7 @@ collisive
 collywest
 collyweston
 collywobbles
+cantharic
 columbeia
 colloblast
 collobrierite
