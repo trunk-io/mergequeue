@@ -12570,7 +12570,6 @@ backscatters
 bonspell
 bonspells
 brike
-bonspiel
 bedplate
 bonteboks
 birthplace
@@ -12740,6 +12739,7 @@ booley
 booleys
 booly
 betatters
+bonspiel
 bronchially
 boolya
 blebs
