@@ -5789,7 +5789,6 @@ gruis
 glossarize
 gemmily
 glossas
-glossata
 gasify
 glossator
 gumflower
@@ -8745,6 +8744,7 @@ gunslinger
 gregale
 gobiidae
 guileless
+glossata
 graduals
 gametophyll
 glossed
