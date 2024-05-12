@@ -7789,6 +7789,7 @@ aldebaran
 aldebaranium
 aldehydase
 algorithm
+artotype
 aldehyde
 aldehydes
 aldehydic
@@ -20814,7 +20815,6 @@ artophagous
 artophophoria
 artophoria
 antiproteolysis
-artotype
 ammochryse
 artotypy
 artotyrite
