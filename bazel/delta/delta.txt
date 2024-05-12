@@ -1555,7 +1555,6 @@ demand
 dryopithecinae
 deadliness
 deadlock
-deadlocking
 distiller
 dipus
 diffusibly
@@ -8519,6 +8518,7 @@ dian
 diander
 depreciates
 diandria
+deadlocking
 discographer
 diane
 dianetics
