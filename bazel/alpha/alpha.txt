@@ -4255,6 +4255,7 @@ adnouns
 abduct
 adobos
 azathioprine
+autocholecystectomy
 adod
 adolesced
 aullay
@@ -23939,7 +23940,6 @@ autocephalic
 autocephalous
 autoceptive
 autochemical
-autocholecystectomy
 autochrome
 autochromy
 autochronograph
