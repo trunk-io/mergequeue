@@ -772,7 +772,6 @@ gugglet
 galvanizers
 gujar
 galvanizes
-galvanizing
 galvanocauteries
 galvanoglyph
 glycid
@@ -7559,6 +7558,7 @@ glasgow
 graced
 graceful
 garpike
+galvanizing
 gynerium
 gilbertite
 gracefuller
