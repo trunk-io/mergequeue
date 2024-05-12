@@ -27433,7 +27433,6 @@ courtliest
 croppie
 calandra
 courtlike
-courtman
 courtney
 courtnoll
 courtroll
@@ -29136,6 +29135,7 @@ cryobiological
 cryobiologist
 criobolium
 cryocautery
+courtman
 caldarium
 criocephalus
 coelacanthini
