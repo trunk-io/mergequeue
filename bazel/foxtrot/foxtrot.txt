@@ -178,7 +178,6 @@ frescoing
 factitively
 falangism
 factorability
-factorable
 factordom
 factoress
 flateria
@@ -3547,6 +3546,7 @@ froward
 filariae
 filarian
 fundmongering
+factorable
 fattily
 filariasis
 filaricidal
