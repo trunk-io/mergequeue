@@ -2453,6 +2453,7 @@ electrolyses
 emigating
 electrolysing
 eparcuale
+etherify
 encushion
 electrolyte
 electrolithotrity
@@ -10237,7 +10238,6 @@ etherialize
 etherialized
 etherially
 etheric
-etherify
 etherification
 eunuchoid
 etherified
