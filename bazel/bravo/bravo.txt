@@ -169,6 +169,7 @@ baccalaureates
 baccalaureus
 belage
 blist
+boba
 baccara
 baroques
 bdrm
@@ -7243,7 +7244,6 @@ bestand
 barite
 bestarve
 bestatued
-boba
 bestead
 besteads
 besteal
