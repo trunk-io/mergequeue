@@ -17764,7 +17764,6 @@ coct
 coctile
 coction
 coctoantigen
-coctoprecipitin
 cocuyo
 cocuisa
 cocullo
@@ -31270,6 +31269,7 @@ causative
 conscionably
 chads
 curd
+coctoprecipitin
 circumoral
 curdy
 curdiest
