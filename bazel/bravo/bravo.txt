@@ -10470,7 +10470,6 @@ borolanite
 blastings
 blastman
 blastocarpous
-blastocele
 boomers
 brickfielder
 beeflower
@@ -17119,6 +17118,7 @@ bulldust
 bulled
 buller
 bullescene
+blastocele
 bullet
 bulleted
 bullethead
