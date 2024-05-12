@@ -3735,7 +3735,6 @@ adenomycosis
 adenomyofibroma
 adenomyoma
 agapornis
-adenomyxosarcoma
 adenoncus
 adenoneural
 adenoneure
@@ -12889,6 +12888,7 @@ anglic
 anglican
 anglicanism
 anglicanisms
+adenomyxosarcoma
 anglicanly
 anglicans
 anglicanum
