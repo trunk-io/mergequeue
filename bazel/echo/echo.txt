@@ -4124,6 +4124,7 @@ employed
 employee
 endives
 employees
+equilibrate
 employer
 exedral
 elastance
@@ -8609,7 +8610,6 @@ equilateral
 equilaterally
 enthrones
 equilibrant
-equilibrate
 estrum
 equilibrated
 extensionalism
