@@ -2046,7 +2046,6 @@ ensnarements
 elaphurus
 extrastate
 elapidae
-elapids
 euthyneural
 elapine
 elapse
@@ -13019,6 +13018,7 @@ enslave
 eutaxite
 evovae
 expellers
+elapids
 explications
 efficacious
 eoliths
