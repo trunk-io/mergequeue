@@ -14130,7 +14130,6 @@ disinsection
 disutilize
 dismasts
 dramatists
-doses
 disvantage
 deaired
 dicer
@@ -15383,6 +15382,7 @@ disillusionist
 dominant
 dominated
 dominates
+doses
 dominating
 detoxify
 dominations

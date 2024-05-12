@@ -8874,7 +8874,6 @@ chapelling
 commonplaces
 chapelman
 chapelmaster
-chapelry
 chapelries
 chapels
 chapelward
@@ -21396,6 +21395,7 @@ chooses
 concipiency
 concipient
 concise
+chapelry
 concisely
 conciseness
 clocks
