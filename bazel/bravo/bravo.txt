@@ -2914,7 +2914,6 @@ brattle
 barrelmaker
 barrelmaking
 barrelwise
-barren
 barrenly
 barrenness
 blockaderunning
@@ -6166,6 +6165,7 @@ boyishly
 bequeathable
 becowarded
 benamidar
+barren
 benasty
 beholdable
 binauricular
