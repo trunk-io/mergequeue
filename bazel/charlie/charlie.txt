@@ -14940,7 +14940,6 @@ cytoclastic
 coalheugh
 crioboly
 cytococci
-cytococcus
 cytode
 cytoderm
 cytodiagnosis
@@ -15916,6 +15915,7 @@ cleavable
 careener
 cleavage
 cleavages
+cytococcus
 cleave
 cleaved
 cleaveful
