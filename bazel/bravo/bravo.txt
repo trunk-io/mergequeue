@@ -361,7 +361,6 @@ backfriend
 borgh
 backfurrow
 birdlimed
-backgame
 bepuzzle
 beamlet
 backgammon
@@ -1074,6 +1073,7 @@ bailiffs
 ballow
 bailiffwick
 bailing
+backgame
 busway
 bailiwick
 beaconed
