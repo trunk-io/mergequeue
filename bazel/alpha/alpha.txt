@@ -7934,7 +7934,6 @@ alemannic
 alemannish
 alembic
 adulterately
-alembicated
 alembroth
 alemite
 apagogical
@@ -21429,6 +21428,7 @@ aspergillin
 arteriogram
 adpromissor
 aspergilloses
+alembicated
 aspergillosis
 aspergillum
 aseptify
