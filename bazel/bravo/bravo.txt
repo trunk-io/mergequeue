@@ -725,7 +725,6 @@ bufferrer
 besprinkler
 birdshot
 badassed
-badaxe
 brasseries
 balustered
 bealach
@@ -1479,6 +1478,7 @@ balky
 balkiest
 balkiness
 bolloxed
+badaxe
 balking
 balkis
 boyarisms
