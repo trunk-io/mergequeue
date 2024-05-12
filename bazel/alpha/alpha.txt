@@ -685,6 +685,7 @@ aborally
 anthomyiid
 abord
 autostage
+armatures
 aboriginality
 antilevelling
 aboriginally
@@ -19912,7 +19913,6 @@ auxilium
 armatoli
 armatured
 aeroacoustic
-armatures
 armband
 annuent
 abasedness
