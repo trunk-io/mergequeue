@@ -9738,7 +9738,6 @@ bismuthal
 bedouin
 bismuthate
 bismuthide
-bismuthiferous
 bismuthyl
 btise
 bepuff
@@ -11200,6 +11199,7 @@ blooth
 blore
 blosmy
 blossom
+bismuthiferous
 blossomy
 blossomless
 blossoms
