@@ -7220,7 +7220,6 @@ footled
 fiducinales
 fermis
 fraik
-footler
 footlers
 frangulin
 flites
@@ -7884,6 +7883,7 @@ flashproof
 filler
 farmplace
 facings
+footler
 forepretended
 frightfully
 foreprize
