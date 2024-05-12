@@ -8209,7 +8209,6 @@ epistasy
 epistasies
 enrapturedly
 epistasis
-electrophotometer
 epipharyngeal
 exonerates
 epistatic
@@ -11674,6 +11673,7 @@ electroirrigation
 embattling
 emigrated
 eburnian
+electrophotometer
 exaction
 exactitude
 expectedly
