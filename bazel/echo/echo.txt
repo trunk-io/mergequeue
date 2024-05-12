@@ -1685,7 +1685,6 @@ eyeberry
 ertebolle
 eyeblack
 eyeblink
-eyebright
 exorcistical
 eyebrows
 eyecup
@@ -6095,6 +6094,7 @@ estuant
 everliving
 endrins
 ennoblements
+eyebright
 eluviation
 ennobler
 ellerian

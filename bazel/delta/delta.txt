@@ -10649,6 +10649,7 @@ diplopods
 diplopteryga
 disaccordance
 defiler
+duodenojejunostomies
 diploses
 dikdiks
 depthometer
@@ -18354,7 +18355,6 @@ duodenocystostomy
 duodenoenterostomy
 duodenojejunostomy
 demulcent
-duodenojejunostomies
 duodenopancreatectomy
 duodenoscopy
 duodenostomy
