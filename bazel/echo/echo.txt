@@ -8108,6 +8108,7 @@ episcenium
 enew
 episcia
 episclera
+escritoire
 episcleral
 episcopacy
 eyewash
@@ -9568,7 +9569,6 @@ escribe
 escribientes
 escrime
 escript
-escritoire
 encephalocele
 escritorial
 episodic
