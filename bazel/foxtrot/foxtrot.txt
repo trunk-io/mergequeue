@@ -5081,7 +5081,6 @@ froom
 flatirons
 flatlands
 flatlets
-floorwalker
 flavoprotein
 fatigued
 flatly
@@ -8124,6 +8123,7 @@ foretop
 foretopman
 fraid
 ferrotyped
+floorwalker
 foretopmast
 foretopmen
 foretops
