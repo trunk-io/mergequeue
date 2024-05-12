@@ -6544,6 +6544,7 @@ enterer
 extemporaneousness
 epimedium
 ellipses
+epitheloid
 enterers
 enorthotrope
 enterfeat
@@ -8329,7 +8330,6 @@ epithelize
 etheria
 educatedly
 enciphers
-epitheloid
 exercised
 electrologist
 epithem
