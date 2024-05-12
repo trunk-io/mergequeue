@@ -714,7 +714,6 @@ baculoid
 baculus
 bacury
 bullbeggar
-bad
 badaga
 badan
 badarian
@@ -10384,6 +10383,7 @@ britzskas
 braggadocian
 badling
 blank
+bad
 blankbook
 burgrave
 blankest
