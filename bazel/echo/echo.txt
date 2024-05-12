@@ -5283,7 +5283,6 @@ equipments
 endostylic
 excarnate
 endostoma
-explicators
 endostosis
 endostraca
 epanody
@@ -13680,6 +13679,7 @@ exterritorialize
 extersive
 extima
 eyesore
+explicators
 exerting
 exhauster
 epitrochoidal
