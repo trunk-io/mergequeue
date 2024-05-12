@@ -1836,7 +1836,6 @@ fuscescent
 fractureproof
 fissiparous
 forane
-feats
 fainness
 forgets
 featured
@@ -8026,6 +8025,7 @@ frontoethmoid
 forgetting
 forestcraft
 forested
+feats
 foresteep
 flash
 fratricidal
