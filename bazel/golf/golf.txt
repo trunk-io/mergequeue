@@ -1060,6 +1060,7 @@ givey
 glutch
 gnomons
 geophilous
+gres
 gomavel
 gravata
 gangdom
@@ -8840,7 +8841,6 @@ grenelle
 guarani
 gammacismus
 gunfight
-gres
 gressoria
 gressorial
 grieving
