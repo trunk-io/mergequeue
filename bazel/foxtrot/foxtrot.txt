@@ -1669,6 +1669,7 @@ four
 fdnames
 fdtype
 fdub
+fluttered
 fdubs
 flamboyantly
 fortuitousness
@@ -6569,7 +6570,6 @@ fibrilations
 flutter
 flutterable
 flutterboard
-fluttered
 furnacer
 ferial
 flutterers
