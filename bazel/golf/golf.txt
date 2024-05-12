@@ -5179,6 +5179,7 @@ gestalten
 glassteel
 guestship
 glasswork
+germinable
 gutturality
 galenist
 guider
@@ -9674,7 +9675,6 @@ gruiformes
 gnathostomous
 gruys
 georgiana
-germinable
 grumbled
 gipons
 gnathopodous
