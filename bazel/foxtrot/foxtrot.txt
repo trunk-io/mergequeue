@@ -352,7 +352,6 @@ fungales
 flumerin
 fleying
 fainthearted
-faintheartedness
 fainty
 forestallment
 filicinean
@@ -11145,6 +11144,7 @@ fameful
 fundmonger
 featherbrained
 fanega
+faintheartedness
 fister
 funduck
 fundulinae
