@@ -1077,6 +1077,7 @@ bridler
 belord
 brasswork
 bailiwicks
+brickmason
 baillie
 baillone
 baillonella
@@ -15153,7 +15154,6 @@ bricklike
 bowlin
 bricklining
 brickmaking
-brickmason
 brockage
 bethylid
 bricktimber
