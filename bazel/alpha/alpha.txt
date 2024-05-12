@@ -4189,7 +4189,6 @@ antiperistasis
 admissory
 acoelous
 admit
-admits
 admittable
 antedate
 admittance
@@ -12633,6 +12632,7 @@ aneuria
 aneuric
 aneurilemmic
 arrayan
+admits
 aneurin
 aneurine
 aneurism
