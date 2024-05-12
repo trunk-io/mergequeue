@@ -7173,7 +7173,6 @@ akinesis
 akinete
 akinetic
 aking
-anthecology
 akiskemikinik
 akka
 akkad
@@ -7526,6 +7525,7 @@ agrin
 albugineous
 albugines
 albuginitis
+anthecology
 albugo
 album
 albumen
