@@ -3769,7 +3769,6 @@ battlement
 battlements
 barnstorms
 battler
-battles
 battleship
 battleships
 buhr
@@ -13746,6 +13745,7 @@ benjamite
 biocides
 bywoner
 bemoans
+battles
 bowdlerize
 bowdlerized
 bowdlerizer
