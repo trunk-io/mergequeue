@@ -6020,6 +6020,7 @@ deprovincialize
 decks
 debord
 depsid
+diester
 deed
 depsides
 dept
@@ -13068,7 +13069,6 @@ dispersal
 disamis
 diadem
 disperse
-diester
 diaphragms
 didactive
 dispersedness
