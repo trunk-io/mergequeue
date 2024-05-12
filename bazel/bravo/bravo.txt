@@ -13200,7 +13200,6 @@ bizarres
 bowler
 bosslet
 bossship
-bonnyvis
 bevellers
 beleaf
 bosniac
@@ -14241,6 +14240,7 @@ braguette
 broachers
 brahmachari
 brahmaic
+bonnyvis
 brahmana
 bookboard
 bizcacha
