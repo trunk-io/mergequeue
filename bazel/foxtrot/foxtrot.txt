@@ -1663,7 +1663,6 @@ fazes
 forbite
 fc
 fitchering
-fipenny
 fcomp
 foolship
 fconv
@@ -10372,6 +10371,7 @@ fromenty
 faveoli
 forefeet
 fromenties
+fipenny
 fitten
 frizzlers
 fromwards
