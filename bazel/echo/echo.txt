@@ -2493,7 +2493,6 @@ efficaciousness
 endocritic
 electrometallurgy
 electrometallurgist
-electrometer
 enage
 earthgrubber
 ecstrophy
@@ -5823,6 +5822,7 @@ enhaunt
 enhazard
 elaborates
 enheart
+electrometer
 enterostomies
 enhearten
 endobronchially
