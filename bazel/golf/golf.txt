@@ -564,7 +564,6 @@ gyrowheel
 glaires
 gallein
 galipoidin
-gastrotympanites
 gallingness
 galleins
 galleys
@@ -7052,6 +7051,7 @@ goosegrass
 goosehouse
 gonal
 gullability
+gastrotympanites
 grandson
 gell
 gestalter
