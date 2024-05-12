@@ -4337,7 +4337,6 @@ fenian
 fisherboy
 faffle
 fragmentate
-fudged
 fisherfolk
 formulaic
 fishery
@@ -5900,6 +5899,7 @@ force
 foolfish
 fumigators
 florigraphy
+fudged
 frangent
 factors
 flockwise
