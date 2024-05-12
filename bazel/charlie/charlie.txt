@@ -9206,7 +9206,6 @@ chartlet
 chartography
 chartographic
 chartographical
-chartographically
 chartographist
 chartophylacia
 cerebra
@@ -12501,6 +12500,7 @@ chromium
 chromiums
 clerisy
 colder
+chartographically
 chromize
 cyanopsia
 contextual
