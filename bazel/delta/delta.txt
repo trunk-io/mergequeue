@@ -872,6 +872,7 @@ danseusse
 deve
 dgag
 dansy
+damageable
 dansk
 dansker
 danta
@@ -1309,7 +1310,6 @@ dorsigerous
 daulias
 dault
 daunch
-damageable
 dauncy
 doxantha
 daunder
