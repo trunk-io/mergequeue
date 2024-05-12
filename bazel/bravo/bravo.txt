@@ -14612,6 +14612,7 @@ brasslike
 brassware
 brassworker
 brassworks
+bushes
 brast
 brat
 brutter
@@ -17952,7 +17953,6 @@ busher
 bushers
 bedder
 baggy
-bushes
 bushet
 bushfighting
 bushfires
