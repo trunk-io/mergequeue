@@ -11547,7 +11547,6 @@ anacharis
 anachorism
 anachromasis
 anachronical
-aerospace
 accolated
 alfred
 apodes
@@ -18161,6 +18160,7 @@ aproctous
 auricyanic
 aproned
 aproneer
+aerospace
 aright
 apronful
 aprons
