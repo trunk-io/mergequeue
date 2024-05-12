@@ -3914,7 +3914,6 @@ dewy
 deity
 deityship
 deywoman
-deixis
 deja
 decandently
 deject
@@ -8587,6 +8586,7 @@ diaphonia
 deliberates
 diaphonic
 diaphonical
+deixis
 diaphonies
 decennary
 diaphoreses
