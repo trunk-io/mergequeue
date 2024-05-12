@@ -4156,6 +4156,7 @@ excellencies
 empolder
 encallow
 extraessentially
+enfeoff
 emporeutic
 egging
 extrications
@@ -5495,7 +5496,6 @@ enent
 enfeeblish
 effectful
 epilimnetic
-enfeoff
 euhemerizing
 englifier
 experimentarian
