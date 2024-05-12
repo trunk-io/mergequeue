@@ -7556,7 +7556,6 @@ glasgow
 graced
 garpike
 gynerium
-gilbertite
 gracefuller
 graceless
 gracelessly
@@ -10063,6 +10062,7 @@ guerrillaship
 guesdism
 glore
 gravigrade
+gilbertite
 guesdist
 gutturalize
 guesser
