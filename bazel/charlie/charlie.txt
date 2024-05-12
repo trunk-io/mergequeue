@@ -3968,7 +3968,6 @@ carcassless
 carcavelhos
 carceag
 cosmodrome
-carcel
 carcels
 carcer
 cameleers
@@ -27304,6 +27303,7 @@ countryfolk
 countryish
 countryman
 countrymen
+carcel
 crullers
 coadjust
 cassine
