@@ -5466,6 +5466,7 @@ behaviour
 behavioural
 behaviourally
 boodle
+bidi
 brisling
 behaviours
 bandying
@@ -8223,7 +8224,6 @@ bigotry
 bidentate
 bidery
 bidets
-bidi
 besieging
 bidiagonal
 bidialectalism
