@@ -5678,7 +5678,6 @@ belshazzar
 br
 belch
 belched
-belcher
 belches
 blowpipes
 bicyclical
@@ -11909,6 +11908,7 @@ bogydom
 bogieman
 bullfinch
 bogyism
+belcher
 bogyland
 brachyphalangia
 bogyman
