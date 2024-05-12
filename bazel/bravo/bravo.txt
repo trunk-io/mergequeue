@@ -3206,7 +3206,6 @@ bushed
 belesprit
 basidiospore
 basidiosporous
-basidorsal
 beautied
 basify
 bravure
@@ -10389,6 +10388,7 @@ badling
 blank
 blankbook
 burgrave
+basidorsal
 blankest
 blanket
 blanketed
