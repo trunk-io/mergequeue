@@ -449,7 +449,6 @@ favoredness
 figboy
 faithless
 fusinite
-faithlessly
 faithlessness
 fringeless
 fascioplasty
@@ -4197,6 +4196,7 @@ fleeceable
 fatting
 fireplug
 frieze
+faithlessly
 fireplugs
 firepot
 fireroom
