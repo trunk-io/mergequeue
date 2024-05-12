@@ -2243,7 +2243,6 @@ canafistolo
 canafistula
 canafistulo
 chlorapatite
-canaglia
 canaigre
 canaille
 canailles
@@ -5764,6 +5763,7 @@ catechisation
 catechise
 catechised
 chumming
+canaglia
 catechising
 calipered
 catechism
