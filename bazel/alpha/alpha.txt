@@ -2125,7 +2125,6 @@ archshepherd
 acetopyrin
 archaecraniate
 acetosalicylic
-acetose
 acetosity
 acetosoluble
 acetostearin
@@ -20418,6 +20417,7 @@ arsenophenylglycin
 arsenophenol
 arsenopyrite
 arsenostyracol
+acetose
 autopsist
 autooxidation
 arsenotherapy

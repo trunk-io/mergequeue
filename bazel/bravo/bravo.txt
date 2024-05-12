@@ -4962,7 +4962,6 @@ beefwoods
 bandcase
 beegerite
 blackcock
-badchan
 bedrock
 beeherd
 bouncing
@@ -10176,6 +10175,7 @@ blackfigured
 blackfins
 blackfire
 batster
+badchan
 burntness
 biochemical
 bas
