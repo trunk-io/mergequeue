@@ -5985,7 +5985,6 @@ floorshow
 floorway
 fluidrachm
 floorward
-fictioneering
 floorwise
 fabes
 flus
@@ -6468,6 +6467,7 @@ feasant
 fibrinolysis
 fluoroscopies
 forestudy
+fictioneering
 fluoroscoping
 fluoroscopists
 fluorotic
