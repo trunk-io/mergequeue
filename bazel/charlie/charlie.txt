@@ -5133,7 +5133,6 @@ casefy
 casefied
 corneter
 concerting
-caseharden
 casehardened
 casehardening
 casehardens
@@ -12968,6 +12967,7 @@ conducted
 churnful
 churning
 churnings
+caseharden
 churnmilk
 churns
 churoya
