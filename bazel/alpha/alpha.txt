@@ -3775,7 +3775,6 @@ adenoviral
 adenoviruses
 adeona
 adephaga
-adephagous
 annihilates
 adepter
 abarthrosis
@@ -9008,6 +9007,7 @@ allotypical
 angelon
 allotypies
 aquabib
+adephagous
 allotment
 allotments
 allotransplant

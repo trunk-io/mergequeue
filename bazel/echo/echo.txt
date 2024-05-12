@@ -5649,6 +5649,7 @@ engender
 engendered
 engenderment
 engenders
+emball
 engendrure
 engendure
 enghle
@@ -7746,7 +7747,6 @@ epidotic
 electrothermancy
 epidotiferous
 ectocinerea
-emball
 epidural
 epifascial
 epifaunae
