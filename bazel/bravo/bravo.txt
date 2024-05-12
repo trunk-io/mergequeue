@@ -3918,6 +3918,7 @@ bawra
 bestial
 barrow
 bawrel
+bullyable
 bastardisation
 bawsint
 bawsunt
@@ -15525,7 +15526,6 @@ biting
 britannically
 brashy
 britchel
-bullyable
 blennophlogosis
 britches
 blimy
