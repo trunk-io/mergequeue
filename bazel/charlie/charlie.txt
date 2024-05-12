@@ -3484,7 +3484,6 @@ centinody
 capsuled
 colasciones
 capsuler
-capsules
 capsuliferous
 capsuliform
 capsuling
@@ -28614,6 +28613,7 @@ clientless
 creesh
 cedule
 colemanite
+capsules
 civilizes
 creeshed
 creeshes
