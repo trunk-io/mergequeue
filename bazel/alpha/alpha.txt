@@ -10164,7 +10164,6 @@ apachette
 anisogamy
 ambulation
 ambulative
-ambulator
 ambulatory
 ambulatoria
 aphanitism
@@ -17506,6 +17505,7 @@ apostrophise
 apostrophised
 apostrophising
 apostrophize
+ambulator
 apostrophizes
 apostrophizing
 apostrophus
