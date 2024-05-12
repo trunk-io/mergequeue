@@ -6657,7 +6657,6 @@ cedrine
 cedriret
 cedrium
 cedrol
-corticiform
 cedron
 centibar
 cedrus
@@ -27208,6 +27207,7 @@ countertendencies
 countertenor
 cataspilite
 counterterm
+corticiform
 counterterrorism
 clasping
 counterterrorist
