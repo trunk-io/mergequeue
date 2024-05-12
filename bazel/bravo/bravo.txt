@@ -8161,7 +8161,6 @@ bicornute
 beshadow
 bicorporate
 bicostate
-bicrenate
 bicrofarad
 bicron
 bicrural
@@ -17771,6 +17770,7 @@ burlington
 buyer
 burma
 bleeping
+bicrenate
 burman
 barman
 begazed
