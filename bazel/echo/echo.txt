@@ -932,7 +932,6 @@ ectropium
 etui
 enantiotropic
 ectropometer
-eviction
 ectrosyndactyly
 ectrotic
 ecttypal
@@ -7391,6 +7390,7 @@ elbowbush
 evaporativity
 eisodic
 ephas
+eviction
 ephebea
 enrols
 ephebeion
