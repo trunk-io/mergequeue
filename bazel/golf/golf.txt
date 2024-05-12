@@ -4637,7 +4637,6 @@ germicide
 greegree
 girdles
 girdlestead
-gymnosperm
 girdling
 girds
 grapevine
@@ -7805,6 +7804,7 @@ glossotherium
 gastroenterostomy
 gelatification
 gramme
+gymnosperm
 groggiest
 gumwood
 guildsman

@@ -1646,7 +1646,6 @@ dioscorein
 deamination
 deaminize
 deaminized
-deaminizing
 deammonation
 dean
 deanathematize
@@ -5818,6 +5817,7 @@ deportation
 deportations
 deportee
 divorced
+deaminizing
 decriminalized
 deportees
 diaxial
