@@ -5171,7 +5171,6 @@ gravery
 glassmaker
 glassmaking
 grav
-gasoliery
 gunman
 gamotropism
 gormless
@@ -7056,6 +7055,7 @@ goosegog
 grum
 goosegrass
 goosehouse
+gasoliery
 gonal
 gullability
 grandson
