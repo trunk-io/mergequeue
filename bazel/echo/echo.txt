@@ -5083,7 +5083,6 @@ eruca
 endoderm
 endodermal
 endodermic
-endoderms
 endodontia
 eigh
 endodontically
@@ -13251,6 +13250,7 @@ eucairite
 explorer
 ethicalities
 eclipsareon
+endoderms
 exploringly
 encephalodialysis
 explosimeter
