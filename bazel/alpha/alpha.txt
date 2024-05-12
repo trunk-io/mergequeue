@@ -9457,7 +9457,6 @@ altazimuth
 alter
 alterability
 alterable
-alterableness
 alterably
 autoimmunized
 alteration
@@ -13253,6 +13252,7 @@ animists
 ambivalency
 accretionary
 animize
+alterableness
 animized
 amaltas
 animo
