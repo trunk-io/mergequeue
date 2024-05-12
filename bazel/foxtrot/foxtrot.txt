@@ -15,7 +15,6 @@ flagellators
 footsoldier
 fabled
 ferry
-fablemaker
 feebler
 fablemongering
 fuder
@@ -4360,6 +4359,7 @@ furlers
 fatuousness
 fishifying
 fishily
+fablemaker
 fishiness
 fishing
 frenum

@@ -2121,7 +2121,6 @@ elatinaceae
 elatinaceous
 elation
 elative
-enrib
 elatives
 elator
 enmist
@@ -7742,6 +7741,7 @@ epidotic
 electrothermancy
 epidotiferous
 ectocinerea
+enrib
 emball
 epidural
 epifascial
