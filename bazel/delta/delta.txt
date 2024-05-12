@@ -12208,7 +12208,6 @@ desegregate
 disgavel
 ditone
 disgaveling
-disgavelled
 disgavelling
 dysgenesis
 disgenic
@@ -17837,6 +17836,7 @@ ducktail
 duckweed
 divisors
 duckweeds
+disgavelled
 donis
 duckwife
 discrete
