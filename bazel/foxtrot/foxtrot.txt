@@ -9589,7 +9589,6 @@ figurers
 floppiness
 faithworthy
 forsworn
-firths
 falchion
 fastened
 fiador
@@ -11267,6 +11266,7 @@ flocculant
 falcade
 frontispieces
 funks
+firths
 faultfinding
 funmaking
 funnel
