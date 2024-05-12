@@ -6005,7 +6005,6 @@ gawney
 growler
 gipsyweed
 glucoses
-glances
 glucoside
 glucosidic
 grantha
@@ -6924,6 +6923,7 @@ girllike
 galloman
 gooders
 goog
+glances
 goodheartedness
 goody
 goodie
