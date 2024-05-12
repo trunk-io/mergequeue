@@ -1252,7 +1252,6 @@ datively
 dimouts
 danthonia
 discal
-datives
 dato
 datolite
 declinate
@@ -10787,6 +10786,7 @@ diastase
 dipterology
 devitalise
 dipterus
+datives
 diptyca
 diptychs
 dipware
