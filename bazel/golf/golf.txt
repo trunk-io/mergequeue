@@ -6372,6 +6372,7 @@ goby
 goliad
 gobies
 gonococcus
+guttula
 geckotian
 greenyard
 gordyaean
@@ -10792,7 +10793,6 @@ guttiness
 gutting
 gadabout
 guttlers
-guttula
 gainly
 guttulate
 guttule
