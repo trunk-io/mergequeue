@@ -8297,7 +8297,6 @@ erebus
 enclosable
 exterminated
 ethnolinguistic
-epistolizable
 epithecium
 ecardine
 ejectives
@@ -13028,6 +13027,7 @@ embolomeri
 expenders
 eryngoes
 enameled
+epistolizable
 expending
 expenditor
 expenditrix
