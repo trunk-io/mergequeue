@@ -11485,7 +11485,6 @@ debriding
 discolorated
 decarburization
 discoloration
-discolorations
 discolored
 discoloring
 doest
@@ -17910,6 +17909,7 @@ duellist
 duello
 duellos
 durance
+discolorations
 droopt
 duenas
 duende

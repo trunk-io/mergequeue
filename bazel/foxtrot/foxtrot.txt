@@ -8632,6 +8632,7 @@ fillebeg
 filicides
 fumistery
 fields
+frankability
 forswears
 fortake
 fertilizations
@@ -9405,7 +9406,6 @@ foreaccustom
 frangulic
 forjudge
 franion
-frankability
 frankalmoign
 filibustrous
 frankenstein
