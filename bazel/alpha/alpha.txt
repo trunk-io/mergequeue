@@ -5931,7 +5931,6 @@ ageable
 agallop
 agedly
 agedness
-agednesses
 agee
 ageing
 anglophiles
@@ -18486,6 +18485,7 @@ araliaephyllum
 aralie
 anglicist
 algaroba
+agednesses
 aralkyl
 aramaicize
 assembling
