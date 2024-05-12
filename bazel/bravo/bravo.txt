@@ -887,7 +887,6 @@ baggers
 baggie
 baggier
 baggies
-baggiest
 bradypus
 bagging
 baggings
@@ -6981,6 +6980,7 @@ beseige
 beset
 besetment
 besets
+baggiest
 besetters
 besew
 beelike
