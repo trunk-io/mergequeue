@@ -4991,7 +4991,6 @@ flappet
 flappy
 faraway
 flapping
-flywire
 flumps
 fun
 fuligo
@@ -11544,6 +11543,7 @@ fuscous
 finicism
 fistic
 fab
+flywire
 fractionate
 fused
 furtiveness
