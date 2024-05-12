@@ -3290,7 +3290,6 @@ diphthongia
 deferrize
 disaffiliates
 deferrized
-deferrizing
 defers
 deme
 dispergator
@@ -13714,6 +13713,7 @@ dissolvable
 dissolvableness
 dissolvative
 dissolve
+deferrizing
 discard
 dalis
 druxy
