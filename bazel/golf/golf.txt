@@ -3838,7 +3838,6 @@ gibboseness
 gibbosity
 gibbosities
 gibbous
-gibbousness
 gibbsite
 griph
 gelastocoridae
@@ -8458,6 +8457,7 @@ garrotter
 gascon
 gravida
 gravidation
+gibbousness
 grappled
 gravidly
 graviers
