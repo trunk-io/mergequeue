@@ -4429,7 +4429,6 @@ felafel
 footmenfootpad
 furcates
 fissility
-focaloid
 fissionable
 fissioned
 frays
@@ -9537,6 +9536,7 @@ fraudlessness
 fyces
 foretimed
 faith
+focaloid
 forewarning
 fraudulence
 fraudulency

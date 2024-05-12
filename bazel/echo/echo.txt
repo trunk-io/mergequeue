@@ -4759,7 +4759,6 @@ encompany
 encompassment
 extinguishing
 entangling
-encopreses
 encorbellment
 electrolyzer
 esrogs
@@ -11516,6 +11515,7 @@ evictor
 evictors
 evidence
 evidences
+encopreses
 evidencing
 ethicophysical
 evident
