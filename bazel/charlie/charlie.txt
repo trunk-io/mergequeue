@@ -6641,7 +6641,6 @@ cedilla
 cedillas
 ceding
 cedis
-cosheath
 chromule
 cedrat
 cedrate
@@ -31686,6 +31685,7 @@ cuspids
 cusping
 cuspis
 cusps
+cosheath
 cuspule
 computers
 coopery
