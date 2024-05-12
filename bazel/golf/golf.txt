@@ -2183,7 +2183,6 @@ grampus
 gonocyte
 galla
 globosity
-gazeless
 gazella
 gazelle
 gazellelike
@@ -9825,6 +9824,7 @@ guanethidine
 gallbush
 glummer
 gastroenterologist
+gazeless
 geikielite
 guango
 grudgeless
