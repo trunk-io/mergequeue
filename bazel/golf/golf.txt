@@ -2336,7 +2336,6 @@ gonofs
 geisa
 geisenheimer
 geyserish
-galwegian
 geyserite
 geysers
 georgia
@@ -7060,6 +7059,7 @@ gonal
 gullability
 grandson
 gell
+galwegian
 gestalter
 graith
 gaumy
