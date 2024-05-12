@@ -6072,6 +6072,7 @@ enneahedron
 eyepoints
 enneahedrons
 eustatic
+ensepulchre
 ethnicize
 enneandrian
 exorcisers
@@ -6315,7 +6316,6 @@ ensembles
 endbrain
 ensepulcher
 elderbush
-ensepulchre
 enseraph
 enserfed
 ethicists
