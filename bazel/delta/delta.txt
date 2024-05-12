@@ -7641,7 +7641,6 @@ develop
 developable
 developed
 defervescence
-developedness
 dismantlement
 duke
 developer
@@ -13308,6 +13307,7 @@ disputant
 disputation
 disconnected
 delitous
+developedness
 delightless
 disputations
 dodecaphonist

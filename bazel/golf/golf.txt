@@ -2175,7 +2175,6 @@ gaze
 ganodus
 gazebo
 gazeboes
-glabella
 gazebos
 gossipmongering
 grampus
@@ -4500,6 +4499,7 @@ gynoecia
 greatish
 gynoeciumcia
 gynogenesis
+glabella
 gynogenetic
 gynomonoeciously
 gynomonoecism
