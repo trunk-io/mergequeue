@@ -8812,7 +8812,6 @@ allision
 alliteral
 alliterate
 alliterated
-alliterates
 alliteration
 alliterational
 apodixis
@@ -19514,6 +19513,7 @@ argentinian
 argentinidae
 argentino
 argention
+alliterates
 argentol
 argentometer
 antillean
