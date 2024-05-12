@@ -12858,7 +12858,6 @@ exteriorising
 expansum
 eburneoid
 exp
-embusque
 expalpate
 expandable
 expanded
@@ -14133,6 +14132,7 @@ extrudes
 epitaphic
 englishes
 extrusile
+embusque
 earthen
 extrachromosomal
 extrusions

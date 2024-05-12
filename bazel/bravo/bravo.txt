@@ -655,7 +655,6 @@ burnoose
 buckishly
 bacteriophages
 bacteriophagy
-bacteriophagic
 bear
 bande
 bacteriopsonin
@@ -10917,6 +10916,7 @@ beetler
 blackbeetle
 blinis
 blinkard
+bacteriophagic
 britishly
 blinkards
 blinked
