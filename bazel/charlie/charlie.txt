@@ -15337,6 +15337,7 @@ claires
 cade
 clairseach
 cloisteral
+compresses
 clairsentience
 clairsentient
 clairvoyance
@@ -20920,7 +20921,6 @@ compresent
 compress
 cambogia
 compressed
-compresses
 compressibility
 compressibilities
 compressible
