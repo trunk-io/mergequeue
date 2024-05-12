@@ -2752,7 +2752,6 @@ extrasyllabic
 elenchi
 elenchic
 ethnohistorical
-elves
 elenchize
 ecthlipsis
 electrovital
@@ -10889,6 +10888,7 @@ eupatrids
 eluent
 epigram
 eupepsy
+elves
 epitapher
 electrocuting
 eloquently

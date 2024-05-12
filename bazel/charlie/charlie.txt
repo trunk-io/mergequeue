@@ -3279,6 +3279,7 @@ cordmaker
 capmaking
 capman
 capnodium
+cyclindroid
 capnoides
 colonizes
 capnomancy
@@ -13332,7 +13333,6 @@ cyclicism
 cyclicity
 cyclide
 cubeb
-cyclindroid
 cycling
 characterized
 cycliae
