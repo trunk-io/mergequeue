@@ -1169,7 +1169,6 @@ dat
 dogtrot
 datableness
 datably
-datacell
 datafile
 dataflow
 datagram
@@ -16891,6 +16890,7 @@ defortify
 drawtube
 decanically
 drazel
+datacell
 dread
 deprocedured
 dreadable
