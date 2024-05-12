@@ -2150,7 +2150,6 @@ campit
 calcaneus
 cample
 chaetopoda
-cornamute
 campo
 campodean
 creedbound
@@ -6967,6 +6966,7 @@ cemetery
 cemeterial
 ceratinous
 cemeteries
+cornamute
 culm
 cen
 cenaculum
