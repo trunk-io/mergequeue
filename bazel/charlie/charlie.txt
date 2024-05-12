@@ -15957,7 +15957,6 @@ cleidomancy
 cleidorrhexis
 chiripa
 cleidoscapular
-cleidosternal
 cleidotripsy
 cleistocarp
 cleistocarpous
@@ -22089,6 +22088,7 @@ conormal
 confluxibleness
 cheateries
 caroach
+cleidosternal
 conformability
 cashierer
 conformably
