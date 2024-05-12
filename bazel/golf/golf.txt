@@ -1471,6 +1471,7 @@ guilloche
 garnishes
 glossanthrax
 garnishment
+glowingly
 garnison
 garniture
 grecize
@@ -5925,7 +5926,6 @@ glist
 glowering
 glowfly
 gastropneumatic
-glowingly
 glucuronic
 glows
 geoethnic
