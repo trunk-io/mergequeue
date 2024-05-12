@@ -11938,6 +11938,7 @@ disembarking
 dugout
 demi
 drest
+defoliage
 disthrone
 disembarks
 disembarrass
@@ -12620,7 +12621,6 @@ divesting
 decimeters
 dextrorse
 diskophile
-defoliage
 divining
 die
 daubs
