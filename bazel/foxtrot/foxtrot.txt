@@ -4089,6 +4089,7 @@ fyrd
 futuro
 ferrosilicon
 firearm
+fertilisation
 freshment
 fireback
 fumeuses
@@ -7432,7 +7433,6 @@ flabellum
 flexanimous
 forboding
 forbore
-fertilisation
 forborne
 forbow
 forestland
