@@ -973,7 +973,6 @@ absorb
 adiathermanous
 absorbability
 absorbable
-absorbancy
 absorbed
 absorbedness
 afterhold
@@ -12352,6 +12351,7 @@ affranchising
 astigmatically
 andorite
 andoroba
+absorbancy
 adultly
 andorobo
 andorran
