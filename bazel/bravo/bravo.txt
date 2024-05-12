@@ -290,6 +290,7 @@ backbar
 backbearing
 backbencher
 backberand
+braise
 burely
 biolith
 bakeware
@@ -1387,7 +1388,6 @@ blanketmaking
 baldheaded
 baldheads
 basipterygial
-braise
 baldy
 bushings
 baldish

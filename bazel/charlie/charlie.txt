@@ -7425,7 +7425,6 @@ curtains
 cephalodium
 cephalofacial
 cephalogram
-cephalograph
 cephalohumeral
 cephaloid
 culminates
@@ -8768,6 +8767,7 @@ channeling
 clubbish
 channelization
 channelize
+cephalograph
 channelized
 channelizing
 commiseration
