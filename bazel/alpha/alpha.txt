@@ -12551,7 +12551,6 @@ archpoet
 anencephalous
 arvo
 anencephalus
-anend
 anenergia
 anenst
 anent
@@ -20054,6 +20053,7 @@ arms
 archididascalian
 armscye
 armseye
+anend
 armsful
 amyelinic
 armure
