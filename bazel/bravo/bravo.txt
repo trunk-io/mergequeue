@@ -2662,7 +2662,6 @@ bifluorid
 barlafummil
 barleduc
 branchiate
-barleducs
 barley
 barleybrake
 barleybreak
@@ -5100,6 +5099,7 @@ befetter
 biocatalyst
 basenet
 befezzed
+barleducs
 beffroy
 befiddle
 beggaries
