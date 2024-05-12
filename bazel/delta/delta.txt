@@ -7443,7 +7443,6 @@ detruck
 detrude
 darbha
 detruded
-defrosts
 dich
 detrudes
 distalia
@@ -9554,6 +9553,7 @@ dignitary
 dodecylphenol
 dignitarian
 demophoon
+defrosts
 dignitaries
 doubloons
 dignities
