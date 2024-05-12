@@ -5507,6 +5507,7 @@ gender
 gamaliel
 glutenin
 gliosa
+gists
 glyoxal
 glyoxalic
 galliwasp
@@ -9353,7 +9354,6 @@ grossed
 grossen
 gyrosyn
 granma
-gists
 grossers
 grosses
 grossest
