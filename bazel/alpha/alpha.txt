@@ -3932,6 +3932,7 @@ adipocyte
 adipofibroma
 adipogenic
 adipoid
+angiology
 antitropous
 adipolysis
 appointively
@@ -12802,7 +12803,6 @@ angioleucitis
 acronymically
 agisted
 angiolith
-angiology
 angioma
 angiomalacia
 angiomas
