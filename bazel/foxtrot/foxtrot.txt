@@ -1667,7 +1667,6 @@ forbite
 fc
 fitchering
 fipenny
-fcomp
 foolship
 fconv
 farcin
@@ -1751,6 +1750,7 @@ floats
 filicin
 flashflood
 feasters
+fcomp
 feastful
 feastfully
 feastly
