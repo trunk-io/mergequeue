@@ -1726,7 +1726,6 @@ exonerated
 eyelash
 eyelast
 eliding
-eyelessness
 eyelet
 eyeleted
 eyeletted
@@ -5223,6 +5222,7 @@ endorsed
 endorsee
 emendating
 endorsees
+eyelessness
 echinologist
 epipleural
 endorser
