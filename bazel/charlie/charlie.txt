@@ -7412,7 +7412,6 @@ cephalocone
 celestial
 cephaloconic
 cephalodia
-cephalodymus
 cephalodiscid
 checkweigher
 cryophoric
@@ -13650,6 +13649,7 @@ cylindromata
 cylindromatous
 crosswords
 cylindrometric
+cephalodymus
 cylindroogival
 cylindrophis
 cilioflagellata
