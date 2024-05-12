@@ -150,7 +150,6 @@ gads
 gadsman
 gregorianist
 grobianism
-gastroscope
 gadus
 gadwall
 glycerizin
@@ -795,6 +794,7 @@ galvanomagnetism
 gombeen
 galvanometers
 gecko
+gastroscope
 galvanometric
 geometries
 generously
