@@ -18573,7 +18573,6 @@ coinage
 coinages
 coincide
 coincided
-coincidences
 coincident
 coincidentally
 coincidently
@@ -22339,6 +22338,7 @@ coevalneity
 congratulational
 congratulations
 congratulatory
+coincidences
 congree
 congreet
 congregable
