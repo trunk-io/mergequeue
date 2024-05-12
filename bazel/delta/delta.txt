@@ -13760,7 +13760,6 @@ distrusting
 distaining
 daikering
 distalwards
-distance
 denumeration
 demast
 distanceless
@@ -17382,6 +17381,7 @@ droop
 drooped
 dehydrogenize
 drooper
+distance
 dihedral
 druggier
 droopier
