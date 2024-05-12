@@ -4751,7 +4751,6 @@ gasconade
 gra
 gyron
 galliards
-gironde
 girondin
 glyoxime
 gentrice
@@ -10466,6 +10465,7 @@ gynecic
 gunated
 grudgeons
 gunboats
+gironde
 grecale
 gemitores
 gunbuilder
