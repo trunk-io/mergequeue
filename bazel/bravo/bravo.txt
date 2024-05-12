@@ -14458,7 +14458,6 @@ branchiosauria
 branchiosaurian
 belugite
 bedumbed
-branchiostegal
 branchiostegan
 branchiostegidae
 branchiostoma
@@ -15143,6 +15142,7 @@ boniform
 bricking
 brickish
 brickkiln
+branchiostegal
 bricklayer
 bricklayers
 burut
