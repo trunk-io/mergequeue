@@ -11031,7 +11031,6 @@ chiropody
 comitatus
 chiropodial
 chiropodic
-chiropodical
 chiropodistry
 chiropodists
 chiropodous
@@ -29314,6 +29313,7 @@ cryptolite
 cryptolith
 cryptology
 cryptologist
+chiropodical
 conspiracies
 cryptolunatic
 consubstantiality
