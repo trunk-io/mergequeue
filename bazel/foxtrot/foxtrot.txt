@@ -2184,7 +2184,6 @@ flustra
 fallation
 fellowship
 fawnier
-fellowshipped
 firster
 fellowships
 fruited
@@ -11221,6 +11220,7 @@ fungology
 foremanship
 fibers
 fungological
+fellowshipped
 failles
 fiendliness
 fungologist
