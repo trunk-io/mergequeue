@@ -7197,7 +7197,6 @@ decolourise
 durwaun
 detainingly
 detainment
-detar
 detassel
 detat
 detd
@@ -7624,6 +7623,7 @@ diegueno
 develop
 developable
 developed
+detar
 defervescence
 developedness
 dismantlement
