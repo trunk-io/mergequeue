@@ -1838,6 +1838,7 @@ gendered
 gorgonacea
 glandule
 gastrophilism
+gastrotrichan
 grizzle
 gastrophilite
 gastrophrenic
@@ -8562,7 +8563,6 @@ greatening
 grandeval
 greatens
 greater
-gastrotrichan
 garbages
 granddada
 galeidae
