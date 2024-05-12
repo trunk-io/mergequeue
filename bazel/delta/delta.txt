@@ -2030,7 +2030,6 @@ decahydrate
 decahydronaphthalene
 daiquiris
 dealates
-decay
 decayable
 delousing
 decayed
@@ -11105,6 +11104,7 @@ disarranges
 disarranging
 dysarthric
 discernibility
+decay
 dorhawk
 disarticulating
 disarticulation
