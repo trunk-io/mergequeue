@@ -3733,6 +3733,7 @@ battement
 basisolute
 battements
 battened
+billette
 battener
 beknown
 batteners
@@ -8676,7 +8677,6 @@ bastinading
 billety
 bennetweed
 billets
-billette
 berylline
 broomtail
 brauneberger
