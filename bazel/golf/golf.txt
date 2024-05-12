@@ -3645,7 +3645,6 @@ glove
 ghastliest
 gatewaymen
 groups
-gianthood
 gargil
 geonyctitropic
 ghastlily
@@ -9580,6 +9579,7 @@ geests
 gouaree
 grows
 grizzlier
+gianthood
 gentlewomanish
 geneva
 gummite
