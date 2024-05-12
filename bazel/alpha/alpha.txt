@@ -8924,7 +8924,6 @@ alloiometry
 attitude
 alloiometric
 adjustments
-acrogenic
 alloisomerism
 allokurtic
 allolalia
@@ -17515,6 +17514,7 @@ apotactite
 anthesteria
 antispirochetic
 astuciously
+acrogenic
 apotelesm
 ancients
 apotelesmatical
