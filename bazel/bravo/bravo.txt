@@ -914,7 +914,6 @@ bagmaking
 bagne
 bagnes
 bastnaesite
-bagnet
 bagnio
 blowze
 bago
@@ -13697,6 +13696,7 @@ butle
 bouzoukia
 bouzoukis
 bufflehorn
+bagnet
 bovarism
 bovaristic
 bovate
