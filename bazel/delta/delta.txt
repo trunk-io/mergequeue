@@ -5456,7 +5456,6 @@ denaturiser
 denumerable
 denumerably
 dolling
-denumerant
 denumerantive
 denumerative
 denunciable
@@ -14676,6 +14675,7 @@ docimasia
 dottles
 deproceduring
 diwani
+denumerant
 docimastical
 dalk
 docimology
