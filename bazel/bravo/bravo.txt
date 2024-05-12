@@ -9430,7 +9430,6 @@ birdies
 brimse
 baske
 buriti
-bullyrook
 birding
 bulbochaete
 birdland
@@ -13769,6 +13768,7 @@ bowered
 bowery
 boweries
 bagatelles
+bullyrook
 boweryish
 bowerlet
 blatterer
