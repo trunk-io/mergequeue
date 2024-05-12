@@ -6390,7 +6390,6 @@ exarchy
 exonship
 enslavedness
 enslavements
-enslaver
 eurafrican
 enslaves
 espave
@@ -12794,6 +12793,7 @@ empty
 exosmotic
 electre
 esquamate
+enslaver
 ecchymoses
 endaortic
 expatiater
