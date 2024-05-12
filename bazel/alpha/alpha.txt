@@ -4885,7 +4885,6 @@ aequipalpia
 arrival
 aranein
 aequor
-aequorin
 aequorins
 aer
 aerage
@@ -12243,6 +12242,7 @@ anchoveta
 anchusa
 anchusas
 anchusin
+aequorin
 amblypoda
 anchusine
 azotine
