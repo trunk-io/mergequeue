@@ -3035,7 +3035,6 @@ causata
 canvasser
 chromophilous
 canzon
-canzona
 canzonas
 canzones
 canzonet
@@ -22310,6 +22309,7 @@ congoese
 chirper
 coroplasty
 congolese
+canzona
 circumpolygon
 congoleum
 congou
