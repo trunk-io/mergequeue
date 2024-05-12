@@ -385,7 +385,6 @@ daimons
 ditches
 dainchas
 daynet
-daint
 dihalid
 dainteous
 dainty
@@ -9726,6 +9725,7 @@ dclass
 dilettanteship
 devaster
 demonkind
+daint
 dilettanti
 dilettantism
 dilettantist
