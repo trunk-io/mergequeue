@@ -2453,7 +2453,6 @@ bareback
 bareboat
 borderside
 bareboats
-barrener
 bareboned
 bemuffle
 bareca
@@ -5685,6 +5684,7 @@ belshazzar
 br
 belch
 belched
+barrener
 belcher
 belches
 blowpipes
