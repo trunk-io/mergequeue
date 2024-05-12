@@ -8765,6 +8765,7 @@ allhallowtide
 allheals
 approximant
 ally
+archrepresentative
 alliaceae
 alliage
 alliance
@@ -19192,7 +19193,6 @@ acroataxia
 archrascal
 archrebel
 archregent
-archrepresentative
 archrobber
 archrogue
 archruler
