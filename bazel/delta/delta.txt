@@ -2349,6 +2349,7 @@ dielike
 databases
 decertify
 dissociant
+dept
 distances
 decess
 doab
@@ -6007,7 +6008,6 @@ debord
 depsid
 deed
 depsides
-dept
 depth
 depthen
 devitation
