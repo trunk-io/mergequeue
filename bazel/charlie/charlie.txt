@@ -4,6 +4,7 @@ caam
 caama
 caapeba
 cephalad
+cross
 caatinga
 cab
 caba
@@ -29812,7 +29813,6 @@ crosette
 crosiered
 capsumin
 crosnes
-cross
 crossability
 circummeridian
 crossable

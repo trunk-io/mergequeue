@@ -6094,7 +6094,6 @@ deputizing
 dequeue
 dermorhynchi
 duomi
-decry
 dequeues
 dropshots
 der
@@ -8420,6 +8419,7 @@ deckhouse
 dysphasic
 drowned
 draughtiness
+decry
 diallings
 disciplines
 deliveror
