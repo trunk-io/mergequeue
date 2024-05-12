@@ -3459,7 +3459,6 @@ doubting
 duendes
 defloration
 deflorations
-dengues
 deflore
 dropforged
 dubash
@@ -10403,6 +10402,7 @@ diphenhydramine
 diacidic
 diphenylacetylene
 diphenylamine
+dengues
 diphenylaminechlorarsine
 diphenylchloroarsine
 diaphoretic
