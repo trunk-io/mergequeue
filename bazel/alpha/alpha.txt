@@ -6964,6 +6964,7 @@ airsheds
 airships
 airsick
 airsickness
+algernon
 airsome
 airspace
 airspaces
@@ -8139,7 +8140,6 @@ algerines
 algerita
 algerite
 aciduric
-algernon
 algesiometer
 algesis
 algy
