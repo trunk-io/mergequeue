@@ -7900,7 +7900,6 @@ battleplane
 bibaciousness
 balche
 bicephalous
-biface
 bibacity
 bypasses
 bibation
@@ -9165,6 +9164,7 @@ biorhythm
 biorhythmic
 biorhythmicity
 beshivers
+biface
 bios
 biosatellites
 biosciences
