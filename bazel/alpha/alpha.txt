@@ -5252,7 +5252,6 @@ afacing
 afara
 afd
 afear
-afebrile
 afenil
 autochanger
 afer
@@ -14235,6 +14234,7 @@ aliveness
 amphivorous
 antepaschal
 awesomeness
+afebrile
 antepasts
 antepectus
 anthropopsychic
