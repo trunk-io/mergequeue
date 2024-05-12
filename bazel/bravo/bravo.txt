@@ -172,7 +172,6 @@ belage
 blist
 baccara
 baroques
-bdrm
 baccaras
 bedlam
 biased
@@ -9610,6 +9609,7 @@ bisbeeite
 bluejack
 brachiolarian
 biscacha
+bdrm
 biscayan
 biscayanism
 barbal
