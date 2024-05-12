@@ -7147,6 +7147,7 @@ centigramme
 confluences
 centigrams
 centile
+clausure
 centiles
 caudatum
 clunker
@@ -15751,7 +15752,6 @@ clausular
 clausule
 cheekily
 clausum
-clausure
 claut
 clava
 clavacin
