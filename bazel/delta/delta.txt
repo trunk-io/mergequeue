@@ -15393,7 +15393,6 @@ domineeringly
 domineeringness
 disinherited
 domineers
-domines
 demiturned
 doming
 domini
@@ -17119,6 +17118,7 @@ dryfoot
 drift
 driftage
 deficient
+domines
 driftages
 derivational
 dispensated
