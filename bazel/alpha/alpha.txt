@@ -7531,7 +7531,6 @@ albugines
 albuginitis
 albugo
 album
-albumen
 admittee
 albumeniizer
 albumenisation
@@ -7571,6 +7570,7 @@ antiromance
 albuminize
 allochroous
 albuminized
+albumen
 albuminocholia
 anchovies
 albuminofibrin
