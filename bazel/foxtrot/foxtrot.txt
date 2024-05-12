@@ -2682,6 +2682,7 @@ finales
 farde
 ferruler
 ferrules
+fanman
 federalese
 ferrum
 fabric
@@ -3987,7 +3988,6 @@ finical
 frock
 finickin
 fluxibly
-fanman
 follicule
 fibrin
 ferns
