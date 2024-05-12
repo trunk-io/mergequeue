@@ -5847,7 +5847,6 @@ enjoyably
 ergot
 enfonce
 enhypostasia
-enhypostasis
 erethismic
 enhypostatize
 encrinoidea
@@ -6594,6 +6593,7 @@ enterocoela
 enterocoelous
 easterliness
 enterocolitis
+enhypostasis
 enterocolostomy
 enterodynia
 enteroepiplocele
