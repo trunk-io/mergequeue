@@ -3504,7 +3504,6 @@ deticking
 defog
 defogged
 dehortatory
-disyllable
 defoggers
 deluder
 defogging
@@ -18354,6 +18353,7 @@ duodenoenterostomy
 duodenojejunostomy
 demulcent
 duodenojejunostomies
+disyllable
 duodenopancreatectomy
 duodenoscopy
 duodenostomy
