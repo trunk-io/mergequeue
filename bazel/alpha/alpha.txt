@@ -5319,7 +5319,6 @@ affiancing
 affiants
 affich
 affiches
-affidare
 affidation
 ais
 affidavy
@@ -21040,6 +21039,7 @@ asclepiadae
 asclepiadean
 asclepiadic
 autosender
+affidare
 asclepian
 asclepias
 asclepidin
