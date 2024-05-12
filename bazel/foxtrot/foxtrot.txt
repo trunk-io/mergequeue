@@ -42,6 +42,7 @@ fabricators
 fabricature
 fabrics
 filters
+fateful
 futurities
 fuddledness
 fabronia
@@ -6043,7 +6044,6 @@ floretty
 flory
 floria
 floriage
-fateful
 floriated
 floriation
 floricin
