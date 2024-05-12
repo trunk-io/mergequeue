@@ -7726,7 +7726,6 @@ alcoholics
 alcoholimeter
 autoconverter
 alcoholise
-asterin
 alcoholised
 alcoholising
 alcoholysis
@@ -16974,6 +16973,7 @@ aphthong
 aphthongal
 aberrations
 aphthongia
+asterin
 apiaca
 apiaceae
 apiaceous
