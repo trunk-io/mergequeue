@@ -8639,7 +8639,6 @@ girn
 greenbone
 galimatias
 greenbrier
-greenbug
 greenbugs
 gavottes
 greencloth
@@ -10371,6 +10370,7 @@ gangliocyte
 gulls
 gigot
 gamotropic
+greenbug
 gossipingly
 glucosidal
 gigawatts
