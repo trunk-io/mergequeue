@@ -3039,6 +3039,7 @@ geoffroyin
 grus
 geomance
 geoform
+gourdes
 geogen
 geogenesis
 gyropilot
@@ -7409,7 +7410,6 @@ gunroom
 geniuses
 gourde
 gourded
-gourdes
 gelling
 gourdful
 gourdhead
