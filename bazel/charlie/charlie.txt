@@ -15671,6 +15671,7 @@ cytopathology
 classmanship
 clive
 chillo
+conflictory
 classmate
 curdlers
 classroom
@@ -22079,7 +22080,6 @@ conflicting
 conflictingly
 conflictive
 conflictless
-conflictory
 conflicts
 conflictual
 conflow
