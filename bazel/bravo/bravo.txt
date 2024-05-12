@@ -5676,7 +5676,6 @@ belat
 bindweeds
 bima
 blarina
-briton
 belate
 bandura
 belated
@@ -7732,6 +7731,7 @@ barmen
 biciliate
 bewrayed
 bewrayer
+briton
 barosinusitis
 bracelets
 barful
