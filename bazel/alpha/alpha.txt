@@ -3852,7 +3852,6 @@ ady
 adiabat
 assistency
 adiadochokinesia
-antecedal
 adiadochokinesis
 adiadokokinesi
 adiadokokinesia
@@ -17489,6 +17488,7 @@ aviator
 apostles
 apostleship
 apostleships
+antecedal
 amassers
 apostoile
 apostoli
