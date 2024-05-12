@@ -15934,6 +15934,7 @@ clechee
 clechy
 corncob
 cleck
+conjective
 cled
 coassumes
 cledde
@@ -22470,7 +22471,6 @@ conite
 coniums
 conyza
 conj
-conjective
 conjecturableness
 conjecturably
 coronetlike
