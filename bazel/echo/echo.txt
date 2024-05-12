@@ -5244,6 +5244,7 @@ exostema
 endomysium
 endoscopes
 endoscopic
+epoxide
 endoscopies
 endoscopist
 empyreumatical
@@ -6557,7 +6558,6 @@ elelments
 endothecate
 enterobacterial
 eosinophilia
-epoxide
 egretta
 enterobiliary
 enterrologist
