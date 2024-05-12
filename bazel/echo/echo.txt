@@ -43,7 +43,6 @@ enumerated
 emigrational
 earbash
 earbob
-esperance
 earclip
 earcockle
 eardropper
@@ -2051,6 +2050,7 @@ elapids
 euthyneural
 elapine
 elapse
+esperance
 edificant
 epigyny
 englory
