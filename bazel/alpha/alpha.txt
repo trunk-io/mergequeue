@@ -6720,7 +6720,6 @@ aiguellette
 antidomestically
 aiguille
 apocryphally
-aiguilles
 aiguillette
 aiguilletted
 ayield
@@ -7452,6 +7451,7 @@ albicans
 albicant
 albicore
 albicores
+aiguilles
 albiculi
 albificative
 albified
