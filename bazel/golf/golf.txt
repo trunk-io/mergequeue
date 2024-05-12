@@ -5626,7 +5626,6 @@ glucine
 globiocephalus
 goetic
 globose
-globosite
 granuloblast
 ghostmonger
 gallanilide
@@ -9814,6 +9813,7 @@ gletscher
 gaposis
 gonadic
 guanay
+globosite
 girondism
 gonydeal
 guanayes
