@@ -666,7 +666,6 @@ caesural
 caesuric
 caf
 cafard
-cafardise
 chicky
 cafeneh
 cryptanalytic
@@ -25351,6 +25350,7 @@ causeways
 corncakes
 corncobs
 corncockle
+cafardise
 corncracker
 corncrake
 crustiest
