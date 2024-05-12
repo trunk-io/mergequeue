@@ -6563,6 +6563,7 @@ glidewort
 goldenrod
 gucked
 goldentop
+groceryman
 gastrea
 golder
 grower
@@ -9222,7 +9223,6 @@ grocer
 groceress
 gigglesome
 gat
-groceryman
 griffonne
 grocers
 gedanken
