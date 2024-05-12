@@ -15230,7 +15230,6 @@ dix
 dollmaker
 dollops
 decalcomania
-dolls
 dollship
 dolmans
 diluviums
@@ -17336,6 +17335,7 @@ dromed
 dromedary
 dromedarian
 dzo
+dolls
 dromedaries
 dromic
 dromioid
