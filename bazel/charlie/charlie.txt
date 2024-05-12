@@ -5186,7 +5186,6 @@ cashbooks
 cashbox
 cashboxes
 chromophor
-cambaye
 cashcuttee
 casheen
 cashel
@@ -19628,6 +19627,7 @@ columns
 colure
 colures
 colusite
+cambaye
 colville
 colza
 coating

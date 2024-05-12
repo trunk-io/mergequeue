@@ -4374,7 +4374,6 @@ enaunter
 electrodesiccate
 enbrave
 embar
-enc
 encadre
 encaenia
 ectorganism
@@ -9050,6 +9049,7 @@ elicitable
 eristic
 eristically
 erithacus
+enc
 ewound
 erythea
 erythema
