@@ -3242,7 +3242,6 @@ activations
 activator
 active
 actively
-academising
 aweather
 apostrophized
 activeness
@@ -14220,6 +14219,7 @@ acanthurus
 antennula
 antennular
 antennule
+academising
 adelopod
 antenodal
 antenoon
