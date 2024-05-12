@@ -7903,6 +7903,7 @@ cervicofacial
 cervicolabial
 cervicolingual
 cervicolumbar
+cimbrian
 crystal
 cervicomuscular
 chiasmi
@@ -13721,7 +13722,6 @@ copartner
 cymbocephalous
 cymbopogon
 cimborio
-cimbrian
 cimbric
 clovene
 camoodi
