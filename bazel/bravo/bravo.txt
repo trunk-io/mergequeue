@@ -12268,7 +12268,6 @@ biopsies
 bombardment
 bombardments
 bylaws
-bombardo
 bowdrill
 bombards
 bombast
@@ -12970,6 +12969,7 @@ borderlander
 bagpipe
 behaviourist
 borderlight
+bombardo
 borderline
 bowsery
 bordermark
