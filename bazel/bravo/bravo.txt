@@ -3177,7 +3177,6 @@ basic
 bombardier
 basically
 basicerite
-basichromatin
 buffi
 basichromatinic
 babai
@@ -14781,6 +14780,7 @@ breadthways
 breadwinner
 beanpoles
 beltwise
+basichromatin
 bedded
 breadwinning
 breaghe
