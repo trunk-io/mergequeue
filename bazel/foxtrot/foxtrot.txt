@@ -8783,7 +8783,6 @@ feast
 foliaceousness
 faeries
 forweend
-forweep
 fantasias
 forwelk
 fondlike
@@ -10238,6 +10237,7 @@ fusobteria
 frivolous
 frivolousness
 flockmaster
+forweep
 frivols
 frontlet
 fled
