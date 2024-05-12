@@ -4861,7 +4861,6 @@ beshrouded
 bolometer
 bedstraw
 bedstraws
-bedstring
 bedswerver
 bices
 branchiurous
@@ -9632,6 +9631,7 @@ biscuitry
 byronism
 beardedness
 biscuitroot
+bedstring
 burnets
 biscuits
 bhutia
