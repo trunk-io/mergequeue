@@ -6371,6 +6371,7 @@ focalize
 ferroboron
 feta
 fubsier
+fowlers
 farmhouses
 fille
 fecundities
@@ -9096,7 +9097,6 @@ fowler
 fowlery
 froeman
 fowlerite
-fowlers
 fowlfoot
 fowlings
 fluvious
