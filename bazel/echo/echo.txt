@@ -6451,6 +6451,7 @@ ensures
 ensuring
 enswathe
 expelling
+escapees
 enswathement
 encephalola
 enswathes
@@ -9454,7 +9455,6 @@ escape
 escaped
 enfamous
 escapee
-escapees
 empark
 executant
 ephedrine
