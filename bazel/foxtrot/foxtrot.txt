@@ -7724,7 +7724,6 @@ forgiveable
 frist
 forehoofs
 forehook
-forehooves
 forpit
 fibrolipoma
 floatmaker
@@ -9879,6 +9878,7 @@ freshly
 festa
 flavanone
 feases
+forehooves
 factish
 fulminator
 fundable
