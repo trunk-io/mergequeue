@@ -26021,7 +26021,6 @@ corvidae
 corvillosum
 corvinae
 creolize
-corvinas
 corvine
 corviser
 corvisor
@@ -26919,6 +26918,7 @@ countermining
 counterinfluence
 countering
 crochets
+corvinas
 counterinsult
 counterinsurgency
 counterinterest
