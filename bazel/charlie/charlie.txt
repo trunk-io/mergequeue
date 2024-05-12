@@ -3811,7 +3811,6 @@ carboluria
 chrisma
 chude
 carbomethene
-carbomethoxy
 carbomethoxyl
 carbomycin
 cryptobranchidae
@@ -24431,6 +24430,7 @@ cooperative
 cuissart
 cooperatively
 cilioscleral
+carbomethoxy
 cooperatives
 coopered
 cundy
