@@ -2943,7 +2943,6 @@ gigged
 galacaceae
 galaxies
 genu
-glycogenetic
 grouthead
 gater
 ghaznevid
@@ -10389,6 +10388,7 @@ gaulter
 gulps
 gynostemium
 gaucher
+glycogenetic
 gangrene
 gult
 gum
