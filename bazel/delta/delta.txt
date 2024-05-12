@@ -6798,7 +6798,6 @@ desitive
 desize
 deskbound
 deskill
-decompositional
 desklike
 dunks
 deskman
@@ -15248,6 +15247,7 @@ dorididae
 dolomitise
 dolomitization
 dumpty
+decompositional
 dolomitize
 dolomitizing
 diabolical
