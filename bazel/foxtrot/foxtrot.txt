@@ -4325,6 +4325,7 @@ fishberries
 fishboats
 fishbolt
 fishbolts
+fragrantly
 fishbone
 falchions
 fishbowls
@@ -9289,7 +9290,6 @@ forsakers
 fragments
 fishbed
 foraneous
-fragrantly
 facts
 fragrantness
 fabulists
