@@ -1736,7 +1736,6 @@ eyeletting
 eyelid
 eyelids
 engining
-eyeliner
 eatage
 eyeliners
 endoneurial
@@ -3915,6 +3914,7 @@ emodins
 emollescence
 efflorescent
 emollience
+eyeliner
 efference
 erogenesis
 expugnable
