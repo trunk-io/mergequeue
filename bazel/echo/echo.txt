@@ -6286,7 +6286,6 @@ evisite
 emicant
 ensate
 ensconced
-emporium
 ectypes
 ensconcing
 enscroll
@@ -8231,6 +8230,7 @@ epistylis
 exulcerate
 emetocathartic
 epistle
+emporium
 enweave
 eleostearate
 euryalidan
