@@ -10481,7 +10481,6 @@ beeflower
 blastochyle
 blastocyte
 blastocoel
-blastocoele
 blastodermic
 balcone
 blastodisc
@@ -18279,6 +18278,7 @@ butterworker
 butterwort
 butterwright
 buttgenbachite
+blastocoele
 breed
 beryciform
 bruchus
