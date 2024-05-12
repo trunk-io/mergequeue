@@ -8522,7 +8522,6 @@ autoheterodyne
 alkalization
 alkalize
 alkalizer
-alkalizes
 alkalizing
 alkaloid
 alkaloids
@@ -17928,6 +17927,7 @@ achaemenidian
 adinida
 apport
 apportion
+alkalizes
 apportionable
 apportionate
 apportioned
