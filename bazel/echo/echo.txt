@@ -1368,7 +1368,6 @@ epicotyleal
 endochylous
 exhortation
 effigy
-effigiate
 effigiating
 epeidia
 effigies
@@ -5444,6 +5443,7 @@ embrocating
 etatist
 eulogising
 energiser
+effigiate
 exoccipital
 enantiosis
 elopidae
