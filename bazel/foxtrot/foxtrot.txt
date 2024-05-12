@@ -5816,6 +5816,7 @@ ferulas
 floatage
 farmeries
 fireling
+fissures
 floatation
 firesides
 finicky
@@ -7327,7 +7328,6 @@ fishingly
 forage
 facers
 fourgon
-fissures
 fluttery
 formable
 ferromolybdenum
