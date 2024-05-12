@@ -1237,6 +1237,7 @@ eelcake
 electromyography
 extypal
 ewer
+epaulette
 endostome
 eelery
 enarch
@@ -7330,7 +7331,6 @@ epauleted
 electrologic
 extatic
 epaulets
-epaulette
 epauletted
 eyries
 elbowed
