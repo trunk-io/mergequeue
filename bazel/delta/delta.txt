@@ -8010,6 +8010,7 @@ dusserah
 daubes
 dezincs
 dfault
+deescalates
 dft
 dialects
 disavowment
@@ -12113,7 +12114,6 @@ diiodid
 diddler
 dp
 deutoscolex
-deescalates
 divertor
 dorbie
 delusion
