@@ -3180,7 +3180,6 @@ capillary
 cyrtograph
 capillaries
 carmetta
-capillation
 capilli
 capilliculture
 cosmoid
@@ -7985,6 +7984,7 @@ cineraceous
 chromophotolithograph
 cataphoretic
 cest
+capillation
 cesta
 cestidae
 clockkeeper
