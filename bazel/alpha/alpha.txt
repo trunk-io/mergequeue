@@ -5320,7 +5320,6 @@ affianced
 affiancing
 affiants
 affich
-affiches
 affidare
 affidation
 ais
@@ -20517,6 +20516,7 @@ arteriometer
 arteriomotor
 arterionecrosis
 allantois
+affiches
 arteriopalmus
 arterioplasty
 arteriopressor
