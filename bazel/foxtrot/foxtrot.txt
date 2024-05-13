@@ -9803,7 +9803,6 @@ fremituses
 fordwine
 fremontia
 fremontodendron
-fideicommissum
 fremt
 firebrat
 frenal
@@ -10210,6 +10209,7 @@ frisure
 faki
 frithbot
 frithy
+fideicommissum
 fonds
 facula
 feasance
