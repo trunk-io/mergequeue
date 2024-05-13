@@ -8287,6 +8287,7 @@ diseurs
 diagonals
 deducting
 diagonalwise
+dyeleaves
 dedans
 dicatalexis
 diagonial
@@ -9212,7 +9213,6 @@ dieldrin
 decahedrodra
 decentres
 dieldrins
-dyeleaves
 dielectric
 discontinuor
 debarkation

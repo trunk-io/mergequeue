@@ -5864,7 +5864,6 @@ giantisms
 goings
 glossosteresis
 grimmish
-gabeller
 glossotomy
 glosts
 glottal
@@ -5926,6 +5925,7 @@ glowering
 glowfly
 gastropneumatic
 glowingly
+gabeller
 glucuronic
 glows
 geoethnic
