@@ -9401,6 +9401,7 @@ diffusers
 diffuses
 dechlore
 diffusible
+dioptograph
 diffusibleness
 diffusimeter
 diffusing
@@ -10314,7 +10315,6 @@ disillusionizing
 dioptases
 diopter
 diopters
-dioptograph
 dioptometer
 desilverizer
 discophore
