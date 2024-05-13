@@ -2448,7 +2448,6 @@ aciform
 audubonistic
 abet
 aftercare
-acylamidobenzene
 acylamino
 acylated
 acylates
@@ -11187,6 +11186,7 @@ amphigories
 allthing
 amphikaryotic
 amphilogy
+acylamidobenzene
 amphilogism
 amphimacer
 aldononose
