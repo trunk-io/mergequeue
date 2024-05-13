@@ -8901,7 +8901,6 @@ griddled
 griddles
 gentleship
 griddling
-genarchaship
 glauberite
 galenism
 gastrology
@@ -9193,6 +9192,7 @@ grits
 gritted
 grittie
 grittier
+genarchaship
 grooveless
 grivation
 grivna
