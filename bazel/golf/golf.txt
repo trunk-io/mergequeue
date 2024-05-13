@@ -3901,7 +3901,6 @@ gifola
 gift
 giftbook
 greasy
-giftedly
 gobbin
 gigelira
 guttate
@@ -5725,6 +5724,7 @@ garlicwort
 groma
 glochidium
 glooms
+giftedly
 gloomth
 galingale
 guanosine
