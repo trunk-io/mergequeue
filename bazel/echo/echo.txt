@@ -2578,7 +2578,6 @@ electropsychrometer
 executioner
 excitably
 egotisticalness
-electropult
 electropuncturation
 euphemiously
 electropuncture
@@ -13221,6 +13220,7 @@ explicits
 eurylaimidae
 explida
 explodable
+electropult
 explode
 eschars
 exploded
