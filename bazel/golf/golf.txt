@@ -1604,7 +1604,6 @@ gasohol
 gasolene
 gasolier
 gangland
-gasoliers
 gasoliner
 gasometry
 gastrodisc
@@ -8747,6 +8746,7 @@ gregale
 gobiidae
 glamorousness
 guileless
+gasoliers
 graduals
 gametophyll
 glossed

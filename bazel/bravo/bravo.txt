@@ -11125,6 +11125,7 @@ breastband
 bloodcurdlingly
 blooddrop
 blooddrops
+bandanna
 bloodfin
 bloodfins
 booboos
@@ -14687,7 +14688,6 @@ bibliography
 brawned
 brawnedness
 braved
-bandanna
 brawnier
 brawnily
 bove
