@@ -2436,7 +2436,6 @@ decimalise
 decimalised
 decimalism
 dueling
-decimalist
 decimalization
 decimalized
 decaisnea
@@ -12624,6 +12623,7 @@ dereferences
 disk
 disked
 diskelion
+decimalist
 disker
 dyskeratosis
 diskery
