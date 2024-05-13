@@ -6846,7 +6846,6 @@ aircraftswoman
 adipsous
 aircraftwoman
 ahint
-aircrew
 aircrewman
 aircrewmen
 aerophone
@@ -7774,6 +7773,7 @@ aldamine
 aldane
 alaite
 aldea
+aircrew
 audition
 arborist
 antichresis
