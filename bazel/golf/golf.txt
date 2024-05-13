@@ -2917,7 +2917,6 @@ glassite
 gentler
 gentles
 graticulation
-genuflection
 gentlest
 gentlewomanly
 glossoid
@@ -5755,6 +5754,7 @@ grazer
 glorifies
 gnatlike
 gloryful
+genuflection
 glorying
 glavered
 goup
