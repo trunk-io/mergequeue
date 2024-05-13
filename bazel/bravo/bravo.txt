@@ -294,6 +294,7 @@ backband
 backbar
 backbearing
 backbencher
+bandar
 backberand
 burely
 biolith
@@ -1847,7 +1848,6 @@ buggery
 bandanaed
 bedgown
 bandannaed
-bandar
 bandarlog
 bandboxes
 bandboxy
