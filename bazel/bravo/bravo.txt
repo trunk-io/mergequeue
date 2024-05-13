@@ -755,6 +755,7 @@ bogwort
 badgered
 badgerer
 badgering
+beneficiary
 buoyant
 blundersome
 boltant
@@ -5129,7 +5130,6 @@ befire
 befist
 braised
 bustard
-beneficiary
 befitted
 beaterman
 brogh
