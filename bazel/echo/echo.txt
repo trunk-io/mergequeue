@@ -11289,7 +11289,6 @@ easinesses
 elaeosia
 embrawn
 evangeliary
-evangeliaries
 endorses
 exocrinology
 elohism
@@ -12534,6 +12533,7 @@ exilarchate
 exile
 excursion
 expiated
+evangeliaries
 enterocoelic
 enneagynous
 ejecta
