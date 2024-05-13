@@ -350,6 +350,7 @@ factions
 famines
 fiercening
 foreproduct
+fumets
 fideicommissor
 fainter
 faintest
@@ -11037,7 +11038,6 @@ farmery
 fumeroot
 fumes
 fumet
-fumets
 follows
 flongs
 felsosphaerite
