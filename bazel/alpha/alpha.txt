@@ -2415,6 +2415,7 @@ acidophilic
 acidophilus
 acidoses
 afternoon
+auriculocranial
 acidosis
 acidosteophyte
 acidotic
@@ -23593,7 +23594,6 @@ auriculated
 alethic
 auriculately
 auriculidae
-auriculocranial
 apios
 auriculoid
 amphisile
