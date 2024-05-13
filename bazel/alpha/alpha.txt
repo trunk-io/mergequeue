@@ -6518,7 +6518,6 @@ agronomist
 agronomists
 aberrate
 anagenetical
-agrope
 agropyron
 agrostemma
 agrosteral
@@ -9766,6 +9765,7 @@ antimonarchical
 amalgamation
 amalgamationist
 abecedarius
+agrope
 amalgamative
 amalgamatize
 amalgamator
