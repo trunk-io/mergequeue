@@ -6870,6 +6870,7 @@ gonof
 greyer
 gthite
 geared
+gassendist
 gonophore
 geodesia
 gyrofrequencies
@@ -7237,7 +7238,6 @@ gharri
 globy
 gelatinify
 gilliflirt
-gassendist
 gorsy
 glycose
 grayware
