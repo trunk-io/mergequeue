@@ -2528,7 +2528,6 @@ ferrotypes
 flexity
 falsen
 fermions
-fermium
 fern
 fastigium
 floripondio
@@ -3346,6 +3345,7 @@ forinsec
 froglet
 fidge
 fidged
+fermium
 frameable
 fidget
 freewheelers
