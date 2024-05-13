@@ -4852,6 +4852,7 @@ carryed
 carrier
 carriers
 carries
+chifforobes
 carrying
 carryings
 carriole
@@ -10477,7 +10478,6 @@ chiffons
 continuable
 chifforobe
 clear
-chifforobes
 crosswalk
 chiffre
 chigetai

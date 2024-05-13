@@ -1639,7 +1639,6 @@ favositidae
 funambulo
 fossilisation
 flatterer
-favourableness
 fallalery
 favouring
 favours
@@ -2790,6 +2789,7 @@ fessed
 foldouts
 foresentence
 ferules
+favourableness
 fesses
 flaunche
 fessewise
