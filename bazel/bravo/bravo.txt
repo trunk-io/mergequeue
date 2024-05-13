@@ -365,7 +365,6 @@ birdlimed
 backgame
 bepuzzle
 beamlet
-backgammon
 barbarical
 background
 backhand
@@ -15295,6 +15294,7 @@ brigadier
 bitripartite
 bromvoel
 bequote
+backgammon
 brigalow
 brachypterous
 brigandage
