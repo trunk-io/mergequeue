@@ -4941,7 +4941,6 @@ endenizen
 executional
 ender
 enclosing
-entosarc
 endermatic
 empathetically
 expediate
@@ -10624,6 +10623,7 @@ engrossed
 euchology
 equines
 entailing
+entosarc
 eild
 evermo
 euchorda
