@@ -3616,6 +3616,7 @@ adduces
 adducible
 anthracic
 auriculo
+anguine
 acari
 adducted
 adducting
@@ -12966,7 +12967,6 @@ antiegoism
 anguillula
 ahsan
 approaches
-anguine
 anguineal
 anguineous
 anguinidae
