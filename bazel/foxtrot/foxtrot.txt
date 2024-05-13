@@ -8044,7 +8044,6 @@ forestation
 flexional
 frontoethmoid
 forgetting
-forestcraft
 feats
 foresteep
 flash
@@ -8858,6 +8857,7 @@ fossilism
 fossilist
 fleeringly
 fossilizing
+forestcraft
 furcular
 fossillike
 foozles
