@@ -1132,6 +1132,7 @@ environage
 embowelled
 edition
 editions
+extincted
 editor
 editorial
 editorialization
@@ -13690,7 +13691,6 @@ exerting
 exhauster
 epitrochoidal
 extimulate
-extincted
 extincting
 expostulate
 expt

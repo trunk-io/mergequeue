@@ -3563,7 +3563,6 @@ counterbase
 capucine
 capulet
 capulin
-caput
 caputium
 caque
 counterstrike
@@ -14989,6 +14988,7 @@ caperdewsie
 cytomegalovirus
 cytomere
 cytometer
+caput
 cytomicrosome
 citrated
 cytomorphology
