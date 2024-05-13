@@ -25627,7 +25627,6 @@ commemorized
 coroutine
 coroutines
 corozos
-cardsharper
 corp
 corpn
 corpora
@@ -26045,6 +26044,7 @@ corvoid
 corvorant
 corvus
 cos
+cardsharper
 cosalite
 cosaque
 coppled
