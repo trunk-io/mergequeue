@@ -3042,7 +3042,6 @@ ellipsograph
 ellipsoid
 executiveness
 ellipsone
-ellipsonic
 exteriorization
 elliptical
 elliptically
@@ -5587,6 +5586,7 @@ expressness
 enframed
 enfranch
 ethnarch
+ellipsonic
 enfranchised
 estimating
 enfranchisements
