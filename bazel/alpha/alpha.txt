@@ -12550,7 +12550,6 @@ astroscope
 anemophile
 anemophily
 anemopsis
-anemoscope
 afront
 aye
 anemoses
@@ -20658,6 +20657,7 @@ agistor
 aquamanalia
 arthroses
 arthrosynovitis
+anemoscope
 arthrosyrinx
 arthrosis
 adorsed

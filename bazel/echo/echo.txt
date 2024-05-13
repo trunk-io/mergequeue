@@ -1662,7 +1662,6 @@ eider
 ectomorphism
 eiders
 eidograph
-eidola
 eidolism
 eidolon
 electromotiv
@@ -12848,6 +12847,7 @@ eisteddfods
 efecks
 exoticism
 exoticist
+eidola
 exoticness
 exotics
 exotoxic
