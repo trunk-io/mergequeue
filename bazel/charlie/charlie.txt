@@ -2661,6 +2661,7 @@ coff
 combinatorics
 canmaker
 climbs
+compromis
 canman
 canna
 churr
@@ -30601,7 +30602,6 @@ conned
 cucurbite
 clinicist
 cucurbitine
-compromis
 cud
 coequation
 cuda
