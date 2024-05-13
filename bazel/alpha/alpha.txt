@@ -1601,7 +1601,6 @@ accompanyist
 aphasiac
 accompanimental
 accompaniments
-accompanist
 accomplement
 accompli
 allanitic
@@ -20485,6 +20484,7 @@ apotropaic
 arteriae
 autere
 arteriagra
+accompanist
 arterialise
 arterialization
 arterialize
