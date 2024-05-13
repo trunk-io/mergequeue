@@ -10552,6 +10552,7 @@ etna
 enteroid
 etoile
 eton
+ephemera
 etrenne
 etrog
 extralinguistic
@@ -12271,7 +12272,6 @@ execratively
 economised
 execrator
 emusive
-ephemera
 execrators
 execute
 executed
