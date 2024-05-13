@@ -17691,7 +17691,6 @@ cochromatography
 cochurchwarden
 corke
 cocillana
-cocin
 cocinera
 cocircular
 commutual
@@ -22089,6 +22088,7 @@ conflicting
 conflictingly
 conflictive
 conflictless
+cocin
 conflictory
 conflicts
 conflictual
