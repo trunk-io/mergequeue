@@ -4122,6 +4122,7 @@ endives
 employees
 employer
 exedral
+embrawn
 elastance
 enamine
 ethnical
@@ -11281,7 +11282,6 @@ equipt
 evangelary
 easinesses
 elaeosia
-embrawn
 evangeliary
 evangeliaries
 endorses
