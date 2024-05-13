@@ -9384,7 +9384,6 @@ dadder
 difformed
 deminudity
 diffract
-diffraction
 diffractions
 defense
 diffractively
@@ -17447,6 +17446,7 @@ doeth
 dribblers
 dropsicalness
 dropsied
+diffraction
 direction
 decream
 dropsies
