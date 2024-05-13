@@ -4802,7 +4802,6 @@ bogway
 bedrails
 bedral
 bedrape
-bedraped
 bedrapes
 bedraping
 bedread
@@ -8990,6 +8989,7 @@ bavoso
 blabber
 bioclimatologically
 bioclimatologist
+bedraped
 biocoenose
 bouchons
 biocoenoses
