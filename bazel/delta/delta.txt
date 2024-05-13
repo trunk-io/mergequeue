@@ -2368,7 +2368,6 @@ diphosphothiamine
 drink
 dechemicalize
 dechenite
-dechlog
 dechloridation
 dechloridize
 dechloridized
@@ -16422,6 +16421,7 @@ dowve
 doxa
 diapsidan
 doxastic
+dechlog
 doxasticon
 doxy
 doxie
