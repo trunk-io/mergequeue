@@ -5251,7 +5251,6 @@ afterpart
 automate
 afara
 afd
-afear
 afebrile
 afenil
 autochanger
@@ -25036,6 +25035,7 @@ awninged
 awnings
 awnless
 awnlike
+afear
 awns
 antihydrophobic
 awoke
