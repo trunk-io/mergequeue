@@ -6694,7 +6694,6 @@ gonadotrope
 gainsaid
 gallinula
 gorgonian
-gonadotrophin
 granivorous
 gonaduct
 gesticulated
@@ -9946,6 +9945,7 @@ grummel
 guativere
 generalised
 gesnerian
+gonadotrophin
 guatusan
 gyric
 gradatively
