@@ -3471,7 +3471,6 @@ abiosis
 adaptively
 argosies
 adaptiveness
-adaptometer
 adaptor
 adaptorial
 adapts
@@ -21021,6 +21020,7 @@ ahmet
 anticorrosives
 accumulators
 ascitb
+adaptometer
 ampheclexis
 ascite
 amphibologism
