@@ -3462,7 +3462,6 @@ baroi
 burbots
 bastinado
 bastinadoed
-bastinadoing
 basting
 bastings
 bastion
@@ -10726,6 +10725,7 @@ blencorn
 blend
 backflap
 bestill
+bastinadoing
 blende
 blazed
 billetty
