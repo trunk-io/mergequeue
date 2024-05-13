@@ -3518,6 +3518,7 @@ flutebird
 figureless
 feuilletonist
 figurer
+flyweight
 flocculous
 facebread
 figures
@@ -5824,7 +5825,6 @@ flyways
 fishable
 faunas
 further
-flyweight
 ferr
 fribblish
 flywinch
