@@ -7227,7 +7227,6 @@ centraxonia
 centraxonial
 centre
 centreboard
-centred
 centref
 centreless
 centrepiece
@@ -28617,6 +28616,7 @@ chammies
 creepmouse
 creeps
 creese
+centred
 creeses
 cinchonine
 chiefship
