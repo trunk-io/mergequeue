@@ -14708,6 +14708,7 @@ docketing
 dockets
 dockhand
 debadge
+defensemen
 dockhouse
 dockyard
 dockyardman
@@ -17529,7 +17530,6 @@ drowsihead
 drowsiness
 drowte
 drubber
-defensemen
 dreads
 densities
 donet
