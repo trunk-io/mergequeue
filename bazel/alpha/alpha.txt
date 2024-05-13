@@ -11806,7 +11806,6 @@ alypin
 adjudicator
 analyzes
 analyzing
-analkalinity
 appetites
 anallagmatic
 anallagmatis
@@ -13418,6 +13417,7 @@ ascill
 anywhence
 anywhere
 anywhither
+analkalinity
 anywise
 anywither
 anhalonium
