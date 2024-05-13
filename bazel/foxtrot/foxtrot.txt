@@ -2610,6 +2610,7 @@ ferrets
 foresightful
 flanes
 ferryboat
+forcipation
 ferryboats
 familistery
 ferricyanate
@@ -7480,7 +7481,6 @@ fluocarbonate
 freemen
 forthfare
 forjudger
-forcipation
 forcipressure
 fishhook
 foy
