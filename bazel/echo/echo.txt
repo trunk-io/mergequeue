@@ -2913,7 +2913,6 @@ elicitor
 ennoblers
 elicitors
 elicits
-elevatedness
 expensefulness
 elide
 euchromatin
@@ -3225,6 +3224,7 @@ em
 ektene
 ensnaring
 emaciated
+elevatedness
 esophagismus
 ecchymoma
 etherizer
