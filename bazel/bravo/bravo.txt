@@ -1616,7 +1616,6 @@ bimaculate
 ballonnes
 balloon
 ballooners
-bowfront
 bacaba
 bootleggers
 balloonet
@@ -7599,6 +7598,7 @@ beuncled
 babesiasis
 beurre
 bevaring
+bowfront
 bevatron
 beveil
 beveled

@@ -3790,7 +3790,6 @@ filmsetting
 fussification
 filmslide
 forestall
-fractionalism
 filmstrip
 filmstrips
 filo
@@ -8682,6 +8681,7 @@ flanging
 fourness
 fireworks
 forthwith
+fractionalism
 flamelike
 furcellaria
 fornent
