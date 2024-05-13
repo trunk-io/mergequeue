@@ -4852,7 +4852,6 @@ grovelers
 gytrash
 greenwood
 gadling
-gitter
 ganocephalan
 goad
 groat
@@ -6970,6 +6969,7 @@ grecians
 gnostically
 gleave
 glaziness
+gitter
 gamut
 gradgrindian
 goodwillie
