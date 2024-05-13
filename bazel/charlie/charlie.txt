@@ -7140,6 +7140,7 @@ connotational
 centesm
 centetes
 centetid
+canzone
 conusee
 cohesions
 centiar
@@ -18955,7 +18956,6 @@ collateralizing
 collaterally
 collateralness
 collaterals
-canzone
 collates
 collation
 collationer
