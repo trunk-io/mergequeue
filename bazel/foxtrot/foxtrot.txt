@@ -1092,7 +1092,6 @@ farmout
 fisc
 flakily
 farmtown
-farnesol
 farnesols
 fogas
 flinger
@@ -3304,6 +3303,7 @@ field
 fiddlery
 fiddles
 foreknowable
+farnesol
 fiddlestick
 fiddlesticks
 ferrel
