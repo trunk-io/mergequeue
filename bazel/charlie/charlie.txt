@@ -14055,7 +14055,6 @@ cytosome
 comptible
 cynomoriaceous
 cynomorium
-cynomorphic
 cynomorphous
 cynophilic
 cynophilist
@@ -28388,6 +28387,7 @@ crawm
 cunoniaceae
 cartridge
 craws
+cynomorphic
 crawtae
 crawthumper
 craze
