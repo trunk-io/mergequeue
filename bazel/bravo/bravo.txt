@@ -3784,7 +3784,6 @@ banderilla
 battlestead
 battlewagon
 belemnid
-battleward
 bronchiectasis
 behatted
 bliest
@@ -11798,6 +11797,7 @@ believing
 bodiced
 brainwashers
 brushlike
+battleward
 biometeorology
 bum
 bodicemaking
