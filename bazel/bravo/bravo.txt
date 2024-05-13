@@ -653,6 +653,7 @@ bacteriologic
 bacteriologist
 bacteriologists
 bacteriopathology
+bulrush
 burnoose
 bacteriophages
 bacteriophagy
@@ -17260,7 +17261,6 @@ bullwort
 brachman
 berstel
 bulnbuln
-bulrush
 bulrushy
 blechnoid
 bulrushlike

@@ -215,7 +215,6 @@ abbott
 abbozzo
 abbrev
 alodially
-abbreviatable
 abraded
 abbreviated
 argotic
@@ -6708,6 +6707,7 @@ askewness
 apterous
 amphoriskos
 apatosaurus
+abbreviatable
 aiguellette
 antidomestically
 aiguille
