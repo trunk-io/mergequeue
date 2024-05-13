@@ -4675,7 +4675,6 @@ ballett
 bedeafened
 bedeafening
 botanised
-bedebt
 bedeck
 bedecked
 bedrid
@@ -7471,6 +7470,7 @@ busked
 betide
 betided
 betides
+bedebt
 bego
 broadswords
 betiding
