@@ -2738,6 +2738,7 @@ acquitter
 acquophonia
 acrab
 acracy
+attendee
 acraein
 acraeinae
 acrania
@@ -23046,7 +23047,6 @@ attendant
 aaronitic
 airdropped
 attended
-attendee
 antiradiant
 attenders
 attending
