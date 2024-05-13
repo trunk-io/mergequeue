@@ -7950,6 +7950,7 @@ graves
 geographics
 granduncle
 granduncles
+granulator
 grane
 gunrooms
 granet
@@ -10446,7 +10447,6 @@ gumption
 gumptionless
 gibbon
 gulfwards
-granulator
 gumptious
 gumpus
 gums
