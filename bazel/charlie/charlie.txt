@@ -27555,7 +27555,6 @@ coverages
 coverall
 coveralled
 coveralls
-coverchief
 cerberean
 covercle
 contemporaneously
@@ -30197,6 +30196,7 @@ cruive
 crull
 cruller
 cristopher
+coverchief
 crumb
 crumbed
 concinnous
