@@ -4779,7 +4779,6 @@ aedilities
 aedoeagi
 aedoeagus
 aefald
-aefaldy
 aefauld
 aegagri
 aegagropila
@@ -5954,6 +5953,7 @@ agendaless
 ave
 agendas
 agendum
+aefaldy
 agendums
 amovability
 agene
