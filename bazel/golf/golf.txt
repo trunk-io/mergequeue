@@ -2885,7 +2885,6 @@ gentilize
 glottalite
 gentiobiose
 gadite
-gentiopicrin
 gesticulates
 gimmicky
 gentle
@@ -10235,6 +10234,7 @@ gouging
 guinde
 gr
 grayer
+gentiopicrin
 gorsehatch
 gauzelike
 germarium
