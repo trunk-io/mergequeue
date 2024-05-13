@@ -4196,6 +4196,7 @@ cardiotherapies
 clinchpoop
 cardiotomy
 cardiotrophotherapy
+chantey
 cardiovascular
 cardiovisceral
 cardipericarditis
@@ -8791,7 +8792,6 @@ chant
 chera
 chantecler
 chanted
-chantey
 chanteyman
 chantepleure
 chanterelle
