@@ -1145,7 +1145,6 @@ calculableness
 calculably
 cower
 calculated
-colossuses
 calculatedly
 calculatedness
 calculates
@@ -18894,6 +18893,7 @@ collaborate
 collaborates
 collaborateur
 collaborating
+colossuses
 collaborationist
 collaborationists
 collaborations

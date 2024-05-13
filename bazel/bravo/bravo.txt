@@ -634,7 +634,6 @@ bacterioblast
 bacteriochlorophyll
 bacteriocin
 bathylite
-bacteriodiagnosis
 bromates
 benomyls
 bacterid
@@ -2604,6 +2603,7 @@ bridgelike
 barkan
 barocco
 bizarrely
+bacteriodiagnosis
 barkary
 brighter
 barkbound
