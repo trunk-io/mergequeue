@@ -1586,7 +1586,6 @@ ballista
 boilermaker
 ballistae
 bijous
-ballistician
 brachioganoidei
 ballistocardiogram
 ballistocardiograph
@@ -10756,6 +10755,7 @@ blennogenic
 blennogenous
 begging
 bharata
+ballistician
 blennoma
 birdbrained
 blennophobia
