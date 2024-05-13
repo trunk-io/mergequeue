@@ -3087,6 +3087,7 @@ glassed
 gurgle
 geomancer
 geomancy
+gormandizers
 garnered
 gushingness
 geomant
@@ -9465,7 +9466,6 @@ grange
 granularity
 glaciaria
 groundward
-gormandizers
 gamodesmy
 groundwards
 group
