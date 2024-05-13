@@ -6690,7 +6690,6 @@ fod
 fodder
 fodderer
 foder
-foederati
 frontes
 flunkeyhood
 fillip
@@ -10055,6 +10054,7 @@ frigged
 frigger
 forequarters
 flocculated
+foederati
 flavin
 frightener
 fanmaker

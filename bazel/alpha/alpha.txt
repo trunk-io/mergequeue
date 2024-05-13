@@ -273,7 +273,6 @@ atabal
 ardentness
 abduce
 abducens
-abducentes
 abduces
 articulate
 abducted
@@ -5205,6 +5204,7 @@ aestivation
 aestive
 aestuary
 aestuate
+abducentes
 aestuation
 aesture
 aestus
