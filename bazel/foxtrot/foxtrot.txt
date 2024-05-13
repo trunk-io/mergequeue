@@ -787,7 +787,6 @@ fellowlike
 fermacy
 fanfaronade
 fanfarons
-ferricyanogen
 funnellike
 fabricable
 freemasonry
@@ -10262,6 +10261,7 @@ frizzante
 frizzes
 flagrant
 feminizes
+ferricyanogen
 floating
 fluence
 falcer
