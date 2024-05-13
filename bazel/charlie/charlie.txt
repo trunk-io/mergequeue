@@ -16020,7 +16020,6 @@ clerestories
 clerete
 clergess
 clergy
-clergyable
 clergylike
 cyclos
 clergymen
@@ -18060,6 +18059,7 @@ coalitional
 coendidae
 coendure
 coendures
+clergyable
 consensus
 coenenchym
 casualness
