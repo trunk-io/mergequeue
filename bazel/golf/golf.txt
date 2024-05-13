@@ -4551,7 +4551,6 @@ galtonian
 gypsyfy
 gravelweed
 generically
-gipsyhead
 gazehound
 gypsyhead
 gaitt
@@ -7642,6 +7641,7 @@ graduands
 glucase
 gilse
 graduates
+gipsyhead
 griller
 girning
 gyneocracy
