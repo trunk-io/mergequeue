@@ -2755,7 +2755,6 @@ elenchi
 elenchic
 ethnohistorical
 elves
-elenchize
 ecthlipsis
 electrovital
 endamask
@@ -7231,6 +7230,7 @@ eons
 eopalaeozoic
 eopaleozoic
 eophytic
+elenchize
 eyebree
 erysipelothrix
 eophyton
