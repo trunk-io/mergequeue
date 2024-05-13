@@ -4031,7 +4031,6 @@ cardamom
 cicatrise
 cardamon
 cardamons
-cardamum
 cenospecifically
 cardanic
 cardanol
@@ -25370,6 +25369,7 @@ corneas
 cappelenite
 cornein
 corneitis
+cardamum
 cornel
 cornelia
 cornelian
