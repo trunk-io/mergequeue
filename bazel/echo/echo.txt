@@ -7249,7 +7249,6 @@ eopaleozoic
 eophytic
 eyebree
 erysipelothrix
-eophyton
 eorhyolite
 eos
 eosate
@@ -9998,6 +9997,7 @@ eplot
 esthiomenus
 ectophloic
 estimable
+eophyton
 expenthesis
 empiricists
 estimableness
