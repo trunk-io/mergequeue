@@ -2581,7 +2581,6 @@ glenwood
 genapping
 genarch
 galenian
-guildite
 gossaniferous
 gonangiums
 geranomorphic
@@ -5629,6 +5628,7 @@ guesting
 goetic
 globose
 globosite
+guildite
 granuloblast
 ghostmonger
 gallanilide
