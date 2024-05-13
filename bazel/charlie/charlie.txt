@@ -3158,7 +3158,6 @@ capeworks
 capful
 caphar
 corsaint
-clistogastra
 capharnaism
 cotillon
 caphite
@@ -9589,6 +9588,7 @@ checkmating
 checkout
 circumferences
 checkpoint
+clistogastra
 checkpointed
 concursus
 checkpointing
