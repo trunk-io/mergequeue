@@ -2240,6 +2240,7 @@ felter
 feltyflier
 felting
 feltmaker
+forage
 ferbams
 feltmaking
 fats
@@ -7346,7 +7347,6 @@ foppy
 foppish
 fourer
 fishingly
-forage
 facers
 fourgon
 fissures
