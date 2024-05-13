@@ -9125,6 +9125,7 @@ almanacs
 almander
 almandine
 almandines
+apostasis
 almanner
 alme
 almeh
@@ -17439,7 +17440,6 @@ apostacize
 apostasy
 apostasies
 audiometer
-apostasis
 appreciatively
 auguste
 actors
