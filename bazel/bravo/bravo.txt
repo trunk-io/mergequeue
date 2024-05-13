@@ -2733,7 +2733,6 @@ betrothals
 barognosis
 barogram
 barograms
-barograph
 barographic
 bathtubs
 barbiturates
@@ -6235,6 +6234,7 @@ benedictionale
 benedictionary
 briolet
 benedictions
+barograph
 bolides
 biker
 benedictive
