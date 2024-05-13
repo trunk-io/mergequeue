@@ -5815,6 +5815,7 @@ depone
 dreck
 depones
 deponing
+diamagnetize
 deltidium
 depopulated
 depopulates
@@ -8467,7 +8468,6 @@ diamagnet
 decrescence
 diamagnetic
 diamagnetism
-diamagnetize
 dredging
 diamant
 diamante

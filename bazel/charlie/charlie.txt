@@ -1517,7 +1517,6 @@ calliphoridae
 calliphorine
 callipygian
 callipygous
-callippic
 callirrhoe
 callisaurus
 callisteia
@@ -12684,6 +12683,7 @@ chronon
 chronons
 chronopher
 chronophotograph
+callippic
 chronophotography
 chronophotographic
 chronos
