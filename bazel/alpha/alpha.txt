@@ -269,6 +269,7 @@ abdominoposterior
 abdominoscopy
 agas
 abdominothoracic
+auguration
 abdominous
 atabal
 ardentness
@@ -23404,7 +23405,6 @@ augrim
 arguendo
 augural
 augurate
-auguration
 anywhy
 augure
 augured
