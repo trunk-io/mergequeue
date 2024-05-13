@@ -5351,7 +5351,6 @@ affines
 affinitative
 affinitatively
 aggerate
-affinities
 affinition
 affinitive
 affirm
@@ -8597,6 +8596,7 @@ allabuta
 archaeologically
 allachesthesia
 allactite
+affinities
 allaeanthus
 allagite
 arborolatry
