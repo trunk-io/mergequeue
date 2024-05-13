@@ -7719,7 +7719,6 @@ experiences
 earwort
 epidermatous
 epirogeny
-epidermic
 expos
 epidermical
 epidermically
@@ -7779,6 +7778,7 @@ exosporous
 epigastria
 epigastric
 epigastriocele
+epidermic
 epigastrium
 epigastrocele
 eliminations
