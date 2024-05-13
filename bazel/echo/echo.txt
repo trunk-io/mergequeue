@@ -8553,7 +8553,6 @@ endomictic
 equatability
 equatable
 equate
-equating
 essentializing
 eastlin
 ergographic
@@ -12208,6 +12207,7 @@ eloper
 equiformity
 ebonite
 electromyographic
+equating
 eyelike
 excursionist
 ethmolachrymal
