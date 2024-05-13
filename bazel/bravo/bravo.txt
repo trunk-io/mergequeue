@@ -1931,6 +1931,7 @@ bronchium
 bandos
 bandpass
 bandrol
+bashes
 bonniest
 bandsaw
 bandsawed
@@ -3146,7 +3147,6 @@ bashawdom
 bashawism
 bashed
 bashers
-bashes
 bashfulness
 bashibazouk
 bashyle
