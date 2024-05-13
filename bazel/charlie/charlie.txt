@@ -3745,7 +3745,6 @@ crocine
 carbaryls
 carbarn
 chondriomite
-carbarns
 carbasus
 carbazic
 carbazide
@@ -11059,6 +11058,7 @@ chirpers
 chirpy
 chirpier
 copyrighting
+carbarns
 chirpiest
 chirpily
 cakebox
