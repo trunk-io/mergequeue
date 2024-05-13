@@ -11463,7 +11463,6 @@ blumes
 blunder
 benighting
 blunderbuss
-blunderbusses
 bestare
 bangia
 blunderhead
@@ -12106,6 +12105,7 @@ boldheartedly
 becovet
 boldin
 boldine
+blunderbusses
 bolding
 boldly
 boldnesses
