@@ -2746,7 +2746,6 @@ chittered
 cannoneer
 cannoneering
 cannoneers
-clownish
 cannonier
 cannoning
 cannonism
@@ -17375,6 +17374,7 @@ coatis
 coatless
 coatrack
 coatroom
+clownish
 coatrooms
 coats
 coattailed
