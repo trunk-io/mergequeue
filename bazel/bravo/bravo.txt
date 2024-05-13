@@ -3618,7 +3618,6 @@ bathmism
 bathochromatism
 bathochromy
 bathochromic
-bathoflore
 batholith
 bibliomaniacal
 batholithic
@@ -17630,6 +17629,7 @@ bellyband
 burganet
 burgau
 busker
+bathoflore
 burgaudine
 burge
 burgee
