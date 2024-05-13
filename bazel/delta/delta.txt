@@ -5102,6 +5102,7 @@ denaturate
 denaturational
 diver
 diablerie
+dormette
 denature
 denatured
 denaturing
@@ -15722,7 +15723,6 @@ dormer
 dammara
 dormered
 dormers
-dormette
 dormeuse
 dormice
 dormient
