@@ -4471,6 +4471,7 @@ fissle
 frostier
 fissura
 finesse
+factorial
 frawn
 fissured
 fissurella
@@ -11289,7 +11290,6 @@ finbacks
 funs
 funster
 formulising
-factorial
 furacious
 finfish
 furaciousness
