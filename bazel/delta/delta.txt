@@ -2907,6 +2907,7 @@ decrementless
 decuples
 doloroso
 daedalist
+dummied
 decuplet
 discursively
 daitya
@@ -18535,7 +18536,6 @@ drouks
 durry
 dappled
 durrin
-dummied
 discoloredness
 durrs
 durukuli
