@@ -6937,7 +6937,6 @@ besan
 besant
 bravados
 bescab
-bescarf
 belout
 blandishment
 bullhoof
@@ -16040,6 +16039,7 @@ brood
 brooded
 bedeviled
 bialis
+bescarf
 brooder
 broody
 broodiest
