@@ -14869,7 +14869,6 @@ discomedusan
 dodge
 dodged
 dodgery
-dodges
 dodgy
 dodgily
 dicynodon
@@ -16969,6 +16968,7 @@ drearness
 dreche
 drecks
 downcurve
+dodges
 dredgeful
 decomplex
 dredger
