@@ -9584,7 +9584,6 @@ checklist
 checkman
 congruencies
 checkmark
-checkmate
 chirosophist
 checkmating
 checkout
@@ -13540,6 +13539,7 @@ cymols
 cypripedium
 cassida
 cider
+checkmate
 catchingly
 courageously
 cyder
