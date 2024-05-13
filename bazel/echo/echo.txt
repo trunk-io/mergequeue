@@ -4057,7 +4057,6 @@ evangelised
 exorcist
 empiry
 empiric
-encipherments
 empirical
 empiricalness
 empiricism
@@ -4689,6 +4688,7 @@ enclisis
 enclitical
 endosmosic
 encycl
+encipherments
 encloak
 exploratory
 eclipsis
