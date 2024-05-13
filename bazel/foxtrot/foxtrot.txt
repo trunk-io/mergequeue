@@ -1473,7 +1473,6 @@ funis
 fattishness
 fattrels
 fother
-foreweep
 freewheel
 fluoroscopic
 fatuism
@@ -7226,6 +7225,7 @@ footingly
 footings
 flection
 footled
+foreweep
 fiducinales
 fermis
 fraik
