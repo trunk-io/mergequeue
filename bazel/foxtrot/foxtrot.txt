@@ -1766,7 +1766,6 @@ feasters
 feastful
 feastfully
 feastly
-feastraw
 frisbees
 feather
 frescoist
@@ -3196,6 +3195,7 @@ frugged
 furtum
 fatherland
 fibromyoma
+feastraw
 forehill
 fibromyotomy
 fooldom

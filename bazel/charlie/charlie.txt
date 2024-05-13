@@ -2999,7 +2999,6 @@ cantoria
 cantorial
 cantorian
 cardsharps
-crystallographic
 cantoris
 cantorous
 cantors
@@ -17806,6 +17805,7 @@ coddlers
 coddles
 code
 codebooks
+crystallographic
 codebreaker
 codebtor
 chinotti
