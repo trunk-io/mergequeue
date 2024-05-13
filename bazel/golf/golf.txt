@@ -7598,7 +7598,6 @@ glagolitic
 goldbricks
 gradational
 geospiza
-gradationally
 gallish
 grade
 graded
@@ -7867,6 +7866,7 @@ grandee
 grandeeism
 grandees
 grandesque
+gradationally
 grandeur
 grandevity
 grandeza
