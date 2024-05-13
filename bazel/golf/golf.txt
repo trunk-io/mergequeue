@@ -2299,7 +2299,6 @@ gunsels
 gavages
 geez
 geezer
-glans
 geoplanidae
 gefulltefish
 gaddis
@@ -5322,6 +5321,7 @@ glenohumeral
 glenoid
 glenoidal
 glent
+glans
 glauconitic
 gages
 gangly
