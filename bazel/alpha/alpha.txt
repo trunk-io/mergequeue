@@ -9422,6 +9422,7 @@ alsifilm
 alsike
 amylome
 alsine
+antitank
 alsmekill
 also
 alsophila
@@ -16312,7 +16313,6 @@ antisupernaturalistic
 antisurplician
 antitabetic
 antitabloid
-antitank
 antitarnishing
 antiteetotalism
 antitetanolysin
