@@ -10096,7 +10096,6 @@ etalage
 etamin
 ever
 etyma
-etamins
 etang
 etape
 escopette
@@ -11246,6 +11245,7 @@ emprime
 evadne
 electrosynthesis
 enviroment
+etamins
 exanthema
 evaginable
 evaluated
