@@ -5358,7 +5358,6 @@ glassiest
 genomes
 gromil
 glistens
-glycerins
 geodesist
 glycerite
 granose
@@ -9847,6 +9846,7 @@ garrisoning
 gonothecae
 guanines
 guanize
+glycerins
 guano
 grendel
 gagman
