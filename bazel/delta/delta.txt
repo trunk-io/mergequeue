@@ -4713,7 +4713,6 @@ drukpa
 demirelief
 dourahs
 divaricating
-demirep
 demireps
 demirhumb
 demirilievo
@@ -11802,6 +11801,7 @@ discriminability
 discriminant
 discriminately
 discriminateness
+demirep
 discriminates
 duny
 dilettanist
