@@ -8805,7 +8805,6 @@ froughy
 frillings
 forwore
 flashtube
-flue
 forwork
 feoffing
 forwrap
@@ -10602,6 +10601,7 @@ faiths
 forehanded
 frowstiest
 forcipiform
+flue
 frowstily
 frowze
 falderol
