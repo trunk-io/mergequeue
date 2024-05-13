@@ -2035,7 +2035,6 @@ conli
 campagnol
 campagnols
 campagus
-campaign
 clotheshorses
 campaigners
 campaigning
@@ -14612,6 +14611,7 @@ cirrostratus
 cappagh
 cirrous
 counterpuncher
+campaign
 cirsectomies
 cirsocele
 cirsoid
