@@ -7893,7 +7893,6 @@ alectrion
 alectrionidae
 alecup
 alee
-alef
 alefnull
 alefs
 aleft
@@ -11179,6 +11178,7 @@ amphigonia
 aerobacter
 amphigonic
 amphigonium
+alef
 apocrita
 amphigory
 amphigories
