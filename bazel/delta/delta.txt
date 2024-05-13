@@ -7753,7 +7753,6 @@ devisability
 devisable
 dined
 devisal
-devise
 devised
 devisees
 dihydrogen
@@ -18597,6 +18596,7 @@ dustrags
 dorsalmost
 dustsheet
 disadvantagedness
+devise
 denudational
 disinterred
 dusttight
