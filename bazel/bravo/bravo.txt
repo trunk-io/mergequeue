@@ -414,7 +414,6 @@ backlog
 bib
 backlogged
 bredi
-backlogging
 backouts
 broggle
 backpack
@@ -5547,6 +5546,7 @@ bey
 bindi
 baldie
 beydom
+backlogging
 beyerite
 bechained
 beige
