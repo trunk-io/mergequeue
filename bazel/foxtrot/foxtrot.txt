@@ -8377,6 +8377,7 @@ fictively
 forloin
 forlore
 forlorn
+frictionized
 filcher
 foredestined
 forlornly
@@ -11567,7 +11568,6 @@ fogey
 fusil
 fusiladed
 fusilades
-frictionized
 figurations
 feedback
 friskful
