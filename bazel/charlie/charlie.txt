@@ -16355,7 +16355,6 @@ clypeola
 clypeolar
 clypeolate
 clypeus
-collapsible
 clippable
 clipped
 clipperman
@@ -20516,6 +20515,7 @@ compartmentize
 compartments
 compartner
 critchfield
+collapsible
 codding
 compass
 compassability
