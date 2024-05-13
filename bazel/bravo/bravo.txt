@@ -8311,7 +8311,6 @@ bifaces
 bifacial
 bifara
 bedress
-bifarious
 bifariously
 biff
 biffies
@@ -16404,6 +16403,7 @@ brushier
 barbouillage
 brushiest
 bluenoser
+bifarious
 bendys
 beggable
 brushless

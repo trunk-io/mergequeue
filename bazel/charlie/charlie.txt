@@ -8758,7 +8758,6 @@ changemaker
 changement
 changeover
 changeovers
-changer
 columbic
 changers
 changes
@@ -11122,6 +11121,7 @@ coappears
 chitinogenous
 chitinoid
 chitinous
+changer
 chitins
 chitlin
 chitling
