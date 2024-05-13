@@ -6698,7 +6698,6 @@ darnex
 desideratum
 demarch
 diatribes
-digonoporous
 desiderium
 desiderta
 diptycas
@@ -15321,6 +15320,7 @@ dombeya
 dome
 dysaesthetic
 domed
+digonoporous
 domeykite
 displenish
 domelike
