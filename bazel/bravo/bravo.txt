@@ -8832,7 +8832,6 @@ bolderian
 battish
 batiking
 bimmeler
-bimodal
 bimodality
 bimodule
 bimodulus
@@ -16118,6 +16117,7 @@ brosot
 brot
 baka
 balbuties
+bimodal
 brotany
 brotchen
 brotel
