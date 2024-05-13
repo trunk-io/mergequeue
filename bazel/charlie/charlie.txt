@@ -3599,7 +3599,6 @@ caracal
 caracara
 carack
 caracks
-caracoa
 caracol
 caracoled
 caracoler
@@ -18011,6 +18010,7 @@ chartreuse
 coelosperm
 coelospermous
 corteise
+caracoa
 coelozoic
 coeltera
 coemanate
