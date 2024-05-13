@@ -4724,7 +4724,6 @@ eremopteris
 encoding
 encodings
 encoffinment
-extense
 esox
 enlimn
 encoil
@@ -9525,6 +9524,7 @@ eschatologist
 epistemology
 epistemonical
 exogamy
+extense
 escheatment
 escheator
 electrophysics
