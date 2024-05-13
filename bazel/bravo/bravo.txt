@@ -3630,7 +3630,6 @@ balconet
 bankeress
 batholitic
 blinded
-bathometer
 bathometry
 borsht
 bathonian
@@ -9828,6 +9827,7 @@ bistate
 boomer
 bistephanic
 bister
+bathometer
 bistered
 bisters
 baidak
