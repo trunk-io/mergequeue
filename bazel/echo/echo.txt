@@ -3998,6 +3998,7 @@ etypical
 estus
 emperil
 emperors
+embellish
 epilamellar
 electromotor
 ezan
@@ -11089,7 +11090,6 @@ embolium
 eurypterida
 extine
 extraregular
-embellish
 eurypteroidea
 eurypterus
 euripupi
