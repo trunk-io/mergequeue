@@ -1347,7 +1347,6 @@ acatamathesia
 artinskian
 acataphasia
 alstonidine
-acataposis
 acatastasia
 attitudist
 acatastatic
@@ -12444,6 +12443,7 @@ andronicus
 andropetalous
 androphagous
 androphorous
+acataposis
 androphorum
 antipyryl
 andropogon
