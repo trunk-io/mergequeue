@@ -6158,7 +6158,6 @@ appeasable
 amidmost
 agynic
 aginner
-audacious
 aginners
 agynous
 agio
@@ -6820,6 +6819,7 @@ airan
 airbags
 airbills
 airboat
+audacious
 airboats
 astern
 airbound
