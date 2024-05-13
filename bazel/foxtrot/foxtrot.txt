@@ -185,7 +185,6 @@ factitiousness
 frescoing
 factitively
 falangism
-factorability
 factorable
 factordom
 factoress
@@ -9690,6 +9689,7 @@ flunkers
 freelance
 freelanced
 freeload
+factorability
 freeloaded
 freemanship
 freemartin
