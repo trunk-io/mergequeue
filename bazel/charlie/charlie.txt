@@ -3962,7 +3962,6 @@ carcases
 crueler
 carcass
 carcassed
-carcasses
 carcassing
 carcassless
 carcavelhos
@@ -20836,6 +20835,7 @@ ciborium
 corpulence
 composable
 composal
+carcasses
 composant
 composed
 croupily
