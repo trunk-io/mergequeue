@@ -10628,7 +10628,6 @@ chilli
 crank
 chilly
 compartmentalize
-chilliest
 chilling
 chillingly
 chillis
@@ -17969,6 +17968,7 @@ coelenterata
 cubicle
 collogues
 coelenterate
+chilliest
 coelenterates
 coelenteric
 coelenteron
