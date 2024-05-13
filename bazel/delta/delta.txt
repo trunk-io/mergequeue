@@ -5262,7 +5262,6 @@ denominate
 denominates
 denomination
 denominational
-denominationalism
 desmosis
 denominationalist
 declination
@@ -14567,6 +14566,7 @@ dizens
 dizoic
 dizzardly
 dizzen
+denominationalism
 dizzy
 dizzier
 dizzies
