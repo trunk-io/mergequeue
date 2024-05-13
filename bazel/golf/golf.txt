@@ -2363,7 +2363,6 @@ gelatia
 glossography
 gynaecologist
 gelatin
-gelatinate
 gelatinating
 girting
 greyfish
@@ -5253,6 +5252,7 @@ gleanable
 geognost
 garroters
 genial
+gelatinate
 grayback
 gaviiformes
 ginmill
