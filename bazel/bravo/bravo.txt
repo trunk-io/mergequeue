@@ -5458,7 +5458,6 @@ begunk
 behale
 behalf
 behallow
-behammer
 beshine
 behap
 bookmonger
@@ -17879,6 +17878,7 @@ butyral
 bursch
 bianisidine
 brachistocephalous
+behammer
 burseeds
 burseraceae
 burseraceous
