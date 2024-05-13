@@ -4859,6 +4859,7 @@ demography
 disemploys
 domal
 demographically
+defections
 demographics
 diavolo
 dulcimore
@@ -11589,7 +11590,6 @@ disconnectedly
 disconnectedness
 diphtheroidal
 disconnecter
-defections
 diphead
 debitrix
 disconnecting
