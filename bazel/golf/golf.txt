@@ -598,6 +598,7 @@ graptolitic
 greyhound
 glycoprotein
 gallicisms
+gimpy
 gallicize
 gallicizer
 gobletful
@@ -5715,7 +5716,6 @@ gloomfully
 gloomily
 glooming
 goatbrush
-gimpy
 gloomings
 gunyang
 glanis
