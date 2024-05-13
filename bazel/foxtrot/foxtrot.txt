@@ -781,6 +781,7 @@ fellowlike
 fermacy
 fanfaronade
 fanfarons
+fumbler
 ferricyanogen
 funnellike
 fabricable
@@ -8192,7 +8193,6 @@ firecracker
 fulgently
 forewritten
 forfairn
-fumbler
 forfalt
 friezing
 formats
