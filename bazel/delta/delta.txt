@@ -402,7 +402,6 @@ densitometry
 diathermia
 deboning
 dairies
-dairying
 dairyings
 darwan
 disobedient
@@ -17279,6 +17278,7 @@ distanced
 drivewell
 driving
 drywall
+dairying
 dodding
 drizzles
 dacryolith
