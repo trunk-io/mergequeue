@@ -2259,7 +2259,6 @@ felwort
 femaleness
 females
 friseur
-fleer
 femality
 frigate
 femcee
@@ -6638,6 +6637,7 @@ foaled
 foalfoots
 foaly
 foredoing
+fleer
 falconiform
 foaling
 foals
