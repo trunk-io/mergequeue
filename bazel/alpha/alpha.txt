@@ -2427,7 +2427,6 @@ azuline
 acidulation
 anticommercialist
 acidulously
-aciduria
 acidurias
 arenose
 arteriole
@@ -17362,6 +17361,7 @@ arsacid
 aseismicity
 apophylactic
 apophyllite
+aciduria
 amphimixes
 appreciant
 apophyllous
