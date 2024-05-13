@@ -12605,7 +12605,6 @@ conoid
 chromotypography
 chromotypographic
 chromotrope
-chromotropy
 chromotropic
 concepts
 chromotropism
@@ -29319,6 +29318,7 @@ cryptolith
 cryptology
 cryptologist
 conspiracies
+chromotropy
 cryptolunatic
 consubstantiality
 cryptomere
