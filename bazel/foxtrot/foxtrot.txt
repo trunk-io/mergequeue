@@ -6143,7 +6143,6 @@ flotative
 frangula
 fustin
 fragor
-flotillas
 forjesket
 fishmeal
 freighter
@@ -8916,6 +8915,7 @@ flambage
 flunkies
 foreshadower
 figgery
+flotillas
 fougasse
 foujdarry
 foul
