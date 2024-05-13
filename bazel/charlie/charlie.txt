@@ -27536,7 +27536,6 @@ covenanted
 covenantee
 covenanter
 covenanting
-covenantor
 chronal
 covenants
 covent
@@ -28700,6 +28699,7 @@ crengle
 chromidiogamy
 crenic
 contin
+covenantor
 crenitic
 calcining
 crenotherapy
