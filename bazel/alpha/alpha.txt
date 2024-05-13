@@ -4870,6 +4870,7 @@ aphrodisia
 afterglide
 alaihi
 aepyceros
+algicides
 aisleless
 aepyornis
 aepyornithidae
@@ -23881,7 +23882,6 @@ anseriformes
 autoanticomplement
 autoasphyxiation
 apologetically
-algicides
 autoaspiration
 autoassimilation
 autobahn
