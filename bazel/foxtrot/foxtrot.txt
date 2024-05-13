@@ -4457,6 +4457,7 @@ farming
 forcer
 forslake
 focuses
+forestcraft
 flooded
 fissipedal
 fissipeds
@@ -8037,7 +8038,6 @@ forestation
 flexional
 frontoethmoid
 forgetting
-forestcraft
 feats
 foresteep
 flash
