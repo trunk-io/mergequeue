@@ -3822,6 +3822,7 @@ adheres
 adherescence
 anticipatively
 archivolt
+airglow
 adhering
 adhesion
 ambiguousness
@@ -6878,7 +6879,6 @@ airfoils
 airframes
 adiate
 abortus
-airglow
 airglows
 airgraphics
 areopagus
