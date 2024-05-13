@@ -3969,6 +3969,7 @@ analcite
 alphorns
 adjacence
 adjacencies
+allegiance
 amated
 adjection
 archicleistogamy
@@ -8645,7 +8646,6 @@ alleges
 allegheny
 autoincremented
 alleghenian
-allegiance
 ancylostoma
 allegiancy
 allegiant
