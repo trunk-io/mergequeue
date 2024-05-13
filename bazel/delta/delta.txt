@@ -2679,7 +2679,6 @@ delinquents
 decompensations
 decompiler
 decomponent
-decomposability
 decomposable
 decompose
 decomposed
@@ -9445,6 +9444,7 @@ digeny
 digenite
 dermostosis
 dynamical
+decomposability
 digerent
 dereistically
 disparateness
