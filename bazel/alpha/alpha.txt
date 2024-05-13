@@ -3055,7 +3055,6 @@ arraignments
 atropism
 actinide
 archenteron
-actinides
 actinidia
 aristarchy
 actinidiaceae
@@ -16324,6 +16323,7 @@ antalkali
 antithenar
 arthrocace
 agrest
+actinides
 antitheologizing
 arish
 antithesism
