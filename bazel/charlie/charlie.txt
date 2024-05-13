@@ -5778,6 +5778,7 @@ catechizable
 catechization
 catechized
 catechizer
+cultists
 catechizes
 callicarpa
 catechizing
@@ -8249,7 +8250,6 @@ courts
 chainmen
 chainomatic
 chainon
-cultists
 chains
 chainsman
 couchantly
