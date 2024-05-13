@@ -48,6 +48,7 @@ earclip
 earcockle
 eardropper
 earflap
+expectance
 earflaps
 earflower
 earful
@@ -7573,7 +7574,6 @@ estivage
 epicleses
 epicly
 epiclidal
-expectance
 epiclinal
 epicnemial
 epicoele
