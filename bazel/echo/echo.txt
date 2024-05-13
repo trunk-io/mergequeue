@@ -7539,7 +7539,6 @@ epicene
 enddamage
 epicenes
 epicentral
-epicentrum
 endoscopically
 eozoic
 epicentrums
@@ -8796,6 +8795,7 @@ eradicant
 eradicate
 eradicated
 embossable
+epicentrum
 epipolic
 enround
 electrodepositable
