@@ -2120,7 +2120,6 @@ buyers
 bannockburn
 bannocks
 bivittate
-banovina
 banquet
 banqueter
 bundist
@@ -12144,6 +12143,7 @@ bolivar
 burns
 bolivian
 bloodying
+banovina
 brose
 bolivianos
 bolivians
