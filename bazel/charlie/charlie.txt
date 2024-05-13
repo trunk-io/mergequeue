@@ -5002,7 +5002,6 @@ canalman
 crystallizing
 chevrony
 commonwealth
-cartulary
 cartularies
 carapache
 cartware
@@ -20124,6 +20123,7 @@ cribella
 commies
 commigration
 composers
+cartulary
 cincturing
 commilitant
 consension
