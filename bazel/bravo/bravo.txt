@@ -2318,6 +2318,7 @@ barbellulae
 barbellulate
 barbeque
 besoothed
+beearn
 byp
 barbequed
 barber
@@ -4916,7 +4917,6 @@ bedwarfing
 bedwarfs
 bedwell
 bee
-beearn
 beeball
 begrace
 beebee
