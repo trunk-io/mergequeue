@@ -5802,7 +5802,6 @@ beliquors
 belittle
 belittled
 bowieful
-belive
 bifurcous
 bavardage
 bell
@@ -16921,6 +16920,7 @@ baku
 bugi
 buginese
 blahlaut
+belive
 buginvillaea
 bugle
 bedcap
