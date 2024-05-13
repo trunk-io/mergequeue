@@ -4608,6 +4608,7 @@ gurrah
 gigantine
 girasol
 gyrate
+gutlike
 gyrated
 gosain
 gummed
@@ -10751,7 +10752,6 @@ graduality
 grudge
 gruellers
 graywall
-gutlike
 gutnish
 gynaecomorphous
 glossospasm
