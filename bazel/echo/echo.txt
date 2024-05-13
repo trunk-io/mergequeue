@@ -4929,7 +4929,6 @@ enschedule
 ethicalness
 endemicity
 electrofused
-endemism
 endemisms
 estates
 equiparable
@@ -11649,6 +11648,7 @@ ewest
 ewry
 ewte
 exacerbated
+endemism
 esothyropexy
 exacerbates
 enhances

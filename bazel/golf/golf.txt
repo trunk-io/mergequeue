@@ -3041,7 +3041,6 @@ geomance
 geoform
 geogen
 geogenesis
-gyropilot
 gibbartas
 ghosting
 geogeny
@@ -10139,6 +10138,7 @@ git
 grown
 gelid
 guide
+gyropilot
 guideboard
 guidebooky
 gambogic
