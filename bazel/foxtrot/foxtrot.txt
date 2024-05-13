@@ -7481,7 +7481,6 @@ forjudger
 forcipation
 forcipressure
 fishhook
-foy
 forcipulata
 feinschmecker
 forcipulate
@@ -11199,6 +11198,7 @@ faence
 figury
 feneration
 fungin
+foy
 fungistat
 foraminous
 flector
