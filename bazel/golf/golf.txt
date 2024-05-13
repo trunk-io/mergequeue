@@ -1421,7 +1421,6 @@ garlic
 granomerite
 glycolylurea
 garliclike
-geoside
 galloner
 gervao
 gibier
@@ -7120,6 +7119,7 @@ gester
 gyttja
 gorbet
 gremio
+geoside
 gorble
 gorblin
 gorcocks
