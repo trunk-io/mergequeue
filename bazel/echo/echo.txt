@@ -2641,7 +2641,6 @@ expansionary
 extendibility
 electrotechnologist
 electrotelegraphy
-electrotelethermometer
 endplay
 epithelioma
 electrotellurograph
@@ -6955,6 +6954,7 @@ emulsive
 entrains
 epidendron
 emotiomotor
+electrotelethermometer
 emissaryship
 entranced
 entrancedly
