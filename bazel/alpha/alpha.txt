@@ -3938,7 +3938,6 @@ adipometer
 adiponitrile
 axial
 adipopexia
-adipopexic
 adipopexis
 adipose
 adiposeness
@@ -21569,6 +21568,7 @@ aspring
 arctamerican
 antirickets
 asprout
+adipopexic
 amani
 anamniote
 autonomously
