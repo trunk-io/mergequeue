@@ -22664,7 +22664,6 @@ connotations
 connotative
 connotatively
 connote
-connoted
 connotes
 connoting
 connotive
@@ -25821,6 +25820,7 @@ corrober
 capitoulate
 celiohysterotomy
 corroborant
+connoted
 corroborated
 continuate
 corroborates

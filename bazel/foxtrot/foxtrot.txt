@@ -2411,7 +2411,6 @@ feoffors
 fidelis
 feoffs
 fumant
-fand
 fremescence
 fer
 farriers
@@ -9474,6 +9473,7 @@ frape
 frappe
 frappeing
 frappes
+fand
 frondescence
 frapping
 frary
