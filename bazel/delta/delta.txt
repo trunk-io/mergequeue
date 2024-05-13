@@ -7907,7 +7907,6 @@ disklike
 dewed
 dewey
 deweylite
-dewfalls
 dram
 dewflower
 dewier
@@ -14396,6 +14395,7 @@ dividant
 desk
 dodgeries
 decolonised
+dewfalls
 decontaminate
 divided
 dividend
