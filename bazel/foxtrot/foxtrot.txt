@@ -10373,7 +10373,6 @@ folkmot
 fromages
 feeable
 fromenty
-faveoli
 forefeet
 fromenties
 fitten
@@ -11611,6 +11610,7 @@ foliolose
 fussbudget
 fussbudgety
 fussbudgets
+faveoli
 faradises
 filtrates
 fussers
