@@ -5224,7 +5224,6 @@ endoscope
 enfortune
 exostema
 endomysium
-endoscopes
 endoscopic
 endoscopies
 endoscopist
@@ -5564,6 +5563,7 @@ elapinae
 enfort
 eastwards
 exporting
+endoscopes
 epicritic
 enforth
 estrangle
