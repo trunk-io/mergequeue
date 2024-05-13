@@ -10028,7 +10028,6 @@ acquaints
 ambisexualities
 ambisinister
 ambisinistrous
-ambystoma
 ambystomidae
 ambit
 ambital
@@ -23998,6 +23997,7 @@ autocross
 autocue
 autodecomposition
 absolutive
+ambystoma
 autodecrement
 autodecremented
 autodecrements
