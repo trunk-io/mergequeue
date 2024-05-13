@@ -7908,7 +7908,6 @@ forereach
 forereading
 forerecited
 forereckon
-forerehearsed
 forerequest
 foreribs
 foredates
@@ -10209,6 +10208,7 @@ frache
 foozling
 fordam
 frisure
+forerehearsed
 faki
 frithbot
 frithy
