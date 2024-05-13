@@ -1735,7 +1735,6 @@ deathliness
 deathrate
 deathrates
 deaths
-deathsman
 depaysee
 deathtime
 deathtrap
@@ -8076,6 +8075,7 @@ deuterostomata
 dictyonine
 disilicic
 dipleurula
+deathsman
 dreggish
 delphinidae
 dhooras
