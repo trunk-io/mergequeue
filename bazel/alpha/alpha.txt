@@ -10644,6 +10644,7 @@ aminobenzaldehyde
 anthrachrysone
 aminobenzene
 aminobenzoic
+appetency
 autotoxicosis
 amynodon
 amynodont
@@ -17768,7 +17769,6 @@ appet
 appete
 appetence
 archetypical
-appetency
 appetent
 antitegula
 appetibility
