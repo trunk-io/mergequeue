@@ -5151,6 +5151,7 @@ aerothermodynamics
 aerotonometer
 agronomic
 aerotonometry
+amdahl
 antirationally
 adularescent
 aerotonometric
@@ -10196,7 +10197,6 @@ anablepidae
 ambustion
 abastardize
 amchoor
-amdahl
 amdt
 amphisbaena
 ame
