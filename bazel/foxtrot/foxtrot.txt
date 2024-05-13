@@ -7080,6 +7080,7 @@ feloness
 foredate
 fonts
 froisse
+furl
 ferinely
 foodful
 foody
@@ -7821,7 +7822,6 @@ foremost
 foremostly
 foremother
 forename
-furl
 finning
 fogging
 formosan
