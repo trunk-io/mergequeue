@@ -2753,7 +2753,6 @@ eltime
 ecthyma
 elench
 ephebeibeia
-extrasyllabic
 elenchi
 elenchic
 ethnohistorical
@@ -3290,6 +3289,7 @@ endodermis
 enamor
 eyry
 ecuelling
+extrasyllabic
 enravishes
 emasculator
 emasculatory

@@ -7812,7 +7812,6 @@ foremilks
 foremind
 fondouk
 fineries
-finestill
 funfairs
 firetraps
 fountaining
@@ -8349,6 +8348,7 @@ forksmith
 ferromagneticism
 fruiterer
 faceup
+finestill
 fantail
 forlay
 forlain
