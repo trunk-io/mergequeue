@@ -5721,7 +5721,6 @@ beledgered
 boruca
 belee
 beleed
-belemnite
 biers
 belemnitic
 belemnoid
@@ -15103,6 +15102,7 @@ backsaw
 bejeling
 briarroot
 briars
+belemnite
 briarwood
 bribability
 bribable
