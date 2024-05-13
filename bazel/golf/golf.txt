@@ -4743,7 +4743,6 @@ grough
 gidgee
 germanically
 gyrolith
-gravitates
 gentility
 gadzooks
 gowkit
@@ -7973,6 +7972,7 @@ groundsel
 granitiform
 granitite
 granitization
+gravitates
 granitized
 granitizing
 gibbles
