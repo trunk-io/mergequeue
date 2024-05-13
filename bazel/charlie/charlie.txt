@@ -11556,6 +11556,7 @@ choristoma
 choirman
 colonizations
 ceratitoid
+cestos
 choirmaster
 choirmasters
 choyroot
@@ -30570,7 +30571,6 @@ consultations
 cucujus
 cucularis
 cachila
-cestos
 cucule
 credensive
 cuculidae
