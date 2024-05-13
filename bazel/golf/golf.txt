@@ -8082,7 +8082,6 @@ granulosa
 greened
 granulosis
 gumlah
-granulous
 geotaxy
 graped
 gammarid
@@ -10455,6 +10454,7 @@ gyrofrequency
 gosling
 goxes
 gyromancy
+granulous
 guestwise
 gumshoeing
 gumweed
