@@ -1475,7 +1475,6 @@ balking
 balkis
 boyarisms
 blighter
-bostonese
 balkish
 baryton
 balks
@@ -4852,6 +4851,7 @@ bedspreads
 bedspring
 bedsprings
 bolivars
+bostonese
 bedstand
 brazenface
 baikerinite
