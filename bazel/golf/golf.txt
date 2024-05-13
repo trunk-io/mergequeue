@@ -1351,7 +1351,6 @@ giftlike
 gaonate
 gardenless
 gedd
-gardenlike
 gardenmaking
 gabbroic
 gardevin
@@ -2073,6 +2072,7 @@ glyphography
 goodwill
 gauteite
 gauzewing
+gardenlike
 grunch
 gomorrah
 gnaeus
