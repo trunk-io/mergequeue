@@ -16553,7 +16553,6 @@ clogginess
 clogging
 changoan
 cloghad
-cloghaun
 cloghead
 cloglike
 clogmaker
@@ -21321,6 +21320,7 @@ conchyliferous
 conchylium
 conchinin
 conchinine
+cloghaun
 caerphilly
 conchite
 cokeney
