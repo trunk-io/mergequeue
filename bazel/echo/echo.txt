@@ -7252,7 +7252,6 @@ eopaleozoic
 eophytic
 eyebree
 erysipelothrix
-eophyton
 eorhyolite
 eos
 eosate
@@ -11839,6 +11838,7 @@ euchologia
 exauctorate
 etymologised
 exaudi
+eophyton
 ethenoidal
 exaugurate
 exauguration
