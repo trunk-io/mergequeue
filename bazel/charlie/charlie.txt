@@ -5310,7 +5310,6 @@ cassites
 ccws
 conspectuity
 cassius
-cassock
 cassocked
 cultures
 cassocks
@@ -17529,6 +17528,7 @@ coempt
 cocaine
 cocaines
 cocainisation
+cassock
 cocainised
 cocainising
 cocainism
