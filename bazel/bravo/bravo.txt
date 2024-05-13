@@ -1805,7 +1805,6 @@ biteless
 baserunning
 bamming
 bamoth
-bams
 banaba
 bizardite
 banago
@@ -2620,6 +2619,7 @@ balsameaceous
 barkeeper
 barkeepers
 barkeeps
+bams
 byelaws
 borana
 bunglesome
