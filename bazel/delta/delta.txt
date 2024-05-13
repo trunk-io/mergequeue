@@ -10872,6 +10872,7 @@ dirichletian
 disyoke
 deindustrialize
 disedge
+distillage
 dirige
 dirigible
 dirigo
@@ -13858,7 +13859,6 @@ distill
 deles
 distillable
 dollhouse
-distillage
 debunking
 distillate
 distillator
