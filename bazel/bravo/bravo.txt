@@ -15056,7 +15056,6 @@ backboneless
 bretwalda
 brewage
 brewages
-bogier
 bishopscap
 baw
 bicentennials
@@ -17433,6 +17432,7 @@ blockage
 bunged
 buildress
 bungee
+bogier
 bungey
 beety
 bunger
