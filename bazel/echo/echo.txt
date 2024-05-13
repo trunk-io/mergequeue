@@ -2121,7 +2121,6 @@ explicandum
 elaters
 elatha
 elatinaceous
-elation
 elative
 enrib
 elatives
@@ -13722,6 +13721,7 @@ eosinophil
 extirpating
 extirpations
 extirpative
+elation
 exceptionable
 eeler
 extirpator
