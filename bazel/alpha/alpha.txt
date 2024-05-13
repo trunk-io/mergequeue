@@ -5095,7 +5095,6 @@ arales
 aerophane
 aerophilately
 assumptions
-aerophilatelic
 aerophile
 aerophilous
 antipopularization
@@ -20512,6 +20511,7 @@ arteriolith
 arterioloscleroses
 arteriolosclerosis
 arteriomalacia
+aerophilatelic
 arteriometer
 arteriomotor
 arterionecrosis
