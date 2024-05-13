@@ -7967,6 +7967,7 @@ cessing
 clinician
 cessio
 cession
+chain
 cessionaire
 castaway
 cessionee
@@ -13348,7 +13349,6 @@ cyclizes
 cyclizing
 cyclocoelous
 cyclo
-chain
 coulometric
 crossrail
 cycloaliphatic
