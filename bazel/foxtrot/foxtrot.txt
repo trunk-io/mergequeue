@@ -5666,6 +5666,7 @@ fator
 forsung
 fertilisability
 flint
+falchion
 fluffer
 flinted
 fease
@@ -9593,7 +9594,6 @@ floppiness
 faithworthy
 forsworn
 firths
-falchion
 fastened
 fiador
 freeman
