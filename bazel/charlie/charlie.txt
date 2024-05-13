@@ -11891,7 +11891,6 @@ cohorn
 choosier
 choosiness
 chadar
-choosingly
 chop
 chopa
 chopas
@@ -16003,6 +16002,7 @@ clencher
 clenchers
 clenches
 clenching
+choosingly
 cleoid
 cleomes
 chimbs
