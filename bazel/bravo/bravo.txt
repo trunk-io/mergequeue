@@ -139,7 +139,6 @@ boutonniere
 baboons
 busboys
 baboot
-banquo
 babouche
 bavarois
 babouvism
@@ -9446,6 +9445,7 @@ beirut
 balbutiate
 birdlife
 birdlimes
+banquo
 birdlore
 becomings
 bimolecularly
