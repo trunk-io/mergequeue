@@ -3698,7 +3698,6 @@ fortified
 franchisal
 fairstead
 foreleech
-fledges
 fermental
 fillable
 fillagreed
@@ -6426,6 +6425,7 @@ fronture
 foredooms
 frogspawn
 fluorhydric
+fledges
 fluoric
 fluoridate
 filtered

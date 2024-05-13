@@ -2377,7 +2377,6 @@ eyehooks
 electrodialyze
 ethanim
 ecospecies
-electrodynamic
 excoriates
 electrodynamics
 electrodiplomatic
@@ -12356,6 +12355,7 @@ exemptive
 exencephalia
 excogitate
 escuages
+electrodynamic
 expiative
 exendospermic
 exendospermous
