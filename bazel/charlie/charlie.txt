@@ -23890,7 +23890,6 @@ choruser
 contrivers
 contrives
 control
-controling
 controllable
 controllably
 controller
@@ -26637,6 +26636,7 @@ couldst
 coulee
 coulees
 coulie
+controling
 coulisses
 couloir
 coulomb
