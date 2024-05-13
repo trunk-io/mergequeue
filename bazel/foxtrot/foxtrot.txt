@@ -6312,7 +6312,6 @@ fluidounce
 findal
 frass
 flower
-fluigram
 frankincensed
 fluyts
 fluke
@@ -7931,6 +7930,7 @@ flowered
 forewarned
 foreseason
 frotting
+fluigram
 fayence
 foresee
 fantasmagoria
