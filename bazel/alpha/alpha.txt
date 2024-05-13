@@ -14046,7 +14046,6 @@ advertizable
 antalgesic
 antalgics
 antalgol
-antalkali
 antalkalies
 acraspeda
 antalkaline
@@ -16326,6 +16325,7 @@ antitheft
 antitheism
 antitheist
 antitheistic
+antalkali
 antithenar
 arthrocace
 agrest
