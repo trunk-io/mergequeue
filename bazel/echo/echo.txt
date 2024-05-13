@@ -2280,7 +2280,6 @@ electroballistics
 electrobath
 electrobiological
 epicenity
-eremitic
 excuderunt
 electrobrasser
 epistroma
@@ -4641,6 +4640,7 @@ encyclopedias
 encyclopedic
 encyclopedical
 expulsions
+eremitic
 erpetology
 encyclopedist
 enciente
