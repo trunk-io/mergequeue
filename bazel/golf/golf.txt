@@ -1441,6 +1441,7 @@ geogony
 garments
 grasseye
 glutael
+gravigrada
 garmenture
 gerodermia
 garmentworker
@@ -5147,7 +5148,6 @@ gateaux
 glued
 glassies
 glassin
-gravigrada
 gastrorrhagia
 galoisian
 grasni
