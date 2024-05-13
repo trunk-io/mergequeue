@@ -126,7 +126,6 @@ abasic
 abastard
 abatable
 amoebid
-abatage
 abate
 abated
 abatement
@@ -23473,6 +23472,7 @@ antlered
 aulu
 aum
 aumaga
+abatage
 aumail
 aumakua
 autotoxicity
