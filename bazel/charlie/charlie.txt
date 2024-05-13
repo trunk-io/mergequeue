@@ -9383,7 +9383,6 @@ chauffer
 chauffers
 chauffeured
 chauffeuring
-chauffeurs
 chauffeurship
 chauffeuse
 concussation
@@ -29210,6 +29209,7 @@ crippleness
 crippler
 cripples
 capillarity
+chauffeurs
 crippling
 cripplingly
 ceilinged
