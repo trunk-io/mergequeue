@@ -17727,6 +17727,7 @@ coco
 cocoa
 cocoach
 cocoanut
+curatorial
 chasing
 corector
 cocoanuts
@@ -31223,7 +31224,6 @@ curative
 cedared
 curativeness
 curator
-curatorial
 curatorium
 charkha
 calamiform
