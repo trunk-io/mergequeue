@@ -3354,7 +3354,6 @@ fidge
 fidged
 frameable
 fidget
-freewheelers
 fidgetation
 fidgeted
 fractals
@@ -4412,6 +4411,7 @@ fishpole
 foodlessness
 fishpoles
 farms
+freewheelers
 fishponds
 fishpotter
 fishskin
