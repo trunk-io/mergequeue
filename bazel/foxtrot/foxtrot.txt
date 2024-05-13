@@ -7493,6 +7493,7 @@ foreknown
 ferrimagnet
 floatative
 forcut
+fraternities
 floes
 flebile
 fivers
@@ -9242,7 +9243,6 @@ freakout
 frae
 fraena
 fiefs
-fraternities
 foundationless
 fanning
 foment
