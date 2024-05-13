@@ -4984,7 +4984,6 @@ cartonnage
 cartons
 coarcting
 cartoon
-cartoonist
 cartoonists
 cartoons
 cartop
@@ -10934,6 +10933,7 @@ chippering
 chippers
 chippewa
 coefficient
+cartoonist
 chippewas
 chippy
 chippie
