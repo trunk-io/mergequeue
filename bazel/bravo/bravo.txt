@@ -10150,7 +10150,6 @@ biotrons
 blackbush
 bayou
 blackbutt
-blackcap
 blackcaps
 bejeweled
 borrelia
@@ -11977,6 +11976,7 @@ bohorok
 become
 blameful
 beltis
+blackcap
 bohunk
 backwash
 bassists
