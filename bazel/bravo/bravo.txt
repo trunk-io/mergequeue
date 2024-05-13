@@ -9456,6 +9456,7 @@ becrawled
 birds
 birdsall
 birdseeds
+brolly
 birdseye
 birdseyes
 birdsnest
@@ -15767,7 +15768,6 @@ brolga
 bignoniad
 broll
 broncho
-brolly
 bepat
 brollies
 bromacetate
