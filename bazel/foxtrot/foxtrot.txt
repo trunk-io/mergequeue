@@ -1197,6 +1197,7 @@ fungistatic
 fatherling
 figeaters
 fascinated
+fundraise
 filtration
 fultz
 fluidics
@@ -7471,7 +7472,6 @@ fenberry
 fluffily
 forcibleness
 forcibly
-fundraise
 forcingly
 forcipate
 fluocarbonate
