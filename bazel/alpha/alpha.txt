@@ -18644,7 +18644,6 @@ arbs
 arbuscle
 achaemenid
 arbuscles
-arbuscula
 aelodicon
 arbuscular
 arbuscule
@@ -22837,6 +22836,7 @@ atoxic
 atoxyl
 atrabilaire
 atrabilar
+arbuscula
 aforeward
 arioi
 aniseroot
