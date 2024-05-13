@@ -537,6 +537,7 @@ damageability
 damageably
 describent
 demounted
+dorsoapical
 damaged
 damagement
 damageous
@@ -15809,7 +15810,6 @@ dorsiventral
 diggings
 depreciations
 dorsiventrally
-dorsoapical
 dorsocaudad
 dorsocentral
 diminishing
