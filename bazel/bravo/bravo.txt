@@ -2812,7 +2812,6 @@ barostat
 bruta
 blasphemers
 baroswitch
-barotactic
 barotaxy
 barotaxis
 barothermogram
@@ -10284,6 +10283,7 @@ befleaed
 blackwater
 baphomet
 blackweed
+barotactic
 babuma
 blackwort
 barytic
