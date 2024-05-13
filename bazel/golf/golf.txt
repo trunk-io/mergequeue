@@ -2855,7 +2855,6 @@ genteelize
 gelating
 gigback
 gentiana
-gentianella
 gentianic
 gastropyloric
 gentianose
@@ -6644,6 +6643,7 @@ gomashta
 gombo
 gapy
 gomeisa
+gentianella
 gromwell
 gozill
 grammatolator
