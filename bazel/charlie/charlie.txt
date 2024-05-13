@@ -7715,7 +7715,6 @@ cered
 cerement
 cerements
 ceremony
-chrysoeriol
 ceremonial
 ceremonialism
 ceremonialist
@@ -22935,6 +22934,7 @@ consignify
 cuckooing
 consignificant
 consignification
+chrysoeriol
 consignificative
 consignificator
 climacterics
