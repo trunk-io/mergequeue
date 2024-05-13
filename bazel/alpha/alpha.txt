@@ -3045,6 +3045,7 @@ actine
 actinenchyma
 acting
 actiniae
+anomalocephalus
 axisymmetric
 appalment
 actinian
@@ -13769,7 +13770,6 @@ anomalist
 anomalistic
 asiatic
 anomalistical
-anomalocephalus
 anomaloflorous
 annulata
 anomalogonatous
