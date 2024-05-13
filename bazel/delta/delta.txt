@@ -58,7 +58,6 @@ dacryocystoblennorrhea
 diarchial
 dacryocystoptosis
 dacryocystosyringotomy
-dacryocystotome
 dacryolithiasis
 dacryopyosis
 desmoma
@@ -6560,6 +6559,7 @@ divorce
 deadmen
 descries
 descript
+dacryocystotome
 descriptionist
 dogsled
 descriptionless
