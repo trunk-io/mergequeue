@@ -9431,7 +9431,6 @@ digamma
 digammas
 digammate
 digammated
-digammic
 digastric
 dibatag
 doomfulness
@@ -15934,6 +15933,7 @@ dotarie
 dotate
 dotation
 dotations
+digammic
 dotchin
 disdeceive
 detestably
