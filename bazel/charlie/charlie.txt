@@ -7651,7 +7651,6 @@ charpie
 cerebellocortex
 constrain
 cerebellorubral
-cerebellospinal
 cerebellum
 cerebral
 cerebralism
@@ -8878,6 +8877,7 @@ chapelman
 chapelmaster
 chapelry
 chapelries
+cerebellospinal
 chapels
 chapelward
 compile
