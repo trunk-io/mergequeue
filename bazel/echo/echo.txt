@@ -2657,7 +2657,6 @@ electrothermal
 expurgates
 epiperipheral
 electrothermic
-electrothermics
 endomycetaceae
 electrothermometer
 evanish
@@ -10048,6 +10047,7 @@ elon
 exosseous
 estradiol
 externation
+electrothermics
 epigrammatism
 eurhythmy
 estrado
