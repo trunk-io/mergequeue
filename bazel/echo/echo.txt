@@ -1626,7 +1626,6 @@ eigenfrequency
 egress
 emissarium
 egressed
-egresses
 estadal
 exiler
 eminency
@@ -6497,6 +6496,7 @@ entangles
 environs
 entanglingly
 entapophysis
+egresses
 entases
 entasia
 entasis
