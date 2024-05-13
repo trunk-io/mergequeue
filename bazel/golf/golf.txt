@@ -1861,7 +1861,6 @@ genealogizer
 gastroscopist
 grieshuckle
 gallophobia
-gelatinotype
 grippelike
 gastrosopher
 gradationately
@@ -5852,6 +5851,7 @@ glossoplegia
 glossopodium
 gunfighter
 goggles
+gelatinotype
 glossoptosis
 glossorrhaphy
 glossoscopy
