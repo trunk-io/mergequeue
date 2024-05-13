@@ -3870,6 +3870,7 @@ appaume
 adiaphoron
 adiapneustia
 adiated
+assigned
 adiathermal
 adiathermancy
 adiathermic
@@ -4997,7 +4998,6 @@ aerofoils
 algine
 aerogel
 antilogous
-assigned
 aerogen
 aerogene
 astounding
