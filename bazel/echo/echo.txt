@@ -3647,7 +3647,6 @@ ensignhood
 embryons
 extracellular
 embryopathology
-embryophagous
 embryophyte
 embryophore
 embryoplastic
@@ -4610,6 +4609,7 @@ exinanite
 enchondrosis
 etiotropically
 expansivity
+embryophagous
 enchorial
 echinoderm
 exdelicto
