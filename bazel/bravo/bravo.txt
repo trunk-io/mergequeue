@@ -2893,6 +2893,7 @@ belap
 barrelet
 barrelfish
 barrelfishes
+botanical
 blennometritis
 bonair
 barrelful
@@ -13254,7 +13255,6 @@ botanic
 botanica
 bandoleered
 brontogram
-botanical
 bivaulted
 botanically
 botanicas
