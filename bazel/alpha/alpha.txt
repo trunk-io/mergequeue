@@ -6330,6 +6330,7 @@ aul
 ascabart
 alchemise
 agoniatite
+arsacidan
 agoniatites
 aegerian
 agonic
@@ -20365,7 +20366,6 @@ arrows
 arrowsmith
 arrowworm
 arroz
-arsacidan
 arsenic
 amphicondylous
 arsenicalism
