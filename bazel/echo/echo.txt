@@ -2675,7 +2675,6 @@ electrotypist
 electrotitration
 esquamulose
 electrotrephine
-electrotropic
 electrophilically
 electrovalence
 electrovalent
@@ -10763,6 +10762,7 @@ eugenist
 erioglaucine
 eurystheus
 eugenists
+electrotropic
 eulogized
 eugenolate
 eugenols
