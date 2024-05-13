@@ -1627,6 +1627,7 @@ egress
 emissarium
 egressed
 egresses
+exterminations
 estadal
 exiler
 eminency
@@ -2257,7 +2258,6 @@ electrifying
 expert
 equilibrity
 electrine
-exterminations
 electrizable
 electrization
 earthenware
