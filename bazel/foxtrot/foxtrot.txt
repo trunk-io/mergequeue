@@ -2731,6 +2731,7 @@ fertilizers
 foremelt
 ferula
 foghorns
+fashion
 ferulaceous
 ferular
 foreimpression
@@ -10067,7 +10068,6 @@ flemished
 frigiferous
 frigolabile
 fadlike
-fashion
 frigor
 feloniousness
 formagen
