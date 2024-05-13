@@ -10395,7 +10395,6 @@ dekkos
 dipchick
 dipcoat
 dipentene
-dipeptidase
 dipeptide
 demiatheist
 disreputable
@@ -11908,6 +11907,7 @@ dimethoate
 divineness
 disdiapason
 dispensaries
+dipeptidase
 disdiplomatize
 disdodecahedroid
 doughtiness

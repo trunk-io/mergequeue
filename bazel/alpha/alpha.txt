@@ -4154,7 +4154,6 @@ admirals
 admiralship
 admiralty
 admiralties
-atalan
 admiration
 atlee
 apatheia
@@ -7758,6 +7757,7 @@ alcoholuria
 alconde
 alcoothionic
 alcor
+atalan
 alcoran
 alcoranic
 alcoranist
