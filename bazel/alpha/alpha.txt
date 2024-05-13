@@ -5726,7 +5726,6 @@ afterturn
 arosaguntacook
 artisans
 aboudikro
-aftervision
 afterwale
 afterwar
 afterward
@@ -10211,6 +10210,7 @@ amebas
 amebean
 amebian
 anthropologically
+aftervision
 asiarchate
 antirationalism
 amebicide
