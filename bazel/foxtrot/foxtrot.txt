@@ -6879,7 +6879,6 @@ foretold
 foliage
 fruitist
 fakofo
-frouzier
 foliaged
 fustigator
 furomonazole
@@ -10787,6 +10786,7 @@ frustum
 frutage
 frutescent
 frutex
+frouzier
 fruticeous
 frutices
 fruticetum
