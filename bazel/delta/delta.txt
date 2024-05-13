@@ -3620,7 +3620,6 @@ degasify
 degasifier
 dispond
 douricouli
-disguise
 dendrobates
 degass
 degassed
@@ -8760,6 +8759,7 @@ diatomin
 defocusses
 diatomine
 diatomist
+disguise
 dysmerogenesis
 diatomous
 demythologisation
