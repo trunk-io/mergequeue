@@ -11011,6 +11011,7 @@ amounters
 acct
 amouret
 amourist
+aquatinter
 allocaffeine
 amovable
 amuser
@@ -17793,7 +17794,6 @@ appetitost
 azotobacter
 antipasto
 appetized
-aquatinter
 appetizer
 aurothiosulphuric
 appetizers
