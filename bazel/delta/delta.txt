@@ -8400,7 +8400,6 @@ dialyzer
 dialyzes
 dispell
 dialkylamine
-detentes
 diallage
 diallagic
 diallagite
@@ -13015,6 +13014,7 @@ dispensability
 deducible
 dispensableness
 dispensate
+detentes
 diffracted
 dispensation
 dispensationalism
