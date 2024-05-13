@@ -4255,7 +4255,6 @@ firewoods
 fendable
 fireworky
 fastuous
-fireworkless
 firings
 firk
 firked
@@ -5845,6 +5844,7 @@ floater
 fierasfer
 floaters
 fodders
+fireworkless
 floaty
 floatier
 fulcrums
