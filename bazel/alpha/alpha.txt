@@ -12879,7 +12879,6 @@ arousement
 antrin
 angletouch
 angletwitch
-anglewing
 allays
 anglewise
 avenger
@@ -13529,6 +13528,7 @@ annelid
 annelida
 annelidan
 agrammatical
+anglewing
 annelidian
 annelidous
 annelids
