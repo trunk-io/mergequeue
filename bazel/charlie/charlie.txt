@@ -15482,7 +15482,6 @@ clanship
 clansman
 clansmen
 consuetudinary
-clanswoman
 cyprinodontidae
 crenelated
 clanswomen
@@ -18032,6 +18031,7 @@ coemployee
 coemploying
 coemployment
 coemploys
+clanswoman
 coempted
 coempting
 cytogeneticist
