@@ -5241,7 +5241,6 @@ gld
 glead
 gleam
 groundsill
-geyserine
 gametogony
 guzzler
 gleamed
@@ -8214,6 +8213,7 @@ gunnysacks
 gracilaria
 gentilitious
 gonorrhoeic
+geyserine
 graspless
 grassant
 grassbird
