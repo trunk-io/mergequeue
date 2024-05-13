@@ -16483,7 +16483,6 @@ antonymies
 antonyms
 antoniniani
 antoninianus
-appointed
 antonomasy
 antonomasia
 antonomastic
@@ -22198,6 +22197,7 @@ axially
 astraddle
 astraea
 addicts
+appointed
 amylocoagulase
 apologized
 astraean
