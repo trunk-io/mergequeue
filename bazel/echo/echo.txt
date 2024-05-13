@@ -1961,6 +1961,7 @@ ekacaesium
 ekasilicon
 eke
 epop
+equipage
 ekebergite
 ekename
 etymologisable
@@ -10633,7 +10634,6 @@ enhalos
 euchred
 euchres
 eckehart
-equipage
 ethmose
 erotomania
 euchroic
