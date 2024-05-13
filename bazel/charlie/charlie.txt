@@ -18950,7 +18950,6 @@ collatee
 correspondentially
 collaterality
 collateralize
-collateralized
 coccolithophoridae
 collateralizing
 collaterally
@@ -25085,6 +25084,7 @@ cordwoods
 core
 coreceiver
 corecipient
+collateralized
 coreciprocal
 corectome
 cracovienne
