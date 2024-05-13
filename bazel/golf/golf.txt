@@ -10355,7 +10355,6 @@ gullets
 graveless
 graminivore
 granulomas
-gossypol
 gnathobasic
 gutta
 gyrenes
@@ -10514,6 +10513,7 @@ grandiosely
 grateman
 gunks
 glockenspiels
+gossypol
 gesning
 gunlaying
 gunline
