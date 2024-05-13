@@ -13140,7 +13140,6 @@ boselaphus
 boxboards
 bosh
 boshas
-boshbok
 beamlike
 breadthless
 boshes
@@ -17427,6 +17426,7 @@ blanketer
 bungalow
 bungalows
 bungarum
+boshbok
 beauish
 breviary
 bungarus
