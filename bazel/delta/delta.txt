@@ -10926,6 +10926,7 @@ downbeats
 disabuse
 diapir
 disabuses
+dropper
 dachshound
 disacceptance
 disaccharid
@@ -18151,7 +18152,6 @@ dit
 dumpcart
 dioptoscopy
 dumpcarts
-dropper
 dumper
 dayboy
 dumpy

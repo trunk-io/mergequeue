@@ -1354,7 +1354,6 @@ fatbacks
 fructivorous
 fatbird
 fated
-fatefully
 fibromata
 fatelike
 fate
@@ -3396,6 +3395,7 @@ flyblew
 filtre
 fops
 fallibility
+fatefully
 flowcharts
 fiendish
 falconets
