@@ -352,7 +352,6 @@ gofers
 galactophoritis
 galactopoiesis
 galactorrhea
-galactorrhoea
 gisarmes
 gley
 galactosamine
@@ -6081,6 +6080,7 @@ geic
 geodesics
 gazing
 griots
+galactorrhoea
 gardencraft
 glutamine
 genevois
