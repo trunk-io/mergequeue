@@ -3224,7 +3224,6 @@ basigynium
 basyl
 bitume
 basilarchia
-basilard
 basilary
 basilateral
 basilect
@@ -15845,6 +15844,7 @@ bromine
 buzzbomb
 berylate
 bromines
+basilard
 brominize
 bromios
 bromyrite
