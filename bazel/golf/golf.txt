@@ -5338,7 +5338,6 @@ gorilla
 grenier
 glibness
 glibnesses
-glycaemic
 glycemia
 glycerate
 glyceria
@@ -6404,6 +6403,7 @@ glyceryl
 gramophones
 gentry
 goundou
+glycaemic
 glyoxylic
 generalize
 gruneritization
