@@ -5122,7 +5122,6 @@ aeroplanist
 aeroscepsy
 aurum
 aeroscepsis
-aeroscope
 aeroscopy
 aeroscopically
 aerose
@@ -23143,6 +23142,7 @@ attitudinise
 attitudinised
 attitudiniser
 attitudinising
+aeroscope
 attitudinize
 amphimictically
 athrocyte
