@@ -2304,7 +2304,6 @@ actinal
 aperistalsis
 abattue
 achromate
-achromatic
 akanekunik
 achromatically
 alectoromorphae
@@ -24911,6 +24910,7 @@ amalgamated
 aways
 await
 awaited
+achromatic
 antiqued
 awaiter
 awaiters
