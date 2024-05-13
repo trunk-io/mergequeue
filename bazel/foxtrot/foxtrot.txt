@@ -2870,7 +2870,6 @@ fitcher
 faunae
 fenestration
 filanders
-farmsteads
 fetching
 feterita
 foxproof
@@ -5977,6 +5976,7 @@ fistfight
 floodwood
 foisty
 flannelboard
+farmsteads
 faitour
 flook
 forgottenness
