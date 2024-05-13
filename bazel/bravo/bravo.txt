@@ -1866,7 +1866,6 @@ bandeng
 banderlog
 banderma
 benkulen
-banderol
 banderole
 brigading
 banders
@@ -9148,6 +9147,7 @@ biod
 biological
 basking
 blanching
+banderol
 biopotential
 biramose
 bioprecipitation
