@@ -5179,7 +5179,6 @@ glib
 gubernance
 gymnospermae
 gigabits
-glassteel
 guestship
 glasswork
 gutturality
@@ -6591,6 +6590,7 @@ garrupa
 gibbered
 gratility
 gentlemanhood
+glassteel
 germless
 gossypium
 grecomaniac
