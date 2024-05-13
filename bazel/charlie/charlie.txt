@@ -13633,7 +13633,6 @@ cylindricalness
 cylindricity
 cylindricule
 cylindriform
-cylindrite
 carnifying
 calpack
 cylindrocylindric
@@ -29427,6 +29426,7 @@ crisscross
 crisscrossed
 crisscrosses
 crisscrossing
+cylindrite
 crisset
 cryst
 crista
