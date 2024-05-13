@@ -5001,7 +5001,6 @@ cartulary
 cartularies
 carapache
 cartware
-chondrofetal
 cartwheel
 catarrhine
 cartwheeler
@@ -28770,6 +28769,7 @@ crepuscular
 churner
 cavitate
 chafer
+chondrofetal
 crepusculine
 crepusculum
 cres
