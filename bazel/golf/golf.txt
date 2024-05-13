@@ -6373,6 +6373,7 @@ ganglander
 goby
 goliad
 gobies
+gushet
 guttula
 geckotian
 greenyard
@@ -8359,7 +8360,6 @@ galinsoga
 gurly
 gratuities
 gongman
-gushet
 gagor
 glutinant
 guarabu

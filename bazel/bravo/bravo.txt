@@ -2198,7 +2198,6 @@ befriend
 baptizement
 benzpyrene
 baptizer
-biplanar
 baptizers
 butterbill
 baptizing
@@ -7614,6 +7613,7 @@ beverage
 beverse
 bevesseled
 brinks
+biplanar
 booing
 boneache
 bachel
