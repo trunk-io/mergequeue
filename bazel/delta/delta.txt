@@ -676,7 +676,6 @@ dampne
 disseminate
 dampness
 dampproof
-dampproofer
 dampproofing
 damselfish
 damselfishes
@@ -4250,6 +4249,7 @@ dell
 della
 drizzle
 deaconess
+dampproofer
 discolorization
 desynapsis
 dells
