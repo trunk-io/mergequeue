@@ -5780,7 +5780,6 @@ against
 againstand
 amphidromia
 againward
-agal
 agalactic
 alterius
 agalawood
@@ -14840,6 +14839,7 @@ anticapitalistic
 anticapitalistically
 anticapitalists
 alguazil
+agal
 anticardiac
 anticardium
 anticarious
