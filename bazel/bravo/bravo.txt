@@ -4845,6 +4845,7 @@ bedscrew
 bits
 bedsick
 bedside
+brekky
 bedsitter
 bedsock
 bedsonia
@@ -14985,7 +14986,6 @@ bioassay
 breird
 breislakite
 breithauptite
-brekky
 brekkle
 brelan
 brelaw
