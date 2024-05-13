@@ -7642,7 +7642,6 @@ baronages
 bewailable
 bewailed
 bewailer
-byssi
 burglarproof
 bewailers
 bummers
@@ -17325,6 +17324,7 @@ burseed
 berretta
 bummack
 bikeways
+byssi
 botanises
 bummalo
 bummalos
