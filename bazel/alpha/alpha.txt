@@ -13926,7 +13926,6 @@ arrythmical
 apollinarianism
 anostosis
 anostraca
-autophthalmoscope
 anoterite
 anotherguess
 anotherkins
@@ -19821,6 +19820,7 @@ arithmancy
 arithmetic
 arithmetically
 anfeeld
+autophthalmoscope
 aoudads
 arithmetician
 albarellos
