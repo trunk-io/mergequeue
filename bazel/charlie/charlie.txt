@@ -7178,6 +7178,7 @@ carites
 centiplume
 carrozza
 centistere
+chemiotactic
 centistoke
 clairvoyancies
 centner
@@ -9882,7 +9883,6 @@ chemigraphic
 chemiloon
 chemiluminescence
 cheminee
-chemiotactic
 chemiotaxic
 carvone
 chemiotaxis
