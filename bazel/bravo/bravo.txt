@@ -3,7 +3,6 @@ baccalaureat
 baal
 baalath
 balantidiasis
-baalim
 baalisms
 baalize
 baals
@@ -9107,6 +9106,7 @@ beavery
 babelike
 biometries
 biomicroscope
+baalim
 biomicroscopies
 blithelike
 biomorphic
