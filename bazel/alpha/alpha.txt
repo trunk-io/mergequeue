@@ -16293,7 +16293,6 @@ agrimonies
 antisteapsin
 antisterility
 arghoul
-antistimulation
 antistock
 antistreptococcal
 applecart
@@ -24522,6 +24521,7 @@ amores
 autofecundation
 auxocardia
 auxochrome
+antistimulation
 auxochromism
 auxochromous
 auxocyte
