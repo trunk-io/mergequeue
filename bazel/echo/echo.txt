@@ -5453,7 +5453,6 @@ environ
 enervate
 enervates
 enervating
-eccentrometer
 encake
 excitate
 enchainments
@@ -12278,6 +12277,7 @@ emusive
 ephemera
 execrators
 execute
+eccentrometer
 executed
 enphytotic
 exhibitorial
