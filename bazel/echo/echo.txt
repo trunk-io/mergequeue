@@ -10520,7 +10520,6 @@ emmew
 etymon
 equalities
 etymonic
-etiogenic
 etiolated
 etiolating
 etiolize
@@ -13880,6 +13879,7 @@ extralegally
 extramarginal
 extramatrical
 extramental
+etiogenic
 epupillate
 elations
 ephymnium
