@@ -599,7 +599,6 @@ gallicize
 gallicizer
 gobletful
 gutturize
-gallify
 gingerin
 gallification
 galliform
@@ -3298,6 +3297,7 @@ gere
 gereagle
 gremials
 grafters
+gallify
 gastraead
 guarantor
 gachupin
