@@ -3117,7 +3117,6 @@ actinolitic
 anthropogenesis
 adhibiting
 actinomere
-actinomeric
 amphinucleus
 affeer
 algin
@@ -3911,6 +3910,7 @@ aerothermodynamic
 aspiringness
 adiphenine
 abseil
+actinomeric
 adipyl
 adipinic
 adipocellulose
