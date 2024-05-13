@@ -9142,7 +9142,6 @@ biophilous
 biophysic
 branchstand
 biophysiography
-bindweb
 biophysiology
 biophysiologist
 backfire
@@ -9396,6 +9395,7 @@ bewater
 borderies
 bathroom
 birchwood
+bindweb
 brindle
 birdbander
 birdbanding
