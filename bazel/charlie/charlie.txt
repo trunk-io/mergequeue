@@ -4832,6 +4832,7 @@ carreton
 carretta
 cofferlike
 carri
+cetaceous
 carry
 carriable
 carriage
@@ -8004,7 +8005,6 @@ cozing
 cestus
 cesural
 cetaceans
-cetaceous
 cetaceum
 cetane
 cetanes
