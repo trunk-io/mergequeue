@@ -5756,6 +5756,7 @@ bora
 bely
 belialic
 belibel
+bisson
 belick
 bacopa
 battlemented
@@ -9811,7 +9812,6 @@ basilosaurus
 byssogenous
 byssoid
 byssolite
-bisson
 buckskin
 bissonata
 byssus
