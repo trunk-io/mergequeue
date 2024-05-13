@@ -20530,6 +20530,7 @@ accentless
 arteriosympathectomy
 airfreight
 arteriospasm
+avolate
 arteriostenosis
 admix
 arteriotome
@@ -24834,7 +24835,6 @@ avoids
 avoyership
 afflict
 avoke
-avolate
 avolation
 avolitional
 avoset
