@@ -3645,6 +3645,7 @@ groups
 gargil
 geonyctitropic
 ghastlily
+gametoid
 gantries
 glovers
 gimble
@@ -8370,7 +8371,6 @@ guglets
 glauconitization
 gratulated
 goner
-gametoid
 gratulation
 graunt
 gravitations
