@@ -2688,7 +2688,6 @@ foreshoulder
 ferrule
 finales
 farde
-ferruler
 frumentation
 ferrules
 fanman
@@ -6096,6 +6095,7 @@ florulas
 florulent
 furthers
 fanaticized
+ferruler
 flosculous
 fogbow
 festing
