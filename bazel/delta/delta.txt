@@ -6011,7 +6011,6 @@ deprovincialize
 debord
 depsid
 deed
-depsides
 dept
 depth
 depthen
@@ -6781,6 +6780,7 @@ desired
 dojo
 depr
 desiredly
+depsides
 desireful
 desirefulness
 desirelessness
