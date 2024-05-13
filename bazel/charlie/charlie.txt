@@ -11300,7 +11300,6 @@ chloric
 chlorid
 chloridate
 chloridated
-consuls
 chloridation
 chloride
 cokery
@@ -30955,6 +30954,7 @@ currants
 cumbu
 cumengite
 chromobacterium
+consuls
 cumenyl
 cumhal
 coumalin
