@@ -3201,7 +3201,6 @@ basidiolichen
 basidiomycete
 baclava
 bravish
-bushed
 belesprit
 basidiospore
 basidiosporous
@@ -9435,6 +9434,7 @@ baske
 buriti
 bullyrook
 birding
+bushed
 bulbochaete
 birdland
 birdless
