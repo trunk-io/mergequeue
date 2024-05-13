@@ -1177,6 +1177,7 @@ caldaria
 calden
 calderas
 chaldrons
+centinormal
 calderon
 cylindrarthrosis
 caldron
@@ -7171,7 +7172,6 @@ centimetres
 centimo
 centimos
 centinel
-centinormal
 centipedes
 crossties
 carites
