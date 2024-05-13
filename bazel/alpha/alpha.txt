@@ -11297,7 +11297,6 @@ antixerophthalmic
 amphivasal
 amphodarch
 anthyllis
-amphodelite
 amphogeny
 ampholyte
 ampholytic
@@ -18639,6 +18638,7 @@ arborway
 arbota
 arbour
 arseniuret
+amphodelite
 arboured
 arbours
 arbovirus
