@@ -13208,7 +13208,6 @@ alapa
 animallike
 accouterments
 adapter
-animando
 animant
 animas
 animastic
@@ -21812,6 +21811,7 @@ assignable
 assignably
 assignat
 assignation
+animando
 assignats
 ambiparous
 assignee
