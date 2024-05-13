@@ -5307,7 +5307,6 @@ elechi
 epigoneion
 endothelial
 ebdomade
-endothelioid
 enchaser
 evocatory
 endotheliomas
@@ -10161,6 +10160,7 @@ ethmovomerine
 ethanamide
 entamoebiasis
 ethanediol
+endothelioid
 expurgatorial
 ethanedithiol
 ethanethiol
