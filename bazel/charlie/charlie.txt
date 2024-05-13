@@ -15874,6 +15874,7 @@ cleanout
 cleansable
 cleanse
 cleanser
+client
 cleansers
 cleanses
 cleanskin
@@ -16134,7 +16135,6 @@ clyde
 clydesdale
 commutations
 clydesider
-client
 clientage
 cliental
 choriocarcinomata
