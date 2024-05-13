@@ -9645,7 +9645,6 @@ babbitter
 ballaton
 bisdimethylamino
 bicapsular
-bisect
 bisected
 balkily
 bisecting
@@ -12271,6 +12270,7 @@ byrls
 bombarded
 bushfighter
 bombarder
+bisect
 bombardiers
 bombarding
 bombardman
