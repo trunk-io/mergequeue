@@ -9189,6 +9189,7 @@ bios
 biosatellites
 biosciences
 bioscientist
+boul
 bulrushes
 bejabbers
 bioscope
@@ -10809,7 +10810,6 @@ balinger
 bounden
 bestripe
 bakership
-boul
 biacuminate
 blepharocera
 blepharoceridae
