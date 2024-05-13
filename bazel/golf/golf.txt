@@ -5063,6 +5063,7 @@ gavelkind
 glazy
 glamors
 glamour
+guardrails
 granita
 glossary
 glamourless
@@ -9914,7 +9915,6 @@ gynephobia
 guardianship
 guardless
 guardo
-guardrails
 gelasimus
 gillygaupus
 grandams
