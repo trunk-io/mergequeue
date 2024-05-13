@@ -14681,7 +14681,6 @@ cystalgia
 cystamine
 cystaster
 cystathionine
-cystatrophy
 cystatrophia
 cysteamine
 cystectasia
@@ -25032,6 +25031,7 @@ clavial
 cordial
 cordiality
 cordialities
+cystatrophy
 crimini
 cnibophore
 cordially
