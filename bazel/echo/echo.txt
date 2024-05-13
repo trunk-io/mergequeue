@@ -790,7 +790,6 @@ ectatic
 exequies
 ectental
 ecthesis
-ecthymatous
 eclogites
 eumycetic
 etamine
@@ -11912,6 +11911,7 @@ exomion
 excellence
 excellency
 excellent
+ecthymatous
 enomoty
 excelling
 excels
