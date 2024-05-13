@@ -8880,7 +8880,6 @@ dice
 dyce
 diceboard
 dicebox
-dicecup
 debituminize
 diced
 diceman
@@ -12485,6 +12484,7 @@ delegated
 dolichotmema
 depaints
 dormitory
+dicecup
 disinclose
 disincrease
 disincrustion
