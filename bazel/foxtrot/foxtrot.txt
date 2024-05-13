@@ -787,6 +787,7 @@ ferricyanogen
 funnellike
 fabricable
 freemasonry
+fluidities
 fanfolds
 floggable
 fontina
@@ -5249,7 +5250,6 @@ fossor
 flavours
 frothiest
 flawed
-fluidities
 flawedness
 fishlike
 flawflower
