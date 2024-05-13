@@ -3952,7 +3952,6 @@ forrue
 figuring
 finfoot
 fasces
-finfoots
 fingal
 fingan
 fisticuffing
@@ -4085,6 +4084,7 @@ fattable
 finecomb
 fellatrixes
 fletching
+finfoots
 finnochio
 filiopietistic
 finns
