@@ -12712,7 +12712,6 @@ bookpress
 bookrack
 bookracks
 baronry
-bookrest
 bookrests
 begut
 bookseller
@@ -14679,6 +14678,7 @@ braving
 bravissimo
 bigram
 bravoes
+bookrest
 boulevards
 boho
 bound
