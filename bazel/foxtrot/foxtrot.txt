@@ -5534,7 +5534,6 @@ flybelt
 flybelts
 fortunetellers
 foolhardier
-featherers
 flyby
 fossils
 flybys
@@ -8476,6 +8475,7 @@ felichthys
 franchiser
 formicating
 formicicide
+featherers
 forgiver
 filix
 formicid
