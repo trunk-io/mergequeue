@@ -1099,7 +1099,6 @@ edifices
 edificial
 edificing
 edified
-edifiers
 edifying
 edifyingly
 edifyingness
@@ -11983,6 +11982,7 @@ exfodiate
 earmindedness
 erythroxylaceae
 excircle
+edifiers
 excisable
 esmeraldan
 esker
