@@ -8640,7 +8640,6 @@ champs
 chams
 chamsin
 compositionally
-chan
 corslet
 chanabal
 chanca
@@ -21196,6 +21195,7 @@ concept
 coenure
 conceptacle
 conceptible
+chan
 conceptionist
 conceptism
 conceptive
