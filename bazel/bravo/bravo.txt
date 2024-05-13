@@ -7636,7 +7636,6 @@ bevor
 bevvy
 believe
 baronages
-bewailable
 bewailed
 bewailer
 burglarproof
@@ -7865,6 +7864,7 @@ biajaiba
 bialate
 biali
 bialys
+bewailable
 biallyl
 bialveolar
 bianca
