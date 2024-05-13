@@ -334,7 +334,6 @@ depasturage
 daydreamy
 dealership
 daydreaming
-daydreamlike
 disbound
 daydreams
 decurves
@@ -3796,6 +3795,7 @@ dehorns
 dumbnesses
 dehortative
 dehorted
+daydreamlike
 dehorter
 dehorting
 dehumanisation
