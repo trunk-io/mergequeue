@@ -944,7 +944,6 @@ chartometer
 cilioflagellate
 calamars
 calambac
-calambour
 castellar
 calamiferious
 catenoids
@@ -4411,6 +4410,7 @@ caryocaraceous
 cariocas
 carioles
 carioling
+calambour
 caryophyllaceae
 cubomancy
 custards
