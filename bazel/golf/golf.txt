@@ -7825,6 +7825,7 @@ grams
 goodeniaceae
 grana
 granada
+gusher
 granado
 granage
 grandparentage
@@ -10665,7 +10666,6 @@ galanas
 gush
 garvock
 glossocoma
-gusher
 gutturotetany
 goethe
 gargety
