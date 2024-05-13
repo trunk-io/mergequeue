@@ -8698,7 +8698,6 @@ almes
 arsmetrik
 alternationist
 allelomorphic
-allelomorphism
 allelopathy
 allelotropy
 allelotropic
@@ -9004,6 +9003,7 @@ allothimorphic
 allothogenic
 astrakanite
 allotypes
+allelomorphism
 allotypy
 allotypical
 angelon
