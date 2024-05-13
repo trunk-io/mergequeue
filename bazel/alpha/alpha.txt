@@ -11039,7 +11039,6 @@ arline
 ampelotherapy
 avidins
 amper
-amperages
 ampere
 amperemeter
 amatory
@@ -17689,6 +17688,7 @@ appellees
 appellor
 appellors
 appels
+amperages
 animalculous
 accompany
 actinocrinus

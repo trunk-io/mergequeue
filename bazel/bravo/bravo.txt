@@ -13468,7 +13468,6 @@ beatermen
 bouffage
 bouffancy
 biennale
-biquarterly
 barhop
 bouffant
 bouffants
@@ -15159,6 +15158,7 @@ bricktimber
 bricktop
 brickwall
 brickwork
+biquarterly
 backstrip
 bhoot
 bucketing
