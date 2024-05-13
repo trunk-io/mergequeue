@@ -3812,7 +3812,6 @@ adhered
 apophantic
 adherency
 adherend
-adherends
 aquashow
 adherent
 acetite
@@ -23222,6 +23221,7 @@ atune
 athenee
 acoasma
 apteria
+adherends
 anthelmintic
 atweel
 atween
