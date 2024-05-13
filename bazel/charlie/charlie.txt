@@ -7470,6 +7470,7 @@ cephalosome
 cephalospinal
 cephalosporium
 cephalostyle
+conventicular
 cephalotaceae
 cephalotaceous
 cephalotaxus
@@ -24045,7 +24046,6 @@ cylinderlike
 conventically
 cabezons
 conventicle
-conventicular
 conventing
 convention
 conventional
