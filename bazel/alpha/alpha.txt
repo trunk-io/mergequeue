@@ -5275,7 +5275,6 @@ affectations
 affected
 affectedly
 apheliotropism
-affecter
 annotating
 affecters
 affectibility
@@ -20254,6 +20253,7 @@ arrestive
 autodigestive
 anaqua
 arrestment
+affecter
 arrestors
 arrests
 arret
