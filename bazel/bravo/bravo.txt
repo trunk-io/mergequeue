@@ -1173,7 +1173,6 @@ bajochi
 bajoire
 bread
 bajonado
-bajra
 beltmen
 brakehand
 bajree
@@ -7109,6 +7108,7 @@ besmutch
 bedewing
 baalist
 besmutted
+bajra
 besmutting
 besnare
 bespouses
