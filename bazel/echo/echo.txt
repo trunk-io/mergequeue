@@ -1732,7 +1732,6 @@ eyelash
 eliding
 eyelessness
 eyelet
-eyeleted
 eyeletted
 eyeletting
 eyelid
@@ -9644,6 +9643,7 @@ encrustant
 eskimoid
 euchromatic
 eskimoized
+eyeleted
 eskimos
 expertism
 electrophori
