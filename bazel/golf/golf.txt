@@ -6503,7 +6503,6 @@ gyrus
 gunpowder
 grotto
 goitrogenic
-goitrous
 gomlah
 gokuraku
 goladar
@@ -7813,6 +7812,7 @@ guildsman
 grammel
 grammy
 gramophone
+goitrous
 gramophonic
 guttulae
 gruelling
