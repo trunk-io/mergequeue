@@ -489,7 +489,6 @@ galeoid
 gnapweed
 glossoncus
 galeorchis
-goner
 gospelize
 glucinic
 geelhout
@@ -8366,6 +8365,7 @@ goatishness
 guglets
 glauconitization
 gratulated
+goner
 gratulation
 graunt
 gravitations
