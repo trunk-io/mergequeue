@@ -4375,6 +4375,7 @@ fishiness
 fishing
 frenum
 flanched
+footnotes
 feluccas
 fishless
 frameworks
@@ -10181,7 +10182,6 @@ frisette
 flatteners
 frisettes
 flavouring
-footnotes
 fetalism
 frisker
 foederatus
