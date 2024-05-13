@@ -7709,7 +7709,6 @@ alcoholature
 alcoholdom
 alcoholemia
 alcoholic
-alcoholically
 anchoritical
 alcoholicity
 autoprothesis
@@ -8470,6 +8469,7 @@ alkalies
 alkaliferous
 alkalify
 aludel
+alcoholically
 alkalified
 alkalifying
 alkaligenous
