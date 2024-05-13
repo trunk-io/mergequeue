@@ -8750,7 +8750,6 @@ bemusing
 bolograph
 bibionidae
 billowiest
-billowing
 billows
 bravery
 bounceable
@@ -13391,6 +13390,7 @@ bottlebrush
 bottleflower
 blepharostat
 bottleful
+billowing
 bryophytes
 bovovaccination
 bdellotomy
