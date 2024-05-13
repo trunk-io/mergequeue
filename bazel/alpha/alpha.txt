@@ -10602,6 +10602,7 @@ acquirers
 amyloses
 amylosynthesis
 amylosis
+anthelae
 asthenosphere
 anathematiser
 amiloun
@@ -21054,7 +21055,6 @@ ascogonia
 abstinency
 ascogonidium
 alabama
-anthelae
 afteryears
 asthorin
 anomural
