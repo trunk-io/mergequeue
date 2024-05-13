@@ -11087,6 +11087,7 @@ chiru
 chirurgeon
 chirurgeonly
 chirurgery
+civ
 chis
 chiseled
 curuba
@@ -15135,7 +15136,6 @@ citua
 cytulae
 ciudad
 cosmesis
-civ
 carbonado
 cive
 civet
