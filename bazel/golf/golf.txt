@@ -2651,7 +2651,6 @@ gibbol
 gyrations
 germigenous
 genappe
-generalized
 gristy
 gangliasthenia
 grondwet
@@ -7488,6 +7487,7 @@ governors
 gobian
 grubbiest
 garbled
+generalized
 gravimeter
 greywether
 guageable
