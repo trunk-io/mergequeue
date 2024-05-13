@@ -14614,6 +14614,7 @@ cirsocele
 cirsoid
 cirsomphalos
 cirsophthalmia
+coalizer
 completable
 cirsotomy
 cirsotomies
@@ -17246,7 +17247,6 @@ coalitions
 coalize
 coalized
 coinclude
-coalizer
 coalless
 coalmouse
 counterdrain
