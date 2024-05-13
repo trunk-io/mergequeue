@@ -1612,7 +1612,6 @@ ballone
 bullbird
 ballones
 ballonette
-boiguacu
 ballonne
 bimaculate
 ballonnes
@@ -12708,6 +12707,7 @@ bookrack
 bookracks
 baronry
 bookrest
+boiguacu
 bookrests
 begut
 bookseller
