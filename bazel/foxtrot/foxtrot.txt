@@ -4252,7 +4252,6 @@ flounderingly
 fireweed
 finagle
 fireweeds
-firewood
 fishergirl
 firewoods
 fendable
@@ -6896,6 +6895,7 @@ foreadvertise
 foliates
 filopodium
 foliating
+firewood
 foliation
 foliature
 foliiferous
