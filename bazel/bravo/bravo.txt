@@ -3719,6 +3719,7 @@ battable
 battailant
 browntop
 blackest
+bejezebel
 bally
 battakhin
 bagwoman
@@ -5608,7 +5609,6 @@ bitstalk
 bejewelling
 bejewels
 backstamp
-bejezebel
 beadhouses
 bricksetter
 bejig
