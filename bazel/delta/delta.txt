@@ -1545,7 +1545,6 @@ deadeningly
 deadfall
 dyssodia
 deadfalls
-dim
 distriction
 deadhearted
 deadheartedly
@@ -13136,6 +13135,7 @@ display
 displayable
 displayed
 displayer
+dim
 downtimes
 diallages
 decolorate
