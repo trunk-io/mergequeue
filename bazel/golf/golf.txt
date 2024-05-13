@@ -1575,7 +1575,6 @@ generale
 galosh
 gabe
 gasification
-guacamole
 guarachas
 gametogonium
 gasifier
@@ -4899,6 +4898,7 @@ gjedost
 gambier
 gjetost
 glyptician
+guacamole
 gobiiform
 gjetosts
 gl
