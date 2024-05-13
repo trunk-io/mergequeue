@@ -2830,6 +2830,7 @@ decrements
 decremeter
 decrepid
 decrepit
+domoid
 duodecahedral
 decrepitated
 decrepitation
@@ -15451,7 +15452,6 @@ domnei
 decameronic
 dural
 duffing
-domoid
 dompt
 dompteuse
 doms

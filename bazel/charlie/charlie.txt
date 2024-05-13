@@ -8548,7 +8548,6 @@ chamferer
 cabirean
 chamfering
 chamfers
-conducingly
 chamfrain
 calvaria
 cradock
@@ -23919,6 +23918,7 @@ controvertibility
 controvertible
 controverting
 cullender
+conducingly
 compluvia
 craton
 controverts
