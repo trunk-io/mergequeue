@@ -10445,7 +10445,6 @@ ethnological
 ersh
 evanishing
 ethnologically
-ethnologist
 ethnologists
 ethnomanic
 ensorcell
@@ -13108,6 +13107,7 @@ expertness
 enlure
 estriche
 enfeature
+ethnologist
 expiable
 enregistration
 expiating
