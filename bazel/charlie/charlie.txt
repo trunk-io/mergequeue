@@ -2791,7 +2791,6 @@ canonicalizes
 canonicalizing
 circumventive
 congealer
-canonicalness
 canonicals
 canonicate
 canonics
@@ -16284,6 +16283,7 @@ clinocephaly
 carideer
 clinocephalous
 clinocephalus
+canonicalness
 charlatanically
 clinoclasite
 citifies
