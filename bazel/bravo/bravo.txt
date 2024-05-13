@@ -1064,6 +1064,7 @@ bailieries
 bailieship
 bailiff
 bailiffry
+bedecorate
 bailiffs
 ballow
 bailiffwick
@@ -13689,7 +13690,6 @@ blossomtime
 boutonnieres
 boutons
 bouts
-bedecorate
 bouvardia
 beweep
 bouvier
