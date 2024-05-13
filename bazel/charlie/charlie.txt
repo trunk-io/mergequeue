@@ -3317,7 +3317,6 @@ calabash
 caponise
 corslets
 captivate
-caponised
 caponising
 cholangitis
 camaldolensian
@@ -28404,6 +28403,7 @@ crazing
 crazingmill
 cuisses
 conies
+caponised
 crazyweed
 circuitous
 crc
