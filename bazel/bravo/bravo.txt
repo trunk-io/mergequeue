@@ -2845,7 +2845,6 @@ buttonmold
 barrabora
 barracan
 barrace
-barrack
 barracked
 borh
 barracking
@@ -9971,6 +9970,7 @@ bitternut
 brooklime
 bitterroot
 bittersweetly
+barrack
 bittersweets
 bitterworm
 bitthead
