@@ -9583,7 +9583,6 @@ checkman
 congruencies
 checkmark
 checkmate
-chirosophist
 checkmating
 checkout
 circumferences
@@ -15262,6 +15261,7 @@ cladogenetically
 cladogenous
 censurer
 cladonia
+chirosophist
 craniometrical
 cladoniaceae
 cladoniaceous
