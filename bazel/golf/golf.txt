@@ -4872,7 +4872,6 @@ goalposts
 gorily
 globefishes
 gomeral
-goaltending
 gyve
 giveable
 gederite
@@ -7393,6 +7392,7 @@ galenas
 goularo
 goulash
 goulashes
+goaltending
 goumi
 ghbor
 goupen
