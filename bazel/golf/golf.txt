@@ -5675,6 +5675,7 @@ garuda
 gravestone
 giantesque
 globulysis
+gobelin
 globulite
 globulousness
 globus
@@ -6367,7 +6368,6 @@ gobbler
 gid
 gobbles
 gobbling
-gobelin
 gobet
 geodic
 granatite
