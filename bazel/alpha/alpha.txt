@@ -6548,6 +6548,7 @@ anaphalis
 aguador
 aguaji
 aguamiel
+aliments
 aguavina
 attorned
 agudist
@@ -8362,7 +8363,6 @@ alimenter
 alimentic
 alimentive
 alimentotherapy
-aliments
 automatical
 alimony
 alimonied
