@@ -5404,7 +5404,6 @@ enemyship
 enepidermic
 energeia
 energesis
-energetic
 epilobium
 euonymuses
 energeticalness
@@ -14103,6 +14102,7 @@ extrinsicalness
 extrinsicate
 extrinsication
 exposers
+energetic
 evanescency
 extroitive
 extrorse
