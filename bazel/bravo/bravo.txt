@@ -12227,7 +12227,6 @@ bunters
 boardwalk
 brake
 bolsterwork
-bolt
 boltage
 biasses
 boltcutter
@@ -15626,6 +15625,7 @@ broadsider
 borrovian
 botanophile
 broadsides
+bolt
 broadsiding
 broadspread
 broadsword
