@@ -4985,7 +4985,6 @@ gallerian
 guttersnipe
 gladiatrix
 gonoph
-gladier
 gladii
 gladiola
 gladiolas
@@ -10812,6 +10811,7 @@ glycerolize
 gasifiable
 gutturalized
 gutturalizing
+gladier
 gutturalness
 guttus
 gargol
