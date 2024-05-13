@@ -15820,7 +15820,6 @@ clavierist
 clavierists
 claviform
 claviger
-claviharp
 clavilux
 coy
 claviole
@@ -27142,6 +27141,7 @@ counterscarp
 camelhair
 counterscoff
 counterscrutiny
+claviharp
 cuticular
 cabbalize
 colophane
