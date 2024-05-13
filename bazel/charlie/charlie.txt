@@ -3219,6 +3219,7 @@ capitalizations
 capitalize
 cananaean
 capitalized
+curl
 capitalizer
 capitalizers
 capitalizes
@@ -31364,7 +31365,6 @@ curitis
 conglobated
 curiums
 cholecystoileostomy
-curl
 cheery
 compressing
 curled
