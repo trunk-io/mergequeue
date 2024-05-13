@@ -8489,7 +8489,6 @@ guarri
 gravities
 guatemala
 glycins
-graviton
 gravitons
 gravure
 grazable
@@ -10314,6 +10313,7 @@ girdle
 gpcd
 gastrolatrous
 gule
+graviton
 guy
 gastrodialysis
 guanaco
