@@ -5582,7 +5582,6 @@ estrangle
 enfoulder
 epithi
 enfrai
-enframe
 expressness
 enframed
 enfranch
@@ -8627,6 +8626,7 @@ equilaterally
 enthrones
 equilibrant
 equilibrate
+enframe
 estrum
 equilibrated
 extensionalism
