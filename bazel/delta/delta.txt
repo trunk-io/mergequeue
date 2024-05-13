@@ -9266,7 +9266,6 @@ displant
 diestock
 death
 diestrous
-drawbridge
 diestrums
 drupaceae
 disambiguations
@@ -12732,6 +12731,7 @@ dolefuller
 duplicatus
 dorsilumbar
 dysluite
+drawbridge
 delicto
 delations
 dislustered
