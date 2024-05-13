@@ -5358,7 +5358,6 @@ affirmably
 affirmance
 assisan
 assonantal
-affirmant
 affirmation
 anchoretish
 amidoxime
@@ -22892,6 +22891,7 @@ achromaturia
 analepsy
 aeolism
 atroceruleous
+affirmant
 atroceruleus
 archdiocesan
 atrochous
