@@ -2601,6 +2601,7 @@ amphiaster
 autoserum
 acology
 airometer
+ausonian
 absciss
 acologic
 amidate
@@ -17703,7 +17704,6 @@ appendency
 appenders
 appendicalgia
 appendicate
-ausonian
 ascii
 alienees
 appendiceal
