@@ -5071,6 +5071,7 @@ fribble
 fibroneuroma
 foeture
 flashiness
+flame
 flashings
 flashlamp
 flapmouthed
@@ -10961,7 +10962,6 @@ fulmar
 fulminant
 flighthead
 frosts
-flame
 fripper
 fulminatory
 fulmined
