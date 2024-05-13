@@ -3675,7 +3675,6 @@ bumpoff
 batlet
 batlike
 bifanged
-batling
 batlon
 bradylalia
 batmen
@@ -13178,6 +13177,7 @@ beneficium
 bossage
 bossboy
 bossdom
+batling
 balustraded
 boastful
 bossdoms
