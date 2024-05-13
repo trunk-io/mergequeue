@@ -3042,7 +3042,6 @@ geoform
 geogen
 geogenesis
 gyropilot
-gibbartas
 ghosting
 geogeny
 genera
@@ -3793,6 +3792,7 @@ giantship
 gastroesophagostomy
 giantsize
 gujrati
+gibbartas
 gaub
 ghafir
 goodish
