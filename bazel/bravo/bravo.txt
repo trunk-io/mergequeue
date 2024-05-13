@@ -13442,7 +13442,6 @@ boubou
 bouch
 bouchaleen
 boucharde
-bouche
 bouchee
 bielid
 beseeching
@@ -14946,6 +14945,7 @@ bengalic
 breedings
 breeds
 bacillus
+bouche
 bacteriol
 babite
 budorcas
