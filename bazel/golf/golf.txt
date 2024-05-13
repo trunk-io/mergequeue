@@ -4806,7 +4806,6 @@ goldylocks
 gisant
 gynomonecious
 gisants
-genericness
 galleass
 gise
 galempung
@@ -10065,6 +10064,7 @@ guerrillas
 guerrillaship
 guesdism
 glore
+genericness
 gravigrade
 guesdist
 gloria
