@@ -3666,7 +3666,6 @@ guttatim
 gyroceracone
 gogos
 gheber
-ginkgoaceae
 ghee
 ghees
 grifts
@@ -5239,6 +5238,7 @@ gymnospermy
 gordian
 genipap
 gld
+ginkgoaceae
 glead
 gleam
 groundsill

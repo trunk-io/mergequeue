@@ -1007,7 +1007,6 @@ cher
 calaththi
 calathus
 calatrava
-calavance
 calaverite
 calbroben
 calcaire
@@ -13437,6 +13436,7 @@ cyclopentadiene
 cyclopentanone
 cyclopentene
 cyclopes
+calavance
 cyclophoria
 cyclophoric
 counterlife
