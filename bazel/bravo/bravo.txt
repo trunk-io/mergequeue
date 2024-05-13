@@ -4643,7 +4643,6 @@ bedlike
 backhanded
 bedawee
 bedazed
-bedazement
 bigotedly
 bedazzle
 bedazzles
@@ -9289,6 +9288,7 @@ bipaschal
 bypass
 bypassed
 broomrape
+bedazement
 bypaths
 birchism
 bullishly
