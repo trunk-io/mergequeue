@@ -4681,7 +4681,6 @@ demiowl
 demiox
 dharmasmriti
 demipagan
-demiparallel
 decodings
 demipauldron
 demipectinate
@@ -11505,6 +11504,7 @@ discombobulate
 differencing
 diapase
 denominator
+demiparallel
 dismark
 discombobulation
 dimorphisms
