@@ -2179,6 +2179,7 @@ gazeless
 gisler
 gazella
 gazelle
+guyots
 gazellelike
 gazelline
 gazement
@@ -2267,7 +2268,6 @@ gee
 grundel
 galas
 gawkiest
-guyots
 glucosidase
 greystone
 gamesman
