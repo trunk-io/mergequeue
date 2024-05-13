@@ -2811,7 +2811,6 @@ ashman
 acrimony
 acrimonies
 antiscorbutic
-acrimonious
 amateurism
 acrimoniousness
 acrindolin
@@ -8477,6 +8476,7 @@ aludel
 alkalified
 alkalifying
 alkaligenous
+acrimonious
 alkalimetry
 alkalimetric
 alkalimetrically
