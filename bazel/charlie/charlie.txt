@@ -3864,7 +3864,6 @@ canister
 cardcase
 carbonising
 carbazin
-carbonitride
 carbonizable
 cincinatti
 carbonization
@@ -17612,6 +17611,7 @@ cocco
 clallam
 coccobacilli
 cumins
+carbonitride
 coccobacillus
 coccochromatic
 coccogone
