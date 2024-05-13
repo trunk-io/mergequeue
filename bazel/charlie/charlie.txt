@@ -8001,7 +8001,6 @@ cacothesis
 cestrian
 cestrum
 cozing
-cestus
 cesural
 cetaceans
 cetaceous
@@ -30302,6 +30301,7 @@ cruse
 catalog
 cruset
 crusets
+cestus
 crush
 crushable
 crushed

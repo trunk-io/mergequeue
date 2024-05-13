@@ -4935,7 +4935,6 @@ expediate
 encamp
 eggplants
 endermic
-endogastric
 enderon
 enders
 endexine
@@ -8290,6 +8289,7 @@ enroller
 eschynite
 epithalamic
 embosoms
+endogastric
 epithalamiumia
 epithalamize
 epicycloidal
