@@ -11226,7 +11226,6 @@ fungosities
 fungused
 funguses
 fireball
-funguslike
 funic
 fistulae
 funicle
@@ -11681,6 +11680,7 @@ fural
 futiley
 futilitarianism
 flabby
+funguslike
 futilities
 forepale
 flameholder
