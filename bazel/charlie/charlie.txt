@@ -7437,7 +7437,6 @@ cephalohumeral
 cephaloid
 culminates
 cuticles
-cephalology
 cephalom
 calina
 cephalomancy
@@ -23063,6 +23062,7 @@ cladautoicous
 consortitia
 consortium
 consortiums
+cephalology
 consortship
 collaboration
 cfm
