@@ -3078,6 +3078,7 @@ deepsome
 distinguishing
 deepwater
 deepwaterman
+dourade
 deepwatermen
 deer
 decisionmake
@@ -11106,7 +11107,6 @@ disarticulator
 deputized
 disasinize
 disassemble
-dourade
 disassembled
 disassembler
 descriptors
