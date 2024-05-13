@@ -590,7 +590,6 @@ backword
 backwraps
 baclin
 bacon
-baconer
 barmaid
 bordereau
 baconian
@@ -6314,6 +6313,7 @@ benevolist
 beng
 bourn
 bengalese
+baconer
 bengola
 bipartient
 biaxal
