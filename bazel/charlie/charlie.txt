@@ -15521,7 +15521,6 @@ clapstick
 clablaria
 clapt
 chicane
-claptraps
 clapwort
 culbuter
 claque
@@ -31820,6 +31819,7 @@ cutlases
 cutlash
 cutlass
 cutlasses
+claptraps
 cutlassfish
 cutlassfishes
 cutler
