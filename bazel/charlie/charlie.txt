@@ -5603,6 +5603,7 @@ cataloguize
 catalonian
 cataloon
 catalos
+companionways
 catalpa
 catalpas
 catalufa
@@ -20467,7 +20468,6 @@ companionless
 chirpiness
 companions
 companionship
-companionways
 compar
 comparable
 callower
