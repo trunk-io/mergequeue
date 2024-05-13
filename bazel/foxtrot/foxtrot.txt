@@ -1886,6 +1886,7 @@ fruittime
 fizzer
 fecial
 fecifork
+faded
 feckful
 feckless
 feckly
@@ -8204,7 +8205,6 @@ forfeit
 fishways
 forfeitableness
 fluormeter
-faded
 forfeitures
 forfend
 formwork
