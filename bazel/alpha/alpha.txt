@@ -14359,6 +14359,7 @@ adds
 ablactate
 archflatterer
 anthemion
+arced
 anthemis
 anthems
 anther
@@ -18694,7 +18695,6 @@ arccos
 appomattoc
 astrocaryum
 avoidless
-arced
 apostume
 arces
 arch
