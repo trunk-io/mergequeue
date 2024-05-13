@@ -10055,6 +10055,7 @@ boatful
 bochism
 bivouaced
 bivouacked
+blunderbusses
 bivouacking
 brawlys
 bivouacs
@@ -11472,7 +11473,6 @@ blumes
 blunder
 benighting
 blunderbuss
-blunderbusses
 bestare
 bangia
 blunderhead
