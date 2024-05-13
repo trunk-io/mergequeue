@@ -3473,7 +3473,6 @@ dengues
 deflore
 dropforged
 dubash
-disgarland
 desexualization
 deflower
 deflowered
@@ -7312,6 +7311,7 @@ dalesmen
 determined
 determinedness
 dynamiter
+disgarland
 determiner
 didine
 devaluated
