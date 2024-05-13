@@ -2510,6 +2510,7 @@ camelion
 candler
 candlerent
 candlers
+carse
 candles
 candleshine
 candleshrift
@@ -4902,7 +4903,6 @@ carageen
 compiles
 carrs
 cars
-carse
 carses
 corial
 chondrosteous
