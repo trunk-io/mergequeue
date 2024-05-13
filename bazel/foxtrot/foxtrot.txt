@@ -4169,7 +4169,6 @@ farness
 feezing
 fetus
 firedamps
-firedrake
 frayn
 foreprise
 foulmart
@@ -9293,6 +9292,7 @@ foraneous
 fragrantly
 facts
 fragrantness
+firedrake
 fabulists
 freeloaders
 frayedly
