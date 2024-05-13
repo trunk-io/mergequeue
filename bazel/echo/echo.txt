@@ -3017,7 +3017,6 @@ equipoises
 electrothermostat
 ellagic
 ellasar
-ellebore
 elleck
 ellenyard
 escribed
@@ -3069,6 +3068,7 @@ exudations
 elocute
 elocution
 elocutionary
+ellebore
 elocutionist
 empyreumata
 empennage
