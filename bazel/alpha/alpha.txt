@@ -10049,7 +10049,6 @@ ambiverts
 arrect
 amble
 ambleocarpus
-ambler
 amblers
 awakes
 ambles
@@ -10160,6 +10159,7 @@ ambulante
 antihierarchical
 aspiculous
 ambulated
+ambler
 atropinism
 ambulates
 apachette
