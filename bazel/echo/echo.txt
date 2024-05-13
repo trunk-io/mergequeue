@@ -5569,6 +5569,7 @@ epicritic
 enforth
 estrangle
 enfoulder
+epithi
 enfrai
 enframe
 expressness
@@ -9887,7 +9888,6 @@ euphrates
 enzygotic
 epiphysary
 eburnation
-epithi
 estable
 establishable
 england
