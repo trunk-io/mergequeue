@@ -10048,7 +10048,6 @@ ambitty
 ambivalence
 aiger
 ambivalent
-ambivalently
 ambiversion
 ambivert
 avidness
@@ -24865,6 +24864,7 @@ avow
 angoumian
 avowable
 avowably
+ambivalently
 avowals
 avowance
 avowe
