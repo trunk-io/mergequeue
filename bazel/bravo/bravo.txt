@@ -3850,7 +3850,6 @@ brutus
 baufrey
 bauge
 bauhinias
-baul
 barrington
 baulea
 baulk
@@ -6417,6 +6416,7 @@ benzaldoxime
 bandeaus
 benzalethylamine
 benzalphenylhydrazone
+baul
 benzalphthalide
 boiloff
 benzamide
