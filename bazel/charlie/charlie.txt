@@ -5545,7 +5545,6 @@ corporeality
 catalanist
 catalatic
 catalaunian
-catalectic
 catalects
 catalepsies
 cedre
@@ -15977,6 +15976,7 @@ cleistocarpous
 cleistogamic
 cleistogamously
 cleistogene
+catalectic
 cleistogeny
 cleistogenous
 closterium
