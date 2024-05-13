@@ -8086,7 +8086,6 @@ caliches
 clergies
 chabot
 chabouk
-crankshaft
 challoth
 chabuk
 chabuks
@@ -26929,6 +26928,7 @@ chemospheric
 counterindicate
 counterindication
 countermining
+crankshaft
 counterinfluence
 countering
 crochets
