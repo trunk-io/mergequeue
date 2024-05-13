@@ -8843,6 +8843,7 @@ barycentre
 binal
 bugologist
 byname
+boulevards
 binaphthyl
 binaries
 binate
@@ -14669,7 +14670,6 @@ braving
 bravissimo
 bigram
 bravoes
-boulevards
 boho
 bound
 bravoing
