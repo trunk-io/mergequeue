@@ -5239,6 +5239,7 @@ casks
 caspar
 castings
 casparian
+crusaders
 caspian
 casque
 casqued
@@ -30289,7 +30290,6 @@ chops
 cynipid
 cataphysic
 clingstones
-crusaders
 crusades
 cuckolds
 crusado
