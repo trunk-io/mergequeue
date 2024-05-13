@@ -1676,7 +1676,6 @@ calpacks
 cheapishly
 calpacs
 calpolli
-conformation
 counterfallacy
 calque
 chambrel
@@ -7973,6 +7972,7 @@ cessment
 cessor
 cesspipe
 cesspit
+conformation
 cesspits
 clamors
 contrastment
