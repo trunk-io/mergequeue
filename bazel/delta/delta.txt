@@ -2699,6 +2699,7 @@ decompress
 dibble
 decompresses
 decompressing
+diarist
 detectaphone
 delphinium
 decompressive
@@ -8635,7 +8636,6 @@ diary
 disimmure
 disimprove
 diarian
-diarist
 diarize
 dillydallier
 diarrhea
