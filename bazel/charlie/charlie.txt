@@ -7856,7 +7856,6 @@ certose
 certosina
 certosino
 cerule
-cerulean
 ceruleans
 cerulein
 ceruleite
@@ -17759,6 +17758,7 @@ cocos
 cocotte
 cocottes
 cocobolo
+cerulean
 cocowood
 cocowort
 cocona
