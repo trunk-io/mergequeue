@@ -854,7 +854,6 @@ baga
 billikin
 bagasse
 bagasses
-bari
 bruxisms
 beflags
 basicranial
@@ -4913,6 +4912,7 @@ blackwashing
 belavendered
 bedwards
 bedwarf
+bari
 bedtimes
 bedwarfing
 bedwarfs
