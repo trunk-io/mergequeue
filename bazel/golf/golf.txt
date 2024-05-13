@@ -5831,7 +5831,6 @@ glossoepiglottic
 goldwork
 glossoepiglottidean
 gulinulae
-goldless
 goldsmithery
 glossohyal
 gaultherase
@@ -6474,6 +6473,7 @@ goshen
 galvanotactic
 goidelic
 ganser
+goldless
 gowland
 goyim
 glommed
