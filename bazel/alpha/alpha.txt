@@ -3310,7 +3310,6 @@ acuesthesia
 acuity
 acuities
 antizymic
-archfire
 anagramming
 abrasives
 aculeae
@@ -11960,6 +11959,7 @@ anapophyses
 airedale
 anapophysial
 anapsid
+archfire
 australopithecus
 anapterygota
 anapterygote
