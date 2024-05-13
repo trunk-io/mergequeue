@@ -5333,7 +5333,6 @@ grippy
 gyrant
 gloppy
 gorilla
-glibly
 grenier
 glibness
 glibnesses
@@ -5410,6 +5409,7 @@ guigne
 glycols
 gladkaite
 gard
+glibly
 globulolysis
 glycoluric
 glycoluril
