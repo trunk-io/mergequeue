@@ -392,7 +392,6 @@ ebriosity
 ebrious
 ebullate
 ebulliate
-ebulliency
 entocondyle
 ebulliently
 exposits
@@ -3028,6 +3027,7 @@ elocutionize
 ellipsis
 emblematic
 ellipsograph
+ebulliency
 ellipsoid
 executiveness
 ellipsone
