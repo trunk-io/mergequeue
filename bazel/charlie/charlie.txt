@@ -18873,7 +18873,6 @@ coliplication
 colipuncture
 coliseum
 cestoid
-colistin
 coypou
 colistins
 colitic
@@ -31012,6 +31011,7 @@ cumulocirrus
 cottoned
 cumulonimbus
 cumulostratus
+colistin
 cumulous
 countershafting
 cumulus
