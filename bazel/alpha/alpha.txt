@@ -14281,7 +14281,6 @@ anterior
 achech
 anteriorly
 argalas
-anteriorness
 anteriors
 autosepticemia
 anteroclusion
@@ -16211,6 +16210,7 @@ antishipping
 antisialagogue
 alisma
 amphitryon
+anteriorness
 antisideric
 antisilverite
 aeneus
