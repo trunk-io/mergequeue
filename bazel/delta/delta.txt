@@ -6270,7 +6270,6 @@ dsect
 diplonephridia
 dermatographia
 ducklar
-denucleate
 dermatographism
 dermatolysis
 defeudalize
@@ -7501,6 +7500,7 @@ deuteranopia
 deuterate
 ditremidae
 deuteration
+denucleate
 dogcarts
 disenchain
 deadeye
