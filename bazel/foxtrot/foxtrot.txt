@@ -10072,7 +10072,6 @@ flemished
 frigiferous
 frigolabile
 fadlike
-fashion
 frigor
 feloniousness
 formagen
@@ -11411,6 +11410,7 @@ feverish
 fleckless
 fluent
 fossed
+fashion
 followed
 furnacelike
 fosters
