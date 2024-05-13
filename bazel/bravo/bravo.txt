@@ -2759,7 +2759,6 @@ bewrapping
 baronesses
 baronet
 backtack
-baronetcy
 baronetcies
 buboed
 bookies
@@ -2993,6 +2992,7 @@ barterers
 bartering
 barters
 blood
+baronetcy
 barth
 barthite
 bullace
