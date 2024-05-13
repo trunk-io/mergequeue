@@ -5892,7 +5892,6 @@ convolutionary
 classman
 cathay
 caecocolic
-cathayan
 cathar
 cathari
 catharina
@@ -22093,6 +22092,7 @@ conflicts
 conflictual
 conflow
 confluent
+cathayan
 confluxes
 confluxibility
 confluxible
