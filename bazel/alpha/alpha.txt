@@ -21084,7 +21084,6 @@ ascribe
 ascribed
 ascribes
 ascribing
-ascript
 ascription
 ascriptions
 ascriptitious
@@ -25029,6 +25028,7 @@ awlwort
 accessorii
 awlworts
 awmous
+ascript
 awn
 awned
 awner
