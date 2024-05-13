@@ -3157,7 +3157,6 @@ guanase
 gliff
 geophila
 geophilid
-geophilidae
 gastrins
 geophysics
 geophytic
@@ -9247,6 +9246,7 @@ gatling
 grogginess
 grogging
 gastrotrich
+geophilidae
 gunfighters
 grogram
 grograms
