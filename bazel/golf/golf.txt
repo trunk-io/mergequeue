@@ -334,7 +334,6 @@ galactogenetic
 garrottes
 galactohemia
 galactoid
-galactolipide
 gristmiller
 graveship
 gelatins
@@ -5599,6 +5598,7 @@ gaugeably
 globalizing
 gasteria
 gamori
+galactolipide
 globally
 greasepaint
 gelsemium
