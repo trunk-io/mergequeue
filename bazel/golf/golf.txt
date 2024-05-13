@@ -6410,6 +6410,7 @@ geographic
 goblins
 gobo
 gobony
+gussets
 gobs
 gobstick
 galipot
@@ -10689,7 +10690,6 @@ goldi
 gratias
 gymnorhininae
 gunnung
-gussets
 gussie
 gerenda
 grooved
