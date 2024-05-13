@@ -1174,6 +1174,7 @@ dat
 dogtrot
 datableness
 datably
+duculinae
 datacell
 datafile
 dataflow
@@ -17856,7 +17857,6 @@ ductless
 ductor
 ductules
 ductwork
-duculinae
 dictyosome
 dud
 decurve
