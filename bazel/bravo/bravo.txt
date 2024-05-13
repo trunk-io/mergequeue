@@ -4086,7 +4086,6 @@ bealtine
 bom
 beambird
 beamed
-beamer
 bestrut
 beamers
 beamfilling
@@ -10829,6 +10828,7 @@ blesbucks
 blesmol
 branniest
 blesse
+beamer
 bedward
 blessed
 boyards
