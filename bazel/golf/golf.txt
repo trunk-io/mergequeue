@@ -5246,7 +5246,6 @@ gleamier
 gleamily
 gerardia
 gleaming
-gleamingly
 gleamless
 gleams
 gleanable
@@ -5815,6 +5814,7 @@ glossitic
 glossitis
 garbleable
 glossless
+gleamingly
 glossocele
 graian
 glossocomium
