@@ -9195,6 +9195,7 @@ dyeable
 ditriglyph
 dieb
 diebacks
+disrestore
 dyebeck
 diecase
 diecious
@@ -13432,7 +13433,6 @@ disrespectfully
 disrespective
 disrespondency
 disrest
-disrestore
 disreverence
 dandruffy
 disring
