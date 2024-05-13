@@ -14254,7 +14254,6 @@ circuitman
 circuitmen
 constitutionality
 carbine
-circuitor
 circuitously
 circuitousness
 charruan
@@ -28340,6 +28339,7 @@ cravats
 cravatted
 cravatting
 chytra
+circuitor
 crave
 craved
 craven
