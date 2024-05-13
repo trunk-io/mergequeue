@@ -4516,7 +4516,6 @@ encephalothlipsis
 encephalotome
 etheostoma
 encephalotomy
-edomite
 ethics
 earths
 encephalous
@@ -7383,6 +7382,7 @@ encolumn
 etruria
 epepophysis
 epergne
+edomite
 etalon
 eperlan
 echevin
