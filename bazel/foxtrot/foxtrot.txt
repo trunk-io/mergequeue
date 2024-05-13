@@ -2625,7 +2625,6 @@ frailties
 ferritic
 fortuitus
 fiduciaries
-forechamber
 forbidden
 ferritungstite
 flurry
@@ -3323,6 +3322,7 @@ folklorist
 fideistic
 faction
 ferrying
+forechamber
 flabbergastation
 factures
 fidejussionary
