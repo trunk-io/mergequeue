@@ -7262,6 +7262,7 @@ epipial
 epacmaic
 eliciting
 enricher
+epicyclic
 epacrid
 engird
 epacris
@@ -8712,7 +8713,6 @@ equisided
 edaphically
 equisignal
 elaborated
-epicyclic
 equisonance
 equispatial
 establishments
