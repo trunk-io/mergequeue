@@ -3597,6 +3597,7 @@ backsplice
 bloodsucker
 bathyplankton
 baygall
+bacchius
 bathyscaph
 briquetted
 bathyscaphes
@@ -16300,7 +16301,6 @@ bruits
 borofluorin
 breadthen
 baddeleyite
-bacchius
 brujeria
 benthopelagic
 benchmarking
