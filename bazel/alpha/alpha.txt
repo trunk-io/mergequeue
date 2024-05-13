@@ -16930,6 +16930,7 @@ ambrosiac
 aphototropism
 aphra
 aphrasia
+auxocyte
 aphrite
 aphrodesiac
 abastral
@@ -24522,7 +24523,6 @@ auxochrome
 antistimulation
 auxochromism
 auxochromous
-auxocyte
 auxograph
 auxology
 auxospore
