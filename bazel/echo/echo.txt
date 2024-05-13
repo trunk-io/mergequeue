@@ -4108,7 +4108,6 @@ estancia
 enteromere
 employe
 estado
-eriglossa
 employed
 employee
 endives
@@ -7916,6 +7915,7 @@ endosmosis
 exudates
 exptl
 epilogued
+eriglossa
 episcoparian
 epilogues
 epiloguize
