@@ -1594,7 +1594,6 @@ accommodators
 accomodate
 accompanable
 arrivage
-accompanier
 australorp
 accompanies
 accompanying
@@ -6315,6 +6314,7 @@ agoge
 anticatalyzer
 agogics
 apostoless
+accompanier
 agoho
 agoing
 agomphiasis
