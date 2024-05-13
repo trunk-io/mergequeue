@@ -4909,7 +4909,6 @@ aerier
 aeries
 aeriest
 aerifaction
-aerify
 aerification
 autarky
 aerifies
@@ -11428,6 +11427,7 @@ amuyong
 aeolipyle
 amula
 amulas
+aerify
 amulet
 aloemodin
 amulla
