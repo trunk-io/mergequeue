@@ -8466,6 +8466,7 @@ goliardeys
 graving
 gravipause
 gleds
+grouped
 guly
 gravisphere
 gravitated
@@ -9463,7 +9464,6 @@ gamodesmy
 groundwards
 group
 groupable
-grouped
 gynophoric
 grandrelle
 grouper
