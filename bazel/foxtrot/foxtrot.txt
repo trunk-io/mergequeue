@@ -141,6 +141,7 @@ fackeltanz
 flajolotite
 fem
 faconde
+formalization
 fidgets
 facsim
 facsimile
@@ -8407,7 +8408,6 @@ flange
 formalities
 formalizable
 flipflop
-formalization
 flashers
 formalizations
 fictitiously
