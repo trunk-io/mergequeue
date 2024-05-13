@@ -3924,6 +3924,7 @@ dissolveability
 decamps
 dejectedly
 dejectedness
+derisive
 dejection
 dejectly
 devested
@@ -13843,7 +13844,6 @@ distichous
 disubstitution
 distichs
 distil
-derisive
 distylar
 desisting
 distyle
