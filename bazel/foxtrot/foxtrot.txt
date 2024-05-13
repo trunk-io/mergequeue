@@ -1567,7 +1567,6 @@ faussebraie
 faussebrayed
 faust
 feverishness
-faustian
 faute
 fortnightly
 fanfaron
@@ -5092,6 +5091,7 @@ foretooth
 flaskets
 fellahin
 flasklet
+faustian
 flasks
 flasque
 fellifluous
