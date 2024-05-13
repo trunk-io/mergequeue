@@ -6665,7 +6665,6 @@ cedriret
 cedrium
 cedrol
 corticiform
-cedron
 centibar
 cedrus
 cedula
@@ -12363,6 +12362,7 @@ cloots
 christianness
 catchingness
 christianography
+cedron
 christianomastix
 christianopaganism
 cryptographically
