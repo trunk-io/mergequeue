@@ -2001,7 +2001,6 @@ examinational
 eked
 electricians
 elaenia
-elaeocarpaceae
 elaeococca
 elaeodendron
 eyeshot
@@ -7424,6 +7423,7 @@ edmund
 ephemeran
 ephemeric
 ephemerid
+elaeocarpaceae
 ephemerida
 ephemeridae
 ephemeris
