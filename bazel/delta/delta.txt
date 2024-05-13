@@ -4692,7 +4692,6 @@ demipremise
 demipronation
 damned
 dibber
-diazid
 demipuppet
 drabbest
 demiquaver
@@ -13557,6 +13556,7 @@ dissensualize
 dissent
 dissentation
 dissented
+diazid
 dissenter
 dissenters
 dissentience
