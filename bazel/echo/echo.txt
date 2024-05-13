@@ -4118,6 +4118,7 @@ eriglossa
 employed
 employee
 endives
+energetics
 employees
 employer
 exedral
@@ -6137,7 +6138,6 @@ exodist
 enophthalmus
 ebenaceae
 enclavement
-energetics
 eusynchite
 executable
 enoplan
