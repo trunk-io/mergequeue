@@ -3802,7 +3802,6 @@ fortuneteller
 fashional
 filterability
 finify
-filterableness
 faut
 furil
 forebridge
@@ -11211,6 +11210,7 @@ foetalization
 fungoes
 flotorial
 freechurchism
+filterableness
 fungoids
 fusees
 fixating
