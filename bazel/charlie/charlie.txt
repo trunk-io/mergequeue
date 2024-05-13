@@ -5417,7 +5417,6 @@ castock
 castoff
 castoffs
 castor
-castores
 coldly
 castoreum
 cookshack
@@ -8799,6 +8798,7 @@ chanterelle
 cabinetmake
 chanters
 coinhering
+castores
 chantership
 chanteur
 chanteuse
