@@ -7065,7 +7065,6 @@ gestalter
 graith
 gaumy
 gercrow
-gooselike
 gooseneck
 goosenecked
 glider
@@ -7115,6 +7114,7 @@ gorals
 goran
 gorb
 gorbal
+gooselike
 gorbelly
 groped
 gester
