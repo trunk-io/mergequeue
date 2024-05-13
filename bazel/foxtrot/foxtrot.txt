@@ -185,7 +185,6 @@ frescoing
 factitively
 falangism
 factorability
-factorable
 factordom
 factoress
 flateria
@@ -7612,6 +7611,7 @@ fulmen
 farmhands
 furuncles
 foredays
+factorable
 fanal
 fivefoldness
 fleabiting
