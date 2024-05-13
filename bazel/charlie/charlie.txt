@@ -10908,7 +10908,6 @@ chiopin
 chiotilla
 centropomus
 chip
-chipboard
 chipchap
 chipchop
 chipewyan
@@ -19089,6 +19088,7 @@ cuber
 colliers
 collies
 collieshangie
+chipboard
 colliflower
 colliform
 colligate
