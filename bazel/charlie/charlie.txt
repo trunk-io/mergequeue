@@ -1010,6 +1010,7 @@ calatrava
 calavance
 calaverite
 calbroben
+chokeys
 calcaire
 calcanea
 chimpanzee
@@ -11571,7 +11572,6 @@ chokeberries
 chokecherry
 chokedamp
 chokey
-chokeys
 congenetic
 choker
 cratonic
