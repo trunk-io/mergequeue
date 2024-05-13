@@ -1238,7 +1238,6 @@ eelboat
 epigrammatise
 eelbobber
 eelcake
-electromyography
 extypal
 ewer
 eelery
@@ -6390,6 +6389,7 @@ exonship
 enslavedness
 enslavements
 enslaver
+electromyography
 eurafrican
 enslaves
 espave
