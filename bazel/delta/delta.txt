@@ -788,7 +788,6 @@ danebrog
 delusters
 daneflower
 danegeld
-danegelds
 danelaw
 dungeon
 dermititis
@@ -7409,6 +7408,7 @@ detractions
 detractively
 detrained
 drools
+danegelds
 detrainment
 detraque
 deathsmen
