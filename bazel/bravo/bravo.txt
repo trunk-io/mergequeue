@@ -4991,6 +4991,7 @@ bosher
 bagginess
 bassos
 beelzebul
+belligerency
 beemaster
 been
 beennut
@@ -5903,7 +5904,6 @@ bellyful
 bastonite
 bellyfuls
 bestrews
-belligerency
 belligerent
 belligerently
 belligerents
