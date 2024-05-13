@@ -1053,7 +1053,6 @@ executing
 edgeling
 edgeman
 emplaned
-edger
 edgers
 edgeshot
 errands
@@ -4959,6 +4958,7 @@ endysis
 epitomate
 elaeomargaric
 eyeless
+edger
 endite
 eclairs
 evacuative
