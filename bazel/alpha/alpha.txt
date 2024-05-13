@@ -1698,6 +1698,7 @@ attouchement
 accouters
 accoutre
 attire
+achromatism
 appurtenances
 accoutrement
 accoutrements
@@ -15750,7 +15751,6 @@ antioxidase
 antioxidizer
 antioxygen
 antioxygenation
-achromatism
 antioxygenator
 antioxygenic
 armoury
