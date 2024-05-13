@@ -8645,7 +8645,6 @@ faldstool
 flanchard
 fortescue
 fossoria
-forth
 forthby
 forthbring
 flatfooted
@@ -10573,6 +10572,7 @@ frouzy
 finalities
 frouziest
 frow
+forth
 frowardness
 frower
 fetidly
