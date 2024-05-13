@@ -9812,7 +9812,6 @@ byssuses
 besing
 bistable
 bystander
-bistate
 boomer
 bistephanic
 bister
@@ -10463,6 +10462,7 @@ blason
 blaspheme
 blasphemed
 blasphemes
+bistate
 blasphemy
 blasphemies
 blasphemous
