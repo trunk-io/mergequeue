@@ -2423,7 +2423,6 @@ formate
 ferae
 fairyship
 fasteners
-feralin
 finlike
 ferash
 favel
@@ -10629,6 +10628,7 @@ fructify
 forelay
 foveoles
 fructificative
+feralin
 fructifier
 fructifies
 fructifying
