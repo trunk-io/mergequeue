@@ -12676,7 +12676,6 @@ chronometric
 chronometrical
 chronometrically
 chronon
-chronons
 chronopher
 chronophotograph
 chronophotography
@@ -21809,6 +21808,7 @@ cancered
 conductorial
 crossbearer
 conducts
+chronons
 conductus
 complementarily
 condoling
