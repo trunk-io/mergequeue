@@ -11498,7 +11498,6 @@ barbs
 blur
 blurb
 blurbist
-butteriest
 blurbs
 bargained
 brindled
@@ -14766,6 +14765,7 @@ breadmaker
 breadmaking
 breadman
 breadness
+butteriest
 breadnuts
 breadroot
 bowstave
