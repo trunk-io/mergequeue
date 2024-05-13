@@ -14749,6 +14749,7 @@ bayard
 breadboard
 breadboards
 breadbox
+buckles
 brazilian
 billycock
 boneyard
@@ -16691,7 +16692,6 @@ bucklered
 bellybuttons
 blagueur
 bucklers
-buckles
 buckling
 boongary
 bucklum
