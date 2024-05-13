@@ -1014,6 +1014,7 @@ boat
 bayamos
 brigand
 bayano
+birotation
 bewitch
 bayardly
 bucktails
@@ -6669,7 +6670,6 @@ berchemia
 berdache
 berdaches
 berdash
-birotation
 baryglossia
 betons
 bere
