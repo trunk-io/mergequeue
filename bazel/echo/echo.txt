@@ -3991,7 +3991,6 @@ empeople
 empeoplement
 emperess
 empery
-etypical
 estus
 emperil
 emperors
@@ -6744,6 +6743,7 @@ epanastrophe
 enthused
 enthusiasm
 evacuation
+etypical
 enthusiasms
 exhibits
 enthusiast
