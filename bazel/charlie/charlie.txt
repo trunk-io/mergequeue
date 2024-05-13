@@ -14549,7 +14549,6 @@ cyrillaceous
 cyrillian
 cyrillianism
 cyrillic
-centrechinoida
 cannot
 cyriologic
 cyriological
@@ -30502,6 +30501,7 @@ cubitalia
 cubited
 cubiti
 cubitiere
+centrechinoida
 cubito
 coeno
 cubitocarpal
