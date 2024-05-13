@@ -4968,6 +4968,7 @@ evacuative
 eland
 evens
 endleaf
+entomb
 endless
 excuses
 endlessly
@@ -10369,7 +10370,6 @@ escorial
 elapses
 enrank
 eemis
-entomb
 ethmolith
 equiglacial
 ethmonasal
