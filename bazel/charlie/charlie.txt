@@ -160,6 +160,7 @@ campmaster
 copellidine
 cabmen
 cabob
+cradlemate
 caboceer
 cizar
 caboche
@@ -27973,7 +27974,6 @@ cradlefellow
 cradleland
 cradlemaker
 cradlemaking
-cradlemate
 cradler
 celeomorphic
 cradlers
