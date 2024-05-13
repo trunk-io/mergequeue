@@ -1814,7 +1814,6 @@ gastronomically
 genotypes
 guardfish
 gastronosus
-gastroparalysis
 gastroparesis
 gonyaulax
 galluot
@@ -2466,6 +2465,7 @@ gemellus
 glaciologist
 geminally
 geminate
+gastroparalysis
 glumness
 geminately
 geminates
