@@ -997,7 +997,6 @@ fallowed
 folksinger
 fardage
 farded
-forklifts
 fardel
 foxhound
 fardelet
@@ -5429,6 +5428,7 @@ flesh
 fricassee
 fleshbrush
 foremention
+forklifts
 flirtiest
 fogydom
 foretack
