@@ -6494,7 +6494,6 @@ franklin
 flurn
 flurried
 flurriedly
-footpick
 fossiliferous
 fidding
 fernbird
@@ -9105,6 +9104,7 @@ fowlings
 fluvious
 fowlpox
 fowlpoxes
+footpick
 fib
 fallaciousness
 fowls
