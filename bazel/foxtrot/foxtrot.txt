@@ -791,6 +791,7 @@ fabricable
 freemasonry
 fanfolds
 floggable
+faceup
 fontina
 fang
 financing
@@ -8351,7 +8352,6 @@ forksful
 forksmith
 ferromagneticism
 fruiterer
-faceup
 fantail
 forlay
 forlain
