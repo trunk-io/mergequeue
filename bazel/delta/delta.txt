@@ -5066,7 +5066,6 @@ demurrant
 demurrer
 demurring
 demurringly
-deadhand
 driftpin
 diduce
 dename
@@ -14189,6 +14188,7 @@ ditetrahedral
 dithalous
 disgraceful
 dithecal
+deadhand
 ditheist
 deratizing
 ditheistic
