@@ -7864,7 +7864,6 @@ furor
 foreannounce
 foredesk
 foreparts
-forepass
 feedstuffs
 foliously
 forepaw
@@ -10791,6 +10790,7 @@ fruticeous
 frutices
 fruticetum
 foreinclined
+forepass
 feodality
 fulmars
 fruticose
