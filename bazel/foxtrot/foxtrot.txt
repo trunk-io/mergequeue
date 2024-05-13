@@ -2954,7 +2954,6 @@ ferrichloride
 fruitlet
 foeniculum
 feudal
-feudalising
 febricide
 feudalism
 feudalist
@@ -7524,6 +7523,7 @@ fatstocks
 foreallot
 flatuses
 fluor
+feudalising
 foreappoint
 faithing
 fountains
