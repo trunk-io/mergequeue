@@ -29487,6 +29487,7 @@ confliction
 contractibleness
 cageot
 crystallogram
+criticality
 crystallograph
 crystallographers
 crystallography
@@ -29542,7 +29543,6 @@ conservatism
 crithomancy
 critic
 critical
-criticality
 criticalness
 criticaster
 criticasterism
