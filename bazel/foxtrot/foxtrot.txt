@@ -1144,6 +1144,7 @@ farthermost
 farthest
 familiarizing
 farthing
+flative
 fluffing
 fancywork
 flexibleness
@@ -7026,7 +7027,6 @@ fondest
 formularistic
 fonding
 feria
-flative
 fondle
 fondled
 fumeless
