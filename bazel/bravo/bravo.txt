@@ -6525,7 +6525,6 @@ benzopyrazolone
 benzopyrene
 benzopyrylium
 benzoquinoxaline
-baltimorean
 benzosulfimide
 barbaresque
 benzosulphimide
@@ -13181,6 +13180,7 @@ bosques
 bosquet
 beneficium
 bossage
+baltimorean
 bossboy
 bossdom
 balustraded
