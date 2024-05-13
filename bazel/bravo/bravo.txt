@@ -1481,7 +1481,6 @@ boyarisms
 blighter
 balkish
 baryton
-balks
 beggar
 ball
 ballad
@@ -8623,6 +8622,7 @@ bilinguality
 barkle
 bilingually
 bilinguar
+balks
 bebop
 bijoux
 bilinguist
