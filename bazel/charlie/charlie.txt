@@ -1335,7 +1335,6 @@ calicular
 caliculate
 calyculate
 calyculated
-calycule
 coercing
 caliculi
 calyculus
@@ -23647,6 +23646,7 @@ contoured
 curdier
 copestone
 contouring
+calycule
 chivvies
 contours
 contr
