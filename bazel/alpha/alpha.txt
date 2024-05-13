@@ -73,6 +73,7 @@ abama
 archineuron
 aromata
 abamperes
+ablaut
 aband
 abandon
 abandonable
@@ -17354,7 +17355,6 @@ apopemptic
 acroparesthesia
 apopenptic
 apopetalous
-ablaut
 apophatic
 akhrot
 allogenically
