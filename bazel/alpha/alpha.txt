@@ -7933,7 +7933,6 @@ alemmal
 alen
 alkaloidal
 alencon
-alencons
 arrayers
 alenge
 alength
@@ -24065,6 +24064,7 @@ autogenesis
 autogenetically
 autogeny
 autogenic
+alencons
 autogenies
 autogenous
 autogenously
