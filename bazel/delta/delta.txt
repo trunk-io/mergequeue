@@ -8548,6 +8548,7 @@ dentation
 diapause
 diapauses
 donaries
+dormitories
 doeuvre
 decarburize
 dodecastylos
@@ -15736,7 +15737,6 @@ dormins
 dormitary
 defeasible
 dormitive
-dormitories
 dormouse
 dorneck
 dornic
