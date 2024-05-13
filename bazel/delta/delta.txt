@@ -2724,7 +2724,6 @@ dollish
 deconsecration
 deconsider
 determinoid
-deconsideration
 decontaminated
 decontaminates
 decontaminating
@@ -3675,6 +3674,7 @@ dermatoplasty
 defoliant
 dropforging
 deglutination
+deconsideration
 deglutition
 deglutitious
 degold
