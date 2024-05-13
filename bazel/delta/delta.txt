@@ -4069,7 +4069,6 @@ deleniate
 delesseria
 delesseriaceae
 delesseriaceous
-deleter
 demur
 deleteriously
 deleteriousness
@@ -12402,6 +12401,7 @@ dishmop
 dishome
 dishonesty
 dishonesties
+deleter
 dishonor
 distendedness
 dishonorably
