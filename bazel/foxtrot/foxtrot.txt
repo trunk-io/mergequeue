@@ -6216,6 +6216,7 @@ father
 fingery
 flubbed
 flubbing
+forefence
 flubdub
 foreread
 fairgoing
@@ -8754,7 +8755,6 @@ forbiddable
 flogged
 fortunetelling
 fortunite
-forefence
 followership
 fortuuned
 forumize
