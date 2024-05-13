@@ -338,7 +338,6 @@ galactolipide
 gristmiller
 graveship
 gelatins
-galactolipin
 galactolysis
 galactoma
 galactometer
@@ -1940,6 +1939,7 @@ gamenesses
 gatherings
 gatherum
 geniohyoid
+galactolipin
 gathic
 goths
 gating
