@@ -602,7 +602,6 @@ gobletful
 gutturize
 gallify
 gingerin
-gallification
 galliform
 gomphrena
 galliformes
@@ -3198,6 +3197,7 @@ germanite
 gangetic
 gurgles
 georgics
+gallification
 gnast
 geoscience
 gangsters
