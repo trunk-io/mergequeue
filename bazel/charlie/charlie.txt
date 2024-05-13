@@ -4690,6 +4690,7 @@ carouses
 carp
 carpaine
 carpale
+caryophyllaceous
 carpalia
 carpals
 chela
@@ -8119,7 +8120,6 @@ chadelle
 colloquy
 catsup
 cragged
-caryophyllaceous
 chadless
 chadlock
 chanidae
