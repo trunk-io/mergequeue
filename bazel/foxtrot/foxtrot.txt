@@ -4894,6 +4894,7 @@ flameless
 flitch
 forwards
 fchar
+fanzines
 fractabling
 flamen
 fulfil
@@ -10319,7 +10320,6 @@ flintstone
 frogleg
 froglets
 footles
-fanzines
 fibroadenia
 flaming
 frogman
