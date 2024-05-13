@@ -2956,6 +2956,7 @@ cantilena
 cantilene
 cantilenes
 cantilever
+cosec
 cantilevered
 cantilevering
 cantilevers
@@ -23807,7 +23808,6 @@ contrarotation
 conjunctival
 contrascriptural
 contrast
-cosec
 cumulophyric
 costocolic
 celluliferous

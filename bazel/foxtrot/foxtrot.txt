@@ -5090,6 +5090,7 @@ feltlike
 ferricyanhydric
 flasker
 foretooth
+foehnlike
 flaskets
 fellahin
 flasklet
@@ -6696,7 +6697,6 @@ frontes
 flunkeyhood
 fillip
 foehn
-foehnlike
 foehns
 foeish
 fpsps
