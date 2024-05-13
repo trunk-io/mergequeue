@@ -14412,7 +14412,6 @@ branchery
 branches
 beadle
 branchful
-bacteria
 branchy
 branchiae
 borstals
@@ -14759,6 +14758,7 @@ breaden
 breadfruit
 breadfruits
 bronchopulmonary
+bacteria
 breadless
 breadline
 breadmaker
