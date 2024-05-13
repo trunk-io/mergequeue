@@ -8196,7 +8196,6 @@ chaffless
 chafflike
 chaffman
 chrysograph
-chaffron
 clavicornia
 chaffs
 chaffseed
@@ -27430,6 +27429,7 @@ cauldron
 courting
 courtly
 cogitos
+chaffron
 courtlier
 cephalodymia
 compreg
