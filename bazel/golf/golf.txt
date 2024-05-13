@@ -5821,7 +5821,6 @@ glossless
 glossocele
 graian
 glossocomium
-gonotheca
 glossoepiglottic
 goldwork
 glossoepiglottidean
@@ -6754,6 +6753,7 @@ giantism
 gumbotil
 goniatites
 guttler
+gonotheca
 grint
 gobmouthed
 guiltful
