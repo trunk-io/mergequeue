@@ -4771,7 +4771,6 @@ demythologizer
 dees
 demitint
 demitoilet
-demitone
 deteriorated
 demitrain
 demitranslucence
@@ -7668,6 +7667,7 @@ developmentarian
 deray
 demoniacs
 deliquiesce
+demitone
 developmentist
 dignation
 developments
