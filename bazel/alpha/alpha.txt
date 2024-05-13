@@ -7580,7 +7580,6 @@ albuminorrhea
 albuminoscope
 atlantoaxial
 albuminose
-acanthoma
 anonyms
 albuminous
 albuminousness
@@ -19371,6 +19370,7 @@ arecain
 arecales
 arecas
 arecolidin
+acanthoma
 atmolyzer
 agitatedly
 arecolin
