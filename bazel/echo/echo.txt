@@ -7897,7 +7897,6 @@ epileptically
 epileptiform
 epileptogenous
 epileptoid
-epileptology
 exotospore
 entomeric
 essayist
@@ -9100,6 +9099,7 @@ electroretinograph
 erythroblast
 erythroblastic
 extrafoliaceous
+epileptology
 exoperidium
 electrocardiographs
 erythroblastosis
