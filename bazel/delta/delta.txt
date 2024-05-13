@@ -9900,7 +9900,6 @@ dimetry
 dimetric
 dimyaria
 dimyaric
-domesticability
 dd
 dimidiate
 dimidiation
@@ -11235,6 +11234,7 @@ diacle
 disadvantage
 disbud
 dreariment
+domesticability
 dangler
 decrescendos
 disbudded
