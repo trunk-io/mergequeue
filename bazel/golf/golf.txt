@@ -555,7 +555,6 @@ galley
 goniatitidae
 gyrowheel
 glaires
-gallein
 goutwort
 galipoidin
 gastrotympanites
@@ -3211,6 +3210,7 @@ geostrophic
 graminiferous
 geostrophically
 graylags
+gallein
 geotactically
 geotaxes
 geotechnic
