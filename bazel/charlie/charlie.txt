@@ -7607,7 +7607,6 @@ cercidiphyllaceae
 cercises
 cercocebus
 cercolabes
-cercolabidae
 cercomonad
 cercomonadidae
 cercopid
@@ -23334,6 +23333,7 @@ consumo
 consumpted
 consumptible
 consumptional
+cercolabidae
 consumptions
 consumptive
 consumptively
