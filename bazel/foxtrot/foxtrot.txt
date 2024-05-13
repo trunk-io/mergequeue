@@ -4188,6 +4188,7 @@ flouse
 feverweed
 firehouse
 fallotomy
+forepayment
 fluff
 fireless
 firelight
@@ -11253,7 +11254,6 @@ felonries
 funkier
 featherdom
 fatherkin
-forepayment
 funkiness
 flee
 forgetness
