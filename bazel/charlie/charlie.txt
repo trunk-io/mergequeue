@@ -4848,7 +4848,6 @@ carrick
 carrycot
 chromatoplasm
 carrie
-carried
 carryed
 carrier
 carriers
@@ -10833,6 +10832,7 @@ confessionalian
 charleen
 chining
 chinkapin
+carried
 consequents
 cineastes
 chinkara
