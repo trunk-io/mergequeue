@@ -3826,6 +3826,7 @@ adherents
 adherers
 adheres
 adherescence
+antiwear
 anticipatively
 archivolt
 adhering
@@ -16436,7 +16437,6 @@ antiwaste
 acrolithic
 aseptol
 ameiurus
-antiwear
 affiliates
 antiwedge
 antiweed
