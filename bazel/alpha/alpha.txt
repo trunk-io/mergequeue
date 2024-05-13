@@ -1570,6 +1570,7 @@ accoll
 archaised
 angiostenosis
 ankylosaurus
+antireflexive
 accolle
 accolled
 accollee
@@ -16092,7 +16093,6 @@ anaeroplasty
 adaptedness
 antireducer
 autotrophically
-antireflexive
 antireform
 antireformer
 antireligion
