@@ -4901,7 +4901,6 @@ gambier
 gjetost
 glyptician
 gobiiform
-gjetosts
 gl
 galvanise
 graspable
@@ -6064,6 +6063,7 @@ glumnesses
 gyrovagi
 ghain
 gutless
+gjetosts
 gestapo
 glumosity
 guaiacums
