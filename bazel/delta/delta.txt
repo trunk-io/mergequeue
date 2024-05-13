@@ -5794,7 +5794,6 @@ dipneedle
 depolish
 davened
 depolished
-dogbush
 deaconed
 depolishes
 dukhobor
@@ -15730,6 +15729,7 @@ dormeuse
 dormice
 dormient
 dormilona
+dogbush
 dormins
 dormitary
 defeasible
