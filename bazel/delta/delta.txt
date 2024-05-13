@@ -3685,7 +3685,6 @@ degorge
 degradable
 daggering
 degradations
-degradative
 degraded
 degradedly
 degradement
@@ -14132,6 +14131,7 @@ disutilize
 dismasts
 dramatists
 doses
+degradative
 disvantage
 deaired
 dicer
