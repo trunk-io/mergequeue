@@ -8738,7 +8738,6 @@ equity
 epiploon
 equities
 equitriangular
-epyllia
 equivalenced
 equivalency
 equivalent
@@ -12660,6 +12659,7 @@ exoculation
 exoderm
 exodermis
 exoderms
+epyllia
 exody
 elaphodus
 equiaxial
