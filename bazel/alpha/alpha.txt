@@ -1894,7 +1894,6 @@ afflue
 acephalocyst
 alveloz
 assembles
-acephalous
 anticipatory
 antiepicenter
 akoasma
@@ -7742,6 +7741,7 @@ adelpholite
 allows
 alcoholomania
 alcoholometer
+acephalous
 alcoholometry
 albumenize
 alcoholometric
