@@ -4172,6 +4172,7 @@ firedamps
 firedrake
 frayn
 foreprise
+flounder
 foulmart
 florican
 firefang
@@ -6155,7 +6156,6 @@ fostell
 flounced
 flounciest
 flouncing
-flounder
 flounders
 floury
 flourish
