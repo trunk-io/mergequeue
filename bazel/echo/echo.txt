@@ -2052,7 +2052,6 @@ elapidae
 elapids
 euthyneural
 elapine
-elapse
 endoblast
 edificant
 epigyny
@@ -13946,6 +13945,7 @@ endonuclease
 extrapyramidal
 extraplacental
 exocardia
+elapse
 extrapoetical
 extrapolar
 earscrew
