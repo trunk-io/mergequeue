@@ -1298,7 +1298,6 @@ effectors
 effectress
 encapsulate
 effects
-exurban
 effectuality
 err
 epeus
@@ -7376,6 +7375,7 @@ etalon
 eperlan
 echevin
 eperotesis
+exurban
 encheat
 eternalizing
 eperua
