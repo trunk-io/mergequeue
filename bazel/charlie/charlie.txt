@@ -6404,7 +6404,6 @@ cautiones
 cautioning
 canard
 cautionry
-cautions
 cautious
 cautiously
 cautiousness
@@ -13579,6 +13578,7 @@ cigarillos
 cigaritos
 cigars
 cygneous
+cautions
 cygnets
 cygnid
 commodore
