@@ -2839,7 +2839,6 @@ barouni
 baroxyton
 barque
 beebread
-bigoted
 buttonmold
 barrabora
 barracan
@@ -7187,6 +7186,7 @@ beaugregories
 becalmed
 bespell
 bespelled
+bigoted
 bespend
 bespew
 brow
