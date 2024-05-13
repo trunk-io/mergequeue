@@ -1840,7 +1840,6 @@ farrand
 freakiest
 fraenum
 featliness
-fuscescent
 fractureproof
 fissiparous
 forane
@@ -2405,6 +2404,7 @@ feoff
 feoffee
 foreimagine
 firlot
+fuscescent
 fconvert
 fs
 feoffer
