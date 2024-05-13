@@ -6294,7 +6294,6 @@ disquixote
 dweeble
 divorceuse
 dermatomycosis
-dermatomyoma
 dermatoneural
 dermatoneurology
 dermatoneurosis
@@ -11139,6 +11138,7 @@ doley
 disastrous
 dissipater
 donating
+dermatomyoma
 disastrously
 decemberish
 disattaint
