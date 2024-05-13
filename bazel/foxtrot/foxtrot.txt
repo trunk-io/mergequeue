@@ -6668,6 +6668,7 @@ frequents
 focal
 featness
 focalization
+fritterer
 focalizes
 formalize
 forbye
@@ -7423,7 +7424,6 @@ focometry
 fissidens
 fenestellae
 flywort
-fritterer
 flames
 frust
 flinging
