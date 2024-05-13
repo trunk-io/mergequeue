@@ -5294,7 +5294,6 @@ affectionateness
 affectioned
 affections
 affectious
-affective
 affectively
 affectivity
 affectless
@@ -21530,6 +21529,7 @@ aelurophobia
 aspirated
 aspirating
 aspiration
+affective
 antihuff
 aspirations
 aspiratory
