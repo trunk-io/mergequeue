@@ -6416,7 +6416,6 @@ emitters
 encephalometer
 encheck
 ensorcellment
-ensorrow
 evitable
 eucalyn
 emit
@@ -7791,6 +7790,7 @@ epigeum
 epigyne
 epiphyses
 endotoxic
+ensorrow
 eumenid
 epigynous
 epigynum
