@@ -3868,7 +3868,6 @@ gibstaff
 gavelage
 gibuses
 giddap
-guideless
 gynospore
 goff
 giddybrain
@@ -5319,6 +5318,7 @@ glenoidal
 glent
 glauconitic
 gages
+guideless
 gangly
 glowerer
 guitarfish
