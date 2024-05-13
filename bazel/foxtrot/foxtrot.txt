@@ -7466,7 +7466,6 @@ foglietto
 futhark
 fasciculation
 fumerel
-forceps
 fey
 forceput
 fazing
@@ -8956,6 +8955,7 @@ fussiest
 foundationlessness
 filibranch
 founded
+forceps
 founder
 foundered
 fetters
