@@ -2303,6 +2303,7 @@ filesave
 fainaiguer
 femme
 femora
+faithwise
 femoral
 flic
 farmland
@@ -4133,7 +4134,6 @@ fakiness
 firebombing
 frostlike
 fradicin
-faithwise
 firebombs
 fireboot
 figuredly
