@@ -2064,7 +2064,6 @@ gaussbergite
 gaussian
 gaskings
 gageite
-gaussmeter
 gauster
 granville
 gausterer
@@ -7930,6 +7929,7 @@ geatas
 gunshots
 gleaned
 gatten
+gaussmeter
 genuine
 grandparents
 gambiae
