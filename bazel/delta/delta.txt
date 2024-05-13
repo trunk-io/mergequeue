@@ -1480,7 +1480,6 @@ dcb
 dcollet
 dcor
 ddname
-disillusionise
 dea
 depressure
 deaccession
@@ -17942,6 +17941,7 @@ duffed
 doublers
 dilatory
 degasser
+disillusionise
 duffel
 duffels
 duffer

@@ -3547,6 +3547,7 @@ abiliment
 additiment
 additionary
 additionist
+afterwort
 additions
 addititious
 additive
@@ -5741,7 +5742,6 @@ afterwork
 agathodemon
 aint
 afterworld
-afterwort
 apodeixis
 adenocyst
 afterwrath
