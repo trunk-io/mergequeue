@@ -935,7 +935,6 @@ calamansi
 calamar
 calamary
 calamariaceous
-calamaries
 calculation
 calamarioid
 calamarmar
@@ -19616,6 +19615,7 @@ columna
 columnal
 columnar
 columnarian
+calamaries
 columnarity
 columnate
 columnated
