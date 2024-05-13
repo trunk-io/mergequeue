@@ -109,6 +109,7 @@ freeport
 faciend
 fisherpeople
 funtumia
+fisticuffery
 faciends
 fossulet
 featheredges
@@ -4496,7 +4497,6 @@ fort
 filching
 fouldre
 familiarness
-fisticuffery
 fistiness
 fisting
 falbala
