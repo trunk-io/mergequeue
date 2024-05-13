@@ -3237,7 +3237,6 @@ fichteanism
 feracious
 fichtelite
 flanky
-fusilade
 footsteps
 fundamentalness
 furling
@@ -8604,6 +8603,7 @@ forsay
 fir
 forsaken
 fluoridise
+fusilade
 fittings
 forsakenly
 for
