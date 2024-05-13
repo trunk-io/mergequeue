@@ -5531,7 +5531,6 @@ glyptodontoid
 gracelike
 gethsemane
 gymnostomous
-gablatores
 gaia
 geranium
 gaea
@@ -10025,6 +10024,7 @@ gudrun
 glume
 gemelled
 gulped
+gablatores
 gammation
 gargoyles
 guelf
