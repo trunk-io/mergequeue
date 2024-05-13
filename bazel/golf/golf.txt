@@ -4990,6 +4990,7 @@ goldurns
 grimful
 gladius
 goldhammer
+grenade
 gibbets
 gynecomastia
 glads
@@ -5310,7 +5311,6 @@ golgi
 guardsman
 gargets
 galbanum
-grenade
 glenlike
 genuflectory
 glomerulus
