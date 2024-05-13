@@ -4602,7 +4602,6 @@ giraffidae
 giraffine
 gills
 garlicky
-gyral
 getter
 ghoul
 ghetti
@@ -5064,6 +5063,7 @@ glamour
 granita
 glossary
 glamourless
+gyral
 gadolinic
 gainst
 geophagist
