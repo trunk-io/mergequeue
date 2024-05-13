@@ -3145,7 +3145,6 @@ besetter
 bases
 bardish
 basest
-bash
 bashalick
 bashaw
 bashawdom
@@ -4519,6 +4518,7 @@ becloud
 beclouded
 buriels
 beclout
+bash
 bootee
 beclowned
 burlier
