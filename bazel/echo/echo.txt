@@ -7949,7 +7949,6 @@ empidonax
 eigenvector
 euripos
 epimerized
-epimeron
 embellishes
 epimers
 enchains
@@ -11470,6 +11469,7 @@ evergreens
 everydayness
 everyhow
 everylike
+epimeron
 everyman
 everymen
 enlaced

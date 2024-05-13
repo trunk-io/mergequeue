@@ -7741,7 +7741,6 @@ format
 fulls
 frequencies
 foreigneering
-fibrinous
 foreigner
 flaggelated
 flutework
@@ -10517,6 +10516,7 @@ forbodes
 frostbite
 favella
 fibroin
+fibrinous
 forcite
 frostbitten
 frostbow
