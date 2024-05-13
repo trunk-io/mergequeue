@@ -5769,7 +5769,6 @@ engraphic
 engraphically
 engrasp
 ephedrins
-engrave
 engravement
 evermore
 engraver
@@ -9891,6 +9890,7 @@ essonites
 essorant
 endarterial
 est
+engrave
 equimolecular
 efficiencies
 echinoids
