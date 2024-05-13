@@ -16481,6 +16481,7 @@ antoniniani
 antoninianus
 appointed
 antonomasy
+approximation
 antonomasia
 antonomastic
 antonomastical
@@ -18085,7 +18086,6 @@ approximately
 acridly
 approximates
 approximating
-approximation
 approximations
 approximative
 atomy
