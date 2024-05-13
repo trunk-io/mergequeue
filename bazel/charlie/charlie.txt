@@ -6835,6 +6835,7 @@ cellarwoman
 cellblock
 cellblocks
 celled
+curchef
 centennium
 cellepora
 cellepore
@@ -31255,7 +31256,6 @@ curbstoner
 curbstones
 curcas
 curch
-curchef
 curchy
 curcuddoch
 curculio
