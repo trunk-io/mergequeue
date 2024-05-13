@@ -570,7 +570,6 @@ glimpsed
 galleon
 galleons
 galler
-gallera
 getters
 gritten
 geisotherm
@@ -5547,6 +5546,7 @@ glyptotherium
 globeholder
 glires
 gliridae
+gallera
 gliriformia
 glirine
 groovy
