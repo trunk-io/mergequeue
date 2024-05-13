@@ -4255,7 +4255,6 @@ gymnosporous
 ges
 gymnostomata
 grotesquery
-gripless
 gymnotus
 ginward
 garnishable
@@ -10854,6 +10853,7 @@ gweeon
 gwely
 geomagnetician
 gauging
+gripless
 gooey
 gyri
 gestatorium
