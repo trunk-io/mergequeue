@@ -8843,7 +8843,6 @@ buckeroo
 bimonthlies
 bimorph
 bimorphs
-bimotor
 bimotored
 bimotors
 bruisers
@@ -17009,6 +17008,7 @@ bulbus
 bulbourethral
 barcas
 bulbous
+bimotor
 bulbously
 bulbs
 bulbule

@@ -3216,7 +3216,6 @@ epitomization
 ethnographic
 elvanitic
 elvet
-elvis
 elvishly
 enigmatically
 elzevir
@@ -10631,6 +10630,7 @@ evermo
 euchorda
 enhalos
 euchred
+elvis
 euchres
 eckehart
 equipage
