@@ -2689,6 +2689,7 @@ ferrule
 finales
 farde
 ferruler
+frumentation
 ferrules
 fanman
 federalese
@@ -10733,7 +10734,6 @@ fruitworm
 frument
 frumentaceous
 flitchplate
-frumentation
 fractionated
 featheriest
 fibriform
