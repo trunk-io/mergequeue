@@ -7121,6 +7121,7 @@ centering
 centerless
 centerline
 centermost
+cholecystoileostomy
 centerpiece
 centerpieces
 codex
@@ -31365,7 +31366,6 @@ curite
 curitis
 conglobated
 curiums
-cholecystoileostomy
 curl
 cheery
 compressing
