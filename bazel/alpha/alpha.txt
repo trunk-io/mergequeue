@@ -2074,7 +2074,6 @@ acetoacetate
 acetoacetic
 acetoamidophenol
 aquincubitalism
-acetobenzoic
 acetol
 acetolysis
 acetolytic
@@ -11911,6 +11910,7 @@ ananter
 alleger
 anantherous
 ananthous
+acetobenzoic
 aftersend
 anapaest
 anapaestical
