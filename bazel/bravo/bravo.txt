@@ -816,7 +816,6 @@ bael
 baeria
 bliny
 bluecaps
-bonier
 baetyl
 blautok
 baetulus
@@ -9813,6 +9812,7 @@ besing
 bistable
 bystander
 bistate
+bonier
 boomer
 bistephanic
 bister
