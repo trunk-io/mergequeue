@@ -1782,7 +1782,6 @@ gastightness
 grassquit
 gastrojejunostomy
 gastrojejunostomies
-gastrolater
 gravamina
 grunted
 gramashes
@@ -8741,6 +8740,7 @@ grabble
 googly
 greeting
 greets
+gastrolater
 gliffing
 grandchildren
 gelatinochloride
