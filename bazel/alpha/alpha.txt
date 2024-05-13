@@ -12598,7 +12598,6 @@ anesthesiology
 anesthesiologies
 anesthesiologists
 anesthesis
-acarology
 anesthetically
 anesthetics
 anesthetization
@@ -21326,6 +21325,7 @@ askant
 askapart
 antonymous
 askari
+acarology
 amphiploid
 askaris
 asked
