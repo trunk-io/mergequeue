@@ -18566,6 +18566,7 @@ devoicing
 dust
 danseurs
 dustband
+dustour
 dustbins
 donate
 discombobulates
@@ -18591,7 +18592,6 @@ dustless
 dustlessness
 dustlike
 dustoori
-dustour
 dustpan
 dustrags
 dorsalmost
