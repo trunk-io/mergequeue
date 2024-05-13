@@ -4707,7 +4707,6 @@ glared
 giro
 ganch
 gonake
-glossae
 gillhooter
 glycose
 gyroceran
@@ -7251,6 +7250,7 @@ gospelers
 gephyrophobia
 greyling
 groutier
+glossae
 golfer
 gyrostatic
 gonystylus
