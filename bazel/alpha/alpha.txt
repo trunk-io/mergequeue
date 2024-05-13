@@ -2687,7 +2687,6 @@ acquaintant
 acquainted
 adjectivally
 aerographic
-amidocyanogen
 ageism
 audivision
 acquaintedness
@@ -21314,6 +21313,7 @@ appraisingly
 anomalure
 asystole
 asystolic
+amidocyanogen
 asyzygetic
 ask
 allophone
