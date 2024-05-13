@@ -5009,7 +5009,6 @@ exemptible
 endocarp
 emotiovascular
 endocarpal
-endocarpic
 endocarps
 endocellular
 extramarital
@@ -7295,6 +7294,7 @@ economy
 epanorthidae
 ephorates
 epanorthoses
+endocarpic
 epanorthotic
 extremer
 epapophysis
