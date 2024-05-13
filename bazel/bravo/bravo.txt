@@ -11166,6 +11166,7 @@ bloodsuckers
 bloodtest
 bloodthirster
 bloodthirstiness
+butterbough
 bloodweed
 burgomaster
 bloodwite
@@ -13458,7 +13459,6 @@ boucle
 boucles
 butterless
 boudeuse
-butterbough
 boudin
 bibliophile
 bra
