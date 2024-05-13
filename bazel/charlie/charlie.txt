@@ -3969,6 +3969,7 @@ carcassless
 carcavelhos
 carceag
 cosmodrome
+civile
 carcel
 carcels
 carcer
@@ -15150,7 +15151,6 @@ civie
 contractively
 cilantros
 connixation
-civile
 civilest
 civilian
 chalcostibite
