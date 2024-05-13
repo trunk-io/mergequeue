@@ -778,7 +778,6 @@ girondist
 gadsbodikins
 gradations
 grahamism
-guttled
 gien
 galvanomagnetic
 galvanomagnetism
@@ -2957,6 +2956,7 @@ genuflections
 genuflects
 grid
 geol
+guttled
 grasser
 genuflex
 grouters
