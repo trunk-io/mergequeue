@@ -7319,6 +7319,7 @@ gossipred
 gossipries
 gossips
 gigmaness
+gullies
 groupist
 gestor
 galactometry
@@ -10362,7 +10363,6 @@ gossypol
 gnathobasic
 gutta
 gyrenes
-gullies
 girandola
 gullying
 gulling
