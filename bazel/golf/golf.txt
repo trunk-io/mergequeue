@@ -870,7 +870,6 @@ gambirs
 graduator
 gambist
 gambits
-gamblesomeness
 genseng
 gambogian
 glome
@@ -9984,6 +9983,7 @@ gubernative
 ghostliest
 gubernator
 grandezza
+gamblesomeness
 galactonic
 gluma
 gallwort
