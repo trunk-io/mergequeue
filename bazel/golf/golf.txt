@@ -4384,7 +4384,6 @@ gabfests
 gynecophoric
 growing
 gynecophorous
-gynecratic
 gyneolater
 gabelle
 gorce
@@ -10201,6 +10200,7 @@ guildhall
 guilds
 ghosted
 guildship
+gynecratic
 guessworker
 guile
 guileful
