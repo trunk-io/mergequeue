@@ -8995,7 +8995,6 @@ charadrine
 clothlike
 charadriomorphae
 chingpaw
-charadrius
 charango
 chararas
 chorioidal
@@ -14525,6 +14524,7 @@ circumvention
 circumventions
 coking
 circumventor
+charadrius
 circumvents
 citrus
 clicky
