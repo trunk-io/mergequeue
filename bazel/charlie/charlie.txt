@@ -14847,6 +14847,7 @@ chondromalacia
 cookery
 cite
 citeable
+corrigibleness
 cited
 citee
 citer
@@ -25800,7 +25801,6 @@ corrigibility
 corrigible
 chainbearer
 curassows
-corrigibleness
 chatta
 corrigibly
 corrigiola
