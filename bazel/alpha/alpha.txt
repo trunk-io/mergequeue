@@ -9141,6 +9141,7 @@ antiputrefaction
 abolishable
 animations
 antiplenist
+arist
 almemar
 almemars
 accordable
@@ -17618,7 +17619,6 @@ apparatchiks
 amortises
 apparats
 apparatus
-arist
 appareled
 appareling
 apparence
