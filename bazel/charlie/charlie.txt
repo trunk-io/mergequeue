@@ -5593,7 +5593,6 @@ catalogize
 catalogued
 cataloguer
 catalogues
-constabulary
 cataloguing
 cataloguish
 cataloguist
@@ -29228,6 +29227,7 @@ cryptanalyze
 capybara
 cryptanalyzed
 cryptanalyzing
+constabulary
 cryptarch
 cryptarchy
 crypted
