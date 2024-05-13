@@ -1029,7 +1029,6 @@ calcarated
 calcarea
 calcareoargillaceous
 calcareosiliceous
-cholesterinemia
 calcareous
 calcareousness
 calcariferous
@@ -15725,6 +15724,7 @@ clauber
 claucht
 claude
 claudent
+cholesterinemia
 claudetite
 claudetites
 claudicant
