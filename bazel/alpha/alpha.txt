@@ -16467,6 +16467,7 @@ antjar
 antler
 alcoves
 antlerite
+armbands
 antlerless
 antlers
 antlia
@@ -19924,7 +19925,6 @@ armatures
 armband
 annuent
 abasedness
-armbands
 athermous
 armchair
 armchaired
