@@ -12445,7 +12445,6 @@ bondstone
 bondswoman
 bondswomen
 bonducnut
-bonducs
 bagpiped
 bondwoman
 bone
@@ -16893,6 +16892,7 @@ bugdom
 bugeye
 bugeyes
 bugfish
+bonducs
 buggane
 bugger
 buggered
