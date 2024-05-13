@@ -7447,7 +7447,6 @@ bethflower
 bethylidae
 bootstrap
 bethink
-barquentine
 balaenoptera
 bethinks
 baklawa
@@ -10369,6 +10368,7 @@ baltimorite
 blancard
 bergomask
 blanch
+barquentine
 blanche
 balant
 blanched
