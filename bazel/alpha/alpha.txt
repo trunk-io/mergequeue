@@ -4838,6 +4838,7 @@ aenach
 aeneas
 aeneolithic
 androgenesis
+affricate
 aenigmatite
 aeolia
 aeolic
@@ -5454,7 +5455,6 @@ ado
 affret
 affreux
 autopilots
-affricate
 affricated
 agnosticism
 affricates

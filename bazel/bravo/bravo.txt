@@ -1262,7 +1262,6 @@ birdberry
 batrachiate
 bedim
 balan
-balance
 bedstead
 bardie
 balanceable
@@ -14938,6 +14937,7 @@ bredbergite
 bredes
 bredestitch
 betainogen
+balance
 breech
 breechcloth
 brimfull
