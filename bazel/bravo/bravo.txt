@@ -4148,6 +4148,7 @@ beansetter
 beanshooter
 beanstalk
 beanstalks
+bethylid
 bibbs
 begrain
 beanweed
@@ -15157,7 +15158,6 @@ bricklining
 brickmaking
 brickmason
 brockage
-bethylid
 bricktimber
 bricktop
 brickwall
