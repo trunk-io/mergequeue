@@ -7251,7 +7251,6 @@ eopalaeozoic
 eopaleozoic
 eophytic
 eyebree
-erysipelothrix
 eophyton
 eorhyolite
 eos
@@ -11639,6 +11638,7 @@ explicating
 evolved
 enframing
 electroretinogram
+erysipelothrix
 evolver
 equivalencies
 elizabethanize
