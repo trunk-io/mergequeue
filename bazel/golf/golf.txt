@@ -5169,7 +5169,6 @@ glassmaker
 glassmaking
 grav
 gasoliery
-gunman
 gamotropism
 gormless
 glib
@@ -10779,6 +10778,7 @@ gerrhosauridae
 guttersnipish
 gutterspout
 gadoidea
+gunman
 gutterwise
 gynomonoecious
 glyptography
