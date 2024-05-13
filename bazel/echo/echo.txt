@@ -3369,7 +3369,6 @@ enteropneustan
 embattled
 estranger
 embattlement
-eviscerate
 embattles
 embden
 embed
@@ -6353,6 +6352,7 @@ ensigncy
 electroplaque
 entranceway
 ensignry
+eviscerate
 ensilaged
 ensilages
 episcopal
