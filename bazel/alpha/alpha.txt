@@ -22492,6 +22492,7 @@ atelestite
 atelets
 atelic
 atelier
+auks
 ateliers
 ateliosis
 ateliotic
@@ -24156,7 +24157,6 @@ autoinfection
 autolyzate
 autolyze
 amputator
-auks
 autolyzed
 autolyzes
 autoloader
