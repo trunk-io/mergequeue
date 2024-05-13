@@ -2725,7 +2725,6 @@ barocyclonometer
 barbra
 baroclinicity
 betrothals
-barognosis
 barogram
 barograms
 barographic
@@ -9929,6 +9928,7 @@ battled
 bitter
 bitterbark
 broadside
+barognosis
 bern
 besee
 bitterbloom

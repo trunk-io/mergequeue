@@ -7970,7 +7970,6 @@ gestatorial
 greedy
 gladioli
 groundsel
-granitiform
 granitite
 granitization
 granitized
@@ -10038,6 +10037,7 @@ guelph
 groined
 gasterozooid
 gunnel
+granitiform
 guerdons
 guereba
 guidecraft
