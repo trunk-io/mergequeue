@@ -6649,6 +6649,7 @@ exhume
 enteropneusta
 enteroptosis
 enterorrhagia
+epidictical
 ethions
 enterorrhaphy
 eternity
@@ -11318,7 +11319,6 @@ evangelistaries
 evangelistarium
 enthronized
 evangelistic
-epidictical
 earshots
 evangelistship
 evangelization
