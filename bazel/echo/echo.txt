@@ -1097,7 +1097,6 @@ earwaxes
 edificed
 edifices
 edificial
-edificing
 edified
 edifiers
 edifying
@@ -12036,6 +12035,7 @@ eelblennies
 excitometabolic
 embryonally
 excitomotor
+edificing
 excitomotory
 erythrin
 excellently
