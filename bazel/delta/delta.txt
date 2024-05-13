@@ -2698,7 +2698,6 @@ dogwatches
 decompoundable
 diffractional
 decompoundly
-decompress
 dibble
 decompresses
 decompressing
@@ -11302,6 +11301,7 @@ discardment
 discards
 discarnate
 discarnation
+decompress
 discase
 dimit
 discusser
