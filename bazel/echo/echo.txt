@@ -12058,7 +12058,6 @@ excludable
 everyone
 eudesmol
 excludes
-excludingly
 exampleship
 exclusion
 eigenspace
@@ -12982,6 +12981,7 @@ epopee
 ethernets
 esophagectomy
 expedients
+excludingly
 ejacula
 ethos
 expediment
