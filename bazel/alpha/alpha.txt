@@ -1316,7 +1316,6 @@ angelical
 acnodes
 acaridomatia
 acariform
-acarina
 acarine
 acarines
 acarinosis
@@ -7395,6 +7394,7 @@ archlecher
 albarco
 anelectrotonic
 albarelli
+acarina
 attornment
 ariboflavinosis
 albarium
