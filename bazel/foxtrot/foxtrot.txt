@@ -2248,7 +2248,6 @@ foredeep
 felts
 forthtell
 forcipial
-feltwort
 flaggier
 felucca
 felwort
@@ -11406,6 +11405,7 @@ furls
 furmenty
 furmenties
 felling
+feltwort
 furmeties
 fluencies
 faradizes
