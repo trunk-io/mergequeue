@@ -2810,7 +2810,6 @@ canonistical
 canonists
 centenarianism
 canonizant
-canonizations
 canonize
 canonized
 cytology
@@ -17320,6 +17319,7 @@ coarsely
 coarsened
 coarseness
 carhouse
+canonizations
 coarsening
 coarsens
 coarser
