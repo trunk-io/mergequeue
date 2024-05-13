@@ -2447,6 +2447,7 @@ bare
 bareback
 bareboat
 borderside
+bever
 bareboats
 barrener
 bareboned
@@ -7609,7 +7610,6 @@ beveller
 bookbinder
 biathlon
 bevenom
-bever
 beverage
 beverse
 bevesseled
