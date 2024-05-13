@@ -4335,7 +4335,6 @@ forebackwardly
 fixion
 fishberries
 fishboats
-fishbolt
 fishbolts
 fishbone
 falchions
@@ -5470,6 +5469,7 @@ factories
 fletchers
 fletches
 furrower
+fishbolt
 feynesses
 fleuret
 filionymic
