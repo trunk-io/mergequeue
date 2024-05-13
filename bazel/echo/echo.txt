@@ -4305,7 +4305,6 @@ expulsive
 estreat
 enamelers
 epigrammatize
-explodent
 enameling
 enamelist
 equiped
@@ -12743,6 +12742,7 @@ exopterygotism
 excitative
 epha
 extol
+explodent
 espressivo
 elrage
 excommunicated
