@@ -6241,6 +6241,7 @@ aglycones
 aglycons
 aglimmer
 aglint
+alphabetisation
 aglipayan
 aglipayano
 aglypha
@@ -9337,7 +9338,6 @@ arthrostraca
 affectation
 alphabetiform
 alphabeting
-alphabetisation
 alphabetise
 alphabetised
 alphabetiser
