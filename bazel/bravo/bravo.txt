@@ -4912,7 +4912,6 @@ bindings
 blackwashing
 belavendered
 bedwards
-bedwarf
 bedtimes
 bedwarfing
 bedwarfs
@@ -14235,6 +14234,7 @@ braggish
 borocitrate
 biotechs
 braggishly
+bedwarf
 braggite
 braggle
 boussingaultia
