@@ -5739,7 +5739,6 @@ donkeyback
 djellab
 depleting
 daftlike
-depletion
 depletions
 desmothoraca
 depletive
@@ -9410,6 +9409,7 @@ diffusions
 diffusive
 diffusors
 diner
+depletion
 dipaschal
 diformin
 diether
