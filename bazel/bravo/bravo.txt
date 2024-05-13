@@ -3765,7 +3765,6 @@ battik
 batting
 battings
 battledores
-baldly
 barotraumata
 battledoring
 battlefronts
@@ -9876,6 +9875,7 @@ bited
 bromocamphor
 balawa
 biter
+baldly
 biternately
 biters
 bearfoot
