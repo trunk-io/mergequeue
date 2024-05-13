@@ -3775,7 +3775,6 @@ esthetical
 emendator
 emended
 epinikian
-emending
 emer
 emerald
 emeraldine
@@ -12996,6 +12995,7 @@ euhemerised
 expeditating
 eurindic
 expeditely
+emending
 expediteness
 expediter
 expedites
