@@ -16856,7 +16856,6 @@ aphicide
 armours
 arkansans
 aphidid
-aphidious
 aphidius
 aphidivorous
 aphidlion
@@ -18410,6 +18409,7 @@ arachne
 arsenyl
 adsorptiveness
 arachnean
+aphidious
 arachnid
 asporous
 arachnida
