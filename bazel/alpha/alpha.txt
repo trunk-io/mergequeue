@@ -2669,7 +2669,6 @@ allylene
 acoumetry
 acounter
 acouometer
-acouophonia
 adjacently
 acoluthic
 acoup
@@ -20819,6 +20818,7 @@ artotypy
 artotyrite
 artou
 arts
+acouophonia
 artsman
 artus
 acylamido
