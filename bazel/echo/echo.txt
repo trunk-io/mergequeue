@@ -4875,7 +4875,6 @@ encrinoid
 enantiomorphism
 ende
 errite
-endocardium
 eurytomid
 ectodermic
 elegiac
@@ -7303,6 +7302,7 @@ epanorthoses
 endocarpic
 epanorthotic
 extremer
+endocardium
 epapophysis
 evaporated
 evangeliser
