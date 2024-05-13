@@ -5357,6 +5357,7 @@ affirm
 affirmable
 abreacted
 acupress
+arecaceae
 affirmably
 affirmance
 assisan
@@ -10083,7 +10084,6 @@ amblyopia
 antihemophilic
 amblyopic
 amblyopsidae
-arecaceae
 amblyopsis
 amblyoscope
 amblypodous
