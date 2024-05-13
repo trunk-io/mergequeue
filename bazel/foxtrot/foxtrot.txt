@@ -6027,7 +6027,6 @@ ferbam
 fumigation
 flopwing
 flora
-floral
 floramour
 floras
 floreal
@@ -10096,6 +10095,7 @@ francophilism
 frija
 formity
 frijole
+floral
 ferruled
 foraging
 fiercly
