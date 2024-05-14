@@ -1752,7 +1752,6 @@ accubitus
 accueil
 accultural
 acculturate
-acculturated
 acculturates
 acculturating
 acculturation
@@ -21919,6 +21918,7 @@ acaridomatium
 assonantic
 aristogenics
 assonantly
+acculturated
 assonants
 arnottos
 assonia
