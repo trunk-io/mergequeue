@@ -7073,7 +7073,6 @@ egotisms
 enunciative
 exportable
 enwrite
-enured
 enures
 evadible
 enterprisingly
@@ -13862,6 +13861,7 @@ extradited
 extradomestic
 extrados
 extradosed
+enured
 electrogalvanize
 extradoses
 extradotal
