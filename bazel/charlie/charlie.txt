@@ -9085,7 +9085,6 @@ charisms
 charisticary
 charitably
 charitative
-charity
 chessmen
 charities
 charityless
@@ -16759,6 +16758,7 @@ cloudberry
 cloudbursts
 cloudcap
 cloudful
+charity
 colouristic
 cloudy
 cloudiest
