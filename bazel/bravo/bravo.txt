@@ -628,6 +628,7 @@ blindfolder
 bactericides
 bacteriemia
 bacteriform
+bewrap
 bacterin
 borofluoric
 bacterioagglutinin
@@ -6918,7 +6919,6 @@ bertillonage
 bertolonia
 bioacoustics
 bertram
-bewrap
 basigenous
 bibliolatry
 bertrum

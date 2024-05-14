@@ -6016,7 +6016,6 @@ dept
 depth
 depthen
 devitation
-depthless
 dianisidin
 depthlessness
 denizen
@@ -10548,6 +10547,7 @@ diplobacterium
 diazotate
 diplocardia
 diplocardiac
+depthless
 diplocarpon
 discoidea
 diplocaulescent
