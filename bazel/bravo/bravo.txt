@@ -50,7 +50,6 @@ babbit
 barflies
 ballonets
 babblings
-babblish
 babbool
 babbools
 babcock
@@ -14949,6 +14948,7 @@ breedable
 bemusk
 breeder
 breeders
+babblish
 breedy
 breediness
 bengalic
