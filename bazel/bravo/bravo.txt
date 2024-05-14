@@ -1478,7 +1478,6 @@ balkis
 backbiter
 boyarisms
 blighter
-balkish
 baryton
 beggar
 boroglycerate
@@ -2636,6 +2635,7 @@ bub
 barkhan
 batman
 barkier
+balkish
 bantamweight
 barkiest
 barking
