@@ -13482,6 +13482,7 @@ exscript
 exscriptural
 exsculptate
 exscutellate
+exposers
 electromedical
 exsec
 exsect
@@ -14102,7 +14103,6 @@ extrinsically
 extrinsicalness
 extrinsicate
 extrinsication
-exposers
 evanescency
 extroitive
 extrorse
