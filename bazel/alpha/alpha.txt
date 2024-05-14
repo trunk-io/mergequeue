@@ -4993,7 +4993,6 @@ aeroduct
 aeroducts
 aeroelastic
 aeroelasticity
-aeroelastics
 aporphin
 aerofoil
 aerofoils
@@ -20120,6 +20119,7 @@ aromatically
 aromaticity
 actinosoma
 auriscopically
+aeroelastics
 aromatics
 aromatise
 adscripted
