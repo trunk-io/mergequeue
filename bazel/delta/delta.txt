@@ -2653,7 +2653,6 @@ decolors
 duopsonies
 decolouration
 decolouring
-decolourisation
 dissyllabize
 dogmatism
 decempeda
@@ -5940,6 +5939,7 @@ defibrillation
 dyscrasy
 depressants
 depressed
+decolourisation
 depresses
 doling
 dispender
