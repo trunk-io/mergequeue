@@ -9137,7 +9137,6 @@ almacigo
 almagests
 alman
 authenticatable
-almanacs
 almander
 almandine
 almandines
@@ -20522,6 +20521,7 @@ arterionecrosis
 allantois
 arteriopalmus
 arterioplasty
+almanacs
 arteriopressor
 arteriorenal
 arteriorrhagia
