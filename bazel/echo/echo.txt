@@ -5191,7 +5191,6 @@ extumescence
 egocentrism
 endoproctous
 endopterygota
-endopterygote
 endoradiosonde
 eupathy
 enkernel
@@ -5817,6 +5816,7 @@ eurytopicity
 ephemeron
 enhardy
 enharmonic
+endopterygote
 epicureans
 excursive
 eftest
