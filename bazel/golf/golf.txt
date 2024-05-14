@@ -9162,6 +9162,7 @@ grisoutine
 grisset
 gariba
 grist
+galiots
 gaspiness
 grister
 greenth
@@ -9879,7 +9880,6 @@ gaveling
 grabber
 gruffily
 greith
-galiots
 groundnut
 gratulatorily
 guaranteeing
