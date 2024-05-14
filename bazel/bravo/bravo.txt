@@ -8595,7 +8595,6 @@ bouteloua
 bilgeway
 bilgy
 bilgier
-bilgiest
 bilharzial
 bilharzic
 bedcord
@@ -10529,6 +10528,7 @@ betray
 baizes
 beleaguer
 bylining
+bilgiest
 berbamine
 brindles
 blastoid
