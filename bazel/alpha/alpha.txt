@@ -9689,7 +9689,6 @@ alveolarly
 alveolars
 alveolate
 alveolation
-alveole
 alveolectomy
 alveoli
 accidie
@@ -18256,6 +18255,7 @@ aquarian
 aquarians
 aquarid
 aquariist
+alveole
 aquarist
 aquarium
 allowably
