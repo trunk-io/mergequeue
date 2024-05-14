@@ -2690,6 +2690,7 @@ barmbrack
 barmcloth
 brither
 barmfel
+bunrakus
 becoward
 barmote
 barms
@@ -5165,7 +5166,6 @@ bunkery
 befleas
 baffle
 befleck
-bunrakus
 beflecked
 beflecking
 bigmouth
