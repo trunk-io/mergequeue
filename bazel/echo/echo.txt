@@ -4939,7 +4939,6 @@ encamp
 eggplants
 endogastric
 enderon
-enders
 endexine
 endgate
 enfief
@@ -10317,6 +10316,7 @@ evicted
 epanorthosis
 elritch
 expoliate
+enders
 ethidene
 ethyl
 epigynies
