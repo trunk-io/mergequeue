@@ -4128,7 +4128,6 @@ birken
 bargees
 bantlings
 bean
-beanbag
 brickred
 beanball
 brooked
@@ -8781,6 +8780,7 @@ biloculina
 braches
 bilophodont
 biloquist
+beanbag
 bilos
 biloxi
 bilsh
