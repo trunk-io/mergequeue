@@ -11805,6 +11805,7 @@ drawbridges
 discriminational
 dimitted
 discriminatively
+downthrow
 despatch
 discriminativeness
 discriminator
@@ -16355,7 +16356,6 @@ downstroke
 downstrokes
 downswings
 downtake
-downthrow
 duodecane
 downthrown
 downthrust
