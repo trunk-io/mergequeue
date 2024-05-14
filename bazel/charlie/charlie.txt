@@ -525,7 +525,6 @@ cadets
 cadetship
 cadette
 cadettes
-coulis
 competence
 carbuilder
 cadged
@@ -4987,6 +4986,7 @@ corrupt
 chrysomonadina
 cassettes
 cartouch
+coulis
 cartouche
 costrel
 chiclero
