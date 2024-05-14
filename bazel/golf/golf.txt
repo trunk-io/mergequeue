@@ -2361,7 +2361,6 @@ goles
 gelatine
 glucoprotein
 gharial
-gerastian
 gelatiniform
 grundlov
 gaudier
@@ -6129,6 +6128,7 @@ glaucomas
 gnar
 gnarl
 gnarly
+gerastian
 goutte
 gnarliest
 gnarliness
