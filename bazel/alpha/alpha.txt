@@ -5514,7 +5514,6 @@ afluking
 afocal
 afoot
 afore
-aforegoing
 aforehand
 aforementioned
 aforetime
@@ -18072,6 +18071,7 @@ approvance
 antidecalogue
 abiology
 absolutes
+aforegoing
 approved
 approvedly
 approver
