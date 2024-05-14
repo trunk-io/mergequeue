@@ -2575,7 +2575,6 @@ electrophrenic
 electropyrometer
 enthrall
 electroplater
-electropolish
 electropower
 electropsychrometer
 executioner
@@ -8053,6 +8052,7 @@ ermitophobia
 epiphenomenalist
 epiphenomenally
 epiphenomenon
+electropolish
 eequinoctium
 ectodermal
 enviably
