@@ -712,7 +712,6 @@ dancalite
 dopester
 dance
 danceability
-danceable
 diaskeuast
 danced
 diddled
@@ -17627,6 +17626,7 @@ drumslade
 drumstick
 drumsticks
 diplokaryon
+danceable
 delundung
 drumwood
 drungar
