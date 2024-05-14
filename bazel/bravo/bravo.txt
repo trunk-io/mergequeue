@@ -3787,6 +3787,7 @@ barotraumata
 battledoring
 battlefronts
 battlegrounds
+benedictine
 bringall
 barway
 battlement
@@ -6250,7 +6251,6 @@ balaneutics
 benedicite
 benedicks
 benedicta
-benedictine
 bletonism
 benedictinism
 belinuridae
