@@ -9820,6 +9820,7 @@ frenchify
 frenchification
 freakful
 frenchly
+frithbot
 fences
 frenchman
 floatable
@@ -10210,7 +10211,6 @@ foozling
 fordam
 frisure
 faki
-frithbot
 frithy
 fonds
 facula
