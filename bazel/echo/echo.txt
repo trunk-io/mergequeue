@@ -5195,6 +5195,7 @@ endopterygota
 endopterygote
 endoradiosonde
 eupathy
+extrusible
 enkernel
 embrake
 enkindling
@@ -10220,7 +10221,6 @@ ethereality
 etherealization
 earthlike
 etherealizing
-extrusible
 excentrical
 ethereally
 expwy
