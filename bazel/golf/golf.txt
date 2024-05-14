@@ -9685,6 +9685,7 @@ greyhounds
 guards
 grumly
 gemmule
+granule
 glossaries
 guying
 grummels
@@ -10737,7 +10738,6 @@ giber
 gutbucket
 guiders
 graminin
-granule
 glycerinate
 gomerels
 guinfo

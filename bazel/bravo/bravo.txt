@@ -6694,6 +6694,7 @@ birotation
 baryglossia
 betons
 bere
+berycid
 bien
 barretry
 bereareft
@@ -6765,7 +6766,6 @@ beribbon
 barbarious
 beriber
 beriberis
-berycid
 busyhead
 bloodshotten
 berycidae
