@@ -6630,6 +6630,7 @@ ahull
 ahum
 ahungry
 arboretum
+alembic
 ahunt
 ahura
 ahush
@@ -7927,7 +7928,6 @@ agreat
 afterlife
 alemannic
 alemannish
-alembic
 adulterately
 alembicated
 alembroth
