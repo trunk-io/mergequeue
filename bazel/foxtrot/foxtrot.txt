@@ -827,7 +827,6 @@ fanjet
 formulism
 fanlights
 fanmaking
-femorotibial
 fanfares
 fannel
 frown
@@ -8908,6 +8907,7 @@ folia
 fleuron
 fotmal
 foud
+femorotibial
 foudroyant
 feeblemindedly
 folkvang

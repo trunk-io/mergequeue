@@ -8450,7 +8450,6 @@ defenestrated
 diamagnet
 decrescence
 diamagnetic
-diamagnetism
 diamagnetize
 dredging
 diamant
@@ -15794,6 +15793,7 @@ deuteron
 detects
 dualization
 disenfranchising
+diamagnetism
 dorsilateral
 dorsimeson
 deinodon
