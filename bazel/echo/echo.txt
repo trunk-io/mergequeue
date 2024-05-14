@@ -13147,6 +13147,7 @@ expirers
 expires
 euploidies
 expiry
+enough
 expiries
 expiring
 expiringly
@@ -13586,7 +13587,6 @@ epilemma
 extensions
 extensity
 endorsements
-enough
 empathizing
 eggcup
 engrosses
