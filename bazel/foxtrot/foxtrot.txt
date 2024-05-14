@@ -2601,7 +2601,6 @@ foulmouth
 formaldehyde
 ferredoxin
 ferreled
-fibrilla
 ferreling
 ferrelling
 forwake
@@ -8440,6 +8439,7 @@ folies
 footwall
 flingdust
 flooey
+fibrilla
 formature
 foresettled
 formazan
