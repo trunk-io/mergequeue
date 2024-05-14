@@ -2540,7 +2540,6 @@ falsen
 fermions
 fermium
 fern
-fastigium
 floripondio
 forint
 fiduciary
@@ -10586,6 +10585,7 @@ frowy
 firewarden
 firemen
 foresummer
+fastigium
 frowl
 fierily
 frowners
