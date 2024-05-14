@@ -4925,7 +4925,6 @@ cassava
 cartelization
 crystallophobia
 cartelizing
-cartellist
 carter
 carters
 cartesian
@@ -7554,6 +7553,7 @@ cardiaplegia
 ceratohyal
 ceratohyoid
 ceratoid
+cartellist
 ceratomandibular
 ceratomania
 ceratonia
