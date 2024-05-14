@@ -6937,6 +6937,7 @@ despatches
 despatching
 dioptry
 despeche
+diffeomorphism
 dogblow
 despecialization
 dispute
@@ -9335,7 +9336,6 @@ diffarreation
 depolarised
 diffeomorphic
 doited
-diffeomorphism
 differ
 despouse
 disconnectiveness
