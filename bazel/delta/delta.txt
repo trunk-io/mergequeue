@@ -5064,6 +5064,7 @@ demurrals
 demurrant
 demurrer
 demurring
+dressages
 demurringly
 deadhand
 driftpin
@@ -7110,7 +7111,6 @@ diagnostic
 destruct
 destructibility
 devitaminize
-dressages
 destructible
 destructibleness
 dicoccous
