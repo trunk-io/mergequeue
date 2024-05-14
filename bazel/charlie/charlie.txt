@@ -92,7 +92,6 @@ chars
 cabdriving
 cabecudo
 capellet
-chorogi
 cabeliau
 caber
 cabernet
@@ -2474,6 +2473,7 @@ candite
 candytuft
 curryfavel
 candyweed
+chorogi
 candle
 coehorn
 candleball
