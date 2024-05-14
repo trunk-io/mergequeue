@@ -8084,7 +8084,6 @@ bicarbide
 brusher
 bicarbonates
 bicarbureted
-bicarburetted
 baptistery
 barnstorm
 bicaudate
@@ -12960,6 +12959,7 @@ borasque
 borassus
 borated
 borax
+bicarburetted
 barouchet
 boraxes
 borboridae
