@@ -5522,7 +5522,6 @@ geranium
 gaea
 glyptolith
 games
-guessing
 glyptological
 grotesques
 glamor
@@ -10791,6 +10790,7 @@ gestonie
 gelatinously
 guttiferae
 ganglioneuron
+guessing
 guttiform
 geophytes
 guttiness
