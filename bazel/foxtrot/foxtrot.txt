@@ -790,6 +790,7 @@ fanfarons
 ferricyanogen
 funnellike
 fabricable
+foraminulate
 freemasonry
 fanfolds
 floggable
@@ -7378,7 +7379,6 @@ foraminiferal
 fumitory
 fidgetingly
 foraminose
-foraminulate
 foraminule
 foraminulose
 forams
