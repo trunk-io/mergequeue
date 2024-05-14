@@ -6940,7 +6940,6 @@ bedumbing
 berust
 berwick
 boldness
-berzelianite
 berzeliite
 bes
 barbets
@@ -18114,6 +18113,7 @@ boastless
 bishopess
 butadiyne
 blazing
+berzelianite
 butane
 butanoic
 butanol
