@@ -5130,6 +5130,7 @@ collectivity
 casebound
 circumrenal
 casebox
+courtepy
 cased
 casefy
 casefied
@@ -27390,7 +27391,6 @@ courtcraft
 cetacean
 congee
 courteousness
-courtepy
 courter
 courters
 courtesan
