@@ -3805,7 +3805,6 @@ androphore
 aburabozu
 adffrozen
 adfluxion
-adfreezing
 adfroze
 adhafera
 agones
@@ -14540,6 +14539,7 @@ armigero
 aclinal
 anthrol
 andouille
+adfreezing
 anthrop
 anthrophore
 anthropic
