@@ -4494,7 +4494,6 @@ feuder
 feedable
 festschriften
 fisticuff
-freebees
 fort
 filching
 fouldre
@@ -5048,6 +5047,7 @@ flashcubes
 fario
 fidicinal
 flashed
+freebees
 fireable
 fidejussion
 fecundated
