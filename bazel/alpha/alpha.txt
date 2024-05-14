@@ -4613,7 +4613,6 @@ adventureship
 adventuresome
 adventuresomely
 agglomerant
-adventuresomes
 awber
 adventuress
 adventuresses
@@ -22680,6 +22679,7 @@ atypicality
 assemblee
 anthropolithic
 atiptoe
+adventuresomes
 adreno
 atis
 atlanta
