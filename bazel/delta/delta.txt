@@ -14796,6 +14796,7 @@ docudramas
 document
 documentable
 documental
+doctoral
 delimer
 documentary
 documentaries
@@ -16084,7 +16085,6 @@ defroster
 doughbird
 doughface
 doughfaceism
-doctoral
 diminished
 deracialize
 dactylographer
