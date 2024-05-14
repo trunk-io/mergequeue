@@ -1061,7 +1061,6 @@ bailers
 bailiary
 bailiaries
 bailiery
-bargainwise
 bailieries
 bailieship
 bailiff
@@ -6041,6 +6040,7 @@ beden
 backswordmen
 beloveds
 blitzkrieg
+bargainwise
 belast
 boreas
 barbecueing
