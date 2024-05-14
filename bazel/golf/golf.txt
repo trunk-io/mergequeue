@@ -3382,7 +3382,6 @@ griffonne
 grids
 gove
 germans
-gossipry
 grubbers
 germfree
 gullion
@@ -4868,6 +4867,7 @@ gandhism
 gant
 gelidly
 giveaways
+gossipry
 gentling
 genies
 givens
