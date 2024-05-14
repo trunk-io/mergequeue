@@ -4648,6 +4648,7 @@ fixings
 falter
 flannelleaf
 fixt
+factory
 flavourer
 fabella
 fidded
@@ -5354,7 +5355,6 @@ fledgeling
 fauteuils
 fledgiest
 fleece
-factory
 fribourg
 feirie
 forechurch
