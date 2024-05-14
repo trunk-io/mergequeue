@@ -14439,7 +14439,6 @@ animates
 anthologised
 anthologising
 anthologized
-atomize
 anthologizes
 anthomania
 anthomaniac
@@ -15045,6 +15044,7 @@ avyayibhava
 asellidae
 anticonscription
 avicular
+atomize
 anticonscriptive
 almain
 anticonservatism
