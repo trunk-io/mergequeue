@@ -4179,7 +4179,6 @@ foreprise
 foulmart
 florican
 firefang
-firefanged
 fleys
 firefangs
 flaggings
@@ -8893,6 +8892,7 @@ fosterland
 fustle
 foreigners
 fosterling
+firefanged
 fingerlet
 frenzily
 frolics
