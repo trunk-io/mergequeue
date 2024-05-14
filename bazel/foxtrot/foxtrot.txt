@@ -6392,6 +6392,7 @@ fluocerine
 flang
 fluochloride
 feedhead
+fattenable
 fluoran
 fennish
 fluorane
@@ -11534,7 +11535,6 @@ fibrolipomatous
 fumigate
 firesafeness
 finalis
-fattenable
 foremastman
 fuscous
 finicism
