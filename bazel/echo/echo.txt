@@ -5670,7 +5670,6 @@ engirdled
 exodromy
 engirdles
 everywhereness
-engirdling
 engirds
 embellishes
 ermine
@@ -11888,6 +11887,7 @@ engracing
 excavations
 excavator
 enlace
+engirdling
 emptins
 excavatory
 excave
