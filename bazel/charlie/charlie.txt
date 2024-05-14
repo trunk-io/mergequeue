@@ -5238,6 +5238,7 @@ caspar
 castings
 casparian
 caspian
+cautiously
 casque
 casqued
 cushat
@@ -6406,7 +6407,6 @@ cautioning
 canard
 cautionry
 cautious
-cautiously
 cautiousness
 cautivo
 cav
