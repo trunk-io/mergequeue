@@ -5534,7 +5534,6 @@ featherers
 flyby
 fossils
 flybys
-fluctisonous
 flyblowing
 flyblows
 flyboat
@@ -6177,6 +6176,7 @@ flouters
 floutingly
 friggle
 fewnes
+fluctisonous
 feigner
 fetidity
 flouts
