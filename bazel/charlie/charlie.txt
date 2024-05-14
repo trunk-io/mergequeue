@@ -3237,6 +3237,7 @@ capitated
 capitatim
 capitation
 capitations
+cowyard
 cyclotomy
 capitatum
 capite
@@ -22594,7 +22595,6 @@ connect
 connectable
 connected
 connectedly
-cowyard
 connecter
 connecters
 creepmousy

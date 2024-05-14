@@ -1271,7 +1271,6 @@ bluejays
 balancelle
 brandishing
 balancers
-balancing
 balander
 balandrana
 bufferrers
@@ -5600,6 +5599,7 @@ beja
 bejade
 bejan
 bejant
+balancing
 bitewings
 bloodwit
 bechamels
