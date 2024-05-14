@@ -13488,7 +13488,6 @@ antigrammaticalness
 apathetic
 annalistic
 axoneuron
-antiprotons
 antiheroes
 aenigma
 annalists
@@ -22315,6 +22314,7 @@ astroid
 ailurophobic
 astrol
 astrolabe
+antiprotons
 astrolater
 astrolatry
 astrolithology
