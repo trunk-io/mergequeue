@@ -1734,7 +1734,6 @@ accroides
 accruable
 accrual
 accruals
-accrue
 accrued
 accruement
 accruer
@@ -9569,6 +9568,7 @@ altostratus
 altrices
 altropathy
 altruism
+accrue
 alignment
 aworth
 autoionization
