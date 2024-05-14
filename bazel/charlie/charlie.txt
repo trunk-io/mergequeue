@@ -2520,7 +2520,6 @@ candlewick
 candlewicking
 candlewicks
 candlewright
-candling
 candock
 candollea
 candolleaceae
@@ -6500,6 +6499,7 @@ cavyyard
 caviled
 caviler
 cavilers
+candling
 cavilingly
 ceraunogram
 cognizably
