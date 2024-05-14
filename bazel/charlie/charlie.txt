@@ -2029,7 +2029,6 @@ campagna
 campagne
 conli
 campagnol
-campagnols
 campagus
 campaign
 clotheshorses
@@ -16591,6 +16590,7 @@ cloisterless
 croupes
 cloisterly
 cloisterlike
+campagnols
 coltish
 cosmopathic
 cloisterliness
