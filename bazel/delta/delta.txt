@@ -1803,7 +1803,6 @@ discovered
 debates
 debating
 divalence
-debauch
 debauched
 dorestane
 debauchedly
@@ -9561,6 +9560,7 @@ dulias
 digraph
 digraphically
 digredience
+debauch
 digrediency
 digredient
 decenaries
