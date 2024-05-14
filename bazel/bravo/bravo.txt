@@ -2814,6 +2814,7 @@ body
 barosinusitus
 barosma
 barosmin
+bichord
 blithefully
 barostat
 bruta
@@ -8115,7 +8116,6 @@ berhyming
 bichir
 bichloride
 bichlorides
-bichord
 borazons
 bichos
 bichromated
