@@ -11349,7 +11349,6 @@ chloro
 chloroacetone
 chloroacetophenone
 childe
-chloroamide
 chloroamine
 chloroaurate
 chloroaurite
@@ -29734,6 +29733,7 @@ crookbill
 castral
 comediettas
 crookedbacked
+chloroamide
 crookeder
 constants
 consignment
