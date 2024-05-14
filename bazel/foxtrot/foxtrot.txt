@@ -4375,7 +4375,6 @@ ficelle
 fl
 folkmotes
 fishyard
-farand
 fishified
 furlers
 fatuousness
@@ -5384,6 +5383,7 @@ fleering
 foraged
 farseeingness
 frisii
+farand
 fleerish
 figurativeness
 firmware
