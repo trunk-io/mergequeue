@@ -6819,7 +6819,6 @@ berlin
 beneficing
 broomstaff
 berate
-balaamitical
 berline
 berliners
 berlinite
@@ -8346,6 +8345,7 @@ biflorate
 bifluoride
 bifocal
 bifocals
+balaamitical
 buffbar
 bifoil
 bifolia
