@@ -2695,7 +2695,6 @@ griefless
 gesticular
 glisters
 genesial
-genesic
 genesiology
 guillochee
 gyrophora
@@ -8359,6 +8358,7 @@ gratuities
 gongman
 gushet
 gagor
+genesic
 glutinant
 guarabu
 gecarcinus
