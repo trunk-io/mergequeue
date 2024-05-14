@@ -8375,7 +8375,6 @@ dialysis
 dialist
 dent
 dialystaminous
-downhanging
 dialystely
 dialystelic
 dialister
@@ -13130,6 +13129,7 @@ displayer
 downtimes
 diallages
 decolorate
+downhanging
 displaying
 displays
 decillionth
