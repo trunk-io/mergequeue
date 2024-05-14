@@ -1539,7 +1539,6 @@ deaden
 doolee
 droops
 dendra
-deadeners
 deteriorationist
 deadening
 damkjernite
@@ -17956,6 +17955,7 @@ displeasurement
 dufrenoysite
 dufter
 dosage
+deadeners
 dufterdar
 duftite
 dialoguer
