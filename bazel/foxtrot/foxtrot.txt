@@ -1786,6 +1786,7 @@ floorman
 fraught
 feathercut
 falconiformes
+funic
 fibropsammoma
 famatinite
 featheredge
@@ -11230,7 +11231,6 @@ fungused
 funguses
 fireball
 funguslike
-funic
 fistulae
 funicle
 foreday
