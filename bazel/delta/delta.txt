@@ -5491,7 +5491,6 @@ demodulate
 deodorants
 dependencies
 deodorisation
-dynamitist
 deodorise
 deodorised
 deodoriser
@@ -13694,6 +13693,7 @@ dealation
 disslander
 defects
 desulphuret
+dynamitist
 dyssnite
 dissociable
 deuteric
