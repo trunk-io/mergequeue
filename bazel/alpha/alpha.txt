@@ -4340,6 +4340,7 @@ armamentaria
 adornments
 adorno
 adornos
+annunciators
 adorns
 attestation
 automorph
@@ -15455,7 +15456,6 @@ antilithic
 antilytic
 antilitter
 antiliturgy
-annunciators
 affixt
 adjutancy
 albinoism
