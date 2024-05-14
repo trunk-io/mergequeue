@@ -10039,7 +10039,6 @@ bivariant
 bivariate
 bivascular
 binodous
-bivector
 biventer
 bayonetting
 blights
@@ -18110,6 +18109,7 @@ busuuti
 brazilins
 but
 benzhydrol
+bivector
 butacaine
 boastless
 bishopess
