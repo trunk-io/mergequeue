@@ -1527,7 +1527,6 @@ chemostat
 callisto
 callithrix
 callithump
-collegiant
 corruptibilities
 callithumpian
 callitype
@@ -16674,6 +16673,7 @@ closemouth
 contratempo
 closeness
 closenesses
+collegiant
 closeout
 cedric
 closeouts
