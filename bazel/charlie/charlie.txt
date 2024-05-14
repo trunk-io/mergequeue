@@ -7174,7 +7174,6 @@ cashmerette
 centimetres
 centimo
 centimos
-centinel
 centipedes
 crossties
 carites
@@ -15070,6 +15069,7 @@ cytotropic
 cytotropism
 cytovirin
 cytozzoa
+centinel
 citraconate
 citral
 citrals
