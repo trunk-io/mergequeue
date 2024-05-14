@@ -4346,7 +4346,6 @@ gristmill
 gracefullest
 gynecol
 gastroenterological
-grapy
 gibeonite
 gynecolatry
 gynecologic
@@ -10444,6 +10443,7 @@ gummoses
 greenbacker
 gummosity
 gump
+grapy
 gumption
 gumptionless
 gibbon
