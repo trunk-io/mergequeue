@@ -12548,7 +12548,6 @@ disinsulation
 disinsure
 disintegrable
 disintegrant
-disintegrate
 disintegrated
 disintegrates
 dipterological
@@ -15229,6 +15228,7 @@ dolliness
 disuniform
 dollishly
 dollishness
+disintegrate
 dolcian
 dix
 dollmaker
