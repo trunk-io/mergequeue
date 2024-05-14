@@ -4924,7 +4924,6 @@ durableness
 demonise
 dodlet
 ductile
-demonised
 demonises
 demonish
 demonishness
@@ -10161,6 +10160,7 @@ dinical
 dinichthyid
 dinichthys
 dzeron
+demonised
 dining
 dinitrate
 dopplerite
