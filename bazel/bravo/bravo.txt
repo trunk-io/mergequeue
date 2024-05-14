@@ -11590,7 +11590,6 @@ board
 boardbill
 boarded
 bibulosity
-boardinghouse
 boardings
 boardly
 boards
@@ -11774,6 +11773,7 @@ bocedization
 boche
 bocher
 barbedness
+boardinghouse
 boches
 beewort
 bobbles
