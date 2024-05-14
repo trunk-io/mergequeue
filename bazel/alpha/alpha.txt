@@ -2660,7 +2660,6 @@ acouchi
 acoumeter
 astringence
 allylene
-acoumetry
 acounter
 acouometer
 adjacently
@@ -6243,6 +6242,7 @@ adversaria
 aglitter
 aspartokinase
 aglossa
+acoumetry
 aglossal
 aglossia
 aglow
