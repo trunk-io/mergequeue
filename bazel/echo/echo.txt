@@ -5022,7 +5022,6 @@ enfield
 estray
 endocyst
 educatory
-endocystitis
 experted
 exploders
 eardrums
@@ -7825,6 +7824,7 @@ ensigned
 exclamation
 epigone
 esophagoplication
+endocystitis
 epigones
 endocone
 epigoni
