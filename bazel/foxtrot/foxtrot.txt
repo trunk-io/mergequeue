@@ -5832,6 +5832,7 @@ fireling
 floatation
 firesides
 finicky
+forks
 floated
 ferk
 forebooms
@@ -8347,7 +8348,6 @@ forklift
 forklike
 forkman
 forswornness
-forks
 forksful
 forksmith
 ferromagneticism
