@@ -8883,6 +8883,7 @@ chapelries
 chapels
 chapelward
 compile
+coeliorrhea
 chaperno
 chaperon
 custodia
@@ -30790,7 +30791,6 @@ culminal
 culminant
 culminate
 culminating
-coeliorrhea
 culmination
 culminative
 contenders
