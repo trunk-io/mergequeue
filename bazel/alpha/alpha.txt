@@ -13807,7 +13807,6 @@ amblypod
 anomodontia
 anomoeomery
 anomophyllous
-anomouran
 apholates
 anomphalous
 anomura
@@ -17904,6 +17903,7 @@ appointee
 antistatic
 appointees
 appointer
+anomouran
 alalite
 adherently
 appointers

@@ -1254,6 +1254,7 @@ calfkill
 calfless
 calflike
 calfling
+cattleyas
 corrido
 calfs
 calfskin
@@ -6140,7 +6141,6 @@ clashed
 cattleya
 cyclohexane
 cattleyak
-cattleyas
 cattleless
 cattleman
 carbylamine
