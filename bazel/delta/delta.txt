@@ -3113,7 +3113,6 @@ deerstalkers
 deerstalking
 deervetch
 deerweed
-deerweeds
 deist
 deescalate
 deescalation
@@ -12731,6 +12730,7 @@ dolefuller
 duplicatus
 dorsilumbar
 dysluite
+deerweeds
 delicto
 delations
 dislustered
