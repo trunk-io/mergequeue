@@ -2478,7 +2478,6 @@ designs
 decyne
 diaeresis
 decinormal
-decipherability
 decipherable
 dand
 delay
@@ -18263,6 +18262,7 @@ duckboards
 diseuse
 dunkled
 dysprosium
+decipherability
 dunlap
 dunlins
 dartboard
