@@ -5666,7 +5666,6 @@ aerarian
 afterlove
 aftermark
 aube
-aftermarriage
 aftermass
 aftermast
 amomum
@@ -9059,6 +9058,7 @@ autosuggest
 allowed
 assertiveness
 assagais
+aftermarriage
 allowedly
 allower
 allowing
