@@ -1026,6 +1026,7 @@ gorget
 gonotokont
 grasshook
 gundi
+glowfly
 ganderess
 geanticline
 gyrinus
@@ -5908,7 +5909,6 @@ gadinine
 grasshopperish
 glist
 glowering
-glowfly
 gastropneumatic
 glowingly
 glucuronic
