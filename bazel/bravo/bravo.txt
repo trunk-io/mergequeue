@@ -1686,7 +1686,6 @@ balmonies
 balmoral
 buzzwig
 boroughmaster
-balmorals
 bunemost
 byegaein
 bedticks
@@ -11435,6 +11434,7 @@ bluesman
 bluesmen
 bluestems
 bluestocking
+balmorals
 blackguardly
 bluestockingish
 beguiles
