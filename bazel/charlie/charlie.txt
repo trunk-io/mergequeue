@@ -5184,7 +5184,6 @@ cashbox
 cashboxes
 chromophor
 cambaye
-cashcuttee
 casheen
 cashel
 casher
@@ -6972,6 +6971,7 @@ cementwork
 cemetaries
 cemetery
 cemeterial
+cashcuttee
 ceratinous
 cemeteries
 culm
