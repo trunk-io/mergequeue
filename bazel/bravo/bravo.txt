@@ -1974,7 +1974,6 @@ benzoflavine
 banes
 banewort
 banga
-bangalow
 bombard
 blastogranitic
 bangash
@@ -10756,6 +10755,7 @@ blazed
 billetty
 beslur
 blended
+bangalow
 blendwater
 bowhead
 blenheim
