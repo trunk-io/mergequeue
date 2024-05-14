@@ -6839,7 +6839,6 @@ atenist
 axometer
 aircraftmen
 ausu
-aircraftsman
 aircraftsmen
 aircraftswoman
 adipsous
@@ -6895,6 +6894,7 @@ airiness
 airing
 airings
 atmolyses
+aircraftsman
 airish
 airless
 antelabium

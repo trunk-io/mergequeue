@@ -1126,7 +1126,6 @@ calcivorous
 chapmanship
 calcographer
 countermark
-calcography
 culturology
 calcographic
 calcsinter
@@ -5086,6 +5085,7 @@ cascabels
 cytocide
 cascable
 cascadable
+calcography
 cascade
 coupes
 crotaline
