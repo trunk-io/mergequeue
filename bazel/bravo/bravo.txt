@@ -2865,7 +2865,6 @@ barraged
 barrages
 barraging
 bailer
-barragon
 berried
 bowle
 barramunda
@@ -6199,6 +6198,7 @@ bizcacha
 benchership
 benchfellow
 burglary
+barragon
 benchful
 benchy
 blaming
