@@ -23550,6 +23550,7 @@ contiguity
 contiguous
 continence
 continental
+cryostase
 continentaler
 continentalize
 continentally
@@ -29193,7 +29194,6 @@ cryosphere
 cryospheric
 criosphinx
 criosphinxes
-cryostase
 cryostat
 cryostats
 cryosurgeon
