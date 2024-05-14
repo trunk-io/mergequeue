@@ -877,7 +877,6 @@ baggager
 benzidin
 baggala
 bedsheets
-bagganet
 baggara
 brevis
 beseechingly
@@ -10762,6 +10761,7 @@ blenk
 blennadenitis
 blennemesis
 blennenteria
+bagganet
 bark
 blueback
 bandfish
