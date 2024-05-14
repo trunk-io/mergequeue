@@ -5932,6 +5932,7 @@ abrenunciation
 age
 ageable
 agallop
+alpenstocker
 agedly
 agedness
 agednesses
@@ -9330,7 +9331,6 @@ alpeen
 alpen
 alpenglow
 alpenstock
-alpenstocker
 alpenstocks
 alpestral
 alpestrine
