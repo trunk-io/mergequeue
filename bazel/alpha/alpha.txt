@@ -1413,6 +1413,7 @@ accents
 anoxyscope
 auxillary
 accentual
+auteurism
 accentually
 actinotherapeutic
 accentuated
@@ -22006,7 +22007,6 @@ astalk
 anisometropic
 astarboard
 astare
-auteurism
 anus
 astart
 astarte
