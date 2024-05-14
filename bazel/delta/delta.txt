@@ -4385,7 +4385,6 @@ demagnetisation
 demagnetise
 demagnetised
 demagnetiser
-detraining
 demagnetising
 diacranteric
 daut
@@ -11381,6 +11380,7 @@ disciplinary
 disciplinarians
 decoloration
 disciplinarily
+detraining
 dripper
 disciplinate
 disciplinative
