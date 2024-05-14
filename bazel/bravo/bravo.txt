@@ -2350,7 +2350,6 @@ bears
 barbettes
 barbican
 barbicanage
-bathyscape
 barbicel
 barbicels
 brines
@@ -6199,6 +6198,7 @@ boyishly
 bequeathable
 becowarded
 benamidar
+bathyscape
 benasty
 beholdable
 binauricular
