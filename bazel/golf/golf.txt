@@ -136,6 +136,7 @@ gadolinia
 garrons
 gilsonite
 gifted
+gladwin
 goatfish
 genupectoral
 gadroon
@@ -4993,7 +4994,6 @@ gladship
 gamer
 gnomic
 gladsomest
-gladwin
 galletas
 globularity
 greeter
