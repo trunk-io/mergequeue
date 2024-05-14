@@ -2207,7 +2207,6 @@ electioneer
 elaphurine
 enwheeled
 ethylamin
-elections
 elective
 ephemerons
 electives
@@ -11717,6 +11716,7 @@ exadversum
 exaestuate
 etymologizing
 exaggerate
+elections
 etiotropic
 exaggerated
 euchological
