@@ -807,7 +807,6 @@ gibbers
 gummaker
 groupings
 gladly
-gam
 galvanoscopy
 gladsomer
 gustiness
@@ -2063,6 +2062,7 @@ goosetongue
 goosewing
 gaut
 grubberies
+gam
 glyphography
 goodwill
 gauteite
