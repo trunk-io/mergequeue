@@ -10579,7 +10579,6 @@ chiliads
 chiliaedron
 connexity
 chiliahedron
-chiliarch
 chiliarchy
 chiliarchia
 chiliast
@@ -23852,6 +23851,7 @@ contrepartie
 catalyzed
 cannonades
 contretemps
+chiliarch
 contrib
 clavel
 contributable
