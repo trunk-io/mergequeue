@@ -2311,7 +2311,6 @@ forehard
 fen
 fenagled
 fatil
-fenagles
 fence
 fenced
 fenceless
@@ -3127,6 +3126,7 @@ freeings
 fibrillae
 favorite
 fibrillar
+fenagles
 feelingness
 fibrillate
 freend
