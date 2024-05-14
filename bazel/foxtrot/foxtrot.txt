@@ -2794,7 +2794,6 @@ foldouts
 foresentence
 ferules
 fesses
-flaunche
 fessewise
 facetiation
 fest
@@ -6796,6 +6795,7 @@ foiningly
 fluorescin
 food
 foins
+flaunche
 fiacre
 foliageous
 fumette

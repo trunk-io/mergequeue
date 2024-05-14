@@ -1975,7 +1975,6 @@ glacier
 groundwave
 gauffre
 garvie
-greenland
 grenat
 gesture
 gaufre
@@ -3601,6 +3600,7 @@ gewgawry
 grinded
 gubbin
 gnomonology
+greenland
 gazump
 goyazite
 gluttonized
