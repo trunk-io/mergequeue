@@ -1483,6 +1483,7 @@ baryton
 beggar
 ball
 ballad
+benchlet
 bilifaction
 ballade
 balladeers
@@ -6213,7 +6214,6 @@ barragon
 benchful
 benchy
 blaming
-benchlet
 benchman
 benchmar
 benchmark
