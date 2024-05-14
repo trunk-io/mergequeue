@@ -10361,7 +10361,6 @@ diotic
 deputize
 debutantes
 dioxan
-dioxane
 dioxanes
 dioxy
 defecate
@@ -10993,6 +10992,7 @@ disagrees
 disagreing
 degeneracy
 dioptroscopy
+dioxane
 diagraming
 disalign
 demonlike
