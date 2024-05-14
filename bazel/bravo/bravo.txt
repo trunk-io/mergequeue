@@ -375,6 +375,7 @@ backhands
 bovarist
 backhaul
 backhauls
+bathylithic
 bossy
 backhoe
 backhoes
@@ -3597,7 +3598,6 @@ bathyhyperesthesia
 bathyhypesthesia
 binode
 blonds
-bathylithic
 bipinnaria
 bathymeter
 blithesomeness
