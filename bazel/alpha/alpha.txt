@@ -11208,7 +11208,6 @@ amphioxidae
 amphioxis
 amphioxus
 amphioxuses
-amphipeptone
 amphiphithyra
 amphipyrenin
 acerbically
@@ -16487,6 +16486,7 @@ appointed
 antonomasy
 antonomasia
 antonomastic
+amphipeptone
 antonomastical
 amaga
 antonomastically

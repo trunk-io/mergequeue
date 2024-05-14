@@ -5647,6 +5647,7 @@ frondous
 flinched
 folkland
 flyblown
+freckling
 flincher
 flinching
 flinders
@@ -9627,7 +9628,6 @@ foredescribe
 freckliness
 flighting
 feedboxes
-freckling
 fortifying
 fullers
 freddy
