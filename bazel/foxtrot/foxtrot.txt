@@ -6686,6 +6686,7 @@ flumed
 focussing
 fod
 fodder
+fubbed
 fodderer
 foder
 foederati
@@ -10808,7 +10809,6 @@ ftncmd
 feuars
 featherlet
 footsoldiers
-fubbed
 fubbery
 fubby
 fubsy

@@ -1034,7 +1034,6 @@ ganders
 gesneraceae
 gandertmeeth
 gandharva
-geothermal
 gobioidea
 gurian
 gybe
@@ -7701,6 +7700,7 @@ gallanted
 glassless
 gingle
 graycoat
+geothermal
 grubbies
 grayest
 grayfishes
