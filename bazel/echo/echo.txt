@@ -6433,6 +6433,7 @@ enstar
 espanoles
 ensteel
 ensteep
+epigraph
 evenblush
 enstranged
 enstore
@@ -7854,7 +7855,6 @@ epigrammatizer
 epigrammatizing
 endaortitis
 epigrams
-epigraph
 egyptianization
 epigraphic
 epigraphist
