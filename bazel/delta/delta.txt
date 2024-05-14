@@ -11001,6 +11001,7 @@ diasystem
 disaligned
 disaligning
 disalignment
+dozers
 disalike
 disally
 disalliege
@@ -16431,7 +16432,6 @@ dimorphous
 disports
 dozenths
 dozer
-dozers
 dozes
 doziest
 dozily
