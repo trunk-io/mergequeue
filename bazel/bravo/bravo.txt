@@ -2643,7 +2643,6 @@ besmears
 barkinji
 barkless
 barklyite
-barkometer
 bescorch
 barkpeeling
 butyr
@@ -14410,6 +14409,7 @@ bramble
 brambleberry
 brambles
 bonanza
+barkometer
 bramblier
 botch
 battleful
