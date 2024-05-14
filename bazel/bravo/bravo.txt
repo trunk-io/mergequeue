@@ -6336,6 +6336,7 @@ bengalese
 bengola
 bipartient
 biaxal
+bicolours
 beni
 beanie
 benic
@@ -8160,7 +8161,6 @@ bicoloured
 bicolourous
 benchwork
 boutell
-bicolours
 biconcave
 biconcavity
 breezelike

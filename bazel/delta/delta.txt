@@ -10100,7 +10100,6 @@ dibblers
 devance
 druid
 didymia
-dingar
 deceptible
 duckbills
 dingbat
@@ -15020,6 +15019,7 @@ dogleg
 doglegging
 doglegs
 doglike
+dingar
 dufrenite
 delicti
 dogmatic
