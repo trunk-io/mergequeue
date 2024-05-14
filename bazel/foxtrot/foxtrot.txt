@@ -7535,6 +7535,7 @@ fructus
 feathering
 fackins
 falconine
+flocked
 forebitt
 flaucht
 fet
@@ -11248,7 +11249,6 @@ funkers
 funky
 ferv
 funkia
-flocked
 funkias
 felonries
 funkier
