@@ -5926,7 +5926,6 @@ flogmaster
 flogs
 famulli
 freyr
-flogster
 floyd
 flokite
 fondish
@@ -11391,6 +11390,7 @@ firbolg
 fichus
 flattened
 furlong
+flogster
 forewind
 furlongs
 fraxinus

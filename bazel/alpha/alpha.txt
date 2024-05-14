@@ -6832,7 +6832,6 @@ aircoaches
 aircraft
 aircraftman
 atenist
-axometer
 aircraftmen
 ausu
 aircraftsman
@@ -19646,6 +19645,7 @@ arguteness
 arhauaco
 arhythmic
 arhythmical
+axometer
 aphthous
 ary
 aria
