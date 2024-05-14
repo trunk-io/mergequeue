@@ -7215,7 +7215,6 @@ detar
 detassel
 detat
 detd
-detect
 defoliating
 daishiki
 detected
@@ -18629,6 +18628,7 @@ diamondized
 drowsily
 duumviral
 duumvirate
+detect
 duumviri
 duvet
 duvetyn
