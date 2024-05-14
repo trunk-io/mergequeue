@@ -6091,7 +6091,6 @@ grogs
 granolithic
 gluemaker
 glutinative
-glutinize
 glutinosity
 glutinous
 groucho
@@ -9498,6 +9497,7 @@ gleit
 gnotobiotic
 grabbles
 graals
+glutinize
 gnomon
 guanophore
 greenwich
