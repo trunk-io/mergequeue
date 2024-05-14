@@ -15424,7 +15424,6 @@ clamoursome
 clampdown
 clamped
 clampers
-clamping
 clamps
 clamshell
 clamworms
@@ -26484,6 +26483,7 @@ cotinus
 cotype
 cusparine
 cotise
+clamping
 calycophoran
 cotised
 cardioparplasis
