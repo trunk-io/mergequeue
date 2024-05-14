@@ -2669,6 +2669,7 @@ electrotrephine
 electrotropic
 electrophilically
 electrovalence
+explain
 electrovalent
 electrovalently
 electrovection
@@ -10434,7 +10435,6 @@ ethnohistory
 echium
 ethnohistoric
 enquired
-explain
 etwite
 ethnol
 ethnolinguist

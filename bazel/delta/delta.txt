@@ -8234,6 +8234,7 @@ diadrome
 diadromous
 dioti
 diadumenus
+dowment
 diaene
 diaereses
 diaeretic
@@ -16220,7 +16221,6 @@ dowlas
 derange
 dowly
 designlessness
-dowment
 description
 duplicated
 downbear
