@@ -5972,7 +5972,6 @@ agenized
 agenizing
 agennesis
 agent
-agential
 admitty
 agenting
 agentive
@@ -13126,6 +13125,7 @@ anil
 anilau
 anileness
 appetible
+agential
 anilic
 anilide
 anilidic
