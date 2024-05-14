@@ -2746,7 +2746,6 @@ gadgets
 genghis
 gutturopalatal
 gamboised
-glareworm
 guaican
 goggled
 greasebush
@@ -5559,6 +5558,7 @@ glycaemia
 ghegish
 glisten
 geoff
+glareworm
 gulpiest
 guessers
 glistered
