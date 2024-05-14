@@ -18799,7 +18799,6 @@ archchampion
 archcheater
 archchemic
 amorism
-archchronicler
 archconfraternity
 archconspirator
 archcorrupter
@@ -21784,6 +21783,7 @@ assibilating
 altitudes
 anoine
 absorption
+archchronicler
 assidaean
 allotropous
 assidual
