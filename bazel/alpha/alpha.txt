@@ -6233,7 +6233,6 @@ aglipayano
 aglypha
 aglyphodont
 aglyphodonta
-aglyphous
 alectoriae
 alcyones
 adversaria
@@ -24693,6 +24692,7 @@ administrationist
 aveugle
 avg
 avgasses
+aglyphous
 aviador
 avian
 athalamous
