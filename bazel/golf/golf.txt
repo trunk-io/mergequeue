@@ -5937,6 +5937,7 @@ guarea
 glucagons
 gate
 gynoecium
+granulosa
 glucate
 gnomonia
 glucemia
@@ -8073,7 +8074,6 @@ gambroon
 glazier
 granulometric
 gaspereaus
-granulosa
 greened
 granulosis
 gumlah
