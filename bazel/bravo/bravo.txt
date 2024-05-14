@@ -4167,6 +4167,7 @@ beanweed
 beaproned
 bestiaries
 boondoggles
+boltage
 bearbaiter
 bedmaking
 blearedness
@@ -12243,7 +12244,6 @@ boardwalk
 brake
 bolsterwork
 bolt
-boltage
 biasses
 boltcutter
 bookmark
