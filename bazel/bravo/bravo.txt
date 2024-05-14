@@ -8308,6 +8308,7 @@ bienvenue
 boosters
 byepath
 bier
+bombarded
 broid
 byerite
 bierkeller
@@ -12284,7 +12285,6 @@ bombace
 behang
 bombay
 byrls
-bombarded
 bushfighter
 bombarder
 bombardiers
