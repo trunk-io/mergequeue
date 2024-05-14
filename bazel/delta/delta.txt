@@ -1656,7 +1656,6 @@ deaminate
 deaminating
 dioscorein
 deamination
-deaminize
 deaminized
 deaminizing
 deammonation
@@ -7027,6 +7026,7 @@ despotically
 despoticalness
 dissentiate
 despotize
+deaminize
 despraise
 dorje
 despumate
