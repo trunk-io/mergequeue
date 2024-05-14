@@ -5775,7 +5775,6 @@ evermore
 engraver
 entree
 engravers
-engraves
 easts
 engysseismology
 endophytous
@@ -13097,6 +13096,7 @@ experting
 euryalus
 expertised
 exilarch
+engraves
 electrophotometry
 epithelilia
 emulated
