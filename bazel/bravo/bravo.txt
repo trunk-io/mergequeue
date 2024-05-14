@@ -1420,7 +1420,6 @@ baled
 bonaught
 baleen
 baleens
-balefire
 balefires
 balefully
 beautify
@@ -2467,6 +2466,7 @@ barehead
 baboodom
 buckbrush
 bogles
+balefire
 bareheaded
 blencher
 bareheadedness
