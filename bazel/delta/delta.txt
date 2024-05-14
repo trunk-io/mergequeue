@@ -2138,7 +2138,6 @@ dyaus
 desmopathologist
 decapodal
 draggletailedly
-decapodan
 decapodiform
 dissective
 decapodous
@@ -11636,6 +11635,7 @@ discontinuities
 discontinuously
 drabbet
 discontinuousness
+decapodan
 disconula
 disconvenience
 decretive
