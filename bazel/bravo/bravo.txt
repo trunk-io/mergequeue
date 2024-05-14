@@ -2537,6 +2537,7 @@ beslash
 barging
 bargir
 bassetite
+benedictory
 barguest
 barguests
 buzylene
@@ -6263,7 +6264,6 @@ bolides
 biker
 benedictive
 benedictively
-benedictory
 betide
 biggonet
 baikalite
