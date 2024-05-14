@@ -5154,6 +5154,7 @@ beflag
 barkevikite
 beflagged
 bodymaking
+bebled
 beflagging
 beflannel
 bureaucrat
@@ -5606,7 +5607,6 @@ bejel
 bejeled
 bejelled
 babist
-bebled
 bejelling
 bejesuit
 bejewel
