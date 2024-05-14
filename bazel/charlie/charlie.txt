@@ -3338,6 +3338,7 @@ counterweighing
 capot
 capotasto
 capotastos
+cheveys
 celsius
 conformity
 capote
@@ -10191,7 +10192,6 @@ chevaline
 circumambulating
 cantonese
 compagnie
-cheveys
 chevelure
 cheven
 chevener

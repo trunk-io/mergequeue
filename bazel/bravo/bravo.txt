@@ -2930,7 +2930,6 @@ bloodybones
 billowed
 breadberry
 barretors
-bennettitaceous
 burrs
 barrets
 boundaries
@@ -3793,6 +3792,7 @@ battlement
 battlements
 barnstorms
 battler
+bennettitaceous
 battles
 battleship
 battleships
