@@ -9628,7 +9628,6 @@ checkweighman
 checkweighmen
 checkwork
 cosmologist
-checkwriter
 concurrence
 cheddar
 commentating
@@ -14396,6 +14395,7 @@ censes
 circumjovial
 circumlental
 circumlitio
+checkwriter
 circumlittoral
 circumlocute
 circumlocution
