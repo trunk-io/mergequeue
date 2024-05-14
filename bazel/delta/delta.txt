@@ -2509,6 +2509,7 @@ deckel
 deckels
 deporte
 deblocking
+disruptive
 dirigent
 decken
 deckhand
@@ -13462,7 +13463,6 @@ disrump
 disrupting
 dippable
 disruptionist
-disruptive
 disruptively
 disruptment
 disruptor
