@@ -9826,7 +9826,6 @@ diluvium
 dimanganion
 dimaris
 dimastigate
-desulphurization
 disorientated
 diosphenol
 dinmont
@@ -12638,6 +12637,7 @@ defoliage
 divining
 dammar
 die
+desulphurization
 daubs
 disks
 demipike
