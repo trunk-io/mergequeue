@@ -8435,7 +8435,6 @@ dialogistical
 dossiers
 departements
 delicates
-dolia
 dialogized
 dreep
 demipremiss
@@ -17959,6 +17958,7 @@ dialoguer
 dug
 dugal
 durras
+dolia
 dugento
 dugong
 dugongidae
