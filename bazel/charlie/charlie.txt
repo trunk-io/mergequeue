@@ -2190,7 +2190,6 @@ campulitropal
 cabaan
 campus
 chromatic
-campuses
 campusses
 campward
 chametz
@@ -11552,6 +11551,7 @@ conoidally
 choristoma
 choirman
 colonizations
+campuses
 ceratitoid
 choirmaster
 choirmasters
