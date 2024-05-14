@@ -3354,7 +3354,6 @@ froglet
 fidge
 fidged
 frameable
-fidget
 fidgetation
 fidgeted
 fractals
@@ -9791,6 +9790,7 @@ fluidal
 freyja
 freijo
 forehandsel
+fidget
 factorship
 freir
 freith
