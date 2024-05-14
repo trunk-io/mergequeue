@@ -17464,7 +17464,6 @@ acquital
 aposteriori
 aposthia
 aposthume
-apostil
 apostille
 apostle
 aviator
@@ -21425,6 +21424,7 @@ anatira
 aspergillin
 arteriogram
 adpromissor
+apostil
 aspergilloses
 aspergillosis
 aspergillum
