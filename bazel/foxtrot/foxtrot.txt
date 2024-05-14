@@ -2630,6 +2630,7 @@ ferryhouse
 ferrimagnetically
 feedsman
 ferryman
+footcandles
 frowziness
 ferrites
 frailties
@@ -7174,7 +7175,6 @@ footboy
 foramina
 footboys
 footbridge
-footcandles
 ferrate
 footcloths
 finedraw
