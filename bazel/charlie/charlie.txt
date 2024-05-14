@@ -15345,7 +15345,6 @@ clairvoyances
 clairvoyancy
 clairvoyant
 clairvoyantly
-clays
 claystone
 claith
 clayton
@@ -23928,6 +23927,7 @@ contumacious
 contumaciousness
 chipyard
 contumacities
+clays
 cantel
 contumely
 consisted
