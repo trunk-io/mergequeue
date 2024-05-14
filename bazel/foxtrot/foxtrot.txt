@@ -5677,6 +5677,7 @@ flinty
 formularizer
 footpound
 flashlike
+frize
 flintwood
 fanfold
 ferreted
@@ -10255,7 +10256,6 @@ flockmaster
 frivols
 frontlet
 fled
-frize
 frized
 flavous
 frizel
