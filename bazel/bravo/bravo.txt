@@ -8181,7 +8181,6 @@ bicornate
 bicorned
 bicornes
 bitangent
-bochur
 brunissure
 bicornous
 booklift
@@ -12706,6 +12705,7 @@ booklists
 booklore
 bhavan
 bioecologic
+bochur
 booklouse
 booklover
 bookmakers
