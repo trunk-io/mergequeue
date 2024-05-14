@@ -4478,6 +4478,7 @@ endostyle
 exocolitis
 emulators
 encephalitogenic
+esophagomycosis
 elotherium
 encephalographic
 encephalographically
@@ -9698,7 +9699,6 @@ evejar
 entrike
 esophagometer
 evoked
-esophagomycosis
 esophagopathy
 esophagoplasty
 esophagoptosis
