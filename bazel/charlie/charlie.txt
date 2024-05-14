@@ -28966,7 +28966,6 @@ cricoids
 cricopharyngeal
 cricothyreoid
 cricothyreotomy
-cojuror
 cricothyroidean
 cuneated
 cunning
@@ -29226,6 +29225,7 @@ cryptanalytically
 cryptanalytics
 cryptanalyze
 capybara
+cojuror
 cryptanalyzed
 cryptanalyzing
 cryptarch
