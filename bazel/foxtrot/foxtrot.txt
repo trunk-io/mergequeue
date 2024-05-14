@@ -2055,6 +2055,7 @@ feigning
 feigningly
 feigns
 farouche
+forename
 flirtingly
 fistulatous
 feijoa
@@ -7833,7 +7834,6 @@ foremisgiving
 foremost
 foremostly
 foremother
-forename
 furl
 finning
 fogging
