@@ -2402,7 +2402,6 @@ ethanol
 electrogalvanization
 equalization
 electrogenetic
-equivalence
 enharbor
 electrogenic
 electrogild
@@ -8321,6 +8320,7 @@ enclosable
 exterminated
 ethnolinguistic
 epithecium
+equivalence
 ecardine
 ejectives
 enukki
