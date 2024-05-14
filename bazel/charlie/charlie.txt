@@ -25235,7 +25235,6 @@ corimelaenidae
 corindon
 corynebacteria
 corynebacterial
-coreless
 corynebacterium
 coryneform
 causus
@@ -28252,6 +28251,7 @@ crapette
 crapy
 craping
 credibleness
+coreless
 crapped
 crapper
 chrysopoetic
