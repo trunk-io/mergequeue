@@ -2522,7 +2522,6 @@ bargelike
 bravura
 bargelli
 bargellos
-bargeload
 bargeman
 bargemaster
 booklice
@@ -3087,6 +3086,7 @@ basaree
 basat
 bestness
 boithrin
+bargeload
 bascinet
 bascology
 basculation
