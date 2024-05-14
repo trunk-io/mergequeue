@@ -5049,6 +5049,7 @@ ensurers
 enzootically
 ember
 endocrine
+etherial
 endocrines
 endocrinic
 endocrinism
@@ -8573,7 +8574,6 @@ emperies
 equative
 electre
 equator
-etherial
 erase
 equatorial
 elucidating
