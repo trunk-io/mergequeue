@@ -1742,7 +1742,6 @@ gnotobiote
 goosemouth
 gravemaking
 gastroduodenal
-gastroduodenitis
 gametophagia
 gastroduodenostomy
 ganodont
@@ -2516,6 +2515,7 @@ gemmipares
 gemmiparous
 gomukhi
 gemmiparously
+gastroduodenitis
 gyrochrome
 ganton
 gambled
