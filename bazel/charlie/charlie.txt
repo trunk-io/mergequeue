@@ -20884,7 +20884,6 @@ compotor
 compound
 compounded
 cotarnin
-clar
 considerative
 compoundedness
 compounder
@@ -23243,6 +23242,7 @@ capsulotome
 constructs
 construe
 construer
+clar
 construers
 construes
 constuctor
