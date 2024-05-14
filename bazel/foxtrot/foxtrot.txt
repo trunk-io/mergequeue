@@ -2670,7 +2670,6 @@ ferrometer
 ferronatrite
 ferrophosphorus
 filicologist
-frustulose
 ferrotyping
 fluorouracil
 firn
@@ -10752,6 +10751,7 @@ faradays
 fenny
 forelaid
 frumpier
+frustulose
 frumpiest
 frutescence
 frumpish
