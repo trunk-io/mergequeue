@@ -5740,6 +5740,7 @@ belemnitic
 belemnoid
 belayed
 bowssen
+bundoc
 boer
 bkpr
 belemnoidea
@@ -6661,7 +6662,6 @@ berberia
 basiliscine
 biohazard
 berberid
-bundoc
 berberidaceae
 broils
 berberidaceous
