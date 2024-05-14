@@ -2487,7 +2487,6 @@ acinetiform
 acinetina
 acing
 acaricidal
-acinic
 aciniform
 anatomicophysiological
 adderwort
@@ -14358,6 +14357,7 @@ anthemed
 anthemene
 anthemia
 adds
+acinic
 ablactate
 archflatterer
 anthemion
