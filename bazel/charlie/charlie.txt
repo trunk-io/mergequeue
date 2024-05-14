@@ -5876,7 +5876,6 @@ cates
 catesbaea
 catface
 catfaced
-catfacing
 catfall
 catfalls
 catfight
@@ -15446,6 +15445,7 @@ clangor
 corticoefferent
 clangorous
 clangorously
+catfacing
 clangors
 cappella
 crosscut
