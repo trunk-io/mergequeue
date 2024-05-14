@@ -1346,6 +1346,7 @@ dauntlessness
 daunton
 daunts
 dauphine
+deranger
 dauphines
 drapable
 daur
@@ -7860,7 +7861,6 @@ devouringly
 devouringness
 danseusse
 devourment
-deranger
 devoutful
 decrement
 devoutlessness

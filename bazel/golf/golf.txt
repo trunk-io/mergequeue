@@ -7520,7 +7520,6 @@ gastropodous
 gowlan
 gowning
 gownsman
-gallflies
 gravamens
 gownsmen
 gowpen
@@ -8300,6 +8299,7 @@ grinds
 grateless
 gratelike
 graters
+gallflies
 gratewise
 gish
 grawls
