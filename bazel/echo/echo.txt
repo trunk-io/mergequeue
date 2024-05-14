@@ -6318,7 +6318,6 @@ endbrain
 eighteenth
 ensepulcher
 elderbush
-ensepulchre
 enseraph
 enserfed
 ethicists
@@ -14036,6 +14035,7 @@ extravagance
 extravagances
 enterobiasis
 extravagancy
+ensepulchre
 extravagant
 extravagantly
 enchantingly
