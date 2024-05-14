@@ -576,7 +576,6 @@ caduac
 cruiseway
 chirographic
 caduca
-catalineta
 caducean
 caducecei
 caducei
@@ -5829,6 +5828,7 @@ catenane
 cremates
 catenarian
 catenas
+catalineta
 catenate
 crooisite
 catenates
