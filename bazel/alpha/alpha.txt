@@ -1770,7 +1770,6 @@ accumbent
 antimonarchic
 accumulable
 accumulate
-accumulated
 accumulating
 accumulation
 accumulativ
@@ -11104,6 +11103,7 @@ amphibolia
 axometric
 amphibolic
 airiest
+accumulated
 amphibolies
 amphiboline
 amphibolite
