@@ -2678,7 +2678,6 @@ delinquents
 decompensations
 decompiler
 decomponent
-decomposability
 decomposable
 decompose
 decomposed
@@ -8703,6 +8702,7 @@ diastematomyelia
 diaster
 dyaster
 depolarizing
+decomposability
 diastereoisomerism
 diastereomer
 diastyle
