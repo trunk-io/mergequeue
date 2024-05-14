@@ -60,6 +60,7 @@ fumaria
 facaded
 faceable
 facebar
+furner
 facebow
 faced
 foreladies
@@ -2396,7 +2397,6 @@ fenter
 firkin
 flippest
 fenugreek
-furner
 flattops
 fenzelia
 feod
