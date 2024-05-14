@@ -2063,6 +2063,7 @@ banknotes
 blobbing
 bologna
 bankrider
+bilander
 brachycome
 bedlamising
 bicollaterality
@@ -8555,7 +8556,6 @@ bilamellate
 bilamellated
 bilaminar
 biland
-bilander
 becolor
 bilateral
 bilateralism
