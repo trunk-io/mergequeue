@@ -7220,7 +7220,6 @@ detecter
 detecters
 decentralist
 damnified
-detectible
 detection
 demurest
 detectives
@@ -14310,6 +14309,7 @@ distensible
 desecate
 divergenge
 divergent
+detectible
 diverges
 divers
 dzerin
