@@ -7964,7 +7964,6 @@ grangousier
 granite
 granites
 gestatorial
-greedy
 gladioli
 groundsel
 granitiform
@@ -9802,6 +9801,7 @@ guajillo
 guarantied
 gallicism
 guajira
+greedy
 gourmandize
 guajiras
 gualaca

@@ -2640,6 +2640,7 @@ electrotelegraphy
 electrotelethermometer
 endplay
 epithelioma
+episodic
 electrotellurograph
 exogens
 electrotherapeutical
@@ -9594,7 +9595,6 @@ escript
 escritoire
 encephalocele
 escritorial
-episodic
 escrow
 escrowing
 exceptio
