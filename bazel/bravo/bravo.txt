@@ -1865,7 +1865,6 @@ bandelette
 bandeng
 banderlog
 banderma
-benkulen
 banderol
 banderole
 brigading
@@ -16750,6 +16749,7 @@ berlins
 budbreak
 buddage
 botoyan
+benkulen
 buddhaship
 buddhi
 battlefront
