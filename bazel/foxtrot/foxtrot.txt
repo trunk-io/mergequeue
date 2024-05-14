@@ -5480,7 +5480,6 @@ fleuretty
 foes
 flewed
 flewit
-flews
 flibbertigibbets
 flexed
 fartherer
@@ -6708,6 +6707,7 @@ foenngreek
 forethoughtfully
 filemarks
 foeship
+flews
 flaringly
 fiddly
 foetation
