@@ -3414,7 +3414,6 @@ deflagrator
 deflate
 deflated
 dogmen
-dewar
 drynaria
 deflater
 deflates
@@ -12166,6 +12165,7 @@ defencelessness
 disfigurer
 diasper
 depositure
+dewar
 disambiguates
 disfiguring
 designed
