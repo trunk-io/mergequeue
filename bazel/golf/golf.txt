@@ -577,7 +577,6 @@ gasolines
 glycerine
 galleries
 gallerygoer
-galleriidae
 groundless
 galleryite
 gableended
@@ -3651,6 +3650,7 @@ gorgeousness
 gaminesses
 ghastliness
 gastropoda
+galleriidae
 ghats
 gamier
 ghatwazi
