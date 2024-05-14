@@ -5818,7 +5818,6 @@ glossoepiglottic
 goldwork
 glossoepiglottidean
 gulinulae
-goldless
 goldsmithery
 glossohyal
 gaultherase
@@ -9441,6 +9440,7 @@ gasped
 generating
 graphotypic
 gallygaskins
+goldless
 genteelness
 groundswell
 garni
