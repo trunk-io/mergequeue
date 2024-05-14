@@ -2352,7 +2352,6 @@ glossography
 gynaecologist
 gelatin
 gelatinate
-gelatinating
 girting
 greyfish
 goles
@@ -9333,6 +9332,7 @@ grooviest
 guldengroschen
 grope
 gropingly
+gelatinating
 geneserin
 grosbeaks
 groser
