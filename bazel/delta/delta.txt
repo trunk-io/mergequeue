@@ -4847,7 +4847,6 @@ dejected
 demodex
 degreasing
 dangs
-demodulates
 demodulating
 designless
 demodulation
@@ -10430,6 +10429,7 @@ discontinues
 diphysite
 diphysitism
 diphyzooid
+demodulates
 dyphone
 diarhemia
 damask
