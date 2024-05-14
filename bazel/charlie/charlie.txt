@@ -6638,7 +6638,6 @@ colobin
 cedars
 cedarware
 cedarwood
-ceded
 cedens
 ceders
 cedes
@@ -30298,6 +30297,7 @@ coastways
 crusadoes
 confute
 cecidomyiidous
+ceded
 cruse
 catalog
 cruset
