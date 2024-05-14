@@ -3880,7 +3880,6 @@ demonomancy
 deinotherium
 deinstitutionalization
 demagnetizable
-diasyrm
 deintellectualization
 disgusted
 deintellectualize
@@ -10204,6 +10203,7 @@ dinomic
 deselects
 dinomys
 debitor
+diasyrm
 dinophilea
 discontinuance
 dinornithic
