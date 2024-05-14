@@ -896,7 +896,6 @@ equivalences
 empirically
 ectosphenotic
 excantation
-ectosphere
 ectostosis
 emulgens
 expelled
@@ -8873,6 +8872,7 @@ ectogenous
 endarteritis
 erectopatent
 etymography
+ectosphere
 enclaret
 erectors
 erects
