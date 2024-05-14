@@ -2580,6 +2580,7 @@ composes
 canework
 compliably
 chalet
+cuirasses
 canezou
 canfield
 counterstatement
@@ -30683,7 +30684,6 @@ cuinfo
 cuing
 cuir
 cuirassed
-cuirasses
 cuirassier
 ciselures
 cuish

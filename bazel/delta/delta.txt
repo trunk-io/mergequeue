@@ -15455,6 +15455,7 @@ doms
 don
 dona
 dyslexias
+decimalize
 donable
 donaciform
 donack
@@ -17561,7 +17562,6 @@ dislodge
 despeed
 duplon
 deliverability
-decimalize
 druggery
 dialogize
 druggeries
