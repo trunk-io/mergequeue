@@ -24519,7 +24519,6 @@ coparceny
 coparenary
 coparent
 coparents
-copart
 coparty
 copartiment
 copartnery
@@ -28891,6 +28890,7 @@ cussers
 crevices
 coventries
 crevis
+copart
 crew
 crewcut
 crewe
