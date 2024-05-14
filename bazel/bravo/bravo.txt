@@ -2278,7 +2278,6 @@ barbarise
 barbarised
 barbarising
 barbarism
-barbarisms
 bronstrops
 barbarity
 barbarities
@@ -13329,6 +13328,7 @@ bardesanist
 boredness
 bothnian
 blisses
+barbarisms
 bothnic
 batteled
 bulletproofs
