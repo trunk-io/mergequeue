@@ -6642,7 +6642,6 @@ ennew
 euplotid
 enteropathy
 embryologists
-enculturative
 ergatocracy
 enteropexia
 extraduction
@@ -12598,6 +12597,7 @@ encumberment
 epilogic
 existing
 existlessness
+enculturative
 exists
 epistemological
 examining
