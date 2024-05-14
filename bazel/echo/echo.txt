@@ -5704,7 +5704,6 @@ esteemable
 esquire
 englishwomen
 englobe
-expressions
 englobed
 exophagous
 englobing
@@ -13855,6 +13854,7 @@ extracurial
 extracurricular
 extracurriculum
 extracutaneous
+expressions
 electropoion
 extradicted
 ethnics
