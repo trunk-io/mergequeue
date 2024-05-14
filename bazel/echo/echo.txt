@@ -597,7 +597,6 @@ echoless
 echolocation
 echometer
 echopractic
-echos
 echovirus
 emplacement
 examinate
@@ -13557,6 +13556,7 @@ extemporisation
 extemporised
 extemporization
 extemporized
+echos
 experientially
 effossion
 extemporizes
