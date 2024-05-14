@@ -9783,7 +9783,6 @@ dilucidate
 diluendo
 diluent
 dilutant
-dilute
 deploring
 dilutedly
 dibrom
@@ -11236,6 +11235,7 @@ disburdens
 disburgeon
 dueller
 disbury
+dilute
 disbursal
 disbursals
 disburse
