@@ -167,7 +167,6 @@ abave
 abaxial
 abaxile
 abaze
-abba
 abbacy
 abbacies
 antistrumatic
@@ -5615,6 +5614,7 @@ afterdate
 antifoam
 amadou
 afterdeal
+abba
 afterdeath
 afterdeck
 aftereffect
