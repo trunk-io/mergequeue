@@ -6361,6 +6361,7 @@ ganglander
 goby
 goliad
 gobies
+granjeno
 guttula
 geckotian
 greenyard
@@ -10845,7 +10846,6 @@ gwag
 gunneress
 granoblastic
 gweduc
-granjeno
 gadoid
 gweducks
 gweed
