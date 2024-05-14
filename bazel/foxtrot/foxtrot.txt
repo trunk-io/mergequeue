@@ -816,7 +816,6 @@ forenotion
 flog
 fissidentaceae
 firepans
-fanions
 fallout
 firebolt
 finicalness
@@ -8060,6 +8059,7 @@ forester
 facetting
 forepredicament
 foresters
+fanions
 fermentatively
 forestful
 forestial

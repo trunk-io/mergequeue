@@ -8888,7 +8888,6 @@ brewer
 bindweed
 bacillophobia
 bynedestin
-binervate
 bines
 beplumed
 bineweed
@@ -13027,6 +13026,7 @@ burdash
 boreholes
 boreiad
 bannister
+binervate
 bugseeds
 boodleism
 borel
