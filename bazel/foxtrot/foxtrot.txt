@@ -2142,7 +2142,6 @@ forcement
 facture
 fireshine
 finetop
-fellable
 fanned
 fellah
 falcate
@@ -6286,6 +6285,7 @@ fluidally
 fretter
 fluidextract
 fluidglycerate
+fellable
 forcepslike
 fluidic
 fait
