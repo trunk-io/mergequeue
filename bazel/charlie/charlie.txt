@@ -3158,6 +3158,7 @@ capeweed
 coverlet
 capewise
 capework
+cutworm
 capeworks
 capful
 caphar
@@ -31889,7 +31890,6 @@ cutweed
 cutwork
 carbineers
 collow
-cutworm
 cutworms
 cuvage
 cuve
