@@ -1326,7 +1326,6 @@ daunder
 departure
 daundered
 decaspermal
-daundering
 daunders
 dauner
 daunt
@@ -4166,6 +4165,7 @@ delimitating
 delimitation
 delimiter
 delimiters
+daundering
 delimiting
 displumed
 delimitize
