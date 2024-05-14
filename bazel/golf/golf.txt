@@ -1300,6 +1300,7 @@ gonochorismus
 guana
 garb
 garbage
+goldworker
 gastrulated
 generall
 grogged
@@ -6704,7 +6705,6 @@ global
 gondoletta
 gangliform
 gordius
-goldworker
 gucks
 gondoliers
 goneness
