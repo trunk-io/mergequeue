@@ -2186,6 +2186,7 @@ gazetteerish
 gazetteers
 gazetteership
 goyetian
+geonim
 gadder
 gazophylacium
 gansey
@@ -3436,7 +3437,6 @@ germule
 gossoon
 goodlike
 gerocomical
-geonim
 gerodontic
 gerodontology
 generalizes
