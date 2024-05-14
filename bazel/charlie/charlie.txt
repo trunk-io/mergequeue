@@ -4219,7 +4219,6 @@ cardophagus
 cardosanto
 clearwing
 carbamido
-chauffeur
 cardsharp
 cerebripetal
 cardsharping
@@ -17687,6 +17686,7 @@ cochurchwarden
 corke
 cocillana
 cocin
+chauffeur
 cocinera
 cocircular
 commutual
