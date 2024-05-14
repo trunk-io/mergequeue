@@ -4420,7 +4420,6 @@ bebusy
 bebuttoned
 bushbodies
 batiker
-bec
 bowlders
 becall
 boisseaux
@@ -11663,6 +11662,7 @@ bobbed
 boatsmen
 boatsteerer
 brandying
+bec
 boatswain
 boatswains
 boattail
