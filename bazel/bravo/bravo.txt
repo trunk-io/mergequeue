@@ -5796,7 +5796,6 @@ beliers
 belies
 believability
 believed
-believer
 believers
 believes
 blankite
@@ -10044,6 +10043,7 @@ bivariate
 bivascular
 binodous
 bivector
+believer
 biventer
 bayonetting
 blights
