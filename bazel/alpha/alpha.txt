@@ -715,7 +715,6 @@ absorbency
 abortive
 acyrological
 acusection
-abortiveness
 abortogenic
 antiaesthetic
 abos
@@ -5346,6 +5345,7 @@ analects
 affines
 affinitative
 affinitatively
+abortiveness
 aggerate
 affinities
 affinition
