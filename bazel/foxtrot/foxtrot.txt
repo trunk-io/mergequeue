@@ -3299,7 +3299,6 @@ functorial
 fidawi
 ferroinclave
 flairs
-fiddle
 faceoff
 fantod
 fiddlebow
@@ -4078,6 +4077,7 @@ fiddledeedee
 finnicize
 fellows
 forekeel
+fiddle
 finnick
 finnickier
 formazyl
