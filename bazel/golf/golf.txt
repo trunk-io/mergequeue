@@ -2578,7 +2578,6 @@ gospodar
 glenwood
 genapping
 genarch
-galenian
 guildite
 gossaniferous
 geranomorphic
@@ -10259,6 +10258,7 @@ gab
 gil
 gry
 gratifies
+galenian
 guise
 guitar
 grubhood
