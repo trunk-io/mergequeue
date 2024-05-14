@@ -14564,7 +14564,6 @@ compounds
 cirratulidae
 cirratulus
 cirrhose
-cirrhosed
 cirrhosis
 cartels
 cirrhotic
@@ -28599,6 +28598,7 @@ creekfish
 creekfishes
 catoptrical
 creekstuff
+cirrhosed
 creel
 climatography
 creels
