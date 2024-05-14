@@ -490,6 +490,7 @@ devocalize
 dustblu
 daleswoman
 daleth
+deserter
 daleths
 dalf
 daliance
@@ -6638,7 +6639,6 @@ deperming
 desert
 deserted
 desertedly
-deserter
 deserters
 deescalated
 denotational
