@@ -1919,7 +1919,6 @@ bandog
 bandanas
 bandogs
 bonfire
-bandoleer
 burlesquely
 bumf
 bancus
@@ -11042,6 +11041,7 @@ bloatedness
 bloaters
 builded
 banagos
+bandoleer
 blubbers
 bisaccate
 bloating
