@@ -681,7 +681,6 @@ balanophorin
 bechances
 beletter
 bacteriotoxin
-bacteriotrypsin
 bynames
 bacteriotropic
 bubonoceze
@@ -11646,6 +11645,7 @@ bewonder
 brahminist
 browband
 boccale
+bacteriotrypsin
 boatlike
 boatlip
 boatload
