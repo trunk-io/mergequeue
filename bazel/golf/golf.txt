@@ -4870,6 +4870,7 @@ giveaways
 gentling
 genies
 givens
+glost
 garderobe
 giver
 givers
@@ -7165,7 +7166,6 @@ gatherer
 gutsier
 gorgonised
 grasshopperdom
-glost
 gad
 goopy
 glaciate
