@@ -5086,7 +5086,6 @@ flashtubes
 flask
 forevouched
 forslack
-feltlike
 ferricyanhydric
 flasker
 foretooth
@@ -5793,6 +5792,7 @@ featherback
 fellowess
 flittered
 flittermice
+feltlike
 fluviation
 flittermmice
 footrill
