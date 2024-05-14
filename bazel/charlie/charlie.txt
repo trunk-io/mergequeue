@@ -9664,7 +9664,6 @@ cheeper
 cheepers
 cheepier
 cheepiest
-cheepiness
 cheeps
 cyathozooid
 cheered
@@ -25892,6 +25891,7 @@ clawback
 concert
 corruptibly
 corrupting
+cheepiness
 coolant
 corruptingly
 corruption
