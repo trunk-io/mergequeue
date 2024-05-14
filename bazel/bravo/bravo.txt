@@ -4663,7 +4663,6 @@ bedchair
 bedchairs
 bellowing
 buntal
-bryophyte
 bratstva
 bedclothing
 bedcovers
@@ -5425,6 +5424,7 @@ begrimmed
 balloons
 beseemly
 bookish
+bryophyte
 begroan
 baileys
 begroans
