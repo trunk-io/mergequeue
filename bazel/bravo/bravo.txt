@@ -1422,6 +1422,7 @@ baled
 bonaught
 baleen
 baleens
+bespray
 balefire
 balefires
 balefully
@@ -7232,7 +7233,6 @@ bewit
 batardeau
 bespout
 bemuzzled
-bespray
 bespread
 bespreng
 besprent
