@@ -238,7 +238,6 @@ faculty
 font
 faculties
 frostbound
-facultize
 frightening
 firmest
 firiness
@@ -5548,6 +5547,7 @@ felsophyre
 flatulences
 favourite
 firefight
+facultize
 flycatcher
 flycatchers
 flicflac

@@ -4781,7 +4781,6 @@ aedilities
 aedoeagi
 aedoeagus
 aefald
-aefaldy
 aefauld
 aegagri
 aegagropila
@@ -23289,6 +23288,7 @@ audacity
 audacities
 audad
 aurora
+aefaldy
 audads
 audaean
 audian
