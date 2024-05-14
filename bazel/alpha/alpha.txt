@@ -5307,6 +5307,7 @@ agrias
 ameloblastic
 ascensor
 affeir
+alternisepalous
 affenpinscher
 affere
 affiance
@@ -9507,7 +9508,6 @@ angioblast
 alternator
 alternifoliate
 alternipetalous
-alternisepalous
 alternity
 alternize
 alterocentric
