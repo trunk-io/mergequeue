@@ -1620,7 +1620,6 @@ egregiously
 egregiousness
 equus
 egremoigne
-eigenfrequency
 egress
 emissarium
 egressed
@@ -4239,6 +4238,7 @@ emulsifications
 expolish
 expendible
 emulsified
+eigenfrequency
 epityphlon
 entrechats
 endometrium
