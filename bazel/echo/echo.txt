@@ -4877,7 +4877,6 @@ endboard
 endbrains
 extemporaneous
 encrinoid
-enantiomorphism
 ende
 errite
 endocardium
@@ -7597,6 +7596,7 @@ epicoelous
 ep
 embarment
 elephas
+enantiomorphism
 epicolic
 epicondyle
 endromididae
