@@ -10526,6 +10526,7 @@ child
 childage
 childbearing
 childbed
+confidant
 childcrowing
 cunni
 childed
@@ -21957,7 +21958,6 @@ confessorship
 confetti
 confetto
 conocephalus
-confidant
 cymbella
 confidante
 coresort
