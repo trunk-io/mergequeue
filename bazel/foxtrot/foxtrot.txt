@@ -4414,6 +4414,7 @@ fishpoles
 farms
 fishponds
 fishpotter
+feasance
 fishskin
 fistfuls
 fashioned
@@ -10216,7 +10217,6 @@ frithbot
 frithy
 fonds
 facula
-feasance
 formiate
 fideles
 functionality
