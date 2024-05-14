@@ -14275,7 +14275,6 @@ clink
 caulerpa
 colanders
 circularization
-circularized
 circularizer
 chartology
 circularizers
@@ -27318,6 +27317,7 @@ coalboxes
 countryside
 countryward
 countrywoman
+circularized
 countrywomen
 counts
 countship
