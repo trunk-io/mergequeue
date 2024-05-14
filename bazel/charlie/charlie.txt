@@ -7208,7 +7208,6 @@ centralism
 cepheus
 centrality
 centralities
-centripetally
 centralization
 centralize
 consociate
@@ -28428,6 +28427,7 @@ creakier
 creakiest
 creakily
 creakiness
+centripetally
 creaking
 creaks
 creambush
