@@ -2541,7 +2541,6 @@ ferrotypes
 flexity
 falsen
 fermions
-fermium
 fern
 fastigium
 floripondio
@@ -6421,6 +6420,7 @@ fluorescigenous
 farrandly
 fronture
 foredooms
+fermium
 frogspawn
 fluorhydric
 fluoric
