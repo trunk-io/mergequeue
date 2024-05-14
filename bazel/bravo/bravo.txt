@@ -8332,7 +8332,6 @@ bifilar
 bifilarly
 biflabellate
 biflagelate
-biflagellate
 bewaring
 backstop
 biflected
@@ -10538,6 +10537,7 @@ blastomycetic
 blastomycotic
 benignities
 bismuthic
+biflagellate
 blastoneuropore
 bogan
 blastophyllum
