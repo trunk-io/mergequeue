@@ -7530,7 +7530,6 @@ foreassign
 foreassurance
 forebay
 friendliest
-fragmentization
 fructus
 feathering
 fackins
@@ -11524,6 +11523,7 @@ frictionize
 fusariosis
 fusarole
 fusate
+fragmentization
 fusc
 fallings
 fuscin
