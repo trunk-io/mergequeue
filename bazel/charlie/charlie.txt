@@ -16025,7 +16025,6 @@ clerestories
 clerete
 clergess
 clergy
-clergyable
 clergylike
 cyclos
 clergymen
@@ -25572,6 +25571,7 @@ coronas
 coronate
 catmalison
 corrosible
+clergyable
 coronations
 coronatorial
 coronel
