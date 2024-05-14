@@ -10481,6 +10481,7 @@ clear
 chifforobes
 crosswalk
 chiffre
+compacture
 chigetai
 chigetais
 chigga
@@ -20426,7 +20427,6 @@ compactor
 compactors
 cardiataxia
 compacts
-compacture
 compadre
 compadres
 compage
