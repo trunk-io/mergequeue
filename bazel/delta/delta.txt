@@ -4305,7 +4305,6 @@ dels
 delsarte
 delsartian
 delta
-deltahedra
 deltaic
 deltaite
 deltalike
@@ -14096,6 +14095,7 @@ diterpene
 discrediting
 defleaing
 disulphoxide
+deltahedra
 disulphuric
 dinky
 disencrease
