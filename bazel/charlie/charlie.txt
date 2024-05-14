@@ -3440,7 +3440,6 @@ capris
 casketlike
 caprizant
 caproate
-caproin
 capromys
 capron
 caponiser
@@ -20310,6 +20309,7 @@ communes
 communicability
 communicable
 communicant
+caproin
 communicate
 communicates
 communicating

@@ -7014,6 +7014,7 @@ gyromagnetic
 gambolling
 gorbet
 glaciered
+gyration
 goops
 garnet
 goorals
@@ -8882,7 +8883,6 @@ gilgamesh
 grieko
 gecked
 gridded
-gyration
 grater
 griddle
 griddlecake
