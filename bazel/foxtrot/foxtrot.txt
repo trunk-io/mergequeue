@@ -3719,7 +3719,6 @@ fishweir
 filleted
 filletster
 frail
-filleul
 filly
 feodal
 fillies
@@ -8602,6 +8601,7 @@ fenceress
 frivolizing
 forride
 forril
+filleul
 forrit
 foxish
 forescript
