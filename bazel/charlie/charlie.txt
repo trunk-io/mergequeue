@@ -27320,7 +27320,6 @@ countrywomen
 counts
 countship
 coup
-coupage
 coupe
 couped
 cicrumspections
@@ -30525,6 +30524,7 @@ comforted
 cubododecahedral
 cuboid
 cuboidal
+coupage
 caldera
 cuboides
 cuboids
