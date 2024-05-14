@@ -8457,7 +8457,6 @@ eponymies
 encarnadine
 eponymist
 etiolate
-eponyms
 eponymus
 excusingly
 epoophoron
@@ -12709,6 +12708,7 @@ ethionine
 expandibility
 entame
 exonarthex
+eponyms
 epicotyledonary
 exonerate
 exonerating
