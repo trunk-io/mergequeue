@@ -2712,7 +2712,6 @@ gasterophilus
 gonocalyx
 guinea
 genethlialogic
-genethlialogical
 galores
 gulanganes
 graal
@@ -8924,6 +8923,7 @@ ghaist
 grievance
 grievances
 gel
+genethlialogical
 grievants
 grievedly
 gazy
