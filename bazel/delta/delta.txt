@@ -8254,7 +8254,6 @@ diagnosable
 diagnose
 diagnosed
 diacetyls
-diagnosis
 diagnostical
 diagnostically
 diagnosticate
@@ -12877,6 +12876,7 @@ dasnt
 disaffectedness
 distains
 disoperculate
+diagnosis
 desmosome
 disopinion
 depressionary
