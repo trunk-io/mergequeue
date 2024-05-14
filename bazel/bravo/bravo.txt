@@ -1133,7 +1133,6 @@ bedimmed
 brindled
 bluethroat
 bienseance
-bairnlier
 bairns
 bairnteam
 bootful
@@ -6640,6 +6639,7 @@ bequeathing
 brawled
 bequeaths
 bequest
+bairnlier
 bullyingly
 bequests
 ber
