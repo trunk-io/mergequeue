@@ -1359,7 +1359,6 @@ gardenmaking
 gardevin
 granulose
 galium
-gardevisure
 gardy
 ginkgo
 gardinol
@@ -6735,6 +6734,7 @@ gong
 gunreach
 gonged
 gonging
+gardevisure
 gekkota
 gonomery
 gongorist

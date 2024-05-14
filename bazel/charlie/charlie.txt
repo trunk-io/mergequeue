@@ -2653,7 +2653,6 @@ cankerweed
 clubmen
 cankerwort
 canli
-coff
 combinatorics
 canmaker
 climbs
@@ -22509,6 +22508,7 @@ chitinized
 cochlearifoliate
 conjugal
 conjugales
+coff
 conjugality
 comburimetry
 conjugant
