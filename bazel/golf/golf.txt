@@ -53,7 +53,6 @@ gabionade
 gliderport
 gouty
 gabioned
-grammes
 gabions
 gips
 gelatiniser
@@ -7125,6 +7124,7 @@ gibbsites
 gordon
 gore
 gulfing
+grammes
 gorebill
 gearboxes
 gored
