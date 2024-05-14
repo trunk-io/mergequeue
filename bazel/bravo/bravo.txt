@@ -16136,7 +16136,6 @@ bulla
 bagnette
 brimstony
 brothels
-breweries
 bistorta
 borrowing
 brother
@@ -17426,6 +17425,7 @@ blanketer
 bungalow
 bungalows
 bungarum
+breweries
 beauish
 breviary
 bungarus
