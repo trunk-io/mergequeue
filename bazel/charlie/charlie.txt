@@ -18911,7 +18911,6 @@ checked
 collages
 collapsability
 collapsable
-collapsar
 cascado
 collapse
 collapsed
@@ -26100,6 +26099,7 @@ cosy
 caulicule
 carapacial
 cosie
+collapsar
 cosier
 cosies
 cosign
