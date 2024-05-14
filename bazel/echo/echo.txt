@@ -5482,7 +5482,6 @@ episcopy
 enfeeblements
 empestic
 espiritual
-enfeebles
 enfeebling
 enent
 enfeeblish
@@ -9129,6 +9128,7 @@ eelier
 enbranglement
 eskimo
 erythrocytometer
+enfeebles
 erythrocytometry
 erythrocytoschisis
 erythrocytosis
