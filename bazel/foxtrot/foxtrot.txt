@@ -9367,7 +9367,6 @@ franchisers
 franchises
 flagons
 fordull
-front
 fervors
 frivoling
 flintier
@@ -11244,6 +11243,7 @@ funiform
 funipendulous
 funje
 facinorous
+front
 funk
 funked
 funkers
