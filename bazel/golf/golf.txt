@@ -2581,7 +2581,6 @@ genarch
 galenian
 guildite
 gossaniferous
-geranomorphic
 gendarmery
 geobotanical
 gendarmerie
@@ -5716,6 +5715,7 @@ goatbrush
 gloomings
 gunyang
 glanis
+geranomorphic
 geologers
 gearings
 gastralgic
