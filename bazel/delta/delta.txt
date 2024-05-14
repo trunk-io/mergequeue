@@ -807,7 +807,6 @@ deduced
 dangerousness
 dangers
 dangle
-dangleberry
 dangled
 depressive
 danglers
@@ -8957,6 +8956,7 @@ dichromat
 dichromatic
 dichromaticism
 dichromatism
+dangleberry
 debonairty
 dispeller
 dichromic
