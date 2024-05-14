@@ -10533,7 +10533,6 @@ dungbird
 determinateness
 dipleurogenesis
 defected
-desugar
 dep
 dimeric
 devot
@@ -13603,6 +13602,7 @@ disserviceably
 disservices
 disserving
 dissettle
+desugar
 dissettlement
 dissever
 disseveration
