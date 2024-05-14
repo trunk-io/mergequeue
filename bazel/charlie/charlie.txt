@@ -7352,7 +7352,6 @@ centurial
 concerto
 covenably
 centuriate
-centuriator
 centuried
 centuries
 chimera
@@ -23439,6 +23438,7 @@ contemplature
 contemple
 campanularia
 contemporanean
+centuriator
 contemporaneity
 contemporaneous
 contemporaneousness
