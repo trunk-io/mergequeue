@@ -3902,7 +3902,6 @@ gift
 giftbook
 greasy
 giftedly
-gobbin
 gigelira
 guttate
 gregarianism
@@ -5407,6 +5406,7 @@ glibly
 globulolysis
 glycoluric
 glycoluril
+gobbin
 glossolabiopharyngeal
 glyconean
 glyconeogenesis
