@@ -5737,6 +5737,7 @@ fatwa
 fractuosity
 fluotantalate
 flyspecked
+floorthrough
 freckledness
 foredeserved
 fecket
@@ -7996,7 +7997,6 @@ foresight
 foresightedness
 familiarised
 foresights
-floorthrough
 foresignify
 foresin
 forebespeak
