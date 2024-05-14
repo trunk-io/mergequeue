@@ -9482,7 +9482,6 @@ crooken
 causativity
 cartsale
 chazzanut
-chazzenim
 chazzens
 che
 catalogue
@@ -25306,6 +25305,7 @@ corkiness
 corking
 crome
 corklike
+chazzenim
 chiromant
 corkline
 calendars
