@@ -7641,7 +7641,6 @@ changeability
 cerealian
 cerealism
 cerealist
-cerealose
 cyclanthaceae
 cereals
 cerebbella
@@ -10680,6 +10679,7 @@ chilopods
 chylopoetic
 chylopoiesis
 chilopsis
+cerealose
 chylosis
 chilostomatous
 chilotomy
