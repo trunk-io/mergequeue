@@ -7817,6 +7817,7 @@ cerote
 cesura
 cerotic
 cerotin
+contrahent
 cerotypes
 confirmedly
 cerous
@@ -29908,7 +29909,6 @@ crossopt
 crossopterygii
 crossosoma
 crossosomataceous
-contrahent
 crossover
 crossovers
 crosspatch
