@@ -6416,7 +6416,6 @@ fronture
 foredooms
 frogspawn
 fluorhydric
-fluoric
 fluoridate
 filtered
 formularization
@@ -10828,6 +10827,7 @@ furfurole
 fuchsins
 fluviose
 followings
+fluoric
 flowcharting
 fuchsite
 fuchsone
