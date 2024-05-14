@@ -2760,7 +2760,6 @@ baronesses
 bordello
 baronet
 backtack
-baronetcy
 baronetcies
 buboed
 bookies
@@ -3200,6 +3199,7 @@ basidigitale
 basidigitalia
 basidiolichen
 basidiomycete
+baronetcy
 baclava
 bravish
 bushed
