@@ -2660,6 +2660,7 @@ coff
 combinatorics
 canmaker
 climbs
+clod
 canman
 canna
 churr
@@ -28351,7 +28352,6 @@ cravening
 cravenly
 cravenness
 cravens
-clod
 craver
 cravers
 craving
