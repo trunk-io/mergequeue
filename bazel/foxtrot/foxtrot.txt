@@ -3466,7 +3466,6 @@ figary
 figaro
 farm
 figeater
-fat
 floriate
 figent
 fascisti
@@ -9145,6 +9144,7 @@ foxholes
 film
 furnace
 foxhounds
+fat
 filterer
 fleabanes
 foxily
