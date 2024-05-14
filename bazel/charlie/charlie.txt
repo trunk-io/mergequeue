@@ -17462,7 +17462,6 @@ cobbles
 cobblestone
 cobblestoned
 cobblestones
-chokeweed
 cobbling
 cobbra
 cobbs
@@ -31421,6 +31420,7 @@ calcites
 currach
 currachs
 currack
+chokeweed
 curragh
 currajong
 curran
