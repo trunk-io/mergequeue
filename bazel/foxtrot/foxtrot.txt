@@ -2870,7 +2870,6 @@ fitcher
 faunae
 fenestration
 filanders
-farmsteads
 fetching
 feterita
 foxproof
@@ -4790,6 +4789,7 @@ fullwords
 faena
 faunula
 figurehead
+farmsteads
 financed
 flagrancy
 freshens
