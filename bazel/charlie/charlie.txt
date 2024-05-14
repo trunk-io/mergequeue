@@ -3438,7 +3438,6 @@ chordotonal
 cytosporina
 caducecaducean
 capris
-casketlike
 caprizant
 caproate
 caproin
@@ -20693,6 +20692,7 @@ complementoid
 cooperations
 complete
 completement
+casketlike
 canzos
 cassabanana
 completeness
