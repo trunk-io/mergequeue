@@ -1097,7 +1097,6 @@ calciobiotite
 calciocarnotite
 calcioferrite
 calcioscheelite
-calciovolborthite
 calcipexy
 clarity
 calciphylactic
@@ -16795,6 +16794,7 @@ clouted
 clouter
 clouterly
 clouty
+calciovolborthite
 clouting
 connoisseurship
 clouts
