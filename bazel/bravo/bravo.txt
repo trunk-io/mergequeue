@@ -280,7 +280,6 @@ bocardo
 bohawn
 backadation
 backage
-bejumble
 backare
 burdensomeness
 backarrow
@@ -16849,6 +16848,7 @@ buzzer
 buffin
 butut
 betas
+bejumble
 balkline
 buffing
 bufflehead
