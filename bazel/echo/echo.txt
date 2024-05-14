@@ -1807,7 +1807,6 @@ eigenvectors
 eyght
 enigmatic
 evaginated
-eightball
 eyer
 eightballs
 explicatory
@@ -11296,6 +11295,7 @@ evang
 equipt
 evangelary
 easinesses
+eightball
 elaeosia
 embrawn
 evangeliary
