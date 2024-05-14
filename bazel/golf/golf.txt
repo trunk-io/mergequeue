@@ -4699,7 +4699,6 @@ glared
 giro
 ganch
 gonake
-glossae
 gillhooter
 glycose
 gyroceran
@@ -8548,6 +8547,7 @@ greaseproof
 grapevine
 greaseproofness
 germinating
+glossae
 gastronomical
 gnatflower
 grandmotherhood
