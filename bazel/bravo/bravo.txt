@@ -3610,6 +3610,7 @@ bulreedy
 blockhouse
 bastinadoes
 beckoning
+boarhound
 backsplice
 bloodsucker
 bathyplankton
@@ -11598,7 +11599,6 @@ bullan
 boardsmanship
 boardwalks
 boarfish
-boarhound
 battledored
 benefactrix
 bursar
