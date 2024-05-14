@@ -3737,6 +3737,7 @@ ferroconcrete
 fillips
 fillmore
 fosse
+flans
 fosh
 foujdary
 farmable
@@ -10128,7 +10129,6 @@ frontopontine
 florigen
 frimitts
 fringed
-flans
 fulgora
 fistulated
 fringehead
