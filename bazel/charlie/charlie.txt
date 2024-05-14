@@ -7504,7 +7504,6 @@ cequi
 cerago
 ceramal
 chessman
-ceramals
 cerambycid
 coruscations
 cerambycidae
@@ -31481,6 +31480,7 @@ cursed
 cursedest
 choregraphy
 cursedly
+ceramals
 cursedness
 cursement
 cursen
