@@ -716,7 +716,6 @@ dance
 danceability
 danceable
 diaskeuast
-danced
 diddled
 degasification
 dancers
@@ -10960,6 +10959,7 @@ disaffections
 disaffiliate
 disaffiliated
 diurnalness
+danced
 disaffiliation
 dialectologies
 disaffinity

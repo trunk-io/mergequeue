@@ -11698,6 +11698,7 @@ choleric
 cholerically
 cricothyroid
 cholericness
+cobb
 choleriform
 cholerigenous
 cholerine
@@ -17440,7 +17441,6 @@ cobaltocyanide
 cobaltous
 cobalts
 cobang
-cobb
 cobber
 crosstrees
 chazzen
