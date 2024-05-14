@@ -6051,6 +6051,7 @@ belowstairs
 blab
 belozenged
 belsire
+bookroom
 beltane
 bactericholia
 bimetalic
@@ -12456,7 +12457,6 @@ bondmen
 bondminder
 bondon
 bructeri
-bookroom
 bawdrick
 bierbalk
 bondservant
