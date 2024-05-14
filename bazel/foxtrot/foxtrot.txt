@@ -2461,6 +2461,7 @@ freelage
 fantods
 feridjee
 falls
+frisco
 fervidor
 furnacemen
 fusteric
@@ -10173,7 +10174,6 @@ friscal
 flatfish
 familistical
 favor
-frisco
 flannelled
 fleyed
 flarfish
