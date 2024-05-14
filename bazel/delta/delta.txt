@@ -6644,7 +6644,6 @@ desertion
 didymitis
 desertions
 desertism
-desertless
 desertlessly
 desertness
 desertress
@@ -8319,6 +8318,7 @@ dyakish
 diakonikon
 dissert
 dial
+desertless
 dialcohol
 dialect
 dialectal
