@@ -1886,6 +1886,7 @@ fec
 fecaloid
 fertilized
 fruittime
+fluctuable
 fizzer
 fecial
 fecifork
@@ -6235,7 +6236,6 @@ fulling
 fairest
 fluorogenic
 fluctisonant
-fluctuable
 fibroplasia
 fundholder
 fudder
