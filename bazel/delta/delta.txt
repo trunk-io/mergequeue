@@ -3055,7 +3055,6 @@ deemphasized
 deems
 deemster
 difluence
-dendroid
 deeny
 deepen
 deepened
@@ -12542,6 +12541,7 @@ disinsectization
 dichroiscope
 dorsoventral
 degums
+dendroid
 disinsulation
 disinsure
 disintegrable
