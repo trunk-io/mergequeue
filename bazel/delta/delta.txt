@@ -4165,6 +4165,7 @@ delimiter
 delimiters
 delimiting
 displumed
+deuterate
 delimitize
 diphyletic
 delimitized
@@ -7495,7 +7496,6 @@ divagational
 deuteranope
 decretorily
 deuteranopia
-deuterate
 ditremidae
 deuteration
 denucleate
