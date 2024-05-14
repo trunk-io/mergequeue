@@ -4139,6 +4139,7 @@ gimbal
 groundsheet
 granum
 groining
+gaulter
 guildry
 grifted
 gimblet
@@ -10394,7 +10395,6 @@ geepound
 gulph
 getable
 gulping
-gaulter
 gynostemium
 gaucher
 gangrene
