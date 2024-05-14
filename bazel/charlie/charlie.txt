@@ -6338,7 +6338,6 @@ causeuse
 causeuses
 cajaput
 causeway
-causewayed
 cannellated
 causewaying
 causewayman
@@ -30083,6 +30082,7 @@ crownets
 caprinic
 crownland
 crownless
+causewayed
 crownlike
 crownmaker
 crownment
