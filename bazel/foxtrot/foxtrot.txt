@@ -2601,7 +2601,6 @@ ferredoxin
 ferreled
 fibrilla
 ferreling
-ferrelling
 forwake
 ferriferous
 folder
@@ -8813,6 +8812,7 @@ forwork
 feoffing
 forwrap
 fallacia
+ferrelling
 forz
 forzando
 fulgor
