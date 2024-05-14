@@ -3819,6 +3819,7 @@ engladden
 emf
 emforth
 emic
+eutexia
 eudendrium
 emication
 emyde
@@ -11198,7 +11199,6 @@ erroneously
 euterpe
 echar
 euterpean
-eutexia
 euthamia
 ecchondrosis
 euthenasia
