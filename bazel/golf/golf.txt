@@ -2374,7 +2374,6 @@ gelatinity
 gyrectomies
 gelatinizability
 gaveler
-gelatinizable
 galvanography
 graphometer
 gelatinization
@@ -6397,6 +6396,7 @@ glyoxylic
 generalize
 gruneritization
 grubstaker
+gelatinizable
 gibblegable
 guarantorship
 geographic
