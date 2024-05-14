@@ -4630,6 +4630,7 @@ buttonholer
 bedad
 bladeless
 bedaggered
+blackmail
 basecoat
 bedaggle
 beday
@@ -10250,7 +10251,6 @@ beparse
 blacklists
 brainer
 breviaries
-blackmail
 banian
 blackmailed
 bataleur
