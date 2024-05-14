@@ -4131,6 +4131,7 @@ fireboat
 fireboy
 firebolted
 firebomb
+freed
 fakiness
 firebombing
 frostlike
@@ -9655,7 +9656,6 @@ freebooter
 freebootery
 fleetings
 freebooting
-freed
 freedman
 feltwork
 facete

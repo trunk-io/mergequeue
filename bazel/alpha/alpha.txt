@@ -3665,7 +3665,6 @@ assedat
 adenanthera
 agora
 adenase
-adenasthenia
 alod
 adendritic
 adenectomy
@@ -8468,6 +8467,7 @@ alkahestica
 alkaid
 alkalemia
 anesthesiometer
+adenasthenia
 areopagitic
 alumroots
 arcadia
