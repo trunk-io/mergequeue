@@ -2998,7 +2998,6 @@ bartends
 baggywrinkle
 barter
 barterers
-bartering
 barters
 blood
 barth
@@ -3633,6 +3632,7 @@ bathmism
 bathochromatism
 bathochromy
 bathochromic
+bartering
 bathoflore
 batholith
 bibliomaniacal
