@@ -2957,7 +2957,6 @@ cantilene
 cantilenes
 cantilever
 cantilevered
-cantilevering
 cantilevers
 cantily
 choroidea
@@ -30080,6 +30079,7 @@ crownbeard
 crowned
 crowner
 crownet
+cantilevering
 crownets
 caprinic
 crownland
