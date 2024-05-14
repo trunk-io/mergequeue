@@ -7755,7 +7755,6 @@ cerianthus
 cerias
 ceride
 cerillo
-ceriman
 cerimans
 cerine
 carbonadoes
@@ -19078,6 +19077,7 @@ collidine
 cetacea
 collie
 collied
+ceriman
 collielike
 collier
 chariots
