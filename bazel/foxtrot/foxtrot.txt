@@ -2618,6 +2618,7 @@ flanes
 ferryboat
 ferryboats
 familistery
+fridstool
 ferricyanate
 fella
 ferrandin
@@ -3662,7 +3663,6 @@ foreboard
 filiformed
 filigera
 fifteenth
-fridstool
 filigrain
 functionalistic
 fetishists
