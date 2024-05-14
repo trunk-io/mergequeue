@@ -2114,7 +2114,6 @@ bannerols
 bannet
 bannisters
 birthmarks
-bioflavinoid
 bannock
 blamer
 buyers
@@ -16977,6 +16976,7 @@ bukshee
 bul
 brittler
 bullets
+bioflavinoid
 babylonic
 bulb
 bulbar
