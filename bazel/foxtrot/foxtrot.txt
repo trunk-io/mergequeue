@@ -2566,7 +2566,6 @@ forlorner
 foolhardihood
 fernticle
 fordo
-fernwort
 ferocious
 fatales
 ferociously
@@ -11402,6 +11401,7 @@ facsimilist
 furls
 furmenty
 furmenties
+fernwort
 felling
 furmeties
 fluencies
