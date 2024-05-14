@@ -6050,7 +6050,6 @@ aggrandising
 affusedaffusing
 altimettrically
 aggrandizable
-aggrandize
 aggrandizement
 aggrandizements
 agriculture
@@ -21173,6 +21172,7 @@ ashy
 automatist
 angiomata
 adermia
+aggrandize
 ashier
 ashiest
 alderliefest
