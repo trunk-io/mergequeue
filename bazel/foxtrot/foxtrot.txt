@@ -9147,7 +9147,6 @@ film
 furnace
 foxhounds
 filterer
-fleabanes
 foxily
 fissipedia
 farrowed
@@ -11620,6 +11619,7 @@ fussily
 fussiness
 friend
 fussing
+fleabanes
 fatigues
 fluorindine
 febrifugal

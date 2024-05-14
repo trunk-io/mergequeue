@@ -935,7 +935,6 @@ ectropionize
 ectropium
 etui
 enantiotropic
-ectropometer
 eviction
 ectrosyndactyly
 ectrotic
@@ -6614,6 +6613,7 @@ enterohemorrhage
 estatesman
 enantiomeric
 enterohydrocele
+ectropometer
 escarped
 emanative
 escalates
