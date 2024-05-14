@@ -19329,6 +19329,7 @@ colonies
 colonisability
 colonisable
 colonisationist
+complainant
 colonise
 colonised
 colonising
@@ -20646,7 +20647,6 @@ complacentially
 complacently
 chantant
 complain
-complainant
 complainants
 complained
 complainers
