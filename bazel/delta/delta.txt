@@ -405,6 +405,7 @@ dairi
 densitometry
 diathermia
 deboning
+deflorations
 dairies
 dairying
 dairyings
@@ -3469,7 +3470,6 @@ deflorate
 doubting
 duendes
 defloration
-deflorations
 dengues
 deflore
 dropforged
