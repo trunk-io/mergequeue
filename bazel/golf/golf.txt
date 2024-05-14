@@ -8992,6 +8992,7 @@ grager
 guaiocum
 garbs
 grilse
+gr
 gunstocks
 grantsmanship
 grassweed
@@ -10238,7 +10239,6 @@ guimbard
 guimpe
 gouging
 guinde
-gr
 grayer
 gorsehatch
 gauzelike
