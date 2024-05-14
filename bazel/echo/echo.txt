@@ -6065,7 +6065,6 @@ evagation
 entertainers
 enneahedral
 enneahedria
-enneahedron
 eyepoints
 enneahedrons
 eustatic
@@ -7441,6 +7440,7 @@ ephemeromorphic
 ephemeroptera
 eigne
 ephererist
+enneahedron
 ephesian
 evangelists
 ephestia
