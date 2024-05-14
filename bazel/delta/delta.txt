@@ -2647,6 +2647,7 @@ decolonize
 decolonizes
 desalter
 decoloring
+dulcite
 decolorisation
 decolorising
 dispose
@@ -18027,7 +18028,6 @@ dulcin
 dulcinea
 damping
 dulcineas
-dulcite
 dulcity
 dulcitol
 dulcitude
