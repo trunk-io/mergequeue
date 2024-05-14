@@ -7382,7 +7382,6 @@ geyser
 gnatproof
 goulan
 gesellschaften
-galenas
 goularo
 goulash
 goulashes
@@ -10238,6 +10237,7 @@ guimbard
 guimpe
 gouging
 guinde
+galenas
 gr
 grayer
 gorsehatch
