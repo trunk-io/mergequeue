@@ -9549,7 +9549,6 @@ climatically
 chaetites
 checkbooks
 checker
-cartoned
 checkerbelly
 checkerbellies
 checkerberry
@@ -13645,6 +13644,7 @@ compilers
 chisel
 cylindroid
 cylindroidal
+cartoned
 cylindroma
 cylindromata
 cylindromatous
