@@ -1696,6 +1696,7 @@ attire
 appurtenances
 accoutrement
 accoutrements
+assizer
 angioclast
 accoutres
 accoutring
@@ -22188,7 +22189,6 @@ archworkmaster
 astoundingly
 astounds
 astracism
-assizer
 antasphyctic
 antbird
 axially
