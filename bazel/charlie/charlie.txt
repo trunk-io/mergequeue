@@ -4856,6 +4856,7 @@ carryings
 carriole
 carrioles
 cutwaters
+converging
 carryon
 carrions
 carryons
@@ -24092,7 +24093,6 @@ convergent
 chemoceptor
 converges
 convergescence
-converging
 conversable
 conversableness
 conversancy
