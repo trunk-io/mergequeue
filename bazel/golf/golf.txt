@@ -2305,7 +2305,6 @@ gaits
 gallantry
 griseofulvin
 gorgonacean
-geyerite
 geiger
 gospeller
 gangrel
@@ -6073,6 +6072,7 @@ griots
 gardencraft
 glutamine
 genevois
+geyerite
 ginkgoes
 garigue
 gymnemic
