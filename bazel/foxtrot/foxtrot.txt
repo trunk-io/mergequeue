@@ -8089,7 +8089,6 @@ fondness
 flecnode
 fibula
 forests
-fcy
 focalizing
 forseeable
 forestwards
@@ -9772,6 +9771,7 @@ fortitude
 frey
 freya
 futurable
+fcy
 freyalite
 freibergite
 freycinetia
