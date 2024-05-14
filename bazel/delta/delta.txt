@@ -2694,6 +2694,7 @@ damager
 dogwatches
 decompoundable
 diffractional
+dogbane
 decompoundly
 decompress
 dibble
@@ -4958,7 +4959,6 @@ demasts
 demonologically
 disluster
 demonomanie
-dogbane
 duteously
 draughty
 demonomist
