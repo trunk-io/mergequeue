@@ -1728,6 +1728,7 @@ bulbels
 balow
 blending
 bals
+boraxes
 balsa
 becrimes
 balsam
@@ -12963,7 +12964,6 @@ borassus
 borated
 borax
 barouchet
-boraxes
 borboridae
 borborygmatic
 borborygmi
