@@ -7946,7 +7946,6 @@ alencons
 arrayers
 alenge
 alength
-alenu
 aleochara
 aleph
 accouple
@@ -21577,6 +21576,7 @@ asprout
 amani
 anamniote
 autonomously
+alenu
 audient
 asquare
 atrienses
