@@ -7625,7 +7625,6 @@ exocrine
 everduring
 enterohelcosis
 epicormic
-epicortical
 epicostal
 explanator
 enterogastritis
@@ -10257,6 +10256,7 @@ embroideress
 etherialize
 etherialized
 etherially
+epicortical
 etheric
 etherify
 etherification
