@@ -7790,7 +7790,6 @@ florilege
 feathers
 forelook
 francisco
-foreloop
 forelooper
 forelouper
 foremade
@@ -11514,6 +11513,7 @@ furzed
 flitchen
 furzeling
 fjarding
+foreloop
 furzy
 faunus
 farandine

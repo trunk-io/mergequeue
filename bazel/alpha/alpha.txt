@@ -895,7 +895,6 @@ actionized
 absentation
 absentee
 absentees
-anacromyodian
 absenter
 absenters
 absently
@@ -7986,6 +7985,7 @@ asterite
 alethiology
 alethiological
 alethiologist
+anacromyodian
 alethopteis
 alethopteroid
 alethoscope
