@@ -3659,7 +3659,6 @@ broadthroat
 bathrooms
 bathroot
 ballyragging
-beddings
 boutade
 baron
 by
@@ -10194,6 +10193,7 @@ blacketeer
 blackface
 blackfeet
 brakeage
+beddings
 blackfellow
 blackfellows
 blackfigured
