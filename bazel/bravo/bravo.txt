@@ -4347,7 +4347,6 @@ bridges
 burlers
 beaver
 beaverboard
-burgonet
 burrer
 beaverism
 bistoury
@@ -12464,6 +12463,7 @@ bondsmen
 bondstone
 bondswoman
 bondswomen
+burgonet
 bonducnut
 bagpiped
 bondwoman
