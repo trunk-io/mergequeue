@@ -5282,7 +5282,6 @@ equipments
 endostylic
 excarnate
 endostoma
-explicators
 endostosis
 endostraca
 epanody
@@ -8903,6 +8902,7 @@ erepsin
 ereptic
 erer
 erethic
+explicators
 expressively
 erethisia
 evolvement
