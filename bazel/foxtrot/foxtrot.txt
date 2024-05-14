@@ -871,6 +871,7 @@ fantasmal
 fundus
 fantasms
 fantasque
+fconvert
 funnyman
 fantassin
 flatmen
@@ -2403,7 +2404,6 @@ feoff
 feoffee
 foreimagine
 firlot
-fconvert
 fs
 feoffer
 fiberous
