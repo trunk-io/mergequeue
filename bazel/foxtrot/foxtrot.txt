@@ -4085,6 +4085,7 @@ fattable
 finecomb
 fellatrixes
 fletching
+fannings
 finnochio
 filiopietistic
 finns
@@ -4751,7 +4752,6 @@ foxinesses
 fortressed
 flickeringly
 flageolet
-fannings
 flageolets
 fencelet
 flagfishes
