@@ -19992,7 +19992,6 @@ armlessness
 armlets
 armlike
 armload
-armloads
 armlock
 armoire
 armoires
@@ -25339,6 +25338,7 @@ agonising
 azosulphine
 antheming
 azosulphonic
+armloads
 azotaemia
 azotate
 azotea
