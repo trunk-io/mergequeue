@@ -2201,7 +2201,6 @@ babylonians
 baptizable
 baptized
 befriend
-baptizement
 benzpyrene
 baptizer
 biplanar
@@ -2400,6 +2399,7 @@ becut
 bilertinned
 barcarolle
 barcella
+baptizement
 barcelona
 boxwork
 blip
