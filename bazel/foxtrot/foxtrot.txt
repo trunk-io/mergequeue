@@ -1683,7 +1683,6 @@ fcomp
 foolship
 fconv
 farcin
-fcp
 familiar
 faradocontractility
 four
@@ -5586,6 +5585,7 @@ felonweed
 frouncing
 flamant
 federates
+fcp
 feoffment
 frumple
 flagmaking
