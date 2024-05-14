@@ -2149,6 +2149,7 @@ fellable
 fanned
 fellah
 falcate
+foreparent
 fessely
 fellahs
 fellas
@@ -7402,7 +7403,6 @@ fishyback
 forby
 forewarnings
 faunlike
-foreparent
 foreplot
 forbid
 forebodingly
