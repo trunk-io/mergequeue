@@ -4581,7 +4581,6 @@ advancingly
 advancive
 advantage
 advantaged
-advantageous
 advantageously
 advantageousness
 accus
@@ -24820,6 +24819,7 @@ avogadrite
 avogram
 apolitical
 avoid
+advantageous
 avoidable
 avoidably
 avoidance
