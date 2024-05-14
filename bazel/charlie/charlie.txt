@@ -3808,7 +3808,6 @@ chude
 carbomethene
 carbomethoxy
 carbomethoxyl
-carbomycin
 cryptobranchidae
 carbon
 carbona
@@ -3966,6 +3965,7 @@ carcassless
 carcavelhos
 carceag
 cosmodrome
+carbomycin
 carcel
 carcels
 carcer
