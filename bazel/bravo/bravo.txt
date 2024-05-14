@@ -14680,7 +14680,6 @@ bravi
 bayoneted
 braving
 bravissimo
-bigram
 bravoes
 boulevards
 boho
@@ -15041,6 +15040,7 @@ bandhor
 busser
 balter
 bashlyk
+bigram
 berlina
 breviconic
 balneographer

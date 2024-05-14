@@ -2255,7 +2255,6 @@ felts
 forthtell
 forcipial
 feltwort
-flaggier
 felucca
 felwort
 femaleness
@@ -8484,6 +8483,7 @@ formicicide
 forgiver
 filix
 formicid
+flaggier
 feuterer
 formicide
 fishling
