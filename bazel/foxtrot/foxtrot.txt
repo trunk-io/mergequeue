@@ -5609,7 +5609,6 @@ flyless
 fuddle
 firebrands
 fusee
-flymen
 flimflammed
 flimflammery
 flimflamming
@@ -9055,6 +9054,7 @@ foliicolous
 fourther
 fourthly
 ferity
+flymen
 fuchsines
 fouter
 fafaronade
