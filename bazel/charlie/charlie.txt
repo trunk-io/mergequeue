@@ -2157,6 +2157,7 @@ campodeidae
 campodeiform
 campodeoid
 campody
+cuspids
 campong
 campongs
 camponotus
@@ -31687,7 +31688,6 @@ cotyloid
 cuspidine
 cuspidor
 cuspidors
-cuspids
 cusping
 cuspis
 cusps
