@@ -6085,7 +6085,6 @@ endotheliolytic
 enniche
 equitemporal
 ennoble
-electrosynthetic
 ennoblement
 estuant
 everliving
@@ -9526,6 +9525,7 @@ elegiacal
 eschatology
 elysium
 eschatological
+electrosynthetic
 eschatologist
 epistemology
 epistemonical
