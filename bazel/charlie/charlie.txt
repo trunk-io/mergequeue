@@ -15828,7 +15828,6 @@ coy
 claviole
 clavipectoral
 clavis
-clavises
 clavolet
 chapel
 clavus
@@ -23842,6 +23841,7 @@ contraversion
 contravindicate
 contravindication
 contrawise
+clavises
 contrecoup
 contrectation
 contredanse
