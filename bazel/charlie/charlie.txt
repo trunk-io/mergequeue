@@ -2461,7 +2461,6 @@ candidly
 candidness
 candidnesses
 candids
-countermands
 coasters
 candies
 candify
@@ -8796,6 +8795,7 @@ chera
 chantecler
 chantey
 chanteyman
+countermands
 chantepleure
 chanterelle
 cabinetmake

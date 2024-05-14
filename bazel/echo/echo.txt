@@ -3246,7 +3246,6 @@ emanatistic
 emanativ
 emanatively
 euphemizer
-emanator
 eulogisation
 emasculates
 espigle
@@ -10080,6 +10079,7 @@ estrif
 exactus
 exudative
 epauliere
+emanator
 estrin
 estrins
 estriol
