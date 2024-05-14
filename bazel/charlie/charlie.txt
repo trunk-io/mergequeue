@@ -4644,7 +4644,6 @@ caroluses
 carom
 carombolette
 caromel
-caroming
 caroms
 carone
 convictiveness
@@ -25302,6 +25301,7 @@ corkier
 corkiest
 ciliola
 corkiness
+caroming
 corking
 crome
 corklike
