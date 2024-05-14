@@ -14699,6 +14699,7 @@ dock
 dockage
 drawglove
 dilatancy
+doe
 docked
 demonetized
 discutable
@@ -14900,7 +14901,6 @@ decoyed
 dodos
 decoloriser
 dodrans
-doe
 doebird
 doeg
 doeglic
