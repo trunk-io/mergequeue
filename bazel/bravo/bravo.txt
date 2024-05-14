@@ -4659,6 +4659,7 @@ bedcase
 brunneous
 bedchair
 bedchairs
+bombarding
 bellowing
 buntal
 bryophyte
@@ -12288,7 +12289,6 @@ bombarded
 bushfighter
 bombarder
 bombardiers
-bombarding
 bombardman
 burrfishes
 bullwhacker
