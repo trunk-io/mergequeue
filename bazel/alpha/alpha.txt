@@ -456,7 +456,6 @@ abyssinia
 abyssobenthonic
 abyssolith
 aporrhais
-abyssopelagic
 abyssus
 abit
 abitibi
@@ -9497,6 +9496,7 @@ alternatingly
 animals
 alternation
 aulostomatidae
+abyssopelagic
 afterend
 attemperate
 alternatively

@@ -2686,7 +2686,6 @@ decompose
 decomposed
 dimmy
 decomposer
-decomposers
 decomposes
 decomposing
 decomposition
@@ -12362,6 +12361,7 @@ disheir
 dishelm
 dishelming
 dishelms
+decomposers
 disher
 damas
 disherent
