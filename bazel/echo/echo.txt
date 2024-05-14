@@ -315,6 +315,7 @@ etruscans
 eunomia
 epitaphless
 eavedrop
+emerald
 evangel
 eavedropper
 eavedropping
@@ -3772,7 +3773,6 @@ emended
 epinikian
 emending
 emer
-emerald
 emeraldine
 emeraude
 emerge
