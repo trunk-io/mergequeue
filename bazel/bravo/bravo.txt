@@ -5672,6 +5672,7 @@ belaboring
 blankit
 belace
 bulletheaded
+blasters
 bewigs
 beladies
 bedeen
@@ -10330,7 +10331,6 @@ befrogged
 bladesmith
 bladewise
 bladygrass
-blasters
 blennostasis
 bierstube
 bloodmonger
