@@ -1771,7 +1771,6 @@ feastraw
 frisbees
 feather
 frescoist
-foreordainment
 foetor
 frustule
 featherbedded
@@ -7934,6 +7933,7 @@ foresail
 frigidity
 farl
 foresails
+foreordainment
 farmscape
 fibered
 forescene
