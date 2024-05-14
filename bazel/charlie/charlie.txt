@@ -11710,7 +11710,6 @@ conumerary
 cholesteatoma
 concorrezanes
 cholesteatomatous
-cholestene
 cholesteremia
 cholesteric
 cholesteryl
@@ -20709,6 +20708,7 @@ completion
 corraded
 completions
 completive
+cholestene
 completively
 cneoraceous
 completory
