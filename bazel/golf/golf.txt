@@ -2763,7 +2763,6 @@ globoids
 genioglossi
 goboes
 genioglossus
-geniohyoglossal
 gipsyhood
 gnathions
 gapers
@@ -10202,6 +10201,7 @@ guildhall
 guilds
 ghosted
 guildship
+geniohyoglossal
 guessworker
 guile
 guileful
