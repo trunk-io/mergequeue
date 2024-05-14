@@ -4175,7 +4175,6 @@ capette
 cardiopyloric
 cardiopneumatic
 cardiopneumograph
-cardioptosis
 cardiopulmonary
 cardiorenal
 cardiorespiratory
@@ -26360,6 +26359,7 @@ costumey
 costumer
 costumery
 costumers
+cardioptosis
 costumes
 costumic
 costumier
