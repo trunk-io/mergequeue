@@ -13744,7 +13744,6 @@ crankest
 cimices
 cimicidae
 cimicide
-cimiciform
 cimicifuga
 cimicifugin
 cimicoid
@@ -14109,6 +14108,7 @@ cipango
 cyperaceae
 cyperus
 counterparadox
+cimiciform
 curneys
 cyphella
 cyphellae
