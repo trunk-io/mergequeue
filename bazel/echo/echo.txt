@@ -2644,7 +2644,6 @@ electrotelegraphy
 electrotelethermometer
 endplay
 epithelioma
-electrotellurograph
 exogens
 electrotherapeutical
 electrotherapeutist
@@ -11999,6 +11998,7 @@ excipulaceae
 excipuliform
 exfodiate
 earmindedness
+electrotellurograph
 erythroxylaceae
 excircle
 excisable
