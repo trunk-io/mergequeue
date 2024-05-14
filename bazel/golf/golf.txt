@@ -3155,7 +3155,6 @@ geophila
 geophilid
 geophilidae
 gastrins
-geophysics
 geophytic
 genl
 gestae
@@ -7434,6 +7433,7 @@ gluemaking
 gobiesocidae
 gloms
 gout
+geophysics
 gire
 guller
 gelate
