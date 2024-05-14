@@ -4074,6 +4074,7 @@ adjutantship
 anesthetic
 adjutator
 adjute
+antitartaric
 adjutor
 adjutory
 adjutorious
@@ -21752,7 +21753,6 @@ asservilize
 asses
 assess
 assessable
-antitartaric
 assessably
 assessed
 assession
