@@ -2926,7 +2926,6 @@ endodontic
 encephalopsychesis
 elymi
 eliminable
-eliminate
 entoplastic
 equiprobabilism
 eliminated
@@ -10735,6 +10734,7 @@ eudemons
 electrojet
 eudemonics
 equivalencies
+eliminate
 eudeve
 eudiaphoresis
 excamber

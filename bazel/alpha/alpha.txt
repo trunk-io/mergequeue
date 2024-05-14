@@ -1316,7 +1316,6 @@ acnodes
 acaridomatia
 acariform
 acarina
-acarine
 acarines
 acarinosis
 approachless
@@ -8817,6 +8816,7 @@ allision
 alliteral
 alliterate
 alliterated
+acarine
 alliterates
 alliteration
 alliterational
