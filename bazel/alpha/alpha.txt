@@ -1033,7 +1033,6 @@ abstort
 abstr
 anthos
 abstract
-abstractable
 abstracted
 abstractedly
 abstracters
@@ -2071,6 +2070,7 @@ acetoacetanilide
 acetoacetate
 acetoacetic
 acetoamidophenol
+abstractable
 aquincubitalism
 acetol
 acetolysis

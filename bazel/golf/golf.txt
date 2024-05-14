@@ -2352,7 +2352,6 @@ glossography
 gynaecologist
 gelatin
 gelatinate
-gelatinating
 girting
 greyfish
 goles
@@ -9629,6 +9628,7 @@ gushes
 glycerinated
 gruelers
 graphologies
+gelatinating
 gathered
 geezers
 ganosis
