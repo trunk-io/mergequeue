@@ -2213,7 +2213,6 @@ electives
 electivism
 engram
 elector
-expostulator
 elks
 electorally
 elephanta
@@ -11360,6 +11359,7 @@ eikonogen
 evaporates
 edp
 eimer
+expostulator
 extrascholastic
 evaporating
 entredeux
