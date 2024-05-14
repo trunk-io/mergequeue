@@ -450,7 +450,6 @@ ecclesia
 ecclesiarch
 ecclesiarchy
 ecclesiast
-expostulated
 empasm
 ecclesiastically
 envelopers
@@ -3269,6 +3268,7 @@ emane
 emarginated
 expanse
 eclectics
+expostulated
 elzevirian
 eucalyptian
 evildoing
