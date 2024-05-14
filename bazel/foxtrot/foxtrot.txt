@@ -3344,6 +3344,7 @@ forchase
 fruggan
 facilitator
 fidelity
+federates
 fidelities
 fullmouthedly
 forinsec
@@ -5585,7 +5586,6 @@ firstling
 felonweed
 frouncing
 flamant
-federates
 feoffment
 frumple
 flagmaking
