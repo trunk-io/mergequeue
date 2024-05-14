@@ -2483,7 +2483,6 @@ dand
 delay
 disintegrative
 decipherably
-deciphered
 decipherer
 deciphering
 deciphers
@@ -11540,6 +11539,7 @@ discommoding
 discommodious
 desmognathism
 discommodiously
+deciphered
 discommodiousness
 denary
 dunker
