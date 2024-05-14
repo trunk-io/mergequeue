@@ -10021,7 +10021,6 @@ chenier
 chenille
 cheniller
 chenopod
-chenopodiaceae
 chenopodiaceous
 chenopodiales
 chenopodium
@@ -20597,6 +20596,7 @@ compered
 comblessness
 compering
 compert
+chenopodiaceae
 compester
 compete
 cumbly
