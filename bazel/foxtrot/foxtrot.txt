@@ -2447,6 +2447,7 @@ futurism
 fellowman
 fergus
 featural
+foregone
 ferguson
 fergusonite
 ferfet
@@ -9241,7 +9242,6 @@ fallbacks
 firmless
 fracturing
 fracturs
-foregone
 foolify
 freakout
 frae
