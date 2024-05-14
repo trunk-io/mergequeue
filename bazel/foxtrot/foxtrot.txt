@@ -6757,7 +6757,6 @@ fogman
 fogmen
 fuseless
 fogo
-fogon
 fogproof
 fogram
 freewheeler
@@ -7147,6 +7146,7 @@ fooner
 foosterer
 formalizing
 flaker
+fogon
 functionalism
 footage
 foredestiny
