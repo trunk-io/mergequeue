@@ -4038,7 +4038,6 @@ beaconage
 berchta
 beaconless
 business
-bouldery
 beacons
 beaded
 beadeye
@@ -6350,6 +6349,7 @@ besiren
 benighter
 benightment
 benign
+bouldery
 barked
 benignant
 breechloader
