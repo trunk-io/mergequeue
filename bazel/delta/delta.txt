@@ -3777,7 +3777,6 @@ dehydrogenisation
 duchess
 dehydrogenised
 dehydrogenized
-dehydrogenizer
 dehydroretinol
 dehydrosparteine
 delustrant
@@ -9047,6 +9046,7 @@ dpt
 dispraise
 dictative
 dictator
+dehydrogenizer
 dawnstreak
 dextrorotary
 dictatory
