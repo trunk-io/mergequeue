@@ -11888,7 +11888,6 @@ cohorn
 choosier
 choosiness
 chadar
-chop
 chopa
 chopas
 cicatricose
@@ -15493,6 +15492,7 @@ clapdish
 clape
 cripply
 clapholt
+chop
 ceonocyte
 clapmatch
 clapnest

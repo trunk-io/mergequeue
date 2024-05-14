@@ -4658,7 +4658,6 @@ grifter
 gigantopithecus
 gymnastics
 gypseian
-gastroenteric
 gyrinid
 gyrinidae
 greenings
@@ -8787,6 +8786,7 @@ gm
 greybeard
 grouseless
 greenfinch
+gastroenteric
 geoprumnon
 gablelike
 graecized
