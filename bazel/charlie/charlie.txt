@@ -2179,6 +2179,7 @@ compasser
 campsites
 conusor
 circaea
+cliqueyness
 campstool
 camptodrome
 camptonite
@@ -16372,7 +16373,6 @@ clavodeltoideus
 cliquedom
 cliqueier
 cretinize
-cliqueyness
 cytome
 cliques
 cliquy
