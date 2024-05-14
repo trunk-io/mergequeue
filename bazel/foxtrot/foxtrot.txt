@@ -382,7 +382,6 @@ fruits
 flows
 fulminating
 fulani
-fairer
 fairfieldite
 fashioners
 fogged
@@ -8069,6 +8068,7 @@ fright
 fessing
 foresting
 foreknow
+fairer
 flummeries
 fulvid
 forestish
