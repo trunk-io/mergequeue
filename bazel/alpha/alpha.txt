@@ -11081,7 +11081,6 @@ amphibiety
 amphibiological
 azimuthally
 amphibion
-amphibiotic
 amphibiously
 amphibium
 amphiblastic
@@ -23450,6 +23449,7 @@ auletris
 auletes
 atalaya
 auletic
+amphibiotic
 adumbrellar
 allokinetic
 aetiophyllin
