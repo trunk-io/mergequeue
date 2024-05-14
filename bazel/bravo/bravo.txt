@@ -3800,6 +3800,7 @@ boatfalls
 banderilla
 battlestead
 battlewagon
+beringed
 belemnid
 battleward
 bronchiectasis
@@ -6789,7 +6790,6 @@ berimes
 bradypnoea
 butterwife
 bering
-beringed
 bepillared
 bead
 broughtas
