@@ -5934,6 +5934,7 @@ ageable
 agallop
 agedly
 agedness
+algor
 agednesses
 agee
 ageing
@@ -8211,7 +8212,6 @@ aquatinted
 algophilist
 algophobia
 assistantships
-algor
 attar
 almsmoney
 algorismic
