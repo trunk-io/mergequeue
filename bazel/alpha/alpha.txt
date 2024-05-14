@@ -21691,6 +21691,7 @@ assembled
 anniv
 assembler
 assembly
+aeroscope
 assemblyman
 apotropaism
 absinthiate
@@ -23142,7 +23143,6 @@ attitudinised
 anba
 attitudiniser
 attitudinising
-aeroscope
 attitudinize
 amphimictically
 athrocyte
