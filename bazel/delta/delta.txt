@@ -7033,7 +7033,6 @@ dessert
 desserts
 dykage
 dessertspoon
-dessertspoonful
 dessertspoonfuls
 dessicate
 dessil
@@ -7149,6 +7148,7 @@ desulfurize
 desulfurized
 desulfurizer
 desulfurizing
+dessertspoonful
 dynamometric
 desulfurs
 desulphur

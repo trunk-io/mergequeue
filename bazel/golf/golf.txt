@@ -8914,6 +8914,7 @@ gridiron
 gridirons
 gibbier
 griece
+grummet
 gull
 grieced
 griecep
@@ -9690,7 +9691,6 @@ glossaries
 guying
 grummels
 grummest
-grummet
 grumness
 gambir
 gooder
