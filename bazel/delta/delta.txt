@@ -2028,7 +2028,6 @@ decagrams
 decahedra
 decahedral
 decahedron
-defoamers
 degamis
 dentatocrenate
 damageableness
@@ -13090,6 +13089,7 @@ dispersonification
 dispetal
 dysphagia
 dysphasia
+defoamers
 damps
 dysphemia
 dysphemism
