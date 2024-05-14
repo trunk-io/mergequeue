@@ -6905,6 +6905,7 @@ bersagliere
 bersaglieri
 berseem
 berserker
+bionic
 blackbirds
 bin
 berserks
@@ -15231,7 +15232,6 @@ bridgeless
 bridgemaking
 bridgemaster
 bacterization
-bionic
 bridgeport
 bridgepot
 benediction
