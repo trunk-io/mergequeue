@@ -4560,7 +4560,6 @@ diffinity
 dismisser
 demiangel
 duces
-demiassignation
 demibarrel
 demibath
 demibeast
@@ -13169,6 +13168,7 @@ digitogenin
 displosion
 drosses
 dronte
+demiassignation
 displumes
 displuming
 deportable
