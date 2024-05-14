@@ -2522,7 +2522,6 @@ declaim
 dichorisandra
 dresser
 declaimer
-declaimers
 declaims
 declamando
 dilatorily
@@ -11267,6 +11266,7 @@ decrease
 deuteronomist
 dayberry
 dendroceratina
+declaimers
 discanter
 delegacies
 duckwheat
