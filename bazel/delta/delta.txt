@@ -3674,7 +3674,6 @@ dermatoxerasia
 deglut
 disarrangement
 deglutinate
-deglutinated
 deduce
 deglutinating
 dermatoplasty
@@ -8683,6 +8682,7 @@ diastases
 diglossia
 diastasic
 disgustedness
+deglutinated
 diazepam
 diastasimetry
 diastasis
