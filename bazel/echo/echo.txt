@@ -8325,6 +8325,7 @@ ethnolinguistic
 epithecium
 ecardine
 ejectives
+entomoid
 enukki
 epithelioid
 epitheliolysis
@@ -12143,7 +12144,6 @@ epirrhema
 epacridaceae
 excrementive
 extrasensory
-entomoid
 extramolecular
 excrementous
 enfolder
