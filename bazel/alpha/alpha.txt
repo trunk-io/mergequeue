@@ -593,7 +593,6 @@ abnormalized
 anatomical
 abnormalizing
 abnormalness
-abnormity
 abnormities
 autopathic
 abnormous
@@ -1001,6 +1000,7 @@ airchecks
 arsenicking
 abstainers
 abstaining
+abnormity
 abstainment
 abstains
 assis
