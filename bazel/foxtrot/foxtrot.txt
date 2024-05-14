@@ -1392,7 +1392,6 @@ fathership
 forswore
 flown
 ferrotyped
-frontways
 fathomableness
 fathomage
 faunal
@@ -6014,6 +6013,7 @@ flopper
 fibrinoplastin
 foundation
 floppy
+frontways
 floppier
 floppies
 fluvial
