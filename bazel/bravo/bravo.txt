@@ -3941,6 +3941,7 @@ bennet
 bawtie
 bawties
 baxter
+bios
 bifidated
 baxterian
 baxterianism
@@ -9185,7 +9186,6 @@ brachygraphic
 biorhythm
 biorhythmicity
 beshivers
-bios
 biosatellites
 biosciences
 bioscientist
