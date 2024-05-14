@@ -2538,7 +2538,6 @@ goldeneye
 glycohemia
 ghoulish
 grypanian
-gemologist
 gasthauser
 groping
 gloaming
@@ -5882,6 +5881,7 @@ guttide
 glottologic
 griffinesque
 glottological
+gemologist
 glottologist
 goniometer
 gloucester
