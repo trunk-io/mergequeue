@@ -5889,6 +5889,7 @@ amphoras
 anguillulidae
 antismog
 agrised
+alligator
 ashmen
 agastric
 adenyls
@@ -8790,7 +8791,6 @@ abscessroot
 autocorrelation
 activators
 alligations
-alligator
 alligatored
 alligatorfish
 alligatorfishes

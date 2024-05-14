@@ -5772,7 +5772,6 @@ ephedrins
 engravement
 evermore
 engraver
-entree
 engravers
 engraves
 easts
@@ -12220,6 +12219,7 @@ equiformity
 ebonite
 electromyographic
 eyelike
+entree
 excursionist
 ethmolachrymal
 englished
