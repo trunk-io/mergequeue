@@ -6666,7 +6666,6 @@ cedrine
 cedriret
 cedrium
 cedrol
-corticiform
 cedron
 centibar
 cedrus
@@ -7429,6 +7428,7 @@ checkweigher
 cryophoric
 cephalodiscida
 cephalodiscus
+corticiform
 curtains
 cephalodium
 cephalofacial
