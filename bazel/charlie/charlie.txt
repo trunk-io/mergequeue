@@ -8448,7 +8448,6 @@ challengeable
 challenged
 chamicuro
 calcifuge
-challengeful
 challenger
 challengers
 cotrespasser
@@ -27668,6 +27667,7 @@ cowgrass
 cowhage
 cowhand
 cowhands
+challengeful
 cowheart
 cowhearted
 cowheel
