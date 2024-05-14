@@ -14297,7 +14297,6 @@ allomorph
 anteroflexion
 aeroscopic
 anterofrontal
-anterograde
 anteroinferior
 alismaceae
 anterointernal
@@ -24273,6 +24272,7 @@ autophytography
 autophoby
 abacinate
 autophon
+anterograde
 autophone
 acrasins
 ambrica
