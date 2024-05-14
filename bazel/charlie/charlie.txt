@@ -8667,6 +8667,7 @@ chancellors
 chancellorship
 chancellorships
 chancelor
+cooja
 chancelry
 calathidium
 chancels
@@ -24327,7 +24328,6 @@ coofs
 cooghneiorvlt
 cooing
 cooingly
-cooja
 cook
 cookable
 carbureter
