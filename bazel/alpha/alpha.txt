@@ -12861,7 +12861,6 @@ angiport
 angka
 angkhak
 angle
-angleberry
 angled
 affrightingly
 asps
@@ -21604,6 +21603,7 @@ assail
 assailable
 adenectopic
 assailableness
+angleberry
 anotropia
 assailants
 acrothoracica
