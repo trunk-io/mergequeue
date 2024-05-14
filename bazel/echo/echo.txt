@@ -1709,7 +1709,6 @@ eyedropper
 exclave
 exindusiate
 empory
-eyedropperful
 eyedroppers
 eyefuls
 erratics
@@ -4465,6 +4464,7 @@ explanative
 encense
 enclose
 encenter
+eyedropperful
 encephala
 ensilage
 electorship
