@@ -8605,7 +8605,6 @@ austafrican
 allay
 allayed
 allayers
-allaying
 archdukedom
 acyclically
 allalinite
@@ -22439,6 +22438,7 @@ atar
 allegretto
 ataractic
 astely
+allaying
 ataraxy
 ataraxia
 ataraxic
