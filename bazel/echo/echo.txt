@@ -1228,6 +1228,7 @@ exstemporal
 extremal
 eme
 eeyuch
+epit
 equiv
 einkanter
 eel
@@ -3112,7 +3113,6 @@ expounders
 elopement
 emblemize
 ebullitions
-epit
 elopements
 endocone
 ejaculum
