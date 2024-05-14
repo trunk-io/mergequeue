@@ -7189,7 +7189,6 @@ colius
 centones
 centonical
 centonism
-centonization
 centos
 centra
 centrad
@@ -23600,6 +23599,7 @@ continuing
 continuingly
 crudelity
 continuity
+centonization
 continuities
 choeropsis
 cribbages
