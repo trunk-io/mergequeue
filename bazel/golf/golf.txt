@@ -154,7 +154,6 @@ glycerizin
 gadwalls
 gae
 glottalization
-gael
 girth
 gaelic
 gasogenes
@@ -10805,6 +10804,7 @@ genitalic
 gaus
 ghazis
 gutturalised
+gael
 glycolytically
 gutturalism
 greenhide
