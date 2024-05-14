@@ -6421,7 +6421,6 @@ cavalcading
 cavalero
 cardinalist
 cavalier
-cavaliere
 choregic
 cation
 cooked
@@ -26602,6 +26601,7 @@ cantillate
 couchette
 couchy
 cube
+cavaliere
 caback
 couching
 cruelhearted
