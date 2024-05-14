@@ -1637,7 +1637,6 @@ deallocated
 daunter
 deallocates
 deallocating
-designating
 deresinize
 deallocation
 deallocations
@@ -3942,6 +3941,7 @@ dekagramme
 doggerelize
 discommunity
 damper
+designating
 dekalitre
 disherits
 dekameter
