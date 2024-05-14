@@ -3993,6 +3993,7 @@ fingerroot
 fluorosis
 forleft
 fistulas
+fluoridized
 fingersmith
 footbreadth
 furrow
@@ -6437,7 +6438,6 @@ fitchet
 fluoridization
 fancier
 fluoridize
-fluoridized
 fluorids
 fairm
 feltyfare
