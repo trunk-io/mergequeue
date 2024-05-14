@@ -18196,6 +18196,7 @@ coevalness
 coevolution
 cryochoric
 coevolutionary
+cotypes
 coevolvedcoevolves
 coexecutor
 coexecutrices
@@ -19862,7 +19863,6 @@ comfortful
 comfortingly
 crookle
 comfortlessly
-cotypes
 comfortlessness
 comfortress
 comfortroot
