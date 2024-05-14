@@ -14252,7 +14252,6 @@ antepileptic
 antepyretic
 azoimide
 antepirrhema
-antepone
 anteportico
 anteporticoes
 anteporticos
@@ -22610,6 +22609,7 @@ atherosperma
 abfarads
 atherurus
 accelerant
+antepone
 atheticize
 athetize
 athetotic
