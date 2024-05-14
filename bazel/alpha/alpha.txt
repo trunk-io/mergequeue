@@ -3609,7 +3609,6 @@ adducent
 adducer
 anticommercially
 aerodontia
-adduces
 adducible
 anthracic
 auriculo
@@ -13975,6 +13974,7 @@ anser
 autocephaly
 anserated
 anseres
+adduces
 annullation
 anserine
 ashen
