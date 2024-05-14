@@ -2524,6 +2524,7 @@ floatplane
 footbridges
 fermenter
 fermentescible
+fast
 forbiddingness
 ferther
 fielding
@@ -6550,7 +6551,6 @@ flutey
 flutemouth
 foggers
 fluter
-fast
 flatuous
 fluters
 forspread
