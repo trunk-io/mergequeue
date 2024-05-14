@@ -2859,7 +2859,6 @@ barracuda
 bicep
 betelnut
 barracudas
-bouncingly
 bafyot
 blanketless
 barrad
@@ -7015,6 +7014,7 @@ bloated
 bitumed
 beseige
 besetment
+bouncingly
 besets
 besetters
 besew
