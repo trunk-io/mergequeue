@@ -3548,7 +3548,6 @@ afterwort
 additions
 addititious
 additive
-additively
 alloisomeric
 appoggiatura
 additives
@@ -24724,6 +24723,7 @@ aviatic
 aviating
 aviation
 auscult
+additively
 aviations
 aviatorial
 aviatoriality
