@@ -2865,7 +2865,6 @@ elevon
 earthwork
 elevons
 elf
-elfenfolk
 epinard
 eponymous
 elfins
@@ -7087,6 +7086,7 @@ enveloped
 exurbanites
 envelopment
 envelopments
+elfenfolk
 envelops
 envenom
 envenoming
