@@ -5631,7 +5631,6 @@ depends
 desmepithelium
 dispersed
 dukeship
-depeopled
 deperdit
 determiners
 dedecoration
@@ -14394,6 +14393,7 @@ decolonised
 dewfalls
 decontaminate
 divided
+depeopled
 dividend
 dividends
 dividendus

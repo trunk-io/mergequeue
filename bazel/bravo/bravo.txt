@@ -3954,6 +3954,7 @@ bazar
 bazars
 baze
 bazoo
+beneventana
 bazooka
 benote
 bazookaman
@@ -7396,7 +7397,6 @@ betake
 betakes
 betaking
 bisulphide
-beneventana
 bewilders
 betanaphthol
 blowby
