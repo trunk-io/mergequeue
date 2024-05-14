@@ -15355,6 +15355,7 @@ brilliancy
 ballist
 benetted
 bludgeoner
+bufflehead
 bifurcations
 brilliancies
 brilliandeer
@@ -16851,7 +16852,6 @@ butut
 betas
 balkline
 buffing
-bufflehead
 buffone
 buffont
 buffoon
