@@ -3977,7 +3977,6 @@ empaper
 emparchment
 epithamia
 enclitics
-emparl
 eventuates
 empasma
 enruin
@@ -9079,6 +9078,7 @@ ewound
 erythea
 erythema
 erythemal
+emparl
 erythemas
 erythematous
 eutheria
