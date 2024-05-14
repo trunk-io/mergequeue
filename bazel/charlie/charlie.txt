@@ -9812,6 +9812,7 @@ chekmak
 chelatable
 chelate
 chelated
+cothurn
 chelating
 chelator
 chelators
@@ -26439,7 +26440,6 @@ cothish
 cerenkov
 cothon
 cothouse
-cothurn
 cothurnal
 chemigrapher
 cothurned
