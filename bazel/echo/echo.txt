@@ -3664,7 +3664,6 @@ embryotrophy
 embrittle
 enchasers
 embrittled
-embrittling
 embryulcia
 embryulculci
 expositionary
@@ -3956,6 +3955,7 @@ empale
 earthworm
 empaler
 empalers
+embrittling
 empales
 empaling
 empall

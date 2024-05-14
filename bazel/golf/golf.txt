@@ -1571,7 +1571,6 @@ galosh
 gabe
 gasification
 guacamole
-guarachas
 gametogonium
 gasifier
 gasifiers
@@ -8897,6 +8896,7 @@ griddles
 gentleship
 griddling
 genarchaship
+guarachas
 glauberite
 galenism
 gastrology
