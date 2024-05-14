@@ -5238,7 +5238,6 @@ endoscopes
 endoscopic
 endoscopies
 endoscopist
-empyreumatical
 endosymbiosis
 emeus
 endosiphonal
@@ -12997,6 +12996,7 @@ ethos
 expediment
 eremophyte
 expeding
+empyreumatical
 epitaxy
 eluders
 emrode
