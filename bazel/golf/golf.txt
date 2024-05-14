@@ -2821,7 +2821,6 @@ genizero
 glimpsers
 gasan
 gumshoes
-genoas
 glossological
 gliadins
 guillotine
@@ -10859,6 +10858,7 @@ gooey
 gyri
 gestatorium
 graduation
+genoas
 gwendolen
 gwine
 gwiniad
