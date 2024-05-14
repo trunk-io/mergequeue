@@ -10074,7 +10074,6 @@ bivvy
 byway
 byways
 bushranger
-bywalk
 bywalking
 biweeklies
 backslidden
@@ -13224,6 +13223,7 @@ bossship
 bonnyvis
 bevellers
 beleaf
+bywalk
 bosniac
 bucketfuls
 breast
