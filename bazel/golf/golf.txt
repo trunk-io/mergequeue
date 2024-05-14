@@ -3324,7 +3324,6 @@ geryonid
 gerip
 greenhorns
 genros
-gerland
 gilver
 gentisic
 glottalized
@@ -5823,6 +5822,7 @@ gaultherase
 gyres
 gobos
 gaonic
+gerland
 glossolalia
 glossolysis
 glossology
