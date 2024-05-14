@@ -6868,6 +6868,7 @@ greyer
 gallature
 gthite
 gonophore
+gonopores
 geodesia
 gyrofrequencies
 gonophs
@@ -8266,7 +8267,6 @@ grassie
 gibbergunyah
 grassiest
 groupthink
-gonopores
 gedecktwork
 geast
 geoblast
