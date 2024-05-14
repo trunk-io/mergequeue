@@ -708,7 +708,6 @@ baculine
 boiseries
 bedust
 baculites
-baculiticone
 baculoid
 baculus
 bacury
@@ -15587,6 +15586,7 @@ broadaxes
 broadbrim
 burred
 broadcast
+baculiticone
 befortune
 broadcaster
 broadcasters
