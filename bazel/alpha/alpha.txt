@@ -19160,7 +19160,6 @@ acanthocephala
 allegoric
 alit
 absorbant
-alphanumeric
 alveoloclasia
 agritos
 amendable
@@ -25085,6 +25084,7 @@ axhammered
 anthophagous
 almahs
 axiality
+alphanumeric
 axialities
 axiate
 atmos
