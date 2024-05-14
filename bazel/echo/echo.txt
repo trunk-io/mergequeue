@@ -5067,7 +5067,6 @@ epispore
 elocutioner
 endocrinopathic
 eruca
-endoderm
 endodermal
 endodermic
 endoderms
@@ -13463,6 +13462,7 @@ exsanguinating
 ethmoidal
 eudaemonic
 excedent
+endoderm
 entocondylar
 erk
 exculpates

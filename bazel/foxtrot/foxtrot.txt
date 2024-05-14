@@ -1687,6 +1687,7 @@ forbite
 fc
 fitchering
 fipenny
+follis
 fcomp
 foolship
 fconv
@@ -6995,7 +6996,6 @@ fauconnier
 foveolated
 flusherman
 follily
-follis
 feuille
 foutra
 fatheads
