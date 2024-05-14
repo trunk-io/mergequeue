@@ -277,7 +277,6 @@ dagomba
 dagswain
 daguerrean
 daguerreotype
-daguerreotyped
 deipnosophistic
 daguerreotypic
 daguerreotyping
@@ -4789,6 +4788,7 @@ deliriant
 demiurgus
 dilli
 depressor
+daguerreotyped
 demivambrace
 diminutivize
 demivierge
