@@ -1954,6 +1954,7 @@ brewings
 bandstring
 bandurria
 bandusia
+brandishes
 bosquets
 bandusian
 bandwagon
@@ -14504,7 +14505,6 @@ brandished
 brandisher
 biochron
 blume
-brandishes
 brandisite
 backwrap
 brandywine
