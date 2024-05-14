@@ -8745,7 +8745,6 @@ demisacrilege
 diathesis
 depolarising
 diathetic
-diatom
 diatoma
 diatomaceae
 diatomaceous
@@ -11059,6 +11058,7 @@ disruptiveness
 disappointing
 disappointingly
 disappointment
+diatom
 disappointments
 disappreciate
 disappreciation
