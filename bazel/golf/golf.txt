@@ -5540,6 +5540,7 @@ globeholder
 glires
 gliridae
 glirine
+galet
 groovy
 groundskeep
 glisk
@@ -10120,7 +10121,6 @@ gemman
 gabblement
 gorier
 gaggers
-galet
 guiac
 galvanoplastic
 gluconate
