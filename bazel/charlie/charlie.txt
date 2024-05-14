@@ -3235,6 +3235,7 @@ capitasti
 capitate
 capitated
 capitatim
+coproduct
 capitation
 capitations
 cyclotomy
@@ -24767,7 +24768,6 @@ coproduce
 catpiece
 cardioplegia
 coproducer
-coproduct
 coproduction
 cantref
 coprojector

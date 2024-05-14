@@ -4762,6 +4762,7 @@ aeciostage
 abr
 aecioteliospore
 aecium
+abigeus
 aedeagi
 aedeagus
 aedegi
@@ -19545,7 +19546,6 @@ argine
 arginine
 acrophony
 arginines
-abigeus
 argiope
 argiopoidea
 argyranthous
