@@ -1303,7 +1303,6 @@ avocation
 acarari
 acardite
 acarian
-acariasis
 acariatre
 acarid
 acaridan
@@ -6080,6 +6079,7 @@ ardeidae
 aerialness
 aggregate
 antroscopy
+acariasis
 alpestrian
 aggregated
 antivaccinationist

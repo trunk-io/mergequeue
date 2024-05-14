@@ -1686,7 +1686,6 @@ fitchering
 fipenny
 fcomp
 foolship
-fconv
 farcin
 familiar
 faradocontractility
@@ -11267,6 +11266,7 @@ funks
 faultfinding
 funmaking
 funnel
+fconv
 flit
 fingerflower
 frailly
