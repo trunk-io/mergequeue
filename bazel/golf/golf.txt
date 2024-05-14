@@ -3406,7 +3406,6 @@ germin
 galantine
 garthman
 germinal
-germinance
 gonfanons
 germinate
 gibbar
@@ -4561,6 +4560,7 @@ gradate
 gloeocapsoid
 giglot
 goslings
+germinance
 gypsying
 grammontine
 gastrostaxis
