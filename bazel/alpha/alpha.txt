@@ -4135,7 +4135,6 @@ administrant
 administrates
 administrating
 antihemolytic
-alabastrons
 administration
 administrational
 administrations
@@ -6875,6 +6874,7 @@ adiate
 abortus
 airglow
 airglows
+alabastrons
 airgraphics
 areopagus
 anisometropia
