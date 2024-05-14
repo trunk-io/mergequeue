@@ -2790,7 +2790,6 @@ cultivable
 canonicalized
 canonicalizes
 canonicalizing
-circumventive
 congealer
 canonicals
 canonicate
@@ -16540,6 +16539,7 @@ centripetalism
 clog
 clogdogdo
 clogged
+circumventive
 cruisken
 cenobium
 cloggy

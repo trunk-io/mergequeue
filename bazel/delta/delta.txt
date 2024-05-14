@@ -5652,6 +5652,7 @@ deperition
 deperm
 depermed
 deperms
+doby
 depersonalise
 depersonalising
 depersonalized
@@ -14636,7 +14637,6 @@ dobbing
 dobchick
 doberman
 dobermans
-doby
 dobie
 dobla
 distender
