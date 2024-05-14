@@ -1265,7 +1265,6 @@ bedim
 balan
 bedstead
 bardie
-balanceable
 bafflements
 bluejays
 balancelle
@@ -16935,6 +16934,7 @@ bugong
 balloonlike
 bugout
 bugs
+balanceable
 bugsha
 bugweed
 bugwort
