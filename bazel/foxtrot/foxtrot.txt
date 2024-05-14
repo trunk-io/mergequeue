@@ -2572,7 +2572,6 @@ ferrier
 fibromembranous
 fawnskin
 forehorse
-ferox
 fossilized
 ferrara
 forcy
@@ -10895,6 +10894,7 @@ floccular
 fenerate
 filicic
 fullish
+ferox
 fulgurata
 fulgurate
 foeman
