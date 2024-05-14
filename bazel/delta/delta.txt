@@ -15868,6 +15868,7 @@ dose
 dosed
 denitrated
 doser
+duty
 dosers
 dosimeter
 dosimetry
@@ -18614,7 +18615,6 @@ dutchman
 dutchmen
 duteous
 duteousness
-duty
 dutiability
 dutiable
 dutied
