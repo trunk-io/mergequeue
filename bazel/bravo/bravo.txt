@@ -3251,7 +3251,6 @@ basilic
 barrenwort
 bantingize
 basilica
-belverdian
 basilicae
 basilical
 basilican
@@ -17276,6 +17275,7 @@ bulwarked
 bulwarking
 bulwarks
 bracken
+belverdian
 bumaree
 blubberman
 bumbailiffship
