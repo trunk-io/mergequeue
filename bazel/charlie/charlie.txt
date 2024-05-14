@@ -3507,6 +3507,7 @@ captaculum
 captain
 captaincy
 captaincies
+contentedness
 captained
 captainry
 captainship
@@ -4804,7 +4805,6 @@ carpsucker
 cavalierish
 carpus
 carquaise
-contentedness
 conjuror
 carr
 carrack
