@@ -3660,7 +3660,6 @@ gypsine
 ghazal
 ghazi
 guttatim
-gyroceracone
 gogos
 gheber
 ghee
@@ -9136,6 +9135,7 @@ gryllotalpa
 gripsack
 gript
 glom
+gyroceracone
 geochronic
 griqualander
 grisailles
