@@ -664,6 +664,7 @@ decapitalize
 dampcourse
 desiccate
 damped
+defatigate
 desquamated
 dukely
 deafen
@@ -12205,7 +12206,6 @@ dysfunctional
 dysfunctioning
 disability
 detector
-defatigate
 dysfunctions
 desirability
 dermochelys
