@@ -744,7 +744,6 @@ ecotypically
 ecotonal
 enclaved
 ecotones
-emotive
 ecoute
 ecphorable
 ecphore
@@ -8447,6 +8446,7 @@ eumitosis
 epoche
 epochism
 epode
+emotive
 epodes
 epodic
 epollicate
