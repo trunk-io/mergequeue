@@ -4899,7 +4899,6 @@ flameless
 flitch
 forwards
 fchar
-fractabling
 flamen
 fulfil
 fetologist
@@ -9920,6 +9919,7 @@ feldspathic
 fuds
 fricandel
 frett
+fractabling
 frettage
 fulcral
 frettation
