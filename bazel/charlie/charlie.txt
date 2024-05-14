@@ -6272,7 +6272,6 @@ colourize
 caulocarpic
 caulome
 caulomic
-caulophyllum
 caulopteris
 caulosarc
 caulotaxis
@@ -23528,6 +23527,7 @@ chinquapin
 constatations
 contex
 context
+caulophyllum
 contextive
 contexts
 contextualize

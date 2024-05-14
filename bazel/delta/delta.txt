@@ -3202,7 +3202,6 @@ defeature
 defecant
 dunnock
 dowless
-defecate
 dia
 defecation
 dexterity
@@ -10366,6 +10365,7 @@ dioxan
 dioxane
 dioxanes
 dioxy
+defecate
 dioxid
 divergence
 dioxide
