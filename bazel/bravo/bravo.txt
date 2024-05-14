@@ -10275,7 +10275,6 @@ blacksmith
 borates
 bignesses
 blacksmithing
-beastdom
 bocaccio
 blacksnake
 blackstick
@@ -17777,6 +17776,7 @@ bimetallists
 burlington
 buyer
 burma
+beastdom
 bleeping
 burman
 barman
