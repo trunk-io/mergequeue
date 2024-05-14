@@ -686,7 +686,6 @@ caffeinic
 caffeins
 caffeism
 colometry
-caffeol
 caffeone
 caffetannic
 caffetannin
@@ -3848,6 +3847,7 @@ carbonylated
 carbonylene
 carbonyls
 carbonimeter
+caffeol
 carbonimide
 contrastimulant
 chinkle
