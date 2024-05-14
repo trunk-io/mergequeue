@@ -3484,7 +3484,6 @@ emboldener
 equilibrize
 emboldens
 embole
-embolectomy
 enicuridae
 embolemia
 emboli
@@ -6834,6 +6833,7 @@ entomic
 entomical
 entomofauna
 entomogenous
+embolectomy
 emmantle
 empoisoning
 entomol
