@@ -2933,6 +2933,7 @@ boobishness
 blobby
 bailed
 barricade
+batino
 barricaded
 baryes
 barricaders
@@ -3670,7 +3671,6 @@ benefaction
 batiks
 bassly
 batikuling
-batino
 became
 batistes
 beastly
