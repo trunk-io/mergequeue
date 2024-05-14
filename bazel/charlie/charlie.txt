@@ -896,6 +896,7 @@ cakile
 caking
 collagist
 cakra
+chemigraph
 cakravartin
 cal
 calaba
@@ -17331,7 +17332,6 @@ clydeside
 coasserter
 coassessor
 caravelle
-chemigraph
 cimline
 coassignee
 coassist
