@@ -3248,7 +3248,6 @@ compenetrate
 capito
 capitol
 clingier
-capitolian
 corregimiento
 capitoline
 capitolium
@@ -21510,6 +21509,7 @@ cataclasm
 concours
 concourse
 cliqueless
+capitolian
 concourses
 calycle
 celestialize
