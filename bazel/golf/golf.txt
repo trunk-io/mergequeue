@@ -1920,6 +1920,7 @@ galidictis
 gatherable
 gilgai
 gatherers
+genitory
 graplins
 greenfishes
 greking
@@ -2808,7 +2809,6 @@ grasps
 genitor
 gauntry
 gripeful
-genitory
 geniture
 grassiness
 genizah
