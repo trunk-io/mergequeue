@@ -12267,7 +12267,6 @@ boltlike
 beaupers
 boltmaker
 boltonia
-boltonias
 boltonite
 boltrope
 bittern
@@ -13813,6 +13812,7 @@ bowyer
 bowyers
 bilious
 bowing
+boltonias
 bowings
 badinage
 bowkail
