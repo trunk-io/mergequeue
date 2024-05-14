@@ -4393,7 +4393,6 @@ fosterage
 furlough
 fub
 fishman
-folic
 fishmonger
 fraternizer
 ferociousness
@@ -5215,6 +5214,7 @@ fireproof
 fidfad
 flavo
 flavonol
+folic
 flavonols
 fourteenfold
 fortemente
