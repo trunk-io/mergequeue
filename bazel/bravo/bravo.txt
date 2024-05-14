@@ -12798,6 +12798,7 @@ boomkin
 boomkins
 bootes
 barnabite
+butic
 boomslang
 boomslange
 betweenmaid
@@ -18153,7 +18154,6 @@ battalion
 butene
 butenyl
 buteonine
-butic
 bosch
 bereaving
 bluejay
