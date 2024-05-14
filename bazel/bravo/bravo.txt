@@ -3852,7 +3852,6 @@ barreler
 baubees
 bethunder
 binitarian
-bauble
 baublery
 bootleg
 baubling
@@ -5243,6 +5242,7 @@ barns
 beadhouse
 byzantian
 bracteal
+bauble
 befriends
 befrilled
 blennocele
