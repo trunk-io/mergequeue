@@ -3092,7 +3092,6 @@ geomancy
 garnered
 gushingness
 geomant
-geobios
 geomantic
 geomorphic
 gyrally
@@ -6943,6 +6942,7 @@ goodlier
 goodliest
 gynodioeciously
 gingerly
+geobios
 gruffest
 goodlihead
 goodliness
