@@ -1098,7 +1098,6 @@ galavant
 gompholobium
 ganglioid
 ganglioma
-gangliomas
 ganglionate
 grayness
 ganglionated
@@ -2722,6 +2721,7 @@ genetics
 ganymedes
 geomorphological
 genetika
+gangliomas
 gimballed
 gurgeon
 genetoid
