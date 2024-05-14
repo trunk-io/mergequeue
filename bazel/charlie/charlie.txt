@@ -13663,7 +13663,6 @@ ciliolum
 cilioretinal
 corenounce
 ciliotomy
-cilium
 cylix
 cyllenian
 cyllenius
@@ -27336,6 +27335,7 @@ couplement
 coupler
 couplers
 couples
+cilium
 cleric
 couplings
 coupon
