@@ -16057,6 +16057,7 @@ clerkdoms
 clerkery
 clerkess
 clerking
+corvidae
 carcinosis
 clerkish
 clerkless
@@ -26028,7 +26029,6 @@ corvet
 corvette
 corvettes
 corvetto
-corvidae
 corvillosum
 corvinae
 creolize
