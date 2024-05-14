@@ -4430,7 +4430,6 @@ devious
 disgradulate
 defatigable
 demandingly
-demands
 desyl
 dysphagic
 demanganization
@@ -12619,6 +12618,7 @@ disjunctor
 disembodying
 divia
 dereferences
+demands
 disk
 disked
 diskelion
