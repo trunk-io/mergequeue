@@ -10605,7 +10605,6 @@ biostrome
 blatted
 blattered
 biophysics
-boltheader
 bachelorship
 blattering
 blattid
@@ -10793,6 +10792,7 @@ blennorrhoea
 blennosis
 blennostatic
 beclart
+boltheader
 boody
 bibulus
 biorhythmic
