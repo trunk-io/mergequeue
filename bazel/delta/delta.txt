@@ -4732,6 +4732,7 @@ demiscible
 demise
 demisecond
 demised
+dimin
 depas
 demisemiquaver
 delineable
@@ -13003,7 +13004,6 @@ deliver
 devolatilize
 dispendious
 disembower
-dimin
 dispendiously
 dispenditure
 dispensability
