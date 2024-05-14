@@ -5309,7 +5309,6 @@ finiking
 flouncier
 fylker
 fleak
-fg
 fleamy
 fleams
 fettles
@@ -9830,6 +9829,7 @@ filace
 frenchness
 fretworks
 flaccidness
+fg
 frankheartedly
 frenchwomen
 frenetical
