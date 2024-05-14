@@ -15152,6 +15152,7 @@ bricking
 brickish
 brickkiln
 branchiostegal
+bondoc
 bricklayer
 bricklayers
 burut
@@ -16636,7 +16637,6 @@ buckaroos
 buckberry
 buckboard
 buckboards
-bondoc
 brassidic
 buckbush
 bucked
