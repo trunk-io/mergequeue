@@ -6491,7 +6491,6 @@ fluorspar
 footbaths
 fluosilicic
 fluotantalic
-fluotitanic
 fumage
 franklin
 flurn
@@ -10884,6 +10883,7 @@ fulgentness
 fulgidity
 ferriage
 fantasizing
+fluotitanic
 fulgorid
 fulgoridae
 fon
