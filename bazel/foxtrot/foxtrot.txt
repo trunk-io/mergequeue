@@ -8637,6 +8637,7 @@ forspoke
 fellatory
 fillebeg
 filicides
+flueman
 fumistery
 fields
 forswears
@@ -9689,7 +9690,6 @@ freeholder
 freeholders
 freeholdership
 fortifications
-flueman
 fanwe
 fluviograph
 ferias
