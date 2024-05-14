@@ -5959,6 +5959,7 @@ ave
 agendas
 agendum
 agendums
+alphabetiform
 amovability
 agene
 ataxite
@@ -9343,7 +9344,6 @@ adnumber
 alphabetically
 arthrostraca
 affectation
-alphabetiform
 alphabeting
 alphabetisation
 alphabetise
