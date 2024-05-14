@@ -8172,7 +8172,6 @@ aides
 avoidances
 artisanship
 algoid
-algol
 algolagny
 algolagnia
 adjuster
@@ -22870,6 +22869,7 @@ atria
 atrial
 atrible
 alkylol
+algol
 atrichia
 atrichic
 atrichous
