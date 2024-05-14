@@ -5141,7 +5141,6 @@ aerostatic
 aerostatical
 amalett
 apteryges
-aerostats
 avunculize
 aerosteam
 aerotactic
@@ -12446,6 +12445,7 @@ andromed
 andromeda
 argyll
 andromedotoxin
+aerostats
 andromonoecism
 argilloarenaceous
 andromorphous
