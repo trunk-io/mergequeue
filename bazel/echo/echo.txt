@@ -422,7 +422,6 @@ ernest
 ecballium
 ecblastesis
 ecbole
-ecbolic
 electrizer
 ecca
 exitance
@@ -13515,6 +13514,7 @@ exsiccating
 enterotoxin
 exsiccator
 embowment
+ecbolic
 epipodiale
 exsolving
 epochs
