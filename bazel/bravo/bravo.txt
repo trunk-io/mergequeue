@@ -1012,6 +1012,7 @@ burniebee
 beaveries
 brogueful
 boohooed
+bastnasite
 boat
 bayamos
 brigand
@@ -3479,7 +3480,6 @@ bastions
 battutas
 bastite
 brushfire
-bastnasite
 balanoglossus
 basto
 beworms
