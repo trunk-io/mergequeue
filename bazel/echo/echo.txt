@@ -1300,7 +1300,6 @@ err
 epeus
 eburine
 effectualize
-effectualness
 effectuated
 effectuating
 effervesced
@@ -6203,6 +6202,7 @@ epicaridan
 enrapted
 ephori
 exponentiating
+effectualness
 enrapts
 eccentric
 encoignure
