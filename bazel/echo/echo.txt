@@ -2633,7 +2633,6 @@ excursed
 electrotaxis
 electrotechnic
 electrotechnician
-expansionary
 extendibility
 electrotechnologist
 electrotelegraphy
@@ -3348,6 +3347,7 @@ embars
 embase
 embassadress
 embassy
+expansionary
 epiphytes
 engler
 ensue
