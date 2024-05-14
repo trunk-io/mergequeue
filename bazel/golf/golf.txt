@@ -1516,7 +1516,6 @@ garrotte
 garrotted
 garrulinae
 ghouls
-garruline
 graven
 garrulity
 goatherds
@@ -4960,6 +4959,7 @@ gnomonics
 gleg
 gladfulness
 gorblimey
+garruline
 gladhearted
 gracefulness
 galaxian
