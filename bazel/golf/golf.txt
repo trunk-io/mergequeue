@@ -1432,7 +1432,6 @@ geometrina
 garmentmaker
 grafting
 gemmel
-geogony
 garments
 grasseye
 glutael
@@ -4592,6 +4591,7 @@ giraffine
 gills
 garlicky
 gyral
+geogony
 getter
 ghoul
 ghetti
