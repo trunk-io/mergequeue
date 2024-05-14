@@ -3776,7 +3776,6 @@ battier
 batties
 battik
 batting
-battings
 battledores
 baldly
 barotraumata
@@ -5504,6 +5503,7 @@ behearse
 bawd
 beheira
 bolter
+battings
 behemoth
 behemothic
 behemoths
