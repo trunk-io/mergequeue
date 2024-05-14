@@ -3695,7 +3695,6 @@ batmen
 bigaroon
 ban
 baton
-batoneer
 blackball
 batonga
 budded
@@ -18243,6 +18242,7 @@ bismanol
 butterfishes
 butterfly
 butterflied
+batoneer
 bunkums
 brutisms
 blathering
