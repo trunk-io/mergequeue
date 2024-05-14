@@ -12577,7 +12577,6 @@ countergauger
 chromoprotein
 chromopsia
 chromoptometer
-coffle
 chromoptometrical
 chromos
 coadjacency
@@ -19401,6 +19400,7 @@ colorbreed
 colorcast
 colorcasted
 colorcasting
+coffle
 colorcasts
 colorectitis
 colorectostomy
