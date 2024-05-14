@@ -14158,7 +14158,6 @@ cyprians
 cyprid
 cyprididae
 cypridina
-cypridinidae
 calfret
 contraregular
 cypridinoid
@@ -27065,6 +27064,7 @@ calgon
 caribi
 counterpractice
 counterpray
+cypridinidae
 counterpreach
 counterprick
 combinatoric
