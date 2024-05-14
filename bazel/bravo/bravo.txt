@@ -638,7 +638,6 @@ bathylite
 bacteriodiagnosis
 bromates
 benomyls
-bacterid
 bacteriogenic
 bacteriogenous
 bacteriohemolysin
@@ -2994,6 +2993,7 @@ barter
 barterers
 bartering
 barters
+bacterid
 blood
 barth
 barthite
