@@ -2494,7 +2494,6 @@ candlelit
 carvels
 candlemaker
 candlemaking
-candlemas
 crewel
 candlenut
 candlepins
@@ -24841,6 +24840,7 @@ cleome
 coquetting
 cumbered
 coquettish
+candlemas
 coquettishly
 capmaker
 coquettishness
