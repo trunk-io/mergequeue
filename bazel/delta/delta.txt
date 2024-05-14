@@ -1692,7 +1692,6 @@ dephysicalization
 doorjambs
 dearn
 dearness
-diaphanoscope
 dismissive
 dears
 dendrobatinae
@@ -6271,6 +6270,7 @@ drupe
 dermatoconiosis
 dermatodynia
 dermatogen
+diaphanoscope
 dermatoglyphics
 dermatography
 dsect
