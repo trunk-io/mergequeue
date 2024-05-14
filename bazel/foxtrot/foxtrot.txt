@@ -9334,6 +9334,7 @@ fikie
 frontispieced
 fraktur
 framboise
+fructuate
 fasciolet
 farewells
 forgeries
@@ -10655,7 +10656,6 @@ floralia
 frontward
 finched
 frictionizing
-fructuate
 fightwite
 familiary
 fructuous
