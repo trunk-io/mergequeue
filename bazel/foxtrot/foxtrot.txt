@@ -8750,7 +8750,6 @@ falsifiers
 fortunel
 froe
 fixedly
-frons
 fortunes
 frenchism
 frankfort
@@ -10881,6 +10880,7 @@ fulgentness
 fulgidity
 ferriage
 fantasizing
+frons
 fulgorid
 fulgoridae
 fon
