@@ -15071,7 +15071,6 @@ benting
 brewership
 brewhouse
 brewhouses
-brewing
 brewis
 benzofuroquinoxaline
 brewises
@@ -15699,6 +15698,7 @@ bilirubin
 brodyagi
 brodie
 broeboe
+brewing
 brog
 brogan
 brogger
