@@ -5578,7 +5578,6 @@ flier
 flyer
 footglove
 faeces
-flyers
 foretelling
 fossilization
 firstling
@@ -9588,6 +9587,7 @@ freakdom
 fentanyl
 freaked
 frostproof
+flyers
 freaky
 frayne
 ficoid
