@@ -10065,7 +10065,6 @@ boatful
 bochism
 bivouaced
 bivouacked
-bivouacking
 brawlys
 bivouacs
 bibliographical
@@ -10211,6 +10210,7 @@ blackfly
 backlogs
 binghi
 bibasic
+bivouacking
 bassing
 blackguard
 bos

@@ -5849,7 +5849,6 @@ doohinkus
 distome
 depositaries
 depositation
-deposited
 depositing
 disgorgement
 delacrimation
@@ -10019,6 +10018,7 @@ doddle
 dockmackie
 dyschromatopsia
 dynamo
+deposited
 delignate
 disinfectant
 dynamoelectrical
