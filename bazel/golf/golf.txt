@@ -1262,7 +1262,6 @@ grecism
 gladsomely
 griminess
 gimcrackery
-gapping
 ghettoing
 guardfully
 gaining
@@ -5625,6 +5624,7 @@ georgical
 girosols
 globular
 glossolabial
+gapping
 gonidia
 gconvert
 glare
