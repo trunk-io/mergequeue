@@ -2126,7 +2126,6 @@ banquets
 banquette
 bans
 bansalague
-bufagin
 boguing
 bansela
 billbeetle
@@ -13874,6 +13873,7 @@ boxcar
 bonify
 boxcars
 bowpin
+bufagin
 billete
 boxed
 blent
