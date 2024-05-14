@@ -9334,7 +9334,6 @@ amphibiontic
 argos
 acerose
 alphabetic
-alphabetical
 adnumber
 alphabetically
 arthrostraca
@@ -20902,6 +20901,7 @@ asarta
 asarum
 asarums
 asb
+alphabetical
 asbest
 apis
 asbestic
