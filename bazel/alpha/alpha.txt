@@ -7524,7 +7524,6 @@ albuginea
 agrin
 albugineous
 albugines
-albuginitis
 albugo
 album
 albumen
@@ -20915,6 +20914,7 @@ asbestoidal
 airfields
 asbestos
 asbestosis
+albuginitis
 ancylostomum
 asbestous
 alkalifiable
