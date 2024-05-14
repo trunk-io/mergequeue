@@ -10419,6 +10419,7 @@ diphenylguanidine
 diphenylhydantoin
 disvulnerability
 diphenylmethane
+disowns
 diphenyls
 dispowder
 diphenoxylate
@@ -16563,7 +16564,6 @@ dragee
 dragged
 dragger
 distend
-disowns
 dammed
 draggers
 draggier
