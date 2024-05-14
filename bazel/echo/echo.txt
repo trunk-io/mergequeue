@@ -7335,6 +7335,7 @@ eparchs
 eparterial
 endymal
 epaule
+exocoele
 epaulement
 effodientia
 epauleted
@@ -12643,7 +12644,6 @@ exoclinal
 exocline
 escapists
 exocoelar
-exocoele
 exploring
 exocoelic
 exocoelom
