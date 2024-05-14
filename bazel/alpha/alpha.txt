@@ -4069,7 +4069,6 @@ adjutant
 acicularity
 adjutants
 antimonopoly
-adjutantship
 anesthetic
 adjutator
 adjute
@@ -9269,6 +9268,7 @@ alogia
 alogically
 alogotrophy
 alderwoman
+adjutantship
 aloyau
 aloid
 aloin
