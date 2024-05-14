@@ -16772,6 +16772,7 @@ companero
 centimeter
 coeliorrhoea
 cloudlessness
+crystallometry
 container
 cloudlike
 cloudology
@@ -29494,7 +29495,6 @@ crystalloidal
 crystalloluminescence
 crystallomagnetic
 crystallomancy
-crystallometry
 continuist
 crystallometric
 crystallose
