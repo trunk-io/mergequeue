@@ -17095,7 +17095,6 @@ baluga
 bullboat
 bullcart
 bullcomber
-barcarole
 brokerages
 bulldog
 browis
@@ -18376,6 +18375,7 @@ buzukia
 buzukis
 buzz
 bekilted
+barcarole
 buzzard
 bursted
 buzzards
