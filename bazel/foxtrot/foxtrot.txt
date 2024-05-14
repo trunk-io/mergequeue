@@ -8000,6 +8000,7 @@ foresights
 floorthrough
 foresignify
 foresin
+forebespeak
 foreskin
 foreskins
 flench
@@ -10151,7 +10152,6 @@ foreleader
 furanose
 frypans
 friponerie
-forebespeak
 flagitate
 filicornia
 fireblende
