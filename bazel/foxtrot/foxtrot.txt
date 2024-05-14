@@ -2695,7 +2695,6 @@ flintiness
 freeloving
 ferrugo
 flusters
-foreshoulder
 ferrule
 farde
 frumentation
@@ -6899,6 +6898,7 @@ foliature
 foliiferous
 folily
 facemaking
+foreshoulder
 foreadapt
 foliobranch
 foliocellosis
