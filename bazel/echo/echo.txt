@@ -2508,7 +2508,6 @@ electromotograph
 enwiden
 epimerised
 escadrilles
-electron
 eleutherarch
 ethnarchy
 evaporator
@@ -11720,6 +11719,7 @@ exaggerates
 emetines
 exaggeratingly
 enmask
+electron
 electrotyping
 expends
 ecphasis
