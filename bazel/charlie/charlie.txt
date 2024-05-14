@@ -6573,7 +6573,6 @@ cd
 cdf
 carid
 cdg
-cdr
 ce
 cesspool
 celibates
@@ -10253,6 +10252,7 @@ chiack
 chyack
 cerin
 chyak
+cdr
 chiam
 cowpea
 chian
