@@ -14712,6 +14712,7 @@ dockhand
 debadge
 defensemen
 dockhouse
+duello
 dockyard
 dockyardman
 daktylon
@@ -17901,7 +17902,6 @@ docible
 duelli
 duelling
 duellist
-duello
 duellos
 durance
 droopt
