@@ -6245,7 +6245,6 @@ bends
 bendwise
 beneception
 balaneutics
-benedicite
 benedicks
 benedicta
 benedictine
@@ -17937,6 +17936,7 @@ bepaints
 bothroi
 biassed
 busheled
+benedicite
 beauship
 bivium
 bushelers
