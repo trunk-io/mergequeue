@@ -6636,7 +6636,6 @@ goma
 gomari
 gametophobia
 grasp
-guestchamber
 gomart
 gomashta
 gombo
@@ -10406,6 +10405,7 @@ gumboils
 graphologic
 gruffy
 genteelism
+guestchamber
 goudy
 garance
 germanics

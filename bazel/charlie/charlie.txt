@@ -24875,6 +24875,7 @@ coracles
 coracoacromial
 coracobrachial
 clipeus
+crownpiece
 calcimeter
 coracobrachialis
 coracoclavicular
@@ -30088,7 +30089,6 @@ crownlike
 crownmaker
 crownment
 clavolae
-crownpiece
 crownwork
 crownwort
 crows
