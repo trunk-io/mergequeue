@@ -2539,7 +2539,6 @@ canduc
 camphires
 cane
 corneum
-cities
 cliffing
 canebrake
 canebrakes
@@ -31600,6 +31599,7 @@ curvetted
 curvetting
 curvy
 chinwag
+cities
 ceriornis
 curvicaudate
 curvidentate

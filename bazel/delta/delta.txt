@@ -4772,7 +4772,6 @@ demitone
 deteriorated
 demitrain
 demitranslucence
-demits
 demitted
 denticulately
 demitube
@@ -13038,6 +13037,7 @@ disamenity
 dispeoplement
 dispeopling
 dyspepsy
+demits
 dyspepsies
 dyspeptic
 diversifying
