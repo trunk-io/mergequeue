@@ -8579,7 +8579,6 @@ excessmen
 emulsifying
 equerryship
 ectomeric
-eques
 equestrial
 equestrian
 evites
@@ -10721,6 +10720,7 @@ exigenter
 excavate
 endozoa
 educts
+eques
 expectations
 eudemonistic
 eudemons
