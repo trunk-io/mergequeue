@@ -6232,7 +6232,6 @@ enrichments
 enows
 electrotechnology
 epsilon
-enridged
 exarchal
 ecclesiastry
 expediencies
@@ -7203,6 +7202,7 @@ ectogenetic
 eo
 equilobate
 ergotization
+enridged
 extravascular
 eoan
 equinecessary
