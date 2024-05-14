@@ -4229,7 +4229,6 @@ gambas
 globuloid
 gymnolaemata
 gunster
-gymnolaematous
 gallous
 gymnonoti
 glumous
@@ -8929,6 +8928,7 @@ grievants
 grievedly
 gazy
 grieveship
+gymnolaematous
 gursh
 grievous
 gearbox

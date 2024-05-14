@@ -12376,6 +12376,7 @@ bombycilla
 bombs
 bombsights
 bombus
+bookrack
 bombardelle
 bomi
 barbuts
@@ -12722,7 +12723,6 @@ baroni
 barwise
 beefsteaks
 bookpress
-bookrack
 bookracks
 baronry
 bookrest
