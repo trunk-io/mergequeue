@@ -2121,7 +2121,6 @@ grungy
 goldenseal
 gawish
 gangboard
-gigging
 gawk
 grubs
 ginglmi
@@ -4778,6 +4777,7 @@ gloam
 gaize
 gallomania
 guisard
+gigging
 graecism
 girted
 girthed
