@@ -6088,6 +6088,7 @@ dequeue
 dermorhynchi
 duomi
 decry
+downloadable
 dequeues
 dropshots
 der
@@ -16290,7 +16291,6 @@ downlying
 downlink
 downlinked
 downlinking
-downloadable
 downloaded
 downloading
 downloads
