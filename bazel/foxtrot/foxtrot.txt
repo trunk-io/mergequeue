@@ -806,7 +806,6 @@ fesswise
 fango
 fangs
 fanion
-frowsy
 forgedly
 flusher
 faltering
@@ -3680,6 +3679,7 @@ flawier
 filigraned
 furnage
 freeboots
+frowsy
 fewter
 filigreeing
 filigrees
