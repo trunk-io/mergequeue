@@ -2348,6 +2348,7 @@ cancelability
 cancelable
 cancelation
 canceled
+catpipe
 canceleer
 canceler
 cancelers
@@ -5468,7 +5469,6 @@ casuistic
 casuistically
 cyclopedia
 casuistry
-catpipe
 conductances
 casuistries
 casule
