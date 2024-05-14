@@ -20117,7 +20117,6 @@ aromatic
 aromatical
 abomasusi
 aromatically
-aromaticity
 actinosoma
 auriscopically
 aromatics
@@ -25213,6 +25212,7 @@ aalii
 algetic
 alienly
 atrocha
+aromaticity
 axseed
 axstone
 amoralize
