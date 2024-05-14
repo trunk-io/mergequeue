@@ -651,6 +651,7 @@ fringefoot
 fam
 famacide
 ferromagnet
+forcipal
 furlanas
 fortitudinous
 frill
@@ -3397,7 +3398,6 @@ faintish
 fieldwork
 fieldworker
 feeless
-forcipal
 fieldwort
 fiendful
 fiendfully
