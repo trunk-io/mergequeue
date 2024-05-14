@@ -13313,7 +13313,6 @@ cyclecars
 cycledom
 cycler
 cyclers
-comonomer
 cycles
 cyclesmith
 castoridae
@@ -17370,6 +17369,7 @@ coatee
 coatees
 clericity
 coaters
+comonomer
 coatie
 coatimondie
 cretinized
