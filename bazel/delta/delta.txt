@@ -144,7 +144,6 @@ deviascope
 dekko
 daddles
 daddling
-daddocky
 deino
 displacency
 dade
@@ -13125,6 +13124,7 @@ displaceable
 drys
 dilly
 displaced
+daddocky
 displacement
 displacements
 displacing
