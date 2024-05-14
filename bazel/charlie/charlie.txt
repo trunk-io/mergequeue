@@ -13312,7 +13312,6 @@ cyclazocine
 cycle
 cyclecar
 cyclecars
-cycledom
 cycler
 cyclers
 comonomer
@@ -13854,6 +13853,7 @@ coconstituent
 cretinoid
 cutleriaceae
 cinchotine
+cycledom
 cogroad
 cullions
 cincinnal
