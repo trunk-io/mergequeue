@@ -5978,7 +5978,6 @@ depreter
 depriment
 deprint
 depriorize
-dysmerism
 deprivable
 disprofit
 declassing
@@ -15748,6 +15747,7 @@ doroscentral
 dorothea
 dorp
 diphthongalize
+dysmerism
 dorpers
 dorr
 dorrbeetle
