@@ -4953,7 +4953,6 @@ cartilagineous
 cartilagines
 cartilaginoid
 cartilaginous
-carting
 cartisane
 cartist
 cartload
@@ -25657,6 +25656,7 @@ corporationism
 corporations
 corners
 corporatism
+carting
 corporatist
 corporative
 corporatively
