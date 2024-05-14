@@ -4977,7 +4977,6 @@ fauvist
 flanked
 flickery
 flanker
-flankers
 falconries
 flanking
 flanks
@@ -5792,6 +5791,7 @@ freshman
 flitterbat
 foots
 featherback
+flankers
 fellowess
 flittered
 flittermice
