@@ -7309,7 +7309,6 @@ epanorthidae
 ephorates
 epanorthoses
 endocarpic
-epanorthotic
 extremer
 epapophysis
 evaporated
@@ -10573,6 +10572,7 @@ ettled
 ecclesiolatry
 ettling
 economizer
+epanorthotic
 enterolithiasis
 etuve
 etuvee
