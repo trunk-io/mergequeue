@@ -4962,7 +4962,6 @@ bogyisms
 beefalos
 bilimbis
 brig
-beefburgers
 bebelted
 beefeater
 beefeaters
@@ -10306,6 +10305,7 @@ blackweed
 barotactic
 babuma
 blackwort
+beefburgers
 barytic
 blad
 bladderet
