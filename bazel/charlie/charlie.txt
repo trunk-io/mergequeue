@@ -5321,7 +5321,6 @@ cuspidated
 cassons
 chapt
 cassoon
-cassoulet
 cassowary
 cassowaries
 cassumunar
@@ -18338,6 +18337,7 @@ cogitant
 cogitantly
 cogitates
 cogitation
+cassoulet
 cogitations
 cogitative
 curassow
