@@ -4071,7 +4071,6 @@ acicularity
 adjutants
 antimonopoly
 adjutantship
-anesthetic
 adjutator
 adjute
 adjutor
@@ -10289,6 +10288,7 @@ amene
 aeroides
 agaricic
 amenia
+anesthetic
 amenism
 amenite
 amenities
