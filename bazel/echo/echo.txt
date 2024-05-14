@@ -1040,6 +1040,7 @@ electioneered
 endoskeleton
 eqpt
 evaniidae
+exporter
 edgar
 edge
 embellishing
@@ -13903,7 +13904,6 @@ extramusical
 extranational
 evulge
 erective
-exporter
 extranean
 extraneity
 eolith
