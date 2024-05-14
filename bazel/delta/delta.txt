@@ -7957,7 +7957,6 @@ disallowable
 disguised
 dextrane
 dextrer
-defunctive
 dextrinate
 dismayedness
 dextrinize
@@ -12598,6 +12597,7 @@ disanoint
 disjasket
 disjaskit
 disject
+defunctive
 disjected
 discapacitate
 disjoin
