@@ -5434,7 +5434,6 @@ beseemly
 bookish
 begroan
 baileys
-begroans
 bibliopolism
 begrown
 begrudge
@@ -6542,6 +6541,7 @@ benzopyran
 breakup
 benzopyranyl
 butanes
+begroans
 benzopyrazolone
 benzopyrene
 benzopyrylium
