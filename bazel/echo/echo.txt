@@ -1750,6 +1750,7 @@ epochal
 eyepoint
 eyereach
 eyeroot
+electroballistics
 eupomatia
 eguttulate
 exhbn
@@ -2269,7 +2270,6 @@ electroanalytic
 embassade
 electroanesthesia
 electroballistically
-electroballistics
 electrobath
 electrobiological
 enjeopardy
