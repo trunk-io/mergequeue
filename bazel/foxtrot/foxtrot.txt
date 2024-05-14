@@ -4613,7 +4613,6 @@ fervid
 fivepence
 forages
 fm
-fivesome
 fivestones
 foliums
 frenuna
@@ -11424,6 +11423,7 @@ fess
 floralize
 furnarius
 furnish
+fivesome
 furnishable
 flamenship
 folkvangr
