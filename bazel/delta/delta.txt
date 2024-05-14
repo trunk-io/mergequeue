@@ -4216,7 +4216,6 @@ dishonourable
 disherit
 delisk
 delisting
-delists
 delit
 dob
 delitescence
@@ -8378,6 +8377,7 @@ dialist
 dent
 dialystaminous
 downhanging
+delists
 dialystely
 dialystelic
 dialister
