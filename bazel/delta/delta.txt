@@ -12776,7 +12776,6 @@ dismembering
 dismemberments
 dismembers
 dipteran
-dismembrate
 dismembrated
 dismembrator
 doughfoots
@@ -15802,6 +15801,7 @@ duellize
 dorsiventral
 diggings
 depreciations
+dismembrate
 dorsiventrally
 dorsoapical
 dorsocaudad
