@@ -1275,7 +1275,6 @@ calibrating
 calibrations
 calibre
 calibred
-calibres
 chromatophilia
 cyanohydrin
 caliburn
@@ -25207,6 +25206,7 @@ corybantine
 chemung
 corybantish
 corybulbin
+calibres
 cornels
 corybulbine
 corycavidin
