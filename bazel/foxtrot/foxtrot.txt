@@ -208,7 +208,6 @@ fifing
 fazenda
 forebar
 factotum
-factotums
 ferrihemoglobin
 fellsman
 factrix
@@ -3097,6 +3096,7 @@ fiatconfirmatio
 fencibles
 fibbery
 flacks
+factotums
 faveolate
 fibbers
 flotsan
