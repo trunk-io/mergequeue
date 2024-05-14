@@ -12652,7 +12652,6 @@ anfract
 anfractuose
 anfractuosity
 argils
-authentications
 anfractuousness
 addleheadedly
 anfracture
@@ -16828,6 +16827,7 @@ apharsathacites
 aphasia
 aphasiacs
 aphasic
+authentications
 aphasics
 aphelandra
 aphelenchus
