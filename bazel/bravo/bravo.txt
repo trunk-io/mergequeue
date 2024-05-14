@@ -14061,7 +14061,6 @@ bontee
 brachistocephalic
 boloed
 brass
-brachistochrone
 brachistochronic
 brachistochronous
 baronies
@@ -15707,6 +15706,7 @@ brogue
 basiparachromatin
 broguer
 baldachined
+brachistochrone
 blessedly
 brogueries
 boraces
