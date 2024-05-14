@@ -1631,7 +1631,6 @@ accordancy
 accordatura
 amphiphloic
 accordaturas
-accordature
 accorded
 accorder
 accordingly
@@ -15453,6 +15452,7 @@ antilysis
 antilyssic
 antilithic
 antilytic
+accordature
 antilitter
 antiliturgy
 annunciators
