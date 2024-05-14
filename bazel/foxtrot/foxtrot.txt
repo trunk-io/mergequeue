@@ -581,6 +581,7 @@ falltime
 fallway
 fuzzy
 falsary
+foolship
 falsehearted
 funt
 favoress
@@ -1681,7 +1682,6 @@ fc
 fitchering
 fipenny
 fcomp
-foolship
 fconv
 farcin
 familiar

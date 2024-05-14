@@ -7662,7 +7662,6 @@ baronages
 bewailable
 bewailed
 bewailer
-burglarproof
 bewailers
 bummers
 belimousined
@@ -17976,6 +17975,7 @@ bareness
 bushmaker
 bakuninism
 bearbine
+burglarproof
 bushmaking
 bierstubes
 bombazine
