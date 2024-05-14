@@ -2966,7 +2966,6 @@ feudalising
 febricide
 feudalism
 feudalist
-feudalists
 feudality
 fractionising
 fustigation
@@ -10918,6 +10917,7 @@ fecundating
 fullam
 fullams
 firelit
+feudalists
 finback
 fulled
 fuller
