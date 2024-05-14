@@ -6328,7 +6328,6 @@ alchemise
 agoniatite
 agoniatites
 aegerian
-agonic
 agonies
 agonise
 axillas
@@ -16770,6 +16769,7 @@ apertum
 adventures
 apertural
 athrob
+agonic
 acceder
 apertured
 apertures
