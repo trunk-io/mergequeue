@@ -10302,7 +10302,6 @@ freetrader
 ferrado
 frogbit
 figurette
-frogeye
 frogeyed
 fibra
 frogfish
@@ -10968,6 +10967,7 @@ fulmined
 fadridden
 fayumic
 fulmines
+frogeye
 fulminurate
 fulness
 fulnesses
