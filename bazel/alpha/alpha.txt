@@ -9132,6 +9132,7 @@ authenticatable
 almanacs
 almander
 almandine
+ancillae
 almandines
 almanner
 alme
@@ -12254,7 +12255,6 @@ ancientness
 ancile
 ancilla
 anticks
-ancillae
 ancillary
 ancillaries
 aulostomidae
