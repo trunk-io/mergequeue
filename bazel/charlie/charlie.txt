@@ -9595,7 +9595,6 @@ circumferences
 checkpoint
 checkpointed
 concursus
-checkpointing
 checkpoints
 commonize
 crossbowmen
@@ -26836,6 +26835,7 @@ counterdistinct
 cronied
 coscinodiscus
 counterdistinction
+checkpointing
 chutzpah
 counterdistinguish
 counterdoctrine
