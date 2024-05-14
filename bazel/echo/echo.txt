@@ -4262,7 +4262,6 @@ enteropathogenic
 emunctory
 electroencephalographic
 enlay
-emunctories
 exostracism
 epigraphical
 emunge
@@ -4442,6 +4441,7 @@ encashment
 elementarity
 etesian
 encasing
+emunctories
 excluder
 emphatically
 entoderm
