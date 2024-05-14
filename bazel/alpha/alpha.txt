@@ -9641,6 +9641,7 @@ ameliorative
 aluminite
 aluminium
 aluminize
+axodendrite
 aluminizes
 aluminizing
 aition
@@ -25168,7 +25169,6 @@ axmaking
 axman
 axmaster
 axminster
-axodendrite
 axofugal
 axogamy
 axoid
