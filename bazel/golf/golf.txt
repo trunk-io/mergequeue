@@ -2581,6 +2581,7 @@ geranomorphic
 gendarmery
 geobotanical
 gendarmerie
+gnawings
 guided
 gendarmes
 gigacycle
@@ -6189,7 +6190,6 @@ grume
 gablock
 gonococcoid
 genitives
-gnawings
 gloriette
 gnaws
 glebes
