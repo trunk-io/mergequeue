@@ -8149,6 +8149,7 @@ exedra
 entosphere
 ern
 eucrasy
+expanded
 episcopature
 emarcid
 episcopicide
@@ -12873,7 +12874,6 @@ exp
 embusque
 expalpate
 expandable
-expanded
 escropulo
 exsert
 expandedly
