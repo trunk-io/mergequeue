@@ -2710,7 +2710,6 @@ deconcentration
 didy
 decondition
 decongest
-decongestant
 decongestants
 decongested
 deltoidei
@@ -5035,6 +5034,7 @@ diseasedly
 demulsified
 demulsifier
 demulsion
+decongestant
 dubitation
 distinguish
 demultiplex
