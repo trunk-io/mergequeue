@@ -2861,6 +2861,7 @@ elevens
 expiates
 elevenses
 eoanthropus
+enherit
 eventualities
 eleventeenth
 eleventh
@@ -12603,7 +12604,6 @@ exite
 exitial
 exiting
 envied
-enherit
 exitious
 exits
 exiture
