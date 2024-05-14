@@ -4586,7 +4586,6 @@ contrastimulation
 cacomixls
 carnivals
 carnivora
-carnivoracity
 carnivoral
 carnivore
 carnivorism
@@ -8276,6 +8275,7 @@ chairmaker
 chairmaking
 chairman
 chairmaning
+carnivoracity
 chairmanned
 chairmanning
 chairmans
