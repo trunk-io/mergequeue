@@ -5271,7 +5271,6 @@ denominative
 dicty
 denominatively
 denominators
-denormalized
 denotable
 denotative
 deliriums
@@ -16067,6 +16066,7 @@ despitous
 doucepere
 dual
 douceur
+denormalized
 douche
 douches
 dorhawks

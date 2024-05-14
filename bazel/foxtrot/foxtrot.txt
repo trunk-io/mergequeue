@@ -2813,6 +2813,7 @@ flagroot
 footway
 festy
 festilogy
+flanderkin
 feods
 filate
 fouling
@@ -7270,7 +7271,6 @@ fogs
 forepeak
 forefronts
 footpounds
-flanderkin
 footprint
 footraces
 fb
