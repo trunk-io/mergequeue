@@ -5459,7 +5459,6 @@ denuder
 douched
 dialysation
 downtrend
-denaturiser
 denumerable
 denumerably
 dolling
@@ -10167,6 +10166,7 @@ dinitrate
 dopplerite
 dinitril
 dinitro
+denaturiser
 dinitrocellulose
 deutomalar
 dollarfish
