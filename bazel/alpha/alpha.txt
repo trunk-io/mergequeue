@@ -4908,7 +4908,6 @@ authoritatively
 anthologizing
 aerialist
 aeriality
-aerially
 aerials
 aeric
 anoplocephalic
@@ -12561,6 +12560,7 @@ anemosis
 accessively
 anemotactic
 anemotaxis
+aerially
 anemotropism
 aggregatae
 anencephalia
