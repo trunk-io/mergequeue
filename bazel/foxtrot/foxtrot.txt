@@ -1101,7 +1101,6 @@ faro
 floriken
 floter
 foredestining
-faroelite
 franzy
 foremast
 farolito
@@ -6771,6 +6770,7 @@ fellator
 fibroadenoma
 fishpond
 fogscoffer
+faroelite
 fogus
 fairydom
 foh
