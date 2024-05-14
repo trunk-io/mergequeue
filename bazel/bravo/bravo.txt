@@ -2302,7 +2302,6 @@ barbascos
 barbastel
 barbastelle
 barbate
-barbated
 bescorched
 bolyaian
 barbatimao
@@ -9363,6 +9362,7 @@ bipods
 baccae
 botches
 bipolar
+barbated
 bipolarity
 bipolarization
 bipont

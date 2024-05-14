@@ -7149,7 +7149,6 @@ centiar
 centiare
 chromocentral
 centiares
-centiday
 centifolious
 centigrade
 centigrado
@@ -10898,6 +10897,7 @@ coprostasis
 chiococca
 countersea
 chiococcine
+centiday
 chiogenes
 chiolite
 chionablepsia
