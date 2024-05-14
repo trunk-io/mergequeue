@@ -3013,6 +3013,7 @@ cantrip
 cantrips
 coveting
 cantus
+charmed
 cantuta
 chicadee
 cantwise
@@ -9125,7 +9126,6 @@ charlet
 charlocks
 charlottesville
 charm
-charmed
 cowlick
 censured
 charmedly
