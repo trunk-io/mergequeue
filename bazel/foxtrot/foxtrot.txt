@@ -7175,6 +7175,7 @@ footboys
 footbridge
 footcandles
 ferrate
+fourneau
 footcloths
 finedraw
 forthward
@@ -9022,7 +9023,6 @@ fourier
 fourierism
 fourling
 felsobanyite
-fourneau
 fourpence
 fourpenny
 fabricate
