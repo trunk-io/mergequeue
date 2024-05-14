@@ -725,7 +725,6 @@ cageman
 cager
 complexities
 cagers
-chasselas
 cages
 cricke
 cagester
@@ -30203,6 +30202,7 @@ caingang
 crumble
 crumblement
 crumbles
+chasselas
 crumblet
 confirm
 crumbliest
