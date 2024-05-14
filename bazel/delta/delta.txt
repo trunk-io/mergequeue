@@ -6393,7 +6393,6 @@ dermopterous
 dermosclerite
 dermoskeleton
 dermotropic
-derms
 ducula
 demurrable
 dern
@@ -15087,6 +15086,7 @@ dogwoods
 dohickey
 doyenne
 decussorium
+derms
 doyens
 disilicid
 doiled
