@@ -8351,7 +8351,6 @@ bifluoride
 bifocal
 bifocals
 buffbar
-bifoil
 bifolia
 balanocele
 berith
@@ -15726,6 +15725,7 @@ broideries
 broigne
 blueprinting
 bunds
+bifoil
 broiled
 broiler
 bastide
