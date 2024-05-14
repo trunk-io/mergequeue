@@ -4639,6 +4639,7 @@ fixedness
 foreby
 fructescence
 fibroreticulate
+forsooth
 fixer
 fixers
 feinted
@@ -8626,7 +8627,6 @@ feignedness
 fairlead
 feudalised
 forslow
-forsooth
 forspeak
 forspend
 farstepped
