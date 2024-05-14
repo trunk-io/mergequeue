@@ -7448,7 +7448,6 @@ albi
 albian
 albicans
 albicant
-albicore
 albicores
 albiculi
 albificative
@@ -13280,6 +13279,7 @@ anisamide
 anisandrous
 anisanilide
 annotated
+albicore
 african
 anisanthous
 anisate
