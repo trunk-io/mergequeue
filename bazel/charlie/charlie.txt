@@ -6236,7 +6236,6 @@ cottar
 caulds
 caulerpaceae
 caulerpaceous
-caules
 caulescent
 cauli
 caulicle
@@ -11677,6 +11676,7 @@ choleine
 colorization
 cholelith
 cholelithiasis
+caules
 caliperer
 cholelithic
 cholelithotomy
