@@ -1033,7 +1033,6 @@ fidgeter
 fleshen
 fargite
 fulmina
-forbears
 fucuses
 farhand
 farhands
@@ -6539,6 +6538,7 @@ facades
 flustrated
 flustration
 flustrine
+forbears
 flustroid
 figurally
 fourstrand
