@@ -4399,7 +4399,6 @@ elaboratory
 everest
 encapsulation
 encapsule
-encapsuled
 estimators
 encapsules
 enure
@@ -12499,6 +12498,7 @@ exhibitors
 enocyte
 effude
 establishment
+encapsuled
 epapillate
 exhilarated
 elengely
