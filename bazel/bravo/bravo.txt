@@ -12443,6 +12443,7 @@ bondfolk
 bogum
 bynin
 bondhold
+brimfull
 bondholders
 bicolor
 bondholding
@@ -14939,7 +14940,6 @@ betainogen
 balance
 breech
 breechcloth
-brimfull
 breechcloths
 breechclout
 breeched

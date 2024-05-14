@@ -2042,7 +2042,6 @@ campanella
 campanero
 campania
 cecils
-comdg
 campaniform
 campanile
 campaniles
@@ -25004,6 +25003,7 @@ continuums
 cordage
 canalizations
 cordages
+comdg
 celling
 cordaitaceae
 cordaitaceous
