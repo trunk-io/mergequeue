@@ -3189,7 +3189,6 @@ buffi
 basichromatinic
 babai
 basichromiole
-basicity
 bumph
 benzins
 baltis
@@ -14224,6 +14223,7 @@ braggart
 braggartism
 braggartly
 braggarts
+basicity
 braggat
 bragged
 bragger
