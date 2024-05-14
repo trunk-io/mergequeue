@@ -2516,6 +2516,7 @@ cecidiology
 committeewoman
 candlestick
 candlesticks
+cowfish
 candlestickward
 candlewaster
 candlewasting
@@ -27660,7 +27661,6 @@ cowerers
 cowering
 coweringly
 cowers
-cowfish
 cowfishes
 cowgirl
 cowgirls
