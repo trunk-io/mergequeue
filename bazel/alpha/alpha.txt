@@ -136,7 +136,6 @@ abater
 abatic
 abating
 abatis
-abatised
 abatjour
 alcades
 affectability
@@ -1667,6 +1666,7 @@ accoucheurs
 accoucheuses
 accountability
 accountable
+abatised
 accountably
 accountancy
 accountant
