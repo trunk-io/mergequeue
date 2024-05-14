@@ -1458,6 +1458,7 @@ gladnesses
 garniec
 garnished
 garnishee
+grittier
 garnisheed
 garnishees
 garnishes
@@ -9186,7 +9187,6 @@ gritrock
 grits
 gritted
 grittie
-grittier
 grooveless
 grivation
 grivna
