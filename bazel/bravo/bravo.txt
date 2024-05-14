@@ -10764,7 +10764,6 @@ blennemesis
 blennenteria
 bark
 blueback
-bandfish
 blennies
 bogijiab
 bishopric
@@ -18168,6 +18167,7 @@ biffins
 boundly
 boweling
 butylenes
+bandfish
 bullyboy
 boogie
 bedabbles
