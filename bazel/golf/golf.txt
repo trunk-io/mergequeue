@@ -291,6 +291,7 @@ grayout
 gaintwist
 ganev
 gamuts
+grifting
 gainward
 gairfowl
 geminating
@@ -8959,7 +8960,6 @@ grifters
 glory
 gatewards
 garoter
-grifting
 gunther
 grig
 ghent
