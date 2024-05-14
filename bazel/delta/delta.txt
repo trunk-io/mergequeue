@@ -4563,7 +4563,6 @@ duces
 demiassignation
 demibarrel
 demibath
-demibeast
 demibelt
 dinornithes
 dislink
@@ -14525,6 +14524,7 @@ decernment
 divulge
 divulged
 diminuted
+demibeast
 defluxion
 divulgence
 divulger
