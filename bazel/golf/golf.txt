@@ -1930,7 +1930,6 @@ gamenesses
 gatherings
 gatherum
 geniohyoid
-gathic
 goths
 gating
 gats
@@ -10524,6 +10523,7 @@ gunlock
 grimliness
 gunlocks
 guanays
+gathic
 gunmaking
 gaun
 gentilize
