@@ -1458,7 +1458,6 @@ glyconeogenetic
 gladnesses
 garniec
 garnished
-garnishee
 garnisheed
 garnishees
 garnishes
@@ -3739,6 +3738,7 @@ ghostlify
 graminifolious
 gnoses
 glistering
+garnishee
 grassation
 ghostship
 ghostweed
