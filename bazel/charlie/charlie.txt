@@ -10466,7 +10466,6 @@ chiffonier
 chiffoniers
 cooncan
 cementing
-cryptometer
 chiffonnier
 chiffonnieres
 chiffons
@@ -21808,6 +21807,7 @@ corresponsive
 chiffrobe
 conductometric
 conclamant
+cryptometer
 conductor
 cancered
 conductorial
