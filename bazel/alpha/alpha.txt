@@ -902,7 +902,6 @@ absently
 aflatus
 absentminded
 absentmindedly
-absentmindedness
 absentness
 abshenry
 absi
@@ -15326,6 +15325,7 @@ antifungal
 albertinian
 antifungin
 androcratic
+absentmindedness
 antigalactagogue
 ageusic
 antigambling
