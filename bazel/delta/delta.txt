@@ -1125,7 +1125,6 @@ depaint
 dashwheel
 diau
 dodunk
-dasyatis
 dasymeter
 dimpling
 distractingly
@@ -1560,6 +1559,7 @@ deadish
 deadishly
 dasyphyllous
 dagged
+dasyatis
 deadlight
 deadlily
 demand
