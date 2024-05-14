@@ -1584,7 +1584,6 @@ ecumenopolis
 eaglets
 eglomise
 exolete
-ego
 egocentrically
 entires
 enumerator
@@ -2703,6 +2702,7 @@ eyestalk
 elegy
 elegiacally
 elegiacs
+ego
 elegiambus
 enteroanastomosis
 exprobate
