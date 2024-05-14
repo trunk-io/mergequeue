@@ -9042,7 +9042,6 @@ bioelectrogenesis
 bioengineering
 bifurcates
 bioethic
-bannerless
 bioethics
 belltopperdom
 bouquetin
@@ -9123,6 +9122,7 @@ biomes
 biometric
 bayberry
 biometrician
+bannerless
 biennials
 biometricist
 beavery
