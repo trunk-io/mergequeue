@@ -12660,6 +12660,7 @@ chronomancy
 chronomantic
 chronomastix
 chronometer
+comprehensive
 citolers
 chronometers
 corin
@@ -20911,7 +20912,6 @@ comprehense
 comprehensibility
 comprehensibleness
 comprehensibly
-comprehensive
 comprehensively
 comprehensiveness
 comprehensives
