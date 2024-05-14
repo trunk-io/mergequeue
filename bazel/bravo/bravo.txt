@@ -5187,7 +5187,6 @@ befluster
 befog
 baetylus
 befogging
-beguile
 befogs
 bottoms
 batoid
@@ -16253,6 +16252,7 @@ blaeberry
 barbell
 bivouacks
 brrr
+beguile
 bruang
 bruce
 baklava
