@@ -422,6 +422,7 @@ ecballium
 ecblastesis
 ecbole
 ecbolic
+ensorcels
 electrizer
 ecca
 exitance
@@ -1935,7 +1936,6 @@ electrics
 equals
 extirpation
 eppy
-ensorcels
 eyeflap
 ejido
 ejoo
