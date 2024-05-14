@@ -8159,7 +8159,6 @@ episcopature
 emarcid
 episcopicide
 engyscope
-episcopised
 episcopization
 episcopize
 episcopized
@@ -12313,6 +12312,7 @@ endosperm
 executrixes
 executrixship
 exede
+episcopised
 epipsychidion
 enabling
 exegeses
