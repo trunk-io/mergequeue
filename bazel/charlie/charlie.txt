@@ -16110,6 +16110,7 @@ cliack
 clianthus
 clich
 cliche
+compasses
 cliched
 cliches
 click
@@ -20513,7 +20514,6 @@ compass
 compassability
 compassable
 compassed
-compasses
 compassing
 compassion
 compassionable
