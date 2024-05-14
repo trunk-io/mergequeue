@@ -3174,7 +3174,6 @@ defamous
 dermatology
 deadworks
 dollyway
-defat
 defatigation
 defatted
 demythologizing
@@ -12709,6 +12708,7 @@ dislodgeable
 dislodged
 dislodgement
 datchas
+defat
 dislodgment
 dyslogy
 dyslogistic
