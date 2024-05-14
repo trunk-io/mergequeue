@@ -4595,7 +4595,6 @@ gyral
 getter
 ghoul
 ghetti
-gurrah
 gigantine
 girasol
 gyrate
@@ -5886,6 +5885,7 @@ glout
 glycogen
 guardians
 geometricist
+gurrah
 goiter
 glouted
 gardenias
