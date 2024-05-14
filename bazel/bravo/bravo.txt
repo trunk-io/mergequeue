@@ -804,6 +804,7 @@ bads
 bonsoir
 beeline
 besteading
+behalves
 biometrical
 bandless
 bae
@@ -12909,7 +12910,6 @@ boots
 bootstrapped
 bootstrapping
 boottop
-behalves
 boozed
 biforous
 bushelage
