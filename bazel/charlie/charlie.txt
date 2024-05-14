@@ -7114,7 +7114,6 @@ compania
 campings
 colonus
 centerfolds
-centering
 centerless
 centerline
 centermost
@@ -15008,6 +15007,7 @@ coenactor
 cytopathologically
 complish
 chasmy
+centering
 cytopenia
 cytophagy
 centrosymmetry
