@@ -1341,6 +1341,7 @@ endoskeletal
 exomis
 ebcdic
 effervesces
+ensporia
 enopla
 effervescive
 endopod
@@ -3851,7 +3852,6 @@ eminences
 extraboldface
 eminencies
 eminent
-ensporia
 eminently
 extratympanic
 expressionless
