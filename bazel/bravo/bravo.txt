@@ -2599,7 +2599,6 @@ barytocalcite
 beclothed
 bedevils
 barytocelestite
-barytone
 barytones
 bedaff
 barytons
@@ -15739,6 +15738,7 @@ broodingly
 bouncer
 broke
 burglariously
+barytone
 barebones
 bemires
 broken
