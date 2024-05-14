@@ -2226,7 +2226,6 @@ electrets
 esophagogastrostomy
 exploitive
 exode
-electricalize
 electrically
 embryony
 electricalness
@@ -8636,6 +8635,7 @@ exodontics
 equilibrates
 equilibrating
 exchange
+electricalize
 endocannibalism
 enrobers
 equilibrative
