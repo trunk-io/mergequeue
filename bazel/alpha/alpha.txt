@@ -20792,7 +20792,6 @@ artmobile
 artocarpaceae
 aribin
 artocarpad
-artocarpeous
 artocarpous
 artolater
 artolatry
@@ -22759,6 +22758,7 @@ assemblages
 anyhow
 assonate
 atolls
+artocarpeous
 atom
 atomatic
 atomechanics
