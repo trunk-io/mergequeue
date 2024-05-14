@@ -7357,7 +7357,6 @@ daimones
 detinuit
 detn
 detonability
-detonable
 demilunes
 depersonalised
 dissociate
@@ -10508,6 +10507,7 @@ dobies
 duper
 demoded
 denominationalize
+detonable
 diplantidian
 diplarthrism
 disencumbers
