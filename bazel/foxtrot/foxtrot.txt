@@ -369,7 +369,6 @@ flagpole
 formatively
 fieldfight
 froes
-feldspathose
 faintly
 ferrymen
 fearer
@@ -5015,6 +5014,7 @@ faraway
 flapping
 folders
 flywire
+feldspathose
 flumps
 fun
 fuligo
