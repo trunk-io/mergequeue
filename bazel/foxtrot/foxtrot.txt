@@ -4382,7 +4382,6 @@ fishiness
 fishing
 frenum
 flanched
-feluccas
 fishless
 frameworks
 fittit
@@ -10124,6 +10123,7 @@ flor
 fungus
 fitter
 frontopontine
+feluccas
 florigen
 frimitts
 fringed
