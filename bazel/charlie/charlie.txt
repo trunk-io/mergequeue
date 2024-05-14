@@ -19449,7 +19449,6 @@ calcitonin
 chimaeridae
 colorless
 colormaker
-colorman
 coloroto
 colors
 colortype
@@ -30621,6 +30620,7 @@ cuddies
 cuddyhole
 cheero
 cuddle
+colorman
 circularize
 cuddleable
 cuddled
