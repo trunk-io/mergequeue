@@ -8130,7 +8130,6 @@ extracalicular
 episcenium
 enew
 episcia
-episclera
 episcleral
 episcopacy
 eyewash
@@ -8618,6 +8617,7 @@ eleutheromania
 equidivision
 epigrammatising
 equippers
+episclera
 embouchures
 equielliptical
 endolabyrinthitis
