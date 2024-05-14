@@ -4264,7 +4264,6 @@ guilloche
 ginward
 garnishable
 gest
-gastrologist
 gymnurine
 gimped
 gimpier
@@ -8512,6 +8511,7 @@ graziery
 graziers
 grazing
 glossagra
+gastrologist
 growthful
 garlandwise
 grazings
