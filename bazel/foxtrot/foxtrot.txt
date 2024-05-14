@@ -5466,7 +5466,6 @@ factories
 fletchers
 fletches
 furrower
-feynesses
 fleuret
 filionymic
 fleurette
@@ -10672,6 +10671,7 @@ forwaste
 fusicoccum
 flatnesses
 frugalities
+feynesses
 frugalness
 fruggin
 fellmonger
