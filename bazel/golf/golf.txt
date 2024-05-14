@@ -6723,7 +6723,6 @@ gonesome
 gonfalcon
 gammaridae
 gogglier
-gambolled
 glowed
 gusseted
 gonfanon
@@ -8697,6 +8696,7 @@ gorge
 greenly
 greenling
 gyving
+gambolled
 greenovite
 greenroom
 greensauce
