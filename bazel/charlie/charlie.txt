@@ -8645,6 +8645,7 @@ corslet
 chanabal
 chanca
 chance
+cordonnet
 chanceably
 clow
 chanced
@@ -25061,7 +25062,6 @@ cordonazos
 cardinalated
 cordoned
 cordoning
-cordonnet
 cordons
 cordovans
 cords
