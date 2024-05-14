@@ -3653,7 +3653,6 @@ embryophore
 embryoplastic
 embryos
 embryotega
-embryotegae
 eweries
 embryotome
 exsculp
@@ -5235,6 +5234,7 @@ endoscope
 enfortune
 exostema
 endomysium
+embryotegae
 endoscopes
 endoscopic
 endoscopies

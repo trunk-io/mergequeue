@@ -657,7 +657,6 @@ ghettoization
 guaranis
 gallivant
 gallivanters
-gallivanting
 glycosine
 gallize
 gallnut
@@ -7436,6 +7435,7 @@ gloms
 gout
 gire
 guller
+gallivanting
 gelate
 grigs
 generatrix
