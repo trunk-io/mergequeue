@@ -4221,7 +4221,6 @@ delists
 delit
 dob
 delitescence
-dumous
 delitescency
 delitescent
 deliverables
@@ -12227,6 +12226,7 @@ disgavelling
 dysgenesis
 disgenic
 dysgenic
+dumous
 dysgenical
 dysgeogenous
 disglory

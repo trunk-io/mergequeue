@@ -1638,7 +1638,6 @@ favosites
 farmost
 forecovert
 favositidae
-funambulo
 fossilisation
 flatterer
 favourableness
@@ -5511,6 +5510,7 @@ flexuosity
 flexuously
 flexuousness
 flexura
+funambulo
 fructiparous
 fram
 flyable
