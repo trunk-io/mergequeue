@@ -10086,7 +10086,6 @@ angrier
 amblyopia
 antihemophilic
 amblyopic
-amblyopsidae
 arecaceae
 amblyopsis
 amblyoscope
@@ -18193,6 +18192,7 @@ aptian
 aptiana
 aptychus
 aproning
+amblyopsidae
 aptitude
 aptitudes
 amphidisk
