@@ -1016,7 +1016,6 @@ faretta
 farewell
 fearfuller
 foreshortens
-fuchsin
 foldable
 farfal
 flaxbird
@@ -8843,6 +8842,7 @@ fossicked
 fossicker
 fiants
 fleecer
+fuchsin
 fluigramme
 flysch
 frondigerous

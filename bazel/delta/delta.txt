@@ -13766,7 +13766,6 @@ demolitionary
 dissuasory
 drogues
 dissuit
-dissunder
 dissweeten
 dogvane
 dist
@@ -16566,6 +16565,7 @@ distend
 disowns
 dammed
 draggers
+dissunder
 draggier
 drearier
 dodecarchy
