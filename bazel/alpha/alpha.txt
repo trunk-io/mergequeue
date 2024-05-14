@@ -4398,6 +4398,7 @@ adrenocortical
 adrenocorticosteroid
 adrenocorticotrophic
 ammonolysis
+anatifae
 albuminosis
 adrenocorticotropic
 adrenolysis
@@ -12107,7 +12108,6 @@ anatheme
 ammoniac
 anatidae
 amidstream
-anatifae
 accidents
 anatifer
 anatiferous
