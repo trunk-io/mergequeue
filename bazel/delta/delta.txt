@@ -10616,7 +10616,6 @@ diplomatist
 diplomatists
 discogastrula
 diplomatology
-diauli
 diplomats
 deashed
 diplonema
@@ -13864,6 +13863,7 @@ distillator
 distillatory
 deflagrations
 distilled
+diauli
 durwan
 distillery
 daemonian
