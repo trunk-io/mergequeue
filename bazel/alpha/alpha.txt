@@ -6970,7 +6970,6 @@ aischrolatreia
 airstrip
 airstrips
 adrent
-airt
 airted
 ablepharia
 anthranil
@@ -18721,6 +18720,7 @@ archaeologic
 aggregately
 archaeological
 archaeologist
+airt
 archaeomagnetism
 archaeopterygiformes
 archaeopteryx
