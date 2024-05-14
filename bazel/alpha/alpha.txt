@@ -24453,7 +24453,6 @@ autotrophic
 autotropic
 autotruck
 ayless
-autotuberculin
 aflutter
 alkalinization
 als
@@ -24938,6 +24937,7 @@ awaking
 apposable
 awane
 awanyu
+autotuberculin
 ankylose
 awardable
 adroit
