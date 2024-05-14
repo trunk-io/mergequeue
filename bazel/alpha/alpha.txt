@@ -4700,7 +4700,6 @@ advisy
 advising
 adiaphora
 advisive
-adviso
 adlumine
 amatungula
 advisor
@@ -5021,6 +5020,7 @@ aerograms
 aerograph
 americium
 aerography
+adviso
 aerographical
 aerographics
 aerographies
