@@ -7169,7 +7169,6 @@ glost
 gad
 goopy
 glaciate
-greenthumbed
 geotectonics
 gorgonlike
 gorgons
@@ -8704,6 +8703,7 @@ goldstone
 gentilism
 glucosuric
 grantee
+greenthumbed
 greenshank
 genuflexion
 greensick
