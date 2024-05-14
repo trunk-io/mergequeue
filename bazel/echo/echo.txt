@@ -8272,6 +8272,7 @@ epistolographist
 erratums
 epistoma
 epistomal
+ethiop
 epistropheal
 endolaryngeal
 epistropheus
@@ -13845,7 +13846,6 @@ extractive
 extractively
 extractor
 egotizing
-ethiop
 extensional
 excavation
 egyptological
