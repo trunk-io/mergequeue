@@ -5269,6 +5269,7 @@ fogbound
 flax
 flaxboard
 fissural
+foiblesse
 frivolously
 fraternization
 foamer
@@ -11237,7 +11238,6 @@ funicle
 foreday
 funicles
 funiculars
-foiblesse
 forstraught
 funiform
 funipendulous
