@@ -5982,7 +5982,6 @@ declassing
 deprivals
 deprivation
 deprivative
-deprive
 deprived
 deprivement
 depriver
@@ -10274,6 +10273,7 @@ dioicousness
 diolefins
 deplumed
 diols
+deprive
 diomate
 decalcification
 darks
