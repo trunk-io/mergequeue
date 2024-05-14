@@ -2733,7 +2733,6 @@ acquittals
 acquittance
 acquitted
 ashkenazim
-acquitter
 acquophonia
 acrab
 acracy
@@ -12719,6 +12718,7 @@ angelology
 antiquarism
 angelological
 alphonso
+acquitter
 angelomachy
 arragonite
 angelonia
