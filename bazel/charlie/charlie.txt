@@ -4010,6 +4010,7 @@ carcinomorphic
 carcinophagous
 carcinopolypus
 carcinosarcoma
+cathodes
 chloralide
 carcinus
 carcoon
@@ -5979,7 +5980,6 @@ cathode
 coherency
 cathodegraph
 comique
-cathodes
 cathodic
 cuckstool
 cathodical
