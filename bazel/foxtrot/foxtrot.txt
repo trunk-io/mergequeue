@@ -1867,6 +1867,7 @@ fontange
 foreparents
 fussle
 figless
+foresentence
 feazed
 feazes
 febricant
@@ -2797,7 +2798,6 @@ fesse
 frankfold
 fessed
 foldouts
-foresentence
 ferules
 fesses
 flaunche
