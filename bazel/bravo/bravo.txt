@@ -5034,7 +5034,6 @@ beermaking
 beermonger
 braggartry
 beefers
-breakfasters
 beerpull
 beers
 beest
@@ -8059,6 +8058,7 @@ boordly
 biblists
 benzol
 bovicide
+breakfasters
 biblos
 buoyed
 biblus
