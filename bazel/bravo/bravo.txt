@@ -3793,7 +3793,6 @@ battlement
 battlements
 barnstorms
 battler
-battles
 battleship
 battleships
 buhr
@@ -13702,6 +13701,7 @@ bet
 boutylka
 boutique
 bouto
+battles
 barehanded
 blossomtime
 boutonnieres
