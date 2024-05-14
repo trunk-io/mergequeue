@@ -9128,7 +9128,6 @@ adelphophagy
 almacigo
 almagests
 alman
-authenticatable
 almanacs
 almander
 almandine
@@ -20207,6 +20206,7 @@ annuation
 aurophobia
 arraigns
 ametabole
+authenticatable
 arraying
 areaway
 arrays

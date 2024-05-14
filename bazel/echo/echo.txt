@@ -2293,7 +2293,6 @@ entocele
 electrochemical
 electrochemistry
 excrete
-electrochronometer
 electrocataphoresis
 equison
 electrochronometric
@@ -7484,6 +7483,7 @@ exodontic
 estall
 ethylate
 ephthianura
+electrochronometer
 encroaches
 epibatholithic
 epibatus
