@@ -1993,6 +1993,7 @@ feedlot
 fibratus
 functionalize
 flummoxing
+fstore
 fluidiser
 fistuliform
 fuzes
@@ -5231,7 +5232,6 @@ formulators
 flavour
 fencelike
 fallers
-fstore
 flot
 flavoured
 fomenter
