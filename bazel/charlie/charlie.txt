@@ -20769,7 +20769,6 @@ complicators
 complice
 complices
 complicity
-complicitous
 complied
 complier
 compliers
@@ -24004,6 +24003,7 @@ conveying
 conveyorization
 conjugation
 cymbaler
+complicitous
 conveyorized
 crenology
 conveyorizer
