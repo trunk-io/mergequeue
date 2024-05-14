@@ -1680,7 +1680,6 @@ deaquation
 docksides
 dearborn
 damndest
-dumortierite
 dearest
 deary
 derides
@@ -13615,6 +13614,7 @@ disship
 disshiver
 dissidence
 diligentness
+dumortierite
 dissidently
 dissiliency
 dissilient
