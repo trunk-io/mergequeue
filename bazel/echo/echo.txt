@@ -4710,7 +4710,6 @@ efik
 enclosures
 excentral
 extraction
-enclothe
 elopers
 encloud
 encode
@@ -5583,6 +5582,7 @@ enfranch
 ethnarch
 ellipsonic
 enfranchised
+enclothe
 estimating
 enfranchisements
 engin
