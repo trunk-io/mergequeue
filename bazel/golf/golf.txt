@@ -3886,6 +3886,7 @@ gids
 ginhound
 glazework
 gutnic
+grammaticalness
 gieaways
 gied
 gieing
@@ -9072,7 +9073,6 @@ gravemaster
 griot
 genoveva
 gareh
-grammaticalness
 guamuchil
 grooming
 griotte
