@@ -7276,7 +7276,6 @@ enricher
 epicyclic
 epacrid
 engird
-epacris
 eimeria
 emissi
 encushion
@@ -9301,6 +9300,7 @@ erotomaniacal
 eulytin
 elijah
 erotopath
+epacris
 erotopathic
 entrant
 equoid
