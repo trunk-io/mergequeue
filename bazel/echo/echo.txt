@@ -5655,7 +5655,6 @@ eulogical
 engine
 engined
 engineeringly
-enrolment
 engineers
 engineless
 engineman
@@ -10319,6 +10318,7 @@ enturret
 electrooptical
 evicted
 epanorthosis
+enrolment
 elritch
 expoliate
 ethidene

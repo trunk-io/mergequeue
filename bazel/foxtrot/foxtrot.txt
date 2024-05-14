@@ -1229,7 +1229,6 @@ fasciolae
 finenesses
 fasciole
 fascioliasis
-fustier
 fascioloid
 flanken
 flustering
@@ -6422,6 +6421,7 @@ formularization
 fluoridating
 fashed
 fluoridation
+fustier
 fossae
 fluoride
 fluoridisation
