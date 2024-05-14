@@ -20534,6 +20534,7 @@ compatibilities
 compatible
 circumambages
 compatibleness
+cupolar
 compatibles
 compatriot
 compatriotic
@@ -31116,7 +31117,6 @@ cupman
 cupolaed
 cupolaing
 cupolaman
-cupolar
 cotman
 celite
 cupolated
