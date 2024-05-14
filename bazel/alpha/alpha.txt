@@ -4935,7 +4935,6 @@ aerobia
 asamblea
 antisubmarine
 aerobic
-aerobics
 aerobiological
 aerobiologically
 aerobiologist
@@ -20930,6 +20929,7 @@ ascanian
 ascanius
 ascape
 ascared
+aerobics
 aphasias
 ascariasis
 ascaricidal
