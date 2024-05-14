@@ -4720,7 +4720,6 @@ angiotome
 advocates
 advocating
 advocation
-advocative
 aq
 advocator
 advocatory
@@ -16038,6 +16037,7 @@ antiquates
 antiquation
 antique
 antiqueness
+advocative
 antiquers
 antiques
 antiquing
