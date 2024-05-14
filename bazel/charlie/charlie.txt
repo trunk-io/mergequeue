@@ -4727,7 +4727,6 @@ chlamydospore
 cellarway
 carpeting
 carpetlayer
-carpetless
 carpetmaking
 carpetmonger
 carpets
@@ -11949,6 +11948,7 @@ chordacentrum
 chordaceous
 chordal
 chordamesoderm
+carpetless
 chordamesodermal
 chordamesodermic
 chordate

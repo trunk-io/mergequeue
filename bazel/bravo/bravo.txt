@@ -451,6 +451,7 @@ bavin
 backsetting
 backsettler
 begrime
+barbascoes
 backsides
 backsight
 blolly
@@ -2297,7 +2298,6 @@ bactris
 bookbindery
 barbasco
 bindoree
-barbascoes
 blousiest
 barbascos
 barbastel
