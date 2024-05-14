@@ -3290,7 +3290,6 @@ actuating
 actuation
 actuator
 actuators
-actuose
 acture
 acturience
 actus
@@ -15133,6 +15132,7 @@ antidepressant
 antidetonant
 antidetonating
 auxographic
+actuose
 ancyrene
 antidiabetic
 antidiastase
