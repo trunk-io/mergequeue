@@ -2786,7 +2786,6 @@ canonic
 canonical
 cortically
 canonicalization
-canonicalize
 cultivable
 canonicalized
 canonicalizes
@@ -19539,6 +19538,7 @@ crocodiles
 colpus
 colstaff
 cnidogenous
+canonicalize
 colter
 colters
 choirboy
