@@ -5595,7 +5595,6 @@ departmentalizing
 departmentally
 designment
 departs
-demicolumn
 depascent
 depass
 derere
@@ -6807,6 +6806,7 @@ desklike
 dunks
 deskman
 desks
+demicolumn
 deleted
 destined
 deslime
