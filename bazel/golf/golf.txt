@@ -4502,7 +4502,6 @@ graveldiver
 gynoecia
 greatish
 gynoeciumcia
-gynogenesis
 gynogenetic
 gynomonoeciously
 gynomonoecism
@@ -10723,6 +10722,7 @@ gromet
 gustier
 gnomonological
 gagers
+gynogenesis
 gustiest
 globulin
 gustless
