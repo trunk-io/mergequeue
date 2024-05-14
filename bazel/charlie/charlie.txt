@@ -6804,6 +6804,7 @@ chondroskeleton
 cubhood
 clearway
 celiomyositis
+claypan
 celioparacentesis
 cerinthian
 celiopyosis
@@ -18312,7 +18313,6 @@ crenelled
 cogger
 coggers
 cogging
-claypan
 coggle
 coggledy
 cogitate
