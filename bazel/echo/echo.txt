@@ -2169,7 +2169,6 @@ epiglottiditis
 elderwoman
 exundate
 exterminating
-elderwort
 eldest
 eldin
 eldmother
@@ -5675,6 +5674,7 @@ embellishes
 ermine
 ethnobotanical
 engirt
+elderwort
 engiscope
 engystomatidae
 eurymus
