@@ -7332,7 +7332,6 @@ eparchs
 eparterial
 endymal
 epaule
-epaulement
 effodientia
 epauleted
 electrologic
@@ -11685,6 +11684,7 @@ epileptogenic
 exacter
 eunuchise
 exacting
+epaulement
 enclosure
 empaled
 electroirrigation
