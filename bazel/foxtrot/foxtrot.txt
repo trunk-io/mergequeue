@@ -3103,7 +3103,6 @@ flotsan
 fiber
 filamentose
 fiberboard
-fiberglas
 fiberizes
 fiberizing
 fenestrule
@@ -4985,6 +4984,7 @@ foremartyr
 filthified
 frowsier
 faineantise
+fiberglas
 flankwise
 flatbeds
 flannelette
