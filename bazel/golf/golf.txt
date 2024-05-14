@@ -6858,7 +6858,6 @@ gaposises
 gotch
 gigglish
 gonococcocci
-gonocoele
 gonof
 greyer
 gallature
@@ -9073,6 +9072,7 @@ griot
 genoveva
 gareh
 grammaticalness
+gonocoele
 guamuchil
 grooming
 griotte
