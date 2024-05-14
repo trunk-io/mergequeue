@@ -2743,7 +2743,6 @@ foghorns
 ferulaceous
 ferular
 foreimpression
-ferule
 forfended
 feruled
 ferulic
@@ -8729,6 +8728,7 @@ fortranh
 fortravail
 filtrable
 fortread
+ferule
 foreordains
 fortresses
 furors
