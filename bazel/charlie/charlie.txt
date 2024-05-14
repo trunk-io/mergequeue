@@ -14788,7 +14788,6 @@ cystoproctostomy
 coccolobis
 cystopteris
 cystoptosis
-cystopus
 cystoradiography
 cistori
 cystosarcoma
@@ -18018,6 +18017,7 @@ coemanate
 coembedded
 canchito
 coembody
+cystopus
 coembodied
 coembodies
 coembrace
