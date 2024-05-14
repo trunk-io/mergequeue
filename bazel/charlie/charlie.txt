@@ -219,6 +219,7 @@ cabstand
 cabstands
 cabuya
 channelly
+cephalocaudal
 cabuja
 calendry
 celebrators
@@ -7403,7 +7404,6 @@ cephaloauricular
 cephalobranchiata
 cephalocathartic
 carks
-cephalocaudal
 cupels
 cephalocele
 cephalocentesis
