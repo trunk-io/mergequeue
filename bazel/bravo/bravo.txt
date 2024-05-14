@@ -431,7 +431,6 @@ bollandist
 backpedaling
 backpiece
 backplane
-backplanes
 backpointer
 backpointers
 backrope
@@ -6935,6 +6934,7 @@ bewrap
 basigenous
 bibliolatry
 bertrum
+backplanes
 bullarium
 beachy
 beruffed
