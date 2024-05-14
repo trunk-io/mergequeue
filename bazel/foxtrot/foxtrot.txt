@@ -7607,7 +7607,6 @@ fructoside
 forecourts
 forecover
 fishify
-forelegs
 flees
 fulmen
 farmhands
@@ -8207,6 +8206,7 @@ fluormeter
 faded
 forfeitures
 forfend
+forelegs
 formwork
 flatulent
 fauvists
