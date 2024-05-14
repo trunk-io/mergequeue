@@ -7457,7 +7457,6 @@ cephalonasal
 cephalopathy
 cephalopharyngeal
 cephalophyma
-cephalophine
 cephalophus
 cephaloplegia
 cervisia
@@ -13306,6 +13305,7 @@ cyclarthrosis
 cyclarthrsis
 cyclas
 cyclase
+cephalophine
 cyclases
 ciclatoun
 cyclazocine
