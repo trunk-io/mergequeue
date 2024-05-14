@@ -2787,6 +2787,7 @@ baronga
 barongs
 barony
 bassets
+bowelling
 baudrons
 bowlers
 baronial
@@ -13780,7 +13781,6 @@ brachycephal
 bowelled
 bowelless
 borderlands
-bowelling
 bower
 bowerbird
 bullgine
