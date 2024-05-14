@@ -5849,6 +5849,7 @@ deposit
 diamondwork
 doohinkus
 distome
+dil
 depositaries
 depositation
 deposited
@@ -9653,7 +9654,6 @@ dikaryotic
 dikast
 dikdik
 deliquesces
-dil
 doorcase
 doors
 dipneusti
