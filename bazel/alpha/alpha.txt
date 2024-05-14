@@ -3285,7 +3285,6 @@ aphis
 actuarian
 actuaryship
 actuated
-actuates
 actuating
 actuation
 actuator
@@ -12487,6 +12486,7 @@ anecdotes
 anecdotic
 anecdotical
 anecdotically
+actuates
 anecdotist
 anecdotists
 aegagropile
