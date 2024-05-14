@@ -1307,6 +1307,7 @@ balanops
 bury
 bedbug
 bacterioprecipitin
+belis
 buffers
 balanopsidales
 balanorrhagia
@@ -14821,7 +14822,6 @@ big
 breakings
 breaklist
 buttercup
-belis
 bostonians
 breakneck
 breakoff
