@@ -17693,7 +17693,6 @@ burgomasters
 burgomastership
 burgoo
 bhakta
-burgraves
 burgraviate
 burgs
 burgundy
@@ -18153,6 +18152,7 @@ biogas
 battalion
 butene
 butenyl
+burgraves
 buteonine
 butic
 bosch
