@@ -6387,7 +6387,6 @@ griddler
 gasteralgia
 glycohaemia
 goblinesque
-griffins
 goblinish
 glyceryl
 gramophones
@@ -6931,6 +6930,7 @@ graphemes
 gammed
 gestations
 glaucopis
+griffins
 giaour
 glyconin
 grecian
