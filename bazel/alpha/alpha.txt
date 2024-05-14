@@ -4002,7 +4002,6 @@ adjoining
 adjoiningness
 adjoins
 androgonium
-adjoint
 adjoints
 apieces
 adjourn
@@ -18132,6 +18131,7 @@ aprickle
 apricot
 antarctica
 aff
+adjoint
 april
 arborescent
 aprilesque
