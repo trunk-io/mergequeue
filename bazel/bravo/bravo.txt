@@ -9232,7 +9232,6 @@ biosphere
 bryon
 bionomical
 biostatic
-biostatical
 biostatistic
 boeing
 bungmaker
@@ -11086,6 +11085,7 @@ brained
 blockholer
 blockhouses
 bawbees
+biostatical
 beveto
 blackbreast
 blockier
