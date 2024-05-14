@@ -3064,7 +3064,6 @@ geographies
 geordie
 grocerdom
 galliardness
-geoids
 gladioluses
 geoisotherm
 gegenion
@@ -9837,6 +9836,7 @@ guango
 grudgeless
 guanidopropionic
 gasholder
+geoids
 grasshoppers
 gastrologically
 guaniferous
