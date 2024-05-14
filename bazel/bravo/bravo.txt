@@ -12729,6 +12729,7 @@ begut
 bookseller
 berendo
 becloaked
+broadband
 backhatch
 boce
 barmkin
@@ -15846,7 +15847,6 @@ blowhard
 brominated
 bisellia
 bromination
-broadband
 bromine
 buzzbomb
 berylate
