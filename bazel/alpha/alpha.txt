@@ -12385,7 +12385,6 @@ aortolith
 andriana
 abnormally
 andrias
-amphigouris
 andric
 andries
 andrite
@@ -23109,6 +23108,7 @@ artemisic
 attested
 attester
 attesting
+amphigouris
 acy
 attestive
 attestor
