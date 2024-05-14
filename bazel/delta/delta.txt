@@ -3442,7 +3442,6 @@ deflections
 dyscrasia
 decarboxylase
 deflector
-deciduousness
 deflectors
 deflects
 dichlorvos
@@ -4735,6 +4734,7 @@ demisecond
 demised
 depas
 demisemiquaver
+deciduousness
 delineable
 demisemitone
 demisheath
