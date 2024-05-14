@@ -1904,7 +1904,6 @@ acequia
 acequias
 acer
 aceraceous
-acerae
 acerate
 acerated
 acerathere
@@ -5791,6 +5790,7 @@ ambalam
 agallochs
 afunction
 agallochum
+acerae
 agalma
 antipeptone
 agalmatolite
