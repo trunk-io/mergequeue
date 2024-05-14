@@ -8276,7 +8276,6 @@ chairmanned
 chairmanning
 chairmans
 chairmanship
-chairmanships
 checkoff
 chairmender
 chairmending
@@ -15121,6 +15120,7 @@ citropsis
 citropten
 citrous
 citrulline
+chairmanships
 citrullus
 cittern
 citternhead
