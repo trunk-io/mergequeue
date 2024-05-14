@@ -10038,7 +10038,6 @@ dirls
 descriptions
 dynamomorphic
 dewret
-dishorse
 dynamophone
 dynamos
 dynamostatic
@@ -13315,6 +13314,7 @@ deflators
 doublegear
 disputatiously
 disputatiousness
+dishorse
 disputative
 disputativeness
 disputator
