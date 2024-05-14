@@ -5219,7 +5219,6 @@ gorgonesque
 glycidic
 glazer
 glazers
-glazes
 glaziers
 gullible
 grueling
@@ -6088,6 +6087,7 @@ glutelins
 genisaro
 gluteofemoral
 gluteoinguinal
+glazes
 grogs
 granolithic
 gluemaker
