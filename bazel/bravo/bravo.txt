@@ -6795,6 +6795,7 @@ bering
 beringed
 bepillared
 bead
+breakweather
 broughtas
 bhaktis
 brevets
@@ -14838,7 +14839,6 @@ breakthrough
 breakthroughs
 barchan
 breakwater
-breakweather
 barky
 brachets
 breakwind
