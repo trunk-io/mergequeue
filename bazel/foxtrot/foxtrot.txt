@@ -1133,7 +1133,6 @@ flocculable
 fictionmonger
 filiated
 farseer
-farset
 farsighted
 flabel
 fortunize
@@ -7872,6 +7871,7 @@ forepass
 feedstuffs
 foliously
 forepaw
+farset
 forepaws
 foveolets
 fractionisation
