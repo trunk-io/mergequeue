@@ -5277,6 +5277,7 @@ endosteomata
 endosteum
 exploitative
 equipments
+exuvia
 endostylic
 excarnate
 endostoma
@@ -11438,7 +11439,6 @@ eventful
 ethnomusicologist
 endodontics
 eventfulness
-exuvia
 exsuction
 ethnopsychological
 eventilate
