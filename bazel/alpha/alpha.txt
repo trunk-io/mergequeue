@@ -2696,6 +2696,7 @@ acquests
 astrologists
 acquiesce
 addiction
+aversion
 acquiesced
 acquiescement
 acquiescence
@@ -24676,7 +24677,6 @@ avers
 aversant
 averse
 averseness
-aversion
 avert
 adults
 achromatise
