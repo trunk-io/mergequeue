@@ -3169,6 +3169,7 @@ elsin
 elt
 eltrot
 eluant
+exhibition
 enterophthisis
 eluating
 enteritis
@@ -12473,7 +12474,6 @@ expedientially
 earn
 encephalology
 exhibiters
-exhibition
 enforce
 exhibitional
 exhibitioner
