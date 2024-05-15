@@ -5187,7 +5187,6 @@ aesthetic
 archsacrificator
 aestheticism
 aestheticist
-aesthetics
 aesthiology
 acridium
 almoin
@@ -13205,6 +13204,7 @@ accouterments
 adapter
 animando
 animant
+aesthetics
 animas
 animastic
 animastical
