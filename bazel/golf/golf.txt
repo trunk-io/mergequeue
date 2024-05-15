@@ -7585,6 +7585,7 @@ gracility
 groupage
 gracing
 greyly
+glossiness
 groveling
 giddying
 gracious
@@ -9025,7 +9026,6 @@ grimm
 grimme
 guestless
 gingalls
-glossiness
 grillroom
 gleet
 grimmest
