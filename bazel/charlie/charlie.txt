@@ -6271,6 +6271,7 @@ caulome
 caulomic
 caulopteris
 caulosarc
+cohesionless
 caulotaxis
 caulote
 cauls
@@ -18471,7 +18472,6 @@ cowthwort
 calmer
 cohesible
 cohesion
-cohesionless
 cohesively
 cohibit
 cohibition
