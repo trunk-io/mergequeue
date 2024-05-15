@@ -1389,7 +1389,6 @@ adiaphanousness
 azote
 acceleratory
 accelerators
-accelerometer
 accelerometers
 accend
 accendible
@@ -7126,6 +7125,7 @@ attend
 attiring
 akees
 akehorne
+accelerometer
 appear
 akela
 alkahestical
