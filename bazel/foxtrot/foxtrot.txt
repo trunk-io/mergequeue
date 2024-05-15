@@ -7308,6 +7308,7 @@ footstools
 fleeches
 finnesko
 footwalk
+far
 footwarmer
 footwear
 forefelt
@@ -11705,7 +11706,6 @@ forefaces
 filmmaker
 friarhood
 feasts
-far
 foretellableness
 frameless
 fumaryl
