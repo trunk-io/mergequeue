@@ -2307,6 +2307,7 @@ electrochronometric
 enfroward
 electroplating
 electroplates
+electrodepositable
 ejam
 epiphenomenal
 extractors
@@ -8804,7 +8805,6 @@ eradicated
 embossable
 epipolic
 enround
-electrodepositable
 eradications
 eighteenmos
 embeddable

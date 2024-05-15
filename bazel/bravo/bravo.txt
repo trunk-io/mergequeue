@@ -3792,7 +3792,6 @@ battleships
 buhr
 battlesome
 brahmany
-brigantes
 boatfalls
 banderilla
 battlestead
@@ -10165,6 +10164,7 @@ blackbirder
 blackbirding
 broommaker
 blackbody
+brigantes
 blackboy
 boughpot
 blackbuck
