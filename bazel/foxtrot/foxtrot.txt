@@ -1703,7 +1703,6 @@ frugivora
 feak
 federate
 feal
-fealty
 fumigates
 fluorinate
 fear
@@ -10512,6 +10511,7 @@ fragrant
 fermatian
 fairbanks
 fistiana
+fealty
 froppish
 frontiersmen
 frost
