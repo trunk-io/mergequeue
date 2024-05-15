@@ -914,7 +914,6 @@ globigerina
 gemologies
 guarding
 grammaticality
-gamelang
 graceful
 gonagia
 gamelans
@@ -10583,6 +10582,7 @@ gestic
 gunships
 gimberjawed
 gratefully
+gamelang
 gunshop
 grieve
 gunslinging
