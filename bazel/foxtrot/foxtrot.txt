@@ -2336,6 +2336,7 @@ fencible
 fencings
 forewarm
 full
+frizzle
 folktale
 fended
 ferric
@@ -2502,7 +2503,6 @@ fermata
 fermatas
 fleshed
 ferme
-frizzle
 firebird
 filleter
 familarity
