@@ -445,7 +445,6 @@ goliard
 gastrojejunal
 gweduck
 galeated
-galee
 gardenable
 gunnery
 gammexane
@@ -7400,6 +7399,7 @@ gellert
 gour
 gastrologists
 goldfish
+galee
 grugru
 gymnosperms
 gadhelic
