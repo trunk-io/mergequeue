@@ -6102,7 +6102,6 @@ gluteoinguinal
 grogs
 granolithic
 gluemaker
-glutinative
 glutinosity
 glutinous
 groucho
@@ -9660,6 +9659,7 @@ galloflavin
 gematriot
 geon
 gruffier
+glutinative
 gammon
 gruffiest
 greased
