@@ -1520,6 +1520,7 @@ ballastage
 bulbiform
 bouton
 backsword
+beneurous
 butomus
 ballaster
 ballastic
@@ -6322,7 +6323,6 @@ beneplacity
 benet
 benetnasch
 benetting
-beneurous
 beneventan
 benevolences
 benevolency
