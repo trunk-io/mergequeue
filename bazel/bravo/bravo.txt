@@ -4301,7 +4301,6 @@ blas
 beaujolais
 beaume
 beaumont
-bipartite
 beaupere
 beauseant
 beausire
@@ -15555,6 +15554,7 @@ britishhood
 britishism
 bunkload
 boultell
+bipartite
 bodenbenderite
 beclatter
 britons
