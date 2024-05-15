@@ -1546,7 +1546,6 @@ acclimatiser
 acclimatising
 algid
 acclimatizable
-acclimatize
 acclimatizer
 acclimatizes
 acrisia
@@ -20336,6 +20335,7 @@ arrogance
 arrogant
 arrogantly
 arrogated
+acclimatize
 alaloi
 arrogates
 attitudinizing

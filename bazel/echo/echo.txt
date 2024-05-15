@@ -5281,7 +5281,6 @@ endosteomas
 endosteomata
 endosteum
 exploitative
-equipments
 endostylic
 excarnate
 endostoma
@@ -13687,6 +13686,7 @@ esteemed
 exhibitive
 exterous
 electromuscular
+equipments
 euphemised
 exterritorialize
 extersive
