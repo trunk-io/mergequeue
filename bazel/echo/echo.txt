@@ -5591,6 +5591,7 @@ eastwards
 exporting
 epicritic
 enforth
+esculent
 estrangle
 enfoulder
 epithi
@@ -9613,7 +9614,6 @@ escudero
 electrify
 escudo
 eyehole
-esculent
 esculents
 esculic
 esculin
