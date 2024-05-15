@@ -5341,7 +5341,6 @@ density
 densitometer
 densitometric
 dhurrie
-detestable
 densus
 detinue
 dyable
@@ -15620,6 +15619,7 @@ doorpiece
 doorpost
 doorposts
 dowl
+detestable
 dawdle
 doorsill
 doorstead
