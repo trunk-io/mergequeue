@@ -5933,7 +5933,6 @@ cathects
 cathedra
 circumdate
 cuneocuboid
-cathedral
 cathedraled
 cathedralesque
 cavorter
@@ -18393,6 +18392,7 @@ cognomens
 cognominal
 cognominally
 cognominate
+cathedral
 cognominated
 cognomination
 cognosce
