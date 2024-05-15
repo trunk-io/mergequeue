@@ -11354,7 +11354,6 @@ dowhacky
 devoter
 discharity
 discharm
-dischevel
 dyschiria
 dyschroa
 dyschroia
@@ -17959,6 +17958,7 @@ duftite
 disamenity
 dialoguer
 dug
+dischevel
 dugal
 durras
 dugento

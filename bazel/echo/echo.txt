@@ -3312,7 +3312,6 @@ eruginous
 empathize
 enatant
 embalmed
-envelopes
 eriophyidae
 encyclopaedial
 embalmers
@@ -7094,6 +7093,7 @@ envelopment
 envelopments
 envelops
 envenom
+envelopes
 envenoming
 encarnalise
 envenomous
