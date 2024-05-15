@@ -508,6 +508,7 @@ boshboks
 backstick
 backstitch
 backstitched
+batwoman
 biserial
 billhead
 biscot
@@ -3818,7 +3819,6 @@ battutos
 blastomeric
 batwing
 beswitch
-batwoman
 batwomen
 batuque
 bishopship
