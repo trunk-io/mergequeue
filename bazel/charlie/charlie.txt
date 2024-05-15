@@ -20503,6 +20503,7 @@ critchfield
 codding
 compass
 compassability
+congeners
 compassable
 compassed
 compasses
@@ -22239,7 +22240,6 @@ congeneric
 congenerical
 cynthian
 congenerous
-congeners
 congenial
 commiserative
 congeniality
