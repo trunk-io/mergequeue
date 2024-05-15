@@ -2748,7 +2748,6 @@ foremelt
 ferula
 foghorns
 ferulaceous
-ferular
 foreimpression
 ferule
 forfended
@@ -10233,6 +10232,7 @@ foreknee
 funiculi
 fantasticly
 fissiparously
+ferular
 frittering
 flemings
 frivoled
