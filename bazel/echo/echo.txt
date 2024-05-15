@@ -5250,7 +5250,6 @@ endomysium
 endoscopes
 endoscopic
 endoscopies
-endoscopist
 empyreumatical
 endosymbiosis
 emeus
@@ -10358,6 +10357,7 @@ ethyne
 ethynes
 elucidatory
 eunectes
+endoscopist
 ethinyls
 ethynyls
 ethiodide
