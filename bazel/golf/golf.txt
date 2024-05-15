@@ -6807,7 +6807,6 @@ goura
 glaziery
 gelants
 grinny
-guidebook
 gascheck
 graff
 grandmotherism
@@ -8118,6 +8117,7 @@ glack
 governorships
 glues
 graphemically
+guidebook
 gasconading
 graphemics
 gastroscopies
