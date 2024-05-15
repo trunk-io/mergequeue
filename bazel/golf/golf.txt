@@ -1884,7 +1884,6 @@ gastrostenosis
 gastrostomy
 gastrostomies
 grummer
-gonimolobe
 gastrothecal
 gastrotome
 gastrotomic
@@ -5875,6 +5874,7 @@ gloomy
 grapsoid
 gattine
 galera
+gonimolobe
 goodies
 girl
 galvanographic
