@@ -1842,7 +1842,6 @@ grizzle
 gastrophilite
 gastroplasty
 groupoids
-gastropneumonic
 galoubet
 greenage
 grandevous
@@ -1981,6 +1980,7 @@ galactosuria
 gauffer
 geoplagiotropism
 gauffered
+gastropneumonic
 gallowglass
 gaufferer
 glacier
