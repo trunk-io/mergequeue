@@ -4005,6 +4005,7 @@ birdmouthed
 brittlewood
 beaches
 beachhead
+benediction
 behavers
 beachheads
 brand
@@ -15236,7 +15237,6 @@ bacterization
 bionic
 bridgeport
 bridgepot
-benediction
 bridger
 befrumple
 bellworts
