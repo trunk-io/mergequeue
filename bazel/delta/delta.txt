@@ -8918,7 +8918,6 @@ distritbutes
 dichloramine
 dichloride
 dichloroacetic
-dichlorobenzene
 dichlorodifluoromethane
 domiciling
 discitis
@@ -9327,6 +9326,7 @@ dietzeite
 dyeware
 dyeweed
 dyeweeds
+dichlorobenzene
 dermonosology
 diewise
 dyewood
