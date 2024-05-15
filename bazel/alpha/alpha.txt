@@ -1744,7 +1744,6 @@ accruing
 aerocar
 accts
 aventail
-accubation
 amphicentric
 accubita
 accubitum
@@ -20997,6 +20996,7 @@ andronitis
 ascetta
 aschaffite
 ascher
+accubation
 aschistic
 acclivity
 asci
