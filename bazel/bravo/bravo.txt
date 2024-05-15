@@ -1289,7 +1289,6 @@ balanidae
 boose
 boliviano
 bawdyhouses
-bogtrotter
 balaniferous
 broderie
 balanites
@@ -8559,6 +8558,7 @@ becolor
 bilateral
 bilateralism
 bilaterality
+bogtrotter
 bilateralities
 behaviors
 bilaterally
