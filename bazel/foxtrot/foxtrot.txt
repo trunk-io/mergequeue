@@ -1035,7 +1035,6 @@ funicule
 farfetched
 fidgeter
 fleshen
-fargite
 fulmina
 forbears
 fucuses
@@ -8228,6 +8227,7 @@ furtherance
 fluemen
 fierceness
 feus
+fargite
 forfouchten
 forfoughten
 finestra
