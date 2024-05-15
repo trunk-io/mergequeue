@@ -6344,7 +6344,6 @@ greats
 gregorianizer
 gob
 goban
-glycemic
 guttling
 gobbed
 gobber
@@ -6812,6 +6811,7 @@ glaziery
 gelants
 grinny
 guidebook
+glycemic
 gascheck
 graff
 grandmotherism

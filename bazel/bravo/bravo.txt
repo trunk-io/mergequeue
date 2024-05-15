@@ -4618,7 +4618,6 @@ bladeless
 basecoat
 bedaggle
 beday
-biddable
 bedamned
 bedamning
 benzylpenicillin
@@ -13891,6 +13890,7 @@ belatedly
 barylite
 buttonless
 boxbush
+biddable
 boxcar
 bonify
 boxcars
