@@ -7845,7 +7845,6 @@ bespangles
 bathyscaphe
 branchiosaurus
 bhikku
-bhikshu
 bhil
 breakover
 bhili
@@ -7968,6 +7967,7 @@ bibiri
 bibitory
 bible
 bibles
+bhikshu
 bohmite
 bibless
 bipunctal
