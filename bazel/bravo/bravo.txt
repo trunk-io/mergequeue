@@ -4395,7 +4395,6 @@ bevel
 bebops
 barbre
 belongings
-blessing
 bluntish
 boggish
 brabbled
@@ -15288,6 +15287,7 @@ briefly
 briefness
 bleeds
 bluehead
+blessing
 bedstaves
 brier
 briered
