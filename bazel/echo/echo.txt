@@ -3,7 +3,6 @@ endodontist
 epigramme
 eschoppe
 exultet
-ea
 escutcheons
 earldom
 everyness
@@ -10730,6 +10729,7 @@ eques
 expectations
 eudemonistic
 eudemons
+ea
 electrojet
 eudemonics
 equivalencies
