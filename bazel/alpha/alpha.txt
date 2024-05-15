@@ -5528,7 +5528,6 @@ agenesic
 aforetimes
 ascogonial
 aphelops
-afortiori
 anisocycle
 afoul
 afray
@@ -21724,6 +21723,7 @@ asserta
 assertable
 asserted
 autocorrelate
+afortiori
 assertedly
 asserter
 asserting
