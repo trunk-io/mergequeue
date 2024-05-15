@@ -1174,7 +1174,6 @@ educability
 educables
 educand
 educatability
-epicrystalline
 eident
 elkhounds
 educatable
@@ -12734,6 +12733,7 @@ eudiometer
 elmer
 exonym
 exonuclease
+epicrystalline
 exopathic
 energizing
 exophasic
