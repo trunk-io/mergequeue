@@ -4098,7 +4098,6 @@ gradometer
 giliak
 gadslid
 gunating
-glamourizer
 germander
 gilled
 gillenia
@@ -8719,6 +8718,7 @@ greenstone
 gauntree
 guran
 greensward
+glamourizer
 greenswarded
 gorger
 grimacingly
