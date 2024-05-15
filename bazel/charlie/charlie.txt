@@ -1020,7 +1020,6 @@ calcaneoastragalar
 calcaneoastragaloid
 calcaneoplantar
 countershout
-countersale
 calcaneoscaphoid
 calcaneum
 calcannea
@@ -11146,6 +11145,7 @@ chytridiales
 citator
 chytridiose
 chytridiosis
+countersale
 chytroi
 chits
 chittack
