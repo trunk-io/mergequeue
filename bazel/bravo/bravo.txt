@@ -2505,7 +2505,6 @@ bromins
 bargainable
 billbugs
 bargainer
-bargaining
 beechwoods
 bargander
 barge
@@ -5530,6 +5529,7 @@ briefers
 bahmani
 beholdingness
 beholds
+bargaining
 behoof
 behoot
 behoove
