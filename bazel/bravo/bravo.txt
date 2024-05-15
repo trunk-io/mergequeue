@@ -521,6 +521,7 @@ billhead
 biscot
 backstitches
 briming
+bidirectionally
 barkstone
 backstitching
 broadway
@@ -8255,7 +8256,6 @@ bidialectalism
 bidimensional
 biding
 bidirectional
-bidirectionally
 bemedalled
 bidonville
 bidpai
