@@ -3378,6 +3378,7 @@ embattle
 enteropneustan
 embattled
 estranger
+exultation
 embattlement
 embattles
 embden
@@ -11948,7 +11949,6 @@ exceptionless
 euclase
 exceptious
 exceptiousness
-exultation
 ecrustaceous
 enunciatory
 exceptive
