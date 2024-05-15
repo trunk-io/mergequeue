@@ -3173,7 +3173,6 @@ defamy
 defaming
 defamingly
 defamous
-deadworks
 dollyway
 defat
 defatigation
@@ -11031,6 +11030,7 @@ disanimal
 disanimation
 despots
 discomforted
+deadworks
 disannuller
 disannulment
 disincarcerate
