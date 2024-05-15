@@ -1539,7 +1539,6 @@ bibliophilic
 ballcarrier
 blazer
 blatancies
-balldom
 balled
 bicorporal
 barbules
@@ -12293,6 +12292,7 @@ bushfighter
 bombarder
 bombardiers
 bombarding
+balldom
 bombardman
 burrfishes
 bullwhacker
