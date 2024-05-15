@@ -7911,7 +7911,6 @@ forereckon
 forerehearsed
 forerequest
 foreribs
-foredates
 flannelbush
 forerun
 factiousness
@@ -8193,6 +8192,7 @@ firecracker
 fulgently
 forewritten
 forfairn
+foredates
 fumbler
 forfalt
 friezing
