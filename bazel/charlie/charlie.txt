@@ -9882,6 +9882,7 @@ chemiculture
 chemigraphy
 chemigraphic
 chemiloon
+ciphers
 chemiluminescence
 cheminee
 chemiotactic
@@ -14122,7 +14123,6 @@ cipherer
 cipherhood
 ciphering
 cyphering
-ciphers
 ciphertext
 ciphertexts
 cyphomandra
