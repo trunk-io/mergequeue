@@ -3340,6 +3340,7 @@ faction
 flabbergastation
 factures
 fidejussionary
+folksy
 fidejussor
 fratching
 fortunous
@@ -6956,7 +6957,6 @@ folksay
 flotsams
 futhermore
 fulwa
-folksy
 foaminess
 folksiest
 filibusterous

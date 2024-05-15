@@ -5209,7 +5209,6 @@ aestuation
 aesture
 aestus
 aetat
-aethalia
 aethalioid
 aethalium
 aether
@@ -23731,6 +23730,7 @@ apposite
 amidothiazole
 austral
 auxetical
+aethalia
 australasian
 australene
 avianization
