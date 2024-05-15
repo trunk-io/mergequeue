@@ -1263,7 +1263,6 @@ grecism
 gladsomely
 griminess
 gimcrackery
-gapping
 ghettoing
 guardfully
 gaining
@@ -6142,6 +6141,7 @@ gnarl
 gnarly
 goutte
 gnarliest
+gapping
 gnarliness
 gnarls
 gesneriaceae
