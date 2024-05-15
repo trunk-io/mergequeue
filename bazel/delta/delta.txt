@@ -4661,7 +4661,6 @@ demilitarising
 demilitarization
 demilitarized
 dentaliidae
-demilitarizes
 demilitarizing
 demiliterate
 demilustre
@@ -16959,6 +16958,7 @@ dreariness
 ductule
 drearing
 drearisome
+demilitarizes
 drearly
 drearness
 dreche
