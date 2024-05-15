@@ -2859,7 +2859,6 @@ clothesmonger
 cantabrian
 cantabrigian
 cantador
-certainties
 cantala
 cantalever
 cantaliver
@@ -17974,6 +17973,7 @@ coelialgia
 coelicolae
 conversus
 coincidency
+certainties
 coeligenous
 coelin
 cantharellus
