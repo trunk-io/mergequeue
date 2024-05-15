@@ -19154,7 +19154,6 @@ collocations
 collocative
 collock
 compartmentalizes
-collocution
 collocutor
 collodion
 collodionization
@@ -25868,6 +25867,7 @@ cinclidotus
 corrugant
 corrugate
 corrugated
+collocution
 corrugates
 corrugating
 corrugation
