@@ -7678,7 +7678,6 @@ deunam
 debell
 deviable
 deviance
-deviancy
 deviancies
 deemed
 dogcatcher
@@ -12066,6 +12065,7 @@ dysenteries
 disenthral
 disenthrall
 dehisces
+deviancy
 discoplacentalia
 disenthralled
 disenthrone
