@@ -5215,6 +5215,7 @@ aetat
 aethalia
 aethalioid
 aethalium
+ascigerous
 aether
 aethereal
 aromacity
@@ -5813,7 +5814,6 @@ agamete
 angulates
 agami
 agamy
-ascigerous
 afb
 agamian
 antitemperance
