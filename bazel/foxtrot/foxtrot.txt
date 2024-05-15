@@ -4261,6 +4261,7 @@ fireweeds
 firewood
 ferdwit
 fishergirl
+ferrying
 firewoods
 fendable
 fireworky
@@ -10952,7 +10953,6 @@ foilable
 fiscalizing
 flashbulbs
 fullonian
-ferrying
 franticness
 fullterm
 flavorful
