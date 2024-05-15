@@ -4512,7 +4512,6 @@ bepuzzlement
 beclasps
 bickers
 beclaw
-besieged
 bloodstanch
 becloak
 batis
@@ -12697,6 +12696,7 @@ bookland
 booklear
 booklet
 booklets
+besieged
 broomy
 booklike
 bookling
