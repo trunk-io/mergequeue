@@ -5072,7 +5072,6 @@ elocutioner
 endocrinopathic
 eruca
 endoderm
-endodermal
 endodermic
 endoderms
 endodontia
@@ -10602,6 +10601,7 @@ euboean
 eubteria
 eucaine
 eucaines
+endodermal
 eucalypteol
 eucalypti
 effrenate
