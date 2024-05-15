@@ -5671,6 +5671,7 @@ formularizer
 footpound
 flashlike
 flintwood
+froggish
 fanfold
 ferreted
 flintworker
@@ -10315,7 +10316,6 @@ froggies
 folksier
 forecloses
 frogginess
-froggish
 foundries
 freeish
 froghood

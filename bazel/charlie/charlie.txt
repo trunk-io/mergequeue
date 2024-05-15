@@ -4859,6 +4859,7 @@ carrions
 carryons
 carryout
 cutthroats
+crosstown
 carryouts
 crosshatched
 carryover
@@ -29930,7 +29931,6 @@ classisms
 crosstalk
 crosstie
 crosstoes
-crosstown
 crosstrack
 crosstree
 crossway
