@@ -312,7 +312,6 @@ depolarized
 dayak
 dayanim
 directories
-daybeacon
 dipylon
 daybed
 disambiguation
@@ -16116,6 +16115,7 @@ doughtily
 dougl
 doukhobor
 doctorship
+daybeacon
 deoppilative
 doulce
 doulocracy
