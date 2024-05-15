@@ -184,7 +184,6 @@ ectoplacenta
 earthset
 embosking
 entwist
-electrodeposit
 exprobratory
 epiclesis
 earthsets
@@ -1882,6 +1881,7 @@ emim
 eirack
 eyrant
 eikon
+electrodeposit
 eyre
 extradictionary
 eirenarch
