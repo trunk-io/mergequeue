@@ -2073,6 +2073,7 @@ frontspiece
 filacer
 feinter
 feudary
+finings
 facedown
 faucalize
 frenches
@@ -9366,7 +9367,6 @@ franchisee
 franchisees
 foulings
 fertil
-finings
 franchisers
 franchises
 flagons
