@@ -10964,6 +10964,7 @@ bellhop
 batement
 blinkingly
 blinter
+bounciness
 blocky
 blintzes
 bluming
@@ -13574,7 +13575,6 @@ bounces
 bouncier
 bouncily
 baconic
-bounciness
 blepharophyma
 boundable
 blockaders
