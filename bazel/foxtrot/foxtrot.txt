@@ -811,6 +811,7 @@ fesswise
 fango
 fangs
 fanion
+flanking
 frowsy
 forgedly
 flusher
@@ -4978,7 +4979,6 @@ flickery
 flanker
 flankers
 falconries
-flanking
 flanks
 foremartyr
 filthified
