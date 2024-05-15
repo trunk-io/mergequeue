@@ -20593,6 +20593,7 @@ compensator
 compensatory
 compensators
 compenser
+cohog
 compere
 compered
 comblessness
@@ -27758,7 +27759,6 @@ cowtail
 cowtown
 cowweed
 cox
-cohog
 coxa
 cupronickel
 craw
