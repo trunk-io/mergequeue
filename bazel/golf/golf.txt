@@ -1928,6 +1928,7 @@ gatherers
 graplins
 greenfishes
 greking
+gustables
 galumph
 gamenesses
 gatherings
@@ -10699,7 +10700,6 @@ garnishing
 gonopodia
 gladiolus
 gairfish
-gustables
 gustard
 gustation
 gustative
