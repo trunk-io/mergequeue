@@ -949,7 +949,6 @@ bagsful
 bulgar
 bagtikan
 baguet
-baguets
 baguette
 baguettes
 baguio
@@ -5921,6 +5920,7 @@ bastonite
 bellyfuls
 bestrews
 belligerency
+baguets
 belligerent
 belligerently
 belligerents
