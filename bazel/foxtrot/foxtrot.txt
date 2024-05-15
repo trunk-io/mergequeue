@@ -1477,7 +1477,6 @@ fatteners
 freewheelers
 fattening
 fattest
-fumigator
 fattier
 featherweight
 fatties
@@ -8758,6 +8757,7 @@ frenchism
 frankfort
 fizz
 forbiddable
+fumigator
 flogged
 fortunetelling
 fortunite
