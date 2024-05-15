@@ -2311,6 +2311,7 @@ extractors
 elasmosaur
 eutectic
 egba
+encreel
 erythrophore
 episteme
 electrocoating
@@ -11088,7 +11089,6 @@ euripi
 euripides
 elizabethan
 eurypyga
-encreel
 effected
 euryprosopic
 etheriform
