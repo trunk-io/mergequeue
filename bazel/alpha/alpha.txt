@@ -10678,7 +10678,6 @@ aminopherase
 apothec
 arccosine
 aminopyrine
-aminoplast
 aminoplastic
 angulometer
 aminopolypeptidase
@@ -11813,6 +11812,7 @@ analyze
 analyzed
 analyzers
 alypin
+aminoplast
 adjudicator
 analyzes
 analyzing
