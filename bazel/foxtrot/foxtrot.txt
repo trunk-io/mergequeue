@@ -1893,7 +1893,6 @@ fizzer
 fecial
 fecifork
 feckful
-feckless
 feckly
 fecks
 flocks
@@ -2301,6 +2300,7 @@ feminizing
 fooldom
 fallace
 feminology
+feckless
 feminologist
 feticidal
 filesave
