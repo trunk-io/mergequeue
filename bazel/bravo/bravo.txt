@@ -4955,7 +4955,6 @@ beefburgers
 bebelted
 beefeater
 beefeaters
-bucrania
 bodega
 bract
 beefy
@@ -10421,6 +10420,7 @@ blank
 blankbook
 bailwood
 burgrave
+bucrania
 blanket
 blanketed
 blanketeer
