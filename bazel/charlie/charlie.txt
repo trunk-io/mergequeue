@@ -3232,7 +3232,6 @@ capitate
 capitated
 capitatim
 coproduct
-capitation
 capitations
 cyclotomy
 capitatum
@@ -26762,6 +26761,7 @@ counterbond
 cautio
 counterborder
 crookneck
+capitation
 counterbore
 counterbored
 celandine
