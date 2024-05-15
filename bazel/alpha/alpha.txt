@@ -1174,7 +1174,6 @@ acacias
 acaciin
 acclimatized
 academe
-academes
 academy
 academian
 academic
@@ -19512,6 +19511,7 @@ argentometer
 antillean
 argentometry
 argentometric
+academes
 argentometrically
 argentose
 alexins

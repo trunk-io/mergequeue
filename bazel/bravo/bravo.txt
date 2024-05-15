@@ -2620,7 +2620,6 @@ barkentine
 barkentines
 barker
 barkery
-bub
 barkhan
 batman
 barkier
@@ -12937,6 +12936,7 @@ boppist
 bloomers
 balanid
 borable
+bub
 borachio
 boracite
 boracium
