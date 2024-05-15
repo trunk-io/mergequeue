@@ -10441,6 +10441,7 @@ blanketry
 blankets
 brigue
 blanky
+button
 backflash
 blanking
 blankish
@@ -18303,7 +18304,6 @@ bastarda
 basos
 buttocks
 bullockite
-button
 buttonball
 burtons
 buttonbush
