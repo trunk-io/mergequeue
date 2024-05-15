@@ -16333,7 +16333,6 @@ cashing
 clints
 clio
 cliona
-clip
 clipboard
 clipboards
 clypeal
@@ -31418,6 +31417,7 @@ curr
 crawful
 collarino
 calcites
+clip
 currach
 currachs
 currack
