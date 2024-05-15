@@ -3057,7 +3057,6 @@ actinide
 archenteron
 actinides
 actinidia
-aristarchy
 actinidiaceae
 annualist
 actiniferous
@@ -18025,6 +18024,7 @@ apprizer
 apprizers
 apprizes
 apprizing
+aristarchy
 appro
 agamogenesis
 affects
