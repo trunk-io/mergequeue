@@ -5153,7 +5153,6 @@ casemaking
 casemates
 casemented
 casements
-caseolysis
 caseose
 caseous
 caserios
@@ -15728,6 +15727,7 @@ claudicate
 cochineal
 claudication
 claught
+caseolysis
 coercend
 claughted
 chapitle
