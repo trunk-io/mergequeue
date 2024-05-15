@@ -15318,7 +15318,6 @@ claimant
 cezannesque
 claimants
 claimed
-claimer
 consumables
 claimers
 claiming
@@ -18175,6 +18174,7 @@ coessential
 conversional
 coglorious
 couhage
+claimer
 circumesophagal
 coessentiality
 coessentially
