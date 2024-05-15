@@ -8196,7 +8196,6 @@ episiotomy
 epicondylitis
 episiotomies
 episkeletal
-episode
 episodes
 episodial
 episodical
@@ -11033,6 +11032,7 @@ euploeinae
 euploidy
 euploids
 encrease
+episode
 eczema
 eupnoea
 extenuatory
