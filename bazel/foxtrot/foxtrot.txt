@@ -156,7 +156,6 @@ frigidaria
 fellaheen
 facsimiling
 fulhams
-facsimilize
 faradism
 factable
 fusains
@@ -2993,6 +2992,7 @@ farfetch
 filamented
 feuillage
 furcation
+facsimilize
 foreshows
 flyoff
 feuillants

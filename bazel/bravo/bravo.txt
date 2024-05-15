@@ -8319,7 +8319,6 @@ byestreet
 battailous
 biethnic
 baccar
-beswarming
 byeworker
 byeworkman
 bifaces
@@ -8441,6 +8440,7 @@ beribboned
 biggies
 burglarised
 boobyish
+beswarming
 bise
 brasseys
 batocrinidae
