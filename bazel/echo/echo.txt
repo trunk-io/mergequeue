@@ -6998,6 +6998,7 @@ eisegeses
 excisor
 entrefer
 entrelac
+epulosis
 entrenching
 eneas
 entrenchment
@@ -8514,7 +8515,6 @@ edulcorator
 ethnologic
 energies
 epuloid
-epulosis
 epulotic
 epural
 epuration
