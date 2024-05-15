@@ -2201,7 +2201,6 @@ elecives
 electability
 electable
 electant
-electary
 epithet
 enthraldom
 erected
@@ -5663,6 +5662,7 @@ engine
 engined
 engineeringly
 enrolment
+electary
 engineers
 engineless
 engineman
