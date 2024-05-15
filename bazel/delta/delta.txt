@@ -2431,7 +2431,6 @@ deciles
 decylic
 deciliter
 delineation
-deciliters
 druidry
 doorbells
 dripstick
@@ -17741,6 +17740,7 @@ dubbins
 dubhgall
 dubiety
 dubieties
+deciliters
 demutization
 dubio
 datch
