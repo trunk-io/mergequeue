@@ -4474,7 +4474,6 @@ encense
 enclose
 encenter
 encephala
-ensilage
 electorship
 endolithic
 encephalartos
@@ -5939,6 +5938,7 @@ extensimeter
 evites
 exhaustlessly
 enkidu
+ensilage
 enhydrinae
 evenminded
 enkindled
