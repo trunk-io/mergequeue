@@ -5962,6 +5962,7 @@ ave
 agendas
 agendum
 agendums
+antishipping
 amovability
 agene
 ataxite
@@ -16212,7 +16213,6 @@ antisexist
 anarcestean
 antiship
 angiasthenia
-antishipping
 antisialagogue
 alisma
 amphitryon
