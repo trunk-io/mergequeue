@@ -3143,7 +3143,6 @@ baser
 bortsch
 besetter
 bases
-bardish
 basest
 bash
 bashalick
@@ -3558,6 +3557,7 @@ batfowled
 benightedness
 batfowling
 bravoed
+bardish
 batfowls
 blackroot
 bath
