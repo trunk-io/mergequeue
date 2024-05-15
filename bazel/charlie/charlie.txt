@@ -23037,6 +23037,7 @@ consonancy
 consonant
 consonantal
 consonantalize
+corpulencies
 consonantic
 consonantise
 consonantised
@@ -25683,7 +25684,6 @@ corpsy
 cleverness
 corpsman
 corpulences
-corpulencies
 corsair
 closestool
 corpulently
