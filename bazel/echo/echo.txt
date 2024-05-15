@@ -2564,7 +2564,6 @@ electrophoreses
 electrophoresing
 electrophoretically
 excerpted
-electrophoretogram
 exturb
 eave
 ecthetically
@@ -2990,6 +2989,7 @@ extricate
 elixiviate
 everich
 elderly
+electrophoretogram
 exerciser
 enzymology
 epigenesis
