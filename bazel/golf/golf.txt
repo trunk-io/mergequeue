@@ -1752,6 +1752,7 @@ gentled
 gastrodermal
 gastrodermis
 gnotobiote
+gryph
 goosemouth
 gravemaking
 gastroduodenal
@@ -6880,7 +6881,6 @@ geodesia
 gyrofrequencies
 gonophs
 gauntleting
-gryph
 grindings
 geohydrologic
 gonopodium
