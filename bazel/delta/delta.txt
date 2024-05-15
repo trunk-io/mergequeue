@@ -2271,6 +2271,7 @@ deflex
 dustbox
 decelerates
 decelerator
+dulse
 decembrist
 diaphragmal
 decemcostate
@@ -2667,7 +2668,6 @@ dissyllabize
 dogmatism
 decempeda
 decolourizer
-dulse
 decolourizing
 decreers
 decolours
