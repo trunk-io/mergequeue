@@ -2681,6 +2681,7 @@ acquisible
 acquaintanceships
 asymmetrocarpous
 acquaintancy
+aspiratory
 acquaintant
 acquainted
 adjectivally
@@ -21533,7 +21534,6 @@ aspirating
 aspiration
 antihuff
 aspirations
-aspiratory
 aspire
 aspired
 aspiree
