@@ -5032,6 +5032,7 @@ bichrome
 blastophore
 basement
 beermaker
+believeth
 beermaking
 beermonger
 braggartry
@@ -5800,7 +5801,6 @@ believes
 blankite
 brooms
 biquartz
-believeth
 budge
 believingly
 burials
