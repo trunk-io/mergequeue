@@ -1213,7 +1213,6 @@ daystars
 datebook
 datedly
 degermed
-daybeds
 deruralize
 disemplane
 disobligation
@@ -4227,6 +4226,7 @@ delirous
 delis
 diestrual
 dishonourable
+daybeds
 disherit
 delisk
 delisting
