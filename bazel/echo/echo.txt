@@ -6459,6 +6459,7 @@ enswathes
 enumerations
 enswathing
 ensweep
+epigynum
 ensweeten
 edility
 ephelis
@@ -7812,7 +7813,6 @@ epiphyses
 endotoxic
 eumenid
 epigynous
-epigynum
 ependyma
 enajim
 equivocators

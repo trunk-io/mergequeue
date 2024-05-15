@@ -1417,7 +1417,6 @@ garlic
 granomerite
 glycolylurea
 garliclike
-geoside
 galloner
 glorifier
 gervao
@@ -8591,6 +8590,7 @@ galvanising
 graminifolious
 gormandized
 gulas
+geoside
 graben
 granter
 greco
