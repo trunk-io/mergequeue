@@ -8545,7 +8545,6 @@ figs
 fortification
 formulated
 formulating
-forgainst
 formulations
 formulator
 formulatory
@@ -9629,6 +9628,7 @@ freckly
 formican
 frecklier
 foredescribe
+forgainst
 freckliness
 flighting
 filmically
