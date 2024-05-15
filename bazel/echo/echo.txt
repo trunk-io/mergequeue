@@ -8381,7 +8381,6 @@ enwreathed
 exempting
 epithyme
 extacie
-epithymetical
 epithumetic
 epitimesis
 epitympanum
@@ -10207,6 +10206,7 @@ entia
 epipolize
 ethel
 eucti
+epithymetical
 ethenes
 ethenic
 ethenyl
