@@ -15,7 +15,6 @@ ammiral
 autoimmunities
 aani
 aardvarks
-aardwolf
 archerfish
 aardwolves
 aaron
@@ -18616,6 +18615,7 @@ amyotaxia
 arboresque
 arboret
 arbory
+aardwolf
 apprizement
 anyplace
 arborical
