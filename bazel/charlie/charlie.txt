@@ -14208,7 +14208,6 @@ cyrano
 compend
 circadian
 crocodile
-circaetus
 coriandrol
 cleruchial
 circassic
@@ -27198,6 +27197,7 @@ countertendency
 countertendencies
 countertenor
 cataspilite
+circaetus
 counterterm
 counterterrorism
 clasping
