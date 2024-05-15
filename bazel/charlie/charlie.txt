@@ -21044,7 +21044,6 @@ computes
 computing
 computist
 computus
-celoms
 communisteries
 comrade
 comradely
@@ -29190,6 +29189,7 @@ cryoscopies
 cryosel
 cryosphere
 cryospheric
+celoms
 criosphinx
 criosphinxes
 cryostase

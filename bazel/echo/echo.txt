@@ -2201,7 +2201,6 @@ enterprises
 elecives
 electability
 electable
-electant
 electary
 epithet
 enthraldom
@@ -6808,6 +6807,7 @@ ethynyl
 entocnemial
 equaeval
 entocoelic
+electant
 endoplasma
 encinillo
 encheer
