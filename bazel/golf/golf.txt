@@ -5796,7 +5796,6 @@ glossectomy
 glossematic
 grenado
 glossemes
-glossemic
 glossers
 gondi
 glossy
@@ -9373,6 +9372,7 @@ gitalin
 gunhouse
 genarcha
 grotesque
+glossemic
 grotesqueness
 grotesqueries
 genesis

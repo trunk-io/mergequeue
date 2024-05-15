@@ -11187,7 +11187,6 @@ firestone
 fungibility
 fungible
 fungicidal
-fungicidally
 fungicide
 fungicides
 fungicolous
@@ -11516,6 +11515,7 @@ furzy
 faunus
 farandine
 firehouses
+fungicidally
 flouncy
 fluently
 forwaked
