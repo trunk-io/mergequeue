@@ -4341,6 +4341,7 @@ forebackwardly
 fixion
 fishberries
 fishboats
+flossier
 fishbolt
 fishbolts
 falchions
@@ -6112,7 +6113,6 @@ flosses
 fluoridations
 flossflower
 flossie
-flossier
 foreconceive
 flossies
 flossiest
