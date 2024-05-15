@@ -6990,7 +6990,6 @@ armless
 airwards
 adirondack
 airwave
-airwaves
 airwise
 abstruseness
 airwoman
@@ -12609,6 +12608,7 @@ anesthesiologies
 anesthesiologists
 anesthesis
 acarology
+airwaves
 anesthetically
 anesthetics
 anesthetization
