@@ -1868,7 +1868,6 @@ banderlog
 banderma
 banderol
 banderole
-brigading
 banders
 banjara
 bandersnatch
@@ -17045,6 +17044,7 @@ binoxide
 bulk
 backswept
 bishoping
+brigading
 bulkage
 bulkages
 bulked
