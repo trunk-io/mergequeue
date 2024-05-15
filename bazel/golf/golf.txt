@@ -3584,7 +3584,6 @@ genus
 getling
 getmjlkost
 getpenny
-gibberish
 greaselessness
 gitana
 getspace
@@ -6007,6 +6006,7 @@ glucoses
 glances
 glucoside
 glucosidic
+gibberish
 grantha
 glucosidically
 glucosine
