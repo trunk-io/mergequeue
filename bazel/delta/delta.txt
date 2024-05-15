@@ -3794,6 +3794,7 @@ dehydrogenizer
 dehydroretinol
 dehydrosparteine
 delustrant
+dihydroxysuccinic
 dackering
 dehisce
 dehisced
@@ -9635,7 +9636,6 @@ dihydrotachysterol
 dihydroxy
 dhaks
 dihydroxyacetone
-dihydroxysuccinic
 dihydroxytoluene
 dosshouse
 dalasis
