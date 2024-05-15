@@ -1863,7 +1863,6 @@ banderlog
 banderma
 banderol
 banderole
-brigading
 banders
 banjara
 bandersnatch
@@ -10022,6 +10021,7 @@ birdbath
 biunial
 bridleman
 bulltoad
+brigading
 bronchiole
 biuniquely
 biuniqueness
