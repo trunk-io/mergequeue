@@ -18953,7 +18953,6 @@ collaterals
 canzone
 collates
 collation
-collationer
 collations
 cesti
 collatitious
@@ -31316,6 +31315,7 @@ curia
 clodpoles
 curiae
 curiage
+collationer
 curialism
 curialist
 cabalas

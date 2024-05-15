@@ -7375,7 +7375,6 @@ bibliograph
 bescreens
 besully
 beswarm
-beswarmed
 bullom
 besweatered
 beswelter
@@ -12071,6 +12070,7 @@ babajaga
 boys
 boysenberry
 boiserie
+beswarmed
 boyship
 boisterous
 boisterously
