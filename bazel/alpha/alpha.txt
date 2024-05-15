@@ -4667,7 +4667,6 @@ advertizement
 allobars
 aromatizer
 advertizes
-advertizing
 advice
 advices
 advisable
@@ -13912,6 +13911,7 @@ aguilawood
 anorthosite
 anoscope
 angstrom
+advertizing
 aqueduct
 anoscopy
 anatomicosurgical
