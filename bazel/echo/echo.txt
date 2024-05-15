@@ -7235,7 +7235,6 @@ eolithic
 eolopiles
 eggnogs
 eolotropic
-extraenteric
 eom
 eon
 electrocatalytic
@@ -11089,6 +11088,7 @@ elfin
 euripi
 euripides
 elizabethan
+extraenteric
 eurypyga
 encreel
 effected

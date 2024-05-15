@@ -2536,7 +2536,6 @@ bassetite
 barguest
 barguests
 buzylene
-barhops
 baria
 bariatrician
 bedegar
@@ -7226,6 +7225,7 @@ bespoken
 bespot
 bespotted
 bespotting
+barhops
 bespouse
 bewit
 batardeau
