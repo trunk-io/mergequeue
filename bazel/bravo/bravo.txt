@@ -620,7 +620,6 @@ blindfolder
 bactericides
 bacteriemia
 bacteriform
-bacterin
 borofluoric
 bacterioagglutinin
 bacterioblast
@@ -10934,6 +10933,7 @@ blinding
 bescoured
 blindless
 blindly
+bacterin
 blindling
 boilery
 bathwater
