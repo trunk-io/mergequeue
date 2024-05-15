@@ -2925,7 +2925,6 @@ barricaded
 baryes
 barricaders
 bedplates
-barricado
 bigothero
 barricadoes
 brainsick
@@ -13863,6 +13862,7 @@ baptizee
 bowsman
 bowmen
 bown
+barricado
 being
 bows
 bowsaw
