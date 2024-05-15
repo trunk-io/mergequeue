@@ -9245,7 +9245,6 @@ chasers
 chases
 chashitsu
 chasid
-chasidim
 chasings
 chasm
 circumrotation
@@ -27849,6 +27848,7 @@ cuttoe
 cpm
 cpo
 cps
+chasidim
 cpt
 cpu
 counterclaimant

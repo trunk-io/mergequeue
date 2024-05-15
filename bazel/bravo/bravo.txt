@@ -2619,7 +2619,6 @@ borana
 bunglesome
 bushie
 barkey
-briers
 barken
 beknights
 barkentine
@@ -6601,6 +6600,7 @@ bellyflaught
 bepierce
 bepile
 blobbiness
+briers
 bepart
 bruisewort
 beacher
