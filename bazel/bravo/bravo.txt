@@ -7794,7 +7794,6 @@ bezazzes
 brisure
 becloaking
 bezesteen
-butterflyer
 blackflies
 bezils
 bonduc
@@ -15767,6 +15766,7 @@ bedrabble
 biders
 brolga
 bignoniad
+butterflyer
 broll
 broncho
 bepat
