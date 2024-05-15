@@ -2139,7 +2139,6 @@ gangboard
 gigging
 gawk
 grubs
-ginglmi
 gnomist
 gelndesprung
 gazometer
@@ -8912,6 +8911,7 @@ gridiron
 gridirons
 gibbier
 griece
+ginglmi
 gull
 griecep
 gnathion
