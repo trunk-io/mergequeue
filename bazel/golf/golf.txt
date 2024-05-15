@@ -117,7 +117,6 @@ glaive
 geranial
 gadgetry
 gadgetries
-generals
 gaditan
 glut
 garrot
@@ -6232,6 +6231,7 @@ gelastic
 gallbladder
 geitonogamous
 gnomologist
+generals
 goaded
 greit
 gumshoed
