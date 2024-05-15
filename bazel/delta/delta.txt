@@ -3632,7 +3632,6 @@ degames
 deganglionate
 degas
 dystome
-degases
 degasify
 degasifier
 dispond
@@ -15279,6 +15278,7 @@ dolorific
 dolorimeter
 dolorimetric
 desaurin
+degases
 dolorimetrically
 dolorogenic
 daimio
