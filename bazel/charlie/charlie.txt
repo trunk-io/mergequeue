@@ -621,6 +621,7 @@ caelian
 caelometer
 caelus
 caenogaea
+cryptogamian
 cresson
 caenogenesis
 caenogenetic
@@ -29295,7 +29296,6 @@ cryptogam
 cryptogame
 cryptogamy
 cryptogamia
-cryptogamian
 cryptogamic
 cryptogamical
 cryptogamist
