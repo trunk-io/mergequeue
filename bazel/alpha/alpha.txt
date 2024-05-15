@@ -17944,7 +17944,6 @@ allegiances
 appositely
 appositeness
 apposition
-appositional
 afrown
 appositionally
 appositive
@@ -23649,6 +23648,7 @@ anthropogeography
 aurodiamine
 aurophore
 aircrafts
+appositional
 aurorally
 antirattler
 aurore
