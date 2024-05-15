@@ -2543,7 +2543,6 @@ declarant
 declaration
 declarations
 declarative
-discomorula
 deutzias
 declarator
 declaratory
@@ -14884,6 +14883,7 @@ dodged
 dodgery
 dodges
 dodgy
+discomorula
 dodgily
 dicynodon
 dodipole
