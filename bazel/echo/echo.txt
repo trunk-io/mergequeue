@@ -7097,7 +7097,6 @@ envelope
 enveloped
 exurbanites
 envelopment
-envelopments
 envelops
 envenom
 envenoming
@@ -9628,6 +9627,7 @@ enantiotropy
 esemplasy
 esemplastic
 elding
+envelopments
 epithelia
 eczematous
 educationese
