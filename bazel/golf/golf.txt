@@ -1676,7 +1676,6 @@ gasteropoda
 gordolobo
 gallons
 gastight
-gastly
 gastness
 gregarinida
 gingili
@@ -7661,6 +7660,7 @@ graduateship
 graduatical
 graduators
 graduses
+gastly
 gherkin
 graecian
 gemlike

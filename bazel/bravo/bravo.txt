@@ -2498,6 +2498,7 @@ barf
 blens
 britzka
 blear
+bluebutton
 barfish
 barfs
 bargain
@@ -10654,7 +10655,6 @@ blazons
 bld
 bothriocidaris
 bleach
-bluebutton
 bleachable
 bleached
 bleacher
