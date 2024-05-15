@@ -2099,7 +2099,6 @@ bannerline
 bannerman
 bannermen
 bannerole
-bannerols
 bannet
 bannisters
 birthmarks
@@ -16185,6 +16184,7 @@ browbeater
 browbeating
 benefactor
 bloomy
+bannerols
 browbeats
 browden
 browet
