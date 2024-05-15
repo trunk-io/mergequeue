@@ -432,7 +432,6 @@ backpedaled
 bollandist
 backpedaling
 backpiece
-backplane
 backplanes
 backpointer
 backpointers
@@ -2487,6 +2486,7 @@ bononian
 brethrenism
 baresma
 balbutient
+backplane
 balaklava
 binotic
 baresthesia
