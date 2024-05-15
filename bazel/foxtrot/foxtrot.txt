@@ -9897,7 +9897,6 @@ fundable
 frowardly
 freshmen
 freshness
-freesp
 foreadvise
 freshwoman
 fresison
@@ -10277,6 +10276,7 @@ floating
 fluence
 falcer
 fomented
+freesp
 frond
 frankalmoin
 forinsecal
