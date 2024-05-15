@@ -4940,7 +4940,6 @@ carthaginian
 carthame
 carthamic
 carthamus
-carthorse
 cartier
 cartiest
 cartilage
@@ -25755,6 +25754,7 @@ contiguate
 correlativity
 correligionist
 correllated
+carthorse
 canterbury
 cowboys
 cytolysis
