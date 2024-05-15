@@ -3529,6 +3529,7 @@ figurer
 flyweight
 flocculous
 facebread
+foreannounce
 figures
 figuresome
 friesic
@@ -7874,7 +7875,6 @@ forepaled
 filiform
 furiousity
 furor
-foreannounce
 foredesk
 foreparts
 forepass
