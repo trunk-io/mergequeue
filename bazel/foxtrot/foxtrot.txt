@@ -772,6 +772,7 @@ fanciers
 fancies
 fanciful
 fancifulness
+fourier
 fancying
 fanciless
 fanciness
@@ -9024,7 +9025,6 @@ filea
 foveola
 favositoid
 forewoman
-fourier
 fourierism
 fourling
 felsobanyite
