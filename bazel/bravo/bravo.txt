@@ -4358,7 +4358,6 @@ beaverize
 beaverkill
 betty
 beaverkin
-beaverskin
 beaverteen
 bared
 beaverwood
@@ -7637,6 +7636,7 @@ brinks
 booing
 boneache
 bachel
+beaverskin
 bogwood
 betaine
 bevil
