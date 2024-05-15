@@ -5627,7 +5627,6 @@ depend
 dependability
 dependabilities
 dependableness
-dependably
 dependance
 dependant
 depended
@@ -16855,6 +16854,7 @@ donnishly
 drawlink
 drawloom
 drawls
+dependably
 drawn
 dipleuric
 determinativeness
