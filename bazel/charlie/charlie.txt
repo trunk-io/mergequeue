@@ -6694,7 +6694,6 @@ ceils
 ceint
 counterquestion
 coathangers
-colligation
 ceinture
 ceyssatite
 clinked
@@ -20386,6 +20385,7 @@ comoedus
 comolecule
 carbonite
 comonte
+colligation
 crassness
 comortgagee
 countermeet
