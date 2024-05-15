@@ -2710,6 +2710,7 @@ federalese
 ferrum
 fabric
 freshes
+fondness
 ferruminating
 ferrumination
 furbearer
@@ -8085,7 +8086,6 @@ fluorescent
 firebrats
 flayflint
 furnitures
-fondness
 flecnode
 fibula
 forests
