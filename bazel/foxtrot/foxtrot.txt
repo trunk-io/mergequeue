@@ -1557,6 +1557,7 @@ faulx
 flangeway
 focusers
 footplate
+fermal
 filmmaking
 faun
 ferreiro
@@ -2499,7 +2500,6 @@ ferlying
 furfuraldehyde
 ferling
 fermail
-fermal
 fermata
 fermatas
 fleshed
