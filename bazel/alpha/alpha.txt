@@ -5783,7 +5783,6 @@ agalawood
 animalcule
 appoggiaturas
 agalaxy
-agalaxia
 anisomelus
 agalena
 agalenidae
@@ -17062,6 +17061,7 @@ adenovirus
 apjohnite
 apl
 aplace
+agalaxia
 aplacental
 aplacentalia
 aplacentaria
