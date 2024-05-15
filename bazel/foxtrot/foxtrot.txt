@@ -3336,7 +3336,6 @@ fideistic
 faction
 flabbergastation
 factures
-fidejussionary
 fidejussor
 fratching
 fortunous
@@ -8319,6 +8318,7 @@ facade
 forisfamiliate
 forisfamiliation
 forjaskit
+fidejussionary
 foujdar
 forjudges
 forjudging
