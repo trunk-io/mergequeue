@@ -12900,7 +12900,6 @@ anglicisms
 anglicization
 anglicize
 anglicized
-anglify
 aporosa
 anglimaniac
 apperceiving
@@ -21461,6 +21460,7 @@ aspersoir
 aspersoria
 ascomycetes
 aspersoriums
+anglify
 aspersors
 asperugo
 asperula
