@@ -2004,6 +2004,7 @@ fuzes
 feedlots
 fiendishly
 fulth
+fogs
 folio
 frat
 fravashi
@@ -7260,7 +7261,6 @@ footpaths
 forewarner
 fatidic
 fetial
-fogs
 forepeak
 forefronts
 footpounds
