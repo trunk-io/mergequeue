@@ -4566,7 +4566,6 @@ carnie
 clapperdudgeon
 carnied
 carniferrin
-carnifex
 carnifexes
 carnification
 carnifices
@@ -19297,6 +19296,7 @@ cassena
 colonette
 colongitude
 colony
+carnifex
 colonial
 candidas
 colonialise
