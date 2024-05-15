@@ -4914,7 +4914,6 @@ forehood
 flameout
 flatten
 fourflushers
-flameouts
 formulize
 flameproofer
 flamer
@@ -7873,6 +7872,7 @@ furiousity
 furor
 foreannounce
 foredesk
+flameouts
 foreparts
 forepass
 feedstuffs
