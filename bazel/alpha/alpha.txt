@@ -1281,7 +1281,6 @@ amylodextrin
 acanthopteran
 acanthopteri
 acanthopterygian
-adagial
 acanthopterygii
 acanthopterous
 acanthoses
@@ -10524,6 +10523,7 @@ amygdalase
 antipascha
 amygdalate
 amygdalectomy
+adagial
 amygdales
 amygdalic
 archduchy

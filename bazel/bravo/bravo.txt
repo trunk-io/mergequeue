@@ -4979,7 +4979,6 @@ bristle
 beefsteak
 beeftongue
 beefwood
-beefwoods
 bandcase
 beegerite
 blackcock
@@ -6830,6 +6829,7 @@ berlinite
 banzais
 bathmotropic
 berlinize
+beefwoods
 berloque
 berm
 berme
