@@ -5955,6 +5955,7 @@ catheterisation
 catheterise
 catheterised
 catheterism
+crossroad
 catheterization
 catheterize
 challa
@@ -29920,7 +29921,6 @@ chokebore
 crosspatches
 crosspath
 crosspoint
-crossroad
 crossroads
 continentality
 cobwebs
