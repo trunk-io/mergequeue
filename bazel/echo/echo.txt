@@ -4346,7 +4346,6 @@ embrasure
 eeyuck
 enantiomorph
 espringal
-enantiomorphy
 enantiomorphic
 ensconce
 eolopile
@@ -12279,6 +12278,7 @@ economised
 execrator
 emusive
 ephemera
+enantiomorphy
 execrators
 execute
 executed
