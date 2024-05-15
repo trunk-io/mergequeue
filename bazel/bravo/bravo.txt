@@ -2568,7 +2568,6 @@ barilla
 bariolage
 bleeder
 blackie
-basiglandular
 baryon
 baryonic
 baryphonia
@@ -7997,6 +7996,7 @@ bibliophobia
 bismuthite
 bibliologist
 bestriding
+basiglandular
 biometrics
 bibliomane
 bibliomania
