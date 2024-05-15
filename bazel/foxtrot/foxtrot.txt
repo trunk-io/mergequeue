@@ -2635,7 +2635,6 @@ fervency
 ferryhouse
 ferrimagnetically
 feedsman
-ferryman
 frowziness
 ferrites
 frailties
@@ -5935,6 +5934,7 @@ fichtean
 floccule
 flooders
 floodgates
+ferryman
 fiercest
 familist
 fittily
