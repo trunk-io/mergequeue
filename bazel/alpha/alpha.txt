@@ -793,7 +793,6 @@ abrico
 abricock
 abricot
 abridgable
-ambos
 abridged
 anisotropical
 abridgement
@@ -837,6 +836,7 @@ abruptio
 abruption
 abruptly
 addedly
+ambos
 abruptness
 apptd
 abstractedness
