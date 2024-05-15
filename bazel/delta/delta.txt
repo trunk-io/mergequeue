@@ -2616,7 +2616,6 @@ decocts
 decoctum
 decodable
 decode
-decoded
 decoders
 decodes
 decoding
@@ -16513,6 +16512,7 @@ dilutions
 dottiness
 dumpfile
 draegermen
+decoded
 deoxidator
 draffman
 drostden
