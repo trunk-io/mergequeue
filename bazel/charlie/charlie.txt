@@ -5998,7 +5998,6 @@ catholic
 correspondencies
 cryptostomata
 catholically
-catholicalness
 catholicisation
 catholicised
 catholicism
@@ -17304,6 +17303,7 @@ coardent
 coarrange
 coarrangement
 coarse
+catholicalness
 cadis
 coarsely
 coarsened
