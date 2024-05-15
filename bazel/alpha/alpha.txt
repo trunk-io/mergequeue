@@ -6095,6 +6095,7 @@ ancilia
 aggressin
 altered
 attaint
+arthrometer
 aggressionist
 aggressive
 antireality
@@ -20612,7 +20613,6 @@ arthrolith
 arthrolithiasis
 arthromere
 arthromeric
-arthrometer
 adamantoma
 arthrometry
 aswithe
