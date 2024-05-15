@@ -1151,7 +1151,6 @@ advene
 abbassi
 amperes
 archaeologists
-aucan
 abutment
 assertible
 abutments
@@ -15830,6 +15829,7 @@ antipedobaptism
 antipeduncular
 algebra
 atlantica
+aucan
 astute
 antiperistalsis
 antiperistatic
