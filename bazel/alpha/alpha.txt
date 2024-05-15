@@ -1066,6 +1066,7 @@ abstrahent
 abstrict
 abstricted
 abstricting
+asserted
 abstruser
 abstrusest
 absinthial
@@ -21722,7 +21723,6 @@ asseour
 assert
 asserta
 assertable
-asserted
 autocorrelate
 assertedly
 asserter
