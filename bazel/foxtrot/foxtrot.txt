@@ -2710,7 +2710,6 @@ federalese
 ferrum
 fabric
 freshes
-ferruminating
 ferrumination
 furbearer
 fraters
@@ -10335,6 +10334,7 @@ frogmen
 farrieries
 flowerful
 frognose
+ferruminating
 frighted
 function
 fruticant
