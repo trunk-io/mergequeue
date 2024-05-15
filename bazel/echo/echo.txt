@@ -123,7 +123,6 @@ enginehouse
 equisetaceae
 excitants
 episynaloephe
-eartab
 enneateric
 eartag
 eartagged
@@ -8785,6 +8784,7 @@ engrain
 endocline
 equivoque
 emulsor
+eartab
 equoidean
 equulei
 equuleus
