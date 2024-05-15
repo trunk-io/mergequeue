@@ -6947,7 +6947,6 @@ airplot
 airport
 airports
 airpost
-airposts
 asst
 airproofs
 aggrieving
@@ -24051,6 +24050,7 @@ afacing
 autoelectrolytic
 autoelevation
 autoepigraph
+airposts
 arrtez
 autoeroticism
 autoette
