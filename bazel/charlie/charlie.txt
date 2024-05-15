@@ -5496,7 +5496,6 @@ catachreses
 catachresis
 catachrestic
 cercariae
-catachrestical
 catachrestically
 catachthonian
 catachthonic
@@ -12141,6 +12140,7 @@ chotts
 chou
 chouan
 chouanize
+catachrestical
 committment
 chouette
 choufleur
