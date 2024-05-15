@@ -35,7 +35,6 @@ fabricates
 fabricating
 fabrication
 fabricational
-fabrications
 fabricator
 floatingly
 flintless
@@ -3780,6 +3779,7 @@ filmland
 filmlands
 filmmake
 fullword
+fabrications
 filmogen
 filmography
 frosteds
