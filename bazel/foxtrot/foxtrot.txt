@@ -1101,7 +1101,6 @@ flakily
 farmtown
 floricomous
 farnesol
-faulty
 farnesols
 frotting
 fogas
@@ -10486,6 +10485,7 @@ foutre
 frontonasal
 fotive
 fruitwood
+faulty
 flodge
 fetterer
 foreface
