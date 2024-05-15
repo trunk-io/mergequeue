@@ -1536,7 +1536,6 @@ deadcenter
 deeryards
 deadlier
 discotheques
-deaden
 doolee
 droops
 dendra
@@ -17989,6 +17988,7 @@ dukedom
 dukedoms
 dukeling
 dukes
+deaden
 dukhn
 dukker
 dukkeripen

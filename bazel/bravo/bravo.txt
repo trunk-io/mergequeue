@@ -7319,7 +7319,6 @@ bestow
 bestowals
 bestower
 bestowment
-bestows
 bestraddle
 blades
 beveled
@@ -9135,6 +9134,7 @@ biomorphic
 bion
 bailsman
 byon
+bestows
 bionditional
 bionics
 bionomy
