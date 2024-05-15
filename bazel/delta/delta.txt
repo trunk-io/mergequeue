@@ -6692,7 +6692,6 @@ downrange
 desiccated
 desiccating
 desiccations
-desiccator
 desiderable
 diascopy
 deadhead
@@ -9564,6 +9563,7 @@ digraphically
 digredience
 digrediency
 digredient
+desiccator
 decenaries
 disjunction
 digressed
