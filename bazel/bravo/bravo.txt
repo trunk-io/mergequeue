@@ -608,6 +608,7 @@ barniest
 bricoles
 babungera
 bacquet
+burrower
 billmen
 bact
 bokadam
@@ -17859,7 +17860,6 @@ blueblack
 breakback
 burroughs
 burroweed
-burrower
 burrows
 benevolent
 burrstone
