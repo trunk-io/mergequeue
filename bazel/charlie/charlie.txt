@@ -6222,6 +6222,7 @@ codeword
 circularise
 cauking
 cyrtoceracone
+cfs
 caul
 collieries
 cauld
@@ -8064,7 +8065,6 @@ contes
 cf
 cofeatures
 cfd
-cfs
 cgm
 cgs
 ch
