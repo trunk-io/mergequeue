@@ -937,7 +937,6 @@ ferocity
 farad
 faraday
 fittest
-faradaic
 fireproofness
 flamed
 forswear
@@ -8323,6 +8322,7 @@ foujdar
 forjudges
 forjudging
 formularisation
+faradaic
 foiler
 forensicality
 fingerwise
