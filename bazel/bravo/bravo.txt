@@ -1956,6 +1956,7 @@ bandstop
 brewings
 bandstring
 bandurria
+beard
 bandusia
 brandishes
 bosquets
@@ -4182,7 +4183,6 @@ bratticed
 biassing
 boomlet
 bicompact
-beard
 bankrupts
 bodysurfs
 beggars
