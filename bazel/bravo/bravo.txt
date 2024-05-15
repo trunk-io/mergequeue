@@ -3891,7 +3891,6 @@ bauxites
 balsas
 bauxitic
 bauxitite
-bavaroy
 bowdlerizations
 bavenite
 bavette
@@ -12758,6 +12757,7 @@ bookstores
 beerocracy
 biforked
 baskerville
+bavaroy
 bonks
 bloody
 bookward
