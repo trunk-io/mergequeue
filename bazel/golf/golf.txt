@@ -2309,7 +2309,6 @@ glans
 geoplanidae
 gefulltefish
 gaddis
-geggery
 galax
 gehlenite
 goblet
@@ -5844,6 +5843,7 @@ glossologist
 glossophaga
 glossopharyngeus
 globulous
+geggery
 gettered
 glancer
 goldweed
