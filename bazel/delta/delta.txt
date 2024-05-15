@@ -899,7 +899,6 @@ daoine
 dealers
 decks
 decidual
-dap
 dapedium
 dapedius
 daphne
@@ -18246,6 +18245,7 @@ disapprobative
 dungs
 deuterogamist
 damnification
+dap
 draffs
 desiderating
 dunite
