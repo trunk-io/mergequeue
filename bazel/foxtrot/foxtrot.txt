@@ -4975,7 +4975,6 @@ flagella
 flankard
 fauvist
 flanked
-flickery
 flanker
 flankers
 falconries
@@ -6419,6 +6418,7 @@ frogspawn
 fluorhydric
 fluoric
 fluoridate
+flickery
 filtered
 formularization
 fluoridating

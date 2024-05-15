@@ -9228,7 +9228,6 @@ alnein
 awest
 alnico
 authenticating
-alnicoes
 antemetic
 alnilam
 alnitak
@@ -14254,6 +14253,7 @@ antepyretic
 azoimide
 antepirrhema
 antepone
+alnicoes
 anteportico
 anteporticoes
 anteporticos
