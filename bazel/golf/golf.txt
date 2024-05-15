@@ -2735,7 +2735,6 @@ graal
 genethlic
 goatee
 genetics
-ganymedes
 geomorphological
 genetika
 gimballed
@@ -10019,6 +10018,7 @@ globs
 graybeard
 gudgeons
 graphidiaceae
+ganymedes
 gowned
 gudget
 graphed
