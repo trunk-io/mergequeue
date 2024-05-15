@@ -6642,7 +6642,6 @@ gametophobia
 grasp
 guestchamber
 gomart
-gomashta
 gombo
 gapy
 gomeisa
@@ -8976,6 +8975,7 @@ gnathophorous
 gravenstein
 geometer
 grilled
+gomashta
 grogging
 grillee
 geothermometer
