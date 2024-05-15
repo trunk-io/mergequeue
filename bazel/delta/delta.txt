@@ -6819,6 +6819,7 @@ dandyisms
 desitive
 desize
 deskbound
+duellos
 deskill
 decompositional
 desklike
@@ -17899,7 +17900,6 @@ duelling
 duellist
 duello
 deterministically
-duellos
 durance
 droopt
 duenas
