@@ -2134,7 +2134,6 @@ blaw
 booms
 beggiatoa
 borofluoride
-bantayan
 bidstand
 bantam
 bantamize
@@ -16208,6 +16207,7 @@ brownish
 brownishness
 brownist
 boosted
+bantayan
 brownistic
 brownly
 brownness
