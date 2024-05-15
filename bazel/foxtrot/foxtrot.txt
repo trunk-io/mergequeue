@@ -4576,6 +4576,7 @@ fitness
 fidia
 fitout
 fairlike
+freeman
 fittage
 flumadiddle
 fitted
@@ -9605,7 +9606,6 @@ firths
 falchion
 fastened
 fiador
-freeman
 felicify
 flitches
 freaks
