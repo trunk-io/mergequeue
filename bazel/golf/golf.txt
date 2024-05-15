@@ -5861,7 +5861,6 @@ glossotomy
 glosts
 glottal
 gloomy
-grapsoid
 gattine
 galera
 goodies
@@ -10050,6 +10049,7 @@ guereza
 gueridon
 gueridons
 guerilla
+grapsoid
 gasking
 guarapucu
 guerillaism
