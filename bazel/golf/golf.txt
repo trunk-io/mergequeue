@@ -472,7 +472,6 @@ gannets
 galleyman
 gonimoblast
 genotype
-glanced
 gastrocoele
 gollar
 galenites
@@ -8136,6 +8135,7 @@ gynecicgynecidal
 gleeked
 greases
 graphitization
+glanced
 gondolier
 graphitize
 gyros
