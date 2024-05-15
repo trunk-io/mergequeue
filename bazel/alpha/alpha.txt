@@ -6242,7 +6242,6 @@ aglipayano
 aglypha
 aglyphodont
 aglyphodonta
-aglyphous
 alectoriae
 alcyones
 adversaria
@@ -24397,6 +24396,7 @@ autoslip
 altruistic
 autosomal
 autosomally
+aglyphous
 arbalo
 anthrax
 autosomatognostic
