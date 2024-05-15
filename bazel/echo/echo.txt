@@ -2342,7 +2342,6 @@ elicitory
 electrodeless
 exponentials
 entremets
-ergatomorph
 estimates
 energist
 enjeopard
@@ -8606,6 +8605,7 @@ electrotherapeutic
 encompassing
 equiconvex
 egrets
+ergatomorph
 equicurve
 equid
 equidiagonal
