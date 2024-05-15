@@ -4477,7 +4477,6 @@ bearings
 beckoner
 beckoners
 beckoningly
-barfed
 byward
 backswing
 bonairness
@@ -12131,6 +12130,7 @@ boldly
 boldnesses
 boldo
 boldoine
+barfed
 benzofluorene
 bannets
 boldos
