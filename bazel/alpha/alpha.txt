@@ -11764,7 +11764,6 @@ analemmas
 analemmata
 analepses
 analepsis
-analeptic
 anthidium
 analgesia
 analgesics
@@ -13870,6 +13869,7 @@ anoplura
 anopluriform
 agrah
 anopsias
+analeptic
 aspidosperma
 anucleate
 anopubic

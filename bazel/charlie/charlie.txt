@@ -7461,6 +7461,7 @@ cephalophus
 cephaloplegia
 cervisia
 cryoprobe
+convener
 cephaloplegic
 clarisse
 cephalopod
@@ -24020,7 +24021,6 @@ convenances
 convene
 coexert
 convened
-convener
 convenery
 conveneries
 chayma
