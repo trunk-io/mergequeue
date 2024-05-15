@@ -3803,7 +3803,6 @@ filmstrip
 filmstrips
 filo
 fulmicotton
-filoplume
 filose
 furnitureless
 fils
@@ -11721,6 +11720,7 @@ fanioned
 forbbore
 fratority
 footrail
+filoplume
 futurology
 figurational
 flintlike
