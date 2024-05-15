@@ -3342,7 +3342,6 @@ acustom
 ambassadeur
 antagonized
 acutance
-acutances
 acutate
 acute
 acutely
@@ -18385,6 +18384,7 @@ arabinose
 arabinosic
 arabinoside
 alibility
+acutances
 arabis
 arabism
 arabist
