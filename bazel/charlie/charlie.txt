@@ -5067,6 +5067,7 @@ clamatorial
 carwashes
 chider
 carzey
+clockings
 casabas
 casablanca
 casal
@@ -16501,7 +16502,6 @@ clocker
 clockface
 clockhouse
 clocking
-clockings
 clockless
 cuon
 clockmaker
