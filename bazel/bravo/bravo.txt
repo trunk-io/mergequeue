@@ -8504,7 +8504,6 @@ bihalve
 boatly
 backstone
 bodle
-bihamate
 birches
 byhand
 bihari
@@ -11784,6 +11783,7 @@ boeotarch
 bodach
 bdl
 bodaciously
+bihamate
 boddagh
 boddhisattva
 boddle
