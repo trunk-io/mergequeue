@@ -2323,7 +2323,6 @@ geira
 garrafa
 gonofs
 geisa
-geisenheimer
 geyserish
 geyserite
 geysers
@@ -8295,6 +8294,7 @@ gorgonize
 gratae
 grate
 grateful
+geisenheimer
 groundman
 gananciales
 grinds
