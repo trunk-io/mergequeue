@@ -396,6 +396,7 @@ fashioners
 fogged
 fastigated
 folkland
+fenestrate
 fairground
 foredenounce
 fairhead
@@ -7305,7 +7306,6 @@ footwear
 forefelt
 floodmark
 fumiferous
-fenestrate
 frigs
 feudalization
 furazan
