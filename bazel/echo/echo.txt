@@ -3061,7 +3061,6 @@ elliptically
 ellipticalness
 ellipticity
 extemporize
-elliptograph
 elliptoid
 electrum
 extraparietal
@@ -6499,6 +6498,7 @@ entangledness
 endotrachelitis
 evensong
 enwrapt
+elliptograph
 exceptions
 entanglements
 euharmonic
