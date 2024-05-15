@@ -882,7 +882,6 @@ baggers
 baggie
 baggier
 baggies
-baggiest
 bradypus
 bagging
 baggings
@@ -4920,6 +4919,7 @@ bedwarf
 bedtimes
 bedwarfing
 bedwarfs
+baggiest
 bedwell
 bee
 beeball
