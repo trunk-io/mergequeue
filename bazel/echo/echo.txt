@@ -2550,7 +2550,6 @@ embassies
 electroosmotically
 electropathy
 electropathology
-electrophysicist
 electrophysiological
 emotionist
 exportability
@@ -6839,6 +6838,7 @@ entomofauna
 entomogenous
 emmantle
 empoisoning
+electrophysicist
 entomol
 eyepopper
 elasmosaurus
