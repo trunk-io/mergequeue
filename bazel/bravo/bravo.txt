@@ -10499,7 +10499,6 @@ blastemic
 blaster
 blastful
 blastid
-blasting
 borolanite
 blastings
 blastman
@@ -13160,6 +13159,7 @@ boxboards
 bosh
 boshas
 boshbok
+blasting
 beamlike
 breadthless
 boshes
