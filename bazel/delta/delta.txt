@@ -946,7 +946,6 @@ decerp
 darbs
 dumpers
 darbukka
-darcy
 drolushness
 dard
 dardan
@@ -16775,6 +16774,7 @@ dratting
 draught
 draughtboard
 draughted
+darcy
 draughthouse
 draughtier
 decastylos
