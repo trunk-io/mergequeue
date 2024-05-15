@@ -2841,6 +2841,7 @@ buttonmold
 barrabora
 barracan
 barrace
+blackout
 barrack
 barracked
 borh
@@ -10261,7 +10262,6 @@ bibby
 blackness
 bebump
 bilged
-blackout
 blackpatch
 beauclerk
 bruges
