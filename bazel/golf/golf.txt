@@ -7975,6 +7975,7 @@ granitiform
 granitite
 granitization
 granitized
+gyrofrequency
 granitizing
 grumbly
 granitoid
@@ -10459,7 +10460,6 @@ gumpus
 gums
 gastroenteralgia
 gumshield
-gyrofrequency
 gosling
 goxes
 gyromancy
