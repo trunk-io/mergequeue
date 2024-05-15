@@ -12,7 +12,6 @@ each
 epidermoid
 estocs
 evaporometer
-evansite
 ead
 eadi
 excoriator
@@ -2094,6 +2093,7 @@ elasticized
 excursory
 evangelizes
 enarm
+evansite
 elastin
 elastins
 exemplupla
