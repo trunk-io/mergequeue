@@ -2560,7 +2560,6 @@ fernlike
 fernseed
 flustrum
 faucalize
-fernshaw
 fosterlings
 forlorner
 foolhardihood
@@ -9379,6 +9378,7 @@ francic
 francisc
 franciscan
 fabula
+fernshaw
 forhale
 friends
 flushest
