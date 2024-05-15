@@ -2795,6 +2795,7 @@ geodesic
 genip
 genipa
 genyplasty
+glaciolacustrine
 goldenwing
 genips
 gastroduodenostomies
@@ -7696,7 +7697,6 @@ grorudite
 gazoz
 gormed
 glee
-glaciolacustrine
 greeve
 granularly
 gymnetrous
