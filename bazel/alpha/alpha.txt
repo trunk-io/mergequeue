@@ -11057,6 +11057,7 @@ amperages
 ampere
 amperemeter
 amatory
+anaplasis
 ampery
 achromatized
 amperian
@@ -11953,7 +11954,6 @@ anaphorical
 anaphrodisiac
 anaphroditic
 anaplasia
-anaplasis
 anaplasma
 anaplasmoses
 anaplasmosis
