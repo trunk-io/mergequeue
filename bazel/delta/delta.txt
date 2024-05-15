@@ -6536,7 +6536,6 @@ demilegato
 descendibility
 disanney
 descendible
-descendingly
 descends
 dialectic
 descension
@@ -9811,6 +9810,7 @@ draffish
 drowsy
 darting
 dilutent
+descendingly
 demagogs
 diety
 diluters
