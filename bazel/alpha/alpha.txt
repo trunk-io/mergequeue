@@ -5982,7 +5982,6 @@ agentives
 agentry
 archprototype
 archsnob
-agents
 ageometrical
 ager
 ageratums
@@ -15561,6 +15560,7 @@ antimicrobic
 alphatoluic
 antimedicative
 antimilitary
+agents
 antimilitarism
 aridnesses
 antimilitarist
