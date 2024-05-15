@@ -5646,7 +5646,6 @@ anaerobious
 afterharm
 afterheat
 afterhelp
-afterhend
 afterhope
 afterhours
 afterimages
@@ -10581,6 +10580,7 @@ amylodyspepsia
 anthriscus
 amylogenesis
 amylogenic
+afterhend
 amylogens
 archoptoma
 amylohydrolysis
