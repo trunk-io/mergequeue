@@ -6176,6 +6176,7 @@ enplaned
 extraphysiological
 enquarter
 enqueue
+educabilia
 entered
 enqueued
 enqueues
@@ -12880,7 +12881,6 @@ exsert
 expandedly
 expandedness
 expanders
-educabilia
 expandible
 embalmer
 etherialization
