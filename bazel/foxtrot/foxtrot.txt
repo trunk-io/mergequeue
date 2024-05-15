@@ -3601,6 +3601,7 @@ fluidize
 filemot
 flenches
 filename
+flightiness
 footgrip
 fixates
 fanons
@@ -5598,7 +5599,6 @@ foreglance
 foster
 flightily
 fomenters
-flightiness
 flightless
 facund
 forepassed
