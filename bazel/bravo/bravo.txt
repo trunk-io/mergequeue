@@ -2080,7 +2080,6 @@ betraise
 bankrupture
 bankshall
 bondelswarts
-banksia
 basilissa
 banksian
 bouet
@@ -9478,6 +9477,7 @@ birdseyes
 birdsnest
 birdstone
 befitting
+banksia
 basichromatic
 belabours
 bescent
