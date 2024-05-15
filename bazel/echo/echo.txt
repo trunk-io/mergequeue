@@ -2488,7 +2488,6 @@ engines
 epithelilia
 euphony
 echoist
-exactiveness
 electromagnetism
 electromagnetist
 escalloping
@@ -12459,6 +12458,7 @@ exhaustive
 eryon
 exhaustiveness
 elegances
+exactiveness
 exhaustless
 eulysite
 echites
