@@ -228,7 +228,6 @@ abbreviators
 abbroachment
 abc
 abcissa
-abcoulomb
 abd
 abdali
 aba
@@ -10100,6 +10099,7 @@ amboceptoid
 ambocoelia
 angiosclerosis
 amoraic
+abcoulomb
 ambodexter
 adjutage
 archaeopithecus
