@@ -5292,6 +5292,7 @@ borderer
 blinds
 begem
 bloods
+bongoes
 begettal
 begetter
 broth
@@ -12511,7 +12512,6 @@ bonework
 bonewort
 bonfires
 bowedness
-bongoes
 bongoist
 bypast
 borrows

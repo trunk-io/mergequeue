@@ -2587,7 +2587,6 @@ grinnie
 grassing
 gena
 genal
-glomerate
 genapp
 gospodar
 glenwood
@@ -9491,6 +9490,7 @@ gigantocyte
 gymnosporous
 gnomonical
 gaed
+glomerate
 gospel
 grouseward
 granting
