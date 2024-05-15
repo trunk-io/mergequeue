@@ -3706,6 +3706,7 @@ caravanner
 caravans
 caravansary
 corticopeduncular
+clayer
 caravansaries
 caravanserai
 caravanserial
@@ -15305,7 +15306,6 @@ commanderies
 claye
 clayed
 clayey
-clayer
 cantharidating
 conspecifics
 contchar
