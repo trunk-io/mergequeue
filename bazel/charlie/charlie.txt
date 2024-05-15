@@ -7966,6 +7966,7 @@ cesses
 chord
 cipolin
 cessible
+cholam
 cessing
 clinician
 cessio
@@ -11594,7 +11595,6 @@ cholagogic
 cholagogue
 cholalic
 couthily
-cholam
 cholangiography
 cholangiographic
 cholangioitis
