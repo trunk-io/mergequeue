@@ -3854,7 +3854,6 @@ eminences
 extraboldface
 eminencies
 eminent
-ensporia
 eminently
 extratympanic
 expressionless
@@ -12555,6 +12554,7 @@ encyclopedically
 encoder
 escheatable
 exility
+ensporia
 eyestones
 esophagotomy
 eximidus
