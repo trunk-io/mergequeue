@@ -4298,7 +4298,6 @@ glossing
 graniform
 gynaecian
 ghibelline
-gynaecic
 gynaecium
 gnocchi
 gemel
@@ -10601,6 +10600,7 @@ gunstick
 gunstocker
 glycyphyllin
 gunstone
+gynaecic
 gunter
 gyascutus
 gasterotheca
