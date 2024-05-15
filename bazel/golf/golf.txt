@@ -6133,6 +6133,7 @@ geometry
 gravitation
 gnabble
 graspers
+gandhara
 gouging
 gibberose
 gelotometer
@@ -10541,7 +10542,6 @@ gymnodont
 goffering
 gunmetals
 gobbing
-gandhara
 goads
 gunne
 glaked
