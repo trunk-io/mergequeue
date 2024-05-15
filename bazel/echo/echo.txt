@@ -6784,7 +6784,6 @@ entiris
 entirities
 eulachon
 entitatively
-entities
 entitle
 evangelistarion
 epochally
@@ -10091,6 +10090,7 @@ escort
 eagre
 estruation
 elk
+entities
 estrums
 erythrodextrin
 eliquate
