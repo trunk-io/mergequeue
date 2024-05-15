@@ -20514,6 +20514,7 @@ arteriolosclerosis
 arteriomalacia
 aerophilatelic
 arteriometer
+availability
 arteriomotor
 arterionecrosis
 allantois
@@ -24544,7 +24545,6 @@ avahi
 aurocyanide
 avail
 availabile
-availability
 allocryptic
 availabilities
 aciliate
