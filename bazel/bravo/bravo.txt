@@ -549,6 +549,7 @@ backout
 babies
 bishopless
 backups
+boddagh
 backus
 backveld
 bayok
@@ -11784,7 +11785,6 @@ boeotarch
 bodach
 bdl
 bodaciously
-boddagh
 boddhisattva
 boddle
 bode
