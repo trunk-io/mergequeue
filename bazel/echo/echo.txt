@@ -7581,7 +7581,6 @@ enlaces
 embololalia
 epichorion
 epicycle
-epicyemate
 experiments
 epicier
 esc
@@ -13138,6 +13137,7 @@ epaxial
 expirations
 expirator
 expiratory
+epicyemate
 eche
 expired
 earmark

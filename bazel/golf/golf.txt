@@ -3129,7 +3129,6 @@ gutterling
 gastromyces
 glumal
 geometridae
-gangshag
 geometriform
 gelinotte
 graminicolous
@@ -9666,6 +9665,7 @@ graphitoidal
 goofiest
 gruidae
 guilt
+gangshag
 gruyere
 gallocyanine
 gasterosteidae
