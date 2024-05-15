@@ -3569,7 +3569,6 @@ bather
 bathes
 bathetically
 bathflower
-bathhouse
 bathhouses
 braggest
 becudgel
@@ -7337,6 +7336,7 @@ bestrewment
 bestrewn
 basses
 bobsledding
+bathhouse
 bestridden
 blueberry
 biotoxins
