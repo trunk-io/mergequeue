@@ -4574,7 +4574,6 @@ giglot
 goslings
 gypsying
 grammontine
-gastrostaxis
 gash
 gypsyism
 gerardias
@@ -6417,6 +6416,7 @@ goclenian
 gamic
 gaudy
 grapsus
+gastrostaxis
 goers
 gastronomer
 goldarnedest

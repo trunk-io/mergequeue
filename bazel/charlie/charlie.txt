@@ -11302,7 +11302,6 @@ chloridation
 chloride
 cokery
 chloridella
-chloridellidae
 chlorider
 coattail
 chlorides
@@ -25200,6 +25199,7 @@ corybantic
 corybantine
 chemung
 corybantish
+chloridellidae
 corybulbin
 cornels
 corybulbine
