@@ -2866,7 +2866,6 @@ barracudina
 barrage
 barnmen
 barraged
-barrages
 barraging
 bailer
 berried
@@ -13413,6 +13412,7 @@ bottleneck
 brayer
 billows
 bottlenest
+barrages
 bottlenose
 bottlers
 bottlestone
