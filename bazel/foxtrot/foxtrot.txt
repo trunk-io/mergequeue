@@ -3265,7 +3265,6 @@ fictionalized
 fluorometer
 fraile
 fictionalizes
-funorin
 fictionalizing
 folkmote
 fictioner
@@ -4067,6 +4066,7 @@ filelike
 farcist
 finlet
 finmark
+funorin
 frondescing
 finmarks
 finnac
