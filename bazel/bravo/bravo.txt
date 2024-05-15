@@ -5034,7 +5034,6 @@ beerpull
 beers
 beest
 beestings
-bonytail
 beeswax
 beeswaxes
 bothriums
@@ -15199,6 +15198,7 @@ beveler
 brideknot
 brideless
 bridelike
+bonytail
 bridelope
 bridemaid
 basketry
