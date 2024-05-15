@@ -6687,7 +6687,6 @@ ceilidh
 ceilidhe
 connexivum
 ceiling
-ceilings
 ceilingward
 ceilingwards
 couche
@@ -16247,6 +16246,7 @@ collodiochloride
 clinchers
 clinches
 charmingly
+ceilings
 clinching
 clinchingly
 clinchingness
