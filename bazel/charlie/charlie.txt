@@ -2177,6 +2177,7 @@ chaenactis
 campshed
 campsheeting
 campsite
+coyer
 caver
 compasser
 campsites
@@ -18518,7 +18519,6 @@ contingents
 chebulinic
 considerateness
 clypeole
-coyer
 coyest
 coif
 coifed
