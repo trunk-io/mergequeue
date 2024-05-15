@@ -8133,7 +8133,6 @@ foretellers
 foretells
 fatiguability
 forethinking
-forethough
 forethoughtfulness
 furnishings
 fleet
@@ -8947,6 +8946,7 @@ floreta
 foulmouthedness
 fetched
 foulness
+forethough
 floe
 foumart
 fatefulness
