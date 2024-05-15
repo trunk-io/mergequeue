@@ -6145,7 +6145,6 @@ agileness
 ambiversive
 arioso
 avestruz
-agility
 anthobian
 auxotrophic
 agilities
@@ -9081,6 +9080,7 @@ allurance
 allure
 afternight
 allured
+agility
 allurement
 aerosat
 anemonin
