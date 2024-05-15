@@ -5759,7 +5759,6 @@ deploying
 deployment
 dispansive
 decastich
-deployments
 deftest
 deplorabilia
 deplorability
@@ -17384,6 +17383,7 @@ diastolic
 doney
 drooping
 dyers
+deployments
 droopingness
 disphenoid
 drow
