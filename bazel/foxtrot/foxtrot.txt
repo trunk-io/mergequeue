@@ -3248,7 +3248,6 @@ fichtelite
 flanky
 fusilade
 footsteps
-fundamentalness
 furling
 ficins
 ficklest
@@ -8579,6 +8578,7 @@ fungating
 forniciform
 farmsteading
 forninst
+fundamentalness
 firedragon
 factitious
 fornix
