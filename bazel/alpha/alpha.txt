@@ -5111,7 +5111,6 @@ abv
 aerophysics
 alkylogen
 aerophyte
-aerophobic
 aerophor
 aerophore
 antithermic
@@ -13327,6 +13326,7 @@ anisodactyli
 athens
 anisodactylic
 anisodont
+aerophobic
 anisogamete
 anisogametes
 algarde
