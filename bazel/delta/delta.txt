@@ -6507,7 +6507,6 @@ desc
 disarranged
 descale
 descamisados
-descant
 dentinoblast
 disencumber
 deranged
@@ -7503,6 +7502,7 @@ denaturisation
 deurwaarder
 diarrheic
 destroyable
+descant
 diomedea
 disentwine
 discriminably
