@@ -16898,7 +16898,6 @@ clucky
 clucking
 clucks
 concrfsce
-clue
 continuations
 clued
 clueing
@@ -18365,6 +18364,7 @@ cognises
 cisatlantic
 cognise
 cognised
+clue
 cogniser
 cognising
 chirimoya
