@@ -3563,7 +3563,6 @@ distomum
 delvers
 deformable
 deformation
-deformational
 delete
 deformations
 deformedly
@@ -8253,6 +8252,7 @@ diorism
 diadochian
 diadochic
 diadochite
+deformational
 diadochokinesia
 diadoumenos
 diadrom
