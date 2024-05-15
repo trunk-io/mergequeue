@@ -1229,7 +1229,6 @@ datemark
 dentalise
 durational
 dater
-daterman
 dates
 datil
 distinctly
@@ -10454,6 +10453,7 @@ dunches
 diphrelatic
 diphtheria
 diphtherian
+daterman
 deda
 diphtheric
 denticeti
