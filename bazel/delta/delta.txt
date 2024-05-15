@@ -6017,7 +6017,6 @@ depsides
 dept
 depth
 droopy
-depthen
 devitation
 depthless
 dianisidin
@@ -9262,6 +9261,7 @@ drawbridge
 diestrums
 drupaceae
 disambiguations
+depthen
 diestruses
 daikering
 daguerreotyper
