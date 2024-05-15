@@ -9175,6 +9175,7 @@ blanching
 biopotential
 biramose
 bioprecipitation
+belibeling
 biopsy
 bioplast
 biopsic
@@ -17218,7 +17219,6 @@ blastulae
 barkantine
 bullpen
 bullpoll
-belibeling
 bemirror
 bushpig
 bullpup
