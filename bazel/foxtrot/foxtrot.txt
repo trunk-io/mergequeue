@@ -2967,7 +2967,6 @@ feudal
 feudalising
 febricide
 feudalism
-feudalist
 feudalists
 feudality
 fractionising
@@ -3722,6 +3721,7 @@ filleul
 filly
 feodal
 fillies
+feudalist
 firedogs
 foalfoot
 filling
