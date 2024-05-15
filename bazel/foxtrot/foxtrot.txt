@@ -84,7 +84,6 @@ facepiece
 fisticuffs
 faces
 facesaving
-facet
 frizettes
 foresaying
 faceted
@@ -10712,6 +10711,7 @@ frightable
 facultied
 fungaceous
 fruition
+facet
 frequenting
 fruitless
 fruitlessly
