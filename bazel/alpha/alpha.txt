@@ -12599,7 +12599,6 @@ anesthesia
 arizona
 armisonant
 anesthesimeter
-andropetalar
 anesthesiology
 anesthesiologies
 anesthesiologists
@@ -23673,6 +23672,7 @@ auscultascope
 autoregenerator
 auscultate
 adzes
+andropetalar
 auscultated
 androphobia
 alchemize
