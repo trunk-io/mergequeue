@@ -12300,6 +12300,7 @@ affinity
 ancones
 anconeus
 adenocellulitis
+aphototactic
 ancony
 anconitis
 anconoid
@@ -16927,7 +16928,6 @@ auxiliation
 aphorizing
 aphoruridae
 aphotaxis
-aphototactic
 ancienter
 aphototaxis
 approve
