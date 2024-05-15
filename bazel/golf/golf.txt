@@ -2012,6 +2012,7 @@ guilts
 grossing
 gaultherin
 goodwillies
+geotropic
 gaumed
 graculus
 gluttons
@@ -2664,7 +2665,6 @@ gasthaus
 granodiorite
 goo
 gamodeme
-geotropic
 gorillas
 gene
 grassed
