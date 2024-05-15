@@ -8118,7 +8118,6 @@ exostracize
 extrude
 excludingly
 epipterygoid
-elegant
 epipterous
 epipubis
 epirhizous
@@ -10531,6 +10530,7 @@ enterpriser
 emmew
 etymon
 equalities
+elegant
 etymonic
 etiogenic
 etiolated

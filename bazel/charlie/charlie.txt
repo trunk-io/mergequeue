@@ -15828,7 +15828,6 @@ claviole
 clavipectoral
 clavis
 clavises
-clavolet
 chapel
 clavus
 clavuvi
@@ -20584,6 +20583,7 @@ compensator
 compensatory
 compensators
 compenser
+clavolet
 compere
 compered
 comblessness
