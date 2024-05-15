@@ -1521,7 +1521,6 @@ callisthenic
 cantharidism
 cric
 cenotaphic
-chemostat
 callisto
 callithrix
 callithump
@@ -18554,6 +18553,7 @@ curtis
 coiled
 carcinogeneses
 crusie
+chemostat
 coiler
 combusted
 clerkhood
