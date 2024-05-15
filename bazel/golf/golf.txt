@@ -3777,7 +3777,6 @@ giant
 gastroenteroptosis
 glabellae
 gasterothecal
-glabrous
 glace
 glinse
 gladiate
@@ -9943,6 +9942,7 @@ gipsyfy
 gaiters
 generis
 grouse
+glabrous
 guatemalan
 guatibero
 generalists
