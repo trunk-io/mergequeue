@@ -5378,7 +5378,6 @@ dentelliere
 dentello
 dentelure
 dentes
-denty
 docimasies
 dorsimesal
 daraf
@@ -5501,6 +5500,7 @@ deodorisation
 dynamitist
 deodorise
 deodorised
+denty
 deodoriser
 deynt
 deathroot
