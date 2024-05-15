@@ -12497,6 +12497,7 @@ benthamite
 bones
 boneset
 bonesets
+burma
 bonesetting
 brushite
 boneshaker
@@ -17768,7 +17769,6 @@ bratchet
 bimetallists
 burlington
 buyer
-burma
 bleeping
 burman
 barman
