@@ -9940,7 +9940,6 @@ babysat
 beneficiaries
 bitrochanteric
 bitser
-bitsy
 bitstock
 beasties
 bitstocks
@@ -13787,6 +13786,7 @@ bowelless
 borderlands
 bowelling
 bower
+bitsy
 bowerbird
 bullgine
 bowered

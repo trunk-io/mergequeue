@@ -359,7 +359,6 @@ gisarmes
 gley
 galactosamine
 glandiferous
-ghostwrites
 gorefish
 garrisons
 gunsmith
@@ -9041,6 +9040,7 @@ gease
 glowworm
 grimnesses
 gladiatory
+ghostwrites
 gerontologic
 griping
 grimoire
