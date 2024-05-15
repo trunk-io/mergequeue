@@ -5176,6 +5176,7 @@ gormless
 glib
 gubernance
 gymnospermae
+gledge
 gigabits
 glassteel
 guestship
@@ -7527,7 +7528,6 @@ gownsmen
 gowpen
 gox
 gangism
-gledge
 gp
 gloomful
 gpd
