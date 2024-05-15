@@ -5144,7 +5144,6 @@ evene
 endometrial
 endometriosis
 endomitosis
-endomorph
 endomorphy
 endomorphic
 endoneurium
@@ -11094,6 +11093,7 @@ eriometer
 extradict
 eurypharyngidae
 elfin
+endomorph
 euripi
 euripides
 elizabethan
