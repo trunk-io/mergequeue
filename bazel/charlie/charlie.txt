@@ -17106,7 +17106,6 @@ coadjutors
 carduus
 coadjutorship
 coadjutress
-coadjutrix
 coadjuvancy
 coadjuvant
 coadjuvate
@@ -28244,6 +28243,7 @@ chapelet
 crantara
 crants
 cardiopathy
+coadjutrix
 crapehanger
 cinnabaric
 crapelike
