@@ -2396,7 +2396,6 @@ becut
 bilertinned
 barcarolle
 barcella
-barcelona
 boxwork
 blip
 barcelonas
@@ -3844,6 +3843,7 @@ baubees
 bethunder
 binitarian
 bauble
+barcelona
 baublery
 bootleg
 baubling
