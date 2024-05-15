@@ -298,7 +298,6 @@ bakeware
 backberend
 benzinduline
 backbit
-behav
 backbite
 browbound
 backbites
@@ -15961,6 +15960,7 @@ barriguda
 benamed
 bronchography
 bronchographic
+behav
 bronchohemorrhagia
 broncholemmitis
 bronchomycosis
