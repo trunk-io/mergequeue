@@ -1857,6 +1857,7 @@ gastroscopy
 gastroscopic
 gonadial
 genealogizer
+guinfo
 gastroscopist
 grieshuckle
 gallophobia
@@ -10740,7 +10741,6 @@ graminin
 granule
 glycerinate
 gomerels
-guinfo
 gignate
 gutium
 gimbals

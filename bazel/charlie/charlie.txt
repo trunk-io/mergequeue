@@ -18248,7 +18248,6 @@ coffeehouse
 coffeehoused
 coffeehouses
 cavalry
-coffeeleaf
 coffeeman
 coquinas
 coffeepot
@@ -30223,6 +30222,7 @@ crummy
 crummie
 crummier
 crummies
+coffeeleaf
 crummiest
 crumminess
 crumming
