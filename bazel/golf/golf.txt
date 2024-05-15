@@ -6681,7 +6681,6 @@ gimp
 ghostwrite
 gluconeogenetic
 gonadotrope
-gainsaid
 gallinula
 gorgonian
 granivorous
@@ -10589,6 +10588,7 @@ gimberjawed
 gratefully
 gunshop
 grieve
+gainsaid
 gunslinging
 gulches
 gunsmithery
