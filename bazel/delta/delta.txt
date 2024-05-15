@@ -1355,7 +1355,6 @@ drapable
 daur
 duikerbuck
 dinned
-dauri
 daurna
 decipolar
 dautie
@@ -6110,6 +6109,7 @@ dequeue
 dermorhynchi
 duomi
 decry
+dauri
 dequeues
 dropshots
 der
