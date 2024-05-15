@@ -3645,7 +3645,6 @@ demandant
 degassing
 disappears
 degauss
-dunnesses
 degaussing
 degelatinize
 destituting
@@ -16882,6 +16881,7 @@ drawstrings
 drawtongs
 defortify
 drawtube
+dunnesses
 decanically
 deaired
 drazel
