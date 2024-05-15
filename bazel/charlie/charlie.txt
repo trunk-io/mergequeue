@@ -3900,7 +3900,6 @@ carboxylation
 carboxylic
 carboxyls
 carbro
-carbromal
 carbuncle
 chuckrum
 carbuncles
@@ -29056,6 +29055,7 @@ cantab
 crimpage
 crimped
 crimper
+carbromal
 creosoter
 crimpy
 crimpier
