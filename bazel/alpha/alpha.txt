@@ -4473,6 +4473,7 @@ adstipulator
 adsum
 adterminal
 adtevac
+agitate
 aduana
 adular
 arrestor
@@ -6184,7 +6185,6 @@ archilowe
 appetize
 agitable
 agitant
-agitate
 agitated
 agitation
 achillein
