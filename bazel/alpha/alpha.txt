@@ -15911,6 +15911,7 @@ antipyrotic
 antiplague
 aglobulism
 antiplanet
+availabilities
 antiplastic
 antiplatelet
 antipleion
@@ -24552,7 +24553,6 @@ avail
 availabile
 availability
 allocryptic
-availabilities
 aciliate
 arthrodynia
 availably
