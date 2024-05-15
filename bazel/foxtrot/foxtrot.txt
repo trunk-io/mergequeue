@@ -2092,6 +2092,7 @@ felanders
 felapton
 feldspar
 farewelling
+forzando
 funebrial
 federator
 forclose
@@ -8814,7 +8815,6 @@ feoffing
 forwrap
 fallacia
 forz
-forzando
 fulgor
 facily
 fly
