@@ -8881,6 +8881,7 @@ chapelman
 chapelmaster
 chapelry
 chapelries
+counterexercise
 chapels
 chapelward
 compile
@@ -26860,7 +26861,6 @@ conspiring
 counterexaggeration
 counterexamples
 counterexcitement
-counterexercise
 coresidual
 counterexplanation
 counterextend
