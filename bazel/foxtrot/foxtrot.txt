@@ -6463,7 +6463,6 @@ fluoroborate
 foreship
 fluoroform
 ferritin
-fluoaluminate
 fluorogen
 furriers
 fluorometry
@@ -11202,6 +11201,7 @@ fungistat
 foraminous
 flector
 fallfishes
+fluoaluminate
 frenzelite
 forepaling
 fungistatically
