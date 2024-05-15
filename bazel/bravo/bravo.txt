@@ -4113,7 +4113,6 @@ bartletts
 berrylike
 beaminess
 beatille
-beaming
 beamingly
 beamish
 beamishly
@@ -9615,6 +9614,7 @@ birthstool
 birthwort
 bestream
 bis
+beaming
 bluebills
 bys
 bisagre
