@@ -12268,7 +12268,6 @@ beaupers
 boltmaker
 boltonia
 boltonias
-boltonite
 boltrope
 bittern
 boltropes
@@ -13266,6 +13265,7 @@ boswellized
 bairnliness
 boswellizing
 blastoidea
+boltonite
 bota
 botany
 botanic
