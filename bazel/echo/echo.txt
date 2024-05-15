@@ -753,6 +753,7 @@ emotes
 ecphractic
 ecphrasis
 emergences
+eyecup
 euomphalid
 ecrase
 estrogenically
@@ -1690,7 +1691,6 @@ eyeblink
 eyebright
 exorcistical
 eyebrows
-eyecup
 experimently
 eyed
 ergophile
