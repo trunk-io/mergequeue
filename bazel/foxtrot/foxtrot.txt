@@ -2503,7 +2503,6 @@ fermatas
 fleshed
 ferme
 frizzle
-firebird
 filleter
 familarity
 fulgourous
@@ -2665,6 +2664,7 @@ ferromagnetic
 fibrillation
 fines
 ferromagnetism
+firebird
 fistlike
 fiscality
 fricassees

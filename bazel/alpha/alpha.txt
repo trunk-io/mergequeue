@@ -1265,6 +1265,7 @@ asseverated
 autogravure
 amidst
 acanthodes
+acipenseroidei
 acanthodian
 acanthodidae
 acanthodini
@@ -2501,7 +2502,6 @@ aedes
 acipenseridae
 acipenserine
 acipenseroid
-acipenseroidei
 asmile
 acyrology
 acystia
