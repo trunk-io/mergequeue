@@ -4705,6 +4705,7 @@ bedewed
 bedewer
 bedews
 beltmaking
+bitemporal
 bedfellows
 buildable
 bedford
@@ -6781,7 +6782,6 @@ bemixes
 blachong
 berigora
 beryl
-bitemporal
 beryllate
 beryllonate
 beryllosis
