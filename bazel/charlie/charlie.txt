@@ -6470,6 +6470,7 @@ cavelet
 confiner
 cavelike
 caveman
+collocatory
 cavemen
 cavern
 cavernal
@@ -9974,7 +9975,6 @@ chemotactic
 chemotactically
 choochoo
 chemotaxy
-collocatory
 chemotaxonomy
 chemotaxonomic
 cannular
