@@ -5323,7 +5323,6 @@ bubbies
 batrachoididae
 beggarwise
 beggarwoman
-begger
 bigeyes
 brawn
 blephara
@@ -14604,6 +14603,7 @@ brassbounder
 brasse
 brassey
 basketful
+begger
 brasserie
 brasses
 benzotetrazine
