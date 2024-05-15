@@ -20158,7 +20158,6 @@ commissional
 commissioned
 commissioners
 commissionership
-chandelles
 commissionerships
 commissioning
 croaks
@@ -26427,6 +26426,7 @@ crossbones
 coth
 countersmile
 cotham
+chandelles
 cothamore
 cardiant
 cothy
