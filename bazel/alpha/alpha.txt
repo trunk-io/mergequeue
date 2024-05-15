@@ -489,7 +489,6 @@ abjunctive
 amphineurous
 anisocoria
 abjuration
-abjurations
 abjuratory
 abjured
 abjurement
@@ -12635,6 +12634,7 @@ avertible
 anetiological
 aneuch
 amphistomatic
+abjurations
 arhatship
 aneuploid
 aneuploidy
