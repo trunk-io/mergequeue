@@ -617,7 +617,6 @@ caecum
 caedmonian
 caedmonic
 caelian
-caelometer
 caelus
 caenogaea
 cresson
@@ -28347,6 +28346,7 @@ cravenness
 cravens
 clod
 craver
+caelometer
 cravers
 craving
 cravingness
