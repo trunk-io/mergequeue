@@ -7635,7 +7635,6 @@ cere
 cereal
 carrus
 changeability
-cerealian
 cerealism
 cerealist
 cerealose
@@ -15589,6 +15588,7 @@ cognomen
 censorate
 clarissimo
 clarist
+cerealian
 clarities
 coasts
 clark
