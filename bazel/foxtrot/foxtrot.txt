@@ -5628,7 +5628,6 @@ fellowshiped
 fianchetto
 flimsiness
 flinch
-flagleaf
 fatalness
 forecabin
 forthbringer
@@ -8067,6 +8066,7 @@ flisked
 forepost
 fright
 fessing
+flagleaf
 foresting
 foreknow
 flummeries
