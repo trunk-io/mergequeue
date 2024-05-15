@@ -690,7 +690,6 @@ bynames
 bacteriotropic
 bubonoceze
 blepharedema
-bacterious
 barbotte
 bacteriuria
 boigid
@@ -11810,6 +11809,7 @@ barriers
 bodhisattwa
 barfly
 bodybending
+bacterious
 bodybuilder
 bushfire
 bodybuilders
