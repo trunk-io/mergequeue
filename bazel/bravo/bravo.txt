@@ -5978,7 +5978,6 @@ bellrags
 bells
 belltail
 baresarks
-biomicroscopy
 belluine
 babylonish
 bellum
@@ -6570,6 +6569,7 @@ benzoxyacetic
 benzpinacone
 benztrioxazine
 biostratigraphy
+biomicroscopy
 beothuk
 beothukan
 beowulf
