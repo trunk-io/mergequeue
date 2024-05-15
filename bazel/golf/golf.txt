@@ -3456,7 +3456,6 @@ garten
 gorkun
 goosecap
 geronto
-gerontocracy
 gerontocracies
 gerontocrat
 gerontology
@@ -3739,6 +3738,7 @@ grille
 gracilescent
 ghostism
 germanyl
+gerontocracy
 gadgeteer
 ghostland
 grossify
