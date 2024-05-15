@@ -3659,7 +3659,6 @@ embryophyte
 embryophore
 embryoplastic
 embryos
-embryotega
 embryotegae
 eweries
 embryotome
@@ -3891,6 +3890,7 @@ epigastrical
 emmarvel
 engreen
 emmenagogic
+embryotega
 emmenic
 emmensite
 emmental

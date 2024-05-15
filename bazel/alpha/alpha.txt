@@ -5541,7 +5541,6 @@ afresca
 anomiidae
 alembics
 afresh
-acinous
 another
 afrete
 africa
@@ -12612,6 +12611,7 @@ anesthesiology
 anesthesiologies
 anesthesiologists
 anesthesis
+acinous
 acarology
 anesthetically
 anesthetics
