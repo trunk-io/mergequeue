@@ -4033,7 +4033,6 @@ beaconage
 berchta
 beaconless
 business
-bouldery
 beacons
 beaded
 beadeye
@@ -15404,6 +15403,7 @@ brine
 bleaters
 blacklegging
 brined
+bouldery
 brinehouse
 brineless
 brineman
