@@ -4753,6 +4753,7 @@ depas
 diploglossate
 demisemiquaver
 delineable
+duty
 demisemitone
 demisheath
 danknesses
@@ -18615,7 +18616,6 @@ dutchman
 dutchmen
 duteous
 duteousness
-duty
 dutiability
 dutiable
 dutied
