@@ -3340,7 +3340,6 @@ celsius
 conformity
 capote
 chondroganoidei
-capouches
 cappadine
 cappadochio
 cappadocian
@@ -6511,6 +6510,7 @@ cavillingly
 cavillous
 cavils
 cavin
+capouches
 crossley
 cyaathia
 cavina
