@@ -5586,7 +5586,6 @@ flagmaking
 fligged
 flight
 flighted
-flighter
 fishful
 flightful
 flighty
@@ -5948,6 +5947,7 @@ floodlight
 foilsmen
 francis
 fearlessly
+flighter
 favonius
 floodlike
 floodlilit
