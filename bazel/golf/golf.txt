@@ -3043,7 +3043,6 @@ gumihan
 gurkha
 geoduck
 grebes
-gollop
 geoffroyin
 geomance
 geoform
@@ -8043,6 +8042,7 @@ gonagra
 granulate
 granulater
 galactic
+gollop
 granulates
 granulation
 gnawing
