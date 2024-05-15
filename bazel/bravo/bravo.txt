@@ -3832,7 +3832,6 @@ beached
 bacterian
 battutos
 blastomeric
-batwing
 beswitch
 batwoman
 batwomen
@@ -8528,6 +8527,7 @@ bikeway
 bikie
 biking
 bedaze
+batwing
 boatwoman
 bikinied
 bikinis
