@@ -8631,7 +8631,6 @@ billfold
 byliner
 bylines
 brave
-bilingual
 bilinguality
 barkle
 bilingually
@@ -12585,6 +12584,7 @@ balcon
 bonorum
 bisector
 bons
+bilingual
 bagatelle
 bills
 bonsela
