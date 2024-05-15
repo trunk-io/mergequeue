@@ -1581,7 +1581,6 @@ deadnesses
 dustproof
 didache
 deservingly
-deadpay
 deadpan
 disintegration
 deadpanned
@@ -12520,6 +12519,7 @@ dar
 discernibly
 disinfestation
 dualities
+deadpay
 disinflate
 dortour
 disinflationary
