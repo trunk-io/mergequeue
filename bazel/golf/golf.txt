@@ -2829,7 +2829,6 @@ gliadins
 guillotine
 gaedelian
 grooms
-genoese
 genoise
 genomic
 genoms
@@ -3270,6 +3269,7 @@ groaningly
 graftage
 geraniums
 getatability
+genoese
 grimp
 groats
 geranomorph
