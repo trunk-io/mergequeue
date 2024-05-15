@@ -4692,7 +4692,6 @@ carpals
 chela
 carpathian
 carpe
-carped
 carpellary
 cytinaceous
 coattended
@@ -27628,6 +27627,7 @@ cowbane
 collided
 convive
 cyclopaedic
+carped
 cowbanes
 cariosity
 corticosteroid
