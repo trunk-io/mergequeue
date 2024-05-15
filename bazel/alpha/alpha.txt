@@ -5325,6 +5325,7 @@ affies
 affying
 artel
 arvicolous
+arcanum
 affile
 affiliable
 addio
@@ -18685,7 +18686,6 @@ arcane
 aromatization
 arcanite
 anvilled
-arcanum
 arcato
 arcature
 arcatures
