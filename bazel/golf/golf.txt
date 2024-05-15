@@ -5819,7 +5819,6 @@ galvanomagnet
 glossitic
 glossitis
 garbleable
-glossless
 glossocele
 graian
 glossocomium
@@ -9448,6 +9447,7 @@ groundskeeping
 gasped
 generating
 graphotypic
+glossless
 gallygaskins
 genteelness
 groundswell
