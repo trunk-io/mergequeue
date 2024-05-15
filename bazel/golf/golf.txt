@@ -7134,6 +7134,7 @@ gorebill
 gearboxes
 gored
 gores
+grisoutine
 gorfly
 gastrotaxis
 ganancial
@@ -9159,7 +9160,6 @@ gyrational
 gametogeny
 gospeler
 grisons
-grisoutine
 grisset
 gariba
 grist
