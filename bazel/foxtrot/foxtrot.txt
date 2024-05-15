@@ -297,7 +297,6 @@ fomes
 froren
 flusterated
 forethinker
-faenus
 foreboder
 fumade
 familistic
@@ -4217,6 +4216,7 @@ fleeceable
 fatting
 fireplug
 frieze
+faenus
 fireplugs
 firepot
 fireroom
