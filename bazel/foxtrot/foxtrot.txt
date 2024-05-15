@@ -1075,7 +1075,6 @@ farkleberries
 farley
 flyleaf
 farles
-frowzier
 farls
 fetal
 farmed
@@ -1363,6 +1362,7 @@ fatbacks
 fructivorous
 fatbird
 fated
+frowzier
 fatefully
 fibromata
 fatelike
