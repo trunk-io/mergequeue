@@ -3704,7 +3704,6 @@ forestarling
 forcene
 fortified
 franchisal
-fairstead
 foreleech
 fledges
 fermental
@@ -6691,6 +6690,7 @@ fillip
 foehn
 foehnlike
 foehns
+fairstead
 foeish
 fpsps
 foeless
