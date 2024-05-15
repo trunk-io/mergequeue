@@ -2632,7 +2632,6 @@ aratory
 aconitums
 aposiopeses
 acontia
-acontium
 ambidexter
 aconuresis
 acool
@@ -22525,6 +22524,7 @@ acater
 athabascan
 athalline
 athamantid
+acontium
 athamaunte
 akinesia
 athanasia
