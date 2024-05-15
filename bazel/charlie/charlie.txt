@@ -3054,7 +3054,6 @@ caoutchin
 caoutchoucin
 cap
 capa
-capability
 charks
 capable
 capableness
@@ -3843,6 +3842,7 @@ carbonic
 carbonide
 convalescent
 collatress
+capability
 carbonify
 carbonification
 carbonyl
