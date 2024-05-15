@@ -6857,7 +6857,6 @@ greekless
 galanga
 gonochorismal
 geryonia
-gastroparietal
 gymnothorax
 gamelote
 gonococci
@@ -8723,6 +8722,7 @@ guarantying
 greenstick
 greenstone
 gauntree
+gastroparietal
 guran
 greensward
 greenswarded
