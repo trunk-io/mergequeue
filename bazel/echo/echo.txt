@@ -43,7 +43,6 @@ emigrational
 earbash
 earbob
 esperance
-earclip
 earcockle
 eardropper
 earflap
@@ -7143,6 +7142,7 @@ envolume
 enwall
 enwallow
 enweb
+earclip
 enwheel
 enwheeling
 eposes
