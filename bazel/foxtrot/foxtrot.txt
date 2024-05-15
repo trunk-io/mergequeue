@@ -2146,7 +2146,6 @@ fireshine
 finetop
 fellable
 fanned
-fellah
 falcate
 fessely
 fellahs
@@ -6683,6 +6682,7 @@ fodder
 fodderer
 foder
 foederati
+fellah
 frontes
 flunkeyhood
 fillip
