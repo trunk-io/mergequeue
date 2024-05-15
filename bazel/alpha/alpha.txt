@@ -5715,7 +5715,6 @@ antethem
 autotherapeutic
 archtempter
 afterswarming
-aftertask
 aftertaste
 aftertastes
 ancestress
@@ -11207,6 +11206,7 @@ ares
 amphimorula
 amphimorulae
 amphinesian
+aftertask
 amphion
 amphioxi
 amphioxidae
