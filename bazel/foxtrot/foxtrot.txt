@@ -5294,6 +5294,7 @@ fetchers
 flea
 fleabag
 fusible
+foresting
 fleabags
 fissidactyl
 fluorites
@@ -8077,7 +8078,6 @@ flisked
 forepost
 fright
 fessing
-foresting
 foreknow
 flummeries
 fulvid
