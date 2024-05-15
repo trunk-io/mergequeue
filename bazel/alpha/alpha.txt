@@ -878,7 +878,6 @@ adjiger
 absconded
 apperceptive
 abscondedly
-abscondence
 absconder
 archegoniate
 absconding
@@ -4139,6 +4138,7 @@ administers
 administrable
 administrant
 administrates
+abscondence
 administrating
 antihemolytic
 alabastrons
