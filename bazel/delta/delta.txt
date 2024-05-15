@@ -7715,7 +7715,6 @@ deviations
 durian
 darken
 deviative
-deviatory
 deviators
 deviceful
 devicefully
@@ -11074,6 +11073,7 @@ drakonite
 disapprovals
 disapprover
 disapproves
+deviatory
 disapprovingly
 disillusioned
 demonetisation
