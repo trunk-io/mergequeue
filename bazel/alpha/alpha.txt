@@ -3764,7 +3764,6 @@ adenous
 adenoviral
 adenoviruses
 adeona
-adephaga
 adephagous
 annihilates
 adepter
@@ -4481,6 +4480,7 @@ adularescence
 assertorial
 ankylomerism
 anilidoxime
+adephaga
 adularias
 athetesis
 adulate
