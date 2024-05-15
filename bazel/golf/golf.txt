@@ -7839,7 +7839,6 @@ gutter
 glutinously
 geologise
 granate
-granatum
 gallophobe
 grandad
 gainbirth
@@ -8978,6 +8977,7 @@ grilled
 grogging
 grillee
 geothermometer
+granatum
 gorhens
 grounder
 givin
