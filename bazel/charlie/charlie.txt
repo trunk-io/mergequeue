@@ -6793,7 +6793,6 @@ caninal
 churchiness
 celiocolpotomy
 celioelytrotomy
-celioenterotomy
 chary
 celiolymph
 celiomyalgia
@@ -26945,6 +26944,7 @@ counterlaw
 choppily
 counterlegislation
 counterly
+celioenterotomy
 creeshie
 counterlight
 conquistador
