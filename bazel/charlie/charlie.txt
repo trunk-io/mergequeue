@@ -13067,7 +13067,6 @@ currencies
 cyanoacrylate
 cyanoaurate
 characeous
-cyanoauric
 cyanobenzene
 cyanocarbonic
 cyanochlorous
@@ -28957,6 +28956,7 @@ chandrakanta
 cricoarytenoid
 clamp
 corroborated
+cyanoauric
 cricoid
 cricoids
 cricopharyngeal
