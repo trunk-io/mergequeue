@@ -5397,6 +5397,7 @@ denticular
 denticulate
 dustfall
 dentiferous
+dicrotic
 dentification
 dentifrice
 dentifrices
@@ -13225,7 +13226,6 @@ disposer
 disposers
 dislocator
 disposing
-dicrotic
 dispositional
 dispositioned
 dispositions

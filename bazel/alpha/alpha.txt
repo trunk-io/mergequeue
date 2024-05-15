@@ -18703,7 +18703,6 @@ arch
 archabomination
 antiarrhythmic
 acutish
-archae
 archaeoceti
 archaeocyathidae
 argillocalcite
@@ -23184,6 +23183,7 @@ attractivity
 adipogenous
 attractor
 attracts
+archae
 attrahent
 apneumatic
 alcids
