@@ -6091,6 +6091,7 @@ coll
 catso
 catsos
 catspaw
+circumspection
 catspaws
 catstane
 catstep
@@ -10673,7 +10674,6 @@ chylopericardium
 chylophylly
 chylophyllous
 chylophyllously
-circumspection
 chilopodous
 chilopods
 chylopoetic
