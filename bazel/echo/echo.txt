@@ -10118,7 +10118,6 @@ etalage
 etamin
 ever
 etyma
-etamins
 etang
 etape
 escopette
@@ -10937,6 +10936,7 @@ epicauta
 eructation
 ereption
 euphemian
+etamins
 enlivenments
 emborders
 ejectable
