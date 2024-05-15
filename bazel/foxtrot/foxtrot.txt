@@ -7156,7 +7156,6 @@ flatdom
 football
 famelessness
 footballist
-footballs
 frakturs
 footblower
 footboard
@@ -8611,6 +8610,7 @@ frivolizing
 forride
 forril
 forrit
+footballs
 foxish
 forescript
 forsay
