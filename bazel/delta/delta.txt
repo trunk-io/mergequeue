@@ -14714,7 +14714,6 @@ dock
 dockage
 drawglove
 dilatancy
-docked
 demonetized
 discutable
 docker
@@ -17836,6 +17835,7 @@ diluents
 ducted
 devilized
 duels
+docked
 ductibility
 ductible
 ductilely
