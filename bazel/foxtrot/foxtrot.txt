@@ -4176,7 +4176,6 @@ feuage
 farness
 feezing
 fetus
-firedamps
 firedrake
 frayn
 foreprise
@@ -9925,6 +9924,7 @@ frettation
 fiducial
 frette
 fretten
+firedamps
 fretters
 flowoff
 flagellums
