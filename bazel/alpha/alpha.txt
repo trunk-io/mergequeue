@@ -14122,7 +14122,6 @@ antecedency
 antecedent
 antecedental
 antecedently
-antecedes
 anteceding
 antispermotoxin
 antecessor
@@ -16539,6 +16538,7 @@ anural
 acrasiaceae
 abogado
 anuran
+antecedes
 anurans
 anuresis
 anuretic
