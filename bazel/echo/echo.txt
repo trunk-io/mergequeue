@@ -5136,7 +5136,6 @@ empt
 ephesians
 evene
 endometrial
-endometriosis
 endomitosis
 endomorph
 endomorphy
@@ -13152,6 +13151,7 @@ expiries
 expiring
 expiringly
 expiscated
+endometriosis
 empressement
 expiscating
 executancy
