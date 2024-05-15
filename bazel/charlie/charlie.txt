@@ -4303,7 +4303,6 @@ carfares
 carfax
 carfloat
 coater
-carfour
 carfuffle
 carfuffling
 carful
@@ -23170,6 +23169,7 @@ constitutionless
 constitutions
 constitutive
 constitutively
+carfour
 constitutiveness
 constitutor
 cassiri
