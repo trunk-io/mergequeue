@@ -686,7 +686,6 @@ ecodeme
 ecol
 ecole
 eidolism
-espousal
 ecology
 espavel
 ecological
@@ -6433,6 +6432,7 @@ expansion
 ensphere
 ensphering
 enspirit
+espousal
 enstar
 espanoles
 ensteel
