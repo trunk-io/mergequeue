@@ -4453,7 +4453,6 @@ fissility
 focaloid
 fissionable
 fissioned
-frays
 fissions
 fregit
 fissipalmation
@@ -6239,6 +6238,7 @@ frugalist
 flutes
 formicaria
 fluctuational
+frays
 factioneer
 farmage
 fourb
