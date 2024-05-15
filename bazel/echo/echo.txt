@@ -3171,7 +3171,6 @@ enambush
 extraschool
 eluctate
 elucubrate
-elucubration
 evangelized
 elude
 eludes
@@ -5383,6 +5382,7 @@ ensnarled
 endurer
 eclaircise
 enki
+elucubration
 emolliate
 enduringly
 enduros
