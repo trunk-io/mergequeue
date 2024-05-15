@@ -2981,7 +2981,6 @@ carvel
 cantonal
 cantonalism
 cantoned
-cantoner
 cellocut
 cheapo
 cantoning
@@ -18899,6 +18898,7 @@ collaborator
 collaborators
 collada
 calligrapher
+cantoner
 colladas
 collage
 collagen
