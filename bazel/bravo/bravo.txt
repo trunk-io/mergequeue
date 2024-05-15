@@ -1109,7 +1109,6 @@ bayonets
 bayonetted
 benefactors
 bayong
-bayous
 babongo
 brigadiership
 bairagi
@@ -3628,6 +3627,7 @@ bathonian
 blockmaking
 bathool
 bathophobia
+bayous
 bathos
 bathrobe
 bathrobes
