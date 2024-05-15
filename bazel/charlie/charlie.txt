@@ -3973,7 +3973,6 @@ cameleers
 cosmosphere
 carceral
 carcerate
-coassisted
 carcerating
 carceration
 crotalinae
@@ -13225,6 +13224,7 @@ cycasins
 cicatrice
 colocolo
 cicatrices
+coassisted
 cytozoa
 cicatricle
 copastorate
