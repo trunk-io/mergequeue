@@ -6148,7 +6148,6 @@ butcherless
 bemoaning
 bonuses
 bemoat
-bilabial
 bemock
 breads
 bemocking
@@ -9737,6 +9736,7 @@ bulleting
 bisimine
 brandyman
 bushily
+bilabial
 bisymmetric
 billback
 bisymmetrical
