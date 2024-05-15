@@ -7746,7 +7746,6 @@ finnack
 forbathe
 format
 fulls
-frequencies
 flavedos
 foreigneering
 fibrinous
@@ -10243,6 +10242,7 @@ fluency
 frivolling
 frontad
 fusobteria
+frequencies
 frivolous
 frivolousness
 flockmaster
