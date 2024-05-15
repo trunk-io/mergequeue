@@ -1934,7 +1934,6 @@ bandora
 bandore
 bronchium
 bandos
-bandpass
 bandrol
 bonniest
 bandsaw
@@ -4765,6 +4764,7 @@ bedizenment
 bedizens
 bedkey
 bourses
+bandpass
 booked
 braze
 bedlamise
