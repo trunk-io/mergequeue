@@ -3827,7 +3827,6 @@ emf
 emforth
 emic
 eudendrium
-emication
 emyde
 ecumenicity
 eysoge
@@ -13856,6 +13855,7 @@ extracurriculum
 extracutaneous
 electropoion
 extradicted
+emication
 ethnics
 extradited
 extradomestic
