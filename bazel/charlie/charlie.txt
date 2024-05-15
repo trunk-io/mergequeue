@@ -8873,7 +8873,6 @@ chapelling
 commonplaces
 chapelman
 chapelmaster
-chapelry
 chapelries
 chapels
 chapelward
@@ -22096,6 +22095,7 @@ cashierer
 conformably
 conformal
 complexed
+chapelry
 catabolic
 conformant
 cataclasmic
