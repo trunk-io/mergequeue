@@ -3618,6 +3618,7 @@ defunctionalize
 defuses
 defusion
 dorsocaudal
+discontinuity
 dingles
 defuze
 dolman
@@ -12059,7 +12060,6 @@ dissipativity
 disensanity
 dunderheaded
 disenslave
-discontinuity
 disensoul
 disensure
 disentail
