@@ -2318,7 +2318,6 @@ erythrophore
 episteme
 electrocoating
 electrocolloidal
-exhaustable
 esclandre
 electroconvulsive
 earthless
@@ -5219,6 +5218,7 @@ elbowchair
 endorsable
 entopterygoid
 endorsation
+exhaustable
 eversible
 excretolic
 endorsed
