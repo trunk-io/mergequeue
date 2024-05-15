@@ -311,7 +311,6 @@ debilities
 depolarized
 dayak
 dayanim
-directories
 daybeacon
 dipylon
 daybed
@@ -6215,6 +6214,7 @@ deriders
 dittograph
 disembargoed
 deriding
+directories
 deringa
 derisible
 derisively
