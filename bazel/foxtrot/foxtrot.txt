@@ -714,6 +714,7 @@ famine
 famished
 faming
 freewill
+flexo
 fuliguline
 fired
 famishing
@@ -10151,7 +10152,6 @@ flagitate
 filicornia
 fireblende
 fripperer
-flexo
 frippery
 forefended
 forecasted
