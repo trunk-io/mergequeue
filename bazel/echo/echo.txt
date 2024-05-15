@@ -749,7 +749,6 @@ ecoute
 ecphorable
 ecphore
 ecphoria
-emotes
 ecphractic
 ecphrasis
 emergences
@@ -7651,6 +7650,7 @@ epicrises
 enlistees
 epicrisis
 engagingly
+emotes
 ensnarling
 examplar
 epicure
