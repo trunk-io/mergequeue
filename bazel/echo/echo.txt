@@ -905,7 +905,6 @@ entocondyloid
 epicenter
 ectotoxin
 ectotrophi
-ectotrophic
 exencephalia
 esthetic
 ectozoa
@@ -13454,6 +13453,7 @@ exradius
 eyeservice
 exrupeal
 embaying
+ectotrophic
 exrx
 evenforth
 exsanguinate
