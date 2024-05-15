@@ -5016,6 +5016,7 @@ demoralize
 defecter
 demoralized
 demoralizers
+dsname
 duranta
 demoralizes
 demoralizing
@@ -17669,7 +17670,6 @@ druze
 dschubba
 dsects
 desmodium
-dsname
 dsnames
 dsri
 discriminative
