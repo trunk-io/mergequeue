@@ -4590,7 +4590,6 @@ carnivore
 carnivorism
 carnivority
 crithmene
-cordialness
 carnivorous
 carnivorously
 carnivorousness
@@ -19535,6 +19534,7 @@ colstaff
 cnidogenous
 colter
 colters
+cordialness
 choirboy
 colthood
 coltishly
