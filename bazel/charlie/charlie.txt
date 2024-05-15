@@ -11345,6 +11345,7 @@ chlorize
 chesterbed
 chlormethane
 chlornal
+cubiculum
 chloro
 chloroacetone
 chloroacetophenone
@@ -30489,7 +30490,6 @@ cubicula
 costly
 cubicular
 cubiculo
-cubiculum
 cubing
 cytogamy
 cubisms
