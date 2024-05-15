@@ -19175,7 +19175,6 @@ collomia
 cattan
 collop
 colloped
-collophane
 collophanite
 colloq
 colloquia
@@ -22594,6 +22593,7 @@ connected
 connectedly
 cowyard
 connecter
+collophane
 connecters
 creepmousy
 chiaroscurist
