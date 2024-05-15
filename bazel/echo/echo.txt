@@ -899,7 +899,6 @@ excantation
 ectosphere
 ectostosis
 emulgens
-expelled
 eriodictyon
 entocondyloid
 epicenter
@@ -4543,6 +4542,7 @@ euthycomic
 excitement
 exhalent
 elimination
+expelled
 enlightened
 echidnidae
 epidemiologies
