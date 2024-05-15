@@ -7182,7 +7182,6 @@ centones
 centonical
 centonism
 centonization
-centos
 centra
 centrad
 central
@@ -13055,6 +13054,7 @@ cirrhopetalum
 clamation
 conspirer
 cyanmethemoglobin
+centos
 cyano
 cyanoacetate
 cystogenous
