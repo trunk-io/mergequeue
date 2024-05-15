@@ -5593,6 +5593,7 @@ catalogues
 constabulary
 cataloguing
 cataloguish
+collinearly
 cataloguist
 cataloguize
 catalonian
@@ -16214,7 +16215,6 @@ chromosantonin
 climbing
 climbingfish
 climbingfishes
-collinearly
 chedites
 chechen
 creepages
