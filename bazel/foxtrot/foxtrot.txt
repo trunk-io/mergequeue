@@ -1784,7 +1784,6 @@ foetor
 frustule
 featherbedded
 fistulana
-featherbird
 foreshore
 floorman
 fraught
@@ -3683,6 +3682,7 @@ ferruginean
 fewter
 filigreeing
 filigrees
+featherbird
 filtrated
 filigreing
 fruiter
