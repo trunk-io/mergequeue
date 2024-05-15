@@ -10440,7 +10440,6 @@ chiefish
 countermarch
 chiefless
 cytisus
-chiefling
 chiefs
 chieftain
 chieftaincy
@@ -29543,6 +29542,7 @@ criticalness
 criticaster
 criticasterism
 criticastry
+chiefling
 criticise
 criticiser
 criticising
