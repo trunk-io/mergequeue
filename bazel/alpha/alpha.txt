@@ -9675,6 +9675,7 @@ alvah
 arabize
 autoaddress
 alvan
+analyzability
 alvar
 alveary
 alvearies
@@ -11797,7 +11798,6 @@ analyticity
 amnestic
 antinational
 analytique
-analyzability
 analyzable
 analyzation
 arcuately
