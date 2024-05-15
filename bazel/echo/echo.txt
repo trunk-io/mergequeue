@@ -3968,6 +3968,7 @@ empall
 empanada
 euphoniousness
 exhilaratory
+eucyclic
 empanel
 expoundable
 empaneled
@@ -14114,7 +14115,6 @@ equivorous
 extroversive
 epitheton
 extrovert
-eucyclic
 extrovertish
 extrovertive
 ebonizing
