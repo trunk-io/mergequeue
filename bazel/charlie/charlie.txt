@@ -23880,7 +23880,6 @@ cookmaid
 choruser
 contrivers
 contrives
-control
 controling
 controllable
 controllably
@@ -25231,6 +25230,7 @@ corimelaenidae
 corindon
 corynebacteria
 corynebacterial
+control
 coreless
 corynebacterium
 coryneform
