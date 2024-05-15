@@ -3008,6 +3008,7 @@ cantraip
 cantraips
 cantraps
 cantred
+cribrately
 cantrip
 cantrips
 coveting
@@ -28932,7 +28933,6 @@ cribellum
 crible
 cribose
 cribrate
-cribrately
 cribriform
 cribriformity
 categorem
