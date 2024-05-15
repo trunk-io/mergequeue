@@ -386,7 +386,6 @@ backhouses
 balayeuse
 backy
 baseballdom
-backyard
 bindlet
 boron
 bullocky
@@ -4776,6 +4775,7 @@ bedlamite
 bedlamitish
 bedub
 bovid
+backyard
 bedlamize
 bloomeria
 bedlamized
