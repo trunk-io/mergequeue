@@ -7099,6 +7099,7 @@ caribes
 caisson
 chisedec
 codeia
+cubelet
 chromene
 center
 centerable
@@ -30468,7 +30469,6 @@ cubbyu
 cameoed
 cubdom
 cubebs
-cubelet
 ceder
 cubelium
 carsten
