@@ -11763,7 +11763,6 @@ analemmas
 analemmata
 analepses
 analepsis
-analeptic
 anthidium
 analgesia
 analgesics
@@ -19007,6 +19006,7 @@ arctogaeal
 archimime
 archimorula
 archimperialism
+analeptic
 actinomycetales
 archimperialist
 archimperialistic
