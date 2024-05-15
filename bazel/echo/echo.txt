@@ -850,7 +850,6 @@ encroached
 ectognatha
 entailed
 ectomorph
-ectomorphic
 ectonephridium
 ectoparasite
 ectoparasitica
@@ -6879,6 +6878,7 @@ enfeoffed
 estruses
 exsolved
 electroscopes
+ectomorphic
 eightsmen
 entomosporium
 endangered
