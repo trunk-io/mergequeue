@@ -4764,6 +4764,7 @@ groszy
 gasconade
 gra
 galliards
+gamori
 gironde
 girondin
 glyoxime
@@ -5606,7 +5607,6 @@ globalize
 gaugeably
 globalizing
 gasteria
-gamori
 globally
 greasepaint
 gelsemium
