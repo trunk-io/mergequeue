@@ -8354,7 +8354,6 @@ forksful
 forksmith
 ferromagneticism
 fruiterer
-faceup
 fantail
 forlay
 forlain
@@ -8601,6 +8600,7 @@ fetcher
 forrel
 fenceress
 frivolizing
+faceup
 forride
 forril
 forrit
