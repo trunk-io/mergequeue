@@ -2263,7 +2263,6 @@ felucca
 felwort
 femaleness
 females
-friseur
 femality
 frigate
 femcee
@@ -3047,6 +3046,7 @@ fez
 fiats
 facelifts
 fazed
+friseur
 fezzed
 fezzes
 fezzy
