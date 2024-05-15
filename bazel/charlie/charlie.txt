@@ -5763,7 +5763,6 @@ catechisation
 catechise
 catechised
 chumming
-catechising
 calipered
 catechism
 catechismal
@@ -29441,6 +29440,7 @@ crystalize
 cantharis
 crystalled
 cortine
+catechising
 capitular
 crystalliform
 crystalligerous
