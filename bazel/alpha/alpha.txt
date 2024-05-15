@@ -1409,7 +1409,6 @@ accentors
 accents
 anoxyscope
 auxillary
-accentual
 accentually
 actinotherapeutic
 accentuated
@@ -2397,6 +2396,7 @@ acidnesses
 astacus
 ambuscados
 acidogenic
+accentual
 administrants
 acidoid
 acidolysis
