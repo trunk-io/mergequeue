@@ -13255,7 +13255,6 @@ exploiture
 explorable
 exploratively
 enragedly
-exfiltration
 explorement
 enzyme
 eyres
@@ -13576,6 +13575,7 @@ extending
 endoblastic
 ethnomusicologically
 extends
+exfiltration
 extensibility
 extensionality
 eclectism
