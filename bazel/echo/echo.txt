@@ -2777,7 +2777,6 @@ ectocornea
 elenge
 encl
 emitter
-electrometallurgical
 eleoblast
 eleolite
 eleomargaric
@@ -7095,6 +7094,7 @@ envelops
 envenom
 envenoming
 encarnalise
+electrometallurgical
 envenomous
 enventual
 enverdure
