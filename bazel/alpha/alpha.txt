@@ -11669,7 +11669,6 @@ anaesthesis
 anaesthetic
 appearanced
 anaesthetically
-arrange
 anthropomantic
 ade
 anaesthetics
@@ -21065,6 +21064,7 @@ ascolichen
 archwise
 ascolichenes
 ascomycete
+arrange
 ascomycetous
 ascon
 ascones
