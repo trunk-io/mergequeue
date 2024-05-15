@@ -7516,7 +7516,6 @@ ceramicist
 ceramicite
 ceramics
 cledge
-ceramidium
 ceramists
 ceramium
 ceramographic
@@ -11491,6 +11490,7 @@ choanoflagellidae
 choanoid
 choanophorous
 cataplasm
+ceramidium
 choanosomal
 choanosome
 choate
