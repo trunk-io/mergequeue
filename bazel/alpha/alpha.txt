@@ -16567,7 +16567,6 @@ anorchus
 anviled
 anvilling
 arthroclisis
-antiman
 anvils
 adrenal
 anvilsmith
@@ -25160,6 +25159,7 @@ axisymmetry
 axisymmetrical
 axite
 axites
+antiman
 assault
 axle
 axled
