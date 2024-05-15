@@ -4918,7 +4918,6 @@ demonetise
 demonetize
 disappearances
 distitle
-demonetizes
 dilleniad
 demonetizing
 dentiscalp
@@ -5545,6 +5544,7 @@ deorsum
 deorsumvergence
 deorsumversion
 deossify
+demonetizes
 deossification
 dramatizing
 deota
