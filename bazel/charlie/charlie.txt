@@ -12626,6 +12626,7 @@ chronicon
 chronics
 chronique
 chronisotherm
+coopts
 chronist
 chronocarator
 chronocyclegraph
@@ -24448,7 +24449,6 @@ cooptation
 coopted
 coopting
 cooptions
-coopts
 coordinal
 coordinated
 cozinesses
