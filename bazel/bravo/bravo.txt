@@ -2045,6 +2045,7 @@ basti
 bankcard
 becrawl
 bankcards
+belite
 banked
 bethought
 bankerdom
@@ -13451,7 +13452,6 @@ botulinus
 botulinuses
 beddable
 botulism
-belite
 brosimum
 botulisms
 brief
