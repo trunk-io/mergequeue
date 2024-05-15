@@ -3871,7 +3871,6 @@ baun
 baure
 bausond
 bautta
-bauxite
 blistery
 bauxites
 balsas
@@ -18063,6 +18062,7 @@ busmen
 buss
 beaux
 benda
+bauxite
 busses
 bussy
 bussing
