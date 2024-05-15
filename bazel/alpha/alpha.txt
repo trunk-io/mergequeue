@@ -11011,7 +11011,6 @@ amounted
 amounter
 amounters
 acct
-amouret
 amourist
 allocaffeine
 amovable
@@ -12867,6 +12866,7 @@ angle
 angled
 affrightingly
 asps
+amouret
 angledog
 argenol
 anglehook
