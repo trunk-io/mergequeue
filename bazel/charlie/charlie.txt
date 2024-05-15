@@ -7232,6 +7232,7 @@ centreboard
 centred
 centref
 centreless
+cultirostres
 centrepiece
 canephoroe
 centrer
@@ -30838,7 +30839,6 @@ culti
 cultic
 cultigen
 cultigens
-cultirostres
 cultish
 cretonnes
 carboyed
