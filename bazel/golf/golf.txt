@@ -193,6 +193,7 @@ glyptology
 gyro
 glede
 gager
+granum
 gagership
 gather
 granadine
@@ -4150,7 +4151,6 @@ gasterosteoid
 gim
 gimbal
 groundsheet
-granum
 groining
 guildry
 grifted
