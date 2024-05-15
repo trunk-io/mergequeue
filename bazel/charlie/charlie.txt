@@ -3288,7 +3288,6 @@ capman
 capnodium
 capnoides
 colonizes
-capnomancy
 capnomor
 connivant
 celli
@@ -22542,6 +22541,7 @@ conjunctive
 conjunctively
 conjunctives
 chersonese
+capnomancy
 conjunctivitis
 chimbleys
 conjuncts
