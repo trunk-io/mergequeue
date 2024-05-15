@@ -6593,7 +6593,6 @@ enseam
 expulsatory
 enterococcus
 enterocoela
-enterocoelous
 easterliness
 enterocolitis
 enterocolostomy
@@ -12874,6 +12873,7 @@ embusque
 expalpate
 expandable
 expanded
+enterocoelous
 escropulo
 exsert
 expandedly

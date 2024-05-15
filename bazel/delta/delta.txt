@@ -2031,7 +2031,6 @@ dourness
 decagrams
 decahedra
 decahedral
-decahedron
 defoamers
 degamis
 dentatocrenate
@@ -17615,6 +17614,7 @@ drumreads
 demential
 dermatrophy
 drumroll
+decahedron
 drumrolls
 drums
 drumslade
