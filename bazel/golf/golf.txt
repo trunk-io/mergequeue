@@ -6292,6 +6292,7 @@ goanna
 gamboler
 ganglionless
 goar
+grieko
 grivois
 gahrwali
 graip
@@ -8881,7 +8882,6 @@ gras
 gator
 glimmery
 gilgamesh
-grieko
 gecked
 gridded
 gyration
