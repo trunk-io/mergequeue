@@ -3626,7 +3626,6 @@ granulomatous
 gastronomy
 gharnao
 goniaster
-gnomonic
 gregarinaria
 gavial
 glutinose
@@ -9152,6 +9151,7 @@ grisled
 grisly
 glyceryls
 gebur
+gnomonic
 gooserumped
 grisliness
 grison
