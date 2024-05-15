@@ -5051,7 +5051,6 @@ aerolitics
 aerological
 aerologies
 aerologist
-aerologists
 aeromancer
 aeromechanic
 aeromechanics
@@ -20981,6 +20980,7 @@ ascertainer
 ascertaining
 ascertains
 ascescency
+aerologists
 ascescent
 asceses
 almshouse
