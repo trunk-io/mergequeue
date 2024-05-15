@@ -9371,7 +9371,6 @@ chatti
 chattier
 chatties
 chattiest
-chattiness
 chattingly
 chaucerian
 chauceriana
@@ -28276,6 +28275,7 @@ crashproof
 crashworthiness
 craspedal
 craspedodromous
+chattiness
 craves
 craspedota
 craspedotal
