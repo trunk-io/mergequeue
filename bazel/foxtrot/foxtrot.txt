@@ -8697,7 +8697,6 @@ flamelike
 furcellaria
 fornent
 frightsome
-feeding
 fortier
 fortieth
 fortieths
@@ -10928,6 +10927,7 @@ fullered
 fullery
 fulleries
 flo
+feeding
 fictile
 fannon
 fullhearted
