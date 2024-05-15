@@ -9774,7 +9774,6 @@ condemnably
 cheyneys
 cheir
 cheiragra
-cimex
 chromotype
 cheiranthus
 cheirogaleus
@@ -14435,6 +14434,7 @@ circumorbital
 circumpacific
 circumpallial
 circumparallelogram
+cimex
 circumpentagon
 convexed
 circumplanetary
