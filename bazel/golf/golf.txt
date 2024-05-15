@@ -4033,6 +4033,7 @@ goldurn
 ginnle
 grades
 gravidate
+gloves
 gnide
 grocery
 governance
@@ -5914,7 +5915,6 @@ glovemaker
 gametes
 gloveman
 glover
-gloves
 glochines
 gnarlier
 glowbard
