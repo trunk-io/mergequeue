@@ -380,6 +380,7 @@ feldspathose
 faintly
 ferrymen
 fearer
+filtrated
 filicauline
 filator
 faintness
@@ -3685,7 +3686,6 @@ freeboots
 fewter
 filigreeing
 filigrees
-filtrated
 filigreing
 fruiter
 filings

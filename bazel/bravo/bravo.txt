@@ -1591,7 +1591,6 @@ ballista
 boilermaker
 ballistae
 bijous
-ballistician
 brachioganoidei
 ballistocardiogram
 ballistocardiograph
@@ -16951,6 +16950,7 @@ building
 birdnester
 buildings
 bitterwort
+ballistician
 betimes
 backseats
 builds
