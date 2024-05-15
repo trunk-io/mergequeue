@@ -6778,7 +6778,6 @@ gristhorbia
 gobbets
 googols
 gonidiophore
-gonimium
 gyrostats
 gaudsman
 goninidia
@@ -10564,6 +10563,7 @@ gunong
 girasols
 gerbille
 greenockite
+gonimium
 gratify
 gunpoint
 goy
