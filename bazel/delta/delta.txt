@@ -3604,6 +3604,7 @@ deftness
 deftnesses
 defunct
 decenniums
+diacidic
 defunction
 dollface
 defunctionalization
@@ -10415,7 +10416,6 @@ diphasic
 dibase
 diphenan
 diphenhydramine
-diacidic
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
