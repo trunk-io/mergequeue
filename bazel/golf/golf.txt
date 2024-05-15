@@ -3465,7 +3465,6 @@ garten
 gorkun
 goosecap
 geronto
-gerontocracy
 gerontocracies
 gerontocrat
 gerontology
@@ -8933,6 +8932,7 @@ grievous
 gearbox
 ginnel
 griff
+gerontocracy
 gigant
 gabrielrache
 griffade
