@@ -248,6 +248,7 @@ dump
 dagga
 daggly
 daggar
+denumberment
 dagger
 daggerboard
 dyssynergia
@@ -15997,7 +15998,6 @@ douane
 doub
 decrepitude
 double
-denumberment
 demos
 doubleganger
 denned
