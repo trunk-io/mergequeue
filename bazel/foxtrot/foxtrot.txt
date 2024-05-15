@@ -1489,7 +1489,6 @@ funis
 fattishness
 fattrels
 fother
-foreweep
 freewheel
 fluoroscopic
 fatuism
@@ -10341,6 +10340,7 @@ function
 fruticant
 fleshly
 forepart
+foreweep
 ferngrower
 fingian
 frogs
