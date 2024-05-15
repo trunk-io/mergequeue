@@ -2615,7 +2615,6 @@ barkcutter
 benzalhydrazine
 balsameaceous
 barkeeper
-barkeepers
 barkeeps
 bams
 byelaws
@@ -2643,6 +2642,7 @@ barkless
 barklyite
 barkometer
 bescorch
+barkeepers
 barkpeeling
 butyr
 batrachite
