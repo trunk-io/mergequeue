@@ -9108,7 +9108,6 @@ bedstands
 bioluminescence
 blighties
 biomagnetic
-biomagnetism
 biggins
 biomasses
 biomathematics
@@ -16215,6 +16214,7 @@ boosted
 brownistic
 brownly
 brownness
+biomagnetism
 brownnose
 brownnoser
 buyback
