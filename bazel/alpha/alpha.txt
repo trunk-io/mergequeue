@@ -3203,7 +3203,6 @@ actinulae
 action
 albiflorous
 allotrophic
-actionability
 actionably
 assoc
 actionary
@@ -23099,6 +23098,7 @@ atterr
 ascence
 attest
 attestable
+actionability
 abolla
 apoplectical
 attestant
