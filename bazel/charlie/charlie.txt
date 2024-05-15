@@ -5377,7 +5377,6 @@ castes
 casteth
 castice
 castigable
-castigate
 castigates
 citraconic
 castigation
@@ -14074,6 +14073,7 @@ cabecera
 cinquecentist
 coquetries
 commemoratory
+castigate
 cinquecento
 cinquedea
 cinquefoil
