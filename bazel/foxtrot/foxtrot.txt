@@ -6726,7 +6726,6 @@ feudatorial
 flyblow
 fogdogs
 fairways
-fogdom
 foeffment
 foge
 fogfruit
@@ -8658,6 +8657,7 @@ fortaxed
 faldstool
 flanchard
 fortescue
+fogdom
 foolhead
 fossoria
 forth
