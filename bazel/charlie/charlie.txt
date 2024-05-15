@@ -25455,7 +25455,6 @@ cornopean
 cornpipe
 cornrick
 cornrow
-cornrows
 corns
 cornsack
 cornstalks
@@ -28202,6 +28201,7 @@ crankled
 crankles
 crankless
 contiguities
+cornrows
 carbolating
 catamounts
 crankling
