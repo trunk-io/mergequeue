@@ -11368,7 +11368,6 @@ exterrestrial
 evaporability
 evaporate
 ectoplasy
-eutaxy
 epiblastema
 eikonogen
 evaporates
@@ -14153,6 +14152,7 @@ emblossom
 extuberant
 exuberantness
 exuberated
+eutaxy
 endocarpoid
 exuberating
 exuccous
