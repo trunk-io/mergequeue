@@ -2415,7 +2415,6 @@ electrogild
 electrogilt
 ejecting
 electrogram
-eleve
 electrography
 eudyptes
 encephalosepsis
@@ -8354,6 +8353,7 @@ electrologist
 epithem
 emulating
 epitheme
+eleve
 epithermal
 epithermally
 emmenia
