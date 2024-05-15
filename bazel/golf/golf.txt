@@ -6262,6 +6262,7 @@ gatefolds
 go
 goa
 grammar
+gonads
 germiparity
 grammaticize
 garters
@@ -10075,7 +10076,6 @@ guesser
 ginning
 gigmania
 grainland
-gonads
 guesstimating
 girdlingly
 guesswork
