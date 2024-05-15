@@ -10044,7 +10044,6 @@ cherely
 cherem
 cheremiss
 cheremissian
-cherenkov
 cherie
 cheries
 cherimoyer
@@ -14924,6 +14923,7 @@ citizens
 cytoanalyzer
 copremia
 cytoarchitectural
+cherenkov
 cytoblast
 confidences
 cytoblastema
