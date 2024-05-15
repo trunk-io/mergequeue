@@ -3604,6 +3604,7 @@ addu
 alloisomer
 adduce
 adduceable
+awkwarder
 agisting
 adduced
 adducent
@@ -25025,7 +25026,6 @@ astrometer
 awkly
 athenaeum
 awkward
-awkwarder
 awkwardish
 awkwardness
 awless
