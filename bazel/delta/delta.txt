@@ -8527,7 +8527,6 @@ divider
 dianil
 dianilid
 dilate
-dianilide
 dislip
 dianisidine
 dianite
@@ -18331,6 +18330,7 @@ duodedenums
 duodena
 duodenary
 diphtheritic
+dianilide
 duodenate
 declension
 duodenation
