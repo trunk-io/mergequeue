@@ -1951,7 +1951,6 @@ gauchely
 gaud
 gaucho
 germinated
-gauchos
 goodyship
 germaniums
 groundable
@@ -5351,6 +5350,7 @@ gorilla
 grenier
 glibness
 glibnesses
+gauchos
 glycemia
 glycerate
 glyceria
