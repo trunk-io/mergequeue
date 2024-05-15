@@ -784,7 +784,6 @@ badju
 betterer
 badland
 badlands
-buba
 bat
 badman
 badmash
@@ -14234,6 +14233,7 @@ braggartism
 braggartly
 braggarts
 braggat
+buba
 bragged
 bragger
 braggery
