@@ -8025,7 +8025,6 @@ ethylene
 epiparasite
 exsanguination
 eurasia
-effervescence
 electrosurgeries
 erupt
 epibasal
@@ -13779,6 +13778,7 @@ ecteron
 eastward
 extra
 extrabold
+effervescence
 extrabranchial
 enregistry
 endebt
