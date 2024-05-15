@@ -4760,7 +4760,6 @@ fauve
 fannings
 flageolets
 fencelet
-flagfishes
 flagged
 flaggelate
 forbiddenness
@@ -10153,6 +10152,7 @@ frypans
 friponerie
 flagitate
 filicornia
+flagfishes
 fireblende
 fripperer
 flexo
