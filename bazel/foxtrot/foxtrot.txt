@@ -6800,6 +6800,7 @@ foisonless
 flavorers
 fusils
 failsafe
+faldetta
 forthset
 fibromyomectomy
 foistiness
@@ -8192,7 +8193,6 @@ forewent
 freezable
 frostbird
 forewings
-faldetta
 foothils
 forewit
 forewords
