@@ -8515,7 +8515,6 @@ ethnologic
 energies
 epuloid
 epulosis
-epulotic
 epural
 epuration
 eq
@@ -9266,6 +9265,7 @@ eroticizing
 eroticomania
 endarterectomy
 essenical
+epulotic
 eroticomaniac
 eroticomaniacal
 empannel
