@@ -1301,7 +1301,6 @@ effectuality
 err
 epeus
 eburine
-effectualize
 effectualness
 effectuated
 effectuating
@@ -5838,6 +5837,7 @@ ergatandromorph
 enhelm
 elysia
 enhemospore
+effectualize
 enhydra
 eyewear
 exister
