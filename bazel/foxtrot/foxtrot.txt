@@ -4828,6 +4828,7 @@ flivvers
 foothook
 fungal
 flailing
+forebow
 folksinging
 fisheries
 followable
@@ -10347,7 +10348,6 @@ filtrate
 fermentor
 fluorimeter
 frilly
-forebow
 fractioned
 froideur
 froise
