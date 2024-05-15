@@ -3429,7 +3429,6 @@ goss
 germon
 ghostcraft
 gorsedd
-germproof
 germs
 griseous
 glideness
@@ -6651,6 +6650,7 @@ gomeisa
 gromwell
 gozill
 grammatolator
+germproof
 gomer
 grew
 gypsied
