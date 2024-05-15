@@ -7274,6 +7274,7 @@ barite
 bestarve
 bellical
 bestatued
+billete
 boba
 bestead
 breme
@@ -13897,7 +13898,6 @@ boxcar
 bonify
 boxcars
 bowpin
-billete
 boxed
 blent
 boxen
