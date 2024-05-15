@@ -8730,7 +8730,6 @@ dhootie
 duelled
 diastimeter
 diastoles
-diastomatic
 diastral
 decors
 demonocracy
@@ -9322,6 +9321,7 @@ dietotherapeutics
 dietotherapy
 dietotoxic
 depilation
+diastomatic
 dietrichite
 diets
 duvetine
