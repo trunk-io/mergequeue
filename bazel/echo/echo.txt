@@ -1340,7 +1340,6 @@ engraving
 efferents
 enantiomorphous
 effervescency
-entertissue
 endoskeletal
 exomis
 ebcdic
@@ -9826,6 +9825,7 @@ envapor
 essayed
 essayer
 essaying
+entertissue
 essayism
 essayistical
 essayists

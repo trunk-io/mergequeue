@@ -1881,7 +1881,6 @@ gastrotome
 gastrotomic
 greensand
 gastrotubotomy
-gastrovascular
 gamecocks
 granitiferous
 gluttery
@@ -2433,6 +2432,7 @@ georgette
 gelose
 gelosie
 gelotherapy
+gastrovascular
 garbed
 galacthidrosis
 gelsemia
