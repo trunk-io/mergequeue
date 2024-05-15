@@ -10227,7 +10227,6 @@ dins
 dint
 dinted
 diana
-drolly
 dinting
 dintless
 dints
@@ -16016,6 +16015,7 @@ doublet
 doubleted
 drent
 dynametric
+drolly
 duryodhana
 doublethink
 driveline
