@@ -6773,7 +6773,6 @@ desilvering
 desilverizing
 desilvers
 desynaptic
-devitrification
 dulcarnon
 desynchronize
 demikindred
@@ -15599,6 +15598,7 @@ doomwatcher
 dissentaneous
 dooputty
 doorbrand
+devitrification
 doorcheek
 doored
 doorhawk
