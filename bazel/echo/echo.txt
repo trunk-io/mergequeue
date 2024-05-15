@@ -2632,6 +2632,7 @@ electrostriction
 elinvar
 electrosurgery
 enfirm
+epididymovasostomy
 elaeocarpaceous
 eleutherodactyli
 electrosurgical
@@ -3537,7 +3538,6 @@ embossage
 exsolution
 embossed
 exponentiations
-epididymovasostomy
 enbibe
 embossing
 embossman
