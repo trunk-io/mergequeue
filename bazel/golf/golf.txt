@@ -1539,6 +1539,7 @@ guild
 garths
 gargoyled
 garum
+guanyl
 girdlers
 gidjee
 garvey
@@ -8609,7 +8610,6 @@ glean
 greed
 germanious
 greedier
-guanyl
 gregor
 greediest
 grandfilial
