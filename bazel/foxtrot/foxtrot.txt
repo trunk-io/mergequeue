@@ -112,6 +112,7 @@ faciation
 freeport
 faciend
 fisherpeople
+ferricyanogen
 frough
 funtumia
 faciends
@@ -789,7 +790,6 @@ fellowlike
 fermacy
 fanfaronade
 fanfarons
-ferricyanogen
 funnellike
 fabricable
 freemasonry
