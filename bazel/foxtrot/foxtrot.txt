@@ -16,7 +16,6 @@ footsoldier
 fabled
 ferry
 fablemaker
-forestay
 feebler
 fablemongering
 fuder
@@ -3165,6 +3164,7 @@ fibrocalcareous
 fibrocartilaginous
 fineer
 fibrocellular
+forestay
 fading
 flanders
 frowstier
