@@ -3799,7 +3799,6 @@ carbolineum
 carbolised
 carbolising
 carbolize
-carbolized
 carbolizes
 carbolizing
 carboloy
@@ -15938,6 +15937,7 @@ cleaveful
 conversionist
 cleavelandite
 cleaver
+carbolized
 cleavers
 cleaving
 cloudier
