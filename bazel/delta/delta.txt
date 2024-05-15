@@ -591,7 +591,6 @@ dameworts
 divulgator
 damfool
 declaimant
-decelerometer
 div
 damfoolish
 damgalnunna
@@ -3776,6 +3775,7 @@ disproved
 didact
 dehydrogenate
 dehydrogenated
+decelerometer
 dehydrogenating
 dehydrogenisation
 duchess
