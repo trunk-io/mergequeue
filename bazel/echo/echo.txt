@@ -4483,6 +4483,7 @@ encephalin
 encephalitic
 endostyle
 exocolitis
+epifascial
 emulators
 encephalitogenic
 elotherium
@@ -7768,7 +7769,6 @@ electrothermancy
 epidotiferous
 ectocinerea
 emball
-epifascial
 epifaunae
 expropriating
 epifaunal
