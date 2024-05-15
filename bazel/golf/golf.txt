@@ -2318,7 +2318,6 @@ guideway
 gey
 gaits
 gallantry
-griseofulvin
 gorgonacean
 geyerite
 geiger
@@ -4647,6 +4646,7 @@ glottochronology
 germicide
 greegree
 girdles
+griseofulvin
 girdlestead
 gymnosperm
 girds
