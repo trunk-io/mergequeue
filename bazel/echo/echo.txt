@@ -2955,7 +2955,6 @@ excrementize
 episplenitis
 entrenched
 eliquidate
-echelonment
 elysian
 elysiidae
 elisor
@@ -5744,6 +5743,7 @@ engraft
 expiations
 engrafter
 eluviated
+echelonment
 engraftment
 engrafts
 erythristic
