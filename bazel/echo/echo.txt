@@ -2299,7 +2299,6 @@ evasion
 entocele
 electrochemical
 electrochemistry
-excrete
 electrochronometer
 electrocataphoresis
 equison
@@ -7359,6 +7358,7 @@ encased
 epeirogenic
 epeirogenically
 encourager
+excrete
 erythrina
 eurygnathous
 encloses
