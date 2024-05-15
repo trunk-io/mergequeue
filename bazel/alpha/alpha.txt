@@ -12605,7 +12605,6 @@ anesthesiologies
 anesthesiologists
 anesthesis
 acarology
-anesthetically
 anesthetics
 anesthetization
 anesthetize
@@ -13508,6 +13507,7 @@ annat
 annates
 annats
 annatto
+anesthetically
 annattos
 anthroposcopy
 anne

@@ -2501,6 +2501,7 @@ bargainable
 billbugs
 bargainer
 bargaining
+bagged
 beechwoods
 bargander
 barge
@@ -9347,7 +9348,6 @@ bubale
 byplace
 balewort
 bracteiform
-bagged
 byplay
 bedrite
 brutalising
