@@ -9083,7 +9083,6 @@ alluding
 allumette
 allumine
 allurance
-allure
 afternight
 allured
 allurement
@@ -19224,6 +19223,7 @@ archvillainy
 anisylidene
 aphoristic
 archvisitor
+allure
 alternating
 archwag
 archway
