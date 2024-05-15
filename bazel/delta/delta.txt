@@ -2607,7 +2607,6 @@ decoagulation
 decoat
 disproving
 decocainize
-decoct
 decocting
 denizening
 disarrest
@@ -6858,6 +6857,7 @@ donataries
 desmine
 desmitis
 desmocytoma
+decoct
 degenerates
 dendrograph
 desmodactyli
