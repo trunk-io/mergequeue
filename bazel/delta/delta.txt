@@ -13645,6 +13645,7 @@ dissimile
 dissimilitude
 dandyishly
 deferent
+duplicand
 dissymmetry
 drumbeating
 dissymmetric
@@ -18411,7 +18412,6 @@ duplexer
 duplexers
 duplexing
 duplicability
-duplicand
 disruptability
 denudates
 duplicates
