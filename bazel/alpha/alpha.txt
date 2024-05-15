@@ -1962,7 +1962,6 @@ acetabularia
 acetabuliform
 acetabulous
 alacrify
-acetabulum
 acetabulums
 acetacetic
 acetaldehyde
@@ -3218,6 +3217,7 @@ actionist
 amizilis
 actionizing
 actionless
+acetabulum
 arrectary
 actions
 actious
