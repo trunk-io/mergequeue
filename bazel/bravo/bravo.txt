@@ -1458,7 +1458,6 @@ balinese
 balinghasay
 balistarii
 balister
-beefish
 balistes
 balistid
 balistidae
@@ -3362,6 +3361,7 @@ basoche
 basocyte
 basoga
 braciolas
+beefish
 broadgage
 bungled
 bertha
