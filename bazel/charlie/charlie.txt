@@ -6484,6 +6484,7 @@ caves
 cavesson
 cavetti
 conchie
+cisium
 cavetto
 cavettos
 cavy
@@ -14650,7 +14651,6 @@ cisele
 courante
 ciseleurs
 cising
-cisium
 cisjurane
 cisleithan
 cislunar
