@@ -9717,7 +9717,6 @@ backbeats
 brince
 bishopdom
 bishoped
-biborate
 bishopful
 bishophood
 bowwort
@@ -10283,6 +10282,7 @@ blackshirted
 blacksmith
 borates
 bignesses
+biborate
 blacksmithing
 beastdom
 bocaccio
