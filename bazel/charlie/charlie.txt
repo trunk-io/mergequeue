@@ -9916,7 +9916,6 @@ colligated
 cornucopia
 chastizer
 curiological
-chemoautotrophically
 chemokinesis
 chemokinetic
 chemolysis
@@ -25914,6 +25913,7 @@ corsairs
 corsak
 corse
 corselet
+chemoautotrophically
 corseleted
 catfishes
 contradicting

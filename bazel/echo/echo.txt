@@ -4558,6 +4558,7 @@ epidemiologies
 enchanting
 enchantments
 englante
+expel
 enchantress
 enchants
 encharged
@@ -5066,7 +5067,6 @@ endocrinology
 evinced
 ebraick
 exposures
-expel
 entogenous
 endocrinologist
 embosser
