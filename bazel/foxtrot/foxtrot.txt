@@ -7347,7 +7347,6 @@ forage
 facers
 fourgon
 fissures
-fluttery
 formable
 fleeched
 ferromolybdenum
@@ -10032,6 +10031,7 @@ frier
 felsite
 fryer
 flybook
+fluttery
 friers
 formated
 fusarial
