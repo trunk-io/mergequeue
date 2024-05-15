@@ -186,7 +186,6 @@ diereses
 darktown
 dunstable
 daedaloid
-dendroidal
 daemonic
 diel
 dynamometer
@@ -4748,6 +4747,7 @@ demiss
 demissionary
 dispensations
 demivolt
+dendroidal
 demagogy
 demissory
 demystify
