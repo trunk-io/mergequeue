@@ -2512,7 +2512,6 @@ frolicked
 ferment
 freebooty
 feudum
-fermentability
 fopdoodle
 fermentable
 ferrocyanic
@@ -9222,6 +9221,7 @@ fibrinogenous
 fractionization
 fasciculately
 fractions
+fermentability
 fractious
 foregoing
 foolheaded
