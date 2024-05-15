@@ -5025,7 +5025,6 @@ aerogramme
 aerograms
 aerograph
 americium
-aerography
 aerographical
 aerographics
 aerographies
@@ -13326,6 +13325,7 @@ anonol
 anisodactyli
 athens
 anisodactylic
+aerography
 anisodont
 anisogamete
 anisogametes
