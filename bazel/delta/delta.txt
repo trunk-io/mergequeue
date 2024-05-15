@@ -5557,7 +5557,6 @@ deadest
 deoxidised
 deoxidiser
 dorsiventrality
-deoxidize
 deoxidizer
 dreggy
 deoxidizers
@@ -16323,6 +16322,7 @@ downshift
 downshifted
 downshifts
 downshore
+deoxidize
 downside
 downsitting
 dragonism
