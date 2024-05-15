@@ -8420,7 +8420,6 @@ epitria
 episomes
 electroplate
 emicate
-epitrichial
 epitrochlear
 earplug
 evolutility
@@ -11671,6 +11670,7 @@ ewerer
 ewery
 emetine
 ewes
+epitrichial
 ewest
 ewry
 ewte
