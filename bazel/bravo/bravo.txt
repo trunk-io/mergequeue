@@ -538,7 +538,6 @@ backswordman
 backtender
 backtenter
 backtracked
-backtracker
 backtracking
 backtracks
 backout
@@ -9393,6 +9392,7 @@ biquintile
 biracial
 balourdise
 biracialism
+backtracker
 bawdry
 baldricked
 broilers
