@@ -6715,7 +6715,6 @@ bronchioles
 bookful
 berenice
 browed
-bereshith
 beresite
 beret
 berets
@@ -13285,6 +13284,7 @@ backwort
 brachioradialis
 botanizes
 botanizing
+bereshith
 botanomancy
 balsamed
 bemat
