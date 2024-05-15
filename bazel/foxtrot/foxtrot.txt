@@ -4003,6 +4003,7 @@ forleft
 fistulas
 fingersmith
 footbreadth
+fie
 furrow
 femur
 filmlike
@@ -7396,7 +7397,6 @@ fairyfloss
 forastero
 forbad
 frivolized
-fie
 fontanels
 forbade
 flushing
