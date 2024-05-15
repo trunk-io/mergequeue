@@ -7405,7 +7405,6 @@ attornment
 ariboflavinosis
 albarium
 albas
-albaspidin
 albata
 albatas
 archaeocyathus
@@ -16412,6 +16411,7 @@ antivaccinator
 antivaccinist
 antivariolous
 antivenefic
+albaspidin
 antivenereal
 antivenine
 antivenins
