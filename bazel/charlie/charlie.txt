@@ -507,7 +507,6 @@ corregidores
 cadenza
 crumbers
 cypriote
-cadenzas
 ceratoglossus
 cader
 caderas
@@ -11840,6 +11839,7 @@ chondroplast
 chondroplasty
 consonantally
 chondroplastic
+cadenzas
 chondroprotein
 cult
 chondropterygian
