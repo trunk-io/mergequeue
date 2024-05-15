@@ -8853,7 +8853,6 @@ bimodulus
 bimong
 buckeroo
 bimonthlies
-bimorph
 bimorphs
 bimotored
 bimotors
@@ -12716,6 +12715,7 @@ balitao
 begarie
 bookmarker
 bookmarks
+bimorph
 bookmobile
 bookmobiles
 baroni
