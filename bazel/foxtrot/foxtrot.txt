@@ -1310,7 +1310,6 @@ forefather
 floscular
 flagrante
 fishhouse
-faked
 fidgety
 farnovian
 fasti
@@ -7724,6 +7723,7 @@ fyrdung
 frontierlike
 foreshadows
 flourishment
+faked
 foziest
 flaggelation
 fieldball
