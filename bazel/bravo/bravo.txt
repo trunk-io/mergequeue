@@ -12794,7 +12794,6 @@ boomiest
 boominess
 booming
 boomingly
-betalk
 boomkin
 boomkins
 bootes
@@ -16877,6 +16876,7 @@ bulbil
 bufonite
 bufotalin
 bufotoxin
+betalk
 baudekin
 balilla
 bugaboo
