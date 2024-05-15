@@ -8551,7 +8551,6 @@ bilalo
 bilamellar
 bilamellate
 bilamellated
-bilaminar
 biland
 bilander
 becolor
@@ -12936,6 +12935,7 @@ bopping
 boppist
 bloomers
 balanid
+bilaminar
 bungle
 borable
 borachio

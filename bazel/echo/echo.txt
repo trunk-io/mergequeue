@@ -7462,6 +7462,7 @@ ephydridae
 equisurface
 eddy
 ephidrosis
+erose
 ephippia
 ephippium
 effluency
@@ -9242,7 +9243,6 @@ erogenetic
 enslavement
 enginelike
 erogenous
-erose
 excites
 eucharistize
 erosional
