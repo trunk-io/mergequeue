@@ -7751,7 +7751,6 @@ epidiascope
 escallops
 epididymal
 epididymodeferentectomy
-embosom
 epididymodeferential
 exchanger
 epidymides
@@ -10906,6 +10905,7 @@ euonymus
 expectoration
 echinid
 extracultural
+embosom
 exorcizing
 eupad
 eupanorthidae
