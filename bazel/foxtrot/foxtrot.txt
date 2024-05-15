@@ -2779,7 +2779,6 @@ forbiddance
 folkway
 fusain
 fervours
-footwalls
 forebays
 fishboat
 fescennine
@@ -4737,6 +4736,7 @@ follies
 flagellated
 flagellations
 flunkeydom
+footwalls
 feif
 flagellatory
 flangers
