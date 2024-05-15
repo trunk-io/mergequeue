@@ -2845,7 +2845,6 @@ genotypic
 galatotrophic
 greathead
 gunfire
-genotypically
 glorioles
 glop
 grabbed
@@ -7724,6 +7723,7 @@ grayling
 graysbies
 glabellar
 guaracha
+genotypically
 grained
 galivanted
 graptolithida
