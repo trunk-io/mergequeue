@@ -4385,6 +4385,7 @@ enc
 eurylaimoid
 encadre
 encaenia
+expurgated
 ectorganism
 etua
 encage
@@ -13440,7 +13441,6 @@ expunging
 expurgate
 equivocate
 extramorainal
-expurgated
 expurgational
 ethan
 expurgations
