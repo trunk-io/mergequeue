@@ -16792,7 +16792,6 @@ aph
 antilogical
 asserters
 aphacia
-aphacial
 alcaides
 anethole
 aphacic
@@ -17916,6 +17915,7 @@ apportion
 apportionable
 apportionate
 apportioned
+aphacial
 arctangent
 ampule
 apportioner
