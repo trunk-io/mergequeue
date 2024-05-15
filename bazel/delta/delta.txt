@@ -8273,7 +8273,6 @@ diagnosable
 diagnose
 diagnosed
 diacetyls
-diagnosis
 diagnostical
 diagnostically
 diagnosticate
@@ -17881,6 +17880,7 @@ dudleya
 developmentalist
 disentraced
 dudler
+diagnosis
 duds
 due
 duecentist
