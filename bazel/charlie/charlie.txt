@@ -5140,6 +5140,7 @@ casey
 caseic
 casein
 caseinate
+coper
 cordites
 canvaser
 chaprassi
@@ -24568,7 +24569,6 @@ chromolithograph
 copepodan
 copepodous
 copepods
-coper
 copernican
 creatophagous
 citrinous
