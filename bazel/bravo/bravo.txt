@@ -13391,6 +13391,7 @@ benes
 biophotometer
 blueprints
 bookiness
+ballist
 bibliopoly
 biacromial
 bottegas
@@ -15354,7 +15355,6 @@ brilliance
 braata
 bixa
 brilliancy
-ballist
 benetted
 bludgeoner
 bifurcations

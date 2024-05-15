@@ -5915,6 +5915,7 @@ grain
 glovemaker
 gametes
 gloveman
+gists
 glover
 gloves
 glochines
@@ -9354,7 +9355,6 @@ grossed
 grossen
 gyrosyn
 granma
-gists
 grossers
 grosses
 grossest
