@@ -8583,7 +8583,6 @@ anthologize
 alkyne
 alkitran
 argufy
-alkool
 acquisitions
 alkoxy
 alkoxyl
@@ -24222,6 +24221,7 @@ autarchical
 automen
 archgovernor
 autometry
+alkool
 autometric
 automysophobia
 automobile
