@@ -1688,6 +1688,7 @@ fipenny
 fcomp
 fconv
 farcin
+flurriment
 familiar
 faradocontractility
 four
@@ -6495,7 +6496,6 @@ fernbird
 forsteal
 flurries
 flurrying
-flurriment
 fisted
 futteret
 figureheadless
