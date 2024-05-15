@@ -13704,6 +13704,7 @@ cimbalom
 cymbalom
 cimbaloms
 cymbalon
+conjuncture
 cubicles
 cymbel
 cymbid
@@ -24276,7 +24277,6 @@ constantinople
 convulsion
 convulsional
 convulsionary
-conjuncture
 criminated
 convulsionaries
 cerebritis
