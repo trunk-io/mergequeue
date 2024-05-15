@@ -4020,7 +4020,6 @@ embargos
 enrollees
 embarked
 emphatical
-endometritis
 emphysema
 emetic
 emphyteusis
@@ -13044,6 +13043,7 @@ eryngoes
 encalendar
 enameled
 epistolizable
+endometritis
 expending
 expenditor
 expenditrix
