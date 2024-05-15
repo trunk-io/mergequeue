@@ -14168,6 +14168,7 @@ cyprinids
 cypriniform
 cyprinin
 cyprinine
+curcas
 caecal
 cyprinodont
 cyprinodontes
@@ -31260,7 +31261,6 @@ curbside
 curbstone
 curbstoner
 curbstones
-curcas
 curch
 curchef
 curchy

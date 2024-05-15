@@ -1441,7 +1441,6 @@ gemmel
 geogony
 garments
 grasseye
-glutael
 garmenture
 gerodermia
 garmentworker
@@ -3905,6 +3904,7 @@ gutnic
 gieaways
 gied
 gieing
+glutael
 gyrophoraceae
 gienah
 gierfalcon
