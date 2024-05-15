@@ -5675,7 +5675,6 @@ dei
 desaturation
 depertible
 daying
-depetalize
 depetticoat
 dephase
 depravingly
@@ -8398,6 +8397,7 @@ dispreader
 discountenancer
 dialyzate
 dialyzation
+depetalize
 dialyze
 dialyzed
 dialyzer
