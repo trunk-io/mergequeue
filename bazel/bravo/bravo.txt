@@ -13393,7 +13393,6 @@ bookiness
 bibliopoly
 biacromial
 bottegas
-bibliotheca
 bottekin
 botticelli
 brakehead
@@ -17506,6 +17505,7 @@ bandyman
 brulots
 bunted
 boomage
+bibliotheca
 bruskest
 bunter
 blacklight
