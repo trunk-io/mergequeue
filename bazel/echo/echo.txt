@@ -4117,7 +4117,6 @@ employability
 estancia
 enteromere
 employe
-estado
 eriglossa
 employed
 employee
@@ -12229,6 +12228,7 @@ exteriorly
 esclavage
 elasmobranchian
 excusable
+estado
 exiguity
 excusably
 excusal
