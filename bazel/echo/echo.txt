@@ -9712,7 +9712,6 @@ entrike
 esophagometer
 evoked
 esophagomycosis
-esophagopathy
 esophagoplasty
 esophagoptosis
 esophagorrhagia
@@ -13272,6 +13271,7 @@ eclipsareon
 exploringly
 encephalodialysis
 explosimeter
+esophagopathy
 englishmen
 explosion
 explosionist
