@@ -12524,7 +12524,6 @@ chromodiascope
 chromogen
 chromogene
 chromogenesis
-chromogenetic
 chamaecrista
 cranemanship
 chromogenous
@@ -19520,6 +19519,7 @@ colpohyperplasia
 colpoperineoplasty
 colpoperineorrhaphy
 colpoplasty
+chromogenetic
 colpoptosis
 colporrhagia
 colporrhaphy
