@@ -3452,7 +3452,6 @@ adaptative
 allegorize
 azomethine
 adapters
-adapting
 agrostology
 adaption
 anchoic
@@ -24918,6 +24917,7 @@ awaiter
 awaiters
 awaiting
 awaitlala
+adapting
 awaits
 awakable
 apetaloid
