@@ -3044,7 +3044,6 @@ elocutionize
 ellipsis
 eyeglasses
 emblematic
-ellipsograph
 ellipsoid
 executiveness
 ellipsone
@@ -7862,6 +7861,7 @@ elbower
 epigrammatizer
 epigrammatizing
 endaortitis
+ellipsograph
 epigrams
 epigraph
 egyptianization
