@@ -3817,7 +3817,6 @@ ganomalite
 gaslightness
 gibberella
 guanylic
-gibberellin
 gaffing
 gibbert
 goffers
@@ -9756,6 +9755,7 @@ gteau
 graybearded
 guacacoa
 guacharo
+gibberellin
 grimacer
 gonidiospore
 graphospasm
