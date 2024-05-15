@@ -4859,7 +4859,6 @@ aeolistic
 aeolomelodicon
 averin
 aeolotropy
-aeolotropic
 aeolus
 anchises
 aeon
@@ -20083,6 +20082,7 @@ amafingo
 arnee
 azyme
 arnement
+aeolotropic
 arni
 arnicas
 arnold
