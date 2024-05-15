@@ -814,6 +814,7 @@ bliny
 bluecaps
 bonier
 baetyl
+batholith
 blautok
 baetulus
 baetzner
@@ -3611,7 +3612,6 @@ bathochromatism
 bathochromy
 bathochromic
 bathoflore
-batholith
 bibliomaniacal
 batholithic
 batholiths
