@@ -9316,7 +9316,6 @@ chateaugray
 chateaus
 chateaux
 chatelain
-chatelaine
 chatelaines
 chatelainry
 chatelains
@@ -31641,6 +31640,7 @@ cusecs
 cuselite
 cush
 cushag
+chatelaine
 cushats
 cushaws
 civies
