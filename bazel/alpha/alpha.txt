@@ -6941,6 +6941,7 @@ airplanes
 aal
 airplanist
 acieral
+annals
 airplot
 airport
 airports
@@ -13500,7 +13501,6 @@ aenigma
 annalists
 allotheist
 annalize
-annals
 annam
 arctician
 annamite
