@@ -5710,7 +5710,6 @@ belshazzar
 br
 belch
 belched
-belcher
 belches
 blowpipes
 bicyclical
@@ -11785,6 +11784,7 @@ bod
 boeotarch
 bodach
 bdl
+belcher
 bodaciously
 boddagh
 boddhisattva
