@@ -11116,7 +11116,6 @@ amphibology
 astrospherecentrosomic
 angiograph
 arbitrator
-amphibologically
 amphibologies
 anabaptistry
 amphibolous
@@ -21724,6 +21723,7 @@ asserter
 asserting
 automatics
 agrise
+amphibologically
 assertingly
 assertion
 assertional
