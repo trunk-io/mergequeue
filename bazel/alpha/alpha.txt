@@ -4034,7 +4034,6 @@ adjument
 adjunctively
 adjunctly
 adjuration
-adjurations
 analogia
 amidine
 aisling
@@ -24548,6 +24547,7 @@ avahi
 aurocyanide
 avail
 availabile
+adjurations
 availability
 allocryptic
 availabilities
