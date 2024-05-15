@@ -3182,6 +3182,7 @@ disestablisher
 demihuman
 defamy
 defaming
+duoviri
 defamingly
 defamous
 deadworks
@@ -18391,7 +18392,6 @@ duotone
 disembody
 downhauls
 duotriode
-duoviri
 dup
 dupable
 dupatta
