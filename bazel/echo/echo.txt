@@ -4607,6 +4607,7 @@ enchodontid
 enchodontoid
 enchodus
 ensilaging
+endosiphonal
 ermelin
 eminence
 epimerase
@@ -5247,7 +5248,6 @@ endoscopist
 empyreumatical
 endosymbiosis
 emeus
-endosiphonal
 epipodia
 endoskeletons
 endosmic
