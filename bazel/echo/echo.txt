@@ -2554,7 +2554,6 @@ electropathy
 electropathology
 electrophysiological
 emotionist
-exportability
 etherical
 electrophysiologically
 electrophore
@@ -13834,6 +13833,7 @@ extractant
 eteocles
 extractibility
 escallonia
+exportability
 extractible
 exantlation
 evections
