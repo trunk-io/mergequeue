@@ -2158,7 +2158,6 @@ biotechnologies
 boiler
 bantering
 banteringly
-banty
 bushrope
 bantings
 betangle
@@ -7708,6 +7707,7 @@ bewilder
 bewildered
 bewilderedly
 ballogan
+banty
 bemadams
 brewster
 boasting
