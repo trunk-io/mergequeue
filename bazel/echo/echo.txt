@@ -9693,7 +9693,6 @@ esophagitis
 euryale
 esophago
 esophagocele
-esophagodynia
 esophagogastroscopy
 electrotheraputically
 evejar
@@ -10533,6 +10532,7 @@ etiolated
 etiolating
 etiolize
 etiology
+esophagodynia
 etiological
 endrumpf
 etiologist
