@@ -15396,7 +15396,6 @@ clammyweed
 clamor
 clamored
 clamorer
-clamorers
 clamorist
 clamorous
 clamorously
@@ -29700,6 +29699,7 @@ crasis
 cestui
 crommel
 codesigned
+clamorers
 confess
 cromorne
 countesses

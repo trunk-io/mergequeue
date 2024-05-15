@@ -1117,7 +1117,6 @@ foremast
 farolito
 ferriages
 farrage
-foldstool
 farrago
 fordone
 frizzed
@@ -6037,6 +6036,7 @@ flabbiness
 flimsiest
 fresco
 flores
+foldstool
 forgab
 footcandle
 fromfile
