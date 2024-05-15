@@ -6594,7 +6594,6 @@ enteroclysis
 enterococcal
 esperantidist
 enseam
-expulsatory
 enterococcus
 enterocoela
 enterocoelous
@@ -13391,6 +13390,7 @@ expresso
 expressure
 exaltative
 ethmophysal
+expulsatory
 electrotechnical
 expurge
 excipular
