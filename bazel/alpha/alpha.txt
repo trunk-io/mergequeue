@@ -7435,6 +7435,7 @@ albertype
 arabic
 albertist
 albertite
+ancre
 atle
 alberto
 alberttype
@@ -12316,7 +12317,6 @@ antimoniureted
 andamenta
 andamentos
 andante
-ancre
 andantini
 allopatric
 andantino
