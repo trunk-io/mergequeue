@@ -3046,7 +3046,6 @@ ellipsoid
 executiveness
 ellipsone
 exteriorization
-elliptical
 elliptically
 ellipticalness
 ellipticity
@@ -11096,6 +11095,7 @@ effected
 euryprosopic
 etheriform
 embolium
+elliptical
 eurypterida
 extine
 extraregular
