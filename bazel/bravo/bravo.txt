@@ -2124,7 +2124,6 @@ banqueting
 banquets
 banquette
 bans
-bansalague
 bufagin
 boguing
 bansela
@@ -6773,6 +6772,7 @@ berycidae
 biarticulated
 berycine
 berycoid
+bansalague
 bridgeboard
 berycoidea
 bumbershoot
