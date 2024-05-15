@@ -6321,6 +6321,7 @@ feridgi
 flukes
 flukeworm
 flukewort
+flusker
 forbar
 follicle
 fluky
@@ -6514,7 +6515,6 @@ flushgate
 flushy
 flushingly
 flusk
-flusker
 floodtime
 fisheress
 flusterating
