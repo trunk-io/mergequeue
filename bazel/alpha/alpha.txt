@@ -5387,7 +5387,6 @@ aspatia
 android
 affixion
 affixment
-affixture
 afflate
 anophthalmia
 afflated
@@ -6522,6 +6521,7 @@ agrostemma
 agrosteral
 agrostographer
 agrostography
+affixture
 agrostographical
 algesthesis
 antivenom
