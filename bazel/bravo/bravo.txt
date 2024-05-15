@@ -743,7 +743,6 @@ badgeless
 berrendo
 badgeman
 barrels
-badger
 breeches
 bogwort
 badgered
@@ -6255,6 +6254,7 @@ briolet
 benedictions
 barograph
 bolides
+badger
 biker
 benedictive
 benedictively
