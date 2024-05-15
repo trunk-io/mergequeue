@@ -4354,7 +4354,6 @@ caricatura
 caricaturable
 caricatural
 caricature
-caricatured
 caricaturing
 caricaturist
 caricaturists
@@ -27942,6 +27941,7 @@ crackled
 crackles
 crackless
 crackleware
+caricatured
 crackly
 cracklier
 crackliest
