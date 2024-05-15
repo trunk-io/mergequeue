@@ -5014,6 +5014,7 @@ carucage
 counterprove
 carucarius
 carucate
+closeable
 carucated
 carum
 coachwork
@@ -16653,7 +16654,6 @@ cloriodid
 clos
 closable
 close
-closeable
 closecross
 closed
 closedown

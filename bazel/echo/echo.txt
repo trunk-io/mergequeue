@@ -1459,7 +1459,6 @@ effused
 enthalpy
 espiegle
 endosmometer
-effusive
 effusively
 effusiveness
 effuso
@@ -12305,6 +12304,7 @@ extralateral
 erodable
 eudiagnostic
 ergotine
+effusive
 executorial
 executors
 exocyclica
