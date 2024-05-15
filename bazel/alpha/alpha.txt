@@ -8958,7 +8958,6 @@ allonyms
 allonomous
 alloo
 allopalladium
-allopath
 allopathetic
 allopathic
 allopathically
@@ -9639,6 +9638,7 @@ aluminising
 arrhal
 ameliorative
 aluminite
+allopath
 aluminium
 aluminize
 aluminizes
