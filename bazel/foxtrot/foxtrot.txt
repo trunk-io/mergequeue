@@ -4302,6 +4302,7 @@ folderol
 freestanding
 facia
 first
+furcula
 forbearer
 forestian
 feerie
@@ -11305,7 +11306,6 @@ flix
 furbelow
 furbelowed
 furbelowing
-furcula
 fabular
 fleabug
 furbish
