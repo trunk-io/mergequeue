@@ -686,6 +686,7 @@ beletter
 bacteriotoxin
 bacteriotrypsin
 bynames
+bungles
 bacteriotropic
 bubonoceze
 blepharedema
@@ -17441,7 +17442,6 @@ bungholes
 biathlons
 bunging
 bunglers
-bungles
 bungling
 bungos
 billowier
