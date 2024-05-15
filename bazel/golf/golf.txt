@@ -6412,7 +6412,6 @@ galipot
 gobstopper
 gerahs
 groceries
-gocart
 goclenian
 gamic
 gaudy
@@ -6514,6 +6513,7 @@ golconda
 golcondas
 goldang
 galvanotropism
+gocart
 giddypate
 gorgonin
 goldarned
