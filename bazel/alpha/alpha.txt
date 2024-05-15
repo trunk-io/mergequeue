@@ -7712,7 +7712,6 @@ ascogonium
 alcohate
 alcohol
 alcoholate
-alcoholature
 alcoholdom
 alcoholemia
 alcoholic
@@ -18477,6 +18476,7 @@ anglicist
 algaroba
 aralkyl
 aramaicize
+alcoholature
 assembling
 aramaism
 aramid
