@@ -536,7 +536,6 @@ daltonist
 desoxyanisoin
 dama
 damageability
-damageably
 describent
 demounted
 damaged
@@ -7088,6 +7087,7 @@ dz
 disenchantingly
 diplacanthus
 dermophyte
+damageably
 destinies
 destinism
 deriv
