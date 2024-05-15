@@ -2756,7 +2756,6 @@ apartment
 acraturesis
 acrawl
 acre
-acreable
 aquamarine
 acreage
 acreak
@@ -19861,6 +19860,7 @@ arkansas
 arkansawyer
 arkansite
 acylase
+acreable
 arkose
 allseed
 arksutite
