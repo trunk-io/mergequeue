@@ -8713,7 +8713,6 @@ enable
 equipotential
 equipotentiality
 equipped
-electrostereotype
 equiprobability
 equiprobable
 enablers
@@ -12456,6 +12455,7 @@ euphemia
 embryotrophic
 exhausting
 exhaustive
+electrostereotype
 eryon
 exhaustiveness
 elegances
