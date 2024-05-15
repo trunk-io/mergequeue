@@ -12528,7 +12528,6 @@ anemographically
 anemologic
 anemological
 anemometer
-anemometers
 anemometrical
 avoided
 anemometrically
@@ -18258,6 +18257,7 @@ aquarelles
 alascan
 aquaria
 alcovinometer
+anemometers
 aquarial
 agt
 armoring
