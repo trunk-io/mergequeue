@@ -4755,7 +4755,6 @@ fencelet
 flagfishes
 flagged
 flaggelate
-forbiddenness
 flaggelating
 flagger
 fragilariaceae
@@ -10591,6 +10590,7 @@ frenchiness
 frownful
 frowns
 frows
+forbiddenness
 forstand
 frowsily
 footslogging
