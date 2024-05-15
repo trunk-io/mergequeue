@@ -4296,6 +4296,7 @@ adoptee
 alcid
 adoptees
 autocarpous
+apotheosize
 adopter
 antitarnish
 adoptian
@@ -17541,7 +17542,6 @@ albuminimetry
 autocratically
 apotheosised
 apotheosising
-apotheosize
 apotheosized
 apothesine
 apothesis
