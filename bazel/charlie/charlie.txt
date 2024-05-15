@@ -11787,7 +11787,6 @@ chondrinous
 chondrioma
 chondriome
 chondriomere
-chondriosome
 chondriosomes
 colubriformia
 chondriosphere
@@ -22169,6 +22168,7 @@ confricamentum
 confrontal
 confrontation
 confrontationism
+chondriosome
 confrontationist
 cosustain
 confrontations
