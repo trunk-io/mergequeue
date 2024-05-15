@@ -2444,6 +2444,7 @@ delineation
 deciliters
 druidry
 doorbells
+dossiere
 dripstick
 disaffects
 dowered
@@ -9359,7 +9360,6 @@ differency
 differentia
 differentiability
 differentiable
-dossiere
 differentiae
 differentialize
 differentials
