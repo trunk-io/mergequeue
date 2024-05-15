@@ -11040,7 +11040,6 @@ eupolidean
 eupolyzoan
 epidermatic
 eupotamic
-equivocalness
 eventlessness
 essenian
 evacuees
@@ -12160,6 +12159,7 @@ enaliosaur
 endochondral
 existless
 excresence
+equivocalness
 excression
 excreta
 eschatocol
