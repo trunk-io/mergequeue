@@ -3047,7 +3047,6 @@ gollop
 geoffroyin
 geomance
 geoform
-geogen
 geogenesis
 gyropilot
 gibbartas
@@ -10177,6 +10176,7 @@ guids
 gillies
 guidwife
 gravitater
+geogen
 grandsire
 guyed
 genette
