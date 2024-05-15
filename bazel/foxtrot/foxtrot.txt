@@ -6752,7 +6752,6 @@ fogyish
 fogless
 fadding
 fogman
-fogmen
 fuseless
 fogo
 fogon
@@ -9975,6 +9974,7 @@ fricace
 fricandeaux
 fribby
 foozlers
+fogmen
 flounces
 fletton
 fortress
