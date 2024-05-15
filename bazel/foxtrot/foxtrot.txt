@@ -3288,7 +3288,6 @@ facecloth
 foism
 foldwards
 faradizer
-fidate
 flaught
 flocculently
 forficated
@@ -8680,6 +8679,7 @@ farsang
 ficus
 forthinking
 febrifuge
+fidate
 frankhearted
 filmiest
 florescence
