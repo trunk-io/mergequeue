@@ -3373,7 +3373,6 @@ germanization
 gabback
 guillemot
 germanized
-germanizer
 germanness
 germinant
 genapped
@@ -8703,6 +8702,7 @@ greenroom
 greensauce
 goldstone
 gentilism
+germanizer
 glucosuric
 glyceryls
 grantee
