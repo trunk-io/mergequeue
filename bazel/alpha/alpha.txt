@@ -4602,7 +4602,6 @@ adventitial
 adventitious
 antialbumose
 adventitiousness
-adventive
 adventively
 adventry
 apaesthesia
@@ -18290,6 +18289,7 @@ abampere
 acidemias
 aquavit
 abjudication
+adventive
 amphithuron
 aquavits
 aqueducts
