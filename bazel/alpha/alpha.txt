@@ -1587,7 +1587,6 @@ accommodativeness
 aliet
 accommodators
 accomodate
-accompanable
 arrivage
 accompanier
 australorp
@@ -24756,6 +24755,7 @@ angioasthenia
 alexines
 avidity
 avidities
+accompanable
 avidly
 avidnesses
 avidous
