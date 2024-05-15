@@ -2206,7 +2206,6 @@ gastrotomy
 gorrel
 geadephaga
 geal
-gubernacula
 gurish
 genocides
 gnathites
@@ -3873,6 +3872,7 @@ guideless
 gynospore
 goff
 greenbugs
+gubernacula
 giddybrain
 giddied
 guitarfishes
