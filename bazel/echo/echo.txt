@@ -5497,7 +5497,6 @@ englifier
 experimentarian
 etherlike
 enheritance
-enfeoffing
 episcopant
 enfeoffment
 enfester
@@ -11652,6 +11651,7 @@ evonymuses
 evulgate
 electroencephalographically
 equiradiate
+enfeoffing
 evulsion
 evulsions
 ewe
