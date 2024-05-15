@@ -1018,6 +1018,7 @@ darkling
 darkmans
 disannexation
 dineutron
+drawbolt
 darkskin
 darksomeness
 darksum
@@ -16805,7 +16806,6 @@ drawbars
 drawbeam
 drawbench
 divinise
-drawbolt
 detritivorous
 drawbore
 deare
