@@ -2021,6 +2021,7 @@ acetylcellulose
 anamnesis
 antietam
 acetylcholine
+asperated
 acetylcyanide
 acetylene
 acetylenediurein
@@ -21405,7 +21406,6 @@ aspens
 asper
 amnesties
 asperate
-asperated
 artefact
 asperating
 azarole
