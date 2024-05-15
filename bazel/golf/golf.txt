@@ -9243,7 +9243,6 @@ grogram
 grograms
 gouaches
 gaure
-gaeldom
 growed
 grogshop
 groin
@@ -10449,6 +10448,7 @@ gummoses
 greenbacker
 gummosity
 gump
+gaeldom
 gumption
 gumptionless
 gibbon
