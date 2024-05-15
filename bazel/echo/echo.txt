@@ -6882,7 +6882,6 @@ electroscopes
 eightsmen
 entomosporium
 endangered
-effluents
 entomostraca
 enramada
 entomostracan
@@ -13440,6 +13439,7 @@ equivocate
 extramorainal
 expurgated
 expurgational
+effluents
 ethan
 expurgations
 epoxy
