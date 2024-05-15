@@ -6451,7 +6451,6 @@ ensures
 ensuring
 equators
 enswathe
-expelling
 enswathement
 encephalola
 enswathes
@@ -11074,6 +11073,7 @@ epiclastic
 eurygaea
 epiphyllospermous
 euryhaline
+expelling
 ecart
 editorializations
 expertizing
