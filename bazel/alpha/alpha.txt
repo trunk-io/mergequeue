@@ -12215,7 +12215,6 @@ anchisaurus
 aegirite
 anchistea
 anchithere
-anchor
 anchorable
 anchorages
 anchorate
@@ -17660,6 +17659,7 @@ appeasement
 anhydrize
 appeasements
 abbotship
+anchor
 appeaser
 anthracaemia
 aretes
