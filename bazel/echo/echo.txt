@@ -3058,7 +3058,6 @@ exteriorization
 elliptical
 elliptically
 ellipticalness
-ellipticity
 extemporize
 elliptograph
 elliptoid
@@ -5108,6 +5107,7 @@ entresol
 endoergic
 endoesophagitis
 elephants
+ellipticity
 endofaradism
 endogamic
 economists
