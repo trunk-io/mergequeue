@@ -6972,7 +6972,6 @@ cementoblast
 cementoma
 cements
 cementwork
-cemetaries
 cemetery
 cemeterial
 ceratinous
@@ -24946,6 +24945,7 @@ castelet
 corallum
 corallus
 caelum
+cemetaries
 coralroot
 corals
 coram
