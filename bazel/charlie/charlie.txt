@@ -6039,6 +6039,7 @@ cativo
 catkin
 catkinate
 catkins
+comparator
 catlap
 curatory
 catlike
@@ -28827,7 +28828,6 @@ cresswort
 crest
 counterbalance
 congrue
-comparator
 crestal
 crestfallen
 crestfallenly
