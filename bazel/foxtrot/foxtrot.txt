@@ -3481,7 +3481,6 @@ femes
 foreskirt
 flacker
 fight
-fightable
 fingerable
 fatiguable
 forel
@@ -7989,6 +7988,7 @@ foreshortened
 feedings
 fringillaceous
 follied
+fightable
 foreshot
 foreshow
 foreshower
