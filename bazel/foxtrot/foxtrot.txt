@@ -6449,7 +6449,6 @@ fraterniser
 fluorimetric
 foot
 fluorinated
-fluorinating
 fluorinations
 forebemoan
 financiered
@@ -8432,6 +8431,7 @@ formally
 formalness
 formamide
 formamidine
+fluorinating
 fatter
 francomania
 formanilide
