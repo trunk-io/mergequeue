@@ -3525,7 +3525,6 @@ defogged
 dehortatory
 disyllable
 defoggers
-deluder
 defogging
 defogs
 defoil
@@ -15367,6 +15366,7 @@ diversicolored
 domicella
 domicil
 domicile
+deluder
 domiciled
 domicilement
 domiciles
