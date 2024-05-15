@@ -562,7 +562,6 @@ damascened
 dagesh
 damascener
 disinflating
-damascening
 dipterad
 damascus
 disfranchiser
@@ -3866,6 +3865,7 @@ deyhouse
 defail
 deil
 deils
+damascening
 disjecting
 duplexed
 deimos
