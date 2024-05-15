@@ -3223,7 +3223,6 @@ dunlop
 defect
 decontrols
 draughtily
-defecters
 defectibility
 denshire
 defectible
@@ -12211,6 +12210,7 @@ disfunction
 declaratively
 dennstaedtia
 dendrochronological
+defecters
 dysfunctional
 dysfunctioning
 disability
