@@ -4354,7 +4354,6 @@ embrasure
 eeyuck
 enantiomorph
 espringal
-enantiomorphy
 enantiomorphic
 ensconce
 eolopile
@@ -6765,6 +6764,7 @@ eta
 enthusiastly
 excellences
 excursionary
+enantiomorphy
 enticements
 exorbitantly
 earwiggy
