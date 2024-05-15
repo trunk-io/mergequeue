@@ -3728,7 +3728,6 @@ batteaux
 bonnering
 batteling
 bratticer
-bascule
 battels
 battement
 basisolute
@@ -8709,6 +8708,7 @@ boukit
 branded
 brachiofacial
 billfish
+bascule
 billfishes
 bearskin
 billfolds
