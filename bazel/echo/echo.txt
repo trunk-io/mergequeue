@@ -7523,7 +7523,6 @@ eyebrow
 epicarides
 employs
 epicarp
-epicarps
 ectoprocta
 espiglerie
 exocarp
@@ -7575,6 +7574,7 @@ epicycle
 epicyemate
 experiments
 epicier
+epicarps
 excurvate
 enfeoffs
 epicleidian
