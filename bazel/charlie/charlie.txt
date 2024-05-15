@@ -14776,7 +14776,6 @@ cystomyoma
 cystomyxoma
 cystonectae
 cystonephrosis
-cystoneuralgia
 cystoparalysis
 cystophora
 cathood
@@ -31415,6 +31414,7 @@ curpel
 curpin
 curple
 curr
+cystoneuralgia
 crawful
 collarino
 calcites
