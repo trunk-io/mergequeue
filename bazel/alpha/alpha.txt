@@ -11991,7 +11991,6 @@ auberges
 anarchial
 acanthosis
 anarchic
-anarchical
 anarchically
 anarchies
 affrights
@@ -12325,6 +12324,7 @@ andante
 andantini
 allopatric
 andantino
+anarchical
 andantinos
 andaquian
 andaste
