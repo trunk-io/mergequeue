@@ -6214,7 +6214,6 @@ caudocephalad
 ceile
 clappering
 caudodorsal
-caudofemoral
 caudolateral
 centetidae
 caudotibialis
@@ -7449,6 +7448,7 @@ cleansing
 cephalomere
 cyclostylar
 cephalometer
+caudofemoral
 cephalometric
 cephalomotor
 clysis
