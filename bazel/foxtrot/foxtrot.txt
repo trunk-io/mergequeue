@@ -1356,7 +1356,6 @@ fleeced
 fittable
 finds
 flauntier
-fatalities
 fatally
 flap
 foreturn
@@ -3943,6 +3942,7 @@ flabrum
 finessed
 forfeiture
 fluoresces
+fatalities
 finesser
 feedbacks
 fidelia
