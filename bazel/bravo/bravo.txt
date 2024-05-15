@@ -3771,6 +3771,7 @@ batterman
 batters
 batty
 barny
+boreable
 battycake
 battier
 batties
@@ -13008,7 +13009,6 @@ bordure
 buckbeans
 bordures
 butein
-boreable
 boread
 boreal
 branchedness
