@@ -5671,7 +5671,6 @@ gtd
 gestio
 girsh
 geophysical
-generality
 gumi
 globuliform
 gefilte
@@ -8666,6 +8665,7 @@ greengrocers
 governess
 greasily
 grabbled
+generality
 garages
 gloomingly
 grayed
