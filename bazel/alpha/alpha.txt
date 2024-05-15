@@ -4774,7 +4774,6 @@ aedicula
 aediculae
 aedicule
 aedile
-adject
 aediles
 aedileship
 albuminizing
@@ -14819,6 +14818,7 @@ antibreakage
 ammonolyzed
 antibridal
 antibromic
+adject
 antibubonic
 antibug
 agronomics
