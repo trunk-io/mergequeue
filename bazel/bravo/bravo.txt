@@ -2449,7 +2449,6 @@ borderside
 bareboats
 barrener
 bareboned
-bemuffle
 bareca
 barefaced
 bombacaceous
@@ -13904,6 +13903,7 @@ boxfuls
 boxhauled
 brierberry
 boxhauling
+bemuffle
 boxhauls
 boxhead
 boxy
