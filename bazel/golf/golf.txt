@@ -6676,6 +6676,7 @@ giroflore
 gomphodont
 gymnorhina
 gimmerpet
+gold
 gonadal
 galvanizer
 gastroxynsis
@@ -7963,7 +7964,6 @@ gastrulas
 grangerizer
 grangerizing
 gonadotrophic
-gold
 glassier
 gusain
 grangousier
