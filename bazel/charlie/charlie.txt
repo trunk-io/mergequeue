@@ -29230,7 +29230,6 @@ cryptanalyzed
 cryptanalyzing
 cryptarch
 cryptarchy
-crypted
 crypteroniaceae
 cryptesthetic
 cryptic
@@ -31859,6 +31858,7 @@ cutter
 cutterhead
 cutters
 cutthroat
+crypted
 cutty
 classicize
 cuttyhunk
