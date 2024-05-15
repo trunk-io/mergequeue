@@ -6383,7 +6383,6 @@ agrace
 ailurophobe
 ahold
 appoints
-agrafes
 agraffe
 analemmatic
 agral
@@ -13488,6 +13487,7 @@ annaly
 annalia
 annaline
 antigrammaticalness
+agrafes
 apathetic
 annalistic
 axoneuron
