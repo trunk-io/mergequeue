@@ -4824,6 +4824,7 @@ galleass
 gise
 galempung
 gooier
+gibbles
 gisel
 gisement
 glazily
@@ -7973,7 +7974,6 @@ granitite
 granitization
 granitized
 granitizing
-gibbles
 grumbly
 granitoid
 granitoidal
