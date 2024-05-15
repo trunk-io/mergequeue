@@ -4008,6 +4008,7 @@ beachhead
 behavers
 beachheads
 brand
+brieflessly
 bnf
 basely
 beaching
@@ -15279,7 +15280,6 @@ bot
 blastoporphyritic
 bandylegged
 blisterwort
-brieflessly
 balize
 briefly
 briefness
