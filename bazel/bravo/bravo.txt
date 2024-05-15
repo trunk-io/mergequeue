@@ -62,7 +62,6 @@ babeldom
 babelet
 babelish
 barouches
-bluestoner
 babelism
 bongar
 bendell
@@ -9226,6 +9225,7 @@ biosystematic
 bradylexia
 biosocial
 biosociology
+bluestoner
 bullshots
 biosociological
 biosome
