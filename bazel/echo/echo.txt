@@ -5799,7 +5799,6 @@ endocarditic
 engulf
 epicardial
 enlargedly
-euthyroid
 engulfing
 episcopalian
 enhaemospore
@@ -11500,6 +11499,7 @@ evernioid
 encephalosis
 evert
 echinorhinidae
+euthyroid
 evertebrata
 ependymary
 everting
