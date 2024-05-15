@@ -108,7 +108,6 @@ ebauche
 enumerate
 earphone
 equijacent
-earpick
 earpiece
 earplugs
 enchisel
@@ -8559,6 +8558,7 @@ equalizes
 equalling
 eluder
 eggheadedness
+earpick
 equanimously
 equanimousness
 endomictic

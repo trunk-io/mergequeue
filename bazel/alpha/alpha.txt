@@ -3257,7 +3257,6 @@ actorship
 actress
 actresses
 acts
-aminic
 actu
 actualisation
 actualise
@@ -6706,6 +6705,7 @@ askewness
 apterous
 amphoriskos
 apatosaurus
+aminic
 aiguellette
 antidomestically
 aiguille
