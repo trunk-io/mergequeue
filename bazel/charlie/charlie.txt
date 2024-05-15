@@ -576,6 +576,7 @@ caduac
 cruiseway
 chirographic
 caduca
+cart
 catalineta
 caducean
 caducecei
@@ -4914,7 +4915,6 @@ caviteno
 csi
 cytoblastematous
 carstone
-cart
 counterpoising
 chromatinic
 cartable
