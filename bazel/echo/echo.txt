@@ -5323,7 +5323,6 @@ endotheliomas
 endotheliomata
 encampment
 economically
-endotheliomyoma
 esquiline
 empyreum
 endotheliulia
@@ -8689,6 +8688,7 @@ epithecal
 equipedal
 enormity
 euchroite
+endotheliomyoma
 enchondromas
 evolutional
 equipendent
