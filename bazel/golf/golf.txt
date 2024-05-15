@@ -2583,7 +2583,6 @@ genapping
 genarch
 galenian
 guildite
-gossaniferous
 geranomorphic
 gendarmery
 geobotanical
@@ -2884,6 +2883,7 @@ gecko
 guzzledom
 gabelled
 gismos
+gossaniferous
 gomasta
 gentilitian
 gastroplication
