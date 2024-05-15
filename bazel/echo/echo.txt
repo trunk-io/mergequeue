@@ -6514,7 +6514,6 @@ enaction
 entelam
 entelechies
 entelodont
-entender
 edgewise
 erzahler
 entendre
@@ -11097,6 +11096,7 @@ eurypterida
 extine
 extraregular
 embellish
+entender
 eurypteroidea
 eurypterus
 euripupi
