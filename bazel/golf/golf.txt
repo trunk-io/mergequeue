@@ -4260,7 +4260,6 @@ guddler
 gymnospore
 grandfather
 glotum
-gymnosporous
 ges
 gymnostomata
 grotesquery
@@ -9494,6 +9493,7 @@ gem
 gloving
 grouser
 gigantocyte
+gymnosporous
 gnomonical
 gaed
 gospel
