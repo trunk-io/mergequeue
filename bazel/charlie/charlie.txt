@@ -5887,7 +5887,6 @@ cambists
 catgut
 cath
 catha
-capillatus
 convolutionary
 classman
 cathay
@@ -20171,6 +20170,7 @@ clypeastroidea
 commissure
 commissurotomy
 commissurotomies
+capillatus
 commistion
 caulite
 commit
