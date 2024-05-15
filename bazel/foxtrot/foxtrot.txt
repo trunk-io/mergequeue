@@ -1397,6 +1397,7 @@ fatherly
 fatherlike
 fathership
 forswore
+farmscape
 flown
 ferrotyped
 frontways
@@ -7943,7 +7944,6 @@ foresail
 frigidity
 farl
 foresails
-farmscape
 fibered
 forescene
 forescent
