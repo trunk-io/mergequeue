@@ -5950,7 +5950,6 @@ geaster
 glucagon
 gladify
 guarea
-glucagons
 gate
 gynoecium
 glucate
@@ -9489,6 +9488,7 @@ grouseberry
 groused
 gonglike
 gulpy
+glucagons
 grouselike
 gem
 gloving
