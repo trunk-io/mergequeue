@@ -15346,7 +15346,6 @@ clairsentient
 conceder
 clairvoyance
 clairvoyances
-clairvoyancy
 clairvoyant
 clairvoyantly
 clays
@@ -29358,6 +29357,7 @@ cryptorchis
 corebox
 cryptorchism
 cadential
+clairvoyancy
 cryptorrhetic
 coldcock
 cryptos
