@@ -6718,7 +6718,6 @@ fausen
 fiendlier
 fofarraw
 flanger
-fog
 faqirs
 feted
 fogbank
@@ -9400,6 +9399,7 @@ freewoman
 fluxility
 francolin
 fontainea
+fog
 francolite
 franconian
 francophil
