@@ -591,7 +591,6 @@ compunctions
 caducibranchiata
 caducibranchiate
 caducities
-caducous
 caduke
 cadus
 cadwal
@@ -1862,6 +1861,7 @@ cambresine
 conscientiously
 chymified
 cambric
+caducous
 cambricleaf
 cambrics
 colobus
