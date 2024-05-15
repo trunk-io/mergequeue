@@ -2157,6 +2157,7 @@ glavering
 gawn
 gateways
 gapo
+grecoue
 gardenize
 gazabo
 gazabos
@@ -8603,7 +8604,6 @@ guernseyed
 goosing
 guardless
 galerus
-grecoue
 grecque
 gnu
 galeass
