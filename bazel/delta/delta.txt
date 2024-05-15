@@ -7630,7 +7630,6 @@ devata
 devaul
 deoxygenating
 devaunt
-devchar
 degaussed
 deveined
 desmidiales
@@ -17793,6 +17792,7 @@ desoxycorticosterone
 duck
 depa
 duckbill
+devchar
 duckstone
 dossing
 duckblind
