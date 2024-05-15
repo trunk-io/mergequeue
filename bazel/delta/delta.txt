@@ -8411,7 +8411,6 @@ dialyzer
 dialyzes
 dispell
 dialkylamine
-detentes
 diallage
 diallagic
 diallagite
@@ -9270,6 +9269,7 @@ death
 diestrous
 drawbridge
 diestrums
+detentes
 drupaceae
 disambiguations
 diestruses
