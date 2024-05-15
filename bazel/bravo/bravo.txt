@@ -1642,6 +1642,7 @@ balloted
 balloter
 betrayal
 balloters
+bastings
 blowsy
 brancher
 balloting
@@ -3455,7 +3456,6 @@ bastinado
 bastinadoed
 bastinadoing
 basting
-bastings
 bastion
 blendure
 builtin
