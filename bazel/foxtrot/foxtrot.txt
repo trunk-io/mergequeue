@@ -4102,7 +4102,6 @@ ferth
 fiords
 fiorin
 fiorite
-fontanel
 featherwood
 fluidrams
 flywheel
@@ -4304,6 +4303,7 @@ freestanding
 facia
 first
 forbearer
+fontanel
 forestian
 feerie
 focally
