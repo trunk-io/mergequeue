@@ -1779,6 +1779,7 @@ foetor
 frustule
 featherbedded
 fistulana
+fuses
 featherbird
 foreshore
 floorman
@@ -6178,7 +6179,6 @@ feigner
 fetidity
 flouts
 foredoor
-fuses
 furdle
 flowable
 foresaw
