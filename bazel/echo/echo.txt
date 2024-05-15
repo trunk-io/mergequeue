@@ -8071,7 +8071,6 @@ endamebic
 epiphyll
 exosporal
 elemi
-epiphysis
 empeopled
 emerize
 epiphytic
@@ -8732,6 +8731,7 @@ equiseta
 escopet
 equisetaceous
 epicondylar
+epiphysis
 ecstatics
 equisetales
 esthesiogenic
