@@ -8190,7 +8190,6 @@ efflorescence
 empowered
 episiostenosis
 episiotomy
-epicondylitis
 episiotomies
 episkeletal
 episode
@@ -12552,6 +12551,7 @@ ecologist
 exilian
 engrossing
 encyclopedically
+epicondylitis
 encoder
 escheatable
 exility
