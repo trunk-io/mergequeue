@@ -2494,7 +2494,6 @@ electrolyser
 electromassage
 esquireship
 efficaciousness
-endocritic
 electrometallurgy
 electrometallurgist
 electrometer
@@ -8825,6 +8824,7 @@ eventuations
 exallotriote
 erasion
 elod
+endocritic
 extrasacerdotal
 ensellure
 eight
