@@ -5757,7 +5757,6 @@ engrails
 engrained
 encyrtid
 epizoicide
-engrainer
 engraining
 endict
 evans
@@ -9738,6 +9737,7 @@ espacement
 espada
 externity
 espadon
+engrainer
 espadrilles
 espagnole
 elaeagnus
