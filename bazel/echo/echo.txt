@@ -1450,7 +1450,6 @@ enarthrosis
 electrometric
 effulge
 esthesiography
-effulgence
 effulgences
 effulgent
 endosmotic
@@ -8344,6 +8343,7 @@ elvan
 exopterygotic
 epitheliosis
 epitheliotoxin
+effulgence
 enheritage
 excursional
 episthotonos
