@@ -1455,6 +1455,7 @@ balinghasay
 balistarii
 balister
 beefish
+boxhaul
 balistes
 balistid
 balistidae
@@ -7131,7 +7132,6 @@ besmutted
 besmutting
 besnare
 bespouses
-boxhaul
 biosynthesis
 boma
 baronage
