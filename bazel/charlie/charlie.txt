@@ -16262,7 +16262,6 @@ clinicians
 condensations
 cask
 clinicopathological
-clinkant
 clinkered
 clinkerer
 clinkery
@@ -17619,6 +17618,7 @@ coccosphere
 concrescent
 coccosteid
 coccosteidae
+clinkant
 chicos
 creativeness
 coccosteus
