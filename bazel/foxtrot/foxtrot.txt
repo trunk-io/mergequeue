@@ -4992,7 +4992,6 @@ ferries
 fedelini
 forehatchway
 flannels
-flanque
 faconne
 flapdock
 fluvialist
@@ -10759,6 +10758,7 @@ frutescence
 frumpish
 foreween
 fabraea
+flanque
 frumpishly
 frumpishness
 forespake

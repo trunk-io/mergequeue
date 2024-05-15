@@ -2530,6 +2530,7 @@ beslash
 barging
 bargir
 bassetite
+bittern
 barguest
 barguests
 buzylene
@@ -12269,7 +12270,6 @@ boltonia
 boltonias
 boltonite
 boltrope
-bittern
 boltropes
 bolts
 boltsmith
