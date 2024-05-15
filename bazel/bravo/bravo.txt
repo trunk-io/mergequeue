@@ -1901,7 +1901,6 @@ biostatics
 bandit
 branle
 bandits
-banditti
 bandle
 bandleader
 blastoff
@@ -6986,6 +6985,7 @@ began
 bescrape
 bescreen
 belleek
+banditti
 bescreening
 bescribble
 bucketeer
