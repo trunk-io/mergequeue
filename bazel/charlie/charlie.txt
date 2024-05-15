@@ -3155,7 +3155,6 @@ coverlet
 capewise
 capework
 capeworks
-capful
 caphar
 corsaint
 clistogastra
@@ -14745,6 +14744,7 @@ cystin
 criminology
 cystis
 cystitides
+capful
 cystitis
 coz
 cystoadenoma
