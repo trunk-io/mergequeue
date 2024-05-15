@@ -5077,7 +5077,6 @@ flashlamp
 flapmouthed
 flashlight
 fawner
-forestery
 futilitarian
 forerunnings
 forellenstein
@@ -7277,6 +7276,7 @@ flanderkin
 footprint
 footraces
 fb
+forestery
 footrest
 footrope
 footropes
