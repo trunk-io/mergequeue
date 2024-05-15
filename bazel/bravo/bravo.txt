@@ -3100,7 +3100,6 @@ bucrnia
 bloodcurdler
 baseborn
 birdlime
-blemisher
 basebred
 bacterins
 baseburner
@@ -8363,6 +8362,7 @@ biforine
 biforking
 boehmenist
 biform
+blemisher
 biformed
 berthage
 biformity
