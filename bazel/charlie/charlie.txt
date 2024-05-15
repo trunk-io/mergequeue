@@ -8115,7 +8115,6 @@ crinivorous
 chacte
 chacun
 chad
-chadarim
 chadars
 chadelle
 colloquy
@@ -29348,6 +29347,7 @@ cryptophagidae
 cryptophyceae
 cryptophyte
 cryptophytic
+chadarim
 cryptophthalmos
 cryptopyic
 cryptopin
