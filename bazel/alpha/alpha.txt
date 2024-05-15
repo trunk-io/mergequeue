@@ -1172,7 +1172,6 @@ acacias
 acaciin
 acclimatized
 academe
-academes
 academy
 academian
 academic
@@ -17981,6 +17980,7 @@ appreciatory
 angiophorous
 aegopodium
 appreciators
+academes
 aphlaston
 apogonidae
 appredicate
