@@ -7106,7 +7106,6 @@ besmirchers
 billethead
 besmirchment
 besmoke
-bruiser
 besmoked
 besmokes
 biodynamic
@@ -17010,6 +17009,7 @@ bulbule
 bulchin
 bure
 bulgari
+bruiser
 bulgaria
 bulgaric
 bulge
