@@ -623,7 +623,6 @@ caelus
 caenogaea
 cresson
 caenogenesis
-caenogenetic
 crimpers
 caenostyly
 caenostylic
@@ -6995,6 +6994,7 @@ cotyligerous
 cenizo
 cenobe
 colometrically
+caenogenetic
 cenoby
 cenobian
 cenobies
