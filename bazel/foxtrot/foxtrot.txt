@@ -8529,7 +8529,6 @@ formols
 formosity
 formous
 forthcall
-formoxime
 forms
 formulae
 fard
@@ -10071,6 +10070,7 @@ femalize
 frigidarium
 frumentum
 fedayee
+formoxime
 frigiddaria
 frigidly
 feetage

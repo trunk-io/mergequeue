@@ -8152,7 +8152,6 @@ cardiacea
 chaetophorous
 chaetopod
 caffein
-chaetopodan
 colonalgia
 chaetopterus
 chaetosoma
@@ -14171,6 +14170,7 @@ caecal
 cyprinodont
 cyprinodontes
 cyprinodontoid
+chaetopodan
 cyprinoid
 cyprinoidean
 cyprinus
