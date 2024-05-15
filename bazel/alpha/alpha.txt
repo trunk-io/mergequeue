@@ -2870,6 +2870,7 @@ acrochordon
 acrocyanosis
 acrock
 amyelencephalia
+anticomplex
 acrospore
 acroclinium
 acrocomia
@@ -15031,7 +15032,6 @@ anticommutative
 anticompetitive
 anticomplement
 anticomplementary
-anticomplex
 abiotrophic
 anticonductor
 abstrusion
