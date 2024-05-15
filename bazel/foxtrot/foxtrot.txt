@@ -714,7 +714,6 @@ famille
 formaldehydesulphoxylate
 famine
 famished
-faming
 freewill
 fuliguline
 fired
@@ -5900,6 +5899,7 @@ force
 foolfish
 fertilely
 fumigators
+faming
 florigraphy
 frangent
 factors
