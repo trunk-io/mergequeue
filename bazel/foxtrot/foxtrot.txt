@@ -3606,7 +3606,6 @@ filename
 footgrip
 fixates
 fanons
-forspoken
 fourniture
 filers
 fructification
@@ -9940,6 +9939,7 @@ freud
 freudian
 freudians
 fibrocarcinoma
+forspoken
 freudist
 friand
 factorist
