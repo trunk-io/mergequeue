@@ -8264,7 +8264,6 @@ calliophone
 chairborne
 chairer
 choriomas
-chairing
 carbonarism
 chairlady
 chairladies
@@ -26430,6 +26429,7 @@ cothamore
 cardiant
 cothish
 cerenkov
+chairing
 cothon
 cothouse
 cothurn
