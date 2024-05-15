@@ -277,7 +277,6 @@ dagomba
 dagswain
 daguerrean
 daguerreotype
-daguerreotyped
 deipnosophistic
 daguerreotypic
 daguerreotyping
@@ -7358,6 +7357,7 @@ dethrones
 dwight
 damnable
 deti
+daguerreotyped
 detick
 doorwise
 demasculinize
