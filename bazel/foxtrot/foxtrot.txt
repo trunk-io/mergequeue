@@ -198,7 +198,6 @@ foofaraws
 friskest
 flaky
 frizer
-finitary
 factoring
 foreign
 factoryship
@@ -8822,6 +8821,7 @@ fallacia
 forz
 forzando
 fulgor
+finitary
 fly
 frustula
 fosite
