@@ -19395,7 +19395,6 @@ arenoid
 arenosity
 areographer
 areography
-areographic
 areographical
 areographically
 areola
@@ -20540,6 +20539,7 @@ anathema
 atmidometer
 arteritis
 artesian
+areographic
 artesonado
 artesonados
 artful
