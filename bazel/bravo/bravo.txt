@@ -8276,7 +8276,6 @@ biddableness
 bye
 bieberite
 biedermeier
-bivalencies
 bloodthirsting
 bielbrief
 bloodbird
@@ -11529,6 +11528,7 @@ balladries
 botching
 blurredly
 blamed
+bivalencies
 blurredness
 blurrier
 blurriest
