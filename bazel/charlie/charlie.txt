@@ -6445,7 +6445,6 @@ cavatina
 cavatine
 cavdia
 caretaken
-cave
 cavea
 caveae
 caveat
@@ -7885,6 +7884,7 @@ cervalet
 centaurid
 cervantic
 choosing
+cave
 cervantite
 cervelas
 cruor

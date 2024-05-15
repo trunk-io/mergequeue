@@ -12903,6 +12903,7 @@ disorderer
 dormantly
 disordering
 drupal
+deprecated
 dictery
 dammer
 disorders
@@ -16620,7 +16621,6 @@ dragonflies
 delayage
 dragonhead
 decenary
-deprecated
 dragonhood
 dissimulator
 downily
