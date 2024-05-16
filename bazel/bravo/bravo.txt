@@ -10803,6 +10803,7 @@ blandishes
 blennorrhagia
 brags
 blennorrhinia
+blksize
 blennorrhoea
 blennosis
 blennostatic
@@ -11044,7 +11045,6 @@ burier
 blizzardy
 bankrupted
 blk
-blksize
 bunts
 blo
 bloat
