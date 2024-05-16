@@ -823,7 +823,6 @@ cairngorum
 cairny
 carpogone
 cairns
-chairmaned
 cairo
 cays
 caisse
@@ -26788,6 +26787,7 @@ counterchange
 counterchanged
 countercharged
 countercharm
+chairmaned
 counterclaim
 counterclaiming
 cirriform
