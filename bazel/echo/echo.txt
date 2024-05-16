@@ -1045,7 +1045,6 @@ enslavedness
 electioneered
 excisable
 endoskeleton
-eqpt
 evaniidae
 edgar
 edge
@@ -10374,6 +10373,7 @@ endoscopist
 ethinyls
 ethynyls
 ethiodide
+eqpt
 erpetoichthys
 epilogist
 enspangle
