@@ -11623,7 +11623,6 @@ anaematosis
 arhythmically
 anaemias
 anaemic
-anaemotropy
 anaeretic
 astrometeorologist
 anaerobation
@@ -17227,6 +17226,7 @@ apogee
 apogees
 apogeic
 antimarian
+anaemotropy
 allotropism
 apogeny
 achiever
