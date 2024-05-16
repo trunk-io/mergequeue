@@ -20581,7 +20581,6 @@ compendiums
 compends
 compenetration
 compensability
-compensable
 compensated
 compensates
 compensating
@@ -24638,6 +24637,7 @@ copyhold
 copyholders
 copyholds
 chancily
+compensable
 crum
 copihue
 copihues
