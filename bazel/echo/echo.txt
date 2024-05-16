@@ -7568,7 +7568,6 @@ epichil
 epichile
 epichilia
 epichilium
-evaluators
 epichlorohydrin
 epichondrosis
 eyren
@@ -9365,6 +9364,7 @@ erroneousness
 expositional
 error
 eugeosynclinal
+evaluators
 errordump
 errorist
 entoretina
