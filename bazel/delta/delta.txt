@@ -5273,7 +5273,6 @@ dryopes
 denominable
 dodecuplet
 dion
-decursion
 denominant
 denominate
 denominates
@@ -15103,6 +15102,7 @@ doyenne
 decussorium
 doyens
 disilicid
+decursion
 doiled
 doyley
 doyleys

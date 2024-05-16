@@ -922,6 +922,7 @@ flavor
 fanums
 fanweed
 fanwise
+fatigues
 flintlock
 forefront
 faunistical
@@ -3193,7 +3194,6 @@ flannelflower
 finickily
 frumpiness
 flintifying
-fatigues
 fibromyectomy
 fibromyitis
 frugged
