@@ -10490,6 +10490,7 @@ blasphemed
 blasphemes
 blasphemy
 blasphemies
+bookmobile
 blasphemous
 blasphemously
 blasphemousness
@@ -12723,7 +12724,6 @@ begarie
 bookmarker
 bookmarks
 bimorph
-bookmobile
 bookmobiles
 baroni
 barwise
