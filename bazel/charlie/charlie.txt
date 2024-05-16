@@ -9611,6 +9611,7 @@ checkrowed
 checkrower
 checkrowing
 consummatively
+chromize
 checkrows
 checks
 checkstrap
@@ -12493,7 +12494,6 @@ chromium
 chromiums
 clerisy
 colder
-chromize
 cyanopsia
 contextual
 chromized
