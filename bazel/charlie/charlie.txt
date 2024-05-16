@@ -16310,6 +16310,7 @@ clinoprism
 conterminous
 constrainment
 clinospore
+curvilinear
 clinostat
 clinquant
 clint
@@ -31607,7 +31608,6 @@ curvidentate
 curvifoliate
 curvilinead
 carpingly
-curvilinear
 curvilinearity
 curvimeter
 curvinerved
