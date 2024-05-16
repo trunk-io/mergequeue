@@ -5447,7 +5447,6 @@ dentistry
 dentists
 dentition
 dilating
-dentolabial
 dentolingual
 dentonasal
 dielytra
@@ -12285,6 +12284,7 @@ driblet
 duplicities
 denitration
 diaconia
+dentolabial
 dextrotropic
 diferrion
 discuren
