@@ -2689,6 +2689,7 @@ greige
 generate
 generated
 generater
+gowns
 gurdy
 generations
 generative
@@ -10277,7 +10278,6 @@ gigsman
 gladdener
 ganglioneure
 guessive
-gowns
 groinery
 guytrash
 guittonian
