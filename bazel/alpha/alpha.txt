@@ -2148,7 +2148,6 @@ achariaceae
 acharne
 afrikander
 acharnement
-anaspid
 achate
 achatina
 achatinidae
@@ -13814,6 +13813,7 @@ anonymously
 anonymousness
 anonymuncule
 anoopsia
+anaspid
 anoperineal
 anophele
 anopheles
