@@ -2317,7 +2317,6 @@ geggery
 galax
 gehlenite
 goblet
-guideway
 gey
 gaits
 gallantry
@@ -2484,6 +2483,7 @@ gemination
 geminative
 garmented
 gagsters
+guideway
 gentile
 gemini
 giusto
