@@ -2734,7 +2734,6 @@ deconsider
 determinoid
 deconsideration
 decontaminated
-decontaminates
 decontaminating
 diatessaron
 decontaminations
@@ -13696,6 +13695,7 @@ dissident
 decentered
 dissipations
 dissipator
+decontaminates
 dissipators
 donates
 doffer
