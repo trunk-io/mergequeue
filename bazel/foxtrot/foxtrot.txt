@@ -3914,6 +3914,7 @@ fine
 fineableness
 finebent
 foggage
+followership
 formalised
 fictionise
 fined
@@ -8767,7 +8768,6 @@ forbiddable
 flogged
 fortunetelling
 fortunite
-followership
 fortuuned
 forumize
 forwalk
