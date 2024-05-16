@@ -7140,6 +7140,7 @@ apogeal
 akerite
 aketon
 akha
+angus
 akhara
 akhyana
 astrild
@@ -16388,7 +16389,6 @@ afros
 antitruster
 antituberculin
 antituberculosis
-angus
 antituberculotic
 antituberculous
 antitumoral
