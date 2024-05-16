@@ -5877,7 +5877,6 @@ goings
 glossosteresis
 grimmish
 gabeller
-glosts
 glottal
 gloomy
 grapsoid
@@ -7734,6 +7733,7 @@ gigmanically
 grainfield
 grainiest
 grainless
+glosts
 guapinol
 grainman
 grains
