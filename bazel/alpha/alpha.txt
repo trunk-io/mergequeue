@@ -3326,6 +3326,7 @@ acupunctuation
 annelides
 acupuncturation
 acupuncturator
+anthropopathia
 acupuncture
 abonne
 acupunctured
@@ -14608,7 +14609,6 @@ anthroponomy
 anthroponomics
 anthroponomist
 anthropopathy
-anthropopathia
 aquaplaned
 aestival
 aminotransferase
