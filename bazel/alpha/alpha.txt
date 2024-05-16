@@ -5656,7 +5656,6 @@ afterimages
 afterimpression
 afterings
 afterking
-afterknowledge
 afterlight
 afterlives
 achree
@@ -16604,6 +16603,7 @@ aortae
 ascertained
 aortal
 aortarctia
+afterknowledge
 aortas
 avogadro
 amadis
