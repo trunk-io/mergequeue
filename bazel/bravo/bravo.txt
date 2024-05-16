@@ -3077,6 +3077,7 @@ blenny
 basaree
 basat
 bestness
+bioreaction
 boithrin
 bascinet
 bascology
@@ -9195,7 +9196,6 @@ biorbital
 biophagy
 burling
 byordinary
-bioreaction
 bidented
 brachygraphic
 biorhythm
