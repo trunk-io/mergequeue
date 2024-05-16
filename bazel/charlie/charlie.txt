@@ -24332,6 +24332,7 @@ cookable
 carbureter
 cookbook
 cultivators
+creatable
 classist
 cookee
 corncutting
@@ -28475,7 +28476,6 @@ counterretreat
 consistory
 creasol
 creasot
-creatable
 coffeebush
 cognizability
 crosier
