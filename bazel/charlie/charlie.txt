@@ -10669,7 +10669,6 @@ chiloncus
 chylopericardium
 chylophylly
 chylophyllous
-chylophyllously
 circumspection
 chilopodous
 chilopods
@@ -26707,6 +26706,7 @@ counteractant
 counteracted
 counteracter
 counteractingly
+chylophyllously
 counteraction
 counteractions
 calamumi
