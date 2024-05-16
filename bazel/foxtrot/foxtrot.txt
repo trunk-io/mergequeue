@@ -3956,7 +3956,6 @@ forrue
 figuring
 finfoot
 fasces
-finfoots
 fingal
 fingan
 fisticuffing
@@ -8561,6 +8560,7 @@ fluorographic
 florins
 formulizing
 flapdoodle
+finfoots
 fameless
 fornax
 fornaxid
