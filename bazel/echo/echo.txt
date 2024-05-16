@@ -85,7 +85,6 @@ earmarking
 earmarkings
 epithelioblastoma
 equitation
-exteroceptive
 ethic
 earmuff
 earnable
@@ -8589,6 +8588,7 @@ emperies
 equative
 electre
 equator
+exteroceptive
 etherial
 erase
 equatorial
