@@ -620,7 +620,6 @@ bactericides
 bacteriemia
 bacteriform
 bacterin
-borofluoric
 bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
@@ -1798,6 +1797,7 @@ bambuk
 bambusa
 bambute
 biteless
+borofluoric
 baserunning
 bamming
 bamoth
