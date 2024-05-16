@@ -2833,7 +2833,6 @@ barque
 beebread
 buttonmold
 barrabora
-barracan
 barrace
 barrack
 barracked
@@ -11329,6 +11328,7 @@ baith
 barodynamics
 blowsed
 blueleg
+barracan
 bespoused
 blowsier
 blowsily
