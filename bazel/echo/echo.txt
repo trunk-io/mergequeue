@@ -504,7 +504,6 @@ echea
 eched
 echelle
 extraphenomenal
-echeloned
 estate
 emberizidae
 echeneidae
@@ -4943,6 +4942,7 @@ endemicity
 electrofused
 endemism
 endemisms
+echeloned
 estates
 equiparable
 estipulate
