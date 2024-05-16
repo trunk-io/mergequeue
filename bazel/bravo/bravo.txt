@@ -4247,7 +4247,6 @@ beastman
 beastship
 beat
 beata
-benches
 beatable
 beatably
 beatae
@@ -14504,6 +14503,7 @@ branchlet
 branchman
 bellerophontidae
 brandenburg
+benches
 belly
 brandenburger
 brandenburgh
