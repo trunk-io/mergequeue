@@ -6848,6 +6848,7 @@ ahint
 aircrew
 aircrewman
 aircrewmen
+aortae
 aerophone
 axoplasms
 airdate
@@ -16600,7 +16601,6 @@ assimilate
 aoristically
 aorists
 aorta
-aortae
 ascertained
 aortal
 aortarctia
