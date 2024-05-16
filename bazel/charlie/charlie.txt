@@ -4742,6 +4742,7 @@ carpetwoven
 carphiophiops
 carpholite
 ceiler
+cunit
 cachinate
 carphology
 carphophis
@@ -9852,7 +9853,6 @@ chelonian
 cheloniid
 cheloniidae
 crucialness
-cunit
 chemehuevi
 chemesthesis
 commiseratively
