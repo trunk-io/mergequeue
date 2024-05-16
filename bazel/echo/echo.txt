@@ -8618,7 +8618,6 @@ equidifferent
 equidimensional
 equidist
 equidistance
-embranglement
 equidistribution
 exect
 equidiurnal
@@ -12499,6 +12498,7 @@ exhibitions
 exhaustedness
 excluded
 epicycloid
+embranglement
 exhibitors
 enocyte
 effude
