@@ -2569,6 +2569,7 @@ canes
 caprellidae
 canescence
 canescent
+combflower
 cannibalize
 corticated
 curatical
@@ -19705,7 +19706,6 @@ combes
 clumpier
 chowdering
 combfish
-combflower
 comby
 concealment
 combinability
