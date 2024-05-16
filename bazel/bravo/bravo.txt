@@ -6886,7 +6886,6 @@ bushiest
 berry
 banshee
 bitte
-berrybush
 borocarbide
 berrichon
 busulfan
@@ -11187,6 +11186,7 @@ bacteroidal
 bloodsuckers
 bloodtest
 bloodthirster
+berrybush
 bloodthirstiness
 bloodweed
 burgomaster
