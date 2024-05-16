@@ -10291,7 +10291,6 @@ bocaccio
 blacksnake
 blackstick
 baneful
-bliaut
 ballsy
 blacktongue
 blacktopped
@@ -12504,6 +12503,7 @@ bonesetting
 brushite
 boneshaker
 backbeat
+bliaut
 binders
 bonetail
 bonetta
