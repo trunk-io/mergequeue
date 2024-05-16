@@ -581,7 +581,6 @@ enucleator
 echoed
 echoey
 endemic
-echoencephalography
 echoers
 echogram
 endophyllaceae
@@ -7262,6 +7261,7 @@ endothorax
 eosinoblast
 ennage
 eosinophile
+echoencephalography
 eosins
 eosophobia
 enscrolling
