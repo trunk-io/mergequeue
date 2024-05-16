@@ -3783,7 +3783,6 @@ carbohemoglobin
 calamodendron
 carbohydrase
 cannibalism
-carbohydrate
 cardiotrophia
 carbohydrates
 carbohydraturia
@@ -14404,6 +14403,7 @@ circummure
 circummuring
 circumnavigable
 circumnavigate
+carbohydrate
 circumnavigated
 chyluria
 circumnavigates

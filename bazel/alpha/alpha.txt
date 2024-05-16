@@ -10581,6 +10581,7 @@ amyloidoses
 amyloidosis
 anguille
 amyloleucite
+acquired
 amylolysis
 arkite
 amylolytic
@@ -17973,7 +17974,6 @@ apprehendable
 acetnaphthalide
 apprehended
 anaclisis
-acquired
 apprehending
 antelation
 awan
