@@ -7973,7 +7973,6 @@ dextran
 dextranase
 disallowable
 disguised
-dextrane
 dextrer
 defunctive
 dextrinate
@@ -17672,6 +17671,7 @@ desmodium
 dsname
 dsnames
 dsri
+dextrane
 discriminative
 druery
 defeminization
