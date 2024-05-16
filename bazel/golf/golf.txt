@@ -9812,7 +9812,6 @@ gulley
 griqua
 garrick
 guan
-gletscher
 gaposis
 gonadic
 guanay
@@ -9842,6 +9841,7 @@ growth
 gallivants
 glitteringly
 guardianless
+gletscher
 gerygone
 guanin
 garrisoning
