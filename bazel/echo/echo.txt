@@ -197,6 +197,7 @@ expediteness
 erythritic
 earthslide
 epicarpal
+erythrophore
 earthsmoke
 earthwall
 exhumed
@@ -2323,7 +2324,6 @@ elasmosaur
 eutectic
 emulsifying
 egba
-erythrophore
 episteme
 electrocoating
 electrocolloidal

@@ -9359,7 +9359,6 @@ bullfrogs
 brownie
 bernoo
 berend
-biplane
 bobolink
 biplanes
 biplicate
@@ -15505,6 +15504,7 @@ brisken
 briskened
 brisker
 broadcasted
+biplane
 bouget
 briskest
 beteem
