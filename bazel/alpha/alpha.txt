@@ -12903,7 +12903,6 @@ anglicize
 anglicized
 anglify
 alkalometry
-aporosa
 anglimaniac
 apperceiving
 anight
@@ -18159,6 +18158,7 @@ apronful
 aprons
 apronstring
 amphigenetic
+aporosa
 aproterodont
 antirestoration
 apselaphesis
