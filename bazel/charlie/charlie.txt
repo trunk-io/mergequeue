@@ -7783,7 +7783,6 @@ cermet
 congratulate
 ciceros
 cermets
-commissar
 cern
 cityward
 cerniture
@@ -18897,6 +18896,7 @@ claw
 collaborator
 collaborators
 collada
+commissar
 calligrapher
 colladas
 collage
