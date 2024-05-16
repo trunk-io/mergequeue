@@ -30110,7 +30110,6 @@ crs
 crts
 coccinella
 cru
-crub
 confections
 crosscrosslet
 crubeen
@@ -31531,6 +31530,7 @@ cursores
 curtailments
 curtails
 curtain
+crub
 centrals
 cowlicks
 curtained
