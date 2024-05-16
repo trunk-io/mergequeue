@@ -17750,7 +17750,6 @@ appertain
 athematic
 appertained
 acrose
-appertainment
 agouta
 appertains
 appertinent
@@ -23651,6 +23650,7 @@ aurorally
 antirattler
 aurore
 aurorian
+appertainment
 aurorium
 aurotellurite
 aurothiosulphate
