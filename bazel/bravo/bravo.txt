@@ -11145,7 +11145,6 @@ brawner
 bloodbeat
 berkeleian
 bloodberry
-bezique
 bacchanalia
 befrets
 bullionist
@@ -15231,6 +15230,7 @@ brideweed
 belles
 brachyure
 bridewell
+bezique
 blister
 bridewort
 bedimplies
