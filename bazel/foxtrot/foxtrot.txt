@@ -5118,7 +5118,6 @@ flatness
 farandmen
 favi
 faceting
-flats
 flatted
 flimp
 flattening
@@ -7875,6 +7874,7 @@ forepaws
 foveolets
 fractionisation
 foreplace
+flats
 foreplay
 feudally
 foreplays
