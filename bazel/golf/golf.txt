@@ -4597,7 +4597,6 @@ gorgio
 grandfatherish
 gradine
 griffin
-gipsology
 gypsology
 gypsophila
 gypsophily
@@ -8284,6 +8283,7 @@ grassland
 gedds
 glaswegian
 gremmy
+gipsology
 gallivorous
 gasterosteiform
 gadolinite
