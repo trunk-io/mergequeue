@@ -6469,6 +6469,7 @@ enumerations
 enswathing
 ensweep
 ensweeten
+endocytosis
 ephelis
 ephyra
 executorship
@@ -10039,7 +10040,6 @@ emgalla
 estocada
 ervil
 extensionist
-endocytosis
 estoile
 exude
 expiatoriness

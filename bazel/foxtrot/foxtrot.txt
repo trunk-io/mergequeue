@@ -2244,7 +2244,6 @@ forestate
 felspath
 felstone
 felstones
-framers
 forewinning
 felt
 felted
@@ -8136,6 +8135,7 @@ fibrocrystalline
 fungite
 fretless
 foretop
+framers
 foretopman
 foretopmast
 fellatrix
