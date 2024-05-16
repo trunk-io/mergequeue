@@ -1307,7 +1307,6 @@ bacterioprecipitin
 buffers
 balanopsidales
 balanorrhagia
-balanta
 bottine
 balante
 balantidic
@@ -13825,6 +13824,7 @@ bialveolar
 bowess
 bowfin
 bacterium
+balanta
 bang
 bast
 bowheads
