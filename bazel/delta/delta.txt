@@ -10959,7 +10959,6 @@ dispermy
 dilutor
 disaffections
 disaffiliate
-disaffiliated
 disaffiliation
 dialectologies
 disaffinity
@@ -17397,6 +17396,7 @@ drunken
 ditchbur
 dropheads
 dropkick
+disaffiliated
 dictagraph
 dropkicker
 dropkicks
