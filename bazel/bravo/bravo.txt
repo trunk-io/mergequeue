@@ -3794,6 +3794,7 @@ banderilla
 battlestead
 battlewagon
 belemnid
+blast
 battleward
 bronchiectasis
 behatted
@@ -10497,7 +10498,6 @@ blasphemous
 blasphemously
 blasphemousness
 buttonhole
-blast
 blastema
 blastemal
 buttals
