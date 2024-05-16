@@ -5529,7 +5529,6 @@ bahmani
 beholdingness
 beholds
 behoof
-behoot
 behoove
 behooveful
 behoovefulness
@@ -17945,6 +17944,7 @@ bookplate
 bushelling
 bushelman
 bushelmen
+behoot
 bailies
 bargestone
 bimester
