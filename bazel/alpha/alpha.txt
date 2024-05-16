@@ -1264,7 +1264,6 @@ acanthodes
 acanthodian
 acanthodidae
 acanthodini
-acantholimon
 acanthology
 avowal
 acanthomas
@@ -2733,6 +2732,7 @@ acquittance
 acquitted
 ashkenazim
 acquitter
+acantholimon
 acquophonia
 acrab
 acracy
