@@ -6937,7 +6937,6 @@ airplot
 airport
 airports
 airpost
-airposts
 asst
 airproofs
 aggrieving
@@ -15256,6 +15255,7 @@ antifascism
 antifascist
 antifascists
 antifat
+airposts
 aseptically
 antifatigue
 antifebrin
