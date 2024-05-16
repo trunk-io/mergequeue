@@ -9599,7 +9599,6 @@ banality
 bunkum
 brainfag
 besots
-birthmate
 birthnight
 birthplaces
 backfilled
@@ -12817,6 +12816,7 @@ boon
 brumalia
 boondock
 boondoggle
+birthmate
 boondogglers
 blipped
 boondoggling
