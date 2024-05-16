@@ -10809,7 +10809,6 @@ euhemerising
 euhemerism
 enchained
 euhemerist
-euhemeristically
 euhemerize
 euhemerized
 emacerate
@@ -12781,6 +12780,7 @@ exheredate
 exorcisement
 endoplasm
 exorcises
+euhemeristically
 endosiphonate
 entangler
 exorcising
