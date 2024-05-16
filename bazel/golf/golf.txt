@@ -5111,7 +5111,6 @@ grogshops
 guily
 glandularly
 gorgerin
-glamoured
 girderage
 germanic
 glandules
@@ -7324,6 +7323,7 @@ gossipred
 gossipries
 gossips
 gigmaness
+glamoured
 groupist
 gestor
 galactometry
