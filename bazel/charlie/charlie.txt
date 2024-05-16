@@ -21591,7 +21591,6 @@ concurrentness
 concurring
 concurs
 concursion
-concurso
 concuss
 concussed
 concusses
@@ -22347,6 +22346,7 @@ congratulatory
 congree
 congreet
 congregable
+concurso
 congreganist
 congregant
 congregated
