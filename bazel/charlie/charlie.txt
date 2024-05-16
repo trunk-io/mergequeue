@@ -687,7 +687,6 @@ caffeinic
 caffeins
 caffeism
 colometry
-caffeol
 caffeone
 caffetannic
 caffetannin
@@ -18915,6 +18914,7 @@ collages
 collapsability
 collapsable
 collapsar
+caffeol
 cascado
 collapse
 collapsed

@@ -1082,7 +1082,6 @@ equipper
 edibility
 edible
 expeditive
-exhaustingly
 eumycetic
 expurgatory
 edibles
@@ -13557,6 +13556,7 @@ ethmoiditis
 exsurgent
 exsuscitate
 exponentiated
+exhaustingly
 escheating
 enjoinder
 embroiders
