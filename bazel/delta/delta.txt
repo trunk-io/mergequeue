@@ -540,7 +540,6 @@ damageably
 describent
 demounted
 damaged
-damagement
 damageous
 dao
 damagers
@@ -5484,6 +5483,7 @@ dialysation
 downtrend
 denaturiser
 denumerable
+damagement
 denumerably
 dolling
 denumerant
