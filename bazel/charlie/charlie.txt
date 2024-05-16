@@ -8865,7 +8865,6 @@ convalescency
 chapelgoer
 crenelle
 chapelgoing
-chapeling
 chapelize
 celticist
 chapellage
@@ -9044,6 +9043,7 @@ chargable
 charge
 chargeability
 chargeable
+chapeling
 chimmesyan
 chargeableness
 chargeably
