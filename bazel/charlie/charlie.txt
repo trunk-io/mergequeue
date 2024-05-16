@@ -10072,7 +10072,6 @@ chernites
 chernomorish
 chernozem
 cuprammonia
-chernozemic
 cherogril
 cherokee
 copartaker
@@ -15218,6 +15217,7 @@ clackers
 clacket
 clackety
 clacking
+chernozemic
 clacks
 clad
 cladanthous
