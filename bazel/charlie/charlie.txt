@@ -9983,7 +9983,6 @@ carices
 chemotherapeutical
 clamlike
 chemotherapeutically
-chemotherapeutics
 chemotherapy
 calqued
 cherished
@@ -21330,6 +21329,7 @@ conchyle
 conchylia
 conchyliated
 counterorator
+chemotherapeutics
 conchyliferous
 conchylium
 conchinin
