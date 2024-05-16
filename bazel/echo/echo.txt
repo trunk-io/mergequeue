@@ -5122,6 +5122,7 @@ echeloning
 endogenesis
 exorate
 endogenicity
+earwig
 endogenies
 exundation
 endogenous
@@ -7326,7 +7327,6 @@ evangeliser
 epilemmal
 epappose
 erinaceus
-earwig
 egesting
 environmentalism
 edibile

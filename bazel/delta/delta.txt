@@ -6682,7 +6682,6 @@ desertrice
 deserts
 desertward
 deserve
-deserved
 deservedness
 deserver
 deservers
@@ -8094,6 +8093,7 @@ dhobis
 dysacusia
 dhooley
 dhooly
+deserved
 dowiness
 deuterostomata
 dihexagonal
