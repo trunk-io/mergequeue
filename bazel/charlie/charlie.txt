@@ -19656,7 +19656,6 @@ comprobate
 carillon
 comacine
 comade
-comae
 comagmatic
 comake
 comaker
@@ -25034,6 +25033,7 @@ cordax
 cordeau
 corded
 cordel
+comae
 cordelia
 cordelle
 cordelled
