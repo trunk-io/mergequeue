@@ -5268,7 +5268,6 @@ endocrinologic
 eyr
 evaders
 endosmose
-endosmoses
 eurasiatic
 endosome
 equilibrist
@@ -7439,6 +7438,7 @@ ephemeran
 ephemeric
 ephemerid
 ephemerida
+endosmoses
 ephemeridae
 ephemeris
 ephemeromorphic
