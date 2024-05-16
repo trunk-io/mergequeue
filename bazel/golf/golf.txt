@@ -1470,6 +1470,7 @@ garnishes
 glossanthrax
 garnishment
 garnison
+giglet
 garniture
 grecize
 ganyie
@@ -6721,7 +6722,6 @@ gonenesses
 gladsome
 gonidangium
 gonepoiesis
-giglet
 geod
 grandioso
 gustoish
