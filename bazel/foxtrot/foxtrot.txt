@@ -5385,7 +5385,6 @@ figurativeness
 firmware
 falconer
 fretsome
-foredispose
 fleeter
 fleetest
 fibroses
@@ -6459,6 +6458,7 @@ fluorogen
 fluorometry
 file
 foreseeing
+foredispose
 fluoroscopy
 friendly
 framing
