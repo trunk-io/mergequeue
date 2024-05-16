@@ -4860,7 +4860,6 @@ goodyear
 gitoxin
 galactite
 glick
-gaupus
 grovelers
 gytrash
 greenwood
@@ -5614,6 +5613,7 @@ globally
 greasepaint
 gelsemium
 grandmother
+gaupus
 genuineness
 globefish
 gently
