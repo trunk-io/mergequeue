@@ -3079,6 +3079,7 @@ geographies
 geordie
 grocerdom
 galliardness
+glittery
 geoids
 gladioluses
 geoisotherm
@@ -8256,7 +8257,6 @@ gnarling
 greeniest
 grins
 genovino
-glittery
 garnisher
 grasshouse
 gentlemanlike
