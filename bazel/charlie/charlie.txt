@@ -3881,7 +3881,6 @@ carbonnieux
 carbonometer
 carbonometry
 chondrin
-carbonous
 carbons
 carbonuria
 contradistinguish
@@ -17245,6 +17244,7 @@ coalitioner
 coalitionist
 cleans
 coalitions
+carbonous
 coalize
 coalized
 coinclude
