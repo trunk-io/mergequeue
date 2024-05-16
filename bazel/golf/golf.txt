@@ -1471,7 +1471,6 @@ glossanthrax
 garnishment
 garnison
 garniture
-grecize
 ganyie
 grimace
 garookuh
@@ -4115,6 +4114,7 @@ gillflirt
 glum
 gazetteerage
 gieaway
+grecize
 gillian
 grecianize
 gillie
