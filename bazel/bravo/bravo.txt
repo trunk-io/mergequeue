@@ -1205,7 +1205,6 @@ bakeress
 bakeries
 bakerless
 bakerly
-bakerlike
 bakers
 bakersfield
 bakes
@@ -18352,6 +18351,7 @@ bisectionally
 buttwoman
 butyraceous
 buxaceae
+bakerlike
 buxaceous
 buxbaumia
 buxbaumiaceae
