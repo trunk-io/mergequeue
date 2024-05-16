@@ -9320,7 +9320,6 @@ grooves
 gnomists
 geront
 garotes
-garnishry
 galivant
 gloved
 gozell
@@ -9448,6 +9447,7 @@ gallygaskins
 genteelness
 groundswell
 garni
+garnishry
 gaseously
 gabled
 gramp
