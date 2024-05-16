@@ -4035,7 +4035,6 @@ emphysema
 emetic
 emphyteusis
 endobronchitis
-encipherment
 emphyteutic
 embossers
 emphlysis
@@ -11853,6 +11852,7 @@ exasperatingly
 exasperation
 euchologia
 exauctorate
+encipherment
 etymologised
 exaudi
 ethenoidal

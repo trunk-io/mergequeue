@@ -3145,6 +3145,7 @@ gerbils
 gamelin
 gangliate
 geomorphologically
+gyri
 golliwog
 geomorphologist
 gravelroot
@@ -10857,7 +10858,6 @@ gwely
 geomagnetician
 gauging
 gooey
-gyri
 gestatorium
 graduation
 gwendolen
