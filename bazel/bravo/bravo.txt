@@ -1249,7 +1249,6 @@ bucketsful
 balaenidae
 balaenoid
 bocca
-bambocciade
 bobbies
 balaghat
 balaghaut
@@ -5510,6 +5509,7 @@ behemothic
 behemoths
 behenate
 behenic
+bambocciade
 behest
 bemixed
 behests
