@@ -18476,7 +18476,6 @@ cohesible
 cohesion
 cohesionless
 cohesively
-cohibit
 cohibition
 cohibitive
 cohibitor
@@ -25182,6 +25181,7 @@ cryometer
 chlorophyllaceous
 corfiote
 citatum
+cohibit
 cathartae
 chrysocale
 corge
