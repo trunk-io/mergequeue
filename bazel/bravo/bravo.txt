@@ -7197,7 +7197,6 @@ bespecked
 backrun
 bespeckle
 banner
-bespeckled
 bespectacled
 bogie
 besped
@@ -8128,6 +8127,7 @@ bicyclers
 bicyclic
 bicyclism
 blastaea
+bespeckled
 bicyclist
 bicyclo
 bicycular
