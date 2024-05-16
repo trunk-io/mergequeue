@@ -2074,7 +2074,6 @@ frontspiece
 filacer
 feinter
 feudary
-facedown
 faucalize
 frenches
 feinting
@@ -10160,6 +10159,7 @@ frippery
 forefended
 forecasted
 frankensteins
+facedown
 fris
 fringy
 frisado
