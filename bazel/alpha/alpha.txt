@@ -12548,7 +12548,6 @@ anemotropism
 aggregatae
 anencephalia
 anencephalic
-apochromat
 archpoet
 anencephalous
 arvo
@@ -12586,6 +12585,7 @@ anes
 anesis
 anesone
 anesthesia
+apochromat
 arizona
 armisonant
 anesthesimeter
