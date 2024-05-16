@@ -7774,7 +7774,6 @@ aldane
 alaite
 aldea
 arborist
-antichresis
 aldebaran
 ambiance
 aldebaranium
@@ -14335,6 +14334,7 @@ aramaean
 anthelices
 anthelion
 anthelix
+antichresis
 anthelminthic
 anthem
 anthemas
