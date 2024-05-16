@@ -9029,7 +9029,6 @@ bavary
 biodegraded
 biodegrading
 biodynamical
-biodynamics
 buccinoid
 bocal
 brutalize
@@ -9162,6 +9161,7 @@ biophilous
 biophysic
 branchstand
 biophysiography
+biodynamics
 biophysiology
 biophysiologist
 backfire
