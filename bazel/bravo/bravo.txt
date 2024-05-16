@@ -3900,7 +3900,6 @@ black
 birthbed
 bastinades
 bawdily
-bawdiness
 bullpouts
 batons
 babus
@@ -13230,6 +13229,7 @@ bosslet
 bossship
 bonnyvis
 bevellers
+bawdiness
 beleaf
 bosniac
 bucketfuls
