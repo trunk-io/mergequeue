@@ -12637,7 +12637,6 @@ amphistomatic
 arhatship
 aneuploid
 aneuploidy
-aneuric
 aneurilemmic
 arrayan
 aneurin
@@ -13776,6 +13775,7 @@ anomalistical
 anomalocephalus
 anomaloflorous
 annulata
+aneuric
 anomalogonatous
 anomalon
 anomalonomy

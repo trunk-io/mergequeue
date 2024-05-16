@@ -5470,6 +5470,7 @@ catpipe
 conductances
 casuistries
 casule
+consumptive
 casus
 cat
 catabaptist
@@ -23332,7 +23333,6 @@ consumpted
 consumptible
 consumptional
 consumptions
-consumptive
 consumptively
 coordinates
 consumptives
