@@ -5087,6 +5087,7 @@ gavelkind
 glazy
 glamors
 glamour
+glucosulfone
 granita
 glossary
 glamourless
@@ -6400,7 +6401,6 @@ goblin
 gettable
 gateward
 gunite
-glucosulfone
 griddler
 gasteralgia
 glycohaemia
