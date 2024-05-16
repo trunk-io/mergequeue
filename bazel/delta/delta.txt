@@ -3518,7 +3518,6 @@ deticking
 defog
 defogged
 dehortatory
-disyllable
 defoggers
 deluder
 defogging
@@ -9204,6 +9203,7 @@ died
 dwt
 dabbed
 diedric
+disyllable
 dieffenbachia
 diego
 debatingly
