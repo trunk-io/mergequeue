@@ -737,7 +737,6 @@ ecospecific
 ecosphere
 esteem
 edriophthalmous
-exuvium
 ecotype
 ecotypes
 ecotipically
@@ -8654,6 +8653,7 @@ exchange
 endocannibalism
 enrobers
 embosk
+exuvium
 equilibrative
 equilibria
 equilibrial
