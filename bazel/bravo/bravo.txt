@@ -4184,7 +4184,6 @@ bro
 beelbow
 bearded
 beardfishes
-beswarms
 beardy
 blanchimeter
 bearding
@@ -16966,6 +16965,7 @@ buyouts
 buirdly
 buys
 benzoated
+beswarms
 bukeyef
 beshivering
 bribe
