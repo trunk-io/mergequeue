@@ -3026,6 +3026,7 @@ dreadlessly
 deductions
 deductive
 deductively
+dilute
 deductory
 deducts
 deduplication
@@ -9798,7 +9799,6 @@ dilucid
 diluendo
 diluent
 dilutant
-dilute
 deploring
 dilutedly
 dibrom
