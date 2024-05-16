@@ -11071,7 +11071,6 @@ chirr
 chirre
 chirring
 chirrs
-cordless
 coscoroba
 chirrup
 captions
@@ -26693,6 +26692,7 @@ countability
 countably
 countdom
 countdown
+cordless
 countdowns
 counted
 coalyards
