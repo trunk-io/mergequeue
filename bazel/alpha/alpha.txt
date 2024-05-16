@@ -11332,7 +11332,6 @@ amphotericin
 ampicillin
 antonina
 ampyxes
-ample
 amplect
 amplectant
 ampler
@@ -15757,6 +15756,7 @@ antioxygen
 antioxygenation
 achromatism
 antioxygenator
+ample
 antioxygenic
 armoury
 antiozonant

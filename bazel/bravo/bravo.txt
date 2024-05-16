@@ -11626,6 +11626,7 @@ barspoon
 byres
 brutality
 boatbuilding
+beigy
 boatel
 boatheader
 boathook
@@ -11654,7 +11655,6 @@ boatloading
 boatloads
 boatman
 bowllike
-beigy
 beclown
 boatmanship
 boatmaster
