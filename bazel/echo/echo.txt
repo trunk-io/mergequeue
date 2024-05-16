@@ -287,7 +287,6 @@ enflamed
 eastlins
 eastman
 extraparenchymal
-external
 eccentricity
 eastness
 encephalograph
@@ -12159,6 +12158,7 @@ excrescency
 entophytically
 excrescent
 exon
+external
 eris
 entailable
 excrescential
