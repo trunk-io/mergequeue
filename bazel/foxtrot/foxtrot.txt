@@ -659,6 +659,7 @@ falutin
 falx
 fringefoot
 fam
+flammed
 famacide
 ferromagnet
 fletcherite
@@ -4941,7 +4942,6 @@ flamless
 floorers
 filefish
 flammation
-flammed
 familiarising
 fidac
 feebleheartedly
