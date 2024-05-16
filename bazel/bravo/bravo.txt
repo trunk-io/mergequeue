@@ -1876,6 +1876,7 @@ burdon
 brownism
 brython
 bakehouse
+boatyard
 bandhava
 bandhook
 bandyball
@@ -11629,7 +11630,6 @@ boatel
 boatheader
 boathook
 boathouse
-boatyard
 backbends
 boating
 boatings
