@@ -2827,7 +2827,6 @@ glimpsers
 gasan
 gumshoes
 genoas
-glossological
 gliadins
 guillotine
 gonging
@@ -6098,6 +6097,7 @@ ginkgoes
 garigue
 gymnemic
 geoemtry
+glossological
 gimmicked
 glutaminic
 galliambus
