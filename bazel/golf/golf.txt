@@ -10157,7 +10157,6 @@ guidebooks
 guiser
 giallolino
 guidepost
-guideposts
 guides
 glossophobia
 geroderma
@@ -10689,6 +10688,7 @@ guslee
 gleization
 grumping
 gibed
+guideposts
 goldi
 gratias
 gymnorhininae
