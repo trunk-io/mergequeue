@@ -14301,7 +14301,6 @@ anterofrontal
 anterograde
 anteroinferior
 alismaceae
-anterointernal
 anterolateral
 anterolaterally
 anteromedial
@@ -17662,6 +17661,7 @@ arsonic
 appease
 alclad
 autonomic
+anterointernal
 appeasement
 anhydrize
 appeasements

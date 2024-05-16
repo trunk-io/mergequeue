@@ -5715,6 +5715,7 @@ duennadom
 dephosphorize
 depickle
 depict
+dors
 depicter
 denuclearize
 depicting
@@ -15761,7 +15762,6 @@ dorpers
 dorr
 dorrbeetle
 dorrs
-dors
 doomage
 dorsa
 dentiparous
