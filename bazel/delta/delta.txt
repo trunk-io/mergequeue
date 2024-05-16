@@ -2307,7 +2307,6 @@ dices
 decayer
 decene
 decennal
-decenniad
 decennial
 decennials
 decennium
@@ -15763,6 +15762,7 @@ dorsabdominal
 dorsabdominally
 dipsacus
 dorsal
+decenniad
 dorsale
 daftly
 deponed
