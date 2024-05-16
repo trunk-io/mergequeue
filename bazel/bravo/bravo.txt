@@ -947,7 +947,6 @@ baguettes
 baguio
 baguios
 bagwig
-bagwigged
 bultow
 bogey
 bagwigs
@@ -5098,6 +5097,7 @@ befalls
 battlers
 blazoned
 botfly
+bagwigged
 bloodthirst
 befamilied
 biogeography
