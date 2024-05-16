@@ -4325,7 +4325,6 @@ fourflusher
 freeboot
 fiscalize
 fiscalized
-fixatif
 fischerite
 foresleeve
 friendlies
@@ -10215,6 +10214,7 @@ faki
 frithbot
 frithy
 facula
+fixatif
 feasance
 formiate
 fideles
