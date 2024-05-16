@@ -2913,6 +2913,7 @@ alpiste
 acrometer
 armorproof
 acromia
+assalto
 acromial
 acromicria
 acromimia
@@ -21628,7 +21629,6 @@ assailers
 assails
 axiform
 assays
-assalto
 assam
 ambassadorial
 angareb

@@ -9682,7 +9682,6 @@ bisecting
 bisection
 bisections
 bisectors
-bisectrices
 busybodyness
 bisects
 bisellium
@@ -10228,6 +10227,7 @@ blackguardry
 beseechers
 blackguards
 blackgum
+bisectrices
 bullfighter
 blackgums
 blackheart
