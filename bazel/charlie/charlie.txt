@@ -988,7 +988,6 @@ capuche
 calanque
 calantas
 carnivallike
-chromocenter
 coprincipate
 calapite
 calapitte
@@ -18985,6 +18984,7 @@ collectibles
 collecting
 collection
 collective
+chromocenter
 collectivise
 compensate
 collectivism
