@@ -9764,7 +9764,6 @@ downfield
 didymoid
 dermatocyst
 dillesk
-demantoid
 disconsolacy
 dahms
 deicer
@@ -16459,6 +16458,7 @@ delirate
 diachyma
 drabbish
 drabble
+demantoid
 drabbled
 drabbler
 decumana

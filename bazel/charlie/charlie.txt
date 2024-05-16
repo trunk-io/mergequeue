@@ -11689,7 +11689,6 @@ cholera
 choleras
 choleric
 cholerically
-cricothyroid
 cholericness
 choleriform
 cholerigenous
@@ -25335,6 +25334,7 @@ corms
 corn
 cornaceae
 cornaceous
+cricothyroid
 cornada
 cornage
 cornballs
