@@ -241,7 +241,6 @@ ataxonomic
 abdest
 abdicable
 abdicant
-abdications
 abdicative
 abdicator
 abdiel
@@ -5600,6 +5599,7 @@ alpian
 afterburning
 aftercareer
 aftercast
+abdications
 aftercataract
 afterchance
 afterchurch
