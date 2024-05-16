@@ -6146,6 +6146,7 @@ bemoat
 bilabial
 bemock
 breads
+boost
 bemocking
 blennuria
 bacteriostasis
@@ -12844,7 +12845,6 @@ bertrandite
 baphia
 beauticians
 biuret
-boost
 bromizes
 bedaubed
 booster
