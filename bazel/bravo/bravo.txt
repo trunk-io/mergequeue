@@ -6570,6 +6570,7 @@ bolection
 benzoxyacetic
 benzpinacone
 benztrioxazine
+boardy
 biostratigraphy
 beothuk
 babysitter
@@ -10669,7 +10670,6 @@ bleachfield
 balr
 bleachground
 bedarken
-boardy
 bleachyard
 bleaching
 bleachworks
