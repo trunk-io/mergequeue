@@ -13030,7 +13030,6 @@ cyanic
 cyanicide
 comprehends
 cyanid
-collects
 cyanide
 cyanided
 catamenial
@@ -25661,6 +25660,7 @@ corners
 corporatism
 corporatist
 corporative
+collects
 corporatively
 corporativism
 corporature
