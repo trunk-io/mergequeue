@@ -7072,6 +7072,7 @@ fontlet
 feloness
 foredate
 fonts
+forcipressure
 froisse
 ferinely
 foodful
@@ -7480,7 +7481,6 @@ forthfare
 forjudger
 forspend
 forcipation
-forcipressure
 fishhook
 foy
 feinschmecker
