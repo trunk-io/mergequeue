@@ -8784,7 +8784,6 @@ channellers
 channelling
 commiseratingly
 channels
-channelure
 chanoyu
 chansonette
 chansonnette
@@ -29463,6 +29462,7 @@ crystallite
 crystallites
 crystallitic
 coprides
+channelure
 crystallizability
 cycadofilicinean
 cherishingly
