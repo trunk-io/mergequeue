@@ -2229,6 +2229,7 @@ fazendeiro
 fluorescence
 flogging
 flatfooting
+feetless
 felonwort
 feriae
 fraela
@@ -11549,7 +11550,6 @@ fatwood
 fuselages
 fuselike
 faradiser
-feetless
 fapesmo
 fusibility
 fulgurator
