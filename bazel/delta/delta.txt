@@ -6204,7 +6204,6 @@ derencephalus
 derepress
 derepression
 derequisition
-derestrict
 derf
 derfly
 derfness
@@ -12081,6 +12080,7 @@ discoplacentalia
 disenthralled
 disenthrone
 deaminated
+derestrict
 dicalcic
 disenthronement
 deled
