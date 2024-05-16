@@ -1207,6 +1207,7 @@ dictums
 datatype
 datatypes
 datcha
+demiassignation
 dynamometry
 dragooner
 draftproof
@@ -4572,7 +4573,6 @@ diffinity
 dismisser
 demiangel
 duces
-demiassignation
 demibarrel
 demibath
 demibeast
