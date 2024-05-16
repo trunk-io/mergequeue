@@ -8308,7 +8308,6 @@ demobilize
 diagrammatic
 diagrammed
 divinail
-diagrammer
 diagrammers
 dissertationist
 desonation
@@ -9478,6 +9477,7 @@ discountenance
 digestment
 digestor
 digestory
+diagrammer
 denationalizing
 decide
 dislustering
