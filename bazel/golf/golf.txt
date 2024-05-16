@@ -1798,7 +1798,6 @@ geodetically
 gibbering
 gastrohysteropexy
 gastrointestinal
-grassquit
 gastrojejunostomy
 gastrojejunostomies
 gastrolater
@@ -8105,6 +8104,7 @@ gopura
 grapery
 graperoot
 grapes
+grassquit
 grapeskin
 grapestalk
 grapevines
