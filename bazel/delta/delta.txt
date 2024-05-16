@@ -228,7 +228,6 @@ daffodilly
 drifted
 defining
 daffodillies
-dactylic
 daffodils
 daffodowndilly
 daffs
@@ -2932,6 +2931,7 @@ dortiness
 deerlike
 decurion
 deus
+dactylic
 demented
 decurions
 decurrences

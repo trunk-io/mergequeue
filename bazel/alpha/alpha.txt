@@ -5212,7 +5212,6 @@ aethalia
 aethalioid
 aethalium
 aether
-aethereal
 aromacity
 ahrimanian
 aetheric
@@ -9102,6 +9101,7 @@ alluviation
 anatosaurus
 allhallow
 alluvion
+aethereal
 anemometric
 alluvious
 alluviums
