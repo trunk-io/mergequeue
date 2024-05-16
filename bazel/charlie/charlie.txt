@@ -29778,7 +29778,6 @@ crop
 crophead
 cropland
 croplands
-cropless
 conjugately
 cropman
 croppa
@@ -31381,6 +31380,7 @@ curledly
 centranthus
 curledness
 curler
+cropless
 curlewberry
 canoed
 curlews
