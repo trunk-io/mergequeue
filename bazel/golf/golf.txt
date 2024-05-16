@@ -7320,7 +7320,6 @@ gullishness
 glycerol
 gonfalon
 gossipped
-gerrymandered
 gossipping
 gossipred
 gossipries
@@ -9069,6 +9068,7 @@ gordonia
 grinning
 gravemaster
 griot
+gerrymandered
 genoveva
 gareh
 grammaticalness
