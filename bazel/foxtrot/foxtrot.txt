@@ -269,6 +269,7 @@ fatality
 faddist
 faddists
 fathomable
+feltyflier
 fustee
 foxtrot
 foetors
@@ -2250,7 +2251,6 @@ felt
 felted
 furless
 felter
-feltyflier
 felting
 feltmaker
 ferbams
