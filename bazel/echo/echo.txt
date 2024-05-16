@@ -8613,6 +8613,7 @@ equiconvex
 egrets
 enworthy
 ergatomorph
+expellable
 equicurve
 equid
 equidiagonal
@@ -13028,7 +13029,6 @@ ecstasies
 expeditiousness
 electrolyzable
 expeditor
-expellable
 expellant
 expellee
 expellees
