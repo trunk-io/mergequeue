@@ -10294,7 +10294,6 @@ chiaus
 coaming
 chiauses
 chiave
-chyazic
 chiba
 chibcha
 chibchan
@@ -17910,6 +17909,7 @@ chantage
 coedit
 coedited
 coediting
+chyazic
 coeditors
 column
 coedits
