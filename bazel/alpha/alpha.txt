@@ -13745,7 +13745,6 @@ anoli
 addax
 anolis
 anolyte
-absolutization
 anomala
 aboriginal
 anomaly
@@ -22632,6 +22631,7 @@ athletes
 achenodium
 arthrology
 athletic
+absolutization
 athletical
 athletically
 athleticism
