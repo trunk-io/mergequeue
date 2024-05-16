@@ -3278,7 +3278,6 @@ getatability
 genoese
 grimp
 groats
-geranomorph
 graffage
 gormandizer
 gerard
@@ -8456,6 +8455,7 @@ gravette
 gonakie
 grips
 gourmand
+geranomorph
 gnarled
 gravicembalo
 gravicembalos
