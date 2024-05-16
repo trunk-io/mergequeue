@@ -8790,7 +8790,6 @@ chansonniers
 chant
 chera
 chantecler
-chantey
 chanteyman
 chantepleure
 chanterelle
@@ -19145,6 +19144,7 @@ crystallographer
 cauked
 collocating
 collocation
+chantey
 collocational
 crojiks
 categorizations
