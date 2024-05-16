@@ -2672,6 +2672,7 @@ edaphodont
 electrotherapy
 electrotherapist
 electrotheraputic
+emyds
 electrothermal
 expurgates
 epiperipheral
@@ -3850,7 +3851,6 @@ emication
 emyde
 ecumenicity
 eysoge
-emyds
 emigate
 ecclesiologist
 engendering
