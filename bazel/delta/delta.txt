@@ -995,7 +995,6 @@ darkeys
 dicyanide
 darkening
 darkens
-default
 daffling
 darker
 darkest
@@ -11792,6 +11791,7 @@ discretely
 dogfall
 discreteness
 disjunctions
+default
 distrouser
 dicht
 discretion
