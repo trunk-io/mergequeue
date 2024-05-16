@@ -5709,7 +5709,6 @@ dephlogisticated
 dephlogistication
 duennadom
 dephosphorize
-depickle
 depict
 depicter
 denuclearize
@@ -18486,6 +18485,7 @@ durative
 durax
 durbachite
 durban
+depickle
 diocesans
 decolonisation
 disownable
