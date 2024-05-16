@@ -5488,7 +5488,6 @@ denaturiser
 denumerable
 denumerably
 dolling
-denumerant
 denumerantive
 denumerative
 denunciable
@@ -15284,6 +15283,7 @@ dolorimetrically
 dolorogenic
 daimio
 dissimulating
+denumerant
 dolorous
 divergingly
 dialler

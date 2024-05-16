@@ -492,7 +492,6 @@ essences
 ecgonin
 ecgonine
 exarchs
-exophoric
 echappe
 echappee
 eumerogenesis
@@ -1591,6 +1590,7 @@ ecumenopolis
 eaglets
 eglomise
 exolete
+exophoric
 egocentrically
 entires
 enumerator
