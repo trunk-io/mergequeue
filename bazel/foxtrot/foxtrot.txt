@@ -7221,7 +7221,6 @@ footlights
 frockless
 frisesomorum
 filthless
-fortnight
 fustily
 footlock
 footlocker
@@ -8130,6 +8129,7 @@ fleet
 featherhead
 forethrift
 fulminic
+fortnight
 fire
 focalized
 faithful
