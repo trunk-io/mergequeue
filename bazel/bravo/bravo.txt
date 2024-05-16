@@ -6045,7 +6045,6 @@ blab
 belozenged
 belsire
 beltane
-bactericholia
 bimetalic
 beltcourse
 beltene
@@ -7939,6 +7938,7 @@ balche
 bicephalous
 biface
 bibacity
+bactericholia
 bypasses
 bibation
 beglamour
