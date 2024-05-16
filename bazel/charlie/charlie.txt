@@ -15235,7 +15235,6 @@ cladine
 cladistic
 cladocarpous
 cladocera
-collenchyma
 cladoceran
 cladocerans
 cladocerous
@@ -27542,6 +27541,7 @@ covenanting
 chronal
 covenants
 covent
+collenchyma
 coventrate
 coventry
 coroplast
