@@ -2714,7 +2714,6 @@ betrothals
 barognosis
 barogram
 barograms
-barographic
 bathtubs
 barbiturates
 bioscientific
@@ -11682,6 +11681,7 @@ biotomy
 backmost
 bobadilian
 broadbill
+barographic
 bindles
 bobbejaan
 benthon
