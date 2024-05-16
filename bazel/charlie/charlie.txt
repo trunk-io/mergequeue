@@ -7333,7 +7333,6 @@ cryptococcal
 centuple
 centuples
 chaldese
-centuplicate
 centuplicated
 centuplicating
 civility
@@ -16437,6 +16436,7 @@ cliver
 clivers
 clivis
 clivises
+centuplicate
 clivus
 clk
 clo
