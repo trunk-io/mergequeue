@@ -1143,7 +1143,6 @@ fluoroid
 flocculable
 fictionmonger
 filiated
-farseer
 farset
 farsighted
 flabel
@@ -6165,6 +6164,7 @@ flourless
 faire
 flours
 falcated
+farseer
 forechoir
 fangled
 floridean
