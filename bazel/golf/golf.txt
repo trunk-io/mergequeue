@@ -4899,7 +4899,6 @@ garderobe
 giver
 givers
 gladeye
-glossematics
 gagroot
 gyves
 givingness
@@ -8990,6 +8989,7 @@ guaiocum
 garbs
 grilse
 gunstocks
+glossematics
 grantsmanship
 grassweed
 grimaced
