@@ -3708,7 +3708,6 @@ cosmogonize
 chemics
 caravaner
 caravanned
-chetty
 caravanner
 caravans
 caravansary
@@ -12189,6 +12188,7 @@ chreotechnics
 cubans
 conjecturalist
 chresard
+chetty
 chresards
 chresmology
 chrestomathics
