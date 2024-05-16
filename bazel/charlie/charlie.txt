@@ -3718,7 +3718,6 @@ caravansaries
 caravanserai
 caravanserial
 companeros
-caravel
 condylura
 confuse
 caravels
@@ -29240,6 +29239,7 @@ cryptanalytics
 cryptanalyze
 capybara
 cryptanalyzed
+caravel
 cryptanalyzing
 cryptarch
 cryptarchy
