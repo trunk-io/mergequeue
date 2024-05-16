@@ -2265,6 +2265,7 @@ femaleness
 females
 friseur
 femality
+figary
 frigate
 femcee
 feme
@@ -3462,7 +3463,6 @@ fumiduct
 fiftieth
 forseen
 fiftypenny
-figary
 figaro
 farm
 figeater
