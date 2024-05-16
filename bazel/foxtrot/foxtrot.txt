@@ -2207,6 +2207,7 @@ focoids
 flustra
 fallation
 fellowship
+forgone
 fawnier
 fellowshipped
 firster
@@ -2498,7 +2499,6 @@ ferities
 fulgoridae
 ferkin
 foreboot
-forgone
 filioque
 ferlied
 frangulinic
