@@ -9684,7 +9684,6 @@ freeholders
 freeholdership
 fortifications
 flueman
-fanwe
 fluviograph
 ferias
 fortalice
@@ -11697,6 +11696,7 @@ futuric
 feminines
 flare
 flippancy
+fanwe
 forayers
 foreacquaint
 faiences

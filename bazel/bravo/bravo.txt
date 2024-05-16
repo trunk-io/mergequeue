@@ -1407,7 +1407,6 @@ balductum
 bale
 baleare
 balearian
-bathofloric
 basnet
 balearic
 balearica
@@ -5587,6 +5586,7 @@ beisa
 beisance
 bioscopes
 beyship
+bathofloric
 bribeable
 burled
 beja
