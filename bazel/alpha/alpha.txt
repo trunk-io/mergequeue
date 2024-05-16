@@ -1701,7 +1701,6 @@ annule
 archpresbyter
 accreditations
 accredited
-accreditee
 animal
 accrediting
 accredits
@@ -18137,6 +18136,7 @@ apriori
 apriorism
 aprioristically
 anosphresia
+accreditee
 atrazines
 apriority
 apritif
