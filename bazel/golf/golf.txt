@@ -1306,6 +1306,7 @@ guana
 garb
 garbage
 gastrulated
+gastropyloric
 generall
 grogged
 garbanzo
@@ -2872,7 +2873,6 @@ gigback
 gentiana
 gentianella
 gentianic
-gastropyloric
 gentianose
 grillages
 gentians
