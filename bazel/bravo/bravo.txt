@@ -12763,6 +12763,7 @@ blastoderm
 bookstand
 bookstore
 bookstores
+bioassayed
 beerocracy
 biforked
 baskerville
@@ -14612,7 +14613,6 @@ brassavola
 bolson
 borrichia
 brassbound
-bioassayed
 biacetyl
 brassbounder
 brasse
