@@ -696,7 +696,6 @@ enspell
 ethnocentrically
 exhortatory
 eidently
-econometer
 eutelegenic
 econometrically
 econometrics
@@ -4982,6 +4981,7 @@ endite
 eclairs
 evacuative
 eland
+econometer
 evens
 endleaf
 entomb
