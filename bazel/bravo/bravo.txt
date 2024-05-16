@@ -6837,6 +6837,7 @@ brawler
 bacchiuchii
 bermuda
 bermudas
+bowstaff
 buffoons
 buccinae
 bermudite
@@ -13885,7 +13886,6 @@ bowshots
 bowsie
 bowsprit
 bowsprits
-bowstaff
 brokenhearted
 bowstring
 binoculate
