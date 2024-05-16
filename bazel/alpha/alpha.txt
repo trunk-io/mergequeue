@@ -664,7 +664,6 @@ azumbre
 azoted
 abominations
 abominator
-affably
 abominators
 abomine
 adjacent
@@ -15904,6 +15903,7 @@ antiplatelet
 antipleion
 apolaustic
 antiplethoric
+affably
 antiplurality
 antipodagric
 antipodal
