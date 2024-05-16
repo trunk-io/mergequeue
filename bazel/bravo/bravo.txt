@@ -5986,7 +5986,6 @@ bells
 belltail
 baresarks
 biomicroscopy
-belluine
 babylonish
 bellum
 bigroot
@@ -10616,6 +10615,7 @@ blattid
 bulwand
 bouk
 boomerang
+belluine
 bajada
 bipectinate
 blastemata
