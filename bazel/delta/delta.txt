@@ -6414,6 +6414,7 @@ derms
 ducula
 demurrable
 dern
+digging
 dietary
 derned
 dustmen
@@ -9487,7 +9488,6 @@ disapproval
 diggable
 digged
 digger
-digging
 defeatee
 dight
 dighted
