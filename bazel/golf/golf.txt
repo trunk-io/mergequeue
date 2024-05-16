@@ -3653,7 +3653,6 @@ gainturn
 granza
 graylag
 ghastlier
-glove
 ghastliest
 gatewaymen
 groups
@@ -7900,6 +7899,7 @@ grandity
 gaberloonie
 gamobium
 guidonian
+glove
 gustatorily
 gata
 grandma
