@@ -3568,7 +3568,6 @@ bathes
 bathetically
 bathflower
 bathhouse
-bathhouses
 braggest
 becudgel
 bathycentesis
@@ -9465,6 +9464,7 @@ bullyrook
 birding
 birdland
 birdless
+bathhouses
 beirut
 balbutiate
 birdlife
