@@ -6895,7 +6895,6 @@ cellulomonas
 cellulosed
 celluloses
 cellulosic
-cellulosing
 cellulosity
 cellulosities
 cellulotoxic
@@ -19643,6 +19642,7 @@ colville
 colza
 coating
 colzas
+cellulosing
 com
 coma
 comprobate
