@@ -745,7 +745,6 @@ beglerbey
 badgeless
 berrendo
 badgeman
-barrels
 badger
 breeches
 bogwort
@@ -5804,6 +5803,7 @@ believers
 believes
 blankite
 brooms
+barrels
 biquartz
 believeth
 budge
