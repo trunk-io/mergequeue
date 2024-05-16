@@ -4860,7 +4860,6 @@ excisions
 encumbrance
 excused
 english
-electrometeor
 experientialist
 ectoderm
 engagedly
@@ -10410,6 +10409,7 @@ epispermic
 ethnish
 europa
 elingued
+electrometeor
 erasable
 entoolitic
 email
