@@ -2809,7 +2809,6 @@ graybeards
 genitivally
 grangerized
 grocer
-genitive
 genitocrural
 geniculum
 glug
@@ -7221,6 +7220,7 @@ gormandism
 gormandize
 geodetics
 gormandizes
+genitive
 gangsa
 galacturia
 gwerziou
