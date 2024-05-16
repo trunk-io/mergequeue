@@ -634,7 +634,6 @@ benomyls
 bacterid
 bacteriogenic
 bacteriogenous
-bacteriohemolysin
 benzin
 brin
 bacteriolysin
@@ -17631,6 +17630,7 @@ burgaudine
 burge
 burgee
 burgees
+bacteriohemolysin
 brightwork
 brushball
 baptist
