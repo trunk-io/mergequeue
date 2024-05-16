@@ -6771,6 +6771,7 @@ foil
 foin
 foining
 foiningly
+forebody
 fluorescin
 food
 foins
@@ -7543,7 +7544,6 @@ forebode
 frictionlessness
 foulmouthed
 forebodes
-forebody
 folksongs
 forebodingness
 fleshiest
