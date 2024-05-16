@@ -8498,7 +8498,6 @@ alkalisation
 alkalise
 alkalised
 affrayed
-alkaliser
 alkalises
 audivise
 alkalising
@@ -17148,6 +17147,7 @@ aptyalia
 acroscleroderma
 apocha
 apochae
+alkaliser
 apolog
 apocholic
 apochromatic
