@@ -7174,7 +7174,6 @@ centimos
 centinel
 centipedes
 crossties
-carites
 centiplume
 carrozza
 centistere
@@ -29396,6 +29395,7 @@ chapbooks
 corbeille
 crazedness
 crypturi
+carites
 crypturidae
 cris
 cinemese
