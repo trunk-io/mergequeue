@@ -2260,6 +2260,7 @@ ester
 electrifiers
 europasian
 electrifies
+encallow
 electrifying
 expert
 equilibrity
@@ -4173,7 +4174,6 @@ elaborator
 enchronicle
 excellencies
 empolder
-encallow
 extraessentially
 emporeutic
 egging
