@@ -1219,6 +1219,7 @@ cervices
 calendared
 calendarer
 cameo
+cocoa
 calendarial
 chusite
 calendarian
@@ -17715,7 +17716,6 @@ casel
 chesboil
 cocksfoot
 coco
-cocoa
 cocoach
 cocoanut
 chasing
