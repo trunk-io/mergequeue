@@ -1740,6 +1740,7 @@ flowers
 fractionlet
 fearnought
 foreordaining
+fin
 ficche
 fath
 fearsomeness
@@ -3864,7 +3865,6 @@ fig
 forfit
 fimbrillose
 flabbergastingly
-fin
 fashious
 finagler
 flashlamps
