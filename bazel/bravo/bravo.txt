@@ -2514,6 +2514,7 @@ bargeer
 biogasses
 bergere
 bargehouse
+butterless
 bargelike
 bravura
 bargelli
@@ -13492,7 +13493,6 @@ bouchon
 boucl
 boucle
 boucles
-butterless
 boudeuse
 butterbough
 boudin
