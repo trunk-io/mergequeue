@@ -1737,6 +1737,7 @@ bigotries
 balsamina
 bowmaker
 balsaminaceae
+beneplacit
 balsaminaceous
 balsamine
 balsaming
@@ -10856,7 +10857,6 @@ bedward
 blessed
 boyards
 blessedest
-beneplacit
 blessedness
 blesser
 befriz
