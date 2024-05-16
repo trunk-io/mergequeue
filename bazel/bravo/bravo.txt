@@ -4185,7 +4185,6 @@ beggars
 bowmaking
 bro
 beelbow
-bearded
 beardfishes
 beswarms
 beardy
@@ -7908,6 +7907,7 @@ birchman
 biangulate
 backtalk
 baluchitheria
+bearded
 biangulated
 biangulous
 biannual
