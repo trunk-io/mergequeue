@@ -92,7 +92,6 @@ chars
 cabdriving
 cabecudo
 capellet
-chorogi
 cabeliau
 caber
 cabernet
@@ -17420,6 +17419,7 @@ cobaltamine
 cobaltammine
 cobaltic
 craninia
+chorogi
 cobalticyanic
 crowdweed
 cobalticyanides
