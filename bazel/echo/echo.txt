@@ -1294,7 +1294,6 @@ exopeptidase
 equalled
 effecters
 effective
-embiotocidae
 euryphagous
 epimachinae
 entomologists
@@ -3913,6 +3912,7 @@ emmetropy
 emmetropic
 endplates
 emmetropism
+embiotocidae
 emmett
 emmy
 epilabrum
