@@ -3521,6 +3521,7 @@ defogging
 defogs
 defoil
 dawish
+dicyandiamide
 dorsobranchiata
 defoliants
 defoliate
@@ -8979,7 +8980,6 @@ dichrooscopic
 deficience
 dichroous
 disconanthous
-dicyandiamide
 dicyanin
 dicyanine
 dicyanogen
