@@ -4406,7 +4406,6 @@ bebrave
 bebreech
 bluster
 bebrine
-bebrother
 bebrush
 bemirrorment
 bebusy
@@ -17570,6 +17569,7 @@ burdeners
 burdenless
 burdenous
 bleep
+bebrother
 babeship
 blabs
 banks
