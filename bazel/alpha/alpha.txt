@@ -1890,7 +1890,6 @@ assembles
 acephalous
 anticipatory
 antiepicenter
-akoasma
 adduct
 acephalus
 atridean
@@ -23819,6 +23818,7 @@ authenticate
 authenticated
 authenticates
 authentication
+akoasma
 athetosic
 angularization
 alumbrado
