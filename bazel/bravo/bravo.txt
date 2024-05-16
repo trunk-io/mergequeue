@@ -6359,7 +6359,6 @@ benitier
 bandlimit
 benjamin
 benjaminite
-boletus
 benjamins
 benne
 bennel
@@ -9595,6 +9594,7 @@ birthland
 birthless
 boarfishes
 besaint
+boletus
 birthmark
 biographee
 banality
