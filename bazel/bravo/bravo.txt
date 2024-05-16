@@ -4032,7 +4032,6 @@ business
 bouldery
 beacons
 beaded
-beadeye
 beader
 beady
 beadier
@@ -4658,6 +4657,7 @@ bedcase
 brunneous
 bedchair
 bedchairs
+beadeye
 bellowing
 buntal
 bryophyte
