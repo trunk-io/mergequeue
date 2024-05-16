@@ -4131,7 +4131,6 @@ estancia
 enteromere
 employe
 estado
-eriglossa
 employed
 employee
 endives
@@ -9756,6 +9755,7 @@ elaeagnus
 entitles
 espagnolette
 espaliered
+eriglossa
 eupterotidae
 euchologies
 espaliers
