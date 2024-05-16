@@ -7749,7 +7749,6 @@ cereza
 cerfoil
 coes
 cerialia
-cerianthid
 cerianthidae
 cerianthoid
 calculable
@@ -18192,6 +18191,7 @@ coevally
 coevalness
 crisscross
 coevolution
+cerianthid
 cryochoric
 coevolutionary
 coevolvedcoevolves
