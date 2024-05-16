@@ -8818,7 +8818,6 @@ diffident
 diazoimide
 diazole
 diazoma
-diazomethane
 diazonium
 debasing
 detractor
@@ -16514,6 +16513,7 @@ diallagoid
 dradge
 dilutions
 dottiness
+diazomethane
 dumpfile
 draegermen
 deoxidator
