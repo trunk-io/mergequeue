@@ -2039,6 +2039,7 @@ bankalachi
 bobsleds
 bankbooks
 basti
+battologized
 bankcard
 becrawl
 bankcards
@@ -3804,7 +3805,6 @@ battologised
 battologising
 battologist
 battologize
-battologized
 bookmaking
 battologizing
 berkshire
