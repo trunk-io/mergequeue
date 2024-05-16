@@ -14241,7 +14241,6 @@ anteportico
 anteporticoes
 anteporticos
 anteposition
-anteprandial
 anteprohibition
 ateleiosis
 anteprostate
@@ -14354,6 +14353,7 @@ anthems
 anther
 antheraea
 antheridia
+anteprandial
 antheridium
 antherless
 antherogenous
