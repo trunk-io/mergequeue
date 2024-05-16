@@ -796,6 +796,7 @@ funnellike
 fabricable
 freemasonry
 fanfolds
+fortepiano
 floggable
 fontina
 fang
@@ -1509,7 +1510,6 @@ faubourgs
 faucals
 fractionary
 filmable
-fortepiano
 faucitis
 faucre
 fistulose
