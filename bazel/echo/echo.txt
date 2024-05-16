@@ -10847,7 +10847,6 @@ eyelight
 eulogies
 euphonic
 eulogism
-eulogist
 eulogistic
 eulogistical
 eulogiums
@@ -12340,6 +12339,7 @@ els
 electromeric
 envy
 exemplarism
+eulogist
 echoes
 exemplarity
 exemplars
