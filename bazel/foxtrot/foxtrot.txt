@@ -3289,6 +3289,7 @@ frowstiness
 ferrels
 facecloth
 foism
+fibrosity
 foldwards
 faradizer
 fidate
@@ -6120,7 +6121,6 @@ flotage
 florists
 frondeur
 foregoes
-fibrosity
 forgift
 flotative
 frangula
