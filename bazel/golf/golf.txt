@@ -601,6 +601,7 @@ gallicisms
 gimpy
 gallicize
 gallicizer
+gritrock
 gobletful
 gutturize
 gallify
@@ -9181,7 +9182,6 @@ griths
 grudgingness
 gaolerness
 graphic
-gritrock
 grits
 gritted
 grittie
