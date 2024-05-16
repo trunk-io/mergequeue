@@ -5983,6 +5983,7 @@ bells
 belltail
 baresarks
 biomicroscopy
+banks
 belluine
 babylonish
 bellum
@@ -17575,7 +17576,6 @@ burdenous
 bleep
 babeship
 blabs
-banks
 burdens
 bustards
 bobadilish
