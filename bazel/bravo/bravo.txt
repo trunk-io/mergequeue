@@ -13890,7 +13890,6 @@ baccalaurean
 bowshot
 bowshots
 bowsie
-bowsprit
 bowsprits
 bowstaff
 bowstring
@@ -16451,6 +16450,7 @@ brussel
 brussels
 bugala
 breveted
+bowsprit
 blechnoid
 bestrode
 brustle

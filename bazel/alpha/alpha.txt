@@ -2654,7 +2654,6 @@ acoustically
 acousticolateral
 acousticon
 acousticophobia
-acoustoelectric
 acpt
 acquaint
 acquaintanceship
@@ -16124,6 +16123,7 @@ autoradiographic
 antiroyalism
 antiromantic
 antiromanticist
+acoustoelectric
 alkoran
 antirrhinum
 arbitrages
