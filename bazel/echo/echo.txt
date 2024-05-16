@@ -10412,6 +10412,7 @@ ethnicity
 epispermic
 ethnish
 europa
+ethnics
 elingued
 erasable
 entoolitic
@@ -13861,7 +13862,6 @@ extracurriculum
 extracutaneous
 electropoion
 extradicted
-ethnics
 extradited
 extradomestic
 extrados
