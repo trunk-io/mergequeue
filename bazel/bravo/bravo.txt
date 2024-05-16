@@ -5814,7 +5814,6 @@ beliquored
 beliquors
 belittle
 belittled
-begloomed
 bowieful
 belive
 bifurcous
@@ -15704,6 +15703,7 @@ broddle
 burglaries
 blendcorn
 brodee
+begloomed
 basicities
 brodeglass
 broderer
