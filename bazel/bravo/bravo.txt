@@ -11502,6 +11502,7 @@ blunderbuss
 blunderbusses
 bestare
 bangia
+bashkir
 blunderhead
 beachie
 blackbrush
@@ -17609,7 +17610,6 @@ burette
 blowfishes
 bother
 burettes
-bashkir
 burfish
 burg
 bhima
