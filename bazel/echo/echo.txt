@@ -6306,7 +6306,6 @@ ecotypic
 envenomation
 enscrolls
 ensphered
-eyespot
 enseal
 estrones
 eicosane
@@ -11799,6 +11798,7 @@ examiningly
 example
 exosphere
 exampled
+eyespot
 exampleless
 ectrodactylia
 embliss
