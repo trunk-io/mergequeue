@@ -105,6 +105,7 @@ embarque
 earning
 encrownment
 ebauche
+ecole
 enumerate
 earphone
 equijacent
@@ -684,7 +685,6 @@ esteros
 enanthesis
 ecodeme
 ecol
-ecole
 eidolism
 espousal
 ecology
