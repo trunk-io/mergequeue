@@ -4484,7 +4484,6 @@ ekphorize
 enceinte
 excipule
 entozoology
-explanative
 encense
 enclose
 encenter
@@ -6133,6 +6132,7 @@ enolase
 enolases
 enwrapped
 enolic
+explanative
 enolizable
 enolizing
 enological
