@@ -1763,7 +1763,6 @@ deathwatches
 deathweed
 docent
 deathworm
-disomic
 deaved
 decadently
 dustheaps
@@ -7654,6 +7653,7 @@ deveins
 dryest
 devel
 develing
+disomic
 develop
 developable
 developed
