@@ -5749,7 +5749,6 @@ gars
 grubbiest
 garlicwort
 groma
-glooms
 gloomth
 galingale
 guanosine
@@ -6418,6 +6417,7 @@ gobo
 gobony
 gobs
 gobstick
+glooms
 galipot
 gobstopper
 gerahs
