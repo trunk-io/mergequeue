@@ -199,7 +199,6 @@ daemones
 daemony
 deforesting
 dietics
-dealfish
 daemonistic
 daemons
 daemonurgy
@@ -1855,6 +1854,7 @@ dodecagon
 debiting
 dregless
 dineric
+dealfish
 devirginator
 debitum
 debitumenize
