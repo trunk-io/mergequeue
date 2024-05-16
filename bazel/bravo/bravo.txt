@@ -8358,7 +8358,6 @@ biflorate
 bolshie
 bifluoride
 bifocal
-bifocals
 buffbar
 bifoil
 bifolia
@@ -10636,6 +10635,7 @@ blauwbok
 blawed
 blawing
 blawn
+bifocals
 blaws
 bailie
 befuddles
