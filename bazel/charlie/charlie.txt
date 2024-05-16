@@ -25088,7 +25088,6 @@ choleraic
 cordwoods
 core
 coreceiver
-corecipient
 coreciprocal
 corectome
 cracovienne
@@ -25811,6 +25810,7 @@ corrivality
 corrivalry
 chlorocruorin
 corrivals
+corecipient
 corrivalship
 corrivate
 corrivation
