@@ -15163,7 +15163,6 @@ brickly
 bricklike
 bowlin
 bricklining
-brickmaking
 brickmason
 brockage
 bethylid
@@ -17311,6 +17310,7 @@ boltings
 biomaterial
 bactericidally
 beautifully
+brickmaking
 bumfeg
 bumfuzzle
 bumicky
