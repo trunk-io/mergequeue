@@ -5567,7 +5567,6 @@ energistic
 esophoria
 enforceable
 enforced
-enforcement
 enlisters
 egalitarianism
 etymologicon
@@ -13024,6 +13023,7 @@ electrolyzable
 expeditor
 expellable
 expellant
+enforcement
 expellee
 expellees
 expellent
