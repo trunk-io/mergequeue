@@ -5989,7 +5989,6 @@ depressors
 diversifications
 depressurize
 dere
-deprest
 dechlorination
 depreter
 depriment
@@ -12138,6 +12137,7 @@ diiodid
 diddler
 drapers
 dp
+deprest
 deutoscolex
 deescalates
 dorbie
