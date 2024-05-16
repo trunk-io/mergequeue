@@ -1765,7 +1765,6 @@ baluch
 bitripinnatifid
 brubu
 broquery
-baluchithere
 buses
 biretta
 balun
@@ -7436,6 +7435,7 @@ brazening
 brazera
 bursters
 borides
+baluchithere
 barways
 behorror
 betear
