@@ -2503,6 +2503,7 @@ ferling
 fermail
 fermal
 fermatas
+febricity
 fleshed
 ferme
 frizzle
@@ -4400,7 +4401,6 @@ fishnet
 frank
 fitnesses
 fibroglioma
-febricity
 fishplate
 fossa
 feste
