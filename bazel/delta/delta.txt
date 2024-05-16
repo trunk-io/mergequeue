@@ -6882,7 +6882,6 @@ desmoneoplasm
 desmopathy
 derivative
 desmopathology
-desmopelmous
 desmopexia
 desmopyknosis
 desmorrhexis
@@ -8271,6 +8270,7 @@ dimerlie
 diagenesis
 diageotropic
 diaglyphic
+desmopelmous
 davainea
 disomaty
 ductus
