@@ -2099,7 +2099,6 @@ camphane
 cephalomenia
 camphanic
 camphanone
-camphene
 camphenes
 camphine
 cufflinks
@@ -11633,6 +11632,7 @@ cholecystocolostomy
 cognisability
 crazies
 cholecystoduodenostomy
+camphene
 cholecystogastrostomy
 cholecystogram
 cholecystography
