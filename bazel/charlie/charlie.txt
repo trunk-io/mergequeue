@@ -3589,7 +3589,6 @@ carabiniere
 carabinieri
 carabins
 caraboa
-caraboid
 carabus
 caracal
 caracara
@@ -12446,6 +12445,7 @@ chromatophobia
 chromatophore
 chromatophoric
 canthectomy
+caraboid
 chevroned
 confucianist
 chalukya
