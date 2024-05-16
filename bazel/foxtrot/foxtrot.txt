@@ -3807,7 +3807,6 @@ furnitureless
 fils
 fideists
 fortuneteller
-fashional
 filterability
 finify
 filterableness
@@ -10788,6 +10787,7 @@ foretokened
 frustrative
 frustratory
 flat
+fashional
 frustulent
 frustules
 frustum
