@@ -13807,7 +13807,6 @@ bower
 bowerbird
 bullgine
 bowered
-bowery
 boweries
 bagatelles
 boweryish
@@ -15137,6 +15136,7 @@ brevicaudate
 bribeworthy
 blancs
 batwa
+bowery
 bribing
 bodyweight
 bribri
