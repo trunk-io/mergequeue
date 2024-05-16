@@ -9817,7 +9817,6 @@ breakages
 byssine
 byssinosis
 backslapped
-buildingless
 babble
 boatels
 bioenergetics
@@ -17052,6 +17051,7 @@ boldfaces
 burt
 bulkhead
 bulkheading
+buildingless
 bulky
 bulkier
 bulkiest
