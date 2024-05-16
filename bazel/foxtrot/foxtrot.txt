@@ -9183,7 +9183,6 @@ floristry
 filtratable
 forelive
 forestlike
-filbert
 frabjous
 fracas
 frusta
@@ -11333,6 +11332,7 @@ furciform
 furcilia
 furculae
 fossilogist
+filbert
 feer
 furfuraceous
 forgeability
