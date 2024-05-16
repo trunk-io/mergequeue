@@ -6253,7 +6253,6 @@ gnosis
 gnostic
 glaky
 gnostical
-gnosticity
 geomechanics
 gnostology
 gastrotheca
@@ -7609,6 +7608,7 @@ grade
 graded
 geobotanically
 gnathometer
+gnosticity
 gleary
 grader
 gradgrind
