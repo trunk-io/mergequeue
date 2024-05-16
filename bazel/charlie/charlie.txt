@@ -2187,6 +2187,7 @@ camptodrome
 camptonite
 camptosorus
 campulitropal
+congenator
 cabaan
 campus
 chromatic
@@ -5754,7 +5755,6 @@ catdom
 cate
 catechesis
 catechetic
-congenator
 conduceability
 catechetical
 certy
