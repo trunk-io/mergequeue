@@ -4146,7 +4146,6 @@ fortifyingly
 frogmouth
 firebrick
 firebug
-firebugs
 fanhouse
 flagstones
 fireburn
@@ -10863,6 +10862,7 @@ fraken
 fulfilment
 fashionably
 fulfils
+firebugs
 freshener
 fulful
 fennici
