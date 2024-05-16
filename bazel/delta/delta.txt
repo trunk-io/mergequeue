@@ -2610,7 +2610,6 @@ deco
 dorms
 decoagulation
 decoat
-disproving
 decocainize
 decoct
 decocting
@@ -8081,6 +8080,7 @@ dawing
 dhyana
 dhikrs
 declivate
+disproving
 dhobee
 dhoby
 dhobie
