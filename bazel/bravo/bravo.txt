@@ -3725,7 +3725,6 @@ battailant
 browntop
 blackest
 bally
-battakhin
 bagwoman
 battalias
 battarismus
@@ -16422,6 +16421,7 @@ brushproof
 brushup
 brushups
 brushwood
+battakhin
 brushwork
 batten
 briners
