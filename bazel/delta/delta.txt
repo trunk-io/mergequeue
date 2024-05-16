@@ -1119,7 +1119,6 @@ diporpa
 dashmaker
 dashnak
 dashnakist
-dashplate
 dropflower
 dashpot
 depaint
@@ -17478,6 +17477,7 @@ dagaba
 densation
 dedicate
 dowily
+dashplate
 diazoimido
 drostdy
 drought
