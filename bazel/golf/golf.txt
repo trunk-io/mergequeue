@@ -379,7 +379,6 @@ galactotrophy
 goodhumoredness
 galaginae
 gawcie
-gimballing
 galago
 gedrite
 galahads
@@ -6114,6 +6113,7 @@ grogs
 granolithic
 gluemaker
 glutinative
+gimballing
 glutinosity
 glutinous
 groucho
