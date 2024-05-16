@@ -2940,7 +2940,6 @@ barrier
 barrigudos
 barrikin
 bromophenol
-barriness
 barring
 barringer
 bracteolate
@@ -4198,6 +4197,7 @@ bilicyanin
 bearhugs
 bribery
 bearing
+barriness
 bearish
 broths
 brockages
