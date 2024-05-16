@@ -17935,6 +17935,7 @@ allegiances
 appositely
 appositeness
 apposition
+athelings
 appositional
 afrown
 appositionally
@@ -22559,7 +22560,6 @@ athel
 atheling
 abongo
 anthropoteleological
-athelings
 athenaeums
 atheneum
 atheneums
