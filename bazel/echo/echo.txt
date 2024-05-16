@@ -123,7 +123,6 @@ excitants
 episynaloephe
 eartab
 enneateric
-eartag
 eartagged
 earth
 earthboard
@@ -14081,6 +14080,7 @@ enveloper
 extremis
 extremism
 extremists
+eartag
 extraterritorials
 extremities
 edulcoration
