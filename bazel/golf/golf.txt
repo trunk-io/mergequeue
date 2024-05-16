@@ -1899,7 +1899,6 @@ galoot
 guiltiest
 golandause
 glyptograph
-gastrulate
 gastrulation
 gastruran
 gateage
@@ -7609,6 +7608,7 @@ grade
 graded
 geobotanically
 gnathometer
+gastrulate
 gleary
 grader
 gradgrind
