@@ -385,7 +385,6 @@ galahads
 gynobasic
 graphiology
 galangin
-grating
 goto
 grotty
 grandmamma
@@ -1809,6 +1808,7 @@ garoo
 gallotannin
 gulf
 gastromenia
+grating
 gurdfish
 gastromycosis
 gratefulness

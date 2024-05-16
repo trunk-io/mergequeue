@@ -6333,6 +6333,7 @@ fickler
 fluminous
 freak
 flump
+fly
 flummadiddle
 foraminate
 flummer
@@ -8818,7 +8819,6 @@ fallacia
 forz
 forzando
 fulgor
-fly
 frustula
 fosite
 flunks
