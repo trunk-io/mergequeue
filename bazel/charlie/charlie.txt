@@ -12307,6 +12307,7 @@ casement
 chrysopsis
 chrysosperm
 chrysosplenium
+crossing
 chrysothrix
 chrysotile
 chrysotis
@@ -29893,7 +29894,6 @@ cogwheel
 crosshatching
 crosshaul
 crosshauling
-crossing
 crossings
 crossite
 crossjack
