@@ -5400,7 +5400,6 @@ flemishes
 flensed
 flenser
 fascicule
-flensers
 funnelled
 flenses
 fording
@@ -9274,6 +9273,7 @@ fragmentist
 fidalgo
 fragmentizing
 flex
+flensers
 frame
 forcing
 forsakers
