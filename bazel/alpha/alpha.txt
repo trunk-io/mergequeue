@@ -21616,7 +21616,6 @@ aminotriazole
 aweless
 assoria
 assailed
-assailer
 assailers
 assails
 axiform
@@ -23960,6 +23959,7 @@ autochton
 autocycle
 autocide
 autocinesis
+assailer
 acetylbiuret
 alumnus
 addlins
