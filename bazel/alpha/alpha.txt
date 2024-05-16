@@ -3813,7 +3813,6 @@ adherescence
 anticipatively
 archivolt
 adhering
-adhesion
 adhesional
 adhesive
 adhesively
@@ -11103,6 +11102,7 @@ amphibolous
 amphibrach
 amphibrachic
 amphicarpaea
+adhesion
 amphicarpia
 antiferment
 aprosexia
