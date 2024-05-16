@@ -1658,7 +1658,6 @@ divergency
 deamidase
 dentimeter
 deamidation
-deamidization
 deaminase
 decating
 digitize
@@ -3670,6 +3669,7 @@ douzeper
 degger
 dictates
 degging
+deamidization
 deglaciation
 deglamorized
 deuteranomalous
