@@ -8354,7 +8354,6 @@ gamesters
 grattoir
 gratton
 gratuitant
-gonifs
 guaguanche
 galinsoga
 gotham
@@ -9481,6 +9480,7 @@ goloch
 grouseberry
 groused
 gonglike
+gonifs
 gulpy
 grouselike
 gem
