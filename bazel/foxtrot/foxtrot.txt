@@ -505,7 +505,6 @@ falbalas
 falbelo
 fumados
 falcata
-fylgja
 falces
 falciform
 frowny
@@ -9501,6 +9500,7 @@ frateries
 fideism
 fells
 fraternal
+fylgja
 fraternality
 faultlessness
 filum
