@@ -10374,7 +10374,6 @@ formalins
 folkmot
 fromages
 feeable
-fromenty
 fromenties
 families
 fitten
@@ -11417,6 +11416,7 @@ furnaces
 furnariidae
 fleeciest
 furnariides
+fromenty
 flect
 fess
 floralize
