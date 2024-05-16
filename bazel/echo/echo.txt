@@ -1814,6 +1814,7 @@ eigenvalues
 eigenvectors
 eyght
 enigmatic
+egocentristic
 evaginated
 eightball
 eyer
@@ -12441,7 +12442,6 @@ exfoliating
 eurasian
 enunciating
 exfoliative
-egocentristic
 exhalation
 expiscator
 ejective
