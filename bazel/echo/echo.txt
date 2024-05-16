@@ -8686,6 +8686,7 @@ ethrogs
 elfishness
 equipages
 expositions
+epipodiale
 equiparation
 equipartisan
 eggcrate
@@ -13520,7 +13521,6 @@ exsiccating
 enterotoxin
 exsiccator
 embowment
-epipodiale
 exsolving
 epochs
 entosclerite
