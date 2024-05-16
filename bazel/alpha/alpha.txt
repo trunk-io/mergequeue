@@ -5358,7 +5358,6 @@ affirmable
 abreacted
 acupress
 affirmably
-affirmance
 assisan
 assonantal
 affirmant
@@ -12865,6 +12864,7 @@ arousement
 antrin
 angletouch
 angletwitch
+affirmance
 anglewing
 allays
 anglewise

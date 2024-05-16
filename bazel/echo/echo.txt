@@ -2100,7 +2100,6 @@ enarm
 elastin
 elastins
 exemplupla
-elastivity
 elastomer
 emperish
 enfamish
@@ -4178,6 +4177,7 @@ emporeutic
 egging
 extrications
 emporial
+elastivity
 empoririums
 emporiums
 evaluate
