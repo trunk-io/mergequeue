@@ -4574,7 +4574,6 @@ gullable
 galtonian
 gypsyfy
 generically
-gipsyhead
 gazehound
 gypsyhead
 gaitt
@@ -8112,6 +8111,7 @@ grapevines
 grapewise
 graphalloy
 graphanalysis
+gipsyhead
 gravid
 gigabit
 graphemic
