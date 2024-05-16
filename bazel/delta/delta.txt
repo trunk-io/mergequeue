@@ -540,6 +540,7 @@ damageably
 describent
 demounted
 damaged
+dimensible
 damagement
 damageous
 dao
@@ -9849,7 +9850,6 @@ dinmont
 dimber
 dreamage
 dimberdamber
-dimensible
 desilicification
 dace
 dimensionally
