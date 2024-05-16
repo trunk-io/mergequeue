@@ -1423,6 +1423,7 @@ garlic
 granomerite
 glycolylurea
 garliclike
+gyrfalcon
 geoside
 galloner
 glorifier
@@ -7680,7 +7681,6 @@ gunbarrel
 graffias
 graffiti
 grossulariaceae
-gyrfalcon
 graft
 graftages
 grafted
