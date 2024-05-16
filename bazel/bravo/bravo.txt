@@ -1530,7 +1530,6 @@ ballasting
 baste
 ballat
 ballata
-ballate
 brae
 batikulin
 baru
@@ -16801,6 +16800,7 @@ buduma
 bridegrooms
 byordinar
 budwood
+ballate
 bruckled
 budzart
 budzat
