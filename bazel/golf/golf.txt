@@ -252,7 +252,6 @@ garotte
 gainer
 geologizing
 gainful
-gym
 ghostlike
 gipsire
 gibs
@@ -2913,6 +2912,7 @@ gablewise
 gageable
 grasped
 gentlemanize
+gym
 gingelies
 gentlemanly
 gentlemanlikeness
