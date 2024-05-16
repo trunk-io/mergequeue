@@ -4399,7 +4399,6 @@ electrodesiccate
 enbrave
 embar
 experiential
-enc
 eurylaimoid
 encadre
 encaenia
@@ -7061,6 +7060,7 @@ eau
 enucleated
 excitomuscular
 enumerability
+enc
 epris
 enumerably
 enumerates
