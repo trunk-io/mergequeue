@@ -10139,7 +10139,6 @@ blabbed
 blabbered
 blabberer
 blabbering
-blabbermouth
 blabbermouths
 blabbers
 blabbing
@@ -14448,6 +14447,7 @@ branchellion
 branchery
 branches
 beadle
+blabbermouth
 branchiae
 borstals
 belittler

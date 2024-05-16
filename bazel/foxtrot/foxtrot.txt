@@ -5001,7 +5001,6 @@ festivals
 flappable
 foremark
 favourless
-flapperdom
 framableness
 formalising
 flappers
@@ -10705,6 +10704,7 @@ forenamed
 flutings
 fruitgrower
 filipuncture
+flapperdom
 fruitier
 fruitiness
 filterers
