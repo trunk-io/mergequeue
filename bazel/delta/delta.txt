@@ -2564,6 +2564,7 @@ declassicize
 declassification
 declassifications
 dieties
+diceman
 dothiorella
 delocalized
 derringer
@@ -8895,7 +8896,6 @@ dicebox
 dicecup
 debituminize
 diced
-diceman
 dicentras
 dicephalous
 dicephalus
