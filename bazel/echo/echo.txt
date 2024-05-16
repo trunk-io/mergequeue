@@ -6797,7 +6797,6 @@ entitling
 entoblastic
 entobronchium
 entocalcaneal
-entocarotid
 eelgrass
 entocyemate
 epistolizing
@@ -11279,6 +11278,7 @@ exanthema
 evaginable
 evaluated
 ecumenicist
+entocarotid
 evaluates
 etherin
 excogitative
