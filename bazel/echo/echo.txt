@@ -2692,7 +2692,6 @@ electrotrephine
 electrotropic
 electrophilically
 electrovalence
-electrovalent
 electrovalently
 electrovection
 electrowinning
@@ -3524,6 +3523,7 @@ embolo
 embolomalerism
 epidural
 ectoskeleton
+electrovalent
 embolon
 elms
 emboltement
