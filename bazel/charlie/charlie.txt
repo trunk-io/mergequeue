@@ -11668,7 +11668,6 @@ choledography
 cholee
 cholehematin
 cryptonym
-choleine
 colorization
 cholelith
 cholelithiasis
@@ -21984,6 +21983,7 @@ cormorants
 confidently
 curatively
 confidentness
+choleine
 confider
 confiders
 confiding
