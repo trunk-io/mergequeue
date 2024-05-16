@@ -6069,7 +6069,6 @@ battiness
 biparous
 beltless
 beltman
-belts
 beltway
 bloodspilling
 boondocker
@@ -15486,6 +15485,7 @@ blaubok
 bionergy
 bandwagons
 boxes
+belts
 barraclade
 braggadocio
 bryozoon
