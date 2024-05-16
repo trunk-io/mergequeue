@@ -1109,7 +1109,6 @@ bayonets
 bayonetted
 benefactors
 bayong
-bayous
 babongo
 brigadiership
 bairagi
@@ -3386,6 +3385,7 @@ baculum
 bassan
 bicarbonate
 bassanite
+bayous
 bassara
 biotechnics
 bassetta
