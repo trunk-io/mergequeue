@@ -9909,7 +9909,6 @@ counteraverment
 cornroot
 coprophilic
 copperytailed
-chemistry
 chemistries
 chemists
 chemitype
@@ -27782,6 +27781,7 @@ coxal
 coxalgy
 coxalgias
 convolutedness
+chemistry
 calceiform
 crestfish
 coxankylometer
