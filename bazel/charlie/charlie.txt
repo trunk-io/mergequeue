@@ -2857,6 +2857,7 @@ cantabank
 cantabile
 cantabri
 clothesmonger
+chalcis
 cantabrian
 cantabrigian
 cantador
@@ -8353,7 +8354,6 @@ chalcidoidea
 chalcids
 chalcioecus
 ching
-chalcis
 chalcites
 chalcocite
 chalcogen
