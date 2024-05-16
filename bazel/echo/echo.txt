@@ -6756,7 +6756,6 @@ epanastrophe
 enthused
 enthusiasm
 evacuation
-enthusiasms
 exhibits
 enthusiast
 enthusiastic
@@ -7038,6 +7037,7 @@ entryway
 enactory
 entrochite
 eutectoid
+enthusiasms
 entropionize
 entrust
 exarchate
