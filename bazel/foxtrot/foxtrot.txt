@@ -4604,6 +4604,7 @@ ferronickel
 fervid
 forages
 fm
+faultless
 fivesome
 fivestones
 foliums
@@ -8501,7 +8502,6 @@ formnail
 familiarise
 formolit
 fluid
-faultless
 fetlock
 formols
 formosity
