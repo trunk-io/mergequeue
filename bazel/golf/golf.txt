@@ -7179,6 +7179,7 @@ glost
 gad
 goopy
 glaciate
+gabion
 greenthumbed
 geotectonics
 gorgonlike
@@ -8908,7 +8909,6 @@ gryde
 gridelin
 griding
 goldney
-gabion
 glucina
 gridiron
 gridirons
