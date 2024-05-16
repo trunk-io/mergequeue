@@ -12381,6 +12381,7 @@ arteriostrepsis
 androclclinia
 anisotropic
 androclinia
+antetypes
 androclinium
 androclus
 androconia
@@ -14309,7 +14310,6 @@ agoniatites
 arboretums
 antetemple
 antetype
-antetypes
 anteversion
 ahypnia
 antevert
