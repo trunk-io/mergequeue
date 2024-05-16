@@ -1671,7 +1671,6 @@ calpacked
 calpacks
 cheapishly
 calpacs
-calpolli
 conformation
 counterfallacy
 calque
@@ -9502,6 +9501,7 @@ cheaping
 cheapish
 cheaply
 cheapness
+calpolli
 cheapos
 cheaps
 cheapskate
