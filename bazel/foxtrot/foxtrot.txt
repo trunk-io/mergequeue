@@ -1793,7 +1793,6 @@ falconiformes
 fibropsammoma
 famatinite
 featheredge
-featheredged
 forswearing
 fothergilla
 fll
@@ -3135,6 +3134,7 @@ freend
 fleabitten
 flopping
 fibrillating
+featheredged
 fibrillose
 fibrination
 fannies
