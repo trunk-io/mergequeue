@@ -1771,6 +1771,7 @@ baluchithere
 buses
 biretta
 balun
+berbamine
 balustrade
 balustrading
 balwarra
@@ -10536,7 +10537,6 @@ betray
 baizes
 beleaguer
 bylining
-berbamine
 brindles
 blastoid
 bodywood
