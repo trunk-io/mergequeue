@@ -14147,6 +14147,7 @@ anaesthyl
 anteflexed
 antefurcae
 antefurcal
+autotrophy
 antehall
 antehypophysis
 aquaculture
@@ -18618,7 +18619,6 @@ aardwolf
 apprizement
 anyplace
 arborical
-autotrophy
 arboricole
 arboricoline
 arboricolous
