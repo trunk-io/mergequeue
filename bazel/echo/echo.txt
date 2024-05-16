@@ -5912,7 +5912,6 @@ enjambed
 enjambment
 emetomorphine
 enjambments
-ectomere
 encumbrancer
 enjoy
 enjoyable
@@ -10165,6 +10164,7 @@ eking
 electrode
 endothelioma
 eurhythmical
+ectomere
 electrodiagnostic
 esoterical
 eternalize
