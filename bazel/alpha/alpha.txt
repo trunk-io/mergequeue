@@ -13262,7 +13262,6 @@ aniridia
 anisado
 anabolic
 artamus
-amygdalus
 anisal
 anisaldehyde
 araks
@@ -20288,6 +20287,7 @@ applicator
 arrided
 arridge
 areroscope
+amygdalus
 antimephitic
 asepticizing
 arriding
