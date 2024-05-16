@@ -4914,7 +4914,6 @@ emulatress
 endearments
 endocorpuscular
 endeavour
-endeavorer
 endamaging
 edificable
 endeavors
@@ -13603,6 +13602,7 @@ endorsements
 enough
 empathizing
 eggcup
+endeavorer
 engrosses
 extemporaneously
 extensor
