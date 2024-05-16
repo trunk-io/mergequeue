@@ -984,7 +984,6 @@ edaphosauria
 edaphosaurid
 edaphosaurus
 explosibility
-emblazing
 edder
 episcopable
 encephalon
@@ -6024,6 +6023,7 @@ enlive
 enliven
 enlivened
 encomiums
+emblazing
 enlivener
 enliveningly
 extremum

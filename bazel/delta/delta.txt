@@ -2491,7 +2491,6 @@ dand
 delay
 disintegrative
 decipherably
-deciphered
 decipherer
 deciphering
 deciphers
@@ -3889,6 +3888,7 @@ diplocephaly
 deceivance
 deinos
 discanonized
+deciphered
 deinosauria
 demonomancy
 deinotherium
