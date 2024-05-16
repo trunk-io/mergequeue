@@ -2500,7 +2500,6 @@ furfuraldehyde
 ferling
 fermail
 fermal
-fermata
 fermatas
 fleshed
 ferme
@@ -5672,6 +5671,7 @@ flinty
 formularizer
 footpound
 flashlike
+fermata
 flintwood
 fanfold
 ferreted
