@@ -5123,7 +5123,6 @@ denaturate
 denaturational
 diver
 diablerie
-denature
 denatured
 denaturing
 diminishingturns
@@ -5919,6 +5918,7 @@ diuretic
 deprecable
 deutochloride
 deprecating
+denature
 deprecatingly
 danes
 darter
