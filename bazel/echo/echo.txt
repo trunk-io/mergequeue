@@ -1188,6 +1188,7 @@ educatable
 evitate
 educated
 educatedness
+emerited
 educates
 entitule
 eternalization
@@ -10535,7 +10536,6 @@ etymologise
 ensmall
 etymologists
 etymologizable
-emerited
 etymologization
 eurypteroid
 enterpriser
