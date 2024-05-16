@@ -698,7 +698,6 @@ bicorne
 bactrian
 bodeful
 bactrites
-bactritoid
 blairmorite
 breakerman
 baculiform
@@ -18167,6 +18166,7 @@ ballant
 biffins
 boundly
 boweling
+bactritoid
 bullyboy
 boogie
 bedabbles
