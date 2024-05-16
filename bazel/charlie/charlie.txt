@@ -14911,6 +14911,7 @@ citizenized
 citizenizing
 citizenly
 citizenry
+customizes
 citizenries
 citizens
 cytoanalyzer
@@ -31742,7 +31743,6 @@ customize
 customized
 customizer
 customizers
-customizes
 customizing
 customly
 citronade
