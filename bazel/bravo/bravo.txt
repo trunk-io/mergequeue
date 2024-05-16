@@ -14716,7 +14716,6 @@ brawned
 brawnedness
 braved
 bandanna
-brawnier
 brawnily
 bove
 braxy
@@ -16819,6 +16818,7 @@ buffalo
 buffaloback
 blasty
 buffaloes
+brawnier
 buffalofish
 botheration
 buffaloing
