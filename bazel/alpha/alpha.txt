@@ -2721,7 +2721,6 @@ advocatess
 acquisitor
 acquisitum
 acquist
-assuaging
 acquittal
 acquittals
 acquittance
@@ -7843,6 +7842,7 @@ aldols
 aldose
 antischolastically
 aldoside
+assuaging
 aldosterone
 aldosteronism
 abapical
