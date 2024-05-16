@@ -5198,7 +5198,6 @@ equiform
 endopleural
 east
 endopleurite
-electrometry
 emprizes
 esphresis
 endopoditic
@@ -11712,6 +11711,7 @@ eleusinian
 endopolyploid
 exactness
 essenis
+electrometry
 extratensive
 exactor
 exactors
