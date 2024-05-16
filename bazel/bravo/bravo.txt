@@ -3617,7 +3617,6 @@ bollard
 bathmism
 bathochromatism
 bathochromy
-bathochromic
 bathoflore
 batholith
 bibliomaniacal
@@ -8767,6 +8766,7 @@ basigenic
 baraza
 bual
 billon
+bathochromic
 baronizing
 billons
 begetting
