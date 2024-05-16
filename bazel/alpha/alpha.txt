@@ -8307,6 +8307,7 @@ aliens
 aculea
 angiocyst
 aliesterase
+anticynicism
 aliethmoid
 aliethmoidal
 amenity
@@ -9674,7 +9675,6 @@ alvearies
 alvearium
 alveated
 archegoniophore
-anticynicism
 alveola
 alveolae
 alveolary

@@ -916,7 +916,6 @@ bagnet
 bagnio
 blowze
 broommaking
-balmily
 bago
 bourbons
 besprinkled
@@ -7638,6 +7637,7 @@ beveller
 bookbinder
 biathlon
 bevenom
+balmily
 bever
 beverage
 beverse
