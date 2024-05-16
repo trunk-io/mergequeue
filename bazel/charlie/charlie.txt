@@ -8590,7 +8590,6 @@ champacol
 cauligenous
 champagned
 champagneless
-champagnes
 champagning
 champagnize
 colourlessly
@@ -9970,6 +9969,7 @@ chemosurgery
 chemotactic
 chemotactically
 choochoo
+champagnes
 chemotaxy
 collocatory
 chemotaxonomy
