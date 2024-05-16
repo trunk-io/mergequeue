@@ -3638,7 +3638,6 @@ blockmaking
 bathool
 bathophobia
 bathos
-bathrobe
 bathrobes
 balneophysiology
 bibliognost
@@ -18194,6 +18193,7 @@ butled
 butler
 botchwork
 butlerage
+bathrobe
 begorry
 bedraggling
 brainiest
