@@ -2696,7 +2696,6 @@ decompose
 dimmy
 decomposer
 decomposers
-decomposes
 decomposing
 decomposition
 decapod
@@ -4406,6 +4405,7 @@ demagnetiser
 detraining
 demagnetising
 diacranteric
+decomposes
 daut
 dhoney
 demagnetization
