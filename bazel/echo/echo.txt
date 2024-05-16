@@ -1749,6 +1749,7 @@ electric
 euflavine
 eyepiece
 eyepit
+embattle
 epochal
 eyepoint
 eyereach
@@ -3376,7 +3377,6 @@ entotic
 ecliptic
 excel
 embatholithic
-embattle
 enteropneustan
 embattled
 estranger
