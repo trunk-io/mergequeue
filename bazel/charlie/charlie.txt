@@ -3249,6 +3249,7 @@ compenetrate
 capito
 capitol
 clingier
+circlet
 capitolian
 corregimiento
 capitoline
@@ -14226,7 +14227,6 @@ cardcastle
 casemate
 circler
 circles
-circlet
 circleting
 circlets
 cochleas
