@@ -1061,7 +1061,6 @@ bailiery
 bargainwise
 bailieries
 bailieship
-bailiff
 bailiffry
 bailiffs
 ballow
@@ -14778,6 +14777,7 @@ billycock
 boneyard
 baulks
 breadearner
+bailiff
 backscratching
 breadearning
 basipetally
