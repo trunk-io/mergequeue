@@ -1838,6 +1838,7 @@ bandaged
 bandager
 bandages
 bandaging
+bipunctal
 brakes
 bandaid
 bandala
@@ -7979,7 +7980,6 @@ bible
 bibles
 bohmite
 bibless
-bipunctal
 biblical
 biblicality
 biblicism
