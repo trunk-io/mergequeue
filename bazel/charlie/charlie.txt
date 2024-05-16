@@ -7652,7 +7652,6 @@ charpie
 cerebellocortex
 constrain
 cerebellorubral
-cerebellospinal
 cerebellum
 cerebral
 cerebralism
@@ -29963,6 +29962,7 @@ crotalo
 crotaloid
 crotalum
 crotaphic
+cerebellospinal
 crotaphion
 comes
 crotaphite
