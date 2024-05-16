@@ -8274,7 +8274,6 @@ davainea
 disomaty
 ductus
 diaglyptic
-diagnosable
 diagnose
 diagnosed
 diacetyls
@@ -17017,6 +17016,7 @@ darkener
 daidling
 dispensatrix
 debullition
+diagnosable
 drepanididae
 drepaniform
 disarmingly
