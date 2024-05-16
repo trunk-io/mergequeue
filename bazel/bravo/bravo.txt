@@ -10537,7 +10537,6 @@ betray
 baizes
 beleaguer
 bylining
-berbamine
 brindles
 blastoid
 bodywood
@@ -13645,6 +13644,7 @@ billboard
 braconid
 bourasque
 bourbon
+berbamine
 baseliner
 bourbonism
 bourbonize
