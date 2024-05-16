@@ -8264,7 +8264,6 @@ eradiation
 erucic
 entozoa
 epistyle
-epistyles
 epistylis
 exulcerate
 emetocathartic
@@ -8355,6 +8354,7 @@ exopterygotic
 epitheliosis
 epitheliotoxin
 effulgence
+epistyles
 enheritage
 excursional
 episthotonos
