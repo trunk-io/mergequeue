@@ -17615,7 +17615,6 @@ coccolithophorid
 coccoloba
 counterresolution
 calabashes
-columelliform
 catamite
 coccosphere
 concrescent
@@ -21547,6 +21546,7 @@ concretism
 concretist
 concretive
 concretively
+columelliform
 concretization
 concretize
 concretized
