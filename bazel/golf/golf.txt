@@ -2226,6 +2226,7 @@ genocides
 gnathites
 gearcase
 gearcases
+greyfish
 guernseys
 glucose
 garbing
@@ -2369,7 +2370,6 @@ gelatin
 gelatinate
 gelatinating
 girting
-greyfish
 goles
 gelatine
 glucoprotein
