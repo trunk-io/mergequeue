@@ -9048,7 +9048,6 @@ bioelectrical
 bilboquet
 bioelectricity
 bioelectricities
-bioelectrogenesis
 bioengineering
 bifurcates
 bioethic
@@ -12480,6 +12479,7 @@ bone
 bonebreaker
 boned
 benignantly
+bioelectrogenesis
 bonedry
 bonefish
 boneflower
