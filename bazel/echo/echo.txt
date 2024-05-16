@@ -10688,7 +10688,6 @@ eucnemidae
 eucommia
 eucommiaceae
 eucone
-euconic
 eucopepoda
 explemental
 expunger
@@ -12411,6 +12410,7 @@ entozoan
 ecoclimate
 elpidite
 evectant
+euconic
 exertion
 exertionless
 emictory
