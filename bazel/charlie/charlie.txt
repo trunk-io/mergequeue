@@ -6833,7 +6833,6 @@ cellars
 chaplet
 charivariing
 cellarwoman
-cellblock
 cellblocks
 celled
 centennium
@@ -20054,6 +20053,7 @@ commensurably
 commensurate
 commensurated
 commensurateness
+cellblock
 commensurating
 commensuration
 commensurations
