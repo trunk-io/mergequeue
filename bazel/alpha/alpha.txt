@@ -21320,6 +21320,7 @@ askant
 askapart
 antonymous
 askari
+autograft
 amphiploid
 askaris
 asked
@@ -24087,7 +24088,6 @@ autogiros
 autogyros
 ambulators
 autognostic
-autograft
 autografting
 autogram
 analytic
