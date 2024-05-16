@@ -2335,6 +2335,7 @@ fencible
 fencings
 forewarm
 full
+freity
 folktale
 fended
 ferric
@@ -9583,7 +9584,6 @@ flattop
 frazzled
 frazzling
 frden
-freity
 footroom
 freakdom
 fentanyl
