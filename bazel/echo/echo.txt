@@ -1575,7 +1575,6 @@ extraversion
 epipany
 egyptologic
 egis
-exogeny
 egises
 eglamore
 eglandular
@@ -4829,6 +4828,7 @@ executionist
 eperva
 encradle
 encranial
+exogeny
 encraty
 encratite
 erminites
