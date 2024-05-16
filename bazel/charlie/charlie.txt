@@ -4981,7 +4981,6 @@ cartomancies
 carton
 cartoner
 cartonful
-cartoning
 covinously
 cartonnage
 cartons
@@ -9710,6 +9709,7 @@ cafuso
 cheesebox
 cheeseburger
 cheeseburgers
+cartoning
 cheesecake
 crees
 cheesecloth
