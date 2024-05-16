@@ -9811,7 +9811,6 @@ espousement
 essenwood
 ectoblast
 espouser
-espouses
 espousing
 espressos
 espriella
@@ -12926,6 +12925,7 @@ epithymetic
 efford
 endostylar
 equitist
+espouses
 enteromesenteric
 expansions
 effluvias
