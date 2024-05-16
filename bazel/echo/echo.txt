@@ -3947,6 +3947,7 @@ eversions
 engl
 excessman
 emoting
+empowers
 emotion
 emotionable
 empyreans
@@ -11006,7 +11007,6 @@ euphorically
 euphotic
 euphotide
 excommunicate
-empowers
 euphrasia
 euphrasies
 exogenism
