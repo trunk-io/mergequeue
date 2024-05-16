@@ -5345,7 +5345,6 @@ glenoid
 glenoidal
 glent
 glauconitic
-gages
 gangly
 glowerer
 guitarfish
@@ -10475,6 +10474,7 @@ grudgeons
 gunboats
 grecale
 gemitores
+gages
 gunbuilder
 grannyknot
 guilelessly

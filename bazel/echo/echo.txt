@@ -7246,7 +7246,6 @@ eonism
 eons
 eopalaeozoic
 eopaleozoic
-eophytic
 eyebree
 erysipelothrix
 eophyton
@@ -9835,6 +9834,7 @@ elucidation
 esrogim
 embryol
 elaphomyces
+eophytic
 ess
 essay
 envapor
