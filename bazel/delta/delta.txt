@@ -3643,7 +3643,6 @@ demandant
 degassing
 disappears
 degauss
-dunnesses
 degaussing
 degelatinize
 destituting
@@ -6265,6 +6264,7 @@ dactylopodite
 dermanaplasty
 dermaptera
 dermapteran
+dunnesses
 disenablement
 dermapterous
 dermas
