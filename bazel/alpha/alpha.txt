@@ -2281,6 +2281,7 @@ anomalipod
 achroma
 achromasia
 achromat
+anatox
 actinal
 aperistalsis
 abattue
@@ -12135,7 +12136,6 @@ anatomopathologic
 anatopism
 adorally
 antiaristocratical
-anatox
 anatoxin
 anatoxins
 anatreptic
