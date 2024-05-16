@@ -2057,7 +2057,6 @@ elapids
 euthyneural
 elapine
 elapse
-endoblast
 exhalate
 edificant
 epigyny
@@ -9751,6 +9750,7 @@ eparchial
 espacement
 espada
 espadon
+endoblast
 espadrilles
 espagnole
 elaeagnus
