@@ -795,6 +795,7 @@ funnellike
 fabricable
 freemasonry
 fanfolds
+fuzees
 fortepiano
 floggable
 fontina
@@ -11733,7 +11734,6 @@ fingerboard
 floramor
 frights
 flneur
-fuzees
 fuzil
 fossicks
 fuzz
