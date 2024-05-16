@@ -11317,7 +11317,6 @@ aftereye
 amphorous
 alarming
 amphoteric
-amphotericin
 ampicillin
 antonina
 ampyxes
@@ -24260,6 +24259,7 @@ autonomize
 autonomous
 anerly
 awald
+amphotericin
 autoparasitism
 ablegates
 allodiaries
