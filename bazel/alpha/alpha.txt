@@ -4660,6 +4660,7 @@ advertise
 advertisee
 advertiser
 advertisers
+antiflux
 albication
 ankhs
 arrowstone
@@ -15290,7 +15291,6 @@ aeronautics
 antiflash
 antiflattering
 antiflatulent
-antiflux
 antifoaming
 antilabor
 antiforeignism
