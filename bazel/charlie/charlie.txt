@@ -9977,7 +9977,6 @@ chemotaxonomic
 cannular
 comma
 carices
-chemotherapeutical
 clamlike
 chemotherapeutically
 chemotherapeutics
@@ -23880,6 +23879,7 @@ contrive
 contrived
 contrivedly
 contrivement
+chemotherapeutical
 cinchonology
 contriver
 circumbuccal
