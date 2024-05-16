@@ -7898,7 +7898,6 @@ alectrion
 alectrionidae
 alecup
 alee
-alef
 alefnull
 alefs
 aleft
@@ -14026,6 +14025,7 @@ antagonism
 aweary
 antagonisms
 antagonist
+alef
 antagonistic
 antagonistical
 antagonistically
