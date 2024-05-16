@@ -6694,6 +6694,7 @@ fausen
 fiendlier
 fofarraw
 flanger
+fortieths
 fog
 faqirs
 feted
@@ -8683,7 +8684,6 @@ frightsome
 feeding
 fortier
 fortieth
-fortieths
 fortify
 fortifier
 florets
