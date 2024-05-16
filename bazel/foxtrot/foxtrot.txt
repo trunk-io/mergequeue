@@ -5864,7 +5864,6 @@ furanes
 flobby
 forswat
 fraternate
-fastigia
 flocced
 fname
 flocci
@@ -10624,6 +10623,7 @@ foughty
 feuar
 frubbish
 favose
+fastigia
 flatcar
 fruchtschiefer
 forespoken
