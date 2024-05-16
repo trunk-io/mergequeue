@@ -4187,7 +4187,6 @@ cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
 chimakuan
-cardiosclerosis
 cardiospasm
 cardiospermum
 cardiosphygmogram
@@ -26193,6 +26192,7 @@ cosmonaut
 cercopidae
 cosmonautical
 cosmonautically
+cardiosclerosis
 creekside
 cosmonautics
 cosmonauts
