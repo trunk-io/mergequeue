@@ -2006,7 +2006,6 @@ gutturals
 gymnodontes
 gauges
 gaul
-gnathostome
 gastrilegous
 gobans
 gauleiter
@@ -6204,6 +6203,7 @@ gemmules
 grinding
 gnathostomata
 gnathotheca
+gnathostome
 geds
 gnats
 geopolitically
