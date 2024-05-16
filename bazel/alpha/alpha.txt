@@ -12832,7 +12832,6 @@ angiospermous
 angiosperms
 assistive
 angiosporous
-angiostomize
 angiostrophy
 angiotasis
 aramaic
@@ -17557,6 +17556,7 @@ allayer
 apoxesis
 apoxyomenos
 apozem
+angiostomize
 archleader
 apozema
 apozemical
