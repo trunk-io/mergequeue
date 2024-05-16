@@ -6876,6 +6876,7 @@ airflows
 airfoil
 airfoils
 airframes
+aku
 adiate
 abortus
 airglow
@@ -7206,7 +7207,6 @@ aktistetae
 aktistete
 aphicidal
 aktivist
-aku
 akule
 akund
 akvavits
