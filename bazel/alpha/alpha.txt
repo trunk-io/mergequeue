@@ -6853,6 +6853,7 @@ aerophone
 axoplasms
 airdate
 afterband
+amyrin
 airdock
 airdrome
 airdromes
@@ -10694,7 +10695,6 @@ amiranha
 anabolitic
 alevins
 amire
-amyrin
 amyris
 abattis
 amyrol
