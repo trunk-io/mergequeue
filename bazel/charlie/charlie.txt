@@ -4424,6 +4424,7 @@ caryophyllin
 cytogenetics
 caryophyllous
 caryophyllus
+certose
 caryopilite
 caryopsides
 caryopsis
@@ -7858,7 +7859,6 @@ certis
 certitude
 certitudes
 certosa
-certose
 certosina
 certosino
 cerule
