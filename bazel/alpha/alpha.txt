@@ -5228,7 +5228,6 @@ almagest
 aetiological
 aetiologies
 aloelike
-aetiologist
 administerial
 artsy
 aetiologue
@@ -25253,6 +25252,7 @@ azido
 aziethane
 apagoges
 azygobranchiate
+aetiologist
 azygos
 azurous
 azygoses
