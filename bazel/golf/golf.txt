@@ -5266,6 +5266,7 @@ gametogony
 guzzler
 gleamed
 guss
+gabion
 gleamy
 grapelet
 gumboots
@@ -8909,7 +8910,6 @@ gryde
 gridelin
 griding
 goldney
-gabion
 glucina
 gridiron
 gridirons
