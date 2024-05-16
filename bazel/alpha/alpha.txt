@@ -6855,7 +6855,6 @@ aerophone
 axoplasms
 airdate
 afterband
-airdock
 airdrome
 airdromes
 airdrop
@@ -15448,6 +15447,7 @@ antilyssic
 antilithic
 antilytic
 antilitter
+airdock
 antiliturgy
 annunciators
 affixt
