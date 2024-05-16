@@ -5673,7 +5673,6 @@ belace
 bulletheaded
 blasters
 bewigs
-barbitone
 beladies
 bedeen
 beladying
@@ -5715,6 +5714,7 @@ brocks
 belauds
 belshazzar
 br
+barbitone
 belch
 belched
 belcher
