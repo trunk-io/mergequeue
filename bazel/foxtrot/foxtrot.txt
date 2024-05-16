@@ -1111,7 +1111,6 @@ floriken
 floter
 foredestining
 faroelite
-franzy
 foremast
 farolito
 ferriages
@@ -9296,6 +9295,7 @@ fragments
 fishbed
 foraneous
 fragrantly
+franzy
 facts
 fragrantness
 fabulists
