@@ -4884,7 +4884,6 @@ aranein
 aequor
 aequorins
 aer
-aerage
 aerarium
 aerate
 astrophotographer
@@ -24151,6 +24150,7 @@ autolaryngoscope
 autolaryngoscopy
 anamesite
 autolaryngoscopic
+aerage
 autolater
 autolatry
 accepters
