@@ -9302,6 +9302,7 @@ chastity
 chastities
 chasuble
 chasubled
+convex
 cooper
 chasubles
 chat
@@ -24161,7 +24162,6 @@ convertor
 convertors
 converts
 conveth
-convex
 convexedness
 chippage
 convexes
