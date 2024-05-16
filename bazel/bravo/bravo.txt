@@ -1375,7 +1375,6 @@ balderdash
 biskop
 bepewed
 baldest
-baldfaced
 blots
 bloodstained
 baldhead
@@ -9746,6 +9745,7 @@ bulleting
 bisimine
 brandyman
 bushily
+baldfaced
 bisymmetric
 billback
 bisymmetrical

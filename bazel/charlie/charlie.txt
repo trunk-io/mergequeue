@@ -26690,6 +26690,7 @@ counselling
 counsellor
 counsellors
 counsellorship
+craftworker
 counselor
 counsels
 count
@@ -28003,7 +28004,6 @@ craftspeople
 concubinaries
 craftsperson
 craftwork
-craftworker
 crag
 craggan
 craggedness
