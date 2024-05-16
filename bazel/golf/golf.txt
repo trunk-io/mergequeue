@@ -5153,6 +5153,7 @@ graveyards
 granch
 glass
 gatch
+goniatites
 gyrencephalate
 graphs
 gandering
@@ -6751,7 +6752,6 @@ geographized
 gonyalgia
 giantism
 gumbotil
-goniatites
 guttler
 grint
 glucid
