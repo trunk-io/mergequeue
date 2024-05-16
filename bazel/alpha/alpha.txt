@@ -1689,6 +1689,7 @@ attouchement
 accouters
 accoutre
 attire
+anhydrously
 appurtenances
 accoutrement
 accoutrements
@@ -13079,7 +13080,6 @@ anhydrosis
 anhidrotic
 archespsporia
 anhydrotic
-anhydrously
 anhydroxime
 anhima
 anhimae
