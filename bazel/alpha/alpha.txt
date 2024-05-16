@@ -4016,7 +4016,6 @@ agile
 adjudicated
 adjudication
 atavisms
-adjudications
 agglutinin
 adjudicative
 asiaticization
@@ -4568,6 +4567,7 @@ advancedness
 advancement
 advancements
 advancer
+adjudications
 advancers
 advancing
 advancingly
