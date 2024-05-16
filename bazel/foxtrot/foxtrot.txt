@@ -8085,7 +8085,6 @@ forestral
 flunkeys
 forestries
 fever
-fluorescent
 firebrats
 flayflint
 furnitures
@@ -8488,6 +8487,7 @@ formicating
 forgiver
 filix
 formicid
+fluorescent
 feuterer
 formicide
 fishling
