@@ -16188,7 +16188,6 @@ antisepticizing
 advection
 autolysin
 antiseptize
-antisera
 antiminsia
 antiserums
 antiserumsera
@@ -23342,6 +23341,7 @@ audiovisual
 amirates
 aluminosilicate
 audiphone
+antisera
 audit
 alispheno
 auditable
