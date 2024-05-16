@@ -2034,7 +2034,6 @@ feet
 feeze
 fearing
 fissuration
-feezes
 flagfish
 fefnicute
 furazolidone
@@ -9681,6 +9680,7 @@ forlet
 freeholders
 freeholdership
 fortifications
+feezes
 flueman
 fanwe
 fluviograph
