@@ -2614,6 +2614,7 @@ axoplasm
 aconites
 admass
 aconitia
+alloisomeric
 aconitine
 abolitionism
 ampules
@@ -3544,7 +3545,6 @@ additions
 addititious
 additive
 additively
-alloisomeric
 appoggiatura
 additives
 additivity
