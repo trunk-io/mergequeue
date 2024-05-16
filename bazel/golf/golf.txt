@@ -7293,7 +7293,6 @@ gol
 gossy
 gossip
 gossipdom
-gossiped
 glycerolysis
 gossipee
 galactolytic
@@ -10243,6 +10242,7 @@ guinde
 gr
 gorsehatch
 gauzelike
+gossiped
 gali
 germarium
 geomagnetism
