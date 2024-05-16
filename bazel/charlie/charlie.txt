@@ -5423,7 +5423,6 @@ castorial
 castorin
 calcaneonavicular
 castorite
-castorized
 castors
 castra
 castrater
@@ -17003,6 +17002,7 @@ cml
 cnemial
 contributary
 cnemides
+castorized
 cnemidium
 cnemidophorus
 cnemis
