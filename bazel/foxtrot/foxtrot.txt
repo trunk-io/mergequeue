@@ -1301,7 +1301,6 @@ fass
 fractioning
 fassalite
 fastbacks
-feower
 fastener
 foreclaw
 fastening
@@ -8365,6 +8364,7 @@ futhorcs
 fleysome
 forlive
 fictively
+feower
 forloin
 forlore
 forlorn
