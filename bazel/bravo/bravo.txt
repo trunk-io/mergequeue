@@ -2834,7 +2834,6 @@ baroxyton
 barque
 beebread
 buttonmold
-barrabora
 barracan
 barrack
 barracked
@@ -13939,6 +13938,7 @@ boxthorns
 brooders
 boxty
 boxtop
+barrabora
 brager
 bluecup
 boxtops
