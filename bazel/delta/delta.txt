@@ -8903,7 +8903,6 @@ diceplay
 dyads
 diceras
 dicerous
-dicers
 dechoralize
 disconnect
 dichapetalaceae
@@ -12229,6 +12228,7 @@ disgavel
 ditone
 disgaveling
 disgavelled
+dicers
 disgavelling
 dysgenesis
 disgenic
