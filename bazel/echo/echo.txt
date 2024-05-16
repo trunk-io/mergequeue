@@ -302,7 +302,6 @@ eatables
 electrolyzability
 eatberry
 emancipative
-eaten
 emetophobia
 enchantment
 evangelian
@@ -11823,6 +11822,7 @@ excorticating
 exappendiculate
 exarate
 exorcista
+eaten
 exaration
 exarchateship
 euripidean
