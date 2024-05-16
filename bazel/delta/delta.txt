@@ -5624,7 +5624,6 @@ departs
 demicolumn
 depascent
 derere
-delphinoid
 digested
 disrepute
 depasturable
@@ -12978,6 +12977,7 @@ daffodowndillies
 downmost
 dispatch
 dispatched
+delphinoid
 duckish
 defiguration
 dispatcher
