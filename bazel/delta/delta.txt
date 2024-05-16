@@ -5804,7 +5804,6 @@ delatinization
 depoh
 depolarisation
 depolarise
-drapeable
 depolariser
 darksome
 docetic
@@ -7611,6 +7610,7 @@ deutzia
 deuzan
 drou
 diddikai
+drapeable
 darwinistic
 deva
 dactylonomy

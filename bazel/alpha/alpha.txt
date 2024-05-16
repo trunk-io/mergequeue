@@ -7755,7 +7755,6 @@ antitaxation
 alcohols
 alcoholuria
 alconde
-alcoothionic
 alcor
 alcoran
 alcoranic
@@ -22590,6 +22589,7 @@ athermanous
 athermic
 atherogenesis
 agony
+alcoothionic
 antiatoms
 atherogenic
 atheroma
