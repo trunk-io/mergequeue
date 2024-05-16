@@ -1027,6 +1027,7 @@ farfal
 flaxbird
 farfel
 flyaway
+forecloses
 feltness
 formby
 forritsome
@@ -10311,7 +10312,6 @@ footnote
 foresightless
 froggies
 folksier
-forecloses
 frogginess
 froggish
 foundries
