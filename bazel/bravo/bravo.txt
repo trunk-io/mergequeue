@@ -1585,7 +1585,6 @@ boilermaker
 ballistae
 bijous
 ballistician
-brachioganoidei
 ballistocardiogram
 ballistocardiograph
 ballistocardiography
@@ -10653,6 +10652,7 @@ blaze
 baryecoia
 blazers
 blazes
+brachioganoidei
 blazy
 brahmanhood
 bicepses
