@@ -2319,7 +2319,6 @@ electroplating
 electroplates
 epiphenomenal
 extractors
-elasmosaur
 eutectic
 emulsifying
 egba
@@ -2801,6 +2800,7 @@ eleomargaric
 eleonorite
 eleoplast
 eleoptene
+elasmosaur
 erratuta
 eigenfunction
 eleostearic
