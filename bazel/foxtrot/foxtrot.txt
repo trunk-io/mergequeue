@@ -6193,7 +6193,6 @@ flowerlessness
 flowerpecker
 furca
 flowerwork
-fusels
 flowing
 fresnel
 foraminifera
@@ -9259,6 +9258,7 @@ fragileness
 fleabane
 fragility
 fadable
+fusels
 foxery
 faceplate
 ferritins
