@@ -10041,7 +10041,6 @@ ambivalence
 aiger
 ambivalent
 ambiversion
-ambivert
 avidness
 ambiverts
 arrect
@@ -25156,6 +25155,7 @@ appendice
 axioms
 archaeostomatous
 axises
+ambivert
 axisymmetry
 axisymmetrical
 axite
