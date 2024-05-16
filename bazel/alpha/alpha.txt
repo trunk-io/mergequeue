@@ -15342,7 +15342,6 @@ antigravity
 antigrowth
 affectible
 antihalation
-antiharmonist
 antihelices
 antihelix
 antihelixes
@@ -17048,6 +17047,7 @@ apjohnite
 apl
 aplace
 aplacental
+antiharmonist
 aplacentalia
 aplacentaria
 appast
