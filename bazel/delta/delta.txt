@@ -5068,6 +5068,7 @@ demultiplex
 demultiplexed
 demultiplexer
 demultiplexers
+duodenocholecystostomy
 disroot
 dimedone
 demultiplexes
@@ -18339,7 +18340,6 @@ degelation
 duodene
 duodenitis
 dismantled
-duodenocholecystostomy
 duodenocholedochotomy
 defossion
 discant
