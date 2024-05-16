@@ -5171,6 +5171,7 @@ casette
 caseum
 caseweed
 casewood
+courters
 caseworker
 caseworkers
 caseworks
@@ -27388,7 +27389,6 @@ congee
 courteousness
 courtepy
 courter
-courters
 courtesan
 courtesanry
 citriculturist
