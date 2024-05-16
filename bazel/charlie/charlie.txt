@@ -11683,7 +11683,6 @@ crenellate
 cholelithotripsy
 cholelithotrity
 cholemia
-cholent
 cholents
 crankbird
 choleokinase
@@ -26208,6 +26207,7 @@ cosmonauts
 cosmoplastic
 cosmopoietic
 cosmopolis
+cholent
 chevisance
 cosmopolises
 cosmopolitan
