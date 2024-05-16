@@ -1203,7 +1203,6 @@ cnemic
 calefactory
 calefactories
 calefy
-calelectric
 caprice
 contender
 calelectricity
@@ -11819,6 +11818,7 @@ chondrofibromatous
 campaigned
 couther
 chondrogen
+calelectric
 chondrogenesis
 chondrogenetic
 chondrogenous
