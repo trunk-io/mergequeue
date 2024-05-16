@@ -2487,7 +2487,6 @@ diaeresis
 decinormal
 decipherability
 decipherable
-dand
 delay
 disintegrative
 decipherably
@@ -14321,6 +14320,7 @@ dive
 divebomb
 divellent
 diverb
+dand
 deodorant
 downstage
 diverberate
