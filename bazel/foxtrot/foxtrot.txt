@@ -6613,7 +6613,6 @@ foambow
 foamed
 fluotitanate
 frounce
-fungify
 foamflower
 foamy
 forecaddie
@@ -7235,6 +7234,7 @@ footpaths
 forewarner
 fatidic
 fetial
+fungify
 fogs
 forepeak
 forefronts
