@@ -6202,6 +6202,7 @@ derelinquish
 derencephalus
 derepress
 derepression
+doited
 derequisition
 derestrict
 derf
@@ -9345,7 +9346,6 @@ dipso
 diffarreation
 depolarised
 diffeomorphic
-doited
 diffeomorphism
 differ
 despouse

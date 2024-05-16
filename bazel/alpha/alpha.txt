@@ -1269,7 +1269,6 @@ acanthology
 avowal
 acanthomas
 acanthomeridae
-acanthon
 acanthopanax
 acanthophorous
 acanthopodous
@@ -20842,6 +20841,7 @@ arusa
 arusha
 aruspex
 autohemolysin
+acanthon
 aruspice
 aruspicy
 arustle
