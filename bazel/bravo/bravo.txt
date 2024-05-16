@@ -4672,6 +4672,7 @@ bedcovers
 blader
 bromos
 bucklered
+buoyance
 bedding
 beddingroll
 bede
@@ -6748,7 +6749,6 @@ beezers
 blowers
 bergaptene
 beslubber
-buoyance
 bauta
 brissotine
 bergfall
