@@ -8246,7 +8246,6 @@ chainmen
 chainomatic
 chainon
 cultists
-chains
 chainsman
 canalize
 couchantly
@@ -25454,6 +25453,7 @@ cornix
 cornland
 cornless
 cornloft
+chains
 cornmaster
 cornmeal
 cornmeals
