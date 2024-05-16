@@ -12,6 +12,7 @@ each
 epidermoid
 estocs
 evaporometer
+euectic
 evansite
 ead
 eadi
@@ -12091,7 +12092,6 @@ eigenspace
 etherion
 electioneerer
 exclusionism
-euectic
 electroethereal
 exclusive
 exclusiveness
