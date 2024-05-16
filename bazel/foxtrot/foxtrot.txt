@@ -2254,6 +2254,7 @@ feltmaker
 ferbams
 feltmaking
 fats
+funfair
 feltman
 freakish
 fluster
@@ -11163,7 +11164,6 @@ funereally
 forgettingly
 footmarks
 fluvio
-funfair
 footbath
 featherway
 flashtester
