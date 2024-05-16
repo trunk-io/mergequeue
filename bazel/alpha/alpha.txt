@@ -7065,7 +7065,6 @@ ajava
 acumble
 ajax
 ajee
-ajenjo
 ajhar
 aminase
 ajitter
@@ -22351,6 +22350,7 @@ astronomer
 astronomy
 astronomical
 astronomically
+ajenjo
 astronomics
 astronomien
 astronomize
