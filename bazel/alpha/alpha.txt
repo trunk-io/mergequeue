@@ -891,7 +891,6 @@ agglutinating
 absences
 actionized
 absentation
-absentee
 absentees
 absenter
 absenters
@@ -21741,6 +21740,7 @@ assertor
 assertory
 asseveratingly
 afterstate
+absentee
 assertorical
 alister
 assertorily
