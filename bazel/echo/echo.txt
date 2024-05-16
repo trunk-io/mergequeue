@@ -2270,7 +2270,6 @@ electrizable
 erosive
 electrization
 episcleritis
-earthenware
 encrypting
 epigonus
 electroacoustic
@@ -6541,6 +6540,7 @@ enteral
 enteralgia
 enterally
 embiotocoid
+earthenware
 enterate
 enterectomy
 enterectomies
