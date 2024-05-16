@@ -12307,7 +12307,6 @@ andante
 andantini
 allopatric
 andantino
-andantinos
 andaquian
 andaste
 ande
@@ -17528,6 +17527,7 @@ apothem
 apotheosis
 albuminimetry
 autocratically
+andantinos
 apotheosised
 apotheosising
 apotheosize
