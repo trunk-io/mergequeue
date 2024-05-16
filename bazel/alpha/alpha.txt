@@ -5288,7 +5288,6 @@ affections
 affectious
 affective
 affectively
-affectivity
 affectless
 affector
 affectual
@@ -20249,6 +20248,7 @@ arrestors
 arrests
 arret
 assaulting
+affectivity
 arretez
 arrgt
 arrha
