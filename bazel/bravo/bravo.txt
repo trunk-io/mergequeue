@@ -5479,7 +5479,6 @@ behaver
 bicollateral
 behaving
 boater
-behavior
 behaviored
 behavioristically
 balai
@@ -7204,6 +7203,7 @@ besped
 beaugregories
 becalmed
 bespell
+behavior
 bespelled
 bigoted
 bespend
