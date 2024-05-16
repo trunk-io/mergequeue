@@ -8450,7 +8450,6 @@ guttersnipes
 galli
 gan
 grallatory
-gonochoristic
 gonoecium
 gravette
 gonakie
@@ -10083,6 +10082,7 @@ guesswork
 gigas
 greener
 gunnar
+gonochoristic
 gresil
 gastropods
 grammarian

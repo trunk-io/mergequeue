@@ -19082,7 +19082,6 @@ archjockey
 archknave
 ageless
 aponeurology
-archlet
 absinthin
 archleveler
 archlexicographer
@@ -20657,6 +20656,7 @@ arthrosporous
 arthrosteitis
 arthrosterigma
 arthrostome
+archlet
 arthrostomy
 apeptic
 arthrotyphoid
