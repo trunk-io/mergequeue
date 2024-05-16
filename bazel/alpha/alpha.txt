@@ -10642,7 +10642,6 @@ acritol
 aminoazo
 amphithalmi
 aryepiglottidean
-aminobarbituric
 aminobenzaldehyde
 anthrachrysone
 aminobenzene
@@ -15867,6 +15866,7 @@ antiphlogistin
 antiphon
 antiphona
 antiphonal
+aminobarbituric
 antiphonally
 antiphonary
 avalanched
