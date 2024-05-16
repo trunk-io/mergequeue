@@ -953,7 +953,6 @@ alioth
 absolve
 absolved
 absolvent
-absolves
 absolving
 absolvitor
 alkannin
@@ -17227,6 +17226,7 @@ apogamies
 apogamous
 apogamously
 aerialists
+absolves
 apogean
 apogee
 apogees
