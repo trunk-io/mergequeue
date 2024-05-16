@@ -1382,7 +1382,6 @@ blots
 bloodstained
 baldhead
 blanketmaking
-baldheaded
 baldheads
 basipterygial
 braise
@@ -14861,6 +14860,7 @@ bream
 breamed
 breaming
 breams
+baldheaded
 beclowns
 breastbeam
 baseheartedness
