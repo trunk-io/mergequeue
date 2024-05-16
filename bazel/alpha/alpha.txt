@@ -1374,6 +1374,7 @@ accelerate
 acceleratedly
 annealers
 accelerates
+astrometry
 amidases
 accelerative
 adiaphanousness
@@ -22334,7 +22335,6 @@ algogenic
 astrometeorological
 ancestrial
 allegorization
-astrometry
 astrometric
 astron
 astronaut

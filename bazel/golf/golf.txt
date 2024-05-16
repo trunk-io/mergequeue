@@ -3652,6 +3652,7 @@ gatewaymen
 groups
 gelfomino
 gargil
+glariness
 geonyctitropic
 ghastlily
 gantries
@@ -5140,7 +5141,6 @@ goofed
 grovels
 gyrfalcons
 gonocheme
-glariness
 glaring
 goniopholis
 gregarinae
