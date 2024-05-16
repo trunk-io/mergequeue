@@ -4388,7 +4388,6 @@ asarota
 adrenergic
 adrenin
 attice
-aortitis
 adrenitis
 adrenochrome
 adrenocortical
@@ -6253,6 +6252,7 @@ aglossia
 aglow
 aglucon
 aglucone
+aortitis
 agma
 agmas
 anucleated
