@@ -139,7 +139,6 @@ draughtmanship
 dacryolite
 daddle
 daddled
-deviascope
 dekko
 daddles
 daddling
@@ -13772,6 +13771,7 @@ dissuade
 dissuaded
 delayed
 dispersion
+deviascope
 dezinkify
 debunk
 dissuades
