@@ -7062,6 +7062,7 @@ dykage
 dessertspoon
 dessertspoonful
 dessertspoonfuls
+deedbox
 dessicate
 dessil
 dessous
@@ -7192,7 +7193,6 @@ desulphurize
 depullulation
 disgusts
 desulphurizer
-deedbox
 desultory
 desultorily
 desume

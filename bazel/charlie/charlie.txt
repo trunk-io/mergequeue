@@ -19508,6 +19508,7 @@ colourtype
 colp
 colpenchyma
 colpeo
+counterlaw
 colpeurysis
 colpheg
 colpindach
@@ -26947,7 +26948,6 @@ counterlathed
 comingle
 carpogonial
 counterlatration
-counterlaw
 choppily
 counterlegislation
 counterly
