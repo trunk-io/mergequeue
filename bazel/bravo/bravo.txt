@@ -7375,7 +7375,6 @@ besully
 beswarm
 beswarmed
 bullom
-besweatered
 beswelter
 beswim
 bethuel
@@ -12435,6 +12434,7 @@ bondages
 bless
 bondar
 bonder
+besweatered
 browallia
 bockerel
 bonderize

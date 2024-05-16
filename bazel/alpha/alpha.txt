@@ -18503,7 +18503,6 @@ achilleid
 aranzada
 arapahite
 alentours
-arapaho
 arapahos
 azorian
 arapaimas
@@ -24170,6 +24169,7 @@ amputator
 auks
 autolyzed
 autolyzes
+arapaho
 autoloader
 autoloaders
 autoloading
