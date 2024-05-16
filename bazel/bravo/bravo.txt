@@ -13071,7 +13071,6 @@ baselines
 bonspiels
 boringly
 boringness
-borings
 borism
 borith
 bority
@@ -14822,6 +14821,7 @@ breakax
 bulimic
 breakaxe
 byline
+borings
 breakbones
 babasco
 breaker
