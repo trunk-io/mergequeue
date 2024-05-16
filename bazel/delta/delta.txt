@@ -4401,6 +4401,7 @@ dioptrometer
 demagnetisation
 demagnetise
 demagnetised
+disegno
 demagnetiser
 detraining
 demagnetising
@@ -11934,7 +11935,6 @@ disedification
 dositheans
 dystocias
 dampener
-disegno
 diselectrification
 diselenid
 demonetising
