@@ -6725,7 +6725,6 @@ demarch
 diatribes
 digonoporous
 desiderium
-desiderta
 diptycas
 desidiose
 desight
@@ -14496,6 +14495,7 @@ divisions
 divisive
 dematerialization
 divisively
+desiderta
 divisiveness
 divisor
 divisory
