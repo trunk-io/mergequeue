@@ -942,7 +942,6 @@ calculation
 calamarioid
 calamarmar
 curtseys
-chartometer
 cilioflagellate
 calamars
 calambac
@@ -8665,6 +8664,7 @@ chancellor
 chancellorate
 chancelloress
 chancellors
+chartometer
 chancellorship
 chancellorships
 chancelor

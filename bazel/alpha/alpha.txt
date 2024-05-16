@@ -7042,6 +7042,7 @@ aivr
 aiwain
 aiwan
 adobo
+allergenicity
 aywhere
 aix
 anhematosis
@@ -8714,7 +8715,6 @@ aller
 allergenic
 abouchement
 autarkical
-allergenicity
 allergies
 arrhythmous
 ankylotome
