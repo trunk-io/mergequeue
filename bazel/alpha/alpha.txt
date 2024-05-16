@@ -11812,7 +11812,6 @@ appulsion
 analoga
 analogal
 analogy
-analogic
 anaximandrian
 amphicome
 anteprostatic
@@ -25298,6 +25297,7 @@ allocability
 azodiphenyl
 azoerythrin
 antithermin
+analogic
 actuate
 azofication
 aspirates
