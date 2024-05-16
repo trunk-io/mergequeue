@@ -5350,7 +5350,6 @@ bogies
 beglare
 beglerbeg
 beglerbeglic
-bags
 bakalai
 beglerbegluc
 beglerbegship
@@ -13199,6 +13198,7 @@ bosporanic
 bosque
 bosques
 bosquet
+bags
 beneficium
 britoness
 bossage
