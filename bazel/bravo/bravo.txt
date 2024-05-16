@@ -8562,7 +8562,6 @@ bilaminar
 bilander
 becolor
 bilateral
-bilateralism
 bilaterality
 bilateralities
 behaviors
@@ -14419,6 +14418,7 @@ brambles
 bonanza
 bramblier
 botch
+bilateralism
 battleful
 brambling
 brambrack
