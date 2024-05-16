@@ -8427,7 +8427,6 @@ beguard
 bigeminal
 bigeminate
 bootlicks
-bumblingness
 bigeminated
 buttery
 bigeminy
@@ -11063,6 +11062,7 @@ blobs
 blocage
 block
 blockaded
+bumblingness
 blockader
 blockading
 blockboard
