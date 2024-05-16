@@ -2193,6 +2193,7 @@ gynocratic
 gazers
 gazettal
 gazette
+grange
 gazetted
 gazetteerish
 gazetteers
@@ -9455,7 +9456,6 @@ groundswells
 germaneness
 groundwall
 gandum
-grange
 granularity
 glaciaria
 groundward
