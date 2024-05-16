@@ -15249,6 +15249,7 @@ antiextreme
 antiface
 antifaction
 antifame
+arcsin
 antifanatic
 autoinhibited
 agisms
@@ -19252,7 +19253,6 @@ arthropoda
 arcosoliulia
 alquifou
 arcosolium
-arcsin
 arcsines
 arctalia
 arctalian
