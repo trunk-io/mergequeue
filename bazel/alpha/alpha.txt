@@ -3162,7 +3162,6 @@ actinopteri
 actinopterygian
 amylopsase
 actinoscopy
-actinosome
 actinosphaerium
 ava
 actinost
@@ -22624,6 +22623,7 @@ athyrosis
 abcess
 athletehood
 antiparagraphic
+actinosome
 athletes
 achenodium
 arthrology
