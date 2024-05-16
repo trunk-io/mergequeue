@@ -5355,7 +5355,6 @@ beglad
 bogies
 beglare
 beglerbeg
-beglerbeglic
 bags
 bakalai
 beglerbegluc
@@ -8506,6 +8505,7 @@ bigonial
 bigotedness
 besotted
 bigots
+beglerbeglic
 bigotty
 bigthatch
 bachelors
