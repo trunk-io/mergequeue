@@ -20468,6 +20468,7 @@ companions
 companionship
 compar
 comparable
+curiosos
 callower
 comparableness
 crasser
@@ -24669,7 +24670,6 @@ copyread
 copyreader
 copyreaders
 copyreading
-curiosos
 copyrightable
 copyrighter
 copyrights
