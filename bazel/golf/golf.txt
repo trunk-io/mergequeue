@@ -3882,6 +3882,7 @@ giboia
 goyle
 gibsons
 gibstaff
+galeche
 gavelage
 gibuses
 giddap
@@ -10126,7 +10127,6 @@ gaggers
 guiac
 galvanoplastic
 gluconate
-galeche
 garle
 guberla
 groggeries
