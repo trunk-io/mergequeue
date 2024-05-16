@@ -1371,7 +1371,6 @@ grippers
 gazania
 gestation
 garefowl
-garetta
 garewaite
 gnawingly
 garfish
@@ -2358,6 +2357,7 @@ gekko
 gonostyle
 geophysicists
 gekkonoid
+garetta
 geomoroi
 glycerose
 galante
