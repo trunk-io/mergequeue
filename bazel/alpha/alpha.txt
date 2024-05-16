@@ -3766,7 +3766,6 @@ adephagous
 annihilates
 adepter
 abarthrosis
-avgas
 atlantomastoid
 agillawood
 adeptly
@@ -18874,6 +18873,7 @@ archemastry
 archemperor
 archencephala
 archenemy
+avgas
 angioneoplasm
 archenia
 archeocyte
