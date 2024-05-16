@@ -3372,7 +3372,6 @@ germanizer
 germanness
 germinant
 genapped
-generalizeable
 gingeley
 glossograph
 garnitures
@@ -8321,6 +8320,7 @@ gibbously
 gastrulating
 ghetchoo
 gratification
+generalizeable
 goon
 gratified
 gratifiedly
