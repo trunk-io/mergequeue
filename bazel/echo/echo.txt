@@ -5736,7 +5736,6 @@ englutting
 ejurate
 engold
 engolden
-euchre
 engrainedly
 engorged
 enray
@@ -8620,6 +8619,7 @@ equidimensional
 equidist
 equidistance
 embranglement
+euchre
 equidistribution
 exect
 equidiurnal
