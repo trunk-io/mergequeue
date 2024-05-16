@@ -1569,7 +1569,6 @@ egypt
 egyptianism
 ecoles
 echinate
-extraversion
 epipany
 egyptologic
 egis
@@ -2380,6 +2379,7 @@ electrodialytic
 ecclesiastic
 eusol
 ecraseur
+extraversion
 endaseh
 eggers
 emenders
