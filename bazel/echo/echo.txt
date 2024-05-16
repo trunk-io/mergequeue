@@ -3539,7 +3539,6 @@ embosoming
 enrobement
 euchlaena
 emboss
-embossage
 exsolution
 embossed
 exponentiations
@@ -6502,6 +6501,7 @@ enwrapt
 exceptions
 entanglements
 euharmonic
+embossage
 extraplanetary
 ebionize
 egophonic
