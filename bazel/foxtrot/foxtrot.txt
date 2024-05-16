@@ -1140,6 +1140,7 @@ farseer
 farset
 farsighted
 flabel
+formating
 fortunize
 forcat
 farsightedness
@@ -8412,7 +8413,6 @@ francomania
 formanilide
 fuze
 formates
-formating
 fibrinogenic
 foulards
 formation
