@@ -2585,7 +2585,6 @@ grinnie
 grassing
 gena
 genal
-glomerate
 genapp
 gospodar
 glenwood
@@ -6783,6 +6782,7 @@ gonimium
 gyrostats
 gaudsman
 goninidia
+glomerate
 geyseral
 gruine
 goniocraniometry
