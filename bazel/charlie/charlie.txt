@@ -7107,7 +7107,6 @@ centerable
 centerboard
 centerboards
 centered
-centeredly
 centerer
 cannonball
 centerfold
@@ -18737,6 +18736,7 @@ chalinine
 croceines
 colchicaceae
 colchicia
+centeredly
 colchicin
 colchicine
 colchicum
