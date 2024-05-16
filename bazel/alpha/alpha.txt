@@ -5520,7 +5520,6 @@ afore
 aforegoing
 aforehand
 aforementioned
-aforetime
 allod
 arrhinia
 agenesic
@@ -10679,6 +10678,7 @@ aminoplast
 aminoplastic
 angulometer
 aminopolypeptidase
+aforetime
 aphronitre
 aminopurine
 aminoquin
