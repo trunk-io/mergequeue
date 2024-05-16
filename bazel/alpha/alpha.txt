@@ -6374,7 +6374,6 @@ agorot
 agos
 allicin
 agouara
-agouty
 agouties
 apodous
 agoutis
@@ -10393,6 +10392,7 @@ anaerobia
 ametropic
 ametrous
 amgarn
+agouty
 amhar
 amy
 afterbirths
