@@ -2797,7 +2797,6 @@ electrometallurgical
 eleoblast
 eleolite
 eleomargaric
-eleonorite
 eleoplast
 eleoptene
 erratuta
@@ -10462,6 +10461,7 @@ ethnological
 ersh
 evanishing
 ethnologically
+eleonorite
 ethnologist
 ethnologists
 ethnomanic
