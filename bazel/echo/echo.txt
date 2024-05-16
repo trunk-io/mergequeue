@@ -2662,6 +2662,7 @@ electrotelegraphy
 electrotelethermometer
 endplay
 epithelioma
+estated
 electrotellurograph
 exogens
 electrotherapeutical
@@ -6059,7 +6060,6 @@ enmeshed
 essentialize
 epicentre
 enmeshment
-estated
 enmity
 ethicizes
 enmities
