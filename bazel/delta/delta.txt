@@ -14747,7 +14747,6 @@ docks
 dockside
 dockworker
 dehiscent
-demonologist
 docmac
 docoglossa
 docoglossan
@@ -17321,6 +17320,7 @@ dooryard
 drolls
 dromaeognathae
 dexiotropous
+demonologist
 drome
 dromed
 dromedary
