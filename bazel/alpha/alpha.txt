@@ -5411,6 +5411,7 @@ abranchian
 afflictions
 archoplasm
 afflictive
+aliter
 afflictively
 avadavats
 afflicts
@@ -8415,7 +8416,6 @@ alyssums
 alist
 antiferroelectric
 alite
-aliter
 alytes
 ality
 alitrunk
