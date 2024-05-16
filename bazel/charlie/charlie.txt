@@ -4925,6 +4925,7 @@ cartage
 cowherbs
 cartboot
 carte
+conjuration
 carted
 cartel
 calor
@@ -22559,7 +22560,6 @@ chimbleys
 conjuncts
 conjunctur
 conjunctures
-conjuration
 conjurations
 conjurator
 cesar
