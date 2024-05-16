@@ -4393,7 +4393,6 @@ carinas
 carinatae
 carinate
 carinated
-cols
 coprocessing
 chologenetic
 carination
@@ -29415,6 +29414,7 @@ crispened
 crispening
 crispens
 crisper
+cols
 crispers
 crispest
 cymbals
