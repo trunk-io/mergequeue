@@ -8447,7 +8447,6 @@ bogomile
 biggen
 biggened
 biggening
-biggest
 bacons
 biliate
 biggy
@@ -11637,6 +11636,7 @@ boatbuilding
 boatel
 boatheader
 boathook
+biggest
 boathouse
 boatyard
 backbends
