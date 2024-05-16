@@ -7705,6 +7705,7 @@ fiefdom
 foregut
 forehalf
 feudalize
+flinchers
 forehall
 forehammer
 fabulousness
@@ -8553,7 +8554,6 @@ formulatory
 fontinal
 formulisation
 friaries
-flinchers
 formulist
 fream
 fanlike
