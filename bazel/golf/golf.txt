@@ -4152,7 +4152,6 @@ gim
 gimbal
 granum
 groining
-guildry
 grifted
 gimblet
 gimcrack
@@ -10654,6 +10653,7 @@ guests
 granaries
 generalissima
 gandhist
+guildry
 gurry
 goaling
 gurshes
