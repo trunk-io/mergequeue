@@ -5969,7 +5969,6 @@ gate
 gynoecium
 glucate
 gnomonia
-glucemia
 gliders
 gibelite
 glucic
@@ -10473,6 +10472,7 @@ gynecic
 gunated
 grudgeons
 gunboats
+glucemia
 grecale
 gemitores
 gunbuilder
