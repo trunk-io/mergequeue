@@ -13007,7 +13007,6 @@ dispels
 decliners
 direly
 dispend
-digitizer
 dinotheres
 devolatilize
 dispendious
@@ -15618,6 +15617,7 @@ doorpost
 doorposts
 dowl
 dawdle
+digitizer
 doorsill
 doorstead
 didactics
