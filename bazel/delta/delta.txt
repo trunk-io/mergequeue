@@ -13147,7 +13147,6 @@ display
 displayable
 displayed
 displayer
-diallages
 decolorate
 displaying
 displays
@@ -15107,6 +15106,7 @@ doilies
 degummed
 doylies
 doina
+diallages
 dullpate
 doing
 doings
