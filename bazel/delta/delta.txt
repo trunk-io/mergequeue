@@ -1823,6 +1823,7 @@ debauching
 debby
 dimethylmethane
 dislocatedness
+dtset
 daffle
 disengages
 debeak
@@ -9315,7 +9316,6 @@ dodgier
 decolorant
 dietitian
 dietitians
-dtset
 dietotherapeutics
 dietotherapy
 dietotoxic
