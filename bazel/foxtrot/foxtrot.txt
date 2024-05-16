@@ -60,7 +60,6 @@ faceable
 facebar
 facebow
 faced
-foreladies
 faceharden
 faceless
 flagships
@@ -10412,6 +10411,7 @@ flaps
 fertilised
 frontages
 formicaries
+foreladies
 frontal
 facewise
 frontalis
