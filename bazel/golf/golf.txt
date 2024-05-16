@@ -290,7 +290,6 @@ golgotha
 gringos
 grayout
 gaintwist
-ganev
 gamuts
 gainward
 gairfowl
@@ -10803,6 +10802,7 @@ guttulate
 gutturalise
 glibbery
 gregorianize
+ganev
 genitalic
 gaus
 ghazis
