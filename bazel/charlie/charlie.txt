@@ -3429,7 +3429,6 @@ concertised
 caprin
 candlebeam
 cimelia
-capriola
 caprioled
 caprioles
 caprioling
@@ -11927,6 +11926,7 @@ coxalgia
 choragion
 choragus
 choraguses
+capriola
 calashes
 chorai
 copeck
