@@ -557,7 +557,6 @@ embolus
 echinorhinus
 elbuck
 etnas
-exhaustivity
 echinozoa
 echinulate
 echinulated
@@ -14017,6 +14016,7 @@ extraterritoriality
 extraterritorially
 escoting
 eidolons
+exhaustivity
 encorpore
 extrathecal
 equestrianism
