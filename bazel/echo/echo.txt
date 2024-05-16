@@ -4699,6 +4699,7 @@ encysting
 euphemiser
 encystment
 eugenol
+emove
 encystments
 elect
 encysts
@@ -6559,7 +6560,6 @@ enwind
 enteric
 elaterid
 exolemma
-emove
 emphases
 elelments
 endothecate
