@@ -2524,7 +2524,6 @@ gallied
 growable
 gemmingia
 gemmipara
-gemmipares
 gemmiparous
 gomukhi
 gemmiparously
@@ -6967,6 +6966,7 @@ goodrich
 goodsire
 gentlefolk
 geromorphism
+gemmipares
 gnoff
 grayfly
 gastrohyperneuria
