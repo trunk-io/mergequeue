@@ -3811,6 +3811,7 @@ battuta
 biocontrol
 battute
 boysenberries
+bulblet
 bunkos
 beached
 bacterian
@@ -15114,7 +15115,6 @@ briarwood
 bribability
 bribable
 bribeability
-bulblet
 bribed
 blossomhead
 bribees
