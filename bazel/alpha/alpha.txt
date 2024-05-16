@@ -1629,6 +1629,7 @@ accorder
 accordingly
 accordion
 accordionist
+altica
 accordionists
 autoportrait
 antidrag
@@ -9513,7 +9514,6 @@ altho
 aspidate
 anargyroi
 althorn
-altica
 alticamelus
 altify
 aprosopous
