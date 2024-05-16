@@ -162,6 +162,7 @@ agnostical
 abatua
 abaue
 abave
+accordion
 abaxial
 abaxile
 abaze
@@ -1628,7 +1629,6 @@ accordature
 accorded
 accorder
 accordingly
-accordion
 accordionist
 accordionists
 autoportrait
