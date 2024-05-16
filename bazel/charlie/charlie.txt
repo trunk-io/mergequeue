@@ -20725,7 +20725,6 @@ complexedness
 complexer
 complexes
 complexest
-chelidonate
 complexify
 complexification
 complexing
@@ -25973,6 +25972,7 @@ corticiferous
 catchland
 corticifugal
 cimicid
+chelidonate
 corticifugally
 corticine
 corticipetal
