@@ -1874,6 +1874,7 @@ brownism
 brython
 bakehouse
 bandhava
+breezed
 bandhook
 bandyball
 bandicoy
@@ -14971,7 +14972,6 @@ breenge
 breenger
 blastostylar
 babushka
-breezed
 breezeful
 breezeway
 breezeways
