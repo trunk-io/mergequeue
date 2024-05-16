@@ -7303,6 +7303,7 @@ bevelling
 banditries
 ballasted
 bene
+boyardom
 backtrackers
 bestian
 bestiary
@@ -12014,7 +12015,6 @@ boyardism
 beefing
 boothose
 bartholomean
-boyardom
 burse
 boyarism
 bodysuit
