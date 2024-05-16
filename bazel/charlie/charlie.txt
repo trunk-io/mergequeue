@@ -16632,7 +16632,6 @@ clonus
 cloof
 chymaqueous
 cloop
-cloot
 clootie
 chargeling
 clop
@@ -28957,6 +28956,7 @@ cricetidae
 crancelin
 cricetids
 cricetus
+cloot
 crick
 cricked
 crickey
