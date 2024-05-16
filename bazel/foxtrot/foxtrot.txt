@@ -2307,7 +2307,6 @@ filesave
 fainaiguer
 femme
 femora
-femoral
 flic
 farmland
 femororotulian
@@ -9786,6 +9785,7 @@ fatten
 fallalishly
 fenestral
 freightliner
+femoral
 floosy
 freightment
 fishgrass
