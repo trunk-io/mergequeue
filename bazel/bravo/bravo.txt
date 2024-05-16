@@ -4454,7 +4454,6 @@ banana
 becharmed
 bellona
 bromhydric
-bechase
 bechatter
 bechauffeur
 bilker
@@ -17577,6 +17576,7 @@ banks
 burdens
 bustards
 bobadilish
+bechase
 burdensome
 beslushed
 beleaped

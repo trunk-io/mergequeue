@@ -2923,7 +2923,6 @@ elicitate
 eyewinks
 enfranchisable
 elicitation
-elicitor
 ennoblers
 elicitors
 elicits
@@ -6673,6 +6672,7 @@ enterosepsis
 ebracteolate
 enterotome
 empyreumatic
+elicitor
 enterotomy
 enterotoxemia
 enterotoxication
