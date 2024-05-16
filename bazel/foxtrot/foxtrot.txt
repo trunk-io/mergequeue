@@ -6198,7 +6198,6 @@ flrie
 flu
 fluate
 fluavile
-father
 fingery
 flubbed
 flubbing
@@ -9596,6 +9595,7 @@ firths
 falchion
 fastened
 fiador
+father
 freeman
 felicify
 flitches
