@@ -5295,6 +5295,7 @@ bloods
 begettal
 begetter
 broth
+buntline
 bandagist
 balk
 beggared
@@ -17514,7 +17515,6 @@ bowermay
 buntine
 brawlie
 bastardizing
-buntline
 buntlines
 braidings
 bipinnatiparted
