@@ -11917,7 +11917,6 @@ botonn
 bogart
 beatificate
 bogatyr
-bogbean
 bogbeans
 bogberry
 bogeyed
@@ -13846,6 +13845,7 @@ badinage
 bowkail
 beating
 blinking
+bogbean
 behave
 bowla
 breadstuffs

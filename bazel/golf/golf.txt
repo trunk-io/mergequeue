@@ -4489,7 +4489,6 @@ gloss
 globelet
 grides
 graplines
-ginks
 ganggang
 gangetic
 grammatist
@@ -9645,6 +9644,7 @@ given
 gruellings
 gruesome
 germens
+ginks
 gruesomer
 grassworm
 gruff
