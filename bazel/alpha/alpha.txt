@@ -735,7 +735,6 @@ abovedeck
 aboveground
 abovementioned
 azygomatous
-aboveproof
 aboves
 abovesaid
 abovestairs
@@ -20854,6 +20853,7 @@ austrophile
 arvel
 arverni
 arvicole
+aboveproof
 arvicolinae
 arvicoline
 atka
