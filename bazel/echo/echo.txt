@@ -10389,7 +10389,6 @@ equiglacial
 ethmonasal
 epulation
 effacer
-ethmopalatal
 ethmosphenoid
 enacts
 epiphyllous
@@ -12280,6 +12279,7 @@ execrating
 echiurida
 emerized
 execrations
+ethmopalatal
 execrative
 eunuchry
 execratively
