@@ -6008,6 +6008,7 @@ foundation
 floppy
 floppier
 floppies
+floorages
 fluvial
 ferbam
 fumigation
@@ -6396,7 +6397,6 @@ fifths
 fluorene
 fluorenes
 fluctuability
-floorages
 foveolar
 fluoresceine
 fluorescer
