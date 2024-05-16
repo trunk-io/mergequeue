@@ -2119,7 +2119,6 @@ bannocks
 bivittate
 banovina
 banquet
-banqueter
 bundist
 banqueting
 banquets
@@ -16163,6 +16162,7 @@ bekissing
 brougham
 bemole
 broughams
+banqueter
 brought
 broughta
 bryologies
