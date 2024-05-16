@@ -8736,7 +8736,6 @@ furors
 flailed
 fatihah
 finchery
-fortuitous
 faying
 firebases
 fidicula
@@ -10429,6 +10428,7 @@ fronter
 frontier
 formats
 fowage
+fortuitous
 frontierless
 farmyards
 fictor
