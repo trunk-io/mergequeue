@@ -4099,7 +4099,6 @@ fiords
 fiorin
 fiorite
 fontanel
-featherwood
 fluidrams
 flywheel
 fono
@@ -7447,6 +7446,7 @@ fasciculus
 filemark
 foreroom
 forecasting
+featherwood
 frankenia
 forceless
 festschrifts
