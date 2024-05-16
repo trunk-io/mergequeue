@@ -2494,7 +2494,6 @@ confraternities
 candlelighting
 candlelit
 carvels
-candlemaker
 candlemaking
 candlemas
 crewel
@@ -29608,6 +29607,7 @@ crocanthemum
 croceic
 croceine
 cursoriidae
+candlemaker
 croceins
 crocetin
 croceus
