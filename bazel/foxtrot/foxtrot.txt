@@ -9840,6 +9840,7 @@ freq
 frequence
 frequent
 factored
+frictionize
 ferash
 francia
 frequentage
@@ -11515,7 +11516,6 @@ flouncy
 fluently
 forwaked
 fusariose
-frictionize
 fusariosis
 fusarole
 fusate
