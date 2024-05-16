@@ -12574,7 +12574,6 @@ coffle
 chromoptometrical
 chromos
 coadjacency
-chromoscopy
 chromoscopic
 chromosomally
 condensate
@@ -21183,6 +21182,7 @@ cocytus
 concentrated
 concentrates
 concentration
+chromoscopy
 concentrations
 concentrative
 cicatricial
