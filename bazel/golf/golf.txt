@@ -3105,6 +3105,7 @@ geologized
 glosses
 gallinacei
 glassed
+galvanical
 gurgle
 geomancer
 geomancy
@@ -3317,7 +3318,6 @@ gachupin
 gigue
 galactase
 gen
-galvanical
 gerent
 gustatory
 guerdon
