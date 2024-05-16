@@ -6389,7 +6389,6 @@ ectoenzym
 ensilist
 ensilver
 existentially
-ensindon
 exarteritis
 ensisternum
 earthling
@@ -13259,6 +13258,7 @@ exploit
 exploitable
 exploitatory
 exploited
+ensindon
 exploitee
 exploiter
 exploiting
