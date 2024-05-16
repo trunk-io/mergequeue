@@ -2760,7 +2760,6 @@ baronetcy
 baronetcies
 buboed
 bookies
-brightsome
 bookit
 burmannia
 baroneting
@@ -13400,6 +13399,7 @@ blueprints
 bookiness
 bibliopoly
 biacromial
+brightsome
 bottegas
 bibliotheca
 bottekin
