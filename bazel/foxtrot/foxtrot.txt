@@ -6306,7 +6306,6 @@ followup
 fluidmeter
 fairylands
 faulted
-forceful
 fawnery
 fluidounce
 findal
@@ -10308,6 +10307,7 @@ fargood
 flubs
 frogfoot
 filite
+forceful
 flunkyism
 footnote
 foresightless
