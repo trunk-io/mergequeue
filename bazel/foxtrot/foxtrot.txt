@@ -7482,7 +7482,6 @@ forcleave
 fours
 foreknown
 ferrimagnet
-floatative
 forcut
 floes
 flebile
@@ -9636,6 +9635,7 @@ fullers
 freddy
 forche
 fudging
+floatative
 freddo
 fucate
 fishwives
