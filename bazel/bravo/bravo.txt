@@ -3828,6 +3828,7 @@ batwomen
 batuque
 bishopship
 beetlestock
+bonitarian
 batz
 batzen
 bumblingly
@@ -12553,7 +12554,6 @@ bordered
 bonitary
 bepommel
 beauing
-bonitarian
 bonity
 bullhide
 bonito
