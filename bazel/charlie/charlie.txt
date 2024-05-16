@@ -4214,6 +4214,7 @@ cardmaker
 chopin
 cardmaking
 cardo
+corregimientos
 cardol
 cardon
 cardona
@@ -25737,7 +25738,6 @@ correctress
 corrects
 centupled
 corregidor
-corregimientos
 chaucerianism
 correl
 coolaman
