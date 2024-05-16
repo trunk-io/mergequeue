@@ -2837,7 +2837,6 @@ beebread
 buttonmold
 barrabora
 barracan
-barrace
 barrack
 barracked
 borh
@@ -7856,6 +7855,7 @@ bursa
 brocard
 bhindi
 bhishti
+barrace
 bhistie
 bagh
 bhisties
