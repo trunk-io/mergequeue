@@ -3934,6 +3934,7 @@ cosponsored
 cataphracta
 carburetted
 carburetter
+consumables
 cameist
 carburetting
 carburettor
@@ -15312,7 +15313,6 @@ cezannesque
 claimants
 claimed
 claimer
-consumables
 claimers
 claiming
 claymore
