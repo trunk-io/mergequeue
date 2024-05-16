@@ -2300,6 +2300,7 @@ electrocardiogram
 exoperidium
 electrocardiograms
 electrocardiograph
+empiristic
 electrocardiographic
 electrocardiographically
 electrocatalysis
@@ -6418,7 +6419,6 @@ edental
 euctical
 ensnarl
 ensnarls
-empiristic
 ectocyst
 ensober
 ensophic
