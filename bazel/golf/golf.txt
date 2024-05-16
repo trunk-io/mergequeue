@@ -4764,6 +4764,7 @@ gowkit
 gumfield
 gameful
 groszy
+griddle
 gasconade
 gra
 galliards
@@ -8884,7 +8885,6 @@ grieko
 gecked
 gridded
 gyration
-griddle
 greund
 griddlecake
 giddiness
