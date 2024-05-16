@@ -5772,7 +5772,6 @@ encyrtid
 epizoicide
 engrainer
 engraining
-endict
 evans
 engrammatic
 encashes
@@ -6063,6 +6062,7 @@ enmeshment
 estated
 enmity
 ethicizes
+endict
 enmities
 enmove
 ennead
