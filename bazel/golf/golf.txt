@@ -2225,7 +2225,6 @@ gurish
 genocides
 gnathites
 gearcase
-gearcases
 guernseys
 glucose
 garbing
@@ -5746,6 +5745,7 @@ geologers
 gearings
 gastralgic
 gars
+gearcases
 grubbiest
 garlicwort
 groma
