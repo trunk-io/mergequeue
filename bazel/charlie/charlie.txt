@@ -7171,7 +7171,6 @@ centimes
 centimeters
 centimetre
 cashmerette
-centimetres
 centimo
 centimos
 centinel
@@ -29012,6 +29011,7 @@ countersconce
 crimean
 crimeful
 crimelessness
+centimetres
 crozzly
 crimeproof
 criminal
