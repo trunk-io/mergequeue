@@ -5606,7 +5606,6 @@ gypsum
 globalize
 gaugeably
 globalizing
-gasteria
 globally
 greasepaint
 gelsemium
@@ -7627,6 +7626,7 @@ gradings
 gradino
 greenier
 gradiometer
+gasteria
 general
 granters
 gradiometric
