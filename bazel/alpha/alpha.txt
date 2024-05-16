@@ -2991,7 +2991,6 @@ aland
 aerognosy
 alleluja
 acrosphacelus
-acrospire
 acrospiring
 aneurysms
 ampoule
@@ -17275,6 +17274,7 @@ apolysin
 apolysis
 apolista
 andamento
+acrospire
 apolistan
 aproctia
 aurignacian
