@@ -356,6 +356,7 @@ backfurrow
 birdlimed
 backgame
 bepuzzle
+bobtails
 beamlet
 backgammon
 barbarical
@@ -13246,7 +13247,6 @@ bostal
 bostanji
 bosthoon
 boston
-bobtails
 batakan
 bostonian
 blitheness
