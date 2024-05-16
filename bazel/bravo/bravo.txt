@@ -1266,6 +1266,7 @@ bedstead
 bardie
 balanceable
 bafflements
+baryonic
 bluejays
 balancelle
 brandishing
@@ -2570,7 +2571,6 @@ bleeder
 blackie
 basiglandular
 baryon
-baryonic
 baryphonia
 baryphonic
 baris
