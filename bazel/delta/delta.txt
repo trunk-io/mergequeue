@@ -5772,7 +5772,6 @@ deploying
 deployment
 dispansive
 diocletian
-decastich
 deployments
 deftest
 deplorabilia
@@ -7231,6 +7230,7 @@ datsw
 detar
 detassel
 detat
+decastich
 detd
 detect
 defoliating
