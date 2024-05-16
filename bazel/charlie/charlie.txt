@@ -3532,7 +3532,6 @@ cretion
 chaired
 captivated
 coset
-captivates
 captivating
 captivatingly
 captivative
@@ -12851,6 +12850,7 @@ chunder
 chung
 chunga
 chungking
+captivates
 conceits
 confronted
 chunk
