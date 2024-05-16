@@ -7031,7 +7031,6 @@ entrez
 epicranial
 entria
 expressivity
-entryman
 entrymen
 entryway
 enactory
@@ -10245,6 +10244,7 @@ exotically
 expressiveness
 enteropexy
 earphones
+entryman
 ethereous
 epagomenic
 etherialisation
