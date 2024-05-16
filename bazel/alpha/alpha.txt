@@ -581,7 +581,6 @@ amphicyonidae
 abnormal
 abnormalcy
 abnormalcies
-adjure
 abnormalise
 abnormalised
 abnormalising
@@ -18883,6 +18882,7 @@ archeologist
 archeopteryx
 archeostome
 anastomose
+adjure
 archer
 archerfishes
 actinoida
