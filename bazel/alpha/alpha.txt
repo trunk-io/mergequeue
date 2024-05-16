@@ -16328,7 +16328,6 @@ agrest
 antitheologizing
 arish
 antithesism
-antithetic
 antithetical
 antithetically
 anviling
@@ -17476,6 +17475,7 @@ apostolically
 apostolici
 abstracts
 apostolicity
+antithetic
 apostolize
 athrong
 aliment
