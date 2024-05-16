@@ -831,6 +831,7 @@ goldin
 gottlieb
 galways
 gamari
+glaieul
 gamash
 gonidium
 gamashes
@@ -5029,7 +5030,6 @@ globularity
 greeter
 glaga
 glagolic
-glaieul
 glaik
 gougingly
 galvaniser
