@@ -11746,7 +11746,6 @@ crossroading
 caperer
 choloid
 choloidinic
-chololith
 chololithic
 cholones
 cholophaein
@@ -17946,6 +17945,7 @@ coelect
 coelection
 coelector
 cacheted
+chololith
 captiving
 colpocele
 coelectron
