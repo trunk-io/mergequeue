@@ -1656,7 +1656,6 @@ ballottines
 ballpark
 bandi
 barrulety
-ballplayer
 ballplayers
 ballplatz
 bedrabbled
@@ -9527,6 +9526,7 @@ baptisteries
 byrlawman
 birle
 birler
+ballplayer
 birles
 bronchodilatation
 birlieman
