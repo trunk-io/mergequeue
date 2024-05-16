@@ -247,7 +247,6 @@ blotless
 barreleye
 brontosaur
 bacillariaceous
-bacillariales
 buccula
 bedfellow
 bacillarieae
@@ -4710,6 +4709,7 @@ bbls
 bedevilment
 bedew
 bedewed
+bacillariales
 bedewer
 bedews
 beltmaking
