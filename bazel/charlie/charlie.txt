@@ -26868,7 +26868,6 @@ counterexamples
 counterexcitement
 counterexercise
 coresidual
-counterexplanation
 counterextend
 counterextension
 counterfact
@@ -27992,6 +27991,7 @@ craftiness
 craftless
 craftly
 crafts
+counterexplanation
 craftsman
 craftsmanly
 charactonym
