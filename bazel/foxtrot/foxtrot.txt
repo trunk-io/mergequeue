@@ -509,7 +509,6 @@ fylgja
 falces
 falciform
 frowny
-falco
 falcon
 forthon
 fiscally
@@ -2548,6 +2547,7 @@ fermions
 fermium
 fern
 fastigium
+falco
 floripondio
 forint
 fiduciary
