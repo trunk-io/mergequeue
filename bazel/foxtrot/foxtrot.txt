@@ -6304,6 +6304,7 @@ faulted
 forceful
 fawnery
 fluidounce
+fairm
 findal
 frass
 flower
@@ -6429,7 +6430,6 @@ fluoridize
 flutier
 fluoridized
 fluorids
-fairm
 feltyfare
 fourfiusher
 feudalities
