@@ -4984,7 +4984,6 @@ flatbeds
 flannelette
 flanneling
 flannelleaves
-floc
 flannelly
 flannelmouth
 ferries
@@ -10691,6 +10690,7 @@ filletlike
 fruitbearing
 frankness
 fruitcakey
+floc
 fouette
 fruitcakes
 filtrability
