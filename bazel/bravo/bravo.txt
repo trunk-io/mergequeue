@@ -7684,6 +7684,7 @@ bewearies
 bewearying
 broccoli
 bloodleaf
+bighorns
 brainworker
 beweeper
 beweeps
@@ -11576,7 +11577,6 @@ blusterous
 blusterously
 blusters
 buffet
-bighorns
 bromobenzyl
 bm
 bo
