@@ -1664,7 +1664,6 @@ ballpoint
 ballrooms
 blandiloquious
 ballsier
-boycotter
 ballsiest
 ballstock
 ballup
@@ -5112,6 +5111,7 @@ broider
 befathered
 bemas
 befavor
+boycotter
 biglenoid
 bewith
 befeather
