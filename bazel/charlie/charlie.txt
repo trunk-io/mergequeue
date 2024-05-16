@@ -13698,7 +13698,6 @@ cymballed
 cymballike
 cob
 cymballing
-cimbalom
 cymbalom
 cimbaloms
 cymbalon
@@ -15760,6 +15759,7 @@ clausum
 clausure
 claut
 clava
+cimbalom
 clavacin
 clavae
 centres

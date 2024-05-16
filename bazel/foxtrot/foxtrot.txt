@@ -5290,7 +5290,6 @@ fluorites
 fleabite
 fricandoes
 fleabites
-foods
 fringelike
 friskier
 foreclosing
@@ -7651,6 +7650,7 @@ forefinger
 forjudged
 forefingers
 figlike
+foods
 fritillaries
 fistulized
 floorshifts
