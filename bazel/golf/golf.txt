@@ -3231,7 +3231,6 @@ geostrophically
 graylags
 gallein
 geotactically
-geotaxes
 geotechnic
 geotectonically
 graplin
@@ -9640,6 +9639,7 @@ gruelings
 govt
 ghanaians
 gaudies
+geotaxes
 grueller
 greedygut
 gulo
