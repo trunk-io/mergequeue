@@ -7709,7 +7709,6 @@ getaway
 graveyard
 graybacks
 gallanted
-glassless
 gingle
 graycoat
 grayest
@@ -9632,6 +9631,7 @@ gruelers
 graphologies
 gathered
 geezers
+glassless
 ganosis
 gruelingly
 gruelings
