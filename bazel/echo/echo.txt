@@ -5541,6 +5541,7 @@ eukaryote
 enflaming
 epiklesis
 embryotomy
+eulysite
 enflesh
 enlarge
 escapeway
@@ -12468,7 +12469,6 @@ eryon
 exhaustiveness
 elegances
 exhaustless
-eulysite
 echites
 essencing
 exheredation
