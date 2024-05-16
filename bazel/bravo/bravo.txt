@@ -9881,7 +9881,6 @@ bubblebow
 bisulfate
 bisulfide
 buries
-bisulphate
 bit
 bitable
 bidialectal
@@ -18175,6 +18174,7 @@ breviature
 butine
 butyraldehyde
 butyrals
+bisulphate
 butyrate
 bacillicide
 butyryls
