@@ -4742,7 +4742,6 @@ bathymetrically
 bacterioid
 bella
 beading
-busywork
 bedims
 bedirter
 brothellike
@@ -5309,6 +5308,7 @@ beggarly
 beggarlice
 beggarlike
 beggarliness
+busywork
 brimless
 beggarman
 beggarweed
