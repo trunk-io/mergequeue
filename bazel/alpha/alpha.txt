@@ -7320,6 +7320,7 @@ alaria
 allele
 alaric
 alarm
+averment
 abbess
 alarmclock
 alexanders
@@ -24645,7 +24646,6 @@ accordant
 alai
 averil
 andesite
-averment
 apholate
 acinetarian
 averments
