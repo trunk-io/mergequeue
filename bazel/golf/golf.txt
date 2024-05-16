@@ -1020,7 +1020,6 @@ gonotokont
 grasshook
 gundi
 ganderess
-geanticline
 gyrinus
 greeney
 ganders
@@ -9429,6 +9428,7 @@ goldmist
 groundlings
 groundmass
 glassophone
+geanticline
 groundneedle
 groundout
 gros
