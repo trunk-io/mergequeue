@@ -4436,7 +4436,6 @@ fishworks
 fringilliformes
 furze
 fishworm
-fisnoga
 fissidentaceous
 festschrift
 fissile
@@ -10297,6 +10296,7 @@ froebelism
 feared
 freon
 feyness
+fisnoga
 freetrader
 ferrado
 frogbit
