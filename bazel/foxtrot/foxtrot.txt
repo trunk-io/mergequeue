@@ -3397,7 +3397,6 @@ fieldsmen
 flosculose
 frate
 fieldstrip
-feaking
 faintish
 fieldwork
 fieldworker
@@ -3488,6 +3487,7 @@ flacker
 fight
 fightable
 fingerable
+feaking
 fatiguable
 forel
 fighteress
