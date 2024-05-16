@@ -283,6 +283,7 @@ backarrows
 backband
 backbar
 backbearing
+barmen
 backbencher
 backberand
 burely
@@ -7752,7 +7753,6 @@ beworries
 beworrying
 beworship
 bewpers
-barmen
 biciliate
 bewrayed
 bewrayer
