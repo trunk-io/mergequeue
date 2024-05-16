@@ -2568,7 +2568,6 @@ antireduction
 acocotl
 acoela
 acoelomata
-acoelomate
 anisotropal
 acoelomatous
 acoelomi
@@ -16028,6 +16027,7 @@ antiquated
 antiquates
 antiquation
 antique
+acoelomate
 antiqueness
 antiquers
 antiques
