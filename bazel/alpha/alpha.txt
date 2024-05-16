@@ -6878,6 +6878,7 @@ adiate
 abortus
 airglow
 airglows
+antiracing
 airgraphics
 areopagus
 anisometropia
@@ -19315,7 +19316,6 @@ ardent
 anchoritic
 ardently
 arder
-antiracing
 ardhanari
 antisceptic
 archconsoler
