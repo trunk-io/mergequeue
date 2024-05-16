@@ -2707,6 +2707,7 @@ beastings
 barnyards
 barnier
 barillas
+butein
 barnlike
 beadflush
 barnman
@@ -13027,7 +13028,6 @@ bordure
 buckbeans
 bordures
 blanche
-butein
 boreable
 boread
 boreal
