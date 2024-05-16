@@ -4556,7 +4556,6 @@ gipser
 gipsy
 gipsydom
 gipsied
-gipsies
 gugu
 gypsiferous
 gullable
@@ -8140,6 +8139,7 @@ graphitization
 gondolier
 graphitize
 gyros
+gipsies
 geobiology
 glacioaqueous
 grandfathership
