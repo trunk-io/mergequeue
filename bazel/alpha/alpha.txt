@@ -8944,7 +8944,6 @@ astragal
 allonym
 alongst
 allonymous
-allonymously
 allonyms
 allonomous
 alloo
@@ -9098,6 +9097,7 @@ achetidae
 allusions
 allusive
 awreak
+allonymously
 allusiveness
 allusory
 allutterly
