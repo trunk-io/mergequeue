@@ -3775,7 +3775,6 @@ electroplax
 erythrons
 ethene
 enddamaging
-expendables
 emendable
 emendandum
 ekerite
@@ -7245,6 +7244,7 @@ eom
 eon
 electrocatalytic
 eonian
+expendables
 eonism
 eons
 eopalaeozoic
