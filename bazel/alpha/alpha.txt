@@ -3535,7 +3535,6 @@ afterwort
 additions
 addititious
 additive
-additively
 alloisomeric
 appoggiatura
 additives
@@ -7585,6 +7584,7 @@ albumosuria
 albums
 adrenocorticotrophin
 arrestable
+additively
 alburn
 alburnous
 alburnum
