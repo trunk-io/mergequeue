@@ -6427,6 +6427,7 @@ flyboat
 fitchet
 fluoridization
 fancier
+formularist
 fluoridize
 flutier
 fluoridized
@@ -8535,7 +8536,6 @@ foggy
 frizzling
 formularised
 formularising
-formularist
 fee
 flusterate
 figs
