@@ -5549,7 +5549,6 @@ deorsum
 deorsumvergence
 deorsumversion
 deossify
-deossification
 dramatizing
 deota
 dyakisdodecahedron
@@ -11192,6 +11191,7 @@ disbenching
 disbenchment
 disbend
 disenfranchise
+deossification
 decarbonylation
 dispair
 digitigrada

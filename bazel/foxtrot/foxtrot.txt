@@ -30,6 +30,7 @@ fieldmen
 floey
 fibrolitic
 fabricated
+flybelts
 fabricates
 fabricating
 fabrication
@@ -5507,7 +5508,6 @@ flatworm
 fluctuant
 flibbertigibbety
 flybelt
-flybelts
 fortunetellers
 foolhardier
 featherers
