@@ -5362,7 +5362,6 @@ crizzling
 castellanies
 castellano
 castellans
-castellanship
 castellate
 castellated
 castellation
@@ -17862,6 +17861,7 @@ codicil
 cinereous
 codicilic
 codicils
+castellanship
 codicology
 codictatorship
 codification
