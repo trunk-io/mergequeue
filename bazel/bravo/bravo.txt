@@ -1543,7 +1543,6 @@ balled
 bicorporal
 barbules
 blauboks
-baller
 ballerina
 ballerinas
 ballers
@@ -7448,6 +7447,7 @@ bethanked
 bethanking
 bethankit
 barycentric
+baller
 bethanks
 bethel
 blunter
