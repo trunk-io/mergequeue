@@ -7511,6 +7511,7 @@ altumal
 albruna
 aposiopestic
 albs
+acquisition
 albuca
 albuginaceae
 albuginea
@@ -14529,7 +14530,6 @@ anthrop
 anthrophore
 anthropic
 anthropical
-acquisition
 anthropobiology
 automaton
 arthritism
