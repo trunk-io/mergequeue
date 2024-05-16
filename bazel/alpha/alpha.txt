@@ -21011,7 +21011,6 @@ ascidiate
 angelologic
 ascidiform
 ascidioid
-ascidioida
 ascidioidea
 ascidiozoa
 ascidiozooid
@@ -22391,6 +22390,7 @@ astrut
 astucity
 asturian
 anaretic
+ascidioida
 astuteness
 astutious
 antivenomous
