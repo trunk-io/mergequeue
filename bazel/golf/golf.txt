@@ -5811,7 +5811,6 @@ glossator
 gumflower
 glossectomy
 glossematic
-grenado
 glossemes
 glossemic
 glossers
@@ -10137,6 +10136,7 @@ gigglers
 guianan
 gloried
 guyandot
+grenado
 guidable
 guidance
 git
