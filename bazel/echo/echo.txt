@@ -6543,7 +6543,6 @@ enteralgia
 enterally
 enterate
 enterectomy
-enterectomies
 echelons
 exuviates
 enterer
@@ -13835,6 +13834,7 @@ eteocles
 extractibility
 escallonia
 extractible
+enterectomies
 exantlation
 evections
 extractiform
