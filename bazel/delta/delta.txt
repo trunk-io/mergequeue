@@ -4733,6 +4733,7 @@ divaricating
 demireps
 demirhumb
 demirilievo
+dynasty
 demirobe
 demonastery
 dungyard
@@ -10073,7 +10074,6 @@ dinars
 dinarzade
 demodocus
 dynast
-dynasty
 disengage
 dynastically
 dynastid
