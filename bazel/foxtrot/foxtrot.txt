@@ -6491,6 +6491,7 @@ fernbird
 forsteal
 flurries
 flurrying
+flayer
 flurriment
 fisted
 futteret
@@ -10985,7 +10986,6 @@ fertilities
 fooled
 funding
 fibrillations
-flayer
 fulzie
 fumado
 frontrunner
