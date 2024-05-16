@@ -12890,7 +12890,6 @@ anglicism
 anglicisms
 anglicization
 anglicize
-anglicized
 anglify
 alkalometry
 anglimaniac
@@ -20119,6 +20118,7 @@ aromaticity
 actinosoma
 auriscopically
 aromatics
+anglicized
 aromatise
 adscripted
 aromatised
