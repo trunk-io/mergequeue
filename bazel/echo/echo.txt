@@ -560,6 +560,7 @@ egotist
 echinorhynchus
 embolus
 echinorhinus
+enolases
 elbuck
 etnas
 exhaustivity
@@ -6128,7 +6129,6 @@ enoil
 enoint
 enterological
 enolase
-enolases
 enwrapped
 enolic
 enolizable

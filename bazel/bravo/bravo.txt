@@ -11993,6 +11993,7 @@ bohemium
 basin
 braula
 biogens
+bet
 bohireen
 begroaned
 breathing
@@ -13714,7 +13715,6 @@ bouteria
 brigands
 ballproof
 bouteselle
-bet
 boutylka
 boutique
 bouto
