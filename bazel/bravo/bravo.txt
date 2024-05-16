@@ -7783,7 +7783,6 @@ befreckle
 bewry
 blockhole
 bewrite
-bankroller
 bullwhip
 braggardism
 bahar
@@ -13697,6 +13696,7 @@ bourree
 bourrees
 bourrelet
 briefs
+bankroller
 bourse
 bourtree
 bathochrome
