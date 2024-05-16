@@ -733,7 +733,6 @@ ecorche
 ecosystem
 ecosystems
 erastian
-enstyle
 ellipsometer
 ergotisms
 ecospecific
@@ -10313,6 +10312,7 @@ esperantic
 enseel
 evicts
 ethician
+enstyle
 executer
 ethicians
 eternise
