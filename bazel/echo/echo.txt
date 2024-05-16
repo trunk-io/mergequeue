@@ -5126,6 +5126,7 @@ endogenies
 exundation
 endogenous
 essive
+environs
 endogenously
 electo
 embroider
@@ -6503,7 +6504,6 @@ extraplanetary
 ebionize
 egophonic
 entangles
-environs
 entanglingly
 entapophysis
 entases

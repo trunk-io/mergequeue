@@ -7448,6 +7448,7 @@ cephalomancy
 commisce
 cephalomant
 cephalomeningitis
+circumdiction
 cultivatable
 cleansing
 cephalomere
@@ -18499,7 +18500,6 @@ cill
 craterid
 cohortative
 cohosh
-circumdiction
 crownlet
 consigner
 cohoshes
