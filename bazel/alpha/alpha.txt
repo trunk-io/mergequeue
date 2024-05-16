@@ -4004,7 +4004,6 @@ adjoints
 apieces
 adjourn
 adjournal
-anhelous
 arylamino
 adjourned
 adjourning
@@ -12794,6 +12793,7 @@ adeems
 angiography
 angiographic
 angiohemophilia
+anhelous
 angiohypotonia
 anachronously
 angioid
