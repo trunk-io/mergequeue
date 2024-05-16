@@ -4010,6 +4010,7 @@ bnf
 basely
 beaching
 beachless
+bungarus
 beachman
 beachmaster
 buenas
@@ -17426,7 +17427,6 @@ bungalows
 bungarum
 beauish
 breviary
-bungarus
 bandel
 beachier
 blockage
