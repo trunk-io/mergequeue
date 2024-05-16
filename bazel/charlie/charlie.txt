@@ -3417,6 +3417,7 @@ capryl
 caprylate
 caprylene
 caprylic
+cleanse
 cymene
 caprylyl
 caprylin
@@ -15865,7 +15866,6 @@ chainlet
 cleanliest
 cleanout
 cleansable
-cleanse
 cleanser
 cleansers
 cleanses

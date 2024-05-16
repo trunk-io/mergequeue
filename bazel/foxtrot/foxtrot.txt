@@ -432,7 +432,6 @@ fishgig
 fairnesses
 fragilely
 fur
-fairship
 fairway
 faultfinders
 fishline
@@ -11308,6 +11307,7 @@ furbelowing
 furcula
 fabular
 fleabug
+fairship
 furbish
 furbishes
 flaxwife
