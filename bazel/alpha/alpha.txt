@@ -12236,7 +12236,6 @@ anchusa
 anchusas
 anchusin
 aequorin
-amblypoda
 anchusine
 azotine
 ancien
@@ -17062,6 +17061,7 @@ appast
 aplacophora
 aplacophoran
 aplacophorous
+amblypoda
 argumentatious
 aftertan
 asteroidean
