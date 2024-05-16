@@ -10514,7 +10514,6 @@ blastocoel
 blastocoele
 blastodermic
 balcone
-blastodisc
 blastoffs
 bioclimatological
 boxfish
@@ -12991,6 +12990,7 @@ blackberry
 bakeboard
 bordering
 bolster
+blastodisc
 borderings
 borders
 botrydium
