@@ -453,7 +453,6 @@ exerts
 ecclesia
 ecclesiarch
 ecclesiarchy
-ecclesiast
 expostulated
 empasm
 ecclesiastically
@@ -3198,6 +3197,7 @@ elul
 executioners
 elusion
 epactal
+ecclesiast
 elusive
 entrench
 endocardiac
