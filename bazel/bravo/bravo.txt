@@ -630,7 +630,6 @@ bacteriodiagnosis
 bromates
 benomyls
 bacterid
-bacteriogenic
 bacteriogenous
 bacteriohemolysin
 benzin
@@ -1690,6 +1689,7 @@ balmorals
 bunemost
 byegaein
 bedticks
+bacteriogenic
 bathless
 balms
 bawdyhouse
