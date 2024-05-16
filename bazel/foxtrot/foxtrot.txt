@@ -2317,7 +2317,6 @@ fen
 fenagled
 fatil
 fenagles
-fence
 fenced
 fenceless
 fencelessness
@@ -3651,6 +3650,7 @@ filosus
 functionaries
 furbisher
 freddie
+fence
 filing
 fimbristylis
 filicology
