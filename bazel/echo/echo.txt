@@ -1279,7 +1279,6 @@ emigrations
 encircler
 eerisome
 elaeoblast
-ergoplasm
 enduros
 epyllia
 eesome
@@ -11750,6 +11749,7 @@ eunuchized
 exaltate
 exaltation
 excurvature
+ergoplasm
 elegancies
 elderwomen
 exaltations
