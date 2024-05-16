@@ -9592,6 +9592,7 @@ circumferences
 checkpoint
 checkpointed
 concursus
+counterroll
 checkpointing
 checkpoints
 commonize
@@ -27117,7 +27118,6 @@ chivaring
 codiaceous
 counterrevolutionist
 counterriposte
-counterroll
 counterrotating
 counterround
 counterruin

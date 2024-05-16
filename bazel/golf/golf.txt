@@ -1475,6 +1475,7 @@ glossanthrax
 garnishment
 garnison
 garniture
+gigantize
 grecize
 ganyie
 grimace
@@ -10332,7 +10333,6 @@ gules
 gulfy
 gulfiest
 gerbo
-gigantize
 gown
 gulfside
 grot
