@@ -2165,6 +2165,7 @@ gawn
 gateways
 gapo
 gardenize
+goldbrick
 grantedly
 gazabo
 gazabos
@@ -6527,7 +6528,6 @@ gregorian
 gallivanted
 gouger
 goldbird
-goldbrick
 griffinism
 guineapig
 goldbug
