@@ -6740,6 +6740,7 @@ gong
 gunreach
 gonged
 gekkota
+gunmetal
 gonomery
 gongorist
 gild
@@ -10529,7 +10530,6 @@ gunmaking
 gaun
 guelphic
 grasset
-gunmetal
 gurmukhi
 gcd
 gymnodont
