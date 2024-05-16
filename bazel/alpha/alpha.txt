@@ -2303,6 +2303,7 @@ achromatope
 achromatophile
 achromatophilia
 achromatophilic
+attributive
 achromatopia
 achromatopsy
 apologizes
@@ -23196,7 +23197,6 @@ attributes
 attributing
 affrontingness
 attributions
-attributive
 attributively
 attributor
 apolitically
