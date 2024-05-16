@@ -1537,6 +1537,7 @@ guild
 garths
 gargoyled
 garum
+gendarmes
 girdlers
 gidjee
 guaiocum
@@ -2595,7 +2596,6 @@ geobotanical
 gendarmerie
 gnawings
 guided
-gendarmes
 gigacycle
 genderer
 goliardery
