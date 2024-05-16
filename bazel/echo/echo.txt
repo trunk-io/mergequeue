@@ -13406,7 +13406,6 @@ expurge
 excipular
 etas
 expressway
-expressways
 exprimable
 exencephalous
 embitterer
@@ -13996,6 +13995,7 @@ extraspinal
 eco
 enteroclisis
 expositoriness
+expressways
 epidemy
 elaidic
 eretrian
