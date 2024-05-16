@@ -4773,7 +4773,6 @@ gra
 galliards
 gamori
 gironde
-girondin
 glyoxime
 gentrice
 gironny
@@ -10327,6 +10326,7 @@ guanaco
 gules
 gulfy
 gulfiest
+girondin
 gerbo
 gigantize
 gown
