@@ -727,7 +727,6 @@ entrenchments
 elaterin
 ecophysiology
 esteriferous
-enolization
 ecorche
 ecosystem
 ecosystems
@@ -5208,6 +5207,7 @@ epistolarily
 endoprocta
 extumescence
 egocentrism
+enolization
 endoproctous
 endopterygota
 endopterygote
