@@ -16023,7 +16023,6 @@ cyclos
 clergymen
 clergion
 clergywoman
-culverfoot
 clerical
 clericalists
 clericality
@@ -22266,6 +22265,7 @@ congeree
 congery
 congerie
 coloratura
+culverfoot
 congers
 congession
 cupride
