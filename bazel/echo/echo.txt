@@ -3788,7 +3788,6 @@ emendable
 emendandum
 ekerite
 escutcheon
-emendations
 esthetical
 eggshells
 emendator
@@ -9760,6 +9759,7 @@ espadrilles
 espagnole
 elaeagnus
 entitles
+emendations
 espagnolette
 espaliered
 eupterotidae
