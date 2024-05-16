@@ -2683,7 +2683,6 @@ benzoic
 barmbrack
 barmcloth
 brither
-barmfel
 becoward
 barmote
 barms
@@ -14884,6 +14883,7 @@ breastpin
 breastplates
 breastplow
 breastrail
+barmfel
 bulking
 breastrope
 breasts
