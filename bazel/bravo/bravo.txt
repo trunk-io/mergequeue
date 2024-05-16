@@ -2066,7 +2066,6 @@ bankrupcy
 bankrupt
 bosporan
 bacteroideae
-borate
 bankruptcy
 boltel
 bankrupting
@@ -3750,6 +3749,7 @@ batterdock
 battered
 binational
 batterer
+borate
 batterie
 breck
 batteried
