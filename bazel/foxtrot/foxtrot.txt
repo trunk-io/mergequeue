@@ -5351,6 +5351,7 @@ fleece
 factory
 fribourg
 feirie
+foisonless
 forechurch
 fichu
 fleeceless
@@ -6787,7 +6788,6 @@ foresighted
 franklinist
 furthersome
 foison
-foisonless
 flavorers
 fusils
 failsafe
