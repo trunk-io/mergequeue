@@ -1693,6 +1693,7 @@ fconv
 farcin
 familiar
 faradocontractility
+format
 four
 fdnames
 fdtype
@@ -7746,7 +7747,6 @@ floatmaker
 floodlights
 finnack
 forbathe
-format
 fulls
 frequencies
 flavedos
