@@ -7689,7 +7689,6 @@ cerebroid
 cerebromalacia
 cerebromeningeal
 cerebromeningitis
-cerebrometer
 cassumuniar
 cerebron
 cerebronic
@@ -31755,6 +31754,7 @@ custumal
 cut
 cutaneal
 cutaneous
+cerebrometer
 cutaneously
 counterlighting
 ck
