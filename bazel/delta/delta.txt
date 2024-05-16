@@ -8769,7 +8769,6 @@ diatomicity
 diatomin
 defocusses
 diatomine
-diatomist
 diaporesis
 dysmerogenesis
 diatomous
@@ -8936,6 +8935,7 @@ downdraft
 dichord
 deathblows
 discoveries
+diatomist
 dichotically
 dichotomy
 dichotomic
