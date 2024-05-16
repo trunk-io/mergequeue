@@ -5857,7 +5857,6 @@ desmotropism
 dampish
 drugman
 decoupled
-defats
 deposer
 deposers
 deposes
@@ -6273,6 +6272,7 @@ dermatagra
 dermatalgia
 dolicholus
 dizaine
+defats
 dermataneuria
 dermatatrophia
 dermatauxe
