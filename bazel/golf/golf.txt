@@ -5220,7 +5220,6 @@ guichet
 grocers
 glaucescent
 gastrosoph
-glaucidium
 grapnels
 gammer
 glaucin
@@ -8687,6 +8686,7 @@ greenlandman
 gamasid
 galyak
 gools
+glaucidium
 guacharoes
 gomlah
 greenleek
