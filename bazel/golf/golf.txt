@@ -640,7 +640,6 @@ gormandiser
 gadaea
 galliots
 gleanings
-gurnets
 gousty
 gadfly
 gallipot
@@ -830,6 +829,7 @@ gottlieb
 galways
 gamari
 gamash
+gurnets
 gonidium
 gamashes
 graminiferous
