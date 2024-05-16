@@ -2696,7 +2696,6 @@ framesmith
 fincas
 flintiness
 freeloving
-ferrugo
 flusters
 foreshoulder
 ferrule
@@ -4450,6 +4449,7 @@ farcing
 fissioned
 fissions
 fregit
+ferrugo
 fissipalmation
 fissiparism
 forheed
