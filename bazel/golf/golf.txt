@@ -2595,6 +2595,7 @@ gospodar
 glenwood
 genapping
 genarch
+gorgoneion
 galenian
 guildite
 gossaniferous
@@ -10219,7 +10220,6 @@ guyline
 gooney
 guardsmen
 guillem
-gorgoneion
 gynecophore
 guillermo
 gutsy
