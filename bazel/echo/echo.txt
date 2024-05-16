@@ -4752,7 +4752,6 @@ encoffinment
 extense
 esox
 enlimn
-encoil
 encolden
 encollar
 euryalean
@@ -7057,6 +7056,7 @@ eau
 enucleated
 excitomuscular
 enumerability
+encoil
 epris
 enumerably
 enumerates
