@@ -921,7 +921,6 @@ gamelans
 gameless
 gentian
 gamelike
-goracco
 gadids
 gladiole
 ganglionitis
@@ -9907,6 +9906,7 @@ glumpy
 guardable
 guardedness
 goatroot
+goracco
 guardeen
 ghatwal
 guardhouses
