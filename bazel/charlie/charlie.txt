@@ -11324,7 +11324,6 @@ chlorinated
 chlorinates
 chlorinating
 chlorination
-chlorinator
 chlorines
 chlorinity
 chlorinize
@@ -18221,6 +18220,7 @@ cofather
 cutlery
 cofeature
 coferment
+chlorinator
 cofermentation
 coffea
 centrolineal
