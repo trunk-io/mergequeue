@@ -7298,6 +7298,7 @@ centrode
 centrodesmus
 centrodorsal
 centroidal
+cresc
 centroids
 centrolepidaceae
 centrolepidaceous
@@ -28771,7 +28772,6 @@ chafer
 crepusculine
 crepusculum
 cres
-cresc
 crescence
 crescendo
 crescendoed
