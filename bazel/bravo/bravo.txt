@@ -3817,7 +3817,6 @@ backspins
 batton
 batts
 blowpipe
-battu
 battues
 batture
 battuta
@@ -7215,6 +7214,7 @@ beaugregories
 becalmed
 bespell
 bespelled
+battu
 bigoted
 bespend
 bespew
