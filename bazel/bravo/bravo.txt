@@ -1637,7 +1637,6 @@ ballota
 ballotade
 blier
 bilobated
-balloted
 balloter
 betrayal
 balloters
@@ -16913,6 +16912,7 @@ bugginess
 bught
 baku
 bugi
+balloted
 buginese
 buginvillaea
 bugle
