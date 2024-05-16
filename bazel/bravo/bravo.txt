@@ -1557,7 +1557,6 @@ battling
 balletomania
 bigged
 ballets
-ballfield
 ballgame
 ballgames
 ballgowns
@@ -6255,6 +6254,7 @@ briolet
 benedictions
 barograph
 bolides
+ballfield
 biker
 benedictive
 benedictively
