@@ -849,6 +849,7 @@ absampere
 awanting
 azygobranchiata
 apiary
+aglow
 arache
 absaroka
 allergy
@@ -6247,7 +6248,6 @@ aspartokinase
 aglossa
 aglossal
 aglossia
-aglow
 aglucon
 aglucone
 agma
