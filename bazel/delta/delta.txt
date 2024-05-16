@@ -5300,7 +5300,6 @@ denotative
 deliriums
 denotatively
 denotativeness
-denotatum
 denote
 denoted
 denotement
@@ -18142,6 +18141,7 @@ dumpcarts
 dropper
 dumper
 dayboy
+denotatum
 dumpy
 dumpier
 dumpiest
