@@ -340,7 +340,6 @@ ebbets
 ebbing
 ebbs
 ebcasc
-ebcd
 eben
 excided
 experts
@@ -933,6 +932,7 @@ extravagated
 ectromelus
 equipping
 ectropion
+ebcd
 ectropionization
 ectropionize
 ectropium
