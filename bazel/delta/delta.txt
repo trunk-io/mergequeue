@@ -5942,7 +5942,6 @@ depreciator
 depreciatoriness
 deoxygenization
 deforceor
-depreciators
 depredate
 depredated
 discernibleness
@@ -9576,6 +9575,7 @@ digraph
 digraphically
 digredience
 digrediency
+depreciators
 digredient
 decenaries
 disjunction
