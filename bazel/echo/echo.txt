@@ -7243,7 +7243,6 @@ eolopiles
 eggnogs
 eolotropic
 extraenteric
-eom
 eon
 echoless
 electrocatalytic
@@ -7344,6 +7343,7 @@ eparterial
 endymal
 epaule
 epaulement
+eom
 effodientia
 epauleted
 electrologic
