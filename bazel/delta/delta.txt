@@ -9249,7 +9249,6 @@ dier
 damoiselle
 dyer
 dementis
-dieresis
 dieretic
 dieri
 desightment
@@ -15815,6 +15814,7 @@ dorsocaudad
 dorsocentral
 diminishing
 dorsocephalad
+dieresis
 dorsocervical
 distillers
 dorsocervically
