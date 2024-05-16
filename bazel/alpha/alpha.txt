@@ -11773,6 +11773,7 @@ addressee
 arbitre
 analyses
 analysing
+astrophotographic
 amerindian
 antimoniate
 analysis
@@ -22374,7 +22375,6 @@ astrophysics
 astrophyton
 astrophotography
 abrader
-astrophotographic
 astrophotometer
 astrophotometry
 astrophotometrical
