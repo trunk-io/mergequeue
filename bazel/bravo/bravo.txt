@@ -10391,7 +10391,6 @@ blamelessness
 blamers
 blameworthy
 beode
-behaviorally
 bidarkee
 bepainting
 blanc
@@ -16925,6 +16924,7 @@ bugleweed
 buglewort
 buffer
 blennophlogisma
+behaviorally
 bugling
 bugloss
 buglosses
