@@ -1954,6 +1954,7 @@ bandstring
 bandurria
 bandusia
 brandishes
+barytone
 bosquets
 bandwagon
 burdenable
@@ -2590,7 +2591,6 @@ barytocalcite
 beclothed
 bedevils
 barytocelestite
-barytone
 barytones
 bedaff
 barytons
