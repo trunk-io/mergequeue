@@ -6687,6 +6687,7 @@ ayes
 aigialosaur
 aigialosauridae
 aigialosaurus
+antasthenic
 aiglet
 antsy
 aiglets
@@ -14060,7 +14061,6 @@ antarctically
 antarctogaea
 amphitropal
 antas
-antasthenic
 antasthmatic
 antatrophic
 antdom
