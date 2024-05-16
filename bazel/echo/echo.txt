@@ -18,7 +18,6 @@ eadi
 excoriator
 earthmove
 eadios
-eager
 eagerest
 eagerness
 eagled
@@ -6572,6 +6571,7 @@ enterobacterial
 eosinophilia
 epoxide
 egretta
+eager
 enterobiliary
 enterrologist
 equivalue
