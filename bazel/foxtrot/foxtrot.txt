@@ -2770,7 +2770,6 @@ floodwall
 fwd
 falanaka
 fervidly
-fervor
 forecar
 formicivorous
 fervorous
@@ -6028,6 +6027,7 @@ furanoside
 floramour
 floras
 furnaced
+fervor
 forced
 fluty
 floreating
