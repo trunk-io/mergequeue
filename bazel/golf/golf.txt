@@ -5181,7 +5181,6 @@ galoisian
 grasni
 glassines
 glassiness
-glasslikeness
 gourdiness
 goosefoots
 gravery
@@ -6855,6 +6854,7 @@ gonoblast
 gynaecologic
 gonoblastidium
 grooving
+glasslikeness
 gonocalycine
 gonochorism
 greekless
