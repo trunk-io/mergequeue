@@ -9876,7 +9876,6 @@ chemicophysical
 cresses
 ciliary
 chemicophysiological
-curtaining
 chemiculture
 chemigraphy
 chemigraphic
@@ -21441,6 +21440,7 @@ cytherellidae
 conclusional
 conclusionally
 conceptualizing
+curtaining
 condors
 conclusions
 conclusive
