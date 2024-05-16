@@ -307,6 +307,7 @@ cackle
 cackler
 counterend
 cacklers
+carses
 cackles
 cackling
 cacks
@@ -4903,7 +4904,6 @@ compiles
 carrs
 cars
 carse
-carses
 corial
 chondrosteous
 cogitable
