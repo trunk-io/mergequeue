@@ -6500,7 +6500,6 @@ agrobiologist
 aceric
 agrodolce
 aliphatic
-agrogeology
 agrogeological
 agrology
 agrologic
@@ -6637,6 +6636,7 @@ ahura
 ahush
 ahuula
 ahwal
+agrogeology
 ai
 albahaca
 ay
