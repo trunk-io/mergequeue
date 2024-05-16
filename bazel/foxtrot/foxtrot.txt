@@ -2960,7 +2960,6 @@ fetuses
 ferrichloride
 fruitlet
 foeniculum
-feudal
 feudalising
 febricide
 feudalism
@@ -11477,6 +11476,7 @@ furrowing
 furrowless
 furrowlike
 furrows
+feudal
 furrure
 foredid
 fursemide
