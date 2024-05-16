@@ -12892,7 +12892,6 @@ churchgoers
 canvass
 churchgoing
 churchgrith
-churchy
 churchianity
 churchyard
 churchyards
@@ -31025,6 +31024,7 @@ cumulous
 countershafting
 cumulus
 cun
+churchy
 cuna
 cunabular
 cunan
