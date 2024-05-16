@@ -1519,6 +1519,7 @@ baronetised
 ballastage
 bulbiform
 bouton
+buttling
 backsword
 butomus
 ballaster
@@ -12787,7 +12788,6 @@ boo
 baritonal
 boomboat
 boomboxes
-buttling
 boomed
 boomeranged
 boozehound
