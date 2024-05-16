@@ -9409,6 +9409,7 @@ diffuses
 dechlore
 diffusible
 diffusibleness
+discussing
 diffusimeter
 diffusing
 diffusion
@@ -11871,7 +11872,6 @@ discursus
 discurtain
 delicateness
 discusses
-discussing
 diachaenium
 discussion
 dunked
