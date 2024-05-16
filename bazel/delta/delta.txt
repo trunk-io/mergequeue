@@ -5359,7 +5359,6 @@ dissolutionist
 dentale
 dentalgia
 dentalia
-dentalised
 dentalism
 diamagnetically
 deviate
@@ -16862,6 +16861,7 @@ determinativeness
 dissyllabise
 diffidence
 drawoff
+dentalised
 drawout
 drawplate
 domicilii
