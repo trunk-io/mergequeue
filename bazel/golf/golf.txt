@@ -2861,6 +2861,7 @@ genteel
 glike
 grano
 gaulin
+gingivolabial
 graddan
 genteelize
 gelating
@@ -4450,7 +4451,6 @@ gingivectomy
 guberniya
 golfs
 gigerium
-gingivolabial
 gashy
 gays
 ginglymi
