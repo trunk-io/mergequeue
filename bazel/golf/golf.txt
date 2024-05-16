@@ -6402,7 +6402,6 @@ glycohaemia
 goblinesque
 griffins
 goblinish
-glyceryl
 gramophones
 gentry
 goundou
@@ -9845,6 +9844,7 @@ guardianless
 gerygone
 guanin
 garrisoning
+glyceryl
 guanines
 guanize
 grendel
