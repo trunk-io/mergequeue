@@ -5794,7 +5794,6 @@ beliefs
 beliers
 belies
 believability
-believed
 believer
 believers
 believes
@@ -8017,6 +8016,7 @@ bibliomania
 bibliomaniac
 behavioristic
 buxerries
+believed
 biduous
 bibliomanian
 bibliomanianism
