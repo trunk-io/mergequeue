@@ -5795,7 +5795,6 @@ fathmur
 flamb
 foredoom
 flitters
-flitty
 flitting
 frivolize
 flitwite
@@ -8926,6 +8925,7 @@ falsettos
 fasciolar
 foulminded
 flacourtiaceae
+flitty
 freinage
 fibrochondroma
 floreta
