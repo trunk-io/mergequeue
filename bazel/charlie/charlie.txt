@@ -11248,7 +11248,6 @@ chloralum
 chlorambucil
 chloramin
 crepidomata
-chloramine
 chloramphenicol
 caperwort
 chilopodous
@@ -15847,6 +15846,7 @@ confectioneries
 clean
 cleanable
 cleaned
+chloramine
 cleaner
 cleanest
 chlormethylic
