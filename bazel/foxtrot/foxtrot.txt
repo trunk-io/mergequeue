@@ -5041,7 +5041,6 @@ flinches
 flashcube
 fatigated
 flashcubes
-fario
 fidicinal
 flashed
 fireable
@@ -9196,6 +9195,7 @@ fondue
 falterers
 ferried
 foveolate
+fario
 fractionating
 fractionation
 fossorial
