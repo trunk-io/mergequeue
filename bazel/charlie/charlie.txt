@@ -19738,6 +19738,7 @@ cations
 combinedness
 classifiers
 cloudburst
+condone
 combiner
 combiners
 combines
@@ -21770,7 +21771,6 @@ condonable
 condonance
 condonation
 condonative
-condone
 condonement
 condoner
 condoners
