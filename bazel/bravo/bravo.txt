@@ -4695,7 +4695,6 @@ bedemen
 bedesman
 breadstuff
 beautyship
-bedeswomen
 bdft
 bedeviling
 bedevilled
@@ -6594,6 +6593,7 @@ broached
 bletted
 burge
 bellon
+bedeswomen
 bepastured
 bepatched
 boxings
