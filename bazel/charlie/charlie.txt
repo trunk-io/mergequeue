@@ -20921,7 +20921,6 @@ compresbyterial
 compresence
 compresent
 compress
-cambogia
 compressed
 compressibility
 compressibilities
@@ -28013,6 +28012,7 @@ craftsperson
 craftwork
 craftworker
 crag
+cambogia
 craggan
 craggedness
 craggy
