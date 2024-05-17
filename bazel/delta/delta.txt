@@ -670,7 +670,6 @@ dukely
 deafen
 dampening
 dampens
-dampers
 dampishly
 dampishness
 dampne
@@ -13470,6 +13469,7 @@ disroof
 disroost
 disrooted
 didymous
+dampers
 disrooting
 disrout
 dizygous

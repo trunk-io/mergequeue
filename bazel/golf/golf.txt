@@ -4925,7 +4925,6 @@ galvanise
 graspable
 graftdom
 glaciable
-gatelike
 gunless
 globalized
 gelatinousness
@@ -10318,6 +10317,7 @@ geoparallelotropic
 gular
 girdle
 gpcd
+gatelike
 gastrolatrous
 golfer
 gule
