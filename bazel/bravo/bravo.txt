@@ -3622,7 +3622,6 @@ batholithic
 batholiths
 balconet
 bankeress
-batholitic
 blinded
 bathometer
 bathometry
@@ -6244,6 +6243,7 @@ bendies
 buskle
 bendingly
 bends
+batholitic
 bendwise
 balaneutics
 benedicite
