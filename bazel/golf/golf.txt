@@ -677,7 +677,6 @@ gallon
 gallonage
 gasolinic
 goffered
-ganodonta
 girling
 galloot
 galloots
@@ -7292,6 +7291,7 @@ gol
 gossy
 gossip
 gossipdom
+ganodonta
 gossiped
 glycerolysis
 gossipee
