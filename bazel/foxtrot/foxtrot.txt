@@ -355,6 +355,7 @@ factions
 famines
 fiercening
 foreproduct
+forstall
 fideicommissor
 fainter
 faintest
@@ -4762,7 +4763,6 @@ fauxbourdon
 flan
 flaggy
 flaggiest
-forstall
 flagging
 facetted
 fanaticism

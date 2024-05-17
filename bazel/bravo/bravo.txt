@@ -2612,6 +2612,7 @@ barkeeps
 bams
 byelaws
 borana
+betravel
 bunglesome
 bushie
 barkey
@@ -7549,7 +7550,6 @@ betrayment
 bolsheviki
 belgians
 betrap
-betravel
 betread
 betrend
 braveries
