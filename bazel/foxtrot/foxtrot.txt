@@ -1669,7 +1669,6 @@ frowned
 faxed
 faxes
 festshrifts
-fivepence
 fructuosity
 faxing
 fazes
@@ -8299,6 +8298,7 @@ forisfamiliation
 forjaskit
 foujdar
 forjudges
+fivepence
 forjudging
 formularisation
 foiler
