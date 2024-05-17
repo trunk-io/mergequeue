@@ -2008,7 +2008,6 @@ acetylcyanide
 acetylene
 acetylenediurein
 apparelment
-acetylenic
 acetylenyl
 acetylenogen
 acetylfluoride
@@ -7185,6 +7184,7 @@ aftershock
 anointers
 airproofing
 akmuddar
+acetylenic
 aknee
 aknow
 ako
