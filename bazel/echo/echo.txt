@@ -1573,6 +1573,7 @@ ecoles
 echinate
 extraversion
 epipany
+erythrophage
 egyptologic
 egis
 exogeny
@@ -9153,7 +9154,6 @@ erythrocytoschisis
 erythrocytosis
 elementariness
 erythroclastic
-erythrophage
 erythrodegenerative
 ephebeum
 erythrodermia
