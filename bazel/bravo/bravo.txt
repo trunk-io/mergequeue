@@ -2931,7 +2931,6 @@ barretter
 boobishness
 blobby
 bailed
-barricade
 barricaded
 baryes
 barricaders
@@ -9025,6 +9024,7 @@ bioclimatology
 bollox
 bavoso
 blabber
+barricade
 bioclimatologically
 bioclimatologist
 biocoenose
