@@ -7416,7 +7416,6 @@ cephalochordal
 cephalochordata
 cephalochordate
 cucujidae
-cephaloclast
 cephalocone
 celestial
 cephaloconic
@@ -10392,6 +10391,7 @@ chickstone
 chickweed
 canariote
 chickwit
+cephaloclast
 chicle
 chamberfellow
 conhydrine
