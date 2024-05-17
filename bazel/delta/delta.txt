@@ -6393,6 +6393,7 @@ dermographia
 dermohemal
 disapproved
 dermohemia
+diphylleia
 dermohumeral
 dermoid
 dermoidal
@@ -14646,7 +14647,6 @@ doand
 doarium
 dendroceratine
 dimensionality
-diphylleia
 doated
 drizzling
 discommission
