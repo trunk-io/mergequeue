@@ -10826,7 +10826,6 @@ eulachans
 eulachons
 eulamellibranchiata
 embruted
-ensphere
 eulamellibranchiate
 electrical
 epithecicia
@@ -13516,6 +13515,7 @@ emmarbling
 exsecting
 exsector
 exsects
+ensphere
 exsequatur
 exserted
 envenomed

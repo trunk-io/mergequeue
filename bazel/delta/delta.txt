@@ -7012,7 +7012,6 @@ divergences
 despoil
 despoiled
 despoiler
-despoilers
 degame
 discreditably
 disincrustant
@@ -16298,6 +16297,7 @@ downlink
 downlinked
 downlinking
 downloadable
+despoilers
 downloaded
 downloading
 downloads
