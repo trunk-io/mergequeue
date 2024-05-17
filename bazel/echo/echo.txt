@@ -4100,6 +4100,7 @@ egotistical
 entries
 emplaced
 emplanement
+exhaustedness
 entoilment
 endoute
 emplanes
@@ -12490,7 +12491,6 @@ exhibitionistic
 exhibitionists
 extracanonical
 exhibitions
-exhaustedness
 endplate
 excluded
 epicycloid
