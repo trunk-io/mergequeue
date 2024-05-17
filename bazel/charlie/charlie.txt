@@ -9239,7 +9239,6 @@ chaseable
 chased
 corbeilles
 chronobarometer
-chasers
 chases
 chashitsu
 chasid
@@ -24378,6 +24377,7 @@ cooley
 coolen
 cooler
 coolerman
+chasers
 coolers
 caviling
 coolest
