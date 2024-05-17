@@ -8335,6 +8335,7 @@ epistolize
 epitheca
 exploits
 erebus
+externalizes
 enclosable
 exterminated
 ethnolinguistic
@@ -13674,7 +13675,6 @@ externalization
 externalize
 evitable
 externalized
-externalizes
 externalness
 elusions
 evolvements
