@@ -797,7 +797,6 @@ dungeon
 dermititis
 daneweed
 daneweeds
-danged
 detections
 dangerfully
 depe
@@ -7242,6 +7241,7 @@ detat
 detd
 defoliating
 daishiki
+danged
 detected
 detecter
 detecters
