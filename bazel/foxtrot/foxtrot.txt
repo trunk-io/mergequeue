@@ -5357,6 +5357,7 @@ fascicles
 fleeching
 fellowmen
 fleecy
+flitters
 fastness
 floorwalkers
 forager
@@ -5788,7 +5789,6 @@ fraternalist
 fathmur
 flamb
 foredoom
-flitters
 flitting
 frivolize
 flitwite
