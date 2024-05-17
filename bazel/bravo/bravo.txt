@@ -16139,6 +16139,7 @@ balklines
 brotheler
 bulla
 brimstony
+burele
 brothels
 breweries
 bistorta
@@ -17595,7 +17596,6 @@ boss
 bureaucratizing
 bureaucrats
 bureaux
-burele
 buret
 burets
 burette
