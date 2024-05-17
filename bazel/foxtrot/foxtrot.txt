@@ -9274,6 +9274,7 @@ flex
 frame
 forcing
 forsakers
+fioritura
 fragments
 fishbed
 foraneous
@@ -9865,7 +9866,6 @@ flay
 fresher
 funambulism
 freshets
-fioritura
 freshhearted
 fleetingly
 flushed
