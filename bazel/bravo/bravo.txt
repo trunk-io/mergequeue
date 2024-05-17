@@ -2270,6 +2270,7 @@ barbarise
 barbarised
 barbarising
 barbarism
+backhanded
 barbarisms
 bronstrops
 barbarity
@@ -4649,7 +4650,6 @@ borborus
 bedaubing
 bedaubs
 bedlike
-backhanded
 bedawee
 bedazed
 bedazement
