@@ -5195,7 +5195,6 @@ euphuizing
 equiform
 endopleural
 east
-endopleurite
 electrometry
 emprizes
 esphresis
@@ -9066,6 +9065,7 @@ eriocomi
 eriodendron
 extraspherical
 erionite
+endopleurite
 eriophyllous
 eryopsid
 eriosoma
