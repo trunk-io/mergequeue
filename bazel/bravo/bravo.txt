@@ -3558,7 +3558,6 @@ bath
 bathala
 batheable
 bathed
-bellower
 bather
 bathes
 bathetically
@@ -17927,6 +17926,7 @@ bushbuck
 boatbills
 bushbucks
 bearbush
+bellower
 bacilluria
 bushcraft
 bushelbasket
