@@ -12734,7 +12734,6 @@ bimorph
 bookmobile
 bookmobiles
 baroni
-barwise
 beefsteaks
 bookpress
 bookrack
@@ -17305,6 +17304,7 @@ bumboatman
 bumboatmen
 bumclock
 bumelia
+barwise
 boltings
 biomaterial
 bactericidally
