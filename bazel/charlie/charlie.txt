@@ -9581,7 +9581,6 @@ checkless
 checklist
 checkman
 congruencies
-checkmark
 checkmate
 chirosophist
 checkmating
@@ -19182,6 +19181,7 @@ colloquial
 colloquialism
 calcareously
 colloquialist
+checkmark
 colloquiality
 coadapted
 colloquialize
