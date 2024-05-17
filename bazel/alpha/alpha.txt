@@ -6884,7 +6884,6 @@ airiferous
 airify
 airified
 airily
-airiness
 airing
 airings
 atmolyses
@@ -22004,6 +22003,7 @@ astacian
 astacidae
 astay
 antehuman
+airiness
 astakiwi
 astalk
 anisometropic
