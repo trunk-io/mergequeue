@@ -2036,6 +2036,7 @@ bankalachi
 bobsleds
 bankbooks
 basti
+begotten
 bankcard
 becrawl
 bankcards
@@ -5401,7 +5402,6 @@ basifacial
 begonias
 begorah
 begorra
-begotten
 broadaxe
 blastier
 begottenness
