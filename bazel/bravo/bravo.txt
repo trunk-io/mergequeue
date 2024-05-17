@@ -2528,6 +2528,7 @@ barges
 baptism
 borscht
 barghests
+bankroller
 beslash
 barging
 bargir
@@ -7789,7 +7790,6 @@ befreckle
 bewry
 blockhole
 bewrite
-bankroller
 bullwhip
 braggardism
 bahar
