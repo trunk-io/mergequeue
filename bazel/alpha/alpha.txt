@@ -924,7 +924,6 @@ ascidium
 absyrtus
 amylon
 absis
-absist
 absistos
 absit
 absoil
@@ -20651,6 +20650,7 @@ arthrorheumatism
 agistor
 aquamanalia
 arthroses
+absist
 arthrosynovitis
 arthrosyrinx
 arthrosis
