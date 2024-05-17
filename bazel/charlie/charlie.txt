@@ -13029,7 +13029,6 @@ cyanimide
 cyanin
 cyanine
 cyanines
-cyanins
 contingent
 cyanite
 cyanitic
@@ -26779,6 +26778,7 @@ crookneck
 counterbore
 counterbored
 celandine
+cyanins
 counterborer
 counterboring
 counterboulle
