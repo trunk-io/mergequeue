@@ -4572,6 +4572,7 @@ gazehound
 gypsyhead
 gaitt
 graupel
+guly
 gloeocapsoid
 giglot
 goslings
@@ -8480,7 +8481,6 @@ graving
 gravipause
 gleds
 grouped
-guly
 gravisphere
 gravitated
 grangerised
