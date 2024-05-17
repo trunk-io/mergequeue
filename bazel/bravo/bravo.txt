@@ -3825,6 +3825,7 @@ bacterian
 battutos
 blastomeric
 batwing
+boatlike
 beswitch
 batwomen
 batuque
@@ -11654,7 +11655,6 @@ bewonder
 brahminist
 browband
 boccale
-boatlike
 boatlip
 boatload
 boatloader
