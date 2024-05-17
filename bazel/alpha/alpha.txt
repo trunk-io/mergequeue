@@ -6046,7 +6046,6 @@ aggrandiser
 aggrandising
 affusedaffusing
 altimettrically
-aggrandizable
 aggrandize
 aggrandizement
 agriculture
@@ -16892,6 +16891,7 @@ alopecist
 abscoulomb
 antiinflammatories
 aphonias
+aggrandizable
 aphonic
 aphonous
 aphorise
