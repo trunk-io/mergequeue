@@ -5481,7 +5481,6 @@ denudations
 denuder
 douched
 dialysation
-downtrend
 denaturiser
 denumerable
 denumerably
@@ -17776,6 +17775,7 @@ ducdame
 dhak
 duce
 duchan
+downtrend
 distrouble
 duchesse
 dorsigrade
