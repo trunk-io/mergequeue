@@ -3835,7 +3835,6 @@ florigenic
 fimbriae
 formicary
 fiddlers
-fimbrial
 fimbriate
 fimbriated
 flavanthrene
@@ -9051,6 +9050,7 @@ furuncular
 foveolet
 fovilla
 fow
+fimbrial
 frangibleness
 flaxwort
 fustian
