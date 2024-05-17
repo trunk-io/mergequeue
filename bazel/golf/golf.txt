@@ -2528,7 +2528,6 @@ gyrochrome
 ganton
 gazel
 genistin
-gemmological
 gemmologist
 gentlemanism
 gadders
@@ -8000,6 +7999,7 @@ gamone
 gusted
 granola
 granolite
+gemmological
 guff
 grimily
 gulch
