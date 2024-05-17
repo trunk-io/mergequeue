@@ -13,7 +13,6 @@ epidermoid
 estocs
 evaporometer
 evansite
-ead
 eadi
 excoriator
 earthmove
@@ -8913,6 +8912,7 @@ ecospecifically
 exponential
 eremophilous
 eremuri
+ead
 exteroceptist
 enteritidis
 escharoid
