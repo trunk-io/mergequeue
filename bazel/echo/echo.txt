@@ -10448,7 +10448,6 @@ ethnohistoric
 enquired
 explain
 etwite
-ethnol
 ethnolinguist
 ethnologer
 erysibe
@@ -12092,6 +12091,7 @@ exclusive
 exclusiveness
 enclitic
 exclusivism
+ethnol
 esdragol
 enforceability
 earstones
