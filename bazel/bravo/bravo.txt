@@ -15659,6 +15659,7 @@ brobdingnag
 betorcin
 brocade
 brocaded
+buffalofish
 brocades
 brocardic
 brocatel
@@ -16817,7 +16818,6 @@ buffalo
 buffaloback
 blasty
 buffaloes
-buffalofish
 botheration
 buffaloing
 buffalos
