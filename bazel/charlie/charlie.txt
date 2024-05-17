@@ -22598,7 +22598,6 @@ connaturalness
 connature
 connaught
 connect
-connectable
 connected
 connectedly
 cowyard
@@ -30329,6 +30328,7 @@ cattishness
 crustaceorubrin
 crustaceous
 claughting
+connectable
 caserio
 crustade
 crustal
