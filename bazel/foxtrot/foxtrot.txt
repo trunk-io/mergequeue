@@ -135,7 +135,6 @@ facioplegia
 facit
 fluvioglacial
 fack
-furlable
 fackeltanz
 flajolotite
 fem
@@ -2494,6 +2493,7 @@ fermatas
 fleshed
 ferme
 frizzle
+furlable
 firebird
 filleter
 fulgourous
