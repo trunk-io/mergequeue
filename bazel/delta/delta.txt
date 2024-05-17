@@ -3554,6 +3554,7 @@ disknow
 distomum
 delvers
 deformable
+dukker
 deformation
 deformational
 delete
@@ -17986,7 +17987,6 @@ dukedom
 dukedoms
 dukes
 dukhn
-dukker
 dukkeripen
 dukuma
 dulat
