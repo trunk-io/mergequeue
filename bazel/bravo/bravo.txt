@@ -2598,7 +2598,6 @@ bedaff
 barytons
 bhd
 barytophyllite
-bariums
 bridgelike
 barkan
 barocco
@@ -9532,6 +9531,7 @@ begrease
 barogram
 byrl
 btl
+bariums
 byrlady
 baptisteries
 byrlawman
