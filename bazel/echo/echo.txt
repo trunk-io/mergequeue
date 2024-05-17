@@ -2875,7 +2875,6 @@ eoanthropus
 eventualities
 eleventeenth
 eleventh
-eleventhly
 emplaning
 elevon
 earthwork
@@ -13314,6 +13313,7 @@ entitled
 esthetically
 exceedingly
 exportation
+eleventhly
 echinoderes
 exportations
 excavating
