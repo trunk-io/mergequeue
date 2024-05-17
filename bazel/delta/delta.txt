@@ -3300,6 +3300,7 @@ dudder
 deferrable
 deferred
 deferrer
+disinterested
 deferrers
 diphthongia
 deferrize
@@ -12578,7 +12579,6 @@ disintegrity
 disinter
 disinterest
 dealbation
-disinterested
 disinterestedly
 disinterestedness
 decerebrated
