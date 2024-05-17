@@ -2768,7 +2768,6 @@ bookit
 burmannia
 baroneting
 baronetise
-baronetising
 baronetize
 baronetized
 baronets
@@ -3730,6 +3729,7 @@ bagwoman
 battalias
 battarismus
 boobialla
+baronetising
 birdlore
 batteaux
 bonnering
