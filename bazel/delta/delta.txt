@@ -2647,7 +2647,6 @@ decolonising
 decolonization
 didascaly
 decolonize
-decolonizes
 desalter
 decoloring
 decolorisation
@@ -7790,6 +7789,7 @@ decrier
 devitalised
 devitalising
 devitalize
+decolonizes
 delsartean
 defray
 dottore
