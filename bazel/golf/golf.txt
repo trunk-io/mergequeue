@@ -4522,7 +4522,6 @@ graveldiver
 gynoecia
 greatish
 gynoeciumcia
-gynogenesis
 giddy
 gynogenetic
 gynomonoeciously
@@ -10470,6 +10469,7 @@ geerah
 gramenite
 gynecic
 gunated
+gynogenesis
 grudgeons
 gunboats
 grecale

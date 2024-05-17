@@ -11285,6 +11285,7 @@ delegacies
 duckwheat
 disarm
 disgracers
+deseed
 discanting
 discants
 distributional
@@ -12631,7 +12632,6 @@ disjoints
 disjointure
 disjunctive
 disjunctively
-deseed
 disjunctor
 disembodying
 divia
