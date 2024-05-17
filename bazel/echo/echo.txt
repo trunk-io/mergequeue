@@ -6453,6 +6453,7 @@ ensuable
 ensuant
 ensuingly
 electrolyzing
+episode
 ensurance
 ensures
 ensuring
@@ -8205,7 +8206,6 @@ episiotomy
 epicondylitis
 episiotomies
 episkeletal
-episode
 episodes
 episodial
 episodical
