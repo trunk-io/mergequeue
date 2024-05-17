@@ -4428,7 +4428,6 @@ becard
 becarpeted
 becarpeting
 balancer
-becarve
 becasse
 becassine
 bilocellate
@@ -6042,6 +6041,7 @@ bechancing
 bepun
 benzalcyanhydrin
 beden
+becarve
 backswordmen
 beloveds
 blitzkrieg
