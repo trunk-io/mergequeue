@@ -315,7 +315,6 @@ eunomia
 epitaphless
 eavedrop
 evangel
-eavedropper
 eavedropping
 exsecants
 eccentring
@@ -7196,6 +7195,7 @@ ensample
 evillest
 enzymes
 enzymic
+eavedropper
 exiguous
 erythropoietic
 enzymolysis
