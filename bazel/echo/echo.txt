@@ -7352,7 +7352,6 @@ epauleted
 electrologic
 extatic
 epaulets
-epaulette
 epauletted
 eyries
 elbowed
@@ -8542,6 +8541,7 @@ equability
 equableness
 equably
 equal
+epaulette
 editorials
 embody
 equalisation
