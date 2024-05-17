@@ -4699,7 +4699,6 @@ cytinaceous
 coattended
 carpenteria
 carpentering
-composograph
 carpenters
 charlock
 carpenterworm
@@ -27148,6 +27147,7 @@ countersecurity
 counterselection
 countersense
 counterservice
+composograph
 countershade
 crushproof
 clione
