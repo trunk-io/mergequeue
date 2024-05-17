@@ -500,6 +500,7 @@ falbalas
 falbelo
 fumados
 falces
+firerooms
 falciform
 frowny
 falco
@@ -4206,7 +4207,6 @@ fireplugs
 firepot
 fireroom
 ferroconcretor
-firerooms
 fleck
 firers
 fanfoot
