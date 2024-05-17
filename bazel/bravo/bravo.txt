@@ -3473,6 +3473,7 @@ badgerly
 bastions
 battutas
 bastite
+becard
 brushfire
 bastnasite
 balanoglossus
@@ -4422,7 +4423,6 @@ blacklead
 brassylic
 becaps
 balanite
-becard
 becarpeted
 becarpeting
 balancer
