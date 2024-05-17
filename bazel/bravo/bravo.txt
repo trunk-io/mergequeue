@@ -13446,7 +13446,6 @@ blink
 brigbote
 borstall
 bancos
-bearers
 barrio
 bottomers
 bottoming
@@ -17098,6 +17097,7 @@ bulldogger
 bulldoggy
 bummery
 bearder
+bearers
 byrlaw
 brae
 bulldogging
