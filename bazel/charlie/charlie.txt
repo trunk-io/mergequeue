@@ -7781,7 +7781,6 @@ congratulate
 ciceros
 cermets
 commissar
-cern
 cityward
 cerniture
 croze
@@ -23352,6 +23351,7 @@ coarsen
 contactant
 contactile
 circumspect
+cern
 congests
 coverups
 contacting
