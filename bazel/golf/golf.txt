@@ -4486,7 +4486,6 @@ gynic
 goasila
 gink
 geometdecrne
-gloss
 globelet
 grides
 graplines
@@ -7474,6 +7473,7 @@ governing
 governingly
 geomalic
 gombay
+gloss
 garron
 gonadotrope
 gatling
