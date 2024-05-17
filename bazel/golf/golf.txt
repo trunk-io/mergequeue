@@ -8016,7 +8016,6 @@ genoblastic
 goalee
 gunrunning
 granted
-gravelous
 gucki
 gnatty
 gondoliere
@@ -8421,6 +8420,7 @@ glottidean
 gillaroo
 geldant
 gravelled
+gravelous
 gravelly
 geoglyphic
 ginglymus
