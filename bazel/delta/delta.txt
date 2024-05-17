@@ -2773,7 +2773,6 @@ discounsel
 diplopterous
 deedful
 decoration
-decorations
 downhearted
 decorative
 decorator
@@ -4177,6 +4176,7 @@ drogherman
 delimitated
 disanswerable
 dihybrid
+decorations
 delimitating
 delimitation
 delimiter
