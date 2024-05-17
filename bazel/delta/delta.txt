@@ -5448,6 +5448,7 @@ dentolingual
 dentonasal
 dielytra
 dentosurgical
+downstate
 disrate
 diasene
 dentulous
@@ -16352,7 +16353,6 @@ downstairs
 duras
 devout
 drainable
-downstate
 dolmens
 downstreet
 downstroke
