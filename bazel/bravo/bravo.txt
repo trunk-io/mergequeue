@@ -164,6 +164,7 @@ baccalaureate
 baccalaureates
 baccalaureus
 belage
+bioherms
 baccara
 baroques
 bdrm
@@ -9107,7 +9108,6 @@ bummerish
 biographize
 brutes
 bioherm
-bioherms
 bronzen
 bioinstrument
 biokinetics
