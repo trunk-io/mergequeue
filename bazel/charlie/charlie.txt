@@ -1326,6 +1326,7 @@ chattelization
 calycophorae
 calicos
 calycozoa
+coldblood
 calycozoan
 calycozoic
 cephalobranchiate
@@ -18750,7 +18751,6 @@ colcine
 chingma
 crossworder
 cold
-coldblood
 coldblooded
 coldest
 coldfinch
