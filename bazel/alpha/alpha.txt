@@ -4637,7 +4637,6 @@ adverse
 adversed
 adversely
 adverseness
-adversifoliate
 afternote
 adversing
 adoniram
@@ -5200,6 +5199,7 @@ aestive
 aestuary
 aestuate
 aestuation
+adversifoliate
 aesture
 aestus
 aetat
