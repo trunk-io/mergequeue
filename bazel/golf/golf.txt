@@ -1223,7 +1223,6 @@ gigantology
 gaol
 grift
 gynostegium
-gaoled
 gaoling
 groatsworth
 gaoloring
@@ -6368,6 +6367,7 @@ goliad
 gobies
 guttula
 geckotian
+gaoled
 greenyard
 gordyaean
 gallify
