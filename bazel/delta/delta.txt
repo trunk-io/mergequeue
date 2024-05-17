@@ -1228,7 +1228,6 @@ datelines
 dishonourably
 dullery
 datelining
-datemark
 dentalise
 durational
 dater
@@ -13275,6 +13274,7 @@ disprejudice
 dispress
 dole
 disprince
+datemark
 disprivacied
 dicynodon
 disprizes

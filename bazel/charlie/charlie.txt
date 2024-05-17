@@ -27172,6 +27172,7 @@ countersinks
 countersleight
 countersnarl
 counterspy
+crossest
 closetful
 counterspies
 coverage
@@ -29868,7 +29869,6 @@ crossed
 crosser
 crossers
 crosses
-crossest
 cacophonical
 crossette
 crossfall
