@@ -2519,7 +2519,6 @@ bargeman
 bargemaster
 booklice
 barger
-bloomage
 bardash
 barges
 baptism
@@ -8319,6 +8318,7 @@ boyism
 bronchial
 biens
 bientt
+bloomage
 balotade
 bowwoman
 bienvenu
