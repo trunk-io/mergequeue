@@ -6656,7 +6656,6 @@ figurings
 focusses
 flumed
 focussing
-fod
 fodder
 fodderer
 foder
@@ -11541,6 +11540,7 @@ fused
 furtiveness
 fusel
 furthering
+fod
 fuselage
 fatwood
 fuselages
