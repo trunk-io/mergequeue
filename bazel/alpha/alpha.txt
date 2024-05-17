@@ -14806,7 +14806,6 @@ ammonolyzed
 antibridal
 antibromic
 antibubonic
-antibug
 agronomics
 antibusing
 anticachectic
@@ -16288,6 +16287,7 @@ antisterility
 arghoul
 antistock
 antistreptococcal
+antibug
 applecart
 antistreptococcic
 antistreptococcin
