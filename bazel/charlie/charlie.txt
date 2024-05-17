@@ -14777,7 +14777,6 @@ cistori
 cystosarcoma
 cowbyre
 cystoschisis
-cystoscopic
 cystoscopies
 cariole
 cystose
@@ -20248,6 +20247,7 @@ commonition
 commonly
 commonness
 cambist
+cystoscopic
 commonplace
 camias
 crucifixion
