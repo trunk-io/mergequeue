@@ -4834,7 +4834,6 @@ carretta
 cofferlike
 carri
 cetaceous
-carry
 carriable
 carriage
 carriageable
@@ -18014,6 +18013,7 @@ coeminency
 coemploy
 compsilura
 coemployee
+carry
 coemploying
 coemployment
 coemploys
