@@ -6947,7 +6947,6 @@ bibliolatry
 bertrum
 bullarium
 beachy
-beruffed
 beruffled
 bedumbing
 berust
@@ -8725,6 +8724,7 @@ billfish
 billfishes
 bearskin
 billfolds
+beruffed
 burel
 billholder
 boopic
