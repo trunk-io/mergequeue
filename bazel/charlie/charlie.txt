@@ -7746,7 +7746,6 @@ cereza
 coes
 cerialia
 cerianthid
-cerianthidae
 cerianthoid
 calculable
 cerianthus
@@ -18530,6 +18529,7 @@ coiffeurs
 coiffeuses
 coiffing
 coiffure
+cerianthidae
 coiffured
 coiffures
 coiffuring
