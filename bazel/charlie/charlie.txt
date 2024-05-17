@@ -8136,7 +8136,6 @@ chaetetidae
 chaetifera
 chaetiferous
 chaetochloa
-chaetodon
 chaetodont
 chaetodontid
 chaetodontidae
@@ -17564,6 +17563,7 @@ coccidium
 conjury
 coccidology
 coccids
+chaetodon
 cocciferous
 cocciform
 coccygalgia
