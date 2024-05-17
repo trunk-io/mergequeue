@@ -5290,7 +5290,6 @@ denominatively
 denominators
 denormalized
 denotable
-denotative
 deliriums
 denotatively
 denotativeness
@@ -18343,6 +18342,7 @@ duodenocholecystostomy
 duodenocholedochotomy
 defossion
 discant
+denotative
 desecrating
 duodenocystostomy
 duodenoenterostomy
