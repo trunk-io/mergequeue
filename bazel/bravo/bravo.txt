@@ -9573,7 +9573,6 @@ budgeteer
 barristership
 birred
 birretta
-birrettas
 birdcatching
 birri
 barney
@@ -12747,6 +12746,7 @@ begut
 bookseller
 berendo
 becloaked
+birrettas
 backhatch
 boce
 barmkin
