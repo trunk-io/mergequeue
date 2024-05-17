@@ -1358,6 +1358,7 @@ gallberries
 gardenia
 gundeck
 giftlike
+gerres
 gaonate
 gardenless
 gardenlike
@@ -3473,7 +3474,6 @@ geck
 grandsirs
 guardant
 gerousia
-gerres
 gerrhosaurid
 glossolaryngeal
 gutturalising
