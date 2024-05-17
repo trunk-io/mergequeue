@@ -5395,6 +5395,7 @@ fluozirconic
 fleming
 frequentness
 flemish
+formature
 flemishes
 flensed
 flenser
@@ -8421,7 +8422,6 @@ folies
 footwall
 flingdust
 flooey
-formature
 foresettled
 formazan
 frenzied
