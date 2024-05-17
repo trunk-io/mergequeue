@@ -2607,7 +2607,6 @@ barkbound
 barkcutter
 benzalhydrazine
 balsameaceous
-barkeeper
 brazing
 barkeeps
 bams
@@ -13055,6 +13054,7 @@ borel
 birefringence
 butylic
 betrample
+barkeeper
 borers
 bowlmaker
 bedusk
