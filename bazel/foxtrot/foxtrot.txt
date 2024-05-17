@@ -771,7 +771,6 @@ fancysick
 fickly
 fixures
 fandangle
-fandango
 fallows
 fandangos
 fandoms
@@ -7529,6 +7528,7 @@ fizzing
 fellatah
 fullface
 forebode
+fandango
 frictionlessness
 foulmouthed
 forebodes
