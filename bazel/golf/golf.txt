@@ -4715,7 +4715,6 @@ gunplays
 girnie
 gerberia
 gallies
-glared
 giro
 ganch
 girders
@@ -6566,6 +6565,7 @@ goldentop
 gastrea
 golder
 grower
+glared
 gambrelled
 goldfields
 goldfinny

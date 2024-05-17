@@ -539,6 +539,7 @@ backtracker
 backtracking
 backtracks
 backout
+balancement
 babies
 bishopless
 backups
@@ -15612,7 +15613,6 @@ brutage
 broadeners
 broadenings
 bribee
-balancement
 broadens
 broadest
 bisulcated
