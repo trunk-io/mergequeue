@@ -2813,7 +2813,6 @@ geniculum
 glug
 golfing
 grasps
-genitor
 gauntry
 gripeful
 geniture
@@ -10650,6 +10649,7 @@ gurnet
 guests
 granaries
 generalissima
+genitor
 gandhist
 gurry
 goaling
