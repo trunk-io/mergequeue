@@ -828,7 +828,6 @@ gangliac
 grooper
 gris
 ghrush
-goldin
 gottlieb
 galways
 gamari
@@ -2656,6 +2655,7 @@ germigenous
 genappe
 generalized
 gristy
+goldin
 gangliasthenia
 grondwet
 generalizers
