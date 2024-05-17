@@ -3439,7 +3439,6 @@ gossoon
 goodlike
 gerocomical
 geonim
-gerodontic
 gerodontology
 generalizes
 gaura
@@ -7706,6 +7705,7 @@ gray
 getaway
 graveyard
 graybacks
+gerodontic
 gallanted
 glassless
 gingle

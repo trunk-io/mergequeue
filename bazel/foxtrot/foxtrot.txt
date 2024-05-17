@@ -3705,6 +3705,7 @@ fermental
 fillable
 fillagreed
 fillemot
+fogless
 frownless
 fishweir
 filleted
@@ -6722,7 +6723,6 @@ fanflower
 flaw
 folksily
 fogyish
-fogless
 fadding
 fogman
 fogmen
