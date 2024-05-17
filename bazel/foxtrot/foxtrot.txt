@@ -5525,6 +5525,7 @@ flyboats
 freshmanic
 fiendlike
 fleers
+forbode
 flaxlike
 flybrush
 felsophyre
@@ -7418,7 +7419,6 @@ farfels
 foregather
 florilegia
 forbled
-forbode
 factionally
 flouter
 flirtigig
