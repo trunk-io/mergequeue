@@ -6338,7 +6338,6 @@ beneurous
 beneventan
 benevolences
 benevolency
-benevolist
 beng
 bourn
 bengalese
@@ -10300,6 +10299,7 @@ bignesses
 biborate
 blacksmithing
 beastdom
+benevolist
 bocaccio
 blacksnake
 blackstick
