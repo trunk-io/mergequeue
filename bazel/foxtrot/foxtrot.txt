@@ -2875,7 +2875,6 @@ faunae
 fenestration
 filanders
 farmsteads
-fetching
 feterita
 foxproof
 fetes
@@ -3367,6 +3366,7 @@ faultage
 flotsam
 fray
 foreheaded
+fetching
 fiedlerite
 floreated
 fief
