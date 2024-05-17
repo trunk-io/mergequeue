@@ -6949,6 +6949,7 @@ airscape
 avocados
 airscapes
 airscrews
+antioxygenic
 airshed
 airsheds
 airships
@@ -15743,7 +15744,6 @@ antioxygen
 antioxygenation
 achromatism
 antioxygenator
-antioxygenic
 armoury
 antiozonant
 antipacifism
