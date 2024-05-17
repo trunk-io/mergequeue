@@ -6376,7 +6376,6 @@ cautery
 cauteries
 cauterisation
 cauterise
-cauterised
 cauterising
 cauterism
 carafe
@@ -23910,6 +23909,7 @@ controversion
 controversional
 cytotrophoblast
 cassada
+cauterised
 controversionalist
 controvert
 chirotonsory
