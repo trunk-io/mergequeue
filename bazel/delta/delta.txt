@@ -8444,7 +8444,6 @@ disciplines
 deliveror
 diallists
 dialog
-downsize
 dialoger
 dialogers
 dialogged
@@ -9961,6 +9960,7 @@ dimitry
 decamped
 dirigomotor
 dimittis
+downsize
 doubleheaders
 dimly
 dimmed
