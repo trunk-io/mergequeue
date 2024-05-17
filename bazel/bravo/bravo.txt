@@ -867,7 +867,6 @@ bagdad
 bagdi
 bagel
 bagful
-bagfuls
 bemantle
 bookwise
 barbaric
@@ -13001,6 +13000,7 @@ bagataway
 bordeaux
 banquettes
 bordels
+bagfuls
 backpacker
 border
 blackberry
