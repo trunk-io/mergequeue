@@ -4630,7 +4630,6 @@ grosse
 gyrator
 genocidal
 gyratory
-gyrators
 goldsmiths
 grademark
 girder
@@ -8164,6 +8163,7 @@ gnawers
 grammarians
 grippingness
 grylli
+gyrators
 georgium
 garamond
 graphometric
