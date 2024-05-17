@@ -8876,7 +8876,6 @@ dicacity
 discoherent
 dicaeidae
 digitalein
-dcbname
 dicaeology
 disload
 dinergate
@@ -14019,6 +14018,7 @@ distrest
 distributary
 distributaries
 distribute
+dcbname
 dolichocephalic
 distributee
 distributer
