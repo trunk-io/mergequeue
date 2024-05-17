@@ -480,7 +480,6 @@ depreciatively
 deferring
 dame
 daleman
-delicatessens
 decistere
 dalesfolk
 dalesman
@@ -9511,6 +9510,7 @@ digynian
 digynous
 digital
 desmoneme
+delicatessens
 digitaliform
 dastardliness
 digitalin
