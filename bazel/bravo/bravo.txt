@@ -1952,6 +1952,7 @@ brewings
 bandstring
 bandurria
 bandusia
+buckhound
 brandishes
 bosquets
 bandwagon
@@ -16664,7 +16665,6 @@ bakhtiari
 basilisk
 bilaan
 bucketshop
-buckhound
 buckhounds
 blurrily
 bucky
