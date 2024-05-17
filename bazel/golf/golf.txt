@@ -294,7 +294,6 @@ gringos
 grayout
 gaintwist
 gamuts
-gainward
 gairfowl
 geminating
 gribbles
@@ -3319,6 +3318,7 @@ geriatrician
 geriatrist
 genecologically
 galloglass
+gainward
 goniac
 geryonid
 gerip
