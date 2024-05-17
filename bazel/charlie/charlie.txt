@@ -12635,7 +12635,6 @@ chronologer
 curvedness
 chronology
 cleanish
-collembolan
 chronological
 chronologies
 chronologist
@@ -30884,6 +30883,7 @@ cults
 cultual
 culturable
 cultural
+collembolan
 culturalist
 culturally
 culture
