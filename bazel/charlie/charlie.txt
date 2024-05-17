@@ -2808,7 +2808,6 @@ canonizant
 canonize
 canonized
 cytology
-catapult
 cetorhinoid
 canonizer
 canonizes
@@ -31653,6 +31652,7 @@ casked
 cushiness
 cushing
 cushion
+catapult
 cushioned
 cushionet
 cushionflower
