@@ -4611,6 +4611,7 @@ dosimetric
 demifarthing
 demifigure
 demigardebras
+dispowder
 disinflated
 demigauntlet
 demigentleman
@@ -10437,7 +10438,6 @@ diphenylhydantoin
 disvulnerability
 diphenylmethane
 diphenyls
-dispowder
 diphenoxylate
 diphycercal
 diphyesis
