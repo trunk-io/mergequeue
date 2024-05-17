@@ -5300,7 +5300,6 @@ denotatum
 deacidifying
 denote
 denoted
-denotement
 denotes
 denoting
 deeping
@@ -8810,6 +8809,7 @@ diazo
 drinkable
 decke
 diazoalkane
+denotement
 demimondaines
 depeter
 diazoaminobenzene
