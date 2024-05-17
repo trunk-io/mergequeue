@@ -5403,6 +5403,7 @@ afflatuses
 algesireceptor
 afflicted
 antiegotist
+athwartship
 afflicter
 afflicting
 arenas
@@ -22660,7 +22661,6 @@ athumia
 arrondissement
 athwart
 assuredly
-athwartship
 acrimoniously
 athwartships
 autoing
