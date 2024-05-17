@@ -1471,6 +1471,7 @@ garnishes
 glossanthrax
 garnishment
 garnison
+goalers
 garniture
 grecize
 ganyie
@@ -10332,7 +10333,6 @@ gown
 gulfside
 grot
 gulfweed
-goalers
 gaums
 gulfweeds
 gulgul
