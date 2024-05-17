@@ -1307,7 +1307,6 @@ err
 epeus
 eburine
 effectualize
-effectualness
 effectuated
 encastage
 effectuating
@@ -3331,6 +3330,7 @@ escrod
 embarge
 emphase
 entablement
+effectualness
 embargo
 embargoed
 embargoes
