@@ -1140,7 +1140,6 @@ fortunize
 forcat
 farsightedness
 farcically
-flooring
 forkedly
 farth
 farthermore
@@ -2620,6 +2619,7 @@ ferryboats
 familistery
 ferricyanate
 fella
+flooring
 ferrandin
 furiosity
 ferricyanide
