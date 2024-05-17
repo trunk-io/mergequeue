@@ -4885,7 +4885,6 @@ globefishes
 gomeral
 goaltending
 gyve
-giveable
 gederite
 gunbright
 gandhism
@@ -10242,6 +10241,7 @@ guinde
 gr
 gorsehatch
 gauzelike
+giveable
 gali
 germarium
 geomagnetism
