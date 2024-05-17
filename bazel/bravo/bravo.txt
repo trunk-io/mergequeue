@@ -2897,6 +2897,7 @@ barrelfishes
 botanical
 blennometritis
 bonair
+bulbospinal
 barrelful
 barrelfuls
 blind
@@ -15171,7 +15172,6 @@ bricklayer
 bricklayers
 burut
 brickle
-bulbospinal
 brickly
 bricklike
 bowlin
