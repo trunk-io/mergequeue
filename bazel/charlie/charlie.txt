@@ -9307,7 +9307,6 @@ chat
 chataka
 chatchka
 chatchkas
-chatchke
 chatchkes
 chateaugray
 chateaus
@@ -27454,6 +27453,7 @@ courtships
 cleach
 courtside
 couscous
+chatchke
 caddying
 couscousou
 casserole
