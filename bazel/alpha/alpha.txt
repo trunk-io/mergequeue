@@ -1149,7 +1149,6 @@ assertible
 abutments
 abuttal
 abuttals
-abutter
 abutters
 abuzz
 anodendron
@@ -14873,6 +14872,7 @@ anticeremoniousness
 antichamber
 antichance
 antichymosin
+abutter
 antichlor
 antichlorine
 antichloristic
