@@ -5956,7 +5956,6 @@ catheterisation
 catheterise
 coiffes
 catheterised
-catheterism
 catheterization
 catheterize
 challa
@@ -11158,6 +11157,7 @@ chiv
 chivachee
 confirmand
 chivalresque
+catheterism
 chaum
 chivalric
 chivalries
