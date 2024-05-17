@@ -6459,6 +6459,7 @@ gogo
 gamgia
 garston
 gohila
+gluemaking
 glassworks
 goyana
 gastritic
@@ -7432,7 +7433,6 @@ guesstimate
 gymnotidae
 goldsmith
 gerful
-gluemaking
 gobiesocidae
 gloms
 gout
