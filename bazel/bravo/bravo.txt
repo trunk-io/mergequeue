@@ -6570,7 +6570,6 @@ benzotrichloride
 buster
 benzotrifluoride
 benzoxate
-bolection
 benzoxyacetic
 benzpinacone
 benztrioxazine
@@ -11989,6 +11988,7 @@ bohairic
 bohemia
 beylical
 bickern
+bolection
 bohemian
 bohemianism
 bohemium

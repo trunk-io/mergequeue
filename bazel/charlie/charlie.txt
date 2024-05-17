@@ -4980,7 +4980,6 @@ cartomancies
 carton
 cartoner
 cartonful
-cartoning
 covinously
 cartonnage
 cartons
@@ -24109,6 +24108,7 @@ conversationable
 coactor
 conversational
 conversationalists
+cartoning
 conversationally
 conversationism
 conversationist
