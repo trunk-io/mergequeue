@@ -3097,7 +3097,6 @@ blemisher
 basebred
 bacterins
 baseburner
-basecourt
 betokener
 based
 baselard
@@ -9483,6 +9482,7 @@ becrawled
 birds
 birdsall
 birdseeds
+basecourt
 brolly
 birdseye
 birdseyes
