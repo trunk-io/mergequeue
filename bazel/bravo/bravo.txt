@@ -4713,6 +4713,7 @@ bioplasmic
 bedewed
 bedewer
 bedews
+bewinter
 beltmaking
 bedfellows
 buildable
@@ -7729,7 +7730,6 @@ bewilderment
 bestink
 bewimple
 bewinged
-bewinter
 bewitched
 bewitchedness
 bewitcher
