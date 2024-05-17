@@ -3526,7 +3526,6 @@ bargemen
 batea
 bogging
 bateau
-blastomycetous
 bated
 bucchero
 bandoliered
@@ -18330,6 +18329,7 @@ boulle
 brightens
 brewst
 buttons
+blastomycetous
 buttonweed
 buttonwood
 brachiation
