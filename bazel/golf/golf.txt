@@ -8064,7 +8064,6 @@ gloomless
 gor
 geognosis
 granuloblastic
-granulocyte
 generalissimo
 gordiaceous
 granulocytic
@@ -10069,6 +10068,7 @@ guesdist
 gloria
 guesser
 ginning
+granulocyte
 gigmania
 grainland
 gonads
