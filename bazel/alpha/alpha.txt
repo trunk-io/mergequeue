@@ -4122,7 +4122,6 @@ asystolism
 administering
 administerings
 administers
-administrable
 administrant
 administrates
 administrating
@@ -4198,6 +4197,7 @@ archapostle
 arteriectasis
 admixtures
 admonish
+administrable
 admonished
 admonishes
 anaesthetizing
