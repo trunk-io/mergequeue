@@ -7604,7 +7604,6 @@ grade
 graded
 geobotanically
 gnathometer
-gleary
 grader
 gradgrind
 gud
@@ -9740,6 +9739,7 @@ gauntly
 grusinian
 geometrically
 guttiferal
+gleary
 grutch
 gargoylishly
 gastrolavage

@@ -8903,7 +8903,6 @@ dissemilative
 diced
 diceman
 dicentras
-dicephalous
 dicephalus
 diceplay
 dyads
@@ -14974,6 +14973,7 @@ dogfish
 dogfought
 doggedly
 divus
+dicephalous
 doggedness
 dysmetria
 dogger
