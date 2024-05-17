@@ -729,7 +729,6 @@ grammies
 garnierite
 guidership
 ganda
-galops
 greffotome
 glucosemia
 gardenhood
@@ -10851,6 +10850,7 @@ gadoid
 gweducks
 gweed
 gheraoed
+galops
 gemmation
 gweeon
 gwely
