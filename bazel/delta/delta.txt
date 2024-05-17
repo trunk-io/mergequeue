@@ -4785,7 +4785,6 @@ demitone
 deteriorated
 demitrain
 demitranslucence
-demits
 demitted
 denticulately
 demitube
@@ -10012,6 +10011,7 @@ deratize
 depair
 dynam
 dooley
+demits
 disventure
 dissightly
 dynamic
