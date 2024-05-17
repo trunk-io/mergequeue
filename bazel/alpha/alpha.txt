@@ -14506,7 +14506,6 @@ anthrapyridine
 anthrapurpurin
 anthraquinol
 anthraquinone
-anthraquinonyl
 anthrarufin
 anthrasilicosis
 agalinis
@@ -16764,6 +16763,7 @@ apertness
 apertometer
 apertum
 adventures
+anthraquinonyl
 apertural
 athrob
 acceder
