@@ -4156,7 +4156,6 @@ gasterosteoid
 gim
 gimbal
 granum
-groining
 guildry
 grifted
 gimblet
@@ -9405,6 +9404,7 @@ grouchiness
 gunwhale
 gruffiness
 grouf
+groining
 ground
 grakle
 groundably
