@@ -2852,6 +2852,7 @@ gerrymandering
 gensengs
 genteel
 glike
+gelid
 grano
 gaulin
 graddan
@@ -10142,7 +10143,6 @@ guidable
 guidance
 git
 grown
-gelid
 guide
 guideboard
 guidebooky
