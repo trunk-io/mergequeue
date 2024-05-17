@@ -6924,7 +6924,6 @@ extradict
 epimere
 entopic
 entoplasm
-eightyfold
 esau
 entoprocta
 entoproctous
@@ -12302,6 +12301,7 @@ executioneering
 epidemiological
 entangledly
 elric
+eightyfold
 enfect
 executor
 excur
