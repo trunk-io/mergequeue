@@ -5932,7 +5932,6 @@ abrenunciation
 age
 ageable
 agallop
-agedly
 agedness
 agednesses
 agee
@@ -7585,6 +7584,7 @@ albumins
 albuminurophobia
 albumoid
 actomyosin
+agedly
 albumoscope
 albumose
 albumosuria

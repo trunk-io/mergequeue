@@ -3177,7 +3177,6 @@ basicity
 bumph
 benzins
 baltis
-booklores
 bukat
 bolis
 basics
@@ -9137,6 +9136,7 @@ begrims
 biomedicine
 burelage
 biomes
+booklores
 biometric
 bayberry
 biometrician
