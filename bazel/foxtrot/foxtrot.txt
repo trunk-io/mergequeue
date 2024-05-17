@@ -3985,7 +3985,6 @@ fingerprints
 fountained
 fingerroot
 fluorosis
-forleft
 fistulas
 fingersmith
 footbreadth
@@ -5568,6 +5567,7 @@ flamant
 federates
 fcp
 feoffment
+forleft
 frumple
 flagmaking
 fligged
