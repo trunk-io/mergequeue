@@ -84,7 +84,6 @@ earmarking
 earmarkings
 epithelioblastoma
 equitation
-exteroceptive
 ethic
 earmuff
 earnable
@@ -663,6 +662,7 @@ eudaemonistic
 ephraimitic
 entoparasitic
 epilogate
+exteroceptive
 eruc
 eclipsing
 envier
