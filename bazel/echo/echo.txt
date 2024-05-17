@@ -6263,6 +6263,7 @@ eli
 euphrosyne
 ensaffron
 enfeebled
+essence
 enroll
 enrolle
 enrolled
@@ -6673,7 +6674,6 @@ empyreumatic
 enterotomy
 enterotoxemia
 enterotoxication
-essence
 enteroviral
 enterovirus
 evenmindedness
