@@ -8337,6 +8337,7 @@ evaginate
 epistolize
 epitheca
 exploits
+excircle
 erebus
 enclosable
 exterminated
@@ -12004,7 +12005,6 @@ excipuliform
 exfodiate
 earmindedness
 erythroxylaceae
-excircle
 endotheliolysin
 esmeraldan
 esker
