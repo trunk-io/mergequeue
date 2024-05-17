@@ -4172,6 +4172,7 @@ conjugably
 cardiopath
 cardiopathic
 cardiopericarditis
+choices
 cardiophobe
 cardiophobia
 cardiophrenia
@@ -29263,7 +29264,6 @@ cryptobranchiata
 clambakes
 chondroma
 cutlas
-choices
 cryptobranchiate
 collides
 ciphered
