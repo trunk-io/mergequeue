@@ -9614,7 +9614,6 @@ dihdroxycholecalciferol
 dihedrals
 dihedron
 discipleship
-dishumour
 dihexahedron
 dowing
 dihybridism
@@ -14760,6 +14759,7 @@ docosane
 defrauders
 dipteral
 docquet
+dishumour
 deerstand
 docs
 desulphurizing
