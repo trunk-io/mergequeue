@@ -674,7 +674,6 @@ bacteriotherapeutic
 bacteriotherapy
 balanophorin
 bales
-bechances
 beletter
 bacteriotoxin
 boracic
@@ -12385,6 +12384,7 @@ bombardelle
 bomi
 barbuts
 bomos
+bechances
 bon
 bonace
 bonacis
