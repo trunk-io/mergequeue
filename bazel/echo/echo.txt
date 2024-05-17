@@ -6836,7 +6836,6 @@ entombs
 elia
 entomere
 entomic
-entomical
 entomofauna
 entomogenous
 emmantle
@@ -11355,6 +11354,7 @@ eonisms
 evangels
 endotrophic
 esselen
+entomical
 eavesdrops
 expirable
 evanishes
