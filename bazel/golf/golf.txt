@@ -2587,7 +2587,6 @@ guildite
 gossaniferous
 geranomorphic
 gendarmery
-geobotanical
 gendarmerie
 gnawings
 guided
@@ -9904,6 +9903,7 @@ gargarism
 gracefully
 guard
 glumpy
+geobotanical
 guardable
 guardedness
 gedd
