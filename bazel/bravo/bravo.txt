@@ -6454,6 +6454,7 @@ boiloff
 benzamide
 benzamido
 benzamine
+bristler
 benzaminic
 benzamino
 barrer
@@ -12342,7 +12343,6 @@ beeregar
 bombiccite
 bombycid
 bombycids
-bristler
 bantered
 bombycine
 bombidae
