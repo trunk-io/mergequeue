@@ -2846,7 +2846,6 @@ grocerwise
 genre
 gramophonist
 genro
-glyoxyl
 gabionade
 ghyll
 gerrymandering
@@ -6334,6 +6333,7 @@ gilo
 greaves
 goatskins
 gawkily
+glyoxyl
 goatstone
 guiler
 gaum

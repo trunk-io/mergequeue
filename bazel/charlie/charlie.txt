@@ -6816,7 +6816,6 @@ cellager
 cellar
 coremium
 cellarage
-cellared
 chamoix
 cellarers
 cellaress
@@ -24733,6 +24732,7 @@ copperplated
 coppersidesman
 corimelaena
 chocker
+cellared
 copperskin
 ciderist
 coppersmith
