@@ -2599,7 +2599,6 @@ afdecho
 aconital
 aconite
 axoplasm
-aconites
 admass
 aconitia
 aconitine
@@ -11287,6 +11286,7 @@ amphitokal
 amphitriaene
 anoxaemic
 anticreeper
+aconites
 amphitrichate
 amphitron
 aqueity
