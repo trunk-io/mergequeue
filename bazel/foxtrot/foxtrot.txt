@@ -1471,7 +1471,6 @@ fatteners
 freewheelers
 fattening
 fattest
-fumigator
 fattier
 featherweight
 fatties
@@ -4791,6 +4790,7 @@ frostbiter
 fibrinuria
 flags
 flagship
+fumigator
 firepower
 furler
 formative
