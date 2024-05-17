@@ -6880,7 +6880,6 @@ gyrofrequencies
 gonophs
 gauntleting
 gryph
-grindings
 globins
 geohydrologic
 gonopodium
@@ -7228,6 +7227,7 @@ glassblowing
 grs
 gent
 ginsengs
+grindings
 gladstonian
 gorsebird
 gibbsite
