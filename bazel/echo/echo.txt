@@ -4522,7 +4522,6 @@ easement
 encephalomyelitis
 entalent
 entrepreneurial
-erucin
 encephalomyelopathy
 encephalomyocarditis
 encephalopathy
@@ -9696,6 +9695,7 @@ emulator
 esophagal
 epihippus
 esophagalgia
+erucin
 esophageal
 esophagean
 explicans
