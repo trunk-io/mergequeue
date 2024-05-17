@@ -2348,6 +2348,7 @@ downwash
 deceptive
 deceptively
 deceptiveness
+devitrification
 deceptory
 deafnesses
 decerebrate
@@ -6785,7 +6786,6 @@ desilvering
 desilverizing
 desilvers
 desynaptic
-devitrification
 dulcarnon
 desynchronize
 demikindred
