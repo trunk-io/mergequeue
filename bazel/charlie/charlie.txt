@@ -11588,7 +11588,6 @@ cholalic
 couthily
 cholam
 cholangiography
-cholangiographic
 cholangioitis
 cholanic
 cholanthrene
@@ -26305,6 +26304,7 @@ costerdom
 costermonger
 costicartilage
 costicartilaginous
+cholangiographic
 costicervical
 courteous
 caciqueship
