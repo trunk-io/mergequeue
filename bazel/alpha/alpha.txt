@@ -13420,7 +13420,6 @@ abbr
 ankylopodia
 ankyloproctia
 ankylos
-abound
 ankylosaur
 ankyloses
 anantherate
@@ -19398,6 +19397,7 @@ arenites
 aristas
 arenoid
 arenosity
+abound
 areographer
 areography
 areographical
