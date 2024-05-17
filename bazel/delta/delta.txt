@@ -3476,7 +3476,6 @@ duendes
 defloration
 deflorations
 dengues
-deflore
 dropforged
 dubash
 disgarland
@@ -18050,6 +18049,7 @@ deponents
 dilemmatically
 decreed
 dullbrained
+deflore
 dulled
 dullest
 dangersome

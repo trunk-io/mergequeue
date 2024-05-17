@@ -5656,6 +5656,7 @@ baguettes
 beknave
 beknight
 blossoming
+bunyip
 beknighted
 beknighting
 beknived
@@ -17445,7 +17446,6 @@ bunya
 breeding
 bunyah
 bunyan
-bunyip
 ballhawk
 blini
 buninahua
