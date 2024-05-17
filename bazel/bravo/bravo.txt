@@ -6541,7 +6541,6 @@ benzonitrol
 benzophenanthrazine
 benzophenazine
 benzophenone
-benzophenothiazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
@@ -7676,6 +7675,7 @@ bewailable
 bewailed
 bewailer
 burglarproof
+benzophenothiazine
 bewailers
 bummers
 belimousined
