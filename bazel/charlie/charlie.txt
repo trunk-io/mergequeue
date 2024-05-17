@@ -9540,6 +9540,7 @@ checkage
 checkback
 checkbird
 checkbite
+chloralosed
 checkbits
 checkbook
 chachalaca
@@ -11242,7 +11243,6 @@ cymbocephalic
 chloralize
 chloralized
 chloralose
-chloralosed
 chloralum
 chlorambucil
 chloramin
