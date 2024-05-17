@@ -124,6 +124,7 @@ glut
 garrot
 goniometrical
 grue
+grammalogue
 gadman
 gujerat
 gadoids
@@ -7785,7 +7786,6 @@ gynaeocracy
 gravitational
 grovy
 graminological
-grammalogue
 gibingly
 gossypols
 gymnocarpous
