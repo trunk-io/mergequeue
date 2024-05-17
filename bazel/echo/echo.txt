@@ -4711,7 +4711,6 @@ eyepieces
 enclasps
 enclave
 emptings
-enclaves
 enclaving
 enclear
 entrepreneurs
@@ -7958,6 +7957,7 @@ ergusia
 exordia
 encephalogram
 evolve
+enclaves
 epimandibular
 enthrone
 epimanikia
