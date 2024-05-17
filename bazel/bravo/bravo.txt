@@ -59,7 +59,6 @@ babel
 bolbonac
 berouged
 babeldom
-babelet
 babelish
 barouches
 bluestoner
@@ -2794,6 +2793,7 @@ benzoxyphenanthrene
 baronries
 briggs
 baroque
+babelet
 blowziest
 butchered
 bureaus
