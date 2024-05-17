@@ -16798,7 +16798,6 @@ cloveroot
 cloverroot
 cloves
 crepitus
-clovewort
 castling
 comarca
 clowder
@@ -29138,6 +29137,7 @@ crinoid
 crinoidea
 crinoidean
 crinoids
+clovewort
 corundums
 crinolette
 crinoline
