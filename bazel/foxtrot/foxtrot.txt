@@ -7722,6 +7722,7 @@ format
 fulls
 frequencies
 flavedos
+forrel
 foreigneering
 fibrinous
 foreigner
@@ -8580,7 +8581,6 @@ forensical
 flammigerous
 forrarder
 fetcher
-forrel
 fenceress
 frivolizing
 forril
