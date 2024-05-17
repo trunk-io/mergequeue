@@ -2322,7 +2322,6 @@ erythrophore
 episteme
 electrocoating
 electrocolloidal
-exhaustable
 extraneously
 esclandre
 electroconvulsive
@@ -3023,6 +3022,7 @@ electrophoretic
 elkslip
 elkuma
 elkwood
+exhaustable
 ell
 ella
 equipoises
