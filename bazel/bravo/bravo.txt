@@ -4194,7 +4194,6 @@ ballhausplatz
 bras
 bearhound
 broozled
-bearess
 bearfoots
 burez
 bearherd
@@ -8351,6 +8350,7 @@ bifariously
 biff
 biffies
 biffin
+bearess
 brutalizing
 bifidity
 bifilar
