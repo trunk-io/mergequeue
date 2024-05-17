@@ -10458,7 +10458,6 @@ antileft
 adscript
 amidin
 archicyte
-amidins
 amidism
 astomous
 armenians
@@ -19156,6 +19155,7 @@ archpolitician
 archpontiff
 archpractice
 archprelate
+amidins
 archprelatic
 archprelatical
 armenize
