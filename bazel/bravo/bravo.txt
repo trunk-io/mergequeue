@@ -3917,7 +3917,6 @@ babus
 bawdrics
 bawdries
 bawl
-bevelment
 bawled
 bawley
 bawler
@@ -14642,6 +14641,7 @@ brassieres
 brassies
 beatas
 brassish
+bevelment
 beavered
 brasslike
 brassware
