@@ -1107,7 +1107,6 @@ farolito
 ferriages
 farrage
 foldstool
-farrago
 fordone
 frizzed
 flyaways
@@ -2639,6 +2638,7 @@ forbidden
 ferritungstite
 flurry
 ferryway
+farrago
 ferroaluminum
 ferrocene
 ferrocerium
