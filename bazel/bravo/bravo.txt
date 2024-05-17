@@ -12466,7 +12466,6 @@ bructeri
 bookroom
 bawdrick
 bierbalk
-bondservant
 bondship
 bondslave
 bondsman
@@ -15144,6 +15143,7 @@ bodyweight
 bribri
 bloater
 blockheadedness
+bondservant
 bryce
 brick
 bankruptship

@@ -7626,7 +7626,6 @@ gradiometer
 general
 granters
 gradiometric
-gastrophilus
 granzita
 gynandrophore
 gradual
@@ -8546,6 +8545,7 @@ guidons
 gantlines
 garlicmonger
 gozzard
+gastrophilus
 goldfielder
 guttered
 gladdy
