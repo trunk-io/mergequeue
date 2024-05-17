@@ -550,7 +550,6 @@ freestones
 fallfish
 fally
 fierabras
-fallible
 faultsman
 frigga
 falling
@@ -5739,6 +5738,7 @@ frankist
 figmental
 ficiform
 flushness
+fallible
 flopovers
 flyte
 flited
