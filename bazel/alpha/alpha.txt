@@ -3192,7 +3192,6 @@ actionability
 actionably
 assoc
 actionary
-actioner
 actiones
 aurivorous
 actionist
@@ -9263,6 +9262,7 @@ acequiador
 alogy
 alogia
 alogically
+actioner
 alogotrophy
 alderwoman
 aloyau
