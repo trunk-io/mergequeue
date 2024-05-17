@@ -1290,7 +1290,6 @@ acarapis
 avocation
 acarari
 acardite
-acarian
 acariasis
 acarid
 acaridan
@@ -11319,6 +11318,7 @@ amplect
 amplectant
 ampler
 amplest
+acarian
 amplex
 amplexicaul
 awestruck
