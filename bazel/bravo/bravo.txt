@@ -9481,7 +9481,6 @@ becrawled
 birds
 birdsall
 birdseeds
-brolly
 birdseye
 birdseyes
 birdsnest
@@ -16544,6 +16543,7 @@ bubbliest
 banderoled
 bubbliness
 brisky
+brolly
 borer
 bubbling
 bubblish
