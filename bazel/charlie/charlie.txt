@@ -11517,7 +11517,6 @@ choga
 chogak
 chogset
 choy
-choya
 choiceful
 choiceless
 choicelessness
@@ -17211,6 +17210,7 @@ coalescent
 combustibility
 coalesces
 coalescing
+choya
 coalfield
 coalfishes
 coalfitter
