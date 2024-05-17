@@ -5158,7 +5158,6 @@ endoparasitism
 endopathic
 endopelvic
 endopericarditis
-enteromyiasis
 encyclopaedist
 endoperidium
 enthronising
@@ -12052,6 +12051,7 @@ embryonally
 excitomotor
 excitomotory
 erythrin
+enteromyiasis
 excellently
 exciton
 ellipse
