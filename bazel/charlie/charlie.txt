@@ -9293,7 +9293,6 @@ chastise
 chastised
 chastiser
 chastisers
-clapperboard
 chastises
 corf
 cranial
@@ -11249,6 +11248,7 @@ chilopodous
 chloranaemia
 chloranemia
 chloranemic
+clapperboard
 chloranhydride
 chloranil
 chloranthaceae
