@@ -5158,6 +5158,7 @@ guitermanite
 gouvernante
 geraniaceae
 glassful
+grub
 gritty
 gossan
 glassfuls
@@ -6693,7 +6694,6 @@ gonalgia
 gonangial
 gola
 gonangium
-grub
 gonapod
 golosh
 gonarthritis
