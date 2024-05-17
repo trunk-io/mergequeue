@@ -5416,7 +5416,6 @@ auctioneer
 affloof
 affluence
 affluent
-affluently
 affluentness
 affluents
 abscise
@@ -14655,6 +14654,7 @@ agentival
 anthropoteleoclogy
 anthropotheist
 anthropotheistic
+affluently
 anthropotomy
 anthropotomical
 antidiphtherin
