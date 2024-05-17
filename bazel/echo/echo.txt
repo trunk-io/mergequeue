@@ -1600,7 +1600,6 @@ enlivens
 egoism
 egoist
 egoistical
-egoistically
 egoisticalness
 embay
 eyewitnesses
@@ -4131,6 +4130,7 @@ employ
 employability
 estancia
 enteromere
+egoistically
 employe
 estado
 eriglossa
