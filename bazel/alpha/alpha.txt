@@ -15566,7 +15566,6 @@ antiministerially
 aiming
 antimissile
 achen
-anywhere
 antimission
 antimissionary
 antipyretic
@@ -23972,6 +23971,7 @@ antiproton
 autoclasis
 autoclave
 autocomplexes
+anywhere
 autoclaves
 allemands
 autoclaving
