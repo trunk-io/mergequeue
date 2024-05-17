@@ -6823,7 +6823,6 @@ gonionia
 glumella
 goniopholidae
 gland
-globulins
 gamgee
 graptoloidea
 gonystylaceous
@@ -9324,6 +9323,7 @@ grooviest
 guldengroschen
 grope
 gropingly
+globulins
 governments
 gravitometer
 geneserin
