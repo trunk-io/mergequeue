@@ -3244,7 +3244,6 @@ feracious
 fichtelite
 flanky
 fusilade
-footsteps
 flotages
 fundamentalness
 furling
@@ -3949,6 +3948,7 @@ figuring
 finfoot
 fasces
 finfoots
+footsteps
 fingal
 fingan
 fisticuffing
