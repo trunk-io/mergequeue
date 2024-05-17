@@ -12384,7 +12384,6 @@ bombardelle
 bomi
 barbuts
 bomos
-bon
 bonace
 bonacis
 bonagh
@@ -17464,6 +17463,7 @@ bushbaby
 bunked
 bunker
 bunkerage
+bon
 beladle
 barblet
 brulyies
