@@ -19501,7 +19501,6 @@ colourifics
 colourist
 colourless
 colourman
-colours
 colourtype
 colp
 colpenchyma
@@ -24298,6 +24297,7 @@ convulsively
 convulsiveness
 coo
 cocodette
+colours
 commercializations
 cooba
 cowbird
