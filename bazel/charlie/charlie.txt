@@ -13720,7 +13720,6 @@ cimicide
 cimiciform
 cimicifuga
 cimicifugin
-cimicoid
 cimier
 cymiferous
 cymlin
@@ -25307,6 +25306,7 @@ corker
 corkers
 cense
 corkier
+cimicoid
 ciliola
 corkiness
 corking
