@@ -1649,7 +1649,6 @@ accosting
 accosts
 accouche
 accouchement
-accoucheur
 accoucheurs
 accoucheuses
 accountability
@@ -7580,6 +7579,7 @@ albumins
 albuminurophobia
 albumoid
 actomyosin
+accoucheur
 albumoscope
 albumose
 albumosuria
