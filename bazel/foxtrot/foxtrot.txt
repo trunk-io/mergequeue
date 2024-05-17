@@ -2569,6 +2569,7 @@ fieldball
 fibromembranous
 fawnskin
 forehorse
+feuterer
 ferox
 fossilized
 ferrara
@@ -8460,7 +8461,6 @@ forgiver
 filix
 formicid
 fluorescent
-feuterer
 formicide
 fishling
 formicine
