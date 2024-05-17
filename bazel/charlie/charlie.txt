@@ -2569,7 +2569,6 @@ caprellidae
 canescence
 canescent
 cannibalize
-corticated
 curatical
 canette
 caneware
@@ -2831,6 +2830,7 @@ canopic
 canopid
 canopied
 canopies
+corticated
 canopying
 cours
 canopus
