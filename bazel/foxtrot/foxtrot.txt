@@ -776,7 +776,6 @@ fallows
 fandangos
 fandoms
 fanegadas
-feudalizable
 fellowlike
 fermacy
 fanfaronade
@@ -11068,6 +11067,7 @@ fummel
 fummle
 fumose
 fumosity
+feudalizable
 fumuli
 fungated
 fascias
