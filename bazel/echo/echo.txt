@@ -7391,7 +7391,6 @@ enchondroma
 epentheses
 epenthesize
 epephragmal
-encolumn
 etruria
 epepophysis
 epergne
@@ -13555,6 +13554,7 @@ exsuperance
 ethmoiditis
 exsurgent
 exsuscitate
+encolumn
 exponentiated
 escheating
 enjoinder

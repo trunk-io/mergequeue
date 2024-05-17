@@ -5957,7 +5957,6 @@ fortifiable
 frounces
 favism
 flickering
-fistfight
 floodwood
 foisty
 flannelboard
@@ -8446,6 +8445,7 @@ formerly
 formularizing
 formes
 formfeed
+fistfight
 felling
 fetors
 fibrinoplastic
