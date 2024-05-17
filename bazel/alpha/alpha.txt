@@ -18260,6 +18260,7 @@ alcovinometer
 aquarial
 agt
 armoring
+autogauge
 afterthinker
 aquarian
 aquarians
@@ -24070,7 +24071,6 @@ autofrettage
 autogamic
 autogamies
 autogamous
-autogauge
 approvedness
 adjuncts
 abfarad
