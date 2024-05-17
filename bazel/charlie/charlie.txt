@@ -1103,7 +1103,6 @@ calciobiotite
 calciocarnotite
 calcioferrite
 calcioscheelite
-calciovolborthite
 calcipexy
 clarity
 calciphylactic
@@ -3538,6 +3537,7 @@ captivative
 captivator
 captivators
 consonantizing
+calciovolborthite
 captive
 cotangent
 calvarias
