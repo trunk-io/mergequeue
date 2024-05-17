@@ -11249,7 +11249,6 @@ chloralization
 cymbocephalic
 chloralize
 chloralized
-chloralizing
 chloralose
 chloralosed
 chloralum
@@ -15178,6 +15177,7 @@ civilness
 contumeliousness
 civism
 civisms
+chloralizing
 civitan
 coxalgic
 civitas
