@@ -5425,7 +5425,6 @@ donnees
 defer
 diminishes
 disgruntle
-dawned
 dentines
 denting
 delineatory
@@ -9275,6 +9274,7 @@ dieses
 dyester
 diesters
 diptera
+dawned
 displant
 diestock
 death
