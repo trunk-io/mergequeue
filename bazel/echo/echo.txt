@@ -4609,7 +4609,6 @@ escapements
 easeful
 enchiridion
 epigrapher
-enchanter
 encephaloscopy
 eater
 enchytrae
@@ -6042,6 +6041,7 @@ enlumine
 elaidinic
 entheos
 ephorus
+enchanter
 enmarble
 eulogically
 enmarbling
