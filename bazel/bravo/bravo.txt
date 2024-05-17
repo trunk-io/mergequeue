@@ -4322,7 +4322,6 @@ beautifications
 beautified
 bathomania
 backaching
-beautifier
 biriba
 bishopbird
 beautifiers
@@ -12265,6 +12264,7 @@ bolty
 boltin
 bolting
 boltlike
+beautifier
 beaupers
 boltmaker
 boltonia
