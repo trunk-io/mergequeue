@@ -8977,7 +8977,6 @@ characterism
 credibilities
 characteristically
 characteristicalness
-characteristicness
 characteristics
 characterization
 characterizations
@@ -15020,6 +15019,7 @@ cytoreticulum
 cytosines
 cytospectrophotometry
 cytospora
+characteristicness
 cytost
 cradlelike
 cytostatically
