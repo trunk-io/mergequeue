@@ -5292,6 +5292,7 @@ barlock
 begaze
 begazes
 begazing
+burnover
 borderer
 blinds
 begem
@@ -17807,7 +17808,6 @@ burnous
 burnoused
 ballistics
 bronchus
-burnover
 bushido
 bumfs
 baccharoid
