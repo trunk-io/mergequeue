@@ -8169,7 +8169,6 @@ breathiest
 bestove
 biclinium
 bicolored
-barret
 bleakish
 bicolorous
 bicolors
@@ -10347,6 +10346,7 @@ bladelike
 beleaguerer
 bosporian
 befrogged
+barret
 bladesmith
 bladewise
 bladygrass
