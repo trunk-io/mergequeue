@@ -5125,7 +5125,6 @@ flagitiously
 fiend
 fledgling
 flustered
-flatterous
 flatters
 feedingstuff
 fetalization
@@ -11430,6 +11429,7 @@ furnishing
 fireboxes
 furnishment
 felup
+flatterous
 furnishness
 felspars
 furniture
