@@ -23894,7 +23894,6 @@ control
 controling
 controllable
 controllably
-controller
 costophrenic
 controlless
 controlling
@@ -31875,6 +31874,7 @@ cuttlefish
 calamitous
 cuttlefishes
 cuttler
+controller
 campanilla
 cytoglobulin
 cuttles
