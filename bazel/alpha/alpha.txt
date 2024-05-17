@@ -1682,6 +1682,7 @@ accouters
 accoutre
 attire
 appurtenances
+addleheadedly
 accoutrement
 accoutrements
 angioclast
@@ -12636,7 +12637,6 @@ anfractuosity
 argils
 authentications
 anfractuousness
-addleheadedly
 anfracture
 anga
 angakok
