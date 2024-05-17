@@ -4254,6 +4254,7 @@ dunkers
 deliveryman
 damner
 dermatograph
+decapitator
 droh
 delivering
 deliverly
@@ -16340,7 +16341,6 @@ dialling
 dochmiac
 downsizes
 divergently
-decapitator
 discinoid
 downsizing
 downslide
