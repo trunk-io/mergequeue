@@ -5484,7 +5484,6 @@ affrontment
 affronts
 anticlnoria
 affuse
-affusion
 affusions
 afghan
 afghani
@@ -10883,6 +10882,7 @@ amoebaean
 antitrinitarian
 amoebaeum
 amoebalike
+affusion
 amoebas
 anormality
 alkalamide
