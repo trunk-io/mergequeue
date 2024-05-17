@@ -4672,7 +4672,6 @@ graphometry
 guillotiner
 guesthouse
 graphitoid
-grinter
 guardrail
 garotter
 grifter
@@ -5163,6 +5162,7 @@ grub
 gritty
 gossan
 glassfuls
+grinter
 glasshouse
 gastronomics
 gonotocont
