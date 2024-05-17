@@ -1096,6 +1096,7 @@ counteraffirmation
 clamworm
 calcinosis
 calciobiotite
+clarine
 calciocarnotite
 calcioferrite
 calcioscheelite
@@ -15546,7 +15547,6 @@ clarigation
 clarin
 cleaved
 clarina
-clarine
 clarinet
 clarinetist
 clarinetists
