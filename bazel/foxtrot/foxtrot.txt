@@ -2656,7 +2656,6 @@ frogtongue
 ferromagnetic
 fibrillation
 fines
-ferromagnetism
 fistlike
 fiscality
 fricassees
@@ -11570,6 +11569,7 @@ friskful
 farrant
 frogged
 fusilading
+ferromagnetism
 fusile
 flytier
 furanoses
