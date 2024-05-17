@@ -5001,6 +5001,7 @@ guttersnipe
 gladiatrix
 gonoph
 gladier
+gamba
 gladii
 gladiola
 gladiolas
@@ -10001,7 +10002,6 @@ gone
 guaranian
 gasogenic
 geomys
-gamba
 gumdigger
 gosport
 gonad
