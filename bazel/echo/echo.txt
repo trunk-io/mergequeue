@@ -5893,7 +5893,6 @@ exempts
 eternities
 enigmatography
 erogenic
-encoronet
 enisled
 enisles
 egotism
@@ -8286,6 +8285,7 @@ epistolography
 epistolographist
 erratums
 epistoma
+encoronet
 epistomal
 epistropheal
 endolaryngeal
