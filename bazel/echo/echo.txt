@@ -6575,7 +6575,6 @@ enteroceptor
 enterochirurgia
 ergothioneine
 endorsement
-enterocholecystostomy
 eumeristic
 enwrapment
 enterochromaffin
@@ -14039,6 +14038,7 @@ enrol
 evictee
 extrauterine
 es
+enterocholecystostomy
 extravagance
 extravagances
 enterobiasis
