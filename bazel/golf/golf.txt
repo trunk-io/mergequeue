@@ -2684,7 +2684,6 @@ gameball
 generators
 generatrices
 gymnostomina
-generic
 gabeler
 glabbella
 generification
@@ -10511,6 +10510,7 @@ gunj
 gunstock
 gunja
 gunjah
+generic
 gona
 gunk
 gunkholed
