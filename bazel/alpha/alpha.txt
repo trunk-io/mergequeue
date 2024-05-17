@@ -4242,7 +4242,6 @@ adod
 adolesced
 aullay
 adolescence
-adolescent
 apasote
 autotransfusion
 adolescing
@@ -24799,6 +24798,7 @@ aflare
 avys
 almas
 antluetic
+adolescent
 avision
 avisos
 ambassadorships

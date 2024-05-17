@@ -6372,7 +6372,6 @@ cautelousness
 cauter
 cautery
 cauteries
-cauterisation
 cauterise
 cauterised
 cauterising
@@ -16990,6 +16989,7 @@ conglutinating
 cheepy
 cluttered
 clutterer
+cauterisation
 cluttery
 cluttering
 clutterment
