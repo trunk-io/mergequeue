@@ -5980,6 +5980,7 @@ demonstration
 detachers
 dodging
 deep
+digonal
 dowy
 donatio
 diadems
@@ -9569,7 +9570,6 @@ dignotion
 dependants
 deuterons
 dygogram
-digonal
 digoneutic
 digoneutism
 digonous
