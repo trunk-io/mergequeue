@@ -9497,7 +9497,6 @@ alternativo
 angioblast
 alternator
 alternifoliate
-alternipetalous
 alternisepalous
 alternity
 alternize
@@ -12771,6 +12770,7 @@ anyway
 adeems
 angiography
 angiographic
+alternipetalous
 angiohemophilia
 anhelous
 angiohypotonia
