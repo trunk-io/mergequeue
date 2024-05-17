@@ -3957,7 +3957,6 @@ fingerers
 fingerhold
 freehanded
 facility
-fingerhook
 fingering
 fibrinemia
 factitial
@@ -11480,6 +11479,7 @@ fursemide
 foreglimpse
 facie
 foresightedly
+fingerhook
 freelancing
 fastgoing
 fairleader
