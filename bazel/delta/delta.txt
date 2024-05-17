@@ -270,7 +270,6 @@ dissuitable
 dago
 dagoba
 dagobas
-dagomba
 dagswain
 daguerrean
 daguerreotype
@@ -605,6 +604,7 @@ drek
 disaffection
 dedolomitized
 discreet
+dagomba
 docetist
 desulfurate
 damming
