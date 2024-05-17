@@ -1485,7 +1485,6 @@ deoxygenate
 dca
 deceived
 dcb
-dcollet
 dcor
 ddname
 dea
@@ -3039,6 +3038,7 @@ deedier
 deedily
 deediness
 deeding
+dcollet
 deedless
 dedimus
 deeds
