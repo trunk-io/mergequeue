@@ -7120,7 +7120,6 @@ billethead
 besmirchment
 besmoke
 bruiser
-besmoked
 besmokes
 biodynamic
 bibbers
@@ -8660,6 +8659,7 @@ bebop
 bijoux
 bilinguist
 byliny
+besmoked
 bilinigrin
 bilinite
 bronchotomist
