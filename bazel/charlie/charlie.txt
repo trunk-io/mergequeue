@@ -9541,7 +9541,6 @@ checkback
 checkbird
 checkbite
 checkbits
-checkbook
 chachalaca
 climatically
 chaetites
@@ -19739,6 +19738,7 @@ combinedness
 classifiers
 cloudburst
 combiner
+checkbook
 combiners
 combines
 cappie
