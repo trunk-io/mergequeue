@@ -7427,7 +7427,6 @@ cephalodymus
 cephalodiscid
 checkweigher
 cryophoric
-cephalodiscida
 cephalodiscus
 curtains
 cephalodium
@@ -29306,6 +29305,7 @@ cryptogamy
 cryptogamia
 cryptogamian
 cryptogamic
+cephalodiscida
 cryptogamical
 cryptogamist
 cryptogamous
