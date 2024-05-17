@@ -78,7 +78,6 @@ feuter
 fermentations
 facepiece
 fisticuffs
-faces
 facesaving
 facet
 frizettes
@@ -3665,6 +3664,7 @@ fifteenth
 fridstool
 farcicalness
 filigrain
+faces
 functionalistic
 fretsaws
 firing
