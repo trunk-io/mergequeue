@@ -2896,7 +2896,6 @@ goalkeeper
 gentiobiose
 gadite
 gentiopicrin
-gesticulates
 gimmicky
 gentle
 guardianess
@@ -8105,6 +8104,7 @@ grapery
 graperoot
 grapes
 grapeskin
+gesticulates
 grapestalk
 grapevines
 grapewise
