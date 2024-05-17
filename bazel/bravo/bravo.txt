@@ -13656,7 +13656,6 @@ bour
 billboard
 braconid
 bourasque
-bourbon
 baseliner
 bourbonism
 bourbonize
@@ -18400,6 +18399,7 @@ buzzword
 bubber
 bespring
 benzoins
+bourbon
 bvt
 berginize
 bagwash
