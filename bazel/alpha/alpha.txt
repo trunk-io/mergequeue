@@ -8930,7 +8930,6 @@ allolalia
 allomerization
 allomerized
 allomerizing
-allomerous
 averager
 anematizing
 allometry
@@ -20109,6 +20108,7 @@ acervatim
 azonal
 auspices
 aculeate
+allomerous
 aromas
 aromatic
 aromatical
