@@ -4919,7 +4919,6 @@ bedways
 bindings
 blackwashing
 belavendered
-bedwards
 bedwarf
 bedtimes
 bedwarfing
@@ -6473,6 +6472,7 @@ blinks
 benzene
 bastian
 benzenediazonium
+bedwards
 benzenes
 benzenyl
 benzenoid
