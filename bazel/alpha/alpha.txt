@@ -9260,7 +9260,6 @@ alodium
 adown
 aloes
 aloesol
-angling
 aloetical
 aloft
 acequiador
@@ -24390,6 +24389,7 @@ autosite
 autositic
 amphikaryon
 autoskeleton
+angling
 afterdinner
 autoslip
 altruistic
