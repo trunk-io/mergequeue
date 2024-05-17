@@ -3601,7 +3601,6 @@ bastinadoes
 beckoning
 backsplice
 bloodsucker
-bathyplankton
 baygall
 briquetted
 bathyscaphes
@@ -9465,6 +9464,7 @@ breezeless
 birdies
 brimse
 baske
+bathyplankton
 buriti
 bullyrook
 birding
