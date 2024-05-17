@@ -20366,6 +20366,7 @@ clothier
 conjee
 commutableness
 commutant
+coal
 commutate
 commutated
 commutation
@@ -27520,7 +27521,6 @@ curtailer
 covariable
 covariables
 cheongsam
-coal
 covariant
 cuban
 covariate
