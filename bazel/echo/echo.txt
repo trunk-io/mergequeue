@@ -6557,7 +6557,6 @@ ellipses
 enorthotrope
 enterfeat
 estrepement
-enteria
 enwind
 enteric
 elaterid
@@ -8485,6 +8484,7 @@ eponyms
 eponymus
 excusingly
 epoophoron
+enteria
 earlesss
 epopoeias
 elephantopus
