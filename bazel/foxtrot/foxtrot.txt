@@ -8461,7 +8461,6 @@ formic
 formica
 formicariae
 formicarioid
-formicate
 felichthys
 franchiser
 formicating
@@ -9333,6 +9332,7 @@ frameshift
 frapler
 flunkydom
 futuramic
+formicate
 faburden
 flutterer
 frampler
