@@ -5647,7 +5647,6 @@ accidentally
 afterguard
 anaerobious
 afterharm
-afterheat
 afterhelp
 afterhend
 afterhope
@@ -12374,6 +12373,7 @@ andric
 andries
 andrite
 andouillette
+afterheat
 antlions
 androcentric
 acervuli
