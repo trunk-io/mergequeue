@@ -59,6 +59,7 @@ babel
 bolbonac
 berouged
 babeldom
+brise
 babelet
 babelish
 barouches
@@ -15501,7 +15502,6 @@ brominating
 briscola
 broidering
 bothriolepis
-brise
 briseis
 brises
 brisken
