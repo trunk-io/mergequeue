@@ -4029,7 +4029,6 @@ beacon
 beaconage
 berchta
 beaconless
-business
 bouldery
 beacons
 beaded
@@ -4398,6 +4397,7 @@ boreus
 bebotch
 bebothered
 beamily
+business
 bebouldered
 bayish
 bebrave
