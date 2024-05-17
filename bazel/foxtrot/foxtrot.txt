@@ -60,7 +60,6 @@ facebar
 facebow
 faced
 faceharden
-faceless
 flagships
 flecken
 facelessness
@@ -5848,6 +5847,7 @@ formidableness
 furanes
 flobby
 forswat
+faceless
 fraternate
 fastigia
 flocced
