@@ -2252,7 +2252,6 @@ canailles
 chargeship
 canakin
 canakins
-canal
 canalage
 canalatura
 canalboat
@@ -22824,6 +22823,7 @@ consenescency
 consensually
 cycadofilicale
 catnapped
+canal
 crinid
 consensuses
 consentable
