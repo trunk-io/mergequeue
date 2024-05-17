@@ -4381,7 +4381,6 @@ digallate
 delustering
 deluxe
 delve
-delved
 decanter
 dysarthria
 delver
@@ -7589,6 +7588,7 @@ desultorious
 deutobromide
 djellaba
 disconfirmed
+delved
 deuton
 deutonephron
 deutonymph
