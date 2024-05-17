@@ -4626,7 +4626,6 @@ demigrate
 demigriffin
 devocation
 demigroat
-dogmatician
 demihagbut
 dextrocular
 demihague
@@ -6069,6 +6068,7 @@ differentiative
 darkrooms
 depurition
 depursement
+dogmatician
 deputable
 dourines
 dichotomously
