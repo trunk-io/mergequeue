@@ -4397,7 +4397,6 @@ demagnetisable
 dioptrometer
 demagnetisation
 demagnetise
-demagnetised
 demagnetiser
 detraining
 demagnetising
@@ -4587,6 +4586,7 @@ demibuckram
 demicanon
 demicanton
 dysphoric
+demagnetised
 demicaponier
 demichamfron
 demicylinder
