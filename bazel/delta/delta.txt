@@ -5411,7 +5411,6 @@ dentification
 dentifrice
 dentifrices
 dentil
-dentilabial
 dentilated
 dentilation
 dentiled
@@ -10778,6 +10777,7 @@ dowers
 dipterocarpus
 dipteroi
 dependent
+dentilabial
 diastase
 devitalise
 dipterus
