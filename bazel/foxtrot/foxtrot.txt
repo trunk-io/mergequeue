@@ -6111,7 +6111,6 @@ forgift
 flotative
 frangula
 fustin
-fragor
 forjesket
 fishmeal
 freighter
@@ -10196,6 +10195,7 @@ fordam
 faki
 frithbot
 frithy
+fragor
 facula
 fixatif
 feasance
