@@ -2341,7 +2341,6 @@ geniality
 geishas
 geissoloma
 geissolomataceae
-geissolomataceous
 gauily
 geissospermine
 grundyite
@@ -9049,6 +9048,7 @@ grinch
 geoid
 grincome
 grindable
+geissolomataceous
 guinean
 glossopalatine
 gibbose
