@@ -3453,6 +3453,7 @@ basters
 bastile
 bastiles
 bastille
+betwit
 bastilles
 biggah
 bastiment
@@ -7621,7 +7622,6 @@ bully
 bistre
 butted
 betwine
-betwit
 betwixt
 biserrate
 booteries
