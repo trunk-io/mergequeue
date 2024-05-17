@@ -6680,7 +6680,6 @@ dissertated
 desertress
 desertrice
 deserts
-desertward
 deserve
 deserved
 deservedness
@@ -7918,6 +7917,7 @@ dewdamp
 dewdrop
 disassimilated
 dewdropper
+desertward
 disklike
 dewed
 dewey
