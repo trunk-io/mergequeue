@@ -4252,6 +4252,7 @@ carefreeness
 careful
 carefull
 carefuller
+civility
 carefullest
 carefully
 covenant
@@ -7333,7 +7334,6 @@ chaldese
 centuplicate
 centuplicated
 centuplicating
-civility
 clawsick
 centuplication
 catastrophe
