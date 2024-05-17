@@ -5902,7 +5902,6 @@ ancestor
 agata
 agate
 agatelike
-agates
 agatha
 agathaumas
 agathin
@@ -18634,6 +18633,7 @@ acidophilous
 arborize
 arborizing
 abaca
+agates
 antinion
 arborolater
 arborous

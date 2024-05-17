@@ -4403,7 +4403,6 @@ daut
 dhoney
 demagnetization
 deplores
-demagnetized
 demagnetizes
 demagnetizing
 devilbird
@@ -7233,6 +7232,7 @@ detainee
 detainees
 detainers
 detaining
+demagnetized
 decolourise
 durwaun
 detainingly
