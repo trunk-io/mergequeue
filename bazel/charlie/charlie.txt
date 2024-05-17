@@ -3714,7 +3714,6 @@ caravansary
 corticopeduncular
 caravansaries
 caravanserai
-caravanserial
 companeros
 caravel
 condylura
@@ -29345,6 +29344,7 @@ coshering
 cryptomonadina
 cryptonema
 cryptonemiales
+caravanserial
 corvina
 cryptoneurous
 cryptonymic
