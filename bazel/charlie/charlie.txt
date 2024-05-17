@@ -2048,7 +2048,6 @@ cecils
 comdg
 campaniform
 campanile
-campaniles
 campanili
 cephalopagus
 campaniliform
@@ -21658,6 +21657,7 @@ condescent
 centipoise
 calcaneofibular
 condiction
+campaniles
 ctrl
 condictious
 condiddle
