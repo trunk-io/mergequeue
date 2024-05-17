@@ -2461,7 +2461,6 @@ electrolier
 epopoeist
 existently
 electrolysation
-elephantlike
 electrolysed
 emigating
 electrolysing
@@ -6028,6 +6027,7 @@ enliven
 enlivened
 encomiums
 enlivener
+elephantlike
 enliveningly
 extremum
 elaterometer
