@@ -6284,7 +6284,6 @@ enrooted
 enroots
 embowed
 encirclement
-enrut
 euclidean
 earle
 ens
@@ -6517,6 +6516,7 @@ emiction
 eclectic
 episepalous
 encrown
+enrut
 ecumenically
 enaction
 entelam
