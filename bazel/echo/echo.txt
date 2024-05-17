@@ -283,6 +283,7 @@ ectozoans
 eastling
 eruditionist
 enflamed
+endemic
 eastlins
 eastman
 extraparenchymal
@@ -582,7 +583,6 @@ echocardiogram
 enucleator
 echoed
 echoey
-endemic
 echogram
 endophyllaceae
 enmanche
