@@ -1885,7 +1885,6 @@ gynandrarchic
 gastrostenosis
 gastrostomy
 gastrostomies
-grummer
 gonimolobe
 gastrothecal
 gastrotome
@@ -4611,6 +4610,7 @@ gypster
 gastrolith
 gypsuming
 gammadion
+grummer
 giraffidae
 giraffine
 grapeful

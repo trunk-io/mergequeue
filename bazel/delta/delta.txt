@@ -3231,7 +3231,6 @@ devotionalness
 dimitting
 dribbled
 defectiveness
-defectless
 declaratives
 defectlessness
 defectors
@@ -16313,6 +16312,7 @@ downpour
 desray
 dements
 downpours
+defectless
 disagreeable
 decidability
 downright
