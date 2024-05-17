@@ -7572,7 +7572,6 @@ besmirched
 bilocation
 bettering
 betterly
-betterment
 bielded
 butterroot
 brigantinebrigantines
@@ -9322,6 +9321,7 @@ bipedal
 bourbonesque
 bipedality
 bipeds
+betterment
 bipeltate
 bipennate
 built
