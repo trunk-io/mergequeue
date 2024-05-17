@@ -22029,6 +22029,7 @@ confirmations
 confirmatively
 confirmatory
 confirmatorily
+confusedness
 confirmed
 confirmedness
 confirmer
@@ -22187,7 +22188,6 @@ confusability
 circummured
 confused
 confusedly
-confusedness
 confuser
 confuses
 confusing
