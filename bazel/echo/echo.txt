@@ -3495,7 +3495,6 @@ equilibrize
 emboldens
 embole
 embolectomy
-enicuridae
 embolemia
 emboli
 emboly
@@ -6938,6 +6937,7 @@ entoptically
 engraff
 entoptics
 entoptoscopic
+enicuridae
 entorganism
 evangelicality
 enjoyableness
