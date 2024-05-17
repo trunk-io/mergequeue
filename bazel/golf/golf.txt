@@ -2186,6 +2186,7 @@ globosity
 gazeless
 gisler
 gazella
+groats
 gazelle
 gazellelike
 gazelline
@@ -3267,7 +3268,6 @@ geraniums
 getatability
 genoese
 grimp
-groats
 graffage
 gormandizer
 gerard
