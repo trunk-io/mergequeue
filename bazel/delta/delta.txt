@@ -4734,6 +4734,7 @@ dungyard
 dol
 dinic
 demisang
+dilatants
 demisangue
 demisavage
 douzaines
@@ -9699,7 +9700,6 @@ dilatable
 dilatably
 deters
 desiderate
-dilatants
 deviates
 dilatate
 decremented
