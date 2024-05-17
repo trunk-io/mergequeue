@@ -3299,7 +3299,6 @@ cuj
 capomo
 chrysomelidae
 cogware
-chelates
 caponata
 chloroacetic
 capone
@@ -10299,6 +10298,7 @@ chibcha
 chibchan
 coppers
 chibinite
+chelates
 chibol
 chibouks
 chibouque
