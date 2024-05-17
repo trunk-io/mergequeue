@@ -8262,7 +8262,6 @@ diadochic
 diadochite
 diadochokinesia
 diadoumenos
-diadrom
 diadrome
 diadromous
 dioti
@@ -12874,6 +12873,7 @@ disheveling
 dentello
 disoccluded
 disoccluding
+diadrom
 dairy
 dysodile
 disimprovement
