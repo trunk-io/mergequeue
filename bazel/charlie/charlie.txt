@@ -18637,7 +18637,6 @@ corporales
 cointensity
 cointer
 cointerest
-cointerred
 cointerring
 cointers
 cointersecting
@@ -22381,6 +22380,7 @@ congroid
 congruence
 crystallitis
 congruency
+cointerred
 columella
 congruent
 congruential
