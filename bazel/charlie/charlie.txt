@@ -7417,6 +7417,7 @@ cowmen
 cephalochordal
 cephalochordata
 cephalochordate
+cornier
 cucujidae
 cephaloclast
 cephalocone
@@ -14689,7 +14690,6 @@ cisternae
 cisternal
 calmly
 cisterns
-cornier
 compotier
 cystic
 cysticarpic
