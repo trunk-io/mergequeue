@@ -15601,7 +15601,6 @@ clash
 clashee
 clasher
 cogeneration
-clashers
 clashes
 clashy
 censures
@@ -29835,6 +29834,7 @@ calculate
 crossband
 crossbanding
 crossbar
+clashers
 crossbars
 countermeasures
 crossbeak
