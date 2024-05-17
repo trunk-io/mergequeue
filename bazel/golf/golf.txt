@@ -2260,7 +2260,6 @@ genarchship
 galilees
 greekist
 gedackt
-greenslade
 gedanite
 gedder
 gederathite
@@ -8015,6 +8014,7 @@ googlies
 grapeys
 gradely
 granospherite
+greenslade
 grantable
 genoblastic
 goalee
