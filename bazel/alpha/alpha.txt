@@ -7746,7 +7746,6 @@ alcoholmetric
 acroter
 abaissed
 adelpholite
-allows
 alcoholomania
 alcoholometer
 alcoholometry
@@ -8162,6 +8161,7 @@ algins
 amorist
 autobasidium
 alginuresis
+allows
 awarding
 alcapton
 algiomuscular

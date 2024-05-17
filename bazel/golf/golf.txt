@@ -3209,7 +3209,6 @@ geoscopic
 geoselenic
 geosid
 geosphere
-geostationary
 geostrategist
 geostrophically
 gal
@@ -4139,6 +4138,7 @@ gillstoup
 grundified
 gilour
 gilpey
+geostationary
 gilravage
 gushingly
 globs
