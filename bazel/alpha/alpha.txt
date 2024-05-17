@@ -2228,6 +2228,7 @@ achira
 alinasal
 achirite
 achyrodes
+article
 achkan
 anthophilous
 achlamydate
@@ -20682,7 +20683,6 @@ artiad
 advertising
 artichoke
 artichokes
-article
 articled
 acidimetrical
 adj
