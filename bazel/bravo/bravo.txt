@@ -11998,6 +11998,7 @@ bacillar
 bohireen
 begroaned
 breathing
+bowable
 bohor
 bohora
 bohorok
@@ -13758,7 +13759,6 @@ bovld
 beheading
 bovver
 basilinna
-bowable
 bapt
 bowback
 bowbells
