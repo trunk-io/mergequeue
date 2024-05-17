@@ -7387,6 +7387,7 @@ gnatproof
 goulan
 gesellschaften
 galenas
+geraty
 goularo
 goulash
 goulashes
@@ -8431,7 +8432,6 @@ gravelling
 giambeux
 goshdarn
 gramaphone
-geraty
 gulden
 glister
 gratuitously
