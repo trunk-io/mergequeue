@@ -4990,7 +4990,6 @@ gracefulness
 galaxian
 gladiator
 gladiatorial
-gladiatorism
 genesiacal
 glutaric
 glabreity
@@ -9361,6 +9360,7 @@ grossularite
 grosz
 grainsick
 gabriel
+gladiatorism
 gloea
 gemmiparity
 genocide
