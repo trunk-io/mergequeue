@@ -18347,7 +18347,6 @@ aquotization
 autopsychic
 aquotize
 antitrochanter
-ar
 ara
 araban
 arabesk
@@ -24702,6 +24701,7 @@ avgasses
 aviador
 avian
 athalamous
+ar
 avianize
 aureateness
 avians
