@@ -18690,7 +18690,6 @@ antiroyal
 aperch
 arcane
 aromatization
-arcanite
 anvilled
 arcato
 arcature
@@ -21061,6 +21060,7 @@ abstinency
 ascogonidium
 alabama
 anthelae
+arcanite
 afteryears
 asthorin
 anomural

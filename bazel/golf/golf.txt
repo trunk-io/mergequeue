@@ -3629,7 +3629,6 @@ groper
 ghanaian
 galumphed
 granulomatous
-gastronomy
 gharnao
 goniaster
 gnomonic
@@ -5603,6 +5602,7 @@ gymnasium
 gypsum
 globalize
 gaugeably
+gastronomy
 globalizing
 gasteria
 globally
