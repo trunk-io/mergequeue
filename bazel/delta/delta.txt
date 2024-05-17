@@ -445,7 +445,6 @@ dilapidator
 disthrall
 daystreak
 daytide
-daytimes
 dayton
 disburthen
 denda
@@ -2737,6 +2736,7 @@ dollish
 deconsecration
 deconsider
 determinoid
+daytimes
 deconsideration
 decontaminated
 decontaminates
