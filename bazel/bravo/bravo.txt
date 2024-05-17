@@ -1187,7 +1187,6 @@ biasteric
 blowcase
 bake
 brew
-bonus
 burrish
 bibliographer
 bellis
@@ -2179,6 +2178,7 @@ baptisin
 bitulithic
 boneen
 biddy
+bonus
 bathybius
 burnishes
 baptising
