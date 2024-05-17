@@ -12,6 +12,7 @@ aam
 ammiral
 autoimmunities
 aivr
+achromasia
 aani
 aardvarks
 archerfish
@@ -2270,7 +2271,6 @@ achroite
 anarchosocialist
 anomalipod
 achroma
-achromasia
 achromat
 actinal
 aperistalsis
