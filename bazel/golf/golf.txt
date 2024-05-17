@@ -5556,7 +5556,6 @@ goujon
 glyptotherium
 globeholder
 glires
-gliridae
 glirine
 galet
 groovy
@@ -8122,6 +8121,7 @@ graphemically
 girsle
 gasconading
 graphemics
+gliridae
 gastroscopies
 greenhorn
 graphically

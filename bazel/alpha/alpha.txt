@@ -7649,6 +7649,7 @@ alchemy
 alchemic
 antiviral
 alchemies
+araks
 augments
 alchemised
 actinozoal
@@ -13263,7 +13264,6 @@ artamus
 amygdalus
 anisal
 anisaldehyde
-araks
 anisamide
 anisandrous
 anisanilide
