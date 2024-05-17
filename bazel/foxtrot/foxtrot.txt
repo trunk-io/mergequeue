@@ -2513,7 +2513,6 @@ feudum
 fermentability
 flagelliferous
 fopdoodle
-fermentable
 ferrocyanic
 forlie
 fermentate
@@ -4314,6 +4313,7 @@ festivous
 fairyism
 fiscalify
 fourflusher
+fermentable
 freeboot
 fiscalize
 fiscalized

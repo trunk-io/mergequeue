@@ -5353,7 +5353,6 @@ gyrant
 gloppy
 gorilla
 grenier
-glibness
 glibnesses
 glycerate
 glyceria
@@ -7196,6 +7195,7 @@ gorillaship
 glutathione
 grabbler
 guaruan
+glibness
 grovers
 gramash
 gorillian
