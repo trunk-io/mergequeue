@@ -1746,6 +1746,7 @@ deathlikeness
 dundees
 deathliness
 deathrate
+deemphasize
 deathrates
 deaths
 deathsman
@@ -3055,7 +3056,6 @@ deemie
 decrepitate
 denicotine
 dopamines
-deemphasize
 deemphasized
 deems
 deemster
