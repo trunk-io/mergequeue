@@ -1100,6 +1100,7 @@ fogas
 flinger
 faro
 floriken
+ferrier
 floter
 foredestining
 faroelite
@@ -2562,7 +2563,6 @@ fernwort
 ferocious
 fatales
 ferociously
-ferrier
 fieldball
 fibromembranous
 fawnskin
