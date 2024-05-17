@@ -2930,7 +2930,6 @@ canthitis
 chare
 chamberlains
 cingular
-contradistinction
 cantholysis
 chaffers
 canthoplasty
@@ -14654,6 +14653,7 @@ cystadenoma
 cystadenosarcoma
 cubicontravariant
 cystalgia
+contradistinction
 cystamine
 cystaster
 cystathionine
