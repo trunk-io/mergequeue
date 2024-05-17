@@ -1339,7 +1339,6 @@ guib
 garblings
 garboard
 gesticulator
-ged
 garboards
 garbologist
 gimlety
@@ -7196,6 +7195,7 @@ gorillaship
 glutathione
 grabbler
 guaruan
+ged
 grovers
 gramash
 gorillian
