@@ -1126,6 +1126,7 @@ dashwheel
 diau
 dasyatis
 dasymeter
+drawtube
 dimpling
 distractingly
 digests
@@ -16880,7 +16881,6 @@ dinoceratid
 drawstrings
 drawtongs
 defortify
-drawtube
 decanically
 deaired
 drazel
