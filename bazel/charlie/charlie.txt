@@ -5400,7 +5400,6 @@ casting
 castle
 castled
 castlelike
-clitocybe
 castles
 cortaderia
 china
@@ -29639,6 +29638,7 @@ calkage
 crockeries
 crocketed
 crockets
+clitocybe
 crocking
 crocko
 chrominance
