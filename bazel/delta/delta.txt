@@ -3258,7 +3258,6 @@ doftberry
 disparager
 defences
 defencive
-defend
 disguisable
 defendable
 demimondaine
@@ -5819,6 +5818,7 @@ debater
 depolymerization
 depolymerize
 dipneedle
+defend
 depolish
 davened
 depolished
