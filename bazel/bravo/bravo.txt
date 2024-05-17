@@ -3545,6 +3545,7 @@ biri
 baroneted
 bondholder
 baham
+brooms
 batfowl
 batfowled
 benightedness
@@ -5797,7 +5798,6 @@ believer
 believers
 believes
 blankite
-brooms
 believeth
 budge
 believingly
