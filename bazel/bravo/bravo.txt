@@ -3601,7 +3601,6 @@ backsplice
 bloodsucker
 bathyplankton
 baygall
-briquetted
 bathyscaphes
 bathysophical
 bathysphere
@@ -12508,6 +12507,7 @@ bonesets
 bonesetting
 brushite
 boneshaker
+briquetted
 backbeat
 binders
 bonetail
