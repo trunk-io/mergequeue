@@ -679,6 +679,7 @@ dampness
 dampproof
 dampproofing
 damselfish
+dossel
 damselfishes
 diversions
 damsels
@@ -15891,7 +15892,6 @@ degression
 deepeningly
 dossals
 dossed
-dossel
 dossels
 drench
 dossennus
