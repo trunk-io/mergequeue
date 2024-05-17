@@ -513,7 +513,6 @@ billhead
 biscot
 backstitches
 briming
-barkstone
 backstitching
 broadway
 backstopped
@@ -7023,6 +7022,7 @@ bloated
 bitumed
 beseige
 besetment
+barkstone
 besets
 besetters
 besew
