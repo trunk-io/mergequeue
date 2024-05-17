@@ -2568,6 +2568,7 @@ fieldball
 fibromembranous
 fawnskin
 forehorse
+forborne
 ferox
 fossilized
 ferrara
@@ -7428,7 +7429,6 @@ flexanimous
 forboding
 forbore
 fertilisation
-forborne
 forbow
 forestland
 forcarve
