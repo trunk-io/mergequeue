@@ -8104,7 +8104,6 @@ algaesthesia
 algal
 algalia
 algarad
-angiolipoma
 anolytes
 algarroba
 adnexed
@@ -14190,6 +14189,7 @@ antennariid
 antennariidae
 antennata
 addling
+angiolipoma
 antennate
 antennifer
 antenniferous
