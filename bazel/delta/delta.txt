@@ -1492,7 +1492,6 @@ dea
 depressure
 deaccession
 darknesses
-deaccessioning
 declive
 deaccessions
 deacetylate
@@ -10904,6 +10903,7 @@ dis
 dashboards
 disable
 disabled
+deaccessioning
 doorplates
 dasypygal
 doldrums
