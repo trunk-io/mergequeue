@@ -4833,7 +4833,6 @@ fungal
 flailing
 folksinging
 fisheries
-followable
 flails
 flain
 flubdubberies
@@ -10638,6 +10637,7 @@ fructiform
 freudism
 freespac
 fulgent
+followable
 foiling
 foilsman
 filaceous
