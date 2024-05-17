@@ -5411,7 +5411,6 @@ glycolaldehyde
 goback
 gayals
 glycolyl
-glycolipine
 glycolysis
 glycolytic
 gateman
@@ -8874,6 +8873,7 @@ gladelike
 geriatric
 gaddingly
 gnaw
+glycolipine
 gribane
 gribble
 grice

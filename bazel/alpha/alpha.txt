@@ -19260,6 +19260,7 @@ arcosolia
 arthropoda
 arcosoliulia
 alquifou
+assertion
 arcosolium
 arcsin
 arcsines
@@ -21736,7 +21737,6 @@ asserting
 automatics
 agrise
 assertingly
-assertion
 assertional
 atropamine
 assertions
