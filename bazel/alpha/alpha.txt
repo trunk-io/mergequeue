@@ -16539,7 +16539,6 @@ anurans
 anuresis
 anuretic
 anury
-anuria
 anurias
 acceptive
 anuric
@@ -17697,6 +17696,7 @@ actinocrinus
 alcedo
 appenage
 append
+anuria
 appendaged
 abidingness
 appendance
