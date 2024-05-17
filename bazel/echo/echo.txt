@@ -3111,7 +3111,6 @@ epicentra
 extinguishes
 eryx
 elongation
-epiplastral
 endamageable
 eichbergite
 eloped
@@ -6039,6 +6038,7 @@ egocentricities
 enlodge
 enlodgement
 enlumine
+epiplastral
 elaidinic
 entheos
 ephorus
