@@ -11663,7 +11663,6 @@ beigy
 beclown
 boatmanship
 boatmaster
-boatmen
 boatowner
 boats
 boatsetter
@@ -15874,6 +15873,7 @@ basified
 bromizing
 bromlite
 bromo
+boatmen
 bromoacetone
 bearberries
 bromoauric

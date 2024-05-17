@@ -822,7 +822,6 @@ ectocoelic
 ectocommensal
 ectocondylar
 endophytic
-ectocondyle
 ectocondyloid
 epizoites
 efficient
@@ -4305,6 +4304,7 @@ embryocardia
 edgeweed
 enacture
 enaliornis
+ectocondyle
 enaliosaurian
 egranulose
 eyelast
