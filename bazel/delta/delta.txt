@@ -3289,7 +3289,6 @@ defensibleness
 defensibly
 defensive
 defensively
-defensiveness
 defensor
 defensorship
 deference
@@ -9788,6 +9787,7 @@ disrupture
 dillyman
 dillymen
 dilling
+defensiveness
 doorstops
 dillisk
 dills
