@@ -3150,7 +3150,6 @@ clothify
 capes
 capeskin
 capeskins
-capetian
 cede
 capetown
 cacochymic
@@ -8248,6 +8247,7 @@ chains
 chainsman
 canalize
 couchantly
+capetian
 chainsmen
 cleanups
 chainsmith
