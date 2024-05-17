@@ -5393,7 +5393,6 @@ dentel
 demibombard
 dentelliere
 dentelure
-dentes
 denty
 docimasies
 dorsimesal
@@ -12943,6 +12942,7 @@ disown
 downing
 demulsifying
 dysoxidation
+dentes
 dissilition
 disoxygenation
 debacchate

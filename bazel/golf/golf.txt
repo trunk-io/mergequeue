@@ -1729,7 +1729,6 @@ gastrimargy
 gorer
 gastritis
 gastroadenitis
-glottitis
 guepard
 geed
 glitch
@@ -3291,6 +3290,7 @@ gimels
 gerbillus
 grainedness
 gastornis
+glottitis
 goetical
 granes
 gere
