@@ -6115,6 +6115,7 @@ fishmeal
 freighter
 formaldehydesulphoxylic
 forewish
+fiducial
 favouringly
 freebies
 flotson
@@ -9909,7 +9910,6 @@ frett
 frettage
 fulcral
 frettation
-fiducial
 frette
 fretten
 firedamps
