@@ -3468,7 +3468,6 @@ capsizes
 capsizing
 capsomer
 capsomere
-capsomers
 capstan
 capstans
 capstone
@@ -8806,6 +8805,7 @@ chanties
 chantilly
 condemnation
 chantingly
+capsomers
 chantment
 chantor
 carman
