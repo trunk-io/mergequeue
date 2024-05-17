@@ -1573,6 +1573,7 @@ extraversion
 epipany
 egyptologic
 egis
+exsanguine
 exogeny
 egises
 eglamore
@@ -13481,7 +13482,6 @@ erk
 exculpates
 etruscologist
 envineyard
-exsanguine
 eristic
 exsanguineous
 exsanguinous
