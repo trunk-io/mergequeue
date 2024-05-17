@@ -5772,7 +5772,6 @@ deploying
 deployment
 dispansive
 diocletian
-decastich
 deployments
 drepanid
 deftest
@@ -18393,6 +18392,7 @@ duoviri
 dup
 dupable
 dupatta
+decastich
 disarrayed
 dupe
 dupedom
