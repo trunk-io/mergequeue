@@ -6269,7 +6269,6 @@ grammaticize
 garters
 garibaldi
 goadlike
-goadsman
 guarantine
 gondang
 goal
@@ -9466,6 +9465,7 @@ group
 groupable
 gynophoric
 grandrelle
+goadsman
 gallous
 grouper
 glycolipin
