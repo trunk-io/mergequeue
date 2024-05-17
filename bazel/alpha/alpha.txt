@@ -618,7 +618,6 @@ aboideaus
 aboil
 aahed
 achaeta
-aboiteau
 aboiteaus
 aboiteaux
 accommodation
@@ -21608,6 +21607,7 @@ assayer
 assayers
 assaying
 antitorpedo
+aboiteau
 assail
 assailable
 adenectopic
