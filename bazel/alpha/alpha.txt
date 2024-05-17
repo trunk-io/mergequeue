@@ -5176,7 +5176,6 @@ acrosarc
 almightiness
 aesop
 aesopian
-aesopic
 aestethic
 aesthesodic
 aesthete
@@ -18802,6 +18801,7 @@ archbuffoon
 archbuilder
 altaite
 archchampion
+aesopic
 archcheater
 archchemic
 amorism
