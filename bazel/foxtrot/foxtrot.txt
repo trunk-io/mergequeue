@@ -8592,6 +8592,7 @@ forril
 forrit
 foxish
 forescript
+frivolities
 forsay
 fir
 forsaken
@@ -10228,7 +10229,6 @@ fuchi
 frivoled
 frivoler
 frivolity
-frivolities
 fluency
 frivolling
 frontad
