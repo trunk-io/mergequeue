@@ -19119,7 +19119,6 @@ collinsia
 collinsite
 chloryl
 collinsonia
-colliquable
 colliquament
 colliquate
 colliquativeness
@@ -31066,6 +31065,7 @@ cacodylate
 cunicular
 cuniculi
 camelid
+colliquable
 cuniculus
 cuniforms
 cunila
