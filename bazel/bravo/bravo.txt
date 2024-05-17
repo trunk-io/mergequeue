@@ -509,7 +509,6 @@ backstick
 backstitch
 backstitched
 biserial
-billhead
 biscot
 backstitches
 briming
@@ -720,6 +719,7 @@ badarrah
 badass
 bufferrer
 besprinkler
+billhead
 birdshot
 badaxe
 brasseries

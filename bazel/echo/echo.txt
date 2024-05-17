@@ -2278,7 +2278,6 @@ electroanesthesia
 electroballistically
 electroballistics
 electrobath
-electrobiological
 enjeopardy
 epicenity
 eremitic
@@ -4077,6 +4076,7 @@ empiric
 encipherments
 empirical
 empiricalness
+electrobiological
 empiricism
 eurypelma
 engorgement
