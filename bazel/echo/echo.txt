@@ -1260,7 +1260,6 @@ eelpouts
 eelshop
 eelskin
 eelworm
-estragon
 een
 endosternite
 eer
@@ -10763,6 +10762,7 @@ enarbor
 eugeny
 expeditate
 eyeletter
+estragon
 eugenia
 extraclassroom
 exclusions
