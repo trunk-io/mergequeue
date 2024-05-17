@@ -8793,7 +8793,6 @@ cabinetmake
 chanters
 coinhering
 chantership
-chanteur
 chanteuse
 chanteuses
 chanty
@@ -24395,6 +24394,7 @@ coolish
 chrysopoetics
 candour
 conveyancer
+chanteur
 coolly
 coolness
 coolnesses
