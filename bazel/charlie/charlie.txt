@@ -8665,6 +8665,7 @@ chancelor
 chancelry
 calathidium
 chancels
+cirrhose
 chanceman
 chancemen
 corance
@@ -14538,7 +14539,6 @@ cirrated
 compounds
 cirratulidae
 cirratulus
-cirrhose
 cirrhosed
 cartels
 cirrhotic
