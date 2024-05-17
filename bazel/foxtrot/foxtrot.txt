@@ -4468,7 +4468,6 @@ fissle
 furcule
 frostier
 fissura
-finesse
 frawn
 fissured
 fissurella
@@ -7948,6 +7947,7 @@ fornicatory
 fimicolous
 foreshadow
 foreshadowed
+finesse
 flugelman
 featherman
 fermentative
