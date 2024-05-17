@@ -2646,7 +2646,6 @@ gutted
 generalistic
 gromatic
 galumptious
-generaliter
 gobangs
 generalities
 generalizations
@@ -8186,6 +8185,7 @@ grapier
 gon
 gusseting
 grapiest
+generaliter
 goodhap
 grainier
 graping

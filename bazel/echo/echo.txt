@@ -596,7 +596,6 @@ echoisms
 epigeal
 echolocation
 echometer
-echopractic
 echos
 echovirus
 emplacement
@@ -4998,6 +4997,7 @@ endoangiitis
 exemplum
 endoaortitis
 endoappendicitis
+echopractic
 economization
 enamelled
 elan
