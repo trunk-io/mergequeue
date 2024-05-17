@@ -3594,7 +3594,6 @@ caracal
 caracara
 carack
 caracks
-caracoa
 cumanagoto
 caracol
 caracoled
@@ -7914,6 +7913,7 @@ cervicolabial
 cervicolumbar
 crystal
 cervicomuscular
+caracoa
 chiasmi
 camphines
 cerviconasal
