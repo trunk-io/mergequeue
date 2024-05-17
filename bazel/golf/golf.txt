@@ -5921,6 +5921,7 @@ grain
 glovemaker
 gametes
 gloveman
+gerendum
 glover
 glochines
 gnarlier
@@ -10724,7 +10725,6 @@ gustiest
 gryllus
 globulin
 gustless
-gerendum
 gustoes
 gerodontics
 goodyism
