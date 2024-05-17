@@ -2585,7 +2585,6 @@ galenian
 guildite
 gossaniferous
 geranomorphic
-gendarmery
 geobotanical
 gendarmerie
 gnawings
@@ -10137,6 +10136,7 @@ guildsmen
 gigglers
 guianan
 gloried
+gendarmery
 guyandot
 guidable
 guidance
