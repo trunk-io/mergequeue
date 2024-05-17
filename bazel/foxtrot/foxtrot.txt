@@ -5544,7 +5544,6 @@ fiftyfold
 filet
 flicked
 finale
-flicker
 flickered
 flickermouse
 flossa
@@ -6552,6 +6551,7 @@ freakishness
 flutist
 fibrilations
 flutter
+flicker
 flutterable
 flutterboard
 fluttered
