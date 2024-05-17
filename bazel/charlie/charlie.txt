@@ -6967,7 +6967,6 @@ cementmaker
 cementmaking
 catapan
 cementoblast
-cementoma
 cements
 cementwork
 cemetaries
@@ -22400,6 +22399,7 @@ congruism
 corv
 congruist
 congruistic
+cementoma
 congruity
 congruous
 congruously
