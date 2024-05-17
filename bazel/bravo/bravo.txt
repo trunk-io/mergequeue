@@ -5689,7 +5689,6 @@ belaying
 belam
 belamcanda
 belamy
-belamour
 bettas
 belanda
 belander
@@ -18267,6 +18266,7 @@ buttermonger
 bagworm
 buttermouth
 butternose
+belamour
 barathrum
 bronzier
 butternuts
