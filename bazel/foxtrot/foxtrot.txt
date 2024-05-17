@@ -8622,7 +8622,6 @@ filicides
 fumistery
 fields
 forswears
-fortake
 fertilizations
 fenceful
 fortaxed
@@ -8857,6 +8856,7 @@ foist
 fels
 forblow
 fosterhood
+fortake
 fostering
 fosterite
 forebye
