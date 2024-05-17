@@ -162,7 +162,6 @@ girth
 galibi
 gaelic
 gasogenes
-gynostegia
 garfield
 gaen
 gaes
@@ -771,6 +770,7 @@ gujar
 galvanizes
 galvanizing
 galvanocauteries
+gynostegia
 galvanoglyph
 glycid
 gerbillinae

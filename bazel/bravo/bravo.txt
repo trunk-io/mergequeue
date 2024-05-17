@@ -4617,6 +4617,7 @@ bakery
 buttonholer
 bedad
 bladeless
+brushproof
 basecoat
 bedaggle
 beday
@@ -16419,7 +16420,6 @@ byrling
 brushoff
 brushoffs
 brushpopper
-brushproof
 brushup
 brushups
 brushwood
