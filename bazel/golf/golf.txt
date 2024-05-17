@@ -4680,7 +4680,6 @@ gamekeepers
 gigantopithecus
 gymnastics
 gypseian
-gastroenteric
 gyrinidae
 greenings
 gentlehood
@@ -6415,6 +6414,7 @@ gobony
 gobs
 gobstick
 galipot
+gastroenteric
 gobstopper
 gerahs
 groceries
