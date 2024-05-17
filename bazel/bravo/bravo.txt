@@ -5185,7 +5185,6 @@ befog
 baetylus
 befogging
 beguile
-befogs
 bottoms
 batoid
 blenniiform
@@ -8229,6 +8228,7 @@ barbariousness
 boschvark
 bidactylous
 bidarkas
+befogs
 biotics
 bitty
 biddability
