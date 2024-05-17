@@ -12541,7 +12541,6 @@ anemopsis
 anemoscope
 afront
 aye
-anemoses
 anemosis
 accessively
 anemotactic
@@ -22729,6 +22728,7 @@ atmiatry
 atmid
 atmidometry
 atmo
+anemoses
 atmocausis
 atmocautery
 atmoclastic
