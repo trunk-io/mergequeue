@@ -1611,6 +1611,7 @@ ballones
 ballonette
 boiguacu
 ballonne
+birthplace
 bimaculate
 ballonnes
 balloon
@@ -12613,7 +12614,6 @@ brike
 bonspiel
 bedplate
 bonteboks
-birthplace
 bontebuck
 bontebucks
 bontok
