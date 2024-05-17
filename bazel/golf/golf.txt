@@ -4559,7 +4559,6 @@ gipser
 gipsy
 gipsydom
 gepoun
-gipsied
 gipsies
 gugu
 gypsiferous
@@ -7034,6 +7033,7 @@ glucosan
 gigameter
 gooseberry
 gamete
+gipsied
 gossipmonger
 gastradenitis
 genealogist
