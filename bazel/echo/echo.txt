@@ -8741,6 +8741,7 @@ equiprobability
 equiprobable
 enablers
 equiproportional
+epidendral
 equiproportionality
 equiseta
 escopet
@@ -14060,7 +14061,6 @@ extravenate
 extraventricular
 extraversive
 exclude
-epidendral
 epagoge
 extraverted
 errantry
