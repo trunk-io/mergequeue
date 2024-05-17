@@ -4381,7 +4381,6 @@ cariform
 carijona
 caryl
 culvertage
-confidentiality
 carillonneur
 carillonneurs
 carillonning
@@ -22284,6 +22283,7 @@ congii
 congius
 calandrinae
 caribisi
+confidentiality
 conglaciate
 conglobate
 conglobately
