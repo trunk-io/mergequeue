@@ -1166,7 +1166,6 @@ baize
 baized
 beseech
 baizing
-bajardo
 bajarigar
 bajau
 boxer
@@ -6002,6 +6001,7 @@ beloam
 belock
 blousy
 beloeilite
+bajardo
 bredstitch
 basimesostasis
 belomancy
