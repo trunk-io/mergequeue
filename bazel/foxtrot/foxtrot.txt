@@ -2391,6 +2391,7 @@ furner
 flattops
 fenzelia
 feod
+fatidic
 firestopping
 feodum
 farewelled
@@ -7232,7 +7233,6 @@ footpad
 footpath
 footpaths
 forewarner
-fatidic
 fetial
 fogs
 forepeak
