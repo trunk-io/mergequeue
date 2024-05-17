@@ -6240,6 +6240,7 @@ enrichers
 enriches
 enows
 electrotechnology
+electrophilic
 epsilon
 ennew
 enridged
@@ -13809,7 +13810,6 @@ extratropical
 extendible
 extracerebral
 effervescingly
-electrophilic
 extracystic
 extracivic
 extracivically
