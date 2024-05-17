@@ -8392,7 +8392,6 @@ chalets
 conyrine
 chalybean
 chalybeate
-chalybes
 chalybite
 chalice
 chaliced
@@ -26032,6 +26031,7 @@ corvette
 corvettes
 corvetto
 corvidae
+chalybes
 corvillosum
 corvinae
 creolize
