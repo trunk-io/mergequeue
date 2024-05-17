@@ -3262,7 +3262,6 @@ agena
 alstonine
 assident
 actuary
-actuarially
 aphis
 actuarian
 actuaryship
@@ -15392,6 +15391,7 @@ antihumanism
 antihumanist
 anteriad
 antihumanistic
+actuarially
 authorization
 adinida
 anammonid
