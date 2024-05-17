@@ -7649,6 +7649,7 @@ cerebellocortex
 constrain
 cerebellorubral
 cerebellospinal
+coronals
 cerebellum
 cerebral
 cerebralism
@@ -25565,7 +25566,6 @@ controversionalism
 confervous
 coronaled
 coronalled
-coronals
 coronamen
 coronary
 cleek
