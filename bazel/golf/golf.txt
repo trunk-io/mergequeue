@@ -1404,7 +1404,6 @@ groundling
 gristbite
 grumphies
 gabbard
-gleaning
 granulitization
 geckotid
 glucosidase
@@ -2392,6 +2391,7 @@ goose
 gelatinoid
 granilla
 gadbee
+gleaning
 gelation
 gardon
 glunching
