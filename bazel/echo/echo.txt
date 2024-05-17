@@ -8740,7 +8740,6 @@ equiprobable
 enablers
 equiproportional
 equiproportionality
-equiseta
 escopet
 equisetaceous
 epicondylar
@@ -12789,6 +12788,7 @@ exorcistic
 extrahazardous
 efforce
 erythroxylum
+equiseta
 encumber
 exam
 exorcization

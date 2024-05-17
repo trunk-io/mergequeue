@@ -11632,6 +11632,7 @@ byres
 brutality
 boatbuilding
 boatel
+bareka
 boatheader
 boathook
 boathouse
@@ -14209,7 +14210,6 @@ bateman
 bassinets
 bradley
 birkenia
-bareka
 bradmaker
 bonbonnieres
 beckiron
