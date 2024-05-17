@@ -3609,7 +3609,6 @@ defuses
 defusion
 dorsocaudal
 dingles
-defuze
 dolman
 defuzed
 dakoities
@@ -7353,6 +7352,7 @@ deterrence
 deterrent
 deterrently
 deterrents
+defuze
 djelfa
 daylighting
 detersiveness
