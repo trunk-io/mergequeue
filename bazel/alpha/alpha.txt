@@ -2750,7 +2750,6 @@ antiarcha
 accommodateness
 anticyclonic
 acridid
-acrididae
 acridiidae
 acridyl
 acridin
@@ -21865,6 +21864,7 @@ anchietine
 asnort
 accipter
 assistance
+acrididae
 assistant
 assistanted
 assisted
