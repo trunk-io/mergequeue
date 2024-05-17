@@ -3149,6 +3149,7 @@ capersomeness
 clothify
 capes
 capeskin
+corsage
 capeskins
 capetian
 cede
@@ -25912,7 +25913,6 @@ corruptress
 corrupts
 corsac
 corsacs
-corsage
 corsages
 corsairs
 corsak
