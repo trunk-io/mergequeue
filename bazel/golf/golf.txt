@@ -1126,7 +1126,6 @@ galleasses
 gonimous
 gangrened
 grapeline
-gangrenes
 gangrenescent
 gangrenous
 groof
@@ -10492,6 +10491,7 @@ goblinry
 gundie
 gundog
 genially
+gangrenes
 gratiola
 gilly
 gastronomic
