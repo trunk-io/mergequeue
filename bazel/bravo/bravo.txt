@@ -3755,6 +3755,7 @@ batterie
 breck
 batteried
 batteries
+betrayals
 batteryman
 batterman
 batters
@@ -7533,7 +7534,6 @@ betorn
 bistriazole
 betowered
 bassirilievi
-betrayals
 betrayed
 bequeathment
 bimarginate
