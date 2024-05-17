@@ -836,7 +836,6 @@ gamari
 gamash
 gonidium
 gamashes
-graminiferous
 gamasidae
 goombay
 gamasoidea
@@ -7701,6 +7700,7 @@ grainways
 granularly
 gymnetrous
 grahams
+graminiferous
 grumbletonian
 gray
 getaway
