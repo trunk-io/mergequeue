@@ -6738,7 +6738,6 @@ designable
 dhutis
 designado
 designated
-direct
 designates
 designation
 designative
@@ -17818,6 +17817,7 @@ diplophonia
 duckmeat
 duckpin
 dishouse
+direct
 diabolarch
 dotiness
 ducktail
