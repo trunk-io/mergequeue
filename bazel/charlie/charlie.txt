@@ -3513,7 +3513,6 @@ captained
 captainry
 captainship
 captainships
-chemicked
 captan
 captance
 captandum
@@ -14538,6 +14537,7 @@ coercibleness
 cirrated
 compounds
 cirratulidae
+chemicked
 cirratulus
 cirrhose
 cirrhosed
