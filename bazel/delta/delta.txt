@@ -802,7 +802,6 @@ detections
 dangerfully
 depe
 dangerous
-dangerously
 deduced
 dangerousness
 dangers
@@ -10011,6 +10010,7 @@ deratize
 depair
 dynam
 dooley
+dangerously
 disventure
 dissightly
 dynamic
