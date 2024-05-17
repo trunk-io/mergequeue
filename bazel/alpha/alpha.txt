@@ -3819,7 +3819,6 @@ adhesive
 adhesively
 adhesiveness
 autotoxin
-adhesives
 adhibit
 aggers
 apposes
@@ -25379,6 +25378,7 @@ azoxazole
 azoxy
 azoxybenzene
 azoxime
+adhesives
 azoxynaphthalene
 azoxine
 achterveld
