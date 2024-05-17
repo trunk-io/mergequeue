@@ -2078,7 +2078,6 @@ frenches
 feinting
 feis
 fatigueless
-flatlander
 ferberite
 fogbows
 frauder
@@ -9660,6 +9659,7 @@ freedoot
 fizzed
 facticide
 friableness
+flatlander
 front
 ferren
 ferrotyper
