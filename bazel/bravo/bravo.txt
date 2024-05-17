@@ -2908,6 +2908,7 @@ barrelhouses
 barreling
 blanco
 broad
+butteraceous
 barrelled
 baetylic
 brattle
@@ -18222,7 +18223,6 @@ bremely
 betook
 butsu
 butter
-butteraceous
 butterback
 bowsing
 butterball
