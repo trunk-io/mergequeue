@@ -9638,6 +9638,7 @@ dihydrotachysterol
 dihydroxy
 dhaks
 dihydroxyacetone
+dysfunctional
 dihydroxysuccinic
 dihydroxytoluene
 dosshouse
@@ -12213,7 +12214,6 @@ disfunction
 declaratively
 dennstaedtia
 dendrochronological
-dysfunctional
 dysfunctioning
 disability
 detector
