@@ -2854,6 +2854,7 @@ gensengs
 genteel
 glike
 grano
+granulations
 gaulin
 graddan
 genteelize
@@ -8044,7 +8045,6 @@ galactic
 granulates
 granulation
 gnawing
-granulations
 gobia
 gudebrother
 granulative
