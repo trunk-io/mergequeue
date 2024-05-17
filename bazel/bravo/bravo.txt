@@ -16819,7 +16819,6 @@ buffable
 buffalo
 buffaloback
 blasty
-buffaloes
 buffalofish
 botheration
 buffaloing
@@ -18277,6 +18276,7 @@ butterwoman
 basque
 butterworker
 butterwort
+buffaloes
 butterwright
 buttgenbachite
 breed

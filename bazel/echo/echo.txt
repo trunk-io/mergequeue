@@ -5376,6 +5376,7 @@ exampless
 endseal
 endshake
 execrates
+enaunter
 exploration
 echoize
 elfishly
@@ -5403,7 +5404,6 @@ eneclann
 emydosauria
 empaestic
 empetraceae
-enaunter
 elapid
 electuary
 ened
