@@ -3770,7 +3770,6 @@ battledoring
 battlefronts
 battlegrounds
 bringall
-barway
 battlement
 battlements
 barnstorms
@@ -11243,6 +11242,7 @@ byes
 bronchiloquy
 bicyclists
 blooper
+barway
 bessy
 bloopers
 blooping
