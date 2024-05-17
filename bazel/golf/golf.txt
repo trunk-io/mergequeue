@@ -2318,7 +2318,6 @@ gey
 gaits
 gallantry
 griseofulvin
-gorgonacean
 geyerite
 geiger
 gospeller
@@ -7462,6 +7461,7 @@ governableness
 goldcrest
 graphostatic
 galavanted
+gorgonacean
 grafship
 gulmohar
 governed
