@@ -6700,6 +6700,7 @@ berdache
 berdaches
 berdash
 birotation
+bewrap
 baryglossia
 betons
 bere
@@ -6939,7 +6940,6 @@ bertillonage
 bertolonia
 bioacoustics
 bertram
-bewrap
 basigenous
 bibliolatry
 bertrum
