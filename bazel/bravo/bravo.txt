@@ -1099,7 +1099,6 @@ bunns
 bainie
 baining
 bainite
-biogenic
 baioc
 boresomeness
 baptize
@@ -2510,6 +2509,7 @@ barge
 bargeboard
 bargeer
 biogasses
+biogenic
 bergere
 bargehouse
 bargelike
