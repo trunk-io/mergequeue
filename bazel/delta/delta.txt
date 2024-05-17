@@ -6750,7 +6750,6 @@ date
 designators
 designatum
 detersive
-designedly
 designedness
 designee
 detachability
@@ -10880,6 +10879,7 @@ dirling
 delead
 dirndl
 download
+designedly
 dirndls
 dirtbird
 dirtboard
