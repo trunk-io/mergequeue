@@ -4329,6 +4329,7 @@ adorners
 algaesthesis
 adornment
 armamentaria
+ascendable
 adornments
 adorno
 adornos
@@ -20954,7 +20955,6 @@ ascella
 ascelli
 ascellus
 ascend
-ascendable
 antirust
 antiphagocytic
 ascendance
