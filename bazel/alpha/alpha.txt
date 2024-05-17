@@ -7583,7 +7583,6 @@ albuminous
 albuminousness
 albumins
 albuminurophobia
-albumoid
 actomyosin
 albumoscope
 albumose
@@ -20246,6 +20245,7 @@ arrentation
 arreption
 attributional
 arrest
+albumoid
 arrestation
 anophyte
 arrested
