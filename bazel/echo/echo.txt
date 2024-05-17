@@ -731,7 +731,6 @@ ecosystem
 ecosystems
 erastian
 enstyle
-ellipsometer
 ergotisms
 ecospecific
 ecosphere
@@ -7134,6 +7133,7 @@ envisaged
 empemata
 envisagement
 envisaging
+ellipsometer
 emulable
 extrapolative
 envisioning
