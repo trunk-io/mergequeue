@@ -10158,7 +10158,6 @@ chestier
 collaudation
 corallorhiza
 chestnut
-chestnuts
 chestnutty
 chet
 chetah
@@ -28846,6 +28845,7 @@ crestfallenness
 cresting
 crestings
 crestless
+chestnuts
 crestline
 crests
 creta
