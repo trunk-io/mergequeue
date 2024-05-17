@@ -4868,7 +4868,6 @@ flambant
 fragmentarily
 furcately
 frequentable
-flambeau
 flambeaux
 flambee
 flamberg
@@ -4908,6 +4907,7 @@ flatten
 fourflushers
 flameouts
 formulize
+flambeau
 flameproofer
 flamer
 flamers
