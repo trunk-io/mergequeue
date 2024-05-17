@@ -6618,7 +6618,6 @@ cecilite
 cecity
 cystoureteritis
 cecitis
-cecograph
 cecomorphae
 cecomorphic
 cecopexy
@@ -9139,6 +9138,7 @@ cervantist
 charmingest
 charmingness
 charmless
+cecograph
 charmlessly
 charmonium
 charms
