@@ -1403,7 +1403,6 @@ exequy
 evilnesses
 effluve
 effluvia
-effluviable
 effluviate
 effluviography
 essenced
@@ -11352,6 +11351,7 @@ eonisms
 evangels
 endotrophic
 esselen
+effluviable
 eavesdrops
 expirable
 evanishes
