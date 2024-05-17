@@ -12043,6 +12043,7 @@ disendowment
 dalasi
 disendows
 disenfranchisement
+doorkeeper
 disenfranchisements
 decumaria
 demonkind
@@ -15604,7 +15605,6 @@ doorhawk
 doorhead
 dooryards
 dooring
-doorkeeper
 doorknob
 doorknobs
 doorless
