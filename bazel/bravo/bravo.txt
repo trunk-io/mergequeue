@@ -2038,6 +2038,7 @@ bankalachi
 bobsleds
 bankbooks
 basti
+bonnetlike
 bankcard
 becrawl
 bankcards
@@ -12574,7 +12575,6 @@ bonneter
 bonnethead
 barrens
 bonnetiere
-bonnetlike
 bombesin
 bonnets
 bonny
