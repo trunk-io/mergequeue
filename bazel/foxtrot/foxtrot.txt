@@ -4439,6 +4439,7 @@ focaloid
 fissionable
 farcing
 fissioned
+fructescence
 fissions
 fregit
 fissipalmation
@@ -4626,7 +4627,6 @@ foveated
 fennecs
 fixedness
 foreby
-fructescence
 fibroreticulate
 fixer
 fixers
