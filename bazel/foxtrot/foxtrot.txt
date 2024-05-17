@@ -1679,7 +1679,6 @@ forbite
 falcade
 fc
 fitchering
-fipenny
 fconv
 farcin
 familiar
@@ -10368,6 +10367,7 @@ fitten
 frizzlers
 freightless
 fronde
+fipenny
 firth
 frondent
 ferrates
