@@ -4543,7 +4543,6 @@ dwarf
 depravities
 demesne
 decl
-demesnes
 declarers
 dishwashing
 disentitle
@@ -11117,6 +11116,7 @@ dourade
 deliciously
 disassembled
 disassembler
+demesnes
 descriptors
 disassembling
 disassent
