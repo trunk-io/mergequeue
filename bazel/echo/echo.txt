@@ -4130,6 +4130,7 @@ estado
 eriglossa
 employed
 employee
+endosecretory
 endives
 employees
 employer
@@ -12975,7 +12976,6 @@ expective
 expectorant
 expectorate
 expectorated
-endosecretory
 etatisms
 echinology
 expectorates

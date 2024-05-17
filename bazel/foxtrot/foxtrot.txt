@@ -7249,7 +7249,6 @@ footprint
 footraces
 fb
 forestery
-footrest
 footrope
 footropes
 fremescent
@@ -8735,6 +8734,7 @@ fortunel
 foozled
 froe
 fixedly
+footrest
 fortunes
 frenchism
 frankfort
