@@ -2897,6 +2897,7 @@ cylindrocephalic
 canted
 canteen
 canteens
+cuticula
 cantefable
 canter
 canterburian
@@ -31791,7 +31792,6 @@ cutgrass
 cuthbert
 cuticle
 cuticolor
-cuticula
 cuticularization
 cuticularize
 cuticulate

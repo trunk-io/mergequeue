@@ -553,7 +553,6 @@ galley
 goniatitidae
 gyrowheel
 glaires
-goutwort
 galipoidin
 gastrotympanites
 gallingness
@@ -7685,6 +7684,7 @@ groggery
 gentisin
 gippo
 graftproof
+goutwort
 gyroscopic
 graham
 graithly
