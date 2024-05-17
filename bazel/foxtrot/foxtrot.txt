@@ -2543,6 +2543,7 @@ fermions
 fermium
 fern
 fastigium
+fanfarade
 floripondio
 forint
 fiduciary
@@ -6270,7 +6271,6 @@ fluidifier
 fluidimeter
 faldage
 fluoarsenate
-fanfarade
 fluidisation
 fld
 fooder
