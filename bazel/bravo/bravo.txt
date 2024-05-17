@@ -4153,7 +4153,6 @@ bagge
 beans
 beansetter
 beanshooter
-beanstalk
 beanstalks
 bibbs
 begrain
@@ -8107,6 +8106,7 @@ bicarbide
 brusher
 bicarbonates
 bicarbureted
+beanstalk
 bicarburetted
 baptistery
 beanbag
