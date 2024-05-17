@@ -8983,6 +8983,7 @@ characterize
 characterizer
 characterizers
 characterizing
+corporeals
 characterless
 characterlessness
 characterology
@@ -25664,7 +25665,6 @@ corporealization
 cochlea
 corporeally
 corporealness
-corporeals
 corporeity
 crankier
 corporeous
