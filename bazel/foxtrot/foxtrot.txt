@@ -1780,6 +1780,7 @@ foreshore
 floorman
 fraught
 feathercut
+facette
 falconiformes
 fibropsammoma
 famatinite
@@ -6802,7 +6803,6 @@ flukiest
 founding
 fold
 fleechment
-facette
 fevers
 foldage
 favellilidia
