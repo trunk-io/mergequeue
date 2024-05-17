@@ -5951,7 +5951,6 @@ catties
 catheterisation
 catheterise
 coiffes
-catheterised
 catheterism
 catheterization
 catheterize
@@ -24613,6 +24612,7 @@ copycat
 copycats
 citywide
 copycatting
+catheterised
 calembour
 copycutter
 ctenacanthus
