@@ -7771,7 +7771,6 @@ denaturalization
 devirginate
 devirgination
 diaglyph
-devirilize
 devisability
 devisable
 devisal
@@ -12223,6 +12222,7 @@ dendrochronological
 dysfunctional
 dysfunctioning
 disability
+devirilize
 davening
 detector
 defatigate
