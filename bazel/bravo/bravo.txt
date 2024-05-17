@@ -1528,6 +1528,7 @@ backsword
 butomus
 ballaster
 ballastic
+bubblies
 ballasting
 baste
 ballat
@@ -13109,7 +13110,6 @@ bororoan
 brucite
 blameable
 borosalicylate
-bubblies
 borosalicylic
 broncs
 borotungstate
