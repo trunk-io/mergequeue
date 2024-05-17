@@ -2211,7 +2211,6 @@ graders
 gconv
 gdinfo
 gds
-grayfish
 grinnellia
 gaycat
 gastrotomy
@@ -2475,6 +2474,7 @@ gastroparalysis
 glumness
 geminates
 gemination
+grayfish
 geminative
 garmented
 gagsters
