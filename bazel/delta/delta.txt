@@ -15603,7 +15603,6 @@ doorcheek
 doored
 doorhawk
 doorhead
-dooryards
 dooring
 doorkeeper
 doorknob
@@ -16967,6 +16966,7 @@ downcurve
 dredgeful
 decomplex
 dredger
+dooryards
 dredgers
 dredges
 densher
