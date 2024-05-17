@@ -3597,7 +3597,6 @@ bastinadoes
 beckoning
 backsplice
 bloodsucker
-bathyplankton
 baygall
 bathyscaphes
 bathysophical
@@ -7955,6 +7954,7 @@ balche
 bicephalous
 biface
 bibacity
+bathyplankton
 bypasses
 bibation
 beglamour
