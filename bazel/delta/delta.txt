@@ -1123,7 +1123,6 @@ dashplate
 dropflower
 dashpot
 depaint
-dashwheel
 diau
 dasyatis
 dasymeter
@@ -17385,6 +17384,7 @@ droopingness
 disphenoid
 drow
 drop
+dashwheel
 desquamation
 dropax
 dishwiper
