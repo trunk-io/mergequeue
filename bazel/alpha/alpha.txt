@@ -3045,7 +3045,6 @@ axtree
 aulostomi
 actiniform
 actiniomorpha
-actinisms
 anesthetist
 actinium
 actiniums
@@ -17519,6 +17518,7 @@ apothecarcaries
 aestivated
 acceptably
 aquiculturist
+actinisms
 apothecary
 apothecaryship
 apothece
