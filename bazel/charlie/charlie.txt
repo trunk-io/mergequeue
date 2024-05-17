@@ -6242,7 +6242,6 @@ caulescent
 cauli
 caulicle
 caulicles
-caulicole
 cacophonia
 champerator
 caulicolous
@@ -19625,6 +19624,7 @@ columnates
 columnation
 crinkleroot
 columned
+caulicole
 columner
 commonalties
 caschrom
