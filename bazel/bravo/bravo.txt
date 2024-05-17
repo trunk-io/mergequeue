@@ -15525,7 +15525,6 @@ bemired
 briss
 brisses
 brist
-bristlebird
 bristlecone
 birdman
 bombproof
@@ -17640,6 +17639,7 @@ burggrave
 bello
 burghbote
 burgher
+bristlebird
 burgherage
 beguine
 blowtubes
