@@ -5540,7 +5540,6 @@ flichtering
 fiftyfold
 filet
 flicked
-finale
 flicker
 flickered
 flickermouse
@@ -10424,6 +10423,7 @@ fowage
 frontierless
 foliage
 farmyards
+finale
 fictor
 forgivableness
 filigerous
