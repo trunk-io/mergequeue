@@ -2118,7 +2118,6 @@ engrafting
 etherealise
 elater
 elatery
-elaterids
 elaterins
 electroblasting
 exterminatress
@@ -8715,6 +8714,7 @@ evasively
 euphemizing
 epilepsy
 enterosyphilis
+elaterids
 entasias
 equiponderance
 extoll

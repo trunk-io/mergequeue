@@ -3454,7 +3454,6 @@ adaptiveness
 adaptometer
 adaptor
 adaptorial
-adapts
 allotransplant
 adar
 aglobulia
@@ -8862,6 +8861,7 @@ allochiria
 allochlorophyll
 allochroic
 allochthon
+adapts
 autoepilation
 allochthonous
 adscititiously
