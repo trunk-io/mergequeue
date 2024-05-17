@@ -678,6 +678,7 @@ cafenet
 cafetal
 cafeteria
 cafeterias
+cord
 cafetiere
 cafetorium
 caff
@@ -15830,7 +15831,6 @@ claxon
 claxons
 cleaded
 clinkstone
-cord
 cleam
 cleamer
 confectioneries
