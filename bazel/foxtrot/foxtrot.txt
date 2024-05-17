@@ -140,6 +140,7 @@ furlable
 fackeltanz
 flajolotite
 fem
+fellowman
 faconde
 fidgets
 facsim
@@ -2440,7 +2441,6 @@ fossicking
 fakes
 ferganite
 futurism
-fellowman
 fergus
 featural
 ferguson
