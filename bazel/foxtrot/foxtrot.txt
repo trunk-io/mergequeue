@@ -2072,7 +2072,6 @@ feinter
 feudary
 facedown
 faucalize
-frenches
 feinting
 feis
 fatigueless
@@ -9248,6 +9247,7 @@ ferritins
 forwardsearch
 fragment
 fasthold
+frenches
 floorhead
 fragmental
 fumously
