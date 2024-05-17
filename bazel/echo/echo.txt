@@ -4036,7 +4036,6 @@ enrollees
 embarked
 emphatical
 endometritis
-emphysema
 emetic
 emphyteusis
 endobronchitis
@@ -4723,6 +4722,7 @@ enclisis
 enclitical
 endosmosic
 encycl
+emphysema
 encloak
 exploratory
 eclipsis
