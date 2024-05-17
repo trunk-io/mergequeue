@@ -15998,7 +15998,6 @@ clepsydra
 clepsydrae
 clepsydras
 clepsine
-clept
 cleptobioses
 conics
 cleptomaniac
@@ -16866,6 +16865,7 @@ clubrooms
 clubroot
 carding
 clubroots
+clept
 clubs
 clubstart
 clubster
