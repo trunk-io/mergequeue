@@ -12279,6 +12279,7 @@ boltsmith
 barbarea
 beakful
 banker
+breakfronts
 bawds
 baptised
 boltwork
@@ -14836,7 +14837,6 @@ breakermen
 breakers
 breakfast
 breakfasted
-breakfronts
 breaking
 breakings
 breaklist
