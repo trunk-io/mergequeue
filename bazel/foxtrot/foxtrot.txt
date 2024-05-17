@@ -2428,7 +2428,6 @@ feres
 feretory
 flytings
 firearmed
-filleting
 frolicky
 feretories
 ferfel
@@ -2744,6 +2743,7 @@ ferular
 foreimpression
 ferule
 forfended
+filleting
 feruled
 ferulic
 fissipedate
