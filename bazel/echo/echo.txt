@@ -2101,6 +2101,7 @@ enarm
 elastins
 exemplupla
 elastivity
+eructed
 elastomer
 emperish
 enfamish
@@ -9407,7 +9408,6 @@ eructated
 emulge
 eructating
 eructative
-eructed
 eruction
 eructs
 exegetic
