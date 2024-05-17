@@ -12815,7 +12815,6 @@ angiorrhagia
 angiorrhaphy
 angiorrhea
 angiosarcoma
-angiosclerotic
 angioscope
 arlington
 angiosymphysis
@@ -18747,6 +18746,7 @@ archaically
 aeroballistics
 archaicness
 amulae
+angiosclerotic
 archaise
 archaiser
 architraval
