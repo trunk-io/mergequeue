@@ -2356,6 +2356,7 @@ electrification
 electrodeposition
 escalation
 electrodes
+epikouros
 electrodiagnosis
 entoblast
 esterling
@@ -11051,7 +11052,6 @@ estufa
 eupsychics
 euptelea
 elizabethans
-epikouros
 eurafric
 equivocally
 exmoor
