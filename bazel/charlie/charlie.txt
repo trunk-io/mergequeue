@@ -9087,7 +9087,6 @@ charisms
 charisticary
 charitably
 charitative
-charity
 chessmen
 charities
 charityless
@@ -20310,6 +20309,7 @@ communicate
 communicates
 communicating
 communication
+charity
 communications
 communicative
 communicatively
