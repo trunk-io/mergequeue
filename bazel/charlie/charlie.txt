@@ -5179,6 +5179,7 @@ cashable
 cashableness
 cashaws
 cashboy
+counterbalance
 carida
 cashbooks
 cashbox
@@ -28836,7 +28837,6 @@ cressets
 cressiest
 cresswort
 crest
-counterbalance
 congrue
 comparator
 crestal
