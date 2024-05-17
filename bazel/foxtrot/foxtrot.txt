@@ -7704,6 +7704,7 @@ forehock
 forehoof
 flagrantness
 flotter
+forspeak
 forgiveable
 frist
 forehoofs
@@ -8608,7 +8609,6 @@ fairlead
 feudalised
 forslow
 forsooth
-forspeak
 farstepped
 fatale
 fatuitousness
