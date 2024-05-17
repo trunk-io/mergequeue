@@ -16037,6 +16037,7 @@ clerid
 chicaning
 comfrey
 clerihews
+corrections
 clerisies
 clerk
 chalcotript
@@ -25729,7 +25730,6 @@ correction
 correctional
 correctionalist
 correctioner
-corrections
 corrective
 correctively
 correctiveness
