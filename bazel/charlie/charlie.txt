@@ -17452,6 +17452,7 @@ cobbler
 cobblerfish
 cobblerism
 cobblers
+cohelper
 cobblership
 cobbles
 cobblestone
@@ -18450,7 +18451,6 @@ coheir
 coheiress
 coheirs
 coheirship
-cohelper
 cohelpership
 cohen
 cohenite
