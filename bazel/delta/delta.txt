@@ -366,7 +366,6 @@ detruss
 daymares
 daymark
 doupion
-dormmice
 daimiate
 daimiel
 davallia
@@ -3433,6 +3432,7 @@ deflations
 denaturized
 defleaed
 damnum
+dormmice
 defleas
 deflect
 driftfishes
