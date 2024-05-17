@@ -13680,7 +13680,6 @@ annunciating
 annunciation
 annunciations
 annus
-anoa
 ariel
 anoas
 anobiidae
@@ -21422,6 +21421,7 @@ aspergillaceae
 acaricide
 alantol
 aspergilli
+anoa
 antimark
 aspergilliform
 anatira
