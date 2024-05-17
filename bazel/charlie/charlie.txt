@@ -9244,7 +9244,6 @@ chasid
 chasidim
 chasings
 chasm
-circumrotation
 chasma
 chasmed
 contemplators
@@ -31146,6 +31145,7 @@ curtseying
 cuprene
 cupreous
 cupressaceae
+circumrotation
 crowstep
 cupressineous
 cupressinoxylon
