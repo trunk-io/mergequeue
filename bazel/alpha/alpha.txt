@@ -11959,7 +11959,6 @@ anaptychus
 anaptyctic
 antecloset
 anaptomorphidae
-anaptomorphus
 anaptotic
 anarcestes
 anarch
@@ -17403,6 +17402,7 @@ aporhyolite
 amusively
 aporiae
 aggradational
+anaptomorphus
 aporias
 adherant
 antifederal
