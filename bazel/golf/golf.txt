@@ -4980,7 +4980,6 @@ grush
 gladful
 gnomonics
 gleg
-gladfulness
 gorblimey
 gladhearted
 gracefulness
@@ -5977,6 +5976,7 @@ gluck
 giggle
 glucocorticoid
 glucofrangulin
+gladfulness
 gasfiring
 guatemaltecan
 glucokinase
