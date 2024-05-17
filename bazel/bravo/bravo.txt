@@ -10538,7 +10538,6 @@ blastogenetic
 bloodthirstier
 blastogenic
 betray
-baizes
 beleaguer
 bylining
 berbamine
@@ -15917,6 +15916,7 @@ breakfront
 burgh
 bromuret
 bromus
+baizes
 birdlet
 bronc
 bronchadenitis
