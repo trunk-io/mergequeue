@@ -213,6 +213,7 @@ abscision
 abbott
 abbozzo
 abbrev
+alter
 alodially
 abbreviatable
 abraded
@@ -9446,7 +9447,6 @@ altars
 armbone
 altarwise
 altazimuth
-alter
 alterability
 alterable
 alterableness
