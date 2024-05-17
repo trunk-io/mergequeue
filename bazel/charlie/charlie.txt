@@ -1522,7 +1522,6 @@ callisteia
 callistephus
 callisthenic
 cric
-cenotaphic
 chemostat
 callisto
 callithrix
@@ -28378,6 +28377,7 @@ crawberry
 curtailment
 crawdad
 crawdads
+cenotaphic
 collector
 crawfishing
 crawfoot
