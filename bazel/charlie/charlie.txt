@@ -5503,6 +5503,7 @@ catachthonian
 catachthonic
 cataclasis
 cataclastic
+coccolithophorid
 cataclinal
 cataclysmal
 cataclysmatic
@@ -17613,7 +17614,6 @@ coccoidal
 coccoids
 canonlike
 coccolite
-coccolithophorid
 coccoloba
 counterresolution
 calabashes
