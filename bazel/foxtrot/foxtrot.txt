@@ -8388,7 +8388,6 @@ funned
 flange
 formalities
 formalizable
-flipflop
 formalization
 formalizations
 fictitiously
@@ -9764,6 +9763,7 @@ freycinetia
 fulgorous
 freieslebenite
 freight
+flipflop
 foretoken
 freightage
 fluorite
