@@ -3517,6 +3517,7 @@ batch
 bumbass
 bissext
 birdcall
+bablah
 batched
 batcher
 batching
@@ -6163,7 +6164,6 @@ bemolt
 bort
 befrill
 bemotto
-bablah
 bemoult
 boathead
 bemartyr
