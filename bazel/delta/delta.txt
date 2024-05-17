@@ -5154,7 +5154,6 @@ dendrium
 dendrobium
 derailed
 dendrochirota
-doubleprecision
 describing
 dendrochronology
 defeasibleness
@@ -12428,6 +12427,7 @@ drawler
 dishonesty
 dishonesties
 dishonor
+doubleprecision
 distendedness
 dishonorably
 discession
