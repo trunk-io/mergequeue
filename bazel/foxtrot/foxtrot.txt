@@ -2626,7 +2626,6 @@ fullering
 frizzles
 flangeless
 fervency
-ferryhouse
 ferrimagnetically
 feedsman
 ferryman
@@ -5073,6 +5072,7 @@ flashtubes
 flask
 forevouched
 forslack
+ferryhouse
 feltlike
 ferricyanhydric
 flasker
