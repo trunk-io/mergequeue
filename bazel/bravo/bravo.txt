@@ -3965,7 +3965,6 @@ beteela
 bebar
 bde
 bdellatomy
-brotan
 bdellium
 bdelliums
 bdelloid
@@ -11173,6 +11172,7 @@ benevolently
 bloodletter
 bloodlines
 bloodlusting
+brotan
 bloodmobile
 bicycling
 broguing
