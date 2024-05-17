@@ -5086,6 +5086,7 @@ aeroperitonia
 avondbloem
 aerophagy
 aerophagia
+alar
 arales
 alphonsism
 aerophane
@@ -19098,7 +19099,6 @@ archmachine
 archmagician
 adread
 archmagirist
-alar
 archmarshal
 archmessenger
 archmilitarist
