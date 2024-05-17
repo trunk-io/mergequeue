@@ -6210,7 +6210,6 @@ gnaws
 glebes
 gneiss
 grotesquely
-gravitometer
 gombos
 gressible
 greatcoats
@@ -9325,6 +9324,7 @@ guldengroschen
 grope
 gropingly
 governments
+gravitometer
 geneserin
 grosbeaks
 groser
