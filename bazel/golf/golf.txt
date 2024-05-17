@@ -5973,7 +5973,6 @@ glucocorticoid
 glucofrangulin
 gasfiring
 guatemaltecan
-glucokinase
 gliocyte
 glucokinin
 gravimetric
@@ -8074,6 +8073,7 @@ geom
 granulocytopoiesis
 gambroon
 glazier
+glucokinase
 granulometric
 gaspereaus
 granulosa
