@@ -2959,7 +2959,6 @@ boulevard
 barrister
 bails
 botts
-burrel
 barristerial
 barristress
 barroom
@@ -6498,6 +6497,7 @@ balkingly
 benzyls
 benziminazole
 bethinking
+burrel
 benzine
 bughouses
 benzines
