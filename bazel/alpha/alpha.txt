@@ -10580,6 +10580,7 @@ anthriscus
 amylogenesis
 amylogenic
 amylogens
+axerophthol
 archoptoma
 amylohydrolysis
 amylohydrolytic
@@ -25080,7 +25081,6 @@ annual
 appalachia
 aerodromics
 ausforms
-axerophthol
 axers
 axes
 axfetch
