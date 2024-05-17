@@ -5979,7 +5979,6 @@ demagnetizer
 dendrochronologist
 depressional
 depressions
-demonstration
 detachers
 dodging
 deep
@@ -12022,6 +12021,7 @@ disemprison
 disenable
 disenabled
 deferable
+demonstration
 disenabling
 disenact
 disenamor
