@@ -4918,7 +4918,6 @@ carstone
 cart
 counterpoising
 chromatinic
-cartable
 cartaceous
 cartage
 cowherbs
@@ -10395,6 +10394,7 @@ chickstone
 chickweed
 canariote
 chickwit
+cartable
 chicle
 chamberfellow
 conhydrine
