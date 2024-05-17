@@ -5591,7 +5591,6 @@ enfort
 eastwards
 exporting
 epicritic
-enforth
 estrangle
 enfoulder
 epithi
@@ -10082,6 +10081,7 @@ estrich
 enacted
 estrif
 exactus
+enforth
 exudative
 epauliere
 estrin
