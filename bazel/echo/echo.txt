@@ -6139,7 +6139,6 @@ enterclose
 enomania
 eranist
 enomotarch
-exodist
 enophthalmus
 ebenaceae
 enclavement
@@ -12602,6 +12601,7 @@ extant
 encumberment
 epilogic
 existing
+exodist
 existlessness
 exists
 epistemological
