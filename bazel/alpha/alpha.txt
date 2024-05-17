@@ -5715,6 +5715,7 @@ ancestress
 achromatium
 afterthought
 afterthoughted
+appraisable
 afterthoughts
 afterthrift
 apastron
@@ -17947,7 +17948,6 @@ afrown
 appositionally
 appositive
 apppetible
-appraisable
 atmans
 appraisals
 appraised
