@@ -1909,7 +1909,6 @@ bandlimits
 bostangi
 bandmaster
 bandmasters
-bando
 bandobust
 bandog
 bandanas
@@ -9203,6 +9202,7 @@ biopsychologist
 bioptic
 biliously
 biorbital
+bando
 biophagy
 burling
 byordinary
