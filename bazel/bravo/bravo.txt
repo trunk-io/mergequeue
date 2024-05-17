@@ -5379,7 +5379,6 @@ blackboys
 breviers
 beglue
 blastomas
-balas
 bloomery
 begnaw
 balmy
@@ -17087,6 +17086,7 @@ barrelling
 bullberry
 baluga
 bullboat
+balas
 bullcart
 bullcomber
 barcarole
