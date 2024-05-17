@@ -5111,7 +5111,6 @@ dayal
 denaturalised
 denaturalising
 discommendably
-denaturalize
 denaturalized
 denaturalizing
 denaturant
@@ -10644,6 +10643,7 @@ denatures
 diplopy
 diplopia
 drey
+denaturalize
 doghole
 diploplacula
 diploplacular

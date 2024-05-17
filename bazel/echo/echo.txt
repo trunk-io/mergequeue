@@ -1755,7 +1755,6 @@ euflavine
 eyepiece
 eyepit
 embattle
-epochal
 eyepoint
 eyereach
 eyeroot
@@ -2970,6 +2969,7 @@ eliphalet
 excrementize
 episplenitis
 entrenched
+epochal
 eliquidate
 echelonment
 elysian
