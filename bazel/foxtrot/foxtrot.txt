@@ -3970,7 +3970,6 @@ forbearers
 flagellum
 fingerling
 fingerlings
-facadal
 fervorlessness
 fayalites
 flattish
@@ -5344,6 +5343,7 @@ fribourg
 feirie
 foisonless
 forechurch
+facadal
 fichu
 fleeceless
 feasten
