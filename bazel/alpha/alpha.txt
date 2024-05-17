@@ -11960,7 +11960,6 @@ anapsid
 australopithecus
 anapterygota
 anapterygote
-anapterygotism
 ariettas
 anaptychus
 anaptyctic
@@ -24057,6 +24056,7 @@ affinage
 autoed
 almeries
 autoelectrolysis
+anapterygotism
 afacing
 autoelectrolytic
 autoelevation
