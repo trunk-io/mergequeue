@@ -1084,7 +1084,6 @@ fontinalaceae
 fuzzle
 forthcomer
 farmyard
-ferlies
 farmyardy
 farmout
 fisc
@@ -8411,6 +8410,7 @@ foulards
 formation
 fargoing
 floscularian
+ferlies
 flushboard
 formals
 frustration
