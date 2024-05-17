@@ -3615,7 +3615,6 @@ bathmat
 bathmats
 bereaven
 bollard
-bathmism
 bathochromatism
 bathochromy
 bathochromic
@@ -14711,6 +14710,7 @@ bravoing
 bifolium
 bravuras
 brawer
+bathmism
 brawly
 brawling
 buncal
