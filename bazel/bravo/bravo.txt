@@ -15504,6 +15504,7 @@ brise
 briseis
 brises
 brisken
+buttoned
 briskened
 brisker
 broadcasted
@@ -18308,7 +18309,6 @@ button
 buttonball
 burtons
 buttonbush
-buttoned
 borealis
 baddishly
 basidiocarp
