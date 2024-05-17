@@ -2403,7 +2403,6 @@ bulgur
 bardcraft
 balate
 barde
-bardes
 brabant
 bardesanite
 barwin
@@ -18324,6 +18323,7 @@ buttony
 buttoning
 bridgebuilding
 beths
+bardes
 buttonlike
 brahmans
 boulle
