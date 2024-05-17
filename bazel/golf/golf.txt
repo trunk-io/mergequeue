@@ -1030,7 +1030,6 @@ gyrinus
 greeney
 ganders
 gesneraceae
-gandertmeeth
 gandharva
 geothermal
 gobioidea
@@ -2944,6 +2943,7 @@ gentries
 gigged
 galacaceae
 galaxies
+gandertmeeth
 genu
 glycogenetic
 grouthead
