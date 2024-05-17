@@ -944,7 +944,6 @@ benzoquinone
 bagsful
 bulgar
 bagtikan
-baguet
 baguets
 baguette
 baguio
@@ -9254,6 +9253,7 @@ boeing
 bungmaker
 bletting
 biosterol
+baguet
 beefburger
 biota
 barotropy
