@@ -14209,6 +14209,7 @@ circler
 counternotice
 circles
 circlet
+corticoid
 circleting
 circlets
 cochleas
@@ -16377,7 +16378,6 @@ clysma
 charmeuse
 clysmian
 clysmic
-corticoid
 clyssus
 clyster
 connectives
