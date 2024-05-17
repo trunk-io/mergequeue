@@ -3385,7 +3385,6 @@ adays
 agrestal
 adalat
 adam
-adamances
 assistor
 adamantean
 anisodactylous
@@ -4183,6 +4182,7 @@ agitpunkt
 ampliation
 admitter
 admitters
+adamances
 admitting
 admixed
 abiegh
