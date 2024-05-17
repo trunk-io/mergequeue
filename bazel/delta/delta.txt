@@ -448,7 +448,6 @@ daytide
 daytimes
 dayton
 disburthen
-denda
 dayward
 dayworker
 daywrit
@@ -17398,6 +17397,7 @@ dropheads
 dropkick
 dictagraph
 dropkicker
+denda
 dropkicks
 droplet
 deficiencies
