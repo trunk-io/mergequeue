@@ -7872,6 +7872,7 @@ epigraph
 egyptianization
 eccentricity
 epigraphic
+ectolecithal
 epigraphist
 epigraphs
 epiguanine
@@ -11657,7 +11658,6 @@ evolver
 elizabethanize
 effluence
 evomit
-ectolecithal
 exergual
 evonymuses
 evulgate
