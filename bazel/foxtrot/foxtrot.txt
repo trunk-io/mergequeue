@@ -2754,7 +2754,6 @@ frizziness
 fervence
 fortnightlies
 forerunnership
-firebote
 furosemide
 ferventness
 frighteningness
@@ -7906,6 +7905,7 @@ fores
 foresaddle
 flowstone
 fyttes
+firebote
 florent
 flindosy
 fusillades
