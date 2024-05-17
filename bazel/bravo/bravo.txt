@@ -10298,7 +10298,6 @@ bignesses
 biborate
 blacksmithing
 beastdom
-benevolist
 bocaccio
 blacksnake
 blackstick
@@ -13495,6 +13494,7 @@ bouchee
 bielid
 beseeching
 boucher
+benevolist
 bouchette
 bichromate
 bouchon
