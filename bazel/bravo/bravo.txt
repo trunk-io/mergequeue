@@ -4425,7 +4425,6 @@ becaps
 balanite
 becard
 becarpeted
-becarpeting
 balancer
 becarve
 becasse
@@ -16829,6 +16828,7 @@ bohemians
 brachyprism
 buffeted
 borderless
+becarpeting
 beliked
 bibliokelpt
 buffeter
