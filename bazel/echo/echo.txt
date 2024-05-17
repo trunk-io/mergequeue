@@ -6822,7 +6822,6 @@ embonpoint
 entoil
 entoils
 entoloma
-entom
 extender
 episternalia
 expressionful
@@ -12004,6 +12003,7 @@ electrophysics
 excipuliform
 exfodiate
 earmindedness
+entom
 erythroxylaceae
 excircle
 endotheliolysin
