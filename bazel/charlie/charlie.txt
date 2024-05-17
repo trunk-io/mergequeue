@@ -8327,7 +8327,6 @@ cosingular
 chalaziferous
 chalazium
 chalazogam
-chalazogamic
 chandam
 chalazoidite
 chalazoin
@@ -21118,6 +21117,7 @@ cherishers
 concatenate
 cometic
 concatenated
+chalazogamic
 concatenates
 coequating
 concatenation
