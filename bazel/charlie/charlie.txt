@@ -14425,7 +14425,6 @@ circumposition
 condite
 circumquaque
 circumradii
-circumradius
 circumradiuses
 circumferent
 charitable
@@ -19468,6 +19467,7 @@ colostration
 colostrous
 colostrum
 colotyphoid
+circumradius
 colotomy
 colotomies
 citharoedus
