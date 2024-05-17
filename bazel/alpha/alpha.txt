@@ -8071,7 +8071,6 @@ alfenide
 alferes
 alferez
 alfet
-authentical
 anachueta
 alfileria
 astert
@@ -12827,6 +12826,7 @@ angiospermic
 angiospermous
 angiosperms
 assistive
+authentical
 angiosporous
 angiostrophy
 angiotasis
