@@ -6775,7 +6775,6 @@ beribbon
 barbarious
 beriber
 beriberis
-berycid
 busyhead
 bloodshotten
 berycidae
@@ -15102,6 +15101,7 @@ bryaceae
 bryales
 bryanism
 bryanite
+berycid
 briar
 briarberry
 buckbean
