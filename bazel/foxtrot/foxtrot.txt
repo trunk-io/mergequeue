@@ -2613,7 +2613,6 @@ freebee
 ferrets
 foresightful
 flanes
-ferryboat
 ferryboats
 familistery
 ferricyanate
@@ -2922,6 +2921,7 @@ fumarin
 furunculosis
 fetted
 fetter
+ferryboat
 fisty
 figworm
 fungid
