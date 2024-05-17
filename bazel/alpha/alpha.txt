@@ -4821,7 +4821,6 @@ aeipathy
 aetheling
 antedawn
 aeluroid
-aerobacteriology
 aeluroidea
 aelurophobe
 aeluropodous
@@ -12123,6 +12122,7 @@ anatomiser
 anatomising
 anatomist
 anatomists
+aerobacteriology
 anatomization
 anatomize
 anatomized
