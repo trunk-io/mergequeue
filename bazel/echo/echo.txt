@@ -7043,6 +7043,7 @@ exarchate
 emote
 entrusting
 entrustment
+episome
 entrusts
 entte
 entune
@@ -8213,7 +8214,6 @@ episodically
 episomal
 episomally
 exuded
-episome
 elide
 emong
 epispadia
