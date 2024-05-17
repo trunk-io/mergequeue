@@ -6959,7 +6959,6 @@ despatcher
 despatches
 despatching
 dioptry
-despeche
 dogblow
 despecialization
 dispute
@@ -15722,6 +15721,7 @@ downlie
 dormancies
 dormer
 dammara
+despeche
 dormered
 dormers
 dormette
