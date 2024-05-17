@@ -505,6 +505,7 @@ bridely
 butylation
 biotech
 boshboks
+bits
 backstick
 backstitch
 backstitched
@@ -4852,7 +4853,6 @@ bedrugged
 bedrugs
 beds
 bedscrew
-bits
 bedsick
 bedside
 bedsitter
