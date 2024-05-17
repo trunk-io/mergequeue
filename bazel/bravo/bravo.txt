@@ -5475,7 +5475,6 @@ behale
 behalf
 behallow
 behammer
-beshine
 behap
 bookmonger
 boarstaff
@@ -6834,6 +6833,7 @@ berlinite
 banzais
 bathmotropic
 berlinize
+beshine
 berloque
 berm
 berme

@@ -3720,7 +3720,6 @@ companeros
 caravel
 condylura
 confuse
-caravels
 caraway
 costate
 caraways
@@ -5966,6 +5965,7 @@ catheterize
 challa
 catheterized
 cerastium
+caravels
 catheterizes
 catheti
 cathetometer
