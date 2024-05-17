@@ -632,6 +632,7 @@ bromates
 benomyls
 bacterid
 bacteriogenic
+becobweb
 bacteriogenous
 bacteriohemolysin
 benzin
@@ -4952,7 +4953,6 @@ beef
 beefalo
 beefaloes
 bloodedness
-becobweb
 botanizer
 brimmered
 bogyisms
