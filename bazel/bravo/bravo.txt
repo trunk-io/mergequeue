@@ -2133,7 +2133,6 @@ borofluoride
 bantayan
 bidstand
 bantam
-bantamize
 bantams
 banteng
 bizant
@@ -15897,6 +15896,7 @@ bruising
 breeze
 blindfolding
 bromomania
+bantamize
 bromomethane
 bodgery
 bushhammer

@@ -4597,6 +4597,7 @@ eucryphiaceae
 engrid
 erethizontidae
 endocranium
+electrotropism
 enchiladas
 equinities
 extolment
@@ -8188,7 +8189,6 @@ episedia
 episememe
 episyllogism
 eisenhower
-electrotropism
 episynthetic
 electrodispersive
 expedientist
