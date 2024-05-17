@@ -9363,7 +9363,6 @@ alphabetology
 antidynasty
 alphameric
 alphamerically
-alphanumerics
 alphard
 areole
 alphas
@@ -21394,6 +21393,7 @@ antapology
 asparkle
 aftergrave
 aspartame
+alphanumerics
 aspasia
 akoluthia
 anathematized
