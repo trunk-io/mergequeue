@@ -3670,7 +3670,6 @@ adenitises
 adenization
 adenoacanthoma
 adenocarcinoma
-adenocarcinomas
 adenocarcinomata
 akepiros
 adenochondroma
@@ -10311,6 +10310,7 @@ aplodiorite
 aments
 amentulum
 amenuse
+adenocarcinomas
 adeling
 amerce
 ambulacral
