@@ -6554,6 +6554,7 @@ descent
 descents
 drawnet
 doblons
+dissheathed
 disconcerted
 diffracting
 deschool
@@ -13631,7 +13632,6 @@ dissevered
 dissevering
 disseverment
 disshadow
-dissheathed
 daddums
 disship
 disshiver
