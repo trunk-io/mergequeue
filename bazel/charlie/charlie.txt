@@ -683,6 +683,7 @@ caff
 caffeic
 caffeina
 caffeines
+cars
 caffeinic
 caffeins
 caffeism
@@ -4901,7 +4902,6 @@ carrousels
 carageen
 compiles
 carrs
-cars
 carse
 carses
 corial
