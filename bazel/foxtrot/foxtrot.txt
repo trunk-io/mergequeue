@@ -4913,6 +4913,7 @@ flameproofer
 flamer
 flamers
 fluviomarine
+frogs
 fallback
 flamethrowers
 frankpledge
@@ -10328,7 +10329,6 @@ fleshly
 forepart
 ferngrower
 fingian
-frogs
 frogwort
 filtrate
 fermentor
