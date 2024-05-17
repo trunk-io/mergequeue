@@ -8055,7 +8055,6 @@ bibliopolical
 bibliopolically
 bibliopolist
 bestowable
-befall
 bibliosoph
 bibliotaphe
 bibliothecae
@@ -13167,6 +13166,7 @@ boschveld
 bronzesmith
 boulevardize
 bowet
+befall
 bose
 bosey
 boselaphus
