@@ -255,7 +255,6 @@ garotte
 gainer
 geologizing
 gainful
-gym
 ghostlike
 gipsire
 gibs
@@ -1522,6 +1521,7 @@ gutturine
 guano
 gn
 garrotte
+gym
 garrotted
 garrulinae
 ghouls
