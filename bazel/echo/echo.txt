@@ -2791,7 +2791,6 @@ elenge
 encl
 emitter
 electrometallurgical
-eleoblast
 eleolite
 eleomargaric
 eleonorite
@@ -5104,6 +5103,7 @@ endoergic
 endoesophagitis
 elephants
 endofaradism
+eleoblast
 endogamic
 economists
 endogastritis

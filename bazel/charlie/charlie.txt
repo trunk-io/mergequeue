@@ -2198,7 +2198,6 @@ camshaft
 camshafts
 camstane
 caval
-comer
 camsteary
 camstone
 camstrary
@@ -27903,6 +27902,7 @@ crablet
 crablike
 chromidial
 crabman
+comer
 crabmill
 crabs
 crabstick
