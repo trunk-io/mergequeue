@@ -726,7 +726,6 @@ abounding
 abounds
 about
 abouts
-antefuture
 above
 abovedeck
 aboveground
@@ -13996,6 +13995,7 @@ antae
 antaean
 antaeus
 alvelos
+antefuture
 advantaging
 airman
 antagony
