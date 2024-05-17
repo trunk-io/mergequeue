@@ -2172,7 +2172,6 @@ backup
 brecken
 blahlaut
 baptisia
-baptisias
 baptisin
 bitulithic
 boneen
@@ -5699,6 +5698,7 @@ brunet
 belar
 baggages
 belard
+baptisias
 belash
 belat
 bindweeds
