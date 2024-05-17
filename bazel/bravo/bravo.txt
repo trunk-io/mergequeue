@@ -3455,6 +3455,7 @@ bastille
 bastilles
 biggah
 bastiment
+basicytoparaplastin
 bastinaded
 baroi
 burbots
@@ -15326,7 +15327,6 @@ brigatry
 brigetty
 beliquoring
 brevete
-basicytoparaplastin
 blackfish
 benzylidene
 brighid
