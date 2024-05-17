@@ -680,7 +680,6 @@ bacteriotoxin
 boracic
 bacteriotrypsin
 bynames
-bungles
 bacteriotropic
 bubonoceze
 blepharedema
@@ -9535,6 +9534,7 @@ byrlady
 baptisteries
 byrlawman
 birle
+bungles
 birler
 birles
 bronchodilatation
