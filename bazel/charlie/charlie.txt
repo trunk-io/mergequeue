@@ -1336,7 +1336,6 @@ caliculate
 calyculate
 calyculated
 calycule
-coercing
 caliculi
 calyculus
 counterband
@@ -28131,6 +28130,7 @@ cranet
 craneway
 conniption
 chorologist
+coercing
 crany
 convincible
 crania
