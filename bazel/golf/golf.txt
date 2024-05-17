@@ -5809,7 +5809,6 @@ glossy
 goniatitoid
 glossier
 goitered
-glossies
 glew
 grey
 glossiest
@@ -6127,6 +6126,7 @@ geometry
 gutterman
 gravitation
 gnabble
+glossies
 graspers
 gouging
 gibberose
