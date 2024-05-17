@@ -2618,7 +2618,6 @@ electrosherardizing
 electroshock
 electroshocks
 equiangularity
-elucidative
 envenoms
 electrosmosis
 electrostatic
@@ -6191,6 +6190,7 @@ exonship
 ecorticate
 enplaned
 extraphysiological
+elucidative
 enquarter
 enqueue
 entered
