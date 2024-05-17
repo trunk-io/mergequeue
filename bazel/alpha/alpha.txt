@@ -9352,7 +9352,6 @@ alphabetized
 alphabetizer
 alphabetizers
 acroblast
-adamancies
 alphabetizing
 anguishful
 aptera
@@ -13407,6 +13406,7 @@ ankerite
 ankerites
 ankh
 ankylenteron
+adamancies
 ankylocheilia
 ankylodactylia
 acoin

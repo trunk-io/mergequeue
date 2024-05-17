@@ -1979,7 +1979,6 @@ camisoles
 camister
 camize
 cosmolabe
-camla
 camlet
 camletine
 cabezones
@@ -30048,6 +30047,7 @@ columbo
 chilomata
 carnivores
 crowdedly
+camla
 circumambiencies
 chordoid
 crowder
