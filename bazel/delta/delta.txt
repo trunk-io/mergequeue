@@ -4342,7 +4342,6 @@ deltohedron
 dittied
 dauerlauf
 deltoideus
-deltoids
 delubra
 delubrubra
 deluce
@@ -9647,6 +9646,7 @@ dalasis
 dolcissimo
 delative
 diverting
+deltoids
 diiodide
 diiodoform
 diipenates
