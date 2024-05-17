@@ -4132,7 +4132,6 @@ administrators
 administratrices
 administratrix
 adminstration
-admirable
 admirably
 admiral
 admirals
@@ -17950,6 +17949,7 @@ appraiser
 amelioratively
 appraises
 appraising
+admirable
 abacate
 anabranch
 appraisive
