@@ -4705,7 +4705,6 @@ demiplate
 demipomada
 demipremise
 demipronation
-damned
 dibber
 diazid
 drabbest
@@ -14151,6 +14150,7 @@ disusance
 disuse
 disbarments
 disbranching
+damned
 disused
 dissentiently
 disuses
