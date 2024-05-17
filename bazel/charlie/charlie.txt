@@ -7394,6 +7394,7 @@ cephalitis
 cephalization
 cephaloauricular
 cephalobranchiata
+corseque
 cephalocathartic
 chelicera
 carks
@@ -25923,7 +25924,6 @@ contradicting
 collatable
 corseleting
 corselets
-corseque
 constrains
 contralti
 carraran
