@@ -4872,6 +4872,7 @@ aepyornithidae
 aepyornithiformes
 aggrieves
 aeq
+abduction
 abaris
 aequi
 arariba
@@ -11670,7 +11671,6 @@ atlantes
 agamae
 alban
 anagallis
-abduction
 amigo
 anagap
 apnoeic
