@@ -501,7 +501,6 @@ andes
 abl
 ablach
 arabizes
-ablactated
 aerides
 ablastin
 ablastous
@@ -9549,6 +9548,7 @@ altisonous
 altissimo
 altitonant
 altitude
+ablactated
 amplifiers
 altitudinarian
 antiriot
