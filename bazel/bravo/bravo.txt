@@ -7077,7 +7077,6 @@ beshriek
 beshrivel
 beshroud
 borlase
-beside
 besides
 besiege
 besiegement
@@ -11413,6 +11412,7 @@ bluecoat
 bluecoated
 bluecoats
 berycoidei
+beside
 boathouses
 bluecurls
 blued
