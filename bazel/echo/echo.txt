@@ -5455,7 +5455,6 @@ energize
 exploiters
 enharmonically
 energizers
-energizes
 ecclesiology
 energumenon
 environ
@@ -13275,6 +13274,7 @@ ectepicondylar
 eucairite
 explorer
 ethicalities
+energizes
 euphrasy
 eclipsareon
 exploringly
