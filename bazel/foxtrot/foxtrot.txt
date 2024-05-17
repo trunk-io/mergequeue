@@ -6116,7 +6116,6 @@ frondeur
 foregoes
 forgift
 flotative
-frangula
 fustin
 forjesket
 fishmeal
@@ -9434,6 +9433,7 @@ frails
 franklinic
 fisheater
 fraser
+frangula
 franklinization
 franklins
 frankmarriage
