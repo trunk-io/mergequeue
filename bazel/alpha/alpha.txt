@@ -19817,6 +19817,7 @@ arith
 ambatch
 arithmancy
 arithmetic
+adpao
 arithmetically
 anfeeld
 autophthalmoscope
@@ -19933,7 +19934,6 @@ armguard
 asidehand
 armhole
 armhoop
-adpao
 adeptest
 army
 armida
