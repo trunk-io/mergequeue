@@ -9134,7 +9134,6 @@ glom
 geochronic
 griqualander
 grisailles
-grysbok
 goldenly
 garrison
 grise
@@ -9907,6 +9906,7 @@ geosynclinal
 guardeen
 ghatwal
 guardhouses
+grysbok
 glozer
 guardiancy
 gasconism
