@@ -2885,7 +2885,6 @@ cantatory
 cantatrice
 cantatrices
 chestily
-cantatrici
 cantboard
 chorioids
 cantdog
@@ -12393,6 +12392,7 @@ chromatical
 chromatically
 carcinogen
 chromatician
+cantatrici
 constructionally
 chromaticness
 chromatid
