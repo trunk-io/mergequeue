@@ -6009,6 +6009,7 @@ floppies
 fluvial
 ferbam
 fumigation
+fulmen
 flopwing
 flora
 floral
@@ -7593,7 +7594,6 @@ fishify
 freeholding
 forelegs
 flees
-fulmen
 farmhands
 furuncles
 fanal

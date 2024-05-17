@@ -5204,7 +5204,6 @@ guider
 gunpaper
 glassworker
 glassworm
-gushed
 glasswort
 gnomish
 gees
@@ -6233,6 +6232,7 @@ goaded
 greit
 gumshoed
 greatly
+gushed
 gyre
 gastrostomus
 genealogize
