@@ -2545,7 +2545,6 @@ counterdisengage
 cyamelide
 castile
 caned
-canela
 canelas
 canella
 canellaceous
@@ -6708,6 +6707,7 @@ celadonite
 celaeno
 celandines
 celastraceae
+canela
 cerograph
 colorfast
 celastraceous
