@@ -2142,7 +2142,6 @@ facture
 fireshine
 finetop
 fellable
-fanned
 fellah
 falcate
 fessely
@@ -3502,6 +3501,7 @@ fury
 figulated
 finnic
 figuline
+fanned
 figulines
 figurable
 fixture
