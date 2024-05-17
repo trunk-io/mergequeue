@@ -7250,7 +7250,6 @@ footraces
 fb
 forestery
 footrest
-footrope
 footropes
 fremescent
 fiorded
@@ -10638,6 +10637,7 @@ foredivine
 fructifying
 frontpiece
 furfurals
+footrope
 fructiform
 freudism
 freespac
