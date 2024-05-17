@@ -4498,7 +4498,6 @@ encephalasthenia
 exurbias
 encyclical
 encephalic
-encephalin
 encephalitic
 endostyle
 exocolitis
@@ -9501,6 +9500,7 @@ ephedrine
 esterase
 escapeful
 equisized
+encephalin
 escapeless
 enflagellation
 escapement
