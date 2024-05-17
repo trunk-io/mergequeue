@@ -1641,7 +1641,6 @@ granulomata
 gemmeous
 gaspereau
 graphics
-graphitized
 guises
 glutei
 gibe
@@ -8909,6 +8908,7 @@ griece
 gull
 griecep
 gnathion
+graphitized
 giveaway
 grieffully
 grudges
