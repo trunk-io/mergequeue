@@ -3600,7 +3600,6 @@ filemot
 flenches
 filename
 footgrip
-fixates
 fanons
 forspoken
 fourniture
@@ -5164,6 +5163,7 @@ fraternizes
 fellagha
 featurally
 fistulization
+fixates
 founce
 flapperish
 flics
