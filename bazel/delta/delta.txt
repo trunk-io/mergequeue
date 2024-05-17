@@ -12612,6 +12612,7 @@ disanoint
 disjasket
 disjaskit
 disject
+damage
 disjected
 discapacitate
 disjoin
@@ -14162,7 +14163,6 @@ dramatists
 doses
 disvantage
 dicer
-damage
 disvisage
 disvisor
 dynamoelectric
