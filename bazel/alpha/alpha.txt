@@ -11303,7 +11303,6 @@ anthyllis
 amphodelite
 amphogeny
 ampholyte
-ampholytic
 abaff
 amphophilic
 amphora
@@ -17063,6 +17062,7 @@ aplacophora
 aplacophoran
 aplacophorous
 argumentatious
+ampholytic
 aftertan
 asteroidean
 affectedness
