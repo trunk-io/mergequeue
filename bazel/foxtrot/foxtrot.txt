@@ -1238,6 +1238,7 @@ flibbertigibbet
 frighter
 foochowese
 fourgons
+felon
 fascist
 friths
 fascista
@@ -5494,7 +5495,6 @@ fenagling
 fram
 flyable
 fascicle
-felon
 fratriage
 flyback
 foreflank
