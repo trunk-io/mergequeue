@@ -2989,7 +2989,6 @@ flyoff
 feuillants
 feuilleton
 feuilletons
-fleches
 flapcake
 feulamort
 facier
@@ -4930,6 +4929,7 @@ flamingant
 flamingos
 flong
 feldsher
+fleches
 fantaseid
 flaminical
 fintadores
