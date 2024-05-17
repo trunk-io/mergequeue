@@ -3112,6 +3112,7 @@ fibred
 fibrefill
 fibreless
 fibril
+foller
 fleshquake
 furunculus
 fairily
@@ -8800,7 +8801,6 @@ frustula
 fosite
 flunks
 frolicly
-foller
 fossage
 fole
 flaxes
