@@ -13195,7 +13195,6 @@ animant
 animas
 animastic
 animastical
-autoimmune
 animated
 animatedly
 actionable
@@ -22385,6 +22384,7 @@ astroscopus
 astrose
 astrospectral
 adversion
+autoimmune
 astrospectroscopic
 astrotheology
 astrut
