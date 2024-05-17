@@ -3983,7 +3983,6 @@ carceration
 crotalinae
 carcerist
 carcharhinus
-carcharias
 cerotene
 carchariid
 carchariidae
@@ -18947,6 +18946,7 @@ collateralizing
 collaterally
 collateralness
 collaterals
+carcharias
 canzone
 collates
 collation
