@@ -1765,7 +1765,6 @@ floats
 farthingale
 filicin
 flashflood
-feasters
 feastful
 feastfully
 feastly
@@ -7514,6 +7513,7 @@ feathering
 fackins
 falconine
 flocked
+feasters
 forebitt
 flaucht
 forebitten
