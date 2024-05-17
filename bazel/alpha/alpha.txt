@@ -4579,6 +4579,7 @@ advective
 advects
 advena
 adventist
+aura
 asperness
 airbrushed
 ascended
@@ -23526,7 +23527,6 @@ antistrophal
 auntrous
 aunts
 auntsary
-aura
 arsines
 aurae
 aural
