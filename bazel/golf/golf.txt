@@ -680,6 +680,7 @@ gallon
 gallonage
 gasolinic
 goffered
+galileo
 ganodonta
 girling
 galloot
@@ -1622,7 +1623,6 @@ gasoliner
 gasometry
 gastrodisc
 garlandlike
-galileo
 giraffesque
 gasometric
 grype
