@@ -9220,6 +9220,7 @@ bioscope
 befits
 boylikeness
 bioscopy
+bacterium
 bioscopic
 bioscopies
 biosensor
@@ -13834,7 +13835,6 @@ bialveolar
 barleybird
 bowess
 bowfin
-bacterium
 bang
 bast
 bowheads
