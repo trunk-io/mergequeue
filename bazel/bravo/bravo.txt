@@ -8975,7 +8975,6 @@ binucleolate
 binukau
 bathypelagic
 bioaccumulation
-bioactivities
 bioassaying
 bioastronautical
 bioastronautics
@@ -14795,6 +14794,7 @@ bronchopulmonary
 bacteria
 breadless
 breadline
+bioactivities
 bismuths
 breadmaker
 breadmaking
