@@ -3099,6 +3099,7 @@ chequerboard
 capeadores
 caped
 capel
+choanoflagellidae
 capelan
 capelans
 capelet
@@ -11474,7 +11475,6 @@ choanocyte
 choanoflagellate
 choanoflagellida
 cryptanalytical
-choanoflagellidae
 choanoid
 choanophorous
 cataplasm
