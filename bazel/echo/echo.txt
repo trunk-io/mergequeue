@@ -7931,6 +7931,7 @@ euphemistic
 enquires
 excommunicating
 excipula
+exfiltration
 eclampsia
 erogeneity
 enneastylar
@@ -13262,7 +13263,6 @@ exploiture
 explorable
 exploratively
 enragedly
-exfiltration
 explorement
 ectrogeny
 enzyme
