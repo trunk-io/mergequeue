@@ -41,6 +41,7 @@ flamberge
 fabricators
 fabricature
 filters
+fallway
 futurities
 fuddledness
 fabronia
@@ -582,7 +583,6 @@ fleshpots
 foulmouthedly
 flippancies
 falltime
-fallway
 fuzzy
 falsary
 falsehearted
