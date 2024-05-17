@@ -1738,7 +1738,6 @@ fearnought
 foreordaining
 ficche
 fath
-fearsomeness
 fixgig
 feased
 forprise
@@ -4885,6 +4884,7 @@ flamboyer
 fergusite
 fill
 flameless
+fearsomeness
 flitch
 forwards
 fchar
