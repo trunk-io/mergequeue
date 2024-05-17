@@ -8877,7 +8877,6 @@ chapelry
 chapelries
 chapels
 chapelward
-compile
 chaperno
 chaperon
 custodia
@@ -31149,6 +31148,7 @@ cupressaceae
 crowstep
 cupressineous
 cupressinoxylon
+compile
 cupressus
 crenelate
 cupriferous
