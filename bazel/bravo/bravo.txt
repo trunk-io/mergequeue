@@ -5037,7 +5037,6 @@ beerpull
 beers
 beest
 beestings
-bonytail
 beeswax
 beeswaxes
 bothriums
@@ -13591,6 +13590,7 @@ bemuddle
 burntly
 bombaster
 backwashed
+bonytail
 buckstall
 bounceback
 bounced
