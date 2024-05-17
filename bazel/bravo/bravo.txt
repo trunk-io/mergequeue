@@ -11629,7 +11629,6 @@ boatage
 bacterioscopical
 barspoon
 byres
-brutality
 boatbuilding
 boatel
 boatheader
@@ -17942,6 +17941,7 @@ bushelled
 biotechnology
 bookplate
 bushelling
+brutality
 bushelman
 bushelmen
 bailies

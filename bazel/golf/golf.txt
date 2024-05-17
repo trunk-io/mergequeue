@@ -593,7 +593,6 @@ gyropigeon
 galliardise
 goldflower
 galut
-geohydrology
 gynaecocoenic
 gambet
 graptolitic
@@ -5929,6 +5928,7 @@ glist
 glowering
 glowfly
 gastropneumatic
+geohydrology
 glowingly
 glows
 gorgeable
