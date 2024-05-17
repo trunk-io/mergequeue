@@ -9945,6 +9945,7 @@ chemoreflex
 chemoresistance
 chemosensitive
 chemosensitivities
+cyclohexadienyl
 chemoserotherapy
 chemoses
 chemosynthesis
@@ -13356,7 +13357,6 @@ cyclograph
 cyclographer
 cycloheptane
 carbonylate
-cyclohexadienyl
 cashoos
 cyclohexanol
 cyclohexanone
