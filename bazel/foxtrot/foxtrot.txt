@@ -7228,7 +7228,6 @@ fifer
 fiver
 footpad
 footpath
-footpaths
 forewarner
 fatidic
 fetial
@@ -9903,6 +9902,7 @@ fatals
 fretish
 farrows
 fermiums
+footpaths
 feldspathic
 fuds
 fricandel
