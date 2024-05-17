@@ -10054,7 +10054,6 @@ ambiverts
 arrect
 amble
 ambleocarpus
-ambler
 amblers
 awakes
 ambles
@@ -13865,6 +13864,7 @@ anorectous
 anoretic
 asparagine
 anorexy
+ambler
 alloxyproteic
 anorexic
 affing
