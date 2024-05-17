@@ -4797,6 +4797,7 @@ flags
 flagship
 firepower
 furler
+foundress
 formative
 fainer
 floribunda
@@ -8942,7 +8943,6 @@ forget
 finochios
 foundlings
 forecourt
-foundress
 flashet
 foundryman
 freehold
