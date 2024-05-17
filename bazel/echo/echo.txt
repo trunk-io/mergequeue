@@ -2444,7 +2444,6 @@ endexines
 electromyographically
 electroimpulse
 electroindustrial
-electroing
 eductions
 electrokinetic
 enkolpion
@@ -12026,6 +12025,7 @@ excitabilities
 electrocauteries
 enlist
 emmeleia
+electroing
 excitant
 exenteritis
 epistemophilic
