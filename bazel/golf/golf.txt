@@ -664,7 +664,6 @@ glycosine
 glide
 gallize
 gallnut
-grizzled
 gallnuts
 ginney
 gradatory
@@ -5229,6 +5228,7 @@ glaucodot
 glaucodote
 glycoside
 gregarinous
+grizzled
 goldcup
 glauconia
 glauconiidae

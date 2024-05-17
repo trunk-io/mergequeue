@@ -13210,7 +13210,6 @@ explicableness
 explicably
 expensive
 explicanda
-explicate
 eaglewood
 enterokinesia
 exult
@@ -13730,6 +13729,7 @@ extinguished
 extinguisher
 extinguishers
 emargination
+explicate
 epitomate
 extipulate
 eosinophil
