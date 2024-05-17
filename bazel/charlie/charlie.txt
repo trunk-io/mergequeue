@@ -6735,7 +6735,6 @@ celebrative
 celebre
 celebret
 celebrious
-celebrity
 celebs
 celemin
 celemines
@@ -16260,6 +16259,7 @@ clinkering
 clinking
 clinks
 cytotoxicity
+celebrity
 clinkum
 chilblains
 clinocephaly
