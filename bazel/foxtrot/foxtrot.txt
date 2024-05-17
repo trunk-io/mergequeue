@@ -8285,7 +8285,6 @@ forhaile
 foreroyal
 faroese
 forhooy
-farthingless
 fraughan
 forhooie
 forhow
@@ -10517,6 +10516,7 @@ fibroin
 forcite
 frostbitten
 frostbow
+farthingless
 filibranchiate
 focalization
 frostfish
