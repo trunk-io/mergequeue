@@ -2046,7 +2046,6 @@ decahydrate
 decahydronaphthalene
 daiquiris
 dealates
-decay
 decayable
 delousing
 decayed
@@ -2296,6 +2295,7 @@ decemvii
 decemvir
 disincorporation
 decemviral
+decay
 decemviri
 depside
 decemvirship
