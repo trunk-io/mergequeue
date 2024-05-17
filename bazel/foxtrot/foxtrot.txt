@@ -1698,7 +1698,6 @@ faults
 frugivora
 feak
 federate
-feal
 fealty
 fumigates
 fluorinate
@@ -7806,6 +7805,7 @@ filthier
 foremisgiving
 foremost
 foremostly
+feal
 foremother
 fusillade
 forename

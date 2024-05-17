@@ -539,7 +539,6 @@ echinococcus
 echinoderidae
 echinoderma
 endive
-exopterygotous
 echinodermal
 erythroderma
 enclitically
@@ -5157,6 +5156,7 @@ endonucleolus
 evocatively
 equinely
 endoparasitica
+exopterygotous
 endfile
 exhilaration
 endoparasitism
