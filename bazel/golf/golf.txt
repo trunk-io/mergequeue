@@ -1683,7 +1683,6 @@ glottic
 gasteromycetous
 glottis
 gasteropoda
-gordolobo
 gummy
 gallons
 gastight
@@ -7438,6 +7437,7 @@ gloms
 gout
 gire
 guller
+gordolobo
 gelate
 grigs
 generatrix
