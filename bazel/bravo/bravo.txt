@@ -15976,7 +15976,6 @@ bronchorrhaphy
 bahts
 bronchorrhea
 bronchos
-bronchoscope
 bronchoscopy
 bronchoscopic
 barr
@@ -16517,6 +16516,7 @@ bots
 buat
 brocho
 buaze
+bronchoscope
 bor
 bromocyanidation
 bubales
