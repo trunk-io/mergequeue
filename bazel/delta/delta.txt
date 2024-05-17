@@ -2648,7 +2648,6 @@ decollete
 decollimate
 discontinues
 decolonising
-decolonization
 didascaly
 decolonize
 decolonizes
@@ -6344,6 +6343,7 @@ dermatoplast
 diapositive
 dermatoplastic
 deluminize
+decolonization
 debatter
 desolative
 direst
