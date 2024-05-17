@@ -9444,6 +9444,7 @@ altared
 allodies
 altarpieces
 altars
+amytal
 armbone
 altarwise
 altazimuth
@@ -20939,7 +20940,6 @@ ascariasis
 ascaricidal
 aerodynamicist
 ascarid
-amytal
 ascaridae
 ascarides
 altaic
