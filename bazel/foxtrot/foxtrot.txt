@@ -7798,6 +7798,7 @@ foremind
 fondouk
 fineries
 finestill
+flammable
 funfairs
 firetraps
 fountaining
@@ -9979,7 +9980,6 @@ frickle
 frontager
 frozenly
 feverless
-flammable
 filibusters
 frictionless
 frictionproof
