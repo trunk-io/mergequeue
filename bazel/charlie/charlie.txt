@@ -3706,7 +3706,6 @@ caravaneer
 cosmogonize
 chemics
 caravaner
-caravanned
 chetty
 caravanner
 caravans
@@ -31707,6 +31706,7 @@ custard
 carian
 custerite
 custodee
+caravanned
 custodes
 cumidin
 custodian
