@@ -9046,6 +9046,7 @@ dicrotous
 dicruridae
 descaling
 dict
+diacritics
 dicta
 dehort
 dictaen
@@ -16177,7 +16178,6 @@ doves
 desireless
 dovetailer
 dovetails
-diacritics
 dovetailwise
 dulciana
 doveweed

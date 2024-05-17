@@ -4881,7 +4881,6 @@ globefishes
 gomeral
 goaltending
 gyve
-giveable
 gederite
 gunbright
 gandhism
@@ -6591,6 +6590,7 @@ gossypium
 grecomaniac
 giantish
 golfers
+giveable
 gie
 golfings
 galleypot
