@@ -7304,7 +7304,6 @@ centronucleus
 centroplasm
 centropomidae
 clarified
-centrosymmetric
 countians
 centrosymmetrical
 centrosoyus
@@ -31103,6 +31102,7 @@ cytologists
 cupeling
 clinometria
 cupeller
+centrosymmetric
 conscripts
 cupellers
 cupelling
