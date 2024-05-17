@@ -1026,7 +1026,6 @@ baybolt
 baycuru
 baidarka
 baidarkas
-baidya
 blueish
 boltmaking
 baiera
@@ -3181,6 +3180,7 @@ benzins
 baltis
 booklores
 bukat
+baidya
 bolis
 basics
 blastozooid
