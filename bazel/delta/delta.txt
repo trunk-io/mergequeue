@@ -10791,7 +10791,6 @@ dircaean
 dirdums
 dire
 direcly
-directable
 directdiscourse
 directed
 diastereoisomeric
@@ -15009,6 +15008,7 @@ doggies
 demoiselle
 doggish
 deads
+directable
 doggishness
 doggle
 doggo
