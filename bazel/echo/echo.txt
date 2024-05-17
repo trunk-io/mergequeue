@@ -3865,7 +3865,6 @@ electrotonus
 emilia
 eminences
 extraboldface
-eminencies
 eminent
 ensporia
 eminently
@@ -6678,6 +6677,7 @@ enterovirus
 evenmindedness
 equestrianize
 explorers
+eminencies
 excerptible
 eely
 ensemble
