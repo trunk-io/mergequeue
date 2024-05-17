@@ -3951,7 +3951,6 @@ bazookas
 bazzite
 bamboos
 bbs
-bcd
 burn
 balaniferous
 birdweed
@@ -12848,6 +12847,7 @@ buckplate
 boltuprightness
 boons
 boophilus
+bcd
 boopis
 boor
 boorga
