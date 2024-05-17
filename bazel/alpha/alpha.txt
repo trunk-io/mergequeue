@@ -15973,7 +15973,6 @@ antipriest
 antipriestcraft
 androkinin
 antipriesthood
-antiprime
 antiprimer
 antiprinciple
 anureses
@@ -24268,6 +24267,7 @@ ablegates
 allodiaries
 autopelagic
 abulomania
+antiprime
 autopepsia
 astrophysical
 autophagous
