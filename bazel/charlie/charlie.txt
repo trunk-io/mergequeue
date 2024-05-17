@@ -1520,7 +1520,6 @@ callistephus
 callisthenic
 cric
 cenotaphic
-chemostat
 callisto
 callithrix
 callithump
@@ -21508,6 +21507,7 @@ cankerworm
 concordantly
 concordat
 concordatory
+chemostat
 concordatum
 concorder
 concordist
