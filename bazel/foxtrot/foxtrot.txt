@@ -1496,7 +1496,6 @@ fatuus
 fairtime
 faubourg
 fantasie
-faubourgs
 faucals
 fractionary
 filmable
@@ -4065,6 +4064,7 @@ funorin
 frondescing
 finmarks
 finnac
+faubourgs
 finnan
 finned
 finner
