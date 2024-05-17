@@ -459,7 +459,6 @@ ecclesiarch
 ecclesiarchy
 ecclesiast
 expostulated
-empasm
 ecclesiastically
 envelopers
 ethnobiology
@@ -1612,6 +1611,7 @@ egol
 egomania
 extrinsicate
 egomaniacal
+empasm
 empiricist
 egomaniacally
 egomism
