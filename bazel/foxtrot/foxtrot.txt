@@ -6919,7 +6919,6 @@ feudovassalism
 fringier
 forespeaker
 foreignization
-folkmoots
 fauchard
 firetower
 faujasite
@@ -10777,6 +10776,7 @@ fecche
 frustrated
 frustrates
 fellies
+folkmoots
 foldboat
 forcedly
 frustrating
