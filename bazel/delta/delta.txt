@@ -10571,7 +10571,6 @@ defiled
 diplococcus
 diplocoria
 diplodia
-diplodocus
 dopant
 diplodus
 diploe
@@ -14260,6 +14259,7 @@ dittander
 dittanies
 ditted
 ditty
+diplodocus
 decardinalize
 decrial
 dittying
