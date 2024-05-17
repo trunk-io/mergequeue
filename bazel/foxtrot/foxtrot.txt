@@ -2688,7 +2688,6 @@ framesmith
 fincas
 flintiness
 freeloving
-ferrugo
 flusters
 foreshoulder
 ferrule
@@ -10010,6 +10009,7 @@ friendlier
 forepeaks
 friendlike
 friendliwise
+ferrugo
 fevercup
 fuse
 fenestrone
