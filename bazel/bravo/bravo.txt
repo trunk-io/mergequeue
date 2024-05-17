@@ -13931,7 +13931,6 @@ boxmaker
 bicycloheptane
 boxman
 boxroom
-boxthorn
 backstage
 bedlamic
 borghese
@@ -17632,6 +17631,7 @@ brightwork
 brushball
 baptist
 burgeon
+boxthorn
 burgeoning
 bonnive
 burgeons
