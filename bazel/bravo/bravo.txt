@@ -4173,7 +4173,6 @@ boomlet
 bicompact
 beard
 bankrupts
-bodysurfs
 beggars
 bowmaking
 bro
@@ -15315,6 +15314,7 @@ brigadier
 bitripartite
 bequote
 brigalow
+bodysurfs
 brachypterous
 brigandine
 brigandish
