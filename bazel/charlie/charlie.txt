@@ -10401,6 +10401,7 @@ chronaxy
 chicqued
 chicquer
 chicquest
+clanging
 cooperite
 chicquing
 chics
@@ -15422,7 +15423,6 @@ clanfellow
 clang
 clanged
 clangful
-clanging
 clangingly
 clangor
 corticoefferent
