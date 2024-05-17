@@ -3520,6 +3520,7 @@ disyllable
 defoggers
 deluder
 defogging
+duckpins
 defogs
 defoil
 dawish
@@ -11253,7 +11254,6 @@ disbursal
 disbursals
 disburse
 disbursements
-duckpins
 dryads
 decolorimeter
 divinistre
