@@ -18387,6 +18387,7 @@ arabite
 arabitol
 arabized
 anacatharsis
+artifacts
 artisanal
 attempting
 arable
@@ -20726,7 +20727,6 @@ artifact
 acquitment
 affrighter
 artifactitious
-artifacts
 artifactual
 artifactually
 artifex
