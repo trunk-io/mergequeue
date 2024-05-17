@@ -2652,7 +2652,6 @@ didascaly
 decolonize
 decolonizes
 desalter
-decoloring
 decolorisation
 decolorising
 dispose
@@ -4520,6 +4519,7 @@ dementedness
 dementholize
 demiatheism
 dementia
+decoloring
 decator
 dictionally
 disangelical
