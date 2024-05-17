@@ -6091,6 +6091,7 @@ coll
 catso
 catsos
 catspaw
+coggly
 catspaws
 catstane
 catstep
@@ -18316,7 +18317,6 @@ coggledy
 cogitate
 combed
 cogglety
-coggly
 coghle
 crabbish
 cogida
