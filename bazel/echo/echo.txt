@@ -2359,6 +2359,7 @@ enjeopard
 electrodentistry
 electrification
 electrodeposition
+evince
 escalation
 electrodes
 electrodiagnosis
@@ -11579,7 +11580,6 @@ evilspeaker
 evilspeaking
 evilwishing
 eunuchize
-evince
 evincement
 endlessly
 evincible
