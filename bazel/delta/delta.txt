@@ -7232,7 +7232,6 @@ detainee
 detainees
 detainers
 detaining
-decolourise
 durwaun
 detainingly
 detainment
@@ -16082,6 +16081,7 @@ downswing
 dipode
 dilacerate
 dough
+decolourise
 doughbelly
 doughbellies
 doughbird
