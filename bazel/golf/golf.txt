@@ -6509,7 +6509,6 @@ golaseccan
 glassman
 gallstones
 gobiesocid
-geostrophic
 golconda
 golcondas
 goldang
@@ -9373,6 +9372,7 @@ genesis
 grothine
 giornata
 goldenrods
+geostrophic
 greenleaf
 grothite
 goldfinnies
