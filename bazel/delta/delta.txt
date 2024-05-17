@@ -2971,7 +2971,6 @@ dedenda
 duodecimomos
 dedicant
 dedicated
-dedicatee
 dichotic
 downbeat
 dedicating
@@ -5436,6 +5435,7 @@ dheneb
 dentiroster
 duotype
 dentirostral
+dedicatee
 dentist
 demonisms
 dribbler
