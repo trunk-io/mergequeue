@@ -5375,6 +5375,7 @@ casterless
 cinemograph
 casters
 castes
+cuttages
 casteth
 castice
 castigable
@@ -31849,7 +31850,6 @@ cyclothyme
 chaffiest
 cochliodont
 cuttage
-cuttages
 crowfooted
 cuttail
 cutted
