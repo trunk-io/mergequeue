@@ -1272,7 +1272,6 @@ emigrations
 encircler
 eerisome
 elaeoblast
-ergoplasm
 enduros
 epyllia
 eesome
@@ -12731,6 +12730,7 @@ etoffe
 exoneural
 electrowin
 ergastoplasmic
+ergoplasm
 exonian
 entrapping
 eudiometer
