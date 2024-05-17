@@ -3780,6 +3780,7 @@ battler
 battles
 battleship
 battleships
+blindfast
 buhr
 battlesome
 brahmany
@@ -10928,7 +10929,6 @@ blinder
 behovely
 blinders
 blindest
-blindfast
 blindfish
 blindfishes
 bluelegs
