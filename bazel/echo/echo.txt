@@ -6190,7 +6190,6 @@ enquarter
 enqueue
 entered
 enqueued
-enqueues
 enticeable
 enquicken
 exor
@@ -10205,6 +10204,7 @@ ethanolysis
 entia
 epipolize
 ethel
+enqueues
 emotionalizing
 eucti
 ethenes
