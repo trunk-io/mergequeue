@@ -5577,7 +5577,6 @@ enforcively
 exfoliate
 enforest
 enfork
-epacme
 enform
 elapinae
 enfort
@@ -10121,6 +10120,7 @@ ever
 endamnify
 etyma
 etamins
+epacme
 etang
 etape
 escopette
