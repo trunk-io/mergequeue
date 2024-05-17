@@ -12516,6 +12516,7 @@ anemometrical
 avoided
 anemometrically
 asculae
+automatically
 attenuated
 anemometrograph
 anemometrographically
@@ -24200,7 +24201,6 @@ automated
 automates
 aphetism
 automatic
-automatically
 automaticity
 automatin
 autunite
