@@ -5797,7 +5797,6 @@ believer
 believers
 believes
 blankite
-brooms
 believeth
 budge
 believingly
@@ -7428,6 +7427,7 @@ bottier
 birde
 betatron
 betatrons
+brooms
 betattered
 beclothing
 buccolingual
