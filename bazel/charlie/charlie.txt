@@ -1018,7 +1018,6 @@ calcaire
 calcanea
 chimpanzee
 calcanean
-castro
 calcaneoastragalar
 calcaneoastragaloid
 calcaneoplantar
@@ -9614,6 +9613,7 @@ checksum
 construct
 checksummed
 checksumming
+castro
 checkups
 capacitively
 checkweighman
