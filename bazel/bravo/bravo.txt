@@ -370,7 +370,6 @@ backhands
 bovarist
 backhaul
 backhauls
-bossy
 backhoe
 backhoes
 boobies
@@ -11972,6 +11971,7 @@ binodal
 bogomil
 bogomilian
 bogong
+bossy
 bogota
 bogotana
 bogs
