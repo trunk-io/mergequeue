@@ -2075,6 +2075,7 @@ feinting
 feis
 fatigueless
 flatlander
+felicitators
 ferberite
 fogbows
 frauder
@@ -10427,7 +10428,6 @@ farmyards
 fictor
 forgivableness
 filigerous
-felicitators
 fraternise
 fontes
 flusterment
