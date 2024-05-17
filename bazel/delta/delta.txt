@@ -1751,6 +1751,7 @@ deaths
 deathsman
 depaysee
 deathtime
+diplumbic
 deathtrap
 downtimes
 deathtraps
@@ -10678,7 +10679,6 @@ diplostichous
 diplotaxis
 diplotegia
 diplozoon
-diplumbic
 decerebrating
 dipmeter
 dogman

@@ -13056,7 +13056,6 @@ borers
 bowlmaker
 bedusk
 bores
-belfry
 boresight
 bobwhite
 beblubber
@@ -17883,6 +17882,7 @@ berkowitz
 bursiculate
 bursitis
 bestialise
+belfry
 bedlamp
 berths
 booze
