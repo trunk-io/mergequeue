@@ -1953,7 +1953,6 @@ acetacetic
 acetaldehyde
 acetaldehydrase
 acetalize
-acetals
 amphioxididae
 acetamid
 acetamidin
@@ -5065,6 +5064,7 @@ amazona
 aeronautical
 antihistamines
 aeronautically
+acetals
 aeronomer
 amyliferous
 aeronomy
