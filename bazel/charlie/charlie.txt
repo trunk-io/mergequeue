@@ -4119,7 +4119,6 @@ cardinalship
 cardings
 crocky
 cardioarterial
-cardiocarpum
 cardiocele
 cardiocirrhosis
 cardioclasia
@@ -14303,6 +14302,7 @@ catchall
 carpellum
 cyclotella
 circumbulbar
+cardiocarpum
 circumcallosal
 cuckoos
 circumcellion
