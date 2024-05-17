@@ -5195,7 +5195,6 @@ fielder
 flavicant
 flanconnade
 flavid
-fermate
 frogfishes
 frigorify
 fireproof
@@ -11705,6 +11704,7 @@ frenetic
 forefaces
 filmmaker
 friarhood
+fermate
 feasts
 far
 foretellableness
