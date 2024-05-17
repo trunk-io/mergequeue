@@ -5969,7 +5969,6 @@ bidactyle
 bellote
 bellovaci
 bigheartedly
-bellowers
 bellows
 beefs
 bacillemia
@@ -12731,6 +12730,7 @@ begarie
 bookmarker
 bookmarks
 bimorph
+bellowers
 bookmobile
 bookmobiles
 baroni
