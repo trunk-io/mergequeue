@@ -1564,6 +1564,7 @@ ballgame
 ballgames
 ballgowns
 ballhawks
+bierkeller
 ballhooter
 balli
 balliage
@@ -8329,7 +8330,6 @@ byepath
 bier
 broid
 byerite
-bierkeller
 byerlite
 backspliced
 bierstuben
