@@ -2352,6 +2352,7 @@ diethylstilbestrol
 downwash
 deceptive
 deceptively
+dorsomedian
 deceptiveness
 deceptory
 deafnesses
@@ -15829,7 +15830,6 @@ destinations
 draft
 dankly
 dorsomedial
-dorsomedian
 dorsonasal
 diastaltic
 dorsonuchal
