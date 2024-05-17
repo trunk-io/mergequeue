@@ -11742,6 +11742,7 @@ autonomies
 anchietea
 analcimite
 analcitite
+adjustive
 analecta
 analemma
 analemmas
@@ -23671,7 +23672,6 @@ anisuria
 aurums
 aggrandized
 aurung
-adjustive
 auscultascope
 autoregenerator
 auscultate
