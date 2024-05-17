@@ -4833,7 +4833,6 @@ carreton
 carretta
 cofferlike
 carri
-cetaceous
 carry
 carriable
 carriage
@@ -26775,6 +26774,7 @@ counterbewitch
 conjobble
 counterblast
 counterbond
+cetaceous
 cautio
 counterborder
 crookneck

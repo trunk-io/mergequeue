@@ -9905,7 +9905,6 @@ fricandel
 frett
 frettage
 fulcral
-frettation
 fiducial
 frette
 fretten
@@ -11718,6 +11717,7 @@ forecool
 futurition
 futurize
 fanioned
+frettation
 forbbore
 fratority
 footrail
