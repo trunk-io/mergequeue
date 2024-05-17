@@ -1382,7 +1382,6 @@ accend
 accendible
 anticatholic
 accensor
-accent
 accented
 accenting
 anticnemion
@@ -21090,6 +21089,7 @@ ascription
 ascriptions
 ascriptitious
 ascriptitius
+accent
 ascriptive
 ascrive
 atramental
