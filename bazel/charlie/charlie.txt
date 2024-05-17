@@ -8651,6 +8651,7 @@ chanceful
 chancefulness
 chancey
 chancel
+cubages
 chanceled
 chanceless
 cestoda
@@ -30451,7 +30452,6 @@ cuarto
 cub
 cuba
 contradictive
-cubages
 cubicovariant
 computed
 cubane
