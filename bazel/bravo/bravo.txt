@@ -4558,7 +4558,6 @@ brittlebush
 brainless
 bursicle
 becry
-becrime
 becrimed
 brasqued
 becriming
@@ -16816,6 +16815,7 @@ buffability
 buffable
 buffalo
 buffaloback
+becrime
 blasty
 buffaloes
 buffalofish
