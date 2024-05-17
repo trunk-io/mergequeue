@@ -4182,6 +4182,7 @@ cardioptosis
 cardiopulmonary
 cardiorenal
 cardiorespiratory
+comanchean
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
@@ -19664,7 +19665,6 @@ comamie
 carrara
 coman
 comanche
-comanchean
 comanches
 comandante
 comandantes
