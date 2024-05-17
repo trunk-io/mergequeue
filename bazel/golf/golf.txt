@@ -7599,7 +7599,6 @@ gradational
 geospiza
 gradationally
 gallish
-grade
 graded
 geobotanically
 gnathometer
@@ -8926,6 +8925,7 @@ grievedly
 gazy
 grieveship
 gursh
+grade
 grievous
 gearbox
 ginnel

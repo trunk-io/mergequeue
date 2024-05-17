@@ -2038,7 +2038,6 @@ bobsleds
 bankbooks
 basti
 bankcard
-becrawl
 bankcards
 banked
 bethought
@@ -12828,6 +12827,7 @@ boon
 brumalia
 boondock
 boondoggle
+becrawl
 birthmate
 boondogglers
 blipped
