@@ -4785,6 +4785,7 @@ gyroscopes
 gyrose
 gyrostat
 gastroplenic
+gasogene
 gesticulating
 gyrotheca
 girouette
@@ -8350,7 +8351,6 @@ gustily
 grubble
 gratiolin
 grattage
-gasogene
 geochronometry
 garial
 gratten
