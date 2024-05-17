@@ -7359,7 +7359,6 @@ epaulets
 epaulette
 epauletted
 eyries
-elbowed
 epee
 epeeist
 embue
@@ -9563,6 +9562,7 @@ explorate
 eschewed
 expand
 eschewer
+elbowed
 endsheet
 eam
 edges
