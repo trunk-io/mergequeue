@@ -10910,7 +10910,6 @@ chipling
 chipmuck
 culvert
 chipmucks
-chipmunk
 chipmunks
 chipolata
 coleopteroid
@@ -16879,6 +16878,7 @@ clubster
 carpogonium
 cliffless
 clubweed
+chipmunk
 cionocranian
 clubwoman
 clubwomen
