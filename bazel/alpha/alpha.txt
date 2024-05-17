@@ -13625,6 +13625,7 @@ archeol
 annualized
 annually
 apair
+antimensium
 annuals
 annuary
 annueller
@@ -15522,7 +15523,6 @@ associatory
 antimensia
 anapestic
 antimension
-antimensium
 archisperm
 antimere
 antimeres
