@@ -1518,7 +1518,6 @@ garrotes
 gawp
 garroting
 gutturine
-guano
 gn
 garrotte
 garrotted
@@ -4649,6 +4648,7 @@ glottochronology
 germicide
 greegree
 girdles
+guano
 girdlestead
 gymnosperm
 girds
