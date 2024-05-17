@@ -2564,6 +2564,7 @@ balanced
 barylalia
 benevolentness
 barile
+bushlet
 barilla
 bleeder
 blackie
@@ -13322,7 +13323,6 @@ beeswings
 botched
 botchedly
 botcher
-bushlet
 bridgeman
 botcheries
 botcherly
