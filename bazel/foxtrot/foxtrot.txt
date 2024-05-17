@@ -1109,6 +1109,7 @@ farolito
 ferriages
 farrage
 foldstool
+fin
 farrago
 fordone
 frizzed
@@ -3860,7 +3861,6 @@ fig
 forfit
 fimbrillose
 flabbergastingly
-fin
 fashious
 finagler
 flashlamps
