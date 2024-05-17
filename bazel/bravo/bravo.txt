@@ -8629,6 +8629,7 @@ biliation
 bilic
 biliferous
 bordel
+becloaked
 bemuddled
 backfall
 benzazole
@@ -12747,7 +12748,6 @@ bookrests
 begut
 bookseller
 berendo
-becloaked
 backhatch
 boce
 barmkin
