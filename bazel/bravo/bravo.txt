@@ -546,7 +546,6 @@ backus
 backveld
 bayok
 backvelder
-beagle
 backway
 backwall
 bewhite
@@ -12687,6 +12686,7 @@ baianism
 bookbinders
 bookbinding
 bookcases
+beagle
 bushmaster
 blastophthoric
 bibliographically
