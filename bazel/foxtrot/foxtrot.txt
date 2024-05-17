@@ -5780,6 +5780,7 @@ fides
 flittered
 flittermice
 fluviation
+funs
 flittermmice
 footrill
 flittermouse
@@ -11281,7 +11282,6 @@ fenks
 foretriangle
 ferrean
 finbacks
-funs
 funster
 formulising
 factorial
