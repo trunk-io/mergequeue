@@ -8323,7 +8323,6 @@ bienvenu
 bienvenue
 boosters
 byepath
-bier
 broid
 byerite
 bierkeller
@@ -14122,6 +14121,7 @@ bracioles
 brack
 bracked
 brackened
+bier
 brackens
 bracker
 bracketed
