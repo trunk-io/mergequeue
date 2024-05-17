@@ -571,7 +571,6 @@ abnegates
 abnegative
 abnegator
 abnegators
-anatomicopathological
 arytenoidal
 abner
 apprehensive
@@ -2085,6 +2084,7 @@ acetonyl
 acetonylacetone
 acetamido
 amidoaldehyde
+anatomicopathological
 acetonitrile
 amortised
 aberrancies
