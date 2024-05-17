@@ -4039,7 +4039,6 @@ cardboard
 crissum
 cardcases
 cardecu
-carded
 cardel
 carder
 cardholder
@@ -11205,6 +11204,7 @@ chlamydobacteriaceae
 chlamydobacteriaceous
 chlamydobacteriales
 chlamydomonadaceae
+carded
 clamours
 chlamydophore
 castrations
