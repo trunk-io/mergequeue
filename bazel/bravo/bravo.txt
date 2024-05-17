@@ -4068,6 +4068,7 @@ beadworks
 bibliothecaire
 benj
 boilermaking
+byhand
 beagling
 brevier
 beaked
@@ -8524,7 +8525,6 @@ backstone
 bodle
 bouche
 birches
-byhand
 bihari
 bihydrazine
 bihourly
