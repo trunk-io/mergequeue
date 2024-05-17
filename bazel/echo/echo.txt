@@ -2196,7 +2196,6 @@ elecampane
 endocytic
 enterprises
 elecives
-electability
 electable
 electant
 electary
@@ -4925,6 +4924,7 @@ endeictic
 endeign
 endellionite
 equipartile
+electability
 eucephalous
 equinia
 endemial
