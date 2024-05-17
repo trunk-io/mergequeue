@@ -9556,7 +9556,6 @@ checkerboard
 calyciform
 checkerboarded
 checkerboarding
-checkerboards
 checkerbreast
 checkered
 checkery
@@ -20583,6 +20582,7 @@ compensatively
 chinampa
 cherishable
 compensator
+checkerboards
 compensatory
 compensators
 compenser
