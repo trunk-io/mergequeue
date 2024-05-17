@@ -13198,6 +13198,7 @@ animated
 animatedly
 actionable
 animater
+appunctuation
 animaters
 atm
 angekok
@@ -18109,7 +18110,6 @@ appulses
 alemonger
 attack
 appulsively
-appunctuation
 appurtenance
 aumil
 agnomination
