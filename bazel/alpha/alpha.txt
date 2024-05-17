@@ -20716,7 +20716,6 @@ articulite
 angiospastic
 articulus
 artie
-avid
 artier
 arterially
 arrantly
@@ -22676,6 +22675,7 @@ atip
 atypy
 agraffes
 atypic
+avid
 atypical
 alkalimetrical
 atypicality
