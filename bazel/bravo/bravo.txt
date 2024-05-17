@@ -1186,6 +1186,7 @@ bakairi
 bakal
 biasteric
 blowcase
+belaying
 bake
 brew
 bonus
@@ -5680,7 +5681,6 @@ bioral
 bilbie
 belah
 billingsgate
-belaying
 belam
 belamcanda
 belamy
