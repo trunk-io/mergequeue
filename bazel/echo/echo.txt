@@ -3526,7 +3526,6 @@ embolon
 elms
 emboltement
 embordered
-embordering
 epidesmine
 emboscata
 embosked
@@ -7510,6 +7509,7 @@ epiblasts
 engnessang
 entailer
 epiblemata
+embordering
 epibole
 epiboulangerite
 entelechial
