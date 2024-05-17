@@ -8230,6 +8230,7 @@ alhet
 alia
 alya
 aliamenta
+apodoses
 ad
 alias
 aliased
@@ -17212,7 +17213,6 @@ apodioxis
 apodyteria
 adverb
 apodyterium
-apodoses
 apodosis
 apods
 apoembryony
