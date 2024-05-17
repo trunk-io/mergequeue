@@ -4726,6 +4726,7 @@ carpeted
 counterearth
 coumarou
 chlamydospore
+cenation
 cellarway
 carpeting
 carpetlayer
@@ -6981,7 +6982,6 @@ cenaculum
 cenanthy
 cecily
 cenanthous
-cenation
 cencerro
 conciliates
 cene
