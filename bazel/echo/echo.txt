@@ -1099,7 +1099,6 @@ earwaxes
 edificed
 edifices
 edificing
-edified
 edifiers
 edifying
 edifyingly
@@ -9602,6 +9601,7 @@ escribe
 escribientes
 escrime
 epiphanising
+edified
 escript
 escritoire
 encephalocele
