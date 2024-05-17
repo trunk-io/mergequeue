@@ -6816,7 +6816,6 @@ cellager
 cellar
 coremium
 cellarage
-cellared
 chamoix
 cellarers
 cellaress
@@ -21229,6 +21228,7 @@ concerns
 cohabitations
 chinbeak
 concertante
+cellared
 concertantes
 countersank
 chapped
