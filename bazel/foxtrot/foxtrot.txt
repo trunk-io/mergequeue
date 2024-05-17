@@ -4340,7 +4340,6 @@ fisherboy
 faffle
 fragmentate
 fudged
-forecastles
 fisherfolk
 formulaic
 fishery
@@ -7645,6 +7644,7 @@ frailer
 foreorlop
 forefinger
 forjudged
+forecastles
 forefingers
 figlike
 fritillaries
