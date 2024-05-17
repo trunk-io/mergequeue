@@ -10067,6 +10067,7 @@ adiposities
 amblycephalus
 amblychromatic
 amblydactyla
+anththeridia
 amblygeusia
 amblygon
 amblygonal
@@ -14665,7 +14666,6 @@ anthroropolith
 aerical
 anthroxan
 anthroxanic
-anththeridia
 anthurium
 anthracite
 anti
