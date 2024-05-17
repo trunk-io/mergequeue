@@ -6684,7 +6684,6 @@ ghostwrite
 gluconeogenetic
 gainsaid
 gallinula
-gorgonian
 granivorous
 gonaduct
 gesticulated
@@ -9903,6 +9902,7 @@ guard
 glumpy
 guardable
 guardedness
+gorgonian
 gedd
 goatroot
 geosynclinal
