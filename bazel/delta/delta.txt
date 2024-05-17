@@ -4359,7 +4359,6 @@ devotionist
 deutomalal
 daube
 deludingly
-deluge
 deluged
 deluges
 dowsabels
@@ -15797,6 +15796,7 @@ dorsiflex
 dorsiflexion
 deuteron
 detects
+deluge
 dualization
 disenfranchising
 dorsilateral
