@@ -2239,7 +2239,6 @@ felt
 felted
 felter
 feltyflier
-felting
 feltmaker
 ferbams
 feltmaking
@@ -7610,6 +7609,7 @@ foredefeated
 frankheartedness
 flightworthy
 foreshaft
+felting
 foredestine
 flavorings
 foredevote
