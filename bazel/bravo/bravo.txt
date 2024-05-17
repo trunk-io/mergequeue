@@ -2738,7 +2738,6 @@ barology
 barolong
 botryoidally
 boroughship
-barometers
 barometric
 barometrically
 beelzebub
@@ -9046,6 +9045,7 @@ brutalize
 biodyne
 bioecological
 bioecologically
+barometers
 bioecologies
 bioecologist
 bioelectric
