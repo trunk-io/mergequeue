@@ -16848,7 +16848,6 @@ clubfellow
 clubfist
 clubfisted
 clubfoot
-clubfooted
 clubhand
 clubhands
 cerebralgia
@@ -28694,6 +28693,7 @@ crenelations
 creneled
 cannophori
 crenelee
+clubfooted
 crenelet
 creneling
 crenellated
