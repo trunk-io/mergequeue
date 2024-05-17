@@ -10088,7 +10088,6 @@ bibliographical
 babiroussa
 bivvy
 byway
-byways
 bushranger
 bywalk
 bywalking
@@ -11231,6 +11230,7 @@ bloomless
 bloomsbury
 bloop
 blooped
+byways
 baronethood
 byes
 bronchiloquy
