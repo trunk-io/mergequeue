@@ -1666,7 +1666,6 @@ fawnlike
 foveal
 fawns
 frowned
-faxed
 faxes
 festshrifts
 fivepence
@@ -10542,6 +10541,7 @@ frot
 froth
 forebodings
 frothier
+faxed
 feodary
 froths
 floretum
