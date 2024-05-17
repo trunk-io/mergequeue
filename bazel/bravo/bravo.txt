@@ -4159,7 +4159,6 @@ bibbs
 begrain
 beanweed
 beaproned
-bestiaries
 boondoggles
 behalves
 bearbaiter
@@ -6446,6 +6445,7 @@ brevetcy
 benzaldehyde
 benzaldoxime
 bandeaus
+bestiaries
 benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
