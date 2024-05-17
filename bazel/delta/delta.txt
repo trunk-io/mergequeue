@@ -5153,7 +5153,6 @@ dendrochirota
 doubleprecision
 describing
 dendrochronology
-defeasibleness
 dendrochronologically
 dendrocygna
 dotty
@@ -17904,6 +17903,7 @@ dermatoid
 dracaena
 duenesses
 discandy
+defeasibleness
 dissector
 diddles
 decalcified

@@ -19439,7 +19439,6 @@ calcitonin
 chimaeridae
 colorless
 colormaker
-colorman
 coloroto
 colors
 colortype
@@ -20237,6 +20236,7 @@ commonage
 commonality
 commonalities
 commonalty
+colorman
 camouflages
 commonance
 commoney
