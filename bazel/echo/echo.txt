@@ -1284,6 +1284,7 @@ effacement
 effacers
 effare
 effate
+echograph
 exumbrellar
 effect
 epimorphism
@@ -4243,7 +4244,6 @@ emulant
 emulations
 emulative
 emulatory
-echograph
 emule
 emulously
 escambio
