@@ -1701,7 +1701,6 @@ feal
 fealty
 fumigates
 fluorinate
-fear
 fimbles
 fearedly
 forearming
@@ -4515,6 +4514,7 @@ fisheye
 fistuca
 foxchop
 filmist
+fear
 felinophile
 fistula
 fistular
