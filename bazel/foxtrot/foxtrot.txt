@@ -1007,7 +1007,6 @@ farenheit
 friarbird
 felinophobe
 fares
-faretta
 farewell
 fearfuller
 foreshortens
@@ -3800,6 +3799,7 @@ filose
 furnitureless
 fils
 fortuneteller
+faretta
 fashional
 filterability
 finify
