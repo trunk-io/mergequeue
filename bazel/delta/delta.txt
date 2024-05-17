@@ -3696,7 +3696,6 @@ degorge
 degradable
 daggering
 degradations
-degradative
 degraded
 degradedly
 degradement
@@ -5920,6 +5919,7 @@ deprecating
 deprecatingly
 danes
 darter
+degradative
 diachoresis
 demeaning
 disconcert
