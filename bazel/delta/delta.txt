@@ -5841,6 +5841,7 @@ deaconries
 deport
 demipuppet
 deportability
+diathetic
 deportation
 deportations
 deportee
@@ -8758,7 +8759,6 @@ diathesic
 demisacrilege
 diathesis
 depolarising
-diathetic
 diatoma
 diatomaceae
 diatomaceous
