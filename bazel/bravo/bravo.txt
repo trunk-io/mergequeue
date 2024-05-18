@@ -1607,6 +1607,7 @@ ballones
 ballonette
 boiguacu
 ballonne
+bandsmen
 bimaculate
 ballonnes
 balloon
@@ -1938,7 +1939,6 @@ bandsaw
 bandsawed
 bandsawn
 bandsman
-bandsmen
 bandspreading
 bandstand
 boronia
