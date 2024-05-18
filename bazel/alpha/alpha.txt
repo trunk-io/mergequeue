@@ -10682,7 +10682,6 @@ angulometer
 aminopolypeptidase
 aphronitre
 aminopurine
-aminoquin
 aminosis
 aminosuccinamic
 araru
@@ -15939,6 +15938,7 @@ antipolygamy
 assorts
 alkide
 antipolitical
+aminoquin
 antipolitically
 azureous
 antipolitics

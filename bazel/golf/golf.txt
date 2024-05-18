@@ -1204,7 +1204,6 @@ grandeurs
 geometroidea
 gentlemens
 gynosporangium
-gantelope
 genitors
 gantlet
 gantleted
@@ -6273,6 +6272,7 @@ goal
 grimiest
 glutted
 goala
+gantelope
 gigantolite
 gnatworm
 goalage
