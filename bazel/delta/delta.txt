@@ -3415,7 +3415,6 @@ defix
 diddlers
 deflagrable
 decolor
-deflagrates
 deflagrating
 dithionate
 deflagration
@@ -17750,6 +17749,7 @@ dubitable
 detent
 dubitably
 dubitancy
+deflagrates
 dubitant
 dorey
 dubitante
