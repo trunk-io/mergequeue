@@ -644,7 +644,6 @@ galliots
 gleanings
 gurnets
 gousty
-gadfly
 gallipot
 gnaphalioid
 gallipots
@@ -6266,6 +6265,7 @@ grammar
 germiparity
 grammaticize
 garters
+gadfly
 garibaldi
 goadlike
 goadsman
