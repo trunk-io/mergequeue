@@ -1301,6 +1301,7 @@ gooseliver
 guidage
 gonochorismus
 grump
+gunsmiths
 guana
 garb
 garbage
@@ -8571,7 +8572,6 @@ greater
 garbages
 granddada
 galeidae
-gunsmiths
 greatmouthed
 gaylussite
 greatness
