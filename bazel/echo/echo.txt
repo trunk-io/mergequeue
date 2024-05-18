@@ -4194,7 +4194,6 @@ empressements
 empresses
 embossers
 emprint
-emprises
 entomotaxy
 emprison
 emprize
@@ -5945,6 +5944,7 @@ enhydrinae
 evenminded
 enkindled
 erasmian
+emprises
 eyrie
 epitrichium
 enkindler
