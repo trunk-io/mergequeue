@@ -5040,6 +5040,7 @@ earthbound
 exited
 episperm
 epistlar
+erratical
 embolies
 endoclinal
 endocoelar
@@ -9354,7 +9355,6 @@ errants
 elayl
 erratas
 erratic
-erratical
 erratically
 endosmos
 epilog
