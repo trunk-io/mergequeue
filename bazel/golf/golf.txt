@@ -2786,6 +2786,7 @@ genyplasty
 goldenwing
 genips
 gastroduodenostomies
+gradiometer
 genista
 glashan
 goofier
@@ -7631,7 +7632,6 @@ grease
 gradings
 gradino
 greenier
-gradiometer
 general
 granters
 gradiometric
