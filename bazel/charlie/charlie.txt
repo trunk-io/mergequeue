@@ -2413,7 +2413,6 @@ cancrophagous
 cancrum
 cancrums
 cand
-candace
 candareen
 candelabra
 candelabras
@@ -25588,6 +25587,7 @@ cynocrambe
 coronion
 coronis
 coronitis
+candace
 chese
 coronium
 coronobasilar
