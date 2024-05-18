@@ -4982,7 +4982,6 @@ cassettes
 cartouch
 cartouche
 costrel
-chiclero
 cartouches
 curlicued
 canalman
@@ -11746,6 +11745,7 @@ clavicor
 choluria
 clinal
 choluteca
+chiclero
 chomage
 chompers
 consolidates
