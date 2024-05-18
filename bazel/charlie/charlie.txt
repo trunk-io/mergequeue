@@ -3969,7 +3969,6 @@ carcel
 carcels
 carcer
 cameleers
-cosmosphere
 carceral
 carcerate
 coassisted
@@ -24733,6 +24732,7 @@ ciderist
 coppersmith
 coppersmithing
 copperware
+cosmosphere
 copperwing
 controllers
 chemotroph
