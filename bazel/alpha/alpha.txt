@@ -2680,7 +2680,6 @@ acquiescently
 acquiescer
 acquiesces
 amygdalotomy
-acquiescing
 accrescent
 acquiescingly
 apophonies
@@ -9056,6 +9055,7 @@ allowancing
 autosuggest
 allowed
 assertiveness
+acquiescing
 assagais
 aftermarriage
 allowedly
