@@ -7398,7 +7398,6 @@ detonator
 detonize
 detour
 detoured
-duncifying
 detectability
 detouring
 detournement
@@ -15721,6 +15720,7 @@ downlie
 dormancies
 dormer
 dammara
+duncifying
 dormered
 dormers
 dormette
