@@ -756,6 +756,7 @@ cristae
 cahincic
 cahita
 continency
+cryostats
 cahiz
 collyr
 cahokia
@@ -29203,7 +29204,6 @@ criosphinx
 criosphinxes
 cryostase
 cryostat
-cryostats
 cryosurgeon
 cryosurgery
 cryosurgical
