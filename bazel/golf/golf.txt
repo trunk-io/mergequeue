@@ -6129,6 +6129,7 @@ geometry
 gutterman
 gravitation
 gnabble
+goalage
 graspers
 gouging
 gibberose
@@ -6276,7 +6277,6 @@ glutted
 goala
 gigantolite
 gnatworm
-goalage
 goalie
 gambodic
 gastroduodenal
