@@ -2572,7 +2572,6 @@ baris
 bearleap
 bromating
 barysilite
-barit
 bunkoed
 broadwives
 bedimpled
@@ -13835,6 +13834,7 @@ barleybird
 bowess
 bowfin
 bacterium
+barit
 bang
 bast
 bowheads
