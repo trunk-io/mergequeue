@@ -37,7 +37,6 @@ gabbroid
 gabbroitic
 gabelleman
 gabendum
-gowf
 gaberdine
 gaberdines
 gulfier
@@ -2681,6 +2680,7 @@ generations
 generative
 generativeness
 gameball
+gowf
 generators
 generatrices
 gymnostomina
