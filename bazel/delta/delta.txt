@@ -5996,6 +5996,7 @@ disprofit
 declassing
 deprivals
 deprivation
+diamyl
 deprive
 deprived
 deprivement
@@ -15220,7 +15221,6 @@ dollarleaf
 dollars
 dollarwise
 dollbeer
-diamyl
 dolled
 departmentalizing
 dehull
