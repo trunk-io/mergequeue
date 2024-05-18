@@ -11262,7 +11262,6 @@ amphispore
 amphistylic
 amphistoma
 africans
-amphistome
 asyllabic
 amphitene
 amphithalami
@@ -13266,6 +13265,7 @@ adaptional
 allergens
 aniridia
 anisado
+amphistome
 anabolic
 artamus
 amygdalus
