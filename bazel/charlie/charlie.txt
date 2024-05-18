@@ -13691,7 +13691,6 @@ cymbid
 clochard
 cymbidium
 cymbiform
-cymbium
 cymblin
 cymblings
 cymbocephaly
@@ -21420,6 +21419,7 @@ concludendi
 concludent
 concludently
 concluder
+cymbium
 concluders
 concludes
 cicadidae
