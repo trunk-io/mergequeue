@@ -2686,7 +2686,6 @@ becoward
 barmote
 barms
 barn
-barnabas
 barnaby
 barnacled
 barnacles
@@ -6468,6 +6467,7 @@ benzdioxazine
 benzdioxdiazine
 benzein
 blinks
+barnabas
 benzene
 bastian
 benzenediazonium
