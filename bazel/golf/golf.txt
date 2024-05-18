@@ -2913,7 +2913,6 @@ gingelies
 gentlemanly
 gentlemanlikeness
 gentlemanliness
-gentlemanship
 gayer
 gentlemen
 gittite
@@ -10532,6 +10531,7 @@ gunmaking
 gaun
 guelphic
 grasset
+gentlemanship
 gunmetal
 gurmukhi
 gcd
