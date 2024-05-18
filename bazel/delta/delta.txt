@@ -2933,7 +2933,6 @@ decurion
 deus
 dactylic
 demented
-decurions
 decurrences
 decurrency
 decurring
@@ -12339,6 +12338,7 @@ disharmonise
 disharmonised
 disharmonising
 distraughted
+decurions
 deflexion
 dwarfishly
 droner
