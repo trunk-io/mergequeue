@@ -378,7 +378,6 @@ faintly
 ferrymen
 fearer
 filicauline
-filator
 faintness
 faints
 feltings
@@ -6552,6 +6551,7 @@ foreworn
 freakishness
 flutist
 fibrilations
+filator
 flutter
 flutterable
 flutterboard
