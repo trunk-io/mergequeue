@@ -2389,7 +2389,6 @@ eumenidean
 electroed
 erythroclasis
 equicostate
-encrinite
 electroencephalogram
 electroencephalograms
 electroencephalograph
@@ -10078,6 +10077,7 @@ estrins
 estriol
 estrogen
 epaulet
+encrinite
 estrogenic
 estrogenicity
 estrogens
