@@ -438,7 +438,6 @@ galcha
 growl
 greyskin
 galea
-galeage
 glucuronide
 goliard
 gastrojejunal
@@ -2756,6 +2755,7 @@ guaican
 goggled
 greasebush
 genic
+galeage
 genically
 geniculate
 grayly
