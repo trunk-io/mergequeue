@@ -3125,7 +3125,6 @@ cribbiter
 cottonwood
 capernaism
 capernaite
-capuchin
 capernaitic
 copperworks
 contradictor
@@ -11701,6 +11700,7 @@ cholesteric
 cholesteryl
 chariotee
 cholesterin
+capuchin
 chappow
 cholesterinic
 cholesterinuria

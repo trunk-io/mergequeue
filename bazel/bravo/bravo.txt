@@ -12816,7 +12816,6 @@ boomingly
 betalk
 boomkin
 boomkins
-bootes
 barnabite
 boomslang
 boomslange
@@ -13533,6 +13532,7 @@ bremeness
 bougainvillia
 bopster
 bougainvilliidae
+bootes
 bite
 bougar
 bouge
