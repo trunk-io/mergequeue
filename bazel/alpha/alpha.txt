@@ -6803,7 +6803,6 @@ ainoi
 appellatory
 ainsell
 ainsells
-armyworm
 arpeggio
 aeromaechanic
 ainu
@@ -6964,6 +6963,7 @@ airsome
 airspace
 airspaces
 ancience
+armyworm
 apostolic
 anterin
 airspeeds
