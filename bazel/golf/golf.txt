@@ -4873,6 +4873,7 @@ goad
 gitterns
 ganglioblast
 gangliar
+gettable
 giulio
 gasometer
 giuseppe
@@ -6390,7 +6391,6 @@ gastriloquous
 greenhouse
 gastronomist
 goblin
-gettable
 gateward
 gunite
 glucosulfone
