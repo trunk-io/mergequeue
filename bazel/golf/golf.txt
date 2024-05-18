@@ -600,7 +600,6 @@ greyhound
 glycoprotein
 gallicisms
 gimpy
-gallicize
 gallicizer
 gobletful
 gutturize
@@ -10754,6 +10753,7 @@ graywall
 gutlike
 gutnish
 gynaecomorphous
+gallicize
 glossospasm
 gutsiness
 glycyl
