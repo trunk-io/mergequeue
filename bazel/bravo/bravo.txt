@@ -5268,6 +5268,7 @@ boskopoid
 begay
 begalled
 boasted
+booklore
 boarcite
 beslimed
 basification
@@ -12718,7 +12719,6 @@ booklike
 bookling
 bieennia
 booklists
-booklore
 bhavan
 bioecologic
 booklouse
