@@ -95,7 +95,6 @@ chorogi
 cabeliau
 caber
 cabernet
-cabernets
 carcinosarcomas
 clusters
 cabestro
@@ -29439,6 +29438,7 @@ crisscrossed
 crisscrosses
 crisset
 cryst
+cabernets
 crista
 crystaled
 cocceianism
