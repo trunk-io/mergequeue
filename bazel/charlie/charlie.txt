@@ -11317,7 +11317,6 @@ chlorines
 chlorinity
 chlorinize
 chicote
-chlorins
 chloriodide
 counterion
 chlorite
@@ -23915,6 +23914,7 @@ craton
 controverts
 contubernal
 channelwards
+chlorins
 contubernial
 contubernium
 contumacy
