@@ -450,7 +450,6 @@ ecart
 evector
 earsore
 expandability
-exerts
 ecclesia
 ecclesiarch
 ecclesiarchy
@@ -12529,6 +12528,7 @@ expiated
 enterocoelic
 enneagynous
 ejecta
+exerts
 exilement
 exiles
 ecologist

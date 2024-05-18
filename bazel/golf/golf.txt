@@ -4952,6 +4952,7 @@ ghostfish
 gryphite
 garbure
 glacialize
+griddle
 glaciated
 gedact
 grumbles
@@ -8894,7 +8895,6 @@ grieko
 gecked
 gridded
 gyration
-griddle
 greund
 griddlecake
 giddiness
