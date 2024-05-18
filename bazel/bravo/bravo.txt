@@ -2145,7 +2145,6 @@ boxfishes
 biotechnologies
 boiler
 bantering
-banteringly
 banty
 bushrope
 bantings
@@ -13298,6 +13297,7 @@ botanicas
 botanics
 barton
 bridechamber
+banteringly
 botanies
 botanise
 bensail
