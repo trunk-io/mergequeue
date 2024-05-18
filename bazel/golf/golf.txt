@@ -3019,7 +3019,6 @@ geochronology
 gifting
 geocyclic
 geocline
-glideless
 geocoronium
 gordunite
 geocratic
@@ -9964,6 +9963,7 @@ gynander
 gillar
 guazuma
 gubat
+glideless
 guillevat
 gratefuller
 gubbertush
