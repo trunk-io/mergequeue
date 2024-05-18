@@ -6679,7 +6679,6 @@ foelike
 forenotice
 foemanship
 foemen
-famble
 foenngreek
 forethoughtfully
 filemarks
@@ -9605,6 +9604,7 @@ frecket
 familia
 fermenter
 freckle
+famble
 fenagle
 fieldmouse
 fingers
