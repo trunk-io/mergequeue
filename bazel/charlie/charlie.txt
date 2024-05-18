@@ -14452,7 +14452,6 @@ corniness
 circumspectness
 cystorrhagia
 circumspheral
-circumsphere
 circumstance
 circumstanced
 circumstances
@@ -15198,6 +15197,7 @@ clabularium
 clach
 clachans
 clachs
+circumsphere
 clack
 clackama
 circumtropical
