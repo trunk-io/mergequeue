@@ -2282,7 +2282,6 @@ enjeopardy
 epicenity
 eremitic
 excuderunt
-epistroma
 electrocapillary
 electrocapillarity
 electrocardiogram
@@ -4976,6 +4975,7 @@ eland
 econometer
 evens
 endleaf
+epistroma
 entomb
 endless
 excuses
