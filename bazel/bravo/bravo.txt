@@ -11928,7 +11928,6 @@ beatificate
 bogatyr
 bogbeans
 bogberry
-bogeyed
 bogeying
 bogeyman
 bogeymen
@@ -15015,6 +15014,7 @@ brekky
 brekkle
 brelan
 brelaw
+bogeyed
 brember
 bremia
 bremsstrahlung
