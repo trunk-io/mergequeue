@@ -5807,7 +5807,6 @@ glossers
 gondi
 glossy
 goniatitoid
-glossier
 goitered
 glossies
 glew
@@ -8756,6 +8755,7 @@ gregariniform
 goodenoviaceae
 gregarinina
 glossopetra
+glossier
 goateed
 gregarious
 gonogenesis
