@@ -11761,7 +11761,6 @@ analgias
 analgic
 altocumulus
 africanthropus
-analysable
 analysation
 aparavidya
 analyser
@@ -12542,6 +12541,7 @@ aye
 anemoses
 anemosis
 accessively
+analysable
 anemotactic
 anemotaxis
 anemotropism
