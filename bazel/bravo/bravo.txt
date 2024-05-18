@@ -3470,6 +3470,7 @@ builtin
 bastionary
 bodingly
 bastionet
+buckayros
 badgerly
 bastions
 battutas
@@ -16625,7 +16626,6 @@ buck
 bayamo
 bicornuous
 buckayro
-buckayros
 buckaroo
 buckaroos
 buckberry
