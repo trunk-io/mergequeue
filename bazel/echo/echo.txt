@@ -2549,6 +2549,7 @@ electroori
 encomendero
 eirenicon
 embassies
+estafette
 electroosmotically
 electropathy
 electropathology
@@ -5134,7 +5135,6 @@ euryalida
 endolymphangial
 endolymphatic
 endolymphic
-estafette
 endolysin
 endolumbar
 endomastoiditis
