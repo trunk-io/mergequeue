@@ -3878,6 +3878,7 @@ bauxite
 blistery
 bauxites
 balsas
+bios
 bauxitic
 bauxitite
 bavaroy
@@ -9216,7 +9217,6 @@ brachygraphic
 biorhythm
 biorhythmicity
 beshivers
-bios
 biosatellites
 biosciences
 bioscientist
