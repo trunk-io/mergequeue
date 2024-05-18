@@ -989,7 +989,6 @@ abstainer
 airchecks
 arsenicking
 abstainers
-abstaining
 abstainment
 abstains
 assis
@@ -23611,6 +23610,7 @@ aurify
 agrypnias
 aurific
 aceology
+abstaining
 algorism
 aurifying
 auriflamme
