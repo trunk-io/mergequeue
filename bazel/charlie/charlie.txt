@@ -10093,7 +10093,6 @@ cherubimic
 cherubimical
 cherubin
 cherublike
-cherubs
 cherup
 cherusci
 clons
@@ -26639,6 +26638,7 @@ coulombmeter
 coulombs
 coulometer
 coulter
+cherubs
 coulterneb
 coulthard
 coulure

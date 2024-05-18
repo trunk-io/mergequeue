@@ -2299,7 +2299,6 @@ evasion
 entocele
 electrochemical
 electrochemistry
-excrete
 electrochronometer
 electrocataphoresis
 equison
@@ -5328,6 +5327,7 @@ encampment
 economically
 esquiline
 empyreum
+excrete
 endotheliulia
 eophyte
 endothelium
