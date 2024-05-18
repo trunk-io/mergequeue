@@ -4913,7 +4913,6 @@ bedway
 battuto
 bedways
 bindings
-blackwashing
 belavendered
 bedwards
 bedwarf
@@ -10987,6 +10986,7 @@ blocky
 blintzes
 bluming
 blacksmiths
+blackwashing
 bafta
 blypes
 barkeep
