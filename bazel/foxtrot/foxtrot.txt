@@ -2813,7 +2813,6 @@ festilogy
 feods
 filate
 fouling
-festilogies
 feddans
 festinance
 foregoers
@@ -11183,6 +11182,7 @@ fungible
 fideists
 fungicidal
 fungicidally
+festilogies
 fungicide
 fungicides
 fungicolous
