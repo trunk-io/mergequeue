@@ -920,7 +920,6 @@ absis
 absist
 absistos
 absit
-absoil
 antient
 absolent
 absolute
@@ -8220,6 +8219,7 @@ alguifou
 algums
 alhagi
 apprehends
+absoil
 alhambra
 alhambraic
 asteria

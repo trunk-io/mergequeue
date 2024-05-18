@@ -1669,6 +1669,7 @@ eidoptometry
 eidos
 eidouranion
 ethylenes
+exocoelom
 eyeball
 epiphloedal
 eyeballed
@@ -12625,7 +12626,6 @@ exocoelar
 exocoele
 exploring
 exocoelic
-exocoelom
 exocoelum
 exocoetus
 exocone
