@@ -4508,7 +4508,6 @@ encephalolith
 encephalomas
 encephalomeningocele
 exhalation
-encephalometric
 encephalomyelitic
 ectocarpous
 easement
@@ -14068,6 +14067,7 @@ excogitable
 extravertish
 elaborations
 extravillar
+encephalometric
 extravisceral
 epigastral
 expanses
