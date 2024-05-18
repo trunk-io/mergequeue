@@ -4809,7 +4809,6 @@ carrat
 carraway
 carraways
 carreau
-carrefour
 carrel
 carrell
 carrells
@@ -19511,6 +19510,7 @@ colpoptosis
 colporrhagia
 colporrhaphy
 colporrhea
+carrefour
 colporrhexis
 colport
 cringles
