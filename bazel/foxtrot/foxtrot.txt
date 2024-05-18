@@ -5097,7 +5097,6 @@ flatiron
 froom
 flatirons
 flatlands
-flatlets
 floorwalker
 flavoprotein
 fatigued
@@ -7441,6 +7440,7 @@ forceless
 festschrifts
 forcelessness
 forcelet
+flatlets
 foglietto
 futhark
 fasciculation
