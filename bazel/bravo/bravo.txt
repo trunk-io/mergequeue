@@ -2402,6 +2402,7 @@ bard
 bulgur
 bardcraft
 balate
+bassus
 barde
 bardes
 brabant
@@ -3412,7 +3413,6 @@ bassoonists
 blockades
 bedravel
 busiest
-bassus
 brees
 bewall
 berascaled
