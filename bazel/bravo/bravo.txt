@@ -1263,7 +1263,6 @@ birdberry
 batrachiate
 bedim
 balan
-bedstead
 bardie
 balanceable
 bafflements
@@ -5302,6 +5301,7 @@ begetter
 broth
 bandagist
 balk
+bedstead
 beggared
 beggaress
 beggarhood
