@@ -2261,7 +2261,6 @@ bourage
 buddler
 bassoons
 barbarisation
-barbarise
 barbarised
 barbarising
 barbarism
@@ -3194,6 +3193,7 @@ basidiolichen
 basidiomycete
 baclava
 bravish
+barbarise
 bushed
 belesprit
 blowzily
