@@ -6034,6 +6034,7 @@ agglutinize
 agglutinogen
 agglutinogenic
 agglutinoscope
+aspic
 acclaiming
 agglutogenic
 aggrace
@@ -21510,7 +21511,6 @@ arrowroot
 asphodel
 asphodelaceae
 aspy
-aspic
 aspics
 aspiculate
 aspide
