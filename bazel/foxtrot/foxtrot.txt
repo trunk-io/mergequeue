@@ -4992,7 +4992,6 @@ forehatchway
 flanque
 faconne
 flapdock
-fluvialist
 flaperon
 flirter
 festivals
@@ -7770,6 +7769,7 @@ foreknowing
 foreknowingly
 forelaying
 forelands
+fluvialist
 frere
 foreleg
 florilege
