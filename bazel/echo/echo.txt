@@ -39,6 +39,7 @@ endosporia
 earache
 enumerated
 emigrational
+equiangularity
 earbash
 earbob
 esperance
@@ -2612,7 +2613,6 @@ electrosensitive
 electrosherardizing
 electroshock
 electroshocks
-equiangularity
 elucidative
 envenoms
 electrosmosis
