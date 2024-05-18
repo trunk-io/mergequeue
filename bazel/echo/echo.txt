@@ -2616,7 +2616,6 @@ electroshocks
 elucidative
 envenoms
 electrosmosis
-electrostatic
 electrostatical
 exegetist
 enquiries
@@ -8619,6 +8618,7 @@ ensouling
 equicaloric
 equicohesive
 equicontinuous
+electrostatic
 electrotherapeutic
 encompassing
 equiconvex
