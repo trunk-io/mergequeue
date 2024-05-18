@@ -3438,6 +3438,7 @@ damnum
 defleas
 deflect
 driftfishes
+diphosgene
 deflectable
 deflecting
 deflectionization
@@ -9915,7 +9916,6 @@ dipneustal
 dogmata
 diminisher
 diminishingly
-diphosgene
 diminishment
 diminishments
 dulcet
