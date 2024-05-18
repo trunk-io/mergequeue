@@ -621,7 +621,6 @@ fiard
 falsifier
 falsifying
 falunian
-feats
 fanum
 fict
 friskers
@@ -3576,6 +3575,7 @@ filatures
 fulgence
 forebowline
 francs
+feats
 filberts
 filched
 francophobe
