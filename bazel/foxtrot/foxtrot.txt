@@ -3394,7 +3394,6 @@ fixative
 flyweights
 fiendhead
 flyblew
-filtre
 fops
 fallibility
 firmation
@@ -9525,6 +9524,7 @@ fingerprinting
 floodometer
 fantasm
 featish
+filtre
 frau
 forecastleman
 felidae
