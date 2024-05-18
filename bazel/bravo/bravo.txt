@@ -1429,6 +1429,7 @@ boun
 balestra
 batoneer
 baloo
+bottu
 balete
 bali
 balian
@@ -14365,7 +14366,6 @@ brachiferous
 braincase
 braincraft
 balers
-bottu
 befan
 brainge
 brainily
