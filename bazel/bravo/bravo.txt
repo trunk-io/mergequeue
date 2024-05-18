@@ -5177,7 +5177,6 @@ bacony
 beflour
 busti
 beflowered
-biotas
 bogbean
 beflowering
 beflum
@@ -16631,6 +16630,7 @@ buckayro
 buckayros
 buckaroo
 buckaroos
+biotas
 buckberry
 buckboard
 buckboards
