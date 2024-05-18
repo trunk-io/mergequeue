@@ -234,7 +234,6 @@ barbershop
 bachichi
 bacilary
 bacile
-bacillaceae
 brarow
 bacillariaceae
 baldric
@@ -15285,6 +15284,7 @@ bridled
 bumbarge
 bridleless
 bridlers
+bacillaceae
 buffware
 boredom
 bridles
