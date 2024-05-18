@@ -1788,6 +1788,7 @@ diplodocuses
 debarring
 duply
 debars
+disjointness
 disserting
 dispiteous
 debased
@@ -12622,7 +12623,6 @@ disjointedly
 duplicidentate
 disjointing
 disjointly
-disjointness
 dulia
 disjoints
 disjointure
