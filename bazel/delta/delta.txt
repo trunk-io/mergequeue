@@ -5995,6 +5995,7 @@ declassing
 deprivals
 deprivation
 deprive
+divisors
 deprived
 deprivement
 depriver
@@ -17824,7 +17825,6 @@ diabolarch
 dotiness
 ducktail
 duckweed
-divisors
 donis
 duckwife
 discrete

@@ -2491,7 +2491,6 @@ busies
 barf
 blens
 britzka
-blear
 barfish
 barfs
 bargain
@@ -2613,6 +2612,7 @@ byelaws
 borana
 bunglesome
 bushie
+blear
 barkey
 briers
 barken
