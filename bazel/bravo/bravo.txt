@@ -2750,7 +2750,6 @@ baromotor
 baldricks
 baronduki
 bibliolater
-bethorned
 bobberies
 baroness
 bewrapping
@@ -4830,6 +4829,7 @@ balsawood
 barbarize
 bedrugging
 bedrivel
+bethorned
 broadening
 brachylogy
 bedriveling
