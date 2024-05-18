@@ -3151,7 +3151,6 @@ actinopod
 actinopraxis
 aget
 actinopteran
-actinopteri
 actinopterygian
 annexal
 amylopsase
@@ -15976,6 +15975,7 @@ asterial
 antiprelatism
 antiprelatist
 antiprestidigitation
+actinopteri
 archils
 antisepsis
 antipriest
