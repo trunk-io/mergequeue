@@ -2315,7 +2315,6 @@ fluidness
 fenchene
 fenchone
 fencible
-fencings
 forewarm
 full
 foregahger
@@ -8398,6 +8397,7 @@ fritting
 formalist
 formalistically
 fallibilist
+fencings
 funned
 flange
 formalities
