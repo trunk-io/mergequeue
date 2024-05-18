@@ -8163,6 +8163,7 @@ algiomuscular
 algist
 anonad
 algodon
+assertable
 atabal
 asexual
 algodoncillo
@@ -21732,7 +21733,6 @@ assents
 asseour
 assert
 asserta
-assertable
 asserted
 autocorrelate
 assertedly
