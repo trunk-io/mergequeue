@@ -6410,7 +6410,6 @@ gibblegable
 guarantorship
 gyroplane
 geographic
-goblins
 gobo
 gobony
 gobs
@@ -8459,6 +8458,7 @@ guttersnipes
 galli
 gan
 grallatory
+goblins
 gonochoristic
 gonoecium
 gravette
