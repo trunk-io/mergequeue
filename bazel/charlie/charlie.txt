@@ -9179,7 +9179,6 @@ chartable
 chartaceous
 chartae
 charter
-chartered
 compensations
 charterer
 charterers
@@ -18214,6 +18213,7 @@ coextent
 cofactors
 cofane
 cofaster
+chartered
 cofather
 cutlery
 cofeature
