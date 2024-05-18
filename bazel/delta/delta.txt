@@ -5393,7 +5393,6 @@ dentes
 denty
 docimasies
 dorsimesal
-daraf
 dentical
 denticle
 denticular
@@ -8403,6 +8402,7 @@ dent
 dialystaminous
 downhanging
 dialystely
+daraf
 dialystelic
 dialister
 diabase
