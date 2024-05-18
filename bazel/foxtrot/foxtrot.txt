@@ -5394,7 +5394,6 @@ foxed
 figgum
 flem
 flemer
-fluozirconic
 fleming
 frequentness
 flemish
@@ -10205,6 +10204,7 @@ faki
 frithbot
 frithy
 fragor
+fluozirconic
 facula
 fixatif
 feasance
