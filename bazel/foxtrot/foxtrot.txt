@@ -3170,6 +3170,7 @@ fibroelastic
 fabulosity
 fibroenchondroma
 fibroferrite
+flatted
 fibrohemorrhagic
 farfet
 flichters
@@ -5113,7 +5114,6 @@ flatness
 farandmen
 favi
 faceting
-flatted
 flimp
 flattening
 flattercap
