@@ -5800,7 +5800,6 @@ categorise
 categorised
 chansonnier
 categorising
-categorist
 cleaves
 categorization
 categorize
@@ -20621,6 +20620,7 @@ compilable
 compilation
 curvilinearly
 compilations
+categorist
 compilator
 compileable
 compiled
