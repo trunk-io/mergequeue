@@ -844,7 +844,6 @@ bottomry
 bafflingness
 bedene
 baffs
-boltholes
 baft
 baftah
 baga
@@ -3841,6 +3840,7 @@ baublery
 bootleg
 baubling
 baubo
+boltholes
 bauch
 buggyman
 bauckie
