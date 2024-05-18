@@ -5670,6 +5670,7 @@ chested
 catasta
 catastaltic
 catastases
+charry
 catastasis
 catoptromancy
 catastate
@@ -9168,7 +9169,6 @@ charre
 charred
 charrette
 consenescence
-charry
 charrier
 charriest
 charro
