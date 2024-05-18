@@ -5735,7 +5735,6 @@ deadlocked
 distractibility
 discommodate
 depilating
-depilator
 depilatory
 depilatories
 duplicando
@@ -11711,6 +11710,7 @@ discountenances
 discounter
 distastes
 discounters
+depilator
 decreasing
 discounting
 defecates
