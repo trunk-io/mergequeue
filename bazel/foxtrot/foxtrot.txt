@@ -12,7 +12,6 @@ fabianist
 flagellators
 footsoldier
 fabled
-ferry
 fablemaker
 forestay
 fablemongering
@@ -7657,6 +7656,7 @@ figlike
 fritillaries
 ferronickel
 fistulized
+ferry
 floorshifts
 franger
 footrace

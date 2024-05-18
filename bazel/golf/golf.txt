@@ -1239,7 +1239,6 @@ gaped
 gilim
 gaper
 generalizable
-gothic
 grinned
 guejarite
 gapeworms
@@ -5811,6 +5810,7 @@ glossers
 gondi
 glossy
 goniatitoid
+gothic
 glossier
 goitered
 glossies
