@@ -6831,6 +6831,7 @@ beneficing
 broomstaff
 berate
 balaamitical
+bugling
 berline
 berliners
 berlinite
@@ -16921,7 +16922,6 @@ bugleweed
 buglewort
 buffer
 blennophlogisma
-bugling
 bugloss
 buglosses
 buzzwords
