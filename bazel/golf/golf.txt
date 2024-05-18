@@ -1075,6 +1075,7 @@ geodist
 gullibility
 ganglia
 gansel
+greylag
 gybed
 gangliectomy
 gangliest
@@ -8800,7 +8801,6 @@ guanos
 greying
 gigantoblast
 greyish
-greylag
 greylags
 gesten
 gyte
