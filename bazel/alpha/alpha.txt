@@ -12125,7 +12125,6 @@ anatomies
 alloplasmic
 anatomise
 anatomiser
-anatomising
 anatomist
 anatomists
 anatomization
@@ -17615,6 +17614,7 @@ actinoidea
 apparat
 apparatchik
 apparatchiki
+anatomising
 alcyonaria
 apparatchiks
 apparats
