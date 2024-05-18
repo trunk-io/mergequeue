@@ -10208,7 +10208,6 @@ eucti
 ethenes
 ethenic
 ethenoid
-ethenol
 ensorcelize
 exploitation
 erythromelalgia
@@ -13523,6 +13522,7 @@ exserting
 exserts
 exsheath
 endostitis
+ethenol
 exsibilation
 evadable
 exsiccant

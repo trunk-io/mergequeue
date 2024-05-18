@@ -6082,6 +6082,7 @@ geodesics
 gazing
 gardencraft
 glutamine
+gorble
 genevois
 ginkgoes
 garigue
@@ -7112,7 +7113,6 @@ glutter
 gester
 gyttja
 gremio
-gorble
 gorblin
 gorcocks
 granites
