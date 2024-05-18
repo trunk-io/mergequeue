@@ -5840,7 +5840,6 @@ bellatrix
 bellbind
 buckjump
 beaverroot
-bellbinder
 bellbine
 bullous
 batekes
@@ -8278,6 +8277,7 @@ boomerangs
 bident
 blasphemer
 beltmaker
+bellbinder
 birse
 bidental
 bigotry

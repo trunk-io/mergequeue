@@ -5604,7 +5604,6 @@ afterchurch
 afterclause
 aftercome
 aftercoming
-aftercooler
 aftercost
 aftercrop
 aftercure
@@ -14577,6 +14576,7 @@ anthropolitic
 anthropology
 anthropologic
 apostrophised
+aftercooler
 adapis
 anthropologies
 anthropologists
