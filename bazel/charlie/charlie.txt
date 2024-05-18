@@ -2078,7 +2078,6 @@ campcraft
 campe
 cryal
 camped
-campephagine
 campephilus
 camper
 channeler
@@ -6136,6 +6135,7 @@ cattleman
 carbylamine
 conhydrin
 cattlemen
+campephagine
 cattleship
 catullian
 clamshells
