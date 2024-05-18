@@ -399,6 +399,7 @@ foredenounce
 fairhead
 fairy
 fairyhood
+factualness
 foreprepare
 frigid
 futharc
@@ -2342,7 +2343,6 @@ fends
 filches
 fenestellid
 fenestellidae
-factualness
 fleuronne
 filthy
 fibrosarcoma
