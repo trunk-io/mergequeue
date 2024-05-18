@@ -3555,6 +3555,7 @@ gestes
 gussied
 gestical
 gesticulant
+gonfalon
 gesticulations
 gesticulative
 gestion
@@ -7315,7 +7316,6 @@ gamming
 gassings
 gullishness
 glycerol
-gonfalon
 gossipped
 gerrymandered
 gossipping
