@@ -2048,6 +2048,7 @@ extrastate
 elapidae
 externity
 elapids
+endognathal
 euthyneural
 elapine
 elapse
@@ -8315,7 +8316,6 @@ epitaxic
 epitaxies
 epitaxis
 egma
-endognathal
 eyelashes
 executory
 enlife
