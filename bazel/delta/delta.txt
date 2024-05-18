@@ -13795,6 +13795,7 @@ dist
 digram
 distad
 dindle
+dragonesque
 distain
 distrusting
 distaining
@@ -16607,7 +16608,6 @@ denotations
 drosophilae
 derelictness
 dispromise
-dragonesque
 daphnis
 dragonets
 decancellation
