@@ -2736,7 +2736,6 @@ genetika
 gimballed
 gurgeon
 genetoid
-genetor
 ghettoize
 genetous
 grenadines
@@ -4428,6 +4427,7 @@ gnashing
 gawked
 geopony
 geodesist
+genetor
 gingerbready
 galeopsis
 ghetto
