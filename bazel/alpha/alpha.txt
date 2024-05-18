@@ -4281,7 +4281,6 @@ adoptabilities
 adoptable
 adoptant
 adjag
-armorers
 adoptative
 abruptiones
 amalgamable
@@ -18752,6 +18751,7 @@ archaical
 aurified
 archaically
 aeroballistics
+armorers
 archaicness
 amulae
 archaise
