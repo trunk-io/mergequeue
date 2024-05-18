@@ -1501,7 +1501,6 @@ garret
 garreteer
 garryaceae
 giraffe
-garrigue
 gulravage
 germanism
 goodnight
@@ -4779,6 +4778,7 @@ gordiidae
 giros
 gyroscope
 glycolipide
+garrigue
 gyroscopes
 gyrose
 gyrostat
