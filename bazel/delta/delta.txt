@@ -10676,7 +10676,6 @@ disendower
 drownproofing
 disorganizing
 deoxidise
-disbutton
 dipneumonous
 dipneust
 dipnoans
@@ -12211,6 +12210,7 @@ disfunction
 declaratively
 dennstaedtia
 dendrochronological
+disbutton
 dysfunctional
 dysfunctioning
 disability
