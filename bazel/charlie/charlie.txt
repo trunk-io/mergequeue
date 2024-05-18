@@ -10682,6 +10682,7 @@ classical
 chymase
 countian
 curtelace
+confusability
 chimb
 chimble
 claustrophobe
@@ -22176,7 +22177,6 @@ cannonballs
 confucian
 confucianism
 confucius
-confusability
 circummured
 confused
 confusedly
