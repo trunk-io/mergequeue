@@ -8343,7 +8343,6 @@ dyakish
 diakonikon
 dissert
 dial
-dialcohol
 dialect
 dirdum
 dialectal
@@ -13463,6 +13462,7 @@ dealerdom
 disroof
 disroost
 disrooted
+dialcohol
 didymous
 disrooting
 disrout
