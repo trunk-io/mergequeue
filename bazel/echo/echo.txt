@@ -497,6 +497,7 @@ ecgonin
 ecgonine
 exarchs
 exophoric
+encephalospinal
 echappe
 echappee
 eumerogenesis
@@ -4532,7 +4533,6 @@ entoptoscope
 encephalopyosis
 encephalos
 encapsulated
-encephalospinal
 externize
 encephalothlipsis
 encephalotome
