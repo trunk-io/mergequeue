@@ -3415,7 +3415,6 @@ concertised
 caprin
 candlebeam
 cimelia
-capriola
 caprioled
 caprioles
 capriote
@@ -6812,6 +6811,7 @@ cellarers
 cellaress
 chanceable
 cellaret
+capriola
 cellarets
 caffeine
 cellarette
