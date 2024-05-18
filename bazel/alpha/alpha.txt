@@ -17857,7 +17857,6 @@ appliant
 appendectomy
 arenous
 applicability
-applicable
 androgonia
 applicableness
 applicancy
@@ -23541,6 +23540,7 @@ auras
 aurate
 aurated
 aureate
+applicable
 aureately
 aureity
 axels

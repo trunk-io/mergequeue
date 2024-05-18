@@ -4099,7 +4099,6 @@ finickin
 floweriness
 fiorin
 fiorite
-fontanel
 fluidrams
 flywheel
 fono
@@ -5273,6 +5272,7 @@ formonitrile
 flb
 fumarole
 fant
+fontanel
 fantaddish
 federacy
 forkmen
