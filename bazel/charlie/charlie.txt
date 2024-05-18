@@ -21775,6 +21775,7 @@ condos
 condottiere
 condottieri
 conduce
+coursy
 conduced
 christianogentilism
 conducer
@@ -27381,7 +27382,6 @@ coursey
 courser
 coursers
 courses
-coursy
 coformulator
 coursing
 coursings
