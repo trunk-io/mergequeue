@@ -936,6 +936,7 @@ calamancoes
 catechu
 cnidaria
 calamander
+cityish
 calamansi
 calamar
 calamary
@@ -14868,7 +14869,6 @@ citifying
 cityfolk
 citigradae
 citigrade
-cityish
 cigale
 coordinate
 cheliceral
