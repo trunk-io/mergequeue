@@ -2593,7 +2593,6 @@ decline
 decliner
 djalmaite
 declines
-declining
 daer
 declivent
 declivity
@@ -15376,6 +15375,7 @@ domification
 distoma
 decempedate
 dynamize
+declining
 dafter
 dominae
 derisions
