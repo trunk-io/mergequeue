@@ -1082,7 +1082,6 @@ expurgatory
 edibles
 edict
 edictal
-edictally
 edictum
 edicule
 edify
@@ -2229,6 +2228,7 @@ exploitive
 exode
 electricalize
 electrically
+edictally
 embryony
 electricalness
 espadrille
