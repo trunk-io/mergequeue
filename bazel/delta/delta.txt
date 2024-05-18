@@ -419,6 +419,7 @@ dairywomen
 defensory
 dayroom
 dayrooms
+derailleur
 discoursers
 dairous
 dairt
@@ -6135,7 +6136,6 @@ derail
 derailing
 dechloridizing
 demiworld
-derailleur
 derailleurs
 derailment
 determinableness
