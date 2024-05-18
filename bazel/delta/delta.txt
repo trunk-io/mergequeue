@@ -5342,7 +5342,6 @@ densimetrically
 downrightly
 density
 densitometer
-densitometric
 dhurrie
 detestable
 detinue
@@ -14713,6 +14712,7 @@ dock
 dockage
 drawglove
 dilatancy
+densitometric
 docked
 demonetized
 discutable
