@@ -13679,7 +13679,6 @@ cedarn
 cymbalist
 cymbalists
 cymballed
-cymballike
 cob
 cymballing
 cimbalom
@@ -22945,6 +22944,7 @@ cravingly
 consignifying
 causse
 consigning
+cymballike
 consignments
 consigns
 consiliary

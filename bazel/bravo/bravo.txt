@@ -5409,6 +5409,7 @@ begowned
 buyable
 benchboard
 begray
+bathyl
 barodynamic
 boodie
 begrave
@@ -9928,7 +9929,6 @@ belying
 bytes
 bitewing
 brail
-bathyl
 blastiest
 bitheism
 bisegment
