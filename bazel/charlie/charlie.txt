@@ -11512,7 +11512,6 @@ choga
 chogak
 chogset
 choy
-choiceful
 choiceless
 choicelessness
 choicely
@@ -24890,6 +24889,7 @@ coracoid
 coracoidal
 coracoids
 crocket
+choiceful
 coracomandibular
 chaumontel
 coredeeming
