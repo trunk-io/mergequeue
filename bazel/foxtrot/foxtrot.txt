@@ -8080,7 +8080,6 @@ foresummon
 fireflies
 fulminated
 fabulist
-foreswear
 foreswearing
 fichtelite
 funkiest
@@ -11507,6 +11506,7 @@ foreordained
 furzed
 flitchen
 furzeling
+foreswear
 furzy
 faunus
 farandine
