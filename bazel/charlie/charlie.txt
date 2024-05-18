@@ -6877,7 +6877,6 @@ confabbing
 celluloided
 cellulolytic
 cellulomonadeae
-cellulomonas
 cellulosed
 celluloses
 cellulosic
@@ -25589,6 +25588,7 @@ cynocrambe
 coronion
 coronis
 coronitis
+cellulomonas
 chese
 coronium
 coronobasilar

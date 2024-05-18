@@ -7196,7 +7196,6 @@ enwreath
 endopodite
 enneasyllabic
 escaped
-enwreathe
 enwreathing
 exanimate
 epileptic
@@ -10627,6 +10626,7 @@ eucharistic
 eucharistically
 eucharistized
 earthfall
+enwreathe
 enplaning
 ebbet
 enswathed
