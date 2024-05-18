@@ -9095,6 +9095,7 @@ enfant
 erythraean
 erythraemia
 exsiccate
+echinus
 erythrasma
 erythremia
 esculapian
@@ -11891,7 +11892,6 @@ excecation
 exceedable
 elutes
 exceeded
-echinus
 exceedingness
 excelente
 eucre
