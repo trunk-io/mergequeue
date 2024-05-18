@@ -3455,7 +3455,6 @@ biggah
 bastiment
 bastinaded
 baroi
-burbots
 bastinado
 bastinadoing
 basting
@@ -16763,6 +16762,7 @@ bigamously
 buddie
 buddies
 budding
+burbots
 burrito
 boswell
 buddle
