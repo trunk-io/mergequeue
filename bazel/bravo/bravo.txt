@@ -7095,7 +7095,6 @@ beslimes
 besliming
 billyer
 backsheesh
-boolies
 bepaid
 beslipper
 beslobber
@@ -9333,6 +9332,7 @@ built
 barometer
 blindman
 bipennated
+boolies
 bipenniform
 bipersonal
 bipetalous
