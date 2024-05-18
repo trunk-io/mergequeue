@@ -5829,7 +5829,6 @@ depopulating
 depopulation
 dunged
 denitrize
-depopulative
 depopulator
 deaconries
 deport
@@ -11700,6 +11699,7 @@ discotheque
 discothque
 diagramed
 discountable
+depopulative
 depoliticize
 discountenances
 discounter
