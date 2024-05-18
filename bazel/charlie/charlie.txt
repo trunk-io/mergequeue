@@ -19778,7 +19778,6 @@ catapulting
 comdia
 comdr
 come
-comeatable
 comebacker
 cymotrichous
 cumberworld
@@ -27903,6 +27902,7 @@ crabman
 crabmill
 crabs
 crabstick
+comeatable
 crabut
 crabweed
 coreid
