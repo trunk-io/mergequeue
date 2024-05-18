@@ -3037,7 +3037,6 @@ barvell
 burgundies
 beduin
 brainwashing
-bimetal
 breastplate
 bakerite
 boffola
@@ -15937,6 +15936,7 @@ bronchiolar
 bronchioli
 bronchiolitis
 bronchiolus
+bimetal
 bronchiospasm
 bronchiostenosis
 bronchitic
