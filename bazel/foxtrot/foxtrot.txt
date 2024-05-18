@@ -4358,7 +4358,6 @@ fisherman
 fisherwoman
 feinschmeckers
 fishes
-felspathose
 ferneries
 fish
 fishfinger
@@ -10871,6 +10870,7 @@ fulful
 fennici
 fulfullment
 firman
+felspathose
 fistulariidae
 fungiform
 fishpool
