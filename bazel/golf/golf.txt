@@ -5567,6 +5567,7 @@ gadean
 glissades
 groschen
 glissandi
+gteau
 glissando
 gleyde
 ganoids
@@ -9746,7 +9747,6 @@ grutched
 grutching
 gastrulae
 gizzen
-gteau
 graybearded
 guacacoa
 guacharo
