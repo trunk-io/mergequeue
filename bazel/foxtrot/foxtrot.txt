@@ -6635,7 +6635,6 @@ frogfish
 flirtier
 frequents
 focal
-featness
 focalizes
 formalize
 forwrap
@@ -8043,6 +8042,7 @@ falconnoid
 felicitates
 fairies
 faculative
+featness
 foldskirt
 formentation
 forester
