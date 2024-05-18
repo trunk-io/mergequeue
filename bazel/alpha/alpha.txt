@@ -11389,7 +11389,6 @@ amputees
 amra
 amreeta
 amrelle
-amrit
 ameerate
 amrita
 aphodus
@@ -21432,6 +21431,7 @@ anatira
 aspergillin
 adpromissor
 aspergilloses
+amrit
 aspergillosis
 aspergillum
 aseptify

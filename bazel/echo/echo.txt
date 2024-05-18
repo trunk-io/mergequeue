@@ -5245,6 +5245,7 @@ endoscope
 enfortune
 exostema
 endomysium
+enablers
 endoscopes
 endoscopic
 endoscopies
@@ -8744,7 +8745,6 @@ equipped
 electrostereotype
 equiprobability
 equiprobable
-enablers
 equiproportional
 equiproportionality
 equiseta
