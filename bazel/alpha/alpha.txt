@@ -4332,6 +4332,7 @@ adornation
 adorned
 adorners
 algaesthesis
+acidyl
 adornment
 armamentaria
 adornments
@@ -8093,7 +8094,6 @@ apposed
 alga
 algae
 algaecide
-acidyl
 algaeological
 acephalism
 ascot
