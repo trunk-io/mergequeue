@@ -1423,7 +1423,6 @@ antiprotozoal
 acceptavit
 armonica
 accepted
-acceptee
 acceptees
 accepter
 acceptilated
@@ -3025,6 +3024,7 @@ axisymmetric
 appalment
 actinian
 aguilarite
+acceptee
 ashless
 actinians
 antozonite
