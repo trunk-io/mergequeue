@@ -11453,7 +11453,6 @@ amusement
 anagennesis
 amusements
 amusers
-attractors
 authenticators
 amarelles
 amusette
@@ -21586,6 +21585,7 @@ asquare
 atrienses
 asquat
 asqueal
+attractors
 approvable
 aenean
 authorcraft
