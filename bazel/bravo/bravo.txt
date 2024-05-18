@@ -4418,7 +4418,6 @@ blacklead
 brassylic
 becaps
 balanite
-becard
 becarpeted
 becarpeting
 balancer
@@ -14680,6 +14679,7 @@ brauneria
 bullwork
 bobbling
 braunite
+becard
 braunites
 bonbonniere
 baluchistan
