@@ -1841,7 +1841,6 @@ bandala
 bandana
 buggery
 bandanaed
-bedgown
 bisectional
 bandannaed
 bandar
@@ -7552,6 +7551,7 @@ betrayed
 bequeathment
 bimarginate
 beknit
+bedgown
 betrayers
 betraying
 broodlet

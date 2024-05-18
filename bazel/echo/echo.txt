@@ -4152,7 +4152,6 @@ every
 ensconce
 employments
 ensured
-epopt
 entombments
 euphonical
 emplore
@@ -7906,6 +7905,7 @@ ejectum
 exululate
 epil
 endamaged
+epopt
 epilabra
 epilate
 econ
