@@ -3708,7 +3708,6 @@ aracari
 adenologaditis
 adenology
 adenological
-adenomalacia
 argolet
 adenomatome
 adenomycosis
@@ -13954,6 +13953,7 @@ ansarie
 aerobium
 anseis
 anselm
+adenomalacia
 anser
 autocephaly
 anserated
