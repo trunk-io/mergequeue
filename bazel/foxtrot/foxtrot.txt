@@ -196,7 +196,6 @@ flateria
 feoffed
 friskest
 flaky
-finitary
 factoring
 factoryship
 fuzzed
@@ -2525,6 +2524,7 @@ founders
 fermillet
 frenchless
 ferrotypes
+finitary
 flexity
 falsen
 fermions
