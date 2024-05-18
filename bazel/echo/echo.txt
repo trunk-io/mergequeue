@@ -3329,7 +3329,6 @@ escrod
 embarge
 emphase
 entablement
-embargo
 embargoed
 embargoes
 expansional
@@ -13995,6 +13994,7 @@ extrasomatic
 extraspectral
 extraspinal
 electromotive
+embargo
 eco
 enteroclisis
 expositoriness
