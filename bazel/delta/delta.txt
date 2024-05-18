@@ -10419,7 +10419,6 @@ diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
 diospyros
-diaphoretic
 diphenylene
 diphenylenimine
 ditcher
@@ -18132,6 +18131,7 @@ distinctionless
 directoral
 dumontia
 dumose
+diaphoretic
 domiciliation
 dumosity
 dumpage
