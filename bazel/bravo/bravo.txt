@@ -1941,6 +1941,7 @@ bandsawn
 bandsman
 bandspreading
 bandstand
+beacon
 boronia
 beraked
 bandstands
@@ -4027,7 +4028,6 @@ buenas
 beachmen
 blinky
 beachwear
-beacon
 beaconage
 berchta
 beaconless
