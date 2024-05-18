@@ -11786,7 +11786,6 @@ bobbles
 bock
 bigamists
 bockey
-bocoy
 bod
 boeotarch
 bodach
@@ -16661,6 +16660,7 @@ bucketfull
 bucketmaker
 bucketmaking
 begoggled
+bocoy
 buckets
 bakhtiari
 basilisk
