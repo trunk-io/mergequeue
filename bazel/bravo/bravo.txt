@@ -620,7 +620,6 @@ bacteriemia
 bacteriform
 bacterin
 borofluoric
-bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
 bacteriocin
@@ -16290,6 +16289,7 @@ bleareyed
 behears
 bruisingly
 bruit
+bacterioagglutinin
 bullroarer
 bruited
 baduhenna
