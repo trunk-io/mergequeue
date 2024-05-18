@@ -14335,7 +14335,6 @@ alegars
 anthela
 amphipodan
 anthelia
-aramaean
 anthelices
 anthelion
 anthelix
@@ -17220,6 +17219,7 @@ apodyterium
 apodoses
 apodosis
 apods
+aramaean
 apoembryony
 apoenzyme
 adsorbents
