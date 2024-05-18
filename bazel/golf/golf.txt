@@ -725,6 +725,7 @@ goneril
 galop
 galopade
 grad
+gulllike
 grammies
 garnierite
 guidership
@@ -9425,7 +9426,6 @@ grounders
 groundhog
 groundy
 guar
-gulllike
 gunnies
 groundlessly
 guacharos
