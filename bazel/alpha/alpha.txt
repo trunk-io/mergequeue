@@ -12789,7 +12789,6 @@ anthocerotales
 angioleucitis
 agisted
 angiolith
-angioma
 angiomalacia
 angiomas
 angiomatosis
@@ -23729,6 +23728,7 @@ austerest
 afterguns
 austerities
 austerlitz
+angioma
 auriphrygiate
 apposite
 amidothiazole
