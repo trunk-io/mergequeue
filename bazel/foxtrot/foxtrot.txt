@@ -4888,7 +4888,6 @@ flitch
 forwards
 fibbing
 fchar
-fractabling
 flamen
 fulfil
 fetologist
@@ -6649,6 +6648,7 @@ fashes
 floscularia
 floodlighting
 funds
+fractabling
 fancymonger
 focusless
 focussed
