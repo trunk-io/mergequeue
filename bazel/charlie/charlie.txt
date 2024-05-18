@@ -2346,7 +2346,6 @@ cancelers
 cancellability
 cancellable
 cancellarius
-cancellate
 cancellation
 chinois
 corynite
@@ -4046,6 +4045,7 @@ cardialgy
 coevals
 centaurian
 cardialgia
+cancellate
 calla
 cardiameter
 chlorotic
