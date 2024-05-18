@@ -915,7 +915,6 @@ gonagia
 gamelans
 gameless
 gentian
-gamelike
 goracco
 gadids
 gynecomazia
@@ -10701,6 +10700,7 @@ gussies
 gazzetta
 gonopodia
 gladiolus
+gamelike
 gairfish
 gustables
 gustard
