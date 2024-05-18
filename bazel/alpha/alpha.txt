@@ -504,6 +504,7 @@ arabizes
 ablactated
 aerides
 ablastin
+advisories
 ablastous
 ablated
 ablates
@@ -4698,7 +4699,6 @@ adviso
 adlumine
 amatungula
 advisor
-advisories
 articulant
 advisorily
 advisors
