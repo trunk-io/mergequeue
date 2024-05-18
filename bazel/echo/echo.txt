@@ -5987,7 +5987,6 @@ enjamb
 euthyneurous
 exculpate
 enlarging
-enlargingly
 extruders
 escheated
 enlaurel
@@ -13828,6 +13827,7 @@ evaporize
 ethionic
 experienceable
 educators
+enlargingly
 extractability
 extractable
 eluated
