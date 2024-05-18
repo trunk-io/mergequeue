@@ -4103,6 +4103,7 @@ emplanement
 entoilment
 endoute
 emplanes
+expatriations
 emplaster
 elevating
 emplastic
@@ -6161,7 +6162,6 @@ enosis
 enosises
 educative
 eviller
-expatriations
 enosist
 enostosis
 europeanize
