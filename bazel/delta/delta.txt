@@ -3799,7 +3799,6 @@ dehonestation
 disoccupied
 dehorn
 downfeed
-desmose
 dehorner
 diplography
 dehorners
@@ -10344,6 +10343,7 @@ dioptrometry
 diorama
 denizening
 dioramas
+desmose
 diophantine
 driftpiece
 dowsing
