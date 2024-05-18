@@ -19553,7 +19553,6 @@ archapostate
 argillite
 argilloferruginous
 argilloid
-argillous
 argylls
 arkab
 argin
@@ -23131,6 +23130,7 @@ apiculture
 attila
 attinge
 attingency
+argillous
 attingent
 attirail
 anisognathous
