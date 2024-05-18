@@ -2368,7 +2368,6 @@ greyfish
 goles
 gelatine
 glucoprotein
-gharial
 gerastian
 gignate
 grundlov
@@ -5935,6 +5934,7 @@ grimmia
 glowworms
 ghastfulness
 gloxinia
+gharial
 gloxinias
 glozed
 glozes
