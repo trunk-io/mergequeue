@@ -3991,7 +3991,6 @@ analphabetism
 amalgamating
 adjoiner
 adjoiningness
-adjoins
 androgonium
 adjoint
 adjoints
@@ -16796,6 +16795,7 @@ avie
 aph
 antilogical
 asserters
+adjoins
 aphacia
 aphacial
 alcaides
