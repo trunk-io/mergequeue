@@ -10040,7 +10040,6 @@ ambitendencies
 analysability
 ambitendent
 ambition
-ambitioning
 ambitions
 ambitiously
 ambitiousness
@@ -12129,6 +12128,7 @@ anatomists
 anatomization
 anatomize
 anatomized
+ambitioning
 anatomizer
 abduced
 anatomizing
