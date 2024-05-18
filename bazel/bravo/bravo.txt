@@ -9835,6 +9835,7 @@ boatels
 bioenergetics
 basilosaurus
 boatie
+boathouse
 byssogenous
 byssoid
 blurring
@@ -11640,7 +11641,6 @@ boatbuilding
 boatel
 boatheader
 boathook
-boathouse
 boatyard
 backbends
 boating
