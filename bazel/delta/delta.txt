@@ -1067,7 +1067,6 @@ darted
 darters
 dartingly
 dartled
-dartlike
 dartling
 divisibleness
 dissecting
@@ -2905,6 +2904,7 @@ discrepant
 decumanus
 dolomitised
 diskos
+dartlike
 discretively
 decumary
 decumbency
