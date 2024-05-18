@@ -8203,7 +8203,6 @@ grappler
 grapples
 gawks
 griefs
-goas
 gallah
 genonema
 grappling
@@ -9705,6 +9704,7 @@ grapestone
 grumped
 grf
 gorged
+goas
 grumph
 grumphy
 grumphie

@@ -7270,6 +7270,7 @@ fakeers
 frozenness
 floorboards
 fameuse
+fictitiously
 footstall
 footstock
 fortlet
@@ -8404,7 +8405,6 @@ formalities
 formalizable
 formalization
 formalizations
-fictitiously
 formerness
 formalized
 formalizer
