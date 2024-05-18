@@ -16707,7 +16707,6 @@ chocolaty
 cotypes
 clothespins
 clothespresses
-clothy
 clothiers
 clothilda
 clothing
@@ -22240,6 +22239,7 @@ congeneric
 congenerical
 cynthian
 congenerous
+clothy
 congeners
 congenial
 commiserative
