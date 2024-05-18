@@ -1797,6 +1797,7 @@ acipenserid
 accusants
 accusation
 accusations
+augurial
 accusatively
 accusativeness
 accusatives
@@ -19525,7 +19526,6 @@ argentometric
 argentometrically
 argentose
 alexins
-augurial
 argentry
 abbest
 argents
