@@ -7924,7 +7924,6 @@ epilepsies
 epileptical
 epileptically
 epileptiform
-epileptogenous
 epileptoid
 epileptology
 exotospore
@@ -11587,6 +11586,7 @@ evocative
 eupnea
 elenchus
 encodement
+epileptogenous
 eremiteship
 epitoxoid
 ernest
