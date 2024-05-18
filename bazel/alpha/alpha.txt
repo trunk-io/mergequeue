@@ -4937,7 +4937,6 @@ aerobics
 aerobiological
 aerobiologically
 aerobiologist
-amidase
 aerobiont
 aerobioscope
 aerobiosis
@@ -25048,6 +25047,7 @@ antihydrophobic
 awoke
 arcanal
 awoken
+amidase
 awols
 awork
 aworry
