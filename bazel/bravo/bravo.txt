@@ -2142,7 +2142,6 @@ banterers
 bantery
 boxfishes
 biotechnologies
-boiler
 bantering
 banteringly
 banty
@@ -15860,6 +15859,7 @@ brominize
 bromios
 breezing
 bromising
+boiler
 bendlet
 brionies
 broomball
