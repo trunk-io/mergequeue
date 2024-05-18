@@ -1068,7 +1068,6 @@ guelphish
 ganger
 gangerel
 guesten
-gride
 goffle
 ganging
 genthite
@@ -8385,6 +8384,7 @@ graupels
 grauwacke
 gymnotoka
 gammadia
+gride
 grizzlyman
 gulpin
 gonangiums
