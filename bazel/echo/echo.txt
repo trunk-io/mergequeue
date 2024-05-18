@@ -4726,7 +4726,6 @@ essonite
 enclisis
 enclitical
 endosmosic
-encycl
 encloak
 exploratory
 eclipsis
@@ -5488,6 +5487,7 @@ effector
 enfasten
 episporangium
 everywhence
+encycl
 enfatico
 enfavor
 enfeeble
