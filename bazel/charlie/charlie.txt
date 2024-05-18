@@ -16640,7 +16640,6 @@ closable
 close
 closeable
 closecross
-closed
 closedown
 closefistedly
 closefistedness
@@ -21001,6 +21000,7 @@ compulsed
 cushlamochree
 calciphobe
 culex
+closed
 compulsion
 compulsitor
 compulsively
