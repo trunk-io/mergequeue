@@ -8783,7 +8783,6 @@ chantey
 chanteyman
 chantepleure
 chanterelle
-cabinetmake
 chanters
 coinhering
 chantership
@@ -25250,6 +25249,7 @@ corynine
 cotillions
 coft
 corinna
+cabinetmake
 corinne
 corynocarpaceous
 corynocarpus
