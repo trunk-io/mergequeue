@@ -4982,6 +4982,7 @@ bedrock
 beeherd
 bouncing
 beehive
+befuddlements
 beehives
 breakfaster
 beeish
@@ -11526,7 +11527,6 @@ blunted
 balon
 bn
 blunthead
-befuddlements
 blunthearted
 bannerer
 badinaged
