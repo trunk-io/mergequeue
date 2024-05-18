@@ -2268,7 +2268,6 @@ backhanded
 barbarisms
 bronstrops
 barbarity
-barbarities
 barbarization
 breedling
 brigid
@@ -11508,6 +11507,7 @@ blumea
 blumes
 blunder
 benighting
+barbarities
 blunderbuss
 blunderbusses
 bestare
