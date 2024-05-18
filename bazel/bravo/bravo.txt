@@ -4418,7 +4418,6 @@ blacklead
 brassylic
 becaps
 balanite
-becard
 becarpeted
 becarpeting
 balancer
@@ -7869,6 +7868,7 @@ bhistie
 bagh
 bhisties
 bhojpuri
+becard
 botchery
 brim
 burgoos
