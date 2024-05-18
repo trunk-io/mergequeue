@@ -13376,7 +13376,6 @@ cycloidotrope
 cesura
 cycloids
 cyclolysis
-cycloloma
 commandeering
 cyclomania
 cyclometer
@@ -27165,6 +27164,7 @@ coverage
 cardicentesis
 counterstand
 counterstep
+cycloloma
 chapman
 counterstimulate
 counterstimulation
