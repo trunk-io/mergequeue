@@ -6900,7 +6900,6 @@ consultee
 celotomies
 clonks
 celsia
-celsian
 celt
 comnenian
 celtiberi
@@ -30785,6 +30784,7 @@ corrodes
 cullionly
 cullionry
 cullisance
+celsian
 cannibalish
 cullises
 culls
