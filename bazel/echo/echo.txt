@@ -5117,7 +5117,6 @@ electroballistician
 epibranchial
 endogenae
 euplocomi
-echeloning
 endogenesis
 exorate
 endogenicity
@@ -6529,6 +6528,7 @@ edgewise
 entendre
 enchant
 entendres
+echeloning
 epitomatory
 essayish
 epidermophytosis
