@@ -1888,7 +1888,6 @@ acephalus
 atridean
 argonautic
 acequia
-acequias
 acer
 aceraceous
 acerae
@@ -22494,6 +22493,7 @@ aspartyl
 ateles
 amnemonic
 antidromy
+acequias
 atelestite
 atelets
 atelier
