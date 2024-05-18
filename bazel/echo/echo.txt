@@ -987,6 +987,7 @@ edaphosauria
 edaphosaurid
 edaphosaurus
 explosibility
+epoxide
 emblazing
 edder
 episcopable
@@ -6568,7 +6569,6 @@ elelments
 endothecate
 enterobacterial
 eosinophilia
-epoxide
 egretta
 enterobiliary
 enterrologist
