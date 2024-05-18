@@ -22276,6 +22276,7 @@ astrocytoma
 astrocytomas
 ailerons
 asperger
+algogenic
 astrocompass
 astrodiagnosis
 astrodynamic
@@ -22338,7 +22339,6 @@ astromancy
 astromantic
 astromeda
 astrometeorology
-algogenic
 astrometeorological
 ancestrial
 allegorization
