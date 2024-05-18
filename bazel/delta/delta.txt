@@ -13253,7 +13253,6 @@ dislikelihood
 dispossess
 dispossessed
 dispossession
-dispossessor
 debasers
 dispossessory
 driblets
@@ -14683,6 +14682,7 @@ docetistic
 docetize
 dochmiacal
 dochmiasis
+dispossessor
 docibility
 docibleness
 docile
