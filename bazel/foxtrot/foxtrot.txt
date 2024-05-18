@@ -3164,6 +3164,7 @@ forechoice
 fibrocyst
 fibrocystoma
 formulas
+fard
 fibrocyte
 flaunter
 fibrocytic
@@ -8511,7 +8512,6 @@ forthcall
 formoxime
 forms
 formulae
-fard
 fulgid
 foggy
 frizzling

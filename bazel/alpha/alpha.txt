@@ -6985,7 +6985,6 @@ aln
 airview
 airway
 airwayman
-armless
 airwards
 adirondack
 airwave
@@ -11052,6 +11051,7 @@ abstinent
 ampersand
 adages
 ampersands
+armless
 amphanthia
 amphanthium
 ampherotoky
