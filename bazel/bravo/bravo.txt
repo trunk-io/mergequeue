@@ -1473,7 +1473,6 @@ balkis
 backbiter
 boyarisms
 blighter
-balkish
 baryton
 beggar
 boroglycerate
@@ -7210,6 +7209,7 @@ botanized
 bespeaking
 bespeaks
 bespecked
+balkish
 backrun
 bespeckle
 banner
