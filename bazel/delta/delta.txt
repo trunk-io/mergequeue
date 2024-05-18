@@ -8542,7 +8542,6 @@ diane
 dianetics
 divider
 dianil
-dianilid
 dilate
 dianilide
 dislip
@@ -15367,6 +15366,7 @@ domiciles
 domiciliar
 domiciliate
 domiciliated
+dianilid
 domiciliating
 domify
 deutocarbonate
