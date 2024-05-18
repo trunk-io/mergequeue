@@ -345,7 +345,6 @@ fusses
 fortypenny
 faineance
 foredeck
-faineantism
 fainest
 fainly
 fuseboard
@@ -9098,6 +9097,7 @@ fowls
 fringillid
 fabrique
 fhrer
+faineantism
 fix
 fleetwing
 fidele
