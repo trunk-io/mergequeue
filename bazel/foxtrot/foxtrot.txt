@@ -382,6 +382,7 @@ ferrymen
 fearer
 filicauline
 filator
+felsites
 faintness
 faints
 feltings
@@ -2220,7 +2221,6 @@ felonwort
 feriae
 fraela
 flatterdock
-felsites
 fraudproof
 fligger
 femorocele
