@@ -4312,7 +4312,6 @@ firstlings
 flavius
 fiscal
 frankable
-festivous
 fairyism
 fourflusher
 freeboot
@@ -9493,6 +9492,7 @@ filum
 floccilation
 fraternally
 fraternisation
+festivous
 fraternised
 fraternism
 firry

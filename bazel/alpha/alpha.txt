@@ -1697,7 +1697,6 @@ accrediting
 accredits
 aeraria
 accresce
-accrescence
 accrescendi
 accrescendo
 accretal
@@ -17258,6 +17257,7 @@ aftertax
 apokatastasis
 argyric
 abstracting
+accrescence
 antiserum
 anchoring
 armrest
