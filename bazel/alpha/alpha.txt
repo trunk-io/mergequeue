@@ -7451,7 +7451,6 @@ alienate
 albetad
 albi
 albian
-albicans
 albicant
 albicore
 albicores
@@ -15557,6 +15556,7 @@ armed
 antimethodical
 antimethodicalness
 antimetrical
+albicans
 alone
 acrodonts
 antimetropia
