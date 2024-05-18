@@ -13916,7 +13916,6 @@ boxbush
 boxcar
 bonify
 boxcars
-bowpin
 billete
 boxed
 blent
@@ -15373,6 +15372,7 @@ bedote
 brilliantined
 beiges
 bullule
+bowpin
 brilliantly
 bayonet
 brilliants
