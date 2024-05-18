@@ -2810,7 +2810,6 @@ blasphemers
 baroswitch
 barotaxy
 barotaxis
-barothermogram
 bitis
 babuls
 barothermograph
@@ -17639,6 +17638,7 @@ burgesses
 burggrave
 bello
 burghbote
+barothermogram
 burgher
 burgherage
 beguine
