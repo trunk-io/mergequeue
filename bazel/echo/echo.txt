@@ -1630,7 +1630,6 @@ egressed
 egresses
 estadal
 exiler
-expounded
 eminency
 egret
 egritude
@@ -4186,6 +4185,7 @@ empowerment
 ecumenics
 emprent
 empresa
+expounded
 empress
 esbay
 earthlight
