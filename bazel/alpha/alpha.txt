@@ -1892,7 +1892,6 @@ acequia
 acequias
 acer
 aceraceous
-acerae
 acerate
 acerated
 acerathere
@@ -5528,6 +5527,7 @@ arrhinia
 agenesic
 aforetimes
 ascogonial
+acerae
 aphelops
 afortiori
 anisocycle
