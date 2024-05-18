@@ -42,7 +42,6 @@ flamberge
 fabricators
 fabricature
 filters
-futurities
 fuddledness
 fabronia
 fabroniaceae
@@ -2523,6 +2522,7 @@ fermentive
 foxie
 falk
 fermerer
+futurities
 fermery
 ferrohydrocyanic
 futility
