@@ -8292,6 +8292,7 @@ bivalencies
 bloodthirsting
 bohawn
 bielbrief
+braving
 bloodbird
 bateaux
 bieldy
@@ -14701,7 +14702,6 @@ bravers
 braves
 bravi
 bayoneted
-braving
 bravissimo
 bigram
 bravoes
