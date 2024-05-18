@@ -6547,6 +6547,7 @@ benzophenone
 benzophenothiazine
 benzophloroglucinol
 benzophthalazine
+bioxide
 benzopyran
 briton
 breakup
@@ -9309,7 +9310,6 @@ biotransformation
 biotron
 bachelorize
 bioxalate
-bioxide
 barrett
 bethabara
 bipacks
