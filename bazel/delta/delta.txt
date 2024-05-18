@@ -9918,7 +9918,6 @@ diphosgene
 diminishment
 diminishments
 dulcet
-dehorned
 diminuendoed
 diminuendoes
 diminuendos
@@ -10853,6 +10852,7 @@ dirgie
 diriment
 dirhams
 dirhem
+dehorned
 dirhinous
 dirian
 dirichletian
