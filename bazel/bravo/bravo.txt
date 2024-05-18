@@ -2339,7 +2339,6 @@ baobab
 bears
 barbican
 bridgemaker
-barbicanage
 bathyscape
 barbicel
 barbicels
@@ -7475,6 +7474,7 @@ bethels
 bigly
 bethesda
 biangular
+barbicanage
 bucking
 bethesdas
 bethflower
