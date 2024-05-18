@@ -4431,7 +4431,6 @@ fishwood
 fishworker
 fishworks
 fringilliformes
-furze
 fishworm
 fisnoga
 fissidentaceous
@@ -5579,6 +5578,7 @@ fascinations
 flutebird
 flightier
 foreglance
+furze
 foster
 flightily
 flightiness
