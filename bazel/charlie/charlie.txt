@@ -9229,6 +9229,7 @@ chasable
 chase
 chaseable
 chased
+cosmologies
 corbeilles
 chronobarometer
 chasers
@@ -11003,7 +11004,6 @@ chironomidae
 caissoned
 coinhabit
 chironomus
-cosmologies
 curlicuing
 chiroplasty
 coistrels
