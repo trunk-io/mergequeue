@@ -7116,7 +7116,6 @@ enventual
 enverdure
 edicts
 expansometer
-enemy
 epiplexis
 ergotamine
 explants
@@ -10374,6 +10373,7 @@ ethiopia
 ethiopian
 enzymologies
 ethysulphuric
+enemy
 ethize
 ethmyphitis
 equitability
