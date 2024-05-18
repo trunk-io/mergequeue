@@ -9371,6 +9371,7 @@ brownie
 bernoo
 berend
 biplane
+benefactory
 bobolink
 biplanes
 biplicate
@@ -14234,7 +14235,6 @@ braeface
 boarding
 bandfiling
 braehead
-benefactory
 begoud
 bouillon
 begrudger
