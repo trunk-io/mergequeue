@@ -8811,6 +8811,7 @@ drinkable
 decke
 diazoalkane
 demimondaines
+digestor
 depeter
 diazoaminobenzene
 diazohydroxide
@@ -9485,7 +9486,6 @@ dermad
 domically
 discountenance
 digestment
-digestor
 digestory
 denationalizing
 decide
