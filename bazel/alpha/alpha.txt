@@ -2947,7 +2947,6 @@ acronymizing
 adessive
 acronyms
 adenomyxoma
-ancylopoda
 acroparalysis
 anilopyrine
 amidopyrine
@@ -14663,6 +14662,7 @@ agentival
 anthropoteleoclogy
 anthropotheist
 anthropotheistic
+ancylopoda
 anthropotomy
 anthropotomical
 antidiphtherin
