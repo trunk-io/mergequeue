@@ -7267,7 +7267,6 @@ footslogged
 footslogger
 fuseau
 finnmarks
-fantastic
 forecasts
 fakeers
 frozenness
@@ -9350,6 +9349,7 @@ firmans
 frances
 franchise
 franchisee
+fantastic
 franchisees
 foulings
 fertil
