@@ -14905,7 +14905,6 @@ cytoarchitectural
 cytoblast
 confidences
 cytoblastema
-cytoblastemal
 caseless
 cytoblastemic
 cytoblastemous
@@ -23940,6 +23939,7 @@ contumelious
 contund
 contune
 conturb
+cytoblastemal
 contuse
 contused
 casinos
