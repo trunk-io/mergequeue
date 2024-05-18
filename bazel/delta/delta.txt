@@ -670,6 +670,7 @@ deafen
 dampening
 dampens
 dampers
+doggishness
 dampishly
 dampne
 disseminate
@@ -15008,7 +15009,6 @@ doggies
 demoiselle
 doggish
 deads
-doggishness
 doggle
 doggo
 distinguisher
