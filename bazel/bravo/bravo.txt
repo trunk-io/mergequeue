@@ -5729,7 +5729,6 @@ bacchar
 britten
 belderroot
 bombazeen
-bombline
 bodgie
 beleaguered
 beleaguering
@@ -12313,6 +12312,7 @@ biopsies
 bombardment
 bombardments
 bylaws
+bombline
 bombardo
 bowdrill
 bombast
