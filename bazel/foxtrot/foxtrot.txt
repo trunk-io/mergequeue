@@ -2610,7 +2610,6 @@ ferryboats
 familistery
 ferricyanate
 fella
-ferrandin
 furiosity
 ferricyanide
 ferrihydrocyanic
@@ -8715,6 +8714,7 @@ forefin
 fraenular
 fortnights
 fortran
+ferrandin
 feck
 fortranh
 fortravail
