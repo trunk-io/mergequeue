@@ -4992,7 +4992,6 @@ ferries
 fedelini
 forekeel
 forehatchway
-flannels
 flanque
 faconne
 flapdock
@@ -7018,6 +7017,7 @@ fumeless
 forgot
 fondles
 fondlesome
+flannels
 fondly
 flop
 flurr
