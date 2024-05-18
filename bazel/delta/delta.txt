@@ -595,7 +595,6 @@ drawboy
 damie
 devonport
 damine
-dodunk
 drek
 disaffection
 dedolomitized
@@ -7352,6 +7351,7 @@ deterrence
 deterrent
 deterrently
 deterrents
+dodunk
 djelfa
 daylighting
 detersiveness
