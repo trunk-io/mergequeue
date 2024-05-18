@@ -10783,7 +10783,6 @@ diquat
 dir
 diradiation
 dircaean
-dirdums
 dire
 direcly
 directable
@@ -17082,6 +17081,7 @@ drycoal
 diceratidae
 dismally
 diclinies
+dirdums
 diaplexus
 disaffected
 driddle
