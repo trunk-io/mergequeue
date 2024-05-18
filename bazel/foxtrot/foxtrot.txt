@@ -5457,6 +5457,7 @@ feynesses
 fleuret
 filionymic
 fleurette
+franciscan
 financier
 furmint
 flapdragon
@@ -10876,7 +10877,6 @@ furores
 fishpool
 facies
 fulgency
-franciscan
 fabledom
 fulgentness
 fulgidity
