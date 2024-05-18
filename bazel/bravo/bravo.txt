@@ -10544,6 +10544,7 @@ blastid
 blasting
 borolanite
 blastings
+blickey
 blastman
 blastocarpous
 blastocele
@@ -11382,7 +11383,6 @@ blowzing
 bls
 badgerbrush
 blub
-blickey
 blubbed
 blubber
 bhar
