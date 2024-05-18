@@ -2085,7 +2085,6 @@ elastica
 extrapolator
 epictetian
 elastically
-exanthematic
 emberiza
 elastician
 elasticity
@@ -6804,6 +6803,7 @@ entoblastic
 entobronchium
 entocalcaneal
 entocarotid
+exanthematic
 eelgrass
 entocyemate
 epistolizing
