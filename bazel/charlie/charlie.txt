@@ -4708,6 +4708,7 @@ carpetbags
 carpeted
 counterearth
 coumarou
+cybister
 chlamydospore
 cellarway
 carpeting
@@ -20386,7 +20387,6 @@ comose
 comourn
 comourner
 comournful
-cybister
 ceratiidae
 comox
 comp
