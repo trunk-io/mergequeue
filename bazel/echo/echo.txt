@@ -2378,7 +2378,6 @@ electrodialyze
 ethanim
 ecospecies
 electrodynamic
-excoriates
 electrodynamics
 electrodiplomatic
 eumenidean
@@ -3524,6 +3523,7 @@ embordering
 epidesmine
 emboscata
 embosked
+excoriates
 embosks
 electral
 exclusionary
