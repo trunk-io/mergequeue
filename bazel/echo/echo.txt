@@ -6771,7 +6771,6 @@ experiencible
 eta
 enthusiastly
 excursionary
-enticements
 exorbitantly
 earwiggy
 enticer
@@ -8756,6 +8755,7 @@ equiseta
 escopet
 equisetaceous
 epicondylar
+enticements
 epiphysis
 ecstatics
 equisetales
