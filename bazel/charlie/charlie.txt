@@ -10010,7 +10010,6 @@ chenopodiales
 chenopodium
 chenopods
 cheoplastic
-chepster
 chequebook
 chequer
 chequered
@@ -30156,6 +30155,7 @@ crude
 crudely
 coregonus
 crudes
+chepster
 crudest
 conto
 crudy
