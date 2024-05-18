@@ -2137,6 +2137,7 @@ externalism
 elb
 elbert
 entrances
+enscene
 elbowy
 elbowpiece
 elbowroom
@@ -12026,7 +12027,6 @@ excite
 emanation
 extraction
 excited
-enscene
 excitedly
 exterminates
 eulytin
