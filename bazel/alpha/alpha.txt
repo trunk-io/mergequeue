@@ -946,6 +946,7 @@ absolvatory
 alioth
 absolve
 absolved
+andantes
 absolvent
 absolves
 absolving
@@ -10309,7 +10310,6 @@ amenorrhoeal
 aeronauts
 adiaphorous
 ament
-andantes
 amentaceous
 amental
 arundineous
