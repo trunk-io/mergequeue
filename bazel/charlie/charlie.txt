@@ -9821,7 +9821,6 @@ chelys
 cydon
 chellean
 cheloids
-cutinizing
 chelonia
 chelonian
 cheloniid
@@ -20256,6 +20255,7 @@ colonises
 commonweals
 commorancy
 commorancies
+cutinizing
 curviform
 commorient
 commorse
