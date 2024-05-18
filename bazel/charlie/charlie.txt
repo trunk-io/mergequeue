@@ -6606,7 +6606,6 @@ cecilite
 cecity
 cystoureteritis
 cecitis
-cecograph
 cecomorphae
 cecomorphic
 cecopexy
@@ -20213,6 +20212,7 @@ canfieldite
 commodity
 commodities
 commodores
+cecograph
 commoigne
 cuticulae
 catchpolery
