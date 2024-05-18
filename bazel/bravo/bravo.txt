@@ -1341,7 +1341,6 @@ bioplastic
 balboas
 barrowcoat
 botrylle
-bulgarian
 balbusard
 butterbump
 balconette
@@ -16847,6 +16846,7 @@ butut
 betas
 balkline
 buffing
+bulgarian
 bufflehead
 buffone
 buffont
