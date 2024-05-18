@@ -235,7 +235,6 @@ foregone
 firelock
 facultatively
 faculty
-font
 faculties
 frostbound
 furbisher
@@ -5936,6 +5935,7 @@ foolhardily
 flunkyhood
 fraudlessness
 flooding
+font
 floodlet
 floodlight
 francis
