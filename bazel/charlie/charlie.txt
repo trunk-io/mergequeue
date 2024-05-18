@@ -5529,7 +5529,6 @@ catafalques
 catagenetic
 catagmatic
 catakinetic
-catakinetomer
 catakinomeric
 catalanganes
 corporeality
@@ -7719,6 +7718,7 @@ contrabass
 ceremonies
 ceremonious
 ceremoniousness
+catakinetomer
 counterpoint
 congregates
 cereous
