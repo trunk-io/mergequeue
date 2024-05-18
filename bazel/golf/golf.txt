@@ -3259,7 +3259,6 @@ guarantee
 gagate
 galban
 gerah
-geraniales
 glommox
 grewsome
 geranic
@@ -7539,6 +7538,7 @@ germing
 ginnery
 generationism
 gpm
+geraniales
 gps
 glycosaemia
 gies
