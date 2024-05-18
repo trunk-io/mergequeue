@@ -5772,6 +5772,7 @@ endict
 evans
 eulerian
 engrammatic
+evident
 encashes
 engramme
 engrammes
@@ -11549,7 +11550,6 @@ evidence
 evidences
 evidencing
 ethicophysical
-evident
 ergasterion
 ejaculation
 evidential

@@ -1142,6 +1142,7 @@ glares
 gangwa
 grenadilla
 galleys
+glazing
 gulley
 gamed
 genitives
@@ -5247,7 +5248,6 @@ glazes
 gullible
 grueling
 geulah
-glazing
 glb
 glorioles
 gerodontia
