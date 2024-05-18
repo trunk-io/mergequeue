@@ -1743,7 +1743,6 @@ bankside
 balsamitic
 balsamiticness
 balsamorrhiza
-balsamroot
 balsams
 boozing
 bruise
@@ -10735,6 +10734,7 @@ brabbles
 blearing
 blearness
 blears
+balsamroot
 bespurt
 bleat
 bleated
