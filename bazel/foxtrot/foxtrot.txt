@@ -80,6 +80,7 @@ fisticuffs
 faces
 facesaving
 facet
+flattening
 frizettes
 foresaying
 faceted
@@ -5116,7 +5117,6 @@ favi
 faceting
 flatted
 flimp
-flattening
 flattercap
 fremdly
 fragmentized
