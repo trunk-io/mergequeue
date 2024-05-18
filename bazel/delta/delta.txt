@@ -10401,6 +10401,7 @@ dipartite
 dipartition
 dominicks
 dermatoma
+desugar
 dekkos
 dipchick
 dipcoat
@@ -10540,7 +10541,6 @@ dungbird
 determinateness
 dipleurogenesis
 defected
-desugar
 dep
 dimeric
 devot
