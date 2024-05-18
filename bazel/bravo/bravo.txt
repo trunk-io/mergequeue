@@ -2448,6 +2448,7 @@ bare
 bareback
 bareboat
 borderside
+beneficing
 bareboats
 barrener
 bareboned
@@ -6829,7 +6830,6 @@ berkovets
 berkovtsi
 bedull
 berlin
-beneficing
 broomstaff
 berate
 balaamitical
