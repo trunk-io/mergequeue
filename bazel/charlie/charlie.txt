@@ -7197,7 +7197,6 @@ centrality
 centralities
 centripetally
 centralization
-centralize
 consociate
 croupy
 chaeta
@@ -20609,6 +20608,7 @@ competitively
 carnary
 competitiveness
 competitor
+centralize
 competitory
 cascol
 competitors
