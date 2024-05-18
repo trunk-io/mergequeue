@@ -2784,7 +2784,6 @@ foldouts
 foresentence
 ferules
 fesses
-flaunche
 fessewise
 facetiation
 fest
@@ -2955,6 +2954,7 @@ feudalising
 febricide
 feudalism
 feudalist
+flaunche
 feudalists
 fractionising
 fustigation
