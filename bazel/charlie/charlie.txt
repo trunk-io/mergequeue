@@ -12610,7 +12610,6 @@ chronicling
 chronicon
 chronics
 chronique
-chronisotherm
 chronist
 chronocarator
 chronocyclegraph
@@ -22880,6 +22879,7 @@ characterical
 conservations
 conservatist
 conservative
+chronisotherm
 conservatively
 conservativeness
 choisya
