@@ -3870,7 +3870,6 @@ gelsemine
 glaze
 gowfer
 gybing
-gynandromorphous
 gaulding
 giblet
 guttar
@@ -6007,6 +6006,7 @@ glucoses
 glances
 grossulaceous
 glucoside
+gynandromorphous
 grantha
 glucosidically
 glucosine
