@@ -4829,7 +4829,6 @@ foothook
 fungal
 flailing
 folksinging
-fisheries
 followable
 flails
 flain
@@ -8464,6 +8463,7 @@ formful
 formy
 feoffers
 formic
+fisheries
 formica
 formicariae
 formicarioid
