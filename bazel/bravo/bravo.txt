@@ -3754,6 +3754,7 @@ breck
 batteried
 batteries
 betrayals
+bumbling
 batteryman
 batterman
 batters
@@ -17292,7 +17293,6 @@ bawlers
 bumblers
 bumbles
 bootlaces
-bumbling
 bumblings
 bumbo
 blueball

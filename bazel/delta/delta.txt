@@ -5541,7 +5541,6 @@ deorientalize
 dallack
 deorsum
 deorsumvergence
-deorsumversion
 deossify
 deossification
 dramatizing
@@ -12276,6 +12275,7 @@ dappleness
 disorganising
 disgraded
 disgrading
+deorsumversion
 dysgraphia
 delirifacient
 discreating
