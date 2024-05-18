@@ -3223,7 +3223,6 @@ catecheses
 creophagism
 casques
 capitalizing
-capitalness
 capitals
 capitan
 capitana
@@ -27048,6 +27047,7 @@ chimneypot
 counterpointing
 counterpoints
 cataleptiform
+capitalness
 counterpoise
 contestable
 chronical
