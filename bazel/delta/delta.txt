@@ -1193,7 +1193,6 @@ disinvolve
 dextrans
 datary
 dataries
-dawns
 dataset
 datasetname
 darghin
@@ -2159,6 +2158,7 @@ decarbonation
 desertedness
 disintegrations
 dante
+dawns
 decarbonylating
 decarbonisation
 decarbonise
