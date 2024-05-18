@@ -3638,7 +3638,6 @@ demandant
 degassing
 disappears
 degauss
-dunnesses
 degaussing
 degelatinize
 destituting
@@ -13236,6 +13235,7 @@ dislocator
 disposing
 dicrotic
 dispositional
+dunnesses
 dispositioned
 dispositions
 dietist
