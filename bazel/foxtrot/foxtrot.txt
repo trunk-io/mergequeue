@@ -6632,7 +6632,6 @@ foyers
 foaming
 foamless
 floodway
-foamlike
 foams
 frogfish
 flirtier
@@ -10178,6 +10177,7 @@ footnotes
 fishwife
 fetalism
 frisker
+foamlike
 foederatus
 filemaking
 foamiest
