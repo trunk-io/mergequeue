@@ -3140,7 +3140,6 @@ capernoitie
 capernutie
 cenesthesia
 capersome
-capersomeness
 clothify
 capes
 capeskin
@@ -25464,6 +25463,7 @@ cornrow
 cornrows
 corns
 cornstalks
+capersomeness
 curvinervate
 crawler
 caviares

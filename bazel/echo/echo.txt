@@ -646,7 +646,6 @@ eclectical
 eclecticism
 excitancy
 eclecticist
-eclecticize
 eozoonal
 excruciatingness
 epizoite
@@ -2099,6 +2098,7 @@ elastivity
 elastomer
 emperish
 enfamish
+eclecticize
 euryphage
 elastomers
 elastose
