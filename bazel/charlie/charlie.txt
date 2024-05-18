@@ -15430,6 +15430,7 @@ crosscut
 clangour
 cynebot
 clangoured
+clips
 clangouring
 cakewalks
 clangours
@@ -16337,7 +16338,6 @@ clippers
 clippie
 clipping
 clippingly
-clips
 clipse
 clipsheet
 clipsheets
