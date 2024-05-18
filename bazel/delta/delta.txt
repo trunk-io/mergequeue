@@ -7394,7 +7394,6 @@ demiadult
 detonate
 detonating
 detonation
-detonations
 detonative
 detonator
 detonize
@@ -16357,6 +16356,7 @@ dolmens
 downstreet
 downstroke
 downstrokes
+detonations
 downswings
 downtake
 duodecane
