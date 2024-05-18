@@ -4551,7 +4551,6 @@ gippy
 gramophonically
 gobiiformes
 gypping
-gyp
 gyps
 greffier
 gentisic
@@ -6333,6 +6332,7 @@ galiot
 goatsbeard
 genuclast
 gilo
+gyp
 greaves
 goatskins
 gawkily
