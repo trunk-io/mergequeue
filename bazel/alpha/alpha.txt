@@ -14154,7 +14154,6 @@ anaesthyl
 antefurcae
 antefurcal
 antehall
-antehypophysis
 aedoeagus
 aquaculture
 antehistoric
@@ -24530,6 +24529,7 @@ auxins
 amober
 auxoamylase
 amores
+antehypophysis
 autofecundation
 auxocardia
 auxochrome
