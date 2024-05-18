@@ -5937,6 +5937,7 @@ flooding
 font
 fructoses
 floodlet
+flightshot
 floodlight
 francis
 fearlessly
@@ -10198,7 +10199,6 @@ friskingly
 frisks
 frondiform
 formalise
-flightshot
 frisson
 fittyfied
 frache

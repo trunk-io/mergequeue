@@ -3750,7 +3750,6 @@ dehydrase
 dozinesses
 dimensioned
 doolies
-dehydrate
 dehydrates
 dehydrator
 depiedmontize
@@ -13734,6 +13733,7 @@ doll
 dissoluble
 dissolubleness
 dissolute
+dehydrate
 dissolutely
 derm
 dissolution
