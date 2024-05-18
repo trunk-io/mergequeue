@@ -8255,7 +8255,6 @@ diadoumenos
 diadrom
 diadrome
 diadromous
-dioti
 diadumenus
 diaene
 diaereses
@@ -17167,6 +17166,7 @@ drillman
 discourser
 drillmaster
 drillmasters
+dioti
 devote
 drylots
 drilvis
