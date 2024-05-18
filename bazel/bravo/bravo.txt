@@ -2207,7 +2207,6 @@ bedawn
 buffetings
 baraita
 bewilders
-barajillo
 blastoma
 baramika
 balsamous
@@ -5011,6 +5010,7 @@ bricks
 boltless
 ballast
 beeping
+barajillo
 beeps
 beer
 beerbachite
