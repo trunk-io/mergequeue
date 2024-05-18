@@ -4741,7 +4741,6 @@ demiscible
 demise
 demisecond
 demised
-depas
 diploglossate
 demisemiquaver
 delineable
@@ -8983,6 +8982,7 @@ dicyanogen
 dehydrofroze
 dicycle
 dicycly
+depas
 disobeyers
 dicyclies
 dicyclist
