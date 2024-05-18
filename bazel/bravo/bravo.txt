@@ -6301,7 +6301,6 @@ beneficialness
 beneficiaryship
 bluebooks
 beneficiate
-beneficiated
 beneficiating
 beneficiation
 brassiest
@@ -15751,6 +15750,7 @@ bouncer
 broke
 burglariously
 barebones
+beneficiated
 bemires
 broken
 brokenheartedly
