@@ -11707,7 +11707,6 @@ anagnorisis
 aesculapian
 ablator
 anagoge
-accurtation
 anagoges
 anagogy
 adorant
@@ -15318,6 +15317,7 @@ adarticulation
 antifowl
 arthrolite
 anthropomorphization
+accurtation
 antifreeze
 antifreezing
 antifriction
