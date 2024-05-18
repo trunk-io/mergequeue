@@ -434,7 +434,6 @@ fairship
 fairway
 faultfinders
 fishline
-fairwater
 fluentness
 fays
 fondlings
@@ -845,6 +844,7 @@ fronted
 fantailed
 fantails
 fantaisie
+fairwater
 fantasy
 fantasia
 freakishly
