@@ -1924,7 +1924,6 @@ bandolero
 bandoleros
 brockle
 bandonion
-bandor
 bandora
 bandore
 bronchium
@@ -3879,6 +3878,7 @@ balsas
 bauxitic
 bauxitite
 bavaroy
+bandor
 bowdlerizations
 bavenite
 bavette
