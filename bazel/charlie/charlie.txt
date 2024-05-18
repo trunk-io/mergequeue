@@ -19166,7 +19166,6 @@ colloped
 collophane
 collophanite
 colloq
-colloquial
 colloquialism
 calcareously
 colloquialist
@@ -25292,6 +25291,7 @@ corkages
 corkboard
 conventionalized
 cadence
+colloquial
 corked
 corker
 corkers
