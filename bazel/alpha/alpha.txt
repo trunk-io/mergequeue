@@ -10567,7 +10567,6 @@ amylate
 aglyphodontia
 amildar
 amylemia
-amylene
 amylenol
 antireactive
 amylic
@@ -15632,6 +15631,7 @@ aftertreatment
 antimoniated
 acrylic
 antigraft
+amylene
 antimonid
 airampo
 anthropophagi
