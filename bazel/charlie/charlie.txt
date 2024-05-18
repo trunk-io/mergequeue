@@ -3405,7 +3405,6 @@ caprylate
 caprylene
 caprylic
 cymene
-caprylyl
 caprylin
 caprylone
 caprimulgi
@@ -22194,6 +22193,7 @@ confutator
 confuters
 confutes
 confuting
+caprylyl
 cong
 conga
 congaed
