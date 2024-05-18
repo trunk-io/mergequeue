@@ -11779,7 +11779,6 @@ chondriomere
 chondriosome
 chondriosomes
 colubriformia
-chondriosphere
 ceresin
 chondrites
 chondritic
@@ -25863,6 +25862,7 @@ complexionally
 calcars
 corrosiving
 corrosivity
+chondriosphere
 confederates
 cinclidotus
 corrugant
