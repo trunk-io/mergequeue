@@ -706,7 +706,6 @@ famine
 famished
 faming
 fuliguline
-fired
 famishing
 famose
 famous
@@ -1097,6 +1096,7 @@ faulty
 farnesols
 frotting
 fogas
+fired
 flinger
 faro
 floriken
