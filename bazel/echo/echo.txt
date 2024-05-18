@@ -3814,7 +3814,6 @@ exacta
 emerita
 ennui
 emerituti
-entertainable
 emerizing
 emerod
 emerods
@@ -6304,6 +6303,7 @@ emicant
 ensate
 ensconced
 emporium
+entertainable
 ectypes
 ensconcing
 enscroll
