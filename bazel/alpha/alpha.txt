@@ -4838,7 +4838,6 @@ aenach
 aeneas
 androgenesis
 affricate
-aenigmatite
 aeolia
 aeolic
 advected
@@ -21836,6 +21835,7 @@ aerophobia
 assimilationist
 abede
 assimilator
+aenigmatite
 assimilatory
 assimulate
 antipedal
