@@ -4631,7 +4631,6 @@ babbled
 bedare
 bemingles
 bedark
-bedarkened
 buckteeth
 bedarkening
 bedaub
@@ -13459,6 +13458,7 @@ bottomers
 bottoming
 bottomland
 butyrous
+bedarkened
 biotelemetry
 brattiness
 betweenness
