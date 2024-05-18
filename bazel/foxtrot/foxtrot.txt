@@ -3894,7 +3894,6 @@ finary
 forspeaking
 find
 finalizes
-findable
 frontlessly
 findhorn
 feedboard
@@ -10375,6 +10374,7 @@ fitten
 freightless
 fronde
 firth
+findable
 frondent
 ferrates
 factor
