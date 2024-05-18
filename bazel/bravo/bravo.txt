@@ -7119,7 +7119,6 @@ besmear
 blvd
 besmearing
 besmile
-besmiled
 besmiling
 besmirch
 belligerence
@@ -15001,6 +15000,7 @@ breeziest
 ballute
 breezily
 breeziness
+besmiled
 barangay
 bluffed
 bregma
