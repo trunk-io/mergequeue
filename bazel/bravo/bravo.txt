@@ -10445,7 +10445,6 @@ blank
 blankbook
 bailwood
 burgrave
-blanket
 blanketed
 blanketeer
 beetmister
@@ -13647,6 +13646,7 @@ bountiousness
 bountree
 bouquet
 bolsons
+blanket
 bouquetiere
 biunity
 bescorching
