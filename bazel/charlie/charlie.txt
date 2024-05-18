@@ -7454,7 +7454,6 @@ cephaloplegia
 cervisia
 cryoprobe
 cephaloplegic
-clarisse
 cephalopod
 cephalopoda
 convolvulinolic
@@ -18306,6 +18305,7 @@ coggers
 cogging
 claypan
 coggle
+clarisse
 coggledy
 cogitate
 combed
