@@ -11797,7 +11797,6 @@ analyzers
 alypin
 adjudicator
 analyzes
-analyzing
 analkalinity
 appetites
 anallagmatic
@@ -20794,6 +20793,7 @@ aet
 artlet
 adobes
 artlike
+analyzing
 angareeb
 artmobile
 artocarpaceae
