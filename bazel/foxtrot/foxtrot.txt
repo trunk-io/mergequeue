@@ -194,7 +194,6 @@ factorable
 factordom
 factoress
 flateria
-feoffed
 friskest
 flaky
 finitary
@@ -2646,6 +2645,7 @@ fines
 ferromagnetism
 fistlike
 fiscality
+feoffed
 fricassees
 ferromanganese
 ferrometer
