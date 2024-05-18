@@ -5243,7 +5243,6 @@ endosarcous
 endosclerite
 endoscope
 enfortune
-exostema
 endomysium
 endoscopes
 endoscopic
@@ -12320,6 +12319,7 @@ exegete
 elegists
 endpaper
 exegetics
+exostema
 exemplar
 ecphorias
 entoiling
