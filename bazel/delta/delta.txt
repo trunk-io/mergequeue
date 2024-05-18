@@ -1759,7 +1759,6 @@ downtimes
 deathtraps
 drof
 dhunchee
-deathward
 dikaryon
 deathwatches
 docent
@@ -18056,6 +18055,7 @@ dangersome
 diwans
 dullification
 dulling
+deathward
 dullishly
 drometer
 dullity
