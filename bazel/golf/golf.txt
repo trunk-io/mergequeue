@@ -8623,7 +8623,6 @@ gypsography
 gunnysack
 greek
 greekish
-greekism
 gawkier
 germiniparous
 greekize
@@ -10428,6 +10427,7 @@ gumly
 gesticulatory
 gumlike
 gumlikeness
+greekism
 gucked
 genevas
 gynandrous

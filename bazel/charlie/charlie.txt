@@ -16043,7 +16043,6 @@ carryovers
 clerkdom
 clerkdoms
 clerkery
-clerkess
 cypraeid
 carcinosis
 clerkless
@@ -25662,6 +25661,7 @@ corporification
 corporosity
 corposant
 corps
+clerkess
 corpsbruder
 corpse
 corpselikeness
