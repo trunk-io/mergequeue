@@ -1110,7 +1110,6 @@ edile
 exanthematous
 entocranial
 epyllion
-estonian
 ectocranial
 ediles
 evodia
@@ -10542,6 +10541,7 @@ etiolize
 etiology
 etiological
 endrumpf
+estonian
 etiologist
 emetology
 etiologue
