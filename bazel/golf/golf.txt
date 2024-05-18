@@ -4294,7 +4294,6 @@ gippers
 gynaeceum
 golet
 gynaecia
-gonidiose
 geisothermal
 glossing
 graniform
@@ -8142,6 +8141,7 @@ graphites
 gelders
 gnarred
 ganglions
+gonidiose
 gouge
 gelidiaceae
 gynecicgynecidal
