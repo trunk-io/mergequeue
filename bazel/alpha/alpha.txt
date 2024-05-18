@@ -10814,7 +10814,6 @@ ammonitess
 ammonitic
 ammoniticone
 abstrude
-ammonitiferous
 ammonitoid
 aerotechnics
 ammonitoidea
@@ -21612,6 +21611,7 @@ assayable
 afterpotential
 assayed
 assayer
+ammonitiferous
 assayers
 assaying
 antitorpedo
