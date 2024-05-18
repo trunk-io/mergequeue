@@ -5046,7 +5046,6 @@ aerolithology
 apocamphoric
 aeroliths
 aerolitic
-aerolitics
 aerological
 aerologies
 aerologist
@@ -13661,6 +13660,7 @@ assassins
 audiviser
 annuli
 annullable
+aerolitics
 annullate
 annulled
 ascensional
