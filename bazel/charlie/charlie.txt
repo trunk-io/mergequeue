@@ -2654,7 +2654,6 @@ cankerwort
 canli
 coff
 combinatorics
-canmaker
 climbs
 canman
 canna
@@ -10588,6 +10587,7 @@ charlatanish
 chylifying
 chamoises
 copout
+canmaker
 chyliform
 chilina
 chilindre
