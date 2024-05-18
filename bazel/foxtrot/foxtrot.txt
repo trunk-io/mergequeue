@@ -3093,7 +3093,6 @@ fiber
 filamentose
 fiberboard
 foresing
-forenotion
 fiberglas
 fiberizes
 fiberizing
@@ -8137,6 +8136,7 @@ fencer
 fellatrix
 foretopmen
 foretops
+forenotion
 foretrace
 fluviovolcanic
 foreuse
