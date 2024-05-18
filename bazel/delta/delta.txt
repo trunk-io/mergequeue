@@ -3682,6 +3682,7 @@ defoliant
 dropforging
 deglutination
 deglutition
+drawlers
 deglutitious
 degold
 decathlon
@@ -13600,7 +13601,6 @@ dissentment
 doggereler
 dannock
 dissepiment
-drawlers
 dissepimental
 dragnet
 dissertate
