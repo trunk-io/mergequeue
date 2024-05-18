@@ -7669,7 +7669,6 @@ charmful
 crackerjack
 caponatas
 cerebrize
-cerebrocardiac
 cerebroganglionic
 cerebroid
 cerebromalacia
@@ -24915,6 +24914,7 @@ coralla
 clavodeltoid
 colocynthin
 corallian
+cerebrocardiac
 corallic
 corallidae
 corallidomous
