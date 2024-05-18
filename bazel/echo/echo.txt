@@ -984,7 +984,6 @@ edaphosauria
 edaphosaurid
 edaphosaurus
 explosibility
-emblazing
 edder
 episcopable
 eddying
@@ -13619,6 +13618,7 @@ eliminates
 extenuations
 enskying
 ecphonesis
+emblazing
 extenuative
 extenuator
 exter
