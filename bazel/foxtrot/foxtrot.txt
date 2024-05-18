@@ -4299,6 +4299,7 @@ freestanding
 facia
 first
 forbearer
+flowe
 forestian
 feerie
 focally
@@ -5137,7 +5138,6 @@ futter
 footpaddery
 fanleaf
 fingerwork
-flowe
 frontate
 frozenhearted
 furmente
