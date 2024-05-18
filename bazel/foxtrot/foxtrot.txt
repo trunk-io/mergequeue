@@ -2377,6 +2377,7 @@ flippest
 furner
 flattops
 fenzelia
+fatiguability
 feod
 firestopping
 feodum
@@ -8106,7 +8107,6 @@ fillister
 fathogram
 foretellers
 foretells
-fatiguability
 forethinking
 forethoughtfulness
 furnishings
