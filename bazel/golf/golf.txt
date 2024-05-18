@@ -3539,7 +3539,6 @@ gullygut
 gestational
 gantry
 gestative
-gestatory
 geste
 gyrinid
 ginglyform
@@ -5713,6 +5712,7 @@ glomera
 game
 glomerella
 glomeroporphyritic
+gestatory
 gallinago
 gradative
 grx
