@@ -8542,7 +8542,6 @@ fanlike
 famulus
 fred
 falconelle
-frenchwise
 fleeing
 falsum
 filial
@@ -8800,6 +8799,7 @@ flue
 forwork
 feoffing
 fallacia
+frenchwise
 forz
 forzando
 fulgor

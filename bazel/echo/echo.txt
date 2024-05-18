@@ -3853,7 +3853,6 @@ executers
 emigres
 emigration
 emigrationist
-emigrator
 eclogues
 equivote
 electrotonus
@@ -6823,6 +6822,7 @@ enwombing
 epulones
 entoglossal
 embonpoint
+emigrator
 entoil
 entoils
 entoloma
