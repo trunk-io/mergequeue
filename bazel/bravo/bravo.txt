@@ -721,6 +721,7 @@ besprinkler
 birdshot
 badaxe
 brasseries
+binominal
 balustered
 badder
 badderlocks
@@ -8958,7 +8959,6 @@ bayberries
 binomially
 binomials
 betoya
-binominal
 bedchamber
 bunchbacked
 binormal

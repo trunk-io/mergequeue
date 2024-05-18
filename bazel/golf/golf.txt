@@ -3583,7 +3583,6 @@ gibberish
 greaselessness
 gaunter
 gitana
-getspace
 gracile
 gettableness
 glacialism
@@ -4308,6 +4307,7 @@ gnocchi
 gemel
 gynaecocrat
 goloka
+getspace
 gynaecol
 gerent
 gois
