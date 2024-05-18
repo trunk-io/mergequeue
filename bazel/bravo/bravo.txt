@@ -4845,7 +4845,6 @@ bedrolls
 bedrooms
 bedrop
 bilixanthin
-bedrowse
 bedrugged
 bedrugs
 beds
@@ -18149,6 +18148,7 @@ butene
 butenyl
 buteonine
 butic
+bedrowse
 bereaving
 bluejay
 butylamine
