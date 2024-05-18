@@ -3117,7 +3117,6 @@ fibril
 fleshquake
 furunculus
 fairily
-fluorin
 fibrilated
 fisher
 foxes
@@ -10036,6 +10035,7 @@ fawningness
 frieseite
 friesian
 friezed
+fluorin
 farrow
 fleshhook
 friezer
