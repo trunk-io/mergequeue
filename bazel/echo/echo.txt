@@ -6366,7 +6366,6 @@ ensiform
 ensign
 electroplaque
 entranceway
-ensignry
 eviscerate
 ensilaged
 ensilages
@@ -9881,6 +9880,7 @@ essoign
 essoined
 everbearing
 essoinment
+ensignry
 erection
 enkolpia
 essonites
