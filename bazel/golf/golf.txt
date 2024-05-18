@@ -3827,6 +3827,7 @@ gaffing
 gibbert
 goffers
 gibbet
+guardable
 gopher
 gibbeted
 gibbeting
@@ -9900,7 +9901,6 @@ gargarism
 gracefully
 guard
 glumpy
-guardable
 guardedness
 gedd
 goatroot
