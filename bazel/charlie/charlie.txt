@@ -8313,7 +8313,6 @@ coevolve
 cranely
 cercomonas
 concertanti
-cosingular
 chalaziferous
 chalazium
 chalazogam
@@ -8377,6 +8376,7 @@ caricetum
 chalder
 chaldron
 conterminate
+cosingular
 chaleh
 chalehs
 chalets
