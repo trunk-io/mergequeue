@@ -2246,7 +2246,6 @@ canakins
 canal
 canalage
 canalatura
-canalboat
 charales
 canale
 canaled
@@ -19604,6 +19603,7 @@ columnarian
 calamaries
 columnarity
 columnate
+canalboat
 columnated
 centimolar
 columnates

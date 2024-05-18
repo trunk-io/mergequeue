@@ -6367,7 +6367,6 @@ geodic
 granatite
 ganglander
 goby
-goliad
 gobies
 guttula
 geckotian
@@ -9960,6 +9959,7 @@ guavaberry
 grunswel
 guaza
 gynander
+goliad
 gillar
 guazuma
 gubat
