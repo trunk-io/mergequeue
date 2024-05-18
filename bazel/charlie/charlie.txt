@@ -5170,7 +5170,6 @@ cashaws
 cashboy
 carida
 cashbooks
-cashbox
 cashboxes
 chromophor
 cambaye
@@ -28239,6 +28238,7 @@ crannied
 crannies
 crannying
 compiler
+cashbox
 crannock
 crannoge
 crannoger
