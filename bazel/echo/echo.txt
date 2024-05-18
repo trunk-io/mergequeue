@@ -563,7 +563,6 @@ echinopsine
 egotist
 echinorhynchus
 embolus
-echinorhinus
 elbuck
 etnas
 exhaustivity
@@ -5972,6 +5971,7 @@ exiguities
 enthusing
 enlargeable
 ethiopic
+echinorhinus
 enlargeableness
 euryaleae
 enlarged
