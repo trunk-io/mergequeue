@@ -1167,7 +1167,6 @@ bajau
 boxer
 bajocco
 bajochi
-bajoire
 bread
 bajonado
 bajra
@@ -10728,6 +10727,7 @@ bleakness
 brieflessness
 bleaks
 browd
+bajoire
 bleared
 belt
 bleary
