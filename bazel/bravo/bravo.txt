@@ -5652,7 +5652,6 @@ blethering
 baguettes
 beknave
 beknight
-blossoming
 beknighted
 beknighting
 beknived
@@ -7107,6 +7106,7 @@ besluit
 besmear
 blvd
 besmearing
+blossoming
 besmile
 besmiled
 besmiling
