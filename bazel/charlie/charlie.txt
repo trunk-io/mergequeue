@@ -8239,7 +8239,6 @@ chainon
 cultists
 chains
 chainsman
-canalize
 couchantly
 capetian
 chainsmen
@@ -11196,6 +11195,7 @@ chlamyd
 chlamydate
 chlamydeous
 chlamydes
+canalize
 cliftonia
 chlamydobacteriaceae
 chlamydobacteriaceous
