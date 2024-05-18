@@ -5394,7 +5394,6 @@ daraf
 dentical
 denticle
 denticular
-denticulate
 dustfall
 dentiferous
 dentification
@@ -6804,6 +6803,7 @@ disseminated
 desired
 dojo
 depr
+denticulate
 desiredly
 desireful
 desirefulness
