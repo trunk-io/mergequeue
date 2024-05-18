@@ -3927,6 +3927,7 @@ giftwrap
 giftwrapping
 genitures
 gig
+geom
 gardenwards
 giga
 globoseness
@@ -8067,7 +8068,6 @@ generalissimo
 gordiaceous
 granulocytic
 geobiologic
-geom
 granulocytopoiesis
 gambroon
 glazier
