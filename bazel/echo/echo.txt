@@ -5249,7 +5249,6 @@ endoscopic
 endoscopies
 empyreumatical
 endosymbiosis
-epipodia
 endoskeletons
 endosmic
 endosmometric
@@ -14113,6 +14112,7 @@ extrorse
 extrospect
 extrospective
 extroversion
+epipodia
 equivorous
 extroversive
 epitheton
