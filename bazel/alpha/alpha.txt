@@ -5374,6 +5374,7 @@ anthribid
 affirmers
 affirming
 affirmingly
+amplified
 affirms
 affix
 affixable
@@ -11346,7 +11347,6 @@ amplifications
 amplificative
 amplificator
 amplificatory
-amplified
 amplifier
 amplifies
 amplifying
