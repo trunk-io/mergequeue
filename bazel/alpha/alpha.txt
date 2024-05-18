@@ -5566,6 +5566,7 @@ akamnik
 afrikaans
 astartian
 amalgams
+arrange
 afrikanderdom
 afrikanderism
 afrikaner
@@ -11653,7 +11654,6 @@ anaesthesis
 anaesthetic
 appearanced
 anaesthetically
-arrange
 anthropomantic
 ade
 anaesthetics
