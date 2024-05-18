@@ -1090,7 +1090,6 @@ echolalia
 edificate
 edification
 exfigure
-edificator
 elderhood
 earock
 edificatory
@@ -4668,6 +4667,7 @@ enciente
 encina
 encinal
 exacerbating
+edificator
 elkhound
 epichristian
 everybody
