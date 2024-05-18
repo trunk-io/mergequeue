@@ -2829,7 +2829,6 @@ barouche
 beguin
 barouchette
 barouni
-baroxyton
 barque
 beebread
 bached
@@ -16938,6 +16937,7 @@ buhl
 buhlbuhl
 blackbeard
 benzalaniline
+baroxyton
 burgout
 buhrmill
 buhrs
