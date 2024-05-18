@@ -2401,7 +2401,6 @@ gelatose
 geld
 ghostlikeness
 gavials
-geldability
 griffinish
 goodnesses
 galopin
@@ -5971,6 +5970,7 @@ glucinums
 gluck
 giggle
 glucocorticoid
+geldability
 glucofrangulin
 gasfiring
 guatemaltecan
