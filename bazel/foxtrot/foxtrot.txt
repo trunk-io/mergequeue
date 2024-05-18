@@ -773,7 +773,6 @@ fickly
 fixures
 fandangle
 fandango
-fallows
 fandangos
 fandoms
 fanegadas
@@ -10513,6 +10512,7 @@ frost
 foregoer
 forbodes
 frostbite
+fallows
 favella
 fibroin
 forcite
