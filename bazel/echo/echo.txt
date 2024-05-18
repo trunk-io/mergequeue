@@ -5290,7 +5290,6 @@ explicators
 endostosis
 endostraca
 epanody
-economiser
 endostracum
 enteromycosis
 endosulfan
@@ -11672,6 +11671,7 @@ emergent
 ewte
 exacerbated
 esothyropexy
+economiser
 exacerbates
 enhances
 economics
