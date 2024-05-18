@@ -12053,7 +12053,6 @@ deambulatory
 disenmesh
 disenorm
 deacon
-dissipativity
 disensanity
 dunderheaded
 disenslave
@@ -16287,6 +16286,7 @@ downless
 downlier
 downlying
 downlink
+dissipativity
 downlinked
 downlinking
 downloadable
