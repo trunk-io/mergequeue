@@ -1109,7 +1109,6 @@ ediya
 ectoblastic
 edile
 exanthematous
-entocranial
 earwaxes
 epyllion
 estonian
@@ -9108,6 +9107,7 @@ erythremia
 esculapian
 erythric
 erythrine
+entocranial
 eggwhisk
 erythrinidae
 exclusory
