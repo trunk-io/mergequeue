@@ -10427,7 +10427,6 @@ diospyros
 diphenylene
 diphenylenimine
 ditcher
-diphenylguanidine
 diphenylhydantoin
 disvulnerability
 diphenylmethane
@@ -15358,6 +15357,7 @@ down
 dallop
 domical
 diversicolored
+diphenylguanidine
 domicella
 domicil
 domiciled
