@@ -5398,7 +5398,6 @@ affixion
 affixment
 affixture
 afflate
-anophthalmia
 afflated
 afflatus
 absent
@@ -8657,6 +8656,7 @@ allegories
 acidosis
 allegorisation
 allegorise
+anophthalmia
 artistdom
 allegorised
 arbutus
