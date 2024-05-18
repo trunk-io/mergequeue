@@ -2218,6 +2218,7 @@ fumatories
 fazendeiro
 fluorescence
 flogging
+folkmoot
 flatfooting
 felonwort
 feriae
@@ -6914,7 +6915,6 @@ fiberizer
 florian
 footman
 freedom
-folkmoot
 flyboy
 floccosely
 feudovassalism
