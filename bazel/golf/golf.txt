@@ -5932,7 +5932,6 @@ glowingly
 glows
 gorgeable
 grimmia
-glowworms
 ghastfulness
 gloxinia
 gloxinias
@@ -7320,6 +7319,7 @@ gossipped
 gerrymandered
 gossipping
 gossipred
+glowworms
 gossipries
 gossips
 gigmaness
