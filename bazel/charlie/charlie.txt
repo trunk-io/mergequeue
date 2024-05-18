@@ -1193,7 +1193,6 @@ cestuses
 caledonite
 calef
 calefacient
-craunched
 calefaction
 calefactive
 crzette
@@ -31701,6 +31700,7 @@ cusses
 castilian
 cussos
 cusswords
+craunched
 cust
 calorizer
 custard
