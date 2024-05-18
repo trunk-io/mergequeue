@@ -7312,7 +7312,6 @@ gassings
 gullishness
 glycerol
 gonfalon
-gossipped
 gerrymandered
 gossipping
 gossipred
@@ -7955,6 +7954,7 @@ granduncle
 granduncles
 grane
 gunrooms
+gossipped
 granet
 goaf
 grangerize
