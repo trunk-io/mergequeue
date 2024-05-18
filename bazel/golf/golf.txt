@@ -8739,6 +8739,7 @@ gadid
 grabble
 googly
 greeting
+gurglet
 greets
 gliffing
 grandchildren
@@ -10624,7 +10625,6 @@ grocerly
 ganges
 gurgitation
 gurgled
-gurglet
 gurgling
 glaumrie
 guardee
