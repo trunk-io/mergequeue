@@ -11026,7 +11026,6 @@ acher
 ampelidae
 anoxia
 ampelideous
-ampelis
 alaskan
 ampelography
 ampelographist
@@ -24753,6 +24752,7 @@ androdioecious
 aviculture
 aromadendrin
 alternators
+ampelis
 arachnitis
 aviculturist
 avidin
