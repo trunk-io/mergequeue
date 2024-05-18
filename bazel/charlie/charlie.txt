@@ -7582,7 +7582,6 @@ clergyman
 cambrian
 ceraunite
 ceraunograph
-ceraunomancy
 costmary
 ceraunophone
 ceraunoscope
@@ -14953,6 +14952,7 @@ citole
 citoles
 cytolymph
 cytolysin
+ceraunomancy
 counterglow
 cytolist
 cytolytic
