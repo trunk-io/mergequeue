@@ -5339,7 +5339,6 @@ alingual
 affination
 affine
 anteporch
-affined
 affinely
 analects
 affines
@@ -12496,6 +12495,7 @@ anematosis
 anemias
 adelarthrosomata
 anemic
+affined
 anemically
 account
 acuteness
