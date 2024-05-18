@@ -12194,7 +12194,6 @@ disfranchises
 depel
 disfrancnise
 deride
-disfrequent
 divineress
 discoursiveness
 despotism
@@ -17893,6 +17892,7 @@ durgan
 docible
 duelli
 duelling
+disfrequent
 duellist
 duello
 deterministically
