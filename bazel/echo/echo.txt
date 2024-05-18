@@ -8631,7 +8631,6 @@ equidifferent
 equidimensional
 equidist
 equidistance
-embranglement
 equidistribution
 exect
 equidiurnal
@@ -8764,6 +8763,7 @@ elaborated
 equisonance
 equispatial
 englishness
+embranglement
 establishments
 extradicting
 equitableness
