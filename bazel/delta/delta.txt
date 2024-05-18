@@ -3172,6 +3172,7 @@ disestablisher
 demihuman
 defamy
 defaming
+diffame
 defamingly
 defamous
 deadworks
@@ -9342,7 +9343,6 @@ diezeugmenon
 depolymerizing
 dif
 dactylography
-diffame
 detracts
 diffareation
 desition
