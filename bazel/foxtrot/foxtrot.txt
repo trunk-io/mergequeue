@@ -6542,7 +6542,6 @@ fluther
 fizzier
 frogger
 flutiest
-fluctuate
 fraist
 filius
 flytail
@@ -10288,6 +10287,7 @@ fiaschi
 ferryage
 foggages
 frazing
+fluctuate
 flaskful
 froebelian
 froebelism
