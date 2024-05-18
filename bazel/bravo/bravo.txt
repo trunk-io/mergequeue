@@ -1397,7 +1397,6 @@ bridoon
 baldoquin
 baldpate
 bragget
-baldpatedness
 baldrib
 baldrick
 baldrics
@@ -9696,6 +9695,7 @@ biseptate
 biseriate
 biseriately
 biset
+baldpatedness
 belshazzaresque
 bisetose
 buxerry
