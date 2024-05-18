@@ -4998,7 +4998,6 @@ framableness
 flappers
 flappet
 flappy
-furil
 flapping
 folders
 flumps
@@ -10936,6 +10935,7 @@ fannon
 fullhearted
 farina
 fletched
+furil
 fully
 fullmouth
 fullmouthed
