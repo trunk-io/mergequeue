@@ -2755,7 +2755,6 @@ fervor
 forecar
 formicivorous
 fervorous
-funnier
 folkway
 fusain
 fervours
@@ -3516,6 +3515,7 @@ forcepses
 figureless
 feuilletonist
 figurer
+funnier
 flyweight
 flocculous
 facebread
