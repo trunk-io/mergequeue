@@ -12016,6 +12016,7 @@ disenabling
 disenact
 disenamor
 disenchant
+disliking
 disenchanting
 deputyship
 dowd
@@ -12694,7 +12695,6 @@ duma
 dislikeness
 disliker
 dislikers
-disliking
 doubleness
 disobeys
 disreputably
