@@ -8416,7 +8416,6 @@ autograph
 alisphenoidal
 alyssums
 alist
-antiferroelectric
 alite
 aliter
 alytes
@@ -15378,6 +15377,7 @@ antihypnotically
 antihypochondriac
 anticoincidence
 antihypophora
+antiferroelectric
 acetopiperone
 antihistaminic
 aspection
