@@ -405,7 +405,6 @@ ergometer
 encharged
 expressman
 ebullioscopy
-ebullioscopic
 earworm
 equangular
 extg
@@ -12607,6 +12606,7 @@ enteropexy
 exoascaceae
 exoascaceous
 exoascales
+ebullioscopic
 exobasidiaceae
 exobasidiales
 exclaim
