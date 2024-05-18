@@ -9153,7 +9153,6 @@ abolishable
 animations
 antiplenist
 almemar
-almemars
 accordable
 almemor
 almendron
@@ -11640,6 +11639,7 @@ anaerobic
 acrocentric
 anaerobically
 anaerobies
+almemars
 anaerobion
 anaerobiont
 anaerobiosis
