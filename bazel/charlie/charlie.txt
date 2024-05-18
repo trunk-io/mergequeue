@@ -3254,7 +3254,6 @@ clankingness
 capitularly
 capitulars
 calcino
-capitulate
 curs
 capitulated
 capitulates
@@ -9300,6 +9299,7 @@ chateaus
 chateaux
 chatelain
 chatelaine
+capitulate
 chatelaines
 chatelainry
 chatelains

@@ -13897,7 +13897,6 @@ bowsie
 bowsprit
 bowsprits
 bowstaff
-bowstring
 binoculate
 bowstringed
 bowstrings
@@ -15971,6 +15970,7 @@ bronchophony
 bronchoplasty
 braziery
 bluetops
+bowstring
 bronchorrhagia
 bronchorrhaphy
 bahts
