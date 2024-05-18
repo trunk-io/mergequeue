@@ -1841,7 +1841,6 @@ forane
 fainness
 forgets
 featured
-featureful
 featurelessness
 featureliness
 figureheadship
@@ -3765,6 +3764,7 @@ filmic
 filmier
 flightiest
 filmiform
+featureful
 filming
 flannelling
 fuss
