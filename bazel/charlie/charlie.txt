@@ -11694,7 +11694,6 @@ cholesteatoma
 concorrezanes
 cholesteatomatous
 cholestene
-cholesteremia
 cholesteric
 cholesteryl
 chariotee
@@ -13343,6 +13342,7 @@ cyclode
 consolidant
 chaffweed
 cyclodiene
+cholesteremia
 cycloganoid
 cummin
 crossbencher
