@@ -2897,7 +2897,6 @@ botanical
 blennometritis
 bonair
 barrelful
-barrelfuls
 blind
 barrelhead
 barrelhouse
@@ -8747,6 +8746,7 @@ bothlike
 bergerette
 billiken
 ballistophobia
+barrelfuls
 billionaire
 batteau
 bestrid
