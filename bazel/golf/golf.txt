@@ -738,7 +738,6 @@ greeters
 geta
 geometrised
 galoshe
-galoshes
 galp
 gimmals
 galravage
@@ -7133,6 +7132,7 @@ gorbellies
 grasscut
 gile
 gordon
+galoshes
 gore
 gulfing
 gorebill
