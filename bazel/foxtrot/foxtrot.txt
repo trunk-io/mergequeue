@@ -4174,7 +4174,6 @@ frayn
 foreprise
 foulmart
 florican
-firefang
 frizzlers
 firefanged
 fleys
@@ -8286,6 +8285,7 @@ forgotten
 forebodies
 forgrow
 fricandeau
+firefang
 frore
 fameflower
 forhaile
