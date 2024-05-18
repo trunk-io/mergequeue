@@ -6837,6 +6837,7 @@ aircraft
 aircraftman
 atenist
 axometer
+auction
 aircraftmen
 ausu
 aircraftsman
@@ -23277,7 +23278,6 @@ aucht
 angiosteosis
 aldehol
 auckland
-auction
 auctioned
 auctioneers
 alcornoco
