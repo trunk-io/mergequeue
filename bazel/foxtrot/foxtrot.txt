@@ -5346,7 +5346,6 @@ fledgiest
 fleece
 factory
 fribourg
-feirie
 foisonless
 forechurch
 fichu
@@ -7503,6 +7502,7 @@ fordrive
 forlana
 finement
 fibromyositis
+feirie
 foreact
 false
 fatstocks
