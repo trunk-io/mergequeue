@@ -9368,7 +9368,6 @@ flukey
 fluidise
 francic
 francisc
-franciscan
 fabula
 forhale
 friends
@@ -10876,6 +10875,7 @@ fungiform
 fishpool
 facies
 fulgency
+franciscan
 fabledom
 fulgentness
 fulgidity
