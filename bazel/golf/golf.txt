@@ -7129,7 +7129,6 @@ globical
 gorbellies
 grasscut
 gile
-gibbsites
 gordon
 gore
 gulfing
@@ -8754,6 +8753,7 @@ glossed
 gregarian
 gregarina
 gobonated
+gibbsites
 get
 gair
 gurniad
