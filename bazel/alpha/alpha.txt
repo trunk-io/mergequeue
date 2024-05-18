@@ -8700,7 +8700,6 @@ allelotropic
 allelotropism
 alleluia
 alleluiah
-alleluias
 alleluiatic
 allemand
 allemontite
@@ -25174,6 +25173,7 @@ axmaker
 axmaking
 axman
 axmaster
+alleluias
 axminster
 axodendrite
 axofugal
