@@ -5264,7 +5264,6 @@ endomorphism
 extispices
 endospermic
 endospermous
-endospore
 endosporic
 encharm
 endows
@@ -8018,6 +8017,7 @@ endotoxin
 eurytherm
 epingle
 epinicia
+endospore
 epinicial
 extrusion
 epinician
