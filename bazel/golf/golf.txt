@@ -4786,7 +4786,6 @@ gyroscopes
 gyrose
 gyrostat
 gastroplenic
-gesticulating
 gyrotheca
 girouette
 guessed
@@ -8264,6 +8263,7 @@ gazettes
 galactically
 grallatorial
 grassie
+gesticulating
 gibbergunyah
 grassiest
 groupthink
