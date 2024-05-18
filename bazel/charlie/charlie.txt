@@ -7404,7 +7404,6 @@ cephalochorda
 cowmen
 cephalochordal
 cephalochordata
-cephalochordate
 cucujidae
 cephaloclast
 cephalocone
@@ -8894,6 +8893,7 @@ chaplains
 cognitives
 chapless
 chapleted
+cephalochordate
 conciator
 chaplets
 chapon
