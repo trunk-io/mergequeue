@@ -6162,7 +6162,6 @@ deploringly
 doddery
 derecho
 dereference
-dereferenced
 dereferencing
 deregulate
 deregulated
@@ -9869,6 +9868,7 @@ dimerize
 dimerized
 dimerizes
 dillydallied
+dereferenced
 dimerizing
 dimers
 dimes
