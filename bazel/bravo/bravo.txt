@@ -12232,7 +12232,6 @@ blushiness
 boloism
 byplays
 bolomen
-bolometric
 bolometrically
 bolos
 boutre
@@ -15319,6 +15318,7 @@ beslings
 birthstone
 brigade
 brigaded
+bolometric
 brigadier
 bitripartite
 bequote
