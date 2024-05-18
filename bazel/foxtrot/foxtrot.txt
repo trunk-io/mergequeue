@@ -6177,7 +6177,6 @@ flowerily
 flirtling
 fluohydric
 flowerless
-flowerlessness
 flowerpecker
 furca
 flowerwork
@@ -10209,6 +10208,7 @@ frithy
 fragor
 facula
 fixatif
+flowerlessness
 feasance
 formiate
 fideles
