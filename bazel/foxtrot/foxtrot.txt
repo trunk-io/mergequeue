@@ -1671,6 +1671,7 @@ fipenny
 fconv
 farcin
 familiar
+frigidness
 faradocontractility
 four
 fdnames
@@ -3843,7 +3844,6 @@ farcer
 fights
 fimbriatum
 feral
-frigidness
 fimbricate
 fimbricated
 floria
