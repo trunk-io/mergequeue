@@ -66,7 +66,6 @@ gables
 globigerinidae
 goofball
 gablet
-gynaecoid
 glaucoma
 gablewindowed
 gogga
@@ -3043,6 +3042,7 @@ geodynamical
 geodynamics
 gumihan
 gurkha
+gynaecoid
 geoduck
 grebes
 gomeisa
