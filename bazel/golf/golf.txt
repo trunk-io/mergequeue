@@ -1147,7 +1147,6 @@ genitives
 ganister
 glamourie
 gynaecocratic
-gets
 groat
 ganja
 guipures
@@ -9421,6 +9420,7 @@ groundbreaker
 grounded
 gypsums
 groundedly
+gets
 grounden
 gigues
 grounders
