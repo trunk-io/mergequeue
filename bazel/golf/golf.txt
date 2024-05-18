@@ -1122,7 +1122,6 @@ gateado
 galleasses
 gonimous
 gangrened
-grapeline
 gangrenes
 gangrenescent
 gangrenous
@@ -2877,6 +2876,7 @@ gorgonizing
 gurr
 gentiledom
 gentiles
+grapeline
 growling
 greatcoat
 guayules
