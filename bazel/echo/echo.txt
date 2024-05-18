@@ -5768,7 +5768,6 @@ engrained
 encyrtid
 epizoicide
 engrainer
-engraining
 endict
 evans
 eulerian
@@ -8219,6 +8218,7 @@ episkeletal
 episodes
 episodial
 episodical
+engraining
 episodically
 episomal
 episomally
