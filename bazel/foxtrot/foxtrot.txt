@@ -1856,7 +1856,6 @@ fougue
 fleshless
 feloid
 febrile
-featherlessness
 fluidizer
 febrility
 flavone
@@ -3327,6 +3326,7 @@ facioscapulohumeral
 fideist
 fossilologist
 folklorist
+featherlessness
 fideistic
 faction
 flabbergastation
