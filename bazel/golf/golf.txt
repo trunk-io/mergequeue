@@ -3024,7 +3024,6 @@ geocline
 glideless
 geocoronium
 gordunite
-geocratic
 geraniols
 geodaesia
 geodal
@@ -3308,6 +3307,7 @@ grubbed
 gigue
 galactase
 gen
+geocratic
 galvanical
 gustatory
 gayatri
