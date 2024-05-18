@@ -4171,7 +4171,6 @@ feezing
 fetus
 firedrake
 frayn
-foreprise
 foulmart
 florican
 firefang
@@ -10252,6 +10251,7 @@ flavous
 frizel
 freightyard
 furriness
+foreprise
 frizers
 frizes
 forker
