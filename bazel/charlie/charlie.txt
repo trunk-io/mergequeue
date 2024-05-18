@@ -6318,7 +6318,6 @@ causeur
 causeuse
 causeuses
 cajaput
-causeway
 causewayed
 cannellated
 causewaying
@@ -11917,6 +11916,7 @@ chorai
 copeck
 choral
 choralcelo
+causeway
 chorale
 crumbing
 choraleon
