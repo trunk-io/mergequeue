@@ -3029,7 +3029,6 @@ actinical
 arraignments
 atropism
 actinide
-archenteron
 actinides
 actinidia
 aristarchy
@@ -10641,6 +10640,7 @@ amuses
 aselline
 aminities
 amphistylar
+archenteron
 aminization
 aminize
 amino
