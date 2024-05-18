@@ -9244,7 +9244,6 @@ diener
 dienes
 dier
 damoiselle
-dyer
 dementis
 dieresis
 dieretic
@@ -18632,6 +18631,7 @@ duumvirate
 duvet
 duvetyn
 discountenanced
+dyer
 disseisor
 duvetines
 duvetynes
