@@ -205,7 +205,6 @@ cabrilla
 cabrillas
 cabrioles
 cabriolet
-cabriolets
 contemporise
 cabrit
 cabs
@@ -31205,6 +31204,7 @@ classification
 curace
 counselors
 curacy
+cabriolets
 curacies
 curacoa
 county
