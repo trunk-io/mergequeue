@@ -5209,6 +5209,7 @@ glassworker
 glassworm
 gushed
 glasswort
+gus
 gnomish
 gees
 glathsheim
@@ -5520,7 +5521,6 @@ gastrelcosis
 glyphic
 gastraeadae
 goury
-gus
 gue
 germanly
 glyphographic
