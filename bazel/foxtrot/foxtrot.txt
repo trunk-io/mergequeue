@@ -5194,7 +5194,6 @@ frigorify
 fireproof
 fidfad
 flavo
-foreturn
 ferthumlungur
 flavonol
 flavonols
@@ -11355,6 +11354,7 @@ foldless
 fished
 furfurine
 furfuroid
+foreturn
 furfurol
 furfurous
 fuseplug
