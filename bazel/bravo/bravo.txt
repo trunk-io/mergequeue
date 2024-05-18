@@ -822,7 +822,6 @@ baffy
 baffies
 bibliotist
 brickwise
-bratticer
 brickier
 brachering
 bafflement
@@ -5510,6 +5509,7 @@ behenic
 behest
 bemixed
 behests
+bratticer
 beehouse
 behew
 busybodied
