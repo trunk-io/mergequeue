@@ -22423,7 +22423,6 @@ coniferin
 coniferophyte
 cuppier
 cordiner
-coniferous
 conifers
 cnidoscolus
 chevy
@@ -28883,6 +28882,7 @@ crevasse
 chatoyancy
 coney
 circumarctic
+coniferous
 crevassed
 crevasses
 cytostome
