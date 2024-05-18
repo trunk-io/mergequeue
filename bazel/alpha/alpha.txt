@@ -9328,6 +9328,7 @@ alpenglow
 alpenstock
 alpenstocker
 alpenstocks
+auris
 alpestral
 alpestrine
 autotype
@@ -23634,7 +23635,6 @@ auriphone
 auriphrygia
 auripigment
 aurir
-auris
 auriscalp
 auriscalpia
 auriscope
