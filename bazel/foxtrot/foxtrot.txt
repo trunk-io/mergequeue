@@ -508,7 +508,6 @@ fiscally
 fribbled
 farragoes
 falconinae
-falconoid
 flecker
 favoredness
 folium
@@ -3144,6 +3143,7 @@ fennecs
 frozen
 frenching
 feretrum
+falconoid
 fibroadipose
 fibroblastic
 fibrocalcareous
