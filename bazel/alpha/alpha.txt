@@ -17118,7 +17118,6 @@ aplustria
 apnea
 apneic
 apneumona
-apneumonous
 apneusis
 anthropophagously
 apneustic
@@ -21353,6 +21352,7 @@ askings
 askip
 asklent
 asklepios
+apneumonous
 actiniohematin
 askos
 askr
