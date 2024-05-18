@@ -4933,6 +4933,7 @@ endemism
 endemisms
 echeloned
 estates
+ektexines
 equiparable
 estipulate
 endenization
@@ -8768,7 +8769,6 @@ equivalent
 equivaluer
 effs
 electrocystoscope
-ektexines
 equivalved
 emmergoose
 electricity
