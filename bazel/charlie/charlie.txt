@@ -6871,7 +6871,6 @@ cuddly
 cowardliness
 cryptesthesia
 cytologist
-cellulitis
 cellulocutaneous
 cellulofibrous
 celluloid
@@ -24494,6 +24493,7 @@ copaiva
 courtliness
 copaivic
 copal
+cellulitis
 copalche
 copalcocote
 copaliferous
