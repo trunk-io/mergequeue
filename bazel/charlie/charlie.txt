@@ -11996,7 +11996,6 @@ confarreate
 choriambs
 choriambus
 cease
-choric
 chorines
 choring
 consol
@@ -18310,6 +18309,7 @@ cogglety
 coggly
 coghle
 crabbish
+choric
 cogida
 cogie
 chackling
