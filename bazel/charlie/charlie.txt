@@ -9349,7 +9349,6 @@ chatterbag
 chyme
 cocainizing
 chatterboxes
-chattered
 chincapin
 chatterers
 cassidoine
@@ -13182,6 +13181,7 @@ cessions
 ciboules
 cyc
 cicad
+chattered
 cicada
 cycadaceae
 crimpiest
