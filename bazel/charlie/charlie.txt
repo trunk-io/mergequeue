@@ -9163,7 +9163,6 @@ charqued
 charqui
 charquid
 charr
-charras
 charre
 charred
 charrette
@@ -11424,6 +11423,7 @@ chlorophora
 chloropicrin
 chloroplast
 chloroplastic
+charras
 chloroplastid
 chloroplasts
 coenamorment

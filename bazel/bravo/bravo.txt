@@ -2568,7 +2568,6 @@ baryon
 baryphonia
 baryphonic
 baris
-bearleap
 bromating
 barysilite
 barit
@@ -14523,6 +14522,7 @@ balsamea
 brandied
 brandify
 branding
+bearleap
 brandiron
 bombloads
 brandise
