@@ -1063,7 +1063,6 @@ fanes
 farish
 farkleberry
 fobs
-farkleberries
 farley
 flyleaf
 farles
@@ -10248,6 +10247,7 @@ frized
 fan
 flavous
 frizel
+farkleberries
 freightyard
 furriness
 frizers
