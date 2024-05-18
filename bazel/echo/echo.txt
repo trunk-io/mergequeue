@@ -4230,6 +4230,7 @@ emptio
 emption
 emptor
 encipher
+expo
 emptory
 empurple
 eduction
@@ -13275,7 +13276,6 @@ exorcisms
 explosively
 explosiveness
 explosives
-expo
 electromyograph
 eloquentness
 elusively
