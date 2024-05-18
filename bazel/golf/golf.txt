@@ -3022,7 +3022,6 @@ geocyclic
 geocline
 glideless
 geocoronium
-gordunite
 geocratic
 geraniols
 geodaesia
@@ -3326,6 +3325,7 @@ genecologically
 galloglass
 goniac
 geryonid
+gordunite
 gerip
 greenhorns
 genros
