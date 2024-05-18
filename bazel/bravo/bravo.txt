@@ -3913,7 +3913,6 @@ batons
 babus
 bawdrics
 bawdries
-bawl
 bevelment
 bawled
 bawley
@@ -5817,6 +5816,7 @@ beliquors
 belittle
 belittled
 begloomed
+bawl
 bowieful
 belive
 bifurcous

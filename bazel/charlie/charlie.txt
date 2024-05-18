@@ -2147,7 +2147,6 @@ campions
 calcaneus
 cample
 chaetopoda
-cornamute
 campo
 campodean
 creedbound
@@ -18895,6 +18894,7 @@ calligrapher
 colladas
 collage
 collagen
+cornamute
 collagenase
 collagenic
 collagenous
