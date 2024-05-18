@@ -13217,6 +13217,7 @@ bosporanic
 bosque
 bosques
 bosquet
+bullet
 britoness
 bossage
 bossboy
@@ -17124,7 +17125,6 @@ blubberingly
 bulldust
 bulled
 bullescene
-bullet
 bulleted
 bullethead
 bulletheadedness
