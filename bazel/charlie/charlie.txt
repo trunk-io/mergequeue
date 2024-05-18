@@ -7909,6 +7909,7 @@ camphines
 cerviconasal
 cribrous
 crotchy
+chronophotography
 cervicoscapular
 cervicothoracic
 cervicovesical
@@ -12660,7 +12661,6 @@ chronon
 chronons
 chronopher
 chronophotograph
-chronophotography
 chronophotographic
 chronos
 chronoscope
