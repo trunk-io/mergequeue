@@ -6828,7 +6828,6 @@ almagra
 airbrick
 adipocerous
 airbrushing
-airburst
 arresting
 airbusses
 aircheck
@@ -11663,6 +11662,7 @@ anaesthetization
 attempts
 anaesthetize
 anaesthetized
+airburst
 anaesthetizer
 alkynes
 arbalester
