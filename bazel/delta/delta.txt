@@ -1413,7 +1413,6 @@ dawdling
 disruptable
 dawdlingly
 dawe
-damnit
 dawen
 dasht
 dawk
@@ -10558,6 +10557,7 @@ developability
 diplocephalous
 diplocephalus
 desmognathae
+damnit
 dister
 dysaphia
 diatomean
