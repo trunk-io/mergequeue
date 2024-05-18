@@ -5048,7 +5048,6 @@ carvings
 carvoeira
 carvoepra
 carwash
-clamatorial
 carwashes
 chider
 carzey
@@ -19945,6 +19944,7 @@ commandos
 cestoidea
 commandress
 commandry
+clamatorial
 cephalothoraces
 commandrie
 clunk
