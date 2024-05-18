@@ -9914,6 +9914,7 @@ colpostat
 chemolyze
 chemonite
 chemopallidectomy
+colongitude
 chemopallidectomies
 chemopause
 congregativeness
@@ -19289,7 +19290,6 @@ colones
 circumadjacent
 cassena
 colonette
-colongitude
 colony
 colonial
 candidas
