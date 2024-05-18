@@ -14211,7 +14211,6 @@ ditheist
 deratizing
 ditheistical
 dither
-dithered
 ditherer
 dithery
 depravers
@@ -18565,6 +18564,7 @@ dust
 danseurs
 dustband
 dustbins
+dithered
 donate
 discombobulates
 dustcart
