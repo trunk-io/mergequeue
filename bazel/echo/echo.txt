@@ -1091,7 +1091,6 @@ edificate
 edification
 exfigure
 edificator
-elderhood
 earock
 edificatory
 edifice
@@ -2297,6 +2296,7 @@ evasion
 entocele
 electrochemical
 electrochemistry
+elderhood
 excrete
 electrochronometer
 electrocataphoresis
