@@ -5292,6 +5292,7 @@ affectivity
 affectless
 affector
 affectual
+atmograph
 affectum
 affectuous
 affectus
@@ -21346,7 +21347,6 @@ aftergame
 asker
 askers
 askeses
-atmograph
 aquiferous
 askewgee
 askile
