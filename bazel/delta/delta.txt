@@ -3017,7 +3017,6 @@ deducing
 disdiaclast
 deducted
 deductibility
-deductible
 deductibles
 describers
 deductio
@@ -13258,6 +13257,7 @@ dispossessory
 driblets
 delegalized
 dispost
+deductible
 disposure
 dieselization
 dispractice
