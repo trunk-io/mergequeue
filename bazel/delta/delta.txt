@@ -1345,7 +1345,6 @@ dompt
 dauntingly
 dauntingness
 dauntless
-dauntlessly
 dauntlessness
 daunton
 daunts
@@ -11296,6 +11295,7 @@ discarnation
 discase
 dimit
 discusser
+dauntlessly
 dodecant
 desponsage
 diesel
