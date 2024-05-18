@@ -1712,7 +1712,6 @@ glycocin
 gastrasthenia
 gastreas
 gulfed
-gastrectomy
 gastrectomies
 glaucosuria
 geist
@@ -8070,6 +8069,7 @@ ghastful
 gloomless
 gor
 geognosis
+gastrectomy
 granuloblastic
 granulocyte
 generalissimo

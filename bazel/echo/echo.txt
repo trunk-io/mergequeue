@@ -4727,7 +4727,6 @@ encloak
 exploratory
 eclipsis
 encloister
-etymologize
 epiphenomena
 exegetically
 experimentalists
@@ -9724,6 +9723,7 @@ espantoon
 esoterically
 esotericism
 esoterics
+etymologize
 esoterist
 evildoers
 esoterize
