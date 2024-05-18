@@ -5654,7 +5654,6 @@ engenders
 electrorefining
 ectocarpic
 engendrure
-engendure
 engild
 engilded
 egoize
@@ -9732,6 +9731,7 @@ esopus
 enchiridions
 euphuistically
 erectilities
+engendure
 esoteric
 espantoon
 esoterically
