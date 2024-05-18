@@ -3748,7 +3748,6 @@ acuating
 arrant
 acculturized
 adenosine
-adenostoma
 adenotyphoid
 adenotyphus
 antislickens
@@ -10573,6 +10572,7 @@ amylin
 amylo
 amylocellulose
 amyloclastic
+adenostoma
 aponogetonaceae
 antiredeposition
 aristolochiaceous
