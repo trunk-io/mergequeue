@@ -4719,7 +4719,6 @@ carpetmonger
 carpets
 carpetweb
 comeliest
-carpetwork
 cyanogenamide
 carpetwoven
 carphiophiops
@@ -17295,6 +17294,7 @@ coardent
 coarrange
 coarrangement
 coarse
+carpetwork
 cadis
 coarsely
 cranched
