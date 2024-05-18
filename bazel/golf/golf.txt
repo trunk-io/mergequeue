@@ -5944,7 +5944,6 @@ gaffers
 glt
 glucaemia
 galactostasis
-greywacke
 gnawable
 geaster
 glucagon
@@ -9798,6 +9797,7 @@ guayroto
 guarache
 geologize
 guiling
+greywacke
 guerickian
 guayule
 gastraea
