@@ -2139,7 +2139,6 @@ entrances
 elbowy
 elbowpiece
 elbowroom
-elbows
 elcaja
 eld
 exactly
@@ -3832,6 +3831,7 @@ emforth
 emic
 eudendrium
 emication
+elbows
 emyde
 ecumenicity
 externalising
