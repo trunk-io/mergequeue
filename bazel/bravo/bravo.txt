@@ -3773,6 +3773,7 @@ battings
 battledores
 baldly
 barotraumata
+bicornate
 battledoring
 battlefronts
 battlegrounds
@@ -8214,7 +8215,6 @@ bicorn
 benzoylformic
 bombyx
 boatman
-bicornate
 bicorned
 bicornes
 bitangent

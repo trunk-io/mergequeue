@@ -3163,7 +3163,6 @@ defalk
 defamation
 demiseason
 defamations
-defamatory
 daubing
 dentated
 defamed
@@ -8655,6 +8654,7 @@ diary
 disimmure
 disimprove
 diarian
+defamatory
 diarist
 diarize
 dillydallier
