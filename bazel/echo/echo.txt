@@ -1170,7 +1170,6 @@ edrioasteroid
 edrioasteroidea
 elixed
 edriophthalmatous
-echiuroid
 educability
 educables
 educand
@@ -11836,6 +11835,7 @@ ectogenic
 exasperate
 exasperated
 equicrural
+echiuroid
 endogens
 exasperatedly
 elliott
