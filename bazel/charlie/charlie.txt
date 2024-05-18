@@ -8492,7 +8492,6 @@ chamaesiphonaceae
 chamaesiphonales
 chamal
 chamar
-chambellan
 chamber
 chamberdeacon
 chambered
@@ -29821,6 +29820,7 @@ cotula
 crose
 croset
 crosette
+chambellan
 crosiered
 capsumin
 crosnes
