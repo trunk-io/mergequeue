@@ -7770,7 +7770,6 @@ biordinal
 beworming
 beworn
 boliche
-bullocks
 borne
 butanones
 beworried
@@ -8967,6 +8966,7 @@ binocle
 binocs
 binocular
 binocularly
+bullocks
 binoculars
 bellarmine
 binodose
