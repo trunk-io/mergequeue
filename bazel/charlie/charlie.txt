@@ -2773,7 +2773,6 @@ canonic
 canonical
 cortically
 canonicalization
-canonicalize
 cultivable
 canonicalized
 canonicalizes
@@ -28678,6 +28677,7 @@ crenately
 calography
 crotches
 crenation
+canonicalize
 crenature
 crenel
 chroococcus
