@@ -196,6 +196,7 @@ epicarpal
 earthsmoke
 earthwall
 exhumed
+exorcize
 earthwards
 earthworks
 enddamaged
@@ -14096,7 +14097,6 @@ extricated
 extricates
 enjoyer
 elvish
-exorcize
 extrinsic
 elegantly
 extrinsicality
