@@ -5716,6 +5716,7 @@ catching
 carolean
 cretic
 cannon
+crescent
 catchlight
 cultivatability
 clockcase
@@ -29582,7 +29583,6 @@ crivetz
 crizzel
 crizzled
 clerically
-crescent
 cro
 croak
 croqueting
