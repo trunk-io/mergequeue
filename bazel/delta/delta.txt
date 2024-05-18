@@ -3605,7 +3605,6 @@ deftnesses
 defunct
 decenniums
 defunction
-dollface
 defunctionalization
 disenchanter
 denegation
@@ -9606,6 +9605,7 @@ digue
 drinn
 dihalide
 derives
+dollface
 dihalo
 discommendable
 dihalogen
