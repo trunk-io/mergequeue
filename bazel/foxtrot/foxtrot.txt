@@ -1676,6 +1676,7 @@ four
 fdnames
 fdtype
 fdub
+froggies
 fdubs
 flamboyantly
 fortuitousness
@@ -10308,7 +10309,6 @@ filite
 flunkyism
 footnote
 foresightless
-froggies
 folksier
 frogginess
 froggish

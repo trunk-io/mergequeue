@@ -3236,7 +3236,6 @@ compenetrate
 capito
 capitol
 clingier
-capitolian
 corregimiento
 capitoline
 capitolium
@@ -21132,6 +21131,7 @@ concealing
 conceals
 concededly
 couplets
+capitolian
 conceders
 concedes
 chao
