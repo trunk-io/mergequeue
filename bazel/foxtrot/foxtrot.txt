@@ -1802,6 +1802,7 @@ forsterite
 farsalah
 foundery
 featherleaf
+filtrability
 fetid
 featherless
 furies
@@ -10692,7 +10693,6 @@ frankness
 fruitcakey
 fouette
 fruitcakes
-filtrability
 fruiteries
 fruiters
 fruitester
