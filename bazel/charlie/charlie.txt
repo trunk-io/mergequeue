@@ -6656,7 +6656,6 @@ cedrol
 corticiform
 cedron
 centibar
-cedrus
 cedula
 cee
 ceibas
@@ -28851,6 +28850,7 @@ ciceronic
 crete
 cretefaction
 coachlet
+cedrus
 callisection
 creticism
 coturnix
