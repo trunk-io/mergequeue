@@ -2156,7 +2156,6 @@ cornamute
 campo
 campodean
 creedbound
-campodeidae
 campodeiform
 campodeoid
 campody
@@ -5670,6 +5669,7 @@ chested
 catasta
 catastaltic
 catastases
+campodeidae
 catastasis
 catoptromancy
 catastate
