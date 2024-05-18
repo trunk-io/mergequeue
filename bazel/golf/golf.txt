@@ -5259,7 +5259,6 @@ glead
 gleam
 groundsill
 geyserine
-gametogony
 guzzler
 gleamed
 guss
@@ -9344,6 +9343,7 @@ granma
 griots
 gists
 grossers
+gametogony
 grosses
 grossest
 grosshead
