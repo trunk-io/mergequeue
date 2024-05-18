@@ -10244,6 +10244,7 @@ agricolite
 amelanchier
 argus
 auxoblast
+anthophorous
 ameland
 amelcorn
 amelcorns
@@ -14443,7 +14444,6 @@ anthophobia
 achingly
 attractancy
 anthophora
-anthophorous
 awful
 anthospermum
 anthotaxy
