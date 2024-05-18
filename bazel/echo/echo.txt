@@ -7905,7 +7905,6 @@ epikleses
 ejectum
 exululate
 epil
-endamaged
 epilabra
 epilate
 econ
@@ -11483,6 +11482,7 @@ evergreen
 evergreens
 everydayness
 everyhow
+endamaged
 everylike
 everyman
 enlaced
