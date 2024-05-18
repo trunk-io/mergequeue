@@ -8188,7 +8188,6 @@ breezelike
 bidder
 biconic
 biconical
-biconically
 baalish
 biconnected
 biconsonantal
@@ -15603,6 +15602,7 @@ broadbrim
 burred
 broadcast
 befortune
+biconically
 broadcaster
 broadcasters
 broadcastings
