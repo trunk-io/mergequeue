@@ -2614,6 +2614,7 @@ electroshock
 electroshocks
 elucidative
 envenoms
+evite
 electrosmosis
 electrostatic
 electrostatical
@@ -11588,7 +11589,6 @@ eviscerator
 eumerogenetic
 excavationist
 echnida
-evite
 endecha
 evited
 exothermally
