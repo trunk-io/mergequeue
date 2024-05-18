@@ -769,7 +769,6 @@ grigri
 gugglet
 galvanizers
 gujar
-galvanizes
 galvanizing
 galvanocauteries
 galvanoglyph
@@ -5372,6 +5371,7 @@ genomes
 gromil
 glistens
 glycerins
+galvanizes
 glycerite
 granose
 glycerize
