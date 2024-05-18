@@ -4952,7 +4952,6 @@ eggplants
 endogastric
 enderon
 enders
-expelled
 endexine
 endgate
 enfief
@@ -6222,6 +6221,7 @@ enrapts
 eccentric
 encoignure
 enraptured
+expelled
 engagee
 enrapturing
 enravish
