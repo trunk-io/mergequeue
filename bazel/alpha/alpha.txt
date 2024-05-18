@@ -3539,6 +3539,7 @@ additively
 alloisomeric
 appoggiatura
 additives
+aphrolite
 additivity
 additory
 additum
@@ -10947,7 +10948,6 @@ amoretti
 argenter
 autoprogressive
 amorettos
-aphrolite
 arizonan
 aromatizing
 amorini
