@@ -6951,6 +6951,7 @@ cementite
 cementitious
 cementlike
 carinaria
+chlorosulphonic
 cementmaker
 cementmaking
 catapan
@@ -11439,7 +11440,6 @@ cloudlessly
 counterpillar
 cheekier
 chlorosis
-chlorosulphonic
 chlorotically
 chlorotrifluoroethylene
 chlorous
