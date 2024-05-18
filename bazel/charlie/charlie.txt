@@ -2907,7 +2907,6 @@ canthari
 cantharic
 cantharidae
 cake
-chytrid
 cantharidate
 cantharidean
 cantharides
@@ -9079,6 +9078,7 @@ consuete
 charismatic
 chalazia
 charisms
+chytrid
 charisticary
 charitably
 charitative
