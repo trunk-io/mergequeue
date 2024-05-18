@@ -5867,7 +5867,6 @@ gabeller
 glosts
 glottal
 gloomy
-grapsoid
 gattine
 galera
 goodies
@@ -7017,6 +7016,7 @@ gooneys
 glyptographic
 grangerising
 grandpappy
+grapsoid
 gadi
 gyron
 goons
