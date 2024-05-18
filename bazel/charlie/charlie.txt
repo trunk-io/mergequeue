@@ -4942,7 +4942,6 @@ cartilagines
 cartilaginoid
 cartilaginous
 carting
-cartisane
 cartist
 cartload
 cartloads
@@ -22930,6 +22929,7 @@ consigned
 consignee
 consignify
 cuckooing
+cartisane
 consignificant
 consignification
 consignificative

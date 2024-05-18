@@ -6367,6 +6367,7 @@ geodic
 granatite
 ganglander
 goby
+gremmies
 goliad
 gobies
 guttula
@@ -9510,7 +9511,6 @@ greenwich
 groupies
 gainor
 gunned
-gremmies
 gliriform
 grouted
 groundkeeper
