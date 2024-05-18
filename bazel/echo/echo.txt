@@ -6554,7 +6554,6 @@ enorthotrope
 enterfeat
 estrepement
 enteria
-enwind
 enteric
 elaterid
 exolemma
@@ -13486,6 +13485,7 @@ exsanguinous
 equipollence
 expose
 erotology
+enwind
 exsanguious
 electrocauterization
 entrochus
