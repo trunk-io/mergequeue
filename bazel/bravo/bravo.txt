@@ -1443,7 +1443,6 @@ benefitting
 baline
 bugler
 balinese
-balinghasay
 balistarii
 balister
 beefish
@@ -13584,6 +13583,7 @@ boulanger
 bronchoadenitis
 boulangism
 boulder
+balinghasay
 bouldered
 bevatrons
 bleachability

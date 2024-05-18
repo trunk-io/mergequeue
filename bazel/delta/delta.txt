@@ -4401,6 +4401,7 @@ demagnetized
 demagnetizes
 demagnetizing
 devilbird
+depsid
 durning
 duckhood
 dystrophies
@@ -6026,7 +6027,6 @@ doctorlike
 donators
 deprovincialize
 debord
-depsid
 deed
 depsides
 dept
