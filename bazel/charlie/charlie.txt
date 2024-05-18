@@ -499,7 +499,6 @@ cadelles
 cadenced
 calendaric
 cadences
-cadencies
 cadencing
 cadenette
 cadent
@@ -29377,6 +29376,7 @@ cryptoscopy
 cryptosplenetic
 cryptostegia
 cryptostome
+cadencies
 cryptotaenia
 cryptous
 cryptovalence
