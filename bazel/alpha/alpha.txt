@@ -3539,7 +3539,6 @@ alloisomeric
 appoggiatura
 additives
 additivity
-additory
 additum
 acetimeter
 additur
@@ -21928,6 +21927,7 @@ assoils
 assoilzie
 assonanced
 assonant
+additory
 acaridomatium
 assonantic
 aristogenics
