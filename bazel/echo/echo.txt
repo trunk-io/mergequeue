@@ -4490,6 +4490,7 @@ encephalic
 encephalin
 encephalitic
 endostyle
+episterna
 exocolitis
 epifascial
 emulators
@@ -9625,7 +9626,6 @@ ecbolics
 esguard
 edwards
 esiphonal
-episterna
 endurable
 eulogiae
 eskers
