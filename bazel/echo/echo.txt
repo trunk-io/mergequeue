@@ -2302,7 +2302,6 @@ excrete
 electrochronometer
 electrocataphoresis
 equison
-electrochronometric
 enfroward
 electroplating
 electroplates
@@ -5804,6 +5803,7 @@ engrossers
 engrossingness
 endocarditic
 engulf
+electrochronometric
 epicardial
 enlargedly
 euthyroid
