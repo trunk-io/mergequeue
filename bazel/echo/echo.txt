@@ -4998,7 +4998,6 @@ embraces
 enamellar
 endoangiitis
 exemplum
-endoaortitis
 endoappendicitis
 economization
 enamelled
@@ -12254,6 +12253,7 @@ eucolite
 exeat
 enseat
 exec
+endoaortitis
 enteradenology
 exacervation
 execeptional
