@@ -192,6 +192,7 @@ factorability
 factorable
 factordom
 factoress
+finnicky
 flateria
 feoffed
 friskest
@@ -9381,7 +9382,6 @@ fidos
 ferocities
 franciums
 francize
-finnicky
 francois
 fatback
 freewoman
