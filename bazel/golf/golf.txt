@@ -603,6 +603,7 @@ gimpy
 gallicize
 gallicizer
 gobletful
+ghostship
 gutturize
 gingerin
 grahamite
@@ -3752,7 +3753,6 @@ ghostlify
 gnoses
 glistering
 grassation
-ghostship
 ghostweed
 ghostwriter
 ghostwriters
