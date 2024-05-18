@@ -17875,7 +17875,6 @@ codirects
 codiscoverer
 codist
 codivine
-codlin
 codline
 controlled
 codling
@@ -28492,6 +28491,7 @@ createdness
 cheliferous
 creates
 creatic
+codlin
 creatin
 critiques
 creatinephosphoric
