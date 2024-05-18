@@ -8633,7 +8633,6 @@ allegata
 allegate
 allegations
 acaroid
-alcoholizable
 alleged
 allegedly
 allegement
@@ -13363,6 +13362,7 @@ anisophyllous
 anisopia
 atbash
 anisopod
+alcoholizable
 ancient
 agree
 anisopoda
