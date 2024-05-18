@@ -678,6 +678,7 @@ bacteriotoxin
 boracic
 bacteriotrypsin
 bynames
+basifacial
 bungles
 bacteriotropic
 bubonoceze
@@ -5395,7 +5396,6 @@ begoniales
 backslapping
 ballisticians
 billionaires
-basifacial
 begonias
 begorah
 begorra
