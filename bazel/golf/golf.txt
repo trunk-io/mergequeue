@@ -5398,7 +5398,6 @@ glycogeny
 glycogenolytic
 gammaroid
 gingals
-guttulous
 glycol
 glycolaldehyde
 goback
@@ -5938,6 +5937,7 @@ gathering
 ginglymoarthrodia
 gaffers
 glt
+guttulous
 glucaemia
 galactostasis
 greywacke
