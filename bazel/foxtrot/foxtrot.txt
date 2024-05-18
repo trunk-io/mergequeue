@@ -1868,6 +1868,7 @@ frutify
 fusils
 februation
 furniment
+filletster
 fec
 fecaloid
 fertilized
@@ -3704,7 +3705,6 @@ fillemot
 frownless
 fishweir
 filleted
-filletster
 frail
 filleul
 filly
