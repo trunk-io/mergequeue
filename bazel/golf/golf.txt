@@ -5059,7 +5059,6 @@ glaister
 genoblast
 glaistig
 glaived
-gladdened
 glaives
 grulla
 ghebeta
@@ -8426,6 +8425,7 @@ geldant
 gravelled
 gravelly
 geoglyphic
+gladdened
 ginglymus
 gyrolite
 gravelling
