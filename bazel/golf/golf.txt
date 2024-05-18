@@ -2591,7 +2591,6 @@ geobotanical
 gendarmerie
 gnawings
 guided
-gendarmes
 gigacycle
 genderer
 goliardery
@@ -9427,6 +9426,7 @@ guazzo
 goldmist
 groundlings
 groundmass
+gendarmes
 glassophone
 groundneedle
 groundout
