@@ -3908,7 +3908,6 @@ gif
 gradientia
 grievant
 giffgaff
-gifola
 gift
 giftbook
 greasy
@@ -7416,6 +7415,7 @@ geminal
 gourmanderie
 gourmandise
 gourmandism
+gifola
 gourmandizer
 gomerals
 gametically
