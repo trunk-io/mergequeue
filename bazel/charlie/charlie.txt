@@ -11815,7 +11815,6 @@ conduplication
 chondroitic
 chondroitin
 cucurbitaceae
-chondrology
 chondromata
 chondromatous
 chondromyces
@@ -28931,6 +28930,7 @@ crib
 crybaby
 centrolecithal
 conductility
+chondrology
 crybabies
 cribbage
 cribbed
