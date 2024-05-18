@@ -5992,7 +5992,6 @@ gluconeogenic
 goatsucker
 gluconokinase
 glucosaemia
-glucosone
 gametal
 galactophorous
 glucosamine
@@ -10528,6 +10527,7 @@ gunlock
 gunlocks
 guanays
 gunmaking
+glucosone
 gaun
 guelphic
 grasset
