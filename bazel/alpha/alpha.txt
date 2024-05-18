@@ -5353,7 +5353,6 @@ affines
 affinitative
 alemanni
 affinitatively
-aggerate
 affinities
 affinition
 affinitive
@@ -21799,6 +21798,7 @@ agathodaemon
 assidually
 adjunction
 antiempiricism
+aggerate
 assiduities
 assiduousness
 assiege
