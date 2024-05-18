@@ -1842,7 +1842,6 @@ acedias
 acanthological
 abbreviature
 aceite
-autopathy
 aceldama
 aceldamas
 adulce
@@ -21675,6 +21674,7 @@ anagua
 assecure
 assecution
 assegai
+autopathy
 amend
 assegaied
 acaudal
