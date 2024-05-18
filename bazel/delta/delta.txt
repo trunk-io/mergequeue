@@ -1691,7 +1691,6 @@ deaquation
 docksides
 dearborn
 damndest
-dumortierite
 dearest
 deary
 derides
@@ -3459,6 +3458,7 @@ dichlorvos
 deflesh
 deflexed
 deflexibility
+dumortierite
 deflexible
 dysgenics
 dratted
