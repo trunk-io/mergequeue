@@ -4946,6 +4946,7 @@ garishness
 gamophagia
 ghostfish
 gryphite
+gona
 garbure
 glacialize
 greeing
@@ -10512,7 +10513,6 @@ gunj
 gunstock
 gunja
 gunjah
-gona
 gunk
 gunkholed
 geronomite
