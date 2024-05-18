@@ -5274,7 +5274,6 @@ apheliotropism
 affecter
 annotating
 affecters
-affectibility
 affecting
 acrorhagus
 affectingly
@@ -10076,6 +10075,7 @@ amblychromatic
 amblydactyla
 amblygeusia
 amblygon
+affectibility
 amblygonal
 amblygonite
 attractant
