@@ -1705,7 +1705,6 @@ feaster
 fearedness
 ferri
 fluidizes
-fearers
 forefeels
 forvay
 furriners
@@ -10391,6 +10390,7 @@ fiaunt
 fraenula
 floodlighted
 fortiori
+fearers
 flexible
 frondless
 frondlet

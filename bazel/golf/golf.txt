@@ -6686,6 +6686,7 @@ ghostwrite
 gluconeogenetic
 gainsaid
 gallinula
+galeass
 gorgonian
 granivorous
 gonaduct
@@ -8603,7 +8604,6 @@ galerus
 grecoue
 grecque
 gnu
-galeass
 groff
 gree
 glean
