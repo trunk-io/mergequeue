@@ -8866,7 +8866,6 @@ commonplaces
 chapelman
 chapelmaster
 chapelry
-chapelries
 chapels
 chapelward
 compile
@@ -23620,6 +23619,7 @@ contorta
 contortae
 contortedly
 coati
+chapelries
 corycian
 contortedness
 contorting
