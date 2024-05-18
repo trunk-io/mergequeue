@@ -7557,6 +7557,7 @@ gypseous
 gemmula
 grus
 grabhook
+gulist
 grabouche
 gluside
 grabs
@@ -10352,7 +10353,6 @@ guerdoned
 gulinula
 glaur
 gulinular
-gulist
 gimper
 garretmaster
 gonophoric
