@@ -18,6 +18,7 @@ babacoote
 babaylanes
 bhalu
 branch
+bodhi
 babassu
 beringite
 babasu
@@ -12932,7 +12933,6 @@ boots
 bootstrapped
 bootstrapping
 blouson
-bodhi
 boottop
 boozed
 biforous
