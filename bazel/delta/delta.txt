@@ -15462,7 +15462,6 @@ doms
 don
 dona
 dyslexias
-donable
 donaciform
 donack
 dilatometric
@@ -18008,6 +18007,7 @@ disincline
 dulcid
 dulcify
 dissyllabising
+donable
 dulcification
 dulcified
 disilluded
