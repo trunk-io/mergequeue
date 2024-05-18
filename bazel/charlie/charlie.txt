@@ -3417,7 +3417,6 @@ cimelia
 capriola
 caprioled
 caprioles
-caprioling
 capriote
 capriped
 capripede
@@ -5487,6 +5486,7 @@ catachrestic
 cercariae
 catachrestical
 catachrestically
+caprioling
 catachthonian
 catachthonic
 cataclasis
