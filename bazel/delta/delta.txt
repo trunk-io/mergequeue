@@ -6378,7 +6378,6 @@ diagrammatical
 dermogastric
 dermographia
 dermohemal
-disapproved
 dermohemia
 dermohumeral
 dermoid
@@ -6688,6 +6687,7 @@ desesperance
 desexualized
 deludes
 desexualizing
+disapproved
 deshabille
 decharm
 dinitrophenol
