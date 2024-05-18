@@ -5156,7 +5156,6 @@ aerotonometric
 antepagmenta
 angiocarpy
 aerotropism
-aeroview
 aeruginous
 aerugo
 aerugos
@@ -20321,6 +20320,7 @@ austerity
 arrimby
 aphides
 arrises
+aeroview
 arrisways
 akasha
 arriswise
