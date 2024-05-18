@@ -202,7 +202,6 @@ cabreuva
 crases
 carpological
 cabrilla
-cabrillas
 cabrioles
 cabriolet
 cabriolets
@@ -20683,6 +20682,7 @@ complementoid
 cooperations
 complete
 completement
+cabrillas
 canzos
 cassabanana
 completeness
