@@ -5578,6 +5578,7 @@ flightiness
 flightless
 facund
 forepassed
+furnit
 flights
 fannier
 fructuose
@@ -6166,7 +6167,6 @@ foresaw
 flowage
 flowcharted
 fulicinae
-furnit
 finality
 flowcontrol
 flowed

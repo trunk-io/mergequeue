@@ -2944,7 +2944,6 @@ acroparalysis
 anilopyrine
 amidopyrine
 acropathy
-acropathology
 achromatin
 acropetal
 argyroneta
@@ -18868,6 +18867,7 @@ andrew
 archebanc
 archebancs
 alkine
+acropathology
 archebiosis
 archecentric
 arched
