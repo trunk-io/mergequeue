@@ -9490,7 +9490,6 @@ frater
 frateries
 fideism
 fells
-fraternal
 fylgja
 fraternality
 faultlessness
@@ -10985,6 +10984,7 @@ fooled
 funding
 fibrillations
 flayer
+fraternal
 fulzie
 fumado
 frontrunner
