@@ -5270,7 +5270,6 @@ endosome
 equilibrist
 endomorphism
 extispices
-endosomes
 endospermic
 endospermous
 endospore
@@ -7223,6 +7222,7 @@ embayment
 enzootics
 ectogenetic
 eo
+endosomes
 equilobate
 ergotization
 extravascular
