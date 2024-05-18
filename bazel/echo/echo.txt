@@ -8378,6 +8378,7 @@ epithem
 emulating
 epitheme
 epithermal
+eluent
 epithermally
 emmenia
 eucleid
@@ -10915,7 +10916,6 @@ eupatorium
 eupatrid
 eupatridae
 eupatrids
-eluent
 epigram
 eupepsy
 epitapher
