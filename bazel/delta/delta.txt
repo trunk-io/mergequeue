@@ -10572,7 +10572,6 @@ diplocoria
 diplodia
 diplodocus
 dopant
-diplodus
 diploe
 diploes
 dependable
@@ -14780,6 +14779,7 @@ doctors
 disfranchise
 debituminization
 desiliconize
+diplodus
 doctress
 developement
 doctrinairism
