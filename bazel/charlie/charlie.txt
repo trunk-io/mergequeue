@@ -11431,7 +11431,6 @@ chloroplastid
 chloroplasts
 coenamorment
 chloroplatinite
-chloroplatinous
 chloroprene
 chloropsia
 chloroquine
@@ -31232,6 +31231,7 @@ consentaneously
 cliency
 curation
 cutworks
+chloroplatinous
 curative
 cedared
 curativeness
