@@ -10852,7 +10852,6 @@ cutgrasses
 clavicylinder
 chinooks
 chinos
-chinotoxine
 chinotto
 chaplaincy
 chinovnik
@@ -25366,6 +25365,7 @@ curculionist
 corndodger
 cornea
 corneal
+chinotoxine
 corneas
 cappelenite
 cornein
