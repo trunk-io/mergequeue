@@ -4275,7 +4275,6 @@ enteropathogenic
 emunctory
 electroencephalographic
 enlay
-emunctories
 exostracism
 epigraphical
 emunge
@@ -6444,6 +6443,7 @@ ensteep
 evenblush
 enstranged
 enstore
+emunctories
 enstrengthen
 elocation
 epitomizer

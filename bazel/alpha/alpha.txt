@@ -5652,7 +5652,6 @@ accidentally
 afterguard
 anaerobious
 afterharm
-afterheat
 afterhelp
 afterhend
 afterhope
@@ -24437,6 +24436,7 @@ autotimer
 autotypy
 autotypic
 autotypography
+afterheat
 acutangular
 autotomy
 autotomise
