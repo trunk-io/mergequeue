@@ -6882,6 +6882,7 @@ airglow
 airglows
 airgraphics
 areopagus
+ageusia
 anisometropia
 airhead
 amorosa
@@ -22826,7 +22827,6 @@ atonic
 atonicity
 atonics
 atoning
-ageusia
 atoningly
 atop
 alcelaphus
