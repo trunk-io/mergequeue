@@ -7486,6 +7486,7 @@ cepheids
 cephen
 coastings
 cephid
+cystotomy
 cardionephric
 cephidae
 cephus
@@ -14787,7 +14788,6 @@ cystospore
 cystostomy
 cystostomies
 cystotome
-cystotomy
 cystotomies
 castellan
 cystotrachelotomy
