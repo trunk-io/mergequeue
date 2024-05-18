@@ -11237,7 +11237,6 @@ chloralose
 chloralosed
 chloralum
 chlorambucil
-chloramin
 crepidomata
 chloramphenicol
 caperwort
@@ -12481,6 +12480,7 @@ chromize
 cyanopsia
 contextual
 chromized
+chloramin
 copromisor
 clavatin
 chromizes
