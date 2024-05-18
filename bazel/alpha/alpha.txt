@@ -4818,6 +4818,7 @@ aegrotant
 alabastron
 archiving
 azazel
+archwise
 aegrotat
 acroterion
 abush
@@ -21077,7 +21078,6 @@ afteryears
 asthorin
 anomural
 ascolichen
-archwise
 ascolichenes
 ascomycete
 ascomycetous
