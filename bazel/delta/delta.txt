@@ -8294,7 +8294,6 @@ diagnosticians
 diagnostics
 dispopularize
 disputableness
-demove
 derogations
 dele
 diagonal
@@ -15525,6 +15524,7 @@ donkeyman
 draegerman
 donkeywork
 diatomaceoid
+demove
 donmeh
 donn
 donna
