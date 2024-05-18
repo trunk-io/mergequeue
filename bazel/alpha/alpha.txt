@@ -366,6 +366,7 @@ auxohormone
 abidal
 abidance
 abidances
+apex
 abide
 abided
 anlaut
@@ -1971,7 +1972,6 @@ accreted
 acetiam
 acetic
 acetified
-apex
 acetifies
 apetalose
 acetifying
