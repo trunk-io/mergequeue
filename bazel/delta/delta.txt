@@ -9877,6 +9877,7 @@ dimetallic
 dimeter
 dimethyl
 dimethylamine
+diploe
 dimethylbenzene
 disneyland
 dimethyldiketone
@@ -10564,7 +10565,6 @@ diplodia
 diplodocus
 dopant
 diplodus
-diploe
 diploes
 dependable
 dioestrum
