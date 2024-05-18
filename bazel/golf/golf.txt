@@ -819,7 +819,6 @@ galvanotherapy
 gurle
 glossolalist
 goyin
-galvanothermometer
 galinaceous
 galvanothermy
 galvanotonic
@@ -7635,6 +7634,7 @@ gradiometer
 general
 granters
 gradiometric
+galvanothermometer
 gastrophilus
 granzita
 gynandrophore
