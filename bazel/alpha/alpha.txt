@@ -10040,7 +10040,6 @@ analysability
 ambitendent
 ambition
 ambitioning
-ambitions
 ambitiously
 ambitiousness
 ambitty
@@ -11520,6 +11519,7 @@ anacampsis
 asteraceae
 anacamptic
 attame
+ambitions
 anacamptically
 archhead
 anility
