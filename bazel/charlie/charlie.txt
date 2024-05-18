@@ -9451,7 +9451,6 @@ combinement
 cembali
 chawing
 chawk
-chawl
 chawle
 chawn
 chitarrino
@@ -18260,6 +18259,7 @@ coffers
 cofferwork
 coffin
 coffing
+chawl
 coffinless
 consoled
 countervene
