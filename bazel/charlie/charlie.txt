@@ -11848,6 +11848,7 @@ chondrus
 chonicrite
 chonk
 calfhood
+counterdefender
 chonta
 chontal
 chontaquiro
@@ -26818,7 +26819,6 @@ counterdance
 counterdeclaration
 counterdecree
 cucumis
-counterdefender
 counterdemonstrate
 cognitum
 counterdeputation
