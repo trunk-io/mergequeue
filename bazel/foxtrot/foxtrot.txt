@@ -5660,7 +5660,6 @@ flinthearted
 flinty
 formularizer
 footpound
-flashlike
 fermata
 flintwood
 fanfold
@@ -8188,6 +8187,7 @@ forfairn
 fumbler
 forfalt
 friezing
+flashlike
 forfars
 forfault
 forfaulture
