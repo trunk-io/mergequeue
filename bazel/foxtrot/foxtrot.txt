@@ -287,7 +287,6 @@ fados
 fae
 fourierite
 faecula
-forward
 faeculence
 faenas
 foreking
@@ -7628,6 +7627,7 @@ flays
 fluosilicate
 foredune
 firy
+forward
 ferroglass
 forefathers
 fastly
