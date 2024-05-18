@@ -802,7 +802,6 @@ formalistic
 fanging
 fanglet
 fishbones
-fanglike
 fanglomerate
 frizado
 fesswise
@@ -7376,6 +7375,7 @@ flushing
 forbare
 forbarred
 forbborne
+fanglike
 freshen
 forbearable
 forbearant
