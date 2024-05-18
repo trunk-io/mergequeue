@@ -9062,7 +9062,6 @@ celadons
 chariot
 charioteer
 continuo
-charioting
 chariotman
 collegiately
 cumarin
@@ -29492,6 +29491,7 @@ crystallogenical
 crystallogy
 confliction
 contractibleness
+charioting
 cageot
 crystallogram
 crystallograph
