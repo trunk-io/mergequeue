@@ -2477,7 +2477,6 @@ electrolyzed
 electrology
 entablatured
 electrological
-electrologists
 electromagnet
 electromagnetic
 emancipators
@@ -11368,6 +11367,7 @@ eikonogen
 evaporates
 edp
 eimer
+electrologists
 extrascholastic
 elytron
 euphorbine
