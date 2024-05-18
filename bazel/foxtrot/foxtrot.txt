@@ -8141,7 +8141,6 @@ foretrace
 fluviovolcanic
 foreuse
 foreutter
-forevalue
 fibulas
 federalize
 flamier
@@ -8434,6 +8433,7 @@ formations
 folies
 footwall
 flingdust
+forevalue
 flooey
 foresettled
 formazan

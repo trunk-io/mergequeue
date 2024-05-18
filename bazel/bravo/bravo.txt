@@ -2081,6 +2081,7 @@ barebone
 banksmen
 bucketed
 bibliophage
+blossoming
 banlieu
 botel
 boidae
@@ -5651,7 +5652,6 @@ blethering
 baguettes
 beknave
 beknight
-blossoming
 beknighted
 beknighting
 beknived
