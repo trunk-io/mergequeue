@@ -402,7 +402,6 @@ ergometer
 encharged
 expressman
 ebullioscopy
-ebullioscopic
 earworm
 equangular
 extg
@@ -9033,6 +9032,7 @@ ericoid
 euhemeristic
 ericophyte
 eridanid
+ebullioscopic
 erigeron
 erigerons
 erigible
