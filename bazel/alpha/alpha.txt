@@ -4854,7 +4854,6 @@ aeolis
 aeolist
 aeolistic
 aeolomelodicon
-averin
 aeolotropy
 aeolotropic
 aeolus
@@ -9120,6 +9119,7 @@ alluvious
 alluviums
 alluvivia
 allwhere
+averin
 accipitres
 allwhither
 allwork
