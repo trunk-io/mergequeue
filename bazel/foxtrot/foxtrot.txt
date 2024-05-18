@@ -5011,7 +5011,6 @@ foremark
 favourless
 flapperdom
 framableness
-flappers
 flappet
 flappy
 faraway
@@ -6172,6 +6171,7 @@ fcp
 foresaw
 flowage
 flowcharted
+flappers
 fulicinae
 furnit
 finality
