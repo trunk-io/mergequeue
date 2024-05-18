@@ -8883,7 +8883,6 @@ gladelike
 geriatric
 gaddingly
 gnaw
-gribane
 gribble
 grice
 gnomon
@@ -10817,6 +10816,7 @@ gutturalized
 guttus
 gargol
 gutwort
+gribane
 guv
 grouter
 guvacine
