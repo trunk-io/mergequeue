@@ -5118,7 +5118,6 @@ aeroplanist
 aeroscepsy
 aurum
 aeroscepsis
-aeroscopy
 aeroscopically
 aerose
 acuminating
@@ -8499,6 +8498,7 @@ alkalinizes
 acrolith
 antilog
 alkalinizing
+aeroscopy
 avogram
 alkalinuria
 apocryphalist
