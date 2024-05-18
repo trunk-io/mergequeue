@@ -1015,7 +1015,6 @@ boohooed
 byspell
 boat
 bayamos
-brigand
 bayano
 bewitch
 bayardly
@@ -10096,6 +10095,7 @@ byway
 bushranger
 bywalk
 bywalking
+brigand
 biweeklies
 backslidden
 blondness
