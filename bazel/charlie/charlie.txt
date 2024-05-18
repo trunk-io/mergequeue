@@ -17907,7 +17907,6 @@ coediting
 coeditors
 column
 coedits
-coeducation
 coeducationalism
 coeducationalize
 coef
@@ -17975,6 +17974,7 @@ coelom
 charging
 coeloma
 coelomata
+coeducation
 coelomatic
 coelomatous
 coelome
