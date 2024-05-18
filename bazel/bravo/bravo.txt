@@ -676,7 +676,6 @@ bacteriotoxin
 boracic
 bacteriotrypsin
 bynames
-bungles
 bacteriotropic
 bubonoceze
 blepharedema
@@ -10515,6 +10514,7 @@ blasphemies
 blasphemous
 blasphemously
 blasphemousness
+bungles
 buttonhole
 blastema
 blastemal
