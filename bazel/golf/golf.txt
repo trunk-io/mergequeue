@@ -6259,7 +6259,6 @@ gnow
 gns
 gatefolds
 go
-goa
 grammar
 germiparity
 grammaticize
@@ -10314,6 +10313,7 @@ gaffsman
 grippal
 gagged
 geosynchronous
+goa
 goldfishes
 gulancha
 gauloiserie
