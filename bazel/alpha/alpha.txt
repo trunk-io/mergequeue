@@ -11417,7 +11417,6 @@ amtracks
 alephs
 adnexitis
 amtracs
-aeroporotomy
 amu
 amuchco
 amuck
@@ -17382,6 +17381,7 @@ anatifa
 apophysis
 apophysitis
 autopsying
+aeroporotomy
 apophlegm
 apophlegmatic
 apophony
