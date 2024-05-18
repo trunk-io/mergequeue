@@ -1303,6 +1303,7 @@ gooseliver
 guidage
 gonochorismus
 grump
+genitive
 guana
 garb
 garbage
@@ -2806,7 +2807,6 @@ graybeards
 genitivally
 grangerized
 grocer
-genitive
 genitocrural
 geniculum
 glug
