@@ -3324,7 +3324,6 @@ bask
 basked
 basker
 basket
-basketballer
 basketballs
 basketfuls
 bathers
@@ -10326,6 +10325,7 @@ blackware
 bilges
 befleaed
 blackwater
+basketballer
 baphomet
 blackweed
 barotactic

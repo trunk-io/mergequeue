@@ -13621,6 +13621,7 @@ cylindrograph
 compilers
 chisel
 cylindroid
+corporeals
 cylindroidal
 cylindroma
 cylindromata
@@ -25663,7 +25664,6 @@ corporealization
 cochlea
 corporeally
 corporealness
-corporeals
 corporeity
 crankier
 corporeous
