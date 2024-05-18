@@ -3856,7 +3856,6 @@ cardcase
 carbonising
 carbazin
 carbonitride
-carbonizable
 cincinatti
 chromatics
 carbonization
@@ -27553,6 +27552,7 @@ coventrize
 cover
 containable
 coverable
+carbonizable
 coverages
 coverall
 coveralled
