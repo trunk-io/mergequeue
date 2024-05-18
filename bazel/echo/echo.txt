@@ -4566,7 +4566,6 @@ englante
 expel
 enchantress
 enchants
-encharging
 enchased
 exchangeable
 exsolve
@@ -10701,6 +10700,7 @@ epimysium
 eudaemons
 eudaimonia
 eudaimonist
+encharging
 eudemian
 eudemon
 eudemony
