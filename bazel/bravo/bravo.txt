@@ -1749,6 +1749,7 @@ bruise
 bismutite
 baltei
 balthasar
+boral
 barterer
 baltheus
 blends
@@ -12971,7 +12972,6 @@ boraginaceae
 boraginaceous
 borago
 bedamn
-boral
 boran
 boranes
 borani
