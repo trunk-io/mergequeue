@@ -11289,7 +11289,6 @@ discants
 distributional
 downgrowth
 dimmable
-discardable
 discarded
 drainageway
 discarding
@@ -14457,6 +14456,7 @@ divinesse
 demotic
 dementias
 divinest
+discardable
 divinifying
 diviningly
 decapitating
