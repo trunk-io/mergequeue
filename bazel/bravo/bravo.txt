@@ -4179,6 +4179,7 @@ bowmaking
 bro
 beelbow
 bearded
+braunites
 beardfishes
 beswarms
 beardy
@@ -14679,7 +14680,6 @@ brauneria
 bullwork
 bobbling
 braunite
-braunites
 bonbonniere
 baluchistan
 braunschweiger
