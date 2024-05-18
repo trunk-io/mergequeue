@@ -4618,7 +4618,6 @@ flatnose
 footslogs
 frecked
 fixator
-filagrees
 fixe
 fixed
 foveated
@@ -8338,6 +8337,7 @@ forkman
 ficus
 forswornness
 forks
+filagrees
 forksful
 forksmith
 ferromagneticism
