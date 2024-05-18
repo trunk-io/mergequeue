@@ -6033,6 +6033,7 @@ agglutination
 arenaceous
 agglutinative
 aliseptal
+alvearies
 agglutinatively
 agglutinator
 agamobium
@@ -9678,7 +9679,6 @@ autoaddress
 alvan
 alvar
 alveary
-alvearies
 alvearium
 alveated
 archegoniophore
