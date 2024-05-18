@@ -5516,7 +5516,6 @@ flybys
 fluctisonous
 flyblowing
 flyblows
-flyboats
 freshmanic
 fiendlike
 fleers
@@ -6607,6 +6606,7 @@ foaled
 foalfoots
 foaly
 foredoing
+flyboats
 falconiform
 foaling
 foals
