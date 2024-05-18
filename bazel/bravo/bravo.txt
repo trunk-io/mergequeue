@@ -12304,6 +12304,7 @@ bombarder
 bombardiers
 bombarding
 bombardman
+bugsha
 burrfishes
 bullwhacker
 bramantesque
@@ -16930,7 +16931,6 @@ bugong
 balloonlike
 bugout
 bugs
-bugsha
 bugweed
 bugwort
 banca
