@@ -2930,7 +2930,6 @@ barricaded
 baryes
 barricaders
 bedplates
-barricado
 bigothero
 barricadoes
 brainsick
@@ -5230,6 +5229,7 @@ buoyage
 befriended
 befriender
 befriending
+barricado
 barns
 beadhouse
 byzantian
