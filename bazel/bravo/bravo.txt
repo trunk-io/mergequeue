@@ -9742,7 +9742,6 @@ bisiliac
 bestir
 benison
 bisilicate
-bisyllabic
 benefactions
 burao
 bisyllabism
@@ -12977,6 +12976,7 @@ boranes
 borani
 boras
 beaverite
+bisyllabic
 balsamum
 borasca
 bowne
