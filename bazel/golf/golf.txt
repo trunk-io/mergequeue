@@ -488,6 +488,7 @@ galeodes
 gnapweed
 glossoncus
 galeorchis
+gunhouse
 gospelize
 glucinic
 geelhout
@@ -9371,7 +9372,6 @@ gemmiparity
 genocide
 grote
 gitalin
-gunhouse
 genarcha
 grotesque
 grotesqueness

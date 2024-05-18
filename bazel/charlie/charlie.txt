@@ -1417,6 +1417,7 @@ chunkhead
 confect
 calyptoblastea
 calyptoblastic
+cardamon
 calyptorhynchus
 calyptraea
 calyptranthes
@@ -4016,7 +4017,6 @@ chouses
 cowpox
 cardamom
 cicatrise
-cardamon
 cardamons
 cardamum
 cardanic
