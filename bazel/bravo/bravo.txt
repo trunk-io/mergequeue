@@ -3393,7 +3393,6 @@ bemata
 bughouse
 beholders
 bassette
-bassetted
 bays
 bassetting
 bassy
@@ -11274,6 +11273,7 @@ bur
 bestrapped
 blotchiness
 backoff
+bassetted
 benegro
 burblier
 buckeye
