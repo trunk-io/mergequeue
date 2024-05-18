@@ -6086,6 +6086,7 @@ catskill
 coll
 catso
 catsos
+crownets
 catspaw
 catspaws
 catstane
@@ -30083,7 +30084,6 @@ crowned
 crowner
 crownet
 cantilevering
-crownets
 caprinic
 crownland
 crownless
