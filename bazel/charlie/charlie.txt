@@ -15922,6 +15922,7 @@ cleche
 capacitance
 clechee
 clechy
+crithomancy
 corncob
 cleck
 cled
@@ -29539,7 +29540,6 @@ criterium
 crith
 crithidia
 conservatism
-crithomancy
 critic
 critical
 criticality
