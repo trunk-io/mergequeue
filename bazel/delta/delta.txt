@@ -10238,6 +10238,7 @@ dinosauria
 dressing
 dinothere
 dinotherian
+denumeration
 dinotherium
 dins
 dint
@@ -13802,7 +13803,6 @@ daikering
 distalwards
 diplococcoid
 distance
-denumeration
 demast
 distanceless
 distancy
