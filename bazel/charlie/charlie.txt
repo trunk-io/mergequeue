@@ -3699,7 +3699,6 @@ chetty
 caravanner
 caravans
 caravansary
-caravansaries
 caravanserai
 caravanserial
 companeros
@@ -7961,6 +7960,7 @@ cessionee
 cessment
 cessor
 cesspipe
+caravansaries
 cesspit
 cesspits
 clamors
