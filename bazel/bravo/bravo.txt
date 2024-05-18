@@ -5323,7 +5323,6 @@ beggarlice
 beggarlike
 beggarliness
 brimless
-beggarman
 beggarweed
 bubbies
 batrachoididae
@@ -13621,6 +13620,7 @@ boundable
 blockaders
 bridesmaiding
 backdate
+beggarman
 bounded
 boundedly
 boundedness

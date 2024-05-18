@@ -5827,6 +5827,7 @@ depones
 deponing
 deltidium
 depopulated
+dorsiflex
 depopulates
 depopulating
 depopulation
@@ -15789,7 +15790,6 @@ discordia
 dorsicornu
 dorsiduct
 dorsifixed
-dorsiflex
 dorsiflexion
 deuteron
 detects
