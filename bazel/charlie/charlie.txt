@@ -7903,7 +7903,6 @@ cervicodynia
 cervicofacial
 cervicolabial
 cervicolumbar
-crystal
 cervicomuscular
 chiasmi
 camphines
@@ -27480,6 +27479,7 @@ coutumier
 couture
 coutures
 couturier
+crystal
 couturiere
 couturieres
 couturiers
