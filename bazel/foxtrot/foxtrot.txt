@@ -5024,7 +5024,6 @@ footbeat
 fructus
 flareback
 foramens
-fadeless
 fengite
 ferments
 firnification
@@ -8182,6 +8181,7 @@ forfairn
 fumbler
 forfalt
 friezing
+fadeless
 forfars
 forfault
 forfaulture

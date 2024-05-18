@@ -4648,7 +4648,6 @@ demilitarise
 demilitarised
 demilitarising
 demilitarization
-demilitarized
 dentaliidae
 demilitarizes
 demilitarizing
@@ -5992,6 +5991,7 @@ depressurize
 dere
 deprest
 dechlorination
+demilitarized
 depreter
 depriment
 deprint
