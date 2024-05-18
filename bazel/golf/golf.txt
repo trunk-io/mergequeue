@@ -6337,7 +6337,6 @@ genethliatic
 goave
 greats
 gregorianizer
-gob
 goban
 glycemic
 gobbed
@@ -10168,6 +10167,7 @@ grivet
 goldurnedest
 goldhead
 guido
+gob
 gladiolar
 gighe
 goos
