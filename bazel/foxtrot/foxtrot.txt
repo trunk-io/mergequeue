@@ -8004,7 +8004,6 @@ forespencer
 forespoke
 fiz
 forest
-fellmongered
 forestaffs
 forestage
 forestair
@@ -11373,6 +11372,7 @@ furify
 felis
 fermage
 futurity
+fellmongered
 fifthly
 furiouser
 furivae
