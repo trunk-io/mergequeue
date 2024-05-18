@@ -54,7 +54,6 @@ cabbaged
 chlorophyll
 coexisted
 cabbagehead
-cabbageheaded
 cabbageheadedness
 cabbagelike
 circumspatial
@@ -7962,6 +7961,7 @@ cessionaire
 castaway
 cessionee
 cessment
+cabbageheaded
 cessor
 cesspipe
 cesspit
