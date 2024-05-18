@@ -4163,7 +4163,6 @@ cardiophobe
 cardiophobia
 cardiophrenia
 capette
-cardiopyloric
 cardiopneumatic
 cardiopneumograph
 cardioptosis
@@ -11227,6 +11226,7 @@ chloragogue
 chloral
 chloralformamide
 chloralization
+cardiopyloric
 cymbocephalic
 chloralize
 chloralized
