@@ -8803,7 +8803,6 @@ flashtube
 flue
 forwork
 feoffing
-fallacia
 forz
 forzando
 fulgor
@@ -9791,6 +9790,7 @@ forehandsel
 factorship
 freir
 freith
+fallacia
 folletti
 folklorism
 foreset
