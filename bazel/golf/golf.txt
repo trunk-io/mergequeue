@@ -791,7 +791,6 @@ gombeen
 galvanometers
 galvanometric
 geometries
-genae
 galvanoplasty
 gavel
 gridder
@@ -3112,6 +3111,7 @@ geometers
 geometricism
 gyrostatically
 genii
+genae
 gorra
 geometrid
 genapper
