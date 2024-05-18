@@ -7616,7 +7616,6 @@ gradgrind
 gud
 grubstake
 gradient
-gamopetalae
 gutty
 gradin
 gynecotelic
@@ -8618,6 +8617,7 @@ greedyguts
 guaconize
 globosphaerite
 greedless
+gamopetalae
 greedsome
 glims
 gorsechat
