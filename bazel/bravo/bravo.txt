@@ -15307,7 +15307,6 @@ bleeds
 bluehead
 bedstaves
 brier
-briered
 brainwasher
 brierroot
 bries
@@ -16891,6 +16890,7 @@ bugdom
 banneret
 bugeye
 bugeyes
+briered
 bugfish
 bonducs
 buggane
