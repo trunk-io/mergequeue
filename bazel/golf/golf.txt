@@ -2728,6 +2728,7 @@ gonocalyx
 guinea
 genethlialogic
 genethlialogical
+guinfo
 galores
 graal
 genethlic
@@ -6911,7 +6912,6 @@ gauntlets
 gonotype
 gonotome
 galeas
-guinfo
 gutwise
 gonozooid
 galactosemic
