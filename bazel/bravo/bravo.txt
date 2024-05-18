@@ -1139,6 +1139,7 @@ bairnwort
 baisemain
 boardable
 baysmelt
+besmears
 bout
 baister
 barrenest
@@ -2629,7 +2630,6 @@ bantamweight
 barkiest
 birdhouses
 barking
-besmears
 barkinji
 barkless
 barklyite
