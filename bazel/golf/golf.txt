@@ -2547,7 +2547,6 @@ goldeneye
 glycohemia
 ghoulish
 grypanian
-gemologist
 gasthauser
 groping
 gloaming
@@ -9681,6 +9680,7 @@ gruys
 georgiana
 germinable
 grumbled
+gemologist
 gipons
 gnathopodous
 grumbling
