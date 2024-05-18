@@ -3556,7 +3556,6 @@ fuzztail
 filaments
 formularise
 filamentule
-filander
 filao
 froward
 filariae
@@ -8419,6 +8418,7 @@ fluorinating
 fatter
 francomania
 formanilide
+filander
 fuze
 formates
 formating
