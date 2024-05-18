@@ -5066,7 +5066,6 @@ endocrinology
 evinced
 ebraick
 exposures
-entogenous
 endocrinologist
 embosser
 ecdysones
@@ -12715,6 +12714,7 @@ exonerate
 exonerating
 ephemerous
 emaciating
+entogenous
 essays
 exonerations
 exonerative
