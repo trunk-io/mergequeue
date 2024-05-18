@@ -1831,7 +1831,6 @@ bandaged
 bandager
 bandages
 bandaging
-brakes
 bandaid
 bandala
 bandana
@@ -10941,6 +10940,7 @@ blindedly
 beeyard
 blinder
 behovely
+brakes
 blinders
 blindest
 blindfast
