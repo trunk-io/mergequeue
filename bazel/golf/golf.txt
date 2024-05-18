@@ -600,7 +600,6 @@ glycoprotein
 gallicisms
 gimpy
 gallicize
-gallicizer
 gobletful
 gutturize
 gingerin
@@ -6304,6 +6303,7 @@ goat
 glyptodontidae
 goatbeard
 gatepost
+gallicizer
 gausses
 gervase
 gollywobbler
