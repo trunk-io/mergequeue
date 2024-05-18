@@ -10657,7 +10657,6 @@ chylopoiesis
 chilopsis
 chylosis
 chilostomatous
-chilotomy
 chilotomies
 chylous
 chilte
@@ -17748,6 +17747,7 @@ choup
 cocos
 cocotte
 cocottes
+chilotomy
 cocobolo
 cocowood
 cocowort
