@@ -15332,7 +15332,6 @@ claytonia
 claiver
 clayware
 claywares
-clayweed
 clam
 clamant
 circumnavigatory
@@ -27316,6 +27315,7 @@ coalboxes
 countryside
 countryward
 countrywoman
+clayweed
 circularized
 countrywomen
 counts
