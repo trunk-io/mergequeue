@@ -1095,7 +1095,6 @@ elderhood
 earock
 edificatory
 edifice
-earwaxes
 edificed
 edifices
 edificing
@@ -1109,6 +1108,7 @@ ectoblastic
 edile
 exanthematous
 entocranial
+earwaxes
 epyllion
 estonian
 ectocranial
