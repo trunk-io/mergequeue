@@ -81,6 +81,7 @@ faces
 facesaving
 facet
 flattening
+faery
 frizettes
 foresaying
 faceted
@@ -11688,7 +11689,6 @@ factitude
 futtermassel
 futurama
 flibustier
-faery
 fosset
 future
 futureless
