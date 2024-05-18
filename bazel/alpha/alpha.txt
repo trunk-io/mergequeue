@@ -4128,7 +4128,6 @@ administers
 administrable
 administrant
 administrates
-administrating
 antihemolytic
 alabastrons
 administration
@@ -14442,6 +14441,7 @@ anthomedusae
 auspicate
 anthomyiidae
 anthony
+administrating
 anthonomus
 acrostically
 anaphrodisia
