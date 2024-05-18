@@ -1027,6 +1027,7 @@ baidarkas
 baidya
 blueish
 boltmaking
+burroweed
 baiera
 bovarysm
 bayesian
@@ -17848,7 +17849,6 @@ burrock
 blueblack
 breakback
 burroughs
-burroweed
 burrower
 burrows
 benevolent
