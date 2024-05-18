@@ -15684,7 +15684,6 @@ clatch
 clathraceae
 clathraceous
 clathraria
-clathrarian
 clathrate
 clathrina
 clathrinidae
@@ -25739,6 +25738,7 @@ correlations
 correlative
 champa
 crabapple
+clathrarian
 correlatives
 contiguate
 correlativity

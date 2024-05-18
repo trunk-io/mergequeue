@@ -190,7 +190,6 @@ factitively
 flucan
 falangism
 factorability
-factorable
 factordom
 factoress
 flateria
@@ -5570,6 +5569,7 @@ flighty
 fascinations
 flutebird
 flightier
+factorable
 foreglance
 foster
 flightily
