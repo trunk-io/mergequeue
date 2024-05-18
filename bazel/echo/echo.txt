@@ -108,7 +108,6 @@ equijacent
 earpick
 earpiece
 earplugs
-enchisel
 earreach
 earrings
 ears
@@ -2921,6 +2920,7 @@ elicitors
 elicits
 expensefulness
 euchromatin
+enchisel
 emaciate
 egrimony
 exogastric
