@@ -13438,7 +13438,6 @@ bottlefuls
 bigential
 bottommost
 bottlemaker
-bottleman
 bottleneck
 brayer
 billows
@@ -17509,6 +17508,7 @@ brawlie
 bastardizing
 buntline
 buntlines
+bottleman
 braidings
 bipinnatiparted
 blacknob
