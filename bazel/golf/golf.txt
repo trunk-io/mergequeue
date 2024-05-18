@@ -5402,7 +5402,6 @@ glycogeny
 glycogenolytic
 gammaroid
 gingals
-glycogens
 guttulous
 glycol
 glycolaldehyde
@@ -6231,6 +6230,7 @@ gallbladder
 geitonogamous
 gnomologist
 goaded
+glycogens
 greit
 gumshoed
 greatly
