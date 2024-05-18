@@ -5931,7 +5931,6 @@ acclamations
 agau
 agave
 agaves
-agaz
 agaze
 agazed
 agba
@@ -16894,6 +16893,7 @@ antiinflammatories
 aphonias
 aphonic
 aphonous
+agaz
 aphorise
 aphorises
 aphorising
