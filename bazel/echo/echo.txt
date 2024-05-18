@@ -2122,7 +2122,6 @@ ensorceling
 explicandum
 elaters
 elatha
-electronegativity
 elatinaceous
 elation
 elative
@@ -5072,6 +5071,7 @@ entogenous
 endocrinologist
 embosser
 ecdysones
+electronegativity
 eisell
 epispore
 elocutioner
