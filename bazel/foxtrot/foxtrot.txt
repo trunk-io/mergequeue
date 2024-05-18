@@ -9352,7 +9352,6 @@ franchisee
 franchisees
 foulings
 fertil
-finings
 franchisers
 franchises
 flagons
@@ -9381,6 +9380,7 @@ ferocities
 franciums
 francize
 finnicky
+finings
 francois
 fatback
 freewoman
