@@ -2769,6 +2769,7 @@ gestures
 genio
 granadilla
 genioglossal
+gedds
 globoids
 genioglossi
 goboes
@@ -8275,7 +8276,6 @@ geast
 geoblast
 ganoid
 grassland
-gedds
 glaswegian
 gremmy
 gallivorous
