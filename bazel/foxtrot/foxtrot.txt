@@ -914,7 +914,6 @@ fanums
 fanweed
 fanwise
 flintlock
-forefront
 faunistical
 fanworts
 fanwright
@@ -9862,6 +9861,7 @@ formular
 foolhardiest
 fascet
 fatigability
+forefront
 furlane
 fastiia
 flatuous
