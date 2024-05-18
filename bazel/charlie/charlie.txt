@@ -5166,7 +5166,6 @@ cases
 casette
 caseum
 caseweed
-casewood
 caseworker
 caseworkers
 caseworks
@@ -30500,6 +30499,7 @@ cubicone
 cubicula
 costly
 cubicular
+casewood
 cubiculo
 cubiculum
 cubing
