@@ -12152,7 +12152,6 @@ banshees
 boldfacing
 bootprint
 boldhearted
-beloid
 boldheartedly
 boldin
 boldine
@@ -13675,6 +13674,7 @@ billboard
 braconid
 bourasque
 bourbon
+beloid
 baseliner
 bourbonism
 bourbonize
