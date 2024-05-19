@@ -1470,6 +1470,7 @@ damselflies
 dagos
 dazzlers
 dwindle
+doorsill
 dazzlingness
 dbms
 demidolmen
@@ -15617,7 +15618,6 @@ doorpost
 doorposts
 dowl
 dawdle
-doorsill
 doorstead
 didactics
 detumescent
