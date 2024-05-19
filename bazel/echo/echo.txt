@@ -1617,6 +1617,7 @@ egregiously
 egregiousness
 equus
 egremoigne
+extratensive
 egress
 emissarium
 egressed
@@ -11683,7 +11684,6 @@ eleusinian
 endopolyploid
 exactness
 essenis
-extratensive
 exactor
 exactors
 exactress
