@@ -3500,7 +3500,6 @@ captaincy
 captaincies
 captained
 captainry
-captainship
 captainships
 chemicked
 captan
@@ -17384,6 +17383,7 @@ coauthor
 connectedness
 christmas
 coauthority
+captainship
 coauthors
 coauthorship
 coawareness
