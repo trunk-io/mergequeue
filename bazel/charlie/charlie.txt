@@ -4844,7 +4844,6 @@ carrier
 carriers
 carries
 carrying
-carryings
 carriole
 carrioles
 cutwaters
@@ -8872,6 +8871,7 @@ cimnel
 ceration
 chapelling
 commonplaces
+carryings
 chapelman
 chapelmaster
 chapelry
