@@ -2049,7 +2049,6 @@ bankcards
 banked
 bethought
 bankerdom
-banky
 banking
 bullaria
 bankman
@@ -11982,6 +11981,7 @@ bogglish
 bogy
 bogydom
 bogieman
+banky
 bullfinch
 bogyism
 brachyphalangia
