@@ -8614,7 +8614,6 @@ egrets
 enworthy
 ergatomorph
 equicurve
-equid
 equidiagonal
 equidifferent
 equidimensional
@@ -10517,6 +10516,7 @@ etymon
 equalities
 etymonic
 etiolated
+equid
 etiolating
 etiolize
 etiology
