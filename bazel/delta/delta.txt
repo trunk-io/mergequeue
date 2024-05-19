@@ -2070,7 +2070,6 @@ demibarrel
 decals
 decalvant
 decalvation
-defenseman
 decameral
 despoilment
 decameron
@@ -4687,6 +4686,7 @@ disgust
 demipillar
 demipique
 demiplacate
+defenseman
 dishtowel
 demiplate
 demipomada

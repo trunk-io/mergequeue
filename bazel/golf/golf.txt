@@ -3974,6 +3974,7 @@ gleeting
 garrisons
 glittered
 gigawatt
+gatefolds
 gutser
 goldenfleece
 groynes
@@ -6252,7 +6253,6 @@ gnotobiosis
 gnotobiotically
 gnow
 gns
-gatefolds
 go
 goa
 grammar
