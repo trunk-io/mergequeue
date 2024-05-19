@@ -9145,7 +9145,6 @@ grisailles
 grysbok
 garrison
 grise
-grisettes
 grisettish
 grisled
 grisly
@@ -9534,6 +9533,7 @@ goster
 guys
 groveler
 graphical
+grisettes
 groveless
 gemmier
 grovelingly
