@@ -4345,6 +4345,7 @@ antiaircraft
 axis
 ados
 anisaldoxime
+anamneses
 adosculation
 adossed
 alright
@@ -11853,7 +11854,6 @@ asplenieae
 asperous
 adventurer
 anammonide
-anamneses
 anamnestic
 achatinella
 anamnestically
