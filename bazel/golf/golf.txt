@@ -2707,7 +2707,6 @@ goods
 genethliacal
 genethliacism
 genetta
-gyn
 genethliacon
 geomorphist
 gneissoid
@@ -4143,6 +4142,7 @@ gim
 gimbal
 groining
 guildry
+gyn
 grifted
 gimblet
 gimcrack
