@@ -1687,7 +1687,6 @@ frugivora
 feak
 federate
 fealty
-fumigates
 fluorinate
 fear
 fimbles
@@ -8404,6 +8403,7 @@ formalization
 formalizations
 fictitiously
 formerness
+fumigates
 formalized
 formalizer
 foreknowledge
