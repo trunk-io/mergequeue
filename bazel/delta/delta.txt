@@ -5108,7 +5108,6 @@ diablerie
 denature
 denatured
 denaturing
-duplicand
 diminishingturns
 denaturise
 denaturised
@@ -16481,6 +16480,7 @@ doubtingly
 disvouch
 dandifies
 dempne
+duplicand
 drably
 defrosting
 drabnesses
