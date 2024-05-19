@@ -9667,7 +9667,6 @@ dampened
 dispersedelement
 delignated
 diaphanometer
-dikaryophasic
 dikaryophyte
 dislevelment
 dikaryophytic
@@ -15385,6 +15384,7 @@ dominancy
 deposal
 disillusionist
 dominant
+dikaryophasic
 dominated
 dominates
 dominating
