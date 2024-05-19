@@ -667,7 +667,6 @@ glycosine
 glide
 gallize
 gallnut
-grizzled
 gallnuts
 ginney
 gradatory
@@ -4973,6 +4972,7 @@ gnetum
 glacionatant
 glacious
 glumose
+grizzled
 gladden
 geogenous
 goosewinged
