@@ -1775,7 +1775,6 @@ balun
 balustrade
 balustrading
 bromatology
-balwarra
 balzarine
 bam
 brittled
@@ -1968,6 +1967,7 @@ baptismally
 bandwidth
 bandwidths
 bandwork
+balwarra
 bandworm
 boogiewoogie
 baylet
