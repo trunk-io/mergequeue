@@ -3645,6 +3645,7 @@ bathonian
 blockmaking
 bathool
 bathophobia
+bigmouthed
 bathos
 bathrobe
 bathrobes
@@ -8518,7 +8519,6 @@ beast
 batatilla
 bisons
 bituminise
-bigmouthed
 bigmouths
 benzocoumaran
 bigness
