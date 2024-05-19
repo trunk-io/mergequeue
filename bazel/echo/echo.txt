@@ -503,7 +503,6 @@ echelle
 extraphenomenal
 estate
 emberizidae
-echeneidae
 erythrosinophile
 echeneidid
 echeneididae
@@ -8336,6 +8335,7 @@ enroller
 eschynite
 epithalamic
 embosoms
+echeneidae
 epithalamiumia
 epithalamize
 encorbellment
