@@ -6367,7 +6367,6 @@ episcopal
 ensilate
 elucidated
 ensilation
-ensile
 ensiled
 embezzler
 eva
@@ -9172,6 +9171,7 @@ eyrer
 erythroneocytosis
 erythronium
 erythropenia
+ensile
 extratemporal
 espoused
 endoconidium

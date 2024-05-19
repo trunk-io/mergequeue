@@ -338,6 +338,7 @@ graveship
 gelatins
 galactolipin
 galactolysis
+geotherm
 galactoma
 garden
 galactometer
@@ -3218,7 +3219,6 @@ graplin
 gluing
 geoteuthis
 gomeril
-geotherm
 geothermic
 gelatinobromide
 geoty
