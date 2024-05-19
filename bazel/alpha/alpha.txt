@@ -4402,7 +4402,6 @@ adrenocortical
 adrenocorticotrophic
 ammonolysis
 albuminosis
-adrenocorticotropic
 adrenolysis
 anthracolithic
 adrenosterone
@@ -22306,6 +22305,7 @@ advised
 astrogational
 astrogeny
 antiauthoritarianism
+adrenocorticotropic
 astrogeology
 astrogeologist
 abraser
