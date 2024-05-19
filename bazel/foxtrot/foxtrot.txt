@@ -7535,7 +7535,6 @@ fizzling
 foreburton
 fuzzing
 forebush
-forecast
 flatboats
 forecaster
 ferrocyanhydric
@@ -7679,6 +7678,7 @@ fellingbird
 forehatch
 forwardest
 frogling
+forecast
 fungilliform
 foreheads
 forehear
