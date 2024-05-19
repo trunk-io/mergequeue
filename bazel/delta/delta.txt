@@ -6364,7 +6364,6 @@ dermenchysis
 dermestes
 dermestid
 disseminating
-dermestidae
 dynodes
 dermic
 digitise
@@ -9569,6 +9568,7 @@ doubloons
 dignities
 dignosle
 dignotion
+dermestidae
 dependants
 deuterons
 dygogram
