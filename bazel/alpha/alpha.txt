@@ -7957,6 +7957,7 @@ alerce
 alerion
 alerse
 agravic
+autoxidator
 agglutinates
 alert
 alerta
@@ -24484,7 +24485,6 @@ apologal
 ag
 autoxeny
 autoxidation
-autoxidator
 autoxidizability
 autoxidizable
 acanthodea
