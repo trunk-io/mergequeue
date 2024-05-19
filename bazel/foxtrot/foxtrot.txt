@@ -1668,6 +1668,7 @@ fipenny
 fconv
 farcin
 familiar
+fluxmeter
 faradocontractility
 four
 fdnames
@@ -6583,7 +6584,6 @@ forthcomingness
 foetiferous
 fluxionist
 fluxive
-fluxmeter
 forespent
 fluxure
 fn
