@@ -10511,7 +10511,6 @@ etymologies
 ensmall
 etymologists
 etymologizable
-emerited
 etymologization
 eurypteroid
 emmew
@@ -13490,6 +13489,7 @@ exscinds
 entailers
 earthpea
 exscissor
+emerited
 exscript
 exscriptural
 exsculptate
