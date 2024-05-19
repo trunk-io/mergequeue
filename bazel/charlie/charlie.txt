@@ -4275,7 +4275,6 @@ carest
 cestracion
 caret
 caretake
-caretaker
 caretakers
 cattie
 caretaking
@@ -31682,6 +31681,7 @@ colliquation
 cuspides
 chondromyxoma
 cesuras
+caretaker
 carbuncled
 cotyloid
 cuspidine
