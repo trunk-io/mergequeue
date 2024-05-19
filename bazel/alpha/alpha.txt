@@ -12984,7 +12984,6 @@ angularities
 assoluto
 almadie
 angularly
-angulate
 angulated
 angulately
 angulateness
@@ -17605,6 +17604,7 @@ appanaged
 algaeology
 acinacifoliate
 acrocera
+angulate
 appanages
 appanaging
 audiogenic

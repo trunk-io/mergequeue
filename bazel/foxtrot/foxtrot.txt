@@ -2288,6 +2288,7 @@ femme
 femora
 flic
 farmland
+furify
 femororotulian
 forehard
 fen
@@ -11366,7 +11367,6 @@ falconry
 formalith
 freebooted
 fulvene
-furify
 felis
 fermage
 futurity
