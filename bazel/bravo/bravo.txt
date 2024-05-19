@@ -9405,7 +9405,6 @@ bipolarity
 bipolarization
 bipont
 bipontine
-biporose
 bipotentiality
 bipotentialities
 biprism
@@ -12742,6 +12741,7 @@ bookling
 bieennia
 booklists
 booklore
+biporose
 bhavan
 bioecologic
 booklouse
