@@ -2649,7 +2649,6 @@ bescorch
 barkeepers
 barkpeeling
 butyr
-batrachite
 beheld
 breathtakingly
 becrawls
@@ -3751,6 +3750,7 @@ battels
 battement
 basisolute
 battements
+batrachite
 battened
 battener
 beknown
