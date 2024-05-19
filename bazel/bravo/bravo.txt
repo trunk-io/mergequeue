@@ -3418,7 +3418,6 @@ beglic
 bassness
 boozer
 basson
-backwater
 bassoonist
 bassoonists
 blockades
@@ -12273,6 +12272,7 @@ bolshy
 bania
 backslid
 brocage
+backwater
 bolstered
 bolsterer
 bisexualism
