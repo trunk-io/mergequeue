@@ -741,7 +741,6 @@ badger
 breeches
 boudoirs
 bogwort
-badgered
 badgerer
 badgering
 buoyant
@@ -8648,6 +8647,7 @@ bilharziosis
 bilianic
 boreism
 breves
+badgered
 biliation
 bilic
 biliferous
