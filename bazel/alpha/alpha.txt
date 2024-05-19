@@ -3430,7 +3430,6 @@ appeasableness
 adapid
 adapt
 anisospore
-adaptable
 adaptableness
 almocrebe
 adaptationally
@@ -19959,6 +19958,7 @@ alderfly
 acetocinnamene
 armiferous
 attributives
+adaptable
 axiniform
 armiger
 armigeral
