@@ -1637,7 +1637,6 @@ deallocated
 daunter
 deallocates
 defeat
-deallocating
 deresinize
 deallocation
 deallocations
@@ -17000,6 +16999,7 @@ dreikanters
 denitrificator
 dreynt
 dreissiger
+deallocating
 desipient
 duppy
 dollying
