@@ -4167,7 +4167,6 @@ dihybrid
 delimitating
 delimitation
 delimiter
-delimiters
 delimiting
 displumed
 delimitize
@@ -9760,6 +9759,7 @@ dclass
 dilettanteship
 devaster
 dilettanti
+delimiters
 dilettantism
 dilettantist
 dilettantship
