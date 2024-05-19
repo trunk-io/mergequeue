@@ -3682,6 +3682,7 @@ deglutinating
 dermatoplasty
 defoliant
 dropforging
+dermatocoptic
 deglutination
 deglutition
 deglutitious
@@ -5907,7 +5908,6 @@ dags
 depraving
 disbudder
 dentaries
-dermatocoptic
 depravity
 diuretic
 deprecable
