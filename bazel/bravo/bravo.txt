@@ -4637,7 +4637,6 @@ basecoat
 bedaggle
 beday
 biddable
-bedamned
 bedamning
 beweep
 benzylpenicillin
@@ -10321,6 +10320,7 @@ blackout
 broomwort
 blackpatch
 beauclerk
+bedamned
 batara
 blackpot
 bromide
