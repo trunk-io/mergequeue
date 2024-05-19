@@ -10821,7 +10821,6 @@ ammonitoidea
 ammocoetiform
 algedi
 antischolastic
-ammoniuret
 ammoniureted
 ammono
 ammonobasic
@@ -22830,6 +22829,7 @@ atony
 atonia
 atonic
 atonicity
+ammoniuret
 atonics
 atoning
 ageusia
