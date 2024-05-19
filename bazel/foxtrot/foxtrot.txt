@@ -4152,6 +4152,7 @@ frogmouth
 firebrick
 firebug
 firebugs
+fortier
 fanhouse
 flagstones
 fireburn
@@ -8676,7 +8677,6 @@ furcellaria
 fornent
 frightsome
 feeding
-fortier
 fortieth
 fortieths
 fortify
