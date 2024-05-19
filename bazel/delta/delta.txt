@@ -7664,7 +7664,6 @@ devel
 develing
 develop
 developable
-developed
 defervescence
 developedness
 dismantlement
@@ -11607,6 +11606,7 @@ disconnector
 disconnects
 disconsent
 dithering
+developed
 disconsideration
 disconsolately
 dobbie
