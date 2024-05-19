@@ -1248,7 +1248,6 @@ calepin
 calesero
 calf
 calfbound
-calfdozer
 calfish
 calfkill
 calfless
@@ -16161,6 +16160,7 @@ cliffside
 cliffsman
 cliffweed
 clift
+calfdozer
 clifty
 cliftonite
 clima
