@@ -636,7 +636,6 @@ filarial
 faltered
 falterer
 falteringly
-falters
 firebirds
 falutin
 falx
@@ -8165,6 +8164,7 @@ forewords
 flung
 finable
 filets
+falters
 footways
 firecracker
 fulgently
