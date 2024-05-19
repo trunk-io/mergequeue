@@ -134,7 +134,6 @@ facioplegia
 facit
 fluvioglacial
 fack
-furlable
 fackeltanz
 flajolotite
 fem
@@ -565,6 +564,7 @@ floorings
 foo
 fallowist
 fluctuation
+furlable
 forerunners
 fleshpots
 foulmouthedly
