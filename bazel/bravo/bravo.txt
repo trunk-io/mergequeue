@@ -13178,7 +13178,6 @@ bumper
 borzoi
 borzois
 bosc
-boscages
 boschbok
 boschneger
 brachystomata
@@ -17478,6 +17477,7 @@ blackouts
 bunkermen
 bunkers
 bunkie
+boscages
 buffi
 bunking
 burnouses
