@@ -5017,6 +5017,7 @@ foramens
 fadeless
 fengite
 ferments
+fragileness
 firnification
 fragmentitious
 flared
@@ -9243,7 +9244,6 @@ fraggings
 fragilaria
 fragile
 fishpot
-fragileness
 fleabane
 fragility
 frizer
