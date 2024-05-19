@@ -13318,7 +13318,6 @@ anisodactyla
 anonol
 anisodactyli
 athens
-anisodactylic
 anisodont
 anisogamete
 anisogametes
@@ -21618,6 +21617,7 @@ assaying
 antitorpedo
 assail
 assailable
+anisodactylic
 adenectopic
 assailableness
 angleberry
