@@ -1189,7 +1189,6 @@ developoid
 disinvolve
 dextrans
 datary
-dataries
 dataset
 datasetname
 darghin
@@ -4024,6 +4023,7 @@ delawn
 deleaded
 deleads
 disadventurous
+dataries
 deleatur
 deleble
 delectability

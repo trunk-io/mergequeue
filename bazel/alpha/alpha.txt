@@ -7923,7 +7923,6 @@ alem
 agreat
 afterlife
 afforestation
-alembic
 adulterately
 alembicated
 alembroth
@@ -17069,6 +17068,7 @@ apism
 adenovirus
 apjohnite
 apl
+alembic
 aplace
 aplacental
 aplacentalia
