@@ -4363,6 +4363,7 @@ beaverskin
 bassarisk
 beaverteen
 bared
+brigantia
 beaverwood
 beback
 bebay
@@ -15324,7 +15325,6 @@ brachypterous
 brigandine
 brigandish
 bandhu
-brigantia
 brigantines
 brigatry
 brigetty
