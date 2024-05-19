@@ -3554,7 +3554,6 @@ gussied
 gestical
 gesticulant
 gesticulations
-gesticulative
 gestion
 gestning
 gutweed
@@ -6701,6 +6700,7 @@ golosh
 gonarthritis
 goncalo
 grossularious
+gesticulative
 gritter
 gruss
 gondolas
