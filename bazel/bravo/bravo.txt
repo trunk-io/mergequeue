@@ -5046,7 +5046,6 @@ beermaker
 beermaking
 beermonger
 braggartry
-beefers
 breakfasters
 beerpull
 beers
@@ -9881,6 +9880,7 @@ bistate
 boomer
 biosyntheses
 buggering
+beefers
 bistephanic
 bister
 bistered
