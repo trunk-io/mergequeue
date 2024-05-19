@@ -989,7 +989,6 @@ bitterless
 bahutu
 bahuvrihi
 bahuvrihis
-bay
 baya
 bayadeer
 backsettler
@@ -3341,6 +3340,7 @@ basket
 basketballer
 basketballs
 basketfuls
+bay
 bathers
 basketing
 basketlike
