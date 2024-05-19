@@ -670,7 +670,6 @@ balanophorin
 bales
 bechances
 beletter
-bacteriotoxin
 boracic
 bacteriotrypsin
 bynames
@@ -11507,6 +11506,7 @@ bluewoods
 berapt
 bluff
 bluffable
+bacteriotoxin
 baraca
 brunette
 backwinding
