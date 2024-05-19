@@ -2068,7 +2068,6 @@ epistles
 elapsing
 exterminator
 elasmobranch
-extrared
 elasmobranchiate
 epilimnia
 edgemaker
@@ -8900,6 +8899,7 @@ encurl
 epibolic
 eremology
 excrescencies
+extrared
 ecospecifically
 exponential
 eremophilous
