@@ -1165,7 +1165,6 @@ edomitish
 encompass
 exorbitate
 edoni
-edplot
 errorful
 edriasteroidea
 edrioasteroid
@@ -7867,6 +7866,7 @@ endopsychic
 electrion
 epigrammatarian
 epigrammatic
+edplot
 exceed
 epigrammatical
 ellagate
