@@ -5504,7 +5504,6 @@ cataclinal
 cataclysmal
 cataclysmatic
 cataclysmatist
-cataclysmic
 cataclysmically
 catacomb
 catacombic
@@ -7557,6 +7556,7 @@ ceratoid
 cartellist
 ceratomandibular
 ceratomania
+cataclysmic
 ceratonia
 cardamoms
 ceratophyllaceous
