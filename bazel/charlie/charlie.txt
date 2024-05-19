@@ -2342,7 +2342,6 @@ cancelation
 canceled
 canceleer
 canceler
-cancelers
 cancellability
 cancellable
 cancellarius
@@ -5962,6 +5961,7 @@ cathetometer
 cathetometric
 cephalophorous
 cathetusti
+cancelers
 cryptorhynchus
 cathexes
 cathexion
