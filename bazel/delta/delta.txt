@@ -2725,7 +2725,6 @@ deconsecration
 deconsider
 determinoid
 deconsideration
-decontaminated
 decontaminates
 decontaminating
 diatessaron
@@ -3267,6 +3266,7 @@ demagnify
 defenestrates
 defenestrating
 dingdong
+decontaminated
 dill
 defenestration
 dactyl
