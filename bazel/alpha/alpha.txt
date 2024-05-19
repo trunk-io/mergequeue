@@ -3458,7 +3458,6 @@ abbreviately
 adaptively
 argosies
 adaptiveness
-adaptometer
 adaptor
 adaptorial
 adapts
@@ -15852,6 +15851,7 @@ agura
 andradite
 antipestilent
 acetannin
+adaptometer
 aegirine
 antipestilently
 antipetalous
