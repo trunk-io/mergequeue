@@ -992,7 +992,6 @@ gammoned
 gastroparietal
 gormandise
 gammoner
-grimoire
 galactically
 glockenspiel
 geocarpic
@@ -2201,6 +2200,7 @@ graders
 gconv
 gdinfo
 gds
+grimoire
 grayfish
 grinnellia
 gaycat
