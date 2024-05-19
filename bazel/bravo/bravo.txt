@@ -8758,7 +8758,6 @@ billiard
 billiardist
 birch
 baldicoot
-beeswinged
 becowards
 billiards
 billyboy
@@ -9049,6 +9048,7 @@ blabber
 barricade
 bioclimatologically
 bioclimatologist
+beeswinged
 biocoenose
 bouchons
 biocoenoses
