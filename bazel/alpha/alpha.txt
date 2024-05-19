@@ -4403,7 +4403,6 @@ ammonolysis
 albuminosis
 adrenocorticotropic
 adrenolysis
-anthracolithic
 adrenosterone
 albacores
 adrenotrophin
@@ -23168,6 +23167,7 @@ attorneydom
 attorneyship
 attorns
 attour
+anthracolithic
 attourne
 attract
 alangiaceae
