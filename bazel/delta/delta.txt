@@ -13638,6 +13638,7 @@ disseverment
 disshadow
 dissheathed
 daddums
+droplight
 disship
 disshiver
 dissidence
@@ -17404,7 +17405,6 @@ dictagraph
 dropkicker
 droplet
 deficiencies
-droplight
 dihysteria
 droplike
 drib
