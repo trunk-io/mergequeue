@@ -2668,7 +2668,6 @@ expurgates
 epiperipheral
 enaluron
 electrothermic
-endomycetaceae
 electrothermometer
 evanish
 electiveness
@@ -9464,6 +9463,7 @@ escallop
 esseda
 escalloped
 efik
+endomycetaceae
 escalop
 easygoing
 escalope
