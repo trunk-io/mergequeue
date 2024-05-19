@@ -1224,7 +1224,6 @@ adjustor
 acanthad
 acanthi
 anhaematosis
-acanthia
 ameiotic
 arette
 acanthial
@@ -14111,6 +14110,7 @@ antecessor
 antechamber
 alonso
 antechambers
+acanthia
 aloetic
 antechinomys
 autocatalytic
