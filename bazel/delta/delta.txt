@@ -6506,7 +6506,6 @@ desamidase
 desands
 desc
 disarranged
-descale
 descamisados
 descant
 dentinoblast
@@ -14480,6 +14479,7 @@ divisa
 dimethylketol
 diphaser
 directrixes
+descale
 divisibility
 divisibilities
 divisible
