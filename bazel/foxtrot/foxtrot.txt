@@ -5761,6 +5761,7 @@ ferrochrome
 flytraps
 fibrinate
 floodplain
+frescade
 flitted
 forestside
 foreground
@@ -9863,7 +9864,6 @@ fatigability
 furlane
 fastiia
 flatuous
-frescade
 frescoed
 frontingly
 fresh
