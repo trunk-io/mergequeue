@@ -9420,7 +9420,6 @@ duplicator
 diffusely
 diffuseness
 diffusers
-diffuses
 dechlore
 diffusible
 diffusibleness
@@ -13122,6 +13121,7 @@ dysphasia
 damps
 dysphemia
 dysphemism
+diffuses
 dysphemistic
 diamantine
 dropouts
