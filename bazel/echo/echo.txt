@@ -2032,6 +2032,7 @@ environment
 elance
 elanet
 elanus
+eloigners
 exalted
 elaphebolion
 elaphine
@@ -6162,7 +6163,6 @@ europeanize
 equalised
 endogonidium
 embroiled
-eloigners
 elans
 erugatory
 enoughs
