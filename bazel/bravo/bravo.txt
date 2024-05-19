@@ -728,7 +728,6 @@ babyish
 baddish
 baddishness
 bade
-badenite
 bogyland
 browbeaten
 badge
@@ -10069,6 +10068,7 @@ bitwise
 biune
 birdbath
 biunial
+badenite
 bridleman
 bulltoad
 bronchiole
