@@ -7926,7 +7926,6 @@ extensible
 epilepsies
 epileptical
 epileptically
-epileptiform
 epileptoid
 epileptology
 exotospore
@@ -13497,6 +13496,7 @@ exscriptural
 exsculptate
 exscutellate
 electromedical
+epileptiform
 exsec
 exsect
 eutaxie
