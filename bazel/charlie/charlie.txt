@@ -6817,7 +6817,6 @@ cellarers
 cellaress
 chanceable
 cellaret
-cellarets
 caffeine
 cellarette
 cellarmen
@@ -18831,6 +18830,7 @@ colies
 cocinero
 coliform
 coliforms
+cellarets
 codisjunct
 communicational
 coliidae
