@@ -60,7 +60,6 @@ dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
 dacryolithiasis
-dacryopyosis
 desmoma
 dizygotic
 dacryops
@@ -15539,6 +15538,7 @@ donning
 dedo
 deprecators
 donnishness
+dacryopyosis
 donnism
 donnock
 donors
