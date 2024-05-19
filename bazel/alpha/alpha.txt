@@ -3976,6 +3976,7 @@ antielectron
 autoactivation
 adjective
 adjectively
+autovaccination
 adjectives
 adjectivism
 araphostic
@@ -21902,7 +21903,6 @@ associability
 associable
 associableness
 associated
-autovaccination
 associatedness
 andesine
 associateship
