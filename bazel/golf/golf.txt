@@ -6640,7 +6640,6 @@ gomari
 gametophobia
 grasp
 guestchamber
-gomart
 gomashta
 gombo
 gapy
@@ -7255,6 +7254,7 @@ greyling
 groutier
 gyrostatic
 gonystylus
+gomart
 genet
 gospelist
 gospelly
