@@ -1102,7 +1102,6 @@ calcioscheelite
 calciovolborthite
 calcipexy
 clarity
-calciphylactic
 calciphylaxis
 calciphile
 calciphilia
@@ -6856,6 +6855,7 @@ carbonatization
 cellularly
 cellulate
 cellulated
+calciphylactic
 cellule
 codo
 corradiating
