@@ -2544,7 +2544,6 @@ doorjamb
 declares
 demythologise
 daneworts
-declaring
 declasse
 dwined
 declasses
@@ -10414,6 +10413,7 @@ dehnstufe
 dipetto
 dendroclastic
 descendentalism
+declaring
 diphase
 disfavor
 diphasic
