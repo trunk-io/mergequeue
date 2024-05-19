@@ -3543,7 +3543,6 @@ droughermen
 disknow
 distomum
 delvers
-deformable
 deformation
 deformational
 delete
@@ -13808,6 +13807,7 @@ diplococcoid
 distance
 denumeration
 demast
+deformable
 distanceless
 distancy
 distancing
