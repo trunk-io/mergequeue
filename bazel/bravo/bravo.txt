@@ -5944,7 +5944,6 @@ belligerency
 belligerent
 belligerently
 beadier
-belligerents
 brightener
 barbermonger
 bellying
@@ -15876,6 +15875,7 @@ buying
 bromized
 bromizer
 basified
+belligerents
 bromizing
 bromlite
 bromo
