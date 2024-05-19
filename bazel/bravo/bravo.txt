@@ -1188,7 +1188,6 @@ blowcase
 bake
 benettle
 brew
-bonus
 burrish
 bibliographer
 bellis
@@ -17710,6 +17709,7 @@ burk
 brisket
 burka
 burke
+bonus
 burked
 borderers
 blithebread

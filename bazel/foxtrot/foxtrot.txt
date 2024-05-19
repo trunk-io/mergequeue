@@ -6627,7 +6627,6 @@ focal
 featness
 focalizes
 formalize
-forwrap
 forbye
 focsle
 flowerpot
@@ -7336,6 +7335,7 @@ facultative
 feathered
 fiscalify
 farer
+forwrap
 foragers
 foraminifer
 flyflapper
