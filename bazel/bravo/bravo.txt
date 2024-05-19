@@ -3481,7 +3481,6 @@ bodingly
 bastionet
 badgerly
 bastions
-battutas
 bastite
 brushfire
 bastnasite
@@ -14031,6 +14030,7 @@ brachycephalization
 brachycephalize
 brachycera
 brachyceral
+battutas
 begrimming
 birr
 bunks
