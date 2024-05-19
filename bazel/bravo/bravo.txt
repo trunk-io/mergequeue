@@ -2467,6 +2467,7 @@ barefit
 barefoot
 bareges
 barehead
+bloodthirster
 baboodom
 buckbrush
 bogles
@@ -11230,7 +11231,6 @@ bacteroidal
 bloodsuckers
 bolsterers
 bloodtest
-bloodthirster
 bloodthirstiness
 bloodweed
 burgomaster
