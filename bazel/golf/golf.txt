@@ -1951,7 +1951,6 @@ germaniums
 groundable
 gaucy
 gaucie
-gynopara
 gumshoe
 gowd
 gummier
@@ -5083,6 +5082,7 @@ gringos
 glance
 goldic
 glancing
+gynopara
 genealogists
 goofballs
 glancingly
