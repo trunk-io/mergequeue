@@ -12304,7 +12304,6 @@ boltonite
 boltrope
 bittern
 boltropes
-bolts
 boltsmith
 barbarea
 beakful
@@ -14549,6 +14548,7 @@ brandreth
 brandrith
 blow
 broncobuster
+bolts
 behorn
 brangled
 brank
