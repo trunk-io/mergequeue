@@ -4290,7 +4290,6 @@ firoloida
 flammability
 folderol
 freestanding
-facia
 first
 forbearer
 forestian
@@ -9691,6 +9690,7 @@ freelance
 fornax
 freelanced
 freeload
+facia
 freeloaded
 freemanship
 freemartin
