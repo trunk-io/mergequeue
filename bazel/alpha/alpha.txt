@@ -5729,7 +5729,6 @@ artisans
 aboudikro
 aftervision
 afterwale
-afterwar
 afterward
 afterwards
 afterwhile
@@ -11537,6 +11536,7 @@ anacardium
 anacathartic
 antimonide
 albinoism
+afterwar
 anacephalize
 anaces
 aiery
