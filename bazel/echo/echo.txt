@@ -2054,6 +2054,7 @@ elapse
 exhalate
 edificant
 epigyny
+entrancement
 englory
 electro
 eosinlike
@@ -6971,7 +6972,6 @@ emissaryship
 entranced
 entrancedly
 equivalve
-entrancement
 enchalice
 etherializing
 echinodermata
