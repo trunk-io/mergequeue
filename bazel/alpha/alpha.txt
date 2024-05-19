@@ -4218,7 +4218,6 @@ anglification
 admonishments
 anoopsias
 aureolae
-admonitionist
 admonitions
 acrasia
 admonitive
@@ -10943,6 +10942,7 @@ antidotism
 antiheroism
 amorado
 amoraim
+admonitionist
 amoral
 anemometry
 amoralist
