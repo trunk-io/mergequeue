@@ -2831,7 +2831,6 @@ decrepit
 demarches
 duodecahedral
 decrepitated
-decrepitation
 decrepitness
 dogteeth
 decresc
@@ -7150,6 +7149,7 @@ destructivity
 destructors
 destructuralize
 destrudo
+decrepitation
 deplorable
 destuff
 destuffs
