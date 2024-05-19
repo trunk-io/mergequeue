@@ -3177,7 +3177,6 @@ gripe
 glyceraldehyde
 geopolitical
 gyroceras
-guttular
 glasslike
 geopolitist
 geopositive
@@ -6718,6 +6717,7 @@ gonesome
 gonfalcon
 gammaridae
 gogglier
+guttular
 gambolled
 glowed
 gusseted
