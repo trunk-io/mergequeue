@@ -2843,6 +2843,7 @@ grocerwise
 genre
 gramophonist
 genro
+gusle
 glyoxyl
 gabionade
 ghyll
@@ -10686,7 +10687,6 @@ gushily
 gusla
 glycines
 goofing
-gusle
 gaumless
 gearwheel
 guslee
