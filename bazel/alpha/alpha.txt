@@ -12072,6 +12072,7 @@ anat
 anatabine
 anatase
 anatases
+armatures
 anatexis
 anathemas
 anathemata
@@ -19920,7 +19921,6 @@ auxilium
 armatoli
 armatured
 aeroacoustic
-armatures
 armband
 annuent
 armbands
