@@ -2690,7 +2690,6 @@ electrophilically
 electrovalence
 electrovalent
 electrovalently
-electrovection
 electrowinning
 epigonation
 entermete
@@ -10903,6 +10902,7 @@ electrocuting
 eloquently
 exulceration
 eupepsia
+electrovection
 etuis
 eupepsies
 eupeptic
