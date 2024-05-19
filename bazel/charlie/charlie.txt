@@ -18774,7 +18774,6 @@ coleophoridae
 colessee
 coleopter
 coleoptera
-coleopteran
 chalcedonic
 coleopterist
 coleopterology
@@ -21127,6 +21126,7 @@ concealedness
 concealer
 concealing
 conceals
+coleopteran
 concededly
 couplets
 conceders
