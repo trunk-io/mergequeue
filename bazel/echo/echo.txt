@@ -2887,7 +2887,6 @@ elf
 elfenfolk
 epinard
 eponymous
-elfins
 elfinwood
 emotionalist
 engrailment
@@ -6060,6 +6059,7 @@ estated
 enmity
 ethicizes
 enmities
+elfins
 enmove
 ennead
 enneadic

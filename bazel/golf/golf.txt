@@ -1760,7 +1760,6 @@ graved
 gibson
 gastroenteritic
 gastroenteritis
-gluts
 gastroenteroanastomosis
 gastroenterocolostomy
 gastroenterology
@@ -6539,6 +6538,7 @@ goldbugs
 gabbles
 goldeyes
 golden
+gluts
 geryoniidae
 galleine
 goldenback
