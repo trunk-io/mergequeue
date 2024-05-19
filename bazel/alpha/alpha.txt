@@ -2565,7 +2565,6 @@ attaboy
 ascidiferous
 amoebicidal
 acolyth
-acolythate
 acolytus
 amphiaster
 autoserum
@@ -18532,6 +18531,7 @@ ararobas
 arase
 archencephalic
 aragonite
+acolythate
 arati
 austringer
 araua

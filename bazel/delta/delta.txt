@@ -3967,7 +3967,6 @@ douser
 dekle
 deyship
 del
-dehydrofrozen
 drawlingly
 doctorates
 dingies
@@ -10281,6 +10280,7 @@ dustpans
 dioeciousness
 dioecisms
 dipnoi
+dehydrofrozen
 diadokokinesis
 diogenite
 dybbukim
