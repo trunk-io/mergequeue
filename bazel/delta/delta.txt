@@ -9791,7 +9791,6 @@ dillier
 discanonize
 disrupture
 dillyman
-dillymen
 dilling
 doorstops
 dillisk
@@ -15609,6 +15608,7 @@ doorkeeper
 doorknob
 doorknobs
 doorless
+dillymen
 doormaid
 doormaker
 doorman
