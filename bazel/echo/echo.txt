@@ -4493,7 +4493,6 @@ encephalartos
 encephalasthenia
 exurbias
 encyclical
-encephalic
 encephalin
 encephalitic
 endostyle
@@ -13321,6 +13320,7 @@ ethnogeographically
 emporiria
 exposes
 envassalage
+encephalic
 exposit
 expositing
 esthesiometry
