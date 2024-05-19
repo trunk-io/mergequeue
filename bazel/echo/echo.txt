@@ -2476,7 +2476,6 @@ ensete
 electrolyzed
 electrology
 entablatured
-electrological
 electrologists
 electromagnet
 electromagnetic
@@ -6045,6 +6044,7 @@ entheos
 ephorus
 enchanter
 enmarble
+electrological
 eulogically
 enmarbling
 estrildine
