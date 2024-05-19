@@ -4661,7 +4661,6 @@ carotol
 carouba
 caroubier
 conjurership
-cryology
 carousal
 carousals
 carouse
@@ -14001,6 +14000,7 @@ cinnamol
 cinnamon
 cinnamonic
 cinnamonlike
+cryology
 cussed
 cinnamons
 cinnolin
