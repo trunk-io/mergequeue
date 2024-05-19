@@ -5619,6 +5619,7 @@ afterdays
 apokatastatic
 afterdate
 antifoam
+avanters
 amadou
 afterdeal
 afterdeath
@@ -19928,7 +19929,6 @@ armchaired
 armenia
 atrail
 atrophias
-avanters
 arsenous
 armenic
 armenoid
