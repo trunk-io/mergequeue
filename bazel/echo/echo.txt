@@ -2626,6 +2626,7 @@ eluants
 electrostenolytic
 equable
 eses
+exomologesis
 entermise
 exciples
 electrostriction
@@ -12683,7 +12684,6 @@ exometritis
 echo
 emerse
 encephaloma
-exomologesis
 exomorphic
 exomphalos
 exomphalous
