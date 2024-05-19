@@ -1700,7 +1700,6 @@ accresce
 accrescence
 accrescendi
 alliably
-accrescendo
 accretal
 accrete
 accretes
@@ -20762,6 +20761,7 @@ artificialness
 amphitokous
 artilize
 artiller
+accrescendo
 artillery
 artilleries
 avodire
