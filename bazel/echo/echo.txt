@@ -2307,7 +2307,6 @@ electroplating
 electroplates
 epiphenomenal
 extractors
-elasmosaur
 eutectic
 emulsifying
 egba
@@ -7863,6 +7862,7 @@ epigrammatic
 exceed
 epigrammatical
 ellagate
+elasmosaur
 electrifiable
 epigrammatically
 emaciates
