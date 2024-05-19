@@ -8107,7 +8107,6 @@ extraprovincial
 epiphora
 epiphragm
 experimentalist
-epiphragmal
 extrasyphilitic
 epiplankton
 eyebridled
@@ -11418,6 +11417,7 @@ evenlong
 exotropic
 electrodesiccation
 evenmete
+epiphragmal
 eruciform
 evenness
 endocrin
