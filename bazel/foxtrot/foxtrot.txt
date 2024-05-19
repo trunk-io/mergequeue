@@ -1668,6 +1668,7 @@ farcin
 familiar
 faradocontractility
 four
+faffle
 fdnames
 fdtype
 fdub
@@ -4334,7 +4335,6 @@ forecomingness
 flote
 fenian
 fisherboy
-faffle
 fragmentate
 fudged
 forecastles
