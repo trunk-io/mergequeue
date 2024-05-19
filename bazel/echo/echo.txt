@@ -4340,6 +4340,7 @@ enamorment
 endotrophi
 earstone
 erotics
+exhaustibility
 euchring
 enterointestinal
 exothermous
@@ -7978,7 +7979,6 @@ epimeric
 epimeride
 epimerism
 enorganic
-exhaustibility
 empidonax
 eigenvector
 euripos
