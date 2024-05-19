@@ -7845,7 +7845,6 @@ aldosteronism
 abapical
 aldrin
 aldrins
-aldrovanda
 aldus
 alchemically
 ale
@@ -25138,6 +25137,7 @@ alimentiveness
 axiolitic
 axiology
 axiological
+aldrovanda
 axiologically
 axiologist
 acoustician
