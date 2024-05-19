@@ -1514,7 +1514,6 @@ garrnishable
 gemeinde
 garroo
 garroted
-goldsmithry
 garroter
 garrotes
 garroting
@@ -4685,6 +4684,7 @@ girlchild
 girleen
 glue
 gambs
+goldsmithry
 gravegarth
 girsle
 girlery
