@@ -6368,7 +6368,6 @@ dermic
 digitise
 dermis
 dermises
-dryopteris
 downs
 dermoblast
 diaplasis
@@ -8498,6 +8497,7 @@ diffusedly
 diametral
 diametric
 diethylamide
+dryopteris
 diametrical
 diamicton
 diamide
