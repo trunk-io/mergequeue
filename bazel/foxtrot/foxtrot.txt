@@ -6022,6 +6022,7 @@ frontooccipital
 fayed
 flanging
 floressence
+fundiform
 fleam
 faros
 fluorides
@@ -9069,7 +9070,6 @@ flopper
 fowk
 feudaries
 fowl
-fundiform
 fowled
 feuillet
 fowler
