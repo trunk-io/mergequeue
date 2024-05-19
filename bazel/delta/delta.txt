@@ -1175,7 +1175,6 @@ doormat
 dewlight
 datakit
 datamation
-datana
 diospyraceae
 denasalizing
 datapac
@@ -12667,6 +12666,7 @@ dissolute
 disleafed
 dagon
 disleal
+datana
 duplicable
 deodorising
 diffrangibility
