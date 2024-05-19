@@ -8027,6 +8027,7 @@ eurytherm
 epingle
 epinicia
 epinicial
+equalisation
 extrusion
 epinician
 epinicion
@@ -8547,7 +8548,6 @@ equably
 equal
 editorials
 embody
-equalisation
 equalises
 expressionist
 equalist

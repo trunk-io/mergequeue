@@ -630,6 +630,7 @@ flugelmen
 fibromatous
 faltere
 ferrash
+forepointer
 filarial
 faltered
 falterer
@@ -7853,7 +7854,6 @@ foreplays
 foreplan
 flyingly
 flits
-forepointer
 florivorous
 foursomes
 flagellating
