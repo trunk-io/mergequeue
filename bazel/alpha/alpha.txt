@@ -11835,7 +11835,6 @@ aristocratically
 analogousness
 analogue
 anaptychi
-analphabet
 analphabete
 angelus
 acyanopsia
@@ -23998,6 +23997,7 @@ autocracies
 apotelesmatic
 aesthetical
 autocraticalness
+analphabet
 autocratoric
 autocratrix
 autocratship
