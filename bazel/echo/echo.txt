@@ -7506,7 +7506,6 @@ epibatholithic
 epibatus
 epibenthic
 epiblast
-epiblastic
 ecalcavate
 enviously
 estoil
@@ -10303,6 +10302,7 @@ ethyl
 epigynies
 excretionary
 ethylamide
+epiblastic
 embedded
 ethylamime
 ethylamine
