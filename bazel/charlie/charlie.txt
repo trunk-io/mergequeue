@@ -9988,7 +9988,6 @@ crackjaw
 chemotherapists
 chemotic
 chemotrophic
-chemotropic
 chemotropically
 chemotropism
 chempaduk
@@ -22361,6 +22360,7 @@ cutocellulose
 congressing
 congressionalist
 congressionally
+chemotropic
 complementally
 congressionist
 coradicate
