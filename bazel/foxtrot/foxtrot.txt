@@ -5071,7 +5071,6 @@ flashover
 fluoborite
 fructure
 flashtubes
-forevouched
 forslack
 feltlike
 ferricyanhydric
@@ -5463,6 +5462,7 @@ flews
 flibbertigibbets
 flexed
 fartherer
+forevouched
 flexes
 flexibilities
 favouredly
