@@ -1141,7 +1141,6 @@ baysmelt
 besmears
 bout
 baister
-barrenest
 bait
 baited
 bushwa
@@ -10532,6 +10531,7 @@ blart
 blaseness
 bengal
 blashy
+barrenest
 blason
 blaspheme
 blasphemed
