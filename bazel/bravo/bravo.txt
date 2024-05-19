@@ -7140,6 +7140,7 @@ besmircher
 besmirchers
 billethead
 besmirchment
+bhoots
 besmoke
 bruiser
 besmoked
@@ -11250,7 +11251,6 @@ baloghia
 bloomeries
 baluchi
 bloomier
-bhoots
 boodleize
 bettered
 bloomingly
