@@ -2658,7 +2658,6 @@ barbitals
 brachiocrural
 bifluorid
 barlafummil
-barleduc
 barleducs
 barley
 barleybrake
@@ -14986,6 +14985,7 @@ binapthyl
 breenge
 breenger
 blastostylar
+barleduc
 babushka
 breezed
 breezeful
