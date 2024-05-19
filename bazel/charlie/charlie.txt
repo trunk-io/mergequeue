@@ -8805,7 +8805,6 @@ chanties
 chantilly
 condemnation
 chantingly
-chantment
 chantor
 carman
 cheiloplasties
@@ -15845,6 +15844,7 @@ claxon
 claxons
 cleaded
 clinkstone
+chantment
 cord
 cleam
 cleamer
