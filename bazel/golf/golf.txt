@@ -6399,7 +6399,6 @@ glycohaemia
 goblinesque
 griffins
 goblinish
-glyceryl
 gramophones
 gentry
 goundou
@@ -10030,6 +10029,7 @@ glume
 gemelled
 gulped
 gammation
+glyceryl
 gargoyles
 greasing
 gook

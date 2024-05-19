@@ -6554,7 +6554,6 @@ enteric
 elaterid
 exolemma
 emove
-eligenda
 emphases
 elelments
 endothecate
@@ -8356,6 +8355,7 @@ epitheliomas
 egyptians
 epithalamiast
 elvan
+eligenda
 exopterygotic
 epitheliosis
 epitheliotoxin
