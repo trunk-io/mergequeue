@@ -4461,7 +4461,6 @@ bechanced
 banana
 becharmed
 bellona
-bromhydric
 bechase
 bechatter
 bechauffeur
@@ -7710,6 +7709,7 @@ bewary
 bewash
 bewaste
 beweary
+bromhydric
 bewearies
 bewearying
 broccoli
