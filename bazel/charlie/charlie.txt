@@ -2495,7 +2495,6 @@ chatterbox
 candler
 candlerent
 candlers
-candles
 candleshine
 candleshrift
 candlestand
@@ -21293,6 +21292,7 @@ conchal
 conchate
 conched
 concher
+candles
 conches
 cunonia
 calyciflorous
