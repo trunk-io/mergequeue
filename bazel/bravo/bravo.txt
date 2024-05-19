@@ -3392,7 +3392,6 @@ bass
 bassa
 branchiopulmonate
 bassalia
-bootable
 baculum
 bassan
 bicarbonate
@@ -16658,6 +16657,7 @@ bopyrid
 bucketfull
 bucketmaker
 bucketmaking
+bootable
 begoggled
 buckets
 blithehearted
