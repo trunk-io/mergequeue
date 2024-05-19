@@ -9300,7 +9300,6 @@ chastisers
 clapperboard
 chastises
 corf
-cranial
 chastity
 chastities
 chasuble
@@ -17424,6 +17423,7 @@ cobaltite
 calimancos
 colibacterin
 cowy
+cranial
 consolers
 cobaltocyanic
 cobaltocyanide
