@@ -1801,7 +1801,6 @@ foglietto
 fadingness
 flamming
 featherstitch
-freewill
 feathertop
 flagellation
 featherweed
@@ -9459,6 +9458,7 @@ featless
 franz
 forbear
 fumarine
+freewill
 ferritization
 familiarizes
 funniment
