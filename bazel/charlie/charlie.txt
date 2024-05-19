@@ -7966,6 +7966,7 @@ cessment
 cessor
 cesspipe
 cesspit
+cheetie
 cesspits
 clamors
 contrastment
@@ -17250,7 +17251,6 @@ coalsack
 communard
 coalsacks
 cachucha
-cheetie
 coalshed
 coalsheds
 cantil
