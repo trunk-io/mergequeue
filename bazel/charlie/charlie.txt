@@ -7147,7 +7147,6 @@ centigrams
 centile
 centiles
 caudatum
-clunker
 centiliter
 centiliters
 chimed
@@ -15625,6 +15624,7 @@ clasmatosis
 cuitle
 cutify
 clasped
+clunker
 clasper
 claspers
 claspt
