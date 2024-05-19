@@ -3113,7 +3113,6 @@ gyrostatically
 genii
 gorra
 geometrid
-genapper
 gutterling
 gastromyces
 glumal
@@ -5086,6 +5085,7 @@ gringos
 glance
 goldic
 glancing
+genapper
 genealogists
 goofballs
 glancingly
