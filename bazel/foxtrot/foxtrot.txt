@@ -26,7 +26,6 @@ fablers
 fourchee
 fabling
 fieldmen
-floey
 fibrolitic
 fabricated
 fabricates
@@ -10689,6 +10688,7 @@ fruitcakey
 fouette
 fruitcakes
 filtrability
+floey
 fruiteries
 fruiters
 fruitester
