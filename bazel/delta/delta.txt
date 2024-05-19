@@ -5770,6 +5770,7 @@ deftest
 deplorabilia
 deplorability
 deplorableness
+disarmature
 deplorably
 diving
 deploration
@@ -14939,7 +14940,6 @@ desperation
 dogstone
 disjection
 dogaressa
-disarmature
 dogmatics
 dogbanes
 dogberry
