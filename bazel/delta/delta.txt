@@ -10240,6 +10240,7 @@ dealfishes
 dino
 dislustring
 dinosauria
+dockyard
 dressing
 dinothere
 dinotherian
@@ -14731,7 +14732,6 @@ dockets
 dockhand
 debadge
 dockhouse
-dockyard
 dockyardman
 daktylon
 deringers
