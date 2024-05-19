@@ -3323,7 +3323,6 @@ capons
 caporal
 caporals
 counterweighing
-capot
 capotasto
 capotastos
 celsius
@@ -6605,6 +6604,7 @@ cecidogenous
 carrageen
 cecidomyian
 cecidomyiidae
+capot
 currieries
 cecile
 cecilite
