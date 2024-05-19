@@ -756,6 +756,7 @@ emergences
 euomphalid
 ecrase
 ecraseurs
+enlistment
 ecrasite
 elboic
 ecroulement
@@ -3037,7 +3038,6 @@ emp
 elliot
 educationable
 epeiridae
-enlistment
 elem
 ellipsis
 eyeglasses
