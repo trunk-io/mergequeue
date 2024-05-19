@@ -1570,6 +1570,7 @@ calls
 clericalize
 callum
 calluna
+cankerweed
 callus
 cispadane
 creasy
@@ -2641,7 +2642,6 @@ cankering
 cestas
 cankerroot
 cankers
-cankerweed
 clubmen
 cankerwort
 canli
