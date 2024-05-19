@@ -2944,7 +2944,6 @@ barricaded
 baryes
 barricaders
 bedplates
-barricado
 bigothero
 barricadoes
 brainsick
@@ -7494,6 +7493,7 @@ boletaceous
 bethels
 bigly
 bethesda
+barricado
 biangular
 bucking
 bethesdas
