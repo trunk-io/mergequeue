@@ -2615,7 +2615,6 @@ guttifer
 genecology
 guanidopropionic
 gradienter
-genecor
 griever
 genep
 genepi
@@ -3015,6 +3014,7 @@ geocerite
 gandhian
 gufought
 geochemists
+genecor
 geochrony
 galeres
 growlier
