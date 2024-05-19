@@ -8738,7 +8738,6 @@ billbug
 branching
 biller
 brantcorn
-brawlis
 billeted
 billeter
 billeters
@@ -17564,6 +17563,7 @@ bleep
 babeship
 blabs
 banks
+brawlis
 burdens
 bustards
 bobadilish
