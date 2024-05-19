@@ -4748,7 +4748,6 @@ gyroidal
 guapilla
 gigantostraca
 gallstone
-greenheart
 gidgee
 germanically
 gyrolith
@@ -10669,6 +10668,7 @@ gurshes
 gamble
 guardhouse
 guru
+greenheart
 gurus
 glairing
 gurging
