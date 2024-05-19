@@ -11681,7 +11681,6 @@ boatings
 bavarian
 beatus
 bistipuled
-boation
 bombyciform
 boatkeeper
 bittacle
@@ -15619,6 +15618,7 @@ band
 broadcloth
 brutage
 broadeners
+boation
 broadenings
 bribee
 balancement
