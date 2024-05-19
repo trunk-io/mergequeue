@@ -6824,6 +6824,7 @@ bhaktis
 brevets
 buscarle
 branchiobdella
+bisectrices
 berytidae
 beryx
 boblet
@@ -9709,7 +9710,6 @@ bisecting
 bisection
 bisections
 bisectors
-bisectrices
 busybodyness
 bisects
 bisellium
