@@ -1824,7 +1824,6 @@ gastropexy
 gastrophile
 gendered
 gorgonacea
-gastrophilism
 grizzle
 gastrophilite
 gastroplasty
@@ -8876,6 +8875,7 @@ gribane
 gribble
 grice
 gnomon
+gastrophilism
 gras
 gator
 glimmery
