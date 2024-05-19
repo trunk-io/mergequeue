@@ -5246,7 +5246,6 @@ aetosaurus
 aettekees
 aeviternal
 aevum
-anatomicomedical
 af
 afterpart
 automate
@@ -18963,6 +18962,7 @@ astrochemist
 archicantor
 abouts
 archicarp
+anatomicomedical
 archicerebrum
 archichlamydeae
 archichlamydeous
