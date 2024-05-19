@@ -8316,6 +8316,7 @@ diagonic
 diagram
 dammers
 demobilize
+diplomacy
 diagrammatic
 diagrammed
 divinail
@@ -11139,7 +11140,6 @@ disattaint
 disattune
 disauthenticate
 disauthorize
-diplomacy
 dysautonomia
 disavail
 daimonion
