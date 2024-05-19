@@ -1442,7 +1442,6 @@ bemeaned
 beakier
 benefitting
 baline
-bugler
 balinese
 balinghasay
 balistarii
@@ -10652,6 +10651,7 @@ biostrome
 blatted
 blattered
 biophysics
+bugler
 boltheader
 bachelorship
 blattering
