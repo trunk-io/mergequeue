@@ -577,7 +577,6 @@ gasolines
 glycerine
 galleries
 gallerygoer
-galleriidae
 groundless
 galleryite
 gazometer
@@ -8202,6 +8201,7 @@ grassfinch
 gravelliness
 grapple
 grappler
+galleriidae
 grapples
 gawks
 goas
