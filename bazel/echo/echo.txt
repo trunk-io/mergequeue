@@ -5272,7 +5272,6 @@ encharm
 endows
 equisegmented
 endostea
-embroiderers
 epiphyte
 estrangement
 endosteitis
@@ -12346,6 +12345,7 @@ exendospermic
 exendospermous
 exenterate
 exhalable
+embroiderers
 equilucent
 exerce
 exercent
