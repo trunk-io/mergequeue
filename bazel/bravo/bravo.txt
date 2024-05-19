@@ -4473,7 +4473,6 @@ blockishness
 beche
 becheck
 bechic
-bechignoned
 bechirp
 bacchanalize
 bezel
@@ -6803,6 +6802,7 @@ biarticulated
 berycine
 berycoid
 bansalague
+bechignoned
 bridgeboard
 berycoidea
 bumbershoot
