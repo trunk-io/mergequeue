@@ -3777,7 +3777,6 @@ celestes
 carboys
 carbolate
 carbolated
-counterattacks
 cerning
 carbolfuchsin
 carbolic
@@ -5505,6 +5504,7 @@ cataclysmically
 catacomb
 catacombic
 catacombs
+counterattacks
 catacorner
 catacorolla
 catacoustics
