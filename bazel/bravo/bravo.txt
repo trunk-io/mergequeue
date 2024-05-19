@@ -1187,7 +1187,6 @@ biasteric
 blowcase
 bake
 benettle
-brew
 bonus
 burrish
 bibliographer
@@ -12608,6 +12607,7 @@ bombesin
 bonnets
 bonny
 bonnibel
+brew
 bimethyl
 brownshirt
 biochemically
