@@ -437,7 +437,6 @@ dayspring
 dispersedye
 dilapidator
 disthrall
-daystreak
 daytide
 daytimes
 dayton
@@ -6315,6 +6314,7 @@ dermatomycosis
 dermatomyoma
 dictions
 dermatoneural
+daystreak
 dermatoneurosis
 dustuck
 dermatonosus

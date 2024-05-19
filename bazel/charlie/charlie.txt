@@ -21612,7 +21612,6 @@ cobhead
 condemningly
 condemnor
 callot
-condensability
 condensable
 condensance
 condensary
@@ -23686,6 +23685,7 @@ carbolise
 contractibly
 cattlegate
 contractility
+condensability
 contraction
 contractional
 contractionist
