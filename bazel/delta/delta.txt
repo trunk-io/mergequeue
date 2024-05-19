@@ -5111,7 +5111,6 @@ denaturant
 denaturants
 denaturate
 denaturational
-diver
 diablerie
 denature
 denatured
@@ -16014,6 +16013,7 @@ doubleyou
 delbert
 dupability
 doublelunged
+diver
 disturn
 doubler
 doubles
