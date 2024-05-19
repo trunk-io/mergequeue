@@ -904,7 +904,6 @@ gamekeeping
 gamelan
 girlfriend
 garpikes
-globigerina
 gemologies
 greeing
 guarding
@@ -8739,6 +8738,7 @@ greets
 gliffing
 grandchildren
 gelatinochloride
+globigerina
 gunslinger
 gregale
 gobiidae
