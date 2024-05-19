@@ -3247,6 +3247,7 @@ acton
 actory
 actorship
 actress
+acuteness
 actresses
 acts
 aminic
@@ -12496,7 +12497,6 @@ adelarthrosomata
 anemic
 anemically
 account
-acuteness
 autoexcitation
 anemobiagraph
 anemochord
