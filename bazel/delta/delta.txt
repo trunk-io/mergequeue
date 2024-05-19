@@ -3539,7 +3539,6 @@ dentiform
 deforests
 deform
 diasters
-doughmaker
 deformability
 droughermen
 disknow
@@ -15447,6 +15446,7 @@ dominus
 dozy
 domite
 domitian
+doughmaker
 domitic
 domn
 dolf

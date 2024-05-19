@@ -15445,7 +15445,6 @@ cynebot
 clangoured
 clangouring
 cakewalks
-clangours
 clangs
 clangula
 coastguard
@@ -30851,6 +30850,7 @@ cultigens
 cultirostres
 cultish
 cretonnes
+clangours
 carboyed
 cultism
 crassulaceous
