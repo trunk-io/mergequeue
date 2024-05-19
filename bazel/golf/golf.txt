@@ -541,7 +541,6 @@ gamestress
 gurjara
 guardfish
 gallantly
-gallantries
 goffer
 gallbladders
 gaudish
@@ -697,6 +696,7 @@ glower
 gormands
 galeated
 giansar
+gallantries
 goodheartedly
 gallow
 galloway
