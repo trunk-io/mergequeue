@@ -6350,7 +6350,6 @@ dod
 dermatorrhea
 dermatosclerosis
 dermatoses
-dermatosiophobia
 degausses
 dermatotherapy
 depurated
@@ -15406,6 +15405,7 @@ domineeringness
 disinherited
 domineers
 demiturned
+dermatosiophobia
 doming
 domini
 dominial
