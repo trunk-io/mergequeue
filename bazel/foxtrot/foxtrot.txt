@@ -624,7 +624,6 @@ friskers
 fritterer
 fartherance
 falsism
-falsiteit
 falsity
 falstaffian
 faltboat
@@ -7562,6 +7561,7 @@ foreclosed
 foreclosure
 fevering
 forecome
+falsiteit
 fearsome
 forecommend
 foreconclude
