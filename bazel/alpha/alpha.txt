@@ -10826,7 +10826,6 @@ ammonitoidea
 ammocoetiform
 algedi
 antischolastic
-ammoniuret
 ammoniureted
 ammono
 ammonobasic
@@ -15602,6 +15601,7 @@ arbutin
 algum
 antioxygenating
 antimodel
+ammoniuret
 antimodern
 altitudinal
 alimentatively
