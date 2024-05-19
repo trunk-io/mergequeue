@@ -2023,6 +2023,7 @@ bursting
 banyuls
 baniva
 bioinstrumentation
+bacteriorhodopsin
 blepharohematidrosis
 banjo
 banjoists
@@ -10779,7 +10780,6 @@ bleinerite
 blellums
 blemish
 blemished
-bacteriorhodopsin
 byelorussians
 barbudo
 baumhauerite
