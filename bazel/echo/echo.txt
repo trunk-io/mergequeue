@@ -8284,7 +8284,6 @@ epistolic
 epopoeia
 epistolical
 epistolise
-epistolised
 eure
 epistolising
 epistolography
@@ -12956,6 +12955,7 @@ expectorant
 expectorate
 expectorated
 endosecretory
+epistolised
 etatisms
 echinology
 expectorates
