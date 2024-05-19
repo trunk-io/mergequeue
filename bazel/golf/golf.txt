@@ -1057,6 +1057,7 @@ glutch
 gnomons
 geophilous
 gres
+gigaherz
 glanduliferous
 gomavel
 geodetician
@@ -3935,7 +3936,6 @@ gigahertz
 gigahertzes
 gibbed
 galloperdix
-gigaherz
 geese
 geophysically
 gigantean
