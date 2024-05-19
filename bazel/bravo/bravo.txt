@@ -13263,6 +13263,7 @@ bizarres
 bowler
 bosslet
 bossship
+birgus
 bonnyvis
 bevellers
 bawdiness
@@ -17734,7 +17735,6 @@ bridegod
 burkundaz
 burl
 burlace
-birgus
 blackfin
 burlaps
 boomlets
