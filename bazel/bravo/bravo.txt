@@ -2664,6 +2664,7 @@ barleduc
 barleducs
 barley
 barleybrake
+blastosphere
 bidactyl
 barleybreak
 barleycorn
@@ -10604,7 +10605,6 @@ blastophoral
 blastophoric
 blastophthoria
 blastoporal
-blastosphere
 blackthorn
 buttonhold
 blastostyle
