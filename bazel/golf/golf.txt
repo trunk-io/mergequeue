@@ -442,7 +442,6 @@ gastrojejunal
 gweduck
 gardenable
 gunnery
-gammexane
 galeeny
 galega
 gloatingly
@@ -7835,6 +7834,7 @@ granado
 granage
 grandparentage
 granam
+gammexane
 granary
 gorst
 genetic
