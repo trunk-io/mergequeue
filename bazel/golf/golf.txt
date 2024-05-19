@@ -2616,6 +2616,7 @@ guanidopropionic
 gradienter
 genecor
 griever
+geophysical
 genep
 genepi
 grinder
@@ -5676,7 +5677,6 @@ gtd
 gestio
 girsh
 geochemist
-geophysical
 generality
 gumi
 globuliform
