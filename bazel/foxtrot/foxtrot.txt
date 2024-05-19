@@ -2347,7 +2347,6 @@ faunule
 feazings
 fenestrato
 ficaria
-fenetre
 fenman
 furrings
 favorably
@@ -3801,6 +3800,7 @@ filterability
 finify
 filterableness
 faut
+fenetre
 forebridge
 flaillike
 frontwise
