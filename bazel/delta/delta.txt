@@ -4595,7 +4595,6 @@ dehydrators
 demieagle
 demies
 dosimetric
-demifarthing
 demifigure
 demigardebras
 disinflated
@@ -6100,6 +6099,7 @@ dungeonlike
 deputizes
 deputizing
 dequeue
+demifarthing
 dermorhynchi
 duomi
 decry
