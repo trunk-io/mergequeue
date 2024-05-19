@@ -2056,7 +2056,6 @@ gaussmeter
 gauster
 granville
 gausterer
-giantry
 grocerymen
 glamourization
 goosetongue
@@ -6678,6 +6677,7 @@ gold
 gonadal
 galvanizer
 gastroxynsis
+giantry
 gimp
 ghostwrite
 gluconeogenetic
