@@ -8759,7 +8759,6 @@ forwarders
 forwarding
 forwardly
 forwarn
-firepans
 fashionative
 forwean
 forwear
@@ -11386,6 +11385,7 @@ furlong
 forewind
 furlongs
 fraxinus
+firepans
 fornacic
 fiasco
 furloughed
