@@ -2373,6 +2373,7 @@ flippest
 furner
 flattops
 fenzelia
+farmerette
 feod
 firestopping
 feodum
@@ -11205,7 +11206,6 @@ forcipes
 fungitoxic
 fungitoxicity
 fluorophosphate
-farmerette
 foetalization
 fungoes
 flotorial
