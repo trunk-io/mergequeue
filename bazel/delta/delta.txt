@@ -1477,7 +1477,6 @@ deoxygenate
 dca
 dcb
 dcollet
-dcor
 ddname
 dea
 depressure
@@ -13972,6 +13971,7 @@ distractedness
 diphosphide
 distracter
 distractible
+dcor
 dedicator
 deaurate
 distraction
