@@ -7866,7 +7866,6 @@ cerulignone
 ceruloplasmin
 cerumen
 cellarman
-cerumens
 ceruminal
 casa
 costean
@@ -9893,6 +9892,7 @@ chemises
 chemisette
 chemism
 choosy
+cerumens
 chemisorb
 chemisorption
 cantator
