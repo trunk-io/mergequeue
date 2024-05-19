@@ -2938,6 +2938,7 @@ equipede
 endodontic
 explicit
 encephalopsychesis
+externum
 elymi
 eliminable
 eliminate
@@ -13684,7 +13685,6 @@ epiplasm
 externs
 excavates
 externship
-externum
 engrail
 ewers
 elocular
