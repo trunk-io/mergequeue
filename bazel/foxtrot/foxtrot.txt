@@ -8116,7 +8116,6 @@ fibrocrystalline
 fungite
 fretless
 foretop
-foretopman
 foretopmast
 fencer
 fellatrix
@@ -10207,6 +10206,7 @@ frithbot
 frithy
 fragor
 facula
+foretopman
 fixatif
 flowerlessness
 feasance
