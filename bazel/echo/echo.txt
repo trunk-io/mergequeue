@@ -3865,6 +3865,7 @@ eclogues
 equivote
 electrotonus
 emilia
+error
 eminences
 extraboldface
 eminencies
@@ -9359,7 +9360,6 @@ errhines
 erron
 erroneousness
 expositional
-error
 eugeosynclinal
 errordump
 errorist
