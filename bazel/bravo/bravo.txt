@@ -2146,6 +2146,7 @@ banterers
 bantery
 boxfishes
 biotechnologies
+branchiopulmonate
 boiler
 bantering
 banteringly
@@ -3383,7 +3384,6 @@ basophilic
 basques
 bass
 bassa
-branchiopulmonate
 bassalia
 bootable
 baculum
