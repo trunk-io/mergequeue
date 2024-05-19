@@ -5331,6 +5331,7 @@ galbanum
 gamecraft
 grenade
 gullet
+griffe
 glenlike
 genuflectory
 glomerulus
@@ -8939,7 +8940,6 @@ griffade
 guiltier
 galactotherapy
 griffaun
-griffe
 griffes
 griffinage
 gingivectomy
