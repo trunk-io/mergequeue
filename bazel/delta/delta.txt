@@ -848,7 +848,6 @@ disorchard
 dankishness
 dankness
 danli
-debase
 dannebrog
 dannemorite
 danner
@@ -4890,6 +4889,7 @@ demolitionist
 dishonest
 demolitions
 diodon
+debase
 donnot
 dhows
 diabantite
