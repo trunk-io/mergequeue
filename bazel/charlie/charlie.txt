@@ -22542,7 +22542,6 @@ conjunctives
 chersonese
 conjunctivitis
 chimbleys
-conjuncts
 conjunctur
 conjunctures
 conjuration
@@ -25658,6 +25657,7 @@ corporeity
 crankier
 corporeous
 corporify
+conjuncts
 corporification
 corporosity
 corposant
