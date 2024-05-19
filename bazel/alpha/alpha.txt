@@ -14327,7 +14327,6 @@ anthdia
 anthroposociologist
 alopias
 anthecological
-antlered
 anthecologist
 antheia
 alegars
@@ -18750,6 +18749,7 @@ archaeostomata
 archaeotherium
 arillated
 agriotypus
+antlered
 archaeus
 archagitator
 archai
