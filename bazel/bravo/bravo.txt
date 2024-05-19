@@ -7523,7 +7523,6 @@ bethwack
 bashilange
 busked
 betided
-betides
 bego
 broadswords
 brazilin
@@ -13193,6 +13192,7 @@ bose
 bosey
 boselaphus
 boxboards
+betides
 bosh
 boshas
 boshbok

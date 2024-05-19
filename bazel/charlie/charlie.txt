@@ -16313,6 +16313,7 @@ curvilinear
 clinostat
 clinquant
 clint
+cophosis
 clinty
 clinting
 catheters
@@ -24584,7 +24585,6 @@ coperta
 copes
 copesettic
 chelidon
-cophosis
 copy
 copia
 clapped
