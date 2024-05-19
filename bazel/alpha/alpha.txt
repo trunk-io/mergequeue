@@ -2350,7 +2350,6 @@ acidifiers
 arachnephobia
 acidifies
 acidifying
-acidimetry
 acidimetric
 acidimetrically
 acidite
@@ -8890,6 +8889,7 @@ allodiality
 allodially
 asherim
 allodiary
+acidimetry
 amphistomoid
 allodium
 allods
