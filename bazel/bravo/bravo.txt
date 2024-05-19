@@ -9422,7 +9422,6 @@ byproducts
 biprong
 bipunctual
 betokening
-biconcavity
 biddelian
 biosterin
 browsers
@@ -14995,6 +14994,7 @@ breezed
 breezeful
 breezeway
 breezeways
+biconcavity
 besanctify
 breezy
 breezier
