@@ -6659,7 +6659,6 @@ brandi
 bungaloid
 bequalm
 bequeath
-bequeathal
 bequeathed
 bruges
 braconidae
@@ -12080,6 +12079,7 @@ boyd
 boydekyn
 boydom
 boyer
+bequeathal
 boiette
 boyfriend
 bandies
