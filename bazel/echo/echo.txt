@@ -5786,6 +5786,7 @@ engraver
 entree
 engravers
 engraves
+epigeum
 easts
 engysseismology
 endophytous
@@ -7821,7 +7822,6 @@ epigenist
 endearedly
 exradio
 embolectomies
-epigeum
 epigyne
 endotoxic
 eumenid
