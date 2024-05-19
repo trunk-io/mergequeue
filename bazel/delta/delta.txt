@@ -4695,7 +4695,6 @@ demipomada
 demipremise
 demipronation
 damned
-dibber
 diazid
 drabbest
 demiquaver
@@ -5638,6 +5637,7 @@ dependability
 dependabilities
 dependableness
 dependably
+dibber
 dependance
 dependant
 depended
