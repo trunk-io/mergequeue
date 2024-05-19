@@ -71,7 +71,6 @@ abalone
 abalones
 abama
 archineuron
-aromata
 abamperes
 aband
 abandon
@@ -23533,6 +23532,7 @@ aura
 arsines
 aurae
 aural
+aromata
 auramin
 auramine
 aurang
