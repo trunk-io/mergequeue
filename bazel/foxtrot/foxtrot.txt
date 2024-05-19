@@ -3143,7 +3143,6 @@ falconoid
 fibroadipose
 fibroblastic
 fibrocalcareous
-fonds
 fibrocartilaginous
 fineer
 fibrocellular
@@ -11381,6 +11380,7 @@ fieldman
 furlana
 firbolg
 fichus
+fonds
 flattened
 furlong
 forewind
