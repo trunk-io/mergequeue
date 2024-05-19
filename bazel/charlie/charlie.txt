@@ -4361,7 +4361,6 @@ caridea
 chesterfields
 caridean
 caridomorpha
-construal
 caried
 carien
 cariform
@@ -8987,6 +8986,7 @@ characterize
 characterizer
 characterizers
 characterizing
+construal
 characterless
 characterlessness
 characterology
