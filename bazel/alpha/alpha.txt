@@ -13439,7 +13439,6 @@ ankylosing
 ankylosis
 ankylostomiasis
 ankylotia
-ankylotic
 allotriodontia
 ankylotomy
 ankle
@@ -17906,6 +17905,7 @@ assorters
 allianced
 applosion
 applosive
+ankylotic
 applotment
 appmt
 asphyxiate
