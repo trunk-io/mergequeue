@@ -5643,7 +5643,6 @@ dependance
 dependant
 depended
 diapasons
-dependence
 dependency
 depending
 dependingly
@@ -12964,6 +12963,7 @@ disparageable
 disparagement
 disparagements
 dehydrofreeze
+dependence
 deodorizers
 disparagingly
 decertificaton
