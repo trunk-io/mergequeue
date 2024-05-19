@@ -5311,6 +5311,7 @@ blinds
 begem
 bloods
 begettal
+bauta
 begetter
 broth
 bandagist
@@ -6760,7 +6761,6 @@ blowers
 bergaptene
 beslubber
 buoyance
-bauta
 brissotine
 bimane
 bergfall
