@@ -1821,6 +1821,7 @@ banande
 bananist
 beatings
 bridgewall
+brabanter
 bushwood
 bananivorous
 banat
@@ -13969,7 +13970,6 @@ bonesetter
 brontops
 brabagious
 bemeal
-brabanter
 bruins
 bromated
 brabble
