@@ -4079,7 +4079,6 @@ gravels
 gilds
 gildship
 gaskins
-gildsmen
 gastrosplenic
 gerundive
 gristles
@@ -5487,6 +5486,7 @@ greathearted
 glimmer
 glutinousness
 glucosid
+gildsmen
 glycaemic
 garnisheeing
 glimmering
