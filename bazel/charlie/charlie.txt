@@ -9702,6 +9702,7 @@ cafuso
 cheesebox
 cheeseburger
 cheeseburgers
+chlorobromide
 cheesecake
 crees
 cheesecloth
@@ -11347,7 +11348,6 @@ chloroamine
 chloroaurate
 chloroaurite
 chlorobenzene
-chlorobromide
 chlorobromomethane
 cavort
 chlorocalcite
