@@ -197,7 +197,6 @@ daemony
 deforesting
 dealfish
 daemonistic
-daemons
 daemonurgy
 droitural
 daemonurgist
@@ -9359,6 +9358,7 @@ diffeomorphic
 doited
 diffeomorphism
 differ
+daemons
 despouse
 disconnectiveness
 differed
