@@ -3948,7 +3948,6 @@ furriered
 frightfulness
 finfoot
 fasces
-finfoots
 footsteps
 fingal
 fingan
@@ -4941,6 +4940,7 @@ flammulation
 flammule
 flams
 flanch
+finfoots
 flanche
 fulvidness
 fact
