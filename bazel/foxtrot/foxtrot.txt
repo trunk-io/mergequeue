@@ -5324,7 +5324,6 @@ flecnodal
 friendlily
 frigefact
 fermentology
-formfitting
 flectionless
 fleabiting
 fry
@@ -10445,6 +10444,7 @@ fizzle
 flustrating
 fatalist
 focimeter
+formfitting
 fitche
 frontirostria
 fared
