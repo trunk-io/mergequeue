@@ -4713,7 +4713,6 @@ eyepieces
 enclasps
 enclave
 emptings
-enclaves
 enclaving
 enclear
 entrepreneurs
@@ -11733,6 +11732,7 @@ exaltations
 epiphytology
 endocarditis
 elevated
+enclaves
 eviscerations
 exaltedness
 exalters
