@@ -3730,7 +3730,6 @@ foujdary
 farmable
 flow
 fellowshipping
-fillock
 fake
 frogeater
 fideisms
@@ -3895,6 +3894,7 @@ frontlessly
 findhorn
 feedboard
 filarees
+fillock
 findon
 fitfully
 foliature
