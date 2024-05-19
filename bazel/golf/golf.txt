@@ -4562,6 +4562,7 @@ gypsyhead
 gaitt
 graupel
 gloeocapsoid
+gondola
 giglot
 goslings
 gypsying
@@ -6694,7 +6695,6 @@ goncalo
 grossularious
 gritter
 gruss
-gondola
 gondolas
 global
 gondoletta
