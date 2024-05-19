@@ -4678,7 +4678,6 @@ bedcovers
 blader
 bromos
 bucklered
-bedding
 beddingroll
 bede
 bogans
@@ -11241,6 +11240,7 @@ bloodwood
 burgeoned
 bloodworm
 biquadratic
+bedding
 bloodwort
 bloodworthy
 blearily
