@@ -165,7 +165,6 @@ dadoxylon
 dads
 dadu
 demicannon
-daduchus
 dae
 diestocks
 daedal
@@ -15801,6 +15800,7 @@ dorsilateral
 dorsimeson
 deinodon
 dorsiparous
+daduchus
 disyllabize
 dorsipinal
 disgusting
