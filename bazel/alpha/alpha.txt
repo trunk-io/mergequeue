@@ -8254,7 +8254,6 @@ alichino
 alliterating
 alicia
 aqueousness
-alicyclic
 antiquating
 acroscopic
 alick
@@ -21680,6 +21679,7 @@ asse
 asseal
 assecuration
 anagua
+alicyclic
 assecure
 assecution
 assegai
