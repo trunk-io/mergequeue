@@ -3641,7 +3641,6 @@ embryoism
 epithelioglandular
 embryology
 epigonousepigons
-embryological
 endocoeliac
 emanating
 electrobiologically
@@ -12795,6 +12794,7 @@ exosmoses
 exosmosis
 empty
 exosmotic
+embryological
 esquamate
 ecchymoses
 expatiater
