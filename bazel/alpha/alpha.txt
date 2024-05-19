@@ -20112,7 +20112,6 @@ aspirata
 aminothiophen
 antitype
 antiamboceptor
-aroynts
 arolia
 aroma
 aromal
@@ -23621,6 +23620,7 @@ aurigation
 agrionid
 aurigerous
 aurigo
+aroynts
 aurigraphy
 aurilave
 aurin
