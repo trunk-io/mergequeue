@@ -2581,6 +2581,7 @@ declinatory
 declinature
 decline
 decliner
+duellist
 djalmaite
 declines
 declining
@@ -17892,7 +17893,6 @@ durgan
 docible
 duelli
 duelling
-duellist
 duello
 deterministically
 duellos
