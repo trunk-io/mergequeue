@@ -3327,7 +3327,6 @@ dominants
 defibrillating
 doxographer
 defibrillative
-dragoons
 disfavored
 dwarfed
 defibrillatory
@@ -8929,6 +8928,7 @@ dichloroacetic
 dichlorobenzene
 dichlorodifluoromethane
 domiciling
+dragoons
 discitis
 dichlorodiphenyltrichloroethane
 dichloromethane
