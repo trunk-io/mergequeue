@@ -8806,7 +8806,6 @@ allis
 allopolyploid
 allision
 alliteral
-alliterate
 alliterated
 alliterates
 alliteration
@@ -21097,6 +21096,7 @@ ascothoracica
 ascots
 ascribable
 ascribe
+alliterate
 ascribed
 ascribes
 ascribing
