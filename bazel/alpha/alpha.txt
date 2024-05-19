@@ -1529,7 +1529,6 @@ algid
 acclimatizable
 acclimatize
 acclimatizer
-acclimatizes
 acrisia
 anticness
 acclinal
@@ -5497,6 +5496,7 @@ aficionadas
 afifi
 afikomen
 afire
+acclimatizes
 aflagellar
 almight
 aflat

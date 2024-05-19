@@ -646,7 +646,6 @@ falx
 fringefoot
 fam
 famacide
-ferromagnet
 fletcherite
 furlanas
 fortitudinous
@@ -10491,6 +10490,7 @@ frontosphenoidal
 frontotemporal
 frontozygomatic
 fronts
+ferromagnet
 foreimagination
 factorization
 frontsman
