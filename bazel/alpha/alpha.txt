@@ -4156,7 +4156,6 @@ admiral
 admirals
 autoeciousness
 admiralship
-admiralty
 admiralties
 atalan
 admiration
@@ -10150,6 +10149,7 @@ ambrettolide
 aphrizite
 ambry
 ambries
+admiralty
 alluminor
 ambrite
 ambroid
