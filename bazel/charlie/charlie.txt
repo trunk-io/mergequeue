@@ -14710,7 +14710,6 @@ cysticerus
 cysticle
 cysticolous
 cystid
-congenialness
 cystidea
 cystinosis
 cystidean
@@ -25515,6 +25514,7 @@ corol
 condemns
 corolitic
 circumclusion
+congenialness
 coroll
 cartooning
 corolla
