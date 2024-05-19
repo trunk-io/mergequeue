@@ -4970,7 +4970,6 @@ flanker
 flankers
 falconries
 flanking
-flanks
 foremartyr
 filthified
 frowsier
@@ -5351,6 +5350,7 @@ fleeces
 fleech
 fascicles
 fleeching
+flanks
 fellowmen
 fleecy
 fastness
