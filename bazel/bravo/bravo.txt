@@ -12552,6 +12552,7 @@ bongoist
 bypast
 borrows
 bannimus
+brakeman
 beaus
 bedposts
 bongrace
@@ -14429,7 +14430,6 @@ brakeless
 brakeload
 brakemaker
 brakemaking
-brakeman
 brakemen
 brakeroot
 brakesman
