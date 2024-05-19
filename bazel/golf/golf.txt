@@ -841,6 +841,7 @@ graminiferous
 gamasidae
 goombay
 guamuchil
+gamobium
 gamasoidea
 gutturopalatal
 gildhalls
@@ -7905,7 +7906,6 @@ glottologies
 goldarn
 grandity
 gaberloonie
-gamobium
 guidonian
 gustatorily
 gata
