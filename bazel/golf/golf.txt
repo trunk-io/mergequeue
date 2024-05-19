@@ -1892,7 +1892,6 @@ gaggling
 gatehouse
 graine
 gelsemin
-gatekeeper
 gatekeepers
 gnathopod
 glutenous
@@ -4546,6 +4545,7 @@ greffier
 gentisic
 griskin
 gipsy
+gatekeeper
 gipsydom
 gepoun
 gipsied
