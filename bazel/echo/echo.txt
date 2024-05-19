@@ -1566,7 +1566,6 @@ egyptianism
 ecoles
 extraversion
 epipany
-egyptologic
 egis
 exogeny
 egises
@@ -10726,6 +10725,7 @@ enclasp
 eastlake
 exclamatorily
 eudiometrical
+egyptologic
 eudiometrically
 eudist
 eudoxian
