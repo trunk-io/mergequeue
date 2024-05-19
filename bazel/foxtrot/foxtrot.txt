@@ -1773,6 +1773,7 @@ finlike
 forswearing
 fll
 flagrance
+fatale
 forejudgment
 featherfew
 finically
@@ -8609,7 +8610,6 @@ flagarie
 forslow
 forsooth
 farstepped
-fatale
 fatuitousness
 forewrought
 footing
