@@ -5458,7 +5458,6 @@ begrudge
 boggishness
 begrudging
 begruntle
-biographical
 biasness
 beqwete
 begrutten
@@ -6222,6 +6221,7 @@ barragon
 benchful
 benchy
 blaming
+biographical
 benchlet
 benchman
 benchmar
