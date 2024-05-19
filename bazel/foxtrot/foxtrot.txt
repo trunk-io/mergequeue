@@ -6704,6 +6704,7 @@ fogfruit
 foretype
 flatterable
 fogfruits
+forlay
 fogger
 fluerics
 furrier
@@ -8338,7 +8339,6 @@ faceup
 forestudy
 fattish
 fantail
-forlay
 forlain
 fatten
 flanning

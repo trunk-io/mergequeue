@@ -10021,6 +10021,7 @@ agabanee
 ambiguities
 abvolt
 ambiguous
+annelid
 ambiguously
 anorthitite
 ambilateral
@@ -13511,7 +13512,6 @@ anneals
 annect
 annectant
 annection
-annelid
 annelida
 annelidan
 agrammatical
