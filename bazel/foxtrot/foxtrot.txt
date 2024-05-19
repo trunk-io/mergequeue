@@ -1841,7 +1841,6 @@ featurelessness
 featureliness
 figureheadship
 fontange
-foreparents
 fussle
 figless
 feazed
@@ -7467,6 +7466,7 @@ foreknown
 ferrimagnet
 floatative
 forcut
+foreparents
 floes
 flebile
 fivers
