@@ -1332,7 +1332,6 @@ goodship
 geneki
 grimier
 grex
-garbline
 galga
 guib
 garblings
@@ -4369,6 +4368,7 @@ generatively
 glossist
 ger
 gateway
+garbline
 gantang
 gruelled
 gynecomaniac
