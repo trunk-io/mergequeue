@@ -3593,6 +3593,7 @@ deftness
 deftnesses
 defunct
 decenniums
+dolesomely
 defunction
 dollface
 defunctionalization
@@ -15169,7 +15170,6 @@ dolerin
 despondent
 dolerophanite
 dolesome
-dolesomely
 deplete
 disgruntles
 declinal
