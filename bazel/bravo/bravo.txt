@@ -1587,7 +1587,6 @@ ballistae
 bijous
 ballistician
 brachioganoidei
-ballistocardiogram
 ballistocardiograph
 ballistocardiography
 bifurcate
@@ -3652,6 +3651,7 @@ balneophysiology
 bulldogger
 bibliognost
 bathroomed
+ballistocardiogram
 broadthroat
 bathrooms
 bathroot
