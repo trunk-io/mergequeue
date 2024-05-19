@@ -2194,6 +2194,7 @@ guttur
 gazpachos
 galleta
 gerontine
+garlicmonger
 grainer
 graders
 gconv
@@ -8543,7 +8544,6 @@ glowbird
 geostrategic
 guidons
 gantlines
-garlicmonger
 gozzard
 goldfielder
 guttered
