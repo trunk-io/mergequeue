@@ -2049,6 +2049,7 @@ elapids
 euthyneural
 elapine
 elapse
+erythraemia
 exhalate
 edificant
 epigyny
@@ -9087,7 +9088,6 @@ erythematous
 eutheria
 enfant
 erythraean
-erythraemia
 exsiccate
 echinus
 erythrasma
