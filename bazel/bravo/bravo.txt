@@ -7578,6 +7578,7 @@ betread
 betrend
 braveries
 betrothing
+banqueteering
 betrothment
 betroths
 betrousered
@@ -8619,7 +8620,6 @@ bilberries
 brenthis
 bilbi
 bilby
-banqueteering
 bilbies
 bronteon
 bilbo
