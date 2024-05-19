@@ -26,7 +26,6 @@ fablers
 fourchee
 fabling
 fieldmen
-floey
 fibrolitic
 fabricated
 fabricates
@@ -9719,6 +9718,7 @@ foliosity
 freesias
 freesilverite
 fivefold
+floey
 freespace
 freest
 fluming
