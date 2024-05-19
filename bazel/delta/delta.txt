@@ -444,7 +444,6 @@ dayton
 disburthen
 denda
 dayward
-dayworker
 daywrit
 dakerhen
 dakhini
@@ -1273,6 +1272,7 @@ dogsbody
 dauber
 dauberies
 dossers
+dayworker
 daphnad
 dramatic
 dumpings
