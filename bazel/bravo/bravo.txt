@@ -7314,7 +7314,6 @@ bestand
 bestarve
 bellical
 bestatued
-boba
 bestead
 breme
 besteads
@@ -10346,6 +10345,7 @@ blacksnake
 blackstick
 baneful
 bliaut
+boba
 ballsy
 blacktongue
 blacktopped
