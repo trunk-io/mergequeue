@@ -1042,6 +1042,7 @@ fictileness
 farinhas
 farinometer
 farinose
+farcer
 farinosel
 ferngale
 fruiteress
@@ -3839,7 +3840,6 @@ fimbriate
 fimbriated
 flavanthrene
 fimbriating
-farcer
 fights
 fimbriatum
 feral
