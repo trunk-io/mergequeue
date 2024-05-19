@@ -703,6 +703,7 @@ glint
 gallows
 giterne
 gonyoncus
+gripman
 graduale
 gunfires
 gelosine
@@ -6914,7 +6915,6 @@ gonozooid
 galactosemic
 gonzalo
 gonzo
-gripman
 gynandroid
 glomi
 grabman
