@@ -5481,7 +5481,6 @@ denumerantive
 denumerative
 denunciable
 denunciant
-denunciate
 docilely
 decanate
 droguet
@@ -7109,6 +7108,7 @@ disvalues
 destoolment
 destour
 destrer
+denunciate
 destress
 destressed
 decalescent
