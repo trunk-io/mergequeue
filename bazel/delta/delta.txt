@@ -2581,7 +2581,6 @@ disyllabizing
 declinatory
 declinature
 decline
-decliner
 djalmaite
 declines
 declining
@@ -11680,6 +11679,7 @@ darwinical
 dysteleological
 discorded
 discorder
+decliner
 discordful
 discording
 discordous
