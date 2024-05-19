@@ -18557,7 +18557,6 @@ combusted
 clerkhood
 coilers
 coin
-cooperativeness
 coyly
 corralled
 coilyear
@@ -27546,6 +27545,7 @@ coventrize
 cover
 containable
 coverable
+cooperativeness
 coverages
 coverall
 coveralled
