@@ -7911,7 +7911,6 @@ fores
 foresaddle
 flowstone
 fyttes
-florent
 flindosy
 fusillades
 foresail
@@ -8223,6 +8222,7 @@ fop
 fossulate
 foretime
 finickiness
+florent
 filthiest
 flamelet
 forgathers
