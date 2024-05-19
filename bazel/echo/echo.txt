@@ -3773,7 +3773,6 @@ erythrons
 ethene
 enddamaging
 expendables
-emendable
 emendandum
 ekerite
 emendations
@@ -6671,6 +6670,7 @@ enterotome
 empyreumatic
 enright
 epidotization
+emendable
 enterotomy
 enterotoxemia
 enterotoxication
