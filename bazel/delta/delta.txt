@@ -4718,7 +4718,6 @@ demirilievo
 dynasty
 demirobe
 demonastery
-dungyard
 dol
 dinic
 demisang
@@ -13668,6 +13667,7 @@ dissimilative
 dangered
 dissimile
 dissimilitude
+dungyard
 dandyishly
 dioicous
 deferent
