@@ -523,7 +523,6 @@ dalt
 dalton
 daltonian
 daltonic
-daltonist
 desoxyanisoin
 dama
 damageability
@@ -17470,6 +17469,7 @@ drossel
 drosser
 drossy
 dagaba
+daltonist
 densation
 dedicate
 dowily
