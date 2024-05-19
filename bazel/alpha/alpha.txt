@@ -5972,7 +5972,6 @@ amovability
 agene
 ataxite
 agenes
-ageneses
 agenesis
 agenetic
 agenize
@@ -15434,6 +15433,7 @@ antileak
 acalypterae
 antilegomena
 antilemic
+ageneses
 abrosia
 antilethargic
 antileukemic

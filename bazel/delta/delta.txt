@@ -9866,7 +9866,6 @@ dimensioning
 dimensum
 decked
 dimer
-dimeran
 deboner
 dimercaprol
 demagog
@@ -10170,6 +10169,7 @@ disallowing
 dinging
 dingleberry
 dinglebird
+dimeran
 dingled
 dreidl
 dingledangle
