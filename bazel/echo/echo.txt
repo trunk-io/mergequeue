@@ -4535,7 +4535,6 @@ encephalospinal
 externize
 encephalothlipsis
 encephalotome
-etheostoma
 encephalotomy
 edomite
 ethics
@@ -13961,6 +13960,7 @@ extrapolated
 equalising
 endosepsis
 ebbed
+etheostoma
 elaterist
 elatives
 extrapolation
