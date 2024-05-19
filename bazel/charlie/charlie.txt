@@ -5328,7 +5328,6 @@ cardiopuncture
 chertier
 castalio
 castane
-castanea
 chewy
 castanean
 castaneous
@@ -14482,6 +14481,7 @@ circumstantially
 circumstantialness
 circumstantiate
 circumstantiating
+castanea
 circumstantiation
 circumstantiations
 circumstellar
