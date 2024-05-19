@@ -1508,7 +1508,6 @@ garefowls
 garrnishable
 gemeinde
 garroo
-garroted
 goldsmithry
 garroter
 garrotes
@@ -8755,6 +8754,7 @@ gair
 gurniad
 grim
 gregariniform
+garroted
 goodenoviaceae
 gregarinina
 glossopetra
