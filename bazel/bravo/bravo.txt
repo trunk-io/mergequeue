@@ -10257,6 +10257,7 @@ blackfire
 batster
 burntness
 biochemical
+burrfish
 bas
 blackfishes
 brahmins
@@ -17830,7 +17831,6 @@ burratine
 burrbark
 burree
 burrers
-burrfish
 burrgrailer
 burrhead
 burrheaded
