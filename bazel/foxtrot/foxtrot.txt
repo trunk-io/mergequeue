@@ -268,7 +268,6 @@ fadeout
 fader
 faders
 fadge
-forra
 furfuramide
 fellowless
 fadged
@@ -5774,6 +5773,7 @@ featherback
 fellowess
 fides
 flittered
+forra
 flittermice
 fluviation
 flittermmice
