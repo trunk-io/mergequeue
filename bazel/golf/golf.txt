@@ -121,7 +121,6 @@ gaditan
 glut
 goniometrical
 grue
-gadman
 gujerat
 gadoids
 gemutlichkeit
@@ -1783,6 +1782,7 @@ gibbering
 gastrohysteropexy
 gastrointestinal
 grassquit
+gadman
 gastrojejunostomy
 gastrojejunostomies
 gastrolater
