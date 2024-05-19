@@ -3265,6 +3265,7 @@ emanatism
 emanatist
 emanatistic
 emanativ
+excircle
 emanatively
 euphemizer
 eulogisation
@@ -11978,7 +11979,6 @@ excipuliform
 exfodiate
 earmindedness
 erythroxylaceae
-excircle
 endotheliolysin
 esmeraldan
 esker
