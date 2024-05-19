@@ -5479,7 +5479,6 @@ anagnostes
 adze
 affronted
 affrontedly
-affrontedness
 affronter
 affronty
 adductor
@@ -23890,6 +23889,7 @@ autoagglutinating
 autoagglutinin
 autoalarm
 autoalkylation
+affrontedness
 autoallogamous
 autoanalysis
 autoanalytic
