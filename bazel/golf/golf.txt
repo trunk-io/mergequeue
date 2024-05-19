@@ -891,7 +891,6 @@ goajiro
 gamdeboo
 girtline
 gamecock
-gamecraft
 gussying
 goshawful
 gamey
@@ -5330,6 +5329,7 @@ golgi
 guardsman
 gargets
 galbanum
+gamecraft
 grenade
 gullet
 glenlike
