@@ -4940,6 +4940,7 @@ belavendered
 bedwards
 bedwarf
 bedtimes
+brickbatted
 bedwarfing
 bedwarfs
 bedwell
@@ -15153,7 +15154,6 @@ brick
 bankruptship
 brickbat
 borish
-brickbatted
 brickbatting
 brickcroft
 brambled
