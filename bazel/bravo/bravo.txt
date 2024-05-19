@@ -4935,6 +4935,7 @@ battuto
 bedways
 bromargyrite
 bindings
+backcast
 blackwashing
 belavendered
 bedwards
@@ -12453,7 +12454,6 @@ bonbon
 betsimisaraka
 bobstay
 bicapitate
-backcast
 breathalyse
 bonbons
 belvederes
