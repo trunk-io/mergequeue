@@ -11980,7 +11980,6 @@ anarchial
 acanthosis
 anarchic
 anarchical
-anarchically
 anarchies
 affrights
 amortize
@@ -19214,6 +19213,7 @@ archsewer
 archsin
 auryl
 archsynagogue
+anarchically
 archspy
 archspirit
 archsteward
