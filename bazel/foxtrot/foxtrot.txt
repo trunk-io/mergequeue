@@ -5997,7 +5997,6 @@ foundation
 floppy
 floppier
 floppies
-ferbam
 fumigation
 flopwing
 flora
@@ -10568,6 +10567,7 @@ froust
 frousty
 frouzy
 finalities
+ferbam
 frouziest
 frow
 frowardness
