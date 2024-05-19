@@ -2180,6 +2180,7 @@ elderwort
 eldest
 eldin
 eldmother
+endoscopic
 eventuate
 eldress
 eldrich
@@ -5249,7 +5250,6 @@ enfortune
 exostema
 endomysium
 endoscopes
-endoscopic
 endoscopies
 empyreumatical
 endosymbiosis
