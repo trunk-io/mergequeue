@@ -9082,7 +9082,6 @@ dihexahedral
 dictynidae
 disseminates
 doneness
-dictyodromous
 dictyogen
 dictyograptus
 dictyoid
@@ -10442,6 +10441,7 @@ demonic
 diphylla
 dognapers
 diphysite
+dictyodromous
 diphyzooid
 dyphone
 diarhemia

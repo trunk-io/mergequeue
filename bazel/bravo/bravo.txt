@@ -4722,7 +4722,6 @@ bioplasmic
 bedewed
 bedewer
 bedews
-beltmaking
 briquetted
 bedfellows
 buildable
@@ -12244,6 +12243,7 @@ bolographic
 bolographically
 boloing
 blushiness
+beltmaking
 boloism
 byplays
 bolomen
