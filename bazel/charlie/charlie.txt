@@ -2756,6 +2756,7 @@ cannulating
 cannulation
 canoe
 canoeist
+colorists
 canoeists
 canoeload
 canoeman
@@ -19424,7 +19425,6 @@ colorism
 colorisms
 coloristic
 coloristically
-colorists
 carposporic
 calcitonin
 chimaeridae
