@@ -8353,7 +8353,6 @@ dissert
 dial
 dialcohol
 dialect
-dirdum
 dialectal
 dialectalize
 dialectally
@@ -9290,6 +9289,7 @@ daikering
 daguerreotyper
 danuri
 defatigated
+dirdum
 discussed
 deceptional
 dyestuffs
