@@ -1193,7 +1193,6 @@ datatype
 datatypes
 datcha
 demiassignation
-dragooner
 draftproof
 dialyzers
 dateableness
@@ -11143,6 +11142,7 @@ disavowable
 despect
 dyslectic
 disacquaintance
+dragooner
 disavowance
 disavowed
 disavowedly
