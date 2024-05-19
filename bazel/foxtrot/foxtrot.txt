@@ -1767,7 +1767,6 @@ featherbird
 foreshore
 floorman
 fraught
-feathercut
 falconiformes
 fibropsammoma
 famatinite
@@ -10723,6 +10722,7 @@ foughten
 fourteenth
 fruitwoman
 fleuretty
+feathercut
 foulage
 fruitworm
 frument

@@ -3978,7 +3978,6 @@ bde
 bdellatomy
 bdellium
 bdelliums
-bdelloid
 bdelloida
 bdellometer
 bdellostoma
@@ -17822,6 +17821,7 @@ burntweed
 burnup
 burnweed
 burnwood
+bdelloid
 browsage
 burped
 burping
