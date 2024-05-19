@@ -8809,7 +8809,6 @@ essential
 euphyllite
 eyeleting
 eradicable
-eradicant
 eradicate
 eradicated
 embossable
@@ -10785,6 +10784,7 @@ euhemerise
 euhemerising
 euhemerism
 euhemerist
+eradicant
 euhemerize
 euhemerized
 emacerate
