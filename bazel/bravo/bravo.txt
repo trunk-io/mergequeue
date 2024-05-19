@@ -6660,7 +6660,6 @@ bungaloid
 bequalm
 bequeath
 bequeathal
-bequeathed
 bruges
 braconidae
 bequeathing
@@ -7853,6 +7852,7 @@ betise
 bezzo
 bf
 bhabar
+bequeathed
 belemnites
 blaine
 bacchanalization
