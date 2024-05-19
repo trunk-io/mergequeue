@@ -2194,6 +2194,7 @@ baptistries
 babylonians
 baptizable
 baptized
+biophotometer
 befriend
 baptizement
 benzpyrene
@@ -11478,7 +11479,6 @@ bluepoint
 blackwasher
 bluepoints
 blueprint
-biophotometer
 bluesy
 bluesides
 bluesman
