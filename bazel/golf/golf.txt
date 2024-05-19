@@ -7616,7 +7616,6 @@ gradgrind
 gud
 grubstake
 gradient
-gamopetalae
 gutty
 gradin
 gynecotelic
@@ -7740,6 +7739,7 @@ grainman
 grains
 grainsickness
 grainsman
+gamopetalae
 grainsmen
 gentianal
 gainable
