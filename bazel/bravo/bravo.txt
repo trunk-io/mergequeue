@@ -2314,7 +2314,6 @@ belfather
 barbells
 barbellula
 barbellulae
-barbellulate
 barbeque
 besoothed
 beearn
@@ -11884,6 +11883,7 @@ bodysurfed
 bollworms
 bodysurfer
 bodywear
+barbellulate
 bunchiest
 blueness
 bodywise
