@@ -5955,6 +5955,7 @@ aristocracies
 agranulocyte
 agelessness
 agelong
+anarthrous
 agen
 archfelon
 agend
@@ -12011,7 +12012,6 @@ assized
 armagnac
 absconds
 anarthrosis
-anarthrous
 anarthrously
 autoharp
 archidium
