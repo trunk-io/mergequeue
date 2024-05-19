@@ -15659,7 +15659,6 @@ codium
 classier
 classiest
 classify
-classifiable
 classific
 classificator
 classificatory
@@ -17819,6 +17818,7 @@ codeins
 codelight
 codelinquency
 codelinquent
+classifiable
 coden
 casketing
 codenization
