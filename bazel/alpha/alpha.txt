@@ -12113,7 +12113,6 @@ anatomy
 anatomicobiological
 abought
 anatomicochirurgical
-acedia
 anatomicopathologic
 anatomicophysiologic
 arteriofibrosis
@@ -15923,6 +15922,7 @@ antipodagric
 antipodal
 antipode
 antipodes
+acedia
 antipodic
 antipodism
 abrased
