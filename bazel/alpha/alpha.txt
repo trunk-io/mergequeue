@@ -1380,7 +1380,6 @@ acceleratory
 accelerators
 accelerometer
 accelerometers
-accend
 accendible
 anticatholic
 accensor
@@ -15933,6 +15932,7 @@ antipoetical
 adrenalectomies
 antipoetically
 antipoints
+accend
 antipolar
 antipole
 atypically
