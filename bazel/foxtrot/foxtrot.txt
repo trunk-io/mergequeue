@@ -3815,6 +3815,7 @@ floundering
 fathercraft
 faze
 forenoted
+fixable
 foliole
 fatlike
 freckleproof
@@ -11635,7 +11636,6 @@ forearmed
 fustians
 fustics
 fustigated
-fixable
 frolicsomely
 fibrous
 ficoes
