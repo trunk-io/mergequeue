@@ -5488,7 +5488,6 @@ congaing
 catachreses
 catachresis
 catachrestic
-cercariae
 catachrestical
 catachrestically
 caprioling
@@ -21108,6 +21107,7 @@ coequating
 concatenations
 concatenator
 concatervate
+cercariae
 concaulescence
 concause
 concavation

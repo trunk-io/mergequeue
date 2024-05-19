@@ -5522,7 +5522,6 @@ deoperculate
 devanagari
 deoppilant
 dedolomitize
-deoppilate
 deoppilation
 deordination
 decompression
@@ -12442,6 +12441,7 @@ dishpan
 dishpans
 dishrags
 dishtowels
+deoppilate
 dishumanize
 dishumor
 dishware
