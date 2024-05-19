@@ -6061,7 +6061,6 @@ belozenged
 belsire
 beltane
 bactericholia
-bimetalic
 beltcourse
 belter
 ballistic
@@ -15966,6 +15965,7 @@ bronchoegophony
 bronchogenic
 baghouse
 bemourn
+bimetalic
 barriguda
 benamed
 bronchography
