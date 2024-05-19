@@ -3030,6 +3030,7 @@ ellice
 ellick
 endamoebic
 entellus
+exhaustiveness
 escar
 endothelia
 embeds
@@ -12429,7 +12430,6 @@ embryotrophic
 exhausting
 exhaustive
 eryon
-exhaustiveness
 elegances
 enriching
 exhaustless
