@@ -63,7 +63,6 @@ dacryocystotome
 dacryolithiasis
 dacryopyosis
 desmoma
-dizygotic
 dacryops
 dacryorrhea
 dacryosyrinx
@@ -10992,6 +10991,7 @@ degranulation
 dyscratic
 disagreement
 demonial
+dizygotic
 disagreements
 disagreer
 damier
