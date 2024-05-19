@@ -21088,7 +21088,6 @@ clerkish
 conamed
 cramoisie
 conand
-conant
 czardases
 connivence
 conarial
@@ -26859,6 +26858,7 @@ counterexplanation
 counterextension
 counterfact
 carniferous
+conant
 counterfactual
 counterfactually
 captivately
