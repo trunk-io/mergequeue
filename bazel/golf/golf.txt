@@ -3864,6 +3864,7 @@ goyle
 gibsons
 gibstaff
 galeche
+glazings
 gavelage
 gibuses
 giddap
@@ -9716,7 +9717,6 @@ grun
 grieved
 gtt
 gluttonizing
-glazings
 gonopodial
 gigolo
 gregarine
