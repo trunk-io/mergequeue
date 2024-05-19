@@ -11335,7 +11335,6 @@ chlorite
 chloritic
 chloritization
 chloritize
-culicid
 chlorize
 chesterbed
 chlormethane
@@ -23178,6 +23177,7 @@ constitutionary
 coliander
 counterradiation
 constitutionless
+culicid
 constitutions
 chawle
 constitutive
