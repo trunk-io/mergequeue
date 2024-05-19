@@ -7463,7 +7463,6 @@ cephalorhachidian
 cephaloridine
 cephalosome
 cephalospinal
-cephalosporium
 cephalostyle
 cephalotaceae
 cephalotaxus
@@ -14860,6 +14859,7 @@ cithern
 citherns
 cithers
 cithren
+cephalosporium
 cithrens
 condign
 city
