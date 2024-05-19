@@ -78,6 +78,7 @@ facepiece
 fisticuffs
 faces
 facesaving
+flybelts
 facet
 flattening
 frizettes
@@ -5503,7 +5504,6 @@ flatworm
 fluctuant
 flibbertigibbety
 flybelt
-flybelts
 fortunetellers
 foolhardier
 featherers
