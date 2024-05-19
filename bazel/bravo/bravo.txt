@@ -2272,7 +2272,6 @@ bourage
 buddler
 bassoons
 barbarisation
-barbarise
 barbarised
 barbarising
 barbarism
@@ -14947,6 +14946,7 @@ brecht
 beekeeper
 bungholes
 billitonite
+barbarise
 brechtian
 backlashing
 bunchberries
