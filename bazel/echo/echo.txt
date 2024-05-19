@@ -3040,6 +3040,7 @@ epeiridae
 enlistment
 elem
 ellipsis
+emulsor
 eyeglasses
 emblematic
 ellipsograph
@@ -8795,7 +8796,6 @@ equivoluminal
 engrain
 endocline
 equivoque
-emulsor
 equoidean
 equuleus
 eucalypt

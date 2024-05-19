@@ -2647,7 +2647,6 @@ acoustical
 anisopodal
 acoustically
 acousticolateral
-acousticon
 acousticophobia
 acoustoelectric
 acpt
@@ -6594,6 +6593,7 @@ acquaintances
 aheight
 abjure
 astronomic
+acousticon
 ahem
 ahems
 ahet
