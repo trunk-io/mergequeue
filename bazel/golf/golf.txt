@@ -2460,7 +2460,6 @@ gastroparalysis
 glumness
 geminates
 gemination
-geminative
 garmented
 gagsters
 gentile
@@ -4880,6 +4879,7 @@ gederite
 gunbright
 gandhism
 gant
+geminative
 gelidly
 giveaways
 gentling
