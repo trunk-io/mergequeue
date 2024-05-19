@@ -4882,7 +4882,6 @@ bedsprings
 bolivars
 bostonese
 bedstand
-brazenface
 baikerinite
 beshrouded
 bolometer
@@ -5127,6 +5126,7 @@ broider
 bepurple
 befathered
 bemas
+brazenface
 befavor
 biglenoid
 bewith
