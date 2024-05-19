@@ -2194,7 +2194,6 @@ gconv
 gdinfo
 gds
 grayfish
-grinnellia
 gaycat
 gastrotomy
 guereba
@@ -10209,6 +10208,7 @@ guildhall
 guilds
 ghosted
 guildship
+grinnellia
 guessworker
 guile
 guileful
