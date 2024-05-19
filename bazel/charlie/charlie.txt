@@ -16796,7 +16796,6 @@ cloverleaves
 cloverley
 cloveroot
 cloverroot
-cloves
 crepitus
 clovewort
 castling
@@ -25068,6 +25067,7 @@ cordwainer
 cordwainery
 cordwood
 choleraic
+cloves
 cordwoods
 core
 coreceiver
