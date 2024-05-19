@@ -1953,7 +1953,6 @@ beraked
 bandstands
 bandster
 bandstop
-brewings
 bandstring
 bandurria
 bandusia
@@ -8863,6 +8862,7 @@ bimastic
 bacterize
 bimastoid
 bimaxillary
+brewings
 bimbashi
 blazingly
 bimbisara
