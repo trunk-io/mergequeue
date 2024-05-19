@@ -8709,7 +8709,6 @@ filtrable
 fortread
 foreordains
 fortresses
-furors
 flailed
 fatihah
 finchery
@@ -10338,6 +10337,7 @@ fluorimeter
 frilly
 forebow
 fractioned
+furors
 froideur
 feminise
 froise
