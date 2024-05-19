@@ -241,7 +241,6 @@ dump
 dagga
 defeminize
 daggly
-daggar
 dagger
 daggerboard
 dyssynergia
@@ -16797,6 +16796,7 @@ demiflouncing
 dravya
 dravidian
 dravidic
+daggar
 diplomate
 dravite
 draw
