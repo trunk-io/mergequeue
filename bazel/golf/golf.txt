@@ -1615,7 +1615,6 @@ gasoliers
 gasoliner
 gasometry
 gastrodisc
-garlandlike
 galileo
 giraffesque
 gasometric
@@ -5621,6 +5620,7 @@ globiferous
 germen
 gillot
 globigerinae
+garlandlike
 gorbellied
 grunerite
 goshenite
