@@ -2644,7 +2644,6 @@ acousmatic
 acoustic
 acoustical
 anisopodal
-acoustically
 acousticolateral
 acousticon
 acousticophobia
@@ -7852,6 +7851,7 @@ aldrovanda
 aldus
 alchemically
 ale
+acoustically
 adoze
 alea
 aleak

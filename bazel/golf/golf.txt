@@ -3728,7 +3728,6 @@ ghostified
 galah
 glumelike
 ghostish
-grannom
 glossologies
 grille
 gracilescent
@@ -9494,6 +9493,7 @@ grouser
 gigantocyte
 gymnosporous
 gnomonical
+grannom
 gaed
 gospel
 grouseward
