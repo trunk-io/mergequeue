@@ -7484,6 +7484,7 @@ cepheids
 cephen
 coastings
 cephid
+corncob
 cardionephric
 cephidae
 cephus
@@ -15930,7 +15931,6 @@ cleche
 capacitance
 clechee
 clechy
-corncob
 cleck
 cled
 coassumes
