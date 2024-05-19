@@ -3465,7 +3465,6 @@ cons
 coached
 capsular
 capsulated
-capsulation
 capsule
 collegatary
 chawbone
@@ -21221,6 +21220,7 @@ concertante
 concertantes
 countersank
 chapped
+capsulation
 concertanto
 concertati
 choule
