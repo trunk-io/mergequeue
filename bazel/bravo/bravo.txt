@@ -13484,7 +13484,6 @@ betweenness
 bottomlessness
 bacteriocyte
 benefic
-bowyangs
 brachydactyl
 bottomried
 bottomrying
@@ -14171,6 +14170,7 @@ bradyacousia
 bradyauxesis
 bilification
 bradyauxetically
+bowyangs
 beanbags
 balladise
 bleu
