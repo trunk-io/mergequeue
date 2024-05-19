@@ -2260,7 +2260,6 @@ deceiving
 deflex
 dustbox
 decelerates
-decelerator
 decembrist
 diaphragmal
 decemcostate
@@ -6687,6 +6686,7 @@ disesteemer
 deservedness
 deserver
 deservers
+decelerator
 duncify
 distinctor
 ductings
