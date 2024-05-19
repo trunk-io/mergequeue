@@ -78,6 +78,7 @@ facepiece
 fisticuffs
 faces
 facesaving
+followeth
 facet
 flattening
 frizettes
@@ -4494,7 +4495,6 @@ felicitated
 faithfulness
 fistinut
 fistulate
-followeth
 fama
 fistnotes
 froghopper
