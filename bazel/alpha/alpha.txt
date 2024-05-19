@@ -2638,7 +2638,6 @@ astringence
 allylene
 acoumetry
 acounter
-acouometer
 adjacently
 acoup
 acousmatic
@@ -14527,6 +14526,7 @@ antiburgher
 anthrylene
 anthrohopobiological
 armigero
+acouometer
 aclinal
 anthrol
 andouille
