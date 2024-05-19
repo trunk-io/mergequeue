@@ -18890,7 +18890,6 @@ collaboratively
 clothworker
 collaborativeness
 claw
-collaborator
 collaborators
 calligrapher
 colladas
@@ -25814,6 +25813,7 @@ conciliating
 corroborative
 corroboratively
 corroborator
+collaborator
 chrism
 cathedratically
 corroboratory
