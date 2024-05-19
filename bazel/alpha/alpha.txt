@@ -17787,7 +17787,6 @@ appet
 appete
 appetence
 appetent
-antitegula
 appetibility
 appetibleness
 anthophore
@@ -21424,6 +21423,7 @@ asperated
 artefact
 asperating
 azarole
+antitegula
 asperation
 asperge
 asperges
