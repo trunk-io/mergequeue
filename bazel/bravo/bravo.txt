@@ -8004,6 +8004,7 @@ bibitory
 bible
 bibles
 bohmite
+brigaded
 bibless
 bipunctal
 biblical
@@ -15312,7 +15313,6 @@ brieve
 beslings
 birthstone
 brigade
-brigaded
 bolometric
 brigadier
 bitripartite
