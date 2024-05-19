@@ -2600,6 +2600,7 @@ ferrets
 foresightful
 flanes
 ferryboat
+fluigram
 ferryboats
 familistery
 ferricyanate
@@ -6299,7 +6300,6 @@ fluidounce
 findal
 frass
 flower
-fluigram
 frankincensed
 fluyts
 fluke
