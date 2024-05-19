@@ -2293,7 +2293,6 @@ dices
 decayer
 decene
 decennal
-decennial
 decennials
 decennium
 decennoval
@@ -4879,6 +4878,7 @@ diffusively
 demoid
 demoiselles
 demolish
+decennial
 detrained
 demolished
 demolisher
