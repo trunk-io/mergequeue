@@ -2828,7 +2828,6 @@ genotypic
 galatotrophic
 greathead
 gunfire
-genotypically
 glop
 grabbed
 grocerwise
@@ -6342,6 +6341,7 @@ goban
 glycemic
 gobbed
 gobber
+genotypically
 girja
 gobby
 gastrohysterectomy
