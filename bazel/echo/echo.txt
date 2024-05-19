@@ -3860,6 +3860,7 @@ equivote
 electrotonus
 emilia
 eminences
+ecorch
 extraboldface
 eminencies
 eminent
@@ -6622,7 +6623,6 @@ esplees
 eyestring
 enterolysis
 elaborateness
-ecorch
 eddies
 eudalene
 elastomeric
