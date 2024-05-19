@@ -2511,7 +2511,6 @@ enchanters
 electromotograph
 enwiden
 epimerised
-escadrilles
 electron
 eleutherarch
 elastins
@@ -4032,6 +4031,7 @@ emetic
 emphyteusis
 endobronchitis
 encipherment
+escadrilles
 emphyteutic
 emphlysis
 emolumentary
