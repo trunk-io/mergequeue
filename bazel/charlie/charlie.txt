@@ -17204,7 +17204,6 @@ clostridial
 coaler
 coalers
 crucifer
-coalescence
 cellarless
 coitions
 coalescency
@@ -25306,6 +25305,7 @@ corkwood
 commissions
 cormac
 cormel
+coalescence
 concetto
 cormidium
 cormlike
