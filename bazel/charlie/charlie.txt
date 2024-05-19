@@ -8228,7 +8228,6 @@ chainbreak
 crepuscule
 conceptions
 chaine
-chained
 chainer
 chainless
 craspedon
@@ -20810,6 +20809,7 @@ componed
 componency
 caciocavallo
 componendo
+chained
 component
 componental
 componented
