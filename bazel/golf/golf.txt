@@ -5055,7 +5055,6 @@ glairin
 glairiness
 genoblast
 glaistig
-glaived
 gladdened
 glaives
 grulla
@@ -10146,6 +10145,7 @@ guidable
 guidance
 git
 grown
+glaived
 gelid
 guide
 guideboard
