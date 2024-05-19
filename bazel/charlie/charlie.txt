@@ -10925,7 +10925,6 @@ chippies
 chippiest
 chipping
 chippings
-chipproof
 crucifying
 clocher
 clipperman
@@ -12473,6 +12472,7 @@ chromic
 chromicizing
 chromid
 confocally
+chipproof
 chromidae
 chromide
 chromides
