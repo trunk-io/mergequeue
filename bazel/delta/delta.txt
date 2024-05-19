@@ -11306,7 +11306,6 @@ dissyllabify
 devaraja
 dalan
 discepts
-discernable
 dammaret
 discerned
 dentinocemental
@@ -15285,6 +15284,7 @@ dissimulating
 dolorous
 dialler
 dolos
+discernable
 dolose
 diffuse
 disposedly
