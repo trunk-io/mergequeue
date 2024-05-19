@@ -1968,7 +1968,6 @@ flammivomous
 feedbags
 feedbin
 feiseanna
-feedbox
 feebler
 fountainously
 feeder
@@ -10837,6 +10836,7 @@ fuddles
 feriation
 foxskins
 ferniest
+feedbox
 fixatives
 fulciment
 falces
