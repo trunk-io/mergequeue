@@ -3066,7 +3066,6 @@ grocerdom
 galliardness
 geoids
 gladioluses
-geoisotherm
 gegenion
 geolatry
 geologer
@@ -10048,6 +10047,7 @@ gadflies
 guereza
 gueridons
 guerilla
+geoisotherm
 gasking
 guarapucu
 guerillaism
