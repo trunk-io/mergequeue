@@ -8765,7 +8765,6 @@ equities
 exceptive
 equitriangular
 equivalenced
-equivalency
 equivalent
 equivaluer
 effs
@@ -12413,6 +12412,7 @@ exfoliative
 egocentristic
 expiscator
 ejective
+equivalency
 exhalations
 empresse
 exhalents
