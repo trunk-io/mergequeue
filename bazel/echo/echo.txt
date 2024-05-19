@@ -14,7 +14,6 @@ evaporometer
 evansite
 ead
 eadi
-excoriator
 earthmove
 eadios
 eager
@@ -2073,6 +2072,7 @@ extrared
 elasmobranchiate
 epilimnia
 edgemaker
+excoriator
 elasmothere
 euphoniously
 ebullioscope
