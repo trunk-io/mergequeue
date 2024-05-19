@@ -6398,7 +6398,6 @@ drassid
 dermoneurosis
 dermoosseous
 decent
-dermopathy
 dysarthrosis
 discontiguous
 dejeune
@@ -11998,6 +11997,7 @@ dichastic
 days
 disembroilment
 deleading
+dermopathy
 davyum
 diseme
 dacelonine
