@@ -1727,7 +1727,6 @@ baloskionaceae
 bulbels
 balow
 blending
-bals
 bonito
 balsa
 becrimes
@@ -3842,6 +3841,7 @@ batwing
 beswitch
 batwomen
 batuque
+bals
 blastocolla
 bishopship
 beetlestock
