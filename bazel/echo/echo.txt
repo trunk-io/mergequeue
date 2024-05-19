@@ -3830,7 +3830,6 @@ excludible
 exemplarily
 engladden
 emforth
-emic
 eudendrium
 emication
 emyde
@@ -8024,6 +8023,7 @@ epinicia
 epinicial
 extrusion
 epinician
+emic
 epinicion
 epinyctis
 effervesce
