@@ -5038,7 +5038,6 @@ autophotometry
 aquavalent
 asexuals
 arake
-aerohydrous
 anodine
 aerolite
 apterygogenea
@@ -12481,6 +12480,7 @@ anele
 augurship
 anelectric
 anelectrode
+aerohydrous
 anelectrotonus
 amidoazobenzol
 ahmadiya
