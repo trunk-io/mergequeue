@@ -838,6 +838,7 @@ gamasidae
 goombay
 guamuchil
 gamasoidea
+gutturopalatal
 gildhalls
 graf
 gambade
@@ -2739,7 +2740,6 @@ grittle
 grabbing
 gadgets
 genghis
-gutturopalatal
 gamboised
 glareworm
 guaican
