@@ -12341,7 +12341,6 @@ bombardo
 bowdrill
 bombast
 buglers
-bandurrias
 bezzi
 baculi
 biophor
@@ -14903,6 +14902,7 @@ breastsummer
 breastweed
 brevi
 breastwood
+bandurrias
 beset
 bedrown
 breastwork
