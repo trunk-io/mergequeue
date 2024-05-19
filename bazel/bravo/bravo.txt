@@ -3009,6 +3009,7 @@ bartholomite
 bartisan
 bartisans
 borts
+bicylindrical
 bartizan
 bartizans
 becarpets
@@ -8177,7 +8178,6 @@ bicyclist
 bicyclo
 bicycular
 biciliated
-bicylindrical
 bicipital
 bespatterer
 buttstrapping

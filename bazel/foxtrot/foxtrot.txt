@@ -2924,6 +2924,7 @@ fetterbush
 flunkeyize
 fortuned
 fettered
+fonly
 farinaceously
 fetterers
 fettering
@@ -7024,7 +7025,6 @@ fondus
 frustrations
 fluorocarbon
 forconceit
-fonly
 fermentum
 filthify
 fain
