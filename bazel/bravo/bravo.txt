@@ -1531,7 +1531,6 @@ ballaster
 ballastic
 ballasting
 ballat
-ballata
 batikulin
 baru
 ballatoon
@@ -5575,6 +5574,7 @@ bepurple
 behowled
 besmeared
 boisseau
+ballata
 brouze
 bey
 bindi
