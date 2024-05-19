@@ -225,7 +225,6 @@ gagwriter
 gay
 gradefinder
 gaiassa
-gipsyish
 gaybine
 gaidropsaridae
 goodman
@@ -7979,6 +7978,7 @@ groundsel
 granitiform
 granitite
 granitization
+gipsyish
 gyrofrequency
 granitizing
 grumbly
