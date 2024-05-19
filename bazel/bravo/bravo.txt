@@ -12862,7 +12862,6 @@ boondoggle
 birthmate
 boondogglers
 blipped
-boondoggling
 banishers
 boonfellow
 brawl
@@ -17743,6 +17742,7 @@ burler
 burlesk
 burlesks
 blisterous
+boondoggling
 burlesqued
 burlesquer
 boviculture

@@ -4608,7 +4608,6 @@ gyral
 getter
 ghetti
 gigantine
-girasol
 gyrate
 gyrated
 gosain
@@ -8078,6 +8077,7 @@ glazier
 granulometric
 gaspereaus
 granulosa
+girasol
 greened
 granulosis
 gumlah
