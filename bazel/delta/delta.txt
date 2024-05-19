@@ -9479,7 +9479,6 @@ digestible
 downshifting
 dite
 digestibleness
-digestibly
 digestif
 digesting
 digestion
@@ -16940,6 +16939,7 @@ dyspeptics
 deadflat
 dreamt
 dreamtide
+digestibly
 dreamtime
 dreamwhile
 drearfully
