@@ -3295,7 +3295,6 @@ bench
 basins
 bookkeeps
 bandaite
-basion
 babbler
 betoil
 basions
@@ -9785,6 +9784,7 @@ bisymmetric
 billback
 bisymmetrical
 bigg
+basion
 bisync
 bisischiatic
 bauera
