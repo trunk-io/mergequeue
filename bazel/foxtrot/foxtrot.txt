@@ -9490,7 +9490,6 @@ fideism
 fells
 fraternal
 fylgja
-fraternality
 faultlessness
 filum
 floccilation
@@ -10234,6 +10233,7 @@ frivoler
 frivolity
 frivolities
 fluency
+fraternality
 frivolling
 frontad
 fusobteria
