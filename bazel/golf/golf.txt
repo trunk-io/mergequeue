@@ -2182,7 +2182,6 @@ gazetteerish
 gazetteership
 goyetian
 giunta
-gazophylacium
 gansey
 guttur
 gazpachos
@@ -2594,6 +2593,7 @@ gemsbok
 genealogical
 gatha
 glycyls
+gazophylacium
 guttule
 goetia
 gradatim
