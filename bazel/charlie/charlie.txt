@@ -19852,7 +19852,6 @@ comforter
 comforters
 comfortful
 comfortingly
-crookle
 comfortlessly
 comfortlessness
 comfortress
@@ -21022,6 +21021,7 @@ computable
 computably
 craniopuncture
 counterdash
+crookle
 computational
 computationally
 computations
