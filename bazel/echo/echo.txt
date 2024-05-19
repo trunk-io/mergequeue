@@ -11747,7 +11747,6 @@ exobiology
 exship
 examinable
 examinant
-exocannibalism
 enscrolled
 examinator
 examinatory
@@ -13207,6 +13206,7 @@ embryoferous
 eventuation
 explicatively
 explicator
+exocannibalism
 ecclesiasticus
 eelgrasses
 evenglow
