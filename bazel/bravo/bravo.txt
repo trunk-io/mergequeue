@@ -8547,7 +8547,6 @@ bigwig
 bigwigged
 bigwiggery
 bigwiggism
-bigwigs
 bihai
 bihalve
 boatly
@@ -13440,6 +13439,7 @@ bookiness
 bibliopoly
 biacromial
 brightsome
+bigwigs
 bottegas
 buncombes
 bibliotheca
