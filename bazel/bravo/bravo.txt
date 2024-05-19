@@ -1672,7 +1672,6 @@ ballweed
 balm
 brehon
 botony
-birder
 balmarcodes
 balmawhapple
 burton
@@ -5185,6 +5184,7 @@ bedewoman
 ballpoints
 beflecks
 beflounce
+birder
 bombshells
 bacony
 beflour
