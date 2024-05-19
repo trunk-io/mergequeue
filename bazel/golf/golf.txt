@@ -1514,7 +1514,6 @@ gn
 garrotte
 garrotted
 garrulinae
-ghouls
 garruline
 graven
 garrulity
@@ -2128,6 +2127,7 @@ gawkhammer
 graptolitoidea
 gawky
 graphometrist
+ghouls
 gemul
 gonystylaceae
 gawkihood
