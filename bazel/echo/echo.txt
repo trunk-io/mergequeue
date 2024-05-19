@@ -2949,7 +2949,6 @@ equaled
 eliminating
 eliminator
 earmarked
-engineering
 eliminators
 embosk
 elymus
@@ -10279,6 +10278,7 @@ electrotelegraphic
 ethicality
 ethicals
 esperantic
+engineering
 enseel
 evicts
 ethician
