@@ -2387,6 +2387,7 @@ fenester
 flaxseed
 feoffors
 fidelis
+foreglow
 feoffs
 fumant
 fand
@@ -7649,7 +7650,6 @@ focimetry
 foreseeability
 foregleam
 ferrocyanide
-foreglow
 forego
 fables
 fasciolidae

@@ -8423,7 +8423,6 @@ chalkosideric
 chalkotheke
 chalkpit
 chalkrail
-circumflect
 chalkstone
 chalkworker
 challah
@@ -27010,6 +27009,7 @@ counterpassion
 counterpenalty
 counterpendent
 circumventer
+circumflect
 counterpetition
 counterphobic
 counterpicture
