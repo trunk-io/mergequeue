@@ -844,6 +844,7 @@ guamuchil
 gamasoidea
 gutturopalatal
 gildhalls
+genuflector
 graf
 gambade
 gambado
@@ -9695,7 +9696,6 @@ glossaries
 guying
 grummels
 grummet
-genuflector
 grumness
 gambir
 gooder
