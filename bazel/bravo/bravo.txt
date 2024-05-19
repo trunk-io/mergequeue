@@ -225,7 +225,6 @@ bemol
 bachelor
 bachelordom
 bachelorette
-bachelorhood
 bachelorism
 bachelorly
 bachelorwise
@@ -10887,6 +10886,7 @@ bullbeggar
 bugbeardom
 blepharolithiasis
 blepharomelasma
+bachelorhood
 boarish
 blepharoncosis
 blepharoncus
