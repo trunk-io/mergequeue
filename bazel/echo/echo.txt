@@ -1090,6 +1090,7 @@ edictum
 edicule
 edify
 echolalia
+entad
 edificate
 edification
 exfigure
@@ -6476,7 +6477,6 @@ execration
 euorthoptera
 entablements
 entackle
-entad
 endpleasure
 entail
 epilimnion
