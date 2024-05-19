@@ -8371,7 +8371,6 @@ diplois
 dialectology
 dialectological
 dialectologically
-dialectologist
 dialector
 dargue
 duchies
@@ -16344,6 +16343,7 @@ downsizes
 divergently
 decapitator
 discinoid
+dialectologist
 downsizing
 downslide
 downslip

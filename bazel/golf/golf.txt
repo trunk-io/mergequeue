@@ -3181,7 +3181,6 @@ glasslike
 geopolitist
 geopositive
 grace
-geopotential
 georama
 gaolers
 gelosin
@@ -5797,6 +5796,7 @@ gumflower
 glossectomy
 glossematic
 grenado
+geopotential
 glossemes
 glossemic
 glossers
