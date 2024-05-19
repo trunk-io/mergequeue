@@ -2676,6 +2676,7 @@ acquiesced
 acquiescement
 acquiescence
 acquiescency
+aristae
 acquiescent
 ansate
 acquiescently
@@ -19775,7 +19776,6 @@ ariser
 arises
 attercrop
 acervately
-aristae
 ametabole
 aristarchian
 aristarchies

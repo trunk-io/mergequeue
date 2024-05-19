@@ -3572,7 +3572,6 @@ getling
 getmjlkost
 getpenny
 gibberish
-greaselessness
 gaunter
 gitana
 getspace
@@ -7641,6 +7640,7 @@ gradualist
 gregarinidal
 gaw
 germiculture
+greaselessness
 gemutlich
 gallantness
 gradually
