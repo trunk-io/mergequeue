@@ -7197,7 +7197,6 @@ escaped
 enwreathe
 enwreathing
 exanimate
-epileptic
 exactest
 enwrought
 enwwove
@@ -12569,6 +12568,7 @@ existentialize
 enactable
 electrofusion
 existibility
+epileptic
 extant
 encumberment
 epilogic
