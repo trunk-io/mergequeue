@@ -18237,6 +18237,7 @@ coffeehouse
 coffeehoused
 coffeehouses
 cavalry
+captress
 coffeeleaf
 coffeeman
 coquinas
@@ -31318,7 +31319,6 @@ consolitorily
 curfew
 curfewed
 curfews
-captress
 concordats
 curfs
 cury
