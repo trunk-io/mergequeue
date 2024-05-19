@@ -15878,7 +15878,6 @@ bromizer
 basified
 bromizing
 bromlite
-bromo
 bromoacetone
 bearberries
 bromoauric
@@ -17756,6 +17755,7 @@ baronetical
 burletta
 burly
 blarney
+bromo
 burliest
 burlily
 brachioganoid
