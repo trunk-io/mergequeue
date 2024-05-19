@@ -537,7 +537,6 @@ gamestress
 gurjara
 guardfish
 gallantly
-gallantries
 goffer
 gallbladders
 gaudish
@@ -9936,6 +9935,7 @@ gogglers
 glegness
 glow
 gluish
+gallantries
 guars
 gipsyfy
 gaiters
