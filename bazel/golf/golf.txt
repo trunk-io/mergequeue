@@ -155,6 +155,7 @@ gae
 glottalization
 gael
 girth
+gyrencephala
 galibi
 gaelic
 gasogenes
@@ -4650,7 +4651,6 @@ gummites
 gulps
 gluelike
 genesiac
-gyrencephala
 gyrencephalic
 gratulatory
 graphometry
