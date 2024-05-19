@@ -1650,6 +1650,7 @@ fink
 fustie
 fawnlike
 foveal
+fake
 fawns
 frowned
 faxed
@@ -3734,7 +3735,6 @@ farmable
 flow
 fellowshipping
 fillock
-fake
 frogeater
 fideisms
 flotilla
