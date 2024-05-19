@@ -6461,7 +6461,6 @@ cavelet
 confiner
 cavelike
 caveman
-cavemen
 cavern
 cavernal
 caverned
@@ -24508,6 +24507,7 @@ copalm
 copals
 cynomorpha
 coparallel
+cavemen
 convincers
 coparcenar
 coparcenary

@@ -3729,7 +3729,6 @@ essancias
 excerpt
 embrues
 embruing
-edulcorate
 embrutes
 embruting
 embubble
@@ -4140,6 +4139,7 @@ elastance
 enamine
 ethnical
 employment
+edulcorate
 eiffel
 entastic
 epilithic
