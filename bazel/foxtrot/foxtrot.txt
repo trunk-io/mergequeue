@@ -2227,7 +2227,6 @@ felted
 felter
 feltyflier
 felting
-feltmaker
 ferbams
 feltmaking
 fats
@@ -5300,6 +5299,7 @@ fettles
 ferulaic
 faverel
 fleaweed
+feltmaker
 fealties
 flunkyistic
 fleawort
