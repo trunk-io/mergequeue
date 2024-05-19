@@ -4159,7 +4159,6 @@ beansetter
 beanshooter
 beanstalk
 beanstalks
-bibbs
 begrain
 beanweed
 beaproned
@@ -4589,6 +4588,7 @@ becrust
 becrusting
 becudgeled
 backslidingness
+bibbs
 becudgeling
 bae
 blankest
