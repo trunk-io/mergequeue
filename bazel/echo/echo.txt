@@ -7036,7 +7036,6 @@ entresols
 entresse
 endocardial
 epicranial
-entria
 entryman
 entrymen
 entryway
@@ -13794,6 +13793,7 @@ extrabureau
 equipaga
 expressionism
 extracardial
+entria
 epithelialize
 exceptionalness
 elating
