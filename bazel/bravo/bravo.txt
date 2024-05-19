@@ -2036,7 +2036,6 @@ banjoists
 baptanodon
 bazaars
 banjorine
-banjuke
 buntings
 boardman
 bank
@@ -3339,6 +3338,7 @@ bask
 basked
 basker
 basket
+banjuke
 basketballer
 basketballs
 basketfuls
