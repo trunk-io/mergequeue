@@ -16335,7 +16335,6 @@ clypeated
 corone
 clypeiform
 clypeola
-clypeolar
 clypeolate
 clypeus
 collapsible
@@ -25814,6 +25813,7 @@ corroborative
 corroboratively
 corroborator
 chrism
+clypeolar
 cathedratically
 corroboratory
 corroboratorily
