@@ -1863,7 +1863,6 @@ guestimate
 gallophobia
 grossification
 gelatinotype
-grippelike
 gastrosopher
 gradationately
 granodioritic
@@ -2659,6 +2658,7 @@ generalizers
 gasthaus
 granodiorite
 goo
+grippelike
 gamodeme
 geotropic
 gorillas
