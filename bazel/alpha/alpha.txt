@@ -2908,6 +2908,7 @@ areometer
 acromiohumeral
 acromioscapular
 amphibalus
+androgenesis
 acromiosternal
 antichurchian
 acromiothoracic
@@ -4835,7 +4836,6 @@ aeluropodous
 albarello
 aenach
 aeneas
-androgenesis
 affricate
 aenigmatite
 aeolia
