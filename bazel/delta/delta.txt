@@ -5573,7 +5573,6 @@ deoxidizing
 destining
 deoxygenated
 dilatation
-deoxygenation
 deoxygenized
 dilutent
 deoxyribonucleoprotein
@@ -10774,6 +10773,7 @@ dependent
 diastase
 devitalise
 dipterus
+deoxygenation
 diptyca
 diptychs
 dipware

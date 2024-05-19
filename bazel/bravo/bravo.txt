@@ -7663,7 +7663,6 @@ biathlon
 bevenom
 bever
 beverage
-beverse
 bevesseled
 brinks
 booing
@@ -9306,6 +9305,7 @@ biotites
 bromcamphor
 bruja
 biotome
+beverse
 buoys
 bogtrot
 brothered
