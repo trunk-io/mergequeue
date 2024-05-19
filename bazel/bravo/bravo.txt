@@ -2822,7 +2822,6 @@ blasphemers
 baroswitch
 barotaxy
 barotaxis
-barothermogram
 bitis
 babuls
 barothermograph
@@ -2910,6 +2909,7 @@ botanical
 blennometritis
 bonair
 barrelful
+barothermogram
 barrelfuls
 blind
 barrelhead
