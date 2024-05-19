@@ -7979,7 +7979,6 @@ epimerism
 enorganic
 exhaustibility
 empidonax
-eigenvector
 euripos
 epimerized
 epimeron
@@ -11271,6 +11270,7 @@ evanescible
 evanescing
 endew
 expilation
+eigenvector
 evang
 equipt
 evangelary
