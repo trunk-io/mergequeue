@@ -6690,7 +6690,6 @@ gonaduct
 gesticulated
 gonalgia
 gonangial
-gola
 gonangium
 gonapod
 golosh
@@ -10068,6 +10067,7 @@ gigman
 glore
 gravigrade
 guesdist
+gola
 gloria
 gymnoglossate
 guesser
