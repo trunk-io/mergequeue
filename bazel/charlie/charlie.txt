@@ -15806,7 +15806,6 @@ clavicles
 clavicorn
 clavicornes
 clarifiable
-clavicotomy
 clavicular
 clavicularium
 claviculate
@@ -22376,6 +22375,7 @@ cyclopedist
 congroid
 congruence
 crystallitis
+clavicotomy
 congruency
 columella
 congruent
