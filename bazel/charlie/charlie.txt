@@ -5346,6 +5346,7 @@ casteisms
 casteless
 chimerical
 castellany
+counterembowed
 corso
 crizzling
 castellanies
@@ -26833,7 +26834,6 @@ countered
 counterefficiency
 countereffort
 counterembattled
-counterembowed
 counterenergy
 counterengagement
 corporator
