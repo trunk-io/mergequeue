@@ -3514,7 +3514,6 @@ disyllable
 defoggers
 deluder
 defogging
-defogs
 defoil
 dawish
 dorsobranchiata
@@ -6114,6 +6113,7 @@ deboites
 deracinate
 deracinating
 deoxidise
+defogs
 devilism
 dropling
 deracination
