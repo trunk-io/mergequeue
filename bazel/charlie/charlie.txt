@@ -8670,7 +8670,6 @@ corance
 conoscente
 chancer
 chancery
-chancering
 chances
 chancewise
 chasseur
@@ -27509,6 +27508,7 @@ coal
 covariant
 clavier
 cuban
+chancering
 covariate
 covariates
 covariation
