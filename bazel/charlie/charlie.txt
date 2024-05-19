@@ -3084,6 +3084,7 @@ caparisons
 capataces
 capataz
 capcase
+craterid
 cape
 chequerboard
 capeadores
@@ -18487,7 +18488,6 @@ cohomology
 chronocinematography
 chello
 cill
-craterid
 cohortative
 cohosh
 circumdiction
