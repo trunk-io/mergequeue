@@ -12792,7 +12792,6 @@ angiomalacia
 angiomas
 angiomatosis
 anoestrous
-angiomyosarcoma
 angioneurosis
 abernethy
 anamirtin
@@ -14854,6 +14853,7 @@ anticatalytically
 accessorial
 anticatarrhal
 anticathexis
+angiomyosarcoma
 afernan
 anticathode
 anticausotic
