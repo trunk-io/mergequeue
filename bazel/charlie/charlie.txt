@@ -2165,7 +2165,6 @@ camps
 capotes
 chaenactis
 campshed
-campsheeting
 campsite
 caver
 compasser
@@ -6446,6 +6445,7 @@ cavea
 caveae
 caveat
 caveatee
+campsheeting
 caveating
 caveator
 choaty
