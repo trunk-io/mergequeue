@@ -4464,6 +4464,7 @@ freighting
 fissirostrate
 fissirostres
 fissle
+fulfils
 furcule
 frostier
 fissura
@@ -10860,7 +10861,6 @@ formyl
 fraken
 fulfilment
 fashionably
-fulfils
 freshener
 fulful
 fennici
