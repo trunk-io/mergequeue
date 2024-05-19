@@ -1650,7 +1650,6 @@ calorite
 calorized
 calorizes
 calorizing
-calosoma
 calotermes
 calothrix
 calotype
@@ -4546,6 +4545,7 @@ carneyed
 convulsed
 carneys
 carnelian
+calosoma
 corespondency
 carneole
 coroner

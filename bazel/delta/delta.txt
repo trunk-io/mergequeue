@@ -2854,7 +2854,6 @@ dictionary
 decretorial
 deprivers
 drowse
-deliberation
 decretorian
 decrew
 dithymol
@@ -16786,6 +16785,7 @@ dismain
 draughtiest
 darg
 decrials
+deliberation
 draughtman
 draughts
 draughtsboard
