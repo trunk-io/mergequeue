@@ -5693,7 +5693,6 @@ gemology
 garnice
 gradable
 glogg
-gilded
 glossocomium
 ganefs
 gloiosiphonia
@@ -6882,6 +6881,7 @@ gallican
 gobleted
 gonopodpodia
 gonopoietic
+gilded
 gonorrhoea
 gunnings
 grandams
