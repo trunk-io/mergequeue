@@ -6334,7 +6334,6 @@ agoniatite
 aegerian
 agonic
 agonies
-agonise
 axillas
 agonised
 agonist
@@ -25316,6 +25315,7 @@ ambulant
 azoles
 azolitmin
 azolla
+agonise
 azon
 azonaphthalene
 azons
