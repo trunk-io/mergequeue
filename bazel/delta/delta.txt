@@ -2546,7 +2546,6 @@ declaratory
 declaratorily
 drain
 declarators
-declare
 declaredly
 doorjamb
 declares
@@ -14170,6 +14169,7 @@ demurs
 diswarn
 diswarrening
 diswashing
+declare
 disweapon
 diswere
 demonifuge
