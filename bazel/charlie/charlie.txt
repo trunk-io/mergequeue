@@ -3588,7 +3588,6 @@ caracoa
 cumanagoto
 caracol
 caracoled
-caracoler
 caracoles
 caracoli
 caracoling
@@ -5410,6 +5409,7 @@ coldly
 castoreum
 cookshack
 castorial
+caracoler
 castorin
 calcaneonavicular
 castorite
