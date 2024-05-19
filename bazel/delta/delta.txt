@@ -6705,7 +6705,6 @@ desyatin
 desicate
 disprove
 downrange
-desiccated
 desiccating
 desiccations
 desiccator
@@ -10161,6 +10160,7 @@ drillability
 dispassioned
 deripia
 dingier
+desiccated
 declarable
 dialyphyllous
 dudaim
