@@ -4344,7 +4344,6 @@ armamentaria
 adornments
 adorno
 adornos
-adorns
 attestation
 automorph
 antiaircraft
@@ -20489,6 +20488,7 @@ arenae
 alcibiades
 aragonese
 artery
+adorns
 arteria
 associating
 arteriac
