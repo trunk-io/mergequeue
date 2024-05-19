@@ -3738,7 +3738,6 @@ browntop
 blackest
 bally
 battakhin
-bagwoman
 battalias
 battarismus
 boobialla
@@ -9217,6 +9216,7 @@ bactericidin
 biopoiesis
 biod
 biological
+bagwoman
 basking
 blanching
 biopotential
