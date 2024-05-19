@@ -3376,6 +3376,7 @@ defines
 definienda
 definiendum
 dippy
+dustfall
 deionizes
 definiens
 derencephalocele
@@ -5399,7 +5400,6 @@ dentical
 denticle
 denticular
 denticulate
-dustfall
 dentiferous
 dentification
 dentifrice
