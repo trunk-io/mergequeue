@@ -5713,7 +5713,6 @@ antidynamic
 aftermarket
 antethem
 autotherapeutic
-archtempter
 afterswarming
 aftertask
 aftertaste
@@ -17024,6 +17023,7 @@ apigenin
 apii
 apikores
 apikorsim
+archtempter
 apili
 apprehender
 apimania
