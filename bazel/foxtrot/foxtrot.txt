@@ -1089,7 +1089,6 @@ foredestining
 faroelite
 foremast
 farolito
-ferriages
 farrage
 foldstool
 farrago
@@ -1477,6 +1476,7 @@ faubourg
 fantasie
 faubourgs
 faucals
+ferriages
 fractionary
 filmable
 faucitis
