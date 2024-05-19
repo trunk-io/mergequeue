@@ -6473,7 +6473,6 @@ cavers
 caves
 cavesson
 cavetti
-conchie
 cavetto
 cavettos
 cavy
@@ -9532,6 +9531,7 @@ chechakos
 chechem
 chechia
 callityping
+conchie
 check
 checkage
 checkback
