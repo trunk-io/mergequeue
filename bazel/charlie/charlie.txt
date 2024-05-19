@@ -3742,7 +3742,6 @@ chlorpikrin
 cheerios
 carbazine
 crimpled
-carbazole
 carbeen
 carbene
 carberry
@@ -15387,6 +15386,7 @@ consonantalizing
 clamming
 clammyweed
 clamor
+carbazole
 clamored
 clamorer
 clamorers
