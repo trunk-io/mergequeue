@@ -3196,7 +3196,6 @@ capitaled
 capitaling
 capitalisable
 capitalised
-capitaliser
 capitalising
 capitalist
 capitalistic
@@ -28872,6 +28871,7 @@ cretonne
 creutzer
 collared
 crevalle
+capitaliser
 crevass
 collogue
 chatoyancy
