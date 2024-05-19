@@ -2174,7 +2174,6 @@ grampus
 galla
 globosity
 gazeless
-gisler
 gazella
 gazelle
 gazellelike
@@ -5203,6 +5202,7 @@ glasswork
 gutturality
 galenist
 gravicembali
+gisler
 guider
 gunpaper
 glassworker
