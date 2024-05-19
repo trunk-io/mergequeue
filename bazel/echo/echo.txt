@@ -3354,7 +3354,6 @@ elohist
 embarrel
 embarricado
 embarring
-exponentially
 extempory
 epionynychia
 embase
@@ -11104,6 +11103,7 @@ elapoid
 euhages
 exposing
 eurithermophilic
+exponentially
 eurythermous
 ejaculate
 eogaean

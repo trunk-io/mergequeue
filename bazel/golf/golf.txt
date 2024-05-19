@@ -6681,6 +6681,7 @@ gimmerpet
 gold
 gonadal
 galvanizer
+gesning
 gastroxynsis
 gimp
 ghostwrite
@@ -10526,7 +10527,6 @@ grateman
 grilling
 gunks
 glockenspiels
-gesning
 gunlaying
 gunline
 gunlock
