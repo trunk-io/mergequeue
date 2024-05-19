@@ -2321,7 +2321,6 @@ acichlorid
 assessee
 acichloride
 acyclic
-aciculae
 aciculate
 aciculum
 acid
@@ -6188,6 +6187,7 @@ agitability
 allocheiria
 archilowe
 appetize
+aciculae
 agitable
 agitant
 agitate

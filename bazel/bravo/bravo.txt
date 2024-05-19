@@ -2110,7 +2110,6 @@ bannisters
 birthmarks
 bioflavinoid
 bannock
-blamer
 buyers
 bannockburn
 bannocks
@@ -5642,6 +5641,7 @@ backstamp
 bejezebel
 beadhouses
 bricksetter
+blamer
 bejig
 bejuco
 basihyoid
