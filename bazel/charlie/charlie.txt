@@ -17008,7 +17008,6 @@ cnidae
 cnidarian
 cnidian
 crayoned
-chromeplating
 cnidoblast
 cnidocil
 cobbed
@@ -29911,6 +29910,7 @@ crossopterygii
 crossosoma
 crossosomataceous
 contrahent
+chromeplating
 crossover
 crossovers
 crosspatch
