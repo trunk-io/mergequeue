@@ -154,7 +154,6 @@ facsimilize
 faradism
 factable
 fusains
-favus
 factice
 facticity
 factionalism
@@ -6640,6 +6639,7 @@ forwrap
 forbye
 focsle
 flowerpot
+favus
 focus
 featurely
 fewsome
