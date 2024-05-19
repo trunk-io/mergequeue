@@ -2756,6 +2756,7 @@ cursitor
 cannulating
 cannulation
 canoe
+chinafish
 canoeist
 canoeists
 canoeload
@@ -10763,7 +10764,6 @@ complementarism
 chinaberry
 chinaberries
 chinafy
-chinafish
 chinalike
 chinaman
 chinamania
