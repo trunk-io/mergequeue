@@ -3000,7 +3000,6 @@ bartends
 baggywrinkle
 barter
 barterers
-bartering
 barters
 blood
 barth
@@ -11259,6 +11258,7 @@ biforin
 bedragglement
 bloomless
 bloomsbury
+bartering
 bloop
 blooped
 byways
