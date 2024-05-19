@@ -8425,6 +8425,7 @@ alite
 aliter
 alytes
 ality
+ansi
 alitrunk
 azan
 aliturgic
@@ -13971,7 +13972,6 @@ ashen
 argalis
 anserines
 anserous
-ansi
 anspessade
 anstoss
 anstosse
