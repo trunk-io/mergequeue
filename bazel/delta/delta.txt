@@ -5119,6 +5119,7 @@ diablerie
 denature
 denatured
 denaturing
+duplicand
 diminishingturns
 denaturise
 denaturised
@@ -18410,7 +18411,6 @@ duplexer
 duplexers
 duplexing
 duplicability
-duplicand
 denudates
 duplicates
 duplication
