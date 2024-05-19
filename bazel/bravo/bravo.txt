@@ -14428,6 +14428,7 @@ bathyspheres
 brakeless
 brakeload
 brakemaker
+buffone
 brakemaking
 brakeman
 brakemen
@@ -16850,7 +16851,6 @@ betas
 balkline
 buffing
 bufflehead
-buffone
 buffont
 buffoon
 buffooneries
