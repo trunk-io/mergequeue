@@ -4163,7 +4163,6 @@ bagge
 beans
 beansetter
 beanshooter
-beanstalk
 beanstalks
 begrain
 beanweed
@@ -4212,6 +4211,7 @@ bearhound
 broozled
 bearess
 bearfoots
+beanstalk
 burez
 bearherd
 bearhug
