@@ -1208,7 +1208,6 @@ daystars
 datebook
 datedly
 degermed
-daybeds
 deruralize
 disemplane
 disobligation
@@ -12460,6 +12459,7 @@ disilicate
 defy
 disilicide
 deboise
+daybeds
 disyllabic
 disyllabized
 destains
