@@ -16804,7 +16804,6 @@ avie
 aph
 antilogical
 abjuration
-asserters
 aphacia
 aphacial
 alcaides
@@ -22726,6 +22725,7 @@ atma
 atman
 acetphenetid
 acotyledon
+asserters
 atmas
 atmiatry
 atmid
