@@ -1463,7 +1463,6 @@ effund
 empathic
 effused
 enthalpy
-espiegle
 endosmometer
 effusive
 effusively
@@ -7270,6 +7269,7 @@ eorhyolite
 eos
 eosate
 epilogation
+espiegle
 endurableness
 eoside
 eosine
