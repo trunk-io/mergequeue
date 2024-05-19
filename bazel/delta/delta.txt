@@ -8928,7 +8928,6 @@ dichloramine
 dichloride
 dichloroacetic
 dichlorobenzene
-dichlorodifluoromethane
 domiciling
 discitis
 dichlorodiphenyltrichloroethane
@@ -9882,6 +9881,7 @@ dimerizing
 dimers
 dimes
 dimetallic
+dichlorodifluoromethane
 dimeter
 dimethyl
 dimethylamine
