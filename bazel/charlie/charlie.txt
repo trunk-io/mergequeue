@@ -9226,6 +9226,7 @@ coalface
 chartularies
 chartulas
 charwoman
+commandeer
 cowards
 charwomen
 chasable
@@ -19924,7 +19925,6 @@ commanded
 commandedness
 courtesying
 classicised
-commandeer
 centenarians
 corbeling
 commandeers
