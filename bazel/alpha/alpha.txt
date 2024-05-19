@@ -9019,7 +9019,6 @@ allotments
 allotransplantation
 arterin
 adversaries
-allotriognathi
 allotriomorphic
 allotriophagy
 allotriophagia
@@ -15393,6 +15392,7 @@ antihypnotic
 antihypnotically
 antihypochondriac
 anticoincidence
+allotriognathi
 antihypophora
 acetopiperone
 antihistaminic
