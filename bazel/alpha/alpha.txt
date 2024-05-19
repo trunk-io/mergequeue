@@ -660,7 +660,6 @@ abominator
 affably
 abominators
 abomine
-adjacent
 anodynous
 abondance
 aimara
@@ -6997,6 +6996,7 @@ airworthiness
 ays
 antiquity
 aiseweed
+adjacent
 antipneumococcic
 antiatheism
 aisle
