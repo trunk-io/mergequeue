@@ -2214,6 +2214,7 @@ gubernacula
 gurish
 genocides
 gnathites
+goa
 gearcase
 gearcases
 guernseys
@@ -6255,7 +6256,6 @@ gnow
 gns
 gatefolds
 go
-goa
 grammar
 germiparity
 grammaticize
