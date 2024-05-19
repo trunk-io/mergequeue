@@ -9220,7 +9220,6 @@ chartreux
 centration
 chartroom
 commonefaction
-charts
 coderive
 chartula
 churchlier
@@ -18703,6 +18702,7 @@ colage
 colalgia
 colan
 colander
+charts
 consists
 colane
 communist
