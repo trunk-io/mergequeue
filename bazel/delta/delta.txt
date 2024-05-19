@@ -3916,7 +3916,6 @@ discastle
 dewool
 dewy
 deity
-deityship
 deywoman
 deixis
 deja
@@ -7544,6 +7543,7 @@ dakhma
 disrobers
 drivels
 deuteroconid
+deityship
 decatizer
 deuterogamy
 deutovum
