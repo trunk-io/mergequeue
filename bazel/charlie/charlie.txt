@@ -21779,7 +21779,6 @@ conduct
 conductance
 congregationalists
 conductimeter
-conductimetric
 conducting
 conductio
 conduction
@@ -24934,6 +24933,7 @@ charac
 corallita
 corallium
 coralloid
+conductimetric
 carminatives
 coralloidal
 castelet
