@@ -868,6 +868,7 @@ baggagemaster
 baggager
 benzidin
 baggala
+boation
 bagganet
 baggara
 brevis
@@ -11676,7 +11677,6 @@ boatings
 bavarian
 beatus
 bistipuled
-boation
 bombyciform
 boatkeeper
 bittacle
