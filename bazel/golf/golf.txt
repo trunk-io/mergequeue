@@ -1330,7 +1330,6 @@ guib
 garblings
 garboard
 gesticulator
-ged
 garboards
 garbologist
 gimlety
@@ -5595,6 +5594,7 @@ glycosyls
 galvanocauterization
 globalists
 glucinum
+ged
 guidances
 globality
 grillwork
