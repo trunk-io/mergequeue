@@ -1643,7 +1643,6 @@ ehretiaceae
 ehrman
 ehtanethial
 entrez
-exsomatic
 enterobacterium
 eyah
 extraterrene
@@ -13461,6 +13460,7 @@ exquisitively
 exradius
 eyeservice
 exrupeal
+exsomatic
 embaying
 exrx
 evenforth
