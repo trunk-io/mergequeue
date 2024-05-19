@@ -9146,7 +9146,6 @@ bioherms
 bronzen
 bioinstrument
 biokinetics
-biol
 biolinguistics
 biolyses
 beneficium
@@ -12804,6 +12803,7 @@ bloody
 bookward
 blandness
 bookwards
+biol
 byronite
 bookworm
 bookwright
