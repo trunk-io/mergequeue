@@ -317,7 +317,6 @@ disseizes
 dollfaced
 daybill
 dayblush
-daybooks
 daybreak
 daibutsu
 desand
@@ -3848,6 +3847,7 @@ disaugment
 deificatory
 diestrum
 deifiers
+daybooks
 deifying
 doglegged
 diabolisation
