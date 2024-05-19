@@ -341,6 +341,7 @@ adenopathy
 abets
 abettal
 abetted
+atomical
 abetters
 abetting
 abettor
@@ -22777,7 +22778,6 @@ atomechanics
 atomerg
 aquo
 atomic
-atomical
 atomically
 atomician
 assimilative
