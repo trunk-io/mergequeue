@@ -4762,7 +4762,6 @@ encolpia
 encolpion
 encolure
 equilibrator
-encomy
 electromer
 enduro
 epidosite
@@ -11739,6 +11738,7 @@ exaltment
 expunge
 elvers
 exalts
+encomy
 enclasped
 examen
 elementals
