@@ -6104,7 +6104,6 @@ frondeur
 foregoes
 forgift
 flotative
-frangula
 fustin
 forjesket
 fishmeal
@@ -8335,6 +8334,7 @@ forksful
 forksmith
 ferromagneticism
 faceup
+frangula
 forestudy
 fattish
 fantail
