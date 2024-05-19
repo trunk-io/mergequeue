@@ -3933,7 +3933,6 @@ emory
 eupomatiaceae
 engl
 excessman
-emoting
 emotion
 emotionable
 empyreans
@@ -11860,6 +11859,7 @@ excambion
 excandescence
 ernesse
 excandescency
+emoting
 excandescent
 ellachick
 erythrochroic
