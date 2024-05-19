@@ -8212,6 +8212,7 @@ biconcave
 breezelike
 bidder
 biconic
+bergomask
 biconical
 biconically
 baalish
@@ -10439,7 +10440,6 @@ beneath
 blanca
 baltimorite
 blancard
-bergomask
 blanch
 blarneying
 balant

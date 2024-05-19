@@ -4965,7 +4965,6 @@ cartographic
 cartographical
 confessionist
 cartographically
-cartomancy
 cartomancies
 carton
 cartoner
@@ -25466,6 +25465,7 @@ connaisseur
 cornstook
 cornu
 closefisted
+cartomancy
 cornua
 cornual
 cornuate
