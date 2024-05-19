@@ -1124,6 +1124,7 @@ editing
 epacts
 earthshakingly
 elhi
+electrodynamics
 eikons
 elephantine
 esthetics
@@ -2381,7 +2382,6 @@ ethanim
 ecospecies
 electrodynamic
 excoriates
-electrodynamics
 electrodiplomatic
 eumenidean
 electroed
