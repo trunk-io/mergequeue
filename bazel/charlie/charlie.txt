@@ -23755,7 +23755,6 @@ contrapone
 contraposaune
 contrapose
 contraposed
-chalcograph
 contraposit
 contraposita
 cataplexy
@@ -25053,6 +25052,7 @@ cordlike
 cordoba
 cordoban
 cordobas
+chalcograph
 cordon
 cordonazos
 cordoned
