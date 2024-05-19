@@ -3444,7 +3444,6 @@ fifteenfold
 fifteens
 frauds
 fifteenths
-faineant
 fifty
 fifties
 fumiduct
@@ -6781,6 +6780,7 @@ foresworn
 foiter
 fokker
 fissate
+faineant
 fol
 folacin
 falderols

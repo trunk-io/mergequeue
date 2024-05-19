@@ -8970,7 +8970,6 @@ binny
 binnite
 binnogue
 binocle
-binocs
 binocular
 binocularly
 binoculars
@@ -12092,6 +12091,7 @@ boii
 brunion
 boiko
 busheller
+binocs
 boyla
 boilable
 boylas
