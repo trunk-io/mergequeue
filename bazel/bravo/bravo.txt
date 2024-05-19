@@ -8200,7 +8200,6 @@ biclinium
 bicolored
 barret
 bleakish
-bicolorous
 bicolors
 bicoloured
 benchwork
@@ -12238,6 +12237,7 @@ bolo
 byblis
 banque
 beld
+bicolorous
 bolognan
 bolognas
 bolognese
