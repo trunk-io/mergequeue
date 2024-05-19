@@ -5989,7 +5989,6 @@ burhead
 bells
 belltail
 baresarks
-biomicroscopy
 balloons
 belluine
 babylonish
@@ -10632,6 +10631,7 @@ blathered
 blatherer
 blathery
 blathers
+biomicroscopy
 betassel
 bivinyls
 blatherskite
