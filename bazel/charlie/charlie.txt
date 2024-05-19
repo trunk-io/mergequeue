@@ -7449,7 +7449,6 @@ cephalopharyngeal
 cephalophyma
 cephalophine
 cephalophus
-cephaloplegia
 cervisia
 cryoprobe
 cephaloplegic
@@ -17566,6 +17565,7 @@ conjury
 coccidology
 coccids
 cocciferous
+cephaloplegia
 cocciform
 coccygalgia
 coccygeal
