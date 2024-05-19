@@ -2733,6 +2733,7 @@ chittered
 cannoneer
 cannoneering
 cannoneers
+cellularity
 clownish
 cannonier
 cannoning
@@ -8965,7 +8966,6 @@ carabao
 charactering
 cobwebbier
 characterisable
-cellularity
 claviol
 complimenters
 characterise
