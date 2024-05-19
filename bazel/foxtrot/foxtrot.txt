@@ -2077,7 +2077,6 @@ felanders
 felapton
 feldspar
 farewelling
-funebrial
 forclose
 feldspath
 forerigging
@@ -7148,6 +7147,7 @@ flaughtbred
 footer
 footers
 filippo
+funebrial
 fatherlandish
 femicide
 footfall
