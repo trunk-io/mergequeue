@@ -5644,7 +5644,6 @@ dependance
 dependant
 depended
 diapasons
-dependence
 dependency
 depending
 dependingly
@@ -7739,6 +7738,7 @@ darwinism
 devilfish
 devilfishes
 decelerators
+dependence
 devily
 detail
 deviling
