@@ -2258,7 +2258,6 @@ gederathite
 goaves
 gavelman
 gyroma
-gyrectomy
 gee
 grundel
 galas
@@ -5543,6 +5542,7 @@ games
 guessing
 glyptological
 grotesques
+gyrectomy
 glamor
 gentlest
 gilenyer

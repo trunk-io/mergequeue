@@ -2839,6 +2839,7 @@ assassinator
 acrocephaly
 acrocephalia
 acrocephalic
+autotelic
 acrocephalous
 acroceraunian
 aw
@@ -24425,7 +24426,6 @@ autosuggestive
 adversarious
 autosuppression
 autotelegraph
-autotelic
 autotelism
 autotetraploid
 autotetraploidy
