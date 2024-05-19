@@ -662,7 +662,6 @@ caestuses
 caesura
 caesurae
 caesural
-caesuric
 caf
 cafard
 cafardise
@@ -20240,6 +20239,7 @@ commonplace
 camias
 crucifixion
 commonplacely
+caesuric
 commonplaceness
 commonplacer
 corrodingly
