@@ -1732,7 +1732,6 @@ eyelids
 engining
 eyeliner
 eatage
-eyeliners
 endoneurial
 epilogue
 eyen
@@ -8644,6 +8643,7 @@ equippers
 embouchures
 eyeshots
 equielliptical
+eyeliners
 equiexcellency
 equigranular
 equilater
