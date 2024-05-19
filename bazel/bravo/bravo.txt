@@ -1062,6 +1062,7 @@ bailieries
 bailieship
 bailiff
 bailiffry
+blipping
 bailiffs
 ballow
 bailing
@@ -11160,7 +11161,6 @@ baccare
 ballistically
 blokes
 bannerwise
-blipping
 berengena
 breards
 blomstrandine
