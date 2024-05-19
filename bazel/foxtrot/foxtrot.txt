@@ -1588,6 +1588,7 @@ foreschooling
 faviform
 farcelike
 favilla
+flighthead
 favillous
 farcetta
 femininity
@@ -10955,7 +10956,6 @@ fulltime
 frescoes
 fulmar
 fulminant
-flighthead
 frosts
 flame
 fripper
