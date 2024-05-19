@@ -57,6 +57,7 @@ fumaria
 facaded
 faceable
 facebar
+frampold
 facebow
 faced
 faceharden
@@ -7328,7 +7329,6 @@ foralite
 foram
 foramen
 fearnaught
-frampold
 flamfew
 forswearer
 fair
