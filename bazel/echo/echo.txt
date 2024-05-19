@@ -3488,7 +3488,6 @@ embarras
 emboites
 emboldener
 equilibrize
-emboldens
 embole
 embolectomy
 enicuridae
@@ -4291,6 +4290,7 @@ en
 expertising
 enablement
 exothermic
+emboldens
 entangle
 epiglottides
 echiniform
