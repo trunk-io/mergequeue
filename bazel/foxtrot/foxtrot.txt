@@ -4148,7 +4148,6 @@ fanos
 fortifyingly
 frogmouth
 firebrick
-firebug
 firebugs
 fanhouse
 flagstones
@@ -9313,6 +9312,7 @@ fraises
 fumers
 fretwise
 fascinery
+firebug
 formalazine
 fikie
 frontispieced
