@@ -3372,7 +3372,6 @@ bertha
 basoid
 baraithas
 basoko
-beltine
 basommatophora
 bason
 basongo
@@ -10766,6 +10765,7 @@ bled
 blee
 bleed
 beets
+beltine
 bleeders
 biferous
 bleekbok
