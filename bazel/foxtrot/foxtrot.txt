@@ -8062,6 +8062,7 @@ furnitures
 fondness
 flecnode
 fibula
+fard
 forests
 fcy
 focalizing
@@ -8505,7 +8506,6 @@ forthcall
 formoxime
 forms
 formulae
-fard
 fulgid
 foggy
 frizzling
