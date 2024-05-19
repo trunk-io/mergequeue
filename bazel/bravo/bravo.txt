@@ -2090,6 +2090,7 @@ banksides
 barebone
 banksmen
 bucketed
+bopster
 bibliophage
 banlieu
 botel
@@ -13547,7 +13548,6 @@ bouffon
 bougainvillaeas
 bremeness
 bougainvillia
-bopster
 bougainvilliidae
 bite
 bougar
