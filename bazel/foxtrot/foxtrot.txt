@@ -1953,6 +1953,7 @@ fibrinocellular
 francas
 fosterlings
 flowerlike
+footlessness
 fracture
 feeble
 feeblebrained
@@ -5731,7 +5732,6 @@ furcae
 fundamentalism
 frisk
 flyswat
-footlessness
 flyswatter
 flamens
 ferrocalcite

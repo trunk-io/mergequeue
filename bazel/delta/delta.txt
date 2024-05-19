@@ -1912,7 +1912,6 @@ dithecous
 debrief
 debriefing
 dowser
-debriefings
 debris
 debrominate
 debromination
@@ -2954,6 +2953,7 @@ decwriter
 deltoid
 durn
 dashel
+debriefings
 dedanite
 demigoddessship
 dedd
