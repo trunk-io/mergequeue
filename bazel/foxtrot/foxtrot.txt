@@ -73,6 +73,7 @@ fordeal
 fullfaces
 facemark
 feuter
+fellahs
 fermentations
 facepiece
 fisticuffs
@@ -2131,7 +2132,6 @@ fanned
 fellah
 falcate
 fessely
-fellahs
 fellas
 fellata
 foreyard
