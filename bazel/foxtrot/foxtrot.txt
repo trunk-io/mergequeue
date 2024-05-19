@@ -7046,7 +7046,6 @@ fontanelle
 fraenums
 fluorines
 fires
-fonted
 fontful
 fonticulus
 flywheels
@@ -8829,6 +8828,7 @@ fiants
 fluigramme
 flysch
 frondigerous
+fonted
 fossiform
 fastwalk
 fossil
