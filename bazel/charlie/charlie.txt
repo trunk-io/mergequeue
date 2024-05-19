@@ -5162,7 +5162,6 @@ casette
 caseum
 caseweed
 caseworker
-caseworkers
 caseworks
 caseworm
 caseworms
@@ -31665,6 +31664,7 @@ cushitic
 cusie
 cusinero
 consent
+caseworkers
 cusk
 cusks
 cusp
