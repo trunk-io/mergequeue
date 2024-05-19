@@ -4937,7 +4937,6 @@ fidac
 feebleheartedly
 flammulation
 flammule
-flams
 flanch
 flanche
 fulvidness
@@ -9235,6 +9234,7 @@ fructicultural
 foreorder
 falseheartedness
 filenames
+flams
 fixive
 fanaloka
 fraggings
