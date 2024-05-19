@@ -1831,7 +1831,6 @@ eighties
 eightieth
 enleaf
 electropotential
-eightling
 eightpenny
 euler
 eights
@@ -13992,6 +13991,7 @@ eshin
 extrasolar
 enripen
 extrasomatic
+eightling
 extraspectral
 extraspinal
 electromotive
