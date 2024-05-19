@@ -436,7 +436,6 @@ daysmen
 dayspring
 dispersedye
 dilapidator
-disthrall
 daystreak
 daytide
 daytimes
@@ -13971,6 +13970,7 @@ diphosphide
 distracter
 distractible
 dedicator
+disthrall
 deaurate
 distraction
 distractions
