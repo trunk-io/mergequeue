@@ -935,6 +935,7 @@ ectropium
 etui
 enantiotropic
 ectropometer
+easing
 eviction
 ectrosyndactyly
 ectrotic
@@ -6985,7 +6986,6 @@ etherializing
 echinodermata
 entrapment
 embouchure
-easing
 eying
 ethnogeographical
 emblematizing
