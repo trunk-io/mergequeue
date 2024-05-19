@@ -40,7 +40,6 @@ flintless
 flick
 fabricators
 fabricature
-filters
 futurities
 fuddledness
 fabronia
@@ -8820,6 +8819,7 @@ flon
 fossicked
 fossicker
 fiants
+filters
 fluigramme
 flysch
 frondigerous
