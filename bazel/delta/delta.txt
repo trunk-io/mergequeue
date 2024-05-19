@@ -15828,7 +15828,6 @@ draft
 dankly
 dorsomedial
 dorsomedian
-dorsonasal
 diastaltic
 dorsonuchal
 dorsopleural
@@ -15997,6 +15996,7 @@ dottrel
 dehumanize
 dottrels
 douane
+dorsonasal
 doub
 decrepitude
 double
