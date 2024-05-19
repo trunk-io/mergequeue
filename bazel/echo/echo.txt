@@ -7402,7 +7402,6 @@ etruria
 epepophysis
 epergne
 etalon
-eperlan
 echevin
 eperotesis
 encheat
@@ -9066,6 +9065,7 @@ ethnography
 exulted
 erysimum
 ethanethial
+eperlan
 erysipelas
 escalops
 erysipelatoid
