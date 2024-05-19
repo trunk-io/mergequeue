@@ -5126,7 +5126,6 @@ denaturizer
 denaturizing
 dendraspis
 dendraxon
-decolorizer
 delightsome
 dendriform
 dialer
@@ -13813,6 +13812,7 @@ distannic
 domesticize
 distant
 distantly
+decolorizer
 distantness
 distaste
 diacetyls
