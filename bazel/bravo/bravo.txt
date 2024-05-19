@@ -504,6 +504,7 @@ boshboks
 backstick
 backstitch
 backstitched
+bifilar
 biserial
 billhead
 biscot
@@ -8373,7 +8374,6 @@ biffies
 biffin
 brutalizing
 bifidity
-bifilar
 bifilarly
 biflabellate
 biflagelate
