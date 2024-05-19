@@ -18697,7 +18697,6 @@ antiroyal
 aperch
 arcane
 aromatization
-arcanite
 anvilled
 arcato
 arcature
@@ -21446,6 +21445,7 @@ aseptify
 antihemoglobin
 aspergillums
 aspergillus
+arcanite
 asperifoliae
 asperifoliate
 asperite
