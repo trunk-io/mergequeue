@@ -4568,6 +4568,7 @@ enchanting
 enchantments
 englante
 expel
+enjamb
 enchantress
 enchants
 encharging
@@ -5990,7 +5991,6 @@ emydinae
 enlargements
 engulfed
 exposer
-enjamb
 euthyneurous
 exculpate
 enlarging
