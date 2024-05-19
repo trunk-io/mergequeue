@@ -17367,6 +17367,7 @@ coatrack
 coatroom
 coatrooms
 coats
+crs
 cheloid
 coattend
 cajeta
@@ -30099,7 +30100,6 @@ crozes
 crozing
 crozle
 crpe
-crs
 crts
 coccinella
 cru
