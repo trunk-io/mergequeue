@@ -6464,7 +6464,6 @@ caveman
 cavemen
 cavern
 cavernal
-caverned
 cavernlike
 cavernoma
 cavernous
@@ -31463,6 +31462,7 @@ currycombs
 cogitators
 curricula
 curricularize
+caverned
 cardiomyoliposis
 currie
 curried
