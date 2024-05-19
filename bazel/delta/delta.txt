@@ -1343,6 +1343,7 @@ dauphines
 drapable
 daur
 duikerbuck
+deathworm
 dinned
 dauri
 daurna
@@ -1750,7 +1751,6 @@ deathward
 dikaryon
 deathwatches
 docent
-deathworm
 disomic
 deaved
 decadently
