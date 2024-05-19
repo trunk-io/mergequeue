@@ -2923,7 +2923,6 @@ brattle
 barrelmaker
 barrelmaking
 barrelwise
-barren
 barrenly
 barrenness
 blockaderunning
@@ -14085,6 +14084,7 @@ brachiosaur
 brachiosaurus
 brachyphyllum
 brachypinacoid
+barren
 bespeech
 brachypinacoidal
 bargainers
