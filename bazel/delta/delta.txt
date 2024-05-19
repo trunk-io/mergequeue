@@ -12517,7 +12517,6 @@ disowning
 disinfecting
 daven
 disinfection
-disinfections
 dochter
 disinfects
 disinfest
@@ -16698,6 +16697,7 @@ debouchure
 draisine
 detach
 darnel
+disinfections
 diablo
 drake
 drakelet
