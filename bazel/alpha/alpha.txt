@@ -3479,7 +3479,6 @@ adc
 adcon
 assafetida
 afforded
-adcons
 autopticity
 anchorer
 admires
@@ -10036,6 +10035,7 @@ articulable
 acquaints
 ambisinister
 ambisinistrous
+adcons
 ambystoma
 ambystomidae
 ambit
