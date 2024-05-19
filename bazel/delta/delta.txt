@@ -1941,7 +1941,6 @@ disedify
 disyllabism
 deburr
 drunks
-divulgatory
 debus
 debused
 debusing
@@ -5693,6 +5692,7 @@ dephysicalize
 decadents
 dephlegmation
 dastards
+divulgatory
 dephlegmatize
 dephlegmatory
 dephlegmedness

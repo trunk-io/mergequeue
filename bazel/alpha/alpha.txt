@@ -12718,7 +12718,6 @@ affaires
 akhmimic
 allotropes
 angels
-agnamed
 angelship
 angeluses
 aponia
@@ -23940,6 +23939,7 @@ anatherum
 autocatalyses
 autocatalysis
 autocatalyze
+agnamed
 autocatharsis
 afterbody
 autocatheterism
