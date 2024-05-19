@@ -1237,6 +1237,7 @@ eeyuch
 epit
 equiv
 einkanter
+eigenvectors
 eel
 eelboat
 epigrammatise
@@ -1804,7 +1805,6 @@ englishing
 eigenvalue
 ergatogyny
 eigenvalues
-eigenvectors
 eyght
 enigmatic
 evaginated
