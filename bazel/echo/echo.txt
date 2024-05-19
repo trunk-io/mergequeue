@@ -1941,7 +1941,6 @@ electrics
 equals
 extirpation
 eppy
-ensorcels
 eyeflap
 ejido
 ejoo
@@ -4164,6 +4163,7 @@ empoisoned
 encaustes
 evocators
 etherol
+ensorcels
 empoisonment
 elaborator
 enchronicle
