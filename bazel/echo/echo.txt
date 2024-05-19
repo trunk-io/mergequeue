@@ -1274,7 +1274,6 @@ emigrations
 encircler
 eerisome
 elaeoblast
-ergoplasm
 enduros
 epyllia
 eesome
@@ -6053,6 +6052,7 @@ entheos
 ephorus
 enchanter
 enmarble
+ergoplasm
 eulogically
 enmarbling
 estrildine

@@ -20493,6 +20493,7 @@ compartmentation
 crenelling
 compartmented
 compartmentize
+composition
 compartments
 critchfield
 codding
@@ -29306,7 +29307,6 @@ cryptogrammatical
 concelebrated
 cryptogrammic
 craggedly
-composition
 cryptograph
 cryptographal
 cryptoheresy
