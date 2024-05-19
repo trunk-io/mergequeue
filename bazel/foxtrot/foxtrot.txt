@@ -8284,6 +8284,7 @@ facelift
 foryield
 furnished
 forints
+favositoid
 facade
 forisfamiliate
 forisfamiliation
@@ -8988,7 +8989,6 @@ fourche
 fourcher
 filea
 foveola
-favositoid
 forewoman
 fourier
 fourierism
