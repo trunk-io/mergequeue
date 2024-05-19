@@ -8778,7 +8778,6 @@ gentianaceous
 greyback
 globate
 gaffle
-gm
 greybeard
 grouseless
 greenfinch
@@ -9333,6 +9332,7 @@ gypsies
 got
 grosgrains
 gramineous
+gm
 gripped
 gunpowderous
 gross
