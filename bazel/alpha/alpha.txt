@@ -9446,6 +9446,7 @@ alswith
 alt
 altaian
 altaid
+ampere
 adjustors
 aitesis
 amasty
@@ -11044,7 +11045,6 @@ ampelotherapy
 avidins
 amper
 amperages
-ampere
 amatory
 ampery
 assientist
