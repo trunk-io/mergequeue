@@ -1727,7 +1727,6 @@ baloskionaceae
 bulbels
 balow
 blending
-bals
 bonito
 balsa
 becrimes
@@ -10805,6 +10804,7 @@ backflap
 bestill
 blende
 blazed
+bals
 billetty
 beslur
 blended
