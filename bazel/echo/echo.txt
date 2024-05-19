@@ -4029,7 +4029,6 @@ enrollees
 embarked
 emphatical
 endometritis
-emphysema
 emetic
 emphyteusis
 endobronchitis
@@ -12172,6 +12171,7 @@ ennomic
 excubitoria
 entwisting
 excubitorium
+emphysema
 eulogia
 excud
 excudate
