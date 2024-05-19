@@ -4826,6 +4826,7 @@ fungal
 flailing
 folksinging
 fisheries
+frisbee
 followable
 flails
 flain
@@ -10159,7 +10160,6 @@ fris
 fringy
 frisado
 fleshling
-frisbee
 frisca
 flabbiest
 friscal
