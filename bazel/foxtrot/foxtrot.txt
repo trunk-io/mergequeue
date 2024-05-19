@@ -4083,7 +4083,6 @@ frostation
 fimble
 featherbrain
 fattable
-finecomb
 fellatrixes
 fletching
 finnochio
@@ -7929,6 +7928,7 @@ foreseer
 foresees
 foreseize
 fosteringly
+finecomb
 fiberglass
 faience
 fornicatory
