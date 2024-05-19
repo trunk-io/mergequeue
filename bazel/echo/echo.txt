@@ -3884,6 +3884,7 @@ enalid
 epiglottis
 ekoi
 eudialyte
+equiatomic
 epitheliliums
 emissive
 emissivity
@@ -7629,7 +7630,6 @@ ephapse
 epicondylic
 equichangeable
 enviousness
-equiatomic
 elixirs
 enhungered
 ew
