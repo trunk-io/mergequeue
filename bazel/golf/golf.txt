@@ -3825,7 +3825,6 @@ gibbled
 gibblegabble
 gumpheon
 glochidia
-gibblegabbler
 grungier
 gibbons
 gibbosely
@@ -7475,6 +7474,7 @@ gombay
 garron
 gonadotrope
 gatling
+gibblegabbler
 gymnast
 governless
 governmental
