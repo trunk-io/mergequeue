@@ -6360,7 +6360,6 @@ benighted
 bandalore
 besiren
 benighter
-benightment
 benign
 barked
 benignant
@@ -8550,6 +8549,7 @@ bihari
 bihourly
 bija
 bijasal
+benightment
 bijections
 bree
 bijective
