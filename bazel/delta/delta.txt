@@ -13777,6 +13777,7 @@ disspirit
 disspread
 disstate
 dissuade
+dweller
 dissuaded
 delayed
 dispersion
@@ -18669,7 +18670,6 @@ dwarfs
 dwarves
 dwell
 dwelled
-dweller
 dwelling
 dwellings
 dwelt
