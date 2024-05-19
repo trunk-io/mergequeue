@@ -1908,7 +1908,6 @@ flattery
 federalised
 federalising
 federalism
-frenchize
 fishlet
 forebrain
 frithborh
@@ -9678,6 +9677,7 @@ forte
 freeheartedly
 forlet
 fallenness
+frenchize
 freeholders
 freeholdership
 fortifications
