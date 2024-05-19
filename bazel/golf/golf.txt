@@ -4273,7 +4273,6 @@ ges
 gymnostomata
 ganef
 grotesquery
-gripless
 gymnotus
 geniolatry
 guilloche
@@ -10614,6 +10613,7 @@ gyascutus
 gasterotheca
 gyrostachys
 glens
+gripless
 giganticness
 guntub
 grithman
