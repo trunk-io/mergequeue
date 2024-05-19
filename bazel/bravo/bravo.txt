@@ -3757,7 +3757,6 @@ beknown
 balladising
 batteners
 battens
-batter
 batterdock
 battered
 binational
@@ -4919,6 +4918,7 @@ billian
 beltwise
 baffing
 bronchostenosis
+batter
 biogeographic
 blushes
 beduncing
