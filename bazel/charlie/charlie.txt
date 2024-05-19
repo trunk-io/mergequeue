@@ -3986,7 +3986,6 @@ carcinolytic
 carcinological
 carcinologist
 carcinoma
-carcinomas
 creameryman
 carcinomata
 corroborees
@@ -31301,6 +31300,7 @@ cured
 convocationally
 cureless
 curelessly
+carcinomas
 corypha
 curelessness
 curer
