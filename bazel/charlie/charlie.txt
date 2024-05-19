@@ -17621,7 +17621,6 @@ coccosteus
 coccothraustes
 coccothraustine
 coccothrinax
-coccule
 cocculiferous
 conglobation
 cost
@@ -27089,6 +27088,7 @@ counterreaction
 counterreckoning
 counterrefer
 congoni
+coccule
 counterreflected
 counterreform
 counterreformation
