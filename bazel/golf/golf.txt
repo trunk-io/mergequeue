@@ -2904,7 +2904,6 @@ gentlemanize
 gingelies
 gentlemanly
 gentlemanlikeness
-gentlemanliness
 gentlemanship
 gayer
 gentlemen
@@ -10048,6 +10047,7 @@ gadflies
 guereza
 gueridons
 guerilla
+gentlemanliness
 gasking
 guarapucu
 guerillaism
