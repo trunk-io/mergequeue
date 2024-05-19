@@ -1136,7 +1136,6 @@ gangues
 ghostliness
 glares
 gangwa
-grenadilla
 galleys
 gulley
 gamed
@@ -2529,6 +2528,7 @@ gemmological
 gemmologist
 gentlemanism
 gulper
+grenadilla
 gadders
 granitification
 gemmologists
