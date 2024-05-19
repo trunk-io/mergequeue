@@ -3570,7 +3570,6 @@ bather
 bathes
 bathetically
 bathflower
-bathhouse
 bathhouses
 braggest
 becudgel
@@ -16709,6 +16708,7 @@ buckras
 bucks
 bucksaw
 buckshee
+bathhouse
 buckshees
 buckshot
 bourgeoise
