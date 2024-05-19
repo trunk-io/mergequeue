@@ -6839,7 +6839,6 @@ cellobiose
 cubit
 celloid
 colubrids
-cathodofluorescence
 celloidin
 cellophane
 constative
@@ -10702,6 +10701,7 @@ chime
 chimer
 chimeral
 chimeras
+cathodofluorescence
 chanteys
 chimere
 chimeric

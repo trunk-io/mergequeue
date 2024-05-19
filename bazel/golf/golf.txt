@@ -2587,7 +2587,6 @@ guildite
 gossaniferous
 geranomorphic
 gendarmery
-geobotanical
 gendarmerie
 gnawings
 guided
@@ -4036,6 +4035,7 @@ ganocephala
 guachamaca
 goldurn
 ginnle
+geobotanical
 grades
 gravidate
 gloves
