@@ -901,6 +901,7 @@ bagirmi
 bagle
 babishness
 beadlery
+biconsonantal
 baglike
 bagmaker
 bagmaking
@@ -8216,7 +8217,6 @@ biconical
 biconically
 baalish
 biconnected
-biconsonantal
 biconvex
 biconvexity
 bicorn
