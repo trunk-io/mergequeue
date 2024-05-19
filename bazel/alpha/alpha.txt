@@ -15537,7 +15537,6 @@ antimellin
 associatory
 antimensia
 anapestic
-antimension
 antimensium
 archisperm
 antimere
@@ -17822,6 +17821,7 @@ applanation
 applaud
 applaudable
 araneiformes
+antimension
 applaudably
 assemblement
 ambagious
