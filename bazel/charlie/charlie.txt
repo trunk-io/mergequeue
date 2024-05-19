@@ -8787,6 +8787,7 @@ chant
 chera
 chantecler
 chantey
+chicles
 chanteyman
 chantepleure
 chanterelle
@@ -30701,7 +30702,6 @@ chaps
 cuisine
 compressor
 coaxingly
-chicles
 cosmetological
 cuisines
 cuisinier
