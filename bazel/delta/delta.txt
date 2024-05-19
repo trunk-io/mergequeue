@@ -3682,7 +3682,6 @@ dropforging
 deglutination
 deglutition
 deglutitious
-degold
 decathlon
 decomposite
 debacles
@@ -9661,6 +9660,7 @@ dijudicated
 defiliation
 dicerion
 demicircle
+degold
 daboia
 dijudication
 dika
