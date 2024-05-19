@@ -7305,6 +7305,7 @@ dowage
 disseized
 diffusivity
 disturbor
+diphenylacetylene
 desiccative
 determinably
 determinacy
@@ -10424,7 +10425,6 @@ dibase
 diphenan
 diphenhydramine
 diacidic
-diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
