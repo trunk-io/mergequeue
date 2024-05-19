@@ -5515,7 +5515,6 @@ gus
 gue
 germanly
 glyphographic
-glyphs
 galore
 gharris
 greenness
@@ -6505,6 +6504,7 @@ glutaeous
 giddiest
 glaury
 grindal
+glyphs
 golaseccan
 glassman
 gallstones
