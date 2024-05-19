@@ -2348,7 +2348,6 @@ acidifier
 acidifiers
 arachnephobia
 acidifies
-acidifying
 acidimetry
 acidimetric
 acidimetrically
@@ -11702,6 +11701,7 @@ aldim
 anaglyptography
 anaglyptographic
 anagnorises
+acidifying
 anagnorisis
 aesculapian
 ablator
