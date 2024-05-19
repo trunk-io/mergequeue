@@ -3755,7 +3755,6 @@ ferret
 foreflipper
 filmet
 filmgoers
-filmgoing
 filmy
 filmic
 filmier
@@ -7933,6 +7932,7 @@ foreshadow
 foreshadowed
 flugelman
 featherman
+filmgoing
 fermentative
 ferahan
 foreshank
