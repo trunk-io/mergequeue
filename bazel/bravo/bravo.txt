@@ -4719,6 +4719,7 @@ bedewed
 bedewer
 bedews
 beltmaking
+briquetted
 bedfellows
 buildable
 bedford
@@ -12536,7 +12537,6 @@ bonesets
 bonesetting
 brushite
 boneshaker
-briquetted
 backbeat
 binders
 bonetail
