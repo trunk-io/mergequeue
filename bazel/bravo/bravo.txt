@@ -6827,6 +6827,7 @@ barcas
 bead
 broughtas
 bhaktis
+beggarer
 brevets
 buscarle
 branchiobdella
@@ -16244,7 +16245,6 @@ bankruptism
 bentonitic
 browser
 browses
-beggarer
 browsick
 browsing
 browst
