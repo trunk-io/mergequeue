@@ -3983,7 +3983,6 @@ carcinoid
 compartmental
 carcinolysin
 carcinolytic
-carcinological
 carcinologist
 carcinoma
 carcinomas
@@ -16123,6 +16122,7 @@ clickless
 clicks
 clidastes
 cinclidae
+carcinological
 clyde
 clydesdale
 commutations

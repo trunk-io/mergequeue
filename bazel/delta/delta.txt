@@ -2774,6 +2774,7 @@ decore
 dewcup
 decorement
 decorist
+doublewidth
 doorplate
 decorously
 durum
@@ -16038,7 +16039,6 @@ divides
 doublette
 discoid
 decursively
-doublewidth
 doubly
 dermatosis
 dinophyceae
