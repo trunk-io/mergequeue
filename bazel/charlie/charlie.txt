@@ -7642,7 +7642,6 @@ cerebellocortex
 constrain
 cerebellorubral
 cerebellospinal
-cerebellum
 cerebral
 cerebralism
 coneighboring
@@ -28902,6 +28901,7 @@ crushers
 crewing
 cutwal
 crewless
+cerebellum
 crewman
 crewmanship
 crewmen

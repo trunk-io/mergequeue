@@ -5937,7 +5937,6 @@ abrenunciation
 age
 ageable
 agallop
-agedly
 agedness
 agednesses
 agee
@@ -11963,6 +11962,7 @@ anapterygota
 anapterygote
 anapterygotism
 ariettas
+agedly
 anaptychus
 anaptyctic
 antecloset
