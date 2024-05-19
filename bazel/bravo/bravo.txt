@@ -9483,7 +9483,6 @@ birdglue
 birdhood
 buda
 birdhouse
-begall
 bromous
 birdyback
 bullety
@@ -14864,6 +14863,7 @@ breakweather
 barky
 brachets
 breakwind
+begall
 beknotting
 bream
 breamed
