@@ -12468,7 +12468,6 @@ berberins
 bondable
 bondage
 bondager
-bondages
 bless
 bondar
 bonder
@@ -14982,6 +14981,7 @@ breeds
 bacillus
 bacteriol
 babite
+bondages
 budorcas
 binapthyl
 breenge
