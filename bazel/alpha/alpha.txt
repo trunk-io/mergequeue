@@ -13830,6 +13830,7 @@ anophelinae
 acquent
 anopheline
 antireformist
+autohemolytic
 anophoria
 anophthalmos
 anophthalmus
@@ -24106,7 +24107,6 @@ apographal
 autoheader
 alnus
 axone
-autohemolytic
 autohemorrhage
 autohemotherapy
 autohexaploid
