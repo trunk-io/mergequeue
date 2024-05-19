@@ -812,7 +812,6 @@ cayos
 caique
 caiquejee
 caiques
-cairene
 cairn
 cairned
 cairngorm
@@ -2142,6 +2141,7 @@ campions
 calcaneus
 cample
 chaetopoda
+cairene
 cornamute
 campo
 campodean
