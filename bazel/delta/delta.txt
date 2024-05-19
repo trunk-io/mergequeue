@@ -3936,7 +3936,6 @@ dejectedness
 dejection
 dejectly
 devested
-dactyloid
 draftsperson
 dejects
 dejecture
@@ -5289,6 +5288,7 @@ denormalized
 denotable
 deafer
 denotative
+dactyloid
 deliriums
 denotatively
 denotativeness
