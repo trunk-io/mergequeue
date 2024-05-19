@@ -2248,6 +2248,7 @@ decciare
 decd
 deceased
 dewormed
+diaporesis
 donnish
 deceasing
 deceit
@@ -8777,7 +8778,6 @@ diatomicity
 defocusses
 diatomine
 diatomist
-diaporesis
 dysmerogenesis
 diatomous
 demythologisation
