@@ -4062,7 +4062,6 @@ grievousness
 grotzen
 gilden
 gouter
-gildhall
 gangliomata
 gorgeously
 gilding
@@ -9562,6 +9561,7 @@ glady
 growlery
 growleries
 gowds
+gildhall
 growly
 growliest
 gemses
