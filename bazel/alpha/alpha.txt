@@ -18117,7 +18117,6 @@ approximator
 appt
 appui
 aggrandise
-aeonian
 appulses
 alemonger
 attack
@@ -20872,6 +20871,7 @@ arvejon
 austrophile
 arvel
 arverni
+aeonian
 arvicole
 arvicolinae
 arvicoline
