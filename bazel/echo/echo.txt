@@ -2081,7 +2081,6 @@ ebullioscope
 equatoreal
 elastase
 excretory
-elastases
 elastica
 extrapolator
 epictetian
@@ -2697,6 +2696,7 @@ electrowinning
 epigonation
 entermete
 electrosynthetically
+elastases
 electrogilding
 electuaries
 enceint
