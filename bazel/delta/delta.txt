@@ -3675,6 +3675,7 @@ deduce
 deglutinating
 dermatoplasty
 defoliant
+directer
 dropforging
 deglutination
 deglutition
@@ -10783,7 +10784,6 @@ directed
 diastereoisomeric
 dulanganes
 dacryadenitis
-directer
 directest
 directexamination
 dacryoadenitis
