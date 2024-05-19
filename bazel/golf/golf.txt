@@ -4997,6 +4997,7 @@ gladiatorship
 gallerian
 guttersnipe
 gladiatrix
+gurnet
 gonoph
 gladier
 gladii
@@ -10652,7 +10653,6 @@ gurnards
 grippotoxin
 gurney
 gurneyite
-gurnet
 guests
 granaries
 generalissima
