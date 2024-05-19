@@ -5501,7 +5501,6 @@ catacombic
 catacombs
 counterattacks
 catacorner
-catacorolla
 catacoustics
 catacromyodian
 ceratothecal
@@ -30316,6 +30315,7 @@ crust
 crusta
 clenching
 corralling
+catacorolla
 crustaceal
 crustacean
 crustaceology
