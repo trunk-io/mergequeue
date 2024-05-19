@@ -17099,7 +17099,6 @@ coadjutement
 coemptional
 chlore
 champ
-coadjutor
 coadjutors
 carduus
 coadjutorship
@@ -27707,6 +27706,7 @@ cacomixl
 cowleeching
 cowling
 cowlings
+coadjutor
 cowlitz
 cowlstaff
 caramoussal
