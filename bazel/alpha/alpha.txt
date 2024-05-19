@@ -15719,7 +15719,6 @@ ailment
 acoustics
 antinormality
 antinormalness
-amenorrhea
 antinosarian
 antinous
 anoxaemia
@@ -21517,6 +21516,7 @@ ampulating
 actinula
 arrowroot
 asphodel
+amenorrhea
 asphodelaceae
 aspy
 aspics
