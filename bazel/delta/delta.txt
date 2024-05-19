@@ -3774,7 +3774,6 @@ didact
 dehydrogenate
 dehydrogenated
 decelerometer
-dehydrogenating
 dehydrogenisation
 duchess
 dehydrogenised
@@ -6374,6 +6373,7 @@ dryopteris
 downs
 dermoblast
 diaplasis
+dehydrogenating
 dag
 distributable
 dermobranchiata
