@@ -3580,7 +3580,6 @@ filature
 flareboard
 filatures
 fulgence
-forebowline
 francs
 filberts
 filched
@@ -7432,6 +7431,7 @@ futhark
 fasciculation
 fumerel
 fey
+forebowline
 foisted
 forceput
 fazing

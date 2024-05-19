@@ -6327,7 +6327,6 @@ dermatopathology
 dermatopathophobia
 disemboguement
 dermatophyte
-discomplexion
 dermatophytosis
 dermatophone
 dermatophony
@@ -8582,6 +8581,7 @@ diapedesis
 diapedetic
 disconfirm
 diplomatized
+discomplexion
 diapensiaceous
 diapente
 diaper
