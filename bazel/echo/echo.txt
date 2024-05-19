@@ -6469,7 +6469,6 @@ encephalola
 enswathes
 enumerations
 enswathing
-ensweep
 ensweeten
 ephelis
 ephyra
@@ -13629,6 +13628,7 @@ exteriorise
 exteriorised
 epicyesis
 ecrus
+ensweep
 exteriority
 exteriorize
 ejects
