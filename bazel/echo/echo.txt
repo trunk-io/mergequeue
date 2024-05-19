@@ -3666,6 +3666,7 @@ embryophyte
 embryophore
 embryoplastic
 embryos
+esthesioblast
 embryotega
 embryotegae
 eweries
@@ -6817,7 +6818,6 @@ entocone
 entoconid
 emotionality
 enwombing
-esthesioblast
 epulones
 entoglossal
 embonpoint
