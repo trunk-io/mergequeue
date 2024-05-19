@@ -1082,7 +1082,6 @@ calcimines
 crudeness
 calcimining
 choppin
-crossbarred
 calcinate
 calcinator
 calcinatory
@@ -30628,6 +30627,7 @@ cuddy
 cuddie
 cuddies
 cuddyhole
+crossbarred
 cheero
 cuddle
 circularize
