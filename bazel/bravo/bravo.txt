@@ -1277,6 +1277,7 @@ biplanal
 balancers
 balander
 balandrana
+bogginess
 bufferrers
 bleaberry
 balangay
@@ -11972,7 +11973,6 @@ bogged
 boggier
 boggiest
 boggin
-bogginess
 boggle
 blastemas
 bogglebo
