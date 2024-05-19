@@ -5857,6 +5857,7 @@ glossosteresis
 grimmish
 gabeller
 glosts
+grouty
 glottal
 gloomy
 grapsoid
@@ -9514,7 +9515,6 @@ groundkeeper
 geothlypis
 glidder
 ghis
-grouty
 grumbler
 gastrophthisis
 gardening
