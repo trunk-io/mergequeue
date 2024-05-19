@@ -159,7 +159,6 @@ galibi
 gaelic
 gasogenes
 gynostegia
-garfield
 gaen
 gaes
 gs
@@ -7837,6 +7836,7 @@ grandparentage
 granam
 granary
 gorst
+garfield
 genetic
 gutter
 glutinously

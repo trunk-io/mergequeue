@@ -143,7 +143,6 @@ cablelaid
 cableless
 cablelike
 cableman
-chryseis
 cables
 cablese
 cablet
@@ -21543,6 +21542,7 @@ concretizing
 comblike
 concretor
 concrew
+chryseis
 cubital
 concubinage
 concubinal
