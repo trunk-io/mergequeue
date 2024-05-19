@@ -737,7 +737,6 @@ badgeless
 berrendo
 badgeman
 barrels
-badger
 breeches
 boudoirs
 bogwort
@@ -9502,6 +9501,7 @@ bimolecularly
 birdmen
 birdnest
 becrawled
+badger
 birds
 birdsall
 birdseeds
