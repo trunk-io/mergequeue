@@ -55,7 +55,6 @@ faster
 fabulously
 fumaria
 facaded
-faceable
 facebar
 facebow
 faced
@@ -4679,6 +4678,7 @@ faithfully
 fijian
 folksey
 flabella
+faceable
 flabellate
 fibrinogenically
 flabellation
