@@ -5989,6 +5989,7 @@ agentive
 agentives
 agentry
 archprototype
+antidoting
 archsnob
 achromats
 agents
@@ -15184,7 +15185,6 @@ amethyst
 antidotes
 abruptest
 antidotical
-antidoting
 antidraft
 antidromal
 antidromically
