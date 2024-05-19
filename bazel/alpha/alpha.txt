@@ -7900,7 +7900,6 @@ alefs
 aleft
 alefzero
 alegar
-alehouse
 amor
 aleyard
 aleikoum
@@ -17274,6 +17273,7 @@ abstracting
 antiserum
 anchoring
 armrest
+alehouse
 anticonservatively
 apokrea
 authenticly
