@@ -5108,7 +5108,6 @@ flatness
 favi
 faceting
 flatted
-flimp
 flattercap
 fremdly
 fragmentized
@@ -9435,6 +9434,7 @@ fastenings
 foredetermine
 festivities
 frails
+flimp
 franklinic
 fisheater
 fraser
