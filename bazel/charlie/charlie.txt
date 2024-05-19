@@ -2791,6 +2791,7 @@ canonise
 contermine
 cadaverine
 canonised
+cognizers
 canoniser
 canonises
 canonising
@@ -15580,7 +15581,6 @@ clarke
 coachs
 clarkeite
 clarkia
-cognizers
 clarkias
 coapostate
 confraternization
