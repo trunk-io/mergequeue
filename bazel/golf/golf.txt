@@ -9039,7 +9039,6 @@ geomorphogenist
 gladiatory
 gerontologic
 griping
-gainstand
 grimsir
 grimsire
 grin
@@ -10191,6 +10190,7 @@ graveling
 getspa
 guyers
 guige
+gainstand
 guijo
 gammoning
 globalism
