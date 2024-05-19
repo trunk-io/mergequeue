@@ -17095,7 +17095,6 @@ coadjutant
 coadjutator
 campement
 coadjute
-coadjutement
 coemptional
 chlore
 champ
@@ -22515,6 +22514,7 @@ conjugant
 conjugatae
 conjugate
 cyprinine
+coadjutement
 crucibles
 conjugated
 conjugateness
