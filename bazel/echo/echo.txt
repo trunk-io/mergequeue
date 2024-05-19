@@ -1029,7 +1029,6 @@ expatiatory
 edentulate
 edeodynia
 entheate
-electrophysiology
 edeology
 edeomania
 ehrwaldite
@@ -2300,6 +2299,7 @@ entocele
 electrochemical
 electrochemistry
 excrete
+electrophysiology
 electrochronometer
 electrocataphoresis
 equison
