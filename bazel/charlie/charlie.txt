@@ -15695,7 +15695,6 @@ clathraria
 clathrarian
 clathrate
 clathrina
-clathrinidae
 clathroid
 clathrose
 clathrulate
@@ -25910,6 +25909,7 @@ corseleted
 catfishes
 contradicting
 collatable
+clathrinidae
 corseleting
 corselets
 corseque
