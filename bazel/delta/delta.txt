@@ -5119,7 +5119,6 @@ discommodious
 diopsidae
 dextrogyrate
 denaturization
-denaturizer
 denaturizing
 dendraspis
 dendraxon
@@ -15761,6 +15760,7 @@ dorsabdominally
 dipsacus
 dorsal
 decenniad
+denaturizer
 dorsale
 daftly
 deponed
