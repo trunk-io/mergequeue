@@ -5442,7 +5442,6 @@ dentonasal
 dielytra
 dentosurgical
 disrate
-diasene
 dentulous
 dentural
 dermatology
@@ -8222,6 +8221,7 @@ diaconal
 dauby
 dopaoxidase
 diaconica
+diasene
 diaconus
 depotentiation
 diacoustics
