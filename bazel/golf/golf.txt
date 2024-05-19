@@ -1422,7 +1422,6 @@ gervao
 gibier
 garlion
 grassant
-glycolic
 gerara
 garmenting
 guhr
@@ -6087,6 +6086,7 @@ gonepoietic
 glutelins
 genisaro
 gluteofemoral
+glycolic
 gluteoinguinal
 grogs
 granolithic
