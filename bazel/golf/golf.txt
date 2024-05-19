@@ -2054,6 +2054,7 @@ gausterer
 giantry
 grocerymen
 glamourization
+glaver
 goosetongue
 goosewing
 galleass
@@ -8095,7 +8096,6 @@ gusto
 grapeflower
 grapefruit
 gimping
-glaver
 grapey
 gasteromycete
 goober
