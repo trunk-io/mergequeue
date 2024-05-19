@@ -3426,7 +3426,6 @@ denaturized
 defleaed
 damnum
 defleas
-deflect
 driftfishes
 deflectable
 deflecting
@@ -11709,6 +11708,7 @@ discountinuous
 discounts
 discour
 dimethylanthranilate
+deflect
 daubiest
 deitate
 discourageable
