@@ -2851,7 +2851,6 @@ grano
 gaulin
 glaister
 graddan
-genteelize
 gelating
 gentiana
 gentianella
@@ -8386,6 +8385,7 @@ gazeful
 graupels
 grauwacke
 gymnotoka
+genteelize
 gammadia
 gride
 grizzlyman

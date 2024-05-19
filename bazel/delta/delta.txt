@@ -10628,7 +10628,6 @@ detritus
 dunnaged
 diplont
 diplonts
-diplophase
 dictional
 dosology
 diplophonic
@@ -18168,6 +18167,7 @@ dumsola
 dun
 dunair
 dunamis
+diplophase
 dunbird
 duncan
 dermatoscopy
