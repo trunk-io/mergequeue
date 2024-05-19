@@ -3515,7 +3515,6 @@ dawish
 dorsobranchiata
 defoliants
 defoliate
-defoliates
 defoliation
 defoliations
 defoliator
@@ -11985,6 +11984,7 @@ deliciate
 dropshots
 disemboweling
 disembowelled
+defoliates
 disaffirm
 decoherer
 dehydrofreezing
