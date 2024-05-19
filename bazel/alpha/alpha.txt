@@ -8637,7 +8637,6 @@ acaroid
 alcoholizable
 alleged
 allegedly
-allegement
 allegers
 antiatheistical
 alleges
@@ -23336,6 +23335,7 @@ axon
 audings
 agonium
 audiology
+allegement
 acca
 audiological
 audiologies
