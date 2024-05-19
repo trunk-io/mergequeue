@@ -349,7 +349,6 @@ disrupter
 daikon
 doorboy
 decrystallization
-dailamite
 dayless
 daylight
 daylighted
@@ -11581,6 +11580,7 @@ durrie
 discomposingly
 disconanthae
 disconcertion
+dailamite
 diversities
 disconcertment
 drees
