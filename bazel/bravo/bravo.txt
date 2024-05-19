@@ -541,7 +541,6 @@ backus
 backveld
 bayok
 backvelder
-beagle
 backway
 bewhite
 backward
@@ -11839,6 +11838,7 @@ baking
 bodes
 bodger
 braking
+beagle
 brashes
 barriers
 bodhisattwa
