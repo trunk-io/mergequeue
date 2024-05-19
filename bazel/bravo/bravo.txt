@@ -9926,6 +9926,7 @@ bisulphate
 bit
 bitable
 bidialectal
+bonce
 bytalk
 bytalks
 bitangential
@@ -10755,7 +10756,6 @@ bleater
 bleaty
 bleating
 bibliognostic
-bonce
 bleatingly
 bleats
 bleaunt
