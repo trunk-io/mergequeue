@@ -5759,7 +5759,6 @@ calipered
 catechism
 catechismal
 catechistic
-catechistical
 catechistically
 catechists
 coween
@@ -10583,6 +10582,7 @@ coropo
 chylidrosis
 chylifaction
 chylifactory
+catechistical
 chyliferous
 chirruper
 cosheries
