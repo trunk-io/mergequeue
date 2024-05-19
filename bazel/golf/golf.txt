@@ -6539,6 +6539,7 @@ gabbles
 goldeyes
 golden
 geryoniidae
+guinfo
 galleine
 goldenback
 goldeney
@@ -6904,7 +6905,6 @@ gauntlets
 gonotype
 gonotome
 galeas
-guinfo
 gutwise
 gonozooid
 galactosemic
