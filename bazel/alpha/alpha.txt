@@ -13061,7 +13061,6 @@ anhydraemic
 antikinase
 anhydrate
 anhydrated
-anhydrating
 anhydration
 anicular
 anhydride
@@ -18169,6 +18168,7 @@ aproned
 aproneer
 aright
 apronful
+anhydrating
 aprons
 apronstring
 amphigenetic
