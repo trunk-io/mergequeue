@@ -2677,7 +2677,6 @@ generant
 greige
 generate
 generated
-gomerel
 generater
 gurdy
 generations
@@ -4633,6 +4632,7 @@ gieseckite
 gorilloid
 gentianin
 girdlelike
+gomerel
 gloeocapsa
 girdler
 glottochronology
