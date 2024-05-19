@@ -4996,7 +4996,6 @@ foremark
 favourless
 flapperdom
 framableness
-flappers
 flappet
 flappy
 furil
@@ -10176,6 +10175,7 @@ feudality
 frisettes
 flavouring
 footnotes
+flappers
 fishwife
 fetalism
 frisker
