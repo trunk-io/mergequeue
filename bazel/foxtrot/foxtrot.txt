@@ -7366,7 +7366,6 @@ forby
 forewarnings
 foreparent
 foreplot
-forbid
 forebodingly
 flakiness
 flyness
@@ -7992,6 +7991,7 @@ fireplough
 forestays
 forehinting
 flashbulb
+forbid
 forestal
 forestalled
 flatling
