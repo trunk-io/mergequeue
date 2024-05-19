@@ -1046,6 +1046,7 @@ dermatographia
 darrein
 darshan
 darsonval
+deals
 darsonvalism
 darst
 deontology
@@ -1643,7 +1644,6 @@ deallocation
 deallocations
 deprival
 dipteron
-deals
 dealt
 deambulate
 dozening

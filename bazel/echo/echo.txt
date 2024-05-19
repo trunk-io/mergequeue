@@ -4226,7 +4226,6 @@ emptor
 encipher
 expo
 emptory
-empurple
 eduction
 empurpled
 empurples
@@ -6571,6 +6570,7 @@ enterocholecystostomy
 eumeristic
 enwrapment
 enterochromaffin
+empurple
 episcopalians
 enterocyst
 embuskin
