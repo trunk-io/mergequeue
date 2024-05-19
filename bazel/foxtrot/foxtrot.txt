@@ -5625,7 +5625,6 @@ flinched
 flyblown
 flincher
 flinching
-flinders
 fibrine
 foliiform
 frustrater
@@ -7885,6 +7884,7 @@ forereckon
 forerehearsed
 forerequest
 foreribs
+flinders
 foredates
 flannelbush
 forerun
