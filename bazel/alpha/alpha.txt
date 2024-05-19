@@ -5058,7 +5058,6 @@ aerologists
 aeromancer
 aeromechanic
 aeromechanics
-aeromedical
 aeromedicine
 aerometeorograph
 aerometer
@@ -17147,6 +17146,7 @@ apocalyptical
 apocalyptically
 auslander
 astrobiologists
+aeromedical
 apocalypticism
 ashkoko
 axoneuron
