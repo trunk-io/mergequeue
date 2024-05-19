@@ -15033,7 +15033,6 @@ anticomplementary
 anticomplex
 abiotrophic
 anticonductor
-abstrusion
 assassinates
 antozone
 arara
@@ -17261,6 +17260,7 @@ afterfuture
 apogonid
 apograph
 apographic
+abstrusion
 apographical
 apohyal
 apoidea
