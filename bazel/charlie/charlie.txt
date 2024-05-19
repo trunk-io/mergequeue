@@ -5447,7 +5447,6 @@ casuariiformes
 chloramide
 casuarina
 casuarinales
-casuarius
 celeomorph
 casuist
 chamaecyparis
@@ -9077,6 +9076,7 @@ chariotman
 collegiately
 cumarin
 chariotry
+casuarius
 chariotway
 crisscrossing
 conceivability

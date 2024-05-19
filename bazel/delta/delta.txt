@@ -2517,7 +2517,6 @@ deckpipe
 dulls
 declaim
 dichorisandra
-dresser
 declaimer
 declaims
 declamando
@@ -17147,6 +17146,7 @@ depositary
 damara
 deacidified
 dryinid
+dresser
 doubledamn
 diffusibility
 disprovement
