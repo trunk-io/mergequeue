@@ -8278,7 +8278,6 @@ epistyle
 epistyles
 epistylis
 exulcerate
-emetocathartic
 epistle
 enweave
 eleostearate
@@ -13120,6 +13119,7 @@ entailment
 ewer
 enties
 expiation
+emetocathartic
 epipaleolithic
 expiational
 expiator
