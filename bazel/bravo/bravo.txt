@@ -4312,7 +4312,6 @@ blas
 beaujolais
 beaume
 beaumont
-beaupere
 beauseant
 beausire
 batetela
@@ -5793,6 +5792,7 @@ balausta
 belied
 balteus
 beliefful
+beaupere
 blastule
 bellware
 bescrawl
