@@ -4716,7 +4716,6 @@ demirobe
 demonastery
 dungyard
 dol
-dinic
 demisang
 demisangue
 demisavage
@@ -6024,6 +6023,7 @@ depsid
 deed
 depsides
 dept
+dinic
 depth
 droopy
 depthen
