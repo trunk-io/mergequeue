@@ -3549,6 +3549,7 @@ alloisomeric
 appoggiatura
 additives
 additivity
+astronaut
 additory
 additum
 acetimeter
@@ -22365,7 +22366,6 @@ allegorization
 astrometry
 astrometric
 astron
-astronaut
 apollinian
 aerosolizing
 astronavigator

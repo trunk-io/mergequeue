@@ -10470,7 +10470,6 @@ cleistothecopsis
 clear
 chifforobes
 crosswalk
-chiffre
 chigetai
 chigetais
 chigga
@@ -10973,6 +10972,7 @@ chirognostic
 chirograph
 chirographers
 crl
+chiffre
 chirography
 chirographical
 chirolas
