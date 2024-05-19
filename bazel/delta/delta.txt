@@ -4163,6 +4163,7 @@ depilous
 delimes
 decreaseless
 deliming
+dunder
 delimit
 denaturize
 delimitate
@@ -18196,7 +18197,6 @@ disfellowship
 diachylon
 deadlocks
 dermatorrhoea
-dunder
 dagbane
 dode
 decurrent
