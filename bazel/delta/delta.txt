@@ -1191,7 +1191,6 @@ datasetname
 darghin
 datasets
 decanol
-dictums
 datatype
 datatypes
 datcha
@@ -5350,6 +5349,7 @@ deepwaterman
 dissolutionist
 dentale
 dentalgia
+dictums
 dentalia
 dentalised
 dentalism
