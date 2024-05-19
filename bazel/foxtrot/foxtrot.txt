@@ -2619,7 +2619,6 @@ ferryman
 frowziness
 ferrites
 frailties
-ferritic
 fortuitus
 fiduciaries
 forechamber
@@ -6993,6 +6992,7 @@ formylation
 franks
 foetus
 fluoaluminic
+ferritic
 foments
 freelances
 fortuity
