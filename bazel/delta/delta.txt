@@ -640,7 +640,6 @@ damnously
 damoclean
 darrell
 dusenwind
-damoetas
 damoiseau
 divined
 damolic
@@ -5667,6 +5666,7 @@ deperm
 depermed
 deperms
 depersonalise
+damoetas
 depersonalising
 depersonalized
 depersonalizes
