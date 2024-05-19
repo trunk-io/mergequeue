@@ -12658,7 +12658,6 @@ chronometer
 citolers
 chronometers
 corin
-chronometric
 chronometrical
 chronometrically
 chronon
@@ -13179,6 +13178,7 @@ ciboney
 cibophobia
 cryptocarpic
 cibophobiafood
+chronometric
 cyborg
 cibory
 cessions
