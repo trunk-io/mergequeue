@@ -5956,7 +5956,6 @@ floodwood
 foisty
 flannelboard
 faitour
-flook
 forgottenness
 fatuate
 floorboard
@@ -9333,6 +9332,7 @@ framea
 framer
 frames
 frameshift
+flook
 frapler
 flunkydom
 futuramic
