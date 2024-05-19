@@ -6103,7 +6103,6 @@ ennoblement
 estuant
 everliving
 endrins
-ennoblements
 eluviation
 ennobler
 ellerian
@@ -6413,6 +6412,7 @@ expandibility
 ensnare
 ensnared
 explosive
+ennoblements
 ensnarer
 ericeticolous
 ensnares
