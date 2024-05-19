@@ -6967,7 +6967,6 @@ geromorphism
 gaonic
 gnoff
 grayfly
-gastrohyperneuria
 gradients
 gaufre
 gastrozooid
@@ -10209,6 +10208,7 @@ guildship
 guessworker
 guile
 guileful
+gastrohyperneuria
 guilefulness
 garmentless
 guilery

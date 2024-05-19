@@ -7495,7 +7495,6 @@ albite
 albitic
 albitical
 albitite
-albitization
 anguilla
 albizia
 albizzia
@@ -24005,6 +24004,7 @@ autocratrix
 autocratship
 autocross
 autocue
+albitization
 autodecomposition
 absolutive
 autodecrement
