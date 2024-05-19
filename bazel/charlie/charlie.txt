@@ -4031,7 +4031,6 @@ carder
 cardholder
 cardia
 cardiac
-coldness
 cardiacal
 cardiacean
 cardiacle
@@ -8904,6 +8903,7 @@ chapourn
 chapournet
 chapournetted
 chappal
+coldness
 chappaul
 chappy
 chappie
