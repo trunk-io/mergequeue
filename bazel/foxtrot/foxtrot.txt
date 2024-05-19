@@ -4965,6 +4965,7 @@ foe
 flankard
 fauvist
 flanked
+felones
 flickery
 flanker
 flankers
@@ -6232,7 +6233,6 @@ firer
 fluellite
 fibrils
 fellowed
-felones
 formalisms
 fraticellian
 fervour
