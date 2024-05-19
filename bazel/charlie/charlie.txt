@@ -15758,7 +15758,6 @@ clausure
 claut
 clava
 clavacin
-clavae
 centres
 circumspectively
 claval
@@ -27368,6 +27367,7 @@ coursers
 courses
 coursy
 coformulator
+clavae
 coursing
 coursings
 court
