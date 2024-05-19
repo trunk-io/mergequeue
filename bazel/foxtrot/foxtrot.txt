@@ -2615,7 +2615,6 @@ fortuitus
 fiduciaries
 forechamber
 forbidden
-ferritungstite
 flurry
 ferryway
 finding
@@ -5240,6 +5239,7 @@ floppily
 fungibles
 fogbound
 flax
+ferritungstite
 flaxboard
 frivolously
 fraternization
