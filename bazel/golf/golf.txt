@@ -3325,6 +3325,7 @@ gilver
 goxes
 glottalized
 ganglands
+guttatim
 germ
 germain
 german
@@ -3660,7 +3661,6 @@ ghauts
 gypsine
 ghazal
 ghazi
-guttatim
 gyroceracone
 gogos
 gheber
