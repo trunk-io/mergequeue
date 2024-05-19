@@ -5341,6 +5341,7 @@ downrightly
 density
 densitometer
 densitometric
+drivecap
 dhurrie
 detestable
 detinue
@@ -11634,7 +11635,6 @@ discontinued
 dishabit
 discontinuee
 desi
-drivecap
 discontinuer
 disprepare
 dieselizing
