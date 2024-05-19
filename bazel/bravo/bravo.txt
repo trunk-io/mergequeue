@@ -947,7 +947,6 @@ bagwig
 bagwigged
 bultow
 bogey
-bagwigs
 bagwyn
 bagwomen
 bagwork
@@ -11001,6 +11000,7 @@ blindworm
 backscratcher
 blackamoor
 beetler
+bagwigs
 blackbeetle
 blinis
 blinkard
