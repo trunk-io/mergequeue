@@ -2793,7 +2793,6 @@ fratery
 festerment
 festers
 flagroot
-footway
 festy
 festilogy
 feods
@@ -5849,6 +5848,7 @@ flocci
 flagellate
 frustulose
 floccipend
+footway
 freeloader
 floccose
 fluvanna
