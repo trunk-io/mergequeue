@@ -834,6 +834,7 @@ fellon
 fanout
 fronted
 fantailed
+firestop
 fantails
 fantaisie
 fantasy
@@ -4229,7 +4230,6 @@ firesider
 firespout
 freshmanship
 forestiera
-firestop
 foreignize
 firethorn
 figpecker
