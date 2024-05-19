@@ -15969,6 +15969,7 @@ chiripa
 cleidoscapular
 cleidosternal
 cleidotripsy
+calorize
 cleistocarp
 caulotaxy
 cleistocarpous
@@ -27494,7 +27495,6 @@ covalences
 covalency
 carpoptosis
 coriander
-calorize
 corallike
 chrysorin
 covalent
