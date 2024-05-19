@@ -9379,6 +9379,7 @@ areole
 alphas
 alphenic
 afterdamp
+artemision
 alpheus
 alphyl
 attenuations
@@ -20483,7 +20484,6 @@ artemis
 aeroenterectasia
 apiolin
 aequoreal
-artemision
 artemisium
 anchoretical
 aitiology
