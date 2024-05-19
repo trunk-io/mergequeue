@@ -4956,7 +4956,6 @@ dialogist
 demonologer
 dismortgage
 demonology
-dawted
 dermostosis
 demasts
 demonologically
@@ -18333,6 +18332,7 @@ duodenary
 diphtheritic
 duodenate
 declension
+dawted
 duodenation
 degelation
 duodene
