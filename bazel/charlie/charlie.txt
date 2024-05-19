@@ -621,7 +621,6 @@ caelometer
 caenogaea
 cresson
 caenogenesis
-caenogenetic
 crimpers
 caenostyly
 caenostylic
@@ -14962,6 +14961,7 @@ cytokinin
 cytol
 corries
 curvaceousness
+caenogenetic
 citolas
 citole
 citoles
