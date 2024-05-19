@@ -4675,7 +4675,6 @@ caroused
 carousel
 carousels
 cinchotoxine
-carousers
 carp
 carpaine
 carpale
@@ -12145,6 +12144,7 @@ chouan
 chouanize
 committment
 chouette
+carousers
 choufleur
 chough
 choultry
