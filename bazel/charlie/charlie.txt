@@ -13501,7 +13501,6 @@ calindas
 cyclothurus
 crossarm
 cyclotome
-cyclotomic
 conveyorize
 cyclotomies
 cyclotosaurus
@@ -23152,6 +23151,7 @@ clerked
 constituencies
 cantillated
 constituent
+cyclotomic
 clouded
 constituents
 constitute
