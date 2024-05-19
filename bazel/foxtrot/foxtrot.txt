@@ -7241,7 +7241,6 @@ fetial
 fogs
 forepeak
 fleetings
-forefronts
 footpounds
 flanderkin
 footprint
@@ -9589,6 +9588,7 @@ fliffus
 figurers
 floppiness
 faithworthy
+forefronts
 forsworn
 firths
 falchion
