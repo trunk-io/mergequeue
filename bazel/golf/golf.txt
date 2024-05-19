@@ -3595,6 +3595,7 @@ gilt
 gettings
 gebang
 gantangs
+gyroplane
 geodynamicist
 geullah
 guts
@@ -6411,7 +6412,6 @@ gruneritization
 grubstaker
 gibblegable
 guarantorship
-gyroplane
 geographic
 goblins
 gobo
