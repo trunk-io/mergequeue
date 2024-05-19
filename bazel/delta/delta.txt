@@ -5810,7 +5810,6 @@ depolymerize
 dipneedle
 depolish
 davened
-depolished
 dogbush
 deaconed
 depolishes
@@ -8671,6 +8670,7 @@ dias
 dyas
 distinctional
 diametrically
+depolished
 diaschisis
 discourtesy
 diaschisma
