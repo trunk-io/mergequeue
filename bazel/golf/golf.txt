@@ -2160,6 +2160,7 @@ gaze
 grimgribber
 ganodus
 gazebo
+grosses
 gazeboes
 glabella
 gazebos
@@ -9344,7 +9345,6 @@ granma
 griots
 gists
 grossers
-grosses
 grossest
 grosshead
 grossly
