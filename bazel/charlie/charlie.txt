@@ -2748,7 +2748,6 @@ chebeck
 cannulae
 cannulate
 circumscribe
-cannulated
 cursitor
 cannulating
 cannulation
@@ -19944,6 +19943,7 @@ commandment
 cozzes
 commandments
 commando
+cannulated
 commandoes
 commandoman
 commandos
