@@ -7616,7 +7616,6 @@ ep
 embarment
 elephas
 epicolic
-epicondyle
 endromididae
 epicondylian
 engraulidae
@@ -9439,6 +9438,7 @@ esbatement
 enlock
 escalade
 exolution
+epicondyle
 emotionally
 effecter
 escalader
