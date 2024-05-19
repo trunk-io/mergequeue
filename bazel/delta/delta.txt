@@ -3107,7 +3107,6 @@ dowress
 deeryard
 decarbonized
 deermeat
-deers
 deerstalkers
 deerstalking
 deervetch
@@ -15727,6 +15726,7 @@ dormice
 dormient
 dormilona
 dormins
+deers
 dormitive
 dormitories
 dormouse
