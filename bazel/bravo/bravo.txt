@@ -3321,7 +3321,6 @@ bouffes
 basipterygoid
 battle
 basiradial
-basirostral
 basiscopic
 blepharitic
 basisidia
@@ -9731,6 +9730,7 @@ biles
 bisexual
 bimastism
 budapest
+basirostral
 bedclothes
 blepharitis
 bisexually

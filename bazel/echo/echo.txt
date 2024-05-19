@@ -8798,6 +8798,7 @@ equivoque
 emulsor
 equoidean
 equulei
+exemplars
 equuleus
 eucalypt
 erade
@@ -10896,7 +10897,6 @@ eupatrids
 eluent
 epigram
 eupepsy
-exemplars
 epitapher
 electrocuting
 eloquently
