@@ -3921,7 +3921,6 @@ anthropological
 adipoceriform
 adipocerite
 adipocyte
-adipofibroma
 adipogenic
 adipoid
 angiology
@@ -14931,6 +14930,7 @@ agnean
 argentinitrate
 anticipatable
 anodic
+adipofibroma
 aerobes
 antimediaevalism
 anticipates
