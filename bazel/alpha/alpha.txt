@@ -9182,6 +9182,7 @@ almner
 almners
 almohad
 almohade
+actability
 almohades
 almoign
 almon
@@ -23178,7 +23179,6 @@ antanemic
 attracter
 attractingly
 attraction
-actability
 accommodately
 attractive
 attractively
