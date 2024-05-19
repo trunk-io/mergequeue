@@ -3465,6 +3465,7 @@ bastille
 bastilles
 biggah
 bastiment
+blot
 bastinaded
 baroi
 burbots
@@ -11286,7 +11287,6 @@ blossom
 bismuthiferous
 blossomy
 blossomless
-blot
 blotch
 beestride
 blotches
