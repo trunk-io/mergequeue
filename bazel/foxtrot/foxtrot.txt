@@ -5788,7 +5788,6 @@ flivver
 fumariaceous
 filoplume
 flyway
-fishable
 faunas
 further
 ferr
@@ -11374,6 +11373,7 @@ furiouser
 furivae
 fatalisms
 furlan
+fishable
 foreglimpsed
 filiality
 fieldman
