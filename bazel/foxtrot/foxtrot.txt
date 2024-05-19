@@ -1702,7 +1702,6 @@ fluellin
 fearful
 fumatorium
 fifteenthly
-fathometer
 frypan
 faucets
 fieldmice
@@ -4258,6 +4257,7 @@ firking
 fibroma
 firma
 firmament
+fathometer
 fibster
 fenland
 firmaments
