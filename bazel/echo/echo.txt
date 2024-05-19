@@ -4875,7 +4875,6 @@ endameba
 endamebae
 extradictable
 endamoeba
-endamoebas
 endamoebidae
 electrotautomerism
 endanger
@@ -9199,6 +9198,7 @@ establish
 exploding
 erythrorrhexis
 erythroscope
+endamoebas
 erythrosiderite
 erythrosin
 exacerbescent
