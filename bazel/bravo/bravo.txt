@@ -4337,6 +4337,7 @@ beautifier
 biriba
 bishopbird
 beautifiers
+bondminder
 beautiful
 beautifulness
 bradoon
@@ -12494,7 +12495,6 @@ bondmaids
 befoulier
 bondman
 bondmen
-bondminder
 bondon
 bructeri
 bookroom
