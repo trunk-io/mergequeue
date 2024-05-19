@@ -1659,7 +1659,6 @@ digitize
 deaminate
 deaminating
 deamination
-deaminize
 deaminized
 deaminizing
 deammonation
@@ -16462,6 +16461,7 @@ diaphorase
 doom
 donnybrooks
 delirate
+deaminize
 diachyma
 drabbish
 drabble
