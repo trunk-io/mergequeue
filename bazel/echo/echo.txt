@@ -1031,7 +1031,6 @@ edeodynia
 entheate
 electrophysiology
 edeology
-edeomania
 ehrwaldite
 enhamper
 edessan
@@ -6591,6 +6590,7 @@ enterococcal
 esperantidist
 enseam
 expulsatory
+edeomania
 enterococcus
 enterocoela
 enterocoelous

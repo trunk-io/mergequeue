@@ -11333,7 +11333,6 @@ chloritization
 chloritize
 culicid
 chlorize
-chesterbed
 chlormethane
 chlornal
 chloro
@@ -31875,6 +31874,7 @@ cuttlefish
 calamitous
 cuttlefishes
 cuttler
+chesterbed
 campanilla
 cytoglobulin
 cuttles
