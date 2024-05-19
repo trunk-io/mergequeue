@@ -3020,7 +3020,6 @@ evolvements
 ell
 ella
 equipoises
-electrothermostat
 elleck
 ellenyard
 escribed
@@ -3284,6 +3283,7 @@ emandibulate
 eelback
 emane
 emarginated
+electrothermostat
 expanse
 eclectics
 elzevirian
