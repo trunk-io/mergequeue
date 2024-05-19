@@ -6737,6 +6737,7 @@ desight
 designable
 dhutis
 designado
+duodenojejunostomies
 designated
 direct
 designates
@@ -18348,7 +18349,6 @@ duodenoenterostomy
 duodenojejunostomy
 demulcent
 denudative
-duodenojejunostomies
 duodenopancreatectomy
 duodenoscopy
 digmeat
