@@ -3197,7 +3197,6 @@ basidia
 basidial
 basidigital
 byelaw
-basidigitale
 basidigitalia
 basidiolichen
 basidiomycete
@@ -4099,6 +4098,7 @@ beeve
 beamer
 bestrut
 beamers
+basidigitale
 beamfilling
 beamful
 beeware
