@@ -2028,7 +2028,6 @@ decagram
 dourness
 decagrams
 decahedral
-decahedron
 defoamers
 degamis
 dentatocrenate
@@ -9707,6 +9706,7 @@ distillations
 durometer
 deliverymen
 drivingly
+decahedron
 duffles
 dilatator
 depositee

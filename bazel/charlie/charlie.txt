@@ -6330,7 +6330,6 @@ causon
 caustic
 caustical
 caustically
-causticism
 causticity
 chanfrin
 causticization
@@ -6835,6 +6834,7 @@ cellobiose
 cubit
 celloid
 colubrids
+causticism
 cathodofluorescence
 celloidin
 cellophane
