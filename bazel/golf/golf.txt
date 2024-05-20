@@ -1578,6 +1578,7 @@ gases
 garner
 gasher
 gramineal
+galbanum
 gundelet
 gashing
 guazuti
@@ -5325,7 +5326,6 @@ gaited
 golgi
 guardsman
 gargets
-galbanum
 gamecraft
 grenade
 gullet
