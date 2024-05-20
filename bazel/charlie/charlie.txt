@@ -1660,6 +1660,7 @@ calottes
 calp
 calpac
 calpacked
+cyclophoric
 calpacks
 catechizing
 cheapishly
@@ -13433,7 +13434,6 @@ cyclopentanone
 cyclopentene
 cyclopes
 cyclophoria
-cyclophoric
 counterlife
 cyclophorus
 curfewing
