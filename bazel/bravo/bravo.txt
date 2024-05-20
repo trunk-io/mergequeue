@@ -10986,6 +10986,7 @@ blinding
 bescoured
 blindless
 blindly
+breakfront
 blindling
 boilery
 bathwater
@@ -15912,7 +15913,6 @@ bromothymol
 bromouracil
 bromphenol
 brompicrin
-breakfront
 burgh
 bromuret
 bromus

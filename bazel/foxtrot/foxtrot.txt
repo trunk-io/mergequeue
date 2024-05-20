@@ -6661,6 +6661,7 @@ foederati
 frontes
 flunkeyhood
 fillip
+forepromise
 foehn
 foehnlike
 foehns
@@ -7867,7 +7868,6 @@ forepretended
 frightfully
 firestorm
 foreprize
-forepromise
 foreprovision
 forepurpose
 fibrochondritis
