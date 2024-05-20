@@ -3832,7 +3832,6 @@ florigenic
 fimbriae
 formicary
 fiddlers
-fimbrial
 fimbriate
 fimbriated
 flavanthrene
@@ -10729,6 +10728,7 @@ flitchplate
 fractionated
 featheriest
 fibriform
+fimbrial
 frumenty
 frumenties
 frump
