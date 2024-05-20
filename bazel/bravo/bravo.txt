@@ -771,6 +771,7 @@ badinages
 bearcoot
 brimborion
 badiner
+burrstone
 biblically
 badinerie
 badious
@@ -17844,7 +17845,6 @@ burroweed
 burrower
 burrows
 benevolent
-burrstone
 burs
 bude
 bambini
