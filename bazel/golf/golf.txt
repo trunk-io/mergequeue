@@ -1146,7 +1146,6 @@ ghostliness
 glares
 gangwa
 grenadilla
-galleys
 gulley
 gamed
 genitives
@@ -8775,6 +8774,7 @@ geranomorphae
 gephyrocercal
 gastroschisis
 government
+galleys
 garcon
 gregg
 globetrotting
