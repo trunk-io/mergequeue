@@ -3868,7 +3868,6 @@ giblet
 guttar
 giblets
 giboia
-goyle
 gibsons
 gibstaff
 galeche
@@ -8380,6 +8379,7 @@ gamb
 grudgers
 gazeful
 graupels
+goyle
 grauwacke
 gymnotoka
 gammadia
