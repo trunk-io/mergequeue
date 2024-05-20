@@ -6393,6 +6393,7 @@ goblin
 gettable
 gateward
 gunite
+graminivore
 glucosulfone
 griddler
 gasteralgia
@@ -10372,7 +10373,6 @@ gulleting
 gabbros
 gullets
 graveless
-graminivore
 garbanzos
 granulomas
 gnathobasic
