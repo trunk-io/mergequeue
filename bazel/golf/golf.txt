@@ -5851,7 +5851,6 @@ giantisms
 goings
 glossosteresis
 grimmish
-gabeller
 glosts
 glottal
 gloomy
@@ -8168,6 +8167,7 @@ grippingness
 grylli
 georgium
 garamond
+gabeller
 graphometric
 gara
 gifts
