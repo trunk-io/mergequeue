@@ -5975,7 +5975,6 @@ disaccustomed
 dispender
 depressibilities
 depressible
-declass
 depressingly
 depressingness
 depression
@@ -13528,6 +13527,7 @@ dissectible
 dissection
 dissections
 dissects
+declass
 dinghy
 deess
 desperadoes
