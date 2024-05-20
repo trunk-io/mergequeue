@@ -3767,7 +3767,6 @@ battened
 battener
 beknown
 balladising
-batteners
 battens
 batter
 batterdock
@@ -5199,6 +5198,7 @@ beflecking
 bigmouth
 busier
 bedewoman
+batteners
 ballpoints
 beflecks
 beflounce
