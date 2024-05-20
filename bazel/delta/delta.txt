@@ -4776,7 +4776,6 @@ demythologizer
 dees
 demitint
 demitoilet
-demitone
 deteriorated
 demitrain
 demitranslucence
@@ -15661,6 +15660,7 @@ dopchick
 dopebook
 despotical
 doped
+demitone
 discased
 dopey
 discographic
