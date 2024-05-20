@@ -11893,7 +11893,6 @@ chooser
 choosers
 choosier
 choosiness
-chadar
 chop
 chopa
 chopas
@@ -29245,6 +29244,7 @@ cryptobranchia
 cryptobranchiata
 clambakes
 chondroma
+chadar
 cutlas
 choices
 cryptobranchiate
