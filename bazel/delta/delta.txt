@@ -5837,7 +5837,6 @@ deltidium
 depopulated
 depopulates
 depopulating
-depopulation
 dunged
 denitrize
 depopulative
@@ -7354,6 +7353,7 @@ deterrability
 doctrinist
 doyen
 deterrence
+depopulation
 deterrent
 deterrently
 deterrents
