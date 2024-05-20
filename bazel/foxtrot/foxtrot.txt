@@ -4173,7 +4173,6 @@ frayn
 foreprise
 foulmart
 florican
-firefang
 frizzlers
 firefanged
 fleys
@@ -9924,6 +9923,7 @@ furnacite
 fpm
 fretting
 fretum
+firefang
 figurante
 fostership
 fluors
