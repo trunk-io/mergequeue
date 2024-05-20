@@ -11946,7 +11946,6 @@ disembarkations
 domes
 disembarked
 divise
-duskish
 disembarking
 dugout
 demi
@@ -18331,6 +18330,7 @@ duodedenums
 duodena
 duodenary
 diphtheritic
+duskish
 duodenate
 declension
 duodenation
