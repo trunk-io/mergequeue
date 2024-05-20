@@ -4980,7 +4980,6 @@ cartouch
 cartouche
 costrel
 chiclero
-cartouches
 curlicued
 canalman
 crystallizing
@@ -19117,6 +19116,7 @@ collision
 collisive
 collywest
 collyweston
+cartouches
 collywobbles
 columbeia
 colloblast
