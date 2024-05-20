@@ -2032,6 +2032,7 @@ campanero
 campania
 cecils
 comdg
+chlorophenol
 campaniform
 campanile
 campaniles
@@ -11406,7 +11407,6 @@ chloropal
 chloropalladates
 chloropalladic
 chlorophaeite
-chlorophenol
 charangos
 chlorophenothane
 confirm
