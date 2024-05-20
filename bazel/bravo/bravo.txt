@@ -10297,7 +10297,6 @@ blackjacks
 blackland
 blackleg
 blacklegged
-blackleggery
 blacklegism
 blacklist
 blacklisted
@@ -14618,6 +14617,7 @@ brassards
 brassart
 brassarts
 brassavola
+blackleggery
 bolson
 brassbound
 biacetyl

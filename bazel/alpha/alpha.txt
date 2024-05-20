@@ -13743,6 +13743,7 @@ anointed
 anointment
 anointments
 anoints
+avolate
 anoli
 addax
 anolis
@@ -24838,7 +24839,6 @@ avoids
 avoyership
 afflict
 avoke
-avolate
 avolation
 avolitional
 avoset
