@@ -1861,6 +1861,7 @@ douvecot
 dorsale
 deblai
 deblaterate
+demiss
 deblateration
 deblock
 dijudicate
@@ -4750,7 +4751,6 @@ demishirt
 dopers
 dislodging
 decem
-demiss
 demissionary
 dispensations
 demivolt
