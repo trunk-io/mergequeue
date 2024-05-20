@@ -2362,7 +2362,6 @@ barbicel
 barbicels
 brines
 binful
-barbierite
 barbing
 barbion
 burhinus
@@ -17028,6 +17027,7 @@ briquets
 bulimus
 belief
 baler
+barbierite
 bimahs
 binoxide
 bulk
