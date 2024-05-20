@@ -268,7 +268,6 @@ abnormals
 abdominoposterior
 abdominoscopy
 agas
-abdominothoracic
 abdominous
 abduce
 abducens
@@ -13564,6 +13563,7 @@ amalgamates
 annihilatory
 annihilators
 attice
+abdominothoracic
 anniversalily
 anniversary
 arthrorrhagia
