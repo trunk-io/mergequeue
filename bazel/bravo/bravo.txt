@@ -6467,6 +6467,7 @@ benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
 boiloff
+brawner
 benzamide
 benzamido
 benzamine
@@ -11177,7 +11178,6 @@ basophobia
 bloodbath
 bedarkens
 bougies
-brawner
 bloodbeat
 berkeleian
 bloodberry
