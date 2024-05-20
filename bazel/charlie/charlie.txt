@@ -7712,7 +7712,6 @@ ceremonially
 ceremonialness
 ceremonials
 contrabass
-ceremonies
 ceremonious
 ceremoniousness
 counterpoint
@@ -27325,6 +27324,7 @@ coupler
 couplers
 couples
 cleric
+ceremonies
 couplings
 coupon
 cornbrash
