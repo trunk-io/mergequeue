@@ -5353,7 +5353,6 @@ fleeching
 fellowmen
 fleecy
 fastness
-floorwalkers
 forager
 fitchery
 filterable
@@ -9770,6 +9769,7 @@ freight
 flipflop
 foretoken
 freightage
+floorwalkers
 fluorite
 fringe
 fascisms
