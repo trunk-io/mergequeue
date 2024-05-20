@@ -11234,7 +11234,6 @@ disburdens
 disburgeon
 dueller
 disbury
-disbursal
 disbursals
 disburse
 disbursements
@@ -11649,6 +11648,7 @@ disconventicle
 devaluating
 discophoran
 discoplacenta
+disbursal
 devillike
 determinable
 defeminise
