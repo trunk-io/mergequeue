@@ -4850,6 +4850,7 @@ crosshatched
 carryover
 carritch
 capsaicin
+conformations
 carritches
 carbohydrazide
 carriwitchet
@@ -22101,7 +22102,6 @@ conformate
 conformationally
 crwths
 couvert
-conformations
 conformator
 conformed
 conformer
