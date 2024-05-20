@@ -3932,7 +3932,6 @@ adipometer
 adiponitrile
 axial
 adipopexia
-adipopexic
 adipopexis
 adipose
 adiposeness
@@ -6402,6 +6401,7 @@ agraria
 animative
 agrarianize
 aggress
+adipopexic
 aladinist
 antithetically
 agrarianly

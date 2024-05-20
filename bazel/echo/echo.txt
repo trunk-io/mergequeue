@@ -3863,7 +3863,6 @@ equivote
 electrotonus
 emilia
 eminences
-extraboldface
 eminencies
 eminent
 ensporia
@@ -11563,6 +11562,7 @@ eviscerates
 evisceration
 eviscerator
 eumerogenetic
+extraboldface
 excavationist
 echnida
 evite
