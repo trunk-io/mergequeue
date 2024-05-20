@@ -3350,7 +3350,6 @@ elohist
 embarrel
 embarricado
 embarring
-exponentially
 extempory
 epionynychia
 embase
@@ -4695,6 +4694,7 @@ encyst
 encysted
 electralize
 expediently
+exponentially
 encysting
 euphemiser
 encystment
