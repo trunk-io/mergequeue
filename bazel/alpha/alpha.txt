@@ -766,6 +766,7 @@ abreacts
 abreast
 archenteric
 abreed
+antimission
 anchylosing
 abrenounce
 asyle
@@ -15584,7 +15585,6 @@ aiming
 antimissile
 achen
 anywhere
-antimission
 antimissionary
 antipyretic
 avijja
