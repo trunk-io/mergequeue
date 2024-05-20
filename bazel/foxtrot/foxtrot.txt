@@ -5792,6 +5792,7 @@ filoplume
 flyway
 fishable
 faunas
+firehall
 further
 ferr
 fribblish
@@ -6182,7 +6183,6 @@ fresnel
 foraminifera
 flowingly
 flowingness
-firehall
 flowmeter
 fimetarious
 firebreak
