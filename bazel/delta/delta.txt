@@ -11021,6 +11021,7 @@ disangularize
 disanimal
 disanimation
 despots
+disrooting
 discomforted
 disadjust
 disannuller
@@ -13456,7 +13457,6 @@ dealerdom
 disroof
 disroost
 disrooted
-disrooting
 disrout
 dizygous
 disrudder
