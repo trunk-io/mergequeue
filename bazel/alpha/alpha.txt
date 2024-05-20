@@ -9488,7 +9488,6 @@ alternated
 alternately
 alternateness
 achier
-alternater
 alternatingly
 animals
 alternation
@@ -17955,6 +17954,7 @@ appositely
 appositeness
 apposition
 appositional
+alternater
 afrown
 appositionally
 appositive
