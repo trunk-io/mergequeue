@@ -5290,7 +5290,6 @@ chlorohydroquinone
 cassiopeid
 cassiopeium
 cassis
-cassises
 cassiterite
 cassites
 ccws
@@ -24762,6 +24761,7 @@ coprolaliac
 coprolite
 chatwood
 coprolith
+cassises
 coprolitic
 coprophagan
 coprophagy
