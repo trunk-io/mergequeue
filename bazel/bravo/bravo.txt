@@ -612,6 +612,7 @@ blindfolder
 bactericides
 bacteriemia
 bacteriform
+bigness
 bacterin
 borofluoric
 bacterioagglutinin
@@ -8516,7 +8517,6 @@ bituminise
 bigmouthed
 bigmouths
 benzocoumaran
-bigness
 bignonia
 brulyiement
 bignoniaceous
