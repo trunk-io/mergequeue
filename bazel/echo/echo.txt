@@ -6528,7 +6528,6 @@ electroscopic
 enteraden
 enteradenography
 enteradenological
-enteral
 enteralgia
 embiotocoid
 enterate
@@ -9165,6 +9164,7 @@ erythrodermia
 erythrogen
 embryogony
 erythrogenic
+enteral
 emeried
 educe
 erythrol
