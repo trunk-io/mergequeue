@@ -8089,7 +8089,6 @@ bibliopolical
 bibliopolically
 bibliopolist
 bestowable
-befall
 bibliosoph
 bibliotaphe
 bibliothecae
@@ -15292,6 +15291,7 @@ bandylegged
 blisterwort
 brieflessly
 balize
+befall
 briefly
 briefness
 bleeds
