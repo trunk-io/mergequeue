@@ -3840,6 +3840,7 @@ gommier
 gibbons
 geldable
 gibbosely
+gemlike
 gibboseness
 gibbosity
 gibbosities
@@ -7666,7 +7667,6 @@ graduses
 gherkin
 graecian
 gullage
-gemlike
 graecize
 grumpish
 glaciolacustrine
