@@ -4927,7 +4927,6 @@ electability
 eucephalous
 equinia
 endemial
-endemical
 endemically
 enschedule
 ethicalness
@@ -13391,6 +13390,7 @@ expresso
 expressure
 exaltative
 ethmophysal
+endemical
 electrotechnical
 expurge
 excipular
