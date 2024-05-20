@@ -1791,7 +1791,6 @@ englishing
 eigenvalue
 ergatogyny
 eigenvalues
-eigenvectors
 eyght
 enigmatic
 evaginated
@@ -2174,6 +2173,7 @@ exterminating
 elderwort
 eldest
 eldin
+eigenvectors
 eldmother
 eventuate
 eldress
