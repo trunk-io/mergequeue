@@ -8207,7 +8207,6 @@ biconcave
 breezelike
 bidder
 biconic
-biconical
 biconically
 baalish
 biconnected
@@ -17459,6 +17458,7 @@ belinurus
 bytownite
 bushbaby
 bunked
+biconical
 bunker
 bunkerage
 beladle
