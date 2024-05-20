@@ -6660,7 +6660,6 @@ desensitize
 desensitized
 desensitizes
 desensitizing
-desentimentalize
 demerol
 deperming
 desert
@@ -13293,6 +13292,7 @@ disproportionality
 distinctest
 draco
 disproportionalness
+desentimentalize
 disproportionate
 disproportionately
 disproportionateness
