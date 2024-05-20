@@ -11089,6 +11089,7 @@ bankrupted
 blk
 blksize
 bunts
+bomos
 blo
 bloat
 benefactorship
@@ -12424,7 +12425,6 @@ bombus
 bombardelle
 bomi
 barbuts
-bomos
 bon
 bonace
 bonacis
