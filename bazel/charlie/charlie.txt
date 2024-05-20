@@ -3832,6 +3832,7 @@ carbonify
 carbonification
 carbonyl
 carbonylated
+courie
 carbonylene
 carbonyls
 carbonimeter
@@ -27356,7 +27357,6 @@ courbettes
 carcaneted
 courgette
 courida
-courie
 couriers
 courlan
 couronne
