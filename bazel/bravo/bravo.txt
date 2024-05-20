@@ -1190,7 +1190,6 @@ burrish
 bibliographer
 bellis
 baked
-bakehead
 bibliothetic
 bakehouses
 bakelite
@@ -3979,6 +3978,7 @@ bocstaff
 bdellostomatidae
 brickbats
 bacteritic
+bakehead
 bdelloura
 bdellouridae
 barbiturate
