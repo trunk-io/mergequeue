@@ -93,7 +93,6 @@ cabecudo
 capellet
 chorogi
 cabeliau
-caber
 cabernet
 carcinosarcomas
 cabestro
@@ -13565,6 +13564,7 @@ cautions
 cygnets
 cygnid
 commodore
+caber
 cygninae
 cygnus
 cigua
