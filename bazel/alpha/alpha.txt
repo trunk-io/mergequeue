@@ -413,7 +413,6 @@ acousmas
 abiogenesist
 abiogenetical
 abiogenetically
-accelerated
 abiogeny
 abiogenist
 anonychia
@@ -2161,6 +2160,7 @@ achesoun
 achete
 acheulean
 antecell
+accelerated
 accustoms
 acheweed
 achy

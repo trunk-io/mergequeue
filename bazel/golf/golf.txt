@@ -1765,7 +1765,6 @@ gastroenteritic
 gastroenteritis
 gluts
 gastroenteroanastomosis
-gastroenterocolostomy
 gastroenterology
 gelatination
 gastightness
@@ -4898,6 +4897,7 @@ garderobe
 giver
 gladeye
 glossematics
+gastroenterocolostomy
 gagroot
 gyves
 givingness
