@@ -12240,6 +12240,7 @@ byblis
 banque
 beld
 bolognan
+brisker
 bolognas
 bolognese
 balaenopteridae
@@ -15504,7 +15505,6 @@ briseis
 brises
 brisken
 briskened
-brisker
 broadcasted
 bouget
 briskest
