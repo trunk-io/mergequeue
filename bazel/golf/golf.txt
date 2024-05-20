@@ -4942,7 +4942,6 @@ ghostfish
 gryphite
 garbure
 glacialize
-glaciated
 gedact
 grumbles
 glaciating
@@ -9009,6 +9008,7 @@ grimalkin
 grime
 graveclothes
 grimed
+glaciated
 gnetums
 gentianwort
 grafters
