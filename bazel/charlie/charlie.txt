@@ -8289,7 +8289,6 @@ chakari
 cheekpiece
 chakavski
 chakdar
-cymbling
 cli
 chakobu
 chakram
@@ -16583,6 +16582,7 @@ cockaded
 cloistered
 cloisterer
 cloistering
+cymbling
 comal
 cloisterless
 croupes
