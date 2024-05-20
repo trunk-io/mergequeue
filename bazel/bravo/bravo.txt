@@ -1729,6 +1729,7 @@ bals
 bonito
 balsa
 budgetful
+biventer
 becrimes
 balsam
 balsamaceous
@@ -10092,7 +10093,6 @@ bivariate
 bivascular
 binodous
 bivector
-biventer
 bayonetting
 blights
 bizarrerie
