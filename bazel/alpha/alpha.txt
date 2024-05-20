@@ -7503,6 +7503,7 @@ albocarbon
 albocinereous
 albococcus
 albocracy
+assignable
 aluminizing
 alboin
 acetalization
@@ -21832,7 +21833,6 @@ assify
 apprehensiveness
 assign
 assignability
-assignable
 assignably
 assignat
 assignation
