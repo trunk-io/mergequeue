@@ -3743,7 +3743,6 @@ brotulidae
 battable
 battailant
 browntop
-bisabol
 blackest
 bally
 battakhin
@@ -9392,6 +9391,7 @@ balewort
 bracteiform
 bagged
 byplay
+bisabol
 bedrite
 brutalising
 bottonhook
