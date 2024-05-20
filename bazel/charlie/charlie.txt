@@ -3945,7 +3945,6 @@ carcake
 carcanet
 codger
 carcanets
-carcanetted
 carcases
 crueler
 carcass
@@ -20266,6 +20265,7 @@ commorse
 commorth
 coachers
 commot
+carcanetted
 commotions
 commotive
 commove
