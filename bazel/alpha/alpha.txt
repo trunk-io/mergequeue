@@ -6835,7 +6835,6 @@ aircoaches
 aircraft
 aircraftman
 atenist
-axometer
 aircraftmen
 antidynasty
 ausu
@@ -22440,6 +22439,7 @@ atabals
 atabeg
 alexandreid
 atacaman
+axometer
 atacamenan
 atacameno
 ambulanced
