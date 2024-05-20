@@ -4743,7 +4743,6 @@ flickeringly
 flageolet
 fauve
 fooyoung
-fannings
 flageolets
 fencelet
 flagfishes
@@ -11224,6 +11223,7 @@ funguses
 fireball
 florivorous
 funguslike
+fannings
 funic
 fistulae
 funicle
