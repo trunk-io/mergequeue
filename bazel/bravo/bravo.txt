@@ -5374,7 +5374,6 @@ bournes
 begirding
 begirdled
 blankard
-begirds
 beamsmen
 bromvogel
 beefed
@@ -8776,6 +8775,7 @@ billiards
 billyboy
 bivalved
 billie
+begirds
 billies
 billyhood
 bothlike
