@@ -3506,7 +3506,6 @@ antroversion
 addible
 addicent
 addict
-addicted
 antiknocks
 addictedness
 activable
@@ -23697,6 +23696,7 @@ animalia
 auslaut
 auslaute
 auspex
+addicted
 anisopodous
 acetifier
 auspicated
