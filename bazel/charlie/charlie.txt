@@ -9586,6 +9586,7 @@ checkpointed
 concursus
 checkpointing
 checkpoints
+cephalodymia
 commonize
 crossbowmen
 checkrack
@@ -27420,7 +27421,6 @@ courting
 courtly
 cogitos
 courtlier
-cephalodymia
 chow
 courteously
 courtliest
