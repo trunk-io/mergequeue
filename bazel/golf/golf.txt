@@ -4062,7 +4062,6 @@ gnathobase
 gloomier
 gila
 gearksutite
-gilaki
 gilbert
 gilbertese
 gilbertian
@@ -7026,6 +7025,7 @@ gorbet
 glaciered
 goops
 garnet
+gilaki
 goorals
 grillade
 grapline
