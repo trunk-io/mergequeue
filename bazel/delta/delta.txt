@@ -6000,7 +6000,6 @@ dysmerism
 deprivable
 disprofit
 declassing
-deprivals
 deprivation
 deprive
 deprived
@@ -17529,6 +17528,7 @@ drubble
 drubly
 drucken
 drudge
+deprivals
 drudged
 drudgeries
 debilissima
