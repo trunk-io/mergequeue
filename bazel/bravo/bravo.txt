@@ -3791,6 +3791,7 @@ battles
 battleship
 battleships
 buhr
+brahui
 battlesome
 brahmany
 brigantes
@@ -14319,7 +14320,6 @@ brahmoism
 brahmsian
 brahmsite
 biotitic
-brahui
 bray
 braid
 braided
