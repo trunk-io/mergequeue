@@ -1741,6 +1741,7 @@ epochal
 eyepoint
 eyereach
 eyeroot
+episcleritis
 eupomatia
 eguttulate
 exhbn
@@ -2252,7 +2253,6 @@ electrizable
 erosive
 eches
 electrization
-episcleritis
 earthenware
 encrypting
 epigonus
