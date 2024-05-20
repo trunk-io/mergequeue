@@ -3186,6 +3186,7 @@ erects
 executioners
 elusion
 elided
+equipped
 epactal
 elusive
 entrench
@@ -8740,7 +8741,6 @@ equipondious
 enable
 equipotential
 equipotentiality
-equipped
 electrostereotype
 equiprobability
 enablers

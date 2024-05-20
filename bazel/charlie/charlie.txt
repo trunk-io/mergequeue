@@ -6178,6 +6178,7 @@ caudata
 cloudlet
 chateus
 caudate
+chondriomere
 caudated
 chew
 caudation
@@ -11784,7 +11785,6 @@ chondrilla
 chondrinous
 chondrioma
 chondriome
-chondriomere
 chondriosome
 chondriosomes
 colubriformia
