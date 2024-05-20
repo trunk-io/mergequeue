@@ -2493,7 +2493,6 @@ candles
 candleshine
 candleshrift
 candlestand
-cecidiology
 committeewoman
 candlestick
 candlesticks
@@ -4433,6 +4432,7 @@ capybaras
 claustrum
 caritative
 carity
+cecidiology
 caritive
 circumfusion
 cark
