@@ -7755,7 +7755,6 @@ bewilderment
 bestink
 bewimple
 bewinged
-bewinter
 bewitched
 bewitchedness
 bewitcher
@@ -11296,6 +11295,7 @@ bur
 bestrapped
 blotchiness
 backoff
+bewinter
 bassetted
 benegro
 burblier
