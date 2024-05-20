@@ -4114,7 +4114,6 @@ beamed
 beeve
 beamer
 bestrut
-beamers
 beamfilling
 beamful
 beeware
@@ -7310,6 +7309,7 @@ bullated
 beanfest
 bestay
 bestayed
+beamers
 bestamp
 bestand
 bestarve
