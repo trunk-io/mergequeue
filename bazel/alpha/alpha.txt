@@ -20057,7 +20057,6 @@ armplate
 armrack
 azans
 aniline
-armrests
 archididascalian
 armscye
 armseye
@@ -21061,6 +21060,7 @@ asclepiadic
 autosender
 asclepian
 asclepidin
+armrests
 asclepidoid
 asclepin
 adamant
