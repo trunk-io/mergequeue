@@ -2287,6 +2287,7 @@ bronstrops
 barbarity
 barbarities
 barbarization
+barycentric
 bewelter
 breedling
 brigid
@@ -7484,7 +7485,6 @@ beamiest
 bethanked
 bethanking
 bethankit
-barycentric
 bethanks
 bethel
 blunter
