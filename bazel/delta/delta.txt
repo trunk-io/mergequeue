@@ -3949,6 +3949,7 @@ damper
 designating
 dekalitre
 disherits
+djinni
 dekameter
 dekameters
 debutante
@@ -9414,7 +9415,6 @@ diffrangible
 discontentive
 diffusate
 diffused
-djinni
 duplicator
 diffusely
 diffuseness
