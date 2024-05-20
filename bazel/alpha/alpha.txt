@@ -8103,7 +8103,6 @@ algal
 algalia
 algarad
 angiolipoma
-anolytes
 algarroba
 adnexed
 alcabala
@@ -10585,6 +10584,7 @@ antireactive
 amylic
 amylidene
 amylin
+anolytes
 amylo
 amylocellulose
 amyloclastic
