@@ -3830,7 +3830,6 @@ deuteronomistic
 demultiplexing
 decency
 dateable
-deice
 dammit
 deicers
 deicidal
@@ -9118,6 +9117,7 @@ dictum
 dailiness
 drubbed
 decouple
+deice
 dunted
 didactic
 didactical

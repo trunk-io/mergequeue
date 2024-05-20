@@ -6727,6 +6727,7 @@ baryglossia
 betons
 bere
 bien
+blurry
 barretry
 bereareft
 bereason
@@ -8111,7 +8112,6 @@ buoyed
 biblus
 banate
 balistraria
-blurry
 buzzes
 barmskin
 bodymaker
