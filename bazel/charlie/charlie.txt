@@ -20832,7 +20832,6 @@ corpulence
 composable
 composal
 carcasses
-composant
 composed
 croupily
 composedness
@@ -25842,6 +25841,7 @@ corroding
 corrosibility
 corrosibleness
 corrosional
+composant
 corrosived
 corrosively
 corrosiveness
