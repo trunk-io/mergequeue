@@ -8968,7 +8968,6 @@ afterfall
 allophanates
 azurite
 allophanic
-allophyle
 allophylian
 antirobin
 arrythmia
@@ -10472,6 +10471,7 @@ amide
 amidid
 amidide
 antileft
+allophyle
 adscript
 amidin
 archicyte
