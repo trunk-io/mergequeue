@@ -5872,7 +5872,6 @@ birny
 backwoodsman
 bylining
 bechalked
-buckthorn
 bellboys
 bergalith
 belled
@@ -6185,6 +6184,7 @@ boathead
 bemartyr
 bibl
 bemuck
+buckthorn
 bemuddlement
 bemuddles
 bemuddling
