@@ -7176,7 +7176,6 @@ frittata
 fedn
 flippantness
 faraon
-features
 friz
 footy
 fruitions
@@ -11362,6 +11361,7 @@ furied
 frankincense
 falconry
 formalith
+features
 freebooted
 fulvene
 furify
