@@ -2984,7 +2984,6 @@ crystallographic
 cantoris
 cantorous
 cantors
-centauri
 cantorship
 confronts
 cantraip
@@ -20457,6 +20456,7 @@ comparative
 comparatively
 comparativeness
 comparatives
+centauri
 contratabular
 comparativist
 consultancy
