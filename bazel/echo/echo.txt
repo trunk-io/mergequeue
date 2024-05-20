@@ -1482,7 +1482,6 @@ efs
 efts
 eftsoons
 eg
-egad
 elderlies
 eligent
 emendate
@@ -5679,6 +5678,7 @@ engineless
 engineman
 eudidymite
 extruct
+egad
 enginery
 engineries
 ellwand
