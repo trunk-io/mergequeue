@@ -6336,6 +6336,7 @@ ensheathing
 explores
 ensheaths
 eruditely
+emulsor
 enshell
 enshelter
 enshield
@@ -8804,7 +8805,6 @@ equivoluminal
 engrain
 endocline
 equivoque
-emulsor
 equoidean
 eulophid
 equuleus
