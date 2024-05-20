@@ -4628,6 +4628,7 @@ fixed
 foveated
 fennecs
 fixedness
+farsang
 foreby
 fructescence
 fibroreticulate
@@ -8646,7 +8647,6 @@ forthfigured
 forthgaze
 forthgo
 forthy
-farsang
 forthinking
 farts
 febrifuge
