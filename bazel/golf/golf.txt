@@ -17,7 +17,6 @@ gloat
 glenn
 gummous
 gabbed
-gabber
 gabbers
 gabelles
 granitize
@@ -9708,6 +9707,7 @@ grapestone
 grumped
 grf
 gorged
+gabber
 grumph
 grumphy
 grumphie
