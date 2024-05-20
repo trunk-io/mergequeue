@@ -10879,7 +10879,6 @@ amniota
 amniote
 amniotes
 antipreparedness
-amniotic
 amniotin
 amniotitis
 altaltissimo
@@ -22171,6 +22170,7 @@ astigmometer
 astigmometry
 alluviate
 astigmoscope
+amniotic
 astylar
 astilbe
 astyllen
