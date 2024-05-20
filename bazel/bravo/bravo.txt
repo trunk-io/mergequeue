@@ -5440,7 +5440,6 @@ bloedite
 begrim
 begrimed
 bandusian
-begrimer
 begrimes
 bombsight
 begriming
@@ -14768,6 +14767,7 @@ breach
 breached
 breacher
 brevipen
+begrimer
 breachers
 blendes
 bibliotaphic
