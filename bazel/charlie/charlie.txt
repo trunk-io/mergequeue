@@ -19444,7 +19444,6 @@ colossians
 colosso
 colossochelys
 colossus
-colossuswise
 clematises
 colostomy
 colostomies
@@ -31896,6 +31895,7 @@ cuvage
 cuve
 cuvee
 cuvettes
+colossuswise
 cuvy
 cuvies
 cuzceno
