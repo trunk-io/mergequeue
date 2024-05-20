@@ -10329,7 +10329,6 @@ diopter
 diopters
 dioptograph
 dioptometer
-desilverizer
 discophore
 dismemberer
 dioptra
@@ -12099,6 +12098,7 @@ disenvelop
 disepalous
 disseisoress
 dividableness
+desilverizer
 dysepulotical
 disequality
 disequalization
