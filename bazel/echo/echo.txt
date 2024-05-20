@@ -3019,7 +3019,6 @@ epifascial
 evolvements
 ell
 ella
-equipoises
 electrothermostat
 elleck
 ellenyard
@@ -7271,6 +7270,7 @@ eyebree
 erysipelothrix
 eophyton
 eorhyolite
+equipoises
 eos
 eosate
 epilogation
