@@ -7286,6 +7286,7 @@ aneroid
 antilogies
 alamonti
 afgod
+auspex
 alamort
 alamosite
 alamoth
@@ -23697,7 +23698,6 @@ aushar
 animalia
 auslaut
 auslaute
-auspex
 anisopodous
 acetifier
 auspicated
