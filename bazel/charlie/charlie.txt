@@ -11170,7 +11170,6 @@ chivareed
 chivareing
 chivareeing
 chivarees
-chivari
 chivaris
 chivarra
 chivarras
@@ -14741,6 +14740,7 @@ cystofibroma
 cosmopolicy
 cystogenesis
 cystogram
+chivari
 cystorrhaphy
 cystoid
 cystoidea
