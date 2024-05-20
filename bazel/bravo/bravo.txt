@@ -366,6 +366,7 @@ backhands
 bovarist
 backhaul
 backhauls
+bingle
 bossy
 backhoe
 backhoes
@@ -16728,7 +16729,6 @@ bucolicism
 belittlers
 bucolics
 bucorvinae
-bingle
 bucorvus
 bahama
 binning
