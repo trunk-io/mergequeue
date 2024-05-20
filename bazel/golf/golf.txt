@@ -1625,7 +1625,6 @@ gasoliers
 gasoliner
 gasometry
 gastrodisc
-garlandlike
 galileo
 giraffesque
 gasometric
@@ -7530,6 +7529,7 @@ gallflies
 gravamens
 gownsmen
 gowpen
+garlandlike
 gox
 gangism
 gledge
