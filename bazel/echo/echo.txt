@@ -3990,7 +3990,6 @@ empanels
 emanant
 electroplated
 empanoply
-empaper
 emparchment
 epithamia
 emparl
@@ -4418,6 +4417,7 @@ exposited
 encapsulates
 elaboratory
 everest
+empaper
 encapsulation
 emitted
 encapsule
