@@ -7574,7 +7574,6 @@ broodlet
 betrayment
 bolsheviki
 belgians
-betrap
 betravel
 betread
 betrend
@@ -13037,6 +13036,7 @@ blackberry
 bakeboard
 bordering
 bolster
+betrap
 borders
 botrydium
 borderland
