@@ -10419,6 +10419,7 @@ fronter
 frontier
 formats
 fowage
+fletched
 frontierless
 foliage
 farmyards
@@ -10930,7 +10931,6 @@ fictile
 fannon
 fullhearted
 farina
-fletched
 fully
 fullmouth
 fullmouthed
