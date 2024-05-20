@@ -2506,6 +2506,7 @@ candlewicking
 candlewicks
 candlewright
 candling
+cothurnus
 candock
 candollea
 candolleaceae
@@ -26428,7 +26429,6 @@ cothurned
 cothurnian
 cothurnni
 cothurns
-cothurnus
 cotice
 coticed
 coruscate
