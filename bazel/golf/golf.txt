@@ -1896,7 +1896,6 @@ guiltiest
 golandause
 glyptograph
 gastrulate
-gastrulation
 gastruran
 gatecrasher
 granat
@@ -9506,6 +9505,7 @@ greenfly
 gnotobiotic
 grabbles
 graals
+gastrulation
 glutinize
 guanophore
 greenwich

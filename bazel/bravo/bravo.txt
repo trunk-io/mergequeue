@@ -3933,6 +3933,7 @@ bodyhood
 bawling
 biocoenosis
 bawn
+bandeaus
 bawneen
 bawra
 bestial
@@ -6460,7 +6461,6 @@ bakupari
 brevetcy
 benzaldehyde
 benzaldoxime
-bandeaus
 benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
