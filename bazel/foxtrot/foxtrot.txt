@@ -8590,6 +8590,7 @@ foxish
 forescript
 forsay
 fir
+freezing
 forsaken
 fluoridise
 fittings
@@ -9753,7 +9754,6 @@ floyt
 freezes
 freezy
 fiberized
-freezing
 filopodia
 freezingly
 fregata
