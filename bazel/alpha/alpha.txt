@@ -10176,6 +10176,7 @@ attackable
 ambulacrum
 ambulance
 acheilary
+apollonia
 amoeboidism
 attal
 aristarch
@@ -10506,7 +10507,6 @@ amidophenol
 aaa
 anlaute
 ausones
-apollonia
 amidophosphoric
 ameliorativ
 amidoplast
