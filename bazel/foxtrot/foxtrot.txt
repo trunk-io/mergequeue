@@ -1746,7 +1746,6 @@ farthingale
 filicin
 flashflood
 feasters
-feastful
 feastfully
 feastly
 feastraw
@@ -6043,6 +6042,7 @@ freet
 filamentar
 floriculture
 floriculturist
+feastful
 flavorfulness
 firmarius
 floridan
