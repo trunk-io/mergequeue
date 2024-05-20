@@ -6158,6 +6158,7 @@ executable
 enoplan
 enorm
 etaballi
+extrinsically
 enorn
 enos
 enosis
@@ -14106,7 +14107,6 @@ extrinsicality
 enzymically
 extendedness
 erythematic
-extrinsically
 extrinsicalness
 extrinsication
 exposers
