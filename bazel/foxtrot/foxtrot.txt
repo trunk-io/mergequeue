@@ -4217,7 +4217,6 @@ fireplugs
 firepot
 fireroom
 ferroconcretor
-fleck
 firers
 fanfoot
 forfeits
@@ -6165,6 +6164,7 @@ furdle
 flowable
 fcp
 foresaw
+fleck
 flowage
 flowcharted
 fulicinae
