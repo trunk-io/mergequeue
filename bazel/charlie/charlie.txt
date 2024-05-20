@@ -20176,7 +20176,6 @@ committedness
 committeemen
 committees
 committeeship
-committeewomen
 committent
 chutes
 committible
@@ -26992,6 +26991,7 @@ counteroffer
 counteropening
 counteropponent
 culotte
+committeewomen
 carbethoxyl
 counteropposite
 counterorder
