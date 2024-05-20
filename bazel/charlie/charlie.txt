@@ -1029,7 +1029,6 @@ calcannei
 calcarated
 channellers
 calcarea
-calcareoargillaceous
 calcareosiliceous
 calcareous
 calcareousness
@@ -16979,6 +16978,7 @@ coerceable
 circumviate
 confervales
 clustery
+calcareoargillaceous
 clustering
 clusteringly
 clusterings
