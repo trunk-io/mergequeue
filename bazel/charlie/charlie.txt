@@ -3581,7 +3581,6 @@ caraboid
 carabus
 caracal
 caracara
-carack
 caracks
 caracoa
 cumanagoto
@@ -25075,6 +25074,7 @@ cloves
 cordwoods
 core
 coreceiver
+carack
 corecipient
 coreciprocal
 corectome
