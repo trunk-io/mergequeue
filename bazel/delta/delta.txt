@@ -5997,6 +5997,7 @@ dere
 deprest
 dechlorination
 depreter
+dossier
 depriment
 deprint
 depriorize
@@ -15909,7 +15910,6 @@ dosseret
 dosserets
 dosses
 dossy
-dossier
 dossil
 dossils
 dartos
