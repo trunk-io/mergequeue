@@ -3372,7 +3372,6 @@ foredeem
 forfeitable
 fiel
 forzato
-forthcoming
 fieldbird
 fielden
 fieldfare
@@ -6411,6 +6410,7 @@ formularization
 fluoridating
 fluoridation
 fossae
+forthcoming
 fluoride
 fluoridisation
 frasera
