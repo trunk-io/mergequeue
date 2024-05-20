@@ -6830,7 +6830,6 @@ continua
 cellmates
 cello
 cellobiose
-cubit
 celloid
 colubrids
 cathodofluorescence
@@ -11351,6 +11350,7 @@ chlorocarbonate
 chlorochromates
 construing
 clothbound
+cubit
 chlorochromic
 chlorococcaceae
 chlorococcales
