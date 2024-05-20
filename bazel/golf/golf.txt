@@ -3384,7 +3384,6 @@ griffonne
 grids
 gove
 germans
-gossipry
 grubbers
 germfree
 gullion
@@ -8994,6 +8993,7 @@ grager
 garbs
 grilse
 gunstocks
+gossipry
 grassweed
 grimaced
 grimacers
