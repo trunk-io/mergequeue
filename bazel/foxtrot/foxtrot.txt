@@ -684,7 +684,6 @@ familyish
 familism
 featherfoil
 familistere
-famille
 formaldehydesulphoxylate
 famine
 famished
@@ -2770,6 +2769,7 @@ forelimbs
 fesse
 frankfold
 fessed
+famille
 foldouts
 foresentence
 federator
