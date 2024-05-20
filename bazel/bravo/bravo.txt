@@ -1837,7 +1837,6 @@ banbury
 banc
 bancha
 banco
-bonhomie
 bipunctate
 bullose
 burgul
@@ -11727,6 +11726,7 @@ bucket
 bobber
 bayogoula
 bobbers
+bonhomie
 bobby
 bobbin
 backlighting
