@@ -7594,7 +7594,6 @@ cercariform
 cerci
 cercidiphyllaceae
 cormels
-cercises
 cercocebus
 cercolabes
 cercolabidae
@@ -24678,6 +24677,7 @@ copolymerize
 cruciated
 copolymerized
 concise
+cercises
 copolymerizing
 copopoda
 copouts
