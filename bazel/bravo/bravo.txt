@@ -5521,7 +5521,6 @@ behavioural
 behaviourally
 boodle
 brisling
-behaviours
 bandying
 beheadal
 beheaded
@@ -14485,6 +14484,7 @@ bottomless
 brasier
 branchiopod
 branchiopoda
+behaviours
 bioassays
 branchiopodan
 branchiopodous
