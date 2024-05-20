@@ -5727,6 +5727,7 @@ englobed
 exophagous
 englobing
 exosmic
+epicarid
 entrail
 engloom
 englut
@@ -7548,7 +7549,6 @@ epicanthus
 epicardia
 enzymologist
 epicardium
-epicarid
 eyebrow
 epicarides
 employs
