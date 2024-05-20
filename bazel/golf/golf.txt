@@ -5857,6 +5857,7 @@ glosts
 glottal
 gloomy
 grapsoid
+glunch
 gattine
 galera
 goodies
@@ -6058,7 +6059,6 @@ germlike
 granitelike
 glumpier
 glumpiest
-glunch
 garrisonian
 gastrohydrorrhea
 glassmen
