@@ -19521,7 +19521,6 @@ antillean
 argentometry
 argentometric
 argentometrically
-argentose
 alexins
 augurial
 argentry
@@ -24536,6 +24535,7 @@ autofecundation
 auxocardia
 auxochrome
 antistimulation
+argentose
 auxochromism
 auxochromous
 auxograph
