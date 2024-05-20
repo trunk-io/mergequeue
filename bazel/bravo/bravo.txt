@@ -4164,7 +4164,6 @@ beanpole
 bagge
 beans
 beansetter
-beanshooter
 beanstalk
 beanstalks
 begrain
@@ -6488,6 +6487,7 @@ benzdifuran
 benzdioxazine
 benzdioxdiazine
 benzein
+beanshooter
 blinks
 benzene
 bastian
