@@ -662,7 +662,6 @@ adjacent
 anodynous
 abondance
 aimara
-apostrophation
 abonnement
 anemographic
 aborad
@@ -3196,6 +3195,7 @@ amizilis
 antispace
 actionizing
 actionless
+apostrophation
 arrectary
 actions
 actious
