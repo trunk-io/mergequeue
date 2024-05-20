@@ -7207,7 +7207,6 @@ aphicidal
 aktivist
 aku
 akule
-akund
 akvavits
 al
 amphophile
@@ -10581,6 +10580,7 @@ amylin
 amylo
 amylocellulose
 amyloclastic
+akund
 aponogetonaceae
 antiredeposition
 aristolochiaceous
