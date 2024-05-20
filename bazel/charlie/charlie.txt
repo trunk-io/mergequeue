@@ -7241,7 +7241,6 @@ centrifugally
 centrifugate
 centrifugation
 centrifuge
-cavitates
 centrifuged
 centrifugence
 centrifuges
@@ -10569,6 +10568,7 @@ chiliastic
 chiliasts
 chilicote
 chilidium
+cavitates
 chilidogs
 coropo
 chylidrosis
