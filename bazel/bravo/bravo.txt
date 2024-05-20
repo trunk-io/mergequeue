@@ -754,7 +754,6 @@ badgerweed
 bandsawing
 badges
 badging
-badgir
 badhan
 badiaga
 breathy
@@ -16545,6 +16544,7 @@ bubo
 buboes
 bacillary
 bubonalgia
+badgir
 bubonic
 bealing
 bubonocele
