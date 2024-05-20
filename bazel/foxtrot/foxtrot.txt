@@ -1494,6 +1494,7 @@ faultfinder
 feuds
 fulminous
 faultful
+factorizations
 flytes
 follyproof
 fungillus
@@ -4223,7 +4224,6 @@ forfeits
 firesafety
 folderol
 fieldward
-factorizations
 fissicostate
 frightened
 floridians
