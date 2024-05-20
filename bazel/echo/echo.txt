@@ -4284,7 +4284,6 @@ emunct
 enteropathogenic
 emunctory
 electroencephalographic
-enlay
 emunctories
 epigraphical
 emunge
@@ -4462,6 +4461,7 @@ encases
 euryzygous
 eschevin
 exaggerator
+enlay
 encash
 epicardiac
 epiphyllum
