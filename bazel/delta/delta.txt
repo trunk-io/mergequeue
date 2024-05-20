@@ -1904,7 +1904,6 @@ diplanetic
 dithematic
 debridement
 dithecous
-debrief
 debriefing
 dowser
 debriefings
@@ -6617,6 +6616,7 @@ disshroud
 delimits
 desectionalize
 daps
+debrief
 desegmentation
 desegmented
 disordination
