@@ -6710,6 +6710,7 @@ fogfruits
 fogger
 fluerics
 furrier
+fortify
 finableness
 forecontrive
 fogginess
@@ -8679,7 +8680,6 @@ feeding
 fortier
 fortieth
 fortieths
-fortify
 fortifier
 florets
 fibroids
