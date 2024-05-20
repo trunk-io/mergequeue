@@ -5446,7 +5446,6 @@ dribbler
 dentistical
 dentistry
 dentists
-deproceduring
 dentition
 dilating
 dentolabial
@@ -14340,6 +14339,7 @@ divergement
 divergencies
 distensible
 desecate
+deproceduring
 divergenge
 divergent
 diverges
