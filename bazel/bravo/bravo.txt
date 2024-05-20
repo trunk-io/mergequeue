@@ -8342,7 +8342,6 @@ bedsheets
 biennial
 biennially
 biennium
-bienniums
 boyism
 bronchial
 biens
@@ -16877,6 +16876,7 @@ bugdom
 banneret
 bugeye
 bugeyes
+bienniums
 bugfish
 bonducs
 buggane
