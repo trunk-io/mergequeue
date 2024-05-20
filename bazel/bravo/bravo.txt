@@ -6801,7 +6801,6 @@ busyhead
 bloodshotten
 berycidae
 biarticulated
-berycine
 berycoid
 bansalague
 bridgeboard
@@ -16249,6 +16248,7 @@ bruang
 bruce
 balsamer
 brucellae
+berycine
 baggage
 bunomastodontidae
 besmuts
