@@ -4863,7 +4863,6 @@ flake
 flaked
 foundations
 funiculi
-flakelet
 fruitfulness
 footed
 flakiest
@@ -4992,6 +4991,7 @@ forekeel
 forehatchway
 flanque
 faconne
+flakelet
 flapdock
 fluvialist
 flaperon

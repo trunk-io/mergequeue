@@ -11079,7 +11079,6 @@ crimean
 chirurgeonly
 chirurgery
 chis
-chiseled
 curuba
 chiseler
 chiselers
@@ -15225,6 +15224,7 @@ clackety
 clacking
 clacks
 clad
+chiseled
 cladanthous
 cladding
 couplet
