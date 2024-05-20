@@ -24,7 +24,6 @@ granitize
 gastroadynamic
 gabbiness
 gunsling
-gabble
 gabbled
 gabbler
 gabblers
@@ -833,6 +832,7 @@ gangliac
 grooper
 gris
 ghrush
+gabble
 goldin
 gottlieb
 galways
