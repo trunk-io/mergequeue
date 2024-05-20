@@ -2049,6 +2049,7 @@ bankbooks
 bankcard
 becrawl
 bankcards
+bibliopegy
 banked
 bethought
 bankerdom
@@ -8054,7 +8055,6 @@ bibliomanianism
 bibliomanist
 bogwoods
 bloodthirsty
-bibliopegy
 bibliopegically
 bibliopegistical
 bibliophagous
