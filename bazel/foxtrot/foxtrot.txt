@@ -1268,7 +1268,6 @@ fluidextract
 fluorography
 fasinite
 flavine
-fractioning
 fassalite
 fastbacks
 feower
@@ -6661,6 +6660,7 @@ frontes
 flunkeyhood
 fillip
 foehn
+fractioning
 foehnlike
 foehns
 foeish
