@@ -11360,7 +11360,6 @@ chlorococcaceae
 chlorococcales
 cyanotrichite
 coincider
-chlorococcum
 chlorococcus
 chlorocresol
 chlorodyne
@@ -27509,6 +27508,7 @@ cheongsam
 coal
 covariant
 clavier
+chlorococcum
 cuban
 covariate
 covariates
