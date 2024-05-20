@@ -3240,7 +3240,6 @@ fusilade
 flavourer
 flotages
 furling
-ficins
 ficklest
 ficklety
 fosterable
@@ -11719,6 +11718,7 @@ forecool
 futurition
 futurize
 fanioned
+ficins
 fratority
 footrail
 futurology
