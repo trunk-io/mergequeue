@@ -1347,6 +1347,7 @@ balboas
 bordermark
 barrowcoat
 botrylle
+borderlands
 bulgarian
 balbusard
 bidarkas
@@ -13819,7 +13820,6 @@ buttonhook
 brachycephal
 bowelled
 bowelless
-borderlands
 baggy
 bowelling
 bower
