@@ -8909,7 +8909,6 @@ dicentras
 dicephalous
 dicephalus
 diceplay
-dyads
 diceras
 dicerous
 dicers
@@ -17612,6 +17611,7 @@ drumroll
 drumrolls
 drums
 drumslade
+dyads
 drumstick
 drumsticks
 disilane
