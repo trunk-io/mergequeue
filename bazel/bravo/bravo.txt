@@ -2531,7 +2531,6 @@ bargeload
 bargeman
 bargemaster
 booklice
-barger
 bloomage
 bardash
 barges
@@ -3621,6 +3620,7 @@ bathmat
 bathmats
 bereaven
 bollard
+barger
 bathmism
 bathochromatism
 bathochromy
