@@ -1581,7 +1581,6 @@ enlivens
 egoism
 egoist
 egoistical
-egoisticalness
 embay
 eyewitnesses
 effranchise
@@ -7139,6 +7138,7 @@ envisaged
 empemata
 envisagement
 envisaging
+egoisticalness
 emulable
 extrapolative
 envisioning
