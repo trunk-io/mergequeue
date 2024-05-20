@@ -4087,7 +4087,6 @@ finnier
 frostation
 fimble
 featherbrain
-fattable
 finecomb
 fellatrixes
 fletching
@@ -5173,6 +5172,7 @@ flacket
 fratercula
 flav
 flunk
+fattable
 flavanilin
 flambeing
 floosies
