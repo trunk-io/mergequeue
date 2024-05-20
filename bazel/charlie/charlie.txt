@@ -6402,7 +6402,6 @@ cavayard
 cavalcade
 cavalcaded
 cavalcades
-cavalcading
 cavalero
 cardinalist
 cavalier
@@ -20180,6 +20179,7 @@ committeemen
 committees
 committeeship
 committeewomen
+cavalcading
 committent
 chutes
 committible
