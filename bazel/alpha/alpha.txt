@@ -2940,7 +2940,6 @@ acroparalysis
 anilopyrine
 amidopyrine
 acropathy
-acropathology
 adaptation
 achromatin
 acropetal
@@ -3194,6 +3193,7 @@ actiones
 aurivorous
 actionist
 amizilis
+acropathology
 antispace
 actionizing
 actionless
