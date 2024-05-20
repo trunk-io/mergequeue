@@ -2909,7 +2909,6 @@ grasped
 gentlemanize
 gingelies
 gentlemanly
-gentlemanlikeness
 gentlemanliness
 gentlemanship
 gayer
@@ -9765,6 +9764,7 @@ gonidiospore
 graphospasm
 gaels
 glugglug
+gentlemanlikeness
 golem
 glycogenous
 gluey
