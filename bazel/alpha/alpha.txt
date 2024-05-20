@@ -12853,7 +12853,6 @@ angle
 angled
 affrightingly
 asps
-angledog
 argenol
 anglehook
 anglepod
@@ -21477,6 +21476,7 @@ asperses
 arcsine
 aspersing
 aspersion
+angledog
 anticipatorily
 aspersive
 allagophyllous
