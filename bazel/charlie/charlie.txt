@@ -9516,7 +9516,6 @@ chebog
 chebule
 chebulic
 chechako
-chechakos
 chechem
 chechia
 callityping
@@ -29155,6 +29154,7 @@ cryolite
 catwalks
 cryolites
 criolla
+chechakos
 costards
 cryological
 cryometry
