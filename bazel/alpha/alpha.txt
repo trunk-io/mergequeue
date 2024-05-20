@@ -2273,7 +2273,6 @@ achromatizable
 achromatization
 achromatize
 achromatizing
-achromatocyte
 achromatolysis
 achromatope
 achromatophile
@@ -18495,6 +18494,7 @@ araneidan
 afflictedness
 aficionado
 araneids
+achromatocyte
 araneina
 araneoidea
 acetobacter
