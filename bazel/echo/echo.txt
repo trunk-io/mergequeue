@@ -8487,7 +8487,6 @@ eponychium
 enwood
 ethopoetic
 eponym
-eponymy
 eponymies
 encarnadine
 eponymist
@@ -13264,6 +13263,7 @@ ethicalities
 euphrasy
 eclipsareon
 exploringly
+eponymy
 extracosmic
 encephalodialysis
 explosimeter
