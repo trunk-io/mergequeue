@@ -1912,6 +1912,7 @@ banditti
 bandle
 bandleader
 blastoff
+bipont
 breadwinners
 bandlimits
 bostangi
@@ -9415,7 +9416,6 @@ baccae
 botches
 bipolarity
 bipolarization
-bipont
 bipontine
 biporose
 bipotentiality
