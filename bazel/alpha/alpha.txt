@@ -4007,7 +4007,6 @@ adjourns
 adjoust
 adjt
 adjudgeable
-adjudger
 aleyrodidae
 adjudging
 adjudgment
@@ -14662,6 +14661,7 @@ anthropotheist
 anthropotheistic
 anthropotomy
 anthropotomical
+adjudger
 antidiphtherin
 anticline
 autobiographies
