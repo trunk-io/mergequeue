@@ -7205,7 +7205,6 @@ centranth
 centrarchid
 centrarchoid
 centraxonia
-centraxonial
 centre
 centreboard
 centred
@@ -14365,6 +14364,7 @@ circumfluent
 cytinaceae
 circumfluous
 ceratobatrachinae
+centraxonial
 circumforaneous
 circumfulgent
 circumfuse
