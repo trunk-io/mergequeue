@@ -4831,6 +4831,7 @@ fisheries
 followable
 flails
 flain
+fustanelle
 flubdubberies
 fitments
 futile
@@ -11619,7 +11620,6 @@ fluorindine
 febrifugal
 fieri
 foregame
-fustanelle
 fetch
 fioretti
 fustet
