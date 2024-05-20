@@ -4326,6 +4326,7 @@ friendlies
 fise
 forb
 fanfish
+fourrier
 fisetin
 focuser
 fibroplastic
@@ -9011,7 +9012,6 @@ fontainea
 fibrilliform
 fourrageres
 flixweed
-fourrier
 furnisher
 flagellates
 fourscore
