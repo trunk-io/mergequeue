@@ -712,7 +712,6 @@ globulicide
 glint
 gallows
 giterne
-gonyoncus
 graduale
 gunfires
 gelosine
@@ -7679,6 +7678,7 @@ gonion
 growlingly
 grenadier
 geography
+gonyoncus
 gunbarrel
 graffias
 graffiti
