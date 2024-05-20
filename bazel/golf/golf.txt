@@ -3653,6 +3653,7 @@ ghastlier
 glove
 gunbearer
 ghastliest
+gynocardia
 gatewaymen
 groups
 gelfomino
@@ -4511,7 +4512,6 @@ grumps
 ghaut
 ginnings
 gynobase
-gynocardia
 gadget
 gluer
 gavelling
