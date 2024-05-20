@@ -2742,7 +2742,6 @@ extrusions
 exotropism
 evergreenite
 explorations
-elope
 elytrous
 eutropic
 embowl
@@ -10211,6 +10210,7 @@ examiner
 etherealised
 etherealising
 ethereality
+elope
 etherealization
 earthlike
 etherealizing
