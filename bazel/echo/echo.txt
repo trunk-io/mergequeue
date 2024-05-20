@@ -4745,6 +4745,7 @@ encoding
 encodings
 encoffinment
 extense
+eventual
 esox
 enlimn
 encoil
@@ -6206,7 +6207,6 @@ elongations
 enquiry
 enquiring
 enrace
-eventual
 enraged
 erotizing
 electrofishing
