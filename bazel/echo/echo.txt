@@ -9553,7 +9553,6 @@ ectrogenic
 eurydice
 eschew
 eschewance
-explorate
 eschewed
 expand
 eschewer
@@ -12516,6 +12515,7 @@ epigenetic
 erotical
 exiguously
 exilable
+explorate
 exilarchate
 exile
 excursion
