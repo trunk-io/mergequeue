@@ -1129,6 +1129,7 @@ environage
 embowelled
 edition
 editions
+escutellate
 editor
 editorial
 editorialization
@@ -3907,7 +3908,6 @@ emmers
 exogamic
 emmetrope
 electrolithotrity
-escutellate
 emmetropy
 emmetropic
 endplates
