@@ -6316,6 +6316,7 @@ garrisoned
 glomeration
 greengill
 goaty
+gnathobasic
 geckotoid
 gonfalons
 goatpox
@@ -10373,7 +10374,6 @@ graveless
 graminivore
 garbanzos
 granulomas
-gnathobasic
 gutta
 gyrenes
 gullies

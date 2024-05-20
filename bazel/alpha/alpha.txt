@@ -6858,6 +6858,7 @@ airdate
 afterband
 amyrin
 airdock
+anisotropic
 airdrome
 airdromes
 airdrop
@@ -12382,7 +12383,6 @@ audits
 androcyte
 arteriostrepsis
 androclclinia
-anisotropic
 androclinia
 androclinium
 androclus
