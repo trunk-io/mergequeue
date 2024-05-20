@@ -5828,7 +5828,6 @@ glossoepiglottic
 gulinulae
 goldsmithery
 glossohyal
-gaultherase
 gyres
 gobos
 glossolalia
@@ -9786,6 +9785,7 @@ guayabi
 guayabo
 grat
 guaiac
+gaultherase
 gastrocolpotomy
 guayacan
 grasping

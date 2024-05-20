@@ -17352,7 +17352,6 @@ archimago
 apomorphine
 almudes
 aponeuroses
-aponeurosis
 aponeurotic
 antivirus
 aponeurotomy
@@ -21693,6 +21692,7 @@ asseal
 assecuration
 anagua
 assecure
+aponeurosis
 assecution
 assegai
 amend
