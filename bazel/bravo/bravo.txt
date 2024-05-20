@@ -2847,6 +2847,7 @@ barotropic
 barouche
 beguin
 barouchette
+busboy
 barouni
 baroxyton
 barque
@@ -6980,7 +6981,6 @@ burley
 berzeliite
 bes
 barbets
-busboy
 besagne
 besague
 brachyceric
