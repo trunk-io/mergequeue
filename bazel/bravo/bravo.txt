@@ -4780,7 +4780,6 @@ bedlamism
 bedlamite
 bedlamitish
 bedub
-bovid
 basil
 bedlamize
 bloomeria
@@ -8605,6 +8604,7 @@ bilaminar
 bilander
 becolor
 bilateral
+bovid
 bilateralism
 bilaterality
 battercake
