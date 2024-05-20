@@ -6887,7 +6887,6 @@ entomophila
 entomophytous
 entomophobia
 entomophthora
-epic
 entomophthoraceae
 entomophthoraceous
 eschalot
@@ -11446,6 +11445,7 @@ eden
 eventognathous
 embanking
 estoppal
+epic
 eventration
 events
 eventuality
