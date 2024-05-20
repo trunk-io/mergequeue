@@ -6578,7 +6578,6 @@ acquitting
 aha
 ahab
 ahamkara
-antienthusiasm
 ahantchuyuk
 ahartalav
 ahaunch
@@ -8960,6 +8959,7 @@ allopathist
 azoxybenzoic
 audited
 araceae
+antienthusiasm
 albespine
 allopatry
 auxiliatory
