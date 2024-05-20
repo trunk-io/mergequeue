@@ -979,7 +979,6 @@ epicures
 edaphosauria
 edaphosaurid
 edaphosaurus
-explosibility
 epoxide
 emblazing
 edder
@@ -1923,6 +1922,7 @@ electroceramic
 ejectment
 ejector
 engrossment
+explosibility
 espresso
 ejicient
 electrics
