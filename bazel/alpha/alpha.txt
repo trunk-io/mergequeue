@@ -8060,6 +8060,7 @@ accrementitial
 aer
 alfaqui
 alfaquin
+aminovaleric
 alfaquins
 alfaquis
 amoebean
@@ -19905,7 +19906,6 @@ armamentary
 armamentarium
 armangite
 armary
-aminovaleric
 armarian
 adaptivity
 armarium
