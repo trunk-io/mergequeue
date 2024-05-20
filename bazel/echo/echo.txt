@@ -3378,6 +3378,7 @@ embattlement
 embattles
 embed
 exsibilate
+equicontinuous
 embedment
 embelic
 embelin
@@ -8620,7 +8621,6 @@ equibiradiate
 ensouling
 equicaloric
 equicohesive
-equicontinuous
 electrotherapeutic
 encompassing
 equiconvex
