@@ -525,6 +525,7 @@ entosthoblast
 echinocereus
 echinochrome
 echinococcosis
+eyedness
 epedaphic
 echinococcus
 echinoderidae
@@ -7953,7 +7954,6 @@ ended
 ergophobic
 elaphure
 enframes
-eyedness
 ecclesiography
 ensiferi
 epizootiology
