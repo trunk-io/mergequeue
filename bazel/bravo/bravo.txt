@@ -3391,7 +3391,6 @@ basoid
 baraithas
 basoko
 beltine
-basommatophora
 bason
 basongo
 bargham
@@ -4007,6 +4006,7 @@ baritone
 botonny
 bdellovibrio
 bromised
+basommatophora
 bds
 bea
 bussed

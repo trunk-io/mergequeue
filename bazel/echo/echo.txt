@@ -5129,7 +5129,6 @@ essive
 endogenously
 electo
 embroider
-endoglobular
 eudaemonist
 eleme
 embossment
@@ -9410,6 +9409,7 @@ emulge
 eructating
 eructative
 eruction
+endoglobular
 eructs
 exegetic
 entertainments
