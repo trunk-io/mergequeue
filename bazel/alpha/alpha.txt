@@ -7212,7 +7212,6 @@ akule
 akund
 akvavits
 al
-antiquarium
 amphophile
 ala
 aeciotelia
@@ -22894,6 +22893,7 @@ antireductive
 archpriesthood
 atrickle
 atriensis
+antiquarium
 atriocoelomic
 atriopore
 advertize
