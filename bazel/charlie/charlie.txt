@@ -2610,6 +2610,7 @@ cajoler
 canion
 canyon
 chromophile
+calibrators
 canioned
 canions
 canis
@@ -17786,7 +17787,6 @@ codal
 cerebrasthenia
 codamin
 compense
-calibrators
 cardiography
 codas
 cardialgic
