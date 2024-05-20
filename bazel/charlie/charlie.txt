@@ -7299,6 +7299,7 @@ centrosphere
 casuistical
 centrum
 closeted
+coercibleness
 centrums
 centrutra
 cents
@@ -14533,7 +14534,6 @@ cirque
 cirques
 carromata
 cirrate
-coercibleness
 cirrated
 cryptography
 compounds
