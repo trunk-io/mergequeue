@@ -3349,7 +3349,6 @@ basker
 basket
 basketballer
 basketballs
-basketfuls
 bay
 bathers
 basketing
@@ -11884,6 +11883,7 @@ bodiment
 boding
 bodyshirt
 borussian
+basketfuls
 barcan
 barytocelestine
 bodysurfed
