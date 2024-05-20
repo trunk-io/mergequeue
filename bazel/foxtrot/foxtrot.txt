@@ -5635,7 +5635,6 @@ fablemonger
 funded
 flings
 flinkite
-fator
 forsung
 fertilisability
 flint
@@ -9829,6 +9828,7 @@ fideicommissioner
 foreclaw
 forgathered
 frenetically
+fator
 frenula
 frenular
 freedstool
