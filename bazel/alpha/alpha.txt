@@ -9459,6 +9459,7 @@ altazimuth
 alter
 alterability
 alterable
+anaspidacea
 alterableness
 alterably
 alteration
@@ -14725,7 +14726,6 @@ antiboss
 antiapoplectic
 antiapostle
 antiaquatic
-anaspidacea
 antiar
 antiarchi
 antiarin
