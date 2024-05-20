@@ -7235,7 +7235,6 @@ centrifugalizing
 canalized
 centrifugaller
 centrifugally
-centrifugate
 centrifugation
 centrifuge
 cavitates
@@ -9213,6 +9212,7 @@ chartophylacium
 chartophylax
 chartreux
 centration
+centrifugate
 chartroom
 commonefaction
 charts
