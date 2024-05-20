@@ -12659,7 +12659,6 @@ curvedness
 chronology
 cleanish
 collembolan
-chronological
 chronologies
 chronologist
 cercle
@@ -13705,6 +13704,7 @@ cymballed
 cymballike
 cob
 cymballing
+chronological
 cimbalom
 cymbalom
 cimbaloms
