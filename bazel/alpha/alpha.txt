@@ -4931,7 +4931,6 @@ aerobia
 asamblea
 antisubmarine
 aerobic
-aerobics
 aerobiological
 aerobiologically
 aerobiologist
@@ -15790,6 +15789,7 @@ ablet
 antimetathesis
 antheridiophore
 antiparasitically
+aerobics
 antiparliament
 antiparliamental
 apoquinamine
