@@ -877,7 +877,6 @@ baggers
 baggie
 barege
 baggier
-baggies
 baggiest
 bradypus
 bagging
@@ -9123,6 +9122,7 @@ betocsin
 biogenetic
 bibliographers
 beingless
+baggies
 blennothorax
 bacteriotropin
 biogenetics
