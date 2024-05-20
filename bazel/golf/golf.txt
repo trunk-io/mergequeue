@@ -6760,7 +6760,6 @@ gonidiophore
 gonimium
 gyrostats
 gaudsman
-goninidia
 glomerate
 geyseral
 gruine
@@ -7497,6 +7496,7 @@ genderless
 geraniol
 gurries
 gelatiniferous
+goninidia
 grounded
 grinagog
 gowdie
