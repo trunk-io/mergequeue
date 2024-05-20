@@ -5426,6 +5426,7 @@ furfuran
 fleshlier
 fleshliest
 fleshliness
+fluoaluminate
 fiddleneck
 fittiest
 fleshmonger
@@ -6438,7 +6439,6 @@ fluoroborate
 foreship
 fluoroform
 ferritin
-fluoaluminate
 fluorogen
 fluorometry
 file
