@@ -6482,6 +6482,7 @@ agriot
 agriotype
 agriotypidae
 agrypnia
+abstricts
 agrypnotic
 acajou
 agrising
@@ -16848,7 +16849,6 @@ anterointerior
 aphelian
 anthophagy
 aphelilia
-abstricts
 aphelinus
 aphelion
 aphemia
