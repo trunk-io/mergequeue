@@ -348,7 +348,6 @@ beknot
 backfriend
 borgh
 backfurrow
-birdlimed
 backgame
 bepuzzle
 beamlet
@@ -15470,6 +15469,7 @@ bryonia
 belloot
 bestiarianism
 bryonidin
+birdlimed
 belows
 bryophyllum
 benzaldiphenyl
