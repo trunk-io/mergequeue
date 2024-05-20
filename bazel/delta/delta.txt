@@ -2513,6 +2513,7 @@ deblocking
 dirigent
 deckhand
 duckwing
+darkeners
 deerstalker
 deckhead
 deckle
@@ -15066,7 +15067,6 @@ dognap
 dognaped
 derobe
 dactylopatagium
-darkeners
 dearly
 defectology
 dowdiness
