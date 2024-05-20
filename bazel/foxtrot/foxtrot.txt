@@ -1673,7 +1673,6 @@ farcin
 familiar
 faradocontractility
 four
-fdnames
 fdtype
 fdub
 fdubs
@@ -7016,6 +7015,7 @@ fulcra
 functor
 frittered
 fondues
+fdnames
 forfeiter
 frowzily
 fonduk
