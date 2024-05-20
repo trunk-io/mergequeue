@@ -6689,6 +6689,7 @@ gluconeogenetic
 gainsaid
 gallinula
 galeass
+graphalloy
 gorgonian
 granivorous
 gonaduct
@@ -8116,7 +8117,6 @@ grapeskin
 grapestalk
 grapevines
 grapewise
-graphalloy
 graphanalysis
 gravid
 gigabit
