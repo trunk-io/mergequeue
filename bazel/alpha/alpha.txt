@@ -2051,7 +2051,6 @@ acetolytic
 acetometer
 acetometry
 acetometric
-acetometrical
 accroachment
 affidavits
 aleurites
@@ -18394,6 +18393,7 @@ arabism
 arabist
 arabit
 arabite
+acetometrical
 arabitol
 arabized
 anacatharsis
