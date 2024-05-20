@@ -3409,6 +3409,7 @@ bassara
 biotechnics
 bassetta
 bemata
+bisects
 bughouse
 beholders
 bassette
@@ -9719,7 +9720,6 @@ bisection
 bisectors
 bisectrices
 busybodyness
-bisects
 bisellium
 banalize
 bysen
