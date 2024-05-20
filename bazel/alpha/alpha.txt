@@ -19179,6 +19179,7 @@ acanthocephala
 allegoric
 alit
 absorbant
+arrowlike
 alphanumeric
 alveoloclasia
 agritos
@@ -20372,7 +20373,6 @@ alkyl
 ashet
 asphyxiative
 arrowlet
-arrowlike
 arrowplate
 abortifacient
 arrowroots
