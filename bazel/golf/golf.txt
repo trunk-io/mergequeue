@@ -2965,6 +2965,7 @@ genuflex
 grouters
 glyptal
 gemsbucks
+gol
 golkakra
 granddad
 groggier
@@ -7280,7 +7281,6 @@ glareole
 gossep
 globe
 goujay
-gol
 gossy
 gossip
 gossipdom
