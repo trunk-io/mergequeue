@@ -11210,6 +11210,7 @@ amphioxi
 amphioxidae
 amphioxis
 amphioxus
+anilic
 amphioxuses
 amphipeptone
 amphiphithyra
@@ -13121,7 +13122,6 @@ anil
 anilau
 anileness
 appetible
-anilic
 anilide
 anilidic
 aniliid
