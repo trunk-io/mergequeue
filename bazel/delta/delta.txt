@@ -6851,6 +6851,7 @@ desklike
 dunks
 deskman
 desks
+diverse
 deleted
 destined
 deslime
@@ -14347,7 +14348,6 @@ divergent
 diverges
 divers
 dzerin
-diverse
 diversify
 diversifiable
 diversification
