@@ -5864,7 +5864,6 @@ flocculator
 forts
 froggiest
 flocculency
-flocculent
 formalising
 floccules
 frigidoreceptor
@@ -11218,6 +11217,7 @@ failles
 fiendliness
 fungologist
 frescoists
+flocculent
 fungosities
 fungused
 funguses

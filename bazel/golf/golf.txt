@@ -5551,7 +5551,6 @@ goujon
 glyptotherium
 globeholder
 glires
-gliridae
 glirine
 galet
 groovy
@@ -5720,6 +5719,7 @@ glomerule
 glomerulonephritis
 gaduin
 glomerulose
+gliridae
 geomorphogeny
 graphomaniac
 galapee
