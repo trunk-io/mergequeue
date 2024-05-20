@@ -1098,6 +1098,7 @@ clamworm
 calcinosis
 calciobiotite
 calciocarnotite
+cancan
 calcioferrite
 calcioscheelite
 calciovolborthite
@@ -6119,7 +6120,6 @@ cowherd
 cattlebush
 cattlefold
 cicely
-cancan
 cattlehide
 cattleya
 cyclohexane
