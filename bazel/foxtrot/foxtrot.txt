@@ -2963,6 +2963,7 @@ fastings
 feudatory
 fanciable
 feudatories
+flashforward
 feuded
 forktail
 footmark
@@ -7722,7 +7723,6 @@ flipping
 foreignism
 footprints
 franchisement
-flashforward
 foreignly
 foreignness
 foreigns
