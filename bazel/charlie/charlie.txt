@@ -1952,7 +1952,6 @@ camino
 camion
 camions
 camisa
-camisadoes
 camisados
 camisard
 critickin
@@ -25665,6 +25664,7 @@ corposant
 corps
 corpsbruder
 corpse
+camisadoes
 corpselikeness
 corpses
 creeshy
