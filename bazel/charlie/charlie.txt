@@ -5868,6 +5868,7 @@ catfight
 creeled
 catfish
 catfoot
+cerule
 catfooted
 cambists
 catgut
@@ -7842,7 +7843,6 @@ certosa
 certose
 certosina
 certosino
-cerule
 cerulean
 ceruleans
 cerulein
