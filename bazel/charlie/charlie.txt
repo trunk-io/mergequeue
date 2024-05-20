@@ -2075,7 +2075,6 @@ camper
 channeler
 campers
 chiloma
-campesinos
 campestral
 cordelier
 campfight
@@ -10187,6 +10186,7 @@ cheveril
 celioncus
 chevesaile
 chevesne
+campesinos
 chevetaine
 chevies
 chevying
