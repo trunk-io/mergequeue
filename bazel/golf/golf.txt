@@ -805,7 +805,6 @@ genae
 galvanoplasty
 gavel
 gridder
-galvanopsychic
 gatefold
 galvanopuncture
 goatherd
@@ -9412,6 +9411,7 @@ gournard
 galliot
 groundberry
 gluttingly
+galvanopsychic
 groundbird
 groundbreaker
 gypsums
