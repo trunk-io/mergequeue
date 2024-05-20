@@ -11528,6 +11528,7 @@ evidences
 evidencing
 ethicophysical
 evident
+edgeless
 ergasterion
 ejaculation
 evidential
@@ -11969,7 +11970,6 @@ excide
 eristical
 encuirassed
 exocataphoria
-edgeless
 episcope
 excides
 encephalitis
