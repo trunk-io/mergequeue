@@ -2147,7 +2147,6 @@ campodeoid
 campody
 campong
 campongs
-camponotus
 campoody
 coteline
 camporee
@@ -9760,6 +9759,7 @@ cheilostomata
 cheilostomatous
 censer
 cheilotomy
+camponotus
 cheimatophobia
 condemnably
 cheyneys
