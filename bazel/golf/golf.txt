@@ -6694,7 +6694,6 @@ grossularious
 gritter
 gruss
 gunnysack
-gondolas
 global
 gondoletta
 gangliform
@@ -8919,6 +8918,7 @@ gull
 gnathion
 giveaway
 grieffully
+gondolas
 grudges
 grivoise
 grievable

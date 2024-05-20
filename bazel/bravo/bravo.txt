@@ -2727,6 +2727,7 @@ barnyards
 barnier
 barillas
 butein
+bryon
 barnlike
 beadflush
 barnman
@@ -9281,7 +9282,6 @@ biosome
 biospeleology
 boniest
 biosphere
-bryon
 bionomical
 biostatic
 biostatical
