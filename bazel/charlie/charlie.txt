@@ -4749,7 +4749,6 @@ cubicalness
 carpocephala
 clementine
 carpocephalum
-caryotins
 carpocerite
 carpocratian
 carpogam
@@ -30531,6 +30530,7 @@ cubododecahedral
 concarnation
 cuboid
 cuboidal
+caryotins
 caldera
 cuboides
 cuboids
