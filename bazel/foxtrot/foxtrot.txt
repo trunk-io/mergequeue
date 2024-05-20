@@ -9318,7 +9318,6 @@ formalazine
 fikie
 frontispieced
 flary
-fraktur
 framboise
 fasciolet
 forgeries
@@ -9446,6 +9445,7 @@ facing
 fettler
 fondant
 frenum
+fraktur
 franticly
 freeloading
 forged
