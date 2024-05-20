@@ -4798,7 +4798,6 @@ filmlands
 fetted
 flags
 flagship
-firepower
 formative
 fainer
 floribunda
@@ -10537,6 +10536,7 @@ forays
 faunlike
 frottola
 fabianism
+firepower
 fireflower
 fetishry
 flayers
