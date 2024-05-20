@@ -2841,7 +2841,6 @@ cant
 cantabank
 cantabile
 cantabri
-clothesmonger
 chalcis
 cantabrian
 cantabrigian
@@ -12580,6 +12579,7 @@ custroun
 chromoscopy
 chromoscopic
 chromosomally
+clothesmonger
 condensate
 chromosomes
 cornercap
