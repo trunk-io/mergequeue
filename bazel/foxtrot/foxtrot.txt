@@ -6285,7 +6285,6 @@ fluidist
 fluidity
 fluidization
 fluidized
-followup
 fluidmeter
 fairylands
 faulted
@@ -6620,6 +6619,7 @@ floriculturally
 fathering
 fullness
 foaming
+followup
 foamless
 floodway
 foamlike
