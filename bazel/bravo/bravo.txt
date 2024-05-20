@@ -3995,7 +3995,6 @@ bdellostoma
 booksellerish
 bocstaff
 bdellostomatidae
-brickbats
 bacteritic
 bdelloura
 bdellouridae
@@ -9206,6 +9205,7 @@ biophagous
 biophilous
 biophysic
 branchstand
+brickbats
 biophysiography
 biophysiology
 biophysiologist
