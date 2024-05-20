@@ -7358,7 +7358,6 @@ bloom
 bestow
 bestowals
 bestower
-bestowment
 bestows
 bestraddle
 blades
@@ -17901,6 +17900,7 @@ barnburner
 banquetings
 biscanism
 buscarl
+bestowment
 bullish
 bused
 brisks
