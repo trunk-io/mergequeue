@@ -4933,6 +4933,7 @@ bindings
 blackwashing
 belavendered
 bedwards
+bepommel
 bedwarf
 bedtimes
 bedwarfing
@@ -12584,7 +12585,6 @@ bakemeat
 bonita
 bordered
 bonitary
-bepommel
 beauing
 bonitarian
 bonity
