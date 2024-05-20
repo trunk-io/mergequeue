@@ -235,6 +235,7 @@ facultatively
 faculty
 faculties
 frostbound
+fearing
 facultize
 frightening
 firmest
@@ -2013,7 +2014,6 @@ feest
 fooless
 feet
 feeze
-fearing
 feezes
 flagfish
 fefnicute
