@@ -11134,6 +11134,7 @@ disauthorize
 diplomacy
 dysautonomia
 disavail
+downway
 daimonion
 discrepance
 disavowable
@@ -16382,7 +16383,6 @@ downtroddenness
 downturn
 downturns
 domy
-downway
 downwardly
 dispellable
 dogtrotted
