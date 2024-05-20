@@ -1476,7 +1476,6 @@ fatuoid
 forenews
 flagellants
 fatuus
-fairtime
 faubourg
 fantasie
 faubourgs
@@ -11317,6 +11316,7 @@ flexured
 focalising
 firedog
 fellen
+fairtime
 furciferine
 fusel
 feverfew
