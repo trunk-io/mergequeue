@@ -4525,7 +4525,6 @@ becloaks
 birdwomen
 blackfriars
 beclog
-beclogged
 bludging
 beclogging
 beclogs
@@ -4735,6 +4734,7 @@ bediaper
 bozze
 bediapering
 burelly
+beclogged
 boxiness
 broiders
 bedye
