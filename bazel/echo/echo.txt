@@ -442,7 +442,6 @@ ecart
 evector
 earsore
 expandability
-ecclesia
 ecclesiarch
 ecclesiarchy
 ecclesiast
@@ -7744,6 +7743,7 @@ epidendrum
 echoer
 epiderma
 exta
+ecclesia
 epidermal
 exquisitiveness
 enthelmintha
