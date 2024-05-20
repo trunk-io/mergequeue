@@ -5327,7 +5327,6 @@ borderer
 blinds
 begem
 bloods
-begettal
 begetter
 broth
 bandagist
@@ -6483,6 +6482,7 @@ bocklogged
 buhrstone
 benzdiazine
 bipolarize
+begettal
 ballbuster
 benzdifuran
 benzdioxazine
