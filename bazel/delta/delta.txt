@@ -2787,6 +2787,7 @@ defeaters
 decorticated
 disembrace
 decortication
+dematerialization
 dotlike
 diagnoses
 decorticator
@@ -14495,7 +14496,6 @@ duplicately
 detents
 divisions
 divisive
-dematerialization
 divisively
 divisiveness
 divisor
