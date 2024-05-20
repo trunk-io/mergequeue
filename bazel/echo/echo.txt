@@ -10344,7 +10344,6 @@ ethylsulphuric
 encoffin
 ethylthioethane
 ethylthioether
-evectic
 ethinamate
 ethyne
 ethynes
@@ -14068,6 +14067,7 @@ errantry
 excogitable
 extravertish
 elaborations
+evectic
 extravillar
 extravisceral
 epigastral
