@@ -6398,7 +6398,6 @@ cav
 cavae
 ceratites
 cavaedium
-cavayard
 cavalcade
 cavalcaded
 cavalcades
@@ -16943,6 +16942,7 @@ clumsiest
 clumsily
 chondromyoma
 cynic
+cavayard
 clunch
 certainer
 cyathium
