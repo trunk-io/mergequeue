@@ -11635,7 +11635,6 @@ cholecystolithiasis
 cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
-cholecystostomy
 cholecystostomies
 cholecystotomy
 cobbier
@@ -16790,6 +16789,7 @@ cloverleaves
 cloverley
 cloveroot
 cloverroot
+cholecystostomy
 crepitus
 clovewort
 castling
