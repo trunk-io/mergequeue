@@ -11257,6 +11257,7 @@ chloranaemia
 chloranemia
 chloranemic
 chloranhydride
+coronium
 chloranil
 chloranthaceae
 craniopagus
@@ -25584,7 +25585,6 @@ coronion
 coronis
 coronitis
 chese
-coronium
 coronobasilar
 coronofrontal
 coronograph
