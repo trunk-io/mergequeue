@@ -1182,7 +1182,6 @@ brakehand
 bajree
 bajury
 bunco
-bakairi
 bakal
 biasteric
 blowcase
@@ -4942,6 +4941,7 @@ bathtubs
 bindings
 blackwashing
 belavendered
+bakairi
 bedwards
 bedwarf
 bedtimes
