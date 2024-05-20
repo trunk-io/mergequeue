@@ -1477,7 +1477,6 @@ dbrn
 dc
 deoxygenate
 dca
-dcb
 dcollet
 dcor
 ddname
@@ -9961,6 +9960,7 @@ dirigomotor
 dimittis
 doubleheaders
 dimly
+dcb
 dimmed
 dimmer
 dimmers
