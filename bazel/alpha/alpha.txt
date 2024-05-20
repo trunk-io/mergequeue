@@ -251,7 +251,6 @@ abdom
 anhydrides
 abdomen
 araeometer
-abdomens
 abyssinian
 abdomina
 arian
@@ -8507,6 +8506,7 @@ audivise
 alkalising
 animator
 autoheterodyne
+abdomens
 alkalization
 alkalize
 alkalizer
