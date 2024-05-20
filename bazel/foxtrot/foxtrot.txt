@@ -7541,6 +7541,7 @@ fatbrained
 five
 fallacious
 forebodement
+forevalue
 forechase
 fuzils
 foretake
@@ -8121,7 +8122,6 @@ foretrace
 fluviovolcanic
 foreuse
 foreutter
-forevalue
 fibulas
 federalize
 flamier
