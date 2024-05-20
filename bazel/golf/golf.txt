@@ -2607,6 +2607,7 @@ gatha
 glycyls
 guttule
 goetia
+glycyl
 gradatim
 great
 guardianships
@@ -10764,7 +10765,6 @@ gutnish
 gynaecomorphous
 glossospasm
 gutsiness
-glycyl
 gutt
 guttae
 gondolet
