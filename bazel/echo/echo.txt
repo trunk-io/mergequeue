@@ -5972,7 +5972,6 @@ enlard
 evang
 exiguities
 enthusing
-enlargeable
 ethiopic
 echinorhinus
 enlargeableness
@@ -8358,6 +8357,7 @@ epithelioid
 eluxate
 epitheliolysis
 ependytes
+enlargeable
 earcap
 embrown
 epitheliolytic
