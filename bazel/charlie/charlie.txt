@@ -6932,7 +6932,6 @@ cembalos
 caecostomy
 cement
 cementa
-cemental
 coenocyte
 cementation
 chymosins
@@ -14299,6 +14298,7 @@ carmoisin
 circumaxillary
 cymose
 circumbasal
+cemental
 circumbendibus
 conception
 circumboreal
