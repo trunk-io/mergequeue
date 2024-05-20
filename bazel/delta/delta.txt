@@ -3484,6 +3484,7 @@ deflowered
 deflowerer
 distrustful
 duelists
+deletions
 deflowering
 deflowerment
 defluent
@@ -4083,7 +4084,6 @@ demur
 deleteriousness
 deletes
 deletion
-deletions
 dermatologic
 diphyodont
 delfts
