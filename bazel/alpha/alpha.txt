@@ -1746,7 +1746,6 @@ accumbent
 antimonarchic
 accumulable
 accumulate
-accumulated
 accumulating
 accumulation
 accumulativ
@@ -2574,6 +2573,7 @@ acoma
 archdissembler
 acomia
 acomous
+accumulated
 aconative
 acondylose
 adversity
