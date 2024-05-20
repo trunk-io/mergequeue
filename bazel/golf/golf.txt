@@ -4956,6 +4956,7 @@ glaciation
 gunmen
 glandule
 glacieret
+gutium
 glacierist
 glaciers
 glacify
@@ -10750,7 +10751,6 @@ granule
 glycerinate
 gotos
 gomerels
-gutium
 gimbals
 gallium
 gynostemiumia
