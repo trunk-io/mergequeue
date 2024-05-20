@@ -4828,6 +4828,7 @@ fungal
 flailing
 folksinging
 fisheries
+fingerwise
 followable
 flails
 flain
@@ -8293,7 +8294,6 @@ forjudging
 formularisation
 foiler
 forensicality
-fingerwise
 forjudgment
 fork
 forkedness
