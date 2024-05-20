@@ -644,7 +644,6 @@ damoetas
 damoiseau
 divined
 damolic
-destool
 deciduas
 damon
 damone
@@ -16348,6 +16347,7 @@ downslip
 decibel
 dy
 downslope
+destool
 dogeared
 downsman
 downstairs
