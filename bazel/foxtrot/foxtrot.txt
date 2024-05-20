@@ -7840,6 +7840,7 @@ foredesk
 foreparts
 forepass
 feedstuffs
+forwaste
 foliously
 forepaw
 forepaws
@@ -10651,7 +10652,6 @@ froebelist
 flechette
 foal
 frugalism
-forwaste
 fusicoccum
 flatnesses
 frugalities
