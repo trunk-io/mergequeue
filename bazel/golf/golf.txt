@@ -3209,7 +3209,6 @@ geoscopy
 gelasian
 geoscopic
 geoselenic
-geosid
 geosphere
 geostationary
 geostrategist
@@ -5211,6 +5210,7 @@ glycocholic
 guichet
 grocers
 glaucescent
+geosid
 gastrosoph
 glaucidium
 grapnels
