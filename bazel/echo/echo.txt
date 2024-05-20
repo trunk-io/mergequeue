@@ -7514,6 +7514,7 @@ epibatholithic
 epibatus
 epibenthic
 epiblast
+electromotion
 epiblastic
 ecalcavate
 enviously
@@ -12305,7 +12306,6 @@ ensamples
 ensued
 eds
 exemplaric
-electromotion
 electromerism
 endarchy
 exemplariness
