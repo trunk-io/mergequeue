@@ -2448,7 +2448,6 @@ balarao
 betowel
 bardolater
 bromoiodide
-bardolph
 bards
 bardship
 bookdealer
@@ -10715,6 +10714,7 @@ bleacherman
 bleachers
 bleachfield
 balr
+bardolph
 bleachground
 bedarken
 boardy
