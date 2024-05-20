@@ -2862,7 +2862,6 @@ fusht
 frontosquamosal
 fitcher
 faunae
-fenestration
 filanders
 farmsteads
 fetching
@@ -5618,6 +5617,7 @@ fatalness
 forecabin
 forthbringer
 freighters
+fenestration
 foulnesses
 faff
 frondous
