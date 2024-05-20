@@ -12486,7 +12486,6 @@ chromididae
 chromidiosome
 circuses
 celsitude
-chromidium
 chromidrosis
 chromyl
 chroming
@@ -30448,6 +30447,7 @@ cuartino
 cuarto
 cub
 cuba
+chromidium
 contradictive
 cubages
 cubicovariant
