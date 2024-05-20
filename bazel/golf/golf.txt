@@ -1759,7 +1759,6 @@ gnotobiote
 goosemouth
 gravemaking
 gastroduodenitis
-gametophagia
 gastroduodenostomy
 ganodont
 gerbe
@@ -10050,6 +10049,7 @@ guerdons
 geotropic
 guidecraft
 gadflies
+gametophagia
 guereza
 gueridons
 guerilla
