@@ -2610,6 +2610,7 @@ guttifer
 genecology
 guanidopropionic
 gradienter
+gramoches
 genecor
 griever
 genep
@@ -4719,7 +4720,6 @@ gillhooter
 glycose
 gyroceran
 gallery
-gramoches
 golliwogg
 gorkhali
 gyrocompasses
