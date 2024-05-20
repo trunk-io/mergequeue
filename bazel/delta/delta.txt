@@ -10177,7 +10177,6 @@ dingman
 doven
 dingo
 dings
-dinguses
 dinical
 dinichthyid
 dinichthys
@@ -11809,6 +11808,7 @@ discriminational
 dimitted
 discriminatively
 downthrow
+dinguses
 despatch
 discriminativeness
 discriminator
