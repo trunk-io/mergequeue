@@ -5979,7 +5979,6 @@ agennesis
 agent
 agential
 admitty
-agenting
 agentive
 agentives
 agentry
@@ -14565,6 +14564,7 @@ anthropol
 anthropolatry
 antigraphy
 anthropolatric
+agenting
 anthropolite
 anthropolith
 acetophenine
