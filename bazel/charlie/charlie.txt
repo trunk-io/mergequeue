@@ -14253,7 +14253,6 @@ carbine
 circuitously
 charruan
 circuitry
-circuits
 clochan
 cardioneural
 circulant
@@ -15952,6 +15951,7 @@ cledde
 cocuiza
 cledgy
 calibrator
+circuits
 currishness
 cleech
 cleeked
