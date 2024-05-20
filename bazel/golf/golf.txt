@@ -2966,6 +2966,7 @@ genuflex
 grouters
 glyptal
 gemsbucks
+gesticulant
 golkakra
 granddad
 groggier
@@ -3552,7 +3553,6 @@ graphonomy
 gestes
 gussied
 gestical
-gesticulant
 gleeishly
 gesticulations
 gesticulative
