@@ -12918,7 +12918,6 @@ bootery
 booth
 boothage
 boothale
-bootheel
 bedspread
 boother
 bitterblain
@@ -16031,6 +16030,7 @@ bronzer
 bronzewing
 bio
 badgemen
+bootheel
 bathyorographical
 bronzing
 bleeding
