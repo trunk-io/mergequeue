@@ -3012,7 +3012,6 @@ deducing
 disdiaclast
 deducted
 deductibility
-deductible
 deductibles
 describers
 deductio
@@ -14599,6 +14598,7 @@ deferens
 djellabah
 dampest
 djellabas
+deductible
 djerib
 disquantity
 djersa
