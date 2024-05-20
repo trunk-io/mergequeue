@@ -12764,7 +12764,6 @@ begarie
 bookmarker
 bookmarks
 bimorph
-bookmobile
 bordereaux
 bookmobiles
 baroni
@@ -12884,6 +12883,7 @@ boor
 boorga
 bedsheet
 bacciform
+bookmobile
 boorishness
 boombox
 bertrandite
