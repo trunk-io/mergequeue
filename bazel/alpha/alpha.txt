@@ -6702,6 +6702,7 @@ afloat
 aiguelle
 askewness
 apterous
+agiotages
 amphoriskos
 apatosaurus
 aiguellette
@@ -14292,7 +14293,6 @@ anterolateral
 anterolaterally
 anteromedial
 anteromedian
-agiotages
 anteroom
 anterooms
 anteroparietal
