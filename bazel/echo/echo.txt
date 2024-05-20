@@ -7517,7 +7517,6 @@ encroaches
 exacum
 epibatholithic
 epibatus
-epibenthic
 epiblast
 epiblastic
 ecalcavate
@@ -9853,6 +9852,7 @@ elementarism
 edgier
 exospheres
 epicoelar
+epibenthic
 essedones
 eisoptrophobia
 epimorphic
