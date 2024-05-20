@@ -13681,7 +13681,6 @@ bourbonize
 bourder
 bourdon
 bourdons
-bant
 bourg
 befoolable
 bourgade
@@ -16877,6 +16876,7 @@ banneret
 bugeye
 bugeyes
 bugfish
+bant
 bonducs
 buggane
 bugger
