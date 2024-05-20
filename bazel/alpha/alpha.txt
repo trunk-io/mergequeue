@@ -11290,6 +11290,7 @@ aregenerative
 antialien
 amphithecium
 antepartum
+anseis
 amphithyra
 amphithyron
 amphithura
@@ -13963,7 +13964,6 @@ aradid
 ansarie
 abranchialism
 aerobium
-anseis
 anselm
 anser
 autocephaly
