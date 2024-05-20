@@ -570,7 +570,6 @@ galvanotaxis
 galleyworm
 geneat
 glimpsed
-galleon
 galleons
 galler
 gallera
@@ -5840,6 +5839,7 @@ glossologist
 glossophaga
 glossopharyngeus
 gettered
+galleon
 glancer
 goldweed
 gallate
