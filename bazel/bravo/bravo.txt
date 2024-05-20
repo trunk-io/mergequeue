@@ -3423,7 +3423,6 @@ betsey
 bassinet
 bassist
 beglic
-bassness
 boozer
 basson
 backwater
@@ -16687,6 +16686,7 @@ besugo
 biguanide
 buckraming
 buckrams
+bassness
 bedrel
 biparty
 befouler
