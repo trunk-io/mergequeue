@@ -681,7 +681,6 @@ caff
 caffeic
 caffeina
 caffeines
-caffeinic
 caffeins
 caffeism
 colometry
@@ -7688,6 +7687,7 @@ chargers
 cerebrosis
 cerebrospinal
 cerebrospinant
+caffeinic
 cerebrosuria
 cerebrotomy
 cerebrotonia
