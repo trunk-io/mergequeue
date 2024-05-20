@@ -1726,7 +1726,6 @@ cera
 calvarial
 calvaries
 calvarium
-calve
 calved
 calver
 calves
@@ -16500,6 +16499,7 @@ clockwise
 clockworked
 clavigerous
 carthamin
+calve
 clockworks
 clodbreaker
 clodder
