@@ -6562,6 +6562,7 @@ benzophenothiazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
+bilinguality
 briton
 breakup
 benzopyranyl
@@ -8685,7 +8686,6 @@ byliner
 bylines
 brave
 bilingual
-bilinguality
 barkle
 bilingually
 bilinguar
