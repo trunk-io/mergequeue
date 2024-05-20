@@ -525,7 +525,6 @@ fall
 fissirostral
 falla
 flyability
-frostnipped
 fallage
 fallals
 foreright
@@ -1837,6 +1836,7 @@ featureful
 featurelessness
 featureliness
 figureheadship
+frostnipped
 fontange
 foreparents
 fussle
