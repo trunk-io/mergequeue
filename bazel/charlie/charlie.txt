@@ -19111,7 +19111,6 @@ chloryl
 collinsonia
 colliquable
 colliquament
-colliquate
 colliquativeness
 cytocentrum
 collyria
@@ -23444,6 +23443,7 @@ coalfishes
 contemporarily
 contemporariness
 contemporised
+colliquate
 contemporising
 cystocyte
 caluptra
