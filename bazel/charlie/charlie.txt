@@ -2797,7 +2797,6 @@ cytology
 catapult
 cetorhinoid
 canonizer
-canonizes
 canonizing
 caesalpinia
 canonry
@@ -12527,6 +12526,7 @@ chamaecrista
 cranemanship
 chromogenous
 chromoisomer
+canonizes
 chromoisomeric
 chosing
 chromoisomerism
