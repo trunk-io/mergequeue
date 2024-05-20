@@ -6901,7 +6901,6 @@ fringier
 forespeaker
 foreignization
 folkmoots
-fauchard
 firetower
 faujasite
 folkmoter
@@ -9164,6 +9163,7 @@ forelive
 filbert
 frabjous
 fracas
+fauchard
 frusta
 fracedinous
 fracid
