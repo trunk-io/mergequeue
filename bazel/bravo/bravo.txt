@@ -537,7 +537,6 @@ backtracking
 beneficially
 backtracks
 backout
-babies
 bishopless
 backups
 backus
@@ -9661,6 +9660,7 @@ bis
 bluebills
 bys
 bisagre
+babies
 belays
 bisayan
 barnacling

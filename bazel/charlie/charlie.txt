@@ -14659,6 +14659,7 @@ chateaubriand
 clefs
 chang
 cissoids
+cementum
 cissus
 cist
 cyst
@@ -18351,7 +18352,6 @@ cookwares
 cognatical
 cognation
 cognatus
-cementum
 cognisable
 catholicized
 cognisableness
