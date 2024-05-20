@@ -5372,7 +5372,6 @@ endrudge
 exampless
 endseal
 endshake
-execrates
 exploration
 echoize
 elfishly
@@ -10707,6 +10706,7 @@ eudaemonical
 etiologic
 eudaemonics
 eurous
+execrates
 eudaemonism
 enmeshes
 excluders
