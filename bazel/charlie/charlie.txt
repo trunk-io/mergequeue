@@ -18954,7 +18954,6 @@ collatitious
 cloine
 collative
 catouse
-collator
 carefulness
 couldna
 collators
@@ -20186,6 +20185,7 @@ chutes
 committible
 committor
 commix
+collator
 commixed
 commixes
 commixing
