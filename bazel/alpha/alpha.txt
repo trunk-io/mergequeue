@@ -2697,6 +2697,7 @@ acquittals
 acquittance
 acquitted
 ashkenazim
+arbitrator
 acquitter
 acantholimon
 acquophonia
@@ -11111,7 +11112,6 @@ attentiveness
 amphibology
 astrospherecentrosomic
 angiograph
-arbitrator
 amphibologically
 amphibologies
 anabaptistry
