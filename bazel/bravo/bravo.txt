@@ -1431,7 +1431,6 @@ bombastically
 baleless
 boun
 balestra
-batoneer
 baloo
 boscages
 bali
@@ -8166,6 +8165,7 @@ bichos
 bichromated
 bichromatize
 bichromic
+batoneer
 bicyanide
 bicyclers
 bicyclic

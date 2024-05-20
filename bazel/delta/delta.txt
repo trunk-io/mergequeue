@@ -12632,7 +12632,6 @@ diskette
 diskindness
 dyskinesia
 disking
-diskless
 diskography
 dvandva
 divesting
@@ -18560,6 +18559,7 @@ devoicing
 dust
 danseurs
 dustband
+diskless
 dustbins
 donate
 discombobulates
