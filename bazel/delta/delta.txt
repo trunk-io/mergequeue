@@ -7940,7 +7940,6 @@ dram
 dewflower
 dewier
 delectible
-dewiest
 dewiness
 doh
 dewing
@@ -7998,6 +7997,7 @@ dextroamphetamine
 dextroaural
 dextrocardia
 drunkery
+dewiest
 diacanthous
 dextrocardial
 dextrocerebral
