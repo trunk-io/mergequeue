@@ -1098,6 +1098,7 @@ farolito
 ferriages
 farrage
 foldstool
+flawflower
 farrago
 fordone
 frizzed
@@ -5232,7 +5233,6 @@ flawed
 fluidities
 flawedness
 fishlike
-flawflower
 flawful
 fenbank
 flawing
