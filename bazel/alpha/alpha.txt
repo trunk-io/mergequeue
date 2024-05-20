@@ -938,7 +938,6 @@ absolutistically
 absolutize
 absolutory
 absolvatory
-alioth
 absolve
 absolved
 absolvent
@@ -10279,6 +10278,7 @@ ameliorator
 amelioratory
 amellus
 amelu
+alioth
 amelus
 alumine
 amen
