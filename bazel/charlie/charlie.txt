@@ -4083,6 +4083,7 @@ costoxiphoid
 cardinalates
 cardinalfish
 croslet
+coracobrachial
 cancans
 cardinalfishes
 capitate
@@ -24865,7 +24866,6 @@ coracine
 coracle
 coracles
 coracoacromial
-coracobrachial
 clipeus
 calcimeter
 coracobrachialis
