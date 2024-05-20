@@ -2528,7 +2528,6 @@ epitomising
 enterritoriality
 elchee
 electronically
-electronics
 enamellers
 electronography
 ecad
@@ -12511,6 +12510,7 @@ exigences
 epi
 exigent
 endeavoring
+electronics
 escortment
 egocentricity
 epigenetic
