@@ -2931,6 +2931,7 @@ barrelled
 baetylic
 brattle
 barrelmaker
+botanised
 barrelmaking
 barrelwise
 barren
@@ -4697,7 +4698,6 @@ bewilderingly
 ballett
 bedeafened
 bedeafening
-botanised
 bedeck
 bedecked
 bedrid
