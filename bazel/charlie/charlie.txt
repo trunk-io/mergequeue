@@ -1476,7 +1476,6 @@ calliandra
 cedulas
 curraghs
 calligraph
-calligrapha
 chemurgy
 calligraphers
 calligraphy
@@ -9498,6 +9497,7 @@ cheapness
 cheapos
 cheaps
 cheapskate
+calligrapha
 cheare
 cheat
 cheatableness
