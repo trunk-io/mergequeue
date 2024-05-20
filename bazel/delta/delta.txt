@@ -13016,7 +13016,6 @@ dispeaceful
 divorceable
 dispel
 dory
-dispellable
 decampment
 dispelled
 diaphanous
@@ -16381,6 +16380,7 @@ downturns
 domy
 downway
 downwardly
+dispellable
 dogtrotted
 downwardness
 downwards
