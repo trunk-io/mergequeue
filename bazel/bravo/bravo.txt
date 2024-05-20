@@ -1563,7 +1563,6 @@ bigged
 ballets
 ballfield
 ballgame
-ballgames
 ballgowns
 ballhawks
 berley
@@ -10489,6 +10488,7 @@ blanketmaker
 boatwise
 blanketry
 blankets
+ballgames
 brigue
 blanky
 backflash
