@@ -1635,7 +1635,6 @@ deallocated
 daunter
 deallocates
 defeat
-deallocating
 deresinize
 deallocation
 deallocations
@@ -18071,6 +18070,7 @@ dogskin
 dulnesses
 dongs
 dulocracy
+deallocating
 dictograph
 dulosis
 dulotic
