@@ -3988,7 +3988,6 @@ empaneling
 empanelling
 empanels
 emanant
-electroplated
 empanoply
 empaper
 emparchment
@@ -9983,6 +9982,7 @@ emblemish
 esthesiophysiology
 esthesis
 encave
+electroplated
 ephapse
 encydlopaedic
 encompasses
