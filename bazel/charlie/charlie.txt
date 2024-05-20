@@ -8417,7 +8417,6 @@ chalklike
 chalkline
 chalkone
 chalkos
-chalkosideric
 chalkotheke
 chalkpit
 chalkrail
@@ -18869,6 +18868,7 @@ colistin
 coypou
 colistins
 colitic
+chalkosideric
 colitises
 colitoxemia
 coolheaded
