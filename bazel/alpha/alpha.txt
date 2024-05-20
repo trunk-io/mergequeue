@@ -277,7 +277,6 @@ abducentes
 abduces
 articulate
 abducted
-abducting
 abductions
 amatorio
 ampullar
@@ -10604,6 +10603,7 @@ amylolysis
 arkite
 amylolytic
 advenae
+abducting
 amylom
 amylometer
 amylopectin
