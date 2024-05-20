@@ -11479,6 +11479,7 @@ bluepoint
 blackwasher
 bluepoints
 blueprint
+bobbin
 biophotometer
 bluesy
 bluesides
@@ -11731,7 +11732,6 @@ bobber
 bayogoula
 bobbers
 bobby
-bobbin
 backlighting
 bobbinets
 barefooted
