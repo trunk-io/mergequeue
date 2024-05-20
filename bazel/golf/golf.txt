@@ -1119,6 +1119,7 @@ ganglionic
 gambesons
 gentilesse
 genialize
+guser
 geode
 gondite
 glutamic
@@ -10675,7 +10676,6 @@ gurus
 glairing
 gurging
 gu
-guser
 galanas
 gush
 garvock
