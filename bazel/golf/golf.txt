@@ -5189,7 +5189,6 @@ glassteel
 glasswork
 garbages
 gutturality
-galenist
 gravicembali
 gisler
 guider
@@ -10512,6 +10511,7 @@ gunflint
 gearless
 geotactic
 gouged
+galenist
 glavered
 gunge
 gregge
