@@ -4283,7 +4283,6 @@ delphacidae
 debtors
 delphically
 dasyurus
-delphin
 delphinapterus
 diddle
 delphine
@@ -9389,6 +9388,7 @@ difficultness
 diffide
 dunlin
 diffidentness
+delphin
 dentirostres
 diffiding
 diffluent
