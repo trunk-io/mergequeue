@@ -4334,7 +4334,6 @@ caricaceae
 caricaceous
 cotemporaneous
 carcinology
-caricatura
 caricaturable
 caricatural
 caricature
@@ -19451,6 +19450,7 @@ colossian
 charas
 colossians
 colosso
+caricatura
 colossochelys
 colossus
 colossuswise
