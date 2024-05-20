@@ -5864,6 +5864,7 @@ failsoft
 feague
 fangas
 fossick
+filace
 flocculator
 forts
 froggiest
@@ -9815,7 +9816,6 @@ floatable
 forestick
 flycaster
 fevery
-filace
 frenchness
 fretworks
 flaccidness
