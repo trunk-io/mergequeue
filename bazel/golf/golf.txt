@@ -2560,6 +2560,7 @@ gibus
 gemmology
 gemstone
 gemuetlich
+greying
 gemuti
 gearwheels
 girt
@@ -8796,7 +8797,6 @@ ganglioside
 greyiaceae
 gadbush
 guanos
-greying
 greyish
 greylag
 greylags
