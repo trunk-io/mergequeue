@@ -3721,7 +3721,6 @@ agapornis
 adenomyxosarcoma
 adenoncus
 adenoneural
-arrestees
 adenoneure
 achaemenian
 adenopharyngeal
@@ -25096,6 +25095,7 @@ anthophagous
 almahs
 axiality
 axialities
+arrestees
 axiate
 atmos
 axifera
