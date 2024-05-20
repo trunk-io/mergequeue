@@ -17483,7 +17483,6 @@ aposteme
 acquital
 aposteriori
 aposthia
-aposthume
 apostil
 apostille
 apostle
@@ -24724,6 +24723,7 @@ anorexiant
 amusingly
 aviate
 aviated
+aposthume
 adulterates
 angule
 antemural

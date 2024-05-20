@@ -3906,6 +3906,7 @@ findon
 fitfully
 foliature
 fine
+fangless
 fineableness
 finebent
 fruitfullest
@@ -5681,7 +5682,6 @@ flawlessly
 formedon
 flyproof
 flavins
-fangless
 flips
 flirt
 florilegium
