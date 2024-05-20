@@ -11290,6 +11290,7 @@ chloriambus
 chloric
 chlorid
 chloridate
+corsair
 chloridated
 consuls
 chloridation
@@ -25671,7 +25672,6 @@ cleverness
 corpsman
 corpulences
 corpulencies
-corsair
 closestool
 corpulently
 corpulentness
