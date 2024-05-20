@@ -15139,7 +15139,6 @@ civile
 civilest
 civilian
 chalcostibite
-civilianization
 civilianize
 civilians
 civilisation
@@ -16789,6 +16788,7 @@ clover
 clovered
 cloverlay
 caftaned
+civilianization
 cloverleaf
 cloverleafs
 cloverleaves
