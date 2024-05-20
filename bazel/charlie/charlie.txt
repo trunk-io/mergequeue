@@ -14764,7 +14764,6 @@ cystolithic
 cystoma
 cystomas
 cystomatous
-cystometer
 cystomyoma
 cystomyxoma
 cystonectae
@@ -24318,6 +24317,7 @@ cooingly
 cooja
 cook
 cookable
+cystometer
 carbureter
 cookbook
 cultivators
