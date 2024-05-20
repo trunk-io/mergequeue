@@ -15036,7 +15036,6 @@ anticonductor
 abstrusion
 assassinates
 antozone
-arara
 anticonfederationist
 anticonfederative
 anticonformist
@@ -24458,6 +24457,7 @@ autotoxemia
 autotoxic
 autotoxication
 autotractor
+arara
 autotransformer
 autotransplantation
 arythmically
