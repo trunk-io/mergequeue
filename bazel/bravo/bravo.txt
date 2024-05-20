@@ -1950,7 +1950,6 @@ bandstand
 beacon
 boronia
 beraked
-bandstands
 bandster
 bandstop
 brewings
@@ -3141,6 +3140,7 @@ basenji
 bodge
 briskly
 basenjis
+bandstands
 butles
 biphase
 balneotherapeutics
