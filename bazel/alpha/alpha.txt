@@ -12448,7 +12448,6 @@ androsphinges
 androsphinx
 androsporangium
 androspore
-androsterone
 androtomy
 ands
 andvari
@@ -20863,6 +20862,7 @@ autohemolysin
 aruspice
 aruspicy
 arustle
+androsterone
 arteriography
 arval
 arvejon

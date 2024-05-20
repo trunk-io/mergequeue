@@ -6341,7 +6341,6 @@ explores
 ensheaths
 eruditely
 enshell
-enshelter
 enshield
 eprouvette
 enumerating
@@ -13557,6 +13556,7 @@ extance
 extancy
 ecchymosed
 extbook
+enshelter
 ethylated
 extemporally
 edriophthalmian
