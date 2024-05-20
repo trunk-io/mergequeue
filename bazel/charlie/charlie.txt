@@ -18383,7 +18383,6 @@ cognize
 cognized
 compatient
 cognizer
-cognizes
 cognizing
 cognizor
 cognomens
@@ -23753,6 +23752,7 @@ contraorbital
 contraplete
 contraplex
 contrapolarization
+cognizes
 chuffy
 contrapone
 contraposaune
