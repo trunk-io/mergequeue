@@ -3804,7 +3804,6 @@ giantship
 gastroesophagostomy
 giantsize
 gaub
-ghafir
 goodish
 giarra
 giarre
@@ -8077,6 +8076,7 @@ granuloblastic
 granulocyte
 generalissimo
 ghostlikeness
+ghafir
 gordiaceous
 granulocytic
 granulocytopoiesis
