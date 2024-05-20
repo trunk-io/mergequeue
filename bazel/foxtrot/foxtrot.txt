@@ -1877,7 +1877,6 @@ fecial
 fecifork
 feckful
 feckless
-feckly
 fecks
 flocks
 feckulence
@@ -5623,6 +5622,7 @@ flincher
 flinching
 flinders
 fibrine
+feckly
 foliiform
 frustrater
 flindosa
