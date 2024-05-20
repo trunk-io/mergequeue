@@ -10856,6 +10856,7 @@ disyoke
 deindustrialize
 disedge
 dirigo
+decursively
 dirity
 dirked
 drawbored
@@ -16044,7 +16045,6 @@ doubleton
 divides
 doublette
 discoid
-decursively
 doublewidth
 doubly
 dermatosis
