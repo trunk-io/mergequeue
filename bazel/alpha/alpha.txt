@@ -8320,7 +8320,6 @@ alif
 alife
 aliferous
 aplanat
-aliform
 adumbrates
 aligerous
 alight
@@ -21983,6 +21982,7 @@ assumedly
 automats
 assumer
 assumers
+aliform
 afterlifetime
 ambagiousness
 assumes
