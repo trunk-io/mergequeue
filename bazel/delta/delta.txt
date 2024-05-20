@@ -4940,6 +4940,7 @@ demonize
 dimenhydrinate
 demonized
 demonizes
+destructible
 desmon
 daza
 digametic
@@ -7135,7 +7136,6 @@ diagnostic
 destruct
 destructibility
 devitaminize
-destructible
 destructibleness
 dicoccous
 dimedon
