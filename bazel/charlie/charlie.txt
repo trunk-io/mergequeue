@@ -18218,6 +18218,7 @@ coextension
 creep
 coextent
 cofactors
+coggle
 cofane
 cofaster
 cofather
@@ -18312,7 +18313,6 @@ cogger
 coggers
 cogging
 claypan
-coggle
 coggledy
 cogitate
 combed
