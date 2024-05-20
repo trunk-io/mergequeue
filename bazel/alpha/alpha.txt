@@ -10177,7 +10177,6 @@ aristarch
 ambulancer
 acenesthesia
 ambulante
-antihierarchical
 aspiculous
 ambulated
 atropinism
@@ -13644,6 +13643,7 @@ authenticator
 annuities
 annul
 annular
+antihierarchical
 augmentative
 annulary
 annularia

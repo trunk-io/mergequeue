@@ -1582,6 +1582,7 @@ burgheristh
 ballyragged
 ballyrags
 ballised
+binate
 ballista
 boilermaker
 ballistae
@@ -8911,7 +8912,6 @@ bugologist
 byname
 binaphthyl
 binaries
-binate
 binately
 betuckered
 bradyuria
