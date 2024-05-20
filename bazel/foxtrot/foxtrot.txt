@@ -1092,7 +1092,6 @@ faro
 floriken
 floter
 foredestining
-faroelite
 foremast
 farolito
 ferriages
@@ -5307,6 +5306,7 @@ fleaweed
 fealties
 flunkyistic
 fleawort
+faroelite
 flebotomy
 flutists
 fleche
