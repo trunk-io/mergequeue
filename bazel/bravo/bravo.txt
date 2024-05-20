@@ -1546,7 +1546,6 @@ barbules
 blauboks
 baller
 ballerina
-ballerinas
 ballers
 ballet
 balletically
@@ -3208,6 +3207,7 @@ basidia
 basidial
 basidigital
 byelaw
+ballerinas
 basidigitale
 basidigitalia
 basidiolichen
