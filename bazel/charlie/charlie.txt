@@ -4796,6 +4796,7 @@ contentedness
 conjuror
 carr
 carrack
+cymulose
 carracks
 carrageenin
 carragheen
@@ -13782,7 +13783,6 @@ cymraeg
 cymry
 cymrite
 conduciveness
-cymulose
 cynanche
 cynanchum
 cutlases
