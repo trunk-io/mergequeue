@@ -5126,7 +5126,6 @@ candida
 casehardens
 casey
 caseic
-cholecyanin
 casein
 caseinate
 cordites
@@ -26507,6 +26506,7 @@ cephalomelus
 cotset
 chatillon
 cotsetland
+cholecyanin
 cotsetle
 cotswold
 curn
