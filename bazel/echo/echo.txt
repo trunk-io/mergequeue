@@ -1613,7 +1613,6 @@ egressed
 egresses
 estadal
 exiler
-expounded
 eminency
 egret
 egritude
@@ -6052,6 +6051,7 @@ eomecon
 eulogically
 enmarbling
 estrildine
+expounded
 ethoses
 eschscholtzia
 enmesh
