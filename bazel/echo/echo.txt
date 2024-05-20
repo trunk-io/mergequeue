@@ -1677,7 +1677,6 @@ eyeblack
 eyeblink
 eyebright
 exorcistical
-eyebrows
 eyecup
 experimently
 eyed
@@ -6529,6 +6528,7 @@ enteradenological
 enteral
 enteralgia
 embiotocoid
+eyebrows
 enterate
 enterectomy
 enterectomies

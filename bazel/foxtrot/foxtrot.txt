@@ -2595,7 +2595,6 @@ flanes
 ferryboat
 ferryboats
 familistery
-ferricyanate
 fella
 ferrandin
 furiosity
@@ -3026,6 +3025,7 @@ fewneses
 fewness
 fellatios
 fewterer
+ferricyanate
 fewtrils
 freethinker
 fez
