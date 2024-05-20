@@ -5620,7 +5620,6 @@ epigrammatized
 enfume
 endangers
 enfurrow
-eng
 esurience
 euploid
 erotism
@@ -9258,6 +9257,7 @@ erode
 exsiccative
 erodent
 extradite
+eng
 essenic
 erodes
 erodibility
