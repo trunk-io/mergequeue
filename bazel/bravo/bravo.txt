@@ -5740,7 +5740,6 @@ belauds
 belshazzar
 br
 belch
-belched
 belcher
 belches
 blowpipes
@@ -11245,6 +11244,7 @@ bloodworm
 biquadratic
 bloodwort
 bloodworthy
+belched
 blearily
 blooey
 burmese
