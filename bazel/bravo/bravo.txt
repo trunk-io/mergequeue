@@ -9653,6 +9653,7 @@ baffeta
 birthrights
 birthroot
 births
+biferous
 bristletail
 birthstones
 birthstool
@@ -10771,7 +10772,6 @@ blee
 bleed
 beets
 bleeders
-biferous
 bleekbok
 barretries
 bleeped
