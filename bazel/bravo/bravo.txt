@@ -1417,6 +1417,7 @@ balearica
 balebos
 baled
 bonaught
+burler
 baleen
 baleens
 balefire
@@ -17734,7 +17735,6 @@ blackfin
 burlaps
 boomlets
 burleycue
-burler
 burlesk
 burlesks
 blisterous
