@@ -3145,7 +3145,6 @@ elroquite
 effrontery
 elsa
 ethanedial
-else
 elsehow
 elseways
 elsewhen
@@ -10460,6 +10459,7 @@ echinostome
 ethnotechnography
 evacuating
 ethnozoology
+else
 ethography
 etholide
 eundem
