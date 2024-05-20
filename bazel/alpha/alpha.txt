@@ -8213,7 +8213,6 @@ algorisms
 algorist
 algoristic
 algorithmic
-algorithmically
 algors
 algovite
 algraphy
@@ -23831,6 +23830,7 @@ authentically
 authenticate
 authenticated
 authenticates
+algorithmically
 authentication
 athetosic
 angularization
