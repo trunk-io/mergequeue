@@ -7542,7 +7542,6 @@ epicalyxes
 eudaimonism
 eurycephalous
 eulamellibranch
-eucleidae
 epicanthi
 epicanthus
 epicardia
@@ -13113,6 +13112,7 @@ enlure
 estriche
 enfeature
 expiable
+eucleidae
 enregistration
 entailment
 ewer
