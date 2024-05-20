@@ -2134,7 +2134,6 @@ banquets
 banquette
 bans
 bufagin
-boguing
 bansela
 billbeetle
 banshies
@@ -4090,6 +4089,7 @@ brevier
 beaked
 beakerman
 bellite
+boguing
 beakermen
 baclin
 beakers
