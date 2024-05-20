@@ -6713,7 +6713,6 @@ downrange
 desiccated
 desiccating
 desiccations
-desiccator
 desiderable
 diascopy
 deadhead
@@ -16604,6 +16603,7 @@ dragon
 dirl
 dragonade
 donjon
+desiccator
 dactylopius
 denotations
 drosophilae
