@@ -2599,6 +2599,7 @@ genealogical
 gatha
 glycyls
 guttule
+gumshield
 goetia
 gradatim
 great
@@ -10465,7 +10466,6 @@ granulator
 gumpus
 gums
 gastroenteralgia
-gumshield
 gosling
 gyromancy
 guestwise
