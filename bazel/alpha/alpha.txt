@@ -24929,7 +24929,6 @@ awake
 awakeable
 awaked
 axemaster
-awakened
 alkermes
 awakener
 algometer
@@ -25306,6 +25305,7 @@ aspirates
 azoformamide
 azogallein
 azogrenadine
+awakened
 arabs
 abask
 amontillados
