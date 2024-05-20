@@ -2375,7 +2375,6 @@ fenzelia
 feod
 firestopping
 feodum
-farewelled
 feoff
 feoffee
 fumarolic
@@ -2414,6 +2413,7 @@ frolicky
 feretories
 ferfel
 foredo
+farewelled
 ferforth
 frapped
 fooleries
