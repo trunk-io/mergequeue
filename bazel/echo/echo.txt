@@ -6416,7 +6416,6 @@ ensnarl
 ensnarls
 empiristic
 ectocyst
-ensober
 ensophic
 ensorceled
 emitters
@@ -9529,6 +9528,7 @@ escarps
 escars
 escarteled
 escharine
+ensober
 escharotic
 enamel
 elegiacal
