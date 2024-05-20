@@ -9044,6 +9044,7 @@ biochemistry
 biblioclast
 banket
 bandoras
+brutedom
 baisakh
 biocycle
 biocycles
@@ -13298,7 +13299,6 @@ bowge
 boswellism
 boilermakers
 briquettes
-brutedom
 berean
 boswellize
 bosun

@@ -6011,6 +6011,7 @@ catholicus
 cleg
 catholyte
 cathouse
+chandleries
 carryable
 chandeliers
 cathouses
@@ -8692,7 +8693,6 @@ cascades
 chandleress
 capriccios
 chandlery
-chandleries
 cerebrorachidian
 councilorship
 chandlerly
