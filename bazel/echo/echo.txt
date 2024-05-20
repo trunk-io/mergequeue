@@ -2105,7 +2105,6 @@ engrafting
 etherealise
 elater
 elatery
-elaterids
 elaterins
 electroblasting
 exterminatress
@@ -11655,6 +11654,7 @@ enhances
 economics
 endermatic
 exacerbatingly
+elaterids
 etoiles
 ensepulchering
 exacerbations
