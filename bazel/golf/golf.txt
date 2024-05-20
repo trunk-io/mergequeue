@@ -3070,7 +3070,6 @@ geographies
 geordie
 grocerdom
 galliardness
-geoids
 gladioluses
 geoisotherm
 gegenion
@@ -6462,6 +6461,7 @@ glassworks
 goyana
 gushy
 goshen
+geoids
 granulitis
 galvanotactic
 goidelic

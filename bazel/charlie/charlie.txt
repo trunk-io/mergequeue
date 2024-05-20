@@ -3403,7 +3403,6 @@ caprylic
 cymene
 caprylyl
 caprylin
-caprylone
 caprimulgi
 caprimulgidae
 caprimulgiformes
@@ -23752,6 +23751,7 @@ contraplete
 contraplex
 contrapolarization
 chuffy
+caprylone
 contrapone
 contraposaune
 contrapose
