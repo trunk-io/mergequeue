@@ -11953,7 +11953,6 @@ anapnoeic
 aesthesia
 anapnograph
 adosculation
-anapnoic
 anapnometer
 anapodeictic
 anapophyses
@@ -16300,6 +16299,7 @@ antistatism
 antistatist
 agrimonies
 antisteapsin
+anapnoic
 antisterility
 arghoul
 antistock
