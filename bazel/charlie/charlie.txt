@@ -3753,7 +3753,6 @@ conficient
 carbineer
 carbines
 carbinyl
-carbinol
 carbinols
 chromophilia
 carboazotine
@@ -27747,6 +27746,7 @@ corkscrews
 cowshed
 cowsheds
 cowshot
+carbinol
 cowshut
 cowskin
 countercommand
