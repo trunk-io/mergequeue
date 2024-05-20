@@ -6283,6 +6283,7 @@ eumycetes
 enroot
 enrooted
 enroots
+exemplary
 embowed
 encirclement
 enrut
@@ -13679,7 +13680,6 @@ externe
 externes
 excursionize
 ermanaric
-exemplary
 externomedian
 epiplasm
 externs
