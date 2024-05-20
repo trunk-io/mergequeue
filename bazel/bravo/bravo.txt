@@ -7308,7 +7308,6 @@ bathylitic
 bullated
 beanfest
 bestay
-bestayed
 bestamp
 bestand
 bestarve
@@ -11241,6 +11240,7 @@ biquadratic
 bloodwort
 bloodworthy
 belched
+bestayed
 blearily
 blooey
 burmese
