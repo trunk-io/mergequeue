@@ -3496,6 +3496,7 @@ captain
 captaincy
 captaincies
 captained
+convinced
 captainry
 captainship
 captainships
@@ -24185,7 +24186,6 @@ convicts
 crosshatch
 casselty
 convince
-convinced
 convincedly
 convincedness
 cataclysm
