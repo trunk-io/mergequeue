@@ -5211,7 +5211,6 @@ falda
 flavour
 fencelike
 fallers
-fstore
 flot
 flavoured
 fomenter
@@ -8349,6 +8348,7 @@ forleaving
 forleit
 futuristic
 forlese
+fstore
 fossilology
 fornications
 fiberfill
