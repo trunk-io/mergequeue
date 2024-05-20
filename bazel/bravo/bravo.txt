@@ -3931,6 +3931,7 @@ bodyhood
 bawling
 biocoenosis
 bawn
+bidding
 bawneen
 bawra
 bestial
@@ -8266,7 +8267,6 @@ boondocks
 bookkeepers
 bg
 bidders
-bidding
 biddings
 becarpet
 bobotee
