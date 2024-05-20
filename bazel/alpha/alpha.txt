@@ -7693,7 +7693,6 @@ acyls
 alcyoniaceae
 alcyonic
 anisil
-alcyonium
 alcyonoid
 alcippe
 airplaned
@@ -12712,6 +12711,7 @@ alphonso
 angelomachy
 arragonite
 angelonia
+alcyonium
 arks
 affaires
 akhmimic
