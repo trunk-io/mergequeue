@@ -2701,7 +2701,6 @@ barmbrack
 barmcloth
 brither
 barmfel
-becoward
 barmote
 barms
 barn
@@ -8691,6 +8690,7 @@ babbittian
 billfold
 byliner
 bylines
+becoward
 brave
 bilingual
 bilinguality
