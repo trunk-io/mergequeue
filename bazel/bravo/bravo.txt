@@ -660,7 +660,6 @@ bacteriosolvent
 breakshugh
 brats
 bacteriostat
-bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
 balanophorin
@@ -7695,6 +7694,7 @@ baronages
 bewailable
 bewailed
 bewailer
+bacteriostatically
 burglarproof
 bewailers
 bummers
