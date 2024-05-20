@@ -11669,7 +11669,6 @@ ade
 anaesthetics
 antisupernatural
 anaesthetization
-attempts
 anaesthetize
 anaesthetized
 anaesthetizer
@@ -13506,6 +13505,7 @@ anormal
 anneal
 annealer
 appoggiature
+attempts
 anneals
 annect
 annectant
