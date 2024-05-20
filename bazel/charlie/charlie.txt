@@ -2662,7 +2662,6 @@ cannaceae
 chrysolite
 cannaceous
 cannach
-cannalling
 comedietta
 cannas
 cannat
@@ -14801,6 +14800,7 @@ chondrocele
 clinopyroxene
 cistron
 cistronic
+cannalling
 cistrons
 cists
 cistudo
