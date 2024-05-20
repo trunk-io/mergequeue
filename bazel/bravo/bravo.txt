@@ -6736,6 +6736,7 @@ blanketers
 bereavers
 bodyplate
 bereaves
+burntly
 boninesses
 berede
 berengaria
@@ -13611,7 +13612,6 @@ bricker
 boultel
 boulter
 bemuddle
-burntly
 bombaster
 backwashed
 buckstall
