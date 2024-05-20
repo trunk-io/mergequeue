@@ -5784,6 +5784,7 @@ easily
 engrandize
 ecesis
 engrandizement
+enamor
 engraphic
 engraphically
 engrasp
@@ -11321,7 +11322,6 @@ evangelism
 evangelistary
 evangelistaries
 encowl
-enamor
 evangelistarium
 enthronized
 evangelistic
