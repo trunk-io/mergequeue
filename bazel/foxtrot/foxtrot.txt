@@ -7729,7 +7729,6 @@ foreignness
 foreigns
 foreimpressed
 flagmaker
-flamberge
 fleetness
 firnismalerei
 foreinstruct
@@ -11650,6 +11649,7 @@ followers
 fetlow
 fustiness
 fustoc
+flamberge
 fusula
 fussily
 fusulae
