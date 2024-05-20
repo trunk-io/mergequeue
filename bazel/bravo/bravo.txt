@@ -4448,7 +4448,6 @@ becard
 becarpeted
 becarpeting
 balancer
-becarve
 becasse
 becassine
 bilocellate
@@ -7155,6 +7154,7 @@ barricades
 besmottered
 besmouch
 besmudge
+becarve
 besmudged
 beamless
 blasted
