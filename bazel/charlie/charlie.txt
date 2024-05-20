@@ -12671,6 +12671,7 @@ chronometer
 citolers
 chronometers
 corin
+cleithrum
 chronometric
 chronometrical
 chronometrically
@@ -30802,7 +30803,6 @@ contenders
 culming
 cresamine
 culms
-cleithrum
 culot
 consentful
 culottes
