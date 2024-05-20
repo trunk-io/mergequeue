@@ -1395,7 +1395,6 @@ bushings
 baldish
 ballparks
 bootstraps
-baldmoney
 baldmoneys
 bellwaver
 baldnesses
@@ -15624,6 +15623,7 @@ broadloom
 bonnetmen
 barbering
 battarism
+baldmoney
 broadlooms
 broadmindedly
 bourrides
