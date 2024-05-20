@@ -14710,7 +14710,6 @@ docity
 dodonaea
 dock
 dockage
-drawglove
 dilatancy
 docked
 demonetized
@@ -16433,6 +16432,7 @@ dozens
 dozenth
 dimorphous
 disports
+drawglove
 dozenths
 dozer
 dozers

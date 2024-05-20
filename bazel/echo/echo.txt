@@ -1951,7 +1951,6 @@ eke
 epop
 ekebergite
 ekename
-etymologisable
 exteriorate
 emphysematous
 eker
@@ -5470,6 +5469,7 @@ eyl
 electrostrictive
 ethnically
 enetophobia
+etymologisable
 eneuch
 eneugh
 enface
