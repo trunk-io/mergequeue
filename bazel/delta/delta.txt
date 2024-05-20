@@ -2655,7 +2655,6 @@ duopsonies
 decolouration
 decolouring
 decolourisation
-dissyllabize
 dogmatism
 decempeda
 decolourizer
@@ -4706,6 +4705,7 @@ demiquaver
 deforcing
 disbursable
 demimonk
+dissyllabize
 disfranchised
 distilland
 deaness
