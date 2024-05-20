@@ -466,7 +466,6 @@ bibliographic
 backsliders
 benzhydroxamic
 bloodstones
-bahuts
 backspaced
 backspacefile
 backspacer
@@ -9189,6 +9188,7 @@ bailsman
 byon
 bionditional
 bionics
+bahuts
 bionomy
 bionomic
 bionomically

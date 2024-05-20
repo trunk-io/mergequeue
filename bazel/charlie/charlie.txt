@@ -7468,6 +7468,7 @@ cephalotribe
 cephalotrocha
 cephalotus
 cephalous
+chordally
 cephas
 cepheid
 conchucu
@@ -22393,7 +22394,6 @@ conical
 canajong
 conicality
 conically
-chordally
 conicein
 crookfingered
 coniceine
