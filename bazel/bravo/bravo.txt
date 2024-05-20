@@ -4882,6 +4882,7 @@ beshrouded
 bolometer
 bedstraw
 bedstraws
+bicorn
 bedstring
 bedswerver
 bhotiya
@@ -8213,7 +8214,6 @@ biconnected
 biconsonantal
 biconvex
 biconvexity
-bicorn
 benzoylformic
 bombyx
 boatman
