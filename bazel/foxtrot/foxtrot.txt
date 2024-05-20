@@ -4998,7 +4998,6 @@ flapperdom
 framableness
 flappers
 flappet
-flappy
 furil
 flapping
 folders
@@ -9387,6 +9386,7 @@ francophil
 finkel
 funebre
 faller
+flappy
 figeter
 fanneling
 frangibility
