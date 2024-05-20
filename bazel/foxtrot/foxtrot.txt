@@ -3460,6 +3460,7 @@ forseen
 fiftypenny
 figary
 figaro
+fantoms
 farm
 figeater
 filicology
@@ -11089,7 +11090,6 @@ filled
 falconbill
 functional
 farceuse
-fantoms
 functionalities
 fixups
 functionalized
