@@ -7663,7 +7663,6 @@ devastators
 drapping
 devata
 devaul
-deoxygenating
 devaunt
 devchar
 degaussed
@@ -9375,6 +9374,7 @@ differentia
 differentiability
 differentiable
 dossiere
+deoxygenating
 differentiae
 differentialize
 differentials
