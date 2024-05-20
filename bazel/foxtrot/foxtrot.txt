@@ -4489,7 +4489,6 @@ feebling
 fluocerite
 fruitcake
 fettucine
-faciolingual
 feuder
 feedable
 festschriften
@@ -10070,6 +10069,7 @@ frigor
 feloniousness
 formagen
 forensically
+faciolingual
 frigoric
 fatiguable
 foun
