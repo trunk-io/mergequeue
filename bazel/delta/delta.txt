@@ -1028,6 +1028,7 @@ dzeren
 darner
 daising
 devoiced
+disjointness
 darners
 darning
 darns
@@ -12627,7 +12628,6 @@ disjointedly
 duplicidentate
 disjointing
 disjointly
-disjointness
 dulia
 disjoints
 disjointure
