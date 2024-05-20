@@ -8925,7 +8925,6 @@ adjustments
 acrogenic
 alloisomerism
 allokurtic
-allolalia
 allomerization
 allomerized
 allomerizing
@@ -12344,6 +12343,7 @@ andiron
 anopisthograph
 andirons
 andor
+allolalia
 affranchising
 astigmatically
 andorite

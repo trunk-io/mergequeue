@@ -12523,7 +12523,6 @@ chromoctye
 chromodermatosis
 chromodiascope
 chromogen
-chromogene
 chromogenesis
 choriambuses
 chamaecrista
@@ -30770,6 +30769,7 @@ cullet
 cullets
 cerevis
 carload
+chromogene
 cully
 cullibility
 cullible
