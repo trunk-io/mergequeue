@@ -2490,7 +2490,6 @@ frolicked
 ferment
 freebooty
 feudum
-fermentability
 flagelliferous
 fopdoodle
 fermentable
@@ -9005,6 +9004,7 @@ fermila
 flingdust
 fontainea
 fibrilliform
+fermentability
 fourrageres
 flixweed
 fourrier

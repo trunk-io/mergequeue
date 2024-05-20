@@ -7238,7 +7238,6 @@ detainment
 datsw
 detar
 detassel
-detat
 detd
 defoliating
 detected
@@ -17612,6 +17611,7 @@ drumroll
 drumrolls
 drums
 drumslade
+detat
 drumstick
 drumsticks
 disilane
