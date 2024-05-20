@@ -2317,7 +2317,6 @@ centers
 canarsee
 cassie
 canasta
-canastas
 canaster
 canaut
 canavali
@@ -16812,6 +16811,7 @@ cloverroot
 crepitus
 clovewort
 castling
+canastas
 comarca
 clowder
 clowders
