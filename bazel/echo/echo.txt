@@ -4725,7 +4725,6 @@ enclitical
 endosmosic
 encycl
 encloak
-exploratory
 eclipsis
 encloister
 etymologize
@@ -10451,6 +10450,7 @@ ethnologist
 ethnologists
 ethnomanic
 ensorcell
+exploratory
 elytra
 ethnopsychology
 embarred

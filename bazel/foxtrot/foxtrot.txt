@@ -4332,7 +4332,6 @@ fishback
 fishberry
 forebackwardly
 fixion
-fishboats
 fishbolt
 fishbolts
 falchions
@@ -5194,6 +5193,7 @@ fermate
 frogfishes
 frigorify
 fireproof
+fishboats
 fidfad
 flavo
 foreturn
