@@ -12242,7 +12242,6 @@ exdividend
 estuaries
 exciple
 eucolite
-exeat
 enseat
 exec
 enteradenology
@@ -13076,6 +13075,7 @@ ejuration
 eternality
 experimentative
 experimented
+exeat
 experimenter
 experimenters
 enheaven
