@@ -209,7 +209,6 @@ cabrit
 cabs
 cabstand
 cabstands
-cabuya
 channelly
 calendry
 celebrators
@@ -21260,6 +21259,7 @@ contempt
 concerts
 concertstuck
 concessible
+cabuya
 concession
 concessionaire
 concessional
