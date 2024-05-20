@@ -15002,7 +15002,6 @@ cytophagy
 centrosymmetry
 cytophagic
 cytophagous
-cytopharynx
 cytophil
 cytophilic
 cytula
@@ -17079,6 +17078,7 @@ coadaptations
 californium
 coadapting
 coadequate
+cytopharynx
 coadjacence
 chemotherapeutic
 cohesive
