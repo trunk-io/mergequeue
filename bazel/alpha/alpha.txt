@@ -3835,7 +3835,6 @@ alberta
 adhort
 ady
 awol
-adiabat
 assistency
 antecedal
 adiadochokinesis
@@ -13742,6 +13741,7 @@ anointed
 anointment
 anointments
 anoints
+adiabat
 anoli
 addax
 anolis
