@@ -1913,7 +1913,6 @@ gatekeepers
 gnathopod
 glutenous
 grugrus
-gatemaker
 gladfully
 genetical
 guerrillaship
@@ -6769,6 +6768,7 @@ gruine
 goniocraniometry
 gaveller
 goniodoridae
+gatemaker
 greensand
 guestship
 garvance

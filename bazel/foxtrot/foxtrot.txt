@@ -5431,7 +5431,6 @@ fleshings
 forthfare
 fettuccine
 formatters
-fanjets
 furfuran
 fleshlier
 fleshliest
@@ -9791,6 +9790,7 @@ freir
 freith
 folletti
 folklorism
+fanjets
 foreset
 faultfinding
 fremdness
