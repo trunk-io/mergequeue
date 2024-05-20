@@ -15845,7 +15845,6 @@ clawk
 cyproheptadine
 clawker
 clawless
-clawlike
 claws
 claxon
 claxons
@@ -28480,6 +28479,7 @@ creatin
 critiques
 creatinephosphoric
 cyanites
+clawlike
 caroler
 creatininemia
 creatinuria
