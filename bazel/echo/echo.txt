@@ -2587,7 +2587,6 @@ egotisticalness
 electropuncturation
 euphemiously
 electroreceptive
-electroreduction
 endamoebiasis
 ergophobiac
 electroresection
@@ -5126,6 +5125,7 @@ endogenies
 exundation
 endogenous
 essive
+electroreduction
 endogenously
 electo
 embroider
