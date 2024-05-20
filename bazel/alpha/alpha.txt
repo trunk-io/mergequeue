@@ -489,7 +489,6 @@ anisocoria
 abjurations
 abjuratory
 abjured
-abjurement
 abjurer
 abjurers
 abjures
@@ -9666,6 +9665,7 @@ alunite
 arcadic
 alunogen
 alupag
+abjurement
 autecologic
 alur
 alure

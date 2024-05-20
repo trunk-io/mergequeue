@@ -5210,6 +5210,7 @@ endoradiosonde
 eupathy
 enkernel
 embrake
+enterography
 enkindling
 evened
 exagitation
@@ -6603,7 +6604,6 @@ enigua
 ephyrae
 enterogram
 enterograph
-enterography
 encompasser
 enterohemorrhage
 estatesman
