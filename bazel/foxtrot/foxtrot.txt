@@ -74,7 +74,6 @@ fullfaces
 facemark
 feuter
 fermentations
-facepiece
 fisticuffs
 faces
 facesaving
@@ -10828,6 +10827,7 @@ fucinita
 freesilverite
 fucus
 fucused
+facepiece
 fricasseed
 fanegas
 fuddlement
