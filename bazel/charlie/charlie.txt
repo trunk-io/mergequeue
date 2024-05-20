@@ -2614,6 +2614,7 @@ canistel
 canisters
 canjac
 cank
+clamber
 chokestrap
 clingfish
 canker
@@ -15367,7 +15368,6 @@ cartooned
 clamb
 chubb
 clambake
-clamber
 colfox
 cassique
 chaining
