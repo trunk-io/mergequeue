@@ -9237,7 +9237,6 @@ filenames
 flams
 fixive
 fanaloka
-fraggings
 fragile
 fishpot
 fragileness
@@ -9904,6 +9903,7 @@ felonsetter
 fatals
 fretish
 farrows
+fraggings
 fermiums
 feldspathic
 fuds
