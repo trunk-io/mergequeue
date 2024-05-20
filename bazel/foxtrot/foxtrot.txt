@@ -4974,7 +4974,6 @@ flanker
 flankers
 falconries
 flanking
-flanks
 foremartyr
 filthified
 frowsier
@@ -11174,6 +11173,7 @@ fungian
 fthm
 firestone
 fungibility
+flanks
 fungible
 fideists
 fungicidal
