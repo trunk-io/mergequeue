@@ -2657,7 +2657,6 @@ electrotherapy
 electrotherapist
 electrotheraputic
 emyds
-electrothermal
 expurgates
 epiperipheral
 enaluron
@@ -13253,6 +13252,7 @@ exploratively
 enragedly
 exfiltration
 explorement
+electrothermal
 ectrogeny
 enzyme
 eyres
