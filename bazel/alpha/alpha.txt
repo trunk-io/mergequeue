@@ -8779,7 +8779,6 @@ acceders
 abscessroot
 autocorrelation
 activators
-alligations
 alligator
 alligatored
 alligatorfish
@@ -22113,6 +22112,7 @@ asterospondylic
 asteroxylaceae
 asteroxylon
 asterozoa
+alligations
 ancestries
 antistat
 asters
