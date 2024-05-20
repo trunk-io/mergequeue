@@ -1461,7 +1461,6 @@ dazes
 diam
 diorthoses
 dazy
-dazzle
 diffusor
 dazzler
 disposal
@@ -5494,6 +5493,7 @@ denumerant
 denumerantive
 denumerative
 denunciable
+dazzle
 denunciant
 denunciate
 drumbledore
