@@ -5131,7 +5131,6 @@ botfly
 bloodthirst
 befamilied
 biogeography
-befanned
 broider
 bepurple
 befathered
@@ -9209,6 +9208,7 @@ branchstand
 biophysiography
 biophysiology
 biophysiologist
+befanned
 backfire
 biophyte
 biophotophone
