@@ -8159,7 +8159,6 @@ bicetyl
 bichy
 bedlight
 berhyming
-bichir
 bichloride
 bichlorides
 bichord
@@ -14498,6 +14497,7 @@ branchiostegidae
 branchiostoma
 branchiostomid
 branchiostomous
+bichir
 branchipodidae
 branchireme
 branchless

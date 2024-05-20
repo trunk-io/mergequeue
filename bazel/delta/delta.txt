@@ -4539,7 +4539,6 @@ dwarf
 depravities
 demesne
 decl
-demesnes
 declarers
 dishwashing
 disentitle
@@ -10452,6 +10451,7 @@ disobliging
 data
 duenna
 dialogued
+demesnes
 denotate
 diphonia
 daredevil
