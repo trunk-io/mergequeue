@@ -1700,7 +1700,6 @@ goldenmouthed
 gallocyanin
 grasswidowhood
 graphometry
-gametogenesis
 galactan
 gastraeum
 glossoepiglottidean
@@ -5207,6 +5206,7 @@ guider
 gunpaper
 glassworker
 glassworm
+gametogenesis
 gushed
 glasswort
 gnomish
