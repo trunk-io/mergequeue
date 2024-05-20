@@ -9303,7 +9303,6 @@ bathysmal
 bowl
 botanists
 becalmment
-behaves
 biotelemetries
 biotical
 biotically
@@ -12576,6 +12575,7 @@ boniata
 barbecued
 buckra
 boniface
+behaves
 bonification
 bonyfish
 bacubert
