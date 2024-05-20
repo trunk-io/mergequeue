@@ -1875,7 +1875,6 @@ fecial
 fecifork
 feckful
 feckless
-feckly
 fecks
 flocks
 feckulence
@@ -4644,6 +4643,7 @@ fasciotomy
 fusiformis
 fixup
 fixure
+feckly
 furs
 fizelyite
 fizgig
