@@ -8473,7 +8473,6 @@ floormen
 fondler
 furoin
 florissant
-furstone
 formylal
 formylate
 formylated
@@ -10866,6 +10865,7 @@ firman
 fistulariidae
 fungiform
 furores
+furstone
 fishpool
 facies
 fulgency
