@@ -9371,6 +9371,7 @@ alphabetology
 alphameric
 alphamerically
 alphanumerics
+angico
 alphard
 areole
 alphas
@@ -12734,7 +12735,6 @@ angers
 angetenar
 angevin
 angia
-angico
 angiectasis
 angiectopia
 abortively
