@@ -1798,7 +1798,6 @@ grassquit
 gastrojejunostomy
 gastrojejunostomies
 gastrolater
-gravamina
 grunted
 gramashes
 gossans
@@ -7405,6 +7404,7 @@ gourdful
 gourdhead
 granuliferous
 grabbier
+gravamina
 geminal
 gourmanderie
 gourmandise
