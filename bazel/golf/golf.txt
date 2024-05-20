@@ -1363,7 +1363,6 @@ gardenia
 gundeck
 giftlike
 gaonate
-gardenless
 gardenlike
 gardenmaking
 gardevin
@@ -6931,6 +6930,7 @@ gestations
 glaucopis
 giaour
 glyconin
+gardenless
 grecian
 goodishness
 goodless
