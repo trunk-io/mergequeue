@@ -6771,6 +6771,7 @@ enticers
 empyema
 exhalatory
 evanid
+esophagi
 equipper
 entify
 enemied
@@ -9694,7 +9695,6 @@ esophagalgia
 esophageal
 esophagean
 explicans
-esophagi
 esophagism
 exognathion
 esophagitis
