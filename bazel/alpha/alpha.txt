@@ -4802,7 +4802,6 @@ aegicrania
 aegilops
 aegina
 aeginetan
-aeginetic
 aegipan
 aegyptilla
 agonisingly
@@ -5778,6 +5777,7 @@ amphidromia
 againward
 ardeid
 agal
+aeginetic
 agalactic
 alterius
 agalawood
