@@ -7572,7 +7572,6 @@ ceratostomella
 ceratotheca
 ceratozamia
 copei
-ceraunics
 clergyman
 cambrian
 ceraunite
@@ -19915,6 +19914,7 @@ commandatory
 commanded
 commandedness
 courtesying
+ceraunics
 classicised
 commandeer
 centenarians
