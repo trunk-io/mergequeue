@@ -5142,6 +5142,7 @@ aerosteam
 antapex
 aerotactic
 aerotaxis
+arouse
 argo
 aerotechnical
 aerotherapeutics
@@ -20162,7 +20163,6 @@ apsychical
 around
 arousable
 arousals
-arouse
 alderflies
 araneiformia
 arouser
