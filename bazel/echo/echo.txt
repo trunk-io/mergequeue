@@ -1455,6 +1455,7 @@ endosmotic
 effume
 emulsionize
 effund
+equivalents
 empathic
 effused
 enthalpy
@@ -3582,7 +3583,6 @@ eluvium
 empoisoner
 enculturate
 embraceably
-equivalents
 entada
 embraced
 embracement
