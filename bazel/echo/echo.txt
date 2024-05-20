@@ -10655,6 +10655,7 @@ euchres
 endboard
 eckehart
 equipage
+escalate
 ethmose
 erotomania
 euchroic
@@ -13602,7 +13603,6 @@ extensor
 elongating
 eulogise
 extensory
-escalate
 extensors
 extensure
 extenuate
