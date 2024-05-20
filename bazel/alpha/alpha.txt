@@ -7446,7 +7446,6 @@ albian
 albicans
 albicant
 albicore
-albicores
 albiculi
 albificative
 albified
@@ -18961,6 +18960,7 @@ archibenthic
 archiblastic
 archiblastoma
 auriculoventricular
+albicores
 archiblastula
 astrochemist
 archicantor
