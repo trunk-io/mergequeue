@@ -4593,6 +4593,7 @@ carns
 chamaecistus
 caro
 caroa
+cysticercus
 cohost
 caroaches
 carob
@@ -13754,7 +13755,6 @@ capsicins
 cornerstones
 cymoid
 cenacles
-cysticercus
 cyclostomata
 cymoidium
 cantankerousness
