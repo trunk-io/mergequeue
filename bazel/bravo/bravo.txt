@@ -1549,7 +1549,6 @@ baller
 ballerina
 ballerinas
 ballers
-ballet
 balletically
 balletomane
 balletomanes
@@ -2204,6 +2203,7 @@ benzpyrene
 baptizer
 biplanar
 baptizers
+ballet
 baptizing
 bar
 barabara
