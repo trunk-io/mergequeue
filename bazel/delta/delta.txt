@@ -2851,7 +2851,6 @@ delphinus
 duodecahedron
 decrescent
 deknight
-decretalist
 dogey
 despumating
 desalinization
@@ -11781,6 +11780,7 @@ diphosphoric
 discrested
 discretely
 dogfall
+decretalist
 discreteness
 disjunctions
 default
