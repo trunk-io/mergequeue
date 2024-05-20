@@ -8897,7 +8897,6 @@ dicasts
 diccon
 domines
 dice
-dyce
 diceboard
 dicebox
 dicecup
@@ -18055,6 +18054,7 @@ dullification
 dulling
 dullishly
 drometer
+dyce
 dullity
 disgaveling
 digitaria
