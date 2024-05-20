@@ -8561,7 +8561,6 @@ alkylarylsulfonate
 alkylate
 alkylated
 alkylates
-alkylbenzenesulfonate
 alkylbenzenesulfonates
 alkylic
 antiphonetic
@@ -14266,6 +14265,7 @@ aerosporin
 antergic
 anteri
 anterioyancer
+alkylbenzenesulfonate
 anterior
 achech
 anteriorly
