@@ -3054,7 +3054,6 @@ ellipticity
 extemporize
 elliptograph
 elliptoid
-electrum
 extraparietal
 etiolates
 ellops
@@ -9128,6 +9127,7 @@ ebionism
 earlet
 electroretinograph
 erythroblast
+electrum
 erythroblastic
 extrafoliaceous
 electrocardiographs
