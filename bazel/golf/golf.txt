@@ -836,7 +836,6 @@ ghrush
 goldin
 gottlieb
 galways
-gamari
 gamash
 gonidium
 gamashes
@@ -3978,6 +3977,7 @@ glittered
 gigawatt
 gutser
 goldenfleece
+gamari
 groynes
 globulous
 grapeless
