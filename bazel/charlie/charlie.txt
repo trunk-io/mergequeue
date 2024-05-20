@@ -3462,6 +3462,7 @@ cons
 coached
 capsular
 capsulated
+callan
 capsulation
 capsule
 collegatary
@@ -11017,7 +11018,6 @@ chiropodic
 chiropodical
 contorsion
 chiropodistry
-callan
 callionymus
 chiropodists
 chiropodous
