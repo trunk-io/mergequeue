@@ -9297,7 +9297,6 @@ chastity
 chastities
 chasuble
 chasubled
-cooper
 chasubles
 chat
 chataka
@@ -18494,6 +18493,7 @@ chello
 cill
 cohortative
 cohosh
+cooper
 circumdiction
 cytomegalic
 crownlet
