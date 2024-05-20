@@ -5488,7 +5488,6 @@ affuse
 affusion
 affusions
 afghan
-afghani
 afghanistan
 adonia
 afghans
@@ -13596,6 +13595,7 @@ annonaceae
 annonaceous
 aerohydrotherapy
 alberich
+afghani
 annot
 azeotropism
 annotater
