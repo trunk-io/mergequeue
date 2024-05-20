@@ -9877,7 +9877,6 @@ bundies
 burrawang
 byssuses
 besing
-bistable
 bystander
 bistate
 boomer
@@ -18107,6 +18106,7 @@ bishopess
 butadiyne
 blazing
 butane
+bistable
 butanoic
 butanol
 babish
