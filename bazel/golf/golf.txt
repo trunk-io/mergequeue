@@ -923,7 +923,6 @@ gonagia
 gamelans
 gameless
 gentian
-gamelike
 goracco
 gadids
 gynecomazia
@@ -2762,6 +2761,7 @@ grunzie
 geniculation
 gonapophysal
 genio
+gamelike
 granadilla
 genioglossal
 gynecomania
