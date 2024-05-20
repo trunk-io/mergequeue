@@ -260,6 +260,7 @@ fathomable
 fustee
 foxtrot
 foetors
+floater
 fadeout
 fader
 faders
@@ -5820,7 +5821,6 @@ floated
 forebooms
 filical
 fortunation
-floater
 fierasfer
 floaters
 fodders

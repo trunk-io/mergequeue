@@ -4272,6 +4272,7 @@ deescalations
 delocalization
 delocalize
 despiritualize
+destructibility
 delocalizing
 delomorphous
 decrement
@@ -7143,7 +7144,6 @@ diascord
 destroying
 diagnostic
 destruct
-destructibility
 devitaminize
 destructibleness
 dicoccous
