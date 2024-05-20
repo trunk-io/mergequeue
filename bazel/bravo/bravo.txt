@@ -2889,6 +2889,7 @@ bowle
 barramunda
 barramundies
 baccalaureat
+batching
 broadcasts
 barranca
 brodyaga
@@ -3536,7 +3537,6 @@ bissext
 birdcall
 batched
 batcher
-batching
 bargemen
 batea
 bogging
