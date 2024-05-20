@@ -1674,7 +1674,6 @@ ertebolle
 endonuclear
 endostome
 eyeblack
-eyeblink
 eyebright
 exorcistical
 eyebrows
@@ -2255,6 +2254,7 @@ erosive
 eches
 electrization
 episcleritis
+eyeblink
 earthenware
 encrypting
 epigonus
