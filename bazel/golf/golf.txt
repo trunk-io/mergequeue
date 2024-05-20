@@ -3340,7 +3340,6 @@ germ
 germain
 german
 germany
-gisarme
 galtonia
 germanical
 germanify
@@ -10391,6 +10390,7 @@ gangliocyte
 gangmaster
 gulls
 gigot
+gisarme
 gamotropic
 gossipingly
 glucosidal

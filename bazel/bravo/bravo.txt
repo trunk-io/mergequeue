@@ -2836,7 +2836,6 @@ babi
 bravest
 barotraumas
 bostons
-barotropic
 barouche
 beguin
 barouchette
@@ -13576,6 +13575,7 @@ boughten
 bougie
 bouillabaisse
 bouillone
+barotropic
 bookmate
 boodlers
 bouillons
