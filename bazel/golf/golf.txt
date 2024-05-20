@@ -3975,7 +3975,6 @@ girdlestead
 grego
 gleeting
 garrisons
-glittered
 gigawatt
 gutser
 goldenfleece
@@ -5155,6 +5154,7 @@ gossan
 glassfuls
 gastronomics
 gonotocont
+glittered
 glasshouses
 grizzlies
 glassie
