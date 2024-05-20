@@ -12480,7 +12480,6 @@ chromism
 chromite
 chromites
 chromitite
-chromium
 chromiums
 clerisy
 colder
@@ -23323,6 +23322,7 @@ consumpted
 consumptible
 consumptional
 consumptions
+chromium
 consumptive
 consumptively
 coordinates
