@@ -5160,7 +5160,6 @@ grub
 gritty
 gossan
 glassfuls
-gastronomics
 gonotocont
 glasshouses
 grizzlies
@@ -9722,6 +9721,7 @@ gilling
 grun
 grieved
 gtt
+gastronomics
 gluttonizing
 glazings
 gonopodial
