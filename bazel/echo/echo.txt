@@ -890,7 +890,6 @@ equivalences
 empirically
 ectosphenotic
 excantation
-ectosphere
 ectostosis
 emulgens
 eriodictyon
@@ -6961,6 +6960,7 @@ embrocate
 engagements
 entozoon
 entracte
+ectosphere
 entradas
 entrain
 entrained
