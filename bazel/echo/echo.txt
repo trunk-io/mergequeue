@@ -6407,7 +6407,6 @@ ensnared
 explosive
 ensnarer
 ericeticolous
-ensnares
 exornate
 eobionts
 edental
@@ -7320,6 +7319,7 @@ electromotograph
 epanaphora
 emission
 escaping
+ensnares
 epanisognathism
 endemics
 ensues
