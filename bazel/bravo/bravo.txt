@@ -14909,7 +14909,6 @@ breatheableness
 breathed
 bravuraish
 blowflies
-breathes
 boarstaff
 bipedism
 burleys
@@ -17283,6 +17282,7 @@ bryology
 bawlers
 bumblers
 bumbles
+breathes
 bootlaces
 bumbling
 bumblings
