@@ -8887,6 +8887,7 @@ chaplain
 chaplaincies
 chaplains
 cognitives
+chloromata
 chapless
 chapleted
 conciator
@@ -11380,7 +11381,6 @@ chloroid
 chloroma
 chiule
 copelidine
-chloromata
 chloromelanite
 chlorometer
 chloromethane
