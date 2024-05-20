@@ -8223,6 +8223,7 @@ dissectors
 disbind
 defiladed
 dermalith
+dotiness
 diaconal
 dauby
 dopaoxidase
@@ -17821,7 +17822,6 @@ duckmeat
 duckpin
 dishouse
 diabolarch
-dotiness
 ducktail
 duckweed
 divisors

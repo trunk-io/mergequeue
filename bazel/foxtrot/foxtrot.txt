@@ -3404,6 +3404,7 @@ flyweights
 fiendhead
 flyblew
 filtre
+folate
 fops
 fallibility
 firmation
@@ -5965,7 +5966,6 @@ forgottenness
 fatuate
 floorboard
 flavia
-folate
 fala
 floweret
 featherbedding
