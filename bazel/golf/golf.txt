@@ -1331,7 +1331,6 @@ gewgawry
 garbles
 grammatology
 grammatically
-goodship
 geneki
 grimier
 grex
@@ -6443,6 +6442,7 @@ gog
 gogglebox
 goggler
 ghostlet
+goodship
 greenwort
 gastrular
 gunnera
