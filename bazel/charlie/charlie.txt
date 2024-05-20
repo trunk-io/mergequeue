@@ -21997,6 +21997,7 @@ confinements
 confiners
 confines
 confining
+champlainic
 confinity
 confirmability
 chivying
@@ -22401,7 +22402,6 @@ conicle
 conicopoly
 conidae
 conidial
-champlainic
 conidian
 conidioid
 conidiophorous
