@@ -481,6 +481,7 @@ gollar
 galenites
 galenobismutite
 galenoid
+groupable
 guardedly
 gleesomely
 galeod
@@ -9466,7 +9467,6 @@ groundwards
 grundlov
 group
 gammer
-groupable
 gynophoric
 grandrelle
 gallous
