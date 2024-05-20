@@ -12205,7 +12205,6 @@ caliginousness
 chris
 chrysal
 calibogus
-chrysalid
 coronet
 chrysalida
 chrysalidal
@@ -14718,6 +14717,7 @@ cysticolous
 cystid
 cystidea
 cystinosis
+chrysalid
 cystidean
 cystidium
 candescent
