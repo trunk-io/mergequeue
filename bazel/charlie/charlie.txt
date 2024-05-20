@@ -3492,7 +3492,6 @@ captacula
 chloroformist
 captaculum
 captain
-captaincy
 captaincies
 captained
 captainry
@@ -14595,6 +14594,7 @@ caseine
 cirrosely
 cirrostomi
 cirrostrative
+captaincy
 cuttanee
 celiectasia
 cirrostratus
