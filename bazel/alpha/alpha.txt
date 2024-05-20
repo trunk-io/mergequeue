@@ -7306,7 +7306,6 @@ arthrectomies
 alangium
 alani
 alanin
-alanine
 alanines
 alanins
 alannah
@@ -21528,6 +21527,7 @@ asphyxied
 ampulating
 actinula
 arrowroot
+alanine
 asphodel
 asphodelaceae
 aspy
