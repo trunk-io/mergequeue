@@ -6409,7 +6409,6 @@ espave
 epiphyseolysis
 expandibility
 ensnare
-ensnared
 explosive
 ensnarer
 ericeticolous
@@ -8576,6 +8575,7 @@ eluder
 eggheadedness
 esoterically
 equanimously
+ensnared
 equanimousness
 endomictic
 equatability
