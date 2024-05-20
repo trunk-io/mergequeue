@@ -7241,7 +7241,6 @@ detar
 detassel
 detat
 detd
-defoliating
 detected
 detecter
 detecters
@@ -11821,6 +11820,7 @@ discriminatorily
 diduce
 dubiocrystalline
 discriminators
+defoliating
 dexamethasone
 discriminoid
 discriminous

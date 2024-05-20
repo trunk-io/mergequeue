@@ -8589,7 +8589,6 @@ borshts
 bikram
 bikukulla
 biogenous
-ballottable
 blackwood
 begulfing
 bilabiate
@@ -13853,6 +13852,7 @@ bast
 bowheads
 bowyang
 baraka
+ballottable
 bowie
 beaune
 blatter
