@@ -4110,7 +4110,6 @@ fiorite
 fontanel
 fluidrams
 flywheel
-fersmite
 fipples
 functionate
 furthermore
@@ -5086,6 +5085,7 @@ flasque
 flexuous
 fellifluous
 flatcaps
+fersmite
 flatette
 flatfishes
 flatfoot

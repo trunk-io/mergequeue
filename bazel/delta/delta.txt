@@ -1746,7 +1746,6 @@ deathtraps
 drof
 dhunchee
 deathward
-dikaryon
 deathwatches
 docent
 deathworm
@@ -4108,6 +4107,7 @@ dismalest
 deliberations
 deliberators
 delicat
+dikaryon
 decriminalizing
 deposited
 delicate
