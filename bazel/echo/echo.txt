@@ -9714,7 +9714,6 @@ evoked
 esophagomycosis
 esophagopathy
 esophagoplasty
-esophagoptosis
 esophagorrhagia
 embodiment
 edentulous
@@ -11447,6 +11446,7 @@ extrinsical
 eden
 eventognathous
 embanking
+esophagoptosis
 estoppal
 eventration
 events
