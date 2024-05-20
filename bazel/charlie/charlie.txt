@@ -5781,7 +5781,6 @@ category
 categorial
 categoric
 chondrified
-cessionary
 categorically
 categoricalness
 categories
@@ -20504,6 +20503,7 @@ composition
 compartments
 critchfield
 codding
+cessionary
 compass
 compassability
 compassable
