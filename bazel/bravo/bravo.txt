@@ -2936,7 +2936,6 @@ barrelmaker
 barrelmaking
 barrelwise
 barren
-barrenly
 barrenness
 blockaderunning
 barretor
@@ -6599,6 +6598,7 @@ beothuk
 babysitter
 beothukan
 bunning
+barrenly
 beowulf
 bellicose
 bayberry
