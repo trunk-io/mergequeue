@@ -5631,7 +5631,6 @@ dispergation
 depauperate
 depauperation
 depauperize
-depauperized
 depeach
 depeinct
 depencil
@@ -7912,6 +7911,7 @@ dewaxed
 did
 dewaxing
 dewberry
+depauperized
 deadtongue
 dewberries
 dewcap
