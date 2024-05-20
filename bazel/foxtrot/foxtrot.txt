@@ -4490,7 +4490,6 @@ fluocerite
 fruitcake
 fettucine
 faciolingual
-feuder
 feedable
 festschriften
 feuille
@@ -8068,6 +8067,7 @@ foresummon
 fireflies
 fulminated
 fabulist
+feuder
 foreswear
 foreswearing
 fichtelite
