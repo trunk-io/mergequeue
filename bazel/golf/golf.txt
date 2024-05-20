@@ -5143,7 +5143,6 @@ graphs
 gandering
 glasseye
 glassen
-glassfish
 guitermanite
 gouvernante
 geraniaceae
@@ -5825,6 +5824,7 @@ glossoepiglottic
 gulinulae
 goldsmithery
 glossohyal
+glassfish
 gaultherase
 gyres
 gobos
