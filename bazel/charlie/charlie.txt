@@ -1082,7 +1082,6 @@ calciminer
 calcimines
 crudeness
 calcimining
-choppin
 crossbarred
 calcinate
 calcinator
@@ -8127,6 +8126,7 @@ chaetochloa
 chaetodon
 chaetodont
 chaetodontid
+choppin
 chaetodontidae
 chaetognatha
 chaetognathan

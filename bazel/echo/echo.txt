@@ -2767,7 +2767,6 @@ elements
 extricates
 ergatandromorphic
 eltime
-ecthyma
 elench
 ephebeibeia
 extrasyllabic
@@ -8911,6 +8910,7 @@ epibolic
 eremology
 excrescencies
 ecospecifically
+ecthyma
 exponential
 eremophilous
 eremuri
