@@ -1271,6 +1271,7 @@ bardie
 balanceable
 bafflements
 baryonic
+bandie
 bluejays
 balancelle
 brandishing
@@ -1891,7 +1892,6 @@ befoam
 bloodier
 bandido
 bandidos
-bandie
 bismarine
 bandied
 blepharopyorrhea

@@ -5152,6 +5152,7 @@ aerothermodynamics
 aerotonometer
 agronomic
 aerotonometry
+apparens
 antirationally
 adularescent
 aerotonometric
@@ -17631,7 +17632,6 @@ appareling
 apparence
 apparency
 almucantar
-apparens
 apparent
 apparentements
 abacisci
