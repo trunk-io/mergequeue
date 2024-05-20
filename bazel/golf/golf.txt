@@ -1443,6 +1443,7 @@ geometrina
 garmentmaker
 grafting
 gemmel
+gallivorous
 geogony
 garments
 grasseye
@@ -8279,7 +8280,6 @@ grassland
 gedds
 glaswegian
 gremmy
-gallivorous
 gasterosteiform
 gadolinite
 gazelles
