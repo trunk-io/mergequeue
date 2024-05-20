@@ -233,7 +233,6 @@ carrom
 caccabis
 caccagogue
 currency
-cacciatora
 capeador
 cacciatore
 cacei
@@ -4810,6 +4809,7 @@ carrells
 caffeinism
 carrels
 carreta
+cacciatora
 carretela
 carretera
 carreton
