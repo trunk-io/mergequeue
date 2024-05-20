@@ -1873,7 +1873,6 @@ fusils
 februation
 furniment
 fec
-fecaloid
 fruittime
 fizzer
 fecial
@@ -5502,6 +5501,7 @@ flyball
 fantasticate
 flatworm
 fluctuant
+fecaloid
 flibbertigibbety
 flybelt
 flybelts
