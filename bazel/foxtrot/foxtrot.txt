@@ -130,7 +130,6 @@ facilities
 fenmen
 francophile
 flavourfully
-functionally
 facioplegia
 facit
 fluvioglacial
@@ -4063,6 +4062,7 @@ feathers
 filelike
 farcist
 finlet
+functionally
 funorin
 frondescing
 finmarks
