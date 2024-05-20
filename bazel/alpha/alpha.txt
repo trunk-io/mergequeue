@@ -17314,6 +17314,7 @@ apologer
 apology
 apologiae
 arcuses
+auriculovertical
 asarone
 apologias
 apological
@@ -23605,7 +23606,6 @@ auriculoid
 amphisile
 auriculoparietal
 auriculotemporal
-auriculovertical
 auride
 auriferous
 appreciational
