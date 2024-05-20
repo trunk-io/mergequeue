@@ -7136,7 +7136,6 @@ eburnification
 embosses
 envisage
 envisaged
-empemata
 envisagement
 envisaging
 emulable
@@ -9924,6 +9923,7 @@ estaminet
 emittance
 exergue
 eloquential
+empemata
 estampage
 evolving
 estampede
