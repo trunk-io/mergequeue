@@ -3569,6 +3569,7 @@ addlings
 antral
 addn
 addnl
+aventails
 acknowledgements
 addoom
 abracadabra
@@ -24630,7 +24631,6 @@ avenous
 avenses
 aventayle
 areopagy
-aventails
 aventine
 aventurin
 alypine
