@@ -781,7 +781,6 @@ ectomesoblast
 ectatic
 exequies
 ectental
-elastometry
 ecthesis
 ecthymatous
 eclogites
@@ -8757,6 +8756,7 @@ epiphysis
 ecstatics
 equisetales
 esthesiogenic
+elastometry
 equisetic
 equisided
 edaphically
