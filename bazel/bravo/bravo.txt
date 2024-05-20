@@ -4233,7 +4233,6 @@ bearwort
 boanthropy
 beastbane
 beasthood
-biomedical
 backbend
 beastily
 beastish
@@ -14497,6 +14496,7 @@ branchiopulmonata
 baleful
 bonding
 branchiosaur
+biomedical
 branchiosauria
 belugite
 bedumbed
