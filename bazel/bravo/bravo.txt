@@ -6214,6 +6214,7 @@ bequeathable
 becowarded
 benamidar
 berat
+burelage
 benasty
 beholdable
 binauricular
@@ -9173,7 +9174,6 @@ biome
 biomechanical
 begrims
 biomedicine
-burelage
 biomes
 biometric
 biometrician

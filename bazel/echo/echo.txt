@@ -6075,7 +6075,6 @@ eyeshades
 endorachis
 eseptate
 enneagons
-enneahedra
 evagation
 entertainers
 enneahedral
@@ -6685,6 +6684,7 @@ equilibriria
 enterozoic
 enterozoon
 enterpillar
+enneahedra
 enterprise
 eirene
 evelight
