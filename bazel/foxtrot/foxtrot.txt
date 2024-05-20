@@ -8056,7 +8056,6 @@ forestral
 flunkeys
 forestries
 fever
-firebrats
 flayflint
 furnitures
 fondness
@@ -9078,6 +9077,7 @@ fowlerite
 fowlers
 fowlfoot
 fowlings
+firebrats
 fluvious
 fowlpox
 footpick
