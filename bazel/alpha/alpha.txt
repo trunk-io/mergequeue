@@ -6328,7 +6328,6 @@ aul
 ascabart
 alchemise
 agoniatite
-aegerian
 agonic
 agonies
 agonise
@@ -19347,6 +19346,7 @@ ardour
 ardours
 ardri
 ardu
+aegerian
 aminoethionic
 aerosiderolite
 agitpropist
