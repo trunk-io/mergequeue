@@ -4278,7 +4278,6 @@ emulsoid
 emulsoidal
 effluxes
 env
-emulsoids
 emunct
 enteropathogenic
 emunctory
@@ -6463,6 +6462,7 @@ enswathe
 electrophotographic
 enswathement
 encephalola
+emulsoids
 enswathes
 enumerations
 enswathing

@@ -3857,7 +3857,6 @@ antimechanist
 adiaphonon
 adiaphoral
 adiaphoresis
-adiaphoretic
 acephalina
 adiaphory
 adiaphorist
@@ -5324,6 +5323,7 @@ affidavy
 affidavit
 aviso
 affied
+adiaphoretic
 affies
 affying
 arvicolous
