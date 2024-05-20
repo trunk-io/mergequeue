@@ -5615,7 +5615,6 @@ fianchetto
 flimsiness
 flinch
 flagleaf
-fatalness
 forecabin
 forthbringer
 freighters
@@ -11742,6 +11741,7 @@ fuzzier
 fangot
 fungiferous
 fenlander
+fatalness
 fuzziest
 ferrotype
 forstraught
