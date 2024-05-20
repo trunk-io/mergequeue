@@ -6240,7 +6240,6 @@ aglipayan
 aglipayano
 aglypha
 aglyphodont
-aglyphodonta
 aglyphous
 alectoriae
 alcyones
@@ -7795,6 +7794,7 @@ alderling
 alderman
 alectoromorphous
 aldermanate
+aglyphodonta
 aldermancy
 aldermaness
 aldermanic
