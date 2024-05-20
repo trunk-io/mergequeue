@@ -1773,7 +1773,6 @@ gastroenteroanastomosis
 gastroenterocolostomy
 gastroenterology
 gelatination
-gastightness
 gastroenterologic
 gandurah
 gastroepiploic
@@ -8463,6 +8462,7 @@ gonakie
 grips
 gourmand
 geranomorph
+gastightness
 gnarled
 gravicembalo
 gravicembalos
