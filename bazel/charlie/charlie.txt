@@ -5158,6 +5158,7 @@ caseworms
 casha
 cashable
 cashableness
+cutlings
 cashaws
 cashboy
 carida
@@ -31836,7 +31837,6 @@ cutline
 currycombed
 cutlines
 cutling
-cutlings
 cutoff
 cutoffs
 consortion
