@@ -3718,7 +3718,6 @@ argolet
 adenomatome
 adenomycosis
 adenomyofibroma
-adenomyoma
 agapornis
 adenomyxosarcoma
 adenoncus
@@ -16277,6 +16276,7 @@ antispasmodic
 adradially
 antispastic
 antispeculation
+adenomyoma
 antispiritual
 aroras
 amongst
