@@ -521,7 +521,6 @@ echinital
 echinite
 echinocaris
 entosthoblast
-echinocereus
 echinochrome
 echinococcosis
 epedaphic
@@ -8289,6 +8288,7 @@ epistlers
 epistolarian
 eosaurus
 epistoler
+echinocereus
 epistolic
 epopoeia
 epistolical
