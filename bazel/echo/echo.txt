@@ -7294,7 +7294,6 @@ epipial
 explained
 epacmaic
 enricher
-epicyclic
 epacrid
 engird
 epacris
@@ -10195,6 +10194,7 @@ ethanolysis
 entia
 epipolize
 ethel
+epicyclic
 emotionalizing
 eucti
 ethenes
