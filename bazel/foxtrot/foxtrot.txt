@@ -7143,7 +7143,6 @@ footeite
 fenouillette
 flaughtbred
 footer
-footers
 filippo
 fatherlandish
 femicide
@@ -9249,6 +9248,7 @@ fragility
 frizer
 fusels
 familiarizer
+footers
 foxery
 faceplate
 ferritins
