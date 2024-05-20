@@ -10707,7 +10707,6 @@ chimeric
 chimerically
 calci
 cavies
-chimericalness
 chimers
 chimes
 chymes
@@ -27961,6 +27960,7 @@ cradge
 chiliagon
 cradlechild
 cradled
+chimericalness
 celticism
 cradlefellow
 cradleland
