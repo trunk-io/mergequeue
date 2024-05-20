@@ -3929,6 +3929,7 @@ bawdrics
 bawdries
 bawl
 bevelment
+boldnesses
 bawled
 bawley
 bawler
@@ -12163,7 +12164,6 @@ boldheartedly
 boldin
 boldine
 boldly
-boldnesses
 boldo
 boldoine
 benzofluorene
