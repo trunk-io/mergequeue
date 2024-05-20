@@ -1527,7 +1527,6 @@ deactivations
 deactivators
 distressedness
 doublure
-deadcenter
 deeryards
 deadlier
 discotheques
@@ -9320,6 +9319,7 @@ diethylmalonylurea
 diethylstilboestrol
 dekaliters
 deobstruent
+deadcenter
 dietic
 dodgier
 decolorant
