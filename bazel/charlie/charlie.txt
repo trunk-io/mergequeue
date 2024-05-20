@@ -6397,6 +6397,7 @@ cav
 cavae
 ceratites
 cavaedium
+cancerate
 cavayard
 cavalcade
 cavalcaded
@@ -28117,7 +28118,6 @@ crany
 convincible
 crania
 craniacromial
-cancerate
 craniad
 cranially
 cranian
