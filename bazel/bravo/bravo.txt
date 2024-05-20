@@ -7526,7 +7526,6 @@ betides
 bego
 broadswords
 brazilin
-betiding
 blindfolds
 bowsprits
 betime
@@ -7732,6 +7731,7 @@ bewhisker
 briguer
 bewhisper
 bewhistle
+betiding
 bewhiten
 bewhore
 brontozoum
