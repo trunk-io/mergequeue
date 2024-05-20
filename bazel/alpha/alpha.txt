@@ -19778,7 +19778,6 @@ aristeas
 alertness
 aristeia
 aristida
-aristides
 aristippus
 aristocracy
 aristocratic
@@ -21833,6 +21832,7 @@ assify
 apprehensiveness
 assign
 assignability
+aristides
 assignable
 assignably
 assignat
