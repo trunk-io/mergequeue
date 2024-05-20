@@ -2840,6 +2840,7 @@ barouchette
 barouni
 baroxyton
 barque
+belite
 beebread
 bached
 bawrel
@@ -13502,7 +13503,6 @@ botulinus
 botulinuses
 beddable
 botulism
-belite
 brosimum
 botulisms
 brief
