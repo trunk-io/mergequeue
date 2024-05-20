@@ -1660,7 +1660,6 @@ electromotiv
 eidoptometry
 eidos
 ethylenes
-eyeball
 epiphloedal
 eyeballed
 eyeballing
@@ -12582,6 +12581,7 @@ exit
 exite
 exitial
 exiting
+eyeball
 envied
 enherit
 exitious
