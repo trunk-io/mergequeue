@@ -10837,7 +10837,6 @@ displays
 direr
 decanormal
 direx
-dirge
 dirged
 dirgelike
 dirgeman
@@ -16974,6 +16973,7 @@ dredgers
 dredges
 densher
 dree
+dirge
 dreed
 dogmatiser
 dreepy
