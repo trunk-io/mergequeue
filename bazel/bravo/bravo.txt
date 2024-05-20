@@ -2619,7 +2619,6 @@ brighter
 barkbound
 barkcutter
 benzalhydrazine
-balsameaceous
 barkeeper
 brazing
 barkeeps
@@ -5092,6 +5091,7 @@ bhunder
 beetlike
 bacteriophagia
 bisley
+balsameaceous
 beetrave
 beetroot
 belowdecks
