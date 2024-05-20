@@ -2480,7 +2480,6 @@ atrochal
 arisings
 acknowing
 aphid
-acknowledgeable
 acknowledged
 afoam
 adoxography
@@ -3286,6 +3285,7 @@ acubens
 acuchi
 acuclosure
 acuductor
+acknowledgeable
 antisepticist
 acuerdo
 acuesthesia
