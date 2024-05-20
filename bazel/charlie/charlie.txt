@@ -10253,7 +10253,6 @@ chiarooscuro
 chiarooscuros
 chiaroscuros
 chias
-chiasm
 cheesecakes
 chiasma
 chiasmal
@@ -21903,6 +21902,7 @@ conferring
 carboxyl
 cohorn
 counterstain
+chiasm
 conferruminate
 catslide
 confers
