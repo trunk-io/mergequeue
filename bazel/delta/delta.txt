@@ -4719,7 +4719,6 @@ demonastery
 dungyard
 dol
 dinic
-demisang
 demisangue
 demisavage
 douzaines
@@ -10765,6 +10764,7 @@ dipterocarpaceous
 dipterocarpous
 dowers
 dipterocarpus
+demisang
 dipteroi
 dependent
 diastase

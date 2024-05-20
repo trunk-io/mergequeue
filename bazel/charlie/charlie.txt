@@ -8707,7 +8707,6 @@ cymaphen
 chandui
 chanduy
 chandul
-chane
 caitiff
 chaneled
 chaneling
@@ -16528,6 +16527,7 @@ cloghad
 cloghaun
 cloghead
 cloglike
+chane
 clogmaker
 chokecherries
 cosmos
