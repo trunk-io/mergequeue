@@ -7450,7 +7450,6 @@ cryoprobe
 cephaloplegic
 clarisse
 cephalopod
-cephalopoda
 convolvulinolic
 cephalopodous
 cephalopterus
@@ -8376,6 +8375,7 @@ chaldee
 caricetum
 chalder
 chaldron
+cephalopoda
 conterminate
 chaleh
 chalehs
