@@ -9184,7 +9184,6 @@ charshaf
 charsingha
 curvacious
 charta
-chartable
 chartaceous
 chartae
 charter
@@ -17613,6 +17612,7 @@ coccogone
 coccogoneae
 coccoidal
 coccoids
+chartable
 canonlike
 coccolite
 coccolithophorid
