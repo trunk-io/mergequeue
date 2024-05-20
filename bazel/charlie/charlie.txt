@@ -2140,6 +2140,7 @@ chaetopoda
 cornamute
 campo
 campodean
+chantry
 creedbound
 campodeiform
 campodeoid
@@ -8804,7 +8805,6 @@ carman
 cheiloplasties
 chantors
 chantress
-chantry
 chantries
 chanukah
 chaogenous
