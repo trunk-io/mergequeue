@@ -1275,7 +1275,6 @@ bafflements
 baryonic
 bluejays
 balancelle
-brandishing
 biplanal
 balancers
 balander
@@ -5071,6 +5070,7 @@ beeswaxes
 bothriums
 beeswing
 byte
+brandishing
 bibliothec
 beetewk
 barways
