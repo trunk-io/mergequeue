@@ -520,6 +520,7 @@ cripplers
 cadet
 counterreply
 cadetcy
+chequers
 cadets
 cadetship
 cadette
@@ -10023,7 +10024,6 @@ chequebook
 chequer
 chequered
 chequering
-chequers
 chequerwork
 chequy
 chequin

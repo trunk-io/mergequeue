@@ -12416,7 +12416,6 @@ bombora
 bombous
 bombycilla
 bombs
-bombsights
 bombus
 bombardelle
 bomi
@@ -17320,6 +17319,7 @@ bummer
 bummie
 bummil
 bumming
+bombsights
 bummler
 bummock
 barberite
