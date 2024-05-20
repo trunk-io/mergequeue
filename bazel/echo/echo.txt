@@ -1846,7 +1846,6 @@ explicated
 euphonious
 expounding
 eleutherodactyl
-extramorainic
 eyn
 evechurr
 eyne
@@ -3162,6 +3161,7 @@ eltrot
 eluant
 enterophthisis
 eluating
+extramorainic
 enteritis
 elucidate
 expulser
