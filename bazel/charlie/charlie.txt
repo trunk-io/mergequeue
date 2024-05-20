@@ -6605,7 +6605,6 @@ cystoureteritis
 cecitis
 cecograph
 cecomorphae
-cecomorphic
 cecopexy
 cecostomy
 cecropia
@@ -30367,6 +30366,7 @@ cruzado
 cruzeiros
 churchliness
 cruzieros
+cecomorphic
 crwd
 crwth
 clubmobile
