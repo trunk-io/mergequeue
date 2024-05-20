@@ -9512,6 +9512,7 @@ alterocentric
 alters
 alteza
 altezza
+armhole
 arteriology
 althaea
 althaein
@@ -19948,7 +19949,6 @@ agoroth
 armguard
 asidehand
 aethon
-armhole
 armhoop
 adpao
 adeptest
