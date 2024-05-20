@@ -1333,7 +1333,6 @@ dompt
 dauntingly
 dart
 dauntingness
-dauntless
 dauntlessly
 dauntlessness
 daunton
@@ -12922,6 +12921,7 @@ dysorexia
 disorganise
 disorganised
 despisal
+dauntless
 dinoceratidae
 dispapalize
 dulc
