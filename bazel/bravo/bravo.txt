@@ -3847,6 +3847,7 @@ blastomeric
 batwing
 beswitch
 batwomen
+brachistocephalic
 batuque
 blastocolla
 bishopship
@@ -14098,7 +14099,6 @@ brachistocephali
 brachistocephaly
 bontee
 bimester
-brachistocephalic
 boloed
 brass
 brachistochrone
