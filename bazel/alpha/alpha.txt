@@ -801,7 +801,6 @@ abrogable
 abrogate
 anaglyphy
 antagonisation
-abrogating
 abrogative
 angiomegaly
 abroma
@@ -8792,6 +8791,7 @@ allylate
 allylation
 auriculars
 allylthiourea
+abrogating
 allineation
 allionia
 allioniaceae
