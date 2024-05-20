@@ -4420,6 +4420,7 @@ fishwood
 fishworker
 fishworks
 fringilliformes
+flocci
 furze
 fishworm
 fisnoga
@@ -5846,7 +5847,6 @@ faceless
 fraternate
 fastigia
 flocced
-flocci
 flagellate
 frustulose
 floccipend
