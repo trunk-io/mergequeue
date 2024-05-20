@@ -2543,7 +2543,6 @@ declare
 declaredly
 doorjamb
 declares
-demythologise
 daneworts
 declaring
 declasse
@@ -7620,6 +7619,7 @@ dactylonomy
 devadasi
 deval
 devaloka
+demythologise
 devalorize
 devaluate
 declinable
