@@ -5750,7 +5750,6 @@ emphasise
 explanation
 engouement
 epitheliogenetic
-engouled
 engoument
 equant
 exfoliation
@@ -11551,6 +11550,7 @@ exhibited
 evils
 evilspeaker
 evilspeaking
+engouled
 evilwishing
 eunuchize
 evince
