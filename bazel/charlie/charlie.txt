@@ -4665,7 +4665,6 @@ cryology
 carousal
 carousals
 carouse
-caroused
 carousel
 carousels
 carousers
@@ -24788,6 +24787,7 @@ catocathartic
 certify
 copses
 copsewood
+caroused
 copsewooded
 circs
 copsy
