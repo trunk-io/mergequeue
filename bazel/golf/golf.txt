@@ -4774,7 +4774,6 @@ gyrophoraceous
 gordiidae
 giros
 gyroscope
-glycolipide
 gyroscopes
 gyrose
 gyrostat
@@ -7890,6 +7889,7 @@ gemshorn
 grasslike
 grandfathers
 grandfer
+glycolipide
 glossina
 goniatitid
 gudge
