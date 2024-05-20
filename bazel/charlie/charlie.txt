@@ -27563,6 +27563,7 @@ consumation
 coverlid
 coverlids
 covers
+coxendix
 caller
 coversed
 coverside
@@ -27786,7 +27787,6 @@ coxcomically
 coxed
 cissing
 collinear
-coxendix
 cowishness
 coxes
 chokeable
