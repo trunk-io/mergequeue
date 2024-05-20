@@ -5778,6 +5778,7 @@ engrammes
 edwardine
 easily
 engrandize
+eclipsable
 ecesis
 engrandizement
 engraphic
@@ -13303,7 +13304,6 @@ exportations
 excavating
 elbow
 exported
-eclipsable
 enlength
 entireties
 electroculture
