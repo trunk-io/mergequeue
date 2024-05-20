@@ -6815,7 +6815,6 @@ endoplasma
 encinillo
 encheer
 escribing
-electrums
 entocone
 entoconid
 emotionality
@@ -13564,6 +13563,7 @@ extemporariness
 extemporisation
 extemporised
 extemporization
+electrums
 extemporized
 experientially
 effossion
