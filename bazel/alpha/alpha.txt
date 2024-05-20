@@ -2741,7 +2741,6 @@ acridyl
 acridin
 acridine
 acridines
-acridinic
 acridinium
 acridity
 acridities
@@ -20163,6 +20162,7 @@ arousals
 arouse
 alderflies
 araneiformia
+acridinic
 arouser
 abbas
 arouses
