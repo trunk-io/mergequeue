@@ -3862,7 +3862,6 @@ carbonizing
 carbonless
 carbonnieux
 carbonometer
-carbonometry
 chondrin
 carbonous
 carbons
@@ -23758,6 +23757,7 @@ contraposaune
 contrapose
 contraposed
 chalcograph
+carbonometry
 contraposit
 contraposita
 cataplexy
