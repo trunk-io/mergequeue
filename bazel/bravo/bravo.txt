@@ -1831,7 +1831,6 @@ banatite
 banausic
 billycans
 banbury
-banc
 bancha
 banco
 bonhomie
@@ -6490,6 +6489,7 @@ benzdioxdiazine
 benzein
 blinks
 benzene
+banc
 bastian
 benzenediazonium
 benzenes
