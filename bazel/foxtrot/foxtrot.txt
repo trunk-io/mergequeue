@@ -3474,6 +3474,7 @@ foreskirt
 fleeches
 flacker
 fight
+foulness
 fightable
 fingerable
 forel
@@ -10234,7 +10235,6 @@ fluency
 frivolling
 frontad
 fusobteria
-foulness
 frivolous
 foldboats
 frivolousness
