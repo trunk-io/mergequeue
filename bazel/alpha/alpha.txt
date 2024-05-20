@@ -5064,7 +5064,6 @@ aerometer
 aerometry
 abluted
 agenizes
-aerometric
 aeronat
 aeronaut
 aeronautic
@@ -25307,6 +25306,7 @@ azoformamide
 azogallein
 azogrenadine
 arabs
+aerometric
 abask
 amontillados
 azohumic
