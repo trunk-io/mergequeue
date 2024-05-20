@@ -10604,7 +10604,6 @@ amylolysis
 arkite
 amylolytic
 advenae
-amylom
 amylometer
 amylopectin
 amylophagia
@@ -11145,6 +11144,7 @@ amphicreatinine
 analabos
 amphictyon
 amphictyony
+amylom
 amphictyonian
 amphictyonies
 amphictyons
