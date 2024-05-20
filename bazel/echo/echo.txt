@@ -1720,7 +1720,6 @@ eyelessness
 eyelet
 eyeleted
 eyeletted
-eyeletting
 eyelid
 eyelids
 engining
@@ -3829,6 +3828,7 @@ emetins
 easiness
 extrabulbar
 excludible
+eyeletting
 exemplarily
 engladden
 emforth
