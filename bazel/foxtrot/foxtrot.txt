@@ -1896,7 +1896,6 @@ fremd
 frs
 feddan
 fedellini
-fishnets
 flavorer
 flamenco
 flowering
@@ -8823,6 +8822,7 @@ fossicker
 fiants
 fluigramme
 flysch
+fishnets
 frondigerous
 fossiform
 fastwalk
