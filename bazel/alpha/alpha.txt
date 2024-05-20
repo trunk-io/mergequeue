@@ -5617,7 +5617,6 @@ afterdays
 apokatastatic
 afterdate
 antifoam
-amadou
 afterdeal
 afterdeath
 afterdeck
@@ -21296,6 +21295,7 @@ apexes
 asymmetrical
 antimythical
 asymmetries
+amadou
 asymmetron
 asymptomatic
 asymptomatically
