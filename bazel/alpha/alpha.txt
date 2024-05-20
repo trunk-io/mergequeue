@@ -2908,7 +2908,6 @@ addaxes
 acromyotonia
 antiochene
 acromyotonus
-acromphalus
 acronic
 acronical
 acronically
@@ -17879,6 +17878,7 @@ ambosexous
 archdespot
 applications
 applicative
+acromphalus
 applicatively
 applicatory
 applicatorily
