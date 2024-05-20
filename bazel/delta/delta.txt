@@ -4503,7 +4503,6 @@ demeanors
 demele
 demembration
 demembre
-deonerate
 disassembled
 dement
 dementation
@@ -6447,6 +6446,7 @@ derogation
 depoliticizing
 derogative
 derogatively
+deonerate
 derogator
 derogatory
 dooja

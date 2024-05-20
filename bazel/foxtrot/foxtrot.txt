@@ -4417,6 +4417,7 @@ fishspear
 fishtail
 fluffier
 frosting
+floccular
 fomentation
 faddy
 fishtails
@@ -10883,7 +10884,6 @@ fulgur
 fulfill
 fustianist
 fulgural
-floccular
 flopover
 fenerate
 filicic
