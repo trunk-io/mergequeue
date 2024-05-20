@@ -3652,7 +3652,6 @@ embryologically
 embryologist
 embryoma
 elects
-embryonal
 earthmoving
 embryonated
 embryonic
@@ -11997,6 +11996,7 @@ edaphic
 excystation
 excystment
 encinal
+embryonal
 exhibitant
 excitability
 enthralls
