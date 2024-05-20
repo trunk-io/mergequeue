@@ -5747,6 +5747,7 @@ explanation
 engouement
 epitheliogenetic
 engoument
+epicheirema
 equant
 exfoliation
 engrace
@@ -7575,7 +7576,6 @@ exponence
 existences
 eructing
 epicerastic
-epicheirema
 epicheiremata
 ensepulchered
 emusify
