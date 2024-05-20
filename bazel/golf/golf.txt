@@ -8672,6 +8672,7 @@ greenish
 greenkeeper
 graffer
 gangion
+guidebooks
 grottowork
 garnishments
 gamene
@@ -10162,7 +10163,6 @@ goggly
 guato
 guidebookish
 genres
-guidebooks
 guiser
 giallolino
 guidepost
