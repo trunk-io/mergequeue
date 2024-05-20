@@ -2438,6 +2438,7 @@ barding
 bardings
 becalms
 bardlet
+bronchomotor
 bardlike
 bardling
 bluestone
@@ -15963,7 +15964,6 @@ bronchohemorrhagia
 broncholemmitis
 bronchomycosis
 besought
-bronchomotor
 bronchophony
 bronchoplasty
 braziery
