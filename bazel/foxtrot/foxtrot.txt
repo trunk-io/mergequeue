@@ -3527,7 +3527,6 @@ figures
 figuresome
 friesic
 femoropopliteal
-figurist
 fitchets
 fools
 figworts
@@ -6160,6 +6159,7 @@ fcp
 foresaw
 flowage
 flowcharted
+figurist
 fulicinae
 furnit
 finality
