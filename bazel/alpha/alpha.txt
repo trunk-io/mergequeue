@@ -6323,7 +6323,6 @@ abrim
 agon
 agonal
 aurorae
-agonia
 agoniada
 aul
 ascabart
@@ -8298,6 +8297,7 @@ aliening
 alienism
 alienisms
 alienist
+agonia
 abulic
 alienists
 alienize
