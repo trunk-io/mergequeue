@@ -9368,6 +9368,7 @@ gemmiparity
 genocide
 grote
 gitalin
+gulpers
 gunhouse
 genarcha
 grotesque
@@ -10404,7 +10405,6 @@ groundplot
 gillbird
 gulp
 giller
-gulpers
 geepound
 gulph
 getable
