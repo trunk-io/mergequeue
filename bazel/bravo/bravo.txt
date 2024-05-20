@@ -7578,6 +7578,7 @@ betrend
 braveries
 betrothing
 betrothment
+bedouin
 betroths
 betrousered
 betrumpet
@@ -9809,7 +9810,6 @@ bismite
 bismosol
 bismuth
 bismuthal
-bedouin
 bromids
 bismuthate
 bismuthide
