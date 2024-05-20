@@ -7247,7 +7247,6 @@ becalmed
 bespell
 bespelled
 bigoted
-bespend
 bespew
 bespy
 bespice
@@ -17926,6 +17925,7 @@ bivium
 bushelers
 bolshies
 bushelfuls
+bespend
 busheling
 bushelled
 biotechnology
