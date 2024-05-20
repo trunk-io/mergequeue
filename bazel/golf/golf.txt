@@ -3206,7 +3206,6 @@ germanite
 gurgles
 georgics
 gallification
-gnast
 geoscience
 gangsters
 geoscientists
@@ -8931,6 +8930,7 @@ grievedly
 gazy
 grieveship
 gursh
+gnast
 grievous
 gearbox
 ginnel
