@@ -3497,6 +3497,7 @@ captain
 captaincy
 captaincies
 captained
+carthame
 captainry
 captainship
 captainships
@@ -4925,7 +4926,6 @@ cartesian
 cartesianism
 cartful
 carthaginian
-carthame
 carthamic
 carthamus
 carthorse
