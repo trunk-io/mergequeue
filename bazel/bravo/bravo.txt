@@ -12518,7 +12518,6 @@ bagpiped
 bondwoman
 bone
 bonebreaker
-boned
 benignantly
 bonedry
 bonefish
@@ -13444,6 +13443,7 @@ bibliotheca
 bottekin
 botticelli
 brakehead
+boned
 bottlebird
 bottlebrush
 bionomics
