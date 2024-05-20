@@ -2212,7 +2212,6 @@ gaycat
 gastrotomy
 guereba
 gorrel
-geadephaga
 geal
 gubernacula
 gurish
@@ -5527,6 +5526,7 @@ glyptodon
 glyptodont
 goi
 glyptodontoid
+geadephaga
 gracelike
 gethsemane
 gablatores
