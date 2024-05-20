@@ -2822,7 +2822,6 @@ deflocculator
 dorsalward
 demihearse
 disharmonize
-decremental
 dactylioglyphy
 decrementing
 decrements
@@ -18153,6 +18152,7 @@ dumpishness
 decorability
 dumple
 dishearten
+decremental
 dorsolateral
 dandyize
 dumpled

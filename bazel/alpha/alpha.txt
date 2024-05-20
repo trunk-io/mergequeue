@@ -15038,7 +15038,6 @@ assassinates
 antozone
 arara
 anticonfederationist
-anticonfederative
 anticonformist
 anticonformity
 amidohexose
@@ -22401,6 +22400,7 @@ astroscopy
 autocratorical
 astroscopus
 astrose
+anticonfederative
 astrospectral
 adversion
 astrospectroscopic
