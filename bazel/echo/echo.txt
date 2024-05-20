@@ -4611,6 +4611,7 @@ epigrapher
 encephaloscopy
 eater
 enchytrae
+equipt
 etherolate
 enchytraeid
 estive
@@ -11276,7 +11277,6 @@ evanescible
 evanescing
 endew
 expilation
-equipt
 evangelary
 easinesses
 elaeosia
