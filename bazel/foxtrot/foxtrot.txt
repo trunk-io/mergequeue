@@ -5502,7 +5502,6 @@ flyback
 foreflank
 flancards
 flyball
-fantasticate
 flatworm
 fluctuant
 flibbertigibbety
@@ -10065,6 +10064,7 @@ frigidly
 flemished
 frigiferous
 frigolabile
+fantasticate
 fadlike
 fashion
 frigor
