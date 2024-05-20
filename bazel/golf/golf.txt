@@ -5778,7 +5778,6 @@ glossa
 glossolabiolaryngeal
 glossal
 glossalgy
-goldanged
 glossarial
 georgiadesite
 glossarist
@@ -6901,6 +6900,7 @@ gutwise
 gonozooid
 galactosemic
 gonzo
+goldanged
 gripman
 gynandroid
 glomi
