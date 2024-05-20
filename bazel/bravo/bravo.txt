@@ -13912,7 +13912,6 @@ bowstringed
 bowstrings
 bowstrung
 brichen
-bowtell
 bowwow
 bowwows
 broadened
@@ -17343,6 +17342,7 @@ bumpingly
 bumpkin
 bumpkins
 bigwiggedness
+bowtell
 bumpology
 bumps
 bumpsy
