@@ -593,6 +593,7 @@ emplacement
 examinate
 euonymin
 elitisms
+encapsuled
 exobiological
 educement
 echt
@@ -4422,7 +4423,6 @@ everest
 encapsulation
 emitted
 encapsule
-encapsuled
 estimators
 encapsules
 enure
