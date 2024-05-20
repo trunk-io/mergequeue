@@ -10609,7 +10609,6 @@ dolven
 diplomaing
 doleritic
 diplomas
-diplomat
 diplomata
 deben
 diplomates
@@ -12725,6 +12724,7 @@ dislodged
 dislodgement
 datchas
 dislodgment
+diplomat
 dyslogy
 dyslogistic
 doily
