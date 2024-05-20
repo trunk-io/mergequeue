@@ -352,7 +352,6 @@ clockroom
 cacogenics
 capsulate
 cacogeusia
-cacoglossia
 cacographer
 chemicovital
 cacographic
@@ -4560,6 +4559,7 @@ carnied
 carniferrin
 carnifex
 carnifexes
+cacoglossia
 carnification
 carnifices
 carnificial
