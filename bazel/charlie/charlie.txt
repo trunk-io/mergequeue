@@ -3508,7 +3508,6 @@ captation
 caption
 captioned
 convenably
-captioning
 captionless
 captiously
 captiousness
@@ -27140,6 +27139,7 @@ countershine
 countershock
 counterside
 crance
+captioning
 concurringly
 countersign
 cupful
