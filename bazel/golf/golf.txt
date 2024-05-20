@@ -4375,7 +4375,6 @@ generatively
 gerres
 glossist
 ger
-gateway
 gantang
 gruelled
 gynecomaniac
@@ -9364,6 +9363,7 @@ grosz
 grainsick
 gabriel
 gloea
+gateway
 gemmiparity
 genocide
 grote
