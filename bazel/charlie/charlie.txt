@@ -10902,7 +10902,6 @@ capriole
 chiplet
 clayman
 chipling
-chipmuck
 culvert
 chipmunk
 chipmunks
@@ -14620,6 +14619,7 @@ coupleress
 cyrtopia
 ciruela
 cirurgian
+chipmuck
 cyrus
 cis
 clogs
