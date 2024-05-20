@@ -4197,7 +4197,6 @@ bioblast
 biassing
 boomlet
 bicompact
-beard
 bankrupts
 bodysurfs
 beggars
@@ -6490,6 +6489,7 @@ benzdioxdiazine
 benzein
 blinks
 benzene
+beard
 bastian
 benzenediazonium
 benzenes
