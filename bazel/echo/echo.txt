@@ -4030,7 +4030,6 @@ embargos
 enrollees
 embarked
 emphatical
-endometritis
 emphysema
 emetic
 emphyteusis
@@ -9462,6 +9461,7 @@ enveigle
 educable
 escalades
 escalading
+endometritis
 excelsitude
 escalan
 enlute
