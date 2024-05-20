@@ -1268,7 +1268,6 @@ calibrates
 confectionaries
 conculcation
 calibrating
-calibrations
 calibre
 calibred
 calibres
@@ -27508,6 +27507,7 @@ covariables
 cheongsam
 coal
 covariant
+calibrations
 clavier
 cuban
 covariate
