@@ -7830,7 +7830,6 @@ certified
 certifier
 certifiers
 cystein
-certifies
 certifying
 coys
 certiorate
@@ -7913,6 +7912,7 @@ cervinae
 cosignatory
 cervine
 cervix
+certifies
 cervixes
 collar
 cervoid
