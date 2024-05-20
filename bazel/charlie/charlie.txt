@@ -12434,7 +12434,6 @@ conquerable
 chromatolytic
 chromatologies
 chromatone
-chromatopathy
 chromatopathia
 celebe
 chromatophil
@@ -29432,6 +29431,7 @@ cocceianism
 crystaling
 crystalitic
 cooption
+chromatopathy
 crystalize
 cantharis
 crystalled
