@@ -3458,7 +3458,6 @@ brotherton
 bastardizations
 bastardized
 bastardizes
-bastardly
 bastardliness
 bagani
 blype
@@ -6925,6 +6924,7 @@ bitte
 berrybush
 borocarbide
 berrichon
+bastardly
 busulfan
 berrichonne
 berrier
