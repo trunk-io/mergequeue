@@ -9423,6 +9423,7 @@ byproducts
 biprong
 bipunctual
 betokening
+burrows
 biconcavity
 biddelian
 biosterin
@@ -17842,7 +17843,6 @@ breakback
 burroughs
 burroweed
 burrower
-burrows
 benevolent
 burrstone
 burs
