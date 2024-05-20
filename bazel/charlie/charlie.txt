@@ -6769,7 +6769,6 @@ celidographer
 celidography
 celiectomy
 celiemia
-celiitis
 celiocele
 celiocyesis
 caninal
@@ -24752,6 +24751,7 @@ coprodaeum
 coproduce
 catpiece
 cardioplegia
+celiitis
 coproducer
 coproduction
 cantref
