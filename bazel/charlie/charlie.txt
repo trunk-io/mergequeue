@@ -3270,7 +3270,6 @@ cythera
 caplock
 coherald
 cordmaker
-capmaking
 capman
 capnodium
 capnoides
@@ -3486,6 +3485,7 @@ capsulogenous
 capsulolenticular
 capsulopupillary
 cuirie
+capmaking
 capsulorrhaphy
 capsulotomy
 captacula
