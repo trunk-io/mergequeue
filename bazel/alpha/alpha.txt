@@ -7261,7 +7261,6 @@ airfreighter
 alada
 aladdin
 arrivisme
-aladdinize
 adonic
 alagao
 alagarto
@@ -17483,6 +17482,7 @@ acquital
 aposteriori
 aposthia
 aposthume
+aladdinize
 apostil
 apostille
 apostle
