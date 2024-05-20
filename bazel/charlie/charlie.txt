@@ -16558,6 +16558,7 @@ charoset
 canners
 clogwyn
 clogwood
+contra
 calvinian
 cloy
 cloyedness
@@ -25928,7 +25929,6 @@ corseting
 corsetry
 continuative
 corsets
-contra
 chopboat
 corsy
 corsican
