@@ -11358,7 +11358,6 @@ cyanotrichite
 coincider
 chlorococcum
 chlorococcus
-chlorocresol
 chlorodyne
 chlorodize
 chlorodized
@@ -24961,6 +24960,7 @@ corbeil
 corbeils
 corbelled
 corbelling
+chlorocresol
 corbels
 corbet
 corby
