@@ -6280,6 +6280,7 @@ caupones
 colobium
 caurale
 cetiosauria
+chemicophysiological
 caurus
 clarinda
 caus
@@ -9866,7 +9867,6 @@ chemicopharmaceutical
 chemicophysical
 cresses
 ciliary
-chemicophysiological
 curtaining
 chemiculture
 chemigraphy
