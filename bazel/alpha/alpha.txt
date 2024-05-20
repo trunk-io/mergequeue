@@ -11192,7 +11192,6 @@ aerobacter
 amphigonic
 amphigonium
 apocrita
-amphigory
 amphigories
 allthing
 amphikaryotic
@@ -19834,6 +19833,7 @@ arithmancy
 arithmetic
 arithmetically
 anfeeld
+amphigory
 autophthalmoscope
 aoudads
 arithmetician
