@@ -6959,6 +6959,7 @@ airsick
 airsickness
 airsome
 airspace
+absorbencies
 airspaces
 ancience
 apostolic
@@ -23791,7 +23792,6 @@ assumable
 achango
 autarchy
 autarchic
-absorbencies
 autarchically
 autarchies
 autarchist
