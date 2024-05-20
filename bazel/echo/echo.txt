@@ -1374,7 +1374,6 @@ emissions
 endomysial
 endears
 embryous
-exiled
 efflation
 eelcatcher
 echinologist
@@ -9761,6 +9760,7 @@ empire
 esparsette
 espartos
 eagerly
+exiled
 enhydritic
 espec
 ependymitis
