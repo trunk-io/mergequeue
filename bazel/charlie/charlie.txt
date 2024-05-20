@@ -17453,6 +17453,7 @@ cobbin
 cobbing
 causeries
 cobble
+curdler
 capax
 cobbled
 cobbler
@@ -31285,7 +31286,6 @@ curdiest
 curdiness
 curdle
 curdled
-curdler
 calorify
 cottabus
 curdles

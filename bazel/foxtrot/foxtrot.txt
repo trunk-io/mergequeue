@@ -1668,6 +1668,7 @@ fconv
 farcin
 familiar
 faradocontractility
+filmically
 four
 fdnames
 fdtype
@@ -10918,7 +10919,6 @@ florette
 fleeten
 fossarian
 flambe
-filmically
 fullered
 fullery
 fulleries
