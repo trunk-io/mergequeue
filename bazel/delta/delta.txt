@@ -2987,7 +2987,6 @@ developist
 dedit
 daggy
 dediticiancy
-dedoggerelize
 dedogmatize
 dedolation
 dexies
@@ -15378,6 +15377,7 @@ distoma
 decempedate
 dynamize
 dafter
+dedoggerelize
 dominae
 derisions
 dominancy
