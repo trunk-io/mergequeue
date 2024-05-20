@@ -5297,6 +5297,7 @@ ccws
 conspectuity
 cassius
 cassock
+ctenophora
 cassocked
 cultures
 cassocks
@@ -30410,7 +30411,6 @@ curatize
 carrys
 ctenolium
 carlylism
-ctenophora
 ctenophoran
 ctenophore
 codesigning
