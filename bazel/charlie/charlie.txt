@@ -6388,7 +6388,6 @@ cautioner
 cautioners
 cautiones
 cautioning
-canard
 cautionry
 cautious
 cautiously
@@ -10734,6 +10733,7 @@ chymist
 chymists
 chimla
 chimleys
+canard
 calciclase
 chytridial
 chimney
