@@ -3024,6 +3024,7 @@ geochronology
 gifting
 geocyclic
 geocline
+gnat
 glideless
 geocoronium
 gordunite
@@ -6156,7 +6157,6 @@ gravispheric
 gnashingly
 gushiest
 girr
-gnat
 gnathal
 gnathite
 gruesomest
