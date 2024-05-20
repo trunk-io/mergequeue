@@ -1077,7 +1077,6 @@ fuzzle
 forthcomer
 fothergilla
 farmyard
-ferlies
 farmyardy
 farmout
 fisc
@@ -9421,6 +9420,7 @@ floatiest
 frostbiting
 fleecier
 frankfurters
+ferlies
 frankify
 fictionalization
 fragrances
