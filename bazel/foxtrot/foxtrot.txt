@@ -7773,6 +7773,7 @@ flabelliform
 forsaker
 favillae
 fascines
+feeders
 fireproofing
 foremastmen
 foremasts
@@ -9687,7 +9688,6 @@ fortifications
 flueman
 fanwe
 fluviograph
-feeders
 ferias
 fortalice
 flunkers
