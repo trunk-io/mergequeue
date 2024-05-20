@@ -18684,6 +18684,7 @@ clinocephalism
 coker
 censuses
 cokes
+confirmed
 cokewold
 coky
 cokie
@@ -22016,7 +22017,6 @@ confirmations
 confirmatively
 confirmatory
 confirmatorily
-confirmed
 confirmedness
 confirmer
 cibarious
