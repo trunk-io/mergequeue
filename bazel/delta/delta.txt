@@ -11173,7 +11173,6 @@ disbarring
 disbars
 disbase
 disbeliefs
-disbelieved
 disproportions
 desophisticate
 dialings
@@ -17900,6 +17899,7 @@ droopt
 duenas
 duende
 dermatoid
+disbelieved
 dracaena
 duenesses
 discandy
