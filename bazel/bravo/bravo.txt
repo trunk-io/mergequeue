@@ -11679,6 +11679,7 @@ boathook
 boathouse
 boatyard
 backbends
+bracherer
 boating
 boatings
 bavarian
@@ -14003,7 +14004,6 @@ bazoos
 brach
 brachelytra
 brachelytrous
-bracherer
 brachet
 bracozzo
 brachial
