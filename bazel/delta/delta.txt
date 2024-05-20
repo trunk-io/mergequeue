@@ -6113,7 +6113,6 @@ der
 deboites
 deracinate
 deracinating
-deoxidise
 devilism
 dropling
 deracination
@@ -9222,6 +9221,7 @@ dyehouse
 dieyerie
 disguiser
 dentinoma
+deoxidise
 dieing
 dyeings
 dieldrin
