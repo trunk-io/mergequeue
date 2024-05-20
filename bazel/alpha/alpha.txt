@@ -20539,6 +20539,7 @@ arteriosympathectomy
 airfreight
 arteriospasm
 arteriostenosis
+auguration
 admix
 arteriotome
 arteriotomy
@@ -23419,7 +23420,6 @@ augrim
 arguendo
 augural
 augurate
-auguration
 anywhy
 augure
 augured
