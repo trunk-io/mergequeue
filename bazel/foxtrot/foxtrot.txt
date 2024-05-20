@@ -7713,7 +7713,6 @@ floatmaker
 floodlights
 finnack
 forbathe
-format
 fulls
 frequencies
 flavedos
@@ -10774,6 +10773,7 @@ frustulent
 frustules
 footrope
 frustum
+format
 frutage
 frutescent
 frutex
