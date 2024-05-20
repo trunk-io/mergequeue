@@ -4401,7 +4401,6 @@ basurale
 bebog
 bebopper
 beboppers
-bevel
 bebops
 barbre
 belongings
@@ -10747,6 +10746,7 @@ bleared
 belt
 bleary
 blearyeyedness
+bevel
 blearier
 bleariest
 begarnish
