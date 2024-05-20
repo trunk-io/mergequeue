@@ -2184,7 +2184,6 @@ gazella
 gazelle
 gazellelike
 gazelline
-gazement
 gynocratic
 gazettal
 gazette
@@ -2756,6 +2755,7 @@ geniculate
 grayly
 grievers
 geniculately
+gazement
 grunzie
 geniculation
 gonapophysal
