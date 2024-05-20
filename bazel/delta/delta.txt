@@ -2006,6 +2006,7 @@ decaffeinate
 decaffeinated
 depicted
 decaffeinates
+depolarising
 deadpanner
 decaffeinating
 decaffeinize
@@ -8759,7 +8760,6 @@ diathermotherapy
 diathesic
 demisacrilege
 diathesis
-depolarising
 diatoma
 diatomaceae
 diatomaceous
