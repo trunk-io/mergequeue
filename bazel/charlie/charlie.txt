@@ -5352,6 +5352,7 @@ castellatus
 castellet
 cyanformic
 castelli
+contraregular
 castellum
 casten
 caster
@@ -14149,7 +14150,6 @@ cyprididae
 cypridina
 cypridinidae
 calfret
-contraregular
 cypridinoid
 cyprina
 cyprine
