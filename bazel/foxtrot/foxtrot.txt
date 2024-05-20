@@ -9693,7 +9693,6 @@ flunkers
 freelance
 fornax
 freeload
-freeloaded
 freemanship
 freemartin
 freemason
@@ -10696,6 +10695,7 @@ fixity
 fruitiness
 famish
 frightable
+freeloaded
 facultied
 fungaceous
 farting
