@@ -739,6 +739,7 @@ badgeman
 barrels
 badger
 breeches
+bastion
 boudoirs
 bogwort
 badgered
@@ -3470,7 +3471,6 @@ bastinado
 bastinadoing
 basting
 bastings
-bastion
 blendure
 builtin
 bastionary
