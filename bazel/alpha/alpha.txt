@@ -6616,6 +6616,7 @@ ahom
 ahorse
 ahorseback
 ahousaht
+aldimin
 ahriman
 ahs
 ablare
@@ -7818,7 +7819,6 @@ attaining
 aldide
 arrhythmy
 aldime
-aldimin
 antibias
 alditol
 aldm
