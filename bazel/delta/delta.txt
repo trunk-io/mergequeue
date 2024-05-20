@@ -2614,6 +2614,7 @@ decoctum
 decodable
 decode
 decoded
+devastator
 decoders
 decodes
 decoding
@@ -12916,7 +12917,6 @@ decasyllables
 dampishness
 disordinance
 disordinate
-devastator
 distitle
 disordinated
 disconsider
