@@ -1621,7 +1621,6 @@ egritude
 elohimic
 egromancy
 egurgitate
-egurgitated
 egurgitating
 endearingly
 euphonon
@@ -8755,6 +8754,7 @@ equisetic
 equisided
 edaphically
 equisignal
+egurgitated
 elaborated
 equisonance
 equispatial
