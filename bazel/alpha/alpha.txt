@@ -15779,6 +15779,7 @@ antiparalytic
 afterstain
 antirun
 antiparalytical
+assemble
 antiparallel
 androidal
 antiparallelogram
@@ -21713,7 +21714,6 @@ assembl
 assemblable
 assemblage
 assemblance
-assemble
 assembled
 anniv
 assembler
