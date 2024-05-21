@@ -434,7 +434,6 @@ dilapidator
 disthrall
 daystreak
 daytide
-daytimes
 dayton
 disburthen
 denda
@@ -2360,6 +2359,7 @@ daphnid
 demoralisation
 deprecatoriness
 decessit
+daytimes
 decessor
 diphosphothiamine
 drink
