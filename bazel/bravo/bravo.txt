@@ -6699,7 +6699,6 @@ berates
 blastospheric
 berattle
 boatside
-beraunite
 basichromiole
 berber
 borickite
@@ -10978,6 +10977,7 @@ behovely
 blinders
 blindest
 blindfast
+beraunite
 blindfish
 blindfishes
 bluelegs
