@@ -9236,7 +9236,6 @@ alnath
 alnein
 awest
 alnico
-authenticating
 alnicoes
 antemetic
 alnilam
@@ -16647,6 +16646,7 @@ ambuscading
 apa
 apabhramsa
 acecaffin
+authenticating
 apace
 apache
 apachite
