@@ -9150,6 +9150,7 @@ garrison
 grise
 grisettish
 grisled
+guids
 grisly
 gebur
 gooserumped
@@ -10187,7 +10188,6 @@ gladiolar
 gighe
 goos
 guidon
-guids
 gillies
 guidwife
 gravitater

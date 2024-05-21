@@ -22284,7 +22284,6 @@ astringed
 astringents
 astringer
 astringes
-apothegm
 astrion
 astrionics
 ableeze
@@ -23127,6 +23126,7 @@ attestations
 alalia
 attestative
 attestator
+apothegm
 antiseption
 artemisic
 attested
