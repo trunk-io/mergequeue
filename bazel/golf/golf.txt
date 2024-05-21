@@ -6882,6 +6882,7 @@ globins
 geohydrologic
 gonopodium
 gallican
+gloea
 gobleted
 gonopodpodia
 gonopoietic
@@ -9365,7 +9366,6 @@ grossularite
 grosz
 grainsick
 gabriel
-gloea
 gemmiparity
 genocide
 grote
