@@ -2597,7 +2597,6 @@ blackie
 basiglandular
 baryon
 baryphonia
-baryphonic
 baris
 bearleap
 bromating
@@ -8060,6 +8059,7 @@ bibliopegically
 bibliopegistical
 bibliophagous
 bongoists
+baryphonic
 bluntishness
 bloodstainedness
 byron
