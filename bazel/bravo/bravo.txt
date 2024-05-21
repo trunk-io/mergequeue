@@ -2291,7 +2291,6 @@ barbarisms
 bronstrops
 barbarity
 barbarities
-barbarization
 bewelter
 breedling
 brigid
@@ -8007,6 +8006,7 @@ bibi
 bibio
 bibionid
 barbitalism
+barbarization
 bibiri
 bibitory
 bible
