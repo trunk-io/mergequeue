@@ -10208,7 +10208,6 @@ chevin
 cheviots
 crined
 chevre
-chevres
 chevret
 chevreuil
 chevrolet
@@ -28222,6 +28221,7 @@ crankshafts
 corpulent
 crannage
 crannel
+chevres
 crannequin
 chalukyan
 crannia
