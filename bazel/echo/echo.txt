@@ -2314,7 +2314,6 @@ extractors
 elasmosaur
 eutectic
 emulsifying
-egba
 erythrophore
 episteme
 electrocoating
@@ -5197,6 +5196,7 @@ euphuizing
 equiform
 endopleural
 east
+egba
 electrometry
 emprizes
 esphresis
