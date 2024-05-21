@@ -10953,6 +10953,7 @@ disaffiliation
 dialectologies
 disaffinity
 disaffirmance
+doxasticon
 disaffirmation
 detention
 disaffirming
@@ -16419,7 +16420,6 @@ doxa
 diapsidan
 doxastic
 dechlog
-doxasticon
 doxy
 doxie
 doxies
