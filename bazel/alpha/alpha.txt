@@ -12539,7 +12539,6 @@ astroscope
 antisudorific
 anemophile
 anemophily
-anemopsis
 anemoscope
 afront
 aye
@@ -22734,6 +22733,7 @@ atlatls
 atloaxoid
 atloid
 atloidean
+anemopsis
 atloidoaxoid
 academicianship
 atma
