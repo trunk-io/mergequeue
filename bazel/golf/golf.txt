@@ -2055,7 +2055,6 @@ gaurs
 gimbri
 gaussage
 gaussbergite
-gaussian
 gaskings
 gageite
 gaussmeter
@@ -9279,6 +9278,7 @@ gursh
 guayaberas
 grossularia
 goatskin
+gaussian
 gradines
 grandioseness
 groomers
