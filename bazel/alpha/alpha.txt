@@ -4534,6 +4534,7 @@ adulticidal
 adulticide
 adultlike
 adultness
+analogousness
 adultoid
 adultress
 adumbrated
@@ -11841,7 +11842,6 @@ analogon
 analogous
 analogously
 aristocratically
-analogousness
 analogue
 anaptychi
 analphabet
