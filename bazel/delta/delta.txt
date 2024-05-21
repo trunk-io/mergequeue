@@ -6667,6 +6667,7 @@ deserticolous
 draughtswoman
 desertification
 distressfully
+default
 deserting
 desertion
 didymitis
@@ -11773,7 +11774,6 @@ discretely
 dogfall
 discreteness
 disjunctions
-default
 dined
 distrouser
 dicht
