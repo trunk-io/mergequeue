@@ -15799,6 +15799,7 @@ chemics
 cytologies
 clavicythetheria
 clavicittern
+contraction
 clavicle
 clavicles
 clavicorn
@@ -23679,7 +23680,6 @@ carbolise
 contractibly
 cattlegate
 contractility
-contraction
 contractional
 contractionist
 contractions
