@@ -2119,6 +2119,7 @@ bannerline
 bannerman
 bannermen
 bannerole
+biosociological
 bannerols
 bannet
 bannisters
@@ -9277,7 +9278,6 @@ bradylexia
 biosocial
 biosociology
 bullshots
-biosociological
 biosome
 biospeleology
 boniest

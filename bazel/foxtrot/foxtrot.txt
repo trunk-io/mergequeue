@@ -5446,7 +5446,6 @@ factories
 fletchers
 fletches
 furrower
-feynesses
 fleuret
 filionymic
 fleurette
@@ -9086,6 +9085,7 @@ fowlpox
 footpick
 fib
 fallaciousness
+feynesses
 fowls
 fringillid
 fabrique
