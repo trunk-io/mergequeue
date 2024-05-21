@@ -9199,7 +9199,6 @@ chartermaster
 charters
 charthouse
 cindered
-charting
 chartist
 chartless
 chartlet
@@ -15294,6 +15293,7 @@ clayey
 clayer
 cantharidating
 conspecifics
+charting
 contchar
 clayier
 clayiest
