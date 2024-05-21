@@ -7382,7 +7382,6 @@ featous
 footlessly
 foobar
 forbiddenly
-focometry
 fissidens
 foederis
 fenestellae
@@ -8332,6 +8331,7 @@ ficus
 forswornness
 forks
 forksful
+focometry
 forksmith
 ferromagneticism
 faceup
