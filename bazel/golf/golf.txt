@@ -1150,7 +1150,6 @@ grenadilla
 gulley
 gamed
 genitives
-ganister
 glamourie
 gynaecocratic
 groat
@@ -9807,6 +9806,7 @@ guaycuruan
 guaymie
 guayroto
 guarache
+ganister
 geologize
 guiling
 guerickian
