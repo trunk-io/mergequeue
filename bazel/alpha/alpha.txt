@@ -11835,7 +11835,6 @@ analogise
 analogised
 anteroventral
 analogize
-appropriation
 analogon
 analogous
 analogously
@@ -15081,6 +15080,7 @@ anticorrosion
 anticorrosive
 anticorrosiveness
 alsatia
+appropriation
 agamospermy
 anticorset
 anticosine
