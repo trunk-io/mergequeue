@@ -694,7 +694,6 @@ diameter
 dagassa
 dextrous
 danakil
-danalite
 danaro
 dihydrocupreine
 domination
@@ -10473,6 +10472,7 @@ dimyarian
 diphthongation
 dendrodra
 diphthongic
+danalite
 diphthonging
 diphthongisation
 demolishes
