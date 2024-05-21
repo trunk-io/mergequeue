@@ -3543,7 +3543,6 @@ counterbase
 capucine
 capulet
 capulin
-caput
 caputium
 caque
 counterstrike
@@ -9395,6 +9394,7 @@ chauliodes
 chaulmaugra
 chaulmoogra
 cytodendrite
+caput
 chaulmoogric
 chaulmugra
 cnidosac
