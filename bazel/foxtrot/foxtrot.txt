@@ -7331,6 +7331,7 @@ foraying
 foralite
 foram
 foramen
+furrowless
 fearnaught
 frampold
 flamfew
@@ -11475,7 +11476,6 @@ furrowers
 freakouts
 furrowy
 furrowing
-furrowless
 furrowlike
 furrows
 furrure
