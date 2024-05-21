@@ -12722,6 +12722,7 @@ besilver
 boohoos
 bedwarfed
 boojum
+brushable
 barquette
 book
 balsamo
@@ -17694,7 +17695,6 @@ buriers
 boff
 blockish
 boris
-brushable
 broncholith
 burinist
 bonsai
