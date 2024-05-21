@@ -9485,7 +9485,6 @@ birdeye
 birdfarm
 brachiotomy
 britannia
-beflowering
 birdglue
 birdhood
 birdhouse
@@ -17884,6 +17883,7 @@ burstone
 botein
 burthen
 burthened
+beflowering
 bluewing
 burthening
 burthens

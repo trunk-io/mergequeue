@@ -4336,7 +4336,6 @@ enamelist
 equiped
 enamelless
 earsh
-enamels
 encomia
 enami
 enamorado
@@ -11894,6 +11893,7 @@ exomion
 excellence
 excellency
 excellent
+enamels
 ethnologic
 enomoty
 excelling
