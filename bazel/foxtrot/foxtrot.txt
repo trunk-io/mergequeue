@@ -987,7 +987,6 @@ folksinger
 fardage
 farded
 flarfish
-forklifts
 fardel
 foxhound
 fardelet
@@ -9706,6 +9705,7 @@ foredefine
 floriform
 falser
 fishbowl
+forklifts
 freemasonical
 freen
 femineity
