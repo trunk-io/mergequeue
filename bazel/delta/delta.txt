@@ -1187,6 +1187,7 @@ darghin
 datasets
 decanol
 dictums
+deceivableness
 datatype
 datatypes
 datcha
@@ -8265,7 +8266,6 @@ diaene
 diaereses
 diaeretic
 decanoyl
-deceivableness
 diaetetae
 dimerlie
 diagenesis

@@ -5319,7 +5319,6 @@ begattal
 bastes
 bobbled
 bothsided
-barlock
 begaze
 begazes
 begazing
@@ -12229,6 +12228,7 @@ blamable
 buffy
 bollock
 baromacrometer
+barlock
 bolloxes
 bolloxing
 bolls
