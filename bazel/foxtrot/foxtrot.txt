@@ -4218,7 +4218,6 @@ fireplugs
 firepot
 fireroom
 ferroconcretor
-fleck
 firers
 fanfoot
 forfeits
@@ -11313,6 +11312,7 @@ fractionary
 fabular
 fleabug
 furbish
+fleck
 furbishes
 flaxwife
 fulciform
