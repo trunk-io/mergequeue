@@ -2151,6 +2151,7 @@ guggles
 grandness
 gastrostege
 geison
+gonangial
 gruffed
 gymnogenous
 gawking
@@ -6684,7 +6685,6 @@ granivorous
 gonaduct
 gesticulated
 gonalgia
-gonangial
 gonangium
 gonapod
 golosh
