@@ -6314,7 +6314,6 @@ dermatoneural
 dermatoneurosis
 dustuck
 dermatonosus
-dialysepalous
 dermatopathic
 davoch
 dodecanesian
@@ -18392,6 +18391,7 @@ duotriode
 duoviri
 dup
 dupable
+dialysepalous
 dupatta
 disarrayed
 dupe
