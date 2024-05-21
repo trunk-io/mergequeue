@@ -8390,7 +8390,6 @@ acappella
 aliptae
 alipteria
 alipterion
-aliptes
 aliptic
 aporia
 aliptteria
@@ -8433,6 +8432,7 @@ aliunde
 asternia
 alive
 alives
+aliptes
 achromatiaceae
 aeolodicon
 alivincular

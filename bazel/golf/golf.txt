@@ -3070,7 +3070,6 @@ geoids
 gladioluses
 geoisotherm
 gegenion
-geolatry
 geologer
 geologian
 geological
@@ -5425,6 +5424,7 @@ glyconeogenesis
 grangerisation
 goodhearted
 galvanoplastical
+geolatry
 glyconic
 glyconics
 gratifications
