@@ -1799,7 +1799,6 @@ camass
 camasses
 cheerers
 cyrillaceae
-celosia
 camassia
 camata
 camauro
@@ -29533,6 +29532,7 @@ crithomancy
 critic
 critical
 criticality
+celosia
 criticalness
 criticaster
 criticasterism
