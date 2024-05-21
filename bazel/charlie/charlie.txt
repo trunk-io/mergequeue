@@ -5137,6 +5137,7 @@ casemaking
 casemates
 casemented
 casements
+comps
 caseolysis
 caseose
 caseous
@@ -23985,7 +23986,6 @@ caproyl
 chrisroot
 convey
 conveyable
-comps
 conveyance
 conveyances
 conveyed
