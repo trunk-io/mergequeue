@@ -7988,7 +7988,6 @@ beglamour
 bibbery
 bursautee
 bibberies
-bibbing
 bibble
 beclose
 bibbler
@@ -16563,6 +16562,7 @@ beltings
 blastogeny
 bilaminated
 buccin
+bibbing
 buccina
 biometry
 berascals
