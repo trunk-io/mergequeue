@@ -26956,7 +26956,6 @@ countermanifestoes
 colorable
 chevaux
 cunningaire
-canephroi
 countermarching
 chiropractors
 countermarriage
@@ -27933,6 +27932,7 @@ correal
 cionoptosis
 crackerjacks
 crackers
+canephroi
 cryptographic
 cracket
 crackhemp
