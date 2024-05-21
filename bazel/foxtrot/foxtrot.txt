@@ -5974,7 +5974,6 @@ folkways
 felaheen
 fawny
 floorshow
-floorway
 fluidrachm
 floorward
 fictioneering
@@ -7080,6 +7079,7 @@ firehalls
 floodwater
 fedayeen
 foolish
+floorway
 fortuneless
 forcipulata
 fluctigerous
