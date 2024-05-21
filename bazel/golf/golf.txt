@@ -581,7 +581,6 @@ gasolines
 glycerine
 galleries
 gallerygoer
-galleriidae
 groundless
 galleryite
 gazometer
@@ -4129,6 +4128,7 @@ ganowanian
 gillotype
 gillstoup
 gilour
+galleriidae
 gilpey
 gilravage
 gushingly
