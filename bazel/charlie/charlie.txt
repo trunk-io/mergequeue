@@ -1090,6 +1090,7 @@ calcinatory
 calcine
 calcined
 calciner
+cresylene
 compared
 calcines
 calcinize
@@ -28791,7 +28792,6 @@ cresegol
 chironomy
 cresyl
 cresylate
-cresylene
 cresylic
 cresylite
 cresyls
