@@ -8808,6 +8808,7 @@ chaogenous
 chaology
 chaori
 crappers
+corkiness
 chaos
 chaotic
 chaoticness
@@ -25296,7 +25297,6 @@ corkers
 cense
 corkier
 ciliola
-corkiness
 corking
 crome
 corklike
