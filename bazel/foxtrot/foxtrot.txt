@@ -4648,6 +4648,7 @@ furtherer
 flowerlet
 fasciotomy
 fusiformis
+firefang
 fixup
 fixure
 furs
@@ -9925,7 +9926,6 @@ furnacite
 fpm
 fretting
 fretum
-firefang
 figurante
 fostership
 fluors

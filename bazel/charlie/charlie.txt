@@ -9587,6 +9587,7 @@ commonize
 crossbowmen
 checkrack
 checkrail
+celesta
 checkrein
 checkroll
 checkroom
@@ -22899,7 +22900,6 @@ collated
 consy
 consider
 considerable
-celesta
 considerableness
 considerably
 compreg
