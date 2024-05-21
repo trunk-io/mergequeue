@@ -13985,7 +13985,6 @@ apparance
 answerable
 answerably
 answered
-answerer
 answerers
 answeringly
 answerless
@@ -14529,6 +14528,7 @@ anthrohopobiological
 armigero
 aclinal
 anthrol
+answerer
 andouille
 anthrop
 anthrophore
