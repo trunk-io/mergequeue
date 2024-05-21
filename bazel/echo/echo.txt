@@ -1675,7 +1675,6 @@ endonuclear
 endostome
 eyeblack
 eyeblink
-eyebright
 exorcistical
 eyebrows
 eyecup
@@ -1975,6 +1974,7 @@ episternite
 evictees
 emulsic
 eradiculose
+eyebright
 elaborating
 elaboration
 espials

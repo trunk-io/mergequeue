@@ -5565,6 +5565,7 @@ gluily
 glissader
 gadean
 glissades
+growthless
 groschen
 glissandi
 glissando
@@ -9596,7 +9597,6 @@ guisarme
 gracileness
 gorevan
 gastromalacia
-growthless
 guacico
 grozart
 gingery
