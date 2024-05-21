@@ -4731,6 +4731,7 @@ diploglossate
 demisemiquaver
 delineable
 demisemitone
+disglut
 demisheath
 danknesses
 demishirt
@@ -12229,7 +12230,6 @@ dysgeogenous
 dsect
 disglory
 dimication
-disglut
 dysgonic
 dehortation
 dundavoe
