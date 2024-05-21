@@ -4770,7 +4770,6 @@ diplomatize
 demythologizer
 dees
 demitint
-demitoilet
 demitone
 deteriorated
 demitrain
@@ -11500,6 +11499,7 @@ dwarfy
 dimorphisms
 discomedusae
 dentiphone
+demitoilet
 discomfit
 discomfiter
 discomfits
