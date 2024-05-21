@@ -2540,7 +2540,6 @@ gale
 gotched
 goldeneye
 glycohemia
-ghoulish
 grypanian
 gemologist
 gasthauser
@@ -8621,6 +8620,7 @@ gorsechat
 gypsography
 greek
 greekish
+ghoulish
 greekism
 gawkier
 germiniparous
