@@ -1964,7 +1964,6 @@ bandstand
 beacon
 boronia
 beraked
-bandster
 bandstop
 balances
 brewings
@@ -4782,6 +4781,7 @@ bedizenment
 bedizens
 bedkey
 bourses
+bandster
 bandpass
 booked
 braze
