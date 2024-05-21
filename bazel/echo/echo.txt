@@ -4270,7 +4270,6 @@ endometrium
 emulsifier
 edingtonite
 emulsifiers
-emulsifies
 exchequer
 emulsin
 earworms
@@ -6431,6 +6430,7 @@ ensorcellment
 ensorrow
 encumberment
 enrobers
+emulsifies
 eucalyn
 ectodactylism
 ensoul
