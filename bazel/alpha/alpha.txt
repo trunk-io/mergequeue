@@ -964,7 +964,6 @@ antagonisable
 absorbents
 absorbers
 absorbing
-absorbtion
 absorpt
 absorptiometer
 allegeable
@@ -13134,6 +13133,7 @@ airometer
 anilins
 anilities
 anilla
+absorbtion
 anilopyrin
 anabas
 alloxanate
