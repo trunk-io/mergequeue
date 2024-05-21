@@ -5439,6 +5439,7 @@ affordable
 affording
 akaroa
 afforestable
+argoletier
 afforested
 afforesting
 anticourt
@@ -19593,7 +19594,6 @@ absolvers
 afforestational
 argol
 accessoriness
-argoletier
 argolian
 assaults
 answerableness
