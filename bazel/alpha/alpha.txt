@@ -1525,7 +1525,6 @@ acclimatizable
 acclimatize
 acclimatizer
 acclimatizes
-acrisia
 anticness
 acclinal
 acclinate
@@ -10046,6 +10045,7 @@ ambisinister
 ambisinistrous
 ambystoma
 ambystomidae
+acrisia
 ambit
 ambital
 autotoxis
