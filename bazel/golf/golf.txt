@@ -3116,7 +3116,6 @@ gutterling
 gastromyces
 glumal
 geometridae
-gangshag
 geometriform
 gelinotte
 graminicolous
@@ -9576,6 +9575,7 @@ globelet
 guzerat
 glaucosis
 gonorrheal
+gangshag
 giottesque
 grownup
 grownups
