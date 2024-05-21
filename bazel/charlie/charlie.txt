@@ -962,7 +962,6 @@ calamine
 chaton
 cervidae
 calamined
-calamines
 confiscating
 calamining
 calamint
@@ -16502,6 +16501,7 @@ clockwatcher
 clockwise
 clockworked
 clavigerous
+calamines
 carthamin
 clockworks
 clodbreaker
