@@ -434,6 +434,7 @@ erf
 embrew
 elasticate
 eccyesis
+electrocoating
 eccl
 ecart
 evector
@@ -2316,7 +2317,6 @@ emulsifying
 egba
 erythrophore
 episteme
-electrocoating
 electrocolloidal
 exhaustable
 extraneously
