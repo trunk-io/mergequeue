@@ -1751,6 +1751,7 @@ cann
 calzoneras
 calzones
 consigneeship
+coordinate
 cam
 ciceronize
 camaca
@@ -14881,7 +14882,6 @@ citigradae
 citigrade
 cityish
 cigale
-coordinate
 cheliceral
 cityless
 cityness
