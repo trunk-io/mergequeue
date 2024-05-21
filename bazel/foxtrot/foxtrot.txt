@@ -5018,7 +5018,6 @@ fructus
 flareback
 foramens
 fadeless
-fengite
 ferments
 firnification
 fragmentitious
@@ -8116,6 +8115,7 @@ fungite
 fretless
 foretop
 foretopmast
+fengite
 fencer
 fellatrix
 foretopmen
