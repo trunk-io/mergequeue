@@ -4091,6 +4091,7 @@ boilermaking
 beagling
 brevier
 beaked
+boxhauls
 beakerman
 bellite
 beakermen
@@ -13938,7 +13939,6 @@ boxfuls
 boxhauled
 brierberry
 boxhauling
-boxhauls
 boxhead
 boxy
 boxing
