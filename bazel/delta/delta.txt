@@ -936,7 +936,6 @@ darbs
 dumpers
 darbukka
 darcy
-drolushness
 dard
 dardan
 dizzyingly
@@ -11260,6 +11259,7 @@ dereligionize
 drawstring
 disjuncture
 disenthralling
+drolushness
 discanted
 dermochelys
 decrease
