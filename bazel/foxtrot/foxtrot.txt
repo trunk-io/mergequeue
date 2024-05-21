@@ -631,7 +631,6 @@ faltere
 ferrash
 filarial
 faltered
-falteringly
 falters
 firebirds
 falutin
@@ -7614,6 +7613,7 @@ frags
 foredoomer
 fgn
 fails
+falteringly
 forbearantly
 flays
 fecundative
