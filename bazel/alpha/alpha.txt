@@ -5993,7 +5993,6 @@ agenting
 agentive
 agentives
 agentry
-archprototype
 archsnob
 achromats
 agents
@@ -19147,6 +19146,7 @@ archorrhea
 antipersonnel
 archostegnosis
 archostenosis
+archprototype
 archoverseer
 archpall
 archpapist
