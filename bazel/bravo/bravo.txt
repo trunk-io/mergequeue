@@ -3499,7 +3499,6 @@ brushfire
 bastnasite
 balanoglossus
 basto
-bucklandite
 bastonet
 bibliolatrous
 bovine
@@ -6753,6 +6752,7 @@ beret
 berets
 beretta
 berettas
+bucklandite
 berewick
 balkanizing
 banquettes
