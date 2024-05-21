@@ -2561,6 +2561,7 @@ declassicize
 declassification
 dieties
 dothiorella
+diachoresis
 delocalized
 derringer
 disruptions
@@ -5923,7 +5924,6 @@ deprecating
 deprecatingly
 danes
 darter
-diachoresis
 demeaning
 disconcert
 deprecative
