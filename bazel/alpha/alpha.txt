@@ -4138,6 +4138,7 @@ administrational
 administrations
 administrative
 administratively
+afterdeath
 administrators
 administratrices
 administratrix
@@ -5616,7 +5617,6 @@ afterdate
 antifoam
 amadou
 afterdeal
-afterdeath
 afterdeck
 aftereffect
 aspergillales

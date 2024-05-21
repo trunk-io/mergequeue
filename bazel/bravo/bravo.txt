@@ -3758,7 +3758,6 @@ birdlore
 batteaux
 bonnering
 batteling
-bascule
 battels
 battement
 basisolute
@@ -12695,6 +12694,7 @@ bedizened
 boogeymen
 balkanized
 bolivares
+bascule
 booger
 blockout
 benefactresses
