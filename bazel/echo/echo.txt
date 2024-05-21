@@ -2582,7 +2582,6 @@ electrophotomicrography
 electrophrenic
 electropyrometer
 enthrall
-electroplater
 electropolish
 electropower
 electropsychrometer
@@ -2850,6 +2849,7 @@ epitympa
 estoppels
 eleutherophobia
 eleutherozoa
+electroplater
 eleutherozoan
 ental
 ergotize
