@@ -1524,7 +1524,6 @@ acclimatising
 algid
 acclimatizable
 acclimatize
-acclimatizer
 acclimatizes
 acrisia
 anticness
@@ -12928,6 +12927,7 @@ angoise
 angola
 angolar
 angolese
+acclimatizer
 almswomen
 assertoric
 angora
