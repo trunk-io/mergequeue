@@ -2732,7 +2732,6 @@ deconsideration
 decontaminated
 decontaminates
 decontaminating
-diatessaron
 decontaminations
 decontaminator
 decontaminators
@@ -10308,6 +10307,7 @@ dionysus
 dentelated
 diastrophy
 dionize
+diatessaron
 dognapped
 dioon
 diophysite
