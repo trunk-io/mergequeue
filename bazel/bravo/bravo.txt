@@ -1867,6 +1867,7 @@ broilery
 barricos
 bandboxical
 bandcutter
+bowyers
 besotter
 branchling
 bandeau
@@ -13859,7 +13860,6 @@ buchite
 blacks
 blamableness
 bowyer
-bowyers
 bilious
 bowing
 bowings
