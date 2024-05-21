@@ -8292,7 +8292,6 @@ chakobu
 chakram
 chaksi
 chal
-cronk
 chalaco
 chalah
 cellarous
@@ -18451,6 +18450,7 @@ cohelpership
 cohen
 cohenite
 cohens
+cronk
 carpentership
 cohered
 coherence
