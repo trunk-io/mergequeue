@@ -1648,7 +1648,6 @@ deaminase
 decating
 digitize
 deaminate
-deaminating
 deamination
 deaminize
 deaminized
@@ -17093,6 +17092,7 @@ drydenism
 droukan
 drie
 deutomerite
+deaminating
 disconcertedness
 drier
 discussive
