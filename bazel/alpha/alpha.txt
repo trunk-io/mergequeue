@@ -9612,7 +9612,6 @@ archery
 apometabolous
 alumic
 alumiferous
-alumin
 alumina
 aphroditous
 arachnoid
@@ -15711,6 +15710,7 @@ antinode
 antinome
 antinomy
 antinomianism
+alumin
 antinomians
 antinomical
 antinomies
