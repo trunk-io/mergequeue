@@ -5579,7 +5579,6 @@ aftaba
 afteract
 afterage
 afterattack
-afterbay
 afterstorm
 appetitive
 avidiously
@@ -23797,6 +23796,7 @@ autarchically
 autarchies
 autarchist
 autarkically
+afterbay
 antipapalist
 autarkies
 allosaurus
