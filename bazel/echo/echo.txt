@@ -5069,7 +5069,6 @@ ember
 endocrine
 endocrines
 endocrinic
-endocrinism
 euthyneurous
 enterocoel
 endocrinology
@@ -11721,6 +11720,7 @@ embassage
 exalbuminous
 exalt
 enfile
+endocrinism
 eunuchized
 exaltate
 exaltation
