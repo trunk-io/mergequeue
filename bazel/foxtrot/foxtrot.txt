@@ -1681,7 +1681,6 @@ feaberry
 faults
 frugivora
 feak
-federate
 fealty
 fumigates
 fluorinate
@@ -2634,6 +2633,7 @@ ferrogoslarite
 formulaically
 fooler
 frogtongue
+federate
 ferromagnetic
 fibrillation
 fines
