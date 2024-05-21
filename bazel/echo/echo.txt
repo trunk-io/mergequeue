@@ -4402,6 +4402,7 @@ enc
 eurylaimoid
 encadre
 encaenia
+expiries
 ectorganism
 etua
 encage
@@ -13142,7 +13143,6 @@ expirers
 expires
 euploidies
 expiry
-expiries
 expiring
 expiringly
 expiscated
