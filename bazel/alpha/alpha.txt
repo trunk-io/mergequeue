@@ -6512,7 +6512,6 @@ agrogeology
 aleucaemic
 agrogeological
 agrology
-agrologic
 agrologies
 adsorbate
 agromyza
@@ -23787,6 +23786,7 @@ ausubos
 autacoidal
 autacoids
 autaesthesy
+agrologic
 autantitypy
 autarch
 antherozoidal
