@@ -8562,7 +8562,6 @@ diapause
 diapauses
 donaries
 doeuvre
-decarburize
 dodecastylos
 diapedeses
 deerwood
@@ -9314,6 +9313,7 @@ deobstruent
 dietic
 dodgier
 decolorant
+decarburize
 dietitian
 dietitians
 dtset
