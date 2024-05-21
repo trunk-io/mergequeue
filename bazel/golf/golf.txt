@@ -6406,6 +6406,7 @@ gobony
 gobs
 gobstick
 galipot
+grogger
 gobstopper
 gerahs
 groceries
@@ -7398,7 +7399,6 @@ gour
 gastrologists
 goldfish
 galee
-grogger
 gouramis
 gunroom
 geniuses
