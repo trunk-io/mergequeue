@@ -1870,6 +1870,7 @@ besotter
 branchling
 bandeau
 betula
+bucky
 bandelet
 bandelette
 bandeng
@@ -16653,7 +16654,6 @@ bucketshop
 buckhound
 buckhounds
 blurrily
-bucky
 baddock
 buckie
 buckish
