@@ -5363,7 +5363,6 @@ castigations
 cuckoomaiden
 castigative
 castigator
-castigatory
 castigators
 comte
 castilla
@@ -30387,6 +30386,7 @@ csmp
 csp
 csw
 ct
+castigatory
 cte
 ctelette
 ctene
