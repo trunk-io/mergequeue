@@ -3552,7 +3552,6 @@ blastomycetous
 bucchero
 bandoliered
 bateleur
-batell
 bouchal
 bubos
 blawort
@@ -4467,6 +4466,7 @@ bpi
 bechalking
 browse
 bechalks
+batell
 beerbibber
 bursts
 barbacoa
