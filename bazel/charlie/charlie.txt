@@ -11610,7 +11610,6 @@ cleavingly
 chold
 choleate
 cholecyanine
-cholecyst
 couchee
 cholecystectasia
 cholecystectomy
@@ -31316,6 +31315,7 @@ concordats
 curfs
 cury
 curia
+cholecyst
 clodpoles
 curiae
 curiage
