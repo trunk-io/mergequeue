@@ -6423,6 +6423,7 @@ ectocyst
 ensober
 ensophic
 ensorceled
+emphasis
 emitters
 encephalometer
 encheck
@@ -13820,7 +13821,6 @@ electrotypic
 extracondensed
 extracorporeally
 extracorpuscular
-emphasis
 elaeothesia
 extraversively
 extracosmical
