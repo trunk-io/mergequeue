@@ -4422,7 +4422,6 @@ frosting
 fomentation
 faddy
 fishtails
-familiarizations
 fishway
 frowst
 fishweed
@@ -8101,6 +8100,7 @@ foretells
 fatiguability
 forethinking
 forethoughtfulness
+familiarizations
 furnishings
 fleet
 featherhead
