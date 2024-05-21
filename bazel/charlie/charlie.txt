@@ -322,7 +322,6 @@ cacodaemonial
 cradle
 cemented
 cacodaemonic
-cacodemon
 cacodemonia
 cacodemoniac
 cacodemonial
@@ -2978,6 +2977,7 @@ cantoria
 cantorial
 cantorian
 cardsharps
+cacodemon
 crystallographic
 cantoris
 cantorous
