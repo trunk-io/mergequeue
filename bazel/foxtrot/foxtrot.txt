@@ -4025,7 +4025,6 @@ federatist
 finish
 fletchings
 finishable
-finisher
 fadable
 finishers
 finishes
@@ -9924,6 +9923,7 @@ fattens
 foredooming
 furnacite
 fpm
+finisher
 fretting
 fretum
 firefang
