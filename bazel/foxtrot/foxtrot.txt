@@ -2222,7 +2222,6 @@ felstone
 felstones
 framers
 forewinning
-felt
 felted
 felter
 feltyflier
@@ -2872,6 +2871,7 @@ fetations
 flourescent
 fusht
 frontosquamosal
+felt
 fitcher
 faunae
 fenestration
