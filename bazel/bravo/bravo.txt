@@ -1027,7 +1027,6 @@ brigand
 bayano
 bewitch
 bayardly
-bucktails
 baybolt
 baycuru
 baidarka
@@ -4419,6 +4418,7 @@ brabbled
 bosons
 bathyscaph
 boreus
+bucktails
 bacterious
 bebotch
 bebothered
