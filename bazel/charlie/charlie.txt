@@ -7239,7 +7239,6 @@ centring
 centrings
 clivia
 curblike
-cavaedia
 centriole
 centripetal
 codebreak
@@ -14859,6 +14858,7 @@ cithren
 cithrens
 condign
 city
+cavaedia
 citybuster
 citycism
 citicorp
