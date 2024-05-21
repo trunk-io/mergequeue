@@ -7706,7 +7706,6 @@ ceremonials
 contrabass
 ceremonies
 ceremonious
-ceremoniousness
 counterpoint
 congregates
 cereous
@@ -19968,6 +19967,7 @@ commeasurable
 commeasure
 commeasured
 commeasuring
+ceremoniousness
 commeddle
 commelina
 commelinaceous
