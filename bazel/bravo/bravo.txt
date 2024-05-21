@@ -5808,7 +5808,6 @@ balausta
 belied
 balteus
 beliefful
-blastule
 bellware
 bescrawl
 belieffulness
@@ -9174,6 +9173,7 @@ biomasses
 biomathematics
 biome
 biomechanical
+blastule
 begrims
 biomedicine
 burelage
