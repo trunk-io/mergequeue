@@ -14649,6 +14649,7 @@ cissoidal
 chionis
 chateaubriand
 clefs
+conflagration
 chang
 cissoids
 cissus
@@ -22049,7 +22050,6 @@ confix
 confixing
 carf
 conflagrated
-conflagration
 conflagrations
 climatologists
 conflagrative
