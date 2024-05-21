@@ -448,6 +448,7 @@ ecclesia
 ecclesiarch
 ecclesiarchy
 ecclesiast
+epicanthi
 expostulated
 empasm
 ecclesiastically
@@ -7551,7 +7552,6 @@ epicalyxes
 eudaimonism
 eurycephalous
 eulamellibranch
-epicanthi
 epicanthus
 epicardia
 enzymologist
