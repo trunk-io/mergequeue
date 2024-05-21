@@ -9574,7 +9574,6 @@ checklaton
 cityful
 checkle
 checkless
-checklist
 checkman
 congruencies
 checkmark
@@ -15596,6 +15595,7 @@ confraternization
 claro
 cothy
 claroes
+checklist
 claromontane
 claros
 chemotaxis
