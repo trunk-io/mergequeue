@@ -1473,7 +1473,6 @@ garniec
 garnished
 geshurites
 giraffish
-garnishee
 garnisheed
 garnishees
 garnishes
@@ -6168,6 +6167,7 @@ gnathonic
 gnathonically
 gnathonize
 gourd
+garnishee
 guising
 gigolos
 grislier
