@@ -2528,6 +2528,7 @@ bargainable
 billbugs
 bargainer
 bargaining
+battlewagon
 beechwoods
 bhut
 bargander
@@ -3815,7 +3816,6 @@ bimestrial
 boatfalls
 banderilla
 battlestead
-battlewagon
 belemnid
 blast
 battleward
