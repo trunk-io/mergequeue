@@ -2517,7 +2517,6 @@ bottom
 bonedog
 begod
 buphaga
-baretta
 busies
 barf
 blens
@@ -10640,6 +10639,7 @@ blateroon
 blathered
 blatherer
 blathery
+baretta
 blathers
 biomicroscopy
 betassel
