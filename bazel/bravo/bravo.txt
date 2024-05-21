@@ -1848,7 +1848,6 @@ bullose
 burgul
 bandage
 bandaged
-bandager
 bandages
 bandaging
 bandaid
@@ -13851,6 +13850,7 @@ bang
 bast
 bowheads
 bowyang
+bandager
 baraka
 bowie
 beaune

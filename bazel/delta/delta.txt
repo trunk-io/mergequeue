@@ -5265,7 +5265,6 @@ demicoronal
 dryopes
 denominable
 dodecuplet
-dion
 decursion
 denominant
 denominate
@@ -8226,6 +8225,7 @@ depotentiation
 diacoustics
 diacranterian
 diacritic
+dion
 demidome
 duplicidentata
 ducatoon
