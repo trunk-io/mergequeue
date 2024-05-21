@@ -7241,7 +7241,6 @@ becalmed
 bespell
 bespelled
 bigoted
-bespend
 bespew
 bespy
 bespice
@@ -10753,6 +10752,7 @@ bleariness
 brabbles
 blearing
 blearness
+bespend
 blears
 bespurt
 bleat
