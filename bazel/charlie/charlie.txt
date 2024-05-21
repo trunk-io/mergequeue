@@ -23742,7 +23742,6 @@ contrair
 contralateral
 class
 contralto
-contraltos
 contramarque
 contrantiscion
 contraoctave
@@ -31059,6 +31058,7 @@ cuneoscaphoid
 cunette
 choanite
 cuneus
+contraltos
 cungeboi
 crassament
 cungevoi
