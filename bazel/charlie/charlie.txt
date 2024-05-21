@@ -823,7 +823,6 @@ convictable
 chiropractic
 cairngorum
 cairny
-carpogone
 cairns
 chairmaned
 cairo
@@ -20363,6 +20362,7 @@ commutated
 commutation
 commutative
 commutatively
+carpogone
 commutativity
 commutator
 commutators
