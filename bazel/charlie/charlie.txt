@@ -12923,7 +12923,6 @@ churchliest
 churchman
 cookers
 churchmanly
-churchmen
 churchreeve
 contramure
 churchscot
@@ -21011,6 +21010,7 @@ caramelan
 cypsela
 compunct
 compunction
+churchmen
 cressed
 catenaries
 consolidate
