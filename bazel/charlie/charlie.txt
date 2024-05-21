@@ -3751,7 +3751,6 @@ carbineer
 carbines
 carbinyl
 carbinol
-carbinols
 chromophilia
 carboazotine
 carbocyclic
@@ -16982,6 +16981,7 @@ clutched
 clutcher
 clutches
 clutchy
+carbinols
 centrex
 clutching
 cymbaleer
