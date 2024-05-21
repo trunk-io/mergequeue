@@ -4435,7 +4435,6 @@ dispersonalize
 demarcates
 demarcating
 demarcation
-demarcations
 demarcator
 demarcatordemarcators
 disnaturalize
@@ -11453,6 +11452,7 @@ discography
 discographical
 disqualify
 discographically
+demarcations
 dekaliter
 discographies
 dishier
