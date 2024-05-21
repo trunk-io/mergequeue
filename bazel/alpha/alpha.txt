@@ -843,7 +843,6 @@ abscesses
 abscession
 assertors
 aerosols
-abscises
 abscising
 abscisins
 abscissae
@@ -24690,6 +24689,7 @@ aversion
 avert
 adults
 achromatise
+abscises
 avertable
 averted
 avertedly
