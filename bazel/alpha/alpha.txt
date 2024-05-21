@@ -3715,7 +3715,6 @@ adenological
 adenomalacia
 argolet
 adenomatome
-adenomycosis
 adenomyofibroma
 adenomyoma
 agapornis
@@ -8748,6 +8747,7 @@ alleviatingly
 alleviation
 alleviative
 alleviator
+adenomycosis
 alleviatory
 alleviators
 allez
