@@ -2950,6 +2950,7 @@ elymi
 eliminable
 eliminate
 entoplastic
+embosser
 equiprobabilism
 eliminated
 ellipsometry
@@ -5081,7 +5082,6 @@ ebraick
 exposures
 entogenous
 endocrinologist
-embosser
 ecdysones
 eisell
 epispore
