@@ -19651,6 +19651,7 @@ carillon
 comacine
 comade
 comagmatic
+conservatorium
 comake
 comaker
 comals
@@ -22889,7 +22890,6 @@ conservatoires
 conservator
 conservatory
 conservatorial
-conservatorium
 conservators
 conservatorship
 coordinator
