@@ -4971,7 +4971,6 @@ flanked
 flickery
 flanker
 flankers
-falconries
 flanking
 flanks
 foremartyr
@@ -9719,6 +9718,7 @@ flotations
 freers
 foliosity
 freesias
+falconries
 fivefold
 freespace
 freest
