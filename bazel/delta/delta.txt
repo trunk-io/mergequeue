@@ -9693,7 +9693,6 @@ disconcord
 dilapidation
 dilatability
 dilatable
-dilatably
 deters
 desiderate
 dilatants
@@ -16722,6 +16721,7 @@ dramatiser
 dramatising
 dramatizable
 dramatization
+dilatably
 dramatize
 dramatized
 degasses
