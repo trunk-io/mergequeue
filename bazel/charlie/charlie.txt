@@ -17730,7 +17730,6 @@ cocobola
 cocobolas
 conscriptionist
 cocobolos
-cocoyam
 cocomat
 cationic
 coconnection
@@ -20610,6 +20609,7 @@ competitors
 competitorship
 competitress
 challengee
+cocoyam
 competitrix
 compilable
 compilation

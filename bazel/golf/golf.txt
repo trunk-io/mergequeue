@@ -5124,7 +5124,6 @@ giganticidal
 greenable
 glareproof
 glyptologist
-globeflower
 galloping
 glary
 girasoles
@@ -7331,6 +7330,7 @@ goter
 geometroid
 gormaw
 glycogenase
+globeflower
 gothamite
 glassblower
 greatcoated
