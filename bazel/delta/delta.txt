@@ -4472,7 +4472,6 @@ dematerialised
 disproportionation
 drying
 disthrone
-disalign
 dirges
 dematerialize
 dematerialized
@@ -13164,6 +13163,7 @@ durums
 displat
 disple
 displeasance
+disalign
 debaucher
 dermatocoptes
 displeasant
