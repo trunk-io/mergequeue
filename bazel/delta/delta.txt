@@ -3103,7 +3103,6 @@ dowress
 deeryard
 decarbonized
 deermeat
-deers
 deerstalkers
 deerstalking
 deervetch
@@ -9886,6 +9885,7 @@ doorsteps
 dimethylketone
 debarred
 dimethylnitrosamine
+deers
 divvers
 dimethyls
 dimethylsulphoxide
