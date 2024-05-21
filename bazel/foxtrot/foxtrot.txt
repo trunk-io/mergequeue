@@ -5969,7 +5969,6 @@ floorcloths
 flashers
 foreclosable
 fluidizing
-floors
 folkways
 felaheen
 fawny
@@ -8162,6 +8161,7 @@ finable
 filets
 footways
 firecracker
+floors
 fulgently
 forewritten
 forfairn
