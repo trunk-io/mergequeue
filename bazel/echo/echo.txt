@@ -2931,7 +2931,6 @@ ennoblers
 elicitors
 elicits
 expensefulness
-euchromatin
 emaciate
 egrimony
 elides
@@ -12792,6 +12791,7 @@ exosmose
 exosmoses
 exosmosis
 empty
+euchromatin
 exosmotic
 esquamate
 ecchymoses
