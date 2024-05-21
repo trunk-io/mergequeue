@@ -8233,6 +8233,7 @@ bitangent
 bochur
 brunissure
 bicornous
+boarwood
 booklift
 backbear
 bagroom
@@ -11657,7 +11658,6 @@ boarspear
 belzebuth
 bacauan
 boarts
-boarwood
 boas
 boaster
 boastfully
