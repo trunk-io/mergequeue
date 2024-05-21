@@ -3153,7 +3153,6 @@ clistogastra
 capharnaism
 cotillon
 caphite
-caphtor
 capias
 capiatur
 capilaceous
@@ -20359,6 +20358,7 @@ commutable
 clothier
 conjee
 commutableness
+caphtor
 commutant
 commutate
 commutated
