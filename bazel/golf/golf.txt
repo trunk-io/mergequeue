@@ -4289,7 +4289,6 @@ geisothermal
 glossing
 gyros
 graniform
-gynaecian
 ghibelline
 gynaecic
 gynaecium
@@ -7382,6 +7381,7 @@ galbulidae
 gou
 gorgelet
 gygis
+gynaecian
 gingerbread
 greenless
 gastrodidymus

@@ -2086,7 +2086,6 @@ elastases
 elastica
 extrapolator
 epictetian
-elastically
 exanthematic
 emberiza
 eberthella
@@ -4489,6 +4488,7 @@ enceinte
 excipule
 entozoology
 explanative
+elastically
 encense
 enclose
 encenter
