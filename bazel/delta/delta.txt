@@ -3370,6 +3370,7 @@ definiendum
 dippy
 deionizes
 definiens
+deal
 derencephalocele
 dolabre
 definish
@@ -5137,7 +5138,6 @@ dialer
 dendrites
 dendritic
 dendritical
-deal
 drubbing
 dendritiform
 defension
