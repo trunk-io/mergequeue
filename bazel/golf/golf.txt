@@ -5971,7 +5971,6 @@ glucokinin
 gravimetric
 glucolipid
 glucolipin
-glaizie
 gamogony
 genuses
 gyle
@@ -6511,6 +6510,7 @@ grindal
 golaseccan
 glassman
 gallstones
+glaizie
 gobiesocid
 geostrophic
 golconda

@@ -1606,7 +1606,6 @@ briefer
 brughs
 bursati
 ballo
-brakier
 ballock
 brairding
 ballocks
@@ -5490,6 +5489,7 @@ beguiler
 breakdown
 beguilingly
 bandy
+brakier
 brinston
 bloodripeness
 bridesman
