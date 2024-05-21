@@ -1030,7 +1030,6 @@ gaged
 gundi
 ganderess
 gaudies
-geanticline
 gyrinus
 greeney
 ganders
@@ -5934,6 +5933,7 @@ greywacke
 gnawable
 geaster
 glucagon
+geanticline
 gladify
 guarea
 gate
