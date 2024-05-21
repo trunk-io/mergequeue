@@ -13412,7 +13412,6 @@ ankerite
 ankerites
 ankh
 ankylenteron
-ankylocheilia
 ankylodactylia
 acoin
 antiinflammatory
@@ -20540,6 +20539,7 @@ airfreight
 arteriospasm
 arteriostenosis
 admix
+ankylocheilia
 arteriotome
 arteriotomy
 arteriotrepsis
