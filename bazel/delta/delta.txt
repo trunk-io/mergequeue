@@ -6364,7 +6364,6 @@ deleting
 dermatotome
 dermatozoon
 deadens
-dermatozoonosis
 dermatozzoa
 dermatrophia
 deaccessioned
@@ -18450,6 +18449,7 @@ dobe
 dissembled
 depass
 diose
+dermatozoonosis
 dupped
 diiambus
 discoursive
