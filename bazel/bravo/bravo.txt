@@ -8006,7 +8006,6 @@ bibiri
 bibitory
 bible
 bibles
-bohmite
 bibless
 bipunctal
 biblical
@@ -16744,6 +16743,7 @@ barry
 buddhology
 buddy
 bigamously
+bohmite
 buddie
 buddies
 budding
