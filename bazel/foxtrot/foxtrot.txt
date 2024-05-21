@@ -5364,6 +5364,7 @@ fleecy
 fastness
 floorwalkers
 forager
+feudaries
 fitchery
 filterable
 fireclay
@@ -9076,7 +9077,6 @@ foredesign
 fowent
 flopper
 fowk
-feudaries
 fideism
 fowl
 fundiform
