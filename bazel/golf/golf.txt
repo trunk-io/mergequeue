@@ -4429,7 +4429,6 @@ gravidity
 gnashing
 gawked
 geopony
-geodesist
 genetor
 gingerbready
 galeopsis
@@ -10326,6 +10325,7 @@ gulancha
 gauloiserie
 greenwax
 guland
+geodesist
 grubstaking
 guhayna
 geoparallelotropic
