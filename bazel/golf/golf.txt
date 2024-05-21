@@ -1586,7 +1586,6 @@ generale
 gauchos
 galosh
 gabe
-gasification
 guacamole
 guarachas
 granospherite
@@ -5922,6 +5921,7 @@ grasshopperish
 glist
 glowering
 glowfly
+gasification
 gastropneumatic
 glowingly
 glows
