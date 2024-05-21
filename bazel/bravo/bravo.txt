@@ -1056,7 +1056,6 @@ blindages
 bailable
 bayldonite
 baile
-boucherize
 bailee
 bugbears
 bailey
@@ -16444,6 +16443,7 @@ bentang
 brutalised
 bluntie
 brontometer
+boucherize
 brutalism
 brutalist
 brutalitarian
