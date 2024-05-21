@@ -1627,6 +1627,7 @@ balloon
 ballooners
 bacaba
 bootleggers
+barre
 balloonet
 buddah
 begins
@@ -16235,7 +16236,6 @@ beggarer
 browsick
 browsing
 browst
-barre
 brickmaker
 browzer
 brr
