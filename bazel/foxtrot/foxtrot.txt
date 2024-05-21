@@ -3797,7 +3797,6 @@ filmsetting
 fussification
 filmslide
 forestall
-filmstrips
 flicks
 filo
 fulmicotton
@@ -10388,6 +10387,7 @@ flexible
 frondless
 frondlet
 frondose
+filmstrips
 frictionable
 factful
 fleing
