@@ -5974,6 +5974,7 @@ fluidizing
 floors
 folkways
 felaheen
+fiddly
 fawny
 floorshow
 floorway
@@ -6679,7 +6680,6 @@ forethoughtfully
 filemarks
 foeship
 flaringly
-fiddly
 foetation
 finnish
 frightment
