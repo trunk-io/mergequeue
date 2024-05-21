@@ -10451,7 +10451,6 @@ balant
 blanched
 blancher
 blanches
-blancmange
 besnows
 blancmanges
 beanfeaster
@@ -15014,6 +15013,7 @@ brekkle
 brelan
 baconist
 brelaw
+blancmange
 brember
 bremia
 bremsstrahlung
