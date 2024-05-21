@@ -1460,7 +1460,6 @@ fatties
 fattiness
 funis
 fiftyfold
-fattishness
 fattrels
 fother
 foreweep
@@ -9470,6 +9469,7 @@ forbear
 fumarine
 ferritization
 familiarizes
+fattishness
 funniment
 fliers
 foreteeth
