@@ -9052,7 +9052,6 @@ biocycle
 biocycles
 botan
 boorish
-biocidal
 biocide
 bioclimatic
 bioclimatician
@@ -13419,6 +13418,7 @@ botry
 botryllus
 botryogen
 bestrows
+biocidal
 botryoid
 bantin
 brannier
