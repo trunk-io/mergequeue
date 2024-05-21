@@ -1752,7 +1752,6 @@ feastraw
 frisbees
 feather
 frescoist
-foreordainment
 foetor
 frustule
 featherbedded
@@ -5360,6 +5359,7 @@ fitchery
 filterable
 fireclay
 fleering
+foreordainment
 fountful
 foraged
 farseeingness
