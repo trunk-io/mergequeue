@@ -12239,7 +12239,6 @@ defogger
 disgood
 dishwater
 dispatriated
-discernible
 disgorged
 disgorges
 disgospel
@@ -16666,6 +16665,7 @@ dragstaff
 dragster
 dragsters
 demisovereign
+discernible
 donatory
 doctoress
 drayage
