@@ -8283,6 +8283,7 @@ gadolinite
 gazelles
 gingering
 grassnut
+gripsack
 gawby
 gunnership
 grasswidow
@@ -9137,7 +9138,6 @@ grazier
 garnel
 gunyah
 gryllotalpa
-gripsack
 gript
 glom
 geochronic
