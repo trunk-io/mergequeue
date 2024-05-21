@@ -3223,7 +3223,6 @@ defectors
 duplicating
 despaired
 defectoscope
-defectum
 dehumidification
 defectuous
 dummkopf
@@ -11669,6 +11668,7 @@ doodler
 didest
 dioecious
 deaves
+defectum
 disbecome
 dodginess
 discos
