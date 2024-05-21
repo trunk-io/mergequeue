@@ -3871,6 +3871,7 @@ gibuses
 giddap
 guideless
 goff
+glass
 greenbugs
 giddybrain
 gorblimey
@@ -5141,7 +5142,6 @@ goniopholis
 gregarinae
 guester
 gutturalizing
-glass
 gatch
 gyrencephalate
 gandering
