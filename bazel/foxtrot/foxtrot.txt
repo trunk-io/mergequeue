@@ -1895,7 +1895,6 @@ fremd
 frs
 feddan
 fedellini
-fishnets
 flamenco
 flowering
 flitched
@@ -5834,6 +5833,7 @@ fitz
 floatless
 furbelows
 floatman
+fishnets
 floatsman
 feculency
 flypapers

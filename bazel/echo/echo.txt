@@ -7365,6 +7365,7 @@ eparterial
 endymal
 epaule
 epaulement
+externat
 effodientia
 epauleted
 electrologic
@@ -13671,7 +13672,6 @@ externalized
 externalizes
 externalness
 elusions
-externat
 extrajudicially
 extempore
 externe
