@@ -7356,7 +7356,6 @@ cephala
 caucasus
 crushes
 cerfoil
-cephalacanthus
 compartner
 cephalagra
 cephalalgia
@@ -21311,6 +21310,7 @@ conchiferous
 conchiform
 conchyle
 conchylia
+cephalacanthus
 conchyliated
 counterorator
 conchyliferous
