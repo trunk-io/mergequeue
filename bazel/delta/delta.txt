@@ -9129,7 +9129,6 @@ diddies
 doublehung
 dispunct
 didelph
-didelphia
 didelphid
 dichoptic
 didelphidae
@@ -15847,6 +15846,7 @@ dorsoposterior
 dorsoradial
 dorsosacral
 dorsoscapular
+didelphia
 dorsosternal
 dorsothoracic
 diablotin
