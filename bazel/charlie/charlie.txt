@@ -7237,6 +7237,7 @@ centrifugence
 centrifuges
 centrifuging
 centring
+cutpurse
 centrings
 clivia
 curblike
@@ -31842,7 +31843,6 @@ cutoff
 cutoffs
 consortion
 cutout
-cutpurse
 cutpurses
 cuts
 cuttable
