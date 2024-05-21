@@ -3682,6 +3682,7 @@ defoliant
 dropforging
 deglutination
 deglutition
+dichocarpism
 deglutitious
 degold
 decathlon
@@ -8931,7 +8932,6 @@ domiciling
 discitis
 dichlorodiphenyltrichloroethane
 dichloromethane
-dichocarpism
 dichocarpous
 damocles
 dichondra
