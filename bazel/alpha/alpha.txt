@@ -6426,6 +6426,7 @@ attemptability
 archpiece
 agreeability
 agreeable
+anthropomorphise
 aflush
 agreeableness
 agreeably
@@ -14600,7 +14601,6 @@ arthrocele
 amphrysian
 anthropomorphidae
 anthropomorphisation
-anthropomorphise
 anthropomorphised
 arimaspian
 admirability

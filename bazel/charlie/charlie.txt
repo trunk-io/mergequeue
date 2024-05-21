@@ -6934,7 +6934,6 @@ coaugment
 capricornus
 chapeaux
 cementatory
-chapaties
 cementer
 cementers
 cementification
@@ -30634,6 +30633,7 @@ circularize
 cuddleable
 cuddled
 cuddlesome
+chapaties
 cuddlier
 cuddliest
 celiagra
