@@ -3790,7 +3790,6 @@ emendations
 esthetical
 eggshells
 emigre
-emendator
 emended
 epinikian
 emending
@@ -5791,6 +5790,7 @@ engrandizement
 engraphic
 engraphically
 engrasp
+emendator
 ephedrins
 engravement
 evermore
