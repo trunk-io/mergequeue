@@ -1071,7 +1071,6 @@ feronia
 farmhousey
 fontinalaceae
 fuzzle
-forthcomer
 fothergilla
 farmyard
 farmyardy
@@ -6620,6 +6619,7 @@ foamflower
 foamy
 forecaddie
 firework
+forthcomer
 foxtails
 foamier
 floriculturally
