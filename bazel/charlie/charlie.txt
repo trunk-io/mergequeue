@@ -2517,7 +2517,6 @@ canduc
 camphires
 cane
 corneum
-cities
 cliffing
 canebrake
 canebrakes
@@ -2665,6 +2664,7 @@ cannach
 cannalling
 comedietta
 cannas
+cities
 cannat
 canned
 cannel
