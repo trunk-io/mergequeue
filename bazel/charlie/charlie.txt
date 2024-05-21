@@ -14675,7 +14675,6 @@ contestate
 chaptalizing
 cnidophore
 cysted
-cysteine
 cysteines
 cysteinic
 cysteins
@@ -31507,6 +31506,7 @@ cursor
 clerkage
 cursorary
 cundite
+cysteine
 cursory
 cursoria
 cyclitol
