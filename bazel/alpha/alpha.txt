@@ -4042,6 +4042,7 @@ adjuratory
 aneuria
 adjured
 adjurer
+anastomosing
 aphthae
 adjures
 aspersorium
@@ -12067,7 +12068,6 @@ anomorhomboid
 aspis
 anastomosed
 anastomoses
-anastomosing
 anastomotic
 anastomus
 anastrophe
