@@ -889,7 +889,6 @@ dealers
 decks
 decidual
 dap
-dapedium
 dapedius
 daphne
 daphnean
@@ -17823,6 +17822,7 @@ dotiness
 ducktail
 duckweed
 divisors
+dapedium
 donis
 discrete
 docility
