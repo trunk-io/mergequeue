@@ -10153,7 +10153,6 @@ bizarreness
 blacklisting
 bize
 burys
-bizel
 bizen
 bizes
 bizonal
@@ -11477,6 +11476,7 @@ bluenosed
 bluenoses
 bluepoint
 blackwasher
+bizel
 bluepoints
 blueprint
 biophotometer
