@@ -505,7 +505,6 @@ geochronological
 gales
 groten
 geonoma
-gelatin
 gallants
 garrya
 galeus
@@ -9335,6 +9334,7 @@ gravitometer
 geneserin
 grosbeaks
 groser
+gelatin
 gosh
 grosgrain
 gypsies
