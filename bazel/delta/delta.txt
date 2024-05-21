@@ -7772,7 +7772,6 @@ devise
 devised
 devisees
 disastimeter
-dihydrogen
 deviser
 devisers
 devising
@@ -7906,6 +7905,7 @@ did
 dewaxing
 dewberry
 deadtongue
+dihydrogen
 dewberries
 dewcap
 dewclaw
