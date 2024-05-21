@@ -160,7 +160,6 @@ abatua
 abaue
 abave
 abaxial
-abaxile
 abaze
 abba
 abbacy
@@ -3127,6 +3126,7 @@ actinomorphic
 amphitrichous
 abdominoanterior
 actinomorphous
+abaxile
 autolytic
 anilinophilous
 abscissions
