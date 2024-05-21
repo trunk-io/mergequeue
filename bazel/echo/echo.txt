@@ -4082,7 +4082,6 @@ exorcist
 empiry
 escapers
 empiric
-encipherments
 empirical
 empiricalness
 empiricism
@@ -8642,6 +8641,7 @@ epigrammatising
 equippers
 embouchures
 eyeshots
+encipherments
 equielliptical
 equiexcellency
 equigranular
