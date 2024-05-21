@@ -4227,7 +4227,6 @@ dressmaker
 deliverer
 densest
 diallist
-deadened
 dismaler
 disincorporate
 deliverers
@@ -11058,6 +11057,7 @@ drakonite
 disapprovals
 disapprover
 disapproves
+deadened
 disapprovingly
 disillusioned
 demonetisation
