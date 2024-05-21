@@ -694,7 +694,6 @@ famished
 faming
 fuliguline
 fired
-famishing
 famose
 famous
 florigens
@@ -9298,6 +9297,7 @@ falsities
 feminate
 frailes
 frailish
+famishing
 flopped
 frailness
 flagellum
