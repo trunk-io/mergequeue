@@ -1450,7 +1450,6 @@ effulgent
 endosmotic
 effume
 emulsionize
-effund
 empathic
 effused
 enthalpy
@@ -10743,6 +10742,7 @@ exclamatorily
 eudiometrical
 eudiometrically
 eudist
+effund
 eudoxian
 eudromias
 euergetes
