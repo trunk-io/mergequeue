@@ -6678,7 +6678,6 @@ dichroiscope
 deserved
 disesteemer
 deservedness
-deserver
 deservers
 duncify
 distinctor
@@ -14168,6 +14167,7 @@ disvoice
 demurs
 diswarn
 diswarrening
+deserver
 diswashing
 disweapon
 diswere
