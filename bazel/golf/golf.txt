@@ -56,7 +56,6 @@ gips
 gelding
 guardian
 gelatiniser
-gableboard
 gangue
 gabler
 guemal
@@ -10417,6 +10416,7 @@ gangrene
 gum
 gourdy
 gyneolatry
+gableboard
 gumbo
 goar
 gumboils
