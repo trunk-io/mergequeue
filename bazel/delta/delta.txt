@@ -12705,6 +12705,7 @@ drammer
 dustcloth
 dehydratase
 demiquaver
+docked
 duramatral
 dislocated
 dislocates
@@ -14711,7 +14712,6 @@ dock
 dockage
 drawglove
 dilatancy
-docked
 demonetized
 discutable
 docker
