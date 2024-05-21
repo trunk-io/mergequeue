@@ -5201,7 +5201,6 @@ busier
 bedewoman
 ballpoints
 beflecks
-beflounce
 birder
 bombshells
 bacony
@@ -7360,6 +7359,7 @@ bloom
 bestow
 bestowals
 bestower
+beflounce
 bestowment
 bestows
 bestraddle
