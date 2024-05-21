@@ -3186,7 +3186,6 @@ duringly
 defaultant
 defaulted
 defaultless
-defaults
 defaulture
 dowie
 defeasanced
@@ -12556,6 +12555,7 @@ denotation
 disintegrator
 disintegrators
 derbylite
+defaults
 dispiritedness
 disintegrity
 disinter
