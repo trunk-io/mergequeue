@@ -6516,7 +6516,6 @@ cawny
 cinnamonwood
 cawquaw
 caws
-crabsidle
 caxiri
 clannish
 commissaries
@@ -26146,6 +26145,7 @@ cosmocrat
 centipede
 cosmocratic
 cosmogenesis
+crabsidle
 cosmogenetic
 cosmogeny
 cosmogenic
