@@ -8639,7 +8639,6 @@ gastrochaenidae
 grammars
 geranials
 greeks
-gerontological
 giglets
 green
 gonys
@@ -10165,6 +10164,7 @@ guideboard
 guidebooky
 gambogic
 goggly
+gerontological
 guato
 guidebookish
 genres
