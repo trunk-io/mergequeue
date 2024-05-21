@@ -754,7 +754,6 @@ fancies
 fanciful
 fancifulness
 fancying
-fanciless
 fanciness
 fragrance
 fancysick
@@ -4852,6 +4851,7 @@ fasher
 frightenedness
 ferrety
 flaite
+fanciless
 flaithship
 flutelike
 federationist
