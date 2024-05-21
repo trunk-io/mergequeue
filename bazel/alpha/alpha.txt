@@ -7707,7 +7707,6 @@ actual
 alcmene
 alco
 alcoate
-atterrate
 alchemical
 andiroba
 alcogene
@@ -17369,6 +17368,7 @@ allogenically
 apophyge
 arsacid
 aseismicity
+atterrate
 apophylactic
 apophyllite
 amphimixes
