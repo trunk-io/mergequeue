@@ -5195,6 +5195,7 @@ fielder
 flavicant
 flanconnade
 flavid
+flagon
 fermate
 frogfishes
 frigorify
@@ -11505,7 +11506,6 @@ frijolito
 furtively
 furud
 foreboding
-flagon
 flotant
 faddisms
 fishberries
