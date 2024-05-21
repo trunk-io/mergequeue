@@ -1666,6 +1666,7 @@ calpacs
 conformation
 counterfallacy
 chambrel
+carthaginian
 calques
 caseconv
 calquing
@@ -4916,7 +4917,6 @@ carters
 cartesian
 cartesianism
 cartful
-carthaginian
 carthame
 carthamic
 carthamus
