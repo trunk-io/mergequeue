@@ -481,7 +481,6 @@ abjudicator
 alagau
 abjugate
 abjunct
-abjunction
 abjunctive
 amphineurous
 anisocoria
@@ -15775,6 +15774,7 @@ aquaphobia
 antipapistical
 antiparabema
 antiparabemata
+abjunction
 antiparagraphe
 antiparalytic
 afterstain
