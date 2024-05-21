@@ -5510,7 +5510,6 @@ enfeoff
 euhemerizing
 englifier
 experimentarian
-etherlike
 enheritance
 enfeoffing
 episcopant
@@ -12687,6 +12686,7 @@ exomphalos
 exomphalous
 embryogeny
 exomphalus
+etherlike
 ethionine
 elaborators
 entame

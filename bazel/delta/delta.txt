@@ -8208,7 +8208,6 @@ dissectors
 disbind
 defiladed
 dermalith
-diaconal
 dauby
 dopaoxidase
 diaconica
@@ -10659,6 +10658,7 @@ declinometer
 dipmeter
 dogman
 digoxin
+diaconal
 demorage
 disendower
 drownproofing
