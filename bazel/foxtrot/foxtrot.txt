@@ -9926,6 +9926,7 @@ fattens
 foredooming
 furnacite
 fpm
+footgeld
 fretting
 fretum
 firefang
@@ -10406,7 +10407,6 @@ foreladies
 frontal
 facewise
 flatmate
-footgeld
 firs
 frontals
 frontbencher
