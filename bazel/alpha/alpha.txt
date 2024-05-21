@@ -3792,7 +3792,6 @@ annum
 adespoton
 adessenarian
 adams
-adeste
 acroasis
 adet
 afterpressure
@@ -24417,6 +24416,7 @@ autosoterism
 auteciously
 autospore
 autosporic
+adeste
 autostability
 autostarter
 airmanship
