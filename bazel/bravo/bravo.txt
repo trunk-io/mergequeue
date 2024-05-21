@@ -3414,6 +3414,7 @@ baculum
 bassan
 bicarbonate
 bassanite
+bion
 bassara
 biotechnics
 bassetta
@@ -9186,7 +9187,6 @@ biometries
 biomicroscopies
 blithelike
 biomorphic
-bion
 bailsman
 byon
 bionditional
