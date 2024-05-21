@@ -11088,7 +11088,6 @@ amphibiety
 amphibiological
 azimuthally
 amphibion
-astringency
 amphibiotic
 amphibiously
 amphibium
@@ -18164,6 +18163,7 @@ aproneer
 aright
 apronful
 aprons
+astringency
 apronstring
 amphigenetic
 aporosa
