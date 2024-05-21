@@ -2684,7 +2684,6 @@ deviceful
 dimmy
 decomposer
 decomposers
-decomposing
 decomposition
 decapod
 decomposure
@@ -3545,6 +3544,7 @@ delvers
 deformable
 deformation
 deformational
+decomposing
 delete
 deformations
 deformedly
