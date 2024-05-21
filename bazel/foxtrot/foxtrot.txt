@@ -2441,7 +2441,6 @@ fromfile
 frescoers
 freelage
 fantods
-feridjee
 falls
 fervidor
 figgum
@@ -7723,6 +7722,7 @@ fibrinous
 foreigner
 flaggelated
 flutework
+feridjee
 flipping
 foreignism
 footprints
