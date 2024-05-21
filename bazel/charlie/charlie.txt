@@ -3442,7 +3442,6 @@ capsid
 competencies
 capsidal
 capsids
-capsizable
 capsizal
 caballeria
 capsized
@@ -12155,6 +12154,7 @@ choupic
 chouquette
 chous
 chouse
+capsizable
 choused
 cyanogenesis
 chouser
