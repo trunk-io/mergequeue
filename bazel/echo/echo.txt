@@ -1355,7 +1355,6 @@ efficacies
 efficaciously
 embroche
 extraordinaries
-efficience
 epicotyleal
 endochylous
 exhortation
@@ -12934,6 +12933,7 @@ entonic
 expectancy
 echinal
 expectancies
+efficience
 esthetic
 etonian
 expectant
