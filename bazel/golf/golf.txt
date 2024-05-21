@@ -1427,7 +1427,6 @@ glycolylurea
 garliclike
 geoside
 galloner
-glorifier
 gervao
 gibier
 garlion
@@ -8114,6 +8113,7 @@ gimping
 glaver
 grapey
 gasteromycete
+glorifier
 goober
 gluttonize
 guillotines
