@@ -3397,6 +3397,7 @@ caprigenous
 capryl
 caprylate
 caprylene
+cattan
 caprylic
 cymene
 caprylyl
@@ -19163,7 +19164,6 @@ colloidize
 colloidochemical
 colloids
 collomia
-cattan
 collop
 colloped
 collophane

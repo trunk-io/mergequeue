@@ -1613,7 +1613,6 @@ favorites
 favorless
 freudianism
 favosely
-favosite
 frostbit
 flowerpots
 favosites
@@ -1998,6 +1997,7 @@ flybook
 friezy
 feely
 feelies
+favosite
 feelingful
 floative
 fishhooks
