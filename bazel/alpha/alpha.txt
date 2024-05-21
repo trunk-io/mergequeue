@@ -5693,7 +5693,6 @@ afterproof
 absinthium
 afterreckoning
 auxofluor
-afterrider
 afterroll
 ampullosity
 afters
@@ -24533,6 +24532,7 @@ auxin
 auxinic
 auxinically
 auxins
+afterrider
 amober
 auxoamylase
 amores
