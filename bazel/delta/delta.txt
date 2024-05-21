@@ -447,7 +447,6 @@ dayworker
 daywrit
 dakerhen
 dakhini
-driftages
 durgah
 dakoit
 dakoity
@@ -11678,6 +11677,7 @@ doodler
 didest
 dioecious
 deaves
+driftages
 disbecome
 dodginess
 discos
