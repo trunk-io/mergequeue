@@ -1585,7 +1585,6 @@ calmiest
 coeducationally
 calming
 calmingly
-calmness
 calmnesses
 calms
 charabancer
@@ -4992,6 +4991,7 @@ catarrhine
 cartwheeler
 cuggermugger
 consolan
+calmness
 cartwhip
 cartwrighting
 caruage
