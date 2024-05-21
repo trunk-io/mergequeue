@@ -13908,6 +13908,7 @@ baccalaurean
 bowshot
 bowshots
 bowsie
+buttons
 bowsprit
 bowstaff
 bowstring
@@ -18331,7 +18332,6 @@ brahmans
 boulle
 brightens
 brewst
-buttons
 buttonweed
 buttonwood
 brachiation
