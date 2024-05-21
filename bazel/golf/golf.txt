@@ -1760,6 +1760,7 @@ goosemouth
 gravemaking
 gastroduodenitis
 gametophagia
+gliocyte
 gastroduodenostomy
 ganodont
 gerbe
@@ -5966,7 +5967,6 @@ glucofrangulin
 gasfiring
 guatemaltecan
 glucokinase
-gliocyte
 glucokinin
 gravimetric
 glucolipid
