@@ -1588,6 +1588,7 @@ calmnesses
 calms
 charabancer
 calocarpum
+colloider
 calochortaceae
 calochortus
 calodaemon
@@ -19155,7 +19156,6 @@ colloid
 cinerins
 coauthoring
 colloidality
-colloider
 colloidize
 colloidochemical
 colloids
