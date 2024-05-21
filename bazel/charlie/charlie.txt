@@ -678,7 +678,6 @@ cafeteria
 cairba
 cafeterias
 cafetiere
-cafetorium
 caff
 caffeic
 caffeina
@@ -24725,6 +24724,7 @@ coppiced
 coppices
 crepehanger
 coppin
+cafetorium
 canyons
 copping
 coppra
