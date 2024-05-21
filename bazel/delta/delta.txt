@@ -347,7 +347,6 @@ daikon
 doorboy
 decrystallization
 dailamite
-dayless
 daylight
 daylighted
 daylights
@@ -12617,6 +12616,7 @@ disjunctively
 deseed
 disjunctor
 disembodying
+dayless
 divia
 dereferences
 disk
