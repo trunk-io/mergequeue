@@ -979,7 +979,6 @@ edana
 endomitotic
 edaphology
 edaphon
-epicures
 edaphosauria
 edaphosaurid
 edaphosaurus
@@ -6954,6 +6953,7 @@ entosternal
 entosternum
 entothorax
 entotympanic
+epicures
 enterokinetic
 entourage
 entozoal
