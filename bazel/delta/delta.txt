@@ -782,7 +782,6 @@ daneflower
 danegeld
 danegelds
 danelaw
-dungeon
 dermititis
 daneweed
 daneweeds
@@ -17281,6 +17280,7 @@ drochuil
 droddum
 drofland
 digresser
+dungeon
 droger
 dictyogenous
 drogerman
