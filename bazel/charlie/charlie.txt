@@ -2668,7 +2668,6 @@ comedietta
 cannas
 cannat
 canned
-cannel
 cannele
 cannellate
 congruences
@@ -24659,6 +24658,7 @@ coplanarity
 coplanarities
 copleased
 cardiatomy
+cannel
 coplot
 comoquer
 cauqui
