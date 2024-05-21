@@ -4352,7 +4352,6 @@ forecastles
 fisherfolk
 formulaic
 fishery
-fractionalization
 florentium
 fraus
 fisherman
@@ -5813,6 +5812,7 @@ ferulas
 floatage
 farmeries
 fairs
+fractionalization
 fireling
 floatation
 fists

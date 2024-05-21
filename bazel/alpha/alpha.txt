@@ -4285,7 +4285,6 @@ adoperate
 adopt
 adoptability
 adoptabilities
-adoptable
 adoptant
 adjag
 appleberry
@@ -23572,6 +23571,7 @@ atomistically
 aureomycin
 aureous
 aureously
+adoptable
 alcaiceria
 aureus
 auribromide
