@@ -13515,7 +13515,6 @@ exserts
 exsheath
 endostitis
 exsibilation
-evadable
 exsiccant
 exsiccatae
 exsiccating
@@ -13707,6 +13706,7 @@ expostulate
 expt
 encephalomeningitis
 extinctionist
+evadable
 extinctions
 energized
 enantiopathic
