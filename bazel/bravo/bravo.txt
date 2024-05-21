@@ -513,6 +513,7 @@ billhead
 biscot
 backstitches
 briming
+badmash
 backstitching
 broadway
 backstopped
@@ -785,7 +786,6 @@ badlands
 buba
 bat
 badman
-badmash
 badmen
 brushcut
 besodden
