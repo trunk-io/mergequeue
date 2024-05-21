@@ -15810,7 +15810,6 @@ clavicular
 clavicularium
 claviculate
 chirotype
-claviculus
 clavierist
 clavierists
 claviform
@@ -23459,6 +23458,7 @@ contemptuously
 contemptuousness
 cholecystocolotomy
 contend
+claviculus
 contended
 crafty
 contendent
