@@ -5210,7 +5210,6 @@ aestivation
 aestive
 aestuary
 aestuate
-aestuation
 aesture
 aestus
 aetat
@@ -10299,6 +10298,7 @@ amenable
 alkalis
 anticheater
 amenableness
+aestuation
 amenably
 amenance
 amendableness
