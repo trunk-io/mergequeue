@@ -12780,6 +12780,7 @@ dismarketing
 dismast
 dunnages
 dismantler
+dam
 dribblets
 dismasted
 ditchdown
@@ -16717,7 +16718,6 @@ deinosaur
 dramatics
 detractor
 dramatisable
-dam
 dramatiser
 dramatising
 dramatizable
