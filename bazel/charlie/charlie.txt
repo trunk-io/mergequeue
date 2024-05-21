@@ -1658,7 +1658,6 @@ calotte
 calottes
 calp
 calpac
-calpacked
 calpacks
 catechizing
 cheapishly
@@ -10673,6 +10672,7 @@ chiltern
 chilver
 curites
 chimaera
+calpacked
 chimaerid
 chimaeroid
 chimakum

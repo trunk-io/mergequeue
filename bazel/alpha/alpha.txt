@@ -7675,7 +7675,6 @@ alchemized
 archership
 alchemizing
 alcheringa
-alchimy
 alfilerilla
 amphicarpic
 alchochoden
@@ -11776,6 +11775,7 @@ addressee
 arbitre
 analyses
 analysing
+alchimy
 amerindian
 antimoniate
 analysis
