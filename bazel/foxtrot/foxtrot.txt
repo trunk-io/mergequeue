@@ -3845,7 +3845,6 @@ flankwise
 fract
 fimbria
 foulard
-florigenic
 fimbriae
 formicary
 fimbrial
@@ -7311,6 +7310,7 @@ furled
 forelock
 fopperies
 fopperly
+florigenic
 flakeless
 foppy
 foppish
