@@ -2740,7 +2740,6 @@ decontaminations
 decontaminator
 decontaminators
 decontrol
-dustoor
 dvornik
 duci
 dressmakership
@@ -13207,6 +13206,7 @@ diluvion
 dyspnoeas
 dropkicks
 daimon
+dustoor
 deserveless
 droopily
 dispoint
