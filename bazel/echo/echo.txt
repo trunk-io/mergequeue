@@ -2228,7 +2228,6 @@ elephanta
 enargite
 electragy
 electress
-electret
 electrets
 esophagogastrostomy
 exploitive
@@ -7274,6 +7273,7 @@ eopalaeozoic
 eophytic
 eyebree
 erysipelothrix
+electret
 eophyton
 eorhyolite
 eos
