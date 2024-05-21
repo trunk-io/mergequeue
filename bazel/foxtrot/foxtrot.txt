@@ -55,7 +55,6 @@ fabulously
 fumaria
 facaded
 faceable
-facebar
 facebow
 faced
 faceharden
@@ -10155,6 +10154,7 @@ fringy
 frisado
 fleshling
 frisbee
+facebar
 frisca
 flabbiest
 friscal
