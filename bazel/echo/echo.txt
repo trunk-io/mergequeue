@@ -6310,7 +6310,6 @@ eyespot
 enseal
 estrones
 eicosane
-estancias
 ensealing
 employes
 emporia
@@ -13492,6 +13491,7 @@ exscript
 exscriptural
 exsculptate
 exscutellate
+estancias
 electromedical
 exsec
 exsect
