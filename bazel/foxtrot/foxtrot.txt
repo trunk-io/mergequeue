@@ -5989,6 +5989,7 @@ fictioneering
 floorwise
 fetor
 fabes
+feltwork
 flus
 foresays
 floozy
@@ -9659,7 +9660,6 @@ freebooting
 falsettos
 freed
 freedman
-feltwork
 facete
 flatworks
 freedoms
