@@ -3736,7 +3736,6 @@ embrues
 embruing
 edulcorate
 embrutes
-embruting
 embubble
 encyclopedize
 embulk
@@ -13465,6 +13464,7 @@ evenforth
 exsanguinate
 exsanguinating
 ethmoidal
+embruting
 eudaemonic
 epidermis
 excedent
