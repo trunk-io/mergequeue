@@ -3795,7 +3795,6 @@ battings
 battledores
 baldly
 barotraumata
-battledoring
 battlefronts
 battlegrounds
 bringall
@@ -3825,6 +3824,7 @@ behatted
 bliest
 bemist
 battology
+battledoring
 battological
 bringed
 battologise
