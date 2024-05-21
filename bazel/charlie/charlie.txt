@@ -24387,7 +24387,6 @@ coolnesses
 cools
 coolth
 coolung
-coolweed
 coolwort
 coom
 coomb
@@ -25395,6 +25394,7 @@ cornfields
 cornflag
 countersiege
 cornflakes
+coolweed
 cornflour
 cornflower
 cornflowers
