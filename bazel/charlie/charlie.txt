@@ -8865,7 +8865,6 @@ cobnut
 chapelling
 commonplaces
 chapelman
-chapelmaster
 chapelry
 combflower
 chapelries
@@ -19395,6 +19394,7 @@ correspondingly
 colored
 coloreds
 colorer
+chapelmaster
 chantable
 colorers
 cinerea
