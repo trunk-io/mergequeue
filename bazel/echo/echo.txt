@@ -5753,7 +5753,6 @@ engrace
 epicele
 engraced
 engraffed
-expiations
 engrafter
 eluviated
 engraftment
@@ -8183,6 +8182,7 @@ exedra
 entosphere
 ern
 eucrasy
+expiations
 episcopature
 emarcid
 episcopicide
