@@ -2653,7 +2653,6 @@ generalized
 gristy
 gangliasthenia
 grondwet
-gnome
 generalizers
 gasthaus
 granodiorite
@@ -7022,6 +7021,7 @@ glyptographic
 grandpappy
 gadi
 gyron
+gnome
 goons
 gyromagnetic
 gorbet
