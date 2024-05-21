@@ -2610,7 +2610,6 @@ canioned
 canions
 canis
 canistel
-canisters
 canjac
 cank
 chokestrap
@@ -9522,6 +9521,7 @@ confract
 chebec
 counterinsurgent
 chebecs
+canisters
 chebel
 chebog
 chebule

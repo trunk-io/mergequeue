@@ -321,7 +321,6 @@ extraocular
 enunciate
 externship
 endevil
-eavesdrop
 enterocentesis
 eavesdropped
 enmass
@@ -11454,6 +11453,7 @@ eventualize
 epitrochlea
 eventually
 eventuated
+eavesdrop
 eventuating
 evenwise
 ebriate
