@@ -7927,7 +7927,6 @@ dewflower
 dewier
 delectible
 dewiest
-dewiness
 doh
 dewing
 degrease
@@ -18104,6 +18103,7 @@ dumby
 dumbing
 dumbly
 dumbness
+dewiness
 dumbstricken
 dumbstruck
 demagnetize
