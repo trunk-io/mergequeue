@@ -1106,7 +1106,6 @@ dashnak
 dashplate
 dropflower
 depaint
-dashwheel
 diau
 dasyatis
 dasymeter
@@ -11100,6 +11099,7 @@ deltoidal
 disassimilative
 disassociable
 disassociate
+dashwheel
 disassociated
 disassociates
 disassociation
