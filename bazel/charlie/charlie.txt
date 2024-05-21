@@ -23044,7 +23044,6 @@ consonances
 consonancy
 consonant
 consonantal
-consonantalize
 consonantic
 consonantise
 consonantised
@@ -25205,6 +25204,7 @@ corybulbin
 cornels
 corybulbine
 calorics
+consonantalize
 corycavidine
 corycavine
 corydalin
