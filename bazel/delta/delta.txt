@@ -10592,6 +10592,7 @@ defending
 defs
 diploid
 diene
+disengirdle
 diploidic
 disequilibrium
 diploidies
@@ -12041,7 +12042,6 @@ daryl
 disengaged
 defiable
 disengaging
-disengirdle
 disenjoyment
 deambulatory
 disenmesh
