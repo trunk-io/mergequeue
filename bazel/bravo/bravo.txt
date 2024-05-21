@@ -14070,7 +14070,6 @@ balau
 branchy
 bisme
 brachiolaria
-brachiopod
 bogusness
 brachiopoda
 brachiopode
@@ -17183,6 +17182,7 @@ bullyrag
 bullyragger
 bullyragging
 balantidial
+brachiopod
 barble
 buckramed
 baubles
