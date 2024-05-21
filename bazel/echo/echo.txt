@@ -3777,7 +3777,6 @@ emender
 electroplax
 erythrons
 ethene
-enddamaging
 expendables
 emendable
 emendandum
@@ -12244,6 +12243,7 @@ exec
 enteradenology
 eudemonist
 exacervation
+enddamaging
 execeptional
 euro
 excogitation
