@@ -12448,7 +12448,6 @@ androsin
 androsphinges
 androsphinx
 androsporangium
-androspore
 androsterone
 androtomy
 ands
@@ -17771,6 +17770,7 @@ alkalizate
 appersonation
 appersonification
 appert
+androspore
 appertain
 athematic
 appertained
