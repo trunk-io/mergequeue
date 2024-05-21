@@ -5415,6 +5415,7 @@ afflictive
 afflictively
 avadavats
 afflicts
+afterswell
 auctioneer
 affloof
 affluence
@@ -16808,7 +16809,6 @@ anethole
 aphacic
 aphaeresis
 aphagias
-afterswell
 astipulate
 aphanapteryx
 aphanes
