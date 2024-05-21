@@ -4705,7 +4705,6 @@ carpetbags
 carpeted
 counterearth
 coumarou
-chlamydospore
 cellarway
 carpeting
 carpetlayer
@@ -5676,6 +5675,7 @@ catathymic
 catatony
 catatonic
 catawampous
+chlamydospore
 catawampously
 catawamptiously
 catawampus
