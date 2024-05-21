@@ -27,7 +27,6 @@ fieldmen
 floey
 fibrolitic
 fabricated
-fabricates
 fabricating
 fabrication
 fabricational
@@ -3760,6 +3759,7 @@ filmcards
 filmdom
 futilous
 fluxing
+fabricates
 filmer
 forborn
 fibrocystic
