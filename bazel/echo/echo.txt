@@ -6978,7 +6978,6 @@ entrains
 emotiomotor
 emissaryship
 entranced
-entrancedly
 equivalve
 entrancement
 enchalice
@@ -9500,6 +9499,7 @@ executant
 ephedrine
 esterase
 escapeful
+entrancedly
 exactus
 equisized
 elaborates
