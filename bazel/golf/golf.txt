@@ -9487,7 +9487,6 @@ groupment
 gimbaling
 glimes
 groupoid
-galbraithian
 gisla
 groupwise
 goloch
@@ -10270,6 +10269,7 @@ gapes
 gristmilling
 guyot
 guipure
+galbraithian
 galatians
 gumbos
 gab
