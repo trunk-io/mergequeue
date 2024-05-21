@@ -587,7 +587,6 @@ extrudable
 epigeal
 echolocation
 echometer
-echopractic
 echos
 echovirus
 emplacement
@@ -5023,6 +5022,7 @@ exemptible
 endocarp
 emotiovascular
 endocarpal
+echopractic
 endocarps
 endocellular
 extramarital
