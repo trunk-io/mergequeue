@@ -2768,7 +2768,6 @@ fightings
 fungate
 fescues
 forelimbs
-fesse
 frankfold
 fessed
 foldouts
@@ -5586,6 +5585,7 @@ flightless
 facund
 forepassed
 flights
+fesse
 fannier
 fructuose
 flyings
