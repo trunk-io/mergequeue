@@ -2510,6 +2510,7 @@ baresma
 balbutient
 balaklava
 binotic
+bigram
 baresthesia
 bottom
 bonedog
@@ -14703,7 +14704,6 @@ bravi
 bayoneted
 braving
 bravissimo
-bigram
 bravoes
 bacteriaceous
 boulevards
