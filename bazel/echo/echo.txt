@@ -593,6 +593,7 @@ extrudable
 epigeal
 echolocation
 echometer
+edifiers
 echopractic
 echos
 echovirus
@@ -1107,7 +1108,6 @@ edificed
 edifices
 edificing
 edified
-edifiers
 edifying
 edifyingly
 edifyingness
