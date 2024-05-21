@@ -26,6 +26,7 @@ gabbiness
 gunsling
 gabble
 gabbled
+gesticulated
 gabbler
 gabblers
 glamourize
@@ -6684,7 +6685,6 @@ graphalloy
 gorgonian
 granivorous
 gonaduct
-gesticulated
 gonalgia
 gonangial
 gonangium
