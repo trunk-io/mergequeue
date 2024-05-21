@@ -22252,7 +22252,6 @@ cupride
 congest
 compote
 congestedness
-completer
 cosmoscope
 congestible
 congesting
@@ -22534,6 +22533,7 @@ conjunctives
 chersonese
 conjunctivitis
 chimbleys
+completer
 conjuncts
 conjunctur
 conjunctures
