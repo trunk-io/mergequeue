@@ -2582,6 +2582,7 @@ ferriferous
 folder
 fossilisable
 fluorine
+flection
 ferreous
 fences
 ferrer
@@ -7189,7 +7190,6 @@ footie
 footier
 footingly
 footings
-flection
 fellic
 footled
 fiducinales

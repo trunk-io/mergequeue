@@ -16261,7 +16261,6 @@ clinical
 clinically
 clinicians
 condensations
-cask
 clinicopathological
 clinkant
 clinkered
@@ -31013,6 +31012,7 @@ cumulatively
 cumulativeness
 countersunk
 cumulene
+cask
 cynophile
 cumuli
 cumuliform
