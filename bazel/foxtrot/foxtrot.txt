@@ -5468,6 +5468,7 @@ furunculus
 flewit
 flews
 flibbertigibbets
+flowable
 flexed
 fartherer
 flexes
@@ -6165,7 +6166,6 @@ foredoor
 fraughts
 fuses
 furdle
-flowable
 fcp
 foresaw
 flowage
