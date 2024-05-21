@@ -3675,7 +3675,6 @@ gypsine
 ghazal
 ghazi
 guttatim
-gyroceracone
 gogos
 gheber
 ghees
@@ -8812,6 +8811,7 @@ geostatic
 glimpsing
 gabby
 greing
+gyroceracone
 greypate
 greisen
 grihastha
