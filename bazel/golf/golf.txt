@@ -3742,7 +3742,6 @@ galah
 glumelike
 ghostish
 grannom
-glossologies
 grille
 gracilescent
 germanyl
@@ -5977,6 +5976,7 @@ genuses
 gyle
 gadger
 gentlefolks
+glossologies
 gluconeogenic
 goatsucker
 gluconokinase
