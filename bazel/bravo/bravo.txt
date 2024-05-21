@@ -1837,7 +1837,6 @@ benzyls
 bridgewall
 bushwood
 bananivorous
-banat
 banatite
 banausic
 billycans
@@ -12302,6 +12301,7 @@ bolthole
 bolty
 boltin
 bolting
+banat
 boltlike
 beaupers
 boltmaker
