@@ -8751,6 +8751,7 @@ forbiddable
 flogged
 fortunetelling
 fortunite
+frowns
 followership
 fortuuned
 forwalk
@@ -9625,7 +9626,6 @@ favouress
 freckly
 frecklier
 foredescribe
-frowns
 freckliness
 flighting
 feedboxes
