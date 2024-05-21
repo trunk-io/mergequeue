@@ -3704,7 +3704,6 @@ forcene
 fortified
 franchisal
 fairstead
-foreleech
 follied
 fledges
 fermental
@@ -9603,6 +9602,7 @@ forsworn
 falchion
 fastened
 fiador
+foreleech
 freeman
 felicify
 flitches
