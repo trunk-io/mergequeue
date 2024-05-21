@@ -6279,7 +6279,6 @@ enrolls
 eumycetes
 enroot
 enrooted
-enroots
 embowed
 encirclement
 enrut
@@ -7797,6 +7796,7 @@ epifaunae
 expropriating
 epifaunal
 epifaunas
+enroots
 entassment
 epifocal
 epigaea
