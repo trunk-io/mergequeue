@@ -2235,7 +2235,6 @@ achondroplastic
 achor
 achordal
 anthracemia
-alqueire
 angles
 achordata
 achordate
@@ -13669,6 +13668,7 @@ annulment
 anaretic
 annulments
 annuloid
+alqueire
 annuloida
 annulosa
 annuls
