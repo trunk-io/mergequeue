@@ -4686,7 +4686,6 @@ bryophyte
 bedclothing
 bedcovers
 blader
-bromos
 bucklered
 bedding
 beddingroll
@@ -5304,6 +5303,7 @@ begalled
 boasted
 boarcite
 beslimed
+bromos
 basification
 begar
 basaltic
