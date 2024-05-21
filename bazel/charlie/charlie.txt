@@ -6222,7 +6222,6 @@ caulerpaceous
 caulescent
 cauli
 caulicle
-caulicles
 caulicole
 cacophonia
 champerator
@@ -20296,6 +20295,7 @@ communicant
 communicate
 communicates
 communicating
+caulicles
 communication
 communications
 communicative
