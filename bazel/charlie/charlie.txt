@@ -8867,7 +8867,6 @@ chapelman
 chapelmaster
 chapelry
 combflower
-chapelries
 chapels
 chapelward
 compile
@@ -10355,6 +10354,7 @@ chickamauga
 chickasaw
 catechumenically
 chickasaws
+chapelries
 chickees
 chickell
 chicken
