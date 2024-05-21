@@ -6390,7 +6390,6 @@ glycohaemia
 goblinesque
 griffins
 goblinish
-glyceryl
 gramophones
 gentry
 goundou
@@ -8907,6 +8906,7 @@ griding
 goldney
 gabion
 glucina
+glyceryl
 gridiron
 glenlivet
 gridirons
