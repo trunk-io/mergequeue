@@ -2354,6 +2354,7 @@ grieflessness
 gekkonoid
 geomoroi
 galante
+gimballing
 gelable
 gelandelaufer
 glyoxaline
@@ -6094,7 +6095,6 @@ granolithic
 gluemaker
 glutinative
 gradualistic
-gimballing
 glutinosity
 glutinous
 groucho
