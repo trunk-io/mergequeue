@@ -2852,7 +2852,6 @@ glike
 grano
 gaulin
 glaister
-graddan
 genteelize
 gelating
 gentiana
@@ -6759,6 +6758,7 @@ gonidial
 gonidic
 goodby
 gambled
+graddan
 gristhorbia
 gobbets
 googols
