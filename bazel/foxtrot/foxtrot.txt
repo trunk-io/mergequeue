@@ -3878,7 +3878,6 @@ finagler
 flashlamps
 finaglers
 final
-fountainwise
 fiked
 fordable
 finalization
@@ -4418,6 +4417,7 @@ fishspear
 fishtail
 fluffier
 frosting
+fountainwise
 fomentation
 faddy
 familiarizations
