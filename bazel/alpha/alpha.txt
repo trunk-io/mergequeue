@@ -3313,7 +3313,6 @@ apprehensions
 adminiculate
 acupunctuation
 annelides
-acupuncturation
 acupuncturator
 acupuncture
 abonne
@@ -11211,6 +11210,7 @@ amphinesian
 amphion
 amphioxi
 amphioxidae
+acupuncturation
 amphioxis
 amphioxus
 amphioxuses
