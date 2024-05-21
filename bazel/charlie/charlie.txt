@@ -5126,6 +5126,7 @@ caseins
 cellated
 caselessly
 caseload
+chronol
 caseloads
 caselty
 casemaker
@@ -20630,7 +20631,6 @@ compitalia
 complacence
 complacency
 complacent
-chronol
 cantor
 cosmosophy
 complacentially
