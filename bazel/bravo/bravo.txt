@@ -4895,7 +4895,6 @@ baikerinite
 beshrouded
 bolometer
 bedstraw
-bedstraws
 bedstring
 bedswerver
 bhotiya
@@ -8535,6 +8534,7 @@ bygones
 bist
 bigoniac
 bigonial
+bedstraws
 bigotedness
 besotted
 bigots
