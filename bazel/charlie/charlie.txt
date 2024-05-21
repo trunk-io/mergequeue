@@ -9231,7 +9231,6 @@ chartulas
 charwoman
 cowards
 charwomen
-chasable
 chase
 chaseable
 chased
@@ -29359,6 +29358,7 @@ cryptos
 cryptoscope
 cryptoscopy
 cryptosplenetic
+chasable
 cryptostegia
 cryptostome
 cryptotaenia
