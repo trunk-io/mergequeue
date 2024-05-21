@@ -11458,7 +11458,6 @@ chlorphenol
 caffa
 chlorpicrin
 chlorpromazine
-chlorpropamide
 cheerfulsome
 ciboule
 chlorsalol
@@ -15068,6 +15067,7 @@ controllability
 citrate
 capsize
 capillarimeter
+chlorpropamide
 citrates
 chromoplasm
 citrean
