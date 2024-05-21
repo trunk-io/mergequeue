@@ -8981,7 +8981,6 @@ disafforestation
 deflator
 dichromat
 dichromatic
-dichromaticism
 dichromatism
 debonairty
 dispeller
@@ -14413,6 +14412,7 @@ divestment
 divesture
 deckhouse
 divi
+dichromaticism
 douter
 dividable
 depredator
