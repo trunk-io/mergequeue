@@ -1794,6 +1794,7 @@ glinted
 geodetically
 gibbering
 gastrohysteropexy
+gamotropism
 gastrointestinal
 grassquit
 gastrojejunostomy
@@ -5185,7 +5186,6 @@ grav
 gasoliery
 geophysics
 gunman
-gamotropism
 gormless
 glib
 gubernance
