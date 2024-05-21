@@ -13008,7 +13008,6 @@ enlivened
 expeditor
 expellable
 expellant
-expellee
 expellees
 expellent
 egueiite
@@ -13591,6 +13590,7 @@ extensions
 extensity
 extinctive
 endorsements
+expellee
 enough
 empathizing
 eggcup
