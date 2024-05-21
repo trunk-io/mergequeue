@@ -502,6 +502,7 @@ backstabber
 backstaff
 backstay
 bridely
+bowlers
 butylation
 biotech
 boshboks
@@ -2809,7 +2810,6 @@ barongs
 barony
 bassets
 baudrons
-bowlers
 baronial
 baronize
 baronized
