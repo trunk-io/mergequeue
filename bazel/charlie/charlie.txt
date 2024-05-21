@@ -7472,7 +7472,6 @@ cephus
 ceps
 cepter
 cequi
-cerago
 ceramal
 chessman
 ceramals
@@ -11075,6 +11074,7 @@ crimean
 chirurgeonly
 chirurgery
 chis
+cerago
 chiseled
 curuba
 chiseler
