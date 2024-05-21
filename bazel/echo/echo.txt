@@ -5458,7 +5458,6 @@ enharmonically
 energizers
 energizes
 ecclesiology
-energumenon
 environ
 enervate
 enervates
@@ -11295,6 +11294,7 @@ evangeliarium
 excussio
 enalyron
 electropuncture
+energumenon
 evangelic
 evangelical
 endoplastron
