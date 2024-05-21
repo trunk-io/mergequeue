@@ -5383,7 +5383,6 @@ endurance
 endurant
 endure
 engorges
-ensnarled
 endurer
 eclaircise
 enki
@@ -11753,6 +11752,7 @@ examinable
 examinant
 exocannibalism
 enscrolled
+ensnarled
 examinator
 examinatory
 encumbering
