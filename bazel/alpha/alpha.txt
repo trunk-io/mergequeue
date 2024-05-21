@@ -6139,7 +6139,6 @@ aggrievedness
 angelica
 aggro
 aggroup
-affrontee
 arcaded
 archt
 aggroupment
@@ -7682,6 +7681,7 @@ anisokonia
 alchemistry
 alchemists
 angelicas
+affrontee
 amazes
 alchemized
 archership

@@ -373,6 +373,7 @@ disembargoing
 daimonology
 daimons
 ditches
+dropkick
 dainchas
 daynet
 daint
@@ -17394,7 +17395,6 @@ drophead
 drunken
 ditchbur
 dropheads
-dropkick
 dictagraph
 dropkicker
 droplet
