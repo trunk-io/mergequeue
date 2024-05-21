@@ -9196,6 +9196,7 @@ dyeable
 ditriglyph
 dieb
 diebacks
+downtake
 dyebeck
 diecase
 diecious
@@ -16366,7 +16367,6 @@ downstreet
 downstroke
 downstrokes
 downswings
-downtake
 duodecane
 downthrown
 downthrust

@@ -11995,6 +11995,7 @@ bandagers
 blousily
 battalia
 brothelry
+burgware
 bogymen
 bogland
 boglander
@@ -17671,7 +17672,6 @@ burgraviate
 burgs
 burgundy
 bradycardic
-burgware
 brothier
 burh
 bronchopneumonic
