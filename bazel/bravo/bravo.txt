@@ -8311,7 +8311,6 @@ brutelike
 bids
 burls
 biddableness
-bye
 bieberite
 biedermeier
 bivalencies
@@ -17784,6 +17783,7 @@ burning
 bigmitt
 burningly
 buckeens
+bye
 burnish
 beworms
 burnishable
