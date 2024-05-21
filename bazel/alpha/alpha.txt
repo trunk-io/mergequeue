@@ -1724,7 +1724,6 @@ aventail
 accubation
 amphicentric
 accubita
-accubitum
 accubitus
 accueil
 accultural
@@ -16435,6 +16434,7 @@ acuminulate
 allottee
 aldoses
 antivitamin
+accubitum
 antivivisection
 antivivisectionist
 antivivisectionists
