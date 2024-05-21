@@ -8603,7 +8603,6 @@ champertous
 champy
 coe
 champian
-champignon
 champignons
 contrabassoonist
 chaya
@@ -11359,6 +11358,7 @@ chlorococcus
 chlorocresol
 chlorodyne
 chlorodize
+champignon
 chlorodized
 chatoyance
 chlorodizing
