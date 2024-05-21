@@ -2760,7 +2760,6 @@ decorament
 dissention
 duetto
 decorate
-decorating
 dont
 discounsel
 diplopterous
@@ -7180,6 +7179,7 @@ depictor
 desulfurs
 desulphur
 desulphurate
+decorating
 desulphurating
 delatorian
 desulphurised
