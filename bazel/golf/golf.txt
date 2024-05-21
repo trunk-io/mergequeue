@@ -2800,7 +2800,6 @@ graybeards
 genitivally
 grangerized
 grocer
-genitive
 genitocrural
 geniculum
 glug
@@ -7602,6 +7601,7 @@ grisping
 gowdnook
 glagolitic
 gradatively
+genitive
 grafts
 goldbricks
 geospiza
