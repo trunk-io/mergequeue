@@ -15984,7 +15984,6 @@ archils
 antisepsis
 antipriest
 accreting
-antipriestcraft
 androkinin
 antipriesthood
 antiprime
@@ -22604,6 +22603,7 @@ atherine
 abhorrible
 atherinidae
 atheriogaea
+antipriestcraft
 atheriogaean
 atheris
 athermancy
