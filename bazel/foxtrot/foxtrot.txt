@@ -4304,7 +4304,6 @@ faventine
 firoloida
 flammability
 freestanding
-facia
 first
 forbearer
 forestian
@@ -4816,6 +4815,7 @@ fustigate
 floor
 fickleness
 formalin
+facia
 fitchy
 flagstick
 flagworm
