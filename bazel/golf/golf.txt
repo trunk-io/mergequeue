@@ -5333,6 +5333,7 @@ gamecraft
 grenade
 gullet
 glenlike
+gainstand
 genuflectory
 glomerulus
 glenohumeral
@@ -9042,7 +9043,6 @@ gearcase
 gladiatory
 gerontologic
 griping
-gainstand
 grimsir
 grimsire
 grin

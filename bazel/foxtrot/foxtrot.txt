@@ -2294,7 +2294,6 @@ fenagled
 fatil
 fenagles
 fenced
-fenceless
 fencelessness
 flautists
 fayalite
@@ -4981,6 +4980,7 @@ falconries
 flanking
 flanks
 foremartyr
+fenceless
 filthified
 frowsier
 faineantise
