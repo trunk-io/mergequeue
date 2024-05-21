@@ -12672,7 +12672,6 @@ chronometrically
 chronon
 chronons
 chronopher
-chronophotograph
 chronophotography
 chronophotographic
 chronos
@@ -31019,6 +31018,7 @@ cumulite
 cumulocirrus
 cottoned
 cumulonimbus
+chronophotograph
 cumulostratus
 cumulous
 countershafting
