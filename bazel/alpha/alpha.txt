@@ -5628,7 +5628,6 @@ afterdeath
 afterdeck
 aftereffect
 aspergillales
-afterfame
 afterfeed
 afterform
 actuarial
@@ -13279,6 +13278,7 @@ anisamide
 anisandrous
 anisanilide
 annotated
+afterfame
 african
 anisanthous
 anisate

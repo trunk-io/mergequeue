@@ -4576,6 +4576,7 @@ fitness
 fidia
 fitout
 fairlike
+flowmanostat
 fittage
 flumadiddle
 fitted
@@ -6870,7 +6871,6 @@ foreporch
 foliolate
 folios
 foliose
-flowmanostat
 foredays
 flaser
 foliot
