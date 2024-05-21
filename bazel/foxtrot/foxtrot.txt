@@ -5401,6 +5401,7 @@ flemishes
 flensed
 flenser
 fascicule
+forepaws
 flensers
 funnelled
 flenses
@@ -7853,7 +7854,6 @@ forepass
 feedstuffs
 foliously
 forepaw
-forepaws
 foveolets
 fractionisation
 foreplace
