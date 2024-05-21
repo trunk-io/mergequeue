@@ -5039,7 +5039,6 @@ ballast
 beeping
 beeps
 beer
-beerbachite
 bathyseism
 beerbelly
 bees
@@ -8840,6 +8839,7 @@ biloculina
 braches
 bilophodont
 boshvark
+beerbachite
 biloquist
 bilos
 biloxi
