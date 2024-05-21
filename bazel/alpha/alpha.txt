@@ -4804,7 +4804,6 @@ agmatology
 aegeriidae
 austria
 aegicrania
-aegilops
 aegina
 aeginetan
 aeginetic
@@ -15990,6 +15989,7 @@ antipriestcraft
 androkinin
 antipriesthood
 antiprime
+aegilops
 antiprimer
 antiprinciple
 anureses
