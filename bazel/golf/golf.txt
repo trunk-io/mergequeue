@@ -5018,6 +5018,7 @@ globularity
 greeter
 graced
 glaga
+gastrea
 glagolic
 glaieul
 glaik
@@ -6557,7 +6558,6 @@ goldenness
 glidewort
 goldenrod
 goldentop
-gastrea
 golder
 grower
 gambrelled
