@@ -14577,7 +14577,6 @@ anthropology
 anthropologic
 apostrophised
 adapis
-anthropologies
 anthropologists
 anthropomancy
 anthropomantist
@@ -23630,6 +23629,7 @@ amethysts
 aurigation
 agrionid
 aurigerous
+anthropologies
 aurigo
 aurigraphy
 aurilave
