@@ -1952,7 +1952,6 @@ acetamidin
 acetamidine
 acetaminol
 acetaminophen
-acetanilid
 annard
 acetanilide
 acetaniside
@@ -17035,6 +17034,7 @@ anisated
 astite
 apiole
 apiologist
+acetanilid
 apyonin
 apionol
 anteflexion
