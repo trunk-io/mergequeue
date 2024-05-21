@@ -9718,7 +9718,6 @@ esophagostenosis
 esophagotome
 esophagus
 earthshine
-esophoric
 epicrystalline
 eremacausis
 elaeoblastic
@@ -13136,6 +13135,7 @@ envigor
 elicited
 embale
 elishah
+esophoric
 expirers
 expires
 euploidies
