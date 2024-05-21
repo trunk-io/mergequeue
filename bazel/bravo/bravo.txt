@@ -3887,7 +3887,6 @@ barrington
 baulea
 baulk
 baulked
-baulky
 brache
 bunjara
 barques
@@ -11433,6 +11432,7 @@ blackwork
 blueblossom
 bluebonnets
 bluebook
+baulky
 bluebottle
 bluebreast
 bluebuck
