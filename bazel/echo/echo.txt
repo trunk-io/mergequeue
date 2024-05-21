@@ -1343,7 +1343,6 @@ effervescency
 entertissue
 endoskeletal
 exomis
-ebcdic
 effervesces
 enopla
 effervescive
@@ -14105,6 +14104,7 @@ exorcize
 extrinsic
 elegantly
 extrinsicality
+ebcdic
 enzymically
 extendedness
 erythematic

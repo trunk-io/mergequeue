@@ -9154,7 +9154,6 @@ bioherm
 bioherms
 bronzen
 bioinstrument
-biokinetics
 biol
 biolinguistics
 biolyses
@@ -14914,6 +14913,7 @@ breathes
 boarstaff
 bipedism
 burleys
+biokinetics
 breathier
 bigot
 breathiness
