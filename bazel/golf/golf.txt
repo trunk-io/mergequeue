@@ -476,7 +476,6 @@ galleyman
 gonimoblast
 genotype
 glanced
-gastrocoele
 gollar
 galenites
 galenobismutite
@@ -4244,6 +4243,7 @@ gunster
 gymnonoti
 glumous
 guaranin
+gastrocoele
 gymnopaedic
 geographical
 gundogs
