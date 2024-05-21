@@ -3119,7 +3119,6 @@ bucrnia
 bloodcurdler
 baseborn
 birdlime
-blemisher
 basebred
 bacterins
 baseburner
@@ -12807,6 +12806,7 @@ bepity
 buds
 blastoderm
 bookstand
+blemisher
 bookstore
 bookstores
 bioassayed
