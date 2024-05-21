@@ -18129,6 +18129,7 @@ coequalize
 campman
 coequalness
 chopping
+curvets
 coequals
 coequate
 centerward
@@ -31594,7 +31595,6 @@ curveted
 curveting
 curably
 corvets
-curvets
 curvetted
 curvetting
 curvy
