@@ -3520,7 +3520,6 @@ futtah
 faipule
 forcepses
 feuilletonist
-figurer
 flyweight
 flocculous
 facebread
@@ -5837,6 +5836,7 @@ floatman
 floatsman
 feculency
 flypapers
+figurer
 floatsmen
 floatstone
 forestem
