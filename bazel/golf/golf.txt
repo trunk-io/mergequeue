@@ -5268,7 +5268,6 @@ gleamily
 gerardia
 gleaming
 gleamingly
-gleamless
 gleams
 garroters
 genial
@@ -5724,6 +5723,7 @@ glomerule
 glomerulonephritis
 gaduin
 glomerulose
+gleamless
 geomorphogeny
 graphomaniac
 galapee

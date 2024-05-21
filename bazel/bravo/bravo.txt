@@ -1354,7 +1354,6 @@ botrylle
 borderlands
 bulgarian
 balbusard
-bidarkas
 butterbump
 balconette
 betwixen
@@ -11459,6 +11458,7 @@ bebar
 bluegrass
 bluegum
 bluegums
+bidarkas
 bluffy
 bombers
 bluehearted
