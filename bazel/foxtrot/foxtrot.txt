@@ -4947,6 +4947,7 @@ flanche
 fulvidness
 fact
 focused
+follows
 frappeed
 flandan
 fibroligamentous
@@ -11035,7 +11036,6 @@ fumeroot
 fumes
 fumet
 fumets
-follows
 flongs
 fumeuse
 fashionmonger
