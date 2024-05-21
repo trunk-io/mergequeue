@@ -7146,6 +7146,7 @@ footboys
 footbridge
 footcandles
 footcloths
+foxy
 finedraw
 forthward
 facer
@@ -10711,7 +10712,6 @@ flyeater
 fruitlessness
 fleabugs
 fruitlets
-foxy
 fruitlike
 fruitling
 feralin
