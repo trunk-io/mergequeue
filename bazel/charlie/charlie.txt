@@ -8634,7 +8634,6 @@ categorical
 chanceful
 chancefulness
 chancey
-chancel
 chanceled
 chanceless
 cestoda
@@ -10283,6 +10282,7 @@ chiasms
 chiasmus
 chiastic
 curacao
+chancel
 chiastolite
 cantoon
 chiastoneural
