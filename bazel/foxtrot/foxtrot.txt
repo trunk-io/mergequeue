@@ -6533,7 +6533,6 @@ flutey
 flutemouth
 foggers
 fluter
-fluters
 forspread
 fougade
 foolisher
@@ -10446,6 +10445,7 @@ frontirostria
 fared
 frontis
 fosterers
+fluters
 filigree
 fibrillate
 forcaria
