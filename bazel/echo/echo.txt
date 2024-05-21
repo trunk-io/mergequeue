@@ -1664,7 +1664,6 @@ effetmen
 extincteur
 emydea
 eyeballs
-eyebalm
 eyebar
 eyebeam
 eyebeams
@@ -4535,6 +4534,7 @@ enactive
 encephalopathy
 euryalae
 ervenholder
+eyebalm
 encephalopathia
 encephalopathic
 encephalophyma
