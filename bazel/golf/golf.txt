@@ -7136,7 +7136,6 @@ gordon
 gore
 gulfing
 gorebill
-gearboxes
 gored
 gores
 gorfly
@@ -8102,6 +8101,7 @@ grapefruit
 gimping
 glaver
 grapey
+gearboxes
 gasteromycete
 goober
 gluttonize
