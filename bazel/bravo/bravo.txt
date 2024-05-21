@@ -5276,7 +5276,6 @@ befuddle
 befuddled
 bram
 befuddlement
-befuddler
 banner
 befuddlers
 bromite
@@ -13165,6 +13164,7 @@ borreria
 blephariglottis
 befancy
 borromean
+befuddler
 bulkheaded
 bipectinated
 borrowable
