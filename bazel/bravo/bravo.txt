@@ -3407,6 +3407,7 @@ bass
 bassa
 branchiopulmonate
 bassalia
+bouncing
 bootable
 baculum
 bassan
@@ -5010,7 +5011,6 @@ blackcock
 badchan
 bedrock
 beeherd
-bouncing
 beehive
 beehives
 breakfaster
