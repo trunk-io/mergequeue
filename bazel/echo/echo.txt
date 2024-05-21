@@ -4141,6 +4141,7 @@ estado
 eriglossa
 epigene
 employed
+electrion
 enomania
 employee
 endives
@@ -7875,7 +7876,6 @@ extractions
 epigonous
 eliquated
 endopsychic
-electrion
 epigrammatarian
 epigrammatic
 exceed
