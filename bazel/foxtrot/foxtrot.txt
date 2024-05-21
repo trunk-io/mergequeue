@@ -6719,7 +6719,6 @@ fogginess
 flectional
 foreanswer
 foghorn
-flaggily
 fezes
 fanflower
 flaw
@@ -9619,6 +9618,7 @@ foredescribe
 frowns
 freckliness
 flighting
+flaggily
 feedboxes
 freckling
 findfault
