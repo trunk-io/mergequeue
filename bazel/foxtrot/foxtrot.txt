@@ -5652,7 +5652,6 @@ flinthearted
 flinty
 formularizer
 footpound
-flashlike
 fermata
 flintwood
 fanfold
@@ -11016,6 +11015,7 @@ fumbling
 feldspathization
 forkable
 fumblingness
+flashlike
 fumbulator
 fumed
 frigging

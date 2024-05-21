@@ -155,6 +155,7 @@ campmaster
 copellidine
 cabmen
 cabob
+chora
 caboceer
 cizar
 caboche
@@ -11919,7 +11920,6 @@ chopstick
 chopsticks
 chopunnish
 cultch
-chora
 cagn
 choragi
 choragic
