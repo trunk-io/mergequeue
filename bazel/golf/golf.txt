@@ -1514,7 +1514,6 @@ germanism
 goodnight
 garrisonism
 graciosity
-garefowls
 garrnishable
 gemeinde
 garroo
@@ -5758,6 +5757,7 @@ goodbye
 glasses
 glorifications
 glorified
+garefowls
 graveside
 gesturing
 gegg
