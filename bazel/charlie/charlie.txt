@@ -6006,7 +6006,6 @@ catholyte
 cathouse
 carryable
 chandeliers
-cathouses
 crownling
 cathrin
 cathryn
@@ -9758,6 +9757,7 @@ cheiloplasty
 cheilostomata
 cheilostomatous
 censer
+cathouses
 cheilotomy
 cheimatophobia
 condemnably
