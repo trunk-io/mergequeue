@@ -5316,7 +5316,6 @@ blastocyst
 begats
 begattal
 bastes
-bobbled
 bothsided
 barlock
 begaze
@@ -10903,6 +10902,7 @@ blepharoncus
 blepharoplast
 blepharoplastic
 blepharoplegia
+bobbled
 broadhearted
 blepharoptosis
 blepharorrhaphy
