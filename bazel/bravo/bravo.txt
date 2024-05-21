@@ -351,6 +351,7 @@ borgh
 backfurrow
 birdlimed
 backgame
+bullnose
 bepuzzle
 beamlet
 backgammon
@@ -17196,7 +17197,6 @@ bullnecked
 buckshots
 benzthiophen
 bloodripe
-bullnose
 bullnoses
 bullnut
 bullock
