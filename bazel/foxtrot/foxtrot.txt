@@ -1271,7 +1271,6 @@ fluidextract
 fluorography
 fasinite
 flavine
-fractioning
 fassalite
 fastbacks
 feower
@@ -2934,6 +2933,7 @@ fettled
 forewing
 foxship
 frabjously
+fractioning
 fettlings
 faintingly
 freighted
