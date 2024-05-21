@@ -5789,6 +5789,7 @@ engraphic
 engraphically
 engrasp
 ephedrins
+ephelis
 engravement
 evermore
 engraver
@@ -6465,7 +6466,6 @@ enumerations
 enswathing
 ensweep
 ensweeten
-ephelis
 ephyra
 executorship
 entablature
