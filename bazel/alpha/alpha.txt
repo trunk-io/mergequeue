@@ -15326,7 +15326,6 @@ accurtation
 antifreeze
 antifreezing
 antifriction
-antifrictional
 antifrost
 antifundamentalism
 amens
@@ -25291,6 +25290,7 @@ adenofibroma
 allthorn
 abeyant
 afterworking
+antifrictional
 azocyanide
 azocyclic
 alfonso
