@@ -4669,7 +4669,6 @@ borborus
 bedaubing
 bedaubs
 bedlike
-bedazed
 bedazement
 bigotedly
 bedazzle
@@ -11901,6 +11900,7 @@ bodywork
 bodyworks
 bodkin
 bodkins
+bedazed
 breakfastless
 barmybrained
 bodkinwise
