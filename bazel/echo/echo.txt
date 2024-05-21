@@ -648,6 +648,7 @@ etatism
 equisufficiency
 electromechanical
 era
+exclusions
 epirogenic
 establishmentism
 exprobration
@@ -10758,7 +10759,6 @@ estragon
 eugenia
 easternism
 extraclassroom
-exclusions
 eugenically
 eugenicists
 eugenics
