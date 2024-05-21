@@ -16348,6 +16348,7 @@ discinoid
 downsizing
 downslide
 downslip
+divisors
 decibel
 dy
 downslope
@@ -17823,7 +17824,6 @@ diabolarch
 dotiness
 ducktail
 duckweed
-divisors
 donis
 discrete
 docility
