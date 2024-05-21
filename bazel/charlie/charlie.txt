@@ -11864,7 +11864,6 @@ chondrostei
 cytosine
 chondrosternal
 chondrotomy
-chondroxiphoid
 chondrules
 chondrus
 chonicrite
@@ -26877,6 +26876,7 @@ counterflux
 counterfoil
 counterforce
 cosmopolitanizing
+chondroxiphoid
 counterfort
 counterfugue
 countergabble

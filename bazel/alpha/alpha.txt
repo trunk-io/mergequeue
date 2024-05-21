@@ -8948,7 +8948,6 @@ allonyms
 allonomous
 alloo
 allopalladium
-allopath
 allopathetic
 allopathic
 allopathically
@@ -18254,6 +18253,7 @@ aquaplane
 aquaplaner
 allegoricalness
 aquaplaning
+allopath
 aquaregia
 aquarelle
 aquarelles
