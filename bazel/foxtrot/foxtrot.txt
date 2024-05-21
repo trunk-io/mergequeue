@@ -7330,6 +7330,7 @@ flamfew
 forswearer
 fair
 flagellant
+firestone
 fulcrum
 fullnesses
 fleshlessness
@@ -11173,7 +11174,6 @@ fungia
 firmisternial
 fungian
 fthm
-firestone
 fungibility
 fungible
 fideists
