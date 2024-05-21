@@ -5536,7 +5536,6 @@ enticing
 espier
 enfire
 enflame
-enflames
 enduringness
 eukaryote
 enflaming
@@ -10191,6 +10190,7 @@ ethanolysis
 entia
 epipolize
 ethel
+enflames
 emotionalizing
 eucti
 ethenes
