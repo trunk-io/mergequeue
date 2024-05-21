@@ -11240,6 +11240,7 @@ bloodweed
 burgomaster
 bloodwite
 bloodwood
+bradykinetic
 burgeoned
 bloodworm
 biquadratic
@@ -17646,7 +17647,6 @@ burglarized
 burglarizes
 broadways
 burglarizing
-bradykinetic
 backster
 burglarproofed
 burglarproofing
