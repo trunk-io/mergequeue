@@ -981,6 +981,7 @@ gigeria
 glowworm
 gynaecocracy
 glossolaly
+glosseme
 gammerel
 groans
 gammerstang
@@ -3354,7 +3355,6 @@ gutterblood
 gaslighted
 germanistic
 glent
-glosseme
 glycic
 gonadectomy
 germanization
