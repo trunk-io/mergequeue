@@ -3625,7 +3625,6 @@ baygall
 bathyscaphes
 bathysophical
 bathysphere
-bathythermogram
 bathythermograph
 bathkol
 barbar
@@ -13142,6 +13141,7 @@ boronic
 borophenylic
 bibliotherapeutic
 bororoan
+bathythermogram
 brucite
 blameable
 borosalicylate
