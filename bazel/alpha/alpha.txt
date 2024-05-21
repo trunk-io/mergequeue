@@ -5135,7 +5135,6 @@ aeroscepsis
 aeroscopy
 aeroscopically
 aerose
-amphib
 aerosol
 aerosolization
 alchera
@@ -10848,6 +10847,7 @@ archeological
 ammonolytic
 aitches
 anticult
+amphib
 ammonolyzing
 ammophila
 ammophilous
