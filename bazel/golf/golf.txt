@@ -2181,6 +2181,7 @@ gazella
 gazelle
 gazellelike
 gazelline
+garpike
 gazement
 gynocratic
 gazettal
@@ -7571,7 +7572,6 @@ gluside
 grabs
 glasgow
 gruiform
-garpike
 gynerium
 gilbertite
 gracefuller
