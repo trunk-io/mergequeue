@@ -1168,7 +1168,6 @@ balladized
 baiza
 baizas
 baize
-baized
 bespin
 beseech
 baizing
@@ -14456,6 +14455,7 @@ branches
 beadle
 branchiae
 borstals
+baized
 belittler
 bathetic
 batiked
