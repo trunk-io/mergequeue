@@ -8283,7 +8283,6 @@ facelift
 fertilized
 foryield
 furnished
-forints
 facade
 forisfamiliate
 forisfamiliation
@@ -10696,6 +10695,7 @@ fruitgrower
 foodstuffs
 fruitier
 fixity
+forints
 fruitiness
 famish
 frightable
