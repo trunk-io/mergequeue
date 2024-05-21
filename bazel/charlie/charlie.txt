@@ -8639,7 +8639,6 @@ chanceled
 chanceless
 cestoda
 chancellery
-chancelleries
 chancellor
 chancellorate
 chancelloress
@@ -23425,6 +23424,7 @@ contemplate
 contemplatedly
 contemplates
 contemplating
+chancelleries
 contemplation
 contemplations
 contemplatist
