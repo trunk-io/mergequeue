@@ -5406,6 +5406,7 @@ glycol
 glycolaldehyde
 goback
 gayals
+guao
 glycolyl
 glycolipine
 glycolysis
@@ -6316,7 +6317,6 @@ gentium
 goalies
 grudgefully
 guastalline
-guao
 grenadin
 gilbertine
 garrisoned
