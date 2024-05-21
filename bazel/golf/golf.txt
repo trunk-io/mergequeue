@@ -5462,6 +5462,7 @@ gripy
 gliddery
 geotechnics
 gruft
+graphophonic
 gigartinaceae
 gospodipoda
 guttural
@@ -8185,7 +8186,6 @@ gweducs
 glissaded
 gyrovague
 graphophone
-graphophonic
 gastromelus
 graphoscope
 grinderies

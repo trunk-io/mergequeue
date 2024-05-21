@@ -14543,7 +14543,6 @@ cirques
 carromata
 cirrate
 coercibleness
-cirrated
 cryptography
 compounds
 cirratulidae
@@ -30892,6 +30891,7 @@ chainette
 culturing
 crotched
 culturist
+cirrated
 culturize
 culturological
 culturologically
