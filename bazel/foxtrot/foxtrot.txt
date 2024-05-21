@@ -329,7 +329,6 @@ fastigious
 failure
 failures
 fainaigue
-fainaigued
 fingerfishes
 frogleg
 formulariser
@@ -4499,6 +4498,7 @@ fort
 filching
 fouldre
 familiarness
+fainaigued
 fisticuffery
 fistiness
 fisting
