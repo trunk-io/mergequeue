@@ -8843,7 +8843,6 @@ allocates
 amoyese
 autoimmunization
 allocating
-asthmatics
 allocation
 allocations
 amyosthenia
@@ -25328,6 +25327,7 @@ antireactionaries
 azophenetole
 alp
 azophenyl
+asthmatics
 azophenine
 azophosphore
 azoprotein
