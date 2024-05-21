@@ -7956,6 +7956,7 @@ foresheets
 ff
 flaminica
 fretwork
+fetlock
 fiddleheaded
 forgiveness
 foreshock
@@ -8506,7 +8507,6 @@ formolit
 flouring
 fluid
 faultless
-fetlock
 formols
 formosity
 formous
