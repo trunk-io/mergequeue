@@ -3834,6 +3834,7 @@ anthobiology
 alberta
 adhort
 ady
+asleep
 awol
 adiabat
 assistency
@@ -21373,7 +21374,6 @@ aslant
 aslantwise
 aslaver
 adenylpyrophosphate
-asleep
 aslumber
 arolla
 asmack
