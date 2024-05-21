@@ -7129,7 +7129,6 @@ beslobber
 besluit
 besmear
 blvd
-besmearing
 besmile
 besmiled
 besmiling
@@ -15044,6 +15043,7 @@ brev
 blisterweed
 bradawl
 breva
+besmearing
 brevet
 brevetcies
 breveting
