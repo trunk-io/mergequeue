@@ -43,6 +43,7 @@ caballos
 caban
 cardiae
 cabana
+checkerboards
 centillions
 cabanas
 cabane
@@ -9548,7 +9549,6 @@ checkerboard
 calyciform
 checkerboarded
 checkerboarding
-checkerboards
 checkered
 checkery
 checkering
