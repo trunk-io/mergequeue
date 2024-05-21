@@ -6534,6 +6534,7 @@ guineapig
 goldbug
 geswarp
 goldbugs
+geomagnetics
 gabbles
 goldeyes
 golden
@@ -8247,7 +8248,6 @@ goosishness
 glycyrize
 geoform
 grubstaked
-geomagnetics
 greeneries
 gulosities
 glamouring
