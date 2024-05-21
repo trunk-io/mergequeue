@@ -3841,6 +3841,7 @@ emforth
 emic
 eudendrium
 emication
+extensibleness
 emyde
 ecumenicity
 externalising
@@ -4058,7 +4059,6 @@ effuse
 empierce
 empiercement
 empyesis
-extensibleness
 evaporative
 exedent
 enviers
