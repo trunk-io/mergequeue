@@ -1052,7 +1052,6 @@ cowhide
 calceus
 costoclavicular
 calchas
-calche
 calcic
 calcicole
 cordials
@@ -9198,6 +9197,7 @@ charterless
 chartermaster
 charters
 charthouse
+calche
 cindered
 chartist
 chartless
