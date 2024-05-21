@@ -8855,7 +8855,6 @@ dibromide
 dibromoacetaldehyde
 dibromobenzene
 dibs
-dibstone
 doziness
 dibutyl
 denunciation
@@ -18339,6 +18338,7 @@ duodene
 duodenitis
 dismantled
 duodenocholecystostomy
+dibstone
 duodenocholedochotomy
 defossion
 discant
