@@ -7685,7 +7685,6 @@ forwardest
 frogling
 fungilliform
 foreheads
-forehear
 foray
 flitching
 fozier
@@ -11169,6 +11168,7 @@ footbath
 featherway
 flashtester
 figged
+forehear
 frowy
 fungation
 fisk
