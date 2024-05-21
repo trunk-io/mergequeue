@@ -1849,7 +1849,6 @@ bipunctate
 bullose
 burgul
 bandage
-bandaged
 bandager
 bandages
 bandaging
@@ -8722,6 +8721,7 @@ belle
 bilking
 bilkis
 bilks
+bandaged
 bill
 bushveld
 brattish
