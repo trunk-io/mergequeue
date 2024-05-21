@@ -7951,7 +7951,6 @@ ferahan
 foreshank
 fadging
 foresheet
-foresheets
 ff
 flaminica
 fretwork
@@ -10611,6 +10610,7 @@ frubbish
 favose
 flatcar
 fruchtschiefer
+foresheets
 forespoken
 fructescent
 flirted
