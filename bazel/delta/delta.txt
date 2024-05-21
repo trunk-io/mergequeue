@@ -15634,7 +15634,6 @@ doorstead
 didactics
 detumescent
 doorstone
-doorstop
 diodes
 deaconize
 doorway
@@ -16004,6 +16003,7 @@ desuperheater
 dottrel
 dehumanize
 dottrels
+doorstop
 douane
 doub
 decrepitude
