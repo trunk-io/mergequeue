@@ -4538,6 +4538,7 @@ gio
 giobertite
 gammelost
 glands
+gunfight
 giocoso
 gip
 gype
@@ -8848,7 +8849,6 @@ goosegrass
 grenelle
 guarani
 gammacismus
-gunfight
 gressoria
 gressorial
 grieving
