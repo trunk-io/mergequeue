@@ -6329,7 +6329,6 @@ dermatopathology
 dermatopathophobia
 disemboguement
 dermatophyte
-discomplexion
 dermatophytosis
 dermatophone
 dermatophony
@@ -10671,6 +10670,7 @@ drownproofing
 disorganizing
 disbutton
 dipneumonous
+discomplexion
 dipnoans
 doublewords
 diastrophism
