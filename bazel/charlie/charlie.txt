@@ -7525,7 +7525,6 @@ ceratitoidea
 ceratium
 ceratoblast
 ceratobranchial
-ceratocystis
 ceratodidae
 ceratodontidae
 ceratodus
@@ -24846,6 +24845,7 @@ clake
 coquitos
 cor
 corabecan
+ceratocystis
 corach
 coracial
 coracias
