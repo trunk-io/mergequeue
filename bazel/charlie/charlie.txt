@@ -6438,7 +6438,6 @@ caveator
 choaty
 caveators
 crankly
-caved
 canell
 cavefish
 cavefishes
@@ -24065,6 +24064,7 @@ coralwort
 convento
 convents
 conventual
+caved
 conventually
 converge
 cuspal
