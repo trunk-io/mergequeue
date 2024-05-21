@@ -4190,6 +4190,7 @@ cardmaking
 cardo
 cardol
 cardon
+chanterelle
 cardona
 cardoncillo
 cardoon
@@ -8776,7 +8777,6 @@ chantecler
 chantey
 chanteyman
 chantepleure
-chanterelle
 cabinetmake
 chanters
 coinhering

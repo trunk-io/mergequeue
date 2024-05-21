@@ -1685,6 +1685,7 @@ gasteromycetes
 glottic
 gasteromycetous
 glottis
+grasset
 gasteropoda
 gordolobo
 gummy
@@ -10539,7 +10540,6 @@ guanays
 gunmaking
 gaun
 guelphic
-grasset
 gunmetal
 gurmukhi
 gcd
