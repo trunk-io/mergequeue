@@ -11241,7 +11241,6 @@ chloralized
 chloralose
 chloralosed
 chloralum
-chlorambucil
 chloramin
 crepidomata
 chloramphenicol
@@ -19897,6 +19896,7 @@ collectives
 clayish
 caccias
 coachmanship
+chlorambucil
 comity
 comitia
 comitial
