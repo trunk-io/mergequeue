@@ -1957,6 +1957,7 @@ goodyship
 germaniums
 groundable
 gaucie
+guesstimated
 gynopara
 gumshoe
 gowd
@@ -7361,7 +7362,6 @@ gassit
 gotiglacial
 gastrula
 grudgekin
-guesstimated
 gangliitis
 gimbawawed
 gonia
