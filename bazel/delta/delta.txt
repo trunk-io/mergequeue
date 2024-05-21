@@ -4325,7 +4325,6 @@ deltohedron
 dittied
 dauerlauf
 deltoideus
-delubra
 delubrubra
 deluce
 delude
@@ -17049,6 +17048,7 @@ dobbed
 dissents
 dynametrical
 dressmake
+delubra
 dressmakery
 dressmakers
 dressmaking

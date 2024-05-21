@@ -12126,7 +12126,6 @@ anatomies
 alloplasmic
 anatomise
 anatomiser
-anatomist
 anatomists
 anatomization
 anatomize
@@ -20944,6 +20943,7 @@ asbolan
 asbolane
 asboline
 amnionate
+anatomist
 asbolite
 ascanian
 ascanius
