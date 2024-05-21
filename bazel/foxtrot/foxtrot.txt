@@ -6072,7 +6072,6 @@ forgeman
 foxhounds
 florisugent
 floruit
-flinder
 fetialis
 forsook
 fleyland
@@ -8594,6 +8593,7 @@ forrit
 foxish
 forescript
 forsay
+flinder
 fir
 forsaken
 fluoridise
