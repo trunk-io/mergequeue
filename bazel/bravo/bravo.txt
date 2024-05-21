@@ -2923,6 +2923,7 @@ belap
 barrelet
 barrelfish
 barrelfishes
+batuque
 botanical
 blennometritis
 bonair
@@ -3855,7 +3856,6 @@ blastomeric
 batwing
 beswitch
 batwomen
-batuque
 blastocolla
 bishopship
 beetlestock
