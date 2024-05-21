@@ -4765,7 +4765,6 @@ bowne
 billywix
 bedimpling
 bathymetrically
-bacterioid
 bella
 beading
 busywork
@@ -9281,6 +9280,7 @@ biosocial
 biosociology
 bullshots
 biosociological
+bacterioid
 biosome
 biospeleology
 boniest
