@@ -6537,7 +6537,6 @@ enteralgia
 embiotocoid
 enterate
 enterectomy
-enterectomies
 echelons
 exuviates
 enterer
@@ -9853,6 +9852,7 @@ epimorphic
 esselenian
 eastlings
 entotrophi
+enterectomies
 emboweling
 enodal
 effeminised
