@@ -8806,7 +8806,6 @@ diazoimide
 dredges
 diazole
 diazoma
-diazomethane
 diazonium
 debasing
 demethylation
@@ -13376,6 +13375,7 @@ disquiparancy
 deviability
 disquisit
 diminishableness
+diazomethane
 disquisite
 disquisited
 despoliation
