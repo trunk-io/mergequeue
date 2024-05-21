@@ -19913,7 +19913,6 @@ comm
 command
 commandable
 commandant
-curtaxe
 commandatory
 commanded
 commandedness
@@ -26247,6 +26246,7 @@ cosseted
 cosseting
 cossette
 catalowne
+curtaxe
 cleanliness
 cossetting
 cosshen
