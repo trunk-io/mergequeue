@@ -18898,7 +18898,6 @@ collagenous
 checked
 collages
 collapsability
-collapsable
 cascado
 collapse
 collapsed
@@ -22879,6 +22878,7 @@ conservative
 conservatively
 conservativeness
 choisya
+collapsable
 conservatives
 conservatize
 conservatoire
