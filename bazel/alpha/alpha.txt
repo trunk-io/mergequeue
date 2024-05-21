@@ -2961,7 +2961,6 @@ acropore
 acrorrheuma
 augustest
 acroscleriasis
-acrosome
 acrosomes
 aland
 autolimnetic
@@ -13514,6 +13513,7 @@ annectant
 annection
 annelid
 annelida
+acrosome
 annelidan
 agrammatical
 annelidian
