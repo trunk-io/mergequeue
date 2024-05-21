@@ -8280,7 +8280,6 @@ episternum
 erucic
 entozoa
 epistyle
-epistyles
 epistylis
 exulcerate
 emetocathartic
@@ -12231,6 +12230,7 @@ estuaries
 exciple
 eucolite
 exeat
+epistyles
 enseat
 exec
 enteradenology
