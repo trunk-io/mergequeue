@@ -3045,7 +3045,6 @@ gollop
 geoffroyin
 geomance
 geogen
-geogenesis
 gyropilot
 gibbartas
 ghosting
@@ -4740,6 +4739,7 @@ gynaeolatry
 gyrohorizon
 gyroidal
 guapilla
+geogenesis
 geometrid
 gigantostraca
 gallstone
