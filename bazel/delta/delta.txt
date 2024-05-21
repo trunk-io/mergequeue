@@ -2474,7 +2474,6 @@ decyne
 diaeresis
 decinormal
 decipherability
-diallers
 decipherable
 dand
 delay
@@ -3809,6 +3808,7 @@ diurnalness
 dehumanization
 defibrinize
 dehumidify
+diallers
 dehumidified
 dehumidifier
 dehumidifiers

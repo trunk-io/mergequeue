@@ -919,6 +919,7 @@ gamelang
 graceful
 gonagia
 gamelans
+gammy
 gameless
 gentian
 gamelike
@@ -982,7 +983,6 @@ gammerel
 groans
 gammerstang
 graupel
-gammy
 gingerade
 gammock
 gamesmanship
