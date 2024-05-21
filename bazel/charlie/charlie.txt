@@ -1653,7 +1653,6 @@ calotermes
 calothrix
 calotype
 cyclodiolefine
-calotypic
 calotypist
 calotte
 calottes
@@ -14150,6 +14149,7 @@ cypridina
 calfret
 contraregular
 cypridinoid
+calotypic
 cyprina
 cyprine
 cyprinid
