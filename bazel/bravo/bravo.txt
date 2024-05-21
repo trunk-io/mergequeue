@@ -1593,7 +1593,6 @@ binate
 ballista
 boilermaker
 ballistae
-bijous
 ballistician
 brachioganoidei
 ballistocardiogram
@@ -11345,6 +11344,7 @@ bullshits
 bristling
 blowgun
 blowguns
+bijous
 blatchang
 blowhole
 blowholes
