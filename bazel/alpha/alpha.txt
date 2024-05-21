@@ -3536,7 +3536,6 @@ additionist
 afterwort
 additions
 addititious
-additive
 additively
 alloisomeric
 appoggiatura
@@ -18109,6 +18108,7 @@ antiresonance
 approximator
 appt
 appui
+additive
 aggrandise
 aeonian
 alemonger
