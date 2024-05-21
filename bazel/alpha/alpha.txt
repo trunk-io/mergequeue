@@ -5634,7 +5634,6 @@ afterglow
 alloclasite
 aftergo
 ascesis
-aftergood
 aftergrief
 armpad
 aftergrowth
@@ -25183,6 +25182,7 @@ axoid
 axoidean
 arseniosiderite
 anapleroses
+aftergood
 axometry
 aurantiaceous
 aetheogamic
