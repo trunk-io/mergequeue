@@ -2787,6 +2787,7 @@ ectocornea
 elenge
 encl
 emitter
+endemism
 electrometallurgical
 eleoblast
 eleolite
@@ -4934,7 +4935,6 @@ enschedule
 ethicalness
 endemicity
 electrofused
-endemism
 endemisms
 echeloned
 estates
