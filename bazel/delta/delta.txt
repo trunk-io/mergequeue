@@ -4192,7 +4192,6 @@ delinquencies
 delinquent
 dysmenorrhagia
 delinquently
-delint
 dacryohelcosis
 delinter
 deliquescing
@@ -4707,6 +4706,7 @@ demirilievo
 dynasty
 demirobe
 demonastery
+delint
 dungyard
 dol
 dinic
