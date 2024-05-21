@@ -9712,7 +9712,6 @@ esophagometer
 evoked
 esophagomycosis
 esophagopathy
-esophagoplasty
 esophagoptosis
 esophagorrhagia
 embodiment
@@ -12822,6 +12821,7 @@ exoterica
 elementalistically
 epicystotomy
 exoterical
+esophagoplasty
 exoterically
 escobadura
 exotericism
