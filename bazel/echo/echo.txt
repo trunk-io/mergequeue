@@ -865,7 +865,6 @@ ectopia
 euosmite
 embracers
 ectopistes
-ectoplasmatic
 errata
 endship
 ectoplasmic
@@ -2584,6 +2583,7 @@ eras
 exempla
 electrophotomicrography
 electrophrenic
+ectoplasmatic
 electropyrometer
 enthrall
 electroplater
