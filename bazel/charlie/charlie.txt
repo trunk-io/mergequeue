@@ -2945,7 +2945,6 @@ choroidea
 casuarinaceous
 cantina
 canting
-cantingly
 cantingness
 contango
 clairschach
@@ -11790,6 +11789,7 @@ chondriomere
 chondriosome
 chondriosomes
 colubriformia
+cantingly
 chondriosphere
 ceresin
 chondrites
