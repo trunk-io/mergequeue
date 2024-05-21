@@ -1321,6 +1321,7 @@ bacterioprecipitin
 buffers
 balanorrhagia
 balanta
+bescorn
 bottine
 balante
 balantidic
@@ -6999,7 +7000,6 @@ bruchid
 bacteririum
 bassnesses
 benignancy
-bescorn
 bescoundrel
 bescour
 bashless
