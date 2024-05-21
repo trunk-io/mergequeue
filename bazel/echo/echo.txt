@@ -4113,7 +4113,6 @@ emplanement
 entoilment
 endoute
 emplanes
-emplaster
 elevating
 emplastic
 emplastration
@@ -5715,6 +5714,7 @@ engleim
 euchologion
 enshrines
 ectasia
+emplaster
 echoencephalography
 endoplasmic
 englishhood
