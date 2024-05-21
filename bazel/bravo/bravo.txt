@@ -15125,6 +15125,7 @@ belemnite
 briarwood
 bribability
 bribable
+bundler
 bribeability
 bulblet
 bribed
@@ -17395,7 +17396,6 @@ bundled
 branky
 beweeping
 boardmen
-bundler
 bundlerooted
 bangboard
 bundles
