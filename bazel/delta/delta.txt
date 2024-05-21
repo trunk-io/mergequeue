@@ -10988,7 +10988,6 @@ diagraming
 demonlike
 dibbler
 diasystem
-disaligned
 duranta
 disaligning
 disalignment
@@ -11438,6 +11437,7 @@ distorted
 digladiated
 diverted
 discide
+disaligned
 discoblastula
 discoboli
 discobolos
