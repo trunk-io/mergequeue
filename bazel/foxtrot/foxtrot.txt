@@ -2031,6 +2031,7 @@ fannell
 fillercap
 fretted
 fumitories
+freety
 feign
 feetfirst
 furnacing
@@ -4617,7 +4618,6 @@ flourisher
 ficoideae
 fixate
 fixated
-freety
 fixation
 fearfullest
 flatnose
