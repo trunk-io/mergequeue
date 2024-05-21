@@ -457,7 +457,6 @@ emerson
 ecclesioclastic
 exodontics
 earshell
-exoerythrocytic
 egoistic
 ecclesiologic
 ecclesiological
@@ -2348,6 +2347,7 @@ ethnotechnics
 elicitory
 electrodeless
 exponentials
+exoerythrocytic
 entremets
 estimates
 energist
