@@ -7134,7 +7134,6 @@ centiday
 centifolious
 centigrade
 centigrado
-cannikin
 centigramme
 confluences
 centigrams
@@ -13299,6 +13298,7 @@ coenzyme
 cyclamate
 cyclamen
 cyclamens
+cannikin
 cyclamin
 cyclamine
 cyclane
