@@ -6901,7 +6901,6 @@ berobed
 billings
 bedells
 beroe
-berogue
 bylander
 berime
 beroida
@@ -11706,6 +11705,7 @@ boatsetter
 boatshop
 bugology
 bobbed
+berogue
 boatsteerer
 brandying
 boatswain
