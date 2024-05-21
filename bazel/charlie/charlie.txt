@@ -6112,6 +6112,7 @@ cowherd
 cattlebush
 cattlefold
 cicely
+chlorodyne
 cancan
 cattlehide
 cattleya
@@ -11357,7 +11358,6 @@ coincider
 chlorococcum
 chlorococcus
 chlorocresol
-chlorodyne
 chlorodize
 chlorodized
 chatoyance
