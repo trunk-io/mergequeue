@@ -6058,7 +6058,6 @@ glumosity
 gonopodia
 guaiacums
 gabari
-germlike
 granitelike
 glumpier
 glumpiest
@@ -10680,6 +10679,7 @@ galanas
 gush
 garvock
 gunship
+germlike
 glossocoma
 gusher
 gutturotetany
