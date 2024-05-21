@@ -4447,6 +4447,7 @@ brassylic
 becaps
 balanite
 becard
+bessemer
 becarpeted
 becarpeting
 balancer
@@ -7294,7 +7295,6 @@ brambliest
 bifoliate
 brightly
 bessel
-bessemer
 bewend
 bessemerize
 bessemerized
