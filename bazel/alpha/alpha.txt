@@ -5784,7 +5784,6 @@ againstand
 amphidromia
 againward
 ardeid
-agal
 agalactic
 alterius
 agalawood
@@ -18602,6 +18601,7 @@ arbitress
 ashily
 arbitry
 autoelectronic
+agal
 anagyrin
 arblast
 affying
