@@ -170,7 +170,6 @@ foyers
 farthingales
 float
 fulminates
-factionist
 factionistism
 flirtatious
 fewmand
@@ -2673,6 +2672,7 @@ framesmith
 fincas
 flintiness
 freeloving
+factionist
 fireless
 ferrugo
 flusters

@@ -1837,7 +1837,6 @@ bridgewall
 bushwood
 bananivorous
 banat
-banatite
 banausic
 billycans
 banbury
@@ -6224,6 +6223,7 @@ benchfellow
 burglary
 barragon
 benchful
+banatite
 benchy
 blaming
 benchlet
