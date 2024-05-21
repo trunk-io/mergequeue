@@ -5844,7 +5844,6 @@ deport
 demipuppet
 deportability
 diathetic
-deportation
 deportations
 deportee
 divorced
@@ -16112,6 +16111,7 @@ doughtier
 doughtiest
 daswen
 doughtily
+deportation
 dougl
 doukhobor
 doctorship
