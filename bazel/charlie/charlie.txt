@@ -683,6 +683,7 @@ caff
 caffeic
 caffeina
 caffeines
+compensable
 caffeinic
 caffeins
 caffeism
@@ -20562,7 +20563,6 @@ compendiums
 compends
 compenetration
 compensability
-compensable
 compensated
 compensates
 compensating
