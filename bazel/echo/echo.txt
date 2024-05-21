@@ -9778,7 +9778,6 @@ espieglerie
 euryon
 espinal
 espinel
-electrogalvanic
 epimerize
 ensearcher
 espingole
@@ -9808,6 +9807,7 @@ esprit
 errantries
 endowing
 esq
+electrogalvanic
 esquired
 esquiredom
 earthiest
