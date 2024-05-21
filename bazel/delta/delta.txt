@@ -2259,6 +2259,7 @@ deflex
 dustbox
 decelerates
 decelerator
+dunked
 decembrist
 diaphragmal
 decemcostate
@@ -11859,7 +11860,6 @@ delicateness
 discusses
 diachaenium
 discussion
-dunked
 dryworker
 denying
 decumbence
