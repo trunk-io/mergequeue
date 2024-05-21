@@ -3193,7 +3193,6 @@ capitaling
 capitalisable
 capitalised
 capitaliser
-capitalising
 capitalist
 capitalistic
 cit
@@ -10964,6 +10963,7 @@ chirmed
 chirming
 chirms
 chiro
+capitalising
 chirocosmetics
 chirogale
 chirogymnast
