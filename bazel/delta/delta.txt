@@ -5836,7 +5836,6 @@ depones
 deponing
 distributee
 deltidium
-depopulated
 depopulates
 depopulating
 depopulation
@@ -17537,6 +17536,7 @@ drudgers
 drudges
 drudging
 duplexes
+depopulated
 drudgingly
 dys
 drudgism
