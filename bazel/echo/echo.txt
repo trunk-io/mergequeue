@@ -2413,7 +2413,6 @@ equilibrations
 elutriate
 electroforming
 emerges
-equinoctially
 ethanol
 electrogalvanization
 equalization
@@ -12494,6 +12493,7 @@ elenctic
 exhumations
 exhumator
 exhumatory
+equinoctially
 exhumers
 exfiltrate
 exhumes
