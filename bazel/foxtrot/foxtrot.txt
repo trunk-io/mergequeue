@@ -2384,7 +2384,6 @@ fs
 feoffer
 fiberous
 fenester
-flaxseed
 feoffors
 fidelis
 feoffs
@@ -10279,6 +10278,7 @@ fiaschi
 ferryage
 foggages
 frazing
+flaxseed
 flaskful
 froebelian
 froebelism
