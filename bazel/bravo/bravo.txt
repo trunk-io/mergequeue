@@ -6010,7 +6010,6 @@ bigroot
 bluer
 balanopsidales
 bellweather
-blueprinter
 bellweed
 bretons
 butterbur
@@ -10608,6 +10607,7 @@ bogan
 blastophyllum
 blastophitic
 blastophoral
+blueprinter
 blastophoric
 blastophthoria
 blastoporal
