@@ -4491,7 +4491,6 @@ disembark
 demeanored
 dissidents
 devotee
-demeanors
 demele
 demembration
 demembre
@@ -12567,6 +12566,7 @@ distillation
 disinterment
 disinterring
 dimyary
+demeanors
 disinters
 desulfuriser
 deditician
