@@ -5530,7 +5530,6 @@ boodle
 brisling
 behaviours
 bandying
-beheadal
 beheaded
 beheader
 benignness
@@ -11565,6 +11564,7 @@ blur
 blurb
 blurbist
 butteriest
+beheadal
 blurbs
 bargained
 bushbeater
