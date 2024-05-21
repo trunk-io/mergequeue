@@ -65,7 +65,6 @@ dacryopyosis
 desmoma
 dizygotic
 dacryops
-dacryorrhea
 dacryosyrinx
 demilance
 dactylar
@@ -17962,6 +17961,7 @@ dugong
 dugongidae
 deliriously
 dugongs
+dacryorrhea
 demandable
 dugouts
 dugs

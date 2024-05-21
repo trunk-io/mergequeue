@@ -4299,6 +4299,7 @@ chintziness
 cargason
 cargo
 cargoes
+cfm
 cargos
 carhop
 carhops
@@ -23065,7 +23066,6 @@ consortitia
 consortium
 consortship
 collaboration
-cfm
 consoude
 consound
 conspecies
