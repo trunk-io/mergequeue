@@ -4750,6 +4750,7 @@ flageolets
 fencelet
 flagfishes
 flagged
+frowl
 flaggelate
 forbiddenness
 figurately
@@ -10567,7 +10568,6 @@ fetidly
 firewarden
 firemen
 foresummer
-frowl
 fierily
 frowners
 finer
