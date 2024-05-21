@@ -5630,7 +5630,6 @@ aspergillales
 afterfame
 afterfeed
 afterform
-actuarial
 afterfriend
 afterfruits
 ascomata
@@ -10674,6 +10673,7 @@ amynodont
 aminoformic
 aminoglutaric
 aminoguanidine
+actuarial
 aminoid
 anointing
 aminoketone
