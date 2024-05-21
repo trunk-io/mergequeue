@@ -1884,7 +1884,6 @@ gastrostenosis
 gastrostomy
 gastrostomies
 gonimolobe
-guipures
 gastrotome
 gastrotomic
 gastrotubotomy
@@ -3421,6 +3420,7 @@ grittily
 grisaille
 gustus
 goosery
+guipures
 geniohyoglossus
 gawkiness
 glochidium
