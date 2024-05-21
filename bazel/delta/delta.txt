@@ -5996,6 +5996,7 @@ deprive
 deprived
 deprivement
 depriver
+dividable
 dixit
 disconcerts
 deerdog
@@ -14414,7 +14415,6 @@ divesture
 deckhouse
 divi
 douter
-dividable
 depredator
 dividant
 desk
