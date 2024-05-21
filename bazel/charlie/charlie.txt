@@ -6693,7 +6693,6 @@ celandines
 celastraceae
 cerograph
 colorfast
-celastraceous
 cibarium
 celastrus
 celation
@@ -9376,6 +9375,7 @@ chauffage
 coffinite
 chauffer
 chauffers
+celastraceous
 chauffeured
 chauffeuring
 chauffeurship
