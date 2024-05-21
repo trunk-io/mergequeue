@@ -5231,7 +5231,6 @@ buoy
 biotic
 borings
 bandlet
-boomorah
 braiding
 beforementioned
 bagpod
@@ -12758,6 +12757,7 @@ buoyancies
 booklear
 booklet
 booklets
+boomorah
 broomy
 booklike
 bookling
