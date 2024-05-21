@@ -2358,6 +2358,7 @@ donne
 decerns
 decertation
 dasypaedal
+diaereses
 dielike
 databases
 decertify
@@ -8273,7 +8274,6 @@ diadromous
 dioti
 diadumenus
 diaene
-diaereses
 diaeretic
 decanoyl
 deceivableness
