@@ -5074,7 +5074,6 @@ deskmen
 denari
 denaries
 denarinarii
-denarius
 denaro
 dietted
 denasalize
@@ -6359,6 +6358,7 @@ deaccessioned
 dermenchysis
 dermestes
 dermestid
+denarius
 disseminating
 dermestidae
 dynodes
