@@ -2460,6 +2460,7 @@ decimolar
 diplacusis
 driegh
 daysman
+doorless
 dangering
 daker
 dependancy
@@ -15620,7 +15621,6 @@ dooring
 doorkeeper
 doorknob
 doorknobs
-doorless
 doormaid
 doormaker
 doorman
