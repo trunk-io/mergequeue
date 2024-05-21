@@ -1949,6 +1949,7 @@ fosterlings
 flowerlike
 fracture
 feeble
+fracas
 feeblebrained
 fretfully
 fainaiguing
@@ -9176,7 +9177,6 @@ filtratable
 forelive
 filbert
 frabjous
-fracas
 frusta
 fracedinous
 fracid
