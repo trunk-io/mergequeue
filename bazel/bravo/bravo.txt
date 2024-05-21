@@ -5376,7 +5376,6 @@ broadsheet
 bournes
 begirding
 begirdled
-blankard
 begirds
 beamsmen
 bromvogel
@@ -17108,6 +17107,7 @@ bulldoze
 bulldozed
 burghmoot
 bahawder
+blankard
 blushet
 binary
 banefully
