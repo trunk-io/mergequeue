@@ -8672,7 +8672,6 @@ epicyclical
 equilibriums
 equilobed
 equimodal
-exodos
 entoptoscopy
 equimolal
 equimolar
@@ -12678,6 +12677,7 @@ exometritis
 echo
 emerse
 encephaloma
+exodos
 exomologesis
 exomorphic
 exomphalos
