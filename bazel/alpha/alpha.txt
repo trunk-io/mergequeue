@@ -6494,6 +6494,7 @@ agriot
 agriotype
 agriotypidae
 agrypnia
+adhesivemeter
 agrypnotic
 acajou
 agrising
@@ -20560,7 +20561,6 @@ areographic
 artesonado
 artesonados
 artful
-adhesivemeter
 aforesaid
 artfulness
 artgum
