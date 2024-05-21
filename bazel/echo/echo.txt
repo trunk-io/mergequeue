@@ -2800,7 +2800,6 @@ electrometallurgical
 eleoblast
 eleolite
 eleomargaric
-eleoplast
 eleoptene
 erratuta
 eigenfunction
@@ -12850,6 +12849,7 @@ exotoxic
 enlarger
 exotoxins
 ecomomist
+eleoplast
 emigrate
 exteriorising
 expansum
