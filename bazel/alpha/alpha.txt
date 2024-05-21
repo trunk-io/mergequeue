@@ -10884,7 +10884,6 @@ airtight
 amnions
 amnios
 amniota
-amniote
 amniotes
 antipreparedness
 amniotic
@@ -16635,6 +16634,7 @@ aortomalaxis
 aortopathy
 aortoptosia
 aortorrhaphy
+amniote
 aosmic
 aotea
 aotearoa
