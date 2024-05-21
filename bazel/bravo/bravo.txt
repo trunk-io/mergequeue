@@ -5059,6 +5059,7 @@ beermaking
 beermonger
 braggartry
 beefers
+blemishment
 breakfasters
 beerpull
 beers
@@ -10795,7 +10796,6 @@ barbudo
 baumhauerite
 bungfu
 bogeys
-blemishment
 blemmatrope
 brooches
 backcomb
