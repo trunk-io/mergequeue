@@ -1584,7 +1584,6 @@ deadrise
 displeasurably
 deadweight
 deadwood
-deadwork
 deaerated
 deaeration
 dorsum
@@ -9241,6 +9240,7 @@ diemaker
 diemakers
 disfavoring
 dehumidifying
+deadwork
 disassiduity
 dimnesses
 dictynid

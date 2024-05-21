@@ -12662,6 +12662,7 @@ chronomantic
 chronomastix
 chronometer
 citolers
+chartings
 chronometers
 corin
 chronometric
@@ -18226,7 +18227,6 @@ coffeeberries
 coffeecake
 coffeecup
 concessionary
-chartings
 coffeegrower
 coffeegrowing
 cuss
