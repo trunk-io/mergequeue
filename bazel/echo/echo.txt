@@ -9101,6 +9101,7 @@ erythraemia
 exsiccate
 echinus
 erythrasma
+extrasterile
 erythremia
 esculapian
 erythric
@@ -14005,7 +14006,6 @@ eumenorrhea
 epidemy
 elaidic
 eretrian
-extrasterile
 extrastomachal
 extratabular
 embrue
