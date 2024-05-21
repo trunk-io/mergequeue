@@ -3792,7 +3792,6 @@ flaking
 fodda
 fizzers
 filmsets
-footling
 freon
 fullbacks
 forgathering
@@ -9598,6 +9597,7 @@ forefronts
 fempty
 forsworn
 falchion
+footling
 fastened
 fiador
 freeman

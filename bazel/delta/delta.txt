@@ -1040,6 +1040,7 @@ depositions
 dermatographia
 darrein
 darshan
+dorsomesal
 darsonval
 darsonvalism
 darst
@@ -16820,7 +16821,6 @@ deare
 decilitre
 drawbores
 deodars
-dorsomesal
 drawcansir
 drawcard
 dreamsiness
