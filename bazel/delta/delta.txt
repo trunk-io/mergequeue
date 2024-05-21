@@ -531,7 +531,6 @@ damageability
 damageably
 describent
 demounted
-damaged
 damagement
 damageous
 dao
@@ -1102,6 +1101,7 @@ dashiest
 diaceturia
 dartle
 dispatching
+damaged
 dashiki
 dullify
 dashikis
