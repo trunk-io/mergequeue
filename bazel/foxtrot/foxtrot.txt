@@ -1433,7 +1433,6 @@ fatnesses
 fylgjur
 fluctuosity
 fatshedera
-fatsia
 fane
 fatsoes
 fatalize
@@ -9225,6 +9224,7 @@ freakout
 formicaria
 frae
 fraena
+fatsia
 fiefs
 fraternities
 foundationless
