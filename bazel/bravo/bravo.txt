@@ -623,6 +623,7 @@ bacteriform
 bacterin
 borofluoric
 bacterioagglutinin
+byssal
 bacterioblast
 bacteriochlorophyll
 bacteriocin
@@ -9848,7 +9849,6 @@ bissabol
 byssaceous
 bacchante
 blepharodyschroia
-byssal
 bebization
 bigam
 bissellia
