@@ -918,7 +918,6 @@ absit
 absoil
 antient
 absolent
-absolute
 axmen
 azophosphin
 atonies
@@ -5790,6 +5789,7 @@ alterius
 agalawood
 animalcule
 appoggiaturas
+absolute
 agalaxy
 agalaxia
 anisomelus
