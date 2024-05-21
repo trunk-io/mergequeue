@@ -5254,7 +5254,6 @@ glead
 gleam
 groundsill
 geyserine
-gametogony
 guzzler
 gleamed
 guss
@@ -10152,6 +10151,7 @@ guyandot
 guidable
 guidance
 git
+gametogony
 grown
 glaived
 gelid
