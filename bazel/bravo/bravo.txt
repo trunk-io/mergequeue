@@ -2869,7 +2869,6 @@ buttonmold
 barrabora
 barracan
 barrack
-barracked
 borh
 barracking
 barracoon
@@ -10283,6 +10282,7 @@ blackguardry
 beseechers
 blackguards
 blackgum
+barracked
 bullfighter
 blackgums
 blackheart
