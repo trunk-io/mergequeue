@@ -4885,7 +4885,6 @@ carrs
 cars
 carse
 carses
-chondrosteous
 cogitable
 carshops
 carsick
@@ -21299,6 +21298,7 @@ conchfishes
 conchy
 conchies
 confederatize
+chondrosteous
 circummigration
 ceboid
 counterguerrilla
