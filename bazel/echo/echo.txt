@@ -3747,7 +3747,6 @@ embrutes
 embruting
 embubble
 encyclopedize
-embulk
 embull
 embus
 embush
@@ -6871,6 +6870,7 @@ expectorating
 epidermoidal
 entomologist
 entomologize
+embulk
 echinosphaeritidae
 entrap
 entomologized
