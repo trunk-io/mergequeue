@@ -6396,7 +6396,6 @@ dermoidal
 dermoidectomy
 desexed
 denigrating
-dermol
 dermoneural
 drassid
 dermoneurosis
@@ -8313,6 +8312,7 @@ diagrammed
 divinail
 diagrammer
 diagrammers
+dermol
 dissertationist
 desonation
 diagrammitically
