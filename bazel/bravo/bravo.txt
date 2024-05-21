@@ -6065,6 +6065,7 @@ blitzkrieg
 belast
 boreas
 barbecueing
+bouncier
 belowground
 brontothere
 blueweeds
@@ -13620,7 +13621,6 @@ bounceback
 bounced
 bouncers
 bounces
-bouncier
 bouncily
 baconic
 bounciness
