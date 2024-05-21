@@ -4847,7 +4847,6 @@ carryouts
 crosshatched
 carryover
 carritch
-capsaicin
 carritches
 carbohydrazide
 carriwitchet
@@ -5576,6 +5575,7 @@ cataloguer
 catalogues
 constabulary
 cataloguing
+capsaicin
 cataloguish
 cataloguist
 cataloguize
