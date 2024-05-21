@@ -9583,7 +9583,6 @@ guzerat
 glaucosis
 gonorrheal
 giottesque
-grownup
 grownups
 guardship
 geoglossum
@@ -10031,6 +10030,7 @@ graphed
 geosynclines
 gleans
 gudok
+grownup
 gudrun
 glume
 gemelled
