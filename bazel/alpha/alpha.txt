@@ -415,7 +415,6 @@ accelerated
 abiogeny
 abiogenist
 anonychia
-abiogenous
 abiologically
 abioses
 abiotic
@@ -1523,6 +1522,7 @@ acclimatising
 algid
 acclimatizable
 acclimatize
+abiogenous
 acclimatizer
 acclimatizes
 acrisia
