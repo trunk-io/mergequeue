@@ -4828,7 +4828,6 @@ alabastron
 archiving
 azazel
 aegrotat
-acroterion
 abush
 aeipathy
 aetheling
@@ -4921,6 +4920,7 @@ autarky
 aerifies
 aeriform
 aeriness
+acroterion
 aero
 automania
 aerobacteriologist
