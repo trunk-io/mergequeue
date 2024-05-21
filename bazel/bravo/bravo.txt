@@ -2847,6 +2847,7 @@ barotrauma
 bulgurs
 babi
 bravest
+batfowls
 barotraumas
 bostons
 barotropic
@@ -3571,7 +3572,6 @@ batfowled
 benightedness
 batfowling
 bravoed
-batfowls
 blackroot
 bath
 bathala
