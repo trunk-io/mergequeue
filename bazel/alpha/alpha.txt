@@ -23160,7 +23160,6 @@ attitudinise
 attitudinised
 anba
 anisogamic
-attitudiniser
 attitudinising
 aeroscope
 attitudinize
@@ -24797,6 +24796,7 @@ avionics
 avions
 adieux
 avirulence
+attitudiniser
 allegros
 avirulent
 avis
