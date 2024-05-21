@@ -3819,7 +3819,6 @@ adherescence
 anticipatively
 archivolt
 adhering
-adhesion
 adhesional
 adhesive
 adhesively
@@ -12340,6 +12339,7 @@ andira
 andirin
 andirine
 abashments
+adhesion
 aeromantic
 allottable
 albuminometry
