@@ -2400,6 +2400,7 @@ griffinish
 goodnesses
 galopin
 gelder
+gradgrind
 geldesprung
 geldings
 gelds
@@ -7623,7 +7624,6 @@ geobotanically
 gnathometer
 gleary
 grader
-gradgrind
 gud
 grubstake
 gradient
