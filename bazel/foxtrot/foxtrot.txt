@@ -1165,7 +1165,6 @@ forestaller
 fenite
 fascia
 fogeater
-fasciate
 forefends
 farraginous
 flots
@@ -7464,6 +7463,7 @@ forcleave
 fours
 foreknown
 ferrimagnet
+fasciate
 floatative
 forcut
 floes
