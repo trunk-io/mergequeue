@@ -5509,7 +5509,6 @@ glutenin
 gliosa
 granomerite
 glyoxal
-glyoxalic
 griffith
 galliwasp
 gastrelcosis
@@ -8129,6 +8128,7 @@ grapes
 grapeskin
 grapestalk
 grapevines
+glyoxalic
 grapewise
 graphanalysis
 gravid
