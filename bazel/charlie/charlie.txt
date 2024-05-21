@@ -5896,7 +5896,6 @@ correlating
 counterreason
 cathars
 catharses
-catharsis
 cathartes
 cathartic
 chloroplatinate
@@ -28470,6 +28469,7 @@ crosier
 create
 created
 createdness
+catharsis
 cheliferous
 creates
 creatic
