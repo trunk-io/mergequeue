@@ -2534,7 +2534,6 @@ bargainer
 bargaining
 beechwoods
 bhut
-bargander
 barge
 bargeboard
 bargeer
@@ -9250,6 +9249,7 @@ biorhythm
 biorhythmicity
 beshivers
 bios
+bargander
 biosatellites
 biosciences
 bioscientist
