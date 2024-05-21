@@ -6934,6 +6934,7 @@ coaugment
 capricornus
 chapeaux
 cementatory
+cytovirin
 chapaties
 cementer
 cementers
@@ -15056,7 +15057,6 @@ cloud
 cytotrophoblastic
 cytotropic
 cytotropism
-cytovirin
 cytozzoa
 citraconate
 citral
