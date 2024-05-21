@@ -3332,7 +3332,6 @@ belauding
 basiphobia
 basipodite
 bodhisattva
-basipterygium
 bouffes
 basipterygoid
 battle
@@ -5532,6 +5531,7 @@ boodle
 brisling
 behaviours
 bandying
+basipterygium
 beheadal
 beheaded
 beheader

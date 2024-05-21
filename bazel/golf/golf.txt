@@ -6323,6 +6323,7 @@ garrisoned
 glomeration
 greengill
 goaty
+gonidic
 geckotoid
 gonfalons
 goatpox
@@ -6759,7 +6760,6 @@ gallberry
 graphitic
 gonangia
 gonidial
-gonidic
 goodby
 gambled
 gristhorbia
