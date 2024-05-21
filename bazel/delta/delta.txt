@@ -1628,7 +1628,6 @@ deresinize
 deallocation
 deallocations
 deprival
-dipteron
 deals
 dealt
 deambulate
@@ -7492,6 +7491,7 @@ doggier
 deuce
 deuced
 deuces
+dipteron
 deul
 dumpler
 deuniting
