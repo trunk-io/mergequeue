@@ -3936,7 +3936,6 @@ dactyloid
 draftsperson
 dejects
 dejecture
-dejeration
 dejeuner
 dekabrist
 diaphany
@@ -15450,6 +15449,7 @@ dewanship
 debated
 dominos
 discontentful
+dejeration
 dominule
 dominus
 dozy
