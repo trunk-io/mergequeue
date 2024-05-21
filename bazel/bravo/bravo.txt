@@ -3800,7 +3800,6 @@ battlefronts
 battlegrounds
 bringall
 barway
-battlement
 battlements
 barnstorms
 battler
@@ -10395,6 +10394,7 @@ bosporian
 befrogged
 bladesmith
 bladewise
+battlement
 bladygrass
 blennostasis
 bierstube
