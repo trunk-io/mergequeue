@@ -5793,7 +5793,6 @@ depolarise
 drapeable
 depolariser
 darksome
-docetic
 depolarization
 depolarize
 disleave
@@ -16367,6 +16366,7 @@ downstreet
 downstroke
 downstrokes
 downswings
+docetic
 downtake
 duodecane
 downthrown
