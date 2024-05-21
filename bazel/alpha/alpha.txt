@@ -10031,7 +10031,6 @@ ambiguity
 agabanee
 ambiguities
 abvolt
-ambiguous
 ambiguously
 anorthitite
 ambilateral
@@ -20330,6 +20329,7 @@ atracheate
 arrivism
 arrivist
 accumber
+ambiguous
 arrivistes
 assuager
 arrobas
