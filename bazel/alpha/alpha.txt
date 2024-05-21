@@ -8146,7 +8146,6 @@ algernon
 anglaise
 algesiometer
 algy
-algicidal
 algicide
 anionics
 algidity
@@ -18792,6 +18791,7 @@ archanthropine
 archantiquary
 archarchitect
 archartist
+algicidal
 archbanc
 archband
 archbeacon
