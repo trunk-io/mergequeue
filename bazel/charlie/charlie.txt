@@ -4899,7 +4899,6 @@ carstone
 cart
 counterpoising
 chromatinic
-cartable
 cartaceous
 cartage
 cowherbs
@@ -25310,6 +25309,7 @@ corkscrewy
 choom
 corkwing
 corkwood
+cartable
 commissions
 cormac
 cormel
