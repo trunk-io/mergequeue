@@ -9601,6 +9601,7 @@ fempty
 forsworn
 falchion
 fastened
+fwelling
 fiador
 freeman
 felicify
@@ -11759,4 +11760,3 @@ fv
 flocculi
 feverbush
 fw
-fwelling
