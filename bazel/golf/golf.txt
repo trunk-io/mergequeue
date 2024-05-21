@@ -2597,7 +2597,6 @@ goshawks
 geneal
 girosol
 gemsbok
-genealogical
 gatha
 glycyls
 guttule
@@ -8516,6 +8515,7 @@ gradus
 globated
 geophagy
 grayish
+genealogical
 grazes
 grazierdom
 graziery
