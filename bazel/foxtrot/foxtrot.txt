@@ -2688,6 +2688,7 @@ ferrules
 fanman
 federalese
 fabric
+flinching
 freshes
 ferruminating
 ferrumination
@@ -5624,7 +5625,6 @@ frondous
 flinched
 flyblown
 flincher
-flinching
 flinders
 fibrine
 foliiform
