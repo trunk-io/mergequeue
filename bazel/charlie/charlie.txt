@@ -12661,6 +12661,7 @@ chronologies
 chronologist
 cercle
 chronologizing
+counterfeiting
 chronomancy
 chronomantic
 chronomastix
@@ -26860,7 +26861,6 @@ counterfaller
 counterfeisance
 counterfeit
 counterfeiter
-counterfeiting
 counterfeitly
 captaculum
 chittering
