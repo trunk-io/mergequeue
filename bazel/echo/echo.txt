@@ -519,7 +519,6 @@ emmets
 expy
 electronographic
 echinital
-echinite
 echinocaris
 entosthoblast
 echinocereus
@@ -12193,6 +12192,7 @@ eyelike
 excursionist
 englished
 excursiveness
+echinite
 excursus
 excursuses
 excurvated
