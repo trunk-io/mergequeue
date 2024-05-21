@@ -6447,6 +6447,7 @@ crankly
 caved
 canell
 cavefish
+collisional
 cavefishes
 cavey
 chromoscope
@@ -26363,7 +26364,6 @@ cosuretyship
 clings
 colymbiform
 caricatures
-collisional
 coswearer
 cot
 cotabulate
