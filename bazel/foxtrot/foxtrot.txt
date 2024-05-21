@@ -374,6 +374,7 @@ fearer
 filicauline
 filator
 faintness
+frs
 faints
 feltings
 flows
@@ -1892,7 +1893,6 @@ fourdrinier
 fundless
 filipendulous
 fremd
-frs
 feddan
 fedellini
 fishnets
