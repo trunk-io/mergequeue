@@ -6479,7 +6479,6 @@ animate
 agrionidae
 agriot
 agriotype
-agriotypidae
 agrypnia
 agrypnotic
 acajou
@@ -22676,6 +22675,7 @@ athrogenic
 algebraizing
 athrough
 athumia
+agriotypidae
 arrondissement
 athwart
 assuredly
