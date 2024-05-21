@@ -781,6 +781,7 @@ danegeld
 danegelds
 danelaw
 dungeon
+deaurate
 dermititis
 daneweed
 daneweeds
@@ -13973,7 +13974,6 @@ diphosphide
 distracter
 distractible
 dedicator
-deaurate
 distraction
 distractions
 distractive
