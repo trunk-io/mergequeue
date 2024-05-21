@@ -11552,7 +11552,6 @@ evince
 evincement
 endlessly
 evincible
-ectopterygoid
 epicoela
 ewing
 evincing
@@ -12601,6 +12600,7 @@ eating
 empt
 epistolet
 extinguishment
+ectopterygoid
 exobiologists
 exocardiac
 emendicate
