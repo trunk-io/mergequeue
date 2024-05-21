@@ -6465,7 +6465,6 @@ bakupari
 brevetcy
 benzaldehyde
 benzaldoxime
-bandeaus
 benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
@@ -14561,6 +14560,7 @@ branny
 branniness
 babas
 besmiles
+bandeaus
 branning
 broadleaves
 bransolder
