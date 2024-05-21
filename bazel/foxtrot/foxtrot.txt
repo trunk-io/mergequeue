@@ -5024,7 +5024,6 @@ fertilising
 fructus
 flareback
 foramens
-fadeless
 fengite
 ferments
 firnification
@@ -6972,6 +6971,7 @@ follis
 feeblemindedness
 foutra
 fatheads
+fadeless
 fendy
 follow
 foisting
