@@ -4070,7 +4070,6 @@ frondescing
 finmarks
 finnac
 finnan
-finned
 finner
 finny
 fiddledeedee
@@ -6332,6 +6331,7 @@ favela
 flummer
 flickerproof
 flintlocks
+finned
 funori
 fribblery
 fettling
