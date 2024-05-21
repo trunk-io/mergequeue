@@ -2907,7 +2907,6 @@ addaxes
 acromyotonia
 antiochene
 acromyotonus
-acromphalus
 acronic
 acronical
 acronically
@@ -11861,6 +11860,7 @@ anamnestic
 anamnestically
 anserinae
 anamniata
+acromphalus
 aplacophora
 anamnionata
 anamniota
