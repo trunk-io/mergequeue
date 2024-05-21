@@ -9735,7 +9735,6 @@ evildoers
 esoterize
 extensive
 esotropia
-esp
 espace
 eparchial
 espacement
@@ -13521,6 +13520,7 @@ exsiccatae
 exsiccating
 enterotoxin
 exsiccator
+esp
 embowment
 exsolving
 epochs

@@ -1773,7 +1773,6 @@ gastroenteroanastomosis
 gastroenterocolostomy
 gastroenterology
 gelatination
-gastightness
 gastroenterologic
 gandurah
 gastroepiploic
@@ -2457,6 +2456,7 @@ george
 gemeinschaften
 galbe
 grampa
+gastightness
 gemeled
 gemellione
 goldtail
