@@ -3057,7 +3057,6 @@ abdication
 adversive
 actinocarpic
 actinochemical
-actinochemistry
 actinocrinid
 alalunga
 antireligious
@@ -4754,6 +4753,7 @@ aeacus
 aechmophorus
 aecia
 aecidiaceae
+actinochemistry
 adumbrate
 agitates
 aecidial
