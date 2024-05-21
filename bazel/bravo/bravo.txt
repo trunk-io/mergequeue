@@ -2835,7 +2835,6 @@ blithefully
 barostat
 bruta
 blasphemers
-baroswitch
 barotaxy
 barotaxis
 bitis
@@ -13465,6 +13464,7 @@ bottlefuls
 bigential
 bednights
 bottommost
+baroswitch
 bottlemaker
 bottleman
 bottleneck
