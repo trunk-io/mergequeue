@@ -2302,7 +2302,6 @@ announcement
 achroodextrinase
 achroous
 achtehalber
-amounts
 athetized
 achtelthaler
 achuete
@@ -21529,6 +21528,7 @@ actinula
 arrowroot
 asphodel
 asphodelaceae
+amounts
 aspy
 aspics
 aspiculate
