@@ -14535,6 +14535,7 @@ commonsensical
 cirmcumferential
 concord
 cirque
+cur
 cirques
 carromata
 cirrate
@@ -31187,7 +31188,6 @@ cupuliferae
 chickenhood
 coque
 cupuliferous
-cur
 cura
 curability
 claudius
