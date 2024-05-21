@@ -1754,7 +1754,6 @@ gastrocolotomy
 gastrodermal
 gastrodermis
 gnotobiote
-goosemouth
 gravemaking
 gastroduodenitis
 gametophagia
@@ -3104,6 +3103,7 @@ gyrally
 garboil
 geomantically
 grammatical
+goosemouth
 geometers
 geometricism
 gyrostatically
