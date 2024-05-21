@@ -4819,7 +4819,6 @@ carriage
 carriageable
 carriageful
 carriages
-carriagesmith
 cinchonicin
 carriageway
 carryall
@@ -20116,6 +20115,7 @@ crouke
 composers
 cincturing
 commilitant
+carriagesmith
 consension
 comminated
 commination
