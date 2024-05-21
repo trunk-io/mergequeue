@@ -2835,7 +2835,6 @@ blithefully
 barostat
 bruta
 blasphemers
-baroswitch
 barotaxy
 barotaxis
 bitis
@@ -4318,6 +4317,7 @@ boudoir
 beaucoup
 beaued
 bleedings
+baroswitch
 balzacian
 broker
 brl
