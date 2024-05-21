@@ -21342,7 +21342,6 @@ asyzygetic
 ask
 allophone
 askable
-askant
 askapart
 antonymous
 askari
@@ -22825,6 +22824,7 @@ aortoclasis
 atonable
 atonalism
 atonalist
+askant
 atonalistic
 atonally
 atone
