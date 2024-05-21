@@ -17781,6 +17781,7 @@ appestats
 appet
 appete
 appetence
+automatin
 appetent
 appetibility
 appetibleness
@@ -24201,7 +24202,6 @@ aphetism
 automatic
 automatically
 automaticity
-automatin
 autunite
 autocoids
 antepatriarchal
