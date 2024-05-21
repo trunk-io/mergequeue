@@ -2386,6 +2386,7 @@ feodum
 filander
 farewelled
 feoff
+frakturs
 fumarolic
 foreimagine
 fconvert
@@ -7133,7 +7134,6 @@ famelessness
 footballist
 familarity
 footballs
-frakturs
 footblower
 footboard
 footboards
