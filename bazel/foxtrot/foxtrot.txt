@@ -8517,7 +8517,6 @@ figs
 fortification
 formulated
 formulating
-forgainst
 formulations
 fletch
 formulator
@@ -8855,6 +8854,7 @@ fostered
 fosterer
 foggara
 footstone
+forgainst
 flerry
 foist
 fels
