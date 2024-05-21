@@ -6865,7 +6865,6 @@ adipsous
 aircraftwoman
 ahint
 aircrew
-aircrewman
 aircrewmen
 aortae
 aerophone
@@ -7179,6 +7178,7 @@ akimbo
 akin
 akindle
 akinesic
+aircrewman
 acetarious
 akinesis
 akinete
