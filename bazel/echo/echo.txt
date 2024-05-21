@@ -2412,7 +2412,6 @@ electrogenetic
 equivalence
 enharbor
 electrogenic
-electrogild
 electrogilt
 ejecting
 electrogram
@@ -11454,6 +11453,7 @@ eventuated
 eventuating
 evenwise
 ebriate
+electrogild
 eveque
 epergnes
 epeirogeny
