@@ -11509,7 +11509,6 @@ blintze
 bluewoods
 berapt
 bluff
-bluffable
 baraca
 brunette
 backwinding
@@ -16845,6 +16844,7 @@ benzoxycamphor
 buffoonesque
 bathysophic
 buffoonish
+bluffable
 bungle
 buffoonishness
 bedead
