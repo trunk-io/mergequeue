@@ -3990,7 +3990,6 @@ forfeited
 fingerprint
 fingerprints
 fountained
-fingerroot
 fluorosis
 forleft
 fistulas
@@ -7858,6 +7857,7 @@ flyingly
 flits
 forepointer
 foursomes
+fingerroot
 flagellating
 fardels
 forepossessed
