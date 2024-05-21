@@ -3715,7 +3715,6 @@ filleted
 filletster
 frail
 filly
-feodal
 fillies
 firedogs
 foalfoot
@@ -7162,6 +7161,7 @@ ferruling
 festive
 footfalls
 footfarer
+feodal
 falsework
 footfault
 flyways
