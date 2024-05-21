@@ -4943,6 +4943,7 @@ cartmaker
 clicket
 cartmaking
 cartobibliography
+columbia
 cartogram
 criniger
 cartographers
@@ -31938,7 +31939,6 @@ czech
 czechic
 czechish
 czechization
-columbia
 czechoslovak
 curricularization
 czechoslovakian
