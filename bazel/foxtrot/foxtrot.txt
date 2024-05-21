@@ -1695,6 +1695,7 @@ forearming
 fadeaways
 firebreaks
 feaster
+furniture
 fearedness
 ferri
 fluidizes
@@ -11430,7 +11431,6 @@ felup
 flatterous
 furnishness
 felspars
-furniture
 furodiazole
 foraminated
 flattering
