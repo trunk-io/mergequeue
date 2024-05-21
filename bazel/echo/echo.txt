@@ -4790,7 +4790,6 @@ eskars
 encored
 encores
 excitive
-encoronal
 equivocality
 ectoparasitic
 exorcisory
@@ -12108,6 +12107,7 @@ enforcible
 elutriator
 excorticate
 eavesdropper
+encoronal
 extinguishable
 excortication
 excremental
