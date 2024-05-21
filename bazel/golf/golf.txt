@@ -5974,7 +5974,6 @@ glucokinin
 gravimetric
 glucolipid
 glucolipin
-glaizie
 gamogony
 genuses
 gyle
@@ -6352,6 +6351,7 @@ gaugers
 ghostiest
 genitourinary
 galvanometry
+glaizie
 gobble
 gobbled
 gobbledygook
