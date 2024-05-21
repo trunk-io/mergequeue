@@ -4751,6 +4751,7 @@ flageolets
 fencelet
 flagfishes
 flagged
+forepromise
 flaggelate
 forbiddenness
 figurately
@@ -7869,7 +7870,6 @@ forepretended
 frightfully
 firestorm
 foreprize
-forepromise
 foreprovision
 forepurpose
 fibrochondritis
