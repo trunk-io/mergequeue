@@ -5562,7 +5562,6 @@ groovy
 groundskeep
 glisk
 glisky
-gluily
 glissader
 gadean
 glissades
@@ -8103,6 +8102,7 @@ granulosis
 gumlah
 granulous
 geotaxy
+gluily
 gammarid
 grossness
 guaiaretic
