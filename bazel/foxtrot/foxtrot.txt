@@ -6443,7 +6443,6 @@ fluorindin
 frippet
 forepoling
 fluorobenzene
-fluoroborate
 foreship
 fluoroform
 ferritin
@@ -9609,6 +9608,7 @@ foveate
 frecket
 familia
 fermenter
+fluoroborate
 freckle
 famble
 fenagle
