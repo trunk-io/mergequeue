@@ -3487,7 +3487,6 @@ deflowerment
 defluent
 dragoon
 danielic
-deregister
 denazified
 debyes
 documentor
@@ -10668,6 +10667,7 @@ diplostemonous
 diplostichous
 diplotaxis
 diplotegia
+deregister
 diplozoon
 diplumbic
 decerebrating
