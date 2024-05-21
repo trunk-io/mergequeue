@@ -12379,6 +12379,7 @@ begroaning
 bombes
 bombesins
 beeregar
+buttressless
 bombiccite
 bombycid
 bombycids
@@ -18339,7 +18340,6 @@ buttress
 buttressed
 breviped
 buttressing
-buttressless
 bookstack
 buttresslike
 butts
