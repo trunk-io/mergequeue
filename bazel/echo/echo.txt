@@ -39,7 +39,6 @@ earache
 enumerated
 emigrational
 equiangularity
-earbash
 esperance
 earcockle
 eardropper
@@ -2909,6 +2908,7 @@ elflock
 entelodon
 elflocks
 endermic
+earbash
 elfship
 expressless
 elfwife
