@@ -12664,7 +12664,6 @@ chronomantic
 chronomastix
 chronometer
 citolers
-chronometers
 corin
 chronometric
 chronometrical
@@ -31733,6 +31732,7 @@ controvertist
 copresent
 chimlas
 customing
+chronometers
 customizable
 cotery
 customization
