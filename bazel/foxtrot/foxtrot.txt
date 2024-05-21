@@ -4392,7 +4392,6 @@ fub
 fishman
 folic
 fishmonger
-fraternizer
 ferociousness
 fluorapatite
 fishmouth
@@ -7188,6 +7187,7 @@ footie
 footier
 footingly
 footings
+fraternizer
 flection
 fellic
 footled
