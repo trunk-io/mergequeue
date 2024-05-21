@@ -4596,7 +4596,6 @@ demies
 dosimetric
 demifarthing
 demifigure
-demigardebras
 disinflated
 demigauntlet
 demigentleman
@@ -9298,6 +9297,7 @@ dietetic
 dysodontiasis
 dietetical
 displode
+demigardebras
 dethroner
 dietetics
 diethyl
