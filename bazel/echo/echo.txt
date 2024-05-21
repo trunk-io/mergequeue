@@ -2284,7 +2284,6 @@ electroballistics
 electrobath
 electrobiological
 enjeopardy
-epicenity
 eremitic
 excuderunt
 epistroma
@@ -13934,6 +13933,7 @@ enduement
 embryogenic
 electrolytical
 evaporable
+epicenity
 extraovate
 epistomata
 entoire
