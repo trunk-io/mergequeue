@@ -3819,6 +3819,7 @@ battlewagon
 belemnid
 blast
 battleward
+breakthroughs
 bronchiectasis
 behatted
 bliest
@@ -14847,7 +14848,6 @@ broncholithiasis
 besselian
 breakstone
 breakthrough
-breakthroughs
 barchan
 breakwater
 breakweather
