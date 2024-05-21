@@ -1163,7 +1163,6 @@ dogtrot
 dreggish
 datableness
 datably
-datacell
 datafile
 dataflow
 datagram
@@ -8966,6 +8965,7 @@ dail
 dusterman
 dichroism
 dihydride
+datacell
 dated
 dichroite
 dichroitic
