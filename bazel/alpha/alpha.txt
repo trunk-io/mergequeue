@@ -15371,7 +15371,6 @@ antihelixes
 antihelminthic
 antihemagglutinin
 antihemisphere
-antihemolysin
 antihemorrhagic
 antihemorrheidal
 antihero
@@ -17141,6 +17140,7 @@ automobility
 apocalyptical
 apocalyptically
 antiascetic
+antihemolysin
 auslander
 astrobiologists
 apocalypticism
