@@ -641,7 +641,6 @@ bacteriology
 breadnut
 bacteriologic
 bacteriologist
-bacteriologists
 bacteriopathology
 burnoose
 bacteriophages
@@ -14283,6 +14282,7 @@ bragite
 blimps
 bird
 birefringent
+bacteriologists
 bragless
 banners
 bellowed
