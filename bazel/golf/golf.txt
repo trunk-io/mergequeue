@@ -10155,7 +10155,6 @@ gloried
 guyandot
 guidable
 guardianly
-guidance
 git
 grown
 glaived
@@ -10616,6 +10615,7 @@ gyascutus
 gyrostachys
 glens
 giganticness
+guidance
 guntub
 grithman
 gunwale
