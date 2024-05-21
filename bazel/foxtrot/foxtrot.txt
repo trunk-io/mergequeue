@@ -3561,7 +3561,6 @@ filamentoid
 fuzztail
 filaments
 formularise
-filamentule
 filander
 filao
 foundering
@@ -8894,6 +8893,7 @@ fredaine
 fouettee
 fouettes
 flambage
+filamentule
 flunkies
 foreshadower
 figgery
