@@ -9092,7 +9092,6 @@ charityless
 charivaried
 charka
 cloaks
-charkhana
 corabeca
 comus
 charking
@@ -16439,6 +16438,7 @@ clivis
 clivises
 clivus
 clk
+charkhana
 clo
 cloaca
 cloacae
