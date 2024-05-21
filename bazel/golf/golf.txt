@@ -4199,7 +4199,6 @@ galaxiidae
 gymnasiarchy
 gymnasiast
 gunrunner
-gymnasic
 gonif
 generability
 glamours
@@ -10249,6 +10248,7 @@ gorhen
 gorbellies
 gastroptosis
 guiltsick
+gymnasic
 guimbard
 guimpe
 guinde
