@@ -4587,7 +4587,6 @@ agamobia
 amniorrhea
 advectitious
 advective
-advects
 advena
 adventist
 asperness
@@ -14134,6 +14133,7 @@ antegarden
 acrosarcum
 asbestiform
 antedates
+advects
 antedating
 antediluvial
 astur

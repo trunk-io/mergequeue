@@ -2240,7 +2240,6 @@ entreater
 equidistantial
 electriferous
 energumen
-electrified
 esthetophore
 equally
 enbaissing
@@ -13714,6 +13713,7 @@ extinctor
 escobedo
 ententophil
 extinguish
+electrified
 electrobiologist
 epifolliculitis
 erotica
