@@ -4298,7 +4298,6 @@ adjag
 appleberry
 armorers
 adoptative
-abruptiones
 amalgamable
 adopted
 archmock
@@ -21092,6 +21091,7 @@ aclydes
 ascorbate
 ascorbic
 ascospore
+abruptiones
 ascosporic
 ascosporous
 arkoses
