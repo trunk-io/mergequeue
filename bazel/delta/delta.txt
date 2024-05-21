@@ -2920,7 +2920,6 @@ diageotropism
 dortiness
 deerlike
 decurion
-deus
 dactylic
 demented
 decurions
@@ -7021,6 +7020,7 @@ deface
 desponded
 despondence
 despondency
+deus
 despondencies
 despondentness
 desponder
