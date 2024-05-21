@@ -5005,7 +5005,6 @@ flapperdom
 framableness
 flappers
 flappet
-furil
 flapping
 folders
 flumps
@@ -7079,6 +7078,7 @@ footful
 foiled
 foolhardiness
 foolhardiship
+furil
 fitfulness
 firehalls
 floodwater

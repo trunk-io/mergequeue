@@ -807,7 +807,6 @@ disannex
 dangles
 dopesters
 dalaga
-danglin
 dangling
 droschken
 directivity
@@ -16665,6 +16664,7 @@ dragster
 dragsters
 demisovereign
 donatory
+danglin
 doctoress
 drayage
 drayed
