@@ -1874,6 +1874,7 @@ bandelet
 bandelette
 bandeng
 banderlog
+bevilled
 banderma
 banderol
 banderole
@@ -7686,7 +7687,6 @@ bigeye
 bashaws
 bituminised
 bidarkees
-bevilled
 butterbill
 bevined
 bernicle
