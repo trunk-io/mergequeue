@@ -10478,6 +10478,7 @@ diphthongally
 denom
 devall
 dimyarian
+dirgelike
 diphthongation
 dendrodra
 diphthongic
@@ -10837,7 +10838,6 @@ decanormal
 direx
 dirge
 dirged
-dirgelike
 dirgeman
 dirgy
 dirgie
