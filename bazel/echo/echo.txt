@@ -6514,7 +6514,6 @@ entelam
 entelechies
 entender
 edgewise
-entendre
 enchant
 entendres
 essayish
@@ -11991,6 +11990,7 @@ edaphic
 excystation
 excystment
 encinal
+entendre
 embryonal
 exhibitant
 excitability
