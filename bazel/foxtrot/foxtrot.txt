@@ -4906,6 +4906,7 @@ forehood
 flameout
 flatten
 fourflushers
+forestick
 flameouts
 formulize
 flameproofer
@@ -9811,7 +9812,6 @@ freakful
 frenchly
 frenchman
 floatable
-forestick
 flycaster
 fevery
 filace
