@@ -1883,7 +1883,6 @@ gynandrarchic
 gastrostenosis
 gastrostomy
 gastrostomies
-gonimolobe
 guipures
 gastrotome
 gastrotomic
@@ -10514,6 +10513,7 @@ gouged
 galenist
 glavered
 gunge
+gonimolobe
 gregge
 germinability
 gunj
