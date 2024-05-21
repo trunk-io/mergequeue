@@ -1571,7 +1571,6 @@ accompanier
 australorp
 aguinaldo
 accompanies
-accompanying
 anomalopteryx
 accompanyist
 aphasiac
@@ -13895,6 +13894,7 @@ anorthophyre
 anorthopia
 anorthoscope
 anorthose
+accompanying
 aguilawood
 anorthosite
 anoscope
