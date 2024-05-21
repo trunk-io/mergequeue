@@ -14119,7 +14119,6 @@ antecornu
 antecourt
 antecoxal
 antecubital
-antecurvature
 anted
 antifungin
 antegarden
@@ -25081,6 +25080,7 @@ axemen
 axenic
 axenically
 annual
+antecurvature
 afteroar
 appalachia
 aerodromics
