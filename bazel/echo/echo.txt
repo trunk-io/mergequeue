@@ -2636,7 +2636,6 @@ enfirm
 epididymovasostomy
 elaeocarpaceous
 eleutherodactyli
-electrosurgical
 electrosurgically
 electrotactic
 eyra
@@ -11434,6 +11433,7 @@ eventime
 entosternite
 eventlessly
 ergamine
+electrosurgical
 estival
 exemplifiers
 eventognathi
