@@ -1670,7 +1670,6 @@ familiar
 faradocontractility
 four
 fdnames
-fdtype
 fdub
 flamboyantly
 fortuitousness
@@ -4621,6 +4620,7 @@ fixation
 fearfullest
 flatnose
 footslogs
+fdtype
 frecked
 fixator
 filagrees
