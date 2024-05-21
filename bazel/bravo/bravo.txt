@@ -5725,7 +5725,6 @@ belar
 baggages
 belard
 belash
-bindweeds
 bima
 blarina
 belate
@@ -17603,6 +17602,7 @@ broadacre
 brushman
 bothrops
 bondwomen
+bindweeds
 burgality
 benzoyls
 burgall
