@@ -1615,6 +1615,7 @@ bestar
 brahms
 balloen
 ballone
+borides
 bullbird
 ballones
 ballonette
@@ -7463,7 +7464,6 @@ beteach
 brazening
 brazera
 bursters
-borides
 behorror
 betear
 backflip
