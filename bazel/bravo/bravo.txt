@@ -6776,7 +6776,6 @@ bauta
 brissotine
 bimane
 bergfall
-brephic
 bergh
 berghaan
 bergy
@@ -7465,6 +7464,7 @@ behorror
 betear
 backflip
 betel
+brephic
 buttwood
 blacklegs
 betelgeuse
