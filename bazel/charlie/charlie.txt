@@ -11325,6 +11325,7 @@ chloriodide
 counterion
 chlorite
 chloritic
+continuities
 chloritization
 chloritize
 culicid
@@ -23594,7 +23595,6 @@ continuing
 continuingly
 crudelity
 continuity
-continuities
 choeropsis
 cribbages
 cassiaceae
