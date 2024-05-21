@@ -80,7 +80,6 @@ earmarking
 earmarkings
 epithelioblastoma
 equitation
-exteroceptive
 ethic
 earmuff
 earnable
@@ -13072,6 +13071,7 @@ experimentalism
 educationally
 ejuration
 eternality
+exteroceptive
 experimentative
 experimented
 experimenter
