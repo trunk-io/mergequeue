@@ -4881,7 +4881,6 @@ bumblefoot
 bedsore
 believableness
 branchia
-bedsores
 breekless
 bedspreads
 bedspring
@@ -9620,6 +9619,7 @@ birrs
 birrus
 birses
 birsy
+bedsores
 birsit
 byrsonima
 barracks
