@@ -4487,7 +4487,6 @@ gynic
 goasila
 gink
 geometdecrne
-gloss
 grides
 graplines
 ginks
@@ -5993,6 +5992,7 @@ grenatite
 glucosazone
 gliss
 goldfinch
+gloss
 gawney
 gipsyweed
 glucoses

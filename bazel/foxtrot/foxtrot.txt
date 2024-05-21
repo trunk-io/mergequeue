@@ -1235,7 +1235,6 @@ fash
 fashery
 fasherie
 fusilier
-footwork
 fashing
 fiddley
 forediscern
@@ -6813,6 +6812,7 @@ farmings
 forethink
 foldboating
 foldcourse
+footwork
 festin
 flaccidity
 faithfuls
