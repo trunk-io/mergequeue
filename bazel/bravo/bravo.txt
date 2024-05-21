@@ -9380,7 +9380,6 @@ berrying
 bipinnariae
 batussi
 bipinnarias
-bipinnate
 bipinnated
 bipinnatipartite
 bipinnatisect
@@ -13761,6 +13760,7 @@ bouts
 bouvardia
 bouviers
 bouw
+bipinnate
 butle
 bouzoukia
 bouzoukis
