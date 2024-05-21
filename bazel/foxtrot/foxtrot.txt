@@ -6284,6 +6284,7 @@ fluidist
 fluidity
 fluidization
 fluidized
+freemanship
 followup
 fluidmeter
 fairylands
@@ -9696,7 +9697,6 @@ freelance
 fornax
 freeload
 freeloaded
-freemanship
 freemartin
 freemason
 freemasonic
