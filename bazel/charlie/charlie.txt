@@ -12475,7 +12475,6 @@ chromicizing
 chromid
 confocally
 chromidae
-chromide
 chromides
 chromididae
 chromidiosome
@@ -18250,6 +18249,7 @@ coquinas
 classico
 coffeepot
 coffeepots
+chromide
 coffeeroom
 coffees
 counterview

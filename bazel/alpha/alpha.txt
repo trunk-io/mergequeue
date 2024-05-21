@@ -273,7 +273,6 @@ abduce
 abducens
 abducentes
 abduces
-articulate
 abducted
 abducting
 abductions
@@ -16511,6 +16510,7 @@ antres
 autocollimation
 antrocele
 antrophose
+articulate
 angleworm
 antrorse
 antrorsely
