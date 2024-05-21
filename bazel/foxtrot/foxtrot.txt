@@ -265,7 +265,6 @@ foxtrot
 foetors
 fadeout
 fader
-faders
 fadge
 furfuramide
 fellowless
@@ -790,6 +789,7 @@ fanging
 fanglet
 fishbones
 fanglike
+faders
 fanglomerate
 frizado
 fesswise
