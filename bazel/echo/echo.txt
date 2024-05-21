@@ -4761,7 +4761,6 @@ encolden
 encollar
 euryalean
 equitangential
-encolour
 encolpia
 encolpion
 encolure
@@ -12847,6 +12846,7 @@ exoticism
 exoticist
 exoticness
 ensconcing
+encolour
 exotics
 exotoxic
 enlarger
