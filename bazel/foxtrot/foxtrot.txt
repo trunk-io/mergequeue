@@ -2200,7 +2200,6 @@ flogging
 folkmoot
 flatfooting
 felonwort
-feriae
 fraela
 flatterdock
 felsites
@@ -3940,6 +3939,7 @@ flabrum
 forfeiture
 fluoresces
 fatalities
+feriae
 featuring
 finesser
 feedbacks

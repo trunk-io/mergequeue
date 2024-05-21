@@ -2833,6 +2833,7 @@ dactylioglyphy
 decrementing
 decrements
 decremeter
+demonstrandum
 decrepid
 decrepit
 demarches
@@ -4977,7 +4978,6 @@ demonstrable
 destructing
 drays
 demonstrably
-demonstrandum
 demonstrate
 demonstrated
 demonstratedly
