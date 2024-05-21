@@ -11419,6 +11419,7 @@ furnaces
 furnariidae
 fleeciest
 furnariides
+fixable
 flect
 fess
 floralize
@@ -11636,7 +11637,6 @@ forearmed
 fustians
 fustics
 fustigated
-fixable
 frolicsomely
 fibrous
 ficoes
