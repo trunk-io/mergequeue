@@ -11412,7 +11412,6 @@ exigency
 edeotomy
 evenhead
 evenly
-evenlong
 exotropic
 electrodesiccation
 evenmete
@@ -12797,6 +12796,7 @@ exosmosis
 empty
 exosmotic
 esquamate
+evenlong
 ecchymoses
 expatiater
 excrementitial
