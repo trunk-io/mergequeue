@@ -5546,6 +5546,7 @@ flicked
 finale
 flicker
 flickered
+fortifications
 flickermouse
 flowery
 flossa
@@ -9689,7 +9690,6 @@ fallenness
 feuage
 freeholders
 freeholdership
-fortifications
 flueman
 fanwe
 fluviograph
