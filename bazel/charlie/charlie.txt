@@ -9429,6 +9429,7 @@ chauve
 consulating
 chauvin
 chauvinism
+conjunction
 chauvinist
 chauvinistic
 cumbrance
@@ -21124,7 +21125,6 @@ cyclist
 concaves
 concaving
 concavity
-conjunction
 concavities
 concavo
 conceal
