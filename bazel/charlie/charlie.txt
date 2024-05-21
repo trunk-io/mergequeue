@@ -12919,6 +12919,7 @@ churchman
 cookers
 churchmanly
 churchmen
+czarism
 churchreeve
 contramure
 churchscot
@@ -13477,7 +13478,6 @@ cyclostyle
 cyclostoma
 cyclostomate
 capon
-czarism
 cyclostomatidae
 charadriidae
 coremia
