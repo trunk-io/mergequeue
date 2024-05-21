@@ -7394,6 +7394,7 @@ cephalochordata
 cephalochordate
 cucujidae
 cephaloclast
+cistophoric
 cephalocone
 celestial
 cephaloconic
@@ -25742,7 +25743,6 @@ cytolysis
 correllations
 corrente
 correo
-cistophoric
 correption
 corresol
 circumrotating
