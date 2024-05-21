@@ -10773,6 +10773,7 @@ dire
 direcly
 directable
 directdiscourse
+deportable
 directed
 diastereoisomeric
 dulanganes
@@ -13188,7 +13189,6 @@ displosion
 drosses
 dronte
 displumes
-deportable
 deuterofibrinose
 deuterocone
 dyspnea
