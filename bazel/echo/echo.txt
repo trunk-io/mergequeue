@@ -4299,6 +4299,7 @@ enablement
 exothermic
 emboldens
 electrohorticulture
+evaporativity
 entangle
 epiglottides
 echiniform
@@ -7429,7 +7430,6 @@ ecphorize
 exhibitor
 elbowbush
 ephidrosis
-evaporativity
 ephas
 ephebea
 enrols
