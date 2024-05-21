@@ -3565,7 +3565,6 @@ gutweed
 gestural
 gallimaufries
 gangwaymen
-gestureless
 gesturers
 glassy
 grosbeak
@@ -10021,6 +10020,7 @@ gudewife
 gaffer
 gudgeon
 graybeard
+gestureless
 gudgeons
 gowned
 gudget
