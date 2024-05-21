@@ -3582,7 +3582,6 @@ flareboard
 filatures
 fulgence
 forebowline
-francs
 filberts
 filched
 francophobe
@@ -10959,6 +10958,7 @@ fulmined
 fadridden
 fayumic
 fliest
+francs
 fulmines
 frogeye
 fulminurate
