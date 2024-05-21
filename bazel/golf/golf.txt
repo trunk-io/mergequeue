@@ -6523,7 +6523,6 @@ goldbeater
 goburra
 goldbeating
 glucidic
-gregorian
 gallivanted
 gouger
 goldbird
@@ -8806,6 +8805,7 @@ greylag
 greylags
 gesten
 gyte
+gregorian
 girouettism
 grillades
 groomlet
