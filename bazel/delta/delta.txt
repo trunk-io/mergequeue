@@ -7437,7 +7437,6 @@ detrainment
 detraque
 deathsmen
 detrect
-detrench
 domajig
 detribalize
 dismoded
@@ -8948,6 +8947,7 @@ dichotomise
 dimethoxymethane
 dichotomization
 distilery
+detrench
 dichotomize
 dichotomized
 dichotomousness
