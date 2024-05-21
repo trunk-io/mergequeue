@@ -3785,7 +3785,6 @@ gasterothecal
 glace
 glinse
 gladiate
-getatable
 goldfield
 gluttonising
 geek
@@ -7326,6 +7325,7 @@ glowworms
 gossipries
 gossips
 gigmaness
+getatable
 groupist
 gestor
 galactometry
