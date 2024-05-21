@@ -6703,6 +6703,7 @@ celeb
 clition
 celebesian
 celebrant
+concurrence
 celebrants
 celebrate
 celebratedly
@@ -9619,7 +9620,6 @@ checkweighmen
 checkwork
 cosmologist
 checkwriter
-concurrence
 cheddar
 commentating
 colourlessness
