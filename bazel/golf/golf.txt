@@ -112,7 +112,6 @@ goodnaturedness
 gernative
 glaive
 geranial
-gadgetry
 gadgetries
 generals
 gaditan
@@ -4924,6 +4923,7 @@ graspable
 graftdom
 glaciable
 gatelike
+gadgetry
 gunless
 globalized
 gelatinousness
