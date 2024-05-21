@@ -1577,7 +1577,6 @@ accompanyist
 aphasiac
 accompanimental
 accompaniments
-accompanist
 accomplement
 accompli
 allanitic
@@ -9220,6 +9219,7 @@ almuces
 almud
 amides
 almude
+accompanist
 ambroids
 advocaat
 arriviste
