@@ -5205,7 +5205,6 @@ emprizes
 esphresis
 endopoditic
 euphonium
-endopods
 endopolyploidy
 epistolarily
 endoprocta
@@ -14173,6 +14172,7 @@ exulcerating
 established
 evocation
 exulding
+endopods
 exultant
 entone
 exultantly
