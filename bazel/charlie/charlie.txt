@@ -17098,7 +17098,6 @@ cohesive
 coadjacent
 coadjudicator
 coadjument
-coadjustment
 coadjutant
 coadjutator
 campement
@@ -28464,6 +28463,7 @@ counterretreat
 consistory
 creasol
 creasot
+coadjustment
 coffeebush
 cognizability
 crosier
