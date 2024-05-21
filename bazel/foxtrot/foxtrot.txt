@@ -4167,7 +4167,6 @@ firebugs
 flagstones
 fireburn
 fibrocaseous
-featherwork
 fadedness
 federals
 ferfathmur
@@ -9913,6 +9912,7 @@ fricandel
 frett
 frettage
 fulcral
+featherwork
 frettation
 fiducial
 frette
