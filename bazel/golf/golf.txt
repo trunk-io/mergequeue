@@ -7179,7 +7179,6 @@ gorgonlike
 groggily
 gypsyry
 ganglionary
-gorgonzola
 gorgosaurus
 gerbilles
 gromatics
@@ -9694,6 +9693,7 @@ greyhounds
 guards
 grumly
 geniohyoid
+gorgonzola
 gemmule
 glossaries
 guying
