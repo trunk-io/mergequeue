@@ -2981,6 +2981,7 @@ barring
 barringer
 barrios
 boulevard
+ballaton
 barrister
 bails
 botts
@@ -9713,7 +9714,6 @@ biscutate
 bisdiapason
 baldricwise
 babbitter
-ballaton
 bisdimethylamino
 bicapsular
 bisect
