@@ -2032,6 +2032,7 @@ fegs
 fullam
 feh
 fingerfish
+fernticle
 frutices
 feigher
 fannell
@@ -2550,7 +2551,6 @@ flustrum
 fernshaw
 forlorner
 foolhardihood
-fernticle
 fordo
 fernwort
 ferocious
