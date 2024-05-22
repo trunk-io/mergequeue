@@ -4784,7 +4784,6 @@ gonoblastic
 glossoplasty
 girrit
 grizard
-gloy
 glyph
 galchic
 groovelike
@@ -6342,6 +6341,7 @@ goave
 greats
 gregorianizer
 gob
+gloy
 goban
 glycemic
 gobbed
