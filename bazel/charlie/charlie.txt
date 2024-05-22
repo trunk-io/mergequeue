@@ -3936,7 +3936,6 @@ carcajous
 carcake
 carcanet
 codger
-carcanets
 carcanetted
 carcases
 crueler
@@ -13114,6 +13113,7 @@ cyanopathy
 cyanophyceae
 cyanophycean
 ceste
+carcanets
 cyanophyceous
 crunchingness
 curcumas
