@@ -5849,6 +5849,7 @@ bavardage
 bell
 bonos
 bellacoola
+broguer
 belladonna
 biltongs
 bellatrix
@@ -15723,7 +15724,6 @@ bonnne
 broggerite
 brogue
 basiparachromatin
-broguer
 baldachined
 blessedly
 brogueries
