@@ -13221,7 +13221,6 @@ animaters
 atm
 angekok
 animating
-amphibolic
 animatingly
 animation
 amoks
@@ -20976,6 +20975,7 @@ ascelli
 ascellus
 ascend
 ascendable
+amphibolic
 antirust
 antiphagocytic
 ascendance
