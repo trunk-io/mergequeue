@@ -19155,7 +19155,6 @@ archoplasma
 archoplasmic
 archorrhagia
 archorrhea
-antipersonnel
 archostegnosis
 archostenosis
 archoverseer
@@ -20528,6 +20527,7 @@ arteriograph
 adenectopia
 arteriographic
 alacreatine
+antipersonnel
 arteriolith
 arterioloscleroses
 anoxybiosis
