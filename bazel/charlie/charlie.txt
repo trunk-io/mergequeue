@@ -6729,7 +6729,6 @@ celestialness
 celestify
 celestina
 claptrap
-celestinian
 celestite
 celestitude
 clivias
@@ -27607,6 +27606,7 @@ covine
 censes
 coving
 covinous
+celestinian
 covisit
 curlyheads
 charioteership
