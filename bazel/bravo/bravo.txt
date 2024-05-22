@@ -2054,7 +2054,6 @@ banjorine
 banjuke
 buntings
 boardman
-bank
 barat
 bankalachi
 bobsleds
@@ -17214,6 +17213,7 @@ belibeling
 bemirror
 bushpig
 bullpup
+bank
 bullragged
 bullragging
 bullrings
