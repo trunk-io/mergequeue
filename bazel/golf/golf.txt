@@ -6855,6 +6855,7 @@ gotch
 gigglish
 gonococcocci
 gonocoele
+graycoat
 gonof
 greyer
 gallature
@@ -7719,7 +7720,6 @@ graveyard
 graybacks
 gallanted
 glassless
-graycoat
 grayest
 grayfishes
 gasbag
