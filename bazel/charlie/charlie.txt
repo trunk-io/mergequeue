@@ -27709,7 +27709,6 @@ cowleeching
 cowling
 cowlings
 cowlitz
-cowlstaff
 caramoussal
 cuppy
 cowman
@@ -30043,6 +30042,7 @@ crowd
 columbo
 chilomata
 carnivores
+cowlstaff
 crowdedly
 circumambiencies
 chordoid
