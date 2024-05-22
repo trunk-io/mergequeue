@@ -10415,7 +10415,6 @@ arendator
 amesaces
 actualizes
 amesite
-abamp
 amess
 ametabola
 ametabolia
@@ -14599,6 +14598,7 @@ anthropometer
 anthropometry
 anthropometric
 antinucleon
+abamp
 acrocarpi
 allan
 anthropometrist
