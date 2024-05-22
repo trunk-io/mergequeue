@@ -6359,6 +6359,7 @@ eyemark
 ethmoids
 ensient
 ensiform
+equilocation
 ensign
 electroplaque
 entranceway
@@ -12826,7 +12827,6 @@ energised
 embossmen
 ephesine
 elinguated
-equilocation
 edgeways
 expansive
 exotheca
