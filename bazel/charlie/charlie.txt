@@ -11639,7 +11639,6 @@ cholecystocolostomy
 cognisability
 crazies
 colonialization
-cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystojejunostomy
@@ -29861,6 +29860,7 @@ confutative
 crosscutting
 crosse
 crossed
+cholecystogastrostomy
 crosser
 crossers
 crosses
