@@ -13138,7 +13138,6 @@ elishah
 expirers
 expires
 euploidies
-expiry
 expiries
 expiring
 expiringly
@@ -14100,6 +14099,7 @@ extricated
 enjoyer
 elvish
 exorcize
+expiry
 extrinsic
 elegantly
 extrinsicality
