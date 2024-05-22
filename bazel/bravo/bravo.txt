@@ -1317,6 +1317,7 @@ bedbug
 bacterioprecipitin
 buffers
 balanorrhagia
+bandit
 balanta
 bescorn
 bottine
@@ -1913,7 +1914,6 @@ belay
 banding
 banjoist
 biostatics
-bandit
 branle
 belauder
 bandits
