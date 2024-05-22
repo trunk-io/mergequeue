@@ -1512,6 +1512,7 @@ callisaurus
 callisteia
 callistephus
 callisthenic
+cossid
 cric
 cenotaphic
 chemostat
@@ -26260,7 +26261,6 @@ cleanliness
 cossetting
 cosshen
 cossic
-cossid
 cossidae
 cossie
 cossyrite
