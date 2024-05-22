@@ -1845,7 +1845,6 @@ foreparents
 fussle
 figless
 feazed
-feazes
 febricant
 fanaticize
 febricitant
@@ -3060,6 +3059,7 @@ floorshift
 fy
 fiacres
 fetichry
+feazes
 firelit
 fiance
 fiancees
