@@ -6784,7 +6784,6 @@ formalism
 foresworn
 foiter
 fokker
-fissate
 fol
 folacin
 falderols
@@ -10881,6 +10880,7 @@ fantasizing
 felid
 frons
 fulgorid
+fissate
 fon
 fulgur
 fulfill
