@@ -2880,6 +2880,7 @@ barraged
 barrages
 brushland
 barraging
+batteau
 bailer
 berried
 bowle
@@ -8779,7 +8780,6 @@ bergerette
 billiken
 ballistophobia
 billionaire
-batteau
 bestrid
 bartram
 billionism
