@@ -4137,6 +4137,7 @@ firebolted
 firebomb
 fakiness
 firebombing
+flecker
 frostlike
 faithwise
 fireboot
@@ -11300,7 +11301,6 @@ factorial
 furans
 furacious
 finfish
-flecker
 furaciousness
 fulup
 floured
