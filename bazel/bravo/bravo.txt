@@ -1891,7 +1891,6 @@ bandhook
 bandyball
 bandicoy
 bonzes
-befoam
 bloodier
 bandido
 bandidos
@@ -16735,6 +16734,7 @@ buddhaship
 buddhi
 buddhic
 buddhism
+befoam
 bole
 buddhist
 buddhistic
