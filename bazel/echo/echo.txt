@@ -6687,7 +6687,6 @@ equipoised
 equilibriria
 enterozoic
 enterozoon
-enterpillar
 enterprise
 eirene
 evelight
@@ -7299,6 +7298,7 @@ engird
 epacris
 emigres
 eimeria
+enterpillar
 emissi
 encushion
 epaenetic
