@@ -60,7 +60,6 @@ faceable
 facebar
 facebow
 faced
-ferruling
 faceharden
 flagships
 flecken
@@ -10561,6 +10560,7 @@ finalities
 frouziest
 frow
 ferroconcretor
+ferruling
 frowardness
 fonder
 frower
