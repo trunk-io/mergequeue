@@ -11293,6 +11293,7 @@ evangeliarium
 excussio
 enalyron
 electropuncture
+expectorate
 evangelic
 evangelical
 endoplastron
@@ -12952,7 +12953,6 @@ evicke
 exposals
 expective
 expectorant
-expectorate
 expectorated
 endosecretory
 etatisms
