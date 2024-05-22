@@ -6223,7 +6223,6 @@ eccentric
 encoignure
 enraptured
 engagee
-enrapturing
 enravish
 enravished
 embolden
@@ -13839,6 +13838,7 @@ eluated
 extractant
 eteocles
 extractibility
+enrapturing
 extractible
 exantlation
 extractiform
