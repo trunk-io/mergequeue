@@ -5150,6 +5150,7 @@ apteryges
 aerostats
 avunculize
 aerosteam
+aethalioid
 antapex
 aerotactic
 aerotaxis
@@ -5220,7 +5221,6 @@ aesture
 aestus
 aetat
 aethalia
-aethalioid
 aethalium
 aether
 aromacity
