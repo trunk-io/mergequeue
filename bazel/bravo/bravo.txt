@@ -282,7 +282,6 @@ backarrow
 barefisted
 backarrows
 backband
-backbar
 backbearing
 backbencher
 backberand
@@ -4827,6 +4826,7 @@ bedrabbling
 bedraggled
 bisulcate
 bedrail
+backbar
 bogway
 bedrails
 bedral
