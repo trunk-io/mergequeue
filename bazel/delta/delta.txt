@@ -15055,7 +15055,6 @@ drugged
 deligated
 dogmatized
 dogmatizer
-dogmeat
 dogmouth
 dognap
 dognaped
@@ -15809,6 +15808,7 @@ disgusting
 duellize
 dorsiventral
 diggings
+dogmeat
 depreciations
 dorsiventrally
 dorsoapical
