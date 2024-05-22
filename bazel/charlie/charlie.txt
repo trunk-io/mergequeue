@@ -11673,7 +11673,6 @@ choledochotomies
 choledography
 cholee
 cholehematin
-cryptonym
 choleine
 colorization
 cholelith
@@ -25870,6 +25869,7 @@ corrugator
 cadelle
 coir
 corrugent
+cryptonym
 corrump
 corrup
 corrupable
