@@ -6359,7 +6359,6 @@ gobbled
 gobbledygook
 gelatinised
 guatambu
-gobbler
 gid
 gobbles
 gobbling
@@ -9311,6 +9310,7 @@ groovers
 granitic
 groundly
 glonoin
+gobbler
 grooves
 gnomists
 geront
