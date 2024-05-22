@@ -21366,6 +21366,7 @@ askile
 asking
 askings
 askip
+assignat
 asklent
 asklepios
 actiniohematin
@@ -21839,7 +21840,6 @@ assign
 assignability
 assignable
 assignably
-assignat
 assignation
 assignats
 ambiparous
