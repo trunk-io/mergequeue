@@ -5959,7 +5959,6 @@ floweret
 featherbedding
 floorcloths
 flashers
-foreclosable
 fluidizing
 floors
 folkways
@@ -10561,6 +10560,7 @@ finalities
 frouziest
 frow
 frowardness
+foreclosable
 fonder
 frower
 flagella
