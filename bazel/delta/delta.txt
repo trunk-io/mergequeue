@@ -7682,7 +7682,6 @@ devi
 deunam
 debell
 deviable
-deviance
 deviancy
 deviancies
 deemed
@@ -18663,6 +18662,7 @@ dwarfism
 dwarfisms
 detersively
 dwarfling
+deviance
 dekametre
 derivability
 dwarfs
