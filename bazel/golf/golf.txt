@@ -2878,7 +2878,6 @@ gristly
 gangwayed
 governably
 grundy
-gentil
 gurr
 gentiledom
 gentiles
@@ -7021,6 +7020,7 @@ gyromagnetic
 gorbet
 glaciered
 goops
+gentil
 garnet
 goorals
 grillade
