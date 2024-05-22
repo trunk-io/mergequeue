@@ -617,7 +617,6 @@ bacteriform
 bacterin
 borofluoric
 bacterioagglutinin
-bacterioblast
 bacteriochlorophyll
 bacteriocin
 bathylite
@@ -12166,6 +12165,7 @@ beloid
 boldheartedly
 boldin
 boldine
+bacterioblast
 boldly
 boldnesses
 boldo
