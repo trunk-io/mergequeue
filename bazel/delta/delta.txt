@@ -8924,7 +8924,6 @@ damocles
 dichondra
 dichondraceae
 dichopodial
-downdraft
 dichord
 deathblows
 discoveries
@@ -12307,6 +12306,7 @@ dimorphite
 decker
 dishabited
 dishabituate
+downdraft
 dishabituated
 dionysian
 dishabituating
