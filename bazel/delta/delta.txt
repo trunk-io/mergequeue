@@ -6943,7 +6943,6 @@ dualities
 dioptry
 despeche
 dogblow
-despecialization
 dispute
 despecialize
 despecificate
@@ -18137,6 +18136,7 @@ dioptoscopy
 dumpcarts
 duvetyns
 dropper
+despecialization
 dumper
 dayboy
 dumpy

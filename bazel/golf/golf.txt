@@ -1523,7 +1523,6 @@ garroter
 garrotes
 garroting
 gutturine
-guano
 gn
 garrotted
 garrulinae
@@ -5836,6 +5835,7 @@ gaultherase
 gyres
 gobos
 glossolalia
+guano
 glossolysis
 glossologist
 glossophaga
