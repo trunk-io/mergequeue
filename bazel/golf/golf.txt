@@ -2349,7 +2349,6 @@ geyserish
 geyserite
 georgia
 graduated
-geniality
 geishas
 geissoloma
 geissolomataceae
@@ -4522,6 +4521,7 @@ ginnings
 gynobase
 gynocardia
 gadget
+geniality
 gluer
 gavelling
 gins
