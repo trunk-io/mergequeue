@@ -1450,6 +1450,7 @@ garmenture
 gerodermia
 garmentworker
 growlers
+glossologist
 gnosticize
 ginners
 graplins
@@ -5837,7 +5838,6 @@ gyres
 gobos
 glossolalia
 glossolysis
-glossologist
 glossophaga
 glossopharyngeus
 gettered
