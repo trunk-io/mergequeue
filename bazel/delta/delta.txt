@@ -1273,7 +1273,6 @@ dumpings
 decoloured
 dimethylamino
 daubreite
-dipleidoscope
 densified
 dryermen
 daubries
@@ -18509,6 +18508,7 @@ durezza
 desulfurization
 decolour
 durham
+dipleidoscope
 durians
 dabbing
 duricrust
