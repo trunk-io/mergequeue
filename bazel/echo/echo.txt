@@ -9605,7 +9605,6 @@ escrow
 escrowing
 exceptio
 escudero
-esculent
 esculents
 esculic
 esculin
@@ -11645,6 +11644,7 @@ emergent
 ewte
 exacerbated
 exacerbates
+esculent
 enhances
 economics
 endermatic
