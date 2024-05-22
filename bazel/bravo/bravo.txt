@@ -2697,6 +2697,7 @@ benzoic
 barmbrack
 barmcloth
 brither
+biga
 barmfel
 becoward
 barmote
@@ -8415,7 +8416,6 @@ bifurcating
 blitzkriegs
 bergschrund
 bifurcation
-biga
 bigae
 bywork
 bewake
