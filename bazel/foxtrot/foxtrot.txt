@@ -4334,7 +4334,6 @@ foresleeve
 friendlies
 fise
 forb
-fanfish
 fisetin
 focuser
 fibroplastic
@@ -11425,6 +11424,7 @@ flect
 fess
 floralize
 furnish
+fanfish
 furnishable
 fluoroformol
 foolship
