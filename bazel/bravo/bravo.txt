@@ -865,6 +865,7 @@ bauxites
 bagful
 bemantle
 bookwise
+boatlip
 barbaric
 baggagemaster
 baggager
@@ -11692,7 +11693,6 @@ brahminist
 browband
 boccale
 boatlike
-boatlip
 boatload
 boatloader
 boatloading
