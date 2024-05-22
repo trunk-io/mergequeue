@@ -7771,6 +7771,7 @@ ceromancy
 cmdr
 ciliolate
 couldron
+checkout
 ceroon
 centunculus
 ceroplast
@@ -9578,7 +9579,6 @@ checkmark
 checkmate
 chirosophist
 checkmating
-checkout
 circumferences
 checkpoint
 checkpointed
