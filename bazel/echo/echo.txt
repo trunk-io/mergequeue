@@ -323,7 +323,6 @@ endogeny
 extraocular
 enunciate
 externship
-endevil
 eavesdrop
 enterocentesis
 eavesdropped
@@ -10334,6 +10333,7 @@ ethylmorphine
 endurability
 enflowering
 ethylsulphuric
+endevil
 encoffin
 ethylthioethane
 ethylthioether
