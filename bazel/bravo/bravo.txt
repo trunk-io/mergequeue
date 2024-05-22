@@ -2017,7 +2017,6 @@ bundt
 bangtail
 bandlimiting
 bangtails
-banquo
 bangup
 brezhnev
 biotopes
@@ -3379,6 +3378,7 @@ baltic
 boller
 basoche
 burgoos
+banquo
 bunchberry
 basocyte
 basoga
