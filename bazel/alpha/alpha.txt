@@ -8707,7 +8707,6 @@ allelocatalytic
 almes
 arsmetrik
 alternationist
-allelomorphic
 allelomorphism
 allelopathy
 allelotropy
@@ -20379,6 +20378,7 @@ arrowless
 alkyl
 ashet
 asphyxiative
+allelomorphic
 arrowlet
 arrowlike
 arrowplate

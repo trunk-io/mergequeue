@@ -1379,7 +1379,6 @@ binomial
 baldakin
 blithen
 baldaquin
-baldberry
 baldcrown
 balded
 balder
@@ -10696,6 +10695,7 @@ bailie
 befuddles
 binoxalate
 blaze
+baldberry
 baryecoia
 blazers
 blazes
