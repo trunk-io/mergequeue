@@ -11251,6 +11251,7 @@ chloralose
 chloralosed
 chloralum
 chlorambucil
+cannot
 chloramin
 chloramphenicol
 caperwort
@@ -14538,7 +14539,6 @@ cyrillianism
 cyrillic
 centrechinoida
 caryatidean
-cannot
 cyriologic
 cirl
 commonsensical
