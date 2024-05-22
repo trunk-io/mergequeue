@@ -3186,7 +3186,6 @@ drowsihood
 dissimulated
 defeatism
 defeats
-defeature
 defecant
 dunnock
 dowless
@@ -4111,6 +4110,7 @@ dizzying
 deliciae
 delicious
 deliciouses
+defeature
 deliciousness
 detribalized
 delict
