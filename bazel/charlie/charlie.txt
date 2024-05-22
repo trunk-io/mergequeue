@@ -2286,6 +2286,7 @@ cylindrocellular
 calinda
 ccw
 canalside
+coremium
 canamary
 canamo
 cranesbill
@@ -6786,7 +6787,6 @@ cell
 cella
 cellager
 cellar
-coremium
 cellarage
 cellared
 chamoix
