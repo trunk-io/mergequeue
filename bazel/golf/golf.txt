@@ -6557,7 +6557,6 @@ goldenness
 glidewort
 goldenrod
 goldentop
-gastrea
 golder
 grower
 gambrelled
@@ -7001,6 +7000,7 @@ googul
 gallooned
 guayabera
 gaugeable
+gastrea
 gnotobiology
 greenflies
 gooky
