@@ -2409,7 +2409,6 @@ geldability
 griffinish
 goodnesses
 galopin
-gelder
 geldesprung
 geldings
 gelds
@@ -3797,6 +3796,7 @@ grouty
 gratifyingly
 giantship
 gastroesophagostomy
+gelder
 gastronomic
 giantsize
 gaub
