@@ -6640,7 +6640,6 @@ ahom
 ahorse
 ahorseback
 ahousaht
-ahriman
 ahs
 ablare
 ahtena
@@ -10667,6 +10666,7 @@ avoy
 absterging
 aminity
 autogenously
+ahriman
 amuses
 aselline
 aminities
