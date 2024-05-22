@@ -24623,7 +24623,6 @@ copyholders
 chancily
 crum
 copihue
-copihues
 copying
 copyist
 copyists
@@ -29881,6 +29880,7 @@ crosshand
 cubiform
 chedlock
 calesin
+copihues
 crosshatches
 cogwheel
 crosshatching
