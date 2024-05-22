@@ -12605,7 +12605,6 @@ culbert
 conoid
 chromotypography
 chromotypographic
-chromotrope
 cockpits
 chromotropy
 chromotropic
@@ -22569,6 +22568,7 @@ conjurement
 canel
 conjurers
 conjures
+chromotrope
 conjuring
 cricetine
 conjurors
