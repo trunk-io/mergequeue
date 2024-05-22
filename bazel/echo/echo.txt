@@ -1157,7 +1157,6 @@ editorializers
 enation
 editorializes
 editors
-editorship
 editorships
 elasticness
 epistemic
@@ -4395,6 +4394,7 @@ engagers
 excretes
 enarthrodial
 evacuates
+editorship
 enates
 enatic
 enations
