@@ -3058,7 +3058,6 @@ bakerite
 boffola
 basipoditic
 ballon
-bestials
 brahman
 breachy
 backrests
@@ -17798,6 +17797,7 @@ bronchus
 burnover
 bushido
 bumfs
+bestials
 baccharoid
 bucerotes
 burnsian

@@ -750,7 +750,6 @@ dandiprat
 dandyprat
 dandis
 didelphous
-dandisette
 dandizette
 dayflies
 decasyllabic
@@ -3386,6 +3385,7 @@ domesticable
 definitive
 definitively
 dynamometry
+dandisette
 delaying
 discloister
 definitiveness
