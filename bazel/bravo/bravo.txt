@@ -3750,7 +3750,6 @@ battarismus
 boobialla
 birdlore
 batteaux
-bonnering
 batteling
 bascule
 battels
@@ -16403,6 +16402,7 @@ brushoff
 brushoffs
 brushpopper
 brushproof
+bonnering
 brushup
 brushups
 brushwood
