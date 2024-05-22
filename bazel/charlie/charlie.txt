@@ -14433,6 +14433,7 @@ crackling
 condite
 circumquaque
 circumradii
+colure
 circumradius
 circumradiuses
 circumferent
@@ -19643,7 +19644,6 @@ columnizes
 columnizing
 constitutioner
 columns
-colure
 constricts
 colures
 colusite
