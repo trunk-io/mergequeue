@@ -1955,7 +1955,6 @@ bandsaw
 bandsawed
 basilicae
 bandsawn
-bandsman
 bandspreading
 bandstand
 beacon
@@ -17019,6 +17018,7 @@ bulgingly
 bulies
 breakables
 bulimy
+bandsman
 bulimiac
 bulimias
 bayman
