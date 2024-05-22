@@ -13321,6 +13321,7 @@ disfen
 deaconhood
 disputant
 disputation
+dodecarchy
 disconnected
 delightless
 disputations
@@ -16570,7 +16571,6 @@ distend
 draggers
 draggier
 drearier
-dodecarchy
 draggily
 draggle
 doctorly
