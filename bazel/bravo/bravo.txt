@@ -6574,6 +6574,7 @@ benzopyrene
 benzopyrylium
 benzoquinoxaline
 baltimorean
+balau
 benzosulfimide
 barbaresque
 benzosulphimide
@@ -14073,7 +14074,6 @@ brombenzyl
 burkites
 brachiocyllosis
 brachiocubital
-balau
 branchy
 bisme
 brachiolaria

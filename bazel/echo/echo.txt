@@ -3807,7 +3807,6 @@ edulcorated
 endosteal
 emergence
 echinostomiasis
-emergencies
 emergentness
 emergents
 epoptic
@@ -5074,6 +5073,7 @@ euthyneurous
 enterocoel
 endocrinology
 ebraick
+emergencies
 exposures
 entogenous
 endocrinologist
