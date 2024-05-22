@@ -1781,7 +1781,6 @@ baluchithere
 buses
 biretta
 balun
-balustrade
 balustrading
 bromatology
 balwarra
@@ -8244,6 +8243,7 @@ bicrural
 bicultural
 bucca
 brionine
+balustrade
 biculturalism
 bicursal
 bumblebees
