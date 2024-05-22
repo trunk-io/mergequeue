@@ -5523,6 +5523,7 @@ gibli
 gunl
 glyptodon
 glyptodont
+gutnish
 goi
 glyptodontoid
 gracelike
@@ -10760,7 +10761,6 @@ graduality
 grudge
 gruellers
 gutlike
-gutnish
 gynaecomorphous
 glossospasm
 gutsiness
