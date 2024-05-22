@@ -3756,7 +3756,6 @@ batteling
 bascule
 battels
 battement
-basisolute
 battements
 battened
 battener
@@ -6278,6 +6277,7 @@ baikalite
 boof
 benedicts
 benedight
+basisolute
 butanolide
 benefact
 blastide
