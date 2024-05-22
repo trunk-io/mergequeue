@@ -2633,7 +2633,6 @@ acounter
 acouometer
 adjacently
 acoup
-acousmatic
 acoustic
 acoustical
 anisopodal
@@ -13892,6 +13891,7 @@ atacamite
 anorthite
 anorthitic
 apoise
+acousmatic
 anorthoclase
 antiliturgic
 anorthography
