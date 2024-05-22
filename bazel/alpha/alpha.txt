@@ -5705,6 +5705,7 @@ aftershocks
 aftersound
 afterspeech
 afterspring
+arteria
 afterstretch
 afterstudy
 acetylaminobenzene
@@ -20497,7 +20498,6 @@ arenae
 alcibiades
 aragonese
 artery
-arteria
 associating
 amplifications
 arteriac
