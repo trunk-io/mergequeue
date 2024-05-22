@@ -2068,6 +2068,7 @@ feinting
 feis
 fatigueless
 flatlander
+forfairn
 ferberite
 fogbows
 frauder
@@ -8170,7 +8171,6 @@ footways
 firecracker
 fulgently
 forewritten
-forfairn
 fumbler
 forfalt
 friezing
