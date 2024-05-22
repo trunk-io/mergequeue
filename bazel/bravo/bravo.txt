@@ -6053,7 +6053,6 @@ blitzkrieg
 belast
 boreas
 barbecueing
-belowground
 brontothere
 blueweeds
 belowstairs
@@ -17123,6 +17122,7 @@ bequeather
 bullethead
 bulletheadedness
 brennage
+belowground
 bogman
 baptornis
 bulletining
