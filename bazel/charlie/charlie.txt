@@ -4897,7 +4897,6 @@ carstone
 cart
 counterpoising
 chromatinic
-cartable
 cartaceous
 cartage
 cowherbs
@@ -19141,6 +19140,7 @@ columbeia
 colloblast
 collobrierite
 chanst
+cartable
 collocal
 cateress
 collocalia
