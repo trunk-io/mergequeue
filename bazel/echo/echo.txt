@@ -7229,7 +7229,6 @@ esplanades
 electropercussive
 enguard
 ellipsoidal
-embrave
 eobiont
 ejaculating
 eocene
@@ -8630,6 +8629,7 @@ equidiagonal
 equidifferent
 equidimensional
 equidist
+embrave
 equidistance
 embranglement
 equidistribution
