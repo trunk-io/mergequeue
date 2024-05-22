@@ -987,7 +987,6 @@ eponymic
 endosporium
 edaciously
 edaciousness
-equine
 edacities
 ensaffron
 edam
@@ -12790,6 +12789,7 @@ exosmose
 exosmoses
 exosmosis
 exosmotic
+equine
 ecchymoses
 expatiater
 excrementitial
