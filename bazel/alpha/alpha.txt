@@ -853,7 +853,6 @@ abscisins
 abscissae
 abscissas
 abscisse
-arctogaea
 amphicyrtous
 abscission
 absconce
@@ -11988,6 +11987,7 @@ antecloset
 anaptomorphidae
 anaptomorphus
 anaptotic
+arctogaea
 anarcestes
 anarchy
 auberges
