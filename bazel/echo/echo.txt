@@ -4164,7 +4164,6 @@ every
 ensconce
 employments
 ensured
-entombments
 euphonical
 emplore
 emplume
@@ -6426,6 +6425,7 @@ emitters
 encephalometer
 encheck
 ensorcellment
+entombments
 ensorrow
 encumberment
 enrobers
