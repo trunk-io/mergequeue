@@ -8090,7 +8090,6 @@ bibliosoph
 bibliotaphe
 bibliothecae
 bibliothecal
-bibliothecary
 bibliothecarian
 bibliothecas
 beshag
@@ -18214,6 +18213,7 @@ bibliokleptomaniac
 butoxy
 bohereen
 bedamp
+bibliothecary
 butoxyl
 bremely
 betook
