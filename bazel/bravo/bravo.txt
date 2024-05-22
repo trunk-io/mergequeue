@@ -1748,7 +1748,6 @@ balsaminaceae
 bandstands
 beneplacit
 balsaminaceous
-balsamine
 balsaming
 bankside
 balsamitic
@@ -12353,6 +12352,7 @@ buglers
 bandurrias
 bezzi
 baculi
+balsamine
 biophor
 beldame
 bonds
