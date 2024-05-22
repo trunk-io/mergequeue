@@ -2351,7 +2351,6 @@ geniality
 geishas
 geissoloma
 geissolomataceae
-geissolomataceous
 gauily
 geissospermine
 grundyite
@@ -8729,6 +8728,7 @@ greese
 ghostess
 genual
 greet
+geissolomataceous
 gadid
 grabble
 googly
