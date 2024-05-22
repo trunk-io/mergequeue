@@ -3323,7 +3323,6 @@ glottalized
 ganglands
 germ
 germain
-german
 germany
 gisarme
 galtonia
@@ -3923,6 +3922,7 @@ gouda
 gigahertz
 gigahertzes
 galloperdix
+german
 gigaherz
 geese
 geophysically
