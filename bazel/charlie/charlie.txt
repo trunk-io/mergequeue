@@ -770,6 +770,7 @@ cayapa
 cacaos
 cayapo
 criticisable
+carriagesmith
 caic
 caickle
 caid
@@ -4820,7 +4821,6 @@ carriage
 carriageable
 carriageful
 carriages
-carriagesmith
 cinchonicin
 carriageway
 carryall
