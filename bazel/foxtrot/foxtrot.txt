@@ -6137,7 +6137,6 @@ flounders
 floury
 federarie
 flourish
-flourishes
 fermion
 federal
 foully
@@ -8634,6 +8633,7 @@ fanterie
 forspoke
 fellatory
 fillebeg
+flourishes
 filicides
 fumistery
 fields
