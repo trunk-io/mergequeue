@@ -1805,7 +1805,6 @@ accusator
 associates
 accusatory
 apectomy
-accusatorial
 accusatorially
 accusatrix
 accusatrixes
@@ -4831,6 +4830,7 @@ aegophony
 aegritude
 aegrotant
 alabastron
+accusatorial
 archiving
 azazel
 aegrotat
