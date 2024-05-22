@@ -5070,7 +5070,6 @@ denarius
 denaro
 dietted
 denasalize
-dictamen
 denasalized
 doppelkummel
 dequeued
@@ -9430,6 +9429,7 @@ dicrotism
 disemploying
 dig
 disheathing
+dictamen
 digallic
 dehematize
 digamy
