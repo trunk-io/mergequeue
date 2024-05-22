@@ -5080,7 +5080,6 @@ flasker
 foretooth
 fellahin
 flasklet
-flasks
 flasque
 flexuous
 fellifluous
@@ -6883,6 +6882,7 @@ flashingly
 folkcraft
 felsitic
 forestaysail
+flasks
 folkfree
 folky
 fidejussory
