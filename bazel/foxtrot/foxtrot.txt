@@ -3273,7 +3273,6 @@ folkmote
 fictioner
 forehent
 fictionised
-fictionistic
 furbisher
 fictionization
 fusspot
@@ -10418,6 +10417,7 @@ foliage
 fireproofness
 farmyards
 forgivableness
+fictionistic
 filigerous
 felicitators
 fraternise
