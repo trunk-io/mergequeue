@@ -15553,6 +15553,7 @@ clarine
 clarinet
 clarinetist
 clarinetists
+caddoan
 clarinets
 clarinettist
 clarinettists
@@ -26060,7 +26061,6 @@ cosed
 coded
 cosegment
 cosey
-caddoan
 coseier
 chimesmaster
 coseiest
