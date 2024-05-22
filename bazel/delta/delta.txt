@@ -3516,7 +3516,6 @@ defoliate
 defoliation
 defoliations
 defoliator
-disjunct
 dichroscope
 deuteroprism
 deforced
@@ -5631,6 +5630,7 @@ depend
 dependability
 dependabilities
 dependableness
+disjunct
 dependably
 dibber
 dependance
