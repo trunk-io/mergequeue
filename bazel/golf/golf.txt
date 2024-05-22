@@ -4728,6 +4728,7 @@ gyrocompasses
 glandulosity
 gyrodactylidae
 gapa
+gastrea
 gopherroot
 gansy
 galliardly
@@ -6560,7 +6561,6 @@ goldenness
 glidewort
 goldenrod
 goldentop
-gastrea
 golder
 grower
 gambrelled
