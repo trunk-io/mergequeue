@@ -16439,7 +16439,6 @@ cochleare
 cliv
 cliver
 clivers
-clivis
 clivises
 clivus
 clk
@@ -18583,6 +18582,7 @@ coincide
 coincided
 coincident
 coincidentally
+clivis
 coincidently
 coincidents
 conjunctural
