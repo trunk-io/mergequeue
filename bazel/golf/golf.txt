@@ -1580,7 +1580,6 @@ gasher
 gramineal
 gundelet
 guazuti
-guarded
 garneter
 gashouse
 generale
@@ -6307,6 +6306,7 @@ gatepost
 gausses
 gervase
 gollywobbler
+guarded
 grubble
 gamblesome
 giantize
