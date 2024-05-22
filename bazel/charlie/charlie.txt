@@ -2576,6 +2576,7 @@ cangue
 cangues
 canham
 canhoop
+catlike
 canichanan
 canicola
 canicula
@@ -6016,7 +6017,6 @@ catkin
 catkinate
 catkins
 curatory
-catlike
 crowns
 catlin
 catline
