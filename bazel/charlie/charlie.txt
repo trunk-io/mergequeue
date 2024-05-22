@@ -11911,6 +11911,7 @@ chopins
 choplogic
 choplogical
 chopped
+cannibalish
 choregi
 cryptomonad
 candider
@@ -30781,7 +30782,6 @@ corrodes
 cullionly
 cullionry
 cullisance
-cannibalish
 cullises
 culls
 chordates
