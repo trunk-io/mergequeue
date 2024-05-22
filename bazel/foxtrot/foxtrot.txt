@@ -2604,6 +2604,7 @@ ferrets
 foresightful
 flanes
 ferryboat
+formaldehyd
 ferryboats
 familistery
 ferricyanate
@@ -8380,7 +8381,6 @@ formational
 fullerboard
 flashness
 formal
-formaldehyd
 froufrous
 formalesque
 flatfootedly
