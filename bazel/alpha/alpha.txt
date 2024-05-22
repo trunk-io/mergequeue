@@ -4577,6 +4577,7 @@ advancement
 advancements
 advancer
 advancers
+arolla
 advancing
 advancingly
 advancive
@@ -21378,7 +21379,6 @@ aslaver
 adenylpyrophosphate
 asleep
 aslumber
-arolla
 asmack
 acratia
 asmalte

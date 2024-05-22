@@ -8631,7 +8631,6 @@ fatuitousness
 forewrought
 footing
 fanterie
-forspoke
 fellatory
 fillebeg
 filicides
@@ -10350,6 +10349,7 @@ frolicker
 fonctionnaire
 frolicking
 frolicsome
+forspoke
 frammit
 farnesses
 foxiness
