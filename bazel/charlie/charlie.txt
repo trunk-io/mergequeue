@@ -14207,6 +14207,7 @@ circassic
 capivi
 corpuscle
 circe
+centerward
 circean
 circensian
 circinal
@@ -18144,7 +18145,6 @@ coequalness
 chopping
 coequals
 coequate
-centerward
 chincha
 chinbone
 chiniofon
