@@ -5160,7 +5160,6 @@ dendroeca
 drakes
 daalder
 dendrogaea
-dendrophagous
 dendrohyrax
 dendroidea
 dartrous
@@ -15590,6 +15589,7 @@ dooly
 debenzolize
 doombook
 disappearing
+dendrophagous
 diarists
 doomed
 devilment
