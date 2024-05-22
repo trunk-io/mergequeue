@@ -4992,7 +4992,6 @@ flannelmouth
 ferries
 fedelini
 forekeel
-forehatchway
 flanque
 faconne
 flapdock
@@ -10500,6 +10499,7 @@ fairbanks
 fistiana
 froppish
 frontiersmen
+forehatchway
 foreworld
 frost
 foregoer
