@@ -3813,7 +3813,6 @@ adfreezing
 adfroze
 adhafera
 agones
-adhaka
 adhara
 adharma
 adhere
@@ -12395,6 +12394,7 @@ antlions
 androcentric
 acervuli
 androcephalous
+adhaka
 androcephalum
 audits
 androcyte
