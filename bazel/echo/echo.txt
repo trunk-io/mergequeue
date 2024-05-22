@@ -942,7 +942,6 @@ embryographer
 extravagated
 ectromelus
 equipping
-ectropion
 ectropionization
 efference
 ectropionize
@@ -4436,6 +4435,7 @@ encapsule
 encapsuled
 estimators
 encapsules
+ectropion
 enure
 encapsuling
 encaptivate
