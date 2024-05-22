@@ -5899,7 +5899,6 @@ factors
 flockwise
 flocs
 flatfeet
-fertilizability
 floeberg
 faniente
 formers
@@ -10078,6 +10077,7 @@ flacourtia
 feracity
 firelike
 frigotherapy
+fertilizability
 finalist
 fusileers
 frying
