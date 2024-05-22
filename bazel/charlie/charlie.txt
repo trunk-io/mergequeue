@@ -771,6 +771,7 @@ cacaos
 cayapo
 criticisable
 caic
+checkbird
 caickle
 caid
 caids
@@ -9538,7 +9539,6 @@ callityping
 check
 checkage
 checkback
-checkbird
 checkbite
 checkbits
 checkbook
