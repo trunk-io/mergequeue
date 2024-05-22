@@ -7870,7 +7870,6 @@ facings
 forepretended
 frightfully
 firestorm
-foreprize
 forepromise
 foreprovision
 forepurpose
@@ -9791,6 +9790,7 @@ faultfinding
 fremdness
 feoffor
 favellidia
+foreprize
 fremituses
 fordwine
 fremontia
