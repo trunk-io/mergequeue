@@ -778,7 +778,6 @@ daneball
 danebrog
 delusters
 dovecote
-daneflower
 danegeld
 danegelds
 danelaw
@@ -3199,6 +3198,7 @@ defecation
 dexterity
 defecator
 dunlop
+daneflower
 defect
 decontrols
 dihydric
