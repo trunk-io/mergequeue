@@ -4861,6 +4861,7 @@ aeolidae
 aeolididae
 aeoline
 aeolipile
+ambrotype
 aeolis
 aeolist
 aeolistic
@@ -10181,7 +10182,6 @@ anteclassical
 ambrosine
 ambrosio
 ambrosterol
-ambrotype
 ambsace
 ambsaces
 ambulacra
