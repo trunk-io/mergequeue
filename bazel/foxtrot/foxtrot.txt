@@ -1440,6 +1440,7 @@ fylgjur
 fluctuosity
 fatshedera
 fatsia
+faldage
 fane
 fatsoes
 fatalize
@@ -6263,7 +6264,6 @@ frankeniaceous
 fecit
 fluidified
 fluidimeter
-faldage
 fluoarsenate
 fanfarade
 fluidisation

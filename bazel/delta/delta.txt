@@ -5647,7 +5647,6 @@ dependingly
 depends
 desmepithelium
 dispersed
-dukeship
 depeopled
 deperdit
 determiners
@@ -6384,6 +6383,7 @@ denigrating
 dermol
 dermoneural
 drassid
+dukeship
 dermoneurosis
 dermoosseous
 decent
