@@ -2526,6 +2526,7 @@ bargainable
 billbugs
 bargainer
 bargaining
+begettal
 beechwoods
 bhut
 barge
@@ -5325,7 +5326,6 @@ borderer
 blinds
 begem
 bloods
-begettal
 begetter
 broth
 bandagist
