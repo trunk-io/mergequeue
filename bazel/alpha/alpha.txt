@@ -4761,6 +4761,7 @@ aecidiaceae
 adumbrate
 agitates
 aecidial
+anisobranchiate
 aecidioform
 aecidiomycetes
 aecidiospore
@@ -13309,7 +13310,6 @@ antirational
 aerographer
 anglos
 afflux
-anisobranchiate
 anisocarpic
 autocoid
 anisocercal
