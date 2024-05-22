@@ -7033,7 +7033,6 @@ entrepas
 externally
 effatum
 entrepreneur
-equips
 ethmopresphenoidal
 entrepreneurship
 entrepreneuse
@@ -12725,6 +12724,7 @@ exophthalmus
 exoplasm
 exopod
 exopodite
+equips
 exopterygote
 exopterygotism
 excitative

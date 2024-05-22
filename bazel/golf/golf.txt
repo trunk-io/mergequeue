@@ -1510,7 +1510,6 @@ garrisonism
 graciosity
 garrnishable
 gemeinde
-garroo
 garroted
 goldsmithry
 garroter
@@ -3066,6 +3065,7 @@ grenadian
 granophyric
 geographies
 geordie
+garroo
 grocerdom
 galliardness
 geoids
