@@ -3687,7 +3687,6 @@ exsculp
 embryotomies
 echelette
 embryotrophy
-embrittle
 enchasers
 embrittled
 embrittling
@@ -12569,6 +12568,7 @@ existing
 existlessness
 exists
 epistemological
+embrittle
 examining
 exit
 exite
