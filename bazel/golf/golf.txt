@@ -6306,7 +6306,6 @@ gatepost
 gausses
 gervase
 gollywobbler
-grubble
 gamblesome
 giantize
 goatfishes
@@ -7494,6 +7493,7 @@ governor
 graveyards
 governorate
 gastrophrenic
+grubble
 governors
 gobian
 garbled
