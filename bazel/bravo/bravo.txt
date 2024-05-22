@@ -1595,7 +1595,6 @@ bijous
 ballistician
 brachioganoidei
 ballistocardiogram
-ballistocardiograph
 ballistocardiography
 bifurcate
 beheadlined
@@ -14261,6 +14260,7 @@ braggadocios
 braggart
 braggartly
 braggarts
+ballistocardiograph
 braggat
 bragged
 bragger
