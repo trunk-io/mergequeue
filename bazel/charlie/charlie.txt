@@ -24236,7 +24236,6 @@ convoluting
 convolution
 convolutional
 convolutions
-convolutive
 convolve
 cynipidous
 convolved
@@ -25651,6 +25650,7 @@ corporatively
 corporativism
 corporeal
 cirsotome
+convolutive
 corporealization
 cochlea
 corporeally
