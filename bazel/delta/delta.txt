@@ -8835,7 +8835,6 @@ diblastula
 diborate
 dibothriocephalus
 dibrach
-dibranch
 duftery
 dibranchiata
 dibranchiate
@@ -18604,6 +18603,7 @@ dusun
 dutch
 dutchess
 dutchy
+dibranch
 dutchify
 dutching
 dutchmen
