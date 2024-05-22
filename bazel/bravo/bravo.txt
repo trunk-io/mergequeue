@@ -11662,6 +11662,7 @@ bacauan
 becarve
 boarts
 boarwood
+bops
 boas
 boaster
 boastfully
@@ -12082,7 +12083,6 @@ boycotted
 brachiated
 boycotting
 boycottism
-bops
 barbarians
 boycotts
 boid
