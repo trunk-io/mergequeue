@@ -765,7 +765,6 @@ fancysick
 fickly
 fixures
 foretack
-fandangle
 fandango
 fallows
 fandangos
@@ -1422,6 +1421,7 @@ federary
 fatiscent
 fatless
 frivoller
+fandangle
 farcies
 fatly
 fatling
