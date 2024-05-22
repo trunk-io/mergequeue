@@ -734,7 +734,6 @@ badge
 beglerbey
 badgeless
 berrendo
-badgeman
 barrels
 badger
 breeches
@@ -4126,6 +4125,7 @@ bedolt
 bumperette
 bannerets
 bartletts
+badgeman
 berrylike
 beaminess
 beatille
