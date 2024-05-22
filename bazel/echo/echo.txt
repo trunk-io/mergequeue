@@ -6146,7 +6146,6 @@ energetics
 eusynchite
 executable
 enoplan
-enorm
 exhortator
 etaballi
 enorn
@@ -6870,6 +6869,7 @@ enstatolite
 entomophaga
 ebcasc
 expectative
+enorm
 entomophagous
 engle
 entomophila
