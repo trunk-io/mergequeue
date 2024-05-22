@@ -700,7 +700,6 @@ glower
 gormands
 galeated
 giansar
-gallantries
 goodheartedly
 gallow
 galloway
@@ -9847,6 +9846,7 @@ guaniferous
 gemmae
 gravy
 growth
+gallantries
 gallivants
 guardianless
 gerygone
