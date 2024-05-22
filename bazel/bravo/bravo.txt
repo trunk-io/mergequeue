@@ -4686,6 +4686,7 @@ bewilderingly
 ballett
 bedeafened
 bedeafening
+beworrying
 botanised
 bedeck
 bedecked
@@ -7771,7 +7772,6 @@ beworried
 basidiomycetous
 backbitten
 beworries
-beworrying
 beworship
 bewpers
 barmen
