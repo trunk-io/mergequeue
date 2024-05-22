@@ -1648,7 +1648,6 @@ deaminating
 deamination
 deaminize
 deaminized
-deaminizing
 deammonation
 dean
 deanathematize
@@ -2600,6 +2599,7 @@ decoct
 decocting
 decoctive
 decocts
+deaminizing
 decoctum
 decodable
 decode
