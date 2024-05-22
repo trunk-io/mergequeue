@@ -3064,7 +3064,6 @@ deepgoing
 dawsoniaceous
 deepish
 deeply
-deepnesses
 decontrolling
 deepsome
 distinguishing
@@ -9601,6 +9600,7 @@ dihalogen
 dihdroxycholecalciferol
 dihedrals
 dihedron
+deepnesses
 discipleship
 dishumour
 dihexahedron
