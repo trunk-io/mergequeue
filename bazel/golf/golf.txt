@@ -3141,7 +3141,6 @@ gerbils
 gamelin
 gangliate
 geomorphologically
-golliwog
 geomorphologist
 gravelroot
 georgian
@@ -4379,6 +4378,7 @@ gynecolatry
 gynecologic
 gynecological
 gliadin
+golliwog
 gabendum
 generatively
 gerres
