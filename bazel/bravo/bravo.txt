@@ -2562,7 +2562,6 @@ baric
 barycenter
 bemused
 burmite
-bloodiest
 brillolette
 barid
 burgus
@@ -3308,6 +3307,7 @@ bandaite
 basion
 babbler
 betoil
+bloodiest
 basions
 basiophitic
 benightedly
