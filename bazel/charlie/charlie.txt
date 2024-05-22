@@ -1097,7 +1097,6 @@ calciobiotite
 calcioferrite
 calcioscheelite
 calciovolborthite
-calcipexy
 clarity
 calciphylactic
 calciphylaxis
@@ -20284,6 +20283,7 @@ commotive
 commove
 commoved
 cardiotonic
+calcipexy
 conjectured
 cephalometry
 commoves
