@@ -2142,6 +2142,7 @@ achatinidae
 afterripening
 act
 ache
+ambassiate
 acheat
 artemisin
 acheer
@@ -3307,7 +3308,6 @@ abrasives
 aculeae
 aculeata
 aculeated
-ambassiate
 aculei
 appropriate
 abram
