@@ -603,7 +603,6 @@ gowan
 graptolitic
 greyhound
 glycoprotein
-gallicisms
 gimpy
 gynecomaniacal
 gallicize
@@ -3873,6 +3872,7 @@ galeche
 gavelage
 gibuses
 giddap
+gallicisms
 guideless
 goff
 greenbugs
