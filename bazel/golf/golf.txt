@@ -919,7 +919,6 @@ gobemouche
 guarding
 grammaticality
 gamelang
-graceful
 gonagia
 gamelans
 gammy
@@ -1535,6 +1534,7 @@ garrulousness
 garrulus
 gustative
 gaspy
+graceful
 gaudeamuses
 garsil
 gambles
