@@ -6363,7 +6363,6 @@ ensign
 electroplaque
 entranceway
 ensignry
-eviscerate
 ensilaged
 ensilages
 episcopal
@@ -7926,6 +7925,7 @@ epilating
 experimentation
 epilation
 epileny
+eviscerate
 earings
 endopeptidase
 extensible
