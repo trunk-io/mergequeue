@@ -833,7 +833,6 @@ grooper
 gris
 ghrush
 gottlieb
-galways
 gamari
 gamash
 gonidium
@@ -2549,6 +2548,7 @@ graniferous
 gale
 gotched
 goldeneye
+galways
 glycohemia
 ghoulish
 grypanian
