@@ -9125,7 +9125,6 @@ bursal
 backspace
 biogeny
 biogeochemical
-biogeochemistry
 biogeographer
 biogeographical
 biogeographically
@@ -9475,6 +9474,7 @@ birdcages
 birdcalls
 blirt
 bonniness
+biogeochemistry
 beau
 birddom
 birded
