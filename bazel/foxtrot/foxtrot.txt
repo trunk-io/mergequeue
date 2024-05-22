@@ -3957,6 +3957,7 @@ fatalities
 featuring
 finesser
 feedbacks
+finisher
 fidelia
 flanconade
 flushers
@@ -4036,7 +4037,6 @@ federatist
 finish
 fletchings
 finishable
-finisher
 fadable
 finishers
 finishes
