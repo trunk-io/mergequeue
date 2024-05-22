@@ -1411,7 +1411,6 @@ exequy
 evilnesses
 effluve
 effluvia
-effluviable
 effluviate
 effluviography
 essenced
@@ -3191,6 +3190,7 @@ extraschool
 eluctate
 elucubrate
 elucubration
+effluviable
 evangelized
 elude
 eludes
