@@ -6653,6 +6653,7 @@ extraduction
 enteroplegia
 enthalpies
 epilogism
+eumeromorphic
 exhume
 enteropneusta
 enteroptosis
@@ -10863,7 +10864,6 @@ eumerism
 encrinus
 ergs
 expediences
-eumeromorphic
 exercisable
 eumycete
 enclog
