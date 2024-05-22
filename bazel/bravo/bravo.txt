@@ -4144,7 +4144,6 @@ beamroom
 baragnosis
 braize
 beams
-beamsman
 beamwork
 birken
 bargees
@@ -8248,6 +8247,7 @@ bicuspid
 black
 bicuspidal
 bicuspidate
+beamsman
 bankable
 burrobrush
 bid
