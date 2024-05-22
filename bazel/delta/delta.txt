@@ -11796,7 +11796,6 @@ discriminatively
 downthrow
 despatch
 discriminativeness
-discriminator
 dashingly
 deferrals
 dislodges
@@ -15869,6 +15868,7 @@ diamondize
 dorty
 descendance
 dortiship
+discriminator
 dustrag
 doruck
 dos
