@@ -1832,6 +1832,7 @@ featliness
 fuscescent
 fractureproof
 fissiparous
+fracturableness
 forane
 finicking
 fainness
@@ -5679,7 +5680,6 @@ flippance
 flippant
 fubsiest
 flipped
-fracturableness
 flipperling
 frogface
 fraileros
