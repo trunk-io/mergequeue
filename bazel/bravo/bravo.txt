@@ -4865,7 +4865,6 @@ bronx
 bedscrew
 bits
 bedsick
-bedside
 bedsitter
 bedsock
 bedsonia
@@ -11568,6 +11567,7 @@ blurbist
 butteriest
 blurbs
 bananist
+bedside
 bargained
 bushbeater
 balladries
