@@ -1692,7 +1692,6 @@ gasteropoda
 gordolobo
 gummy
 gallons
-gastight
 gastly
 gastness
 gingili
@@ -8344,6 +8343,7 @@ graphic
 galravage
 gaffe
 gawsie
+gastight
 gapingstock
 gratingly
 gratings
