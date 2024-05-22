@@ -3960,6 +3960,7 @@ baxtone
 bazar
 bazars
 baze
+brucella
 bazoo
 bazooka
 benote
@@ -9771,7 +9772,6 @@ bishophood
 bowwort
 barbarianism
 baptists
-brucella
 bishopling
 bishoprics
 bishopstool
