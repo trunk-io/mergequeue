@@ -2397,7 +2397,6 @@ fenester
 feoffors
 fidelis
 feoffs
-fumant
 fand
 footstalk
 fremescence
@@ -7331,6 +7330,7 @@ foramen
 fearnaught
 frampold
 flamfew
+fumant
 forswearer
 fair
 flagellant
