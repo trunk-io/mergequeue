@@ -1193,6 +1193,7 @@ educand
 educatability
 eident
 elkhounds
+esophagostenosis
 educatable
 evitate
 educated
@@ -9715,7 +9716,6 @@ esophagorrhagia
 embodiment
 edentulous
 esophagoscopy
-esophagostenosis
 esophagotome
 esophagus
 earthshine
