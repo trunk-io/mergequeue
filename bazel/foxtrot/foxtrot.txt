@@ -3383,7 +3383,6 @@ formularies
 fidgetily
 faultage
 flotsam
-fray
 foreheaded
 fiedlerite
 floreated
@@ -5401,6 +5400,7 @@ funnelled
 flenses
 fording
 flentes
+fray
 flerried
 flerrying
 flesh
