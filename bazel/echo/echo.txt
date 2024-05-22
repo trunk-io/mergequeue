@@ -5292,7 +5292,6 @@ endospore
 endosporic
 encharm
 endows
-equisegmented
 endostea
 embroiderers
 epiphyte
@@ -7468,6 +7467,7 @@ ephererist
 ephesian
 evangelists
 ephestia
+equisegmented
 extrafocal
 equivocator
 excusation
