@@ -12680,7 +12680,6 @@ exomologesis
 exomorphic
 exomphalos
 exomphalous
-embryogeny
 exomphalus
 ethionine
 elaborators
@@ -13221,6 +13220,7 @@ explicits
 eurylaimidae
 explida
 electropult
+embryogeny
 explode
 exudatory
 eschars
