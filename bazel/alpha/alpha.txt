@@ -2329,6 +2329,7 @@ acid
 appassionato
 adjectitious
 acidanthera
+algosis
 acidaspis
 acidemia
 acider
@@ -12645,7 +12646,6 @@ aneurysmal
 aeriferous
 aneurysmally
 aneurysmatic
-algosis
 aneurisms
 anezeh
 anfract
