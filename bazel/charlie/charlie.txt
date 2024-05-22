@@ -29370,7 +29370,6 @@ cholane
 cryptovalency
 cryptovolcanism
 cryptoxanthin
-cryptozygy
 cryptozygosity
 cryptozygous
 chorographic
@@ -30128,6 +30127,7 @@ cruciation
 crucible
 crucibulum
 cruciferae
+cryptozygy
 cruciferous
 crucifers
 crucify
