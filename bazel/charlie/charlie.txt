@@ -3226,7 +3226,6 @@ capitatum
 capite
 capitellar
 capitellate
-capitellum
 capitle
 compenetrate
 capito
@@ -22819,6 +22818,7 @@ consecrator
 consecratory
 consectary
 clacket
+capitellum
 cardines
 consecution
 consecutive
