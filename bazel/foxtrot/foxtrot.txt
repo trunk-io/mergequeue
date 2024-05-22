@@ -490,7 +490,6 @@ flockowner
 faky
 faking
 fakir
-fakirs
 falafel
 fraternal
 falangist
@@ -10453,6 +10452,7 @@ filchery
 fringeflower
 frictionlessly
 firsts
+fakirs
 frontispiecing
 familiarly
 frontlash
