@@ -2995,7 +2995,6 @@ cantus
 cantuta
 chicadee
 cantwise
-canuck
 canula
 canulae
 copiability
@@ -8228,6 +8227,7 @@ chainman
 courts
 chainmen
 chainomatic
+canuck
 chainon
 cultists
 chains
