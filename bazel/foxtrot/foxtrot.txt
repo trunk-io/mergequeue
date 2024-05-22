@@ -2993,7 +2993,6 @@ filamented
 feuillage
 furcation
 flyoff
-feuillants
 feuilleton
 feuilletons
 fleches
@@ -3224,6 +3223,7 @@ flightiness
 fibrositis
 frighty
 foredevised
+feuillants
 foci
 fibrospongiae
 fibrotuberculosis
