@@ -21837,7 +21837,6 @@ coneflower
 confr
 conehead
 coneine
-coneys
 comeback
 conelike
 cixiidae
@@ -29241,6 +29240,7 @@ crypto
 cryptoagnostic
 coextended
 cryptoanalysis
+coneys
 cryptoanalyst
 chandelled
 cryptoanalytically
