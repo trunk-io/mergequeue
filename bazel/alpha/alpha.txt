@@ -2476,7 +2476,6 @@ anemonol
 ackee
 ackees
 ackey
-ackeys
 argemone
 ackmen
 aluminized
@@ -8508,6 +8507,7 @@ alkalinized
 alkalinizes
 acrolith
 antilog
+ackeys
 alkalinizing
 avogram
 anticausotic
