@@ -1731,7 +1731,6 @@ accts
 aventail
 accubation
 amphicentric
-accubita
 accubitum
 accubitus
 accueil
@@ -3039,6 +3038,7 @@ atropism
 actinide
 archenteron
 actinides
+accubita
 actinidia
 aristarchy
 actinidiaceae
