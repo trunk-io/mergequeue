@@ -4365,7 +4365,6 @@ beaverskin
 bassarisk
 beaverteen
 bared
-beaverwood
 beback
 bebay
 bebait
@@ -10979,6 +10978,7 @@ blindfish
 blindfishes
 bluelegs
 blindfolded
+beaverwood
 blunts
 blindfoldedly
 butterbush
