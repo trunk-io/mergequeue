@@ -18260,7 +18260,6 @@ aquanauts
 abdicated
 agerasia
 autoscience
-allegator
 arrondi
 aerogenic
 aquaplane
@@ -25303,6 +25302,7 @@ antithermin
 actuate
 azofication
 aspirates
+allegator
 azoformamide
 azogallein
 azogrenadine
