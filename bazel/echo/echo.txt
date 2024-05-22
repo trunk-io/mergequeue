@@ -4114,6 +4114,7 @@ egotistical
 entries
 emplaced
 emplanement
+entorganism
 entoilment
 endoute
 emplanes
@@ -6944,7 +6945,6 @@ entoptically
 engraff
 entoptics
 entoptoscopic
-entorganism
 evangelicality
 enjoyableness
 entosphenal
