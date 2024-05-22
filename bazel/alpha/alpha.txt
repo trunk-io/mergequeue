@@ -8332,7 +8332,6 @@ amenity
 ablegation
 alif
 alife
-aliferous
 aplanat
 aliform
 adumbrates
@@ -14391,6 +14390,7 @@ anthine
 amnesic
 anthypnotic
 anthypophoretic
+aliferous
 anthocarp
 anthocarpous
 agues
