@@ -6357,7 +6357,6 @@ ethmoids
 ensient
 ensiform
 ensign
-electroplaque
 entranceway
 ensignry
 eviscerate
@@ -9514,6 +9513,7 @@ endoss
 escapology
 escarbuncle
 exhibiting
+electroplaque
 enfetter
 escarole
 escaroles
