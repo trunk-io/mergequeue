@@ -1207,7 +1207,6 @@ bakelite
 bakelize
 bakemeats
 backslash
-bakeout
 bakeoven
 bimillenniums
 baker
@@ -9789,6 +9788,7 @@ bulleting
 bisimine
 brandyman
 bushily
+bakeout
 bisymmetric
 billback
 bisymmetrical
