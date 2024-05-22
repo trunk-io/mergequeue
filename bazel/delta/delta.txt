@@ -2788,7 +2788,6 @@ decortication
 dematerialization
 dotlike
 diagnoses
-decorticator
 determinants
 decorticosis
 decortization
@@ -13705,6 +13704,7 @@ dissipators
 donates
 doffer
 diatomiferous
+decorticator
 diplasion
 demetrian
 dissite
