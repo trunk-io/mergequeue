@@ -4054,7 +4054,6 @@ gnathobase
 get
 gloomier
 gila
-gnomological
 gearksutite
 gilaki
 gilbert
@@ -7360,6 +7359,7 @@ gotiglacial
 gastrula
 grudgekin
 guesstimated
+gnomological
 gangliitis
 gimbawawed
 gonia
