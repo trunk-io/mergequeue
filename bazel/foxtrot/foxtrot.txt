@@ -2397,6 +2397,7 @@ fumarolic
 foreimagine
 fconvert
 fs
+frondlet
 feoffer
 fiberous
 fenester
@@ -10387,7 +10388,6 @@ fortiori
 fearers
 flexible
 frondless
-frondlet
 frondose
 frictionable
 factful
