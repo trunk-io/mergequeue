@@ -2599,7 +2599,6 @@ electrophrenic
 electropyrometer
 enthrall
 electroplater
-electropolish
 electropower
 electropsychrometer
 executioner
@@ -9786,6 +9785,7 @@ espino
 erythroplastid
 enfoil
 evilsayer
+electropolish
 esplanade
 espontoon
 errableness
