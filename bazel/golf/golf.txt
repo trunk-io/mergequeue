@@ -3128,7 +3128,6 @@ garnetz
 grands
 geomorphy
 graphiter
-gothicize
 gerbils
 gamelin
 gangliate
@@ -8022,6 +8021,7 @@ gamone
 gusted
 granola
 granolite
+gothicize
 guff
 grimily
 gulch
