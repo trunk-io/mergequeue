@@ -2695,7 +2695,6 @@ barmaster
 benzoic
 barmbrack
 barmcloth
-brither
 barmfel
 becoward
 barmote
@@ -18370,6 +18369,7 @@ bournonite
 buxus
 buz
 buzane
+brither
 bepaint
 buzukia
 buzz
