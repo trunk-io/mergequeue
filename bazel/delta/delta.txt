@@ -4886,6 +4886,7 @@ dhows
 diabantite
 demology
 dialkylic
+dt
 demon
 democratically
 demoness
@@ -8414,7 +8415,6 @@ diallage
 diallagic
 diallagite
 deadwort
-dt
 diallel
 diallelon
 dine

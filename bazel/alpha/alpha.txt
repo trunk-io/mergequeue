@@ -4194,6 +4194,7 @@ admittable
 antedate
 admittance
 admittances
+apodemal
 admittatur
 ablutions
 admitted
@@ -17229,7 +17230,6 @@ apodeipna
 apodeipnon
 apocrustic
 apodema
-apodemal
 antistes
 apodemas
 apodematal
