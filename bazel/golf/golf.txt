@@ -58,6 +58,7 @@ guardian
 gelatiniser
 gableboard
 gangue
+gravamem
 gabler
 guemal
 gables
@@ -4078,7 +4079,6 @@ giantlike
 gubbings
 grounds
 gurlet
-gravamem
 gravels
 gilds
 gildship
