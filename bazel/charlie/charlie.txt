@@ -12604,6 +12604,7 @@ chromotypographic
 chromotrope
 cockpits
 chromotropy
+collab
 chromotropic
 cradleboard
 concepts
@@ -18885,7 +18886,6 @@ colyum
 colyumist
 coliuria
 colla
-collab
 csnet
 carriageless
 collabent
