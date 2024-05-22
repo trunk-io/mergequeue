@@ -2994,6 +2994,7 @@ cantraps
 cantred
 cantrip
 cantrips
+cheapest
 coveting
 cantus
 cantuta
@@ -9496,7 +9497,6 @@ cheapening
 cheaper
 cheapery
 cycloidally
-cheapest
 cheapies
 cheaping
 cheapish
