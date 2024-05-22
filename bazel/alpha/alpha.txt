@@ -8355,7 +8355,6 @@ aligns
 aligreek
 aliyah
 aliyahaliyahs
-aliyos
 autobus
 annex
 aliyoth
@@ -23940,6 +23939,7 @@ acenaphthenyl
 anatherum
 autocatalyses
 autocatalysis
+aliyos
 autocatalyze
 autocatharsis
 afterbody
