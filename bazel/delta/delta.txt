@@ -3977,6 +3977,7 @@ delactation
 delayable
 demes
 delayer
+dunghill
 delayers
 delayful
 delaine
@@ -18228,7 +18229,6 @@ discussant
 dungeons
 dunger
 drogermen
-dunghill
 dumbfish
 doxologize
 djakarta
