@@ -5253,7 +5253,6 @@ aettekees
 aeviternal
 anatomicomedical
 af
-afterpart
 automate
 afara
 afd
@@ -22322,6 +22321,7 @@ astrogating
 agreeing
 astrogation
 advised
+afterpart
 astrogational
 astrogeny
 antiauthoritarianism
