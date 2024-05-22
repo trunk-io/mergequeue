@@ -642,7 +642,6 @@ breadnut
 bacteriologic
 bacteriologist
 bacteriologists
-bacteriopathology
 burnoose
 bacteriophages
 bacteriophagy
@@ -4900,6 +4899,7 @@ bhotiya
 bices
 branchiurous
 bate
+bacteriopathology
 bedtime
 bullpens
 beduchess
