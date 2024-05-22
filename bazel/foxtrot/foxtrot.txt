@@ -5439,6 +5439,7 @@ fletcherism
 following
 factories
 fletchers
+frontstall
 fletches
 fernambuck
 furrower
@@ -10484,7 +10485,6 @@ frontsman
 frictions
 fluxional
 frontspieces
-frontstall
 featurish
 frontwards
 fragrant
