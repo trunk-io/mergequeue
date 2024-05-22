@@ -2653,7 +2653,6 @@ gutted
 generalistic
 gromatic
 galumptious
-generaliter
 grue
 gobangs
 generalities
@@ -6556,6 +6555,7 @@ gauchest
 guaharibo
 girrock
 gratis
+generaliter
 goldenness
 glidewort
 goldenrod

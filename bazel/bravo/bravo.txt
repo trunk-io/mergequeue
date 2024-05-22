@@ -7100,7 +7100,6 @@ beslabber
 beslap
 beslave
 barks
-beslime
 beslimer
 bedsite
 beslimes
@@ -13192,6 +13191,7 @@ bilateralness
 bladders
 bromatium
 bortzes
+beslime
 britannica
 borwort
 bumper
