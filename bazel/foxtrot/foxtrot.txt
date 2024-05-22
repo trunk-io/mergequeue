@@ -4184,7 +4184,6 @@ fetus
 frayn
 foreprise
 foulmart
-florican
 frizzlers
 firefanged
 fleys
@@ -6570,6 +6569,7 @@ fleetly
 fluvioterrestrial
 felty
 fondu
+florican
 fluxation
 fluxed
 forblack

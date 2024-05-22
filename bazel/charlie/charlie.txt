@@ -22014,7 +22014,6 @@ confinement
 confinements
 confiners
 confines
-confining
 confinity
 confirmability
 chivying
@@ -22212,6 +22211,7 @@ contradistinctively
 conge
 congeal
 cafes
+confining
 chamaerrhine
 cohobation
 congealable
