@@ -10550,6 +10550,7 @@ diplocoria
 diplodia
 diplodocus
 dopant
+desperate
 diplodus
 diploe
 diploes
@@ -14978,7 +14979,6 @@ disarrangements
 doggerel
 doggerelism
 doggerelist
-desperate
 doggerelizing
 dephilosophize
 decided
