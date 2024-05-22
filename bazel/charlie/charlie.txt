@@ -16539,7 +16539,6 @@ clog
 clogdogdo
 clogged
 cruisken
-cenobium
 cloggy
 cucumbers
 cloggier
@@ -18256,6 +18255,7 @@ coffeepot
 coffeepots
 coffeeroom
 coffees
+cenobium
 counterview
 continuant
 coffeetime
