@@ -9925,7 +9925,6 @@ bisubstituted
 bisubstitution
 bisulc
 bubblebow
-bisulfate
 bisulfide
 buries
 bit
@@ -15105,6 +15104,7 @@ buckbean
 briard
 bromoaurate
 briards
+bisulfate
 baxterianism
 briarean
 biochemists
