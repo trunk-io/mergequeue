@@ -10228,7 +10228,6 @@ chewbark
 capsa
 coadjutive
 cabining
-chewed
 chewer
 chewers
 chewet
@@ -15592,6 +15591,7 @@ claromontane
 claros
 chemotaxis
 clarre
+chewed
 clarseach
 clarsech
 censused
