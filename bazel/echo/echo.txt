@@ -3894,7 +3894,6 @@ emissile
 entodermic
 enalid
 epiglottis
-ekoi
 epitheliliums
 emissive
 emissivity
@@ -6170,6 +6169,7 @@ epimerite
 effuses
 espichellite
 eurythermic
+ekoi
 eardrops
 enouncing
 enow
