@@ -14529,7 +14529,6 @@ cyrilla
 cyrillaceous
 cyrillian
 cyrillianism
-cyrillic
 centrechinoida
 caryatidean
 cannot
@@ -24001,6 +24000,7 @@ chrisroot
 convey
 conveyable
 comps
+cyrillic
 conveyance
 conveyances
 conveyed
