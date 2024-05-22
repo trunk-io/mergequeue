@@ -11857,7 +11857,6 @@ colpohysterotomy
 chondrosin
 conopid
 chondrosis
-chondrostean
 chondrostei
 cytosine
 chondrosternal
@@ -25940,6 +25939,7 @@ corseting
 corsetry
 continuative
 corsets
+chondrostean
 contra
 chopboat
 corsy
