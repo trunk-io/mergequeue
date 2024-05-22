@@ -4192,7 +4192,6 @@ fronton
 fuchsins
 flouse
 feverweed
-firehouse
 fallotomy
 fluff
 firelight
@@ -10524,6 +10523,7 @@ folkvangr
 foxfinger
 felsosphaerite
 frostroot
+firehouse
 fanwork
 frillery
 frot

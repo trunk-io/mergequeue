@@ -7227,7 +7227,6 @@ gent
 ginsengs
 gladstonian
 gorsebird
-gibbsite
 glazed
 gharri
 globy
@@ -10107,6 +10106,7 @@ gavelled
 guffawing
 graustark
 guffer
+gibbsite
 guffs
 glaziers
 gugal
