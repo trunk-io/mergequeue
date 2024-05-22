@@ -1100,7 +1100,6 @@ abulias
 accolent
 armaturing
 apt
-abumbrellar
 anjan
 albertustaler
 abuna
@@ -9667,6 +9666,7 @@ aluminosis
 aluminothermy
 acrotarsial
 aluminothermics
+abumbrellar
 alumins
 aluminums
 alohas
