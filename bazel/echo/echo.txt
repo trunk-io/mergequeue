@@ -7162,7 +7162,6 @@ enwheels
 enwinding
 enwinds
 elemis
-enumerable
 earaches
 enwing
 enwoman
@@ -8154,6 +8153,7 @@ enew
 episcia
 episclera
 episcleral
+enumerable
 episcopacy
 expensilation
 ensanguined
