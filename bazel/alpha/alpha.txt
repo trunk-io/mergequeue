@@ -1891,7 +1891,6 @@ acer
 aceraceous
 acerae
 acerate
-acerated
 acerathere
 aceratherium
 acerbate
@@ -12730,6 +12729,7 @@ awed
 angerless
 angerly
 angerona
+acerated
 angeronalia
 angers
 angetenar
