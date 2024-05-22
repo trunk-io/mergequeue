@@ -3846,6 +3846,7 @@ battues
 batture
 baldling
 battuta
+bielded
 biocontrol
 battute
 bunkos
@@ -7589,7 +7590,6 @@ bilocation
 bettering
 betterly
 betterment
-bielded
 butterroot
 brigantinebrigantines
 betterments

@@ -7103,6 +7103,7 @@ centesimi
 centesimo
 centesimos
 centesis
+corrugation
 chicaned
 connotational
 centesm
@@ -25860,7 +25861,6 @@ corrugate
 corrugated
 corrugates
 corrugating
-corrugation
 corrugator
 cadelle
 coir
