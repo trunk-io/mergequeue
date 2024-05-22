@@ -7463,6 +7463,7 @@ daintihood
 derive
 detrusion
 detrusor
+dregs
 detubation
 detumescence
 detune
@@ -16983,7 +16984,6 @@ dreggier
 dreggiest
 dreggily
 disjoined
-dregs
 dreidels
 dislade
 dreyfusism
