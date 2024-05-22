@@ -1485,6 +1485,7 @@ fairtime
 faubourg
 fantasie
 faubourgs
+foreglance
 faucals
 faucitis
 faucre
@@ -5572,7 +5573,6 @@ flighty
 fascinations
 flutebird
 flightier
-foreglance
 foster
 flightily
 flightless
