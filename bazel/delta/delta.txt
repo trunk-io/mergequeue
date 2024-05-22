@@ -12998,7 +12998,6 @@ dispel
 dory
 decampment
 dispelled
-diaphanous
 dispelling
 dorsimedian
 dispels
@@ -16877,6 +16876,7 @@ drawspring
 dispersible
 divergingly
 dromedaries
+diaphanous
 dribbet
 dinoceratid
 drawstrings
