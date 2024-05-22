@@ -383,6 +383,7 @@ bullocky
 beri
 beneception
 backie
+bold
 backiebird
 backing
 bangiales
@@ -12148,7 +12149,6 @@ builtin
 bolases
 bartsia
 bolboxalis
-bold
 boldacious
 bolden
 bolder
