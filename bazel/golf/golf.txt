@@ -712,7 +712,6 @@ gallows
 giterne
 gonyoncus
 graduale
-gunfires
 gelosine
 galls
 gallup
@@ -1235,6 +1234,7 @@ gaper
 generalizable
 gothic
 grinned
+gunfires
 guejarite
 gapeworms
 gutturalize
