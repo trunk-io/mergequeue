@@ -4234,7 +4234,6 @@ emptyhearted
 excitableness
 emptying
 emptiness
-emptio
 emption
 emptor
 encipher
@@ -12806,6 +12805,7 @@ exossate
 exostoses
 extorting
 expunger
+emptio
 epeiridae
 endoproct
 enhydris
