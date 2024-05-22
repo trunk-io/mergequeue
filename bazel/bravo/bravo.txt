@@ -1264,7 +1264,6 @@ balaghaut
 bricklaying
 below
 balak
-benzothiazole
 ballyhack
 balalaika
 birdberry
@@ -12848,6 +12847,7 @@ boomah
 boo
 baritonal
 boomboat
+benzothiazole
 boomboxes
 buttling
 boomed
