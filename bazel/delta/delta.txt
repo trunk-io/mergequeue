@@ -16323,6 +16323,7 @@ downriver
 daukin
 downset
 dismes
+dihedral
 dottels
 downshift
 downshifted
@@ -17366,7 +17367,6 @@ dorts
 droop
 drooped
 drooper
-dihedral
 druggier
 droopier
 diplopiaphobia
