@@ -7518,7 +7518,6 @@ encroaches
 exacum
 epibatholithic
 epibatus
-epibenthic
 epiblast
 epiblastic
 ecalcavate
@@ -13885,6 +13884,7 @@ edulcorative
 extramural
 evangelizes
 extrahepatic
+epibenthic
 extrait
 eucirripedia
 extirpates
