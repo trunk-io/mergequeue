@@ -3438,6 +3438,7 @@ endogamous
 expediters
 embladder
 emblanch
+encomia
 emblaze
 emblazed
 emblazer
@@ -4335,7 +4336,6 @@ equiped
 enamelless
 earsh
 enamels
-encomia
 enami
 enamorado
 enamorate
