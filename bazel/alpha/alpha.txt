@@ -4294,7 +4294,6 @@ adopt
 adoptability
 adoptabilities
 adoptable
-adoptant
 adjag
 appleberry
 armorers
@@ -16673,6 +16672,7 @@ apanaged
 alouatta
 apanaging
 achroodextrin
+adoptant
 apandry
 atoll
 apanteles
