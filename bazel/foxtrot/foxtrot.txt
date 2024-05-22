@@ -1857,7 +1857,6 @@ fougue
 fleshless
 feloid
 febrile
-fluidizer
 febrility
 febriphobia
 februarius
@@ -8582,6 +8581,7 @@ facetiously
 farmplace
 forrad
 finnoc
+fluidizer
 forrader
 forrard
 forensical
