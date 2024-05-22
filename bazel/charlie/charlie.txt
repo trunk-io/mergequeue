@@ -9238,6 +9238,7 @@ chase
 chaseable
 chased
 corbeilles
+crannoger
 chronobarometer
 chasers
 chases
@@ -28232,7 +28233,6 @@ crannies
 crannying
 compiler
 crannock
-crannoger
 carvomenthene
 cockscomb
 calabrese
