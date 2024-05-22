@@ -2337,7 +2337,6 @@ byp
 barbequed
 barber
 bizet
-backrest
 barbera
 barbered
 betokened
@@ -4189,6 +4188,7 @@ boondoggles
 behalves
 bearbaiter
 bedmaking
+backrest
 blearedness
 bearbane
 bearberry
