@@ -14284,7 +14284,6 @@ admissible
 adulterous
 anterodorsal
 aedeagal
-anteroexternal
 anterofixation
 autobahns
 allomorph
@@ -15426,6 +15425,7 @@ antikamnia
 antikathode
 antikenotoxin
 aborning
+anteroexternal
 abwatt
 antiketogenesis
 actinobranchia
