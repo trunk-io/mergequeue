@@ -2913,6 +2913,7 @@ barrelage
 barreled
 barreleyes
 belap
+bellona
 barrelet
 barrelfish
 barrelfishes
@@ -4470,7 +4471,6 @@ bechance
 bechanced
 banana
 becharmed
-bellona
 bromhydric
 bechase
 bechatter
