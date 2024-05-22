@@ -3849,6 +3849,7 @@ easiness
 extrabulbar
 excludible
 exemplarily
+exscriptural
 engladden
 emforth
 emic
@@ -13491,7 +13492,6 @@ entailers
 earthpea
 exscissor
 exscript
-exscriptural
 exsculptate
 exscutellate
 electromedical
