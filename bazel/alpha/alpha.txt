@@ -3483,6 +3483,7 @@ adcon
 afforded
 adcons
 autopticity
+applied
 anchorer
 admires
 adcraft
@@ -15200,7 +15201,6 @@ antidrug
 anemotropic
 antidumping
 artificialize
-applied
 antiecclesiastic
 antiecclesiastical
 assagaied
