@@ -11222,6 +11222,7 @@ bloodnoun
 bloodred
 bump
 bespit
+baldachined
 bloodroot
 bloodshed
 bloodshedder
@@ -15725,7 +15726,6 @@ broggerite
 brogue
 basiparachromatin
 broguer
-baldachined
 blessedly
 brogueries
 boraces
