@@ -5106,7 +5106,6 @@ denaturing
 duplicand
 diminishingturns
 denaturise
-denaturised
 duodiode
 denaturising
 discommodious
@@ -16537,6 +16536,7 @@ drafted
 draftee
 draftees
 drafter
+denaturised
 dethroning
 draftier
 draftiest
