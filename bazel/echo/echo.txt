@@ -4609,7 +4609,6 @@ endocranium
 enchiladas
 equinities
 extolment
-enchyma
 equalized
 exanthemata
 elling
@@ -12715,6 +12714,7 @@ exopathic
 evocators
 energizing
 exophasic
+enchyma
 exophoria
 exophthalmia
 exophthalmus
