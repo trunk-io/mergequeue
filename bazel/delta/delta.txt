@@ -5667,7 +5667,6 @@ depermed
 deperms
 depersonalise
 depersonalising
-depersonalized
 denudated
 dacelo
 defrauded
@@ -14302,6 +14301,7 @@ diuturnity
 diva
 divagated
 divagates
+depersonalized
 diphthongal
 disillusionizer
 divagationally
