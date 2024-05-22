@@ -1471,7 +1471,6 @@ electroshocks
 effume
 effund
 empathic
-effused
 enthalpy
 espiegle
 endosmometer
@@ -13938,6 +13937,7 @@ embryogenic
 electrolytical
 evaporable
 extraovate
+effused
 epistomata
 entoire
 extraovular
