@@ -706,6 +706,7 @@ baculiticone
 baculoid
 baculus
 bacury
+ballote
 bad
 badaga
 badan
@@ -8331,7 +8332,6 @@ brontophobia
 banishes
 byeman
 bleezy
-ballote
 bienly
 bienne
 bienness
