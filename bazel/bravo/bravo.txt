@@ -2954,7 +2954,6 @@ bailed
 barricaded
 baryes
 barricaders
-bedplates
 barricado
 bigothero
 barricadoes
@@ -17629,6 +17628,7 @@ bello
 burghbote
 burgher
 burgherage
+bedplates
 beguine
 blowtubes
 brawniness
