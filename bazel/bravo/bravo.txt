@@ -1082,6 +1082,7 @@ bailments
 birks
 bailo
 bailor
+boxman
 babyhouse
 behowling
 bailors
@@ -13947,7 +13948,6 @@ boxy
 boxing
 boxmaker
 bicycloheptane
-boxman
 boxroom
 boxthorn
 backstage
