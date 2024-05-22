@@ -3861,7 +3861,6 @@ eavesdrip
 endometry
 emigrants
 emigrates
-emigrating
 empowering
 executers
 emigres
@@ -5285,6 +5284,7 @@ equisegmented
 endostea
 embroiderers
 epiphyte
+emigrating
 estrangement
 endosteitis
 endosteoma

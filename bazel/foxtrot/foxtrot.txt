@@ -4915,7 +4915,6 @@ flamer
 flamers
 flubbing
 fluviomarine
-fallback
 flamethrowers
 frankpledge
 fraternity
@@ -10404,6 +10403,7 @@ flatmate
 footgeld
 firs
 frontals
+fallback
 frontbencher
 frontcourt
 fortune
