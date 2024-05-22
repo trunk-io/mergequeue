@@ -2096,6 +2096,7 @@ feldspathoid
 foys
 feldspathoidal
 franca
+fractural
 flocky
 fele
 frijol
@@ -5154,7 +5155,6 @@ featurally
 fistulization
 founce
 flapperish
-fractural
 flappier
 flaunty
 flatlet
