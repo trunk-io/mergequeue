@@ -3865,7 +3865,6 @@ giblets
 giboia
 goyle
 gibsons
-gibstaff
 galeche
 gavelage
 gibuses
@@ -10522,6 +10521,7 @@ gunja
 gunjah
 gona
 gunk
+gibstaff
 gunkholed
 geronomite
 grandiosely
