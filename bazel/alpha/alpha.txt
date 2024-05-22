@@ -1960,6 +1960,7 @@ acetamidine
 acetaminol
 acetaminophen
 acetanilid
+alveolary
 annard
 acetanilide
 acetaniside
@@ -13932,7 +13933,6 @@ anotus
 anounou
 anour
 asher
-alveolary
 anous
 anova
 anovesical
