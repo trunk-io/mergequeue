@@ -7583,7 +7583,6 @@ forecover
 fishify
 freeholding
 forelegs
-flees
 fulmen
 farmhands
 furuncles
@@ -8224,6 +8223,7 @@ forgave
 fiberless
 forge
 forgeable
+flees
 forgery
 forges
 flunkeyistic

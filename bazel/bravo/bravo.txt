@@ -3395,7 +3395,6 @@ bargham
 basophilia
 bushel
 bottlesful
-basophilic
 basques
 bass
 bassa
@@ -16166,6 +16165,7 @@ bryologies
 brouhaha
 bandlessness
 brouhahas
+basophilic
 brouille
 brouillon
 broussonetia
