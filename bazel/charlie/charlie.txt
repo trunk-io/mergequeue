@@ -5963,7 +5963,6 @@ cathodes
 cathodic
 cuckstool
 cathodical
-cathodically
 cathodograph
 cardioschisis
 cathodography
@@ -31161,6 +31160,7 @@ cuprobismutite
 cytherella
 corrosive
 cuproiodargyrite
+cathodically
 chalque
 cuproplumbite
 cuproscheelite

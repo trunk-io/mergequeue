@@ -2272,7 +2272,6 @@ actinal
 aperistalsis
 abattue
 achromate
-achromatic
 achromatically
 alectoromorphae
 achromaticity
@@ -17047,6 +17046,7 @@ apioidal
 apiol
 anisated
 astite
+achromatic
 apiole
 apiologist
 apyonin
