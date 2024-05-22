@@ -20551,7 +20551,6 @@ accentless
 arteriosympathectomy
 airfreight
 arteriospasm
-arteriostenosis
 admix
 arteriotomy
 arteriotrepsis
@@ -25320,6 +25319,7 @@ azon
 azonaphthalene
 azons
 architraves
+arteriostenosis
 azoparaffin
 antisplitting
 aunt
