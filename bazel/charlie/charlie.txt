@@ -11914,6 +11914,7 @@ chopins
 choplogic
 choplogical
 chopped
+cyclonal
 choregi
 cryptomonad
 candider
@@ -13410,7 +13411,6 @@ cyclometric
 corytuberine
 contributes
 cyclomyaria
-cyclonal
 cyclone
 cyclonic
 chorionic
