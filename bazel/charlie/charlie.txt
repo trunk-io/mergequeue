@@ -12071,7 +12071,6 @@ chorisepalous
 chorisis
 chorism
 chorist
-characetum
 chassis
 choristate
 chorister
@@ -19157,6 +19156,7 @@ collocative
 collock
 compartmentalizes
 collocution
+characetum
 collocutor
 collodion
 collodionization
