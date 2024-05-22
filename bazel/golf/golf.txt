@@ -1357,6 +1357,7 @@ gardenia
 gundeck
 giftlike
 gaonate
+graphophobia
 gardenless
 gardenlike
 gardenmaking
@@ -4763,7 +4764,6 @@ girondin
 glyoxime
 gentrice
 gironny
-graphophobia
 gyronny
 gyrophoraceous
 gordiidae
