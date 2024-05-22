@@ -10957,7 +10957,6 @@ flavorful
 fulltime
 frescoes
 fulmar
-fulminant
 flighthead
 flame
 fripper
@@ -11374,6 +11373,7 @@ furied
 filthy
 falconry
 formalith
+fulminant
 freebooted
 fulvene
 furify
