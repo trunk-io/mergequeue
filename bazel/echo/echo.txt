@@ -751,6 +751,7 @@ ecotones
 emotive
 ecoute
 ecphorable
+excitative
 ecphore
 ecphoria
 emotes
@@ -12725,7 +12726,6 @@ exopod
 exopodite
 exopterygote
 exopterygotism
-excitative
 epha
 extol
 explodent
