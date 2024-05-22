@@ -25461,7 +25461,6 @@ cornrick
 cornrow
 cornrows
 corns
-cornstalks
 curvinervate
 crawler
 caviares
@@ -27806,6 +27805,7 @@ chokeable
 coxy
 creeper
 coxier
+cornstalks
 coxiest
 coxing
 chondrogeny
