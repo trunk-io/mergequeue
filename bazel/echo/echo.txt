@@ -4888,6 +4888,7 @@ end
 enterocoelic
 endable
 endamage
+eudiometer
 endamagement
 endamages
 extund
@@ -12707,7 +12708,6 @@ electrowin
 ergastoplasmic
 exonian
 entrapping
-eudiometer
 elmer
 everbearer
 exonym
