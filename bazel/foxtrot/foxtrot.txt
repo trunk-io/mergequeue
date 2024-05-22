@@ -1461,7 +1461,6 @@ fattier
 featherweight
 fatties
 fattiness
-funis
 fiftyfold
 fattishness
 fattrels
@@ -10764,6 +10763,7 @@ fumatorium
 firebed
 frusla
 frustrated
+funis
 frustrates
 fellies
 foldboat
