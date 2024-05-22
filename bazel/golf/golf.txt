@@ -6358,7 +6358,6 @@ ghostiest
 genitourinary
 galvanometry
 gobble
-gobbled
 gobbledygook
 gelatinised
 guatambu
@@ -10611,6 +10610,7 @@ gunstocker
 glycyphyllin
 gunstone
 gunter
+gobbled
 gird
 gyascutus
 gyrostachys
