@@ -18262,7 +18262,6 @@ coffered
 chaetophorales
 cephalotome
 coombe
-cofferer
 cofferfish
 coffering
 cancerite
@@ -20798,6 +20797,7 @@ complotter
 complotting
 complutensian
 clonuses
+cofferer
 cartelized
 coeducate
 compo
