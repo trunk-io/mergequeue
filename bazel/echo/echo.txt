@@ -491,7 +491,6 @@ ecgonin
 ecgonine
 exarchs
 emballonurid
-exophoric
 echappe
 echappee
 eumerogenesis
@@ -6346,6 +6345,7 @@ enshield
 eprouvette
 enumerating
 enshielding
+exophoric
 enshrined
 enshrinement
 exornation
