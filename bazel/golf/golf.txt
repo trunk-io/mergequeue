@@ -486,7 +486,6 @@ gleesomely
 galeod
 genyoplasty
 galeodes
-gnapweed
 glossoncus
 galeorchis
 gospelize
@@ -1334,6 +1333,7 @@ garboard
 gesticulator
 ged
 garbologist
+gnapweed
 gimlety
 garce
 geoaesthesia
