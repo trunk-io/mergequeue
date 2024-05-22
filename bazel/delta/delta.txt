@@ -10984,7 +10984,6 @@ dibbler
 diasystem
 disaligned
 diipolia
-disaligning
 disalignment
 disalike
 disally
@@ -14678,6 +14677,7 @@ docetize
 divorcements
 dochmiacal
 dochmiasis
+disaligning
 dispossessor
 docibility
 docibleness
