@@ -9802,7 +9802,6 @@ espouser
 espouses
 espousing
 espressos
-espriella
 endere
 esprit
 errantries
@@ -11735,6 +11734,7 @@ exaltment
 expunge
 elvers
 exalts
+espriella
 enclasped
 examen
 elementals

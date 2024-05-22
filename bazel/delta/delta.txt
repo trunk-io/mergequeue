@@ -1732,7 +1732,6 @@ downtimes
 deathtraps
 drof
 dhunchee
-deathward
 dikaryon
 deathwatches
 docent
@@ -6012,6 +6011,7 @@ deducibleness
 doctorlike
 donators
 deprovincialize
+deathward
 debord
 depsid
 dragons
