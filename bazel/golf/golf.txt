@@ -3611,6 +3611,7 @@ gnomonology
 goyazite
 glutinant
 glunched
+gores
 gluttonized
 glueing
 gez
@@ -7131,7 +7132,6 @@ gulfing
 gorebill
 gearboxes
 gored
-gores
 gorfly
 gastrotaxis
 ganancial
