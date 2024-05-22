@@ -1674,6 +1674,7 @@ accouterment
 acemetic
 attouchement
 accouters
+amyloplast
 accoutre
 attire
 appurtenances
@@ -10631,7 +10632,6 @@ amylom
 amylometer
 amylopectin
 amylophagia
-amyloplast
 appertaining
 archilochian
 amyloplastic
