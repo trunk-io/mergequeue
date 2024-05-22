@@ -2665,7 +2665,6 @@ epithelioma
 electrotellurograph
 exogens
 electrotherapeutical
-electrotherapeutist
 edaphodont
 electrotherapy
 electrotherapist
@@ -4530,6 +4529,7 @@ erucin
 encephalomyelopathy
 encephalomyocarditis
 enactive
+electrotherapeutist
 encephalopathy
 euryalae
 ervenholder
