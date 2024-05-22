@@ -130,6 +130,7 @@ gilsonite
 gifted
 grosz
 goatfish
+glycol
 genupectoral
 gadroon
 graped
@@ -5399,7 +5400,6 @@ glycogenolytic
 gammaroid
 gingals
 guttulous
-glycol
 glycolaldehyde
 goback
 gayals
