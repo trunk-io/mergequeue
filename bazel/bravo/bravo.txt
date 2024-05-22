@@ -12354,6 +12354,7 @@ bombline
 bombardo
 bowdrill
 bombast
+bullrings
 buglers
 bandurrias
 bezzi
@@ -17216,7 +17217,6 @@ bushpig
 bullpup
 bullragged
 bullragging
-bullrings
 bullrush
 bijouterie
 bullrushes
