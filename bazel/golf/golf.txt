@@ -571,7 +571,6 @@ glimpsed
 gannetry
 galleon
 galleons
-galler
 gallera
 getters
 gritten
@@ -7089,6 +7088,7 @@ gambrels
 gillnet
 gootee
 gopak
+galler
 gopherberry
 glossate
 gowdy
