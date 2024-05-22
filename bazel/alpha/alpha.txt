@@ -5380,7 +5380,6 @@ achaetous
 assisan
 assonantal
 affirmant
-affirmation
 anchoretish
 amidoxime
 affirmations
@@ -23600,6 +23599,7 @@ auriculidae
 auriculocranial
 apios
 auriculoid
+affirmation
 amphisile
 auriculoparietal
 auriculotemporal
