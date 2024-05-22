@@ -1423,7 +1423,6 @@ greenalite
 garbling
 garlandry
 galvanist
-garlic
 glycolylurea
 garliclike
 geoside
@@ -7588,6 +7587,7 @@ gracilis
 grillage
 glycolytically
 gracility
+garlic
 groupage
 gracing
 greyly
