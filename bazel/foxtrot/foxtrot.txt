@@ -6138,6 +6138,7 @@ floury
 federarie
 flourish
 flourishes
+fibdom
 fermion
 federal
 foully
@@ -11728,7 +11729,6 @@ futurologist
 futurologists
 filibustered
 futwa
-fibdom
 fuzed
 fingerboard
 floramor
