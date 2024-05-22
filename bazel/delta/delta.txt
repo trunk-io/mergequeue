@@ -13013,7 +13013,6 @@ dispelling
 dorsimedian
 dispels
 decliners
-direly
 dispend
 digitizer
 dinotheres
@@ -18108,6 +18107,7 @@ demagnetize
 dumbwaiter
 dumdum
 dumdums
+direly
 dumetose
 dumfounded
 dahlia
