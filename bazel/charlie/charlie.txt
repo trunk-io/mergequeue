@@ -7859,7 +7859,6 @@ ceruse
 celtically
 cerusite
 cerusites
-cerussite
 cervalet
 centaurid
 cervantic
@@ -31877,6 +31876,7 @@ cuttlefish
 calamitous
 cuttlefishes
 cuttler
+cerussite
 campanilla
 cytoglobulin
 cuttles
