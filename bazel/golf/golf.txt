@@ -7783,7 +7783,6 @@ ganoin
 gramary
 geranic
 gramarye
-gramaries
 gramaryes
 gramas
 goosebird
@@ -8556,6 +8555,7 @@ gantlines
 garlicmonger
 gozzard
 goldfielder
+gramaries
 guttered
 gladdy
 greaseproof
