@@ -17323,7 +17323,6 @@ coarsening
 coarsens
 coarser
 commelinaceae
-coarsest
 crureus
 coarticulate
 coarticulation
@@ -24644,6 +24643,7 @@ copious
 copiousness
 cloners
 copyread
+coarsest
 copyreader
 copyreaders
 copyreading
