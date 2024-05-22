@@ -2227,7 +2227,6 @@ foretypified
 forestate
 felspath
 felstone
-felstones
 framers
 forewinning
 felt
@@ -6331,6 +6330,7 @@ flickerproof
 flintlocks
 finned
 funori
+felstones
 fribblery
 fettling
 focometer
