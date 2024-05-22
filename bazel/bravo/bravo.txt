@@ -1622,7 +1622,6 @@ ballonne
 bandsmen
 bimaculate
 ballonnes
-balloon
 ballooners
 bacaba
 bootleggers
@@ -17932,6 +17931,7 @@ biotechnology
 bookplate
 bushelling
 bushelman
+balloon
 bushelmen
 bailies
 bargestone
