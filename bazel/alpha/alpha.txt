@@ -3045,6 +3045,7 @@ archenteron
 actinides
 actinidia
 aristarchy
+aphidicolous
 actinidiaceae
 annualist
 actiniferous
@@ -17359,7 +17360,6 @@ amoebiasis
 apomecometer
 absentment
 apomecometry
-aphidicolous
 apometabolic
 apomict
 apomictical
