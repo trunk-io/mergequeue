@@ -3597,6 +3597,7 @@ bathyesthesia
 belatticed
 bathyhyperesthesia
 bathyhypesthesia
+belating
 binode
 blonds
 bathylithic
@@ -5728,7 +5729,6 @@ blarina
 belate
 bandura
 belated
-belating
 belaud
 belauded
 balt
