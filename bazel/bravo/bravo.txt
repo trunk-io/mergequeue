@@ -14071,7 +14071,6 @@ brachinus
 brachiocephalic
 brombenzyl
 burkites
-brachiocyllosis
 brachiocubital
 balau
 branchy
@@ -17202,6 +17201,7 @@ benzthiophen
 bloodripe
 bullnose
 bullnoses
+brachiocyllosis
 bullnut
 bullock
 bullocker
