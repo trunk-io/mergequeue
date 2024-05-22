@@ -3051,7 +3051,6 @@ actiniform
 actiniomorpha
 actinisms
 anesthetist
-actinium
 actiniums
 actinobaccilli
 actinobacillosis
@@ -15045,6 +15044,7 @@ anticonformity
 amidohexose
 anticonformities
 avyayibhava
+actinium
 asellidae
 anticonscription
 avicular
