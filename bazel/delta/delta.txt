@@ -1626,7 +1626,6 @@ deallocate
 deallocated
 daunter
 deallocates
-defeat
 deallocating
 deresinize
 deallocation
@@ -8786,6 +8785,7 @@ diazin
 deuterodome
 diazines
 diazins
+defeat
 diazo
 drinkable
 decke
