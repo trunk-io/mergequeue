@@ -4572,7 +4572,6 @@ epidemiologies
 enchanting
 englante
 expel
-enchantress
 enam
 encharging
 enchased
@@ -5832,6 +5831,7 @@ enhancements
 enhancers
 enhancing
 enharbour
+enchantress
 empanelled
 enharden
 eurytopicity
