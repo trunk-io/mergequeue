@@ -5239,6 +5239,7 @@ cassatas
 cassation
 casse
 caveats
+cerin
 cassegrain
 chromomeric
 counterrotating
@@ -10253,7 +10254,6 @@ codworm
 chia
 chiack
 chyack
-cerin
 chyak
 cowpea
 chian
