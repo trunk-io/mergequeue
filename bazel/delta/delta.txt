@@ -2694,7 +2694,6 @@ decompoundly
 decompress
 dibble
 decompresses
-decompressing
 dianthus
 detectaphone
 delphinium
@@ -10599,6 +10598,7 @@ diplomatists
 discogastrula
 diplomatology
 diauli
+decompressing
 diplomats
 deashed
 dysporomorph
