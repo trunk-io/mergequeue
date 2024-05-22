@@ -5833,7 +5833,6 @@ floatman
 floatsman
 feculency
 flypapers
-floatsmen
 floatstone
 forestem
 flob
@@ -7535,6 +7534,7 @@ foreboom
 fangotherapy
 filterers
 farceur
+floatsmen
 forebrace
 forestaff
 fizzling
