@@ -5519,7 +5519,6 @@ euhemerizing
 englifier
 experimentarian
 etherlike
-enheritance
 enfeoffing
 episcopant
 enfeoffment
@@ -8220,6 +8219,7 @@ empowered
 episiostenosis
 episiotomy
 epicondylitis
+enheritance
 episiotomies
 episkeletal
 episodial
