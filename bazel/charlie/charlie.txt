@@ -2946,7 +2946,6 @@ casuarinaceous
 cantina
 canting
 cantingly
-cantingness
 contango
 clairschach
 cantino
@@ -4781,6 +4780,7 @@ catalase
 carpospore
 carposporous
 carps
+cantingness
 carpsucker
 cavalierish
 carpus

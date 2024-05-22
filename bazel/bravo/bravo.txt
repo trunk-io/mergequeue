@@ -7227,6 +7227,7 @@ bogie
 besped
 beaugregories
 becalmed
+boatbuilding
 bespell
 bespelled
 bigoted
@@ -11670,7 +11671,6 @@ bacterioscopical
 barspoon
 byres
 brutality
-boatbuilding
 boatel
 boatheader
 boathook
