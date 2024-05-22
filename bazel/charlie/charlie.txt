@@ -13545,6 +13545,7 @@ cydonian
 cydonium
 cie
 cienega
+constableship
 cierge
 cierzo
 cierzos
@@ -23111,7 +23112,6 @@ constablery
 chevon
 cowgate
 chkalik
-constableship
 constabless
 corymbs
 constablewick
