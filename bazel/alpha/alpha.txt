@@ -3677,7 +3677,6 @@ adenylic
 avichi
 adenine
 adenitis
-adenitises
 adenization
 adenoacanthoma
 adenocarcinoma
@@ -12575,6 +12574,7 @@ anepigraphic
 aflaunt
 anepigraphous
 anepiploic
+adenitises
 amorists
 anepithymia
 anerethisia
