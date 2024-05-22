@@ -2257,6 +2257,7 @@ gaedown
 gigunu
 geckoes
 geckoid
+groundwall
 germina
 ganophyllite
 glucolipide
@@ -9453,7 +9454,6 @@ gramp
 glossographical
 groundswells
 germaneness
-groundwall
 grange
 granularity
 glaciaria
