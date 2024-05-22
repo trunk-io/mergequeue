@@ -10348,6 +10348,7 @@ blacksnake
 blackstick
 bouillone
 baneful
+buffcoat
 bliaut
 ballsy
 blacktongue
@@ -15525,7 +15526,6 @@ bristlecone
 birdman
 bombproof
 bristled
-buffcoat
 biopsychical
 bromacetanilide
 bristleless

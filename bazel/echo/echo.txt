@@ -2600,6 +2600,7 @@ electroplater
 electropolish
 electropower
 electropsychrometer
+etyma
 executioner
 excitably
 egotisticalness
@@ -10108,7 +10109,6 @@ esurine
 etageres
 etalage
 endamnify
-etyma
 etamins
 etang
 etape
