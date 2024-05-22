@@ -6390,7 +6390,6 @@ cavalcading
 cavalero
 cardinalist
 cavalier
-cavaliere
 choregic
 cation
 cooked
@@ -9779,6 +9778,7 @@ ciconiidae
 cheiromegaly
 colloidal
 cheiropatagium
+cavaliere
 cleanness
 churchmanship
 cheiropod
