@@ -344,7 +344,6 @@ galactolipin
 galactolysis
 galactoma
 garden
-galactometer
 grilses
 galactopathy
 gizzards
@@ -6799,6 +6798,7 @@ galactophagous
 grabbling
 goura
 glaziery
+galactometer
 gelants
 grinny
 guidebook
