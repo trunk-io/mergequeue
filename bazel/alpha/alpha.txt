@@ -8992,7 +8992,6 @@ allophones
 allophonic
 allophonically
 alloplasm
-alloplast
 alloplastic
 allopolyploidy
 allopsychic
@@ -13205,6 +13204,7 @@ animalize
 animalized
 animally
 alapa
+alloplast
 animallike
 accouterments
 adapter
