@@ -1513,7 +1513,6 @@ acclimatation
 acclimate
 absinthian
 acclimated
-acclimatement
 acclimates
 arsonite
 acclimating
@@ -23120,6 +23119,7 @@ atterr
 ascence
 attest
 attestable
+acclimatement
 amphibology
 abolla
 apoplectical
