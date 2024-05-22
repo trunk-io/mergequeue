@@ -1890,6 +1890,7 @@ feedwater
 fecundity
 falcinellus
 fecundize
+farness
 fourdrinier
 fundless
 filipendulous
@@ -4172,7 +4173,6 @@ fireclays
 faujdar
 fringilliform
 fritt
-farness
 flamingly
 feezing
 fingerwise
