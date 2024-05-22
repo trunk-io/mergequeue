@@ -8621,7 +8621,6 @@ equicohesive
 equicontinuous
 electrotherapeutic
 encompassing
-equiconvex
 egrets
 enworthy
 ergatomorph
@@ -10457,6 +10456,7 @@ ethography
 etholide
 eundem
 entropion
+equiconvex
 ethology
 ethologic
 ethologies
