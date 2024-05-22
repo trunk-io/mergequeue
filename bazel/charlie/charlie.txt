@@ -11864,7 +11864,6 @@ chondrostean
 chondrostei
 cytosine
 chondrosternal
-chondrotomy
 chondrules
 chondrus
 chonicrite
@@ -12561,6 +12560,7 @@ chromophyl
 chromophilic
 chromophobia
 chromophobic
+chondrotomy
 chromophore
 consolation
 chromophoric
