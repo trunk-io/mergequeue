@@ -26,7 +26,6 @@ gabbiness
 gunsling
 gabble
 gabbled
-gabbler
 gabblers
 glamourize
 gabbling
@@ -1784,6 +1783,7 @@ gastroepiploic
 guardants
 gonydeal
 gelated
+gabbler
 gastroesophageal
 gastrograph
 griffon
