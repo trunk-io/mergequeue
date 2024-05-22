@@ -6942,7 +6942,6 @@ entoptically
 engraff
 entoptics
 entoptoscopic
-entorganism
 evangelicality
 enjoyableness
 entosphenal
@@ -9835,6 +9834,7 @@ essayistical
 essayists
 estranged
 extraorganismal
+entorganism
 emeroid
 essancia
 endocentric
