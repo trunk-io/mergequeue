@@ -2869,7 +2869,6 @@ acrogen
 acrogenous
 ashthroat
 acrogynous
-arkosic
 acrolein
 alcaligenes
 accidies
@@ -7220,6 +7219,7 @@ akrochordite
 abietineous
 akron
 allophore
+arkosic
 akroter
 akroteria
 arithmetization
