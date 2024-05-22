@@ -317,7 +317,6 @@ bindweb
 backcountry
 boule
 backcourt
-backcourtman
 backcross
 backdated
 backdates
@@ -1748,6 +1747,7 @@ bandstands
 beneplacit
 balsaminaceous
 balsamine
+backcourtman
 balsaming
 bankside
 balsamitic
