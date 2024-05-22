@@ -12222,6 +12222,7 @@ aegirite
 anchistea
 anchithere
 anchor
+ascribe
 anchorable
 anchorages
 anchorate
@@ -21107,7 +21108,6 @@ arkoses
 ascothoracica
 ascots
 ascribable
-ascribe
 ascribed
 ascribes
 ascribing
