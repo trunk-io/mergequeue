@@ -703,7 +703,6 @@ formaldehydesulphoxylate
 famine
 famished
 faming
-fuliguline
 fired
 famishing
 famose
@@ -806,6 +805,7 @@ fango
 fangs
 fanion
 frowsy
+fuliguline
 forgedly
 flusher
 faltering
