@@ -1692,7 +1692,6 @@ federate
 fealty
 fumigates
 fluorinate
-fear
 fimbles
 finite
 fearedly
@@ -11240,6 +11239,7 @@ fistulae
 funicle
 foreday
 furthered
+fear
 funicles
 funiculars
 foiblesse
