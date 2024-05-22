@@ -8753,6 +8753,7 @@ diatomeae
 diatomic
 diatomicity
 defocusses
+doublet
 diatomine
 diatomist
 diaporesis
@@ -16024,7 +16025,6 @@ doubles
 delf
 doublets
 doublespeak
-doublet
 doubleted
 doppia
 drent
