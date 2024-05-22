@@ -11469,6 +11469,7 @@ ciboule
 chlorsalol
 chlortetracycline
 chm
+coazervation
 chmn
 chnuphis
 cho
@@ -17413,7 +17414,6 @@ cordigeri
 coaxial
 coaxing
 coazervate
-coazervation
 cheson
 cupbearer
 cobaea
