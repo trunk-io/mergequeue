@@ -7617,7 +7617,6 @@ cereals
 cerebella
 counterindoctrination
 cerebellifugal
-childbed
 cerebellipetal
 cerebellitis
 charpie
@@ -9771,6 +9770,7 @@ cheir
 cheiragra
 cimex
 chromotype
+childbed
 cheiranthus
 cheirogaleus
 cheiroglossa
