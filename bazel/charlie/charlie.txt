@@ -11531,7 +11531,6 @@ choiceful
 choiceless
 choicelessness
 choicely
-choiceness
 caryatides
 choicest
 choicy
@@ -19176,6 +19175,7 @@ colloids
 collomia
 cattan
 collop
+choiceness
 colloped
 collophane
 collophanite
