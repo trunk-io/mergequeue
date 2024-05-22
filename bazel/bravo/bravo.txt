@@ -12306,7 +12306,6 @@ bolters
 behold
 boltheading
 bolthole
-bolty
 boltin
 bolting
 boltlike
@@ -13282,6 +13281,7 @@ bosslet
 bossship
 bonnyvis
 bevellers
+bolty
 bawdiness
 beleaf
 bosniac
