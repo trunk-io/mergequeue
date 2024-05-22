@@ -17765,7 +17765,6 @@ cocopans
 cocoroot
 choup
 cocos
-cocotte
 cocottes
 cocobolo
 cocowood
@@ -26733,6 +26732,7 @@ counteralliance
 counterambush
 counterannouncement
 counteranswer
+cocotte
 counterappellant
 counterapproach
 counterapse
