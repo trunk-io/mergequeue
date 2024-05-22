@@ -5609,6 +5609,7 @@ florist
 fellowshiped
 fianchetto
 fireable
+feldspars
 flimsiness
 flinch
 flagleaf
@@ -8229,7 +8230,6 @@ fogdog
 floozie
 forgetfulness
 forgett
-feldspars
 forgettably
 forgetters
 fractionalizing
