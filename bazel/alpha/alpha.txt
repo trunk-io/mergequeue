@@ -21365,7 +21365,6 @@ askewgee
 askile
 asking
 askings
-askip
 asklent
 asklepios
 actiniohematin
@@ -24826,6 +24825,7 @@ apolitical
 avoid
 avoidable
 avoidably
+askip
 avoidance
 aimfully
 avoidant
