@@ -6181,7 +6181,6 @@ bemuddling
 backtrail
 bloodstone
 bemurmur
-bemurmure
 bemurmured
 bemurmuring
 bittier
@@ -12718,6 +12717,7 @@ boogymen
 boogum
 bourd
 boltstrake
+bemurmure
 bolshevism
 bartered
 blunderheaded
