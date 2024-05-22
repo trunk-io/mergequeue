@@ -13137,7 +13137,6 @@ elishah
 expirers
 expires
 euploidies
-expiry
 expiries
 expiring
 expiringly
@@ -13519,6 +13518,7 @@ exsibilation
 evadable
 exsiccant
 exsiccatae
+expiry
 exsiccating
 exsiccator
 embowment
