@@ -3099,6 +3099,7 @@ gallinacei
 glassed
 gurgle
 geomancer
+glycyl
 geomancy
 garnered
 gushingness
@@ -10763,7 +10764,6 @@ gutlike
 gynaecomorphous
 glossospasm
 gutsiness
-glycyl
 gutt
 guttae
 gondolet
