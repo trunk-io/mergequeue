@@ -828,7 +828,6 @@ caissons
 caite
 caitif
 charque
-caitiffs
 crams
 cayubaba
 cs
@@ -21471,6 +21470,7 @@ calcination
 cloaking
 crescive
 concoctive
+caitiffs
 contrude
 concoctor
 crowfoot
