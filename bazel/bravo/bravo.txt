@@ -3754,6 +3754,7 @@ batteaux
 bonnering
 batteling
 bascule
+berakoth
 battels
 battement
 basisolute
@@ -6676,7 +6677,6 @@ basilyst
 beraking
 banisters
 ballader
-berakoth
 bedabbled
 berascaling
 brustled
