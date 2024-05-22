@@ -5167,7 +5167,6 @@ endomitosis
 endomorphy
 endomorphic
 endoneurium
-endonucleolus
 evocatively
 equinely
 endoparasitica
@@ -12950,6 +12949,7 @@ expectingly
 expection
 evicke
 exposals
+endonucleolus
 expective
 expectorant
 expectorate
