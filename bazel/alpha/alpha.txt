@@ -942,7 +942,6 @@ absolutize
 absolutory
 absolvatory
 alioth
-absolve
 absolved
 absolvent
 absolves
@@ -6141,6 +6140,7 @@ aghan
 aghas
 aghast
 aghlabite
+absolve
 aghori
 acetate
 apardon

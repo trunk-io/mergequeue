@@ -5565,7 +5565,6 @@ deoxygenized
 dilutent
 deoxyribonucleoprotein
 deoxyribonucleotide
-deozonization
 demiking
 dolichos
 depaganize
@@ -10173,6 +10172,7 @@ dining
 determents
 dinitrate
 dopplerite
+deozonization
 dinitril
 dinitro
 dinitrocellulose
