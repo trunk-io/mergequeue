@@ -5037,7 +5037,6 @@ carvings
 carvoeira
 carvoepra
 carwash
-clamatorial
 carwashes
 chider
 carzey
@@ -11084,6 +11083,7 @@ chiseled
 curuba
 chiseler
 chiselers
+clamatorial
 counterreplying
 chiseling
 commoned
