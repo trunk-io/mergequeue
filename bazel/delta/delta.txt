@@ -6608,6 +6608,7 @@ daps
 desegmentation
 desegmented
 disordination
+discrepancries
 dephlegmated
 desegregated
 decontamination
@@ -11751,7 +11752,6 @@ discreetly
 disobligatory
 discreetness
 discrepancies
-discrepancries
 discrepantly
 decaudation
 discrepated
