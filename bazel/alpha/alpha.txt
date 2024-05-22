@@ -5578,6 +5578,7 @@ averrhoa
 afrit
 afrite
 appertains
+anchors
 aulic
 attuned
 afrits
@@ -17089,7 +17090,6 @@ affectedness
 angliae
 aplanatic
 aplanatism
-anchors
 attractable
 ately
 alterate
