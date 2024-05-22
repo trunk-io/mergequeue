@@ -990,7 +990,6 @@ calapitte
 calappa
 calappidae
 calas
-calascione
 calash
 calastic
 calathea
@@ -30531,6 +30530,7 @@ cubododecahedral
 concarnation
 cuboid
 cuboidal
+calascione
 caldera
 cuboides
 cuboids
