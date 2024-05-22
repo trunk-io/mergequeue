@@ -8117,7 +8117,6 @@ chemin
 chaetal
 chaetangiaceae
 chaetetes
-cipher
 chaetetidae
 chaetifera
 chaetiferous
@@ -14659,6 +14658,7 @@ consoler
 continuantly
 cista
 cistaceae
+cipher
 cistaceous
 cystadenoma
 cystadenosarcoma
