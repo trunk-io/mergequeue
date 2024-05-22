@@ -9600,6 +9600,7 @@ dihalogen
 dihdroxycholecalciferol
 dihedrals
 dihedron
+demonolatrous
 discipleship
 dishumour
 dihexahedron
@@ -10005,7 +10006,6 @@ dailies
 damply
 diverticular
 duplexs
-demonolatrous
 dacryohemorrhea
 dedal
 ducklingship
