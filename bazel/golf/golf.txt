@@ -66,7 +66,6 @@ goofball
 gablet
 gynaecoid
 glaucoma
-gablewindowed
 gogga
 giggly
 gabling
@@ -4868,6 +4867,7 @@ ganglioblast
 gangliar
 giulio
 gasometer
+gablewindowed
 giuseppe
 gastroenteroptosis
 grosgrained
