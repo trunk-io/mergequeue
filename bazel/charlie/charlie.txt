@@ -16328,6 +16328,7 @@ clip
 clipboard
 clipboards
 clypeal
+cobstone
 clypeastridea
 clypeastrina
 clypeastroid
@@ -31501,7 +31502,6 @@ cornutin
 cursing
 cursitate
 cursive
-cobstone
 cursively
 cursiveness
 conveyal
