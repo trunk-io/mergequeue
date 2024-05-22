@@ -7303,7 +7303,6 @@ centuple
 centuples
 chaldese
 centuplicate
-centuplicated
 centuplicating
 civility
 clawsick
@@ -17463,6 +17462,7 @@ capax
 cobbled
 cobbler
 cobblerfish
+centuplicated
 cobblerism
 cobblers
 cobblership
