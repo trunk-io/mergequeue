@@ -8973,7 +8973,6 @@ allonomous
 alloo
 allopalladium
 allopathetic
-allopathic
 allopathically
 allopathist
 azoxybenzoic
@@ -13433,6 +13432,7 @@ antiinflammatory
 ankylodontia
 ankyloglossia
 allergia
+allopathic
 ankylophobia
 arteriostosis
 abbr
