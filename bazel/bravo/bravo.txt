@@ -673,6 +673,7 @@ bacteriotoxin
 boracic
 bacteriotrypsin
 bynames
+binocles
 bungles
 bacteriotropic
 bubonoceze
@@ -5916,7 +5917,6 @@ billowiness
 bellyaching
 bellibone
 bellybutton
-binocles
 beleaps
 bellic
 bldg
