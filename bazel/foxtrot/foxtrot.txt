@@ -2561,7 +2561,6 @@ fernwort
 ferocious
 fatales
 ferociously
-ferrier
 fieldball
 fawnskin
 forehorse
@@ -9558,6 +9557,7 @@ ffa
 foreshroud
 falseness
 fraulein
+ferrier
 forearms
 frauleins
 fraunch
