@@ -2826,6 +2826,7 @@ cabstand
 canos
 canossa
 canotier
+carbonyl
 canreply
 canroy
 cans
@@ -3827,7 +3828,6 @@ convalescent
 collatress
 carbonify
 carbonification
-carbonyl
 carbonylated
 courie
 carbonylene
