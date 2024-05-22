@@ -13879,7 +13879,6 @@ boloball
 bowldery
 bowldering
 bowleg
-bowleggedness
 bren
 bowles
 bowlful
@@ -16923,6 +16922,7 @@ bugsha
 bugweed
 bugwort
 banca
+bowleggedness
 baganda
 buhl
 buhlbuhl
