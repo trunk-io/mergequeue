@@ -2422,6 +2422,7 @@ deciliters
 druidry
 doorbells
 dripstick
+diapery
 disaffects
 dowered
 doeskin
@@ -14464,7 +14465,6 @@ divinister
 divinization
 dialogue
 divinize
-diapery
 discoverers
 decachord
 divinized
