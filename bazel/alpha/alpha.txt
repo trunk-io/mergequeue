@@ -11358,7 +11358,6 @@ amplificate
 amplification
 amplificative
 amplificator
-amplificatory
 amplified
 amplifies
 amplifying
@@ -15647,6 +15646,7 @@ avertin
 antimoniuret
 assurd
 antimoniuretted
+amplificatory
 antimonopolistic
 antimonopolization
 antimonous
