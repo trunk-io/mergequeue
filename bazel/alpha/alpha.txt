@@ -21910,7 +21910,6 @@ assize
 alliterations
 amiant
 assizes
-arquebus
 assizing
 assman
 assmanship
@@ -22655,6 +22654,7 @@ athletes
 achenodium
 arthrology
 archy
+arquebus
 athletic
 athletical
 athletically
