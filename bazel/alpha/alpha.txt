@@ -2514,7 +2514,6 @@ acmaea
 acmaeidae
 acmaesthesia
 acmatic
-acme
 anthropocentricity
 acmes
 acmesthesia
@@ -7430,6 +7429,7 @@ alum
 albedometer
 albedos
 albee
+acme
 alberene
 albergatrice
 arachnoiditis
