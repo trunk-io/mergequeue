@@ -196,6 +196,7 @@ gadwell
 glyptology
 gyro
 glede
+gephyrea
 gager
 gagership
 gather
@@ -3247,7 +3248,6 @@ gaga
 gallet
 ganglial
 gepeoo
-gephyrea
 galvayned
 guisian
 gaelicization
