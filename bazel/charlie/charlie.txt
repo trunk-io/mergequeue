@@ -119,7 +119,6 @@ cabinetry
 capacitated
 cabinetted
 clitelline
-cabinetworker
 cabinetworking
 cabinlike
 crafter
@@ -29269,6 +29268,7 @@ cryptocleidus
 ceinte
 cryptoclimate
 cryptococci
+cabinetworker
 caulophylline
 cryptococcosis
 cryptococcus
