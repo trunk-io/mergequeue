@@ -7191,7 +7191,6 @@ centrally
 centralness
 caracas
 centranth
-centrarchid
 centrarchoid
 centraxonia
 centraxonial
@@ -8133,6 +8132,7 @@ chaetophorous
 chaetopod
 caffein
 chaetopodan
+centrarchid
 colonalgia
 chaetopterus
 chaetosoma
