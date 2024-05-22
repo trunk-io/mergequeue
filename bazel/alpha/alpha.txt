@@ -14345,7 +14345,6 @@ amugis
 anthemia
 adds
 ablactate
-archflatterer
 algebraists
 atafter
 anthemion
@@ -15270,6 +15269,7 @@ antifaction
 antifame
 antifanatic
 autoinhibited
+archflatterer
 agisms
 antifascism
 antifascist
