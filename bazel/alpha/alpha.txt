@@ -5463,7 +5463,6 @@ afforests
 afformative
 affray
 affrayers
-affraying
 affrays
 affranchise
 affranchisement
@@ -19713,6 +19712,7 @@ adhesions
 astringing
 arider
 apterium
+affraying
 aridest
 affluency
 aridian

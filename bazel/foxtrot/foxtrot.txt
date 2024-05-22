@@ -4801,6 +4801,7 @@ formative
 fainer
 floribunda
 fossores
+fossilise
 factorylike
 fockle
 feasting
@@ -8832,7 +8833,6 @@ fastwalk
 fossil
 frigorimeter
 fossildom
-fossilise
 flowages
 frameableness
 fossilism
