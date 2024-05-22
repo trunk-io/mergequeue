@@ -1619,7 +1619,6 @@ ballones
 ballonette
 boiguacu
 ballonne
-bandsmen
 bimaculate
 ballonnes
 balloon
@@ -16401,6 +16400,7 @@ butterers
 byrling
 brushoff
 brushoffs
+bandsmen
 brushpopper
 brushproof
 brushup
