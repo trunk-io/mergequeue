@@ -3208,6 +3208,7 @@ benzins
 baltis
 booklores
 bukat
+begazes
 bolis
 basics
 blastozooid
@@ -5318,7 +5319,6 @@ bobbled
 bothsided
 barlock
 begaze
-begazes
 begazing
 borderer
 blinds
