@@ -9656,7 +9656,6 @@ birthright
 bundling
 baffeta
 birthrights
-birthroot
 births
 bristletail
 birthstones
@@ -17257,6 +17256,7 @@ bandores
 borsch
 blatti
 bultong
+birthroot
 bulwarked
 bulwarking
 bulwarks
