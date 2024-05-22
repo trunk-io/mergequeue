@@ -4178,6 +4178,7 @@ beans
 beansetter
 beanshooter
 beanstalk
+bradycinesia
 beanstalks
 begrain
 beanweed
@@ -6233,7 +6234,6 @@ benchman
 benchmar
 benchmark
 banba
-bradycinesia
 beroll
 burnout
 boatsmen
