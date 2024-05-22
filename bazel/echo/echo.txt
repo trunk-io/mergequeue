@@ -38,7 +38,6 @@ endosporia
 earache
 enumerated
 emigrational
-equiangularity
 earbash
 esperance
 earcockle
@@ -12503,6 +12502,7 @@ exies
 essoin
 entreaty
 ependyme
+equiangularity
 ext
 epitomatory
 elocutionists
