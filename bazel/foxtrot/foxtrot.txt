@@ -3184,7 +3184,6 @@ fibroenchondroma
 fibroferrite
 farfet
 flichters
-finca
 ferrochromium
 flip
 fibroins
@@ -10883,6 +10882,7 @@ fulgorid
 fon
 fulgur
 fulfill
+finca
 fustianist
 fulgural
 floccular
