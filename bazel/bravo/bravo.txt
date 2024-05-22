@@ -13000,7 +13000,6 @@ brigadiers
 boppers
 bopping
 biquartz
-boppist
 bloomers
 balanid
 borable
@@ -13384,6 +13383,7 @@ bothie
 bothies
 bardesanist
 boredness
+boppist
 bothnian
 blisses
 bothnic
