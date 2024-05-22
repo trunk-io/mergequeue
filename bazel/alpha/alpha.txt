@@ -2261,7 +2261,6 @@ achrodextrinase
 achroglobin
 achroiocythaemia
 anthropocosmic
-apod
 achroite
 anarchosocialist
 anomalipod
@@ -10165,6 +10164,7 @@ armaments
 adytum
 ambrettolide
 aphrizite
+apod
 ambry
 ambries
 alluminor
