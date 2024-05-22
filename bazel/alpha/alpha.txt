@@ -5007,7 +5007,6 @@ aeroelasticity
 aeroelastics
 aporphin
 aerofoil
-aerofoils
 algine
 aerogel
 antilogous
@@ -23081,6 +23080,7 @@ antimonarchic
 attends
 attensity
 attent
+aerofoils
 accidentarily
 attentat
 apercu

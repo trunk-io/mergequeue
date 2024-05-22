@@ -12934,7 +12934,6 @@ boothes
 boothite
 bootid
 bootie
-bootied
 booties
 bootikin
 bootikins
@@ -14136,6 +14135,7 @@ brackened
 borating
 brackens
 bracker
+bootied
 bracketed
 billyo
 brusk
