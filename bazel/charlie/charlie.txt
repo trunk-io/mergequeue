@@ -1230,7 +1230,6 @@ calendering
 calenders
 circumcrescence
 captainly
-calendric
 calendrical
 calendula
 carrageenan
@@ -6235,6 +6234,7 @@ caulk
 caulkers
 callosomarginal
 caulkings
+calendric
 caulks
 conferrer
 catalases
