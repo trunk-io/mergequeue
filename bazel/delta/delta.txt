@@ -7827,7 +7827,6 @@ devonshire
 devoration
 devota
 devotary
-devoted
 dogfishes
 dipsomaniacal
 devotedly
@@ -10604,6 +10603,7 @@ diplomats
 deashed
 dysporomorph
 diplonema
+devoted
 detroit
 dithyrambic
 detritus

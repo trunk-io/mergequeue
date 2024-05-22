@@ -1417,7 +1417,6 @@ guls
 greenalite
 garbling
 garlandry
-galvanist
 garlic
 glycolylurea
 garliclike
@@ -1706,6 +1705,7 @@ glossoepiglottidean
 gastral
 gastralgy
 gastralgia
+galvanist
 gastraneuria
 giggish
 glycuronid
