@@ -18750,7 +18750,6 @@ colchicaceae
 colchicia
 centeredly
 colchicin
-colchicine
 colchicum
 colchis
 catadioptric
@@ -26641,6 +26640,7 @@ coulter
 coulterneb
 coulthard
 coulure
+colchicine
 coumalic
 coumaphos
 coumara
