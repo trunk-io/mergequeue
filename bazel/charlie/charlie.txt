@@ -4812,7 +4812,6 @@ carreton
 cofferlike
 carri
 cetaceous
-carry
 carriable
 carriage
 carriageable
@@ -8885,6 +8884,7 @@ chapiter
 chapiters
 chapitral
 chaplain
+carry
 chaplaincies
 chaplains
 cognitives
