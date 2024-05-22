@@ -14694,7 +14694,6 @@ choppy
 cistercianism
 cisterna
 cisternae
-cisternal
 calmly
 cisterns
 cornier
@@ -27347,6 +27346,7 @@ comodo
 coupstick
 coupure
 courage
+cisternal
 courageous
 courager
 courant
