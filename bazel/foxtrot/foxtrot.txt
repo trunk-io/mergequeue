@@ -3984,7 +3984,6 @@ forbearers
 fingerling
 fingerlings
 facadal
-fervorlessness
 fayalites
 forestlike
 flattish
@@ -8335,6 +8334,7 @@ forks
 forksful
 forksmith
 ferromagneticism
+fervorlessness
 faceup
 forestudy
 fattish
