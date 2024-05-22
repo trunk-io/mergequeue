@@ -15660,7 +15660,6 @@ classific
 classificator
 classificatory
 classified
-cotwinned
 classifier
 censive
 curriers
@@ -28305,6 +28304,7 @@ crateful
 cratemaker
 crateman
 clitic
+cotwinned
 cratemen
 crater
 cruziero
