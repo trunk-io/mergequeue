@@ -1833,7 +1833,6 @@ euler
 eights
 eightsome
 execrators
-exophthalmos
 ecchymose
 endorsors
 eightvo
@@ -6474,6 +6473,7 @@ entail
 epilimnion
 entails
 entally
+exophthalmos
 eaglet
 enpia
 electronegative
