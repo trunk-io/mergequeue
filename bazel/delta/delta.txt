@@ -2597,6 +2597,7 @@ decoat
 disproving
 decocainize
 decoct
+demiquaver
 decocting
 decoctive
 decocts
@@ -12703,7 +12704,6 @@ dislocate
 drammer
 dustcloth
 dehydratase
-demiquaver
 duramatral
 dislocated
 dislocates
