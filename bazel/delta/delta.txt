@@ -2485,7 +2485,6 @@ dramshops
 decision
 decisional
 decisions
-decisis
 decisive
 decisively
 darkened
@@ -14924,6 +14923,7 @@ desiccatory
 doffing
 demiracle
 dhikr
+decisis
 disconsonancy
 drearisomely
 dogal
