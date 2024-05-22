@@ -7559,7 +7559,6 @@ admittee
 albumeniizer
 albumenisation
 albumenise
-autobiographic
 albumenised
 albumeniser
 albumenising
@@ -16508,6 +16507,7 @@ antonomasia
 antonomastic
 antonomastical
 amaga
+autobiographic
 antonomastically
 antonovics
 agateware
