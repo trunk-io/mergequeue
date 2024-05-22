@@ -2065,7 +2065,6 @@ facedown
 faucalize
 flub
 frenches
-feinting
 feis
 fatigueless
 flatlander
@@ -6662,6 +6661,7 @@ focusses
 flumed
 focussing
 fod
+feinting
 fodder
 fodderer
 foder
