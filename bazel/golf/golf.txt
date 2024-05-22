@@ -3738,7 +3738,6 @@ ghostier
 ghostified
 galah
 glumelike
-ghostish
 grannom
 glossologies
 grille
@@ -8932,6 +8931,7 @@ guiltier
 galactotherapy
 griffaun
 griffe
+ghostish
 griffes
 griffinage
 gingivectomy
