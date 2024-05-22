@@ -1002,7 +1002,6 @@ glomeruli
 garrote
 graptolite
 gunshot
-gamostele
 genetically
 grievously
 gamp
@@ -4539,6 +4538,7 @@ gracy
 gynura
 ginzo
 gio
+gamostele
 giobertite
 gammelost
 glands
