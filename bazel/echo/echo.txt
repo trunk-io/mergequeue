@@ -805,6 +805,7 @@ ecdysiast
 ectypal
 ectype
 everliving
+enwrite
 elemicin
 extraordinarily
 eral
@@ -7086,7 +7087,6 @@ exing
 egotisms
 enunciative
 exportable
-enwrite
 enured
 enures
 evadible
