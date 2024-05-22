@@ -8330,7 +8330,6 @@ angiocyst
 aliesterase
 aliethmoid
 aliethmoidal
-auks
 amenity
 ablegation
 alif
@@ -10573,6 +10572,7 @@ antiderivative
 amygdaline
 amygdalinic
 amygdalitis
+auks
 antidromic
 amygdaloid
 autoerotism

@@ -790,7 +790,6 @@ gien
 galvanomagnetic
 galvanomagnetism
 gombeen
-galvanometers
 galvanometric
 geometries
 goumi
@@ -7930,6 +7929,7 @@ guddled
 golach
 grandmaster
 grandmotherly
+galvanometers
 grandmothers
 grandnephew
 grandniece
