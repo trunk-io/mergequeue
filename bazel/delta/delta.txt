@@ -7201,7 +7201,6 @@ diemaking
 dotting
 detacwable
 dicast
-dentagra
 detailedness
 dogvanes
 detailers
@@ -15489,6 +15488,7 @@ daymen
 donatistic
 donatistical
 donative
+dentagra
 dechemicalization
 donator
 discodactyl

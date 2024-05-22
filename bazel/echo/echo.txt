@@ -281,7 +281,6 @@ enflamed
 eastlins
 eastman
 extraparenchymal
-external
 eastness
 encephalograph
 eurygnathic
@@ -9368,6 +9367,7 @@ erratas
 erratic
 erratically
 endosmos
+external
 epilog
 experimentee
 esdras
