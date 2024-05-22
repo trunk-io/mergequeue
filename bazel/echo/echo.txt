@@ -2054,7 +2054,6 @@ ensnarements
 elaphurus
 extrastate
 elapidae
-externity
 elapids
 euthyneural
 empurple
@@ -13350,6 +13349,7 @@ etude
 exposure
 emphemeralness
 excalfaction
+externity
 emporetic
 eclegme
 expound
