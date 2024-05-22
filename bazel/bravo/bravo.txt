@@ -864,7 +864,6 @@ bagdi
 bagel
 bauxites
 bagful
-bemantle
 bookwise
 barbaric
 baggagemaster
@@ -4746,6 +4745,7 @@ bedye
 bemisting
 bedighted
 bicrons
+bemantle
 besoin
 beepers
 breakthroughes
