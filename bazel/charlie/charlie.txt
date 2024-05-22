@@ -7038,6 +7038,7 @@ censusing
 centage
 centals
 chock
+climatologic
 centaur
 centaurdom
 centaurea
@@ -16194,7 +16195,6 @@ climatius
 climatize
 climatographical
 climatology
-climatologic
 climatological
 climatologically
 climatologist
