@@ -2040,7 +2040,6 @@ banish
 banished
 banisher
 banishing
-banishment
 banister
 bursting
 banyuls
@@ -7972,6 +7971,7 @@ benzanalgen
 biauriculate
 biaxiality
 birdseyes
+banishment
 beshrouds
 biaxillary
 bemud
