@@ -3000,7 +3000,6 @@ devitrify
 deducibly
 deducing
 disdiaclast
-deducted
 deductibility
 deductible
 deductibles
@@ -6228,6 +6227,7 @@ derivatives
 dacoit
 derivedly
 derivedness
+deducted
 dawks
 deriver
 disvaluation
