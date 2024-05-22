@@ -2727,7 +2727,6 @@ genetta
 gyn
 genethliacon
 geomorphist
-gneissoid
 galleriies
 gasterophilus
 gonocalyx
@@ -10350,6 +10349,7 @@ gulfweed
 glebal
 goalers
 gaums
+gneissoid
 gulfweeds
 gulgul
 grufted
