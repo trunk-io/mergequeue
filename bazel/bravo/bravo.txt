@@ -4193,7 +4193,6 @@ bicompact
 beard
 bankrupts
 bodysurfs
-beggars
 bowmaking
 bro
 beelbow
@@ -5268,6 +5267,7 @@ befrocked
 beauteously
 befuddle
 befuddled
+beggars
 bram
 befuddlement
 befuddler
