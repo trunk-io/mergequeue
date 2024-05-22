@@ -7268,7 +7268,6 @@ dejectory
 detering
 deteriorate
 deifier
-deteriorates
 deteriorating
 deterioration
 dear
@@ -13913,6 +13912,7 @@ distingue
 distinguee
 distinguishableness
 distinguishedly
+deteriorates
 distinguishes
 disparison
 distinguishingly
