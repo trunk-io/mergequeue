@@ -8632,7 +8632,6 @@ certifiably
 categorical
 chanceful
 chancefulness
-chancey
 chancel
 chanceled
 chanceless
@@ -19878,6 +19877,7 @@ catabolizing
 comically
 comicalness
 comices
+chancey
 comicocynical
 comicocratic
 comicodidactic
