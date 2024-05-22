@@ -8236,7 +8236,6 @@ beshadow
 bicorporate
 bicostate
 bicrenate
-bicrofarad
 bicron
 bicrural
 bicultural
@@ -12871,6 +12870,7 @@ bergamiol
 beefcake
 beaut
 boomtowns
+bicrofarad
 boon
 brumalia
 boondoggle
