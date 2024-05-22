@@ -1680,7 +1680,6 @@ fdnames
 fdub
 flamboyantly
 fortuitousness
-fussy
 focally
 fe
 feaberry
@@ -3123,6 +3122,7 @@ fivepins
 fibred
 fibrefill
 fibreless
+fussy
 fibril
 fuzing
 fleshquake
