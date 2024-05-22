@@ -3621,6 +3621,7 @@ fourniture
 filers
 fructification
 felinity
+farrieries
 fungivorous
 files
 filesmith
@@ -10316,7 +10317,6 @@ formamide
 fractile
 frogmarch
 fission
-farrieries
 flowerful
 frognose
 frighted
