@@ -2972,7 +2972,6 @@ cantoning
 cantonize
 cantonments
 cantons
-coalhole
 countergager
 cantoral
 cantoria
@@ -28477,6 +28476,7 @@ created
 createdness
 cheliferous
 creates
+coalhole
 creatic
 codlin
 creatin
