@@ -1593,6 +1593,7 @@ guacamole
 guarachas
 granospherite
 gametogonium
+gaffing
 gasifier
 gasifiers
 gasifies
@@ -3816,7 +3817,6 @@ ganomalite
 gaslightness
 gibberella
 gibberellin
-gaffing
 gibbert
 goffers
 gibbet
