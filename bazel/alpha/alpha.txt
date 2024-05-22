@@ -5461,7 +5461,6 @@ affrays
 affranchise
 affranchisement
 affreight
-affreighter
 affreightment
 ado
 affret
@@ -19816,6 +19815,7 @@ aristoi
 argonauts
 aristol
 aristolochia
+affreighter
 aristolochin
 aristology
 aristological

@@ -13629,7 +13629,6 @@ cylindricalness
 cylindricity
 cylindricule
 cylindriform
-cylindrite
 carnifying
 calpack
 cylindrocylindric
@@ -14703,6 +14702,7 @@ cysticercerci
 cysticerci
 chondrule
 christs
+cylindrite
 cysticercoid
 cysticercoidal
 cysticercosis
