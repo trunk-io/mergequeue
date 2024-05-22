@@ -6760,6 +6760,7 @@ excursionary
 enticements
 exorbitantly
 earwiggy
+equidistance
 enticer
 ephemeral
 enticers
@@ -8624,7 +8625,6 @@ equidiagonal
 equidifferent
 equidimensional
 equidist
-equidistance
 embranglement
 equidistribution
 exect
