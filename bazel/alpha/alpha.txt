@@ -2941,7 +2941,6 @@ abutting
 alasas
 acronymic
 acronomy
-acronymize
 apium
 acronymized
 acronymizing
@@ -22242,6 +22241,7 @@ astragalomancy
 animality
 acoemetic
 astragalotibial
+acronymize
 anhinga
 astragals
 astragalus
