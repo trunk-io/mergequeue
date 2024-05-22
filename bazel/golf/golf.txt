@@ -4820,7 +4820,6 @@ gise
 galempung
 granges
 gooier
-gibbles
 gisel
 gisement
 glazily
@@ -9539,6 +9538,7 @@ graphical
 grisettes
 groveless
 gemmier
+gibbles
 grovelingly
 groveller
 greenweed
