@@ -945,6 +945,7 @@ alioth
 absolve
 absolved
 absolvent
+arteriotome
 absolves
 absolving
 absolvitor
@@ -20551,7 +20552,6 @@ airfreight
 arteriospasm
 arteriostenosis
 admix
-arteriotome
 arteriotomy
 arteriotrepsis
 amman
