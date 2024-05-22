@@ -144,6 +144,7 @@ cablelike
 cableman
 chryseis
 cables
+chromized
 cablese
 cablet
 cableway
@@ -12499,7 +12500,6 @@ colder
 chromize
 cyanopsia
 contextual
-chromized
 copromisor
 clavatin
 chromizes
