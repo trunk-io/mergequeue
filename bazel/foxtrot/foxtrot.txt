@@ -1691,7 +1691,6 @@ federate
 fealty
 fumigates
 fluorinate
-fear
 fimbles
 finite
 fearedly
@@ -3977,6 +3976,7 @@ facility
 fingerhook
 fingering
 fibrinemia
+fear
 factitial
 feminisation
 fingerless
