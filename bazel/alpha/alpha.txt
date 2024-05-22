@@ -13262,7 +13262,6 @@ animize
 animized
 amaltas
 animo
-anymore
 animose
 animoseness
 allomorphic
@@ -19443,6 +19442,7 @@ areometric
 areometrical
 anthologizer
 areopagist
+anymore
 areopagite
 areopagitica
 areosystyle
