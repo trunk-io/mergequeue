@@ -14083,7 +14083,6 @@ bonhomme
 butsudan
 brachiosaur
 brachiosaurus
-brachyphyllum
 bespeech
 brachypinacoidal
 bargainers
@@ -14115,6 +14114,7 @@ brachystomous
 brawlier
 buckety
 battering
+brachyphyllum
 brachytypous
 brachytmema
 brachium
