@@ -7252,7 +7252,6 @@ dispenser
 detente
 dicotyl
 dimetric
-dreparnaudia
 detenu
 detenue
 detenues
@@ -15468,6 +15467,7 @@ donable
 donaciform
 donack
 dilatometric
+dreparnaudia
 donal
 defiance
 dextropinene
