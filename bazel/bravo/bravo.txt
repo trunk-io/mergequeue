@@ -6671,7 +6671,6 @@ bequeathal
 bequeathed
 bruges
 braconidae
-bequeathing
 brawled
 bequeaths
 bequest
@@ -14101,6 +14100,7 @@ brachyrrhinia
 brachyskelic
 brachystaphylic
 brachystegia
+bequeathing
 bryophyta
 banditism
 brachistocephali
