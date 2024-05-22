@@ -4065,7 +4065,6 @@ empyemic
 effuse
 empierce
 empiercement
-empyesis
 extensibleness
 evaporative
 exedent
@@ -12004,6 +12003,7 @@ excludability
 excitations
 effecting
 excitator
+empyesis
 excite
 emanation
 extraction
