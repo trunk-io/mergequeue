@@ -852,7 +852,6 @@ baft
 baftah
 baga
 billikin
-bagasse
 bagasses
 bari
 bruxisms
@@ -14560,6 +14559,7 @@ blench
 biogeographers
 brotherlike
 brannerite
+bagasse
 blackneb
 branny
 branniness
