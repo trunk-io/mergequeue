@@ -4784,7 +4784,6 @@ encompassment
 extinguishing
 encopreses
 exes
-electrolyzer
 esrogs
 encorbelment
 encore
@@ -8217,6 +8216,7 @@ empowered
 episiostenosis
 episiotomy
 epicondylitis
+electrolyzer
 episiotomies
 episkeletal
 episodial
