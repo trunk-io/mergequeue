@@ -611,7 +611,6 @@ garau
 gutturize
 gingerin
 grahamite
-galliform
 gomphrena
 galliformes
 grandsons
@@ -4961,6 +4960,7 @@ glaciology
 globalist
 griffithite
 glaciologists
+galliform
 ganisters
 glaciomarine
 gnetum
