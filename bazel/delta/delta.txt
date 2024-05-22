@@ -4554,7 +4554,6 @@ demibuckram
 demicanon
 demicanton
 dysphoric
-demagnetised
 demicaponier
 demichamfron
 demicylinder
@@ -7292,6 +7291,7 @@ dissheathe
 dowage
 disseized
 diffusivity
+demagnetised
 disturbor
 diphenylacetylene
 desiccative
