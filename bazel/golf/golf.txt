@@ -1685,7 +1685,6 @@ gunz
 gasterolichenes
 gasteromycetes
 glottic
-gasteromycetous
 glottis
 gasteropoda
 gordolobo
@@ -2447,6 +2446,7 @@ gaoloring
 goatbush
 garbed
 galacthidrosis
+gasteromycetous
 gelsemia
 gastrotomies
 geotectonic
