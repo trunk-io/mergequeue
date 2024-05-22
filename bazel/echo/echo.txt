@@ -6612,7 +6612,6 @@ ephyrae
 enterogram
 enterograph
 enterography
-encompasser
 enterohemorrhage
 estatesman
 enantiomeric
@@ -10138,6 +10137,7 @@ electrotest
 eteostic
 efik
 eterminable
+encompasser
 eternalise
 eternalised
 eternalising
