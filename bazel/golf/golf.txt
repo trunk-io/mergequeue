@@ -4575,6 +4575,7 @@ gipsyhead
 gazehound
 gypsyhead
 gaitt
+gyrostachys
 gloeocapsoid
 gadoid
 giglot
@@ -10614,7 +10615,6 @@ gunstone
 gunter
 gird
 gyascutus
-gyrostachys
 glens
 giganticness
 guntub
