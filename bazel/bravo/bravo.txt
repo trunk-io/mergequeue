@@ -2463,7 +2463,6 @@ bardulph
 burgouts
 bare
 bareback
-bareboat
 borderside
 beneficing
 bareboats
@@ -9133,6 +9132,7 @@ biogeographical
 biogeographically
 biographers
 bossisms
+bareboat
 biographic
 bepreach
 bankweed
