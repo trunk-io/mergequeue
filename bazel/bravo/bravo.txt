@@ -1026,7 +1026,6 @@ baybolt
 baycuru
 baidarka
 baidarkas
-baidya
 blueish
 baiera
 bayesian
@@ -4108,6 +4107,7 @@ beamed
 beeve
 beamer
 bestrut
+baidya
 beamers
 beamfilling
 beamful
