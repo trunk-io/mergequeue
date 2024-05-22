@@ -6014,6 +6014,7 @@ deed
 depsides
 dept
 depth
+dorsalmost
 droopy
 depthen
 devitation
@@ -18589,7 +18590,6 @@ dustoori
 dustour
 dustpan
 dustrags
-dorsalmost
 dustsheet
 disadvantagedness
 denudational
