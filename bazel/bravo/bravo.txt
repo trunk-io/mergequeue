@@ -5035,6 +5035,7 @@ bunt
 bricks
 boltless
 ballast
+beeswaxes
 beeping
 beeps
 beer
@@ -5065,7 +5066,6 @@ beest
 beestings
 bonytail
 beeswax
-beeswaxes
 bothriums
 beeswing
 byte
