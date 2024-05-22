@@ -8047,7 +8047,6 @@ cevitamic
 contes
 cf
 cofeatures
-cfd
 cgs
 ch
 cha
@@ -28906,6 +28905,7 @@ crews
 crex
 cry
 cryable
+cfd
 cephalhydrocele
 cholestane
 cotans
