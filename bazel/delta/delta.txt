@@ -16157,7 +16157,6 @@ dovecot
 dovecotes
 dramaticule
 doveflower
-dovefoot
 decadarch
 dovehouse
 dovekeys
@@ -17665,6 +17664,7 @@ dsname
 dsnames
 dsri
 discriminative
+dovefoot
 druery
 defeminization
 daisybush
