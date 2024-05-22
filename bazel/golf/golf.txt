@@ -4089,7 +4089,6 @@ gauric
 giraffine
 gastrosuccorrhea
 gilgie
-gilguy
 gymnoconia
 gradometer
 giliak
@@ -8111,6 +8110,7 @@ gimping
 glaver
 grapey
 gasteromycete
+gilguy
 goober
 gluttonize
 guillotines
