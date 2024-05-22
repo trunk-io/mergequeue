@@ -2542,7 +2542,6 @@ bargeman
 bargemaster
 booklice
 barger
-bloomage
 bardash
 barges
 baptism
@@ -14439,6 +14438,7 @@ brakiest
 bramantip
 bridelike
 bramble
+bloomage
 brambleberry
 brambles
 bonanza
