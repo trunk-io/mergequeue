@@ -2976,6 +2976,7 @@ barringer
 barrios
 boulevard
 barrister
+broomsticks
 bails
 botts
 burrel
@@ -16096,7 +16097,6 @@ broomshank
 broomstick
 blotting
 basanite
-broomsticks
 broomstraw
 broomweed
 backpointers
