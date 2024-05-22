@@ -2378,6 +2378,7 @@ goles
 gelatine
 glucoprotein
 gharial
+grumness
 gerastian
 gignate
 gaudier
@@ -9700,7 +9701,6 @@ guying
 grummels
 grummet
 genuflector
-grumness
 gambir
 gooder
 grumose
