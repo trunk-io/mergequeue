@@ -8038,7 +8038,6 @@ alphecca
 aleurones
 aleuronic
 aleurons
-aleut
 aneath
 aleutians
 aleutic
@@ -17557,6 +17556,7 @@ abeltree
 apothecial
 azilian
 apothecium
+aleut
 antitrope
 arbitrement
 applot
