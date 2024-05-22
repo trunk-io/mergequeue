@@ -1952,6 +1952,7 @@ camisa
 camisadoes
 camisados
 camisard
+caroba
 critickin
 camiscia
 camise
@@ -4590,7 +4591,6 @@ caro
 caroa
 cohost
 carob
-caroba
 caroch
 caroche
 caroches
