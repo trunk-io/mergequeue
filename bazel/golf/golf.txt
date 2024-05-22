@@ -6283,7 +6283,6 @@ goalpost
 gambusias
 geysers
 glassworkers
-goals
 governessdom
 gauping
 gossypose
@@ -7452,6 +7451,7 @@ generatrix
 getmesost
 generalization
 glial
+goals
 graphostatical
 gortonian
 gangs
