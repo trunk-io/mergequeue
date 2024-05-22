@@ -3480,7 +3480,6 @@ baroi
 burbots
 bastinado
 bastinadoing
-basting
 bastings
 bastion
 blendure
@@ -8599,6 +8598,7 @@ bilamellate
 bilamellated
 bilaminar
 bilander
+basting
 becolor
 bilateral
 bilateralism
