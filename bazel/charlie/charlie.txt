@@ -13589,7 +13589,6 @@ corsetless
 cloying
 cilia
 ciliate
-ciliated
 ciliately
 ciliates
 canoness
@@ -18879,6 +18878,7 @@ coypou
 colistins
 colitic
 colitises
+ciliated
 colitoxemia
 coolheaded
 colyum
