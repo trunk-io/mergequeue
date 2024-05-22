@@ -3002,6 +3002,7 @@ feuilletons
 fleches
 flapcake
 feulamort
+flannelly
 facier
 flapjack
 formulary
@@ -4985,7 +4986,6 @@ flannelette
 flanneling
 flannelleaves
 floc
-flannelly
 flannelmouth
 ferries
 fedelini
