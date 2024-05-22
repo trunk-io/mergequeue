@@ -2048,7 +2048,6 @@ banjoists
 baptanodon
 bazaars
 banjorine
-banjuke
 buntings
 boardman
 bank
@@ -11816,6 +11815,7 @@ bocher
 barbedness
 boches
 beewort
+banjuke
 bobbles
 bock
 bigamists
