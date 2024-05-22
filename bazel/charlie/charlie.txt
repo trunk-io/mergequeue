@@ -18340,6 +18340,7 @@ cogitator
 cogito
 coglorify
 cogman
+conformers
 cogmen
 chenevixite
 cognac
@@ -22107,7 +22108,6 @@ conformations
 conformator
 conformed
 conformer
-conformers
 cyclothymia
 carabin
 conforming
