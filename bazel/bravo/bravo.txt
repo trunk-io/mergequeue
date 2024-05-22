@@ -2442,7 +2442,6 @@ bronchomotor
 bardlike
 bardling
 bluestone
-bardo
 banyoro
 bardocucullus
 balloonfish
@@ -11285,6 +11284,7 @@ blooth
 blore
 blosmy
 biglandular
+bardo
 blossom
 bismuthiferous
 blossomy
