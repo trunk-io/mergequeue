@@ -3994,7 +3994,6 @@ bdellium
 bdelliums
 bdelloid
 bdelloida
-bdellometer
 bdellostoma
 booksellerish
 bocstaff
@@ -9145,6 +9144,7 @@ bummerish
 brutes
 bioherm
 bioherms
+bdellometer
 bronzen
 bioinstrument
 biokinetics
