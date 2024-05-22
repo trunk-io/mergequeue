@@ -5096,6 +5096,7 @@ flatlets
 floorwalker
 flavoprotein
 feoffee
+foulness
 fatigued
 flatly
 flatlings
@@ -10231,7 +10232,6 @@ fluency
 frivolling
 frontad
 fusobteria
-foulness
 frivolous
 frivolousness
 flockmaster
