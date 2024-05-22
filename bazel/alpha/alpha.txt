@@ -8775,7 +8775,6 @@ allgood
 allgovite
 amblosis
 arachidonic
-allhallows
 allhallowtide
 allheals
 ally
@@ -9196,6 +9195,7 @@ acoluthic
 almighty
 anthropophysite
 ageist
+allhallows
 acerra
 almira
 almirah
