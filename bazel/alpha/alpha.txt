@@ -19237,6 +19237,7 @@ allophane
 archtreasurership
 archturncoat
 apurpose
+artha
 archurger
 atomics
 archvampire
@@ -20571,7 +20572,6 @@ adhesivemeter
 aforesaid
 artfulness
 artgum
-artha
 arthemis
 arthogram
 arthra
