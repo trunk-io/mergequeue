@@ -777,7 +777,6 @@ fandoms
 fanegadas
 feudalizable
 fellowlike
-fermacy
 fanfaronade
 fanfarons
 ferricyanogen
@@ -3481,6 +3480,7 @@ figaro
 farm
 figeater
 filicology
+fermacy
 fat
 floriate
 figent
