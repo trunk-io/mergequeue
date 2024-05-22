@@ -2357,7 +2357,6 @@ estimates
 energist
 enjeopard
 electrodentistry
-electrification
 electrodeposition
 escalation
 electrodes
@@ -8395,6 +8394,7 @@ extacie
 epithymetical
 epithumetic
 epitympanum
+electrification
 embogue
 epityphlitis
 enflowered
