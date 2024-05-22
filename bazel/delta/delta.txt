@@ -5747,6 +5747,7 @@ deplenish
 depleteable
 depleted
 donkeyback
+dysmetria
 djellab
 daftlike
 depletion
@@ -14972,7 +14973,6 @@ dogfought
 doggedly
 divus
 doggedness
-dysmetria
 dogger
 disembosom
 disarrangements
