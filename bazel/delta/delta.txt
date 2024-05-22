@@ -15198,7 +15198,6 @@ dolichosauri
 dracaenaceae
 dolichosauria
 dolichosaurus
-dolichuric
 dolichurus
 doliidae
 dolina
@@ -15275,6 +15274,7 @@ diabolical
 dolomize
 deadlatch
 dolores
+dolichuric
 dermatophytic
 dolorific
 dolorimeter
