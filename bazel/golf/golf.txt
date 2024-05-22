@@ -3607,7 +3607,6 @@ gnomonology
 goyazite
 glunched
 gluttonized
-glueing
 gez
 galloon
 grudgery
@@ -8897,6 +8896,7 @@ griddlecakes
 gnosiology
 griddled
 griddles
+glueing
 gentleship
 griddling
 genarchaship
