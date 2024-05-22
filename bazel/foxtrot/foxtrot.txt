@@ -4973,7 +4973,6 @@ fillowite
 flowerbed
 foe
 flankard
-flanked
 flickery
 flanker
 flankers
@@ -5517,6 +5516,7 @@ flibbertigibbety
 flybelt
 flybelts
 foolhardier
+flanked
 featherers
 flippery
 flyby
