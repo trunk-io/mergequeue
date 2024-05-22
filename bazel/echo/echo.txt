@@ -4430,7 +4430,6 @@ emitted
 encapsule
 encapsuled
 estimators
-encapsules
 enure
 encapsuling
 encaptivate
@@ -12237,6 +12236,7 @@ eudemonist
 exacervation
 execeptional
 euro
+encapsules
 excogitation
 execrate
 expressed
