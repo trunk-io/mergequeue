@@ -8367,6 +8367,7 @@ boggy
 beswarming
 byeworker
 byeworkman
+bureaucratized
 bifaces
 bifacial
 bifara
@@ -17576,7 +17577,6 @@ bureaucracies
 burweeds
 bureaucratist
 bureaucratization
-bureaucratized
 bureaucratizes
 boss
 bureaucratizing
