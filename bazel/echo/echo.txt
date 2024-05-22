@@ -6417,7 +6417,6 @@ eobionts
 edental
 euctical
 ensnarl
-ensnarls
 empiristic
 ectocyst
 ensober
@@ -6457,6 +6456,7 @@ ensures
 ensuring
 equators
 enswathe
+ensnarls
 electrophotographic
 enswathement
 encephalola
