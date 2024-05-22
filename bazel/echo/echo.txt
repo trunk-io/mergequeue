@@ -6190,7 +6190,6 @@ ecorticate
 enplaned
 extraphysiological
 enquarter
-enqueue
 entered
 enqueued
 enqueues
@@ -9248,6 +9247,7 @@ ermani
 exumbrella
 ermanrich
 endotheca
+enqueue
 ebulus
 epizoarian
 ermiline
