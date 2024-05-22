@@ -909,7 +909,6 @@ fantoccini
 fantocine
 foresides
 flavor
-fungi
 fanums
 fanweed
 fortuitist
@@ -3972,6 +3971,7 @@ fingerbreadth
 flatter
 fingerer
 fingerers
+fungi
 fingerhold
 freehanded
 facility
