@@ -1674,6 +1674,7 @@ fconv
 farcin
 familiar
 faradocontractility
+forepast
 four
 fdnames
 fdub
@@ -8907,7 +8908,6 @@ fouled
 fidation
 fouler
 footmaker
-forepast
 falsificator
 frailejon
 foreshowed
