@@ -2991,6 +2991,7 @@ cantred
 cantrip
 cantrips
 coveting
+cytostatically
 cantus
 cantuta
 chicadee
@@ -15031,7 +15032,6 @@ cytospectrophotometry
 cytospora
 cytost
 cradlelike
-cytostatically
 curding
 cytostomal
 cytostroma
