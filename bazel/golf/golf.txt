@@ -792,7 +792,6 @@ gien
 galvanomagnetic
 galvanomagnetism
 gombeen
-galvanometers
 galvanometric
 geometries
 goumi
@@ -8991,6 +8990,7 @@ grassweed
 grimaced
 grimacers
 grimaces
+galvanometers
 gryllid
 galluptious
 gestured
