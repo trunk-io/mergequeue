@@ -10599,7 +10599,6 @@ diplomatology
 diauli
 decompressing
 diplomats
-deashed
 dysporomorph
 diplonema
 detroit
@@ -17978,6 +17977,7 @@ danish
 dukedom
 dukedoms
 dukes
+deashed
 dukhn
 dukkeripen
 dukuma
