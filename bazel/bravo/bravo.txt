@@ -5277,7 +5277,6 @@ befuddler
 banner
 befuddlers
 bromite
-boxberries
 befuddling
 berating
 befur
@@ -12403,6 +12402,7 @@ broguery
 bonkers
 byronize
 bab
+boxberries
 befume
 buffalofishes
 bombyxes
