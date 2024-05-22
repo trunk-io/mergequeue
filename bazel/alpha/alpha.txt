@@ -6549,7 +6549,6 @@ antivenom
 agrostologic
 attempering
 alnascharism
-agrostologist
 agrote
 agrotechny
 agrotype
@@ -23643,6 +23642,7 @@ auriscalpia
 auriscope
 auriscopy
 auriscopic
+agrostologist
 aurist
 aurists
 assentiveness
