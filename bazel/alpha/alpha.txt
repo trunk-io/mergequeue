@@ -22240,7 +22240,6 @@ astragalar
 astragalectomy
 astragali
 anathem
-astragalocalcaneal
 astragalocentral
 antiquates
 astragalomancy
@@ -25378,6 +25377,7 @@ azox
 azoxazole
 azoxy
 azoxybenzene
+astragalocalcaneal
 azoxime
 azoxynaphthalene
 azoxine
