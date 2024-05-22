@@ -2764,6 +2764,7 @@ expulse
 elementalize
 elementally
 elementaloid
+essang
 eluded
 evasive
 elementarily
@@ -11671,7 +11672,6 @@ enclosure
 empaled
 eblis
 electroirrigation
-essang
 eburnian
 exaction
 exactitude
