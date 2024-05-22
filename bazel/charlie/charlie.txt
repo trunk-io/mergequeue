@@ -10195,7 +10195,6 @@ chevaline
 circumambulating
 cantonese
 compagnie
-cheveys
 chevelure
 chevener
 cheventayn
@@ -27195,6 +27194,7 @@ countersun
 countersunken
 cantico
 cowls
+cheveys
 cava
 countersurprise
 coydog
