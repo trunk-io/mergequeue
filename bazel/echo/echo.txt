@@ -2197,7 +2197,6 @@ exterminating
 elderwort
 eldest
 eldin
-eldmother
 eventuate
 eldrich
 eldritch
@@ -13871,6 +13870,7 @@ ectobronchium
 ergot
 extradoses
 extradotal
+eldmother
 extraembryonic
 extraequilibrium
 extraessential

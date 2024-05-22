@@ -1106,7 +1106,6 @@ dashmaker
 dashnak
 dashplate
 dropflower
-depaint
 diau
 dasyatis
 dasymeter
@@ -15739,6 +15738,7 @@ dormilona
 dormitive
 dormitories
 dormouse
+depaint
 dorneck
 dornic
 djinny
