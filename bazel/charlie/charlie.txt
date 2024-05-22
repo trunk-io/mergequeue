@@ -2356,7 +2356,6 @@ cancelment
 cancels
 chimneys
 cancer
-cancerated
 coyed
 convenes
 cancerating
@@ -20550,6 +20549,7 @@ compearant
 crimes
 compeer
 compeering
+cancerated
 corinthianesque
 compeers
 compellability
