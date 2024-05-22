@@ -4922,7 +4922,6 @@ cartful
 carthame
 ceramists
 carthamic
-carthamus
 carthorse
 cartier
 cartiest
@@ -28001,6 +28000,7 @@ charactonym
 craftsmanlike
 craftsmanship
 craftsmaster
+carthamus
 craftsmen
 craftspeople
 concubinaries
