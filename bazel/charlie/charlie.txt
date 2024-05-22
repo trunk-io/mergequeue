@@ -2513,7 +2513,6 @@ catalan
 candroy
 candroys
 canduc
-camphires
 cane
 corneum
 cities
@@ -25755,6 +25754,7 @@ cytolysis
 correllations
 corrente
 correo
+camphires
 crumblingness
 cistophoric
 correption
