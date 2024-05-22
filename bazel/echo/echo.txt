@@ -2905,6 +2905,7 @@ earthwork
 elevons
 elf
 elfenfolk
+embolium
 epinard
 eponymous
 elfins
@@ -11085,7 +11086,6 @@ encreel
 effected
 euryprosopic
 etheriform
-embolium
 eurypterida
 extine
 extraregular
