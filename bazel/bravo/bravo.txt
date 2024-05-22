@@ -7694,6 +7694,7 @@ bevvy
 believe
 baronages
 bewailable
+bagworm
 bewailed
 bewailer
 burglarproof
@@ -18264,7 +18265,6 @@ bannerol
 bastardy
 basophile
 buttermonger
-bagworm
 buttermouth
 butternose
 barathrum
