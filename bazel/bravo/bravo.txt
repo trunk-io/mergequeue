@@ -1652,6 +1652,7 @@ blowsy
 brancher
 balloting
 barded
+byroads
 ballotist
 ballots
 ballottement
@@ -9591,7 +9592,6 @@ byrnie
 byrnies
 balladmongering
 battlefront
-byroads
 birodo
 bakeshops
 burnies
