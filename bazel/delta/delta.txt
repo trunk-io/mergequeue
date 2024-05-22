@@ -15545,7 +15545,6 @@ deprecators
 donnishness
 donnock
 donors
-donought
 donovan
 dons
 dabblings
@@ -18411,6 +18410,7 @@ dedicatedly
 duplexer
 duplexers
 duplexing
+donought
 duplicability
 denudates
 duplicates
