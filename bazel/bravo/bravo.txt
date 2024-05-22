@@ -1868,7 +1868,6 @@ besotter
 branchling
 bandeau
 betula
-bandelet
 bandelette
 bandeng
 banderlog
@@ -13406,6 +13405,7 @@ bothrium
 bothrodendron
 blackcap
 bothropic
+bandelet
 bothsidedness
 blinger
 boththridia
