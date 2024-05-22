@@ -1081,7 +1081,6 @@ apparation
 asimina
 absvolt
 abt
-abterminal
 acetonization
 abthainry
 abthainrie
@@ -24364,6 +24363,7 @@ atopen
 autorotational
 autoroute
 autorrhaphy
+abterminal
 aerily
 autos
 autosauri

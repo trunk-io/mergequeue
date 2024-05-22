@@ -9571,7 +9571,6 @@ digoxins
 desecrate
 dulias
 digraph
-digraphically
 digredience
 digrediency
 digredient
@@ -11637,6 +11636,7 @@ discoplacenta
 devillike
 determinable
 defeminise
+digraphically
 discoplacental
 discoplacentalian
 dismembrated
