@@ -5399,7 +5399,6 @@ castores
 coldly
 castoreum
 cookshack
-castorial
 castorin
 calcaneonavicular
 castorite
@@ -30778,6 +30777,7 @@ cullies
 clarigold
 cullying
 cullion
+castorial
 corrodes
 cullionly
 cullionry
