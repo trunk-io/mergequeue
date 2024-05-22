@@ -1470,6 +1470,7 @@ fother
 foreweep
 freewheel
 fluoroscopic
+formant
 fatuism
 fatuity
 filasse
@@ -8729,7 +8730,6 @@ faying
 firebases
 fidicula
 frizzled
-formant
 fortunateness
 fissileness
 fillers
