@@ -4782,6 +4782,7 @@ aedeagi
 aedeagus
 aedegi
 aedicula
+anesthyl
 aediculae
 aedicule
 aedile
@@ -12621,7 +12622,6 @@ anesthetization
 anesthetize
 anesthetized
 anesthetizes
-anesthyl
 anestri
 anestrous
 anestrus
