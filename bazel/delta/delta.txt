@@ -13319,7 +13319,6 @@ disfen
 deaconhood
 disputant
 disputation
-disconnected
 delightless
 disputations
 dodecaphonist
@@ -16625,6 +16624,7 @@ deprecated
 dragonhood
 dissimulator
 downily
+disconnected
 disbelievingly
 dosadh
 dragonish
