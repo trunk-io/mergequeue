@@ -164,7 +164,6 @@ baccaceous
 bracteolate
 baccalaureate
 baccalaureates
-baccalaureus
 belage
 baccara
 baroques
@@ -10159,6 +10158,7 @@ bizarreness
 blacklisting
 bize
 burys
+baccalaureus
 bizel
 bizen
 bizes
