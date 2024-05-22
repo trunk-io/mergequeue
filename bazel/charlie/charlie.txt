@@ -11513,6 +11513,7 @@ chytridium
 coals
 chockman
 chocks
+cutwater
 chockstone
 choco
 chocoan
@@ -31887,7 +31888,6 @@ chilkat
 cutups
 cruppers
 carcased
-cutwater
 cutweed
 cutwork
 carbineers
