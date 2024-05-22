@@ -380,6 +380,7 @@ abient
 anglophily
 abies
 abyes
+ambiance
 avera
 abietate
 abietic
@@ -7803,7 +7804,6 @@ alaite
 aldea
 antichresis
 aldebaran
-ambiance
 aldebaranium
 algorithm
 aldehyde
