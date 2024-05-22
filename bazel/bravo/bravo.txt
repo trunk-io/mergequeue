@@ -349,6 +349,7 @@ backfriend
 borgh
 backfurrow
 birdlimed
+bacterization
 backgame
 bepuzzle
 beamlet
@@ -10241,7 +10242,6 @@ blacked
 blackey
 becco
 blackeye
-bacterization
 bentincks
 blackeyes
 blacken
