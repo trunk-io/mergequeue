@@ -4762,7 +4762,6 @@ gamori
 glossology
 girondin
 glyoxime
-gentrice
 gironny
 graphophobia
 gyronny
@@ -6360,6 +6359,7 @@ galvanometry
 gobble
 gobbled
 gobbledygook
+gentrice
 gelatinised
 guatambu
 gobbler
