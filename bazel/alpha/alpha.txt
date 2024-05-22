@@ -10677,7 +10677,6 @@ amphithalmi
 aryepiglottidean
 aminobenzaldehyde
 anthrachrysone
-aminobenzene
 aminobenzoic
 appetency
 autotoxicosis
@@ -13059,6 +13058,7 @@ anhemitonic
 anarthropodous
 anhemolytic
 anhyd
+aminobenzene
 anhydraemia
 anhydraemic
 antikinase
