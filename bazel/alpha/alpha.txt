@@ -6625,7 +6625,6 @@ aholds
 ahom
 ahorse
 ahorseback
-ahousaht
 ahriman
 ahs
 ablare
@@ -19768,6 +19767,7 @@ aculeiform
 amidone
 aripple
 arisaid
+ahousaht
 arisard
 arise
 athyrium
