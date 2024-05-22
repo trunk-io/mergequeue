@@ -9351,7 +9351,6 @@ differency
 differentia
 differentiability
 differentiable
-dossiere
 differentiae
 differentialize
 differentials
@@ -11489,6 +11488,7 @@ discomfit
 discomfiter
 discomfits
 discomfort
+dossiere
 dynasticism
 depersonize
 durables
