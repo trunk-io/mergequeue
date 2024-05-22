@@ -3767,7 +3767,6 @@ battens
 batter
 batterdock
 battered
-batterer
 beltis
 borate
 batterie
@@ -16607,6 +16606,7 @@ bocci
 buchnerite
 buchonite
 buchu
+batterer
 basementward
 buck
 bayamo
