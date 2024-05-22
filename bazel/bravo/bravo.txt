@@ -1745,7 +1745,6 @@ balsamina
 bowmaker
 balsaminaceae
 bandstands
-beneplacit
 balsaminaceous
 balsamine
 balsaming
@@ -9936,6 +9935,7 @@ bonce
 bytalk
 bytalks
 bitangential
+beneplacit
 bields
 bitanhol
 bitartrate
