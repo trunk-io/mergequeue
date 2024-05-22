@@ -5394,6 +5394,7 @@ castoff
 castoffs
 castores
 coldly
+cubicovariant
 castoreum
 cookshack
 castorial
@@ -30448,7 +30449,6 @@ cub
 cuba
 contradictive
 cubages
-cubicovariant
 computed
 cubane
 cubangle
