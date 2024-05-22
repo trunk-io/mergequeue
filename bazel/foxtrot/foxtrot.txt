@@ -4327,6 +4327,7 @@ fischerite
 foresleeve
 friendlies
 fise
+furlane
 forb
 fanfish
 fisetin
@@ -8715,7 +8716,6 @@ fortread
 foreordains
 fortresses
 furors
-furlane
 flailed
 fatihah
 flymen
