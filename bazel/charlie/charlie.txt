@@ -16348,7 +16348,6 @@ clippers
 clippie
 clipping
 clippingly
-clips
 clipse
 clipsheet
 clipsheets
@@ -23139,6 +23138,7 @@ constantly
 constantness
 constat
 constatation
+clips
 constate
 curettement
 constellate
