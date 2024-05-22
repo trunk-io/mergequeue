@@ -1325,7 +1325,6 @@ achromophilous
 acatalepsy
 airplane
 acatalepsia
-acataleptic
 acatallactic
 acatamathesia
 artinskian
@@ -14950,6 +14949,7 @@ amortisable
 anticipators
 anticity
 anticytolysin
+acataleptic
 acrid
 anticytotoxin
 adiamorphism
