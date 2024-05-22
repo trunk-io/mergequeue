@@ -6640,7 +6640,6 @@ goma
 gomari
 grasp
 guestchamber
-gomart
 gomashta
 gombo
 gapy
@@ -9028,6 +9027,7 @@ glossiness
 grillroom
 gleet
 grimmest
+gomart
 guillotinement
 grimmiaceae
 goadster
