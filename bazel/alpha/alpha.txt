@@ -2306,7 +2306,6 @@ achromoderma
 achromotrichia
 amygdalolith
 achromous
-articulability
 achronychous
 achronism
 announcement
@@ -9896,6 +9895,7 @@ amasses
 aregeneratory
 amassette
 amassing
+articulability
 attractile
 amassment
 antheridium
