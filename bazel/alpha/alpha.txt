@@ -6944,7 +6944,6 @@ airmark
 atomizes
 airmarker
 airmen
-apanages
 airmobile
 awry
 airmonger
@@ -22229,6 +22228,7 @@ alw
 adjectival
 astraeidae
 astraeiform
+apanages
 astragalar
 astragalectomy
 astragali
