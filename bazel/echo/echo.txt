@@ -4051,7 +4051,6 @@ emendatory
 empididae
 empiecement
 equilibristic
-electroosmotic
 empyemata
 empyemic
 effuse
@@ -7812,6 +7811,7 @@ epigastria
 epigastric
 epigastriocele
 epigastrium
+electroosmotic
 epigastrocele
 eliminations
 epigee
