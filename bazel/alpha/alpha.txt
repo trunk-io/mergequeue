@@ -18992,7 +18992,6 @@ assemblers
 archiepiscopacy
 abomasa
 ardrigh
-archiepiscopal
 archiepiscopality
 archiepiscopate
 abridge
@@ -21124,6 +21123,7 @@ asea
 asearch
 asecretory
 airth
+archiepiscopal
 accomplice
 anagrammatist
 aseethe
