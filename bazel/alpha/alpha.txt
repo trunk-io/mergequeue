@@ -398,7 +398,6 @@ abigei
 abying
 abilao
 abilitable
-ability
 abilities
 abilla
 abilo
@@ -5584,6 +5583,7 @@ aft
 aftaba
 afteract
 afterage
+ability
 afterattack
 afterbay
 afterstorm
