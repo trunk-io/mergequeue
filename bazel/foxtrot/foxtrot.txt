@@ -2061,7 +2061,6 @@ filacer
 feinter
 feudary
 facedown
-faucalize
 flub
 frenches
 feinting
@@ -8469,6 +8468,7 @@ fortunate
 forgiver
 filix
 formicid
+faucalize
 fluorescent
 formicide
 fishling
