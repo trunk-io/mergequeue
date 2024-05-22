@@ -942,6 +942,7 @@ gametocyte
 gurrah
 gametogenic
 goodtemperedness
+geyserite
 gobioid
 gilia
 genome
@@ -2344,7 +2345,6 @@ gonofs
 geisa
 geisenheimer
 geyserish
-geyserite
 georgia
 graduated
 geniality
