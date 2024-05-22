@@ -7612,6 +7612,7 @@ foreshaft
 foredestine
 flavorings
 foredevote
+finalities
 fermentation
 figments
 ficoidal
@@ -10562,7 +10563,6 @@ fichat
 froust
 frousty
 frouzy
-finalities
 frouziest
 frow
 frowardness
