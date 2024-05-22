@@ -6911,7 +6911,6 @@ camis
 celtophobia
 celts
 clocklike
-celtuce
 captaining
 cembalo
 cembalon
@@ -17553,6 +17552,7 @@ cocash
 cocause
 cocautioner
 coccaceae
+celtuce
 crucifix
 chemicals
 coccaceous
