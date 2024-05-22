@@ -9352,7 +9352,6 @@ differentiability
 differentiable
 dossiere
 differentiae
-differentialize
 differentials
 differentiant
 differentiate
@@ -15718,6 +15717,7 @@ doryphorus
 dorippid
 doris
 diaxonic
+differentialize
 dorism
 disseated
 dragsaw
