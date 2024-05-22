@@ -4145,6 +4145,7 @@ alabastrons
 administration
 administrational
 administrations
+appl
 administrative
 administratively
 administrators
@@ -17822,7 +17823,6 @@ aurothiosulphuric
 appetizers
 agrostis
 agathology
-appl
 applanate
 antienzymic
 applanation
