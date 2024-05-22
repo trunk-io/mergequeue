@@ -3497,7 +3497,6 @@ basto
 bucklandite
 bastonet
 bibliolatrous
-bovine
 basts
 banuyo
 basural
@@ -6486,6 +6485,7 @@ benzdioxdiazine
 benzein
 blinks
 benzene
+bovine
 bastian
 benzenediazonium
 benzenes
