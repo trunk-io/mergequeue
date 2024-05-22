@@ -5055,7 +5055,6 @@ educatory
 endocystitis
 experted
 eardrums
-earthbound
 exited
 episperm
 epistlar
@@ -6343,6 +6342,7 @@ ensheaths
 eruditely
 enshell
 enshelter
+earthbound
 enshield
 eprouvette
 enumerating
