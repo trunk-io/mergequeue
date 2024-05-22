@@ -91,6 +91,7 @@ cabbler
 chars
 cabdriving
 cabecudo
+cueball
 capellet
 chorogi
 cabeliau
@@ -14871,7 +14872,6 @@ conceptaculum
 citydom
 closen
 citied
-cueball
 citification
 cityfied
 citifying
