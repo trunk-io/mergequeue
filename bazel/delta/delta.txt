@@ -11610,7 +11610,6 @@ discontinued
 dishabit
 discontinuee
 desi
-drivecap
 discontinuer
 disprepare
 dieselizing
@@ -17591,6 +17590,7 @@ drumlike
 drumlin
 drumline
 drumlinoid
+drivecap
 decelerated
 drumlins
 drumloidal
