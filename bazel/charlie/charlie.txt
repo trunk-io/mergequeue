@@ -8872,6 +8872,7 @@ combflower
 chapelries
 chapels
 chapelward
+complotting
 compile
 chaperno
 chaperon
@@ -20803,7 +20804,6 @@ complins
 complot
 complots
 complotter
-complotting
 complutensian
 clonuses
 cartelized
