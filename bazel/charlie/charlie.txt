@@ -7117,7 +7117,6 @@ cohesions
 centiar
 centiare
 chromocentral
-centiares
 centiday
 centifolious
 centigrade
@@ -20985,6 +20984,7 @@ compte
 compted
 compter
 comptie
+centiares
 compting
 comptness
 comptoir

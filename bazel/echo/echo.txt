@@ -6529,7 +6529,6 @@ electroscopic
 enteraden
 enteradenography
 enteradenological
-enteral
 enteralgia
 embiotocoid
 enterate
@@ -6939,6 +6938,7 @@ entoptic
 entoptical
 entoptically
 engraff
+enteral
 entoptics
 entoptoscopic
 entorganism
