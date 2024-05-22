@@ -5526,7 +5526,6 @@ deorganization
 decolouriser
 deorganize
 deorientalize
-dallack
 deorsum
 deorsumvergence
 deorsumversion
@@ -13268,6 +13267,7 @@ disprince
 disprivacied
 dicynodon
 disprizes
+dallack
 diobols
 detenus
 disprobabilize
