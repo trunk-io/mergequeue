@@ -14919,7 +14919,6 @@ cytoblast
 confidences
 cytoblastema
 cytoblastemal
-caseless
 cytoblastemic
 cytoblastemous
 cytochalasin
@@ -18915,6 +18914,7 @@ collapses
 contam
 cuddles
 collapsing
+caseless
 comprizable
 collarbird
 collarbone
