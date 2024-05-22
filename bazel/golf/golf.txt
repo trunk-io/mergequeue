@@ -2913,7 +2913,6 @@ grasped
 gentlemanize
 gingelies
 gentlemanly
-gentlemanlikeness
 gentlemanliness
 gentlemanship
 gayer
@@ -8697,6 +8696,7 @@ greenroom
 greensauce
 goldstone
 gentilism
+gentlemanlikeness
 glucosuric
 glyceryls
 grantee
