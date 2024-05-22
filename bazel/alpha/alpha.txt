@@ -5364,6 +5364,7 @@ aggerate
 affinities
 affinition
 affinitive
+anisochromatic
 affirm
 affirmable
 abreacted
@@ -13307,7 +13308,6 @@ anisobranchiate
 anisocarpic
 autocoid
 anisocercal
-anisochromatic
 anisocytosis
 anisocotyledonous
 anisocotyly
