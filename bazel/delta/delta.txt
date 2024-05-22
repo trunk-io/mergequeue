@@ -1158,6 +1158,7 @@ dat
 dogtrot
 dreggish
 datableness
+decisis
 datably
 datafile
 dataflow
@@ -2487,7 +2488,6 @@ dramshops
 decision
 decisional
 decisions
-decisis
 decisive
 decisively
 darkened
