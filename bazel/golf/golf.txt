@@ -7522,6 +7522,7 @@ getup
 gowl
 gastropodous
 gambian
+gruntle
 gowlan
 gowning
 gownsman
@@ -9736,7 +9737,6 @@ gelidities
 grunt
 grunter
 grunting
-gruntle
 gruntled
 gruntles
 gruntling
