@@ -5180,7 +5180,6 @@ grav
 gasoliery
 geophysics
 gunman
-gamotropism
 gormless
 glib
 gubernance
@@ -5520,6 +5519,7 @@ galore
 gharris
 greenness
 glyptic
+gamotropism
 gibli
 gunl
 glyptodon
