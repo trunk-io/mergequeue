@@ -4881,6 +4881,7 @@ globefishes
 gomeral
 goaltending
 gyve
+gemlike
 giveable
 gatecrashers
 gederite
@@ -7671,7 +7672,6 @@ gherkin
 graecian
 gullage
 graciosos
-gemlike
 graecize
 grumpish
 glaciolacustrine
