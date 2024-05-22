@@ -14419,6 +14419,7 @@ dividend
 dividends
 dividendus
 deadline
+driftpins
 divident
 decertification
 directionless
@@ -17130,7 +17131,6 @@ driftlessness
 drepanium
 diobely
 disapprobation
-driftpins
 drifts
 ducture
 depositary
