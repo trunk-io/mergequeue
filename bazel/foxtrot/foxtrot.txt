@@ -2547,6 +2547,7 @@ fernyear
 frustulum
 fernlike
 flustrum
+footslog
 fernshaw
 forlorner
 foolhardihood
@@ -7252,7 +7253,6 @@ finial
 footscraper
 flocoon
 footsy
-footslog
 furious
 flockman
 footslogger

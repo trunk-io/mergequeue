@@ -3159,7 +3159,6 @@ actinopteri
 actinopterygian
 annexal
 amylopsase
-actinoscopy
 actinosome
 actinosphaerium
 ava
@@ -20003,6 +20002,7 @@ armlets
 armlike
 armload
 armloads
+actinoscopy
 armlock
 armoire
 armoires
