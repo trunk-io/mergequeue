@@ -626,7 +626,6 @@ bromates
 benomyls
 bacterid
 bacteriogenous
-bacteriohemolysin
 brin
 bacteriolysin
 bletherskate
@@ -18213,6 +18212,7 @@ butoxy
 bohereen
 bedamp
 bibliothecary
+bacteriohemolysin
 butoxyl
 bremely
 betook
