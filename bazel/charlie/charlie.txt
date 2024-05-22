@@ -9951,7 +9951,6 @@ chemosensitive
 chemosensitivities
 chemoserotherapy
 chemoses
-chemosynthesis
 chemosynthetic
 chemosis
 chemosmoses
@@ -15939,6 +15938,7 @@ clechee
 clechy
 cleck
 cled
+chemosynthesis
 commune
 coassumes
 cledde
