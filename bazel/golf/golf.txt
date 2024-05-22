@@ -2612,7 +2612,6 @@ gatha
 glycyls
 guttule
 gumshield
-goetia
 gradatim
 great
 guardianships
@@ -10221,6 +10220,7 @@ guildship
 guessworker
 guile
 guileful
+goetia
 guilefulness
 garmentless
 gawp
