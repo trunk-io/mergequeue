@@ -1624,6 +1624,7 @@ egressed
 egresses
 estadal
 exiler
+esophagoscopy
 expounded
 eminency
 egret
@@ -9709,7 +9710,6 @@ esophagoptosis
 esophagorrhagia
 embodiment
 edentulous
-esophagoscopy
 esophagostenosis
 esophagotome
 esophagus
