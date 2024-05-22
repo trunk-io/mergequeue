@@ -2435,7 +2435,6 @@ fakes
 ferganite
 fellowman
 fergus
-featural
 ferguson
 fergusonite
 ferfet
@@ -11730,6 +11729,7 @@ futwa
 fibdom
 fuzed
 fingerboard
+featural
 floramor
 frights
 flneur
