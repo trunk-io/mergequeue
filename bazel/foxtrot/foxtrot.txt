@@ -5074,7 +5074,6 @@ fluoborite
 fructure
 flashtubes
 forevouched
-feltlike
 ferricyanhydric
 flasker
 foretooth
@@ -6571,6 +6570,7 @@ fluvioterrestrial
 felty
 fondu
 fluxation
+feltlike
 fluxed
 forblack
 floriferousness
