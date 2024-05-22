@@ -4205,7 +4205,6 @@ deadworks
 deliriate
 discomfited
 deliriousness
-delirium
 delirous
 delis
 dishonourable
@@ -13694,6 +13693,7 @@ dimmish
 dissipating
 dissipation
 distils
+delirium
 dissident
 decentered
 dissipations

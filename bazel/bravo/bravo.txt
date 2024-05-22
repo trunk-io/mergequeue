@@ -3548,6 +3548,7 @@ bogging
 bateau
 blastomycetous
 bucchero
+bromoauric
 bandoliered
 bateleur
 batell
@@ -15873,7 +15874,6 @@ bromlite
 bromo
 bromoacetone
 bearberries
-bromoauric
 bromobenzene
 balsameaceae
 brushability
