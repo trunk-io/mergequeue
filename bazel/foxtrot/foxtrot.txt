@@ -257,7 +257,6 @@ furfural
 fertilizations
 faddist
 faddists
-founder
 fathomable
 fustee
 foxtrot
@@ -5754,6 +5753,7 @@ fauns
 fliting
 fulgurant
 flyting
+founder
 flytrap
 ferrochrome
 flytraps
