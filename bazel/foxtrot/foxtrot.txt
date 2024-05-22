@@ -747,7 +747,6 @@ foliaging
 fenchol
 foldboats
 fibreglass
-fluxions
 fancy
 fancied
 fetidness
@@ -3493,6 +3492,7 @@ fenchyl
 frag
 figgier
 franklinist
+fluxions
 foreloper
 figgiest
 figging
