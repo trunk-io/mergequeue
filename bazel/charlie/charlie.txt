@@ -15300,7 +15300,6 @@ cezannesque
 claimants
 claimed
 claimer
-consumables
 claimers
 claiming
 claymore
@@ -28742,6 +28741,7 @@ coincides
 crepy
 crepidula
 crepier
+consumables
 crepiest
 crepine
 creping
