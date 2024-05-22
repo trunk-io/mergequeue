@@ -4113,7 +4113,6 @@ cardiodysneuria
 chronologists
 cardiogenic
 cardiogram
-cardiograph
 cardiographer
 cardiographic
 cardiographies
@@ -17200,6 +17199,7 @@ coagule
 coagulin
 coaguline
 coagulometer
+cardiograph
 coagulose
 coahuiltecan
 coaid
