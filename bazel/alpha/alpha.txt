@@ -3247,6 +3247,7 @@ actorship
 actress
 actresses
 acts
+antiperspirant
 aminic
 actu
 actualisation
@@ -15849,7 +15850,6 @@ antiperistalsis
 antiperistatic
 apaches
 antiperistatical
-antiperspirant
 antiperspirants
 antiperthite
 automobiling
