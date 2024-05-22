@@ -7424,7 +7424,6 @@ geminal
 gourmanderie
 gourmandise
 gourmandism
-gourmandizer
 gomerals
 gametically
 gubernia
@@ -7607,6 +7606,7 @@ guenons
 gorraf
 grackle
 galidia
+gourmandizer
 gabgab
 gradated
 grisping
