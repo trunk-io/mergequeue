@@ -9155,7 +9155,6 @@ almander
 almandine
 almandines
 almanner
-alme
 almeh
 artifice
 almehs
@@ -20690,6 +20689,7 @@ amputative
 arthrotome
 arthrotomy
 arthrotomies
+alme
 arthrotropic
 allergins
 arthrous
