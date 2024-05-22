@@ -6541,7 +6541,6 @@ cdf
 carid
 cdg
 cdr
-ce
 cesspool
 celibates
 ceanothus
@@ -20842,6 +20841,7 @@ composita
 compositae
 composite
 composited
+ce
 compositely
 compositeness
 composites
