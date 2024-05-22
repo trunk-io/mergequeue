@@ -1317,7 +1317,6 @@ acarodermatitis
 amay
 acarologist
 acarophobia
-acarotoxic
 audrey
 acarpelous
 acarpous
@@ -11199,6 +11198,7 @@ amphigastria
 amphigastrium
 amphigastrula
 amphigean
+acarotoxic
 amphigen
 amphigene
 ascertainment
