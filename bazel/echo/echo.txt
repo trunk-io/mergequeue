@@ -758,7 +758,6 @@ ecoute
 ecphorable
 ecphore
 ecphoria
-emotes
 ecphractic
 emergences
 euomphalid
@@ -7635,6 +7634,7 @@ endromididae
 epicondylian
 engraulidae
 exemplification
+emotes
 enforcers
 effectless
 epistilbite
