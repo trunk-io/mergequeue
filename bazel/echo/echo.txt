@@ -2754,6 +2754,7 @@ eutocia
 extrusions
 exotropism
 evergreenite
+exsect
 explorations
 elope
 elytrous
@@ -13495,7 +13496,6 @@ exsculptate
 exscutellate
 electromedical
 exsec
-exsect
 eutaxie
 electroanalytical
 excitements
