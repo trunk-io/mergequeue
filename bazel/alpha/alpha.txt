@@ -5403,7 +5403,6 @@ affixment
 afflate
 anophthalmia
 afflated
-afflatus
 absent
 afflatuses
 algesireceptor
@@ -19875,6 +19874,7 @@ ark
 arkansas
 arkansawyer
 arkansite
+afflatus
 acylase
 arkose
 allseed

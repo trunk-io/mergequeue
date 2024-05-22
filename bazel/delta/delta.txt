@@ -7435,6 +7435,7 @@ deglute
 detrition
 dancer
 drumfire
+dune
 deselect
 defends
 detrivorous
@@ -15969,7 +15970,6 @@ desponding
 delthyria
 didactylism
 dotish
-dune
 derivably
 dotishness
 dispersiveness
