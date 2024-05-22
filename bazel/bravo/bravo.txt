@@ -2633,7 +2633,6 @@ balsameaceous
 barkeeper
 brazing
 barkeeps
-byelaws
 bacchides
 borana
 bunglesome
@@ -7420,6 +7419,7 @@ beta
 bargh
 bescratch
 bedraggle
+byelaws
 betacaine
 betacismus
 betag
