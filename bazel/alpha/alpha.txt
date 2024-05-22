@@ -2024,6 +2024,7 @@ acetylic
 acetylid
 acetyliodide
 acetylizable
+anomalies
 acetylization
 ammonization
 acetylize
@@ -13754,7 +13755,6 @@ absolutization
 anomala
 aboriginal
 anomaly
-anomalies
 anomaliflorous
 anomaliped
 anomalism
