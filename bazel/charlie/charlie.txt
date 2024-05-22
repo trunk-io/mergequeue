@@ -3439,7 +3439,6 @@ capsicums
 carvacrol
 capsid
 competencies
-capsidal
 capsids
 capsizable
 capsizal
@@ -22183,6 +22182,7 @@ confrontations
 confronter
 connivently
 confrontment
+capsidal
 cannonballs
 confucian
 confucianism
