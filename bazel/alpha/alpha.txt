@@ -4160,7 +4160,6 @@ admiralties
 atalan
 admiration
 atlee
-apatheia
 ailurophilia
 admirative
 atomise
@@ -22151,6 +22150,7 @@ amassed
 asthmatical
 asthmatoid
 asthmogenic
+apatheia
 asthore
 assubjugate
 astian
