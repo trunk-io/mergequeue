@@ -2606,7 +2606,6 @@ algesic
 acopyrin
 acopyrine
 acopon
-acor
 acorea
 aecidia
 acorn
@@ -8404,6 +8403,7 @@ aliquant
 aliquots
 alisanders
 alisier
+acor
 antechoir
 alismaceous
 alismal
