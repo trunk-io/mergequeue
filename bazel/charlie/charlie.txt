@@ -15305,7 +15305,6 @@ claimer
 consumables
 claimers
 claiming
-claymore
 claims
 clayoquot
 claypans
@@ -29955,6 +29954,7 @@ crotaliform
 crotalin
 connivances
 caulocarpous
+claymore
 crotalo
 crotaloid
 crotalum
