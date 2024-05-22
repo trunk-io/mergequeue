@@ -4826,7 +4826,6 @@ fungal
 flailing
 folksinging
 fisheries
-followable
 flails
 flain
 flubdubberies
@@ -7555,6 +7554,7 @@ forebodement
 forechase
 fuzils
 foretake
+followable
 filer
 fetisheer
 frocks
