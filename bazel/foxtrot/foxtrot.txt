@@ -6461,7 +6461,6 @@ frustratingly
 footbaths
 fluosilicic
 fluotantalic
-fluotitanic
 franklin
 flurn
 flurried
@@ -9493,6 +9492,7 @@ fraternisation
 fraternised
 fraternism
 firry
+fluotitanic
 founts
 fondak
 fraternize
