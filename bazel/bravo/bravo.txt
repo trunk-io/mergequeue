@@ -1061,6 +1061,7 @@ bailiery
 bargainwise
 bailieries
 bailieship
+battens
 bailiff
 bailiffry
 bailiffs
@@ -3763,7 +3764,6 @@ battener
 beknown
 balladising
 batteners
-battens
 batter
 batterdock
 battered
