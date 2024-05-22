@@ -8284,6 +8284,7 @@ geast
 geoblast
 ganoid
 grassland
+guergal
 gedds
 glaswegian
 gremmy
@@ -10713,7 +10714,6 @@ gairfish
 guytrash
 gustables
 gustard
-guergal
 grouping
 gustatorial
 geneticists

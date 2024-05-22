@@ -24353,6 +24353,7 @@ cards
 cookstove
 colligible
 contumacies
+copywise
 cookware
 cool
 coolamon
@@ -28312,7 +28313,6 @@ craterless
 craterlet
 craterlike
 craters
-copywise
 craticular
 cratinean
 crating
