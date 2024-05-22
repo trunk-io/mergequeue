@@ -1146,7 +1146,6 @@ eikons
 elephantine
 esthetics
 environage
-embowelled
 edition
 editions
 editor
@@ -13808,6 +13807,7 @@ electrophilic
 extracystic
 extracivic
 extracivically
+embowelled
 etymological
 euplectella
 extraclaustral
