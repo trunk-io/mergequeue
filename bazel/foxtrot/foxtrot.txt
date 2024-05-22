@@ -56,7 +56,6 @@ faster
 fabulously
 fumaria
 facaded
-faceable
 facebar
 facebow
 faced
@@ -9497,6 +9496,7 @@ fraternism
 firry
 founts
 fondak
+faceable
 fraternize
 fulica
 furcae
