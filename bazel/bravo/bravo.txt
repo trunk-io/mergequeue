@@ -3588,7 +3588,6 @@ bathes
 bathetically
 bathflower
 bathhouse
-bathhouses
 braggest
 becudgel
 bathycentesis
@@ -11441,6 +11440,7 @@ bluebottle
 bluebreast
 bashlik
 bluebush
+bathhouses
 build
 bluecap
 bibbed
