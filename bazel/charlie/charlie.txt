@@ -9304,7 +9304,6 @@ chat
 chataka
 chatchka
 chatchkas
-chatchke
 chatchkes
 chateaugray
 chateaus
@@ -9856,6 +9855,7 @@ combattants
 conventionalist
 chemick
 calanid
+chatchke
 chemicker
 chemicoastrological
 chemicobiologic
