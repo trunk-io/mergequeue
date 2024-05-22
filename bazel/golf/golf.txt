@@ -1214,7 +1214,6 @@ gigantology
 gaol
 grift
 gynostegium
-gaoled
 gaoling
 groatsworth
 glutinate
@@ -8853,6 +8852,7 @@ grevillea
 gesticulation
 grewia
 guruship
+gaoled
 gemming
 grooty
 ghess
