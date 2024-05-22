@@ -4650,7 +4650,6 @@ graminous
 gyred
 girella
 girellidae
-gastrogastrotomy
 gapperi
 girtonian
 grangousier
@@ -10577,6 +10576,7 @@ gunong
 girasols
 gerbille
 greenockite
+gastrogastrotomy
 gratify
 glazier
 gunpoint
