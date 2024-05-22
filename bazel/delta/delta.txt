@@ -9549,7 +9549,6 @@ dignitarian
 demophoon
 dignitaries
 doubloons
-dignities
 dignosle
 dignotion
 dependants
@@ -15177,6 +15176,7 @@ decants
 drossiness
 dolichocephali
 dolichocephalism
+dignities
 denticete
 dolichocephalize
 daresay
