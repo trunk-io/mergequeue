@@ -15259,7 +15259,6 @@ cladose
 canicule
 cladoselachea
 cladoselachian
-cladoselachidae
 camuse
 cladosiphonic
 cladothrix
@@ -19963,6 +19962,7 @@ commandry
 cephalothoraces
 commandrie
 commandries
+cladoselachidae
 commark
 cyanauric
 croupal
