@@ -3481,7 +3481,6 @@ bastinado
 bastinadoing
 basting
 bastings
-bastion
 blendure
 bastionary
 bodingly
@@ -3601,6 +3600,7 @@ binode
 blonds
 bathylithic
 bipinnaria
+bastion
 bathymeter
 blithesomeness
 bathymetry
