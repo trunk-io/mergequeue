@@ -10120,7 +10120,6 @@ bivocal
 baste
 bivocalized
 bivoluminous
-boatful
 bochism
 bivouaced
 bivouacked
@@ -12362,6 +12361,7 @@ baculi
 biophor
 beldame
 bonds
+boatful
 baniwa
 bookkeeper
 bombastical
