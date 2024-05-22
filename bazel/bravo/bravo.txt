@@ -1392,6 +1392,7 @@ baldest
 baldfaced
 blots
 bloodstained
+barquentine
 baldhead
 blanketmaking
 baldheaded
@@ -7484,7 +7485,6 @@ bethflower
 bethylidae
 bootstrap
 bethink
-barquentine
 balaenoptera
 bethinks
 baklawa
