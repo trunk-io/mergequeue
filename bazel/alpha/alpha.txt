@@ -8083,7 +8083,6 @@ alfet
 authentical
 anachueta
 alfileria
-astert
 alfiona
 alfione
 alfirk
@@ -11970,6 +11969,7 @@ australopithecus
 anapterygota
 anapterygote
 anapterygotism
+astert
 ariettas
 anaptychus
 anaptyctic
