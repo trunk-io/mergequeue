@@ -5594,6 +5594,7 @@ dehistoricize
 drama
 disattire
 departition
+discontinuable
 department
 departmental
 depreciant
@@ -11604,7 +11605,6 @@ discontents
 discontiguity
 diamines
 discontiguousness
-discontinuable
 dacryocystorhinostomy
 discontinuances
 discontinue
