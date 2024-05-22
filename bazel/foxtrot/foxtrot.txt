@@ -8055,7 +8055,6 @@ fever
 flagitation
 firebrats
 flayflint
-furnitures
 fondness
 flecnode
 fibula
@@ -11098,6 +11097,7 @@ fantoms
 functionalities
 fixups
 functionalized
+furnitures
 functionated
 frameae
 flense
