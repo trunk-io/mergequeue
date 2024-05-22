@@ -654,7 +654,6 @@ caespitose
 caespitosely
 caestus
 creatins
-caestuses
 caesura
 caesurae
 caesural
@@ -17807,6 +17806,7 @@ carbonero
 coddle
 coddler
 coddlers
+caestuses
 coddles
 code
 codebooks
