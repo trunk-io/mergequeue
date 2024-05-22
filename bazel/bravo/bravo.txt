@@ -2999,6 +2999,7 @@ barsom
 barstool
 barstools
 bart
+bibulosity
 bartend
 bartended
 barrera
@@ -11636,7 +11637,6 @@ bisontine
 board
 boardbill
 boarded
-bibulosity
 boardinghouse
 boardings
 boardly
