@@ -9896,7 +9896,6 @@ gangplow
 gravestones
 guaranty
 glyceride
-gotten
 gaolering
 guaranties
 gerontomorphosis
@@ -10377,6 +10376,7 @@ graveless
 graminivore
 garbanzos
 granulomas
+gotten
 gnathobasic
 gutta
 gyrenes
