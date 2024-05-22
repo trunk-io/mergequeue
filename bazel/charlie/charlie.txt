@@ -22017,7 +22017,6 @@ confirmatory
 commers
 confirmatorily
 confirmed
-confirmedness
 confirmer
 cibarious
 coalrake
@@ -27843,6 +27842,7 @@ cabdriver
 cozes
 cerebroside
 cozy
+confirmedness
 cozie
 coziest
 cp
