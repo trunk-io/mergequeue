@@ -16491,7 +16491,6 @@ antony
 antonym
 antonymy
 antonymic
-acousmata
 antonymies
 antonyms
 antoniniani
@@ -20587,6 +20586,7 @@ attendantly
 arthralgic
 arthrectomy
 alae
+acousmata
 arthredema
 arthresthesia
 arthritic
