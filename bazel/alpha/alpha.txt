@@ -12132,7 +12132,6 @@ anatomization
 anatomize
 anatomized
 anatomizer
-abduced
 anatomizing
 anatomopathologic
 anatopism
@@ -22086,6 +22085,7 @@ asterinidae
 asterionella
 arabicize
 antimonarchicalness
+abduced
 asteriscus
 asteriscuses
 asterisk
