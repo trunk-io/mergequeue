@@ -777,6 +777,7 @@ ferricyanogen
 funnellike
 fabricable
 freemasonry
+freightment
 fanfolds
 floggable
 fontina
@@ -9782,7 +9783,6 @@ fallalishly
 fenestral
 freightliner
 femoral
-freightment
 fishgrass
 fluidal
 freyja
