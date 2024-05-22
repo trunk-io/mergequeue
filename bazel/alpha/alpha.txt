@@ -1106,7 +1106,6 @@ askew
 abundance
 apparelled
 abundancy
-abundant
 abundantia
 abundantly
 abune
@@ -7554,6 +7553,7 @@ album
 albumen
 admittee
 albumeniizer
+abundant
 albumenisation
 albumenise
 autobiographic
