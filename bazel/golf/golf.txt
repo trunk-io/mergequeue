@@ -6074,6 +6074,7 @@ gardencraft
 gazogenes
 glutamine
 genevois
+graphicness
 ginkgoes
 garigue
 gymnemic
@@ -8141,7 +8142,6 @@ graphemics
 gastroscopies
 greenhorn
 graphically
-graphicness
 graphing
 glamourously
 glutamates
