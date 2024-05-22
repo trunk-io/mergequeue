@@ -1960,7 +1960,6 @@ eaters
 ejusd
 ekaboron
 ekacaesium
-ekasilicon
 eke
 epop
 ekebergite
@@ -4302,6 +4301,7 @@ emboldens
 electrohorticulture
 entangle
 epiglottides
+ekasilicon
 echiniform
 enacting
 ers
