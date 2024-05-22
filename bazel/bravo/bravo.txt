@@ -7667,7 +7667,6 @@ biathlon
 bevenom
 bever
 beverage
-beverse
 bevesseled
 brinks
 boneache
@@ -7873,6 +7872,7 @@ bactetiophage
 bharal
 bhat
 bhava
+beverse
 bheesty
 bullaries
 bheestie
