@@ -2965,6 +2965,7 @@ acropodium
 adeps
 acropoleis
 acuminated
+alcogene
 acropolis
 acropolitan
 acropora
@@ -7723,7 +7724,6 @@ alcoate
 atterrate
 alchemical
 andiroba
-alcogene
 ascogonium
 alcohate
 assertorically
