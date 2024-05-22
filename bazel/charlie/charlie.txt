@@ -14447,7 +14447,6 @@ circumscribable
 cribbers
 circumscribed
 circumstanced
-circumscriber
 circumscript
 circumscriptions
 circumscriptive
@@ -18071,6 +18070,7 @@ cephalosporin
 coenenchymal
 capouch
 cherty
+circumscriber
 coenesthesia
 coenesthesis
 coenflame
