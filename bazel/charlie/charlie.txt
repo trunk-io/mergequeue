@@ -17376,6 +17376,7 @@ coatrack
 coatroom
 coatrooms
 coats
+craniectomy
 cheloid
 coattend
 cajeta
@@ -28130,7 +28131,6 @@ craniate
 craniates
 cranic
 circaeaceae
-craniectomy
 craniniums
 craniocele
 craniocerebral
