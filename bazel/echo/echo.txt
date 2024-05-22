@@ -773,7 +773,6 @@ electrolyse
 ecstatic
 exhaled
 englishwoman
-eosines
 ecstatical
 endosulfan
 ecstatically
@@ -11572,6 +11571,7 @@ evocations
 eugenical
 evocative
 eupnea
+eosines
 elenchus
 encodement
 epileptogenous
