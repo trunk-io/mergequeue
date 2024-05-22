@@ -8355,7 +8355,6 @@ boggy
 beswarming
 byeworker
 byeworkman
-bifaces
 bifacial
 bifara
 bedress
@@ -13782,6 +13781,7 @@ beheading
 bovver
 basilinna
 bowable
+bifaces
 bapt
 bowback
 bowbells
