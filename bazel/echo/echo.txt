@@ -1314,6 +1314,7 @@ effectualness
 effectuated
 encastage
 effectuating
+equipped
 effervesced
 ethmolachrymal
 epimyocardial
@@ -8741,7 +8742,6 @@ equipondious
 enable
 equipotential
 equipotentiality
-equipped
 electrostereotype
 equiprobability
 enablers
