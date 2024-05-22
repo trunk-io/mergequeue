@@ -3691,7 +3691,6 @@ adenochrome
 apts
 adenocystoma
 antepectoral
-adenocystomatous
 adenodermia
 adenodynia
 apotheces
@@ -12088,6 +12087,7 @@ anatabine
 anatase
 anatases
 anatexis
+adenocystomatous
 anathemas
 apogamically
 anathematic
