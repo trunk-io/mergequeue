@@ -3741,7 +3741,6 @@ bunsen
 books
 blissfully
 batsmen
-batswing
 batt
 bobadilism
 bammed
@@ -15436,6 +15435,7 @@ barbes
 besmoothed
 bloodless
 brinies
+batswing
 briniest
 beefin
 brininess

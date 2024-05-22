@@ -2273,7 +2273,6 @@ decemplex
 dissocialize
 decempunctate
 dogmatize
-decemstriate
 decemuiri
 decemvii
 decemvir
@@ -7649,6 +7648,7 @@ dryest
 devel
 develing
 develop
+decemstriate
 developable
 developed
 defervescence
