@@ -6904,6 +6904,7 @@ feudovassalism
 fringier
 forespeaker
 foreignization
+frontals
 folkmoots
 fauchard
 firetower
@@ -10406,7 +10407,6 @@ facewise
 flatmate
 footgeld
 firs
-frontals
 frontbencher
 frontcourt
 fortune
