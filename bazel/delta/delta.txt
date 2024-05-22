@@ -1616,6 +1616,7 @@ disseizee
 dealkalize
 dealkylate
 dealkylation
+dioxide
 deallocate
 deallocated
 daunter
@@ -10374,7 +10375,6 @@ dioxy
 defecate
 dioxid
 divergence
-dioxide
 disfavors
 dioxides
 dioxids
