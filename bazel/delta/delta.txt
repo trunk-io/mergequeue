@@ -791,7 +791,6 @@ detections
 dangerfully
 depe
 dangerous
-dangerously
 deduced
 dangerousness
 dangers
@@ -18041,6 +18040,7 @@ dolerite
 dilemmatically
 decreed
 dullbrained
+dangerously
 dulled
 dullest
 dangersome
