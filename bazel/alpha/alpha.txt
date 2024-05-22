@@ -20645,7 +20645,6 @@ aetiology
 arthropathic
 arthrophyma
 arthrophlogosis
-anencephaly
 arthropyosis
 arthroplasty
 arthroplastic
@@ -24964,6 +24963,7 @@ awards
 aware
 awaredom
 airborne
+anencephaly
 awareness
 awarrant
 awaruite
