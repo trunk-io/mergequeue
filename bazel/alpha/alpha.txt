@@ -6234,7 +6234,6 @@ atocia
 aglance
 aglaos
 aglaozonia
-aglare
 aglaspis
 agleaf
 algous
@@ -24504,6 +24503,7 @@ auturgy
 auxanogram
 auxanometer
 anisogenous
+aglare
 auxeses
 altercative
 auxesis
