@@ -6943,7 +6943,6 @@ cementin
 carane
 cementite
 cementitious
-cementlike
 carinaria
 chlorosulphonic
 cementmaker
@@ -16811,6 +16810,7 @@ cloverleaves
 cloverley
 cycadophyte
 cloveroot
+cementlike
 cloverroot
 crepitus
 clovewort
