@@ -778,7 +778,6 @@ fandangos
 fandoms
 fanegadas
 feudalizable
-fellowlike
 fermacy
 fanfaronade
 fanfarons
@@ -6549,6 +6548,7 @@ flutist
 fibrilations
 flutter
 flutterable
+fellowlike
 flutterboard
 fluttered
 furnacer
