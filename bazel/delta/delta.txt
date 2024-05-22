@@ -2031,7 +2031,6 @@ daiquiris
 dealates
 decay
 decayable
-delousing
 dramas
 decayed
 decayedness
@@ -15258,6 +15257,7 @@ dolmen
 dolmenic
 dolomedes
 dolomite
+delousing
 derries
 dolomitic
 dilators
