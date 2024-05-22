@@ -1781,7 +1781,6 @@ buses
 biretta
 balun
 balustrading
-bromatology
 balwarra
 balzarine
 bam
@@ -9928,6 +9927,7 @@ bisulc
 bubblebow
 bisulfate
 bisulfide
+bromatology
 buries
 bit
 bitable
