@@ -2877,7 +2877,6 @@ elevation
 electrophorus
 escalators
 eu
-evenwise
 eleven
 egrid
 elevener
@@ -10988,6 +10987,7 @@ exogenism
 euphues
 evilproof
 euphuism
+evenwise
 erinnic
 entomologising
 echinops
