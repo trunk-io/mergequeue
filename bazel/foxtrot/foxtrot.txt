@@ -3958,7 +3958,6 @@ fasces
 finfoots
 footsteps
 fingal
-fingan
 fisticuffing
 fingerbreadth
 flatter
@@ -5137,6 +5136,7 @@ flowe
 frontate
 frozenhearted
 furmente
+fingan
 flatworms
 frizzing
 flaubert
