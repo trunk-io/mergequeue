@@ -6548,7 +6548,6 @@ benzophenothiazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
-briton
 breakup
 butanes
 benzopyrazolone
@@ -10107,6 +10106,7 @@ beinness
 bivious
 bedfast
 bivocal
+briton
 baste
 bivocalized
 bivoluminous
