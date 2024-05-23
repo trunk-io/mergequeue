@@ -3129,7 +3129,6 @@ genii
 gorra
 genapper
 gutterling
-gastromyces
 glumal
 geometridae
 gangshag
@@ -7575,6 +7574,7 @@ grus
 grabhook
 grabouche
 gluside
+gastromyces
 grabs
 glasgow
 gruiform
