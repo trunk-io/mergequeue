@@ -6048,6 +6048,7 @@ depurator
 dicliny
 depuratory
 depure
+disamenity
 depurge
 delta
 depurged
@@ -17944,7 +17945,6 @@ dufter
 dosage
 dufterdar
 duftite
-disamenity
 dialoguer
 dug
 dugal
