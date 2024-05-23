@@ -1713,7 +1713,6 @@ gastraeum
 glossoepiglottidean
 gastral
 gastralgy
-gastralgia
 gastraneuria
 giggish
 glycuronid
@@ -6754,6 +6753,7 @@ gonfanon
 gong
 gunreach
 gonged
+gastralgia
 gekkota
 gonomery
 gongorist
