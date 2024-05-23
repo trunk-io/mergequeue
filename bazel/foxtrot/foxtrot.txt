@@ -7667,7 +7667,6 @@ flammant
 fleshlily
 foretopsail
 fiefdom
-foregut
 forehalf
 feudalize
 forehammer
@@ -11530,6 +11529,7 @@ fusate
 fusc
 fuscin
 fuscohyaline
+foregut
 fibrolipomatous
 fumigate
 firesafeness

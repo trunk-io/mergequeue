@@ -5227,7 +5227,6 @@ bagpod
 beforeness
 beforesaid
 beforetimes
-baffled
 becket
 bouilli
 boxholder
@@ -6745,6 +6744,7 @@ bergamasca
 bergamasche
 bergamask
 barmier
+baffled
 buzzards
 bergamo
 brandreth
