@@ -2256,6 +2256,7 @@ deflex
 dustbox
 decelerates
 decelerator
+dissimilarity
 decembrist
 diaphragmal
 decemcostate
@@ -13637,7 +13638,6 @@ dispersals
 dissyllabizing
 dedications
 dissyllable
-dissimilarity
 dissimilarities
 dashers
 dissimilars
