@@ -1352,7 +1352,6 @@ diatomin
 davach
 doyennes
 derry
-deworm
 dave
 disacidify
 davenport
@@ -15096,6 +15095,7 @@ doyenne
 decussorium
 deduction
 doyens
+deworm
 disilicid
 doiled
 doyley
