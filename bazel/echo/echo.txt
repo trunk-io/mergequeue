@@ -1148,7 +1148,6 @@ editing
 epacts
 earthshakingly
 elhi
-eikons
 elephantine
 esthetics
 environage
@@ -5543,6 +5542,7 @@ elderwood
 eyeline
 enfilade
 enfilades
+eikons
 eerinesses
 enfilading
 enfants
