@@ -3887,7 +3887,6 @@ gibstaff
 galeche
 gavelage
 gibuses
-giddap
 guideless
 goff
 greenbugs
@@ -10415,6 +10414,7 @@ giller
 gulpers
 geepound
 gulph
+giddap
 getable
 gulping
 gaulter
