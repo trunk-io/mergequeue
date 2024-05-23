@@ -1300,7 +1300,6 @@ dauke
 dorsigerous
 daulias
 decolored
-disorder
 dault
 daunch
 damageable
@@ -4873,6 +4872,7 @@ demolisher
 demolishing
 diarrhoea
 demolition
+disorder
 disembroil
 demolitionist
 dishonest
