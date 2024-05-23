@@ -7291,7 +7291,6 @@ epa
 epipial
 explained
 epacmaic
-epicyclic
 epacrid
 engird
 epacris
@@ -8584,6 +8583,7 @@ essentializing
 eastlin
 ergographic
 equational
+epicyclic
 equationally
 ethicism
 equationist
