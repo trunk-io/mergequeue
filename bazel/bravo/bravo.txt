@@ -3782,7 +3782,6 @@ battlefronts
 battlegrounds
 bringall
 barway
-battlement
 battlements
 barnstorms
 battler
@@ -10805,6 +10804,7 @@ blende
 blazed
 billetty
 beslur
+battlement
 blended
 blendwater
 bowhead
