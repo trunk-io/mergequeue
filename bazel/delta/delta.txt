@@ -9714,7 +9714,6 @@ deerdrive
 dilaters
 dilates
 descender
-dilation
 decolourization
 dilations
 dilatometer
@@ -17785,6 +17784,7 @@ desoxycorticosterone
 duck
 depa
 duckbill
+dilation
 duckstone
 dossing
 duckblind
