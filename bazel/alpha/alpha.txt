@@ -7418,7 +7418,6 @@ anelectrotonic
 albarelli
 ariboflavinosis
 albarium
-albas
 albaspidin
 albata
 albatas
@@ -14383,6 +14382,7 @@ angiotensin
 aspalathus
 antherozoid
 antherozooidal
+albas
 anthers
 antheses
 aquosity
