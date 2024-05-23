@@ -3061,6 +3061,7 @@ geomance
 geogen
 geogenesis
 gigeria
+gossiper
 gyropilot
 gibbartas
 gyrencephalous
@@ -7310,7 +7311,6 @@ gossiped
 glycerolysis
 gossipee
 galactolytic
-gossiper
 gatehouses
 greensward
 gossipy
