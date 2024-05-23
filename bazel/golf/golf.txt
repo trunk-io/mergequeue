@@ -3223,7 +3223,6 @@ gallification
 gnast
 geoscience
 gangsters
-geoscientists
 gellant
 geoscopy
 gelasian
@@ -4081,6 +4080,7 @@ gliadines
 guffaw
 grievousness
 grotzen
+geoscientists
 gilden
 gouter
 gangliomata
