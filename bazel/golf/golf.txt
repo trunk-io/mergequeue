@@ -1512,7 +1512,6 @@ garryaceae
 giraffe
 grecianize
 garrigue
-gulravage
 germanism
 goodnight
 garrisonism
@@ -5910,6 +5909,7 @@ glottid
 glottides
 galeenies
 guttling
+gulravage
 galvanocontractility
 glottiscope
 gustier
