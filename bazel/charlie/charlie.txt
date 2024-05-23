@@ -5743,7 +5743,6 @@ catechesis
 catechetic
 congenator
 conduceability
-catechetical
 certy
 catechin
 cludder
@@ -23447,6 +23446,7 @@ contemplate
 contemplatedly
 contemplates
 contemplating
+catechetical
 contemplation
 contemplations
 contemplatist
