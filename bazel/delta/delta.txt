@@ -8043,6 +8043,7 @@ dimension
 dhaman
 dhamnoo
 dynamist
+devocalisation
 dhan
 dhangar
 dhanuk
@@ -18568,7 +18569,6 @@ dustbins
 donate
 discombobulates
 dustcart
-devocalisation
 detectably
 dianoetical
 dustcover
