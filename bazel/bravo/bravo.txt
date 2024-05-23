@@ -2925,7 +2925,6 @@ baetylic
 brattle
 barrelmaker
 barrelmaking
-barrelwise
 barren
 barrenly
 barrenness
@@ -17126,6 +17125,7 @@ batches
 bulletins
 bulletless
 bulletlike
+barrelwise
 burghmote
 boleite
 breadseller
