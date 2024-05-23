@@ -9475,6 +9475,7 @@ grouplet
 groupment
 gimbaling
 gins
+granule
 glimes
 groupoid
 galbraithian
@@ -10748,7 +10749,6 @@ giber
 gutbucket
 guiders
 graminin
-granule
 glycerinate
 gotos
 gomerels
