@@ -3669,7 +3669,6 @@ gunbearer
 gatewaymen
 groups
 gelfomino
-gargil
 ghastlily
 gantries
 groundsill
@@ -7271,6 +7270,7 @@ guze
 gentrification
 genys
 geographics
+gargil
 grizzles
 gospelmonger
 gemmily
