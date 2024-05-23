@@ -3729,7 +3729,6 @@ carbarn
 chondriomite
 carbarns
 carbasus
-carbazic
 carbazide
 carbazylic
 chlorpikrin
@@ -9786,6 +9785,7 @@ cheiromegaly
 colloidal
 cheiropatagium
 cleanness
+carbazic
 churchmanship
 cheiropod
 cheiropody
