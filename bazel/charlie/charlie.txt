@@ -10918,7 +10918,6 @@ chipolata
 coleopteroid
 cordwain
 chippendale
-chipper
 chemiatrist
 chippered
 chippering
@@ -29889,6 +29888,7 @@ cogwheel
 crosshatching
 crosshaul
 crosshauling
+chipper
 crossing
 crossings
 crossite
