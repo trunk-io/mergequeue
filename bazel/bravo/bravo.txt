@@ -2634,7 +2634,6 @@ barken
 beknights
 barkentine
 barkentines
-barker
 barkery
 bub
 barkhan
@@ -9107,6 +9106,7 @@ binucleated
 biogenesis
 backwort
 blepharochalasis
+barker
 baudekins
 bullimong
 biogenesist
