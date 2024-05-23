@@ -2622,7 +2622,6 @@ elytroclasia
 electroscission
 esoterica
 electroscope
-electrosensitive
 electrosherardizing
 entad
 electroshock
@@ -13125,6 +13124,7 @@ epaxial
 emmantle
 expirations
 expirator
+electrosensitive
 expiratory
 eche
 expired
