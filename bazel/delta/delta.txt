@@ -9680,7 +9680,6 @@ dilapidated
 disconcord
 dilapidation
 dilatability
-dilatable
 dilatably
 deters
 desiderate
@@ -16355,6 +16354,7 @@ downslope
 dogeared
 downsman
 downstairs
+dilatable
 duras
 devout
 derelictions
