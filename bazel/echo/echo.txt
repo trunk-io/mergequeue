@@ -3997,6 +3997,7 @@ exhilaratory
 empanel
 expoundable
 empaneled
+encipher
 evolvers
 empaneling
 empanelling
@@ -4240,7 +4241,6 @@ emptiness
 emptio
 emption
 emptor
-encipher
 expo
 emptory
 eduction
