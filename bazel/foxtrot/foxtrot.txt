@@ -2682,6 +2682,7 @@ ferrugo
 flusters
 foreshoulder
 ferrule
+fleeting
 farde
 frumentation
 familiarisation
@@ -5374,7 +5375,6 @@ foredispose
 fleeter
 fleetest
 fibroses
-fleeting
 fusionless
 fleets
 firefighter
