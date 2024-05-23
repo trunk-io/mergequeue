@@ -1538,7 +1538,6 @@ acclimatize
 acclimatizer
 acclimatizes
 acrisia
-anticness
 acclinal
 acclinate
 acclivities
@@ -11139,6 +11138,7 @@ angiograph
 arbitrator
 amphibologically
 amphibologies
+anticness
 anabaptistry
 amphibolous
 amphibrach
