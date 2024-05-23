@@ -5041,7 +5041,6 @@ aerography
 aerographical
 aerographics
 aerographies
-aerogun
 aerohydrodynamic
 aerohydropathy
 approachment
@@ -10905,6 +10904,7 @@ amnions
 amnios
 amniota
 amniote
+aerogun
 amniotes
 antipreparedness
 amniotic
