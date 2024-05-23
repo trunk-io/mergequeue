@@ -12623,7 +12623,6 @@ acarology
 anesthetically
 anesthetics
 anesthetization
-anesthetize
 anesthetized
 anesthetizes
 anesthyl
@@ -24927,6 +24926,7 @@ axemaster
 awakened
 alkermes
 awakener
+anesthetize
 algometer
 awakeners
 awakening

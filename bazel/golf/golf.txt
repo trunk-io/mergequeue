@@ -6130,7 +6130,6 @@ griffado
 gmelina
 gravamen
 gloriana
-geometry
 gutterman
 gravitation
 gnabble
@@ -6867,6 +6866,7 @@ gonococcic
 gambler
 glacis
 grantsmanship
+geometry
 gotch
 gigglish
 gonococcocci
