@@ -1879,7 +1879,6 @@ disconcertingness
 discourse
 debouched
 debouches
-debouching
 debouchment
 donsy
 debout
@@ -3305,6 +3304,7 @@ durante
 defiant
 disjects
 desalinized
+debouching
 defiantness
 defiatory
 defiber
