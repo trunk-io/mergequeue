@@ -6632,6 +6632,7 @@ desentimentalize
 demerol
 deperming
 desert
+duty
 deserted
 deserters
 deescalated
@@ -18610,7 +18611,6 @@ dutchmen
 duteous
 duteousness
 devouring
-duty
 dutiability
 dutiable
 dutied
