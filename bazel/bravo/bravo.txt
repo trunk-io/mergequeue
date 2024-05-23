@@ -3815,7 +3815,6 @@ bukshi
 battologised
 battologising
 battologist
-battologize
 bookmaking
 battologizing
 berkshire
@@ -10460,6 +10459,7 @@ browman
 blandishing
 blandishingly
 bashara
+battologize
 blandishments
 braggadocian
 boutell
