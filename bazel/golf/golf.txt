@@ -3474,7 +3474,6 @@ gerontocrat
 greenwing
 gerontologist
 giesel
-gerontologists
 garvanzo
 gloiopeltis
 gileadite
@@ -7084,6 +7083,7 @@ galactodendron
 gladiators
 goglets
 gathers
+gerontologists
 galvanometer
 gastrogenital
 guara
