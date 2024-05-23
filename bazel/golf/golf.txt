@@ -794,7 +794,6 @@ gombeen
 galvanometers
 galvanometric
 geometries
-goumi
 gnathal
 gregg
 genae
@@ -4132,6 +4131,7 @@ gentamicin
 gadidae
 gumpheon
 gillion
+goumi
 gilliver
 gillnetted
 gillotage
