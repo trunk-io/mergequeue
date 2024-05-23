@@ -8803,7 +8803,6 @@ chantment
 chantor
 carman
 cheiloplasties
-chantors
 chantress
 chantry
 chantries
@@ -23573,6 +23572,7 @@ creator
 continentals
 contineu
 contingence
+chantors
 centrolinead
 colback
 contingency
