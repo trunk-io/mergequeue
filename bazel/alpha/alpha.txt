@@ -1068,7 +1068,6 @@ assignations
 abstrusity
 abstrusities
 absume
-absurd
 anesthesiologist
 autarchoglossa
 antiperiodic
@@ -3738,6 +3737,7 @@ adenopharyngeal
 adenopharyngitis
 adenophlegmon
 adenophora
+absurd
 archaize
 amsonia
 adenophore
