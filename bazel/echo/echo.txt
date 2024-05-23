@@ -2680,7 +2680,6 @@ emyds
 electrothermal
 expurgates
 epiperipheral
-enaluron
 electrothermic
 endomycetaceae
 electrothermometer
@@ -4250,6 +4249,7 @@ eerie
 epicurism
 ems
 ependymoma
+enaluron
 estradiot
 emulant
 emulations
