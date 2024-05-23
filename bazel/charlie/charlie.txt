@@ -8212,7 +8212,6 @@ cenatory
 chainbreak
 crepuscule
 conceptions
-chaine
 chained
 chainer
 chainless
@@ -23695,6 +23694,7 @@ contracivil
 contraclockwise
 contract
 contractable
+chaine
 contractant
 contractation
 contracted
