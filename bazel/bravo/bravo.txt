@@ -2209,7 +2209,6 @@ befriend
 baptizement
 benzpyrene
 baptizer
-biplanar
 baptizers
 baptizing
 bar
@@ -9371,6 +9370,7 @@ blindman
 bipennated
 bipenniform
 bipetalous
+biplanar
 bucciniform
 biphasic
 bps

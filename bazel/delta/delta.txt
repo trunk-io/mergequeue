@@ -2841,7 +2841,6 @@ delphinus
 duodecahedron
 decrescent
 deknight
-decretalist
 dogey
 despumating
 desalinization
@@ -13495,6 +13494,7 @@ dissaving
 demonomy
 dissavs
 disscepter
+decretalist
 drumbeater
 dissceptered
 deplethoric
