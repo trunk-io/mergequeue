@@ -3179,6 +3179,7 @@ fibroenchondroma
 fibroferrite
 farfet
 flichters
+ferrochrome
 finca
 ferrochromium
 flip
@@ -5753,7 +5754,6 @@ fliting
 fulgurant
 flyting
 flytrap
-ferrochrome
 flytraps
 fibrinate
 floodplain

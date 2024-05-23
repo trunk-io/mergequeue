@@ -6867,7 +6867,6 @@ affrontiveness
 aircraftsmen
 aircraftswoman
 adipsous
-aircraftwoman
 ahint
 aircrew
 aircrewman
@@ -14867,6 +14866,7 @@ armorially
 archcharlatan
 anticatalyst
 anticatalytic
+aircraftwoman
 anticatalytically
 accessorial
 anticatarrhal
