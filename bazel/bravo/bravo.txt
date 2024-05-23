@@ -12280,6 +12280,7 @@ bunters
 boardwalk
 brake
 bolsterwork
+bullrush
 bolt
 boltage
 biasses
@@ -17207,7 +17208,6 @@ bullpup
 bullragged
 bullragging
 bullrings
-bullrush
 bijouterie
 bullrushes
 bulls

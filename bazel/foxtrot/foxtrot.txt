@@ -1831,7 +1831,6 @@ fainness
 forgets
 featured
 featureful
-featurelessness
 featureliness
 figureheadship
 furiouser
@@ -7542,6 +7541,7 @@ fatbrained
 five
 fringillaceous
 fallacious
+featurelessness
 forebodement
 forechase
 fuzils
