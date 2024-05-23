@@ -6755,7 +6755,6 @@ celidographer
 celidography
 celiectomy
 celiemia
-celiitis
 celiocele
 celiocyesis
 caninal
@@ -14912,6 +14911,7 @@ cascan
 citizenries
 citizens
 cytoanalyzer
+celiitis
 copremia
 cytoarchitectural
 cytoblast
