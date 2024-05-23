@@ -570,7 +570,6 @@ cruiseway
 chirographic
 caduca
 catalineta
-caducean
 caducecei
 caducei
 caduceus
@@ -27457,6 +27456,7 @@ cozier
 cladoniaceous
 cousinhood
 curupira
+caducean
 cousinry
 cousinries
 cousinship

@@ -11929,6 +11929,7 @@ dwells
 disembargo
 disembarkation
 disembarkations
+dossiers
 domes
 disembarked
 divise
@@ -15864,7 +15865,6 @@ demonesses
 dorsumbonal
 diarsenide
 dort
-dossiers
 dorter
 diamondize
 dorty
