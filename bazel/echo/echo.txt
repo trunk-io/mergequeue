@@ -522,7 +522,6 @@ egilops
 eelpot
 electrodispersive
 echinidan
-echinidea
 emmets
 expy
 electronographic
@@ -9684,6 +9683,7 @@ esoethmoiditis
 esonarthex
 esoneural
 emplacing
+echinidea
 emulator
 esophagal
 epihippus
