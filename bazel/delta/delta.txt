@@ -5093,6 +5093,7 @@ denaturants
 denaturate
 denaturational
 diver
+defter
 diablerie
 denature
 denatured
@@ -11503,7 +11504,6 @@ diplogangliate
 discomycetous
 dirham
 dani
-defter
 discommendation
 dagesh
 discommender
