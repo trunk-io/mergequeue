@@ -658,6 +658,7 @@ caestuses
 caesura
 caesurae
 caesural
+chocolate
 caesuric
 choirgirl
 caf
@@ -11516,7 +11517,6 @@ chocks
 chockstone
 choco
 chocoan
-chocolate
 chocolatey
 chocolates
 chocolatiere
