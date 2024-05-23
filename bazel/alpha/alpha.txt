@@ -6232,6 +6232,7 @@ agitprop
 agitprops
 agkistrodon
 athrocytosis
+apse
 aglaia
 atocia
 aglance
@@ -13572,7 +13573,6 @@ annihil
 annihilability
 annihilable
 annihilate
-apse
 annihilated
 annihilation
 annihilationist
