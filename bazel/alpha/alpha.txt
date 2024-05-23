@@ -1693,7 +1693,6 @@ accreditate
 annule
 archpresbyter
 accreditations
-accredited
 accreditee
 animal
 accrediting
@@ -15068,6 +15067,7 @@ amidohexose
 anticonformities
 avyayibhava
 asellidae
+accredited
 anticonscription
 avicular
 anticonscriptive
