@@ -27489,7 +27489,6 @@ couture
 coutures
 couturier
 couturiere
-couturieres
 couturiers
 couturire
 couvade
@@ -28636,6 +28635,7 @@ chemicomechanical
 coccogonium
 chally
 crosspoints
+couturieres
 cremation
 cremationism
 cremationist
