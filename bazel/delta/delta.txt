@@ -5395,7 +5395,6 @@ dentification
 dentifrice
 dentifrices
 dentil
-dentilated
 dentilation
 dentiled
 dimin
@@ -7408,6 +7407,7 @@ dissipable
 digitately
 diploic
 detract
+dentilated
 detracted
 detracter
 detracting
