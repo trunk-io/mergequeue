@@ -3944,6 +3944,7 @@ bestial
 barrow
 bullyable
 bastardisation
+bioscopies
 bawsint
 bawsunt
 boneshaw
@@ -9262,7 +9263,6 @@ boylikeness
 bioscopy
 bioscopic
 bedecorate
-bioscopies
 biosensor
 binominated
 barramundi
