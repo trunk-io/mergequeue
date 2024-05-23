@@ -2643,7 +2643,6 @@ cankerwort
 canli
 coff
 combinatorics
-canmaker
 climbs
 canman
 canna
@@ -7466,6 +7465,7 @@ cephalothecal
 cephalothoracic
 cephalothoraxes
 cephalotomy
+canmaker
 contrate
 cephalotractor
 cephalotribe
