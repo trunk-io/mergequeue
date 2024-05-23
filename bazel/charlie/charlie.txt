@@ -11520,7 +11520,6 @@ chockman
 chocks
 chockstone
 choco
-chocoan
 chocolate
 chocolatey
 chocolates
@@ -22872,6 +22871,7 @@ choremen
 cognateness
 consertal
 consertion
+chocoan
 conservacy
 conservancy
 coutelle
