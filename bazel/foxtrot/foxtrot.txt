@@ -8876,7 +8876,6 @@ filestatus
 fot
 fothering
 florideous
-foreshorten
 fictious
 folia
 fleuron
@@ -10904,6 +10903,7 @@ feebleheartedness
 fetich
 folioing
 footwarmers
+foreshorten
 finished
 fulguration
 foreteller
