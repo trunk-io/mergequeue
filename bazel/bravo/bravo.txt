@@ -11292,7 +11292,6 @@ blossomy
 blossomless
 blotch
 beestride
-blotches
 buceros
 blotchier
 bestrapped
@@ -17590,6 +17589,7 @@ burg
 bhima
 burgage
 bobble
+blotches
 broadacre
 booing
 brushman
