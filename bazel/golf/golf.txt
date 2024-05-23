@@ -2382,7 +2382,6 @@ gelant
 gelatia
 glossography
 globalism
-gelatinate
 gelatinating
 girting
 greyfish
@@ -4987,6 +4986,7 @@ geogenous
 goosewinged
 gladdens
 gladding
+gelatinate
 glade
 glades
 grush
