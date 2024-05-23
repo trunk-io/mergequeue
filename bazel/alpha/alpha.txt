@@ -13336,7 +13336,6 @@ anisocotyly
 anisodactyla
 anonol
 anisodactyli
-anisodactylic
 anisodont
 anisogamete
 anisogametes
@@ -18891,6 +18890,7 @@ archearl
 ascula
 andrew
 archebanc
+anisodactylic
 archebancs
 alkine
 archebiosis
