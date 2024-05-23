@@ -3411,7 +3411,6 @@ bassie
 betsey
 bassinet
 beglic
-boozer
 basson
 backwater
 bassoonists
@@ -3619,6 +3618,7 @@ bathmism
 bathochromatism
 bathochromy
 bathochromic
+boozer
 bathoflore
 batholith
 bibliomaniacal
