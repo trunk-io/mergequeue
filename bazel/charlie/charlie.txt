@@ -9344,7 +9344,6 @@ chattelhood
 constructiveness
 chattelism
 chattelize
-chattelized
 chattelizing
 chattels
 calamities
@@ -23262,6 +23261,7 @@ constructs
 construe
 controversialize
 construer
+chattelized
 construers
 construes
 constuctor
