@@ -4638,6 +4638,7 @@ basecoat
 bedaggle
 beday
 biddable
+bearpaw
 bedamned
 bedamning
 beweep
@@ -16017,7 +16018,6 @@ bollards
 brontosaurus
 bawls
 barbiturates
-bearpaw
 brontosauruses
 byous
 brontoscopy
