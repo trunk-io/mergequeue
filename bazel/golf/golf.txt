@@ -832,6 +832,7 @@ gris
 ghrush
 gottlieb
 gamari
+galeate
 gamash
 gonidium
 gamashes
@@ -9745,7 +9746,6 @@ gruntles
 gruntling
 grunts
 gruppo
-galeate
 gauntly
 grusinian
 geometrically
