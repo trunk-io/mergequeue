@@ -26021,7 +26021,6 @@ cousiny
 corvees
 corven
 corver
-corves
 corvet
 corvette
 corvettes
@@ -28422,6 +28421,7 @@ creak
 catalecticant
 creaker
 creaky
+corves
 creakier
 creakiest
 creakily
