@@ -8374,7 +8374,6 @@ biflex
 biflorate
 bolshie
 bifluoride
-bifocal
 bifocals
 brotherliness
 buffbar
@@ -13970,6 +13969,7 @@ buttonholed
 brabblement
 bloodalp
 brabblers
+bifocal
 beep
 boxmaking
 babuina
