@@ -6708,7 +6708,6 @@ aeromechanical
 aeolina
 ayenst
 autoclaved
-aigialosaur
 aigialosauridae
 aigialosaurus
 antasthenic
@@ -16567,6 +16566,7 @@ abogado
 anuran
 anurans
 anuresis
+aigialosaur
 anuretic
 anury
 anuria
