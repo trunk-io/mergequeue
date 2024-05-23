@@ -15394,7 +15394,6 @@ clamminess
 consonantalizing
 clamming
 clammyweed
-clamor
 clamored
 clamorer
 clamorers
@@ -21263,6 +21262,7 @@ concertedness
 cicatrose
 concertgoer
 concertini
+clamor
 concertinist
 counterfeited
 concertino
