@@ -5561,6 +5561,7 @@ afrete
 africa
 apothecaries
 alkalizable
+amchoor
 aspout
 africanize
 africanoid
@@ -10245,7 +10246,6 @@ ambushlike
 anablepidae
 ambustion
 abastardize
-amchoor
 amdahl
 amdt
 antipsychiatry
