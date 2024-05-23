@@ -1366,6 +1366,7 @@ cylindrical
 cabbling
 caligrapher
 condiments
+chimneyhead
 caligraphy
 caligulism
 calili
@@ -10745,7 +10746,6 @@ chimney
 cantharidated
 chimneyed
 caryopses
-chimneyhead
 chalk
 chimneyless
 chimneylike
