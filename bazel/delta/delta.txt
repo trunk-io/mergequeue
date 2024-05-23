@@ -4771,7 +4771,6 @@ diglyph
 dilutive
 dipterologist
 demiurgeous
-demiurgic
 distributed
 demiurgos
 deliriant
@@ -6547,6 +6546,7 @@ descry
 dialypetalae
 dolorimetry
 describability
+demiurgic
 dobra
 degradedness
 dichlorhydrin
