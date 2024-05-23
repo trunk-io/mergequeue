@@ -7432,7 +7432,6 @@ bystanders
 betask
 bottier
 birde
-betatron
 betatrons
 betattered
 beclothing
@@ -13530,6 +13529,7 @@ bouchee
 bielid
 beseeching
 boucher
+betatron
 bouchette
 bichromate
 bouchon
