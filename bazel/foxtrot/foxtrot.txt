@@ -5979,6 +5979,7 @@ floorway
 fluidrachm
 fictioneering
 floorwise
+frustrates
 fetor
 fabes
 flus
@@ -10763,7 +10764,6 @@ fumatorium
 firebed
 frusla
 frustrated
-frustrates
 fellies
 foldboat
 forcedly
