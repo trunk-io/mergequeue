@@ -4159,7 +4159,6 @@ delimitation
 delimiter
 delimiting
 displumed
-delimitize
 diphyletic
 delimitized
 diplomyelia
@@ -7227,6 +7226,7 @@ detecter
 detecters
 decentralist
 damnified
+delimitize
 detectible
 detection
 demurest
