@@ -982,7 +982,6 @@ capuche
 calanque
 calantas
 carnivallike
-chromocenter
 coprincipate
 calapite
 calapitte
@@ -30452,6 +30451,7 @@ cubages
 cubicovariant
 computed
 cubane
+chromocenter
 cubangle
 cubanite
 cubatory
