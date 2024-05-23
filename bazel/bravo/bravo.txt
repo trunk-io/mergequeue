@@ -5322,7 +5322,6 @@ bloods
 begettal
 begetter
 broth
-bandagist
 balk
 beggared
 bronzed
@@ -9245,6 +9244,7 @@ burling
 byordinary
 bioreaction
 bidented
+bandagist
 brachygraphic
 biorhythm
 biorhythmicity
