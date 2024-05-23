@@ -9232,7 +9232,6 @@ chartulas
 charwoman
 cowards
 charwomen
-chasable
 chase
 chaseable
 chased
@@ -13799,6 +13798,7 @@ comminutor
 ciliophora
 corolline
 chagal
+chasable
 cynareous
 cynaroid
 cinch
