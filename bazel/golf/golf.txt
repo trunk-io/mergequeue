@@ -1888,6 +1888,7 @@ gastrostenosis
 gastrostomy
 gastrostomies
 gonimolobe
+gynaecian
 guipures
 gastrotome
 gastrotomic
@@ -4299,7 +4300,6 @@ geisothermal
 glossing
 gyros
 graniform
-gynaecian
 ghibelline
 gynaecic
 gynaecium
