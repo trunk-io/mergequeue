@@ -9791,7 +9791,6 @@ fordwine
 fremontia
 fremontodendron
 fideicommissum
-fremt
 firebrat
 frenatae
 french
@@ -10353,6 +10352,7 @@ feeable
 fromenty
 fromenties
 fibromembranous
+fremt
 families
 fitten
 freightless
