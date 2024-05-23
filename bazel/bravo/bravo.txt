@@ -10007,6 +10007,7 @@ battled
 bitter
 bitterbark
 broadside
+bulwarks
 biplosion
 besee
 bitterbloom
@@ -17257,7 +17258,6 @@ blatti
 bultong
 bulwarked
 bulwarking
-bulwarks
 bracken
 bumaree
 baragouin
