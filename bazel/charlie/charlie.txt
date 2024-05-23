@@ -3378,7 +3378,6 @@ capriccio
 cephaleuros
 cunctatious
 capriccioso
-caprices
 capricious
 clipei
 capriciousness
@@ -22538,6 +22537,7 @@ conjunctional
 coohee
 conjunctionally
 conjunctions
+caprices
 censor
 conjunctiva
 clitoriditis
