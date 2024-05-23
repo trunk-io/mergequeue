@@ -2069,6 +2069,7 @@ campcraft
 campe
 cryal
 camped
+camelopardel
 campephagine
 campephilus
 camper
@@ -2547,7 +2548,6 @@ canephoros
 canephorus
 canepin
 caner
-camelopardel
 canes
 caprellidae
 canescence

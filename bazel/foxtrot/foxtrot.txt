@@ -1608,7 +1608,6 @@ fleecelike
 fi
 fleaworts
 favorites
-favorless
 freudianism
 favosely
 favosite
@@ -5710,6 +5709,7 @@ flisk
 flisky
 fanback
 faured
+favorless
 fliskiest
 fribbleism
 floccillation
