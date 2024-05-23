@@ -3266,7 +3266,6 @@ fictionalizing
 frostwort
 forefend
 folkmote
-forewarnings
 fictioner
 forehent
 fictionised
@@ -11017,6 +11016,7 @@ forecatharping
 figural
 fourfold
 foredone
+forewarnings
 frostiest
 flavory
 flintiest
