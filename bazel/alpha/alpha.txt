@@ -2410,6 +2410,7 @@ athetoid
 acieration
 acies
 acyesis
+altometer
 acanthopod
 acyetic
 autocrat
@@ -15333,7 +15334,6 @@ antiflux
 antifoaming
 antilabor
 antiforeignism
-altometer
 antiformin
 antifouling
 abject
