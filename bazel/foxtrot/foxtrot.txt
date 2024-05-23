@@ -4932,6 +4932,7 @@ feldsher
 fantaseid
 flaminical
 fintadores
+featureless
 frenulum
 flamless
 floorers
@@ -8852,7 +8853,6 @@ formulation
 fossorious
 fossulae
 faltche
-featureless
 fostered
 fosterer
 foggara
