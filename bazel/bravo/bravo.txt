@@ -13071,7 +13071,6 @@ bordroom
 botchier
 borinqueno
 bordun
-bordure
 buckbeans
 bordures
 boreable
@@ -16262,6 +16261,7 @@ bruckleness
 bespete
 brugh
 bibliotic
+bordure
 brugnatellite
 bizone
 bruyere
