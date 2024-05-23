@@ -4882,7 +4882,6 @@ carrotweed
 canonization
 carrotwood
 carrousel
-carrousels
 carageen
 compiles
 carrs
@@ -27783,6 +27782,7 @@ crestfish
 coxankylometer
 clements
 coxarthritis
+carrousels
 coxarthropathy
 coxbones
 coxcomb
