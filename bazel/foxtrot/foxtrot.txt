@@ -980,7 +980,6 @@ fizzes
 farcial
 fastigiums
 farcialize
-frottole
 farcicality
 fiefdoms
 fillagreed
@@ -5907,6 +5906,7 @@ fructiferous
 flood
 ferrotungsten
 fearfully
+frottole
 floodable
 fineable
 freeze
