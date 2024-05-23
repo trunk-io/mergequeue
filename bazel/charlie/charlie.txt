@@ -8923,6 +8923,7 @@ conceptualisation
 chaptalize
 chapter
 chapteral
+cassias
 colorize
 chaptered
 chapterhouse
@@ -26574,7 +26575,6 @@ camomile
 cephalopodic
 cottontails
 cottontop
-cassias
 cottonweed
 cottonwick
 cottonwoods
