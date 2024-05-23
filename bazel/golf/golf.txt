@@ -33,6 +33,7 @@ gabbro
 gabbroid
 gabbroitic
 gabelleman
+gyrostats
 gowf
 gaberdine
 gaberdines
@@ -6780,7 +6781,6 @@ gobbets
 googols
 gonidiophore
 gonimium
-gyrostats
 gaudsman
 goninidia
 glomerate
