@@ -8040,7 +8040,6 @@ aleurons
 aleut
 aneath
 aleutians
-aleutic
 alevin
 appellational
 aprilis
@@ -18256,6 +18255,7 @@ aquacade
 aquacultural
 aquaemanale
 autocystoplasty
+aleutic
 aquaemanalia
 aquafortis
 avarices
