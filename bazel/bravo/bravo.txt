@@ -6325,7 +6325,6 @@ blotchy
 benefits
 benefitted
 blockwood
-bedclothing
 beneighbored
 beneme
 benempt
@@ -17025,6 +17024,7 @@ beadsmen
 braces
 bulimoid
 bulimulidae
+bedclothing
 briquets
 bulimus
 belief
