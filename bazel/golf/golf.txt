@@ -3783,6 +3783,7 @@ gyse
 gelada
 gremlin
 gushiness
+gyrons
 graduations
 ghurry
 ghuz
@@ -6400,7 +6401,6 @@ gobinism
 gobinist
 gobio
 grabens
-gyrons
 gastriloquous
 gastronomist
 goblin
