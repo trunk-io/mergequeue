@@ -7396,6 +7396,7 @@ bescreens
 besully
 beswarm
 beswarmed
+burstone
 bullom
 besweatered
 beswelter
@@ -17871,7 +17872,6 @@ bursitos
 burst
 burster
 bursty
-burstone
 botein
 burthen
 burthened
