@@ -9065,6 +9065,7 @@ allowance
 allowancing
 alkalises
 autosuggest
+avahi
 allowed
 assertiveness
 acquiescing
@@ -24553,7 +24554,6 @@ avadhuta
 armorist
 auditors
 alloyed
-avahi
 aurocyanide
 avail
 availabile
