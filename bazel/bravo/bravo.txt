@@ -2760,7 +2760,6 @@ barometrography
 blam
 barometz
 beachside
-baromotor
 bottomlessness
 baldricks
 baronduki
@@ -11510,6 +11509,7 @@ bluewoods
 berapt
 bluff
 bluffable
+baromotor
 baraca
 brunette
 backwinding
