@@ -8528,7 +8528,6 @@ chameleon
 cabala
 chameleonize
 chameleonlike
-chameleons
 comstockery
 chamfer
 chamfered
@@ -14924,6 +14923,7 @@ cytoblastemic
 cytoblastemous
 cytochalasin
 cytochemistry
+chameleons
 cytochylema
 cytochrome
 cytocyst
