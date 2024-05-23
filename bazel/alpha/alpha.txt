@@ -5161,7 +5161,6 @@ aerotaxis
 argo
 aerotechnical
 aerotherapeutics
-aerotherapy
 amreetas
 aerothermodynamics
 aerotonometer
@@ -12664,6 +12663,7 @@ algosis
 aneurisms
 anezeh
 anfract
+aerotherapy
 anfractuose
 anfractuosity
 argils
