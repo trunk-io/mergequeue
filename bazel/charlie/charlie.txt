@@ -2525,6 +2525,7 @@ cities
 cliffing
 canebrake
 canebrakes
+cynanchum
 cephalodynia
 counterdisengage
 cyamelide
@@ -13793,7 +13794,6 @@ consuetude
 cymrite
 conduciveness
 cynanche
-cynanchum
 cutlases
 concentus
 comminutor

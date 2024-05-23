@@ -2976,7 +2976,6 @@ eliminators
 embosk
 elymus
 elinguate
-elinguating
 elinguation
 eleatic
 evaluate
@@ -13915,6 +13914,7 @@ erective
 exporter
 extranean
 extraneity
+elinguating
 eolith
 extraneous
 effetely
