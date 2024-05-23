@@ -13365,7 +13365,6 @@ agglutinability
 anisomeles
 accentuator
 anisomeric
-anisomerous
 arraignability
 apoturmeric
 anisometric
@@ -21285,6 +21284,7 @@ asymbiotic
 alizarine
 asymbolia
 asymbolic
+anisomerous
 asymbolical
 asimen
 asimmer
