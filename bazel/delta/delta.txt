@@ -2479,7 +2479,6 @@ deciphered
 decipherer
 deciphering
 deciphers
-decipium
 diphase
 dramshops
 decision
@@ -9425,6 +9424,7 @@ digallic
 dehematize
 digamy
 denizate
+decipium
 disobeyal
 digamies
 destructively
