@@ -6875,7 +6875,6 @@ aircrewman
 aircrewmen
 aortae
 aerophone
-axoplasms
 airdate
 afterband
 amyrin
@@ -12466,6 +12465,7 @@ androscoggin
 androsin
 androsphinges
 androsphinx
+axoplasms
 androsporangium
 androspore
 androsterone
