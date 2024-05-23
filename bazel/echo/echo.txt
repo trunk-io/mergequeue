@@ -2898,6 +2898,7 @@ eleventeenth
 eleventh
 excitation
 eleventhly
+equispaced
 emplaning
 elevon
 earthwork
@@ -5912,7 +5913,6 @@ erogenic
 encoronet
 enisled
 enisles
-equispaced
 eurylaimus
 enisling
 eikonology
