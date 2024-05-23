@@ -4553,7 +4553,6 @@ allemande
 agrypnode
 adumbrative
 adumbral
-adunation
 astutely
 adunc
 aduncate
@@ -13640,6 +13639,7 @@ appaloosa
 annualize
 archeol
 annualized
+adunation
 annually
 apair
 annuals
