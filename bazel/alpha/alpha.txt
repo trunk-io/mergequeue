@@ -4389,7 +4389,6 @@ appoint
 adrenalcortical
 adrenalectomy
 aunthoods
-adrenalectomize
 adrenalectomizing
 aumous
 adrenalin
@@ -5152,6 +5151,7 @@ aerostatic
 aerostatical
 amalett
 apteryges
+adrenalectomize
 aerostats
 avunculize
 aerosteam
