@@ -1336,6 +1336,7 @@ guib
 garblings
 garboard
 gesticulator
+groupist
 ged
 garbologist
 gimlety
@@ -7332,7 +7333,6 @@ gossipries
 gulley
 gossips
 gigmaness
-groupist
 gestor
 galactometry
 gosther
