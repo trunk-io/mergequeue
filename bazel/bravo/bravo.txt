@@ -4164,6 +4164,7 @@ beans
 beansetter
 beanshooter
 beanstalk
+birgand
 beanstalks
 begrain
 beanweed
@@ -9541,7 +9542,6 @@ bookholder
 birettas
 blotchily
 byrewards
-birgand
 bedirties
 briggsian
 birkenhead
