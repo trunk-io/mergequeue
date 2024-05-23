@@ -5462,7 +5462,6 @@ denudations
 denuder
 douched
 dialysation
-downtrend
 denaturiser
 denumerable
 denumerably
@@ -9878,6 +9877,7 @@ dimethylketone
 debarred
 dimethylnitrosamine
 divvers
+downtrend
 dimethyls
 dimethylsulphoxide
 dimethyltryptamine
