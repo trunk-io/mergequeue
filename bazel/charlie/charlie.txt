@@ -2745,7 +2745,6 @@ colluded
 chebeck
 cannulae
 cannulate
-circumscribe
 cannulated
 cursitor
 cannulating
@@ -11485,6 +11484,7 @@ choak
 choana
 choanate
 choanephora
+circumscribe
 choanocytal
 choanocyte
 choanoflagellate
