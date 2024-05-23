@@ -5311,6 +5311,7 @@ enmagazine
 explicators
 endostosis
 endostraca
+ectepicondylar
 epanody
 economiser
 endostracum
@@ -13254,7 +13255,6 @@ enzyme
 eyres
 entry
 enol
-ectepicondylar
 eucairite
 explorer
 ethicalities
