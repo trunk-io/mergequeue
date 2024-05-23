@@ -5745,6 +5745,7 @@ flopovers
 flyte
 flited
 flyted
+foge
 foxfish
 floatages
 flitfold
@@ -6706,7 +6707,6 @@ fogdogs
 fairways
 fogdom
 foeffment
-foge
 fogfruit
 foretype
 flatterable
