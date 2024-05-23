@@ -2912,7 +2912,6 @@ botanical
 blennometritis
 bur
 bonair
-barrelful
 barothermogram
 barrelfuls
 blind
@@ -4429,6 +4428,7 @@ becalming
 beakiest
 braquemard
 becap
+barrelful
 blacklead
 brassylic
 becaps
