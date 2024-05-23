@@ -81,7 +81,6 @@ filching
 fisticuffs
 faces
 facesaving
-facet
 flattening
 frizettes
 foliobranch
@@ -9219,6 +9218,7 @@ foundationless
 fanning
 foment
 fetometry
+facet
 fructicultural
 filenames
 flams
