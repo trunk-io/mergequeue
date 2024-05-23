@@ -1352,7 +1352,6 @@ gallberries
 gardenia
 gundeck
 giftlike
-gardenless
 gardenlike
 gardenmaking
 gunnels
@@ -6959,6 +6958,7 @@ gleization
 goodsire
 gentlefolk
 geromorphism
+gardenless
 gaonic
 gnoff
 grayfly
