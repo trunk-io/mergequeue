@@ -8303,7 +8303,6 @@ chalazas
 chalaze
 cloak
 chalazian
-coevolve
 cranely
 cercomonas
 concertanti
@@ -16754,6 +16753,7 @@ clotty
 clotting
 cinefilm
 cloture
+coevolve
 catastrophically
 clotured
 clotures
