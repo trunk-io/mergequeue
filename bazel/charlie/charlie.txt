@@ -7726,6 +7726,7 @@ cerianthidae
 cerianthoid
 calculable
 cerianthus
+chiripa
 cerias
 ceride
 cerillo
@@ -15971,7 +15972,6 @@ cleidoic
 chiromance
 cleidomancy
 cleidorrhexis
-chiripa
 cleidoscapular
 cleidosternal
 cleidotripsy
