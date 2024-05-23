@@ -11778,7 +11778,6 @@ chondral
 chondralgia
 chondrarsenite
 chondre
-chondrenchyma
 chondri
 caramelin
 cocomats
@@ -27738,6 +27737,7 @@ conductibility
 cowpoke
 collingual
 clinochlore
+chondrenchyma
 cowpony
 costing
 cowpoxes
