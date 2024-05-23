@@ -5235,7 +5235,6 @@ directives
 doctrinalist
 dyings
 daemon
-decameter
 denitrator
 doghole
 deathly
@@ -11548,6 +11547,7 @@ discompliance
 dowry
 discomposed
 derided
+decameter
 discomposedness
 durrie
 discomposingly
