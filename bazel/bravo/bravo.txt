@@ -510,7 +510,6 @@ briming
 backstitching
 broadway
 backstopped
-billhooks
 besiclometer
 backstops
 backstrap
@@ -14535,6 +14534,7 @@ brandise
 brandish
 brandished
 brandisher
+billhooks
 biochron
 blume
 brandisite
