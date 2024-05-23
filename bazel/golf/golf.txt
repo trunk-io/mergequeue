@@ -1262,6 +1262,7 @@ gladsomely
 griminess
 gimcrackery
 gapping
+gromatic
 goodbys
 ghettoing
 guardfully
@@ -2652,7 +2653,6 @@ generalism
 gudgeoning
 gutted
 generalistic
-gromatic
 galumptious
 generaliter
 grue
