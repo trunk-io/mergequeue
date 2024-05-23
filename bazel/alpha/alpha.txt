@@ -3805,7 +3805,6 @@ aburabozu
 adffrozen
 agra
 adfluxion
-adfreezing
 adfroze
 adhafera
 agones
@@ -13946,6 +13945,7 @@ asher
 alveolary
 anous
 anova
+adfreezing
 anovesical
 anovulant
 anovular

@@ -569,7 +569,6 @@ caduac
 cruiseway
 chirographic
 caduca
-catalineta
 caducean
 caducecei
 caducei
@@ -26871,6 +26870,7 @@ captivately
 counterfaller
 counterfeisance
 counterfeit
+catalineta
 counterfeiter
 counterfeiting
 counterfeitly
