@@ -13812,7 +13812,6 @@ choliambic
 cincher
 calpul
 cinches
-crankcase
 cheve
 cinching
 cincholoipon
@@ -20752,6 +20751,7 @@ chandry
 complexometric
 complexus
 comply
+crankcase
 colleries
 compliableness
 compliance
