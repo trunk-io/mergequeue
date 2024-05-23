@@ -8783,6 +8783,7 @@ defeat
 diazo
 drinkable
 decke
+dulcimore
 diazoalkane
 demimondaines
 depeter
@@ -14875,7 +14876,6 @@ decadi
 dodecasyllabic
 dodecasyllable
 dodecastylar
-dulcimore
 discretionarily
 dodecatemory
 demonising
