@@ -9474,7 +9474,6 @@ denationalizing
 decide
 digesture
 disapproval
-diggable
 digged
 digger
 digging
@@ -11691,6 +11690,7 @@ discouragedly
 discourager
 displeasureably
 discouragingly
+diggable
 darren
 dangerful
 domdaniel
