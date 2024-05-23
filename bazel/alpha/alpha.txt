@@ -3328,7 +3328,6 @@ azotine
 acupuncturator
 acupuncture
 abonne
-acupunctured
 acupuncturing
 aslake
 antivenomous
@@ -9890,6 +9889,7 @@ amarillo
 amarillos
 amarin
 agastreae
+acupunctured
 alerted
 admeasurement
 amarine
