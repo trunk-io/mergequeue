@@ -889,7 +889,6 @@ ectopistes
 ectoplasmatic
 errata
 endship
-ectoplasmic
 excisemen
 ectoplastic
 ectoproct
@@ -4821,6 +4820,7 @@ entitlement
 encounterers
 encountering
 eros
+ectoplasmic
 equitable
 encourage
 encouraged
