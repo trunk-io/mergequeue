@@ -50,7 +50,6 @@ gouty
 gabioned
 grammes
 gabions
-gips
 gelding
 greystone
 guardian
@@ -7723,6 +7722,7 @@ gymnetrous
 grahams
 grumbletonian
 gray
+gips
 getaway
 graveyard
 graybacks
