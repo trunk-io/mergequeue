@@ -2540,6 +2540,7 @@ foremessenger
 fernyear
 frustulum
 fernlike
+fungin
 flustrum
 fernshaw
 forlorner
@@ -6817,7 +6818,6 @@ faunch
 filla
 foldedly
 finmark
-fungin
 folden
 faade
 flouncey
