@@ -4950,7 +4950,6 @@ aerobia
 asamblea
 antisubmarine
 aerobic
-aerobics
 aerobiological
 aerobiologically
 aerobiologist
@@ -5446,6 +5445,7 @@ afforce
 afforcement
 afford
 alkines
+aerobics
 affordable
 affording
 akaroa
