@@ -1139,7 +1139,6 @@ gangues
 ghostliness
 glares
 gangwa
-grenadilla
 gamed
 genitives
 ganister
@@ -9139,6 +9138,7 @@ glom
 geochronic
 griqualander
 grisailles
+grenadilla
 grysbok
 garrison
 grise
