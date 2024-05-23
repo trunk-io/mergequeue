@@ -2121,7 +2121,6 @@ bannerman
 bannermen
 bannerole
 bannerols
-bannet
 bannisters
 birthmarks
 bioflavinoid
@@ -4031,6 +4030,7 @@ beachheads
 brand
 bnf
 basely
+bannet
 beaching
 beachless
 beachman
