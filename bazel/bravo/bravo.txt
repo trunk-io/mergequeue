@@ -10555,7 +10555,6 @@ borolanite
 blastings
 blastocarpous
 blastocele
-boomers
 batodendron
 brickfielder
 beeflower
@@ -12777,6 +12776,7 @@ bidarka
 begarie
 bookmarker
 bookmarks
+boomers
 bhoots
 bimorph
 bookmobile
