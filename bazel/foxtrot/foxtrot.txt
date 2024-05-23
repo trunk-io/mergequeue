@@ -4457,6 +4457,7 @@ fissions
 fissipalmation
 forheed
 farming
+foreignness
 forcer
 faunal
 forslake
@@ -7722,7 +7723,6 @@ foreignism
 footprints
 franchisement
 foreignly
-foreignness
 foreigns
 foreimpressed
 flagmaker
