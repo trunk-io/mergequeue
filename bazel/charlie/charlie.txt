@@ -9448,7 +9448,6 @@ chavantean
 coprosma
 chavel
 chavender
-chaver
 chavibetol
 chavicin
 chomp
@@ -29945,6 +29944,7 @@ crossway
 crossways
 crosswalks
 crossweb
+chaver
 crossweed
 crosswise
 crosswiseness
