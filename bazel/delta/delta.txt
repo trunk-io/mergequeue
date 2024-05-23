@@ -1466,6 +1466,7 @@ dbridement
 dbrn
 dc
 deoxygenate
+dournesses
 dca
 dcb
 dcollet
@@ -16139,7 +16140,6 @@ dourer
 dourest
 deraign
 drear
-dournesses
 douroucouli
 descendant
 dousers
