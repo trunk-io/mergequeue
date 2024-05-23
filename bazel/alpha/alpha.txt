@@ -3712,7 +3712,6 @@ adenoidectomy
 adenoidectomies
 adenoidism
 adroitest
-adenoids
 adenolymphocele
 adenolymphoma
 asexualized
@@ -7327,6 +7326,7 @@ alangin
 alangine
 arthrectomies
 alangium
+adenoids
 alani
 alanin
 alanine
