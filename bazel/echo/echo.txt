@@ -6534,7 +6534,6 @@ enteradenography
 enteradenological
 enteral
 enteralgia
-embiotocoid
 enterate
 enterectomy
 enterectomies
@@ -13847,6 +13846,7 @@ extractive
 extractively
 extractor
 egotizing
+embiotocoid
 ethiop
 extensional
 egyptological
