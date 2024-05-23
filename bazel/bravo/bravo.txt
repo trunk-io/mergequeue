@@ -10720,7 +10720,6 @@ bothriocidaris
 bleach
 bluebutton
 bleachable
-bleached
 bleacher
 bleachery
 bleacheries
@@ -13581,6 +13580,7 @@ boughs
 boughten
 bougie
 bouillabaisse
+bleached
 bookmate
 boodlers
 bouillons
