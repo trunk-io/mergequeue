@@ -3966,7 +3966,6 @@ fasces
 finfoots
 footsteps
 fingal
-fingan
 fisticuffing
 fingerbreadth
 flatter
@@ -7370,6 +7369,7 @@ forby
 forewarnings
 foreparent
 foreplot
+fingan
 forbid
 forebodingly
 flakiness
