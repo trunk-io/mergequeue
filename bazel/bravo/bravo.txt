@@ -5771,7 +5771,6 @@ boer
 bkpr
 belemnoidea
 beleper
-bicycle
 bathybic
 beleve
 barkpeeling
@@ -14078,6 +14077,7 @@ bureaucratese
 brachiorrheuma
 bonhomme
 butsudan
+bicycle
 brachiosaur
 brachiosaurus
 brachyphyllum

@@ -7002,7 +7002,6 @@ entreatable
 entreatful
 endjunk
 encyclopaedic
-entreaties
 excavatorial
 entreatingly
 entreats
@@ -10158,6 +10157,7 @@ eternisation
 ethylation
 eternises
 eternish
+entreaties
 eternized
 eternizes
 eudorina
