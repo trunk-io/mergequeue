@@ -2427,7 +2427,6 @@ barwin
 bardess
 bardy
 bikinis
-bardic
 bardiest
 bardiglio
 bardily
@@ -17699,6 +17698,7 @@ beliquor
 burker
 bride
 bringela
+bardic
 burkes
 bascules
 biffed
