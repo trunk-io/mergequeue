@@ -6163,6 +6163,7 @@ flowage
 flowcharted
 fulicinae
 furnit
+footless
 finality
 flowcontrol
 flowed
@@ -7197,7 +7198,6 @@ footlers
 frangulin
 flites
 flamenship
-footless
 footlights
 frockless
 frisesomorum
