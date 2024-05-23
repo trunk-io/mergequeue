@@ -1980,7 +1980,6 @@ bacteriophage
 baptismally
 bandwidth
 bandwidths
-bandwork
 bandworm
 boogiewoogie
 baylet
@@ -14633,6 +14632,7 @@ brassy
 brassica
 brassicaceae
 brassicaceous
+bandwork
 brassicas
 backworm
 brassier
