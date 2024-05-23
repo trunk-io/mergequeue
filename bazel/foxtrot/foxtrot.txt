@@ -5776,7 +5776,6 @@ fluviation
 flittermmice
 footrill
 flittermouse
-farmlands
 fraternalist
 fathmur
 flamb
@@ -5840,6 +5839,7 @@ floatsmen
 floatstone
 forestem
 flob
+farmlands
 formidableness
 furanes
 flobby
