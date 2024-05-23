@@ -10445,7 +10445,6 @@ chiefling
 chiefs
 chieftain
 chieftaincy
-chieftaincies
 chieftainess
 chieftainry
 chieftainries
@@ -17944,6 +17943,7 @@ coelanaglyphic
 coelar
 coelarium
 coelastraceous
+chieftaincies
 coelastrum
 coelata
 coelder
