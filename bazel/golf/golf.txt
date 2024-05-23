@@ -2203,7 +2203,6 @@ gazella
 gazelle
 gazellelike
 gazelline
-gazement
 gynocratic
 gazettal
 gazette
@@ -5911,6 +5910,7 @@ guttide
 glottologic
 griffinesque
 glottological
+gazement
 glottologist
 goniometer
 greyfly
