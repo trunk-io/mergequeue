@@ -8074,7 +8074,6 @@ foreswearing
 fichtelite
 funkiest
 finances
-foreswore
 fumacious
 foret
 fragilaria
@@ -10046,6 +10045,7 @@ frightless
 flaggingly
 femalize
 frigidarium
+foreswore
 frumentum
 fedayee
 frigiddaria
