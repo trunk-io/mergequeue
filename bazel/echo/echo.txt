@@ -510,7 +510,6 @@ echeneididae
 echevaria
 etymology
 echidnas
-endobiotic
 evocate
 echinacea
 evelina
@@ -8121,6 +8120,7 @@ extrasyphilitic
 epiplankton
 eyebridled
 erythremomelalgia
+endobiotic
 epiplanktonic
 epithalamy
 epiplasmic
