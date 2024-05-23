@@ -340,6 +340,7 @@ backfiller
 backfilling
 brushes
 backfills
+beveled
 backfired
 backfires
 backfiring
@@ -7337,7 +7338,6 @@ bestowment
 bestows
 bestraddle
 blades
-beveled
 bestraddled
 bluebirds
 bestraddling
