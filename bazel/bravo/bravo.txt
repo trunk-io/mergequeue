@@ -7247,7 +7247,6 @@ bespout
 bemuzzled
 blameworthiness
 bespray
-bespread
 bespreng
 besprent
 bocking
@@ -11765,6 +11764,7 @@ bumkins
 bobflies
 bananas
 bobfloat
+bespread
 bobierrite
 bobization
 bobjerom
