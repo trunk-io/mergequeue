@@ -5960,7 +5960,6 @@ gynoecium
 grassless
 glucate
 gnomonia
-glucemia
 gliders
 gibelite
 glucic
@@ -9946,6 +9945,7 @@ glow
 gluish
 guars
 gipsyfy
+glucemia
 gaiters
 generis
 grouse

@@ -2952,7 +2952,6 @@ fetuses
 ferrichloride
 fruitlet
 floorcloth
-febricide
 feudalism
 feudalist
 feudalists
@@ -9723,6 +9722,7 @@ freeway
 freeward
 foresign
 fecklessly
+febricide
 feliform
 freewheeling
 fanam
