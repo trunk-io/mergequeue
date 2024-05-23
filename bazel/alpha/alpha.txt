@@ -6353,7 +6353,6 @@ aegerian
 arteriorrhagia
 agonic
 agonies
-agonise
 axillas
 agonised
 agonist
@@ -22635,6 +22634,7 @@ accelerant
 atheticize
 athetotic
 athymy
+agonise
 athymia
 athymic
 antimonyl
