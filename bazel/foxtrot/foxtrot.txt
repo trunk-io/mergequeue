@@ -703,7 +703,6 @@ famished
 faming
 fuliguline
 fired
-famishing
 famose
 famous
 florigens
@@ -7750,6 +7749,7 @@ foreknowing
 foreknowingly
 frere
 foreleg
+famishing
 florilege
 forelook
 francisco
