@@ -5914,7 +5914,6 @@ adenyls
 ancestor
 agata
 agate
-agatelike
 agates
 agatha
 agathaumas
@@ -9746,6 +9745,7 @@ alzheimer
 acknown
 ama
 antioptimist
+agatelike
 amaas
 apterygotous
 argentina
