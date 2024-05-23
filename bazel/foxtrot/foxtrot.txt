@@ -9891,7 +9891,6 @@ fresser
 fret
 flypaper
 fontally
-fallibleness
 felonsetter
 fatals
 fretish
@@ -10694,6 +10693,7 @@ fixity
 fruitiness
 famish
 frightable
+fallibleness
 facultied
 fungaceous
 farting
