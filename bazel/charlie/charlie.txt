@@ -1203,7 +1203,6 @@ calefy
 calelectric
 caprice
 contender
-calelectricity
 contrafagotto
 contractile
 calemes
@@ -19951,6 +19950,7 @@ commanders
 cricketings
 commanding
 commandingly
+calelectricity
 commandingness
 commandite
 commandless
