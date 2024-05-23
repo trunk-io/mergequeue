@@ -1287,7 +1287,6 @@ detonators
 daughterkin
 desorb
 daughterly
-daughterlike
 destin
 daughterliness
 daughterling
@@ -5196,6 +5195,7 @@ deny
 deices
 deniability
 deniable
+daughterlike
 deniably
 denial
 dentinoid
