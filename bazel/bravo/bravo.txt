@@ -7442,6 +7442,7 @@ borides
 behorror
 betear
 backflip
+bladebone
 betel
 buttwood
 blacklegs
@@ -10377,7 +10378,6 @@ blading
 bladderwrack
 blade
 brite
-bladebone
 bladelike
 beleaguerer
 bosporian

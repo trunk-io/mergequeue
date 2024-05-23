@@ -5386,6 +5386,7 @@ endpoints
 excoecaria
 endrudge
 exampless
+ecorticate
 endseal
 endshake
 exploration
@@ -6181,7 +6182,6 @@ enouncing
 enow
 enplane
 exonship
-ecorticate
 enplaned
 extraphysiological
 enquarter
