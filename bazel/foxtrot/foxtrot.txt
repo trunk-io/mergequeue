@@ -1430,7 +1430,6 @@ fiche
 formose
 fibrocaseose
 fatnesses
-fylgjur
 fluctuosity
 fatshedera
 fatsia
@@ -6520,6 +6519,7 @@ farweltered
 frotted
 flutey
 flutemouth
+fylgjur
 foggers
 fluter
 fluters
