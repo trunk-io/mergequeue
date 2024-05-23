@@ -9022,7 +9022,6 @@ dicruridae
 descaling
 dict
 dehort
-dictaen
 dolichosoma
 dictamina
 dictaphone
@@ -9786,6 +9785,7 @@ disillusionised
 differentially
 doolee
 dilogarithm
+dictaen
 diluendo
 dilutant
 dilute
