@@ -827,7 +827,6 @@ baffleplate
 bewwept
 branchiopoo
 bibliophagist
-baffler
 bafflers
 baffling
 bafflingly
@@ -10853,6 +10852,7 @@ bleo
 blepharadenitis
 blepharanthracosis
 bambos
+baffler
 blepharemphysema
 bkpt
 blepharydatis
