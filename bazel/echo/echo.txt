@@ -5000,6 +5000,7 @@ econometer
 evens
 endleaf
 entomb
+enqueued
 endless
 excuses
 eucosmid
@@ -6189,7 +6190,6 @@ enquarter
 enqueue
 enamine
 entered
-enqueued
 enqueues
 enticeable
 exor
