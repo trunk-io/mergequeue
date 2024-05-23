@@ -7442,7 +7442,6 @@ cephalophus
 cephaloplegia
 cervisia
 cryoprobe
-cephaloplegic
 clarisse
 cephalopod
 cephalopoda
@@ -22887,6 +22886,7 @@ calamarian
 conservationism
 clype
 conservationists
+cephaloplegic
 characterical
 condensable
 conservations
