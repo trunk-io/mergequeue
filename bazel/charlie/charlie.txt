@@ -16525,7 +16525,6 @@ clodhopper
 clodhoppers
 curettage
 clodhopping
-clodknocker
 canchi
 clodlet
 clodpated
@@ -19826,6 +19825,7 @@ comestible
 cyclostrophic
 charade
 comestion
+clodknocker
 circulates
 cometary
 cometaria
