@@ -6830,7 +6830,6 @@ bewitchery
 burlap
 berkeleyite
 berkelium
-berkovets
 berkovtsi
 bedull
 berlin
@@ -13312,6 +13311,7 @@ boswellizing
 blastoidea
 bota
 botany
+berkovets
 botanic
 botanica
 bandoleered
