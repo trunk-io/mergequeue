@@ -7548,7 +7548,6 @@ gallflies
 gravamens
 gelechiid
 gownsmen
-gowpen
 gox
 gangism
 grammatophyllum
@@ -7727,6 +7726,7 @@ gazoz
 gormed
 glee
 greeve
+gowpen
 grainways
 granularly
 gymnetrous
