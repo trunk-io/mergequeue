@@ -1082,6 +1082,7 @@ fuzzle
 fothergilla
 farmyard
 farmyardy
+foulish
 farmout
 fisc
 flakily
@@ -8912,7 +8913,6 @@ frailejon
 foreshowed
 faradmeter
 foulest
-foulish
 febronianism
 foulminded
 flacourtiaceae
