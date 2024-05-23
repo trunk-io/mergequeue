@@ -3643,7 +3643,6 @@ borsht
 bathonian
 blockmaking
 bathool
-bathophobia
 bathos
 bathrobe
 bathrobes
@@ -5591,6 +5590,7 @@ baldie
 beydom
 bechained
 beige
+bathophobia
 bb
 beshell
 beignet
