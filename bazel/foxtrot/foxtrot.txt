@@ -4341,6 +4341,7 @@ fishbolt
 fishbolts
 falchions
 fishbowls
+forespeaker
 forky
 fisheyes
 forecomingness
@@ -6897,7 +6898,6 @@ flyboy
 floccosely
 feudovassalism
 fringier
-forespeaker
 foreignization
 folkmoots
 fauchard
