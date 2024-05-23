@@ -4875,7 +4875,6 @@ eggers
 encumberer
 encumberingly
 excisions
-encumbrance
 excused
 english
 electrometeor
@@ -6880,6 +6879,7 @@ entomophobia
 egalite
 entomophthora
 epic
+encumbrance
 entomophthoraceae
 entomophthoraceous
 eschalot
