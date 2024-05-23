@@ -320,7 +320,6 @@ exsecants
 eccentring
 evenings
 endogeny
-extraocular
 enunciate
 externship
 endevil
@@ -14114,6 +14113,7 @@ evanescency
 extroitive
 enfevers
 extrorse
+extraocular
 extrospect
 extrospective
 extroversion
