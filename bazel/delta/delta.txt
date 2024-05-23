@@ -2825,7 +2825,6 @@ demihearse
 disharmonize
 decremental
 dactylioglyphy
-decrements
 decremeter
 decrepid
 decrepit
@@ -6564,6 +6563,7 @@ descries
 descript
 descriptionist
 dogsled
+decrements
 descriptionless
 descriptively
 diota
