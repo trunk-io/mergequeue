@@ -2740,7 +2740,6 @@ genethliacon
 geomorphist
 gneissoid
 galleriies
-gasterophilus
 gonocalyx
 guinea
 genethlialogic
@@ -7166,6 +7165,7 @@ gorgia
 gorging
 gorglin
 garnishing
+gasterophilus
 grabbers
 gastrohysterorrhaphy
 graynesses
