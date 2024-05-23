@@ -18245,6 +18245,7 @@ coferment
 cofermentation
 coffea
 centrolineal
+carree
 coffeeberry
 curliewurly
 coffeeberries
@@ -30149,7 +30150,6 @@ cyclize
 crud
 crudded
 convivialize
-carree
 crudding
 crudely
 coregonus
