@@ -7708,7 +7708,6 @@ extruder
 ectozoon
 epidemically
 effervescible
-epidemicalness
 epidemicity
 etceteras
 epidemiography
@@ -12654,6 +12653,7 @@ expulsory
 evzones
 exogamies
 exogastrically
+epidemicalness
 ephete
 expedited
 exogen
