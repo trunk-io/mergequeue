@@ -5166,6 +5166,7 @@ dendrolatry
 depopulate
 detect
 dendrology
+dioramas
 dendrologist
 discerp
 dendrologists
@@ -10327,7 +10328,6 @@ dioptrometry
 diorama
 daroo
 denizening
-dioramas
 dermatoneurology
 diophantine
 driftpiece
