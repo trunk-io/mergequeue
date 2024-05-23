@@ -2851,6 +2851,7 @@ certainties
 cantala
 cantalever
 cantaliver
+chironomy
 cackled
 cantaloup
 careerer
@@ -28790,7 +28791,6 @@ crescents
 crescentwise
 crescively
 cresegol
-chironomy
 cresyl
 cresylate
 cresylene
