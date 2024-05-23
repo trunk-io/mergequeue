@@ -9421,7 +9421,6 @@ erugo
 erugos
 erump
 escapage
-eruptible
 erupting
 eruption
 elevator
@@ -13077,6 +13076,7 @@ eusuchia
 ecesises
 earthborn
 exilic
+eruptible
 experimenting
 ejectee
 experimentist
