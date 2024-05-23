@@ -6045,7 +6045,6 @@ dicliny
 depuratory
 depure
 depurge
-delta
 depurged
 diagonally
 depurging
@@ -11203,6 +11202,7 @@ dearths
 dysbulia
 detoxifies
 deckers
+delta
 dysbulic
 damewort
 disburdened
