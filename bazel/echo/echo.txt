@@ -5524,6 +5524,7 @@ etherlike
 enheritance
 enfeoffing
 episcopant
+ettled
 enfeoffment
 espundia
 enfester
@@ -10571,7 +10572,6 @@ equation
 ettercap
 ettirone
 ettle
-ettled
 ecclesiolatry
 ettling
 economizer
