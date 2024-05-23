@@ -5340,7 +5340,6 @@ density
 densitometer
 densitometric
 dhurrie
-detestable
 detinue
 dyable
 dental
@@ -11868,6 +11867,7 @@ disdainable
 disdained
 disdainer
 deterrable
+detestable
 disprize
 dihelium
 disdainful
