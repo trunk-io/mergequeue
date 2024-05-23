@@ -687,6 +687,7 @@ epicism
 enanthesis
 ecodeme
 ecol
+exsanguinous
 ecole
 eidolism
 espousal
@@ -13473,7 +13474,6 @@ envineyard
 exsanguine
 eristic
 exsanguineous
-exsanguinous
 equipollence
 expose
 erotology
