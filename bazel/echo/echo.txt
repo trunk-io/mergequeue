@@ -951,7 +951,6 @@ etui
 enantiotropic
 ectropometer
 eviction
-ectrosyndactyly
 ectrotic
 ecttypal
 excurvation
@@ -1209,6 +1208,7 @@ educational
 extratracheal
 eroded
 espathate
+ectrosyndactyly
 endlessness
 educationist
 embolum
