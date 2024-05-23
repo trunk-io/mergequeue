@@ -9979,7 +9979,6 @@ frozenly
 feverless
 flammable
 filibusters
-frictionless
 frictionproof
 festering
 forgiven
@@ -10479,6 +10478,7 @@ foreimagination
 factorization
 frontsman
 frictions
+frictionless
 fluxional
 frontspieces
 frontstall
