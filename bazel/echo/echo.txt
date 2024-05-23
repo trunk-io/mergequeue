@@ -4027,6 +4027,7 @@ empery
 etypical
 estus
 emperil
+eremurus
 emperors
 eucalypti
 epilamellar
@@ -7985,7 +7986,6 @@ epimanikion
 epimer
 epimeral
 epimeres
-eremurus
 epimeric
 epimeride
 epimerism
