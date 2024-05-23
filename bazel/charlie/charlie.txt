@@ -12627,7 +12627,6 @@ chronaxies
 chroncmeter
 chronic
 chronica
-chronically
 chronicle
 chronicled
 chronicles
@@ -28003,6 +28002,7 @@ craftsman
 craftsmanly
 charactonym
 craftsmanlike
+chronically
 craftsmanship
 craftsmaster
 craftsmen
