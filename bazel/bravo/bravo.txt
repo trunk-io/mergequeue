@@ -6927,7 +6927,6 @@ bersaglieri
 berseem
 berserker
 blackbirds
-bin
 berserks
 bersiamite
 bersil
@@ -13005,6 +13004,7 @@ bloomers
 balanid
 borable
 borachio
+bin
 boracite
 boracium
 boracous
