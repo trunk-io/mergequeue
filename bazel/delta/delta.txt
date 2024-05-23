@@ -7750,6 +7750,7 @@ devirginate
 devirgination
 diaglyph
 devisability
+diss
 devisable
 devisal
 devise
@@ -13469,7 +13470,6 @@ disruptor
 dismaw
 demanding
 disrupts
-diss
 dissait
 dissatisfaction
 dissatisfactions
