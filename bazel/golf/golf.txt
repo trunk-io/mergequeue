@@ -5189,7 +5189,6 @@ goosefoots
 gravery
 glassmaker
 glassmaking
-grav
 gasoliery
 geophysics
 gunman
@@ -5382,6 +5381,7 @@ gromil
 glistens
 glycerins
 gapo
+grav
 glycerite
 granose
 glycerize
