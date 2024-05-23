@@ -7173,7 +7173,6 @@ faintful
 fishers
 fertilisation
 fiendism
-footholds
 foothot
 frittata
 fedn
@@ -10882,6 +10881,7 @@ ferriage
 fantasizing
 felid
 frons
+footholds
 fulgorid
 fon
 fulgur
