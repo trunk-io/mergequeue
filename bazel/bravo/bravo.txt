@@ -5378,6 +5378,7 @@ beefed
 bosnisch
 begirt
 beglad
+bilboquet
 bogies
 beglare
 beglerbeg
@@ -9086,7 +9087,6 @@ bioecologist
 bioelectric
 blunges
 bioelectrical
-bilboquet
 bioelectricity
 bioelectricities
 bioelectrogenesis

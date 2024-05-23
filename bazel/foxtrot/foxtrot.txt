@@ -5078,7 +5078,6 @@ forevouched
 ferricyanhydric
 flasker
 foretooth
-fellahin
 flasklet
 flasque
 flexuous
@@ -5187,6 +5186,7 @@ fielder
 flavicant
 flanconnade
 flavid
+fellahin
 fermate
 frogfishes
 frigorify
