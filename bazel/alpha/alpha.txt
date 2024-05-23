@@ -6229,7 +6229,6 @@ agitators
 agitatrix
 agitprop
 agitprops
-agkistrodon
 athrocytosis
 aglaia
 atocia
@@ -12361,6 +12360,7 @@ abashments
 aeromantic
 allottable
 albuminometry
+agkistrodon
 andiron
 anopisthograph
 andirons
