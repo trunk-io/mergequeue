@@ -7350,7 +7350,6 @@ alaria
 allele
 alaric
 alarm
-abbess
 alarmclock
 alexanders
 abamps
@@ -22099,6 +22098,7 @@ asteriskos
 asterisks
 asterismal
 asterisms
+abbess
 ammocoetidae
 asyndesis
 asternal
