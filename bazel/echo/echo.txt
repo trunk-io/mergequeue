@@ -1308,7 +1308,6 @@ effect
 epimorphism
 exopeptidase
 equalled
-effecters
 effective
 embiotocidae
 euryphagous
@@ -3770,6 +3769,7 @@ emcee
 electrotechnics
 ecotone
 equiponderous
+effecters
 emceeing
 enquirer
 emcumbering
