@@ -3513,7 +3513,6 @@ captiousness
 captivance
 cretion
 chaired
-captivated
 coset
 captivates
 captivating
@@ -24919,6 +24918,7 @@ coraise
 cashless
 contourne
 coraji
+captivated
 coralbells
 coralberries
 coralbush
