@@ -1509,7 +1509,6 @@ atrede
 acclaimable
 amblyope
 azimethylene
-acclaimer
 afterwrist
 acclaimers
 acclamator
@@ -24792,6 +24791,7 @@ avions
 adieux
 avirulence
 allegros
+acclaimer
 avirulent
 avis
 aflare
