@@ -2063,6 +2063,7 @@ gams
 gouvernantes
 gaurian
 gaurie
+gilds
 gaurs
 gimbri
 gaussage
@@ -4091,7 +4092,6 @@ grounds
 gurlet
 gravamem
 gravels
-gilds
 gildship
 gaskins
 gildsmen
