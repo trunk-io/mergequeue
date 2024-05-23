@@ -8343,7 +8343,6 @@ boosters
 byepath
 bier
 broid
-byerite
 bierkeller
 byerlite
 backspliced
@@ -9980,6 +9979,7 @@ bitingly
 banderols
 baldpated
 bitmap
+byerite
 bimbos
 bitmapped
 bito
