@@ -2321,7 +2321,6 @@ geggery
 galax
 gehlenite
 goblet
-guideway
 gey
 gaits
 gladiatorism
@@ -9194,6 +9193,7 @@ gallflower
 ghosts
 groanful
 gastrectasia
+guideway
 gheraoed
 guenepe
 groaning
