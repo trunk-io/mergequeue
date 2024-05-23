@@ -5363,6 +5363,7 @@ castellum
 casten
 caster
 comprint
+chanche
 casterless
 cinemograph
 corncob
@@ -8666,7 +8667,6 @@ chancering
 chances
 chancewise
 chasseur
-chanche
 cycloaddition
 chanchito
 chancy
