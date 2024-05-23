@@ -2387,7 +2387,6 @@ fenester
 feoffors
 fidelis
 feoffs
-fumant
 fand
 footstalk
 fremescence
@@ -4206,6 +4205,7 @@ fireplace
 fireplow
 farcical
 fleeceable
+fumant
 fatting
 fireplug
 frieze
