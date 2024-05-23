@@ -11245,6 +11245,7 @@ chloral
 chloralformamide
 chloralization
 comburimeter
+coracoacromial
 cymbocephalic
 chloralize
 chloralized
@@ -24882,7 +24883,6 @@ coraciidae
 coracine
 coracle
 coracles
-coracoacromial
 coracobrachial
 clipeus
 calcimeter
