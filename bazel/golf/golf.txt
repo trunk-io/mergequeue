@@ -5032,7 +5032,6 @@ gladsomest
 gladwin
 galletas
 globularity
-greeter
 graced
 glaga
 glagolic
@@ -6007,6 +6006,7 @@ glucosamine
 glucosane
 genteelest
 garo
+greeter
 grenatite
 glucosazone
 gliss
