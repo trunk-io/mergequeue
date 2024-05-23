@@ -15626,6 +15626,7 @@ doorpiece
 dowl
 dawdle
 doorsill
+dossing
 doorstead
 didactics
 detumescent
@@ -17788,7 +17789,6 @@ duck
 depa
 duckbill
 duckstone
-dossing
 duckblind
 duckboard
 ducked
