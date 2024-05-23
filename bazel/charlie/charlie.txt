@@ -21140,7 +21140,6 @@ culicide
 concealedly
 concealedness
 concealer
-concealing
 conceals
 coleopteran
 concededly
@@ -29309,6 +29308,7 @@ cryptograph
 cryptographal
 cryptoheresy
 cryptoheretic
+concealing
 cryptolite
 cryptolith
 cryptology
