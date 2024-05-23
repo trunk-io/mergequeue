@@ -10310,7 +10310,6 @@ alumine
 amen
 agathosma
 amenability
-amenable
 alkalis
 anticheater
 amenableness
@@ -18757,6 +18756,7 @@ archaeologer
 areologic
 adoral
 archaeologic
+amenable
 aggregately
 archaeological
 archaeologist
