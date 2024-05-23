@@ -15840,7 +15840,6 @@ cyproheptadine
 clawker
 clawless
 clawlike
-claws
 claxon
 claxons
 cleaded
@@ -19825,6 +19824,7 @@ charade
 comestion
 circulates
 cometary
+claws
 cometaria
 cometh
 cavum

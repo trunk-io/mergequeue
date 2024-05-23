@@ -11199,7 +11199,6 @@ breastband
 bloodcurdlingly
 blooddrop
 bloodfin
-bishoplike
 bloodfins
 booboos
 bleery
@@ -14071,6 +14070,7 @@ brachiocephalic
 burkites
 brachiocyllosis
 brachiocubital
+bishoplike
 branchy
 bisme
 brachiolaria
