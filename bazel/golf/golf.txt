@@ -6794,7 +6794,6 @@ greasewood
 graminivorous
 gropple
 giddyberry
-giving
 galactophagous
 grabbling
 goura
@@ -10070,6 +10069,7 @@ gigman
 gelsemic
 galivanting
 glore
+giving
 gravigrade
 guesdist
 gola
