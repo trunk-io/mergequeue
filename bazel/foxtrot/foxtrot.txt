@@ -972,7 +972,6 @@ farceuses
 flenched
 farci
 facetiousness
-fricandelle
 fogeys
 freshet
 fizzes
@@ -4884,6 +4883,7 @@ fdname
 flashbacks
 flamboyer
 fergusite
+fricandelle
 fill
 flameless
 flitch
