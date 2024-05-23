@@ -5707,7 +5707,6 @@ allomerism
 aftershaft
 aftershafted
 aftershave
-aftershaves
 aftershocks
 aftersound
 afterspeech
@@ -7647,6 +7646,7 @@ alembicate
 alcaide
 alcayde
 alcaydes
+aftershaves
 abote
 alcalde
 alcaldes
