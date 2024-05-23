@@ -1736,6 +1736,7 @@ fledge
 feasibly
 factorized
 fangle
+firelocks
 fasciodesis
 feasted
 fascio
@@ -4194,7 +4195,6 @@ fluff
 firelight
 flosh
 flab
-firelocks
 firemanship
 frigorifico
 feistier
