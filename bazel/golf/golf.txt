@@ -2574,7 +2574,6 @@ gems
 glaciarium
 genouillere
 gangrenes
-glassing
 galumphing
 gemsbuck
 geodes
@@ -6549,6 +6548,7 @@ goldbrick
 griffinism
 guineapig
 goldbug
+glassing
 geswarp
 goldbugs
 gabbles

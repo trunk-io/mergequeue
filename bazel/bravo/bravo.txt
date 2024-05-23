@@ -10570,7 +10570,6 @@ blastochyle
 blastocyte
 begartered
 blastocoel
-blastocoele
 blastodermic
 balcone
 blastodisc
@@ -15841,6 +15840,7 @@ bromhydrate
 bromhidrosis
 bromian
 bromid
+blastocoele
 bromidic
 bedesmen
 bramblebush
