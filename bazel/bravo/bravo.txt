@@ -753,7 +753,6 @@ brinjal
 badgerlike
 bending
 badgers
-badgerweed
 bandsawing
 badges
 baddy
@@ -11510,6 +11509,7 @@ bluewoods
 berapt
 bluff
 bluffable
+badgerweed
 baraca
 brunette
 backwinding
