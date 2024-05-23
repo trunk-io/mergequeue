@@ -2949,6 +2949,7 @@ gentries
 gigged
 galacaceae
 galaxies
+garters
 genu
 glycogenetic
 grouthead
@@ -6258,7 +6259,6 @@ goa
 grammar
 germiparity
 grammaticize
-garters
 gadfly
 garibaldi
 goadlike
