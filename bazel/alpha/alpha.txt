@@ -8194,7 +8194,6 @@ acrologies
 avoidances
 artisanship
 algoid
-algol
 anglophiliac
 algolagny
 algolagnia
@@ -19138,6 +19137,7 @@ archmessenger
 archmilitarist
 archmocker
 archmockery
+algol
 argusfishes
 archmonarch
 archmonarchy
