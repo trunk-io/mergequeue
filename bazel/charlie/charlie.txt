@@ -3079,6 +3079,7 @@ capcase
 craterid
 cape
 chequerboard
+corbans
 capeadores
 caped
 capel
@@ -29058,7 +29059,6 @@ crimple
 chattable
 crimpness
 crimps
-corbans
 crimson
 curtly
 crimsoned
