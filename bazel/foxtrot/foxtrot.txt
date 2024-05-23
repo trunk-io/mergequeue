@@ -3291,7 +3291,6 @@ ferrels
 facecloth
 foism
 fibrosity
-foldwards
 faradizer
 fidate
 flaught
@@ -11017,6 +11016,7 @@ fourfold
 foredone
 frostiest
 flavory
+foldwards
 flintiest
 fifers
 fumblers
