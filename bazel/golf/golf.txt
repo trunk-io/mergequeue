@@ -4844,7 +4844,6 @@ gisants
 genericness
 gise
 galempung
-granges
 gooier
 gibbles
 gisel
@@ -6302,6 +6301,7 @@ gnatworm
 goalage
 goalie
 givens
+granges
 gambodic
 guimpe
 gastroduodenal
