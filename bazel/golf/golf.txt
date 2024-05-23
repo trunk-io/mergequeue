@@ -3802,7 +3802,6 @@ gutturopalatine
 glossoplegia
 giantkind
 giantly
-giantlikeness
 goggle
 giants
 grouty
@@ -9480,6 +9479,7 @@ gins
 glimes
 groupoid
 galbraithian
+giantlikeness
 gisla
 groupwise
 goloch

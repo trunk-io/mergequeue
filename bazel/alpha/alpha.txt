@@ -4957,7 +4957,6 @@ aerobioscope
 aerobiosis
 aerobiotic
 aerobious
-aeroboat
 aerobranchia
 aerobranchiate
 aerobus
@@ -7839,6 +7838,7 @@ alderwomen
 aldhafara
 aldhafera
 annona
+aeroboat
 attaining
 aldide
 arrhythmy
