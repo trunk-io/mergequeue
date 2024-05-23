@@ -5554,7 +5554,6 @@ deoxidize
 deoxidizer
 dreggy
 deoxidizers
-deoxidizes
 dogwatch
 deoxidizing
 destining
@@ -12488,6 +12487,7 @@ dumbs
 dicotyledonary
 disinfectants
 destructivism
+deoxidizes
 daikers
 dreg
 disinfected
