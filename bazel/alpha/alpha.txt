@@ -12649,6 +12649,7 @@ aneurism
 allochroite
 aneurysm
 aneurysmal
+archprelatic
 aeriferous
 aneurysmally
 aneurysmatic
@@ -19189,7 +19190,6 @@ archpolitician
 archpontiff
 archpractice
 archprelate
-archprelatic
 archprelatical
 armenize
 aholt
