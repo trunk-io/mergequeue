@@ -3539,7 +3539,6 @@ distomum
 delvers
 deformable
 deformation
-deformational
 delete
 deformations
 deformedly
@@ -6114,6 +6113,7 @@ dictyostele
 deradenitis
 diatheses
 deradenoncus
+deformational
 derah
 deraigning
 divest
