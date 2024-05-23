@@ -9158,7 +9158,6 @@ erythroclastic
 erythrophage
 erythrodegenerative
 ephebeum
-erythrodermia
 erythrogen
 embryogony
 erythrogenic
@@ -11996,6 +11995,7 @@ excitabilities
 electrocauteries
 enlist
 emmeleia
+erythrodermia
 excitant
 epipolic
 epistemophilic
