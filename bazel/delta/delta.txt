@@ -9211,7 +9211,6 @@ decentres
 dieldrins
 dyeleaves
 dielectric
-discontinuor
 debarkation
 discolour
 dogmatizing
@@ -18327,6 +18326,7 @@ duodecimos
 duodecuple
 dogberrydom
 duodedena
+discontinuor
 duodedenums
 duodena
 duodenary
