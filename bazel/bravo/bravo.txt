@@ -2910,6 +2910,7 @@ barreleyes
 belap
 barrelet
 barrelfish
+brookite
 barrelfishes
 batuque
 botanical
@@ -16070,7 +16071,6 @@ brooky
 boskiest
 bedriddenness
 brookier
-brookite
 brooklets
 brooklike
 batyphone
