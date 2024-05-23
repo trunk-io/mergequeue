@@ -11601,7 +11601,6 @@ discontinuable
 dacryocystorhinostomy
 discontinuances
 discontinue
-discontinued
 dishabit
 discontinuee
 desi
@@ -15919,6 +15918,7 @@ dewaxes
 daydream
 dot
 disbark
+discontinued
 dotages
 dinoceratan
 doubleword

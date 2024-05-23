@@ -9994,6 +9994,7 @@ bitrochanteric
 bitser
 bitsy
 bitstock
+bedead
 beasties
 bitstocks
 bitstone
@@ -16844,7 +16845,6 @@ bathysophic
 buffoonish
 bungle
 buffoonishness
-bedead
 buras
 buffos
 barhopping
