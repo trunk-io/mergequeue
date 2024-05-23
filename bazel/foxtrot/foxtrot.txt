@@ -4405,7 +4405,6 @@ febricity
 fishplate
 fossa
 feste
-fishpole
 foodlessness
 fishpoles
 forlornest
@@ -6202,6 +6201,7 @@ flubbed
 flubdub
 foreread
 fairgoing
+fishpole
 feebling
 fluctiferous
 frenal

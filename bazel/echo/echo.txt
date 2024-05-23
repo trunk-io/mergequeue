@@ -1251,6 +1251,7 @@ eme
 eeyuch
 epit
 equiv
+encephalomas
 einkanter
 eel
 eelboat
@@ -4525,7 +4526,6 @@ eelware
 encephaloid
 enforcing
 encephalolith
-encephalomas
 escudo
 encephalomeningocele
 exhalation
