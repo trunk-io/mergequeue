@@ -11756,6 +11756,7 @@ bumkins
 bobflies
 bananas
 bobfloat
+bovines
 bobierrite
 bobization
 bobjerom
@@ -13163,7 +13164,6 @@ bors
 borsches
 bridgeheads
 borsholder
-bovines
 besneer
 betulites
 bowtel
