@@ -6243,7 +6243,6 @@ focusable
 fluffiest
 fud
 formwork
-fluffiness
 fluffs
 flugel
 fluible
@@ -6443,6 +6442,7 @@ ferritin
 fluoaluminate
 fluorogen
 fluorometry
+fluffiness
 foreseeing
 fluoroscopy
 friendly
