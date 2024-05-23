@@ -917,7 +917,6 @@ gamelang
 gonagia
 gamelans
 gameless
-gentian
 gamelike
 goracco
 gadids
@@ -1697,6 +1696,7 @@ grignet
 genius
 gaunted
 gerim
+gentian
 goldenmouthed
 gynoeciumcia
 gallocyanin
