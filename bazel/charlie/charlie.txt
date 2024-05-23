@@ -16710,6 +16710,7 @@ clothed
 clothesbag
 clothesbasket
 clothesbrush
+compresence
 clothesyard
 clothesless
 cirrus
@@ -20923,7 +20924,6 @@ collegiums
 comprend
 compresbyter
 compresbyterial
-compresence
 compresent
 compress
 cambogia
