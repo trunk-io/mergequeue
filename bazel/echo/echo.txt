@@ -7490,7 +7490,6 @@ ephippium
 effluency
 evangelistics
 ephod
-ephods
 ephor
 essayical
 ephorate
@@ -10702,6 +10701,7 @@ enlistee
 eudaemonical
 etiologic
 eudaemonics
+ephods
 eurous
 eudaemonism
 enmeshes
