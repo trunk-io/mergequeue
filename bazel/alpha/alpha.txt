@@ -330,7 +330,6 @@ aberrants
 aberrating
 aberration
 aberrational
-aberrative
 aloha
 acinose
 aberrator
@@ -17479,6 +17478,7 @@ auguste
 actors
 autocollimator
 antiforeign
+aberrative
 apostate
 apostates
 apostatic
