@@ -5276,6 +5276,7 @@ epipodia
 endoskeletons
 endosmic
 endosmometric
+epilemma
 endocrinologic
 eyr
 evaders
@@ -13585,7 +13586,6 @@ extends
 extensibility
 eclectism
 engagedness
-epilemma
 extensions
 extensity
 extinctive
