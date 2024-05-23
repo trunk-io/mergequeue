@@ -1675,7 +1675,6 @@ gast
 gastaldite
 gymnura
 gasted
-gaster
 gauntlet
 giltheads
 geropiga
@@ -2627,6 +2626,7 @@ genecology
 guanidopropionic
 gradienter
 genecor
+gaster
 griever
 genep
 gained
