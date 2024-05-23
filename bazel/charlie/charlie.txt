@@ -3095,6 +3095,7 @@ capelin
 cornette
 capeline
 crocked
+chaining
 capelins
 capella
 capellane
@@ -15361,7 +15362,6 @@ clambake
 clamber
 colfox
 cassique
-chaining
 clambering
 clambers
 clamcracker
