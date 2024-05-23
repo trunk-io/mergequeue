@@ -4315,7 +4315,6 @@ gynaecia
 gonidiose
 geisothermal
 glossing
-gyros
 graniform
 ghibelline
 gynaecic
@@ -4540,6 +4539,7 @@ grumps
 ghaut
 ginnings
 gynobase
+gyros
 gynocardia
 gadget
 gluer

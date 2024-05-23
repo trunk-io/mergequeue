@@ -3041,6 +3041,7 @@ boardlike
 briery
 baruria
 barvel
+baleful
 barvell
 burgundies
 beduin
@@ -14487,7 +14488,6 @@ branchiopodan
 branchiopodous
 baktun
 branchiopulmonata
-baleful
 bonding
 branchiosauria
 belugite
