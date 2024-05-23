@@ -4868,7 +4868,6 @@ aeolis
 aeolist
 aeolistic
 aeolomelodicon
-averin
 aeolotropy
 aeolotropic
 aeolus
@@ -6110,6 +6109,7 @@ aggregating
 aggregative
 aggregatively
 aggregator
+averin
 antiroll
 anatman
 aggrege
