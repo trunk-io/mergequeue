@@ -9206,7 +9206,6 @@ decentres
 dieldrins
 dyeleaves
 dielectric
-discontinuor
 debarkation
 discolour
 dogmatizing
@@ -13733,6 +13732,7 @@ desmid
 dissolutive
 dissolvability
 dissolvable
+discontinuor
 dissolvableness
 dissolvative
 dissolve
