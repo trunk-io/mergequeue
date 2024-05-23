@@ -8540,7 +8540,6 @@ edulcorator
 epuloid
 epulosis
 epulotic
-epuration
 exculpable
 eremian
 effectual
@@ -14139,6 +14138,7 @@ excretion
 entrails
 examinees
 extrudes
+epuration
 epitaphic
 englishes
 earthen
