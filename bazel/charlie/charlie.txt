@@ -18971,6 +18971,7 @@ collates
 collation
 collationer
 collations
+corneule
 cesti
 collatitious
 cloine
@@ -25408,7 +25409,6 @@ cornetti
 cornettino
 cornettist
 cornetto
-corneule
 cornfactor
 cornfed
 cornfields
