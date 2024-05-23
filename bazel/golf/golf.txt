@@ -6378,7 +6378,6 @@ gregorianizer
 gorier
 gob
 goban
-glycemic
 gobbed
 gobber
 girja
@@ -6660,6 +6659,7 @@ gamopetalous
 gastratrophia
 goluptious
 grays
+glycemic
 ganglioneural
 glaucic
 gude
