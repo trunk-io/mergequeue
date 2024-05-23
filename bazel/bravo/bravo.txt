@@ -13268,7 +13268,6 @@ besieger
 bossies
 bedstaff
 bossily
-bossiness
 bossing
 balconied
 bizarres
@@ -16132,6 +16131,7 @@ brotheler
 bulla
 brimstony
 brothels
+bossiness
 breweries
 bibliomanianism
 bistorta
