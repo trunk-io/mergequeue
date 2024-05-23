@@ -6382,7 +6382,6 @@ cautioners
 cautiones
 cautioning
 canard
-cautionry
 cautious
 cautiously
 cautiousness
@@ -28118,6 +28117,7 @@ craney
 chips
 cranelike
 cranes
+cautionry
 cranesman
 cranet
 craneway
