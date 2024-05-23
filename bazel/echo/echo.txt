@@ -6478,7 +6478,6 @@ entablements
 entackle
 endpleasure
 entomostracan
-entail
 epilimnion
 entails
 entally
@@ -7199,6 +7198,7 @@ exactest
 enwrought
 enwwove
 euphonym
+entail
 enzym
 enfranchisement
 ensample
