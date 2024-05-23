@@ -79,7 +79,6 @@ glyoxalase
 grayouts
 gabriella
 galliums
-glowing
 graticule
 grunions
 gyniolatry
@@ -6352,6 +6351,7 @@ generalship
 gilo
 greaves
 goatskins
+glowing
 geomyidae
 gawkily
 goatstone
