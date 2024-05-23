@@ -8099,7 +8099,6 @@ barmskin
 bodymaker
 bibracteate
 billing
-bibulosities
 bibulous
 bayoneting
 breathful
@@ -15871,6 +15870,7 @@ bromizer
 basified
 bromizing
 bromlite
+bibulosities
 bromo
 bromoacetone
 bearberries
