@@ -4501,7 +4501,6 @@ bunyas
 bovenland
 beclang
 barrable
-beclap
 beclasped
 bepuzzlement
 beclasps
@@ -5788,6 +5787,7 @@ belgas
 belgian
 belgophile
 beater
+beclap
 belgrade
 bora
 bely
