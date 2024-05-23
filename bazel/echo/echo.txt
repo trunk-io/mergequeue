@@ -3602,7 +3602,6 @@ equivalents
 entada
 embraced
 embracement
-embraceorr
 exoascus
 embracer
 earspool
@@ -7038,6 +7037,7 @@ entryman
 entrymen
 entryway
 enactory
+embraceorr
 entrochite
 eutectoid
 entropionize
