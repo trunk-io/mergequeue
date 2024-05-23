@@ -5851,7 +5851,6 @@ gyres
 gobos
 glossolalia
 glossolysis
-glossologist
 glossophaga
 glossopharyngeus
 gettered
@@ -9979,6 +9978,7 @@ grapewort
 gelsemiumia
 gymnocerata
 gubbins
+glossologist
 geoethnic
 graywacke
 gubbo
