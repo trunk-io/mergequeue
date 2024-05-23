@@ -9387,7 +9387,6 @@ bipinnated
 bipinnatipartite
 bipinnatisect
 bipinnatisected
-bowtie
 bipyramid
 bipyridyl
 bubale
@@ -15648,6 +15647,7 @@ broadspread
 broadsword
 broadwayite
 bamangwato
+bowtie
 blushful
 blundered
 bromethyl
