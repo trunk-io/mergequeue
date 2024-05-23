@@ -3969,7 +3969,6 @@ fingerbreadth
 flatter
 fingerer
 fingerers
-fingerhold
 freehanded
 facility
 fingerhook
@@ -4743,6 +4742,7 @@ flickeringly
 flageolet
 fauve
 fooyoung
+fingerhold
 fannings
 flageolets
 fencelet
