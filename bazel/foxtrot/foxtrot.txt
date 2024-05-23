@@ -5454,6 +5454,7 @@ fleurettee
 fax
 foes
 flewed
+forewarned
 furunculus
 flewit
 flews
@@ -7913,7 +7914,6 @@ fibered
 forescene
 forescent
 flowered
-forewarned
 fayence
 foresee
 fantasmagoria
