@@ -9792,7 +9792,6 @@ bisymmetric
 billback
 bisymmetrical
 bigg
-bisync
 bisischiatic
 bauera
 bisk
@@ -14247,6 +14246,7 @@ byword
 braeface
 boarding
 bandfiling
+bisync
 braehead
 benefactory
 begoud
