@@ -1138,7 +1138,6 @@ evodia
 exploders
 extermined
 edwina
-edit
 editable
 elatrometer
 electrotypes
@@ -6942,6 +6941,7 @@ entoptical
 entoptically
 engraff
 entoptics
+edit
 entoptoscopic
 entorganism
 evangelicality
