@@ -2260,6 +2260,7 @@ antiracer
 ashmolean
 achrodextrin
 algebraized
+adipocyte
 achrodextrinase
 achroglobin
 achroiocythaemia
@@ -3925,7 +3926,6 @@ adipocere
 anthropological
 adipoceriform
 adipocerite
-adipocyte
 adipofibroma
 adipoid
 angiology
