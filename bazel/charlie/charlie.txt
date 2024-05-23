@@ -6741,7 +6741,6 @@ celestina
 claptrap
 celestinian
 celestite
-celestitude
 clivias
 celiac
 configured
@@ -30550,6 +30549,7 @@ cystitome
 cuchia
 cuchulainn
 cuck
+celestitude
 cuckhold
 commissioner
 copulations
