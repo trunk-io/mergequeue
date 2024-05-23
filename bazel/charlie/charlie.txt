@@ -6714,7 +6714,6 @@ celebrationis
 convallamarin
 celebrations
 celebrative
-celebre
 celebret
 celebrious
 celebrity
@@ -13619,6 +13618,7 @@ ciliium
 cylinder
 constructing
 cylindered
+celebre
 cylinderer
 cylindering
 cylinders
