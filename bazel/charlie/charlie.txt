@@ -8410,6 +8410,7 @@ colicin
 chalkiest
 chalkiness
 chalking
+code
 chalklike
 chalkline
 chalkone
@@ -17806,7 +17807,6 @@ coddle
 coddler
 coddlers
 coddles
-code
 codebooks
 codebreaker
 codebtor
