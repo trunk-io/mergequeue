@@ -13584,7 +13584,6 @@ cygnets
 cygnid
 commodore
 cygninae
-cygnus
 cigua
 ciguatera
 cyke
@@ -29444,6 +29443,7 @@ crystalligerous
 civilizade
 crystallin
 crystalline
+cygnus
 crystalling
 crystallinity
 closet
