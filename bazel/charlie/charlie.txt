@@ -5317,6 +5317,7 @@ cassumunar
 cephadia
 cast
 castable
+clubionidae
 castagnole
 castalia
 castalian
@@ -16876,7 +16877,6 @@ clubhaul
 clubhauled
 clubhauls
 clubhouses
-clubionidae
 clubland
 clubman
 clubmate
