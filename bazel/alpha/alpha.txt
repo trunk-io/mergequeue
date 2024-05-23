@@ -2504,7 +2504,6 @@ acknowledges
 anacatadidymus
 adespota
 acknowledgment
-acknowledgments
 ackton
 adenocarcinomatous
 acle
@@ -9712,6 +9711,7 @@ ararauna
 alveolarly
 alveolars
 alveolate
+acknowledgments
 alveolation
 alveole
 alveolectomy
