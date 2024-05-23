@@ -12417,6 +12417,7 @@ constructionally
 chromaticness
 chromatid
 conuses
+chromaticism
 chromatin
 cyclonoscope
 chromatype
@@ -29984,7 +29985,6 @@ croton
 crotonaldehyde
 crotonate
 crotonbug
-chromaticism
 crotonic
 crotonyl
 crotonylene
