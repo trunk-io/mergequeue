@@ -5168,7 +5168,6 @@ endome
 ephesians
 evene
 endometrial
-endometriosis
 endomitosis
 endomorphy
 endomorphic
@@ -13525,6 +13524,7 @@ exsiccator
 embowment
 exsolving
 epochs
+endometriosis
 entosclerite
 eloquence
 exspuition
