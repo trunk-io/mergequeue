@@ -3782,7 +3782,6 @@ batties
 battik
 batting
 battings
-battledores
 baldly
 barotraumata
 battledoring
@@ -10915,6 +10914,7 @@ blere
 behooved
 blesboks
 blesmol
+battledores
 branniest
 bedward
 blessed
