@@ -5280,6 +5280,7 @@ fricandoes
 fleabites
 foods
 feoffee
+fortunel
 fringelike
 friskier
 foreclosing
@@ -8721,7 +8722,6 @@ fortunateness
 fissileness
 fillers
 falsifiers
-fortunel
 foozled
 froe
 fixedly
