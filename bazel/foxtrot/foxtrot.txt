@@ -6723,7 +6723,6 @@ fogyish
 fogless
 fadding
 fogman
-fogmen
 fuseless
 fogo
 fogon
@@ -11012,6 +11011,7 @@ fasted
 freesilverism
 fumble
 fumbled
+fogmen
 forecatharping
 figural
 fourfold
