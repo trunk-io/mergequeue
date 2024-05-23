@@ -9611,7 +9611,6 @@ altun
 alture
 altus
 algivorous
-aluco
 aubades
 amazia
 antirennet
@@ -10682,6 +10681,7 @@ aminoanthraquinone
 apodictically
 acritol
 aminoazo
+aluco
 amphithalmi
 aryepiglottidean
 aminobenzaldehyde
