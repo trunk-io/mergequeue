@@ -4146,7 +4146,6 @@ estado
 eriglossa
 epigene
 employed
-enomania
 eslabon
 employee
 endives
@@ -9919,6 +9918,7 @@ escapade
 estaminet
 emittance
 exergue
+enomania
 eloquential
 estampage
 evolving
