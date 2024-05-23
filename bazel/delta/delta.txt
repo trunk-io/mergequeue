@@ -4709,7 +4709,6 @@ dol
 dinic
 demisang
 demisangue
-demisavage
 deuteragonist
 douzaines
 doable
@@ -18492,6 +18491,7 @@ diocesans
 decolonisation
 disownable
 dasyproctine
+demisavage
 durbars
 durdenite
 dissonate
