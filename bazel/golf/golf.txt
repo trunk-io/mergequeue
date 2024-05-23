@@ -3718,7 +3718,6 @@ germanophobic
 gamin
 ghizite
 gammarus
-glassware
 glops
 geocronite
 gurgly
@@ -9482,6 +9481,7 @@ groupwise
 goloch
 grouseberry
 groused
+glassware
 gonglike
 gulpy
 grouselike
