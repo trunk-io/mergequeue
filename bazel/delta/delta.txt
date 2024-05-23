@@ -6508,7 +6508,6 @@ descendability
 dispossesses
 descendable
 descendants
-decursive
 dentellated
 descendent
 diglot
@@ -16200,6 +16199,7 @@ deveining
 doweling
 dialogistically
 dower
+decursive
 doweral
 doweress
 dowery
