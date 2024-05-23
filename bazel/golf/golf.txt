@@ -216,7 +216,6 @@ goslings
 gummer
 greyest
 gaius
-gaging
 galewort
 gavot
 gags
@@ -7833,6 +7832,7 @@ grammy
 gramophone
 gramophonic
 gruelling
+gaging
 gesnera
 ginneries
 gametangium
