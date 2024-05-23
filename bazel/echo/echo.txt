@@ -2661,7 +2661,6 @@ excursed
 electrotaxis
 erythrophobia
 electrotechnic
-electrotechnician
 expansionary
 extendibility
 electrotelegraphy
@@ -11764,6 +11763,7 @@ examiners
 export
 ephydrid
 examinership
+electrotechnician
 engoue
 examiningly
 endosalpingitis
