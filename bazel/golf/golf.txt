@@ -5573,7 +5573,6 @@ gliffy
 glyptotheca
 goujon
 glyptotherium
-globeholder
 glires
 gliridae
 glirine
@@ -7939,6 +7938,7 @@ gaberloonie
 gamobium
 guidonian
 gasifiable
+globeholder
 gustatorily
 gata
 gradgrindian
