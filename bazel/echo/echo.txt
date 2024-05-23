@@ -5522,7 +5522,6 @@ englifier
 experimentarian
 etherlike
 enheritance
-enfeoffing
 episcopant
 enfeoffment
 espundia
@@ -5887,6 +5886,7 @@ enid
 emissary
 empties
 enif
+enfeoffing
 exhilarates
 erythrose
 enigma
