@@ -5812,7 +5812,6 @@ floatage
 farmeries
 fairs
 fireling
-floatation
 fists
 firesides
 finicky
@@ -7888,6 +7887,7 @@ flannelbush
 forerun
 fname
 factiousness
+floatation
 franklinia
 flagellariaceae
 forerunner
