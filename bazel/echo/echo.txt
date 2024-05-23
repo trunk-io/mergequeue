@@ -6728,7 +6728,6 @@ enthral
 enthralldom
 enthralling
 exurb
-enthrallment
 enthralment
 enthrals
 enthrill
@@ -7025,6 +7024,7 @@ equips
 ethmopresphenoidal
 entrepreneurship
 entrepreneuse
+enthrallment
 entrer
 entresols
 entresse
