@@ -1232,7 +1232,6 @@ flavorless
 fash
 fashery
 fasherie
-fusilier
 footwork
 fashing
 fiddley
@@ -7721,6 +7720,7 @@ fulls
 frequencies
 flavedos
 foreigneering
+fusilier
 fibrinous
 foreigner
 flaggelated

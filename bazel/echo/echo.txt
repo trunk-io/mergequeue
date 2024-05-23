@@ -9711,7 +9711,6 @@ esophagomycosis
 esophagopathy
 esophagoplasty
 esophagoptosis
-esophagorrhagia
 embodiment
 edentulous
 esophagoscopy
@@ -11905,6 +11904,7 @@ equilibrating
 eleusinion
 except
 eppes
+esophagorrhagia
 entomologise
 enunciatively
 epimenidean
