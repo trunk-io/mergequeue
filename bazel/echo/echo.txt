@@ -6456,7 +6456,6 @@ equators
 enswathe
 electrophotographic
 enswathement
-encephalola
 enswathes
 enumerations
 enswathing
@@ -12240,6 +12239,7 @@ execeptional
 euro
 excogitation
 execrate
+encephalola
 expressed
 execrating
 echiurida
