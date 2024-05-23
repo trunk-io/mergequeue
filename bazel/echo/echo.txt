@@ -4148,6 +4148,7 @@ estado
 eriglossa
 epigene
 employed
+endophragm
 enomania
 eslabon
 employee
@@ -5204,7 +5205,6 @@ esophagostomy
 endophytal
 eupepticism
 endophlebitis
-endophragm
 embarcadero
 endophragmal
 ensphere
