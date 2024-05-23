@@ -2325,7 +2325,6 @@ electrochronometric
 enfroward
 electroplating
 electroplates
-epiphenomenal
 elasmosaur
 eutectic
 emulsifying
@@ -11019,6 +11018,7 @@ encrease
 epipelagic
 eczema
 eupnoea
+epiphenomenal
 extenuatory
 eupolidean
 eupolyzoan
