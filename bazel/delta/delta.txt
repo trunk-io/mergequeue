@@ -4777,7 +4777,6 @@ demiurgus
 depressor
 demivambrace
 diminutivize
-demivierge
 demivirgin
 deadeyes
 demivol
@@ -15013,6 +15012,7 @@ dislady
 doggrel
 dogget
 doggrelize
+demivierge
 doggrels
 dorlot
 doghead

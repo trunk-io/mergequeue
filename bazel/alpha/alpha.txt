@@ -1116,7 +1116,6 @@ aburton
 artemisia
 abusable
 atestine
-abusage
 autographic
 abuse
 abused
@@ -4568,6 +4567,7 @@ adustive
 adv
 argue
 advaita
+abusage
 advance
 advancedness
 advancement
