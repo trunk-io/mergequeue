@@ -260,7 +260,6 @@ autotropism
 abdominally
 abdominals
 abdominocentesis
-abdominocystic
 abdominogenital
 aurata
 affiant
@@ -10853,6 +10852,7 @@ antischolastic
 ammoniuret
 ammoniureted
 ammono
+abdominocystic
 ammonobasic
 atty
 ammonocarbonous
