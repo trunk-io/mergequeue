@@ -3973,7 +3973,6 @@ delace
 delactation
 delayable
 demes
-delayer
 delayers
 delayful
 delaine
@@ -4753,6 +4752,7 @@ displuming
 diplomatize
 demythologizer
 dees
+delayer
 demitint
 demitoilet
 demitone
