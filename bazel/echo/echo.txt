@@ -5907,7 +5907,6 @@ etourderie
 ephphatha
 echowise
 enigmatist
-enigmatize
 enigmatizing
 enigmatographer
 exempts
@@ -12148,6 +12147,7 @@ excerpter
 excruciating
 excruciatingly
 enascent
+enigmatize
 excruciator
 excubant
 ennomic
