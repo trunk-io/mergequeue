@@ -2633,6 +2633,7 @@ bushie
 barkey
 briers
 barken
+barbute
 beknights
 barkentine
 barkentines
@@ -17269,7 +17270,6 @@ bumble
 blurping
 basseting
 bumblebee
-barbute
 bumblebomb
 bumblekite
 bottomchrome
