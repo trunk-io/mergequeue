@@ -7542,7 +7542,6 @@ broodlet
 betrayment
 bolsheviki
 belgians
-betrap
 betravel
 betread
 betrend
@@ -16822,6 +16821,7 @@ buffeted
 borderless
 beliked
 bibliokelpt
+betrap
 buffeter
 buffeters
 bubalises
