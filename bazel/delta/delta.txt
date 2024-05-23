@@ -1990,7 +1990,6 @@ decaesarize
 decaffeinate
 decaffeinated
 depicted
-decaffeinates
 deadpanner
 decaffeinating
 decaffeinize
@@ -2809,6 +2808,7 @@ dogtail
 devolatilized
 decreased
 depravate
+decaffeinates
 decreases
 decreasingly
 decreation
