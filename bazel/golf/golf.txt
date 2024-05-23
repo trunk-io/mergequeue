@@ -1914,7 +1914,6 @@ gouts
 gloam
 gatehouse
 graine
-gelsemin
 gatekeeper
 gatekeepers
 grasses
@@ -5035,6 +5034,7 @@ glagolic
 glaieul
 glaik
 getic
+gelsemin
 gougingly
 galvaniser
 glossotomy

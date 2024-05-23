@@ -7744,7 +7744,6 @@ bewinged
 bewinter
 bewitched
 bewitchedness
-bewitcher
 bewitches
 bryological
 bewitchful
@@ -11750,6 +11749,7 @@ bobbinwork
 bobbish
 bobbysoxers
 bais
+bewitcher
 bobcat
 belfast
 bobcats
