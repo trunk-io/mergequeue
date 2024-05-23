@@ -2991,7 +2991,6 @@ filamented
 feuillage
 furcation
 flyoff
-feuillants
 feuilleton
 feuilletons
 fleches
@@ -4752,6 +4751,7 @@ forbiddenness
 figurately
 flaggelating
 flagger
+feuillants
 fragilariaceae
 feltmonger
 flaunching
