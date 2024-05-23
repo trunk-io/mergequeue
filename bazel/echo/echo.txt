@@ -3171,7 +3171,6 @@ ethanedial
 else
 elsehow
 electioneers
-elseways
 elsewhen
 exaggerators
 elsewhere
@@ -12005,6 +12004,7 @@ emanation
 extraction
 excited
 enscene
+elseways
 excitedly
 exterminates
 eulytin

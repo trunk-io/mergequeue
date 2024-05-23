@@ -3941,7 +3941,6 @@ grunth
 gigadoid
 gasoline
 gouda
-gigahertz
 gigahertzes
 galloperdix
 gigaherz
@@ -8308,6 +8307,7 @@ grate
 grateful
 gell
 groundman
+gigahertz
 gananciales
 grinds
 granum
