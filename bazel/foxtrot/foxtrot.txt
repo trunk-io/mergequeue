@@ -5970,6 +5970,7 @@ folkways
 felaheen
 fawny
 floorshow
+frary
 floorway
 fluidrachm
 floorward
@@ -9463,7 +9464,6 @@ frappe
 frappes
 frondescence
 forbbore
-frary
 flouriness
 freath
 foamingly

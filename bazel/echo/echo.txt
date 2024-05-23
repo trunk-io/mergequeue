@@ -2805,7 +2805,6 @@ elenctical
 ectocornea
 elenge
 encl
-emitter
 electrometallurgical
 eleoblast
 eleolite
@@ -13742,6 +13741,7 @@ entea
 extispicy
 extispicious
 extogenous
+emitter
 extoled
 extoling
 estuary
