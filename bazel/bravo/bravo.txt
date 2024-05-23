@@ -351,6 +351,7 @@ borgh
 backfurrow
 birdlimed
 backgame
+bandlimit
 bepuzzle
 beamlet
 backgammon
@@ -6370,7 +6371,6 @@ benincasa
 beniseed
 benisons
 benitier
-bandlimit
 benjamin
 benjaminite
 boletus
