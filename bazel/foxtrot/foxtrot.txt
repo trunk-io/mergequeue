@@ -3618,7 +3618,6 @@ forspoken
 fourniture
 filers
 fructification
-felinity
 fungivorous
 files
 filesmith
@@ -3916,6 +3915,7 @@ frontlessly
 findhorn
 feedboard
 filarees
+felinity
 findon
 fitfully
 foliature

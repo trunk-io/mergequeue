@@ -4585,7 +4585,6 @@ colorationally
 carnosine
 chechehet
 carnosities
-carnous
 carns
 chamaecistus
 caro
@@ -14894,6 +14893,7 @@ cladodontid
 cytioderm
 cityscape
 cityscapes
+carnous
 cytisine
 curet
 cytitis
