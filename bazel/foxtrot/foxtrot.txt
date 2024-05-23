@@ -2055,7 +2055,6 @@ fadme
 frontspiece
 filacer
 feinter
-feudary
 facedown
 faucalize
 flub
@@ -11202,6 +11201,7 @@ fibronuclear
 faence
 figury
 feneration
+feudary
 firespout
 fungistat
 foraminous
