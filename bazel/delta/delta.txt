@@ -4733,7 +4733,6 @@ decem
 demiss
 demissionary
 dispensations
-demivolt
 demagogy
 demissory
 demystify
@@ -8835,6 +8834,7 @@ dibranch
 duftery
 dibranchiata
 dibranchiate
+demivolt
 dropperful
 dibromide
 dibromoacetaldehyde
