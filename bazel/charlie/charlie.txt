@@ -12679,6 +12679,7 @@ chronopher
 chronophotograph
 chronophotography
 chronophotographic
+cushats
 chronos
 chronoscope
 chronoscopy
@@ -31644,7 +31645,6 @@ cusecs
 cuselite
 cush
 cushag
-cushats
 cushaws
 civies
 countersignal
