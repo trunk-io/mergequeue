@@ -9549,7 +9549,6 @@ dignitaries
 doubloons
 dignities
 dignosle
-dignotion
 dependants
 deuterons
 dygogram
@@ -17566,6 +17565,7 @@ drugstores
 druidess
 druidical
 denumeral
+dignotion
 decrew
 druidisms
 druids
