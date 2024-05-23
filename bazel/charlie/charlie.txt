@@ -2334,6 +2334,7 @@ canceler
 cancelers
 cancellability
 cancellable
+constableship
 cancellarius
 conessine
 cancellate
@@ -23127,7 +23128,6 @@ constablery
 chevon
 cowgate
 chkalik
-constableship
 constabless
 corymbs
 constablewick
