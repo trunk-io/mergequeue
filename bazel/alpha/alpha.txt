@@ -2041,6 +2041,7 @@ atmostea
 acetylsalicylate
 acetylsalol
 alveolites
+aftertouch
 acetyltropeine
 alsinaceous
 acetylurea
@@ -5836,7 +5837,6 @@ agamid
 adpress
 agamidae
 agamis
-aftertouch
 agamist
 antiegoistical
 astrogator
