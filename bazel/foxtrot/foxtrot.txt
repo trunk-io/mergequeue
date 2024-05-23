@@ -1370,6 +1370,7 @@ fatherlike
 fathership
 forswore
 flown
+forespeaking
 forride
 ferrotyped
 frontways
@@ -7976,7 +7977,6 @@ flipper
 foreslow
 frumpled
 flatteur
-forespeaking
 forespecified
 finniest
 forespencer
