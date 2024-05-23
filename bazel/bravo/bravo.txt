@@ -1656,6 +1656,7 @@ backlotter
 buffets
 ballottine
 ballottines
+bioelectrogenesis
 ballpark
 bandi
 barrulety
@@ -9080,7 +9081,6 @@ bioelectrical
 bilboquet
 bioelectricity
 bioelectricities
-bioelectrogenesis
 bioengineering
 bifurcates
 bioethic
