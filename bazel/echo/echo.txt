@@ -2429,7 +2429,6 @@ equivalence
 enharbor
 electrogenic
 electrogild
-electrogilt
 ejecting
 electrogram
 eleve
@@ -11364,6 +11363,7 @@ evaporimeter
 evaporitic
 evapotranspiration
 evasional
+electrogilt
 evasions
 evasiveness
 ergatoid
