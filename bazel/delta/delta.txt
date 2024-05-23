@@ -9210,7 +9210,6 @@ decahedrodra
 decentres
 dieldrins
 dyeleaves
-dielectric
 discontinuor
 debarkation
 discolour
@@ -13099,6 +13098,7 @@ dispetal
 dysphagia
 dysphasia
 damps
+dielectric
 dysphemia
 dysphemism
 dysphemistic
