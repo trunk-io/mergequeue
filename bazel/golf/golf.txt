@@ -1534,7 +1534,6 @@ goatherds
 garrulousness
 garrulus
 gustative
-graceful
 gaudeamuses
 garsil
 gambles
@@ -4083,6 +4082,7 @@ geostatics
 gliadines
 guffaw
 grievousness
+graceful
 grotzen
 gilden
 gouter

@@ -12162,7 +12162,6 @@ banshees
 boldfacing
 bootprint
 boldhearted
-beloid
 boldheartedly
 boldine
 boldly
@@ -12264,6 +12263,7 @@ barras
 bullfights
 briner
 bolshevist
+beloid
 bolshevistic
 berms
 basso
