@@ -2208,7 +2208,6 @@ enterprises
 elecives
 electant
 electary
-epithet
 enthraldom
 erected
 elysee
@@ -3011,6 +3010,7 @@ exomorphism
 epistolatory
 evangeline
 entices
+epithet
 elixation
 elixir
 extricate
