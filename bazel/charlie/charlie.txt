@@ -1476,7 +1476,6 @@ cedulas
 curraghs
 calligraph
 calligrapha
-chemurgy
 calligraphers
 calligraphy
 calligraphic
@@ -23012,6 +23011,7 @@ consolator
 callipered
 consolatory
 consolatorily
+chemurgy
 consolatoriness
 consolatrix
 console
