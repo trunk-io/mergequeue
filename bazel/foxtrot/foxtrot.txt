@@ -2228,6 +2228,7 @@ felter
 feltyflier
 felting
 feltmaker
+frangibility
 ferbams
 feltmaking
 fats
@@ -9387,7 +9388,6 @@ faller
 flappy
 figeter
 fanneling
-frangibility
 flummydiddle
 frangible
 frangipani
