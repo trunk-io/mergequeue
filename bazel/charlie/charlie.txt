@@ -3315,7 +3315,6 @@ caponize
 crispate
 caponized
 caponizer
-caponizing
 caponniere
 capons
 caporal
@@ -7096,6 +7095,7 @@ colonus
 centerfolds
 centering
 centerless
+caponizing
 centerline
 centermost
 centerpiece
