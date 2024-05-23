@@ -4303,6 +4303,7 @@ gippers
 gynaeceum
 golet
 gynaecia
+goniatitoid
 gonidiose
 geisothermal
 glossing
@@ -5817,7 +5818,6 @@ glossemic
 glossers
 glossy
 gnathostomatous
-goniatitoid
 glossier
 goitered
 glossies
