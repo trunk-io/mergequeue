@@ -5305,7 +5305,6 @@ endosteoma
 encoring
 endosteomata
 endosteum
-exploitative
 equipments
 excarnate
 enmagazine
@@ -10623,6 +10622,7 @@ eucharistized
 earthfall
 enplaning
 ebbet
+exploitative
 enswathed
 eucharists
 eucharitidae
