@@ -2474,7 +2474,6 @@ barefit
 bareges
 barehead
 baboodom
-buckbrush
 bogles
 bareheaded
 blencher
@@ -6041,6 +6040,7 @@ belostomatidae
 bedog
 barkpeeler
 belostomidae
+buckbrush
 belotte
 belouke
 belove
