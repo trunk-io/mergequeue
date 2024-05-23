@@ -9254,7 +9254,6 @@ dieses
 dyester
 diesters
 displant
-diestock
 death
 diestrous
 drawbridge
@@ -17284,6 +17283,7 @@ dispiece
 drogh
 disaster
 desulphurated
+diestock
 drogher
 droghlin
 discountenancing

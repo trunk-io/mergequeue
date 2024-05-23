@@ -7862,6 +7862,7 @@ granado
 granage
 grandparentage
 granam
+guestchamber
 granary
 gorst
 genetic
@@ -8349,7 +8350,6 @@ gawsie
 gapingstock
 gratingly
 gratings
-guestchamber
 gyromele
 gratins
 gustily
