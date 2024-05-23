@@ -7427,7 +7427,6 @@ forcelessness
 forcelet
 futhark
 fasciculation
-fumerel
 fey
 foisted
 forceput
@@ -10640,6 +10639,7 @@ familiary
 fructuous
 fructuously
 flavaniline
+fumerel
 familiarities
 frug
 fumingly
