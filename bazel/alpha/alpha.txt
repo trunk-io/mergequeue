@@ -18082,6 +18082,7 @@ approbation
 approbations
 approbative
 approbativeness
+autographometer
 approbator
 apprompt
 approof
@@ -24099,7 +24100,6 @@ autography
 autographically
 autographing
 autographism
-autographometer
 autographs
 apographal
 autoheader
