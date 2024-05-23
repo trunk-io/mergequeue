@@ -7074,7 +7074,6 @@ beshow
 beshower
 beshrewing
 bewildering
-beshrews
 beshriek
 beshrivel
 beshroud
@@ -15529,6 +15528,7 @@ bristled
 buffcoat
 biopsychical
 bromacetanilide
+beshrews
 bristleless
 bristlelike
 bristlemouths
