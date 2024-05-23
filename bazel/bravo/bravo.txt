@@ -14815,7 +14815,6 @@ barbershop
 bottlelike
 breakable
 breakableness
-breakaway
 breakax
 bulimic
 breakaxe
@@ -15868,6 +15867,7 @@ bromizer
 basified
 bromizing
 bromlite
+breakaway
 bromo
 bromoacetone
 bearberries
