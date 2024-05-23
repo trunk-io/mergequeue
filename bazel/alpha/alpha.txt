@@ -4635,7 +4635,6 @@ atelectatic
 adverbial
 adverbialize
 adverbially
-adverbiation
 adverbless
 adverbs
 adversa
@@ -20549,6 +20548,7 @@ arterionecrosis
 allantois
 arteriopalmus
 arterioplasty
+adverbiation
 arteriopressor
 arteriorenal
 arteriorrhexis
