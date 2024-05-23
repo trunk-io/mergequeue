@@ -1063,6 +1063,7 @@ bailiff
 bailiffry
 bailiffs
 ballow
+betaine
 bailing
 busway
 bailiwick
@@ -7662,7 +7663,6 @@ brinks
 boneache
 bachel
 bogwood
-betaine
 bevil
 bevillain
 bounciest
