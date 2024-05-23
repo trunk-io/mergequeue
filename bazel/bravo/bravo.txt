@@ -8205,6 +8205,7 @@ biconvex
 biconvexity
 bicorn
 benzoylformic
+bourrelet
 bombyx
 boatman
 bicornate
@@ -13714,7 +13715,6 @@ bindery
 bourreau
 bourree
 bourrees
-bourrelet
 briefs
 bourse
 bourtree
