@@ -1163,7 +1163,6 @@ baywoods
 balladized
 baiza
 baizas
-baize
 baized
 bespin
 beseech
@@ -6902,6 +6901,7 @@ berrettas
 benzole
 berrettino
 berri
+baize
 bushiest
 berry
 banshee
