@@ -6329,7 +6329,6 @@ benempt
 blanker
 barrigudo
 barbless
-befinger
 boarishly
 breedbate
 beetle
@@ -12129,6 +12128,7 @@ boyship
 boisterous
 boisterously
 biffing
+befinger
 boistous
 boistously
 break
