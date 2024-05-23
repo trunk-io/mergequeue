@@ -11041,6 +11041,7 @@ amount
 amounted
 amounter
 amounters
+anciency
 acct
 amouret
 allocaffeine
@@ -12257,7 +12258,6 @@ aequorin
 amblypoda
 anchusine
 ancien
-anciency
 anciennete
 anciens
 ancientest
