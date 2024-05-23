@@ -9595,7 +9595,6 @@ commonize
 crossbowmen
 checkrack
 checkrail
-casehardens
 checkrein
 checkroll
 checkroom
@@ -15946,6 +15945,7 @@ cocuiza
 cledgy
 calibrator
 currishness
+casehardens
 cleech
 circumscrive
 carbonisation
