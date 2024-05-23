@@ -6481,7 +6481,6 @@ flurrying
 flurriment
 fisted
 futteret
-fictor
 figureheadless
 forficated
 flurt
@@ -8707,6 +8706,7 @@ foreordains
 fortresses
 furors
 furlane
+fictor
 flailed
 flymen
 finchery
