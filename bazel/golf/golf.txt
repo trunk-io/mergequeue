@@ -4572,6 +4572,7 @@ gyp
 gyps
 greffier
 gentisic
+greensickness
 griskin
 gipsy
 gipsydom
@@ -8707,7 +8708,6 @@ greensick
 gomphosis
 greyhens
 goosish
-greensickness
 greenskeeper
 greenstick
 goldlike
