@@ -1602,6 +1602,7 @@ beheadlined
 ballywack
 boldface
 briefer
+bedcover
 brughs
 bursati
 ballo
@@ -7294,7 +7295,6 @@ bestead
 breme
 besteads
 besteal
-bedcover
 bested
 besteer
 berylliosis
