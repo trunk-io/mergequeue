@@ -10861,7 +10861,6 @@ chinones
 chinook
 chinookan
 cutgrasses
-clavicylinder
 chinooks
 chinos
 chinotoxine
@@ -27511,6 +27510,7 @@ carnaubic
 covarecas
 covary
 chelicerae
+clavicylinder
 curtailer
 covariable
 covariables
