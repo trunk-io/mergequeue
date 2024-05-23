@@ -13912,7 +13912,6 @@ bowstrings
 bowstrung
 brichen
 bowtell
-bowwow
 bowwows
 broadened
 box
@@ -18372,6 +18371,7 @@ buxus
 buz
 buzane
 bepaint
+bowwow
 buzukia
 buzz
 bekilted
