@@ -8806,7 +8806,6 @@ demethylation
 diazotype
 dromicia
 diazotization
-deratization
 diazotized
 dib
 dibasicity
@@ -11947,6 +11946,7 @@ diarian
 disemboguing
 deceases
 denazifies
+deratization
 demiatheist
 dominator
 disembowel
