@@ -2716,7 +2716,6 @@ decongesting
 decongestion
 deconsecrate
 dareful
-deconsecrated
 dyostyle
 dattos
 dollish
@@ -6693,6 +6692,7 @@ downrange
 desiccated
 desiccating
 desiccations
+deconsecrated
 desiccator
 desiderable
 diascopy
