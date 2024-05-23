@@ -2544,7 +2544,6 @@ baptism
 borscht
 barghests
 beslash
-barging
 bargir
 bassetite
 barguest
@@ -6582,6 +6581,7 @@ benzotrifluoride
 benzoxate
 bolection
 benzoxyacetic
+barging
 benzpinacone
 benztrioxazine
 blanchers

@@ -1927,6 +1927,7 @@ genetical
 guerrillaship
 gateposts
 gulash
+gantries
 gatewaying
 gawain
 ghibellinism
@@ -3671,7 +3672,6 @@ groups
 gelfomino
 gargil
 ghastlily
-gantries
 groundsill
 glovers
 gimble
