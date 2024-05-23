@@ -7981,7 +7981,6 @@ grandstanding
 grandtotal
 graves
 granduncle
-granduncles
 grane
 gunrooms
 granet
@@ -10678,6 +10677,7 @@ gu
 guser
 galanas
 gush
+granduncles
 garvock
 gunship
 glossocoma
