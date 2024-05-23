@@ -7982,7 +7982,6 @@ epimandibular
 enthrone
 epimanikia
 epimanikion
-epimer
 epimeral
 epimeres
 eremurus
@@ -9018,6 +9017,7 @@ exoskeletal
 eteoclus
 eftsoon
 endosmotically
+epimer
 ericales
 ericas
 ericetal
