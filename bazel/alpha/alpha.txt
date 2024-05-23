@@ -5312,7 +5312,6 @@ affectum
 affectus
 atresias
 affeerer
-affeerment
 affeeror
 agrias
 ameloblastic
@@ -22700,6 +22699,7 @@ ating
 asthenobiotic
 atinga
 atip
+affeerment
 atypy
 agraffes
 atypic

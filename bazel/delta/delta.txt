@@ -1859,7 +1859,6 @@ debonair
 debonaire
 debonairity
 distileries
-debonairness
 deboned
 debones
 deafening
@@ -13084,6 +13083,7 @@ disperses
 dispersibility
 daces
 dispersing
+debonairness
 dispersity
 dispersive
 drawboard
