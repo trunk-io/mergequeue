@@ -4778,7 +4778,6 @@ aedeagi
 aedeagus
 aedegi
 aedicula
-aediculae
 aedicule
 aedile
 adject
@@ -20528,6 +20527,7 @@ absey
 auctary
 arterying
 agilmente
+aediculae
 arterioarctia
 ambushment
 asterospondylous
