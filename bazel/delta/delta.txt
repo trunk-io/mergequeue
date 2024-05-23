@@ -3517,6 +3517,7 @@ defoliation
 defoliations
 defoliator
 disjunct
+disallowableness
 dichroscope
 deuteroprism
 deforced
@@ -4478,7 +4479,6 @@ drawk
 demeanor
 dayshine
 dactylograph
-disallowableness
 disembark
 demeanored
 dissidents
