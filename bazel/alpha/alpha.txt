@@ -5459,6 +5459,7 @@ afformative
 affray
 affrayers
 affraying
+airfares
 affrays
 affranchise
 affranchisement
@@ -6893,7 +6894,6 @@ asseverations
 ammoniacal
 airfare
 amyctic
-airfares
 airfield
 atelognathia
 airflow
