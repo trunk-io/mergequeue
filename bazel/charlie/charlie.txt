@@ -8519,7 +8519,6 @@ chambranle
 confected
 chambre
 catchers
-chamecephaly
 chamecephalic
 chamecephalous
 chamecephalus
@@ -18244,6 +18243,7 @@ coffeecup
 concessionary
 chartings
 coffeegrower
+chamecephaly
 coffeegrowing
 cuss
 capelets
