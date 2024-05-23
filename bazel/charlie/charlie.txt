@@ -7609,7 +7609,6 @@ cramberry
 cercosporella
 canalisation
 cercus
-cerdonian
 cere
 cereal
 carrus
@@ -25628,6 +25627,7 @@ commemorized
 coroutines
 corozos
 clericum
+cerdonian
 chati
 cardsharper
 corp
