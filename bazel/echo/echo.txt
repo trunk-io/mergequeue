@@ -6186,7 +6186,6 @@ ecorticate
 enplaned
 extraphysiological
 enquarter
-enqueue
 entered
 enqueued
 enqueues
@@ -6719,6 +6718,7 @@ enthetic
 enthymematic
 enthymeme
 exsuperate
+enqueue
 entremess
 enwingly
 exterminist
