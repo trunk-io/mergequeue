@@ -4811,7 +4811,6 @@ carrells
 caffeinism
 carrels
 carreta
-carretela
 carretera
 carreton
 cofferlike
@@ -21374,6 +21373,7 @@ coassession
 chaperoning
 clast
 conciliabulum
+carretela
 centremost
 conciliarism
 conciliarly
