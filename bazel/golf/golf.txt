@@ -4992,6 +4992,7 @@ gnomonics
 gleg
 gladfulness
 gracefulness
+genitory
 galaxian
 gladiator
 gladiatorial
@@ -7510,7 +7511,6 @@ gravimeter
 greywether
 guageable
 governs
-genitory
 gothics
 genderless
 geraniol
