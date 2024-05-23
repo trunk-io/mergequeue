@@ -12287,7 +12287,6 @@ boltcutter
 botanizer
 bookmark
 buckstay
-bolted
 bowenite
 bolters
 behold
@@ -13484,6 +13483,7 @@ betweenness
 bacteriocyte
 benefic
 bowyangs
+bolted
 brachydactyl
 bottomried
 bottomrying
