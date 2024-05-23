@@ -6654,7 +6654,6 @@ extraduction
 enteroplegia
 enthalpies
 epilogism
-exhume
 enteropneusta
 enteroptosis
 enterorrhagia
@@ -13422,6 +13421,7 @@ enunciator
 expropriator
 expugn
 emarginating
+exhume
 epidemiological
 expulses
 expulsing
