@@ -1708,6 +1708,7 @@ gametogenesis
 galactan
 gastraeum
 glossoepiglottidean
+granulater
 gastral
 gastralgy
 gastralgia
@@ -8064,7 +8065,6 @@ gomontia
 granulary
 gonagra
 granulate
-granulater
 galactic
 granulates
 granulation

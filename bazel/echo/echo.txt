@@ -4626,7 +4626,6 @@ escapements
 easeful
 enchiridion
 epigrapher
-encephaloscopy
 eater
 enchytrae
 etherolate
@@ -8141,6 +8140,7 @@ epipterygoid
 elegant
 euxanthate
 epipterous
+encephaloscopy
 epipubis
 epirhizous
 egyptology
