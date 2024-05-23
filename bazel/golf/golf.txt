@@ -1893,6 +1893,7 @@ gastrostenosis
 gastrostomy
 gastrostomies
 gonimolobe
+gatehouses
 gynaecian
 guipures
 gastrotome
@@ -7314,7 +7315,6 @@ glycerolysis
 gossipee
 galactolytic
 gossiper
-gatehouses
 greensward
 gossipy
 gravitationally
