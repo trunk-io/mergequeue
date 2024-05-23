@@ -6299,6 +6299,7 @@ flukes
 flukeworm
 flukewort
 forbar
+forehandsel
 forelands
 follicle
 fluky
@@ -9777,7 +9778,6 @@ fishgrass
 fluidal
 freyja
 freijo
-forehandsel
 factorship
 freir
 freith
