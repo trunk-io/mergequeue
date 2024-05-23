@@ -1688,7 +1688,6 @@ eyeberry
 ethnobiological
 ertebolle
 endonuclear
-endostome
 eyeblack
 eyeblink
 eyebright
@@ -10184,6 +10183,7 @@ ethanoyl
 ethanolamine
 equidense
 ethanolysis
+endostome
 entia
 epipolize
 ethel
