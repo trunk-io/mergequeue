@@ -9168,7 +9168,6 @@ almandine
 almandines
 almanner
 alme
-artifice
 almehs
 ardhamagadhi
 amar
@@ -20893,6 +20892,7 @@ anhanga
 avulsed
 argufies
 arx
+artifice
 arzan
 apportions
 arzava
