@@ -13558,7 +13558,6 @@ cyesis
 cif
 camerawork
 cig
-cigar
 cigaret
 cigarette
 cigarettes
@@ -28758,6 +28757,7 @@ crepon
 crept
 crepuscle
 compendiary
+cigar
 crepuscular
 churner
 cavitate
