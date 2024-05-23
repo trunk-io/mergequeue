@@ -9692,7 +9692,6 @@ alunogen
 acis
 alupag
 autecologic
-alur
 alurgite
 alushtite
 alvah
@@ -18956,6 +18955,7 @@ archexorcist
 archfiend
 archflamen
 archfoe
+alur
 archfool
 archform
 ancestresses
