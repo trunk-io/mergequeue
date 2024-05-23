@@ -13057,7 +13057,6 @@ cyanimide
 cyanin
 cyanine
 cyanines
-cyanins
 contingent
 cyanite
 cyanitic
@@ -21294,6 +21293,7 @@ chausseemeile
 concessioner
 concessionist
 concessions
+cyanins
 concessit
 concessive
 concessiveness
