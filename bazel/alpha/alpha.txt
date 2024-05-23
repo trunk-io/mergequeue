@@ -13320,6 +13320,7 @@ auklet
 anisic
 awalt
 autarkic
+auxotrophy
 anisidine
 anisyl
 anisilic
@@ -24546,7 +24547,6 @@ aniba
 auxotonic
 auxotox
 auxotroph
-auxotrophy
 avadana
 avadavat
 aleuroscope
