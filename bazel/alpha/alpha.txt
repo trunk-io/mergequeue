@@ -23727,7 +23727,6 @@ antimallein
 archaeology
 austereness
 austerest
-afterguns
 austerities
 austerlitz
 auriphrygiate
@@ -24167,6 +24166,7 @@ autoinfection
 autolyzate
 autolyze
 amputator
+afterguns
 autolyzed
 autolyzes
 autoloader
