@@ -7397,7 +7397,6 @@ cowmen
 cephalochordal
 cephalochordata
 cephalochordate
-cucujidae
 cephaloclast
 cephalocone
 celestial
@@ -8471,6 +8470,7 @@ chalutzim
 cham
 convictive
 chama
+cucujidae
 chamacea
 chamacoco
 chamaebatia
