@@ -486,7 +486,6 @@ flaneries
 formicariidae
 financiery
 fakery
-flockowner
 faky
 faking
 fakir
@@ -9754,6 +9753,7 @@ fortitude
 frey
 freya
 freyalite
+flockowner
 freibergite
 freycinetia
 fulgorous
