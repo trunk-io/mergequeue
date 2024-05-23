@@ -4705,7 +4705,6 @@ demirhumb
 demirilievo
 dynasty
 demirobe
-demonastery
 dungyard
 dol
 dinic
@@ -15974,6 +15973,7 @@ duscle
 desponding
 delthyria
 didactylism
+demonastery
 dotish
 dune
 derivably
