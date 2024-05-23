@@ -714,6 +714,7 @@ birdshot
 badaxe
 brasseries
 balustered
+batterman
 badder
 badderlocks
 baddest
@@ -3772,7 +3773,6 @@ batteried
 batteries
 betrayals
 batteryman
-batterman
 batters
 batty
 barny
