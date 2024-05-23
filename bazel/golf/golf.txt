@@ -5702,7 +5702,6 @@ globus
 grossular
 goldseed
 grind
-glochid
 grided
 glochidian
 gastrohypertonic
@@ -9145,6 +9144,7 @@ grise
 grisettish
 grisled
 grisly
+glochid
 gebur
 gooserumped
 grisliness
