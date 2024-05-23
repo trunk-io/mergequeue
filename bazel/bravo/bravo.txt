@@ -4549,6 +4549,7 @@ builders
 bestuur
 bobsled
 becomed
+blacklist
 becomes
 becometh
 becomingness
@@ -10306,7 +10307,6 @@ blackleg
 blacklegged
 blackleggery
 blacklegism
-blacklist
 blacklisted
 blacklister
 beparse
