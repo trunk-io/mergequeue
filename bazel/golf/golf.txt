@@ -6335,7 +6335,6 @@ grenadin
 gilbertine
 garrisoned
 glomeration
-greengill
 goaty
 geckotoid
 gonfalons
@@ -7494,6 +7493,7 @@ gibblegabbler
 gymnast
 governless
 governmental
+greengill
 gerbil
 glitteringly
 governmentalize
