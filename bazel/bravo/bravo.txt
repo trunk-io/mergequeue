@@ -657,7 +657,6 @@ bacterioscopy
 bacterioscopic
 bacterioscopist
 barbarously
-bacteriosis
 bacteriosolvent
 breakshugh
 brats
@@ -15616,6 +15615,7 @@ bribee
 balancement
 broadens
 broadest
+bacteriosis
 bisulcated
 blastomycetes
 beholder
