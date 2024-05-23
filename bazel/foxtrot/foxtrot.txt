@@ -5894,7 +5894,6 @@ flockwise
 flocs
 flatfeet
 fertilizability
-floeberg
 faniente
 formers
 facilely
@@ -6494,6 +6493,7 @@ fussify
 flushgate
 flushy
 flushingly
+floeberg
 flusk
 flusker
 floodtime
