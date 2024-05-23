@@ -1532,6 +1532,7 @@ egestions
 egg
 ethmoid
 endosternum
+echiurida
 eggbeaters
 evoke
 embow
@@ -12241,7 +12242,6 @@ execrate
 encephalola
 expressed
 execrating
-echiurida
 eosins
 emerized
 execrations
