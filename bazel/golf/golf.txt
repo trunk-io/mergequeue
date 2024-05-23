@@ -611,7 +611,6 @@ glycoprotein
 gallicisms
 gimpy
 gynecomaniacal
-gallicize
 gallicizer
 gobletful
 garau
@@ -10209,6 +10208,7 @@ guyer
 graveling
 getspa
 guyers
+gallicize
 guige
 guijo
 grummest
