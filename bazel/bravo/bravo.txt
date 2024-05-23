@@ -637,6 +637,7 @@ bacteriologic
 bacteriologist
 bacteriologists
 bacteriopathology
+ballium
 burnoose
 bacteriophages
 bacteriophagy
@@ -1321,7 +1322,6 @@ bottine
 balante
 balantidic
 beamage
-ballium
 bearlike
 brahmanda
 balao
