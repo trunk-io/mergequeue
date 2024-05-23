@@ -2058,7 +2058,6 @@ bidactyl
 bankbooks
 bankcard
 becrawl
-bankcards
 banked
 bethought
 bankerdom
@@ -4073,6 +4072,7 @@ beadswoman
 beadswomen
 begetters
 beadwork
+bankcards
 bibliog
 beadworks
 bibliothecaire
