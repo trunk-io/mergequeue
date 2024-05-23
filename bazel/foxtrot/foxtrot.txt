@@ -3535,7 +3535,6 @@ figurer
 flyweight
 flocculous
 facebread
-figures
 figuresome
 friesic
 femoropopliteal
@@ -4360,6 +4359,7 @@ feinschmeckers
 fishes
 felspathose
 feirie
+figures
 fish
 fishfinger
 fluxionary
