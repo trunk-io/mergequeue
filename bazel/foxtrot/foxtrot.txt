@@ -2580,7 +2580,6 @@ frame
 foulmouth
 formaldehyde
 ferredoxin
-fellow
 ferreled
 fibrilla
 ferreling
@@ -6383,6 +6382,7 @@ fluorane
 fluoranthene
 fishtailing
 felonwood
+fellow
 fluorated
 fluorbenzene
 fluorboric
