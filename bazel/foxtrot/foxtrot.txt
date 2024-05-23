@@ -4966,6 +4966,7 @@ fillowite
 flowerbed
 foe
 flankard
+flyable
 flanked
 flickery
 flanker
@@ -5489,7 +5490,6 @@ flexura
 fructiparous
 fenagling
 fram
-flyable
 fascicle
 felon
 fratriage
