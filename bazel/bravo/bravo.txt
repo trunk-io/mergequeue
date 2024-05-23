@@ -5692,6 +5692,7 @@ bel
 bela
 burgonets
 bruscus
+breathless
 beachcomber
 belaboring
 blankit
@@ -14922,7 +14923,6 @@ breathier
 bigot
 breathiness
 breathingly
-breathless
 breathlessly
 breathlessness
 breaths
