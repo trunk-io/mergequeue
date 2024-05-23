@@ -4713,6 +4713,7 @@ carpetmonger
 carpets
 carpetweb
 comeliest
+cypselae
 cyclicality
 carpetwork
 cyanogenamide
@@ -8577,7 +8578,6 @@ champagnes
 champagning
 champagnize
 colourlessly
-cypselae
 champagnized
 cesurae
 champain
