@@ -2692,7 +2692,6 @@ federalese
 fabric
 freshes
 ferruminating
-ferrumination
 furbearer
 fraters
 flinter
@@ -7327,6 +7326,7 @@ fearnaught
 frampold
 flamfew
 forswearer
+ferrumination
 fair
 flagellant
 fulcrum
