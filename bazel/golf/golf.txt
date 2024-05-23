@@ -37,7 +37,6 @@ gowf
 gaberdine
 gaberdines
 gulfier
-galactophore
 gentilic
 geodesy
 ghostlily
@@ -4469,6 +4468,7 @@ gazers
 gingiva
 gingivae
 gingival
+galactophore
 gamps
 goats
 gravitated
