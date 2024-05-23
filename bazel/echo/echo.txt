@@ -2904,7 +2904,6 @@ elevon
 earthwork
 elevons
 elf
-elfenfolk
 epinard
 eponymous
 elfins
@@ -5480,6 +5479,7 @@ eccentrometer
 encake
 excitate
 enchainments
+elfenfolk
 enzymosis
 emphases
 enervation
