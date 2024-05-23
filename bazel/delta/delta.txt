@@ -2176,7 +2176,6 @@ dodecagonal
 dismask
 dubiosity
 droppage
-decare
 decarnated
 decartelization
 decartelize
@@ -2918,6 +2917,7 @@ deus
 dactylic
 demented
 decurions
+decare
 decurrences
 decurrency
 decurring
