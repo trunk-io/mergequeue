@@ -12510,7 +12510,6 @@ bondman
 blowbacks
 botryopteris
 bondmen
-bondminder
 bondon
 bructeri
 bookroom
@@ -13010,6 +13009,7 @@ boracite
 boracium
 boracous
 budgeting
+bondminder
 borage
 bombarde
 boraginaceae

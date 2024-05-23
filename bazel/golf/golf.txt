@@ -6384,7 +6384,6 @@ gobelin
 gobet
 geodic
 ganglander
-goliad
 gobies
 guttula
 geckotian
@@ -7524,6 +7523,7 @@ galleylike
 gowked
 gunkholing
 glaucophyllous
+goliad
 gowkedly
 glucolysis
 getup
