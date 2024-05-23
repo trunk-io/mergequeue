@@ -6628,6 +6628,7 @@ epilogize
 ecorch
 eddies
 eudalene
+eriophyid
 elastomeric
 endermically
 enterolith
@@ -12748,7 +12749,6 @@ exorbitation
 engarland
 encircling
 ethers
-eriophyid
 exheredate
 exorcisement
 endoplasm
