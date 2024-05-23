@@ -6600,7 +6600,6 @@ easterliness
 enterocolitis
 enterocolostomy
 enterodynia
-enteroepiplocele
 enterogastrone
 egrimonle
 enterogenous
@@ -8849,6 +8848,7 @@ extrasacerdotal
 ensellure
 eryngoes
 eight
+enteroepiplocele
 erasmus
 ethnomaniac
 ensheathes
