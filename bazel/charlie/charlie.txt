@@ -3517,7 +3517,6 @@ captivating
 captivatingly
 captivative
 captivator
-captivators
 consonantizing
 captive
 cotangent
@@ -19172,6 +19171,7 @@ colloider
 colloidize
 colloidochemical
 colloids
+captivators
 collomia
 cattan
 collop
