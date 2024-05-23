@@ -1434,6 +1434,7 @@ fylgjur
 fluctuosity
 fatshedera
 fatsia
+flowingness
 fane
 fatsoes
 fatalize
@@ -6180,7 +6181,6 @@ flowing
 fresnel
 foraminifera
 flowingly
-flowingness
 firehall
 flowmeter
 faecula
