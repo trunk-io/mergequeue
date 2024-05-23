@@ -6638,6 +6638,7 @@ belonesite
 bepinch
 bepray
 bepraisement
+bugeyes
 bepraiser
 bituminizing
 bepranked
@@ -16874,7 +16875,6 @@ bugbearish
 bugdom
 banneret
 bugeye
-bugeyes
 bugfish
 bonducs
 buggane
