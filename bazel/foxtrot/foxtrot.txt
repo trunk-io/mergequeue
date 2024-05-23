@@ -4985,6 +4985,7 @@ flannelleaves
 floc
 flannelly
 flannelmouth
+friar
 ferries
 fedelini
 forekeel
@@ -9932,7 +9933,6 @@ flamboyant
 foretrysail
 fuci
 fevertwitch
-friar
 fungo
 fremitus
 friary

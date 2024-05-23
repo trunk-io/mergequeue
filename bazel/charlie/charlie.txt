@@ -6596,6 +6596,7 @@ cecity
 cystoureteritis
 cecitis
 cecograph
+chkfil
 cecomorphae
 cecomorphic
 cecopexy
@@ -13914,7 +13915,6 @@ cinematographic
 clarenceuxship
 caving
 cinematographical
-chkfil
 cantharidin
 cinematographically
 cinematographies
