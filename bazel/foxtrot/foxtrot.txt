@@ -7326,7 +7326,6 @@ foramen
 fearnaught
 frampold
 flamfew
-forswearer
 fair
 flagellant
 fulcrum
@@ -11541,6 +11540,7 @@ finicism
 ferricyanic
 fistic
 fab
+forswearer
 fractionate
 fused
 furtiveness
