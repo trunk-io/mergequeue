@@ -7888,7 +7888,6 @@ foredates
 flannelbush
 forerun
 fname
-factiousness
 franklinia
 flagellariaceae
 forerunner
@@ -11211,6 +11210,7 @@ federacies
 forepaling
 forcipes
 fungitoxic
+factiousness
 fungitoxicity
 fluorophosphate
 farmerette
