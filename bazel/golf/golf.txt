@@ -6041,7 +6041,6 @@ ginned
 glamorization
 glumaceae
 germy
-glumaceous
 glumales
 glumes
 glumiferous
@@ -8458,6 +8457,7 @@ gigsmen
 gullah
 guttersnipes
 galli
+glumaceous
 gan
 grallatory
 gonochoristic
