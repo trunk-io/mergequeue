@@ -3397,6 +3397,7 @@ caprifoliaceae
 caprifoliaceous
 caprifolium
 capriform
+corsite
 caprigenous
 caprylate
 caprylene
@@ -25947,7 +25948,6 @@ corsy
 corsican
 circumscribes
 corsie
-corsite
 corsos
 cancrivorous
 cookies
