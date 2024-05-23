@@ -3507,6 +3507,7 @@ defoggers
 deluder
 defogging
 defogs
+dorism
 defoil
 dawish
 dorsobranchiata
@@ -15711,7 +15712,6 @@ doryphorus
 dorippid
 doris
 diaxonic
-dorism
 disseated
 dragsaw
 dorm
