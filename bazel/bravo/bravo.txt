@@ -7963,7 +7963,6 @@ benzanalgen
 biauriculate
 biaxiality
 birdseyes
-beshrouds
 biaxillary
 bemud
 bibacious
@@ -11988,6 +11987,7 @@ bogglers
 boggles
 boggling
 boskage
+beshrouds
 bogglish
 bogy
 bogydom
