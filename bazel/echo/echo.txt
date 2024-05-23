@@ -13138,6 +13138,7 @@ expirers
 expires
 euploidies
 expiries
+extenuate
 expiring
 expiringly
 expiscated
@@ -13604,7 +13605,6 @@ extensory
 escalate
 extensors
 extensure
-extenuate
 extenuates
 extenuatingly
 extenuation
