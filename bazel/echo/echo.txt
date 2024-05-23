@@ -440,6 +440,7 @@ emperize
 esthacyte
 eccyclema
 engager
+enfrai
 erf
 embrew
 eccyesis
@@ -5612,7 +5613,6 @@ enforth
 estrangle
 enfoulder
 epithi
-enfrai
 expressness
 enclitics
 enframed
