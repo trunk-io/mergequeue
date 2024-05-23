@@ -7738,7 +7738,6 @@ fatherland
 fuchsia
 fac
 foreiron
-fruggin
 forejudged
 fireworm
 forejudging
@@ -9398,6 +9397,7 @@ forjudge
 franion
 frankability
 frankalmoign
+fruggin
 filibustrous
 frankenstein
 franker
