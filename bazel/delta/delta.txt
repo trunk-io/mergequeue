@@ -5811,7 +5811,6 @@ depones
 deponing
 distributee
 deltidium
-depopulated
 depopulates
 depopulating
 depopulation
@@ -10435,6 +10434,7 @@ dialogued
 denotate
 diphonia
 daredevil
+depopulated
 dismiss
 diphosphate
 duumvirs
