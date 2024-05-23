@@ -761,7 +761,6 @@ fanciness
 fragrance
 fancysick
 fickly
-fixures
 foretack
 fandangle
 fandango
@@ -7067,6 +7066,7 @@ foolery
 farmers
 forejudger
 felix
+fixures
 footful
 foiled
 foolhardiness
