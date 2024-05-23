@@ -17260,6 +17260,7 @@ apofenchene
 apogaeic
 atropa
 agoranome
+astrocytic
 affectionless
 apogaic
 ailuropus
@@ -22299,7 +22300,6 @@ astroblast
 afterdrops
 astrobotany
 astrochemistry
-astrocytic
 astrocytoma
 astrocytomas
 ailerons
