@@ -5905,7 +5905,6 @@ deprecating
 deprecatingly
 delegant
 danes
-darter
 diachoresis
 demeaning
 disconcert
@@ -9552,6 +9551,7 @@ doubloons
 dignities
 dignosle
 dignotion
+darter
 dependants
 deuterons
 dygogram
