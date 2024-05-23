@@ -4670,6 +4670,7 @@ guesthouse
 graphitoid
 grinter
 guardrail
+gunstick
 garotter
 grifter
 gamekeepers
@@ -10607,7 +10608,6 @@ gunsmithing
 gloomiest
 gonadotropic
 gardbrace
-gunstick
 gunstocker
 glycyphyllin
 gunstone
