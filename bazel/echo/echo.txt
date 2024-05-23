@@ -3559,6 +3559,7 @@ embossman
 elasmobranchii
 embost
 exembryonate
+ellipse
 embottle
 embusqu
 embouchment
@@ -12020,7 +12021,6 @@ excitomotory
 erythrin
 excellently
 exciton
-ellipse
 excitons
 excitor
 excitosecretory

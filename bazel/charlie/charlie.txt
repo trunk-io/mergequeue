@@ -15820,6 +15820,7 @@ claviform
 claviger
 claviharp
 clavilux
+craaled
 coy
 claviole
 clavipectoral
@@ -27877,7 +27878,6 @@ cq
 conceivable
 cr
 craal
-craaled
 craaling
 craals
 crabbed
