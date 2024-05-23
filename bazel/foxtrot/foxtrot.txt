@@ -1859,7 +1859,6 @@ februarius
 flemishing
 frutify
 fusils
-felliducous
 februation
 furniment
 fluocerite
@@ -10687,6 +10686,7 @@ flutings
 fruitgrower
 foodstuffs
 fruitier
+felliducous
 fixity
 fruitiness
 famish
