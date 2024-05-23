@@ -1084,6 +1084,7 @@ bailout
 bailsmen
 boeotic
 bunder
+bombola
 becense
 baymen
 bain
@@ -12416,7 +12417,6 @@ beget
 bedizening
 bergeres
 bombo
-bombola
 boonk
 bombonne
 bombora
