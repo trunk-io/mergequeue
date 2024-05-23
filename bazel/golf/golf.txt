@@ -4505,6 +4505,7 @@ goustie
 gynic
 goasila
 gink
+gramophonic
 geometdecrne
 gloss
 grides
@@ -7836,7 +7837,6 @@ guildsman
 grammel
 grammy
 gramophone
-gramophonic
 gruelling
 gesnera
 ginneries
