@@ -3443,6 +3443,7 @@ capsicums
 carvacrol
 capsid
 competencies
+conformers
 capsidal
 capsids
 capsizable
@@ -18356,7 +18357,6 @@ cogito
 coglorify
 cogman
 counterbuilding
-conformers
 cogmen
 chenevixite
 cognac
