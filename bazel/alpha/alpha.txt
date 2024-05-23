@@ -6842,7 +6842,6 @@ airable
 airan
 airbags
 airbills
-airboat
 airboats
 astern
 airbound
@@ -20355,6 +20354,7 @@ arrogance
 arrogant
 arrogantly
 arrogated
+airboat
 alaloi
 afocal
 arrogates
