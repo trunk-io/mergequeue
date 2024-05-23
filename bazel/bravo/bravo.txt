@@ -2077,7 +2077,6 @@ brinkless
 bankrolled
 bankrolling
 boatsman
-bankrupcy
 bankrupt
 bosporan
 bacteroideae
@@ -14838,6 +14837,7 @@ breakout
 biphenyl
 breakpoint
 breakpoints
+bankrupcy
 breaks
 besteaded
 besselian
