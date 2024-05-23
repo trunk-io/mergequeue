@@ -2173,7 +2173,6 @@ glavering
 gooiest
 galena
 gawn
-gateways
 gardenize
 grantedly
 gazabo
@@ -8806,6 +8805,7 @@ geostatic
 glimpsing
 gabby
 greing
+gateways
 greypate
 greisen
 grihastha
