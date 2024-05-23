@@ -18800,7 +18800,6 @@ cabochon
 coletit
 coleophoridae
 colessee
-coleopter
 coleoptera
 chalcedonic
 coleopterist
@@ -27095,6 +27094,7 @@ clerking
 counterproposition
 counterprotection
 counterpull
+coleopter
 counterpunch
 counterpuncture
 counterpush
