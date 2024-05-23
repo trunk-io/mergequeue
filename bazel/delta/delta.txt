@@ -408,7 +408,6 @@ dairyman
 dairywoman
 dairywomen
 defensory
-dayroom
 dayrooms
 discoursers
 dairous
@@ -12892,6 +12891,7 @@ demivoice
 disordeine
 disordered
 durions
+dayroom
 dolomitized
 disfavourer
 disorderer
