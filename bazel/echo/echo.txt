@@ -3456,7 +3456,6 @@ emblazers
 erke
 emblazes
 envies
-emblazoned
 emblazoner
 emblazonment
 emblazonments
@@ -3738,6 +3737,7 @@ embroiler
 embroils
 endoceratite
 embrothelled
+emblazoned
 embrowd
 embitters
 embrowned
