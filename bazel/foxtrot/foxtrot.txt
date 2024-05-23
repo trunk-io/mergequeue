@@ -2376,6 +2376,7 @@ furner
 flattops
 fenzelia
 feod
+fiberware
 firestopping
 feodum
 filander
@@ -7027,7 +7028,6 @@ fonly
 fermentum
 fons
 ferrum
-fiberware
 fontal
 frothing
 fontanelle
