@@ -6638,7 +6638,6 @@ cedrin
 crenellation
 cedrine
 cedriret
-cedrium
 cedrol
 corticiform
 cedron
@@ -10269,6 +10268,7 @@ chlorochrous
 chamomilla
 chiarooscuro
 chiarooscuros
+cedrium
 chiaroscuros
 chias
 cheesecakes
