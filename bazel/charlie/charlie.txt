@@ -2399,6 +2399,7 @@ cancrinite
 cancrisocial
 cancrizans
 cancroid
+cholinesterase
 clientele
 calamiform
 cancrophagous
@@ -11734,7 +11735,6 @@ cholic
 choline
 cholinergic
 cholines
-cholinesterase
 cholinic
 cotangents
 cholinolytic
