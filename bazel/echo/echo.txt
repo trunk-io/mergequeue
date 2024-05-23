@@ -5902,7 +5902,6 @@ etourderie
 ephphatha
 echowise
 enigmatist
-enigmatize
 enigmatizing
 enigmatographer
 exempts
@@ -8417,6 +8416,7 @@ epitomical
 epitomise
 epitomiser
 egency
+enigmatize
 epitomized
 endopleura
 epitomizes
