@@ -4349,7 +4349,6 @@ enami
 enamorado
 enamorate
 enamorato
-enamored
 enamoring
 ejusdem
 erastianize
@@ -9575,6 +9574,7 @@ empetrous
 escolar
 escopeta
 euphemistical
+enamored
 estensible
 evulgate
 emeries
