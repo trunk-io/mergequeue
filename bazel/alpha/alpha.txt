@@ -7992,7 +7992,6 @@ alertedly
 alerters
 alertest
 autotropically
-alerting
 alertly
 ales
 alesan
@@ -12870,6 +12869,7 @@ angiport
 angka
 angkhak
 angle
+alerting
 angled
 affrightingly
 asps
