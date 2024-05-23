@@ -957,7 +957,6 @@ galerite
 guanabano
 gametophore
 grizel
-gametophoric
 gamiest
 gomuti
 gated
@@ -4845,6 +4844,7 @@ gooier
 gibbles
 gisel
 gisement
+gametophoric
 glazily
 gismo
 gismondine
