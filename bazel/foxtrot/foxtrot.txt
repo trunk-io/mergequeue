@@ -3133,6 +3133,7 @@ fibrillae
 favorite
 fibrillar
 feelingness
+foeless
 freend
 flopping
 fibrillating
@@ -6663,7 +6664,6 @@ foehnlike
 foehns
 foeish
 fpsps
-foeless
 fulgurating
 foelike
 forenotice
