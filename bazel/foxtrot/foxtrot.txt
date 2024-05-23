@@ -1794,7 +1794,6 @@ foglietto
 fadingness
 flamming
 featherstitch
-freewill
 feathertop
 flagellation
 featherweed
@@ -4965,6 +4964,7 @@ floscule
 flagellative
 ferruminated
 fillowite
+freewill
 flowerbed
 foe
 flankard
