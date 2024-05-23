@@ -5619,7 +5619,6 @@ cataphyllum
 cinquain
 correlativism
 cardiotoxic
-cataphonic
 cuitled
 cataphora
 cataphoresis
@@ -13301,6 +13300,7 @@ cyclamin
 cyclamine
 cyclane
 cyclanthaceous
+cataphonic
 cyclanthales
 crepitate
 compotator
