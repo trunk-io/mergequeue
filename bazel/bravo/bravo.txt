@@ -1813,7 +1813,6 @@ bromohydrin
 bamming
 bamoth
 banaba
-bizardite
 banago
 brimming
 beglads
@@ -8572,6 +8571,7 @@ bikers
 bikeway
 bikie
 biking
+bizardite
 bedaze
 blankminded
 boatwoman
