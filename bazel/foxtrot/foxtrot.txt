@@ -5950,7 +5950,6 @@ flickering
 fistfight
 floodwood
 foisty
-flannelboard
 faitour
 forgottenness
 floorboard
@@ -7518,6 +7517,7 @@ frictionlessness
 foulmouthed
 forebodes
 forebody
+flannelboard
 folksongs
 forebodingness
 fleshiest
