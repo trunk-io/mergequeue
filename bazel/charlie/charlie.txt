@@ -142,7 +142,6 @@ cablelaid
 cableless
 cablelike
 cableman
-chryseis
 cables
 cablese
 cablet
@@ -6052,6 +6051,7 @@ catnips
 catoblepas
 catocarthartic
 catoctin
+chryseis
 catodont
 catogenic
 categorizing
