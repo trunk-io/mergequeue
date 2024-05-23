@@ -5910,7 +5910,6 @@ agasp
 agast
 archdeaconry
 anomaloscope
-amphoras
 anguillulidae
 antismog
 agrised
@@ -10416,6 +10415,7 @@ amesaces
 actualizes
 amesite
 abamp
+amphoras
 amess
 ametabola
 ametabolia
