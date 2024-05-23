@@ -3571,7 +3571,6 @@ addlepate
 adjudge
 addlepated
 addlepatedness
-addleplot
 addles
 addlings
 antral
@@ -11606,6 +11605,7 @@ anaclastics
 andromede
 anacletica
 anacleticum
+addleplot
 anaclitic
 albumoses
 ammeline
