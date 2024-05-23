@@ -8216,7 +8216,6 @@ bicornute
 beshadow
 bicorporate
 bicostate
-bicrenate
 bicrofarad
 bicron
 bicrural
@@ -15950,6 +15949,7 @@ bronchoconstriction
 blennorrhagic
 benjy
 bronchoconstrictor
+bicrenate
 biffy
 bronchodilator
 bronchoegophony
