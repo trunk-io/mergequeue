@@ -20995,7 +20995,6 @@ ascendants
 ascendence
 ascendency
 adeuism
-ascendent
 ascendible
 arbitrament
 ascending
@@ -23636,6 +23635,7 @@ articles
 aquicultural
 auriphone
 auriphrygia
+ascendent
 auripigment
 aurir
 auris
