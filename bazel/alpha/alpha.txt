@@ -2351,7 +2351,6 @@ avgasses
 acidifying
 acidimetry
 acidimetric
-acidimetrically
 acidite
 acidity
 adustiosis
@@ -4626,6 +4625,7 @@ awber
 adventuress
 adventuresses
 askesis
+acidimetrically
 adventuring
 adventurism
 adventuristic
