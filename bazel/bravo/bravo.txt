@@ -50,7 +50,6 @@ bacteriophobia
 ballonets
 babblings
 babblish
-babbool
 babbools
 babcock
 babe
@@ -16837,6 +16836,7 @@ bufflehead
 buffone
 buffont
 buffoon
+babbool
 buffooneries
 benzoxycamphor
 buffoonesque
