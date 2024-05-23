@@ -14121,7 +14121,6 @@ anteceding
 antecessor
 antechamber
 alonso
-antechambers
 aloetic
 antechinomys
 agitpropist
@@ -17625,6 +17624,7 @@ acrocera
 appanages
 appanaging
 audiogenic
+antechambers
 appanagist
 astrographic
 aerostatics
