@@ -8842,7 +8842,6 @@ allmouth
 allmouths
 annat
 amortisseur
-allness
 allo
 anoesia
 allobar
@@ -19071,6 +19070,7 @@ antiphonaries
 archipelagic
 antigens
 aghastness
+allness
 archipelagoes
 alibi
 aures
