@@ -3673,6 +3673,7 @@ functionalistic
 fretsaws
 firing
 filigrained
+feuille
 foliating
 fanged
 freshed
@@ -4495,7 +4496,6 @@ featherleaf
 feuder
 feedable
 festschriften
-feuille
 fisticuff
 freebees
 fort
