@@ -3012,6 +3012,7 @@ elytroposis
 elytrorhagia
 elytrostenosis
 elytrotomy
+etiologist
 elix
 eleutherism
 exomorphism
@@ -10532,7 +10533,6 @@ etiolize
 etiology
 etiological
 endrumpf
-etiologist
 emetology
 etiologue
 etiophyllin
