@@ -3716,7 +3716,6 @@ exsecant
 egipto
 emprosthotonos
 euxine
-exocardial
 embrocated
 embrocates
 erythroid
@@ -13015,6 +13014,7 @@ egueiite
 evaluations
 expermentized
 eucaine
+exocardial
 embankment
 enslave
 eutaxite
