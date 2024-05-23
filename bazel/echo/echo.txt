@@ -1691,7 +1691,6 @@ ertebolle
 endonuclear
 endostome
 eyeblack
-eyeblink
 eyebright
 exorcistical
 eyebrows
@@ -10720,6 +10719,7 @@ extorsive
 exigenter
 excavate
 endozoa
+eyeblink
 educts
 eques
 enchilada
