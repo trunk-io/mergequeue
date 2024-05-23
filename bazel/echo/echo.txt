@@ -1296,6 +1296,7 @@ epyllia
 eesome
 effable
 efface
+extraplanetary
 effaceable
 effaced
 effacement
@@ -6500,7 +6501,6 @@ evensong
 enwrapt
 exceptions
 entanglements
-extraplanetary
 egophonic
 entangles
 environs

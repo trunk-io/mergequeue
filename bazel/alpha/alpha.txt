@@ -13171,7 +13171,6 @@ arsanilic
 assise
 anim
 anima
-animability
 animable
 archaeopteris
 animacule
@@ -14367,6 +14366,7 @@ agavose
 anthemed
 anthemene
 amugis
+animability
 anthemia
 adds
 ablactate
