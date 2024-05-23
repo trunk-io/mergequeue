@@ -3146,7 +3146,6 @@ emblemize
 elopements
 endocone
 ejaculum
-extraserous
 esperantist
 enamelwork
 elopes
@@ -4434,6 +4433,7 @@ encapsule
 encapsuled
 estimators
 encapsules
+extraserous
 enure
 encapsuling
 encaptivate
