@@ -11782,7 +11782,6 @@ analeptic
 anthidium
 analgesia
 analgesics
-analgesidae
 analgesis
 analgesist
 analgetic
@@ -18704,6 +18703,7 @@ acarids
 annulated
 arcady
 arcadian
+analgesidae
 arcadianism
 arcadians
 arcadias
