@@ -760,7 +760,6 @@ fanciful
 fancifulness
 fancying
 fanciless
-fanciness
 fragrance
 fancysick
 fickly
@@ -5991,6 +5990,7 @@ farsightedly
 flophouses
 fibrinoplastin
 foundation
+fanciness
 floppy
 floppier
 floppies
