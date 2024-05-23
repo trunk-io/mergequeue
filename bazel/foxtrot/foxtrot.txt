@@ -764,7 +764,6 @@ fixures
 foretack
 fandangle
 fandango
-fallows
 fandangos
 fandoms
 fanegadas
@@ -3096,6 +3095,7 @@ faveolate
 fibbers
 flotsan
 fishpound
+fallows
 fiber
 filamentose
 fiberboard
