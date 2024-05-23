@@ -3051,7 +3051,6 @@ fezzes
 fezzy
 fadings
 forsake
-fleshiness
 fossors
 fgrid
 floorshift
@@ -4999,6 +4998,7 @@ foremark
 favourless
 flapperdom
 framableness
+fleshiness
 flappers
 flappet
 furil
