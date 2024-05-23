@@ -3768,6 +3768,7 @@ embusk
 environed
 encrypts
 embussed
+encipherment
 embussing
 emcee
 electrotechnics
@@ -4051,7 +4052,6 @@ emphysema
 emetic
 emphyteusis
 endobronchitis
-encipherment
 emphyteutic
 emphlysis
 emolumentary
