@@ -10844,7 +10844,6 @@ ammoniticone
 abstrude
 ammonitiferous
 ammonitoid
-aerotechnics
 ammonitoidea
 ammocoetiform
 algedi
@@ -23714,6 +23713,7 @@ accursing
 austausch
 austemper
 austenite
+aerotechnics
 aspermia
 austenitic
 austenitize
