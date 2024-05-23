@@ -10391,7 +10391,6 @@ bladebone
 bladelike
 beleaguerer
 bosporian
-befrogged
 bladesmith
 bladewise
 bladygrass
@@ -13573,6 +13572,7 @@ bough
 blenniid
 bibliokleptomania
 barra
+befrogged
 bismutosmaltite
 bobbysocks
 bivane

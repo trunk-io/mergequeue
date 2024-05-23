@@ -8290,7 +8290,6 @@ gazelles
 gingering
 grassnut
 gripsack
-gawby
 gunnership
 grasswidow
 gph
@@ -10185,6 +10184,7 @@ goldhead
 guido
 gladiolar
 gighe
+gawby
 goos
 guidon
 guids
