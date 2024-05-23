@@ -8365,7 +8365,6 @@ forlore
 forlorn
 filcher
 foredestined
-forlornly
 forever
 fucatious
 forethough
@@ -11228,6 +11227,7 @@ fibers
 fungological
 fictil
 failles
+forlornly
 fiendliness
 fieldsman
 flocculency
