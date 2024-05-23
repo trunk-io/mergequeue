@@ -13358,7 +13358,6 @@ disquietingness
 disquietly
 disquietness
 dialled
-disquietude
 disquietudes
 detant
 deadborn
@@ -18290,6 +18289,7 @@ dhu
 duns
 decerebration
 dunst
+disquietude
 dissue
 digressing
 dunster
