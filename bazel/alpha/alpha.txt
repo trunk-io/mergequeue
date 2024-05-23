@@ -6094,7 +6094,6 @@ asok
 aggravator
 aggregable
 adenohypophysis
-advisiveness
 ardeidae
 aerialness
 aggregate
@@ -12157,6 +12156,7 @@ anatomize
 anatomized
 anatomizer
 abduced
+advisiveness
 anatomizing
 anatomopathologic
 anatopism
