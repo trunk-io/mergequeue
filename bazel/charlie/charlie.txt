@@ -2054,7 +2054,6 @@ campanulales
 campanular
 campanulariae
 campanularidae
-campanulatae
 campanulate
 campanulated
 chondrosarcomata
@@ -15970,6 +15969,7 @@ cleidorrhexis
 chiripa
 cleidoscapular
 cleidosternal
+campanulatae
 cleidotripsy
 cleistocarp
 campagnols
