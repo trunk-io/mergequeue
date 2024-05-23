@@ -23282,7 +23282,6 @@ culmen
 consubstantive
 consuetudinal
 consul
-consulage
 chirurgical
 consularity
 concertizes
@@ -23615,6 +23614,7 @@ continuingly
 crudelity
 continuity
 choeropsis
+consulage
 cribbages
 cassiaceae
 capfuls
