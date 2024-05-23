@@ -4388,6 +4388,7 @@ frameworks
 frogwort
 frenghi
 fosterage
+faujasite
 furlough
 fub
 fishman
@@ -6905,7 +6906,6 @@ folkmoots
 fauchard
 fadmonger
 firetower
-faujasite
 folkmoter
 formuliser
 furnaceman
