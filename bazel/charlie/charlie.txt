@@ -5352,7 +5352,6 @@ castellanship
 chaufer
 castellate
 castellated
-castellation
 castellatus
 castellet
 circumposition
@@ -8034,6 +8033,7 @@ criteriions
 cetorhinus
 cetotolite
 catheter
+castellation
 cetraric
 cetrarin
 cacotrichia
