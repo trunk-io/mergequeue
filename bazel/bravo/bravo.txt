@@ -1911,7 +1911,6 @@ banjoist
 biostatics
 bandit
 branle
-belauder
 bandits
 banditti
 bandle
@@ -16383,6 +16382,7 @@ bluenoser
 bendys
 beggable
 brushless
+belauder
 bejazz
 babydom
 butylating
