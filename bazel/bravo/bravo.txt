@@ -3406,6 +3406,7 @@ bemata
 bughouse
 beholders
 bassette
+bromos
 bays
 bassetting
 bassy
@@ -4671,7 +4672,6 @@ buntal
 bryophyte
 bedcovers
 blader
-bromos
 bucklered
 bedding
 beddingroll
