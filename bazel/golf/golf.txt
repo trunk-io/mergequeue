@@ -3347,7 +3347,6 @@ germ
 germain
 german
 germany
-gisarme
 gyro
 galtonia
 glycosemia
@@ -5761,6 +5760,7 @@ gloomth
 galingale
 guanosine
 gaudful
+gisarme
 glor
 gyring
 glorias
