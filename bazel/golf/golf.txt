@@ -1755,6 +1755,7 @@ gutling
 gastrocoel
 gader
 goriest
+gossep
 gibs
 gastrocolotomy
 gastrodermal
@@ -7294,7 +7295,6 @@ gossamered
 gossamers
 geochronometric
 glareole
-gossep
 globe
 goujay
 gol
