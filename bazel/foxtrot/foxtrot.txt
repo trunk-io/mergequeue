@@ -2369,6 +2369,7 @@ fenster
 fent
 fibres
 fenter
+fops
 firkin
 flippest
 furner
@@ -3411,7 +3412,6 @@ flyweights
 fiendhead
 flyblew
 filtre
-fops
 fallibility
 firmation
 flowcharts
