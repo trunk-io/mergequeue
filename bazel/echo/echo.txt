@@ -2657,7 +2657,6 @@ electrosurgical
 electrosurgically
 electrotactic
 eyra
-emmanuel
 excursed
 electrotaxis
 erythrophobia
@@ -6963,6 +6962,7 @@ entradas
 entrain
 entrained
 epizootiologic
+emmanuel
 entraining
 entrainment
 emulsive
