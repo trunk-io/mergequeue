@@ -3367,6 +3367,7 @@ definish
 dynagraph
 decapitalization
 diadoche
+drums
 definite
 definitely
 definiteness
@@ -17605,7 +17606,6 @@ drumreads
 demential
 drumroll
 drumrolls
-drums
 drumslade
 drumstick
 drumsticks
