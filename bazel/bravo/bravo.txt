@@ -399,7 +399,6 @@ backliding
 baston
 bwana
 backlists
-backlit
 biradiated
 backlog
 bib
@@ -16156,6 +16155,7 @@ bithynian
 brotuliform
 brouette
 boolian
+backlit
 bacteriostasis
 brougham
 bemole
