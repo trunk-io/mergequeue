@@ -4362,6 +4362,7 @@ beaverkin
 beaverskin
 bassarisk
 beaverteen
+bescutcheon
 bared
 beaverwood
 beback
@@ -7012,7 +7013,6 @@ bescribble
 bucketeer
 bescribbled
 botchers
-bescutcheon
 basalia
 beseam
 beseeches
