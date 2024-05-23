@@ -6207,7 +6207,6 @@ breadboard
 bpt
 benami
 boyishly
-bequeathable
 becowarded
 benamidar
 berat
@@ -11544,6 +11543,7 @@ blunderhead
 beachie
 buttonbur
 blundering
+bequeathable
 blunderings
 blunge
 bullae
