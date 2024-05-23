@@ -10636,7 +10636,6 @@ defiler
 diploses
 dikdiks
 depthometer
-diplosphenal
 diplosphene
 doradilla
 dawties
@@ -17595,6 +17594,7 @@ drivecap
 decelerated
 drumlins
 drumloidal
+diplosphenal
 drummed
 drummer
 deathlike
