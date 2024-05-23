@@ -1256,7 +1256,6 @@ calgary
 caliban
 caliber
 calibers
-cunas
 clavicembali
 colunar
 calibrated
@@ -29587,6 +29586,7 @@ consociation
 croape
 croat
 carbogelatin
+cunas
 croatan
 confrontational
 croatian
