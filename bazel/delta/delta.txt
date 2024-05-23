@@ -5711,7 +5711,6 @@ dermomycosis
 depictment
 dandilly
 depictors
-depicture
 distract
 depictured
 depigmentate
@@ -10407,6 +10406,7 @@ diphenhydramine
 diacidic
 diphenylamine
 diphenylaminechlorarsine
+depicture
 diphenylchloroarsine
 diospyros
 diphenylene
