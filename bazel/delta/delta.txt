@@ -5879,7 +5879,6 @@ deafforest
 deposure
 desistance
 depotentiate
-depots
 deprave
 divelled
 drumble
@@ -6329,6 +6328,7 @@ dermatoplast
 diapositive
 dermatoplastic
 deluminize
+depots
 decolonization
 debatter
 desolative
