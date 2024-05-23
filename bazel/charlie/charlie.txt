@@ -22900,7 +22900,6 @@ conservatoires
 conservator
 conservatory
 conservatorial
-conservatorium
 conservators
 conservatorship
 coordinator
@@ -24896,6 +24895,7 @@ crocket
 coracomandibular
 chaumontel
 coredeeming
+conservatorium
 coracomorph
 curbash
 coracomorphae
