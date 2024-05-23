@@ -2148,7 +2148,6 @@ campongs
 camponotus
 campoody
 coteline
-camporee
 camporees
 clopping
 campos
@@ -15959,6 +15958,7 @@ cleeking
 clef
 coprah
 cleft
+camporee
 cleidagra
 cleidarthritis
 cleidocostal
