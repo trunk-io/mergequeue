@@ -3220,7 +3220,6 @@ gelasian
 geoscopic
 geoselenic
 geosid
-geosphere
 geostationary
 geostrategist
 gal
@@ -3569,6 +3568,7 @@ gestureless
 gesturers
 glassy
 grosbeak
+geosphere
 gluier
 glycolipid
 girding
