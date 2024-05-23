@@ -17336,7 +17336,6 @@ arcuses
 asarone
 apologias
 apological
-apologies
 amenage
 apologised
 apologising
@@ -24191,6 +24190,7 @@ automata
 absorptance
 automatable
 apidae
+apologies
 apothegmatic
 automated
 automates
