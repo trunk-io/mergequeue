@@ -335,7 +335,6 @@ glamour
 galactogenetic
 garrottes
 galactohemia
-galactoid
 galactolipide
 gristmiller
 graveship
@@ -9296,6 +9295,7 @@ gonocoel
 geologic
 ginkgoaceae
 groomsmen
+galactoid
 groop
 glamorize
 groove
