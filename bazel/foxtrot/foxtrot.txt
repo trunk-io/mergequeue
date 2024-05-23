@@ -6726,7 +6726,6 @@ fadding
 fogman
 fogmen
 fuseless
-fogo
 fogon
 fogproof
 fogram
@@ -7054,6 +7053,7 @@ ferinely
 foodful
 foodless
 fulfilled
+fogo
 flowk
 foodstuff
 flacked
