@@ -2954,7 +2954,6 @@ floorcloth
 febricide
 feudalism
 feudalist
-feudalists
 fractionising
 fustigation
 feudalizing
@@ -8909,6 +8908,7 @@ flitty
 freinage
 fibrochondroma
 floreta
+feudalists
 flamelike
 foulmouthedness
 fliped

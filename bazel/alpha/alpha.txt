@@ -14219,7 +14219,6 @@ antenoon
 antenor
 antenumber
 adrostal
-antenuptial
 amphibious
 anteoccupation
 anteocular
@@ -20535,6 +20534,7 @@ arteriogenesis
 arteriograph
 adenectopia
 arteriographic
+antenuptial
 alacreatine
 arteriolith
 arterioloscleroses
