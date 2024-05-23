@@ -11024,7 +11024,6 @@ amortizable
 amortization
 arbitrarily
 amortized
-amortizes
 angiothlipsis
 amortizing
 albizias
@@ -22340,6 +22339,7 @@ astrograph
 astrographer
 almug
 assidean
+amortizes
 astrography
 aspidiotus
 astrohatch

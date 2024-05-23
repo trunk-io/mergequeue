@@ -7977,7 +7977,6 @@ bypasses
 bibation
 beglamour
 bibbery
-bursautee
 bibberies
 bibbing
 bibble
@@ -11129,6 +11128,7 @@ blocker
 blockers
 brid
 blockhead
+bursautee
 blaver
 blockheaded
 bankruptlike
