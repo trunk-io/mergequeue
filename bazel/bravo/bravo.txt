@@ -4235,6 +4235,7 @@ bearm
 bawhorse
 bearship
 beartongue
+bridgewards
 birdwatch
 bearward
 bearwort
@@ -15261,7 +15262,6 @@ benzidine
 beefily
 bridgeway
 bridgeward
-bridgewards
 barrulet
 bridgewater
 babylonite
