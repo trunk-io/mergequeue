@@ -7184,7 +7184,6 @@ centralising
 centralism
 cepheus
 centrality
-centralities
 centripetally
 centralization
 centralize
@@ -14208,6 +14207,7 @@ circinal
 circinate
 coxcombs
 circination
+centralities
 circiter
 circle
 circled

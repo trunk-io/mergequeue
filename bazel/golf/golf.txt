@@ -414,6 +414,7 @@ gradeless
 grimly
 glyptographer
 guanacos
+gorrel
 galatea
 galateas
 glub
@@ -2228,7 +2229,6 @@ grinnellia
 gaycat
 gastrotomy
 guereba
-gorrel
 geadephaga
 geal
 gubernacula
