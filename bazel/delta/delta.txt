@@ -4770,7 +4770,6 @@ diglyph
 dilutive
 dipterologist
 demiurgeous
-demiurgic
 distributed
 demiurgos
 demiurgus
@@ -18578,6 +18577,7 @@ dustee
 duster
 dusters
 dustheap
+demiurgic
 dusty
 dustiest
 dustyfoot
