@@ -4153,6 +4153,7 @@ cardiopath
 cardiopathic
 cardiopericarditis
 cardiophobe
+catapulted
 cardiophobia
 cardiophrenia
 capette
@@ -5644,7 +5645,6 @@ cataplastic
 connubially
 catapleiite
 catapuce
-catapulted
 catapultic
 catapultier
 catapults
