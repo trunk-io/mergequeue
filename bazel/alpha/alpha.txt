@@ -12808,6 +12808,7 @@ angiokeratoma
 anthocerotales
 angioleucitis
 agisted
+adjuncts
 angiolith
 angioma
 angiomalacia
@@ -24073,7 +24074,6 @@ autogamies
 autogamous
 autogauge
 approvedness
-adjuncts
 abfarad
 autogeneses
 autogenesis
