@@ -5961,7 +5961,6 @@ droyl
 demagnetizer
 depressional
 depressions
-demonstration
 detachers
 dodging
 deep
@@ -8349,6 +8348,7 @@ diamb
 dialectologer
 diplois
 dialectology
+demonstration
 dialectological
 dialectologically
 dialectologist
