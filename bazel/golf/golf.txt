@@ -3127,7 +3127,6 @@ gastromyces
 glumal
 geometridae
 gangshag
-geometriform
 gelinotte
 graminicolous
 geometrized
@@ -6872,6 +6871,7 @@ gryph
 grindings
 gatewright
 globins
+geometriform
 geohydrologic
 gonopodium
 gallican
