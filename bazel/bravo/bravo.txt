@@ -11007,7 +11007,6 @@ blindworm
 backscratcher
 blackamoor
 beetler
-begun
 blackbeetle
 blinis
 blinkard
@@ -12522,6 +12521,7 @@ bondslave
 bondsman
 braeman
 bloomiest
+begun
 bulbose
 berengarian
 bondsmen
