@@ -5133,6 +5133,7 @@ dendrochirota
 doubleprecision
 describing
 defeasibleness
+dialog
 dendrochronologically
 dendrocygna
 dotty
@@ -8426,7 +8427,6 @@ diallings
 disciplines
 deliveror
 diallists
-dialog
 downsize
 dialoger
 dialogers

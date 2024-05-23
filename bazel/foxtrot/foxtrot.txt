@@ -4491,7 +4491,6 @@ faciolingual
 featherleaf
 feuder
 feedable
-festschriften
 feuille
 fisticuff
 freebees
@@ -10357,6 +10356,7 @@ firth
 frondent
 ferrates
 factor
+festschriften
 fluoridising
 frondescent
 foofaraw
