@@ -5094,6 +5094,7 @@ floorwalker
 flavoprotein
 fatigued
 flatly
+flamberge
 flatlings
 fjords
 fayal
@@ -7733,7 +7734,6 @@ foreignness
 foreigns
 foreimpressed
 flagmaker
-flamberge
 fleetness
 firnismalerei
 foreinstruct
