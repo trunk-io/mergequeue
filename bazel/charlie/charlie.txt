@@ -673,7 +673,6 @@ cafeteria
 cairba
 cafeterias
 cafetiere
-cafetorium
 caff
 caffeic
 caffeina
@@ -9166,6 +9165,7 @@ charpoys
 charqued
 charqui
 charquid
+cafetorium
 charr
 charras
 charre
