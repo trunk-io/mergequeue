@@ -1293,7 +1293,6 @@ acardite
 acarian
 acariasis
 acarid
-acaridan
 acaridans
 addorsed
 acaridea
@@ -9702,6 +9701,7 @@ alveary
 alvearies
 alvearium
 alveated
+acaridan
 archegoniophore
 anticynicism
 alveolae
