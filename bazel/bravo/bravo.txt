@@ -5733,6 +5733,7 @@ belaud
 belauded
 balt
 bilify
+bricklayers
 brocks
 belauds
 belshazzar
@@ -15171,7 +15172,6 @@ brickish
 brickkiln
 branchiostegal
 bricklayer
-bricklayers
 burut
 brickle
 bulbospinal
