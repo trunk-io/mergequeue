@@ -19224,7 +19224,6 @@ archruler
 archsacrificer
 archsaint
 arachnophagous
-archsatrap
 archseducer
 archsee
 archsewer
@@ -23275,6 +23274,7 @@ acridest
 auburn
 auburns
 aubusson
+archsatrap
 auca
 anisocratic
 aucaner
