@@ -2440,7 +2440,6 @@ exegete
 electrography
 eudyptes
 exitus
-electrograving
 erythrophyllin
 enstatite
 electrogasdynamics
@@ -5304,6 +5303,7 @@ estrangement
 endosteitis
 endosteoma
 encoring
+electrograving
 endosteomata
 endosteum
 exploitative
