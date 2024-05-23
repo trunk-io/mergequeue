@@ -10302,6 +10302,7 @@ blackjacks
 blackland
 blackleg
 blacklegged
+bowshot
 blackleggery
 blacklegism
 blacklist
@@ -13909,7 +13910,6 @@ bowsed
 bankroll
 bowser
 baccalaurean
-bowshot
 bowshots
 bowsie
 bowsprit
