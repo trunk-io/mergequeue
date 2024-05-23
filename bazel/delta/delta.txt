@@ -9026,6 +9026,7 @@ dict
 dehort
 dictaen
 dolichosoma
+deceleron
 dictamina
 dictaphone
 dictaphones
@@ -10059,7 +10060,6 @@ debruised
 dinantian
 disquiets
 dinaphthyl
-deceleron
 durangite
 dinar
 dinarchy
