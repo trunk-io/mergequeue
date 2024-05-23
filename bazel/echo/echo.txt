@@ -3227,6 +3227,7 @@ elusoriness
 esophagospasm
 elute
 eluting
+ectoderm
 elution
 embden
 enzymatically
@@ -13898,7 +13899,6 @@ extrametrical
 extramission
 erythrism
 extramodal
-ectoderm
 extramoral
 emprise
 enflagellate
