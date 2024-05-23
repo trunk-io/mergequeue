@@ -5212,7 +5212,6 @@ befogs
 bottoms
 batoid
 blenniiform
-befooled
 befooling
 befools
 beblotch
@@ -12620,6 +12619,7 @@ bubbly
 bonnes
 bonnet
 bonneted
+befooled
 bonneter
 bonnethead
 barrens
