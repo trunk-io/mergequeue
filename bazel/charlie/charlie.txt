@@ -3291,7 +3291,6 @@ chelates
 caponata
 chloroacetic
 capone
-caponette
 caponier
 cassolette
 cryptograms
@@ -9542,6 +9541,7 @@ callityping
 check
 checkage
 checkback
+caponette
 checkbird
 checkbite
 checkbits
