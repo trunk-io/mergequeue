@@ -3307,7 +3307,6 @@ bioplasm
 basiophthalmous
 bronzes
 backpacking
-basiotripsy
 basiparaplastin
 bookwork
 basipetal
@@ -6920,6 +6919,7 @@ berserker
 blackbirds
 bin
 berserks
+basiotripsy
 bersiamite
 bersil
 berskin
