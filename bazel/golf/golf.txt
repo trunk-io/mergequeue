@@ -1334,6 +1334,7 @@ garblings
 garboard
 gesticulator
 ged
+gournard
 garbologist
 gimlety
 garce
@@ -9402,7 +9403,6 @@ grouf
 ground
 grakle
 groundably
-gournard
 galliot
 groundberry
 gluttingly
