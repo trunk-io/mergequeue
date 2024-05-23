@@ -1279,7 +1279,6 @@ eelshop
 eelskin
 eelworm
 een
-endosternite
 eer
 eleonorite
 eerily
@@ -3754,6 +3753,7 @@ embruing
 edulcorate
 embrutes
 embruting
+endosternite
 embubble
 encyclopedize
 embulk
