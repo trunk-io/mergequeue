@@ -2769,7 +2769,6 @@ canonesses
 canonic
 canonical
 cortically
-canonicalization
 cultivable
 canonicalized
 canonicalizes
@@ -19147,6 +19146,7 @@ copintank
 collocated
 crystallographer
 cauked
+canonicalization
 collocating
 collocation
 collocational
