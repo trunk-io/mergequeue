@@ -9700,6 +9700,7 @@ alupag
 autecologic
 alur
 alurgite
+autotroph
 alushtite
 alvah
 arabize
@@ -24464,7 +24465,6 @@ autostethoscope
 autotriploid
 autotriploidy
 axlesmith
-autotroph
 autotrophic
 autotropic
 autotruck
