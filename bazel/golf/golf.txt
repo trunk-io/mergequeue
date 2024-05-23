@@ -2314,7 +2314,6 @@ glossopharyngeal
 gristle
 gossipmongering
 graverobber
-gunpowder
 grovel
 grillading
 gunsels
@@ -2854,6 +2853,7 @@ genomic
 genoms
 gasts
 genotypic
+gunpowder
 galatotrophic
 greathead
 gunfire
