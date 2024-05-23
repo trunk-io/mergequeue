@@ -8030,7 +8030,6 @@ aleurodidae
 ananthropism
 aleuromancy
 aleurometer
-aleuron
 aleuronat
 araneid
 aleurone
@@ -12641,6 +12640,7 @@ aneuploid
 aneuploidy
 aneuric
 aneurilemmic
+aleuron
 arrayan
 aneurin
 abrotin
