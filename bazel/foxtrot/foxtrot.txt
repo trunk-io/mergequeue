@@ -4826,7 +4826,6 @@ flaggella
 fluidify
 flivvers
 foothook
-fungal
 flailing
 folksinging
 fisheries
@@ -10784,6 +10783,7 @@ foreinclined
 fulmars
 fouth
 foggier
+fungal
 fruticose
 fone
 fruticous

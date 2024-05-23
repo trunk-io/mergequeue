@@ -2683,7 +2683,6 @@ epiperipheral
 enaluron
 electrothermic
 endomycetaceae
-electrothermometer
 evanish
 electiveness
 electrothermotic
@@ -5449,6 +5448,7 @@ extraditable
 elding
 ensuance
 enaliosauria
+electrothermometer
 energeticness
 entitledness
 enantiobiosis
