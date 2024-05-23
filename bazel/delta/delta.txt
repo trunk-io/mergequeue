@@ -14446,7 +14446,6 @@ divinations
 divine
 divinely
 diviner
-directcarving
 divinesse
 demotic
 dementias
@@ -15298,6 +15297,7 @@ dolphinfishes
 dolphinlike
 dolphins
 design
+directcarving
 documentarily
 dolphus
 dryfat
