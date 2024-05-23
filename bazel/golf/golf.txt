@@ -2783,7 +2783,6 @@ globoids
 genioglossi
 goboes
 genioglossus
-grout
 gipsyhood
 gnathions
 gapers
@@ -6356,6 +6355,7 @@ gobbed
 gobber
 girja
 gobby
+grout
 gaugers
 ghostiest
 genitourinary
