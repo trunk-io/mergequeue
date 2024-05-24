@@ -5559,7 +5559,6 @@ eukaryote
 enflaming
 epiklesis
 embryotomy
-enlarge
 escapeway
 embryulcus
 enflower
@@ -11090,6 +11089,7 @@ eurypteroidea
 eurypterus
 elytrigerous
 eruptions
+enlarge
 euryscope
 ephthianure
 eurite
