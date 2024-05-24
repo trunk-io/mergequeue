@@ -18771,7 +18771,6 @@ archaeornis
 altincar
 archaeornithes
 aftership
-archaeostoma
 archaeostomata
 archaeotherium
 arillated
@@ -24182,6 +24181,7 @@ abbasid
 automata
 absorptance
 automatable
+archaeostoma
 apidae
 apothegmatic
 automated
