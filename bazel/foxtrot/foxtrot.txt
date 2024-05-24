@@ -4828,6 +4828,7 @@ flaggella
 fluidify
 flivvers
 foothook
+foudroyant
 fungal
 flailing
 folksinging
@@ -6909,7 +6910,6 @@ faujasite
 folkmoter
 formuliser
 furnaceman
-foudroyant
 foamily
 folkright
 freekirker
