@@ -1691,7 +1691,6 @@ fealty
 fumigates
 fear
 fimbles
-finite
 fearedly
 forearming
 fry
@@ -3191,6 +3190,7 @@ flannelflower
 finickily
 fireside
 frumpiness
+finite
 flintifying
 fatigues
 foretokened
