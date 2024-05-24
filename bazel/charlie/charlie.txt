@@ -8065,7 +8065,6 @@ crannog
 caliches
 clergies
 chabot
-chabouk
 crankshaft
 challoth
 chabuk
@@ -17509,6 +17508,7 @@ climacium
 coble
 cobleman
 comminuting
+chabouk
 coblentzian
 cobles
 cobleskill
