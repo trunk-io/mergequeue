@@ -15968,7 +15968,6 @@ coprah
 cleft
 cleidagra
 cleidarthritis
-cleidocostal
 cleidocranial
 cleidohyoid
 cleidoic
@@ -17437,6 +17436,7 @@ cobaea
 cotters
 cobalamin
 comb
+cleidocostal
 cobalt
 cobaltamine
 cobaltammine
