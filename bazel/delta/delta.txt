@@ -3948,7 +3948,6 @@ damper
 designating
 dekalitre
 disherits
-dekameter
 dekameters
 debutante
 decumani
@@ -6528,6 +6527,7 @@ descensory
 descensories
 dilemi
 descent
+dekameter
 descents
 drawnet
 disconcerted
