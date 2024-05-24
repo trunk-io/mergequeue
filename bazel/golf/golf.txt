@@ -1484,6 +1484,7 @@ garnishment
 garnison
 garniture
 grecize
+gawk
 ganyie
 grimace
 garookuh
@@ -2150,7 +2151,6 @@ goldenseal
 gawish
 gangboard
 gigging
-gawk
 grubs
 ginglmi
 gnomist
