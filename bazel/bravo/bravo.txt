@@ -1958,7 +1958,6 @@ basilicae
 bandsawn
 bandsman
 bandspreading
-bandstand
 beacon
 boronia
 beraked
@@ -16621,6 +16620,7 @@ busby
 beclad
 buckeyed
 bucker
+bandstand
 belait
 buckers
 bradyauxetic
