@@ -2674,7 +2674,6 @@ delinquents
 decompensations
 dadaist
 decompiler
-decomponent
 decomposability
 decomposable
 decompose
@@ -7340,6 +7339,7 @@ detersiveness
 detest
 detestation
 dominate
+decomponent
 detestations
 detester
 detests
