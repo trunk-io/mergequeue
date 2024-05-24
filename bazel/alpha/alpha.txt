@@ -19846,7 +19846,6 @@ aristotype
 aristotle
 arytenoepiglottic
 antrotome
-alfuro
 arith
 ambatch
 arithmancy
@@ -20228,6 +20227,7 @@ arraigned
 aerosats
 arraigning
 arraignment
+alfuro
 annuation
 aurophobia
 allolalia
