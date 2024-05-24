@@ -1323,7 +1323,6 @@ golfed
 gismondite
 groped
 gewgawry
-garbles
 grammatology
 grammatically
 goodship
@@ -9015,6 +9014,7 @@ guarana
 gourami
 glycogenolysis
 ginep
+garbles
 grimme
 gingalls
 glossiness
