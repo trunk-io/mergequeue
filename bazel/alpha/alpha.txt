@@ -2331,6 +2331,7 @@ acider
 acidhead
 acidheads
 acidy
+antiquum
 acidiferous
 argil
 adderfish
@@ -16069,7 +16070,6 @@ appraise
 antiquist
 antiquities
 anklebones
-antiquum
 antirabic
 angelfish
 antirabies
