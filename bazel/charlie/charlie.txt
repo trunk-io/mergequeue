@@ -5593,6 +5593,7 @@ cataloguize
 catalonian
 cataloon
 catalos
+cohibit
 companionways
 catalpa
 catalpas
@@ -18497,7 +18498,6 @@ calmer
 cohesible
 cohesion
 cohesively
-cohibit
 cohibition
 cohibitive
 cohibitor
