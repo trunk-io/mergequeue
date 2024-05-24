@@ -4826,7 +4826,6 @@ cinchonicin
 carriageway
 carryall
 carrick
-carrycot
 chromatoplasm
 carried
 carryed
@@ -9146,6 +9145,7 @@ cremated
 charneco
 charnockite
 charnockites
+carrycot
 charnu
 circumagitation
 cyanogens

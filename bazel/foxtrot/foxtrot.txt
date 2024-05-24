@@ -1442,7 +1442,6 @@ fylgjur
 fluctuosity
 fatshedera
 fatsia
-fane
 fatsoes
 fatalize
 fatsos
@@ -2410,6 +2409,7 @@ fanhouse
 fetiches
 feres
 flytings
+fane
 firearmed
 frolicky
 feretories
