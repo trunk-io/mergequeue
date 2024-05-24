@@ -6382,7 +6382,6 @@ fluorane
 fluoranthene
 fishtailing
 felonwood
-fluorated
 fluorboric
 foetal
 fluorene
@@ -8718,6 +8717,7 @@ fillers
 falsifiers
 fortunel
 foozled
+fluorated
 froe
 fixedly
 fortunes
