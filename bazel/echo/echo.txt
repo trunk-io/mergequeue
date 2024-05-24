@@ -2647,7 +2647,6 @@ electrostriction
 elinvar
 electrosurgery
 enfirm
-epididymovasostomy
 elaeocarpaceous
 eleutherodactyli
 electrosurgical
@@ -13475,6 +13474,7 @@ erotology
 exsanguious
 electrocauterization
 entrochus
+epididymovasostomy
 exscind
 endocrinal
 embowels
