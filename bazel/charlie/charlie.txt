@@ -13437,7 +13437,6 @@ cyclopedias
 cyclopedical
 cyclopentadiene
 cyclopentanone
-cyclopentene
 chlorimetry
 cyclopes
 cyclophoria
@@ -20587,6 +20586,7 @@ compendia
 cystomata
 celtophobe
 compendious
+cyclopentene
 compendium
 compendiums
 compends
