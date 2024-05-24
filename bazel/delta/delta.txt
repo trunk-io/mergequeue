@@ -653,6 +653,7 @@ damone
 disrange
 damonico
 damosel
+drachms
 decapitalize
 dampcourse
 desiccate
@@ -16493,7 +16494,6 @@ drachen
 devolatilisation
 drachmai
 drachmal
-drachms
 dracin
 dementate
 deliber
