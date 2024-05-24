@@ -5862,7 +5862,6 @@ dismarshall
 depositors
 disabused
 dowel
-directness
 deafforestation
 deposits
 dedifferentiation
@@ -11323,6 +11322,7 @@ discharity
 discharm
 dehydrogenise
 dischevel
+directness
 dyschiria
 dyschroa
 dyschroia
