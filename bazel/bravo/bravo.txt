@@ -4169,7 +4169,6 @@ beanpole
 bagge
 beans
 beansetter
-beanshooter
 beanstalk
 beanstalks
 begrain
@@ -11227,6 +11226,7 @@ bolsterers
 bloodtest
 bloodthirster
 bloodthirstiness
+beanshooter
 bloodweed
 burgomaster
 bloodwite
