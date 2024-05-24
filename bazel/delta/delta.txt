@@ -7248,7 +7248,6 @@ dispenser
 detente
 dicotyl
 dimetric
-detenu
 detenue
 detenues
 deter
@@ -9192,6 +9191,7 @@ diecious
 diectasis
 damascenes
 died
+detenu
 dwt
 diedric
 dieffenbachia
