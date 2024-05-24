@@ -5851,6 +5851,7 @@ doohinkus
 distome
 deathroot
 depositaries
+duoliteral
 depositation
 depositing
 disgorgement
@@ -10960,7 +10961,6 @@ disagree
 discrive
 disagreeableness
 disagreeably
-duoliteral
 drydenian
 discongruity
 deprogramming

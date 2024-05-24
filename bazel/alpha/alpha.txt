@@ -10327,7 +10327,6 @@ anticheater
 amenableness
 amenably
 amenance
-amendableness
 amici
 amydon
 amendatory
@@ -23519,6 +23518,7 @@ auntlier
 argolic
 auntliest
 auntlike
+amendableness
 auntre
 antistrophal
 auntrous
