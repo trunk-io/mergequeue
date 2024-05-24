@@ -9994,7 +9994,6 @@ bitstone
 bitted
 bitten
 battled
-bitter
 bitterbark
 broadside
 biplosion
@@ -17573,6 +17572,7 @@ boss
 bureaucratizing
 bureaux
 burele
+bitter
 buret
 burets
 burette
