@@ -5240,7 +5240,6 @@ denitrator
 doghole
 deathly
 denitrificant
-denitrification
 digestedly
 denitrifier
 denitrifying
@@ -10937,6 +10936,7 @@ dilutor
 disaffections
 disaffiliate
 disaffiliated
+denitrification
 disaffiliation
 dialectologies
 disaffinity

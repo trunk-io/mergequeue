@@ -3677,7 +3677,6 @@ extracellular
 encoronate
 embryopathology
 embryophyte
-embryophore
 effray
 embryoplastic
 embryos
@@ -9456,6 +9455,7 @@ educable
 escalades
 escalading
 excelsitude
+embryophore
 escalan
 enlute
 escalating
