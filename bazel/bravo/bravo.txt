@@ -1065,6 +1065,7 @@ busway
 bailiwick
 beaconed
 bridler
+basanite
 belord
 brasswork
 bailiwicks
@@ -16094,7 +16095,6 @@ brailler
 broomshank
 broomstick
 blotting
-basanite
 broomsticks
 broomstraw
 broomweed
