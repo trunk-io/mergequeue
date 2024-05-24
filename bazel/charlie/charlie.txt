@@ -7191,6 +7191,7 @@ caracas
 centranth
 centrarchid
 centrarchoid
+compare
 centraxonia
 centraxonial
 centre
@@ -24864,7 +24865,6 @@ curlycue
 coquettishness
 coquicken
 coquilla
-compare
 contumax
 coquillage
 coquille
