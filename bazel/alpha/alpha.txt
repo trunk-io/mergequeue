@@ -8452,7 +8452,6 @@ alitrunk
 azan
 aliturgic
 attribution
-atrienses
 asherahs
 aliturgical
 aliunde
@@ -13627,6 +13626,7 @@ ablate
 annotativeness
 adaptability
 annotator
+atrienses
 annotatory
 annotators
 annotine
