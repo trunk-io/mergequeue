@@ -6911,7 +6911,6 @@ fadmonger
 firetower
 faujasite
 folkmoter
-formuliser
 furnaceman
 foudroyant
 foamily
@@ -10692,6 +10691,7 @@ fruitier
 fixity
 fruitiness
 famish
+formuliser
 frightable
 facultied
 farting
