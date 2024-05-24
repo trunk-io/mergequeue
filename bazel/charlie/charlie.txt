@@ -15569,7 +15569,6 @@ clarini
 clarino
 clarinos
 clarion
-clarionet
 clarioning
 circuted
 clarissa
@@ -18981,6 +18980,7 @@ collator
 carefulness
 couldna
 collators
+clarionet
 colleague
 coenobitic
 ciseleur
