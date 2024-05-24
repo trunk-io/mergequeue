@@ -12150,7 +12150,6 @@ arteriofibrosis
 anatomies
 alloplasmic
 anatomise
-anatomiser
 anatomist
 anatomists
 anatomization
@@ -17046,6 +17045,7 @@ apprehender
 apimanias
 apina
 aciculated
+anatomiser
 armillated
 aping
 apio

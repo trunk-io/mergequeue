@@ -15346,7 +15346,6 @@ clays
 claystone
 claith
 clayton
-claytonia
 claiver
 clayware
 claywares
@@ -18280,6 +18279,7 @@ coffer
 cofferdam
 cofferdams
 coffered
+claytonia
 chaetophorales
 cephalotome
 coombe
