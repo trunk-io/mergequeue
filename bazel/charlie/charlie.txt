@@ -16753,7 +16753,6 @@ consonantalized
 clotty
 clotting
 cinefilm
-cloture
 catastrophically
 clotured
 clotures
@@ -22623,6 +22622,7 @@ chieftainships
 connecting
 connection
 connectional
+cloture
 connectionism
 connections
 colorism
