@@ -9097,7 +9097,6 @@ electrothanatosis
 eteocretes
 edriophthalma
 erythrite
-endolaryngeal
 enfever
 echappee
 espionage
@@ -12470,6 +12469,7 @@ elenctic
 exhumations
 exhumator
 exhumatory
+endolaryngeal
 emancipations
 exhumers
 exfiltrate
