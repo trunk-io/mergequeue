@@ -9083,6 +9083,7 @@ fowls
 fringillid
 fabrique
 fhrer
+frit
 faineantism
 fix
 fleetwing
@@ -11162,7 +11163,6 @@ filleul
 funebrous
 flaxwench
 funeralize
-frit
 floorage
 fandom
 foresettle
