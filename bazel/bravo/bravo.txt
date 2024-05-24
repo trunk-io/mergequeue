@@ -2936,7 +2936,6 @@ baetylic
 brattle
 barrelmaker
 barrelmaking
-barrelwise
 barren
 barrenly
 barrenness
@@ -12830,6 +12829,7 @@ boolya
 blebs
 boom
 barrelhouse
+barrelwise
 banzai
 beefcakes
 boomable
