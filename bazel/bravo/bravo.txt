@@ -13082,7 +13082,6 @@ belfry
 boresight
 beblubber
 boresome
-buffeting
 borg
 broncholithiasis
 borghalpenny
@@ -13401,6 +13400,7 @@ botocudo
 botone
 botonee
 brushing
+buffeting
 blastomycosis
 botry
 botryllus
