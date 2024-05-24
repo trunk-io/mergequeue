@@ -2699,7 +2699,6 @@ electrotrephine
 electrotropic
 electrophilically
 electrovalence
-electrovalent
 electrovalently
 electrovection
 electrowinning
@@ -10101,6 +10100,7 @@ entreatment
 eyebolt
 expansibly
 esurient
+electrovalent
 electroform
 esurine
 etageres
