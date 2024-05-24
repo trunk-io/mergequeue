@@ -1124,7 +1124,6 @@ bairnish
 bairnishness
 bloodthirstily
 bairnly
-barkstone
 bedimmed
 brindled
 bluethroat
@@ -8754,6 +8753,7 @@ billholder
 boopic
 bimillenial
 billiard
+barkstone
 billiardist
 birch
 baldicoot
