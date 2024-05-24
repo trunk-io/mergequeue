@@ -2929,6 +2929,7 @@ fulfil
 fetterlock
 fetticus
 fusarium
+fossoria
 fettled
 forewing
 foxship
@@ -8625,7 +8626,6 @@ faldstool
 flanchard
 fortescue
 foolhead
-fossoria
 forth
 forthby
 forthbring
