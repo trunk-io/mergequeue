@@ -3462,7 +3462,6 @@ chawbone
 capsulectomy
 centinody
 capsuled
-colasciones
 countershaft
 capsuler
 capsules
@@ -5749,6 +5748,7 @@ catechisable
 catechisation
 catechised
 chumming
+colasciones
 catechising
 calipered
 catechism
