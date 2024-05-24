@@ -6419,7 +6419,6 @@ cavatine
 cavdia
 caretaken
 celebrating
-cave
 cavea
 caveae
 caveat
@@ -9298,6 +9297,7 @@ chasuble
 chasubled
 cooper
 chasubles
+cave
 chat
 chataka
 chatchka
