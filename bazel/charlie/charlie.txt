@@ -13333,7 +13333,6 @@ cyclically
 cyclicalness
 cyclicism
 cyclicity
-cyclide
 cubeb
 cyclindroid
 cycling
@@ -26734,6 +26733,7 @@ counteragency
 counteragent
 counteragitate
 counteragitation
+cyclide
 counteralliance
 counterambush
 counterannouncement
