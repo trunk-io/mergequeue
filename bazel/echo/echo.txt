@@ -6363,6 +6363,7 @@ ensiform
 equilocation
 ensign
 electroplaque
+epoptic
 entranceway
 ensignry
 eviscerate
@@ -9375,7 +9376,6 @@ estramazone
 escocheon
 evasible
 erse
-epoptic
 erst
 edited
 erstwhiles
