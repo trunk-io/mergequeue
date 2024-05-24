@@ -3022,7 +3022,6 @@ canvasser
 chromophilous
 canzon
 canzona
-canzonas
 canzones
 canzonet
 canzonetta
@@ -30485,6 +30484,7 @@ cuculine
 corrumpable
 chayotes
 cubical
+canzonas
 catskinner
 catonic
 cray
