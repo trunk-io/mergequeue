@@ -5142,7 +5142,6 @@ governesshood
 giganticidal
 greenable
 glareproof
-glyptologist
 globeflower
 galloping
 glary
@@ -8802,6 +8801,7 @@ greyish
 greylag
 greylags
 gesten
+glyptologist
 gyte
 girouettism
 grillades
