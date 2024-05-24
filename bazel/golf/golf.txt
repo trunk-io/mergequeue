@@ -5860,7 +5860,6 @@ glossolysis
 guestimating
 glossologist
 glossophaga
-glossopharyngeus
 gettered
 glancer
 goldweed
@@ -5906,6 +5905,7 @@ glottiscope
 gustier
 garrulously
 goony
+glossopharyngeus
 gonoplasm
 guttide
 glottologic
