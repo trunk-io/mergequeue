@@ -2304,6 +2304,7 @@ eremitic
 excuderunt
 epistroma
 electrocapillarity
+endophragm
 electrocardiogram
 exoperidium
 electrocardiograms
@@ -5203,7 +5204,6 @@ esophagostomy
 endophytal
 eupepticism
 endophlebitis
-endophragm
 embarcadero
 endophragmal
 ensphere
