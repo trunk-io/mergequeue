@@ -4786,7 +4786,6 @@ epidosite
 eccoproticophoric
 encomiastic
 encomiastically
-encomic
 encompassed
 excitoglandular
 epanisognathous
@@ -11123,6 +11122,7 @@ europeanism
 expiscate
 europeanization
 estoc
+encomic
 encomimia
 europeans
 europeward
