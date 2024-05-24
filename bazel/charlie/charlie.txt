@@ -22911,7 +22911,6 @@ conservatoires
 conservator
 conservatory
 conservatorial
-conservatorium
 conservators
 conservatorship
 coordinator
@@ -31945,6 +31944,7 @@ czechoslovakian
 cattycorner
 czechoslovakians
 czechoslovaks
+conservatorium
 charites
 czechs
 czigany

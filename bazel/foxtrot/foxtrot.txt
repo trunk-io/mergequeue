@@ -2476,7 +2476,6 @@ ferlying
 furfuraldehyde
 ferling
 fortnightly
-fermail
 fermal
 fermatas
 fleshed
@@ -6327,6 +6326,7 @@ freak
 fogus
 flump
 flummadiddle
+fermail
 foraminate
 favela
 flummer
