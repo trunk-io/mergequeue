@@ -2501,6 +2501,7 @@ candlestick
 candlesticks
 candlestickward
 candlewaster
+cardamums
 cambial
 candlewasting
 candlewick
@@ -22941,7 +22942,6 @@ considerator
 copatain
 chromatone
 chordata
-cardamums
 considering
 consideringly
 cotterway
