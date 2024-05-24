@@ -9418,6 +9418,7 @@ chaus
 constatory
 commiserate
 chausse
+curavecan
 chaussee
 chaussees
 chaussure
@@ -29185,7 +29186,6 @@ cryoplankton
 crownband
 cryoscope
 cryoscopy
-curavecan
 cryoscopic
 cryoscopies
 cryosel
