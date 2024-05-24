@@ -780,7 +780,6 @@ ferricyanogen
 funnellike
 fabricable
 freemasonry
-fanfolds
 floggable
 fontina
 fang
@@ -10306,6 +10305,7 @@ fibroadenia
 flaming
 frogman
 formamide
+fanfolds
 fractile
 frogmarch
 fission
