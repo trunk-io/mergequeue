@@ -1491,7 +1491,6 @@ efoliolate
 efoliose
 empedoclean
 electromagnetically
-efph
 erringly
 estantion
 entification
@@ -12079,6 +12078,7 @@ excoriating
 enrages
 enlivenment
 excoriation
+efph
 excoriations
 epiclike
 enforcible
