@@ -6755,7 +6755,6 @@ allemandes
 acalycine
 advisory
 acarol
-autosign
 ailsyte
 anthropotoxin
 asteam
@@ -24002,6 +24001,7 @@ autodecrement
 autodecremented
 autodecrements
 aerodynamic
+autosign
 affeeble
 autodepolymerization
 autodermic
