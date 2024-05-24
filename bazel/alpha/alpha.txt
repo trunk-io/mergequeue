@@ -6943,6 +6943,7 @@ apanages
 airmobile
 awry
 airmonger
+amba
 airn
 aloadae
 airns
@@ -11634,7 +11635,6 @@ analgene
 alphabetize
 athens
 anacrogynae
-amba
 anacrogynous
 anacrotic
 altricial
