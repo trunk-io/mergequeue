@@ -5075,7 +5075,6 @@ forerunnings
 forellenstein
 fingent
 flashover
-fluoborite
 fructure
 flashtubes
 forevouched
@@ -5503,6 +5502,7 @@ felon
 fratriage
 flyback
 foreflank
+fluoborite
 flancards
 flyball
 fantasticate
