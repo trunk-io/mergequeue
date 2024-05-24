@@ -3866,6 +3866,7 @@ geldable
 gibbosely
 gibboseness
 gibbosity
+gluelike
 gibbosities
 gibbous
 gelastocoridae
@@ -4685,7 +4686,6 @@ gluteus
 gummites
 gulps
 greenhorns
-gluelike
 genesiac
 gyrencephala
 gyrencephalic
