@@ -7263,7 +7263,6 @@ detergers
 delph
 deterges
 detergible
-dejectory
 detering
 desperadoism
 deteriorate
@@ -11858,6 +11857,7 @@ discussionis
 discussionist
 discussions
 dioptomiter
+dejectory
 discustom
 discutient
 disdain
