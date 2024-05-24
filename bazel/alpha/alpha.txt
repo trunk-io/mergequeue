@@ -2366,7 +2366,6 @@ astacus
 ambuscados
 acidogenic
 administrants
-acidoid
 acidolysis
 acidology
 acidometer
@@ -18190,6 +18189,7 @@ aproneer
 aright
 apronful
 aprons
+acidoid
 apronstring
 amphigenetic
 aporosa
