@@ -3276,7 +3276,6 @@ capnomor
 cirripede
 connivant
 celli
-capo
 chaufers
 capoc
 capocchia
@@ -9986,6 +9985,7 @@ chemotherapist
 countersignatures
 crackjaw
 chemotherapists
+capo
 chemotic
 chemotrophic
 chemotropic
