@@ -6895,7 +6895,6 @@ airfoil
 airfoils
 airframes
 adiate
-abortus
 airglow
 airglows
 airgraphics
@@ -12162,6 +12161,7 @@ adorally
 antiaristocratical
 anatox
 anatoxin
+abortus
 anatoxins
 anatreptic
 anatripsis

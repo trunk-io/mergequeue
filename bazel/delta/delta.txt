@@ -4123,6 +4123,7 @@ delictual
 disfame
 disobeyed
 detonatable
+doats
 delictum
 delictus
 delieret
@@ -14639,7 +14640,6 @@ doated
 drizzling
 discommission
 doater
-doats
 deviscerate
 dobby
 dobbing
