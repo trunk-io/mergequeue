@@ -2727,7 +2727,6 @@ fertilizer
 funeral
 figurate
 fillagreing
-fertilizers
 foremelt
 ferula
 foghorns
@@ -5592,6 +5591,7 @@ fannier
 fructuose
 flyings
 flyless
+fertilizers
 fuddle
 firebrands
 fusee

@@ -8701,7 +8701,6 @@ editress
 evolutional
 equipendent
 equiperiodic
-expander
 equipment
 equipoise
 equipollency
@@ -9702,6 +9701,7 @@ evoked
 esophagomycosis
 esophagopathy
 esophagoplasty
+expander
 esophagoptosis
 esophagorrhagia
 embodiment
