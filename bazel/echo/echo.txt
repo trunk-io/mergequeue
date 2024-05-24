@@ -8334,6 +8334,7 @@ erebus
 enclosable
 exterminated
 ethnolinguistic
+epipolic
 epithecium
 ecardine
 ejectives
@@ -11978,7 +11979,6 @@ electrocauteries
 enlist
 emmeleia
 excitant
-epipolic
 epistemophilic
 eugenic
 endangiitis
