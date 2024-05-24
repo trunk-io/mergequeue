@@ -14590,7 +14590,6 @@ anthropolitic
 anthropology
 anthropologic
 apostrophised
-adapis
 anthropologies
 anthropologists
 anthropomancy
@@ -23611,6 +23610,7 @@ algorism
 aurifying
 auriflamme
 auriga
+adapis
 aurigal
 amethysts
 aurigation
