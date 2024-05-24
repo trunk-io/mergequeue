@@ -4435,7 +4435,6 @@ frazil
 fringilliformes
 furze
 fisnoga
-finicality
 flap
 feriation
 fissidentaceous
@@ -5831,6 +5830,7 @@ fodders
 foulard
 floaty
 floatier
+finicality
 fulcrums
 felsophyric
 fallacy
