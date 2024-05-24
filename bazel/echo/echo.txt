@@ -2322,7 +2322,6 @@ electrocataphoresis
 equison
 electrochronometric
 enfroward
-electroplating
 electroplates
 epiphenomenal
 elasmosaur
@@ -12303,6 +12302,7 @@ exemplifying
 exempted
 euciliate
 experimentations
+electroplating
 exemption
 essenhout
 esotropic
