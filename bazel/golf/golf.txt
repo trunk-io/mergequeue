@@ -5538,6 +5538,7 @@ gue
 germanly
 glyphographic
 glyphs
+grenadierial
 galore
 gharris
 greenness
@@ -8817,7 +8818,6 @@ gremlins
 grenada
 gravilea
 grenades
-grenadierial
 gyokuro
 gelates
 grenadierly
