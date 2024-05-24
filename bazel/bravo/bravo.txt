@@ -2210,7 +2210,6 @@ bar
 barabara
 birchbark
 beltline
-barabbas
 barabra
 barad
 banderoling
@@ -3476,6 +3475,7 @@ bodingly
 bastionet
 badgerly
 bastions
+barabbas
 battutas
 bastite
 brushfire
