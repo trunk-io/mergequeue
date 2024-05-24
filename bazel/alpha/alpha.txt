@@ -2464,7 +2464,6 @@ acipenser
 acipenseres
 aedes
 acipenseridae
-acipenserine
 acipenseroid
 acipenseroidei
 asmile
@@ -21627,6 +21626,7 @@ anteflected
 advertise
 assayable
 afterpotential
+acipenserine
 assayed
 assayer
 assayers
