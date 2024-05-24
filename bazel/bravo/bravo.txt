@@ -5446,6 +5446,7 @@ birne
 begrett
 bloedite
 begrim
+befingered
 begrimed
 bandusian
 begrimer
@@ -14567,7 +14568,6 @@ brantness
 brants
 branular
 brasen
-befingered
 brachiopodous
 brasenia
 braseros
