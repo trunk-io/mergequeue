@@ -5315,6 +5315,7 @@ finickingness
 flecky
 friendliness
 fogyisms
+flatterable
 frislet
 fanzine
 forecounsel
@@ -6712,7 +6713,6 @@ fogdom
 foeffment
 fogfruit
 foretype
-flatterable
 fogfruits
 fluerics
 furrier
