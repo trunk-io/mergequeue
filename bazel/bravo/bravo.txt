@@ -3629,7 +3629,6 @@ bollard
 bathmism
 bathochromatism
 bathochromy
-bathochromic
 boozer
 bathoflore
 batholith
@@ -5527,6 +5526,7 @@ behaviorists
 behavioural
 behaviourally
 boodle
+bathochromic
 brisling
 behaviours
 balai
