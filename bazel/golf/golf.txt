@@ -5890,7 +5890,6 @@ glosts
 glottal
 gloomy
 grapsoid
-ghole
 gattine
 galera
 goodies
@@ -8000,6 +7999,7 @@ grane
 gunrooms
 granet
 goaf
+ghole
 grangerize
 gongorism
 gastrulas
