@@ -2801,7 +2801,6 @@ flagroot
 footway
 flanges
 festy
-festilogy
 feods
 fouling
 focalise
@@ -10038,6 +10037,7 @@ flocculated
 flavin
 frightener
 fanmaker
+festilogy
 frightens
 fourierian
 fragmentisation
