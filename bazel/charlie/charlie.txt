@@ -1465,6 +1465,7 @@ closish
 callbacks
 callboy
 callboys
+cowberries
 called
 callers
 calles
@@ -16102,7 +16103,6 @@ cleveite
 cleveites
 cleveland
 clever
-cowberries
 cleverer
 cleverest
 cleverish
