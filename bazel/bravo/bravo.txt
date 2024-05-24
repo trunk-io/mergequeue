@@ -3162,6 +3162,7 @@ bardish
 basest
 bash
 bashalick
+biddie
 bashaw
 bashawism
 bashed
@@ -8913,7 +8914,6 @@ bind
 binbashi
 binderies
 behav
-biddie
 banjos
 bulliest
 binding
