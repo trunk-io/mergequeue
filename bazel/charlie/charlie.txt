@@ -16558,7 +16558,6 @@ changoan
 cloghad
 cloghaun
 cloghead
-cloglike
 clogmaker
 chokecherries
 cosmos
@@ -23952,6 +23951,7 @@ contumaciousness
 chipyard
 contumacities
 cantel
+cloglike
 contumely
 consisted
 contumelies
