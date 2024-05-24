@@ -1421,6 +1421,7 @@ balearian
 bathofloric
 basnet
 balearica
+bisellium
 balebos
 baled
 bonaught
@@ -9718,7 +9719,6 @@ bisectors
 bisectrices
 busybodyness
 bisects
-bisellium
 banalize
 bysen
 biseptate
