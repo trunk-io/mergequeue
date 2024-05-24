@@ -3705,7 +3705,6 @@ costate
 caraways
 carbachol
 carbacidometer
-cryoprotective
 carbamate
 carbamic
 carbamide
@@ -27207,6 +27206,7 @@ countersurprise
 coydog
 countersway
 counterswing
+cryoprotective
 countersworn
 corroded
 countertack
