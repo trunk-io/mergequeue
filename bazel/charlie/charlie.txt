@@ -4818,7 +4818,6 @@ carri
 cetaceous
 carry
 carriable
-carriage
 carriageable
 carriageful
 carriages
@@ -25456,6 +25455,7 @@ cryptological
 consignable
 corning
 curviest
+carriage
 cornish
 cornishman
 clinocephalic
