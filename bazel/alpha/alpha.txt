@@ -267,6 +267,7 @@ abdominogenital
 aurata
 affiant
 abnormals
+autotherapy
 abdominoposterior
 abdominoscopy
 agas
@@ -9901,7 +9902,6 @@ amaritude
 asteroidal
 amaroidal
 amarthritis
-autotherapy
 amarvel
 antimasker
 amasesis
