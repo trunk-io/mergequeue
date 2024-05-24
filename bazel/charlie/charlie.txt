@@ -3982,6 +3982,7 @@ corroborees
 carcinomatoid
 carcinomatosis
 carpetweed
+coprophagy
 cholers
 cornhusk
 carcinomatous
@@ -24785,7 +24786,6 @@ chatwood
 coprolith
 coprolitic
 coprophagan
-coprophagy
 coprophagia
 coprophagist
 coprophagous
