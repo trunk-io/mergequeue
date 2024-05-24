@@ -2550,7 +2550,6 @@ anisotropal
 alpenhorn
 acoelomatous
 acoelomi
-acanthopore
 abaisance
 acoemetae
 attemperance
@@ -8795,6 +8794,7 @@ alliant
 alliaria
 allicampane
 allice
+acanthopore
 antiketogen
 allicholly
 alliciency

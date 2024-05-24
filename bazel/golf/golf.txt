@@ -2645,7 +2645,6 @@ generable
 guideress
 generalcy
 generalia
-generalific
 generalisable
 gringolee
 generalise
@@ -4110,6 +4109,7 @@ gilds
 gildship
 gaskins
 gildsmen
+generalific
 gastrosplenic
 gerundive
 gristles
