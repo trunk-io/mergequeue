@@ -951,7 +951,6 @@ goodtemperedness
 gobioid
 gilia
 genome
-gametophyte
 gastroduodenotomy
 gadgety
 galerite
@@ -7399,6 +7398,7 @@ ghosty
 galbulidae
 gou
 gorgelet
+gametophyte
 gingerbread
 greenless
 gastrodidymus
