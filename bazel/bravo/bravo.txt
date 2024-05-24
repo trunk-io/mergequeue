@@ -4352,6 +4352,7 @@ bowpots
 beautiless
 bonaci
 bridges
+bivalvular
 burlers
 beaver
 burgonet
@@ -10079,7 +10080,6 @@ biognosis
 bivalvia
 buro
 bivalvian
-bivalvular
 bivariant
 bivariate
 bivascular
