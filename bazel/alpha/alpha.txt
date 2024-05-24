@@ -5069,7 +5069,6 @@ aerologist
 aerologists
 aeromancer
 aeromechanic
-aeromechanics
 aeromedical
 aeromedicine
 aerometeorograph
@@ -14334,6 +14333,7 @@ antesuperior
 arboretums
 antetemple
 antetype
+aeromechanics
 antetypes
 anteversion
 ahypnia
