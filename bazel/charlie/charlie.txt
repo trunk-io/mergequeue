@@ -7693,7 +7693,6 @@ cerement
 cerements
 ceremony
 chrysoeriol
-ceremonial
 ceremonialism
 ceremonialist
 ceremonialists
@@ -27742,6 +27741,7 @@ cowpoke
 collingual
 clinochlore
 cowpony
+ceremonial
 costing
 cowpoxes
 cowpuncher
