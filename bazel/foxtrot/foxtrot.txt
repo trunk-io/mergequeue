@@ -1796,7 +1796,6 @@ fetlocks
 foglietto
 fadingness
 flamming
-featherstitch
 freewill
 feathertop
 flagellation
@@ -6577,6 +6576,7 @@ florula
 fleetly
 fluvioterrestrial
 felty
+featherstitch
 fondu
 fluxation
 feltlike
