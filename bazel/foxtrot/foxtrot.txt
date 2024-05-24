@@ -2980,7 +2980,6 @@ frustums
 farfetch
 filamented
 feuillage
-furcation
 flyoff
 feuilleton
 feuilletons
@@ -10635,6 +10634,7 @@ finched
 frictionizing
 fructuate
 fightwite
+furcation
 familiary
 fructuous
 festooned
