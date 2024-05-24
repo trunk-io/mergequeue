@@ -14189,6 +14189,7 @@ chiriana
 cryptostomate
 colorist
 cypseloid
+containerize
 cypselomorph
 coutel
 cypselomorphae
@@ -23395,7 +23396,6 @@ contained
 colligance
 containerboard
 containerization
-containerize
 containerizing
 chemasthenia
 containerport
