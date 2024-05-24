@@ -6365,7 +6365,6 @@ dermobranchiata
 dovetailed
 derout
 dermobranchiate
-dermococcus
 dialyzator
 diagrammatical
 dermogastric
@@ -8468,6 +8467,7 @@ diamante
 diamantiferous
 ditrochee
 deluding
+dermococcus
 diamantoid
 diamat
 diamber
