@@ -11194,7 +11194,6 @@ disbud
 dreariment
 domesticability
 dangler
-decrescendos
 disbudded
 depurating
 dearths
@@ -16067,6 +16066,7 @@ doucepere
 douceur
 douche
 douches
+decrescendos
 dorhawks
 dextrins
 duckie
