@@ -1870,6 +1870,7 @@ bandeau
 betula
 bandelet
 bandelette
+brahmi
 bandeng
 banderlog
 banderma
@@ -14295,7 +14296,6 @@ brahmanistic
 brahmanize
 brahmapootra
 borehole
-brahmi
 bepierce
 blowback
 brahmin
