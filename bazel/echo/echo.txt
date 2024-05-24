@@ -2411,7 +2411,6 @@ electroencephalograph
 epitaxial
 exciting
 electroencephalographical
-electroencephalographs
 essentialize
 evoker
 electroendosmosis
@@ -3256,6 +3255,7 @@ em
 edgiest
 endaortic
 ektene
+electroencephalographs
 ensnaring
 equitist
 emaciated
