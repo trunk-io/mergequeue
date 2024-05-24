@@ -2377,7 +2377,6 @@ fenzelia
 feod
 firestopping
 feodum
-filander
 farewelled
 feoff
 fumarolic
@@ -3533,6 +3532,7 @@ figurer
 flyweight
 flocculous
 facebread
+filander
 figures
 figuresome
 friesic
