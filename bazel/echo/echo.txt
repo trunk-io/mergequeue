@@ -10898,6 +10898,7 @@ eupanorthus
 endarteria
 eupatorium
 eupatrid
+etym
 eupatridae
 eupatrids
 eluent
@@ -13872,7 +13873,6 @@ extraequilibrium
 extraessential
 extrafine
 extrafloral
-etym
 espied
 extragalactic
 extragastric
