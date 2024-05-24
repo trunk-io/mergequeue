@@ -12642,6 +12642,7 @@ bonser
 braccate
 bakshaish
 bonspell
+beknotting
 bonspells
 brike
 bonspiel
@@ -14842,7 +14843,6 @@ breakweather
 barky
 brachets
 breakwind
-beknotting
 bream
 breamed
 breaming
