@@ -5815,6 +5815,7 @@ floatage
 farmeries
 fairs
 fireling
+foppish
 floatation
 fists
 firesides
@@ -7302,7 +7303,6 @@ forelock
 fopperies
 fopperly
 foppy
-foppish
 fourer
 fishingly
 facers
