@@ -11160,7 +11160,6 @@ deprives
 disbenched
 disbenching
 disbenchment
-disbend
 disenfranchise
 decarbonylation
 dispair
@@ -13241,6 +13240,7 @@ dispossession
 debasers
 dispossessory
 driblets
+disbend
 delegalized
 dieselization
 dispractice
