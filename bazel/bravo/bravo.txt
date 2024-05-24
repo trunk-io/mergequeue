@@ -4516,7 +4516,6 @@ beclaw
 bassoonist
 besieged
 bloodstanch
-becloak
 batis
 belchers
 bypassing
@@ -17718,6 +17717,7 @@ burlace
 birgus
 blackfin
 blueings
+becloak
 burlaps
 boomlets
 burleycue
