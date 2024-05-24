@@ -3739,7 +3739,6 @@ alphabetics
 adenophorous
 accumulative
 adenopodous
-adenosarcoma
 adenosarcomata
 adenosclerosis
 adiaphoristic
@@ -19122,6 +19121,7 @@ archknave
 ageless
 aponeurology
 archlet
+adenosarcoma
 absinthin
 archleveler
 archlexicographer
