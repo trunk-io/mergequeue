@@ -5605,6 +5605,7 @@ eastwards
 exporting
 epicritic
 enforth
+econ
 estrangle
 enfoulder
 epithi
@@ -7906,7 +7907,6 @@ endamaged
 epopt
 epilabra
 epilate
-econ
 earthman
 exquisitive
 epilating
