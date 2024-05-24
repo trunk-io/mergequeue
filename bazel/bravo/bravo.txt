@@ -755,7 +755,6 @@ badges
 baddy
 badging
 badgir
-badhan
 badiaga
 breathy
 brassage
@@ -14614,6 +14613,7 @@ bolson
 brassbound
 biacetyl
 brassbounder
+badhan
 brasse
 brassey
 basketful
