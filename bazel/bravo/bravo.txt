@@ -13230,7 +13230,6 @@ bosporanic
 bosque
 bosques
 bosquet
-britoness
 bossage
 bossboy
 bossdom
@@ -17128,6 +17127,7 @@ burghmote
 boleite
 breadseller
 bulletmaking
+britoness
 bulletproof
 bulletproofed
 bulletproofing
