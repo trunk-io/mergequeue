@@ -4,6 +4,7 @@ guanins
 gabardine
 gabardines
 gabarit
+guser
 gophers
 gaby
 gaseliers
@@ -10678,7 +10679,6 @@ gurus
 glairing
 gurging
 gu
-guser
 galanas
 gush
 garvock
