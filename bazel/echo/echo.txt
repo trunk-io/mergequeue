@@ -423,7 +423,6 @@ ecardines
 ecarte
 ecaudata
 ethenyl
-ecaudate
 ernest
 ecballium
 ecblastesis
@@ -7932,6 +7931,7 @@ erogeneity
 enneastylar
 epilobe
 ended
+ecaudate
 ergophobic
 elaphure
 enframes
