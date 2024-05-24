@@ -2687,7 +2687,6 @@ electrothermic
 endomycetaceae
 electrothermometer
 evanish
-electiveness
 electrothermotic
 exogastritis
 electrotype
@@ -10889,6 +10888,7 @@ eupanorthus
 endarteria
 eupatorium
 eupatrid
+electiveness
 eupatridae
 eupatrids
 eluent
