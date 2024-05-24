@@ -5567,7 +5567,6 @@ gliffy
 glyptotheca
 goujon
 glyptotherium
-globeholder
 glires
 gliridae
 glirine
@@ -8653,6 +8652,7 @@ gristliness
 glossingly
 groundenell
 girded
+globeholder
 grubby
 gambit
 garrets
