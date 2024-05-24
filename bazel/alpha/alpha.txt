@@ -2375,7 +2375,6 @@ acidometer
 acidometry
 antinationalization
 asmear
-acidophil
 acidophile
 acidophilic
 acidophilus
@@ -13690,6 +13689,7 @@ annuller
 annulling
 annulment
 anaretic
+acidophil
 annulments
 annuloid
 annuloida
