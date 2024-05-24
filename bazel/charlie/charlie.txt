@@ -9612,7 +9612,6 @@ checksumming
 castro
 checkups
 capacitively
-checkweighman
 checkweighmen
 checkwork
 cosmologist
@@ -19050,6 +19049,7 @@ collembole
 collembolous
 collenchymatic
 collenchymatous
+checkweighman
 collenchyme
 cantinas
 collencyte
