@@ -17115,6 +17115,7 @@ coadjacence
 chemotherapeutic
 cohesive
 coadjacent
+colletes
 coadjudicator
 coadjument
 coadjustment
@@ -19059,7 +19060,6 @@ colleted
 colleter
 colleterium
 chelone
-colletes
 counterpose
 colletia
 colletidae
