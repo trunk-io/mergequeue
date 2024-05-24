@@ -10934,7 +10934,6 @@ chippings
 chipproof
 crucifying
 clocher
-clipperman
 chypre
 cottonpicking
 chipwood
@@ -22232,6 +22231,7 @@ cafes
 chamaerrhine
 cohobation
 congealable
+clipperman
 compeered
 congealableness
 criticises
