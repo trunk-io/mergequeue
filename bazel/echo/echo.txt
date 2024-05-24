@@ -6718,7 +6718,6 @@ exhilarate
 enthral
 enthralldom
 enthralling
-exurb
 enthralment
 enthrals
 enthrill
@@ -7704,6 +7703,7 @@ ejulation
 elytroplastic
 emulsification
 epeirogeny
+exurb
 epidemiology
 equilibration
 epidemiologic
