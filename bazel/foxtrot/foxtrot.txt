@@ -3794,6 +3794,7 @@ filmmake
 fullword
 filmogen
 filmography
+freity
 filmographies
 freewheeler
 flaking
@@ -9564,7 +9565,6 @@ flattop
 frazzled
 frazzling
 frden
-freity
 freakdom
 fentanyl
 freaked
