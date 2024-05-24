@@ -4031,7 +4031,6 @@ feel
 fletchings
 finishable
 finisher
-fadable
 finishers
 finishes
 finites
@@ -4844,6 +4843,7 @@ firmhearted
 ferrimagnetism
 fasher
 frightenedness
+fadable
 ferrety
 flaite
 flaithship

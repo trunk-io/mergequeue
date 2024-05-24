@@ -11979,7 +11979,6 @@ boggles
 boggling
 boskage
 bogglish
-bogy
 bogydom
 bogieman
 bullfinch
@@ -15288,6 +15287,7 @@ bedstaves
 briered
 brainwasher
 brierroot
+bogy
 bries
 balantidiosis
 bonnetless
