@@ -3138,7 +3138,6 @@ cede
 capetown
 cacochymic
 capeweed
-coverlet
 capewise
 capework
 capeworks
@@ -22567,6 +22566,7 @@ conjunctures
 conjuration
 conjurations
 conjurator
+coverlet
 cesar
 conjured
 conjurement
