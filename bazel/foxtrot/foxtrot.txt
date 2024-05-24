@@ -667,6 +667,7 @@ fameworthy
 forereport
 fusser
 familial
+funori
 fowling
 finessing
 forerib
@@ -6332,7 +6333,6 @@ flummer
 flickerproof
 flintlocks
 finned
-funori
 fribblery
 fettling
 focometer
