@@ -4797,6 +4797,7 @@ brandishers
 bedlamizing
 bedlamps
 bedlams
+balkily
 bursula
 bottled
 bedlar
@@ -9714,7 +9715,6 @@ bisdimethylamino
 bicapsular
 bisect
 bisected
-balkily
 bisecting
 bisection
 bisectors
