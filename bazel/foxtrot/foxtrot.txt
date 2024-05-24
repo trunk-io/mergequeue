@@ -2749,6 +2749,7 @@ ferulae
 floodwall
 frenzies
 faithing
+flaggella
 fwd
 falanaka
 fervidly
@@ -4821,7 +4822,6 @@ fault
 fissional
 flaying
 fittedness
-flaggella
 fluidify
 flivvers
 foothook
