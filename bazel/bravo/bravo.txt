@@ -4091,7 +4091,6 @@ baclin
 beakers
 boltheads
 beakiron
-bosselated
 beakless
 bebatter
 beaklike
@@ -11752,6 +11751,7 @@ bobet
 bumkins
 bobflies
 bananas
+bosselated
 bobfloat
 bobierrite
 bobization
