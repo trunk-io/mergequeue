@@ -1948,7 +1948,6 @@ acetable
 acetabula
 acetabular
 acetabularia
-acetabuliform
 acetabulous
 alacrify
 acetabulum
@@ -3909,6 +3908,7 @@ aerothermodynamic
 aspiringness
 abseil
 adipyl
+acetabuliform
 adipinic
 adipocellulose
 adipocere
