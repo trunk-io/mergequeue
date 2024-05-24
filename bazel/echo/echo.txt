@@ -5699,7 +5699,6 @@ engirdled
 earthmover
 exodromy
 eructed
-exungulate
 everywhereness
 engirdling
 engirds
@@ -6062,6 +6061,7 @@ enmesh
 enmeshed
 epicentre
 enmeshment
+exungulate
 estated
 enmity
 ethicizes
