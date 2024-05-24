@@ -150,7 +150,6 @@ glaces
 gregorianist
 grobianism
 gastroscope
-guelf
 gadwall
 glycerizin
 gyve
@@ -2678,6 +2677,7 @@ grondwet
 gnome
 generalizers
 gasthaus
+guelf
 granodiorite
 goo
 gamodeme
