@@ -5466,6 +5466,7 @@ begroan
 baileys
 brachycardia
 begroans
+benzothiophene
 bibliopolism
 begrown
 begrudge
@@ -6572,7 +6573,6 @@ benzothiazoline
 benzothiodiazole
 biternate
 benzothiofuran
-benzothiophene
 benzothiopyran
 benzotriazole
 benzotrichloride
