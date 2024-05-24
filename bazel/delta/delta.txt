@@ -1302,6 +1302,7 @@ detonators
 daughterkin
 desorb
 daughterly
+domiciling
 destin
 daughterliness
 daughterling
@@ -8914,7 +8915,6 @@ dichloride
 dichloroacetic
 dichlorobenzene
 dichlorodifluoromethane
-domiciling
 dharana
 discitis
 dichlorodiphenyltrichloroethane
