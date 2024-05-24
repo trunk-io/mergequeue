@@ -5004,6 +5004,7 @@ eucosmid
 endlichite
 endosteally
 endlong
+equipper
 endmost
 eternize
 enrage
@@ -6765,7 +6766,6 @@ enticers
 empyema
 exhalatory
 evanid
-equipper
 entify
 enemied
 entifical
