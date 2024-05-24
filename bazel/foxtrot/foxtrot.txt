@@ -3675,7 +3675,6 @@ firing
 filigrained
 foliating
 fanged
-freshed
 foibles
 firstborn
 filigrane
@@ -11437,6 +11436,7 @@ furnishing
 fireboxes
 furnishment
 felup
+freshed
 flatterous
 furnishness
 felspars
