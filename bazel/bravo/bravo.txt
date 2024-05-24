@@ -1915,6 +1915,7 @@ banjoist
 biostatics
 bandit
 branle
+berteroa
 belauder
 bandits
 bandle
@@ -6924,7 +6925,6 @@ berskin
 berhyme
 bert
 bugshas
-berteroa
 berth
 berthas
 berthed
