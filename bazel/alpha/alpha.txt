@@ -2683,7 +2683,6 @@ acquiescingly
 agapeic
 allocated
 auxoflore
-acquiet
 acquirable
 approximated
 acquire
@@ -13795,6 +13794,7 @@ anomiacea
 anomic
 ashman
 apodictic
+acquiet
 atrabilarian
 anomie
 anomite
