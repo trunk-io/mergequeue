@@ -5259,6 +5259,7 @@ befretting
 buoyage
 befriended
 befriender
+benignly
 befriending
 barns
 beadhouse
@@ -6370,7 +6371,6 @@ barked
 benignant
 breechloader
 benignity
-benignly
 becharm
 basidiolichenes
 benim
