@@ -3445,7 +3445,6 @@ capsids
 capsizable
 capsizal
 caballeria
-capsized
 capsizes
 capsizing
 capsomer
@@ -5418,6 +5417,7 @@ castors
 castra
 castrater
 castrates
+capsized
 covertical
 comdt
 classic
