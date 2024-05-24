@@ -6207,7 +6207,6 @@ germanium
 geds
 gnats
 geopolitically
-gnatsnap
 grume
 gablock
 gonococcoid
@@ -8075,6 +8074,7 @@ gadus
 granulators
 gripper
 guanidins
+gnatsnap
 granulet
 galuth
 granulization
