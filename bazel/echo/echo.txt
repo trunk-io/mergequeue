@@ -6710,7 +6710,6 @@ exstimulate
 entete
 etherate
 enthean
-entheasm
 enthelminthic
 enthetic
 enthymematic
@@ -7305,6 +7304,7 @@ ellasar
 ecdysons
 epalpebrate
 epanadiplosis
+entheasm
 epanalepsis
 evanition
 escruage
