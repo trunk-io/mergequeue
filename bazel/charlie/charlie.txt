@@ -6717,7 +6717,6 @@ celebs
 celemin
 celemines
 celery
-celeriac
 cypres
 celeries
 celerities
@@ -10332,6 +10331,7 @@ chiccory
 calycanthemous
 carnalities
 chicer
+celeriac
 cnidocyst
 committer
 chicest
