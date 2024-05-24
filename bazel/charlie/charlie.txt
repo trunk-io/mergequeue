@@ -7356,7 +7356,6 @@ cephalaspis
 cocoonery
 chemoautotrophic
 cephalata
-cephalate
 cephalemia
 cephaletron
 cephalhematoma
@@ -26717,6 +26716,7 @@ counteractively
 chinchier
 counteractivity
 counteracts
+cephalate
 columbium
 chwas
 counterintelligence
