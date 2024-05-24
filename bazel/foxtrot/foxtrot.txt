@@ -4998,7 +4998,6 @@ faconne
 flapdock
 fluvialist
 flaperon
-flirter
 festivals
 flappable
 foremark
@@ -8119,6 +8118,7 @@ fencer
 fellatrix
 foretopmen
 foretops
+flirter
 foretrace
 fluviovolcanic
 foreuse
