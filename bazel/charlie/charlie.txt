@@ -12426,7 +12426,6 @@ chromatogram
 cinchonia
 chromatographic
 chromatographically
-chromatoid
 chromatolysis
 conquerable
 chromatolytic
@@ -23202,6 +23201,7 @@ counterradiation
 constitutionless
 constitutions
 chawle
+chromatoid
 constitutive
 constitutively
 constitutiveness
