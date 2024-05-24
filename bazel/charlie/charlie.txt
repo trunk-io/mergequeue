@@ -4274,6 +4274,7 @@ caretake
 caretaker
 caretakers
 cattie
+chopines
 caretaking
 caretook
 carets
@@ -11897,7 +11898,6 @@ chophouse
 cyprinoidea
 cereus
 chopine
-chopines
 chopins
 choplogic
 choplogical
