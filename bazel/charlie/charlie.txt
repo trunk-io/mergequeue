@@ -7965,7 +7965,6 @@ cesta
 cestidae
 cestode
 cestodes
-cestoi
 copatron
 chamberwoman
 coronize
@@ -14264,6 +14263,7 @@ circularism
 circularities
 clink
 caulerpa
+cestoi
 colanders
 circularization
 circularizer
