@@ -4644,6 +4644,7 @@ gills
 garlicky
 gyral
 getter
+gaeltacht
 ghetti
 gigantine
 girasol
@@ -8266,7 +8267,6 @@ glittery
 garnisher
 grasshouse
 gentlemanlike
-gaeltacht
 grassy
 graminaceae
 gallycrow
