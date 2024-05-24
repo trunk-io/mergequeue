@@ -9425,7 +9425,6 @@ deactivator
 difunctional
 disenroll
 disemploying
-dig
 disheathing
 digallic
 dehematize
@@ -15371,6 +15370,7 @@ domiciled
 domicilement
 domiciles
 domiciliate
+dig
 domiciliated
 domiciliating
 domify
