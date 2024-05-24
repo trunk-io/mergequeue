@@ -777,7 +777,6 @@ badlands
 buba
 bat
 badman
-badmash
 badmen
 brushcut
 besodden
@@ -18241,6 +18240,7 @@ butterflyfishes
 balistarius
 butterflying
 butterflylike
+badmash
 butterflower
 bosks
 butterhead
