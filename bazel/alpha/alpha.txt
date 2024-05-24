@@ -3552,6 +3552,7 @@ additivity
 additory
 augustin
 additum
+anticyclically
 acetimeter
 additur
 addle
@@ -14934,7 +14935,6 @@ anticyclic
 attern
 anticyclical
 apocodeine
-anticyclically
 anticyclogenesis
 anticyclolysis
 aphotic
