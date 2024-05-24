@@ -19160,7 +19160,6 @@ archocystosyrinx
 archology
 annam
 archon
-archonship
 archonships
 archontia
 abrades
@@ -21838,6 +21837,7 @@ assignability
 assignable
 assignably
 assignat
+archonship
 assignation
 assignats
 ambiparous
