@@ -5919,6 +5919,7 @@ enjail
 enjambment
 emetomorphine
 enjambments
+equate
 ectomere
 encumbrancer
 enjoy
@@ -8561,7 +8562,6 @@ equanimousness
 endomictic
 equatability
 equatable
-equate
 equating
 essentializing
 eastlin
