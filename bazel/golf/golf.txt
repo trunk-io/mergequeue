@@ -5816,7 +5816,6 @@ gruis
 goldless
 glossarize
 glossas
-gasify
 gymnogene
 glossator
 gumflower
@@ -9436,6 +9435,7 @@ gros
 glim
 gonadectomizing
 groundskeeping
+gasify
 gasped
 generating
 graphotypic
