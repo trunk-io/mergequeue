@@ -1882,7 +1882,6 @@ banderole
 brigading
 banders
 banjara
-bandersnatch
 bandfile
 bandfiled
 bandgap
@@ -12975,6 +12974,7 @@ booziest
 balawu
 boozify
 bombycillidae
+bandersnatch
 booziness
 bop
 bopeep
