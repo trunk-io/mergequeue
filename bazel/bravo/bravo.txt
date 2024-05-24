@@ -3342,6 +3342,7 @@ basker
 basket
 basketballer
 basketballs
+burd
 basketfuls
 bay
 bathers
@@ -17525,7 +17526,6 @@ beflower
 burbolt
 burbot
 burbs
-burd
 burdalone
 brosse
 bemuse
