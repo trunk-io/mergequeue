@@ -1694,7 +1694,6 @@ eyeberry
 ethnobiological
 ertebolle
 endonuclear
-endostome
 eyeblack
 eyeblink
 eyebright
@@ -12069,6 +12068,7 @@ ellachick
 endochrome
 extrication
 excoriated
+endostome
 electroanalysis
 excoriating
 enrages
