@@ -1388,7 +1388,6 @@ endochylous
 exhortation
 ephemerons
 effigiate
-effigiating
 epeidia
 effigies
 epilaryngeal
@@ -9509,6 +9508,7 @@ entoplastral
 escarp
 escarping
 escarpment
+effigiating
 epipodium
 escarpments
 eodiscid
