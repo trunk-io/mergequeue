@@ -18090,7 +18090,6 @@ capouch
 cherty
 coenesthesia
 coenesthesis
-coenflame
 coengage
 coengager
 caverns
@@ -25699,6 +25698,7 @@ corpuscularian
 chapfallen
 confinedness
 completed
+coenflame
 corpuscularity
 corpuscule
 corpusculous
