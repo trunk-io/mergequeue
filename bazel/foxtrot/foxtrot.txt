@@ -1867,6 +1867,7 @@ februation
 furniment
 fluocerite
 fec
+fight
 fecaloid
 fruittime
 fecial
@@ -3492,7 +3493,6 @@ femes
 foreskirt
 fleeches
 flacker
-fight
 fightable
 fingerable
 forel
