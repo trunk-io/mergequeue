@@ -1189,7 +1189,6 @@ bakal
 biasteric
 blowcase
 bake
-benettle
 brew
 bonus
 burrish
@@ -15332,6 +15331,7 @@ brigittine
 bicuspids
 bricklay
 brigous
+benettle
 borasco
 bimonthly
 brigs
