@@ -2457,6 +2457,7 @@ dialogs
 degorder
 decimetre
 decimolar
+discumber
 diplacusis
 driegh
 daysman
@@ -11829,7 +11830,6 @@ discumb
 deathwatch
 dustbin
 dissenterism
-discumber
 discure
 dacha
 disgorger
