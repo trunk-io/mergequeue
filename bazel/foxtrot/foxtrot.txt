@@ -3833,7 +3833,6 @@ fathercraft
 faze
 forenoted
 foliole
-fatlike
 freckleproof
 flauto
 froze
@@ -3942,6 +3941,7 @@ fraple
 ferrocyanogen
 flowerier
 feast
+fatlike
 flabrum
 forfeiture
 fluoresces
