@@ -872,7 +872,6 @@ gyppo
 gobbing
 gletty
 galoots
-goldarns
 gambist
 gambits
 gamblesomeness
@@ -4494,6 +4493,7 @@ globules
 ginglymodian
 ganged
 glowflies
+goldarns
 gharries
 ginglymostoma
 graces
