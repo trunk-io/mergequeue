@@ -2313,7 +2313,6 @@ glossopathy
 gonococcus
 geejee
 grounding
-geelbeck
 geelbek
 galipots
 geepounds
@@ -3575,6 +3574,7 @@ geste
 gyrinid
 ginglyform
 gested
+geelbeck
 gingham
 graphonomy
 gussied
