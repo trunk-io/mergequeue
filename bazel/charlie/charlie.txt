@@ -5142,6 +5142,7 @@ caseose
 caseous
 caserios
 cowpunch
+chronal
 caserne
 casernes
 caserns
@@ -27549,7 +27550,6 @@ covenanted
 covenantee
 covenanter
 covenanting
-chronal
 corolliform
 covenants
 covent
