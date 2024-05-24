@@ -2659,7 +2659,6 @@ adjectivally
 aerographic
 amidocyanogen
 ageism
-audivision
 acquaintedness
 acquainting
 acquest
@@ -5193,6 +5192,7 @@ aesopian
 aesopic
 aestethic
 aesthesodic
+audivision
 aesthete
 aesthetes
 aesthetic
