@@ -3892,7 +3892,6 @@ gibsons
 gibstaff
 galeche
 gavelage
-gibuses
 giddap
 guideless
 goff
@@ -4083,6 +4082,7 @@ gila
 gnomological
 gearksutite
 gilaki
+gibuses
 gilbert
 gilbertese
 gilbertian
