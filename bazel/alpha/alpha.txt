@@ -2722,7 +2722,6 @@ acrasin
 advertizer
 allergic
 acraspedote
-apartment
 acraturesis
 acrawl
 acre
@@ -19135,6 +19134,7 @@ amentias
 archmachine
 archmagician
 adread
+apartment
 archmagirist
 alar
 archmarshal
