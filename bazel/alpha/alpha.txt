@@ -5878,7 +5878,6 @@ agapeti
 agapetid
 arretine
 agapetidae
-agennetic
 agar
 agaricaceae
 agaricaceous
@@ -23670,6 +23669,7 @@ aurung
 adjustive
 auscultascope
 autoregenerator
+agennetic
 auscultate
 adzes
 andropetalar
