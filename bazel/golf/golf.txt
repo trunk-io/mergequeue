@@ -52,7 +52,6 @@ gouty
 gabioned
 grammes
 gabions
-gelding
 greystone
 guardian
 gelatiniser
@@ -6094,6 +6093,7 @@ gardencraft
 gazogenes
 glutamine
 genevois
+gelding
 ginkgoes
 garigue
 gymnemic
