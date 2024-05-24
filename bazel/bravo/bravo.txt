@@ -9155,7 +9155,6 @@ bedstands
 bioluminescence
 blighties
 biomagnetic
-biomagnetism
 bewhite
 biomasses
 biomathematics
@@ -18091,6 +18090,7 @@ busto
 busts
 busulfans
 buroo
+biomagnetism
 bibliophily
 busuuti
 brazilins

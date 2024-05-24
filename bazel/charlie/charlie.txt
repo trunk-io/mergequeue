@@ -11316,7 +11316,6 @@ chlorin
 casuariidae
 chlorinated
 chlorinates
-chlorinating
 chlorination
 chlorinator
 chlorines
@@ -25098,6 +25097,7 @@ core
 coreceiver
 corecipient
 coreciprocal
+chlorinating
 corectome
 cracovienne
 corectomy
