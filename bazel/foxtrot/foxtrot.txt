@@ -3245,7 +3245,6 @@ fusilade
 flavourer
 flotages
 furling
-ficins
 ficklest
 ficklety
 fosterable
@@ -10503,6 +10502,7 @@ focalization
 frostfish
 frosty
 fantasticality
+ficins
 foamers
 frostily
 frostiness
