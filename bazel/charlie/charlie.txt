@@ -12490,7 +12490,6 @@ chromiums
 clerisy
 colder
 chromize
-cyanopsia
 contextual
 chromized
 copromisor
@@ -20626,6 +20625,7 @@ competition
 cumulet
 congreve
 competitions
+cyanopsia
 competitive
 competitively
 carnary
