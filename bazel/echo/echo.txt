@@ -919,7 +919,6 @@ enterospasm
 equivalences
 empirically
 ectosphenotic
-excantation
 ectosphere
 ectostosis
 emulgens
@@ -8410,6 +8409,7 @@ explementary
 emotionable
 epitonion
 existents
+excantation
 epitra
 epitrachelia
 elfish
