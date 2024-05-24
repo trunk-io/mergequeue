@@ -15307,6 +15307,7 @@ antiferromagnet
 antiferromagnetic
 antiferromagnetism
 antifertility
+adamantoma
 antifertilizer
 accreditation
 alightment
@@ -20638,7 +20639,6 @@ arthrolith
 arthromere
 arthromeric
 arthrometer
-adamantoma
 arthrometry
 aswithe
 arthroncus
