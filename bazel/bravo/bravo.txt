@@ -6782,7 +6782,6 @@ berycidae
 bituberculate
 biarticulated
 bambinos
-berycine
 berycoid
 bansalague
 bridgeboard
@@ -14616,6 +14615,7 @@ bolson
 brassbound
 biacetyl
 brassbounder
+berycine
 brasse
 brassey
 basketful
