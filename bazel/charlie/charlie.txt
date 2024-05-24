@@ -9168,7 +9168,6 @@ charqued
 charqui
 charquid
 charr
-charras
 charre
 charred
 charrette
@@ -17655,6 +17654,7 @@ cost
 cocculus
 convertend
 coccus
+charras
 chalazogamy
 commoner
 coch
