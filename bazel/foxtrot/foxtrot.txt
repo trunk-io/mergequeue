@@ -1673,7 +1673,6 @@ fipenny
 fconv
 farcin
 familiar
-four
 fdnames
 fdub
 flamboyantly
@@ -2061,6 +2060,7 @@ frontspiece
 filacer
 feinter
 feudary
+four
 facedown
 faucalize
 flub
