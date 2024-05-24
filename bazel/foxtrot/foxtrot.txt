@@ -533,6 +533,7 @@ falern
 falerno
 fall
 fissirostral
+fastly
 flyability
 fallage
 fallals
@@ -7617,7 +7618,6 @@ foredune
 firy
 ferroglass
 forefathers
-fastly
 falcular
 fescenninity
 forefeelingly
