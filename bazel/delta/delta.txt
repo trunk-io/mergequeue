@@ -5999,7 +5999,6 @@ deinodontidae
 depeculate
 duodecimo
 deprogrammings
-deprograms
 deprome
 deprostrate
 deducibleness
@@ -15449,6 +15448,7 @@ dominus
 dozy
 domite
 domitian
+deprograms
 domitic
 domn
 dolf
