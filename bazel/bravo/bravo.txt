@@ -1539,6 +1539,7 @@ backsword
 butomus
 ballaster
 ballastic
+brevet
 ballasting
 ballat
 ballata
@@ -3140,7 +3141,6 @@ behove
 basenesses
 basenji
 bodge
-brevet
 briskly
 basenjis
 butles
