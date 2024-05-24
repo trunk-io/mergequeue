@@ -2278,7 +2278,6 @@ eches
 electrization
 episcleritis
 earthenware
-encrypting
 epigonus
 electroacoustic
 electroacoustical
@@ -5362,6 +5361,7 @@ evangelium
 envisioned
 endotys
 endotracheal
+encrypting
 endovaccination
 ecclesial
 engirdles

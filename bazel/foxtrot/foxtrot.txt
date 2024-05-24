@@ -3321,7 +3321,6 @@ fiddlery
 fiddles
 faunology
 fructifying
-foreknowable
 fiddlestick
 fiddlesticks
 ferrel
@@ -7607,6 +7606,7 @@ flavorings
 foredevote
 fermentation
 figments
+foreknowable
 ficoidal
 flacherie
 forficulate
