@@ -4638,7 +4638,6 @@ bedad
 bladeless
 basecoat
 bedaggle
-beday
 biddable
 bedamned
 bedamning
@@ -13590,6 +13589,7 @@ berggylt
 boulimia
 boogerman
 bornyl
+beday
 boogaloo
 boulles
 boullework
