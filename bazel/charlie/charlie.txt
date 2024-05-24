@@ -18227,7 +18227,6 @@ coexist
 corflambo
 coexistence
 coexisting
-coexpand
 coexpanded
 coexperiencer
 coextend
@@ -24625,6 +24624,7 @@ copydesk
 copied
 copier
 cerebrogalactose
+coexpand
 copies
 copyfitter
 comvia
