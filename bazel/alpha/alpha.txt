@@ -4423,7 +4423,6 @@ adriatic
 adrienne
 aumbry
 acheirus
-autophyllogeny
 archiblast
 adrift
 adrogate
@@ -7808,6 +7807,7 @@ alcumy
 ald
 agrito
 aldane
+autophyllogeny
 alaite
 aldea
 antichresis
