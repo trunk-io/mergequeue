@@ -502,7 +502,6 @@ boshboks
 backstick
 backstitch
 backstitched
-biserial
 billhead
 biscot
 backstitches
@@ -11003,6 +11002,7 @@ blinked
 beckets
 beadroll
 blinker
+biserial
 blinkered
 blinkering
 backslides
