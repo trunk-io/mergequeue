@@ -3108,7 +3108,6 @@ algin
 actinometry
 actinometric
 actinometrical
-actinometricy
 actinomyces
 actinomycese
 ariadne
@@ -23825,6 +23824,7 @@ authentically
 authenticate
 authenticated
 authenticates
+actinometricy
 authentication
 athetosic
 angularization
