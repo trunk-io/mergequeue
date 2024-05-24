@@ -1975,7 +1975,6 @@ ekasilicon
 epop
 ekebergite
 ekename
-etymologisable
 exteriorate
 eagle
 eker
@@ -11225,6 +11224,7 @@ exteriors
 enucleation
 evade
 evaded
+etymologisable
 earthlier
 electroergometer
 evades
