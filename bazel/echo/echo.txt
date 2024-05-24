@@ -6455,7 +6455,6 @@ ensurance
 ensures
 ensuring
 equators
-enswathe
 electrophotographic
 enswathement
 enswathes
@@ -13467,6 +13466,7 @@ exsanguine
 eristic
 exsanguineous
 exsanguinous
+enswathe
 equipollence
 expose
 erotology
