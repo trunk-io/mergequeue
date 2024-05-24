@@ -1707,6 +1707,7 @@ forvay
 fluellin
 fearful
 fifteenthly
+foresentence
 fathometer
 frypan
 faucets
@@ -2773,7 +2774,6 @@ fesse
 frankfold
 fessed
 foldouts
-foresentence
 fellinic
 federator
 fesses
