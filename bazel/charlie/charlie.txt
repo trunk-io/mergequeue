@@ -520,7 +520,6 @@ cadetcy
 cadets
 cadetship
 cadette
-cadettes
 coulis
 coprecipitating
 competence
@@ -11151,6 +11150,7 @@ chytroi
 chits
 chittack
 chitted
+cadettes
 chitter
 chitterling
 chutney
