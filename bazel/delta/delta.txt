@@ -7433,7 +7433,6 @@ destitutely
 detrimentally
 detrited
 deglute
-detrition
 dancer
 drumfire
 deselect
@@ -17576,6 +17575,7 @@ daniglacial
 drumfishes
 drumhead
 drumler
+detrition
 drumly
 dinosaurs
 drumlier
