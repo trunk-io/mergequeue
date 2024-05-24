@@ -6704,7 +6704,6 @@ berdache
 berdaches
 berdash
 birotation
-bewrap
 baryglossia
 betons
 bere
@@ -12039,6 +12038,7 @@ beverly
 bosser
 boy
 boyang
+bewrap
 boyard
 boyardism
 beefing
