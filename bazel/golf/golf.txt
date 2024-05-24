@@ -3043,7 +3043,6 @@ glumpish
 geochronology
 gifting
 geocyclic
-geocline
 gnat
 glideless
 geocoronium
@@ -3183,6 +3182,7 @@ ganglion
 galimatias
 geophagia
 geophagies
+geocline
 gipping
 geophagism
 globigerine
