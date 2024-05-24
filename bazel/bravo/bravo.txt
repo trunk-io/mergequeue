@@ -8067,7 +8067,6 @@ bibliosoph
 bibliotaphe
 bibliothecae
 bibliothecal
-bibliothecarian
 bibliothecas
 beshag
 blake
@@ -18309,6 +18308,7 @@ button
 buttonball
 burtons
 buttonbush
+bibliothecarian
 buttoned
 borealis
 baddishly
