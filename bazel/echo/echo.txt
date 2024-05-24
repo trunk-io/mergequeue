@@ -690,7 +690,6 @@ epicism
 enanthesis
 ecodeme
 ecol
-ecole
 eidolism
 espousal
 ecology
@@ -13227,6 +13226,7 @@ epomophorus
 explodes
 exploit
 exploitable
+ecole
 exploitatory
 exploited
 ensindon
