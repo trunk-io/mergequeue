@@ -2345,6 +2345,7 @@ fanglement
 fatherlessness
 faunule
 fenestrato
+fixable
 ficaria
 fenetre
 fenman
@@ -11637,7 +11638,6 @@ forearmed
 fustians
 fustics
 fustigated
-fixable
 frolicsomely
 fibrous
 ficoes
