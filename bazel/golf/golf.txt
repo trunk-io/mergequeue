@@ -1423,7 +1423,6 @@ garlandry
 galvanist
 garlic
 glycolylurea
-garliclike
 geoside
 galloner
 glorifier
@@ -4905,6 +4904,7 @@ goaltending
 giveable
 gatecrashers
 gederite
+garliclike
 gunbright
 gandhism
 gant
