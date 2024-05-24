@@ -8265,7 +8265,6 @@ faitery
 forgoes
 forgette
 forgoing
-forgotten
 fusspots
 forebodies
 forgrow
@@ -10833,6 +10832,7 @@ fucus
 fucused
 facepiece
 fricasseed
+forgotten
 fanegas
 fuddlement
 fuddler
