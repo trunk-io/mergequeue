@@ -3278,6 +3278,7 @@ actuating
 actuation
 actuator
 actuators
+anaphases
 acture
 acturience
 actus
@@ -11944,7 +11945,6 @@ anapest
 aviational
 anaphalantiasis
 acquiesence
-anaphases
 amidols
 anaphe
 apperception
