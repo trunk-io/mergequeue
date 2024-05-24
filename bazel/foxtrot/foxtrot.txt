@@ -2555,7 +2555,6 @@ fawnskin
 fastus
 forehorse
 ferox
-fossilized
 forcy
 fainthearted
 flockier
@@ -8733,6 +8732,7 @@ forbiddable
 flogged
 fortunetelling
 fortunite
+fossilized
 followership
 fortuuned
 forwalk

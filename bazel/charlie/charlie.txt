@@ -8769,6 +8769,7 @@ channels
 channelure
 chanoyu
 chansonette
+commissionaire
 chansonnette
 chansonniers
 chant
@@ -9568,7 +9569,6 @@ carpodacus
 capos
 checkerwise
 checkerwork
-commissionaire
 checkhook
 checky
 checklaton
