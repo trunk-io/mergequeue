@@ -10524,6 +10524,7 @@ etiolize
 etiology
 etiological
 endrumpf
+endogamy
 etiologist
 emetology
 etiologue
@@ -14174,7 +14175,6 @@ exultant
 entone
 exultantly
 exultingly
-endogamy
 emancipate
 exults
 exumbral
