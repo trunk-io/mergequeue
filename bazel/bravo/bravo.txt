@@ -2828,6 +2828,7 @@ barothermograph
 barothermohygrograph
 baroto
 borophenol
+blubbed
 barotrauma
 bulgurs
 babi
@@ -11380,7 +11381,6 @@ bls
 badgerbrush
 blub
 blickey
-blubbed
 blubber
 bhar
 bluntest
