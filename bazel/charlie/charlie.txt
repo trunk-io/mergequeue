@@ -2138,6 +2138,7 @@ campions
 calcaneus
 cample
 chaetopoda
+caecias
 cornamute
 campo
 campodean
@@ -19124,7 +19125,6 @@ colline
 collections
 collinearity
 collineation
-caecias
 collingly
 cocainise
 carbin
