@@ -8129,7 +8129,6 @@ epiprecoracoid
 exostracize
 extrude
 excludingly
-epipterygoid
 elegant
 euxanthate
 epipterous
@@ -10264,6 +10263,7 @@ extraditing
 etherizing
 encoders
 eudora
+epipterygoid
 ethernet
 ecclesiolater
 etherous
