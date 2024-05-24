@@ -8670,7 +8670,6 @@ bailees
 babbittian
 billfold
 byliner
-bylines
 brave
 bilingual
 bilinguality
@@ -8871,6 +8870,7 @@ bandicoots
 belching
 bulldoggish
 bimetallism
+bylines
 bimetallist
 bimetallistic
 betoss
