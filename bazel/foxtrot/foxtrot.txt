@@ -5260,7 +5260,6 @@ flaxwoman
 flagmaking
 formonitrile
 flb
-fumarole
 fant
 fantaddish
 federacy
@@ -8245,6 +8244,7 @@ faroff
 forgiveably
 flirting
 fractious
+fumarole
 forgiveless
 forewarn
 forgivenesses
