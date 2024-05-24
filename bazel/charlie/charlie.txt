@@ -1087,7 +1087,6 @@ calcine
 calcined
 calciner
 compared
-calcines
 calcinize
 chomer
 counteraffirmation
@@ -19003,6 +19002,7 @@ collectible
 chelonid
 collecting
 collection
+calcines
 collective
 changed
 collectivise
