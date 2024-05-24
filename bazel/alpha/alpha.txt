@@ -5068,6 +5068,7 @@ aerological
 aerologies
 aerologist
 aerologists
+ariole
 aeromancer
 aeromechanic
 aeromechanics
@@ -7435,7 +7436,6 @@ axlike
 asparagus
 albe
 awmbrie
-ariole
 anglesite
 albedo
 albedograph
