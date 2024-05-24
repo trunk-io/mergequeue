@@ -7552,7 +7552,6 @@ ceratospongian
 ceratostomataceae
 ceratostomella
 ceratotheca
-ceratozamia
 cypridinidae
 copei
 clergyman
@@ -30585,6 +30584,7 @@ cucularis
 cachila
 cestos
 cucule
+ceratozamia
 credensive
 cuculiform
 choregraphic

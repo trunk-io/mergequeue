@@ -12881,7 +12881,6 @@ buckplate
 boltuprightness
 boons
 boophilus
-boopis
 boor
 boorga
 bedsheet
@@ -15165,6 +15164,7 @@ burut
 brickle
 bulbospinal
 brickly
+boopis
 bricklike
 bloodguilty
 bowlin
