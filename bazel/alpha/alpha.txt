@@ -3863,7 +3863,6 @@ appaume
 adiaphoron
 anisopterous
 adiapneustia
-adiated
 adiathermal
 adiathermancy
 adiathermic
@@ -4890,6 +4889,7 @@ abaris
 aequi
 arariba
 aequipalpia
+adiated
 aranein
 attemperation
 aequor
