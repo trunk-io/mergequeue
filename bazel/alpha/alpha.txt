@@ -5168,6 +5168,7 @@ aerotonometric
 antepagmenta
 angiocarpy
 aerotropism
+allantois
 aeroview
 aeruginous
 aerugo
@@ -20547,7 +20548,6 @@ aerophilatelic
 arteriometer
 arteriomotor
 arterionecrosis
-allantois
 arteriopalmus
 arterioplasty
 arteriopressor
