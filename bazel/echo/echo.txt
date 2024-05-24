@@ -919,7 +919,6 @@ enterospasm
 equivalences
 empirically
 ectosphenotic
-excantation
 ectosphere
 ectostosis
 emulgens
@@ -12785,6 +12784,7 @@ emblems
 encephalomere
 exospore
 exossate
+excantation
 exostoses
 extorting
 expunger
