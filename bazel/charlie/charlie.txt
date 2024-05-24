@@ -1867,6 +1867,7 @@ cambuscan
 came
 camel
 camelback
+caudally
 cameleer
 culverins
 cameleon
@@ -6169,7 +6170,6 @@ caudad
 caudae
 caudaite
 caudal
-caudally
 caudata
 cloudlet
 chateus
