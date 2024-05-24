@@ -18317,7 +18317,6 @@ aquatintist
 aquatints
 ascender
 aquatone
-abampere
 acidemias
 aquavit
 amphithuron
@@ -25330,6 +25329,7 @@ antireactionaries
 azophenetole
 alp
 azophenyl
+abampere
 azophenine
 azophosphore
 azoprotein
