@@ -3870,7 +3870,6 @@ executers
 emigration
 emigrationist
 emigrator
-eclogues
 equivote
 electrotonus
 emilia
@@ -12638,6 +12637,7 @@ exoderms
 exody
 elaphodus
 equiaxial
+eclogues
 exodic
 erythrocyte
 exodontia
