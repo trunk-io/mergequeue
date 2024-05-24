@@ -3749,6 +3749,7 @@ boobialla
 birdlore
 batteaux
 bonnering
+billingsgate
 batteling
 bascule
 battels
@@ -5707,7 +5708,6 @@ brokenness
 bioral
 bilbie
 belah
-billingsgate
 belaying
 belam
 belamcanda
