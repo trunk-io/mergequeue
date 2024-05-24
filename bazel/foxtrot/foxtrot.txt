@@ -1554,7 +1554,6 @@ faust
 feverishness
 faustian
 familiarising
-feedingstuff
 faute
 fanfaron
 foreshift
@@ -9831,6 +9830,7 @@ fraicheur
 frenzy
 fabrics
 figurability
+feedingstuff
 freq
 frequence
 frequent
