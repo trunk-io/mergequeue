@@ -3413,7 +3413,6 @@ filtre
 fops
 fallibility
 fractonimbus
-firmation
 flowcharts
 fiendish
 fascicular
@@ -11178,6 +11177,7 @@ funfair
 footbath
 featherway
 flashtester
+firmation
 figged
 frowy
 fungation
