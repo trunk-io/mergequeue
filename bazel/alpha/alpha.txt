@@ -6770,7 +6770,6 @@ asteam
 ailuridae
 ailuro
 ailuroid
-ankyloblepharon
 acetylenation
 anthraxolite
 ambitionless
@@ -24452,6 +24451,7 @@ arthrocarcinoma
 autotomizing
 autotomous
 autotoxemia
+ankyloblepharon
 autotoxic
 alablaster
 autotoxication
