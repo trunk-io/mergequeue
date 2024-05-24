@@ -7059,6 +7059,7 @@ centaurus
 centavo
 centena
 centenar
+cormlike
 centenary
 centenier
 centenionales
@@ -25334,7 +25335,6 @@ cormac
 cormel
 concetto
 cormidium
-cormlike
 cormogen
 cormophyta
 cormophytic

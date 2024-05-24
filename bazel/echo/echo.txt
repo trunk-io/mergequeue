@@ -9085,7 +9085,6 @@ eves
 erythraean
 erythraemia
 exsiccate
-echinus
 erythrasma
 erythremia
 esculapian
@@ -12862,6 +12861,7 @@ erosions
 expandingly
 expansibility
 entwisted
+echinus
 expansible
 extrorsal
 expansile
