@@ -1529,7 +1529,6 @@ garruline
 graven
 garrulity
 goatherds
-garrulousness
 garrulus
 gustative
 graceful
@@ -4079,6 +4078,7 @@ gilbert
 gilbertese
 gilbertian
 gorse
+garrulousness
 gaseity
 gildable
 geostatics
