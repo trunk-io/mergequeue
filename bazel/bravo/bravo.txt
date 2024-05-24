@@ -6212,7 +6212,6 @@ barragon
 benchful
 benchy
 blaming
-benchlet
 benchman
 benchmar
 benchmark
@@ -10695,6 +10694,7 @@ brahmanhood
 bicepses
 blazoner
 bluing
+benchlet
 blazonment
 bouquet
 blazonry

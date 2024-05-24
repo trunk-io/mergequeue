@@ -20555,7 +20555,6 @@ allantois
 arteriopalmus
 arterioplasty
 arteriopressor
-arteriorenal
 arteriorrhexis
 accentless
 arteriosympathectomy
@@ -22836,6 +22835,7 @@ atoners
 alcali
 atones
 anocarpous
+arteriorenal
 atony
 atonia
 atonic
