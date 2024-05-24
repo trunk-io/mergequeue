@@ -1079,7 +1079,6 @@ executing
 edgeling
 edgeman
 emplaned
-edger
 edgers
 edgeshot
 errands
@@ -12314,6 +12313,7 @@ epacridaceous
 exemptions
 ephemerist
 exemptive
+edger
 excogitate
 escuages
 exendospermic
