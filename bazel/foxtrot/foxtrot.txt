@@ -958,7 +958,6 @@ fiqh
 fordays
 flagginess
 farandole
-faerie
 fathomless
 farandoles
 frolickly
@@ -3454,6 +3453,7 @@ funaria
 fiesta
 fifed
 filemot
+faerie
 finks
 fairings
 furfurans
