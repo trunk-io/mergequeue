@@ -10286,7 +10286,6 @@ basileus
 blackings
 bulbuls
 bine
-blackjack
 behung
 blackjacked
 blackjacking
@@ -13403,6 +13402,7 @@ botling
 botocudo
 botone
 botonee
+blackjack
 brushing
 blastomycosis
 botry
