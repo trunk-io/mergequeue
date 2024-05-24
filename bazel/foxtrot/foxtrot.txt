@@ -4800,7 +4800,6 @@ flags
 flagship
 firepower
 formative
-fainer
 floribunda
 fossores
 factorylike
@@ -8749,6 +8748,7 @@ favonian
 forwarders
 forwarding
 forwardly
+fainer
 forwarn
 fashionative
 forwean
