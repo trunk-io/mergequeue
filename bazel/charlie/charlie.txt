@@ -15398,7 +15398,6 @@ clamming
 clammyweed
 clamor
 clamored
-clamorer
 clamorers
 clamorist
 clamorous
@@ -17232,6 +17231,7 @@ coaler
 coalers
 crucifer
 coalescence
+clamorer
 cellarless
 coitions
 coalescency
