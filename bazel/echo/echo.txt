@@ -11089,7 +11089,6 @@ echinostomatidae
 educement
 echafaudage
 eurythermal
-eurithermophile
 elemol
 elapoid
 euhages
@@ -14006,6 +14005,7 @@ extratabular
 embrue
 emm
 extratarsal
+eurithermophile
 ex
 esterase
 extratellurian
