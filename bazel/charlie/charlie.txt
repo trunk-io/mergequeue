@@ -1917,6 +1917,7 @@ cameraman
 cameras
 camerate
 cidaroida
+cervelases
 cetiosaurus
 camerated
 cameration
@@ -7866,7 +7867,6 @@ cervantic
 choosing
 cervantite
 cruor
-cervelases
 cervelats
 cerveliere
 chirpling
