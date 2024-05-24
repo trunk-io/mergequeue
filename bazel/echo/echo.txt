@@ -10880,7 +10880,6 @@ escheatage
 euonymy
 euonymous
 euonymus
-expectoration
 echinid
 extracultural
 exorcizing
@@ -12817,6 +12816,7 @@ exotheca
 exothecal
 exothecate
 exothermal
+expectoration
 exothermically
 elytriform
 exotica
