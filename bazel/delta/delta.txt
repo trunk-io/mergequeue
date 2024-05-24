@@ -1648,6 +1648,7 @@ deaminase
 decating
 digitize
 deaminate
+daw
 deaminating
 deamination
 deaminize
@@ -3208,7 +3209,6 @@ defection
 diagrammeter
 distaff
 defectious
-daw
 depolarizes
 devotionalness
 dimitting
