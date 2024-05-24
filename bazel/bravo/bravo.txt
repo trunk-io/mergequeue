@@ -631,7 +631,6 @@ bemingle
 bacteriolyze
 bacteriology
 breadnut
-bacteriologic
 bacteriologist
 bacteriologists
 bacteriopathology
@@ -14828,6 +14827,7 @@ breakneck
 breakoff
 breakout
 biphenyl
+bacteriologic
 breakpoint
 breakpoints
 breaks
