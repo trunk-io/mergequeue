@@ -5093,6 +5093,7 @@ flatfishes
 flatfoot
 flathead
 flatiron
+fadlike
 froom
 flatirons
 flatlands
@@ -10048,7 +10049,6 @@ frigidly
 flemished
 forcers
 frigolabile
-fadlike
 fashion
 frigor
 feloniousness
