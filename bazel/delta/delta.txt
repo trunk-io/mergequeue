@@ -3898,7 +3898,6 @@ dicellate
 deionizations
 deionize
 decastyle
-deselects
 dissceptred
 deionized
 denegate
@@ -4262,6 +4261,7 @@ despiritualize
 delocalizing
 delomorphous
 decrement
+deselects
 deloo
 deloul
 decocted
