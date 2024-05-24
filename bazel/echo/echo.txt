@@ -5709,7 +5709,6 @@ embellishes
 ermine
 ethnobotanical
 engirt
-engiscope
 engystomatidae
 eurymus
 engjateigur
@@ -6628,6 +6627,7 @@ eddies
 eudalene
 elastomeric
 endermically
+engiscope
 enterolith
 enuring
 exhedrae
