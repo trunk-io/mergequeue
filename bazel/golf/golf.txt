@@ -2320,7 +2320,6 @@ gristle
 gossipmongering
 graverobber
 gunpowder
-grovel
 grillading
 gunsels
 gavages
@@ -9768,6 +9767,7 @@ gteau
 graybearded
 guacacoa
 guacharo
+grovel
 grimacer
 gonidiospore
 graphospasm
