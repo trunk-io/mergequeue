@@ -1154,7 +1154,6 @@ baitfish
 bonnetieres
 brain
 baitylos
-ballard
 baiting
 baits
 baittle
@@ -4803,6 +4802,7 @@ bedlar
 bedlids
 beinked
 bedmaker
+ballard
 bewrought
 bedmakers
 byronist

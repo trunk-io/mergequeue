@@ -2749,6 +2749,7 @@ ferulae
 floodwall
 frenzies
 faithing
+foreribs
 fwd
 falanaka
 fervidly
@@ -7882,7 +7883,6 @@ forerecited
 forereckon
 forerehearsed
 forerequest
-foreribs
 foredates
 flannelbush
 forerun
