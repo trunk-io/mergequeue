@@ -2268,6 +2268,7 @@ fountainhead
 firebombs
 flatcars
 fulham
+fluoric
 foredecree
 furiosa
 fizzles
@@ -6410,7 +6411,6 @@ fronture
 foredooms
 frogspawn
 fluorhydric
-fluoric
 fecundatory
 filtered
 formularization
