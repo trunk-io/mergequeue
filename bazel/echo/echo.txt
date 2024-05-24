@@ -45,6 +45,7 @@ earcockle
 eardropper
 earflap
 earflaps
+expender
 enzyms
 earflower
 earful
@@ -11519,7 +11520,6 @@ evidently
 etouffe
 ectene
 erbium
-expender
 evidentness
 evigilation
 egre
