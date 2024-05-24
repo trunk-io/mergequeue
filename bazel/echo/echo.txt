@@ -3716,7 +3716,6 @@ embrocado
 exsecant
 emprosthotonos
 euxine
-exocardial
 embrocated
 embrocates
 erythroid
@@ -10270,6 +10269,7 @@ emmarbled
 electrotelegraphic
 ethicality
 ethicals
+exocardial
 esperantic
 enseel
 evicts
