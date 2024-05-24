@@ -1324,7 +1324,6 @@ effectors
 effectress
 encapsulate
 effects
-exurban
 equivocated
 err
 epeus
@@ -11129,6 +11128,7 @@ europium
 epipharynx
 eelworms
 eurus
+exurban
 expropriations
 exoner
 eusebian
