@@ -1034,7 +1034,6 @@ gesneraceae
 glissandos
 gandertmeeth
 gandharva
-gobioidea
 gurian
 gybe
 gandul
@@ -6160,6 +6159,7 @@ gnarl
 grotesqueness
 gnarly
 gnarliest
+gobioidea
 gnarliness
 gnarls
 gravelweed
