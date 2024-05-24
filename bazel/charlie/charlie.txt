@@ -9036,7 +9036,6 @@ chareter
 charette
 chemisms
 chargable
-charge
 chargeability
 cheerless
 chargeable
@@ -20071,6 +20070,7 @@ cajoled
 commensurably
 commensurate
 commensurated
+charge
 commensurateness
 commensurating
 commensuration
