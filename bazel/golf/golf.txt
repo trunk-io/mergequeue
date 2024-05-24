@@ -1323,7 +1323,6 @@ golfed
 gismondite
 groped
 gewgawry
-garbles
 grammatology
 grammatically
 goodship
@@ -4291,6 +4290,7 @@ guddler
 gymnospore
 grandfather
 glotum
+garbles
 ges
 gymnostomata
 ganef
