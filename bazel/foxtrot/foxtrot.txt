@@ -4635,6 +4635,7 @@ fixedness
 foreby
 fructescence
 fibroreticulate
+floater
 fixer
 fixers
 feinted
@@ -5827,7 +5828,6 @@ floated
 forebooms
 filical
 fortunation
-floater
 fierasfer
 fodders
 foulard
