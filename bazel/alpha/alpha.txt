@@ -15055,6 +15055,7 @@ anticomplex
 abiotrophic
 anticonductor
 abstrusion
+auscultation
 assassinates
 antozone
 arara
@@ -23681,7 +23682,6 @@ alchemize
 auscultates
 atik
 auscultating
-auscultation
 auscultative
 auscultatory
 auscultoscope

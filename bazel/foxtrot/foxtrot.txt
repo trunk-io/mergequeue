@@ -5273,6 +5273,7 @@ fetchers
 flea
 fleabag
 fusible
+foliaceousness
 fleabags
 fissidactyl
 fluorites
@@ -8765,7 +8766,6 @@ forgemen
 floret
 forwearying
 falsedad
-foliaceousness
 faeries
 forweend
 fantasias
