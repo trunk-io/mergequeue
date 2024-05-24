@@ -10595,7 +10595,6 @@ amygdalotome
 appaloosas
 amygdonitrile
 amygdule
-amygdules
 amigos
 amiidae
 amil
@@ -15681,6 +15680,7 @@ antimoralistic
 antimorality
 antimosquito
 antimusical
+amygdules
 antimusically
 antimusicalness
 antinarcotic
