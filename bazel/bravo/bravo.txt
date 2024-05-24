@@ -3640,6 +3640,7 @@ blockmaking
 bathool
 bathophobia
 bathos
+blackbine
 bathrobe
 bathrobes
 balneophysiology
@@ -10190,7 +10191,6 @@ braziers
 bott
 blackamoors
 blackarm
-blackbine
 blackback
 blackballed
 blattidae
