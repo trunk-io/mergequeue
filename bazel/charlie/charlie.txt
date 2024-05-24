@@ -27008,7 +27008,6 @@ counterobjection
 counterobligation
 counteroffensive
 chevet
-counteroffer
 counteropening
 counteropponent
 coteller
@@ -30694,6 +30693,7 @@ cuirassed
 cuirasses
 cuirassier
 ciselures
+counteroffer
 cuish
 cuishes
 cuisinary
