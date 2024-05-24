@@ -4701,7 +4701,6 @@ chapmen
 carpetbaggism
 choenix
 carpetbags
-carpeted
 counterearth
 coumarou
 chlamydospore
@@ -20352,6 +20351,7 @@ concaveness
 chrysanthemums
 communis
 communisation
+carpeted
 communise
 communising
 celebres
