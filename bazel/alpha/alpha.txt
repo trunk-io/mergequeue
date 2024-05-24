@@ -1073,7 +1073,6 @@ assignations
 abstrusity
 abstrusities
 absume
-absurd
 anesthesiologist
 autarchoglossa
 antiperiodic
@@ -13346,6 +13345,7 @@ anisogamous
 annueler
 antiparliamenteer
 aorticorenal
+absurd
 amtrak
 archibuteo
 anisognathism
