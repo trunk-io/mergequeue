@@ -7905,7 +7905,6 @@ cervine
 cervix
 cervixes
 collar
-cervoid
 cervuline
 cervulus
 cervus
@@ -16716,6 +16715,7 @@ clote
 chayota
 clomb
 chaquetas
+cervoid
 cloth
 clothe
 clothed
