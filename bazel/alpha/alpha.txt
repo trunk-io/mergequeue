@@ -12228,7 +12228,6 @@ anchor
 anchorable
 anchorages
 anchorate
-actinodermatitis
 anchoress
 anchoret
 anchoretic
@@ -22638,6 +22637,7 @@ acronymous
 athyrid
 athyroid
 averruncate
+actinodermatitis
 airings
 athyroidism
 athyrosis
