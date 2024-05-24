@@ -2834,6 +2834,7 @@ cansos
 congenialize
 cant
 cantabank
+cloamer
 cantabile
 cantabri
 clothesmonger
@@ -16493,7 +16494,6 @@ condominiiums
 creamcup
 cloamen
 christliness
-cloamer
 clobber
 clobbered
 clobbers
