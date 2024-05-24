@@ -9750,7 +9750,6 @@ frisolee
 fortitude
 frey
 freya
-freyalite
 freibergite
 freycinetia
 fulgorous
@@ -9927,6 +9926,7 @@ fevertwitch
 friar
 fungo
 fremitus
+freyalite
 friary
 friarly
 friarling
