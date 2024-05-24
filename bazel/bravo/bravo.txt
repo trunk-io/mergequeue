@@ -10876,7 +10876,6 @@ biacuminate
 blepharocera
 blepharoceridae
 birthrate
-branchiate
 blepharochromidrosis
 bcf
 baselard
@@ -13264,6 +13263,7 @@ bossing
 balconied
 bizarres
 bowler
+branchiate
 bosslet
 bossship
 bonnyvis

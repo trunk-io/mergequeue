@@ -15928,7 +15928,6 @@ antithrombin
 antipyretics
 antipyrin
 antipyrine
-antipyrotic
 antiplague
 aglobulism
 antiplanet
@@ -19092,6 +19091,7 @@ archistome
 archisupreme
 achyranthes
 architectonica
+antipyrotic
 autoschediastically
 architectonically
 architectonics
