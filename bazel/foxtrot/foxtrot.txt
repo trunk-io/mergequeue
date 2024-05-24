@@ -1688,7 +1688,6 @@ faults
 frugivora
 feak
 federate
-fealty
 fumigates
 fear
 fimbles
@@ -9555,6 +9554,7 @@ floccus
 fiscus
 filiated
 frazer
+fealty
 flameproof
 frazzle
 flattop
