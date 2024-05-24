@@ -8587,7 +8587,6 @@ forril
 forrit
 foxish
 forescript
-forsay
 fir
 forsaken
 fluoridise
@@ -11405,6 +11404,7 @@ furloughing
 furloughs
 facsimilist
 furls
+forsay
 furmenty
 furmenties
 furmeties
