@@ -6391,7 +6391,6 @@ benni
 bennies
 benomyl
 backspread
-benorth
 bensall
 bensell
 birdnester
@@ -7561,6 +7560,7 @@ betta
 betted
 befreeze
 better
+benorth
 besmirched
 bettering
 betterly
