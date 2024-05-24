@@ -3664,7 +3664,6 @@ carapaxes
 coachable
 carapidae
 carapine
-carapus
 canvasback
 carara
 cheneaux
@@ -18630,6 +18629,7 @@ chiropterous
 coinferred
 coinferring
 coinfers
+carapus
 cartboot
 coing
 ceroma
