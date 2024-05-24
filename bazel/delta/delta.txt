@@ -6136,7 +6136,6 @@ derays
 derangeable
 deranges
 disdiazo
-dropout
 durgen
 deranging
 deader
@@ -11142,6 +11141,7 @@ disbar
 dehydrant
 drubbings
 disbarment
+dropout
 disbarred
 disbarring
 disbars
