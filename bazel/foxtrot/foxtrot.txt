@@ -393,6 +393,7 @@ fairground
 foredenounce
 fairhead
 fairy
+fruiteries
 fairyhood
 foreprepare
 frigid
@@ -10677,7 +10678,6 @@ fruitcakes
 filtrability
 fegatella
 fortuneteller
-fruiteries
 fruiters
 fruitester
 falseheartedness
