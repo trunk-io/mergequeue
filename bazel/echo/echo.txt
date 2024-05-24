@@ -2225,7 +2225,6 @@ ethylamin
 elections
 elective
 electives
-engram
 elector
 expostulator
 elks
@@ -7377,6 +7376,7 @@ erythrina
 extrapolates
 eurygnathous
 encloses
+engram
 extollment
 epeisodia
 epeisodion
