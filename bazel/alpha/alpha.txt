@@ -5169,7 +5169,6 @@ adularescent
 aerotonometric
 antepagmenta
 angiocarpy
-aerotropism
 aeroview
 aeruginous
 aerugo
@@ -13868,6 +13867,7 @@ anoplura
 anopluriform
 agrah
 anopsias
+aerotropism
 aspidosperma
 anucleate
 anopubic
