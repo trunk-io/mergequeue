@@ -11581,7 +11581,6 @@ disconnecting
 disconnection
 disconnective
 disconnector
-disconnects
 disconsent
 dithering
 disconsideration
@@ -15148,6 +15147,7 @@ diseaseful
 doleance
 daimonic
 directory
+disconnects
 doled
 dolefish
 doleful
