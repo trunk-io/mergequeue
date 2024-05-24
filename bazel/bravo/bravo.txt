@@ -4996,7 +4996,6 @@ bristle
 beefsteak
 beeftongue
 beefwoods
-bandcase
 beegerite
 bargeboard
 blackcock
@@ -11076,6 +11075,7 @@ breading
 burier
 blizzardy
 bankrupted
+bandcase
 blk
 blksize
 bunts
