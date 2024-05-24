@@ -5620,7 +5620,6 @@ depeach
 depeinct
 depencil
 depend
-dependability
 dependabilities
 dependableness
 dependably
@@ -9032,6 +9031,7 @@ deadlines
 doping
 deglycerine
 dictatingly
+dependability
 dictation
 dictational
 destructionism
