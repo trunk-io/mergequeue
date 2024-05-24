@@ -20346,7 +20346,6 @@ animalcula
 arrivals
 arrive
 arrivederla
-arrives
 arriving
 atracheate
 arrivism
@@ -21422,6 +21421,7 @@ asparamic
 antapology
 antislavery
 asparkle
+arrives
 aftergrave
 aspartame
 aspasia
