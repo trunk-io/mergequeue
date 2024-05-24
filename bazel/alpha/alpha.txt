@@ -5387,7 +5387,6 @@ affixal
 affixation
 affixed
 affixer
-affixers
 affixes
 affixial
 aspatia
@@ -12608,6 +12607,7 @@ andy
 anergias
 actinally
 alants
+affixers
 anergies
 alterne
 anerythroplasia
