@@ -8872,6 +8872,7 @@ compile
 chaperno
 chaperon
 custodia
+cretinoid
 chaperonage
 chaperone
 chaperoned
@@ -13856,7 +13857,6 @@ cinchonizing
 codify
 cinchophen
 coconstituent
-cretinoid
 cinchotine
 cogroad
 cullions
