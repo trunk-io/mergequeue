@@ -598,7 +598,6 @@ extrudable
 epigeal
 echolocation
 echometer
-echopractic
 echos
 echovirus
 emplacement
@@ -11876,6 +11875,7 @@ excelling
 excels
 entocoele
 eosophobia
+echopractic
 excelsior
 excentric
 ety
