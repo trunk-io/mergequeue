@@ -24755,7 +24755,6 @@ coppices
 crepehanger
 coppin
 canyons
-copping
 coppra
 coppras
 chamidae
@@ -27132,6 +27131,7 @@ counterrevolutionist
 counterriposte
 counterroll
 counterround
+copping
 counterruin
 counters
 countersalient
