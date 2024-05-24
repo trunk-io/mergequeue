@@ -7538,7 +7538,6 @@ fizzling
 foreburton
 fuzzing
 forebush
-forecast
 flatboats
 forecaster
 ferrocyanhydric
@@ -8814,6 +8813,7 @@ friss
 feucht
 flon
 fossicked
+forecast
 fossicker
 fiants
 fluigramme
