@@ -1626,7 +1626,6 @@ ballonnes
 ballooners
 bacaba
 bootleggers
-balloonet
 buddah
 bonnetman
 brattier
@@ -4287,6 +4286,7 @@ blooddrops
 beatitude
 beatitudes
 beatles
+balloonet
 beatless
 benched
 bullroarer
