@@ -7587,6 +7587,7 @@ cercolabes
 cercolabidae
 cercomonad
 cercomonadidae
+condylion
 cercopid
 continent
 cercopithecid
@@ -21687,7 +21688,6 @@ condyle
 condylectomy
 carboxyhemoglobin
 condyles
-condylion
 cariacus
 condyloma
 commissionated
