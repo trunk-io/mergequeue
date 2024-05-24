@@ -4402,7 +4402,6 @@ bebops
 barbre
 belongings
 blessing
-bluntish
 boggish
 brabbled
 bosons
@@ -16691,6 +16690,7 @@ buckshees
 buckshot
 bourgeoise
 buckstone
+bluntish
 bedfoot
 bucktooth
 bucktoothed
