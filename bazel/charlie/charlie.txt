@@ -22958,7 +22958,6 @@ consignee
 consignify
 cuckooing
 consignificant
-consignification
 consignificative
 consignificator
 climacterics
@@ -28200,6 +28199,7 @@ craniotabes
 craniotome
 craniotomy
 craniotomies
+consignification
 craniotopography
 craniovertebral
 cranium
