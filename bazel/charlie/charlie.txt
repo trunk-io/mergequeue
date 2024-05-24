@@ -3841,7 +3841,6 @@ choirmaster
 canister
 cardcase
 carbonising
-carbazin
 carbonitride
 carbonizable
 cincinatti
@@ -28774,6 +28773,7 @@ crescence
 crescendo
 crescendoing
 conceives
+carbazin
 crescendos
 crescentade
 crescentader
