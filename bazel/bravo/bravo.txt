@@ -1679,7 +1679,6 @@ ballweed
 balm
 brehon
 botony
-balmarcodes
 balmawhapple
 burton
 balmlike
@@ -14317,6 +14316,7 @@ braided
 braiders
 bovoid
 binaurally
+balmarcodes
 beckett
 binomen
 braidism
