@@ -1208,7 +1208,6 @@ anaclastic
 antigod
 acalephs
 ampelitic
-acalyculate
 acalypha
 azlactone
 apheliotropic
@@ -2886,6 +2885,7 @@ analogs
 acromegalia
 acromegalic
 acromegalies
+acalyculate
 acromelalgia
 alpiste
 acrometer
