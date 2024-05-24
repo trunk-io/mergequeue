@@ -14879,7 +14879,6 @@ citydom
 closen
 citied
 cueball
-citification
 cityfied
 citifying
 cityfolk
@@ -22489,6 +22488,7 @@ coestate
 coniroster
 conirostral
 conirostres
+citification
 conisance
 cinnamonroot
 conite
