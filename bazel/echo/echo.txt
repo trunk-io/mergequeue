@@ -843,7 +843,6 @@ enquire
 ectocoelic
 ectocommensal
 ectocondylar
-endophytic
 ectocondyle
 ectocondyloid
 efficient
@@ -3574,6 +3573,7 @@ embourgeoisement
 evangelion
 earnie
 endoabdominal
+endophytic
 extracellularly
 emydes
 embowel
