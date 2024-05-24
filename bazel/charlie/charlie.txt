@@ -11325,6 +11325,7 @@ chloriodide
 counterion
 chlorite
 chloritic
+complementoid
 continuities
 chloritization
 chloritize
@@ -20708,7 +20709,6 @@ complementer
 complementers
 complementing
 complementizer
-complementoid
 cooperations
 complete
 completement

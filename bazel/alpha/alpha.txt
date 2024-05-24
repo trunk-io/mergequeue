@@ -7178,7 +7178,6 @@ allow
 akhund
 akhundzada
 abantes
-akia
 akiyenik
 akim
 akimbo
@@ -13205,6 +13204,7 @@ adenostemonous
 androgametangium
 animalisation
 animalise
+akia
 animalising
 anathematizing
 anthelions
