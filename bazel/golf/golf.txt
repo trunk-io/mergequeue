@@ -3859,6 +3859,7 @@ geldable
 gibbosely
 gibboseness
 gibbosity
+gadi
 gibbosities
 gibbous
 gelastocoridae
@@ -7038,7 +7039,6 @@ gardant
 gemsboks
 glyptographic
 grandpappy
-gadi
 gyron
 goons
 gyromagnetic

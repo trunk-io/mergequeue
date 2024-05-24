@@ -3392,7 +3392,6 @@ caprifole
 caprifoliaceae
 caprifoliaceous
 caprifolium
-capriform
 caprigenous
 caprylate
 caprylene
@@ -27974,6 +27973,7 @@ crackrope
 cracks
 crackskull
 cracksmen
+capriform
 crackups
 cradge
 chiliagon
