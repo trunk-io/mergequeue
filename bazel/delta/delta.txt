@@ -2694,6 +2694,7 @@ decomposure
 dogwatches
 decompoundable
 diffractional
+discontinuous
 dogbane
 decompoundly
 decompress
@@ -9662,7 +9663,6 @@ dislevelment
 dikaryophytic
 dikaryotic
 dikdik
-discontinuous
 deliquesces
 dil
 doorcase
