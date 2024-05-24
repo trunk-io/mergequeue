@@ -7433,6 +7433,7 @@ ephebi
 ephebic
 episematic
 extraperiodic
+enfile
 epheboi
 ecchondrotome
 ephebus
@@ -11704,7 +11705,6 @@ exalbuminose
 embassage
 exalbuminous
 exalt
-enfile
 eunuchized
 exaltate
 exaltation
