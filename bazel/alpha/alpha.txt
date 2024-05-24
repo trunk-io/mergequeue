@@ -2267,6 +2267,7 @@ achromat
 actinal
 aperistalsis
 abattue
+adiabolist
 achromate
 achromatic
 achromatically
@@ -14419,7 +14420,6 @@ anthoecological
 actinocarp
 anthoecologist
 application
-adiabolist
 anthogenesis
 anthogenetic
 anthogenous
