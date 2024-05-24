@@ -5523,6 +5523,7 @@ flyblowing
 flyblows
 freshmanic
 fiendlike
+fiberizer
 fleers
 flaxlike
 flybrush
@@ -8895,7 +8896,6 @@ foul
 fogger
 foulbrood
 foulder
-fiberizer
 fouled
 fidation
 fouler
