@@ -8938,7 +8938,6 @@ grulla
 guiding
 griffons
 guzzlers
-germicides
 grifters
 glory
 garoter
@@ -10680,6 +10679,7 @@ gurging
 gu
 guser
 galanas
+germicides
 gush
 garvock
 gunship
