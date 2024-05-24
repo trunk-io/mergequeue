@@ -1502,7 +1502,6 @@ callipering
 callipers
 calliphorid
 calcrete
-calliphoridae
 calliphorine
 callipygian
 callipygous
@@ -27831,6 +27830,7 @@ coze
 contraire
 craquelures
 chelonin
+calliphoridae
 counterquery
 curcuma
 cozed
