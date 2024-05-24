@@ -2290,7 +2290,6 @@ arctalian
 achromatope
 achromatophile
 achromatophilia
-achromatophilic
 achromatopia
 achromatopsy
 apologizes
@@ -17639,6 +17638,7 @@ appareled
 appareling
 apparence
 apparency
+achromatophilic
 almucantar
 apparens
 apparent
