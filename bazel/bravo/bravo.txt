@@ -651,7 +651,6 @@ bacteriopurpurin
 bullnecks
 basibracteolate
 bacterioscopy
-bacterioscopic
 bacterioscopist
 barbarously
 bacteriosolvent
@@ -3319,6 +3318,7 @@ bouffes
 basipterygoid
 battle
 basiradial
+bacterioscopic
 basirostral
 basiscopic
 blepharitic
