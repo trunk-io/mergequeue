@@ -7992,7 +7992,6 @@ forest
 fellmongered
 forestaffs
 forestage
-forestair
 fireplough
 forestays
 forehinting
@@ -8948,6 +8947,7 @@ fount
 fountain
 fountaineer
 fragged
+forestair
 fearfulness
 funambulist
 frictional
