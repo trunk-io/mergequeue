@@ -2299,6 +2299,7 @@ fayalite
 fibrinolyses
 fencepost
 fencers
+flamens
 firebricks
 fsiest
 fluidness
@@ -5735,7 +5736,6 @@ fundamentalism
 flyswat
 footlessness
 flyswatter
-flamens
 ferrocalcite
 frankist
 figmental
