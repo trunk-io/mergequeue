@@ -2625,7 +2625,6 @@ esoterica
 electroscope
 electrosensitive
 electrosherardizing
-entad
 electroshock
 elucidative
 envenoms
@@ -7925,6 +7924,7 @@ endopeptidase
 extensible
 epilepsies
 epileptical
+entad
 epileptically
 epileptiform
 exotospore

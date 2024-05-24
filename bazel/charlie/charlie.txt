@@ -2690,7 +2690,6 @@ cannet
 cannetille
 cannibal
 cannibalean
-cereless
 cannibalistically
 cannibality
 cannibalization
@@ -19706,6 +19705,7 @@ comatoseness
 comatosity
 comatula
 combaron
+cereless
 combasou
 combat
 combatable
