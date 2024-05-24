@@ -1220,7 +1220,6 @@ guffin
 gigantology
 gaol
 grift
-gaoled
 gaoling
 groatsworth
 glutinate
@@ -3804,6 +3803,7 @@ gluttonising
 geek
 gutturopalatine
 glossoplegia
+gaoled
 giantkind
 giantly
 giantlikeness
