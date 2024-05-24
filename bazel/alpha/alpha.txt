@@ -10650,7 +10650,6 @@ archiprelatical
 acacetin
 acquirers
 amyloses
-amylosynthesis
 amylosis
 asthenosphere
 anathematiser
@@ -21426,6 +21425,7 @@ aspectant
 aspects
 aspectual
 aspen
+amylosynthesis
 aspens
 asper
 amnesties

@@ -6972,7 +6972,6 @@ gingerly
 gruffest
 goodlihead
 geniohyoglossal
-goodliness
 goodmanship
 goodmen
 goodness
@@ -9450,6 +9449,7 @@ gramp
 glossographical
 groundswells
 germaneness
+goodliness
 groundwall
 grange
 granularity
