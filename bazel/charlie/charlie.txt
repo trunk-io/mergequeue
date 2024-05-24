@@ -8112,7 +8112,6 @@ chaetangiaceae
 chaetetes
 cipher
 chaetetidae
-chaetifera
 chaetiferous
 chaetochloa
 chaetodon
@@ -22256,6 +22255,7 @@ congeneric
 congenerical
 cynthian
 congenerous
+chaetifera
 congeners
 congenial
 commiserative
