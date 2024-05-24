@@ -6933,7 +6933,6 @@ downsinking
 decadation
 despatcher
 despatches
-despatching
 dualities
 dioptry
 despeche
@@ -10809,6 +10808,7 @@ diletant
 digit
 displays
 direr
+despatching
 decanormal
 direx
 dirge
