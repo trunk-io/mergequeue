@@ -2757,6 +2757,7 @@ extrusions
 exotropism
 evergreenite
 explorations
+excecate
 elope
 elytrous
 eutropic
@@ -11857,7 +11858,6 @@ enlace
 emptins
 excavatory
 excave
-excecate
 exceedable
 elutes
 exceeded
