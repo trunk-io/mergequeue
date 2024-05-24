@@ -6535,6 +6535,7 @@ fluter
 fluters
 forspread
 fougade
+frustum
 foolisher
 fluther
 fizzier
@@ -10774,7 +10775,6 @@ faveoli
 frustulent
 frustules
 footrope
-frustum
 frutage
 frutescent
 farcing
