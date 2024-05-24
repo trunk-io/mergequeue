@@ -13644,7 +13644,6 @@ cylindrograph
 compilers
 chisel
 cylindroid
-cylindroidal
 cylindroma
 cylindromata
 cylindromatous
@@ -22964,6 +22963,7 @@ consignificator
 climacterics
 cravingly
 consignifying
+cylindroidal
 causse
 consigning
 consignments
