@@ -3136,7 +3136,6 @@ defacing
 defacto
 dodgers
 defade
-defaillance
 defaitiste
 defalcate
 danton
@@ -11418,6 +11417,7 @@ discloud
 dingus
 disclout
 disclusion
+defaillance
 dislimb
 decephalization
 disabilities
