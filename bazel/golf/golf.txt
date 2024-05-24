@@ -2317,7 +2317,6 @@ greaser
 gaullist
 gekkonid
 glossopharyngeal
-gristle
 gossipmongering
 graverobber
 gunpowder
@@ -9575,6 +9574,7 @@ growly
 growliest
 gemses
 grammates
+gristle
 globelet
 guzerat
 glaucosis
