@@ -3857,7 +3857,6 @@ grungier
 gibbons
 geldable
 gibbosely
-gibboseness
 gibbosity
 gibbosities
 gibbous
@@ -4601,6 +4600,7 @@ generically
 gipsyhead
 gazehound
 gypsyhead
+gibboseness
 gaitt
 gloeocapsoid
 gadoid
