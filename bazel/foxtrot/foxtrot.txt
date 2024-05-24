@@ -2058,7 +2058,6 @@ fadme
 frontspiece
 filacer
 feinter
-feudary
 facedown
 faucalize
 flub
@@ -4944,6 +4943,7 @@ flammulation
 flammule
 flanch
 flanche
+feudary
 fulvidness
 fact
 focused
