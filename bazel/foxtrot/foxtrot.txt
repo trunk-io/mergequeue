@@ -2982,7 +2982,6 @@ farfetch
 filamented
 feuillage
 furcation
-flyoff
 feuilleton
 feuilletons
 fleches
@@ -6961,6 +6960,7 @@ flusherman
 follily
 feeblemindedness
 foutra
+flyoff
 fatheads
 fadeless
 fendy

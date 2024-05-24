@@ -1842,7 +1842,6 @@ banc
 bancha
 banco
 bonhomie
-bipunctate
 bullose
 burgul
 bandage
@@ -6356,6 +6355,7 @@ bundlet
 bandalore
 besiren
 benighter
+bipunctate
 benign
 barked
 benignant
