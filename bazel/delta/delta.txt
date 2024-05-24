@@ -1489,7 +1489,6 @@ dcb
 dcollet
 dcor
 ddname
-dea
 depressure
 deaccession
 darknesses
@@ -9188,6 +9187,7 @@ dyebeck
 durn
 diecase
 diecious
+dea
 diectasis
 damascenes
 died
