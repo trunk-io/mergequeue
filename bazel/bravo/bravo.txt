@@ -11015,6 +11015,7 @@ blacksmiths
 bafta
 blypes
 barkeep
+brushball
 blips
 bliss
 branchiostegous
@@ -17599,7 +17600,6 @@ burgaudine
 burgee
 burgees
 brightwork
-brushball
 baptist
 burgeon
 burgeoning
