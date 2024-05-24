@@ -2338,6 +2338,7 @@ gehlenite
 goblet
 guideway
 gey
+geisa
 gaits
 gladiatorism
 gallantry
@@ -2359,7 +2360,6 @@ giust
 geira
 garrafa
 gonofs
-geisa
 geisenheimer
 geyserish
 geyserite
