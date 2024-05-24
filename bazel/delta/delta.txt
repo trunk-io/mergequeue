@@ -5917,7 +5917,6 @@ depreciate
 deponents
 depreciated
 depreciatingly
-depreciation
 depreciative
 depreciator
 deoxygenization
@@ -9682,6 +9681,7 @@ diocoel
 dilambdodont
 dilamination
 dylan
+depreciation
 dilaniate
 dribbling
 doubled
