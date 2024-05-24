@@ -1516,7 +1516,6 @@ garrisonism
 gashing
 garrnishable
 gemeinde
-garroo
 garroted
 goldsmithry
 garroter
@@ -10381,6 +10380,7 @@ gullets
 graveless
 graminivore
 garbanzos
+garroo
 granulomas
 gnathobasic
 gutta
