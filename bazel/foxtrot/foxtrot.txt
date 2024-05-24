@@ -141,6 +141,7 @@ fem
 file
 faconde
 frothless
+ferris
 fidgets
 facsim
 facsimile
@@ -10917,7 +10918,6 @@ fuliginosity
 fulimart
 fulk
 floatability
-ferris
 fullams
 finback
 fulled
