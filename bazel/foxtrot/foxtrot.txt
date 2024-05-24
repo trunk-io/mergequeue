@@ -208,7 +208,6 @@ factotums
 ferrihemoglobin
 fellsman
 factrix
-factual
 fipple
 footmanship
 factorials
@@ -6074,6 +6073,7 @@ foxhounds
 florisugent
 floruit
 flinder
+factual
 fetialis
 forsook
 fleyland
