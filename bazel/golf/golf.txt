@@ -7851,7 +7851,6 @@ gramophonic
 gruelling
 gesnera
 ginneries
-gametangium
 globelike
 guydom
 gramps
@@ -10400,6 +10399,7 @@ gyrofrequency
 gigot
 gamotropic
 gossipingly
+gametangium
 glucosidal
 gigawatts
 gulonic
