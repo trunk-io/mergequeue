@@ -13265,7 +13265,6 @@ bowler
 bosslet
 bossship
 bonnyvis
-bevellers
 bawdiness
 beleaf
 bosniac
@@ -14154,6 +14153,7 @@ bashlyks
 busticate
 blighting
 bradawls
+bevellers
 bradbury
 bradyacousia
 bradyauxesis
