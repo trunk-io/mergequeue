@@ -820,7 +820,6 @@ brickwise
 bratticer
 brickier
 brachering
-bafflement
 blubberhead
 balefulness
 baffleplate
@@ -13807,6 +13806,7 @@ bowelled
 bowelless
 beardedness
 baggy
+bafflement
 bowelling
 bower
 bowerbird
