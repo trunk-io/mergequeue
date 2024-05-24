@@ -2678,6 +2678,7 @@ gasthaus
 granodiorite
 goo
 gamodeme
+glairy
 gene
 grassed
 gareth
@@ -7888,7 +7889,6 @@ gentilization
 grandads
 gastrodisk
 grandaunt
-glairy
 gainless
 grandaunts
 grandbaby
