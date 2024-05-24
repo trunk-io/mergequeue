@@ -2664,7 +2664,6 @@ dulse
 decolourizing
 decreers
 decolours
-decommission
 decommissioned
 dumbbeller
 devotionalism
@@ -11010,6 +11009,7 @@ disincarcerate
 dipsosis
 disannuls
 disembay
+decommission
 diagnosticating
 disapostle
 disapparel
