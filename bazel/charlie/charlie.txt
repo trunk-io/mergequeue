@@ -990,7 +990,6 @@ coprincipate
 calapite
 calapitte
 calappa
-calappidae
 calas
 calascione
 calash
@@ -9537,6 +9536,7 @@ communizing
 checkage
 checkback
 checkbird
+calappidae
 checkbite
 checkbits
 checkbook
