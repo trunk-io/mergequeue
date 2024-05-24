@@ -6964,7 +6964,6 @@ airport
 airports
 airpost
 airposts
-asst
 airproofs
 aggrieving
 academies
@@ -15481,6 +15480,7 @@ annunciators
 affixt
 adjutancy
 acoasma
+asst
 atmiatrics
 antiliturgical
 antiliturgist
