@@ -4599,7 +4599,6 @@ gipsyhead
 gazehound
 gypsyhead
 gaitt
-gloeocapsoid
 gadoid
 giglot
 gypsying
@@ -9228,6 +9227,7 @@ grazeable
 glucuronic
 gi
 goethites
+gloeocapsoid
 grog
 goobers
 grogginess
