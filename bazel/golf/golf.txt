@@ -5341,7 +5341,6 @@ glene
 graciles
 grindery
 gaited
-golgi
 guardsman
 gargets
 galbanum
@@ -5804,6 +5803,7 @@ grizzler
 glandulous
 gravedo
 grutches
+golgi
 glossa
 glossolabiolaryngeal
 glossal
