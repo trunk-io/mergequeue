@@ -1262,7 +1262,6 @@ calibers
 cunas
 clavicembali
 colunar
-calibrated
 canichana
 calibrater
 calibrates
@@ -11998,6 +11997,7 @@ choreoid
 crocidolite
 chorepiscopal
 chorepiscope
+calibrated
 chorepiscopus
 chores
 choreus
