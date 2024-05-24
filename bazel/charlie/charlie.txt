@@ -141,6 +141,7 @@ cablegrams
 cruors
 cablelaid
 cableless
+coincidents
 cablelike
 cableman
 chryseis
@@ -18607,7 +18608,6 @@ coincided
 coincident
 coincidentally
 coincidently
-coincidents
 conjunctural
 coinciding
 coinclination

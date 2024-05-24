@@ -2295,7 +2295,6 @@ barbarities
 barbarization
 bewelter
 breedling
-brigid
 birdclapper
 bunda
 barbarized
@@ -6551,6 +6550,7 @@ benzonitrol
 benzophenanthrazine
 benzophenone
 benzophenothiazine
+brigid
 benzophloroglucinol
 benzophthalazine
 benzopyran
