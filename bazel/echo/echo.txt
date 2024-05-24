@@ -4042,7 +4042,6 @@ emphysema
 emetic
 emphyteusis
 endobronchitis
-encipherment
 emphyteutic
 emphlysis
 emolumentary
@@ -10721,6 +10720,7 @@ eudemonics
 equivalencies
 eudeve
 excamber
+encipherment
 eudiometry
 enclasp
 eastlake
