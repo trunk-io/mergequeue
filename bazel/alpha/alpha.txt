@@ -2691,7 +2691,6 @@ acquire
 acquirement
 acquiring
 acquisite
-acquisited
 acquisitional
 acquisitive
 acquisitively
@@ -14508,6 +14507,7 @@ amboceptor
 anthracosaurus
 anthracosilicosis
 anthracosis
+acquisited
 anthracothere
 anthracotheriidae
 anthracotherium
