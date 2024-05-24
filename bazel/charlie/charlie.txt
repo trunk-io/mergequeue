@@ -4672,7 +4672,6 @@ carpals
 chela
 carpathian
 carpe
-carped
 carpellary
 cytinaceous
 coattended
@@ -16533,6 +16532,7 @@ clodhopping
 clodknocker
 canchi
 clodlet
+carped
 clodpated
 clodpates
 clodpoll
