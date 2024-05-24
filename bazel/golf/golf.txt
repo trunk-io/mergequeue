@@ -3352,6 +3352,7 @@ gisarme
 gyro
 galtonia
 glycosemia
+glumpy
 germanical
 germanify
 guaco
@@ -9920,7 +9921,6 @@ gargarism
 gracefully
 genion
 guard
-glumpy
 guardable
 guardedness
 gedd
