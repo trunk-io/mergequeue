@@ -4292,6 +4292,7 @@ chintziness
 cargason
 cargo
 cargoes
+critics
 cargos
 carhop
 carhops
@@ -29550,7 +29551,6 @@ criticized
 criticizer
 criticizers
 criticizing
-critics
 criticship
 criticsm
 criticule

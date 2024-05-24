@@ -5348,7 +5348,6 @@ guardsman
 gargets
 galbanum
 gamecraft
-grenade
 gullet
 glenlike
 genuflectory
@@ -7802,6 +7801,7 @@ geoglossaceae
 gun
 goodsome
 ganoin
+grenade
 generaliser
 gramary
 geranic
