@@ -9046,7 +9046,6 @@ charged
 chargedness
 chargee
 cataphasia
-chargeful
 chargehouse
 chargeless
 charger
@@ -24771,6 +24770,7 @@ clubionid
 coprisoner
 coprocessor
 coprodaeum
+chargeful
 coproduce
 catpiece
 cardioplegia
