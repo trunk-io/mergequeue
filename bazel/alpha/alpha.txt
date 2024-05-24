@@ -1627,6 +1627,7 @@ accordionist
 altica
 accordionists
 autoportrait
+aconin
 antidrag
 accordions
 accords
@@ -2585,7 +2586,6 @@ adversity
 acone
 aconelline
 aconic
-aconin
 autoactive
 aconine
 afdecho
