@@ -10346,6 +10346,7 @@ enzymologies
 ethysulphuric
 ethize
 ethmyphitis
+exomorphic
 equitability
 ethmofrontal
 esquamate
@@ -12662,7 +12663,6 @@ echo
 emerse
 encephaloma
 exomologesis
-exomorphic
 exomphalos
 exomphalous
 embryogeny
