@@ -4651,7 +4651,6 @@ fructed
 furtherer
 fasciotomy
 fusiformis
-fixup
 fixure
 furs
 fizelyite
@@ -6511,6 +6510,7 @@ flusterating
 flusteration
 fogyism
 fossulet
+fixup
 flusterer
 fakes
 flustery
