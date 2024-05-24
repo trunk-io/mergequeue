@@ -4181,6 +4181,7 @@ exemplifier
 empoisoned
 encaustes
 etherol
+epistle
 empoisonment
 elaborator
 enchronicle
@@ -8268,7 +8269,6 @@ epistyles
 epistylis
 exulcerate
 emetocathartic
-epistle
 enweave
 eleostearate
 euryalidan
