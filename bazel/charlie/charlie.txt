@@ -4773,7 +4773,6 @@ cressier
 carpophyte
 cynosarges
 carpopodite
-carpopoditic
 carved
 carpoptosia
 carport
@@ -30582,6 +30581,7 @@ consultations
 cucujus
 callitype
 cucularis
+carpopoditic
 cachila
 cestos
 cucule
