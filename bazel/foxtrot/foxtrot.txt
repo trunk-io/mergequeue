@@ -3265,6 +3265,7 @@ frostwort
 forefend
 folkmote
 forewarnings
+forlornness
 fictioner
 forehent
 fictionised
@@ -8372,7 +8373,6 @@ forlornly
 forever
 fucatious
 forethough
-forlornness
 form
 fluoroscopes
 formational
