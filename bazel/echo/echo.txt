@@ -1967,7 +1967,6 @@ ekaboron
 ekacaesium
 ekasilicon
 epop
-ekebergite
 ekename
 etymologisable
 exteriorate
@@ -7110,6 +7109,7 @@ expansometer
 enemy
 epiplexis
 ergotamine
+ekebergite
 explants
 envying
 employees
