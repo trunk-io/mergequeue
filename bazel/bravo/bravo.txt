@@ -2669,7 +2669,6 @@ barbitals
 brachiocrural
 bifluorid
 barlafummil
-barleduc
 barley
 barleybrake
 broadener
@@ -5485,6 +5484,7 @@ bels
 beguilement
 beguilements
 beguiler
+barleduc
 breakdown
 beguilingly
 bandy
