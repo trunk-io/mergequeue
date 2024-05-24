@@ -6187,6 +6187,7 @@ enqueue
 enamine
 entered
 enqueues
+expositional
 enticeable
 exor
 eten
@@ -9355,7 +9356,6 @@ embodiments
 errhines
 erron
 erroneousness
-expositional
 error
 ebricty
 eugeosynclinal
