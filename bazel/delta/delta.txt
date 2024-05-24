@@ -1666,7 +1666,6 @@ demarks
 deanery
 deaneries
 deanimalize
-deanships
 decoction
 deanthropomorphic
 deanthropomorphism
@@ -15627,6 +15626,7 @@ draconis
 doorpiece
 dowl
 dawdle
+deanships
 doorsill
 doorstead
 didactics
