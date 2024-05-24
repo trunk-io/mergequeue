@@ -1694,6 +1694,7 @@ dearworthily
 dearworthiness
 drawgear
 devastate
+disembattle
 deasil
 deaspirate
 decostate
@@ -9071,7 +9072,6 @@ defectionist
 dorsoabdominal
 didactylous
 dictyopteran
-disembattle
 draggles
 diedral
 denmark

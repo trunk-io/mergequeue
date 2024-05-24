@@ -3006,7 +3006,6 @@ comatic
 canun
 canvas
 chiasmodon
-cycadeous
 canvasado
 canvasbacks
 canvasers
@@ -25674,6 +25673,7 @@ corporeals
 corporeity
 crankier
 corporeous
+cycadeous
 corporify
 corporification
 corporosity
