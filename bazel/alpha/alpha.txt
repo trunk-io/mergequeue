@@ -5402,7 +5402,6 @@ affixes
 affixial
 aspatia
 android
-affixion
 armageddon
 affixment
 afflate
@@ -23292,6 +23291,7 @@ auctor
 auctorial
 auctorizate
 aucuba
+affixion
 aucubas
 allophanamide
 aucupate
