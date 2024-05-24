@@ -5957,6 +5957,7 @@ greywacke
 gedact
 gnawable
 geaster
+gucked
 glucagon
 gladify
 guarea
@@ -10443,7 +10444,6 @@ gumly
 gesticulatory
 gumlike
 gumlikeness
-gucked
 genevas
 gynandrous
 grimacing
