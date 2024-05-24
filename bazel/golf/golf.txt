@@ -228,7 +228,6 @@ gags
 guarder
 gagster
 gagtooth
-gagwriter
 gay
 gradefinder
 gaiassa
@@ -1968,6 +1967,7 @@ gaud
 gaucho
 germinated
 geochemical
+gagwriter
 goodyship
 germaniums
 groundable
