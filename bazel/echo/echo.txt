@@ -4641,7 +4641,6 @@ epimerase
 escallonia
 enchondromata
 enchondromatous
-exinanite
 enchondrosis
 etiotropically
 epidermophyton
@@ -8424,6 +8423,7 @@ epitrichial
 epitrochlear
 earplug
 expletively
+exinanite
 evolutility
 epitrope
 epituberculosis
