@@ -3347,7 +3347,6 @@ faction
 flabbergastation
 featherweights
 fidejussor
-fratching
 fortunous
 fidelio
 forchase
@@ -4898,6 +4897,7 @@ fruits
 fortescure
 flocking
 frontispiece
+fratching
 firebase
 flamencos
 firmance
