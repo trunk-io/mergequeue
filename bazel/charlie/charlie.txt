@@ -12653,6 +12653,7 @@ curvedness
 chronology
 cleanish
 collembolan
+circularize
 chronological
 chronologies
 chronologist
@@ -30632,7 +30633,6 @@ cuddies
 cuddyhole
 cheero
 cuddle
-circularize
 cuddleable
 cuddled
 cuddlesome
