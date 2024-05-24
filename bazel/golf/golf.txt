@@ -2870,7 +2870,6 @@ gensengs
 genteel
 glike
 gaulin
-glaister
 graddan
 genteelize
 gelating
@@ -6408,6 +6407,7 @@ greenyard
 gordyaean
 gallify
 gobiid
+glaister
 gobylike
 granddam
 gobinism
