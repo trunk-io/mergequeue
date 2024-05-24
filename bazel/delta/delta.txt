@@ -15773,7 +15773,6 @@ dorsals
 dorsalwards
 dorse
 dorsel
-dorser
 dysanalyte
 dorsers
 dorsi
@@ -17741,6 +17740,7 @@ dorey
 dubitante
 dolley
 dubitate
+dorser
 dubitatingly
 duboisia
 duboisin
