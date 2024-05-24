@@ -2551,6 +2551,7 @@ frizzles
 ferrier
 fieldball
 fawnskin
+fastus
 forehorse
 ferox
 fossilized
@@ -2660,7 +2661,6 @@ ferrovanadium
 ferrozirconium
 flintify
 filmed
-fastus
 frivol
 falseheartedly
 filigreed
