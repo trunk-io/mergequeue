@@ -7056,6 +7056,7 @@ centauries
 centaurium
 constructure
 centauromachy
+clavolet
 centauromachia
 centaurus
 centavo
@@ -15840,7 +15841,6 @@ claviole
 clavipectoral
 clavis
 clavises
-clavolet
 chapel
 clavus
 clawed
