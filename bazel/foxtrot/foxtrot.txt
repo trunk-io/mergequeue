@@ -5669,7 +5669,6 @@ frowsiest
 fustanella
 flypast
 flypasts
-flype
 feodaries
 freezers
 frimaire
@@ -9350,6 +9349,7 @@ front
 fervors
 frivoling
 flintier
+flype
 footgears
 fireworms
 franchisor
