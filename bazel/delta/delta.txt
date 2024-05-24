@@ -3811,6 +3811,7 @@ diallers
 dehumidified
 dehumidifier
 dehumidifiers
+dotages
 dehumidifies
 disimbitter
 dignosce
@@ -15917,7 +15918,6 @@ dewaxes
 daydream
 dot
 disbark
-dotages
 dinoceratan
 doubleword
 dotal
