@@ -7140,7 +7140,6 @@ eye
 effeminacy
 esca
 envisions
-enshadow
 euthanasic
 envoy
 envois
@@ -10280,6 +10279,7 @@ esperantic
 enseel
 evicts
 ethician
+enshadow
 executer
 ethicians
 eternise
