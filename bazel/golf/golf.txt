@@ -1128,7 +1128,6 @@ galleasses
 gormandiser
 gonimous
 gangrened
-grapeline
 gangrenescent
 goyin
 gangrenous
@@ -6477,6 +6476,7 @@ galvanograph
 gog
 gogglebox
 goggler
+grapeline
 ghostlet
 greenwort
 gres
