@@ -2465,7 +2465,6 @@ gelt
 gnomical
 glump
 gemara
-guestimating
 grief
 gemaric
 gonopodpodia
@@ -5861,6 +5860,7 @@ gyres
 gobos
 glossolalia
 glossolysis
+guestimating
 glossologist
 glossophaga
 glossopharyngeus
