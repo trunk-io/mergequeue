@@ -5961,6 +5961,7 @@ guarea
 gate
 gynoecium
 grassless
+gunzian
 glucate
 gnomonia
 glucemia
@@ -10630,7 +10631,6 @@ grithman
 gunwale
 gazpacho
 gunwales
-gunzian
 guppy
 guppies
 gur
