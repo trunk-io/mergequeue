@@ -1851,7 +1851,6 @@ bullose
 burgul
 bandage
 bialystoker
-bandaged
 bandager
 bandages
 bandaging
@@ -14337,6 +14336,7 @@ brayette
 butyrous
 braying
 brailles
+bandaged
 bursiform
 braillewriter
 benthos
