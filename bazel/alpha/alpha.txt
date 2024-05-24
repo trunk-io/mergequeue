@@ -2512,7 +2512,6 @@ appall
 aclidian
 aclinic
 ambulate
-aclys
 acloud
 acmaea
 acmaeidae
@@ -9094,6 +9093,7 @@ allround
 alls
 adolesce
 appeasive
+aclys
 allspice
 allspices
 angulosity
