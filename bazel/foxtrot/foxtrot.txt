@@ -7906,7 +7906,6 @@ fusillades
 foresail
 frigidity
 farl
-foresails
 farmscape
 fibered
 forescene
@@ -8956,6 +8955,7 @@ frictional
 fuddling
 fountainheads
 finalize
+foresails
 flections
 fourre
 folktales
