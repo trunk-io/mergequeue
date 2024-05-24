@@ -5241,7 +5241,6 @@ esterellite
 enchest
 emulsionize
 ecmnesia
-endorsable
 entopterygoid
 excerpt
 endorsation
@@ -6818,6 +6817,7 @@ entoil
 entoils
 entoloma
 entom
+endorsable
 extender
 episternalia
 expressionful
