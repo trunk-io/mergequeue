@@ -1336,7 +1336,6 @@ grex
 garbline
 guib
 garblings
-garboard
 gesticulator
 ged
 garbologist
@@ -7383,6 +7382,7 @@ geylies
 gotra
 gurglets
 gotraja
+garboard
 gotta
 gv
 gongoresque
