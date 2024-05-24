@@ -9290,7 +9290,6 @@ frailes
 frailish
 flopped
 frailness
-flagellum
 farinosely
 furzetop
 flitchen
@@ -9709,6 +9708,7 @@ flowerer
 freenesses
 figment
 flotations
+flagellum
 freers
 foliosity
 freesias
