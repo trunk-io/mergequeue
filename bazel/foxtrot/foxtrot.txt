@@ -4502,7 +4502,6 @@ feuille
 fisticuff
 freebees
 fort
-fouldre
 familiarness
 fainaigued
 fisticuffery
@@ -5800,6 +5799,7 @@ further
 ferr
 fribblish
 flywinch
+fouldre
 facile
 fails
 fatty
