@@ -14458,6 +14458,7 @@ dyadic
 daughterless
 divinising
 divinister
+doubleword
 divinization
 dialogue
 divinize
@@ -15924,7 +15925,6 @@ dot
 disbark
 dotages
 dinoceratan
-doubleword
 dotal
 dotant
 dekagram
