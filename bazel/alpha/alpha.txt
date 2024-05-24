@@ -9014,7 +9014,6 @@ arsnicker
 appositions
 allose
 allosematic
-allosyndesis
 allosyndetic
 acaena
 allosome
@@ -12273,6 +12272,7 @@ ancillary
 ancillaries
 aulostomidae
 ancylocladus
+allosyndesis
 ancylopod
 atlantis
 acrider
