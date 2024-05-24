@@ -2573,7 +2573,6 @@ amidate
 acolous
 adulterants
 acoma
-arthropleura
 archdissembler
 acomia
 acomous
@@ -14944,6 +14943,7 @@ anticyclones
 anticyclonically
 abrasion
 anticynic
+arthropleura
 abaculi
 anticynical
 anticipant
