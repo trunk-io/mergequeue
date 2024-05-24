@@ -4411,7 +4411,6 @@ caryophyllous
 caryophyllus
 caryopilite
 caryopsides
-caryopsis
 currawong
 courthouses
 caryota
@@ -20761,6 +20760,7 @@ cytoplast
 chefdoms
 complexness
 cfi
+caryopsis
 complexometry
 chandry
 complexometric

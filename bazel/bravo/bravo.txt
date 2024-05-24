@@ -3621,7 +3621,6 @@ bathythermograph
 bathkol
 barbar
 bathman
-bathmat
 bathmats
 bereaven
 bollard
@@ -13943,6 +13942,7 @@ brooders
 boxty
 boxtop
 brager
+bathmat
 blastman
 bluecup
 bromothymol
