@@ -5902,7 +5902,6 @@ delegant
 danes
 darter
 desolations
-diachoresis
 demeaning
 disconcert
 deprecative
@@ -11678,6 +11677,7 @@ discountenances
 discounter
 distastes
 discounters
+diachoresis
 dirks
 decreasing
 discounting
