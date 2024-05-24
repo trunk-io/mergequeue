@@ -24780,7 +24780,6 @@ cardioplegia
 coproducer
 coproduction
 cantref
-coprojector
 coprolagnia
 coprolagnist
 coprolaliac
@@ -25071,6 +25070,7 @@ cordleaf
 cordlessly
 cordlike
 configured
+coprojector
 cordoba
 cordoban
 cordobas

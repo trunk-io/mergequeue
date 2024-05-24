@@ -4799,7 +4799,6 @@ gyrostat
 gastroplenic
 gesticulating
 gyrotheca
-girouette
 guessed
 girouettes
 gestes
@@ -8216,6 +8215,7 @@ grapples
 gawks
 gallah
 genonema
+girouette
 grappling
 grapsidae
 graptolitha
