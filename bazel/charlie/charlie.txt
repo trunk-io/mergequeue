@@ -9804,7 +9804,6 @@ chelate
 chelated
 cattish
 chelating
-chelator
 chelators
 chelerythrine
 chelicer
@@ -25044,6 +25043,7 @@ cordelled
 cordelling
 corder
 crushableness
+chelator
 cordery
 corders
 cordewane
