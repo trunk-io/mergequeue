@@ -955,6 +955,7 @@ faradomuscular
 fiqh
 fordays
 flagginess
+floatable
 farandole
 faerie
 fathomless
@@ -9805,7 +9806,6 @@ frenchification
 freakful
 frenchly
 frenchman
-floatable
 forestick
 flycaster
 fevery
