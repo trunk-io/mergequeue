@@ -7317,6 +7317,7 @@ endemics
 ensues
 epanodos
 economy
+exoplasm
 epanorthidae
 ephorates
 epanorthoses
@@ -12702,7 +12703,6 @@ exophasic
 exophoria
 exophthalmia
 exophthalmus
-exoplasm
 exopod
 exopodite
 exopterygote

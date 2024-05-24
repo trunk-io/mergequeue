@@ -3968,7 +3968,6 @@ carcharodont
 correctify
 carcinemia
 carcinogenesis
-carcinogenic
 colorimetry
 carcinoid
 compartmental
@@ -15446,6 +15445,7 @@ clangorous
 clangorously
 clangors
 cappella
+carcinogenic
 crosscut
 clangour
 cynebot
