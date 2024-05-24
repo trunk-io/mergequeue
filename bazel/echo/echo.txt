@@ -2596,7 +2596,6 @@ exempla
 electrophotomicrography
 electrophrenic
 electropyrometer
-enthrall
 electroplater
 electropolish
 electropower
@@ -8285,6 +8284,7 @@ epistolographist
 erratums
 epistoma
 epistropheal
+enthrall
 endolaryngeal
 epistropheus
 eryopid

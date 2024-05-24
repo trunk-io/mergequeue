@@ -1619,7 +1619,6 @@ gasogen
 gandermooner
 gasohol
 gasolene
-gasolier
 gangland
 gasoliers
 gasoliner
@@ -5129,6 +5128,7 @@ glamoured
 girderage
 germanic
 glandules
+gasolier
 grapeful
 grippe
 gossipper
