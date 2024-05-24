@@ -331,7 +331,6 @@ eavesdrop
 enterocentesis
 eavesdropped
 enmass
-eavesdroppers
 enodation
 eavesdropping
 ebauchoir
@@ -2824,6 +2823,7 @@ elephant
 exclamatively
 electroluminescent
 equidistant
+eavesdroppers
 elephantiasis
 elephantic
 euphonism
