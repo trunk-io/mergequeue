@@ -2330,6 +2330,7 @@ feasor
 filches
 fenestellid
 fenestellidae
+flambes
 feuterer
 factualness
 fleuronne
@@ -4879,7 +4880,6 @@ flambeaux
 flambee
 fortunetellers
 flamberg
-flambes
 flamboyance
 flamboyancy
 fatherhood
