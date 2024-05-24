@@ -2565,7 +2565,6 @@ fuzzily
 faldworth
 freeholds
 footsore
-ferrateen
 ferratin
 frush
 flunky
@@ -5460,6 +5459,7 @@ flewed
 furunculus
 flewit
 forcarve
+ferrateen
 flibbertigibbets
 flexed
 fartherer
