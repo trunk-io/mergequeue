@@ -2851,7 +2851,6 @@ acroconidium
 acrocoracoid
 acrodactyla
 acrodermatitis
-acrodynia
 acrodont
 anarithmia
 acrodontism
@@ -15911,6 +15910,7 @@ antiphonon
 aborigine
 antiphons
 anaphylaxis
+acrodynia
 assistants
 antiphrases
 antiphrasis
