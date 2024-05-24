@@ -3798,7 +3798,6 @@ fizzers
 filmsets
 freon
 fullbacks
-forgathering
 filmsetter
 frocklike
 filmsetting
@@ -9338,6 +9337,7 @@ franchisee
 franchisees
 foulings
 fertil
+forgathering
 finings
 freebooted
 franchisers
