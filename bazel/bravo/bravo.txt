@@ -629,6 +629,7 @@ brin
 bacteriolysin
 bletherskate
 bemingle
+beaconed
 bacteriolyze
 bacteriology
 breadnut
@@ -1064,7 +1065,6 @@ ballow
 bailing
 busway
 bailiwick
-beaconed
 bridler
 belord
 brasswork
