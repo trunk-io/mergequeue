@@ -10264,7 +10264,6 @@ chiloplasty
 chlorochrous
 chamomilla
 chiarooscuro
-chiarooscuros
 cedrium
 chiaroscuros
 chias
@@ -14892,6 +14891,7 @@ cigale
 coordinate
 cheliceral
 cityless
+chiarooscuros
 cityness
 citynesses
 citing
