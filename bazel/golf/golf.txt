@@ -3279,6 +3279,7 @@ gagate
 galban
 gerah
 geraniales
+grubstake
 glommox
 grewsome
 goodwily
@@ -7638,7 +7639,6 @@ gleary
 grader
 gradgrind
 gud
-grubstake
 gradient
 gamopetalae
 gutty
