@@ -15048,6 +15048,7 @@ cardioaccelerator
 cerebroganglion
 cytotaxis
 cytotaxonomy
+conky
 cytotaxonomic
 chilacavote
 cytotaxonomically
@@ -22584,7 +22585,6 @@ conked
 conker
 conkers
 cymatium
-conky
 cremor
 counterbid
 conking
