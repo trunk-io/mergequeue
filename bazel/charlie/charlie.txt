@@ -587,7 +587,6 @@ caducibranchiate
 caducities
 caducous
 caduke
-cadus
 cadwal
 chiromegaly
 cadwallader
@@ -7448,6 +7447,7 @@ cephalopodous
 cephalopterus
 cephalorhachidian
 cephaloridine
+cadus
 cephalosome
 cephalospinal
 cephalosporium
