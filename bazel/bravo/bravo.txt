@@ -3221,7 +3221,6 @@ basidiospore
 basidiosporous
 basidorsal
 basify
-billowy
 bravure
 bathtub
 baccate
@@ -11015,6 +11014,7 @@ blacksmiths
 bafta
 blypes
 barkeep
+billowy
 blips
 bliss
 branchiostegous
