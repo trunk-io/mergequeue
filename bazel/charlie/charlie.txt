@@ -2615,6 +2615,7 @@ canistel
 canisters
 canjac
 cank
+collateralizing
 chokestrap
 clingfish
 canker
@@ -18970,7 +18971,6 @@ collaterality
 collateralize
 collateralized
 coccolithophoridae
-collateralizing
 collaterally
 collateralness
 collaterals
