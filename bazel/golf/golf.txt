@@ -442,7 +442,6 @@ growl
 greyskin
 galea
 galeage
-glucuronide
 ghillie
 goliard
 gastrojejunal
@@ -7363,6 +7362,7 @@ gurgoyl
 geobotany
 girns
 gothicizer
+glucuronide
 gothicness
 gothish
 glandula
