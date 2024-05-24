@@ -1475,7 +1475,6 @@ callianassidae
 calliandra
 cedulas
 curraghs
-calligraph
 calligrapha
 chemurgy
 calligraphers
@@ -16758,6 +16757,7 @@ cinefilm
 cloture
 catastrophically
 clotured
+calligraph
 clotures
 canterer
 confixed
