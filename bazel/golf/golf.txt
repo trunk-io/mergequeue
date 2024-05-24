@@ -7090,6 +7090,7 @@ gooseneck
 glider
 galyac
 griselda
+grocerly
 galactodendron
 gladiators
 graniteware
@@ -10639,7 +10640,6 @@ gurged
 gurgeons
 glossopyrosis
 goli
-grocerly
 gliding
 gurgitation
 gurgled
