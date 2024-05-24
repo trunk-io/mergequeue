@@ -2781,7 +2781,6 @@ baronetise
 baronetising
 baronetize
 baronetized
-baronets
 ballistocardiographic
 baronetship
 benzeneazobenzene
@@ -12347,6 +12346,7 @@ boatful
 baniwa
 bookkeeper
 bombastical
+baronets
 behoovefully
 bioclean
 bombasticness
