@@ -12631,6 +12631,7 @@ chronics
 craddy
 chronique
 chronisotherm
+cottonless
 chronist
 chronocarator
 chronocyclegraph
@@ -26569,7 +26570,6 @@ cottonization
 coexpire
 cottonize
 carafon
-cottonless
 cottonmouth
 cottonmouths
 cottonocracy
