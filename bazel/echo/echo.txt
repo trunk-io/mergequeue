@@ -9537,7 +9537,6 @@ ectrogenic
 eurydice
 eschew
 eschewance
-explorate
 eschewed
 expand
 endsheet
@@ -12069,6 +12068,7 @@ endochrome
 extrication
 excoriated
 electroanalysis
+explorate
 excoriating
 enrages
 enlivenment
