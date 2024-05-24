@@ -1674,7 +1674,6 @@ fconv
 farcin
 familiar
 four
-fdnames
 fdub
 flamboyantly
 fortuitousness
@@ -10356,6 +10355,7 @@ fremt
 families
 fitten
 freightless
+fdnames
 fronde
 firth
 frondent
