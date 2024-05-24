@@ -4625,7 +4625,6 @@ basommatophorous
 becushioned
 befogged
 blastodisk
-bed
 bool
 bedabble
 beagles
@@ -7933,6 +7932,7 @@ basilosauridae
 biarchy
 biarcuate
 biarcuated
+bed
 blennotorrhea
 biarticulate
 barrulee
