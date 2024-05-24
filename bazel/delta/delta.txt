@@ -2469,6 +2469,7 @@ decyne
 diaeresis
 decinormal
 decipherability
+decision
 decipherable
 dand
 delay
@@ -2481,7 +2482,6 @@ deciphers
 decipium
 diphase
 dramshops
-decision
 decisional
 decisions
 decisis
