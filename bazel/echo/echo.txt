@@ -501,7 +501,6 @@ exarchs
 emballonurid
 exophoric
 echappe
-eumerogenesis
 echea
 eched
 ethnohistorian
@@ -5271,6 +5270,7 @@ endoscopes
 endoscopies
 empyreumatical
 endosymbiosis
+eumerogenesis
 epipodia
 endoskeletons
 endosmic
