@@ -8524,7 +8524,6 @@ cabala
 chameleonize
 chameleonlike
 comstockery
-chamfer
 chamfered
 chamferer
 cabirean
@@ -11413,6 +11412,7 @@ commands
 chlorophyceous
 chlorophyl
 chlorophyllase
+chamfer
 chlorophyllian
 chlorophyllide
 choliamb
