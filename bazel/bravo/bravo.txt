@@ -41,6 +41,7 @@ babblers
 bodement
 babbles
 babbly
+buzzer
 beanier
 babbit
 barflies
@@ -16830,7 +16831,6 @@ bucketman
 borborygm
 buffier
 buffiest
-buzzer
 butut
 betas
 balkline
