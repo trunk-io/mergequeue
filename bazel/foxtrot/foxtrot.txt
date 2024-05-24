@@ -2967,7 +2967,6 @@ fastings
 feudatory
 fanciable
 feudatories
-flashforward
 feuded
 forktail
 footmark
@@ -6764,6 +6763,7 @@ fluorescin
 food
 foins
 fiacre
+flashforward
 foliageous
 fumette
 formulized
