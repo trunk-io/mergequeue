@@ -1489,7 +1489,6 @@ deaccessions
 deacetylate
 defraudment
 deacetylating
-deacetylation
 deacidification
 deaconal
 deaconate
@@ -8652,6 +8651,7 @@ diarticular
 dias
 dyas
 distinctional
+deacetylation
 diametrically
 diaschisis
 discourtesy
