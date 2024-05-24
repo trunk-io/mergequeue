@@ -1173,6 +1173,7 @@ bajarigar
 bajau
 boxer
 bajocco
+behindsight
 bajochi
 bajoire
 bread
@@ -5553,7 +5554,6 @@ behymn
 behind
 behindhand
 behinds
-behindsight
 behint
 behypocrite
 behither
