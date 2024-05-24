@@ -8211,6 +8211,7 @@ episiorrhaphy
 esprits
 esoterism
 efflorescence
+excludes
 empowered
 episiostenosis
 episiotomy
@@ -12041,7 +12042,6 @@ exclosure
 excavational
 excludable
 everyone
-excludes
 exampleship
 exclusion
 eigenspace
