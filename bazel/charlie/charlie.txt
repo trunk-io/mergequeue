@@ -11372,7 +11372,6 @@ ceylanite
 chloroformate
 cyanophose
 churched
-chloroformed
 chloroformic
 cubica
 chloroforming
@@ -12805,6 +12804,7 @@ chukar
 chukchi
 chukka
 coxopodite
+chloroformed
 clactonian
 chukkar
 capillarily
