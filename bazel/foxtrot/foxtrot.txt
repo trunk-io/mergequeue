@@ -5629,7 +5629,6 @@ faff
 frondous
 flinched
 flyblown
-flincher
 flinching
 flinders
 foliage
@@ -7169,6 +7168,7 @@ footfolk
 fu
 fructiferousness
 fruticulture
+flincher
 foremind
 foothalt
 filths
