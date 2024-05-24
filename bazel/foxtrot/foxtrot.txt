@@ -2219,7 +2219,6 @@ felstones
 framers
 forewinning
 felt
-felted
 felter
 feltyflier
 felting
@@ -3609,6 +3608,7 @@ filemaker
 fluidize
 flenches
 filename
+felted
 footgrip
 fixates
 fanons
