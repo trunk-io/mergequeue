@@ -814,7 +814,6 @@ flog
 fissidentaceae
 fanions
 fallout
-firebolt
 finicalness
 francophobia
 fanit
@@ -4520,6 +4519,7 @@ flattest
 followeth
 fama
 fistnotes
+firebolt
 froghopper
 feigned
 frenchily
