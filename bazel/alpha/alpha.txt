@@ -2950,6 +2950,7 @@ adaptation
 achromatin
 acropetal
 argyroneta
+authenticate
 acrophobia
 acrophonetic
 acrophonic
@@ -23816,7 +23817,6 @@ afterrake
 arthritics
 authentic
 authentically
-authenticate
 authenticated
 authenticates
 authentication
