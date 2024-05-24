@@ -2097,6 +2097,7 @@ bouet
 bumbaste
 banksides
 barebone
+billy
 banksmen
 bucketed
 bibliophage
@@ -11132,7 +11133,6 @@ blockholer
 blockhouses
 bawbees
 beveto
-billy
 blockier
 blockiest
 blocking
