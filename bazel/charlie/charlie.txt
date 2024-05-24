@@ -14355,7 +14355,6 @@ circumesophageal
 circumfer
 circumference
 chave
-circumferential
 circumferentially
 circumflant
 circumflex
@@ -30666,6 +30665,7 @@ comedist
 cued
 coeffects
 colombo
+circumferential
 coempts
 cuemen
 convincibility
