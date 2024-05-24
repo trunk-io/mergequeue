@@ -3704,6 +3704,7 @@ fruiter
 filings
 foreallege
 filipendula
+finestra
 frijoles
 fiddleys
 fleur
@@ -8202,7 +8203,6 @@ fierceness
 feus
 forfouchten
 forfoughten
-finestra
 forgat
 forgather
 fop
