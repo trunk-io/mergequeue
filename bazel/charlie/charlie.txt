@@ -6955,6 +6955,7 @@ cemeterial
 ceratinous
 cemeteries
 culm
+cottiform
 cen
 cenaculum
 cenanthy
@@ -26552,7 +26553,6 @@ cicala
 cotty
 cottid
 cottidae
-cottiform
 cottise
 cottoid
 colorations
