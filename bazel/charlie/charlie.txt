@@ -11637,7 +11637,6 @@ cognisability
 crazies
 colonialization
 cholecystogastrostomy
-cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
@@ -26212,6 +26211,7 @@ cosmopolis
 chevisance
 cosmopolises
 cosmopolitan
+cholecystogram
 cosmopolitanisation
 coastline
 condylomata
