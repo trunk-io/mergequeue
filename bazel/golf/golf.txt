@@ -2204,7 +2204,6 @@ gazella
 gazelle
 gazellelike
 gazelline
-gazement
 gynocratic
 gazettal
 gazette
@@ -2942,6 +2941,7 @@ glossoid
 glycerogelatin
 geleem
 gingelly
+gazement
 gherkin
 gluttony
 germanophobe
