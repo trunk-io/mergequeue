@@ -2234,6 +2234,7 @@ felts
 forthtell
 forcipial
 feltwort
+flaccidities
 flaggier
 felucca
 felwort
@@ -4590,7 +4591,6 @@ flexuosely
 fringillidae
 frap
 fuzzines
-flaccidities
 fittingly
 frigidities
 fingered
