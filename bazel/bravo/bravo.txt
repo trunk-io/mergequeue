@@ -5226,7 +5226,6 @@ beblotch
 budworm
 befop
 before
-buoy
 biotic
 borings
 bandlet
@@ -10777,6 +10776,7 @@ barretries
 bleeped
 bleeps
 boroughmongery
+buoy
 bleeze
 bronzine
 bosuns
