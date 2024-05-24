@@ -1130,7 +1130,6 @@ calcographer
 countermark
 calcography
 culturology
-calcographic
 calcsinter
 calcspar
 calcspars
@@ -9375,6 +9374,7 @@ chauceriana
 chaucerism
 chauchat
 chaudfroid
+calcographic
 capitative
 chaudron
 chauffage
