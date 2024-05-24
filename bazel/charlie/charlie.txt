@@ -2496,6 +2496,7 @@ chinol
 candlestick
 candlesticks
 candlestickward
+charades
 candlewaster
 cambial
 candlewasting
@@ -14575,7 +14576,6 @@ conservable
 cirripedial
 cirripeds
 citrul
-charades
 cirrocumulative
 cirrocumulous
 cebatha

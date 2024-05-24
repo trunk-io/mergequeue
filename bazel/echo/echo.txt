@@ -1681,7 +1681,6 @@ emydea
 eyeballs
 eyebalm
 eyebar
-eyebeam
 eyebeams
 expire
 effie
@@ -9373,6 +9372,7 @@ epitaphize
 encampment
 elytrin
 errors
+eyebeam
 errsyn
 ensuing
 estramazone
