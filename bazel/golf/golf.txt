@@ -8735,6 +8735,7 @@ greet
 gadid
 grabble
 googly
+grimsir
 greeting
 greets
 gliffing
@@ -9818,7 +9819,6 @@ gorillas
 gastraea
 groggery
 guajillo
-grimsir
 guarantied
 gallicism
 gourmandize

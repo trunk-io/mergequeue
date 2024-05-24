@@ -2606,7 +2606,6 @@ demiquaver
 decocting
 decoctive
 decocts
-deaminizing
 decoctum
 decodable
 decode
@@ -9216,6 +9215,7 @@ dieldrin
 decahedrodra
 decentres
 dieldrins
+deaminizing
 dyeleaves
 dielectric
 discontinuor
