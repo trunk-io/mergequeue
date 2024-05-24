@@ -7285,6 +7285,7 @@ discompt
 dogless
 disorientation
 dismissible
+deringers
 dissheathe
 dowage
 disseized
@@ -14727,7 +14728,6 @@ dockhouse
 dockyard
 dockyardman
 daktylon
-deringers
 dockyards
 docking
 dukkha
