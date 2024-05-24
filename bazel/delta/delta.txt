@@ -7437,7 +7437,6 @@ deglute
 detrition
 dancer
 drumfire
-deselect
 defends
 detrivorous
 dervish
@@ -16010,6 +16009,7 @@ detrimentality
 doubleheartedness
 doubleyou
 delbert
+deselect
 dupability
 doublelunged
 disturn

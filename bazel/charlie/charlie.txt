@@ -3266,7 +3266,6 @@ caplock
 coherald
 cordmaker
 capmaking
-capman
 capnodium
 capnoides
 colonizes
@@ -15362,6 +15361,7 @@ clamb
 chubb
 clambake
 clamber
+capman
 colfox
 cassique
 chaining
