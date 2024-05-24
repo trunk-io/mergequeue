@@ -12347,6 +12347,7 @@ anderson
 alkenna
 anderun
 andesites
+allotropism
 andesytes
 andesitic
 andevo
@@ -17277,7 +17278,6 @@ apogee
 apogees
 apogeic
 antimarian
-allotropism
 achiever
 assiduous
 apogenous
