@@ -3636,7 +3636,6 @@ bathometry
 borsht
 bathonian
 blockmaking
-bathool
 bathophobia
 bathos
 bathrobe
@@ -3924,6 +3923,7 @@ bawdries
 bangling
 bawl
 bevelment
+bathool
 bawled
 bawley
 bawler
