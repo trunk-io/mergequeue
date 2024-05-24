@@ -9784,7 +9784,6 @@ bauera
 bisk
 boulangerite
 bisks
-bislings
 belial
 battening
 bysmalith
@@ -17520,6 +17519,7 @@ bedip
 binucleate
 beneficence
 burbliest
+bislings
 backspeir
 beflower
 burbolt
