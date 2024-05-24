@@ -3998,6 +3998,7 @@ empanelling
 empanels
 emanant
 electroplated
+etuis
 empanoply
 empaper
 emparchment
@@ -10901,7 +10902,6 @@ electrocuting
 eloquently
 exulceration
 eupepsia
-etuis
 eupepsies
 eupeptic
 eupepticity
