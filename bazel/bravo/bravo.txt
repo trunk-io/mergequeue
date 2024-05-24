@@ -6917,7 +6917,6 @@ bersaglieri
 berseem
 berserker
 blackbirds
-bin
 berserks
 bersiamite
 bersil
@@ -17421,6 +17420,7 @@ bungwall
 bunya
 breeding
 bunyah
+bin
 bunyan
 bunyip
 blennymenitis
