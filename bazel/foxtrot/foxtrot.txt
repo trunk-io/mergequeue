@@ -762,7 +762,6 @@ fancying
 fanciless
 fanciness
 fragrance
-fancysick
 fickly
 fixures
 foretack
@@ -7261,6 +7260,7 @@ floorboards
 fameuse
 footstall
 footstock
+fancysick
 fortlet
 footstools
 finnesko
