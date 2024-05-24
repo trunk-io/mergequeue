@@ -5054,7 +5054,6 @@ casalty
 colat
 casamarca
 casanova
-casanovanic
 casaques
 casaquin
 casas
@@ -18409,6 +18408,7 @@ cognizableness
 cognizance
 cognizant
 cognize
+casanovanic
 cognized
 compatient
 cognizer
