@@ -3540,7 +3540,6 @@ additament
 abiliment
 additiment
 additionary
-additionist
 afterwort
 additions
 addititious
@@ -11301,6 +11300,7 @@ amphisporangiate
 amphispore
 amphistylic
 amphistoma
+additionist
 africans
 amphistome
 asyllabic
