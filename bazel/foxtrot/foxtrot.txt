@@ -7703,6 +7703,7 @@ flaggelation
 forehock
 forehoof
 flotter
+forlet
 forspeak
 frist
 forehoofs
@@ -9672,7 +9673,6 @@ flagstaffs
 forte
 freeheartedly
 fibs
-forlet
 fallenness
 feuage
 freeholders
