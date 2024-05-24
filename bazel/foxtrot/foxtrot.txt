@@ -4983,7 +4983,6 @@ flannelette
 flatworks
 flanneling
 flannelleaves
-floc
 forepaw
 flannelmouth
 ferries
@@ -10926,6 +10925,7 @@ favoringly
 florette
 fleeten
 fossarian
+floc
 flambe
 filmically
 fullered
