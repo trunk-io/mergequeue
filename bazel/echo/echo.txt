@@ -3184,7 +3184,6 @@ enterophthisis
 eluating
 enteritis
 elucidate
-expulser
 elucidates
 elucidations
 embraciveg
@@ -8612,6 +8611,7 @@ encompassing
 equiconvex
 egrets
 enworthy
+expulser
 ergatomorph
 equicurve
 equid
