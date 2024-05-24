@@ -3900,7 +3900,6 @@ epiglottis
 ekoi
 epitheliliums
 emissive
-emissivity
 ethicists
 emissory
 emily
@@ -11912,6 +11911,7 @@ exultation
 ecrustaceous
 esthesises
 exceptiveness
+emissivity
 exceptless
 emends
 eluvial
