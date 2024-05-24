@@ -7616,7 +7616,6 @@ albumoid
 actomyosin
 albumoscope
 appellancy
-albumose
 albumosuria
 albums
 ahind
@@ -8694,6 +8693,7 @@ autistic
 anastomosis
 allegoristic
 amygdaloidal
+albumose
 allegorists
 allegorized
 allegorizer
