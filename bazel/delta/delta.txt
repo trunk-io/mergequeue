@@ -7656,7 +7656,6 @@ dismantlement
 duke
 developer
 developers
-developes
 developing
 development
 developmental
@@ -18202,6 +18201,7 @@ drawbolt
 dearer
 dynamistic
 darapti
+developes
 dzungar
 dundrearies
 debarked

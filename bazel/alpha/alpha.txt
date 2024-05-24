@@ -809,7 +809,6 @@ abroach
 abrocome
 abrogable
 abrogate
-anaglyphy
 antagonisation
 abrogating
 abrogative
@@ -3448,6 +3447,7 @@ adaption
 algetic
 anchoic
 adaptionism
+anaglyphy
 adaptions
 apollonistic
 adaptitude
