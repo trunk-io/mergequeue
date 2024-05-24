@@ -16224,7 +16224,6 @@ chromosantonin
 climbing
 climbingfish
 climbingfishes
-collinearly
 chedites
 chechen
 clime
@@ -23648,6 +23647,7 @@ corycian
 contortedness
 contorting
 commissionating
+collinearly
 chronothermometer
 contortion
 contortional
