@@ -2428,7 +2428,6 @@ electrogalvanization
 equalization
 electrogenetic
 equivalence
-enharbor
 electrogenic
 electrogild
 electrogilt
@@ -5968,6 +5967,7 @@ enkindles
 estaminets
 emeriti
 epiphytotic
+enharbor
 elbowchair
 escroll
 endognath
