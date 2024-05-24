@@ -2229,7 +2229,6 @@ bewilders
 barajillo
 blastoma
 baramika
-balsamous
 baramin
 bertat
 bararite
@@ -4431,6 +4430,7 @@ bowlders
 breadbaskets
 becall
 bonehead
+balsamous
 becalm
 becalming
 beakiest
