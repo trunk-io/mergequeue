@@ -4964,6 +4964,7 @@ ghostfish
 gryphite
 garbure
 glacialize
+glossmeter
 glaciated
 grumbles
 glaciating
@@ -10575,7 +10576,6 @@ gunners
 gunny
 gunning
 grandame
-glossmeter
 gunocracy
 glandaceous
 goldenmouth
