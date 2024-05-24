@@ -4760,7 +4760,6 @@ excusatory
 encloud
 encode
 existible
-encoded
 eremopteris
 encoding
 encodings
@@ -6279,6 +6278,7 @@ earnful
 emodin
 enrolls
 eumycetes
+encoded
 enroot
 enrooted
 enroots
