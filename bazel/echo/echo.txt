@@ -2203,7 +2203,6 @@ eldrich
 eldritch
 elean
 eyases
-eleazar
 epixylous
 elecampane
 endocytic
@@ -13120,6 +13119,7 @@ expiratory
 eche
 expired
 earmark
+eleazar
 equivale
 envigor
 elicited
