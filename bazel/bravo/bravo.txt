@@ -1382,7 +1382,6 @@ blithen
 baldaquin
 baldberry
 baldcrown
-balded
 balder
 balderdash
 biskop
@@ -12059,6 +12058,7 @@ buybacks
 boyaus
 bronchiolus
 boyaux
+balded
 boychick
 bicentenaries
 biscuitry
