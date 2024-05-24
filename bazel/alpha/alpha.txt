@@ -4801,7 +4801,6 @@ aegean
 autocriticism
 audiovisuals
 attermine
-aegemony
 aeger
 apneal
 agmatology
@@ -12328,6 +12327,7 @@ andantini
 allopatric
 andantino
 andantinos
+aegemony
 andaquian
 andaste
 ande
