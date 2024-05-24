@@ -7484,7 +7484,6 @@ ephor
 essayical
 ephorate
 ephraim
-ekphory
 escalatory
 emirates
 essayist
@@ -12627,6 +12626,7 @@ exoderms
 exody
 elaphodus
 equiaxial
+ekphory
 exodic
 erythrocyte
 exodontia
