@@ -4294,6 +4294,7 @@ firmness
 funditor
 fauces
 frailty
+francs
 firms
 finestiller
 forethought
@@ -10971,7 +10972,6 @@ fulmined
 fadridden
 fayumic
 fliest
-francs
 fulmines
 fulminurate
 fulness

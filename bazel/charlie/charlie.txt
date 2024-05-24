@@ -18642,7 +18642,6 @@ coinheritor
 coiny
 coining
 coinitial
-coinmaking
 coinmate
 climatotherapeutics
 coinmates
@@ -26122,6 +26121,7 @@ cithara
 cosigning
 circuli
 cosily
+coinmaking
 cosymmedian
 compurgator
 cosinage
