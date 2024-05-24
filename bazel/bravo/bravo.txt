@@ -2126,6 +2126,7 @@ buyers
 bannockburn
 bannocks
 bivittate
+businesswoman
 banovina
 banquet
 banqueter
@@ -18022,7 +18023,6 @@ belucki
 benevolence
 businesslikeness
 businessmen
-businesswoman
 behest
 busing
 busyworks
