@@ -11236,7 +11236,6 @@ chloragogen
 chloragogue
 chloral
 chloralformamide
-chloralization
 comburimeter
 cymbocephalic
 chloralize
@@ -11825,6 +11824,7 @@ chondrogenetic
 chondrogenous
 chondroglossal
 chondrography
+chloralization
 conduplication
 chondroitic
 chondroitin

@@ -7340,6 +7340,7 @@ bestower
 bestowment
 bestows
 bestraddle
+bestrew
 blades
 beveled
 bestraddled
@@ -7351,7 +7352,6 @@ bestraught
 bestudded
 blackhander
 balearic
-bestrew
 bearwoods
 bestrewment
 bestrewn
