@@ -8253,6 +8253,7 @@ diadoumenos
 diadrom
 diadrome
 delisting
+diphtherial
 diadromous
 dioti
 diadumenus
@@ -14796,7 +14797,6 @@ disbalancement
 doctrinality
 deposita
 doctrinally
-diphtherial
 dharmashastra
 depender
 doctrinarity
