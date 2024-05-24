@@ -4929,6 +4929,7 @@ demonizes
 desmon
 daza
 digametic
+diecase
 demonizing
 drame
 demonography
@@ -9192,7 +9193,6 @@ dieb
 diebacks
 dyebeck
 durn
-diecase
 diecious
 diectasis
 damascenes
