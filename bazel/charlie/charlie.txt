@@ -8245,7 +8245,6 @@ chairing
 carbonarism
 chairlady
 chairladies
-chairless
 chairlift
 chairmaker
 chairmaking
@@ -18157,6 +18156,7 @@ coequate
 centerward
 chincha
 chinbone
+chairless
 chiniofon
 cruses
 colpocystocele
