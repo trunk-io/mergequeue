@@ -3895,7 +3895,6 @@ dressier
 dicellate
 disempower
 deionizations
-deionize
 decastyle
 deselects
 dissceptred
@@ -8354,6 +8353,7 @@ darkishness
 ditrigonally
 dockmaster
 dialectical
+deionize
 dialectician
 daniele
 deathcup
