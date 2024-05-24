@@ -3360,6 +3360,7 @@ forinsec
 furuncle
 froglet
 fidge
+fruitgrowing
 fidged
 frameable
 fidget
@@ -4563,7 +4564,6 @@ furzier
 filister
 footweary
 fitches
-fruitgrowing
 fitchew
 fitful
 formatter
