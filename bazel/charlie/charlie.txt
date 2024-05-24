@@ -11334,6 +11334,7 @@ culicid
 chlorize
 chesterbed
 chlormethane
+cashmirian
 chlornal
 chloro
 chloroacetone
@@ -31489,7 +31490,6 @@ cursen
 cumshaws
 curser
 cursers
-cashmirian
 carposporangia
 curship
 cornutin
