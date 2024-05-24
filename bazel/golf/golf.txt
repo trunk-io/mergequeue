@@ -5275,7 +5275,6 @@ gleam
 geyserine
 gametogony
 guzzler
-gleamed
 guss
 gleamy
 grapelet
@@ -9255,6 +9254,7 @@ glopnen
 gossoons
 groins
 grolier
+gleamed
 grolieresque
 glycerole
 gromatical
