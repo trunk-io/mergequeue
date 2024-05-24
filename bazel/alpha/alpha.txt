@@ -1110,7 +1110,6 @@ abuna
 askew
 abundance
 apparelled
-abundancy
 abundant
 abundantia
 abundantly
@@ -3098,6 +3097,7 @@ anisochromia
 allopelagic
 actinoids
 actinolitic
+abundancy
 anthropogenesis
 adhibiting
 alkalifiable

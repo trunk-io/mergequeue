@@ -2206,7 +2206,6 @@ benzpyrene
 baptizer
 biplanar
 baptizers
-baptizing
 bar
 barabara
 birchbark
@@ -6832,6 +6831,7 @@ berate
 balaamitical
 berline
 berliners
+baptizing
 banzais
 bathmotropic
 berlinize
