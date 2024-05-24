@@ -2580,7 +2580,6 @@ disyllabizing
 declinatory
 declinature
 decline
-decliner
 djalmaite
 declines
 declining
@@ -13071,6 +13070,7 @@ dispermic
 dispermous
 dipeptidase
 disperple
+decliner
 dispersal
 disamis
 diadem
