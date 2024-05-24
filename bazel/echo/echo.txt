@@ -1068,7 +1068,6 @@ eqpt
 evaniidae
 edgar
 evitable
-edge
 embellishing
 edgebone
 emyd
@@ -3380,6 +3379,7 @@ ephoral
 embase
 embassadress
 embassy
+edge
 epiphytes
 engler
 enjoyingly
