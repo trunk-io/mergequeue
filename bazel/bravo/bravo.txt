@@ -2951,7 +2951,6 @@ burrs
 barrets
 boundaries
 boobishness
-blobby
 bailed
 barricaded
 baryes
@@ -11556,6 +11555,7 @@ badinaged
 bluntness
 blup
 barbs
+blobby
 blur
 blurb
 blurbist
