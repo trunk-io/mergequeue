@@ -3201,7 +3201,6 @@ actiones
 aurivorous
 actionist
 amizilis
-antispace
 actionizing
 actionless
 arrectary
@@ -14384,6 +14383,7 @@ antheses
 aquosity
 aftergrass
 alkahests
+antispace
 adrop
 anemograph
 anthesteriac
