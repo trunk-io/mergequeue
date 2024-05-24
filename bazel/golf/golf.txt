@@ -441,7 +441,6 @@ galcha
 growl
 greyskin
 galea
-galeage
 glucuronide
 ghillie
 goliard
@@ -9039,6 +9038,7 @@ grinderman
 garbo
 grinders
 gypper
+galeage
 galligaskins
 gruelly
 gittern
