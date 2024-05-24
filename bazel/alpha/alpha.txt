@@ -15145,7 +15145,6 @@ anticularia
 anticus
 antidactyl
 antidancing
-antideflation
 antidemocracy
 antidemocrat
 auroras
@@ -20598,6 +20597,7 @@ adoptive
 arthralgic
 arthrectomy
 alae
+antideflation
 acousmata
 arthredema
 arthresthesia
