@@ -13315,7 +13315,6 @@ botanise
 botanist
 bdle
 botanize
-brachioradialis
 botanizes
 botanizing
 botanomancy
@@ -15613,6 +15612,7 @@ beholder
 broadish
 broadleaf
 baylike
+brachioradialis
 broadly
 broadling
 broadlings
