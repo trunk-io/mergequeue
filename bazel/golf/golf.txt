@@ -6554,7 +6554,6 @@ gregorian
 gallivanted
 gouger
 goldbird
-goldbrick
 griffinism
 guineapig
 goldbug
@@ -10465,6 +10464,7 @@ gummoses
 greenbacker
 gummosity
 gump
+goldbrick
 gumption
 gumptionless
 graylings
