@@ -1668,7 +1668,6 @@ demarks
 deanery
 deaneries
 deanimalize
-deanships
 decoction
 deanthropomorphic
 deanthropomorphism
@@ -7047,6 +7046,7 @@ dykage
 dessertspoon
 dessertspoonful
 dessertspoonfuls
+deanships
 dessicate
 destinezite
 dessil
