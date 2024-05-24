@@ -321,6 +321,7 @@ boule
 backcourt
 backcourtman
 backcross
+basic
 backdated
 backdates
 backstair
@@ -3186,7 +3187,6 @@ basibranchiate
 basibregmatic
 bowwood
 bauld
-basic
 bombardier
 basically
 basicerite
