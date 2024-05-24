@@ -4864,7 +4864,6 @@ encrisp
 encroach
 edgestone
 encroacher
-encroaching
 explete
 encroachments
 encrotchet
@@ -7321,6 +7320,7 @@ economy
 epanorthidae
 ephorates
 epanorthoses
+encroaching
 edrioasteroid
 endocarpic
 epanorthotic

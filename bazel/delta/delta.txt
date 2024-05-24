@@ -10542,7 +10542,6 @@ defiled
 diplococcus
 discoblastula
 diplocoria
-diplodia
 diplodocus
 dopant
 diplodus
@@ -11445,6 +11444,7 @@ discographically
 dekaliter
 discographies
 dishier
+diplodia
 daubry
 discoideae
 discoids
