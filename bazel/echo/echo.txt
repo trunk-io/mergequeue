@@ -3496,7 +3496,6 @@ encarpi
 eccyclema
 embloom
 eringoes
-embodied
 embodiers
 embodies
 entropy
@@ -6130,6 +6129,7 @@ enolases
 enwrapped
 enolic
 enolizable
+embodied
 envisionment
 enolizing
 enological
