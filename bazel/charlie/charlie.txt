@@ -13593,6 +13593,7 @@ cyke
 coenurus
 cyl
 comburivorous
+clo
 cilectomy
 cornichon
 cilery
@@ -16457,7 +16458,6 @@ clivis
 clivises
 clivus
 clk
-clo
 cloaca
 cloacae
 cloacal
