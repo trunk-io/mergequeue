@@ -5823,7 +5823,6 @@ catenate
 crooisite
 catenates
 cicatrixes
-coronoid
 catenating
 catenation
 catenative
@@ -12999,6 +12998,7 @@ chuser
 critism
 charquis
 chut
+coronoid
 chute
 chuted
 chuter
