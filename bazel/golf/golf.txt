@@ -8792,7 +8792,6 @@ greyiaceae
 gadbush
 guanos
 greying
-greyish
 greylag
 greylags
 gesten
@@ -10249,6 +10248,7 @@ gallused
 guillotined
 gowpin
 gobbet
+greyish
 guillotinist
 guiltlessness
 gonophorous
