@@ -6728,7 +6728,6 @@ date
 designatum
 detersive
 designedly
-designedness
 designee
 detachability
 decanally
@@ -14788,6 +14787,7 @@ depender
 doctrinarity
 designate
 doctrinate
+designedness
 doctrines
 delinition
 decumbently
