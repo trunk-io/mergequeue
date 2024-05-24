@@ -7417,7 +7417,6 @@ cephalology
 cephalom
 calina
 cephalomancy
-commisce
 cephalomant
 cephalomeningitis
 cultivatable
@@ -19209,6 +19208,7 @@ ctenoidian
 colloquiums
 cuittled
 colloquizing
+commisce
 colloququia
 collossians
 cymbaeform
