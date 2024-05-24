@@ -1917,6 +1917,7 @@ gloam
 gatehouse
 graine
 gingiva
+grovelings
 gelsemin
 gatekeeper
 gatekeepers
@@ -2429,7 +2430,6 @@ geldesprung
 geldings
 gorgets
 gelds
-grovelings
 gelechia
 gelees
 gelidness
