@@ -1401,6 +1401,7 @@ ballparks
 bootstraps
 baldmoney
 baldmoneys
+bowfin
 bellwaver
 baldoquin
 baldpate
@@ -13838,7 +13839,6 @@ bookwise
 bialveolar
 barleybird
 bowess
-bowfin
 bacterium
 bang
 bast
