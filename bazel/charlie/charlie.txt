@@ -5039,7 +5039,6 @@ carves
 carvestrene
 carvy
 carving
-curses
 carvings
 carvoeira
 carvoepra
@@ -6775,6 +6774,7 @@ cateresses
 chondroskeleton
 cubhood
 clearway
+curses
 celiomyositis
 celioparacentesis
 cerinthian
