@@ -4545,7 +4545,6 @@ adunation
 astutely
 adunc
 aduncate
-aduncity
 aduncous
 adure
 adurent
@@ -12824,6 +12823,7 @@ anoestrous
 angiomyosarcoma
 angioneurosis
 abernethy
+aduncity
 anamirtin
 angionoma
 arcabucero
