@@ -2839,7 +2839,6 @@ earthed
 elephantoid
 exsertion
 eath
-elephantoidal
 enantiopathy
 elephantous
 emetically
@@ -5300,6 +5299,7 @@ epiphyte
 estrangement
 endosteitis
 endosteoma
+elephantoidal
 encoring
 endosteomata
 endosteum

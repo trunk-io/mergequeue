@@ -1644,6 +1644,7 @@ ballota
 ballotade
 blier
 bilobated
+banderole
 balloted
 balloter
 betrayal
@@ -1876,7 +1877,6 @@ bandeng
 banderlog
 banderma
 banderol
-banderole
 brigading
 banders
 banjara
