@@ -2551,6 +2551,7 @@ fawnskin
 fastus
 forehorse
 ferox
+fibreware
 forcy
 fainthearted
 flockier
@@ -3518,7 +3519,6 @@ figulines
 figurable
 fixture
 figurae
-fibreware
 forepleasure
 fruiterers
 foreign
