@@ -1114,7 +1114,6 @@ dashmaker
 dashnak
 dashplate
 dropflower
-depaint
 diau
 dasyatis
 dasymeter
@@ -17305,6 +17304,7 @@ distinguishably
 drolling
 drollingly
 drollishness
+depaint
 drollist
 duskiness
 dooryard
