@@ -5162,7 +5162,6 @@ gatch
 gyrencephalate
 gandering
 glasseye
-glassen
 glassfish
 guitermanite
 gouvernante
@@ -9570,6 +9569,7 @@ glady
 growlery
 growleries
 gowds
+glassen
 gildhall
 growly
 growliest
