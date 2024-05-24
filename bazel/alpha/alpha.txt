@@ -11825,7 +11825,6 @@ araneology
 amnestic
 antinational
 analytique
-analyzability
 analyzation
 arnoseris
 arcuately
@@ -17787,6 +17786,7 @@ appertained
 acrose
 appertainment
 agouta
+analyzability
 appertinent
 appertise
 appestat
