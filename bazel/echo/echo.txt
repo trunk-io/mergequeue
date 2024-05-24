@@ -2395,7 +2395,6 @@ englyn
 extracted
 electrodialyze
 ethanim
-ecospecies
 electrodynamic
 excoriates
 electrodynamics
@@ -12613,6 +12612,7 @@ endokaryogamy
 exocrines
 estancieros
 epitonium
+ecospecies
 epiphytically
 extraformal
 estradas
