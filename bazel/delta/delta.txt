@@ -10919,7 +10919,6 @@ disadvancing
 disadvantaged
 dirties
 disadvantageously
-disadvantageousness
 disadventure
 disadvise
 disadvising
@@ -13335,6 +13334,7 @@ disfeature
 disputer
 definitising
 discerns
+disadvantageousness
 disputers
 discord
 disputes
