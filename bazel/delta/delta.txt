@@ -6193,7 +6193,6 @@ derepression
 derequisition
 derestrict
 derf
-derfly
 derfness
 derham
 deric
@@ -14139,6 +14138,7 @@ dysurias
 dysuric
 disusage
 disusance
+derfly
 disuse
 disbarments
 disbranching
