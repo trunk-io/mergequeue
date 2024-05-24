@@ -3988,7 +3988,6 @@ empall
 empanada
 euphoniousness
 exhilaratory
-empanel
 expoundable
 empaneled
 empanelling
@@ -4260,6 +4259,7 @@ eely
 emulousness
 egoisms
 emulsibility
+empanel
 emulsible
 emulsifications
 egyptologist
