@@ -1099,6 +1099,7 @@ clamworm
 calcinosis
 calciobiotite
 calcioferrite
+codicils
 calcioscheelite
 calciovolborthite
 calcipexy
@@ -17884,7 +17885,6 @@ conche
 codices
 codicil
 cinereous
-codicils
 codicology
 codictatorship
 codification
