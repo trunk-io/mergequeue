@@ -6698,7 +6698,6 @@ fausen
 fiendlier
 fofarraw
 flanger
-fog
 fraticelli
 faqirs
 feted
@@ -7754,6 +7753,7 @@ freedmen
 foreknowing
 foreknowingly
 frere
+fog
 foreleg
 famishing
 florilege
