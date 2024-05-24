@@ -5708,6 +5708,7 @@ aftersound
 afterspeech
 afterspring
 afterstretch
+asexualise
 afterstudy
 acetylaminobenzene
 aftersupper
@@ -19272,7 +19273,6 @@ arcifinious
 arciform
 archoptosis
 arcing
-asexualise
 arcite
 adherences
 arcked
