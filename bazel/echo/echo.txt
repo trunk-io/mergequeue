@@ -3172,7 +3172,6 @@ electioneers
 elseways
 elsewhen
 exaggerators
-elsewhere
 elsewheres
 extuberance
 elsewise
@@ -9817,6 +9816,7 @@ embryol
 elaphomyces
 ess
 exchange
+elsewhere
 essay
 envapor
 essayed
