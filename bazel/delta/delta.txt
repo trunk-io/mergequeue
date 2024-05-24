@@ -528,6 +528,7 @@ dama
 damageability
 damageably
 describent
+digestedly
 demounted
 damaged
 detort
@@ -5239,7 +5240,6 @@ doghole
 deathly
 denitrificant
 denitrification
-digestedly
 denitrifier
 denitrifying
 deists
