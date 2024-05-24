@@ -11887,7 +11887,6 @@ anamnestic
 anamnestically
 anserinae
 anamniata
-aplacophora
 anamnionata
 anamniota
 anamniotic
@@ -15726,6 +15725,7 @@ antinodal
 antinode
 antinome
 antinomy
+aplacophora
 antinomianism
 alumin
 antinomians
