@@ -3427,7 +3427,6 @@ byrrus
 bal
 basswoods
 begalling
-basta
 bastaard
 bastard
 boughless
@@ -14103,6 +14102,7 @@ brachistochronous
 baronies
 brachystomatous
 brachystomous
+basta
 brawlier
 buckety
 battering
