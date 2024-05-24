@@ -20506,7 +20506,6 @@ comparers
 comparing
 comparisons
 comparition
-comparsa
 compart
 comparted
 compartimenti
@@ -26603,6 +26602,7 @@ conjugata
 cantillate
 couchette
 couchy
+comparsa
 cube
 caback
 confervoid
