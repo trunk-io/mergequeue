@@ -3591,7 +3591,6 @@ esperantism
 embowering
 epitomically
 embowerment
-embowers
 empolder
 expendability
 embows
@@ -13841,6 +13840,7 @@ extracting
 extractive
 extractively
 extractor
+embowers
 egotizing
 ethiop
 extensional
