@@ -5915,7 +5915,6 @@ cathartolinum
 coconspirator
 catheads
 cathect
-cathected
 cathecting
 cathection
 cathects
@@ -10385,6 +10384,7 @@ chickies
 chickling
 chickory
 coprosterol
+cathected
 chickories
 chickpea
 conspirator
