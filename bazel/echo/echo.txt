@@ -4041,7 +4041,6 @@ empexa
 epicoelian
 emphasize
 entoplastron
-emphasized
 embargos
 enrollees
 embarked
@@ -11625,6 +11624,7 @@ emergent
 ewte
 exacerbated
 exacerbates
+emphasized
 enhances
 economics
 endermatic
