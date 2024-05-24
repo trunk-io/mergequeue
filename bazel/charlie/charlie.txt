@@ -8214,7 +8214,6 @@ chainbreak
 crepuscule
 conceptions
 chaine
-chained
 chainer
 chainless
 craspedon
@@ -20513,6 +20512,7 @@ compartimenti
 chimley
 comparting
 compartition
+chained
 compartment
 chemically
 conelet
