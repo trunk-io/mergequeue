@@ -6853,7 +6853,6 @@ fnese
 feeblemindedly
 falcata
 foliate
-foliated
 foreadvertise
 foliates
 filopodium
@@ -11248,6 +11247,7 @@ foreday
 furthered
 funicles
 funiculars
+foliated
 foiblesse
 funiform
 funje
