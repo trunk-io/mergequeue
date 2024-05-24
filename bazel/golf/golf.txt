@@ -1834,7 +1834,6 @@ genotypes
 gastronosus
 gonyaulax
 galluot
-gastropathy
 gastropathic
 gabbier
 gammon
@@ -2731,6 +2730,7 @@ glisters
 genesial
 genesic
 genesiology
+gastropathy
 guillochee
 gasometrically
 gau
