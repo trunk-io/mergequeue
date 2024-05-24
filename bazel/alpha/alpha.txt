@@ -11793,7 +11793,6 @@ analgesist
 analgetic
 awapuhi
 analgia
-analgias
 analgic
 anticeremonialism
 altocumulus
@@ -23418,6 +23417,7 @@ auguration
 anywhy
 augure
 augured
+analgias
 anteroposteriorly
 augurer
 anguidae
