@@ -3471,6 +3471,7 @@ fiftypenny
 figary
 figaro
 farm
+fletcher
 figeater
 filicology
 fat
@@ -5704,7 +5705,6 @@ fiendship
 fleuronnee
 fungous
 finesses
-fletcher
 flirtish
 faunological
 favorers

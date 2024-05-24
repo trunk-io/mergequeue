@@ -2283,7 +2283,6 @@ barbarisms
 bronstrops
 barbarity
 barbarities
-barbarization
 bewelter
 breedling
 brigid
@@ -8517,6 +8516,7 @@ burdensomely
 bignou
 bygo
 biosystematist
+barbarization
 bygone
 bygones
 bist
