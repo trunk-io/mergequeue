@@ -3370,7 +3370,6 @@ derencephalocele
 dolabre
 definish
 dynagraph
-decapitalization
 diadoche
 definite
 definitely
@@ -5435,6 +5434,7 @@ diasene
 dentulous
 dentural
 dermatology
+decapitalization
 digestant
 doge
 diametrally
