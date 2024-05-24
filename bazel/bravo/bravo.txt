@@ -7639,7 +7639,6 @@ belayer
 beveller
 bookbinder
 biathlon
-bevenom
 bever
 barleducs
 beverage
@@ -9750,6 +9749,7 @@ behaviourism
 bishop
 backbeats
 brince
+bevenom
 bishopdom
 bishoped
 bishopful
