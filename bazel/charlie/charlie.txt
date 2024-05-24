@@ -2822,7 +2822,6 @@ canos
 canossa
 canotier
 canreply
-canroy
 cans
 crouchmas
 cubi
@@ -24935,6 +24934,7 @@ coralflower
 coralist
 coralita
 coralla
+canroy
 clavodeltoid
 colocynthin
 corallian
