@@ -1971,6 +1971,7 @@ acetanisidine
 acetars
 acetated
 acetation
+acquiring
 acetbromamide
 acetenyl
 actinostomal
@@ -2688,7 +2689,6 @@ acquirable
 approximated
 acquire
 acquirement
-acquiring
 acquisite
 acquisited
 acquisitional
