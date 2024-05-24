@@ -7902,6 +7902,7 @@ crotchy
 cervicoscapular
 cervicothoracic
 cervicovesical
+cardialgic
 cervid
 cervinae
 cosignatory
@@ -17808,7 +17809,6 @@ compense
 calibrators
 cardiography
 codas
-cardialgic
 coddy
 carbonero
 coddle
