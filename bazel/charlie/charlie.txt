@@ -9416,7 +9416,6 @@ chaus
 constatory
 commiserate
 chausse
-chaussee
 chaussees
 chaussure
 coscinodiscaceae
@@ -21354,6 +21353,7 @@ concho
 conchoidal
 conchoidally
 conchoids
+chaussee
 communicableness
 conchol
 conchology
