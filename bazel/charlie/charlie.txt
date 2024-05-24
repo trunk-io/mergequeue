@@ -4876,6 +4876,7 @@ congregants
 carrotins
 carrotweed
 canonization
+clomben
 carrotwood
 carrousel
 carrousels
@@ -16617,7 +16618,6 @@ consigne
 cutaway
 conniver
 clokies
-clomben
 clomiphene
 clomp
 croker
