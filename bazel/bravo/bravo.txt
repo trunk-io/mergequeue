@@ -1672,7 +1672,6 @@ ballrooms
 blandiloquious
 ballsier
 boycotter
-ballsiest
 ballstock
 ballup
 ballutes
@@ -3223,6 +3222,7 @@ blowzily
 basidiospore
 basidiosporous
 basidorsal
+ballsiest
 basify
 bravure
 bathtub
