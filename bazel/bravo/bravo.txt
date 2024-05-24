@@ -6165,7 +6165,6 @@ bibliological
 bemocks
 brahmanical
 badawi
-bajan
 bemolt
 bort
 befrill
@@ -11923,6 +11922,7 @@ barabora
 boehmenism
 begemming
 boehmenite
+bajan
 boehmeria
 boehmite
 blitzing
