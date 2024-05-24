@@ -9391,7 +9391,6 @@ alphabetizing
 antiprotease
 anguishful
 aptera
-alphabetology
 alphameric
 alphamerically
 alphanumerics
@@ -18352,6 +18351,7 @@ aquilia
 abvolts
 aquilian
 aquilid
+alphabetology
 aquilinity
 aquilino
 aquilon
