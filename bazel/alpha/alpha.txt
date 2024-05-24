@@ -11049,6 +11049,7 @@ amouret
 allocaffeine
 amovable
 amuser
+angaria
 amove
 amoved
 amoving
@@ -12680,7 +12681,6 @@ autophonoscope
 appetizement
 angarep
 armstrong
-angaria
 angarias
 angariation
 angaries
