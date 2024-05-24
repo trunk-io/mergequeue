@@ -8060,7 +8060,6 @@ chabazite
 celiosalpingectomy
 chaber
 chablis
-crannog
 caliches
 clergies
 chabot
@@ -15635,6 +15634,7 @@ clasmatocyte
 clasmatocytic
 clasmatosis
 cuitle
+crannog
 cutify
 clasped
 clasper

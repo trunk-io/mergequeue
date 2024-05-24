@@ -6627,7 +6627,6 @@ fungify
 foamflower
 foamy
 forecaddie
-firework
 forthcomer
 foxtails
 foamier
@@ -10381,6 +10380,7 @@ fleing
 friendless
 fluorescein
 feudists
+firework
 flaps
 fertilised
 frontages
