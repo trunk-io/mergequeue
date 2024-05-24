@@ -33,7 +33,6 @@ grittiness
 gabbro
 gabbroid
 gabbroitic
-gabelleman
 gowf
 gaberdine
 gaberdines
@@ -1468,6 +1467,7 @@ glareous
 genuflect
 garnett
 gein
+gabelleman
 garnetter
 glyconeogenetic
 garniec
