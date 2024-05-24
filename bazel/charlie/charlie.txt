@@ -6518,7 +6518,6 @@ caxiri
 clannish
 commissaries
 caxon
-caxton
 chokidar
 caxtonian
 caza
@@ -27910,6 +27909,7 @@ crabut
 crabweed
 coreid
 crabwise
+caxton
 crabwood
 corms
 cracca
