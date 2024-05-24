@@ -2982,7 +2982,6 @@ geol
 gorgonized
 gipser
 grasser
-genuflex
 glyptal
 gemsbucks
 golkakra
@@ -5241,6 +5240,7 @@ glaucionetta
 glaucium
 glaucodot
 glaucodote
+genuflex
 glycoside
 gregarinous
 goldcup
