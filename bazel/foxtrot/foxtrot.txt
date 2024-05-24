@@ -354,6 +354,7 @@ fideicommissor
 fainter
 faintest
 finspot
+fishling
 fungales
 flumerin
 fleying
@@ -8464,7 +8465,6 @@ filix
 formicid
 fluorescent
 formicide
-fishling
 formicine
 formicivora
 formicoidea
