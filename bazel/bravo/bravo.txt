@@ -3563,6 +3563,7 @@ batheable
 bathed
 bellower
 bather
+both
 bathes
 bathetically
 bathflower
@@ -13352,7 +13353,6 @@ botella
 botels
 boterol
 brooched
-both
 bothered
 brender
 botherheaded
