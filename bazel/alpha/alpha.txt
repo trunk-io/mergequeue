@@ -1286,6 +1286,7 @@ acapu
 acara
 acarapis
 asaphic
+alb
 avocation
 acarari
 acardite
@@ -10938,7 +10939,6 @@ amoebian
 anaglyphoscope
 azotate
 amoebicide
-alb
 amoebida
 althea
 amoebidae
