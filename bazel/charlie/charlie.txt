@@ -13665,7 +13665,6 @@ ciliolum
 cilioretinal
 corenounce
 ciliotomy
-cilium
 cylix
 cyllenian
 cyllenius
@@ -15475,6 +15474,7 @@ clankum
 clanless
 chloropia
 clannishness
+cilium
 cradlemen
 clansfolk
 clanship
