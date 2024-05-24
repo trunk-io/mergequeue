@@ -6547,6 +6547,7 @@ barfy
 benzonaphthol
 benzonitrile
 benzonitrol
+bestand
 benzophenanthrazine
 benzophenone
 benzophenothiazine
@@ -7290,7 +7291,6 @@ beanfest
 bestay
 bestayed
 bestamp
-bestand
 bestarve
 bellical
 bestatued
