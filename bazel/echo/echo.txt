@@ -508,7 +508,6 @@ ethnohistorian
 echelle
 extraphenomenal
 estate
-emberizidae
 echeneidae
 erythrosinophile
 echeneididae
@@ -7909,6 +7908,7 @@ epopt
 epilabra
 epilate
 econ
+emberizidae
 earthman
 exquisitive
 epilating
