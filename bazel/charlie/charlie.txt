@@ -8863,7 +8863,6 @@ commonplaces
 chapelman
 chapelmaster
 chapelry
-combflower
 chapelries
 chapels
 chapelward
@@ -30785,6 +30784,7 @@ cullisance
 cannibalish
 cullises
 cartop
+combflower
 culls
 chordates
 culmed
