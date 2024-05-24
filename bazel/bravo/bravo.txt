@@ -7173,6 +7173,7 @@ besot
 boothian
 besotment
 bridehouse
+base
 balkar
 besottedly
 boweled
@@ -17815,7 +17816,6 @@ burree
 burrers
 burrfish
 burrgrailer
-base
 burrhead
 burrheaded
 burrheadedness
