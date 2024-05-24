@@ -5354,6 +5354,7 @@ begiggle
 bhuts
 begild
 bangster
+biconical
 beginger
 beginner
 bugbite
@@ -8190,7 +8191,6 @@ biconcave
 breezelike
 bidder
 biconic
-biconical
 biconically
 baalish
 biconnected
