@@ -2386,6 +2386,7 @@ feoffs
 fumant
 fand
 footstalk
+frenulum
 fremescence
 fer
 farriers
@@ -4927,7 +4928,6 @@ feldsher
 fantaseid
 flaminical
 fintadores
-frenulum
 flamless
 floorers
 filefish

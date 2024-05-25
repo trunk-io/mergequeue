@@ -2956,7 +2956,6 @@ eulysite
 eliminable
 eliminate
 entoplastic
-equiprobabilism
 eliminated
 ellipsometry
 equaled
@@ -10017,6 +10016,7 @@ exude
 expiatoriness
 estolide
 exoculated
+equiprobabilism
 estonia
 ethide
 extravertive
