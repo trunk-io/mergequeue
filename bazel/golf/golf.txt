@@ -5893,7 +5893,6 @@ grimmish
 gabeller
 glosts
 glottal
-gloomy
 grapsoid
 ghole
 gattine
@@ -6629,6 +6628,7 @@ germinatively
 gabert
 golilla
 goll
+gloomy
 guddling
 glaikitness
 goller
