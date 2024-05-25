@@ -9877,7 +9877,6 @@ dimerisms
 dimerization
 dimerize
 dimerized
-dimerizes
 dillydallied
 dimerizing
 dimers
@@ -13302,6 +13301,7 @@ didymous
 disprovide
 dispunitive
 dispurse
+dimerizes
 decarbonator
 dispurvey
 disputability
