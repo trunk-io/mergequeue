@@ -15436,7 +15436,6 @@ accessory
 aceratosis
 antiinsurrectionists
 antijam
-antikamnia
 antikathode
 antikenotoxin
 aborning
@@ -24568,6 +24567,7 @@ aval
 admixture
 avalanche
 avalanches
+antikamnia
 avalanching
 assortive
 avalent
