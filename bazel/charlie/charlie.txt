@@ -19120,7 +19120,6 @@ collier
 chariots
 colliery
 cuber
-colliers
 colonizer
 colliflower
 colliform
@@ -28714,6 +28713,7 @@ crenulate
 crenulated
 crenulation
 creodont
+colliers
 creodonta
 crenellating
 creodonts
