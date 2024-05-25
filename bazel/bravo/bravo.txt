@@ -11046,7 +11046,6 @@ blithers
 bijectively
 blithesome
 blithesomely
-bkgd
 benzotriazine
 blithest
 blitum
@@ -17934,6 +17933,7 @@ bushgrass
 bushy
 bolar
 badly
+bkgd
 babuism
 bushidos
 bractless
