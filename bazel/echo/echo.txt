@@ -9372,7 +9372,6 @@ epitaphize
 encampment
 elytrin
 errors
-errsyn
 ensuing
 estramazone
 escocheon
@@ -10301,6 +10300,7 @@ elritch
 ethidene
 ethyl
 epigynies
+errsyn
 excretionary
 embedded
 ethylamime
