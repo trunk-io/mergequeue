@@ -3646,6 +3646,7 @@ embrectomy
 embrica
 embryectomy
 essaylet
+exponential
 embryectomies
 embright
 epigrammatist
@@ -8905,7 +8906,6 @@ epibolic
 eremology
 excrescencies
 ecospecifically
-exponential
 encapsule
 eremophilous
 eremuri
