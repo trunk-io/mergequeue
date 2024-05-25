@@ -5513,6 +5513,7 @@ deordination
 decompression
 deorganization
 decolouriser
+dialogging
 deorganize
 deorientalize
 dallack
@@ -8435,7 +8436,6 @@ downsize
 dialoger
 dialogers
 dialogged
-dialogging
 dialogic
 dialogical
 dialogically
