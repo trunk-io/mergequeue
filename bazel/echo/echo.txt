@@ -5798,7 +5798,6 @@ ecesis
 engrandizement
 engraphic
 enodate
-engraphically
 engrasp
 ephedrins
 engravement
@@ -13099,6 +13098,7 @@ electrooptics
 expertness
 enlure
 estriche
+engraphically
 enfeature
 expiable
 eucleidae
