@@ -1992,7 +1992,6 @@ goodyship
 germaniums
 groundable
 girdler
-gaucie
 gynopara
 gumshoe
 gowd
@@ -8705,6 +8704,7 @@ goosish
 greensickness
 greenskeeper
 goldlike
+gaucie
 greenstone
 gluneamie
 gauntree
