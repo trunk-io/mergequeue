@@ -2035,7 +2035,6 @@ banished
 banisher
 banishing
 banishment
-banister
 bursting
 banyuls
 baniva
@@ -14767,6 +14766,7 @@ brazilian
 billycock
 boneyard
 baulks
+banister
 breadearner
 backscratching
 breadearning
