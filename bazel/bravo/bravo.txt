@@ -4684,7 +4684,6 @@ bewilderingly
 ballett
 bedeafened
 bedeafening
-botanised
 bedeck
 bedecked
 bedrid
@@ -14415,6 +14414,7 @@ braystone
 bowralite
 bathyspheres
 brakeless
+botanised
 brakeload
 brakemaker
 brakemaking

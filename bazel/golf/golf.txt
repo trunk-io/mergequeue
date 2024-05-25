@@ -2330,7 +2330,6 @@ gaullist
 gekkonid
 glossopharyngeal
 gristle
-gossipmongering
 graverobber
 gunpowder
 grovel
@@ -6471,6 +6470,7 @@ gog
 gogglebox
 goggler
 gugal
+gossipmongering
 ghostlet
 greenwort
 gres
