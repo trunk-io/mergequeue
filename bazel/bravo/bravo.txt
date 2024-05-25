@@ -3398,6 +3398,7 @@ bootable
 brythonic
 baculum
 bassan
+blasia
 bicarbonate
 bassanite
 biotechnics
@@ -10003,7 +10004,6 @@ bitterhearted
 bitterheartedness
 bittering
 becapped
-blasia
 bitterishness
 bitterling
 berth
