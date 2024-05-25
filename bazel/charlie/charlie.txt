@@ -16364,7 +16364,6 @@ clipboards
 clypeal
 clypeastridea
 clypeastrina
-clypeastroid
 clypeate
 conspicuous
 caraco
@@ -27637,6 +27636,7 @@ cow
 caesuras
 cowages
 cowan
+clypeastroid
 coward
 cowardy
 cowardice
