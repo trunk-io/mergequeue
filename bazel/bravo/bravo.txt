@@ -2189,7 +2189,6 @@ baptise
 backup
 brecken
 blahlaut
-baptisias
 baptisin
 bitulithic
 boneen
@@ -13860,6 +13859,7 @@ bowings
 badinage
 bowkail
 blinking
+baptisias
 behave
 bowla
 breadstuffs
