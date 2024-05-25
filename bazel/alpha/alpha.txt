@@ -7988,7 +7988,6 @@ alerse
 agravic
 agglutinates
 alert
-alerta
 anorak
 anabasis
 antinaturalist
@@ -9971,6 +9970,7 @@ amazement
 amazer
 amazers
 aphanesite
+alerta
 amazilia
 amazing
 antizymotic
