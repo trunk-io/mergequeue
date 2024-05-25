@@ -4287,7 +4287,6 @@ delsarte
 delsartian
 deltahedra
 deltaic
-dismaler
 deltaite
 deltalike
 deltarium
@@ -13745,6 +13744,7 @@ dissolve
 dilutes
 discard
 dalis
+dismaler
 druxy
 disenshroud
 dissolvent

@@ -1576,7 +1576,6 @@ arrivage
 accompanier
 australorp
 aguinaldo
-accompanies
 accompanying
 anomalopteryx
 accompanyist
@@ -13827,6 +13826,7 @@ aeschynanthus
 anonym
 anonyma
 anonyme
+accompanies
 aeolian
 anonymity
 anonymities
