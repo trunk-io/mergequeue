@@ -19837,7 +19837,6 @@ affreighter
 aristolochin
 aristology
 aristological
-aristologist
 aristomonarchy
 aristophanic
 aristorepublicanism
@@ -22594,6 +22593,7 @@ atheology
 abdominohysterotomy
 atheological
 atheologically
+aristologist
 apicad
 athericera
 athericeran
