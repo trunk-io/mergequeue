@@ -4438,7 +4438,6 @@ decollation
 demasculinisation
 demasculinised
 distream
-demasculinising
 demasculinization
 deflagrate
 demasculinized
@@ -7071,6 +7070,7 @@ destinism
 decretion
 deriv
 dicyemid
+demasculinising
 dissuasions
 destituent
 demesmerize
