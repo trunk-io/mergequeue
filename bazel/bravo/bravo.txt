@@ -7264,6 +7264,7 @@ bessel
 bessemer
 bewend
 bessemerize
+biomagnetism
 bessemerized
 birled
 bessera
@@ -9147,7 +9148,6 @@ bedstands
 bioluminescence
 blighties
 biomagnetic
-biomagnetism
 bewhite
 biomasses
 biomathematics
