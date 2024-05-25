@@ -7142,7 +7142,6 @@ centimes
 centimetre
 cashmerette
 centimetres
-centimo
 centimos
 centinel
 commonplaceism
@@ -20597,6 +20596,7 @@ compellingly
 cosines
 compendency
 compendia
+centimo
 cystomata
 celtophobe
 compendious
