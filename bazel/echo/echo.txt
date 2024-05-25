@@ -292,7 +292,6 @@ external
 eastness
 encephalograph
 eurygnathic
-eastre
 eat
 eximiously
 embleming
@@ -2636,6 +2635,7 @@ elucidative
 envenoms
 electrosmosis
 electrostatic
+eastre
 electrostatical
 exegetist
 enquiries
