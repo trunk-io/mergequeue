@@ -2242,7 +2242,6 @@ gconv
 gdinfo
 gds
 grimoire
-grayfish
 grinnellia
 gaycat
 gastrotomy
@@ -5870,6 +5869,7 @@ gyres
 gobos
 glossolalia
 glossolysis
+grayfish
 guestimating
 glossologist
 glossopharyngeus
