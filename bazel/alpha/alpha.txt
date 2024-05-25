@@ -19259,7 +19259,6 @@ allophane
 archtreasurership
 archturncoat
 apurpose
-archurger
 atomics
 archvampire
 archvillainy
@@ -24042,6 +24041,7 @@ among
 autoecy
 aortography
 adventitiously
+archurger
 autoecic
 accumulations
 autoecism
