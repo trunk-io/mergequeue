@@ -2413,7 +2413,6 @@ calamiform
 cancrophagous
 cancrum
 cancrums
-cand
 candace
 candareen
 candelabra
@@ -3346,6 +3345,7 @@ cervelas
 comfits
 cappings
 capple
+cand
 cappuccino
 chandu
 capra
