@@ -10833,7 +10833,6 @@ eyelight
 eulogies
 euphonic
 eulogism
-eulogist
 eulogistic
 entelodont
 eulogistical
@@ -12201,6 +12200,7 @@ excusing
 endpoint
 egger
 everyday
+eulogist
 ellipse
 econometrical
 earpieces

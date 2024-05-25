@@ -1901,7 +1901,6 @@ diplanetic
 dithematic
 debridement
 dithecous
-debrief
 debriefing
 dowser
 debriefings
@@ -2087,6 +2086,7 @@ depastured
 dermophytic
 duograph
 decameters
+debrief
 decamethonium
 decametric
 dreeing
