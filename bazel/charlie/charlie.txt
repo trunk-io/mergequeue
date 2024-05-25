@@ -5244,6 +5244,7 @@ cassare
 cassareep
 cassata
 cassatas
+coalitions
 cassation
 casse
 caveats
@@ -17279,7 +17280,6 @@ coalitioner
 coalitionist
 cytoplasm
 cleans
-coalitions
 coalize
 coalized
 coalizer
