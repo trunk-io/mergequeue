@@ -5089,7 +5089,6 @@ amphisbaenid
 auriculate
 admissibleness
 aeropathy
-aeropause
 aerope
 aeroperitoneum
 appendages
@@ -19106,6 +19105,7 @@ architects
 autoallogamy
 architecturalist
 architecture
+aeropause
 architectures
 architecturesque
 architecure
