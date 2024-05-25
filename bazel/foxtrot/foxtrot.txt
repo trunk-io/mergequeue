@@ -197,7 +197,6 @@ flaky
 finitary
 flytime
 factoring
-factoryship
 fuzzed
 floatiness
 factorize
@@ -1671,6 +1670,7 @@ fipenny
 fconv
 farcin
 familiar
+factoryship
 four
 fdnames
 fdub
