@@ -7362,7 +7362,6 @@ daimones
 detinuit
 detn
 detonability
-detonable
 demilunes
 depersonalised
 demiadult
@@ -13124,6 +13123,7 @@ diethylamine
 disbudding
 dispiritedly
 dispiriting
+detonable
 dyssystole
 deambulation
 dispirits
