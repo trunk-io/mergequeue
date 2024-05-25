@@ -1992,6 +1992,7 @@ goodyship
 germaniums
 groundable
 girdler
+guider
 gaucie
 gynopara
 gumshoe
@@ -5232,7 +5233,6 @@ garbages
 gutturality
 gravicembali
 gisler
-guider
 gunpaper
 glassworker
 gushed
