@@ -8822,7 +8822,6 @@ allyou
 allis
 allopolyploid
 allision
-alliteral
 alliterate
 alliterates
 alliteration
@@ -25270,6 +25269,7 @@ activating
 azimide
 azimin
 azimino
+alliteral
 azymite
 azimuth
 azimuthal
