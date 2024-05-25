@@ -3177,7 +3177,6 @@ anton
 amplidyne
 arthropody
 actinostome
-aramus
 agtbasic
 airbursts
 anatoly
@@ -3939,6 +3938,7 @@ adipopexia
 adipopexic
 adipopexis
 adipose
+aramus
 adiposeness
 abhenrys
 adiposity
