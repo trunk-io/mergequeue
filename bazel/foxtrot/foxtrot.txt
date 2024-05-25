@@ -2616,6 +2616,7 @@ ferrocene
 ferrocerium
 fogramity
 ferrocyanate
+flybelts
 ferroelectric
 ferrophosphorus
 fluviometer
@@ -5496,7 +5497,6 @@ flatworm
 fluctuant
 flibbertigibbety
 flybelt
-flybelts
 foolhardier
 featherers
 forepad
