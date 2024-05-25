@@ -2746,7 +2746,6 @@ forecar
 formicivorous
 funnier
 folkway
-fusain
 fervours
 forebays
 fishboat
@@ -5436,6 +5435,7 @@ factories
 fletchers
 fletches
 furrower
+fusain
 feynesses
 fleuret
 filionymic
