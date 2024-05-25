@@ -6267,7 +6267,6 @@ caulome
 caulomic
 caulopteris
 caulosarc
-caulotaxis
 caulote
 cauls
 caum
@@ -6836,6 +6835,7 @@ cello
 cellobiose
 cubit
 celloid
+caulotaxis
 colubrids
 cathodofluorescence
 celloidin
