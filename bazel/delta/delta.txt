@@ -9321,7 +9321,6 @@ dietitian
 dietitians
 dtset
 dietotherapeutics
-dietotherapy
 dietotoxic
 depilation
 dietrichite
@@ -15995,6 +15994,7 @@ denary
 dumfounds
 dotterels
 dynamicity
+dietotherapy
 dottier
 decimosexto
 dragonnade
