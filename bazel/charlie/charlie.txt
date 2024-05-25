@@ -6637,7 +6637,6 @@ cedillas
 ceding
 cedis
 cosheath
-chromule
 cedrat
 cedrate
 cedrela
@@ -30955,6 +30954,7 @@ cumbre
 celiocentesis
 cumbrian
 counterflight
+chromule
 cumbrous
 cumbrously
 cumbrousness
