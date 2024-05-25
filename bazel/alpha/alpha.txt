@@ -18056,7 +18056,6 @@ apprizer
 apprizers
 apprizes
 apprizing
-appro
 agamogenesis
 affects
 approach
@@ -20549,6 +20548,7 @@ arteriographic
 alacreatine
 arteriolith
 arterioloscleroses
+appro
 anoxybiosis
 arteriolosclerosis
 arteriomalacia
