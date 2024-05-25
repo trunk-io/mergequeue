@@ -3443,6 +3443,7 @@ embind
 erythrogonium
 esthematology
 embira
+explant
 embitterments
 energizer
 endogamous
@@ -13165,7 +13166,6 @@ explanatorily
 endoparasitic
 explanitory
 eliminatory
-explant
 explantation
 eodevonian
 explanted
