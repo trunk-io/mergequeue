@@ -4172,7 +4172,6 @@ admissable
 admissibility
 admission
 admissive
-admissively
 antiperistasis
 admissory
 acoelous
@@ -6139,6 +6138,7 @@ aghast
 aghlabite
 aghori
 acetate
+admissively
 apardon
 agible
 agiel
