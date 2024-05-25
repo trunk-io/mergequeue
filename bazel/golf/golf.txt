@@ -1704,7 +1704,6 @@ gummy
 gallons
 gastight
 gastly
-gastness
 gingili
 grignet
 genius
@@ -4315,6 +4314,7 @@ ghosthood
 genealogy
 gymnorhinal
 gymnosophical
+gastness
 gates
 gymnosophist
 gymnospermism
