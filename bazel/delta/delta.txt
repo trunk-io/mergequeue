@@ -6917,7 +6917,6 @@ desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
 disquisiting
-despair
 doomful
 dirgeful
 despairful
@@ -17516,6 +17515,7 @@ drubble
 drubly
 drucken
 drudge
+despair
 drudged
 debilissima
 drudgers
