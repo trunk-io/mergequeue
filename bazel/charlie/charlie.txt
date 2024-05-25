@@ -11717,6 +11717,7 @@ conumerary
 cholesteatoma
 concorrezanes
 cholesteatomatous
+chorioidoretinitis
 cholestene
 cholesteremia
 cholesteric
@@ -12049,7 +12050,6 @@ canelike
 chorioidocyclitis
 coffeewood
 chorioidoiritis
-chorioidoretinitis
 catcalling
 choriomata
 chorions

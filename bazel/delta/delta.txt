@@ -16840,7 +16840,6 @@ disallowances
 debaters
 dissuited
 drawfiling
-drawgate
 dividers
 detergents
 dishonorary
@@ -18671,6 +18670,7 @@ dwell
 dwelled
 dweller
 dwelling
+drawgate
 dwellings
 drawhorse
 dwelt
