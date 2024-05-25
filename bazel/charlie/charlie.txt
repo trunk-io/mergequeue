@@ -4400,6 +4400,7 @@ carinulate
 carioca
 caryocar
 caryocaraceae
+consonantal
 caryocaraceous
 cariocas
 changeably
@@ -23074,7 +23075,6 @@ consonance
 consonances
 consonancy
 consonant
-consonantal
 consonantalize
 consonantic
 cavalcade
