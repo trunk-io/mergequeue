@@ -6267,6 +6267,7 @@ agnails
 agname
 agnat
 agnatha
+averrer
 agnathia
 agnate
 agnathic
@@ -12901,7 +12902,6 @@ angletwitch
 anglewing
 allays
 anglewise
-averrer
 avenger
 asteraceous
 anglian
