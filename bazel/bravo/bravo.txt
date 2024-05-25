@@ -7285,7 +7285,6 @@ bestarve
 bellical
 bestatued
 boba
-bestead
 breme
 besteads
 besteal
@@ -12191,6 +12190,7 @@ befoul
 bolivar
 burns
 bolivian
+bestead
 bloodying
 befamine
 brose
