@@ -952,7 +952,6 @@ arteriotome
 absolves
 absolving
 absolvitor
-aldolize
 appeasably
 absonous
 absorb
@@ -18821,6 +18820,7 @@ archarchitect
 archartist
 archbanc
 archband
+aldolize
 archbeacon
 archbeadle
 aridge
