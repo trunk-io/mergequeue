@@ -3600,6 +3600,7 @@ fluidize
 flenches
 filename
 footgrip
+foxish
 fixates
 fanons
 forspoken
@@ -8582,7 +8583,6 @@ fenceress
 frivolizing
 forril
 forrit
-foxish
 forescript
 forsay
 fir
