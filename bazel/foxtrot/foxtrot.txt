@@ -5200,6 +5200,7 @@ fallers
 fstore
 flot
 flavoured
+factualism
 feeder
 fomenter
 fableland
@@ -7650,7 +7651,6 @@ fables
 fasciolidae
 flannelet
 foregrounds
-factualism
 foreguess
 flammant
 fleshlily
