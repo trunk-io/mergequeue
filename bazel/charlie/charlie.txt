@@ -8869,7 +8869,6 @@ chapelling
 commonplaces
 chapelman
 chapelmaster
-chapelry
 combflower
 chapelries
 chapels
@@ -19946,6 +19945,7 @@ clayish
 caccias
 coachmanship
 comity
+chapelry
 comitia
 comitial
 conglobulate
