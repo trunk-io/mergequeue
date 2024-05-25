@@ -3590,7 +3590,6 @@ flenches
 filename
 footgrip
 fixates
-fanons
 forspoken
 fourniture
 filers
@@ -3646,6 +3645,7 @@ fifteenth
 formful
 flook
 fridstool
+fanons
 foresightedness
 farcicalness
 filigrain
