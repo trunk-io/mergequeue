@@ -2919,7 +2919,6 @@ fulfil
 fetterlock
 fetticus
 fusarium
-fettled
 forewing
 foxship
 frabjously
@@ -6619,6 +6618,7 @@ fathering
 fullness
 foaming
 foamless
+fettled
 floodway
 foamlike
 foams
