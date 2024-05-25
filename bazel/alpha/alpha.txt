@@ -12479,7 +12479,6 @@ androsphinx
 androsporangium
 androspore
 androsterone
-androtomy
 ands
 andvari
 angara
@@ -12983,6 +12982,7 @@ alas
 anguid
 anguiform
 anguillaria
+androtomy
 abey
 amphitheccia
 affirmant
