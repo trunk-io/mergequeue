@@ -1059,7 +1059,6 @@ fromage
 fanes
 farish
 farkleberry
-fobs
 farkleberries
 farley
 flyleaf
@@ -5102,6 +5101,7 @@ fossified
 flatness
 faceting
 flatted
+fobs
 flattercap
 fremdly
 fragmentized
