@@ -5612,6 +5612,7 @@ fishnets
 forecabin
 forthbringer
 freighters
+flyflapper
 foulnesses
 faff
 frondous
@@ -7325,7 +7326,6 @@ fiscalify
 farer
 foragers
 foraminifer
-flyflapper
 foraminiferal
 fumitory
 fidgetingly

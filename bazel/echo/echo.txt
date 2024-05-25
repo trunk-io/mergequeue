@@ -5130,7 +5130,6 @@ endogastritis
 endangeitis
 epicist
 eastings
-endogen
 epispadiac
 electroballistician
 epibranchial
@@ -13977,6 +13976,7 @@ extraprofessional
 extrapunitive
 extraquiz
 extraregarding
+endogen
 extraregularly
 extrarenal
 echinosphaerites
