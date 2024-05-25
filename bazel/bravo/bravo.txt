@@ -11459,7 +11459,6 @@ beprank
 bluenose
 burros
 bluenoses
-bluepoint
 blackwasher
 bluepoints
 blueprint
@@ -17580,6 +17579,7 @@ burettes
 bashkir
 burfish
 buccellarius
+bluepoint
 burg
 bhima
 burgage
