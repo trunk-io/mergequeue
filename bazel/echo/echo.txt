@@ -4750,6 +4750,7 @@ encloister
 etymologize
 exegetically
 experimentalists
+epimeres
 enclosed
 endosporously
 enclosers
@@ -7974,7 +7975,6 @@ epimanikia
 epimanikion
 epimer
 epimeral
-epimeres
 eremurus
 epimeric
 epimeride
