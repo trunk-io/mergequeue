@@ -12631,7 +12631,6 @@ chronisotherm
 chronist
 chronocarator
 chronocyclegraph
-crake
 chronocrator
 chronogeneous
 chronogram
@@ -18361,6 +18360,7 @@ creamcups
 cogitant
 cogitantly
 cogitates
+crake
 cogitation
 cogitations
 curassow
