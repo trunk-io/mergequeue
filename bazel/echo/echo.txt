@@ -6700,7 +6700,6 @@ entertaining
 embolomerous
 exceptant
 entertainingly
-entertainingness
 entertainment
 echimys
 epicenters
@@ -8615,6 +8614,7 @@ equiconvex
 egrets
 enworthy
 ergatomorph
+entertainingness
 equid
 equidiagonal
 equidifferent
