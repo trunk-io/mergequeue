@@ -1007,6 +1007,7 @@ ensaffron
 edam
 endomitotic
 edaphology
+envelops
 edaphon
 epicures
 edaphosauria
@@ -7098,7 +7099,6 @@ enveloped
 exurbanites
 envelopment
 envelopments
-envelops
 envenom
 envenoming
 encarnalise
