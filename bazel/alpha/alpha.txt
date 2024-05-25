@@ -3031,7 +3031,6 @@ actinical
 arraignments
 atropism
 actinide
-archenteron
 actinides
 actinidia
 aristarchy
@@ -12974,6 +12973,7 @@ angstroms
 arrivers
 audibly
 athetoids
+archenteron
 angsts
 aldolase
 alas
