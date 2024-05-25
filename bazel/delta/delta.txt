@@ -4590,6 +4590,7 @@ demigoddess
 demigrate
 demigriffin
 devocation
+deticker
 demigroat
 dogmatician
 demihagbut
@@ -7347,7 +7348,6 @@ deti
 detick
 doorwise
 demasculinize
-deticker
 detickers
 detin
 detinet
