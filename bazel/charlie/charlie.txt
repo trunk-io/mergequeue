@@ -17382,7 +17382,6 @@ coastmen
 churchmaster
 coastward
 coastwards
-coat
 coatdress
 coated
 coatee
@@ -18417,6 +18416,7 @@ cognizer
 cognizes
 cognizing
 cognizor
+coat
 cessation
 cognomens
 cognominal
