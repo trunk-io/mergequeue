@@ -2351,6 +2351,7 @@ bears
 barbican
 bridgemaker
 bistournage
+berake
 barbicanage
 bathyscape
 barbicel
@@ -6648,7 +6649,6 @@ bakepan
 berairou
 blackheartedness
 berakah
-berake
 bewelcome
 basilyst
 beraking
