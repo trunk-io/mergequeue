@@ -7693,6 +7693,7 @@ glessite
 graffias
 graffiti
 grossulariaceae
+gulpy
 gyrfalcon
 geogonical
 graft
@@ -9476,7 +9477,6 @@ graeculus
 grouseberry
 groused
 gonglike
-gulpy
 grouselike
 gem
 gloving
