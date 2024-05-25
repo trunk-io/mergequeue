@@ -3258,6 +3258,7 @@ geosid
 geosphere
 geostationary
 geostrategist
+garveys
 gal
 graylags
 geotactically
@@ -5521,7 +5522,6 @@ glunimie
 gaslock
 glimmers
 grylle
-garveys
 grebo
 glyn
 glynn

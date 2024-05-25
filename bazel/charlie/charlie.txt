@@ -18644,7 +18644,6 @@ coinfers
 carapus
 cartboot
 coing
-ceroma
 coinhabitor
 coinhere
 coinhered
@@ -25451,6 +25450,7 @@ corniculer
 corniest
 corniferous
 capitoul
+ceroma
 cornify
 cornific
 cornified
