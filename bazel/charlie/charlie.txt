@@ -1495,7 +1495,6 @@ cooeying
 calligraphically
 calligraphist
 calling
-cigarillo
 chiefly
 callings
 chuvashes
@@ -9616,6 +9615,7 @@ checkrows
 checks
 checkstrap
 chapatty
+cigarillo
 checkstring
 checksum
 construct
