@@ -13055,7 +13055,6 @@ cyanephidrosis
 counterspying
 cyanformate
 chontalan
-cyanhydrate
 cyanhydric
 cyanhydrin
 cyanic
@@ -15690,6 +15689,7 @@ classific
 classificator
 classificatory
 classified
+cyanhydrate
 cotwinned
 classifier
 censive

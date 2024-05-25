@@ -8817,7 +8817,6 @@ dredges
 diazole
 diazoma
 diazomethane
-diazonium
 debasing
 demethylation
 diazotype
@@ -13923,6 +13922,7 @@ distintion
 distn
 dystocia
 dangleberries
+diazonium
 dystocial
 dacryadenalgia
 discohexaster
