@@ -3104,6 +3104,7 @@ deers
 deerstalkers
 deerstalking
 deervetch
+disweapon
 deerweed
 deerweeds
 deescalate
@@ -14170,7 +14171,6 @@ demurs
 diswarn
 dangerous
 diswashing
-disweapon
 diswere
 demonifuge
 diswit
