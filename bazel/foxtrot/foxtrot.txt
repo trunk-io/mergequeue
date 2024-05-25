@@ -780,7 +780,6 @@ fanfaronade
 fanfarons
 ferricyanogen
 funnellike
-fabricable
 freemasonry
 fanfolds
 floggable
@@ -8805,6 +8804,7 @@ fosses
 fibromyomatous
 fearable
 fossette
+fabricable
 fjorded
 floppiest
 friss
