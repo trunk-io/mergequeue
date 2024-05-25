@@ -4858,7 +4858,6 @@ aeolidae
 aeolididae
 aeoline
 aeolipile
-ambrotype
 aeolis
 aeolist
 aeolomelodicon
@@ -10932,6 +10931,7 @@ anormality
 alkalamide
 asmolder
 amoebeum
+ambrotype
 amoebian
 anaglyphoscope
 azotate
