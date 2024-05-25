@@ -7037,7 +7037,6 @@ dessertspoonfuls
 destinezite
 dessil
 dessous
-doodad
 durst
 druggiest
 dessus
@@ -9171,6 +9170,7 @@ doorlike
 doblons
 didric
 didst
+doodad
 diducing
 diduction
 dowses
