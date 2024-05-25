@@ -11867,6 +11867,7 @@ chondrules
 chondrus
 chonicrite
 chonk
+cakewalks
 calfhood
 counterdefender
 chonta
@@ -15461,7 +15462,6 @@ clangour
 cynebot
 clangoured
 clangouring
-cakewalks
 clangours
 clangs
 clangula
