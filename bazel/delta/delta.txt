@@ -2397,7 +2397,6 @@ decider
 deciders
 disownment
 disguisements
-decidua
 deadrize
 diplontic
 denize
@@ -14757,6 +14756,7 @@ docmac
 docoglossa
 docoglossan
 docoglossate
+decidua
 docosane
 defrauders
 dipteral
