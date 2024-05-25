@@ -9081,7 +9081,6 @@ ewound
 erythea
 erythema
 erythemal
-erythemas
 erythematous
 eutheria
 enamellist
@@ -11549,6 +11548,7 @@ evite
 endecha
 evited
 exothermally
+erythemas
 epiphytical
 eviting
 edital
