@@ -6383,7 +6383,6 @@ colius
 cautioner
 cautioners
 cautiones
-cautioning
 canard
 cautious
 cautiously
@@ -9581,6 +9580,7 @@ checkmark
 checkmate
 chirosophist
 checkmating
+cautioning
 circumferences
 checkpoint
 checkpointed
