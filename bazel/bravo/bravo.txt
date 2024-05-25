@@ -4659,6 +4659,7 @@ bemotto
 brunneous
 bedchair
 bedchairs
+boxhauls
 bellowing
 buntal
 bryophyte
@@ -13931,7 +13932,6 @@ boxfuls
 boxhauled
 brierberry
 boxhauling
-boxhauls
 boxhead
 boxy
 boxing
