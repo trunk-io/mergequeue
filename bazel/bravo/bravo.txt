@@ -12933,6 +12933,7 @@ bootie
 bootied
 booties
 bootikin
+bins
 bootikins
 bialy
 bootyless
@@ -17515,7 +17516,6 @@ battlefields
 burbly
 bundlings
 bemistress
-bins
 bacitracin
 bedip
 binucleate
