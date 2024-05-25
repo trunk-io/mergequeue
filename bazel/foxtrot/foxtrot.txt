@@ -8180,6 +8180,7 @@ forficate
 flaskets
 foredenounce
 felines
+fibs
 forfication
 floroscope
 forficiform
@@ -9664,7 +9665,6 @@ fairness
 flagstaffs
 forte
 freeheartedly
-fibs
 forlet
 fallenness
 feuage
