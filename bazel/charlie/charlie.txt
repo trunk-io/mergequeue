@@ -16719,7 +16719,6 @@ clupeoid
 clostridian
 clostridium
 commotional
-closure
 closures
 closuring
 clot
@@ -29431,6 +29430,7 @@ cabernets
 crista
 crystaled
 cocceianism
+closure
 crystaling
 crystalitic
 cooption
