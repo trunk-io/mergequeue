@@ -33,7 +33,6 @@ fishify
 frostfishes
 fabricated
 fabricates
-fabricating
 fabrication
 fabricational
 fabrications
@@ -8432,6 +8431,7 @@ floridans
 fasibitikite
 flunkeyite
 formeret
+fabricating
 formerly
 formularizing
 formes
