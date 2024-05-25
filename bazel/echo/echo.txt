@@ -5448,7 +5448,6 @@ energeticness
 entitledness
 enantiobiosis
 emulous
-emasculations
 electroendosmotic
 energical
 energid
@@ -7888,6 +7887,7 @@ eccentricity
 epigraphic
 epigraphist
 epigraphs
+emasculations
 epiguanine
 engrege
 eireannach
