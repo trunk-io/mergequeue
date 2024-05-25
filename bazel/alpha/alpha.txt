@@ -1913,7 +1913,6 @@ acerbly
 answering
 acerbophobia
 adolescents
-acerdol
 acerli
 acerolas
 acerous
@@ -10600,6 +10599,7 @@ amylamine
 amylan
 anorthographically
 amylase
+acerdol
 amylases
 amylate
 aglyphodontia
