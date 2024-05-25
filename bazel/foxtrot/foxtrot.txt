@@ -3521,7 +3521,6 @@ forcepses
 feuilletonist
 figurer
 flyweight
-flocculous
 facebread
 figures
 figuresome
@@ -8786,6 +8785,7 @@ forzando
 fulgor
 fly
 fyce
+flocculous
 fascistically
 frustula
 fosite
