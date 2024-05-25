@@ -5948,7 +5948,6 @@ flickering
 fistfight
 floodwood
 foisty
-flannelboard
 fulah
 faitour
 forgottenness
@@ -7798,6 +7797,7 @@ fusillade
 forename
 furl
 finning
+flannelboard
 fogging
 ferrotyped
 formosan
