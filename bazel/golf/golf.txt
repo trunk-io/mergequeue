@@ -6326,7 +6326,6 @@ goat
 glyptodontidae
 goatbeard
 gatepost
-gausses
 gervase
 gollywobbler
 grubble
@@ -10536,6 +10535,7 @@ grateman
 grilling
 gunks
 glockenspiels
+gausses
 gesning
 guillemot
 gunline
