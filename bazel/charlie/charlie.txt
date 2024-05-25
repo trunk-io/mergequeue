@@ -15504,6 +15504,7 @@ ceonocyte
 clapmatch
 clapnest
 clapnet
+churrs
 concentered
 cricketed
 clappe
@@ -30904,7 +30905,6 @@ chloroform
 culverhouse
 culverineer
 culveriner
-churrs
 culverkey
 culverkeys
 culvers
