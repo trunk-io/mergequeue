@@ -11705,7 +11705,6 @@ anaesthetize
 anaesthetized
 anaesthetizer
 adsum
-arbalester
 anaetiological
 anagalactic
 atlantes
@@ -19557,6 +19556,7 @@ argentometric
 argentometrically
 apiculation
 argentose
+arbalester
 alexins
 augurial
 argentry
