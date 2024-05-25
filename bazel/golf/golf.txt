@@ -1591,6 +1591,7 @@ gramineal
 gundelet
 guazuti
 guarded
+guiser
 garneter
 gashouse
 generale
@@ -6395,7 +6396,6 @@ geodic
 goliad
 gobies
 guttula
-guiser
 geckotian
 greenyard
 gordyaean
