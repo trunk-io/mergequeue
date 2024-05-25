@@ -3790,7 +3790,6 @@ battlegrounds
 bringall
 barway
 battlement
-battlements
 barnstorms
 battler
 battles
@@ -5415,6 +5414,7 @@ backening
 blossomry
 begone
 begonia
+battlements
 begoniaceae
 begoniales
 backslapping
