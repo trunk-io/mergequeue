@@ -1739,6 +1739,7 @@ deathtraps
 drof
 dhunchee
 deathward
+decentre
 dikaryon
 deathwatches
 docent
@@ -5190,7 +5191,6 @@ deny
 deices
 deniability
 deniable
-decentre
 daughterlike
 deniably
 denial
