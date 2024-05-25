@@ -3322,7 +3322,6 @@ fideicommissaries
 faon
 forevermore
 flasket
-facioscapulohumeral
 fideist
 fossilologist
 folklorist
@@ -5652,6 +5651,7 @@ fermata
 flintwood
 fanfold
 flintworker
+facioscapulohumeral
 folioliferous
 flyovers
 frowsiest
