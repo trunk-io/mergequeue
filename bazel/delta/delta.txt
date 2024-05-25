@@ -2178,7 +2178,6 @@ decarburizing
 dodecagonal
 dismask
 dubiosity
-droppage
 decare
 decarnated
 decartelization
@@ -5972,6 +5971,7 @@ deprivable
 degrader
 disprofit
 declassing
+droppage
 deprivals
 deprivation
 deprive
