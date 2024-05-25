@@ -10043,7 +10043,6 @@ bedivere
 bana
 bituminoid
 bipropellant
-bikes
 bituminosis
 brian
 bituminous
@@ -17878,6 +17877,7 @@ burushaski
 burweed
 bus
 brinjaul
+bikes
 busaos
 busbar
 busbars
