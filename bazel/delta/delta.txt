@@ -3253,6 +3253,7 @@ defendable
 dikast
 demimondaine
 defendant
+defs
 dejeuners
 defendants
 defended
@@ -10577,7 +10578,6 @@ documented
 diplohedral
 diazoles
 defending
-defs
 diploid
 diene
 diploidic

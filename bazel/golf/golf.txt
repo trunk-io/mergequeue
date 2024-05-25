@@ -482,7 +482,6 @@ genotype
 glanced
 gollar
 galenites
-galenobismutite
 galenoid
 guardedly
 gleesomely
@@ -7108,6 +7107,7 @@ gasterotrichan
 granger
 gambrels
 gillnet
+galenobismutite
 gopak
 gopherberry
 glossate
