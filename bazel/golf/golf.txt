@@ -4925,7 +4925,6 @@ gladeye
 glossematics
 gagroot
 gyves
-givingness
 gizmos
 gizz
 gorgoniaceous
@@ -10290,6 +10289,7 @@ gasolenes
 guitarlike
 guitars
 gladii
+givingness
 gigsman
 guarantee
 gladdener
