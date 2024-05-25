@@ -9495,6 +9495,7 @@ digesture
 disapproval
 diggable
 digged
+dkm
 digger
 digging
 defeatee
@@ -14624,7 +14625,6 @@ dk
 dkg
 dkl
 deadener
-dkm
 decasemic
 decagramme
 dks
