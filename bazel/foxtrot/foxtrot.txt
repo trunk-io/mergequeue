@@ -4869,7 +4869,6 @@ fricandelle
 fill
 flameless
 flitch
-forwards
 fibbing
 fchar
 fractabling
@@ -8779,6 +8778,7 @@ forwhy
 forwoden
 froughy
 frillings
+forwards
 flashtube
 flue
 forwork
