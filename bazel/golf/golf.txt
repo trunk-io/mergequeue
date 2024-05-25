@@ -5264,7 +5264,6 @@ glazing
 glb
 glorioles
 gerodontia
-gymnospermy
 gordian
 genipap
 gld
@@ -5944,6 +5943,7 @@ glows
 gorgeable
 ghastfulness
 glissades
+gymnospermy
 gartering
 gloxinia
 gloxinias
