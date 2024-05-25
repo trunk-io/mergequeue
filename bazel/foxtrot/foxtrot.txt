@@ -3608,7 +3608,6 @@ fructification
 felinity
 fungivorous
 files
-filesmith
 filesniff
 foreaccustom
 filespec
@@ -9990,6 +9989,7 @@ friendlessness
 forepeaks
 fines
 friendlike
+filesmith
 friendliwise
 fevercup
 fuse
