@@ -895,7 +895,6 @@ bagmaking
 bagne
 bagnes
 bibliotics
-bastnaesite
 bagnet
 bagnio
 blowze
@@ -4539,6 +4538,7 @@ bobsled
 becomed
 becomes
 becometh
+bastnaesite
 becomingness
 becoom
 becoresh
