@@ -532,7 +532,6 @@ beneficially
 backtracks
 backout
 babies
-bishopless
 backups
 backus
 backveld
@@ -6957,6 +6956,7 @@ besagne
 besague
 brachyceric
 besaiel
+bishopless
 besaile
 bipartizan
 brachycephalic
