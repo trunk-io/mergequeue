@@ -588,7 +588,6 @@ caducibranchiata
 calli
 caducibranchiate
 caducities
-caducous
 caduke
 cadwal
 chiromegaly
@@ -4828,6 +4827,7 @@ carriageable
 carriageful
 carriages
 carriagesmith
+caducous
 cinchonicin
 carriageway
 carryall
