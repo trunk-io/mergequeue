@@ -2603,7 +2603,6 @@ bulletined
 beclothed
 bedevils
 barytocelestite
-barytone
 barytones
 barytons
 bhd
@@ -14584,6 +14583,7 @@ brashiest
 badged
 brashiness
 bookplates
+barytone
 bluets
 brashly
 brokery
