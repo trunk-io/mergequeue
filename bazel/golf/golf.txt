@@ -8107,7 +8107,6 @@ grossness
 guaiaretic
 gandhi
 grapeflower
-grapefruit
 gimping
 glaver
 gasteromycete
@@ -10069,6 +10068,7 @@ guerites
 gundelow
 guernsey
 gyneconitis
+grapefruit
 goblinize
 guerrila
 gonomere
