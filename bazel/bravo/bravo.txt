@@ -860,6 +860,7 @@ baggagemaster
 baggager
 benzidin
 baggala
+boatswains
 bagganet
 baggara
 brevis
@@ -11697,7 +11698,6 @@ bugology
 boatsteerer
 brandying
 boatswain
-boatswains
 boattail
 boatward
 boatwright
