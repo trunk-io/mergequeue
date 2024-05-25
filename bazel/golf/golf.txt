@@ -5031,7 +5031,6 @@ guessed
 gladiatrix
 gonoph
 gladier
-goutwort
 gladiola
 granatite
 gladiolas
@@ -5399,6 +5398,7 @@ glyceridic
 granitical
 guiro
 glossopteris
+goutwort
 glycerin
 growler
 glassiest
