@@ -3603,6 +3603,7 @@ gesturers
 glassy
 grosbeak
 gluier
+graftdom
 glycolipid
 girding
 getae
@@ -4953,7 +4954,6 @@ gjetosts
 gl
 galvanise
 graspable
-graftdom
 glaciable
 gatelike
 gunless
