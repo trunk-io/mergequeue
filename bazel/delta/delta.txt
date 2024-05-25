@@ -365,6 +365,7 @@ daymark
 doupion
 dormmice
 daimiate
+detrusion
 daimiel
 davallia
 daimyo
@@ -7457,7 +7458,6 @@ detruncation
 damneder
 daintihood
 derive
-detrusion
 detrusor
 detubation
 detumescence
