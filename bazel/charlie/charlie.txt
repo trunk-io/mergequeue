@@ -10912,7 +10912,6 @@ chipchop
 collada
 chipewyan
 capriole
-chiplet
 clayman
 chipling
 chipmuck
@@ -21187,6 +21186,7 @@ couches
 conceivableness
 carnify
 conceivably
+chiplet
 chital
 chalcophyllite
 conceived
