@@ -3344,7 +3344,6 @@ acuter
 allicit
 arbutin
 adjunct
-acutest
 arborise
 aedine
 acutiator
@@ -8694,6 +8693,7 @@ allegoriser
 allegorising
 aggression
 assimilativeness
+acutest
 allegorism
 asafoetida
 autistic
