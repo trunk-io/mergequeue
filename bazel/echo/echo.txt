@@ -2217,7 +2217,6 @@ epixylous
 elecampane
 endocytic
 enterprises
-elecives
 electant
 electary
 epithet
@@ -11469,6 +11468,7 @@ evernioid
 encephalosis
 evert
 echinorhinidae
+elecives
 evertebrata
 ependymary
 everting
