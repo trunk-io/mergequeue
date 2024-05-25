@@ -2618,7 +2618,6 @@ barkary
 brighter
 barkbound
 barkcutter
-benzalhydrazine
 balsameaceous
 barkeeper
 brazing
@@ -18261,6 +18260,7 @@ bastardy
 basophile
 buttermonger
 bagworm
+benzalhydrazine
 buttermouth
 butternose
 barathrum
