@@ -5442,6 +5442,7 @@ afforestable
 argoletier
 afforested
 afforesting
+allurers
 anticourt
 anxieties
 anticogitative
@@ -20875,7 +20876,6 @@ arum
 arums
 arundiferous
 allophylic
-allurers
 arupa
 ampulate
 arusa

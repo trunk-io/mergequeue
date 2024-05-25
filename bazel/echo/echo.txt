@@ -5070,7 +5070,6 @@ endoclinal
 endocoelar
 erosionally
 ense
-endocoele
 endocolpitis
 endoconidia
 endocrania
@@ -7812,6 +7811,7 @@ epigee
 excelsin
 electromyogram
 entombment
+endocoele
 epigenesist
 escapism
 endaze
