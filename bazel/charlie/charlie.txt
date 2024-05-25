@@ -9591,7 +9591,6 @@ checkpointed
 concursus
 checkpointing
 checkpoints
-commonize
 crossbowmen
 checkrack
 checkrail
@@ -19879,6 +19878,7 @@ comfier
 calamites
 chamaedaphne
 comfiest
+commonize
 comfily
 comfiness
 coulometrically
