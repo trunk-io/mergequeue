@@ -6397,7 +6397,6 @@ enslaved
 emulate
 epimerising
 euphoniad
-exarchy
 epitrophic
 enslavements
 enslaver
@@ -11197,6 +11196,7 @@ euthytatic
 exopt
 eutychian
 equisetales
+exarchy
 equivocacy
 exhilarator
 energetistic
