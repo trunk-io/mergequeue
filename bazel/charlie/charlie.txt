@@ -4363,7 +4363,6 @@ caryl
 culvertage
 confidentiality
 carillonneur
-carillonneurs
 carillonning
 carillons
 carina
@@ -26181,6 +26180,7 @@ cosmogonists
 cosmographer
 cosmography
 chigoe
+carillonneurs
 cosmographic
 cosmographical
 cosmographically
