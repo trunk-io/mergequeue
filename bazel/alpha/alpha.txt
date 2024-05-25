@@ -1618,7 +1618,6 @@ accordaturas
 accordature
 accorded
 accorder
-accordingly
 accordion
 accordionist
 altica
@@ -12277,6 +12276,7 @@ ambisexual
 ancylose
 avanyu
 absorbition
+accordingly
 ancylostome
 ancylostomiasis
 achlorophyllous
