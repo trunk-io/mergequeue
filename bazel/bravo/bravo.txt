@@ -406,6 +406,7 @@ backlog
 bib
 backlogged
 bredi
+badging
 backlogging
 backouts
 broggle
@@ -749,7 +750,6 @@ bemoil
 bandsawing
 badges
 baddy
-badging
 badgir
 badhan
 badiaga
