@@ -2372,6 +2372,7 @@ fibres
 fenter
 firkin
 flippest
+fishboats
 furner
 flattops
 fenzelia
@@ -4334,7 +4335,6 @@ fishback
 fishberry
 forebackwardly
 fixion
-fishboats
 fishbolt
 fishbolts
 falchions
