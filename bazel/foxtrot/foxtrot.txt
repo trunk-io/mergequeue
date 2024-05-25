@@ -4408,6 +4408,7 @@ farms
 fishponds
 fishpotter
 fishskin
+fulgurate
 fistfuls
 fashioned
 fourhanded
@@ -10900,7 +10901,6 @@ fibre
 fullish
 fourling
 fulgurata
-fulgurate
 foeman
 fulgurated
 feebleheartedness
