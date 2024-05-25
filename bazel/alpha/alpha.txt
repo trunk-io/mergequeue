@@ -12465,7 +12465,6 @@ argilloarenaceous
 andromorphous
 adventists
 andronicus
-andropetalous
 androphagous
 androphorous
 androphorum
@@ -25393,6 +25392,7 @@ angiosperm
 azthionium
 azulene
 alarmable
+andropetalous
 amazonite
 azurean
 ampyces
