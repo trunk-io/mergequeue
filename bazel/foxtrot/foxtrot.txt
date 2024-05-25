@@ -2516,6 +2516,7 @@ fermions
 fermium
 fastigium
 floripondio
+flavours
 forint
 fiduciary
 fernandinite
@@ -5209,7 +5210,6 @@ flavourous
 fielders
 falsifies
 fossor
-flavours
 flawed
 fluidities
 flawedness
