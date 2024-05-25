@@ -11766,7 +11766,6 @@ clavicor
 choluria
 clinal
 choluteca
-chomage
 chompers
 chomps
 cuffle
@@ -13851,6 +13850,7 @@ cinchonin
 cinchoninic
 cinchonisation
 cinchonise
+chomage
 clashed
 cinchonization
 cinchonize
