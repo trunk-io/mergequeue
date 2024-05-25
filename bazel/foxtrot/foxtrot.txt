@@ -2669,6 +2669,7 @@ ferrules
 fanman
 federalese
 fabric
+foibles
 freshes
 ferruminating
 ferrumination
@@ -3657,7 +3658,6 @@ filigrained
 foliating
 fanged
 freshed
-foibles
 firstborn
 filigrane
 feedbag

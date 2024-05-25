@@ -13,7 +13,6 @@ estocs
 evaporometer
 evansite
 ead
-eadi
 excoriator
 earthmove
 eadios
@@ -3085,6 +3084,7 @@ ells
 elm
 educing
 elmier
+eadi
 elmiest
 epimerum
 exinanition
