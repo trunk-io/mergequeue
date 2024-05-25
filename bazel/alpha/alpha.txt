@@ -12828,7 +12828,6 @@ anglish
 angioparalytic
 angioparesis
 angiopathy
-agnosis
 aeneolithic
 angioplany
 angioplasty
@@ -17465,6 +17464,7 @@ accusative
 aposporogony
 apostacies
 apostacize
+agnosis
 apostasy
 apostasies
 audiometer
