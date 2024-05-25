@@ -4388,7 +4388,6 @@ floorward
 fraternizer
 ferociousness
 fluorapatite
-fishmouth
 fishnet
 frank
 fitnesses
@@ -4689,6 +4688,7 @@ flacian
 footsies
 factice
 flacianist
+fishmouth
 flack
 fife
 forerank
