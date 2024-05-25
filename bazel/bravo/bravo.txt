@@ -5500,7 +5500,6 @@ bookmonger
 boarstaff
 behaved
 behaver
-bicollateral
 behaving
 boater
 behavior
@@ -12512,6 +12511,7 @@ bondship
 bondslave
 bondsman
 braeman
+bicollateral
 bloomiest
 bulbose
 bondsmen
