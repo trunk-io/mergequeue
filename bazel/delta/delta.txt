@@ -5387,7 +5387,6 @@ dentical
 denticle
 denticular
 denticulate
-dustfall
 dentiferous
 dentification
 dentifrice
@@ -16086,6 +16085,7 @@ dough
 doughbelly
 doughbellies
 dimpliest
+dustfall
 doughbird
 doughface
 doughfaceism
