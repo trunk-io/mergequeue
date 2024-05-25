@@ -11047,7 +11047,6 @@ amouret
 allocaffeine
 amovable
 amuser
-amove
 amoved
 amoving
 amowt
@@ -25017,6 +25016,7 @@ archicleistogamous
 awin
 awing
 awingly
+amove
 awiwi
 alimentative
 astrometer
