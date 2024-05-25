@@ -16317,7 +16317,6 @@ charlatanically
 clinoclasite
 citifies
 cartelize
-clinodiagonal
 clinodomatic
 cardiamorphia
 clinodome
@@ -18478,6 +18477,7 @@ cogway
 cogways
 cerite
 cogweel
+clinodiagonal
 cogweels
 cogwheels
 cogwood
