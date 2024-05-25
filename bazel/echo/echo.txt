@@ -3522,7 +3522,6 @@ equilibrize
 embole
 embolectomy
 enicuridae
-emasculative
 erythrophagous
 entrecotes
 embolemia
@@ -7709,6 +7708,7 @@ etceteras
 epidemiography
 ejulation
 elytroplastic
+emasculative
 emulsification
 epeirogeny
 epidemiology
