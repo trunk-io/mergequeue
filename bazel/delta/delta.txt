@@ -5775,6 +5775,7 @@ drapeable
 depolariser
 darksome
 docetic
+doublets
 depolarization
 depolarize
 disleave
@@ -16025,7 +16026,6 @@ disturn
 doubler
 doubles
 delf
-doublets
 doublespeak
 doublet
 doubleted
