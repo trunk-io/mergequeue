@@ -22527,7 +22527,6 @@ conjoinedly
 conjoiner
 conjoining
 conjointment
-conjointness
 creepages
 conjoints
 conjon
@@ -28661,6 +28660,7 @@ cpl
 cremone
 cremorne
 cupids
+conjointness
 cremosin
 crena
 crenae
