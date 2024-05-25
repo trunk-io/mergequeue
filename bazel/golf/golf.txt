@@ -3845,7 +3845,6 @@ gastronomic
 glazy
 giantsize
 gaub
-ghafir
 goodish
 giarra
 giarre
@@ -4775,6 +4774,7 @@ gopherroot
 gansy
 galliardly
 gyrodactylus
+ghafir
 grapeshot
 gyrodyne
 gyrogonite
