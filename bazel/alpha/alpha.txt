@@ -5374,7 +5374,6 @@ affirmers
 affirming
 affirmingly
 affirms
-affix
 affixable
 affixal
 affixation
@@ -10742,6 +10741,7 @@ amyris
 abattis
 amyrol
 amyroot
+affix
 ablatively
 amirs
 amirship
