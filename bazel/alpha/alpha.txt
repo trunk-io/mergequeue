@@ -2571,7 +2571,6 @@ autoserum
 acology
 athenian
 absciss
-acologic
 amidate
 acolous
 adulterants
@@ -16867,6 +16866,7 @@ abstricts
 aphelinus
 aphelion
 aphemia
+acologic
 aphemic
 aphengescope
 aphengoscope
