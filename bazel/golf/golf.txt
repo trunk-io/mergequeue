@@ -2617,7 +2617,6 @@ genal
 genapp
 gospodar
 glenwood
-genapping
 guildite
 gossaniferous
 geranomorphic
@@ -10093,6 +10092,7 @@ gonads
 guesstimating
 girdlingly
 guesswork
+genapping
 gasket
 gigas
 greener
