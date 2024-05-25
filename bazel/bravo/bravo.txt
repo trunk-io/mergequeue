@@ -4390,7 +4390,6 @@ bebloom
 basurale
 bebog
 bebopper
-bebops
 barbre
 belongings
 blessing
@@ -14007,6 +14006,7 @@ brachiata
 brachiate
 blames
 brachiating
+bebops
 bedangled
 brachiator
 brachyaxis
