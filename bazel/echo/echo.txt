@@ -1130,6 +1130,7 @@ edifices
 edified
 edifiers
 edifying
+exemplifiable
 edifyingly
 edifyingness
 ediya
@@ -8011,7 +8012,6 @@ epineuneuria
 epineural
 epineuria
 epidermidalization
-exemplifiable
 epineurium
 eserines
 ectoethmoid
