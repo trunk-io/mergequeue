@@ -7370,6 +7370,7 @@ detour
 duncifying
 detectability
 detouring
+decelerated
 dermacentor
 detours
 daric
@@ -17583,7 +17584,6 @@ desisting
 drumline
 drumlinoid
 drivecap
-decelerated
 drumlins
 drumloidal
 drummed

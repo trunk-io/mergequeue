@@ -6559,6 +6559,7 @@ ce
 cesspool
 celibates
 ceanothus
+chamkanni
 choriocarcinoma
 cearin
 cognoscible
@@ -14913,7 +14914,6 @@ cityscapes
 cytisine
 curet
 cytitis
-chamkanni
 citywards
 citizen
 citizeness
