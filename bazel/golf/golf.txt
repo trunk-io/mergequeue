@@ -2223,7 +2223,6 @@ gazettal
 gazette
 gymnolaematous
 gazetted
-gazetteerish
 gazetteership
 goyetian
 giunta
@@ -3488,6 +3487,7 @@ gerontic
 gipper
 garten
 gorkun
+gazetteerish
 galbe
 goosecap
 glucogene
