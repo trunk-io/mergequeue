@@ -2622,6 +2622,7 @@ dairymaid
 duppa
 decoy
 decoic
+dimmers
 dejections
 decoys
 decoke
@@ -9964,7 +9965,6 @@ doubleheaders
 dimly
 dimmed
 dimmer
-dimmers
 dimmest
 dimmet
 drimys

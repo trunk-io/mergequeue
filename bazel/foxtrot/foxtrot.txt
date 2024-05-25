@@ -2279,7 +2279,6 @@ fen
 fenagled
 fatil
 fain
-fenagles
 fenced
 fencelessness
 flautists
@@ -5852,6 +5851,7 @@ frustulose
 floccipend
 freeloader
 floccose
+fenagles
 fluvanna
 flaggers
 failsoft
