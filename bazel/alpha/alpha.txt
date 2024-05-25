@@ -6862,7 +6862,6 @@ adipsous
 aircraftwoman
 ahint
 aircrew
-aircrewman
 aircrewmen
 aortae
 aerophone
@@ -11348,6 +11347,7 @@ aftereye
 amphorous
 alarming
 amphoteric
+aircrewman
 ampicillin
 antinegro
 antonina
