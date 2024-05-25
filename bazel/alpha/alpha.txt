@@ -1677,6 +1677,7 @@ antipestilential
 accourage
 accouter
 accoutered
+alert
 accouterment
 acemetic
 attouchement
@@ -7983,7 +7984,6 @@ alerion
 alerse
 agravic
 agglutinates
-alert
 alerta
 anorak
 anabasis
