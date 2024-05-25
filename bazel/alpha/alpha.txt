@@ -3401,7 +3401,6 @@ adamantly
 adamantness
 advential
 adamantoblast
-adamantoblastoma
 adamants
 adamas
 archery
@@ -13768,6 +13767,7 @@ anomalies
 anomaliflorous
 anomaliped
 anomalism
+adamantoblastoma
 anomalist
 anomalistic
 asiatic
