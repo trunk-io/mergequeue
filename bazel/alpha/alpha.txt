@@ -17464,7 +17464,6 @@ aposoro
 antiagglutinant
 archpatriarch
 arthrostraca
-accusative
 aposporogony
 apostacies
 apostacize
@@ -25249,6 +25248,7 @@ azha
 azide
 asclepiadeous
 aphasiology
+accusative
 azido
 aziethane
 apagoges

@@ -2512,7 +2512,6 @@ diatropism
 declaim
 dichorisandra
 dresser
-declaimer
 declaims
 declamando
 dilatorily
@@ -18087,6 +18086,7 @@ denominating
 dumber
 dandriffs
 dumbest
+declaimer
 draftage
 dumbfounded
 dumbfounderment
