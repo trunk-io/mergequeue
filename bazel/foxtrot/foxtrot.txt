@@ -2790,6 +2790,7 @@ flanges
 festy
 festilogy
 focalise
+fustoc
 festilogies
 feddans
 festinance
@@ -11649,7 +11650,6 @@ friendship
 followers
 fetlow
 fustiness
-fustoc
 fusula
 fussily
 fusulae
