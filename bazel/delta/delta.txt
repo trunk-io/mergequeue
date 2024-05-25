@@ -8413,7 +8413,6 @@ dialyzation
 dialyze
 dialyzed
 dialyzer
-dialyzes
 dispell
 dialkylamine
 detentes
@@ -15579,6 +15578,7 @@ dipsacaceae
 doodads
 dehnstufe
 distrail
+dialyzes
 doodia
 doodlebug
 doodlers
