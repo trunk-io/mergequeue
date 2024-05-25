@@ -3674,7 +3674,6 @@ adenocarcinomas
 adenocarcinomata
 akepiros
 adenochondroma
-adenochondrosarcoma
 adenochrome
 apts
 adenocystoma
@@ -4765,6 +4764,7 @@ abigeus
 adversed
 aedeagi
 aedeagus
+adenochondrosarcoma
 aedegi
 aedicula
 aediculae
