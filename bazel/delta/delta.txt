@@ -6389,7 +6389,6 @@ dermopterous
 dermosclerite
 dermoskeleton
 dermotropic
-derms
 ducula
 demurrable
 dern
@@ -18394,6 +18393,7 @@ dup
 dupable
 dialysepalous
 dupatta
+derms
 disarrayed
 dupe
 dupedom
