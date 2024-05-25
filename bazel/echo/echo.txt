@@ -1165,6 +1165,7 @@ embowelled
 edition
 editions
 editor
+exponentially
 editorial
 editorialization
 editorialize
@@ -4717,7 +4718,6 @@ encyst
 encysted
 electralize
 expediently
-exponentially
 encysting
 euphemiser
 encystment
