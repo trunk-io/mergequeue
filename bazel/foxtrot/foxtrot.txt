@@ -4862,7 +4862,6 @@ flambee
 fortunetellers
 flamberg
 flambes
-flamboyance
 flamboyancy
 fatherhood
 fdname
@@ -6652,6 +6651,7 @@ focussing
 fod
 fodder
 fodderer
+flamboyance
 foder
 foederati
 frontes
