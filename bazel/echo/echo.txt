@@ -3116,7 +3116,6 @@ externalizing
 eloigned
 endoscopy
 excepter
-eloigning
 enactment
 eloignment
 euryte
@@ -10902,6 +10901,7 @@ epigram
 eupepsy
 exemplars
 epitapher
+eloigning
 electrocuting
 eloquently
 exulceration
