@@ -7386,7 +7386,6 @@ carks
 cephalocaudal
 cupels
 cephalocele
-cephalocentesis
 cringer
 coprocessors
 cufflink
@@ -21140,6 +21139,7 @@ conant
 connivence
 conarial
 conarium
+cephalocentesis
 conationalistic
 curatic
 conations
