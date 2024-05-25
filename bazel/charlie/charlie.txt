@@ -11335,7 +11335,6 @@ chicote
 chlorins
 chloriodide
 counterion
-chlorite
 chloritic
 continuities
 chloritization
@@ -13415,6 +13414,7 @@ cesura
 cycloids
 cyclolysis
 cycloloma
+chlorite
 commandeering
 cyclomania
 cyclometer
