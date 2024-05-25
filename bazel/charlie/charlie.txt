@@ -3724,7 +3724,6 @@ carbarn
 ciconia
 chondriomite
 carbarns
-carbasus
 carbazic
 carbazide
 carbazylic
@@ -25699,6 +25698,7 @@ corsair
 closestool
 corpulently
 corpulentness
+carbasus
 corpuscularian
 chapfallen
 confinedness
