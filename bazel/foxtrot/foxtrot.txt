@@ -1537,6 +1537,7 @@ footplate
 filmmaking
 faun
 foulards
+finery
 ferreiro
 firstship
 filibeg
@@ -3919,7 +3920,6 @@ fineleaf
 faulty
 fodderless
 fineness
-finery
 farmy
 flouting
 forebrain
