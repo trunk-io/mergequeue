@@ -3312,6 +3312,7 @@ commissariat
 coderives
 caponization
 caponize
+celebrity
 crispate
 caponized
 caponizer
@@ -6724,7 +6725,6 @@ celebrative
 celebre
 celebret
 celebrious
-celebrity
 celebs
 celemin
 celemines
