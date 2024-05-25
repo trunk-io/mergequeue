@@ -1226,7 +1226,6 @@ barathron
 blok
 barkers
 bakunda
-bakutu
 bala
 balaam
 balabos
@@ -16803,6 +16802,7 @@ buffable
 buffalo
 buffaloback
 blasty
+bakutu
 buffaloes
 buffalofish
 botheration

@@ -8976,6 +8976,7 @@ characterize
 characterizer
 characterizing
 characterless
+comports
 characterlessness
 characterology
 crosshead
@@ -20860,7 +20861,6 @@ comportance
 comported
 comporting
 circumflexes
-comports
 capacitors
 compos
 crotalus
