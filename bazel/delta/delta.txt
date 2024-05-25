@@ -529,6 +529,7 @@ desoxyanisoin
 dama
 damageability
 damageably
+dogstone
 describent
 demounted
 damaged
@@ -14940,7 +14941,6 @@ dogana
 deia
 dogstail
 desperation
-dogstone
 divorces
 disjection
 dogaressa
