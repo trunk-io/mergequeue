@@ -4071,7 +4071,6 @@ goldurn
 ginnle
 grades
 gravidate
-gloves
 gnide
 grocery
 germane
@@ -5206,6 +5205,7 @@ guillemet
 gunman
 gamotropism
 gormless
+gloves
 glib
 gubernance
 gymnospermae
