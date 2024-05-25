@@ -3265,7 +3265,6 @@ gluing
 glycans
 geoteuthis
 geotherm
-geothermic
 gelatinobromide
 geoty
 gymnoglossa
@@ -10690,6 +10689,7 @@ gargety
 glitterance
 geohydrologist
 gerbera
+geothermic
 geomalism
 gushily
 gusla
