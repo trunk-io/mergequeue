@@ -415,7 +415,6 @@ gradeless
 grimly
 glyptographer
 guanacos
-galatea
 galateas
 glub
 glucogenesis
@@ -1899,6 +1898,7 @@ goodly
 gastrostenosis
 gastrostomy
 gastrostomies
+galatea
 gonimolobe
 gatehouses
 guipures
