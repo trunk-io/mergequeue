@@ -2565,7 +2565,6 @@ floriferously
 formality
 favaginous
 filt
-frame
 foulmouth
 formaldehyde
 ferredoxin
@@ -11435,6 +11434,7 @@ fireboxes
 furnishment
 felup
 flatterous
+frame
 furnishness
 felspars
 flushboard

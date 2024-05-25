@@ -2985,7 +2985,6 @@ genua
 gruel
 gustfulness
 garboards
-genuflecting
 graphicalness
 gullish
 genuflections
@@ -4651,6 +4650,7 @@ gypsoplast
 grandparent
 geologized
 gypster
+genuflecting
 gastrolith
 gypsuming
 gammadion
