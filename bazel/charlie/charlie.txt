@@ -13345,7 +13345,6 @@ cyclical
 cyclically
 cyclicalness
 cyclicism
-cyclicity
 cyclide
 cubeb
 cyclindroid
@@ -18524,6 +18523,7 @@ cohesible
 cohesion
 cleidoscapular
 cohesively
+cyclicity
 cohibit
 cohibition
 cohibitive
