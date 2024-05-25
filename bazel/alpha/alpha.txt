@@ -3674,7 +3674,6 @@ adenocarcinoma
 adenocarcinomas
 adenocarcinomata
 akepiros
-adenochondroma
 adenochondrosarcoma
 adenochrome
 apts
@@ -17105,6 +17104,7 @@ antifermentative
 axion
 aplenty
 anonad
+adenochondroma
 aplysia
 aplite
 aplites
