@@ -8456,7 +8456,6 @@ feretory
 forgiver
 filix
 formicid
-fluorescent
 formicide
 fishling
 formicine
@@ -11355,6 +11354,7 @@ ferroelectricity
 fictional
 furane
 furfuration
+fluorescent
 furfures
 foldless
 fished
