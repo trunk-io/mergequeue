@@ -10903,6 +10903,7 @@ centropomus
 chip
 chipchap
 chipchop
+cystinosis
 collada
 chipewyan
 capriole
@@ -14728,7 +14729,6 @@ cysticle
 cysticolous
 cystid
 cystidea
-cystinosis
 cystidean
 cystidium
 candescent
