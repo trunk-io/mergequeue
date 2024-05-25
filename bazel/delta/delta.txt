@@ -3171,7 +3171,6 @@ defensing
 duringly
 defaultant
 defaulted
-defaultless
 defaults
 defaulture
 dowie
@@ -15375,6 +15374,7 @@ dallop
 domical
 diversicolored
 domicella
+defaultless
 demoralisation
 domicil
 domiciled

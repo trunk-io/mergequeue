@@ -2277,7 +2277,6 @@ apimania
 achromatizable
 achromatization
 achromatize
-achromatizing
 achromatocyte
 arctalian
 achromatope
@@ -7637,6 +7636,7 @@ acrosarca
 ankylorrhinia
 antivenene
 alembicate
+achromatizing
 alcaide
 alcayde
 alcaydes
