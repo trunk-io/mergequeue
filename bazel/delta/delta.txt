@@ -4516,6 +4516,7 @@ demesne
 decl
 demesnes
 declarers
+duresses
 dishwashing
 disentitle
 disgross
@@ -9806,7 +9807,6 @@ diptera
 dilutedly
 defeatists
 downtrends
-duresses
 dilutee
 dilutely
 draffish
