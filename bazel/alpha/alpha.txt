@@ -972,7 +972,6 @@ antagonisable
 absorbents
 absorbers
 absorbing
-absorbtion
 absorpt
 absorptiometer
 allegeable
@@ -7800,6 +7799,7 @@ alcotate
 alcove
 alcoved
 analyticities
+absorbtion
 airward
 alcuinian
 alcumy
