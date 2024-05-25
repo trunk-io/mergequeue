@@ -9289,6 +9289,7 @@ chastisable
 chastise
 chastised
 chastiser
+chicquest
 chastisers
 clapperboard
 corf
@@ -10411,7 +10412,6 @@ chicot
 chronaxy
 chicqued
 chicquer
-chicquest
 cooperite
 chicquing
 chics
