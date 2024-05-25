@@ -7710,7 +7710,6 @@ epidemiography
 ejulation
 elytroplastic
 emulsification
-epeirogeny
 epidemiology
 equilibration
 epidemiologic
@@ -12025,6 +12024,7 @@ epitenon
 event
 exclamational
 exclamations
+epeirogeny
 exclamative
 earthtongue
 exclamatory
