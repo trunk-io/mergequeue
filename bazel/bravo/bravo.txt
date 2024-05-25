@@ -623,6 +623,7 @@ brin
 bacteriolysin
 bletherskate
 bemingle
+bulbil
 bacteriolyze
 bacteriology
 breadnut
@@ -16862,7 +16863,6 @@ bufo
 bufonid
 bargee
 bivalves
-bulbil
 bufonite
 bufotalin
 bufotoxin
