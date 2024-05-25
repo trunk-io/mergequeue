@@ -227,7 +227,6 @@ gavot
 gags
 guarder
 gagster
-gagtooth
 gagwriter
 gay
 gradefinder
@@ -3908,6 +3907,7 @@ giblets
 giboia
 goyle
 gibsons
+gagtooth
 gibstaff
 galeche
 gavelage
