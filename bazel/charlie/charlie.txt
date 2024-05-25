@@ -20221,7 +20221,6 @@ committable
 committed
 committedly
 committedness
-committeemen
 committees
 committeeship
 committeewomen
@@ -22098,6 +22097,7 @@ confiteor
 confiture
 coolidge
 confix
+committeemen
 confixing
 carf
 conflagrated
