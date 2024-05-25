@@ -2627,7 +2627,6 @@ byelaws
 bacchides
 borana
 bunglesome
-bushie
 barkey
 briers
 barken
@@ -10250,6 +10249,7 @@ brahmins
 bignoniaceae
 blackfishing
 blackfly
+bushie
 backlogs
 bufferrers
 binghi
