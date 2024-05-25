@@ -10498,6 +10498,7 @@ dipygus
 dipyramidal
 delaminate
 dipyre
+demarcators
 dipyrenous
 dipyridyl
 dichter
@@ -16399,7 +16400,6 @@ downweed
 dehydrating
 downweighted
 downwind
-demarcators
 dogma
 dephlegm
 droukit
