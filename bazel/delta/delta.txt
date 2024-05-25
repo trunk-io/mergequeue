@@ -1886,7 +1886,6 @@ debouched
 debouches
 debouching
 debouchment
-dorsiventral
 donsy
 debout
 donging
@@ -6401,6 +6400,7 @@ dernier
 dernly
 dero
 devolvement
+dorsiventral
 derodidymus
 derog
 demeanour
