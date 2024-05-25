@@ -6892,6 +6892,7 @@ forespeaker
 fasciolae
 foreignization
 folkmoots
+frache
 fauchard
 fadmonger
 firetower
@@ -10163,7 +10164,6 @@ flightshot
 frisson
 fittyfied
 finger
-frache
 foozling
 fordam
 faki
