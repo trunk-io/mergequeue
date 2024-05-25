@@ -1188,7 +1188,6 @@ developoid
 disinvolve
 dextrans
 datary
-dataries
 dataset
 datasetname
 darghin
@@ -6862,6 +6861,7 @@ desmoncus
 desmoneoplasm
 desmopathy
 derivative
+dataries
 desmopathology
 desmopexia
 diaphanometry
