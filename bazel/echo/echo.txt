@@ -5381,7 +5381,6 @@ extranidal
 endpoints
 excoecaria
 endrudge
-exampless
 ecderonic
 endseal
 endshake
@@ -12633,6 +12632,7 @@ exodermis
 exoderms
 exody
 elaphodus
+exampless
 equiaxial
 exodic
 erythrocyte
