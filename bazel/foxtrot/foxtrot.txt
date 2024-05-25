@@ -2543,7 +2543,6 @@ ferrier
 fieldball
 fawnskin
 fastus
-forehorse
 ferox
 forcy
 fainthearted
@@ -4098,6 +4097,7 @@ fipples
 functionate
 flowcharting
 furthermore
+forehorse
 firca
 fyrd
 futuro
