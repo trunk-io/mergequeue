@@ -11089,7 +11089,6 @@ chirrupper
 combustor
 chirrups
 chirt
-chiru
 chirurgeon
 crimean
 chirurgeonly
@@ -22515,6 +22514,7 @@ ciconiid
 coronetlike
 conjecturality
 conjecturally
+chiru
 continuance
 capitulary
 conjecturer
