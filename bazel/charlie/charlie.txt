@@ -662,7 +662,6 @@ caestuses
 caesura
 caesurae
 caesural
-caesuric
 choirgirl
 caf
 cafard
@@ -8919,6 +8918,7 @@ concurbit
 conceptualisation
 chaptalize
 chapter
+caesuric
 chapteral
 colorize
 chaptered

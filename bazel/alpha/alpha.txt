@@ -6605,7 +6605,6 @@ ahet
 ahi
 antinomian
 archaists
-amebula
 ahir
 ahistoric
 alternant
@@ -15103,6 +15102,7 @@ anticorn
 anticorona
 anticorrosion
 anticorrosive
+amebula
 anticorrosiveness
 alsatia
 agamospermy
