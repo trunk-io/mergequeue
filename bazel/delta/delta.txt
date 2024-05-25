@@ -1188,7 +1188,6 @@ developoid
 disinvolve
 dextrans
 datary
-dataries
 dataset
 datasetname
 darghin
@@ -5736,6 +5735,7 @@ deozonize
 demigods
 deplasmolysis
 desterilized
+dataries
 disposit
 deplenish
 depleteable
