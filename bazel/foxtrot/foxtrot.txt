@@ -416,7 +416,6 @@ fairleads
 farsight
 familiariser
 flints
-fulminate
 fauchards
 fishgig
 fur
@@ -10560,6 +10559,7 @@ finer
 fudgy
 frenchiness
 frownful
+fulminate
 frows
 forstand
 frowsily
