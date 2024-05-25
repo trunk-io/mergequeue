@@ -7412,7 +7412,6 @@ cephalograph
 cephalohumeral
 cephaloid
 culminates
-cuticles
 cephalology
 cephalom
 calina
@@ -19142,6 +19141,7 @@ cocainise
 carbin
 collins
 collinses
+cuticles
 collinsia
 collinsite
 chloryl
