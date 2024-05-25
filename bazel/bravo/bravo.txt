@@ -1753,6 +1753,7 @@ bankside
 balsamitic
 balsamiticness
 balsamorrhiza
+belemnite
 balsamroot
 balsams
 boozing
@@ -15104,7 +15105,6 @@ backsaw
 bejeling
 briarroot
 briars
-belemnite
 briarwood
 bribability
 bribable
