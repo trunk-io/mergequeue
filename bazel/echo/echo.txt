@@ -975,6 +975,7 @@ equates
 emanatory
 exeresis
 ecuadorian
+extrema
 ecumenacy
 exaltee
 ecologic
@@ -12956,7 +12957,6 @@ etatisms
 echinology
 expectorates
 expectorations
-extrema
 expectorative
 electroencephalography
 equipollently
