@@ -5904,7 +5904,6 @@ ancestor
 agata
 agate
 agates
-agatha
 agathaumas
 agathin
 adiabatically
@@ -9273,6 +9272,7 @@ alnitak
 alnitham
 alniviridol
 alnoite
+agatha
 alnuin
 alo
 alocasia
