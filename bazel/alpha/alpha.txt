@@ -2692,6 +2692,7 @@ acquist
 assuaging
 acquittal
 acquittals
+advisable
 acquittance
 almacenista
 acquitted
@@ -4672,7 +4673,6 @@ aromatizer
 advertizes
 advice
 advices
-advisable
 advisableness
 advisably
 adiaphorism
