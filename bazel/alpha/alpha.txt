@@ -130,7 +130,6 @@ abatements
 abater
 abatic
 accreditee
-alanyl
 abating
 abatis
 abatised
@@ -15048,6 +15047,7 @@ anticommutative
 anticompetitive
 anticomplement
 anticomplementary
+alanyl
 anticomplex
 abiotrophic
 anticonductor
