@@ -2940,7 +2940,6 @@ elicitors
 elicits
 expensefulness
 euchromatin
-emaciate
 egrimony
 elides
 exeunt
@@ -13819,6 +13818,7 @@ extracorporeally
 extracorpuscular
 emphasis
 elaeothesia
+emaciate
 extraversively
 extracosmical
 erlkings
