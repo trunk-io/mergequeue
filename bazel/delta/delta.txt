@@ -3959,7 +3959,6 @@ dotage
 douser
 dekle
 deyship
-del
 dehydrofrozen
 drawlingly
 doctorates
@@ -9562,6 +9561,7 @@ dignities
 dignosle
 dignotion
 dependants
+del
 deuterons
 dygogram
 digonal

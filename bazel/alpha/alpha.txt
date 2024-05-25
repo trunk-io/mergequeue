@@ -1947,7 +1947,6 @@ adstrict
 advanced
 acetable
 acetabula
-acetabular
 acetabularia
 acetabulous
 alacrify
@@ -19951,6 +19950,7 @@ athermous
 armchair
 armchaired
 armenia
+acetabular
 atrail
 abhorrently
 atrophias
