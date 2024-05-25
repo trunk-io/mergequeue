@@ -534,7 +534,6 @@ echinite
 echinocaris
 entosthoblast
 echinocereus
-echinochrome
 echinococcosis
 epedaphic
 echinococcus
@@ -8744,6 +8743,7 @@ equisetic
 equisided
 edaphically
 equisignal
+echinochrome
 elaborated
 equisonance
 equispatial
