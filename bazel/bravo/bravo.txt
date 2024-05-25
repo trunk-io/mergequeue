@@ -5368,7 +5368,6 @@ beglad
 bogies
 beglare
 beglerbeg
-beglerbeglic
 bags
 bakalai
 beglerbegluc
@@ -15950,6 +15949,7 @@ benjy
 bronchoconstrictor
 biffy
 bronchodilator
+beglerbeglic
 bronchoegophony
 bronchogenic
 baghouse
