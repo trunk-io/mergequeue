@@ -18201,7 +18201,6 @@ coercible
 coercibly
 coercion
 coercionary
-coercitive
 coercive
 coerciveness
 coercivity
@@ -20762,6 +20761,7 @@ complexify
 complexification
 complexing
 complexion
+coercitive
 complexional
 complexionary
 complexioned
