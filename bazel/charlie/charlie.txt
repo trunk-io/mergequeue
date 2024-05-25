@@ -17611,7 +17611,6 @@ coccidium
 coccidology
 coccids
 cocciferous
-cocciform
 coccygalgia
 coccygeal
 coccygean
@@ -21684,6 +21683,7 @@ condescensively
 condescensiveness
 condescent
 centipoise
+cocciform
 calcaneofibular
 condiction
 ctrl
