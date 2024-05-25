@@ -4812,6 +4812,7 @@ aegyptilla
 agonisingly
 aegirinolite
 aegyrite
+aporphin
 aegises
 aegisthus
 aegithalos
@@ -5000,7 +5001,6 @@ aeroducts
 aeroelastic
 aeroelasticity
 aeroelastics
-aporphin
 aerofoil
 aerofoils
 algine
