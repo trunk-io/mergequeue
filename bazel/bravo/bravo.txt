@@ -14806,6 +14806,7 @@ barbershop
 bottlelike
 breakable
 breakableness
+barathrum
 breakaway
 breakax
 bulimic
@@ -18263,7 +18264,6 @@ buttermonger
 bagworm
 buttermouth
 butternose
-barathrum
 bronzier
 butternuts
 butterscotch
