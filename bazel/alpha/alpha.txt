@@ -17272,7 +17272,6 @@ avocets
 apogeotropism
 apogon
 afterfuture
-apogonid
 apograph
 apographic
 apographical
@@ -17425,6 +17424,7 @@ apoplexy
 apoplexious
 adamantoid
 anemometrographic
+apogonid
 aporetic
 archmime
 aporhyolite
