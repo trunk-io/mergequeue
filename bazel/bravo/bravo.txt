@@ -3755,6 +3755,7 @@ battered
 batterer
 beltis
 borate
+brooder
 batterie
 breck
 batteried
@@ -16045,7 +16046,6 @@ brood
 brooded
 bedeviled
 bialis
-brooder
 broody
 broodiest
 burgundian
