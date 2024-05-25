@@ -7632,6 +7632,7 @@ bevatron
 beveil
 bevelers
 bevelled
+brassarts
 belayer
 beveller
 bookbinder
@@ -14610,7 +14611,6 @@ brassard
 briefing
 brassards
 brassart
-brassarts
 brassavola
 bolson
 brassbound
