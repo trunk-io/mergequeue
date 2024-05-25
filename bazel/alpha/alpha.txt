@@ -4813,6 +4813,7 @@ aegicrania
 aegilops
 aegina
 aeginetan
+atenist
 aeginetic
 aegipan
 aegyptilla
@@ -6849,7 +6850,6 @@ aircheck
 aircoaches
 aircraft
 aircraftman
-atenist
 axometer
 aircraftmen
 antidynasty
