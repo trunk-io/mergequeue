@@ -8716,7 +8716,6 @@ allelism
 allelisms
 allelocatalytic
 almes
-arsmetrik
 alternationist
 allelomorphic
 allelomorphism
@@ -15470,6 +15469,7 @@ antilift
 antilipoid
 antiliquor
 achlamydeous
+arsmetrik
 antilysin
 antilysis
 antilyssic
