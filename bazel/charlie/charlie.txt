@@ -3182,6 +3182,7 @@ coelelminthes
 centrotus
 counterpoised
 crax
+cerebroparietal
 capistrate
 capita
 catenated
@@ -7670,7 +7671,6 @@ cassumuniar
 cerebron
 cerebronic
 clotheshorse
-cerebroparietal
 cerebropedal
 cerebropsychosis
 contraprop
