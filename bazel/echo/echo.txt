@@ -2586,7 +2586,6 @@ ecthetically
 eyewash
 eschaufe
 electrophoric
-electrophoridae
 eliciting
 eras
 exempla
@@ -7976,6 +7975,7 @@ epimanikion
 epimer
 epimeral
 epimeres
+electrophoridae
 eremurus
 epimeric
 epimeride
