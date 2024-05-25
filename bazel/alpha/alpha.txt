@@ -18270,7 +18270,6 @@ allyls
 aquamarines
 aquanaut
 angdistis
-aquanauts
 abdicated
 agerasia
 autoscience
@@ -22349,6 +22348,7 @@ astrol
 astrolabe
 astrolater
 astrolatry
+aquanauts
 astrolithology
 anaesthesiant
 astrolog
