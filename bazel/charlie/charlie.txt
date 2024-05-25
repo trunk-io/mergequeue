@@ -5146,6 +5146,7 @@ casemates
 casemented
 casements
 caseolysis
+crouched
 caseose
 caseous
 caserios
@@ -29998,7 +29999,6 @@ crouch
 crouchant
 crouchback
 crouche
-crouched
 crouches
 crouchie
 cahnite
