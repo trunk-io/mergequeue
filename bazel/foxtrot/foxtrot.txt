@@ -7530,7 +7530,6 @@ frae
 forebush
 forecast
 flatboats
-forecaster
 ferrocyanhydric
 forecastle
 flagellator
@@ -8606,6 +8605,7 @@ forsooth
 farstepped
 fatale
 fatuitousness
+forecaster
 forewrought
 footing
 fanterie
