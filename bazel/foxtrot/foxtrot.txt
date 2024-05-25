@@ -8408,6 +8408,7 @@ fargoing
 floscularian
 formals
 formations
+footgears
 folies
 footwall
 flooey
@@ -9343,7 +9344,6 @@ front
 fervors
 frivoling
 flintier
-footgears
 fireworms
 franchisor
 flukey
