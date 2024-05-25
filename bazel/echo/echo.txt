@@ -12764,7 +12764,6 @@ epistolization
 epiceratodus
 exordial
 exordium
-exordiums
 exordize
 electrogenesis
 exorhason
@@ -12821,6 +12820,7 @@ exotheca
 exothecal
 exothecate
 exothermal
+exordiums
 exothermically
 elytriform
 exotica
