@@ -4871,7 +4871,6 @@ coccogonales
 casework
 carrosserie
 catheterising
-carrot
 carrotage
 carroter
 carrotiest
@@ -6784,6 +6783,7 @@ cubhood
 clearway
 celiomyositis
 celioparacentesis
+carrot
 cerinthian
 celiopyosis
 celiorrhea
