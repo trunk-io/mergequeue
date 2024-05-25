@@ -2926,7 +2926,6 @@ acronym
 abutting
 alasas
 acronymic
-acronomy
 acronymize
 apium
 acronymized
@@ -7372,6 +7371,7 @@ alarumed
 alaruming
 alarums
 antichorus
+acronomy
 antepaschel
 aerotropic
 ascogonidia
