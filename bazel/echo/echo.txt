@@ -5567,7 +5567,6 @@ equipollent
 enfoldings
 enfoldment
 elevators
-enfolds
 enfoncee
 ephemerae
 effectiveness
@@ -13057,6 +13056,7 @@ ergonovine
 ethanols
 extemporarily
 electrochemically
+enfolds
 excruciation
 experimental
 empaestic
