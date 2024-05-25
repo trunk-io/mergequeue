@@ -715,6 +715,7 @@ abortogenic
 antiaesthetic
 abos
 aboulia
+aerometer
 aboulias
 aboulic
 archbishop
@@ -5058,7 +5059,6 @@ aeromechanic
 aeromechanics
 aeromedical
 aerometeorograph
-aerometer
 aerometry
 abluted
 agenizes
