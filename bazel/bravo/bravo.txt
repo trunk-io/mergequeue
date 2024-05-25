@@ -6371,7 +6371,6 @@ bandlimit
 benjamin
 benjaminite
 boletus
-benjamins
 benne
 bennel
 bennes
@@ -13446,6 +13445,7 @@ bottekin
 botticelli
 brakehead
 bottlebird
+benjamins
 bottlebrush
 bionomics
 bottleflower
