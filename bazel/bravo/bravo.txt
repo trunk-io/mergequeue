@@ -4721,7 +4721,6 @@ briquetted
 bedfellows
 buildable
 bedford
-bedframes
 burnettized
 bedgoer
 bedgowns
@@ -8293,6 +8292,7 @@ bye
 bieberite
 biedermeier
 bivalencies
+bedframes
 bohawn
 bielbrief
 bloodbird
