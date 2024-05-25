@@ -3103,7 +3103,6 @@ geographers
 gurge
 grenadian
 gaolering
-granophyric
 geographies
 geordie
 grocerdom
@@ -5046,6 +5045,7 @@ greeter
 graced
 glaga
 glagolic
+granophyric
 glaieul
 glaik
 getic
