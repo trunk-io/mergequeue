@@ -1937,6 +1937,7 @@ detainer
 depressant
 debugs
 debunked
+deviceful
 dnieper
 debunker
 debunkers
@@ -2677,7 +2678,6 @@ decompiler
 decomposability
 decomposable
 decompose
-deviceful
 dimmy
 decomposer
 decomposers
