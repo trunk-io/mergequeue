@@ -376,7 +376,6 @@ forborn
 ferrymen
 fearer
 filicauline
-filator
 faintness
 faints
 feltings
@@ -2318,6 +2317,7 @@ fendillation
 fending
 fends
 feasor
+filator
 filches
 fenestellid
 fenestellidae
