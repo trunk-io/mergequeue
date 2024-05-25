@@ -12129,7 +12129,6 @@ crusca
 chockler
 chorusmaster
 chorussed
-chorusses
 cathedralic
 chorussing
 cymbalo
@@ -27052,6 +27051,7 @@ counterplead
 corrido
 counterpleading
 counterplot
+chorusses
 coriandrum
 counterplotted
 counterplotter
