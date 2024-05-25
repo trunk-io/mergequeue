@@ -5244,7 +5244,6 @@ dryopes
 denominable
 dodecuplet
 dion
-decursion
 denominant
 denominate
 denominates
@@ -18648,6 +18647,7 @@ dwaible
 degases
 dispersoid
 diligently
+decursion
 disadvantaging
 danaide
 dwale
