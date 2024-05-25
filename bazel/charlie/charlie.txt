@@ -2249,6 +2249,7 @@ canalage
 canalatura
 canalboat
 charales
+cicatrisive
 canale
 canaled
 cobs
@@ -13264,7 +13265,6 @@ cicatriser
 cratchens
 crackability
 cicatrising
-cicatrisive
 caudillo
 cicatrix
 cicatrizant
