@@ -6431,6 +6431,7 @@ blimp
 barish
 bentlet
 blastie
+braziers
 benton
 bentonite
 bents
@@ -10174,7 +10175,6 @@ blabbermouths
 blabbers
 blabbing
 blabmouth
-braziers
 bott
 blackamoors
 blackarm
