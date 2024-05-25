@@ -19764,7 +19764,6 @@ arylation
 ariled
 artel
 arylide
-arillary
 arillate
 arilliform
 affricative
@@ -20723,6 +20722,7 @@ articulare
 aegialitis
 allelomorph
 astragalonavicular
+arillary
 associate
 alder
 anionically
