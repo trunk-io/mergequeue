@@ -2057,7 +2057,6 @@ banky
 banking
 bullaria
 bankmen
-banknote
 badaud
 bristly
 banknotes
@@ -13192,6 +13191,7 @@ borwort
 bumper
 borzoi
 borzois
+banknote
 boschbok
 boschneger
 brachystomata
