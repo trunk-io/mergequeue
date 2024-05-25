@@ -15333,7 +15333,6 @@ cezannesque
 claimants
 claimed
 claimer
-consumables
 claimers
 claiming
 claymore
@@ -23621,6 +23620,7 @@ continuately
 continuateness
 catholicising
 caughnawaga
+consumables
 copyholder
 continuation
 continuatively
