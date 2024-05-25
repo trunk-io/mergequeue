@@ -6162,6 +6162,7 @@ bemoult
 boathead
 bemartyr
 bibl
+bullfist
 buttstrap
 bemuck
 bemuddlement
@@ -8377,7 +8378,6 @@ berith
 brant
 balagan
 bigeyes
-bullfist
 brothership
 bifoliolate
 biforate
