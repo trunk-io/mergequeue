@@ -3717,7 +3717,6 @@ adenomalacia
 argolet
 adenomatome
 adenomycosis
-adenomyofibroma
 adenomyoma
 agapornis
 adenomyxosarcoma
@@ -23323,6 +23322,7 @@ arteriopathy
 athetize
 angelique
 acclimatisable
+adenomyofibroma
 audiles
 auding
 axon
