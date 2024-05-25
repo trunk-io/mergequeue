@@ -5291,6 +5291,7 @@ equilibrist
 endomorphism
 extispices
 endospermic
+extrastapedial
 endospermous
 endospore
 epithelioceptor
@@ -7959,7 +7960,6 @@ examinationist
 epinasty
 epilogizing
 eulogically
-extrastapedial
 endosmosis
 exudates
 exptl
