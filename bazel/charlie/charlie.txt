@@ -102,6 +102,7 @@ carcinosarcomas
 cabestro
 cabestros
 cabezon
+cairo
 cabezone
 convict
 cabful
@@ -828,7 +829,6 @@ cairngorum
 cairny
 cairns
 chairmaned
-cairo
 cays
 caisse
 caissons
