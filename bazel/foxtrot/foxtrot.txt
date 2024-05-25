@@ -3962,7 +3962,6 @@ fasces
 finfoots
 footsteps
 fingal
-fingan
 fisticuffing
 fingerbreadth
 flatter
@@ -9772,6 +9771,7 @@ fluidal
 freyja
 freijo
 forehandsel
+fingan
 factorship
 freir
 freith
