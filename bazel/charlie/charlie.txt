@@ -2518,7 +2518,6 @@ candling
 candock
 candollea
 candolleaceae
-candolleaceous
 chlorotrifluoromethane
 catalan
 candroy
@@ -14689,6 +14688,7 @@ cystalgia
 cystamine
 cystaster
 commatism
+candolleaceous
 cystatrophy
 cystatrophia
 cysteamine

@@ -8893,6 +8893,7 @@ foul
 fogger
 foulbrood
 foulder
+faki
 fiberizer
 fouled
 fidation
@@ -10169,7 +10170,6 @@ finger
 frache
 foozling
 fordam
-faki
 frithbot
 frithy
 forefatherly
