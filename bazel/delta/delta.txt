@@ -5598,6 +5598,7 @@ departmentalization
 departmentalized
 departmentalizes
 departmentally
+dorsoventral
 designment
 departs
 drainermen
@@ -12525,7 +12526,6 @@ demyship
 disinhume
 disinhuming
 disinsectization
-dorsoventral
 degums
 disinsulation
 disinsure
