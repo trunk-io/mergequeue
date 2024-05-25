@@ -1478,6 +1478,7 @@ endosmotic
 electroshocks
 effume
 effund
+ex
 empathic
 effused
 enthalpy
@@ -14012,7 +14013,6 @@ extratabular
 embrue
 emm
 extratarsal
-ex
 esterase
 extratellurian
 extratelluric
