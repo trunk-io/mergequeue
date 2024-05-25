@@ -1319,7 +1319,6 @@ bottine
 balante
 balantidic
 beamage
-ballium
 bearlike
 brahmanda
 balao
@@ -12148,6 +12147,7 @@ boldfacing
 bootprint
 boldhearted
 beloid
+ballium
 boldheartedly
 boldine
 boldly
