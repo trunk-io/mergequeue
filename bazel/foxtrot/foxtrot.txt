@@ -37,7 +37,6 @@ fabrication
 fabricational
 fabrications
 fabricator
-flintless
 flick
 fabricators
 fabricature
@@ -1637,6 +1636,7 @@ fawkener
 fawn
 fawned
 fretize
+flintless
 fellmongery
 frankly
 formican
