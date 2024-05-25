@@ -1180,6 +1180,7 @@ bajury
 bunco
 bakairi
 bakal
+beggarlike
 biasteric
 bake
 benettle
@@ -5320,7 +5321,6 @@ beggaring
 bicrescentic
 beggarly
 beggarlice
-beggarlike
 beggarliness
 brimless
 beggarman
