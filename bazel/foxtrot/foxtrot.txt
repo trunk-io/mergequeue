@@ -660,7 +660,6 @@ frill
 famed
 finickingly
 foliar
-foetalism
 formulates
 famelic
 fames
@@ -7020,6 +7019,7 @@ fons
 ferrum
 fiberware
 fontal
+foetalism
 frothing
 fontanelle
 fraenums
