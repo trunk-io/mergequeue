@@ -789,7 +789,6 @@ danegeld
 danegelds
 danelaw
 dungeon
-dermititis
 daneweed
 daneweeds
 difficult
@@ -3669,6 +3668,7 @@ deglory
 dermatoxerasia
 deglut
 disarrangement
+dermititis
 deglutinate
 deglutinated
 deduce
