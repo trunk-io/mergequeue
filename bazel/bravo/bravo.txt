@@ -10319,6 +10319,7 @@ blastemata
 blackseed
 biofeedback
 blackshirted
+biose
 blippers
 blacksmith
 biborate
@@ -15898,7 +15899,6 @@ bodgery
 bushhammer
 bromometry
 barbeyaceae
-biose
 bestrow
 bromometrical
 bromopicrin
