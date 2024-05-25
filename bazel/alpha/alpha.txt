@@ -2023,7 +2023,6 @@ acetylglycine
 apologetical
 acetylhydrazine
 acetylic
-acetylid
 acetylizable
 acetylization
 ammonization
@@ -21906,6 +21905,7 @@ assizes
 arquebus
 assizing
 assman
+acetylid
 assmanship
 associability
 associable
