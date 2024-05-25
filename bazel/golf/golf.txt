@@ -3255,7 +3255,6 @@ geoscopic
 geoselenic
 geosid
 geosphere
-geostationary
 geostrategist
 gal
 graylags
@@ -7180,6 +7179,7 @@ glycan
 gorgonia
 grassier
 gainspeaker
+geostationary
 grattoirs
 geoffrey
 gorgoniacea
