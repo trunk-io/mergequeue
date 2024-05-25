@@ -511,6 +511,7 @@ extraphenomenal
 estate
 emberizidae
 echeneidae
+exuvium
 erythrosinophile
 echeneididae
 echevaria
@@ -756,7 +757,6 @@ ecospecific
 ecosphere
 esteem
 edriophthalmous
-exuvium
 ecotype
 ecotypes
 ecotipically
