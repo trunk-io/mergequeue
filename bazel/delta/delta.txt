@@ -6015,6 +6015,7 @@ deprovincialize
 debord
 depsid
 dragons
+diopside
 delictus
 deed
 depsides
@@ -16650,7 +16651,6 @@ donnered
 dragrope
 decades
 drags
-diopside
 dexterousness
 debiteuse
 deathbeds
