@@ -1211,7 +1211,6 @@ eident
 elkhounds
 educatable
 evitate
-educated
 educatedness
 educates
 entitule
@@ -3809,6 +3808,7 @@ emending
 emer
 edility
 emerald
+educated
 emeraldine
 emeraude
 emerge
