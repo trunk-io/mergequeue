@@ -4552,7 +4552,6 @@ carnet
 citoler
 carnets
 carny
-coccostean
 couscouses
 carnie
 clapperdudgeon
@@ -29861,6 +29860,7 @@ crosse
 crossed
 crosser
 crossers
+coccostean
 crosses
 crossest
 cacophonical

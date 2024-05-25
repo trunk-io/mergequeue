@@ -1647,7 +1647,6 @@ balloters
 blowsy
 brancher
 balloting
-barded
 ballotist
 ballots
 ballottement
@@ -18209,6 +18208,7 @@ bibliothecary
 butoxyl
 bremely
 betook
+barded
 busycon
 butsu
 butter
