@@ -6946,6 +6946,7 @@ catapan
 cementoblast
 cementoma
 cements
+cometwise
 cementwork
 cemetaries
 cemetery
@@ -19869,7 +19870,6 @@ cometographical
 cometology
 comets
 ceral
-cometwise
 comeupance
 comeuppance
 cassythaceae
