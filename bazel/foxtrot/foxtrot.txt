@@ -5632,6 +5632,7 @@ fablemonger
 funded
 flings
 flinkite
+ferash
 fator
 forsung
 fertilisability
@@ -9821,7 +9822,6 @@ feedingstuff
 freq
 frequent
 factored
-ferash
 francia
 frequentage
 fertil
