@@ -5797,6 +5797,7 @@ belie
 balausta
 belied
 balteus
+bialveolar
 beliefful
 benvenuto
 blastule
@@ -13837,7 +13838,6 @@ bentstar
 breakage
 bowerwoman
 bookwise
-bialveolar
 barleybird
 bowess
 bowfin
