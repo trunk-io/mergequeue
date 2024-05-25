@@ -2295,6 +2295,7 @@ avicularia
 ayes
 achromobacter
 achromobacterieae
+adenoids
 achromoderma
 achromotrichia
 amygdalolith
@@ -3702,7 +3703,6 @@ adenoidectomy
 adenoidectomies
 adenoidism
 adroitest
-adenoids
 adenolymphocele
 adenolymphoma
 asexualized
