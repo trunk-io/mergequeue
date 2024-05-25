@@ -1207,7 +1207,6 @@ echiuroid
 educability
 educables
 educand
-educatability
 eident
 elkhounds
 educatable
@@ -1684,6 +1683,7 @@ eyeballs
 eyebalm
 eyebar
 eyebeam
+educatability
 eyebeams
 expire
 effie
