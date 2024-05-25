@@ -9443,7 +9443,6 @@ educable
 escalades
 escalading
 excelsitude
-escalan
 enlute
 escalating
 escalations
@@ -10563,6 +10562,7 @@ ending
 equation
 ettercap
 ettirone
+escalan
 ettle
 ettled
 ecclesiolatry

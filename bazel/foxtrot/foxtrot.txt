@@ -8331,7 +8331,6 @@ ferromagneticism
 faceup
 forestudy
 fattish
-fantail
 forlay
 forlain
 fatten
@@ -8397,6 +8396,7 @@ foreknowledge
 formally
 formalness
 flaucht
+fantail
 formamidine
 fluorinating
 francomania
