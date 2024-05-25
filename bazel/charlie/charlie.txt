@@ -7104,7 +7104,6 @@ centesimi
 centesimo
 centesimos
 centesis
-corrugation
 chicaned
 conciliated
 connotational
@@ -21440,6 +21439,7 @@ conciseness
 clocks
 cosponsor
 concision
+corrugation
 concitation
 concite
 conclamation
