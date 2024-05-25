@@ -1452,7 +1452,6 @@ gemmel
 geogony
 garments
 grasseye
-glutael
 garmenture
 gerodermia
 garmentworker
@@ -6129,6 +6128,7 @@ glutinous
 groucho
 granuloadipose
 gropers
+glutael
 glutose
 gonosome
 gainspeaking
