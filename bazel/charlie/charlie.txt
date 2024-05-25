@@ -149,6 +149,7 @@ cables
 cablese
 cablet
 cableway
+chorizontic
 cocain
 cabling
 cablish
@@ -12082,7 +12083,6 @@ chorizo
 chorizont
 chorizontal
 chorizontes
-chorizontic
 comprehensible
 chorizos
 catchalls
