@@ -7732,6 +7732,7 @@ alco
 alcoate
 atterrate
 alchemical
+amoritic
 andiroba
 alcogene
 ascogonium
@@ -10990,7 +10991,6 @@ amorino
 apoplectic
 amazonstone
 amorite
-amoritic
 amoritish
 amornings
 awesomely
