@@ -20292,7 +20292,6 @@ anaqua
 arrestors
 arrests
 arret
-assaulting
 arretez
 arrgt
 arrha
@@ -22545,6 +22544,7 @@ athabascan
 athalline
 athamantid
 acontium
+assaulting
 athamaunte
 akinesia
 athanasia
