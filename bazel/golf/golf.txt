@@ -27,7 +27,6 @@ gunsling
 gabble
 gabbled
 gabblers
-glamourize
 gabbling
 grittiness
 gabbro
@@ -3490,6 +3489,7 @@ galbe
 goosecap
 glucogene
 geronto
+glamourize
 guachamaca
 gerontocracy
 gerontocracies
