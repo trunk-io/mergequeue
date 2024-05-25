@@ -8004,7 +8004,6 @@ embower
 energetical
 electrocoagulation
 epimorphosis
-epinaoi
 epinaos
 exceeder
 enteric
@@ -11772,6 +11771,7 @@ endocarp
 exanimation
 endotherm
 exannulate
+epinaoi
 exanthem
 equidurable
 exanthemas
