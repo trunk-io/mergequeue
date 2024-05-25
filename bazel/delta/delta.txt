@@ -5818,7 +5818,6 @@ deport
 demipuppet
 decaliter
 deportability
-diathetic
 deportation
 deportations
 deportee
@@ -7508,6 +7507,7 @@ deuteration
 denucleate
 dogcarts
 disenchain
+diathetic
 deadeye
 daemonology
 deuteride
