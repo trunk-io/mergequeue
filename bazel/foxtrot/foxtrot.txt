@@ -5784,7 +5784,6 @@ fumariaceous
 firehouse
 filoplume
 flyway
-fishable
 faunas
 further
 ferr
@@ -10883,6 +10882,7 @@ felid
 frons
 footholds
 fluidisation
+fishable
 fulgorid
 fon
 fulgur
