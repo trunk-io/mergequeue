@@ -6361,6 +6361,7 @@ ferroboron
 fustic
 feta
 fubsier
+forescene
 farmhouses
 fille
 fluocerine
@@ -7895,7 +7896,6 @@ foresails
 farmscape
 footraces
 fibered
-forescene
 forescent
 flowered
 forewarned
