@@ -1687,6 +1687,7 @@ boko
 balmonies
 beslur
 balmoral
+boathouse
 buzzwig
 boroughmaster
 besoms
@@ -11661,7 +11662,6 @@ brutality
 boatbuilding
 boatel
 boathook
-boathouse
 boatyard
 backbends
 boating
