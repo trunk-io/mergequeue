@@ -292,7 +292,6 @@ eruditionist
 enflamed
 eastlins
 eastman
-extraparenchymal
 external
 eastness
 encephalograph
@@ -9705,6 +9704,7 @@ esophagotome
 esophagus
 earthshine
 esophoric
+extraparenchymal
 epicrystalline
 eremacausis
 elaeoblastic
