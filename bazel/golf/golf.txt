@@ -2212,7 +2212,6 @@ ganodus
 guarabu
 gazebo
 gazeboes
-glabella
 gazebos
 grampus
 galla
@@ -10610,6 +10609,7 @@ grieve
 gulches
 gunsmithery
 gunsmithing
+glabella
 gloomiest
 gonadotropic
 gardbrace
