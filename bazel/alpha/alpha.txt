@@ -11193,6 +11193,7 @@ amphidiploidy
 amphidisc
 amphidiscophora
 auroral
+anthophagy
 amphidiscophoran
 amphidromic
 anthropopithecus
@@ -16857,7 +16858,6 @@ aphelenchus
 agog
 anterointerior
 aphelian
-anthophagy
 aphelilia
 abstricts
 aphelinus
