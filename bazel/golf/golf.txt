@@ -3884,7 +3884,6 @@ gibbosity
 gibbosities
 gibbous
 gelastocoridae
-glaucomys
 gibbus
 graining
 gnomology
@@ -10224,6 +10223,7 @@ ghosted
 guessworker
 guile
 guileful
+glaucomys
 guilefulness
 garmentless
 gawp
