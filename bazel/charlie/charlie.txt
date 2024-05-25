@@ -4833,7 +4833,6 @@ carrycot
 chromatoplasm
 carried
 carryed
-carrier
 carriers
 carries
 carrying
@@ -22701,6 +22700,7 @@ connotatively
 connote
 connoted
 connotes
+carrier
 connoting
 connotive
 connotively
