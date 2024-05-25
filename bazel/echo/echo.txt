@@ -232,6 +232,7 @@ easer
 electroluminescence
 easers
 easy
+exhaustivity
 easies
 entomolegist
 easiest
@@ -564,7 +565,6 @@ echinorhynchus
 embolus
 elbuck
 etnas
-exhaustivity
 echinozoa
 echinulate
 echinulated
