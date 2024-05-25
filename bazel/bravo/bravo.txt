@@ -6518,7 +6518,6 @@ belgium
 benzoglycolic
 benzoglyoxaline
 balancewise
-benzohydrol
 benzoylated
 becuna
 benzoylating
@@ -17810,6 +17809,7 @@ burps
 burratine
 burrbark
 burree
+benzohydrol
 burrers
 burrfish
 burrgrailer

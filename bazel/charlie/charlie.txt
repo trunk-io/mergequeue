@@ -10668,7 +10668,6 @@ convivial
 chilodon
 cymes
 chilognatha
-chilognathous
 chilogrammo
 cubic
 corybantic
@@ -15824,6 +15823,7 @@ claviature
 clavicembalist
 clavicembalo
 claviceps
+chilognathous
 caiarara
 clavichord
 colonialistic
