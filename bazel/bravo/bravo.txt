@@ -2822,7 +2822,6 @@ barotaxy
 barotaxis
 bitis
 babuls
-ballgowns
 barothermograph
 barothermohygrograph
 baroto
@@ -10679,6 +10678,7 @@ blauwbok
 blawed
 blawing
 blawn
+ballgowns
 blaws
 bentonitic
 bailie
