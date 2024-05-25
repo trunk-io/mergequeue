@@ -2516,6 +2516,7 @@ bargain
 bergmannite
 bromins
 bargainable
+besteal
 billbugs
 bullbat
 bargainer
@@ -7280,7 +7281,6 @@ bestatued
 boba
 breme
 besteads
-besteal
 bedcover
 bested
 besteer
