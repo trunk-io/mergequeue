@@ -844,7 +844,6 @@ ectocelic
 ectocinereal
 entomophthorous
 enquire
-ectocoelic
 ectocommensal
 ectocondylar
 endophytic
@@ -6852,6 +6851,7 @@ exocentric
 entomological
 entomologically
 entomologies
+ectocoelic
 entomologised
 emblemized
 endolabyrinthitis

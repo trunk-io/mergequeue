@@ -4079,7 +4079,6 @@ giher
 groroilite
 gildings
 gastroenterostomies
-gravic
 glycosuric
 gnathobase
 get
@@ -5822,6 +5821,7 @@ glossematic
 grenado
 glossemes
 glossemic
+gravic
 glossers
 glossy
 gnathostomatous
