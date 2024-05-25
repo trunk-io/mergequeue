@@ -2399,7 +2399,6 @@ electrodialyze
 ethanim
 ecospecies
 electrodynamic
-excoriates
 electrodynamics
 electrodiplomatic
 eumenidean
@@ -5444,6 +5443,7 @@ ensuance
 enaliosauria
 energeticness
 entitledness
+excoriates
 enantiobiosis
 emulous
 emasculations
