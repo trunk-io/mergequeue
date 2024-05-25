@@ -8950,7 +8950,6 @@ alloyage
 ascogenous
 alloiogenesis
 attitude
-alloiometric
 adjustments
 acrogenic
 alloisomerism
@@ -23542,6 +23541,7 @@ aurelian
 aurene
 avelonge
 aureocasidium
+alloiometric
 aureolas
 aureole
 aureoled
