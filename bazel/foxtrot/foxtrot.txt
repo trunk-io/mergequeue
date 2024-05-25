@@ -2966,6 +2966,7 @@ frustums
 farfetch
 filamented
 frizzling
+funiculate
 feuillage
 furcation
 flyoff
@@ -8629,7 +8630,6 @@ forthby
 forthbring
 flatfooted
 farine
-funiculate
 forthcame
 fudge
 furicane
