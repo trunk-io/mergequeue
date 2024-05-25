@@ -2825,6 +2825,7 @@ decrements
 decremeter
 decrepid
 decrepit
+ducked
 demarches
 duodecahedral
 decrepitated
@@ -17786,7 +17787,6 @@ duckstone
 dossing
 duckblind
 duckboard
-ducked
 disarrange
 ducker
 duckery
