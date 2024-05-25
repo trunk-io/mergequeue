@@ -3400,7 +3400,6 @@ adamantness
 advential
 adamantoblast
 adamantoblastoma
-adamants
 adamas
 archery
 acetates
@@ -16928,6 +16927,7 @@ aphorismer
 aphorismical
 aphorismos
 arthrosia
+adamants
 avatars
 aphorist
 aphoristical
