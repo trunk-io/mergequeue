@@ -4715,7 +4715,6 @@ deuteragonist
 douzaines
 doable
 diswench
-darkroom
 demiscible
 demise
 decapsulate
@@ -15440,6 +15439,7 @@ devoured
 dominion
 dominionism
 documenters
+darkroom
 dominionist
 dominions
 dismounts
