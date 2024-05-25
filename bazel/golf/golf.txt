@@ -4672,7 +4672,6 @@ gloeocapsa
 glottochronology
 greegree
 girdles
-gymnosperm
 girds
 graminous
 gyred
@@ -6759,6 +6758,7 @@ grint
 glucid
 gobmouthed
 guiltful
+gymnosperm
 gewgawed
 goniatitic
 gravest

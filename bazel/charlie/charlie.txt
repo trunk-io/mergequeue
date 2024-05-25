@@ -8891,6 +8891,7 @@ chaplets
 chapon
 cuppa
 chapote
+collimators
 confoundingly
 chapourn
 chapournet
@@ -19116,7 +19117,6 @@ collimates
 collimating
 collimation
 collimator
-collimators
 collin
 colline
 collections
