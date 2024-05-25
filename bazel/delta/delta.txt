@@ -6363,7 +6363,6 @@ dialyzator
 diagrammatical
 dermogastric
 dermographia
-dermohemal
 dermohemia
 dermohumeral
 dermoid
@@ -7646,6 +7645,7 @@ developer
 developers
 developes
 developing
+dermohemal
 development
 developmental
 donary
