@@ -4291,6 +4291,7 @@ firsthand
 fluavil
 fourchet
 fibber
+frequence
 firstly
 firstlings
 flavius
@@ -9819,7 +9820,6 @@ fabrics
 figurability
 feedingstuff
 freq
-frequence
 frequent
 factored
 ferash
