@@ -55,6 +55,7 @@ grammes
 gabions
 gelding
 greystone
+grippotoxin
 guardian
 gelatiniser
 gableboard
@@ -10660,7 +10661,6 @@ gurnard
 greegrees
 googol
 gurnards
-grippotoxin
 gurney
 gurneyite
 gurnet
