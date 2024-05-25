@@ -2941,7 +2941,6 @@ feudatary
 fastings
 feudatory
 fanciable
-feudatories
 flashforward
 feuded
 footmark
@@ -9432,6 +9431,7 @@ fettler
 fondant
 frenum
 forequoted
+feudatories
 franticly
 freeloading
 forged
