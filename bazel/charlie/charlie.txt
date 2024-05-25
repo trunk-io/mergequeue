@@ -5496,7 +5496,6 @@ catabolized
 claim
 crevalles
 congaing
-catachreses
 catachresis
 catachrestic
 cercariae
@@ -17747,6 +17746,7 @@ cockscombed
 cockscombs
 chesboil
 cocksfoot
+catachreses
 coco
 cocoa
 cocoach
