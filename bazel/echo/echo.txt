@@ -1162,7 +1162,6 @@ elhi
 eikons
 elephantine
 esthetics
-environage
 embowelled
 edition
 editions
@@ -3119,6 +3118,7 @@ eloigning
 enactment
 eloignment
 euryte
+environage
 eloigns
 eloin
 eloine
