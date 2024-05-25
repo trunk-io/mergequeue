@@ -4889,7 +4889,6 @@ aepyornithidae
 aepyornithiformes
 aggrieves
 aeq
-abaris
 aequi
 arariba
 aequipalpia
@@ -11756,6 +11755,7 @@ apophonies
 anagrams
 anahau
 anahita
+abaris
 anay
 anakinetomer
 anakinetomeric
