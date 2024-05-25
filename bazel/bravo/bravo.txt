@@ -13876,7 +13876,6 @@ bowly
 burghs
 bowlike
 bowline
-bowlings
 buckleya
 bacalaos
 bowman
@@ -16511,6 +16510,7 @@ bubbled
 bubblelike
 becovet
 bubblement
+bowlings
 beerier
 bubbler
 bubblers
