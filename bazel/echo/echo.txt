@@ -4209,7 +4209,6 @@ empresa
 empress
 esbay
 earthlight
-explore
 emundation
 empressements
 empresses
@@ -5132,6 +5131,7 @@ eastings
 epispadiac
 electroballistician
 epibranchial
+explore
 endogenae
 euplocomi
 echeloning
