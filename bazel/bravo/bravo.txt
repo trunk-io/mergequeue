@@ -3238,7 +3238,6 @@ bote
 bentwood
 blottesquely
 bassoon
-basileis
 bractea
 babbling
 basilian
@@ -13154,6 +13153,7 @@ borotungstate
 borough
 bouquetin
 boroughmonger
+basileis
 boroughmongering
 borowolframic
 borracha
