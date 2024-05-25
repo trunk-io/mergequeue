@@ -2561,6 +2561,7 @@ barid
 burgus
 barye
 bannered
+bioassay
 bois
 bronchiocele
 barcolongo
@@ -14986,7 +14987,6 @@ brehonia
 brehonship
 butterflies
 blindism
-bioassay
 breird
 breislakite
 breithauptite
