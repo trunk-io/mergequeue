@@ -5038,7 +5038,6 @@ blastophore
 basement
 bitumen
 beermaker
-beermaking
 beermonger
 braggartry
 beefers
@@ -10562,6 +10561,7 @@ blastodisc
 blastoffs
 bioclimatological
 boxfish
+beermaking
 bedeswoman
 beneficent
 becharming
