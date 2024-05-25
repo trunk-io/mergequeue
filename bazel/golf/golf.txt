@@ -3039,7 +3039,6 @@ gonocyte
 glovelike
 gobiiformes
 galgal
-gwiniad
 gatsby
 glitter
 geocerite
@@ -5614,6 +5613,7 @@ garring
 gloams
 granadillo
 gloated
+gwiniad
 gastnesses
 glob
 glycosyls
