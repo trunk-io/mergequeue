@@ -6638,7 +6638,6 @@ ammocetes
 ahull
 ahum
 arboretum
-ahunt
 ahura
 ahush
 ahuula
@@ -20935,6 +20934,7 @@ asarh
 asarin
 alecs
 acroterteria
+ahunt
 asarite
 asaron
 anatomizable
