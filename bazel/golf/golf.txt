@@ -1093,7 +1093,6 @@ gossamer
 gormandizing
 goniometrically
 gerardia
-gerardias
 goldsmithing
 gompholobium
 ganglioid
@@ -3442,6 +3441,7 @@ gibbar
 gingivitis
 germinations
 gallicolae
+gerardias
 gossiphood
 grittily
 grisaille

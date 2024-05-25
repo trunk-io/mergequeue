@@ -2116,7 +2116,6 @@ basaltoid
 bouleuteria
 bannerfish
 biflorous
-bannerline
 bannerman
 bannermen
 bannerole
@@ -2696,6 +2695,7 @@ barmaids
 bututs
 barmaster
 benzoic
+bannerline
 barmbrack
 barmcloth
 brither
