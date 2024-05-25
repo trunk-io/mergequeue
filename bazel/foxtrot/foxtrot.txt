@@ -930,7 +930,6 @@ ferocity
 farad
 faraday
 fittest
-faradaic
 flamed
 forswear
 faradisation
@@ -3963,6 +3962,7 @@ fingerers
 fingerhold
 freehanded
 facility
+faradaic
 fingerhook
 fingering
 fibrinemia
