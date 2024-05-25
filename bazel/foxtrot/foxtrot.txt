@@ -58,7 +58,6 @@ fumaria
 facaded
 faceable
 facebar
-facebow
 faced
 faceharden
 flagships
@@ -5415,6 +5414,7 @@ fleshy
 fleshier
 finch
 ferally
+facebow
 fleshing
 fleshings
 forthfare
