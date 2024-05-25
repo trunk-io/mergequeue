@@ -4514,6 +4514,7 @@ encephalin
 encephalitic
 endostyle
 exocolitis
+erythrodermia
 emulators
 encephalitogenic
 elotherium
@@ -9149,7 +9150,6 @@ erythroclastic
 erythrophage
 erythrodegenerative
 ephebeum
-erythrodermia
 erythrogen
 embryogony
 erythrogenic
