@@ -10739,7 +10739,6 @@ euge
 eutaxies
 eugenesic
 enarbor
-eugeny
 expeditate
 eyeletter
 estragon
@@ -12568,6 +12567,7 @@ exit
 exite
 exitial
 exiting
+eugeny
 envied
 enherit
 exitious
