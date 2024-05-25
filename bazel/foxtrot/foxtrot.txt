@@ -3446,7 +3446,6 @@ fifty
 fifties
 fumiduct
 fiftieth
-forseen
 fiftypenny
 figary
 figaro
@@ -10811,6 +10810,7 @@ fucation
 fleshen
 footpads
 fuchsian
+forseen
 floundered
 fastigiated
 faciendum
