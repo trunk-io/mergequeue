@@ -1547,7 +1547,6 @@ flagellaria
 faurd
 faussebrayed
 faust
-feverishness
 faustian
 familiarising
 faute
@@ -7126,6 +7125,7 @@ footbridge
 footcandles
 footcloths
 finedraw
+feverishness
 forthward
 facer
 figwort
