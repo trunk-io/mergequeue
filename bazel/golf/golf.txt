@@ -4794,7 +4794,6 @@ gentility
 gaudy
 glossitic
 gadzooks
-graphometer
 gowkit
 gumfield
 groszy
@@ -5074,6 +5073,7 @@ glaired
 grutten
 glaireous
 gobiesociform
+graphometer
 gurjun
 grisard
 gardebras
