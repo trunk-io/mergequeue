@@ -3046,7 +3046,6 @@ equipoises
 electrothermostat
 elleck
 ellenyard
-escribed
 eardrop
 ellfish
 ellice
@@ -13297,6 +13296,7 @@ exponible
 epoch
 euomphalus
 entitled
+escribed
 exceedingly
 exportation
 echinoderes
