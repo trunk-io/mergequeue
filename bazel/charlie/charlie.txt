@@ -4884,6 +4884,7 @@ canonization
 clomben
 carrotwood
 carrousel
+creance
 carrousels
 carageen
 compiles
@@ -28463,7 +28464,6 @@ creams
 creamware
 cindery
 cahow
-creance
 creancer
 creant
 crease
