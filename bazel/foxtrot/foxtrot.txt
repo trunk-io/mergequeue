@@ -2999,7 +2999,6 @@ fiberize
 few
 fewest
 fading
-foreflap
 fetis
 fewneses
 fellatios
@@ -8320,6 +8319,7 @@ furnarius
 formicative
 fingerprinted
 fibrillous
+foreflap
 forklift
 forklike
 frangulaceae
