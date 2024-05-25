@@ -6451,7 +6451,6 @@ electrolyzing
 episode
 ensurance
 ensures
-ensuring
 equators
 enswathe
 electrophotographic
@@ -13028,6 +13027,7 @@ encalendar
 enameled
 epistolizable
 expending
+ensuring
 expenditor
 expenditrix
 edificial
