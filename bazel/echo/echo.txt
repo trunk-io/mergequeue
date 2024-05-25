@@ -1643,7 +1643,6 @@ egret
 egritude
 elohimic
 egromancy
-egurgitate
 egurgitated
 egurgitating
 endearingly
@@ -3580,6 +3579,7 @@ explication
 earthquakes
 emanent
 embourgeoisement
+egurgitate
 evangelion
 earnie
 endoabdominal
