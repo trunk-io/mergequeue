@@ -3181,7 +3181,6 @@ catenated
 cumly
 capital
 chevronny
-capitaldom
 capitaled
 capitaling
 capitalisable
@@ -24045,6 +24044,7 @@ convenances
 convene
 convened
 convener
+capitaldom
 counterexcommunication
 convenery
 conveneries

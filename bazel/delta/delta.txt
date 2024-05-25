@@ -5335,7 +5335,6 @@ deashes
 deepfreezing
 density
 densitometer
-densitometric
 detestable
 detinue
 dyable
@@ -18023,6 +18022,7 @@ dulcor
 dulcorate
 dulcose
 dislocations
+densitometric
 diffusiometer
 duler
 duly
