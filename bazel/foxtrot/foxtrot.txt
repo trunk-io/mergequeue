@@ -2621,7 +2621,6 @@ ferrocerium
 fogramity
 ferrocyanate
 ferroelectric
-ferrophosphorus
 fluviometer
 fliping
 ferrogoslarite
@@ -5172,6 +5171,7 @@ flavic
 fratcheous
 fielder
 flanconnade
+ferrophosphorus
 flavid
 fermate
 frogfishes
