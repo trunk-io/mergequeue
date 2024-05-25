@@ -5513,7 +5513,6 @@ deorganization
 decolouriser
 dialogging
 deorganize
-deorientalize
 dallack
 deorsum
 deorsumvergence
@@ -8433,6 +8432,7 @@ disciplines
 deliveror
 diallists
 dialog
+deorientalize
 downsize
 dialoger
 dialogers
