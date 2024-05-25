@@ -9468,6 +9468,7 @@ gins
 granule
 glimes
 groupoid
+graphical
 galbraithian
 gisla
 groupwise
@@ -9521,7 +9522,6 @@ groveled
 goster
 guys
 groveler
-graphical
 groveless
 gemmier
 grovelingly
