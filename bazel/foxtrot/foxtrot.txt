@@ -395,7 +395,6 @@ fairy
 fairyhood
 foreprepare
 frigid
-futharc
 fairyish
 fairyland
 fairing
@@ -11410,6 +11409,7 @@ furmities
 feverish
 fleckless
 fluent
+futharc
 frothless
 footways
 fossed
