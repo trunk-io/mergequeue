@@ -7821,7 +7821,6 @@ certifiableness
 certificate
 certificated
 certificates
-collisions
 certifications
 certificative
 certificatory
@@ -9457,6 +9456,7 @@ chawan
 chawbacon
 chawbuck
 canoodling
+collisions
 chawdron
 chawed
 cornerwise
