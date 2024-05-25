@@ -2378,7 +2378,6 @@ feoffors
 fidelis
 feoffs
 fumant
-fand
 footstalk
 fremescence
 fer
@@ -6773,6 +6772,7 @@ foiter
 fokker
 fronded
 fissate
+fand
 fol
 folacin
 falderols
