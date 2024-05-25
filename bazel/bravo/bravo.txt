@@ -2424,6 +2424,7 @@ bulgur
 bardcraft
 balate
 barde
+buckhorn
 bardes
 brabant
 bardesanite
@@ -14179,7 +14180,6 @@ biomechanics
 bradypepsy
 bradypepsia
 bradypeptic
-buckhorn
 bradyphagia
 barometry
 blemmyes
