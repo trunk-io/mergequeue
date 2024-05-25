@@ -7709,7 +7709,6 @@ ceremonialness
 ceremonials
 contrabass
 ceremonies
-ceremonious
 ceremoniousness
 counterpoint
 congregates
@@ -21361,6 +21360,7 @@ conchylia
 conchyliated
 counterorator
 conchyliferous
+ceremonious
 conchylium
 conchinin
 conchinine
