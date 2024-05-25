@@ -2389,6 +2389,7 @@ ascents
 alaunian
 azuline
 anticommercialist
+available
 acidulously
 acidurias
 arenose
@@ -18784,7 +18785,6 @@ archagitator
 archai
 archaic
 anisol
-available
 archaical
 aurified
 archaically

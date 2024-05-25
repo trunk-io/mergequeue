@@ -5556,7 +5556,6 @@ glyptodon
 glyptodont
 gutnish
 goi
-glyptodontoid
 gracelike
 gethsemane
 gablatores
@@ -7130,6 +7129,7 @@ gora
 gorals
 goran
 gorb
+glyptodontoid
 gorbelly
 grievedly
 glutter
