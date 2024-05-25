@@ -827,7 +827,6 @@ allogamous
 abruptio
 abruption
 addedly
-abruptness
 apptd
 abstractedness
 ambilogy
@@ -13099,6 +13098,7 @@ anhydridize
 anhydrization
 anhydroglocose
 anhydromyelia
+abruptness
 anhidrosis
 anhidrotic
 archespsporia
