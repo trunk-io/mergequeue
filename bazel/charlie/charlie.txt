@@ -21677,6 +21677,7 @@ condescensions
 condescensive
 condescensively
 condescensiveness
+configurable
 condescent
 centipoise
 cocciform
@@ -27164,7 +27165,6 @@ clione
 countershading
 chasms
 countershear
-configurable
 countershine
 countershock
 counterside
