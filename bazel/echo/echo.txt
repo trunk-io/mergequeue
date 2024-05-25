@@ -4599,7 +4599,6 @@ exsolve
 eyednesses
 ectochondral
 enchases
-enchasing
 emplaned
 enchasten
 encheason
@@ -8463,6 +8462,7 @@ epizootology
 epocha
 eumitosis
 epoche
+enchasing
 epochism
 epodes
 epodic
