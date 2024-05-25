@@ -2664,7 +2664,6 @@ devotionalism
 decommissions
 deepens
 diomedes
-decompensate
 decompensated
 decompensating
 dislocable
@@ -3220,6 +3219,7 @@ declaratives
 defectlessness
 defectors
 duplicating
+decompensate
 despaired
 defectoscope
 defectum
