@@ -5516,7 +5516,6 @@ aflatoxin
 aflight
 argans
 aflow
-acumen
 aflower
 amnionic
 adlegiare
@@ -19325,6 +19324,7 @@ arctiid
 arctisca
 arctium
 arctocephalus
+acumen
 arctogaean
 arctoid
 arctoidean
