@@ -1975,7 +1975,6 @@ ekasilicon
 epop
 ekebergite
 ekename
-etymologisable
 exteriorate
 eagle
 eker
@@ -13336,6 +13335,7 @@ esthesiometry
 exsanguinity
 explanatoriness
 everydeal
+etymologisable
 expositively
 encratic
 eurypterid
