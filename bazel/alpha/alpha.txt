@@ -1348,7 +1348,6 @@ adangle
 acates
 acatharsy
 acatharsia
-acatholic
 acaudate
 antarchism
 acaudelescent
@@ -12825,6 +12824,7 @@ angiomalacia
 angiomas
 angiomatosis
 anoestrous
+acatholic
 angiomyosarcoma
 angioneurosis
 abernethy
