@@ -7194,7 +7194,6 @@ backs
 boycottage
 botanized
 bespeaking
-bespeaks
 bespecked
 backrun
 bespeckle
@@ -8605,6 +8604,7 @@ bilch
 bilcock
 bellehood
 bildar
+bespeaks
 bilder
 bilders
 bile
