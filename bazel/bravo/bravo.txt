@@ -6654,7 +6654,6 @@ braconidae
 brawled
 bequeaths
 bequest
-bequests
 ber
 beray
 berain
@@ -10501,6 +10500,7 @@ brahmas
 blanquillos
 barytostrontianite
 blaoner
+bequests
 brachygnathous
 blaoners
 blare
