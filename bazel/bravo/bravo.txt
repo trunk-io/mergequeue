@@ -13001,7 +13001,6 @@ bloomers
 balanid
 borable
 borachio
-boracite
 boracium
 boracous
 budgeting
@@ -17542,6 +17541,7 @@ burdenless
 burdenous
 bleep
 babeship
+boracite
 blabs
 banks
 burdens
