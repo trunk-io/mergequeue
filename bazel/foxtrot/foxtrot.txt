@@ -6861,7 +6861,6 @@ forbearances
 flashingly
 folkcraft
 felsitic
-forestaysail
 flasks
 friability
 folkfree
@@ -10048,6 +10047,7 @@ flacourtia
 feracity
 firelike
 frigotherapy
+forestaysail
 finalist
 frying
 francophilism
