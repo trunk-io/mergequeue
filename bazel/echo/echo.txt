@@ -1178,7 +1178,6 @@ editorializers
 enation
 editorializes
 editors
-editorship
 exhibitioner
 editorships
 elasticness
@@ -13838,6 +13837,7 @@ extractant
 encaustic
 eteocles
 extractibility
+editorship
 extractible
 exantlation
 extractiform
