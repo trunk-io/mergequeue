@@ -2997,7 +2997,6 @@ cantus
 cantuta
 chicadee
 cantwise
-canuck
 canula
 canulae
 copiability
@@ -16179,6 +16178,7 @@ clifflike
 capacities
 clifford
 chalutz
+canuck
 cliffs
 cliffside
 cliffsman
