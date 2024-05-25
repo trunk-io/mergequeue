@@ -5337,6 +5337,7 @@ gleetiest
 glyphograph
 gibbals
 germinative
+gutturalization
 gourding
 gambirs
 glegnesses
@@ -10271,7 +10272,6 @@ guipure
 galatians
 gumbos
 gab
-gutturalization
 gil
 gry
 gratifies
