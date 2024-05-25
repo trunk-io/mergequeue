@@ -243,7 +243,6 @@ bacillaceae
 brarow
 bacillariaceae
 baldric
-blotless
 barreleye
 brontosaur
 bacillariaceous
@@ -9582,6 +9581,7 @@ byronics
 batule
 brahmaness
 beslaver
+blotless
 birostrated
 bemonster
 budgeteer
