@@ -608,7 +608,6 @@ bacteriemia
 bacteriform
 bacterin
 borofluoric
-bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
 bacteriocin
@@ -1230,6 +1229,7 @@ balabos
 bashfully
 barrabkie
 balachong
+bacterioagglutinin
 balaclava
 balada
 baladine
