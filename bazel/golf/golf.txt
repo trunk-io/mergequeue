@@ -4798,7 +4798,6 @@ gowkit
 gumfield
 groszy
 gasconade
-galliards
 gamori
 glossology
 glyoxime
@@ -6022,6 +6021,7 @@ galactophorous
 glucosamine
 genteelest
 gad
+galliards
 garo
 grenatite
 glucosazone
