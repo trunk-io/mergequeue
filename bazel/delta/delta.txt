@@ -2788,7 +2788,6 @@ dotlike
 diagnoses
 decorticator
 determinants
-decorticosis
 disoperation
 decortization
 dwine
@@ -5088,6 +5087,7 @@ denaturate
 denaturational
 diver
 diablerie
+decorticosis
 denature
 denaturing
 duplicand
