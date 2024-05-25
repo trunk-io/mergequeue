@@ -3694,6 +3694,7 @@ ghastlily
 gantries
 groundsill
 glovers
+ganocephalan
 gimble
 gaminesses
 ghastliness
@@ -4892,7 +4893,6 @@ ganglander
 greenwood
 gadling
 gitter
-ganocephalan
 goad
 gitterns
 ganglioblast
