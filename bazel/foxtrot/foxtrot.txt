@@ -6240,7 +6240,6 @@ fluffiest
 fud
 formwork
 flannelly
-fluffiness
 fluffs
 flugel
 fluible
@@ -11001,6 +11000,7 @@ fumarate
 fewness
 fumarates
 fumaric
+fluffiness
 fumarium
 fouling
 fervescence
