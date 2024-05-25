@@ -5728,7 +5728,6 @@ cretic
 cannon
 catchlight
 cultivatability
-clockcase
 catchline
 catchment
 catchments
@@ -8501,6 +8500,7 @@ caccia
 chamberlet
 centroid
 chamberleted
+clockcase
 chambermaid
 camelidae
 chambers
