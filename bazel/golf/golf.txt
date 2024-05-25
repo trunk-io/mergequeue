@@ -1769,7 +1769,6 @@ goriest
 gibs
 gastrocolotomy
 gastrodermal
-gastrodermis
 gnotobiote
 goosemouth
 guayabo
@@ -10293,6 +10292,7 @@ gladii
 gigsman
 guarantee
 gladdener
+gastrodermis
 ganglioneure
 guessive
 gowns
