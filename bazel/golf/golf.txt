@@ -2586,6 +2586,7 @@ glaciarium
 genouillere
 gangrenes
 glassing
+gutta
 galumphing
 gemsbuck
 geodes
@@ -10379,7 +10380,6 @@ graminivore
 garbanzos
 granulomas
 gnathobasic
-gutta
 gyrenes
 gullies
 girandola
