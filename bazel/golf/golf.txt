@@ -1932,6 +1932,7 @@ gatekeeper
 gatekeepers
 grasses
 gnathopod
+glueing
 glutenous
 grugrus
 gheg
@@ -3648,7 +3649,6 @@ goyazite
 glutinant
 glunched
 gluttonized
-glueing
 gez
 galloon
 grudgery
