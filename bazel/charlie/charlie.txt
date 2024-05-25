@@ -11701,7 +11701,6 @@ cooks
 choler
 cholera
 choleras
-choleric
 cholerically
 cricothyroid
 cholericness
@@ -19056,6 +19055,7 @@ crisped
 colleen
 college
 colleger
+choleric
 coughweed
 creedless
 cynips
