@@ -8669,7 +8669,6 @@ flacket
 fortieth
 fortieths
 fortify
-fortifier
 florets
 fibroids
 foreyard
@@ -11238,6 +11237,7 @@ fireball
 florivorous
 funguslike
 funic
+fortifier
 fistulae
 funicle
 foreday
