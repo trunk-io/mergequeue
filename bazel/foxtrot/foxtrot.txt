@@ -330,7 +330,6 @@ flaxdrop
 fastigious
 failure
 foresound
-failures
 fainaigue
 fingerfishes
 frogleg
@@ -10842,6 +10841,7 @@ foxskins
 ferniest
 fixatives
 fulciment
+failures
 falces
 firecrest
 fulcraceous
