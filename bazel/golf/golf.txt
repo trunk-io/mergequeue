@@ -5809,7 +5809,6 @@ gephyrocercal
 glos
 grizzler
 glandulous
-gravedo
 grutches
 glossa
 glossolabiolaryngeal
@@ -9819,6 +9818,7 @@ goaf
 gletscher
 gaposis
 gonadic
+gravedo
 guanay
 guanayes
 guanare
