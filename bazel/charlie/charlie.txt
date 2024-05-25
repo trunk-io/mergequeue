@@ -2058,7 +2058,6 @@ campanological
 campanologically
 campanologist
 campanologists
-campanulaceous
 campanulales
 campanular
 campanulariae
@@ -17009,6 +17008,7 @@ calcareoargillaceous
 clustering
 cramponnee
 clusterings
+campanulaceous
 clutch
 clutched
 clutcher
