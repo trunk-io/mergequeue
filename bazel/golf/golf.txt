@@ -182,6 +182,7 @@ gardenmaker
 gaiter
 gamboges
 gaffes
+glassworm
 gerontocratic
 grudger
 gag
@@ -5221,7 +5222,6 @@ gisler
 guider
 gunpaper
 glassworker
-glassworm
 gushed
 glasswort
 gnomish
