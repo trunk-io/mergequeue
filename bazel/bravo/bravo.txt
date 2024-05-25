@@ -571,6 +571,7 @@ backword
 backwraps
 bacon
 bouffage
+bardelle
 baconer
 barmaid
 bordereau
@@ -11060,7 +11061,6 @@ babysit
 blitzkrieging
 backstairs
 bargello
-bardelle
 basioccipital
 blizz
 behinder
