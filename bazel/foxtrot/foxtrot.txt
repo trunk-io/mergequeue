@@ -8066,7 +8066,6 @@ foreswearing
 fichtelite
 funkiest
 finances
-foreswore
 fumacious
 foret
 fragilaria
@@ -9401,6 +9400,7 @@ fireguard
 featherstitch
 folcgemot
 falsidical
+foreswore
 funambulating
 frankfurt
 floatiest

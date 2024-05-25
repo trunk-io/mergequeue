@@ -5894,6 +5894,7 @@ delegant
 danes
 darter
 desolations
+discriminability
 diachoresis
 demeaning
 disconcert
@@ -11773,7 +11774,6 @@ discretion
 discretional
 discretive
 discretiveness
-discriminability
 discriminant
 discriminately
 discriminateness
