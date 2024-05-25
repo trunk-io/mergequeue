@@ -2208,7 +2208,6 @@ alts
 adawlut
 arend
 achymia
-achymous
 azobenzol
 achinese
 algebraization
@@ -20027,6 +20026,7 @@ armlets
 armlike
 armload
 armloads
+achymous
 armlock
 armoire
 armoires
