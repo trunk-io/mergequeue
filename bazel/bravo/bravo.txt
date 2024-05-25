@@ -2956,7 +2956,6 @@ blackmails
 barricoes
 barrier
 biuniqueness
-barrigudos
 barrikin
 bromophenol
 barriness
@@ -16133,6 +16132,7 @@ balklines
 brotheler
 bulla
 brimstony
+barrigudos
 brothels
 breweries
 bibliomanianism

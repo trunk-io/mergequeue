@@ -2178,6 +2178,7 @@ circaea
 campstool
 camptodrome
 camptonite
+capturer
 camptosorus
 campulitropal
 cabaan
@@ -19797,7 +19798,6 @@ combure
 comburendo
 comburent
 comburgess
-capturer
 combust
 colament
 corotation
