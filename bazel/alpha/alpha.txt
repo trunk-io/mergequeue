@@ -6525,6 +6525,7 @@ agropyron
 agrostemma
 agrosteral
 agrostographer
+antheses
 agrostography
 agrostographical
 algesthesis
@@ -14378,7 +14379,6 @@ aspalathus
 antherozoid
 antherozooidal
 anthers
-antheses
 aquosity
 aftergrass
 alkahests
