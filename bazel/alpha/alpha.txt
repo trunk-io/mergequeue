@@ -5942,7 +5942,6 @@ agednesses
 agee
 ageing
 anglophiles
-ageings
 archiannelida
 ageisms
 ageists
@@ -17484,6 +17483,7 @@ apostatise
 astomatal
 apostatism
 agathaea
+ageings
 arrivance
 alkalin
 apostatize
