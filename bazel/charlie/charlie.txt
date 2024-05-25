@@ -8014,7 +8014,6 @@ cetonian
 curwhibble
 cetoniinae
 castigated
-choosable
 cetorhinid
 cetorhinidae
 chickadee
@@ -13710,6 +13709,7 @@ costaea
 cedarn
 cymbalist
 cymbalists
+choosable
 cymballed
 cymballike
 cob
