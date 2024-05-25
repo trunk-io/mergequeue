@@ -2955,7 +2955,6 @@ clairschach
 cantino
 cantion
 cantish
-cantles
 cantlet
 cantline
 cantling
@@ -8789,6 +8788,7 @@ chanteur
 chanteuse
 chanteuses
 chanty
+cantles
 chanticleer
 chanticleers
 chantier

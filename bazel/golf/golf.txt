@@ -1012,7 +1012,6 @@ glomeruli
 garrote
 graptolite
 gunshot
-gamostele
 genetically
 grievously
 gamp
@@ -7850,6 +7849,7 @@ gametangium
 globelike
 guydom
 gramps
+gamostele
 gounau
 gourdworm
 gullishly
