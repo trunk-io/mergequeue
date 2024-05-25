@@ -2474,7 +2474,6 @@ anoil
 argentojarosite
 acknew
 atrochal
-arisings
 acknowing
 aphid
 acknowledgeable
@@ -20499,6 +20498,7 @@ artefac
 artefacts
 assentation
 analyticity
+arisings
 artemia
 artemis
 aeroenterectasia
