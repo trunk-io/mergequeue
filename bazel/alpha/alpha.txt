@@ -14206,7 +14206,6 @@ antenna
 antennae
 antennal
 antennary
-antennariid
 antennariidae
 antennata
 addling
@@ -18748,6 +18747,7 @@ archabomination
 antiarrhythmic
 acutish
 archaeoceti
+antennariid
 archaeocyathidae
 argillocalcite
 archaeographic
