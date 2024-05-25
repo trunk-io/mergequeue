@@ -1588,7 +1588,6 @@ anomalopteryx
 accompanyist
 aphasiac
 accompanimental
-accompanist
 accomplement
 accompli
 allanitic
@@ -14601,6 +14600,7 @@ allan
 anthropometrist
 anthropomophitism
 antipestilence
+accompanist
 anthropomorph
 anthropomorpha
 aphototropic
