@@ -3749,6 +3749,7 @@ felsites
 flotilla
 foregirth
 falconet
+frequent
 faultlessly
 fortressed
 farsakh
@@ -9823,7 +9824,6 @@ figurability
 feedingstuff
 freq
 frequence
-frequent
 factored
 ferash
 francia
