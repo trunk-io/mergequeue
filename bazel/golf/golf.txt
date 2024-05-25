@@ -2425,7 +2425,6 @@ goose
 gelatinoid
 granilla
 gadbee
-gelation
 gardon
 glunching
 gelatose
@@ -4285,6 +4284,7 @@ globuloid
 gymnolaemata
 gunster
 gymnonoti
+gelation
 glumous
 guaranin
 gastrocoele
