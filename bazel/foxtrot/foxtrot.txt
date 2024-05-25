@@ -3322,7 +3322,6 @@ fideicommissa
 fideicommissary
 fallowing
 fideicommissaries
-faon
 forevermore
 flasket
 facioscapulohumeral
@@ -7700,6 +7699,7 @@ finnack
 forbathe
 format
 fulls
+faon
 frayproof
 frequencies
 flavedos
