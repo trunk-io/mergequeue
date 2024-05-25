@@ -5431,7 +5431,6 @@ affordable
 affording
 akaroa
 afforestable
-argoletier
 afforested
 afforesting
 anticourt
@@ -5671,6 +5670,7 @@ afternoons
 afternose
 alunites
 afterpains
+argoletier
 afterpast
 afterpiece
 afterplanting
