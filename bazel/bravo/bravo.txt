@@ -2791,7 +2791,6 @@ barony
 bassets
 baudrons
 bowlers
-baronial
 baronize
 baronized
 baronnes
@@ -10350,6 +10349,7 @@ begnawn
 bepimples
 blacktree
 brewers
+baronial
 blackware
 bilges
 befleaed
