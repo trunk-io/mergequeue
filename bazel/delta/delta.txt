@@ -10909,7 +10909,6 @@ daimon
 disincorporated
 disacidified
 depictive
-disacknowledgement
 disacknowledgements
 dysacousis
 dysacousma
@@ -17098,6 +17097,7 @@ dryfarmer
 dingwall
 drierman
 dryfoot
+disacknowledgement
 drift
 driftage
 deficient
