@@ -3418,7 +3418,6 @@ emmer
 edwardeanism
 electrician
 embellishments
-embergoose
 emberizine
 embers
 embetter
@@ -12182,6 +12181,7 @@ excuse
 epigraphy
 excusefully
 exostome
+embergoose
 excuser
 excusing
 endpoint
