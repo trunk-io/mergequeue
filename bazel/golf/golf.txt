@@ -946,6 +946,7 @@ gotha
 gametocyst
 geometricize
 governmentalism
+geom
 gametocyte
 gurrah
 gametogenic
@@ -3964,7 +3965,6 @@ giftwrap
 giftwrapping
 genitures
 gig
-geom
 gardenwards
 giga
 globoseness
