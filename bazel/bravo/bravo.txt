@@ -6913,7 +6913,6 @@ berseem
 berserker
 blackbirds
 bin
-berserks
 bersiamite
 bersil
 berskin
@@ -17689,6 +17688,7 @@ burka
 burke
 burked
 borderers
+berserks
 blithebread
 beliquor
 burker
