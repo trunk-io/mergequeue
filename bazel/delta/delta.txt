@@ -9038,7 +9038,6 @@ dehort
 dictaen
 dolichosoma
 dictamina
-dictaphone
 dictaphones
 dictate
 dictating
@@ -16325,6 +16324,7 @@ discredits
 downrightness
 downriver
 downset
+dictaphone
 dismes
 dottels
 downshift
