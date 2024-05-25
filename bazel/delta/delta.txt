@@ -2646,6 +2646,7 @@ dispose
 demises
 decolorization
 decolors
+demineralize
 duopsonies
 decolouration
 decolourisation
@@ -8123,7 +8124,6 @@ drivable
 diabetometer
 decoymen
 demetallize
-demineralize
 deputatively
 diverticulum
 dharmsala
