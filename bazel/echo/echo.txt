@@ -5885,7 +5885,6 @@ escrol
 enhuile
 enhunger
 electromyographical
-enid
 emissary
 empties
 enif
@@ -12692,6 +12691,7 @@ egling
 exonerator
 esotericist
 exonerators
+enid
 erie
 emparadise
 etoffe
