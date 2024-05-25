@@ -9420,7 +9420,6 @@ chaus
 constatory
 commiserate
 chausse
-chaussee
 chaussees
 chaussure
 coscinodiscaceae
@@ -18550,6 +18549,7 @@ cill
 cohortative
 cohosh
 circumdiction
+chaussee
 cytomegalic
 crownlet
 consigner
