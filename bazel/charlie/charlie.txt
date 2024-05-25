@@ -6670,6 +6670,7 @@ ceilings
 ceilingward
 ceilingwards
 collenchyma
+churchmen
 couche
 ceilometer
 couac
@@ -12936,7 +12937,6 @@ churchliest
 churchman
 cookers
 churchmanly
-churchmen
 churchreeve
 contramure
 churchscot
