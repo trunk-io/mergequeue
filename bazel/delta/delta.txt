@@ -15639,7 +15639,6 @@ draconis
 doorpiece
 dowl
 dawdle
-doorsill
 doorstead
 didactics
 detumescent
@@ -17420,6 +17419,7 @@ dropsied
 diffraction
 direction
 decream
+doorsill
 dropsies
 dropsywort
 dermopteran
