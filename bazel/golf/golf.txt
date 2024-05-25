@@ -3590,7 +3590,6 @@ gestical
 gesticulant
 gleeishly
 gesticulations
-gesticulative
 gestion
 gestning
 gutweed
@@ -4713,6 +4712,7 @@ gymnastics
 gypseian
 gastroenteric
 greenings
+gesticulative
 gentlehood
 gallovidian
 girlchild
