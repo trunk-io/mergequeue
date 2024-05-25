@@ -2335,6 +2335,7 @@ fatherlessness
 faunule
 fenestrato
 ficaria
+fb
 feeding
 fenetre
 fenman
@@ -7219,7 +7220,6 @@ fleetings
 footpounds
 flanderkin
 footprint
-fb
 forestery
 footrest
 filicite
