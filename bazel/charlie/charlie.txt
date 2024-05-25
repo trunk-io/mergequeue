@@ -29944,6 +29944,7 @@ crossweb
 chaver
 crossweed
 crosswise
+cuboctahedron
 crosswiseness
 crosswort
 crostarie
@@ -30523,7 +30524,6 @@ cubla
 cubmaster
 cyrtoceratite
 cubocalcaneal
-cuboctahedron
 cubocube
 cubocuneiform
 comforted
