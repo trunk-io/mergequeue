@@ -4970,6 +4970,7 @@ bogyisms
 beefalos
 bilimbis
 brig
+border
 beefburgers
 bebelted
 beefeater
@@ -13035,7 +13036,6 @@ bordeaux
 bordels
 bagfuls
 backpacker
-border
 blancard
 blackberry
 bakeboard
