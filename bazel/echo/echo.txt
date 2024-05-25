@@ -4775,7 +4775,6 @@ encolden
 encollar
 euryalean
 equitangential
-encolour
 encolpia
 encolpion
 equilibrator
@@ -7314,6 +7313,7 @@ enolize
 epanaphora
 electuaries
 emission
+encolour
 escaping
 epanisognathism
 endemics
