@@ -5211,7 +5211,6 @@ glassines
 glassiness
 glasslikeness
 gourdiness
-gondi
 goosefoots
 gravery
 glassmaker
@@ -6837,6 +6836,7 @@ guidebook
 gascheck
 graff
 grandmotherism
+gondi
 geochrony
 gilthead
 grooviness
