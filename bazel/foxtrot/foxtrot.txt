@@ -1686,7 +1686,6 @@ faults
 frugivora
 feak
 federate
-fealty
 fumigates
 fear
 fimbles
@@ -9857,6 +9856,7 @@ finals
 freshhearted
 fleetingly
 flushed
+fealty
 freshish
 freshly
 festa
