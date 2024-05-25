@@ -7699,7 +7699,6 @@ finnack
 forbathe
 format
 fulls
-frayproof
 frequencies
 flavedos
 foreigneering
@@ -10892,6 +10891,7 @@ fulfill
 fustianist
 fulgural
 floccular
+frayproof
 fenerate
 filicic
 freestone
