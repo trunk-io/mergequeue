@@ -5079,7 +5079,6 @@ elegits
 endocranial
 erases
 ensurers
-ember
 endocrine
 endocrines
 endocrinic
@@ -6033,6 +6032,7 @@ exulcerative
 enlister
 enlive
 enliven
+ember
 encomiums
 expiscating
 enlivener

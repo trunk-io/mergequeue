@@ -1302,7 +1302,6 @@ figurine
 firebombed
 fractable
 feverishly
-fibbed
 fasting
 fastingly
 framed
@@ -2810,6 +2809,7 @@ frayed
 festively
 fraze
 festivity
+fibbed
 frosted
 feston
 flatly
