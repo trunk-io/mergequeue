@@ -3049,7 +3049,6 @@ axtree
 aulostomi
 actiniform
 actiniomorpha
-actinisms
 aphidious
 actinium
 actiniums
@@ -25112,6 +25111,7 @@ axillae
 afforcing
 aristo
 antesignani
+actinisms
 axillant
 axillar
 axillary
