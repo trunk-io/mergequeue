@@ -5510,7 +5510,6 @@ boarstaff
 behaved
 behaver
 bicollateral
-behaving
 boater
 behavior
 bathylimnetic
@@ -9274,6 +9273,7 @@ biosphere
 bryon
 bionomical
 biostatic
+behaving
 biostatical
 biostatistic
 boeing
