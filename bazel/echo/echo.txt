@@ -200,7 +200,6 @@ epicarpal
 earthsmoke
 earthwall
 exhumed
-earthwards
 earthworks
 ethmovomer
 enddamaged
@@ -7360,6 +7359,7 @@ effodientia
 electropoion
 epauleted
 electrologic
+earthwards
 enterostomy
 extatic
 epaulette
