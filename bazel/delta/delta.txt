@@ -13804,7 +13804,6 @@ distancy
 distancing
 distannic
 domesticize
-distant
 distantly
 distantness
 distaste
@@ -15982,6 +15981,7 @@ dispersiveness
 dotkin
 devilish
 dotless
+distant
 dottiest
 dotlet
 derrickman
