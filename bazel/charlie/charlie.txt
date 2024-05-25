@@ -2275,7 +2275,6 @@ canaliculus
 canaliferous
 canaliform
 canaling
-canalis
 conflagrant
 canalise
 coherently
@@ -27914,6 +27913,7 @@ crabs
 crabstick
 comeatable
 crabut
+canalis
 crabweed
 coreid
 crabwise

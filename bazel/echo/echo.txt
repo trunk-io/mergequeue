@@ -2406,7 +2406,6 @@ eumenidean
 electroed
 erythroclasis
 equicostate
-electroencephalogram
 electroencephalograms
 electroencephalograph
 epitaxial
@@ -4321,6 +4320,7 @@ enactments
 enactors
 embryocardia
 edgeweed
+electroencephalogram
 enacture
 enaliornis
 enaliosaurian
