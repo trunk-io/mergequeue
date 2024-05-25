@@ -5342,6 +5342,7 @@ affine
 anteporch
 affined
 affinely
+allelotropism
 analects
 affines
 affinitative
@@ -8724,7 +8725,6 @@ allelomorphism
 allelopathy
 allelotropy
 allelotropic
-allelotropism
 alleluia
 alleluiah
 alleluias
