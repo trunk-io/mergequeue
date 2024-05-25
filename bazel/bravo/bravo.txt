@@ -2811,7 +2811,6 @@ baroreceptor
 bookends
 body
 barosinusitus
-barosma
 barosmin
 blithefully
 barostat
@@ -8435,6 +8434,7 @@ bigemina
 berberian
 beguard
 bigeminate
+barosma
 bootlicks
 bumblingness
 bigeminated
