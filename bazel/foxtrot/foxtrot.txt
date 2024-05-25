@@ -422,6 +422,7 @@ fauchards
 fishgig
 fur
 fairship
+forestick
 fairway
 faultfinders
 fairwater
@@ -9794,7 +9795,6 @@ freakful
 frenchly
 frenchman
 floatable
-forestick
 flycaster
 fevery
 filace
