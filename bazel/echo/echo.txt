@@ -2237,6 +2237,7 @@ elections
 electives
 engram
 elector
+endowers
 expostulator
 elks
 electorally
@@ -13799,7 +13800,6 @@ elating
 extracarpal
 encodes
 earring
-endowers
 extratropical
 extendible
 extracerebral
