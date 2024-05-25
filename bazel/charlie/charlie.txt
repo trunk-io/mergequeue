@@ -4008,7 +4008,6 @@ cardamom
 cicatrise
 cardamon
 cardamons
-cardamum
 cardanic
 cardanol
 cardboard
@@ -20117,6 +20116,7 @@ cyanogen
 cavernicolous
 cretinous
 corpselike
+cardamum
 commercia
 commerciable
 commercial
