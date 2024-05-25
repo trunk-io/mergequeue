@@ -4352,7 +4352,6 @@ automorph
 antiaircraft
 astichous
 axis
-ados
 anisaldoxime
 anamneses
 adossed
@@ -6250,6 +6249,7 @@ aglipayan
 aglipayano
 aglypha
 aglyphodont
+ados
 aglyphodonta
 aglyphous
 alectoriae
