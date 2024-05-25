@@ -6560,7 +6560,6 @@ guineapig
 goldbug
 geswarp
 goldbugs
-gabbles
 goldeyes
 golden
 geryoniidae
@@ -6960,6 +6959,7 @@ goodyera
 geographer
 goodyish
 gangliglia
+gabbles
 graphemes
 gammed
 gestations
