@@ -2586,7 +2586,6 @@ baryphonic
 baris
 bearleap
 bromating
-barysilite
 barit
 bunkoed
 broadwives
@@ -6755,6 +6754,7 @@ branchipodidae
 bagass
 bergman
 bergs
+barysilite
 boneshave
 bodegon
 bergsonism
