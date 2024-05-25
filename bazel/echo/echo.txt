@@ -3953,7 +3953,6 @@ emory
 eupomatiaceae
 excessman
 emoting
-emotion
 empyreans
 emotional
 escapologist
@@ -8211,6 +8210,7 @@ episiotomy
 epicondylitis
 episiotomies
 episkeletal
+emotion
 episodial
 episodical
 episodically
