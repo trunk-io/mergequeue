@@ -5737,6 +5737,7 @@ catchment
 catchments
 catchphrase
 catchpole
+ciliolate
 cynoscion
 cheroot
 catchpoled
@@ -7782,7 +7783,6 @@ ceroline
 cerolite
 ceromancy
 cmdr
-ciliolate
 couldron
 cadbit
 checkout
