@@ -1955,7 +1955,6 @@ basilicae
 bandsawn
 bandsman
 bandspreading
-bandstand
 beacon
 boronia
 beraked
@@ -9716,6 +9715,7 @@ bisext
 biles
 bisexual
 bimastism
+bandstand
 budapest
 bedclothes
 blepharitis
