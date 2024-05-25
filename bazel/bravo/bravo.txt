@@ -3737,7 +3737,6 @@ batteling
 bascule
 battels
 battement
-basisolute
 battements
 bestriding
 battened
@@ -7917,6 +7916,7 @@ blennotorrhea
 biarticulate
 barrulee
 biospheres
+basisolute
 bias
 breccia
 balladlike
