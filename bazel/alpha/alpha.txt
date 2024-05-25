@@ -17798,7 +17798,6 @@ appestat
 apostlehood
 appestats
 appet
-appete
 appetence
 appetent
 appetibility
@@ -20655,6 +20654,7 @@ arthrophyma
 arthrophlogosis
 anencephaly
 arthropyosis
+appete
 arthroplasty
 arthroplastic
 archness
