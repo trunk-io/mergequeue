@@ -6102,6 +6102,7 @@ bemangle
 bemar
 bemask
 brownistic
+burlaps
 bossier
 blephillia
 bemaster
@@ -17716,7 +17717,6 @@ burlace
 birgus
 blackfin
 blueings
-burlaps
 boomlets
 burleycue
 burler
