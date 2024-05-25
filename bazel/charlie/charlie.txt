@@ -3091,6 +3091,7 @@ capel
 capelan
 capelans
 capelet
+commandery
 capelin
 cornette
 capeline
@@ -19970,7 +19971,6 @@ corbeling
 commandeers
 chromolithographer
 coenenchyme
-commandery
 commanders
 cricketings
 commanding
