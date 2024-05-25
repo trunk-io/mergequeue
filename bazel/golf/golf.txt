@@ -5136,6 +5136,7 @@ glamoured
 girderage
 germanic
 glandules
+guildship
 grapeful
 grippe
 gossipper
@@ -5946,7 +5947,6 @@ glowering
 glowfly
 gastropneumatic
 glowingly
-guildship
 glows
 gorgeable
 ghastfulness
