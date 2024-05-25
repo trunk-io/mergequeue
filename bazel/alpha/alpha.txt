@@ -1026,7 +1026,6 @@ abstinently
 abstort
 abstr
 anthos
-abstract
 abstractable
 abstracted
 abstractedly
@@ -3690,6 +3689,7 @@ adorning
 aggelation
 adenographer
 attic
+abstract
 adenographic
 adenographical
 adenohypersthenia
