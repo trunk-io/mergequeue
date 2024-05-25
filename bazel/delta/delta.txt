@@ -1577,6 +1577,7 @@ deadnesses
 dustproof
 didache
 deadpan
+deiphobus
 deadpanned
 deadpans
 deadrise
@@ -6950,7 +6951,6 @@ desperance
 desperately
 despert
 derangement
-deiphobus
 diggers
 deaquation
 despicability
