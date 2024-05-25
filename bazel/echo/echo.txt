@@ -2683,7 +2683,6 @@ edaphodont
 electrotherapy
 electrotherapist
 electrotheraputic
-emyds
 electrothermal
 expurgates
 epiperipheral
@@ -9461,6 +9460,7 @@ escalloniaceae
 encored
 erythrean
 escalloniaceous
+emyds
 escallop
 esseda
 escalloped
