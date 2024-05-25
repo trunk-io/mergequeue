@@ -7795,7 +7795,6 @@ epifaunal
 epifaunas
 entassment
 epifocal
-epigaea
 epigamic
 excesses
 eubranchipus
@@ -9482,6 +9481,7 @@ erythrogenesis
 escapee
 escapees
 enricher
+epigaea
 empark
 executant
 eyehole
