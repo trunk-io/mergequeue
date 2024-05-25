@@ -1906,7 +1906,6 @@ bevies
 belay
 banding
 banjoist
-biostatics
 bandit
 branle
 belauder
@@ -3829,6 +3828,7 @@ battues
 batture
 battuta
 bielded
+biostatics
 biocontrol
 battute
 bunkos
