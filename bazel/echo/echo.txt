@@ -1294,7 +1294,6 @@ eellike
 eelpouts
 eelshop
 eelskin
-eelworm
 een
 endosternite
 eblis
@@ -5359,6 +5358,7 @@ ejaculative
 echinocactus
 escribiente
 epigramme
+eelworm
 evangelium
 envisioned
 endotys
