@@ -4623,7 +4623,6 @@ bladeless
 basecoat
 bedaggle
 beday
-biddable
 bedamned
 bedamning
 beweep
@@ -8542,6 +8541,7 @@ bijections
 bree
 bijective
 britishly
+biddable
 bijou
 bhandar
 bijugous
