@@ -18276,6 +18276,7 @@ chartings
 coffeegrower
 coffeegrowing
 cuss
+chromogram
 capelets
 coffeehouse
 coffeehoused
@@ -29663,7 +29664,6 @@ croyden
 croydon
 croiik
 croyl
-chromogram
 choiring
 croisad
 chayroot
