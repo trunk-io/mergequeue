@@ -12143,7 +12143,6 @@ anatomicophysiologic
 arteriofibrosis
 anatomies
 alloplasmic
-anatomise
 anatomiser
 anatomist
 anatomists
@@ -22462,6 +22461,7 @@ azafrin
 activists
 alchitran
 atar
+anatomise
 ataractic
 astely
 atrociousness
