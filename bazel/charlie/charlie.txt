@@ -15464,7 +15464,6 @@ cappella
 crosscut
 clangour
 cynebot
-clangoured
 clangouring
 cakewalks
 clangours
@@ -25515,6 +25514,7 @@ cornus
 cornuses
 concertstuck
 cornute
+clangoured
 cornuted
 cammocky
 cornutine
