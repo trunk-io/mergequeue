@@ -3543,7 +3543,6 @@ caput
 caputium
 caque
 counterstrike
-colonel
 caqueterie
 caqueteuse
 caquetoire
@@ -4559,6 +4558,7 @@ carnification
 carnifices
 carnificial
 carnifies
+colonel
 cnidocell
 carniform
 consummatory
