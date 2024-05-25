@@ -2087,7 +2087,6 @@ channeler
 campers
 chiloma
 campesinos
-campestral
 cordelier
 campfight
 campfires
@@ -10260,6 +10259,7 @@ chia
 chiack
 chyack
 chyak
+campestral
 cowpea
 chian
 chianti
