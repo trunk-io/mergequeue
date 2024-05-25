@@ -3714,7 +3714,6 @@ decadescent
 dentiloquy
 daffadowndilly
 degreewise
-degressive
 deguelia
 daffish
 dictamnus
@@ -8289,6 +8288,7 @@ diagnostics
 dispopularize
 disputableness
 demove
+degressive
 dele
 diagonal
 diagonalizable
