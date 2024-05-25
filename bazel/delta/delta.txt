@@ -7592,7 +7592,6 @@ deval
 devaloka
 drenched
 devalorize
-devaluate
 declinable
 devaluates
 devaluation
@@ -10380,6 +10379,7 @@ dioxane
 dioxanes
 dioxy
 disbrain
+devaluate
 defecate
 dioxid
 divergence
