@@ -8294,7 +8294,6 @@ alidad
 agammaglobulinemic
 alidads
 anchored
-alien
 alienability
 alienabilities
 alienable
@@ -9678,6 +9677,7 @@ alohas
 alumish
 alumite
 autolith
+alien
 anticonvulsant
 alumna
 alumnae
