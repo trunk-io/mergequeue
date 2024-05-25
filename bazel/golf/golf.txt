@@ -1489,6 +1489,7 @@ garnishees
 garnishes
 glossanthrax
 garnishment
+glenlike
 garnison
 garniture
 grecize
@@ -5367,7 +5368,6 @@ galbanum
 gamecraft
 grenade
 gullet
-glenlike
 genuflectory
 glomerulus
 glenohumeral
