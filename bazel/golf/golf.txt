@@ -840,7 +840,6 @@ ghrush
 gandergoose
 gottlieb
 gamari
-gamash
 gonidium
 gamashes
 graminiferous
@@ -4538,6 +4537,7 @@ goustie
 gynic
 goasila
 gink
+gamash
 geometdecrne
 gloss
 grides
