@@ -3959,7 +3959,6 @@ carcharhinus
 carcharias
 cerotene
 carchariid
-carchariidae
 carcharioid
 congredient
 carcharodont
@@ -7035,6 +7034,7 @@ caecitis
 censusing
 centage
 centals
+carchariidae
 chock
 centaur
 centaurdom
