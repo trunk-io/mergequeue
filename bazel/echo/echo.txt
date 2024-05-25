@@ -2770,7 +2770,6 @@ elementalist
 elementalistic
 erminites
 elementality
-expulse
 elementalize
 elementally
 elementaloid
@@ -9176,6 +9175,7 @@ eyrer
 erythroneocytosis
 erythronium
 erythropenia
+expulse
 endoscopic
 extratemporal
 espoused
