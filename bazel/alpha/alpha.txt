@@ -4284,7 +4284,6 @@ adopt
 adoptability
 adoptabilities
 ammonals
-adoptable
 adoptant
 adjag
 appleberry
@@ -10344,6 +10343,7 @@ amenorrheal
 amenorrheic
 amenorrho
 amenorrhoea
+adoptable
 amenorrhoeal
 aeronauts
 adiaphorous
