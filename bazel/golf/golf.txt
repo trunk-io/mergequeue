@@ -1347,7 +1347,6 @@ garboard
 gesticulator
 ged
 garbologist
-garce
 geoaesthesia
 gladkaite
 gratten
@@ -6756,6 +6755,7 @@ geographized
 gonyalgia
 giantism
 gumbotil
+garce
 goniatites
 guttler
 grint
