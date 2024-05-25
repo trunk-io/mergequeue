@@ -8644,7 +8644,6 @@ chancellery
 chancelleries
 chancellorate
 chancelloress
-chancellors
 chancellorship
 chancellorships
 chancelor
@@ -31584,6 +31583,7 @@ curver
 chic
 curvesome
 curvesomeness
+chancellors
 curvet
 cicisbei
 curveted
