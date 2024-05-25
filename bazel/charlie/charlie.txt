@@ -615,7 +615,6 @@ constrictors
 caedmonian
 caedmonic
 caelian
-caelometer
 cresson
 caenogenesis
 caenogenetic
@@ -18794,6 +18793,7 @@ coldfinch
 coldhearted
 coldish
 coldnesses
+caelometer
 coldong
 coldproof
 ceras
