@@ -2365,7 +2365,6 @@ decessit
 dietarian
 diphosphothiamine
 drink
-dechemicalize
 dechenite
 dechloridation
 dechloridize
@@ -4416,6 +4415,7 @@ dysphagic
 demanganization
 droil
 demarcated
+dechemicalize
 deliberator
 dishonourableness
 dispersonalize
