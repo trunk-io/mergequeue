@@ -5013,7 +5013,6 @@ burgensic
 blesse
 bunt
 bricks
-boltless
 ballast
 beeping
 beeps
@@ -6124,6 +6123,7 @@ bemingled
 bemingling
 bemire
 bemiring
+boltless
 burnewin
 bandlimited
 biltongue
