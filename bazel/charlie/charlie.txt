@@ -1347,6 +1347,7 @@ cinenchym
 calid
 calydon
 calydonian
+coalmouse
 coquetted
 caliduct
 calif
@@ -17286,7 +17287,6 @@ coalize
 coalized
 coalizer
 coalless
-coalmouse
 counterdrain
 coalpit
 calorifically
