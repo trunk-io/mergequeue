@@ -4261,7 +4261,6 @@ decimal
 delphacidae
 depasturing
 debtors
-delphically
 dasyurus
 delphin
 delphinapterus
@@ -10246,6 +10245,7 @@ dintless
 dints
 dinumeration
 dinus
+delphically
 diobol
 dutch
 diobolon
