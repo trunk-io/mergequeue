@@ -8551,7 +8551,6 @@ campilan
 chamoline
 chamorro
 casaba
-confluently
 chamos
 chamosite
 chamotte
@@ -27849,6 +27848,7 @@ cozeners
 cozening
 cozeningly
 cozens
+confluently
 cabdriver
 cozes
 cerebroside
