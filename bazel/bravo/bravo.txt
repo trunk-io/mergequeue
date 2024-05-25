@@ -5949,6 +5949,7 @@ bellyland
 bellylike
 bellyman
 benzolate
+brachiocubital
 belling
 biunique
 bruin
@@ -14061,7 +14062,6 @@ brachiocephalic
 burkites
 behaviour
 brachiocyllosis
-brachiocubital
 branchy
 brachiolaria
 bogusness
