@@ -4031,6 +4031,7 @@ fletchings
 finishable
 finisher
 fadable
+fotmal
 finishers
 finishes
 finites
@@ -8872,7 +8873,6 @@ foreshorten
 fictious
 folia
 fleuron
-fotmal
 foud
 folkvang
 forum
