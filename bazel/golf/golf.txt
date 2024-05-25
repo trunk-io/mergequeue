@@ -2770,7 +2770,6 @@ gurgeon
 gathering
 genetoid
 ghettoize
-genetous
 grenadines
 gourde
 gup
@@ -8891,6 +8890,7 @@ griece
 gull
 gnathion
 giveaway
+genetous
 grieffully
 gumbolike
 grudges
