@@ -1845,7 +1845,6 @@ foreparents
 fussle
 figless
 feazed
-feazes
 febricant
 fanaticize
 febricitant
@@ -9114,6 +9113,7 @@ furnace
 filterer
 fanzine
 fleabanes
+feazes
 fillingly
 foxily
 fissipedia
