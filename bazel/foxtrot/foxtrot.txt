@@ -6898,7 +6898,6 @@ faujasite
 folkmoter
 formuliser
 furnaceman
-foudroyant
 foamily
 folkright
 freekirker
@@ -11541,6 +11540,7 @@ fistic
 fab
 fractionate
 fused
+foudroyant
 fluormeter
 furtiveness
 furthering
