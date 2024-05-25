@@ -6496,7 +6496,6 @@ discourtesies
 diag
 descendability
 dispossesses
-descendable
 descendants
 decursive
 dentellated
@@ -15645,6 +15644,7 @@ detumescent
 doorstone
 doorstop
 diodes
+descendable
 deaconize
 doorway
 dennis
