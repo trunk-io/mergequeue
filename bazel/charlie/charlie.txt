@@ -11205,7 +11205,6 @@ chizzel
 chkfile
 cotys
 chladnite
-chondrite
 chlamyd
 chlamydate
 chlamydeous
@@ -12854,6 +12853,7 @@ communalisation
 chumping
 chumpish
 convertibleness
+chondrite
 chumps
 chums
 chumship
