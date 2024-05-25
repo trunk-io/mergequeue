@@ -9851,7 +9851,6 @@ bioenergetics
 basilosaurus
 boatie
 byssogenous
-byssoid
 blurring
 byssolite
 bisson
@@ -14808,6 +14807,7 @@ breakaway
 breakax
 bulimic
 breakaxe
+byssoid
 byline
 burning
 breakbones
