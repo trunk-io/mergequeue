@@ -2284,7 +2284,6 @@ fen
 fenagled
 fatil
 fain
-fenagles
 fenced
 fencelessness
 flautists
@@ -2621,6 +2620,7 @@ ferroaluminum
 ferrocene
 ferrocerium
 fogramity
+fenagles
 ferrocyanate
 ferroelectric
 ferrophosphorus

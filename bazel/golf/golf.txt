@@ -3968,7 +3968,6 @@ grunth
 gigadoid
 gasoline
 gouda
-gigahertz
 gigahertzes
 galloperdix
 gigaherz
@@ -6005,6 +6004,7 @@ gadger
 gentlefolks
 gluconeogenic
 gluconokinase
+gigahertz
 glucosaemia
 glucosone
 gametal
