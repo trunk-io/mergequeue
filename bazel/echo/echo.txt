@@ -5288,7 +5288,6 @@ endosome
 equilibrist
 extispices
 endospermic
-endospore
 epithelioceptor
 endosporic
 encharm
@@ -13006,6 +13005,7 @@ expellable
 expellant
 expellee
 expellees
+endospore
 expellent
 egueiite
 evaluations

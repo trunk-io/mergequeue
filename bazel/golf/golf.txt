@@ -6582,7 +6582,6 @@ goldenness
 goldenrod
 gelatinising
 goldentop
-grapewise
 gastrea
 golder
 grower
@@ -8249,6 +8248,7 @@ golds
 gummiferous
 grasshop
 grasshopper
+grapewise
 gnarling
 greeniest
 grins
