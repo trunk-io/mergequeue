@@ -353,6 +353,7 @@ backgame
 bepuzzle
 beamlet
 backgammon
+bescribble
 barbarical
 background
 backhand
@@ -6986,7 +6987,6 @@ bescrape
 bescreen
 belleek
 bescreening
-bescribble
 bucketeer
 bescribbled
 botchers
