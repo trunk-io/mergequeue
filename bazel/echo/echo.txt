@@ -5804,7 +5804,6 @@ enodate
 engraphically
 engrasp
 ephedrins
-engravement
 evermore
 engraver
 entree
@@ -5861,6 +5860,7 @@ enhaunt
 enheart
 enhearten
 estately
+engravement
 endobronchially
 enhedge
 euchorda

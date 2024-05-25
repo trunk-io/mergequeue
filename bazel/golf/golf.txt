@@ -1150,7 +1150,6 @@ gamed
 genitives
 ganister
 gynaecocratic
-groat
 ganja
 gashouses
 graphiola
@@ -2381,6 +2380,7 @@ grundyite
 glimpses
 geistlich
 geitonogamy
+groat
 gekko
 gonostyle
 geophysicists
