@@ -1518,7 +1518,6 @@ calcrete
 calliphoridae
 calliphorine
 callipygian
-callipygous
 callippic
 callirrhoe
 callisaurus
@@ -12794,6 +12793,7 @@ crinite
 catakinesis
 concede
 chuff
+callipygous
 cachexia
 chuffer
 chuffiest
