@@ -2575,7 +2575,6 @@ bobbiner
 begster
 birk
 backlists
-bardel
 balanced
 barylalia
 benevolentness
@@ -8282,6 +8281,7 @@ bidri
 bidry
 brutelike
 bids
+bardel
 burls
 biddableness
 bye
