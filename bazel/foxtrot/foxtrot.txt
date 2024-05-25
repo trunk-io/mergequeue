@@ -3822,6 +3822,7 @@ frugal
 floundering
 fathercraft
 faze
+forbow
 forenoted
 foliole
 fatlike
@@ -7398,7 +7399,6 @@ forboding
 forbore
 forborne
 fibroadipose
-forbow
 forestland
 fighter
 fasciculus
