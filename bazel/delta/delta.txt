@@ -10876,7 +10876,6 @@ dashboards
 disable
 disabled
 doorplates
-dasypygal
 defrayer
 demonstrativeness
 disablers
@@ -15688,6 +15687,7 @@ defilements
 doppler
 dorab
 dorad
+dasypygal
 doradidae
 dernful
 dorado
