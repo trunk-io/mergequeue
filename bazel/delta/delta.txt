@@ -6619,7 +6619,6 @@ desensitization
 desensitizations
 desensitize
 desensitized
-desensitizes
 desensitizing
 desentimentalize
 demerol
@@ -8499,6 +8498,7 @@ diamylene
 diamin
 dapperest
 disinthrall
+desensitizes
 diaminogen
 diaminogene
 dodecyl
