@@ -9412,6 +9412,7 @@ dechlore
 diffusible
 doolies
 diffusibleness
+dhikr
 diffusimeter
 diffusing
 diffusion
@@ -14929,7 +14930,6 @@ doesnt
 desiccatory
 doffing
 demiracle
-dhikr
 disconsonancy
 drearisomely
 dogal
