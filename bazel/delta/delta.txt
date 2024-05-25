@@ -790,7 +790,6 @@ dungeon
 dermititis
 daneweed
 daneweeds
-difficult
 danged
 detections
 dangerfully
@@ -10670,6 +10669,7 @@ doublewords
 diastrophism
 dipnoous
 deceptitious
+difficult
 determinedly
 dipodic
 dipodid
