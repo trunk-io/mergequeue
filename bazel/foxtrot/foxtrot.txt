@@ -910,7 +910,6 @@ fanteeg
 forcive
 fantigue
 fantoccini
-fantocine
 foresides
 flavor
 fanums
@@ -8604,6 +8603,7 @@ figurial
 forslow
 forsooth
 farstepped
+fantocine
 fatale
 fatuitousness
 forewrought

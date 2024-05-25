@@ -5400,7 +5400,6 @@ epipedometry
 eaglelike
 eparchate
 endurance
-endurant
 endure
 engorges
 ensnarled
@@ -12356,6 +12355,7 @@ elpidite
 evectant
 euconic
 exertion
+endurant
 exertionless
 emictory
 entophytous
