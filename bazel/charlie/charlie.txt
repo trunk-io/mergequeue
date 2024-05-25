@@ -9709,7 +9709,6 @@ cheesecutter
 cheesed
 caramba
 cheeselep
-cheeselip
 cheesemaker
 cheesemaking
 cheesemongery
@@ -13415,6 +13414,7 @@ cyclometric
 corytuberine
 contributes
 cyclomyaria
+cheeselip
 cyclonal
 cyclone
 cyclonic
