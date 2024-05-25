@@ -1988,7 +1988,6 @@ acetifying
 acetyl
 allottees
 acetylacetonates
-acetylacetone
 acetylamine
 acetylaniline
 acetylasalicylic
@@ -2715,6 +2714,7 @@ acranial
 acraniate
 acrasy
 assignor
+acetylacetone
 acrasias
 antiagglutination
 antipopular
