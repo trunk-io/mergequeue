@@ -5605,6 +5605,7 @@ grande
 ganoids
 gimmer
 germantown
+guvacine
 glycaemia
 ghegish
 glisten
@@ -10824,7 +10825,6 @@ gargol
 gutwort
 guv
 grouter
-guvacine
 goodwilled
 gigantism
 goatland
