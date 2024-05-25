@@ -14245,6 +14245,7 @@ circlets
 cochleas
 circocele
 colloquialisms
+computative
 circue
 circuit
 circuitable
@@ -16125,7 +16126,6 @@ clevis
 corruptibly
 codicilic
 capillariness
-computative
 clevises
 clew
 clewed
