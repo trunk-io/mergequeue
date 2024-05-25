@@ -1238,7 +1238,6 @@ gartered
 grues
 gape
 gynaecomasty
-gemmiform
 gaped
 gilim
 gaper
@@ -4650,6 +4649,7 @@ grandparent
 geologized
 gypster
 gastrolith
+gemmiform
 gypsuming
 gammadion
 giraffidae
