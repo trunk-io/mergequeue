@@ -2285,6 +2285,7 @@ exoccipital
 epigonus
 estivage
 electroacoustic
+expoundable
 electroacoustical
 elfkin
 electroacoustically
@@ -3995,7 +3996,6 @@ empanada
 euphoniousness
 exhilaratory
 empanel
-expoundable
 empaneled
 empanelling
 empanels
