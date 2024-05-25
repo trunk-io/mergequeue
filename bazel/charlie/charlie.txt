@@ -6463,6 +6463,7 @@ cavernal
 caverned
 cavernlike
 cavernoma
+cardiomalacia
 cavernous
 cavernously
 cavernulous
@@ -21328,7 +21329,6 @@ conch
 concha
 countenance
 cogitated
-cardiomalacia
 conchae
 conchal
 conchate
