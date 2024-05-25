@@ -3769,7 +3769,6 @@ carbohydride
 carbohydrogen
 carboy
 chontawood
-celestes
 carboys
 carbolate
 carbolated
@@ -20857,6 +20856,7 @@ caciocavallo
 componendo
 component
 componental
+celestes
 componented
 confronters
 crocodilian
