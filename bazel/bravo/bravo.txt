@@ -5368,7 +5368,6 @@ beglad
 bogies
 beglare
 beglerbeg
-beglerbeglic
 bags
 bakalai
 beglerbegluc
@@ -18195,6 +18194,7 @@ butlery
 butleries
 butlerism
 butlerlike
+beglerbeglic
 bathic
 butlers
 butlership
