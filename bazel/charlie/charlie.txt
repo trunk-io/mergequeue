@@ -16846,6 +16846,7 @@ clovewort
 castling
 comarca
 clowder
+compassability
 clowders
 clower
 clown
@@ -20539,7 +20540,6 @@ compartments
 critchfield
 codding
 compass
-compassability
 compassable
 compassed
 compasses
