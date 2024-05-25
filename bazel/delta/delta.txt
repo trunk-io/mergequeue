@@ -9394,7 +9394,6 @@ diffluent
 difforme
 dermoskeletal
 dadder
-diffract
 diffractions
 defense
 diffractively
@@ -16195,6 +16194,7 @@ dissour
 dowcote
 dowdy
 distent
+diffract
 dowdier
 dowdyish
 dowdyism
