@@ -7193,7 +7193,6 @@ euphonym
 enzym
 enfranchisement
 ensample
-evillest
 estive
 enzymes
 enzymic
@@ -10633,6 +10632,7 @@ endogenic
 euchloric
 euchlorine
 elegize
+evillest
 euchlorite
 euchlorhydria
 eleutherodactylus
