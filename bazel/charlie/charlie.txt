@@ -237,6 +237,7 @@ carrom
 caccabis
 caccagogue
 currency
+corpuscular
 cacciatora
 capeador
 cacei
@@ -7581,7 +7582,6 @@ caressing
 cercarial
 coloni
 cercarian
-corpuscular
 cercarias
 cercariform
 cerci
