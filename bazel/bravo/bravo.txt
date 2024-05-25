@@ -1866,7 +1866,6 @@ branchling
 bandeau
 betula
 bandelet
-bandelette
 bandeng
 banderlog
 banderma
@@ -12377,6 +12376,7 @@ bagpiper
 bombilation
 beautied
 bombyliidae
+bandelette
 bombilla
 burrio
 balitao
