@@ -8559,7 +8559,6 @@ bikeway
 bikie
 biking
 bedaze
-blankminded
 boatwoman
 biurate
 bikinied
@@ -13320,6 +13319,7 @@ botanic
 botanica
 bandoleered
 brontogram
+blankminded
 bivaulted
 botanically
 botanicas

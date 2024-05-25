@@ -2762,6 +2762,7 @@ fesses
 flaunche
 facetiation
 fest
+forbit
 festae
 festally
 frowner
@@ -10223,7 +10224,6 @@ frizers
 frizes
 forker
 flaxen
-forbit
 fauna
 fishmen
 feued
