@@ -1677,6 +1677,7 @@ calpacs
 conformation
 counterfallacy
 chambrel
+computably
 carthaginian
 calques
 caseconv
@@ -21049,7 +21050,6 @@ compursion
 computability
 connexional
 computable
-computably
 craniopuncture
 counterdash
 crookle
