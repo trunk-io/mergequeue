@@ -5498,7 +5498,6 @@ beshine
 behap
 bookmonger
 boarstaff
-behaved
 behaver
 bicollateral
 behaving
@@ -15327,6 +15326,7 @@ bicuspids
 bricklay
 brigous
 borasco
+behaved
 bimonthly
 brigs
 banchi
