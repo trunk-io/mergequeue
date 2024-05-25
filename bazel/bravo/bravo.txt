@@ -3539,6 +3539,7 @@ batcher
 bargemen
 bogging
 bateau
+bilboa
 blastomycetous
 bucchero
 bandoliered
@@ -8610,7 +8611,6 @@ banqueteering
 bilbies
 bronteon
 bilbo
-bilboa
 bearableness
 bilch
 bilcock

@@ -10267,6 +10267,7 @@ encoders
 eudora
 ethernet
 ecclesiolater
+exhumers
 etherous
 enormities
 ethical
@@ -12473,7 +12474,6 @@ exhumations
 exhumator
 exhumatory
 emancipations
-exhumers
 exfiltrate
 exhumes
 exhuming
