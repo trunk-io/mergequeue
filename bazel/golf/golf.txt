@@ -3227,7 +3227,6 @@ glasslike
 geopolitist
 geopositive
 grace
-geopotential
 georama
 gaolers
 gelosin
@@ -9694,6 +9693,7 @@ guying
 grummels
 grummet
 gable
+geopotential
 genuflector
 grumness
 gambir
