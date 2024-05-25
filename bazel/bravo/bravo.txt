@@ -364,7 +364,6 @@ backhander
 backhanding
 bovarist
 backhaul
-backhauls
 bossy
 backhoe
 backhoes
@@ -4916,6 +4915,7 @@ bagobo
 bedung
 batel
 bedur
+backhauls
 bedway
 bedways
 bromargyrite
