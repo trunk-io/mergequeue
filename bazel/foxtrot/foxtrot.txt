@@ -9766,7 +9766,6 @@ fluidal
 freyja
 freijo
 forehandsel
-factorship
 freir
 freith
 folletti
@@ -11115,6 +11114,7 @@ functionize
 flockless
 functionnaire
 functions
+factorship
 functors
 frankincense
 functus

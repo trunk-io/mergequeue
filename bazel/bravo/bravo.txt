@@ -4261,7 +4261,6 @@ beech
 beatify
 beslaved
 banefulness
-beatific
 beatifical
 biconjugate
 beatifically
@@ -7203,6 +7202,7 @@ bespeaks
 bespecked
 backrun
 bespeckle
+beatific
 bespeckled
 blindman
 bespectacled
