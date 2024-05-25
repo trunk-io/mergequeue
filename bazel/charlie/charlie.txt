@@ -3417,6 +3417,7 @@ cimelia
 capriola
 caprioled
 caprioles
+centropomus
 capriote
 capriped
 capripede
@@ -10910,7 +10911,6 @@ coquina
 chionophobia
 chiopin
 chiotilla
-centropomus
 chip
 chipchap
 chipchop

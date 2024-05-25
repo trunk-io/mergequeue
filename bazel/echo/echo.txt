@@ -8685,6 +8685,7 @@ ethrogs
 elfishness
 equipages
 expositions
+evenlong
 equiparation
 equipartisan
 eggcrate
@@ -11401,7 +11402,6 @@ exigency
 edeotomy
 evenhead
 evenly
-evenlong
 exotropic
 electrodesiccation
 evenmete
