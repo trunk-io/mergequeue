@@ -961,7 +961,6 @@ absorbable
 absorbancy
 absorbed
 acescency
-absorbedness
 afterhold
 absorbefacient
 allemontite
@@ -13422,6 +13421,7 @@ anywhither
 anywise
 anywither
 anhalonium
+absorbedness
 androgenic
 amucks
 anker
