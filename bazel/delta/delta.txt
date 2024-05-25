@@ -3890,6 +3890,7 @@ deionizations
 deionize
 decastyle
 deselects
+disinteresting
 dissceptred
 denegate
 decorationist
@@ -8293,7 +8294,6 @@ dele
 diagonal
 diagonalizable
 diagonalization
-disinteresting
 diagnosing
 diseurs
 diagonals
