@@ -9895,7 +9895,6 @@ chemiotropism
 chemiphotic
 chlorosulphonic
 chemis
-chemise
 comport
 crinet
 chemises
@@ -19894,6 +19893,7 @@ comfortative
 comforter
 comforters
 comfortful
+chemise
 comfortingly
 comfortlessly
 comfortlessness
