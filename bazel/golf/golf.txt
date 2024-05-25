@@ -2581,7 +2581,6 @@ gemot
 gemote
 gemotes
 growingly
-gems
 glaciarium
 genouillere
 gangrenes
@@ -5435,6 +5434,7 @@ glycogenolytic
 gammaroid
 gingals
 guttulous
+gems
 glycol
 glycolaldehyde
 goback
