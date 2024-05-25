@@ -11236,7 +11236,6 @@ enviroment
 exonuclease
 exanthema
 evaginable
-evaluated
 ecumenicist
 evaluates
 etherin
@@ -13843,6 +13842,7 @@ extractiform
 euphenic
 extroverts
 extracting
+evaluated
 extractive
 extractively
 extractor
