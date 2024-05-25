@@ -20566,6 +20566,7 @@ compatibleness
 compatibles
 compatriot
 compatriotic
+cruciform
 compatriotism
 compatriots
 compd
@@ -23762,7 +23763,6 @@ contrafissura
 contrafissure
 contraflexure
 contrafocal
-cruciform
 contragredience
 contragredient
 contrayerva
