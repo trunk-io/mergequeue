@@ -8089,6 +8089,7 @@ chaconne
 chaconnes
 countermovement
 chacra
+circuited
 codirectional
 chacte
 chacun
@@ -14244,7 +14245,6 @@ circue
 circuit
 circuitable
 circuital
-circuited
 chimonanthus
 circuiteer
 circuiter
