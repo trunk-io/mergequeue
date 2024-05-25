@@ -12241,6 +12241,7 @@ catonism
 cuadrillas
 chrysemys
 cynodon
+cogweel
 calescent
 chrysene
 chrysid
@@ -18474,7 +18475,6 @@ chaotical
 cogway
 cogways
 cerite
-cogweel
 cogweels
 cogwheels
 cogwood
