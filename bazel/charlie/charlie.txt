@@ -6856,7 +6856,6 @@ cowardliness
 cryptesthesia
 cytologist
 cellulitis
-cellulocutaneous
 cellulofibrous
 celluloid
 confabbing
@@ -30401,6 +30400,7 @@ ctenocyst
 copelate
 cascables
 ctenodactyl
+cellulocutaneous
 cloister
 ctenodont
 criers
