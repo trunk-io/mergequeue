@@ -2057,7 +2057,6 @@ febricula
 fatigueless
 flatlander
 ferberite
-fogbows
 frauder
 flaunting
 feisty
@@ -5345,6 +5344,7 @@ fleeces
 fleech
 fleeching
 fellowmen
+fogbows
 fleecy
 fastness
 floorwalkers
