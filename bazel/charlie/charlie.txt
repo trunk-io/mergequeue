@@ -3158,6 +3158,7 @@ cushaw
 capillament
 capillarectasia
 capillary
+cheliped
 cyrtograph
 carmetta
 capilli
@@ -9828,7 +9829,6 @@ curua
 chelingas
 chelingo
 chelingos
-cheliped
 chelys
 cydon
 chellean
