@@ -5978,6 +5978,7 @@ droppage
 deprivals
 deprivation
 deprive
+dissemblies
 deprived
 deprivement
 depriver
@@ -13553,7 +13554,6 @@ driftman
 dactylose
 dissemblers
 dissembles
-dissemblies
 dissemination
 dauted
 darlings
