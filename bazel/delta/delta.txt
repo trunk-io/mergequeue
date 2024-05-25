@@ -5424,6 +5424,7 @@ dentolingual
 dentonasal
 dielytra
 dentosurgical
+dissaves
 disrate
 diasene
 dentulous
@@ -13494,7 +13495,6 @@ demiglobe
 didelphis
 downtrodden
 dissaved
-dissaves
 dollardee
 dissaving
 demonomy
