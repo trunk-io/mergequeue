@@ -971,7 +971,6 @@ calamint
 calamintha
 calamistrate
 calamistrum
-cordyl
 calamite
 calamitean
 calamity
@@ -22594,6 +22593,7 @@ conked
 conker
 conkers
 cymatium
+cordyl
 cremor
 counterbid
 conking
