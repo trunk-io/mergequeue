@@ -9221,7 +9221,6 @@ charts
 coderive
 chartula
 churchlier
-chartulae
 chartulary
 coalface
 chartularies
@@ -28316,6 +28315,7 @@ clitic
 cratemen
 crater
 cruziero
+chartulae
 cratered
 cachet
 craterellus
