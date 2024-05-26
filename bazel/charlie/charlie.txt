@@ -27215,6 +27215,7 @@ countersurprise
 coydog
 countersway
 counterswing
+countercommand
 countersworn
 corroded
 countertack
@@ -27770,7 +27771,6 @@ cowsheds
 cowshot
 cowshut
 cowskin
-countercommand
 cowslipped
 cowson
 cowsucker

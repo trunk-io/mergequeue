@@ -4139,7 +4139,6 @@ flagstones
 fireburn
 flickertail
 fibrocaseous
-featherwork
 fadedness
 federals
 ferfathmur
@@ -7604,6 +7603,7 @@ frogging
 foreffelt
 feminised
 funfest
+featherwork
 foolhardy
 frontierman
 fireshine
