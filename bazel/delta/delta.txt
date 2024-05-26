@@ -10615,7 +10615,6 @@ dysporomorph
 diplonema
 detritus
 dunnaged
-diplont
 diplonts
 diplophase
 dictional
@@ -18206,6 +18205,7 @@ dundrearies
 debarked
 duneland
 dunelands
+diplont
 dunelike
 deputative
 dungan
