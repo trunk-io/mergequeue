@@ -1522,7 +1522,6 @@ goodnight
 garrisonism
 gashing
 garrnishable
-gemeinde
 garroo
 goldsmithry
 garroter
@@ -4067,6 +4066,7 @@ grasslands
 genospecies
 gmelinite
 gynostemia
+gemeinde
 gynecocratical
 gigi
 gerunds
