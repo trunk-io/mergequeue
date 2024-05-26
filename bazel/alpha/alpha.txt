@@ -5028,7 +5028,6 @@ anticommercialness
 aerogeologist
 arricciatos
 aerogramme
-aerograms
 aerograph
 americium
 aerography
@@ -16141,6 +16140,7 @@ antipragmatic
 antireform
 antireformer
 antireligion
+aerograms
 antireligiosity
 arenulous
 arctian
