@@ -1062,7 +1062,6 @@ abstractor
 abstrahent
 abstrict
 abstricted
-abstricting
 abstruser
 abstrusest
 absinthial
@@ -6881,6 +6880,7 @@ airedales
 asseverations
 ammoniacal
 airfare
+abstricting
 amyctic
 airfares
 airfield
