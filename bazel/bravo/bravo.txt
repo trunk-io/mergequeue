@@ -8166,7 +8166,6 @@ bicolorous
 bicolors
 bicoloured
 benchwork
-bicolours
 biconcave
 breezelike
 bidder
@@ -11596,6 +11595,7 @@ blusteration
 bufidin
 blustered
 bestain
+bicolours
 brightness
 blusterers
 blustering
