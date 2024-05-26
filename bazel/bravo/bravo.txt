@@ -7100,7 +7100,6 @@ besmircher
 besmirchers
 billethead
 besmirchment
-besmoke
 bruiser
 besmoked
 besmokes
@@ -14019,6 +14018,7 @@ brachyceral
 begrimming
 birr
 bunks
+besmoke
 brachycrany
 bowpot
 brachycranial
