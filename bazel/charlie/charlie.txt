@@ -6396,7 +6396,6 @@ cautivo
 cav
 cavae
 ceratites
-cavaedium
 cavayard
 cavalcaded
 cavalcades
@@ -14306,6 +14305,7 @@ circulatories
 circulators
 circulet
 circulus
+cavaedium
 circumambagious
 circumambiency
 circumambient
