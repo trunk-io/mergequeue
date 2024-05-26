@@ -12328,7 +12328,6 @@ bushfighter
 bombarder
 bombardiers
 bombarding
-bombardman
 burrfishes
 bullwhacker
 bramantesque
@@ -18322,6 +18321,7 @@ bowlegs
 buttony
 buttoning
 bridgebuilding
+bombardman
 beths
 buttonlike
 brahmans
