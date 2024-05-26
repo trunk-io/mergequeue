@@ -9043,6 +9043,7 @@ descaling
 dict
 dehort
 dictaen
+dissogony
 dolichosoma
 dictamina
 dictaphone
@@ -13729,7 +13730,6 @@ dissoconch
 directoire
 deadlihead
 dissogeny
-dissogony
 dissolubility
 downrushing
 dasypodidae
