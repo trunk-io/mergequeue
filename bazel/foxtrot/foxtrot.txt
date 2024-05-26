@@ -254,6 +254,7 @@ firm
 fertilizations
 floorwalker
 faddist
+fluorosis
 faddists
 founder
 fathomable
@@ -3969,7 +3970,6 @@ forfeited
 fingerprint
 fingerprints
 fingerroot
-fluorosis
 forleft
 fistulas
 fingersmith
