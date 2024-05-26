@@ -2812,7 +2812,6 @@ barmie
 baroreceptor
 bookends
 body
-barosinusitus
 barosmin
 blithefully
 barostat
@@ -15894,6 +15893,7 @@ bromobenzene
 balsameaceae
 bagmen
 bromodeoxyuridine
+barosinusitus
 bewearied
 brazilianite
 bromoil
