@@ -5487,7 +5487,6 @@ catabolically
 cabler
 catabolin
 catabolism
-catabolite
 catabolize
 colins
 catabolized
@@ -9861,6 +9860,7 @@ chemehuevi
 chemesthesis
 chemiatric
 chemic
+catabolite
 chemical
 complotted
 chemicalization

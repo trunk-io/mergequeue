@@ -1850,7 +1850,6 @@ bandaged
 bandager
 bandages
 bandaging
-bandaid
 bandala
 bandana
 buggery
@@ -6533,6 +6532,7 @@ benzols
 barfy
 benzonaphthol
 benzonitrile
+bandaid
 benzonitrol
 benzophenanthrazine
 benzophenone
