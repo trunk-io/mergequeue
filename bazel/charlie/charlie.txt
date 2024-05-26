@@ -5873,7 +5873,6 @@ caterwauling
 cates
 catesbaea
 catface
-catfaced
 catfacing
 catfall
 catfalls
@@ -17362,6 +17361,7 @@ coarsens
 coarser
 commelinaceae
 crureus
+catfaced
 coarticulate
 coarticulation
 coascend
