@@ -5482,7 +5482,6 @@ felon
 fratriage
 flyback
 foreflank
-flancards
 flyball
 fantasticate
 flatworm
@@ -11755,6 +11754,7 @@ fruitive
 fuzziness
 flauntiest
 filices
+flancards
 flacianism
 fv
 flocks
