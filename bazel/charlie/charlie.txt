@@ -2246,7 +2246,6 @@ canailles
 chargeship
 canakin
 canakins
-canal
 canalage
 canalatura
 canalboat
@@ -26208,6 +26207,7 @@ cercopidae
 cosmonautical
 cosmonautically
 cardiosclerosis
+canal
 creekside
 cosmonautics
 cosmonauts
