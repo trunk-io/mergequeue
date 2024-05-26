@@ -2910,6 +2910,7 @@ addaxes
 acromyotonia
 actuals
 antiochene
+ankylotic
 acromyotonus
 acromphalus
 acronic
@@ -13464,7 +13465,6 @@ assafetida
 ankylosis
 ankylostomiasis
 ankylotia
-ankylotic
 allotriodontia
 ankle
 anklejack
