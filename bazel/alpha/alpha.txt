@@ -586,7 +586,6 @@ abnormalised
 abnormalising
 abnormalism
 abnormalist
-abnormalize
 abnormalized
 anatomical
 abnormalizing
@@ -8294,6 +8293,7 @@ abegge
 avant
 alicoche
 alycompaine
+abnormalize
 alictisal
 alicula
 anomies
