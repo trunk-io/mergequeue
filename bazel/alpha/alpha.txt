@@ -1171,7 +1171,6 @@ academical
 areae
 academicals
 aneroidograph
-academician
 academicism
 academics
 academie
@@ -10401,6 +10400,7 @@ america
 araneiform
 arrayed
 americanese
+academician
 americanisms
 americanistic
 abucco
