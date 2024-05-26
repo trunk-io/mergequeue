@@ -2831,7 +2831,6 @@ acrocephaly
 acrocephalia
 acrocephalic
 acrocephalous
-acroceraunian
 aw
 acrochordinae
 almeh
@@ -22353,6 +22352,7 @@ astrolithology
 anaesthesiant
 astrolog
 astrologaster
+acroceraunian
 astrologers
 astrology
 astrologically
