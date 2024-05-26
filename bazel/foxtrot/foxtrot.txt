@@ -2568,6 +2568,7 @@ fights
 folder
 fossilisable
 fluorine
+fastly
 ferreous
 fences
 ferrer
@@ -7596,7 +7597,6 @@ foredune
 firy
 fossula
 ferroglass
-fastly
 falcular
 fescenninity
 forefeelingly
