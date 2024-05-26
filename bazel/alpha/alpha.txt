@@ -4710,7 +4710,6 @@ adlumine
 amatungula
 advisor
 advisories
-articulant
 advisorily
 advisors
 advitant
@@ -20544,6 +20543,7 @@ arteriocapillary
 arteriogenesis
 arteriograph
 adenectopia
+articulant
 arteriographic
 alacreatine
 arteriolith
