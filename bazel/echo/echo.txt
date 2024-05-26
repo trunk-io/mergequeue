@@ -6765,7 +6765,6 @@ enticers
 empyema
 exhalatory
 evanid
-entify
 enemied
 entifical
 entyloma
@@ -11910,6 +11909,7 @@ exceptless
 emends
 exceptor
 eightfoil
+entify
 ectoderms
 essoins
 ensuite
