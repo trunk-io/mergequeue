@@ -216,7 +216,6 @@ goslings
 gummer
 greyest
 gaius
-glug
 gaging
 glaciered
 greys
@@ -3255,6 +3254,7 @@ geoscopy
 gelasian
 geoscopic
 geoselenic
+glug
 geosid
 geosphere
 geostationary
