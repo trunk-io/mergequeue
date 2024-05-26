@@ -831,7 +831,6 @@ grooper
 gris
 ghrush
 gandergoose
-gottlieb
 gamari
 gamash
 gonidium
@@ -9694,6 +9693,7 @@ gemmule
 glossaries
 guying
 grummels
+gottlieb
 grummet
 gable
 genuflector
