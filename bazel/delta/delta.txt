@@ -5276,7 +5276,6 @@ deputy
 denominations
 denominative
 dicty
-denominatively
 denominators
 denormalized
 denotable
@@ -14443,6 +14442,7 @@ dodgeries
 decolonised
 dewfalls
 dynodes
+denominatively
 divided
 dividend
 dividends
