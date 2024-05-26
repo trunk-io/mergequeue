@@ -2345,7 +2345,6 @@ gefulltefish
 gaddis
 galax
 gruiform
-gehlenite
 goblet
 guideway
 gey
@@ -6801,6 +6800,7 @@ goodby
 gambled
 gristhorbia
 gobbets
+gehlenite
 googols
 gonidiophore
 gonimium

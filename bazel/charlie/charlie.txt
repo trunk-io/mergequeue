@@ -3534,6 +3534,7 @@ chesteine
 captor
 captors
 capturable
+chasmy
 capture
 captured
 calcification
@@ -15031,7 +15032,6 @@ cachucho
 coenactor
 cytopathologically
 complish
-chasmy
 cytopenia
 cytophagy
 centrosymmetry
