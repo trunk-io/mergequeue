@@ -3083,7 +3083,6 @@ aporobranchiata
 acrosporous
 anurous
 asbolin
-actinographic
 actinoid
 annotate
 anisochromia
@@ -5150,6 +5149,7 @@ argo
 aerotechnical
 aerotherapeutics
 aerotherapy
+actinographic
 amreetas
 aerothermodynamics
 aerotonometer
