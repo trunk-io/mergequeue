@@ -3390,7 +3390,6 @@ definitise
 dekastere
 dormant
 dilatant
-demitting
 definitised
 domesticable
 definitive
@@ -4229,6 +4228,7 @@ demonstratorship
 dob
 delitescency
 delitescent
+demitting
 deliverables
 deliverance
 dressmaker
