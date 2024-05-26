@@ -3746,7 +3746,6 @@ foregirth
 falconet
 faultlessly
 fortressed
-farsakh
 filmcard
 filmcards
 filmdom
@@ -10445,6 +10444,7 @@ flodge
 fetterer
 foreface
 flammably
+farsakh
 finnesko
 fillagree
 feta
