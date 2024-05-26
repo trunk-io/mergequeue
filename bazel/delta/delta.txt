@@ -7990,7 +7990,6 @@ daphnes
 dextrogyre
 dystopia
 diagnosticated
-dermovaccine
 dorsibranch
 dextroglucose
 distensive
@@ -18330,6 +18329,7 @@ duodena
 duodenary
 duodenate
 declension
+dermovaccine
 duodenation
 degelation
 duodene
