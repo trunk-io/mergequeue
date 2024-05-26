@@ -8047,7 +8047,6 @@ employers
 epirrhematic
 emetin
 eriophorum
-epipanies
 ethylene
 eurasia
 electrosurgeries
@@ -13686,6 +13685,7 @@ excavates
 externum
 engrail
 ewers
+epipanies
 elocular
 elatine
 emersions
