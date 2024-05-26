@@ -26589,7 +26589,6 @@ cottontails
 cottontop
 cassias
 cottonwick
-cottonwoods
 cottrel
 cottus
 cotunnite
@@ -31264,6 +31263,7 @@ curbside
 curbstone
 curbstoner
 curbstones
+cottonwoods
 curcas
 curch
 curchef
