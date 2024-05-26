@@ -9936,7 +9936,6 @@ amatembu
 announcements
 argean
 amateur
-amateurish
 amateurishness
 amateurs
 amateurship
@@ -15686,6 +15685,7 @@ artiodactyl
 antimoralist
 antimoralistic
 antimorality
+amateurish
 antimosquito
 antimusical
 antimusically
