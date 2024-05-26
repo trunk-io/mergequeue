@@ -8177,7 +8177,6 @@ anglaise
 algesiometer
 algy
 algicidal
-algicide
 anionics
 algidity
 algidities
@@ -21642,6 +21641,7 @@ assailable
 adenectopic
 assailableness
 angleberry
+algicide
 anotropia
 assailants
 acrothoracica
