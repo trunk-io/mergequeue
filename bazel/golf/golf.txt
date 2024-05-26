@@ -8084,7 +8084,6 @@ gripper
 guanidins
 gnatsnap
 granulet
-galuth
 granulization
 gowiddie
 gardened
@@ -9189,6 +9188,7 @@ gigabyte
 gigglesome
 gat
 groceryman
+galuth
 gardnap
 gedanken
 globulose
