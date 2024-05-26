@@ -13484,7 +13484,6 @@ bacteriocyte
 benefic
 bowyangs
 basementward
-bolted
 brachydactyl
 bottomried
 bottomrying
@@ -16602,6 +16601,7 @@ beant
 bunkoing
 buchmanite
 bocci
+bolted
 buchnerite
 buchonite
 buck
