@@ -347,6 +347,7 @@ fuseboard
 figureless
 fitchews
 factions
+foursquareness
 famines
 fiercening
 foreproduct
@@ -8995,7 +8996,6 @@ fourscorth
 foursquare
 frettiest
 feature
-foursquareness
 frakfurt
 fourteener
 fourteens

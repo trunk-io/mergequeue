@@ -1679,6 +1679,7 @@ gast
 gastaldite
 gymnura
 gasted
+glyphographer
 gaster
 gauntlet
 giltheads
@@ -5481,7 +5482,6 @@ generalisation
 glycosides
 goiters
 glutelin
-glyphographer
 grant
 gipsyism
 glycosidically
