@@ -5257,7 +5257,6 @@ dion
 decursion
 denominant
 denominate
-denominates
 denomination
 denominational
 desmosis
@@ -14517,6 +14516,7 @@ divorcee
 divorcees
 divorcement
 discomposedly
+denominates
 departmentization
 deeming
 dampproofer
