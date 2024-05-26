@@ -5497,7 +5497,6 @@ flatworm
 fluctuant
 flibbertigibbety
 flybelt
-flybelts
 foolhardier
 featherers
 forepad
@@ -6285,6 +6284,7 @@ flower
 fluigram
 frankincensed
 fluyts
+flybelts
 fluke
 fluked
 feridgi
