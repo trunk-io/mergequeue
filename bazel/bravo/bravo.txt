@@ -1422,6 +1422,7 @@ balebos
 baled
 bonaught
 baleen
+bedrivel
 baleens
 balefire
 balefires
@@ -4823,7 +4824,6 @@ brainish
 balsawood
 barbarize
 bedrugging
-bedrivel
 broadening
 brachylogy
 bedriveling
