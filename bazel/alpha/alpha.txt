@@ -5449,6 +5449,7 @@ afforests
 afformative
 affray
 affrayers
+aristarch
 affraying
 affrays
 affranchise
@@ -10220,7 +10221,6 @@ ambulacrum
 ambulance
 acheilary
 amoeboidism
-aristarch
 antithetically
 ambulancer
 acenesthesia
