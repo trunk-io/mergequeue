@@ -5625,7 +5625,6 @@ enfranchises
 extraterrestrially
 enhydros
 extremity
-enfree
 enerve
 enfrenzy
 egotize
@@ -7303,6 +7302,7 @@ exception
 extremital
 etherize
 epalpate
+enfree
 ellasar
 ecdysons
 epalpebrate
