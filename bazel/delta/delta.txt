@@ -15519,7 +15519,6 @@ drawly
 discover
 done
 diaries
-deduct
 discommodiousness
 donees
 diswarren
@@ -16652,6 +16651,7 @@ dragooning
 donnered
 dragrope
 decades
+deduct
 drags
 dexterousness
 debiteuse
