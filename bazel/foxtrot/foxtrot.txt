@@ -9302,7 +9302,6 @@ fraktur
 framboise
 fasciolet
 forgeries
-falcopern
 fetiales
 fruity
 frambesia
@@ -10150,6 +10149,7 @@ frisking
 friskingly
 frisks
 frondiform
+falcopern
 formalise
 flightshot
 frisson
