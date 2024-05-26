@@ -2288,7 +2288,6 @@ fencepost
 fencers
 firebricks
 fsiest
-fluidness
 fenchene
 fenchone
 fencible
@@ -9316,6 +9315,7 @@ frameshift
 frapler
 flunkydom
 futuramic
+fluidness
 faburden
 frampler
 findy
