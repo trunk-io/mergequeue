@@ -530,6 +530,7 @@ desoxyanisoin
 dama
 damageability
 damageably
+disorderliness
 dogstone
 describent
 demounted
@@ -10106,7 +10107,6 @@ dinder
 dilative
 dindymus
 drumheads
-disorderliness
 disassimilating
 dodecahedra
 dindon

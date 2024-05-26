@@ -7302,6 +7302,7 @@ bevelling
 banditries
 ballasted
 bene
+bourgeons
 backtrackers
 bestian
 bestiary
@@ -13691,7 +13692,6 @@ boteler
 breadlessness
 bourgeoned
 bourgeoning
-bourgeons
 bourgs
 bourignian
 bourignianism
