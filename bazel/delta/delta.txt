@@ -14735,7 +14735,6 @@ docketing
 dockets
 dockhand
 debadge
-dockhouse
 dockyard
 dockyardman
 daktylon
@@ -17188,6 +17187,7 @@ dimensions
 dryopithecus
 dryops
 dryopteroid
+dockhouse
 drypoints
 disagio
 dripolator
