@@ -10468,7 +10468,6 @@ gumption
 gumptionless
 graylings
 gibbon
-gulfwards
 granulator
 gumpus
 gums
@@ -10663,6 +10662,7 @@ gurney
 gurneyite
 gurnet
 guests
+gulfwards
 granaries
 generalissima
 gandhist

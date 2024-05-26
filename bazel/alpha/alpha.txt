@@ -13463,7 +13463,6 @@ ankylosing
 assafetida
 ankylosis
 ankylostomiasis
-ankylotia
 ankylotic
 allotriodontia
 ankle
@@ -24241,6 +24240,7 @@ autonitridation
 autonoetic
 autonomasy
 afeard
+ankylotia
 autonomy
 amusing
 autonomically
