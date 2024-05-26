@@ -1362,7 +1362,6 @@ gardenia
 gundeck
 giftlike
 gardenless
-gardenlike
 gardenmaking
 gunnels
 granulose
@@ -10481,6 +10480,7 @@ gumshoeing
 gumweed
 gemeinschaft
 gumweeds
+gardenlike
 goys
 giftware
 gumwoods
