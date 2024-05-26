@@ -6860,7 +6860,6 @@ aircraftsmen
 aircraftswoman
 adipsous
 aircraftwoman
-ahint
 aircrew
 aircrewmen
 aortae
@@ -8678,6 +8677,7 @@ allegers
 antiatheistical
 alleges
 allegheny
+ahint
 autoincremented
 alleghenian
 allegiance

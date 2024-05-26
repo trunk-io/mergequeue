@@ -4807,7 +4807,6 @@ foothook
 fungal
 flailing
 folksinging
-fisheries
 followable
 flails
 flain
@@ -8541,6 +8540,7 @@ fornicated
 fibropericarditis
 familic
 flirtable
+fisheries
 fasciation
 ferr
 fornication
