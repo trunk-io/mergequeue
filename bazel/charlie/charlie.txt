@@ -13703,6 +13703,7 @@ cimaise
 cafe
 cymaise
 cort
+corncobs
 cymaphyte
 chickenweed
 cymaphytic
@@ -25376,7 +25377,6 @@ corncake
 causeways
 corncakes
 calamined
-corncobs
 corncockle
 corncracker
 corncrake
