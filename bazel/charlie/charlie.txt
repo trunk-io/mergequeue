@@ -5422,7 +5422,6 @@ cookshack
 castorial
 calcaneonavicular
 castorite
-castors
 castra
 castrater
 castrates
@@ -7551,6 +7550,7 @@ crozier
 ceratopsian
 ceratopsid
 ceratopteridaceae
+castors
 carnac
 ceratopteris
 ceratorhine
