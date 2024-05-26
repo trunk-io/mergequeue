@@ -8499,7 +8499,6 @@ caccia
 chamberlet
 centroid
 chamberleted
-chambermaid
 camelidae
 chambers
 chambertin
@@ -30791,6 +30790,7 @@ culmy
 culmicolous
 casaquin
 critteria
+chambermaid
 culmiferous
 culmigenous
 culminal
