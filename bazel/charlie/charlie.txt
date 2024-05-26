@@ -3605,7 +3605,6 @@ cornicing
 cocineras
 caragana
 caraganas
-carageens
 caragheen
 caraibe
 caraipa
@@ -31257,6 +31256,7 @@ crumblier
 chlamys
 curbings
 curbless
+carageens
 cotonam
 curbline
 curbs
