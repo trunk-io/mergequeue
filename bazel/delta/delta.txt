@@ -1444,7 +1444,6 @@ dandruffy
 dobber
 dawsonia
 dawt
-definer
 dawtie
 diseasefulness
 disinfect
@@ -7760,6 +7759,7 @@ denaturalization
 devirginate
 devirgination
 diaglyph
+definer
 devisability
 devisable
 devisal
