@@ -5478,7 +5478,6 @@ falsettist
 fumid
 flexors
 fluffed
-flexuosity
 flexuously
 flexuousness
 flexura
@@ -11507,6 +11506,7 @@ furud
 flagon
 flotant
 faddisms
+flexuosity
 fishberries
 furunculous
 foreordained
