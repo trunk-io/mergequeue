@@ -3784,6 +3784,7 @@ battlement
 battlements
 barnstorms
 battler
+brinks
 battles
 battleship
 battleships
@@ -7634,7 +7635,6 @@ barleducs
 beverage
 beverse
 bevesseled
-brinks
 boneache
 bogwood
 betaine
