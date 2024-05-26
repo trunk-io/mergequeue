@@ -3012,7 +3012,6 @@ depositional
 describers
 deductio
 dreadlessly
-deductions
 deductive
 deductively
 deductory
@@ -7569,6 +7568,7 @@ deuterotype
 deuterovitellose
 deuterozooid
 didynamies
+deductions
 desultorious
 deutobromide
 djellaba
