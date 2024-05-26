@@ -1475,7 +1475,6 @@ atka
 accessorily
 accessorius
 aviculture
-accessorize
 arsenobenzene
 arms
 accessors
@@ -2154,6 +2153,7 @@ acherontic
 acherontical
 aches
 achesoun
+accessorize
 achete
 acheulean
 antecell
