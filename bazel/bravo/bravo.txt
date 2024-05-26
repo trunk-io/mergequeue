@@ -494,7 +494,6 @@ backstabber
 be
 backstaff
 backstay
-bridely
 biotech
 boshboks
 backstick
@@ -9022,6 +9021,7 @@ bandoras
 baisakh
 biocycle
 biocycles
+bridely
 botan
 boorish
 biocidal
