@@ -5931,7 +5931,6 @@ cathection
 cathects
 cathedra
 cuneocuboid
-cathedraled
 cathedralesque
 cavorter
 clasp
@@ -28975,6 +28974,7 @@ cunning
 cricotracheotomy
 crossbowman
 compositions
+cathedraled
 cricotus
 criddle
 cried
