@@ -11541,7 +11541,6 @@ bannerer
 badinaged
 ballplayers
 bluntness
-blup
 barbs
 blur
 blurb
@@ -16533,6 +16532,7 @@ bubbling
 bubblish
 bube
 bubinga
+blup
 bougainvillea
 brachydodrome
 bubingas
