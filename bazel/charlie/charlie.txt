@@ -2040,6 +2040,7 @@ campana
 campane
 campanella
 campanero
+chiselers
 campania
 cecils
 comdg
@@ -11096,7 +11097,6 @@ chis
 chiseled
 curuba
 chiseler
-chiselers
 counterreplying
 chiseling
 commoned
