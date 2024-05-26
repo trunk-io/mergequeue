@@ -2752,7 +2752,6 @@ forebays
 fishboat
 fescennine
 fescue
-foggish
 fightings
 fungate
 fescues
@@ -7510,6 +7509,7 @@ frictionlessness
 foulmouthed
 forebodes
 forebody
+foggish
 folksongs
 forebodingness
 fleshiest
