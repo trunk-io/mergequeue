@@ -1661,7 +1661,6 @@ calorimeters
 calorimetry
 calorimetric
 calorimetrical
-calorimetrically
 calorimotor
 calorist
 calorized
@@ -23711,6 +23710,7 @@ contraceptive
 cuplike
 cubalaya
 countableness
+calorimetrically
 contracyclical
 contracivil
 contraclockwise
