@@ -5898,6 +5898,7 @@ glosts
 glottal
 gloomy
 grapsoid
+goar
 ghole
 gattine
 galera
@@ -10423,7 +10424,6 @@ gum
 gourdy
 gyneolatry
 gumbo
-goar
 gumboils
 graphologic
 gruffy
