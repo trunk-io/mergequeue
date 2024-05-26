@@ -1943,6 +1943,7 @@ bandoleros
 brockle
 bandonion
 bandor
+beweep
 bandora
 bandore
 bronchium
@@ -4626,7 +4627,6 @@ beday
 biddable
 bedamned
 bedamning
-beweep
 benzylpenicillin
 bituberculated
 babbled
