@@ -2752,7 +2752,6 @@ fervours
 forebays
 fishboat
 fescennine
-fescue
 foggish
 fightings
 fungate
@@ -7374,6 +7373,7 @@ fissidens
 fatigues
 foederis
 fenestellae
+fescue
 flywort
 flames
 frust
