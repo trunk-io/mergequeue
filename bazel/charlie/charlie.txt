@@ -11491,6 +11491,7 @@ choana
 choanate
 choanephora
 choanocytal
+consul
 choanocyte
 choanoflagellate
 choanoflagellida
@@ -23310,7 +23311,6 @@ culmen
 consubstantive
 consuetudinal
 cyanocrystallin
-consul
 consulage
 coloclysis
 chirurgical
