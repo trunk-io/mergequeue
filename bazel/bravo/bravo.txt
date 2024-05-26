@@ -7935,7 +7935,6 @@ barometrical
 biatomic
 biauricular
 burny
-benzanalgen
 biauriculate
 biaxiality
 birdseyes
@@ -13329,6 +13328,7 @@ botanise
 botanist
 bdle
 botanize
+benzanalgen
 brachioradialis
 botanizes
 botanomancy
