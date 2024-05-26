@@ -566,7 +566,6 @@ galvanotaxis
 galleyworm
 geneat
 glimpsed
-galleon
 galleons
 galler
 gematriot
@@ -6073,6 +6072,7 @@ ginned
 glamorization
 glumaceae
 germy
+galleon
 glumales
 glumes
 glumiferous
