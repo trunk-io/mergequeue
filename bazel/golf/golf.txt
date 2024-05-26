@@ -115,7 +115,6 @@ genotype
 gadgetry
 gadgetries
 generals
-geezer
 gaditan
 glut
 goniometrical
@@ -8769,6 +8768,7 @@ gablelike
 graecized
 greyed
 grosser
+geezer
 greyflies
 glyoxilin
 ganglioside
