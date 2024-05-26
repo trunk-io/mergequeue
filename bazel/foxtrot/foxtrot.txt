@@ -1939,6 +1939,7 @@ fosterlings
 flowerlike
 fracture
 feeble
+finchery
 fretfully
 fainaiguing
 feebleness
@@ -8699,7 +8700,6 @@ furlane
 flailed
 fixedness
 flymen
-finchery
 fortuitous
 faying
 firebases
