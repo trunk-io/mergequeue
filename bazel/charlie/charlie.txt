@@ -14279,7 +14279,6 @@ circulant
 circular
 cryalgesia
 circularisation
-circularised
 calandre
 circularising
 circularism
@@ -15475,6 +15474,7 @@ crosscut
 clangour
 cynebot
 clangoured
+circularised
 clangouring
 cakewalks
 clangours
