@@ -7084,7 +7084,6 @@ centered
 centerer
 cannonball
 centerfold
-compania
 campings
 colonus
 centerfolds
@@ -25751,6 +25750,7 @@ correctness
 correctory
 chignon
 committals
+compania
 cobra
 correctress
 corrects

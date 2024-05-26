@@ -2112,7 +2112,6 @@ bannerline
 bannerman
 bannermen
 bannerole
-bannerols
 bannet
 bannisters
 birthmarks
@@ -2496,6 +2495,7 @@ bares
 bounceably
 baresark
 baring
+bannerols
 backpackers
 bononian
 brethrenism
