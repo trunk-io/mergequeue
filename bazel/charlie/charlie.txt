@@ -6932,7 +6932,6 @@ capricornus
 chapeaux
 cementatory
 chapaties
-cementer
 cementers
 cementification
 cyborgs
@@ -16758,6 +16757,7 @@ culla
 clothespin
 chocolaty
 cotypes
+cementer
 clothespins
 clothespresses
 clothy
