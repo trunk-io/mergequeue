@@ -8195,6 +8195,7 @@ diacids
 deprecate
 diacipiperazine
 disload
+disfunction
 diaclinal
 diacodion
 dualistically
@@ -12184,7 +12185,6 @@ dotards
 disfrocked
 disfrocking
 disclose
-disfunction
 declaratively
 dennstaedtia
 dendrochronological
