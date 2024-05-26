@@ -1097,6 +1097,7 @@ crossbarred
 calcinate
 calcinator
 calcinatory
+curtaxe
 calcine
 calcined
 calciner
@@ -19971,7 +19972,6 @@ comm
 command
 commandable
 commandant
-curtaxe
 commandatory
 commanded
 commandedness
