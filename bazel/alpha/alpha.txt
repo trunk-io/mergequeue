@@ -8547,7 +8547,6 @@ autoheterodyne
 abdomens
 alkalization
 alkalize
-alkalizer
 alkalizes
 alkalizing
 alkaloid
@@ -16877,6 +16876,7 @@ amidosuccinamic
 asclepius
 antiphoner
 aphesis
+alkalizer
 apheta
 accidentals
 aphetic
