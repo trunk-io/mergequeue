@@ -6619,7 +6619,6 @@ focal
 fogey
 featness
 focalizes
-formalize
 forwrap
 forbye
 focsle
@@ -10914,6 +10913,7 @@ ferris
 fullams
 finback
 fulled
+formalize
 fuller
 favoringly
 florette
