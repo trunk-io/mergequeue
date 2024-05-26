@@ -1896,7 +1896,6 @@ camelopardalis
 camelopardid
 cinnamomum
 camelopardidae
-camelopards
 camelopardus
 camelot
 counterflashing
@@ -14512,6 +14511,7 @@ circumterraneous
 circumtonsillar
 coelelminth
 computate
+camelopards
 conchologically
 circumundulation
 curriery
