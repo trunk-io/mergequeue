@@ -4706,7 +4706,6 @@ enciphering
 executonis
 epigean
 encircle
-elocutive
 encircled
 exercitant
 encircles
@@ -7181,6 +7180,7 @@ endopodite
 ecumenic
 enneasyllabic
 entwists
+elocutive
 enwreathe
 enwreathing
 exanimate
