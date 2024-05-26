@@ -3855,7 +3855,6 @@ extrabulbar
 excludible
 exemplarily
 engladden
-emforth
 exallotriote
 emic
 eudendrium
@@ -5083,6 +5082,7 @@ erases
 ensurers
 ember
 endocrine
+emforth
 endocrines
 endocrinic
 endocrinism
