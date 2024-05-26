@@ -15780,7 +15780,6 @@ clausula
 clausulae
 clausular
 clausule
-cheekily
 clausum
 clausure
 claut
@@ -27082,6 +27081,7 @@ counterpreach
 counterprick
 combinatoric
 counterprinciple
+cheekily
 counterprocess
 counterproductive
 counterproductively
