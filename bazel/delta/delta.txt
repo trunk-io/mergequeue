@@ -403,6 +403,7 @@ densitometry
 diathermia
 deboning
 dairies
+dihdroxycholecalciferol
 dairying
 dairyings
 darwan
@@ -9626,7 +9627,6 @@ derives
 dihalo
 discommendable
 dihalogen
-dihdroxycholecalciferol
 dihedrals
 dihedron
 discipleship
