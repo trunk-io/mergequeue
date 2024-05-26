@@ -1626,6 +1626,7 @@ gnathopoda
 gasmaker
 gorlin
 gremmie
+gamete
 gasman
 gasmen
 gasmetophytic
@@ -7070,7 +7071,6 @@ gigameter
 gregor
 gesticulation
 gooseberry
-gamete
 gossipmonger
 gastradenitis
 genealogist
