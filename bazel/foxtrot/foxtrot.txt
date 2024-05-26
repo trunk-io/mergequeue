@@ -8324,7 +8324,6 @@ forklike
 frangulaceae
 forkman
 ficus
-forswornness
 forks
 feneration
 forksful
@@ -8439,6 +8438,7 @@ fibrinoplastic
 foreguidance
 felicide
 forked
+forswornness
 fiddlestring
 fidgeting
 feoffers
