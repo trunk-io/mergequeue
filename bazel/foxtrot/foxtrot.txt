@@ -4295,6 +4295,7 @@ frequence
 firstly
 firstlings
 flavius
+forehooves
 flopwing
 frankable
 festivous
@@ -7684,7 +7685,6 @@ forspeak
 frist
 forehoofs
 forehook
-forehooves
 forpit
 flossy
 foreboding
