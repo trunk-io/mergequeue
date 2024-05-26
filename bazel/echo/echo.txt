@@ -712,7 +712,6 @@ econometrics
 enteroparalysis
 equalable
 endomyces
-equiformity
 embryographer
 epiglottic
 eosinate
@@ -8360,6 +8359,7 @@ earcap
 embrown
 epitheliolytic
 epitheliomas
+equiformity
 egyptians
 elvan
 exopterygotic
