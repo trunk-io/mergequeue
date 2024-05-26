@@ -16286,6 +16286,7 @@ clingstone
 clinia
 clinic
 clinical
+cong
 clinically
 clinicians
 condensations
@@ -22236,7 +22237,6 @@ confutator
 confuters
 confutes
 confuting
-cong
 conga
 congaed
 congas
