@@ -16689,7 +16689,6 @@ closeable
 closecross
 closed
 closedown
-closefistedly
 closefistedness
 concussant
 closefitting
@@ -31410,6 +31409,7 @@ curmudgeon
 clotho
 curmudgeonish
 curmudgeonly
+closefistedly
 curmudgeons
 curmurring
 curney
