@@ -7389,6 +7389,7 @@ betag
 betailor
 betain
 blanked
+boyars
 betake
 betakes
 betaking
@@ -8397,7 +8398,6 @@ bigamies
 bigamist
 blunders
 bigamize
-boyars
 betafite
 balaenid
 bigamizing
