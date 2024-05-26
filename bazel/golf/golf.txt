@@ -5583,6 +5583,7 @@ glyptotherium
 globeholder
 glires
 gliridae
+gonfanon
 glirine
 groundbreaker
 galet
@@ -6754,7 +6755,6 @@ gammaridae
 gambolled
 glowed
 gusseted
-gonfanon
 gong
 gunreach
 gonged
