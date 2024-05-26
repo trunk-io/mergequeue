@@ -7014,7 +7014,6 @@ despoils
 decadence
 despoliations
 despond
-deface
 desponded
 despondence
 despondency
@@ -10944,6 +10943,7 @@ dashnak
 disaffectionate
 dilutor
 disaffections
+deface
 disaffiliate
 disaffiliated
 disaffiliation
