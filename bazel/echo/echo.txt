@@ -3563,6 +3563,7 @@ equoid
 epidesmine
 emboscata
 embosked
+enflaming
 electral
 exclusionary
 embosoming
@@ -5548,7 +5549,6 @@ enflame
 enflames
 enduringness
 eukaryote
-enflaming
 epiklesis
 embryotomy
 enlarge
