@@ -14362,6 +14362,7 @@ circumducted
 chimopeelagic
 coastguard
 circumesophageal
+clearable
 circumfer
 circumference
 chave
@@ -15908,7 +15909,6 @@ cleanskins
 cleanup
 chelaship
 colonized
-clearable
 clearage
 clearance
 clearances
