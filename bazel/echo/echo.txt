@@ -4514,7 +4514,6 @@ exurbias
 encephalic
 encephalin
 encephalitic
-endostyle
 exocolitis
 emulators
 encephalitogenic
@@ -8716,6 +8715,7 @@ enable
 extreat
 equipotential
 equipotentiality
+endostyle
 equipped
 electrostereotype
 equiprobability
