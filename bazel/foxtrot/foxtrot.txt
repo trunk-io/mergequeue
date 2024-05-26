@@ -3597,7 +3597,6 @@ footgrip
 fixates
 fanons
 forspoken
-fourniture
 filers
 fructification
 felinity
@@ -8679,6 +8678,7 @@ framboesia
 floozies
 fortis
 flabbella
+fourniture
 fluctuates
 foxtongue
 fingrigo
