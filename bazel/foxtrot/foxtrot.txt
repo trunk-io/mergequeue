@@ -169,6 +169,7 @@ farthingales
 float
 fulminates
 factionist
+fern
 foreribs
 factionistism
 flirtatious
@@ -1972,7 +1973,6 @@ frat
 fravashi
 forebears
 feeds
-fern
 feedstock
 feedstuff
 feeler
