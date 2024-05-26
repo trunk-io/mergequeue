@@ -3223,7 +3223,6 @@ elided
 epactal
 elusive
 entrench
-endocardiac
 ethylenation
 elusiveness
 elusory
@@ -7379,6 +7378,7 @@ eurygnathous
 encloses
 extollment
 epeisodia
+endocardiac
 epeisodion
 epembryonic
 epencephala
