@@ -10002,6 +10002,7 @@ fleshhook
 friezer
 facework
 fossilated
+fumatorium
 frigage
 frigates
 frigged
@@ -10748,7 +10749,6 @@ frundel
 frontalis
 forma
 flakers
-fumatorium
 firebed
 frusla
 frustrated
