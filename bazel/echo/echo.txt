@@ -1019,7 +1019,6 @@ edaphon
 epicures
 edaphosauria
 edaphosaurid
-exorbital
 edaphosaurus
 explosibility
 epoxide
@@ -7647,6 +7646,7 @@ exocrine
 eccentricities
 eoliths
 everduring
+exorbital
 enterohelcosis
 epicormic
 epicortical
