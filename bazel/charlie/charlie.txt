@@ -2902,7 +2902,6 @@ cantharidean
 cantharides
 coation
 cantharidian
-cycloacetylene
 cantharidize
 cantharidized
 cantharus
@@ -30713,6 +30712,7 @@ cuissard
 cuisse
 cuissen
 cuit
+cycloacetylene
 cuitlateco
 chloroauric
 creoleize
