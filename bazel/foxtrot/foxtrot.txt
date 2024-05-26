@@ -6483,6 +6483,7 @@ flatboat
 fermerer
 flourlike
 fussify
+foreweigh
 flushgate
 flushingly
 flusk
@@ -8139,7 +8140,6 @@ fraught
 flourishable
 forewarns
 federalise
-foreweigh
 fevertwig
 flockbed
 forewent
