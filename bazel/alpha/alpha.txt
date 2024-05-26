@@ -13631,7 +13631,6 @@ annotater
 amputated
 aphidophagous
 annotates
-avoiding
 annotative
 annotatively
 ablate
@@ -22440,6 +22439,7 @@ aswim
 aswirl
 aswoon
 aswooned
+avoiding
 at
 ata
 atabals
