@@ -1909,7 +1909,6 @@ gonimolobe
 gatehouses
 guipures
 gastrotome
-gastrotomic
 gastrotubotomy
 gastrovascular
 gamecocks
@@ -6313,6 +6312,7 @@ gryphosaurus
 gallotannate
 gery
 goalkeeping
+gastrotomic
 gargarize
 goalpost
 gambusias
