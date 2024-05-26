@@ -4407,6 +4407,7 @@ fishskin
 fulgurate
 fistfuls
 fashioned
+foussa
 fourhanded
 fishspear
 fishtail
@@ -10090,7 +10091,6 @@ fringetail
 fringilla
 facials
 frogskin
-foussa
 figuratively
 favors
 fringilline
