@@ -6718,7 +6718,6 @@ bereshith
 beresite
 beret
 berets
-beretta
 berettas
 berewick
 balkanizing
@@ -9861,6 +9860,7 @@ byssus
 burrawang
 besing
 bistable
+beretta
 bystander
 bistate
 boomer

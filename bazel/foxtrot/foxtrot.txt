@@ -1238,7 +1238,6 @@ flavorless
 fash
 friborgh
 fashery
-fasherie
 fusilier
 fashing
 fiddley
@@ -8017,6 +8016,7 @@ flash
 fratricidal
 fluidises
 falconnoid
+fasherie
 ferrimagnetic
 felicitates
 fairies
