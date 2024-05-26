@@ -8033,7 +8033,6 @@ dezinc
 dezincify
 dezincification
 dezincified
-dezincifying
 dezincing
 doughboys
 deluders
@@ -17754,6 +17753,7 @@ duc
 ducal
 ducally
 ducape
+dezincifying
 ducat
 drunt
 ducaton
