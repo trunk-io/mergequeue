@@ -5201,7 +5201,6 @@ gritty
 gossan
 glassfuls
 gastronomics
-gonotocont
 glasshouses
 grizzlies
 glassie
@@ -7050,6 +7049,7 @@ gooma
 garrat
 goonch
 gossipers
+gonotocont
 goondie
 gardant
 gemsboks
