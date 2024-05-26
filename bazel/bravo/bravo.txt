@@ -12292,6 +12292,7 @@ bolters
 behold
 boltheading
 bolthole
+brack
 bolty
 boltin
 bolting
@@ -14119,7 +14120,6 @@ bracings
 braciola
 burying
 bracioles
-brack
 bracked
 brackened
 borating
