@@ -75,6 +75,7 @@ earlobe
 earlocks
 earlship
 earlships
+edificed
 entour
 eremitish
 eulalia
@@ -1134,7 +1135,6 @@ edificator
 earock
 edificatory
 edifice
-edificed
 edifices
 edified
 edifiers
