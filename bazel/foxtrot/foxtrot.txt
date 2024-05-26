@@ -1461,7 +1461,6 @@ fatties
 fattiness
 funis
 fiftyfold
-fattishness
 fattrels
 fother
 foreweep
@@ -4471,6 +4470,7 @@ furcule
 fissura
 finesse
 frawn
+fattishness
 fissured
 fissurella
 frontier
