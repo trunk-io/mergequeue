@@ -6533,7 +6533,6 @@ benzonitrol
 benzophenanthrazine
 benzophenone
 benzophenothiazine
-benzophloroglucinol
 benzophthalazine
 benzopyran
 breakup
@@ -9498,6 +9497,7 @@ birdsnest
 birdstone
 befitting
 basichromatic
+benzophloroglucinol
 bluegums
 belabours
 bescent
