@@ -5920,6 +5920,7 @@ expeditated
 eubacterium
 enjail
 enjambment
+electrotonicity
 emetomorphine
 enjambments
 ectomere
@@ -12414,7 +12415,6 @@ exhaustive
 eryon
 exhaustiveness
 elegances
-electrotonicity
 ensealed
 enriching
 exhaustless
