@@ -3129,6 +3129,7 @@ guidwilly
 glosses
 gallinacei
 glassed
+gonydial
 gurgle
 geomancer
 geomancy
@@ -3433,7 +3434,6 @@ germier
 gaetulian
 germiest
 gastrocele
-gonydial
 globed
 germifuge
 guardingly
