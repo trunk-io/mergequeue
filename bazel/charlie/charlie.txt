@@ -6863,7 +6863,6 @@ confabbing
 celluloided
 cellulolytic
 cellulomonadeae
-cellulomonas
 celluloses
 cellulosic
 cellulosing
@@ -8310,6 +8309,7 @@ chalazium
 chalazogam
 chalazogamic
 chandam
+cellulomonas
 chalazoidite
 chalazoin
 chalcanth
