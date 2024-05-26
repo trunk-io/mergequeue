@@ -13735,7 +13735,6 @@ cymbel
 cymbid
 clochard
 cymbidium
-cymbiform
 copartner
 cymbocephalous
 cymbopogon
@@ -22438,6 +22437,7 @@ conic
 conical
 canajong
 conicality
+cymbiform
 chordally
 conicein
 crookfingered
