@@ -15854,7 +15854,6 @@ claviform
 claviger
 claviharp
 clavilux
-coy
 claviole
 clavipectoral
 clavis
@@ -30538,6 +30537,7 @@ cuboids
 cubomedusae
 chondropharyngeal
 colloquium
+coy
 cubomedusan
 campbellism
 cubometatarsal
