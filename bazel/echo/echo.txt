@@ -6713,7 +6713,6 @@ enthymematic
 enthymeme
 extravagation
 exsuperate
-entremess
 enwingly
 exterminist
 exhilarate
@@ -10688,6 +10687,7 @@ eudaemonics
 eurous
 eudaemonism
 enmeshes
+entremess
 enterritoriality
 exchangee
 experience
