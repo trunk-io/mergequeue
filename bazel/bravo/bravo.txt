@@ -11618,7 +11618,6 @@ board
 boardbill
 boarded
 bibulosity
-boardinghouse
 boardings
 boardly
 boards
@@ -12307,6 +12306,7 @@ boltsmith
 barbarea
 beakful
 banker
+boardinghouse
 bawds
 baptised
 boltwork
