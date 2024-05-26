@@ -2497,7 +2497,6 @@ etymologically
 entoiled
 electrolytically
 erythrocatalysis
-ephemeromorph
 ensete
 electrolyzed
 electrology
@@ -4534,6 +4533,7 @@ encephalolith
 encephalomas
 escudo
 encephalomeningocele
+ephemeromorph
 exhalation
 encraty
 evenglome
