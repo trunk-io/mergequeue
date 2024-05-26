@@ -7673,7 +7673,6 @@ bewary
 bewash
 bewaste
 beweary
-bewearies
 bewearying
 broccoli
 bloodleaf
@@ -16416,6 +16415,7 @@ brushoff
 brushoffs
 brushpopper
 brushup
+bewearies
 brushups
 brushwood
 brushwork
