@@ -6990,6 +6990,7 @@ anterin
 airspeeds
 airstream
 allegory
+apteryla
 aischrolatreia
 airstrip
 airstrips
@@ -18222,7 +18223,6 @@ arace
 apterygota
 apterygote
 arcanist
-apteryla
 agentship
 apteroid
 aptest
