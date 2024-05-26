@@ -2914,6 +2914,7 @@ gurr
 gentiledom
 growling
 greatcoat
+goma
 guayules
 glories
 gentilish
@@ -6668,7 +6669,6 @@ ganglioneural
 glaucic
 gude
 gelechiidae
-goma
 gomari
 grasp
 gomashta
