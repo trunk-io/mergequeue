@@ -7442,6 +7442,7 @@ grabbier
 guns
 geminal
 gourmanderie
+gamene
 gourmandise
 gourmandism
 gourmandizer
@@ -8670,7 +8671,6 @@ greenish
 greenkeeper
 graffer
 grottowork
-gamene
 gawkers
 gentilitial
 gudefather
