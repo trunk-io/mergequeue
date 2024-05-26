@@ -3244,6 +3244,7 @@ acton
 actory
 actorship
 actress
+amoeba
 actresses
 acts
 aminic
@@ -6463,7 +6464,6 @@ ambulances
 agricolous
 anticonventionalism
 agricultural
-amoeba
 agonistical
 agriculturalist
 anatinae
