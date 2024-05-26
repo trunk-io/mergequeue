@@ -6921,7 +6921,6 @@ discomposes
 desoxalic
 dichromasy
 desoxyephedrine
-desoxymorphine
 desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
@@ -16035,6 +16034,7 @@ doubleted
 doppia
 drent
 duryodhana
+desoxymorphine
 doublethink
 driveline
 doublethinking
