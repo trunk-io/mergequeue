@@ -566,6 +566,7 @@ airscrew
 acusector
 ariste
 advowry
+alliteral
 ashlers
 abn
 abnaki
@@ -8838,7 +8839,6 @@ allyou
 allis
 allopolyploid
 allision
-alliteral
 alliterate
 alliterates
 alliteration
