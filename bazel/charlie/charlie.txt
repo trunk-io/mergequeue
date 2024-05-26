@@ -833,7 +833,6 @@ cairo
 cays
 caisse
 caissons
-caite
 caitif
 charque
 caitiffs
@@ -24891,6 +24890,7 @@ corach
 coracial
 coracias
 comous
+caite
 childbirths
 charissa
 coracii
