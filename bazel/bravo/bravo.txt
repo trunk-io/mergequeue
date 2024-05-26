@@ -2967,7 +2967,6 @@ barrier
 biuniqueness
 barrigudos
 barrikin
-bromophenol
 barriness
 barring
 barringer
@@ -9175,6 +9174,7 @@ bionomic
 bionomically
 bionomies
 balcone
+bromophenol
 ballonet
 booky
 blubbery
