@@ -1908,7 +1908,6 @@ gonimolobe
 gatehouses
 guipures
 gastrotome
-gastrotomic
 gastrotubotomy
 gastrovascular
 gamecocks
@@ -5593,6 +5592,7 @@ goujon
 glyptotherium
 globeholder
 glires
+gastrotomic
 gliridae
 glirine
 groundbreaker

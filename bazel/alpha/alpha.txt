@@ -7834,7 +7834,6 @@ aldermancy
 aldermaness
 aldermanic
 archisphere
-aldermanical
 aldermanity
 aldermanly
 aldermanlike
@@ -15746,6 +15745,7 @@ antinomies
 antinomist
 ailment
 acoustics
+aldermanical
 antinormality
 antinormalness
 amenorrhea
