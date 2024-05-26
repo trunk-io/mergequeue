@@ -5223,7 +5223,6 @@ casparian
 caspian
 casque
 casqued
-cushat
 clanger
 casquet
 casquetel
@@ -29004,6 +29003,7 @@ crile
 crim
 cineast
 crime
+cushat
 crimea
 cheiroptera
 capillaire
