@@ -2543,6 +2543,7 @@ declarator
 declaratory
 declaratorily
 drain
+decarburize
 declarators
 dislip
 declare
@@ -8566,7 +8567,6 @@ diapause
 diapauses
 donaries
 doeuvre
-decarburize
 dodecastylos
 divinations
 diapedeses
