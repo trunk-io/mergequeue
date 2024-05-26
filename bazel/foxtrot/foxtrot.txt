@@ -7578,7 +7578,6 @@ frankheartedness
 flightworthy
 foreshaft
 flavorings
-foredevote
 fermentation
 figments
 ficoidal
@@ -10399,6 +10398,7 @@ formularize
 footworks
 frontignan
 fronting
+foredevote
 fizzle
 flustrating
 fatalist
