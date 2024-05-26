@@ -4332,6 +4332,7 @@ fraus
 fealties
 fisherman
 feedhead
+flareless
 fisherwoman
 feinschmeckers
 fishes
@@ -5002,7 +5003,6 @@ fengite
 firnification
 fragmentitious
 flared
-flareless
 fibromyectomy
 fermentarian
 frother
