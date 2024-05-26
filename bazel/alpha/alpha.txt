@@ -9634,7 +9634,6 @@ altun
 alture
 altus
 algivorous
-aluco
 aubades
 amazia
 antirennet
@@ -14806,6 +14805,7 @@ antibacchii
 antibacchius
 antibacterial
 antibacteriolytic
+aluco
 anaglyptograph
 antiballooner
 antibalm
