@@ -9374,7 +9374,6 @@ bubale
 byplace
 balewort
 bracteiform
-byplay
 bedrite
 bottonhook
 bullfrogs
@@ -13490,6 +13489,7 @@ basementward
 bolted
 brachydactyl
 bottomried
+byplay
 bottomrying
 bookshelves
 bottstick
