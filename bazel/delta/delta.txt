@@ -4257,6 +4257,7 @@ decylenic
 delocalised
 deescalations
 delocalization
+discriminant
 delocalize
 despiritualize
 delocalizing
@@ -11777,7 +11778,6 @@ discretional
 discretive
 discretiveness
 discriminability
-discriminant
 discriminately
 discriminateness
 demirep
