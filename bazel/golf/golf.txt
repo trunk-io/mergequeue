@@ -339,7 +339,6 @@ galactoid
 galactolipide
 gristmiller
 graveship
-gelatins
 galactolipin
 galactolysis
 galactoma
@@ -6175,6 +6174,7 @@ gravelweed
 gutturonasal
 gallicolous
 goodwilly
+gelatins
 graperies
 gnarring
 gavialis

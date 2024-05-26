@@ -921,7 +921,6 @@ canterburies
 conducibly
 canzo
 calaboose
-canelle
 calabooses
 calabozo
 calabrian
@@ -3515,6 +3514,7 @@ chaired
 colostral
 captivated
 coset
+canelle
 captivates
 captivating
 captivatingly
