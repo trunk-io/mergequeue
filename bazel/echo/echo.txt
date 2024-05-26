@@ -318,7 +318,6 @@ etruscans
 eunomia
 epitaphless
 eavedrop
-evangel
 eavedropper
 eavedropping
 exsecants
@@ -7200,6 +7199,7 @@ enzootically
 exiguous
 enderon
 erythropoietic
+evangel
 enzymolysis
 elatcha
 extrudability
