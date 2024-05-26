@@ -2094,6 +2094,7 @@ campestral
 cordelier
 campfight
 campfires
+cassinos
 campground
 canful
 campgrounds
@@ -5284,7 +5285,6 @@ cassina
 cassinese
 cassinian
 cassino
-cassinos
 cassioberry
 caladium
 cassiope
