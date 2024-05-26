@@ -8505,6 +8505,7 @@ formulae
 fard
 fulgid
 foggy
+frequent
 formularised
 formularising
 flapped
@@ -9819,7 +9820,6 @@ fabrics
 figurability
 feedingstuff
 freq
-frequent
 factored
 ferash
 francia
