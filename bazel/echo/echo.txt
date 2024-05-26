@@ -41,7 +41,6 @@ emigrational
 equiangularity
 earbash
 esperance
-earcockle
 eardropper
 earflap
 earflaps
@@ -6065,6 +6064,7 @@ enmesh
 enmeshed
 epicentre
 enmeshment
+earcockle
 estated
 enmity
 ethicizes
