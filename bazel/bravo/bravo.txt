@@ -8996,7 +8996,6 @@ bioastronautics
 bioavailability
 biobibliographer
 biobibliography
-biobibliographical
 barleysick
 behowl
 bioblastic
@@ -9610,6 +9609,7 @@ boarfishes
 besaint
 birthmark
 biographee
+biobibliographical
 banality
 bunkum
 besots
