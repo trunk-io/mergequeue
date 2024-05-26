@@ -2901,7 +2901,6 @@ abominability
 alienness
 acromiohyoid
 areometer
-acromiohumeral
 acromioscapular
 acromiosternal
 antichurchian
@@ -12637,6 +12636,7 @@ anesthetically
 anesthetics
 anesthetization
 anesthetize
+acromiohumeral
 anesthetized
 anesthetizes
 anesthyl
