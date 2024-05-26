@@ -1078,6 +1078,7 @@ excisable
 exenteritis
 endoskeleton
 enchants
+edital
 eqpt
 evaniidae
 edgar
@@ -11550,7 +11551,6 @@ exothermally
 earlock
 epiphytical
 eviting
-edital
 evocating
 emblematized
 enkerchief
