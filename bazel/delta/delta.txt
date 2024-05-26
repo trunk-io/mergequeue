@@ -10338,7 +10338,6 @@ desilverizer
 discophore
 dismemberer
 dioptra
-dioptral
 dioptrate
 dioptric
 dioptrical
@@ -12895,6 +12894,7 @@ discolor
 doubtfully
 dasnt
 disaffectedness
+dioptral
 distains
 disoperculate
 desmosome
