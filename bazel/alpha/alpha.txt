@@ -365,7 +365,6 @@ asg
 abhominable
 amphogenous
 abhorrence
-abhorrent
 abhors
 agminate
 abhorson
@@ -19885,6 +19884,7 @@ arithmometer
 alums
 arius
 arivaipa
+abhorrent
 amphoral
 arizonian
 arizonians
