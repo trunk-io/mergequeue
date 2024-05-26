@@ -22668,7 +22668,6 @@ axilemma
 athonite
 athort
 athrill
-acker
 aboideaux
 athrive
 averaged
@@ -23884,6 +23883,7 @@ autoanalytic
 auriculariae
 anseriformes
 autoanticomplement
+acker
 autoasphyxiation
 apologetically
 algicides
