@@ -2889,6 +2889,7 @@ acrometer
 armorproof
 acromia
 acromial
+archostenosis
 acromicria
 acromimia
 acromioclavicular
@@ -19176,7 +19177,6 @@ archorrhagia
 archorrhea
 antipersonnel
 archostegnosis
-archostenosis
 archoverseer
 archpall
 archpapist
