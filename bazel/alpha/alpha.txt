@@ -19936,7 +19936,6 @@ armary
 aminovaleric
 armarian
 adaptivity
-armarium
 armariumaria
 armatoles
 auxilium
@@ -22372,6 +22371,7 @@ astrometry
 astrometric
 astron
 astronaut
+armarium
 apollinian
 aerosolizing
 astronavigator
