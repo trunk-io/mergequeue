@@ -8230,6 +8230,7 @@ courts
 chainmen
 chainomatic
 chainon
+chastener
 cultists
 chains
 chainsman
@@ -9282,7 +9283,6 @@ chastelain
 catarrh
 csects
 carbonylic
-chastener
 chasteners
 chasteness
 chastening
