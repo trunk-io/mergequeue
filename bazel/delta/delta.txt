@@ -5544,7 +5544,6 @@ deadest
 deoxidised
 deoxidiser
 dorsiventrality
-deoxidize
 deoxidizer
 dreggy
 deoxidizers
@@ -16589,6 +16588,7 @@ deuterotoky
 dragoman
 dragomanate
 dragomanic
+deoxidize
 dragomanish
 disclaims
 daman
