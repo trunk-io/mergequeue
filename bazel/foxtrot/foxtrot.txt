@@ -996,7 +996,6 @@ farded
 forklifts
 fardel
 foxhound
-fardelet
 farding
 fards
 frontomaxillary
@@ -6326,6 +6325,7 @@ fitting
 freckliest
 ferriprussiate
 foute
+fardelet
 flunked
 flunkey
 fissipeda
