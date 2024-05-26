@@ -1450,7 +1450,6 @@ fattened
 firewood
 freewheelers
 fattening
-fattest
 fumigator
 fattier
 featherweight
@@ -5347,6 +5346,7 @@ fellowmen
 fleecy
 fastness
 floorwalkers
+fattest
 forager
 fang
 fitchery
