@@ -3368,6 +3368,7 @@ dripproof
 definers
 desalting
 defines
+deformedness
 definienda
 definiendum
 dippy
@@ -17535,7 +17536,6 @@ donuts
 drugeteria
 debbie
 drugger
-deformedness
 dislodge
 despeed
 duplon
