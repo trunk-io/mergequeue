@@ -15531,7 +15531,6 @@ clapper
 clapperclaw
 clappered
 chitchatting
-creditorship
 clambered
 clappermaclaw
 clappers
@@ -27434,6 +27433,7 @@ courtyards
 coonroot
 closter
 courtier
+creditorship
 courtierism
 courtierly
 cabinetmaker
