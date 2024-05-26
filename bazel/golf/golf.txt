@@ -2498,7 +2498,6 @@ glossopyrosis
 gemeled
 gemellione
 goldtail
-gemellus
 glaciologist
 geminally
 gravewards
@@ -4703,6 +4702,7 @@ gyrencephala
 gyrencephalic
 graphometry
 guillotiner
+gemellus
 guesthouse
 graphitoid
 grinter
