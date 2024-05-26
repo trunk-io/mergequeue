@@ -5350,7 +5350,6 @@ corso
 crizzling
 castellanies
 castellano
-castellans
 castellanship
 chaufer
 castellate
@@ -14724,6 +14723,7 @@ cystic
 cabuja
 cysticarpic
 cysticarpium
+castellans
 cognomina
 cysticercerci
 cysticerci
