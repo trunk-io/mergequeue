@@ -10554,6 +10554,7 @@ fudgy
 frenchiness
 frownful
 frows
+firbolg
 forstand
 frowsily
 faecal
@@ -11381,7 +11382,6 @@ filiality
 fieldman
 furlana
 foldure
-firbolg
 fichus
 flattened
 furlong
