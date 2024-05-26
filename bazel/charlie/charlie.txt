@@ -16531,6 +16531,7 @@ clockless
 cuon
 clockmaker
 clockmaking
+cohead
 crewer
 clocksmith
 clockwatcher
@@ -18484,7 +18485,6 @@ collational
 cohabiting
 coharmonious
 coharmonize
-cohead
 chimney
 coheading
 coheads
