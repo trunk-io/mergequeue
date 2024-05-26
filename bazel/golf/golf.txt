@@ -704,6 +704,7 @@ grana
 gallophilism
 glower
 gantryman
+guardsman
 gormands
 galeated
 giansar
@@ -5363,7 +5364,6 @@ graciles
 grindery
 gaited
 golgi
-guardsman
 gargets
 galbanum
 gamecraft
