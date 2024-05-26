@@ -8853,6 +8853,7 @@ chapellage
 cryptovolcanic
 coccolithophorid
 complementation
+coadjuvant
 chapellany
 chapelled
 cimnel
@@ -17152,7 +17153,6 @@ coadjutorship
 coadjutress
 coadjutrix
 coadjuvancy
-coadjuvant
 coadjuvate
 candystick
 coadminister
