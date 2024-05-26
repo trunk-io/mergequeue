@@ -2130,7 +2130,6 @@ acharne
 afrikander
 acharnement
 achate
-achatina
 achatinidae
 act
 ache
@@ -6761,6 +6760,7 @@ asteam
 ailuridae
 ailuro
 ailuroid
+achatina
 ankyloblepharon
 acetylenation
 anthraxolite
