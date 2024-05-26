@@ -2324,6 +2324,7 @@ glossopathy
 gonococcus
 grounding
 geelbeck
+glossolabiopharyngeal
 geelbek
 galipots
 geepounds
@@ -5455,7 +5456,6 @@ glycols
 gard
 glibly
 globulolysis
-glossolabiopharyngeal
 glyconeogenesis
 grangerisation
 galvanoplastical
