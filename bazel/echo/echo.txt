@@ -6445,7 +6445,6 @@ elocation
 epitomizer
 ensuant
 ensuingly
-electrolyzing
 episode
 ensurance
 ensures
@@ -7200,6 +7199,7 @@ enzymes
 enzymic
 enzootically
 exiguous
+electrolyzing
 enderon
 erythropoietic
 enzymolysis
