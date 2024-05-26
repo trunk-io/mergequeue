@@ -24901,7 +24901,6 @@ coraciidae
 coracine
 coracle
 coracles
-coracoacromial
 coracobrachial
 clipeus
 calcimeter
@@ -26825,6 +26824,7 @@ countercross
 countercultural
 counterculture
 coagulums
+coracoacromial
 countercurrent
 countercurrently
 croomia
