@@ -6307,6 +6307,7 @@ dictions
 dermatoneural
 dermatoneurosis
 dustuck
+diradiation
 dermatonosus
 dermatopathic
 davoch
@@ -10754,7 +10755,6 @@ dipware
 disadvantageous
 diquat
 dir
-diradiation
 dircaean
 dirdums
 dire
