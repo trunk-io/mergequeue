@@ -5675,7 +5675,6 @@ granuloblast
 ghostmonger
 gallanilide
 garse
-gazolyte
 glycoproteid
 globous
 globousness
@@ -9883,6 +9882,7 @@ galette
 galloons
 gibbed
 guaranine
+gazolyte
 gelogenic
 glowered
 gaveling

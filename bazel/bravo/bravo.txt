@@ -6524,7 +6524,6 @@ benzoylation
 bilge
 benzoin
 bernard
-benzoinated
 benzoiodohydrin
 benzolize
 brinishness
@@ -14719,6 +14718,7 @@ brazee
 brazen
 brazened
 brunt
+benzoinated
 birdcraft
 backwall
 brazenfacedness
