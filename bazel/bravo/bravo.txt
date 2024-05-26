@@ -3504,7 +3504,6 @@ blotlessness
 batamote
 batan
 biosis
-batarde
 batata
 brecciate
 bullaces
@@ -16868,6 +16867,7 @@ brei
 bufo
 bufonid
 bargee
+batarde
 bivalves
 bulbil
 bufonite
