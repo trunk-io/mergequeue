@@ -7084,7 +7084,6 @@ foretokens
 foolproof
 foolproofness
 flaunt
-foolscap
 footstick
 figurant
 foolscaps
@@ -8614,6 +8613,7 @@ faldstool
 flanchard
 fortescue
 foolhead
+foolscap
 fossoria
 forth
 forthby
