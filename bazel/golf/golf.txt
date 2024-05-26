@@ -7042,7 +7042,6 @@ gutterlike
 gooma
 garrat
 goonch
-goondie
 gardant
 gemsboks
 glyptographic
@@ -7495,6 +7494,7 @@ graphostatic
 galavanted
 grafship
 gulmohar
+goondie
 governed
 governesses
 governing
