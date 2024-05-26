@@ -5670,7 +5670,6 @@ beknighted
 beknighting
 beknived
 ballistite
-beknotted
 beknottedly
 biotype
 beknow
@@ -10042,6 +10041,7 @@ bedivere
 bana
 bituminoid
 bipropellant
+beknotted
 bikes
 bituminosis
 brian
