@@ -3478,6 +3478,7 @@ capsuliform
 capsuling
 capsulitis
 capsulize
+catalysis
 capsulized
 capsulizing
 cabman
@@ -5566,7 +5567,6 @@ catalinite
 catalyse
 cofactor
 catalyses
-catalysis
 catalysts
 catalyte
 catalytical
