@@ -1317,6 +1317,7 @@ fastnesses
 feed
 frogskins
 fasts
+foamy
 footlocker
 fastuousness
 fecklessness
@@ -6607,7 +6608,6 @@ fluotitanate
 frounce
 fungify
 foamflower
-foamy
 forecaddie
 firework
 forthcomer

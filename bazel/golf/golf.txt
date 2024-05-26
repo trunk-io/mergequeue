@@ -843,7 +843,6 @@ gamari
 gamash
 gonidium
 gamashes
-graminiferous
 gamasidae
 goombay
 guamuchil
@@ -4965,6 +4964,7 @@ globalized
 gelatinousness
 glabellum
 gymnical
+graminiferous
 glabrate
 geopolitic
 gasaliers
