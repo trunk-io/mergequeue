@@ -6219,7 +6219,6 @@ cfs
 caul
 collieries
 cauld
-cubically
 cauldrife
 ctenoidei
 calcaneocuboid
@@ -11671,6 +11670,7 @@ cace
 choledochostomies
 choledochotomy
 choledochotomies
+cubically
 choledography
 cholee
 cholehematin

@@ -5105,6 +5105,7 @@ battlers
 blazoned
 botfly
 bloodthirst
+brides
 befamilied
 biogeography
 befanned
@@ -15192,7 +15193,6 @@ bridelope
 bridemaid
 basketry
 bridemaidship
-brides
 brideship
 butomaceae
 barhopped
