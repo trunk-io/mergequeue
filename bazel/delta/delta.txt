@@ -2247,7 +2247,6 @@ dual
 donnish
 deceasing
 deceit
-deceitful
 deceitfully
 dedan
 deceitfulness
@@ -10759,6 +10758,7 @@ dircaean
 dirdums
 dire
 direcly
+deceitful
 dischurch
 directable
 demirelief
