@@ -1275,6 +1275,7 @@ epit
 equiv
 eel
 eelboat
+eudendrium
 epigrammatise
 eelbobber
 eelcake
@@ -3860,7 +3861,6 @@ exemplarily
 engladden
 exallotriote
 emic
-eudendrium
 emication
 emyde
 ecumenicity
