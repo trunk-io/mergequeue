@@ -6795,7 +6795,6 @@ gallberry
 graphitic
 gonangia
 gonidial
-gonidic
 goodby
 gambled
 gristhorbia
@@ -10819,6 +10818,7 @@ gallnut
 galbulus
 guidances
 guttus
+gonidic
 gargol
 gutwort
 guv
