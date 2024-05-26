@@ -2885,7 +2885,6 @@ acromegalic
 acromegalies
 acromelalgia
 alpiste
-acrometer
 armorproof
 acromia
 acromial
@@ -20524,6 +20523,7 @@ apotropaic
 arteriae
 arteriagra
 arterialization
+acrometer
 arterialize
 arterialized
 arteriarctia
