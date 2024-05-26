@@ -3076,7 +3076,6 @@ exteriorization
 elliptical
 elliptically
 ellipticalness
-ellipticity
 extemporize
 elliptograph
 elliptoid
@@ -7794,6 +7793,7 @@ enlighteningly
 epigastraeum
 ensandal
 expectably
+ellipticity
 encyclopaedize
 estevin
 entergogenic
