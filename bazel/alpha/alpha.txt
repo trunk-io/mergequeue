@@ -14235,6 +14235,7 @@ antenumber
 adrostal
 antenuptial
 amphibious
+adeptest
 anteoccupation
 anteocular
 argyria
@@ -19980,7 +19981,6 @@ armhole
 armhoop
 adpao
 acapsular
-adeptest
 army
 armida
 armied
