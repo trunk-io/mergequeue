@@ -3517,7 +3517,6 @@ flyweight
 flocculous
 facebread
 figures
-figuresome
 foresting
 friesic
 femoropopliteal
@@ -5831,6 +5830,7 @@ faceless
 fraternate
 fastigia
 feases
+figuresome
 flocced
 flocci
 flagellate
