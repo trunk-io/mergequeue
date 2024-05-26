@@ -2346,6 +2346,7 @@ firkin
 flippest
 furner
 flattops
+flamencos
 fenzelia
 flagboat
 feod
@@ -4871,7 +4872,6 @@ fortescure
 flocking
 frontispiece
 firebase
-flamencos
 firmance
 forewomen
 ferromagnetism
