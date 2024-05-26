@@ -7681,7 +7681,6 @@ flaggelation
 forehock
 forehoof
 flotter
-forspeak
 frist
 forehoofs
 forehook
@@ -10152,6 +10151,7 @@ friskingly
 frisks
 frondiform
 formalise
+forspeak
 flightshot
 frisson
 fittyfied

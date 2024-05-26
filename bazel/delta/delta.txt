@@ -5563,7 +5563,6 @@ dilatation
 deoxygenation
 deoxygenized
 dilutent
-deoxyribonucleoprotein
 deoxyribonucleotide
 deozonization
 demiking
@@ -7932,6 +7931,7 @@ delphinite
 defrock
 degringolade
 dewlapped
+deoxyribonucleoprotein
 dewless
 dewlike
 deeps
