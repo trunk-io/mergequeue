@@ -6454,7 +6454,6 @@ ensuring
 equators
 enswathe
 electrophotographic
-enswathement
 enswathes
 enumerations
 enswathing
@@ -10479,6 +10478,7 @@ electors
 ecb
 ethoxyl
 emeute
+enswathement
 entozoon
 elongates
 ethoxyls
