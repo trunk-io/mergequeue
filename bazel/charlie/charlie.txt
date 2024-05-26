@@ -5540,7 +5540,6 @@ catafalco
 catafalque
 countervails
 catafalques
-catagenetic
 catakinetic
 catakinetomer
 catakinomeric
@@ -24677,6 +24676,7 @@ conor
 copingstone
 chaplainry
 coontail
+catagenetic
 copiopia
 copiopsia
 copiosity
