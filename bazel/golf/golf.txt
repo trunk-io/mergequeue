@@ -1698,7 +1698,6 @@ graphology
 gunz
 gasteromycetes
 glottic
-gasteromycetous
 gasteropoda
 gordolobo
 gummy
@@ -2962,6 +2961,7 @@ gentlepeople
 gymnosporangium
 goldtit
 glassite
+gasteromycetous
 gentler
 gentles
 genuflection
