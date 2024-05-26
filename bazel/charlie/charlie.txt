@@ -8896,7 +8896,6 @@ chapon
 cuppa
 chapote
 collimators
-confoundingly
 chapourn
 chapournet
 chapournetted
@@ -19192,6 +19191,7 @@ collodionization
 culpate
 collodiotype
 collogen
+confoundingly
 collogued
 colloguing
 chiropter
