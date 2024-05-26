@@ -544,7 +544,6 @@ gasterosteid
 geoplana
 gamestress
 gurjara
-guardfish
 gallantly
 goffer
 gallbladders
@@ -672,6 +671,7 @@ gallisin
 ghettoization
 gallivant
 gallivanters
+guardfish
 gallivanting
 glide
 gallize
