@@ -5075,7 +5075,6 @@ glaireous
 gobiesociform
 gurjun
 grisard
-gardebras
 gedeckt
 geomaly
 gangway
@@ -8595,6 +8594,7 @@ goosing
 guardless
 galerus
 grecoue
+gardebras
 grecque
 gnu
 groff
