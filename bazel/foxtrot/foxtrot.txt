@@ -10740,6 +10740,7 @@ forespake
 foreyear
 fructified
 frenne
+forbreak
 flam
 frumpling
 fungistatically
@@ -11030,7 +11031,6 @@ fumed
 friended
 frigging
 fumer
-forbreak
 feuillemorte
 farcilite
 furrowed
