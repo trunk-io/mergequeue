@@ -3512,6 +3512,7 @@ deticking
 defog
 defogged
 disyllable
+dormered
 defoggers
 deluder
 defogging
@@ -15736,7 +15737,6 @@ downlie
 dormancies
 dormer
 dammara
-dormered
 dormers
 dormette
 dormeuse
