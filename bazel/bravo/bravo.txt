@@ -13776,6 +13776,7 @@ bowbells
 bushment
 blockiness
 bowbent
+buchanite
 boroughwide
 bowden
 bowdichia
@@ -16602,7 +16603,6 @@ blonde
 balaenoidea
 buchanan
 brevicipitid
-buchanite
 beadlike
 bucharest
 buchloe
