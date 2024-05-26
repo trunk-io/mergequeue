@@ -3819,6 +3819,7 @@ fathercraft
 faze
 forenoted
 foliole
+flightworthy
 fatlike
 freckleproof
 flauto
@@ -7583,7 +7584,6 @@ foredeclare
 frequency
 foredefeated
 frankheartedness
-flightworthy
 foreshaft
 flavorings
 foredevote
