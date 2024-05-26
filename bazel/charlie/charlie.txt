@@ -1665,7 +1665,6 @@ calorimetrically
 calorimotor
 calorist
 calorized
-calorizes
 calorizing
 calosoma
 calotermes
@@ -13517,6 +13516,7 @@ croshabell
 cyclostomatous
 cyclostome
 cyclostomes
+calorizes
 cyclostomi
 cyclostomidae
 cyclostomous

@@ -11366,7 +11366,6 @@ amphora
 amphorae
 amphore
 amphoric
-amphoriskoi
 aftereye
 amphorous
 alarming
@@ -19447,6 +19446,7 @@ areolar
 areolas
 areolated
 areolation
+amphoriskoi
 areolet
 astrocytomata
 antiritualistic
