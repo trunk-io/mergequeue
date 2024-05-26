@@ -4323,6 +4323,7 @@ gymnospore
 grandfather
 glotum
 ges
+gan
 gymnostomata
 ganef
 grotesquery
@@ -8451,7 +8452,6 @@ gravers
 gigsmen
 guttersnipes
 galli
-gan
 grallatory
 gonochoristic
 gravette
