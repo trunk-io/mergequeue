@@ -135,6 +135,7 @@ baby
 baboonroot
 boutonniere
 baboons
+beefalos
 busboys
 baboot
 babouche
@@ -4955,7 +4956,6 @@ bloodedness
 becobweb
 brimmered
 bogyisms
-beefalos
 bilimbis
 brig
 border
