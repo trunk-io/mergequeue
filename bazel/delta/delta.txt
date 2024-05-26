@@ -2779,7 +2779,6 @@ decore
 dewcup
 decorement
 decorist
-doorplate
 dragged
 decorously
 durum
@@ -6225,6 +6224,7 @@ dilettanteism
 derivates
 disnosed
 derivationally
+doorplate
 derivations
 degrading
 discorder

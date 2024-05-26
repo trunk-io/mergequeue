@@ -10285,7 +10285,6 @@ chiasmata
 cystoscopy
 chiasmatic
 connaraceae
-chiasmatype
 counterformula
 chiasmic
 chiasmodontid
@@ -12683,6 +12682,7 @@ chronons
 chronopher
 chronophotograph
 chronophotography
+chiasmatype
 chronophotographic
 chronos
 chronoscope
