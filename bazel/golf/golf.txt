@@ -6337,6 +6337,7 @@ gossipdom
 goat
 glyptodontidae
 goatbeard
+genetmoil
 gatepost
 gervase
 gollywobbler
@@ -10591,7 +10592,6 @@ gunpowdery
 gumboil
 ghoul
 gunpower
-genetmoil
 gentled
 guest
 glucagons
