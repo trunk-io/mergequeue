@@ -65,6 +65,7 @@ faceharden
 flagships
 flecken
 fishpond
+fenestra
 flavorlessness
 filibustering
 facellite
@@ -11598,7 +11599,6 @@ functionlessness
 filefishes
 forestress
 fusinist
-fenestra
 fusionist
 fusions
 fusobacteria
