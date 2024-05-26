@@ -2400,7 +2400,6 @@ gelable
 gelandelaufer
 glyoxaline
 gymnodiniaceae
-gelant
 gelatia
 glossography
 granulation
@@ -5826,6 +5825,7 @@ glossarist
 gestalts
 gruis
 goldless
+gelant
 glossarize
 glossas
 gasify

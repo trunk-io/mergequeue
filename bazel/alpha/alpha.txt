@@ -8558,7 +8558,6 @@ alkalosis
 allege
 alkalous
 alkalurops
-algorithms
 alkamine
 alkanal
 alkanes
@@ -9131,6 +9130,7 @@ artificialness
 allures
 alluring
 atebrin
+algorithms
 alluringly
 alluringness
 antiguan
