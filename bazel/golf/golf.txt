@@ -3679,6 +3679,7 @@ goniaster
 gnomonic
 gregarinaria
 gavial
+grice
 glutinose
 greenbul
 gingersnap
@@ -8853,7 +8854,6 @@ gaddingly
 grandiloquous
 gnaw
 gribble
-grice
 gnomon
 gras
 gator
