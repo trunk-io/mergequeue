@@ -659,7 +659,6 @@ desiccate
 damped
 desquamated
 dukely
-deafen
 dampening
 dampens
 dampers
@@ -4601,6 +4600,7 @@ demigriffin
 devocation
 demigroat
 dogmatician
+deafen
 demihagbut
 dextrocular
 demihake
