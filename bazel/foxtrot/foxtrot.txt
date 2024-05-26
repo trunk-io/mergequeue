@@ -6733,6 +6733,7 @@ foyer
 furioso
 flamming
 foil
+fireproofness
 foin
 foining
 foiningly
@@ -10377,7 +10378,6 @@ feracities
 formats
 fowage
 frontierless
-fireproofness
 farmyards
 forgivableness
 filigerous
