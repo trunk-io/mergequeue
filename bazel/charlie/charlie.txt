@@ -21524,7 +21524,6 @@ cankerworm
 concordantly
 concordat
 concordatory
-concordatum
 concorder
 concordist
 concordity
@@ -25275,6 +25274,7 @@ corynocarpaceous
 ciconioid
 corynocarpus
 corynteria
+concordatum
 corinth
 corinthes
 corinthiac
