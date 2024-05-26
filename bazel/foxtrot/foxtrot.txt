@@ -1084,7 +1084,6 @@ fastigiately
 farmyard
 farmyardy
 farmout
-fisc
 farmtown
 floricomous
 farnesol
@@ -8739,6 +8738,7 @@ forwander
 fiddlers
 flockling
 faultsman
+fisc
 forwardal
 frescoer
 frenzic
