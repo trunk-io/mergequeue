@@ -2077,7 +2077,6 @@ elapids
 euthyneural
 empurple
 elapine
-elapse
 exhalate
 embaying
 edificant
@@ -5749,6 +5748,7 @@ englutted
 edeoscopy
 engold
 engolden
+elapse
 electrophysiology
 euchre
 engorged
