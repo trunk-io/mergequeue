@@ -9270,6 +9270,7 @@ alnage
 alnager
 alnaschar
 alnath
+autospray
 alnein
 awest
 alnico
@@ -14940,7 +14941,6 @@ antichthones
 acuan
 azoology
 astrognosy
-autospray
 antimachinery
 anticyclic
 attern
