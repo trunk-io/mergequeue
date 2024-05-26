@@ -3692,7 +3692,6 @@ gainturn
 granza
 glove
 gunbearer
-gatewaymen
 groups
 gelfomino
 gargil
@@ -10083,6 +10082,7 @@ galivanting
 glore
 gravigrade
 guesdist
+gatewaymen
 gola
 gloria
 gymnoglossate
