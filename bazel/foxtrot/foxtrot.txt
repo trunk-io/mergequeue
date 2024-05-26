@@ -4146,7 +4146,6 @@ fireburn
 flickertail
 fibrocaseous
 featherwork
-fadedness
 federals
 ferfathmur
 foothold
@@ -5783,6 +5782,7 @@ ferr
 fribblish
 flywinch
 facile
+fadedness
 fails
 fatty
 fellnesses
