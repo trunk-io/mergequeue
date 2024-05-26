@@ -838,7 +838,6 @@ fantasist
 fano
 fanon
 fellon
-fanout
 fronted
 fantailed
 fantails
@@ -2280,6 +2279,7 @@ fenagles
 fenced
 fencelessness
 flautists
+fanout
 fayalite
 fibrinolyses
 fencepost
