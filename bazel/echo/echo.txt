@@ -9806,7 +9806,6 @@ essayer
 essayism
 essayistical
 essayists
-estranged
 extraorganismal
 emeroid
 essancia
@@ -13462,6 +13461,7 @@ exrupeal
 extraconstitutional
 exrx
 evenforth
+estranged
 exsanguinate
 exsanguinating
 ethmoidal
