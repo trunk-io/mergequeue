@@ -9623,6 +9623,7 @@ altruist
 altruists
 altschin
 altun
+approvable
 alture
 altus
 algivorous
@@ -21615,7 +21616,6 @@ algolagnist
 asquare
 asquat
 asqueal
-approvable
 authorcraft
 asquint
 asquirm

@@ -3215,6 +3215,7 @@ epilegomenon
 eludible
 eluding
 engerminate
+expects
 eluents
 elul
 erects
@@ -12374,7 +12375,6 @@ estops
 evase
 epithelize
 evader
-expects
 exfiguration
 extracathedral
 egolatrous
