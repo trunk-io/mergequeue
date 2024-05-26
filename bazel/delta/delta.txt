@@ -3429,6 +3429,7 @@ deflect
 driftfishes
 deflectable
 deflecting
+duplicia
 deflectionization
 deflectionize
 dissonant
@@ -12841,7 +12842,6 @@ dendrites
 disnaturalization
 dewlaps
 dipyramid
-duplicia
 disnatured
 disnew
 dulcineas
