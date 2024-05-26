@@ -1372,7 +1372,6 @@ ginkgo
 gardinol
 grippers
 gurgled
-gazania
 gestation
 garefowl
 garetta
@@ -2344,6 +2343,7 @@ geoplanidae
 gefulltefish
 gaddis
 galax
+gazania
 gruiform
 gehlenite
 goblet
