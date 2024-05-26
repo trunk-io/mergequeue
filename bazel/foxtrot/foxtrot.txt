@@ -4870,7 +4870,6 @@ fatherhood
 fdname
 flashbacks
 flamboyer
-fergusite
 fricandelle
 fill
 flameless
@@ -9010,6 +9009,7 @@ foursquare
 frettiest
 feature
 foursquareness
+fergusite
 frakfurt
 fourteener
 fourteens
