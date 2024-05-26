@@ -1292,7 +1292,6 @@ eclated
 expands
 eeliest
 eeling
-eellike
 eelpouts
 eelshop
 eelskin
@@ -9048,6 +9047,7 @@ eriodendron
 extraspherical
 erionite
 endopleurite
+eellike
 eriophyllous
 eryopsid
 eriosoma
