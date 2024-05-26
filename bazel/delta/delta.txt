@@ -1263,7 +1263,6 @@ discal
 dusted
 datives
 dato
-deplane
 declinate
 dermoptera
 datolitic
@@ -6350,6 +6349,7 @@ deleting
 dermatotome
 dermatozoon
 deadens
+deplane
 dermatozoonosis
 dermatozzoa
 dermatrophia
