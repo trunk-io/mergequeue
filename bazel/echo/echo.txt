@@ -6350,6 +6350,7 @@ enshrined
 enshrinement
 exornation
 enshrinements
+erratas
 ephebe
 empest
 euskarian
@@ -9336,7 +9337,6 @@ exarch
 epigenous
 errants
 elayl
-erratas
 erratic
 erratically
 endosmos
