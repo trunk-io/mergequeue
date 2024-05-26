@@ -2936,7 +2936,6 @@ acronymize
 apium
 acronymized
 acronymizing
-arguses
 adessive
 acronyms
 ancylopoda
@@ -11532,6 +11531,7 @@ an
 ana
 anabaenas
 anabantid
+arguses
 alpines
 advertisement
 anabantidae
