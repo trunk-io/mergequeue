@@ -1900,7 +1900,6 @@ camelopards
 camelopardus
 camelot
 counterflashing
-choleic
 camelry
 camelus
 camembert
@@ -14328,6 +14327,7 @@ circumbendibus
 conception
 circumboreal
 catchall
+choleic
 carpellum
 cyclotella
 circumbulbar
