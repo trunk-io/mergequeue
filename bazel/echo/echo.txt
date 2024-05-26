@@ -5471,7 +5471,6 @@ energumenon
 environ
 enervate
 enervates
-enervating
 eccentrometer
 encake
 excitate
@@ -6960,6 +6959,7 @@ entracte
 entradas
 entrain
 entrained
+enervating
 epizootiologic
 entraining
 entrainment
