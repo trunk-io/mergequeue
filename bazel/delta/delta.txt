@@ -1017,7 +1017,6 @@ darkling
 darkmans
 disannexation
 dineutron
-darkskin
 darksomeness
 darksum
 deltahedron
@@ -8298,6 +8297,7 @@ demove
 dele
 diagonal
 diagonalizable
+darkskin
 diagonalization
 diagnosing
 diseurs
