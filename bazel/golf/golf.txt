@@ -4669,7 +4669,6 @@ gammadion
 giraffidae
 gomutis
 gills
-garlicky
 gyral
 getter
 gaeltacht
@@ -5429,6 +5428,7 @@ guesthouses
 geoponics
 glycerophosphoric
 glyceroxide
+garlicky
 glycide
 galoshed
 glycidol
