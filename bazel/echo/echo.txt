@@ -1489,6 +1489,7 @@ effume
 effund
 empathic
 effused
+encell
 enthalpy
 espiegle
 elasmobranchii
@@ -7415,7 +7416,6 @@ eczematization
 eternalizing
 eperua
 epistrophe
-encell
 epexegetic
 epexegetically
 elevate
