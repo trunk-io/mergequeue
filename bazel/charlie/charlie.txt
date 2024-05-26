@@ -7953,7 +7953,6 @@ cessionee
 cessment
 cessor
 cesspipe
-cesspit
 cesspits
 clamors
 contrastment
@@ -16204,6 +16203,7 @@ cliftonite
 clima
 clarify
 climaciaceae
+cesspit
 copple
 climaciaceous
 climacter
