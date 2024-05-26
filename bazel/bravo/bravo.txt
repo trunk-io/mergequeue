@@ -4354,6 +4354,7 @@ beaverskin
 bassarisk
 beaverteen
 beaverwood
+bohairic
 beback
 bebay
 bebait
@@ -12018,7 +12019,6 @@ brushers
 brother
 bogued
 bogus
-bohairic
 bohemia
 beylical
 bickern
