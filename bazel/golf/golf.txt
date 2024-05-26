@@ -1437,7 +1437,6 @@ galloner
 glorifier
 gervao
 gibier
-garlion
 grassant
 glycolic
 gerara
@@ -5961,6 +5960,7 @@ glist
 glowering
 glowfly
 gastropneumatic
+garlion
 glowingly
 guildship
 glows
