@@ -4673,7 +4673,6 @@ bedeafened
 bedeafening
 botanised
 bedeck
-bedecked
 bedrid
 bebannered
 bedecking
@@ -17341,6 +17340,7 @@ bumpkin
 bumpkins
 bigwiggedness
 bumpology
+bedecked
 bumpsy
 borschts
 bumptious
