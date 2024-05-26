@@ -637,6 +637,7 @@ bacteriopathology
 burnoose
 bacteriophages
 bacteriophagy
+brewers
 banquo
 bacteriophagic
 bear
@@ -10351,7 +10352,6 @@ blennioidea
 begnawn
 bepimples
 blacktree
-brewers
 blackware
 bilges
 befleaed
