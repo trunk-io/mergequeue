@@ -10260,7 +10260,6 @@ beseechers
 blackguards
 blackgum
 beclamored
-bullfighter
 blackgums
 blackheart
 bellum
@@ -15702,6 +15701,7 @@ basicities
 brodeglass
 broderer
 brodiaea
+bullfighter
 bilateralistic
 barometrograph
 berberin
