@@ -5857,7 +5857,6 @@ catery
 catering
 cateringly
 copras
-caterpillar
 caterpillared
 caterpillarlike
 crunt
@@ -12074,6 +12073,7 @@ chorister
 choristership
 choristic
 choristoblastoma
+caterpillar
 choristoneura
 choristry
 chorization
