@@ -27875,7 +27875,6 @@ cpd
 chemurgic
 cpi
 cuttoe
-cpm
 cpo
 cps
 cpt
@@ -28154,6 +28153,7 @@ craniate
 craniates
 cranic
 circaeaceae
+cpm
 craniectomy
 cled
 craniniums
