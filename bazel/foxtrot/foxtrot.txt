@@ -1319,7 +1319,6 @@ frogskins
 fasts
 foamy
 footlocker
-fastuousness
 fecklessness
 featherworker
 fluctuous
@@ -5686,6 +5685,7 @@ fitroot
 fiducially
 flirters
 flirty
+fastuousness
 feculent
 flowering
 feedy
