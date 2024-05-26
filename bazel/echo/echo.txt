@@ -6816,7 +6816,6 @@ embonpoint
 entoil
 entoils
 entoloma
-entom
 extender
 episternalia
 expressionful
@@ -13993,6 +13992,7 @@ extrasocial
 ectophyte
 eshin
 extrasolar
+entom
 enripen
 extrasomatic
 extraspectral

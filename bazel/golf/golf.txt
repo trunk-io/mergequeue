@@ -3696,6 +3696,7 @@ ghastlily
 gantries
 groundsill
 glovers
+groupable
 gimble
 gaminesses
 ghastliness
@@ -9456,7 +9457,6 @@ gernative
 grundlov
 group
 gammer
-groupable
 gynophoric
 grandrelle
 gallous
