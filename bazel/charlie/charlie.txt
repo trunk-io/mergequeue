@@ -13463,6 +13463,7 @@ catnapers
 cyclopedias
 cyclopedical
 cyclopentadiene
+coverlids
 cyclopentanone
 cyclopentene
 cyclopes
@@ -27594,7 +27595,6 @@ coverlets
 circumambiently
 consumation
 coverlid
-coverlids
 covers
 caller
 coversed
