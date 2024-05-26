@@ -12313,6 +12313,7 @@ bereavement
 benn
 bomb
 bombable
+bedder
 bombacaceae
 blacktail
 bombace
@@ -17926,7 +17927,6 @@ bushelmen
 bailies
 bargestone
 busher
-bedder
 bushes
 bushet
 bushfighting
