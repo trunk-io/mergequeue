@@ -18053,7 +18053,6 @@ apprisers
 apprising
 allomerize
 apprizal
-apprize
 apprized
 apprizer
 apprizers
@@ -25125,6 +25124,7 @@ axillaries
 axillars
 aconitic
 axils
+apprize
 axin
 axine
 amphorette
