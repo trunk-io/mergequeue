@@ -4586,6 +4586,7 @@ ford
 fivesome
 fivestones
 foliums
+forecastle
 frenuna
 fivish
 filmgoer
@@ -7520,7 +7521,6 @@ forebush
 forecast
 flatboats
 ferrocyanhydric
-forecastle
 flagellator
 forecastlehead
 forecatching
