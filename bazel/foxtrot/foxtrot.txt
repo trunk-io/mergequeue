@@ -2782,7 +2782,6 @@ festers
 flagroot
 footway
 flanges
-festy
 festilogy
 focalise
 festilogies
@@ -7891,6 +7890,7 @@ frigidity
 farl
 foresails
 farmscape
+festy
 footraces
 fibered
 forescene
