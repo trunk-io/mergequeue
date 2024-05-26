@@ -2920,7 +2920,6 @@ broad
 barrelled
 baetylic
 brattle
-barrelmaker
 barrelmaking
 barrelwise
 barren
@@ -12238,6 +12237,7 @@ bolographic
 bolographically
 boloing
 blushiness
+barrelmaker
 boloism
 byplays
 bolomen
