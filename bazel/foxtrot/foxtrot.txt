@@ -3840,7 +3840,6 @@ florigenic
 fimbriae
 formicary
 fimbrial
-fimbriate
 fimbriated
 flavanthrene
 fimbriating
@@ -9601,6 +9600,7 @@ frowns
 freckliness
 flighting
 feedboxes
+fimbriate
 freckling
 frosting
 findfault
