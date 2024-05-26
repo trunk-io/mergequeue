@@ -598,7 +598,6 @@ functionals
 falsetto
 feoffees
 farmable
-fraud
 fragaria
 floodways
 fitzroy
@@ -6615,6 +6614,7 @@ frogfish
 flirtier
 frequents
 focal
+fraud
 fogey
 featness
 focalizes
