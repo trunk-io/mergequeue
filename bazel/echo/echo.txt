@@ -2124,7 +2124,6 @@ euxenite
 excursory
 enarm
 elastivity
-elastomer
 emperish
 enfamish
 euryphage
@@ -13078,6 +13077,7 @@ enheaven
 epineurial
 ecesises
 earthborn
+elastomer
 exilic
 experimenting
 ejectee
