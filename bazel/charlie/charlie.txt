@@ -4671,7 +4671,6 @@ carousels
 carousers
 carp
 carpaine
-carpale
 carpalia
 carpals
 chela
@@ -12951,6 +12950,7 @@ cookers
 churchmanly
 churchmen
 churchreeve
+carpale
 contramure
 churchscot
 churchshot
