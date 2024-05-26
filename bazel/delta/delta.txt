@@ -11235,7 +11235,6 @@ disbursing
 drylot
 dislimn
 defervesce
-depolymerized
 dibromid
 dipneust
 discabinet
@@ -14240,6 +14239,7 @@ denotationally
 dition
 dytiscid
 dytiscus
+depolymerized
 ditokous
 daggerbush
 ditolyl
