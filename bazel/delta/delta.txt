@@ -1047,7 +1047,6 @@ dimeters
 decarch
 dorsodynia
 darr
-darraign
 depositions
 dermatographia
 darrein
@@ -9074,6 +9073,7 @@ dihexahedral
 dictynidae
 disseminates
 doneness
+darraign
 dictyodromous
 dictyogen
 dictyograptus
