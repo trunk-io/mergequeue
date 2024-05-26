@@ -2677,7 +2677,6 @@ federalese
 fabric
 freshes
 ferruminating
-ferrumination
 furbearer
 fraters
 flinter
@@ -11061,6 +11060,7 @@ fuming
 foresights
 filiferous
 filles
+ferrumination
 fumish
 flammulated
 flanerie
