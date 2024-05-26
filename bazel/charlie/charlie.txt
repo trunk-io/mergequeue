@@ -6895,7 +6895,6 @@ celtiberi
 celtiberian
 celticize
 celtidaceae
-celtiform
 celtillyrians
 consortiums
 celtis
@@ -11911,6 +11910,7 @@ chopins
 choplogic
 choplogical
 chopped
+celtiform
 choregi
 cryptomonad
 candider
