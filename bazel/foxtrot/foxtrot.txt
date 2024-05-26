@@ -2042,7 +2042,6 @@ feil
 fadme
 frontspiece
 filacer
-feinter
 feudary
 facedown
 faucalize
@@ -5384,6 +5383,7 @@ fascicule
 flensers
 funnelled
 flenses
+feinter
 fording
 flentes
 flerried

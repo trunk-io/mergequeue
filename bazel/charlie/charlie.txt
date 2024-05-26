@@ -8602,7 +8602,6 @@ champertous
 champy
 credit
 coe
-champian
 champignon
 champignons
 carle
@@ -26783,6 +26782,7 @@ conjobble
 counterblast
 counterbond
 cautio
+champian
 counterborder
 crookneck
 counterbore
