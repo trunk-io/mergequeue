@@ -7794,6 +7794,7 @@ forename
 furl
 finning
 fogging
+friezer
 ferrotyped
 formosan
 fattiest
@@ -10000,7 +10001,6 @@ friesian
 friezed
 farrow
 fleshhook
-friezer
 facework
 fossilated
 frigage
