@@ -26652,7 +26652,6 @@ couloir
 coulomb
 copperas
 cystectomies
-coulombmeter
 coulombs
 coulometer
 coulter
@@ -31263,6 +31262,7 @@ cotonam
 curbline
 curbs
 curbside
+coulombmeter
 curbstone
 curbstoner
 curbstones
