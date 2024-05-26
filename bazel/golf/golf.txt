@@ -2328,7 +2328,6 @@ grounding
 geelbeck
 geelbek
 galipots
-geepounds
 grousers
 greaser
 gaullist
@@ -9912,6 +9911,7 @@ gymnite
 geophyte
 gargarism
 gracefully
+geepounds
 genion
 guard
 glumpy
