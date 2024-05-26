@@ -838,6 +838,7 @@ caisse
 caissons
 caite
 caitif
+culbut
 charque
 caitiffs
 crams
@@ -19015,7 +19016,6 @@ collators
 colleague
 coenobitic
 ciseleur
-culbut
 colleagues
 colleaguing
 collect
