@@ -4386,6 +4386,7 @@ belongings
 blessing
 bluntish
 boggish
+bandoras
 brabbled
 bosons
 bathyscaph
@@ -9023,7 +9024,6 @@ biochemics
 biochemistry
 biblioclast
 banket
-bandoras
 baisakh
 biocycle
 biocycles
