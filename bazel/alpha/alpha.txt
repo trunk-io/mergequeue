@@ -12473,7 +12473,6 @@ androphorous
 androphorum
 antipyryl
 andropogon
-androsace
 androscoggin
 androsin
 androsphinges
@@ -19467,6 +19466,7 @@ areopagite
 areopagitica
 aniridia
 areosystyle
+androsace
 anguillule
 areostyle
 areotectonics
