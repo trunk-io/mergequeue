@@ -10074,7 +10074,6 @@ ambisinistrous
 ambystoma
 ambystomidae
 amblypodous
-ambit
 ambital
 autotoxis
 ambitendency
@@ -21300,6 +21299,7 @@ asymbolical
 asimmer
 animalhood
 artless
+ambit
 asymmetranthous
 antevenient
 arbitrary
