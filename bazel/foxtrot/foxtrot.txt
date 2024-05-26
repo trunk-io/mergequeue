@@ -5794,7 +5794,6 @@ ferr
 fribblish
 flywinch
 facile
-fails
 fatty
 fellnesses
 flamingoes
@@ -11576,6 +11575,7 @@ furanoses
 foxite
 fusileer
 forpass
+fails
 fatalistic
 fcs
 flummery
