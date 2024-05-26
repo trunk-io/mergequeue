@@ -9500,7 +9500,6 @@ denationalizing
 decide
 digesture
 disapproval
-diggable
 digged
 digger
 digging
@@ -11447,6 +11446,7 @@ destructiveness
 duecento
 disbelieving
 dissuasive
+diggable
 discodactylous
 damasse
 dispositive
