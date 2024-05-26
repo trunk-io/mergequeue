@@ -1463,7 +1463,6 @@ greynesses
 galvanotropic
 ghastly
 gelidium
-gamily
 garotters
 garnetberry
 gallus
@@ -6018,6 +6017,7 @@ gentlefolks
 gluconeogenic
 gluconokinase
 glucosaemia
+gamily
 gerontologies
 glucosone
 gametal
