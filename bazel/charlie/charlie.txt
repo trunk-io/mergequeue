@@ -17288,7 +17288,6 @@ coalize
 coalized
 coalizer
 coalless
-coalmouse
 counterdrain
 coalpit
 calorifically
@@ -27766,6 +27765,7 @@ campal
 catbrier
 corkscrews
 cowshed
+coalmouse
 cowsheds
 cowshot
 cowshut
