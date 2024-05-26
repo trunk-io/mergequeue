@@ -8594,7 +8594,6 @@ excessmen
 equerryship
 ectomeric
 equestrial
-equestrian
 epigeous
 equiaxe
 elaborately
@@ -9390,6 +9389,7 @@ erubescent
 entelechy
 escurialize
 erubescite
+equestrian
 erucivorous
 epimeritic
 eruct
