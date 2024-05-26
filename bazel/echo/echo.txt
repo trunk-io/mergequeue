@@ -8245,7 +8245,6 @@ electrotechnologist
 epist
 elydoric
 epistases
-epistasy
 epistasies
 enrapturedly
 epistasis
@@ -9526,6 +9525,7 @@ eschel
 eschele
 embroaden
 ectrogenic
+epistasy
 eschew
 eschewance
 explorate
