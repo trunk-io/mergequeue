@@ -769,6 +769,7 @@ fixures
 foretack
 fandangle
 fandango
+fluence
 fallows
 fandangos
 fandoms
@@ -10225,7 +10226,6 @@ frizz
 frizzante
 feminizes
 floating
-fluence
 falcer
 fomented
 frankalmoin
