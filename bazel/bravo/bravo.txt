@@ -4779,7 +4779,6 @@ bedlamps
 bedlams
 bursula
 bottled
-bedlar
 bedlids
 beinked
 bedmaker
@@ -9291,6 +9290,7 @@ behaves
 biotelemetries
 biotical
 beguilingness
+bedlar
 bruted
 biotins
 beefhead
