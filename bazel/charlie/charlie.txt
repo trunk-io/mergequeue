@@ -15628,6 +15628,7 @@ chemotaxis
 constrainable
 clarre
 clarseach
+curine
 clarsech
 censused
 clarseth
@@ -31348,7 +31349,6 @@ curietherapy
 curying
 credo
 cyclopentane
-curine
 curing
 cantic
 curio
