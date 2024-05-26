@@ -3118,7 +3118,6 @@ elodes
 endophasia
 eloge
 elogy
-extrasensorial
 elogium
 elohim
 externalizing
@@ -10713,6 +10712,7 @@ exigenter
 excavate
 endozoa
 educts
+extrasensorial
 eques
 enchilada
 expectations
