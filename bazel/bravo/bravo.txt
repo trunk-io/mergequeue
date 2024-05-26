@@ -12316,7 +12316,6 @@ bolus
 bereavement
 benn
 bomb
-bombable
 bombacaceae
 blacktail
 bombace
@@ -15019,6 +15018,7 @@ brescian
 billfish
 bressomer
 bressummer
+bombable
 brest
 bret
 bankrolls
