@@ -9567,7 +9567,6 @@ drachm
 deglazes
 dignitary
 dignitarian
-demophoon
 dignitaries
 doubloons
 dignities
@@ -11282,6 +11281,7 @@ dissyllabify
 devaraja
 dalan
 discepts
+demophoon
 discernable
 daymare
 dysarthric
