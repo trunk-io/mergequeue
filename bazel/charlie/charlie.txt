@@ -12945,7 +12945,6 @@ churchman
 cookers
 churchmanly
 churchmen
-churchreeve
 contramure
 churchscot
 churchshot
@@ -28358,6 +28357,7 @@ cravened
 cravenhearted
 cravening
 cravenly
+churchreeve
 cravens
 clod
 craver
