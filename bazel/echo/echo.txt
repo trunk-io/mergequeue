@@ -3190,7 +3190,6 @@ elsin
 elt
 eltrot
 eluant
-enterophthisis
 eluating
 enteritis
 elucidate
@@ -11652,6 +11651,7 @@ essenis
 extratensive
 exactor
 exactors
+enterophthisis
 empaneling
 exactress
 electrophone
