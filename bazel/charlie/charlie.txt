@@ -23932,7 +23932,6 @@ controls
 controversal
 controverse
 compositeness
-controversy
 controversialism
 controversialist
 controversially
@@ -26304,6 +26303,7 @@ costed
 coinmaker
 condylopod
 clutters
+controversy
 costellate
 costerdom
 costermonger
