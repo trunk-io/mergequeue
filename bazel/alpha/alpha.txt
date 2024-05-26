@@ -3675,6 +3675,7 @@ adenocarcinoma
 adenocarcinomas
 adenocarcinomata
 akepiros
+addable
 adenochondroma
 adenochondrosarcoma
 adenochrome
@@ -11938,7 +11939,6 @@ anangioid
 anangular
 autoantitoxin
 ananias
-addable
 ananym
 ananism
 ananite
