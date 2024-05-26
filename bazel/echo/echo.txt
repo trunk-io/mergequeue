@@ -3807,7 +3807,6 @@ esthetical
 ethnohistorical
 eggshells
 emigre
-emendator
 emended
 epinikian
 emending
@@ -5075,6 +5074,7 @@ ense
 emuls
 endocoele
 endocolpitis
+emendator
 endoconidia
 endocrania
 enallage
