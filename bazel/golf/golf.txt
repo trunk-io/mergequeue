@@ -8418,7 +8418,6 @@ guaranteed
 gashed
 gravelish
 gillaroo
-geldant
 gelants
 gleyde
 gravelled
@@ -10084,6 +10083,7 @@ gelsemic
 galivanting
 glore
 gravigrade
+geldant
 guesdist
 gola
 gloria
