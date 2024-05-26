@@ -1,5 +1,6 @@
 baal
 baalath
+bellower
 balantidiasis
 blepharosyndesmitis
 baalim
@@ -3561,7 +3562,6 @@ bathala
 britzskas
 batheable
 bathed
-bellower
 bather
 bathes
 bathetically
