@@ -4764,7 +4764,6 @@ excusatory
 encloud
 encode
 existible
-encoded
 eremopteris
 encoding
 encodings
@@ -5066,6 +5065,7 @@ experted
 eardrums
 earthbound
 exited
+encoded
 epistlar
 erratical
 embolies
