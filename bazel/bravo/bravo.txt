@@ -11661,7 +11661,6 @@ bacterioscopical
 barspoon
 byres
 brutality
-boatbuilding
 boatel
 boathook
 boathouse
@@ -12654,6 +12653,7 @@ bakshaish
 bonspell
 bonspells
 brike
+boatbuilding
 bonspiel
 bedplate
 bonteboks
