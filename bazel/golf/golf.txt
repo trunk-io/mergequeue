@@ -1603,6 +1603,7 @@ guacamole
 guarachas
 granospherite
 gametogonium
+granomerite
 gasifiers
 gasifies
 gardeen
@@ -5546,7 +5547,6 @@ glioma
 gender
 gamaliel
 glutenin
-granomerite
 glyoxal
 glyoxalic
 griffith
