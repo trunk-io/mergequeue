@@ -8262,6 +8262,7 @@ colpoplastic
 chairs
 chairway
 conjunctivae
+cirriform
 chairwarmer
 chairwomen
 chais
@@ -26803,7 +26804,6 @@ countercharged
 countercharm
 counterclaim
 counterclaiming
-cirriform
 counterclaims
 counterclassification
 couter
