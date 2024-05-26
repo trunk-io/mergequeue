@@ -1736,7 +1736,6 @@ accultural
 acculturate
 acculturated
 acculturates
-alkalimeter
 acculturating
 acculturation
 acculturative
@@ -8573,6 +8572,7 @@ alkapton
 alkaptone
 ascent
 alkaptonuria
+alkalimeter
 alkaptonuric
 alkargen
 alkarsin
