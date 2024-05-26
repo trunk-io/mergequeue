@@ -9627,6 +9627,7 @@ bauds
 birthright
 baffeta
 birthrights
+biquadratic
 birthroot
 births
 bristletail
@@ -11227,7 +11228,6 @@ bloodwite
 bloodwood
 burgeoned
 bloodworm
-biquadratic
 bloodwort
 bloodworthy
 belched
