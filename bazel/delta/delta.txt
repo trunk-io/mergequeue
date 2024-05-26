@@ -5096,7 +5096,6 @@ denaturalizing
 denaturant
 denaturants
 denaturate
-denaturational
 diver
 diablerie
 denature
@@ -15454,6 +15453,7 @@ disgracefulness
 dominique
 despairingly
 ducamara
+denaturational
 dewanship
 debated
 dominos
