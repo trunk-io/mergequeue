@@ -15496,7 +15496,6 @@ clansfolk
 clanship
 chiricahua
 clansman
-clansmen
 curnie
 consuetudinary
 clanswoman
@@ -16628,6 +16627,7 @@ concoagulation
 cloit
 cloke
 consigne
+clansmen
 cutaway
 conniver
 clokies
