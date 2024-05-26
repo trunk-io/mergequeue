@@ -5391,6 +5391,7 @@ blastomas
 balas
 bloomery
 begnaw
+biharmonic
 bluely
 balmy
 begnawed
@@ -17982,7 +17983,6 @@ bushwhacked
 bushwhackers
 bushwhacks
 bushwoman
-biharmonic
 boheas
 boart
 balancing
