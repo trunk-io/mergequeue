@@ -4673,6 +4673,7 @@ garlicky
 gyral
 getter
 gaeltacht
+gummosity
 ghetti
 gigantine
 girasol
@@ -10462,7 +10463,6 @@ gumming
 gummose
 gummoses
 greenbacker
-gummosity
 goldbrick
 gumption
 gumptionless
