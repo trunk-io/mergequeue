@@ -11427,7 +11427,6 @@ chlorophyceae
 convenee
 cressweed
 commands
-chlorophyceous
 chlorophyl
 chlorophyllase
 chlorophyllian
@@ -15257,6 +15256,7 @@ cladding
 couplet
 claddings
 conducta
+chlorophyceous
 clade
 cladine
 cladistic
