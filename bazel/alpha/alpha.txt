@@ -7435,6 +7435,7 @@ albatros
 africander
 axlike
 albe
+ancienty
 awmbrie
 ariole
 anglesite
@@ -12282,7 +12283,6 @@ anciency
 anciennete
 anciens
 ancientest
-ancienty
 anciently
 ancientness
 ancile

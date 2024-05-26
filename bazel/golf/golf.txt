@@ -2600,6 +2600,7 @@ gibus
 gemmology
 gemstone
 gemuetlich
+gerontocracy
 gemuti
 gearwheels
 girt
@@ -3498,7 +3499,6 @@ goosecap
 glucogene
 geronto
 guachamaca
-gerontocracy
 gerontocracies
 gerontocrat
 greenwing
