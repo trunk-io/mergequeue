@@ -3749,7 +3749,6 @@ battener
 beknown
 balladising
 batteners
-battens
 batter
 batterdock
 battered
@@ -6592,6 +6591,7 @@ broached
 bletted
 burge
 bellon
+battens
 bepastured
 bepatched
 boxings
