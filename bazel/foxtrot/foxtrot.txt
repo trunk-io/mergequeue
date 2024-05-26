@@ -4490,7 +4490,6 @@ feedable
 festschriften
 feuille
 fisticuff
-freebees
 fort
 fouldre
 familiarness
@@ -4761,6 +4760,7 @@ flaglet
 formulable
 furmity
 flotation
+freebees
 fou
 flagman
 frond
