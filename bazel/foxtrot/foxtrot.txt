@@ -3273,7 +3273,6 @@ facecloth
 foism
 fibrosity
 foldwards
-faradizer
 featurely
 fidate
 flaught
@@ -6525,6 +6524,7 @@ foreworn
 freakishness
 flutist
 fibrilations
+faradizer
 flutter
 flutterable
 facultative

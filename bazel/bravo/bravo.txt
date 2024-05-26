@@ -4999,6 +4999,7 @@ beekeeping
 bedight
 beekite
 bosher
+bandlimited
 bagginess
 bassos
 beelzebul
@@ -6129,7 +6130,6 @@ bemingling
 bemire
 bemiring
 burnewin
-bandlimited
 bemisted
 bakings
 bemists
