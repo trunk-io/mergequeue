@@ -8779,7 +8779,6 @@ billman
 blechnum
 basigenic
 baraza
-bual
 billon
 baronizing
 billons
@@ -9706,6 +9705,7 @@ banalize
 bysen
 biseptate
 biseriate
+bual
 biseriately
 biset
 belshazzaresque
