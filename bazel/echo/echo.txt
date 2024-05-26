@@ -567,7 +567,6 @@ exhaustivity
 echinozoa
 echinulate
 echinulated
-endogastrically
 echis
 echitamine
 excommunion
@@ -7261,6 +7260,7 @@ eophytic
 eyebree
 erysipelothrix
 eophyton
+endogastrically
 eorhyolite
 eos
 eosate
