@@ -3453,7 +3453,6 @@ bastards
 basted
 barristers
 biotechnologicaly
-baster
 basters
 bastiles
 bastille
@@ -12612,6 +12611,7 @@ beboppers
 bonne
 bubbly
 bonnes
+baster
 bonnet
 bonneted
 bonneter
