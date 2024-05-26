@@ -6398,6 +6398,7 @@ cav
 cavae
 ceratites
 cavayard
+chorale
 cavalcaded
 cavalcades
 cavalcading
@@ -11940,7 +11941,6 @@ chorai
 choral
 choralcelo
 causeway
-chorale
 crumbing
 choraleon
 chorales
