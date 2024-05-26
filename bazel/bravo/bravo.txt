@@ -228,6 +228,7 @@ binary
 bathyanesthesia
 bache
 bemol
+binocs
 bachelor
 breastplate
 bachelordom
@@ -8950,7 +8951,6 @@ binned
 binny
 binnite
 binnogue
-binocs
 binocular
 battel
 binocularly
