@@ -8100,7 +8100,6 @@ fulminic
 fourteen
 fire
 focalized
-faithful
 featurette
 fuchsias
 fractal
@@ -9751,6 +9750,7 @@ freieslebenite
 freight
 flipflop
 foretoken
+faithful
 freightage
 fluorite
 fringe
