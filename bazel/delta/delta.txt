@@ -7906,7 +7906,6 @@ dewclaw
 dewclawed
 dewclaws
 dewdamp
-dewdrop
 disassimilated
 dewdropper
 desertward
@@ -14839,6 +14838,7 @@ demonism
 dodd
 dawdled
 doddard
+dewdrop
 dolorifuge
 dezincation
 dodded
