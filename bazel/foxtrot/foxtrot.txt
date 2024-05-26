@@ -2614,7 +2614,6 @@ forbidden
 ferritungstite
 flurry
 ferryway
-finding
 ferroaluminum
 ferrocene
 ferrocerium
@@ -8941,6 +8940,7 @@ foundrous
 founds
 fatherlike
 fount
+finding
 fountain
 fragged
 fearfulness
