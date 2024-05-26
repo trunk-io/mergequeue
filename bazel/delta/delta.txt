@@ -2021,6 +2021,7 @@ disarmament
 decagonally
 daimen
 dichloramin
+detonability
 decagons
 decagram
 dourness
@@ -7364,7 +7365,6 @@ detinues
 daimones
 detinuit
 detn
-detonability
 demilunes
 depersonalised
 demiadult
