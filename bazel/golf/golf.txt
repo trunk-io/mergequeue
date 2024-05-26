@@ -3690,7 +3690,6 @@ gunbearer
 gatewaymen
 groups
 gelfomino
-gargil
 ghastlily
 gantries
 groundsill
@@ -4146,6 +4145,7 @@ gauric
 giraffine
 gilguy
 gymnoconia
+gargil
 gradometer
 giliak
 gadslid
