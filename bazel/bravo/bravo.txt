@@ -4277,7 +4277,6 @@ benched
 bullroarer
 beatnik
 beatniks
-bestrided
 beatrix
 becater
 bonged
@@ -14577,6 +14576,7 @@ backspin
 billheading
 brash
 bucklering
+bestrided
 brasher
 brashest
 brashier
