@@ -2529,7 +2529,6 @@ brachyoura
 barge
 bargeer
 bergere
-bargehouse
 bargelike
 bravura
 bargelli
@@ -7119,6 +7118,7 @@ besmudge
 besmudged
 beamless
 blasted
+bargehouse
 besmudges
 besmudging
 besmutch
