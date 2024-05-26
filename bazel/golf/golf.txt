@@ -926,7 +926,6 @@ gamelans
 gameless
 gamelike
 goracco
-gadids
 gynecomazia
 gladiole
 ganglionitis
@@ -9380,6 +9379,7 @@ grottoes
 grottos
 guanine
 gaywings
+gadids
 geryonidae
 grouchiest
 gonococcal
