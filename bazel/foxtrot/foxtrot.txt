@@ -8086,7 +8086,6 @@ fathogram
 foretellers
 foretells
 forethinking
-forethoughtfulness
 fleet
 featherhead
 forethrift
@@ -11710,6 +11709,7 @@ foretellableness
 fernsick
 frameless
 fumaryl
+forethoughtfulness
 fiancailles
 falus
 frowzily
