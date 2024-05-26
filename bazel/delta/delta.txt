@@ -2839,7 +2839,6 @@ decrepitation
 decrepitness
 dari
 dogteeth
-decresc
 deviless
 disemplaned
 decrescendo
@@ -13530,6 +13529,7 @@ dissect
 dissectible
 dissection
 dissections
+decresc
 dissects
 donnism
 delightedness
