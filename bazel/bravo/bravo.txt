@@ -3348,7 +3348,6 @@ biotope
 basketries
 banyai
 baskets
-basketware
 basketweaving
 ba
 byzantium
@@ -12390,6 +12389,7 @@ bombillas
 bombinating
 bacchantic
 bombination
+basketware
 blan
 bobfly
 bombing
