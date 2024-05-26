@@ -11682,7 +11682,6 @@ boatlip
 boatload
 bankerdom
 boatloader
-boatloading
 boatloads
 bowllike
 beigy
@@ -17871,6 +17870,7 @@ burthened
 bluewing
 burthening
 burthens
+boatloading
 burthensome
 burtonization
 burundians
