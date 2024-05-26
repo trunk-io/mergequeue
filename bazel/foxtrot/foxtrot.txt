@@ -1684,7 +1684,6 @@ fealty
 fumigates
 fear
 fimbles
-finite
 fearedly
 forearming
 fadeaways
@@ -5523,6 +5522,7 @@ finale
 flicker
 fiords
 flickered
+finite
 fortifications
 flickermouse
 flowery
