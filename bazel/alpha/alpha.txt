@@ -5054,7 +5054,6 @@ avulsions
 admonitioner
 aerolith
 aerolithology
-apocamphoric
 aeroliths
 aerolitic
 aerological
@@ -9984,6 +9983,7 @@ antizymotic
 almoravides
 amazon
 appendicious
+apocamphoric
 amazons
 amazulu
 amb
