@@ -20063,6 +20063,7 @@ abstrusenesses
 armorless
 armorplated
 aplopappus
+ascriptions
 armors
 armorwise
 armouchiquois
@@ -21125,7 +21126,6 @@ ascribes
 ascribing
 ascript
 ascription
-ascriptions
 ascriptitious
 ascriptitius
 ascriptive
