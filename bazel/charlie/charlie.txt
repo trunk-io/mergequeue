@@ -5309,6 +5309,7 @@ ctenophora
 cassocked
 cultures
 cassocks
+chloroguanide
 chamberlain
 cuspidated
 cassons
@@ -11390,7 +11391,6 @@ chloroformization
 chloroformize
 chloroforms
 chlorogenic
-chloroguanide
 chloroid
 chloroma
 chiule
