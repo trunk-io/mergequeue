@@ -552,6 +552,7 @@ falling
 fussed
 falloff
 falloffs
+facility
 flamier
 filiate
 fallostomy
@@ -3953,7 +3954,6 @@ fingerer
 fingerers
 fingerhold
 freehanded
-facility
 fingerhook
 fingering
 fibrinemia
