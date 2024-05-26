@@ -1600,7 +1600,6 @@ gametogonium
 gasifiers
 gasifies
 gardeen
-galactophthysis
 glengarry
 gasterolichenes
 gladded
@@ -3014,6 +3013,7 @@ gedunk
 geobiont
 geobotanic
 gustation
+galactophthysis
 gothicism
 goitre
 gemmates
