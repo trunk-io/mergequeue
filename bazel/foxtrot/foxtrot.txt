@@ -4762,7 +4762,6 @@ figurehead
 fra
 financed
 flagrancy
-freshens
 frostbiter
 flectional
 fenderless
@@ -6082,6 +6081,7 @@ flota
 fluoroscopies
 flawy
 flotage
+freshens
 florists
 frondeur
 foregoes
