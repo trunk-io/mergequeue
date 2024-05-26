@@ -3468,7 +3468,6 @@ doddy
 dengues
 deflore
 dropforged
-dubash
 disgarland
 desexualization
 deflower
@@ -3834,6 +3833,7 @@ deicers
 deicidal
 deicides
 deicing
+dubash
 deictical
 dysmorphism
 deictically

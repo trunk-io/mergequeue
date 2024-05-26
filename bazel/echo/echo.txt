@@ -9766,6 +9766,7 @@ epimerize
 execrates
 ensearcher
 espingole
+experimenter
 editorialist
 equaling
 espino
@@ -13072,7 +13073,6 @@ ebauche
 eternality
 experimentative
 experimented
-experimenter
 experimenters
 enheaven
 epineurial
