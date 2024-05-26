@@ -8313,7 +8313,6 @@ bienvenu
 bienvenue
 boosters
 byepath
-bier
 broid
 byerite
 bierkeller
@@ -17483,6 +17482,7 @@ bunted
 boomage
 bruskest
 bunter
+bier
 blacklight
 bunty
 biltongue
