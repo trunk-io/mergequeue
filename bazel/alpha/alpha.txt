@@ -2859,7 +2859,6 @@ acetum
 aegagrus
 acrogamous
 acrogen
-acrogenous
 ashthroat
 acrogynous
 arkosic
@@ -17270,6 +17269,7 @@ achiever
 assiduous
 apogenous
 avocets
+acrogenous
 apogeotropism
 apogon
 afterfuture

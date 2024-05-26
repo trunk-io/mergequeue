@@ -3392,6 +3392,7 @@ bootable
 brythonic
 baculum
 bassan
+betallow
 bicarbonate
 bassanite
 biotechnics
@@ -13712,7 +13713,6 @@ briefs
 bourse
 bourtree
 bathochrome
-betallow
 bdellostomidae
 bisiliquous
 bezonian
