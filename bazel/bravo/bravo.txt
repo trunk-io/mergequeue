@@ -3524,6 +3524,7 @@ batcher
 bargemen
 bogging
 bateau
+badness
 blastomycetous
 bucchero
 bandoliered
@@ -16471,7 +16472,6 @@ bimorphemic
 bipolar
 bathorse
 bargeese
-badness
 barbarianize
 backbiters
 blackplate
