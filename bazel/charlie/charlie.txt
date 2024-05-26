@@ -7233,7 +7233,6 @@ centrifugate
 centrifugation
 centrifuge
 cavitates
-centrifuged
 centrifugence
 centrifuges
 centrifuging
@@ -25447,6 +25446,7 @@ cornice
 corniced
 collaud
 creamery
+centrifuged
 coarsish
 corniches
 cornicle
