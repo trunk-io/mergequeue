@@ -4474,6 +4474,7 @@ endrin
 entirely
 epitonic
 encasement
+equisurface
 encases
 euryzygous
 exaggerator
@@ -7472,7 +7473,6 @@ ephialtes
 ecalcarate
 embarment
 ephydridae
-equisurface
 ephippia
 esterify
 epidiascopic
