@@ -7419,7 +7419,6 @@ cephalology
 cephalom
 calina
 cephalomancy
-cephalomant
 cephalomeningitis
 cultivatable
 cortex
@@ -18769,6 +18768,7 @@ colascione
 cucurbital
 colascioni
 colate
+cephalomant
 catalyzing
 colation
 colatitude
