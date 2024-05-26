@@ -2011,6 +2011,7 @@ decaffeinate
 decaffeinated
 depicted
 decaffeinates
+discolor
 deadpanner
 decaffeinating
 decaffeinize
@@ -12891,7 +12892,6 @@ disomatous
 doubtmonger
 disomus
 dognaping
-discolor
 doubtfully
 dasnt
 disaffectedness

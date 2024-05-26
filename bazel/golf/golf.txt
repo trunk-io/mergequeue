@@ -3370,6 +3370,7 @@ ganglands
 germ
 germain
 german
+grovelled
 germany
 gisarme
 gyro
@@ -7794,7 +7795,6 @@ gralline
 gram
 grisoutine
 gourinae
-grovelled
 grama
 gtc
 geoglossaceae
