@@ -16823,7 +16823,6 @@ drawdown
 drawdowns
 dissipated
 drawee
-datto
 drawer
 drawerful
 disulfuret
@@ -16952,6 +16951,7 @@ duledge
 drearily
 dreariness
 doz
+datto
 ductule
 drearing
 drearisome

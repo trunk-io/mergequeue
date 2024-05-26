@@ -2634,7 +2634,6 @@ fiscality
 feoffed
 fricassees
 ferromanganese
-ferrometer
 ferronatrite
 foh
 filicologist
@@ -9837,6 +9836,7 @@ fascet
 fatigability
 fastiia
 flatuous
+ferrometer
 frescade
 frescoed
 frontingly
