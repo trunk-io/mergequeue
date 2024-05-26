@@ -1830,6 +1830,7 @@ debel
 debouch
 deplumate
 debellator
+diastematomyelia
 debenture
 drugmaker
 debentures
@@ -8727,7 +8728,6 @@ demobbed
 desalinizing
 dichastasis
 diastematic
-diastematomyelia
 dyaster
 depolarizing
 diastereoisomerism
