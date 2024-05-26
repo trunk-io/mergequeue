@@ -17461,6 +17461,7 @@ antisiphonal
 apositic
 aposoro
 antiagglutinant
+alkermes
 archpatriarch
 arthrostraca
 accusative
@@ -24926,7 +24927,6 @@ awakeable
 awaked
 axemaster
 awakened
-alkermes
 awakener
 algometer
 awakeners
