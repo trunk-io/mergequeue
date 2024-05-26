@@ -2349,7 +2349,6 @@ gruiform
 gehlenite
 goblet
 guideway
-gey
 gaits
 gladiatorism
 gallantry
@@ -2615,6 +2614,7 @@ genapping
 guildite
 gossaniferous
 gendarmery
+gey
 geobotanical
 glottologist
 gendarmerie
