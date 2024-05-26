@@ -2956,7 +2956,6 @@ elidible
 eligibility
 eligibles
 eligibly
-equipede
 endodontic
 explicit
 encephalopsychesis
@@ -12555,6 +12554,7 @@ electrofusion
 equiprobably
 elopement
 existibility
+equipede
 extant
 epilogic
 existing
