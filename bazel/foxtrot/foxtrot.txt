@@ -5684,7 +5684,6 @@ ferrate
 fleuronnee
 fungous
 finesses
-fletcher
 fuzzball
 flirtish
 faunological
@@ -8555,6 +8554,7 @@ farmsteading
 forninst
 firedragon
 factitious
+fletcher
 fornix
 forspent
 fantast
