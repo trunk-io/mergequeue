@@ -63,7 +63,6 @@ babelism
 bongar
 bendell
 blist
-babelize
 beshlik
 babels
 babery
@@ -6310,6 +6309,7 @@ benempt
 blanker
 barrigudo
 barbless
+babelize
 buchmanism
 befinger
 boarishly
