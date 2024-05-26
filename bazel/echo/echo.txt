@@ -5922,7 +5922,6 @@ enjambment
 escaped
 emetomorphine
 enjambments
-ectomere
 encumbrancer
 enjoy
 enjoyable
@@ -11268,6 +11267,7 @@ evangeliarium
 excussio
 enalyron
 electropuncture
+ectomere
 extraught
 evangelic
 evangelical
