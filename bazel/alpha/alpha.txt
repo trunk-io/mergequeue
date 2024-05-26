@@ -5730,7 +5730,6 @@ afterwards
 afterwhile
 archchief
 afterwise
-afterwit
 afterword
 afterwork
 agathodemon
@@ -20786,6 +20785,7 @@ artificialities
 artificially
 amphitokous
 artilize
+afterwit
 artiller
 artillery
 artilleries
