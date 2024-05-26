@@ -5704,7 +5704,6 @@ catcaller
 carburising
 catcalls
 catch
-catchcry
 colocates
 catched
 catcher
@@ -13907,6 +13906,7 @@ cinemactic
 cinemagoer
 circumlocutionary
 cinemagoers
+catchcry
 cinemas
 chartophylaxes
 cinematheque
