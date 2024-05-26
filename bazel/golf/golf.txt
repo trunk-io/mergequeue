@@ -6602,7 +6602,6 @@ grower
 gambrelled
 goldfields
 goldfinny
-graphometrical
 gardenesque
 guideship
 goldy
@@ -7313,6 +7312,7 @@ gosports
 gossamered
 gossamers
 geochronometric
+graphometrical
 glareole
 gossep
 globe
