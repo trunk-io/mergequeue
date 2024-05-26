@@ -1770,7 +1770,6 @@ gastrocolotomy
 gastrodermal
 gastrodermis
 gnotobiote
-goosemouth
 guayabo
 gravemaking
 gastroduodenitis
@@ -8256,6 +8255,7 @@ golds
 gummiferous
 grasshop
 grasshopper
+goosemouth
 gnarling
 greeniest
 grins
