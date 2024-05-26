@@ -4160,6 +4160,7 @@ bagge
 beans
 beansetter
 beanshooter
+biochemical
 beanstalk
 beanstalks
 begrain
@@ -10241,7 +10242,6 @@ blackfins
 blackfire
 batster
 burntness
-biochemical
 bas
 blackfishes
 brahmins
