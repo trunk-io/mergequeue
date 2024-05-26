@@ -19736,7 +19736,6 @@ combaron
 combasou
 combat
 combatable
-chroma
 combatant
 combatants
 combater
@@ -25963,6 +25962,7 @@ corsets
 contra
 chopboat
 corsy
+chroma
 corsican
 circumscribes
 corsie
