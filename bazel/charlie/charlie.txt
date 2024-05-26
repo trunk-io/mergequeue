@@ -6728,7 +6728,6 @@ celebret
 celebrious
 celebrity
 celebs
-celemin
 celemines
 celery
 celeriac
@@ -28553,6 +28552,7 @@ credere
 cerebbella
 credible
 concealers
+celemin
 credibly
 creditabilities
 creditable
