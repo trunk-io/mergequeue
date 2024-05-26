@@ -2335,6 +2335,7 @@ entocele
 electrochemical
 electrochemistry
 excrete
+enteromegalia
 electrochronometer
 electrocataphoresis
 equison
@@ -6633,7 +6634,6 @@ enterology
 enterologic
 enteromegaly
 eaved
-enteromegalia
 enteroneuritis
 effectuates
 enterons
