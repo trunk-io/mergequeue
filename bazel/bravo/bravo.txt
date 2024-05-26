@@ -1593,7 +1593,6 @@ ballistician
 brachioganoidei
 ballistocardiogram
 ballistocardiograph
-ballistocardiography
 bifurcate
 beheadlined
 ballywack
@@ -5949,6 +5948,7 @@ berger
 bap
 beluga
 bellypiece
+ballistocardiography
 bellypinch
 beckons
 balopticon
