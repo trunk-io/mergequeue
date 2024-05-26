@@ -4874,6 +4874,7 @@ bolometer
 bedstraw
 bedstraws
 bedstring
+broadwise
 bedswerver
 bhotiya
 bices
@@ -15656,7 +15657,6 @@ blushful
 blundered
 bromethyl
 broadwife
-broadwise
 brob
 brobdingnag
 betorcin
