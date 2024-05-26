@@ -5960,7 +5960,6 @@ balopticon
 bellmaking
 backlashed
 bachel
-bellman
 baronship
 bellmanship
 bielorouss
@@ -11825,6 +11824,7 @@ boddle
 boded
 bodefully
 bodegas
+bellman
 bengali
 belook
 bodements
