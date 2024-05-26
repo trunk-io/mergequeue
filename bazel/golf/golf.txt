@@ -4152,7 +4152,6 @@ gillenia
 gambas
 grangerise
 gesan
-guavas
 greasier
 gilles
 gynostegium
@@ -8147,6 +8146,7 @@ greenhorn
 graphically
 graphicness
 graphing
+guavas
 glamourously
 glutamates
 glorioso
