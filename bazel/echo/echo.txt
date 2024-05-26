@@ -3051,6 +3051,7 @@ equipoises
 electrothermostat
 elleck
 ellenyard
+enterocystoma
 escribed
 eardrop
 ellfish
@@ -13449,7 +13450,6 @@ ereptase
 epoxy
 exquire
 exquisite
-enterocystoma
 epithalamium
 ecclesiasticalism
 ethnomusicology
