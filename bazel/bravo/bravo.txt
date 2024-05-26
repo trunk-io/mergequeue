@@ -12150,7 +12150,6 @@ bestowal
 boldfacedly
 boldfacedness
 banshees
-boldfacing
 bootprint
 boldhearted
 beloid
@@ -15106,6 +15105,7 @@ bruxism
 backsaw
 bejeling
 briarroot
+boldfacing
 briars
 belemnite
 briarwood

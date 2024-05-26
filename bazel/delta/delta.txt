@@ -1542,7 +1542,6 @@ deadlier
 discotheques
 deaden
 droops
-doe
 dendra
 docked
 deadeners
@@ -10656,6 +10655,7 @@ deregister
 diplozoon
 decerebrating
 declinometer
+doe
 downstreet
 dipmeter
 dogman
