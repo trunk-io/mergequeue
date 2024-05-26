@@ -1944,7 +1944,6 @@ depressant
 debugs
 debunked
 dnieper
-debunker
 debunkers
 dispergated
 debunks
@@ -15878,6 +15877,7 @@ descendance
 dortiship
 dustrag
 dos
+debunker
 dosain
 dose
 dosed
