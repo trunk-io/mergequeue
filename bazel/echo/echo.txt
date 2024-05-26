@@ -3549,7 +3549,6 @@ eponyms
 extreme
 enneapetalous
 euphratean
-embolize
 embolo
 embolomalerism
 epidural
@@ -11445,6 +11444,7 @@ evergreens
 everydayness
 everyhow
 encorbelment
+embolize
 everylike
 everyman
 enlaced

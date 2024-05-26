@@ -2702,7 +2702,6 @@ cannibalized
 cannibalizes
 cannibalizing
 coelomes
-cannibally
 cannibals
 cannie
 cannier
@@ -13397,6 +13396,7 @@ cyclohexanol
 crass
 cyclohexanone
 cyclohexatriene
+cannibally
 cyclohexyl
 cycloheximide
 chemiatry
