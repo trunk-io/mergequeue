@@ -4339,7 +4339,6 @@ fishery
 fractionalization
 florentium
 fraus
-fealties
 fisherman
 feedhead
 fisherwoman
@@ -4380,6 +4379,7 @@ folic
 fishmonger
 floorward
 fraternizer
+fealties
 ferociousness
 fluorapatite
 fishmouth
