@@ -4545,7 +4545,6 @@ entalent
 entrepreneurial
 erucin
 encephalomyelopathy
-encephalomyocarditis
 enactive
 encephalopathy
 euryalae
@@ -7745,6 +7744,7 @@ epirogeny
 epidermic
 expos
 epidermical
+encephalomyocarditis
 epidermically
 enteroplasty
 epidermization
