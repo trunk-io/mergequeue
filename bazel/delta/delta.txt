@@ -4216,7 +4216,6 @@ deadworks
 deliriate
 discomfited
 deliriousness
-delirium
 delirous
 delis
 dishonourable
@@ -14316,6 +14315,7 @@ doegling
 diurnule
 dimensuration
 diuron
+delirium
 diuturnity
 doled
 diva
