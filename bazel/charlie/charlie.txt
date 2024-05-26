@@ -14237,7 +14237,6 @@ cardcastle
 casemate
 circler
 counternotice
-circles
 circlet
 corticoid
 circleting
@@ -24554,6 +24553,7 @@ coparty
 copartiment
 copartnery
 chukars
+circles
 copartners
 copartnership
 chronodeik
