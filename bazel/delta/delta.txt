@@ -12600,7 +12600,6 @@ disjointed
 disjointedly
 duplicidentate
 disjointing
-disjointly
 disjointness
 dulia
 disjoints
@@ -16233,6 +16232,7 @@ dowment
 description
 duplicated
 downbear
+disjointly
 depurant
 downbeard
 doughfoot
