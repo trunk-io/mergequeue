@@ -3486,7 +3486,6 @@ fetches
 formboard
 figitidae
 floriparous
-figo
 frothily
 fumaroid
 frizzily
@@ -8300,6 +8299,7 @@ frostbites
 forkfuls
 forweep
 forkhead
+figo
 flaff
 formicarium
 freakier
