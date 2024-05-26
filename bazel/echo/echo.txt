@@ -3685,7 +3685,6 @@ encoronate
 embryopathology
 embryophyte
 embryophore
-effray
 embryoplastic
 embryos
 esthesioblast
@@ -6856,6 +6855,7 @@ extracapsular
 erythrozincite
 etrogim
 explainingly
+effray
 ergology
 expectorating
 epidermoidal
