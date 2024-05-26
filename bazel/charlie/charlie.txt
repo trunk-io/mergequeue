@@ -236,7 +236,6 @@ coactions
 carrom
 caccabis
 caccagogue
-currency
 cacciatora
 capeador
 cacei
@@ -27809,6 +27808,7 @@ coxed
 cissing
 collinear
 coxendix
+currency
 cowishness
 coxes
 chokeable
