@@ -12161,7 +12161,6 @@ abought
 anatomicochirurgical
 acedia
 anatomicopathologic
-anatomicophysiologic
 arteriofibrosis
 anatomies
 alloplasmic
@@ -23389,6 +23388,7 @@ acanaceous
 adders
 antiantidote
 augends
+anatomicophysiologic
 auger
 augerer
 augers
