@@ -5324,6 +5324,7 @@ affidation
 ais
 affidavy
 affidavit
+amaranthoid
 aviso
 affied
 affies
@@ -6617,7 +6618,6 @@ ahmed
 ahmedi
 aho
 ahoy
-amaranthoid
 aholds
 ahom
 ahorse
