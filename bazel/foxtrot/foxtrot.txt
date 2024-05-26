@@ -3088,7 +3088,6 @@ fibred
 fibrefill
 fibreless
 fibril
-fuzing
 fleshquake
 fairily
 fluorin
@@ -10872,6 +10871,7 @@ fabledom
 fulgentness
 foeticidal
 fulgidity
+fuzing
 ferriage
 fantasizing
 felid
