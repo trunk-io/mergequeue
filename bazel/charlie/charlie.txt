@@ -4520,7 +4520,6 @@ carnalness
 carnaptious
 carnaria
 carnassial
-carnate
 cordialize
 carnation
 carnationed
@@ -20514,6 +20513,7 @@ comparators
 churada
 comparcioner
 comparer
+carnate
 comparers
 comparing
 comparisons
