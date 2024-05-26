@@ -5965,7 +5965,6 @@ ampyx
 agendaless
 ave
 agendas
-agendum
 agendums
 amovability
 agene
@@ -20381,6 +20380,7 @@ arrogative
 aleutian
 arrogator
 arroyos
+agendum
 arroyuelo
 apostolate
 arenarious
