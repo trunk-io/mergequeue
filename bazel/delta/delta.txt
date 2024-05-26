@@ -1810,6 +1810,7 @@ dsp
 disgrade
 debauchee
 debauchees
+deflocculating
 debauchery
 debaucheries
 debauches
@@ -3454,7 +3455,6 @@ deflocculant
 dimethylhydrazine
 debasement
 deflocculate
-deflocculating
 dermatoptera
 deflocculent
 deflorate
