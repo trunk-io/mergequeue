@@ -11046,7 +11046,6 @@ disapprobatory
 disappropriate
 drakonite
 disapprovals
-disapprover
 disapproves
 disapprovingly
 disillusioned
@@ -12751,6 +12750,7 @@ dismail
 dismal
 drosophila
 disworkmanship
+disapprover
 downhaul
 dusack
 dyemaking
