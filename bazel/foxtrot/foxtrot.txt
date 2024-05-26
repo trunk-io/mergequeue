@@ -1097,6 +1097,7 @@ fogas
 flinger
 faro
 floriken
+fritillaries
 floter
 foredestining
 foremast
@@ -7628,7 +7629,6 @@ foreorlop
 forefinger
 forefingers
 figlike
-fritillaries
 ferronickel
 fragile
 floruits
