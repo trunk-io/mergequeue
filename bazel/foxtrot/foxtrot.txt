@@ -8109,6 +8109,7 @@ foretop
 foretopmast
 fencer
 fellatrix
+fizzle
 foretopmen
 foretops
 foretrace
@@ -10401,7 +10402,6 @@ formularize
 footworks
 frontignan
 fronting
-fizzle
 flustrating
 fatalist
 focimeter
