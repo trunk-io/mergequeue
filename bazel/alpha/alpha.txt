@@ -991,7 +991,6 @@ abstain
 abstainer
 airchecks
 arsenicking
-abstainers
 abstaining
 abstainment
 abstains
@@ -3415,6 +3414,7 @@ adamine
 adamite
 adamitical
 ane
+abstainers
 adamitism
 antitryptic
 adamsia
