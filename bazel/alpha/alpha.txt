@@ -8794,6 +8794,7 @@ allhallows
 allhallowtide
 allheals
 ally
+acestoma
 alliage
 alliance
 accoast
@@ -14473,7 +14474,6 @@ anaphrodisia
 anthophilian
 anthophyllitic
 acediast
-acestoma
 apometabolism
 anthophobia
 achingly
