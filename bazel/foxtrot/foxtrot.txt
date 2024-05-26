@@ -31,6 +31,7 @@ fibrolitic
 fishify
 frostfishes
 fabricated
+fermium
 fabricates
 fabricating
 fabrication
@@ -2514,7 +2515,6 @@ favonian
 flexity
 falsen
 fermions
-fermium
 fastigium
 floripondio
 forint
