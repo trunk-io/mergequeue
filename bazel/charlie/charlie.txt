@@ -6365,7 +6365,6 @@ cilantro
 chemitypies
 cough
 cautelousness
-cauter
 cautery
 cauteries
 cauterisation
@@ -19325,6 +19324,7 @@ colonelship
 colonelships
 coloner
 colones
+cauter
 circumadjacent
 cassena
 colonette
