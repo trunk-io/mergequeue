@@ -471,6 +471,7 @@ caddices
 cashier
 caddie
 caddies
+coffeeberries
 cottons
 clinics
 chincough
@@ -18272,7 +18273,6 @@ coffea
 centrolineal
 coffeeberry
 curliewurly
-coffeeberries
 cohosting
 coffeecake
 coffeecup
