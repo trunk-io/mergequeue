@@ -9309,7 +9309,6 @@ chasubled
 cooper
 chasubles
 cave
-chat
 chataka
 chatchka
 chatchkas
@@ -27690,6 +27689,7 @@ cowgirls
 cowgrass
 cowhage
 cowhand
+chat
 cowheart
 cowhearted
 cowheel

@@ -1980,7 +1980,6 @@ eaters
 ejusd
 ekaboron
 ekacaesium
-ekasilicon
 epop
 ekebergite
 ekename
@@ -5815,6 +5814,7 @@ engreaten
 ethereal
 emphasising
 electrotyping
+ekasilicon
 edificing
 extrazodiacal
 ergotaminine
