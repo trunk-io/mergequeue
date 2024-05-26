@@ -3728,6 +3728,7 @@ deguelin
 damaging
 degust
 degusted
+deoxidizes
 dumaist
 degusting
 din
@@ -5551,7 +5552,6 @@ deoxidize
 deoxidizer
 dreggy
 deoxidizers
-deoxidizes
 dogwatch
 deoxidizing
 destining

@@ -355,7 +355,6 @@ bepuzzle
 beamlet
 backgammon
 barbarical
-background
 backhand
 backhandedly
 brogueneer
@@ -13367,6 +13366,7 @@ bothy
 basivertebral
 bothie
 bothies
+background
 bardesanist
 beholds
 boredness
