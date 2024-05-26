@@ -4267,7 +4267,6 @@ cortins
 caressively
 carest
 cestracion
-caret
 caretake
 caretaker
 caretakers
@@ -29124,6 +29123,7 @@ crinkly
 chloroacetate
 conjecture
 crinklier
+caret
 charmwise
 crinkliest
 cellulation
