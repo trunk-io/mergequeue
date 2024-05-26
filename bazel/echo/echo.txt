@@ -2963,7 +2963,6 @@ endodontic
 explicit
 encephalopsychesis
 exister
-exterraneous
 elymi
 eulysite
 eliminable
@@ -12474,6 +12473,7 @@ exhumations
 exhumator
 exhumatory
 emancipations
+exterraneous
 exhumers
 exfiltrate
 exhumes
