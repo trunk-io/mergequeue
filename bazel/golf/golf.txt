@@ -109,7 +109,6 @@ groggy
 grumousness
 goldthread
 goodnaturedness
-glaive
 geranial
 genotype
 gadgetry
@@ -5177,6 +5176,7 @@ guester
 gutturalizing
 glass
 gatch
+glaive
 gyrencephalate
 gandering
 gigantomachy
