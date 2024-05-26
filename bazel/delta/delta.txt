@@ -3690,6 +3690,7 @@ dumbfound
 defoliant
 dropforging
 deglutination
+discapacitate
 deglutition
 deglutitious
 degold
@@ -12593,7 +12594,6 @@ disjasket
 disjaskit
 disject
 disjected
-discapacitate
 disjoin
 discourage
 disjoinable
