@@ -14987,7 +14987,6 @@ citolas
 citole
 citoles
 cytolymph
-cytolysin
 counterglow
 cytolist
 cytolytic
@@ -21065,6 +21064,7 @@ compurgatory
 compursion
 computability
 connexional
+cytolysin
 computable
 computably
 craniopuncture
