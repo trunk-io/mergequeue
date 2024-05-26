@@ -4096,7 +4096,6 @@ antiquatedness
 admeasurer
 adumbrant
 admeasuring
-admedial
 admedian
 afforced
 anthus
@@ -10089,6 +10088,7 @@ amblypodous
 ambit
 ambital
 autotoxis
+admedial
 ambitendency
 arriver
 arteriococcygeal
