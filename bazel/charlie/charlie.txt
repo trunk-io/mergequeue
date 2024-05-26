@@ -2059,7 +2059,6 @@ campanologically
 campanologist
 campanologists
 campanulaceous
-campanulales
 campanular
 campanulariae
 campanularidae
@@ -8158,6 +8157,7 @@ chafers
 chafes
 chafewax
 chimaeras
+campanulales
 chafeweed
 chaff
 chaffcutter
