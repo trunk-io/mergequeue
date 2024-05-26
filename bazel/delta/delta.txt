@@ -3623,7 +3623,6 @@ degass
 degassed
 demandant
 degassing
-disappears
 degauss
 dunnesses
 degaussing
@@ -16055,6 +16054,7 @@ doubtance
 dopinesses
 dodecylene
 doubletone
+disappears
 doubters
 doubty
 dimwits
