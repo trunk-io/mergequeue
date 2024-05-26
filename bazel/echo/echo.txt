@@ -3180,6 +3180,7 @@ else
 elsehow
 electioneers
 elseways
+emboldened
 exaggerators
 elsewhere
 elsewheres
@@ -12196,7 +12197,6 @@ eanlings
 enhance
 ephah
 elemental
-emboldened
 ethmoturbinate
 epicalyx
 excussed

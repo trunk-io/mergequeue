@@ -5134,7 +5134,6 @@ chaprassi
 caseinogen
 caseins
 cellated
-caselessly
 caseload
 caseloads
 caselty
@@ -11446,6 +11445,7 @@ chlorophora
 chloropicrin
 chloroplast
 chloroplastic
+caselessly
 chloroplastid
 chloroplasts
 coenamorment
