@@ -13246,6 +13246,7 @@ craniograph
 cycads
 cyanochroic
 cicale
+corpse
 chiot
 catchable
 cycases
@@ -25699,7 +25700,6 @@ corporosity
 corposant
 corps
 corpsbruder
-corpse
 corpselikeness
 corpses
 creeshy
