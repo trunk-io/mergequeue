@@ -14924,7 +14924,6 @@ drugman
 dodonaeaceae
 dodonaena
 dodonean
-disdainous
 decoyed
 dodos
 decoloriser
@@ -17044,6 +17043,7 @@ dressmakery
 dressmakers
 dressmaking
 dressoir
+disdainous
 diglottism
 dretch
 daintrel
