@@ -4138,7 +4138,6 @@ bean
 brickred
 begged
 beanball
-brooked
 beancod
 beaner
 beanery
@@ -6440,6 +6439,7 @@ benzalcohol
 bakupari
 benzaldehyde
 benzaldoxime
+brooked
 bandeaus
 benzalethylamine
 benzalphenylhydrazone
