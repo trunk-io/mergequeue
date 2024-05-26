@@ -3971,7 +3971,6 @@ ballotage
 bd
 beteela
 bde
-bdellatomy
 bdellium
 bdelliums
 bdelloid
@@ -4586,6 +4585,7 @@ burnsides
 becudgelling
 becudgels
 branial
+bdellatomy
 becuffed
 becuiba
 becurl
