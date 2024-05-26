@@ -2362,7 +2362,6 @@ gygis
 geyerite
 geiger
 gospeller
-gangrel
 glamoury
 gandered
 guavina
@@ -7720,6 +7719,7 @@ gyroscopic
 graithly
 guatemalans
 gneisses
+gangrel
 gangan
 grorudite
 gazoz
