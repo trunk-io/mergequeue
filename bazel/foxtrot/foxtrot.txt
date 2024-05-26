@@ -7451,7 +7451,6 @@ feminine
 forcleave
 foreknown
 ferrimagnet
-floatative
 forcut
 formativeness
 funditores
@@ -7890,6 +7889,7 @@ fores
 foresaddle
 flowstone
 fyttes
+floatative
 factualist
 florent
 flindosy
