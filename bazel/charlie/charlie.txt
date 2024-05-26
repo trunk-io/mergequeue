@@ -26698,6 +26698,7 @@ count
 countability
 countably
 countdom
+corrido
 countdown
 countdowns
 counted
@@ -27047,7 +27048,6 @@ counterplayer
 counterplan
 counterplea
 counterplead
-corrido
 counterpleading
 counterplot
 coriandrum
