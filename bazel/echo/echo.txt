@@ -7971,7 +7971,6 @@ epimanikia
 epimanikion
 epimer
 epimeral
-epimeres
 eremurus
 epimeric
 epimeride
@@ -11775,6 +11774,7 @@ epithelioid
 exarchateship
 euripidean
 exarchic
+epimeres
 ekphore
 egomanias
 epimerise

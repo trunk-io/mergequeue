@@ -5780,6 +5780,7 @@ gars
 grubbiest
 garlicwort
 gathered
+gallanted
 groma
 glooms
 gloomth
@@ -7739,7 +7740,6 @@ gray
 gips
 getaway
 graybacks
-gallanted
 glassless
 graycoat
 grayest
