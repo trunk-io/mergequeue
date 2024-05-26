@@ -4849,7 +4849,6 @@ bedscrew
 bits
 bedsick
 bedside
-bedsitter
 bedsock
 bedsonia
 bedsonias
@@ -17246,6 +17245,7 @@ bruchus
 boonies
 bulrushlike
 bult
+bedsitter
 bultey
 bultell
 bulten
