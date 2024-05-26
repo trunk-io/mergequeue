@@ -3203,7 +3203,6 @@ ganglion
 galimatias
 geophagia
 geophagies
-geocline
 gipping
 geophagism
 globigerine
@@ -3593,6 +3592,7 @@ gestatory
 geste
 gyrinid
 ginglyform
+geocline
 gested
 gingham
 graphonomy
