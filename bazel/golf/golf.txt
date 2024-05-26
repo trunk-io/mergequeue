@@ -1670,7 +1670,6 @@ givers
 golf
 geothermally
 gasps
-gassed
 gypsumed
 gasser
 gasserian
@@ -7273,6 +7272,7 @@ gimleted
 goshawk
 geniculated
 goslet
+gassed
 gweducks
 guniter
 gosmore

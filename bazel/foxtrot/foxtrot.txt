@@ -2347,7 +2347,6 @@ fixities
 flagitious
 fumage
 franchises
-fenner
 friday
 forbysen
 frowningly
@@ -8763,6 +8762,7 @@ faeries
 forweend
 fantasias
 forwelk
+fenner
 fondlike
 fictioneer
 frowzier
