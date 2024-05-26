@@ -6609,6 +6609,7 @@ daps
 desegmentation
 desegmented
 disordination
+duodenocholecystostomy
 dephlegmated
 desegregated
 decontamination
@@ -18339,7 +18340,6 @@ degelation
 duodene
 duodenitis
 dismantled
-duodenocholecystostomy
 duodenocholedochotomy
 defossion
 discant
