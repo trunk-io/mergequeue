@@ -4304,7 +4304,6 @@ bulbonuclear
 billard
 blas
 beaujolais
-beaume
 beaumont
 beaupere
 beauseant
@@ -10621,6 +10620,7 @@ blately
 blateness
 bhisti
 blateration
+beaume
 breadboxes
 bilo
 blateroon
