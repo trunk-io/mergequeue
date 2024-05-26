@@ -5018,7 +5018,6 @@ boltless
 ballast
 beeping
 beeps
-beer
 beerbachite
 bathyseism
 beerbelly
@@ -17763,6 +17762,7 @@ bombshell
 burned
 bewreath
 burner
+beer
 bloodstain
 brasseys
 burnettize
