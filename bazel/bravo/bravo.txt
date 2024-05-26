@@ -3768,7 +3768,6 @@ betrayals
 batteryman
 batterman
 batters
-batty
 barny
 battier
 batties
@@ -12162,6 +12161,7 @@ boldly
 boldnesses
 boldo
 boldoine
+batty
 benzofluorene
 bannets
 basti
