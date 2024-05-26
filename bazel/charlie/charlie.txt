@@ -3583,6 +3583,7 @@ caracoa
 cumanagoto
 caracol
 caracoled
+comptible
 caracoler
 caracoli
 caracoling
@@ -14062,7 +14063,6 @@ cynomys
 cynomolgus
 cynomoriaceae
 cytosome
-comptible
 cynomoriaceous
 cynomorium
 cynomorphic
