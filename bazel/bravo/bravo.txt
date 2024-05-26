@@ -9630,6 +9630,7 @@ birthrights
 birthroot
 births
 bristletail
+boottop
 birthstones
 brontephobia
 birthstool
@@ -12965,7 +12966,6 @@ bootstrapped
 bootstrapping
 blouson
 bodhi
-boottop
 boozed
 biforous
 biochron
