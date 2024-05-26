@@ -2687,7 +2687,6 @@ cannelon
 castrametation
 concussing
 cannelons
-cannelure
 clatsop
 cannequin
 criticised
@@ -28381,6 +28380,7 @@ crawled
 crawley
 contributing
 crawleyroot
+cannelure
 crawlerize
 crawlers
 crawly
