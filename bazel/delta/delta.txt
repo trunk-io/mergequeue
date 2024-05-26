@@ -2612,7 +2612,6 @@ demiquaver
 decocting
 decoctive
 decocts
-deaminizing
 decoctum
 decodable
 decode
@@ -9573,6 +9572,7 @@ desterilize
 dignifying
 drachm
 deglazes
+deaminizing
 dignitary
 dignitarian
 demophoon
