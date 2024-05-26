@@ -15827,6 +15827,7 @@ clavicembalist
 clavicembalo
 claviceps
 caiarara
+copals
 clavichord
 colonialistic
 clavichords
@@ -24542,7 +24543,6 @@ copaliferous
 copalite
 cotraitor
 copalm
-copals
 cynomorpha
 coparallel
 convincers
