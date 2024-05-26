@@ -9677,7 +9677,6 @@ esophago
 esophagocele
 esophagodynia
 esophagogastroscopy
-electrotheraputically
 evejar
 entrike
 esophagometer
@@ -11311,6 +11310,7 @@ evanishment
 enantiopathia
 exterrestrial
 evaporability
+electrotheraputically
 ectoplasy
 eutaxy
 epiblastema
