@@ -2859,7 +2859,6 @@ dictionary
 decretorial
 deprivers
 drowse
-deliberation
 decretorian
 dithymol
 duplicative
@@ -17832,6 +17831,7 @@ desalts
 ductilize
 ductilized
 ductless
+deliberation
 ductor
 ductules
 ductwork
