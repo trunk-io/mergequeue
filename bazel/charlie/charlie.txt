@@ -2229,7 +2229,6 @@ catholicise
 canadine
 corresponds
 canadite
-conferva
 canadol
 conceivers
 canafistola
@@ -31678,6 +31677,7 @@ clomped
 cuspid
 cuspidal
 cuspidate
+conferva
 cuspidation
 colliquation
 cuspides

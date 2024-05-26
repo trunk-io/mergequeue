@@ -5989,6 +5989,7 @@ bells
 belltail
 baresarks
 balloons
+bryce
 bullom
 babylonish
 bluer
@@ -15134,7 +15135,6 @@ bodyweight
 bribri
 bloater
 blockheadedness
-bryce
 brick
 bankruptship
 brickbat
