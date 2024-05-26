@@ -3820,7 +3820,6 @@ batts
 blowpipe
 battu
 battues
-batture
 battuta
 bielded
 biocontrol
@@ -5280,6 +5279,7 @@ basaltic
 bicentenary
 beaky
 bunkmate
+batture
 bilingualism
 begarlanded
 baldpates
