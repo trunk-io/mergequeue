@@ -2780,6 +2780,7 @@ bookies
 bookit
 burmannia
 baroneting
+bitonal
 baronetise
 baronetize
 baronetized
@@ -11589,7 +11590,6 @@ blushless
 blusht
 brierwood
 beth
-bitonal
 blusteration
 bufidin
 blustered
