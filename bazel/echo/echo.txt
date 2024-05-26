@@ -763,7 +763,6 @@ exuvium
 ecotype
 ecotypes
 ecotipically
-ecotypically
 ecotonal
 enclaved
 epiloia
@@ -1889,6 +1888,7 @@ eyoty
 elapsed
 eir
 ectad
+ecotypically
 enflesh
 epurate
 eptatretidae
