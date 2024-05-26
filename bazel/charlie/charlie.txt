@@ -14805,7 +14805,6 @@ cystopyelography
 cystoplegia
 cystoproctostomy
 coccolobis
-cystopteris
 cystoptosis
 cystopus
 cystoradiography
@@ -29790,6 +29789,7 @@ comorado
 croppers
 croppy
 cropping
+cystopteris
 cropplecrown
 crops
 cropshin
