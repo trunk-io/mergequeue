@@ -4610,7 +4610,6 @@ gypping
 gyp
 gyps
 greffier
-gentisic
 griskin
 gipsy
 gipsydom
@@ -7686,6 +7685,7 @@ graduators
 goodwillit
 graduses
 graecian
+gentisic
 gullage
 graciosos
 gemlike
