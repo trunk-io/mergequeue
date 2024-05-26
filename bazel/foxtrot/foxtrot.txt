@@ -4706,7 +4706,6 @@ flagellariaceous
 flagellatae
 fulmination
 follies
-flagellated
 flagellations
 flunkeydom
 footwalls
@@ -9471,6 +9470,7 @@ frateries
 fells
 fraternality
 faultlessness
+flagellated
 filum
 floccilation
 fraternally
