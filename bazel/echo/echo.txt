@@ -874,7 +874,6 @@ embound
 emraud
 eddic
 entourages
-epistolizer
 epepophysis
 electrocution
 encomiastical
@@ -11825,6 +11824,7 @@ effacing
 equisetums
 excalation
 enervated
+epistolizer
 excalcarate
 elecive
 enactor
