@@ -5803,7 +5803,6 @@ belieffulness
 beliefless
 beauties
 beliefs
-beliers
 belies
 believability
 believed
@@ -9023,6 +9022,7 @@ babooism
 biochemic
 biochemics
 biochemistry
+beliers
 biblioclast
 banket
 bandoras
