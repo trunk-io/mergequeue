@@ -1135,6 +1135,7 @@ bankman
 bairntime
 bairnwort
 baisemain
+behint
 baysmelt
 besmears
 bout
@@ -5535,7 +5536,6 @@ behind
 behindhand
 behinds
 behindsight
-behint
 behypocrite
 behither
 berrigan
