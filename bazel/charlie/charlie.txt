@@ -12628,7 +12628,6 @@ cradleboard
 concepts
 chromotropism
 cajeputol
-chromous
 chromoxylograph
 chron
 caplets
@@ -21602,6 +21601,7 @@ concubitous
 concubitus
 conculcate
 concumbency
+chromous
 continently
 concupy
 concupiscence
