@@ -1741,6 +1741,7 @@ dundees
 deathliness
 deathrate
 deathrates
+diagrammed
 deaths
 deathsman
 depaysee
@@ -8316,7 +8317,6 @@ diagram
 drahthaar
 demobilize
 diagrammatic
-diagrammed
 divinail
 diagrammer
 diagrammers
