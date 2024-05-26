@@ -11972,7 +11972,6 @@ chordotomy
 chore
 caviare
 chorea
-choreal
 choreas
 choreatic
 chored
@@ -29633,6 +29632,7 @@ crocodilean
 copyholding
 crocodilidae
 crocodylidae
+choreal
 crocodiline
 crocodility
 crocodiloid
