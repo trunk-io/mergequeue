@@ -2268,6 +2268,7 @@ gearshift
 goniostat
 gearshifts
 goldfinches
+gladnesses
 gratification
 garlics
 governmentally
@@ -10539,7 +10540,6 @@ guillemot
 gunline
 gasterotheca
 gunlock
-gladnesses
 gunlocks
 guanays
 gunmaking

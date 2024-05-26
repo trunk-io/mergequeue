@@ -18250,7 +18250,6 @@ coexisting
 coexpand
 coexpanded
 coexperiencer
-coextend
 coextends
 coextension
 creep
@@ -29021,6 +29020,7 @@ criminality
 criminally
 comestibles
 coppling
+coextend
 criminalness
 criminaloid
 criminals
