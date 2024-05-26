@@ -5933,7 +5933,6 @@ depredation
 depredationist
 droshky
 depredatory
-deontic
 depredicate
 decise
 deodars
@@ -9311,6 +9310,7 @@ dog
 dermatophagus
 diethylaminoethanol
 diethylethanolamine
+deontic
 dolomization
 diethylmalonylurea
 diethylstilboestrol
