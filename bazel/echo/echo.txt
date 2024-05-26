@@ -7137,7 +7137,6 @@ envisaged
 empemata
 envisagement
 envisaging
-emulable
 extrapolative
 envisioning
 eye
@@ -9438,6 +9437,7 @@ enlute
 escalating
 escalations
 entrance
+emulable
 enkindle
 escalator
 escalier
