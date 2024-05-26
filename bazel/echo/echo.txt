@@ -8662,6 +8662,7 @@ endonuclease
 espinillo
 equimultiple
 encirclements
+enrank
 equinal
 enzymotic
 emphyteuta
@@ -11330,7 +11331,6 @@ empyrean
 evaporations
 euvrou
 evaporators
-enrank
 evaporimeter
 evaporitic
 evapotranspiration

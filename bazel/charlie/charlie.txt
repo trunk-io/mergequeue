@@ -8336,7 +8336,6 @@ cadalene
 chalcids
 chalcioecus
 ching
-chalcites
 chalcocite
 compotatory
 chalcogen
@@ -12053,6 +12052,7 @@ chiefdom
 chorioiditis
 canelike
 chorioidocyclitis
+chalcites
 coffeewood
 chorioidoiritis
 chorioidoretinitis
