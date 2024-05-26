@@ -3744,7 +3744,6 @@ dehache
 dehypnotize
 dehair
 deheathenize
-desuetude
 decard
 dikage
 departement
@@ -12574,6 +12573,7 @@ disyntheme
 disintoxication
 dankness
 dosimeters
+desuetude
 daud
 disintrench
 dysyntribite
