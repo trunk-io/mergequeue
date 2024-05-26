@@ -2184,7 +2184,6 @@ campulitropal
 cabaan
 campus
 chromatic
-campusses
 campward
 chametz
 cerebrotomy
@@ -9420,6 +9419,7 @@ chaus
 constatory
 commiserate
 chausse
+campusses
 chaussee
 chaussees
 chaussure
