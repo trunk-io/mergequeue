@@ -9772,6 +9772,7 @@ bisischiatic
 bauera
 bisk
 boulangerite
+boardinghouse
 bisks
 bislings
 belial
@@ -11621,7 +11622,6 @@ board
 boardbill
 boarded
 bibulosity
-boardinghouse
 boardings
 boardly
 boards
