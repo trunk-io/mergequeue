@@ -2824,7 +2824,6 @@ ftncmd
 festoonery
 fotch
 festoony
-festooning
 frazzles
 finnmark
 foremastmen
@@ -7879,6 +7878,7 @@ flannelbush
 forerun
 fname
 factiousness
+festooning
 franklinia
 flagellariaceae
 forerunner
