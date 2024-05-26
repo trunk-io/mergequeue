@@ -168,7 +168,6 @@ dads
 dadu
 daduchus
 dae
-diestocks
 daedal
 deeds
 dirtier
@@ -16872,6 +16871,7 @@ drawplate
 drawpoint
 draws
 drawsheet
+diestocks
 drawspring
 dispersible
 divergingly
