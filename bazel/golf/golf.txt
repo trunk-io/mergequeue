@@ -1994,7 +1994,6 @@ girdler
 gaucie
 gynopara
 gumshoe
-gowd
 gummier
 gaudeamus
 gaudery
@@ -10226,6 +10225,7 @@ guessworker
 guile
 guileful
 guilefulness
+gowd
 garmentless
 gawp
 garcinia
