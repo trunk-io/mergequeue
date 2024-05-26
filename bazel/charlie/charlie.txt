@@ -4666,6 +4666,7 @@ carousals
 carouse
 caroused
 carousel
+crosscrosslet
 carousels
 carousers
 carp
@@ -30111,7 +30112,6 @@ coccinella
 cru
 crub
 confections
-crosscrosslet
 crubeen
 cruce
 crucethouse
