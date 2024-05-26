@@ -4478,7 +4478,6 @@ alarmisms
 adstipulating
 adstipulator
 adterminal
-adtevac
 aduana
 adular
 arrestor
@@ -11104,6 +11103,7 @@ assientist
 achromatized
 amperian
 attenuation
+adtevac
 amperometer
 amperometric
 asswage
