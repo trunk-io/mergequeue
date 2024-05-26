@@ -389,6 +389,7 @@ fastigated
 folkland
 fairground
 false
+fearfullest
 fairhead
 fairy
 fairyhood
@@ -4606,7 +4607,6 @@ fixate
 faeroe
 freety
 fixation
-fearfullest
 flatnose
 footslogs
 fdtype
