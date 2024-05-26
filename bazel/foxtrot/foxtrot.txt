@@ -6696,7 +6696,6 @@ faveoluli
 fogdogs
 fairways
 fogdom
-foeffment
 fogfruit
 foretype
 flatterable
@@ -7239,6 +7238,7 @@ flockman
 footslogger
 fuseau
 finnmarks
+foeffment
 fantastic
 forecasts
 fustet
