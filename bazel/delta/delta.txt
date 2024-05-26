@@ -4962,7 +4962,6 @@ drays
 demonstrably
 demonstrandum
 demonstrate
-demonstrated
 demonstratedly
 dehiscing
 demonstrater
@@ -6805,6 +6804,7 @@ daira
 desires
 dihedrons
 desirous
+demonstrated
 desirousness
 dentex
 desisted
