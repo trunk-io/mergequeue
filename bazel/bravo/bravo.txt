@@ -2815,6 +2815,7 @@ blasphemers
 baroswitch
 barotaxy
 barotaxis
+bluely
 bitis
 babuls
 ballgowns
@@ -5391,7 +5392,6 @@ blastomas
 balas
 bloomery
 begnaw
-bluely
 balmy
 begnawed
 budgero
