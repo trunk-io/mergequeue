@@ -8003,7 +8003,6 @@ alertest
 autotropically
 alerting
 alertly
-ales
 anion
 alesan
 aleshot
@@ -19428,6 +19427,7 @@ addressed
 areng
 arenga
 awaken
+ales
 arenicola
 arenicolite
 anagrammed
