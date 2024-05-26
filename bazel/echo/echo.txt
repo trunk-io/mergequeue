@@ -1025,6 +1025,7 @@ edaphosauria
 edaphosaurid
 exorbital
 edaphosaurus
+erosible
 explosibility
 epoxide
 endearments
@@ -7952,7 +7953,6 @@ emetical
 enstatitic
 epilogical
 eurystomatous
-erosible
 examinationist
 epinasty
 epilogizing
