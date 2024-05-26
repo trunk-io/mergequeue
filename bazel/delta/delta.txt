@@ -2676,7 +2676,6 @@ diomedes
 decompensate
 decompensated
 decompensating
-dislocable
 diverge
 delinquents
 decompensations
@@ -18032,6 +18031,7 @@ dull
 dullard
 dipotassium
 deckload
+dislocable
 dishonored
 dyebeck
 detrusor

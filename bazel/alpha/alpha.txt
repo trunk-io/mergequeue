@@ -4007,7 +4007,6 @@ aleyrodidae
 adjudging
 adjudgment
 adjudicate
-asterisked
 agile
 adjudicated
 adjudication
@@ -25096,6 +25095,7 @@ anthocyanidin
 amends
 anthophagous
 almahs
+asterisked
 axiality
 axialities
 axiate
