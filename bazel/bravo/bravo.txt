@@ -5697,6 +5697,7 @@ bioral
 bilbie
 belah
 billingsgate
+biobibliographical
 belaying
 belam
 belamcanda
@@ -9003,7 +9004,6 @@ bioastronautics
 bioavailability
 biobibliographer
 biobibliography
-biobibliographical
 barleysick
 behowl
 bioblastic
