@@ -3156,7 +3156,6 @@ genapper
 gutterling
 gastromyces
 glumal
-geometridae
 gangshag
 geometriform
 gelinotte
@@ -6217,6 +6216,7 @@ gneissic
 gasifying
 grizelin
 gemmules
+geometridae
 grinding
 gnathostomata
 germanium
