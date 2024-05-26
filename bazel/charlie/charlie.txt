@@ -24118,7 +24118,6 @@ converge
 cuspal
 coexchangeable
 convergement
-cirrolite
 convergence
 coiling
 convergences
@@ -25000,6 +24999,7 @@ corbe
 corbeau
 chonolith
 ciruses
+cirrolite
 corbed
 corbeil
 corbeils
