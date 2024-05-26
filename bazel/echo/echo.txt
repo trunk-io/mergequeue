@@ -2810,7 +2810,6 @@ epipubic
 entrappingly
 elenctical
 ectocornea
-encl
 ecdemic
 emitter
 electrometallurgical
@@ -13365,6 +13364,7 @@ emporetic
 eclegme
 expound
 expounder
+encl
 efractory
 eulogised
 enthrong
