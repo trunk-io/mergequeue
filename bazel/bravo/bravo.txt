@@ -3467,6 +3467,7 @@ bastiment
 blot
 bastinaded
 baroi
+buphthalmic
 burbots
 bastinado
 bastinadoing
@@ -4944,7 +4945,6 @@ brothy
 bomarea
 beechwood
 bright
-buphthalmic
 bleak
 bobac
 burrowstown
