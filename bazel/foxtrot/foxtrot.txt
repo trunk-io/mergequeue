@@ -419,7 +419,6 @@ faq
 foraramina
 firetrap
 fairleads
-farsight
 familiariser
 flints
 fulminate
@@ -2296,6 +2295,7 @@ ferric
 frolicness
 fender
 fulmineous
+farsight
 fuster
 fervorlessness
 filchers
