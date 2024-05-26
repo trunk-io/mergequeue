@@ -11123,7 +11123,6 @@ coappears
 chitinogenous
 chitinoid
 chitinous
-chitins
 chitlin
 chitling
 chitlings
@@ -12141,6 +12140,7 @@ cantharidal
 choses
 chott
 chotts
+chitins
 chou
 chouan
 chouanize
