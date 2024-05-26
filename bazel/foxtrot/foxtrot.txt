@@ -10878,6 +10878,7 @@ felid
 frons
 footholds
 fluidisation
+fungused
 fishable
 fulgorid
 fon
@@ -11227,7 +11228,6 @@ flocculency
 fungologist
 frescoists
 fungosities
-fungused
 funguses
 fireball
 florivorous
