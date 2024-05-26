@@ -478,6 +478,7 @@ gierfalcon
 galleyman
 gonimoblast
 glanced
+gospelwards
 gollar
 galenites
 galenobismutite
@@ -7299,7 +7300,6 @@ glareolidae
 ghast
 gilgul
 gospels
-gospelwards
 gossard
 gosplan
 girlies
