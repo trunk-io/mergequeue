@@ -913,7 +913,6 @@ gemologies
 greeing
 gobemouche
 guarding
-grammaticality
 gamelang
 gonagia
 gamelans
@@ -2567,6 +2566,7 @@ gemmologists
 gemmulation
 gen
 graniferous
+grammaticality
 gale
 gotched
 goldeneye
