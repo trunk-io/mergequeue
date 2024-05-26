@@ -1340,7 +1340,6 @@ demissive
 daunting
 dompt
 dauntingly
-dart
 dauntingness
 dauntlessly
 dauntlessness
@@ -18490,6 +18489,7 @@ diocesans
 decolonisation
 disownable
 dasyproctine
+dart
 demisavage
 durbars
 durdenite
