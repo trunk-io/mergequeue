@@ -4317,7 +4317,6 @@ ghosthood
 genealogy
 gymnorhinal
 gymnosophical
-gates
 gymnosophist
 gymnospermism
 guddler
@@ -6286,6 +6285,7 @@ gnow
 gns
 gatefolds
 go
+gates
 goa
 grammar
 germiparity
