@@ -5697,7 +5697,6 @@ aftershave
 aftershocks
 aftersound
 afterspeech
-afterspring
 afterstretch
 afterstudy
 acetylaminobenzene
@@ -13922,6 +13921,7 @@ anorthopia
 anorthoscope
 anorthose
 aguilawood
+afterspring
 anorthosite
 anoscope
 angstrom

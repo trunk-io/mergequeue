@@ -4130,7 +4130,6 @@ beamroom
 baragnosis
 braize
 beams
-beamsman
 beamwork
 birken
 bargees
@@ -4958,6 +4957,7 @@ becobweb
 brimmered
 bogyisms
 beefalos
+beamsman
 bilimbis
 brig
 border
