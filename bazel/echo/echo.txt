@@ -852,6 +852,7 @@ enquire
 ectocoelic
 ectocommensal
 ectocondylar
+eaved
 endophytic
 ectocondyle
 ectocondyloid
@@ -6632,7 +6633,6 @@ exhedrae
 enterology
 enterologic
 enteromegaly
-eaved
 enteromegalia
 enteroneuritis
 effectuates
