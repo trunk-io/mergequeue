@@ -1692,6 +1692,7 @@ archpresbyter
 accreditations
 accredited
 animal
+artificialities
 accrediting
 accredits
 aeraria
@@ -20782,7 +20783,6 @@ antipragmatically
 aquitanian
 artificialism
 artificiality
-artificialities
 artificially
 amphitokous
 artilize
