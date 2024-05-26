@@ -13062,7 +13062,6 @@ cyanhydric
 cyanhydrin
 cyanic
 cyanicide
-cyanid
 collects
 cyanide
 casel
@@ -23754,6 +23753,7 @@ contradictiousness
 conjugational
 contradictiveness
 contradictory
+cyanid
 chug
 couxio
 contradictoriness

@@ -40,7 +40,6 @@ enumerated
 emigrational
 equiangularity
 earbash
-esperance
 earcockle
 eschewal
 eardropper
@@ -11287,6 +11286,7 @@ exceptionably
 effulgently
 exculpated
 evangelisation
+esperance
 evangelism
 evangelistary
 evangelistaries
