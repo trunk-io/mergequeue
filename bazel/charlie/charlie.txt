@@ -5365,7 +5365,6 @@ castellatus
 castellet
 creolization
 circumposition
-cyanformic
 castelli
 castellum
 casten
@@ -25103,6 +25102,7 @@ craftmanship
 corduroy
 crosscourt
 corduroyed
+cyanformic
 costiferous
 corduroying
 corduroys
