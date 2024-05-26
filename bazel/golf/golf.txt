@@ -5444,7 +5444,6 @@ glycogenolytic
 gammaroid
 gingals
 guttulous
-glycol
 glycolaldehyde
 goback
 gayals
@@ -9774,6 +9773,7 @@ gynandrarchy
 guadagnini
 gnathostoma
 guadua
+glycol
 guahiban
 guahivo
 guayaba
