@@ -1216,7 +1216,6 @@ datelines
 dishonourably
 dullery
 datelining
-datemark
 dentalise
 didactic
 durational
@@ -17162,6 +17161,7 @@ decade
 dading
 drainway
 demission
+datemark
 decius
 dimwittedness
 drinkability
