@@ -8262,7 +8262,6 @@ chairmanship
 chairmanships
 checkoff
 chairmender
-chairpersons
 colpoplastic
 chairs
 chairway
@@ -16701,6 +16700,7 @@ colleagueship
 closehanded
 cardiodysesthesia
 contratempo
+chairpersons
 closeness
 closeout
 cedric
