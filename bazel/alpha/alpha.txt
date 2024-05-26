@@ -5067,6 +5067,7 @@ aeromechanics
 aeromedical
 aerometeorograph
 aerometer
+apersee
 aerometry
 abluted
 agenizes
@@ -22122,7 +22123,6 @@ antistat
 asters
 asthamatic
 astheny
-apersee
 ailantery
 abjudge
 argute

@@ -2869,6 +2869,7 @@ barrage
 barnmen
 banger
 barraged
+belletrists
 barrages
 brushland
 barraging
@@ -5872,7 +5873,6 @@ bywalker
 belleric
 biologists
 belletrist
-belletrists
 bellevue
 bonhommie
 blandisher
