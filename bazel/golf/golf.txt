@@ -5980,7 +5980,6 @@ gladify
 gate
 gynoecium
 grassless
-glucate
 gnomonia
 glucemia
 gliders
@@ -8948,6 +8947,7 @@ gravenstein
 geometer
 grilled
 grogging
+glucate
 grillee
 gladly
 geothermometer
