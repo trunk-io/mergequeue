@@ -7439,7 +7439,6 @@ grabbier
 guns
 geminal
 gourmanderie
-gourmandise
 gourmandism
 gourmandizer
 gomerals
@@ -9517,6 +9516,7 @@ giustina
 ginghams
 grouts
 globulitic
+gourmandise
 grouze
 glarry
 grove
