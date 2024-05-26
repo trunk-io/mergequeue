@@ -3943,7 +3943,6 @@ emmove
 emodins
 emollescence
 efflorescent
-emollience
 ensuable
 erogenesis
 extravagate
@@ -4163,6 +4162,7 @@ exedral
 elastance
 employment
 eiffel
+emollience
 entastic
 epilithic
 ensheathed

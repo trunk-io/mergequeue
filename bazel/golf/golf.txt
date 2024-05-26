@@ -1518,7 +1518,6 @@ germanism
 goodnight
 garrisonism
 gashing
-garrnishable
 gemeinde
 garroo
 goldsmithry
@@ -10188,6 +10187,7 @@ glared
 grivet
 goldurnedest
 goldhead
+garrnishable
 guido
 gladiolar
 gighe
