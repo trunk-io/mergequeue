@@ -5602,7 +5602,6 @@ catalonian
 cataloon
 catalos
 companionways
-catalpa
 catalpas
 catalufa
 catalufas
@@ -24852,6 +24851,7 @@ copulatively
 conquian
 copulatory
 chausses
+catalpa
 copus
 coquecigrue
 corneagen
