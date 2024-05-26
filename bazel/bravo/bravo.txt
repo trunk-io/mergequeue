@@ -6057,7 +6057,6 @@ belsire
 beltane
 bactericholia
 bimetalic
-beltcourse
 belter
 ballistic
 bushier
@@ -16086,6 +16085,7 @@ brooks
 budget
 bolsterers
 brookweed
+beltcourse
 bordured
 brool
 buprestid
