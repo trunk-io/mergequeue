@@ -1651,7 +1651,6 @@ elohimic
 egromancy
 egurgitate
 egurgitated
-egurgitating
 endearingly
 euphonon
 eh
@@ -4278,6 +4277,7 @@ egyptologist
 expolish
 expendible
 emulsified
+egurgitating
 epityphlon
 entrechats
 endometrium
