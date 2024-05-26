@@ -428,6 +428,7 @@ garlands
 gonk
 gegger
 galbanums
+gres
 galbulae
 genitorial
 galcha
@@ -6485,7 +6486,6 @@ goggler
 gugal
 ghostlet
 greenwort
-gres
 gastrular
 gunnera
 glossophaga
