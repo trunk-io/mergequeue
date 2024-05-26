@@ -1961,6 +1961,7 @@ beacon
 boronia
 beraked
 ballcarrier
+bedstands
 bandster
 bandstop
 balances
@@ -9140,7 +9141,6 @@ biologic
 biologics
 biologies
 biologist
-bedstands
 bioluminescence
 blighties
 biomagnetic
