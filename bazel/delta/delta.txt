@@ -5633,7 +5633,6 @@ depend
 dependabilities
 dependably
 dibber
-dependance
 dependant
 disedification
 depended
@@ -16730,6 +16729,7 @@ drammage
 dramme
 drammed
 dottler
+dependance
 digenic
 dramming
 dedicatorial
