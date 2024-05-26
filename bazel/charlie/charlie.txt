@@ -5769,7 +5769,6 @@ catechismal
 catechistic
 catechistical
 catechistically
-catechists
 coween
 catechizable
 catechization
@@ -15437,6 +15436,7 @@ clamour
 cordant
 copalchi
 clamouring
+catechists
 clamourist
 clamourous
 clamoursome
