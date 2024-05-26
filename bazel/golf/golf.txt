@@ -1097,6 +1097,7 @@ gerardia
 gerardias
 goldsmithing
 gompholobium
+gentled
 ganglioid
 ganglioma
 gangliomas
@@ -10593,7 +10594,6 @@ gumboil
 ghoul
 gunpower
 genetmoil
-gentled
 guest
 glucagons
 grossierete
