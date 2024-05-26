@@ -693,6 +693,7 @@ baculites
 baculiticone
 baculoid
 baculus
+bombaster
 bacury
 bad
 badaga
@@ -13611,7 +13612,6 @@ boultel
 boulter
 bemuddle
 burntly
-bombaster
 backwashed
 buckstall
 bounceback
