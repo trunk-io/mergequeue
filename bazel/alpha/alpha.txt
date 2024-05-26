@@ -8551,6 +8551,7 @@ abdomens
 alkalization
 alkalize
 alkalizer
+autoscience
 alkalizes
 alkalizing
 alkaloid
@@ -18273,7 +18274,6 @@ angdistis
 aquanauts
 abdicated
 agerasia
-autoscience
 allegator
 arrondi
 aerogenic
