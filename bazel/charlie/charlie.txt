@@ -4431,7 +4431,6 @@ capybaras
 claustrum
 caritative
 carity
-caritive
 circumfusion
 cark
 companionage
@@ -9610,6 +9609,7 @@ checkrow
 checkrowed
 checkrower
 checkrowing
+caritive
 consummatively
 checkrows
 checks

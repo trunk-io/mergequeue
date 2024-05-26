@@ -3142,6 +3142,7 @@ gallinacei
 glassed
 gurgle
 geomancer
+goodbye
 geomancy
 garnered
 gushingness
@@ -5794,7 +5795,6 @@ glorias
 gloriation
 glorify
 gruntingly
-goodbye
 glasses
 glorifications
 glorified
