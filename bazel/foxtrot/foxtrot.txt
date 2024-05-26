@@ -262,7 +262,6 @@ fathomable
 fustee
 foxtrot
 foetors
-fadeout
 faders
 fadge
 furfuramide
@@ -3788,6 +3787,7 @@ filmsetting
 fussification
 filmslide
 forestall
+fadeout
 filmstrips
 flicks
 filo
