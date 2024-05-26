@@ -3390,7 +3390,6 @@ definitise
 dekastere
 dormant
 dilatant
-demitting
 definitised
 domesticable
 definitive
@@ -3970,6 +3969,7 @@ deke
 dogfoot
 dekes
 deking
+demitting
 dustcoat
 dotage
 douser
