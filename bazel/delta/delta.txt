@@ -12374,6 +12374,7 @@ duckmole
 disheriting
 dynastes
 deforms
+disown
 disheritor
 deanship
 dwellers
@@ -12939,7 +12940,6 @@ disorientates
 daywork
 disoriented
 disorients
-disown
 downing
 demulsifying
 dysoxidation
