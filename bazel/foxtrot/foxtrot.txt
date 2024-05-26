@@ -1241,7 +1241,6 @@ fasherie
 fusilier
 fashing
 fiddley
-forediscern
 foliages
 foremarch
 fascinate
@@ -10799,6 +10798,7 @@ fubbery
 fubby
 fubsy
 foraminiferous
+forediscern
 fucales
 flioma
 fullering
