@@ -8334,7 +8334,6 @@ einstein
 evaginate
 epistolize
 epitheca
-exploits
 erebus
 enclosable
 exterminated
@@ -9694,6 +9693,7 @@ esophagostenosis
 esophagotome
 esophagus
 endodermal
+exploits
 earthshine
 esophoric
 epicrystalline
