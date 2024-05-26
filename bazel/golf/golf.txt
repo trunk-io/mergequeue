@@ -1331,7 +1331,6 @@ grammatology
 grammatically
 goodship
 geneki
-griffes
 grimier
 grex
 garbline
@@ -3598,6 +3597,7 @@ gutweed
 gestural
 gallimaufries
 gestureless
+griffes
 gesturers
 glassy
 grosbeak
