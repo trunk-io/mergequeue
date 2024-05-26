@@ -6359,7 +6359,6 @@ benitier
 bandlimit
 benjamin
 benjaminite
-boletus
 benjamins
 benne
 bennel
@@ -13808,6 +13807,7 @@ bibcock
 boilers
 buttonhook
 bowelled
+boletus
 bowelless
 beardedness
 baggy
