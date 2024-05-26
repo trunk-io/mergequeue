@@ -3412,6 +3412,7 @@ concertised
 caprin
 candlebeam
 cimelia
+chitak
 capriola
 caprioled
 caprioles
@@ -11111,7 +11112,6 @@ clarkeites
 chistera
 chistka
 chit
-chitak
 chitarra
 compander
 chitarroni
