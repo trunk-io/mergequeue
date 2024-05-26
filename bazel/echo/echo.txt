@@ -8268,7 +8268,6 @@ episternum
 erucic
 entozoa
 epistyle
-epistyles
 epistylis
 exulcerate
 emetocathartic
@@ -14087,6 +14086,7 @@ edulcoration
 egressive
 epimerised
 extremuma
+epistyles
 extricable
 engroove
 eggler
