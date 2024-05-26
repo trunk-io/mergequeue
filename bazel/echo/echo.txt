@@ -11340,7 +11340,6 @@ enrank
 evaporimeter
 evaporitic
 evapotranspiration
-evasional
 evasions
 evasiveness
 ergatoid
@@ -11462,6 +11461,7 @@ euouae
 exhaustion
 everts
 euglandina
+evasional
 emys
 ennedra
 evese

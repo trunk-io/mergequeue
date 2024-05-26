@@ -8860,7 +8860,6 @@ chapellage
 cryptovolcanic
 coccolithophorid
 complementation
-chapellany
 chapelled
 cimnel
 ceration
@@ -28588,6 +28587,7 @@ creeded
 caddised
 creedist
 creedite
+chapellany
 creedlessness
 creeds
 creedsman
