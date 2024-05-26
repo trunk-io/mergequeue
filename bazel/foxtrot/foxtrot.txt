@@ -1760,7 +1760,6 @@ feathercut
 falconiformes
 fibropsammoma
 famatinite
-featheredge
 featheredged
 finlike
 forswearing
@@ -6983,6 +6982,7 @@ formularistic
 floodlet
 fonding
 fondle
+featheredge
 fondled
 forgot
 fondles
