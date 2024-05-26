@@ -4961,7 +4961,6 @@ endemisms
 echeloned
 estates
 equiparable
-estipulate
 endenization
 exhibitional
 epural
@@ -14070,6 +14069,7 @@ elaborations
 extravillar
 epigastral
 expanses
+estipulate
 exceptant
 etheostomidae
 equilibrative
