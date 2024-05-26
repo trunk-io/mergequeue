@@ -8387,7 +8387,6 @@ diethylacetal
 dialysable
 dorobo
 dahabiahs
-dialysate
 dinitrophenylhydrazine
 dermatotropic
 dialyse
@@ -18075,6 +18074,7 @@ divide
 dicyemida
 dulwilly
 dum
+dialysate
 dendric
 dumas
 devolatilise
