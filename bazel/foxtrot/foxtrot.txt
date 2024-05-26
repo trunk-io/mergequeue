@@ -9285,7 +9285,6 @@ flitchen
 fluorometer
 fluphenazine
 feretra
-fraise
 festuca
 fraised
 fraiser
@@ -10740,6 +10739,7 @@ forespake
 foreyear
 fructified
 frenne
+fraise
 flam
 frumpling
 fungistatically
