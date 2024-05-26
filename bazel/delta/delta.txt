@@ -5513,7 +5513,6 @@ deodorizes
 deontologist
 deoperculate
 detesters
-devanagari
 deoppilant
 dedolomitize
 deoppilate
@@ -11924,6 +11923,7 @@ disinhumed
 discompose
 dwells
 disembargo
+devanagari
 disembarkation
 disembarkations
 domes
