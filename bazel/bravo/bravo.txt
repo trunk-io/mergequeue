@@ -11205,6 +11205,7 @@ bloodshedder
 borons
 burdies
 bloodspiller
+blowtorch
 bloodstains
 bloodstream
 bloodstreams
@@ -18032,7 +18033,6 @@ bromise
 broncos
 busket
 becripple
-blowtorch
 beman
 buskin
 boroglyceride
