@@ -5105,7 +5105,6 @@ diopsidae
 disfigures
 dextrogyrate
 denaturization
-denaturizer
 denaturizing
 dendraspis
 dendrocoelous
@@ -5653,6 +5652,7 @@ deperdite
 diastrophe
 deperditely
 domain
+denaturizer
 dischargee
 davenports
 deperition
