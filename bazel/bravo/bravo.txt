@@ -1411,7 +1411,6 @@ baldpatedness
 baldrib
 baldrick
 baldrics
-balds
 bugged
 balductum
 bale
@@ -14009,6 +14008,7 @@ blames
 brachiating
 bedangled
 brachiator
+balds
 brachyaxis
 brachycephali
 brachycephaly
