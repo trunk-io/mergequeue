@@ -19358,6 +19358,7 @@ colonised
 colonising
 colonist
 chiromancer
+counties
 colonizable
 colonizationist
 colonize
@@ -27290,7 +27291,6 @@ counterworking
 counterwrite
 committee
 countfish
-counties
 counting
 clothespress
 countinghouse

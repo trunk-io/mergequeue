@@ -3413,7 +3413,6 @@ deflagrator
 deflate
 deflated
 dogmen
-drynaria
 deflates
 deflating
 drunkard
@@ -4953,6 +4952,7 @@ divines
 demonship
 dubiosities
 destructing
+drynaria
 drays
 demonstrably
 demonstrandum
