@@ -14816,7 +14816,6 @@ breakers
 bellmen
 breakfast
 breakfasted
-breakfronts
 breaking
 breakings
 breaklist
@@ -15413,6 +15412,7 @@ benzoylglycine
 beneficience
 bringer
 breakbone
+breakfronts
 bringers
 bringeth
 bringing
