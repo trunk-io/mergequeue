@@ -13454,6 +13454,7 @@ arteriostosis
 abbr
 ankylopodia
 ankyloproctia
+afforest
 ankylos
 ankylosaur
 ankyloses
@@ -22048,7 +22049,6 @@ aramu
 acclamatory
 astigmatoscopies
 astartidae
-afforest
 astasia
 actings
 astatine
