@@ -1764,6 +1764,7 @@ floorman
 feathercut
 falconiformes
 fibropsammoma
+figgle
 famatinite
 featheredge
 featheredged
@@ -2898,7 +2899,6 @@ fastigiate
 forespeed
 filago
 fets
-figgle
 fumarin
 fumeless
 furunculosis
