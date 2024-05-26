@@ -3543,6 +3543,7 @@ alloisomeric
 appoggiatura
 additives
 additivity
+armory
 additory
 augustin
 additum
@@ -20045,7 +20046,6 @@ akuammin
 armorbearer
 adonises
 armorer
-armory
 armchairs
 ampoules
 alastors
