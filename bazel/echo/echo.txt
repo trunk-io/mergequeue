@@ -1179,7 +1179,6 @@ ecphory
 eidology
 editorializer
 editorializers
-enation
 editorializes
 editors
 editorship
@@ -4116,6 +4115,7 @@ essoinee
 euthymy
 equitant
 empyromancy
+enation
 emplace
 encephalomalacosis
 egotistical
