@@ -19309,7 +19309,6 @@ alquifou
 arcosolium
 arcsines
 arctalia
-arctan
 arctation
 antepretonic
 arctic
@@ -24263,6 +24262,7 @@ autophyte
 autophytic
 autophytically
 aluminographic
+arctan
 autophytograph
 allocochick
 autophytography
