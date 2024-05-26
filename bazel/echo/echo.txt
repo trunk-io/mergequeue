@@ -5745,7 +5745,6 @@ encampments
 engluts
 etagere
 englutted
-englutting
 edeoscopy
 engold
 engolden
@@ -12814,6 +12813,7 @@ elementalistically
 embryology
 epicystotomy
 exoterical
+englutting
 exoterically
 escobadura
 exotericism
