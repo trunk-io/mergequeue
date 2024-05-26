@@ -5551,7 +5551,6 @@ behoof
 behoot
 behoove
 behooveful
-behoovefulness
 brent
 bazigar
 behooves
@@ -13375,6 +13374,7 @@ blisses
 bothnic
 batteled
 bulletproofs
+behoovefulness
 bethwine
 boondoggler
 boundlessness
