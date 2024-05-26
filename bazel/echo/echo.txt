@@ -4223,6 +4223,7 @@ embossers
 emprint
 emprises
 entomotaxy
+epileptiform
 emprison
 emprize
 emulgent
@@ -7930,7 +7931,6 @@ extensible
 epilepsies
 epileptical
 epileptically
-epileptiform
 exotospore
 entomeric
 epilimnial

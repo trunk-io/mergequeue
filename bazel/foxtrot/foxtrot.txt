@@ -5506,6 +5506,7 @@ featherers
 forepad
 flippery
 flyby
+focimeter
 fossils
 flybys
 fluctisonous
@@ -10406,7 +10407,6 @@ fronting
 fizzle
 flustrating
 fatalist
-focimeter
 fitche
 frontirostria
 fared
