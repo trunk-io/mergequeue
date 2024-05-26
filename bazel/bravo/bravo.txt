@@ -8330,6 +8330,7 @@ baccar
 boggy
 beswarming
 byeworker
+buddy
 byeworkman
 bifaces
 bifacial
@@ -16742,7 +16743,6 @@ bole
 buddhist
 buddhistic
 barry
-buddy
 bigamously
 buddie
 buddies
