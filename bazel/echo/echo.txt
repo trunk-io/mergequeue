@@ -3696,7 +3696,6 @@ embryos
 esthesioblast
 embryotega
 embryotegae
-eweries
 embryotome
 exsculp
 embryotomies
@@ -11340,6 +11339,7 @@ endue
 erraticism
 evaporation
 empyrean
+eweries
 evaporations
 euvrou
 evaporators
