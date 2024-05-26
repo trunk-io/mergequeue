@@ -9425,7 +9425,6 @@ firkins
 fecal
 franseria
 fileted
-facing
 fettler
 fondant
 frenum
@@ -9602,6 +9601,7 @@ freckliness
 flighting
 feedboxes
 freckling
+facing
 frosting
 findfault
 fortifying
