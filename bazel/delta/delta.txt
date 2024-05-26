@@ -4254,6 +4254,7 @@ dicyanogen
 desynapsis
 dells
 dryadic
+dentonasal
 delobranchiata
 deinsularize
 depopulations
@@ -5436,7 +5437,6 @@ dentition
 dilating
 dentolabial
 dentolingual
-dentonasal
 dielytra
 dentosurgical
 disrate
