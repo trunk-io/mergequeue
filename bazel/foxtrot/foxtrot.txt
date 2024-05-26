@@ -7107,7 +7107,6 @@ familarity
 footballs
 frakturs
 footblower
-footboard
 footboards
 friszka
 footboy
@@ -8715,6 +8714,7 @@ foozled
 froe
 fixedly
 fortunes
+footboard
 frenchism
 frankfort
 fizz
