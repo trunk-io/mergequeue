@@ -9239,7 +9239,6 @@ bioscope
 befits
 boylikeness
 bioscopy
-bioscopic
 bedecorate
 bioscopies
 biosensor
@@ -14573,6 +14572,7 @@ brasen
 brachiopodous
 brasenia
 braseros
+bioscopic
 backspin
 billheading
 brash
