@@ -12807,6 +12807,7 @@ angiocholecystitis
 angiochondroma
 angiodermatitis
 angiodiascopy
+amphiprostyle
 atrabile
 angiofibroma
 angiogeny
@@ -21484,7 +21485,6 @@ asperities
 attrib
 asperly
 aerologic
-amphiprostyle
 aspermatic
 aspermatism
 adrip
