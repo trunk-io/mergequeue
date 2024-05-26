@@ -11510,6 +11510,7 @@ bombload
 blumea
 blumes
 blunder
+backlighting
 benighting
 blunderbuss
 blunderbusses
@@ -11730,7 +11731,6 @@ bobcats
 binmen
 blet
 beboss
-backlighting
 bardolatry
 bobcoat
 bobeche
