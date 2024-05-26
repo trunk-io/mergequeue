@@ -21559,7 +21559,6 @@ calycle
 celestialize
 concredit
 concrement
-concresce
 concrescence
 concrescible
 concrescive
@@ -26745,6 +26744,7 @@ counteragent
 counteragitate
 counteragitation
 counteralliance
+concresce
 counterambush
 counterannouncement
 counteranswer
