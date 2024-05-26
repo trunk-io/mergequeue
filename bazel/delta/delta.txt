@@ -3193,7 +3193,6 @@ drowsihood
 dissimulated
 defeatism
 defeats
-defeature
 defecant
 dunnock
 dowless
@@ -6096,6 +6095,7 @@ dilli
 dardaol
 dehumanise
 demurer
+defeature
 disminister
 dungeonlike
 deputizes
