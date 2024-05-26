@@ -9467,7 +9467,6 @@ brachiotomy
 britannia
 beflowering
 birdglue
-birdhood
 birdhouse
 begall
 bromous
@@ -13770,6 +13769,7 @@ bovver
 basilinna
 bowable
 bapt
+birdhood
 bowback
 bowbells
 bushment
