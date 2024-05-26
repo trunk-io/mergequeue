@@ -5883,7 +5883,6 @@ escrol
 enhuile
 enhunger
 electromyographical
-enid
 emissary
 empties
 enif
@@ -8013,6 +8012,7 @@ epineuria
 epidermidalization
 exemplifiable
 epineurium
+enid
 eserines
 ectoethmoid
 eaning
