@@ -1673,6 +1673,7 @@ accouterment
 acemetic
 attouchement
 accouters
+acerated
 accoutre
 attire
 appurtenances
@@ -1887,7 +1888,6 @@ acer
 aceraceous
 acerae
 acerate
-acerated
 acerathere
 aceratherium
 acerbate
