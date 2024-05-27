@@ -12098,7 +12098,6 @@ anastate
 anastatus
 anastigmat
 anastigmatic
-assiduity
 anomorhomboid
 aspis
 anastomosed
@@ -13864,6 +13863,7 @@ acerola
 anoplotherioid
 amorality
 anoplotherium
+assiduity
 arrowed
 amid
 anoplura
