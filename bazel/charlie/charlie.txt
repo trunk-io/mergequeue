@@ -11628,7 +11628,6 @@ cholecystectomy
 cingulum
 cholecystectomized
 chimachima
-countermeasure
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
@@ -24404,6 +24403,7 @@ cooler
 coolerman
 coolers
 caviling
+countermeasure
 coolest
 coned
 crosspiece
