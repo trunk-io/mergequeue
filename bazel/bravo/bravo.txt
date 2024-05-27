@@ -10057,7 +10057,6 @@ biognosis
 bivalvia
 buro
 bivalvian
-bivalvular
 bivariant
 bivariate
 bivascular
@@ -14646,6 +14645,7 @@ brattishing
 brattled
 brattling
 bratwurst
+bivalvular
 brauna
 brauneria
 bullwork
