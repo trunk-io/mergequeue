@@ -9369,7 +9369,6 @@ bipinnarias
 bipinnate
 bipinnated
 bipinnatipartite
-bipinnatisect
 bipinnatisected
 brighter
 bowtie
@@ -18328,6 +18327,7 @@ buttonlike
 brahmans
 brightens
 brewst
+bipinnatisect
 buttons
 buttonweed
 buttonwood
