@@ -12641,7 +12641,6 @@ chronicled
 chronicles
 chronicling
 chronicon
-chronics
 craddy
 chronique
 chronist
@@ -12703,6 +12702,7 @@ chronoscopv
 chronostichon
 chronothermal
 chronotropic
+chronics
 chronotropism
 chroococcaceae
 cynanthropy
