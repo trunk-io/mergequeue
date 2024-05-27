@@ -390,7 +390,6 @@ grotty
 grandmamma
 gauntries
 galant
-galanthus
 goutiest
 guilery
 glaciometer
@@ -2562,6 +2561,7 @@ granitification
 gemmologists
 gemmulation
 gen
+galanthus
 graniferous
 gale
 gotched
