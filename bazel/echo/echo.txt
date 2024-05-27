@@ -3908,6 +3908,7 @@ emissaria
 endoenteritis
 emissaries
 emissile
+ephorates
 enalid
 epiglottis
 ekoi
@@ -7328,7 +7329,6 @@ endemics
 ensues
 economy
 epanorthidae
-ephorates
 epanorthoses
 edrioasteroid
 endocarpic
