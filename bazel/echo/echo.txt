@@ -5450,7 +5450,6 @@ entitledness
 enantiobiosis
 emulous
 emasculations
-electroendosmotic
 energical
 energid
 energise
@@ -13818,6 +13817,7 @@ extracollegiate
 euthenics
 electrotypic
 extracondensed
+electroendosmotic
 extracorporeally
 extracorpuscular
 emphasis
