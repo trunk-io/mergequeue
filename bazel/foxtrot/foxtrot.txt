@@ -1100,7 +1100,6 @@ ferriages
 farrage
 foldstool
 farrago
-fordone
 frizzed
 flyaways
 frigatoon
@@ -5908,6 +5907,7 @@ fraudlessness
 flooding
 font
 fructoses
+fordone
 floodlight
 forthinking
 francis
