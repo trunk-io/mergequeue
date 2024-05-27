@@ -5141,7 +5141,6 @@ glandules
 grapeful
 grippe
 gossipper
-glanduliform
 glanduligerous
 gazee
 gibel
@@ -6851,6 +6850,7 @@ glumella
 goniopholidae
 gland
 gamgee
+glanduliform
 graptoloidea
 grimliness
 golliwogs

@@ -5443,7 +5443,6 @@ anticourt
 anxieties
 anticogitative
 afforestment
-afforests
 afformative
 affray
 affrayers
@@ -7823,6 +7822,7 @@ aldebaranium
 algorithm
 aldehyde
 aldehydes
+afforests
 arsenicating
 aldehydine
 accompanists
