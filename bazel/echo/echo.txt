@@ -2978,7 +2978,6 @@ eliminated
 equaled
 eliminating
 ehuawa
-eliminator
 earmarked
 engineering
 eliminators
@@ -8345,6 +8344,7 @@ einstein
 evaginate
 epistolize
 epitheca
+eliminator
 erebus
 enclosable
 exterminated
