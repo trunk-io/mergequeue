@@ -3616,7 +3616,6 @@ embox
 egeria
 eluvium
 empoisoner
-enculturate
 embraceably
 equivalents
 embraced
@@ -5169,6 +5168,7 @@ endometrial
 endometriosis
 endomitosis
 endomorphy
+enculturate
 endomorphic
 endoneurium
 endonucleolus

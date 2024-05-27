@@ -7845,7 +7845,6 @@ cerulignol
 cerulignone
 ceruloplasmin
 cerumen
-cellarman
 cerumens
 ceruminal
 casa
@@ -14621,6 +14620,7 @@ completable
 cirsotomy
 cirsotomies
 cirterion
+cellarman
 cyrtoceras
 cyrtoceratitic
 chergui
