@@ -3638,7 +3638,6 @@ carandas
 crepidomata
 carangid
 carangidae
-carangids
 cooking
 carangin
 carangoid
@@ -15368,6 +15367,7 @@ claywares
 clayweed
 clam
 clamant
+carangids
 circumnavigatory
 clamantly
 ceric
