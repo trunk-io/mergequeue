@@ -3269,6 +3269,7 @@ actuated
 actuates
 actuating
 actuation
+admonitrix
 actuator
 actuators
 acture
@@ -4211,7 +4212,6 @@ admonitive
 admonitively
 arousers
 admonitorily
-admonitrix
 alkalinize
 admrx
 adnascence
