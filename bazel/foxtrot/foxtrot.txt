@@ -6636,7 +6636,6 @@ focusless
 focussed
 fluminose
 figurings
-focusses
 flumed
 focussing
 fod
@@ -8713,6 +8712,7 @@ fortunateness
 fissileness
 fillers
 falsifiers
+focusses
 fortunel
 foozled
 froe
