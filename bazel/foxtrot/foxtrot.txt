@@ -543,7 +543,6 @@ fallfish
 fally
 fierabras
 fallible
-frigga
 falling
 fussed
 falloff
@@ -4865,6 +4864,7 @@ fibbing
 fchar
 fractabling
 flamen
+frigga
 fetologist
 factionary
 fruits
