@@ -4355,7 +4355,6 @@ gaillard
 griph
 gilts
 gynandria
-gynandrian
 gynandries
 galenian
 gladiators
@@ -6527,6 +6526,7 @@ gaugership
 goitrogen
 grieced
 goldilocks
+gynandrian
 gunmaker
 guam
 grotto
