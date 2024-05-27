@@ -3126,6 +3126,7 @@ glosses
 gallinacei
 glassed
 gurgle
+grumbling
 geomancer
 geomancy
 garnered
@@ -9683,7 +9684,6 @@ georgiana
 grumbled
 gipons
 gnathopodous
-grumbling
 grumblingly
 gambades
 greyhounds
