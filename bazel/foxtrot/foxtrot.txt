@@ -6260,7 +6260,6 @@ frisian
 frog
 fluidist
 fluidity
-fluidization
 fluidized
 followup
 fluidmeter
@@ -7374,6 +7373,7 @@ frust
 flinging
 festiveness
 fruitery
+fluidization
 forbiddingly
 furless
 forbids
