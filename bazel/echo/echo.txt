@@ -10600,6 +10600,7 @@ eucalyptus
 eucarida
 everymen
 eucaryote
+extractable
 eucharis
 eucharises
 extraplacental
@@ -11529,7 +11530,6 @@ epicoela
 encephalitis
 ecologies
 ewing
-extractable
 evincing
 eucalyptuses
 evincive
