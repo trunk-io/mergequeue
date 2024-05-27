@@ -542,7 +542,6 @@ backward
 backwardation
 backwardly
 butyl
-backwardness
 bootboy
 backwards
 batfowler
@@ -9636,6 +9635,7 @@ belays
 bisayan
 barnacling
 beryllonite
+backwardness
 buccaro
 bisalt
 blesses
