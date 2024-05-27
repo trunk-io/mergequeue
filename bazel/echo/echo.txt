@@ -3196,7 +3196,6 @@ elsholtzia
 elsin
 elt
 eltrot
-eluant
 eluating
 enteritis
 elucidate
@@ -9598,6 +9597,7 @@ emmetropia
 esd
 exempt
 endosporous
+eluant
 esuriently
 esebrias
 exigible
