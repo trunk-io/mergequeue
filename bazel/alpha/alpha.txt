@@ -1853,7 +1853,6 @@ aluminum
 acentrous
 anastalsis
 acephala
-aspire
 antacrid
 acephali
 aventure
@@ -6525,6 +6524,7 @@ aberrate
 agrope
 agropyron
 agrostemma
+aspire
 agrosteral
 agrostographer
 agrostography
