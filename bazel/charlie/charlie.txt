@@ -5377,7 +5377,6 @@ casters
 castes
 casteth
 castice
-castigable
 castigate
 castigates
 contemplativeness
@@ -31688,6 +31687,7 @@ cesuras
 carbuncled
 cotyloid
 cuspidine
+castigable
 cuspidor
 cuspidors
 cuspids
