@@ -1137,7 +1137,6 @@ edificator
 earock
 edificatory
 edifice
-edificed
 edifices
 edified
 edifiers
@@ -1835,6 +1834,7 @@ expirant
 euphemous
 eighteens
 euryprognathous
+edificed
 eightfold
 eradiation
 enginous
