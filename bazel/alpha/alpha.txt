@@ -10403,7 +10403,6 @@ agao
 amercing
 america
 araneiform
-arrayed
 americanese
 academician
 americanisms
@@ -22414,6 +22413,7 @@ adversion
 astrospectroscopic
 astrotheology
 astrut
+arrayed
 asturian
 astuteness
 aglethead
