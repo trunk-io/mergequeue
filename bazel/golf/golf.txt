@@ -7161,7 +7161,6 @@ gore
 gorebill
 gearboxes
 gored
-gores
 gingerbready
 gorfly
 gastrotaxis
@@ -7880,6 +7879,7 @@ gallophobe
 grandad
 goggling
 guardroom
+gores
 gaspingly
 gnomically
 grandada
