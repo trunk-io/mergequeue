@@ -16723,7 +16723,6 @@ covings
 clapbread
 clote
 chayota
-clomb
 chaquetas
 cloth
 clothe
@@ -24407,6 +24406,7 @@ coolheadedly
 coolhouse
 coolie
 coolies
+clomb
 cooliman
 cooling
 concaver
