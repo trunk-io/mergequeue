@@ -6107,7 +6107,6 @@ bemangle
 bemar
 bemask
 brownistic
-bossier
 blephillia
 bemaster
 bemaul
@@ -7493,6 +7492,7 @@ byproduct
 botrycymose
 belabor
 betoyan
+bossier
 betoken
 boomdas
 busky
