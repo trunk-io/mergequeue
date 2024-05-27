@@ -6748,6 +6748,7 @@ ails
 allemandes
 acalycine
 advisory
+amarelles
 acarol
 autosign
 ailsyte
@@ -11505,7 +11506,6 @@ amusements
 amusers
 attractors
 authenticators
-amarelles
 amusette
 anisole
 amusia
