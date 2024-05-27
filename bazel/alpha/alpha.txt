@@ -9050,6 +9050,7 @@ allotments
 allotransplantation
 arterin
 allotriognathi
+anopsy
 allotriomorphic
 allotriophagy
 allotriophagia
@@ -13209,7 +13210,6 @@ animalculine
 animalculism
 animalculum
 animalic
-anopsy
 avunculize
 animalier
 animalillio
