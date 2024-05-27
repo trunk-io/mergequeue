@@ -5776,7 +5776,6 @@ equant
 exfoliation
 engrace
 epicele
-engraced
 engraffed
 expiations
 engrafter
@@ -9460,6 +9459,7 @@ escalope
 erlking
 escaloping
 escambron
+engraced
 euspongia
 escamotage
 exudate
