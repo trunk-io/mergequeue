@@ -16462,7 +16462,6 @@ clivers
 clivis
 clivises
 clivus
-clk
 clo
 cloaca
 cloacae
@@ -22934,6 +22933,7 @@ conservers
 conserves
 collated
 consy
+clk
 consider
 considerable
 celesta
