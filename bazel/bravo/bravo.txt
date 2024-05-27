@@ -764,6 +764,7 @@ badinages
 bearcoot
 brimborion
 badiner
+barmaster
 biblically
 badinerie
 birt
@@ -2694,7 +2695,6 @@ barm
 bollixes
 barmaids
 bututs
-barmaster
 benzoic
 barmbrack
 barmcloth
