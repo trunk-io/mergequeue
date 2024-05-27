@@ -2748,7 +2748,6 @@ cannulae
 cannulate
 circumscribe
 cannulated
-cursitor
 cannulating
 cannulation
 canoe
@@ -12804,6 +12803,7 @@ cauliflowers
 chuffiness
 chuffing
 carpologist
+cursitor
 chugalug
 chugalugged
 chugalugging
