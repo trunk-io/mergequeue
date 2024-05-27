@@ -9040,7 +9040,6 @@ allotypy
 angelon
 allotypies
 aquabib
-allotment
 allotments
 allotransplantation
 arterin
@@ -22840,6 +22839,7 @@ atonicity
 atonics
 atoning
 ageusia
+allotment
 atoningly
 atop
 alcelaphus
