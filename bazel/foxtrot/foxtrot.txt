@@ -231,6 +231,7 @@ fermenting
 facultatively
 faculty
 faculties
+fealty
 frostbound
 facultize
 frightening
@@ -1675,7 +1676,6 @@ faults
 frugivora
 feak
 federate
-fealty
 fumigates
 fear
 fimbles
