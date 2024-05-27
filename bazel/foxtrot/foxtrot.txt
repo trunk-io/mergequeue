@@ -1207,7 +1207,6 @@ fumigations
 flanken
 flustering
 fascism
-fume
 flibbertigibbet
 frighter
 foochowese
@@ -4903,6 +4902,7 @@ flamingant
 flamingos
 flong
 fermentitious
+fume
 feldsher
 fantaseid
 flaminical
