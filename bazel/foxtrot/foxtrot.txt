@@ -10573,6 +10573,7 @@ farasula
 falding
 foreland
 forestep
+fungused
 fooyung
 frsikets
 frt
@@ -10876,7 +10877,6 @@ felid
 frons
 footholds
 fluidisation
-fungused
 fishable
 fulgorid
 fon
