@@ -665,7 +665,6 @@ beletter
 boracic
 bacteriotrypsin
 bynames
-bungles
 bacteriotropic
 bubonoceze
 blepharedema
@@ -12014,6 +12013,7 @@ bickern
 bohemian
 bohemianism
 bohemium
+bungles
 basin
 braula
 biogens
