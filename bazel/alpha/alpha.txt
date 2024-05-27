@@ -6619,7 +6619,6 @@ aholds
 ahom
 ahorse
 ahorseback
-ahriman
 ahs
 ablare
 ahtena
@@ -21769,6 +21768,7 @@ asseveratingly
 afterstate
 assertorical
 alister
+ahriman
 amalaita
 assertorily
 autodynamic
