@@ -4483,7 +4483,6 @@ demeanor
 dayshine
 dactylograph
 disallowableness
-disembark
 demeanored
 dissidents
 devotee
@@ -7383,6 +7382,7 @@ demilunes
 depersonalised
 demiadult
 detonate
+disembark
 detonating
 detonation
 dispendious

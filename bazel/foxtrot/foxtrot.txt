@@ -10276,6 +10276,7 @@ fanzines
 fibroadenia
 flaming
 frogman
+furnishable
 formamide
 fractile
 frogmarch
@@ -11422,7 +11423,6 @@ flect
 fess
 floralize
 furnish
-furnishable
 fluoroformol
 foolship
 faddier
