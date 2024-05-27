@@ -4036,7 +4036,6 @@ estus
 emperil
 emperors
 eucalypti
-epilamellar
 electromotor
 ezan
 estrapade
@@ -9104,6 +9103,7 @@ expertized
 electrothanatosis
 eteocretes
 edriophthalma
+epilamellar
 erythrite
 endolaryngeal
 enfever
