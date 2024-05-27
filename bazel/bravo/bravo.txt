@@ -1129,6 +1129,7 @@ barkstone
 bedimmed
 brindled
 bluethroat
+barf
 bienseance
 bairnlier
 bairns
@@ -2514,7 +2515,6 @@ bonedog
 begod
 buphaga
 busies
-barf
 blens
 britzka
 blear
