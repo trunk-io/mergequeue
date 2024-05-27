@@ -410,7 +410,6 @@ grimly
 glyptographer
 guanacos
 galatea
-galateas
 glub
 glucogenesis
 galbula
@@ -5849,6 +5848,7 @@ gloveress
 glossiphonia
 glossiphonidae
 galvanomagnet
+galateas
 glossitis
 garbleable
 glossless
