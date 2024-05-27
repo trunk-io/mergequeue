@@ -4249,7 +4249,6 @@ gainbirth
 gringo
 gnars
 gymnasts
-grapplement
 gibbi
 gaspergou
 gigback
@@ -6249,6 +6248,7 @@ glossic
 ghostlify
 gnosis
 gnostic
+grapplement
 glaky
 gnostical
 gnosticity
