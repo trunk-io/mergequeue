@@ -4888,7 +4888,6 @@ flameouts
 formulize
 fictileness
 flamer
-flamers
 ferments
 flubbing
 fallback
@@ -5704,6 +5703,7 @@ foredeserved
 fecket
 fringepod
 fringed
+flamers
 flyspecking
 filipinos
 forleave
