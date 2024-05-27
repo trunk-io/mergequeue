@@ -2237,7 +2237,6 @@ electant
 electary
 epithet
 eudiometric
-enthraldom
 erected
 elysee
 electic
@@ -5067,6 +5066,7 @@ estray
 endocyst
 educatory
 endocystitis
+enthraldom
 experted
 eardrums
 earthbound
