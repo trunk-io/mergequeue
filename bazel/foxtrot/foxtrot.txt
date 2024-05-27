@@ -1678,7 +1678,6 @@ fumigates
 fear
 fimbles
 finite
-fearedly
 forearming
 fadeaways
 feaster
@@ -10231,6 +10230,7 @@ frizzy
 fleishig
 fleshlier
 formalism
+fearedly
 farce
 furdel
 fono
