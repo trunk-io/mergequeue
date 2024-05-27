@@ -1221,7 +1221,6 @@ echiuroid
 educability
 educables
 educand
-educatability
 eident
 elkhounds
 educatable
@@ -11045,6 +11044,7 @@ ecphonema
 embroglio
 eurycephalic
 epiglot
+educatability
 enridged
 eurycerotidae
 eurychoric
