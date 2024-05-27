@@ -8454,6 +8454,7 @@ bepelt
 bimini
 bighead
 bedstock
+burleycue
 beecher
 bigheaded
 brusque
@@ -17720,7 +17721,6 @@ blackfin
 blueings
 burlaps
 boomlets
-burleycue
 burler
 burlesk
 burlesks
