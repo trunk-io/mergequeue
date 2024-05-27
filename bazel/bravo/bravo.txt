@@ -15213,6 +15213,7 @@ bridge
 bridgeable
 bighorn
 budtime
+burlace
 bridgebuilder
 bridged
 bridgehead
@@ -17714,7 +17715,6 @@ bushwah
 bridegod
 burkundaz
 burl
-burlace
 birgus
 blackfin
 blueings
