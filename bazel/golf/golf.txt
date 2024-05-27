@@ -2438,7 +2438,6 @@ gelder
 grisly
 geldesprung
 geldings
-gorgets
 gelds
 grovelings
 gelechia
@@ -3324,6 +3323,7 @@ gerbillus
 grainedness
 gastornis
 goetical
+gorgets
 granes
 gere
 gereagle
