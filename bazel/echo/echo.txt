@@ -4097,7 +4097,6 @@ exorcist
 empiry
 escapers
 empiric
-encipherments
 empirical
 empiricalness
 empiricism
@@ -8984,6 +8983,7 @@ endarterium
 ergotizing
 ewder
 ergotoxine
+encipherments
 ergots
 evap
 erses
