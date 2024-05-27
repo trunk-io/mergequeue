@@ -774,6 +774,7 @@ betterer
 badland
 badlands
 buba
+bassetite
 bat
 badman
 badmen
@@ -2552,7 +2553,6 @@ barghests
 beslash
 barging
 bargir
-bassetite
 barguest
 barguests
 buzylene
