@@ -11742,7 +11742,6 @@ anisopleural
 anaglyphical
 anaglyphics
 anaglyphs
-anaglypta
 anaglyptical
 aldim
 anaglyptography
@@ -12269,6 +12268,7 @@ aequorin
 amblypoda
 anchusine
 ancien
+anaglypta
 anciency
 anciennete
 anciens
