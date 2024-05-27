@@ -27778,7 +27778,6 @@ cohog
 coxa
 cupronickel
 craw
-condition
 coxae
 clockkeeper
 coxal
@@ -31118,6 +31117,7 @@ corta
 cupidone
 cupiuba
 cupless
+condition
 chancroids
 cavities
 cupmaker
