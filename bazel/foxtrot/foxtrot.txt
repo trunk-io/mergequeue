@@ -4553,7 +4553,6 @@ fairlike
 flypaper
 fittage
 flumadiddle
-fitted
 fitters
 fitty
 flannelmouths
@@ -7576,6 +7575,7 @@ foredefeated
 frankheartedness
 flightworthy
 foreshaft
+fitted
 flavorings
 foredevote
 fermentation
