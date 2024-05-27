@@ -11216,6 +11216,7 @@ blindages
 burgomaster
 bloodwite
 bloodwood
+barky
 burgeoned
 bloodworm
 biquadratic
@@ -14833,7 +14834,6 @@ breakthrough
 breakthroughs
 barchan
 breakweather
-barky
 brachets
 breakwind
 beknotting
