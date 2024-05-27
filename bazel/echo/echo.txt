@@ -4003,7 +4003,6 @@ euphoniousness
 exhilaratory
 empanel
 expoundable
-empaneled
 empanelling
 empanels
 emanant
@@ -5784,6 +5783,7 @@ extrovertively
 exposedness
 engrailed
 engrained
+empaneled
 encyrtid
 epizoicide
 engrainer

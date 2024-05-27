@@ -635,7 +635,6 @@ bacteriologist
 bacteriologists
 bacteriopathology
 burnoose
-bacteriophages
 bacteriophagy
 banquo
 bacteriophagic
@@ -5632,6 +5631,7 @@ backstamp
 bejezebel
 beadhouses
 bricksetter
+bacteriophages
 bejig
 bejuco
 bontebucks
