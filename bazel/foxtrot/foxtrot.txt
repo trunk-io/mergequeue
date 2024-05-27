@@ -904,6 +904,7 @@ fanteeg
 forcive
 fantigue
 fantoccini
+faint
 fantocine
 flavor
 fanums
@@ -3128,7 +3129,6 @@ fibrocement
 forechoice
 fibrocyst
 fibrocystoma
-faint
 federalness
 formulas
 fibrocyte
