@@ -23343,7 +23343,6 @@ consultor
 consults
 consumable
 consumate
-consumated
 consumating
 cosmopolitical
 consume
@@ -27920,6 +27919,7 @@ crabut
 crabweed
 coreid
 crabwise
+consumated
 crabwood
 corms
 cracca
