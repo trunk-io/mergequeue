@@ -19973,7 +19973,6 @@ armguard
 aethon
 armhole
 armhoop
-adpao
 acapsular
 adeptest
 army
@@ -25255,6 +25254,7 @@ aphasiology
 azido
 apagoges
 azygobranchiate
+adpao
 azygos
 azurous
 azygoses
