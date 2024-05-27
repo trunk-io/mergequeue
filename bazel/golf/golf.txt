@@ -829,7 +829,6 @@ galvanothermy
 gangliac
 grooper
 gris
-ghrush
 gandergoose
 gottlieb
 gamari
@@ -4222,6 +4221,7 @@ ganymedes
 gilder
 gimleteyed
 glovey
+ghrush
 gimleting
 gimlets
 gimmal
