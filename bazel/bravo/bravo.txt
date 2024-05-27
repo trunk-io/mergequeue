@@ -4620,7 +4620,6 @@ berceau
 buttonholer
 bedad
 bladeless
-basecoat
 bedaggle
 beday
 biddable
@@ -12466,6 +12465,7 @@ bondages
 bless
 bondar
 browallia
+basecoat
 bockerel
 barkpeel
 bonderize
