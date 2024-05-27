@@ -2199,7 +2199,6 @@ baptizable
 baptized
 befriend
 baptizement
-benzpyrene
 baptizer
 blackmailed
 biplanar
@@ -10356,6 +10355,7 @@ bladdernut
 bladderpod
 bladderseed
 bairnliest
+benzpyrene
 bladderwort
 blading
 bladderwrack
