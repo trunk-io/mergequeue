@@ -9459,6 +9459,7 @@ aluminous
 alps
 alquier
 aversions
+altazimuth
 aerobated
 alraun
 already
@@ -9500,7 +9501,6 @@ altarpieces
 altars
 armbone
 altarwise
-altazimuth
 alter
 alterability
 alterable
