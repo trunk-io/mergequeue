@@ -3254,6 +3254,7 @@ defendable
 dikast
 demimondaine
 defendant
+dorsel
 dejeuners
 defendants
 defended
@@ -15796,7 +15797,6 @@ decasualization
 dorsals
 dorsalwards
 dorse
-dorsel
 dorser
 dysanalyte
 dorsers
