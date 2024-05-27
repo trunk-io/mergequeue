@@ -2572,7 +2572,6 @@ egotists
 electrobrasser
 ee
 engulfment
-electrooptically
 electroori
 encomendero
 eirenicon
@@ -12566,6 +12565,7 @@ existlessness
 exists
 epistemological
 examining
+electrooptically
 exit
 exsects
 exite
