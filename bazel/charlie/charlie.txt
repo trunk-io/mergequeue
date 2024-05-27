@@ -10685,6 +10685,7 @@ chlamydes
 chilopsis
 chylosis
 chilostomatous
+corvo
 chilotomy
 chilotomies
 chylous
@@ -26045,7 +26046,6 @@ corvinas
 corvine
 corviser
 clapotis
-corvo
 corvoid
 corvorant
 corvus
