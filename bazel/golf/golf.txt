@@ -2086,7 +2086,6 @@ gaskings
 gaydiang
 gageite
 genarch
-gaussmeter
 gauster
 granville
 gausterer
@@ -3930,6 +3929,7 @@ gienah
 gif
 gradientia
 gamine
+gaussmeter
 gifola
 gaieties
 gustoes
