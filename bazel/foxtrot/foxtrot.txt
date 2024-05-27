@@ -5431,7 +5431,6 @@ fletchers
 fletches
 furrower
 feynesses
-fleuret
 filionymic
 financier
 footsores
@@ -6347,6 +6346,7 @@ ficklehearted
 fatal
 furcraeas
 forehands
+fleuret
 fluoboric
 fluoboride
 foollike
