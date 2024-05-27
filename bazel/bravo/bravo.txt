@@ -1884,7 +1884,6 @@ burdon
 brownism
 brython
 bakehouse
-bandhava
 bandhook
 bandicoy
 bonzes
@@ -11269,6 +11268,7 @@ blotch
 beestride
 blotches
 buceros
+bandhava
 blotchier
 bestrapped
 blotchiness
