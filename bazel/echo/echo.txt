@@ -8855,7 +8855,6 @@ extent
 encroachment
 erd
 estivate
-eyehook
 eagers
 erechtheum
 erechtheus
@@ -10556,6 +10555,7 @@ equatoreal
 etruscology
 etta
 erubescence
+eyehook
 ending
 equation
 ettercap
