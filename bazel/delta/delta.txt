@@ -12006,7 +12006,6 @@ disencharm
 drip
 disenclose
 diammine
-disencumbered
 disencumberment
 discriminate
 disendow
@@ -12338,6 +12337,7 @@ deathweed
 dishcloth
 decrepity
 despairer
+disencumbered
 dishcloths
 dishclout
 dishcross
