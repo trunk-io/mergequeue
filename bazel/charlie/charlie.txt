@@ -3427,6 +3427,7 @@ capromys
 capron
 caponiser
 comprehends
+curare
 cuemanship
 cotterite
 capsella
@@ -17644,7 +17645,6 @@ calabashes
 columelliform
 catamite
 coccosphere
-curare
 concrescent
 coccosteid
 coccosteidae
