@@ -7179,7 +7179,6 @@ enwove
 enwrapping
 ethnomanic
 endophytically
-enwreath
 endopodite
 ecumenic
 enneasyllabic
@@ -13094,6 +13093,7 @@ expertised
 exilarch
 electrophotometry
 emulated
+enwreath
 earclip
 enhancive
 enamber
