@@ -1584,6 +1584,7 @@ fegary
 favorableness
 farris
 fissive
+facebread
 fooster
 fovent
 floridian
@@ -3504,7 +3505,6 @@ feuilletonist
 figurer
 flyweight
 flocculous
-facebread
 figures
 figuresome
 foresting
