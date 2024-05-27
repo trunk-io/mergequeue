@@ -1132,6 +1132,7 @@ edictum
 edicule
 echolalia
 edificate
+executive
 echinology
 edification
 exfigure
@@ -13222,7 +13223,6 @@ effronted
 epilobiaceae
 echelon
 evangelicism
-executive
 enigmatization
 explicitness
 europe
