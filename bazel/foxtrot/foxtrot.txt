@@ -5370,7 +5370,6 @@ fley
 fearers
 farhands
 frissons
-foxed
 flem
 flemer
 fluozirconic
@@ -9823,6 +9822,7 @@ formular
 foolhardiest
 fascet
 fatigability
+foxed
 fastiia
 flatuous
 frescade
