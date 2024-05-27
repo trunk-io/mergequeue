@@ -9812,7 +9812,6 @@ chelator
 chelators
 chelerythrine
 chelicer
-chelicerate
 cysts
 chelide
 chelydidae
@@ -16242,6 +16241,7 @@ chechen
 clime
 calderium
 clymenia
+chelicerate
 climes
 climograph
 clinah
