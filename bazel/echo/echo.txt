@@ -5094,6 +5094,7 @@ endocrinology
 ebraick
 emergencies
 exposures
+excesses
 entogenous
 endocrinologist
 ecdysones
@@ -7796,7 +7797,6 @@ epifaunas
 entassment
 epigaea
 epigamic
-excesses
 eubranchipus
 epigaster
 enlighteningly
