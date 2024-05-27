@@ -9287,7 +9287,6 @@ chasteweed
 chasty
 conjugally
 chastiment
-chastisable
 chastise
 chastised
 chastiser
@@ -19552,6 +19551,7 @@ colpoptosis
 colporrhagia
 colporrhaphy
 colporrhea
+chastisable
 colporrhexis
 colport
 colportage
