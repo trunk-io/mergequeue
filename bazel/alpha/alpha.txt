@@ -3330,7 +3330,6 @@ acustom
 ambassadeur
 acutance
 acutances
-acutate
 acute
 acutely
 acutenaculum
@@ -19928,6 +19927,7 @@ ambulatoriums
 armament
 autochthonous
 armamentary
+acutate
 armamentarium
 armangite
 armary
