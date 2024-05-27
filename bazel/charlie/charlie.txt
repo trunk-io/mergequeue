@@ -7579,7 +7579,6 @@ cercolabes
 cercolabidae
 cercomonad
 cercomonadidae
-cercopid
 continent
 cercopithecid
 contracting
@@ -24456,6 +24455,7 @@ cumquats
 caracals
 cooperation
 cooperationist
+cercopid
 chilognathan
 cooperative
 cuissart
