@@ -19693,7 +19693,6 @@ com
 comprehensor
 coma
 comprobate
-carillon
 comacine
 comade
 comagmatic
@@ -28276,6 +28275,7 @@ capiteaux
 cyclometries
 crapshooters
 crumlet
+carillon
 crapshooting
 colchyte
 crare
