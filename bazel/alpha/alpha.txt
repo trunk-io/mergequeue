@@ -7867,6 +7867,7 @@ aphidicide
 aldazine
 aldoheptose
 aldoketene
+amyrol
 aldol
 assured
 aldolization
@@ -10765,7 +10766,6 @@ alevins
 amire
 amyris
 abattis
-amyrol
 amyroot
 ablatively
 amirs
