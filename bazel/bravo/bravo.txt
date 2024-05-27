@@ -1833,7 +1833,6 @@ bridgewall
 bushwood
 bananivorous
 banatite
-banausic
 billycans
 banbury
 banc
@@ -14228,6 +14227,7 @@ bradoons
 bemusement
 brads
 butyne
+banausic
 bradsot
 byword
 braeface
