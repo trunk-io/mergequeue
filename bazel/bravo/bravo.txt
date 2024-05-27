@@ -12148,7 +12148,6 @@ boldnesses
 boldo
 boldoine
 benzofluorene
-bannets
 basti
 byzantinesque
 boldos
@@ -15670,6 +15669,7 @@ brochantite
 bananaquit
 broche
 brochettes
+bannets
 bauson
 burble
 brochidodromous
