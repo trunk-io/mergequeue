@@ -5729,7 +5729,6 @@ afterwhile
 archchief
 afterwise
 afterwit
-afterword
 afterwork
 agathodemon
 aint
@@ -9976,6 +9975,7 @@ airlocks
 akroterial
 amazedly
 aquadag
+afterword
 amazedness
 amazeful
 amazement
