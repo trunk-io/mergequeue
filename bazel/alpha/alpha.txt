@@ -10609,7 +10609,6 @@ amygdalothripsis
 amygdalotome
 appaloosas
 amygdonitrile
-amygdule
 amygdules
 amigos
 amiidae
@@ -11254,6 +11253,7 @@ amphimacer
 aldononose
 amphimictic
 antired
+amygdule
 amphimictical
 ares
 amphimorula
