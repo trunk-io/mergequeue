@@ -12511,7 +12511,6 @@ braeman
 bloomiest
 bulbose
 bondsmen
-bondstone
 bondswoman
 bondswomen
 bagpiped
@@ -12652,6 +12651,7 @@ brike
 bonspiel
 bedplate
 bonteboks
+bondstone
 birthplace
 bontebuck
 bonum

@@ -4267,6 +4267,7 @@ ems
 estradiot
 emulant
 emulations
+embrangle
 emulatory
 echograph
 emule
@@ -8862,7 +8863,6 @@ eagers
 erechtheum
 erechtheus
 erechtites
-embrangle
 euphemist
 episcopes
 erectable
