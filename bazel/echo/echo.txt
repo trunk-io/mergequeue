@@ -4646,6 +4646,7 @@ enchodontid
 enchodontoid
 enchodus
 ensilaging
+engineries
 ermelin
 eminence
 epimerase
@@ -5692,7 +5693,6 @@ engineman
 eudidymite
 extruct
 enginery
-engineries
 engirding
 embrace
 engirdle
