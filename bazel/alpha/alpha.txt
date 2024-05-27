@@ -5785,7 +5785,6 @@ anisomelus
 agalena
 agalenidae
 apellous
-agalite
 amplifier
 agalloch
 ambalam
@@ -11026,6 +11025,7 @@ ascensiontide
 amorphia
 aerobion
 amorphism
+agalite
 amorphophallus
 amorphotae
 amorphous
