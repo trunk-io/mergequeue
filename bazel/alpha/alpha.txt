@@ -6336,7 +6336,6 @@ aul
 alchemise
 agoniatite
 aegerian
-arteriorrhagia
 agonic
 agonies
 agonise
@@ -14644,6 +14643,7 @@ anthroponomics
 anthroponomist
 anthropopathy
 anthropopathia
+arteriorrhagia
 aquaplaned
 aestival
 aminotransferase
