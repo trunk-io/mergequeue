@@ -9084,7 +9084,6 @@ eves
 enargite
 erythraean
 erythraemia
-exsiccate
 echinus
 erythrasma
 erythremia
@@ -11456,6 +11455,7 @@ enhaloing
 evernia
 evernioid
 encephalosis
+exsiccate
 evert
 echinorhinidae
 evertebrata
