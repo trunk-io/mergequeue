@@ -419,6 +419,7 @@ flints
 fulminate
 fauchards
 fishgig
+froth
 fur
 fairship
 fairway
@@ -10498,7 +10499,6 @@ frostroot
 fanwork
 frillery
 frot
-froth
 forebodings
 formulatory
 frothier
