@@ -202,7 +202,6 @@ epicarpal
 earthsmoke
 earthwall
 exhumed
-earthwards
 earthworks
 ethmovomer
 enddamaged
@@ -9037,6 +9036,7 @@ eryngo
 eringos
 euphroe
 ectotherm
+earthwards
 eryngos
 erinys
 erinite
