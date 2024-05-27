@@ -7267,7 +7267,6 @@ bullated
 beanfest
 bestay
 bestayed
-bestamp
 bestand
 bestarve
 bellical
@@ -9162,6 +9161,7 @@ biennials
 biometricist
 beavery
 babelike
+bestamp
 biometries
 biomicroscopies
 blithelike
