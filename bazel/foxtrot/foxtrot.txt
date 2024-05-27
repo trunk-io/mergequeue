@@ -647,7 +647,6 @@ fringefoot
 friedcake
 fam
 famacide
-ferromagnet
 fletcherite
 flatweed
 furlanas
@@ -11001,6 +11000,7 @@ fouling
 frigidaire
 fervescence
 fumaroidal
+ferromagnet
 fumaroles
 forerunning
 floyd
