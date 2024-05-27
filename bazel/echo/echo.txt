@@ -7512,6 +7512,7 @@ exodontic
 estall
 electrosynthesis
 ethylate
+electrocoagulation
 encroaches
 exacum
 epibatholithic
@@ -8005,7 +8006,6 @@ excitonic
 eteocreton
 embower
 energetical
-electrocoagulation
 epinaoi
 epinaos
 exceeder
