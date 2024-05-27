@@ -3637,7 +3637,6 @@ conjugable
 commendam
 carancha
 carancho
-caranda
 caranday
 carandas
 crepidomata
@@ -20325,6 +20324,7 @@ conjectured
 cephalometry
 commoves
 commoving
+caranda
 commulative
 communa
 communal
