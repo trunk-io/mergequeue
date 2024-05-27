@@ -19216,7 +19216,6 @@ coadapted
 colloquialize
 colloquializer
 colloquially
-colloquialness
 crowl
 colloquiquia
 cataracteg
@@ -22885,6 +22884,7 @@ consequentiality
 consequentialities
 chilenite
 consequentialness
+colloquialness
 consequently
 choremen
 cognateness
