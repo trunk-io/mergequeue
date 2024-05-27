@@ -1654,7 +1654,6 @@ dozening
 divergency
 deamidase
 dentimeter
-deamidation
 deamidization
 deaminase
 decating
@@ -8774,6 +8773,7 @@ diatomine
 diatomist
 diaporesis
 dysmerogenesis
+deamidation
 diatomous
 demythologisation
 diatoms
