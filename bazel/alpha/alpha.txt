@@ -19922,6 +19922,7 @@ armament
 autochthonous
 armamentary
 acutate
+asymtote
 armamentarium
 armangite
 armary
@@ -21312,7 +21313,6 @@ asymptote
 accompletive
 asymptotes
 asymptotically
-asymtote
 aquafortist
 aggrievement
 asymtotic
