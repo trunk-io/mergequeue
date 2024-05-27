@@ -6533,7 +6533,6 @@ commissaries
 caxon
 caxton
 chokidar
-caxtonian
 caza
 cazimi
 chamois
@@ -18185,6 +18184,7 @@ condylarth
 coercement
 classicising
 coercends
+caxtonian
 coercer
 coercers
 coercibility
