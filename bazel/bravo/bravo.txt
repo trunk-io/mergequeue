@@ -818,6 +818,7 @@ bratticer
 brickier
 brachering
 bafflement
+beswarmed
 blubberhead
 balefulness
 baffleplate
@@ -7373,7 +7374,6 @@ bestuds
 bescreens
 besully
 beswarm
-beswarmed
 besweatered
 beswelter
 bethuel
