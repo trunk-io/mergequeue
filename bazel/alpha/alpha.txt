@@ -6014,7 +6014,6 @@ apical
 anthropodus
 anartismos
 agglutinate
-agglutinated
 alehoof
 agglutination
 arenaceous
@@ -24244,6 +24243,7 @@ autonomy
 amusing
 autonomically
 autonomist
+agglutinated
 autonomize
 asphaltlike
 autonomous
