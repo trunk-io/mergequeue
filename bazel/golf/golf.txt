@@ -5865,7 +5865,6 @@ glancer
 goldweed
 gallate
 grecizes
-gorling
 geostrategy
 grandeeship
 gunfighter
@@ -7634,6 +7633,7 @@ grader
 gradgrind
 gud
 gradient
+gorling
 gamopetalae
 gutty
 gradin
