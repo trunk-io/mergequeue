@@ -11696,7 +11696,6 @@ choleric
 cholerically
 cricothyroid
 cholericness
-choleriform
 cholerigenous
 cholerine
 choleroid
@@ -25003,6 +25002,7 @@ corbiculae
 corbiculate
 corbiculum
 corbie
+choleriform
 corbies
 carpools
 corbiestep

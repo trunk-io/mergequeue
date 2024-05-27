@@ -6428,7 +6428,6 @@ fluorobenzene
 flypasts
 foreship
 ferritin
-frivoled
 fluoaluminate
 fluorogen
 fluorometry
@@ -10279,6 +10278,7 @@ frogman
 formamide
 fractile
 frogmarch
+frivoled
 fission
 farrieries
 flowerful
