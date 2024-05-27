@@ -9294,7 +9294,6 @@ bathysmal
 bowl
 botanists
 becalmment
-behaves
 biotelemetries
 biotical
 beguilingness
@@ -12514,6 +12513,7 @@ bierbalk
 bondservant
 bondship
 bondslave
+behaves
 bondsman
 braeman
 bloomiest
