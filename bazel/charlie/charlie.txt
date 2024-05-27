@@ -7042,7 +7042,6 @@ centaurium
 constructure
 centauromachy
 centauromachia
-centaurus
 centavo
 centena
 centenar
@@ -19863,6 +19862,7 @@ cometographical
 cometology
 comets
 ceral
+centaurus
 comeupance
 comeuppance
 cassythaceae
