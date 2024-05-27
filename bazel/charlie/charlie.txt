@@ -21513,7 +21513,6 @@ conconscious
 concordable
 concordably
 concordal
-concordance
 concordancer
 concordances
 concordancy
@@ -31618,6 +31617,7 @@ curvities
 curvle
 coconucan
 curvograph
+concordance
 cancelier
 curvometer
 curvous
