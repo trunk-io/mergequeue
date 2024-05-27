@@ -6558,6 +6558,7 @@ benzothiazoline
 benzothiodiazole
 biternate
 benzothiofuran
+brachistochronous
 benzothiophene
 benzothiopyran
 benzotriazole
@@ -14096,7 +14097,6 @@ boloed
 brass
 brachistochrone
 brachistochronic
-brachistochronous
 baronies
 brachystomatous
 brachystomous
