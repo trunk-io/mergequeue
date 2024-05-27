@@ -813,7 +813,6 @@ flog
 fissidentaceae
 fanions
 fallout
-firebolt
 finicalness
 francophobia
 faery
@@ -2297,6 +2296,7 @@ floored
 fendillation
 fending
 fends
+firebolt
 feasor
 filator
 filches
