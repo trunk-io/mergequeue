@@ -5746,7 +5746,6 @@ gradative
 grx
 gregau
 glomerulate
-glomerule
 glomerulonephritis
 gaduin
 geomorphogeny
@@ -9857,6 +9856,7 @@ garrisoning
 guanines
 guanize
 grendel
+glomerule
 gagman
 genders
 guans
