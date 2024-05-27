@@ -9046,6 +9046,7 @@ biocoenoses
 biocoenotic
 biodegradability
 biodegradable
+blub
 becassocked
 biodegrade
 beleap
@@ -11370,7 +11371,6 @@ blowziness
 blowzing
 bls
 badgerbrush
-blub
 blickey
 blubbed
 blubber
