@@ -3131,7 +3131,6 @@ geomancer
 geomancy
 garnered
 gushingness
-gazer
 grumes
 ginglymoidal
 geomant
@@ -10839,6 +10838,7 @@ guzzle
 gersdorffite
 guzzled
 granules
+gazer
 grumium
 geason
 gillied

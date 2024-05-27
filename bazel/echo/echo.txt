@@ -10818,7 +10818,6 @@ eyelight
 eulogies
 euphonic
 eulogism
-eulogist
 eulogistic
 entelodont
 eulogistical
@@ -12689,6 +12688,7 @@ essays
 exonerative
 electronography
 egling
+eulogist
 exonerator
 esotericist
 exonerators
