@@ -9606,7 +9606,6 @@ colleagued
 checkrow
 checkrowed
 checkrower
-checkrowing
 consummatively
 checkrows
 checks
@@ -12528,6 +12527,7 @@ chromodiascope
 chromogen
 chromogene
 chromogenesis
+checkrowing
 choriambuses
 cingulate
 chamaecrista
