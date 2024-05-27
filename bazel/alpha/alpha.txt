@@ -9258,7 +9258,6 @@ almsmen
 almswoman
 almuces
 almud
-amides
 almude
 ambroids
 advocaat
@@ -23677,6 +23676,7 @@ atik
 auscultating
 auscultation
 auscultative
+amides
 auscultatory
 auscultoscope
 anisostemonous
