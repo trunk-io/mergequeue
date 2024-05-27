@@ -8548,7 +8548,6 @@ forninst
 firedragon
 factitious
 fornix
-forspent
 fantast
 forpet
 forpining
@@ -11713,6 +11712,7 @@ frameless
 fumaryl
 fiancailles
 falus
+forspent
 frowzily
 futuristically
 futurists
