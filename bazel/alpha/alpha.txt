@@ -829,6 +829,7 @@ apptd
 abstractedness
 ambilogy
 acromyodic
+antisag
 algarot
 abrus
 auksinu
@@ -16175,7 +16176,6 @@ aguara
 antis
 antisabbatarian
 antisacerdotalist
-antisag
 antisaloon
 apemantus
 atrophied
