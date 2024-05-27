@@ -10476,7 +10476,6 @@ amharic
 amherstite
 asbestus
 amyotrophy
-amhran
 attribute
 asherites
 araba
@@ -13222,6 +13221,7 @@ animalise
 animalising
 anathematizing
 anthelions
+amhran
 animalism
 aerial
 animalist
