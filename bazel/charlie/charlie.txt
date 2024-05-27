@@ -8165,7 +8165,6 @@ cattle
 chaffinches
 chaffless
 chafflike
-chaffman
 culicines
 chrysograph
 codiniac
@@ -28113,6 +28112,7 @@ cran
 cranage
 cranberries
 cranch
+chaffman
 chondrigen
 cranching
 crandall
