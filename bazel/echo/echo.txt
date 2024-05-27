@@ -2319,7 +2319,6 @@ epicenity
 eremitic
 excuderunt
 epistroma
-electrocapillarity
 electrocardiogram
 exoperidium
 electrocardiograms
@@ -12159,6 +12158,7 @@ enregister
 equanimity
 elytrorrhaphy
 especial
+electrocapillarity
 excerptor
 excurrent
 excurse
