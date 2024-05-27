@@ -1217,7 +1217,6 @@ edriasteroidea
 edrioasteroidea
 elixed
 edriophthalmatous
-echiuroid
 educability
 educables
 educand
@@ -11092,6 +11091,7 @@ elemol
 elapoid
 euhages
 eurythermous
+echiuroid
 ejaculate
 eogaean
 eurythmic
