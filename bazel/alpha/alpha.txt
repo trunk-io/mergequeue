@@ -11799,7 +11799,6 @@ analemma
 analemmas
 analemmata
 analepses
-analepsis
 analeptic
 anthidium
 analgesia
@@ -14499,6 +14498,7 @@ anthracomarti
 anthracomartus
 anthracometer
 ambulancing
+analepsis
 anthracometric
 anthraconecrosis
 abecedarium
