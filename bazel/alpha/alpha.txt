@@ -8426,7 +8426,6 @@ ankylophobia
 aliptae
 alipteria
 alipterion
-aliptes
 aliptic
 aporia
 aliptteria
@@ -11222,6 +11221,7 @@ aerophilia
 amphigaea
 aerostat
 amphigaean
+aliptes
 amphigam
 artfully
 ametria
