@@ -5254,7 +5254,6 @@ glycoside
 gregarinous
 goldcup
 gnatflower
-glauconia
 glauconiidae
 glaucophanite
 gammick
@@ -8571,6 +8570,7 @@ greatness
 greave
 groundway
 gumtrees
+glauconia
 greaved
 gonocalycine
 gyges
