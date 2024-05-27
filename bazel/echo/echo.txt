@@ -5309,7 +5309,6 @@ endosteum
 exploitative
 equipments
 excarnate
-enmagazine
 einkanter
 explicators
 endostosis
@@ -12330,6 +12329,7 @@ exenterate
 eptatretus
 equilucent
 exerce
+enmagazine
 exercent
 extradialectal
 exercise
