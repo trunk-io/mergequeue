@@ -6493,7 +6493,6 @@ excuss
 empyrical
 entamoebic
 entangled
-entangledness
 endotrachelitis
 elocutioner
 enwrapt
@@ -10909,6 +10908,7 @@ euphausid
 excavation
 euphausiid
 ensigncies
+entangledness
 ethnic
 eligibilities
 endostomata
