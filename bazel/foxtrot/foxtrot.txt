@@ -4369,6 +4369,7 @@ furlough
 fub
 fishman
 folic
+fistuca
 fishmonger
 floorward
 fraternizer
@@ -4501,7 +4502,6 @@ fossilify
 foremistress
 fosslfying
 fisheye
-fistuca
 foxchop
 forrue
 filmist
