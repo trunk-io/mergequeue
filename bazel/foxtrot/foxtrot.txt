@@ -5340,6 +5340,7 @@ fastness
 floorwalkers
 forager
 fang
+fittable
 fitchery
 filterable
 fireclay
@@ -7488,7 +7489,6 @@ fragmentization
 feathering
 fackins
 falconine
-fittable
 flocked
 forebitt
 forebitten
