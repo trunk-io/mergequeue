@@ -820,7 +820,6 @@ graywether
 galvanosurgery
 gooseherd
 gershon
-galvanotherapy
 gurle
 glossolalist
 galvanothermometer
@@ -6738,6 +6737,7 @@ gordius
 goldworker
 gucks
 gondoliers
+galvanotherapy
 goneness
 gonenesses
 gladsome
