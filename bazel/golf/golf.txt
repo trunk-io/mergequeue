@@ -113,7 +113,6 @@ goldthread
 goodnaturedness
 glaive
 geranial
-genotype
 gadgetry
 generals
 geezer
@@ -7330,6 +7329,7 @@ globated
 gamming
 gassings
 gullishness
+genotype
 glycerol
 gossipped
 gerrymandered
