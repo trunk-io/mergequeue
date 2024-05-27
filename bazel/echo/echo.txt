@@ -1870,7 +1870,6 @@ exarticulate
 emcees
 effeminisation
 epicoracoidal
-eila
 eileen
 eurygnathism
 eyliad
@@ -2819,6 +2818,7 @@ emitter
 electrometallurgical
 eleoblast
 eleolite
+eila
 eleomargaric
 eleoplast
 eleoptene
