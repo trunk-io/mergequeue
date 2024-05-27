@@ -2083,7 +2083,6 @@ extrastate
 elapidae
 externity
 elapids
-euthyneural
 empurple
 elapine
 elapse
@@ -4242,6 +4241,7 @@ emptiness
 emptio
 emption
 emptor
+euthyneural
 encipher
 expo
 emptory
