@@ -2388,7 +2388,6 @@ grieflessness
 gekkonoid
 geomoroi
 galante
-gelable
 gelandelaufer
 glyoxaline
 gymnodiniaceae
@@ -7542,6 +7541,7 @@ glucolysis
 getup
 gowl
 gowlan
+gelable
 gowning
 gownsman
 gallflies
