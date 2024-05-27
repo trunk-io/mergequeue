@@ -5830,6 +5830,7 @@ catenate
 crooisite
 catenates
 catenating
+convoy
 cerberic
 catenation
 catenative
@@ -16924,7 +16925,6 @@ clue
 continuations
 clued
 clueing
-convoy
 clueless
 cephalothorax
 clisiocampa

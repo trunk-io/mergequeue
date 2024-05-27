@@ -806,7 +806,6 @@ fanion
 frowsy
 forgedly
 flusher
-faltering
 footlike
 fortes
 flog
@@ -11479,6 +11478,7 @@ furrowless
 furrowlike
 forewish
 furrows
+faltering
 furrure
 fursemide
 fishworm
