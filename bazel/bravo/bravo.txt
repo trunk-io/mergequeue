@@ -5353,7 +5353,6 @@ broadsheet
 bournes
 begirding
 begirdled
-blankard
 begirds
 beamsmen
 bickered
@@ -6650,6 +6649,7 @@ blackheartedness
 berakah
 bewelcome
 basilyst
+blankard
 beraking
 banisters
 ballader
