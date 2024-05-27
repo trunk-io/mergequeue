@@ -4354,7 +4354,6 @@ enami
 enamorado
 enamorate
 enamorato
-enamored
 enamoring
 ejusdem
 erastianize
@@ -8954,6 +8953,7 @@ ergatomorphism
 ergo
 ergodic
 estampie
+enamored
 entohyal
 entoderms
 efflorescency
