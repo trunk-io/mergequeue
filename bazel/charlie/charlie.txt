@@ -944,6 +944,7 @@ catechu
 cnidaria
 calamander
 calamansi
+compester
 calamar
 calamary
 calamariaceous
@@ -20620,7 +20621,6 @@ compered
 comblessness
 compering
 compert
-compester
 compete
 cumbly
 competed
