@@ -1786,7 +1786,6 @@ gastroenterologic
 gastroepiploic
 guardants
 gonydeal
-gelated
 gabbler
 gastroesophageal
 gastrograph
@@ -4195,6 +4194,7 @@ guildry
 grifted
 gastrectomies
 gimblet
+gelated
 gimcrack
 garment
 galictis
