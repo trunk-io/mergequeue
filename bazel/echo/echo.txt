@@ -2977,6 +2977,7 @@ eliminated
 ellipsometry
 equaled
 eliminating
+euclidean
 ehuawa
 eliminator
 earmarked
@@ -6283,7 +6284,6 @@ enroots
 embowed
 encirclement
 enrut
-euclidean
 earle
 escharine
 ens

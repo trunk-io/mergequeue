@@ -17600,7 +17600,6 @@ drumread
 drumreads
 demential
 drumroll
-drumrolls
 drums
 drumslade
 drumstick
@@ -18604,6 +18603,7 @@ debugger
 dusun
 dutchess
 dutchy
+drumrolls
 dutching
 dutchmen
 duteous
