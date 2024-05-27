@@ -8407,7 +8407,6 @@ chalklike
 chalkline
 chalkone
 chalkos
-chalkosideric
 chalkotheke
 chalkpit
 chalkrail
@@ -11704,6 +11703,7 @@ cholericness
 choleriform
 cholerigenous
 cholerine
+chalkosideric
 choleroid
 cholerophobia
 cholerrhagia
