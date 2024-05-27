@@ -2505,7 +2505,6 @@ ephemeromorph
 ensete
 electrolyzed
 electrology
-entablatured
 euphausiidae
 electromagnet
 electromagnetic
@@ -7266,6 +7265,7 @@ echoless
 electrocatalytic
 eonian
 eonism
+entablatured
 eons
 eopalaeozoic
 eophytic
