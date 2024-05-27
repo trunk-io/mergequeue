@@ -863,7 +863,6 @@ greenlandite
 glucosane
 gastrocolic
 gambette
-guttable
 gaiting
 glaniostomi
 gyppo
@@ -1592,6 +1591,7 @@ gasification
 guacamole
 guarachas
 granospherite
+guttable
 gametogonium
 gasifiers
 gasifies
