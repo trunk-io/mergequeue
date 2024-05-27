@@ -4807,7 +4807,6 @@ goosishly
 glycolipide
 gyroscopes
 gyrose
-gyrostat
 gastroplenic
 gesticulating
 gyrotheca
@@ -9284,6 +9283,7 @@ glosser
 gadis
 grangeriser
 groomling
+gyrostat
 gilders
 gonocoel
 ginkgoaceae
