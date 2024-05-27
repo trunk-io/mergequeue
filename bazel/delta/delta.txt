@@ -2541,7 +2541,6 @@ drain
 declarators
 dislip
 declare
-declaredly
 doorjamb
 declares
 dudgeons
@@ -11711,6 +11710,7 @@ displeasureably
 discouragingly
 darren
 dangerful
+declaredly
 domdaniel
 discourses
 diovular
