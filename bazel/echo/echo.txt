@@ -1021,6 +1021,7 @@ edaphology
 edaphon
 epicures
 edaphosauria
+expressional
 edaphosaurid
 exorbital
 edaphosaurus
@@ -13387,7 +13388,6 @@ ensculpture
 evilmouthed
 expressio
 expression
-expressional
 eleemosynar
 erupted
 ebionitic
