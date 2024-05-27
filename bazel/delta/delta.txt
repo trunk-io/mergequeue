@@ -1337,6 +1337,7 @@ daunt
 defeater
 daunted
 daunters
+dibasicity
 daffy
 dipentine
 demissive
@@ -8827,7 +8828,6 @@ diazotization
 deratization
 diazotized
 dib
-dibasicity
 dibbed
 dibbing
 deterring
