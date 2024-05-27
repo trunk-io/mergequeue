@@ -6932,7 +6932,6 @@ cementmaker
 cementmaking
 catapan
 cementoblast
-cementoma
 cements
 cometwise
 cementwork
@@ -10236,6 +10235,7 @@ chewer
 chewers
 chewet
 chewier
+cementoma
 captivity
 chewiest
 collectioner
