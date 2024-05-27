@@ -14843,7 +14843,6 @@ ammonolyzed
 antibridal
 antibromic
 antibubonic
-antibug
 avouches
 antibusing
 anticachectic
@@ -25086,6 +25085,7 @@ aerodromics
 ausforms
 axers
 axes
+antibug
 axfetch
 axhammer
 ascidian
