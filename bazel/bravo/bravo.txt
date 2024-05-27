@@ -2678,6 +2678,7 @@ broadener
 barleybreak
 barleycorn
 barleyhood
+buyouts
 biologese
 basidiophore
 bimensal
@@ -16959,7 +16960,6 @@ bespeakable
 bonnyclabber
 backland
 briolettes
-buyouts
 buirdly
 buys
 benzoated
