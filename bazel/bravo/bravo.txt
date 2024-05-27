@@ -4683,7 +4683,6 @@ bedecking
 bankfull
 bedeguar
 bedehouse
-bedehouses
 bedell
 bedelve
 barmiest
@@ -11852,6 +11851,7 @@ brushlike
 biometeorology
 bum
 bodicemaking
+bedehouses
 bodices
 bodycheck
 bodied
