@@ -7037,7 +7037,6 @@ antheral
 aitchbone
 aitchless
 aitchpiece
-adores
 aith
 anniversarily
 aithochroi
@@ -23821,6 +23820,7 @@ authenticate
 authenticated
 authenticates
 authentication
+adores
 athetosic
 angularization
 alumbrado
