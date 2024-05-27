@@ -10340,7 +10340,6 @@ disillusionizing
 dioptases
 demurrers
 diopter
-diopters
 dioptograph
 dioptometer
 disfavoring
@@ -17838,6 +17837,7 @@ desalts
 ductilize
 ductilized
 ductless
+diopters
 ductor
 ductules
 ductwork
