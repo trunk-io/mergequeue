@@ -1483,7 +1483,6 @@ callets
 callianassidae
 calliandra
 cedulas
-curraghs
 calligraph
 calligrapha
 chemurgy
@@ -14876,6 +14875,7 @@ cithern
 citherns
 cithers
 cithren
+curraghs
 cithrens
 condign
 city
