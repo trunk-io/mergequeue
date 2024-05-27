@@ -9727,7 +9727,6 @@ cheesemaking
 cheesemongery
 cheesemongering
 cheeseparer
-closeup
 canaster
 caravaning
 cheeseparing
@@ -17501,6 +17500,7 @@ cobbling
 cobbra
 cobbs
 chloritoid
+closeup
 calixtin
 categorematically
 cobdenism
