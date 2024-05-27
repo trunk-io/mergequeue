@@ -6434,6 +6434,7 @@ bakupari
 benzaldehyde
 benzaldoxime
 bandeaus
+bluebottle
 benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
@@ -11416,7 +11417,6 @@ blackwork
 blueblossom
 bluebonnets
 bluebook
-bluebottle
 bluebreast
 bashlik
 bluebush
