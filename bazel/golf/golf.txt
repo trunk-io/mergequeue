@@ -2606,7 +2606,6 @@ gangways
 goofy
 grinnie
 grassing
-gena
 genal
 genapp
 gospodar
@@ -3856,6 +3855,7 @@ goffers
 gibbet
 gopher
 gibbeted
+gena
 gibbeting
 gelatinise
 glucke
