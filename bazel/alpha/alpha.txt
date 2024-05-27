@@ -7970,7 +7970,6 @@ alemmal
 alen
 alkaloidal
 alencon
-alencons
 arrayers
 alenge
 alength
@@ -14751,6 +14750,7 @@ attaching
 antiapostle
 antiaquatic
 anaspidacea
+alencons
 antiar
 antiarchi
 antiarin
