@@ -3565,7 +3565,6 @@ ctenostomatous
 claik
 carabines
 carabini
-carabinier
 carabiniere
 carabinieri
 carabins
@@ -29476,6 +29475,7 @@ crystallizes
 crystallochemical
 crystallochemistry
 crystallod
+carabinier
 crystallogenesis
 crystallogenetic
 crystallogeny
