@@ -1997,6 +1997,7 @@ ekename
 etymologisable
 exteriorate
 eagle
+euhyostylic
 eker
 epigastriocele
 epitritic
@@ -10792,7 +10793,6 @@ euhemerize
 euhemerized
 emacerate
 emblazer
-euhyostylic
 eukairite
 eaver
 equiformal
