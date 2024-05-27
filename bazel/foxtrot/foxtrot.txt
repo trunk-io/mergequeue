@@ -3826,7 +3826,6 @@ florigenic
 fimbriae
 formicary
 fimbrial
-fimbriate
 fimbriated
 flavanthrene
 fimbriating
@@ -10644,6 +10643,7 @@ frugiferousness
 floodboard
 fictitious
 frugivorous
+fimbriate
 fruit
 fruitade
 friandise
