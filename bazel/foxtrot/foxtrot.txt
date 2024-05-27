@@ -141,6 +141,7 @@ file
 fidgets
 facsim
 facsimile
+folate
 facsimiled
 fracturable
 fastest
@@ -5938,7 +5939,6 @@ forgottenness
 flutebird
 floorboard
 flavia
-folate
 fala
 floweret
 featherbedding
