@@ -6642,7 +6642,6 @@ corticiform
 cedron
 centibar
 cedrus
-cedula
 cee
 ceibas
 coracomorphic
@@ -23677,6 +23676,7 @@ contorts
 contortuplicate
 commos
 contos
+cedula
 contour
 contoured
 curdier
