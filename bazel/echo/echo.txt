@@ -8684,7 +8684,6 @@ elfishness
 equipages
 expositions
 equiparation
-equipartisan
 eggcrate
 endnotes
 epithecal
@@ -12733,6 +12732,7 @@ exactingness
 elderberry
 exconjugant
 exorableness
+equipartisan
 elaeodochon
 esprove
 enthelminthes
