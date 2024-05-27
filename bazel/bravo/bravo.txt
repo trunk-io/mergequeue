@@ -12736,6 +12736,7 @@ bookery
 bookers
 brahminism
 bookfold
+bookstore
 bookhood
 bloodhounds
 bookings
@@ -12808,7 +12809,6 @@ bepity
 blastoderm
 bookstand
 blemisher
-bookstore
 bookstores
 bioassayed
 beerocracy
