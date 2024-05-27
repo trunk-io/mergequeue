@@ -16336,6 +16336,7 @@ clinostat
 clinquant
 clint
 clinty
+congrid
 clinting
 catheters
 clintonia
@@ -22400,7 +22401,6 @@ cebids
 casettes
 congresso
 congresswomen
-congrid
 congridae
 cyclopedist
 congroid
