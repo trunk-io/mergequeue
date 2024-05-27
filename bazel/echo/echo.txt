@@ -11222,6 +11222,7 @@ exteriors
 enucleation
 evade
 evaded
+entocornea
 earthlier
 electroergometer
 evades
@@ -12982,7 +12983,6 @@ erminites
 endochondral
 ethernets
 esophagectomy
-entocornea
 ergotic
 ejacula
 ethos
