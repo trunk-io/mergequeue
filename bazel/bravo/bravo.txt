@@ -6973,6 +6973,7 @@ bescrape
 bescreen
 belleek
 bescreening
+bilious
 bescribble
 bucketeer
 bescribbled
@@ -13852,7 +13853,6 @@ blamableness
 bowyer
 bejape
 bowyers
-bilious
 bowing
 bowings
 badinage
