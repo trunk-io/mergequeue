@@ -12131,6 +12131,7 @@ bold
 boldacious
 bolden
 bolder
+bencher
 ballyhooed
 bostrychoid
 boldfaced
@@ -18273,7 +18274,6 @@ bunuelo
 bloodletting
 butterwoman
 basque
-bencher
 butterworker
 butterwort
 boulimy
