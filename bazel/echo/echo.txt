@@ -6547,6 +6547,7 @@ eccles
 epimedium
 ellipses
 enorthotrope
+exalt
 emplastra
 enterfeat
 estrepement
@@ -11696,7 +11697,6 @@ exairesis
 exalbuminose
 embassage
 exalbuminous
-exalt
 eunuchized
 exaltate
 exaltation
