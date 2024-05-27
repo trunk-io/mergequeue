@@ -1883,7 +1883,6 @@ bandh
 burdon
 brownism
 brython
-bakehouse
 bandhava
 bandhook
 bandicoy
@@ -5847,6 +5846,7 @@ batekes
 bunn
 bulak
 bellbird
+bakehouse
 bellbirds
 brevipennate
 bellboy
