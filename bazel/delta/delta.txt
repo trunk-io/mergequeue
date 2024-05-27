@@ -13775,7 +13775,6 @@ desultor
 dysspermatism
 disspirit
 disspread
-disstate
 dissuade
 dissuaded
 delayed
@@ -15647,6 +15646,7 @@ doorstop
 diodes
 deaconize
 doorway
+disstate
 dennis
 departmentalise
 doorways
