@@ -3401,7 +3401,6 @@ cymene
 caprylyl
 caprylin
 caprylone
-caprimulgi
 caprimulgidae
 caprimulgiformes
 chinwood
@@ -16659,6 +16658,7 @@ clonus
 cloof
 chymaqueous
 cloop
+caprimulgi
 cloot
 clootie
 chargeling
