@@ -5583,6 +5583,7 @@ gapperi
 glissader
 gadean
 groschen
+ghosted
 glissandi
 gunda
 glissando
@@ -10220,7 +10221,6 @@ gharry
 graver
 germicidal
 guildhall
-ghosted
 gladsomeness
 guessworker
 guile

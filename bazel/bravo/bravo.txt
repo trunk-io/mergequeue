@@ -1182,7 +1182,6 @@ brakehand
 bajree
 bajury
 bunco
-bakairi
 bakal
 biasteric
 bake
@@ -1658,6 +1657,7 @@ ballottine
 ballottines
 ballpark
 bandi
+bakairi
 barrulety
 ballplayer
 ballplatz
