@@ -342,6 +342,7 @@ fuseboard
 figureless
 fitchews
 factions
+fink
 famines
 fiercening
 foreproduct
@@ -1636,7 +1637,6 @@ fangle
 fawners
 fulfillers
 fawniest
-fink
 fawnlike
 foveal
 funniment
