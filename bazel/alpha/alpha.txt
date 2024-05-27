@@ -3167,7 +3167,6 @@ amoskeag
 arthrodia
 abnegation
 amplidyne
-arthropody
 actinostome
 aramus
 agtbasic
@@ -24399,6 +24398,7 @@ antimiscegenation
 autosoterism
 auteciously
 autospore
+arthropody
 autosporic
 autostability
 autostarter
