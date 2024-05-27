@@ -878,6 +878,7 @@ gambits
 gamblesomeness
 gerontology
 genseng
+gearman
 gambogian
 galipoidine
 gombroons
@@ -7996,7 +7997,6 @@ granet
 grangerize
 gongorism
 gastrulas
-gearman
 grangerizer
 grangerizing
 garridge
