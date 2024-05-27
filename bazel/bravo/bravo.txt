@@ -3166,7 +3166,6 @@ bardish
 basest
 bashalick
 biddie
-bashaw
 bashawism
 bashed
 bashers
@@ -13893,6 +13892,7 @@ bows
 bowsaw
 bowsed
 bankroll
+bashaw
 bowser
 bodkinwise
 baccalaurean
