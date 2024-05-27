@@ -3037,7 +3037,6 @@ annualist
 actiniferous
 axtree
 aulostomi
-actiniform
 actiniomorpha
 actinisms
 aphidious
@@ -24623,6 +24622,7 @@ avenin
 astatic
 ammonium
 avenolith
+actiniform
 avenous
 avenses
 aventayle
