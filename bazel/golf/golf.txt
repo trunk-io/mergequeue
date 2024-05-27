@@ -857,7 +857,6 @@ greenlandite
 glucosane
 gastrocolic
 gambette
-guttable
 gaiting
 glaniostomi
 gyppo
@@ -6251,6 +6250,7 @@ globicephala
 glossic
 ghostlify
 gnosis
+guttable
 gnostic
 glaky
 gnostical
