@@ -82,6 +82,7 @@ fisticuffs
 faces
 facesaving
 flattening
+fletcher
 frizettes
 foliobranch
 foresaying
@@ -5682,7 +5683,6 @@ ferrate
 fleuronnee
 fungous
 finesses
-fletcher
 fuzzball
 flirtish
 faunological

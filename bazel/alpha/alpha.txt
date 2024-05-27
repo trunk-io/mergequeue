@@ -4171,6 +4171,7 @@ admittance
 admittances
 admittatur
 ablutions
+agelast
 admitted
 agitpunkt
 ampliation
@@ -5944,7 +5945,6 @@ agelacrinites
 arithmetical
 agelacrinitidae
 atteal
-agelast
 antidominican
 agelaus
 aristocracies
