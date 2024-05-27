@@ -15257,7 +15257,6 @@ bridging
 bridie
 burgundies
 bridle
-bridled
 bumbarge
 bridleless
 bridlers
@@ -16107,6 +16106,7 @@ basanite
 broomsticks
 broomstraw
 broomweed
+bridled
 backpointers
 bonism
 broomwood
