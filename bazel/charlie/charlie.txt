@@ -9449,7 +9449,6 @@ chavicol
 cowedly
 chaw
 chawan
-chawbacon
 chawbuck
 chawdron
 chawed
@@ -19776,6 +19775,7 @@ classifiers
 casthouse
 cloudburst
 combiner
+chawbacon
 combiners
 combines
 cappie
