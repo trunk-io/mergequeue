@@ -17714,6 +17714,7 @@ cochurchwarden
 cocillana
 cocin
 cocinera
+colonisability
 cocircular
 commutual
 cultrirostres
@@ -19352,7 +19353,6 @@ colonials
 colonical
 crassier
 colonies
-colonisability
 colonisable
 clinid
 colonisationist

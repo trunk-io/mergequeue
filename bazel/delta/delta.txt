@@ -410,7 +410,6 @@ disobedient
 dairymaids
 dorsoanterior
 dairyman
-dairywoman
 dairywomen
 defensory
 dayroom
@@ -2934,6 +2933,7 @@ doughs
 decurvature
 decus
 decarbonizing
+dairywoman
 devolution
 decuss
 decussate
