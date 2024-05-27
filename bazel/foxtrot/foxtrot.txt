@@ -3375,7 +3375,6 @@ faintish
 fieldworker
 feeless
 fieldwort
-fiendful
 fiendfully
 fixative
 flyweights
@@ -5767,6 +5766,7 @@ flamb
 foredoom
 flitters
 flitting
+fiendful
 frivolize
 ferfet
 flitwite
