@@ -5245,7 +5245,6 @@ aetosaur
 aetosaurus
 aettekees
 aeviternal
-anatomicomedical
 af
 afterpart
 automate
@@ -19310,6 +19309,7 @@ arctation
 arteriectasia
 antepretonic
 arctic
+anatomicomedical
 alemannic
 analogion
 arcticize
