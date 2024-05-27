@@ -1450,7 +1450,6 @@ glutael
 garmenture
 gerodermia
 garmentworker
-growlers
 gnosticize
 ginners
 graplins
@@ -7400,6 +7399,7 @@ gv
 gongoresque
 gottfried
 geest
+growlers
 groutnoll
 gordolobo
 ghosty
