@@ -4348,6 +4348,7 @@ equiped
 enamelless
 earsh
 enamels
+embeddable
 encomia
 extensity
 enami
@@ -8812,7 +8813,6 @@ enround
 electrodepositable
 eradications
 eighteenmos
-embeddable
 etcetera
 epistolise
 eradicatory
