@@ -2115,6 +2115,7 @@ camphols
 camphor
 camphoraceous
 camphorated
+crucially
 camphorates
 camphorating
 camphory
@@ -30116,7 +30117,6 @@ cruce
 crucethouse
 crucial
 cruciality
-crucially
 courge
 crucian
 crucianella
