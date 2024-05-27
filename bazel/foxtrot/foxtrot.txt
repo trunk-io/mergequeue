@@ -1840,6 +1840,7 @@ fluidizer
 febrility
 febriphobia
 februarius
+firbolg
 flemishing
 faffle
 frutify
@@ -11380,7 +11381,6 @@ foreglimpsed
 filiality
 furlana
 foldure
-firbolg
 fichus
 flattened
 furlong
