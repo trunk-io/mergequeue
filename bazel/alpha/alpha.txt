@@ -5024,7 +5024,6 @@ americium
 aerography
 aerographical
 aerographies
-aerogun
 aerohydrodynamic
 aerohydropathy
 approachment
@@ -9968,6 +9967,7 @@ airlocks
 akroterial
 amazedly
 aquadag
+aerogun
 amazedness
 amazeful
 amazement
