@@ -2934,6 +2934,7 @@ broad
 barrelled
 baetylic
 brattle
+bowlmaker
 barrelmaker
 barrelmaking
 brassavola
@@ -13085,7 +13086,6 @@ birefringence
 butylic
 betrample
 borers
-bowlmaker
 bedusk
 bores
 belfry
