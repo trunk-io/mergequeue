@@ -11909,7 +11909,6 @@ cereus
 chopine
 chopines
 chopins
-choplogic
 choplogical
 chopped
 choregi
@@ -22463,6 +22462,7 @@ cnidoscolus
 chevy
 cryingly
 conification
+choplogic
 coniform
 cacana
 conyger
