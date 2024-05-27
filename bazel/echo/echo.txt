@@ -4162,7 +4162,6 @@ employee
 endives
 employer
 exedral
-elastance
 employment
 eiffel
 entastic
@@ -4872,6 +4871,7 @@ embedder
 eversporting
 enculturation
 excoction
+elastance
 encumbered
 eggers
 encumberer

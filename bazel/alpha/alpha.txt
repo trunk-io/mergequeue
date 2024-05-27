@@ -12925,7 +12925,6 @@ anglice
 anglicisation
 anglicism
 anglicisms
-anglicization
 anglicize
 anglicized
 anglify
@@ -14305,6 +14304,7 @@ anteroclusion
 admissible
 adulterous
 anterodorsal
+anglicization
 aedeagal
 anteroexternal
 anterofixation
