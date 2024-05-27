@@ -3982,7 +3982,6 @@ bde
 bdellatomy
 bdellium
 bdelliums
-bdelloid
 bdelloida
 bdellometer
 bdellostoma
@@ -15915,6 +15914,7 @@ bromouracil
 bromphenol
 blattering
 breakfront
+bdelloid
 burgh
 bromuret
 bromus
