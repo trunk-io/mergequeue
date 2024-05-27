@@ -2706,7 +2706,6 @@ evanish
 electiveness
 electrothermotic
 exogastritis
-electrotype
 entosphenoid
 electrotyped
 electrotypy
@@ -5641,6 +5640,7 @@ enfurrow
 eng
 esurience
 euploid
+electrotype
 erotism
 entrough
 epitaphial
