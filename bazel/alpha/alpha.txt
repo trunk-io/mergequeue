@@ -3742,6 +3742,7 @@ antislickens
 anachoret
 alimenting
 adenotome
+advancer
 adenotomic
 adenous
 adenoviral
@@ -4560,7 +4561,6 @@ advance
 advancedness
 advancement
 advancements
-advancer
 advancers
 advancing
 advancive

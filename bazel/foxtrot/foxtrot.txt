@@ -11172,6 +11172,7 @@ fluvio
 funfair
 footbath
 featherway
+funks
 flashtester
 figged
 frowy
@@ -11267,7 +11268,6 @@ forgetness
 fleckiest
 flocculant
 frontispieces
-funks
 faultfinding
 funmaking
 funnel
