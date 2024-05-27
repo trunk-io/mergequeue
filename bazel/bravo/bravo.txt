@@ -7524,7 +7524,6 @@ bolsheviki
 belgians
 betrap
 betravel
-betread
 betrend
 braveries
 betrothing
@@ -16917,6 +16916,7 @@ buginese
 buginvillaea
 bugle
 bedcap
+betread
 bugled
 badmouth
 buglet
