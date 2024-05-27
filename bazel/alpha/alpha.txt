@@ -8759,6 +8759,7 @@ acalephan
 aller
 allergenic
 abouchement
+amenorrhea
 autarkical
 allergenicity
 allergies
@@ -15747,7 +15748,6 @@ ailment
 acoustics
 antinormality
 antinormalness
-amenorrhea
 antinosarian
 antinous
 anoxaemia
