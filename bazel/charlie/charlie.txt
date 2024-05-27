@@ -11806,7 +11806,6 @@ chancellorism
 chondroadenoma
 chondroalbuminoid
 chondroangioma
-credential
 chondroarthritis
 chondroblastoma
 crankness
@@ -14405,6 +14404,7 @@ circumjacency
 circumjovial
 circumlitio
 circumlittoral
+credential
 circumlocute
 circumlocution
 cypripedin
