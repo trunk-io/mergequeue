@@ -15444,7 +15444,6 @@ beardlike
 brynza
 brioches
 bawcock
-bryologist
 bisso
 bimas
 briony
@@ -17202,6 +17201,7 @@ bullnose
 bullnoses
 bullnut
 bullock
+bryologist
 bullocker
 blastulae
 barkantine
