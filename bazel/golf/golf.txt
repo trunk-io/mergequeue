@@ -1226,7 +1226,6 @@ gemmiform
 gaped
 gilim
 gaper
-generalizable
 gothic
 grinned
 guejarite
@@ -10178,6 +10177,7 @@ guideposts
 glossophobia
 geroderma
 gayment
+generalizable
 gerusia
 guidman
 glyptics
