@@ -9488,7 +9488,6 @@ digestibility
 digestible
 downshifting
 dite
-digestibleness
 digestibly
 digestif
 drooped
@@ -14850,6 +14849,7 @@ documentations
 disposableness
 documenter
 dilogical
+digestibleness
 documentize
 dehortative
 disazo
