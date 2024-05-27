@@ -5838,7 +5838,6 @@ floccipend
 freeloader
 floccose
 fluvanna
-flaggers
 failsoft
 fecund
 feague
@@ -6478,6 +6477,7 @@ flushingly
 flusk
 flusker
 floodtime
+flaggers
 fisheress
 flusterating
 flusteration
