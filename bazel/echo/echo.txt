@@ -6150,6 +6150,7 @@ enterclose
 eranist
 execs
 enomotarch
+enteromegaly
 exodist
 enophthalmus
 ebenaceae
@@ -6637,7 +6638,6 @@ enuring
 exhedrae
 enterology
 enterologic
-enteromegaly
 eaved
 enteromegalia
 enteroneuritis
