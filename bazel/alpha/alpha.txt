@@ -847,6 +847,7 @@ absaroka
 allergy
 abscessed
 abscesses
+acis
 abscession
 assertors
 aerosols
@@ -9713,7 +9714,6 @@ aluniferous
 alunite
 arcadic
 alunogen
-acis
 alupag
 antespring
 autecologic
