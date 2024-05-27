@@ -1186,7 +1186,6 @@ caldron
 campimetrical
 caldrons
 calean
-calebite
 calebites
 cichar
 coprophilia
@@ -8126,6 +8125,7 @@ colonalgia
 chaetopterus
 chaetosoma
 chaetosomatidae
+calebite
 chaetosomidae
 codrus
 clannishly
