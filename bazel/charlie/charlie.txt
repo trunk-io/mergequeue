@@ -3319,7 +3319,6 @@ capons
 caporal
 caporals
 counterweighing
-capot
 capotasto
 chloroanaemia
 capotastos
@@ -25680,6 +25679,7 @@ corporealization
 cochlea
 corporeally
 corporealness
+capot
 corporeals
 corporeity
 crankier
