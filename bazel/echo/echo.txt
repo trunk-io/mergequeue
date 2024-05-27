@@ -4891,6 +4891,7 @@ end
 enterocoelic
 electrodialysis
 endable
+emotionlessness
 endamage
 endamagement
 endamages
@@ -13642,7 +13643,6 @@ erratum
 exteriorizing
 exteriorness
 exoduses
-emotionlessness
 ergotoxin
 evections
 effigial
