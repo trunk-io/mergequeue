@@ -8726,6 +8726,7 @@ billets
 billette
 berylline
 broomtail
+banditry
 brauneberger
 billetwood
 bedrolls
@@ -16359,7 +16360,6 @@ boroughs
 burbush
 brunonia
 brunoniaceae
-banditry
 botanising
 brunonian
 brunonism
