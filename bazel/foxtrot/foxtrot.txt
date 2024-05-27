@@ -4310,7 +4310,6 @@ fishback
 fishberry
 forebackwardly
 fixion
-fishboats
 fishbolt
 fishbolts
 falchions
@@ -5652,6 +5651,7 @@ flype
 feodaries
 freezers
 frimaire
+fishboats
 federalizing
 flipjack
 flippance
