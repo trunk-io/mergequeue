@@ -585,7 +585,6 @@ galleriidae
 groundless
 galleryite
 gazometer
-gableended
 gybed
 gramma
 gouvernantes
@@ -3001,6 +3000,7 @@ genuinely
 grindstone
 geo
 gallerylike
+gableended
 geoagronomic
 gigmanhood
 gedunk
