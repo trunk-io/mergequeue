@@ -3447,6 +3447,7 @@ argosies
 adaptiveness
 adaptometer
 adaptor
+augmentable
 adaptorial
 adapts
 allotransplant
@@ -23402,7 +23403,6 @@ augitic
 augitophyre
 augment
 absolutistic
-augmentable
 acopic
 augmented
 augmentedly
