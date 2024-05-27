@@ -708,7 +708,6 @@ glint
 gallows
 giterne
 gonyoncus
-graduale
 gunfires
 gelosine
 galls
@@ -3120,6 +3119,7 @@ gelong
 glosses
 gallinacei
 glassed
+graduale
 gurgle
 geomancer
 geomancy

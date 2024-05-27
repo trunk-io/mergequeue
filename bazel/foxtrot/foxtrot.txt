@@ -4346,7 +4346,6 @@ fluxionary
 footgear
 fishgarth
 fishhood
-ficelle
 fl
 folkmotes
 fishyard
@@ -6224,6 +6223,7 @@ flues
 fluework
 fluvial
 focusable
+ficelle
 fluffiest
 fud
 formwork
