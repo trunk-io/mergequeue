@@ -805,6 +805,7 @@ frowsy
 forgedly
 flusher
 faltering
+finlet
 footlike
 fortes
 flog
@@ -4045,7 +4046,6 @@ fieldman
 flatbottom
 filelike
 farcist
-finlet
 funorin
 frondescing
 finmarks
