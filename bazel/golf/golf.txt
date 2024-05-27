@@ -4066,7 +4066,6 @@ genealogies
 grayer
 ganocephala
 goldurn
-ginnle
 grades
 gloves
 gnide
@@ -6976,6 +6975,7 @@ gruffest
 goodlihead
 geniohyoglossal
 goodliness
+ginnle
 goodmanship
 goodmen
 goodrich
