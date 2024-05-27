@@ -2127,7 +2127,6 @@ camphorize
 camphoroyl
 clerkliest
 camphorone
-camphorweed
 camphorwood
 campi
 concurrency
@@ -24705,6 +24704,7 @@ cerebrating
 copolymer
 copolymerism
 copolymerization
+camphorweed
 copolymerizations
 copolymerize
 cruciated
