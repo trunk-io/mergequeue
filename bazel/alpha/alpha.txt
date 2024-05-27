@@ -11529,7 +11529,6 @@ amuzzle
 amvis
 an
 ana
-anabaenas
 anabantid
 arguses
 alpines
@@ -15395,6 +15394,7 @@ antigravitation
 antigravitational
 antigravity
 antigrowth
+anabaenas
 affectible
 antihalation
 antiharmonist
