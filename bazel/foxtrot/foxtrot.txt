@@ -3442,6 +3442,7 @@ fumiduct
 fiftieth
 forseen
 figary
+filesniff
 figaro
 farm
 figeater
@@ -3592,7 +3593,6 @@ felinity
 fungivorous
 files
 filesmith
-filesniff
 foreaccustom
 filespec
 fornicating
