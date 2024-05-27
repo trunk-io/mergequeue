@@ -8808,6 +8808,7 @@ defeat
 diazo
 drinkable
 decke
+docents
 diazoalkane
 demimondaines
 depeter
@@ -14690,7 +14691,6 @@ declinedness
 darnation
 dotterel
 dioptrically
-docents
 dockhead
 documentarian
 docentship
