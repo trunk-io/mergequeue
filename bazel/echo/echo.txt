@@ -2232,6 +2232,7 @@ electant
 electary
 epithet
 eudiometric
+enargite
 enthraldom
 erected
 elysee
@@ -9078,7 +9079,6 @@ erythematous
 enamellist
 enfant
 eves
-enargite
 erythraean
 erythraemia
 exsiccate
