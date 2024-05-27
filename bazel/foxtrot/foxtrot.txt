@@ -3006,7 +3006,6 @@ fezzes
 fezzy
 fadings
 forsake
-fleshiness
 fossors
 fgrid
 floorshift
@@ -3655,6 +3654,7 @@ feedbag
 foregoneness
 frayn
 flippancies
+fleshiness
 forecasters
 flawier
 filigraned
