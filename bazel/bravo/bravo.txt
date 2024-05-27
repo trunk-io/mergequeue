@@ -367,7 +367,6 @@ backhanding
 bovarist
 backhaul
 backhauls
-bossy
 backhoe
 backhoes
 boobies
@@ -10520,6 +10519,7 @@ bicolligate
 blarnid
 blart
 blaseness
+bossy
 bengal
 blashy
 beclasps
