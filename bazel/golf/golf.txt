@@ -1089,7 +1089,6 @@ grabbots
 geotropism
 gaolbird
 gossamer
-gormandizing
 goniometrically
 gerardias
 goldsmithing
@@ -4705,6 +4704,7 @@ graphometry
 guillotiner
 guesthouse
 graphitoid
+gormandizing
 grinter
 guardrail
 garotter
