@@ -10,7 +10,6 @@ eably
 each
 epidermoid
 estocs
-evaporometer
 emigate
 evansite
 ead
@@ -1227,6 +1226,7 @@ elkhounds
 educatable
 evitate
 educatedness
+evaporometer
 educates
 entitule
 eternalization
