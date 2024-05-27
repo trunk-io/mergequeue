@@ -14786,7 +14786,6 @@ cystoparalysis
 campodeiform
 cystophora
 cathood
-cystophore
 cistophorus
 cystophotography
 concomitancy
@@ -28297,6 +28296,7 @@ considerance
 calc
 crassis
 crassities
+cystophore
 crassitude
 crassly
 crassulaceae
