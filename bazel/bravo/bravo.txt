@@ -7012,7 +7012,6 @@ beshackle
 beshade
 begrudges
 beshadowed
-beshadowing
 beauxite
 biplosive
 boatbill
@@ -13731,6 +13730,7 @@ bloomer
 buccaned
 banqueted
 boutefeu
+beshadowing
 bouteria
 bouteselle
 bet
