@@ -16910,7 +16910,6 @@ casebooks
 clubrooms
 clubroot
 carding
-clubroots
 clubs
 clubstart
 clubster
@@ -26111,6 +26110,7 @@ cosie
 cosier
 cosies
 cosign
+clubroots
 coercively
 counterfix
 christiad
