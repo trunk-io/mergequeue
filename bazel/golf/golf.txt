@@ -7448,7 +7448,6 @@ gibing
 guesstimate
 gymnotidae
 glasshouse
-goldsmith
 gerful
 gluemaking
 gobiesocidae
@@ -10474,6 +10473,7 @@ gibbon
 gulfwards
 granulator
 gumpus
+goldsmith
 gums
 gastroenteralgia
 gogglier
