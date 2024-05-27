@@ -3884,7 +3884,6 @@ forspeaking
 footslogged
 finalizes
 findable
-frontlessly
 findhorn
 feedboard
 filarees
@@ -10154,6 +10153,7 @@ foozling
 fordam
 faki
 frithbot
+frontlessly
 frithy
 forefatherly
 fragor
