@@ -6290,7 +6290,6 @@ enroots
 embowed
 encirclement
 enrut
-euclidean
 earle
 escharine
 ens
@@ -7130,6 +7129,7 @@ explants
 envying
 employees
 energic
+euclidean
 envious
 embryomata
 eared
