@@ -2020,6 +2020,7 @@ feigners
 feigning
 feigningly
 feigns
+favonian
 farouche
 forts
 flirtingly
@@ -2494,7 +2495,6 @@ founders
 finiteness
 fermillet
 frenchless
-favonian
 flexity
 falsen
 fermions
