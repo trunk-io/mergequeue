@@ -1125,7 +1125,6 @@ farseer
 farset
 farsighted
 flabel
-fortunize
 forcat
 farsightedness
 flooring
@@ -1251,6 +1250,7 @@ foreglow
 fernleaf
 funicular
 flexural
+fortunize
 fatuities
 feodatory
 formene
