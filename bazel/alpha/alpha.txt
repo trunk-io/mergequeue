@@ -496,7 +496,6 @@ abjurement
 abjurer
 abjurers
 abjures
-abkar
 abkari
 abkhasian
 ashtrays
@@ -6955,6 +6954,7 @@ airplot
 airport
 airports
 airpost
+abkar
 airposts
 asst
 airproofs
