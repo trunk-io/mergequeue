@@ -2505,7 +2505,6 @@ duckwing
 deerstalker
 deckhead
 doorposts
-deckle
 deckman
 deckpipe
 dulls
@@ -18541,6 +18540,7 @@ durzada
 disanimated
 dyslexic
 decentration
+deckle
 dush
 dusked
 dusken
