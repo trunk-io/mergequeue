@@ -3198,6 +3198,7 @@ genl
 gestae
 gracer
 guardlike
+goshawk
 greggriffin
 gastful
 guffaws
@@ -7261,7 +7262,6 @@ gorsy
 grayware
 gortonite
 gimleted
-goshawk
 geniculated
 goslet
 gweducks
