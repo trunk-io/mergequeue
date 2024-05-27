@@ -7579,6 +7579,7 @@ grus
 grabhook
 grabouche
 gluside
+grippingness
 grabs
 glasgow
 goyim
@@ -8174,7 +8175,6 @@ graphologists
 gnawers
 grammarians
 gimp
-grippingness
 giardiasis
 grylli
 georgium
