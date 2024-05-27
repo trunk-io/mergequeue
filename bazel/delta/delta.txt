@@ -11773,7 +11773,6 @@ discrested
 discretely
 dogfall
 discreteness
-disjunctions
 default
 dined
 dicht
@@ -13310,6 +13309,7 @@ disprover
 demurrage
 disproves
 didymous
+disjunctions
 disprovide
 dispunitive
 dispurse
