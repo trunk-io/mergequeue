@@ -3569,7 +3569,6 @@ embosoming
 enrobement
 euchlaena
 emboss
-embossage
 embossed
 exponentiations
 enbibe
@@ -11770,6 +11769,7 @@ exannulate
 exanthem
 equidurable
 exanthemas
+embossage
 eria
 exanthems
 eyelast
