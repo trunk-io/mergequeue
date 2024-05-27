@@ -11346,7 +11346,6 @@ disciflorae
 disunifying
 dittany
 disciflorous
-disciform
 dravida
 discigerous
 discina
@@ -18547,6 +18546,7 @@ dusken
 dusky
 delubrum
 dependableness
+disciform
 duskier
 duikers
 desaminase
