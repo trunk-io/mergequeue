@@ -774,7 +774,6 @@ abreacts
 abreast
 archenteric
 abreed
-anchylosing
 abrenounce
 asyle
 abret
@@ -7380,6 +7379,7 @@ alarums
 antichorus
 antepaschel
 aerotropic
+anchylosing
 ascogonidia
 abominableness
 alaska
