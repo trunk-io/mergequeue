@@ -1100,7 +1100,6 @@ ferriages
 farrage
 foldstool
 farrago
-fordone
 frizzed
 flyaways
 frigatoon
@@ -8457,6 +8456,7 @@ formicid
 fluorescent
 formicide
 fishling
+fordone
 formicine
 formicivora
 formicoidea

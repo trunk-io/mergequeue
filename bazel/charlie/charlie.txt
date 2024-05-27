@@ -4779,6 +4779,7 @@ carpoptosia
 carport
 carpos
 chibouk
+cust
 carposporangial
 catalase
 carpospore
@@ -31703,7 +31704,6 @@ castilian
 cussos
 crooken
 cusswords
-cust
 calorizer
 custard
 carian
