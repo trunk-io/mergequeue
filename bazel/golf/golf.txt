@@ -9504,7 +9504,6 @@ gremmies
 genipapada
 grouted
 groundkeeper
-geothlypis
 glidder
 ghis
 grumbler
@@ -9792,6 +9791,7 @@ guaiaconic
 guaiacs
 guaiacum
 guayaqui
+geothlypis
 geb
 gaslight
 guaiasanol

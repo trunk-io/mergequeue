@@ -2656,6 +2656,7 @@ barkinji
 barkless
 barklyite
 barkometer
+boardsmanship
 bescorch
 barkeepers
 butyr
@@ -11627,7 +11628,6 @@ boardings
 boardly
 boards
 bullan
-boardsmanship
 boardwalks
 bespatterment
 boarfish
