@@ -14810,6 +14810,7 @@ cystose
 cystosyrinx
 cystospasm
 cystospastic
+coptis
 cystospore
 cystostomy
 cystostomies
@@ -24832,7 +24833,6 @@ coptic
 concert
 coptine
 cabbing
-coptis
 copula
 chitting
 coroscopy
