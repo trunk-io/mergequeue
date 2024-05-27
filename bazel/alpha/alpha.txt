@@ -3911,7 +3911,6 @@ anthropological
 adipoceriform
 adipocerite
 adipocyte
-adipofibroma
 adipoid
 angiology
 antitropous
@@ -14723,6 +14722,7 @@ antiaggression
 antiaggressionist
 antiaggressively
 antiaggressiveness
+adipofibroma
 antialbumin
 antialcoholic
 autarkikal
