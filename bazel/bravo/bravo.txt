@@ -10277,7 +10277,6 @@ bine
 blackjack
 behung
 blackjacked
-blackjacking
 blackjacks
 blackland
 blackleg
@@ -10640,6 +10639,7 @@ bourignonism
 blest
 blatta
 broombush
+blackjacking
 blattariae
 bounding
 biostrome
