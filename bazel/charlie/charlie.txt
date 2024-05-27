@@ -27579,7 +27579,6 @@ contemporaneously
 conform
 covered
 calculagraph
-coverer
 campfire
 coverers
 coverings
@@ -28503,6 +28502,7 @@ creation
 crickets
 creational
 creationary
+coverer
 creations
 creative
 conphaseolin
