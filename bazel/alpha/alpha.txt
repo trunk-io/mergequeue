@@ -9009,7 +9009,6 @@ arrythmia
 allophylus
 allophite
 allophones
-allophonic
 allophonically
 alloplasm
 alloplast
@@ -14651,6 +14650,7 @@ anthropopathically
 aerially
 anthropopathism
 anthropophagy
+allophonic
 anaesthetics
 anthropophagical
 antieugenic
