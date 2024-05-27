@@ -4702,7 +4702,6 @@ demireps
 deceivability
 demirhumb
 demirilievo
-dynasty
 demirobe
 demonastery
 donn
@@ -14406,6 +14405,7 @@ diverticle
 deactivated
 diverticula
 diverticulitis
+dynasty
 diverticulosis
 dacyorrhea
 divertimenti
