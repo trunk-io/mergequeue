@@ -18846,7 +18846,6 @@ archcritic
 archcrown
 arthrosterigma
 archcupbearer
-archd
 archdapifer
 archdeaconries
 archdean
@@ -19782,6 +19781,7 @@ arioian
 arion
 ariose
 ariosi
+archd
 ariot
 aculeiform
 amidone
