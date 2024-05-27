@@ -6668,7 +6668,6 @@ basichromiole
 berber
 borickite
 berberi
-berberia
 biohazard
 berberid
 bundoc
@@ -9129,6 +9128,7 @@ brutes
 bioherm
 bioherms
 bronzen
+berberia
 bioinstrument
 biokinetics
 bastardly
