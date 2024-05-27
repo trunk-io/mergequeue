@@ -1336,7 +1336,6 @@ demissive
 daunting
 dompt
 dauntingly
-dart
 dauntingness
 dauntlessly
 dauntlessness
@@ -9588,6 +9587,7 @@ doubloons
 dignities
 dignosle
 dignotion
+dart
 dependants
 del
 deuterons
