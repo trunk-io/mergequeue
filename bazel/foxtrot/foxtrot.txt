@@ -5874,6 +5874,7 @@ flatfeet
 fertilizability
 floeberg
 faniente
+formalness
 formers
 facilely
 forehand
@@ -8385,7 +8386,6 @@ formalized
 formalizer
 foreknowledge
 formally
-formalness
 flaucht
 fantail
 formamidine
