@@ -5925,7 +5925,6 @@ enjail
 enjambment
 escaped
 emetomorphine
-enjambments
 ectomere
 encumbrancer
 enjoy
@@ -12023,6 +12022,7 @@ epitenon
 event
 exclamational
 exclamations
+enjambments
 exclamative
 earthtongue
 exclamatory
