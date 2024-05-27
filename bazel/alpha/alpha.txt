@@ -7544,6 +7544,7 @@ abreid
 albopruinose
 alborada
 alboranite
+assecure
 albrecht
 albricias
 albright
@@ -21699,7 +21700,6 @@ asse
 asseal
 assecuration
 anagua
-assecure
 assecution
 assegai
 amend
