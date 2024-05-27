@@ -996,7 +996,6 @@ foxhound
 fardelet
 farding
 fards
-frontomaxillary
 fissiparation
 farenheit
 friarbird
@@ -7115,6 +7114,7 @@ friszka
 footboy
 foramina
 funders
+frontomaxillary
 footboys
 filliped
 footbridge
