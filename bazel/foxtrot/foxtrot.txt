@@ -1605,7 +1605,6 @@ favosely
 favosite
 frostbit
 flowerpots
-favosites
 flush
 farmost
 forecovert
@@ -8001,6 +8000,7 @@ forestation
 flexional
 frontoethmoid
 forgetting
+favosites
 forestcraft
 foresteep
 flash
