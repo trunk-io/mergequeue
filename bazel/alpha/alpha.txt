@@ -714,7 +714,6 @@ antiaesthetic
 abos
 aboulia
 aboulias
-aboulic
 archbishop
 abounder
 abounding
@@ -5068,6 +5067,7 @@ amazona
 aeronautical
 aeronautically
 aeronomer
+aboulic
 amyliferous
 aeronomy
 aeronomic
