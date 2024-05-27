@@ -3072,7 +3072,6 @@ elem
 ellipsis
 ergatocracy
 emblematic
-ellipsograph
 ellipsoid
 executiveness
 exteriorization
@@ -9186,6 +9185,7 @@ entwining
 equinoxes
 erythropsia
 etruscan
+ellipsograph
 erythropsin
 establish
 exploding
