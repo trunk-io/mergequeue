@@ -12576,7 +12576,6 @@ anguillidae
 anemopathy
 astroscope
 antisudorific
-anemophile
 anemophily
 anemopsis
 anemoscope
@@ -13524,6 +13523,7 @@ annalize
 arctician
 annamite
 annamitic
+anemophile
 annapolis
 annapurna
 annas
