@@ -3197,7 +3197,6 @@ eltrot
 eluant
 eluating
 enteritis
-elucidate
 expulser
 elucidates
 elucidations
@@ -4243,6 +4242,7 @@ extratheistic
 emptiers
 emptiest
 emptyhearted
+elucidate
 excitableness
 emptying
 emptiness
