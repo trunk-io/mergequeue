@@ -2359,7 +2359,6 @@ gonofs
 geisa
 geisenheimer
 geyserish
-geyserite
 georgia
 graduated
 geniality
@@ -9956,6 +9955,7 @@ grouse
 guatemalan
 glutimate
 guatibero
+geyserite
 generalists
 guativere
 ghastlier
