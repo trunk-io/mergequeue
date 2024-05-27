@@ -3838,7 +3838,6 @@ farcer
 fiscal
 flet
 fimbriatum
-feral
 fimbricate
 floria
 ferruminate
@@ -6276,6 +6275,7 @@ flower
 fluigram
 filestatus
 frankincensed
+feral
 fluyts
 flybelts
 fluke
