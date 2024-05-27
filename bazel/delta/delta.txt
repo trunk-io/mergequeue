@@ -1912,7 +1912,6 @@ diplanetic
 dithematic
 debridement
 dithecous
-debrief
 debriefing
 dowser
 debriefings
@@ -15058,6 +15057,7 @@ dufrenite
 delicti
 dogmatic
 dumping
+debrief
 detractress
 deficits
 dogeless
