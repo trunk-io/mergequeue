@@ -4829,6 +4829,7 @@ carriages
 carriagesmith
 cinchonicin
 carriageway
+caulicle
 carryall
 carrick
 carrycot
@@ -6233,7 +6234,6 @@ caulerpaceous
 cowy
 caulescent
 cauli
-caulicle
 caulicles
 caulicole
 cacophonia
