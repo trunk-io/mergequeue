@@ -1542,6 +1542,7 @@ faust
 feverishness
 faustian
 familiarising
+flops
 faute
 fanfaron
 foreshift
@@ -7546,7 +7547,6 @@ forecome
 fearsome
 forecommend
 foreconclude
-flops
 foreconsider
 flagonet
 forgivably
