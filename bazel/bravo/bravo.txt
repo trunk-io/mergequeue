@@ -2148,7 +2148,6 @@ borofluoride
 bantayan
 bidstand
 bantam
-bantamize
 bantams
 banteng
 bizant
@@ -5832,6 +5831,7 @@ beliquored
 beliquors
 belittle
 belittled
+bantamize
 begloomed
 belive
 bifurcous
