@@ -6731,7 +6731,6 @@ gondolas
 global
 gondoletta
 gangliform
-gordius
 goldworker
 gucks
 gondoliers
@@ -7943,6 +7942,7 @@ glouts
 gypsydoms
 grandmammy
 grandmas
+gordius
 gorgerins
 golach
 grandmaster
