@@ -2087,6 +2087,7 @@ genarch
 gaussmeter
 gauster
 granville
+gripers
 gausterer
 giantry
 grocerymen
@@ -6910,7 +6911,6 @@ groves
 garg
 germinational
 gonorrhoeal
-gripers
 garnets
 gobonee
 gonosphere
