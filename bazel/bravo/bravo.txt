@@ -4514,6 +4514,7 @@ bretonian
 bilabials
 beclothe
 beclothes
+bethylid
 blushwort
 becloud
 beclouded
@@ -15158,7 +15159,6 @@ bloodguilty
 bowlin
 bricklining
 brickmason
-bethylid
 bricktimber
 bricktop
 brickwall
