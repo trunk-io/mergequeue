@@ -10524,7 +10524,6 @@ aliofar
 amide
 amidid
 amidide
-antileft
 adscript
 amidin
 archicyte
@@ -21922,6 +21921,7 @@ associable
 associableness
 associated
 autovaccination
+antileft
 associatedness
 andesine
 associateship
