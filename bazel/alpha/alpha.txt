@@ -6332,6 +6332,7 @@ amies
 aurorae
 agonia
 agoniada
+atellan
 aul
 alchemise
 agoniatite
@@ -14660,7 +14661,6 @@ anthropophaginian
 anthropophagism
 antiroyalism
 anthropophagist
-atellan
 anthropophagit
 accoutred
 anthropophagite
