@@ -336,7 +336,6 @@ glamour
 galactogenetic
 garrottes
 galactohemia
-galactoid
 galactolipide
 gristmiller
 graveship
@@ -832,6 +831,7 @@ gamasidae
 goombay
 guamuchil
 gamasoidea
+galactoid
 gutturopalatal
 graf
 gambade
