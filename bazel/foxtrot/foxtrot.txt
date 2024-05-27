@@ -10990,7 +10990,6 @@ filter
 flagellar
 floodless
 finally
-fumarases
 fumose
 fumarate
 fewness
@@ -11208,6 +11207,7 @@ federacies
 forepaling
 forcipes
 fungitoxic
+fumarases
 fungitoxicity
 fluorophosphate
 farmerette
