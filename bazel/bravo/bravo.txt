@@ -4280,7 +4280,6 @@ beatles
 beatless
 benched
 bullroarer
-beatnik
 beatniks
 beatrix
 becater
@@ -4535,6 +4534,7 @@ bestuur
 bobsled
 becomed
 becomes
+beatnik
 becometh
 becomingness
 becoom

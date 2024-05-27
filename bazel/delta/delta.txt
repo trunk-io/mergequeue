@@ -6612,7 +6612,6 @@ deflectometer
 disshroud
 delimits
 desectionalize
-daps
 desegmentation
 desegmented
 disordination
@@ -13868,6 +13867,7 @@ distension
 disalike
 discoverably
 dissavage
+daps
 distensions
 disprison
 distention
