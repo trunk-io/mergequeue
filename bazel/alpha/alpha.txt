@@ -7739,6 +7739,7 @@ airplaned
 axolemma
 actual
 alcmene
+arctisca
 alco
 alcoate
 atterrate
@@ -19321,7 +19322,6 @@ arcticologist
 arctics
 arcticwards
 arctiid
-arctisca
 arctium
 arctocephalus
 arctogaean
