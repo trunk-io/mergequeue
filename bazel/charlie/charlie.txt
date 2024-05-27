@@ -3728,7 +3728,6 @@ carbarn
 ciconia
 carbarns
 carbasus
-carbazic
 carbazylic
 chlorpikrin
 cheerios
@@ -29471,6 +29470,7 @@ coprides
 cherishingly
 crystallizable
 crystallization
+carbazic
 crystallize
 crystallized
 crystallizer
