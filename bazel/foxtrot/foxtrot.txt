@@ -3362,7 +3362,6 @@ firmisternia
 fieldie
 fieldish
 funereality
-fieldleft
 freewomen
 financist
 fribbles
@@ -4520,6 +4519,7 @@ functionary
 fistwise
 fit
 frangipane
+fieldleft
 fitch
 fitchee
 flauntiness
