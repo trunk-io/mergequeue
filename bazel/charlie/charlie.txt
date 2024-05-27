@@ -14202,7 +14202,6 @@ cypseliformes
 chiriana
 cryptostomate
 colorist
-cypseloid
 cypselomorph
 coutel
 cypselomorphae
@@ -18718,6 +18717,7 @@ coital
 coitally
 chittak
 coitional
+cypseloid
 congreet
 coitophobia
 coiture
