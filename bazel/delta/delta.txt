@@ -4330,7 +4330,6 @@ deltohedron
 dittied
 dauerlauf
 deltoideus
-delubra
 delubrubra
 deluce
 delude
@@ -4504,6 +4503,7 @@ disangelical
 dementie
 dementing
 demeore
+delubra
 demephitize
 dermamyiasis
 deincrustant
