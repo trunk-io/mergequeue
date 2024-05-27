@@ -4242,7 +4242,6 @@ beastily
 beastish
 beastishness
 beastlier
-barkening
 bartlemy
 beastlike
 buoyantness
@@ -8585,6 +8584,7 @@ becolor
 bilateral
 bilateralism
 bilaterality
+barkening
 battercake
 bilateralities
 behaviors
