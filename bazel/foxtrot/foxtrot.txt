@@ -12,7 +12,6 @@ flagellators
 footsoldier
 fabled
 fablemaker
-forestay
 fablemongering
 fuder
 foveolas
@@ -3241,6 +3240,7 @@ forehent
 fictionised
 furbisher
 fictionization
+forestay
 fusspot
 fictionize
 fighters
