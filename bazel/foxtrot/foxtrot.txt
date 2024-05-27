@@ -4050,6 +4050,7 @@ finlet
 funorin
 frondescing
 finmarks
+fonder
 finnac
 finfoot
 finnan
@@ -10534,7 +10535,6 @@ frouziest
 frow
 ferroconcretor
 frowardness
-fonder
 frower
 flagella
 fetidly
