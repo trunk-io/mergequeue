@@ -4770,6 +4770,7 @@ encoded
 eremopteris
 encoding
 encodings
+exotheca
 encoffinment
 epicrisis
 extense
@@ -12824,7 +12825,6 @@ ephesine
 elinguated
 edgeways
 expansive
-exotheca
 exothecal
 exothecate
 exothermal
