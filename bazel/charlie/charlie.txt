@@ -7347,7 +7347,6 @@ coudee
 craspedote
 cephalaspis
 cocoonery
-chemoautotrophic
 cephalata
 cephalate
 coverts
@@ -16978,6 +16977,7 @@ clunch
 certainer
 cyathium
 commerces
+chemoautotrophic
 cluniacensian
 clunked
 clunkers
