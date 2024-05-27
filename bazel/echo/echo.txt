@@ -6545,7 +6545,6 @@ extemporaneousness
 excusive
 endostylic
 eccles
-epimedium
 ellipses
 enorthotrope
 emplastra
@@ -10163,6 +10162,7 @@ evolutions
 ethal
 encastered
 ethambutol
+epimedium
 ethmovomerine
 ethanamide
 entamoebiasis
