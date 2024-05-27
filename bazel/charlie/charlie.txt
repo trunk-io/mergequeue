@@ -358,7 +358,6 @@ cacogeusia
 cacoglossia
 cacographer
 chemicovital
-cacographic
 chlorals
 cacolet
 circulable
@@ -5467,6 +5466,7 @@ catpipe
 conductances
 cellar
 casuistries
+cacographic
 casule
 casus
 cat
