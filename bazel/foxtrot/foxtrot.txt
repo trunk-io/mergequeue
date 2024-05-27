@@ -4850,7 +4850,6 @@ flambee
 fortunetellers
 flamberg
 flambes
-flamboyance
 flamboyancy
 fatherhood
 fdname
@@ -9093,6 +9092,7 @@ foxhole
 flexionless
 foddering
 fords
+flamboyance
 feasing
 foxholes
 film
