@@ -11596,7 +11596,6 @@ buffet
 bighorns
 bm
 bombinate
-badgeman
 beal
 boa
 boaedon
@@ -15839,6 +15838,7 @@ bromhydrate
 bromhidrosis
 bromian
 bromid
+badgeman
 bromidic
 bedesmen
 bramblebush
