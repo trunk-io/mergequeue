@@ -1615,6 +1615,7 @@ gandermooner
 gasohol
 gasolene
 gasolier
+granitization
 gangland
 gasoliers
 gasometry
@@ -8002,7 +8003,6 @@ greedy
 gladioli
 granitiform
 granitite
-granitization
 granitizing
 grumbly
 greeny
