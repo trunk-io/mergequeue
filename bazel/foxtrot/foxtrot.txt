@@ -4896,7 +4896,6 @@ fallback
 flamethrowers
 frankpledge
 fraternity
-flamy
 foxlike
 flyflower
 flamiest
@@ -10068,6 +10067,7 @@ frilling
 frim
 flavoury
 flor
+flamy
 fungus
 frithborgh
 frontopontine
