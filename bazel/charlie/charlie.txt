@@ -11017,7 +11017,6 @@ coistrels
 chiropody
 comitatus
 chiropodial
-chiropodic
 chiropodical
 contorsion
 chiropodistry
@@ -13655,6 +13654,7 @@ cylindroconoidal
 chloralization
 cylindrodendrite
 confederated
+chiropodic
 classicistic
 cylindrograph
 compilers
