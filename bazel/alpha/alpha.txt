@@ -5777,7 +5777,6 @@ ardeid
 agal
 agalactic
 agalawood
-animalcule
 appoggiaturas
 agalaxy
 agalaxia
@@ -21357,6 +21356,7 @@ asystole
 asystolic
 asyzygetic
 ask
+animalcule
 allophone
 askable
 askant
