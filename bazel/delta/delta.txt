@@ -4062,7 +4062,6 @@ designation
 dialing
 dirten
 delegation
-dueness
 delegations
 dalradian
 dummies
@@ -5030,6 +5029,7 @@ demulsified
 demulsifier
 demulsion
 dubitation
+dueness
 distinguish
 derk
 demultiplex
