@@ -4852,7 +4852,6 @@ genericness
 gise
 galempung
 granges
-gooier
 gibbles
 gisel
 gisement
@@ -9220,6 +9219,7 @@ grogram
 grograms
 gallowglass
 gouaches
+gooier
 gaure
 gaeldom
 growed
