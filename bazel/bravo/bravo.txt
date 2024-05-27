@@ -163,7 +163,6 @@ bacca
 baccaceous
 bracteolate
 baccalaureate
-baccalaureates
 baccalaureus
 belage
 baccara
@@ -13063,6 +13062,7 @@ borinqueno
 bordun
 bordure
 buckbeans
+baccalaureates
 bordures
 boreable
 boread
