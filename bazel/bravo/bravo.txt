@@ -2553,6 +2553,7 @@ borscht
 barghests
 beslash
 barging
+berede
 bargir
 bassetite
 barguest
@@ -6705,7 +6706,6 @@ bodyplate
 bereaves
 boninesses
 biz
-berede
 berengaria
 bursate
 bicolourous
