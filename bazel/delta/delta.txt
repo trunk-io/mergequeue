@@ -2028,7 +2028,6 @@ dourness
 decagrams
 diverberate
 decahedral
-decahedron
 defoamers
 degamis
 dentatocrenate
@@ -5433,6 +5432,7 @@ dentists
 deproceduring
 dentition
 dilating
+decahedron
 dentolabial
 dentolingual
 dielytra
