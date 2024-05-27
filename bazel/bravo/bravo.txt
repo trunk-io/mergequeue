@@ -4200,7 +4200,6 @@ beardfishes
 beswarms
 beardy
 blanchimeter
-bearding
 bruting
 bv
 beardom
@@ -13487,6 +13486,7 @@ biotelemetry
 brattiness
 betweenness
 bacteriocyte
+bearding
 benefic
 bradyseismism
 bowyangs
