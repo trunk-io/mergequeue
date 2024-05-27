@@ -11425,7 +11425,6 @@ bluebottle
 bluebreast
 bashlik
 bluebush
-build
 bibbed
 bluecoated
 becquerelite
@@ -15492,6 +15491,7 @@ broidering
 bothriolepis
 brise
 briseis
+build
 brises
 brisken
 brisker
