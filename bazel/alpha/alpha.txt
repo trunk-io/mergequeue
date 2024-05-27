@@ -8769,7 +8769,6 @@ allergist
 allergists
 allergology
 allerion
-assurable
 allethrin
 alleve
 alleviate
@@ -19299,6 +19298,7 @@ arcose
 angiospermal
 antipolo
 arcosolia
+assurable
 arthropoda
 arcosoliulia
 alquifou

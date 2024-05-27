@@ -3575,7 +3575,6 @@ batheable
 bathed
 bellower
 bather
-bathes
 bathetically
 bathflower
 bathhouses
@@ -17715,6 +17714,7 @@ bayed
 bushwah
 bridegod
 burkundaz
+bathes
 burl
 burlace
 birgus
