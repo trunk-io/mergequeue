@@ -3971,7 +3971,6 @@ autoactivation
 adjective
 adjectively
 adjectives
-adjectivism
 anagogy
 araphostic
 adjectivitis
@@ -5034,6 +5033,7 @@ aerogun
 aerohydrodynamic
 aerohydropathy
 approachment
+adjectivism
 antritis
 archdapifership
 anticommunism
