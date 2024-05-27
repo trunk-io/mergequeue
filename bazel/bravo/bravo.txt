@@ -7102,6 +7102,7 @@ besmooth
 bloman
 besmooths
 barricades
+burrows
 besmottered
 besmouch
 besmudge
@@ -17831,7 +17832,6 @@ breakback
 burroughs
 burroweed
 burrower
-burrows
 benevolent
 burrstone
 bude
