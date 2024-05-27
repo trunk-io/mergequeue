@@ -3256,7 +3256,6 @@ empathizes
 epitomization
 ethnographic
 elvanitic
-elvet
 elvishly
 enigmatically
 elzevir
@@ -8911,6 +8910,7 @@ erer
 erethic
 erethisia
 evolvement
+elvet
 erethism
 eponymism
 enneagon
