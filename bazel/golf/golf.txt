@@ -2075,6 +2075,7 @@ guruships
 glycosin
 guffy
 gelded
+glew
 galician
 gnarrs
 gryphaea
@@ -5837,7 +5838,6 @@ glossier
 galactolytic
 goitered
 glossies
-glew
 grey
 glossiest
 glossinas
