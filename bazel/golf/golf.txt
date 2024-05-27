@@ -4888,7 +4888,6 @@ ganglander
 greenwood
 gadling
 gitter
-ganocephalan
 goad
 gitterns
 ganglioblast
@@ -8511,6 +8510,7 @@ grazes
 grazierdom
 graziers
 grazing
+ganocephalan
 geobiologic
 glossagra
 growthful

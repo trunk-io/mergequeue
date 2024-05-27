@@ -6782,7 +6782,6 @@ celiotomy
 cell
 cella
 cellager
-cellarage
 cellared
 chamoix
 cellarers
@@ -21125,6 +21124,7 @@ conamarin
 cubiculary
 clerkish
 communard
+cellarage
 cramoisie
 conand
 conant
