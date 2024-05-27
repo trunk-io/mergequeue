@@ -1762,7 +1762,6 @@ gibs
 gastrocolotomy
 gastrodermal
 gastrodermis
-gnotobiote
 goosemouth
 guayabo
 gravemaking
@@ -2192,6 +2191,7 @@ geison
 gruffed
 gymnogenous
 gawking
+gnotobiote
 gawkish
 gawm
 gatewise
