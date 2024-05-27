@@ -1121,7 +1121,6 @@ edibility
 edible
 expeditive
 exhaustingly
-eumycetic
 expurgatory
 exfoliated
 edibles
@@ -4447,6 +4446,7 @@ encapsules
 enure
 encapsuling
 encaptivate
+eumycetic
 electrophototherapy
 electrophysiologic
 enchytraeidae
