@@ -5035,7 +5035,6 @@ derk
 demultiplex
 demultiplexed
 demultiplexer
-demultiplexers
 disroot
 demultiplexes
 deposed
@@ -18325,6 +18324,7 @@ dug
 disrupted
 duodecimole
 dithionic
+demultiplexers
 duodecimos
 duodecuple
 dogberrydom
