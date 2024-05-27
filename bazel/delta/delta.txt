@@ -4627,7 +4627,6 @@ demilitarising
 demilitarization
 demilitarized
 dentaliidae
-demilitarizes
 demilitarizing
 demiliterate
 demilustre
@@ -16759,6 +16758,7 @@ drape
 draped
 disharmonized
 draperied
+demilitarizes
 draperies
 downline
 drapet
