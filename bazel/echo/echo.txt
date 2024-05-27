@@ -8409,7 +8409,6 @@ enhaloes
 epitome
 epitomic
 epitomical
-epitomise
 epitomiser
 egency
 epitomized
@@ -12987,6 +12986,7 @@ ergotic
 ejacula
 ethos
 expediment
+epitomise
 errand
 expeding
 epitaxy
