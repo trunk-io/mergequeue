@@ -5987,7 +5987,6 @@ belted
 boe
 bellowsmaking
 bellpull
-bellpulls
 burhead
 bells
 belltail
@@ -13758,6 +13757,7 @@ bouzoukis
 bufflehorn
 bovaristic
 bovate
+bellpulls
 bovey
 bovidae
 bovids
