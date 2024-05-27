@@ -2845,7 +2845,6 @@ barotropic
 barouche
 beguin
 barouchette
-barouni
 baroxyton
 barque
 belite
@@ -7396,6 +7395,7 @@ betask
 bottier
 birde
 betatron
+barouni
 betatrons
 betattered
 beclothing
