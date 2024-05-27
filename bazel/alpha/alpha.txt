@@ -10335,7 +10335,6 @@ amenability
 amenable
 alkalis
 anticheater
-amenableness
 amenably
 amenance
 amendableness
@@ -24942,6 +24941,7 @@ awakens
 awaking
 automotor
 apposable
+amenableness
 awane
 awanyu
 autotuberculin
