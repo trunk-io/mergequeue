@@ -6274,7 +6274,6 @@ fluigram
 filestatus
 frankincensed
 fluyts
-flybelts
 fluke
 fluked
 feridgi
@@ -6906,6 +6905,7 @@ foaminess
 folksiest
 filibusterous
 folksong
+flybelts
 finely
 foll
 fomes
