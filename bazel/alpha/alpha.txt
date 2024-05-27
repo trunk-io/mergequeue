@@ -5319,7 +5319,6 @@ affich
 affiches
 affidare
 affidation
-ais
 affidavy
 affidavit
 aviso
@@ -11048,6 +11047,7 @@ amortising
 amortissement
 amortizable
 amortization
+ais
 arbitrarily
 amortized
 amortizes
