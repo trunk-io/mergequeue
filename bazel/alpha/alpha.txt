@@ -879,7 +879,6 @@ agglutinating
 absences
 actionized
 absentation
-absentee
 absentees
 absenter
 absenters
@@ -11171,6 +11170,7 @@ aluconidae
 amphicarpogenous
 amphichroic
 anilopyrin
+absentee
 amphichrom
 amphichromy
 amphicyon
