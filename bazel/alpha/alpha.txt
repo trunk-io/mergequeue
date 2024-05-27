@@ -967,6 +967,7 @@ afterhold
 absorbefacient
 allemontite
 azoflavine
+anthracene
 antagonisable
 absorbents
 absorbers
@@ -14487,7 +14488,6 @@ anthozoan
 anthozoic
 alpheratz
 anthozoon
-anthracene
 anthracia
 anthraciferous
 anthracyl
