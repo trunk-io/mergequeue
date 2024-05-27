@@ -20654,6 +20654,7 @@ compilation
 curvilinearly
 compilations
 compilator
+crucibulum
 compileable
 compiled
 compilement
@@ -30126,7 +30127,6 @@ cruciately
 cruciating
 cruciation
 crucible
-crucibulum
 credulousness
 cruciferae
 cruciferous

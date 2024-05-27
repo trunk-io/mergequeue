@@ -1600,7 +1600,6 @@ fleecelike
 fi
 fleaworts
 favorites
-favorless
 freudianism
 favosely
 favosite
@@ -3824,6 +3823,7 @@ fatbirds
 faintheart
 flankwise
 fract
+favorless
 fimbria
 florigenic
 fimbriae
