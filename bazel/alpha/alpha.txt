@@ -5555,6 +5555,7 @@ africanize
 africanoid
 affrettando
 afridi
+aik
 afright
 akamnik
 afrikaans
@@ -6726,7 +6727,6 @@ ayield
 ayins
 agorae
 ayyubid
-aik
 aikane
 automatictacessing
 adagio
