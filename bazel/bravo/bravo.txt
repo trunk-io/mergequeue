@@ -226,6 +226,7 @@ bactrites
 betrothed
 binary
 bathyanesthesia
+boatloader
 bache
 bemol
 bachelor
@@ -11679,7 +11680,6 @@ boatlike
 boatlip
 boatload
 bankerdom
-boatloader
 boatloading
 boatloads
 bowllike
