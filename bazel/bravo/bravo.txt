@@ -5833,7 +5833,6 @@ belittle
 belittled
 begloomed
 belive
-bifurcous
 bewailingly
 bavardage
 bell
@@ -14510,6 +14509,7 @@ brander
 branders
 brandy
 brandyball
+bifurcous
 brasero
 brosy
 bitty
