@@ -3765,6 +3765,7 @@ beltis
 borate
 batterie
 breck
+bitangential
 batteried
 batteries
 betrayals
@@ -9911,7 +9912,6 @@ bidialectal
 bonce
 bytalk
 bytalks
-bitangential
 bields
 bitanhol
 bitartrate
