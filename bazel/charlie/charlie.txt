@@ -1536,6 +1536,7 @@ chemostat
 callisto
 callithrix
 callithump
+convocator
 collegiant
 corruptibilities
 callithumpian
@@ -24252,7 +24253,6 @@ convocationist
 colleterial
 convocations
 convocative
-convocator
 cantabrize
 convoyed
 convoying
