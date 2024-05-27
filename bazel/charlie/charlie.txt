@@ -2166,7 +2166,6 @@ coteline
 camporee
 camporees
 clopping
-campos
 campout
 circumfusile
 camps
@@ -30095,6 +30094,7 @@ crownlike
 crownmaker
 crownment
 clavolae
+campos
 crownpiece
 crownwork
 crownwort
