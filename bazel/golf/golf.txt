@@ -1342,7 +1342,6 @@ gean
 grallina
 gospellike
 garde
-gnatsnapper
 granch
 gnosticism
 gardeners
@@ -5495,6 +5494,7 @@ guttural
 graduals
 grando
 grimful
+gnatsnapper
 groomishly
 groutiest
 guiltless
