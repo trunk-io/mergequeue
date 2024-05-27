@@ -19287,7 +19287,6 @@ chiquest
 colocated
 colocephali
 colocynth
-contemperature
 crista
 colocola
 colodyspepsia
@@ -26590,6 +26589,7 @@ cottus
 cotunnite
 culicids
 cotutor
+contemperature
 cymbaled
 cotwist
 clingers
