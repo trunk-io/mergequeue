@@ -3751,7 +3751,6 @@ battements
 bestriding
 battened
 battener
-beknown
 balladising
 batteners
 battens
@@ -4699,6 +4698,7 @@ bedevilling
 borities
 bbls
 bedevilment
+beknown
 bedew
 beaned
 bioplasmic
