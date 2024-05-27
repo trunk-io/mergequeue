@@ -2050,7 +2050,6 @@ elaic
 elaidate
 elain
 elaioleucite
-emusive
 embelif
 entirety
 elaioplast
@@ -6664,6 +6663,7 @@ empyreumatic
 enright
 epidotization
 enterotoxemia
+emusive
 enterotoxication
 essence
 enteroviral
