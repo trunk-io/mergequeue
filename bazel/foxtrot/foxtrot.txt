@@ -2051,7 +2051,6 @@ frothiness
 foggiest
 felahin
 felapton
-feldspar
 farewelling
 funebrial
 forclose
@@ -9969,6 +9968,7 @@ folliculous
 friending
 friendlessness
 forepeaks
+feldspar
 fines
 friendliwise
 fevercup
