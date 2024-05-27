@@ -9805,7 +9805,6 @@ dillymen
 dilling
 doorstops
 dillisk
-dills
 dillseed
 dimetria
 desilver
@@ -18331,6 +18330,7 @@ dogberrydom
 duodedena
 duodedenums
 duodena
+dills
 duodenary
 duodenate
 declension
