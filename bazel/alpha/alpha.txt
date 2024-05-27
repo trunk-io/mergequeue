@@ -13097,7 +13097,6 @@ anhele
 anhelose
 anhematopoiesis
 anhemitonic
-anarthropodous
 anhemolytic
 anhyd
 anhydraemia
@@ -13636,6 +13635,7 @@ annotatively
 ablate
 annotativeness
 adaptability
+anarthropodous
 annotator
 annotatory
 annotators
