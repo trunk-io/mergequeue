@@ -10557,7 +10557,6 @@ amidoplast
 amaryllid
 amidoplastid
 amidoxy
-amidoxyl
 amidrazone
 amids
 amidship
@@ -14594,6 +14593,7 @@ anthropologic
 apostrophised
 adapis
 anthropologies
+amidoxyl
 anthropologists
 anthropomancy
 anthropomantist
