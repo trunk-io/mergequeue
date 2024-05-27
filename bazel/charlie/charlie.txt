@@ -20744,6 +20744,7 @@ completory
 completories
 complex
 complexation
+conflagrator
 complexedness
 complexer
 complexes
@@ -22100,7 +22101,6 @@ conflagration
 conflagrations
 climatologists
 conflagrative
-conflagrator
 conflagratory
 conflate
 colauxe
