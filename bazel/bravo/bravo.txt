@@ -5217,6 +5217,7 @@ beforesaid
 beforetimes
 baffled
 becket
+billable
 bouilli
 boxholder
 befoulers
@@ -8698,7 +8699,6 @@ baptism
 bo
 bradycardia
 brusquer
-billable
 billabong
 billage
 bushwhacker
