@@ -16692,7 +16692,6 @@ closehanded
 cardiodysesthesia
 contratempo
 closeness
-closeout
 cedric
 closeouts
 closer
@@ -29148,6 +29147,7 @@ courtman
 caldarium
 criocephalus
 coelacanthini
+closeout
 crioceras
 circulate
 crioceratite
