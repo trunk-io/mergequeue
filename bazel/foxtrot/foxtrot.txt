@@ -3588,7 +3588,6 @@ forspoken
 fourniture
 filers
 fructification
-felinity
 fungivorous
 files
 filesmith
@@ -7507,6 +7506,7 @@ folksongs
 forebodingness
 fleshiest
 foreboom
+felinity
 fangotherapy
 filterers
 farceur
