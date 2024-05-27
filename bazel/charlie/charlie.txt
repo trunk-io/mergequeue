@@ -9379,7 +9379,6 @@ chaudron
 chauffage
 coffinite
 chauffer
-chauffers
 chauffeured
 chauffeuring
 chauffeurship
@@ -18167,6 +18166,7 @@ cruses
 colpocystocele
 coequated
 coequates
+chauffers
 coerce
 coerced
 controversion
