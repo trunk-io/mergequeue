@@ -274,7 +274,6 @@ dagswain
 daguerrean
 daguerreotype
 daguerreotyped
-deipnosophistic
 daguerreotyping
 daguerreotypist
 dreadnaught
@@ -12755,6 +12754,7 @@ dismayfully
 dismail
 dismal
 drosophila
+deipnosophistic
 disworkmanship
 downhaul
 dusack
