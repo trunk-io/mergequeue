@@ -6832,7 +6832,6 @@ berloque
 berm
 berme
 bossiest
-bermensch
 bermes
 blurted
 brawler
@@ -9294,6 +9293,7 @@ bathysmal
 bowl
 botanists
 becalmment
+bermensch
 behaves
 biotelemetries
 biotical
