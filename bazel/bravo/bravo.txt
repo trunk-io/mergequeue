@@ -2413,6 +2413,7 @@ blip
 barcelonas
 bebeeru
 barchans
+bipedality
 barcone
 belabors
 barcoo
@@ -9341,7 +9342,6 @@ buffin
 biped
 bipedal
 bourbonesque
-bipedality
 bipeds
 bipeltate
 bipennate
