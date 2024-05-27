@@ -3826,7 +3826,6 @@ backspins
 batton
 batts
 blowpipe
-battu
 battues
 batture
 battuta
@@ -10036,6 +10035,7 @@ bipropellant
 bikes
 bituminosis
 brian
+battu
 bituminous
 bitwise
 beryllate
