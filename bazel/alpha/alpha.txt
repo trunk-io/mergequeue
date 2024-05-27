@@ -11694,6 +11694,7 @@ anaemias
 anaemic
 arrage
 anaemotropy
+areolated
 anaeretic
 astrometeorologist
 anaerobation
@@ -19442,7 +19443,6 @@ areola
 areolae
 areolar
 areolas
-areolated
 areolation
 areolet
 astrocytomata
