@@ -15299,7 +15299,6 @@ clags
 candiel
 clay
 claybanks
-contangos
 claiborne
 claibornian
 claybrained
@@ -31868,6 +31867,7 @@ curliewurlie
 cuttyhunk
 cuttikin
 creamfruit
+contangos
 cutting
 cuttingly
 cuttingness
