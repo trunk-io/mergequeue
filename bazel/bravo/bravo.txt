@@ -604,6 +604,7 @@ biblist
 bacterially
 bacteric
 bactericide
+bol
 beethoven
 bawke
 bidget
@@ -6175,7 +6176,6 @@ bittier
 burnings
 bemuses
 bemuzzle
-bol
 ballmine
 belswagger
 bemuzzles
