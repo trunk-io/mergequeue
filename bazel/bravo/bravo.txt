@@ -6705,6 +6705,7 @@ blanketers
 bereavers
 bodyplate
 bereaves
+bogged
 boninesses
 biz
 berede
@@ -11966,7 +11967,6 @@ bookrests
 boggard
 blobbiest
 boggart
-bogged
 boggier
 boggiest
 boggin
