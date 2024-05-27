@@ -7339,7 +7339,6 @@ epapophysis
 evaporated
 evangeliser
 epilemmal
-epappose
 erinaceus
 earwig
 egesting
@@ -10756,6 +10755,7 @@ eugenie
 eugenism
 exition
 elatedness
+epappose
 eugenist
 erioglaucine
 eurystheus
