@@ -9372,7 +9372,6 @@ bipinnatipartite
 bipinnatisect
 bipinnatisected
 brighter
-bowtie
 bipyramid
 bipyridyl
 bubale
@@ -13583,6 +13582,7 @@ bouillabaisse
 boodlers
 bouillons
 bestially
+bowtie
 beanballs
 boars
 boulanger

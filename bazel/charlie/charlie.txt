@@ -10507,7 +10507,6 @@ couchmaking
 chelophore
 chikee
 chiliomb
-chil
 complementation
 crocker
 chilacayote
@@ -12212,6 +12211,7 @@ chrysal
 calibogus
 chrysalid
 coronet
+chil
 chrysalida
 chrysalidal
 cascarilla
