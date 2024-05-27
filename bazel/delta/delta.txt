@@ -1649,7 +1649,6 @@ deprival
 dipteron
 deals
 dealt
-deambulate
 dozening
 divergency
 deamidase
@@ -8852,6 +8851,7 @@ dibenzoyl
 deg
 dibenzophenazine
 dibenzopyrrole
+deambulate
 disproportionates
 dibhole
 diblastula
