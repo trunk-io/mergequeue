@@ -5324,7 +5324,6 @@ arcanum
 affile
 affiliable
 addio
-affiliate
 affiliated
 affiliating
 affiliation
@@ -16756,6 +16755,7 @@ apeman
 apenteric
 athirst
 anthropomorphitic
+affiliate
 apepsinia
 arean
 artistically
