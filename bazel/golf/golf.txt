@@ -57,6 +57,7 @@ gelding
 greystone
 guardian
 gelatiniser
+gammarus
 gableboard
 gangue
 gabler
@@ -3745,7 +3746,6 @@ gillnets
 germanophobic
 gamin
 ghizite
-gammarus
 glassware
 glops
 gurgly
