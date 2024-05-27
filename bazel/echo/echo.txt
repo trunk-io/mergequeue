@@ -8293,7 +8293,6 @@ epistolic
 escribe
 epopoeia
 epistolical
-epistolised
 eure
 epistolising
 epistolography
@@ -10588,6 +10587,7 @@ epicerebral
 euascomycetes
 effigy
 exemplifications
+epistolised
 electromagnetics
 eubacteria
 eubacteriales
