@@ -7818,6 +7818,7 @@ bhaktimarga
 bhandari
 behavioral
 bhang
+bisect
 bhangi
 bhara
 bactetiophage
@@ -9688,7 +9689,6 @@ babbitter
 ballaton
 bisdimethylamino
 bicapsular
-bisect
 bisected
 balkily
 bisecting
