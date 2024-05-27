@@ -2052,6 +2052,7 @@ bankalachi
 bobsleds
 bidactyl
 bankbooks
+banty
 bankcard
 becrawl
 bankcards
@@ -2160,7 +2161,6 @@ biotechnologies
 boiler
 bantering
 banteringly
-banty
 bushrope
 bantings
 betangle
