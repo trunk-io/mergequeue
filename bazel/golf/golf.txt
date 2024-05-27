@@ -5299,7 +5299,6 @@ gleamier
 gleamily
 gleaming
 gleamingly
-gleamless
 gleams
 garroters
 genial
@@ -5325,6 +5324,7 @@ gloaters
 groundsheet
 glengarries
 gledy
+gleamless
 gleed
 gentiin
 glandulousness
