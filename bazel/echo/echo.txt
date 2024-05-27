@@ -7619,7 +7619,6 @@ epicleses
 epicly
 expectance
 epiclinal
-epicnemial
 epicoele
 elkesaite
 epicoeliac
@@ -13890,6 +13889,7 @@ extirpates
 extramatrical
 extramental
 epupillate
+epicnemial
 elations
 ephymnium
 etheria
