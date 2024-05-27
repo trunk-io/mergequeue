@@ -4804,7 +4804,6 @@ encompassment
 extinguishing
 encopreses
 exes
-electrolyzer
 esrogs
 encore
 embosks
@@ -7435,6 +7434,7 @@ ephebeion
 effascinate
 extine
 ephebes
+electrolyzer
 ephebeubea
 ephebi
 ephebic
