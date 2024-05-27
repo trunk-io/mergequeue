@@ -7538,7 +7538,6 @@ gowlan
 gowning
 gownsman
 gallflies
-gravamens
 gelechiid
 gownsmen
 gox
@@ -8590,6 +8589,7 @@ goosing
 guardless
 galerus
 grecoue
+gravamens
 grecque
 gnu
 groff
