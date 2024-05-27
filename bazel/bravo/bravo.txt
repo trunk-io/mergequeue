@@ -916,6 +916,7 @@ bodyguard
 butcherliness
 bookland
 bagpipers
+bandyball
 boscage
 bagpudding
 bagrationite
@@ -1886,7 +1887,6 @@ brython
 bakehouse
 bandhava
 bandhook
-bandyball
 bandicoy
 bonzes
 befoam
