@@ -4382,6 +4382,7 @@ fibroglioma
 febricity
 fishplate
 fossa
+fosterling
 feste
 fishpole
 foodlessness
@@ -8851,7 +8852,6 @@ fosterland
 fustle
 foreigners
 fossettes
-fosterling
 fingerlet
 frenzily
 frolics
