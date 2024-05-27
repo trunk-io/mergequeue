@@ -8644,6 +8644,7 @@ dyarchies
 debugging
 distilment
 diary
+dunpickle
 disimmure
 disimprove
 diarist
@@ -18284,7 +18285,6 @@ dunnite
 dunnites
 dunno
 dextorsal
-dunpickle
 debtorship
 donkeyism
 dhu
