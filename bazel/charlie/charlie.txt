@@ -27788,7 +27788,6 @@ crestfish
 coxankylometer
 clements
 coxarthritis
-coxarthropathy
 coxbones
 coxcomb
 coxcombess
@@ -28470,6 +28469,7 @@ creased
 creaseless
 creaser
 chloralism
+coxarthropathy
 creasers
 creases
 creashaks
