@@ -6938,6 +6938,7 @@ berzelianite
 burley
 berzeliite
 bes
+bushpig
 barbets
 busboy
 besagne
@@ -17209,7 +17210,6 @@ bullpen
 bullpoll
 belibeling
 bemirror
-bushpig
 bullpup
 bullragged
 bullragging
