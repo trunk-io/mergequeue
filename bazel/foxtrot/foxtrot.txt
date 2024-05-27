@@ -4273,7 +4273,6 @@ firns
 faventine
 flammability
 freestanding
-first
 finific
 forbearer
 forestian
@@ -8610,6 +8609,7 @@ fortaxed
 faldstool
 flanchard
 fortescue
+first
 foolhead
 fossoria
 forth
