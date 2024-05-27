@@ -2490,7 +2490,6 @@ decisional
 decisions
 decisis
 decisive
-decisively
 darkened
 decitizenize
 decivilize
@@ -8283,6 +8282,7 @@ diagnostically
 diagnosticate
 denitrating
 dinotherium
+decisively
 demegoric
 diagnostician
 dantist
