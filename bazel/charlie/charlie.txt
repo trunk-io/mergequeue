@@ -22979,7 +22979,6 @@ cylindroidal
 causse
 consigning
 consignments
-consigns
 consiliary
 consilience
 consilient
@@ -29406,6 +29405,7 @@ crisic
 connach
 crisp
 crispated
+consigns
 crispbread
 circassian
 crispened
