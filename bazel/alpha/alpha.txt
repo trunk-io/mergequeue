@@ -5555,6 +5555,7 @@ afrikaans
 astartian
 amalgams
 arrange
+algometry
 afrikanderdom
 afrikanderism
 afrikaner
@@ -8219,7 +8220,6 @@ algological
 algologist
 algoman
 abacli
-algometry
 algometrical
 algometrically
 algomic
