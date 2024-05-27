@@ -2424,7 +2424,6 @@ acetoveratrone
 asseverates
 acinaciform
 acinacious
-acinar
 acouchy
 altin
 albardine
@@ -23612,6 +23611,7 @@ aurigal
 amethysts
 aurigation
 agrionid
+acinar
 aurigerous
 aurigo
 aurigraphy
