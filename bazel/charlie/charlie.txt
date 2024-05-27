@@ -5861,7 +5861,6 @@ cateringly
 copras
 caterpillar
 caterpillared
-caterpillarlike
 crunt
 chelerythrin
 caterpillars
@@ -20080,6 +20079,7 @@ commends
 commensal
 commensalist
 commensalistic
+caterpillarlike
 commensally
 campodeid
 commensals
