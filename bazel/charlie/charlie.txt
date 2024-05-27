@@ -3852,7 +3852,6 @@ carbonometer
 carbonometry
 chondrin
 carbonous
-carbons
 carbonuria
 contradistinguish
 corial
@@ -25432,6 +25431,7 @@ cornflower
 cornflowers
 corngrower
 cornhole
+carbons
 cornhouse
 cornhusker
 chamades
