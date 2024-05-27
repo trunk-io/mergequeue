@@ -18491,6 +18491,7 @@ aralie
 anglicist
 algaroba
 amerindian
+authentication
 aralkyl
 aramaicize
 assembling
@@ -23820,7 +23821,6 @@ authentically
 authenticate
 authenticated
 authenticates
-authentication
 athetosic
 angularization
 alumbrado
