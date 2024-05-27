@@ -6741,7 +6741,6 @@ crustacea
 canstick
 celestialness
 celestify
-celestina
 claptrap
 celestite
 celestitude
@@ -12632,6 +12631,7 @@ chromoxylograph
 chron
 caplets
 cacothes
+celestina
 chronaxie
 chronaxies
 chroncmeter
