@@ -11858,6 +11858,7 @@ engracing
 essentials
 excavations
 excavator
+emersions
 enlace
 emptins
 excavatory
@@ -13691,7 +13692,6 @@ engrail
 ewers
 elocular
 elatine
-emersions
 esteemed
 exhibitive
 exterous
