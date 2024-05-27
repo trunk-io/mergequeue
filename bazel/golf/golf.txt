@@ -4648,6 +4648,7 @@ gait
 gypsoplast
 grandparent
 gypster
+glandule
 gastrolith
 gypsuming
 gammadion
@@ -4983,7 +4984,6 @@ glaciating
 glans
 glaciation
 gunmen
-glandule
 glacieret
 germiparous
 glacierist
