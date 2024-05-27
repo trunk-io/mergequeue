@@ -4790,6 +4790,7 @@ graphometer
 gowkit
 gumfield
 groszy
+gamming
 gasconade
 galliards
 gamori
@@ -7335,7 +7336,6 @@ geoponical
 greenstuff
 gospoda
 globated
-gamming
 gassings
 gullishness
 glycerol
