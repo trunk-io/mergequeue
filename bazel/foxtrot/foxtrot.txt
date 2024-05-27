@@ -4800,7 +4800,6 @@ flivvers
 foothook
 fungal
 flailing
-folksinging
 fisheries
 followable
 flails
@@ -10216,6 +10215,7 @@ forbit
 fauna
 funnily
 fishmen
+folksinging
 feued
 frizing
 frizz
