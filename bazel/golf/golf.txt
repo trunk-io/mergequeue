@@ -7099,7 +7099,6 @@ gooseneck
 glider
 galyac
 griselda
-galactodendron
 gladiators
 graniteware
 goglets
@@ -8829,6 +8828,7 @@ glauconitic
 gonimic
 gressorious
 gentman
+galactodendron
 glucolipine
 gasworker
 grete
