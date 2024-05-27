@@ -2655,6 +2655,7 @@ flusters
 foreshoulder
 ferrule
 frumentation
+forky
 familiarisation
 ferrules
 fanman
@@ -4316,7 +4317,6 @@ fishbolts
 falchions
 fellers
 fishbowls
-forky
 fisheyes
 forecomingness
 flote
