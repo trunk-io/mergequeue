@@ -2169,7 +2169,6 @@ fumatories
 fazendeiro
 fluorescence
 folkmoot
-flatfooting
 felonwort
 feriae
 fraela
@@ -11078,6 +11077,7 @@ fumulus
 funambulate
 funambulated
 funambulation
+flatfooting
 funambulator
 felicitously
 fishline
