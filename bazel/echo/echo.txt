@@ -2910,7 +2910,6 @@ elevons
 eurydice
 elf
 elfenfolk
-epinard
 eponymous
 elfins
 elfinwood
@@ -5934,6 +5933,7 @@ enjambments
 ectomere
 encumbrancer
 enjoy
+epinard
 enjoyable
 enjoying
 equivaliant
