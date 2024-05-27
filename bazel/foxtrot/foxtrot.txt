@@ -5766,7 +5766,6 @@ flittermouse
 farmlands
 fraternalist
 fathmur
-flamb
 foredoom
 flitters
 flitting
@@ -8871,6 +8870,7 @@ fredaine
 furbelow
 fouettee
 fouettes
+flamb
 flambage
 flunkies
 foreshadower

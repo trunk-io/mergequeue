@@ -6405,7 +6405,6 @@ gobio
 grabens
 gyrons
 gastroatonia
-gastriloquous
 gastronomist
 goblin
 gastral
@@ -10309,6 +10308,7 @@ genipa
 gauffred
 gujarati
 gd
+gastriloquous
 glood
 gametic
 gymnostomous
