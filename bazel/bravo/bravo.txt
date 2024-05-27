@@ -2595,7 +2595,6 @@ baryon
 baryphonia
 baryphonic
 baris
-bearleap
 bromating
 barysilite
 barit
@@ -16015,6 +16014,7 @@ broaden
 buckskins
 backlasher
 brontology
+bearleap
 bollards
 brontosaurus
 bawls
