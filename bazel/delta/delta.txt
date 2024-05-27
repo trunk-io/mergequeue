@@ -4878,6 +4878,7 @@ demolition
 demolitionist
 dishonest
 demolitions
+durocs
 diodon
 donnot
 dhows
@@ -9295,7 +9296,6 @@ dauts
 dietal
 dietaries
 dieter
-durocs
 disploding
 dieters
 discriminal

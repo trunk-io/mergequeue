@@ -19574,7 +19574,6 @@ colpus
 colstaff
 cnidogenous
 colter
-colters
 choirboy
 chasid
 colthood
@@ -21850,6 +21849,7 @@ conducts
 conductus
 complementarily
 condoling
+colters
 condue
 conduit
 conduplicate
