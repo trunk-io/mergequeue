@@ -5930,6 +5930,7 @@ coconspirator
 catheads
 cathect
 cathected
+compressional
 cathecting
 cathection
 cathects
@@ -20971,7 +20972,6 @@ compressible
 compressibleness
 compressibly
 compression
-compressional
 compressive
 compressively
 compressometer
