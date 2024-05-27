@@ -1780,6 +1780,7 @@ gluts
 gastroenteroanastomosis
 gastroenterocolostomy
 gastroenterology
+gastroplenic
 gelatination
 gastightness
 gastroenterologic
@@ -4807,7 +4808,6 @@ goosishly
 glycolipide
 gyroscopes
 gyrose
-gastroplenic
 gesticulating
 gyrotheca
 girouette
