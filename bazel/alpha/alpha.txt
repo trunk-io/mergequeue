@@ -1253,7 +1253,6 @@ avowal
 acanthomas
 acanthomeridae
 acanthon
-acanthopanax
 anlia
 acanthophorous
 acanthopodous
@@ -8622,6 +8621,7 @@ alkoxy
 antagonize
 alkoxyl
 all
+acanthopanax
 allabuta
 archaeologically
 allachesthesia
