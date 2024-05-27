@@ -2975,6 +2975,7 @@ equiprobabilism
 eliminated
 equaled
 eliminating
+embeds
 ehuawa
 eliminator
 earmarked
@@ -3062,7 +3063,6 @@ entellus
 escar
 endothelia
 enqueue
-embeds
 emp
 encyclical
 elliot
