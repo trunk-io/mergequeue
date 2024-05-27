@@ -7400,7 +7400,6 @@ cephaloid
 culminates
 cuticles
 cephalology
-cephalom
 calina
 cephalomancy
 cephalomant
@@ -21782,6 +21781,7 @@ condolers
 condoles
 compesce
 corruptibleness
+cephalom
 condolingly
 condom
 condominate
