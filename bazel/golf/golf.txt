@@ -856,7 +856,6 @@ gambeered
 gabbroic
 glauke
 girondin
-grants
 gambelli
 gandoura
 gambeson
@@ -6413,6 +6412,7 @@ gastral
 gettable
 gateward
 gunite
+grants
 glucosulfone
 griddler
 gasteralgia
