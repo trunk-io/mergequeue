@@ -769,7 +769,6 @@ fandangos
 fandoms
 fanegadas
 feudalizable
-familiarism
 fellowlike
 fermacy
 fanfaronade
@@ -5703,6 +5702,7 @@ fractuosity
 fluotantalate
 flyspecked
 freckledness
+familiarism
 foredeserved
 fecket
 fringepod
