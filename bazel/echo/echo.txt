@@ -3081,7 +3081,6 @@ elliptically
 ellipticalness
 ellipticity
 extemporize
-elliptograph
 elliptoid
 electrum
 extraparietal
@@ -13456,6 +13455,7 @@ epoxy
 exquire
 exquisite
 enterocystoma
+elliptograph
 epithalamium
 ecclesiasticalism
 ethnomusicology
