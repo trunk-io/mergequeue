@@ -1379,7 +1379,6 @@ blithen
 baldaquin
 baldberry
 baldcrown
-balded
 balder
 balderdash
 botherheaded
@@ -3491,6 +3490,7 @@ bucklandite
 bastonet
 bibliolatrous
 bedaff
+balded
 bovine
 basts
 banuyo
