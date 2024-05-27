@@ -60,6 +60,7 @@ gelatiniser
 gammarus
 gableboard
 gangue
+glucuronic
 gabler
 guemal
 geometrine
@@ -9210,7 +9211,6 @@ gluttei
 garrulity
 groenlandicus
 grazeable
-glucuronic
 gi
 goethites
 grog
