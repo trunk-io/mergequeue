@@ -8431,7 +8431,6 @@ dialyzes
 dispell
 dialkylamine
 detentes
-diallage
 diallagic
 diallagite
 deadwort
@@ -13352,6 +13351,7 @@ discerns
 disputers
 discord
 disputes
+diallage
 disputing
 demonstrableness
 decorrugative
