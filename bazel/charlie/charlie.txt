@@ -8920,7 +8920,6 @@ chaqueta
 char
 conveyability
 chara
-costae
 charabanc
 capkin
 compensativeness
@@ -26296,6 +26295,7 @@ costated
 crouching
 congrio
 confectionery
+costae
 costeaning
 costectomy
 costectomies
