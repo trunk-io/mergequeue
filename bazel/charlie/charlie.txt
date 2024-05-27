@@ -14727,7 +14727,6 @@ cysticle
 cysticolous
 cystid
 cystidea
-cystinosis
 cystidean
 cystidium
 candescent
@@ -28541,6 +28540,7 @@ carapaced
 credences
 credencive
 credenda
+cystinosis
 cassada
 credent
 credentialed
