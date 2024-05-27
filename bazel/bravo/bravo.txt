@@ -1869,7 +1869,6 @@ besotter
 branchling
 bandeau
 betula
-bandelet
 bandelette
 bandeng
 banderma
@@ -16760,6 +16759,7 @@ boodler
 buddleia
 bunkhouses
 buddleias
+bandelet
 buddling
 budged
 blindfolding
