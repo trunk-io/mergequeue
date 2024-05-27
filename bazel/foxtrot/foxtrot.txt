@@ -3504,7 +3504,6 @@ faipule
 forcepses
 feuilletonist
 figurer
-flyweight
 flocculous
 facebread
 figures
@@ -8320,6 +8319,7 @@ forklift
 forklike
 frangulaceae
 forkman
+flyweight
 ficus
 forswornness
 forks
