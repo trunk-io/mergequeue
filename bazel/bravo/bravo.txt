@@ -5113,6 +5113,7 @@ battlers
 blazoned
 botfly
 bloodthirst
+bonnethead
 befamilied
 biogeography
 befanned
@@ -12618,7 +12619,6 @@ bonnes
 bonnet
 bonneted
 bonneter
-bonnethead
 barrens
 bonnetiere
 bonnetlike
