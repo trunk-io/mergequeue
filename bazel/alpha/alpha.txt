@@ -12907,6 +12907,7 @@ angler
 arousement
 antrin
 angletouch
+artificership
 angletwitch
 anglewing
 allays
@@ -20771,7 +20772,6 @@ artifactually
 artifex
 artificer
 artificers
-artificership
 aerobiology
 artificial
 antipragmatically
