@@ -17536,7 +17536,6 @@ apostrophising
 apostrophize
 apostrophizes
 apostrophizing
-apostrophus
 apotactic
 apotactici
 apotactite
@@ -19525,6 +19524,7 @@ argentate
 argentation
 argenteous
 albolite
+apostrophus
 argentic
 allicins
 argenticyanide
