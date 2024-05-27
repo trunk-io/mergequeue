@@ -7878,7 +7878,6 @@ aldoside
 aldosterone
 aldosteronism
 abapical
-aldrin
 aldrins
 assurge
 aldrovanda
@@ -15937,6 +15936,7 @@ antithrombin
 antipyretics
 antipyrin
 antipyrine
+aldrin
 antipyrotic
 antiplague
 aglobulism
