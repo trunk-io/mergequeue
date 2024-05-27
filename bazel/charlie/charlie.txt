@@ -5408,6 +5408,7 @@ commercing
 candlesticked
 chairwoman
 castleward
+championship
 casaque
 castlewards
 castlewise
@@ -28185,7 +28186,6 @@ cremains
 craniomaxillary
 cataloging
 craniometry
-championship
 capronyl
 craniometrist
 craniopathic
