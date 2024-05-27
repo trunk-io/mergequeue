@@ -1221,7 +1221,6 @@ gaoling
 groatsworth
 glutinate
 gaols
-gamolepis
 gaon
 gartered
 grues
@@ -5943,6 +5942,7 @@ gametes
 gloveman
 glover
 glochines
+gamolepis
 gnarlier
 glowbard
 gadinine
