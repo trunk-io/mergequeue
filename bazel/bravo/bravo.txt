@@ -13193,6 +13193,7 @@ boschbok
 boschneger
 brachystomata
 bender
+baktun
 begemmed
 balsamically
 boschveld
@@ -14485,7 +14486,6 @@ branchiopoda
 bioassays
 branchiopodan
 branchiopodous
-baktun
 branchiopulmonata
 bonding
 branchiosauria
