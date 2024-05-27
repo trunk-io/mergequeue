@@ -3332,7 +3332,6 @@ givenness
 grubbed
 gigue
 galactase
-galvanical
 gustatory
 gayatri
 guerdon
@@ -8617,6 +8616,7 @@ greekism
 gawkier
 germiniparous
 greekize
+galvanical
 gastrochaenidae
 grammars
 geranials
