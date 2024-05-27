@@ -2314,6 +2314,7 @@ grounding
 geelbeck
 geelbek
 galipots
+geogenous
 geepounds
 grousers
 greaser
@@ -4994,7 +4995,6 @@ grasswork
 glacious
 glumose
 gladden
-geogenous
 gladdens
 gladding
 glade
