@@ -1719,7 +1719,6 @@ accruing
 aerocar
 accts
 aventail
-accubation
 amphicentric
 accubita
 accubitum
@@ -22799,6 +22798,7 @@ atomicism
 alutaceous
 atomicity
 ataxaphasia
+accubation
 atomiferous
 atomised
 atomises
