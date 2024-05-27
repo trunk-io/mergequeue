@@ -5412,7 +5412,6 @@ fleshings
 forthfare
 fettuccine
 formatters
-fanjets
 furfuran
 fleshliest
 fleshliness
@@ -7259,6 +7258,7 @@ feudalization
 furazan
 forbearingly
 freesheet
+fanjets
 faulkland
 fretty
 forejudge
