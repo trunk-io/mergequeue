@@ -10339,7 +10339,6 @@ bouillone
 baneful
 bliaut
 ballsy
-blacktongue
 blacktopped
 blacktopping
 blacktops
@@ -14213,6 +14212,7 @@ bassinets
 bradley
 bareka
 bradmaker
+blacktongue
 bonbonnieres
 beckiron
 barbadian
