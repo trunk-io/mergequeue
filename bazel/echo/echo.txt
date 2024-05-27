@@ -4183,6 +4183,7 @@ extracranial
 energids
 exemplifier
 empoisoned
+embden
 encaustes
 etherol
 epistle
@@ -5492,7 +5493,6 @@ enfaces
 elizabethans
 elatedly
 epicenism
-embden
 esere
 epidendric
 effector
