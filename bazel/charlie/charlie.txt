@@ -4161,7 +4161,6 @@ cardiospasm
 cardiospermum
 celts
 cardiosphygmogram
-cardiosphygmograph
 cataloger
 cardiotherapies
 clinchpoop
@@ -5137,6 +5136,7 @@ caselessly
 caseload
 caseloads
 caselty
+cardiosphygmograph
 casemaker
 casemaking
 casemates
