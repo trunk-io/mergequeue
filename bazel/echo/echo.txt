@@ -4118,6 +4118,7 @@ emil
 entries
 emplanement
 entoilment
+explanate
 endoute
 emplanes
 emplaster
@@ -9126,7 +9127,6 @@ exporters
 eagless
 erythrochroism
 erythrocytoblast
-explanate
 ebbets
 exestuate
 erythrocytolysis
