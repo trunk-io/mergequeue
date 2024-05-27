@@ -4917,7 +4917,6 @@ bedway
 bedways
 bromargyrite
 bindings
-blackwashing
 belavendered
 bedwards
 bedwarf
@@ -13751,6 +13750,7 @@ bovidae
 bovids
 bovinely
 bovinity
+blackwashing
 bronchophonic
 blushfulness
 bovinities
