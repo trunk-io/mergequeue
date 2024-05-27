@@ -7327,7 +7327,6 @@ cepes
 conchitis
 cephaeline
 cephaelis
-commercer
 constitution
 cephala
 caucasus
@@ -11820,6 +11819,7 @@ connubiate
 chondrofibroma
 chondrofibromatous
 campaigned
+commercer
 couther
 chondrogen
 chondrogenesis
