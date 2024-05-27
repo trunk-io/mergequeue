@@ -5208,7 +5208,6 @@ fluidities
 flawedness
 fishlike
 flawflower
-flawful
 fenbank
 flawing
 foresinger
@@ -7079,6 +7078,7 @@ foolocracy
 forespeech
 flubdubs
 factious
+flawful
 fusional
 freehold
 foretokens
