@@ -1646,7 +1646,6 @@ accoucheur
 accoucheurs
 accoucheuses
 accountability
-accountable
 accountably
 accountancy
 accountant
@@ -23717,6 +23716,7 @@ austerely
 atheistic
 antimallein
 archaeology
+accountable
 austereness
 austerest
 afterguns

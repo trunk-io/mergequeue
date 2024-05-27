@@ -3816,7 +3816,6 @@ glabellae
 gasterothecal
 glace
 glinse
-gladiate
 getatable
 goldfield
 gluttonising
@@ -10610,6 +10609,7 @@ gimberjawed
 gunshop
 grieve
 gulches
+gladiate
 gunsmithery
 gunsmithing
 gloomiest
