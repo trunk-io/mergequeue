@@ -6520,6 +6520,7 @@ bidet
 benzols
 barfy
 benzonaphthol
+buffer
 benzonitrile
 benzonitrol
 benzophenanthrazine
@@ -16919,7 +16920,6 @@ badmouth
 buglet
 bugleweed
 buglewort
-buffer
 blennophlogisma
 behowls
 bugling
