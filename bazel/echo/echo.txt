@@ -6951,7 +6951,6 @@ exponentiated
 entosphenal
 entosternal
 entosternum
-entothorax
 eclat
 entotympanic
 enterokinetic
@@ -11932,6 +11931,7 @@ etheneldeli
 eradiate
 excerpting
 excerption
+entothorax
 ectodynamomorphic
 excess
 extincts
