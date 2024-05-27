@@ -14231,7 +14231,6 @@ anteoperculum
 anteorbital
 albopannin
 antepagment
-antepalatal
 aliveness
 amphivorous
 antepaschal
@@ -21152,6 +21151,7 @@ aseity
 aselar
 asellate
 arterioles
+antepalatal
 adglutinate
 amourette
 asellus
