@@ -1130,7 +1130,6 @@ edictal
 edictally
 edictum
 edicule
-echolalia
 edificate
 echinology
 edification
@@ -3544,6 +3543,7 @@ estriols
 embolismus
 eurithermophilic
 embolite
+echolalia
 enserfing
 eponyms
 extreme
