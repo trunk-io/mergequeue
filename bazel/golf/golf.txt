@@ -680,7 +680,6 @@ greenhew
 geodetic
 gallomaniac
 gallon
-glimmerite
 gallonage
 goffered
 girling
@@ -2164,6 +2163,7 @@ gawk
 grubs
 ginglmi
 gnomist
+glimmerite
 gelndesprung
 gradations
 griefs
