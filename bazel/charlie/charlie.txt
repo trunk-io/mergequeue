@@ -4249,7 +4249,6 @@ chyometer
 carers
 cares
 caress
-cir
 componentwise
 caressable
 caressant
@@ -5026,6 +5025,7 @@ catchfly
 competer
 contemperate
 crofterization
+cir
 carvage
 coagulants
 carval
