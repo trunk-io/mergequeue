@@ -4646,7 +4646,6 @@ enchodontoid
 enchodus
 ensilaging
 ermelin
-eminence
 epimerase
 escallonia
 enchondromata
@@ -12111,6 +12110,7 @@ enaliosaur
 excresence
 excression
 excreta
+eminence
 eschatocol
 excreter
 endued
