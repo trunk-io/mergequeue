@@ -2025,7 +2025,6 @@ feijoa
 fourpounder
 feil
 fadme
-frontspiece
 filacer
 feinter
 feudary
@@ -5298,6 +5297,7 @@ finickingness
 flecky
 friendliness
 forktail
+frontspiece
 fogyisms
 frislet
 forecounsel

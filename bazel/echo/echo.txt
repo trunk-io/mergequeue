@@ -6376,7 +6376,6 @@ eddaic
 elizabeth
 ensiles
 expatiations
-ensiling
 ectoenzym
 ensilist
 ensilver
@@ -10344,6 +10343,7 @@ extravasate
 ethiopia
 ethiopian
 enzymologies
+ensiling
 ethysulphuric
 ethize
 ethmyphitis
