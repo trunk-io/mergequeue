@@ -370,7 +370,6 @@ backhauls
 bossy
 backhoe
 backhoes
-boobies
 backhooker
 backhouses
 balayeuse
@@ -17391,6 +17390,7 @@ boardmen
 bundler
 bundlerooted
 bangboard
+boobies
 bundles
 bundook
 bundts
