@@ -6619,6 +6619,7 @@ deprecations
 desegregation
 duststorm
 deselected
+dishabited
 deselecting
 desiccants
 dauphiness
@@ -16172,7 +16173,6 @@ doveling
 discepting
 distributes
 dovened
-dishabited
 didrachmas
 drewite
 dovening

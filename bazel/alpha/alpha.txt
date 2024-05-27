@@ -6848,7 +6848,6 @@ airbusses
 aircheck
 aircoaches
 aircraft
-aircraftman
 atenist
 axometer
 aircraftmen
@@ -11614,6 +11613,7 @@ acicularly
 aubin
 antitrypsin
 anachronismatical
+aircraftman
 achamoth
 agars
 anachronisms
