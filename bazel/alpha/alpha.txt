@@ -5731,7 +5731,6 @@ aint
 afterworld
 apodeixis
 adenocyst
-afterwrath
 aftonian
 aftosa
 aftward
@@ -21971,6 +21970,7 @@ abomination
 assuade
 assuage
 astrologer
+afterwrath
 apprise
 approvableness
 assuaged
