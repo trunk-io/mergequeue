@@ -1647,7 +1647,6 @@ deallocation
 deallocations
 deprival
 dipteron
-deals
 dealt
 deambulate
 dozening
@@ -13414,6 +13413,7 @@ disregardable
 drawglove
 destructed
 disregardance
+deals
 demons
 disregardant
 disregarded
