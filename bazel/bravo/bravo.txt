@@ -3660,6 +3660,7 @@ beddings
 boutade
 baron
 by
+brickbats
 banilad
 bathtubful
 bathukolpian
@@ -3985,7 +3986,6 @@ bdellometer
 bdellostoma
 booksellerish
 bocstaff
-brickbats
 bacteritic
 bdelloura
 bdellouridae
