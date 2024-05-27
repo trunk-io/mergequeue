@@ -375,7 +375,6 @@ forborn
 ferrymen
 fearer
 filicauline
-faintness
 faints
 feltings
 forkers
@@ -3348,6 +3347,7 @@ fidgetily
 faultage
 flotsam
 fray
+faintness
 foreheaded
 fiedlerite
 floreated
