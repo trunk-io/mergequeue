@@ -4441,7 +4441,6 @@ gabelle
 gorce
 gynethusia
 germicide
-gynetype
 grieves
 gushers
 gingal
@@ -4880,6 +4879,7 @@ garua
 goodyear
 gitoxin
 galactite
+gynetype
 glick
 gendarme
 grovelers
