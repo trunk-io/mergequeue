@@ -2756,7 +2756,6 @@ gurgeon
 gathering
 genetoid
 ghettoize
-genetous
 grenadines
 gourde
 gup
@@ -8799,6 +8798,7 @@ gremiale
 glamorizations
 galeodidae
 gashful
+genetous
 grads
 gremlins
 grenada
