@@ -5255,7 +5255,6 @@ endorsed
 endorsee
 emendating
 endorsees
-endorser
 enneasemic
 expurgational
 eustachium
@@ -10252,6 +10251,7 @@ etherifies
 etherifying
 embryoscope
 enwombs
+endorser
 emphasizes
 evokers
 etherism
