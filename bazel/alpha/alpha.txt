@@ -5734,6 +5734,7 @@ afterword
 afterwork
 agathodemon
 aint
+amebas
 afterworld
 apodeixis
 adenocyst
@@ -21856,7 +21857,6 @@ assigners
 assignment
 assignments
 assignors
-amebas
 animadversive
 assigns
 assilag
