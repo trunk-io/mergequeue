@@ -1756,7 +1756,6 @@ gastrodermal
 gastrodermis
 gpd
 gnotobiote
-goosemouth
 guayabo
 gravemaking
 gastroduodenitis
@@ -4792,6 +4791,7 @@ glossology
 glyoxime
 gentrice
 gironny
+goosemouth
 graphophobia
 gyronny
 gyrophoraceous
