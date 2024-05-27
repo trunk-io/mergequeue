@@ -4839,7 +4839,6 @@ bedrizzle
 backpedaled
 bedroll
 bedrooms
-bedrop
 bilixanthin
 bedrowse
 barrenest
@@ -18195,6 +18194,7 @@ benumbedness
 balneary
 butlery
 butleries
+bedrop
 butlerlike
 bathic
 butlers
