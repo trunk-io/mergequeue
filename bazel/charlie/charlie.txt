@@ -2756,7 +2756,6 @@ canoeists
 canoeload
 canoeman
 canoes
-calmy
 cardiogenesis
 cukes
 canoewood
@@ -5721,6 +5720,7 @@ cultivatability
 clockcase
 caudillism
 catchline
+calmy
 catchment
 catchments
 catchphrase
