@@ -343,6 +343,7 @@ flatwash
 fuseboard
 figureless
 fitchews
+flaggelate
 factions
 famines
 fiercening
@@ -4722,7 +4723,6 @@ flageolets
 fencelet
 flagfishes
 flagged
-flaggelate
 forbiddenness
 figurately
 flaggelating
