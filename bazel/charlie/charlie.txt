@@ -24256,7 +24256,6 @@ convocator
 cantabrize
 convoyed
 convoying
-convoke
 carboxypeptidase
 convoked
 convoker
@@ -24788,6 +24787,7 @@ coproduce
 catpiece
 cardioplegia
 coproducer
+convoke
 coproduction
 cantref
 coprojector
