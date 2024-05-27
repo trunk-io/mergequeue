@@ -4485,7 +4485,6 @@ epicardiac
 extrusile
 epiphyllum
 encashing
-explicitly
 encashment
 elementarity
 etesian
@@ -11646,6 +11645,7 @@ exactitude
 electrohydraulic
 eleusinian
 endopolyploid
+explicitly
 echoic
 exactness
 essenis
