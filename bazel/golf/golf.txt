@@ -1442,7 +1442,6 @@ garmentmaker
 grafting
 gemmel
 geogony
-garments
 grasseye
 glyphs
 glutael
@@ -5151,6 +5150,7 @@ gibel
 gaufer
 gleba
 governesshood
+garments
 giganticidal
 greenable
 glareproof

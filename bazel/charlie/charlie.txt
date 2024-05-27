@@ -4801,7 +4801,6 @@ cymulose
 carracks
 carrageenin
 carragheen
-carragheenin
 cheesily
 carrat
 carraway
@@ -9886,6 +9885,7 @@ chemiotactic
 chemiotaxic
 carvone
 chemiotaxis
+carragheenin
 chemiotropic
 chemiotropism
 chemiphotic
