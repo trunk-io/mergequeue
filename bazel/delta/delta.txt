@@ -7952,6 +7952,7 @@ dexiotropic
 dexiotropism
 dexterous
 dedendum
+disusage
 diaplex
 dauded
 dexterously
@@ -14153,7 +14154,6 @@ denunciated
 dysuria
 dysurias
 dysuric
-disusage
 disusance
 disuse
 disbarments
