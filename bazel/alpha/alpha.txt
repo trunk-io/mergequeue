@@ -10707,7 +10707,6 @@ aminoazo
 amphithalmi
 aryepiglottidean
 aminobenzaldehyde
-anthrachrysone
 aminobenzene
 aminobenzoic
 appetency
@@ -15484,6 +15483,7 @@ antilipoid
 antiliquor
 achlamydeous
 antilysin
+anthrachrysone
 antilysis
 antilyssic
 antilithic
