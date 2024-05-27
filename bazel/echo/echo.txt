@@ -7916,6 +7916,7 @@ endamaged
 epopt
 epilabra
 epilate
+equimultiple
 econ
 earthman
 exquisitive
@@ -8665,7 +8666,6 @@ equimolal
 equimolar
 endonuclease
 espinillo
-equimultiple
 encirclements
 equinal
 enzymotic
