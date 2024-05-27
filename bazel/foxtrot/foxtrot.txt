@@ -4893,6 +4893,7 @@ flamers
 ferments
 flubbing
 fallback
+foreorder
 flamethrowers
 frankpledge
 fraternity
@@ -7906,7 +7907,6 @@ functionating
 fletching
 frontenis
 foreseen
-foreorder
 foreseer
 foresees
 foreseize
