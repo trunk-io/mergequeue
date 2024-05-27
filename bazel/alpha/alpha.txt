@@ -2126,6 +2126,7 @@ achate
 achatina
 achatinidae
 act
+astint
 ache
 acheat
 artemisin
@@ -15282,7 +15283,6 @@ abnormality
 antievolutionary
 anteconsonantal
 antievolutionist
-astint
 antiexpansion
 antiexpansionism
 antiexpansionist
