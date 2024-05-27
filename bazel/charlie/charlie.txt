@@ -5853,7 +5853,6 @@ caterers
 catery
 catering
 cateringly
-copras
 caterpillar
 caterpillared
 caterpillarlike
@@ -22139,6 +22138,7 @@ conformal
 complexed
 cloyne
 catabolic
+copras
 conformant
 cataclasmic
 conformationally
