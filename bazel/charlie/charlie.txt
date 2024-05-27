@@ -5874,7 +5874,6 @@ cates
 catesbaea
 catface
 catfaced
-catfacing
 catfall
 catfalls
 catfight
@@ -24445,6 +24444,7 @@ coony
 coonier
 colk
 cerebrotonic
+catfacing
 cooniest
 coonily
 cooniness
