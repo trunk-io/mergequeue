@@ -2465,6 +2465,7 @@ argemone
 ackmen
 aluminized
 anoil
+anacamptometer
 argentojarosite
 acknew
 atrochal
@@ -6910,7 +6911,6 @@ airily
 airiness
 airing
 atmolyses
-anacamptometer
 airish
 airless
 antelabium
