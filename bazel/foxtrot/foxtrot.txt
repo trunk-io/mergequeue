@@ -4914,6 +4914,7 @@ flamless
 floorers
 filefish
 flammation
+fortress
 flammed
 foreyards
 fidac
@@ -9929,7 +9930,6 @@ foozlers
 foresides
 flounces
 fletton
-fortress
 fluellen
 funnelform
 farers
