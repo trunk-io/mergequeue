@@ -1586,6 +1586,7 @@ deadnesses
 dustproof
 didache
 deadpan
+dithion
 deadpanned
 deadpans
 deadrise
@@ -14243,7 +14244,6 @@ dithioic
 deb
 diablery
 deviances
-dithion
 dithionite
 dithionous
 devotionate
