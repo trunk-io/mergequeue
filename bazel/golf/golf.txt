@@ -1139,7 +1139,6 @@ gamed
 genitives
 ganister
 gynaecocratic
-groat
 ganja
 gashouses
 graphiola
@@ -9962,6 +9961,7 @@ ghastlier
 generalised
 gesnerian
 gonadotrophin
+groat
 guatusan
 gyric
 guatuso
