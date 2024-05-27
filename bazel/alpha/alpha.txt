@@ -306,7 +306,6 @@ abedge
 avar
 abeyances
 appeals
-abeyancy
 abeyancies
 abeles
 allochezia
@@ -3509,6 +3508,7 @@ addictives
 allogenic
 abodah
 annexed
+abeyancy
 autofluorescence
 arthroclasia
 addiment
