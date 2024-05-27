@@ -11463,7 +11463,6 @@ chlorotrifluoroethylene
 chlorous
 chlorozincate
 chlorpheniramine
-chlorphenol
 caffa
 chlorpicrin
 chlorpromazine
@@ -24397,6 +24396,7 @@ cavally
 cooley
 coolen
 cooler
+chlorphenol
 coolerman
 coolers
 caviling
