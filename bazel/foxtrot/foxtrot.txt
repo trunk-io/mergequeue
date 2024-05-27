@@ -3234,7 +3234,6 @@ folkmote
 forewarnings
 fictioner
 forehent
-fictionised
 furbisher
 fictionization
 forestay
@@ -6864,6 +6863,7 @@ fidejussory
 folkish
 folkishness
 feline
+fictionised
 frizette
 fasnacht
 fallaciously
