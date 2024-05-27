@@ -1133,7 +1133,6 @@ bairnlier
 bairns
 bairnteam
 bootful
-bankman
 bairntime
 bairnwort
 baisemain
@@ -13819,6 +13818,7 @@ bullgine
 bowered
 bowery
 boweries
+bankman
 bagatelles
 bowerlet
 blatterer
