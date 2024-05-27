@@ -5427,7 +5427,6 @@ besoothement
 begowk
 begowned
 buyable
-benchboard
 begray
 barodynamic
 boodie
@@ -12840,6 +12839,7 @@ boomah
 boo
 baritonal
 boomboat
+benchboard
 boomboxes
 buttling
 barmy
