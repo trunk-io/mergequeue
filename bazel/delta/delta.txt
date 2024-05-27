@@ -8359,7 +8359,6 @@ deathcup
 diamb
 dialectologer
 diplois
-dialectologist
 dialector
 dargue
 duchies
@@ -11993,6 +11992,7 @@ disenabled
 deferable
 disenabling
 disenact
+dialectologist
 disenamor
 disenchant
 disenchanting
