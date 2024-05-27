@@ -14314,7 +14314,6 @@ deaerates
 diurn
 depraved
 diurna
-diurnal
 diurnally
 diurnals
 diurnation
@@ -17109,6 +17108,7 @@ dehydrated
 debriefed
 danaid
 disgown
+diurnal
 drifter
 driftfish
 divestiture
