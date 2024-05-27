@@ -7989,6 +7989,7 @@ cetylic
 caquet
 chaetangium
 curdwort
+codirectional
 cratometric
 cetin
 cetiosaurian
@@ -8077,7 +8078,6 @@ chaconne
 chaconnes
 countermovement
 chacra
-codirectional
 chacte
 chacun
 chad
