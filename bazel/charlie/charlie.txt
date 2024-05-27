@@ -14291,7 +14291,6 @@ circularness
 circulars
 circulatable
 circulated
-crockeryware
 circulation
 circulations
 circulative
@@ -20469,6 +20468,7 @@ cresols
 concamerate
 companable
 companage
+crockeryware
 counterword
 cerebroma
 cannels
