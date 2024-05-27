@@ -2810,7 +2810,6 @@ briggs
 baroque
 butchered
 bureaus
-barites
 bolding
 baroqueness
 blonder
@@ -18388,6 +18387,7 @@ buzzerphone
 buzzers
 buzzier
 burghermaster
+barites
 buzzies
 buzziest
 buzzing
