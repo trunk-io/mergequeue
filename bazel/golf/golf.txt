@@ -2209,7 +2209,6 @@ ganodus
 guarabu
 gazebo
 gazeboes
-glabella
 gazebos
 grampus
 galla
@@ -8110,6 +8109,7 @@ grapeflower
 grapefruit
 gimping
 glaver
+glabella
 gasteromycete
 goober
 gluttonize
