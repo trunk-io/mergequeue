@@ -4414,6 +4414,7 @@ courthouses
 caryota
 caryotin
 caripuna
+cysticerci
 cariri
 caririan
 choke
@@ -14715,7 +14716,6 @@ cysticarpic
 cysticarpium
 cognomina
 cysticercerci
-cysticerci
 chondrule
 christs
 cylindrite

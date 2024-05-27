@@ -340,7 +340,6 @@ fainest
 fainly
 fixtures
 flatwash
-fuseboard
 figureless
 fitchews
 factions
@@ -6155,6 +6154,7 @@ flirtling
 fluohydric
 flowerless
 flowerpecker
+fuseboard
 foredoomed
 furnacemen
 furca
