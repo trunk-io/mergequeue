@@ -13932,6 +13932,7 @@ borghese
 brooders
 boxty
 boxtop
+bulgaric
 brager
 blastman
 bluecup
@@ -17005,7 +17006,6 @@ bulchin
 bure
 bulgari
 bulgaria
-bulgaric
 bulge
 bibliothecarial
 bulger
