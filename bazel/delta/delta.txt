@@ -8905,7 +8905,6 @@ diced
 diceman
 dicentras
 dicephalous
-dicephalus
 diceplay
 dyads
 diceras
@@ -9485,6 +9484,7 @@ digestibleness
 digestibly
 digestif
 drooped
+dicephalus
 digesting
 digestion
 digestively
