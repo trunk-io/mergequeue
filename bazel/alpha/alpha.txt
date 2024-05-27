@@ -5156,7 +5156,6 @@ angiocarpy
 aerotropism
 allantois
 aeroview
-aeruginous
 aerugo
 aerugos
 aes
@@ -14912,6 +14911,7 @@ activations
 antichreses
 atheromasia
 antichretic
+aeruginous
 antichrist
 antichristian
 archicoele
