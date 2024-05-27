@@ -16528,6 +16528,7 @@ clockmaker
 clockmaking
 crewer
 clocksmith
+colonisability
 clockwatcher
 clockwise
 clockworked
@@ -19352,7 +19353,6 @@ colonials
 colonical
 crassier
 colonies
-colonisability
 colonisable
 clinid
 colonisationist
