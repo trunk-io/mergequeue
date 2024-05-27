@@ -2635,7 +2635,6 @@ acoustic
 acoustical
 anisopodal
 acoustically
-acousticolateral
 acousticon
 acousticophobia
 acoustoelectric
@@ -16835,6 +16834,7 @@ astipulate
 aphanapteryx
 aphanes
 aphanisia
+acousticolateral
 aphanisis
 antipathies
 atropaceous
