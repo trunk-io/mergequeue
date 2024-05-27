@@ -8012,7 +8012,6 @@ archbancs
 aletap
 angie
 alethea
-alethiology
 alethiological
 alethiologist
 alethopteis
@@ -16865,6 +16864,7 @@ aphengoscope
 aphenoscope
 apheresis
 apheses
+alethiology
 amidosuccinamic
 asclepius
 antiphoner
