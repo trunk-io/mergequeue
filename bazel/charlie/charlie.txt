@@ -17488,7 +17488,6 @@ cobbled
 cobbler
 cobblerfish
 cobblerism
-cobblers
 cobblership
 cobbles
 cobblestone
@@ -20999,6 +20998,7 @@ comproduce
 compromisable
 celebes
 compromise
+cobblers
 crowflower
 comminister
 clubber
