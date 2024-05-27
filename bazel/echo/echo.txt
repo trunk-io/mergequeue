@@ -1134,7 +1134,6 @@ echolalia
 edificate
 echinology
 edification
-exfigure
 edificator
 earock
 edificatory
@@ -5087,6 +5086,7 @@ endocrine
 emforth
 endocrines
 endocrinic
+exfigure
 endocrinism
 euthyneurous
 enterocoel
