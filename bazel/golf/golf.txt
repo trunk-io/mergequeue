@@ -6144,6 +6144,7 @@ gloriana
 geometry
 gutterman
 gravitation
+gossip
 gnabble
 graspers
 gibberose
@@ -7317,7 +7318,6 @@ globe
 goujay
 gol
 gossy
-gossip
 gratify
 gossiped
 glycerolysis
