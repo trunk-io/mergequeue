@@ -13580,6 +13580,7 @@ bleachability
 boulderhead
 bouldering
 boules
+bullpen
 blousy
 bilskirnir
 brairo
@@ -17205,7 +17206,6 @@ bullock
 bullocker
 blastulae
 barkantine
-bullpen
 bullpoll
 belibeling
 bemirror
