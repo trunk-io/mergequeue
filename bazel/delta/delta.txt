@@ -6511,6 +6511,7 @@ descendable
 descendants
 decursive
 dentellated
+diazo
 descendent
 diglot
 dispositionally
@@ -8802,7 +8803,6 @@ deuterodome
 diazines
 diazins
 defeat
-diazo
 drinkable
 decke
 diazoalkane
