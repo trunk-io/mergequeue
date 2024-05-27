@@ -499,7 +499,6 @@ gaugeable
 galericulate
 galerum
 geochronological
-girkin
 gales
 groten
 geonoma
@@ -6942,6 +6941,7 @@ graticulate
 gorgerin
 glis
 goodbyes
+girkin
 goodenia
 guineas
 guyed
