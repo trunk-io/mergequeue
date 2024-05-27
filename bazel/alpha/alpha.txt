@@ -17709,7 +17709,6 @@ appeasingly
 affirmly
 anthologists
 appellability
-appellable
 appellant
 appellants
 appellation
@@ -22265,6 +22264,7 @@ antifundamentalist
 astrid
 astride
 astrier
+appellable
 antefixal
 argentoproteinum
 astriferous
