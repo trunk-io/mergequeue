@@ -532,6 +532,7 @@ fissirostral
 fenestellidae
 flyability
 fallage
+footpace
 foreright
 foxwood
 fallaway
@@ -3337,7 +3338,6 @@ fidged
 frameable
 fidget
 fidgetation
-footpace
 fidgeted
 fractals
 foenngreek
