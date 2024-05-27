@@ -1753,7 +1753,6 @@ bankside
 balsamitic
 balsamiticness
 balsamorrhiza
-balsamroot
 balsams
 boozing
 bruise
@@ -12606,6 +12605,7 @@ bonneter
 bonnethead
 barrens
 bonnetiere
+balsamroot
 bonnetlike
 bombesin
 bonnets
