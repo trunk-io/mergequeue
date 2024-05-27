@@ -11565,6 +11565,7 @@ chokage
 chairer
 chokeberry
 certif
+compasses
 chokeberries
 chokecherry
 chokedamp
@@ -20543,7 +20544,6 @@ compass
 compassability
 compassable
 compassed
-compasses
 compassing
 compassion
 compassionable
