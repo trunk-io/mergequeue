@@ -19964,7 +19964,6 @@ commandable
 commandant
 curtaxe
 commandatory
-commanded
 commandedness
 courtesying
 ceraunics
@@ -26679,6 +26678,7 @@ chester
 councils
 churchless
 councilwoman
+commanded
 counite
 counsel
 counselable
