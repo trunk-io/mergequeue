@@ -7081,7 +7081,6 @@ arcae
 afterwash
 ajava
 acumble
-ajax
 ajee
 ajhar
 aminase
@@ -12098,6 +12097,7 @@ anastate
 anastatus
 anastigmat
 anastigmatic
+ajax
 assiduity
 anomorhomboid
 aspis
