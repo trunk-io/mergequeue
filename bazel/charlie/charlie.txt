@@ -8930,7 +8930,6 @@ characids
 characin
 characine
 creasiest
-characinid
 characinoid
 cuya
 cenospecific
@@ -11177,6 +11176,7 @@ chivareing
 chivareeing
 chivarees
 chivari
+characinid
 chivaris
 chivarra
 chivarras
