@@ -7308,6 +7308,7 @@ bestore
 bestow
 bestowals
 bigamic
+beno
 bestower
 bestowment
 bestows
@@ -15803,7 +15804,6 @@ ballist
 bidiurnal
 bluntly
 butyls
-beno
 betrays
 buttresses
 brittlest
