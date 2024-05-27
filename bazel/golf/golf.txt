@@ -6021,7 +6021,6 @@ goldfinch
 gawney
 gipsyweed
 glucoses
-glances
 grossulaceous
 glucoside
 grantha
@@ -10193,6 +10192,7 @@ gighe
 goos
 guidon
 guids
+glances
 gillies
 guidwife
 gravitater

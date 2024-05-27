@@ -405,6 +405,7 @@ exposits
 empoisons
 ebulliometer
 ergometer
+extractible
 encharged
 expressman
 ebullioscopy
@@ -13839,7 +13840,6 @@ extractant
 encaustic
 eteocles
 extractibility
-extractible
 exantlation
 extractiform
 euphenic
