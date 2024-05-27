@@ -8670,7 +8670,6 @@ allatrate
 allbone
 allecret
 allectory
-allegata
 allegate
 allegations
 acaroid
@@ -13748,6 +13747,7 @@ anisidino
 anodontia
 allocable
 abys
+allegata
 anodos
 anoegenetic
 alembics
