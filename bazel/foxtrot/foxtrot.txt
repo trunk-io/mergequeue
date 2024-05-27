@@ -703,7 +703,6 @@ faming
 fuliguline
 fired
 famose
-famous
 florigens
 famousness
 furoic
@@ -2763,6 +2762,7 @@ familiarize
 festerment
 festers
 flagroot
+famous
 footway
 flanges
 festy
