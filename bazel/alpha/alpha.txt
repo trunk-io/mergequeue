@@ -10619,7 +10619,6 @@ amylan
 anorthographically
 amylase
 amylases
-amylate
 aglyphodontia
 amildar
 amylemia
@@ -13543,6 +13542,7 @@ annection
 annelid
 annelida
 annelidan
+amylate
 annelidian
 annelidous
 annelids
