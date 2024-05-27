@@ -7294,7 +7294,6 @@ desiccative
 determinably
 determinacy
 distruss
-determinant
 determinantal
 donnie
 diphthongization
@@ -9316,6 +9315,7 @@ diethylaminoethanol
 diethylethanolamine
 dolomization
 diethylmalonylurea
+determinant
 diethylstilboestrol
 dekaliters
 deobstruent
