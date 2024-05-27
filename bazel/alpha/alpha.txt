@@ -1751,7 +1751,6 @@ accumulable
 accumulate
 accumulated
 accumulating
-attains
 accumulation
 accumulativ
 aquatones
@@ -17312,6 +17311,7 @@ andamento
 apolistan
 aproctia
 aurignacian
+attains
 almendro
 apollinarian
 antiblock
