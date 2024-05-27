@@ -27589,7 +27589,6 @@ coverlid
 coverlids
 covers
 caller
-coversed
 coverside
 coversine
 clairce
@@ -30325,6 +30324,7 @@ clenching
 corralling
 crustaceal
 crustacean
+coversed
 crustaceology
 crustaceological
 crustaceologist

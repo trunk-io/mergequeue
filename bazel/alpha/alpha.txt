@@ -4068,7 +4068,6 @@ adlai
 ambassage
 adlegation
 adlerian
-ast
 adlet
 adlumia
 adlumidin
@@ -19940,6 +19939,7 @@ annuent
 armbands
 athermous
 armchair
+ast
 armchaired
 armenia
 acetabular
