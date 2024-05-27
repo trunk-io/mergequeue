@@ -2050,7 +2050,6 @@ barat
 bankalachi
 bobsleds
 bidactyl
-bankbooks
 bankcard
 becrawl
 bankcards
@@ -16809,6 +16808,7 @@ brumbee
 buffable
 buffalo
 buffaloback
+bankbooks
 blasty
 buffaloes
 buffalofish
