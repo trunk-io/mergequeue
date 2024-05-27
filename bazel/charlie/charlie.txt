@@ -10449,7 +10449,6 @@ chieftainries
 concludendi
 coition
 chieftains
-chieftainship
 countermove
 chiefty
 chiel
@@ -21929,6 +21928,7 @@ counterpanes
 cuspated
 conferee
 conference
+chieftainship
 conferences
 conferencing
 conferential
