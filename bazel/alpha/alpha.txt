@@ -2229,7 +2229,6 @@ achluophobia
 achmetha
 acholia
 acholoe
-acholous
 arsylene
 acholuric
 achomawi
@@ -6271,6 +6270,7 @@ agnatha
 agnathia
 agnate
 agnathic
+acholous
 agnathostomata
 advenient
 agnatical
