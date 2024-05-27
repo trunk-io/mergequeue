@@ -2777,7 +2777,6 @@ becapping
 baronetcies
 buboed
 bookies
-bookit
 burmannia
 baroneting
 bitonal
@@ -5841,6 +5840,7 @@ buckjump
 beaverroot
 bellbinder
 bellbine
+bookit
 bullous
 barnyards
 batekes

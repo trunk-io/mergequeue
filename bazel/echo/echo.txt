@@ -1304,7 +1304,6 @@ eeliest
 eeling
 eellike
 eelpouts
-eelshop
 eelskin
 eelworm
 een
@@ -8885,6 +8884,7 @@ endocrinologies
 evaluates
 equiprobabilist
 erelong
+eelshop
 enjeopardy
 encrypt
 entanglers
