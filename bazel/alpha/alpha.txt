@@ -3177,7 +3177,6 @@ actinotherapeutics
 actinotherapy
 actinotoxemia
 actinotrichium
-actinotrocha
 actinouranium
 actinozoa
 actinozoan
@@ -22450,6 +22449,7 @@ ataman
 allenarly
 atamasco
 atame
+actinotrocha
 atamosco
 azafrin
 activists
