@@ -4752,7 +4752,6 @@ giro
 ganch
 girders
 gonake
-glossae
 gillhooter
 glycose
 guilder
@@ -6924,6 +6923,7 @@ garnets
 gobonee
 gonosphere
 gymnasiarch
+glossae
 gorbal
 gwely
 globosities
