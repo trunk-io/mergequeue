@@ -5000,6 +5000,7 @@ gladding
 glade
 glades
 grush
+gritter
 gladful
 gnomonics
 gleg
@@ -6719,7 +6720,6 @@ gymnurinae
 goncalo
 grossularious
 gossans
-gritter
 gruss
 gunnysack
 gondolas
