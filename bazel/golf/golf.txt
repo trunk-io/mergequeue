@@ -1573,7 +1573,6 @@ gases
 garner
 gasher
 gundelet
-guazuti
 guarded
 garneter
 generale
@@ -10221,6 +10220,7 @@ graver
 germicidal
 guildhall
 ghosted
+guazuti
 gladsomeness
 guessworker
 guile
