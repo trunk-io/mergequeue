@@ -680,7 +680,6 @@ gallomaniac
 gallon
 glimmerite
 gallonage
-goffered
 girling
 galloot
 galloots
@@ -3351,6 +3350,7 @@ goniac
 geryonid
 gerip
 genros
+goffered
 gerland
 gilver
 goxes
