@@ -11843,7 +11843,6 @@ ablute
 analytical
 alamanni
 anathemata
-affinity
 araneology
 amnestic
 antinational
@@ -12573,6 +12572,7 @@ anemones
 albuminiform
 anemony
 anguillidae
+affinity
 anemopathy
 astroscope
 antisudorific
