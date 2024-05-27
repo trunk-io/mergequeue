@@ -1098,7 +1098,6 @@ eidolon
 executing
 edgeling
 edgeman
-edger
 edgers
 edgeshot
 errands
@@ -7549,6 +7548,7 @@ epicardium
 epicarid
 eyebrow
 epicarides
+edger
 employs
 epicarp
 ectoprocta
