@@ -2244,7 +2244,6 @@ gastrojejunostomies
 grainer
 gconv
 gdinfo
-gds
 grimoire
 grayfish
 grinnellia
@@ -6419,6 +6418,7 @@ goblin
 gastral
 gettable
 gateward
+gds
 gunite
 glucosulfone
 griddler

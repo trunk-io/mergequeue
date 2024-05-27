@@ -597,6 +597,7 @@ aortosclerosis
 abnumerable
 abo
 aboard
+apices
 aboardage
 abobra
 abococket
@@ -17005,7 +17006,6 @@ apiator
 achenium
 artificious
 apically
-apices
 aortectasia
 apician
 apicillary
