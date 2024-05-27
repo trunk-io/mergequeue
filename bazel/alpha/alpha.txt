@@ -15058,7 +15058,6 @@ anticommunists
 anticommutative
 anticompetitive
 anticomplement
-anticomplementary
 anticomplex
 abiotrophic
 anticonductor
@@ -19170,6 +19169,7 @@ archoplasma
 archoplasmic
 archorrhagia
 archorrhea
+anticomplementary
 antipersonnel
 archostegnosis
 archoverseer
