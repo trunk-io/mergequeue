@@ -5397,7 +5397,6 @@ begnawed
 budgero
 ballroom
 backswimmer
-backening
 blossomry
 begone
 begonia
@@ -13312,6 +13311,7 @@ barton
 bridechamber
 botanies
 botanise
+backening
 botanist
 bdle
 botanize
