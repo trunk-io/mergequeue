@@ -8855,7 +8855,6 @@ dibenzopyrrole
 disproportionates
 dibhole
 diblastula
-diborate
 dibothriocephalus
 dibrach
 dibranch
@@ -12600,6 +12599,7 @@ disjoining
 deemphasis
 descendentalist
 disjoins
+diborate
 disjointed
 disjointedly
 duplicidentate
