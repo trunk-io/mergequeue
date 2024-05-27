@@ -6459,7 +6459,6 @@ benzdioxdiazine
 benzein
 blinks
 benzene
-bastian
 benzenediazonium
 benzenes
 bouvier
@@ -8502,6 +8501,7 @@ bigotedness
 besotted
 bigots
 bigotty
+bastian
 bigthatch
 bachelors
 biguttulate
