@@ -2581,7 +2581,6 @@ glassing
 galumphing
 gemsbuck
 geodes
-guardful
 gibus
 gemmology
 gemstone
@@ -10750,6 +10749,7 @@ gotos
 gomerels
 gutium
 gimbals
+guardful
 gallium
 gynostemiumia
 gaveler
