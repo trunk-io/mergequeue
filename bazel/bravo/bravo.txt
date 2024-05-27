@@ -2824,6 +2824,7 @@ blithefully
 barostat
 bruta
 blasphemers
+befavor
 baroswitch
 barotaxy
 barotaxis
@@ -12550,7 +12551,6 @@ boneshaker
 buda
 backbeat
 binders
-befavor
 bonetail
 bonetta
 bowker
