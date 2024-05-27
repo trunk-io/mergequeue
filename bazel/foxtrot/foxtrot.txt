@@ -487,6 +487,7 @@ ferity
 flockowner
 funbre
 faky
+fantoms
 faking
 fakir
 fakirs
@@ -11096,7 +11097,6 @@ filled
 falconbill
 functional
 farceuse
-fantoms
 functionalities
 fixups
 functionalized
