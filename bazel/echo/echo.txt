@@ -2299,7 +2299,6 @@ encrypting
 exoccipital
 epigonus
 estivage
-electroacoustic
 electroacoustical
 elfkin
 electroacoustically
@@ -6117,6 +6116,7 @@ ennoblement
 estuant
 endrins
 entropy
+electroacoustic
 ennoblements
 eluviation
 ennobler
