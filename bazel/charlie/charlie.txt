@@ -3493,7 +3493,6 @@ captainry
 captainship
 captainships
 chemicked
-captan
 captance
 captandum
 captans
@@ -8120,6 +8119,7 @@ cuvierian
 cardiacea
 chaetophorous
 chaetopod
+captan
 caffein
 chaetopodan
 colonalgia
