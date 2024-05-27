@@ -2510,7 +2510,6 @@ deblocking
 dirigent
 deckhand
 duckwing
-deerstalker
 deckhead
 doorposts
 deckle
@@ -2685,6 +2684,7 @@ decompensations
 dadaist
 decompiler
 decomposability
+deerstalker
 decomposable
 decompose
 deviceful
