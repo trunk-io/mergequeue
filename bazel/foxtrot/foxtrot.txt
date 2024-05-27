@@ -6612,7 +6612,6 @@ fettled
 floodway
 foamlike
 foams
-frogfish
 flirtier
 frequents
 focal
@@ -7824,6 +7823,7 @@ foredesk
 foreparts
 forepass
 feedstuffs
+frogfish
 foliously
 forepaws
 foveolets
