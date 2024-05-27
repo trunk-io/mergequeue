@@ -6334,7 +6334,6 @@ aul
 alchemise
 agoniatite
 aegerian
-arteriorrhagia
 agonic
 agonies
 agonise
@@ -19165,6 +19164,7 @@ archoplasmic
 archorrhagia
 archorrhea
 antipersonnel
+arteriorrhagia
 archostegnosis
 archoverseer
 archpall
