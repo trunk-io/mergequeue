@@ -4536,7 +4536,6 @@ geometdecrne
 gloss
 grides
 graplines
-ghoulishness
 ganggang
 grevillea
 gangetic
@@ -10008,6 +10007,7 @@ gazes
 gudame
 gone
 guaranian
+ghoulishness
 gasogenic
 geomys
 gamba
