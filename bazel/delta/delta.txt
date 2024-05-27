@@ -9591,7 +9591,6 @@ dignotion
 dependants
 del
 deuterons
-dygogram
 digonal
 digoneutic
 digoneutism
@@ -17903,6 +17902,7 @@ dewatering
 duennas
 dipterocecidium
 datable
+dygogram
 duennaship
 duer
 dues
