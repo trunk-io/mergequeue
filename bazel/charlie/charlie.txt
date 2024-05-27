@@ -8297,7 +8297,6 @@ chalazas
 cloak
 celestinian
 chalazian
-coevolve
 cranely
 cercomonas
 concertanti
@@ -22104,6 +22103,7 @@ climatologists
 conflagrative
 conflagrator
 conflagratory
+coevolve
 conflate
 colauxe
 consecutiveness
