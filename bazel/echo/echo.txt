@@ -5683,7 +5683,6 @@ engilded
 egoize
 engilding
 empacket
-elsewhen
 engine
 engined
 engineeringly
@@ -13020,6 +13019,7 @@ exsecting
 expermentized
 eucaine
 embankment
+elsewhen
 enslave
 eutaxite
 evovae
