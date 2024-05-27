@@ -6751,7 +6751,6 @@ gunsman
 goners
 gonfalcon
 gammaridae
-gambolled
 glowed
 gusseted
 gonfanon
@@ -9796,6 +9795,7 @@ gaslight
 guaiasanol
 glaucodote
 guaymie
+gambolled
 guayroto
 guarache
 geologize
