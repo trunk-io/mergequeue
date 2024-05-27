@@ -7805,7 +7805,6 @@ certainness
 certainty
 certhia
 certhiidae
-caryatidic
 certifiability
 categorematic
 certifiable
@@ -24176,6 +24175,7 @@ convertibility
 convertible
 chave
 convertibly
+caryatidic
 converting
 computerizable
 convertingness
