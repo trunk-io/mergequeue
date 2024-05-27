@@ -7986,7 +7986,6 @@ grandstanding
 grandtotal
 graves
 granduncle
-granduncles
 grane
 gunrooms
 granet
@@ -10162,6 +10161,7 @@ guardianly
 git
 grown
 glaived
+granduncles
 gelid
 guide
 guideboard
