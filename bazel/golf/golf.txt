@@ -8387,6 +8387,7 @@ gazeful
 graupels
 grauwacke
 gymnotoka
+galerus
 gammadia
 gride
 grizzlyman
@@ -8589,7 +8590,6 @@ galilei
 guernseyed
 goosing
 guardless
-galerus
 grecoue
 grecque
 gnu
