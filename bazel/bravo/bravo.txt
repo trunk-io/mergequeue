@@ -3839,6 +3839,7 @@ battute
 bunkos
 bacterian
 battutos
+beagles
 blastomeric
 batwing
 beswitch
@@ -4616,7 +4617,6 @@ blastodisk
 bed
 bool
 bedabble
-beagles
 bequirtle
 bedabbling
 barricadoed
