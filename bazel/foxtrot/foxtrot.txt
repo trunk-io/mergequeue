@@ -2563,6 +2563,7 @@ forwake
 fights
 folder
 fossilisable
+fiendlier
 fluorine
 ferreous
 fences
@@ -6674,7 +6675,6 @@ foeti
 fica
 foetiparous
 fausen
-fiendlier
 fofarraw
 flanger
 fog
