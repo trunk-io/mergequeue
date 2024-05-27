@@ -2699,6 +2699,7 @@ electrothermal
 expurgates
 epiperipheral
 enaluron
+exteriorise
 electrothermic
 endomycetaceae
 electrothermometer
@@ -13626,7 +13627,6 @@ exterior
 extraorbital
 elevon
 exteriorisation
-exteriorise
 euphonia
 exteriorised
 epicyesis
