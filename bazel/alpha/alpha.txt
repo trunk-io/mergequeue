@@ -6539,7 +6539,6 @@ antiresonance
 attempering
 alnascharism
 agrostologist
-agrote
 agrotechny
 agrotype
 agrotis
@@ -14709,6 +14708,7 @@ acrotic
 antiabrin
 antiabsolutist
 allotrope
+agrote
 antiacid
 antiadiaphorist
 allosaur
