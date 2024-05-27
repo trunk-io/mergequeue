@@ -1923,6 +1923,7 @@ gloam
 gullah
 gatehouse
 graine
+governessdom
 gingiva
 gelsemin
 gatekeeper
@@ -6303,7 +6304,6 @@ goalpost
 gambusias
 geysers
 glassworkers
-governessdom
 gauping
 gossypose
 gaddishness
