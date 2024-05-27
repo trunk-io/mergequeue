@@ -4769,7 +4769,6 @@ aedeagi
 aedeagus
 aedicula
 aediculae
-aedicule
 aedile
 adject
 aediles
@@ -17649,6 +17648,7 @@ appareling
 apparence
 apparency
 almucantar
+aedicule
 apparens
 apparent
 apparentements
