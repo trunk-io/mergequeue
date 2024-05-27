@@ -1218,7 +1218,6 @@ edrioasteroidea
 elixed
 edriophthalmatous
 echiuroid
-educability
 educables
 educand
 educatability
@@ -7466,6 +7465,7 @@ ephemeris
 ephemeromorphic
 ephemeroptera
 eigne
+educability
 ephesian
 evangelists
 ephestia
