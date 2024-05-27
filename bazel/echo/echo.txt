@@ -1993,7 +1993,6 @@ etymologisable
 exteriorate
 eagle
 eker
-epigastriocele
 epitritic
 ekhimi
 ekistics
@@ -9689,6 +9688,7 @@ esophagoplasty
 esophagoptosis
 esophagorrhagia
 embodiment
+epigastriocele
 edentulous
 esophagoscopy
 esophagostenosis
