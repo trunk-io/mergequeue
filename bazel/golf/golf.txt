@@ -2006,7 +2006,6 @@ glistering
 galidia
 glaikit
 gavelmen
-gunboat
 gaudless
 garnetwork
 genesee
@@ -5119,6 +5118,7 @@ grilles
 growled
 guariba
 glander
+gunboat
 glandered
 glimpser
 gozzan

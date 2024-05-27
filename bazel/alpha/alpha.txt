@@ -4545,7 +4545,6 @@ adumbrative
 adumbral
 adunation
 astutely
-adunc
 aduncate
 aduncity
 aduncous
@@ -7580,6 +7579,7 @@ albumenoid
 amygdalopathy
 archtreasurer
 albumens
+adunc
 albumimeter
 albumin
 appraisers
