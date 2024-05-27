@@ -4041,7 +4041,6 @@ adjuring
 angeldom
 adjust
 anhydrous
-adjustably
 abdal
 adjustation
 astre
@@ -15927,6 +15926,7 @@ antiphrasis
 antiphrastic
 antiphthisic
 antiepileptic
+adjustably
 antiphthisical
 amphisbaenian
 antipyic
