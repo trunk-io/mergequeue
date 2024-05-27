@@ -2693,7 +2693,6 @@ edaphodont
 electrotherapy
 electrotherapist
 electrotheraputic
-emyds
 electrothermal
 expurgates
 epiperipheral
@@ -2908,6 +2907,7 @@ emplaning
 earthwork
 elevons
 eurydice
+emyds
 elf
 elfenfolk
 epinard
