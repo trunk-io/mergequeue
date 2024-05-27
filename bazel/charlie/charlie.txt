@@ -11421,7 +11421,6 @@ chlorophyl
 chlorophyllase
 chlorophyllian
 chlorophyllide
-choliamb
 chlorophylligenous
 coxodynia
 chlorophylligerous
@@ -13580,6 +13579,7 @@ cigar
 cigaret
 cigarette
 cigarettes
+choliamb
 cigarfish
 counterconversion
 craspedum
