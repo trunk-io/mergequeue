@@ -3864,7 +3864,6 @@ foregrounds
 foulsome
 forecondemn
 fortyfive
-fits
 fecundating
 foreconsent
 feebleminded
@@ -7981,6 +7980,7 @@ forehinting
 fiddlies
 flashbulb
 forestal
+fits
 forestalled
 flatling
 firecrackers
