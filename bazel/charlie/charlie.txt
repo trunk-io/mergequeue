@@ -5794,6 +5794,7 @@ categories
 cestodaria
 categorisation
 categorise
+coins
 categorised
 chansonnier
 categorising
@@ -18657,7 +18658,6 @@ coinmaking
 coinmate
 climatotherapeutics
 coinmates
-coins
 catallactics
 coinspire
 coinstantaneity
