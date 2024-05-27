@@ -5105,6 +5105,7 @@ abv
 aerophysics
 alkylogen
 aerophyte
+atopy
 aerophobic
 aerophor
 aerophore
@@ -22844,7 +22845,6 @@ atoningly
 atop
 alcelaphus
 atophan
-atopy
 academism
 atopite
 arrow
