@@ -2419,7 +2419,6 @@ electroed
 erythroclasis
 equicostate
 electroencephalogram
-electroencephalograms
 electroencephalograph
 epitaxial
 exciting
@@ -12574,6 +12573,7 @@ exitial
 exiting
 envied
 enherit
+electroencephalograms
 exitious
 exits
 exiture
