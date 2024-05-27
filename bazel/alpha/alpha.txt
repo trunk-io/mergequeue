@@ -9690,7 +9690,6 @@ aluminosis
 aluminothermy
 acrotarsial
 aluminothermics
-alumins
 aluminums
 alohas
 alumish
@@ -10712,6 +10711,7 @@ aminobenzene
 aminobenzoic
 appetency
 autotoxicosis
+alumins
 amynodon
 amynodont
 aminoformic
