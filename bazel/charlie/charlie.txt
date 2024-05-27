@@ -20077,7 +20077,6 @@ commensals
 commensurability
 commensurable
 cajoled
-commensurably
 commensurate
 cubla
 commensurated
@@ -27189,6 +27188,7 @@ coverage
 cardicentesis
 counterstand
 counterstep
+commensurably
 chapman
 counterstimulate
 counterstimulation
