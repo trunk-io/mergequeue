@@ -1097,7 +1097,6 @@ choppin
 crossbarred
 calcinate
 calcinator
-calcinatory
 calcine
 calcined
 calciner
@@ -26847,6 +26846,7 @@ counterdistinct
 cronied
 coscinodiscus
 counterdistinction
+calcinatory
 chutzpah
 counterdistinguish
 counterdoctrine
