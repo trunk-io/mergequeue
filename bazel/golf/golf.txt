@@ -713,6 +713,7 @@ glint
 gallows
 giterne
 gonyoncus
+gorblin
 graduale
 gunfires
 gelosine
@@ -7145,7 +7146,6 @@ gester
 gyttja
 gremio
 gorble
-gorblin
 gorcocks
 granites
 goniatite
