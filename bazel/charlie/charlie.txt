@@ -15237,7 +15237,6 @@ clack
 clackama
 circumtropical
 coronillin
-clacker
 clackers
 clackety
 clacking
@@ -27140,6 +27139,7 @@ counterround
 counterruin
 counters
 countersalient
+clacker
 crotchety
 compressedly
 causability
