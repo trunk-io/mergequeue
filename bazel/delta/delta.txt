@@ -9970,7 +9970,6 @@ dirigomotor
 dimittis
 doubleheaders
 dimly
-dimmer
 dimmers
 dimmest
 dimmet
@@ -11124,6 +11123,7 @@ delundung
 disavowed
 disavowedly
 divinities
+dimmer
 dissectional
 disavower
 disavows

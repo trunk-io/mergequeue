@@ -7315,7 +7315,6 @@ centuriator
 centuried
 centuries
 chimera
-centurions
 captious
 centurist
 coroners
@@ -30455,6 +30454,7 @@ cubages
 cubicovariant
 corozos
 computed
+centurions
 cubane
 cubangle
 cubanite
