@@ -1681,7 +1681,6 @@ gunz
 gasteromycetes
 glottic
 gayer
-gasteromycetous
 gasteropoda
 gummy
 gallons
@@ -5487,6 +5486,7 @@ guttural
 graduals
 grando
 grimful
+gasteromycetous
 groomishly
 groutiest
 guiltless
