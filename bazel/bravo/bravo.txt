@@ -3079,6 +3079,7 @@ barwood
 boneblack
 basad
 backhouse
+booklift
 barksome
 basale
 bursarship
@@ -8191,7 +8192,6 @@ bitangent
 bochur
 brunissure
 bicornous
-booklift
 bagroom
 bicornuate
 bicornute
