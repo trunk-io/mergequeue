@@ -2598,7 +2598,6 @@ forbidden
 ferritungstite
 flurry
 ferryway
-finding
 ferroaluminum
 ferrocene
 ferrocerium
@@ -3298,6 +3297,7 @@ ferrel
 floricultural
 fivescore
 ferrelled
+finding
 fortier
 flattener
 fornicatrices
