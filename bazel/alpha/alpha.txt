@@ -1560,7 +1560,6 @@ accommodating
 adeptship
 accommodatingness
 accommodations
-accommodatively
 accommodativeness
 aliet
 accommodators
@@ -7688,6 +7687,7 @@ alchemy
 alchemic
 antiviral
 alchemies
+accommodatively
 augments
 alchemised
 actinozoal
