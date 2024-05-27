@@ -2506,6 +2506,7 @@ candlers
 candles
 candleshine
 candleshrift
+capitalizations
 candlestand
 cecidiology
 committeewoman
@@ -3200,7 +3201,6 @@ capitalistically
 capitalists
 capitalizable
 cubatures
-capitalizations
 capitalize
 cananaean
 coremium
