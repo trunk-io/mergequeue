@@ -5778,7 +5778,6 @@ faunas
 further
 ferr
 fribblish
-flywinch
 facile
 fails
 fatty
@@ -8630,6 +8629,7 @@ forthgo
 forthy
 farsang
 farts
+flywinch
 febrifuge
 frankhearted
 filmiest
