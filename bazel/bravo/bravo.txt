@@ -2069,7 +2069,6 @@ badaud
 bristly
 banknotes
 bedeguar
-blobbing
 bologna
 bankrider
 brachycome
@@ -16576,6 +16575,7 @@ bigging
 bucco
 butte
 booty
+blobbing
 brahmanic
 buccogingival
 bewield
