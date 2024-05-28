@@ -6148,7 +6148,6 @@ enologist
 enols
 esquireship
 enterclose
-eranist
 execs
 enomotarch
 exodist
@@ -12574,6 +12573,7 @@ exit
 exsects
 exite
 exitial
+eranist
 exiting
 envied
 enherit
