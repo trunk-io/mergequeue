@@ -5532,6 +5532,7 @@ griffith
 galliwasp
 gastrelcosis
 glyphic
+glowworms
 gastraeadae
 goury
 gus
@@ -7332,7 +7333,6 @@ gossipped
 gerrymandered
 gossipping
 gossipred
-glowworms
 gossipries
 gulley
 gossips
