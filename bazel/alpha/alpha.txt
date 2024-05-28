@@ -719,6 +719,7 @@ about
 apparatchik
 above
 abovedeck
+animikite
 aboveground
 abovementioned
 aminoacidemia
@@ -13268,7 +13269,6 @@ animetta
 animi
 anabiosis
 animikean
-animikite
 animine
 animis
 animism
