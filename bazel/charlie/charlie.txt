@@ -9165,7 +9165,6 @@ charras
 charre
 charred
 charrette
-consenescence
 charry
 charrier
 charriest
@@ -11862,6 +11861,7 @@ cytosine
 chondrosternal
 chondrotomy
 chondrules
+consenescence
 chondrus
 chonicrite
 chonk
