@@ -13742,6 +13742,7 @@ anaphroditous
 anodized
 anodizes
 acoelomous
+astable
 anticum
 anodizing
 anodon
@@ -22019,7 +22020,6 @@ asswaged
 asswages
 asswaging
 asta
-astable
 astacian
 astacidae
 astay
