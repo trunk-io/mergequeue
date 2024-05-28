@@ -2537,7 +2537,6 @@ gleemaiden
 growable
 gemmingia
 gemmipara
-gemmipares
 gemmiparous
 gomukhi
 gemmiparously
@@ -3196,6 +3195,7 @@ gliff
 geophilid
 geophilidae
 groined
+gemmipares
 gastrins
 geophytic
 genl
