@@ -2207,7 +2207,6 @@ grampus
 galla
 globosity
 gazeless
-gazella
 gazelle
 gazellelike
 gazelline
@@ -4731,6 +4730,7 @@ girlism
 globetrotter
 girllikeness
 gammers
+gazella
 girls
 gymnanthes
 gunplays
