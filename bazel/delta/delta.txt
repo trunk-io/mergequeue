@@ -1170,7 +1170,6 @@ dogtrot
 dreggish
 datableness
 datably
-datafile
 dillydallying
 dataflow
 datagram
@@ -12364,6 +12363,7 @@ durability
 disherited
 dinosauric
 divet
+datafile
 defibrillator
 deamidize
 dartingness
