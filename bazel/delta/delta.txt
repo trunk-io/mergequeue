@@ -2499,7 +2499,6 @@ decitizenize
 decivilize
 deck
 dateline
-deckedout
 deckel
 deporte
 deblocking
@@ -4778,6 +4777,7 @@ depressor
 demivambrace
 diminutivize
 demivierge
+deckedout
 demivirgin
 deadeyes
 demivol
