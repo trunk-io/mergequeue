@@ -5462,7 +5462,6 @@ casuistic
 casuistically
 cyclopedia
 chandelier
-casuistry
 catpipe
 conductances
 cellar
@@ -10256,6 +10255,7 @@ codworm
 chia
 chiack
 chyack
+casuistry
 chyak
 cowpea
 chian
