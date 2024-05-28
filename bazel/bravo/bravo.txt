@@ -12272,7 +12272,6 @@ biasses
 boltcutter
 botanizer
 bookmark
-buckstay
 bowenite
 bolters
 behold
@@ -14300,6 +14299,7 @@ brahmoism
 brahmsian
 brahmsite
 biotitic
+buckstay
 bray
 braided
 bovoid
