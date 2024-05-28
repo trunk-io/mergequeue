@@ -110,7 +110,6 @@ abasgi
 adaw
 abashed
 abashedness
-abashes
 astony
 abashless
 abashlessly
@@ -9633,6 +9632,7 @@ algivorous
 aluco
 aubades
 amazia
+abashes
 antirennet
 aluconinae
 anthocerotaceae
