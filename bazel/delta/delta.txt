@@ -1652,7 +1652,6 @@ dozening
 divergency
 deamidase
 dentimeter
-deamidation
 deamidization
 deaminase
 decating
@@ -12095,6 +12094,7 @@ determining
 diplopodous
 diagraphical
 decantherous
+deamidation
 dysergia
 desulfurised
 disert
