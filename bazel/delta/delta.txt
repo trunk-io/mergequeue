@@ -2021,7 +2021,6 @@ daimen
 dichloramin
 decagons
 decagram
-dourness
 decagrams
 diverberate
 decahedral
@@ -8878,6 +8877,7 @@ dibstone
 doziness
 dibutyl
 denunciation
+dourness
 dibutyrate
 dibutyrin
 dicacity
