@@ -2625,7 +2625,6 @@ gatha
 gamogeny
 glycyls
 guttule
-gumshield
 goetia
 gradatim
 great
@@ -8264,6 +8263,7 @@ grasshouse
 gentlemanlike
 gravest
 grassy
+gumshield
 graminaceae
 gallycrow
 galvanoglyphy
