@@ -9598,7 +9598,6 @@ compathy
 checkrooms
 checkrope
 colleagued
-checkrow
 checkrowed
 checkrower
 checkrowing
@@ -15424,6 +15423,7 @@ copalchi
 clamouring
 clamourist
 clamourous
+checkrow
 clamoursome
 clampdown
 clamped
