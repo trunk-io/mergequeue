@@ -5228,6 +5228,7 @@ glathsheimr
 glauber
 gourmander
 glycocholic
+graphicness
 guichet
 grocers
 glaucescent
@@ -8140,7 +8141,6 @@ graphemics
 gastroscopies
 greenhorn
 graphically
-graphicness
 graphing
 glamourously
 glutamates
