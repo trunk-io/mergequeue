@@ -19539,7 +19539,6 @@ carvers
 colpitises
 colpohyperplasia
 colpoperineoplasty
-carcan
 colpoperineorrhaphy
 colpoplasty
 chromogenetic
@@ -25374,6 +25373,7 @@ corncobs
 corncockle
 corncracker
 corncrake
+carcan
 crustiest
 corncrib
 corncribs
