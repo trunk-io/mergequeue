@@ -1435,6 +1435,7 @@ grasseye
 glyphs
 glutael
 garmenture
+glaymore
 gerodermia
 garmentworker
 growlers
@@ -5046,7 +5047,6 @@ galoch
 glaiket
 gavotted
 glaiks
-glaymore
 glair
 glaire
 gigger
