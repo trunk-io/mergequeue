@@ -1134,7 +1134,6 @@ edictum
 edicule
 echolalia
 edificate
-echinology
 edification
 exfigure
 edificator
@@ -7006,6 +7005,7 @@ entreat
 entreatable
 entreatful
 enates
+echinology
 endjunk
 encyclopaedic
 entreaties
