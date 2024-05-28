@@ -1938,6 +1938,7 @@ branchipus
 bastardising
 biscuitmaker
 bandolero
+beddingroll
 buckayros
 bandoleros
 brockle
@@ -4672,7 +4673,6 @@ blader
 bromos
 bucklered
 bedding
-beddingroll
 bede
 bogans
 bedeaf
