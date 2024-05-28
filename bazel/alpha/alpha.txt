@@ -1141,7 +1141,6 @@ archaeologists
 aucan
 abnormalise
 abutment
-assertible
 abutments
 abuttal
 abuttals
@@ -3272,6 +3271,7 @@ acturience
 actus
 archbuffoon
 actutate
+assertible
 acuaesthesia
 alids
 acuate
