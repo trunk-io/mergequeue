@@ -5596,6 +5596,7 @@ cataloon
 catalos
 companionways
 catalpa
+chromoisomerism
 catalpas
 catalufa
 catalufas
@@ -12533,7 +12534,6 @@ chromogenous
 chromoisomer
 chromoisomeric
 chosing
-chromoisomerism
 chromoleucite
 chromolipoid
 choleinic
