@@ -912,7 +912,6 @@ butcherliness
 bookland
 bagpipers
 bandyball
-boscage
 bagpudding
 bagrationite
 bagre
@@ -4789,6 +4788,7 @@ bedlids
 bord
 beinked
 bedmaker
+boscage
 bewrought
 bedmakers
 byronist
