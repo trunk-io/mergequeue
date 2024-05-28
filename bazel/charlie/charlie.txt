@@ -5267,7 +5267,6 @@ cassididae
 cotsetla
 chromatography
 cassidulina
-cassiduloid
 charterage
 cassiepeia
 cassimere
@@ -16353,6 +16352,7 @@ clypeastroid
 clypeate
 conspicuous
 caraco
+cassiduloid
 clypeated
 clunk
 clypeiform
