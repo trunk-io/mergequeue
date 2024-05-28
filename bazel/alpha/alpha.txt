@@ -3852,7 +3852,6 @@ adiaphoron
 anisopterous
 adiapneustia
 adiated
-adiathermal
 adiathermancy
 adiathermic
 antioxidase
@@ -14664,6 +14663,7 @@ anthropophagize
 anthropophagous
 anthropophilous
 anthropophobia
+adiathermal
 anthropophuism
 anthropophuistic
 astonishingness
