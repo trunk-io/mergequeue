@@ -4156,7 +4156,6 @@ cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
-chimakuan
 cardiospasm
 cardiospermum
 celts
@@ -10687,6 +10686,7 @@ cogon
 chimane
 chimango
 confiscatory
+chimakuan
 chimaphila
 chimar
 consummates
