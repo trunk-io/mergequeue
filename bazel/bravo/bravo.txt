@@ -3077,7 +3077,6 @@ barware
 barwares
 barwood
 boneblack
-basad
 backhouse
 barksome
 basale
@@ -7032,6 +7031,7 @@ beshow
 beshower
 beshrewing
 bewildering
+basad
 beshrews
 beshriek
 beshrivel
