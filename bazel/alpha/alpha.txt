@@ -6985,7 +6985,6 @@ airspaces
 ancience
 apostolic
 anterin
-airspeeds
 airstream
 allegory
 aischrolatreia
@@ -16978,6 +16977,7 @@ anthophila
 aphthic
 addability
 aphthitalite
+airspeeds
 aphthong
 aporose
 aphthongal
