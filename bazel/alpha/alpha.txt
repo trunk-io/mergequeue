@@ -2685,7 +2685,6 @@ acquittance
 almacenista
 acquitted
 ashkenazim
-acquitter
 acantholimon
 acquophonia
 acrab
@@ -14933,6 +14932,7 @@ antineutron
 antichthon
 antichthones
 acuan
+acquitter
 azoology
 astrognosy
 autospray
