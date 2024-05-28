@@ -2629,7 +2629,6 @@ barkbound
 barkcutter
 benzalhydrazine
 balsameaceous
-barkeeper
 brazing
 barkeeps
 byelaws
@@ -16018,6 +16017,7 @@ brontosauruses
 byous
 betoil
 brontoscopy
+barkeeper
 brontotherium
 bronze
 beedom
