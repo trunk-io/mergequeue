@@ -4606,7 +4606,6 @@ gipsyhead
 gazehound
 gypsyhead
 gaitt
-gloeocapsoid
 gadoid
 giglot
 gypsying
@@ -9410,6 +9409,7 @@ gets
 grounden
 gallybeggar
 gigues
+gloeocapsoid
 gropingly
 grounders
 groundhog
