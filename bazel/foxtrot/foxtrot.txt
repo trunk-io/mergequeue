@@ -2074,6 +2074,7 @@ forehook
 feldspathoidal
 franca
 flocky
+fixator
 fele
 frijol
 filibuster
@@ -4599,7 +4600,6 @@ flatnose
 footslogs
 fdtype
 frecked
-fixator
 filagrees
 fixe
 fixed
