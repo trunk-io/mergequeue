@@ -1966,7 +1966,6 @@ bandster
 bandstop
 balances
 bandstring
-bandurria
 bandusia
 brandishes
 bosquets
@@ -3349,6 +3348,7 @@ bay
 bathers
 basketing
 basketlike
+bandurria
 bathymetric
 basketmaker
 basketmaking
