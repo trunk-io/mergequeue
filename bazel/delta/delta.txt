@@ -2744,6 +2744,7 @@ diatessaron
 decontaminations
 decontaminator
 decontaminators
+dyschromatoptic
 decontrol
 dustoor
 dvornik
@@ -11337,7 +11338,6 @@ dischevel
 dyschiria
 dyschroa
 dyschroia
-dyschromatoptic
 disci
 diabases
 disciflorae
