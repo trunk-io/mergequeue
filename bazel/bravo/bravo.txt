@@ -4990,6 +4990,7 @@ badchan
 bedrock
 beeherd
 bouncing
+bearskins
 bitriseptate
 beehive
 beehives
@@ -15396,7 +15397,6 @@ bryndza
 brine
 bleaters
 brined
-bearskins
 brinehouse
 brineless
 baff
