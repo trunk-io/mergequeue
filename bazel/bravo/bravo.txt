@@ -11393,6 +11393,7 @@ beguiled
 bluebeard
 buff
 bluebell
+bodiment
 belve
 bluebelled
 bluebells
@@ -11858,7 +11859,6 @@ bodiless
 bodiliness
 bodilize
 beento
-bodiment
 boding
 bodyshirt
 becrown
