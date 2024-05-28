@@ -5319,7 +5319,6 @@ garlopa
 gleeful
 gleefully
 glaucomatous
-gleeking
 gleeks
 gleeman
 groundline
@@ -6480,6 +6479,7 @@ greenwort
 gres
 gastrular
 gunnera
+gleeking
 glossophaga
 glomerulitis
 goggliest
