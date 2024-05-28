@@ -9092,7 +9092,6 @@ gripmen
 gripment
 gryposis
 grypotherium
-gridlock
 gangbuster
 griege
 greenstick
@@ -9146,6 +9145,7 @@ garblers
 grisons
 grisset
 gariba
+gridlock
 grist
 grummel
 grister
