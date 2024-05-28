@@ -6804,7 +6804,6 @@ cellepora
 cellepore
 chaucer
 cellfalcicula
-celliferous
 celliform
 cellist
 cellists
@@ -20822,6 +20821,7 @@ compliment
 complimental
 complimentally
 complimentalness
+celliferous
 complimentarily
 complimentariness
 complimentarity
