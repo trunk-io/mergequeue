@@ -1186,7 +1186,6 @@ bakairi
 bakal
 biasteric
 bake
-benettle
 brew
 bonus
 burrish
@@ -10626,6 +10625,7 @@ bivinyls
 blatherskite
 bermudians
 bushmen
+benettle
 blatherskites
 blatiform
 byelorussian
