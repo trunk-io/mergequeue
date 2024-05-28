@@ -7996,7 +7996,6 @@ euripos
 epimerized
 epimeron
 epimers
-enchains
 epanagoge
 epimysia
 enervator
@@ -13845,6 +13844,7 @@ extractiform
 euphenic
 extroverts
 extracting
+enchains
 extractive
 extractively
 extractor
