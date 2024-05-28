@@ -2809,7 +2809,6 @@ geodesic
 genip
 genyplasty
 goldenwing
-genips
 gastroduodenostomies
 genista
 glashan
@@ -5101,6 +5100,7 @@ goldic
 gawker
 glancing
 genealogists
+genips
 goofballs
 glancingly
 grilles
