@@ -1165,7 +1165,6 @@ exploders
 extermined
 edwina
 edit
-editable
 elatrometer
 electrotypes
 edith
@@ -6944,6 +6943,7 @@ epimere
 entopic
 entoplasm
 eightyfold
+editable
 enzone
 esau
 entoprocta
