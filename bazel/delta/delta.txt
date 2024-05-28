@@ -1736,7 +1736,6 @@ deathlikeness
 dundees
 deathliness
 deathrates
-deaths
 deathsman
 depaysee
 deathtime
@@ -2131,6 +2130,7 @@ decapitable
 decapitate
 decapitates
 decapitation
+deaths
 decapitations
 dicecup
 decalcomanias
