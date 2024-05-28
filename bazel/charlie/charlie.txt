@@ -2531,7 +2531,6 @@ camphires
 cane
 corneum
 cliffing
-canebrake
 canebrakes
 cephalodynia
 counterdisengage
@@ -26662,6 +26661,7 @@ coumara
 coumaran
 congealability
 coumaric
+canebrake
 coumarilic
 coumarin
 coumarinic
