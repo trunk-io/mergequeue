@@ -15726,7 +15726,6 @@ doricize
 drubbly
 dorylinae
 doryline
-dyemaker
 dorymen
 doryphoros
 dakota
@@ -18269,6 +18268,7 @@ demodulated
 dunnakin
 dunne
 desiccant
+dyemaker
 detrains
 dialyzability
 demijohn
