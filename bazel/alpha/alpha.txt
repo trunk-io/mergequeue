@@ -2098,6 +2098,7 @@ auxiliation
 acettoluide
 airmonger
 alopathic
+apparency
 ach
 achaean
 achaemenidae
@@ -17635,7 +17636,6 @@ arist
 appareled
 appareling
 apparence
-apparency
 almucantar
 apparens
 apparent
