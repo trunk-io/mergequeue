@@ -17913,7 +17913,6 @@ codist
 codivine
 codline
 controlled
-codling
 coguardian
 codlins
 costard
@@ -25656,6 +25655,7 @@ corporalities
 corporally
 cack
 corporals
+codling
 citronellic
 corporalship
 corporas
