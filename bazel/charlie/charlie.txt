@@ -19346,6 +19346,7 @@ colonies
 colonisability
 colonisable
 clinid
+coversed
 colonisationist
 colonise
 colonised
@@ -30325,7 +30326,6 @@ clenching
 corralling
 crustaceal
 crustacean
-coversed
 crustaceology
 crustaceological
 crustaceologist

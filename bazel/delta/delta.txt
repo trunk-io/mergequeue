@@ -12398,6 +12398,7 @@ dishmop
 dishome
 drawler
 dishonesty
+description
 dishonor
 distendedness
 dishonorably
@@ -16241,7 +16242,6 @@ derange
 dowly
 designlessness
 dowment
-description
 duplicated
 downbear
 depurant
