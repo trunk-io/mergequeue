@@ -1755,7 +1755,6 @@ eyeish
 exonerated
 eyelash
 eliding
-eyelessness
 eyelet
 eyeleted
 eyeletted
@@ -9068,6 +9067,7 @@ escalops
 endosteally
 erotized
 ectosome
+eyelessness
 erysipeloid
 endothoracic
 erysipelous
