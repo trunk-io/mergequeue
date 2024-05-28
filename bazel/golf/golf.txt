@@ -722,7 +722,6 @@ germanesque
 gutterize
 grapplers
 goneril
-gonfalon
 galop
 galopade
 grammies
@@ -1169,6 +1168,7 @@ grandsonship
 ganoidian
 gulled
 ganowanian
+gonfalon
 ganoine
 ganoses
 geonyctitropic
