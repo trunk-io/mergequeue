@@ -2211,7 +2211,6 @@ bedward
 birchbark
 beltline
 barabra
-barad
 banderoling
 batwoman
 blushers
@@ -9345,6 +9344,7 @@ built
 barometer
 bipennated
 bipenniform
+barad
 bipetalous
 bucciniform
 biphasic
