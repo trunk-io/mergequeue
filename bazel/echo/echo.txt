@@ -4348,7 +4348,6 @@ enameling
 enamelist
 equiped
 enamelless
-earsh
 enamels
 encomia
 extensity
@@ -4965,6 +4964,7 @@ endemisms
 echeloned
 estates
 equiparable
+earsh
 estipulate
 endenization
 exhibitional
