@@ -4785,7 +4785,6 @@ encomy
 electromer
 enduro
 epidosite
-eccoproticophoric
 encomiastic
 encomiastically
 encomic
@@ -4900,6 +4899,7 @@ endamoeba
 endamoebas
 endamoebidae
 electrotautomerism
+eccoproticophoric
 endanger
 endangitis
 endarchies
