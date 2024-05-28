@@ -5349,7 +5349,6 @@ affinities
 affinition
 affinitive
 affirm
-affirmable
 abreacted
 acupress
 affirmably
@@ -16330,6 +16329,7 @@ antistrophon
 antisubstance
 antisudoral
 antisuffrage
+affirmable
 absohm
 awheel
 antisupernaturalist
