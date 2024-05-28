@@ -4170,6 +4170,7 @@ globs
 gileno
 glossocomon
 gutturally
+glaciometer
 groomsman
 gladliest
 gaia
@@ -5819,7 +5820,6 @@ glossemes
 glossemic
 glossers
 glossy
-glaciometer
 gnathostomatous
 goniatitoid
 glossier
