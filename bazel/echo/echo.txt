@@ -5772,7 +5772,6 @@ efficace
 equant
 exfoliation
 engrace
-epicele
 engraffed
 expiations
 engrafter
@@ -12472,6 +12471,7 @@ easting
 exhortations
 exhortative
 earmarks
+epicele
 exhorters
 exhorting
 exhortingly
