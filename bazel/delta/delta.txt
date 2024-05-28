@@ -5180,6 +5180,7 @@ dendromecon
 dispurpose
 dixits
 distrust
+dislock
 dendron
 dindled
 denarcotize
@@ -18411,7 +18412,6 @@ dupioni
 disendowing
 duplation
 downrush
-dislock
 dedicatedly
 duplexer
 duplexers
