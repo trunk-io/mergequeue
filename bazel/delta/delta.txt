@@ -819,7 +819,6 @@ dangles
 dopesters
 dalaga
 diminuendos
-danglin
 dangling
 droschken
 directivity
@@ -6891,6 +6890,7 @@ desmosite
 desmotrope
 desmotropy
 desocialization
+danglin
 diaphote
 deft
 dispositor
