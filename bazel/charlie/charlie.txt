@@ -3527,6 +3527,7 @@ captivities
 cojoin
 chesteine
 captor
+cercopithecid
 captors
 capturable
 capture
@@ -7578,7 +7579,6 @@ cercomonad
 cercomonadidae
 cercopid
 continent
-cercopithecid
 contracting
 coenenchymata
 cercopithecidae
