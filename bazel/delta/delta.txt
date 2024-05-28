@@ -7457,7 +7457,6 @@ delisted
 detruck
 detrude
 darbha
-detruded
 defrosts
 dich
 detrudes
@@ -16375,6 +16374,7 @@ derelictions
 drainable
 downstate
 dolmens
+detruded
 downstroke
 downstrokes
 downswings
