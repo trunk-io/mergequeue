@@ -7453,6 +7453,7 @@ bethinks
 baklawa
 brasilia
 beleft
+bartering
 balusters
 bethorn
 burthenman
@@ -11245,7 +11246,6 @@ bedragglement
 bloomless
 bloomsbury
 backtracked
-bartering
 blooped
 byways
 baronethood
