@@ -8304,7 +8304,6 @@ diagonalizable
 diagonalization
 diagnosing
 diseurs
-diagonals
 deducting
 diagonalwise
 dedans
@@ -17644,6 +17643,7 @@ drusedom
 druses
 dishevels
 deuteropathy
+diagonals
 deliquesced
 drusy
 dreamfulness
