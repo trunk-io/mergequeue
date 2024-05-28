@@ -1816,7 +1816,6 @@ gastromenia
 governail
 guttulae
 gurdfish
-gastromycosis
 gangwayman
 gastronephritis
 glibber
@@ -4412,6 +4411,7 @@ gerres
 glossist
 garnishing
 ger
+gastromycosis
 gateway
 gantang
 gruelled
