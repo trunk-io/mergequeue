@@ -6515,6 +6515,7 @@ adsorbate
 aubrite
 agromyzid
 agromyzidae
+apothegmatist
 agron
 agronome
 autoignition
@@ -17560,7 +17561,6 @@ apantesis
 airship
 apothegmatical
 apothegmatically
-apothegmatist
 apothegmatize
 apothem
 apotheosis
