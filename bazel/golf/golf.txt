@@ -3107,6 +3107,7 @@ galliardness
 geoids
 gladioluses
 geoisotherm
+gripey
 geolatry
 geologer
 geologian
@@ -9064,7 +9065,6 @@ grandest
 gradins
 gamogenetic
 golland
-gripey
 gramicidin
 gusain
 gemmoid
