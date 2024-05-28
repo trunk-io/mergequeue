@@ -3174,7 +3174,6 @@ elicit
 elenchical
 epiphanized
 everything
-eloquent
 embioptera
 elpasolite
 epiparasite
@@ -9913,6 +9912,7 @@ estaminet
 emittance
 exergue
 eloquential
+eloquent
 estampage
 evolving
 estampede
