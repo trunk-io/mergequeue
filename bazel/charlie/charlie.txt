@@ -9257,7 +9257,6 @@ chasse
 cauliculus
 chassed
 chasseing
-chassepot
 chassepots
 chiarooscurist
 chasses
@@ -28349,6 +28348,7 @@ craven
 casanovas
 clans
 cravened
+chassepot
 cravenhearted
 cravening
 cravenly
