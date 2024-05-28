@@ -11260,7 +11260,6 @@ amphimorulae
 amphinesian
 amphion
 amphioxi
-amphioxidae
 amphioxis
 amphioxuses
 amphipeptone
@@ -13504,6 +13503,7 @@ amicron
 anna
 antiwit
 annabergite
+amphioxidae
 annal
 antiminsion
 annale
