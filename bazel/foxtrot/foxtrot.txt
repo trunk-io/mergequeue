@@ -6761,7 +6761,6 @@ fumewort
 foresworn
 foiter
 fraxin
-fokker
 fronded
 fissate
 fol
@@ -8025,6 +8024,7 @@ forester
 facetting
 forepredicament
 fermentatively
+fokker
 forestful
 forestial
 flisked
