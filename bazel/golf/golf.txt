@@ -1913,7 +1913,6 @@ gavages
 gloam
 grainless
 gullah
-gatehouse
 graine
 gingiva
 gelsemin
@@ -6389,6 +6388,7 @@ grating
 gobet
 geodic
 goliad
+gatehouse
 gobies
 guiser
 geckotian
