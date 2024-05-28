@@ -9291,7 +9291,6 @@ chastised
 chastiser
 chastisers
 clapperboard
-corf
 chastity
 chastities
 chasuble
@@ -21956,6 +21955,7 @@ corpusculated
 confervaceae
 confervaceous
 confervae
+corf
 conferval
 confervalike
 confervoideae
