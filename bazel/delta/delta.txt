@@ -6094,6 +6094,7 @@ dislocation
 didynamy
 deadmelt
 displume
+dishumour
 deputed
 deputes
 deputies
@@ -9637,7 +9638,6 @@ dihdroxycholecalciferol
 dihedrals
 dihedron
 discipleship
-dishumour
 dihexahedron
 dowing
 dihybridism
