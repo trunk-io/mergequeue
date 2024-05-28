@@ -8150,7 +8150,6 @@ epiprecoracoid
 exostracize
 extrude
 excludingly
-epipterygoid
 elegant
 euxanthate
 epipterous
@@ -12257,6 +12256,7 @@ enhort
 executioneering
 entangledly
 elric
+epipterygoid
 enfect
 executor
 excur
