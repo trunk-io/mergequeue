@@ -4162,7 +4162,6 @@ gillotype
 gillstoup
 gilour
 gilpey
-gilravage
 gushingly
 gear
 globs
@@ -7441,6 +7440,7 @@ gourmets
 glyphography
 gerkin
 gourounut
+gilravage
 goustrous
 gyrostatics
 gibing
