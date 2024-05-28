@@ -8159,7 +8159,6 @@ aquatical
 algebraical
 algebraically
 algebraist
-algebraize
 anodization
 algedo
 alfilerillo
@@ -18150,6 +18149,7 @@ aprendiz
 apres
 algores
 apricate
+algebraize
 aprication
 aprickle
 apricot
