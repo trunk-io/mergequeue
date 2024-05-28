@@ -1722,7 +1722,6 @@ encapsulations
 eyedot
 epicureanism
 exploder
-eyedrop
 emphasizing
 enunciatory
 ecod
@@ -10159,6 +10158,7 @@ esculetin
 etesians
 evolutions
 ethal
+eyedrop
 encastered
 ethambutol
 ethmovomerine
