@@ -2180,7 +2180,6 @@ entrances
 elbowy
 elbowpiece
 elbowroom
-elbows
 elcaja
 epimerum
 eld
@@ -10523,6 +10522,7 @@ etymonic
 etiolated
 etiolating
 etiolize
+elbows
 etiology
 etiological
 endrumpf
