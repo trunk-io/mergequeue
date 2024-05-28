@@ -4139,7 +4139,6 @@ cardionecrosis
 cardioneurosis
 cardionosus
 conjugably
-cardiopath
 cardiopathic
 cardiopericarditis
 cardiophobe
@@ -8143,6 +8142,7 @@ chafewax
 chimaeras
 chafeweed
 chaff
+cardiopath
 chaffcutter
 chaffed
 chaffer
