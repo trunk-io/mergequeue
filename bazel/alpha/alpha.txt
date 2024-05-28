@@ -11619,6 +11619,7 @@ anachronismatical
 achamoth
 agars
 anachronisms
+astronavigation
 anachronistic
 anachronistical
 anachronize
@@ -24876,7 +24877,6 @@ annotate
 avowing
 avowries
 amphithect
-astronavigation
 avows
 avshar
 autocoherer
