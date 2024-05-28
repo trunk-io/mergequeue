@@ -6575,7 +6575,6 @@ fluxmeter
 forespent
 fluxure
 fn
-footcloth
 fretways
 fo
 fireproofed
@@ -10902,6 +10901,7 @@ fetich
 folioing
 footwarmers
 finished
+footcloth
 foreteller
 fluxroot
 fistify
