@@ -7055,7 +7055,6 @@ foiled
 feverishness
 foolhardiness
 foolhardiship
-fitfulness
 firehalls
 floodwater
 fedayeen
@@ -8821,6 +8820,7 @@ fleeringly
 fossilizing
 fossillike
 foozles
+fitfulness
 formly
 fossilogy
 funmaker
