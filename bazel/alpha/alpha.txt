@@ -2151,6 +2151,7 @@ accustoms
 acheweed
 achy
 airtime
+aminoid
 aphagia
 apout
 ammonionitrate
@@ -10710,7 +10711,6 @@ amynodont
 aminoformic
 aminoglutaric
 aminoguanidine
-aminoid
 anointing
 aminoketone
 antitheistical
