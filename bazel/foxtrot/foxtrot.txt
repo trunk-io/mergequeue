@@ -840,6 +840,7 @@ fellon
 fronted
 fantailed
 fantails
+flakage
 fantaisie
 fantasy
 fantasia
@@ -4814,7 +4815,6 @@ flaithship
 flutelike
 federationist
 foisons
-flakage
 flotsen
 feud
 flamboyantism
