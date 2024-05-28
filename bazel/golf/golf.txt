@@ -139,7 +139,6 @@ gawkies
 gangrening
 gadroonage
 gadrooned
-gueridon
 gadrooning
 granulize
 glaces
@@ -4799,6 +4798,7 @@ gyroscopes
 gastroplenic
 gesticulating
 gyrotheca
+gueridon
 girouette
 girouettes
 gestes
