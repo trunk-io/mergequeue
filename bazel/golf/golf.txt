@@ -6056,7 +6056,6 @@ ginned
 glamorization
 glumaceae
 germy
-glumales
 glumes
 glumiferous
 gaincome
@@ -8966,6 +8965,7 @@ gastrohepatic
 girasole
 gerontoxon
 gliomata
+glumales
 gryllos
 gimcracky
 grager
