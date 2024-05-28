@@ -5181,7 +5181,6 @@ exhilaration
 endoparasitism
 endopathic
 endopelvic
-endopericarditis
 enteromyiasis
 encyclopaedist
 endoperidium
@@ -8736,6 +8735,7 @@ equiseta
 escopet
 equisetaceous
 epicondylar
+endopericarditis
 epiphysis
 ecstatics
 esthesiogenic
