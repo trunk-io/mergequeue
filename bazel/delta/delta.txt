@@ -7915,7 +7915,6 @@ dewdropper
 desertward
 disklike
 dewed
-drank
 dewey
 deweylite
 dram
@@ -13070,6 +13069,7 @@ diaphototropism
 discardable
 diffused
 dethyroidism
+drank
 decompositions
 dispermic
 dispermous
