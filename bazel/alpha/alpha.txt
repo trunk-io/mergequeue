@@ -1793,7 +1793,6 @@ accusatory
 apectomy
 accusatorial
 accusatorially
-accusatrix
 accusatrixes
 accuse
 amidships
@@ -14949,6 +14948,7 @@ aphotic
 anticyclone
 anticyclones
 anticyclonically
+accusatrix
 abrasion
 anticynic
 abaculi

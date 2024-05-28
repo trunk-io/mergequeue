@@ -515,6 +515,7 @@ counterreply
 cadetcy
 cadets
 cadetship
+charybdis
 cadette
 cadettes
 coulis
@@ -9050,7 +9051,6 @@ charger
 charges
 charybdian
 crankman
-charybdis
 charicleia
 charier
 chariest
