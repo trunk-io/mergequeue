@@ -2588,7 +2588,6 @@ ferrandin
 furiosity
 ferricyanide
 ferrihydrocyanic
-furosemide
 fervency
 ferryhouse
 fenugreek
@@ -10343,6 +10342,7 @@ flindersia
 fingerleaf
 frogeyes
 flackery
+furosemide
 frondeurs
 frondiferous
 feaze
