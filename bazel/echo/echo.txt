@@ -6365,6 +6365,7 @@ ethmoids
 ensient
 ensemble
 ensiform
+enhemospore
 equilocation
 ensign
 electroplaque
@@ -8508,7 +8509,6 @@ epsilons
 epsom
 entrants
 enregiment
-enhemospore
 escarmouche
 epileptoid
 epsomite
