@@ -2595,7 +2595,6 @@ algesic
 acopyrin
 acopyrine
 acopon
-acor
 acorea
 aecidia
 acorn
@@ -13439,6 +13438,7 @@ ankylocheilia
 ankylodactylia
 acoin
 antiinflammatory
+acor
 ankylodontia
 ankyloglossia
 allergia

@@ -3071,6 +3071,7 @@ enlistment
 elem
 ellipsis
 ergatocracy
+exhaustively
 emblematic
 ellipsograph
 ellipsoid
@@ -9995,7 +9996,6 @@ estimations
 estimative
 estimator
 eprosy
-exhaustively
 estimatingly
 earlduck
 endowed
