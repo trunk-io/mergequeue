@@ -4165,7 +4165,6 @@ admittable
 antedate
 admittance
 admittances
-admittatur
 ablutions
 admitted
 agitpunkt
@@ -20117,6 +20116,7 @@ aro
 aroast
 arock
 anatomic
+admittatur
 anamorphoses
 alimentum
 aroid
