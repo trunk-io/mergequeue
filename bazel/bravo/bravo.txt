@@ -535,6 +535,7 @@ babies
 backups
 backus
 backveld
+bastilles
 bayok
 backvelder
 backway
@@ -3462,7 +3463,6 @@ baster
 basters
 bastiles
 bastille
-bastilles
 biggah
 bastiment
 blot
