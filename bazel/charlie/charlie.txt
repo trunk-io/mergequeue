@@ -1663,7 +1663,6 @@ calorimetry
 calorimetrical
 calorimetrically
 calorimotor
-calorist
 calorized
 calorizes
 calorizing
@@ -25809,6 +25808,7 @@ corridas
 corridored
 chedlock
 corridors
+calorist
 corrie
 corriedale
 corrige
