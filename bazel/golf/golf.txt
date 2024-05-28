@@ -2927,7 +2927,6 @@ gageable
 grasped
 gentlemanize
 gentlemanly
-gentlemanlikeness
 goosehouse
 gentlemanliness
 garred
@@ -7947,6 +7946,7 @@ graphiologist
 gymnospermic
 gratitude
 gonolobus
+gentlemanlikeness
 gemse
 goniopholis
 grandpapa
