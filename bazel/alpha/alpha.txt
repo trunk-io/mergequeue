@@ -225,7 +225,6 @@ abbreviatable
 abraded
 abbreviated
 argotic
-acantholysis
 abbreviates
 abbreviating
 abbreviation
@@ -17772,6 +17771,7 @@ apperceived
 apperceptionism
 apperceptionist
 apperceptively
+acantholysis
 appere
 alkalizate
 appersonation
