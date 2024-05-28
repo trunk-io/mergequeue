@@ -25618,7 +25618,6 @@ coronium
 coronobasilar
 coronofrontal
 coronograph
-conemaker
 crenelation
 coronographic
 canvasman
@@ -28196,6 +28195,7 @@ cranioschisis
 conforbably
 cranioscopy
 cranioscopical
+conemaker
 cranioscopist
 craniotabes
 craniotome
