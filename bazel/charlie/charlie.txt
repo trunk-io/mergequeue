@@ -2064,7 +2064,6 @@ campanular
 campanulariae
 campanularidae
 campanulatae
-campanulate
 campanulated
 chondrosarcomata
 campanulous
@@ -29311,6 +29310,7 @@ cryptoglioma
 centeses
 custody
 cryptogram
+campanulate
 cryptogrammatic
 cryptogrammatical
 concelebrated
