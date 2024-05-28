@@ -3880,7 +3880,6 @@ adight
 adin
 acquits
 apparentation
-adynamia
 anagep
 adynamias
 adynamic
@@ -25085,6 +25084,7 @@ aerodromics
 ausforms
 axers
 axes
+adynamia
 axfetch
 axhammer
 ascidian
