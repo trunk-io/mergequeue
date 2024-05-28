@@ -8060,7 +8060,6 @@ chaccon
 chachalakas
 chachapuya
 chackchiuma
-chacker
 chackle
 chackled
 chackler
@@ -29356,6 +29355,7 @@ characterizers
 cryptopyrrole
 catalogs
 cryptoproselyte
+chacker
 cryptoproselytism
 cryptorchis
 corebox
