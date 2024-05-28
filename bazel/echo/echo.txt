@@ -5709,7 +5709,6 @@ engirt
 enteroanastomosis
 engiscope
 engystomatidae
-ephorus
 eurymus
 engjateigur
 englacial
@@ -7966,6 +7965,7 @@ ersatz
 eurystomatous
 erosible
 examinationist
+ephorus
 epinasty
 epilogizing
 eulogically
