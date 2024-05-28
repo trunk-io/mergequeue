@@ -1843,7 +1843,6 @@ banc
 bancha
 banco
 bonhomie
-bipunctate
 bullose
 burgul
 bandage
@@ -9763,6 +9762,7 @@ bisymmetric
 billback
 bisymmetrical
 bigg
+bipunctate
 bisync
 bisischiatic
 bauera
