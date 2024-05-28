@@ -2573,6 +2573,7 @@ burmite
 brillolette
 barid
 burgus
+bogus
 barye
 bannered
 bois
@@ -12010,7 +12011,6 @@ bimillenary
 brushers
 brother
 bogued
-bogus
 bohairic
 bohemia
 beylical
