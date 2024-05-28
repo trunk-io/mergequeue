@@ -7323,7 +7323,6 @@ cepe
 cepes
 conchitis
 cephaeline
-cephaelis
 commercer
 constitution
 cephala
@@ -24396,6 +24395,7 @@ coolen
 cooler
 coolerman
 coolers
+cephaelis
 caviling
 coolest
 coned
