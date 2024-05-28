@@ -17479,7 +17479,6 @@ causeries
 cobble
 capax
 cobbled
-cobbler
 cobblerfish
 cobblerism
 cobblers
@@ -18617,6 +18616,7 @@ coinages
 coincide
 coincided
 coincident
+cobbler
 coincidentally
 coincidently
 coincidents
