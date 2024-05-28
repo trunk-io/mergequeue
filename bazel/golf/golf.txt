@@ -1428,6 +1428,7 @@ grafting
 gemmel
 geogony
 garments
+gegenion
 grasseye
 glyphs
 glutael
@@ -3105,7 +3106,6 @@ galliardness
 geoids
 gladioluses
 geoisotherm
-gegenion
 geolatry
 geologer
 geologian
