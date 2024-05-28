@@ -11200,7 +11200,6 @@ chkfile
 cotys
 chladnite
 chondrite
-chlamyd
 chlamydate
 chlamydeous
 canalize
@@ -24244,6 +24243,7 @@ convincingness
 convite
 communalising
 convives
+chlamyd
 convivially
 convivio
 convocating

@@ -9626,6 +9626,7 @@ dihalogen
 dihdroxycholecalciferol
 dihedrals
 dihedron
+dividuity
 discipleship
 dishumour
 dihexahedron
@@ -14464,7 +14465,6 @@ dividualism
 drugge
 dividually
 didn
-dividuity
 dipterous
 draconin
 detruncated
