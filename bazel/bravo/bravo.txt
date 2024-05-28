@@ -326,6 +326,7 @@ backdates
 backstair
 backdoor
 bistetrazole
+blooper
 backdown
 bunglings
 backdrop
@@ -11250,7 +11251,6 @@ borean
 byes
 bronchiloquy
 bicyclists
-blooper
 bessy
 bloopers
 blooping
