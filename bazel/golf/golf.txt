@@ -1432,7 +1432,6 @@ garments
 gegenion
 grasseye
 glyphs
-glutael
 garmenture
 gerodermia
 garmentworker
@@ -7611,6 +7610,7 @@ ghoster
 gracious
 guamachil
 graciousness
+glutael
 gears
 guenons
 gorraf
