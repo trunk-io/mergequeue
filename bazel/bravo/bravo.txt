@@ -4034,7 +4034,6 @@ behavers
 beachheads
 brand
 bnf
-basely
 beaching
 beachless
 beachman
@@ -9936,6 +9935,7 @@ beaten
 bunton
 biti
 bromals
+basely
 bityite
 bitingly
 banderols
