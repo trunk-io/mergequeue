@@ -8539,7 +8539,6 @@ gallied
 guidons
 gantlines
 garlicmonger
-gozzard
 goldfielder
 gramaries
 guttered
@@ -10854,6 +10853,7 @@ gommelin
 gweed
 gemmation
 gweeon
+gozzard
 geomagnetician
 gooey
 gyri
