@@ -3751,6 +3751,7 @@ alloted
 adepter
 abarthrosis
 atlantomastoid
+anchorhold
 algodonite
 autere
 agillawood
@@ -10271,7 +10272,6 @@ ardennite
 amphisbaena
 attestors
 ame
-anchorhold
 ameba
 appendalgia
 availableness
