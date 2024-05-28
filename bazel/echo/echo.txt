@@ -1681,7 +1681,6 @@ eldership
 esquimau
 eyass
 eichhornia
-eichwaldite
 eide
 eydent
 excommunications
@@ -6674,6 +6673,7 @@ epidotization
 enterotoxemia
 emusive
 enterotoxication
+eichwaldite
 essence
 enteroviral
 enterovirus
