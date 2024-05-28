@@ -1056,7 +1056,6 @@ dermatographia
 darrein
 darshan
 dorsomesal
-darsonval
 darsonvalism
 darst
 deontology
@@ -9104,6 +9103,7 @@ dullhead
 debar
 disowned
 dictyota
+darsonval
 dictyotaceous
 dictyotales
 dictyotic
