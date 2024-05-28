@@ -3930,7 +3930,6 @@ adiposeness
 adiposity
 acrook
 abdominoscope
-adiposogenital
 aslope
 adiposuria
 adipous
@@ -24438,6 +24437,7 @@ autotomize
 autotomized
 arthrocarcinoma
 autotomizing
+adiposogenital
 autotomous
 astragals
 autotoxemia
