@@ -2989,6 +2989,7 @@ forestry
 feverwort
 fers
 fiberize
+firetraps
 few
 fewest
 fading
@@ -7783,7 +7784,6 @@ fineries
 finestill
 funfairs
 feudalized
-firetraps
 fountaining
 fidicinales
 filthier
