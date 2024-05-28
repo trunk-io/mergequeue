@@ -13430,7 +13430,6 @@ anywhen
 advertize
 ascill
 anywhence
-anywhither
 anywise
 anywither
 anhalonium
@@ -25294,6 +25293,7 @@ allthorn
 abeyant
 anesthetist
 afterworking
+anywhither
 azocyanide
 azocyclic
 alfonso
