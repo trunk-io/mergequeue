@@ -27602,7 +27602,6 @@ covertness
 coverup
 cadency
 coves
-covet
 cerealin
 covetable
 coveted
@@ -28838,6 +28837,7 @@ crestfallenness
 cresting
 crestings
 crestless
+covet
 crestline
 crests
 creta
