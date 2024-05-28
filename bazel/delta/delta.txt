@@ -662,7 +662,6 @@ dukely
 deafen
 dampening
 dampens
-dampers
 dampishly
 dampne
 disseminate
@@ -12047,6 +12046,7 @@ dunderheaded
 disenslave
 discontinuity
 delirant
+dampers
 disensure
 disentail
 disentangle
