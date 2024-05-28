@@ -1757,7 +1757,6 @@ famatinite
 featheredge
 featheredged
 finlike
-forswearing
 fll
 flagrance
 forejudgment
@@ -5073,6 +5072,7 @@ flatfishes
 flatfoot
 flathead
 flatiron
+forswearing
 froom
 flatirons
 flatlands
