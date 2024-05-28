@@ -1252,7 +1252,6 @@ acanthophorous
 acanthopodous
 aqueously
 acanthopomatous
-amylodextrin
 ayens
 acanthopteran
 acanthopteri
@@ -22844,6 +22843,7 @@ atopy
 academism
 atopite
 arrow
+amylodextrin
 atorai
 atossa
 atour
