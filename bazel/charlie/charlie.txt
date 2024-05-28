@@ -7854,7 +7854,6 @@ cerussite
 cervalet
 centaurid
 cervantic
-choosing
 cervantite
 cruor
 cervelases
@@ -8723,6 +8722,7 @@ changeless
 cynosural
 curtness
 complementaries
+choosing
 cytozymase
 cohesionless
 changelessness

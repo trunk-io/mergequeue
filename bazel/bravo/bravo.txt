@@ -2844,7 +2844,6 @@ barouche
 beguin
 barouchette
 barouni
-baroxyton
 barque
 belite
 beebread
@@ -17907,6 +17906,7 @@ bushelbasket
 bepaints
 bothroi
 biassed
+baroxyton
 busheled
 beauship
 bivium
