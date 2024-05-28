@@ -9634,7 +9634,6 @@ dihalogen
 dihdroxycholecalciferol
 dihedrals
 dihedron
-discipleship
 dishumour
 dihexahedron
 dowing
@@ -17443,6 +17442,7 @@ droseraceous
 droplets
 droseras
 daglocks
+discipleship
 deliquate
 disequilibrate
 dipicrylamin
