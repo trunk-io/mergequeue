@@ -1974,7 +1974,6 @@ fern
 feedstock
 feedstuff
 feeler
-forefeel
 feelers
 fibroserous
 flybook
@@ -3386,6 +3385,7 @@ flyweights
 fiendhead
 flyblew
 fulminous
+forefeel
 filtre
 fops
 fallibility

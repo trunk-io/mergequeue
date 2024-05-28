@@ -5605,7 +5605,6 @@ aftercoming
 aftercooler
 aftercost
 aftercrop
-aftercure
 afterdays
 afterdate
 antifoam
@@ -18295,6 +18294,7 @@ asterixis
 asdics
 aquas
 aquascope
+aftercure
 alltud
 aquate
 aquatic
