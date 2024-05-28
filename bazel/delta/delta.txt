@@ -988,7 +988,6 @@ darings
 darius
 dark
 darked
-darkeys
 dicyanide
 darkens
 daffling
@@ -1159,6 +1158,7 @@ downtowns
 dastardize
 dastardly
 deked
+darkeys
 dastur
 doublehandedness
 deertongue
