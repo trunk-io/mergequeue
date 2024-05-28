@@ -4971,7 +4971,6 @@ glans
 glaciation
 gunmen
 glandule
-glacieret
 germiparous
 glacierist
 glaciers
@@ -10713,6 +10712,7 @@ gazzetta
 gladiolus
 gairfish
 guytrash
+glacieret
 gustables
 gustard
 guergal
