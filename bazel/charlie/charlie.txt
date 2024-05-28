@@ -20223,6 +20223,7 @@ chutes
 committible
 committor
 commix
+copolymerizations
 commixed
 commixes
 commixing
@@ -24704,7 +24705,6 @@ cerebrating
 copolymer
 copolymerism
 copolymerization
-copolymerizations
 copolymerize
 cruciated
 copolymerized
