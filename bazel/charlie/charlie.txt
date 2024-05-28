@@ -4668,7 +4668,6 @@ carousers
 carp
 carpaine
 carpale
-carpalia
 carpals
 chela
 carpathian
@@ -6374,6 +6373,7 @@ colius
 cautioner
 cautioners
 cautiones
+carpalia
 canard
 cautious
 cautiously
