@@ -5750,7 +5750,6 @@ catechin
 cludder
 catechisable
 catechisation
-catechised
 chumming
 colasciones
 catechising
@@ -23163,6 +23162,7 @@ constantinopolitan
 catechumenate
 constantly
 constantness
+catechised
 constat
 constatation
 constate
