@@ -8616,7 +8616,6 @@ foolhead
 fossoria
 forth
 forthby
-forthbring
 flatfooted
 farine
 funiculate
@@ -11616,6 +11615,7 @@ footglove
 febrifugal
 fieri
 foregame
+forthbring
 fetch
 fioretti
 fusty
