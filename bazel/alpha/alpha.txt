@@ -15333,7 +15333,6 @@ antiflash
 antiflattering
 antiflatulent
 antiflux
-antifoaming
 antilabor
 antiforeignism
 antiformin
@@ -22292,6 +22291,7 @@ asperger
 aplanat
 astrocompass
 astrodiagnosis
+antifoaming
 astrodynamic
 androphyll
 achromatolysis
