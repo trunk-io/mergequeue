@@ -3079,6 +3079,7 @@ barwares
 barwood
 boneblack
 basad
+bishopful
 backhouse
 barksome
 basale
@@ -9733,7 +9734,6 @@ backbeats
 brince
 bishopdom
 bishoped
-bishopful
 bishophood
 bowwort
 barbarianism
