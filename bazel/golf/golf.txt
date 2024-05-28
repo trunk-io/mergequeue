@@ -1974,6 +1974,7 @@ germinated
 geochemical
 goodyship
 germaniums
+gliss
 groundable
 girdler
 gaucie
@@ -6011,7 +6012,6 @@ gad
 garo
 grenatite
 glucosazone
-gliss
 goldfinch
 gawney
 gipsyweed
