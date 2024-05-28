@@ -3197,7 +3197,6 @@ basic
 bombardier
 basically
 basicerite
-basichromatinic
 basicity
 bumph
 benzins
@@ -9841,6 +9840,7 @@ brichette
 byssin
 bedridden
 breakages
+basichromatinic
 byssine
 byssinosis
 backslapped
