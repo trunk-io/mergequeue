@@ -12176,7 +12176,6 @@ chowry
 chowries
 chows
 causer
-chowses
 chowtime
 chowtimes
 chalks
@@ -14849,6 +14848,7 @@ citeable
 cited
 citee
 citer
+chowses
 citers
 cites
 citess
