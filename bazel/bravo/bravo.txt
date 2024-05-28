@@ -413,6 +413,7 @@ broggle
 bleaches
 backpack
 bulimiform
+birthroot
 bugles
 backpacked
 bronchopathy
@@ -9627,7 +9628,6 @@ bauds
 birthright
 baffeta
 birthrights
-birthroot
 births
 bristletail
 birthstones
