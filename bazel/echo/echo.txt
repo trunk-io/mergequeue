@@ -8246,7 +8246,6 @@ elide
 emong
 epispadia
 enchylematous
-exigeant
 eulogious
 epiphany
 enkraal
@@ -9451,6 +9450,7 @@ entrance
 enkindle
 escalator
 escalier
+exigeant
 eupepsia
 echeveria
 escalin
