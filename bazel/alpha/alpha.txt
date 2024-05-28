@@ -17517,7 +17517,6 @@ ampuls
 apostrophes
 apostrophi
 apostrophic
-avoirdupois
 apostrophied
 apostrophise
 aways
@@ -17888,6 +17887,7 @@ ambosexous
 archdespot
 applications
 applicative
+avoirdupois
 applicatively
 applicatory
 applicatorily
