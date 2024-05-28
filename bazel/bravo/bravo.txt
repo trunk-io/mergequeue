@@ -1211,6 +1211,7 @@ bakeries
 bakerless
 bakerly
 bakerlike
+battleplane
 bakers
 bakersfield
 bakes
@@ -7933,7 +7934,6 @@ beshrouds
 biaxillary
 bemud
 bibacious
-battleplane
 bibaciousness
 balche
 bicephalous

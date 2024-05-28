@@ -2138,6 +2138,7 @@ alphabets
 argon
 applemonger
 acheron
+ashing
 acheronian
 agrionia
 acherontic
@@ -21214,7 +21215,6 @@ ashimmer
 apostacy
 aggregatory
 ashiness
-ashing
 ashipboard
 ashir
 assentor
