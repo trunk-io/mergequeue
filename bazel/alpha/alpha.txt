@@ -2186,7 +2186,6 @@ ailurophile
 aquarii
 achillodynia
 aaronic
-acroteral
 androphonomania
 achilous
 achylous
@@ -4636,6 +4635,7 @@ ambushed
 attomy
 anthropophysiography
 adverse
+acroteral
 adversely
 adversing
 adverseness
