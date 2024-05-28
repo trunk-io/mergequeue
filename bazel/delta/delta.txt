@@ -1737,7 +1737,6 @@ dundees
 deathliness
 deathrates
 deaths
-deathsman
 depaysee
 deathtime
 deathtrap
@@ -6676,6 +6675,7 @@ drawarm
 dovecots
 dipneedle
 deregulates
+deathsman
 deserving
 dioptres
 desesperance
