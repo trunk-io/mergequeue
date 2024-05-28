@@ -2206,7 +2206,6 @@ flaccidities
 flaggier
 felucca
 felwort
-femaleness
 females
 friseur
 femality
@@ -3809,6 +3808,7 @@ fathercraft
 faze
 forenoted
 foliole
+femaleness
 fatlike
 freckleproof
 flauto
