@@ -7300,7 +7300,6 @@ brazilians
 bur
 bestiarian
 basename
-bestiarist
 bestirred
 bestirs
 bestock
@@ -18354,6 +18353,7 @@ buxaceae
 buxaceous
 buxbaumia
 buxbaumiaceae
+bestiarist
 brushbush
 beery
 buxine
