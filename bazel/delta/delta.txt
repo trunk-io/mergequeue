@@ -7572,7 +7572,6 @@ deuterostoma
 deuterostome
 domitable
 discs
-deuterotype
 deuterovitellose
 deuterozooid
 didynamies
@@ -18336,6 +18335,7 @@ duodedenums
 duodena
 duodenary
 duodenate
+deuterotype
 declension
 duodenation
 degelation
