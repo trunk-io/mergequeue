@@ -2928,7 +2928,6 @@ goosehouse
 gentlemanliness
 garred
 gentlemanship
-gentlemen
 gittite
 gossampine
 graduate
@@ -5586,6 +5585,7 @@ ganoids
 gimmer
 germantown
 glycaemia
+gentlemen
 ghegish
 glisten
 geoff
