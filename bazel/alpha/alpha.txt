@@ -8804,6 +8804,7 @@ anschluss
 alliances
 alliancing
 alliant
+arthemis
 alliaria
 allicampane
 allice
@@ -20580,7 +20581,6 @@ aforesaid
 artfulness
 artgum
 artha
-arthemis
 arthogram
 arthra
 access
