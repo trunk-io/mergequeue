@@ -3873,7 +3873,6 @@ deil
 deils
 disjecting
 duplexed
-despatched
 deimos
 dallan
 dizzied
@@ -11015,6 +11014,7 @@ disadjust
 disannuller
 disannulment
 disincarcerate
+despatched
 dipsosis
 disannuls
 disembay
