@@ -3795,7 +3795,6 @@ dehkan
 dehonestation
 disoccupied
 dehorn
-downfeed
 desmose
 dehorner
 diplography
@@ -9455,6 +9454,7 @@ destructively
 digamma
 digammas
 digammate
+downfeed
 digammated
 dojos
 digastric
