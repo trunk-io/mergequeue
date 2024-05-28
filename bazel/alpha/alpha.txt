@@ -5551,7 +5551,6 @@ africanoid
 affrettando
 afridi
 afright
-akamnik
 afrikaans
 astartian
 amalgams
@@ -16980,6 +16979,7 @@ aporose
 aphthongal
 aberrations
 aphthongia
+akamnik
 apiaca
 apiaceae
 apiaceous
