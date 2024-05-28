@@ -8776,7 +8776,6 @@ aliya
 alleviating
 alleviatingly
 alleviation
-alleviative
 alleviator
 alleviatory
 alleviators
@@ -25035,6 +25034,7 @@ awmous
 awn
 awned
 awner
+alleviative
 awning
 awninged
 awnings
