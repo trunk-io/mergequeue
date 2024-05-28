@@ -766,7 +766,6 @@ eulachons
 exuvium
 ecotype
 ecotypes
-ecotipically
 ecotypically
 ecotonal
 enclaved
@@ -5661,6 +5660,7 @@ engarrison
 engastrimyth
 eozoon
 excitonutrient
+ecotipically
 engastrimythic
 evening
 episcopising
