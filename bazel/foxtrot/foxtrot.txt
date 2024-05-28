@@ -6970,6 +6970,7 @@ fortuity
 fordless
 fomites
 forbearance
+fusels
 fond
 fondants
 fondateur
@@ -9211,7 +9212,6 @@ fishpot
 fragileness
 fragility
 frizer
-fusels
 familiarizer
 foxery
 faceplate
