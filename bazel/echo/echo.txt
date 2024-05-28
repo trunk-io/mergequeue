@@ -2572,7 +2572,6 @@ ecad
 electrons
 exploitationist
 emotiveness
-electrooculogram
 electrooptic
 encyclopaedian
 exposal
@@ -10909,6 +10908,7 @@ excavation
 euphausiid
 ensigncies
 ethnic
+electrooculogram
 eligibilities
 endostomata
 enchase

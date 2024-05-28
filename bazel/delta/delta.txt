@@ -5502,7 +5502,6 @@ deodar
 demodulate
 dependencies
 deodorisation
-deodorise
 deodorised
 deodoriser
 deodorization
@@ -14945,6 +14944,7 @@ doeglic
 doeling
 doer
 drybeard
+deodorise
 doesn
 doesnt
 desiccatory
