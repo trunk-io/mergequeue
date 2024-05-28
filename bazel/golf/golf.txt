@@ -4976,7 +4976,6 @@ germiparous
 glacierist
 glaciers
 glacify
-glacification
 glaciology
 globalist
 griffithite
@@ -5747,6 +5746,7 @@ gloomily
 glooming
 goatbrush
 gloomings
+glacification
 gunyang
 glanis
 geologers
