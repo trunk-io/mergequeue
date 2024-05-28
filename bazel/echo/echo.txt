@@ -1957,7 +1957,6 @@ eject
 enabled
 eurylaimi
 essenical
-ejected
 eupatorine
 exorciser
 exudative
@@ -4289,6 +4288,7 @@ emulsifier
 emulsifiers
 emulsin
 earworms
+ejected
 emulsion
 esotrope
 eremital
