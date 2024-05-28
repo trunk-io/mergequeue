@@ -4487,7 +4487,6 @@ carmelite
 carmelitess
 carmeloite
 carmen
-carminate
 carmine
 comales
 communicants
@@ -27594,6 +27593,7 @@ covers
 caller
 coverside
 coversine
+carminate
 clairce
 coverslip
 covertly
