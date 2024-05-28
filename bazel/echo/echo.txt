@@ -4761,7 +4761,6 @@ enterotomy
 excusatory
 encloud
 encode
-existible
 encoded
 eremopteris
 encoding
@@ -7986,6 +7985,7 @@ epimanikia
 epimanikion
 epimer
 epimeral
+existible
 epimeres
 eremurus
 epimeric

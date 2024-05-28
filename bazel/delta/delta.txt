@@ -9042,7 +9042,6 @@ dehort
 dictaen
 dolichosoma
 dictamina
-dictaphone
 dictaphones
 dictate
 dictating
@@ -16467,6 +16466,7 @@ drabbets
 dextrotartaric
 drabby
 drabbing
+dictaphone
 decidement
 daredevilry
 diaphorase
