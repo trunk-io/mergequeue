@@ -7062,7 +7062,6 @@ fitfulness
 firehalls
 floodwater
 fedayeen
-foolish
 fortuneless
 fleabane
 fluctigerous
@@ -11742,6 +11741,7 @@ fuzzier
 fungiferous
 fenlander
 fuzziest
+foolish
 ferrotype
 forstraught
 foraminal
