@@ -2502,7 +2502,6 @@ chemist
 chatterbox
 candler
 candlerent
-candlers
 candles
 candleshine
 candleshrift
@@ -2836,6 +2835,7 @@ canroy
 cans
 cubi
 cansful
+candlers
 coddled
 canso
 cansos
