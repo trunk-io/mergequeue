@@ -2365,6 +2365,7 @@ bathyscape
 barbicel
 barbicels
 brines
+blanket
 binful
 barbierite
 barbion
@@ -10442,7 +10443,6 @@ blank
 blankbook
 bailwood
 burgrave
-blanket
 blanketed
 blanketeer
 bravado
