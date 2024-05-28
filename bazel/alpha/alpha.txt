@@ -1794,6 +1794,7 @@ accusatrix
 accusatrixes
 accuse
 amidships
+awatch
 accused
 accuser
 accusers
@@ -24966,7 +24967,6 @@ awarrant
 awaruite
 antiloemic
 awat
-awatch
 awater
 awave
 aglycosuric
