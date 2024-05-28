@@ -6271,7 +6271,6 @@ enrolle
 enrolled
 enrollee
 embryologies
-efformative
 exhalant
 enrollers
 eyewaters
@@ -13168,6 +13167,7 @@ entosterna
 explainer
 explaining
 embalmed
+efformative
 eductor
 episcleral
 expurgator
