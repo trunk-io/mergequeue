@@ -14179,7 +14179,6 @@ cyprinodontes
 cyprinodontoid
 cyprinoid
 cyprinoidean
-cyprinus
 cypriot
 counterconquest
 cypriots
@@ -16937,6 +16936,7 @@ clump
 clumped
 clammier
 caline
+cyprinus
 copr
 cycadean
 cloistress
