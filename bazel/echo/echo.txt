@@ -879,6 +879,7 @@ embound
 emraud
 eddic
 entourages
+epitheme
 epistolizer
 epepophysis
 electrocution
@@ -8375,7 +8376,6 @@ enciphers
 exercised
 epithem
 emulating
-epitheme
 epithermally
 emmenia
 eucleid
