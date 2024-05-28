@@ -4430,6 +4430,7 @@ flimmer
 focaloid
 fissionable
 fissioned
+forswornness
 furzes
 fissions
 fissipalmation
@@ -8327,7 +8328,6 @@ forklike
 frangulaceae
 forkman
 ficus
-forswornness
 forks
 feneration
 forksful
