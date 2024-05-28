@@ -9131,7 +9131,6 @@ fritz
 featherlike
 fplot
 fleeceflower
-fps
 fr
 flintlike
 faulkner
@@ -9874,6 +9873,7 @@ frett
 frettage
 frettation
 fiducial
+fps
 frette
 fretten
 firedamps
