@@ -1426,6 +1426,7 @@ balebos
 baled
 bonaught
 baleen
+ballot
 baleens
 balefire
 balefires
@@ -1638,7 +1639,6 @@ ballflower
 balloonish
 babby
 bodicemaker
-ballot
 ballota
 ballotade
 blier
