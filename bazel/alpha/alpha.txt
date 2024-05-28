@@ -6008,7 +6008,6 @@ agglomerative
 aramis
 apprehensibly
 apical
-anthropodus
 anartismos
 agglutinate
 agglutinated
@@ -23311,6 +23310,7 @@ audibleness
 audibles
 audience
 audiencer
+anthropodus
 ametabolous
 asteriae
 arba
