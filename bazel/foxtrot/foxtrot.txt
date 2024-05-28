@@ -5275,7 +5275,6 @@ flouncier
 firlot
 fylker
 fleak
-fg
 feeblehearted
 fleamy
 flemish
@@ -8676,6 +8675,7 @@ fortifys
 finalist
 fortyfives
 farsi
+fg
 framboesia
 floozies
 fortis
