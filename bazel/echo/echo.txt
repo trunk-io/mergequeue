@@ -1092,6 +1092,7 @@ endoskeleton
 enchants
 eqpt
 evaniidae
+eventuated
 edgar
 evitable
 edge
@@ -11430,7 +11431,6 @@ events
 eventuality
 eventualize
 eventually
-eventuated
 eventuating
 eveque
 epergnes
