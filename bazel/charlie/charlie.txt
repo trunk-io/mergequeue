@@ -18643,7 +18643,6 @@ carapus
 cartboot
 coing
 ceroma
-coinhabitor
 coinhere
 coinhered
 coinherence
@@ -26044,6 +26043,7 @@ corvettes
 corvetto
 cadges
 corvidae
+coinhabitor
 corvillosum
 corvinae
 creolize
