@@ -3086,7 +3086,6 @@ craterid
 cape
 chequerboard
 capeadores
-caped
 capel
 capelan
 capelans
@@ -27048,6 +27047,7 @@ clericalism
 counterplay
 counterplayer
 counterplan
+caped
 counterplea
 counterplead
 corrido

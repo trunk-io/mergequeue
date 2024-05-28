@@ -342,7 +342,6 @@ gristmiller
 graveship
 gelatins
 galactolipin
-galactoma
 galactometer
 grilses
 gizzards
@@ -8250,6 +8249,7 @@ geomagnetics
 greeneries
 gulosities
 glamouring
+galactoma
 grailing
 grandparental
 grassfire
