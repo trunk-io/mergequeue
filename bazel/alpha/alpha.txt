@@ -3729,7 +3729,6 @@ accumulative
 adenopodous
 adenosarcoma
 adenosarcomata
-adenosclerosis
 adiaphoristic
 acuating
 arrant
@@ -15866,6 +15865,7 @@ antiperspirant
 antiperspirants
 antiperthite
 automobiling
+adenosclerosis
 acronycal
 atremble
 agura

@@ -5627,7 +5627,6 @@ dispergation
 depauperate
 doornails
 depauperation
-depauperize
 depauperized
 depeach
 depeinct
@@ -13349,6 +13348,7 @@ disputeless
 disfeature
 disputer
 definitising
+depauperize
 discerns
 disputers
 discord
