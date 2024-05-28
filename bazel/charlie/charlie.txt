@@ -6659,7 +6659,6 @@ ceilidhe
 connexivum
 ceiling
 ceilings
-ceilingward
 ceilingwards
 collenchyma
 couche
@@ -24760,6 +24759,7 @@ chemotroph
 coppet
 coppy
 cruelest
+ceilingward
 coppice
 coppiced
 coppices
