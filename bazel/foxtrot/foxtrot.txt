@@ -2350,7 +2350,6 @@ fenzelia
 flagboat
 feod
 firestopping
-feodum
 filander
 farewelled
 feoff
@@ -11259,6 +11258,7 @@ funkier
 featherdom
 fylfot
 fatherkin
+feodum
 forepayment
 funkiness
 flee
