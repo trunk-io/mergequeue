@@ -7298,7 +7298,6 @@ bestiarian
 basename
 bestiarist
 bestirred
-bestirs
 bestock
 bestore
 bestow
@@ -12664,6 +12663,7 @@ bistriazole
 battycake
 bonze
 bonzer
+bestirs
 bosk
 bp
 belluine
