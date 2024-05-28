@@ -2245,7 +2245,6 @@ decd
 deceased
 dewormed
 dual
-donnish
 deceasing
 deceit
 deceitful
@@ -6417,6 +6416,7 @@ dustmen
 derner
 dernier
 dernly
+donnish
 dero
 devolvement
 dorsiventral
