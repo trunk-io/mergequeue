@@ -12277,6 +12277,7 @@ ancientest
 ancienty
 anciently
 ancientness
+automatous
 ancile
 ancilla
 anticks
@@ -24198,7 +24199,6 @@ automatizing
 automatonlike
 automatons
 automatonta
-automatous
 automechanical
 automechanism
 antinodes
