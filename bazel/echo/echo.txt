@@ -14,7 +14,6 @@ evaporometer
 emigate
 evansite
 ead
-eadi
 excoriator
 earthmove
 eadios
@@ -11306,6 +11305,7 @@ exserts
 earshots
 evangelistship
 evangelization
+eadi
 ectoloph
 entelluses
 evangelizer
