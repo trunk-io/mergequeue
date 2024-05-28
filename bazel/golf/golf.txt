@@ -9944,6 +9944,7 @@ glegness
 glow
 glyptic
 gluish
+gunkholed
 gliriform
 guars
 gipsyfy
@@ -10532,7 +10533,6 @@ gunja
 gunjah
 gona
 gunk
-gunkholed
 geronomite
 grandiosely
 grateman
