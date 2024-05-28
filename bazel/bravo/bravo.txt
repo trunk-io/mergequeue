@@ -5474,7 +5474,6 @@ bandy
 brinston
 bloodripeness
 buzzsaw
-borderings
 beachmaster
 beguines
 begulf
@@ -7078,6 +7077,7 @@ beslobber
 besluit
 besmear
 bespread
+borderings
 blvd
 besmile
 besmiled
