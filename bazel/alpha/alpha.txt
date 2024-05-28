@@ -3257,7 +3257,6 @@ allochromatic
 agena
 alstonine
 assident
-actuary
 aphis
 actuarian
 actuaryship
@@ -12416,6 +12415,7 @@ antlions
 androcentric
 acervuli
 androcephalous
+actuary
 androcephalum
 audits
 androcyte
