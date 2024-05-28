@@ -1454,7 +1454,6 @@ calyxes
 carbonometry
 coecal
 calk
-calked
 calker
 continents
 careening
@@ -6050,6 +6049,7 @@ catnapping
 caddle
 catnaps
 catnep
+calked
 catnip
 catnips
 catoblepas
