@@ -3899,6 +3899,7 @@ gibstaff
 galeche
 gavelage
 gibuses
+gaulter
 giddap
 guideless
 goff
@@ -10421,7 +10422,6 @@ geepound
 gulph
 getable
 gulping
-gaulter
 gynostemium
 gangrene
 gum
