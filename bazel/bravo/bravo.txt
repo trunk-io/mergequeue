@@ -895,7 +895,6 @@ bagmaking
 bagne
 bagnes
 bibliotics
-bastnaesite
 bagnet
 bagnio
 blowze
@@ -11604,6 +11603,7 @@ boa
 boaedon
 boagane
 buteo
+bastnaesite
 boanbura
 boanerges
 boanergism
