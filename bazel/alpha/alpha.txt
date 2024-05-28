@@ -5341,7 +5341,6 @@ affine
 anteporch
 affined
 affinely
-analects
 affines
 affinitative
 alemanni
@@ -20512,6 +20511,7 @@ associating
 amplifications
 arteriac
 allomorphic
+analects
 apotropaic
 arteriae
 arteriagra
