@@ -5775,7 +5775,6 @@ agal
 agalactic
 agalawood
 animalcule
-appoggiaturas
 agalaxy
 agalaxia
 anisomelus
@@ -7974,6 +7973,7 @@ alen
 alkaloidal
 alencon
 alencons
+appoggiaturas
 arrayers
 alenge
 alength
