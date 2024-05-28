@@ -1198,7 +1198,6 @@ datatype
 datatypes
 datcha
 demiassignation
-dragooner
 draftproof
 dialyzers
 dateableness
@@ -8704,6 +8703,7 @@ defeminised
 diaspore
 delibate
 diaspores
+dragooner
 dyassic
 deoxyribonuclease
 diastalses
