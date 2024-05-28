@@ -4577,7 +4577,6 @@ carnivore
 carnivorism
 carnivority
 cordialness
-carnivorous
 carnivorously
 carnivorousness
 cyanea
@@ -9681,6 +9680,7 @@ cheering
 cheeringly
 cheerio
 cheerlead
+carnivorous
 cheerleader
 cheerleaders
 coppered
