@@ -2247,6 +2247,7 @@ farmland
 femororotulian
 fen
 fenagled
+focalizing
 fatil
 fain
 fenagles
@@ -8043,7 +8044,6 @@ flecnode
 fibula
 forests
 fcy
-focalizing
 forseeable
 forme
 fireflies
