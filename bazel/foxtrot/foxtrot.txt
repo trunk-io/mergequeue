@@ -8264,6 +8264,7 @@ flasher
 faitery
 forgoes
 forgoing
+fib
 forgotten
 fusspots
 forgrow
@@ -9062,7 +9063,6 @@ fountained
 fowlpox
 fundiform
 footpick
-fib
 fallaciousness
 fowls
 fringillid
