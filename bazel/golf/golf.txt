@@ -5342,6 +5342,7 @@ graciles
 grindery
 gaited
 golgi
+gable
 guardsman
 genuflectory
 gargets
@@ -9699,7 +9700,6 @@ glossaries
 guying
 grummels
 grummet
-gable
 genuflector
 grumness
 gambir
