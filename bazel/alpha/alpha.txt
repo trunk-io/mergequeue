@@ -642,6 +642,7 @@ awide
 abolitionized
 abolitionizing
 abollae
+accent
 aboma
 abomasum
 abomasus
@@ -1375,7 +1376,6 @@ accelerometer
 accelerometers
 anticatholic
 accensor
-accent
 accented
 accenting
 anticnemion
