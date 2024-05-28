@@ -512,6 +512,7 @@ besiclometer
 backstops
 backstrap
 backstrapped
+bipedal
 backstreet
 backstretch
 butomaceous
@@ -9334,7 +9335,6 @@ birchism
 bullishly
 buffin
 biped
-bipedal
 bogo
 bourbonesque
 bipedality
