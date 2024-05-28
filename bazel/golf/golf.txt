@@ -1973,7 +1973,6 @@ gauche
 gauchely
 gaud
 gaucho
-germinated
 geochemical
 goodyship
 germaniums
@@ -8121,6 +8120,7 @@ graperoot
 grapes
 grapeskin
 grapestalk
+germinated
 grapevines
 graphanalysis
 gravid
