@@ -11790,6 +11790,7 @@ chondrilla
 chondrinous
 chondrioma
 chondriome
+cibol
 chondriomere
 chondriosome
 chondriosomes
@@ -13194,7 +13195,6 @@ cyberneticist
 cyberneticists
 cybernetics
 cybernion
-cibol
 conjugacy
 cibola
 cibolero
