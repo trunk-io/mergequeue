@@ -1655,7 +1655,6 @@ calorifier
 calorigenic
 calorimeters
 calorimetry
-calorimetric
 calorimetrical
 calorimetrically
 calorimotor
@@ -6916,6 +6915,7 @@ counselled
 chymosins
 coaugment
 capricornus
+calorimetric
 chapeaux
 cementatory
 chapaties
