@@ -1382,7 +1382,6 @@ baldberry
 baldcrown
 balded
 balder
-balderdash
 botherheaded
 biskop
 bepewed
@@ -13467,6 +13466,7 @@ billows
 bottlenest
 bottlenose
 bottlers
+balderdash
 brachytic
 bottlestone
 bottling
