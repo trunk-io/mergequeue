@@ -21083,7 +21083,6 @@ circumstantiates
 compute
 computer
 computerese
-computerise
 computerization
 computerize
 computerizes
@@ -29197,6 +29196,7 @@ cryostat
 cryostats
 cryosurgeon
 cryosurgery
+computerise
 cryptogamia
 cryosurgical
 cryotherapy
