@@ -535,6 +535,7 @@ gurjara
 guardfish
 gallantly
 goffer
+ganoids
 gallbladders
 gaudish
 galled
@@ -5580,7 +5581,6 @@ glissandi
 gunda
 glissando
 grande
-ganoids
 gimmer
 germantown
 glycaemia
