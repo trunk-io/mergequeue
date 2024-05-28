@@ -2474,7 +2474,6 @@ endexines
 electromyographically
 electroimpulse
 ezra
-electroing
 eductions
 electrokinetic
 enkolpion
@@ -10521,6 +10520,7 @@ emmew
 etymon
 equalities
 etymonic
+electroing
 etiolated
 etiolating
 etiolize
