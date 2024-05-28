@@ -16578,7 +16578,6 @@ canners
 clogwyn
 clogwood
 calvinian
-cloy
 cloyedness
 cloyer
 cloyingly
@@ -23406,6 +23405,7 @@ contained
 colligance
 containerboard
 containerization
+cloy
 containerize
 containerizing
 chemasthenia
