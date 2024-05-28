@@ -1687,7 +1687,6 @@ accredits
 aeraria
 accresce
 accrescence
-accrescendi
 alliably
 accrescendo
 accretal
@@ -8994,6 +8993,7 @@ audited
 araceae
 albespine
 allopatry
+accrescendi
 auxiliatory
 allophanamid
 allophanate
