@@ -13454,7 +13454,6 @@ disrest
 disrestore
 disring
 disillusionment
-dissentient
 disrobement
 disrober
 danseur
@@ -15953,6 +15952,7 @@ disdeceive
 detestably
 dote
 doted
+dissentient
 doters
 dotes
 decadist
