@@ -2415,6 +2415,7 @@ foredating
 fromfile
 frescoers
 freelage
+froom
 fantods
 feridjee
 falls
@@ -5073,7 +5074,6 @@ flatfishes
 flatfoot
 flathead
 flatiron
-froom
 flatirons
 flatlands
 flatlets
