@@ -1270,7 +1270,6 @@ acanthuridae
 acanthuses
 asterochiton
 acanthuthi
-acapnia
 acapnias
 anarchal
 acapu
@@ -5227,6 +5226,7 @@ aloelike
 aetiologist
 administerial
 artsy
+acapnia
 aetiologue
 aetiotropically
 aetites
