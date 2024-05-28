@@ -1897,7 +1897,6 @@ camelopardalis
 camelopardid
 cinnamomum
 camelopardidae
-camelopards
 camelopardus
 camelot
 counterflashing
@@ -10203,6 +10202,7 @@ celioncus
 chevesaile
 chevesne
 chevetaine
+camelopards
 chevies
 chevying
 changed
