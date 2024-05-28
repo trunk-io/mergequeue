@@ -8601,7 +8601,6 @@ championing
 championize
 caesium
 championless
-champions
 championships
 champleve
 champs
@@ -30115,6 +30114,7 @@ crubeen
 cruce
 crucethouse
 crucial
+champions
 cruciality
 crucially
 courge
