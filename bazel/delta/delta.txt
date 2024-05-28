@@ -2644,7 +2644,6 @@ decolonizes
 desalter
 decoloring
 darkening
-decolorisation
 decolorising
 dispose
 demises
@@ -10635,6 +10634,7 @@ diplopia
 drey
 diploplacula
 diploplacular
+decolorisation
 dotingly
 degeneration
 diploplaculate
