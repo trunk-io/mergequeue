@@ -1800,7 +1800,6 @@ camansi
 camara
 candors
 camarada
-camarade
 camaraderie
 camarasaurus
 camarera
@@ -5227,6 +5226,7 @@ casquette
 cassabas
 cassabully
 crwth
+camarade
 cassady
 champacs
 cassan
