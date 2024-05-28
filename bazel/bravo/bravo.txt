@@ -3380,7 +3380,6 @@ bungled
 bertha
 basoid
 baraithas
-basoko
 beltine
 basommatophora
 bason
@@ -8972,6 +8971,7 @@ binominal
 bedchamber
 bunchbacked
 binormal
+basoko
 binotonous
 brachystaphylic
 beforested
