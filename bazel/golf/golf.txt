@@ -508,6 +508,7 @@ gye
 guacho
 goonie
 geographic
+gowiddie
 gildhalls
 galik
 gruffing
@@ -8074,7 +8075,6 @@ gnatsnap
 granulet
 galuth
 granulization
-gowiddie
 gardened
 ghastful
 gloomless
