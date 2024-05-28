@@ -3621,7 +3621,6 @@ bathysphere
 bathythermogram
 bathythermograph
 bathkol
-barbar
 bathman
 bathmat
 bathmats
@@ -17436,6 +17435,7 @@ bunions
 balldress
 bunyoro
 bobbysoxer
+barbar
 beshield
 bunk
 begrudged
