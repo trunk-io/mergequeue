@@ -4945,6 +4945,7 @@ bomarea
 beechwood
 bright
 buphthalmic
+betsy
 bleak
 bobac
 burrowstown
@@ -12938,7 +12939,6 @@ bootlessness
 bootlick
 bluefish
 bootlicking
-betsy
 bara
 bouquiniste
 bladderweed
