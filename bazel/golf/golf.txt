@@ -1343,6 +1343,7 @@ gallberries
 gardenia
 gundeck
 giftlike
+gambiers
 gismo
 gardenless
 gardenlike
@@ -3669,7 +3670,6 @@ greenbul
 gingersnap
 glazement
 ghastily
-gambiers
 gaslit
 gazingly
 granulitization
