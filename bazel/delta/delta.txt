@@ -1167,7 +1167,6 @@ dogtrot
 dreggish
 datableness
 datably
-datafile
 dillydallying
 dataflow
 datagram
@@ -8283,6 +8282,7 @@ diageotropic
 diaglyphic
 desmopelmous
 davainea
+datafile
 disomaty
 ductus
 diaglyptic
