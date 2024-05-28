@@ -4258,7 +4258,6 @@ goetic
 gymnoblastea
 goliaths
 gothite
-gymnodiniaceous
 gymnodiniidae
 gallowses
 gasproof
@@ -8593,6 +8592,7 @@ groff
 gree
 glean
 gismondite
+gymnodiniaceous
 greed
 germanious
 greedier
