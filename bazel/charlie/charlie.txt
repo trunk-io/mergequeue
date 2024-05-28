@@ -11468,7 +11468,6 @@ ciboule
 chlorsalol
 chlortetracycline
 chm
-chmn
 chnuphis
 cho
 conventionalism
@@ -25873,6 +25872,7 @@ corroding
 corrosibility
 corrosibleness
 corrosional
+chmn
 corrosived
 corrosively
 corrosiveness
