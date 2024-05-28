@@ -7422,6 +7422,7 @@ blacklegs
 betelgeuse
 balant
 bannition
+botargos
 bircher
 betell
 bambuba
@@ -13323,7 +13324,6 @@ balsamed
 bemat
 bradburya
 botanophilist
-botargos
 botaurus
 bunkered
 beeswings
