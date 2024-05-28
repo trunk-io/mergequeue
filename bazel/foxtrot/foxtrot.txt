@@ -6514,6 +6514,7 @@ fluctuate
 fraist
 flytail
 flutina
+foreorder
 fluting
 foreworn
 freakishness
@@ -7907,7 +7908,6 @@ functionating
 fletching
 frontenis
 foreseen
-foreorder
 foreseer
 foresees
 foreseize
