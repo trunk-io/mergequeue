@@ -3387,7 +3387,6 @@ adamantly
 adamantness
 advential
 adamantoblast
-adamantoblastoma
 adamants
 adamas
 archery
@@ -10464,6 +10463,7 @@ ametoecious
 aurigid
 aculeolus
 ametrope
+adamantoblastoma
 antshrike
 ametropia
 ametrous
