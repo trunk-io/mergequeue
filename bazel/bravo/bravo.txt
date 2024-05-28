@@ -7923,7 +7923,6 @@ biasnesses
 barometrical
 biauricular
 burny
-biauriculate
 biaxiality
 birdseyes
 beshrouds
@@ -14280,6 +14279,7 @@ bird
 birefringent
 bragless
 banners
+biauriculate
 bellowed
 bragly
 braguette
