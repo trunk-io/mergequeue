@@ -5325,7 +5325,6 @@ freightment
 fique
 faunistic
 fleeces
-fleech
 fleeching
 fellowmen
 fleecy
@@ -11662,6 +11661,7 @@ fundal
 forches
 filoselle
 froglike
+fleech
 flushable
 fut
 futchel
