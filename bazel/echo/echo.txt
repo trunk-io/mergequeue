@@ -945,7 +945,6 @@ ectostosis
 emulgens
 eriodictyon
 ensisternal
-epicenter
 ectotoxin
 ectotrophi
 eventerate
@@ -7344,6 +7343,7 @@ epapophysis
 evaporated
 evangeliser
 epilemmal
+epicenter
 epappose
 erinaceus
 earwig
