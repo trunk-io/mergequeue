@@ -1122,6 +1122,7 @@ farsighted
 flabel
 fortunize
 forcat
+floats
 farsightedness
 flooring
 forkedly
@@ -1716,7 +1717,6 @@ factorized
 feasted
 fascio
 fillingness
-floats
 farthingale
 filicin
 flashflood

@@ -4934,6 +4934,7 @@ aerobia
 asamblea
 antisubmarine
 aerobic
+antimask
 aerobiological
 aerobiologically
 aerobiologist
@@ -15522,7 +15523,6 @@ amylums
 antiprogressive
 antimartyr
 androlepsy
-antimask
 asslike
 antimasks
 antimason
