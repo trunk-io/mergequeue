@@ -4512,7 +4512,6 @@ bypassing
 becloaks
 birdwomen
 blackfriars
-beclog
 beclogged
 bludging
 beclogging
@@ -8324,6 +8323,7 @@ byeworkman
 bifaces
 bifacial
 bifara
+beclog
 bedress
 bifarious
 bifariously
