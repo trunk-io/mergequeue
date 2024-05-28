@@ -914,6 +914,7 @@ deflective
 descrial
 dapifer
 devitalization
+decoding
 dominating
 dapped
 dapper
@@ -2612,7 +2613,6 @@ decode
 decoded
 decoders
 decodes
-decoding
 decodon
 diswarrened
 decoherence
