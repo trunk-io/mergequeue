@@ -4996,7 +4996,6 @@ gladding
 glade
 glades
 grush
-gritter
 gladful
 gnomonics
 gleg
@@ -6408,6 +6407,7 @@ gastral
 gettable
 gateward
 gunite
+gritter
 glucosulfone
 griddler
 gasteralgia
