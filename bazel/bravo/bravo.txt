@@ -4870,6 +4870,7 @@ bedspreads
 bedspring
 benedicite
 bicentral
+bescrape
 bolivars
 bostonese
 bedstand
@@ -6957,7 +6958,6 @@ bescours
 buckeroos
 bescramble
 began
-bescrape
 bescreen
 belleek
 bescreening
