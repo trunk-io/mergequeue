@@ -6831,7 +6831,6 @@ ectosarcs
 enl
 elastic
 entombing
-entombs
 eviscerator
 elia
 entomere
@@ -13892,6 +13891,7 @@ extramental
 epupillate
 elations
 ephymnium
+entombs
 etheria
 extrameridian
 extrameridional
