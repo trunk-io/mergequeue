@@ -11826,7 +11826,6 @@ analysation
 aparavidya
 analyser
 analysers
-addressee
 arbitre
 analyses
 analysing
@@ -12571,6 +12570,7 @@ avidities
 anemonella
 anemones
 albuminiform
+addressee
 anemony
 anguillidae
 anemopathy
