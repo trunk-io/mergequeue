@@ -2655,7 +2655,6 @@ federalese
 fissionability
 fabric
 freshes
-ferruminating
 ferrumination
 furbearer
 fraters
@@ -4142,6 +4141,7 @@ flamingly
 feezing
 fingerwise
 fetus
+ferruminating
 frayn
 foreprise
 foulmart

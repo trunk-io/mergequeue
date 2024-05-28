@@ -3108,7 +3108,6 @@ geoids
 gladioluses
 geoisotherm
 geolatry
-geologer
 geologian
 geological
 geologically
@@ -6013,6 +6012,7 @@ garo
 grenatite
 glucosazone
 goldfinch
+geologer
 gawney
 gipsyweed
 glucoses
