@@ -6955,6 +6955,7 @@ enjoyableness
 exponentiated
 entosphenal
 entosternal
+elric
 entosternum
 entothorax
 eclat
@@ -12255,7 +12256,6 @@ execution
 enhort
 executioneering
 entangledly
-elric
 enfect
 executor
 excur
