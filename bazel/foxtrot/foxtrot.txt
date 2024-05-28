@@ -1544,7 +1544,6 @@ flagellaria
 faurd
 faussebrayed
 faust
-feverishness
 faustian
 familiarising
 faute
@@ -7056,6 +7055,7 @@ forejudger
 felix
 footful
 foiled
+feverishness
 foolhardiness
 foolhardiship
 fitfulness
