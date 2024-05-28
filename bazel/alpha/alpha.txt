@@ -277,7 +277,6 @@ agas
 abdominothoracic
 abdominous
 abduce
-abducens
 abducentes
 abduces
 articulate
@@ -24290,6 +24289,7 @@ autopoloist
 animalculae
 accessoriusorii
 autopore
+abducens
 autoportraiture
 almightily
 autopotent
