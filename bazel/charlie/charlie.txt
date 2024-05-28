@@ -14761,7 +14761,6 @@ cystoidea
 cypseline
 cystoidean
 cystoids
-cystolith
 cystolithiasis
 cystolithic
 cystoma
@@ -25166,6 +25165,7 @@ cooperancy
 corelysis
 corella
 calipers
+cystolith
 coelomocoela
 colophonian
 corema
