@@ -5446,7 +5446,6 @@ bookish
 bichrome
 brickly
 bot
-begroan
 baileys
 brachycardia
 begroans
@@ -12911,6 +12910,7 @@ booter
 blunging
 bootery
 booth
+begroan
 boothage
 boothale
 bootheel
