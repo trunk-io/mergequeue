@@ -2625,7 +2625,6 @@ adjacently
 acoup
 acousmatic
 acoustic
-acoustical
 anisopodal
 acoustically
 acousticolateral
@@ -19200,6 +19199,7 @@ archpriestship
 archprimate
 anno
 archprince
+acoustical
 archprotopope
 archpublican
 archpuritan
