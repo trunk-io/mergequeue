@@ -6976,7 +6976,6 @@ airsheds
 afterwisdom
 airships
 airsick
-airsickness
 agronomics
 airsome
 airspace
@@ -13017,6 +13016,7 @@ anguishous
 angula
 angular
 angulare
+airsickness
 angularia
 assistors
 aerophilatelist
