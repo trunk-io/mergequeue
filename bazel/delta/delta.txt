@@ -11779,7 +11779,6 @@ discretion
 discretional
 discretive
 discretiveness
-discriminability
 discriminant
 discriminately
 discriminateness
@@ -12896,6 +12895,7 @@ demihague
 demivoice
 disordeine
 disordered
+discriminability
 dolomitized
 disfavourer
 disorderer
