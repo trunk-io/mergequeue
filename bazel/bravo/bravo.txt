@@ -3785,6 +3785,7 @@ barotraumata
 battledoring
 battlefronts
 battlegrounds
+borrel
 bringall
 barway
 battlement
@@ -13145,7 +13146,6 @@ borowolframic
 borracha
 borrachio
 borrasca
-borrel
 borreria
 blephariglottis
 befancy
