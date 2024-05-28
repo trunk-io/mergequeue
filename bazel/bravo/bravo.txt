@@ -3805,7 +3805,6 @@ brahmany
 brigantes
 bimestrial
 boatfalls
-banderilla
 battlestead
 battlewagon
 belemnid
@@ -12364,6 +12363,7 @@ bagpiper
 bombilation
 beautied
 bombyliidae
+banderilla
 bombilla
 burrio
 balitao
