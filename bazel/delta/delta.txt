@@ -10365,6 +10365,7 @@ duplet
 diorite
 distraint
 diorthosis
+deducible
 diorthotic
 dipotassic
 dioscorine
@@ -13022,7 +13023,6 @@ disembower
 dispendiously
 dispenditure
 dispensability
-deducible
 dispensableness
 dispensate
 diffracted
