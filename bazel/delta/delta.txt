@@ -9040,7 +9040,6 @@ dicruridae
 descaling
 dict
 dehort
-dictaen
 dolichosoma
 dictamina
 dictaphone
@@ -14022,6 +14021,7 @@ distressing
 decomponible
 deglamorization
 distressingly
+dictaen
 devast
 dockyardman
 depravation
