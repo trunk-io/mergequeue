@@ -7818,7 +7818,6 @@ certifying
 coys
 certiorate
 certiorating
-certis
 certitude
 certitudes
 certosa
@@ -16173,6 +16172,7 @@ clammer
 coextending
 cliffhanging
 cliffy
+certis
 cliffier
 clifflike
 capacities
