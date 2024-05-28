@@ -22638,6 +22638,7 @@ chieftainships
 connecting
 connection
 connectional
+crossed
 connectionism
 connections
 colorism
@@ -29861,7 +29862,6 @@ crosscutter
 confutative
 crosscutting
 crosse
-crossed
 crosser
 crossers
 crosses
