@@ -63,6 +63,7 @@ faceable
 facebar
 facebow
 faced
+fragile
 faceharden
 flagships
 flecken
@@ -7623,7 +7624,6 @@ forefingers
 figlike
 fritillaries
 ferronickel
-fragile
 floruits
 filbert
 flashlike
