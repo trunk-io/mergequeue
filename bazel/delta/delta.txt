@@ -8311,7 +8311,6 @@ diagonalizable
 diagonalization
 diagnosing
 diseurs
-diagonals
 deducting
 diagonalwise
 dedans
@@ -10081,6 +10080,7 @@ dynamos
 dynamostatic
 decreing
 dynamotor
+diagonals
 dividedness
 diancecht
 dinanderie
