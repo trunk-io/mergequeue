@@ -7360,7 +7360,6 @@ dain
 dethronements
 dethrones
 dwight
-damnable
 deti
 detick
 doorwise
@@ -15891,6 +15890,7 @@ dosimeter
 dogproof
 dosimetrician
 dosing
+damnable
 dosinia
 dehairer
 doped

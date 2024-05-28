@@ -2153,7 +2153,6 @@ grungy
 goldenseal
 gawish
 garroted
-gangboard
 gigging
 gawk
 grubs
@@ -3289,6 +3288,7 @@ gerah
 glommox
 grewsome
 goodwily
+gangboard
 geranyl
 gloppen
 giraffes
