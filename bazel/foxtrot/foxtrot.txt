@@ -6618,7 +6618,6 @@ flirtier
 frequents
 focal
 fogey
-featness
 focalizes
 formalize
 forwrap
@@ -6707,6 +6706,7 @@ fogyish
 fogless
 fadding
 forz
+featness
 fogman
 fogmen
 fuseless
