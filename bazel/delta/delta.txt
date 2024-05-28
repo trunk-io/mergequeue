@@ -2364,6 +2364,7 @@ dietarian
 diphosphothiamine
 drink
 dechemicalize
+diprimary
 dechenite
 dechloridation
 dechloridize
@@ -10713,7 +10714,6 @@ dipppy
 dipppier
 dipppiest
 downstater
-diprimary
 dipropargyl
 dipropellant
 deficit
