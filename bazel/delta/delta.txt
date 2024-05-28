@@ -4677,7 +4677,6 @@ disorienting
 doblones
 demipesade
 disgust
-demipillar
 demipique
 demiplacate
 dishtowel
@@ -11140,6 +11139,7 @@ disbandments
 disbands
 disagglomeration
 disbar
+demipillar
 dehydrant
 drubbings
 disbarment
