@@ -14682,7 +14682,6 @@ cystalgia
 cystamine
 cystaster
 commatism
-cystatrophy
 cystatrophia
 cysteamine
 cystectasia
@@ -25205,6 +25204,7 @@ coreveller
 corevolve
 cryometer
 chlorophyllaceous
+cystatrophy
 corfiote
 citatum
 cathartae

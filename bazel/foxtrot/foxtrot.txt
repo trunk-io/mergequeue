@@ -2461,7 +2461,6 @@ filleter
 fulgourous
 fullymart
 frolicked
-ferment
 freebooty
 feudum
 fermentability
@@ -10933,6 +10932,7 @@ farina
 flivver
 fletched
 fully
+ferment
 fullmouth
 fullmouthed
 fowlpoxes
