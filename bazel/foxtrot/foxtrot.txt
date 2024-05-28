@@ -204,6 +204,7 @@ fuzzed
 floatiness
 factorize
 factorizing
+folletage
 footstock
 fifing
 fazenda
@@ -6907,7 +6908,6 @@ formalisation
 fastball
 formication
 flagrantly
-folletage
 folly
 floreate
 flavedo
