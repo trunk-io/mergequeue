@@ -2660,7 +2660,6 @@ acquiescency
 aftersupper
 acquiescent
 ansate
-acquiescently
 acquiescer
 acquiesces
 amygdalotomy
@@ -3070,6 +3069,7 @@ aureation
 actinogonidiate
 auditors
 anthropopathite
+acquiescently
 actinogram
 appearances
 actinograph
