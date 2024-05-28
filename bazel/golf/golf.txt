@@ -9335,6 +9335,7 @@ grossen
 gyrosyn
 granma
 griots
+groupable
 gists
 grossers
 grosses
@@ -9452,7 +9453,6 @@ gernative
 grundlov
 group
 gammer
-groupable
 gynophoric
 grandrelle
 gallous
