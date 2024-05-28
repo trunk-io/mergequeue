@@ -8845,7 +8845,6 @@ coccolithophorid
 chapellany
 chapelled
 cimnel
-ceration
 cobnut
 chapelling
 commonplaces
@@ -13495,6 +13494,7 @@ cyclosporinae
 cleaners
 cyclostyle
 cyclostoma
+ceration
 caponised
 capon
 czarism
