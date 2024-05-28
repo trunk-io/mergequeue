@@ -10420,7 +10420,6 @@ enquired
 explain
 etwite
 ethnol
-ethnolinguist
 ethnologer
 erysibe
 ecumenistic
@@ -13501,6 +13500,7 @@ entailers
 earthpea
 exscissor
 exscript
+ethnolinguist
 exscriptural
 encrusting
 exsculptate
