@@ -3232,7 +3232,6 @@ elusion
 elided
 epactal
 elusive
-entrench
 endocardiac
 ethylenation
 elusiveness
@@ -9511,6 +9510,7 @@ escaroles
 entoplastral
 escarp
 escarping
+entrench
 escarpment
 epithelioglandular
 epipodium
