@@ -6718,6 +6718,7 @@ gossans
 gruss
 gunnysack
 gondolas
+geostatic
 global
 gondoletta
 gangliform
@@ -8779,7 +8780,6 @@ gyte
 girouettism
 grillades
 greillade
-geostatic
 gabby
 greypate
 greisen
