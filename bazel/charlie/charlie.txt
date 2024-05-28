@@ -12983,7 +12983,6 @@ churnings
 cavus
 churnmilk
 churns
-churoya
 churoyan
 churrasco
 churred
@@ -21154,6 +21153,7 @@ cycloheptanone
 concassation
 cherishers
 concatenate
+churoya
 concatenated
 concatenates
 coequating
