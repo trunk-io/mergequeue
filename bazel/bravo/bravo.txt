@@ -11,6 +11,7 @@ baalshem
 baar
 baas
 bowstringing
+breakstone
 baaskaap
 bistratose
 babacoote
@@ -14831,7 +14832,6 @@ breakpoints
 breaks
 besteaded
 besselian
-breakstone
 breakthrough
 breakthroughs
 barchan
