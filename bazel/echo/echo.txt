@@ -2192,7 +2192,6 @@ examination
 elder
 elderberries
 earthdrake
-entapophysial
 erythemic
 emissitious
 expansure
@@ -5972,6 +5971,7 @@ epitrichium
 enkindler
 ere
 epiglottises
+entapophysial
 enkindles
 estaminets
 emeriti
