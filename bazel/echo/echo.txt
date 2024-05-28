@@ -1311,6 +1311,7 @@ eelpouts
 eelshop
 epagoge
 eelskin
+electrotactic
 eelworm
 een
 endosternite
@@ -2675,7 +2676,6 @@ elaeocarpaceous
 eleutherodactyli
 electrosurgical
 electrosurgically
-electrotactic
 eyra
 emmanuel
 excursed
