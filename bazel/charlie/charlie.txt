@@ -5530,7 +5530,6 @@ catadrome
 catadromous
 catadupe
 catafalco
-catafalque
 countervails
 catafalques
 catagenetic
@@ -14290,6 +14289,7 @@ circulation
 circulations
 circulative
 carotte
+catafalque
 concentricity
 catatonia
 cryptographist
