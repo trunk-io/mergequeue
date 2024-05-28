@@ -2264,7 +2264,6 @@ fanout
 fayalite
 fibrinolyses
 fencepost
-fencers
 firebricks
 fsiest
 fluidness
@@ -11096,6 +11095,7 @@ fructosan
 filled
 falconbill
 functional
+fencers
 farceuse
 fantoms
 functionalities

@@ -16235,7 +16235,6 @@ dowlas
 derange
 dowly
 designlessness
-dowment
 description
 duplicated
 downbear
@@ -17101,6 +17100,7 @@ disuniformity
 dryfarmer
 dingwall
 drierman
+dowment
 dryfoot
 drift
 driftage
