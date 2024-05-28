@@ -4125,7 +4125,6 @@ cardiologic
 cardiologist
 cardiologists
 cardiomegaly
-cyclus
 cardiomelanosis
 contradivide
 cardiometer
@@ -16482,6 +16481,7 @@ chervil
 cloakage
 cloakedly
 cloaklet
+cyclus
 cowichan
 citrange
 counterlathing
