@@ -2567,6 +2567,7 @@ foresightful
 flanes
 ferryboat
 formaldehyd
+foreclosed
 ferryboats
 familistery
 ferricyanate
@@ -7538,7 +7539,6 @@ forechoose
 foreclose
 fernseed
 funnelling
-foreclosed
 foreclosure
 fevering
 forecome
