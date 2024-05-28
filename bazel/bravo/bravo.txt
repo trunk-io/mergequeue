@@ -3398,7 +3398,6 @@ basques
 bass
 bassa
 branchiopulmonate
-bassalia
 bootable
 brythonic
 baculum
@@ -5297,6 +5296,7 @@ bastes
 bobbled
 bothsided
 barlock
+bassalia
 begaze
 begazes
 begazing

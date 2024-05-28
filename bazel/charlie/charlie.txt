@@ -7180,6 +7180,7 @@ centre
 centreboard
 centred
 centref
+coalholes
 centreless
 centrepiece
 canephoroe
@@ -17252,7 +17253,6 @@ coalescing
 choya
 coalfield
 coalfitter
-coalholes
 catacrotism
 coaly
 caixinha
