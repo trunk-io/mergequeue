@@ -1776,7 +1776,6 @@ brubu
 broquery
 baluchithere
 buses
-biretta
 balun
 balustrading
 balwarra
@@ -4443,6 +4442,7 @@ browse
 bechalks
 bellowers
 beerbibber
+biretta
 bursts
 bechance
 bechanced
