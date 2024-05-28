@@ -4776,7 +4776,6 @@ fetted
 flags
 firepower
 formative
-fainer
 floribunda
 fossores
 factorylike
@@ -9679,6 +9678,7 @@ friction
 freeness
 ferrums
 foresay
+fainer
 flowerer
 freenesses
 figment
