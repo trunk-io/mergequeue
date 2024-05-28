@@ -8175,7 +8175,6 @@ cavitation
 circumterrestrial
 chaffwax
 chafing
-chafted
 cudgeller
 chagan
 chagga
@@ -19514,6 +19513,7 @@ colourful
 colourfully
 colourfulness
 cavated
+chafted
 coloury
 colourific
 cardita
