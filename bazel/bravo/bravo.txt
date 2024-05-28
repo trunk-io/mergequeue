@@ -11782,7 +11782,6 @@ bish
 boccaro
 bocce
 bocces
-boccia
 boccias
 boccie
 backstring
@@ -15351,6 +15350,7 @@ brilliancies
 bagged
 brilliandeer
 belligerence
+boccia
 budgerigars
 brilliant
 blennoma
