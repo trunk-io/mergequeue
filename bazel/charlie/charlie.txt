@@ -15365,7 +15365,6 @@ clamant
 circumnavigatory
 clamantly
 ceric
-clamaroo
 cywydd
 clamative
 clamatory
@@ -27678,6 +27677,7 @@ cowered
 cowerer
 cowerers
 cowering
+clamaroo
 coweringly
 cowers
 cowfish
