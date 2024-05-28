@@ -5074,7 +5074,6 @@ endocoele
 endocolpitis
 endoconidia
 endocrania
-enallage
 encrustment
 elegits
 endocranial
@@ -6331,6 +6330,7 @@ endbrain
 eighteenth
 extracurriculum
 ensepulcher
+enallage
 elderbush
 ensepulchre
 enseraph
