@@ -15711,7 +15711,6 @@ antineutrino
 aftermatter
 animalcules
 antineutrinos
-antineutrons
 anting
 antinganting
 antings
@@ -24468,6 +24467,7 @@ autovalet
 autovalve
 autovivisection
 apologal
+antineutrons
 ag
 autoxeny
 autoxidation
