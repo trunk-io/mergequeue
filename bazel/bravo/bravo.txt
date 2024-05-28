@@ -3338,7 +3338,6 @@ bioelectricities
 basker
 basketballer
 basketballs
-basketfuls
 bay
 bathers
 basketing
@@ -14454,6 +14453,7 @@ branchicolous
 balanus
 besoothing
 bitterish
+basketfuls
 branchiest
 branchiferous
 broma
