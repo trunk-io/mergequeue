@@ -6161,7 +6161,6 @@ enophthalmus
 ebenaceae
 energetics
 eusynchite
-executable
 enoplan
 enorm
 exhortator
@@ -6644,6 +6643,7 @@ elastomeric
 endermically
 enterolith
 enuring
+executable
 exhedrae
 enterology
 enterologic
