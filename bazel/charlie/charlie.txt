@@ -16902,7 +16902,6 @@ casebooks
 clubrooms
 clubroot
 carding
-clubroots
 clubs
 clubstart
 clubster
@@ -30147,6 +30146,7 @@ crucigerous
 crucily
 crucilly
 cruck
+clubroots
 cyclize
 crud
 crudded
