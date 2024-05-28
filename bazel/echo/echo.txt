@@ -6288,7 +6288,6 @@ enroots
 embowed
 encirclement
 enrut
-euclidean
 earle
 escharine
 ens
@@ -12821,6 +12820,7 @@ englutting
 exoterically
 escobadura
 exotericism
+euclidean
 extenuated
 energised
 embossmen
