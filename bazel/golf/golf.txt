@@ -3937,7 +3937,6 @@ gaieties
 gustoes
 gift
 giftbook
-greasy
 giftedly
 gobbin
 gigelira
@@ -5912,6 +5911,7 @@ glottologic
 griffinesque
 glottological
 goniometer
+greasy
 greyfly
 glout
 glycogen
