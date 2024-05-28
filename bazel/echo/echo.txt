@@ -5603,6 +5603,7 @@ enforest
 epacme
 enform
 elapinae
+epicyclic
 enfort
 embarrasses
 eastwards
@@ -7292,7 +7293,6 @@ epa
 explained
 epacmaic
 exoascaceae
-epicyclic
 engird
 epacris
 emigres
