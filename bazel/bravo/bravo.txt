@@ -4034,6 +4034,7 @@ beaches
 beachhead
 behavers
 beachheads
+besiegingly
 brand
 bnf
 basely
@@ -7052,7 +7053,6 @@ besiege
 besiegers
 besieges
 bedeman
-besiegingly
 besin
 besit
 beslab
