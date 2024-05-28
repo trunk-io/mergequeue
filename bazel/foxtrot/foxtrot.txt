@@ -6462,7 +6462,6 @@ flatboat
 fermerer
 flourlike
 fussify
-flushgate
 flushingly
 flusk
 flusker
@@ -10372,6 +10371,7 @@ frontals
 frontbencher
 frontcourt
 flying
+flushgate
 fortune
 feracities
 formats

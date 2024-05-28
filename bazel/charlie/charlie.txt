@@ -4084,7 +4084,6 @@ clerihew
 cardinalitian
 cubed
 cardinalities
-cardinally
 cardinalship
 cardings
 cardioarterial
@@ -15729,6 +15728,7 @@ capryl
 colorfully
 chromograph
 coquin
+cardinally
 calfskins
 clattertraps
 clatty
