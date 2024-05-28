@@ -3727,6 +3727,7 @@ frosteds
 fortressed
 farsakh
 filmcard
+fellowheirship
 filmcards
 filmdom
 futilous
@@ -10164,7 +10165,6 @@ fimbrilliferous
 fluoroscopist
 foxier
 fresh
-fellowheirship
 fleshment
 frithsoken
 frithstool
