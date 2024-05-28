@@ -1620,7 +1620,6 @@ eaglets
 eglomise
 exolete
 entires
-enumerator
 eucaines
 eff
 exoticity
@@ -13204,6 +13203,7 @@ eulogical
 expensive
 explicanda
 explicate
+enumerator
 eaglewood
 enterokinesia
 enterectomies
