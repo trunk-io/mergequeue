@@ -7205,7 +7205,6 @@ fatidic
 fogs
 forepeak
 fleetings
-footpounds
 flanderkin
 footprint
 fb
@@ -10477,6 +10476,7 @@ fantasticality
 ficins
 foamers
 frostily
+footpounds
 frostiness
 flnerie
 fluitant
