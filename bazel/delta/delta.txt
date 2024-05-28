@@ -5734,6 +5734,7 @@ deplace
 dedolent
 damayanti
 deplaned
+dorser
 deplaning
 dawdled
 deplant
@@ -15793,7 +15794,6 @@ dorsals
 dorsalwards
 dorse
 dorsel
-dorser
 dysanalyte
 dorsers
 dorsi
