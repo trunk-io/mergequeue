@@ -2057,7 +2057,6 @@ bethought
 banky
 banking
 bullaria
-bankmen
 banknote
 badaud
 bristly
@@ -8893,6 +8892,7 @@ binaural
 bind
 binbashi
 binderies
+bankmen
 behav
 banjos
 bulliest
