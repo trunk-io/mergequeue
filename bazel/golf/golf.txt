@@ -4121,7 +4121,6 @@ gildsmen
 gastrosplenic
 gerundive
 gristles
-gremial
 gunyeh
 gilet
 gauric
@@ -5948,6 +5947,7 @@ ghastfulness
 glissades
 gartering
 gloxinia
+gremial
 gloxinias
 glozed
 glozes
