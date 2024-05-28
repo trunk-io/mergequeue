@@ -11340,6 +11340,7 @@ chloroamine
 chloroaurate
 chloroaurite
 chlorobenzene
+coalternate
 chlorobromomethane
 cavort
 chlorocalcite
@@ -17290,7 +17291,6 @@ cheetie
 coalshed
 coalsheds
 cantil
-coalternate
 coalternative
 coaltitude
 coambulant
