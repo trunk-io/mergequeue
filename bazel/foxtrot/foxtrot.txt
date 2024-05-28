@@ -8136,7 +8136,6 @@ forewarns
 federalise
 fevertwig
 flockbed
-forewent
 freezable
 frostbird
 forewings
@@ -11103,6 +11102,7 @@ flense
 fracturs
 forbidder
 functionation
+forewent
 functioned
 finagled
 functionize
