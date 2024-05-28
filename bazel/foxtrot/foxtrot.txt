@@ -3364,7 +3364,6 @@ fribbles
 fieldpieces
 flosculose
 frate
-fieldstrip
 feaking
 faintish
 fieldworker
@@ -4686,6 +4685,7 @@ fountainlet
 follies
 flagellated
 flagellations
+fieldstrip
 flunkeydom
 footwalls
 feif
