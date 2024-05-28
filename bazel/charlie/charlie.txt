@@ -7072,7 +7072,6 @@ colonus
 centerfolds
 centering
 centerless
-centerline
 centermost
 centerpiece
 centerpieces
@@ -31240,6 +31239,7 @@ colorbearer
 curators
 curatrices
 carabid
+centerline
 curatrix
 curb
 curbable
