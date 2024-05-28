@@ -10064,7 +10064,6 @@ enacted
 estrif
 epauliere
 estrin
-estrins
 estriol
 estrogen
 epaulet
@@ -10881,6 +10880,7 @@ expectoration
 echinid
 extracultural
 exorcizing
+estrins
 eupanorthidae
 eupanorthus
 endarteria
