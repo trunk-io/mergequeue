@@ -1440,6 +1440,7 @@ cervicodorsal
 calisayas
 calista
 calystegia
+captionless
 calistheneum
 calisthenic
 curupay
@@ -3503,7 +3504,6 @@ caption
 captioned
 convenably
 captioning
-captionless
 captiously
 captiousness
 captivance
