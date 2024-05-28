@@ -3891,6 +3891,7 @@ adinvention
 adion
 arbutes
 adios
+affirmative
 adipate
 adipescent
 aerothermodynamic
@@ -22501,7 +22502,6 @@ apprest
 ateknia
 atelene
 ateleological
-affirmative
 aspartyl
 ateles
 amnemonic
