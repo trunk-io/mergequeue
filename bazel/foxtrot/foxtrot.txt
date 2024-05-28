@@ -9211,7 +9211,6 @@ fixive
 fanaloka
 fraggings
 fishpot
-fragileness
 fragility
 frizer
 fusels
@@ -10053,6 +10052,7 @@ frijolillo
 fainness
 frike
 fanga
+fragileness
 flauntingly
 forerevelation
 frilled
