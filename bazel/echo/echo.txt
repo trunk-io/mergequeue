@@ -1223,7 +1223,6 @@ echiuroid
 educability
 educables
 educand
-educatability
 eident
 elkhounds
 educatable
@@ -3727,6 +3726,7 @@ embrocado
 exsecant
 emprosthotonos
 euxine
+educatability
 exocardial
 embrocated
 embrocates
