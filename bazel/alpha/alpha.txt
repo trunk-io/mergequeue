@@ -4356,7 +4356,6 @@ alchornea
 airways
 adrad
 alumen
-adramelech
 abaka
 adreamed
 aloedary
@@ -15483,6 +15482,7 @@ antilysis
 antilyssic
 antilithic
 antilytic
+adramelech
 antilitter
 antiliturgy
 amla
