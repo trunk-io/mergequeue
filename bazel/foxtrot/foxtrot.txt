@@ -8010,6 +8010,7 @@ forestcraft
 foresteep
 flash
 fratricidal
+furodiazole
 fluidises
 falconnoid
 ferrimagnetic
@@ -11437,7 +11438,6 @@ furnishness
 felspars
 flushboard
 furniture
-furodiazole
 foraminated
 fatiguable
 flattering
