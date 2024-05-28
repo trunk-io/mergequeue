@@ -6262,7 +6262,6 @@ feuar
 frisian
 frog
 fluidist
-fluidity
 fluidization
 fluidized
 followup
@@ -8876,6 +8875,7 @@ fouettes
 flambage
 flunkies
 foreshadower
+fluidity
 figgery
 fougasse
 foujdarry
