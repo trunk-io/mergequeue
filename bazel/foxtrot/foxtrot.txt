@@ -1584,7 +1584,6 @@ femininity
 fledglings
 florilage
 favissa
-favorable
 fegary
 favorableness
 farris
@@ -1736,6 +1735,7 @@ feasters
 feastful
 feastfully
 feastly
+favorable
 feastraw
 frisbees
 feather
