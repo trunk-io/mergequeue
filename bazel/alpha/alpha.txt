@@ -3679,7 +3679,6 @@ apotheces
 adenogenesis
 adorning
 aggelation
-adenographer
 attic
 adenographic
 adenographical
@@ -20572,6 +20571,7 @@ atmidometer
 arteritis
 artesian
 areographic
+adenographer
 artesonado
 artesonados
 artful
