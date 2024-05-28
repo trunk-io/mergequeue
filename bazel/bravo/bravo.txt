@@ -2241,7 +2241,6 @@ barato
 baghla
 bontebok
 baratte
-bedrivelled
 barbel
 barauna
 barba
@@ -3157,6 +3156,7 @@ branchway
 baseplug
 basepoint
 baser
+bedrivelled
 bortsch
 besetter
 bardish
