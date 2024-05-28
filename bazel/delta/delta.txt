@@ -2610,7 +2610,6 @@ decoct
 demiquaver
 decocting
 decoctive
-decocts
 deaminizing
 decoctum
 decodable
@@ -5812,6 +5811,7 @@ depolymerization
 depolymerize
 deadpay
 depolish
+decocts
 davened
 depolished
 dogbush
