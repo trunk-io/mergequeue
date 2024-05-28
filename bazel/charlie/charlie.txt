@@ -15017,7 +15017,6 @@ complish
 chasmy
 cytopenia
 cytophagy
-centrosymmetry
 cytophagic
 cytophagous
 cytopharynx
@@ -16166,6 +16165,7 @@ cliff
 cliffed
 comenic
 croakiest
+centrosymmetry
 cliffhanger
 cliffhangers
 clammer
