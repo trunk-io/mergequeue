@@ -5723,7 +5723,6 @@ glomeli
 goonda
 glomera
 game
-glomerella
 granadilla
 glomeroporphyritic
 gallinago
@@ -7310,6 +7309,7 @@ glycerolysis
 gossipee
 gossiper
 greensward
+glomerella
 gascoign
 gossipy
 gravitationally
