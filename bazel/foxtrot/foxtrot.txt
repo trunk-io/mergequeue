@@ -3274,6 +3274,7 @@ fiddle
 faceoff
 fantod
 fiddlebow
+friendly
 fifteenthly
 feelings
 fiddlecome
@@ -6428,7 +6429,6 @@ fluorogen
 fluorometry
 foreseeing
 fluoroscopy
-friendly
 framing
 footworn
 fibrinolysis
