@@ -7141,7 +7141,6 @@ festive
 footfalls
 footfarer
 falsework
-footfault
 flyways
 fesels
 footfolk
@@ -7266,6 +7265,7 @@ fraternising
 fleered
 farragos
 figuring
+footfault
 futureness
 favellae
 finchbacked
