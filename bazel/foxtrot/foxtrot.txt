@@ -4301,7 +4301,6 @@ fiscalized
 fischerite
 foresleeve
 friendlies
-fise
 forb
 fanfish
 fisetin
@@ -10202,6 +10201,7 @@ fitter
 fled
 frize
 fashed
+fise
 frized
 ferules
 fan
