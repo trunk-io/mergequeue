@@ -2525,7 +2525,6 @@ bergmannite
 bromins
 bargainable
 billbugs
-bullbat
 bargainer
 bargaining
 beechwoods
@@ -13243,6 +13242,7 @@ bosselation
 bronchiectatic
 bolti
 bosses
+bullbat
 barysphere
 bosset
 barebacked
