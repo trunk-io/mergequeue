@@ -944,6 +944,7 @@ absolved
 absolvent
 arteriotome
 absolves
+areality
 absolving
 absolvitor
 aldolize
@@ -12795,7 +12796,6 @@ anginose
 anginous
 angioataxia
 anasazi
-areality
 angioblastic
 angiocardiography
 angiocardiographic
