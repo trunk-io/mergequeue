@@ -3924,7 +3924,6 @@ adipopexis
 adipose
 adiposeness
 adiposity
-acrook
 abdominoscope
 adiposogenital
 aslope
@@ -21913,6 +21912,7 @@ associable
 associableness
 associated
 autovaccination
+acrook
 associatedness
 andesine
 associateship
