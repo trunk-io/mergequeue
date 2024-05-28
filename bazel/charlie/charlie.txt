@@ -2017,7 +2017,6 @@ camouflagic
 coincidence
 cruddle
 camouflaging
-camouflet
 camoufleur
 chests
 camoufleurs
@@ -28548,6 +28547,7 @@ credentialism
 cystines
 credentials
 credently
+camouflet
 credenza
 credere
 cerebbella
