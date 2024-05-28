@@ -3356,6 +3356,7 @@ glottalized
 ganglands
 germ
 germain
+granatite
 german
 germany
 gisarme
@@ -5017,7 +5018,6 @@ gonoph
 gladier
 goutwort
 gladiola
-granatite
 gladiolas
 gypsyesque
 gladys
