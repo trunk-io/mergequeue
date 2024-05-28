@@ -13343,7 +13343,6 @@ castoridae
 crookbilled
 cannonproof
 cyclic
-cyclical
 cyclically
 cyclicalness
 cyclicism
@@ -26837,6 +26836,7 @@ counterdifficulty
 counterdigged
 cerebroscopy
 counterdike
+cyclical
 coltishness
 caaming
 counterdisengagement
