@@ -76,7 +76,6 @@ abamperes
 aband
 abandon
 abandonable
-amphipods
 abandoned
 abandonee
 abandoner
@@ -7013,6 +7012,7 @@ airwards
 adirondack
 airwave
 airwaves
+amphipods
 airwise
 abstruseness
 airwoman
