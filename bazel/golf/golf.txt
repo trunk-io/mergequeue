@@ -2391,7 +2391,6 @@ goles
 gelatine
 globuliform
 glucoprotein
-gharial
 gerastian
 gignate
 gagsters
@@ -5833,6 +5832,7 @@ gallegan
 groom
 gloveress
 glossiphonia
+gharial
 glossiphonidae
 galvanomagnet
 glossitis
