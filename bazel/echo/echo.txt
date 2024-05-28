@@ -535,7 +535,6 @@ emmets
 expy
 electronographic
 echinital
-echinite
 echinocaris
 entosthoblast
 echinocereus
@@ -13501,6 +13500,7 @@ exscinds
 entailers
 earthpea
 exscissor
+echinite
 exscript
 exscriptural
 encrusting
