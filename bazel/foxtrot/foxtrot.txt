@@ -4670,6 +4670,7 @@ flabellation
 fullage
 frises
 flabs
+ferretto
 flaccid
 flachery
 flancard
@@ -8669,7 +8670,6 @@ foreyard
 fortifiers
 fortifies
 fafnir
-ferretto
 fortifys
 finalist
 fortyfives
