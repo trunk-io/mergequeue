@@ -4028,6 +4028,7 @@ gloamings
 geoidal
 glossoscopia
 grand
+gadoid
 giggit
 glummy
 glazen
@@ -4608,7 +4609,6 @@ gazehound
 gypsyhead
 gaitt
 gloeocapsoid
-gadoid
 giglot
 gypsying
 grammontine
