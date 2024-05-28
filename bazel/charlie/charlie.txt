@@ -8092,7 +8092,6 @@ chadors
 chadri
 chaenolobus
 chaetae
-cerotate
 chemin
 chaetal
 chaetangiaceae
@@ -23158,6 +23157,7 @@ constancy
 constant
 comminute
 constantan
+cerotate
 constantine
 constantinian
 constantinopolitan
