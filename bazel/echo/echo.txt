@@ -4889,7 +4889,6 @@ experientialist
 engagedly
 ephyrula
 euchymous
-end
 epistropheus
 enterocoelic
 electrodialysis
@@ -14016,6 +14015,7 @@ emm
 extratarsal
 ex
 esterase
+end
 extratellurian
 extratelluric
 etaerio
