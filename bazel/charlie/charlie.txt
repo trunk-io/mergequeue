@@ -23322,7 +23322,6 @@ consulship
 consulships
 clavieristic
 consult
-consulta
 consultable
 carbora
 commote
@@ -25563,6 +25562,7 @@ corollarially
 corollaries
 corollate
 corollet
+consulta
 cholecystonephrostomy
 corolliferous
 corollifloral
