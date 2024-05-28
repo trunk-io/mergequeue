@@ -1865,6 +1865,7 @@ bignesses
 bandboxes
 bandboxy
 broilery
+battlepiece
 bollito
 barricos
 besotter
@@ -5644,7 +5645,6 @@ blackeners
 bejuggle
 bejumbles
 bejumbling
-battlepiece
 bibliotherapist
 bunko
 belatedness
