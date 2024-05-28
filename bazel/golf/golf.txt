@@ -7416,6 +7416,7 @@ goldfish
 galee
 gouramis
 gunroom
+gunpoint
 geniuses
 gourded
 gourdes
@@ -10588,7 +10589,6 @@ gerbille
 greenockite
 glazier
 gyrochrome
-gunpoint
 goy
 gunpoints
 gunpowdery
