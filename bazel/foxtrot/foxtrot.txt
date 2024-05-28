@@ -1009,7 +1009,6 @@ felinophobe
 fares
 faretta
 financialist
-farewell
 fearfuller
 foreshortens
 fuchsin
@@ -2603,6 +2602,7 @@ flurry
 ferryway
 finding
 ferroaluminum
+farewell
 ferrocene
 ferrocerium
 fogramity
