@@ -41,7 +41,6 @@ fabricator
 flintless
 flick
 fabricators
-fabricature
 filters
 futurities
 fuddledness
@@ -6995,6 +6994,7 @@ fraenulum
 fouquieriaceous
 fulcra
 forestudy
+fabricature
 functor
 frittered
 fondues
