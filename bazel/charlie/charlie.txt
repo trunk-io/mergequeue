@@ -5947,7 +5947,6 @@ catheterise
 coiffes
 catheterised
 catheterism
-catheterization
 catheterize
 catheterized
 cerastium
@@ -6704,6 +6703,7 @@ celebratedness
 celebrater
 celebrates
 celebration
+catheterization
 celebrationis
 convallamarin
 celebrations
