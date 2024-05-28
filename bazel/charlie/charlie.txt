@@ -5718,7 +5718,6 @@ catchlight
 cultivatability
 clockcase
 caudillism
-catchline
 catchment
 catchments
 catchphrase
@@ -31502,6 +31501,7 @@ conveyal
 cursives
 cursor
 clerkage
+catchline
 cursorary
 cundite
 cysteine
