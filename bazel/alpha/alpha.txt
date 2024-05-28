@@ -2257,7 +2257,6 @@ actinal
 aperistalsis
 abattue
 achromate
-achromatic
 achromatically
 alectoromorphae
 achromaticity
@@ -19685,6 +19684,7 @@ aphthous
 ary
 aria
 arya
+achromatic
 angas
 arianism
 aryanism
