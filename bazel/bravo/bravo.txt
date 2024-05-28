@@ -4949,7 +4949,6 @@ brothy
 bomarea
 beechwood
 bright
-buphthalmic
 bleak
 bobac
 burrowstown
@@ -17420,6 +17419,7 @@ bungling
 bungos
 bungstarter
 bungtown
+buphthalmic
 bungwall
 bunya
 breeding
