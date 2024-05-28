@@ -5002,7 +5002,6 @@ deckels
 demote
 demoted
 demotes
-demothball
 demotions
 dysmeromorph
 demotist
@@ -10568,6 +10567,7 @@ diplodocus
 dopant
 diplodus
 diploe
+demothball
 dependable
 dioestrum
 director
