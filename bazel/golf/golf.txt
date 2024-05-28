@@ -8209,7 +8209,6 @@ grappas
 grassfinch
 gravelliness
 grapple
-gainsaid
 grappler
 grapples
 gawks
@@ -9018,6 +9017,7 @@ grimsire
 grin
 galga
 germination
+gainsaid
 galactidrosis
 grinch
 glabrous
