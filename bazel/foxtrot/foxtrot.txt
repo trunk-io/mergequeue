@@ -2719,7 +2719,6 @@ frizziness
 fervence
 fortnightlies
 forerunnership
-firebote
 ferventness
 frighteningness
 furandi
@@ -8292,6 +8291,7 @@ forjaskit
 foujdar
 forjudges
 forjudging
+firebote
 formularisation
 foiler
 forensicality
