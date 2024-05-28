@@ -5344,7 +5344,6 @@ forager
 fang
 fitchery
 filterable
-fireclay
 fleering
 fountful
 foraged
@@ -6422,6 +6421,7 @@ forebemoan
 financiered
 frippet
 forepoling
+fireclay
 fluorobenzene
 flypasts
 foreship
