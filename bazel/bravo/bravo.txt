@@ -6245,7 +6245,6 @@ benedictions
 barograph
 biker
 benedictive
-benedictively
 benedictory
 betide
 biggonet
@@ -9334,6 +9333,7 @@ bipaschal
 bypass
 bypassed
 bypaths
+benedictively
 birchism
 bullishly
 buffin
