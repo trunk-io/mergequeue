@@ -2176,7 +2176,6 @@ campsheeting
 campsite
 caver
 compasser
-coadunation
 campsites
 conusor
 circaea
@@ -6960,6 +6959,7 @@ codable
 colometrically
 cenobies
 cenobite
+coadunation
 cribber
 cenobites
 cenobitic
