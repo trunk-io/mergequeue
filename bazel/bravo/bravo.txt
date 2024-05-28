@@ -9742,7 +9742,6 @@ bowwort
 barbarianism
 baptists
 bishopling
-bishoprics
 bishopstool
 bishopweed
 blackly
@@ -11383,6 +11382,7 @@ bluchers
 bludge
 bludged
 bludgeon
+bishoprics
 bludgeons
 bludger
 besoothe
