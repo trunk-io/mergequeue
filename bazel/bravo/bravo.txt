@@ -13839,7 +13839,6 @@ bialveolar
 barleybird
 bowess
 bowfin
-bacterium
 bang
 bast
 bowheads
@@ -14825,6 +14824,7 @@ bostonians
 breakneck
 breakoff
 breakout
+bacterium
 biphenyl
 breakpoint
 breakpoints
