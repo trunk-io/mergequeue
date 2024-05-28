@@ -1019,7 +1019,6 @@ flaxbird
 farfel
 flyaway
 forecloses
-feltness
 fling
 formby
 forritsome
@@ -6593,6 +6592,7 @@ foam
 fikie
 foambow
 foamed
+feltness
 frounce
 fungify
 foamflower
