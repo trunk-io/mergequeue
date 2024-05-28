@@ -6022,7 +6022,6 @@ cathud
 catydid
 catiline
 cating
-cativo
 catkin
 catkinate
 catkins
@@ -6809,6 +6808,7 @@ cellist
 cellists
 cellite
 currs
+cativo
 continua
 cellmates
 cello
