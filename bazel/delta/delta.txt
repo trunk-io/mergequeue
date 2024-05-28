@@ -7810,7 +7810,6 @@ dielectrics
 dosimetries
 dryrot
 duffers
-dagestan
 devolatilization
 depeople
 devolatilizing
@@ -9211,6 +9210,7 @@ dyeability
 dyeable
 ditriglyph
 dieb
+dagestan
 diebacks
 durn
 diecase
