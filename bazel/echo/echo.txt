@@ -5792,6 +5792,7 @@ evans
 eulerian
 engrammatic
 encashes
+equilateral
 engramme
 engrammes
 edwardine
@@ -8630,7 +8631,6 @@ equielliptical
 equiexcellency
 equigranular
 equilater
-equilateral
 equilaterally
 enthrones
 equilibrant
