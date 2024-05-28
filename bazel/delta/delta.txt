@@ -5860,6 +5860,7 @@ distome
 deathroot
 depositaries
 depositation
+dyer
 disgorgement
 dreiling
 delacrimation
@@ -9254,7 +9255,6 @@ diener
 dienes
 dier
 damoiselle
-dyer
 dementis
 dochmii
 dieresis
