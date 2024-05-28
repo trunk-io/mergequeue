@@ -7818,6 +7818,7 @@ certiorate
 certiorating
 certis
 certitude
+circular
 certitudes
 certosa
 certose
@@ -14265,7 +14266,6 @@ circuits
 clochan
 cardioneural
 circulant
-circular
 cryalgesia
 circularisation
 circularised
