@@ -2368,7 +2368,6 @@ cancelling
 cancellous
 cancellus
 cancelment
-cancels
 chimneys
 cancer
 cancerated
@@ -30511,6 +30510,7 @@ cubiti
 cubitiere
 cubito
 coeno
+cancels
 cubitocarpal
 cubitocutaneous
 cumaean
