@@ -6253,7 +6253,6 @@ deriving
 derma
 dermabrasion
 debarbarize
-dithyramb
 defet
 dermal
 degrades
@@ -17280,6 +17279,7 @@ droddum
 drofland
 digresser
 dentinasal
+dithyramb
 droger
 dictyogenous
 drogerman
