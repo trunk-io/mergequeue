@@ -5598,6 +5598,7 @@ beys
 beisa
 beisance
 bioscopes
+bouvier
 brutified
 beyship
 bribeable
@@ -6460,7 +6461,6 @@ blinks
 benzene
 benzenediazonium
 benzenes
-bouvier
 benzenyl
 benzenoid
 billsticking
