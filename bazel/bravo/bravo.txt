@@ -2124,6 +2124,7 @@ blamer
 buyers
 bannockburn
 bannocks
+boilinglike
 bivittate
 banovina
 banquet
@@ -11909,7 +11910,6 @@ beylik
 boedromion
 bloodthirstiest
 brevirostrate
-boilinglike
 bassara
 barabora
 boehmenism
