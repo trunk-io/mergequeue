@@ -10564,7 +10564,6 @@ amidoplastid
 amidoxy
 amidoxyl
 amidrazone
-amids
 amidship
 ascaris
 accoy
@@ -13096,6 +13095,7 @@ anhele
 anhelose
 anhematopoiesis
 anhemitonic
+amids
 anarthropodous
 anhemolytic
 anhyd
