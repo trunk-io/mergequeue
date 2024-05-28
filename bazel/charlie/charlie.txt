@@ -22767,7 +22767,6 @@ conquerer
 conquerers
 conqueress
 conquering
-conqueringly
 conquerment
 conqueror
 conquerors
@@ -26955,6 +26954,7 @@ cartonniers
 counterjudging
 counterjumper
 crosne
+conqueringly
 colliquativeness
 copperleaf
 counterlath
