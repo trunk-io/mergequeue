@@ -12595,7 +12595,6 @@ disjoin
 discourage
 disjoinable
 disjoining
-deemphasis
 descendentalist
 disjointed
 dipl
@@ -18105,6 +18104,7 @@ dumbstricken
 dumbstruck
 demagnetize
 dumbwaiter
+deemphasis
 dumdum
 dumdums
 dumetose
