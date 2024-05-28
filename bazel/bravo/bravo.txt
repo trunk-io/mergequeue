@@ -1188,7 +1188,6 @@ bakal
 biasteric
 bake
 benettle
-brew
 bonus
 burrish
 bibliographer
@@ -16191,6 +16190,7 @@ brownest
 brownier
 bednighted
 brownies
+brew
 bivouac
 behead
 browniest
