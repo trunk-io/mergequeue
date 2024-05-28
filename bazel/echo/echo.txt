@@ -6558,6 +6558,7 @@ elaterid
 exolemma
 ensearch
 emove
+expensed
 eligenda
 endothecate
 enterobacterial
@@ -13043,7 +13044,6 @@ edificial
 enfonced
 envoi
 ephedrin
-expensed
 epimyocardium
 expensefully
 epidermomycosis
