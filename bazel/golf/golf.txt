@@ -1356,7 +1356,6 @@ gardinol
 grippers
 gurgled
 gazania
-gestation
 garefowl
 garetta
 garewaite
@@ -6763,6 +6762,7 @@ garce
 goniatites
 guttler
 grint
+gestation
 glucid
 gobmouthed
 guiltful
