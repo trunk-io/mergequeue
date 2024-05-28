@@ -7175,7 +7175,6 @@ centralness
 caracas
 centranth
 centrarchid
-centrarchoid
 compare
 centraxonia
 centraxonial
@@ -16316,6 +16315,7 @@ clinology
 clinometer
 clinometry
 clinometric
+centrarchoid
 cantos
 clinometrical
 clinophobia
