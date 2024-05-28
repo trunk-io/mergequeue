@@ -6829,6 +6829,7 @@ entom
 extender
 episternalia
 expressionful
+equuleus
 entombed
 eumenes
 ectosarcs
@@ -8799,7 +8800,6 @@ explainers
 endocline
 equivoque
 equoidean
-equuleus
 eucalypt
 erade
 exhedra
