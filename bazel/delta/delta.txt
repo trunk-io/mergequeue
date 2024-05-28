@@ -3171,7 +3171,6 @@ defensing
 duringly
 defaultant
 defaulted
-defaultless
 defaults
 defaulture
 dowie
@@ -14554,6 +14553,7 @@ degradation
 demiurgically
 dysfunction
 damourite
+defaultless
 divorcible
 diminue
 developmentary

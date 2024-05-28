@@ -2175,6 +2175,7 @@ accedence
 achillean
 achilleas
 agglutinations
+aerographies
 achilleine
 achilles
 alfin
@@ -5021,7 +5022,6 @@ aerograph
 americium
 aerography
 aerographical
-aerographies
 aerogun
 aerohydrodynamic
 aerohydropathy
