@@ -2169,7 +2169,6 @@ graptolitoidea
 gump
 gawky
 ghouls
-gemul
 gonystylaceae
 gawkihood
 guggles
@@ -10063,6 +10062,7 @@ guerison
 galvanizations
 guerites
 gundelow
+gemul
 guernsey
 gyneconitis
 girly
