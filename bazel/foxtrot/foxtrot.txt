@@ -10493,7 +10493,6 @@ folkvangr
 foxfinger
 fluyt
 fervencies
-felsosphaerite
 frostroot
 fanwork
 frillery
@@ -11421,6 +11420,7 @@ flect
 fess
 floralize
 furnish
+felsosphaerite
 furnishable
 fluoroformol
 foolship
