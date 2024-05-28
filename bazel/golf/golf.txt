@@ -4485,7 +4485,6 @@ gingivae
 gingival
 gamps
 goats
-gravitated
 glissade
 glaux
 guberniya
@@ -5932,6 +5931,7 @@ gametes
 gloveman
 glover
 glochines
+gravitated
 gnarlier
 glowbard
 gadinine
