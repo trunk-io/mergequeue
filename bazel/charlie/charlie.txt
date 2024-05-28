@@ -13250,7 +13250,6 @@ cytozoa
 cicatricle
 copastorate
 cicatricula
-cicatriculae
 cicatricule
 cicatrisant
 chipmucks
@@ -18765,6 +18764,7 @@ colation
 colatitude
 colatorium
 colazione
+cicatriculae
 colberter
 colbertine
 corinthianism
