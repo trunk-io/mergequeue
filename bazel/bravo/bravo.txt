@@ -5565,7 +5565,6 @@ behoving
 bitts
 behowled
 besmeared
-boisseau
 brouze
 bey
 bindi
@@ -9343,6 +9342,7 @@ bogo
 bourbonesque
 bipedality
 bipeds
+boisseau
 bipeltate
 bipennate
 built
