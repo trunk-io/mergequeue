@@ -14823,7 +14823,6 @@ bostonians
 breakneck
 breakoff
 breakout
-biphenyl
 breakpoint
 breakpoints
 breaks
@@ -16822,6 +16821,7 @@ basal
 bohemians
 blacky
 brachyprism
+biphenyl
 buffeted
 borderless
 beliked
