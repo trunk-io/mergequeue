@@ -7842,6 +7842,7 @@ aldermanship
 aldermen
 anaclasis
 alderney
+andouillette
 alders
 alderwomen
 annunciates
@@ -9790,7 +9791,6 @@ amah
 amahuaca
 assibilation
 amain
-andouillette
 amaist
 amaister
 amakebe
