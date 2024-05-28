@@ -1164,6 +1164,7 @@ editable
 elatrometer
 electrotypes
 edith
+epitrichial
 exsanguinated
 epistropheus
 encatarrhaphy
@@ -8426,7 +8427,6 @@ epitrachelion
 epitria
 episomes
 emicate
-epitrichial
 epitrochlear
 earplug
 expletively
