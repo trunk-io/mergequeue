@@ -390,7 +390,6 @@ fogged
 fastigated
 folkland
 fairground
-false
 fairhead
 fairy
 fairyhood
@@ -2310,6 +2309,7 @@ ficaria
 featherheaded
 feeding
 fenetre
+false
 fenman
 furrings
 favorably
