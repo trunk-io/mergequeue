@@ -24383,6 +24383,7 @@ craniophore
 cookroom
 caverning
 cookshop
+corbet
 cyanomethaemoglobin
 culpableness
 cookshops
@@ -24998,7 +24999,6 @@ corbeils
 corbelled
 corbelling
 corbels
-corbet
 corby
 cystine
 corbicula
