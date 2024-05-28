@@ -7241,7 +7241,6 @@ detecters
 decentralist
 damnified
 detectible
-detection
 detectives
 disparatum
 darklings
@@ -8302,6 +8301,7 @@ dispopularize
 disputableness
 demove
 dele
+detection
 diagonal
 diagonalizable
 diagonalization
