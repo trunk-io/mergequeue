@@ -4656,6 +4656,7 @@ arrowstone
 amulets
 assuagable
 advertizement
+amender
 allobars
 aromatizer
 advertizes
@@ -8884,7 +8885,6 @@ allocation
 allocations
 amyosthenia
 attal
-amender
 aqueoglacial
 allocator
 agynary
