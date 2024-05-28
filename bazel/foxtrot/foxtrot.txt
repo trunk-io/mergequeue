@@ -2661,7 +2661,6 @@ foreshoulder
 ferrule
 frumentation
 familiarisation
-ferrules
 fanman
 federalese
 fissionability
@@ -4383,6 +4382,7 @@ fibroglioma
 febricity
 fishplate
 fossa
+ferrules
 feste
 fishpole
 foodlessness
