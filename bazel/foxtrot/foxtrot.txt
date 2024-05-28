@@ -9947,7 +9947,6 @@ frozenly
 feverless
 flammable
 filibusters
-frictionless
 frictionproof
 festering
 forgiven
@@ -10824,6 +10823,7 @@ facepiece
 fricasseed
 fanegas
 fuddlement
+frictionless
 fuddler
 fuddles
 ferniest
