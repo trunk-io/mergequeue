@@ -11925,7 +11925,6 @@ doorba
 disinhumed
 discompose
 dwells
-disembargo
 disembarkation
 disembarkations
 domes
@@ -16371,6 +16370,7 @@ devout
 derelictions
 drainable
 downstate
+disembargo
 dolmens
 downstroke
 downstrokes
