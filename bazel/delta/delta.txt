@@ -3152,7 +3152,6 @@ defamation
 demiseason
 defamations
 defamatory
-daubing
 dentated
 defamed
 defames
@@ -12120,6 +12119,7 @@ delusion
 dorsulum
 dysesthesia
 disestimation
+daubing
 deferential
 dyophysitic
 dolichopellic
