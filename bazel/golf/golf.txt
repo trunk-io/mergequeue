@@ -1337,7 +1337,6 @@ gardeners
 glauconite
 gardenful
 gallberries
-gardenia
 gundeck
 giftlike
 gambiers
@@ -8992,6 +8991,7 @@ gnetums
 gentianwort
 grafters
 grotian
+gardenia
 grimes
 gingkoes
 guarana
