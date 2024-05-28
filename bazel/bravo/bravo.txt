@@ -5032,7 +5032,6 @@ beerbelly
 bees
 bucconidae
 beerhouse
-beerhouses
 beerily
 beeriness
 buccinidae
@@ -6780,6 +6779,7 @@ beryl
 bitemporal
 beryllonate
 beryllosis
+beerhouses
 berimed
 berimes
 bradypnoea
