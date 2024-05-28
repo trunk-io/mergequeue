@@ -4442,7 +4442,6 @@ everest
 encapsulation
 emitted
 encapsuled
-estimators
 encapsules
 enure
 encapsuling
@@ -5305,6 +5304,7 @@ endosteoma
 encoring
 endosteomata
 endosteum
+estimators
 exploitative
 equipments
 excarnate
