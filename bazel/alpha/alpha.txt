@@ -6704,7 +6704,6 @@ adenomeningeal
 afloat
 aiguelle
 askewness
-apterous
 amphoriskos
 apatosaurus
 aiguellette
@@ -7755,6 +7754,7 @@ anchoritical
 alcoholicity
 antonymic
 autoprothesis
+apterous
 archdeanery
 alcoholics
 alcoholimeter
