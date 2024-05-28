@@ -1503,6 +1503,7 @@ garrisonism
 gashing
 garrnishable
 gemeinde
+gelatinised
 garroo
 goldsmithry
 garroter
@@ -6373,7 +6374,6 @@ galvanometry
 gobble
 gobbled
 gobbledygook
-gelatinised
 glitteringly
 guatambu
 gobbler
