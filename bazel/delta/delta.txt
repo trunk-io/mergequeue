@@ -3257,6 +3257,7 @@ defendable
 dikast
 demimondaine
 defendant
+denaturiser
 dejeuners
 defendants
 defended
@@ -5469,7 +5470,6 @@ denuder
 douched
 dialysation
 downtrend
-denaturiser
 denumerable
 denumerably
 dolling
