@@ -2593,7 +2593,6 @@ gangways
 goofy
 grinnie
 grassing
-gena
 genal
 genapp
 gospodar
@@ -4233,6 +4232,7 @@ galaxiidae
 gymnasiarchy
 guadalcazarite
 gymnasiast
+gena
 gymnasic
 gonif
 generability
