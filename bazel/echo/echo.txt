@@ -4122,6 +4122,7 @@ emil
 entries
 emplanement
 entoilment
+enneacontahedral
 endoute
 emplanes
 emplaster
@@ -4430,7 +4431,6 @@ ectorganism
 emphasised
 etua
 encage
-enneacontahedral
 electrobioscopy
 encaged
 encages
