@@ -21604,7 +21604,6 @@ concurrently
 concurrentness
 corsepresent
 concurring
-concurs
 concursion
 concurso
 concuss
@@ -21923,6 +21922,7 @@ coulometry
 confederations
 cancellarian
 confederator
+concurs
 confelicity
 confer
 counterpanes
