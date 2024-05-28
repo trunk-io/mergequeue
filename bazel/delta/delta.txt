@@ -5612,6 +5612,7 @@ departs
 drainermen
 demicolumn
 depascent
+droich
 delphinoid
 digested
 diphthongic
@@ -16726,7 +16727,6 @@ dramatized
 degasses
 dramatizer
 displuviate
-droich
 dramaturgically
 diphtheritic
 decreement

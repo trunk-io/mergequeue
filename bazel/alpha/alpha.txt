@@ -5409,6 +5409,7 @@ abranchian
 afflictions
 archoplasm
 afflictive
+archmachine
 afflictively
 aluminosity
 avadavats
@@ -19113,7 +19114,6 @@ adigei
 archliar
 archlute
 amentias
-archmachine
 archmagician
 adread
 archmagirist
