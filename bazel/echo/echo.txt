@@ -3807,7 +3807,6 @@ expendables
 emendable
 emendandum
 ekerite
-emendations
 enterprisingly
 esthetical
 ethnohistorical
@@ -7267,6 +7266,7 @@ eons
 eopalaeozoic
 eophytic
 eyebree
+emendations
 erysipelothrix
 eophyton
 eloped
