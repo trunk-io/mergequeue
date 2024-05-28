@@ -8696,7 +8696,6 @@ artistdom
 allegorised
 adversifolious
 arbutus
-allegoriser
 allegorising
 aggression
 assimilativeness
@@ -16916,6 +16915,7 @@ aphonic
 aphonous
 aphorise
 aphorises
+allegoriser
 aphorising
 aphorismer
 aphorismical
