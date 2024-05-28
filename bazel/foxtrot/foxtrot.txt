@@ -913,6 +913,7 @@ fanums
 fenberry
 fortuitist
 fanwise
+feudalists
 flintlock
 falangism
 fadaise
@@ -2916,7 +2917,6 @@ fruitlet
 floorcloth
 febricide
 feudalist
-feudalists
 fractionising
 fustigation
 feudalizing
