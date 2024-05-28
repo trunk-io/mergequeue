@@ -2050,7 +2050,6 @@ dreidls
 dermatotomy
 decayers
 diarial
-decaying
 decayless
 duplicitous
 dummy
@@ -15287,6 +15286,7 @@ dorididae
 dolomitise
 dolomitization
 disjointedness
+decaying
 dumpty
 demerge
 dolomitize
