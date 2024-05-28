@@ -5246,6 +5246,7 @@ fusible
 fleabags
 fissidactyl
 fluorites
+foreroom
 fleabite
 fricandoes
 fleabites
@@ -7391,7 +7392,6 @@ forbow
 forestland
 fighter
 fasciculus
-foreroom
 forecasting
 featherwood
 frankenia
