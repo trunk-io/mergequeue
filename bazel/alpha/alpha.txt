@@ -1668,6 +1668,7 @@ acemetic
 attouchement
 accouters
 accoutre
+asherahs
 attire
 appurtenances
 accoutrement
@@ -5704,7 +5705,6 @@ aftertask
 aftertaste
 aftertastes
 ancestress
-asherahs
 achromatium
 afterthought
 afterthoughts
