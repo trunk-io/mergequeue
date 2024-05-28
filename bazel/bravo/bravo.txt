@@ -1229,7 +1229,6 @@ becreep
 blackshirt
 bakshishes
 bakshishing
-bakuba
 balanceman
 barathron
 blok
@@ -12646,6 +12645,7 @@ bonspiel
 bedplate
 bonteboks
 birthplace
+bakuba
 bontebuck
 bonum
 breathtaking
