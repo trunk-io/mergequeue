@@ -1316,7 +1316,6 @@ geneki
 griffes
 grimier
 grex
-garbline
 guib
 garblings
 garboard
@@ -4798,6 +4797,7 @@ glycolipide
 gyroscopes
 gastroplenic
 gesticulating
+garbline
 gyrotheca
 girouette
 girouettes
