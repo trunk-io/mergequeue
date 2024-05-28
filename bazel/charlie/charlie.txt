@@ -8628,6 +8628,7 @@ chanceless
 cestoda
 chancellery
 chancelleries
+contrafacture
 chancellorate
 chancelloress
 chancellors
@@ -23766,7 +23767,6 @@ contradistinctions
 contradistinctive
 coharmoniously
 contradistinctly
-contrafacture
 contrafissura
 contrafissure
 contraflexure

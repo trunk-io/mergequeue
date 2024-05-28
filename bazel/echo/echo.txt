@@ -1562,7 +1562,6 @@ egestion
 eyeable
 egestions
 egg
-ethmoid
 endosternum
 eggbeaters
 evoke
@@ -6899,6 +6898,7 @@ exsolved
 electroscopes
 eightsmen
 entomosporium
+ethmoid
 endangered
 ethylamide
 effluents
