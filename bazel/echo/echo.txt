@@ -4566,7 +4566,6 @@ encephalospinal
 externize
 encephalothlipsis
 encephalotome
-etheostoma
 encephalotomy
 edomite
 ethics
@@ -12514,6 +12513,7 @@ exiguously
 exilable
 exilarchate
 exile
+etheostoma
 excursion
 expiated
 enneagynous
