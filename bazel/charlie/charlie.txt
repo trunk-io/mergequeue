@@ -19429,7 +19429,6 @@ coloraturas
 colorature
 colorblind
 colorblindness
-colorbreed
 colorcast
 colorcasting
 colorcasts
@@ -27808,6 +27807,7 @@ cenosite
 coxcombity
 coxcombries
 coxcomically
+colorbreed
 coxed
 cissing
 collinear
