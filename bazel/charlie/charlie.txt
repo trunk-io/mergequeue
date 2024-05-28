@@ -3778,7 +3778,6 @@ carbolising
 carbolize
 carbolized
 carbolizes
-carbolizing
 carboloy
 carboluria
 chrisma
@@ -5364,6 +5363,7 @@ casten
 caster
 comprint
 casterless
+carbolizing
 cinemograph
 corncob
 casters
