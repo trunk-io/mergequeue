@@ -22285,7 +22285,6 @@ afterdrops
 astrobotany
 astrochemistry
 astrocytic
-astrocytoma
 astrocytomas
 ailerons
 asperger
@@ -22634,6 +22633,7 @@ athink
 athyria
 acronymous
 athyrid
+astrocytoma
 athyroid
 averruncate
 airings
