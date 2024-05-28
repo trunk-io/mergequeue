@@ -2956,6 +2956,7 @@ autolimnetic
 alleluja
 acrosphacelus
 acrospire
+amyloplastid
 acrospiring
 aneurysms
 ampoule
@@ -10661,7 +10662,6 @@ amylophagia
 amyloplast
 appertaining
 amyloplastic
-amyloplastid
 amylopsin
 amylose
 apprenticeship
