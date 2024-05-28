@@ -14797,6 +14797,7 @@ cystoplegia
 cystoproctostomy
 coccolobis
 cystopteris
+craftmanship
 cystoptosis
 cystopus
 cystoradiography
@@ -25090,7 +25091,6 @@ cordons
 cordovans
 cords
 cordula
-craftmanship
 corduroy
 crosscourt
 corduroyed
