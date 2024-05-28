@@ -9455,7 +9455,6 @@ flowerist
 frater
 frateries
 fells
-fraternality
 faultlessness
 filum
 floccilation
@@ -10490,6 +10489,7 @@ fabulate
 folkvangr
 foxfinger
 fluyt
+fraternality
 fervencies
 felsosphaerite
 frostroot

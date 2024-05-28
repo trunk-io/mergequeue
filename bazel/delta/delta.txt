@@ -1673,7 +1673,6 @@ deanery
 deaneries
 deanimalize
 deanships
-decoction
 deanthropomorphic
 deanthropomorphism
 deanthropomorphization
@@ -18265,6 +18264,7 @@ dunlins
 dartboard
 dunnaging
 demodulated
+decoction
 dunnakin
 dunne
 desiccant
