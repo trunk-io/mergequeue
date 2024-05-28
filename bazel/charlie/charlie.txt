@@ -7575,7 +7575,6 @@ consummations
 colloquies
 cercises
 cercocebus
-cercolabes
 cercolabidae
 cercomonad
 cercomonadidae
@@ -30003,6 +30002,7 @@ crouche
 crouched
 crouches
 crouchie
+cercolabes
 cahnite
 crankiest
 crouchingly
