@@ -2241,6 +2241,7 @@ elecives
 electant
 electary
 epithet
+enunciable
 eudiometric
 enthraldom
 erected
@@ -14179,7 +14180,6 @@ endogamy
 emancipate
 exults
 exumbral
-enunciable
 endophytal
 exundancy
 elderbrotherly
