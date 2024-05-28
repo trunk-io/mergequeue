@@ -6829,7 +6829,6 @@ foliate
 foliated
 foreadvertise
 foliates
-filopodium
 foliation
 folily
 facemaking
@@ -8324,6 +8323,7 @@ formicative
 fingerprinted
 fibrillous
 foreflap
+filopodium
 forklift
 forklike
 frangulaceae
