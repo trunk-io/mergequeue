@@ -8103,7 +8103,6 @@ alfaquis
 amoebean
 alfenide
 alferes
-alferez
 alfet
 authentical
 anachueta
@@ -15934,6 +15933,7 @@ aglobulism
 antiplanet
 antiplastic
 antiplatelet
+alferez
 antipleion
 apolaustic
 antiplethoric
