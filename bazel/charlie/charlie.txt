@@ -10134,6 +10134,7 @@ coleochaete
 chesoun
 chess
 chessart
+cravers
 chessboard
 chessboards
 chessdom
@@ -28356,7 +28357,6 @@ cravenly
 cravens
 clod
 craver
-cravers
 carboxy
 cravingness
 cravings
