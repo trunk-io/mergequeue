@@ -2645,7 +2645,6 @@ barken
 beknights
 barkentine
 barkentines
-barker
 barkery
 bub
 behn
@@ -3688,6 +3687,7 @@ became
 batistes
 beastly
 bumpoff
+barker
 batlet
 batlike
 bifanged
