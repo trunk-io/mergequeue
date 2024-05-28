@@ -10564,7 +10564,6 @@ amidoplast
 amaryllid
 amidoplastid
 amidoxy
-amidoxyl
 amidrazone
 amids
 amidship
@@ -24540,6 +24539,7 @@ auxotrophy
 avadana
 avadavat
 aleuroscope
+amidoxyl
 avadhuta
 armorist
 alloyed
