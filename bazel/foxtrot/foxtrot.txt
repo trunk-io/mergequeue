@@ -2723,7 +2723,6 @@ flaggella
 fwd
 falanaka
 fervidly
-fervor
 forecar
 formicivorous
 funnier
@@ -11111,6 +11110,7 @@ finagled
 functionize
 flockless
 functionnaire
+fervor
 functions
 flagitiously
 functors

@@ -10508,7 +10508,6 @@ capiases
 chylaceous
 chilalgia
 curagh
-chylangioma
 chylaqueous
 chilaria
 coppernose
@@ -25715,6 +25714,7 @@ completed
 corpuscularity
 corpuscule
 corpusculous
+chylangioma
 corpusculum
 corradial
 corradiate
