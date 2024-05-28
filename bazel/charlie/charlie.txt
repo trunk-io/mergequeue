@@ -18878,7 +18878,6 @@ colics
 colicwort
 colies
 cocinero
-coliform
 coliforms
 cellarets
 codisjunct
@@ -19314,6 +19313,7 @@ colombina
 choroidal
 crimsonly
 colon
+coliform
 colonaded
 causson
 colonate
