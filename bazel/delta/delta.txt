@@ -2490,7 +2490,6 @@ diphase
 dramshops
 decision
 decisional
-decisions
 decisis
 decisive
 decisively
@@ -5182,6 +5181,7 @@ denarcotize
 drills
 dismayingly
 dingeys
+decisions
 deferment
 dasyurid
 dendrophile
