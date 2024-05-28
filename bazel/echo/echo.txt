@@ -2215,6 +2215,7 @@ enlink
 elasticin
 esthesia
 eldress
+excludes
 embillow
 encipherer
 endotoxoid
@@ -12039,7 +12040,6 @@ exclaves
 exclosure
 excavational
 everyone
-excludes
 exampleship
 exclusion
 eigenspace
