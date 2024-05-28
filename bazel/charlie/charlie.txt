@@ -4011,6 +4011,7 @@ cardcases
 cardecu
 carded
 cardel
+conidioid
 carder
 cardholder
 cardia
@@ -22440,7 +22441,6 @@ conidae
 conidial
 champlainic
 conidian
-conidioid
 conidiophorous
 conidiospore
 conacaste
