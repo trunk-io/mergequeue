@@ -2530,6 +2530,7 @@ bargainable
 billbugs
 bullbat
 bargainer
+barndoor
 bargaining
 beechwoods
 bhut
@@ -2719,7 +2720,6 @@ bewaitered
 barnard
 barnbrack
 brachyprosopic
-barndoor
 barneys
 barnhardtite
 barnyard
