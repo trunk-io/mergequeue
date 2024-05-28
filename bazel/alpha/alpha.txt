@@ -14314,7 +14314,6 @@ anterointernal
 anterolateral
 anterolaterally
 anteromedial
-anteromedian
 agiotages
 anteroom
 anterooms
@@ -17776,6 +17775,7 @@ almandite
 apperceived
 apperceptionism
 apperceptionist
+anteromedian
 apperceptively
 appere
 alkalizate
