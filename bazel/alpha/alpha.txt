@@ -21048,7 +21048,6 @@ angelologic
 ascidiform
 ascidioid
 ascidioida
-ascidioidea
 ascidiozoa
 ascidiozooid
 asciferous
@@ -24793,6 +24792,7 @@ avys
 augitite
 atractaspis
 almas
+ascidioidea
 antluetic
 avision
 avisos
