@@ -15641,7 +15641,6 @@ botanophile
 broadsides
 broadsiding
 broadspread
-broadsword
 broadwayite
 bamangwato
 blushful
@@ -17292,6 +17291,7 @@ bumelia
 boltings
 biomaterial
 bactericidally
+broadsword
 beautifully
 brickmaking
 bumfeg
