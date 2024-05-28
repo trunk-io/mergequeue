@@ -9291,7 +9291,6 @@ formalazine
 frontispieced
 flary
 fraktur
-framboise
 fasciolet
 forgeries
 falcopern
@@ -10035,6 +10034,7 @@ forensically
 frigoric
 foun
 flacourtia
+framboise
 foamiest
 feracity
 firelike
