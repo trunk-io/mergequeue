@@ -7106,7 +7106,6 @@ gopak
 gopherberry
 glossate
 gowdy
-gopherberries
 gummers
 gist
 glaucously
@@ -9475,6 +9474,7 @@ genotypically
 gisla
 groupwise
 goloch
+gopherberries
 graeculus
 grouseberry
 groused
