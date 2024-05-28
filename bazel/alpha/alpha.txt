@@ -4598,7 +4598,6 @@ acrography
 adventual
 adventured
 anniversariness
-adventurement
 adventureship
 adventuresome
 adventuresomely
@@ -18315,6 +18314,7 @@ aqueous
 aberuncator
 anapneic
 aquiclude
+adventurement
 aquicolous
 athericerous
 aquifer
