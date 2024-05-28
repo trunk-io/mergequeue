@@ -7778,7 +7778,6 @@ alcoholmeter
 airmass
 anemogram
 alcoholmetric
-acroter
 abaissed
 adelpholite
 allows
@@ -14548,6 +14547,7 @@ anthrylene
 anthrohopobiological
 armigero
 aclinal
+acroter
 anthrol
 answerer
 andouille
