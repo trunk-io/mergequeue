@@ -556,7 +556,6 @@ gamodemes
 galvanotaxis
 galleyworm
 geneat
-glimpsed
 galleon
 galleons
 galler
@@ -3610,6 +3609,7 @@ gaunter
 gitana
 getspace
 geraniales
+glimpsed
 gracile
 gettableness
 glossolaly
