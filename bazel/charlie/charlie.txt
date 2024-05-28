@@ -19786,6 +19786,7 @@ combre
 combretaceae
 combs
 combure
+coverlid
 comburendo
 comburent
 comburgess
@@ -27583,7 +27584,6 @@ comped
 coverlets
 circumambiently
 consumation
-coverlid
 coverlids
 covers
 caller
