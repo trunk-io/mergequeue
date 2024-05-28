@@ -3524,7 +3524,6 @@ defoliation
 defoliations
 defoliator
 decenary
-disjunct
 dichroscope
 deuteroprism
 deforced
@@ -6871,6 +6870,7 @@ delineative
 desmography
 desmoid
 desmoids
+disjunct
 desmology
 dupla
 desmoncus

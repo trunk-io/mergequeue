@@ -2857,7 +2857,6 @@ acrogen
 acrogenous
 ashthroat
 acrogynous
-arkosic
 acrolein
 alcaligenes
 accidies
@@ -12266,6 +12265,7 @@ anchoritish
 anchoritism
 alfilaria
 anchorlike
+arkosic
 anchorman
 ayatollahs
 anchormen
