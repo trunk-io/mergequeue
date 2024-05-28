@@ -1668,7 +1668,6 @@ accouters
 accoutre
 attire
 appurtenances
-accoutrement
 accoutrements
 angioclast
 accoutres
@@ -15485,6 +15484,7 @@ antilysin
 antilysis
 antilyssic
 antilithic
+accoutrement
 antilytic
 antilitter
 antiliturgy
