@@ -7244,7 +7244,6 @@ frozenness
 floorboards
 fameuse
 footstall
-fancysick
 fortlet
 footwalk
 footwarmer
@@ -7799,6 +7798,7 @@ finning
 fogging
 ferrotyped
 formosan
+fancysick
 fattiest
 forenames
 fecundify
