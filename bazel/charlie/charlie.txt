@@ -1438,7 +1438,6 @@ calyptriform
 calyptrimorphous
 calyptro
 calyptrogyne
-carnosin
 cervicodorsal
 calisayas
 calista
@@ -30120,6 +30119,7 @@ crucian
 crucianella
 crucians
 cruciate
+carnosin
 cruciately
 cruciating
 cruciation
