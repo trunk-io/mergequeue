@@ -1835,6 +1835,7 @@ febrific
 fougue
 fleshless
 feloid
+frontwise
 febrile
 fluidizer
 febrility
@@ -2471,7 +2472,6 @@ freebooty
 feudum
 fermentability
 flagelliferous
-frontwise
 fopdoodle
 fermentable
 fermentate
