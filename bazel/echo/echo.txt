@@ -3243,7 +3243,6 @@ elute
 eluting
 elution
 enzymatically
-eigenstate
 epirotulian
 elutriated
 elutriation
@@ -5296,6 +5295,7 @@ epithelioceptor
 endosporic
 encharm
 endows
+eigenstate
 endostea
 embroiderers
 epiphyte
