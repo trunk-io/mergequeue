@@ -1204,7 +1204,6 @@ ganza
 grazers
 gowdnie
 guffin
-gigantology
 gaol
 grift
 gaoled
@@ -2546,6 +2545,7 @@ gazel
 guardship
 genistin
 gemmological
+gigantology
 gemmologist
 gentlemanism
 gulper
