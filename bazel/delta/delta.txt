@@ -11008,7 +11008,6 @@ disambiguate
 disambiguating
 deadheadism
 deoxyribonucleic
-disanalogy
 disanalogous
 disanchor
 disanimal
@@ -16799,6 +16798,7 @@ dravidian
 dravidic
 diplomate
 dravite
+disanalogy
 draw
 dongon
 drawability
