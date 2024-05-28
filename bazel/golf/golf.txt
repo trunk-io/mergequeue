@@ -1756,7 +1756,6 @@ gibs
 gastrocolotomy
 gastrodermal
 gastrodermis
-gpd
 gnotobiote
 goosemouth
 guayabo
@@ -4718,6 +4717,7 @@ gamogenetical
 girlfully
 greatened
 gnathidium
+gpd
 girlhoods
 gyrophoric
 girliness
