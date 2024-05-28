@@ -2382,7 +2382,6 @@ flywire
 floaters
 farthermost
 favel
-fere
 fanhouse
 feres
 flytings
@@ -6647,6 +6646,7 @@ foder
 foederati
 frontes
 flunkeyhood
+fere
 fillip
 foehn
 foehnlike
