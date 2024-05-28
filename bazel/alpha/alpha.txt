@@ -12199,6 +12199,7 @@ anaudic
 anaunters
 anauxite
 aggressive
+arithmetically
 anax
 anaxagorean
 alienicola
@@ -19849,7 +19850,6 @@ arith
 ambatch
 arithmancy
 arithmetic
-arithmetically
 anfeeld
 autophthalmoscope
 aoudads
