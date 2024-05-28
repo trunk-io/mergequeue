@@ -5768,7 +5768,6 @@ amphidromia
 againward
 ardeid
 agal
-agalactic
 agalawood
 animalcule
 appoggiaturas
@@ -12886,6 +12885,7 @@ angiotripsy
 angiotrophic
 angiport
 angka
+agalactic
 autoinductive
 angkhak
 ammoniticone
