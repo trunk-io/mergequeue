@@ -2531,7 +2531,6 @@ acockbill
 antireduction
 acocotl
 acoela
-acoelomata
 acoelomate
 anisotropal
 alpenhorn
@@ -5189,6 +5188,7 @@ audivision
 aesthete
 aesthetes
 aesthetic
+acoelomata
 archsacrificator
 aestheticism
 aestheticist
