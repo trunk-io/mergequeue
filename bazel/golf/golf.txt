@@ -5012,7 +5012,6 @@ gaff
 gladiatorship
 guttersnipe
 guessed
-gladiatrix
 gonoph
 gladier
 goutwort
@@ -10589,6 +10588,7 @@ greenockite
 glazier
 gyrochrome
 gunpoint
+gladiatrix
 goy
 gunpoints
 gunpowdery
