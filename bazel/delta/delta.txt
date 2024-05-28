@@ -10429,7 +10429,6 @@ diphenylaminechlorarsine
 diphenylchloroarsine
 diospyros
 diphenylene
-diphenylenimine
 ditcher
 diphenylguanidine
 diphenylhydantoin
@@ -13790,6 +13789,7 @@ dalteen
 debunk
 dissuades
 dissuading
+diphenylenimine
 determinations
 disturbedly
 disenchants
