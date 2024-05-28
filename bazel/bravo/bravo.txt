@@ -2778,7 +2778,6 @@ backtack
 bailouts
 becapping
 baronetcies
-buboed
 bookies
 bookit
 burmannia
@@ -4623,6 +4622,7 @@ bedabble
 beagles
 bequirtle
 bedabbling
+buboed
 barricadoed
 berceau
 buttonholer
