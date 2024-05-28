@@ -3416,7 +3416,6 @@ caprioles
 capriote
 capriped
 capripede
-chordotonal
 cytosporina
 caducecaducean
 capris
@@ -27591,6 +27590,7 @@ coverlids
 covers
 caller
 coverside
+chordotonal
 coversine
 clairce
 coverslip

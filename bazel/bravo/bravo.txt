@@ -2101,7 +2101,6 @@ bollixing
 byzant
 balkanization
 banlieue
-bannat
 basaltoid
 bouleuteria
 bannerfish
@@ -18337,6 +18336,7 @@ buttressed
 breviped
 buttressing
 buttressless
+bannat
 bookstack
 buttresslike
 bromiodide
