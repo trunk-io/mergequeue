@@ -10809,7 +10809,6 @@ aminogen
 anticonstitutionalist
 abolete
 ammiaceous
-amminolysis
 aerobacteriologically
 amminolytic
 ammiolite
@@ -15333,6 +15332,7 @@ aminobenzamide
 antifideism
 antifire
 aeronautics
+amminolysis
 antiflash
 antiflattering
 antiflatulent
