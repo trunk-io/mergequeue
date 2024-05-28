@@ -1657,6 +1657,7 @@ egressed
 egresses
 estadal
 exiler
+elaborations
 expounded
 eminency
 egret
@@ -14067,7 +14068,6 @@ epidendral
 extraverted
 errantry
 excogitable
-elaborations
 extravillar
 epigastral
 expanses
