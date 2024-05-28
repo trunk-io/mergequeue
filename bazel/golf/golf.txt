@@ -8542,7 +8542,6 @@ glowbird
 gallied
 guidons
 gantlines
-garlicmonger
 gozzard
 goldfielder
 gramaries
@@ -9522,6 +9521,7 @@ globulitic
 geosynclinal
 grouze
 glarry
+garlicmonger
 groved
 glaucophanize
 groveled
