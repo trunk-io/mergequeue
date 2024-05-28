@@ -9055,7 +9055,6 @@ brutalize
 bioecological
 bioecologically
 bioecologist
-bioelectric
 bioelectrical
 bilboquet
 bioelectricity
@@ -17881,6 +17880,7 @@ busaos
 busbar
 busbars
 bragozzo
+bioelectric
 barotse
 barnburner
 banquetings
