@@ -4573,6 +4573,7 @@ carnivals
 carnivora
 carnivoracity
 carnivoral
+ceratitoid
 carnivore
 carnivorism
 carnivority
@@ -11552,7 +11553,6 @@ choristoma
 choirman
 colonizations
 campuses
-ceratitoid
 choirmasters
 choyroot
 casper
