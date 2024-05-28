@@ -2172,6 +2172,7 @@ fumatories
 fazendeiro
 fluorescence
 folkmoot
+fasted
 flatfooting
 felonwort
 feriae
@@ -11008,7 +11009,6 @@ floyd
 fumatory
 fumatoria
 fumatoriums
-fasted
 freesilverism
 fumble
 fumbled
