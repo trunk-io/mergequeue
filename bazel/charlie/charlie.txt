@@ -4733,7 +4733,6 @@ casteism
 carpings
 carpintero
 carpinus
-carpiodes
 carpium
 carpocace
 contagia
@@ -23335,6 +23334,7 @@ consultantship
 consultary
 consultatively
 consultatory
+carpiodes
 clarksville
 ceiled
 cliquishness
