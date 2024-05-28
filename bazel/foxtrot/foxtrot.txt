@@ -2713,7 +2713,6 @@ frighteningness
 furandi
 ferulae
 floodwall
-frenzies
 faithing
 flaggella
 fwd
@@ -11522,6 +11521,7 @@ frictionize
 fusariosis
 fusate
 fusc
+frenzies
 fuscin
 fuscohyaline
 fibrolipomatous
