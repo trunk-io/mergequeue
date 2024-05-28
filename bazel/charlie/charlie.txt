@@ -7316,6 +7316,7 @@ cep
 cepa
 crisis
 cepaceous
+corky
 cepe
 cepes
 conchitis
@@ -20100,7 +20101,6 @@ comment
 commentable
 commentary
 commentarialism
-corky
 commentated
 cragsmen
 chaotically
