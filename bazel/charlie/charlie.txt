@@ -1183,6 +1183,7 @@ calderas
 centinormal
 cylindrarthrosis
 caldron
+charybdis
 campimetrical
 caldrons
 calean
@@ -9050,7 +9051,6 @@ charger
 charges
 charybdian
 crankman
-charybdis
 charicleia
 charier
 chariest
