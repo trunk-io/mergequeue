@@ -16764,7 +16764,6 @@ aperea
 aperient
 aperients
 aperiodic
-aperiodically
 ambulanced
 average
 aperiodicity
@@ -24177,6 +24176,7 @@ automan
 abrogators
 abbasid
 automata
+aperiodically
 absorptance
 automatable
 apidae
