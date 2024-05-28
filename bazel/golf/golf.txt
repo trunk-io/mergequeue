@@ -3122,7 +3122,6 @@ gentilhomme
 glottidean
 groundliness
 gelong
-glosses
 gallinacei
 glassed
 gurgle
@@ -8079,6 +8078,7 @@ gnatsnap
 gates
 granulet
 galuth
+glosses
 granulization
 gardened
 ghastful
