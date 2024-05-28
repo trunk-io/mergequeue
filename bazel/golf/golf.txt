@@ -34,6 +34,7 @@ grittiness
 gabbro
 gabbroid
 gabbroitic
+glycolic
 gabelleman
 gowf
 gaberdine
@@ -1419,7 +1420,6 @@ gervao
 gibier
 garlion
 grassant
-glycolic
 gerara
 guhr
 geometrina
