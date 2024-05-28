@@ -10272,7 +10272,6 @@ blacklegism
 blacklist
 blacklisted
 blacklister
-beparse
 blacklists
 brainer
 breviaries
@@ -17651,6 +17650,7 @@ burgoyne
 burgomasters
 burgomastership
 burgoo
+beparse
 bhakta
 burgraves
 burgraviate
