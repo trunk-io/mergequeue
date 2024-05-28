@@ -3258,7 +3258,6 @@ barrenwort
 bantingize
 basilica
 belverdian
-basilical
 basilican
 basilicate
 basilicock
@@ -13225,6 +13224,7 @@ bosomed
 bosomer
 bosominess
 bulker
+basilical
 beading
 bosoming
 bosoms
