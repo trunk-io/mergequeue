@@ -1777,7 +1777,6 @@ broquery
 baluchithere
 buses
 biretta
-balun
 balustrading
 balwarra
 balzarine
@@ -7401,6 +7400,7 @@ beclothing
 buccolingual
 betattering
 betaxed
+balun
 blepharoatheroma
 beehead
 boke
