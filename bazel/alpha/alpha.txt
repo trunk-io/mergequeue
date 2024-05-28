@@ -3983,7 +3983,6 @@ androgonium
 adjoint
 adjoints
 apieces
-adjourn
 adjournal
 arylamino
 adjourning
@@ -19278,6 +19277,7 @@ aeolsklavier
 arcking
 arclength
 apennine
+adjourn
 antiars
 arclike
 arco
