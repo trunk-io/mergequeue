@@ -3079,7 +3079,6 @@ centumvirate
 caparisons
 capataces
 capataz
-capcase
 craterid
 cape
 chequerboard
@@ -26153,6 +26152,7 @@ cosmic
 cosmical
 cosmicality
 corruptible
+capcase
 calcutta
 congruential
 cosmically
