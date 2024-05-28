@@ -3005,7 +3005,6 @@ barter
 barterers
 barters
 blood
-barth
 barthite
 bullace
 bartholomewtide
@@ -12333,6 +12332,7 @@ bandurrias
 bezzi
 baculi
 biophor
+barth
 beldame
 bonds
 boatful
