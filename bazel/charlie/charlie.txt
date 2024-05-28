@@ -6318,6 +6318,7 @@ causeuse
 causeuses
 cajaput
 causewayed
+chroming
 cannellated
 causewaying
 causewayman
@@ -12488,7 +12489,6 @@ celsitude
 chromidium
 chromidrosis
 chromyl
-chroming
 chromiole
 chromism
 chromite
