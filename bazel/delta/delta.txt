@@ -5200,6 +5200,7 @@ denes
 deny
 deices
 deniability
+defer
 deniable
 daughterlike
 deniably
@@ -5408,7 +5409,6 @@ demonograph
 deboshed
 dentinalgia
 donnees
-defer
 diminishes
 disgruntle
 dawned
