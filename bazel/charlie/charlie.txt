@@ -18397,7 +18397,6 @@ cognisableness
 calpulli
 coenosarcal
 cognisant
-cognises
 cognise
 coarct
 cognised
@@ -31044,6 +31043,7 @@ carburise
 cunea
 cuneal
 cuneately
+cognises
 cuneatic
 cuneator
 cunei
