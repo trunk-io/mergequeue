@@ -3636,7 +3636,6 @@ carancho
 caranday
 carandas
 crepidomata
-carangid
 carangidae
 carangids
 cooking
@@ -3942,6 +3941,7 @@ carceag
 carcel
 carcels
 carcer
+carangid
 chuumnapm
 cosmosphere
 carceral
