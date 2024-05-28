@@ -6408,7 +6408,6 @@ blimp
 barish
 bentlet
 blastie
-benton
 bentonite
 bents
 benu
@@ -17757,6 +17756,7 @@ bradded
 boilerhouse
 burnbeat
 bombshell
+benton
 burned
 bewreath
 burner
