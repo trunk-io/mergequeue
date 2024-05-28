@@ -12340,7 +12340,6 @@ dicyclica
 deathweed
 dishcloth
 decrepity
-despairer
 dishcloths
 dishclout
 dishcross
@@ -12673,6 +12672,7 @@ dislike
 dislikeable
 diacromyodian
 disliked
+despairer
 disliken
 duma
 dislikeness
