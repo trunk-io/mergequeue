@@ -15591,7 +15591,6 @@ clarissa
 counterraising
 certification
 cognomen
-censorate
 cyamelid
 clarissimo
 clarist
@@ -29592,6 +29591,7 @@ consociation
 croape
 croat
 carbogelatin
+censorate
 croatan
 confrontational
 croatian
