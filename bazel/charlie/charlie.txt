@@ -3314,7 +3314,6 @@ caponizer
 caponizing
 caponniere
 capons
-caporal
 caporals
 counterweighing
 capot
@@ -22226,6 +22225,7 @@ confustication
 confutability
 confutation
 confutator
+caporal
 confuters
 confutes
 confuting
