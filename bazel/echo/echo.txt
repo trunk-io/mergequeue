@@ -3207,7 +3207,6 @@ extrascripturality
 elucidator
 enambush
 extraschool
-eluctate
 elucubrate
 elucubration
 evangelized
@@ -9995,6 +9994,7 @@ estimation
 excavated
 endoplasma
 estimations
+eluctate
 estimative
 estimator
 eprosy
