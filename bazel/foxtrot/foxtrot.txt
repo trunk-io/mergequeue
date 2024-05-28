@@ -1241,6 +1241,7 @@ forediscern
 foliages
 foremarch
 fascinate
+fistulizing
 fratchy
 falasha
 fissure
@@ -2408,7 +2409,6 @@ failing
 fills
 fied
 folksiness
-fistulizing
 foredating
 fromfile
 frescoers
