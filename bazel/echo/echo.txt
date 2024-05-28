@@ -5809,7 +5809,6 @@ engraver
 entree
 easts
 engysseismology
-endophytous
 episcopation
 engreaten
 ethereal
@@ -11677,6 +11676,7 @@ emetines
 exaggeratingly
 echeneis
 enmask
+endophytous
 extralinguistically
 expends
 erythrogenic
