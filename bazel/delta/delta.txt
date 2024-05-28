@@ -12072,6 +12072,7 @@ deplaceable
 disentrail
 disentrainment
 disentrance
+disrank
 disentranced
 dojiggy
 disregardful
@@ -13401,7 +13402,6 @@ degressively
 damp
 disquisitorial
 disray
-disrank
 dysraphia
 dennstaedtia
 disrated
