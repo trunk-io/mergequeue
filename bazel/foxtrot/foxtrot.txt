@@ -7146,7 +7146,6 @@ flyways
 fesels
 footfolk
 fu
-fructiferousness
 fruticulture
 foremind
 foothalt
@@ -9783,6 +9782,7 @@ floatable
 forestick
 flycaster
 fevery
+fructiferousness
 filace
 frenchness
 fretworks
