@@ -13285,7 +13285,6 @@ amaltas
 animo
 anymore
 animose
-animoseness
 animosity
 animoso
 aftosas
@@ -21908,6 +21907,7 @@ assmanship
 associability
 associable
 associableness
+animoseness
 associated
 autovaccination
 associatedness
