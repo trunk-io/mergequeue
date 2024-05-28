@@ -3260,7 +3260,6 @@ ethnographic
 elvanitic
 elvet
 elvishly
-enigmatically
 elzevir
 echard
 elementate
@@ -6254,6 +6253,7 @@ electroengrave
 enringed
 enringing
 embalms
+enigmatically
 essenize
 enrober
 enrive
