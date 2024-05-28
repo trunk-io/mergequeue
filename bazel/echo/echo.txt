@@ -6699,7 +6699,6 @@ emotionalization
 endamebiasis
 entertaining
 embolomerous
-entertainingly
 entertainingness
 entertainment
 echimys
@@ -11528,6 +11527,7 @@ evince
 evincement
 endlessly
 evincible
+entertainingly
 ectopterygoid
 epicoela
 encephalitis
