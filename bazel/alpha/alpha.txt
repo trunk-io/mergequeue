@@ -8764,6 +8764,7 @@ allergin
 allergist
 allergists
 allergology
+adscript
 allerion
 assurable
 allethrin
@@ -10524,7 +10525,6 @@ amide
 amidid
 amidide
 antileft
-adscript
 amidin
 archicyte
 amidins
