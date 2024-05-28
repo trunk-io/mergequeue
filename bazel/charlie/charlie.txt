@@ -8402,7 +8402,6 @@ chalkos
 chalkosideric
 chalkotheke
 chalkpit
-chalkrail
 circumflect
 chalkstone
 chalkworker
@@ -21667,6 +21666,7 @@ condensing
 condensity
 condescend
 condescended
+chalkrail
 condescendence
 condescender
 condescending
