@@ -4985,7 +4985,6 @@ fuligo
 fumettes
 fitched
 faultfully
-footbeat
 fertilising
 fructus
 flareback
@@ -8443,6 +8442,7 @@ formicariae
 formicarioid
 fasciculate
 formicate
+footbeat
 felichthys
 fermentology
 franchiser
