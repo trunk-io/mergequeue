@@ -6625,6 +6625,7 @@ duststorm
 deselected
 deselecting
 desiccants
+dislevelment
 dauphiness
 desemer
 dichotomised
@@ -9679,7 +9680,6 @@ delignated
 diaphanometer
 dikaryophasic
 dikaryophyte
-dislevelment
 dikaryophytic
 dikaryotic
 dikdik
