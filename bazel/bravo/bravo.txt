@@ -6997,7 +6997,6 @@ betrim
 beshackle
 beshade
 begrudges
-beshadowed
 beshadowing
 beauxite
 biplosive
@@ -16825,6 +16824,7 @@ basal
 bohemians
 blacky
 brachyprism
+beshadowed
 buffeted
 borderless
 beliked
