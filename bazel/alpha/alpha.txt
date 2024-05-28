@@ -12919,7 +12919,6 @@ anglicans
 anglice
 anglicisation
 anglicism
-anglicisms
 anglicization
 anglicize
 anglicized
@@ -14468,6 +14467,7 @@ apometabolism
 anthophobia
 achingly
 attractancy
+anglicisms
 anthophora
 anthophorous
 awful
