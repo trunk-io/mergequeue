@@ -15480,7 +15480,6 @@ clankless
 chaldaic
 cuyas
 clankum
-clanless
 chloropia
 clannishness
 cradlemen
@@ -18601,6 +18600,7 @@ coin
 cooperativeness
 coyly
 corralled
+clanless
 coilyear
 coils
 coilsmith
