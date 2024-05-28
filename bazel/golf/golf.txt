@@ -1471,6 +1471,7 @@ garnisheed
 garnishes
 glossanthrax
 garnishment
+gamete
 glenlike
 garnison
 garniture
@@ -7055,7 +7056,6 @@ gigameter
 gregor
 gesticulation
 gooseberry
-gamete
 gossipmonger
 gastradenitis
 genealogist
