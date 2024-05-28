@@ -8191,7 +8191,6 @@ beshadow
 bicorporate
 bicostate
 bicrenate
-bicrofarad
 bicron
 bicrural
 bicultural
@@ -9178,6 +9177,7 @@ booky
 blubbery
 busheler
 boozers
+bicrofarad
 burnouts
 biontic
 biophagism
