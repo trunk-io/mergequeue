@@ -5214,6 +5214,7 @@ flax
 flaxboard
 fraternization
 foamer
+fusileer
 frondosely
 fourteenfold
 flammeous
@@ -11576,7 +11577,6 @@ flytier
 furanoses
 foxite
 flickered
-fusileer
 forpass
 fcs
 flummery
