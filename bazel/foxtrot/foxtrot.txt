@@ -2461,6 +2461,7 @@ feudum
 fermentability
 flagelliferous
 frontwise
+furcae
 fopdoodle
 fermentable
 fermentate
@@ -9465,7 +9466,6 @@ founts
 fondak
 fraternize
 fulica
-furcae
 fidgeter
 fraternized
 fulyie
