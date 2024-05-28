@@ -7334,7 +7334,6 @@ edrioasteroid
 endocarpic
 epanorthotic
 epapophysis
-evaporated
 evangeliser
 epilemmal
 epappose
@@ -8621,6 +8620,7 @@ exect
 equidiurnal
 eleutheromania
 ectrodactyly
+evaporated
 equidivision
 epigrammatising
 equippers
