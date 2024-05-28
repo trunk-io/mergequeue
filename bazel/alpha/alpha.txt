@@ -280,7 +280,6 @@ abduce
 abducens
 abducentes
 abduces
-articulate
 abducted
 abducting
 abductions
@@ -11825,6 +11824,7 @@ analyser
 analysers
 addressee
 arbitre
+articulate
 analyses
 analysing
 antimoniate
