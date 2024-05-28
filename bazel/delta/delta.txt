@@ -1173,7 +1173,6 @@ datableness
 datably
 datafile
 dillydallying
-dataflow
 datagram
 datagrams
 doormat
@@ -10458,6 +10457,7 @@ data
 duenna
 dialogued
 denotate
+dataflow
 diphonia
 daredevil
 dismiss

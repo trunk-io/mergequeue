@@ -607,6 +607,7 @@ blindfolder
 bactericides
 bacteriemia
 bacteriform
+briquette
 bacterin
 borofluoric
 bacterioblast
@@ -13510,7 +13511,6 @@ botulisms
 brief
 brodequin
 boubas
-briquette
 blepharoconjunctivitis
 boubou
 bouch
