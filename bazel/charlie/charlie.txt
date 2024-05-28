@@ -20779,6 +20779,7 @@ cytoplast
 chefdoms
 complexness
 cfi
+creaturize
 complexometry
 chandry
 complexometric
@@ -28520,7 +28521,6 @@ creatureling
 creatures
 carapo
 creatureship
-creaturize
 churchanity
 creaze
 crebricostate
