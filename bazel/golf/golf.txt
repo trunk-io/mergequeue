@@ -3165,7 +3165,6 @@ golliwog
 geomorphologist
 gravelroot
 georgian
-gadinic
 glutination
 geonavigation
 gabbart
@@ -4982,6 +4981,7 @@ glaciology
 globalist
 griffithite
 glaciologists
+gadinic
 glaciomarine
 gnetum
 gypaetus
