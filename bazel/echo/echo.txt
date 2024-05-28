@@ -11816,6 +11816,7 @@ entfaoilff
 exaun
 ectothermic
 endemiological
+exists
 exauthorate
 exauthorizeexc
 epileptics
@@ -12567,7 +12568,6 @@ existibility
 extant
 existing
 existlessness
-exists
 epistemological
 examining
 exit
