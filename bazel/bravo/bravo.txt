@@ -1567,6 +1567,7 @@ battling
 balletomania
 bigged
 ballets
+burse
 ballfield
 ballgame
 ballgames
@@ -12040,7 +12041,6 @@ boyardism
 beefing
 bartholomean
 boyardom
-burse
 balsamize
 boyau
 buybacks
