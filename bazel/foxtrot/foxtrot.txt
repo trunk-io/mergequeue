@@ -8314,7 +8314,6 @@ freakier
 forkier
 familiars
 formy
-forkiness
 forking
 forkless
 foozler
@@ -9417,6 +9416,7 @@ facing
 fettler
 fondant
 frenum
+forkiness
 forequoted
 feudatories
 franticly
