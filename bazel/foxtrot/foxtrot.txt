@@ -16,7 +16,6 @@ fablemaker
 fablemongering
 fuder
 foveolas
-fabler
 frankers
 foreboded
 fomenting
@@ -1592,6 +1591,7 @@ favorites
 favorless
 freudianism
 favosely
+fabler
 favosite
 frostbit
 flowerpots
