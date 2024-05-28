@@ -1568,6 +1568,7 @@ ballfield
 ballgame
 ballgames
 ballhawks
+bespeaking
 berley
 ballhooter
 balli
@@ -7173,7 +7174,6 @@ bushing
 backs
 boycottage
 botanized
-bespeaking
 bespeaks
 bespecked
 backrun
