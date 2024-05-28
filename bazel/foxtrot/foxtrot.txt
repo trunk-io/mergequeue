@@ -576,7 +576,6 @@ forerunners
 fleshpots
 foulmouthedly
 falltime
-fallway
 fuzzy
 falsary
 falsehearted
@@ -3008,6 +3007,7 @@ fazed
 fezzed
 fezzes
 fezzy
+fallway
 fadings
 forsake
 fleshiness
