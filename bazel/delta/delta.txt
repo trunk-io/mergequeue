@@ -9203,7 +9203,6 @@ digenesis
 dye
 dogship
 desoxycinchonine
-decalog
 diptych
 dyeability
 dyeable
@@ -9963,6 +9962,7 @@ deener
 dexterity
 diminutival
 diminutive
+decalog
 disgarrison
 dimiss
 deindustrialization
