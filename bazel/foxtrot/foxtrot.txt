@@ -2502,7 +2502,6 @@ fernery
 foremessenger
 fry
 fernyear
-frustulum
 fernlike
 flustrum
 fernshaw
@@ -3824,6 +3823,7 @@ fimbriating
 faciend
 farcer
 fiscal
+frustulum
 flet
 fimbriatum
 feral
