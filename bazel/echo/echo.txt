@@ -9018,7 +9018,6 @@ ericophyte
 eridanid
 erigeron
 erigerons
-erigible
 enhydrite
 eryhtrism
 ego
@@ -11429,6 +11428,7 @@ eventuality
 eventualize
 eventually
 eventuated
+erigible
 eventuating
 eveque
 epergnes
