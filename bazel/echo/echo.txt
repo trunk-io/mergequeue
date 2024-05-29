@@ -2931,7 +2931,6 @@ elflike
 elflock
 entelodon
 elflocks
-endermic
 elfship
 expressless
 elfwife
@@ -8859,6 +8858,7 @@ eyewort
 extent
 encroachment
 erd
+endermic
 estivate
 eyehook
 eagers
