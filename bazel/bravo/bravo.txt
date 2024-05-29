@@ -3550,7 +3550,6 @@ batch
 bumbass
 bissext
 birdcall
-batched
 batcher
 bargemen
 bogging
@@ -3734,6 +3733,7 @@ bergamots
 baculere
 batrachidae
 batrachium
+batched
 bailiffwick
 batrachophidia
 bats
