@@ -279,7 +279,6 @@ easters
 emblic
 exhumation
 eastertide
-enterolobium
 endark
 earmarks
 excusator
@@ -10625,6 +10624,7 @@ expenses
 euchysiderite
 epistolized
 endogenic
+enterolobium
 euchloric
 euchlorine
 elegize
