@@ -7637,7 +7637,6 @@ epiclinal
 epicnemial
 epicoele
 elkesaite
-epicoeliac
 etiologies
 epicoeloma
 epicoelous
@@ -13206,6 +13205,7 @@ eulogical
 expensive
 explicanda
 explicate
+epicoeliac
 eaglewood
 enterokinesia
 enterectomies
