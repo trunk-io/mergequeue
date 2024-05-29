@@ -2819,6 +2819,7 @@ garde
 geniculum
 golfing
 grasps
+gunnung
 genitor
 gauntry
 gripeful
@@ -10706,7 +10707,6 @@ gibed
 goldi
 gratias
 gymnorhininae
-gunnung
 gussets
 gussie
 gerenda
