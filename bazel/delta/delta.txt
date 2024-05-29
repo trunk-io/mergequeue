@@ -122,6 +122,7 @@ dacus
 dadayag
 determinability
 dadaism
+delimiters
 dadaistic
 dadaists
 denticule
@@ -9777,7 +9778,6 @@ dclass
 dilettanteship
 devaster
 dilettanti
-delimiters
 dilettantism
 dilettantist
 dilettantship
