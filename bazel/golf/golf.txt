@@ -3350,6 +3350,7 @@ germain
 german
 germany
 gisarme
+gonged
 gyro
 galtonia
 glycosemia
@@ -6746,7 +6747,6 @@ gusseted
 gonfanon
 gong
 gunreach
-gonged
 gekkota
 gonomery
 gongorist
