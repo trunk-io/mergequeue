@@ -1086,7 +1086,6 @@ farnesols
 frotting
 fogas
 flinger
-faro
 floriken
 floter
 foredestining
@@ -7739,6 +7738,7 @@ forelooper
 fudger
 forelouper
 foremade
+faro
 fanaticalness
 firearms
 fritters
