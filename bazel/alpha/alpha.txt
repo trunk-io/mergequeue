@@ -5241,6 +5241,7 @@ aeviternal
 anatomicomedical
 af
 afterpart
+alabastrum
 automate
 afara
 afd
@@ -7249,7 +7250,6 @@ alabastra
 alabastrian
 alabastrine
 alabastrites
-alabastrum
 ascenders
 alabastrums
 aethrioscope
