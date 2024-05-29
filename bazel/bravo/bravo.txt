@@ -8869,7 +8869,6 @@ bimorphs
 bimotored
 bimotors
 bruisers
-boloman
 bimucronate
 bumblebee
 bosc
@@ -15522,6 +15521,7 @@ bristles
 bristlewort
 backpacks
 boubous
+boloman
 babyhoods
 bristliness
 brucina
