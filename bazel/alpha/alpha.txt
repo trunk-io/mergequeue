@@ -3798,7 +3798,6 @@ adherent
 acetite
 adherents
 adherers
-adheres
 adherescence
 anticipatively
 archivolt
@@ -12576,6 +12575,7 @@ anencephalus
 anend
 anenst
 anent
+adheres
 anepia
 anepigraphic
 aflaunt

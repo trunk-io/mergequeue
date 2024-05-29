@@ -4765,6 +4765,7 @@ fasciolaria
 fullwords
 faena
 faunula
+farhands
 figurehead
 fra
 falsen
@@ -5361,7 +5362,6 @@ flamines
 firearmed
 fley
 fearers
-farhands
 frissons
 foxed
 flem
