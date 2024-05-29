@@ -2664,7 +2664,6 @@ barking
 barkinji
 barkless
 barklyite
-barkometer
 bescorch
 barkeepers
 butyr
@@ -11925,6 +11924,7 @@ balsamodendron
 boffos
 bungey
 boffs
+barkometer
 boozify
 bugseed
 bogach
