@@ -4349,6 +4349,7 @@ confidentiality
 carillonneur
 cityish
 carillonning
+chambul
 carillons
 carina
 carinae
@@ -25574,7 +25575,6 @@ coronadite
 coronado
 coronados
 coronae
-chambul
 coronagraph
 coronal
 cataphonics
