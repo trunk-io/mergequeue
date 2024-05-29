@@ -2704,7 +2704,6 @@ foreimpression
 ferule
 forfended
 frumpy
-fireshaft
 frillings
 feruled
 ferulic
@@ -10947,6 +10946,7 @@ fullonian
 ferrying
 franticness
 fullterm
+fireshaft
 fidgeters
 flavorful
 fulltime
