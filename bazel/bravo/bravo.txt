@@ -5057,7 +5057,6 @@ beest
 beestings
 bonytail
 beeswax
-beeswaxes
 bothriums
 beeswing
 bromonaphthalene
@@ -8269,6 +8268,7 @@ bieberite
 biedermeier
 ballute
 bivalencies
+beeswaxes
 bohawn
 bielbrief
 bloodbird
