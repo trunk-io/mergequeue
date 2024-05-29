@@ -8357,7 +8357,6 @@ dialect
 dirdum
 dialectal
 dialectalize
-dialectally
 darkishness
 ditrigonally
 dockmaster
@@ -18638,6 +18637,7 @@ duvetynes
 dux
 desquamate
 devaporation
+dialectally
 dourly
 deflagrability
 daishikis
