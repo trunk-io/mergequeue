@@ -3262,6 +3262,7 @@ caplin
 caplins
 cythera
 caplock
+crumen
 coherald
 cordmaker
 capmaking
@@ -30213,7 +30214,6 @@ crumbliness
 crumbs
 caging
 chittered
-crumen
 cloudscape
 crumena
 crumenal

@@ -3439,6 +3439,7 @@ fifteenths
 faineant
 fifty
 fifties
+frenchification
 fumiduct
 fiftieth
 forseen
@@ -9764,7 +9765,6 @@ flea
 frenchen
 fourchette
 frenchify
-frenchification
 freakful
 frenchly
 frenchman
