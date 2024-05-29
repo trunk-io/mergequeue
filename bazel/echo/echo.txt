@@ -6286,7 +6286,6 @@ emodin
 enrolls
 eumycetes
 enroot
-enrooted
 enroots
 embowed
 encirclement
@@ -6832,6 +6831,7 @@ entocone
 enwombing
 epulones
 entoglossal
+enrooted
 embonpoint
 entoil
 entoils
