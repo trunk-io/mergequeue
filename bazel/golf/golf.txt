@@ -3072,7 +3072,6 @@ gyropilot
 gyrencephalous
 guapilla
 geminorum
-ghosting
 geogeny
 genera
 grabblers
@@ -3866,6 +3865,7 @@ glossas
 gaulding
 giblet
 gratefully
+ghosting
 gaul
 guttar
 giblets
