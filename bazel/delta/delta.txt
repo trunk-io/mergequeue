@@ -2796,6 +2796,7 @@ dematerialization
 dotlike
 diagnoses
 decorticator
+dispositioned
 determinants
 decorticosis
 disoperation
@@ -13230,7 +13231,6 @@ dislocator
 disposing
 dicrotic
 dispositional
-dispositioned
 dispositions
 dietist
 dispositively
