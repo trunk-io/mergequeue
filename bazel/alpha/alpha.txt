@@ -3281,7 +3281,6 @@ aevum
 abrasives
 aculeae
 aculeata
-aculeated
 ambassiate
 atolls
 aculei
@@ -21223,6 +21222,7 @@ ashluslay
 abrogator
 avestan
 angster
+aculeated
 ashochimi
 ashore
 asiphonate
