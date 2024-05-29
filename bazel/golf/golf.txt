@@ -3667,6 +3667,7 @@ gantries
 groundsill
 glovers
 gimble
+gillygaupus
 gaminesses
 ghastliness
 gastropoda
@@ -9931,7 +9932,6 @@ guardianship
 guardo
 gallature
 gelasimus
-gillygaupus
 gumptions
 guarico
 guarish
