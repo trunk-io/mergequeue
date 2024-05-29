@@ -3746,7 +3746,6 @@ gracilariid
 ghostier
 ghostified
 gov
-galah
 glumelike
 ghostish
 grannom
@@ -5258,6 +5257,7 @@ gld
 glead
 gleam
 geyserine
+galah
 gametogony
 guzzler
 guss
