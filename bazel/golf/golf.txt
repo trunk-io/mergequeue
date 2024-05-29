@@ -6337,6 +6337,7 @@ gilo
 greaves
 goatskins
 geomyidae
+glauconitic
 gawkily
 goatstone
 gaum
@@ -8819,7 +8820,6 @@ grieving
 goosefoot
 graffito
 geronto
-glauconitic
 gonimic
 gressorious
 gentman
