@@ -1121,6 +1121,7 @@ farruca
 fibrilled
 fistulate
 farseeing
+frontoauricular
 fluoroid
 farseer
 farset
@@ -10409,7 +10410,6 @@ finalizations
 frontlash
 frontlessness
 faunus
-frontoauricular
 fathom
 fashionize
 frontolysis
