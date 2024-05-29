@@ -868,7 +868,6 @@ ectocondyle
 ectocondyloid
 efficient
 erroneous
-enchair
 ectocuneiform
 exocarps
 ectocuniform
@@ -13292,6 +13291,7 @@ epithecate
 explosions
 exorcisms
 explosively
+enchair
 explosiveness
 explosives
 electromyograph
