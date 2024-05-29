@@ -13669,7 +13669,6 @@ billboard
 bourasque
 bourbon
 baseliner
-bourbonism
 bourbonize
 bourder
 bourdon
@@ -15327,6 +15326,7 @@ bricklay
 brigous
 borasco
 bimonthly
+bourbonism
 brigs
 banchi
 broadbrim
