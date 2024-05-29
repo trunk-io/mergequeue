@@ -6421,6 +6421,7 @@ crankly
 canell
 cavefish
 cavefishes
+collinear
 cavey
 chromoscope
 cavekeeper
@@ -27799,7 +27800,6 @@ coxcombries
 coxcomically
 coxed
 cissing
-collinear
 coxendix
 cowishness
 coxes
