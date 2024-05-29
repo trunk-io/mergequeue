@@ -3562,6 +3562,7 @@ carabiniere
 carabinieri
 carabins
 caraboa
+cinques
 caraboid
 carabus
 caracara
@@ -14091,7 +14092,6 @@ corporature
 cinquefoiled
 cinquefoils
 cinquepace
-cinques
 cinter
 cynthia
 cynthiidae
