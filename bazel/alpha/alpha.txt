@@ -14445,6 +14445,7 @@ anthologies
 anthologise
 animates
 asphyxiates
+astigmism
 anthologised
 anthologising
 anthologized
@@ -22161,7 +22162,6 @@ astigmatoscope
 astigmatoscopy
 astigmia
 astigmic
-astigmism
 astigmometer
 astigmometry
 alluviate
