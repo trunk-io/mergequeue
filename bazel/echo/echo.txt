@@ -816,6 +816,7 @@ esthetes
 eschar
 ectadenia
 ectally
+evictor
 ectases
 enter
 extravisceral
@@ -11493,7 +11494,6 @@ evenhandedness
 explanatory
 eleocharis
 embodying
-evictor
 evictors
 evidence
 edeagra
