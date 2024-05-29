@@ -3216,6 +3216,7 @@ assertative
 activized
 assailability
 admonishing
+ambiguous
 aliners
 aid
 acton
@@ -10065,7 +10066,6 @@ ambiguity
 agabanee
 ambiguities
 abvolt
-ambiguous
 ambiguously
 anorthitite
 ambilateral

@@ -5203,7 +5203,6 @@ flavours
 flawed
 fluidities
 flawedness
-fishlike
 flawflower
 flawful
 fenbank
@@ -7863,6 +7862,7 @@ fname
 factiousness
 franklinia
 flagellariaceae
+fishlike
 fittyways
 foreruns
 fumishly
