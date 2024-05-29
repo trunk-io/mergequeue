@@ -5397,7 +5397,6 @@ castles
 cortaderia
 china
 castlet
-commercing
 candlesticked
 chairwoman
 castleward
@@ -17223,6 +17222,7 @@ chagrined
 coagule
 coagulin
 coaguline
+commercing
 coagulometer
 coagulose
 coahuiltecan
