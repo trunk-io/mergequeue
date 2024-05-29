@@ -1961,7 +1961,6 @@ bandsawn
 bandsman
 bandspreading
 bandstand
-beacon
 boronia
 beraked
 ballcarrier
@@ -11810,6 +11809,7 @@ buttes
 boden
 broiden
 baking
+beacon
 bodes
 braking
 beagle
