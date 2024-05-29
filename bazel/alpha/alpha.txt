@@ -10677,7 +10677,6 @@ acquirers
 amyloses
 amylosynthesis
 amylosis
-asthenosphere
 anathematiser
 amiloun
 amyls
@@ -21463,6 +21462,7 @@ aspergillosis
 acetylsalicylic
 aspergillum
 aseptify
+asthenosphere
 aspergillums
 aspergillus
 asperifoliae
