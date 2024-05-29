@@ -2209,6 +2209,7 @@ feltwort
 flaccidities
 flaggier
 felucca
+fungous
 felwort
 femaleness
 females
@@ -5676,7 +5677,6 @@ feedy
 fingerstone
 ferrate
 fleuronnee
-fungous
 finesses
 fuzzball
 face
