@@ -4590,7 +4590,6 @@ fixation
 fearfullest
 flatnose
 footslogs
-fdtype
 firetail
 frecked
 fixator
@@ -5945,6 +5944,7 @@ flakeless
 fictionistic
 fawny
 floorshow
+fdtype
 floorway
 fluidrachm
 fictioneering
