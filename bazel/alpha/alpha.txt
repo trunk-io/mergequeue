@@ -10128,7 +10128,6 @@ amblycephalidae
 adiposities
 aphronia
 amblycephalus
-amblychromatic
 amblydactyla
 amblygeusia
 agin
@@ -14536,6 +14535,7 @@ anthribidae
 anthryl
 azulmic
 adjudged
+amblychromatic
 antiburgher
 anthrylene
 anthrohopobiological
