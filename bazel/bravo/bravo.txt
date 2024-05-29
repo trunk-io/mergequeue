@@ -3566,7 +3566,6 @@ bubos
 blawort
 babelic
 besigh
-bater
 bates
 broadax
 batete
@@ -4631,6 +4630,7 @@ bouts
 befogged
 blastodisk
 bed
+bater
 bool
 bedabble
 beagles
