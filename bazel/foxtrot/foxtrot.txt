@@ -1077,7 +1077,6 @@ fuzzle
 fothergilla
 frieda
 fastigiately
-farmyard
 farmyardy
 farmout
 fisc
@@ -3560,6 +3559,7 @@ filaricidal
 filariform
 filariids
 foody
+farmyard
 filarious
 filatory
 filature
