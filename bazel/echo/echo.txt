@@ -1198,7 +1198,6 @@ editors
 editorship
 exhibitioner
 editorships
-elasticness
 epistemic
 encrown
 exhortatively
@@ -13532,6 +13531,7 @@ exsiccating
 exsiccator
 embowment
 exsolving
+elasticness
 epochs
 entosclerite
 eloquence
