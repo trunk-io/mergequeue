@@ -3497,6 +3497,7 @@ forcepses
 feuilletonist
 figurer
 flyweight
+fremt
 flocculous
 facebread
 figures
@@ -10320,7 +10321,6 @@ fantasmagoria
 fromenty
 fromenties
 fibromembranous
-fremt
 families
 fitten
 freightless
