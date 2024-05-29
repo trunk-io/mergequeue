@@ -3805,7 +3805,6 @@ battlement
 battlements
 barnstorms
 battler
-battles
 battleship
 battleships
 buhr
@@ -16254,6 +16253,7 @@ bespete
 brugh
 bibliotic
 brugnatellite
+battles
 brainfag
 bizone
 bruyere
