@@ -3550,7 +3550,6 @@ batch
 bumbass
 bissext
 birdcall
-batched
 batcher
 bargemen
 bogging
@@ -5527,6 +5526,7 @@ beheira
 bolter
 beachward
 behemoth
+batched
 behemothic
 behemoths
 behenate

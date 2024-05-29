@@ -2530,7 +2530,6 @@ echoist
 exactiveness
 electromagnetism
 endosmose
-electromagnetist
 escalloping
 egremoigne
 eyesores
@@ -9160,6 +9159,7 @@ ephebeum
 erythrodermia
 erythrogen
 embryogony
+electromagnetist
 emeried
 educe
 erythrol
