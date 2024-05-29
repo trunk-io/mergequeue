@@ -7725,6 +7725,7 @@ epidemic
 eriocaulaceous
 estrus
 entrancer
+encoder
 esprise
 extruder
 ectozoon
@@ -12525,7 +12526,6 @@ exiles
 ecologist
 exilian
 engrossing
-encoder
 escheatable
 exility
 epicormic
