@@ -1093,7 +1093,6 @@ enchants
 eqpt
 evaniidae
 edgar
-evitable
 edge
 edgebone
 emyd
@@ -11949,6 +11948,7 @@ eristical
 encuirassed
 exocataphoria
 edgeless
+evitable
 episcope
 excides
 exciding
