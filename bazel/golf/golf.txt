@@ -7570,7 +7570,6 @@ genicular
 gemmula
 grus
 grabhook
-grabouche
 gluside
 grabs
 glasgow
@@ -10718,6 +10717,7 @@ gairfish
 guytrash
 gustables
 gustard
+grabouche
 guergal
 grouping
 garnishable
