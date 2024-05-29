@@ -5251,6 +5251,7 @@ dion
 decursion
 denominant
 denominate
+deg
 denominates
 denomination
 denominational
@@ -8845,7 +8846,6 @@ defied
 dybbuks
 dibenzyl
 dibenzoyl
-deg
 dibenzophenazine
 dibenzopyrrole
 disproportionates
