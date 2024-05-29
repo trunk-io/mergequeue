@@ -2558,7 +2558,6 @@ beslash
 barging
 bargir
 bassetite
-barguest
 barguests
 buzylene
 barhops
@@ -5545,6 +5544,7 @@ behymn
 behind
 behindhand
 behinds
+barguest
 behindsight
 behint
 behither
