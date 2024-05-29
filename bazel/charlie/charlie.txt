@@ -8490,7 +8490,6 @@ chambers
 chambertin
 chambioa
 chambray
-colloquist
 chlorine
 chambrays
 chambranle
@@ -23767,6 +23766,7 @@ coharmoniously
 contradistinctly
 contrafacture
 contrafissura
+colloquist
 contrafissure
 contraflexure
 contrafocal
