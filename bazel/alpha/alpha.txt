@@ -13642,7 +13642,6 @@ astrophyllite
 announcing
 appaloosa
 annualize
-archeol
 annualized
 annually
 apair
@@ -15607,6 +15606,7 @@ antimixing
 antimnemonic
 algum
 antioxygenating
+archeol
 antimodel
 antimodern
 alimentatively

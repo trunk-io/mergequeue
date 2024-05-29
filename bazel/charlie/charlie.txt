@@ -5540,6 +5540,7 @@ catalexes
 catalexis
 catalin
 curule
+creditor
 cauponation
 contentful
 catalinite
@@ -28561,7 +28562,6 @@ crediting
 comd
 creditive
 creditless
-creditor
 curial
 creditress
 creditrix
