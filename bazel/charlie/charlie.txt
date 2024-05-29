@@ -13323,7 +13323,6 @@ cyclase
 cyclases
 ciclatoun
 cyclecar
-coralbells
 cyclecars
 counterextend
 cycledom
@@ -25077,6 +25076,7 @@ cordinar
 canicide
 cording
 cordis
+coralbells
 cordleaf
 cordlessly
 cordlike
