@@ -11624,7 +11624,6 @@ boarspear
 balloter
 belzebuth
 bacauan
-becarve
 boarts
 boarwood
 boas
@@ -16033,6 +16032,7 @@ bialis
 bemoil
 brooder
 broody
+becarve
 broodiest
 burgundian
 blackboard
