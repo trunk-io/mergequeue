@@ -5324,7 +5324,6 @@ affies
 arvicolous
 arcanum
 affile
-affiliable
 addio
 affiliated
 affiliating
@@ -19622,6 +19621,7 @@ argols
 anecdotal
 argonauta
 argonautid
+affiliable
 argonne
 argonon
 argons
