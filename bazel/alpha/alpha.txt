@@ -4115,7 +4115,6 @@ antihemolytic
 alabastrons
 administration
 administrational
-administrations
 administrative
 administratively
 administrators
@@ -5221,6 +5220,7 @@ aggrandisement
 aetiogenic
 arsenides
 adamancy
+administrations
 almagest
 aetiological
 aetiologies
