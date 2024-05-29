@@ -4449,6 +4449,7 @@ arousal
 adsorbability
 adsorbable
 angiothlipsis
+afortiori
 adsorbates
 adsorbed
 adsorbent
@@ -5524,7 +5525,6 @@ agenesic
 aforetimes
 ascogonial
 aphelops
-afortiori
 anisocycle
 afoul
 afray
