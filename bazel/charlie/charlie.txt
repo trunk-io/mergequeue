@@ -10129,7 +10129,6 @@ chessboard
 chessboards
 chessdom
 chessel
-chesser
 cabinda
 chesses
 chesset
@@ -18874,6 +18873,7 @@ coliforms
 cellarets
 codisjunct
 communicational
+chesser
 coliidae
 chaetophoraceae
 cavil
