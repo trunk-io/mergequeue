@@ -3123,7 +3123,6 @@ blasters
 boodledom
 bucrnia
 bloodcurdler
-belar
 bitterful
 baseborn
 birdlime
@@ -14792,6 +14791,7 @@ bilith
 barbershop
 bottlelike
 breakable
+belar
 breakableness
 bracket
 breakax
