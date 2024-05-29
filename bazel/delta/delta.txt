@@ -1691,7 +1691,6 @@ dissaturate
 dottel
 dearies
 dearling
-dephysicalization
 doorjambs
 dearn
 dearness
@@ -3402,6 +3401,7 @@ definitizing
 definitor
 dentils
 doles
+dephysicalization
 defis
 defix
 diddlers
