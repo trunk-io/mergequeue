@@ -3074,6 +3074,7 @@ deified
 deer
 decisionmake
 deerberry
+dsri
 disrealize
 diluent
 deerfly
@@ -17659,7 +17660,6 @@ disannulled
 diatonical
 dsname
 dsnames
-dsri
 discriminative
 druery
 defeminization
