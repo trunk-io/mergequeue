@@ -2307,7 +2307,6 @@ acichloride
 acyclic
 aciculae
 aciculate
-aciculum
 acid
 appassionato
 adjectitious
@@ -14708,6 +14707,7 @@ animalities
 antiagglutinative
 antiaggression
 antiaggressionist
+aciculum
 antiaggressively
 antiaggressiveness
 antialbumin
