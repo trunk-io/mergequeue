@@ -3978,7 +3978,6 @@ cornhusk
 carcinomatous
 carcinomorphic
 carcinophagous
-carcinopolypus
 carcinosarcoma
 chloralide
 carcinus
@@ -6273,6 +6272,7 @@ causal
 causalgia
 cacique
 causality
+carcinopolypus
 causalities
 causally
 causans
