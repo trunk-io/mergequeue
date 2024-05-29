@@ -3945,7 +3945,6 @@ fidleys
 forbore
 fingan
 fisticuffing
-fingerbreadth
 flatter
 fingerer
 fingerers
@@ -7847,6 +7846,7 @@ firestorm
 foreprize
 forepromise
 foreprovision
+fingerbreadth
 forepurpose
 fibrochondritis
 fraidycat
