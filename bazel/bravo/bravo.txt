@@ -4357,6 +4357,7 @@ bridges
 burlers
 beaver
 bluewood
+brethel
 burgonet
 beaverism
 bistoury
@@ -8750,7 +8751,6 @@ billionth
 barkingly
 billionths
 braggartism
-brethel
 boogyman
 bookable
 brawliest
