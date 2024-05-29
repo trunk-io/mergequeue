@@ -5297,7 +5297,6 @@ affectivity
 affectless
 affector
 affectum
-affectus
 atresias
 affeerer
 affeerment
@@ -11786,6 +11785,7 @@ anahau
 anahita
 anay
 anakinetomer
+affectus
 anakinetomeric
 anaktoron
 anal
