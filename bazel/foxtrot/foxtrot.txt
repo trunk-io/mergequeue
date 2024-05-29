@@ -4392,7 +4392,6 @@ faddy
 flashlamp
 familiarizations
 fishway
-frowst
 fishweed
 fico
 fishwood
@@ -8453,6 +8452,7 @@ formicide
 fishling
 formicine
 formicivora
+frowst
 formicoidea
 formidable
 floormen
