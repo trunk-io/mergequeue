@@ -3372,7 +3372,6 @@ glent
 glosseme
 glycic
 gonadectomy
-germanization
 gabback
 germanized
 germanizer
@@ -6942,6 +6941,7 @@ girllike
 galloman
 gooders
 goog
+germanization
 goodheartedness
 goody
 gratin
