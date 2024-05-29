@@ -5320,6 +5320,7 @@ affidation
 ais
 affidavy
 affidavit
+agomensin
 aviso
 affied
 affies
@@ -13740,7 +13741,6 @@ abys
 anodos
 anoegenetic
 alembics
-agomensin
 anoestrum
 apselaphesia
 amygdalothripsis
