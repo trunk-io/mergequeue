@@ -9203,7 +9203,6 @@ decalog
 diptych
 dyeability
 dyeable
-ditriglyph
 dieb
 diebacks
 durn
@@ -9704,6 +9703,7 @@ dilactone
 diocoel
 dilambdodont
 dilamination
+ditriglyph
 dylan
 dilaniate
 dribbling
