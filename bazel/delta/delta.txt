@@ -2718,7 +2718,6 @@ dialectics
 decongest
 darlingtonia
 decongestant
-decongestants
 dgag
 deltoidei
 decongesting
@@ -8469,6 +8468,7 @@ dorsiventrally
 dials
 ds
 dialuric
+decongestants
 defenestrated
 diamagnet
 decrescence
