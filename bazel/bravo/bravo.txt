@@ -7753,7 +7753,6 @@ bewry
 blockhole
 bewrite
 bankroller
-bullwhip
 braggardism
 bahar
 bairnteem
@@ -16454,6 +16453,7 @@ bedlamism
 brutalism
 brutalist
 brutalitarian
+bullwhip
 brutalitarianism
 billed
 brutalities
