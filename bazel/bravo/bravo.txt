@@ -3280,7 +3280,6 @@ basiliscus
 balkier
 bigger
 bacin
-basilweed
 basinal
 broader
 basinasal
@@ -9919,6 +9918,7 @@ biter
 biternately
 biters
 barbing
+basilweed
 bearfoot
 bow
 begums

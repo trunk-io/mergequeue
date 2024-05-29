@@ -21662,7 +21662,6 @@ cousin
 condense
 condensed
 condensedly
-condensedness
 comether
 condensers
 condenses
@@ -27761,6 +27760,7 @@ cows
 campal
 catbrier
 corkscrews
+condensedness
 cowshed
 cowsheds
 cowshot
