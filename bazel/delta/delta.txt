@@ -4521,6 +4521,7 @@ depravities
 demesne
 duikerbok
 decl
+darts
 demesnes
 declarers
 dishwashing
@@ -18236,7 +18237,6 @@ dive
 dungy
 dueful
 dipody
-darts
 dungiest
 disapprobative
 deuterogamist
