@@ -11182,7 +11182,6 @@ bloodmobile
 broguing
 bloodnoun
 bloodred
-baroscopic
 bespit
 bloodroot
 bloodshed
@@ -11743,6 +11742,7 @@ bedwarfs
 bobooti
 bigarade
 berne
+baroscopic
 bobotie
 bobs
 bedecks
