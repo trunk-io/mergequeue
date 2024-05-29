@@ -3778,7 +3778,6 @@ batteners
 battens
 batter
 batterdock
-battered
 batterer
 beltis
 borate
@@ -16693,6 +16692,7 @@ befouler
 buckras
 bucks
 bucksaw
+battered
 buckshee
 buckshees
 buckshot
