@@ -1076,6 +1076,7 @@ gerardias
 goldsmithing
 gompholobium
 ganglioid
+glossematic
 ganglioma
 gangliomas
 ganglionate
@@ -5801,7 +5802,6 @@ gasify
 gymnogene
 gumflower
 glossectomy
-glossematic
 grenado
 glossemes
 glossemic
