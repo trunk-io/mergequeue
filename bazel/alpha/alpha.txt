@@ -11519,6 +11519,7 @@ antinatural
 amphitheatered
 amusingness
 amusive
+autological
 amutter
 amuze
 atangle
@@ -24158,7 +24159,6 @@ autoloader
 autoloaders
 autoloading
 autology
-autological
 aldeia
 autologist
 antiatheist
