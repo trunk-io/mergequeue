@@ -6684,7 +6684,6 @@ bien
 barretry
 bereareft
 bereave
-bereavements
 beetlers
 bukh
 blanketers
@@ -12319,6 +12318,7 @@ bombardment
 bombardments
 bylaws
 bombline
+bereavements
 bathylith
 bombardo
 bowdrill
