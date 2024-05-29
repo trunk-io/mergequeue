@@ -6863,6 +6863,7 @@ aircrew
 aircrewmen
 aortae
 aerophone
+allows
 axoplasms
 airdate
 advantageous
@@ -7777,7 +7778,6 @@ alcoholmetric
 acroter
 abaissed
 adelpholite
-allows
 alcoholomania
 alcoholometer
 alcoholometry
