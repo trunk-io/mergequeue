@@ -9715,7 +9715,6 @@ alurgite
 alushtite
 alvah
 arabize
-autoaddress
 alvan
 alvar
 alveary
@@ -18394,6 +18393,7 @@ arabine
 arabinic
 arabinose
 arabinosic
+autoaddress
 arabinoside
 alibility
 arabis
