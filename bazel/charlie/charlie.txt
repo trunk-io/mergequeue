@@ -2802,7 +2802,6 @@ canonizer
 canonizes
 canonizing
 caesalpinia
-canonry
 canonries
 canons
 canonship
@@ -16271,6 +16270,7 @@ clingstone
 clinia
 clinic
 clinical
+canonry
 clinically
 clinicians
 condensations
