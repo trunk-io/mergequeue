@@ -841,7 +841,6 @@ allergy
 abscessed
 abscesses
 abscession
-assertors
 aerosols
 abscising
 abscissae
@@ -24215,6 +24214,7 @@ admonitory
 amylogen
 angelolater
 antica
+assertors
 automobilism
 atole
 automobilists
