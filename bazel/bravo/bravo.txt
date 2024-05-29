@@ -1980,6 +1980,7 @@ bacteriophage
 bandwidth
 bandwidths
 bandwork
+bagginess
 bandworm
 boogiewoogie
 baylet
@@ -5013,7 +5014,6 @@ beekeeping
 bedight
 beekite
 bosher
-bagginess
 bassos
 beelzebul
 beemaster
