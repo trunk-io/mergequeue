@@ -5601,7 +5601,6 @@ aftercome
 aftercoming
 aftercooler
 aftercost
-aftercrop
 aftercure
 afterdays
 afterdate
@@ -24622,6 +24621,7 @@ avenolith
 avenous
 avenses
 aventayle
+aftercrop
 areopagy
 aventails
 aventine
