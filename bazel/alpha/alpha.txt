@@ -3995,7 +3995,6 @@ aleyrodidae
 adjudging
 adjudgment
 adjudicate
-asterisked
 agile
 adjudicated
 adjudication
@@ -20210,6 +20209,7 @@ arquerite
 arquifoux
 antihectic
 arr
+asterisked
 arracach
 arrace
 arrach
