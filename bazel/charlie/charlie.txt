@@ -12668,6 +12668,7 @@ circularize
 chronological
 chronologies
 chronologist
+coalternative
 chantecler
 cercle
 chronologizing
@@ -17292,7 +17293,6 @@ coalshed
 coalsheds
 cantil
 coalternate
-coalternative
 coaltitude
 coambulant
 constrainers

@@ -7692,7 +7692,6 @@ augments
 alchemised
 actinozoal
 antilepsis
-alchemister
 alchemistical
 amatorious
 antennulary
@@ -10312,6 +10311,7 @@ argus
 auxoblast
 ameland
 amelcorn
+alchemister
 amelcorns
 amelet
 amelia
