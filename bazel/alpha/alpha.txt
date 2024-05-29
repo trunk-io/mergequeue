@@ -5976,6 +5976,7 @@ agentive
 agentives
 agentry
 archprototype
+advanceable
 archsnob
 achromats
 agents
@@ -11282,7 +11283,6 @@ ameen
 amphipod
 amphipoda
 apostolicism
-advanceable
 amour
 amphipodal
 antiballistic
