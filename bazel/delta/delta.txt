@@ -11231,7 +11231,6 @@ disburse
 disbursements
 duckpins
 decolorimeter
-divinistre
 definability
 dyspathy
 distortedly
@@ -18417,6 +18416,7 @@ duplexers
 duplexing
 duplicability
 denudates
+divinistre
 duplicates
 duplication
 duplicators
