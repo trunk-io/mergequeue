@@ -6584,7 +6584,6 @@ brideknot
 bepen
 bepepper
 bierstube
-bephilter
 booley
 bivalvular
 bephrase
@@ -16805,6 +16804,7 @@ buffability
 brumbee
 buffable
 buffalo
+bephilter
 buffaloback
 blasty
 buffaloes
