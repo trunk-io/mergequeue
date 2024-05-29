@@ -429,7 +429,6 @@ fur
 fairship
 fairway
 faultfinders
-fairwater
 fieldbird
 fluentness
 fays
@@ -5274,6 +5273,7 @@ ferulaic
 faconde
 faverel
 fleaweed
+fairwater
 frizzes
 foredetermine
 flunkyistic
