@@ -830,7 +830,6 @@ ecthesis
 ecthymatous
 excommunicated
 eclogites
-ecthlipses
 ecdysiast
 ectypal
 ectype
@@ -11064,6 +11063,7 @@ embryophagous
 eurypyga
 encreel
 effected
+ecthlipses
 euryprosopic
 etheriform
 extraregular
