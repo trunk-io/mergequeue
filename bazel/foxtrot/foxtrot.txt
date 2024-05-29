@@ -7353,6 +7353,7 @@ featous
 foobar
 forbiddenly
 focometry
+frostroot
 fissidens
 fatigues
 foederis
@@ -10490,7 +10491,6 @@ foxfinger
 fluyt
 fervencies
 felsosphaerite
-frostroot
 fanwork
 frillery
 frot
