@@ -2070,7 +2070,6 @@ blobbing
 bologna
 bankrider
 brachycome
-bicollaterality
 brinkless
 bankrolled
 bankrolling
@@ -17060,6 +17059,7 @@ bulkish
 bulks
 bull
 biblioclasm
+bicollaterality
 broon
 bakerdom
 barosinusitis
