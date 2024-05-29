@@ -4693,7 +4693,6 @@ bedeafened
 bedeafening
 botanised
 bedeck
-bedecked
 bedrid
 bebannered
 bedecking
@@ -9495,6 +9494,7 @@ balustrades
 benedictus
 bridegroom
 birdwitted
+bedecked
 birdwoman
 boga
 byre
