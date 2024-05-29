@@ -3966,7 +3966,6 @@ dekes
 deking
 dustcoat
 dotage
-douser
 dekle
 deyship
 dehydrofrozen
@@ -15297,6 +15296,7 @@ daimio
 dissimulating
 dolorous
 dialler
+douser
 dolos
 dolose
 diffuse
