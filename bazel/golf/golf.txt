@@ -4281,7 +4281,6 @@ ghosthood
 genealogy
 gymnorhinal
 gymnosophical
-gymnosophist
 gymnospermism
 guddler
 gymnospore
@@ -5166,6 +5165,7 @@ glasshouses
 grizzlies
 glassie
 gateaux
+gymnosophist
 glued
 griecep
 glassies
