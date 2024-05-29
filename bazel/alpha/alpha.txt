@@ -1377,7 +1377,6 @@ anticatholic
 accent
 accented
 accenting
-anticnemion
 altingiaceae
 analogically
 alcae
@@ -8593,6 +8592,7 @@ agone
 alkies
 asmoke
 alkylamino
+anticnemion
 accelerograph
 alkylarylsulfonate
 alkylate
