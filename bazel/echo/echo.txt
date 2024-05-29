@@ -4769,7 +4769,6 @@ existible
 encoded
 eremopteris
 encoding
-encodings
 encoffinment
 epicrisis
 electroionic
@@ -8595,6 +8594,7 @@ etherial
 erase
 equatorial
 elucidating
+encodings
 equatorward
 equatorwards
 excessmen
