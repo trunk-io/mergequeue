@@ -7217,6 +7217,7 @@ centriole
 centripetal
 codebreak
 centripetence
+cognizable
 centripetency
 centriscid
 centriscidae
@@ -18404,7 +18405,6 @@ catodon
 cognitive
 cognitively
 cognitivity
-cognizable
 cognizableness
 cognizance
 cognizant
