@@ -12288,7 +12288,6 @@ boltrope
 bittern
 boltropes
 bolts
-boltsmith
 barbarea
 beakful
 banker
@@ -16721,6 +16720,7 @@ bucolics
 bucorvinae
 bucorvus
 bahama
+boltsmith
 binning
 bucrane
 bx
