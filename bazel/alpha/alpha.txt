@@ -14211,7 +14211,6 @@ antenor
 antenumber
 adrostal
 antenuptial
-amphibious
 anteoccupation
 anteocular
 argyria
@@ -25259,6 +25258,7 @@ azurous
 azygoses
 azygote
 azilut
+amphibious
 anthomyia
 arointed
 azimech
