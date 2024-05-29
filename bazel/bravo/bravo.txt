@@ -4891,7 +4891,6 @@ bolometer
 bedstraw
 bedstraws
 bedstring
-broadwise
 bedswerver
 bhotiya
 bices
@@ -10879,6 +10878,7 @@ blepharosphincterectomy
 blepharostenosis
 blepharotomy
 blere
+broadwise
 behooved
 blesboks
 blesmol
