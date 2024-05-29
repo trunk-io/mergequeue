@@ -786,7 +786,6 @@ geometries
 goumi
 gregg
 genae
-galvanoplasty
 gavel
 gridder
 galvanopsychic
@@ -3537,6 +3536,7 @@ geotonus
 gestate
 guildic
 gestated
+galvanoplasty
 getting
 gestates
 gestating

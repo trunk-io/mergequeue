@@ -9600,7 +9600,6 @@ acroanesthesia
 altiplanicie
 ametaboly
 altiplano
-antipot
 accise
 altiscope
 altisonous
@@ -20326,6 +20325,7 @@ arride
 applicator
 arrided
 areroscope
+antipot
 antimephitic
 asepticizing
 arriding
