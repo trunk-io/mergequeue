@@ -2420,7 +2420,6 @@ cancrophagous
 cancrum
 cancrums
 cand
-candace
 candareen
 candelabra
 candelabras
@@ -28311,6 +28310,7 @@ crateman
 clitic
 cratemen
 crater
+candace
 cruziero
 cratered
 cachet
