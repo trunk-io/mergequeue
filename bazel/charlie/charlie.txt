@@ -20714,7 +20714,6 @@ complementer
 complementers
 complementing
 complementizer
-complementoid
 cooperations
 complete
 completement
@@ -25793,6 +25792,7 @@ chalcolite
 correspondentship
 correctrice
 colophan
+complementoid
 conule
 corresponding
 crated
