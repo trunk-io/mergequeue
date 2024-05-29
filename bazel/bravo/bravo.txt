@@ -2239,7 +2239,6 @@ baratheas
 biosterin
 bemaddens
 barathra
-barato
 baghla
 bontebok
 baratte
@@ -15216,6 +15215,7 @@ bridgemaster
 bionic
 bridgeport
 bridgepot
+barato
 benediction
 bridger
 befrumple
