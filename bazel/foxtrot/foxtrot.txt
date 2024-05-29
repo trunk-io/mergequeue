@@ -821,7 +821,6 @@ fosslify
 fanjet
 forechamber
 formulism
-fanlights
 forecover
 fanmaking
 foveolarious
@@ -3463,6 +3462,7 @@ fighteress
 fanwort
 fighting
 formboard
+fanlights
 figitidae
 floriparous
 figo
