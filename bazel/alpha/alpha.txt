@@ -3658,7 +3658,6 @@ adenocarcinomata
 akepiros
 adenochondroma
 adenochondrosarcoma
-adenochrome
 apts
 adenocystoma
 antepectoral
@@ -8296,6 +8295,7 @@ alienable
 ancylodactyla
 alienage
 apocarpies
+adenochrome
 alienated
 alienates
 avengeress
