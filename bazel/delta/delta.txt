@@ -7699,7 +7699,6 @@ deviancy
 deviancies
 deemed
 dogcatcher
-deviant
 difform
 deviated
 deviately
@@ -8421,6 +8420,7 @@ discountenancer
 dialyzate
 dialyzation
 dialyze
+deviant
 dialyzed
 dialyzer
 dialyzes
