@@ -3062,7 +3062,6 @@ fibbers
 fishpound
 fiber
 fiberboard
-foresing
 ferruginate
 frost
 forenotion
@@ -10193,6 +10192,7 @@ fitter
 fled
 frize
 fashed
+foresing
 frized
 ferules
 fan
