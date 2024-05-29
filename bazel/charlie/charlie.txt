@@ -3850,7 +3850,6 @@ carbonometer
 chondrin
 carbonous
 carbons
-carbonuria
 contradistinguish
 corial
 carbophilous
@@ -6132,6 +6131,7 @@ catwalk
 chancier
 calycule
 catwise
+carbonuria
 catwort
 colicolitis
 casehardened
