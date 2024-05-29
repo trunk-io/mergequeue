@@ -6595,7 +6595,6 @@ glimmerous
 goldsinny
 glossopodium
 gauffre
-goldurned
 gap
 garrupa
 gibbered
@@ -8955,6 +8954,7 @@ gravenstein
 guiles
 geometer
 grilled
+goldurned
 grogging
 grillee
 gladly
