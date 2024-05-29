@@ -7105,7 +7105,6 @@ exaggeration
 exing
 egotisms
 enunciative
-exportable
 enured
 enures
 evadible
@@ -9958,6 +9957,7 @@ epeeists
 epidemical
 esthesiology
 endothermous
+exportable
 esthesiometric
 emblemish
 esthesiophysiology
