@@ -5553,6 +5553,7 @@ goujon
 glyptotherium
 globeholder
 glires
+grather
 golems
 gliridae
 glirine
@@ -8318,7 +8319,6 @@ grateless
 graters
 gratewise
 grawls
-grather
 gratia
 glassweed
 gerocomy

@@ -5231,6 +5231,7 @@ endoradiosonde
 eupathy
 enkernel
 embrake
+engrandizement
 enkindling
 evened
 exagitation
@@ -5800,7 +5801,6 @@ eigenfunction
 easily
 engrandize
 ecesis
-engrandizement
 engraphic
 enodate
 engraphically
