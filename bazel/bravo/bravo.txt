@@ -5487,6 +5487,7 @@ begummed
 biolite
 begunk
 barbacoa
+basileis
 behale
 behalf
 behallow
@@ -13133,7 +13134,6 @@ borotungstate
 borough
 bouquetin
 boroughmonger
-basileis
 boroughmongering
 borowolframic
 borracha
