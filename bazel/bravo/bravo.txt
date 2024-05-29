@@ -1961,7 +1961,6 @@ bandsawn
 bandsman
 bandspreading
 bandstand
-beacon
 boronia
 beraked
 ballcarrier
@@ -8820,6 +8819,7 @@ bimastic
 brunts
 bacterize
 bimastoid
+beacon
 bimaxillary
 bimbashi
 bobsleigh
