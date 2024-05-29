@@ -11883,6 +11883,7 @@ analogise
 analogised
 anteroventral
 analogize
+auxesis
 appropriation
 analogon
 analogous
@@ -24492,7 +24493,6 @@ auxanometer
 anisogenous
 auxeses
 altercative
-auxesis
 auxetic
 auxil
 anywhereness
