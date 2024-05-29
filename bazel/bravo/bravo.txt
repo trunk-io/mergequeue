@@ -5761,7 +5761,6 @@ bowssen
 boer
 bkpr
 belemnoidea
-beleper
 bicycle
 bathybic
 beleve
@@ -10164,6 +10163,7 @@ blackband
 bullyrags
 blackbelly
 blackberries
+beleper
 bimeby
 blackberrylike
 bilaminate
