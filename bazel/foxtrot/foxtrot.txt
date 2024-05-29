@@ -2575,7 +2575,6 @@ ferryboat
 formaldehyd
 ferryboats
 familistery
-ferricyanate
 fella
 ferrandin
 furiosity
@@ -5193,6 +5192,7 @@ flavourous
 fielders
 falsifies
 fossor
+ferricyanate
 flavours
 flawed
 fluidities
