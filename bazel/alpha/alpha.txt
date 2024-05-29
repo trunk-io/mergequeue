@@ -2263,6 +2263,7 @@ achromatisation
 acrestaff
 achromatising
 apimania
+anovesical
 achromatizable
 achromatization
 achromatize
@@ -13940,7 +13941,6 @@ asher
 alveolary
 anous
 anova
-anovesical
 anovulant
 anovular
 anovulatory
