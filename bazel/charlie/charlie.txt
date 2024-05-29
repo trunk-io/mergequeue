@@ -1981,7 +1981,6 @@ camister
 camize
 cosmolabe
 camla
-camlet
 camletine
 cabezones
 camleting
@@ -12816,6 +12815,7 @@ chugs
 centilitre
 chuje
 colewort
+camlet
 chukar
 chukchi
 chukka
