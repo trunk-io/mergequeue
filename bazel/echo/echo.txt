@@ -9609,7 +9609,6 @@ enlistments
 eserin
 earthworm
 extracorporeal
-evacuative
 eserine
 erwin
 esexual
@@ -12485,6 +12484,7 @@ exhorts
 exhumate
 emus
 exhumating
+evacuative
 elenctic
 exhumations
 exhumator
