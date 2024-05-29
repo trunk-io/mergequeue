@@ -2797,6 +2797,7 @@ canonized
 cytology
 catapult
 cetorhinoid
+curie
 canonizer
 canonizes
 canonizing
@@ -31342,7 +31343,6 @@ chaetopodous
 criosphinges
 curiboca
 cothurnate
-curie
 curies
 curiet
 curietherapy
