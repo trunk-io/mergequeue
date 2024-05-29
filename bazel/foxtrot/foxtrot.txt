@@ -5522,7 +5522,6 @@ fulsome
 fossilation
 flidge
 feminist
-fmt
 fratching
 flied
 flier
@@ -7301,6 +7300,7 @@ frampold
 flamfew
 forswearer
 fair
+fmt
 flagellant
 forbearing
 fulcrum
