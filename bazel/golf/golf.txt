@@ -1806,7 +1806,6 @@ gangwayman
 gastronephritis
 glibber
 gynocracy
-gobbledegook
 gentes
 gastronomically
 gyrocompass
@@ -8190,6 +8189,7 @@ graphophone
 graphophonic
 graphoscope
 grinderies
+gobbledegook
 graphostatics
 graphotype
 getas
