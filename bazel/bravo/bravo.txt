@@ -630,6 +630,7 @@ bacteriology
 breadnut
 bacteriologic
 bacteriologist
+blinds
 bacteriologists
 bacteriopathology
 burnoose
@@ -2808,7 +2809,6 @@ barony
 bassets
 baudrons
 bowlers
-blinds
 baronial
 baronize
 baronized
