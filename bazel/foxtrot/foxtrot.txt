@@ -4352,7 +4352,6 @@ frenghi
 fosterage
 furlough
 fub
-fishman
 folic
 fishmonger
 floorward
@@ -4629,6 +4628,7 @@ fjeld
 fjelds
 fjerding
 fadeaway
+fishman
 fathoms
 fructuousness
 firesideship
