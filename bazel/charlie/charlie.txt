@@ -11478,6 +11478,7 @@ choak
 choana
 choanate
 choanephora
+clubstart
 choanocytal
 choanocyte
 choanoflagellate
@@ -16895,7 +16896,6 @@ clubroot
 carding
 clubroots
 clubs
-clubstart
 clubster
 carpogonium
 cliffless
