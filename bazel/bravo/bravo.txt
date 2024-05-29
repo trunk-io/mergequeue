@@ -2723,7 +2723,6 @@ bewaitered
 barnard
 barnbrack
 brachyprosopic
-barndoor
 barneys
 barnhardtite
 barnyard
@@ -17862,6 +17861,7 @@ burst
 burster
 bursty
 burstone
+barndoor
 botein
 burthen
 burthened
