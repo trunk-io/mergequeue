@@ -1661,7 +1661,6 @@ fdnames
 fdub
 flamboyantly
 fortuitousness
-fussy
 focally
 fe
 feaberry
@@ -11739,6 +11738,7 @@ fuzees
 fuzil
 fuzz
 fuzzier
+fussy
 fungiferous
 fenlander
 fuzziest
