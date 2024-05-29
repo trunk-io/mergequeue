@@ -1783,7 +1783,6 @@ eer
 eyepiece
 eyepit
 embattle
-epochal
 eyepoint
 eyereach
 eyeroot
@@ -1872,6 +1871,7 @@ ecchymose
 endorsors
 eightvo
 edestin
+epochal
 expeller
 erraticness
 emirate
