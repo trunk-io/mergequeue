@@ -793,7 +793,6 @@ adsbud
 admittedly
 abrine
 abris
-aerosphere
 abristle
 abroach
 abrocome
@@ -3724,6 +3723,7 @@ adenosarcoma
 adenosarcomata
 adenosclerosis
 adiaphoristic
+aerosphere
 acuating
 arrant
 acculturized
