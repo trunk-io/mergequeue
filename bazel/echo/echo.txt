@@ -8405,7 +8405,6 @@ enwreathed
 exempting
 epithyme
 extacie
-epithymetical
 epithumetic
 epitympanum
 embogue
@@ -11736,6 +11735,7 @@ enscrolled
 examinator
 examinatory
 encumbering
+epithymetical
 equivocacies
 examinatorial
 examine
