@@ -2280,7 +2280,6 @@ fencings
 full
 foregahger
 forkfuls
-folktale
 fended
 ferric
 frolicness
@@ -8856,6 +8855,7 @@ folia
 fleuron
 fotmal
 foud
+folktale
 folkvang
 forum
 fredaine
