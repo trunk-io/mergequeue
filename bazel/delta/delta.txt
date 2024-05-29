@@ -1525,6 +1525,7 @@ deacons
 deaconship
 deactivate
 discoglossid
+diapaused
 dartman
 darbyite
 deactivates
@@ -9796,7 +9797,6 @@ deicer
 dillydally
 diabolically
 dejectile
-diapaused
 dillier
 discanonize
 disrupture
