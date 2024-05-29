@@ -12938,7 +12938,6 @@ downing
 demulsifying
 dysoxidation
 dissilition
-disoxygenation
 debacchate
 disp
 dispace
@@ -15578,6 +15577,7 @@ doodia
 doodlebug
 doodlers
 doodlesack
+disoxygenation
 doodling
 doodskop
 doohickey
