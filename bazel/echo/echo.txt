@@ -1782,6 +1782,7 @@ eer
 eyepiece
 eyepit
 embattle
+extispex
 epochal
 eyepoint
 eyereach
@@ -13733,7 +13734,6 @@ exceptionable
 eeler
 extirpatory
 effervescence
-extispex
 effusely
 ethnize
 espousage
