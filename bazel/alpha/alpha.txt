@@ -2891,7 +2891,6 @@ acromioscapular
 acromiosternal
 antichurchian
 acromiothoracic
-addaxes
 acromyotonia
 actuals
 antiochene
@@ -15514,6 +15513,7 @@ antimagistratical
 amidocaffeine
 antimalaria
 antimalarial
+addaxes
 antimale
 antimaniac
 antepagments

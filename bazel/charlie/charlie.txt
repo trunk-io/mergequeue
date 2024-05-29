@@ -7889,7 +7889,6 @@ camphines
 cerviconasal
 cribrous
 crotchy
-cervicoscapular
 cervicothoracic
 cervicovesical
 cervid
@@ -23612,6 +23611,7 @@ continual
 criollos
 contact
 chancelled
+cervicoscapular
 conviviality
 continuality
 continually
