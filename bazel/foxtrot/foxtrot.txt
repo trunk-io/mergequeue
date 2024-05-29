@@ -7623,7 +7623,6 @@ footrace
 forefoot
 frenchmen
 fll
-foregallery
 fumy
 fallals
 foregate
@@ -10609,6 +10608,7 @@ filaceous
 furtive
 famular
 fructuarius
+foregallery
 floralia
 frontward
 finched
