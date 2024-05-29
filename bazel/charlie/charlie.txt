@@ -4529,7 +4529,6 @@ carnelian
 corespondency
 carneole
 coroner
-carnet
 citoler
 carnets
 carny
@@ -25678,6 +25677,7 @@ corporativism
 corporeal
 cirsotome
 corporealization
+carnet
 cochlea
 corporeally
 corporealness
