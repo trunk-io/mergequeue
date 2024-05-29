@@ -2621,7 +2621,6 @@ forepiece
 feoffed
 fricassees
 ferromanganese
-ferrometer
 ferronatrite
 foh
 filicologist
@@ -8287,6 +8286,7 @@ forjudging
 formularisation
 foiler
 forensicality
+ferrometer
 forjudgment
 fork
 frogeye
