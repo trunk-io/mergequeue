@@ -8756,7 +8756,6 @@ chansonniers
 chant
 chera
 chantey
-chanteyman
 chantepleure
 chanterelle
 coronels
@@ -9439,6 +9438,7 @@ chavibetol
 chavicin
 chomp
 chavicine
+chanteyman
 chavicol
 cowedly
 chaw
