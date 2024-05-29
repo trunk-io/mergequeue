@@ -2304,6 +2304,7 @@ fenestellid
 feuterer
 factualness
 fleuronne
+foambow
 fibrosarcoma
 fenestrae
 foreword
@@ -6585,7 +6586,6 @@ foaling
 foals
 foam
 fikie
-foambow
 foamed
 feltness
 frounce
