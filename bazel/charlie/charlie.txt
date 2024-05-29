@@ -18833,7 +18833,6 @@ coleopttera
 chayote
 coleorhizae
 coleosporiaceae
-coleosporium
 colera
 coles
 coleseed
@@ -25658,6 +25657,7 @@ corporalities
 corporally
 cack
 corporals
+coleosporium
 citronellic
 corporalship
 corporas
