@@ -858,7 +858,6 @@ ectocelic
 ectocinereal
 entomophthorous
 enquire
-ectocoelic
 ectocommensal
 ectocondylar
 endophytic
@@ -10067,6 +10066,7 @@ estriol
 estrogen
 epaulet
 estrogenic
+ectocoelic
 estrogenicity
 ensweep
 estrogens
