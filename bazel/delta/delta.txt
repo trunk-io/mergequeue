@@ -7380,6 +7380,7 @@ detonation
 detonations
 detonative
 detonator
+devoice
 detonize
 detour
 duncifying
@@ -7786,7 +7787,6 @@ devocalized
 devocalizing
 diptychon
 diacritically
-devoice
 decolourising
 desidious
 devoir
