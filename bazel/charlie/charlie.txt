@@ -8626,6 +8626,7 @@ chancelloress
 chancellors
 chancellorship
 chancellorships
+cresting
 chancelor
 chancelry
 calathidium
@@ -28834,7 +28835,6 @@ crestal
 crestfallen
 churchwards
 crestfallenness
-cresting
 crestings
 crestless
 crestline
