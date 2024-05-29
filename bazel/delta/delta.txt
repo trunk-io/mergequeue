@@ -1662,7 +1662,6 @@ deamidization
 deaminase
 decating
 digitize
-deaminate
 daws
 duncishly
 daw
@@ -2548,6 +2547,7 @@ deutzias
 declarator
 declaratory
 declaratorily
+deaminate
 drain
 declarators
 dislip
