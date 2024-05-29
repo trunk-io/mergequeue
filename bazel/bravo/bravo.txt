@@ -3205,7 +3205,6 @@ bombardier
 basically
 basicerite
 basichromatinic
-basicity
 bumph
 benzins
 baltis
@@ -14703,6 +14702,7 @@ bigeyes
 braza
 batswing
 brazee
+basicity
 brazened
 brunt
 birdcraft
