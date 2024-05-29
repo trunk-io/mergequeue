@@ -4269,7 +4269,6 @@ caretaking
 caretook
 carets
 caretta
-carettochelydidae
 careworn
 carex
 cottages
@@ -9269,6 +9268,7 @@ chaste
 chastelain
 catarrh
 csects
+carettochelydidae
 carbonylic
 chastener
 chasteners
