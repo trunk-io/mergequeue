@@ -5648,7 +5648,6 @@ catarrhal
 col
 catarrhed
 catarrhina
-charlie
 catarrhous
 catarrhs
 catasarka
@@ -15828,6 +15827,7 @@ clavicular
 clavicularium
 claviculate
 chirotype
+charlie
 claviculus
 clavierist
 claviform
