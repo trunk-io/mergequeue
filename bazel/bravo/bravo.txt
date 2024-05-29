@@ -2945,7 +2945,6 @@ barrelmaker
 barrelmaking
 brassavola
 barrelwise
-barren
 barrenly
 barrenness
 blockaderunning
@@ -17453,6 +17452,7 @@ bunkering
 bipack
 blackouts
 bunkermen
+barren
 bunkers
 bunkie
 buffi
