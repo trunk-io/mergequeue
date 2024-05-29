@@ -4819,7 +4819,6 @@ bedrail
 bogway
 bedrails
 bedral
-bedrape
 bedraped
 bedrapes
 bedraping
@@ -16058,6 +16057,7 @@ brooke
 burkei
 beltways
 babiana
+bedrape
 baluster
 brookflower
 brooky
