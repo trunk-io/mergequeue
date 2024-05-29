@@ -4899,7 +4899,6 @@ frenulum
 flamless
 floorers
 filefish
-flammation
 flammed
 foreyards
 fidac
@@ -10010,6 +10009,7 @@ femalize
 frigidarium
 frumentum
 fedayee
+flammation
 frigiddaria
 frigidly
 finery
