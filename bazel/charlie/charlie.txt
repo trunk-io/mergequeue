@@ -8237,7 +8237,6 @@ chairmanning
 chairmans
 chairmanship
 chairmanships
-checkoff
 chairmender
 chairpersons
 colpoplastic
@@ -29365,6 +29364,7 @@ candroy
 cryptorchism
 cadential
 cryptorrhetic
+checkoff
 coldcock
 cryptos
 cryptoscope
