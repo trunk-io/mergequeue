@@ -1408,7 +1408,6 @@ gibier
 garlion
 grassant
 glycolic
-gerara
 guhr
 geometrina
 gulfed
@@ -1756,6 +1755,7 @@ gastroenteritic
 gastroenteritis
 gaining
 gluts
+gerara
 gastroenteroanastomosis
 gastroenterocolostomy
 gastroenterology
