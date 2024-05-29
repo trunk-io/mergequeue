@@ -1715,7 +1715,6 @@ grates
 glittering
 gastriloquism
 gastritis
-gastroadenitis
 glottitis
 guepard
 geed
@@ -4170,6 +4169,7 @@ grifted
 gastrectomies
 gimblet
 germanical
+gastroadenitis
 gimcrack
 garment
 galictis
