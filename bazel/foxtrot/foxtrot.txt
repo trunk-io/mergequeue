@@ -3037,7 +3037,6 @@ fiascos
 flukily
 foreman
 floodage
-fiat
 fairyology
 frostflower
 fiatconfirmatio
@@ -3547,6 +3546,7 @@ filariids
 foody
 filarious
 filatory
+fiat
 filature
 flareboard
 filatures
