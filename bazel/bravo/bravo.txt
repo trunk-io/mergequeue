@@ -10093,7 +10093,6 @@ begohm
 byzantine
 blizzardous
 byzantinize
-barmecide
 bottlemaking
 brasser
 byzants
@@ -13692,6 +13691,7 @@ bourne
 barrett
 bourock
 buffoonery
+barmecide
 bourr
 bourrasque
 bindery
