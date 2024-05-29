@@ -13248,7 +13248,6 @@ cicatricule
 cicatrisant
 chipmucks
 calcanei
-cromorna
 colometric
 cicatrisation
 cicatriser
@@ -31271,6 +31270,7 @@ curculio
 curculionidae
 calvatia
 curculios
+cromorna
 cerebratulus
 concordly
 curcumin
