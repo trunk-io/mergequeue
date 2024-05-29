@@ -2742,6 +2742,7 @@ fathomer
 fusain
 fervours
 fishboat
+flype
 fescennine
 fescue
 foggish
@@ -5647,7 +5648,6 @@ flintworker
 folioliferous
 flyovers
 flypast
-flype
 feodaries
 freezers
 frimaire
