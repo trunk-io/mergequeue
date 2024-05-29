@@ -10853,7 +10853,6 @@ enclog
 euskera
 eumoirous
 eumolpides
-esterases
 eumolpus
 eumorphic
 enureses
@@ -13291,6 +13290,7 @@ explosives
 electromyograph
 elusively
 electrolytic
+esterases
 embroiderer
 expone
 exponency
