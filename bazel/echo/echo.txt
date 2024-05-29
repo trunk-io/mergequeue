@@ -2434,7 +2434,6 @@ erythroclasis
 equicostate
 electroencephalogram
 electroencephalograph
-epitaxial
 exciting
 electroencephalographical
 electroencephalographs
@@ -6934,6 +6933,7 @@ eyestone
 eighteenths
 endotheliomyxoma
 exuviable
+epitaxial
 ebullitive
 estoppel
 exotism
