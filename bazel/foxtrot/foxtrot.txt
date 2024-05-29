@@ -4963,6 +4963,7 @@ floc
 forepaw
 flannelmouth
 ferries
+forsaken
 farinacious
 fedelini
 forekeel
@@ -8575,7 +8576,6 @@ forrit
 foxish
 forescript
 fir
-forsaken
 fluoridise
 fittings
 forsakenly
