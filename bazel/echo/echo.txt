@@ -1395,7 +1395,6 @@ epiclidal
 efferents
 effervescency
 entertissue
-endoskeletal
 exomis
 ebcdic
 excludability
@@ -10219,6 +10218,7 @@ exotically
 expressiveness
 earphones
 euhyostyly
+endoskeletal
 ethereous
 epagomenic
 exheredation

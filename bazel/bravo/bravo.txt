@@ -1753,6 +1753,7 @@ bandstands
 beneplacit
 balsaminaceous
 balsamine
+biologies
 balsaming
 bankside
 balsamitic
@@ -9117,7 +9118,6 @@ benzazide
 blackfoot
 biologic
 biologics
-biologies
 biologist
 bedstands
 bioluminescence
