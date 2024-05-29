@@ -541,7 +541,6 @@ demounted
 damaged
 detort
 damagement
-damageous
 dao
 damagers
 damagingly
@@ -17960,6 +17959,7 @@ demandable
 dugouts
 dugs
 dugway
+damageous
 deaerator
 duhr
 dui
