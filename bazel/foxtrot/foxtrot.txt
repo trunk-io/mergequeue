@@ -859,6 +859,7 @@ forebows
 fragilities
 fantasying
 flagarie
+forequoted
 farforthly
 fantasists
 faliscan
@@ -9404,7 +9405,6 @@ fettler
 foreweigh
 fondant
 frenum
-forequoted
 feudatories
 franticly
 freeloading
