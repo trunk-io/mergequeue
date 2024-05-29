@@ -4882,7 +4882,6 @@ carsick
 carsickness
 carson
 caviteno
-csi
 cytoblastematous
 carstone
 cart
@@ -14771,6 +14770,7 @@ cystonephrosis
 cometic
 cystoneuralgia
 cystoparalysis
+csi
 campodeiform
 cystophora
 cathood
