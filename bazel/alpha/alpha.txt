@@ -5450,7 +5450,6 @@ affranchise
 affranchisement
 affreight
 affreightment
-adiadokokinesi
 ado
 affret
 affreux
@@ -24263,6 +24262,7 @@ autophytograph
 allocochick
 autophytography
 autophoby
+adiadokokinesi
 abacinate
 autophon
 autophone
