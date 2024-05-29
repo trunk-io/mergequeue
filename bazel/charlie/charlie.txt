@@ -15826,7 +15826,6 @@ claviculate
 chirotype
 claviculus
 clavierist
-claviform
 claviger
 claviharp
 clavilux
@@ -22376,6 +22375,7 @@ calcaria
 congresser
 congresses
 cutocellulose
+claviform
 congressing
 congressionalist
 congressionally
