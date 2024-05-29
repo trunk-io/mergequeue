@@ -1532,7 +1532,6 @@ cenotaphic
 chemostat
 callisto
 callithrix
-callithump
 collegiant
 corruptibilities
 callithumpian
@@ -18809,6 +18808,7 @@ colegislator
 colemouse
 coalfish
 conodonts
+callithump
 chaplet
 coleochaetaceous
 cheltenham
