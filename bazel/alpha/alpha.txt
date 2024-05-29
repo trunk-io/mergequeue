@@ -13090,7 +13090,6 @@ anhematopoiesis
 anhemitonic
 anarthropodous
 anhemolytic
-anhyd
 anhydraemia
 anhydraemic
 antikinase
@@ -19114,6 +19113,7 @@ archlexicographer
 abominated
 adigei
 archliar
+anhyd
 archlute
 amentias
 archmachine
