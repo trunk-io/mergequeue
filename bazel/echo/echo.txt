@@ -782,6 +782,7 @@ ecoute
 ecphorable
 escutcheon
 eucrasite
+ecphonema
 ecphore
 ecphoria
 emotes
@@ -11037,7 +11038,6 @@ excercise
 eurybathic
 eurybenthic
 endeared
-ecphonema
 embroglio
 eurycephalic
 epiglot
