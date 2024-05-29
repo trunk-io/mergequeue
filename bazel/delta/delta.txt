@@ -5619,7 +5619,6 @@ digested
 diphthongic
 disrepute
 depasturable
-depasturation
 depasture
 depatriate
 dispergation
@@ -13995,6 +13994,7 @@ distrainment
 distrains
 daikered
 diddling
+depasturation
 distraite
 door
 distraught
