@@ -1080,7 +1080,6 @@ farmyardy
 farmout
 fisc
 farmtown
-floricomous
 farnesol
 farnesols
 frotting
@@ -2313,6 +2312,7 @@ fenestrated
 fanglement
 fatherlessness
 faunule
+floricomous
 fenestrato
 ficaria
 featherheaded
