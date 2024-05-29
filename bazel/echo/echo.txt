@@ -600,7 +600,6 @@ echogram
 endophyllaceae
 enmanche
 echoing
-exfiltration
 everard
 encyclopaedias
 earthshock
@@ -3998,6 +3997,7 @@ entitative
 emolument
 emotively
 esthete
+exfiltration
 emotivism
 emotivity
 enragedness
