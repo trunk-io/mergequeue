@@ -11409,7 +11409,6 @@ chlorophaeite
 chlorophenol
 charangos
 chlorophenothane
-crystallizability
 confirm
 cestuy
 chlorophyceae
@@ -31510,6 +31509,7 @@ cursoria
 cyclitol
 cuproid
 cursorily
+crystallizability
 cursoriness
 cursorious
 cursorius
