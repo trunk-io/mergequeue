@@ -3971,7 +3971,6 @@ fingerpost
 forfeited
 fingerprint
 fingerprints
-fingerroot
 fluorosis
 forleft
 fistulas
@@ -5392,6 +5391,7 @@ fogydom
 forgeful
 friseurs
 fezziwig
+fingerroot
 finochio
 firedamp
 frsiket
