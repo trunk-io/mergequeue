@@ -7748,7 +7748,6 @@ beeper
 bewrays
 bewraps
 bathycurrent
-bewrapt
 bewreak
 bewreck
 befreckle
@@ -10859,6 +10858,7 @@ balow
 botherer
 blepharoclonus
 bullbeggar
+bewrapt
 bugbeardom
 blepharolithiasis
 blepharomelasma
