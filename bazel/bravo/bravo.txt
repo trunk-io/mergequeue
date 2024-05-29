@@ -1166,7 +1166,6 @@ baizas
 baize
 baized
 bespin
-beseech
 baizing
 bajardo
 bajarigar
@@ -5319,6 +5318,7 @@ balk
 bronzed
 beggaress
 beggarhood
+beseech
 burrier
 beggary
 butyrolactone
