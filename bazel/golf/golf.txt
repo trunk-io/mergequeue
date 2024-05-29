@@ -1653,7 +1653,6 @@ gassing
 gymnosperms
 gastrocystis
 gast
-gastaldite
 gymnura
 gasted
 gaster
@@ -6234,6 +6233,7 @@ gastrostomus
 genealogize
 gnomoniaceae
 globicephala
+gastaldite
 glossic
 ghostlify
 gnosis
