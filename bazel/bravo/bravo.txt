@@ -4769,7 +4769,6 @@ brothellike
 bedirtying
 birdbrain
 bedizen
-bemitered
 beekmantown
 bedizens
 bedkey
@@ -10960,6 +10959,7 @@ boilery
 bathwater
 blindness
 blindstitch
+bemitered
 blindstorey
 babroot
 brachioradial
