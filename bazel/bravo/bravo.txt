@@ -6496,7 +6496,6 @@ biozone
 belgium
 benzoglycolic
 benzoglyoxaline
-balancewise
 benzohydrol
 benzoylated
 becuna
@@ -7735,6 +7734,7 @@ buttonholes
 batrachophagous
 bewrayers
 bewraying
+balancewise
 britishness
 basialveolar
 biacetylene
