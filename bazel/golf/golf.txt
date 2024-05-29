@@ -2975,7 +2975,6 @@ genuflections
 genuflects
 grid
 geol
-ganglionic
 gustavus
 gorgonized
 gipser
@@ -10123,6 +10122,7 @@ graustark
 guffer
 guffs
 glaziers
+ganglionic
 gelseminic
 guggle
 guerdonable
