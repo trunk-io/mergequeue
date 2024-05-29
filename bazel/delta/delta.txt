@@ -2512,7 +2512,6 @@ deckhand
 duckwing
 deerstalker
 deckhead
-doorposts
 deckle
 deckman
 deckpipe
@@ -10735,6 +10734,7 @@ dipsey
 dipsie
 dipsomaniac
 dipsomaniacs
+doorposts
 dipsopathy
 dipsos
 dipsosaurus
