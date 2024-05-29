@@ -5619,6 +5619,7 @@ diphthongic
 disrepute
 depasturable
 depasturation
+detest
 depasture
 depatriate
 dispergation
@@ -7352,7 +7353,6 @@ deterrents
 dodunk
 daylighting
 detersiveness
-detest
 detestation
 dominate
 decomponent
