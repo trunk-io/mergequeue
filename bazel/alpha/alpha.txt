@@ -4874,7 +4874,6 @@ aepyornis
 aepyornithidae
 aepyornithiformes
 aggrieves
-aeq
 abaris
 aequi
 arariba
@@ -12960,6 +12959,7 @@ ango
 angoise
 angola
 angolar
+aeq
 angolese
 almswomen
 assertoric
