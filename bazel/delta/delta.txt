@@ -1940,6 +1940,7 @@ detainer
 depressant
 debugs
 debunked
+doze
 dnieper
 debunker
 debunkers
@@ -16433,7 +16434,6 @@ deadishness
 doxology
 doxologically
 doxologized
-doze
 dozed
 dozened
 dozener
