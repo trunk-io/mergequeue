@@ -1209,6 +1209,7 @@ fumigations
 flanken
 flustering
 fascism
+flaveria
 fume
 flibbertigibbet
 frighter
@@ -11341,7 +11342,6 @@ favorability
 frena
 furfuralcohol
 filiciform
-flaveria
 flathat
 forcible
 fusobacterium
