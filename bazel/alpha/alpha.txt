@@ -2269,7 +2269,6 @@ achromatizing
 achromatocyte
 arctalian
 achromatope
-achromatophile
 achromatophilia
 achromatophilic
 achromatopia
@@ -24213,6 +24212,7 @@ admonitory
 amylogen
 angelolater
 antica
+achromatophile
 automobilism
 atole
 automobilists
