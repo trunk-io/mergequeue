@@ -8783,6 +8783,7 @@ flaxes
 female
 forehearth
 fossane
+flotant
 foretalk
 fidel
 fosses
@@ -11509,7 +11510,6 @@ frijolito
 furtively
 furud
 flagon
-flotant
 faddisms
 fishberries
 furunculous
