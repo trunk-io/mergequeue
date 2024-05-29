@@ -1963,6 +1963,7 @@ goodyship
 germaniums
 gliss
 groundable
+gastrostege
 girdler
 gaucie
 gynopara
@@ -2156,7 +2157,6 @@ gawkihood
 guggles
 grandness
 grottolike
-gastrostege
 geison
 gruffed
 gymnogenous
