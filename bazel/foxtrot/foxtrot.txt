@@ -2832,6 +2832,7 @@ fades
 faunae
 fenestration
 filanders
+finning
 farmsteads
 fetching
 foxproof
@@ -7786,7 +7787,6 @@ flyblew
 forename
 furs
 furl
-finning
 fogging
 ferrotyped
 formosan
