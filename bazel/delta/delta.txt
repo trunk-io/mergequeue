@@ -3560,7 +3560,6 @@ diplomatic
 dinitrotoluene
 disapproving
 deprivate
-defrayable
 disembarrassment
 defrayals
 decadarchy
@@ -7439,6 +7438,7 @@ deathsmen
 detrect
 detrench
 domajig
+defrayable
 detribalize
 dismoded
 diapensia
