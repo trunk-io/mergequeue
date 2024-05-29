@@ -3958,7 +3958,6 @@ carcinemia
 carcinogenesis
 carcinogenic
 colorimetry
-carcinoid
 compartmental
 carcinolysin
 carcinolytic
@@ -27378,6 +27377,7 @@ courlan
 couronne
 crustaceal
 course
+carcinoid
 codirectorship
 coursey
 coursers
