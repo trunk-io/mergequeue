@@ -11449,7 +11449,6 @@ blueprint
 biophotometer
 bluesy
 bluesides
-bluesman
 bromisms
 bluesmen
 bluestems
@@ -17381,6 +17380,7 @@ bundy
 bundle
 bundled
 beweeping
+bluesman
 boardmen
 bundler
 bundlerooted
