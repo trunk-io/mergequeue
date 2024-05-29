@@ -1448,6 +1448,7 @@ fattiness
 funis
 fiftyfold
 fattishness
+frenzily
 fattrels
 fother
 foreweep
@@ -8842,7 +8843,6 @@ foreigners
 fossettes
 fosterling
 fingerlet
-frenzily
 frolics
 fluoroscopically
 foppery
