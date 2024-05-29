@@ -3410,6 +3410,7 @@ basques
 bass
 bassa
 balaenicipites
+boldine
 branchiopulmonate
 bassalia
 bootable
@@ -12135,7 +12136,6 @@ boldfacing
 boldhearted
 beloid
 boldheartedly
-boldine
 boldly
 boldnesses
 boldo
