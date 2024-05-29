@@ -14326,7 +14326,6 @@ antesignanus
 antesternal
 antesternum
 amphichromatic
-antesuperior
 arboretums
 antetemple
 antetype
@@ -23042,6 +23041,7 @@ amblyaphia
 attemptable
 attempted
 anthroponym
+antesuperior
 attempter
 athecate
 attempters
