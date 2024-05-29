@@ -13917,7 +13917,6 @@ blent
 boxen
 bytime
 boxful
-boxfuls
 boxhauled
 brierberry
 boxhauling
@@ -14240,6 +14239,7 @@ breloque
 bannut
 bragas
 braggadocios
+boxfuls
 braggart
 braggartly
 braggarts
