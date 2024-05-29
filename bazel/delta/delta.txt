@@ -9411,7 +9411,6 @@ diffusate
 djinni
 duplicator
 diffusely
-diffuseness
 diffusers
 diffuses
 dechlore
@@ -10126,6 +10125,7 @@ dynes
 duotoned
 dinetic
 dinette
+diffuseness
 dineuric
 dibblers
 desilicating
