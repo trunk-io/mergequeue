@@ -179,7 +179,6 @@ friborg
 fabulous
 fourquine
 factiously
-forthought
 factitiousness
 frescoing
 felonous
@@ -4859,6 +4858,7 @@ flitch
 forwards
 fibbing
 fchar
+forthought
 fourteens
 fractabling
 flamen
