@@ -5754,7 +5754,6 @@ belee
 beleed
 biers
 belemnitic
-belemnoid
 belayed
 bowssen
 boer
@@ -11271,6 +11270,7 @@ blotchiness
 backoff
 bassetted
 benegro
+belemnoid
 burblier
 buckeye
 blote
