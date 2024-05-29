@@ -14322,7 +14322,6 @@ amphichromatic
 antesuperior
 arboretums
 antetemple
-antetype
 antetypes
 anteversion
 ahypnia
@@ -23688,6 +23687,7 @@ auspicated
 auspicating
 alto
 auspice
+antetype
 aerohydroplane
 auspicy
 auspicious
