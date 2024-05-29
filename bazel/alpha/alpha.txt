@@ -17514,7 +17514,6 @@ apostrophal
 ampuls
 apostrophes
 apostrophi
-apostrophic
 avoirdupois
 apostrophied
 apostrophise
@@ -24752,6 +24751,7 @@ aviculturist
 avidin
 archcity
 abacot
+apostrophic
 angioasthenia
 alexines
 avidity
