@@ -11489,7 +11489,6 @@ evictions
 evenhandedness
 explanatory
 eleocharis
-embodying
 evictor
 evictors
 evidence
@@ -13507,6 +13506,7 @@ exscutellate
 electromedical
 exsec
 exsect
+embodying
 eutaxie
 excitements
 enlightening
