@@ -9526,7 +9526,6 @@ begrease
 barogram
 byrl
 btl
-bariums
 byrlady
 baptisteries
 byrlawman
@@ -14521,6 +14520,7 @@ backwrap
 boyar
 buckishly
 brandless
+bariums
 banda
 brandling
 brandon
