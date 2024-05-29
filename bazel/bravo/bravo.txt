@@ -2219,7 +2219,6 @@ bedward
 birchbark
 beltline
 barabra
-barad
 banderoling
 batwoman
 blushers
@@ -7154,6 +7153,7 @@ bombidae
 beknots
 bemusedly
 besour
+barad
 barbute
 besouth
 bespake
