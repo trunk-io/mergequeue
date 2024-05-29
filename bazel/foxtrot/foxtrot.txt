@@ -765,6 +765,7 @@ fanciless
 fanciness
 forestaff
 fragrance
+fuseau
 fickly
 fixures
 foretack
@@ -7223,7 +7224,6 @@ flockman
 frameworks
 footslogger
 financiery
-fuseau
 finnmarks
 foeffment
 fantastic
