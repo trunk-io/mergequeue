@@ -11835,6 +11835,7 @@ brushlike
 biometeorology
 bum
 bodicemaking
+biosatellite
 bodices
 bodycheck
 bodied
@@ -18049,7 +18050,6 @@ busses
 bussing
 bussock
 blamably
-biosatellite
 bepaw
 bussu
 bust
