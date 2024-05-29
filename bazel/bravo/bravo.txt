@@ -5363,7 +5363,6 @@ broadsheet
 bournes
 begirding
 blankard
-begirds
 beamsmen
 bickered
 beamishly
@@ -18082,6 +18081,7 @@ bustles
 biologize
 bustling
 bustlingly
+begirds
 busto
 busts
 busulfans
