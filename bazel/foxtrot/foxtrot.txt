@@ -3783,6 +3783,7 @@ filmsetting
 fussification
 filmslide
 forestall
+fario
 fadeout
 filmstrips
 flicks
@@ -5013,7 +5014,6 @@ flinches
 flashcube
 fatigated
 flashcubes
-fario
 fidicinal
 flashed
 fidejussion
