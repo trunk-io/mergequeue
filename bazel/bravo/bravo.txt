@@ -2443,7 +2443,6 @@ bardic
 bardiest
 bardiglio
 bardily
-brickiest
 barding
 bardings
 becalms
@@ -15783,6 +15782,7 @@ blite
 bromate
 beelol
 begrutch
+brickiest
 buhlworks
 bromaurate
 bromauric
