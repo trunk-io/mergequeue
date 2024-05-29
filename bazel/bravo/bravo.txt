@@ -14929,6 +14929,7 @@ boldest
 breech
 breechcloth
 brimfull
+balbuties
 breechcloths
 breechclout
 breeched
@@ -16114,7 +16115,6 @@ brosot
 brot
 baka
 booksy
-balbuties
 bimodal
 brotany
 brotchen
