@@ -5871,7 +5871,6 @@ bywalker
 belleric
 biologists
 belletrist
-belletrists
 bellevue
 bonhommie
 blandisher
@@ -14483,6 +14482,7 @@ branchiostegan
 branchiostegidae
 branchiostoma
 branchiostomid
+belletrists
 branchiostomous
 branchireme
 branchless
