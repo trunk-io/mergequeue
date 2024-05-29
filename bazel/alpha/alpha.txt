@@ -2257,7 +2257,6 @@ achromate
 achromatic
 achromatically
 alectoromorphae
-achromaticity
 achromatisation
 acrestaff
 achromatising
@@ -5999,6 +5998,7 @@ aggiornamenti
 assemblies
 agglomerate
 agoniatites
+achromaticity
 agglomerated
 agglomerates
 agglomeratic
