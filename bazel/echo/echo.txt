@@ -5110,7 +5110,6 @@ endocrinopathic
 eruca
 endoderm
 electrocratic
-endoderms
 endodontia
 eigh
 endodontically
@@ -7676,6 +7675,7 @@ embroglios
 epicotyl
 exclaimers
 epicotyls
+endoderms
 enhancement
 empathy
 epicranium
