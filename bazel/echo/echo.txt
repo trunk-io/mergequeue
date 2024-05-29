@@ -1657,7 +1657,6 @@ extradition
 egress
 emissarium
 egressed
-egresses
 estadal
 exiler
 expounded
@@ -13617,6 +13616,7 @@ ephebos
 extenuative
 extenuator
 exter
+egresses
 earners
 evangelicalism
 embacle
