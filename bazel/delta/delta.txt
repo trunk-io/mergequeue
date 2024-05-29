@@ -3635,7 +3635,6 @@ dicta
 dioestrum
 degustation
 degenerately
-degenerateness
 degenerating
 dockages
 degenerative
@@ -5707,6 +5706,7 @@ depictors
 depicture
 distract
 depictured
+degenerateness
 depigmentate
 depigmentation
 damnosa
