@@ -7971,7 +7971,6 @@ cetes
 ceti
 cetic
 ceticide
-cetid
 chitinization
 cetyl
 cetylic
@@ -16056,6 +16055,7 @@ comfrey
 clerihews
 clerisies
 clerk
+cetid
 chalcotript
 chunderous
 carryovers

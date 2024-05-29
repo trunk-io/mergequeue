@@ -13700,7 +13700,6 @@ dissipations
 dissipator
 donates
 doffer
-diatomiferous
 diplasion
 demetrian
 dissite
@@ -16707,6 +16706,7 @@ dramatical
 dramatically
 dowelled
 deflocculated
+diatomiferous
 deperdition
 dramaticle
 dermatoid
