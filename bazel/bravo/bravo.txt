@@ -4182,6 +4182,7 @@ beanos
 beanpole
 bagge
 beans
+buttonhole
 beansetter
 beanshooter
 beanstalk
@@ -10510,7 +10511,6 @@ blasphemies
 blasphemous
 brambled
 blasphemousness
-buttonhole
 blastema
 blastemal
 buttals
