@@ -5002,7 +5002,6 @@ badchan
 bedrock
 beeherd
 bouncing
-bitriseptate
 beehive
 beehives
 breakfaster
@@ -13573,6 +13572,7 @@ bouillabaisse
 boodlers
 bouillons
 bestially
+bitriseptate
 beanballs
 boars
 boulanger
