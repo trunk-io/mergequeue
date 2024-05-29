@@ -4191,6 +4191,7 @@ fireplow
 farcical
 fleeceable
 fatting
+futter
 fireplug
 frieze
 fireplugs
@@ -5099,7 +5100,6 @@ fictions
 flued
 flatulentness
 flatware
-futter
 footpaddery
 fanleaf
 fingerwork

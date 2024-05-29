@@ -13094,7 +13094,6 @@ anhemolytic
 anhyd
 anhydraemia
 anhydraemic
-antikinase
 anhydrate
 anhydrating
 anhydration
@@ -21296,6 +21295,7 @@ artless
 asymmetranthous
 antevenient
 arbitrary
+antikinase
 amakosa
 armomancy
 asymmetric
