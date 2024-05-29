@@ -7927,7 +7927,6 @@ castaway
 camanay
 cessionee
 cessment
-cessor
 cesspipe
 cesspit
 cesspits
@@ -21376,6 +21375,7 @@ concyclic
 concyclically
 concierge
 creosols
+cessor
 concierges
 cadaverize
 concile
