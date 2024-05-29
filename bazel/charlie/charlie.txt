@@ -12970,6 +12970,7 @@ churingas
 churl
 convoys
 cyclotrons
+clearings
 churlier
 corrugations
 churliest
@@ -15918,7 +15919,6 @@ clearinghouse
 congratulating
 coquelicot
 clearinghouses
-clearings
 cenotaph
 clearish
 clearly
