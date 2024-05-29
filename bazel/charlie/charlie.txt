@@ -6356,7 +6356,6 @@ carafe
 cauterization
 correcter
 cauterize
-cauterized
 cauterizer
 cauterizes
 cauterizing
@@ -23937,6 +23936,7 @@ controls
 controversal
 controverse
 compositeness
+cauterized
 controversy
 controversialism
 controversialist
