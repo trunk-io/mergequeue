@@ -1480,6 +1480,7 @@ callbacks
 callboy
 callboys
 called
+crescentwise
 callers
 calles
 callet
@@ -28795,7 +28796,6 @@ chok
 crescentlike
 crescentoid
 crescents
-crescentwise
 crescively
 cresegol
 chironomy
