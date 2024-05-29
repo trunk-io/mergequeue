@@ -5551,7 +5551,6 @@ groovy
 groundskeep
 glisk
 glisky
-gluily
 gapperi
 glissader
 gadean
@@ -6665,6 +6664,7 @@ gunfighting
 gypsyish
 goumier
 gideonite
+gluily
 gomorrean
 ghettos
 geology
