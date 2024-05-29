@@ -6527,7 +6527,6 @@ breakup
 butanes
 benzopyrazolone
 benzopyrene
-benzopyrylium
 benzoquinoxaline
 baltimorean
 balau
@@ -17797,6 +17796,7 @@ basqued
 bretelle
 backfill
 burntweed
+benzopyrylium
 burnup
 burnweed
 biobibliography
