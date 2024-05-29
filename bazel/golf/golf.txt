@@ -6312,7 +6312,6 @@ goat
 glyptodontidae
 goatbeard
 gatepost
-gervase
 gollywobbler
 grubble
 gamblesome
@@ -10040,6 +10039,7 @@ giver
 glume
 gulped
 gammation
+gervase
 gargoyles
 greasing
 guemul
