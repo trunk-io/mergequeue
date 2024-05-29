@@ -8734,7 +8734,6 @@ dismayed
 debellate
 duelled
 diastimeter
-diastoles
 diastomatic
 diastral
 decors
@@ -12469,6 +12468,7 @@ disinclination
 disinclined
 disinclining
 delegated
+diastoles
 dolichotmema
 dormitory
 disincrustion
