@@ -7703,6 +7703,7 @@ cerialia
 cerianthid
 cerianthidae
 cerianthoid
+commutate
 calculable
 cerianthus
 cerias
@@ -20398,7 +20399,6 @@ conjee
 commutableness
 caphtor
 commutant
-commutate
 commutated
 commutation
 commutative
