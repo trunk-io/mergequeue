@@ -105,7 +105,6 @@ facy
 frangi
 facias
 faciata
-faciation
 freeport
 fisherpeople
 frough
@@ -3285,6 +3284,7 @@ fiddlery
 fiddles
 flavorousness
 faunology
+faciation
 fructifying
 foreknowable
 fiddlestick
