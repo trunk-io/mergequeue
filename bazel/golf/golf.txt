@@ -1401,6 +1401,7 @@ guls
 greenalite
 garbling
 garlandry
+generability
 galvanist
 garlic
 glycolylurea
@@ -4216,7 +4217,6 @@ guadalcazarite
 gymnasiast
 gymnasic
 gonif
-generability
 glamours
 gentilities
 gymnastic
