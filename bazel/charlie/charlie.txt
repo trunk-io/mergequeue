@@ -5423,7 +5423,6 @@ castrato
 convulsible
 castrator
 compendent
-castrators
 castrensial
 castrensian
 castrum
@@ -24843,6 +24842,7 @@ copulatory
 chausses
 copus
 commers
+castrators
 coquecigrue
 corneagen
 coqueluche
