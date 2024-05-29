@@ -9116,7 +9116,6 @@ electrothanatosis
 eteocretes
 edriophthalma
 erythrite
-endolaryngeal
 enfever
 echappee
 espionage
@@ -9727,6 +9726,7 @@ esp
 espace
 eparchial
 espacement
+endolaryngeal
 equipartile
 espada
 encardion
