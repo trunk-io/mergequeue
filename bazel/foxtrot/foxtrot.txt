@@ -76,6 +76,7 @@ fordeal
 fullfaces
 facemark
 feuter
+forged
 fermentations
 flocklike
 filching
@@ -4828,7 +4829,6 @@ favouredness
 foxings
 fatiscence
 flambant
-forged
 forlorn
 furcately
 frequentable
