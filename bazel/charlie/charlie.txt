@@ -12429,7 +12429,6 @@ chromatize
 chromatogenous
 chromatogram
 cinchonia
-chromatographic
 chromatographically
 chromatolysis
 conquerable
@@ -21110,6 +21109,7 @@ comtesse
 comtesses
 comtian
 cuidado
+chromatographic
 comtism
 comtist
 comunidad
