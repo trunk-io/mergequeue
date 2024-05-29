@@ -14510,7 +14510,6 @@ anthracosaurus
 anthracosilicosis
 anthracosis
 anthracothere
-anthracotheriidae
 anthracotherium
 anthracotic
 anthracoxen
@@ -15064,6 +15063,7 @@ arara
 anticonfederationist
 anticonfederative
 anticonformist
+anthracotheriidae
 anticonformity
 amidohexose
 anticonformities
