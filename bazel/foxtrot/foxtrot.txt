@@ -7402,6 +7402,7 @@ fasciculation
 fumerel
 fey
 foisted
+flask
 forceput
 fazing
 fileable
@@ -9606,7 +9607,6 @@ frescos
 falcated
 freebooter
 freebootery
-flask
 freebooting
 falsettos
 freed
