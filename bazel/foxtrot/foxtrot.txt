@@ -2740,6 +2740,7 @@ fightings
 fungate
 fescues
 forelimbs
+folklore
 fesse
 frankfold
 fessed
@@ -4439,7 +4440,6 @@ fissipes
 fructify
 famille
 finfishes
-folklore
 finickiest
 freighting
 fissirostrate

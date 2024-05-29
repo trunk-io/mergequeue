@@ -4655,6 +4655,7 @@ conjurership
 cryology
 carousal
 carousals
+chm
 carouse
 caroused
 carousel
@@ -11467,7 +11468,6 @@ cheerfulsome
 ciboule
 chlorsalol
 chlortetracycline
-chm
 chmn
 chnuphis
 cho
