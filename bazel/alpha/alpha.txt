@@ -2437,7 +2437,6 @@ aciniform
 anatomicophysiological
 adderwort
 aggrate
-acinus
 acipenseres
 aedes
 acipenseridae
@@ -16010,6 +16009,7 @@ antiprudential
 antipsalmist
 acidimeter
 accidia
+acinus
 antipsychotic
 angloman
 amphigenesis
