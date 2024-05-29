@@ -13437,7 +13437,6 @@ cyclopaedia
 cyclopaedias
 civetlike
 cyclopaedist
-coquito
 cycloparaffin
 chinning
 cyclope
@@ -29187,6 +29186,7 @@ cryoscope
 cryoscopy
 colloblast
 candock
+coquito
 curavecan
 cryoscopic
 cryoscopies

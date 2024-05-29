@@ -1916,6 +1916,7 @@ bandits
 bandle
 bandleader
 blastoff
+babysitter
 breadwinners
 bandlimits
 bostangi
@@ -6555,7 +6556,6 @@ benztrioxazine
 blanchers
 biostratigraphy
 beothuk
-babysitter
 beothukan
 beowulf
 bellicose
