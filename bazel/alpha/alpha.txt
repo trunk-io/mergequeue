@@ -12889,7 +12889,6 @@ angler
 arousement
 antrin
 angletouch
-angletwitch
 anglewing
 allays
 anglewise
@@ -15387,6 +15386,7 @@ antihemisphere
 antihemorrhagic
 antihemorrheidal
 antihero
+angletwitch
 azulejo
 antihydropic
 antihidrotic
