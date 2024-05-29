@@ -102,7 +102,6 @@ earphone
 equijacent
 earpick
 earpiece
-earplugs
 enchisel
 earreach
 extraught
@@ -7417,6 +7416,7 @@ embezzle
 epencephalon
 epencephalons
 enbusshe
+earplugs
 epithalamiast
 enskied
 electoral

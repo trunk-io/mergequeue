@@ -6105,6 +6105,7 @@ dehumanise
 demurer
 disminister
 dungeonlike
+dognapper
 deputizes
 deputizing
 dequeue
@@ -15077,7 +15078,6 @@ derobe
 dactylopatagium
 darkeners
 dowdiness
-dognapper
 dognaps
 dogplate
 dogra
