@@ -9111,7 +9111,6 @@ bioherms
 bronzen
 bioinstrument
 biokinetics
-bastardly
 biol
 biolinguistics
 biolyses
@@ -12464,6 +12463,7 @@ bondages
 bless
 bondar
 bockerel
+bastardly
 barkpeel
 bonderize
 belabored
