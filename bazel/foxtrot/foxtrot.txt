@@ -2261,7 +2261,6 @@ fen
 fenagled
 fatil
 fain
-fenagles
 fenced
 fencelessness
 flautists
@@ -6234,6 +6233,7 @@ fiji
 folkloristic
 fluidally
 fretter
+fenagles
 fluidglycerate
 forcepslike
 fluidic
