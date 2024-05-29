@@ -804,6 +804,7 @@ fesswise
 fango
 fangs
 fanion
+facet
 frowsy
 forgedly
 flusher
@@ -9192,7 +9193,6 @@ foundationless
 fanning
 foment
 fetometry
-facet
 fructicultural
 filenames
 flams
