@@ -6372,6 +6372,7 @@ backspread
 benorth
 bensall
 bensell
+brachiopoda
 birdnester
 bromine
 bensh
@@ -14061,7 +14062,6 @@ brachiocubital
 branchy
 brachiolaria
 bogusness
-brachiopoda
 brachiopode
 bistipular
 bureaucratese
