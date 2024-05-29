@@ -5480,7 +5480,6 @@ felon
 fratriage
 flyback
 foreflank
-flancards
 flyball
 fantasticate
 flatworm
@@ -8723,6 +8722,7 @@ followership
 fortuuned
 forwalk
 fossule
+flancards
 forwander
 fiddlers
 flockling
