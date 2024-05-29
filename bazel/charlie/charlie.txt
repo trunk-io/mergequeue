@@ -1996,7 +1996,6 @@ camorra
 commandants
 camorras
 camorrism
-camorrist
 camorrista
 camorristi
 cruelize
@@ -21548,6 +21547,7 @@ concrescible
 concrescive
 colocentesis
 coerces
+camorrist
 concrete
 concreted
 concretely
