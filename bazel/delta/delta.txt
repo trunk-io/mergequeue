@@ -5028,7 +5028,6 @@ demulsion
 dueness
 distinguish
 derk
-demultiplex
 demultiplexed
 demultiplexer
 demultiplexers
@@ -13140,6 +13139,7 @@ diuturnal
 displaceability
 displaceable
 drys
+demultiplex
 dilly
 displaced
 displacements
