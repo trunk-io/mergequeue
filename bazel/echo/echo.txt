@@ -3011,6 +3011,7 @@ elisor
 elissa
 edestan
 elite
+elaidinic
 eternised
 elitism
 experimentator
@@ -4597,7 +4598,6 @@ enam
 encharging
 enchased
 exchangeable
-elaidinic
 exsolve
 eyednesses
 ectochondral
