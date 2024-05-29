@@ -9017,7 +9017,6 @@ botan
 boorish
 biocidal
 biocide
-bunyip
 bioclimatic
 bioclimatician
 bioclimatology
@@ -12172,6 +12171,7 @@ baklawas
 benzodiazine
 bolide
 befoul
+bunyip
 bolivar
 burns
 bolivian
