@@ -5981,7 +5981,6 @@ dysmerism
 deprivable
 degrader
 disprofit
-declassing
 droppage
 deprivals
 deprivation
@@ -9907,6 +9906,7 @@ disneyland
 dimethyldiketone
 doorsteps
 dimethylketone
+declassing
 debarred
 dimethylnitrosamine
 divvers
