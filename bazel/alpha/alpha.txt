@@ -7505,7 +7505,6 @@ abdominocardiac
 albinism
 albinisms
 albinistic
-albino
 antenatal
 albinos
 antivenin
@@ -8237,6 +8236,7 @@ algorismic
 archaean
 algorisms
 algorist
+albino
 algoristic
 algorithmic
 algorithmically
