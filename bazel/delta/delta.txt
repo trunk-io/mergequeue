@@ -5040,7 +5040,6 @@ diplographical
 disnest
 demurrages
 demurral
-demurrals
 demurrant
 driveling
 demurrer
@@ -8412,6 +8411,7 @@ dialytic
 drumloid
 dispreader
 discountenancer
+demurrals
 dialyzate
 dialyzation
 dialyze
