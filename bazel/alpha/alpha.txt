@@ -19564,7 +19564,6 @@ argify
 argyle
 aseptate
 archaecraniate
-avianized
 anallantoidea
 antisemite
 argillaceous
@@ -23853,6 +23852,7 @@ authorless
 authorly
 authors
 authorship
+avianized
 authotype
 autocytolytic
 arborator
