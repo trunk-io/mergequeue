@@ -2936,6 +2936,7 @@ elflock
 entelodon
 elflocks
 endermic
+expugn
 elfship
 expressless
 elfwife
@@ -13425,7 +13426,6 @@ expropriates
 expropriation
 enunciator
 expropriator
-expugn
 emarginating
 expulses
 expulsing
