@@ -6623,7 +6623,6 @@ bequeathal
 bequeathed
 bruges
 braconidae
-brawled
 bequeaths
 buckeyes
 bequest
@@ -14428,6 +14427,7 @@ battleful
 brambling
 brambrack
 brame
+brawled
 biblicist
 bradyspermatism
 bramia

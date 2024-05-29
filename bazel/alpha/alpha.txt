@@ -1670,7 +1670,6 @@ accouters
 accoutre
 attire
 appurtenances
-accoutrement
 accoutrements
 angioclast
 accoutres
@@ -7104,6 +7103,7 @@ adeliza
 ajowans
 ajuga
 ajutment
+accoutrement
 anatomicals
 akaakai
 akal
