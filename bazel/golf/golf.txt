@@ -453,7 +453,6 @@ genny
 gangion
 graptolithina
 gerontogeous
-galeiform
 gerberas
 gastroanastomosis
 gooseries
@@ -9089,6 +9088,7 @@ gentisein
 gingerleaf
 gryphon
 gyppers
+galeiform
 gripier
 gripmen
 gripment

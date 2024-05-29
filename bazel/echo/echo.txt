@@ -1222,6 +1222,7 @@ edrioasteroidea
 elixed
 edriophthalmatous
 educability
+epiblastema
 educables
 educand
 educatability
@@ -11321,7 +11322,6 @@ evaporability
 electrotheraputically
 ectoplasy
 eutaxy
-epiblastema
 eikonogen
 evaporates
 edp
