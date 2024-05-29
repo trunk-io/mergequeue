@@ -2598,7 +2598,6 @@ ferryway
 finding
 ferroaluminum
 farewell
-ferrocene
 ferrocerium
 fogramity
 ferrocyanate
@@ -6198,6 +6197,7 @@ forefence
 firer
 fluellite
 fibrils
+ferrocene
 fellowed
 facially
 felones
