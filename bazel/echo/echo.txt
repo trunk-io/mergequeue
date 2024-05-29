@@ -6963,6 +6963,7 @@ entosternum
 entothorax
 eclat
 entotympanic
+epistemophilic
 enterokinetic
 entourage
 entozoal
@@ -11985,7 +11986,6 @@ enlist
 emmeleia
 excitant
 epipolic
-epistemophilic
 eugenic
 endangiitis
 eunuchal
