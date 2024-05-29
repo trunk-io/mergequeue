@@ -1784,7 +1784,6 @@ accusations
 accusatively
 accusativeness
 accusatives
-accusator
 associates
 accusatory
 apectomy
@@ -12235,6 +12234,7 @@ aegirite
 anchistea
 anchithere
 anchor
+accusator
 anchorable
 anchorages
 anchorate
