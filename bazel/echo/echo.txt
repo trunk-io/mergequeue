@@ -4120,7 +4120,6 @@ emil
 entries
 emplanement
 entoilment
-endoute
 emplanes
 emplaster
 elevating
@@ -11987,6 +11986,7 @@ enlist
 emmeleia
 excitant
 epipolic
+endoute
 epistemophilic
 eugenic
 endangiitis
