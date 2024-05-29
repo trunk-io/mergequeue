@@ -12805,6 +12805,7 @@ anyway
 adeems
 angiography
 angiographic
+anserous
 angiohemophilia
 anhelous
 angiohypotonia
@@ -20670,7 +20671,6 @@ arthrorheumatism
 arthrocele
 agistor
 aquamanalia
-anserous
 arthroses
 arthrosynovitis
 arthrosyrinx
