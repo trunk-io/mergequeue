@@ -6878,7 +6878,6 @@ berries
 buhls
 barytosulphate
 berryless
-berrypicker
 bookery
 berrugate
 bersagliere
@@ -11514,6 +11513,7 @@ bemurmurs
 blunged
 blunger
 blunk
+berrypicker
 bulgier
 bdellid
 blunket
