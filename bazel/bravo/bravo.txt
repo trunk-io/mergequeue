@@ -7195,7 +7195,6 @@ bespell
 bespelled
 bespend
 bespew
-bespy
 bespice
 breadthwise
 butterlike
@@ -17323,6 +17322,7 @@ bumped
 bumpee
 burrowed
 blobber
+bespy
 beechier
 burbling
 bumpered
