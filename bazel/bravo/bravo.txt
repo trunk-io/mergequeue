@@ -5384,7 +5384,6 @@ burrer
 beglide
 bewilderedness
 beglitter
-begloom
 beglooming
 burkers
 beglooms
@@ -13066,6 +13065,7 @@ boreholes
 boreiad
 bridgings
 bannister
+begloom
 bugseeds
 boodleism
 borel
