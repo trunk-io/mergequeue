@@ -4887,7 +4887,6 @@ flubbing
 fallback
 flamethrowers
 frankpledge
-fraternity
 flamy
 foxlike
 flyflower
@@ -5926,6 +5925,7 @@ fistfight
 floodwood
 foretimes
 foisty
+fraternity
 flannelboard
 fulah
 faitour
