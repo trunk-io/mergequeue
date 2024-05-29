@@ -4305,6 +4305,7 @@ beatuti
 bowls
 bugbear
 boudoir
+burdenous
 beaucoup
 beaued
 bleedings
@@ -17538,7 +17539,6 @@ biograph
 burdener
 burdeners
 burdenless
-burdenous
 bleep
 babeship
 blabs
