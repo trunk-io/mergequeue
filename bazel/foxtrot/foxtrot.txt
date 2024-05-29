@@ -5729,6 +5729,7 @@ ferrochrome
 flytraps
 fibrinate
 floodplain
+fulminic
 flitted
 forestside
 foreground
@@ -8077,7 +8078,6 @@ forethoughtfulness
 fleet
 featherhead
 forethrift
-fulminic
 fourteen
 fire
 focalized
