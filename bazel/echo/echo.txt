@@ -4868,7 +4868,6 @@ encroachments
 encrotchet
 eateries
 encrustation
-embedder
 enculturation
 excoction
 encumbered
@@ -8548,6 +8547,7 @@ equalist
 equalitarian
 equalitarianism
 equality
+embedder
 emendation
 equalize
 electrorefine
