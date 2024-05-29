@@ -2337,7 +2337,6 @@ epicenity
 eremitic
 excuderunt
 epistroma
-electrocapillarity
 electrocardiogram
 exoperidium
 electrocardiograms
@@ -9719,6 +9718,7 @@ esoterize
 extensive
 esotropia
 esp
+electrocapillarity
 espace
 eparchial
 espacement
