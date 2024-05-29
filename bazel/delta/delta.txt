@@ -3978,7 +3978,6 @@ delactation
 delayable
 demes
 delayer
-delayers
 delayful
 delaine
 delays
@@ -13309,6 +13308,7 @@ dihely
 dotters
 disputacity
 disfen
+delayers
 deaconhood
 disputant
 dugong
