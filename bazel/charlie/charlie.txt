@@ -4127,7 +4127,6 @@ cardiometer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
-cardiomotility
 cookey
 chrysolophus
 cardioncus
@@ -25120,6 +25119,7 @@ corecipient
 coreciprocal
 corectome
 cracovienne
+cardiomotility
 corectomy
 cored
 coredeemed
