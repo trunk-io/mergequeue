@@ -6396,7 +6396,6 @@ agranuloplastic
 agrapha
 agraphia
 agraphic
-agraria
 animative
 agrarianize
 aggress
@@ -12465,6 +12464,7 @@ andromorphous
 adventists
 andronicus
 andropetalous
+agraria
 androphagous
 androphorous
 androphorum

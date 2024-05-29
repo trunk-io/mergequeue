@@ -4635,7 +4635,6 @@ fizziest
 fluidram
 fip
 fizzwater
-fart
 fjeld
 fjelds
 fjerding
@@ -6638,6 +6637,7 @@ foreassign
 foder
 foederati
 frontes
+fart
 flintily
 flunkeyhood
 fillip
