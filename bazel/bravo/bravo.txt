@@ -5520,7 +5520,6 @@ brisling
 behaviours
 balai
 bandying
-beheadal
 beheaded
 beheader
 benignness
@@ -11249,6 +11248,7 @@ balachan
 blooth
 blosmy
 biglandular
+beheadal
 blossom
 bismuthiferous
 blossomy
