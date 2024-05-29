@@ -4278,7 +4278,6 @@ cargadores
 causelessly
 chintziness
 cargason
-cargo
 cargoes
 cargos
 carhop
@@ -11915,6 +11914,7 @@ choppers
 choppier
 choppiest
 choppiness
+cargo
 cowpuncher
 chopstick
 chopsticks
