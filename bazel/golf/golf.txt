@@ -7324,7 +7324,6 @@ gassings
 gullishness
 glycerol
 gossipped
-gerrymandered
 gossipping
 gossipred
 gossipries
@@ -10461,6 +10460,7 @@ gymnic
 greetings
 gummatous
 gneissy
+gerrymandered
 gigantomachia
 gummic
 gastrolienal
