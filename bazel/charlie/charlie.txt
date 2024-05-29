@@ -9557,7 +9557,6 @@ checkerist
 clavola
 checkers
 cabbalah
-checkerspot
 carpodacus
 capos
 checkerwise
@@ -28473,6 +28472,7 @@ counterretreat
 consistory
 creasot
 coffeebush
+checkerspot
 cognizability
 crosier
 create
