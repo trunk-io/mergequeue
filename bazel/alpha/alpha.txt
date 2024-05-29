@@ -7649,7 +7649,6 @@ alcalde
 alcaldes
 alcaldeship
 alcaldia
-alcalizate
 alcalzar
 alcanna
 acardiac
@@ -15499,6 +15498,7 @@ antilottery
 antimacassar
 antimacassars
 antimagistratical
+alcalizate
 amidocaffeine
 antimalaria
 antimalarial
