@@ -4414,6 +4414,7 @@ bebrother
 bebrush
 bemirrorment
 bebuttoned
+barricade
 bushbodies
 batiker
 boebera
@@ -9024,7 +9025,6 @@ bioclimatology
 bollox
 bavoso
 blabber
-barricade
 bioclimatologically
 bioclimatologist
 biocoenose
