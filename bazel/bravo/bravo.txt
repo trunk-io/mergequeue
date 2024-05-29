@@ -1691,6 +1691,7 @@ balmlike
 balmony
 butyrinase
 boko
+bogging
 balmonies
 beslur
 balmoral
@@ -3556,7 +3557,6 @@ birdcall
 batched
 batcher
 bargemen
-bogging
 bateau
 blastomycetous
 bucchero
