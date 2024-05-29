@@ -2319,7 +2319,6 @@ elfkin
 electroacoustically
 electroacoustics
 ensnaringly
-electroaffinity
 endmatcher
 exundation
 electroanalytic
@@ -6781,6 +6780,7 @@ exhalatory
 evanid
 entify
 enemied
+electroaffinity
 entifical
 entyloma
 envenomed
