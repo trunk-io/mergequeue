@@ -5868,6 +5868,7 @@ belled
 baggageman
 bearably
 buzzed
+boardinghouse
 bywalker
 belleric
 biologists
@@ -11603,7 +11604,6 @@ board
 boardbill
 boarded
 bibulosity
-boardinghouse
 biennium
 boardings
 boardly

@@ -2955,6 +2955,7 @@ frizzling
 feuillage
 furcation
 flyoff
+factorization
 feuilleton
 feuilletons
 fleches
@@ -10438,7 +10439,6 @@ frontozygomatic
 fluorogenic
 fronts
 foreimagination
-factorization
 frontsman
 frictions
 fluxional
