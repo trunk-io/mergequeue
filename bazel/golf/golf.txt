@@ -3827,7 +3827,6 @@ goodish
 giarra
 giarre
 gyassa
-gib
 genetmoil
 guilelessness
 ginglymoid
@@ -6532,6 +6531,7 @@ guam
 grotto
 goitrogenic
 gokuraku
+gib
 giddiest
 glaury
 grindal
