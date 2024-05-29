@@ -1146,7 +1146,6 @@ calcsinter
 calcspar
 calcspars
 cotwal
-calctufa
 calctuff
 calculability
 counterrampant
@@ -17568,6 +17567,7 @@ cocama
 cocamama
 corrodible
 cocamine
+calctufa
 cocanucos
 cocao
 chairmen
