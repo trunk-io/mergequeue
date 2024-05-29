@@ -7209,7 +7209,6 @@ ako
 akoasm
 akontae
 abdominalia
-adenotomy
 azotea
 akov
 andromonoecious
@@ -14216,6 +14215,7 @@ anteoccupation
 anteocular
 argyria
 anteopercle
+adenotomy
 assoin
 anteoperculum
 anteorbital
