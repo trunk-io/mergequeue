@@ -7656,7 +7656,6 @@ buskins
 belimousined
 blowpit
 bewailing
-bewails
 bandolier
 beware
 bernoullian
@@ -8773,6 +8772,7 @@ baronizing
 billons
 begetting
 billow
+bewails
 baboen
 bettong
 balladeroyal
