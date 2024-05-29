@@ -10428,6 +10428,7 @@ diacidic
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
+disperses
 diospyros
 diphenylene
 diphenylenimine
@@ -13084,7 +13085,6 @@ dispersedness
 dourine
 detonates
 dispersers
-disperses
 dispersibility
 daces
 dispersing
