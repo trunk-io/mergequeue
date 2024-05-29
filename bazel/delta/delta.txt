@@ -1022,7 +1022,6 @@ darkmans
 disannexation
 dineutron
 darkskin
-darksomeness
 darksum
 domineers
 deltahedron
@@ -13696,6 +13695,7 @@ distils
 dissident
 decentered
 dissipations
+darksomeness
 dissipator
 donates
 doffer
