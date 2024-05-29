@@ -7817,7 +7817,6 @@ bhakti
 bulbotuber
 bhaktimarga
 bhandari
-behavioral
 bhang
 bhangi
 bhara
@@ -16861,6 +16860,7 @@ barhopping
 buffs
 bullfighting
 basihyal
+behavioral
 brei
 bufo
 bufonid
