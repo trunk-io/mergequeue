@@ -1778,7 +1778,6 @@ freewill
 feathertop
 flagellation
 featherweed
-fulminancy
 frostless
 flaunts
 flakeboard
@@ -6404,6 +6403,7 @@ fourfiusher
 feudalities
 fluoryl
 fluorimetry
+fulminancy
 frolicks
 franc
 fraterniser
