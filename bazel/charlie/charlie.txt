@@ -7273,7 +7273,6 @@ centrosome
 cribral
 centrosomic
 centrospermae
-centrosphere
 casuistical
 centrum
 cylinderer
@@ -28485,6 +28484,7 @@ create
 created
 createdness
 cheliferous
+centrosphere
 creates
 creatic
 codlin
