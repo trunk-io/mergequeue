@@ -1347,7 +1347,6 @@ accable
 accademia
 avellaneous
 acceded
-accel
 accelerable
 accelerando
 amnesias
@@ -21821,6 +21820,7 @@ ascicidia
 assify
 apprehensiveness
 assign
+accel
 assignability
 assignable
 assignably
