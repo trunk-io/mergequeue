@@ -12288,7 +12288,6 @@ boltrope
 bittern
 boltropes
 bolts
-boltsmith
 barbarea
 beakful
 banker
@@ -16781,6 +16780,7 @@ budging
 budh
 beseecher
 budlet
+boltsmith
 bharti
 budling
 budmash
