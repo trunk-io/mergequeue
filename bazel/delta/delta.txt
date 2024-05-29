@@ -6515,7 +6515,6 @@ descendability
 dispossesses
 descendable
 descendants
-decursive
 dentellated
 descendent
 diglot
@@ -7567,6 +7566,7 @@ dacryoma
 desistence
 deuteroproteose
 deuteroscopy
+decursive
 deuterosy
 deuterostoma
 deuterostome
