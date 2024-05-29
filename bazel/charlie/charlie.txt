@@ -6432,7 +6432,6 @@ cavern
 cavernal
 caverned
 cavernlike
-cavernoma
 cavernous
 cavernously
 cavernulous
@@ -9057,6 +9056,7 @@ charioting
 chariotman
 collegiately
 cumarin
+cavernoma
 chariotry
 chariotway
 crisscrossing
