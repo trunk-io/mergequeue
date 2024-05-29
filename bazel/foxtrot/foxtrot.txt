@@ -4387,6 +4387,7 @@ foodlessness
 faultfinding
 fishpoles
 forlornest
+frilal
 farms
 fishponds
 fishpotter
@@ -5183,7 +5184,6 @@ fencelike
 fossilage
 fstore
 flot
-frilal
 flavoured
 feeder
 fomenter
