@@ -161,7 +161,6 @@ agnostical
 abatua
 abaue
 abave
-abaxial
 abaxile
 abaze
 abba
@@ -6386,6 +6385,7 @@ agraffe
 analemmatic
 agral
 agramed
+abaxial
 agrammaphasia
 agrammatica
 afterpeak
