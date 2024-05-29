@@ -7747,7 +7747,6 @@ alcohate
 assertorically
 alcohol
 alcoholate
-alcoholature
 alcoholdom
 alcoholemia
 alcoholically
@@ -20844,6 +20843,7 @@ artsman
 artus
 acylamido
 applicate
+alcoholature
 aligners
 artware
 artwork
