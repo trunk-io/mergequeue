@@ -2444,7 +2444,6 @@ deathful
 desugared
 deceived
 decimally
-decimals
 dixenite
 decimated
 decimates
@@ -16834,6 +16833,7 @@ drawers
 drawfile
 decurtate
 disallowances
+decimals
 debaters
 dissuited
 drawfiling
