@@ -7010,6 +7010,7 @@ centaur
 centaurdom
 centaurea
 carretta
+crossings
 clitellum
 centauress
 centaury
@@ -29880,7 +29881,6 @@ crosshaul
 crosshauling
 chipper
 crossing
-crossings
 crossite
 crossjack
 cinnamenyl
