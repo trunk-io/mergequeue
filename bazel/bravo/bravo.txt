@@ -12779,7 +12779,6 @@ baronry
 bookrest
 begut
 bookseller
-becloaked
 bullneck
 biparous
 boce
@@ -16521,6 +16520,7 @@ bubble
 bubbled
 bubblelike
 becovet
+becloaked
 bubblement
 bowlings
 beerier
