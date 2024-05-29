@@ -9419,7 +9419,6 @@ doolies
 diffusibleness
 diffusimeter
 diffusing
-diffusion
 diffusional
 dowerless
 diffusionist
@@ -12875,6 +12874,7 @@ dinophilus
 demisable
 debussyanize
 dimensionless
+diffusion
 dendroica
 disomatic
 disomatous
