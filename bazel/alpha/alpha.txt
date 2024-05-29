@@ -6390,6 +6390,7 @@ agral
 agramed
 agrammaphasia
 agrammatica
+accouple
 afterpeak
 agrammatism
 agrammatologia
@@ -7974,7 +7975,6 @@ alength
 alenu
 aleochara
 aleph
-accouple
 alepidote
 alepine
 alepole
