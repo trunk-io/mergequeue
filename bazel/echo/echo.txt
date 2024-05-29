@@ -6616,7 +6616,6 @@ enigua
 ephyrae
 enterogram
 enterograph
-enterography
 enterohemorrhage
 estatesman
 enantiomeric
@@ -12082,6 +12081,7 @@ extrication
 excoriated
 electroanalysis
 excoriating
+enterography
 enrages
 enlivenment
 excoriation
