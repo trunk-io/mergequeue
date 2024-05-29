@@ -3294,7 +3294,6 @@ granny
 getatability
 genoese
 grimp
-groats
 graffage
 gormandizer
 gerard
@@ -9180,6 +9179,7 @@ grizzlers
 grizzly
 grizzling
 groaned
+groats
 gallflower
 ghosts
 groanful
