@@ -3721,7 +3721,6 @@ carbazylic
 chlorpikrin
 cheerios
 carbazine
-crimpled
 carbazole
 carbeen
 carbene
@@ -18326,6 +18325,7 @@ crenelled
 cogger
 coggers
 cogging
+crimpled
 claypan
 coggle
 coggledy
