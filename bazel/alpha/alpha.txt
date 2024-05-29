@@ -7326,7 +7326,6 @@ audiologists
 altercations
 alant
 alantic
-alantin
 alantolactone
 aback
 anoles
@@ -8233,6 +8232,7 @@ algoristic
 algorithmic
 algorithmically
 algors
+alantin
 algovite
 algraphy
 alguacil
