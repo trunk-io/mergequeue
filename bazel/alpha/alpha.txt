@@ -11722,6 +11722,7 @@ attempts
 anaesthetize
 anaesthetized
 anaesthetizer
+athermic
 adsum
 arbalester
 anaetiological
@@ -22598,7 +22599,6 @@ atheris
 athermancy
 assonances
 athermanous
-athermic
 atherogenesis
 agony
 antiatoms
