@@ -2167,7 +2167,6 @@ campout
 circumfusile
 camps
 capotes
-chaenactis
 campshed
 campsheeting
 campsite
@@ -18379,6 +18378,7 @@ cognatical
 cognation
 cognatus
 cementum
+chaenactis
 cognisable
 catholicized
 cognisableness
