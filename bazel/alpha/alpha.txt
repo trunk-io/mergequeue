@@ -8547,7 +8547,6 @@ animator
 autoheterodyne
 abdomens
 alkalization
-alkalize
 alkalizer
 alkalizes
 alkalizing
@@ -11651,6 +11650,7 @@ anaphoras
 alow
 ammanite
 afraid
+alkalize
 anacreon
 anacreontic
 anacreontically
