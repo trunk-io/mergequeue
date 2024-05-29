@@ -8188,6 +8188,7 @@ finestra
 forbid
 forgat
 flankard
+frogs
 footwork
 forgather
 fop
@@ -10283,7 +10284,6 @@ fleshly
 ferngrower
 fingian
 foundationed
-frogs
 fermentor
 fluorimeter
 frilly
