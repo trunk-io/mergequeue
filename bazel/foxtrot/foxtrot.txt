@@ -2454,7 +2454,6 @@ fermatas
 fleshed
 festivities
 figpecker
-ferme
 frizzle
 firebird
 futtock
@@ -6956,6 +6955,7 @@ fomentations
 foresty
 functionalized
 formylation
+ferme
 franks
 foetus
 fluoaluminic
