@@ -6277,6 +6277,7 @@ beneficiaryship
 bluebooks
 beneficiate
 beneficiated
+bismite
 beneficiating
 beneficiation
 bloodthirsting
@@ -9764,7 +9765,6 @@ bismer
 bismerpund
 bismillah
 bipartisanism
-bismite
 bismosol
 bismuth
 bismuthal
