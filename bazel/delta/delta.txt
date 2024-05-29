@@ -3864,7 +3864,6 @@ defail
 donkey
 deil
 deils
-disjecting
 duplexed
 despatched
 deimos
@@ -11719,6 +11718,7 @@ discovery
 decancellation
 discovers
 discovert
+disjecting
 disfiguringly
 discoverture
 discradle
