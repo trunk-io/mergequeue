@@ -17048,7 +17048,6 @@ cnemis
 cneorum
 cnicin
 capmakers
-cnida
 cnidae
 cnidarian
 cnidian
@@ -25725,6 +25724,7 @@ corradiated
 corrasive
 correa
 correality
+cnida
 correct
 colluvies
 correctable
