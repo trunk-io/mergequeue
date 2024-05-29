@@ -5057,7 +5057,6 @@ deskmen
 denari
 denaries
 denarinarii
-denarius
 denaro
 dejectedness
 dietted
@@ -15518,6 +15517,7 @@ desensitize
 dong
 diplococcocci
 despin
+denarius
 dongola
 dongolas
 doni
