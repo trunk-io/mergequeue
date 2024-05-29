@@ -3088,7 +3088,6 @@ barwood
 boneblack
 backhouse
 barksome
-basale
 bursarship
 basalt
 bacteriofluorescin
@@ -10056,6 +10055,7 @@ beggardom
 biverb
 beinness
 bedfast
+basale
 bivocal
 briton
 bivocalized
