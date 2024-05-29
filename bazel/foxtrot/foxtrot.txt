@@ -4369,7 +4369,6 @@ fishman
 folic
 fishmonger
 floorward
-fraternizer
 ferociousness
 fluorapatite
 fishmouth
@@ -4880,6 +4879,7 @@ flameout
 feazings
 fourflushers
 flameouts
+fraternizer
 formulize
 fictileness
 flamer
