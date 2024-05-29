@@ -1923,6 +1923,7 @@ goodwills
 gill
 groomy
 grecizing
+glaived
 grandioseness
 grainering
 gyrostabilized
@@ -10166,7 +10167,6 @@ guidable
 guardianly
 git
 grown
-glaived
 gelid
 guide
 guideboard
