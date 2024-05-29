@@ -3860,7 +3860,6 @@ finagler
 flashlamps
 finaglers
 fiked
-fordable
 finalization
 finalized
 fionnuala
@@ -5138,6 +5137,7 @@ flautino
 flautist
 featest
 fratercula
+fordable
 flav
 flunk
 flavanilin
