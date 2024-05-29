@@ -17,7 +17,6 @@ evansite
 ead
 eadi
 excoriator
-earthmove
 eadios
 eager
 eagerest
@@ -5639,6 +5638,7 @@ extremity
 enfree
 enerve
 enfrenzy
+earthmove
 egotize
 extranatural
 epigrammatized
