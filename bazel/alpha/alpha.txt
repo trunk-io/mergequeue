@@ -4695,6 +4695,7 @@ adviso
 adlumine
 amatungula
 advisor
+aftergo
 advisories
 articulant
 advisorily
@@ -5624,7 +5625,6 @@ anadem
 aftergas
 afterglow
 alloclasite
-aftergo
 ascesis
 aftergood
 aftergrief
