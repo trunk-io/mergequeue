@@ -2350,6 +2350,7 @@ flagboat
 feod
 firestopping
 feodum
+foulings
 filander
 farewelled
 feoff
@@ -9302,7 +9303,6 @@ franchise
 franchisee
 franchisees
 federalizations
-foulings
 fertil
 finings
 freebooted
