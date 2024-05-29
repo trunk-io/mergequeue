@@ -2250,7 +2250,6 @@ barbel
 barauna
 barba
 barbacan
-belgae
 barbacoan
 bloc
 bayards
@@ -12040,6 +12039,7 @@ boyaus
 bronchiolus
 boyaux
 boychick
+belgae
 bicentenaries
 biscuitry
 boychik
