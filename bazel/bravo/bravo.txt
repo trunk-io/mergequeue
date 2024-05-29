@@ -886,7 +886,6 @@ bagie
 baginda
 burghal
 bagios
-bedrenching
 bagle
 babishness
 beadlery
@@ -4632,6 +4631,7 @@ bed
 bater
 bool
 bedabble
+bedrenching
 beagles
 bequirtle
 bedabbling
