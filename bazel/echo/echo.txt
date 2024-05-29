@@ -4294,7 +4294,6 @@ emulsoidal
 effluxes
 env
 emulsoids
-enteropathogenic
 emunctory
 electroencephalographic
 enlay
@@ -5348,6 +5347,7 @@ envolupen
 evocatory
 endotheliomas
 endotheliomata
+enteropathogenic
 economically
 esquiline
 empyreum
