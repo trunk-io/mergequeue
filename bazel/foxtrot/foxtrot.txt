@@ -9527,7 +9527,6 @@ frazer
 flameproof
 frazzle
 flattop
-frazzled
 frazzling
 frden
 figure
@@ -11285,6 +11284,7 @@ foretriangle
 ferrean
 finbacks
 funs
+frazzled
 funster
 factorial
 furans
