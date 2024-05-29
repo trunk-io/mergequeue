@@ -7379,7 +7379,6 @@ demilunes
 depersonalised
 demiadult
 detonate
-detonating
 detonation
 detonations
 detonative
@@ -16532,6 +16531,7 @@ deadwoods
 dumpfile
 draegermen
 deoxidator
+detonating
 draffman
 dynamogenic
 drostden
