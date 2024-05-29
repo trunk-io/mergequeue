@@ -2657,7 +2657,6 @@ behn
 barkhan
 batman
 barkier
-bantamweight
 barkiest
 birdhouses
 barking
@@ -9092,6 +9091,7 @@ backspace
 biogeny
 biogeochemical
 biogeochemistry
+bantamweight
 biogeographer
 biogeographical
 biogeographically
