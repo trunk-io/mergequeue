@@ -2697,7 +2697,6 @@ decomposure
 dogwatches
 decompoundable
 diffractional
-decompoundly
 decompress
 dibble
 decompresses
@@ -9552,6 +9551,7 @@ digitron
 dialogising
 digitule
 digladiating
+decompoundly
 decken
 digladiator
 diglyceride
