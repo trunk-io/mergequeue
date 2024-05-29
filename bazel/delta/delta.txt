@@ -3586,7 +3586,6 @@ daybeam
 demoniast
 deoxygenizing
 dishonouring
-deftness
 deftnesses
 draconic
 defunct
@@ -4137,6 +4136,7 @@ deceleration
 diphyozooid
 dures
 delighter
+deftness
 delightful
 delightfulness
 delightingly
