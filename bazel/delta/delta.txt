@@ -15045,6 +15045,7 @@ dogleg
 doglegging
 doglegs
 doglike
+doorknobs
 dufrenite
 delicti
 dogmatic
@@ -15619,7 +15620,6 @@ dooryards
 dooring
 doorkeeper
 doorknob
-doorknobs
 doorless
 doormaid
 doormaker
