@@ -6682,7 +6682,6 @@ celature
 cele
 celeb
 clition
-celebesian
 celebrant
 celebrants
 celebrate
@@ -16201,6 +16200,7 @@ climactically
 climacus
 climant
 climata
+celebesian
 climatal
 corticate
 climatarchic
