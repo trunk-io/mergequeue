@@ -678,7 +678,6 @@ disseminate
 dampness
 dampproof
 dampproofing
-damselfish
 deflater
 damselfishes
 diversions
@@ -4537,6 +4536,7 @@ demethylate
 demetricize
 deceits
 deficiently
+damselfish
 dudine
 duress
 demy
