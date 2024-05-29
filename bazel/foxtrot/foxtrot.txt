@@ -3538,7 +3538,6 @@ flutidae
 frontless
 filagreed
 filament
-filamentiferous
 fundamentally
 flunkyhood
 fuzztail
@@ -9907,6 +9906,7 @@ fruitage
 faden
 fribbler
 friskle
+filamentiferous
 fribbling
 ferrite
 fricace
