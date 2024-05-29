@@ -5066,6 +5066,7 @@ flathead
 flatiron
 froom
 flatirons
+flighter
 flatlands
 flatlets
 flavoprotein
@@ -5545,7 +5546,6 @@ fennelflower
 flight
 flighted
 foetuses
-flighter
 fishful
 flightful
 freemasonism
