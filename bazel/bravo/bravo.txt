@@ -3012,7 +3012,6 @@ beared
 bess
 boist
 bartenders
-bartending
 bartends
 baggywrinkle
 barter
@@ -13750,6 +13749,7 @@ bovidae
 bovids
 bovinely
 bovinity
+bartending
 bronchophonic
 blushfulness
 bovinities
