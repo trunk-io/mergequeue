@@ -11485,7 +11485,6 @@ choanoflagellida
 cotta
 cryptanalytical
 choanoflagellidae
-choanoid
 choanophorous
 cataplasm
 choanosomal
@@ -15166,6 +15165,7 @@ companionway
 civilisational
 civilisations
 civilise
+choanoid
 countercondemnation
 civilises
 copolymeric
