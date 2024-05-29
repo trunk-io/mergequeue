@@ -583,7 +583,6 @@ funt
 fade
 forage
 flowerfly
-finders
 filippic
 falsehood
 forestine
@@ -5081,6 +5080,7 @@ formicidae
 fossified
 flatness
 faceting
+finders
 flatted
 flattercap
 fremdly
