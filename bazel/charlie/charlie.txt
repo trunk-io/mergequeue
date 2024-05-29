@@ -9702,7 +9702,6 @@ cheesecake
 crees
 cheesecloth
 cheesecloths
-comments
 cheesecurd
 cheesecutter
 cheesed
@@ -11596,6 +11595,7 @@ cholaemia
 cholagogic
 cholagogue
 cholalic
+comments
 coquimbite
 cliseometer
 couthily
