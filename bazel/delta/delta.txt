@@ -1497,7 +1497,6 @@ ddname
 dea
 depressure
 deaccession
-darknesses
 deaccessioning
 dingbats
 declive
@@ -16804,6 +16803,7 @@ diarrhoeic
 deceptiously
 disorganized
 drawback
+darknesses
 deaconing
 drawbar
 disconcerting
