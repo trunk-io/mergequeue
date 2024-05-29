@@ -5259,6 +5259,7 @@ gld
 glead
 gleam
 geyserine
+gomphosis
 gametogony
 guzzler
 guss
@@ -8702,7 +8703,6 @@ glyceryls
 grantee
 greenshank
 genuflexion
-gomphosis
 greyhens
 goosish
 giantesses

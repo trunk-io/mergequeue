@@ -8439,6 +8439,7 @@ diallists
 dialog
 downsize
 dialoger
+diplomatique
 dialogers
 dialogged
 dialogic
@@ -10600,7 +10601,6 @@ deben
 diplomates
 diplomatically
 depositum
-diplomatique
 dolour
 diplomatism
 diplomatist
