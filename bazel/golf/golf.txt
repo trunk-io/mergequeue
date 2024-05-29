@@ -5252,7 +5252,6 @@ gorgonesque
 glycidic
 glazer
 glazers
-glazes
 gullible
 grueling
 gestational
@@ -8046,6 +8045,7 @@ gravelous
 gads
 gucki
 gnatty
+glazes
 gondoliere
 grantees
 goric
