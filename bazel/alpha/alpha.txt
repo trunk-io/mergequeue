@@ -11723,7 +11723,6 @@ attempts
 anaesthetize
 anaesthetized
 anaesthetizer
-adsum
 arbalester
 anaetiological
 anagalactic
@@ -13536,6 +13535,7 @@ annelid
 annelida
 annelidan
 annelidian
+adsum
 annelidous
 annelids
 aioli
