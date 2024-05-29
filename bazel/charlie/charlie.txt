@@ -12326,6 +12326,7 @@ christed
 christen
 christendie
 christendom
+compassability
 christened
 calcinable
 christener
@@ -20542,7 +20543,6 @@ compartments
 critchfield
 codding
 compass
-compassability
 compassable
 compassed
 compasses
