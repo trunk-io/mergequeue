@@ -14237,6 +14237,7 @@ cardcastle
 casemate
 circler
 counternotice
+culicidae
 circlet
 corticoid
 circleting
@@ -31521,7 +31522,6 @@ curstness
 curt
 curtailed
 curtailedly
-culicidae
 curtailing
 compulsiveness
 cursores
