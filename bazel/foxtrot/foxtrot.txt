@@ -6404,7 +6404,6 @@ feudalities
 fluoryl
 fluorimetry
 frolicks
-franc
 fraterniser
 fluorimetric
 foot
@@ -7179,6 +7178,7 @@ frisesomorum
 filthless
 fortnight
 fustily
+franc
 footlock
 footlockers
 footlog
