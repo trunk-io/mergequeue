@@ -2821,7 +2821,6 @@ geniculum
 golfing
 grasps
 genitor
-gauntry
 gripeful
 gorlois
 geniture
@@ -3214,6 +3213,7 @@ gumshoing
 georgemas
 globulins
 gregarinosis
+gauntry
 gauss
 germanite
 gazetting

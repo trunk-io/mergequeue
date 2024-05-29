@@ -5583,7 +5583,6 @@ constabulary
 cataloguing
 cataloguish
 cataloguist
-cataloguize
 catalonian
 cataloon
 catalos
@@ -26685,6 +26684,7 @@ counsellors
 counsellorship
 counselor
 counsels
+cataloguize
 count
 countability
 countably
