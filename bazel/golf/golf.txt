@@ -3361,7 +3361,6 @@ germanification
 guess
 germanish
 gadso
-gregaritic
 germanist
 gladder
 gelotoscopy
@@ -7514,6 +7513,7 @@ geraniol
 gurries
 gelatiniferous
 grounded
+gregaritic
 grinagog
 gowked
 gunkholing
