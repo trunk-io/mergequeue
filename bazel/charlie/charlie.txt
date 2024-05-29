@@ -18260,7 +18260,6 @@ coffeeberries
 concocts
 cohosting
 coffeecake
-coffeecup
 concessionary
 chartings
 coffeegrower
@@ -24212,6 +24211,7 @@ congelifract
 charon
 convictfish
 convictfishes
+coffeecup
 convictible
 cantinier
 conviction
