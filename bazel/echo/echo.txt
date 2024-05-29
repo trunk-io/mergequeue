@@ -9004,7 +9004,6 @@ ericaceae
 enspheres
 ericaceous
 ericad
-erical
 exoskeletal
 eteoclus
 eftsoon
@@ -13983,6 +13982,7 @@ endogen
 extraregularly
 extrarenal
 elytroid
+erical
 extraretinal
 exiling
 exsertile
