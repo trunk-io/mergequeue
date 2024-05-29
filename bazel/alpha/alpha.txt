@@ -671,6 +671,7 @@ anemographic
 aborad
 aboral
 aborally
+armatures
 anthomyiid
 abord
 apsidally
@@ -19932,7 +19933,6 @@ auxilium
 armatoli
 armatured
 aeroacoustic
-armatures
 armband
 annuent
 armbands
