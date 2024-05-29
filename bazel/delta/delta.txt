@@ -16793,7 +16793,6 @@ dravidian
 dravidic
 diplomate
 dravite
-draw
 dongon
 drawability
 diarrhoeic
@@ -17488,6 +17487,7 @@ drouths
 deliver
 delegatee
 drove
+draw
 droved
 drovers
 drovy
