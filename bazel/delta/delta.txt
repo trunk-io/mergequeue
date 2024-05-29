@@ -3968,6 +3968,7 @@ deking
 dustcoat
 dotage
 douser
+decius
 dekle
 deyship
 dehydrofrozen
@@ -17167,7 +17168,6 @@ decade
 dading
 drainway
 demission
-decius
 demurs
 dimwittedness
 drinkability
