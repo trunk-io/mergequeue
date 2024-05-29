@@ -6782,7 +6782,6 @@ cellarette
 cellarmen
 cellars
 chirologies
-chaplet
 charivariing
 cellarwoman
 cellblock
@@ -18813,6 +18812,7 @@ colegislator
 colemouse
 coalfish
 conodonts
+chaplet
 coleochaetaceous
 cheltenham
 caravaned
