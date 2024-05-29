@@ -5728,7 +5728,6 @@ billyer
 belauds
 belshazzar
 br
-belch
 belcher
 belches
 blowpipes
@@ -5916,6 +5915,7 @@ banded
 barest
 bushers
 bellicosely
+belch
 bellicoseness
 bibliotherapies
 bellicosity
