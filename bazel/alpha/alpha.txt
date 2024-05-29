@@ -3610,6 +3610,7 @@ attackable
 adelantados
 adelante
 alidade
+anisopteran
 adelarthra
 alectryon
 apetalae
@@ -13396,7 +13397,6 @@ aleppine
 administratress
 allegretto
 anisoptera
-anisopteran
 arunta
 anisosepalous
 anisostaminous
