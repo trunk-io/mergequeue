@@ -6617,7 +6617,6 @@ bedirt
 bepuffed
 brandi
 bequalm
-bequeathal
 bequeathed
 bruges
 braconidae
@@ -7101,6 +7100,7 @@ besmouch
 besmudge
 besmudged
 beamless
+bequeathal
 blasted
 besmudges
 besmudging
