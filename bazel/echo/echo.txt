@@ -2471,7 +2471,6 @@ eudyptes
 electrograving
 erythrophyllin
 enstatite
-electrogasdynamics
 electroharmonic
 empanelment
 electrohemostasis
@@ -10112,6 +10111,7 @@ esmeraldite
 etched
 efford
 eutectics
+electrogasdynamics
 etcher
 eustomatous
 etchers
