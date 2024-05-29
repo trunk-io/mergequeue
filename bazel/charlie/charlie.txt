@@ -12308,7 +12308,6 @@ chrysopidae
 chrysopoeia
 chrysoprase
 chrysoprasus
-chrysops
 casement
 chrysopsis
 camphorphorone
@@ -27621,6 +27620,7 @@ curlyheads
 charioteership
 covisitor
 conventicler
+chrysops
 covite
 covolume
 covotary
