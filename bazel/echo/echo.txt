@@ -1764,6 +1764,7 @@ eliding
 eyelessness
 eyelet
 eyeleted
+expounder
 eyeletting
 eyelid
 eyelids
@@ -13373,7 +13374,6 @@ excalfaction
 emporetic
 eclegme
 expound
-expounder
 encl
 efractory
 eulogised
