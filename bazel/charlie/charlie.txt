@@ -9203,6 +9203,7 @@ chartreux
 centration
 chartroom
 commonefaction
+clairaudient
 charts
 coderive
 chartula
@@ -15321,7 +15322,6 @@ clayoquot
 claypans
 clair
 clairaudience
-clairaudient
 choicer
 countertug
 claire
