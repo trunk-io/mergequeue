@@ -6522,7 +6522,6 @@ fibrilations
 flutter
 flutterable
 facultative
-flutterboard
 fluttered
 furnacer
 ferial
@@ -9878,6 +9877,7 @@ furnacite
 fpm
 fretting
 fretum
+flutterboard
 firefang
 figurante
 fetiches
