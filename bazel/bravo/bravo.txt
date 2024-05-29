@@ -1932,7 +1932,6 @@ bandanas
 bandogs
 bonfire
 bothersomeness
-bandoleer
 burlesquely
 bumf
 bancus
@@ -12926,6 +12925,7 @@ bootyless
 bootjacks
 bootle
 bootlegs
+bandoleer
 brassylic
 bootless
 bootlessly
