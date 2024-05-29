@@ -1528,6 +1528,7 @@ acclinal
 acclinate
 amidocyanogen
 acclivities
+apometabolous
 acclivitous
 afoot
 acclivous
@@ -9655,7 +9656,6 @@ alumbloom
 alumel
 agrom
 alumian
-apometabolous
 alumic
 alumiferous
 alumina
