@@ -1191,7 +1191,6 @@ eater
 ecphory
 eidology
 editorializer
-editorializers
 enation
 editorializes
 editors
@@ -3333,6 +3332,7 @@ expanse
 eventilate
 elzevirian
 evildoing
+editorializers
 enjambed
 emasculate
 emasculated
