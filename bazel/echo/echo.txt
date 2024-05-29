@@ -6154,7 +6154,6 @@ enols
 esquireship
 enterclose
 execs
-enomotarch
 exodist
 enophthalmus
 ebenaceae
@@ -6235,6 +6234,7 @@ engagee
 enrapturing
 enravish
 enravished
+enomotarch
 embolden
 enravishingly
 ectozoic
