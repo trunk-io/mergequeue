@@ -4156,6 +4156,7 @@ admit
 allowanced
 admits
 admittable
+allegro
 antedate
 admittance
 admittatur
@@ -8704,7 +8705,6 @@ allegresse
 allegrettos
 apasttra
 annulosan
-allegro
 alley
 alleyite
 alleys
