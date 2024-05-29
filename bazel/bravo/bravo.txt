@@ -5329,6 +5329,7 @@ beggarlice
 beggarlike
 beggarliness
 brimless
+behang
 beggarman
 beggarweed
 bubbies
@@ -12303,7 +12304,6 @@ bombable
 bombacaceae
 blacktail
 bombace
-behang
 bombay
 byrls
 bombarded
