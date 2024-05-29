@@ -12562,7 +12562,6 @@ azoturia
 anemonal
 anemone
 anglemeter
-anticreator
 avidities
 anemonella
 anemones
@@ -21455,6 +21454,7 @@ acaricide
 alantol
 aspergilli
 antimark
+anticreator
 anatira
 anosmatic
 aspergillin
