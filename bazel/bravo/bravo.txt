@@ -1529,6 +1529,7 @@ balladromic
 ballads
 ballahou
 ballam
+buggane
 baralipton
 bousing
 becost
@@ -16885,7 +16886,6 @@ bugeye
 bugeyes
 bugfish
 bonducs
-buggane
 bespurred
 bugger
 buggered
