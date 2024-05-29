@@ -18592,7 +18592,6 @@ coin
 cooperativeness
 coyly
 corralled
-clanless
 coilyear
 coils
 coilsmith
@@ -20761,6 +20760,7 @@ complexioned
 charioted
 complexionist
 complexionless
+clanless
 cultivar
 cahuapana
 complexions
