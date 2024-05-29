@@ -154,7 +154,6 @@ gadwalls
 gae
 glottalization
 gael
-girth
 galibi
 gaelic
 gasogenes
@@ -1755,6 +1754,7 @@ gastroduodenitis
 gametophagia
 gastroduodenostomy
 ganodont
+girth
 gerbe
 garlanded
 graved
