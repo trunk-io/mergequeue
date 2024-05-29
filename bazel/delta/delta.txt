@@ -3007,7 +3007,6 @@ deductibles
 delinquent
 depositional
 describers
-deductio
 deductions
 deductive
 deductively
@@ -5353,6 +5352,7 @@ dentallia
 doctrinaire
 dentaphone
 dentary
+deductio
 demivolte
 deluging
 dentata
