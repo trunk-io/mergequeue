@@ -2264,7 +2264,6 @@ achromatisation
 acrestaff
 achromatising
 apimania
-achromatizable
 achromatization
 achromatize
 achromatizing
@@ -8953,6 +8952,7 @@ aburst
 anisettes
 antisceptical
 allograph
+achromatizable
 agnathostomatous
 allographic
 alloy
