@@ -9494,6 +9494,7 @@ altazimuth
 alter
 alterability
 alterable
+anerethisia
 alterableness
 alterably
 apyrene
@@ -12598,7 +12599,6 @@ anepiploic
 adenitises
 amorists
 anepithymia
-anerethisia
 amyluria
 aeropleustic
 avowter
