@@ -6911,6 +6911,7 @@ coaugment
 capricornus
 calorimetric
 chapeaux
+coloboma
 cementatory
 chapaties
 cementer
@@ -19282,7 +19283,6 @@ colnaria
 canonici
 countertenors
 colob
-coloboma
 colocate
 chiquest
 colocated
