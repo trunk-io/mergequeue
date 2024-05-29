@@ -2991,7 +2991,6 @@ grindstone
 geo
 gallerylike
 geoagronomic
-gigmanhood
 gedunk
 geobiont
 geobotanic
@@ -8094,6 +8093,7 @@ gordiaceous
 granulocytic
 granulocytopoiesis
 gambroon
+gigmanhood
 glazier
 geminal
 granulosa

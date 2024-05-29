@@ -21792,6 +21792,7 @@ assessors
 apotheose
 asseth
 amiss
+availing
 asseverating
 asseveration
 asseverative
@@ -24556,7 +24557,6 @@ availed
 asynaptic
 abstractness
 availer
-availing
 availingly
 availment
 avails
