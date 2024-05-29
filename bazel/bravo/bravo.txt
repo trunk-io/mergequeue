@@ -4834,7 +4834,6 @@ bedrench
 bedrenched
 baldling
 bedrenches
-bedribble
 bureaucratic
 bedrift
 bedright
@@ -13470,6 +13469,7 @@ borstall
 bancos
 bearers
 bottomers
+bedribble
 bottoming
 blenniidae
 biotelemetry
