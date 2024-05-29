@@ -9289,7 +9289,6 @@ gpss
 galleasses
 geoducks
 gunnysacks
-gambrel
 glosser
 gadis
 grangeriser
@@ -9617,6 +9616,7 @@ grucche
 grudged
 guestmaster
 gorsiest
+gambrel
 gowfer
 gimmick
 gerardia
