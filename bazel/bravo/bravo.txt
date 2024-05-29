@@ -5389,7 +5389,6 @@ begloom
 beglooming
 burkers
 beglooms
-belknap
 begloze
 brokenly
 begluc
@@ -5671,6 +5670,7 @@ beknave
 beknight
 blossoming
 beknighted
+belknap
 beknighting
 beknived
 ballistite
