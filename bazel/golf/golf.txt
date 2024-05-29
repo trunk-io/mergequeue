@@ -1257,7 +1257,6 @@ garage
 germania
 gurts
 garaged
-gyved
 gowk
 glandless
 grece
@@ -6704,6 +6703,7 @@ gonalgia
 gonangial
 gonangium
 gonapod
+gyved
 golosh
 gymnurinae
 goncalo
