@@ -761,7 +761,6 @@ finishing
 fanciful
 fancifulness
 fancying
-fanciless
 fanciness
 forestaff
 fragrance
@@ -10194,6 +10193,7 @@ frize
 fashed
 foresing
 frized
+fanciless
 ferules
 fan
 frizel
