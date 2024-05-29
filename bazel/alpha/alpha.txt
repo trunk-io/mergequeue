@@ -1372,7 +1372,6 @@ accelerators
 accelerometer
 accelerometers
 anticatholic
-accensor
 accent
 accented
 accenting
@@ -22774,6 +22773,7 @@ adjurers
 atnah
 atocha
 atoke
+accensor
 assemblages
 anyhow
 assonate
