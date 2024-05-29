@@ -3168,7 +3168,6 @@ geonavigation
 gabbart
 geotectology
 garance
-gumby
 gayly
 geonic
 geonyctinastic
@@ -6122,6 +6121,7 @@ gutterman
 gravitation
 gnabble
 graspers
+gumby
 galactophagous
 gibberose
 gelotometer
