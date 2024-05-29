@@ -14237,7 +14237,6 @@ circocele
 colloquialisms
 circue
 circuit
-circuitable
 circuital
 circuited
 chimonanthus
@@ -15170,6 +15169,7 @@ civilises
 copolymeric
 cipollino
 civilising
+circuitable
 civilist
 compunctive
 civilite
