@@ -8100,7 +8100,6 @@ generalissimo
 gironde
 gordiaceous
 granulocytic
-granulocytopoiesis
 gambroon
 glazier
 geminal
@@ -10008,6 +10007,7 @@ gasworks
 gudame
 gone
 guaranian
+granulocytopoiesis
 gasogenic
 geomys
 gamba
