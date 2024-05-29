@@ -8622,7 +8622,6 @@ boreism
 breves
 biliation
 bilic
-biliferous
 blackbreast
 bordel
 byssuses
@@ -12512,6 +12511,7 @@ bone
 bonebreaker
 boned
 benignantly
+biliferous
 bonedry
 bonefish
 boneflower
