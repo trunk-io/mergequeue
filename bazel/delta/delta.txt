@@ -3643,7 +3643,6 @@ dockages
 degenerative
 degenerescence
 degeneroos
-degerm
 degerminate
 degerminator
 distentions
@@ -4622,6 +4621,7 @@ dentaliidae
 demilitarizes
 demilitarizing
 demiliterate
+degerm
 demilustre
 disenthroning
 demiman
