@@ -2140,7 +2140,6 @@ gangboard
 gigging
 gawk
 grubs
-ginglmi
 gnomist
 gelndesprung
 gradations
@@ -9899,6 +9898,7 @@ gangplow
 gravestones
 guaranty
 glyceride
+ginglmi
 gotten
 guaranties
 gerontomorphosis
