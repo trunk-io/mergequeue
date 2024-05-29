@@ -5197,6 +5197,7 @@ geophysics
 grittier
 guillemet
 gunman
+grumness
 gamotropism
 gormless
 glib
@@ -9702,7 +9703,6 @@ grummels
 grummet
 gable
 genuflector
-grumness
 gambir
 gooder
 gentling
