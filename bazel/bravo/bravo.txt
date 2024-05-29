@@ -3104,6 +3104,7 @@ blenny
 basaree
 basat
 bestness
+benzenyl
 boithrin
 bascinet
 bascology
@@ -6460,7 +6461,6 @@ blinks
 benzene
 benzenediazonium
 benzenes
-benzenyl
 benzenoid
 billsticking
 briny
