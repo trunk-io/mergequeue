@@ -15209,6 +15209,7 @@ combine
 carposperm
 cl
 clabber
+cocas
 compellation
 clabbered
 clabbery
@@ -27534,7 +27535,6 @@ covellite
 certie
 conceptualistic
 corpus
-cocas
 coven
 covenable
 cckw
