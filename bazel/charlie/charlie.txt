@@ -5589,6 +5589,7 @@ cataloon
 catalos
 companionways
 catalpa
+coenoblast
 catalpas
 catalufa
 catalufas
@@ -27298,7 +27299,6 @@ chitty
 country
 countrieman
 cavillingly
-coenoblast
 countries
 closelipped
 countrify
