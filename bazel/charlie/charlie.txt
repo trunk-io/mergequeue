@@ -13721,7 +13721,6 @@ cymbel
 cymbid
 clochard
 cymbidium
-cymbiform
 copartner
 cymbocephalous
 cymbopogon
@@ -15533,6 +15532,7 @@ clarence
 carillonned
 clarences
 clarenceux
+cymbiform
 clarencieux
 clarendon
 clares
