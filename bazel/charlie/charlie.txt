@@ -11808,6 +11808,7 @@ concealingly
 chondrocyte
 chondroclasis
 chondrocoracoid
+cts
 chondrocostal
 chondrocranial
 coendured
@@ -30426,7 +30427,6 @@ cto
 carbo
 ctr
 congressional
-cts
 cu
 cuadrilla
 cuadrillero
