@@ -4523,6 +4523,7 @@ demesne
 duikerbok
 decl
 demesnes
+discriminateness
 declarers
 dishwashing
 disentitle
@@ -11780,7 +11781,6 @@ discretive
 discretiveness
 discriminant
 discriminately
-discriminateness
 demirep
 duny
 dilettanist
