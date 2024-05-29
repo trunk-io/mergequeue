@@ -3687,7 +3687,6 @@ embryologist
 elects
 earthmoving
 embryonated
-embryonic
 encyrtidae
 electrophoreses
 elec
@@ -5146,6 +5145,7 @@ endogenesis
 exorate
 endogenicity
 endogenies
+embryonic
 endogenous
 essive
 endogenously
