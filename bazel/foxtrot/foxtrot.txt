@@ -5297,7 +5297,6 @@ forktail
 furole
 fogyisms
 frislet
-fortunetellers
 forecounsel
 freshness
 flecking
@@ -8770,6 +8769,7 @@ forwork
 feoffing
 fallacia
 fulgor
+fortunetellers
 fly
 fyce
 fascistically
