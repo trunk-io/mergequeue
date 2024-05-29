@@ -3146,7 +3146,6 @@ geira
 gaily
 garnetz
 grands
-geomorphy
 graphiter
 gerbils
 gamelin
@@ -6537,6 +6536,7 @@ golcondas
 goldang
 gocart
 giddypate
+geomorphy
 gorgonin
 goldarned
 goldbeater

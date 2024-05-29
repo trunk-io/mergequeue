@@ -5170,6 +5170,7 @@ beflagging
 beflannel
 bureaucrat
 beflap
+byzantine
 bootlicker
 beflatter
 beflea
@@ -10092,7 +10093,6 @@ bixin
 blenders
 beaufort
 begohm
-byzantine
 blizzardous
 byzantinize
 barmecide
