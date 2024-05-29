@@ -3799,6 +3799,7 @@ battik
 batting
 battings
 battledores
+blenniidae
 baldly
 barotraumata
 battledoring
@@ -13471,7 +13472,6 @@ bancos
 bearers
 bottomers
 bottoming
-blenniidae
 biotelemetry
 brattiness
 betweenness

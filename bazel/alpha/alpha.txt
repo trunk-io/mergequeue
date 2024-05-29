@@ -12905,7 +12905,6 @@ averrer
 avenger
 asteraceous
 anglian
-anglic
 anglican
 anglicanism
 anglicanisms
@@ -19234,6 +19233,7 @@ archsteward
 archthief
 archtyrant
 aleft
+anglic
 arachnites
 ayuyu
 availers
