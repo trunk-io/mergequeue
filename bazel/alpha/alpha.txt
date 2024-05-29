@@ -15993,7 +15993,6 @@ accreting
 androkinin
 antipriesthood
 arni
-antiprime
 antiprimer
 antiprinciple
 anureses
@@ -23852,6 +23851,7 @@ authorizers
 agostadero
 authorizes
 authorless
+antiprime
 authorly
 authors
 authorship
