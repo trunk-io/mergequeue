@@ -1586,7 +1586,6 @@ befiddle
 bacchanal
 ballies
 backrushes
-ballyhoo
 balling
 burgheristh
 ballyragged
@@ -2450,6 +2449,7 @@ becalms
 bardlet
 bronchomotor
 bardlike
+ballyhoo
 bardling
 bluestone
 bardo
