@@ -2694,7 +2694,6 @@ forecooler
 fertilize
 fertilizer
 funeral
-figurate
 fertilizers
 foremelt
 ferula
@@ -11068,6 +11067,7 @@ fummle
 fumosity
 fumuli
 fungated
+figurate
 fascias
 fumulus
 funambulate
