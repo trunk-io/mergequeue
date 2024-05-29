@@ -2814,7 +2814,6 @@ extrasyllabic
 elenchi
 elenchic
 elves
-elenchize
 ecthlipsis
 endamask
 exacters
@@ -8218,6 +8217,7 @@ episioplasty
 episiorrhagia
 electrolysis
 exulting
+elenchize
 earthstar
 episiorrhaphy
 eightfold
