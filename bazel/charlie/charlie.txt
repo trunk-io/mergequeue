@@ -11848,7 +11848,6 @@ consonantally
 chondroplastic
 chondroprotein
 cult
-chondropterygian
 chondropterygious
 chondrosarcomas
 chondrosarcomatous
@@ -12571,6 +12570,7 @@ chromophobic
 chromophore
 consolation
 chromophoric
+chondropterygian
 chromophorous
 chromophotograph
 chromophotography
