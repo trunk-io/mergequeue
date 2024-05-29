@@ -166,7 +166,6 @@ baccalaureate
 baccalaureates
 baccalaureus
 baccara
-baroques
 bdrm
 bedlam
 burion
@@ -3239,6 +3238,7 @@ blatters
 basifixed
 basifugal
 bretwaldadom
+baroques
 biltong
 buriable
 basigynium
