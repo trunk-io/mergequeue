@@ -4335,6 +4335,7 @@ adornos
 adorns
 arrivage
 attestation
+arbusta
 automorph
 antiaircraft
 astichous
@@ -18683,7 +18684,6 @@ arbuscula
 aelodicon
 arbuscular
 arbust
-arbusta
 arbusterol
 arbustum
 analytics
