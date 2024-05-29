@@ -4988,6 +4988,7 @@ gladiatrix
 gonoph
 goyim
 gladier
+guttered
 goutwort
 gladiola
 granatite
@@ -8540,7 +8541,6 @@ garlicmonger
 gozzard
 goldfielder
 gramaries
-guttered
 gladdy
 greaseproof
 greaseproofness
