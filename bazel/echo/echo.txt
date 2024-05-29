@@ -2994,6 +2994,7 @@ embosk
 elymus
 elinguate
 elinguating
+exotospore
 elinguation
 eleatic
 evaluate
@@ -7938,7 +7939,6 @@ epilepsies
 epileptical
 epileptically
 epileptiform
-exotospore
 entomeric
 epilimnial
 epilimnionia
