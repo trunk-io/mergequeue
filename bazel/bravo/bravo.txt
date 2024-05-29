@@ -528,6 +528,7 @@ backtracks
 backout
 babies
 backups
+bespeaking
 backus
 backveld
 bayok
@@ -7176,7 +7177,6 @@ bushing
 backs
 boycottage
 botanized
-bespeaking
 bespeaks
 bespecked
 backrun
