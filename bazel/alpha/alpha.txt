@@ -3282,7 +3282,6 @@ anagramming
 aevum
 abrasives
 aculeae
-aculeata
 ambassiate
 atolls
 aculei
@@ -17260,6 +17259,7 @@ achiever
 assiduous
 apogenous
 avocets
+aculeata
 apogeotropism
 apogon
 afterfuture

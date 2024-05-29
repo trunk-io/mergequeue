@@ -2267,6 +2267,7 @@ elections
 electives
 engram
 elector
+exhume
 expostulator
 elks
 electorally
@@ -6670,7 +6671,6 @@ extraduction
 enteroplegia
 enthalpies
 epilogism
-exhume
 enteropneusta
 enteroptosis
 enterorrhagia
