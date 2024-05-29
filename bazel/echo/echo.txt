@@ -1136,7 +1136,6 @@ edicule
 echolalia
 edificate
 echinology
-edification
 exfigure
 edificator
 earock
@@ -9593,6 +9592,7 @@ esculic
 esculin
 enciphered
 escutcheoned
+edification
 evangelistically
 eugenesis
 emmetropia
