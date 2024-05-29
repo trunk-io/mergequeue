@@ -2452,7 +2452,6 @@ engrails
 earthquaked
 equilibrations
 elutriate
-electroforming
 emerges
 ethanol
 electrogalvanization
@@ -8321,6 +8320,7 @@ electrostatics
 epitaphist
 euripupi
 ejection
+electroforming
 exquisiteness
 expensively
 epitaphs
