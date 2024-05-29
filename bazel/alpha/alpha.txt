@@ -4998,7 +4998,6 @@ aeroduct
 aeroducts
 aeroelastic
 aeroelasticity
-aeroelastics
 aporphin
 aerofoil
 aerofoils
@@ -8786,6 +8785,7 @@ alleviatory
 alleviators
 allez
 amolish
+aeroelastics
 aristolochiales
 abevacuation
 allgood
