@@ -7195,7 +7195,6 @@ goopy
 glaciate
 greenthumbed
 geotectonics
-gorgonlike
 groggily
 gypsyry
 ganglionary
@@ -7624,6 +7623,7 @@ gaucy
 gallish
 grade
 graded
+gorgonlike
 geobotanically
 gnathometer
 gleary
