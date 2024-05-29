@@ -2191,7 +2191,6 @@ biddy
 bathybius
 burnishes
 baptising
-baptismal
 baptisms
 baptistic
 bullswool
@@ -10461,6 +10460,7 @@ backflash
 bequeath
 blanking
 beedged
+baptismal
 blankish
 boregat
 blankly
