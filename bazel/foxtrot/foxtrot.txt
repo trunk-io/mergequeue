@@ -72,6 +72,7 @@ fissirostres
 facemaker
 fordeal
 fullfaces
+fustigatory
 facemark
 feuter
 fermentations
@@ -11641,7 +11642,6 @@ fylgja
 funestal
 forehew
 fustigating
-fustigatory
 fustilarian
 friendship
 followers
