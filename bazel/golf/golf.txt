@@ -3845,7 +3845,6 @@ goffers
 gibbet
 gopher
 gibbeted
-gibbeting
 gelatinise
 glucke
 gaberlunzie
@@ -9342,6 +9341,7 @@ grumblesome
 grossed
 grossen
 gyrosyn
+gibbeting
 granma
 griots
 gists
