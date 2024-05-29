@@ -6514,7 +6514,6 @@ foreworn
 freakishness
 flutist
 ferrichloride
-fibrilations
 flutter
 flutterable
 facultative
@@ -11482,6 +11481,7 @@ forewish
 furrows
 furrure
 fursemide
+fibrilations
 fishworm
 foreglimpse
 facie
