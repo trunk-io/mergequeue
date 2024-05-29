@@ -4943,6 +4943,7 @@ flickery
 fixated
 flanker
 flankers
+foists
 flaneur
 flanking
 flanks
@@ -6751,7 +6752,6 @@ fleury
 footstool
 fustinella
 fingerspin
-foists
 fleece
 fumewort
 foresworn
