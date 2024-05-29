@@ -5623,6 +5623,7 @@ doornails
 depauperation
 depauperize
 depauperized
+dispensableness
 depeach
 depeinct
 depencil
@@ -13015,7 +13016,6 @@ dispendiously
 dispenditure
 dispensability
 deducible
-dispensableness
 dispensate
 diffracted
 dispensation
