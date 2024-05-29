@@ -392,7 +392,6 @@ fairer
 fairfieldite
 fashioners
 fogged
-fastigated
 folkland
 fairground
 false
@@ -9277,6 +9276,7 @@ fraises
 fretwise
 fascinery
 formalazine
+fastigated
 frontispieced
 flary
 fraktur
