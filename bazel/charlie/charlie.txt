@@ -8545,7 +8545,6 @@ casaba
 chamos
 chamosite
 chamotte
-coarbiter
 champacol
 cauligenous
 champagned
@@ -19736,6 +19735,7 @@ combatting
 combe
 connoisseur
 commonwealth
+coarbiter
 combes
 chowdering
 combfish
