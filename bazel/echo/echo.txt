@@ -3387,7 +3387,6 @@ expansional
 ethnohistorically
 embargoist
 embark
-embarkations
 epitomize
 embarkment
 embarks
@@ -6072,6 +6071,7 @@ episkotister
 enlodgement
 enlumine
 entheos
+embarkations
 enchanter
 enmarble
 ergoplasm
