@@ -494,6 +494,7 @@ backstaff
 backstay
 bridely
 biotech
+bespawl
 boshboks
 backstitch
 backstitched
@@ -7165,7 +7166,6 @@ bespattered
 briquetting
 bespattering
 bespatters
-bespawl
 backaches
 bisexuality
 bespeak
