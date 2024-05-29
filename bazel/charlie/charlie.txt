@@ -18400,7 +18400,6 @@ cognitivity
 cognizable
 cognizableness
 cognizance
-cognizant
 cognize
 casanovanic
 cognized
@@ -18920,6 +18919,7 @@ collaborating
 collaborationist
 collaborationists
 collaborations
+cognizant
 collaborative
 collaboratively
 clothworker
