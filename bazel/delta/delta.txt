@@ -3576,7 +3576,6 @@ defrication
 defrocked
 dragboat
 defrocks
-defrost
 dillis
 dicentra
 dunces
@@ -6900,6 +6899,7 @@ dispositor
 deglutitory
 desoeuvre
 dewlight
+defrost
 desolate
 desolated
 dahoons

@@ -18713,7 +18713,6 @@ arcanite
 anvilled
 arcato
 arcature
-arcatures
 arcboutant
 arccos
 appomattoc
@@ -20028,6 +20027,7 @@ armoire
 armoires
 armoniac
 agla
+arcatures
 armonicas
 armor
 armoracia
