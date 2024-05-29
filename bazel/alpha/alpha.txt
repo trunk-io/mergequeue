@@ -1246,7 +1246,6 @@ argolic
 avowal
 acanthomas
 acanthomeridae
-acanthopanax
 anlia
 acanthophorous
 acanthopodous
@@ -22929,6 +22928,7 @@ axiopisty
 atrophoderma
 atrophous
 atropia
+acanthopanax
 armenian
 antimonarch
 atropidae
