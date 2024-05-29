@@ -3708,6 +3708,7 @@ fillies
 firedogs
 foalfoot
 filling
+forevouch
 fillings
 fatuously
 fricti
@@ -8119,7 +8120,6 @@ foreview
 foederatus
 forevision
 fixature
-forevouch
 febronian
 fontanges
 farcify
