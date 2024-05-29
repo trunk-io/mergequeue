@@ -14107,7 +14107,6 @@ autoconvection
 aetiotropic
 antiparastatitis
 antecedency
-antecedent
 antecedental
 antecedently
 antecedes
@@ -16795,6 +16794,7 @@ apes
 antiptosis
 apesthetic
 affiche
+antecedent
 apesthetize
 acariatre
 attachment
