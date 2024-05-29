@@ -4535,6 +4535,7 @@ enforcing
 encephalolith
 encephalomas
 escudo
+exsanguineous
 encephalomeningocele
 exhalation
 encraty
@@ -13478,7 +13479,6 @@ envineyard
 earthquake
 exsanguine
 eristic
-exsanguineous
 exsanguinous
 equipollence
 expose
