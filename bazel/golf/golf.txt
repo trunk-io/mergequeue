@@ -3036,7 +3036,6 @@ geocyclic
 gnat
 glideless
 gymnosoph
-geocoronium
 gordunite
 gyniatry
 geocratic
@@ -7504,6 +7503,7 @@ gastrophrenic
 governors
 gobian
 garbled
+geocoronium
 gravimeter
 greywether
 governs
