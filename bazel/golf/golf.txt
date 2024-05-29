@@ -1962,7 +1962,6 @@ goodyship
 germaniums
 gliss
 groundable
-girdler
 gaucie
 gynopara
 gumshoe
@@ -9992,6 +9991,7 @@ gurdwara
 gubernation
 grabbles
 gubernative
+girdler
 ghostliest
 gilenyer
 greening

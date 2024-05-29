@@ -3188,7 +3188,6 @@ actions
 actipylea
 actium
 architraved
-activate
 apologete
 autocatalytically
 attics
@@ -10732,6 +10731,7 @@ analities
 aminopeptidase
 anisodactyl
 aminopherase
+activate
 apothec
 arccosine
 aminopyrine
