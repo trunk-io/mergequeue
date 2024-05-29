@@ -5544,7 +5544,6 @@ catalin
 curule
 cauponation
 contentful
-catalinite
 catalyse
 cofactor
 catalyses
@@ -7165,6 +7164,7 @@ centre
 centreboard
 centred
 centref
+catalinite
 centreless
 centrepiece
 canephoroe
