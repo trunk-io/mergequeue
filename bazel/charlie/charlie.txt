@@ -14164,7 +14164,6 @@ cyprididae
 cypridina
 calfret
 contraregular
-cypridinoid
 cyprina
 cyprine
 cyprinid
@@ -23508,6 +23507,7 @@ contenement
 content
 contentable
 congregator
+cypridinoid
 contentation
 contented
 contentedly
