@@ -1028,6 +1028,7 @@ calcaneoastragalar
 calcaneoastragaloid
 calcaneoplantar
 countershout
+crioboly
 countersale
 calcaneoscaphoid
 calcaneum
@@ -14942,7 +14943,6 @@ cytochrome
 cytocyst
 cytoclasis
 cytoclastic
-crioboly
 cytococci
 cytococcus
 cytode
