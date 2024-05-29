@@ -8064,7 +8064,6 @@ girandole
 gomontia
 granulary
 gonagra
-granulate
 granulater
 galactic
 gnawing
@@ -9477,6 +9476,7 @@ gecking
 groupment
 gimbaling
 gins
+granulate
 granule
 glimes
 groupoid
