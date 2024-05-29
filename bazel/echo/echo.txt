@@ -7896,7 +7896,6 @@ epigrammatizer
 epigrammatizing
 endaortitis
 epigrams
-epigraph
 egyptianization
 eccentricity
 epigraphic
@@ -12252,6 +12251,7 @@ exhibitorial
 extravagancies
 entertained
 execution
+epigraph
 enhort
 executioneering
 entangledly
