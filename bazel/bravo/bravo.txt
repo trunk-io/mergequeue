@@ -1849,6 +1849,7 @@ burgul
 bakunda
 bialystoker
 bandaged
+bailliage
 bandager
 bandages
 bandaging
@@ -9192,7 +9193,6 @@ biramose
 bioprecipitation
 biopsy
 biopsic
-bailliage
 benightmare
 biopsychology
 biopsychological
