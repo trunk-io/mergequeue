@@ -1816,6 +1816,7 @@ cyrillaceae
 celosia
 camassia
 camata
+cysticle
 camauro
 corneocalcareous
 camauros
@@ -14717,7 +14718,6 @@ cysticercoid
 cysticercoidal
 cysticercosis
 cysticerus
-cysticle
 cysticolous
 cystid
 cystidea
