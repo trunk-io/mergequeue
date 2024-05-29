@@ -6097,7 +6097,6 @@ entertainers
 enneahedral
 enneahedron
 eyepoints
-enneahedrons
 eustatic
 ethnicize
 enneandrian
@@ -10554,6 +10553,7 @@ etna
 effortful
 enteroid
 etoile
+enneahedrons
 eton
 etrenne
 etrog
