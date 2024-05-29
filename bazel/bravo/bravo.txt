@@ -9053,7 +9053,6 @@ bioelectrical
 bilboquet
 bioelectricity
 bioelectrogenesis
-bioengineering
 bioethic
 bromyrite
 bannerless
@@ -15628,6 +15627,7 @@ burnished
 borrovian
 begroaned
 bridgetree
+bioengineering
 botanophile
 broadsides
 broadsiding
