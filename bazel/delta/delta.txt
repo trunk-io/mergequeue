@@ -12848,7 +12848,6 @@ drawspan
 disobeying
 dustiness
 demobilised
-disoblige
 disobliged
 disobliger
 dognapping
@@ -18244,6 +18243,7 @@ draffs
 desiderating
 dunite
 disyokes
+disoblige
 dorsimedian
 dunitic
 duniwassal
