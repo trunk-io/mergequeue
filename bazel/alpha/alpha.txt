@@ -6509,6 +6509,7 @@ afro
 adsorbate
 aubrite
 agromyzid
+acanthoid
 agromyzidae
 agron
 agronome
@@ -22557,7 +22558,6 @@ atheistical
 attid
 appender
 annexer
-acanthoid
 anteinitial
 ablepharus
 atheistically
