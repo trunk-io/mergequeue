@@ -11281,6 +11281,7 @@ copps
 churned
 chlorhydric
 chloriamb
+ciphers
 chloriambus
 chloric
 chlorid
@@ -14119,7 +14120,6 @@ cipherer
 cipherhood
 ciphering
 cyphering
-ciphers
 ciphertexts
 carbonated
 cyphomandra
