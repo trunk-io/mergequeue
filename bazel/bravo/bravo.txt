@@ -6890,7 +6890,6 @@ barytosulphate
 berryless
 bookery
 bersagliere
-bersaglieri
 borocarbide
 berseem
 berserker
@@ -12601,6 +12600,7 @@ bonnes
 brisken
 bonnet
 bonneted
+bersaglieri
 bonneter
 bonnethead
 barrens
