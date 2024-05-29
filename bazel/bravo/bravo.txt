@@ -2021,6 +2021,7 @@ biotopes
 bani
 biaural
 banya
+barebone
 banyan
 blea
 banians
@@ -2090,7 +2091,6 @@ basilissa
 banksian
 bouet
 bumbaste
-barebone
 banksmen
 bucketed
 bibliophage

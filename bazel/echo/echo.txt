@@ -457,6 +457,7 @@ erf
 embrew
 eccyesis
 eccl
+emeras
 ecart
 evector
 earsore
@@ -13060,7 +13061,6 @@ eveners
 epistolographic
 experientialism
 experientialistic
-emeras
 encarpuspi
 extensionality
 ergonovine
