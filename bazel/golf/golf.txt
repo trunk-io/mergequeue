@@ -423,7 +423,6 @@ geckotidae
 garlands
 gonk
 gegger
-galbanums
 galbulae
 genitorial
 galcha
@@ -6807,6 +6806,7 @@ goldenpert
 georgic
 goaled
 globulet
+galbanums
 glossodynamometer
 goniometric
 gonidiogenous
