@@ -4277,6 +4277,7 @@ guddler
 gymnospore
 grandfather
 glotum
+gurmukhi
 ges
 gan
 gymnostomata
@@ -10557,7 +10558,6 @@ gaun
 guelphic
 grasset
 gunmetal
-gurmukhi
 gcd
 gymnodont
 goffering
