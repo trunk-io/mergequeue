@@ -607,6 +607,7 @@ fleshes
 foredetermination
 forsay
 flambeaus
+fermentive
 falsies
 farrantly
 fibrochondroma
@@ -2485,7 +2486,6 @@ forbiddingness
 fielding
 foliocellosis
 fumbulator
-fermentive
 foxie
 falk
 fermery
