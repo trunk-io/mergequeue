@@ -81,6 +81,7 @@ abandoned
 abandonee
 abandoner
 abandoners
+archiphoneme
 abandoning
 arruague
 arvos
@@ -13850,7 +13851,6 @@ anophthalmos
 anophthalmus
 anopia
 amusable
-archiphoneme
 abortuses
 accrementition
 anthroponomical
