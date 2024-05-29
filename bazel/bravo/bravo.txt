@@ -5502,7 +5502,6 @@ bookmonger
 boarstaff
 behaved
 behaver
-bicollateral
 behaving
 boater
 behavior
@@ -8818,6 +8817,7 @@ bournless
 bimanually
 barbadoes
 bimasty
+bicollateral
 bourbonist
 bimastic
 brunts
