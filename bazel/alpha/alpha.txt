@@ -6966,6 +6966,7 @@ avocados
 airscapes
 airscrews
 antioxygenic
+ascriptions
 airshed
 alway
 airsheds
@@ -21115,7 +21116,6 @@ ascribes
 ascribing
 ascript
 ascription
-ascriptions
 ascriptitious
 ascriptitius
 ascriptive
