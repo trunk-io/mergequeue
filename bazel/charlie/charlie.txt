@@ -102,6 +102,7 @@ carcinosarcomas
 cabestro
 cabestros
 cabezon
+courtcraft
 cabezone
 convict
 cabful
@@ -27396,7 +27397,6 @@ courtage
 courtal
 courtbred
 chattelization
-courtcraft
 cetacean
 congee
 courteousness
