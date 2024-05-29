@@ -340,6 +340,7 @@ fusses
 fortypenny
 faineance
 foredeck
+floorthrough
 fainest
 fainly
 fixtures
@@ -7946,7 +7947,6 @@ funnelwise
 foresight
 familiarised
 factorability
-floorthrough
 foresignify
 forebespeak
 farewells
