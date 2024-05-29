@@ -6088,7 +6088,6 @@ borderlines
 belabour
 bemaim
 bonging
-bemajesty
 bemangle
 bemar
 bemask
@@ -10998,6 +10997,7 @@ barkeep
 billowy
 blips
 bliss
+bemajesty
 branchiostegous
 birdcatcher
 blissful
