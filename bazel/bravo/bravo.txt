@@ -10443,7 +10443,6 @@ bailwood
 burgrave
 blanket
 blanketed
-blanketeer
 bravado
 beetmister
 beadsman
@@ -14024,6 +14023,7 @@ belltopper
 brachydactyly
 brachydactylia
 brachydactylic
+blanketeer
 brachydactylism
 bebusy
 brachydactylous
