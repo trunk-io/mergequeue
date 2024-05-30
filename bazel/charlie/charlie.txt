@@ -19068,6 +19068,7 @@ collegiation
 czarinas
 collegiugia
 collegium
+counterchanged
 craniometric
 combattant
 collembola
@@ -26793,7 +26794,6 @@ counterbuff
 countercathexis
 countercause
 counterchange
-counterchanged
 countercharged
 countercharm
 counterclaim
