@@ -4577,7 +4577,6 @@ carnosine
 chechehet
 carnosities
 carnous
-carns
 chamaecistus
 caro
 caroa
@@ -16646,6 +16645,7 @@ cloner
 clanning
 congratulation
 caps
+carns
 complicities
 clonic
 clonicity
