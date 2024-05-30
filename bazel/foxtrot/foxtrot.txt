@@ -4316,7 +4316,6 @@ fishberry
 forebackwardly
 fixion
 fishboats
-fishbolt
 fishbolts
 falchions
 fellers
@@ -5588,6 +5587,7 @@ flimsy
 flimsier
 fragmenting
 farmage
+fishbolt
 flimsies
 felicitations
 florist
