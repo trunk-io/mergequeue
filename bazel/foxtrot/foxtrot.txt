@@ -2700,7 +2700,6 @@ fylfots
 ferroprussiate
 fertilization
 fertilizational
-forecooler
 fertilize
 fertilizer
 funeral
@@ -6579,6 +6578,7 @@ foalfoots
 firebrand
 foaly
 frangula
+forecooler
 foredoing
 flyboats
 falconiform
