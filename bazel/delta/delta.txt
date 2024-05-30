@@ -7379,7 +7379,6 @@ detickers
 detinet
 detinues
 daimones
-detinuit
 detn
 detonability
 dwine
@@ -9267,6 +9266,7 @@ drinkably
 dibbers
 dihydrazone
 dies
+detinuit
 debite
 digitalic
 dyes
