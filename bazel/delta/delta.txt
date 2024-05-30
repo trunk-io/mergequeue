@@ -1594,7 +1594,6 @@ deadpans
 deadrise
 displeasurably
 deadweight
-deadwork
 deaerated
 dorsum
 deaf
@@ -5377,6 +5376,7 @@ diatomacean
 decimalized
 dentel
 demibombard
+deadwork
 dentelliere
 dentelure
 digressionary
