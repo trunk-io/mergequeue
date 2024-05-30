@@ -3261,7 +3261,6 @@ demimondaine
 defendant
 dejeuners
 defendants
-defended
 defender
 defenders
 decorativeness
@@ -16600,6 +16599,7 @@ drago
 deuterotoky
 dragoman
 dragomanate
+defended
 dragomanish
 disclaims
 daman
