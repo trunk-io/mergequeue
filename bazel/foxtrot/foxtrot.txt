@@ -168,7 +168,6 @@ foyers
 farthingales
 float
 fulminates
-factionist
 foreribs
 factionistism
 flirtatious
@@ -6477,6 +6476,7 @@ fluphenazine
 fondnesses
 frightenable
 facades
+factionist
 floody
 flustrated
 filches
