@@ -1674,6 +1674,7 @@ graphology
 gunz
 gasteromycetes
 glottic
+grapelet
 gayer
 gasteromycetous
 gasteropoda
@@ -5254,7 +5255,6 @@ gametogony
 guzzler
 guss
 gleamy
-grapelet
 gorer
 gangliglions
 gumboots
