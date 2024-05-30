@@ -4560,7 +4560,6 @@ encephalospinal
 externize
 encephalothlipsis
 encephalotome
-etheostoma
 encephalotomy
 edomite
 ethics
@@ -8286,6 +8285,7 @@ episternum
 erucic
 entozoa
 epistyle
+etheostoma
 epistylis
 exulcerate
 emetocathartic
