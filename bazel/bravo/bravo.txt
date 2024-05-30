@@ -658,7 +658,6 @@ bacterioscopy
 bacterioscopist
 bacteriosolvent
 breakshugh
-brats
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
@@ -4320,6 +4319,7 @@ beaupere
 beauseant
 beausire
 batetela
+brats
 buffered
 beauteous
 beauti
