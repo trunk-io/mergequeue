@@ -468,7 +468,6 @@ galleyman
 gonimoblast
 glanced
 galenites
-galenobismutite
 galenoid
 guardedly
 gleesomely
@@ -6803,6 +6802,7 @@ goldenpert
 georgic
 goaled
 globulet
+galenobismutite
 glossodynamometer
 goniometric
 gonidiogenous
