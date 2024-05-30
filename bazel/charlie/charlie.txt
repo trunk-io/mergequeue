@@ -4577,7 +4577,6 @@ carnosities
 carnous
 carns
 chamaecistus
-caro
 caroa
 cohost
 carob
@@ -27335,6 +27334,7 @@ czarowitch
 couping
 couple
 couplement
+caro
 coupler
 couplers
 couples
