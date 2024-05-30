@@ -16512,6 +16512,7 @@ comodato
 clocker
 clockhouse
 clocking
+credos
 clockings
 catalanist
 clockless
@@ -28572,7 +28573,6 @@ continuances
 cavallies
 crustaceans
 curliness
-credos
 credulity
 credulities
 credulous
