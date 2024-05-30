@@ -4752,6 +4752,7 @@ dees
 demitint
 demitoilet
 demitone
+datival
 deteriorated
 demitrain
 demitranslucence
@@ -14630,7 +14631,6 @@ djibbah
 djibouti
 discute
 djin
-datival
 djinns
 djins
 describe
