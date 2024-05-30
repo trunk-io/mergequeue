@@ -7987,7 +7987,6 @@ encephalogram
 evolve
 epimandibular
 enthrone
-epimanikia
 epimanikion
 epimer
 epimeral
@@ -8707,6 +8706,7 @@ equiperiodic
 expander
 equipment
 equipoise
+epimanikia
 equipollency
 estrone
 evasively
