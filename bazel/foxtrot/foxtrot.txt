@@ -1064,7 +1064,6 @@ fobs
 farkleberries
 farley
 flyleaf
-farmed
 farmeress
 farmerish
 farmerly
@@ -2460,6 +2459,7 @@ fleshed
 festivities
 figpecker
 ferme
+farmed
 frizzle
 firebird
 futtock
