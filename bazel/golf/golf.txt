@@ -5198,6 +5198,7 @@ gunpaper
 glassworker
 gushed
 glasswort
+ghoster
 gnomish
 greesagh
 gees
@@ -7610,7 +7611,6 @@ groveling
 geotical
 gyal
 giddying
-ghoster
 gracious
 guamachil
 graciousness
