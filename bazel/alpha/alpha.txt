@@ -1768,7 +1768,6 @@ accusals
 accusant
 affinal
 acipenserid
-accusants
 accusation
 accusations
 accusatively
@@ -6576,6 +6575,7 @@ ahead
 ahey
 apophasis
 attenuating
+accusants
 acquaintances
 aheight
 abjure
