@@ -8412,7 +8412,6 @@ footrests
 formelt
 foreannouncement
 fortin
-frondesce
 floridans
 fasibitikite
 flunkeyite
@@ -8868,6 +8867,7 @@ figgery
 fougasse
 foujdarry
 foul
+frondesce
 fogger
 foulbrood
 foulder

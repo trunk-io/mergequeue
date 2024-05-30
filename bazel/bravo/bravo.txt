@@ -4075,7 +4075,6 @@ beadles
 babul
 beadleship
 besiegement
-beadlet
 beadman
 balloonful
 beadmen
@@ -12885,6 +12884,7 @@ breastwise
 boong
 bearwood
 bourignonist
+beadlet
 boonless
 buckplate
 boltuprightness
