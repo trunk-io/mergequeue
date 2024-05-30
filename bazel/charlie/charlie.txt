@@ -6328,6 +6328,7 @@ collencytal
 caustification
 caustified
 caustifying
+charoset
 casefies
 columnwise
 cautela
@@ -16584,7 +16585,6 @@ chokecherries
 cosmos
 clogmaking
 clogwheel
-charoset
 canners
 clogwyn
 clogwood

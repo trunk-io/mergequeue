@@ -7047,7 +7047,6 @@ gadi
 gyron
 goons
 gyromagnetic
-gorbet
 goops
 gentil
 garnet
@@ -9590,6 +9589,7 @@ grownups
 geoglossum
 geests
 grows
+gorbet
 grizzlier
 gianthood
 gentlewomanish
