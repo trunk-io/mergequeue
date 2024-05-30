@@ -8698,7 +8698,6 @@ fidicula
 fixate
 faussebraie
 frizzled
-formant
 fortunateness
 fissileness
 fillers
@@ -11343,6 +11342,7 @@ furfuralcohol
 filiciform
 flaveria
 flathat
+formant
 forcible
 fusobacterium
 ferroelectricity
