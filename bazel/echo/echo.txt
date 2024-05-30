@@ -2792,6 +2792,7 @@ eutocia
 extrusions
 exotropism
 evergreenite
+exocoetus
 explorations
 excecate
 elytrous
@@ -7074,7 +7075,6 @@ entrusting
 entrustment
 ehrwaldite
 entrusts
-exocoetus
 entte
 ecdyson
 entune
