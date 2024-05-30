@@ -11317,7 +11317,6 @@ chlorinated
 chlorinates
 chlorinating
 curly
-chlorination
 chlorinator
 chlorines
 chlorinity
@@ -11346,6 +11345,7 @@ chloroaurate
 chloroaurite
 chlorobenzene
 chlorobromomethane
+chlorination
 cavort
 chlorocalcite
 corroboreeing
