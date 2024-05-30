@@ -5971,6 +5971,7 @@ gardon
 gasfiring
 guatemaltecan
 glucokinase
+gastrophrenic
 gliocyte
 gravimetric
 ginnings
@@ -7503,7 +7504,6 @@ generalist
 governor
 graveyards
 governorate
-gastrophrenic
 governors
 gobian
 garbled
