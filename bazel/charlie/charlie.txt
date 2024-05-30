@@ -1920,6 +1920,7 @@ cameras
 camerate
 cidaroida
 cetiosaurus
+crofterize
 camerated
 cameration
 callout
@@ -4058,7 +4059,6 @@ croslet
 cancans
 cardinalfishes
 capitate
-crofterize
 chughole
 cardinalic
 cardinalis
