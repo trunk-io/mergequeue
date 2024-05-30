@@ -265,7 +265,6 @@ dissuitable
 dago
 damaskin
 dagoba
-dagobas
 dagomba
 dagswain
 daguerrean
@@ -14059,6 +14058,7 @@ distributivity
 distributor
 distributors
 distributorship
+dagobas
 distributress
 distributution
 decorates
