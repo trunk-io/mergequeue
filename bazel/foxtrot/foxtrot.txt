@@ -8098,6 +8098,7 @@ foretopmast
 fencer
 fellatrix
 foretopmen
+fretish
 foretrace
 fluviovolcanic
 foreuse
@@ -9853,7 +9854,6 @@ fret
 fontally
 fallibleness
 fatals
-fretish
 farrows
 fermiums
 feldspathic
