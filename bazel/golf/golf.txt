@@ -5134,6 +5134,7 @@ gandering
 gigantomachy
 glasseye
 glassen
+gawkers
 glassfish
 guitermanite
 gouvernante
@@ -8672,7 +8673,6 @@ greenkeeper
 graffer
 grottowork
 gamene
-gawkers
 gentilitial
 gudefather
 greenlandman
