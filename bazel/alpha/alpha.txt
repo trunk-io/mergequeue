@@ -4353,7 +4353,6 @@ adenohypophysial
 appoint
 azophosphore
 adrenalcortical
-adrenalectomy
 aunthoods
 adrenalectomize
 adrenalectomizing
@@ -8504,6 +8503,7 @@ alkaline
 alkalinisation
 alkalinise
 alkalinising
+adrenalectomy
 ankylostoma
 alkanna
 attidae
