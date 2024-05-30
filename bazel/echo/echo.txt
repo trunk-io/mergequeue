@@ -2085,6 +2085,7 @@ eloigners
 exalted
 elaphebolion
 elaphine
+epicuticle
 edulcoration
 enthusiasm
 embalm
@@ -7701,7 +7702,6 @@ epicurish
 extensometer
 epicurishly
 epicurize
-epicuticle
 elephanticide
 epicuticular
 empressements

@@ -4188,6 +4188,7 @@ fireplace
 fireplow
 fiefs
 farcical
+foggy
 fleeceable
 fatting
 fireplug
@@ -7999,7 +8000,6 @@ felicitates
 fairies
 faculative
 foldskirt
-foggy
 formentation
 fantasticism
 forester
