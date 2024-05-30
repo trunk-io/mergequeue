@@ -7623,7 +7623,6 @@ graded
 gorgonlike
 geobotanically
 gnathometer
-gleary
 grader
 gradgrind
 gud
@@ -9603,6 +9602,7 @@ grozart
 gingery
 grozer
 grubbery
+gleary
 gympie
 grintern
 groovier
