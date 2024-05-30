@@ -4548,7 +4548,6 @@ advancer
 advancers
 advancing
 advancive
-advantage
 advantaged
 allothogenous
 advantageously
@@ -16042,6 +16041,7 @@ antiquist
 antiquities
 anklebones
 antiquum
+advantage
 arcadianly
 antirabic
 adnex
