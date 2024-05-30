@@ -380,6 +380,7 @@ fearer
 filicauline
 faintness
 faints
+fainted
 feltings
 forkers
 flows
@@ -3984,7 +3985,6 @@ fabricated
 filmlike
 frankeniaceae
 firstness
-fainted
 farinha
 felicific
 fingertip
