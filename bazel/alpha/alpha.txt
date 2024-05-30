@@ -947,7 +947,6 @@ adiathermanous
 absorbability
 absorbable
 absorbancy
-absorbed
 acescency
 absorbedness
 afterhold
@@ -15257,6 +15256,7 @@ antiepiscopal
 antiepiscopist
 antierysipelas
 antierosion
+absorbed
 antiestablishment
 alysson
 acetanisidide
