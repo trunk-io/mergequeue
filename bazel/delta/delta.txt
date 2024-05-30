@@ -4609,6 +4609,7 @@ dextrocular
 demihake
 demihaque
 deavely
+dodecahedric
 dhourra
 demihogshead
 duodecimal
@@ -18669,7 +18670,6 @@ dwarfs
 dwarves
 dwell
 dwelled
-dodecahedric
 dweller
 dwellings
 drawhorse
