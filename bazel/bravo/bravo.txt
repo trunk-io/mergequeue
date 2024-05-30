@@ -8208,7 +8208,6 @@ bidden
 biddery
 boondocks
 bookkeepers
-bidders
 becarpet
 bitters
 biddulphiaceae
@@ -12301,6 +12300,7 @@ barbarea
 beakful
 banker
 bawds
+bidders
 baptised
 boltwork
 bolus
