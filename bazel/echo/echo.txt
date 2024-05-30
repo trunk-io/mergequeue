@@ -9671,7 +9671,6 @@ esonarthex
 esoneural
 emplacing
 emulator
-esophagal
 epihippus
 esophagalgia
 esophageal
@@ -10888,6 +10887,7 @@ eupanorthus
 endarteria
 eupatorium
 eupatrid
+esophagal
 eupatridae
 eupatrids
 eluent
