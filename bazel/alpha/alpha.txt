@@ -2646,7 +2646,6 @@ acquiescement
 acquiescence
 acquiescency
 aftersupper
-acquiescent
 abacli
 ansate
 acquiescently
@@ -17946,6 +17945,7 @@ apportionment
 azteca
 apportionments
 anastatic
+acquiescent
 algic
 apposability
 appose
