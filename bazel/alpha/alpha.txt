@@ -7151,7 +7151,6 @@ archaeornis
 akhara
 akhyana
 astrild
-anecdotalist
 akhissar
 akhlame
 agaricin
@@ -12529,6 +12528,7 @@ anemometrograph
 anemometrographically
 azoturia
 anemonal
+anecdotalist
 anemone
 anglemeter
 anticreator
