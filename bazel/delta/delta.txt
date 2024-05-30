@@ -1910,7 +1910,6 @@ dithecous
 debrief
 debriefing
 dowser
-debriefings
 debris
 debrominate
 diandrian
@@ -5555,6 +5554,7 @@ deoxidizers
 deoxidizes
 dogwatch
 deoxidizing
+debriefings
 destining
 deoxygenated
 depaints
