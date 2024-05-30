@@ -7216,7 +7216,6 @@ centriscidae
 cacumen
 centrisciform
 cups
-centriscoid
 centriscus
 coservant
 centrism
@@ -18163,6 +18162,7 @@ classicising
 coercends
 coercer
 coercers
+centriscoid
 coercibility
 coercible
 coercibly
