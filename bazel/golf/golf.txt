@@ -1428,6 +1428,7 @@ geogony
 garments
 gegenion
 grasseye
+gunreach
 glyphs
 glutael
 garmenture
@@ -6734,7 +6735,6 @@ glowed
 gusseted
 gonfanon
 gong
-gunreach
 gonged
 gekkota
 gonomery
