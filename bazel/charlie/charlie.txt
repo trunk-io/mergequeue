@@ -7886,7 +7886,6 @@ cerviconasal
 cribrous
 crotchy
 cervicoscapular
-cervicothoracic
 cervicovesical
 cervid
 cervinae
@@ -9377,6 +9376,7 @@ capitative
 chaudron
 chauffage
 coffinite
+cervicothoracic
 chauffer
 chauffers
 chauffeured
