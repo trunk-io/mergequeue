@@ -10448,7 +10448,6 @@ chieftainship
 countermove
 chiefty
 chiel
-coapts
 column
 chield
 chields
@@ -27794,6 +27793,7 @@ chaetopterin
 coxcombhood
 coxcomby
 coxcombic
+coapts
 coxcombically
 controlment
 cenosite
