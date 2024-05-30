@@ -3529,7 +3529,6 @@ batak
 brobdingnag
 blotlessness
 batamote
-batan
 biosis
 batarde
 batata
@@ -6525,6 +6524,7 @@ benzophloroglucinol
 benzophthalazine
 benzopyran
 breakup
+batan
 butanes
 benzopyrazolone
 benzopyrene
