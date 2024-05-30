@@ -2044,6 +2044,7 @@ feinting
 feis
 febricula
 fatigueless
+ferricyanic
 flatlander
 ferberite
 fogbows
@@ -11536,7 +11537,6 @@ fattenable
 fusion
 foremastman
 finicism
-ferricyanic
 fistic
 fab
 fractionate

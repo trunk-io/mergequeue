@@ -4266,7 +4266,6 @@ beastliness
 beastling
 beastlings
 bulgy
-beastman
 beastship
 beat
 benches
@@ -15696,6 +15695,7 @@ bilateralistic
 barometrograph
 berberin
 bilirubin
+beastman
 brodyagi
 brodie
 broeboe
