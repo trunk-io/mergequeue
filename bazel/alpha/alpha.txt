@@ -5559,7 +5559,6 @@ attuned
 afrormosia
 afshah
 aft
-aftaba
 afteract
 afterage
 alexin
@@ -11961,6 +11960,7 @@ autopsychology
 anaphora
 anaphoral
 anaphoria
+aftaba
 acron
 anthropozoic
 ampelite
