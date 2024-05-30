@@ -5737,7 +5737,6 @@ gars
 grubbiest
 garlicwort
 gathered
-groma
 glooms
 gloomth
 guanosine
@@ -7272,6 +7271,7 @@ gemmily
 gatherer
 glareolidae
 gospels
+groma
 gospelwards
 gossard
 gosplan
