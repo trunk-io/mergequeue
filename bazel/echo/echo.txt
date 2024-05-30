@@ -770,7 +770,6 @@ esteem
 edriophthalmous
 eulachons
 exuvium
-ecotype
 ecotypes
 ecotipically
 ecotypically
@@ -2127,6 +2126,7 @@ elapsing
 exterminator
 elasmobranch
 extrared
+ecotype
 elasmobranchiate
 epilimnia
 edgemaker
