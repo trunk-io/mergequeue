@@ -4437,6 +4437,7 @@ flimmer
 focaloid
 fissionable
 fissioned
+floormen
 furzes
 fissions
 fissipalmation
@@ -8452,7 +8453,6 @@ formicine
 formicivora
 formicoidea
 formidable
-floormen
 fondler
 furoin
 florissant
