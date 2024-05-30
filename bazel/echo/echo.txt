@@ -1071,7 +1071,6 @@ ethnogeography
 earhole
 edentalous
 edentata
-ethyls
 edentate
 edentulate
 edeodynia
@@ -7453,6 +7452,7 @@ ephebi
 ephebic
 episematic
 extraperiodic
+ethyls
 enfile
 explosion
 epheboi
