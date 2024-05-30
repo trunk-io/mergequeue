@@ -14604,7 +14604,6 @@ brassards
 brassart
 brassarts
 bolson
-brassbound
 biacetyl
 brassbounder
 brasse
@@ -15207,6 +15206,7 @@ beholding
 brideweed
 belles
 brachyure
+brassbound
 bridewell
 blister
 bridewort
