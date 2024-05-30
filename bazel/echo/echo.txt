@@ -5305,7 +5305,6 @@ endostea
 embroiderers
 enchiridion
 epiphyte
-estrangement
 entoconid
 endosteitis
 endosteoma
@@ -8150,6 +8149,7 @@ epiplocele
 evanished
 epiploitis
 epipodite
+estrangement
 epipoditic
 enthuse
 expenseful

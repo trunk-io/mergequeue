@@ -9778,7 +9778,6 @@ dclass
 dilettanteship
 devaster
 dilettanti
-delimiters
 dilettantism
 dilettantist
 dilettantship
@@ -17079,6 +17078,7 @@ diceratidae
 dismally
 diclinies
 diaplexus
+delimiters
 disaffected
 driddle
 dysplastic
