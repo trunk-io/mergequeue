@@ -8746,6 +8746,7 @@ backscatters
 batteau
 bestrid
 bartram
+bioherms
 billionism
 billions
 billionth
@@ -9109,7 +9110,6 @@ bummerish
 brutes
 bioherm
 baybush
-bioherms
 bronzen
 bioinstrument
 biokinetics
