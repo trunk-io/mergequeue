@@ -73,7 +73,6 @@ abalienation
 abalone
 abalones
 abama
-archineuron
 abamperes
 aband
 abandon
@@ -5430,6 +5429,7 @@ affrayers
 affraying
 affrays
 affranchise
+archineuron
 affranchisement
 affreight
 affreightment
