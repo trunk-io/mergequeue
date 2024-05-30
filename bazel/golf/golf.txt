@@ -8861,7 +8861,6 @@ grandiloquous
 gnaw
 gribble
 gothicize
-grice
 gnomon
 gras
 gator
@@ -9245,6 +9244,7 @@ gaure
 generale
 gaeldom
 growed
+grice
 grogshop
 groin
 geosyncline
