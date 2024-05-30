@@ -2187,6 +2187,7 @@ blahlaut
 baptisias
 baptisin
 bitulithic
+bitbrace
 boneen
 biddy
 bathybius
@@ -9897,7 +9898,6 @@ bields
 bitanhol
 bitartrate
 beneplacito
-bitbrace
 biteable
 bongo
 blockbuster
