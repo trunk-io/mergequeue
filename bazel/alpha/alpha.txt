@@ -2343,6 +2343,7 @@ acidology
 acidometer
 acidometry
 antinationalization
+algores
 asmear
 acidophil
 acidophile
@@ -18132,7 +18133,6 @@ apraxia
 apreynte
 aprendiz
 apres
-algores
 apricate
 aprication
 aprickle
