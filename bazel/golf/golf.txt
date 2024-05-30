@@ -3072,6 +3072,7 @@ gyropilot
 gyrencephalous
 guapilla
 geminorum
+globefish
 ghosting
 geogeny
 genera
@@ -5611,7 +5612,6 @@ granulite
 grandmother
 gaupus
 genuineness
-globefish
 gently
 guttiferous
 globes
