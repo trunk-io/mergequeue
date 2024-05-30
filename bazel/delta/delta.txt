@@ -526,6 +526,7 @@ dalmanites
 discocarpous
 dislustred
 dalmatian
+deselect
 dalmatians
 dalmatic
 defalcator
@@ -7442,7 +7443,6 @@ deglute
 detrition
 dancer
 drumfire
-deselect
 defends
 detrivorous
 dervish
