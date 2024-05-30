@@ -10362,7 +10362,6 @@ amenorrhoea
 amenorrhoeal
 aeronauts
 adiaphorous
-ament
 andantes
 amental
 arundineous
@@ -12270,6 +12269,7 @@ ancilla
 anticks
 ancillae
 asimen
+ament
 ancillary
 ancillaries
 aulostomidae
