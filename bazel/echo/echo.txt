@@ -5859,7 +5859,6 @@ enhardy
 enharmonic
 excursive
 eftest
-enhaunt
 enheart
 enhearten
 endobronchially
@@ -12943,6 +12942,7 @@ electrocutions
 expatriatism
 expectable
 entonic
+enhaunt
 expectancy
 entotic
 echinal
