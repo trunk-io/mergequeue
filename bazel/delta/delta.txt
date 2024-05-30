@@ -4463,6 +4463,7 @@ drying
 disthrone
 disalign
 dirges
+doghouses
 dematerialize
 dematerialized
 dematerializing
@@ -15055,7 +15056,6 @@ decine
 doghood
 doghouse
 drosky
-doghouses
 dogy
 demographical
 dogie
