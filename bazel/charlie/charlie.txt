@@ -8794,6 +8794,7 @@ chaori
 crappers
 corkiness
 chaos
+cloudcap
 chaotic
 chaoticness
 chaoua
@@ -16775,7 +16776,6 @@ clou
 cinnyl
 cloudage
 cloudberry
-cloudcap
 cloudful
 colouristic
 cloudy
