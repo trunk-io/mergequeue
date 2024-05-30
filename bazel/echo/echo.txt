@@ -12812,7 +12812,6 @@ emblems
 encephalomere
 ensembles
 exospore
-exossate
 expunger
 epeiridae
 endoproct
@@ -14117,6 +14116,7 @@ extroversion
 equivorous
 eyeletted
 extroversive
+exossate
 epitheton
 extrovert
 electrooptic
