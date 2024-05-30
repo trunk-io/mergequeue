@@ -19722,7 +19722,6 @@ comarum
 comas
 comate
 comates
-camarilla
 catogene
 comatik
 clefts
@@ -23849,6 +23848,7 @@ cartway
 contrariwise
 contrarotation
 conjunctival
+camarilla
 contrascriptural
 contrast
 cosec
