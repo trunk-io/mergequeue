@@ -605,6 +605,7 @@ aboideaus
 aboil
 aahed
 achaeta
+ambulatoria
 aboiteau
 aboiteaus
 assumedly
@@ -10235,7 +10236,6 @@ ambulation
 ambulative
 ambulator
 ambulatory
-ambulatoria
 aphanitism
 ambulatorial
 agraphias
