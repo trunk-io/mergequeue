@@ -9011,7 +9011,6 @@ boorish
 biocidal
 biocide
 bunyip
-bioclimatic
 bioclimatician
 bioclimatology
 bollox
@@ -9482,6 +9481,7 @@ bescent
 browpiece
 braider
 bungs
+bioclimatic
 balustrades
 benedictus
 bridegroom
