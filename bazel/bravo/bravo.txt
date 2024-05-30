@@ -2859,7 +2859,6 @@ beguin
 barouchette
 barouni
 baroxyton
-barque
 beebread
 bawrel
 buttonmold
@@ -4839,6 +4838,7 @@ bureaucratic
 bedrift
 bedright
 bhalu
+barque
 bedrip
 brainish
 balsawood
