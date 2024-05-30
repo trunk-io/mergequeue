@@ -3808,7 +3808,6 @@ adhesiveness
 autotoxin
 adhesives
 adhibit
-aggers
 apposes
 acception
 adhibition
@@ -11849,6 +11848,7 @@ adjudicator
 analyzes
 analyzing
 analkalinity
+aggers
 appetites
 anallagmatic
 anallagmatis
