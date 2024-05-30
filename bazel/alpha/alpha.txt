@@ -22359,7 +22359,6 @@ astromancer
 astromancy
 astromantic
 astromeda
-astrometeorology
 astrometeorological
 ancestrial
 allegorization
@@ -22779,6 +22778,7 @@ adjurers
 atnah
 atocha
 atoke
+astrometeorology
 accensor
 assemblages
 anyhow
