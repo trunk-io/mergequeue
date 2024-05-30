@@ -8054,7 +8054,6 @@ biblos
 buoyed
 biblus
 banate
-balistraria
 blurry
 buzzes
 borborygmi
@@ -15703,6 +15702,7 @@ brogger
 bonnne
 broggerite
 brogue
+balistraria
 browsed
 basiparachromatin
 broguer
