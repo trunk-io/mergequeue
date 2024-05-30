@@ -2636,7 +2636,6 @@ cankerroot
 cankers
 cankerweed
 clubmen
-cankerwort
 coff
 combinatorics
 canmaker
@@ -31059,6 +31058,7 @@ cuneus
 cungeboi
 cungevoi
 cacodylate
+cankerwort
 cunicular
 cuniculi
 camelid
