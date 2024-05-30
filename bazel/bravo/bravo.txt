@@ -841,7 +841,6 @@ boltholes
 baft
 baftah
 brecciation
-baga
 billikin
 bagasse
 bagasses
@@ -6767,6 +6766,7 @@ bemixes
 blachong
 berigora
 beryl
+baga
 bitemporal
 beryllonate
 beryllosis
