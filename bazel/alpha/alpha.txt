@@ -12534,7 +12534,6 @@ anemometers
 anemometrical
 avoided
 anemometrically
-asculae
 attenuated
 anemometrograph
 anemometrographically
@@ -18956,6 +18955,7 @@ archhypocrite
 alloplasty
 amis
 archhouse
+asculae
 archhumbug
 archibenthal
 archibenthic
