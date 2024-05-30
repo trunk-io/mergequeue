@@ -700,7 +700,6 @@ badan
 badarian
 barnstormed
 bourgeoises
-badarrah
 badass
 besprinkler
 birdshot
@@ -16858,6 +16857,7 @@ buffoonish
 bungle
 bloomingness
 buffoonishness
+badarrah
 bedead
 buras
 buffos
