@@ -7331,7 +7331,6 @@ cephalate
 coverts
 cephalemia
 cephaletron
-cephalhematoma
 cephalic
 cephalically
 cephalina
@@ -21959,6 +21958,7 @@ confessable
 cinematics
 creating
 confessant
+cephalhematoma
 confessary
 confessarius
 confessed
