@@ -14971,7 +14971,6 @@ citruses
 citoyenne
 coadmiring
 cytokinesis
-cytokinetic
 cytokinin
 cytol
 corries
@@ -17149,6 +17148,7 @@ coadjutorship
 coadjutress
 coadjutrix
 coadjuvant
+cytokinetic
 coadjuvate
 candystick
 coadminister
