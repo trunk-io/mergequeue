@@ -2811,6 +2811,7 @@ assassinator
 acrocephaly
 acrocephalia
 alarms
+argot
 acrocephalic
 acrocephalous
 acroceraunian
@@ -19611,7 +19612,6 @@ argonne
 argonon
 argons
 argosy
-argot
 archaizes
 antimediaeval
 argots
