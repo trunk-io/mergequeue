@@ -625,6 +625,7 @@ eurypharynx
 extolled
 epitrochlea
 existential
+etiological
 eidetic
 eciton
 ecize
@@ -10523,7 +10524,6 @@ etiolated
 etiolating
 etiolize
 etiology
-etiological
 endrumpf
 etiologist
 emetology
