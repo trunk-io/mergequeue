@@ -2334,7 +2334,6 @@ fixities
 flagitious
 fumage
 franchises
-fenner
 friday
 forbysen
 frowningly
@@ -6688,6 +6687,7 @@ finableness
 forecontrive
 fogginess
 foreanswer
+fenner
 flaggily
 fezes
 fanflower
