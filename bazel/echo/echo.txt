@@ -5311,7 +5311,6 @@ epiphyte
 estrangement
 entoconid
 endosteitis
-endosteoma
 encoring
 endosteomata
 endosteum
@@ -10971,6 +10970,7 @@ eaglewood
 extroversively
 euphorically
 euphotide
+endosteoma
 excommunicate
 egence
 empowers
