@@ -17670,7 +17670,6 @@ cochlear
 cochleary
 cochlearia
 cochleariform
-cochleate
 cerulescent
 cochleiform
 cochleitis
@@ -29775,6 +29774,7 @@ cropped
 cropper
 comorado
 croppers
+cochleate
 croppy
 cropping
 cropplecrown
