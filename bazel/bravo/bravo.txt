@@ -5265,7 +5265,6 @@ befuddle
 befuddled
 bram
 befuddlement
-befuddler
 banner
 befuddlers
 bromite
@@ -11010,6 +11009,7 @@ blistering
 blisteringly
 barlow
 blisters
+befuddler
 bibracteolate
 blit
 blithe
