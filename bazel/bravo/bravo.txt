@@ -2859,7 +2859,6 @@ beguin
 barouchette
 barouni
 baroxyton
-barque
 beebread
 bawrel
 buttonmold
@@ -12237,6 +12236,7 @@ blushiness
 boloism
 byplays
 bolomen
+barque
 bolometrically
 bolos
 boutre
