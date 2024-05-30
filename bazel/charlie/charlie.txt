@@ -9507,7 +9507,6 @@ cheapskate
 cheare
 cheat
 cheatableness
-cheated
 cheatee
 cubits
 corvee
@@ -11754,6 +11753,7 @@ convell
 choloidinic
 chololithic
 cholones
+cheated
 cholophaein
 coven
 cholophein
