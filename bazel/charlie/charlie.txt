@@ -4808,7 +4808,6 @@ carreton
 cofferlike
 carri
 cetaceous
-carry
 carriable
 carriage
 carriageable
@@ -7325,6 +7324,7 @@ cephalanthium
 cozenage
 coudee
 craspedote
+carry
 cephalaspis
 cocoonery
 chemoautotrophic

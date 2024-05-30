@@ -7253,7 +7253,6 @@ dispenser
 detente
 dicotyl
 dimetric
-detenu
 detenue
 detenues
 deter
@@ -12296,6 +12295,7 @@ darioles
 disgustfulness
 disgustingly
 dealated
+detenu
 dishabilitate
 dishabille
 dimorphite
