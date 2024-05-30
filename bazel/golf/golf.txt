@@ -3872,6 +3872,7 @@ giboia
 goyle
 gibstaff
 galeche
+gonidia
 greyhound
 gavelage
 gibuses
@@ -5646,7 +5647,6 @@ georgical
 girosols
 globular
 glossolabial
-gonidia
 gconvert
 glare
 gymnasiums
