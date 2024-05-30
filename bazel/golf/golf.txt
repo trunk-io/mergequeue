@@ -7274,7 +7274,6 @@ gatherer
 glareolidae
 gospels
 gospelwards
-gossard
 gosplan
 girlies
 grabbings
@@ -8981,6 +8980,7 @@ gimcracky
 grager
 grilse
 gunstocks
+gossard
 grassweed
 grimaced
 grimacers
