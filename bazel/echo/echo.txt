@@ -4242,7 +4242,6 @@ excitableness
 emptying
 emptiness
 emptio
-emption
 emptor
 encipher
 expo
@@ -11567,6 +11566,7 @@ eremiteship
 exaltedly
 epitoxoid
 energy
+emption
 ennoy
 evocator
 evoe
