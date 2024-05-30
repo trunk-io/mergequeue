@@ -2457,7 +2457,6 @@ electroforming
 emerges
 ethanol
 electrogalvanization
-equalization
 electrogenetic
 equivalence
 electrogenic
@@ -3421,6 +3420,7 @@ estranger
 embattlement
 embattles
 embed
+equalization
 exsibilate
 euphonetic
 embedment
