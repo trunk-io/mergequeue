@@ -714,7 +714,6 @@ defrayal
 dancalite
 dopester
 dance
-danceability
 danceable
 deruralize
 danced
@@ -15024,6 +15023,7 @@ doggies
 demoiselle
 doggish
 deads
+danceability
 doggishness
 doggle
 doggo
