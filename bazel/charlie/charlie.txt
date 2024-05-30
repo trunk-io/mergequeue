@@ -2079,6 +2079,7 @@ camper
 coniopterygidae
 channeler
 campers
+calculable
 chiloma
 campesinos
 campestral
@@ -7709,7 +7710,6 @@ cerialia
 cerianthid
 cerianthidae
 cerianthoid
-calculable
 cerianthus
 cerias
 chervils
