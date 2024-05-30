@@ -5890,7 +5890,6 @@ fearfully
 floodable
 fineable
 freeze
-fabiform
 flooder
 fichtean
 floccule
@@ -7509,6 +7508,7 @@ flagellator
 forches
 forecastlehead
 forecatching
+fabiform
 fatbrained
 five
 fringillaceous
