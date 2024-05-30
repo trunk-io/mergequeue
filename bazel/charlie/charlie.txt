@@ -27624,7 +27624,6 @@ charioteership
 covisitor
 conventicler
 covite
-covolume
 covotary
 catchpennies
 cow
@@ -31469,6 +31468,7 @@ currying
 creakingly
 currijong
 curring
+covolume
 currishly
 currock
 clupeoids
