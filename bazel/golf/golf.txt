@@ -1187,7 +1187,6 @@ guaiacol
 graecizes
 geminations
 gentlemens
-gynosporangium
 gantelope
 genitors
 gantlet
@@ -6999,6 +6998,7 @@ goof
 goofah
 genevoise
 gallant
+gynosporangium
 goofiness
 goodies
 gallantize
