@@ -4832,6 +4832,7 @@ cutwaters
 carryon
 carrions
 carryons
+critter
 carryout
 cutthroats
 carryouts
@@ -29560,7 +29561,6 @@ cabals
 critiqued
 critize
 critling
-critter
 coadunating
 critters
 crittur
