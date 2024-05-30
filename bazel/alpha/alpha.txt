@@ -1239,7 +1239,6 @@ acanthomas
 acanthomeridae
 acanthopanax
 anlia
-acanthophorous
 acanthopodous
 aqueously
 acanthopomatous
@@ -12629,6 +12628,7 @@ anethols
 anethum
 anetic
 avertible
+acanthophorous
 anetiological
 ashy
 aneuch
