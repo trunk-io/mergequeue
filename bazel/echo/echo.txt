@@ -8420,6 +8420,7 @@ ensnare
 enhaloes
 epitome
 epitomic
+epochs
 epitomise
 epitomiser
 egency
@@ -13534,7 +13535,6 @@ exsiccating
 exsiccator
 embowment
 exsolving
-epochs
 entosclerite
 eloquence
 exspuition
