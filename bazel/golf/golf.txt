@@ -1677,7 +1677,6 @@ gasteromycetous
 gasteropoda
 gummy
 gallons
-gastight
 gastly
 grandstand
 gonadotrophic
@@ -6953,6 +6952,7 @@ glyconin
 grecian
 goodishness
 goodless
+gastight
 gascons
 groupthink
 gulsach
