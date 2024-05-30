@@ -11318,7 +11318,6 @@ amphistome
 asyllabic
 amphitene
 amphithalami
-amphithalamus
 amphitheater
 amphitheaters
 amphitheatre
@@ -11930,6 +11929,7 @@ anangular
 autoantitoxin
 addable
 ananym
+amphithalamus
 ananism
 ananite
 anelace
