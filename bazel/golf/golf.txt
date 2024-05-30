@@ -4825,6 +4825,7 @@ granges
 gooier
 gisel
 gisement
+getmesost
 gibbsite
 glazily
 gismondine
@@ -7457,7 +7458,6 @@ grigs
 gelatinizable
 griffade
 generatrix
-getmesost
 generalization
 glial
 goals
