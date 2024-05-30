@@ -4947,7 +4947,6 @@ flanker
 flankers
 flaneur
 flanking
-flanks
 foremartyr
 filthified
 frowsier
@@ -7795,6 +7794,7 @@ forenoons
 forenote
 flattens
 fids
+flanks
 fashionableness
 forensics
 fritterers
