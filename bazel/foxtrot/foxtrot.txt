@@ -2933,6 +2933,7 @@ fruitlet
 floorcloth
 febricide
 feudalist
+frettage
 feudalists
 fractionising
 fustigation
@@ -9848,7 +9849,6 @@ fermiums
 feldspathic
 fuds
 frett
-frettage
 frettation
 frette
 fretten
