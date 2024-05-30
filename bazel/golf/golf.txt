@@ -8,7 +8,6 @@ gophers
 gaby
 gaseliers
 geometrician
-gabbards
 goldeye
 gloat
 glenn
@@ -2662,6 +2661,7 @@ gyrations
 goitrous
 gitter
 generalized
+gabbards
 gristy
 gangliasthenia
 grondwet
