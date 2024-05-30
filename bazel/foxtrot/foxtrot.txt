@@ -7574,6 +7574,7 @@ fecundative
 fluosilicate
 foredune
 firy
+foulbrood
 farrier
 fossula
 felty
@@ -8861,7 +8862,6 @@ fougasse
 foujdarry
 foul
 fogger
-foulbrood
 foulder
 fiberizer
 fouled
