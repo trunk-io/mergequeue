@@ -4882,6 +4882,7 @@ bolivars
 bostonese
 bedstand
 brazenface
+bishopful
 baikerinite
 beshrouded
 bolometer
@@ -9716,7 +9717,6 @@ backbeats
 brince
 bishopdom
 bishoped
-bishopful
 bowwort
 barbarianism
 baptists
