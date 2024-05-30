@@ -17634,7 +17634,6 @@ clallam
 coccobacilli
 cumins
 coccobacillus
-coccochromatic
 coccogone
 coccogoneae
 coccoidal
@@ -21781,6 +21780,7 @@ condolatory
 corkish
 condoled
 coenacting
+coccochromatic
 condolement
 condolence
 condolent
