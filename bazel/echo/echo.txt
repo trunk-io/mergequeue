@@ -4184,7 +4184,6 @@ empoisoned
 encaustes
 etherol
 epistle
-elaborator
 enchronicle
 escaloped
 excellencies
@@ -12352,6 +12351,7 @@ endotracheitis
 equimolecular
 erichtoid
 enhydrous
+elaborator
 exercitation
 elecampane
 enserfs
