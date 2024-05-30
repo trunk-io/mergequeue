@@ -2858,7 +2858,6 @@ grocerwise
 genre
 gramophonist
 genro
-glyoxyl
 gabionade
 ghyll
 gerrymandering
@@ -4598,6 +4597,7 @@ glossokinesthetic
 gypsyisms
 gypsyweed
 governable
+glyoxyl
 gypsywise
 galerus
 govern
