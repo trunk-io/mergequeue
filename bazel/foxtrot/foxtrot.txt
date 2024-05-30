@@ -5251,6 +5251,7 @@ fleabags
 fissidactyl
 fluorites
 fleabite
+fascinery
 fricandoes
 fleabites
 foods
@@ -9264,7 +9265,6 @@ fertilities
 futilely
 fraises
 fretwise
-fascinery
 formalazine
 frontispieced
 flary
