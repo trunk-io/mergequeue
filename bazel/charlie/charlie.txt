@@ -5343,6 +5343,7 @@ castellano
 castellans
 castellanship
 chaufer
+chosing
 castellate
 castellated
 chooseable
@@ -12538,7 +12539,6 @@ cranemanship
 chromogenous
 chromoisomer
 chromoisomeric
-chosing
 chromoisomerism
 chromoleucite
 chromolipoid
