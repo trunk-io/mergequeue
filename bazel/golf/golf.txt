@@ -4533,7 +4533,6 @@ geomorphogenist
 graveldiver
 gynoecia
 greatish
-gynogenesis
 gadhelic
 giddy
 gynogenetic
@@ -7101,6 +7100,7 @@ gopherberry
 glossate
 gowdy
 gopherberries
+gynogenesis
 gummers
 gist
 glaucously
