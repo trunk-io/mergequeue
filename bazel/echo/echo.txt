@@ -5168,7 +5168,6 @@ endointoxication
 endolymph
 euryalida
 endolymphatic
-endolymphic
 estafette
 ectobatic
 endolysin
@@ -14152,6 +14151,7 @@ engouee
 enscale
 emblossom
 ependymoma
+endolymphic
 extuberant
 exuberantness
 exuberated
