@@ -5101,7 +5101,6 @@ endocrinology
 ebraick
 emergencies
 exposures
-entogenous
 endocrinologist
 ecdysones
 eisell
@@ -10703,6 +10702,7 @@ eudaimonia
 eudaimonist
 eric
 eudemian
+entogenous
 eudemon
 eudemonic
 eluvial
