@@ -11122,6 +11122,7 @@ chitinogenous
 chitinoid
 chitinous
 chitins
+covets
 chitlin
 chitling
 chitlings
@@ -26498,7 +26499,6 @@ cotoneaster
 cotonia
 cotorment
 cotoro
-covets
 cotoros
 cellulase
 cotorture
