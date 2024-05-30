@@ -4784,7 +4784,6 @@ equitangential
 encolour
 encolpia
 encolpion
-equilibrator
 encomy
 electromer
 enduro
@@ -6615,6 +6614,7 @@ enterogastrone
 egrimonle
 enterogenous
 effulging
+equilibrator
 exacts
 enigua
 ephyrae
