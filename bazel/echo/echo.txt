@@ -4723,6 +4723,7 @@ encysting
 encystment
 eugenol
 encystments
+estancieros
 elect
 encysts
 erythrocytolysin
@@ -12638,7 +12639,6 @@ embouchement
 eyeserver
 endokaryogamy
 exocrines
-estancieros
 epitonium
 endostoma
 epiphytically
