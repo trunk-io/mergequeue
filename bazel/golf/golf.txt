@@ -5167,7 +5167,6 @@ grasni
 glassines
 glassiness
 glasslikeness
-gourdiness
 gondi
 goosefoots
 gravery
@@ -6066,6 +6065,7 @@ glunch
 garrisonian
 gastrohydrorrhea
 glassmen
+gourdiness
 glutamate
 geodesics
 gazing
