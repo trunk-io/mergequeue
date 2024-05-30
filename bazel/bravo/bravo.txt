@@ -6622,7 +6622,6 @@ bepretty
 bedirt
 bepuffed
 brandi
-bequalm
 bequeathal
 bequeathed
 bruges
@@ -15768,6 +15767,7 @@ broletti
 bi
 broletto
 bedrabble
+bequalm
 biders
 brolga
 broncho

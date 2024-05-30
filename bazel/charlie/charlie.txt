@@ -22031,7 +22031,6 @@ configures
 configuring
 coxcombry
 confinable
-confine
 confineable
 confined
 chalcophile
@@ -25659,6 +25658,7 @@ corporals
 citronellic
 corporalship
 corporas
+confine
 corporate
 christenmas
 corporately
