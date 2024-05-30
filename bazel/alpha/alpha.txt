@@ -2003,6 +2003,7 @@ acetylphenylhydrazine
 asg
 acetylphenol
 agogic
+alcine
 acetylrosaniline
 acetyls
 atmostea
@@ -7707,7 +7708,6 @@ alcidae
 antisepticist
 alcidine
 audiometry
-alcine
 alcyon
 alcyonacean
 alcyone

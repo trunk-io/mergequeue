@@ -4359,7 +4359,6 @@ beaverize
 beaverkill
 betty
 beaverkin
-bosnian
 beaverskin
 bassarisk
 beaverteen
@@ -5554,6 +5553,7 @@ behooves
 brakeages
 behooving
 bacterioprotein
+bosnian
 bellmaster
 behoved
 bobance
