@@ -2586,7 +2586,6 @@ bronchiocele
 barcolongo
 bemixt
 blepharocoloboma
-bs
 bobbiner
 begster
 birk
@@ -8504,6 +8503,7 @@ bihalve
 boatly
 berean
 backstone
+bs
 bouche
 birches
 byhand
