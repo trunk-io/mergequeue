@@ -7307,7 +7307,6 @@ donnie
 dress
 diphthongia
 diphthongization
-determinate
 determinated
 driftwood
 determinately
@@ -12904,6 +12903,7 @@ dainful
 disorb
 diphyes
 dowelling
+determinate
 demihague
 demivoice
 disordeine
