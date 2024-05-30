@@ -3499,7 +3499,6 @@ additament
 abiliment
 additiment
 amarillos
-additionary
 additionist
 afterwort
 additions
@@ -23815,6 +23814,7 @@ authenticates
 authentication
 athetosic
 angularization
+additionary
 alumbrado
 authenticness
 authigene

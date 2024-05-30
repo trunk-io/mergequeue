@@ -12124,7 +12124,6 @@ chortosterol
 chaunters
 champlev
 ceca
-chorused
 choruses
 chorusing
 chanceries
@@ -21270,6 +21269,7 @@ concernancy
 concerned
 concernedly
 concernedness
+chorused
 concerning
 concerningly
 concerningness
