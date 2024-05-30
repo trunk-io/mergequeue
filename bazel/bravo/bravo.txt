@@ -8115,7 +8115,6 @@ bonaveria
 blastaea
 bicyclist
 bicyclo
-bicycular
 biciliated
 bicylindrical
 bicipital
@@ -10801,6 +10800,7 @@ blueback
 bandfish
 bogijiab
 blenniiformes
+bicycular
 blennioid
 brahmism
 blennocystitis
