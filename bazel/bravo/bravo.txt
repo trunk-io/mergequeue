@@ -2792,6 +2792,7 @@ becapping
 baronetcies
 buboed
 bookies
+binocularly
 bookit
 burmannia
 baroneting
@@ -8942,7 +8943,6 @@ battailant
 binocs
 binocular
 battel
-binocularly
 binoculars
 bellarmine
 beached
