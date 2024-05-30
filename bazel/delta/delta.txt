@@ -9232,6 +9232,7 @@ decahedrodra
 decentres
 dieldrins
 dyeleaves
+drabbed
 dielectric
 discontinuor
 debarkation
@@ -16461,7 +16462,6 @@ dr
 draba
 disassembles
 drabant
-drabbed
 drabber
 dissimulative
 drabbets
