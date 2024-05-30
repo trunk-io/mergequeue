@@ -1814,6 +1814,7 @@ biteless
 baserunning
 bromohydrin
 bamming
+begray
 bamoth
 bichromic
 becobweb
@@ -5427,7 +5428,6 @@ begowk
 begowned
 buyable
 benchboard
-begray
 barodynamic
 boodie
 begrave
