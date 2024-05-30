@@ -2149,6 +2149,7 @@ buckshots
 bidstand
 bantam
 bantamize
+bismar
 bantams
 banteng
 bizant
@@ -9755,7 +9756,6 @@ battening
 bysmalith
 biggety
 benzoate
-bismar
 bismark
 bosslet
 bismer
