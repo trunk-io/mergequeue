@@ -5151,7 +5151,6 @@ antepagmenta
 angiocarpy
 aerotropism
 allantois
-aeroview
 aeruginous
 aerugo
 aerugos
@@ -14820,6 +14819,7 @@ ammonolyzed
 antibridal
 antibromic
 antibubonic
+aeroview
 antibug
 avouches
 antibusing
