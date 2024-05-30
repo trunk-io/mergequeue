@@ -2352,6 +2352,7 @@ disfavourable
 dustup
 demeriting
 dustpoint
+downriver
 dropsy
 decerning
 donne
@@ -16333,7 +16334,6 @@ decidability
 downright
 discredits
 downrightness
-downriver
 downset
 discepting
 dismes
