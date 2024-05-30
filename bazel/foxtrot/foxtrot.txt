@@ -2458,7 +2458,6 @@ fermatas
 fleshed
 festivities
 figpecker
-ferme
 frizzle
 firebird
 futtock
@@ -4006,6 +4005,7 @@ falla
 feel
 fletchings
 finishable
+ferme
 finisher
 fadable
 finishers
