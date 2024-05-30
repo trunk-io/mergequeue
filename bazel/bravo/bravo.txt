@@ -9353,7 +9353,6 @@ bipinnatipartite
 bipinnatisect
 bipinnatisected
 brighter
-bowtie
 bipyramid
 bipyridyl
 bubale
@@ -15472,6 +15471,7 @@ blaubok
 bionergy
 bandwagons
 boxes
+bowtie
 barraclade
 braggadocio
 bryozoon
