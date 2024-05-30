@@ -9214,7 +9214,6 @@ almonage
 activital
 almondy
 almonds
-almoner
 angina
 atwo
 almoners
@@ -23927,6 +23926,7 @@ autocarpic
 acenaphthenyl
 anatherum
 autocatalyses
+almoner
 autocatalysis
 autocatalyze
 autocatharsis
