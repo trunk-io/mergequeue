@@ -12148,7 +12148,6 @@ anatomicopathologic
 arteriofibrosis
 anatomise
 anatomiser
-anatomist
 anatomists
 anatomization
 anatomize
@@ -21516,6 +21515,7 @@ apotypic
 avertive
 asphyxiant
 asphyxias
+anatomist
 auxoaction
 asphyxiated
 antimythic
