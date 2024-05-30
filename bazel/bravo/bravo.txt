@@ -1868,7 +1868,6 @@ battlepiece
 bollito
 barricos
 besotter
-branchling
 bandeau
 betula
 bandelet
@@ -8249,6 +8248,7 @@ biding
 bidirectional
 bidirectionally
 bemedalled
+branchling
 bidonville
 boathouses
 bountith
