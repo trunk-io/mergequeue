@@ -6052,7 +6052,6 @@ aerogeology
 aggravation
 aggravations
 aggravative
-aggravator
 aggregable
 adenohypophysis
 ardeidae
@@ -24119,6 +24118,7 @@ allelocatalytic
 autoinoculable
 antiritualism
 autoinoculation
+aggravator
 autointellectual
 autointoxicant
 autointoxication
