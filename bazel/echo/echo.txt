@@ -11491,7 +11491,6 @@ explanatory
 egotists
 eleocharis
 embodying
-evictor
 evictors
 evidence
 edeagra
@@ -12685,6 +12684,7 @@ encharge
 exometritis
 echo
 emerse
+evictor
 encephaloma
 exomologesis
 exomphalos
