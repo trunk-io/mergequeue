@@ -14755,7 +14755,6 @@ dockhouse
 dockyard
 daktylon
 deringers
-dockyards
 docking
 dukkha
 dockization
@@ -15270,6 +15269,7 @@ decalcomania
 disoxidate
 dollship
 dolmans
+dockyards
 diluviums
 dolmas
 dolmen
