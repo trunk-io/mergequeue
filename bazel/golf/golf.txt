@@ -549,7 +549,6 @@ galleins
 gleby
 gamodemes
 galleyworm
-geneat
 glimpsed
 galleon
 galleons
@@ -8806,6 +8805,7 @@ geostatic
 greypate
 greisen
 goujons
+geneat
 greisens
 genty
 greyware
