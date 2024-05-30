@@ -5144,6 +5144,7 @@ euplocomi
 echeloning
 endogenesis
 exorate
+exulcerate
 endogenicity
 endogenies
 endogenous
@@ -8288,7 +8289,6 @@ erucic
 entozoa
 epistyle
 epistylis
-exulcerate
 emetocathartic
 enweave
 eleostearate
