@@ -4889,6 +4889,7 @@ flamers
 ferments
 flubbing
 fallback
+freelance
 flamethrowers
 frankpledge
 flamy
@@ -9641,7 +9642,6 @@ feeders
 ferias
 fortalice
 flunkers
-freelance
 fornax
 freeload
 freeloaded
