@@ -4261,7 +4261,6 @@ buoyantness
 barming
 beastlily
 beastliness
-beastling
 beastlings
 bulgy
 beastman
@@ -8933,6 +8932,7 @@ binna
 bisacromial
 bowering
 binned
+beastling
 binny
 binnite
 binnogue
