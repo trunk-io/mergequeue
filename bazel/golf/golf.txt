@@ -2316,7 +2316,6 @@ geez
 geoplanidae
 gefulltefish
 gaddis
-galax
 gruiform
 gehlenite
 goblet
@@ -5110,6 +5109,7 @@ giulio
 gossipper
 glanduliform
 gazee
+galax
 gibel
 gaufer
 gleba
