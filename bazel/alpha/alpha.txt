@@ -3769,6 +3769,7 @@ adermine
 adesmy
 annum
 adespoton
+artifacts
 adessenarian
 adams
 adeste
@@ -20752,7 +20753,6 @@ acquitment
 affrighter
 artifactitious
 altitonant
-artifacts
 artifactual
 artifactually
 artifex
