@@ -17422,7 +17422,6 @@ decream
 doorsill
 dropsies
 dermopteran
-deflectional
 dropsonde
 dropt
 dropwise
@@ -18583,6 +18582,7 @@ dustheap
 dusty
 dustiest
 dustyfoot
+deflectional
 dusting
 dustless
 dismarketed
