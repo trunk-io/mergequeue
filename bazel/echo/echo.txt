@@ -3708,6 +3708,7 @@ eweries
 embryotome
 exsculp
 embryotomies
+eventuating
 echelette
 embryotrophy
 embrittle
@@ -11429,7 +11430,6 @@ eventuality
 eventualize
 eventually
 eventuated
-eventuating
 eveque
 epergnes
 evergreen
