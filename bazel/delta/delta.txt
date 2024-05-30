@@ -719,7 +719,6 @@ danceability
 danceable
 deruralize
 danced
-dejectedly
 diddled
 degasification
 dancers
@@ -2919,6 +2918,7 @@ dearnesses
 dissected
 decupling
 dextrines
+dejectedly
 draper
 diphyzooid
 domus
