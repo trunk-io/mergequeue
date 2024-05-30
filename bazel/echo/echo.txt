@@ -4344,6 +4344,7 @@ estreat
 enamelers
 epigrammatize
 elacolite
+etude
 enameling
 enamelist
 equiped
@@ -13359,7 +13360,6 @@ expostulatively
 exemplify
 exposture
 epanaphoral
-etude
 exposure
 emphemeralness
 excalfaction
