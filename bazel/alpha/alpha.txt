@@ -8019,6 +8019,7 @@ aleuritic
 aleurobius
 applicabilities
 alternates
+autostability
 aleurodes
 aleurodidae
 ananthropism
@@ -24394,7 +24395,6 @@ autosoterism
 auteciously
 autospore
 autosporic
-autostability
 autostarter
 airmanship
 autostylism
