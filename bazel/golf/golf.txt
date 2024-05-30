@@ -1760,7 +1760,6 @@ gluts
 gastroenteroanastomosis
 gastroenterocolostomy
 gastroenterology
-gelatination
 gastightness
 gastroenterologic
 gastroepiploic
@@ -9029,6 +9028,7 @@ galactidrosis
 grinch
 glabrous
 geoid
+gelatination
 grincome
 gipsyhead
 grindable
