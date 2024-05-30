@@ -3284,7 +3284,6 @@ bromochloromethane
 basiliscan
 basiliscus
 balkier
-bigger
 bacin
 basilweed
 basinal
@@ -5673,6 +5672,7 @@ biotype
 beknow
 bel
 bela
+bigger
 burgonets
 bruscus
 beslubber
