@@ -10724,7 +10724,6 @@ aminopyrine
 aminoplastic
 angulometer
 arachne
-aminopolypeptidase
 aphronitre
 aminopurine
 aminoquin
@@ -23938,6 +23937,7 @@ autocephalic
 autocephalous
 autoceptive
 autochemical
+aminopolypeptidase
 autocholecystectomy
 autochrome
 autochromy
