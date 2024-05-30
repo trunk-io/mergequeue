@@ -9140,7 +9140,6 @@ alluvials
 alluviation
 ageustia
 anatosaurus
-allhallow
 alluvion
 aethereal
 anemometric
@@ -13785,6 +13784,7 @@ anomatheca
 anomer
 anomy
 anomia
+allhallow
 anomiacea
 anomic
 apodictic
