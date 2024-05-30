@@ -3940,6 +3940,7 @@ batons
 babus
 bawdrics
 bawdries
+bumpee
 bangling
 bawl
 bevelment
@@ -17318,7 +17319,6 @@ bummock
 barragan
 barberite
 bumped
-bumpee
 burrowed
 blobber
 beechier
