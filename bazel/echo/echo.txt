@@ -838,7 +838,6 @@ eclogites
 ecthlipses
 ecdysiast
 ectypal
-ectype
 everliving
 enwrite
 elemicin
@@ -10884,6 +10883,7 @@ endarteria
 eupatorium
 eupatrid
 eupatridae
+ectype
 eupatrids
 eluent
 epigram
