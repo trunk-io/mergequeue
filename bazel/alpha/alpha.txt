@@ -3821,7 +3821,6 @@ assistency
 antecedal
 adiadochokinesis
 adiadokokinesia
-archived
 adiagnostic
 adiamorphic
 amarantite
@@ -8343,6 +8342,7 @@ afterplay
 alighting
 align
 aligned
+archived
 aligning
 aligns
 aligreek
