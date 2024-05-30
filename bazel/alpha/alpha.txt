@@ -1772,7 +1772,6 @@ accusatives
 accusator
 associates
 accusatory
-apectomy
 accusatorial
 accusatorially
 accusatrix
@@ -24342,6 +24341,7 @@ atopen
 autorotational
 autoroute
 autorrhaphy
+apectomy
 autos
 autosauri
 autosauria
