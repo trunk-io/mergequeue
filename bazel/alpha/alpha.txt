@@ -10556,6 +10556,7 @@ ameliorativ
 amidoplast
 amaryllid
 amidoplastid
+arrastre
 amidoxy
 amidoxyl
 amidrazone
@@ -11973,7 +11974,6 @@ anaplasmoses
 anaplasmosis
 anaplasty
 anaplastic
-arrastre
 autallotriomorphic
 anaplerosis
 anaplerotic
