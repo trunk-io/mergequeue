@@ -206,7 +206,6 @@ folletage
 footstock
 fifing
 fazenda
-forebar
 factotum
 factotums
 ferrihemoglobin
@@ -1389,6 +1388,7 @@ frock
 fatigating
 filicoids
 fairnesses
+forebar
 fatigue
 fossicks
 fatiguesome
