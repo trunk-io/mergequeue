@@ -15578,7 +15578,6 @@ clarin
 cleaved
 clarina
 clarine
-clarinet
 clarinetist
 clarinetists
 clarinets
@@ -23535,6 +23534,7 @@ contentless
 campephagidae
 contently
 contentment
+clarinet
 contents
 contenu
 caprock
