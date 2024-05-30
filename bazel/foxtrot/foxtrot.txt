@@ -1126,7 +1126,6 @@ fluoroid
 farseer
 farset
 farsighted
-flabel
 fortunize
 forcat
 farsightedness
@@ -4677,6 +4676,7 @@ flabellate
 fibrinogenically
 flabellation
 fullage
+flabel
 frises
 flabs
 flaccid
