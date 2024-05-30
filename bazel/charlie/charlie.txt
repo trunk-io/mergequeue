@@ -7373,6 +7373,7 @@ cephalodia
 cephalodymus
 cephalodiscid
 checkweigher
+compathy
 cryophoric
 cephalodiscida
 cephalodiscus
@@ -9592,7 +9593,6 @@ casehardens
 checkrein
 checkroll
 checkroom
-compathy
 checkrooms
 checkrope
 colleagued
