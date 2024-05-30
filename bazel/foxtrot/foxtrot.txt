@@ -6601,7 +6601,6 @@ foamless
 fettled
 floodway
 foamlike
-foams
 frogfish
 flirtier
 frequents
@@ -11338,6 +11337,7 @@ feer
 furfuraceous
 forgeability
 favorability
+foams
 frena
 furfuralcohol
 filiciform

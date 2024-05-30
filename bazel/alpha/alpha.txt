@@ -2000,6 +2000,7 @@ acetylizer
 acetylizing
 acetylmethylcarbinol
 acetylperoxide
+alviducous
 acetylphenylhydrazine
 asg
 acetylphenol
@@ -9754,7 +9755,6 @@ alveolonasal
 alveolosubnasal
 alveolus
 alveus
-alviducous
 alvin
 ambidexterous
 alvine
