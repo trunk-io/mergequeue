@@ -4818,7 +4818,6 @@ bedral
 bedraped
 bedrapes
 bedraping
-bedread
 bedrench
 bedrenched
 baldling
@@ -8269,6 +8268,7 @@ bieldy
 bossa
 bielding
 benzopinacone
+bedread
 blimpish
 bielectrolysis
 beardie
