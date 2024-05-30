@@ -259,6 +259,7 @@ gym
 ghostlike
 gipsire
 ghostwrote
+gracefully
 gainyield
 grafter
 gordiacean
@@ -9912,7 +9913,6 @@ guarantors
 gymnite
 geophyte
 gargarism
-gracefully
 genion
 guard
 glumpy
