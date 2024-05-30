@@ -5411,7 +5411,6 @@ formatters
 fanjets
 furfuran
 fleshliest
-fleshliness
 fw
 fiddleneck
 fittiest
@@ -10444,6 +10443,7 @@ featurish
 frontwards
 fragrant
 fermatian
+fleshliness
 fairbanks
 fistiana
 fluidimeter
