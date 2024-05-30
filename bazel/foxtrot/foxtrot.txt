@@ -1078,7 +1078,6 @@ frieda
 fastigiately
 farmyard
 farmyardy
-farmout
 fisc
 farmtown
 floricomous
@@ -6227,6 +6226,7 @@ ferruling
 ferocactus
 footpaths
 fiji
+farmout
 folkloristic
 fluidally
 fretter
