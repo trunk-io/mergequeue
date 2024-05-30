@@ -6368,6 +6368,7 @@ ensemble
 ensiform
 equilocation
 ensign
+extemporally
 electroplaque
 entranceway
 ensignry
@@ -13562,7 +13563,6 @@ extance
 extancy
 extbook
 ethylated
-extemporally
 edriophthalmian
 extemporalness
 exiledom
