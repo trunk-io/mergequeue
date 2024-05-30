@@ -5496,7 +5496,6 @@ goas
 girsle
 grandmotherliness
 glioma
-gender
 gamaliel
 glutenin
 granomerite
@@ -10724,6 +10723,7 @@ gustard
 guergal
 grouping
 garnishable
+gender
 gustatorial
 groupie
 germanomania
