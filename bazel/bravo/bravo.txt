@@ -3807,6 +3807,7 @@ barway
 bifollicular
 battlement
 barnstorms
+boondogglers
 battler
 battles
 battleship
@@ -12871,7 +12872,6 @@ boomtowns
 boon
 brumalia
 birthmate
-boondogglers
 blipped
 boondoggling
 banishers
