@@ -1098,7 +1098,6 @@ edge
 edgebone
 emyd
 edgeboned
-edged
 eidolon
 edgeling
 edgeman
@@ -4273,6 +4272,7 @@ egoisms
 emulsibility
 emulsible
 emulsifications
+edged
 exocrinologies
 egyptologist
 expolish
