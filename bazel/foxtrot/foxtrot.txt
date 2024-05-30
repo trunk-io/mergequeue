@@ -7232,7 +7232,6 @@ footstall
 fancysick
 fortlet
 federalise
-footwalk
 footwarmer
 footwear
 fumiferous
@@ -9182,6 +9181,7 @@ formicaria
 fraena
 fraternities
 foundationless
+footwalk
 fanning
 foment
 fetometry
