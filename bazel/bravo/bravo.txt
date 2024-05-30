@@ -2667,7 +2667,6 @@ barkless
 barklyite
 barkometer
 bescorch
-barkeepers
 butyr
 batrachite
 beheld
@@ -5286,6 +5285,7 @@ boarcite
 beslimed
 basification
 begar
+barkeepers
 basaltic
 bicentenary
 beaky
