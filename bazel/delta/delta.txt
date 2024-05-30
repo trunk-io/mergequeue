@@ -5230,7 +5230,6 @@ directives
 doctrinalist
 dyings
 daemon
-decameter
 denitrator
 doghole
 deathly
@@ -5848,6 +5847,7 @@ defats
 deposer
 deposers
 deposes
+decameter
 discouragement
 deposing
 deposit
