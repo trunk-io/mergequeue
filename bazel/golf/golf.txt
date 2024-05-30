@@ -767,7 +767,6 @@ grigri
 gugglet
 galvanizers
 gujar
-galvanizes
 galvanizing
 galvanocauteries
 galvanoglyph
@@ -10530,6 +10529,7 @@ gouged
 galenist
 glavered
 gunge
+galvanizes
 gregge
 germinability
 gunj
