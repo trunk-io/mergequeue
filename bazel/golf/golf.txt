@@ -820,7 +820,6 @@ gangliac
 grooper
 gris
 ghrush
-gandergoose
 gottlieb
 gamari
 gamash
@@ -4086,6 +4085,7 @@ giantlike
 gubbings
 grounds
 gurlet
+gandergoose
 gravamem
 gravels
 gilds
