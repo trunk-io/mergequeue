@@ -599,6 +599,7 @@ falsetto
 feoffees
 farmable
 fraud
+facette
 fragaria
 floodways
 fitzroy
@@ -6763,7 +6764,6 @@ fass
 founding
 fold
 fleechment
-facette
 fevers
 foldage
 favellilidia
