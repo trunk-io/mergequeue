@@ -3354,6 +3354,7 @@ basker
 basketballer
 basketballs
 basketfuls
+bathflower
 bay
 bathers
 basketing
@@ -3590,7 +3591,6 @@ bellower
 bather
 bathes
 bathetically
-bathflower
 bathhouses
 braggest
 becudgel
