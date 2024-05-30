@@ -1228,7 +1228,6 @@ educatability
 eident
 elkhounds
 educatable
-evitate
 educatedness
 educates
 entitule
@@ -8708,6 +8707,7 @@ equipoise
 equipollency
 estrone
 evasively
+evitate
 euphemizing
 epilepsy
 enterosyphilis
