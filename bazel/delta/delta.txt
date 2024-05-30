@@ -2002,7 +2002,6 @@ daily
 dimorphic
 desugars
 decaedron
-decaesarize
 decaffeinate
 decaffeinated
 depicted
@@ -5078,6 +5077,7 @@ dexiocardia
 denationalize
 denaturalisation
 denaturalise
+decaesarize
 dayal
 denaturalised
 denaturalising
