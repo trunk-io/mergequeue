@@ -4292,7 +4292,6 @@ emulsion
 esotrope
 eremital
 emulsions
-emacerated
 effluxes
 env
 emulsoids
@@ -5370,6 +5369,7 @@ endothermic
 endothia
 ejaculative
 echinocactus
+emacerated
 euryalean
 escribiente
 epigramme
