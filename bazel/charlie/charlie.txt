@@ -15496,7 +15496,6 @@ clanswomen
 claosaurus
 clapboard
 clapboarding
-cleidomastoid
 clapboards
 clapcake
 clapdish
@@ -22917,6 +22916,7 @@ conservatoire
 conservatoires
 conservator
 conservatory
+cleidomastoid
 conservatorial
 conservatorium
 crystograph
