@@ -290,7 +290,6 @@ governorship
 golgotha
 grayout
 gaintwist
-gamuts
 gairfowl
 geminating
 gribbles
@@ -8340,6 +8339,7 @@ gaseous
 gratifying
 graphic
 galravage
+gamuts
 gaffe
 gawsie
 gapingstock

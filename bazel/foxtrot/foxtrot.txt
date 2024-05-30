@@ -10660,7 +10660,6 @@ fruiteries
 fruitester
 fruitfuller
 foible
-footwears
 forenamed
 fruitgrower
 foodstuffs
@@ -11053,6 +11052,7 @@ furzery
 flabbier
 fuminess
 fuming
+footwears
 foresights
 filiferous
 filles
