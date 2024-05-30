@@ -5013,6 +5013,7 @@ greeter
 graced
 glaga
 glagolic
+gymnasiums
 glaieul
 glaik
 getic
@@ -5650,7 +5651,6 @@ glossolabial
 gonidia
 gconvert
 glare
-gymnasiums
 globularia
 globulariaceae
 grandparents
