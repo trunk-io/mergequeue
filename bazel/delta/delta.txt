@@ -3683,7 +3683,6 @@ diploic
 dumbfound
 defoliant
 dropforging
-deglutination
 deglutition
 deglutitious
 degold
@@ -15961,6 +15960,7 @@ disorganize
 dipterist
 diacoelosis
 dehydrotestosterone
+deglutination
 dothideales
 deindividualization
 dothidella
