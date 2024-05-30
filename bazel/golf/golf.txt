@@ -482,7 +482,6 @@ genyoplasty
 glossoncus
 galeorchis
 gospelize
-glucinic
 geelhout
 galvanometrical
 glutoid
@@ -6259,6 +6258,7 @@ gadfly
 garibaldi
 goadsman
 gazetteers
+glucinic
 guarantine
 gondang
 goal
