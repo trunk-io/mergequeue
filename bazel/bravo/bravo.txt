@@ -1133,6 +1133,7 @@ bordermark
 brownback
 bairnish
 bairnishness
+burbots
 bloodthirstily
 bairnly
 barkstone
@@ -3487,7 +3488,6 @@ biggah
 bastiment
 blot
 bastinaded
-burbots
 bastinado
 bastinadoing
 basting
