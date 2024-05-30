@@ -3094,6 +3094,7 @@ elliptical
 elliptically
 ellipticalness
 ellipticity
+episporangium
 extemporize
 elliptograph
 elliptoid
@@ -5500,7 +5501,6 @@ esere
 epidendric
 effector
 enfasten
-episporangium
 everywhence
 enfatico
 enfavor

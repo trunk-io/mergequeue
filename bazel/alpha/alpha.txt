@@ -6861,7 +6861,6 @@ autopsic
 airdrome
 airdromes
 airdrop
-amiga
 alanyls
 airdropping
 airdrops
@@ -8265,6 +8264,7 @@ abyssal
 alichel
 alichino
 alliterating
+amiga
 alicia
 aqueousness
 alicyclic
