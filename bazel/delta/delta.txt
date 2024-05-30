@@ -2619,7 +2619,6 @@ decoctive
 decocts
 deaminizing
 decoctum
-decodable
 decode
 decoded
 decoders
@@ -8876,6 +8875,7 @@ doziness
 distrainor
 dibutyl
 dibutyrin
+decodable
 dicacity
 discoherent
 dicaeidae
