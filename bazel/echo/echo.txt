@@ -2507,7 +2507,6 @@ electrolysing
 eparcuale
 electrolyte
 epitomisation
-equitriangular
 exoskeleton
 excerebrate
 elephantry
@@ -13893,6 +13892,7 @@ etheria
 extrameridian
 extrameridional
 extrametrical
+equitriangular
 extramission
 erythrism
 extramodal
