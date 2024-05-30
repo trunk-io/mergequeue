@@ -6929,6 +6929,7 @@ cemeterial
 ceratinous
 cemeteries
 culm
+cheloids
 cenaculum
 cenanthy
 cecily
@@ -9835,7 +9836,6 @@ cheliped
 chelys
 cydon
 chellean
-cheloids
 cutinizing
 chelonia
 chelonian
