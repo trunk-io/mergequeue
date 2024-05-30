@@ -15151,6 +15151,7 @@ antidinic
 antidiphtheria
 anapsida
 antidiphtheric
+azoxime
 antidiphtheritic
 acidify
 antidisciplinarian
@@ -25379,7 +25380,6 @@ azox
 azoxazole
 azoxybenzene
 antelegal
-azoxime
 azoxynaphthalene
 azoxine
 azoxytoluidine
