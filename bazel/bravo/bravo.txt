@@ -2740,6 +2740,7 @@ beadflush
 biordinal
 barnman
 barnstormer
+bifoliate
 barnstormers
 bombasine
 barnstorming
@@ -7238,7 +7239,6 @@ besra
 bessarabian
 beneficency
 brambliest
-bifoliate
 brightly
 bessel
 bessemer
