@@ -3409,7 +3409,6 @@ bargham
 basophilia
 bushel
 bottlesful
-basophilic
 basques
 bass
 bassa
@@ -5917,6 +5916,7 @@ banded
 barest
 bushers
 bellicosely
+basophilic
 bellicoseness
 bibliotherapies
 bellicosity
