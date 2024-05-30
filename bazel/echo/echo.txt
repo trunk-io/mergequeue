@@ -2502,7 +2502,6 @@ equiprobable
 electrolysation
 elephantlike
 enervators
-electrolysed
 emigating
 electrolysing
 eparcuale
@@ -3670,6 +3669,7 @@ extravert
 excogitates
 eyesalve
 engarment
+electrolysed
 emancipationist
 embryographic
 everse
