@@ -7484,7 +7484,6 @@ gorbellies
 garron
 gonadotrope
 graywall
-gatling
 gibblegabbler
 gymnast
 governless
@@ -10501,6 +10500,7 @@ gynecic
 gunated
 grudgeons
 gunboats
+gatling
 grecale
 gemitores
 gunbuilder
