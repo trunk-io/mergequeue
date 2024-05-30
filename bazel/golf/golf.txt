@@ -2413,6 +2413,7 @@ griffinish
 goodnesses
 galopin
 gelder
+guacico
 grisly
 gnabble
 geldesprung
@@ -9604,7 +9605,6 @@ growthless
 goosewinged
 genson
 grogger
-guacico
 grozart
 gingery
 grozer
