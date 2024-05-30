@@ -2743,7 +2743,6 @@ glasswork
 genetika
 gurgeon
 gathering
-genetoid
 ghettoize
 genetous
 grenadines
@@ -8700,6 +8699,7 @@ greenovite
 greensauce
 gr
 goldstone
+genetoid
 gentilism
 glyceryls
 grantee
