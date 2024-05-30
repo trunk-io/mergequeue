@@ -2166,7 +2166,6 @@ circumfusile
 camps
 capotes
 chaenactis
-campshed
 campsheeting
 campsite
 caver
@@ -26231,6 +26230,7 @@ conatural
 calorimeter
 cosmotellurian
 cupola
+campshed
 cosmotheist
 cosmotheistic
 cosmotron
