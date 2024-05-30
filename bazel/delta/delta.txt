@@ -9197,7 +9197,6 @@ dye
 dogship
 desoxycinchonine
 decalog
-digger
 diptych
 dyeability
 dyeable
@@ -17864,6 +17863,7 @@ dudleya
 developmentalist
 disentraced
 dudler
+digger
 diagnosis
 due
 duecentist
