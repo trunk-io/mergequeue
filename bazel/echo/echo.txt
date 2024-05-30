@@ -4011,7 +4011,6 @@ empanels
 emanant
 electroplated
 empanoply
-empaper
 emparchment
 epithamia
 emparl
@@ -13943,6 +13942,7 @@ entoire
 eugeosyncline
 extraparental
 extraparliamentary
+empaper
 enwound
 eyrar
 ebony
