@@ -5744,7 +5744,6 @@ depleteable
 depleted
 donkeyback
 daftlike
-depletion
 depletions
 desmothoraca
 depletive
@@ -6288,6 +6287,7 @@ derationalize
 dermatitises
 deerskin
 drupe
+depletion
 dermatoconiosis
 dermatodynia
 dermatogen
