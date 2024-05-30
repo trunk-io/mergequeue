@@ -2849,7 +2849,6 @@ borophenol
 barotrauma
 bulgurs
 bravest
-barotraumas
 bostons
 barotropic
 barouche
@@ -8899,6 +8898,7 @@ bindle
 binds
 brewer
 bindweed
+barotraumas
 bacillophobia
 bynedestin
 binervate
