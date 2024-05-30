@@ -3691,6 +3691,7 @@ adenomatome
 adenomycosis
 adenomyofibroma
 adenomyoma
+axerophthol
 adenomyxosarcoma
 adenoncus
 adenoneural
@@ -10634,7 +10635,6 @@ amylodyspepsia
 anthriscus
 amylogenic
 amylogens
-axerophthol
 archoptoma
 attend
 amylohydrolysis
