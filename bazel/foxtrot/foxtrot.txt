@@ -7134,7 +7134,6 @@ foothot
 fa
 frittata
 fedn
-flippantness
 fossate
 faraon
 features
@@ -11037,6 +11036,7 @@ fumeroot
 fumes
 fumet
 fumets
+flippantness
 follows
 flongs
 fumeuse
