@@ -11725,6 +11725,7 @@ cholesterinuria
 cholesterol
 clepsydrae
 cholesterolemia
+cass
 cholesteroluria
 cholesterosis
 choletelin
@@ -22204,7 +22205,6 @@ crocheters
 colpeurynter
 confrerie
 confricamenta
-cass
 confricamentum
 confrontal
 confrontation
