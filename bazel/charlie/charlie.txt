@@ -6611,6 +6611,7 @@ cedis
 cosheath
 chromule
 cedrat
+conglution
 cedrate
 cedrela
 cedrene
@@ -22334,7 +22335,6 @@ conglutin
 conglutinant
 conglutinate
 conglutinative
-conglution
 codlings
 commentatorially
 congoes
