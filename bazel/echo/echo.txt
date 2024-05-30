@@ -4036,6 +4036,7 @@ epilamellar
 electromotor
 ezan
 estrapade
+enarration
 extirpated
 empexa
 epicoelian
@@ -10190,7 +10191,6 @@ ebb
 etheostominae
 etheostomoid
 electrophoresed
-enarration
 ether
 esther
 examiner

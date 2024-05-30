@@ -4669,6 +4669,7 @@ frises
 flabs
 flaccid
 flachery
+flourlike
 flancard
 flated
 fumariaceae
@@ -6451,7 +6452,6 @@ flurt
 farriery
 flatboat
 fermerer
-flourlike
 fussify
 flushgate
 flushingly
