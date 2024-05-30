@@ -6355,6 +6355,7 @@ clearwater
 caution
 cautionary
 couve
+corpora
 cerebromedullary
 compurgatorial
 collocationable
@@ -25648,7 +25649,6 @@ chati
 cardsharper
 corp
 corpn
-corpora
 corporacy
 corporacies
 corporal
