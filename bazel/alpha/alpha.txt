@@ -6226,6 +6226,7 @@ aglyphodonta
 aglyphous
 alectoriae
 alcyones
+amygdalae
 adversaria
 aglitter
 aspartokinase
@@ -10584,7 +10585,6 @@ androgynous
 amygdal
 amygdala
 amygdalaceous
-amygdalae
 animated
 amygdalase
 antipascha
