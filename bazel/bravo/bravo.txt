@@ -2212,6 +2212,7 @@ baptizer
 blackmailed
 biplanar
 baptizers
+boomeranged
 baptizing
 bepuddle
 bar
@@ -12845,7 +12846,6 @@ boomboxes
 buttling
 barmy
 boomed
-boomeranged
 boozehound
 boomy
 boomiest
