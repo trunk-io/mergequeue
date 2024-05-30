@@ -1147,7 +1147,6 @@ epimerize
 edifice
 edificed
 edifices
-edified
 edifiers
 edifying
 edifyingly
@@ -4616,6 +4615,7 @@ enchesoun
 ecdyses
 eeriest
 enamoured
+edified
 ensigned
 eucryphiaceae
 engrid
