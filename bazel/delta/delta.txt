@@ -10585,7 +10585,6 @@ defs
 diploid
 diploidic
 diploidies
-disney
 doryman
 diploidize
 diploids
@@ -14431,6 +14430,7 @@ deckhouse
 degauss
 demonstrationists
 divi
+disney
 douter
 dividable
 duumvirate
