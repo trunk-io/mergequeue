@@ -3518,7 +3518,6 @@ defogs
 dorism
 defoil
 dawish
-dorsobranchiata
 defoliants
 defoliate
 defoliation
@@ -17958,6 +17957,7 @@ dugouts
 dugs
 dugway
 deaerator
+dorsobranchiata
 duhr
 dui
 duikerboks
