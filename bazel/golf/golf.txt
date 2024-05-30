@@ -1234,7 +1234,6 @@ gapingly
 gapless
 gaplessness
 gizzened
-gnathic
 gapped
 gynandrism
 gappy
@@ -2109,6 +2108,7 @@ gnomologic
 goodhearted
 glimmerings
 greiges
+gnathic
 gunstocking
 gavelock
 gavelocks
