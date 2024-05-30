@@ -2883,7 +2883,6 @@ barraged
 barrages
 brushland
 barraging
-bailer
 berried
 bowle
 barramunda
@@ -8985,6 +8984,7 @@ bioactivities
 bioassaying
 bioastronautical
 bioastronautics
+bailer
 bioavailability
 biobibliographer
 barleysick
