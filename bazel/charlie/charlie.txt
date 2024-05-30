@@ -8882,7 +8882,6 @@ collimators
 confoundingly
 chapourn
 chapournet
-chapournetted
 chappal
 chappaul
 chappy
@@ -22557,6 +22556,7 @@ conjugates
 conduplicated
 conjugationally
 conjugations
+chapournetted
 conjugative
 conjugator
 conjugators
