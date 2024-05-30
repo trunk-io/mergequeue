@@ -1562,7 +1562,6 @@ ballerina
 ballers
 ballet
 balletically
-balletomane
 balletomanes
 benzotrifuran
 biggins
@@ -3340,6 +3339,7 @@ basiscopic
 blepharitic
 basisidia
 balladwise
+balletomane
 bravoed
 blepharelcosis
 basisphenoidal
