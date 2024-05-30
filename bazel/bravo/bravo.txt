@@ -1,5 +1,4 @@
 baal
-baalath
 balantidiasis
 blepharosyndesmitis
 baalim
@@ -13093,6 +13092,7 @@ beryls
 borghi
 bori
 boric
+baalath
 borid
 blowzier
 boride
