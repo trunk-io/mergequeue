@@ -9217,7 +9217,6 @@ almon
 almonage
 activital
 almondy
-almondlike
 almonds
 almoner
 angina
@@ -11704,6 +11703,7 @@ anaphylactic
 anaeroplastic
 anaesthesiology
 anaesthesis
+almondlike
 anaesthetic
 appearanced
 anaesthetically
