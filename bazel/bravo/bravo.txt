@@ -4814,6 +4814,7 @@ bisulcate
 bedrail
 bogway
 bedrails
+binnacle
 bedral
 bedraped
 bedrapes
@@ -8935,7 +8936,6 @@ buffaloed
 bink
 binna
 bisacromial
-binnacle
 bowering
 binned
 binny
