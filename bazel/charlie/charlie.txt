@@ -18290,6 +18290,7 @@ cofferfish
 coffering
 cancerite
 chauldron
+compartimento
 coffers
 cofferwork
 coffin
@@ -21539,7 +21540,6 @@ concorporate
 culverts
 concorporated
 concorporating
-compartimento
 concorporation
 cataclasm
 concours
