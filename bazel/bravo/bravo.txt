@@ -2494,7 +2494,6 @@ bareknuckled
 bancal
 bedgery
 brow
-barelegged
 bellabella
 blustery
 barenecked
@@ -4184,6 +4183,7 @@ begrain
 beanweed
 beaproned
 bestiaries
+barelegged
 boondoggles
 behalves
 bearbaiter
