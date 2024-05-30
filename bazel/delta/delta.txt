@@ -4216,7 +4216,6 @@ deputise
 discomfited
 deliriousness
 delirium
-delirous
 delis
 doctrinization
 dishonourable
@@ -11122,6 +11121,7 @@ disattune
 disauthenticate
 disauthorize
 diplomacy
+delirous
 dysautonomia
 disavail
 daimonion
