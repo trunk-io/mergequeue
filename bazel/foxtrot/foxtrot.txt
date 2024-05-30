@@ -8340,7 +8340,6 @@ fragrancies
 forlane
 fassaite
 frumpily
-forleaving
 forleit
 futuristic
 forlese
@@ -10362,6 +10361,7 @@ frontals
 frontbencher
 frontcourt
 flying
+forleaving
 fortune
 feracities
 formats

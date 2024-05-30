@@ -3615,7 +3615,6 @@ caramelisation
 coillen
 caramelise
 caramelising
-caramelize
 caramelized
 clangoring
 caramelizing
@@ -22789,6 +22788,7 @@ conquistadors
 crusting
 conrad
 conrectorship
+caramelize
 conred
 conringia
 consacre
