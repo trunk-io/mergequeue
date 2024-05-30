@@ -7486,6 +7486,7 @@ ephemeran
 ephemerid
 ephemerida
 ephemeridae
+exogenously
 ephemeris
 ephemeromorphic
 ephemeroptera
@@ -12674,7 +12675,6 @@ egotism
 encratism
 exogenic
 exogenous
-exogenously
 exogyra
 exognathite
 expunges
