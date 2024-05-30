@@ -409,7 +409,6 @@ dairymaids
 dorsoanterior
 dichroic
 dairyman
-dairywoman
 dairywomen
 defensory
 dayroom
@@ -17298,6 +17297,7 @@ droller
 diademing
 drollery
 drolleries
+dairywoman
 darogah
 drollest
 dischase
