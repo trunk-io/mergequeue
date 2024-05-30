@@ -7915,7 +7915,6 @@ disklike
 dewed
 drank
 dewey
-deweylite
 dram
 dewflower
 dewier
@@ -10533,6 +10532,7 @@ dextrality
 dipleiodoscope
 dipleural
 docetically
+deweylite
 determinateness
 defected
 desugar
