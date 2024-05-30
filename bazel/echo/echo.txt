@@ -3099,6 +3099,7 @@ ellipticity
 extemporize
 elliptograph
 elliptoid
+emunct
 electrum
 extraparietal
 eke
@@ -7239,7 +7240,6 @@ extrudability
 eupnoeas
 eatableness
 eyalet
-emunct
 embayment
 enzootics
 ectogenetic
