@@ -6145,7 +6145,6 @@ educate
 enologist
 enols
 esquireship
-enterclose
 execs
 exodist
 enophthalmus
@@ -7352,6 +7351,7 @@ endocarpic
 epanorthotic
 epapophysis
 evaporated
+enterclose
 ethylamine
 evangeliser
 epilemmal
