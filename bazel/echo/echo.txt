@@ -6479,7 +6479,6 @@ ephelis
 executorship
 entablature
 evaluating
-exstruct
 excludable
 epipolism
 execration
@@ -8455,6 +8454,7 @@ epizoic
 epizoisms
 elasmotherium
 eudaemonia
+exstruct
 ensigncy
 essera
 emittent
