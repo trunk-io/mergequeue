@@ -5142,6 +5142,7 @@ glassen
 glassfish
 guitermanite
 gouvernante
+grange
 gularis
 garland
 geraniaceae
@@ -9461,7 +9462,6 @@ glossographical
 groundswells
 germaneness
 groundwall
-grange
 granularity
 glaciaria
 groundward
