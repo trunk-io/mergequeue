@@ -10935,7 +10935,6 @@ dirties
 disadvantageously
 disadvantageousness
 disadventure
-disadvise
 disadvising
 dysaesthesia
 dropvie
@@ -18615,6 +18614,7 @@ dutiable
 dutied
 duties
 denarii
+disadvise
 dipaschal
 dispirem
 dutifully
