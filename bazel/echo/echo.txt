@@ -1499,7 +1499,6 @@ effulge
 esthesiography
 effulgences
 effulgent
-endosmotic
 electroshocks
 effume
 embolium
@@ -12881,6 +12880,7 @@ expandedness
 excommunicating
 expanders
 educabilia
+endosmotic
 extorting
 expandible
 embalmer

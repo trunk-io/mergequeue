@@ -3563,7 +3563,6 @@ carabins
 caraboa
 cinques
 caraboid
-carabus
 caracara
 carack
 caracks
@@ -24415,6 +24414,7 @@ coolies
 cooliman
 cooling
 concaver
+carabus
 coolingly
 cora
 coolingness
