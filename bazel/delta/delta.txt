@@ -6089,6 +6089,7 @@ deputing
 dendrochronologist
 diaconicon
 digitalization
+defs
 dorps
 delicacy
 dilli
@@ -10584,7 +10585,6 @@ documented
 diplohedral
 diazoles
 defending
-defs
 diploid
 diploidic
 diploidies
