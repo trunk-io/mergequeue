@@ -680,7 +680,6 @@ abort
 aborted
 agricultures
 aborter
-aborters
 aborticide
 abortient
 anacardic
@@ -7249,6 +7248,7 @@ ascenders
 alabastrums
 aethrioscope
 albation
+aborters
 alacha
 alack
 alackaday
