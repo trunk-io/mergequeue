@@ -6155,7 +6155,6 @@ ebenaceae
 energetics
 eusynchite
 executable
-enoplan
 enorm
 exhortator
 etaballi
@@ -12348,6 +12347,7 @@ exercent
 extradialectal
 exercise
 enculturated
+enoplan
 elaborative
 exercising
 endotracheitis
