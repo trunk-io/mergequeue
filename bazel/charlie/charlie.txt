@@ -18548,6 +18548,7 @@ coyest
 coif
 coifed
 coiffe
+connumeration
 coiffed
 caustics
 clavers
@@ -27717,7 +27718,6 @@ cowlstaff
 caramoussal
 cuppy
 cowman
-connumeration
 coworkers
 chivage
 couhage
