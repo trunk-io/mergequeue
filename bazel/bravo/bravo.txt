@@ -13932,7 +13932,6 @@ boxy
 boxing
 boxmaker
 bicycloheptane
-boxman
 boxroom
 backstage
 bedlamic
@@ -17198,6 +17197,7 @@ bloodripe
 bullnose
 bullnoses
 bullnut
+boxman
 bullock
 bullocker
 blastulae
