@@ -10387,7 +10387,6 @@ graminivore
 garbanzos
 granulomas
 gnathobasic
-gutta
 gyrenes
 gullies
 girandola
@@ -10768,6 +10767,7 @@ gutlike
 gynaecomorphous
 glossospasm
 glamourie
+gutta
 glycyl
 gutt
 guttae
