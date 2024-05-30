@@ -6344,7 +6344,6 @@ dermatorrhea
 dermatosclerosis
 dermatoses
 dermatosiophobia
-degausses
 decrete
 dermatotherapy
 depurated
@@ -17276,6 +17275,7 @@ dentinasal
 droger
 dictyogenous
 drogerman
+degausses
 dispiece
 drogh
 disaster
