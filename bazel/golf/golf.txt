@@ -4501,7 +4501,6 @@ gynic
 goasila
 gink
 geometdecrne
-gloss
 grides
 graplines
 ghoulishness
@@ -9716,6 +9715,7 @@ grumness
 gambir
 gooder
 gentling
+gloss
 glossator
 gryphon
 gordiidae
