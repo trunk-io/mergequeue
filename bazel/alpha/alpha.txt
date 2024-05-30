@@ -20528,7 +20528,6 @@ arteriocapillary
 arteriogenesis
 arteriograph
 adenectopia
-arteriographic
 alacreatine
 arteriolith
 arterioloscleroses
@@ -22293,6 +22292,7 @@ aplanat
 atmologist
 astrocompass
 astrodiagnosis
+arteriographic
 astrodynamic
 androphyll
 achromatolysis
