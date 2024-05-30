@@ -8497,7 +8497,6 @@ demioctagonal
 diametral
 diametric
 diametrical
-diamicton
 diamide
 diamides
 descanter
@@ -17331,6 +17330,7 @@ dep
 drona
 dronage
 douglas
+diamicton
 drone
 discovenant
 diestrual
