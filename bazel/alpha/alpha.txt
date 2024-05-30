@@ -10735,7 +10735,6 @@ angulometer
 arachne
 aminopolypeptidase
 aphronitre
-aminopurine
 aminoquin
 aminosis
 aminosuccinamic
@@ -20249,6 +20248,7 @@ arranger
 arrangers
 arranges
 arranging
+aminopurine
 arrantness
 alyssum
 arrasene
