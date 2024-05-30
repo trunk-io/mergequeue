@@ -1797,7 +1797,6 @@ dodecahedron
 duad
 duyker
 doggoned
-daggerlike
 damyankee
 debasingly
 debate
@@ -14670,6 +14669,7 @@ devotees
 dmod
 doand
 doarium
+daggerlike
 dendroceratine
 dimensionality
 diphylleia
