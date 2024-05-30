@@ -2865,7 +2865,6 @@ cantata
 chrysoidine
 cantatas
 cantate
-cantation
 cantatory
 cantatrice
 chestily
@@ -14208,6 +14207,7 @@ crocodile
 circaetus
 coriandrol
 cleruchial
+cantation
 circassic
 capivi
 corpuscle
