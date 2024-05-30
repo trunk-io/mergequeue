@@ -6755,7 +6755,6 @@ clearway
 celiomyositis
 celioparacentesis
 cerinthian
-celiopyosis
 celiorrhea
 capless
 celioscope
@@ -7640,6 +7639,7 @@ cirrhosed
 cerebromalacia
 cerebromeningeal
 cerebromeningitis
+celiopyosis
 cerebrometer
 cassumuniar
 cerebron
