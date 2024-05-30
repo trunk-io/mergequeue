@@ -7184,7 +7184,6 @@ bespeckle
 bespeckled
 blindman
 bespectacled
-bogie
 besped
 beaugregories
 becalmed
@@ -8406,6 +8405,7 @@ bigate
 bigbloom
 bigbury
 bigemina
+bogie
 berberian
 beguard
 bigeminate
