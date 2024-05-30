@@ -7508,7 +7508,6 @@ ceratoduses
 coistrils
 ceratoglossal
 cardiaplegia
-cestraciont
 ceratohyal
 ceratohyoid
 ceratoid
@@ -18481,6 +18480,7 @@ cursor
 coheiress
 coheirs
 coheirship
+cestraciont
 cohelper
 cohelpership
 cohen
