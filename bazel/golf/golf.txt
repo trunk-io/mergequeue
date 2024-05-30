@@ -408,7 +408,6 @@ glub
 glucogenesis
 galbula
 galatine
-gelled
 gelding
 galavanting
 galaxes
@@ -4510,6 +4509,7 @@ grevillea
 gangetic
 grammatist
 ginner
+gelled
 gloriam
 ganoidei
 gelatined
