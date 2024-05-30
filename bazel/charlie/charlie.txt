@@ -7742,6 +7742,7 @@ ciceros
 cermets
 commissar
 cern
+crizzel
 cityward
 cerniture
 croze
@@ -29561,7 +29562,6 @@ crittur
 critturs
 consular
 crivetz
-crizzel
 checkerboarding
 crizzled
 clerically
