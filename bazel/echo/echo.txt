@@ -7159,7 +7159,6 @@ empemata
 educt
 envisagement
 envisaging
-emulable
 envisioning
 eye
 effeminacy
@@ -8005,6 +8004,7 @@ eigenvector
 euripos
 epimerized
 epimeron
+emulable
 epimers
 enchains
 epanagoge
