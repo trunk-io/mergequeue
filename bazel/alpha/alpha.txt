@@ -20017,6 +20017,7 @@ armlike
 armload
 armloads
 armlock
+anagrammatization
 armoire
 armoires
 armoniac
@@ -25333,7 +25334,6 @@ alp
 azophenyl
 azophenine
 azoprotein
-anagrammatization
 azores
 amphodiplopia
 azorite
