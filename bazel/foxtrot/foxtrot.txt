@@ -2749,6 +2749,7 @@ fixes
 fightings
 fungate
 fescues
+fallfishes
 forelimbs
 folklore
 fesse
@@ -11196,7 +11197,6 @@ firespout
 feldspathization
 fungistat
 foraminous
-fallfishes
 floggings
 frenzelite
 federacies
