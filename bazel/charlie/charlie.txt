@@ -8226,7 +8226,6 @@ chair
 calliophone
 chairborne
 copartners
-choriomas
 chairing
 chairlady
 chairladies
@@ -28209,6 +28208,7 @@ cranker
 cullis
 crankily
 crankiness
+choriomas
 cranking
 crankism
 crankle
