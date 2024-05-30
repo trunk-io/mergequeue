@@ -4219,7 +4219,6 @@ embossers
 emprint
 emprises
 entomotaxy
-emprison
 emprize
 emulgent
 emprosthotonic
@@ -12671,6 +12670,7 @@ exogen
 exogenae
 ekaha
 elegiambus
+emprison
 excommunicable
 egotism
 encratism
