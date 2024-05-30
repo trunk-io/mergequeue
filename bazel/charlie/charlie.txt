@@ -4513,7 +4513,6 @@ carnaria
 carnassial
 carnate
 cordialize
-carnation
 carnationed
 carnationist
 carnations
@@ -17556,6 +17555,7 @@ cocaigne
 coempt
 cocaine
 cocaines
+carnation
 cocainisation
 cocainised
 cocainising
