@@ -2359,6 +2359,7 @@ blameably
 baobab
 bears
 barbican
+becap
 bridgemaker
 bistournage
 berake
@@ -4424,7 +4425,6 @@ becalm
 becalming
 beakiest
 braquemard
-becap
 blacklead
 becaps
 balanite

@@ -459,7 +459,6 @@ earsore
 expandability
 ecclesia
 ecclesiarch
-ecclesiarchy
 extoll
 ecclesiast
 expostulated
@@ -4322,6 +4321,7 @@ enactments
 enactors
 embryocardia
 edgeweed
+ecclesiarchy
 enacture
 enaliornis
 enaliosaurian
