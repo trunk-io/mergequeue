@@ -4450,6 +4450,7 @@ becchi
 bpi
 bechalking
 browse
+botan
 bechalks
 bellowers
 beerbibber
@@ -9006,7 +9007,6 @@ bandoras
 baisakh
 biocycle
 biocycles
-botan
 boorish
 biocidal
 biocide
