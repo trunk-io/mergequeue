@@ -3947,6 +3947,7 @@ biocoenosis
 bawn
 bidding
 benzines
+bypast
 bawneen
 bawra
 bestial
@@ -12562,7 +12563,6 @@ bonfires
 bowedness
 bongoes
 bongoist
-bypast
 borrows
 bannimus
 beaus
