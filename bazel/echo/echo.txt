@@ -1762,7 +1762,6 @@ eyeish
 exonerated
 eyelash
 eliding
-eyelessness
 eyelet
 eyeleted
 eyeletting
@@ -12799,6 +12798,7 @@ exosmose
 exosmoses
 exosmosis
 exosmotic
+eyelessness
 ecchymoses
 expatiater
 excrementitial
