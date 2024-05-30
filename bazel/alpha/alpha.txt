@@ -6416,6 +6416,7 @@ arthropathology
 agrege
 agreges
 agremens
+aromatical
 agrement
 adviceful
 agrestial
@@ -20134,7 +20135,6 @@ auspices
 aculeate
 aromas
 aromatic
-aromatical
 abomasusi
 aromatically
 aromaticity
