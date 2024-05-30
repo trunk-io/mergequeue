@@ -168,7 +168,6 @@ baccaceous
 bracteolate
 baccalaureate
 baccalaureates
-baccalaureus
 baccara
 baroques
 bdrm
@@ -17053,6 +17052,7 @@ bulkheading
 bulky
 bubastite
 bulkier
+baccalaureus
 bulkiest
 bulkily
 biophysical
