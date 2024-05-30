@@ -826,7 +826,6 @@ disannex
 dangles
 dopesters
 dalaga
-diminuendos
 danglin
 dangling
 droschken
@@ -11863,6 +11862,7 @@ discursory
 discursus
 discurtain
 discusses
+diminuendos
 diachaenium
 discussion
 drumfires
