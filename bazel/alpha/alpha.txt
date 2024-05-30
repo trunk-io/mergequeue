@@ -6830,6 +6830,7 @@ aircraftman
 atenist
 axometer
 aircraftmen
+armied
 antidynasty
 ausu
 aircraftsman
@@ -19961,7 +19962,6 @@ adeptest
 army
 acquereur
 armida
-armied
 armies
 alderfly
 acetocinnamene
