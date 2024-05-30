@@ -6646,7 +6646,6 @@ connexivum
 ceiling
 custard
 ceilings
-ceilingward
 ceilingwards
 collenchyma
 couche
@@ -9445,6 +9444,7 @@ chavibetol
 chavicin
 chomp
 chavicine
+ceilingward
 chavicol
 cowedly
 chaw
