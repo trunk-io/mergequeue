@@ -9055,6 +9055,7 @@ essex
 endogamies
 eriocaulaceae
 eriocomi
+exocyclic
 eriodendron
 extraspherical
 erionite
@@ -9125,7 +9126,6 @@ erythroblastosis
 evaginating
 evocable
 emlen
-exocyclic
 extrasystole
 exporters
 eagless
