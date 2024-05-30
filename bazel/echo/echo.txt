@@ -1335,6 +1335,7 @@ efface
 effaceable
 effaced
 effacement
+endocline
 effacers
 effare
 effate
@@ -8796,7 +8797,6 @@ equivokes
 equivoluminal
 engrain
 explainers
-endocline
 effluviable
 equivoque
 equoidean
