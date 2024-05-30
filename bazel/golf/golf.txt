@@ -788,7 +788,6 @@ galvanomagnetism
 gombeen
 galvanometers
 galvanometric
-geometries
 goumi
 gregg
 genae
@@ -7616,6 +7615,7 @@ geobotanically
 gnathometer
 gleary
 grader
+geometries
 gradgrind
 gud
 gradient
