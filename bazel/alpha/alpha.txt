@@ -1143,7 +1143,6 @@ abutter
 abutters
 abuzz
 anodendron
-abwab
 ac
 acacatechin
 acacatechol
@@ -20974,6 +20973,7 @@ ascarids
 ascaron
 ascelli
 ascellus
+abwab
 ascend
 ascendable
 antirust
