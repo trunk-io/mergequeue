@@ -1870,7 +1870,6 @@ bignesses
 bandboxes
 bandboxy
 broilery
-battlepiece
 bollito
 barricos
 besotter
@@ -14538,6 +14537,7 @@ branles
 branner
 blench
 biogeographers
+battlepiece
 brotherlike
 blackneb
 branny
