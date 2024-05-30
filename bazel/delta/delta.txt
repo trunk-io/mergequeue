@@ -14765,7 +14765,6 @@ dockhouse
 dockyard
 daktylon
 deringers
-dockyards
 docking
 dukkha
 dockization
@@ -17529,6 +17528,7 @@ drudges
 duplexes
 drudgingly
 dys
+dockyards
 drudgism
 dispope
 druffen
