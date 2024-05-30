@@ -5505,7 +5505,6 @@ geared
 glyoxalic
 griffith
 galliwasp
-guniter
 glyphic
 guran
 gastraeadae
@@ -8954,6 +8953,7 @@ grill
 geog
 grilladed
 gnathophorous
+guniter
 gravenstein
 guiles
 geometer
