@@ -1070,7 +1070,6 @@ dewbeam
 disbanding
 dartagnan
 dentals
-dartars
 darted
 darters
 dartingly
@@ -2651,6 +2650,7 @@ discontinues
 didascaly
 decolonize
 decolonizes
+dartars
 desalter
 decoloring
 darkening
