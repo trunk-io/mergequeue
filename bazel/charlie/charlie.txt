@@ -9928,7 +9928,6 @@ cycle
 chemoprophylactic
 chemoprophylaxis
 cruiser
-condensative
 chemoreception
 chemoreceptive
 chemoreceptivity
@@ -28415,6 +28414,7 @@ cuisses
 conies
 crazyweed
 circuitous
+condensative
 crc
 crcao
 crche
