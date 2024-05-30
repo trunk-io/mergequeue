@@ -5071,6 +5071,7 @@ cascadable
 cascade
 coupes
 crotaline
+cervelliere
 cascaded
 cascadia
 clupeine
@@ -7855,7 +7856,6 @@ cruor
 cervelases
 cervelats
 cerveliere
-cervelliere
 coronatorial
 cervicapra
 cervicaprine
