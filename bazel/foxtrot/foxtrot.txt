@@ -4949,7 +4949,6 @@ flankers
 flaneur
 flanking
 flanks
-foremartyr
 filthified
 frowsier
 faineantise
@@ -6187,6 +6186,7 @@ fourb
 fluegelhorn
 fluey
 flueless
+foremartyr
 forefence
 firer
 fluellite
