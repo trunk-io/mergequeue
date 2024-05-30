@@ -35,7 +35,6 @@ ear
 endosporia
 earache
 enumerated
-epidemiological
 emigrational
 equiangularity
 earbash
@@ -2930,6 +2929,7 @@ extemporise
 euphonize
 elfland
 ergotized
+epidemiological
 elflike
 elflock
 entelodon
