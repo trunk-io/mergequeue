@@ -253,6 +253,7 @@ flamethrower
 firm
 fertilizations
 floorwalker
+fluviation
 faddist
 faddists
 founder
@@ -5754,7 +5755,6 @@ featherback
 fellowess
 flittered
 flittermice
-fluviation
 flittermmice
 footrill
 flittermouse
