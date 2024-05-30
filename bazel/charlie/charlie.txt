@@ -9523,6 +9523,7 @@ chebecs
 chebel
 chebog
 chebulic
+coopts
 chechako
 chechakos
 chechem
@@ -24486,7 +24487,6 @@ cooptation
 coopted
 coopting
 cooptions
-coopts
 coordinal
 coordinated
 cozinesses
