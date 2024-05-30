@@ -5555,7 +5555,6 @@ deoxidizing
 destining
 deoxygenated
 depaints
-dilatation
 deoxygenation
 deoxygenized
 dilutent
@@ -6757,6 +6756,7 @@ dyestuff
 desiliconization
 dribbed
 disuniters
+dilatation
 decollating
 delate
 desilt
