@@ -2289,7 +2289,6 @@ barbarise
 barbarised
 barbarising
 barbarism
-backhanded
 barbarisms
 bronstrops
 barbarity
@@ -15879,6 +15878,7 @@ bromobenzene
 balsameaceae
 bagmen
 bromodeoxyuridine
+backhanded
 bewearied
 brazilianite
 bromoil
