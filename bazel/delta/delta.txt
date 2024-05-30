@@ -4255,7 +4255,6 @@ delocalization
 delocalize
 despiritualize
 delocalizing
-delomorphous
 decrement
 deloo
 deloul
@@ -12671,6 +12670,7 @@ dislikeness
 disliker
 dislikers
 dolabriform
+delomorphous
 disliking
 doubleness
 daut
