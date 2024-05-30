@@ -3817,7 +3817,6 @@ eggshells
 emigre
 emended
 epinikian
-emending
 emer
 edility
 emerald
@@ -10032,6 +10031,7 @@ epigrammatism
 ensuer
 eurhythmy
 estrado
+emending
 estragole
 entity
 estragons
