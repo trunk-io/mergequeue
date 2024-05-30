@@ -1452,7 +1452,6 @@ accessless
 arvicolinae
 achenodia
 alg
-anakinetic
 atka
 accessorily
 accessorius
@@ -24525,6 +24524,7 @@ auxochromism
 auxochromous
 acumens
 auxograph
+anakinetic
 auxology
 auxospore
 aniba
