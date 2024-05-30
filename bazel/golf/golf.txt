@@ -5631,7 +5631,6 @@ gallery
 globiocephalus
 globose
 globosite
-granuloblast
 ghostmonger
 gallanilide
 garse
@@ -10165,6 +10164,7 @@ gloried
 guyandot
 guidable
 guardianly
+granuloblast
 git
 grown
 glaived
