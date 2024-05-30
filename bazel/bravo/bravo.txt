@@ -12290,7 +12290,6 @@ boltcutter
 botanizer
 bookmark
 buckstay
-bolters
 behold
 boltheading
 bolthole
@@ -18393,6 +18392,7 @@ buzzies
 buzziest
 buzzing
 bibcocks
+bolters
 buzzingly
 buzzle
 beardfish
