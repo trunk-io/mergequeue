@@ -4144,6 +4144,7 @@ admit
 allowanced
 admits
 admittable
+artillerymen
 antedate
 admittance
 admittatur
@@ -20769,7 +20770,6 @@ artilleries
 avodire
 artilleryman
 atresic
-artillerymen
 aurochloride
 artilleryship
 aciculums
