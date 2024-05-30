@@ -2274,6 +2274,7 @@ avicularia
 ayes
 achromobacter
 achromobacterieae
+agathodemon
 achromoderma
 achromotrichia
 amygdalolith
@@ -5715,7 +5716,6 @@ afterwise
 afterwit
 afterword
 afterwork
-agathodemon
 aint
 afterworld
 apodeixis
