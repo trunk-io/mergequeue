@@ -6668,6 +6668,7 @@ aidmen
 adjunctive
 aids
 afterripening
+arbalestre
 aiel
 anoraks
 aeromechanical
@@ -13629,7 +13630,6 @@ atwain
 amniac
 announce
 announced
-arbalestre
 astrophyllite
 announcing
 appaloosa
