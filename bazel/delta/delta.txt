@@ -3537,7 +3537,6 @@ deforests
 deform
 diasters
 doughmaker
-deformability
 droughermen
 disknow
 distomum
@@ -11913,6 +11912,7 @@ diseases
 disecondary
 diseconomy
 dolerites
+deformability
 dositheans
 dystocias
 dampener
