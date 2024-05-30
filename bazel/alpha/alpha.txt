@@ -3696,7 +3696,6 @@ adenomatome
 adenomycosis
 adenomyofibroma
 adenomyoma
-agapornis
 adenomyxosarcoma
 adenoncus
 adenoneural
@@ -17916,6 +17915,7 @@ appointee
 antistatic
 appointees
 appointer
+agapornis
 alalite
 adherently
 appointers
