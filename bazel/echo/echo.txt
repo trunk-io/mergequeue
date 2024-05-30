@@ -4787,6 +4787,7 @@ encomy
 electromer
 enduro
 epidosite
+encroachment
 eccoproticophoric
 encomiastic
 entheasm
@@ -8859,7 +8860,6 @@ ethoxy
 ethnobotanist
 eyewort
 extent
-encroachment
 erd
 estivate
 eyehook
