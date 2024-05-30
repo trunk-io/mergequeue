@@ -1262,7 +1262,6 @@ dusted
 datives
 dato
 deplane
-declinate
 dermoptera
 datolitic
 datos
@@ -14421,6 +14420,7 @@ dextrogyrous
 divertissements
 dollin
 divertive
+declinate
 didrachmal
 diverts
 doorkeep
