@@ -15519,7 +15519,6 @@ bristleless
 bristlelike
 brigander
 bristles
-bristlewort
 backpacks
 boubous
 babyhoods
@@ -16593,6 +16592,7 @@ bucculae
 belvidere
 bucculatrix
 bulanda
+bristlewort
 bucentur
 beseemingness
 bobsledder
