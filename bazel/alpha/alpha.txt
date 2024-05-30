@@ -9881,7 +9881,6 @@ aforeward
 angioglioma
 amaranthus
 amarantine
-amarantus
 amarelle
 amarevole
 amargosa
@@ -14852,6 +14851,7 @@ anticatalase
 armorially
 archcharlatan
 anticatalyst
+amarantus
 anticatalytic
 anticatalytically
 accessorial
