@@ -13627,7 +13627,6 @@ appaloosa
 annualize
 archeol
 annualized
-annually
 apair
 annuals
 annuary
@@ -14716,6 +14715,7 @@ attaching
 antiaquatic
 anaspidacea
 antiar
+annually
 antiarchi
 antiarin
 antilogarithm
