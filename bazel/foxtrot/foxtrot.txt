@@ -2755,7 +2755,6 @@ fesse
 fictionize
 frankfold
 fessed
-foldouts
 foresentence
 fragmentarily
 fellinic
@@ -3853,6 +3852,7 @@ frockmaker
 firmnesses
 farleu
 fimbrillate
+foldouts
 fany
 fig
 forfit
