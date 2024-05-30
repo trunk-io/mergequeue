@@ -2144,6 +2144,7 @@ gigging
 gawk
 grubs
 ginglmi
+glyster
 gnomist
 gelndesprung
 gradations
@@ -6632,7 +6633,6 @@ goloshes
 glucosin
 golundauze
 glycogenosis
-glyster
 gamopetalous
 gastratrophia
 grays
