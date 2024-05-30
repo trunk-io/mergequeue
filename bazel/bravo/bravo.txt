@@ -5613,7 +5613,6 @@ bribeable
 burled
 beja
 bejade
-bejan
 bejant
 bitewings
 bloodwit
@@ -15217,6 +15216,7 @@ brachypyramid
 bridgehead
 bridgeless
 bridgemaking
+bejan
 bridgemaster
 bionic
 bridgeport
