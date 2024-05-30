@@ -1141,6 +1141,7 @@ exfigure
 edificator
 earock
 edificatory
+epimerize
 edifice
 edificed
 edifices
@@ -9756,7 +9757,6 @@ euryon
 espinal
 espinel
 electrogalvanic
-epimerize
 execrates
 ensearcher
 espingole
