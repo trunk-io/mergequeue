@@ -9776,7 +9776,6 @@ espino
 erythroplastid
 enfoil
 evilsayer
-epistyles
 esplanade
 espousers
 espontoon
@@ -10605,6 +10604,7 @@ effrenate
 eucalyptic
 englyn
 eucalypts
+epistyles
 eucalyptus
 eucarida
 everymen
