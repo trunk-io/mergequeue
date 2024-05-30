@@ -15825,7 +15825,6 @@ chemics
 cytologies
 clavicythetheria
 clavicittern
-contraction
 clavicle
 clavicles
 clavicorn
@@ -24287,6 +24286,7 @@ convolvulaceae
 convolvulaceous
 convolvulad
 courser
+contraction
 convolvuli
 convolvulic
 convolvulin
