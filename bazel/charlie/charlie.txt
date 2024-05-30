@@ -7716,7 +7716,6 @@ cerias
 chervils
 cerillo
 ceriman
-cerimans
 cerine
 carbonadoes
 cerynean
@@ -21164,6 +21163,7 @@ concatenate
 concatenated
 concatenates
 coequating
+cerimans
 concatenations
 concatenator
 concatervate
