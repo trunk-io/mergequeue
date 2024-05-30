@@ -638,7 +638,6 @@ blinds
 bacteriologists
 bacteriopathology
 burnoose
-bacteriophages
 bacteriophagy
 banquo
 balneal
@@ -12142,6 +12141,7 @@ ballyhooed
 bostrychoid
 boldfaced
 bestowal
+bacteriophages
 boldfacedly
 boldfacedness
 banshees

@@ -3718,7 +3718,6 @@ chlorpikrin
 cheerios
 carbazine
 crimpled
-carbazole
 carbeen
 carbene
 cantorian
@@ -21666,6 +21665,7 @@ condensers
 condenses
 condensible
 condensing
+carbazole
 condensity
 condescend
 condescended
