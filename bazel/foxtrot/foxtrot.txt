@@ -3153,7 +3153,6 @@ firewarden
 farfet
 flichters
 finca
-ferrochromium
 flip
 fibroins
 fistulariidae
@@ -6456,6 +6455,7 @@ forficated
 flurt
 farriery
 flatboat
+ferrochromium
 fermerer
 flourlike
 fussify
