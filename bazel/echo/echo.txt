@@ -9083,6 +9083,7 @@ ewound
 erythea
 erythema
 erythemal
+ensmall
 erythemas
 erythematous
 enamellist
@@ -10506,7 +10507,6 @@ etatisme
 etymologic
 ensaint
 etymologies
-ensmall
 etymologists
 etymologizable
 emerited

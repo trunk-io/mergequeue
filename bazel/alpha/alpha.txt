@@ -8142,7 +8142,6 @@ adradial
 algazel
 aquatical
 algebraical
-algebraically
 algebraist
 algebraize
 anodization
@@ -20956,6 +20955,7 @@ ascape
 ascared
 aphasias
 ascariasis
+algebraically
 ascaricidal
 aerodynamicist
 assuefaction
