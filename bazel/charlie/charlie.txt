@@ -3804,6 +3804,7 @@ coinsure
 cincha
 carbonemia
 coccolith
+cloacitis
 cavilled
 carbonic
 carbonide
@@ -16485,7 +16486,6 @@ castellanus
 ceriferous
 cloacinal
 cloacinean
-cloacitis
 crispature
 chervil
 cloakage
