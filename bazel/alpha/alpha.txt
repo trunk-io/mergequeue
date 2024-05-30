@@ -1863,7 +1863,6 @@ acerae
 acerate
 acerated
 acerathere
-aceratherium
 acerbate
 acerbated
 acerbates
@@ -10341,6 +10340,7 @@ amene
 aeroides
 agaricic
 amenism
+aceratherium
 amenite
 amenities
 amenorrheal
