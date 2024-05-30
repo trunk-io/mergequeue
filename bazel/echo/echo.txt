@@ -885,7 +885,6 @@ embound
 emraud
 eddic
 entourages
-epistolizer
 epepophysis
 electrocution
 encomiastical
@@ -1802,6 +1801,7 @@ exolve
 enticingness
 echinulation
 etherialise
+epistolizer
 euglenales
 extima
 evitation
