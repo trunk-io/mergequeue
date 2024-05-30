@@ -4368,7 +4368,6 @@ fub
 fondlings
 fishman
 folic
-fishmonger
 floorward
 fraternizer
 ferociousness
@@ -9732,6 +9731,7 @@ fallacies
 fishgrass
 fluidal
 freyja
+fishmonger
 freijo
 forehandsel
 factorship
