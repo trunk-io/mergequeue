@@ -5857,6 +5857,7 @@ glosts
 glottal
 gloomy
 grapsoid
+gonidangium
 ghole
 gattine
 galera
@@ -6711,7 +6712,6 @@ gondoliers
 goneness
 gonenesses
 gladsome
-gonidangium
 gonepoiesis
 giglet
 grandioso
