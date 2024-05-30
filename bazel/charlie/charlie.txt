@@ -7960,7 +7960,6 @@ cozing
 cestus
 cesural
 cetaceans
-cetaceum
 calpolli
 collieshangie
 cetane
@@ -10185,6 +10184,7 @@ chevaliers
 circumambulating
 cantonese
 compagnie
+cetaceum
 cheveys
 chevelure
 chevener
