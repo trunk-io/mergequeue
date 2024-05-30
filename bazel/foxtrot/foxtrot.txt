@@ -7814,7 +7814,6 @@ furor
 foredesk
 foreparts
 forepass
-feedstuffs
 foliously
 forepaws
 fireroom
@@ -7930,6 +7929,7 @@ fittage
 foreshortened
 feedings
 foreshot
+feedstuffs
 foreshow
 foreshower
 fistulous
