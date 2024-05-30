@@ -4159,7 +4159,6 @@ corrector
 cardiotrophotherapy
 cardiovascular
 cardiovisceral
-cardipericarditis
 cardisophistical
 carditic
 cinchomeronic
@@ -4259,6 +4258,7 @@ coagulatory
 carets
 caretta
 careworn
+cardipericarditis
 carex
 cottages
 carfare
