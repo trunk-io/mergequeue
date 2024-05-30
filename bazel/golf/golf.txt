@@ -2348,7 +2348,6 @@ geniality
 geishas
 geissoloma
 geissolomataceae
-geissolomataceous
 gauily
 geissospermine
 grundyite
@@ -8219,6 +8218,7 @@ grappler
 grapples
 gawks
 gallah
+geissolomataceous
 genonema
 goaltenders
 gonidium
