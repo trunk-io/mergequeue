@@ -4143,6 +4143,7 @@ cardiopneumograph
 cardioptosis
 cardiopulmonary
 cardiorenal
+coemptor
 cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
@@ -18058,7 +18059,6 @@ coemption
 clitoridectomy
 cyclammonium
 chaffingly
-coemptor
 caitifty
 concaptive
 coenacle
