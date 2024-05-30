@@ -4283,7 +4283,6 @@ fluavil
 fourchet
 fibber
 frequence
-firstlings
 flavius
 flopwing
 frankable
@@ -6496,6 +6495,7 @@ flutey
 flutemouth
 foggers
 fluter
+firstlings
 forspread
 fougade
 foolisher
