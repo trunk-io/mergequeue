@@ -4622,7 +4622,6 @@ ensigned
 eucryphiaceae
 engrid
 erethizontidae
-endocranium
 enchiladas
 equinities
 extolment
@@ -11348,6 +11347,7 @@ enrank
 evaporimeter
 evaporitic
 evapotranspiration
+endocranium
 evasions
 ergatoid
 encephalomeric
