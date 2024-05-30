@@ -17682,7 +17682,6 @@ cerulescent
 cochleiform
 cochleitis
 cochleleae
-cochleleas
 cochleous
 cochlidiid
 cloddiness
@@ -29211,6 +29210,7 @@ crippledom
 crippleness
 coerects
 crippler
+cochleleas
 cripples
 creaser
 capillarity
