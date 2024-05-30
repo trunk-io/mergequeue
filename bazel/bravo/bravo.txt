@@ -356,7 +356,6 @@ backgame
 bepuzzle
 beamlet
 backgammon
-barbarical
 background
 backhand
 backhandedly
@@ -16959,6 +16958,7 @@ bitterwort
 betimes
 builds
 bezette
+barbarical
 begirded
 bombycinous
 bondelswarts
