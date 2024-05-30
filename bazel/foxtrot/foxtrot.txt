@@ -660,7 +660,6 @@ foetalism
 formulates
 famelic
 fames
-fameworthy
 forereport
 fusser
 fowling
@@ -3334,6 +3333,7 @@ fidejussor
 fortunous
 fidelio
 forchase
+fameworthy
 fruggan
 facilitator
 fidelity
