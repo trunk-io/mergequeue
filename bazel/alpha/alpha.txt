@@ -21341,6 +21341,7 @@ allophone
 askable
 ambisporangiate
 askant
+allegros
 askapart
 antonymous
 askari
@@ -24782,7 +24783,6 @@ avions
 adieux
 avirulence
 algolagny
-allegros
 agromyza
 avirulent
 avis
