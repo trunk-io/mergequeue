@@ -2309,7 +2309,6 @@ acider
 acidhead
 acidheads
 acidy
-acidiferous
 argil
 adderfish
 acidific
@@ -11034,6 +11033,7 @@ amortising
 amortissement
 amortizable
 amortization
+acidiferous
 arbitrarily
 amortized
 amortizes
