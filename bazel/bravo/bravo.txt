@@ -13988,7 +13988,6 @@ bracery
 bioactivity
 belialist
 braceros
-baryta
 bracers
 backtrick
 brach
@@ -17796,6 +17795,7 @@ burnup
 burnweed
 biobibliography
 burnwood
+baryta
 browsage
 burped
 butomus
