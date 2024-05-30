@@ -3827,7 +3827,6 @@ firstfruits
 formin
 fatbirds
 faintheart
-flankwise
 fract
 fimbria
 florigenic
@@ -6832,6 +6831,7 @@ floridities
 felicitation
 folioed
 foreporch
+flankwise
 foliolate
 fulhams
 folios
