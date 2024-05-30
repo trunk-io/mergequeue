@@ -8621,7 +8621,6 @@ enworthy
 ergatomorph
 equid
 equidiagonal
-equidifferent
 equidimensional
 equidist
 equidistance
@@ -10719,6 +10718,7 @@ electrojet
 eudemonics
 equivalencies
 epibatus
+equidifferent
 eudeve
 excamber
 eudiometry
