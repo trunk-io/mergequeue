@@ -7570,7 +7570,6 @@ epicanthus
 epicardia
 enzymologist
 epicardium
-epicarid
 eyebrow
 epicarides
 employs
@@ -9551,6 +9550,7 @@ eschrufe
 edentulous
 escoba
 escobilla
+epicarid
 empetrous
 escopeta
 euphemistical
