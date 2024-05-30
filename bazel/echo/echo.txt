@@ -13119,7 +13119,6 @@ eucleidae
 emicate
 excubitorium
 evenglow
-expansions
 enregistration
 entailment
 extramarginal
@@ -14079,6 +14078,7 @@ extremism
 extremists
 extraterritorials
 extremities
+expansions
 egressive
 electrodynamical
 epimerised
