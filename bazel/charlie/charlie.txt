@@ -7601,7 +7601,6 @@ coralliferous
 cereals
 cerebella
 counterindoctrination
-cerebellifugal
 childbed
 cerebellipetal
 cerebellitis
@@ -15521,6 +15520,7 @@ clappe
 clapper
 clapperclaw
 clappered
+cerebellifugal
 chitchatting
 creditorship
 clambered
