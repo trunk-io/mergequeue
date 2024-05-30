@@ -1987,7 +1987,6 @@ galidia
 glaikit
 gavelmen
 gunboat
-gaudless
 gammoner
 garnetwork
 genesee
@@ -2331,6 +2330,7 @@ geyerite
 geiger
 gospeller
 gangrel
+gaudless
 glamoury
 gandered
 guavina
