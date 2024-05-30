@@ -6675,7 +6675,6 @@ betons
 bere
 bien
 barretry
-bereareft
 bereave
 bereavements
 beetlers
@@ -11890,6 +11889,7 @@ bended
 bakshished
 bodock
 bodoni
+bereareft
 bodonid
 bromic
 bodrag
