@@ -4011,7 +4011,6 @@ empanels
 emanant
 electroplated
 empanoply
-empaper
 emparchment
 epithamia
 emparl
@@ -6992,6 +6991,7 @@ entranced
 entrancedly
 equivalve
 entrancement
+empaper
 etherializing
 echinodermata
 entrapment
