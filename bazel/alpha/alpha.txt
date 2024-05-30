@@ -4745,6 +4745,7 @@ aecidium
 aeciospore
 aeciostage
 aecioteliospore
+actinobacilli
 abigeus
 adversed
 aedeagi
@@ -9247,7 +9248,6 @@ adenolipoma
 almsful
 almsgiving
 almsman
-actinobacilli
 almsmen
 almswoman
 almuces
