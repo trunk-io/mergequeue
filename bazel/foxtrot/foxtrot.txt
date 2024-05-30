@@ -6800,6 +6800,7 @@ foraminiferan
 fikery
 foldout
 folds
+foetalization
 folgerite
 fenceplay
 foliaceous
@@ -11207,7 +11208,6 @@ forcipes
 fungitoxic
 fungitoxicity
 fluorophosphate
-foetalization
 fungoes
 flotorial
 freechurchism
