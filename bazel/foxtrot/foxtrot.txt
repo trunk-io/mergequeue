@@ -2494,6 +2494,7 @@ ferrohydrocyanic
 futility
 faultfinding
 fermi
+fourrier
 founders
 finiteness
 fermillet
@@ -8971,7 +8972,6 @@ fontainea
 fibrilliform
 fourrageres
 flixweed
-fourrier
 furnisher
 fetial
 footnoted
