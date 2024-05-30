@@ -12607,7 +12607,6 @@ exobasidiales
 exclaim
 exobasidium
 eating
-empt
 epistolet
 extinguishment
 exocardiac
@@ -14200,6 +14199,7 @@ exuviae
 excitron
 exuvial
 exuviated
+empt
 exxon
 enlevement
 exzodiacal
