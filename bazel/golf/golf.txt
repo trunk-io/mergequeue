@@ -823,7 +823,6 @@ gamari
 gamash
 gamashes
 gamasidae
-goombay
 guamuchil
 gamasoidea
 gutturopalatal
@@ -9965,6 +9964,7 @@ guativere
 ghastlier
 generalised
 gesnerian
+goombay
 gonadotrophin
 guatusan
 gyric
