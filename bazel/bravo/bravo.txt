@@ -3066,6 +3066,7 @@ bimetal
 bakerite
 boffola
 basipoditic
+bumkins
 ballon
 bestials
 brahman
@@ -11726,7 +11727,6 @@ benchmarked
 brazenfaced
 bobeches
 bobet
-bumkins
 bobflies
 bananas
 bosselated
