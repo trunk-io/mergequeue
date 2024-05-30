@@ -7379,7 +7379,6 @@ forecasting
 featherwood
 frankenia
 forceless
-forcelessness
 forcelet
 futhark
 fasciculation
@@ -9337,6 +9336,7 @@ figeter
 fanneling
 frangibility
 flummydiddle
+forcelessness
 frangible
 frangipani
 filazer
