@@ -1121,6 +1121,7 @@ equerries
 endearment
 edh
 edhs
+expositor
 edibility
 edible
 expeditive
@@ -8118,7 +8119,6 @@ enteroscopy
 escartelly
 encyclopaedia
 exotic
-expositor
 epiglottidean
 epiphloeum
 epiphonema
