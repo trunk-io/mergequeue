@@ -1836,7 +1836,6 @@ debel
 debouch
 deplumate
 debellator
-debenture
 drugmaker
 debentures
 debi
@@ -13461,6 +13460,7 @@ disroof
 disroost
 disrooted
 disrooting
+debenture
 ditrigonal
 dizygous
 disruddered
