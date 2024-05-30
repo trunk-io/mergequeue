@@ -3950,6 +3950,7 @@ damper
 designating
 dekalitre
 disherits
+deadens
 dekameters
 debutante
 decumani
@@ -6351,7 +6352,6 @@ depurated
 deleting
 dermatotome
 dermatozoon
-deadens
 dermatozoonosis
 dermatozzoa
 dermatrophia
