@@ -901,7 +901,6 @@ beadlery
 baglike
 bagmaker
 bagmaking
-bagne
 bagnes
 bibliotics
 bastnaesite
@@ -10329,6 +10328,7 @@ blackware
 bilges
 befleaed
 blackwater
+bagne
 blackweed
 barotactic
 babuma
