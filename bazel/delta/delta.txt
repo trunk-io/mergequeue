@@ -903,7 +903,6 @@ ducks
 danzig
 danziger
 danzon
-daoine
 decks
 dap
 dapedius
@@ -6604,6 +6603,7 @@ desegmentation
 desegmented
 disordination
 dephlegmated
+daoine
 desegregated
 decontamination
 desegregates

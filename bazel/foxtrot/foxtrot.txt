@@ -1121,7 +1121,6 @@ farruca
 fibrilled
 fistulate
 farseeing
-fluoroid
 farseer
 farset
 farsighted
@@ -7533,6 +7532,7 @@ forecommend
 foreconclude
 followeth
 flops
+fluoroid
 foreconsider
 flagonet
 forgivably
