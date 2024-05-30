@@ -6847,7 +6847,6 @@ aircraftwoman
 ahint
 aircrew
 aircrewmen
-aortae
 aerophone
 agrimonia
 axoplasms
@@ -18326,6 +18325,7 @@ aquifuge
 aquila
 aquilaria
 acream
+aortae
 aquilawood
 aquilia
 abvolts
