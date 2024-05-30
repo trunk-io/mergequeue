@@ -3608,7 +3608,6 @@ defunctionalize
 defuses
 defusion
 dorsocaudal
-dingles
 dehwar
 defuze
 dolman
@@ -10950,6 +10949,7 @@ disaffectionate
 dilutor
 disaffections
 disaffiliate
+dingles
 disaffiliated
 disaffiliation
 disaffinity
