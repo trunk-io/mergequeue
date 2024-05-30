@@ -3332,6 +3332,7 @@ faction
 flabbergastation
 featherweights
 fidejussor
+familiary
 fortunous
 fidelio
 forchase
@@ -10609,7 +10610,6 @@ finched
 frictionizing
 fructuate
 fightwite
-familiary
 fructuous
 festooned
 fructuously
