@@ -7245,7 +7245,6 @@ aphizog
 alabastra
 alabastrian
 alabastrine
-alabastrites
 alabastrum
 ascenders
 alabastrums
@@ -13649,6 +13648,7 @@ annuitant
 argyrol
 annuitants
 aquarists
+alabastrites
 annuity
 authenticator
 annuities
