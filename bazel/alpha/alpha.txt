@@ -8340,6 +8340,7 @@ aligned
 aligning
 aligns
 aligreek
+auricle
 aliyah
 aliyahaliyahs
 aliyos
@@ -23560,7 +23561,6 @@ asplanchnic
 auricyanhydric
 atpoints
 absvolt
-auricle
 antiexpressively
 auricles
 auriculare
