@@ -2060,6 +2060,7 @@ foggiest
 felahin
 felapton
 feldspar
+flies
 farewelling
 funebrial
 ft
@@ -5587,7 +5588,6 @@ ficary
 flimflams
 felonry
 freethink
-flies
 flimsy
 flimsier
 fragmenting
