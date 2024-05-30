@@ -1257,6 +1257,7 @@ danthonia
 discal
 dusted
 datives
+diacidic
 dato
 deplane
 dermoptera
@@ -10428,7 +10429,6 @@ disfavor
 diphasic
 diphenan
 diphenhydramine
-diacidic
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
