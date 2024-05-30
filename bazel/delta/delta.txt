@@ -450,7 +450,6 @@ dayward
 dayworker
 daywrit
 dakerhen
-dakhini
 driftages
 durgah
 dakoit
@@ -16646,6 +16645,7 @@ dragoonade
 denunciable
 dragoonage
 dignified
+dakhini
 deconsecrating
 dragooned
 donnered
