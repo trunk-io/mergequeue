@@ -10822,6 +10822,7 @@ direr
 decanormal
 direx
 dirge
+drawstop
 dirged
 dirgelike
 dirgeman
@@ -11850,7 +11851,6 @@ discursativeness
 discursify
 donatively
 discursive
-drawstop
 discursory
 discursus
 discurtain
