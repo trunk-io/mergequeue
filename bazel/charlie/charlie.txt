@@ -4013,7 +4013,6 @@ cardiagra
 cardiagram
 cardiagraph
 cardiagraphy
-cardial
 cardialgy
 coevals
 centaurian
@@ -6864,6 +6863,7 @@ celt
 celtiberi
 celtiberian
 celticize
+cardial
 celtidaceae
 celtiform
 celtillyrians
