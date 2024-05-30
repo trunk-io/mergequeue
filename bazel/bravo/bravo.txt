@@ -8307,7 +8307,6 @@ bier
 broid
 byerite
 bierkeller
-byerlite
 backspliced
 bierstuben
 byestreet
@@ -16170,6 +16169,7 @@ brouille
 brouillon
 broussonetia
 browache
+byerlite
 bonete
 bahuvrihis
 brachycephales
