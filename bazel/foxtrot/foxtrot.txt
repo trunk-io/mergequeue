@@ -5427,6 +5427,7 @@ factories
 fletchers
 fletches
 furrower
+foresweat
 feynesses
 fleuret
 faked
@@ -8198,7 +8199,6 @@ footwork
 forgather
 fop
 fossulate
-foresweat
 foretime
 fabraea
 finickiness
