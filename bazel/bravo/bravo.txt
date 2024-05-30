@@ -494,6 +494,7 @@ be
 backstaff
 backstay
 bridely
+bivalents
 biotech
 bespawl
 boshboks
@@ -10043,7 +10044,6 @@ bajulate
 besauce
 bivalency
 bivalent
-bivalents
 biognosis
 bivalvia
 buro

@@ -6105,6 +6105,7 @@ angelica
 aggro
 aggroup
 affrontee
+aslumber
 arcaded
 archt
 aggroupment
@@ -21377,7 +21378,6 @@ aslantwise
 aslaver
 adenylpyrophosphate
 asleep
-aslumber
 accadian
 arolla
 asmack
