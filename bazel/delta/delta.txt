@@ -2833,6 +2833,7 @@ decremeter
 decrepid
 decrepit
 demarches
+domelike
 duodecahedral
 decrepitated
 decrepitation
@@ -8768,7 +8769,6 @@ diatomaceae
 diatomaceous
 deboning
 doorframe
-domelike
 diatomales
 dedicated
 diatomeae
