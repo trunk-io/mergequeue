@@ -4690,7 +4690,6 @@ bedeafened
 bedeafening
 botanised
 bedeck
-bedecked
 bedrid
 bebannered
 bedecking
@@ -17532,6 +17531,7 @@ burdeners
 burdenless
 burdenous
 bleep
+bedecked
 babeship
 blabs
 banks
