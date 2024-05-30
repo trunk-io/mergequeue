@@ -18933,7 +18933,6 @@ colyum
 coliuria
 colla
 collab
-csnet
 carriageless
 collabent
 collaborate
@@ -27446,6 +27445,7 @@ courtlike
 courtney
 courtnoll
 courtroll
+csnet
 courtship
 courtships
 cleach
