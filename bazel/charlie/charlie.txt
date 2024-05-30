@@ -11894,6 +11894,7 @@ cycloidal
 chaplanry
 choose
 coaster
+coexpanded
 copaljocote
 chooser
 choosers
@@ -18242,7 +18243,6 @@ coexistence
 comicodidactic
 coexisting
 coexpand
-coexpanded
 coexperiencer
 coextend
 coextends
