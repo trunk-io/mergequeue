@@ -2365,6 +2365,7 @@ canceller
 cancelling
 cancellous
 cancellus
+cypraeid
 cancelment
 cancels
 chimneys
@@ -16062,7 +16063,6 @@ clerkdom
 clerkdoms
 clerkery
 clerkess
-cypraeid
 carcinosis
 clerkless
 clerklier

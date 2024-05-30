@@ -565,7 +565,6 @@ gimpiest
 getters
 gritten
 grapiest
-gastromelus
 geisotherm
 gasolines
 glycerine
@@ -3244,6 +3243,7 @@ geotectonically
 graplin
 gluing
 glycans
+gastromelus
 geoteuthis
 geotherm
 gelatinobromide
