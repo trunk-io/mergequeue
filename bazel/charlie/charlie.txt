@@ -15504,7 +15504,6 @@ clanswomen
 claosaurus
 clapboard
 clapboarding
-cleidomastoid
 clapboards
 clapcake
 clapdish
@@ -25477,6 +25476,7 @@ cornloft
 cornmaster
 cornmeal
 cothurnal
+cleidomastoid
 cornmeals
 cornmuse
 corno
