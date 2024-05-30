@@ -13091,7 +13091,6 @@ anhydrization
 anhydroglocose
 anhydromyelia
 anhidrosis
-anhidrotic
 archespsporia
 anhydrotic
 anhydroxime
@@ -13899,6 +13898,7 @@ approximatively
 aqueduct
 anoscopy
 anatomicosurgical
+anhidrotic
 anosmia
 anosmias
 anosphrasia
