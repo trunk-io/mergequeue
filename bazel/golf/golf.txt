@@ -10310,7 +10310,6 @@ goralog
 gleaner
 genipa
 gauffred
-gujarati
 gd
 glood
 gametic
@@ -10739,6 +10738,7 @@ gagers
 gustiest
 globulin
 gustless
+gujarati
 gerendum
 gerodontics
 goodyism
