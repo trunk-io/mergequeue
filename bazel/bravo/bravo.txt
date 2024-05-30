@@ -5016,7 +5016,6 @@ beeped
 burgware
 battak
 burgensic
-blesse
 bunt
 bricks
 boltless
@@ -17248,6 +17247,7 @@ bulnbuln
 bulrush
 bulrushy
 boonies
+blesse
 bulrushlike
 bult
 bultey
