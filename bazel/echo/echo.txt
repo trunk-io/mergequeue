@@ -2685,7 +2685,6 @@ elinvar
 electrosurgery
 enfirm
 epididymovasostomy
-elaeocarpaceous
 eleutherodactyli
 electrosurgical
 electrosurgically
@@ -13217,6 +13216,7 @@ equiliria
 explicates
 embryoferous
 eventuation
+elaeocarpaceous
 eccentrometer
 explicatively
 explicator
