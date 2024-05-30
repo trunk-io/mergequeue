@@ -14919,7 +14919,6 @@ citywards
 calocarpum
 citizen
 citizeness
-citizenhood
 citizenish
 citizenism
 citizenize
@@ -29925,6 +29924,7 @@ cobwebs
 crossruff
 cardinals
 crosstail
+citizenhood
 creepier
 classisms
 crosstalk
