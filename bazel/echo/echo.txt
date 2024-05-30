@@ -8963,7 +8963,6 @@ escapements
 estampie
 egocentrism
 entohyal
-entoderms
 efflorescency
 ergograph
 ergoism
@@ -11111,6 +11110,7 @@ europeanization
 estoc
 encomimia
 europeans
+entoderms
 europeward
 exegetes
 emporial
