@@ -5407,7 +5407,6 @@ castoreum
 cookshack
 castorial
 calcaneonavicular
-castorite
 castors
 castra
 castrater
@@ -16419,6 +16418,7 @@ clistothecia
 clistothecium
 clit
 clitch
+castorite
 circumambulates
 clite
 counterplea

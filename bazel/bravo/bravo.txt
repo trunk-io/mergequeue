@@ -3785,7 +3785,6 @@ beltis
 borate
 batterie
 breck
-batteried
 batteries
 betrayals
 batteryman
@@ -16691,6 +16690,7 @@ buckoes
 buckone
 besugo
 biguanide
+batteried
 buckraming
 bassness
 blowcase
