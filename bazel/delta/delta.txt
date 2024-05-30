@@ -4643,7 +4643,6 @@ dhamma
 drawls
 demimonde
 deminatured
-demineralization
 demineralized
 demineralizer
 depreciating
@@ -5543,6 +5542,7 @@ dismounting
 deoxidation
 disordain
 deoxidative
+demineralization
 dibbles
 deoxidisation
 deadest
