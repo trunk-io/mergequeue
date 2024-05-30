@@ -16643,7 +16643,6 @@ complicities
 clonic
 clonicity
 clonicotonic
-cloning
 clonism
 clonisms
 commutating
@@ -28337,6 +28336,7 @@ cravat
 cravats
 cravatted
 cravatting
+cloning
 chytra
 circuitor
 crave
