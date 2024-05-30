@@ -8244,7 +8244,6 @@ chairmender
 chairpersons
 chairs
 chairway
-conjunctivae
 chairwarmer
 chairwomen
 chais
@@ -21380,6 +21379,7 @@ communicableness
 conchol
 conchology
 conchometer
+conjunctivae
 conchometry
 conchospiral
 conchostraca
