@@ -5409,7 +5409,6 @@ eparchate
 endurance
 endurant
 endure
-engorges
 ensnarled
 endurer
 eclaircise
@@ -6628,6 +6627,7 @@ enterograph
 enterography
 enterohemorrhage
 estatesman
+engorges
 enantiomeric
 enterohydrocele
 escarped
