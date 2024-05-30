@@ -1679,6 +1679,7 @@ ehretiaceae
 ehrman
 entrez
 exsomatic
+exalter
 enterobacterium
 eyah
 extraterrene
@@ -10672,7 +10673,6 @@ enzymolytic
 expensing
 eupolyzoa
 eucryphia
-exalter
 eucryphiaceous
 enterpriseless
 eucrystalline
