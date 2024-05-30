@@ -5518,6 +5518,7 @@ brisling
 behaviours
 balai
 bandying
+betatron
 beheaded
 beheader
 benignness
@@ -16756,7 +16757,6 @@ boswell
 buddle
 boodler
 buddleia
-betatron
 bunkhouses
 buddleias
 buddling
