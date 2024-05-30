@@ -7385,7 +7385,6 @@ dwine
 demilunes
 depersonalised
 demiadult
-detonate
 detonating
 detonation
 detonations
@@ -9936,6 +9935,7 @@ diminisher
 diminishingly
 diminishment
 diminishments
+detonate
 dulcet
 dehorned
 diminuendoed
