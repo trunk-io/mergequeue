@@ -3058,7 +3058,6 @@ electrophoretic
 elkslip
 elkuma
 elkwood
-epifascial
 evolvements
 ell
 ella
@@ -12594,6 +12593,7 @@ exiture
 elkdom
 exla
 eft
+epifascial
 eucosia
 exlex
 engulfment
