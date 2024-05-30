@@ -7926,7 +7926,6 @@ foreshop
 fittage
 foreshortened
 feedings
-foreshot
 foreshow
 foreshower
 fistulous
@@ -10931,6 +10930,7 @@ fletched
 fully
 fullmouth
 fullmouthed
+foreshot
 fowlpoxes
 fullom
 fripperies
