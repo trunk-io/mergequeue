@@ -12280,6 +12280,7 @@ boardwalk
 brake
 bolsterwork
 bolt
+bowlin
 boltage
 biasses
 boltcutter
@@ -15158,7 +15159,6 @@ brickle
 bulbospinal
 bricklike
 bloodguilty
-bowlin
 bricklining
 brickmason
 bethylid
