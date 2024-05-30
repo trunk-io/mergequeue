@@ -2488,6 +2488,7 @@ deciphered
 decipherer
 delative
 damgalnunna
+drepane
 deciphering
 deciphers
 decipium
@@ -17870,7 +17871,6 @@ due
 duecentist
 derbies
 dicyclic
-drepane
 dueled
 deathday
 dodecant
