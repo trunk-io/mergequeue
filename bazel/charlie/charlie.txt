@@ -3411,7 +3411,6 @@ chordotonal
 cytosporina
 caducecaducean
 capris
-convoking
 caprizant
 caproate
 caproin
@@ -19976,6 +19975,7 @@ coenenchyme
 commandery
 commanders
 cricketings
+convoking
 commanding
 commandingly
 commandingness

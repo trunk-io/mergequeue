@@ -4160,6 +4160,7 @@ fleys
 finnish
 firefangs
 flaggings
+favorers
 firefighting
 fornicator
 fireflaught
@@ -5682,7 +5683,6 @@ finesses
 fuzzball
 face
 faunological
-favorers
 flisk
 flisky
 faured
