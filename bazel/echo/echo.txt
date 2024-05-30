@@ -2359,7 +2359,6 @@ electrocataphoresis
 equison
 electrochronometric
 enfroward
-electroplating
 electroplates
 epiphenomenal
 elasmosaur
@@ -11337,6 +11336,7 @@ entredeux
 endoarteritis
 endue
 eliquated
+electroplating
 erraticism
 evaporation
 epopoeist
