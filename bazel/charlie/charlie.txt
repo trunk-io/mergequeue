@@ -3739,7 +3739,6 @@ carbineer
 carbines
 carbinol
 carbinols
-chromophilia
 commensality
 carboazotine
 carbocyclic
@@ -16786,6 +16785,7 @@ cloudage
 cloudberry
 cloudcap
 cloudful
+chromophilia
 colouristic
 cloudy
 cloudiest
