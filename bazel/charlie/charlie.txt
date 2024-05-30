@@ -8129,7 +8129,6 @@ cagayan
 ceroxylon
 chaferies
 chafers
-chafes
 chafewax
 chimaeras
 chafeweed
@@ -21704,6 +21703,7 @@ condylion
 cariacus
 condyloma
 commissionated
+chafes
 condylomatous
 condylome
 condylopodous
