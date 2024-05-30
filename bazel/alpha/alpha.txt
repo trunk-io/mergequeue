@@ -4306,7 +4306,6 @@ adorned
 adorners
 algaesthesis
 adornment
-armamentaria
 adornments
 adorno
 adornos
@@ -5975,6 +5974,7 @@ aggenerate
 agger
 aggeration
 aggest
+armamentaria
 aggie
 aggies
 aqueomercurial

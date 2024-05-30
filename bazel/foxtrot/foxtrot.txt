@@ -2722,7 +2722,6 @@ frizziness
 fervence
 fortnightlies
 forerunnership
-firebote
 ferventness
 frighteningness
 furandi
@@ -10551,6 +10550,7 @@ faiths
 forehanded
 forcipiform
 frowstily
+firebote
 frowze
 flinching
 folklorism
