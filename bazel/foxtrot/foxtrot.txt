@@ -4981,7 +4981,6 @@ faconne
 flapdock
 fluvialist
 fatteners
-flaperon
 flirter
 festivals
 flappable
@@ -8090,6 +8089,7 @@ fire
 focalized
 flatcaps
 faithful
+flaperon
 featurette
 fuchsias
 fractal
