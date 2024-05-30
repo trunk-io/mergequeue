@@ -15869,6 +15869,7 @@ chandelled
 cord
 cleam
 cleamer
+clobber
 confectioneries
 clean
 cleanable
@@ -16503,7 +16504,6 @@ creamcup
 cloamen
 christliness
 cloamer
-clobber
 clobbered
 clobbers
 cloche
