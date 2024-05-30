@@ -10286,6 +10286,7 @@ blackness
 bebump
 bilged
 blackout
+banefully
 broomwort
 blackpatch
 beauclerk
@@ -17114,7 +17115,6 @@ bulldoggishness
 bulldoze
 bulldozed
 bahawder
-banefully
 bulldozes
 bulldozing
 blubberingly
