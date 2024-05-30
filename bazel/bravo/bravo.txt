@@ -5767,6 +5767,7 @@ bicycle
 bathybic
 beleve
 barkpeeling
+biconcavity
 blunderheadedness
 bluism
 buna
@@ -9387,7 +9388,6 @@ byproducts
 biprong
 bipunctual
 betokening
-biconcavity
 biddelian
 bedsheets
 browsers
