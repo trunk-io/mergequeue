@@ -11374,7 +11374,6 @@ blubbing
 blucher
 bluchers
 bludge
-bludged
 bludgeon
 bludgeons
 bludger
@@ -13617,6 +13616,7 @@ bouncily
 bounciness
 biform
 blepharophyma
+bludged
 billiardly
 boundable
 blockaders
