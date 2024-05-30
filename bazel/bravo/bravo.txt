@@ -60,7 +60,6 @@ babel
 bolbonac
 berouged
 babeldom
-babelet
 babelish
 barouches
 bluestoner
@@ -12926,6 +12925,7 @@ bedspread
 boother
 bitterblain
 beata
+babelet
 boothes
 boothite
 bootid
