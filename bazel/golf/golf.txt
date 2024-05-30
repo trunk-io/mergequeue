@@ -5250,7 +5250,6 @@ glead
 gleam
 geyserine
 gametogony
-guzzler
 guss
 gleamy
 grapelet
@@ -6000,6 +5999,7 @@ glibly
 glucoside
 grantha
 glucosidically
+guzzler
 glucosine
 gatetender
 gingivoglossitis
