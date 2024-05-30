@@ -204,6 +204,7 @@ earthsmoke
 earthwall
 earthwards
 earthworks
+exogenic
 ethmovomer
 enddamaged
 ebriate
@@ -12674,7 +12675,6 @@ elegiambus
 excommunicable
 egotism
 encratism
-exogenic
 exogenous
 exogenously
 exogyra
