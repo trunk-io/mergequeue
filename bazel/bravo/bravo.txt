@@ -2580,7 +2580,6 @@ barid
 burgus
 barye
 bannered
-bois
 bielenite
 bronchiocele
 barcolongo
@@ -9470,6 +9469,7 @@ baske
 buriti
 bullyrook
 birding
+bois
 birdless
 beirut
 balbutiate
