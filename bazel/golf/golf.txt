@@ -3743,6 +3743,7 @@ gallimatia
 guardstone
 gelastic
 ghostfishes
+gelling
 ghostflower
 growths
 goalmouth
@@ -7420,7 +7421,6 @@ gunroom
 geniuses
 gourded
 gourdes
-gelling
 gourdful
 gourdhead
 granuliferous
