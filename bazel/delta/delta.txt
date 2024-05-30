@@ -409,6 +409,7 @@ dorsoanterior
 dichroic
 dairyman
 dairywoman
+decals
 dairywomen
 defensory
 dayroom
@@ -2078,7 +2079,6 @@ decalogist
 dinoflagellida
 decalogue
 demibarrel
-decals
 decalvant
 decalvation
 defenseman
