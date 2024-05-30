@@ -2653,6 +2653,7 @@ gobangs
 generalities
 generalizations
 grubbies
+gluing
 gain
 guanabana
 gibbol
@@ -3239,7 +3240,6 @@ geotaxes
 geotechnic
 geotectonically
 graplin
-gluing
 glycans
 geotherm
 gelatinobromide
