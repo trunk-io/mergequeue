@@ -8295,7 +8295,6 @@ bowwoman
 bienvenu
 bienvenue
 boosters
-byepath
 bier
 broid
 byerite
@@ -17126,6 +17125,7 @@ betulaceae
 bullet
 bulleted
 bismarckian
+byepath
 bequeather
 bullethead
 bulletheadedness
