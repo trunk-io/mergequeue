@@ -1339,6 +1339,7 @@ gundeck
 giftlike
 gambiers
 gismo
+gaurian
 gardenless
 greenside
 gardenlike
@@ -2059,7 +2060,6 @@ galician
 gnarrs
 gryphaea
 gams
-gaurian
 gaurie
 gaurs
 gimbri
