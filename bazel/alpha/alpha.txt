@@ -4842,7 +4842,6 @@ aeolomelodicon
 averin
 aeolotropy
 aeolotropic
-aeolus
 anchises
 aeon
 anacrustically
@@ -5010,6 +5009,7 @@ aerogeologist
 arricciatos
 aerogramme
 aerograph
+aeolus
 americium
 aerography
 aerographical
