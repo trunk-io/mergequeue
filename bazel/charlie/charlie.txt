@@ -14276,7 +14276,6 @@ clink
 caulerpa
 colanders
 circularization
-circularizer
 chartology
 circularizers
 carloads
@@ -18682,6 +18681,7 @@ cointerred
 cointerring
 cointersecting
 cointreau
+circularizer
 coinventor
 coinvolve
 coyo
