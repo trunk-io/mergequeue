@@ -1082,7 +1082,6 @@ frieda
 fastigiately
 farmyard
 farmyardy
-farmout
 fisc
 farmtown
 floricomous
@@ -11195,6 +11194,7 @@ firespout
 feldspathization
 fungistat
 foraminous
+farmout
 fallfishes
 floggings
 frenzelite
