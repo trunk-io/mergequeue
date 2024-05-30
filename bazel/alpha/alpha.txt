@@ -1384,7 +1384,6 @@ actinotherapeutic
 accentuated
 accension
 agapanthus
-accentuates
 accentus
 accept
 acceptability
@@ -22016,6 +22015,7 @@ asswages
 asswaging
 asta
 astable
+accentuates
 astacian
 astacidae
 astay
