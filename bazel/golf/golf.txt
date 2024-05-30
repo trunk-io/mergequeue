@@ -3814,7 +3814,6 @@ genetmoil
 guilelessness
 ginglymoid
 greece
-gibber
 ganomalite
 gaslightness
 guan
@@ -10267,6 +10266,7 @@ germarium
 geomagnetism
 guinevere
 guanases
+gibber
 gemmy
 gashliness
 genian
