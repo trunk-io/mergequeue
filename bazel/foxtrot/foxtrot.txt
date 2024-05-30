@@ -5064,7 +5064,6 @@ flasque
 flexuous
 fellifluous
 flatette
-flatfishes
 flatfoot
 flathead
 flatiron
@@ -6270,6 +6269,7 @@ flybelts
 fluke
 fluked
 feridgi
+flatfishes
 flukes
 flukeworm
 flukewort
