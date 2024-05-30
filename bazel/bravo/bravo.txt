@@ -8312,6 +8312,7 @@ bifaces
 bifacial
 bifara
 bedress
+bossage
 bifariously
 biff
 biffin
@@ -13242,7 +13243,6 @@ brushfires
 bosques
 bosquet
 britoness
-bossage
 bossboy
 bossdom
 balustraded
