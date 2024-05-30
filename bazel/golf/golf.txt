@@ -600,7 +600,6 @@ glycoprotein
 gallicisms
 gimpy
 gallicize
-gallicizer
 gobletful
 garau
 gutturize
@@ -8817,6 +8816,7 @@ grenadierial
 gyokuro
 gelates
 grenadierly
+gallicizer
 gratuitously
 glaucochroite
 grenadiers
