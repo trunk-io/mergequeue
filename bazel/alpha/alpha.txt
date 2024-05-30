@@ -241,7 +241,6 @@ abd
 abdali
 aba
 abdat
-abashing
 abderian
 admonition
 ataxonomic
@@ -5992,6 +5991,7 @@ agglomerates
 agglomeratic
 agglomeration
 agglomerative
+abashing
 aramis
 apical
 anthropodus

@@ -12497,6 +12497,7 @@ bierbalk
 bondservant
 bondship
 bondslave
+bombshell
 bondsman
 blueys
 braeman
@@ -17744,7 +17745,6 @@ burmanniaceous
 bradded
 boilerhouse
 burnbeat
-bombshell
 burned
 bewreath
 burner
