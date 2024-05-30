@@ -4008,6 +4008,7 @@ expoundable
 empaneled
 empanelling
 empanels
+essoiner
 emanant
 electroplated
 empanoply
@@ -8601,7 +8602,6 @@ equiaxe
 elaborately
 equiaxed
 exedrae
-essoiner
 equibalance
 equibalanced
 equibiradiate
