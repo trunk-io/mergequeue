@@ -8898,7 +8898,6 @@ chaptalize
 chapter
 chapteral
 colorize
-chaptered
 chapterhouse
 chapters
 chaptrel
@@ -27438,6 +27437,7 @@ courtlier
 cephalodymia
 chow
 courteously
+chaptered
 courtliest
 croppie
 catasta
