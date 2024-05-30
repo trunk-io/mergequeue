@@ -79,6 +79,7 @@ fermentations
 flocklike
 filching
 fisticuffs
+forbearant
 faces
 facesaving
 flattening
@@ -7331,7 +7332,6 @@ forbarred
 forbborne
 freshen
 forbearable
-forbearant
 fishyback
 forby
 foreparent
