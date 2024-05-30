@@ -7838,6 +7838,7 @@ aldermanship
 aldermen
 anaclasis
 alderney
+anatomies
 alders
 alderwomen
 annunciates
@@ -12147,7 +12148,6 @@ anatomicochirurgical
 acedia
 anatomicopathologic
 arteriofibrosis
-anatomies
 anatomise
 anatomiser
 anatomist
