@@ -11149,7 +11149,6 @@ disbar
 dehydrant
 drubbings
 disbarment
-disbarred
 disbarring
 disbars
 disbase
@@ -17888,6 +17887,7 @@ duello
 deterministically
 duellos
 durance
+disbarred
 droopt
 duenas
 duende
