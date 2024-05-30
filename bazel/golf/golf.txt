@@ -6791,7 +6791,6 @@ gruine
 goniocraniometry
 gaveller
 goniodoridae
-greensand
 guestship
 garvance
 goniodorididae
@@ -7515,6 +7514,7 @@ governors
 gobian
 garbled
 gravimeter
+greensand
 greywether
 governs
 genitory
