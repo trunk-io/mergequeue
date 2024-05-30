@@ -1710,7 +1710,6 @@ drawgear
 dotier
 devastate
 deasil
-deaspirate
 decostate
 debilitant
 dasein
@@ -3510,6 +3509,7 @@ defogged
 disyllable
 dormered
 defoggers
+deaspirate
 defogging
 defogs
 dorism
