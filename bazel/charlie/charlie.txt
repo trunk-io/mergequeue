@@ -3267,6 +3267,7 @@ celli
 capo
 chaufers
 capoc
+capharnaism
 capocchia
 capoche
 cuj
@@ -10082,7 +10083,6 @@ canna
 characterstring
 cherries
 chlorioninae
-capharnaism
 chauri
 chugalugs
 cherrying
