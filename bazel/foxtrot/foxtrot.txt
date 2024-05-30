@@ -5269,6 +5269,7 @@ fylker
 fleak
 feeblehearted
 fleamy
+filopodium
 flemish
 fleams
 flowed
@@ -6825,7 +6826,6 @@ foliate
 foliated
 foreadvertise
 foliates
-filopodium
 foliation
 folily
 facemaking
