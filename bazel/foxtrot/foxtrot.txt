@@ -1214,6 +1214,7 @@ frighter
 foochowese
 fourgons
 fascist
+fs
 friths
 fascista
 fears
@@ -2357,7 +2358,6 @@ feoff
 fumarolic
 foreimagine
 fconvert
-fs
 feoffer
 fiberous
 fenester
