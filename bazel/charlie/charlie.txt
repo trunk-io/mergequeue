@@ -3523,7 +3523,6 @@ capture
 captured
 calcification
 captures
-capturing
 capuan
 capuched
 capuchins
@@ -22634,6 +22633,7 @@ connectedly
 cowyard
 connecter
 connecters
+capturing
 creepmousy
 chiaroscurist
 connectible
