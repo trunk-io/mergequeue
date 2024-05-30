@@ -18888,7 +18888,6 @@ auletrides
 archeion
 archelenis
 archelogy
-archelon
 archemastry
 apotropaism
 anaplasis
@@ -20221,6 +20220,7 @@ array
 arrayal
 archmystagogue
 arrayals
+archelon
 arraign
 arraignable
 atroce
