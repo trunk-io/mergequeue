@@ -2239,7 +2239,6 @@ genteelly
 graduated
 geraldine
 genitofemoral
-gearshift
 gastrolith
 goniostat
 gearshifts
@@ -9949,6 +9948,7 @@ gratillity
 gogglers
 glegness
 glow
+gearshift
 glyptic
 gluish
 gliriform
