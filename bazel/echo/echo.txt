@@ -5580,7 +5580,6 @@ eretrian
 enfoldings
 enfoldment
 elevators
-enfolds
 enfeeblement
 enfoncee
 ephemerae
@@ -11696,6 +11695,7 @@ exalbuminose
 embassage
 exalbuminous
 exalt
+enfolds
 eunuchized
 exaltate
 exaltation
