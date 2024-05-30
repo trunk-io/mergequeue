@@ -5304,7 +5304,6 @@ groundline
 gleety
 guineaman
 gleetiest
-glyphograph
 gibbals
 gourding
 gambirs
@@ -10106,6 +10105,7 @@ grammarian
 guirlande
 gasoscope
 gazetteer
+glyphograph
 gaunt
 gastroenteroptosis
 ghostless
