@@ -5043,7 +5043,6 @@ beeriness
 blastophore
 basement
 bitumen
-beermaker
 beermaking
 beermonger
 braggartry
@@ -8900,6 +8899,7 @@ bindle
 binds
 brewer
 bindweed
+beermaker
 bacillophobia
 bynedestin
 binervate

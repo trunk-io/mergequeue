@@ -3365,7 +3365,6 @@ formularies
 fidgetily
 faultage
 flotsam
-fray
 foreheaded
 fiedlerite
 floreated
@@ -8144,6 +8143,7 @@ foothils
 forewit
 flung
 finable
+fray
 filets
 floreat
 firecracker
