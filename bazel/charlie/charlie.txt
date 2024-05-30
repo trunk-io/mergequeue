@@ -5332,7 +5332,6 @@ casted
 casteisms
 casteless
 chimerical
-castellany
 counterembowed
 corso
 crizzling
@@ -11691,6 +11690,7 @@ cholemia
 crosscurrent
 cholent
 cholents
+castellany
 crankbird
 cholepoietic
 cooks
