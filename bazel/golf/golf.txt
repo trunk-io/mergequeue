@@ -3114,7 +3114,6 @@ gelong
 glosses
 gallinacei
 glassed
-gurgle
 geomancer
 geomancy
 garnered
@@ -3930,6 +3929,7 @@ giftwrapping
 genitures
 gig
 geom
+gurgle
 gardenwards
 gwely
 giga
