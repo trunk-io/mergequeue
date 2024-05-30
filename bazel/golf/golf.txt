@@ -4648,7 +4648,6 @@ gluten
 goosebill
 glycine
 gieseckite
-glouting
 gentianin
 gloeocapsa
 glottochronology
@@ -5796,6 +5795,7 @@ glossemes
 glossemic
 glossers
 glossy
+glouting
 glaciometer
 gnathostomatous
 goniatitoid
