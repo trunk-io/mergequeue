@@ -1870,7 +1870,6 @@ battlepiece
 bollito
 barricos
 besotter
-bandeau
 betula
 bandelet
 bandelette
@@ -5991,6 +5990,7 @@ butterbur
 bellwether
 betaines
 bellwood
+bandeau
 bellwort
 beloam
 belock
