@@ -3674,7 +3674,6 @@ bathrooms
 bathroot
 babas
 ballyragging
-beddings
 boutade
 baron
 by
@@ -14313,6 +14312,7 @@ burgles
 braids
 beblubbered
 braye
+beddings
 binocle
 bifidly
 brayera
