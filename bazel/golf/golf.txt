@@ -4124,6 +4124,7 @@ gazetteerage
 gieaway
 gillie
 glumiflorae
+glib
 gelatines
 gilliflower
 gastronome
@@ -5180,7 +5181,6 @@ guillemet
 gunman
 gamotropism
 gormless
-glib
 gubernance
 grainsmen
 gymnospermae
