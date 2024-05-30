@@ -1795,7 +1795,6 @@ freeboard
 ferninst
 forbesite
 fluxweed
-folkmots
 flak
 featishness
 farrand
@@ -6680,6 +6679,7 @@ faqirs
 feted
 fogbank
 feudatorial
+folkmots
 flyblow
 faveoluli
 fogdogs
