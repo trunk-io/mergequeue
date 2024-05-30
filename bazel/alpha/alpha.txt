@@ -3967,7 +3967,6 @@ amalgamating
 adjoiner
 adjoiningness
 adjoins
-androgonium
 adjoint
 adjoints
 apieces
@@ -17882,6 +17881,7 @@ applier
 autocab
 aversation
 applies
+androgonium
 antispasis
 applying
 applyingly
