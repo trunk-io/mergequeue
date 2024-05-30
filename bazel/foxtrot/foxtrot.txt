@@ -4453,6 +4453,7 @@ freighting
 fissirostrate
 forerunner
 fissle
+foreskin
 furcule
 fissura
 finesse
@@ -7946,7 +7947,6 @@ floorthrough
 foresignify
 forebespeak
 farewells
-foreskin
 foreskins
 flench
 feet
