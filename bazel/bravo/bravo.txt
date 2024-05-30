@@ -9149,7 +9149,6 @@ bion
 bailsman
 blankard
 byon
-bionditional
 bionics
 bionomy
 bionomic
@@ -10330,6 +10329,7 @@ blacktree
 brewers
 blackware
 bilges
+bionditional
 befleaed
 blackwater
 blackweed
