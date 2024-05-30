@@ -6072,7 +6072,6 @@ enchanter
 enmarble
 ergoplasm
 eomecon
-enmarbling
 estrildine
 ethoses
 eschscholtzia
@@ -12562,6 +12561,7 @@ endsweep
 exist
 existed
 esne
+enmarbling
 existent
 existentialism
 existentialist
