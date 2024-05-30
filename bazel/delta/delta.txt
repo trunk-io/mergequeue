@@ -8963,7 +8963,6 @@ dusterman
 dichroism
 dihydride
 datacell
-dated
 dichroite
 dichroitic
 dichromasia
@@ -12398,6 +12397,7 @@ discession
 disclander
 dishonorer
 dishonoring
+dated
 detestability
 dittoing
 disciplined
