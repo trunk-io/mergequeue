@@ -3553,7 +3553,6 @@ batched
 batcher
 bargemen
 bogging
-bateau
 blastomycetous
 bucchero
 bandoliered
@@ -17091,6 +17090,7 @@ brokerages
 bulldog
 browis
 bifidate
+bateau
 barrel
 bulldoggedness
 benefactrixes
