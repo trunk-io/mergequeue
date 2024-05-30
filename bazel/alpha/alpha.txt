@@ -11730,6 +11730,7 @@ anaglyphics
 anaglyphs
 anaglypta
 anaglyptical
+automorphically
 aldim
 anaglyptography
 anaglyptographic
@@ -24214,7 +24215,6 @@ antica
 automobilism
 atole
 automobilists
-automorphically
 algerians
 automorphism
 automotive
