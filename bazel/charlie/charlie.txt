@@ -5467,7 +5467,6 @@ catabasis
 codgers
 catabatic
 catabibazon
-catabiotic
 chromotrope
 catabolically
 cabler
@@ -22123,6 +22122,7 @@ conflictless
 conflictory
 conflicts
 conflictual
+catabiotic
 conflow
 confluent
 confluxes
