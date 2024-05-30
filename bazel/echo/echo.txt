@@ -1186,7 +1186,6 @@ editor
 exploitation
 editorial
 editorialization
-editorialize
 editorialized
 executiveship
 eater
@@ -11437,6 +11436,7 @@ evergreen
 evergreens
 everydayness
 everyhow
+editorialize
 encorbelment
 everylike
 everyman
