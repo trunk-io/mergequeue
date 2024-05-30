@@ -8526,7 +8526,6 @@ epicycles
 elelments
 eupyrene
 epulis
-epulo
 ecphoriae
 edulcorator
 eurindic
@@ -8647,6 +8646,7 @@ estrum
 electrodynamometer
 equilibrated
 exasperative
+epulo
 exodontics
 electropneumatically
 equilibrates
