@@ -4851,7 +4851,6 @@ demography
 disemploys
 domal
 demographically
-demographics
 diavolo
 divertissement
 descendentalism
@@ -16784,6 +16783,7 @@ drats
 dratting
 draught
 draughtboard
+demographics
 draughted
 draughthouse
 draughtier
