@@ -6624,6 +6624,7 @@ cedriret
 cedrol
 corticiform
 cedron
+clansfolk
 centibar
 cedrus
 cedula
@@ -15483,7 +15484,6 @@ clankum
 chloropia
 clannishness
 cradlemen
-clansfolk
 clanship
 chiricahua
 clansman
