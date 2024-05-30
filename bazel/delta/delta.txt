@@ -4622,7 +4622,6 @@ demilitarization
 demilitarized
 dentaliidae
 demilitarizes
-demilitarizing
 demiliterate
 demilustre
 demiman
@@ -18581,6 +18580,7 @@ duster
 dusters
 dustheap
 dusty
+demilitarizing
 dustiest
 dustyfoot
 dusting

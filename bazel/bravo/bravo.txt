@@ -6003,7 +6003,6 @@ belock
 beloeilite
 bredstitch
 basimesostasis
-belomancy
 belone
 brooklyn
 belonephobia
@@ -7461,6 +7460,7 @@ bethump
 bethumped
 bethwack
 busked
+belomancy
 betided
 betides
 bego
