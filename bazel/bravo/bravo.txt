@@ -13041,7 +13041,6 @@ blancard
 blackberry
 bakeboard
 bordering
-bolster
 borders
 botrydium
 borderland
@@ -15807,6 +15806,7 @@ beno
 betrays
 buttresses
 brittlest
+bolster
 babiism
 bloomsburian
 boilermakers
