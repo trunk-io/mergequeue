@@ -9805,7 +9805,6 @@ ess
 exchange
 essay
 envapor
-essayed
 essayer
 essayism
 essayistical
@@ -10160,6 +10159,7 @@ ethal
 encastered
 ethambutol
 ethmovomerine
+essayed
 ethanamide
 entamoebiasis
 ethanediol
