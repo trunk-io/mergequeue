@@ -8736,7 +8736,6 @@ estreats
 equipondious
 extreat
 equipotential
-equipotentiality
 endostyle
 equipped
 electrostereotype
@@ -13855,6 +13854,7 @@ extracurricular
 extradicted
 embrocations
 etamine
+equipotentiality
 endolymphangial
 examiningly
 ethnics
