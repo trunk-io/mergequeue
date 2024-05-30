@@ -340,6 +340,7 @@ bangala
 backfields
 bahur
 bigha
+bugwort
 backfiller
 backfilling
 brushes
@@ -16941,7 +16942,6 @@ bugout
 bugs
 bugsha
 bugweed
-bugwort
 banca
 baganda
 buhl
