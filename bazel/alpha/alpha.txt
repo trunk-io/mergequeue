@@ -2645,7 +2645,6 @@ acquiescement
 acquiescence
 acquiescency
 aftersupper
-acquiescent
 abacli
 ansate
 acquiescently
@@ -4814,6 +4813,7 @@ adjectivism
 aetheling
 antedawn
 aeluroid
+acquiescent
 aerobacteriology
 aeluroidea
 acrotisms
