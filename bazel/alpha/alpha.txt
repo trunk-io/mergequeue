@@ -5140,6 +5140,7 @@ aerotherapeutics
 aerotherapy
 amreetas
 aerothermodynamics
+ameliorations
 aerotonometer
 agronomic
 aerotonometry
@@ -10320,7 +10321,6 @@ ameliorates
 ameliorating
 anacrusis
 apocenter
-ameliorations
 ameliorator
 amelioratory
 amellus
