@@ -18888,7 +18888,6 @@ archelogy
 archelon
 archemastry
 apotropaism
-anaplasis
 angioneoplasm
 archenia
 archeocyte
@@ -25272,6 +25271,7 @@ azimide
 azimin
 azimino
 azymite
+anaplasis
 azimuth
 azimuthal
 azimuths
