@@ -17048,7 +17048,6 @@ cnemis
 cneorum
 cnicin
 capmakers
-cnidae
 cnidarian
 cnidian
 crayoned
@@ -27891,6 +27890,7 @@ crabgrass
 crabier
 crabit
 crablet
+cnidae
 crablike
 chromidial
 crabman
