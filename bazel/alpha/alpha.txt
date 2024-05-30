@@ -7693,7 +7693,6 @@ amazes
 alchemized
 archership
 alchemizing
-alcheringa
 alchimy
 alfilerilla
 amphicarpic
@@ -15906,6 +15905,7 @@ antiplanet
 antiplastic
 antiplatelet
 antipleion
+alcheringa
 apolaustic
 antiplethoric
 antiplurality
