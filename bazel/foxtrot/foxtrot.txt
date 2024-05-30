@@ -3506,7 +3506,6 @@ faipule
 forcepses
 feuilletonist
 figurer
-flyweight
 flocculous
 facebread
 figures
@@ -6834,6 +6833,7 @@ foliolate
 fulhams
 folios
 foliose
+flyweight
 foredays
 flaser
 foliot
