@@ -2478,6 +2478,7 @@ electroharmonic
 empanelment
 electrohemostasis
 electrohydraulically
+emulsoidal
 electrohomeopathy
 endexines
 electromyographically
@@ -4291,7 +4292,6 @@ esotrope
 eremital
 emulsions
 emacerated
-emulsoidal
 effluxes
 env
 emulsoids
