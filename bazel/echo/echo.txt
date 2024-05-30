@@ -4726,7 +4726,6 @@ encystment
 eugenol
 encystments
 elect
-encysts
 erythrocytolysin
 encitadel
 evenest
@@ -5126,6 +5125,7 @@ explorative
 endodontologist
 embracing
 excrementary
+encysts
 evildoer
 extrapolate
 ellagic
