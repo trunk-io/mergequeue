@@ -7479,7 +7479,6 @@ detune
 detuning
 diastrophic
 dunderpates
-demobbing
 detur
 deturn
 deturpate
@@ -11678,6 +11677,7 @@ demiditone
 discost
 discostate
 digitally
+demobbing
 discotheque
 discothque
 diagramed
