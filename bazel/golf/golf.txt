@@ -7571,7 +7571,6 @@ grus
 grabhook
 grabouche
 gluside
-grabs
 glasgow
 garpike
 gynerium
@@ -10590,6 +10589,7 @@ glandaceous
 griffinage
 gowned
 goldenmouth
+grabs
 gunong
 gerbille
 greenockite
