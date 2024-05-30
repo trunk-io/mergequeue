@@ -1607,6 +1607,7 @@ bifurcate
 beheadlined
 ballywack
 boldface
+bullyable
 briefer
 brughs
 bursati
@@ -3958,7 +3959,6 @@ bawneen
 bawra
 bestial
 barrow
-bullyable
 bawsint
 bawsunt
 boneshaw
