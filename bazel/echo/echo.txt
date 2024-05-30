@@ -2332,6 +2332,7 @@ embassade
 electroanesthesia
 eavesdrop
 electroballistics
+endamaging
 electrobath
 electrobiological
 epicenity
@@ -4930,7 +4931,6 @@ emulatress
 endocorpuscular
 endeavour
 endeavorer
-endamaging
 edificable
 endeavors
 emulsifiable
