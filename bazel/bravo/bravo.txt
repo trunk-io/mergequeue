@@ -12439,7 +12439,6 @@ buckram
 befingering
 bonasus
 basally
-bonav
 banquette
 bookless
 bonaventure
@@ -16134,6 +16133,7 @@ brotheler
 bulla
 brimstony
 brothels
+bonav
 breweries
 bibliomanianism
 bistorta
