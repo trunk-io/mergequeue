@@ -5344,7 +5344,6 @@ castellans
 castellanship
 chaufer
 castellate
-castellated
 chooseable
 castellation
 castellatus
@@ -26989,6 +26988,7 @@ countermigration
 celiomyomotomy
 compendiously
 countermine
+castellated
 cotonier
 countermined
 countermission
