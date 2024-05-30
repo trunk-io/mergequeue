@@ -7143,7 +7143,6 @@ akenobeite
 atavus
 akepiro
 aker
-apogeal
 akerite
 aletaster
 aketon
@@ -13951,6 +13950,7 @@ ans
 ansar
 aradid
 ansarie
+apogeal
 abranchialism
 aerobium
 anseis

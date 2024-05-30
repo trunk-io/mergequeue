@@ -4127,7 +4127,6 @@ cardionecrosis
 cardioneurosis
 cardionosus
 conjugably
-cardiopath
 cardiopathic
 cardiopericarditis
 cardiophobe
@@ -15914,6 +15913,7 @@ clearances
 coteller
 curuminaca
 clearcole
+cardiopath
 cleared
 clearedness
 clearers
