@@ -2864,6 +2864,7 @@ cantatory
 cantatrice
 chestily
 cantboard
+chesteine
 chorioids
 cantdog
 cantdogs
@@ -3513,7 +3514,6 @@ captives
 comatulae
 captivities
 cojoin
-chesteine
 captor
 captors
 capturable
