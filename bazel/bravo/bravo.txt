@@ -1426,7 +1426,6 @@ balductum
 bale
 baleare
 balearian
-bathofloric
 basnet
 balearica
 bisellium
@@ -13511,6 +13510,7 @@ babuls
 bouch
 bouchaleen
 boucharde
+bathofloric
 bouchee
 bielid
 beseeching
