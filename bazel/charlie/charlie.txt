@@ -1703,7 +1703,6 @@ calumnia
 chipped
 calumniate
 coloured
-calumniated
 calumniates
 comeliness
 calumniating
@@ -10977,6 +10976,7 @@ chirognostic
 chirograph
 chirographers
 crl
+calumniated
 chirography
 chirographical
 chirolas
