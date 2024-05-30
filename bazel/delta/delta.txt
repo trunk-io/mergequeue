@@ -8473,7 +8473,6 @@ defenestrated
 diamagnet
 decrescence
 diamagnetic
-diamagnetism
 diamagnetize
 disreason
 dredging
@@ -16769,6 +16768,7 @@ diswood
 drastic
 dirtfarmer
 drastically
+diamagnetism
 dratchell
 drownded
 drate
