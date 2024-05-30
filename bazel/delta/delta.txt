@@ -1649,6 +1649,7 @@ deresinize
 deallocation
 deallocations
 deprival
+decapsulation
 dipteron
 deals
 dealt
@@ -14727,7 +14728,6 @@ delimitative
 dimidiated
 didepsid
 dizdar
-decapsulation
 demipriest
 dasycladaceous
 docimasy
