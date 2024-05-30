@@ -1764,7 +1764,6 @@ bruise
 bismutite
 baltei
 balthasar
-barterer
 baltheus
 blends
 baltimore
@@ -6653,6 +6652,7 @@ boatside
 basichromiole
 berber
 borickite
+barterer
 berberi
 berberia
 biohazard
