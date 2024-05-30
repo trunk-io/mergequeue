@@ -602,7 +602,6 @@ gallicize
 gallicizer
 gobletful
 garau
-gutturize
 gardeners
 grahamite
 galliform
@@ -785,6 +784,7 @@ gien
 galvanomagnetic
 galvanomagnetism
 gombeen
+gutturize
 galvanometers
 galvanometric
 geometries
