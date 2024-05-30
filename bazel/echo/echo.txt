@@ -5571,7 +5571,6 @@ enfoldings
 enfoldment
 elevators
 enfolds
-enfeeblement
 enfoncee
 ephemerae
 excusers
@@ -13139,6 +13138,7 @@ expirations
 expirator
 expiratory
 eche
+enfeeblement
 expired
 earmark
 equivale
