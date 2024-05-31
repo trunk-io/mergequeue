@@ -8649,7 +8649,6 @@ equielliptical
 equiexcellency
 equigranular
 equilater
-equilateral
 equilaterally
 enthrones
 equilibrant
@@ -13902,6 +13901,7 @@ emprise
 enflagellate
 exotropia
 extramundane
+equilateral
 extramurally
 enjambement
 emigrative
