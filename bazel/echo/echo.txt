@@ -8244,7 +8244,6 @@ esoterism
 efflorescence
 empowered
 episiostenosis
-episiotomy
 episiotomies
 episkeletal
 emotion
@@ -13131,6 +13130,7 @@ epipaleolithic
 expiational
 expiator
 expiators
+episiotomy
 entrancing
 expirate
 expiration
