@@ -6048,7 +6048,6 @@ ginned
 glamorization
 glumaceae
 germy
-glumales
 glumes
 glumiferous
 gaincome
@@ -7934,6 +7933,7 @@ glossina
 goniatitid
 gudge
 getups
+glumales
 gasteropod
 glottogony
 grandiflora
