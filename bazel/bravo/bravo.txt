@@ -3754,7 +3754,6 @@ bonnering
 batteling
 bascule
 battels
-battement
 basisolute
 battements
 bestriding
@@ -16707,6 +16706,7 @@ bedfoot
 bucktooth
 bucktoothed
 bucku
+battement
 booting
 babehood
 buckwagon
