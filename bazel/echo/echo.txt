@@ -3125,6 +3125,7 @@ elocutionist
 empyreumata
 empennage
 enantiosis
+entranceway
 elodea
 epicalyces
 echinorhinidae
@@ -6383,7 +6384,6 @@ ensiform
 equilocation
 ensign
 electroplaque
-entranceway
 ensignry
 ensilages
 episcopal
