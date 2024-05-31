@@ -14296,7 +14296,6 @@ anteroinferior
 alismaceae
 anterointernal
 anterolateral
-anterolaterally
 anteromedial
 anteromedian
 agiotages
@@ -21635,6 +21634,7 @@ aweless
 assoria
 assailed
 assailer
+anterolaterally
 assailers
 assails
 axiform
