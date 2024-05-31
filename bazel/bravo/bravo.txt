@@ -11630,7 +11630,6 @@ becarve
 boarts
 boarwood
 boas
-boaster
 boastfully
 boastfulness
 bacchus
@@ -13813,6 +13812,7 @@ bowel
 bothies
 bibcock
 boilers
+boaster
 buttonhook
 bowelled
 bowelless
