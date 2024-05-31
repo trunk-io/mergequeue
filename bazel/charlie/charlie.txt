@@ -3442,7 +3442,6 @@ capsids
 capsizable
 capsizal
 caballeria
-capsized
 capsizes
 capsizing
 capsomer
@@ -26063,6 +26062,7 @@ cowskins
 chn
 cose
 creamometer
+capsized
 creatorrhea
 coseasonal
 cryptomeria
