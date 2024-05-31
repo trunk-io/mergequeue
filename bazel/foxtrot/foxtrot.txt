@@ -2526,7 +2526,6 @@ fernandinite
 flabile
 fibrinoid
 faburden
-faceted
 ferned
 fallibly
 fernery
@@ -11182,6 +11181,7 @@ fungible
 fideists
 fungicidal
 fungicidally
+faceted
 fungicide
 fungicides
 fungicolous
