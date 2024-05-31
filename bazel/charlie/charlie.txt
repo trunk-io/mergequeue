@@ -9969,7 +9969,6 @@ choochoo
 chemotaxy
 collocatory
 chemotaxonomy
-chemotaxonomic
 cannular
 comma
 carices
@@ -24323,6 +24322,7 @@ convulsionism
 chaka
 craniostenosis
 convulsions
+chemotaxonomic
 clostridia
 convulsive
 convulsively
