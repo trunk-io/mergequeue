@@ -9164,7 +9164,6 @@ charr
 charras
 charre
 cysticarpic
-charred
 charrette
 consenescence
 charry
@@ -24200,6 +24199,7 @@ converts
 conveth
 convex
 convexedness
+charred
 chippage
 convexes
 clinicopathologically
