@@ -609,7 +609,6 @@ echoism
 egers
 extrudable
 epigeal
-echolocation
 echometer
 echopractic
 echos
@@ -10745,6 +10744,7 @@ embryotrophe
 euge
 eutaxies
 eugenesic
+echolocation
 enarbor
 eugeny
 expeditate
