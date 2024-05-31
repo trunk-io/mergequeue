@@ -5387,7 +5387,6 @@ android
 armageddon
 arsinoitherium
 apiales
-affixment
 afflate
 anophthalmia
 afflated
@@ -21911,6 +21910,7 @@ aphakial
 associative
 associatively
 accersition
+affixment
 associativeness
 ascogonidium
 ablactation
