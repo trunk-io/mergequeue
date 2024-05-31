@@ -5048,7 +5048,6 @@ beerpull
 beers
 beest
 beestings
-bonytail
 beeswax
 beeswaxes
 bothriums
@@ -12291,6 +12290,7 @@ boltmaker
 boltonia
 boltonias
 boltonite
+bonytail
 boltrope
 bittern
 boltropes
