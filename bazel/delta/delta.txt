@@ -4120,7 +4120,6 @@ dogcarts
 delicense
 dizzying
 deliciae
-delicious
 deliciouses
 deliciousness
 detribalized
@@ -13184,6 +13183,7 @@ displeases
 desiccators
 decelerometer
 drippings
+delicious
 dielec
 disreverence
 displeasing
