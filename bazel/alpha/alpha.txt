@@ -12873,7 +12873,6 @@ angiotrophic
 angiport
 angka
 autoinductive
-angkhak
 ammoniticone
 angle
 angled
@@ -20646,6 +20645,7 @@ arthrophlogosis
 anencephaly
 arthropyosis
 abdaria
+angkhak
 appete
 arthroplasty
 arthroplastic
