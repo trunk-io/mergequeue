@@ -7036,7 +7036,6 @@ chaetognath
 centauries
 centaurium
 constructure
-centauromachy
 centauromachia
 centaurus
 centavo
@@ -31702,6 +31701,7 @@ castilian
 cussos
 crooken
 cusswords
+centauromachy
 cust
 calorizer
 carian
