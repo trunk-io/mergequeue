@@ -7347,7 +7347,6 @@ condurrite
 cephalate
 coverts
 cephalemia
-cephaletron
 cephalhematoma
 cephalic
 cephalically
@@ -25518,6 +25517,7 @@ cornucopiae
 cataian
 cornucopias
 cornule
+cephaletron
 concerti
 cornulite
 cornulites
