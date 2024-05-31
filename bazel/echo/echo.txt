@@ -1516,6 +1516,7 @@ enthalpy
 espiegle
 elasmobranchii
 endosmometer
+equiradical
 effusive
 effusively
 entasias
@@ -8039,7 +8040,6 @@ enteric
 extirpationist
 eliminand
 enomaniac
-equiradical
 epinasties
 epinephrine
 expenselessness
