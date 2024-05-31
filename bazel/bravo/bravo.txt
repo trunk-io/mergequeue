@@ -12330,7 +12330,6 @@ bombast
 buglers
 bandurrias
 bezzi
-baculi
 biophor
 beldame
 bonds
@@ -17531,6 +17530,7 @@ bathukolpic
 biograph
 burdeners
 burdenless
+baculi
 burdenous
 bleep
 babeship
