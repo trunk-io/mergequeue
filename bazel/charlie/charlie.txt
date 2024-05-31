@@ -5400,6 +5400,7 @@ cumacean
 castled
 castlelike
 clitocybe
+creeses
 castles
 cortaderia
 china
@@ -28618,7 +28619,6 @@ chammies
 creepmouse
 creeps
 creese
-creeses
 cinchonine
 chiefship
 clientless
