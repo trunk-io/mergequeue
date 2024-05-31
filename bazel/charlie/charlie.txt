@@ -159,7 +159,6 @@ carbonizable
 cabmen
 cabob
 caboceer
-cizar
 caboche
 caboched
 cabocle
@@ -11809,6 +11808,7 @@ chondroarthritis
 chondroblastoma
 crankness
 concealingly
+cizar
 chondrocyte
 chondroclasis
 chondrocoracoid

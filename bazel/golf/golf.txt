@@ -2409,7 +2409,6 @@ glunching
 gelatose
 geld
 gavials
-geldability
 griffinish
 goodnesses
 galopin
@@ -9686,6 +9685,7 @@ gruffier
 gruffiest
 greased
 gruffness
+geldability
 grugous
 graphitoidal
 goofiest
