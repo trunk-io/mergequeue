@@ -7936,7 +7936,6 @@ formal
 foreshop
 fittage
 foreshortened
-feedings
 foreshot
 foreshow
 foreshower
@@ -10605,6 +10604,7 @@ floralia
 frontward
 finched
 frictionizing
+feedings
 fructuate
 fightwite
 familiary
