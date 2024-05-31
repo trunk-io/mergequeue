@@ -2848,7 +2848,6 @@ germanism
 gipped
 grabbed
 gnathopodous
-grocerwise
 genre
 gramophonist
 genro
@@ -8136,6 +8135,7 @@ grossness
 guaiaretic
 gandhi
 grapeflower
+grocerwise
 grapefruit
 gimping
 glaver
