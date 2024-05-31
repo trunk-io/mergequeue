@@ -5198,6 +5198,7 @@ gisler
 guider
 gunpaper
 glassworker
+governesses
 gushed
 glasswort
 gnomish
@@ -7496,7 +7497,6 @@ griphosaurus
 gulmohar
 governed
 gell
-governesses
 governing
 galvanotonic
 guttles
