@@ -3958,7 +3958,6 @@ expugnable
 earthbound
 emollient
 emollients
-emollition
 emoloa
 eschewer
 emolumental
@@ -6362,6 +6361,7 @@ explores
 eruditely
 enshell
 enshelter
+emollition
 enshield
 eprouvette
 enumerating
