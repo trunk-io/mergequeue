@@ -7963,7 +7963,6 @@ cacothesis
 cestrian
 cestrum
 cozing
-cestus
 cesural
 cetaceans
 cetaceum
@@ -24988,6 +24987,7 @@ corambis
 coran
 crassitude
 coranto
+cestus
 corolliform
 componentwise
 combfishes
