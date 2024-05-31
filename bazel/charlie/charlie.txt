@@ -9191,6 +9191,7 @@ charterers
 charterhouse
 chartering
 charterism
+christens
 charterless
 chartermaster
 charters
@@ -12352,7 +12353,6 @@ calcinable
 christener
 christeners
 christening
-christens
 christhood
 carburator
 cryptography
