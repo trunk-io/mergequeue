@@ -778,7 +778,6 @@ feudalizable
 familiarism
 fellowlike
 fermacy
-fanfaronade
 fanfarons
 funnellike
 fabricable
@@ -4465,6 +4464,7 @@ forerunner
 fissle
 furcule
 fissura
+fanfaronade
 finesse
 frawn
 fissured
