@@ -502,6 +502,7 @@ biserial
 billhead
 biscot
 backstitches
+baldoquin
 briming
 backstitching
 broadway
@@ -1401,7 +1402,6 @@ baldmoney
 backbenchers
 baldmoneys
 bellwaver
-baldoquin
 baldpate
 bragget
 baldpatedness
