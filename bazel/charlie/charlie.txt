@@ -10014,7 +10014,6 @@ californiana
 chenier
 chenille
 cheniller
-chenopod
 chenopodiaceae
 chenopodiaceous
 colocasia
@@ -27519,6 +27518,7 @@ carnaubic
 covarecas
 covary
 chelicerae
+chenopod
 curtailer
 covariable
 covariables
