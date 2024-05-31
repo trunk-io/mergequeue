@@ -6321,7 +6321,6 @@ alchemise
 agoniatite
 aegerian
 arteriorrhagia
-agonic
 agonies
 agonise
 axillas
@@ -13758,6 +13757,7 @@ anomala
 aboriginal
 anomaly
 anomalies
+agonic
 anomaliflorous
 anomaliped
 anomalism
