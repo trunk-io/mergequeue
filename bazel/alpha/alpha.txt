@@ -3479,7 +3479,6 @@ addicted
 axolysis
 antiknocks
 addictedness
-activable
 aphyllies
 addicting
 admortization
@@ -4503,6 +4502,7 @@ adulterously
 adulterousness
 aegis
 autohemolysis
+activable
 adulthood
 adulticidal
 adulticide
