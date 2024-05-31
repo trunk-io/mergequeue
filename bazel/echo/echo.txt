@@ -118,7 +118,6 @@ equisetaceae
 excitants
 episynaloephe
 eartab
-enneateric
 eartag
 eartagged
 earth
@@ -12535,6 +12534,7 @@ eyedroppers
 embosture
 exine
 enplanes
+enneateric
 euaster
 enrapting
 electicism
