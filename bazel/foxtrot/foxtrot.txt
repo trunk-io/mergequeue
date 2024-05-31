@@ -4084,6 +4084,7 @@ finns
 fino
 fussier
 finedrawing
+ferryage
 fornenst
 ferth
 finickin
@@ -10225,7 +10226,6 @@ frizzly
 fluxion
 fro
 fiaschi
-ferryage
 foggages
 frazing
 flaxseed
