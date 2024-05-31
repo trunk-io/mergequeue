@@ -455,6 +455,7 @@ eccl
 excentrical
 ecart
 ethnobotany
+endings
 evector
 earsore
 expandability
@@ -5018,7 +5019,6 @@ endiadem
 equerry
 endiaper
 epiparodos
-endings
 endysis
 elaeomargaric
 endite

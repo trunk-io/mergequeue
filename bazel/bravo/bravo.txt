@@ -9045,7 +9045,6 @@ bioelectrogenesis
 bioengineering
 bioethic
 bromyrite
-bannerless
 blueberries
 bioethics
 bewrayed
@@ -16128,6 +16127,7 @@ brotheler
 bulla
 bordage
 brimstony
+bannerless
 brothels
 breweries
 bibliomanianism
