@@ -5540,7 +5540,6 @@ ecphrasis
 echidnae
 enfevering
 elderwood
-eyeline
 enfilade
 enfilades
 eerinesses
@@ -9600,6 +9599,7 @@ enciphered
 escutcheoned
 evangelistically
 eugenesis
+eyeline
 emmetropia
 esd
 exempt
