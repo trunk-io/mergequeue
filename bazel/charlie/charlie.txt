@@ -14040,7 +14040,6 @@ chalicotherioid
 cynoclept
 cynocrambaceae
 cynocrambaceous
-cynodictis
 cynodontia
 cinofoil
 cynogale
@@ -15275,6 +15274,7 @@ chubbily
 cladodontidae
 cladodus
 cladogenesis
+cynodictis
 cladogenetic
 cladogenetically
 cladogenous
