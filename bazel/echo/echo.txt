@@ -1670,7 +1670,6 @@ egotistically
 egotized
 egracias
 extradition
-egress
 emissarium
 egressed
 egresses
@@ -5558,6 +5557,7 @@ enfilade
 enfilades
 eerinesses
 enfilading
+egress
 enfants
 enfiled
 enfin

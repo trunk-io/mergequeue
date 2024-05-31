@@ -9541,7 +9541,6 @@ checkback
 checkbird
 checkbite
 checkbits
-checkbook
 chachalaca
 climatically
 chaetites
@@ -11741,6 +11740,7 @@ controversial
 chack
 choliambist
 cholic
+checkbook
 choline
 cholines
 cholinesterase
