@@ -432,7 +432,6 @@ backplanes
 backpointer
 braconid
 bushwas
-backropes
 backrush
 backscatter
 backscattered
@@ -11776,6 +11775,7 @@ boccaro
 bocce
 babeldom
 bocces
+backropes
 boccia
 boccias
 boccie
