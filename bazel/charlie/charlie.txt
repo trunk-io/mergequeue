@@ -15733,7 +15733,6 @@ cranes
 camelkeeper
 clathrulate
 clatter
-cartographers
 clattered
 clatterer
 crucifier
@@ -24415,6 +24414,7 @@ coolen
 cooler
 coolerman
 coolers
+cartographers
 caviling
 coolest
 coned
