@@ -3847,7 +3847,6 @@ fimbriae
 formicary
 fimbrial
 fimbriate
-fimbriated
 flavanthrene
 fimbriating
 faciend
@@ -6353,6 +6352,7 @@ fluorboric
 fluotitanate
 foetal
 fluorenes
+fimbriated
 fluctuability
 foveolar
 fluoresceine
