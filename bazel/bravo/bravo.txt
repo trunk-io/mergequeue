@@ -12591,7 +12591,6 @@ brooklike
 boning
 bakemeat
 bonita
-bordered
 bonitary
 bepommel
 beauing
@@ -14925,6 +14924,7 @@ brechtian
 bunchberries
 bred
 bennettites
+bordered
 burnut
 bredbergite
 bredes
