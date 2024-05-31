@@ -21542,6 +21542,7 @@ concordal
 concordance
 concordancer
 concordances
+cribrately
 concordancy
 concordant
 classifically
@@ -28936,7 +28937,6 @@ cribellum
 crible
 cribose
 cribrate
-cribrately
 cribriform
 cribriformity
 categorem
