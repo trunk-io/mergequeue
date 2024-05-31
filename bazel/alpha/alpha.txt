@@ -558,7 +558,6 @@ abn
 abnaki
 abnegated
 abnegates
-abnegative
 abnegator
 abnegators
 anatomicopathological
@@ -18008,6 +18007,7 @@ argininephosphoric
 avosets
 apprehension
 apprehensively
+abnegative
 apprend
 apprense
 apprentice
