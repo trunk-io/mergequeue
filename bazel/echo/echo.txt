@@ -1726,6 +1726,7 @@ endostome
 eyeblack
 eyeblink
 eyebright
+evolvable
 exorcistical
 eyebrows
 eyecup
@@ -11597,7 +11598,6 @@ ecuadoran
 evolutive
 encephalosepsis
 evolutoid
-evolvable
 evacuee
 excreters
 explicating
