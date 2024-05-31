@@ -3852,7 +3852,6 @@ frustulum
 flet
 fimbriatum
 feral
-fimbricate
 floria
 ferruminate
 fellowly
@@ -10986,6 +10985,7 @@ floodless
 finally
 fumarases
 ficoideae
+fimbricate
 fumose
 fumarate
 fewness
