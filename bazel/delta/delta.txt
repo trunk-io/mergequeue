@@ -4705,7 +4705,6 @@ demirhumb
 demirilievo
 dynasty
 demirobe
-demonastery
 donn
 dungyard
 dol
@@ -18274,6 +18273,7 @@ disequality
 demiourgoi
 dunned
 disintegration
+demonastery
 dunner
 dunness
 dunny
