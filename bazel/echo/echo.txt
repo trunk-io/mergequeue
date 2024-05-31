@@ -7499,7 +7499,6 @@ ephemeralness
 edmund
 ephemeran
 ephemerid
-ephemerida
 ephemeridae
 ephemeris
 ephemeromorphic
@@ -9093,6 +9092,7 @@ erysipelous
 erysiphaceae
 erysiphe
 elicitable
+ephemerida
 eristically
 erithacus
 ewound
