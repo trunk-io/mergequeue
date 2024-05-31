@@ -2800,6 +2800,7 @@ eutocia
 extrusions
 exotropism
 evergreenite
+endurability
 explorations
 excecate
 elytrous
@@ -10331,7 +10332,6 @@ echites
 enhearse
 ethylic
 ethylin
-endurability
 enflowering
 ethylsulphuric
 encoffin
