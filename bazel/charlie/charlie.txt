@@ -4183,7 +4183,6 @@ cerotype
 cardoon
 cardoons
 cardophagus
-cardosanto
 clearwing
 carbamido
 chauffeur
@@ -11078,6 +11077,7 @@ chirruping
 chirrupper
 combustor
 conveniently
+cardosanto
 chirrups
 chirt
 chiru
