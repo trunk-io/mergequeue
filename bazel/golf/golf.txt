@@ -2629,7 +2629,6 @@ genepi
 grinder
 generable
 guideress
-generalcy
 generalia
 generalise
 graciously
@@ -5804,6 +5803,7 @@ glossemic
 glossers
 glossy
 glaciometer
+generalcy
 gnathostomatous
 goniatitoid
 glossier
