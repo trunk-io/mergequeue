@@ -6828,7 +6828,6 @@ frustrate
 feeblemindedly
 falcata
 foliate
-foliated
 foreadvertise
 foliates
 filopodium
@@ -6886,6 +6885,7 @@ fadmonger
 firetower
 folkmoter
 formuliser
+foliated
 furnaceman
 foudroyant
 folkright
