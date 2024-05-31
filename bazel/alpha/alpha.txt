@@ -8861,6 +8861,7 @@ allmouths
 annat
 amortisseur
 allness
+avascular
 allo
 anoesia
 allobar
@@ -25050,7 +25051,6 @@ aworry
 anaesthetist
 armaria
 aggregation
-avascular
 awrist
 angiokinetic
 alkylating
