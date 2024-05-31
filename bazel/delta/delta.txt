@@ -6376,7 +6376,6 @@ dermobranchiate
 dermococcus
 dialyzator
 diagrammatical
-dermogastric
 dermographia
 dermohemia
 dermohumeral
@@ -16775,6 +16774,7 @@ diswood
 drastic
 dirtfarmer
 drastically
+dermogastric
 dratchell
 drownded
 drate
