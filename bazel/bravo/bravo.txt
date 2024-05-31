@@ -10556,7 +10556,6 @@ burin
 bullied
 blastomyces
 blastomycete
-blastomycetic
 blastomycotic
 benignities
 bismuthic
@@ -10907,6 +10906,7 @@ blighia
 bloodlike
 blight
 blightbird
+blastomycetic
 blighted
 blighters
 bestowing
