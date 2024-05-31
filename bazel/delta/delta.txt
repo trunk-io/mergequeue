@@ -7818,6 +7818,7 @@ dielectrics
 dosimetries
 dryrot
 disbeliever
+dismiss
 dagestan
 diphthong
 devolatilization
@@ -10465,7 +10466,6 @@ dialogued
 denotate
 diphonia
 daredevil
-dismiss
 diphosphate
 duumvirs
 distortion
