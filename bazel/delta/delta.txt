@@ -3223,7 +3223,6 @@ defectibility
 defectible
 defecting
 defection
-diagrammeter
 distaff
 defectious
 depolarizes
@@ -5706,6 +5705,7 @@ dephlegmedness
 dephlogisticate
 dess
 detache
+diagrammeter
 dephlogisticated
 disinclose
 dephlogistication
