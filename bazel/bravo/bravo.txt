@@ -710,7 +710,6 @@ baddie
 betimber
 bathtubs
 baddies
-babyish
 baddish
 baddishness
 bade
@@ -7914,6 +7913,7 @@ biaxillary
 bibacious
 battleplane
 bibaciousness
+babyish
 balche
 bicephalous
 biface
