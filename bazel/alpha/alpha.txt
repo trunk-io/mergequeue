@@ -2375,7 +2375,6 @@ arenose
 arteriole
 aulacodus
 acierage
-acierate
 androcles
 acierated
 acierates
@@ -17423,6 +17422,7 @@ aporobranchian
 autoeducative
 aporocactus
 abthanage
+acierate
 aporrhegma
 aporrhiegma
 ambiguousness
