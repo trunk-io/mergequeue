@@ -9505,6 +9505,7 @@ groupoid
 galbraithian
 gisla
 groupwise
+guitarists
 goloch
 grouseberry
 groused
@@ -10301,7 +10302,6 @@ guitar
 gels
 grubhood
 guitarist
-guitarists
 ghazies
 geographize
 gasolenes
