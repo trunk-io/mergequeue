@@ -9233,6 +9233,7 @@ franzy
 facts
 fragrantness
 fabulists
+freq
 freeloaders
 frayedly
 frayedness
@@ -9790,7 +9791,6 @@ frenzy
 fabrics
 figurability
 feedingstuff
-freq
 frequent
 factored
 ferash
