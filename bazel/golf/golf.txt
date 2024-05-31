@@ -4261,7 +4261,6 @@ geographical
 gundogs
 gallicola
 grumly
-genecologist
 guttle
 glaswegian
 gymnophiona
@@ -9371,6 +9370,7 @@ gists
 grosses
 grossest
 grosshead
+genecologist
 grossly
 glees
 gainfulness
