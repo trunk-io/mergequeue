@@ -8842,6 +8842,7 @@ cryptovolcanic
 coccolithophorid
 chapellany
 chapelled
+corallike
 cimnel
 cobnut
 chapelling
@@ -27507,7 +27508,6 @@ covalency
 carpoptosis
 coriander
 calorize
-corallike
 chrysorin
 covalent
 covalently
