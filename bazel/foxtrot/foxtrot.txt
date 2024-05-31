@@ -1789,7 +1789,6 @@ foglietto
 fadingness
 freewill
 feathertop
-flagellation
 featherweed
 fulminancy
 frostless
@@ -11013,6 +11012,7 @@ farde
 forecatharping
 figural
 foredone
+flagellation
 frostiest
 flavory
 furnishings
