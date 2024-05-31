@@ -4206,7 +4206,6 @@ beswarms
 beardy
 blanchimeter
 bearding
-bruting
 bv
 beardom
 breastpiece
@@ -16977,6 +16976,7 @@ branchiobdella
 bulb
 bulbed
 bulbel
+bruting
 bedotted
 bulby
 bulbier
