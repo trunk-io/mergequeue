@@ -4401,6 +4401,7 @@ caryophyllin
 consecutiveness
 cytogenetics
 caryophyllous
+coccidae
 caryophyllus
 caryopilite
 caryopsides
@@ -17606,7 +17607,6 @@ coccerin
 corr
 coccic
 chrisoms
-coccidae
 coagency
 coccidial
 coccidian
