@@ -16630,7 +16630,6 @@ capsules
 cloisters
 cloisterwise
 cloistral
-concoagulation
 cloit
 cloke
 consigne
@@ -26402,6 +26401,7 @@ cling
 chalcedonian
 coteen
 coteful
+concoagulation
 cotehardie
 cotele
 curlers
