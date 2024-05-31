@@ -7555,7 +7555,6 @@ albumenised
 albumeniser
 albumenising
 albumenization
-albumenized
 autopathography
 albumenizer
 albumenoid
@@ -10852,6 +10851,7 @@ ammonia
 ammoniacs
 ammoniacum
 artly
+albumenized
 ankaramite
 ammoniated
 ammoniating
