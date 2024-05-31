@@ -4344,7 +4344,6 @@ enamelers
 epigrammatize
 elacolite
 etude
-enameling
 enamelist
 equiped
 enamelless
@@ -12711,6 +12710,7 @@ erie
 emparadise
 etoffe
 exoneural
+enameling
 electrowin
 exonian
 entrapping
