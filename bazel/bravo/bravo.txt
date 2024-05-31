@@ -7287,6 +7287,7 @@ bestiary
 backdating
 brazilians
 bur
+bangboard
 bestiarian
 basename
 bestiarist
@@ -17383,7 +17384,6 @@ beweeping
 boardmen
 bundler
 bundlerooted
-bangboard
 bundles
 bundts
 bundu
