@@ -2731,7 +2731,6 @@ fervence
 fortnightlies
 forerunnership
 firebote
-ferventness
 frighteningness
 furandi
 floodwall
@@ -9009,6 +9008,7 @@ frangibleness
 flaxwort
 fustian
 fractus
+ferventness
 feminists
 fowells
 fowent
