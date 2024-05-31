@@ -2861,7 +2861,6 @@ fitcher
 fades
 faunae
 fenestration
-filanders
 farmsteads
 fetching
 fetes
@@ -9940,6 +9939,7 @@ frictionless
 frictionproof
 festering
 forgiven
+filanders
 fastuously
 fewnesses
 fridges
