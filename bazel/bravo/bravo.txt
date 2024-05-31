@@ -5225,7 +5225,6 @@ befreight
 boob
 befret
 befretted
-boskiness
 burbank
 bluebead
 befretting
@@ -17674,6 +17673,7 @@ barrelfish
 bonsai
 brisket
 burka
+boskiness
 bellipotent
 burke
 burked
