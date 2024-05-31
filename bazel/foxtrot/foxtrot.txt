@@ -3497,6 +3497,7 @@ flacker
 fightable
 fingerable
 forel
+freeloader
 foreseason
 fighteress
 fanwort
@@ -5842,7 +5843,6 @@ flocci
 flagellate
 frustulose
 floccipend
-freeloader
 floccose
 fluvanna
 flaggers
