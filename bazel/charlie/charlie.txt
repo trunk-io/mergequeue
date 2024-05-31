@@ -18969,6 +18969,7 @@ collaborativeness
 claw
 collaborator
 collaborators
+cosigner
 cosmognosis
 calligrapher
 colladas
@@ -26124,7 +26125,6 @@ cosignatories
 centralist
 cosigned
 cretin
-cosigner
 cosigners
 chowderheadedness
 cithara
