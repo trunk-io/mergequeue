@@ -408,7 +408,6 @@ dairymaids
 dorsoanterior
 dichroic
 dairyman
-dairywoman
 dairywomen
 defensory
 dayroom
@@ -15008,6 +15007,7 @@ doggerelism
 doggerelist
 desperate
 doggerelizing
+dairywoman
 disrout
 dephilosophize
 decided
