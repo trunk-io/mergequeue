@@ -27566,7 +27566,6 @@ coveralled
 coveralls
 coraciiformes
 coverchief
-cerberean
 covercle
 coprolalia
 contemporaneously
@@ -29068,6 +29067,7 @@ crimson
 curtly
 crimsoned
 corkite
+cerberean
 credendum
 crimsonness
 crimsons
