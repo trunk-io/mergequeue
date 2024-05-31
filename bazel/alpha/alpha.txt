@@ -5074,7 +5074,6 @@ auriculate
 admissibleness
 aeropathy
 aeropause
-aerope
 aeroperitoneum
 appendages
 aeroperitonia
@@ -12751,6 +12750,7 @@ angerless
 angerly
 angerona
 angeronalia
+aerope
 angers
 angetenar
 angevin
