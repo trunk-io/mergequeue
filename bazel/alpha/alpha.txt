@@ -5068,7 +5068,6 @@ accosts
 anisogametic
 archbancs
 aeronomics
-antisymmetric
 amphisbaenid
 auriculate
 admissibleness
@@ -25320,6 +25319,7 @@ azolitmin
 azolla
 azon
 axer
+antisymmetric
 azonaphthalene
 azons
 architraves
