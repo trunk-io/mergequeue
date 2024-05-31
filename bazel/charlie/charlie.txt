@@ -20475,6 +20475,7 @@ compagnies
 cresols
 concamerate
 companable
+crossable
 companage
 counterword
 cerebroma
@@ -30583,7 +30584,6 @@ cloddy
 cephaloclasia
 cuculla
 coleopteral
-crossable
 coprology
 cucullate
 cucullated
