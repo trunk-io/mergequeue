@@ -6538,7 +6538,6 @@ cd
 cdf
 carid
 cdg
-cdr
 ce
 cesspool
 celibates
@@ -30169,6 +30168,7 @@ cruelness
 cruels
 communbus
 cruelty
+cdr
 cruent
 colmar
 cruentation
