@@ -11585,7 +11585,6 @@ anacamptics
 anacanthine
 anacanthini
 anacanthous
-anacard
 arsenicate
 anacardium
 anacathartic
@@ -19394,6 +19393,7 @@ areg
 areic
 aren
 arena
+anacard
 arenaria
 arenariae
 arenation
