@@ -5947,7 +5947,6 @@ gedact
 geaster
 glucagon
 gladify
-gate
 gynoecium
 grassless
 glucate
@@ -10031,6 +10030,7 @@ geochrony
 gv
 gonad
 gitanemuk
+gate
 gapeworm
 grassers
 gudesake
