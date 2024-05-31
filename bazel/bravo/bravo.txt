@@ -2437,7 +2437,6 @@ bardily
 brickiest
 barding
 bardings
-becalms
 bardlet
 bronchomotor
 bardlike
@@ -16689,6 +16688,7 @@ barmaid
 biguanide
 buckraming
 bassness
+becalms
 blowcase
 besayle
 boche
