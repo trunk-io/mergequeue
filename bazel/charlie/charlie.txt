@@ -6811,7 +6811,6 @@ celloid
 colubrids
 cathodofluorescence
 celloidin
-cellophane
 constative
 cellose
 cells
@@ -16282,6 +16281,7 @@ clinging
 clingingly
 clingstone
 clinia
+cellophane
 clinic
 clinical
 clinically

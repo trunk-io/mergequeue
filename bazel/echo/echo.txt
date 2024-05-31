@@ -1230,7 +1230,6 @@ elixed
 edriophthalmatous
 educability
 educables
-educand
 educatability
 eident
 elkhounds
@@ -13253,6 +13252,7 @@ epomophorus
 explodes
 exploit
 exploitatory
+educand
 exploited
 ensindon
 exploitee
