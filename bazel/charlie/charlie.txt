@@ -4217,6 +4217,7 @@ carefull
 carefuller
 carefullest
 carefully
+chemosensitivities
 covenant
 characteristic
 coauthored
@@ -9940,7 +9941,6 @@ crystallisation
 chemoreflex
 chemoresistance
 chemosensitive
-chemosensitivities
 chemoserotherapy
 chemoses
 conformate
