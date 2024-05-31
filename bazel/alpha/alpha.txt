@@ -6520,7 +6520,6 @@ agrotype
 agrotis
 agrufe
 anerly
-assiduate
 arguta
 asthenopia
 apneas
@@ -10304,6 +10303,7 @@ ameiosis
 alloying
 ameiuridae
 ameiva
+assiduate
 amel
 anemious
 acop
