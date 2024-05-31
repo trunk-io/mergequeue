@@ -2034,7 +2034,6 @@ baning
 banish
 banished
 banisher
-banishing
 banishment
 bursting
 banyuls
@@ -16208,6 +16207,7 @@ brownouts
 brachysclereid
 brownstone
 brownstones
+banishing
 browntail
 belgravia
 brownweed
