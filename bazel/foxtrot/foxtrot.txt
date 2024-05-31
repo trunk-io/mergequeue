@@ -2531,7 +2531,6 @@ fallibly
 fernery
 foremessenger
 fry
-fernyear
 fernlike
 flustrum
 fernshaw
@@ -10172,6 +10171,7 @@ frivolities
 fluency
 frivolling
 fusobteria
+fernyear
 foulness
 frivolous
 frivolousness
