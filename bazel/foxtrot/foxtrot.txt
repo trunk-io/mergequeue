@@ -31,6 +31,7 @@ fieldmen
 floey
 fibrolitic
 fishify
+fanos
 frostfishes
 fabricates
 fabricating
@@ -4144,7 +4145,6 @@ filaria
 fucaceae
 flukeless
 fluorbenzene
-fanos
 fortifyingly
 frogmouth
 firebrick
