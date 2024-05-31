@@ -15853,7 +15853,6 @@ chirotype
 claviculus
 clavierist
 claviger
-claviharp
 clavilux
 coy
 claviole
@@ -28511,6 +28510,7 @@ creaturehood
 circularity
 creaturely
 creatureling
+claviharp
 creatures
 carapo
 colobin
