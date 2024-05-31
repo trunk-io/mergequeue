@@ -895,7 +895,6 @@ gobemouche
 grogginess
 guarding
 greedygut
-grammaticality
 gamelang
 gonagia
 gamelans
@@ -5623,6 +5622,7 @@ gaupus
 genuineness
 gently
 guttiferous
+grammaticality
 globes
 globetrotters
 gangplanks
