@@ -1085,6 +1085,7 @@ fisc
 farmtown
 floricomous
 farnesol
+forints
 farnesols
 frotting
 fogas
@@ -8265,7 +8266,6 @@ fertilized
 fuddled
 foryield
 furnished
-forints
 facade
 forisfamiliate
 forisfamiliation
