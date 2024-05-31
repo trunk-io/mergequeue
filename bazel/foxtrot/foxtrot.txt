@@ -6794,7 +6794,6 @@ foldy
 folding
 foraminiferan
 fikery
-foldout
 folds
 folgerite
 fenceplay
@@ -7629,6 +7628,7 @@ fables
 fasciolidae
 flannelet
 factualism
+foldout
 foreguess
 flammant
 fleshlily
