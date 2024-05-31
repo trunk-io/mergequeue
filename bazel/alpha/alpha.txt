@@ -1902,6 +1902,7 @@ acervation
 acervative
 acervuline
 acervulus
+astomatal
 anacoluthia
 acescence
 anemophilous
@@ -17460,7 +17461,6 @@ apostatic
 apostatical
 apostatically
 apostatise
-astomatal
 apostatism
 agathaea
 arrivance
