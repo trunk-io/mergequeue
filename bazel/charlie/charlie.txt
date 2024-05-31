@@ -3973,7 +3973,6 @@ carcinolysin
 carcinolytic
 carcinological
 carcinologist
-carcinoma
 carcinomas
 creameryman
 carcinomata
@@ -12573,6 +12572,7 @@ chomped
 chromonematal
 chromonemic
 cataphracti
+carcinoma
 clunisian
 chromoparous
 chromophage
