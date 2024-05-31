@@ -5384,7 +5384,6 @@ geoponics
 glycerophosphoric
 glycosyl
 glyceroxide
-glycide
 galoshed
 glycinin
 goozle
@@ -5612,6 +5611,7 @@ greasepaint
 granulite
 grandmother
 gaupus
+glycide
 genuineness
 gently
 guttiferous
