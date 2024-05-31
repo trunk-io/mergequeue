@@ -5229,7 +5229,6 @@ danceress
 directives
 doctrinalist
 dyings
-daemon
 decameter
 denitrator
 doghole
@@ -11604,6 +11603,7 @@ disconsolation
 divas
 digester
 dunkle
+daemon
 demographers
 downlinks
 dysoxidizable
