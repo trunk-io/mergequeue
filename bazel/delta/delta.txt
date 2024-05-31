@@ -3620,7 +3620,6 @@ demandant
 degassing
 disappears
 dunnesses
-degaussing
 degelatinize
 destituting
 diatonous
@@ -15669,6 +15668,7 @@ dogsleds
 dopa
 determine
 dopatta
+degaussing
 dopchick
 dopebook
 discased
