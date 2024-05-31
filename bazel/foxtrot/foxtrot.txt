@@ -289,7 +289,6 @@ forward
 faeculence
 fragmentisation
 flourished
-froren
 frayne
 forethinker
 faenus
@@ -9293,6 +9292,7 @@ frances
 franchise
 franchisee
 franchisees
+froren
 federalizations
 foulings
 fertil
