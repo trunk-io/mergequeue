@@ -3985,7 +3985,6 @@ emotionize
 ectopic
 excitors
 eristalis
-emotions
 entitative
 emolument
 esthete
@@ -10519,6 +10518,7 @@ etymologizable
 emerited
 etymologization
 eurypteroid
+emotions
 elong
 eviscerated
 emmew
