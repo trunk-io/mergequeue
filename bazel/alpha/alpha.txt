@@ -5174,7 +5174,6 @@ aesculus
 abiogenetic
 aesir
 acrosarc
-almightiness
 aesop
 aesopian
 aestethic
@@ -20493,6 +20492,7 @@ autoptical
 arenae
 artery
 arteria
+almightiness
 associating
 amplifications
 arteriac
