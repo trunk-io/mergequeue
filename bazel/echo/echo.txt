@@ -7662,7 +7662,6 @@ epicoeliac
 etiologies
 epicoeloma
 epicoelous
-elephas
 epicolic
 epicondyle
 endromididae
@@ -13530,6 +13529,7 @@ exsolving
 epochs
 entosclerite
 eloquence
+elephas
 exspuition
 energies
 eruditeness
