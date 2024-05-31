@@ -6261,6 +6261,7 @@ dermamycosis
 dactylopodite
 dermanaplasty
 dermapteran
+daps
 dermapterous
 dermas
 dirgler
@@ -6602,7 +6603,6 @@ disulphone
 deflectometer
 delimits
 desectionalize
-daps
 desegmentation
 desegmented
 damoiselle
