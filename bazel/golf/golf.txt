@@ -2848,7 +2848,6 @@ germanism
 gipped
 grabbed
 gnathopodous
-grocerwise
 genre
 gramophonist
 genro
@@ -9719,6 +9718,7 @@ gambades
 greyhounds
 guards
 geniohyoid
+grocerwise
 gemmule
 glossaries
 guying
