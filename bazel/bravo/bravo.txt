@@ -3383,7 +3383,6 @@ baskish
 basnat
 boller
 basoche
-burgoos
 bunchberry
 basocyte
 basoga
@@ -9169,6 +9168,7 @@ biopotential
 biramose
 bioprecipitation
 biopsy
+burgoos
 biopsic
 bailliage
 benightmare
