@@ -6427,6 +6427,7 @@ benzalphenylhydrazone
 benzalphthalide
 boiloff
 benzamide
+benzoxate
 benzamido
 betail
 benzamine
@@ -6539,7 +6540,6 @@ benzothiophene
 benzotrichloride
 buster
 benzotrifluoride
-benzoxate
 bolection
 benzoxyacetic
 benzpinacone
