@@ -595,6 +595,7 @@ gimpy
 gallicize
 gallicizer
 gobletful
+golfed
 garau
 gutturize
 gardeners
@@ -1300,7 +1301,6 @@ glycerogel
 gooral
 garbler
 gorilline
-golfed
 groped
 gewgawry
 grammatology
