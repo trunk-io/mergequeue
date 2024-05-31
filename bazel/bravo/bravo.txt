@@ -771,7 +771,6 @@ badlands
 buba
 bat
 badman
-badmen
 brushcut
 besodden
 badmouthed
@@ -4704,6 +4703,7 @@ bbls
 bedevilment
 beaned
 bioplasmic
+badmen
 bedewed
 bedews
 beltmaking
