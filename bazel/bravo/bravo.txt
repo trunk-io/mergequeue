@@ -4616,6 +4616,7 @@ befogged
 blastodisk
 bed
 bater
+blithely
 bool
 bedabble
 beagles
@@ -11018,7 +11019,6 @@ bibracteolate
 blit
 blithe
 biland
-blithely
 blithemeat
 backheel
 brevetcy
