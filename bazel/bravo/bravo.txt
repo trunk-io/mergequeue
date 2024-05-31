@@ -1186,7 +1186,6 @@ beltmen
 brakehand
 bajree
 bajury
-bunco
 bakairi
 bakal
 biasteric
@@ -4670,6 +4669,7 @@ buntal
 bryophyte
 bedcovers
 blader
+bunco
 bromos
 bucklered
 bedding
