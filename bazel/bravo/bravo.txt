@@ -3356,7 +3356,6 @@ bandurria
 bathymetric
 basketmaker
 basketmaking
-biotope
 basketries
 banyai
 brained
@@ -5969,6 +5968,7 @@ bellowslike
 belted
 bellowsmaking
 bellpull
+biotope
 burhead
 bells
 belltail
