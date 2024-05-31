@@ -9902,7 +9902,6 @@ counteraverment
 cornroot
 coprophilic
 copperytailed
-chemistry
 chemistries
 chemists
 countess
@@ -14291,6 +14290,7 @@ circularism
 circularities
 clink
 caulerpa
+chemistry
 colanders
 circularization
 circularizer
