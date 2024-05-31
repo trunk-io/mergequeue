@@ -463,6 +463,7 @@ gierfalcon
 galleyman
 gonimoblast
 glanced
+graminin
 galenites
 galenobismutite
 galenoid
@@ -10753,7 +10754,6 @@ giber
 gutbucket
 guiders
 gloam
-graminin
 glycerinate
 gotos
 gomerels
