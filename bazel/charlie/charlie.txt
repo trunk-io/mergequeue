@@ -8030,6 +8030,7 @@ contes
 cf
 cofeatures
 cfd
+cesurae
 ch
 cha
 colloquized
@@ -8559,7 +8560,6 @@ chockman
 champagnize
 cypselae
 champagnized
-cesurae
 champain
 champak
 champaka
