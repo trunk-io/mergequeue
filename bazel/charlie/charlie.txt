@@ -20801,7 +20801,6 @@ compliancy
 consimilarity
 compliant
 compliantly
-compiling
 cupcake
 complicacy
 ceramiaceae
@@ -27644,6 +27643,7 @@ convive
 cyclopaedic
 cowbanes
 cariosity
+compiling
 corticosteroid
 cowberry
 casimires
