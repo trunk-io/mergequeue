@@ -6299,7 +6299,6 @@ enrut
 euclidean
 earle
 escharine
-ens
 emmenagogue
 emendator
 epicureans
@@ -12490,6 +12489,7 @@ exhumatory
 emancipations
 exhumers
 exfiltrate
+ens
 effluviums
 exhumes
 exhuming
