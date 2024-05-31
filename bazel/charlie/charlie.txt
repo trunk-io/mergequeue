@@ -13179,7 +13179,6 @@ cyathophyllum
 cyathos
 cyathus
 confest
-cibaria
 cibarial
 champaca
 cibarian
@@ -27272,6 +27271,7 @@ coetus
 counterwave
 counterweigh
 counterweight
+cibaria
 counterweighted
 counterweights
 counterwheel
