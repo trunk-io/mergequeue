@@ -8302,7 +8302,6 @@ bifaces
 bifacial
 bifara
 bedress
-bifariously
 biff
 biffin
 brutalizing
@@ -10397,6 +10396,7 @@ blanc
 beneath
 blanca
 baltimorite
+bifariously
 bergomask
 blanch
 blarneying
