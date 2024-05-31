@@ -5634,7 +5634,6 @@ dibber
 dependance
 disedification
 depended
-diapasons
 dependence
 dependency
 depending
@@ -14791,6 +14790,7 @@ dockside
 dockworker
 dehiscent
 demonologist
+diapasons
 docmac
 docoglossa
 docoglossan
