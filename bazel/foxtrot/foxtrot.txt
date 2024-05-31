@@ -12,7 +12,6 @@ flagellators
 footsoldier
 fabled
 fablemaker
-fistuliform
 fablemongering
 fumigator
 fuder
@@ -5031,6 +5030,7 @@ fishermen
 forstall
 friulian
 folial
+fistuliform
 flashes
 fishiest
 flashgun
