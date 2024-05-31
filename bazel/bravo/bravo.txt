@@ -745,6 +745,7 @@ baddy
 badging
 badgir
 banksman
+bifrost
 badhan
 badiaga
 breathy
@@ -8346,7 +8347,6 @@ biformed
 berthage
 biformity
 bifront
-bifrost
 bifunctional
 bhavani
 bifurcated
