@@ -3946,7 +3946,6 @@ bidding
 benzines
 bawneen
 bawra
-bestial
 barrow
 bullyable
 bawsint
@@ -11493,6 +11492,7 @@ bluffers
 beldam
 bluffest
 balladmonger
+bestial
 bluffing
 bluffly
 baba
