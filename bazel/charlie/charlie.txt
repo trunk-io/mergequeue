@@ -22589,7 +22589,6 @@ conjuration
 conjurations
 conjurator
 cesar
-conjured
 conjurement
 canel
 conjurers
@@ -27794,6 +27793,7 @@ coxcomby
 coxcombic
 coxcombically
 controlment
+conjured
 cenosite
 coxcombity
 coxcombries
