@@ -7899,7 +7899,6 @@ disard
 desmocyte
 dewaxed
 did
-dewaxing
 dewberry
 deadtongue
 dihydrogen
@@ -10029,6 +10028,7 @@ dynamically
 debarkations
 defailance
 diselectrify
+dewaxing
 dynamism
 deled
 dolthead
