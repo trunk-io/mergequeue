@@ -856,6 +856,7 @@ baggager
 benzidin
 baggala
 bagganet
+banyoro
 baggara
 brevis
 beseechingly
@@ -11495,7 +11496,6 @@ balladmonger
 bluffing
 bluffly
 baba
-banyoro
 bluffness
 bluffs
 budder
