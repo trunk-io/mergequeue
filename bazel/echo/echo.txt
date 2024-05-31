@@ -208,6 +208,7 @@ earthwall
 earthwards
 earthworks
 ethmovomer
+emicant
 enddamaged
 ebriate
 earthworms
@@ -6317,7 +6318,6 @@ ensanguine
 evisite
 estrangements
 equiponderating
-emicant
 ensate
 eversporting
 ensconced
