@@ -10278,7 +10278,6 @@ bibby
 blackness
 bebump
 bilged
-blackout
 broomwort
 blackpatch
 beauclerk
@@ -12998,6 +12997,7 @@ boracium
 boracous
 budgeting
 borage
+blackout
 bombarde
 boraginaceae
 baptismally
