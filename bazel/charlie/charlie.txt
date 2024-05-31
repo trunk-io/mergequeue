@@ -9702,7 +9702,6 @@ cheesecake
 crees
 cheesecloth
 cheesecloths
-cheesecurd
 cheesecutter
 cheesed
 caramba
@@ -24123,6 +24122,7 @@ convergence
 coiling
 convergences
 convergency
+cheesecurd
 columbary
 convergent
 chemoceptor
