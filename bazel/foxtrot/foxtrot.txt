@@ -81,7 +81,6 @@ flocklike
 filching
 fisticuffs
 faces
-facesaving
 flattening
 frizettes
 flocks
@@ -2192,6 +2191,7 @@ feriae
 fraela
 flatterdock
 fraudproof
+facesaving
 fligger
 femorocele
 fallibilism
