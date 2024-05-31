@@ -7127,7 +7127,6 @@ diagnostic
 destruct
 destructibility
 devitaminize
-destructibleness
 dicoccous
 dimedon
 destruction
@@ -14820,6 +14819,7 @@ debituminization
 desiliconize
 doctress
 developement
+destructibleness
 discombobulation
 doctrinairism
 dolcan
