@@ -15151,6 +15151,7 @@ civ
 carbonado
 civet
 civetone
+chipyard
 civets
 civy
 carcasing
@@ -23966,7 +23967,6 @@ contumacy
 ciceronic
 contumacious
 contumaciousness
-chipyard
 contumacities
 cantel
 contumely
