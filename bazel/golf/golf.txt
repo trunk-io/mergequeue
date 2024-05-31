@@ -2404,7 +2404,6 @@ gavials
 geldability
 griffinish
 goodnesses
-galopin
 gelder
 grisly
 gnabble
@@ -8400,6 +8399,7 @@ glauconitization
 gratulated
 gigeria
 goner
+galopin
 gametoid
 gratulation
 gravitations
