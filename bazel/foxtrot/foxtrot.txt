@@ -769,7 +769,6 @@ forestaff
 fragrance
 fickly
 fixures
-foretack
 fandangle
 fandango
 fallows
@@ -6304,6 +6303,7 @@ flintlocks
 finned
 fistnote
 funori
+foretack
 fribblery
 fettling
 focometer
