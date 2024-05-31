@@ -3234,7 +3234,6 @@ elided
 epactal
 elusive
 entrench
-endocardiac
 ethylenation
 elusiveness
 elusory
@@ -4302,6 +4301,7 @@ emunctory
 electroencephalographic
 enlay
 expectedly
+endocardiac
 epicenes
 emunctories
 epigraphical
