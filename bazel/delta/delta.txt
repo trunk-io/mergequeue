@@ -9448,6 +9448,7 @@ diffusions
 diffusive
 diffusors
 diner
+disbench
 diformin
 diether
 deactivator
@@ -16079,7 +16080,6 @@ degenerations
 douceness
 despitous
 doucepere
-disbench
 douceur
 douche
 douches
