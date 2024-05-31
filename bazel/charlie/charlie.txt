@@ -23384,6 +23384,7 @@ consummator
 consumo
 consumpted
 consumptible
+croupon
 consumptional
 consumptions
 consumptive
@@ -30016,7 +30017,6 @@ croupiers
 croupiest
 clowned
 croupiness
-croupon
 croupous
 croups
 crouse
