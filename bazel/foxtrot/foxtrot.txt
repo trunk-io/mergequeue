@@ -1233,6 +1233,7 @@ fash
 friborgh
 fashery
 fasherie
+fantaseid
 fusilier
 fashing
 fiddley
@@ -4897,7 +4898,6 @@ flong
 foremarch
 fermentitious
 feldsher
-fantaseid
 flaminical
 fintadores
 frenulum
