@@ -9124,7 +9124,6 @@ burelage
 biomes
 biometric
 biennials
-biometricist
 beavery
 babelike
 biometries
@@ -10827,6 +10826,7 @@ bleo
 befuddlers
 blepharadenitis
 blepharanthracosis
+biometricist
 bambos
 blepharemphysema
 bkpt
