@@ -2870,6 +2870,7 @@ acrometer
 armorproof
 acromia
 archostenosis
+autocamping
 acromicria
 acromimia
 acromioclavicular
@@ -23909,7 +23910,6 @@ anticipatory
 aface
 autocamper
 apostatised
-autocamping
 autocar
 autocarist
 antiwar
