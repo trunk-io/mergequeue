@@ -5329,7 +5329,6 @@ enmagazine
 einkanter
 explicators
 endostosis
-endostraca
 epanody
 economiser
 endostracum
@@ -11300,6 +11299,7 @@ enclothe
 evangelism
 evangelistary
 evangelistaries
+endostraca
 enamor
 evangelistarium
 enthronized
