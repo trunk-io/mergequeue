@@ -1188,6 +1188,7 @@ foredestiny
 fluidics
 federalese
 fascinating
+flinkite
 fascinatingly
 fascination
 fascinator
@@ -5619,7 +5620,6 @@ fablemonger
 fadding
 funded
 flings
-flinkite
 forsung
 fertilisability
 flint
