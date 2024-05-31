@@ -1454,6 +1454,7 @@ fattier
 featherweight
 flannelmouths
 false
+fullery
 fatties
 fattiness
 funis
@@ -10921,7 +10922,6 @@ fossarian
 flambe
 filmically
 forsworn
-fullery
 fulleries
 flo
 fictile
