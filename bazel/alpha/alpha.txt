@@ -13210,7 +13210,6 @@ animalism
 aerial
 animalist
 algebar
-animalistic
 animalivora
 animalivore
 animalivorous
@@ -13354,6 +13353,7 @@ anisoyl
 anorexia
 archit
 aged
+animalistic
 anisoin
 articulation
 anisoles
