@@ -2653,7 +2653,6 @@ barkiest
 birdhouses
 barking
 barkinji
-barkless
 barklyite
 barkometer
 bescorch
@@ -12848,6 +12847,7 @@ baritonal
 boomboat
 boomboxes
 buttling
+barkless
 barmy
 boomed
 boomeranged
