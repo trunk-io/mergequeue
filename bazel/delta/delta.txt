@@ -6538,6 +6538,7 @@ descensories
 dilemi
 descent
 dekameter
+dispatcher
 descents
 durables
 drawnet
@@ -12998,7 +12999,6 @@ dispatch
 dispatched
 duckish
 defiguration
-dispatcher
 disesteeming
 dispatches
 dispathy
