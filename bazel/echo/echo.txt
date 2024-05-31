@@ -2981,6 +2981,7 @@ equipede
 endodontic
 explicit
 encephalopsychesis
+equipaga
 exister
 exterraneous
 elymi
@@ -13787,7 +13788,6 @@ enregistry
 endebt
 extrabronchial
 extrabureau
-equipaga
 expressionism
 extracardial
 epithelialize
