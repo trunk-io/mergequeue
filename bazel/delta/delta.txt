@@ -4485,6 +4485,7 @@ drawk
 demeanor
 dayshine
 dactylograph
+drawtongs
 disallowableness
 disembark
 demeanored
@@ -16882,7 +16883,6 @@ demicaponier
 dromedaries
 dribbet
 dinoceratid
-drawtongs
 defortify
 drawtube
 decanically

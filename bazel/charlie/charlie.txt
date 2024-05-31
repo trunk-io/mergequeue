@@ -8208,7 +8208,6 @@ chaine
 chainer
 chainless
 craspedon
-chainlike
 chainmaker
 chainmaking
 chiropodist
@@ -14401,6 +14400,7 @@ conrector
 circumgenital
 clubhouse
 circumgestation
+chainlike
 circumgyrate
 circumgyratory
 camisado
