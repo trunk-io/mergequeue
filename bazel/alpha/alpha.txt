@@ -2851,6 +2851,7 @@ acrogen
 acrogenous
 ashthroat
 arkosic
+anesthetically
 acrolein
 alcaligenes
 accidies
@@ -12610,7 +12611,6 @@ anesthesiologies
 anesthesiologists
 angelophany
 anesthesis
-anesthetically
 anesthetics
 anesthetization
 anesthetize
