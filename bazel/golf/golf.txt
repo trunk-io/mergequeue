@@ -5863,7 +5863,6 @@ giantisms
 goings
 grimmish
 gabeller
-glosts
 glottal
 gloomy
 grapsoid
@@ -9162,6 +9161,7 @@ genocides
 gebur
 gooserumped
 grisliness
+glosts
 giblet
 grison
 gametogeny
