@@ -2542,7 +2542,6 @@ echoist
 exactiveness
 electromagnetism
 endosmose
-electromagnetist
 escalloping
 egremoigne
 eyesores
@@ -9080,6 +9079,7 @@ endopleurite
 eriophyllous
 eryopsid
 eriosoma
+electromagnetist
 erythromycin
 exulted
 ethanethial
