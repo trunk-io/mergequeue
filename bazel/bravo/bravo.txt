@@ -2911,6 +2911,7 @@ barreled
 barreleyes
 belap
 barrelet
+bienvenu
 barrelfish
 bookend
 barrelfishes
@@ -8282,7 +8283,6 @@ bientt
 benefice
 balotade
 bowwoman
-bienvenu
 bienvenue
 boosters
 bier

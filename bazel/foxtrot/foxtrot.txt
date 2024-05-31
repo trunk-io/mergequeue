@@ -1457,7 +1457,6 @@ flannelmouths
 false
 fatties
 fattiness
-funis
 fiftyfold
 fattishness
 fattrels
@@ -7078,6 +7077,7 @@ footpath
 foolscaps
 fractionator
 fooner
+funis
 formalizing
 flaker
 footage
