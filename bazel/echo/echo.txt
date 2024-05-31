@@ -1140,6 +1140,7 @@ edictum
 edicule
 echolalia
 edificate
+emptied
 echinology
 edification
 exfigure
@@ -4229,7 +4230,6 @@ emancipatress
 equidominant
 emptiable
 euros
-emptied
 exhorter
 enghle
 emptier
