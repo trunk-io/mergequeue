@@ -2631,7 +2631,6 @@ bunglesome
 bushie
 barkey
 briers
-barken
 beknights
 barkentine
 barkentines
@@ -8699,6 +8698,7 @@ billety
 billets
 billette
 berylline
+barken
 broomtail
 brauneberger
 billetwood
