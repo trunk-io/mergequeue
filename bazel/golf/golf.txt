@@ -4728,7 +4728,6 @@ glossae
 gillhooter
 glycose
 guilder
-gyroceran
 gramoches
 golliwogg
 gorkhali
@@ -6109,6 +6108,7 @@ glutinative
 gimballing
 glutinosity
 glutinous
+gyroceran
 granuloadipose
 gropers
 glutose

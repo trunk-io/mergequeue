@@ -265,7 +265,6 @@ dago
 damaskin
 dagoba
 dagobas
-dagomba
 dagswain
 daguerreotype
 daguerreotyped
@@ -3708,6 +3707,7 @@ driveways
 degradingly
 dawen
 durationless
+dagomba
 degraduate
 drupelet
 digitinervate
