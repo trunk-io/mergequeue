@@ -6657,7 +6657,6 @@ fofarraw
 flanger
 falderol
 fog
-fafnir
 fraticelli
 faqirs
 feted
@@ -10104,6 +10103,7 @@ frisettes
 fiercly
 fiddlehead
 footnotes
+fafnir
 fishwife
 fetalism
 flowcontrol
