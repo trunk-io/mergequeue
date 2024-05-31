@@ -517,7 +517,6 @@ fresher
 funambulant
 folium
 falcons
-folkboat
 falculate
 falcunculus
 falderal
@@ -1651,6 +1650,7 @@ foveal
 funniment
 frowned
 faxed
+folkboat
 futilities
 forestaffs
 faxes
