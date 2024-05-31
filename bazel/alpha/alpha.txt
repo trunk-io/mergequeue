@@ -10985,7 +10985,6 @@ amomis
 autosled
 archont
 antidotism
-antiheroism
 amorado
 amoraim
 amoral
@@ -20386,6 +20385,7 @@ arrowroots
 arrows
 arrowsmith
 arrowworm
+antiheroism
 arroz
 arsacidan
 arsenic
