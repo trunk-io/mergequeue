@@ -4364,6 +4364,7 @@ carillons
 carina
 carinae
 carinal
+cavum
 carinas
 cheiropompholyx
 carinate
@@ -19883,7 +19884,6 @@ circulates
 cometary
 cometaria
 cometh
-cavum
 cabulla
 cometlike
 cometography
