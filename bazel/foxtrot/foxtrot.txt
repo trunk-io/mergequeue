@@ -2144,7 +2144,6 @@ fluoresage
 felled
 fellest
 fattener
-fellfare
 felly
 fidepromissor
 flashily
@@ -9366,6 +9365,7 @@ fent
 foxproof
 frankfurt
 floatiest
+fellfare
 frostbiting
 fatiguabilities
 fleecier
