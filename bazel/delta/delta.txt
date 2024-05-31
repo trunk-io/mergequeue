@@ -3407,7 +3407,6 @@ diddlers
 deflagrable
 decolor
 deflagrating
-dithionate
 deflagration
 deflagrator
 deflate
@@ -11263,6 +11262,7 @@ duckwheat
 disarm
 disgracers
 discants
+dithionate
 distributional
 downgrowth
 dimmable
