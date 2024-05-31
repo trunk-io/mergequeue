@@ -639,7 +639,6 @@ caesar
 caesardom
 caesarean
 caesareanize
-compilatory
 caesareans
 campagnol
 connubialism
@@ -2109,6 +2108,7 @@ camphoid
 camphol
 campholic
 campholide
+compilatory
 camphols
 camphor
 camphoraceous

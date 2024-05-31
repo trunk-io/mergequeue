@@ -9063,7 +9063,6 @@ flavors
 foxglove
 formably
 forswears
-foxgloves
 fehmic
 foxhole
 flexionless
@@ -10345,6 +10344,7 @@ foreladies
 flatmate
 footgeld
 firs
+foxgloves
 frontals
 frontbencher
 frontcourt
