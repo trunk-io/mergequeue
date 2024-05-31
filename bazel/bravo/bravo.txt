@@ -1777,7 +1777,6 @@ baluchithere
 buses
 biretta
 balun
-balustrading
 balwarra
 balzarine
 bam
@@ -5402,6 +5401,7 @@ ballroom
 backswimmer
 blossomry
 begone
+balustrading
 begonia
 bridalty
 begoniaceae
