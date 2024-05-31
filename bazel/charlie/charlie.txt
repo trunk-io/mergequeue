@@ -11015,6 +11015,7 @@ chiromyidae
 chiromys
 chiron
 chironym
+coan
 chironomid
 chironomidae
 caissoned
@@ -17317,7 +17318,6 @@ cinnamoned
 coamiable
 coamings
 conflux
-coan
 cotangential
 coanimate
 concretes
