@@ -889,7 +889,6 @@ gamelan
 girlfriend
 garpikes
 globigerina
-gemologies
 greeing
 gobemouche
 grogginess
@@ -5448,6 +5447,7 @@ glycosidase
 gaultherine
 generalisation
 glycosides
+gemologies
 goiters
 glutelin
 glyphographer
