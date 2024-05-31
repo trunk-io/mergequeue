@@ -2032,7 +2032,6 @@ ektexine
 elabor
 elaborate
 episternite
-evictees
 emulsic
 eradiculose
 elaborating
@@ -7741,6 +7740,7 @@ evidentiary
 effervescible
 epidemicalness
 epidemicity
+evictees
 etceteras
 epidemiography
 ejulation
