@@ -519,7 +519,6 @@ folium
 falcons
 folkboat
 falculate
-falcunculus
 falderal
 falderals
 familiarity
@@ -5487,6 +5486,7 @@ flybelt
 foolhardier
 featherers
 forepad
+falcunculus
 flippery
 flyby
 fossils
