@@ -4770,7 +4770,6 @@ extend
 endosporously
 enclosers
 eggplant
-epithalamial
 enclosures
 excentral
 elopers
@@ -6563,6 +6562,7 @@ enteral
 enteralgia
 embiotocoid
 enterate
+epithalamial
 enterectomy
 echelons
 exuviates
