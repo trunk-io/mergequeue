@@ -1021,7 +1021,6 @@ embryulci
 eponymic
 endosporium
 edaciously
-edaciousness
 excavatory
 equine
 edacities
@@ -13730,6 +13729,7 @@ exceptionable
 eeler
 extirpatory
 effervescence
+edaciousness
 extispex
 entases
 effusely
