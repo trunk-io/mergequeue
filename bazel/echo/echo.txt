@@ -257,7 +257,6 @@ euclases
 encashed
 endgame
 expiries
-exospores
 easterling
 ecrevisse
 epeirogenic
@@ -4644,6 +4643,7 @@ enchytrae
 etherolate
 enchytraeid
 episodes
+exospores
 emceing
 enchytraeus
 eradicative
