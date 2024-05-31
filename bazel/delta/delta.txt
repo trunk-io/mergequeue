@@ -5426,7 +5426,6 @@ dentistry
 dentists
 deproceduring
 dentition
-dilating
 dentolabial
 dentolingual
 dielytra
@@ -18628,6 +18627,7 @@ diamondized
 denunciatively
 drowsily
 disubstitution
+dilating
 duvet
 discountenanced
 disseisor
