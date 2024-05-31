@@ -1402,7 +1402,6 @@ geoside
 galloner
 glorifier
 gervao
-gibier
 garlion
 grassant
 glycolic
@@ -3719,6 +3718,7 @@ genom
 gutturotetany
 ghorkhar
 ghost
+gibier
 graphomaniac
 gnathonism
 ghostdom
