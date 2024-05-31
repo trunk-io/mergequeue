@@ -18291,7 +18291,6 @@ capelets
 coffeehouse
 coffeehoused
 coffeehouses
-cavalry
 coffeeleaf
 coffeeman
 coquinas
@@ -26848,6 +26847,7 @@ chutzpah
 counterdistinguish
 counterdoctrine
 chasmogamy
+cavalry
 counterdogmatism
 counterdraft
 chylopoietic
