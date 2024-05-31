@@ -2399,7 +2399,6 @@ blastomycin
 barrooms
 basis
 barbwire
-bibliogenesis
 barbwires
 bullpout
 betatter
@@ -6894,6 +6893,7 @@ berthierite
 berthing
 berthold
 bradypodoid
+bibliogenesis
 bertie
 backlins
 bertolonia
