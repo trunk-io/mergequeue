@@ -1533,6 +1533,7 @@ deaconship
 deactivate
 discoglossid
 dartman
+deprostrate
 darbyite
 deactivates
 discontinuing
@@ -6017,7 +6018,6 @@ duodecimo
 deprogrammings
 deprograms
 deprome
-deprostrate
 deducibleness
 doctorlike
 doubledamn
