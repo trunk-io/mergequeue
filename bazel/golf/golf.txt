@@ -586,6 +586,7 @@ goffle
 gowan
 graptolitic
 glycoprotein
+grosses
 gallicisms
 gimpy
 gallicize
@@ -9363,7 +9364,6 @@ gyrosyn
 granma
 griots
 gists
-grosses
 grossest
 grosshead
 genecologist
