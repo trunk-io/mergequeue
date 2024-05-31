@@ -5883,7 +5883,6 @@ flogmaster
 forjesket
 flogs
 famulli
-fatstock
 freyr
 ferrary
 flokite
@@ -11178,6 +11177,7 @@ fungia
 fungian
 fthm
 fungibility
+fatstock
 fungible
 fideists
 fungicidal
