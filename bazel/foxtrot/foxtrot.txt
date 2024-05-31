@@ -1876,6 +1876,7 @@ fecundator
 fuligula
 feedwater
 fecundity
+fieldman
 falcinellus
 fecundize
 fourdrinier
@@ -4053,7 +4054,6 @@ finland
 finlander
 fatso
 finless
-fieldman
 flatbottom
 filelike
 farcist
