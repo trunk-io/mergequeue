@@ -2077,6 +2077,7 @@ brinkless
 bankrolled
 bankrolling
 boatsman
+bacchante
 bankrupcy
 bankrupt
 bosporan
@@ -9788,7 +9789,6 @@ bedpad
 bisquette
 bissabol
 byssaceous
-bacchante
 blepharodyschroia
 byssal
 boondoggle
