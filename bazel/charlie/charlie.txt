@@ -3651,6 +3651,7 @@ contumacity
 cognates
 carapacic
 carapax
+chemoreception
 coxing
 carapaxes
 coachable
@@ -9929,7 +9930,6 @@ chemoprophylactic
 chemoprophylaxis
 cruiser
 condensative
-chemoreception
 chemoreceptive
 chemoreceptivity
 chemoreceptivities

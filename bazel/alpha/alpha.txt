@@ -2938,6 +2938,7 @@ arpeggiated
 acropodium
 adeps
 acropoleis
+aphetic
 acuminated
 acropolitan
 acropora
@@ -16863,7 +16864,6 @@ aphesis
 apheta
 admirer
 accidentals
-aphetic
 aphanitic
 aphetize
 armours
