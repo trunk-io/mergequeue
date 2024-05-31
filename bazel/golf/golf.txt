@@ -1398,7 +1398,6 @@ guls
 greenalite
 garbling
 garlandry
-galvanist
 garlic
 glycolylurea
 garliclike
@@ -4046,6 +4045,7 @@ gigots
 gigs
 gigster
 guarinite
+galvanist
 gigtree
 gemonies
 giher
