@@ -9373,7 +9373,6 @@ alpeen
 alpen
 alpenglow
 alpenstock
-aerogram
 alpenstocker
 alpenstocks
 alpestral
@@ -23925,6 +23924,7 @@ autocatalysis
 autocatalyze
 autocatharsis
 aquiferous
+aerogram
 afterbody
 autocatheterism
 autocephalia
