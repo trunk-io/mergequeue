@@ -917,7 +917,6 @@ cal
 calaba
 crawfoot
 calabar
-calabari
 cornices
 calabaza
 collared
@@ -31798,6 +31797,7 @@ cuticle
 cuticolor
 cuticula
 cuticularization
+calabari
 cuticularize
 cuticulate
 chrysothamnus
