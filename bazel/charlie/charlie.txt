@@ -6448,6 +6448,7 @@ cavernulous
 cavers
 caves
 cavesson
+chkfil
 cavetti
 conchie
 cavetto
@@ -13939,7 +13940,6 @@ cinematographic
 clarenceuxship
 caving
 cinematographical
-chkfil
 cinematographically
 cinematographies
 cinematographist
