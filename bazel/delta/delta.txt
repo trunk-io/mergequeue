@@ -2650,6 +2650,7 @@ desalter
 decoloring
 darkening
 decolorisation
+dotchin
 decolorising
 dispose
 demises
@@ -15949,7 +15950,6 @@ dotate
 dotation
 dotations
 digammic
-dotchin
 disdeceive
 detestably
 dote
