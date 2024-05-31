@@ -8943,6 +8943,7 @@ banalities
 battery
 benzol
 balsamiferous
+braeface
 binomenclature
 binomy
 bilimbi
@@ -14230,7 +14231,6 @@ butyne
 banausic
 bradsot
 byword
-braeface
 boarding
 bandfiling
 braehead
