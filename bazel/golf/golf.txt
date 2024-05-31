@@ -2845,7 +2845,6 @@ genoms
 gasts
 genotypic
 galatotrophic
-greathead
 gunfire
 glop
 germanism
@@ -5436,6 +5435,7 @@ gravaminous
 glycopexis
 gynecomastism
 glottises
+greathead
 globuliferous
 gallopade
 gombeenism
