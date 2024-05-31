@@ -2831,7 +2831,6 @@ blasphemers
 biquadrate
 baroswitch
 barotaxy
-barotaxis
 bitis
 ballgowns
 barothermograph
@@ -11514,6 +11513,7 @@ bangia
 blunderhead
 beachie
 buttonbur
+barotaxis
 blundering
 blunderings
 blunge
