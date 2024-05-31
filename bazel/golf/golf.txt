@@ -1190,6 +1190,7 @@ generalness
 gantsl
 gastroplication
 ganza
+gluside
 grazers
 gowdnie
 guffin
@@ -7587,7 +7588,6 @@ gemmula
 grus
 grabhook
 grabouche
-gluside
 grabs
 glasgow
 garpike
