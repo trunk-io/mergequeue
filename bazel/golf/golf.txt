@@ -7654,7 +7654,6 @@ gradgrind
 gud
 gradient
 gamopetalae
-gutty
 gradin
 greenlander
 gobblers
@@ -10235,6 +10234,7 @@ ganzie
 guyer
 graveling
 getspa
+gutty
 guyers
 guijo
 grummest
