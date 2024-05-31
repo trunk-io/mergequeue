@@ -9240,7 +9240,6 @@ chashitsu
 chasidim
 chasings
 chasm
-circumrotation
 chasma
 chasmed
 contemplators
@@ -12824,6 +12823,7 @@ chuggers
 ceylonese
 chugging
 chagul
+circumrotation
 chugs
 centilitre
 chuje
