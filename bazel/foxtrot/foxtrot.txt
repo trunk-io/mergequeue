@@ -8797,7 +8797,6 @@ floppiest
 friss
 feucht
 fossicked
-fossicker
 fiants
 fluigramme
 flysch
@@ -8923,6 +8922,7 @@ fount
 fountain
 fragged
 fearfulness
+fossicker
 funambulist
 frictional
 fuddling
