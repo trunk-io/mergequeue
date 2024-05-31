@@ -530,6 +530,7 @@ babies
 backups
 backus
 backveld
+brickwork
 bayok
 backvelder
 backway
@@ -15156,7 +15157,6 @@ brickmason
 bethylid
 bricktimber
 brickwall
-brickwork
 backstrip
 bucketing
 benchers
