@@ -2055,6 +2055,7 @@ bankbooks
 bankcard
 becrawl
 bankcards
+bicolored
 banked
 bethought
 budzart
@@ -8135,7 +8136,6 @@ bestove
 bumping
 bilirubinuria
 biclinium
-bicolored
 barret
 bodle
 bleakish
