@@ -4741,7 +4741,6 @@ goatishly
 galliardly
 gaudeamus
 gyrodactylus
-grapeshot
 gyrodyne
 gyrogonite
 garotting
@@ -5800,6 +5799,7 @@ gestalts
 gruis
 goldless
 glossarize
+grapeshot
 gasify
 gymnogene
 gumflower
