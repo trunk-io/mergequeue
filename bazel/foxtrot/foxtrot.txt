@@ -5421,6 +5421,7 @@ fletcherism
 following
 factories
 fletchers
+forcepslike
 fletches
 furrower
 feynesses
@@ -6233,7 +6234,6 @@ folkloristic
 fluidally
 fretter
 fluidglycerate
-forcepslike
 fluidic
 fait
 fosslology
