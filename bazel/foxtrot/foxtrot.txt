@@ -1654,6 +1654,7 @@ funniment
 frowned
 faxed
 futilities
+forestaffs
 faxes
 festshrifts
 fivepence
@@ -7964,7 +7965,6 @@ fiz
 feist
 forest
 fellmongered
-forestaffs
 forestage
 forestair
 froebelian
