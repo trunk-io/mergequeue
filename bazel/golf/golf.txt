@@ -2221,7 +2221,6 @@ gerontine
 gastrojejunostomies
 gconv
 gdinfo
-gds
 grimoire
 grayfish
 grinnellia
@@ -6614,6 +6613,7 @@ golfings
 galleypot
 gastrostomies
 gurry
+gds
 grit
 golgothas
 goliardic
