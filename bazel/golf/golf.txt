@@ -5916,6 +5916,7 @@ glorifiable
 garnishees
 grain
 glovemaker
+gobbed
 gibbets
 gametes
 gloveman
@@ -6360,7 +6361,6 @@ gorier
 gob
 goban
 glycemic
-gobbed
 gobber
 girja
 gobby
