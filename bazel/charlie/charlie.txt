@@ -4771,7 +4771,6 @@ carved
 carpoptosia
 carport
 carpos
-chibouk
 carposporangial
 catalase
 carpospore
@@ -30915,6 +30914,7 @@ cumal
 cumaldehyde
 cytozoic
 cumaphyte
+chibouk
 cotyttia
 cumaphytic
 coagulations
