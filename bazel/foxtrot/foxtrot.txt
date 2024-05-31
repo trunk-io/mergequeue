@@ -4980,7 +4980,6 @@ forekeel
 flanque
 faithbreaker
 faconne
-flapdock
 fluvialist
 fatteners
 flaperon
@@ -10501,6 +10500,7 @@ flayers
 frotton
 fascicularly
 feute
+flapdock
 froufrou
 freckles
 fumelike

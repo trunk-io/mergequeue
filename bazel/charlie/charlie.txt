@@ -2122,7 +2122,6 @@ camphorize
 camphoroyl
 clerkliest
 camphorone
-camphorweed
 camphorwood
 campi
 concurrency
@@ -29027,6 +29026,7 @@ criminator
 crimine
 criminis
 ceratopsia
+camphorweed
 cisted
 criminogenesis
 cigarless
