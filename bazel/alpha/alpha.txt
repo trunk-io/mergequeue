@@ -3925,7 +3925,6 @@ adiposogenital
 aslope
 adiposuria
 adipous
-adnouns
 adipsy
 adipsia
 awonder
@@ -5042,6 +5041,7 @@ apocamphoric
 aeroliths
 aerolitic
 aerological
+adnouns
 aerologies
 aerologist
 agazed
