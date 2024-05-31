@@ -2561,7 +2561,6 @@ buzylene
 barhops
 baria
 bariatrician
-bedegar
 bariatrics
 baric
 barycenter
@@ -13709,6 +13708,7 @@ bourree
 bourrees
 briefs
 bourse
+bedegar
 bourtree
 bathochrome
 betallow
