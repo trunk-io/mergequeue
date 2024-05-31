@@ -1813,7 +1813,6 @@ genotypes
 gastronosus
 gonyaulax
 galluot
-gastropathy
 gastropathic
 gabbier
 gammon
@@ -10207,6 +10206,7 @@ gerusia
 guidman
 glyptics
 guaranis
+gastropathy
 granulated
 glared
 grivet
