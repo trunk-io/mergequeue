@@ -2421,7 +2421,6 @@ ensorcell
 ellipsoids
 eskar
 empetraceous
-electrodialitic
 ethnarchies
 ecclesiastic
 eusol
@@ -7779,6 +7778,7 @@ erythraea
 experiences
 exculpation
 earwort
+electrodialitic
 epidermatous
 epirogeny
 epidermic
