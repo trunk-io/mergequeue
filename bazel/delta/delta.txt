@@ -4360,6 +4360,7 @@ delve
 delved
 decanter
 dicacodyl
+dermatopathology
 dysarthria
 delver
 documentalist
@@ -6312,7 +6313,6 @@ dermatopathic
 davoch
 dodecanesian
 disillusions
-dermatopathology
 dermatophyte
 discomplexion
 dermatophone
