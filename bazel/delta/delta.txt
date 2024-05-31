@@ -438,7 +438,6 @@ dayspring
 dispersedye
 dilapidator
 disthrall
-daystreak
 daytide
 daytimes
 dayton
@@ -7250,6 +7249,7 @@ detenebrate
 dispenser
 detente
 dicotyl
+daystreak
 dimetric
 detenu
 detenue
