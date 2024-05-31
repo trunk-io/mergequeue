@@ -3265,7 +3265,6 @@ capnomancy
 capnomor
 cirripede
 connivant
-celli
 capo
 chaufers
 capoc
@@ -15087,6 +15086,7 @@ chitties
 cloud
 cytotrophoblastic
 cytotropic
+celli
 cytotropism
 cytovirin
 cytozzoa
