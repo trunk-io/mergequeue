@@ -8364,7 +8364,6 @@ epithalline
 einstein
 evaginate
 epistolize
-epitheca
 erebus
 enclosable
 exterminated
@@ -12973,6 +12972,7 @@ expectorated
 endosecretory
 etatisms
 expectorates
+epitheca
 expectorations
 expectorative
 electroencephalography
