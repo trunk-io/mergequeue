@@ -11655,6 +11655,7 @@ cholecystojejunostomy
 cholecystokinin
 coign
 cholecystolithiasis
+coseat
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
@@ -26059,7 +26060,6 @@ creamometer
 creatorrhea
 coseasonal
 cryptomeria
-coseat
 cosecant
 conducive
 cosecants
