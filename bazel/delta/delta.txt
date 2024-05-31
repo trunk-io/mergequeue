@@ -7779,7 +7779,6 @@ devirgination
 diaglyph
 devisability
 divertissant
-devisable
 devisal
 devise
 devised
@@ -11317,6 +11316,7 @@ doughmaking
 dought
 dutchman
 dahabeeyah
+devisable
 deftly
 dragonlike
 discerped
