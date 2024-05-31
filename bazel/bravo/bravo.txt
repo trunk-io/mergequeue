@@ -1509,7 +1509,6 @@ bacteremia
 borstal
 bistable
 balladic
-balladical
 bipersonal
 balladised
 balladism
@@ -12278,6 +12277,7 @@ boltcutter
 botanizer
 bookmark
 buckstay
+balladical
 bolters
 behold
 boltheading
