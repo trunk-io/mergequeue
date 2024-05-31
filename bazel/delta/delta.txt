@@ -1744,7 +1744,6 @@ deathsman
 depaysee
 deathtime
 deathtrap
-downtimes
 deathtraps
 drof
 deathward
@@ -16249,6 +16248,7 @@ downbear
 depurant
 downbeard
 doughfoot
+downtimes
 downbend
 daredevilism
 downbent
