@@ -7715,7 +7715,6 @@ beworship
 bewpers
 barmen
 biciliate
-bewrayer
 bracelets
 barful
 buttonholes
@@ -11671,6 +11670,7 @@ boatmen
 boatowner
 boats
 boatsetter
+bewrayer
 boatshop
 boatsteerer
 brandying
