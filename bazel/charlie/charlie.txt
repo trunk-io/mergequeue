@@ -3530,7 +3530,6 @@ capturing
 capuan
 capuched
 capuchins
-counterbase
 capucine
 capulet
 capulin
@@ -4113,6 +4112,7 @@ cortaro
 cymric
 cardiology
 chondroclast
+counterbase
 cardiologic
 cardiologist
 cardiologists
