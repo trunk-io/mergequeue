@@ -7245,6 +7245,7 @@ catechist
 centrode
 centrodesmus
 centrodorsal
+chloro
 centroidal
 centroids
 centrolepidaceae
@@ -11344,7 +11345,6 @@ chlorize
 chesterbed
 chlormethane
 chlornal
-chloro
 chloroacetone
 chloroacetophenone
 childe
