@@ -12614,7 +12614,6 @@ disjoints
 disjointure
 disjunctive
 disjunctively
-deseed
 disjunctor
 disembodying
 dereferences
@@ -18016,6 +18015,7 @@ disquisitionary
 dulcin
 damping
 dulcite
+deseed
 dulcitol
 dulcitude
 dacryocystalgia
