@@ -11110,6 +11110,7 @@ campaigner
 chiselly
 chisellike
 chiselling
+crenula
 chiselmouth
 chisels
 chisled
@@ -28708,7 +28709,6 @@ crenitic
 calcining
 crenotherapy
 crenothrix
-crenula
 crenulate
 crenulation
 creodont
