@@ -7221,7 +7221,6 @@ detainee
 detainees
 detaining
 decolourise
-durwaun
 detainingly
 detainment
 datsw
@@ -8809,6 +8808,7 @@ defeat
 diazo
 drinkable
 decke
+durwaun
 diazoalkane
 demimondaines
 depeter
