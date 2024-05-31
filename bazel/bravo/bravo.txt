@@ -1849,6 +1849,7 @@ bandager
 bandages
 bandaging
 bandaid
+batell
 bandala
 bandana
 buggery
@@ -3549,7 +3550,6 @@ bucchero
 bandoliered
 bateleur
 bovista
-batell
 bouchal
 bubos
 blawort
