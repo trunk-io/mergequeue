@@ -5185,7 +5185,6 @@ fusetron
 flavoriness
 flavoring
 filippi
-flavorsome
 formulators
 falda
 fossilage
@@ -8868,6 +8867,7 @@ foul
 fogger
 foulder
 fiberizer
+flavorsome
 fouled
 fidation
 fouler
