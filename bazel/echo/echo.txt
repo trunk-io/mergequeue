@@ -6669,6 +6669,7 @@ eyehooks
 enteropathy
 embryologists
 enculturative
+enterectomies
 eyas
 exfoliated
 enteropexia
@@ -13205,7 +13206,6 @@ expensive
 explicanda
 explicate
 enterokinesia
-enterectomies
 exult
 evasiveness
 equiliria
