@@ -6325,6 +6325,7 @@ enseal
 estrones
 eicosane
 estancias
+esophoric
 employes
 emporia
 enseated
@@ -9710,7 +9711,6 @@ esophagus
 endodermal
 exploits
 earthshine
-esophoric
 epicrystalline
 eremacausis
 elaeoblastic
