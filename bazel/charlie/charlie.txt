@@ -18664,7 +18664,6 @@ coinfers
 carapus
 cartboot
 coing
-ceroma
 coinhabitor
 coinhere
 coinhered
@@ -21456,6 +21455,7 @@ clocks
 cosponsor
 concision
 corrugation
+ceroma
 concitation
 concite
 conclamation
