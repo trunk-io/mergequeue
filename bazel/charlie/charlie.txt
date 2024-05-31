@@ -25041,7 +25041,6 @@ corcopali
 continuums
 cordage
 canalizations
-cordages
 celling
 cordaitaceae
 cordaitaceous
@@ -25325,6 +25324,7 @@ corkages
 corkboard
 conventionalized
 cadence
+cordages
 corker
 corkers
 cense
