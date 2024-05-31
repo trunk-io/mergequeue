@@ -10339,7 +10339,6 @@ blade
 brite
 bladebone
 beleaguerer
-bosporian
 befrogged
 bladesmith
 bladewise
@@ -13152,6 +13151,7 @@ blephariglottis
 befancy
 borromean
 bulkheaded
+bosporian
 bipectinated
 borrowable
 borrower
