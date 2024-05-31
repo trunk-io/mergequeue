@@ -4732,7 +4732,6 @@ agitates
 aecidial
 achromia
 aecidioform
-aecidiomycetes
 aecidiospore
 aecidiostage
 aecidium
@@ -12221,6 +12220,7 @@ anchylotic
 anchimonomineral
 anchisaurus
 aegirite
+aecidiomycetes
 anchistea
 anchithere
 anchor
