@@ -5786,7 +5786,6 @@ agamemnon
 agamete
 angulates
 agami
-agamy
 ascigerous
 afb
 agamian
@@ -12487,6 +12486,7 @@ anecdote
 anecdotes
 anecdotic
 anecdotical
+agamy
 anecdotically
 anecdotists
 aegagropile
