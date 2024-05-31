@@ -2141,6 +2141,7 @@ gangboard
 gigging
 gawk
 grubs
+grisettes
 ginglmi
 gnomist
 gelndesprung
@@ -4458,7 +4459,6 @@ griping
 glozing
 glucosemia
 gestio
-grisettes
 gingerspice
 gingerwort
 garthman
