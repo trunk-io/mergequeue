@@ -1663,6 +1663,7 @@ egress
 emissarium
 egressed
 egresses
+etiolates
 estadal
 exiler
 expounded
@@ -3102,7 +3103,6 @@ elliptoid
 electrum
 extraparietal
 eke
-etiolates
 ellops
 ells
 elm
