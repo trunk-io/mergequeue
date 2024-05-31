@@ -10395,7 +10395,6 @@ diotic
 deputize
 debutantes
 dioxan
-dfault
 dioxane
 dioxanes
 dioxy
@@ -12522,6 +12521,7 @@ disinheritable
 disinheritance
 deirdre
 diminuendo
+dfault
 ditrematous
 disfriar
 disinheritances
