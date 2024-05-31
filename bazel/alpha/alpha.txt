@@ -3728,6 +3728,7 @@ adenotyphoid
 ailanthic
 adenotyphus
 antislickens
+artilleryman
 anachoret
 alimenting
 adenotome
@@ -20764,7 +20765,6 @@ artiller
 artillery
 artilleries
 avodire
-artilleryman
 atresic
 artillerymen
 aurochloride
