@@ -1570,6 +1570,7 @@ egg
 ethmoid
 endosternum
 eggbeaters
+equid
 evoke
 embow
 euphuized
@@ -8627,7 +8628,6 @@ equiconvex
 egrets
 enworthy
 ergatomorph
-equid
 equidiagonal
 equidimensional
 equidist

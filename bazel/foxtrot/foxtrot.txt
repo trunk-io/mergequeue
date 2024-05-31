@@ -2264,6 +2264,7 @@ flesher
 feticidal
 filesave
 fainaiguer
+fromages
 femme
 femora
 farmland
@@ -10309,7 +10310,6 @@ formalins
 folkmot
 fanfishes
 factorage
-fromages
 feeable
 fantasmagoria
 fromenty
