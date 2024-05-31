@@ -15835,7 +15835,6 @@ clavi
 chirres
 clavy
 clavicembalist
-clavicembalo
 claviceps
 caiarara
 clavichord
@@ -26854,6 +26853,7 @@ counterdraft
 chylopoietic
 counterdrive
 countered
+clavicembalo
 counterefficiency
 countereffort
 counterembattled
