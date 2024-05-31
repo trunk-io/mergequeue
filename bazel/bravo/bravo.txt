@@ -336,7 +336,6 @@ backet
 backfield
 bangala
 backfields
-bahur
 bigha
 backfiller
 backfilling
@@ -8023,6 +8022,7 @@ bibliopolist
 bestowable
 befall
 bibliosoph
+bahur
 bibliotaphe
 bibliothecae
 bibliothecarian
