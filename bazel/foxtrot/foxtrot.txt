@@ -4982,7 +4982,6 @@ flappet
 furil
 futilous
 faradized
-flapping
 folders
 flumps
 fun
@@ -5606,6 +5605,7 @@ flincher
 flinders
 foliage
 firmisternial
+flapping
 fibrine
 foliiform
 frustrater
