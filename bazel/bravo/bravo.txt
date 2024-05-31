@@ -66,7 +66,6 @@ bongar
 bendell
 blist
 babelize
-beshlik
 bimodulus
 babels
 babery
@@ -8059,6 +8058,7 @@ borborygmi
 bodymaker
 bibracteate
 billing
+beshlik
 bibulous
 bayoneting
 breathful
