@@ -7141,7 +7141,6 @@ centra
 centrad
 central
 centraler
-cobblery
 chevelure
 chastely
 circumscriptively
@@ -20337,6 +20336,7 @@ coccineous
 chitin
 communalise
 communaliser
+cobblery
 communalism
 communalistic
 confederacies
