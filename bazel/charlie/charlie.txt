@@ -4945,7 +4945,6 @@ columbia
 cartogram
 criniger
 comminate
-cartography
 cartographic
 cartographical
 confessionist
@@ -24267,6 +24266,7 @@ concertantes
 colleterial
 convocations
 convocative
+cartography
 convocator
 cantabrize
 catbriers
