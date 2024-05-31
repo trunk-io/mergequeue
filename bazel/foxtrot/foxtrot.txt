@@ -6292,7 +6292,6 @@ flukier
 fishy
 faldistory
 falerian
-fluking
 flume
 fruitworm
 fulmining
@@ -6879,6 +6878,7 @@ foreignization
 folkmoots
 fauchard
 fadmonger
+fluking
 firetower
 folkmoter
 formuliser
