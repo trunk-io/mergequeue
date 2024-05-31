@@ -5395,7 +5395,6 @@ dentifrices
 dentil
 dentilation
 dentiled
-drysaltery
 dimin
 delivery
 dubhe
@@ -13404,6 +13403,7 @@ disquisitions
 deductile
 disquisitively
 disquisitor
+drysaltery
 dismarble
 den
 deepfreezed

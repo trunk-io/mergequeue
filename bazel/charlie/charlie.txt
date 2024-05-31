@@ -12915,7 +12915,6 @@ cursus
 churchgo
 cantative
 churchgoers
-churchgrith
 churchy
 churchianity
 churchyard
@@ -23699,6 +23698,7 @@ contr
 contrabandage
 contrabandery
 causticiser
+churchgrith
 consequentially
 contrabandism
 circumoesophagal
