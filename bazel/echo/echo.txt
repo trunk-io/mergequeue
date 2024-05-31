@@ -5696,7 +5696,6 @@ engilded
 egoize
 engilding
 empacket
-elsewhen
 engine
 engined
 engineeringly
@@ -10470,6 +10469,7 @@ expressionlessly
 emperorship
 ethologists
 envine
+elsewhen
 ethonomic
 edmond
 ethonone
