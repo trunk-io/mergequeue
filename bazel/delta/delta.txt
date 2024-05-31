@@ -16430,7 +16430,6 @@ doctorate
 dowve
 doxa
 diapsidan
-doxastic
 dechlog
 doxasticon
 doxy
@@ -16600,6 +16599,7 @@ deuterotoky
 dragoman
 dragomanate
 defended
+doxastic
 dragomanish
 disclaims
 daman
