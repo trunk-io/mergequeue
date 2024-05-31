@@ -4289,6 +4289,7 @@ flammability
 freestanding
 first
 finific
+flimmer
 forbearer
 forestian
 feerie
@@ -4438,7 +4439,6 @@ fissilinguia
 felafel
 footmenfootpad
 furcates
-flimmer
 focaloid
 fissionable
 fissioned
