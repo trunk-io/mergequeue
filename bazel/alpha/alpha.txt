@@ -7530,7 +7530,6 @@ albolith
 abreid
 albopruinose
 alborada
-alboranite
 albrecht
 albricias
 albright
@@ -9185,6 +9184,7 @@ antiputrefaction
 abolishable
 animations
 antiplenist
+alboranite
 almemar
 almemars
 accordable
