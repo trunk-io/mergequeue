@@ -1310,7 +1310,6 @@ gapping
 grex
 galvaniser
 guib
-garblings
 garboard
 gesticulator
 ged
@@ -5866,6 +5865,7 @@ goggles
 glossoptosis
 glossorrhaphy
 glossoscopy
+garblings
 giantisms
 goings
 grimmish
