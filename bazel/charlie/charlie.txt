@@ -2749,6 +2749,7 @@ canoe
 chinafish
 canoeist
 canoeists
+chirotherian
 canoeload
 canoeman
 canoes
@@ -11043,7 +11044,6 @@ chiropterite
 chiros
 chirospasm
 chirotes
-chirotherian
 chirotherium
 casern
 corrals

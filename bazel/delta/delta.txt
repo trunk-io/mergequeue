@@ -12005,6 +12005,7 @@ disenchanting
 deputyship
 dowd
 disenchantments
+desensitize
 dermaskeleton
 disenchantress
 disencharm
@@ -15530,7 +15531,6 @@ dismalness
 donenesses
 dendral
 dualists
-desensitize
 dong
 diplococcocci
 despin
