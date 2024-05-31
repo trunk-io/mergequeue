@@ -10122,7 +10122,6 @@ bkg
 bklr
 backsey
 bocasine
-bks
 bkt
 bl
 bicephalic
@@ -16239,6 +16238,7 @@ brucellae
 baggage
 bunomastodontidae
 besmuts
+bks
 brucellosis
 barely
 bruchidae
