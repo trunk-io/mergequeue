@@ -10872,7 +10872,6 @@ ammocoetiform
 algedi
 antischolastic
 ammoniuret
-ammoniureted
 ammono
 ammonobasic
 atty
@@ -17547,6 +17546,7 @@ apothegmatical
 apothegmatically
 apothegmatist
 apothegmatize
+ammoniureted
 apothem
 apotheosis
 autocratically
