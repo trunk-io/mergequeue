@@ -5883,7 +5883,6 @@ directness
 divestible
 deafforestation
 deposits
-dedifferentiation
 doumaist
 deafforest
 deposure
@@ -7857,6 +7856,7 @@ devoting
 devotional
 disgorge
 devotionalist
+dedifferentiation
 devotionality
 derat
 devotionally
