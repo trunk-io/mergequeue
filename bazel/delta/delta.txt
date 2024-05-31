@@ -3299,7 +3299,6 @@ desentimentalize
 deferrers
 deferrize
 disaffiliates
-deferrized
 defers
 deme
 dictatress
@@ -9496,6 +9495,7 @@ digestion
 digestively
 digestiveness
 dermad
+deferrized
 domically
 dehumidify
 dufoil
