@@ -10943,7 +10943,6 @@ dirties
 disadvantageously
 disadvantageousness
 disadventure
-disadvise
 disadvising
 dysaesthesia
 dropvie
@@ -15719,6 +15718,7 @@ disgig
 doryanthes
 dorical
 doricism
+disadvise
 doricize
 dorylinae
 doryline

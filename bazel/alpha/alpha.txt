@@ -3970,7 +3970,6 @@ agueweed
 analphabetism
 amalgamating
 adjoiner
-adjoins
 androgonium
 adjoint
 adjoints
@@ -10735,6 +10734,7 @@ aminopyrine
 aminoplastic
 angulometer
 arachne
+adjoins
 aphronitre
 aminopurine
 aminoquin
