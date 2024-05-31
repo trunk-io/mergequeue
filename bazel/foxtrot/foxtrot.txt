@@ -8381,7 +8381,6 @@ formalizer
 foreknowledge
 formalness
 flaucht
-fantail
 formamidine
 fasels
 fluorinating
@@ -11169,6 +11168,7 @@ figged
 frowy
 fungation
 fissures
+fantail
 fisk
 furanose
 fungia
