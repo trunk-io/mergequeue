@@ -8520,7 +8520,6 @@ adynamy
 alkalinized
 alkalinizes
 acrolith
-antilog
 alkalinizing
 avogram
 anticausotic
@@ -18173,6 +18172,7 @@ aprons
 apronstring
 amphigenetic
 aporosa
+antilog
 aproterodont
 antirestoration
 aroused
