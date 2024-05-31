@@ -2586,7 +2586,6 @@ enamellers
 ecad
 electrons
 emotiveness
-electrooculogram
 encyclopaedian
 exposal
 electrobrasser
@@ -13625,6 +13624,7 @@ exteriorised
 epicyesis
 ecrus
 exteriority
+electrooculogram
 exteriorize
 ejects
 elfic
