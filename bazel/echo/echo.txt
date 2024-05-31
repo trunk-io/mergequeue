@@ -2146,7 +2146,6 @@ exanthematic
 emberiza
 eberthella
 elastician
-elasticity
 euxenite
 enarm
 elastivity
@@ -4449,6 +4448,7 @@ encapsulation
 emitted
 encapsuled
 estimators
+elasticity
 encapsules
 enure
 encapsuling
