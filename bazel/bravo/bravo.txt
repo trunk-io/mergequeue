@@ -3850,7 +3850,6 @@ batwomen
 blastocolla
 bishopship
 beetlestock
-batz
 batzen
 bumblingly
 barreler
@@ -11779,6 +11778,7 @@ bish
 boccaro
 bocce
 babeldom
+batz
 bocces
 boccia
 boccias
