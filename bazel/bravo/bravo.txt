@@ -3493,7 +3493,6 @@ barabbas
 battutas
 bastite
 brushfire
-bastnasite
 balanoglossus
 basto
 bucklandite
@@ -17387,6 +17386,7 @@ bundler
 bundlerooted
 bangboard
 bundles
+bastnasite
 bundts
 bundu
 bundweed
