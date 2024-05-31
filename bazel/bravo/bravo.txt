@@ -1922,7 +1922,6 @@ bandog
 bandanas
 bandogs
 bonfire
-bothersomeness
 bandoleer
 burlesquely
 bumf
@@ -12607,6 +12606,7 @@ bubbly
 bonnes
 brisken
 bonnet
+bothersomeness
 brachelytra
 bonneted
 bonneter
