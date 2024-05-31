@@ -3475,7 +3475,6 @@ dengues
 deflore
 dropforged
 dubash
-disgarland
 desexualization
 deflower
 deflowered
@@ -18002,6 +18001,7 @@ disseminator
 dulcified
 disilluded
 dulcifying
+disgarland
 dulcifluous
 defaitisme
 dulcigenic
