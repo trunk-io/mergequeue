@@ -1455,6 +1455,7 @@ fattier
 flannelmouths
 false
 fatties
+feoffors
 fattiness
 funis
 fiftyfold
@@ -2371,7 +2372,6 @@ fs
 feoffer
 fiberous
 fenester
-feoffors
 fidelis
 faultier
 feoffs
