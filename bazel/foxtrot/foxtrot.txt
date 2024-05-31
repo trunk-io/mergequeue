@@ -3598,7 +3598,6 @@ filemaker
 fluidize
 flenches
 filename
-footgrip
 fixates
 fanons
 florigraphy
@@ -7608,6 +7607,7 @@ forefingers
 figlike
 fritillaries
 ferronickel
+footgrip
 fragile
 floruits
 filbert
