@@ -2793,7 +2793,6 @@ acrobacy
 alfurese
 arrangements
 amnion
-acrobacies
 amorphophyte
 artarin
 acrobates
@@ -22467,6 +22466,7 @@ adenoidectomies
 ataxy
 ataxia
 ataxiagraph
+acrobacies
 ataxiaphasia
 ataxies
 ataxinomic
