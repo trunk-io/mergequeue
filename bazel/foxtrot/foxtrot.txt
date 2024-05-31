@@ -1533,7 +1533,6 @@ focusers
 footplate
 filmmaking
 faun
-foulards
 ferreiro
 fluorate
 firstship
@@ -9037,6 +9036,7 @@ fowlers
 flux
 fowlfoot
 fared
+foulards
 fowlings
 ferrites
 fluvious
