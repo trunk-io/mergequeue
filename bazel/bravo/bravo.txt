@@ -13837,7 +13837,6 @@ bentstar
 breakage
 bowerwoman
 bookwise
-bialveolar
 barleybird
 bowess
 bowfin
@@ -17540,6 +17539,7 @@ banks
 burdens
 bee
 bobadilish
+bialveolar
 benzotetrazine
 burdensome
 beslushed
