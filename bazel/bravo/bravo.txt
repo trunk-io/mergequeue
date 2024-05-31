@@ -731,7 +731,6 @@ backyard
 bogwort
 badgered
 badgerer
-badgering
 buoyant
 blundersome
 boltant
@@ -1560,6 +1559,7 @@ balletically
 balletomane
 balletomanes
 benzotrifuran
+badgering
 biggins
 brocked
 battling
