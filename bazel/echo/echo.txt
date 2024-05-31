@@ -2971,6 +2971,7 @@ enfranchisable
 elicitation
 elicitor
 enricher
+exploiters
 ennoblers
 elicitors
 elicits
@@ -5480,7 +5481,6 @@ edifier
 energism
 energize
 eucalyptian
-exploiters
 enharmonically
 energizers
 energizes
