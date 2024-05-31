@@ -2462,7 +2462,6 @@ electrogalvanization
 equalization
 electrogenetic
 equivalence
-electrogenic
 electrogild
 electrogilt
 ejecting
@@ -12875,6 +12874,7 @@ elucid
 expanding
 enucleate
 erosions
+electrogenic
 expandingly
 expansibility
 entwisted
