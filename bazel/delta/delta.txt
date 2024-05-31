@@ -5936,6 +5936,7 @@ depreciators
 depredate
 depredated
 discernibleness
+diatomaceous
 depredation
 depredationist
 definitiveness
@@ -8778,7 +8779,6 @@ diathesis
 depolarising
 diatoma
 diatomaceae
-diatomaceous
 deboning
 doorframe
 domelike
