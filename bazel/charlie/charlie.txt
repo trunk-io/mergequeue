@@ -7185,7 +7185,6 @@ centref
 centreless
 centrepiece
 canephoroe
-centrer
 closely
 chol
 chatterbox
@@ -19264,6 +19263,7 @@ collotyped
 curries
 collotypy
 conceitless
+centrer
 cornhusks
 clitterclatter
 collotypic
