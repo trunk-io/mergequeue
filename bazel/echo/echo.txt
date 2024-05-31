@@ -5346,7 +5346,6 @@ elaterids
 elateridae
 embreathement
 encefalon
-elaps
 enhypostasis
 elamitic
 elechi
@@ -9884,6 +9883,7 @@ estable
 establishable
 eddyroot
 england
+elaps
 examplar
 establisher
 establishes
