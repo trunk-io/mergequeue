@@ -1028,6 +1028,7 @@ ensaffron
 edam
 endomitotic
 edaphology
+emprint
 edaphon
 epicures
 edaphosauria
@@ -4217,7 +4218,6 @@ explore
 emundation
 empresses
 embossers
-emprint
 emprises
 entomotaxy
 emprison
