@@ -5449,7 +5449,6 @@ ado
 affret
 affreux
 affricated
-agnosticism
 affricates
 agglutinable
 affriended
@@ -17454,6 +17453,7 @@ apostasies
 audiometer
 apostasis
 appreciatively
+agnosticism
 auguste
 actors
 autocollimator
