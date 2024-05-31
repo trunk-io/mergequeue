@@ -2497,7 +2497,6 @@ gemini
 geic
 geminid
 geminiflorous
-geminis
 geminous
 gratinating
 gemless
@@ -9147,6 +9146,7 @@ glom
 geochronic
 griqualander
 grisailles
+geminis
 grysbok
 gleaning
 garrison
