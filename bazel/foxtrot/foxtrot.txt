@@ -1006,7 +1006,6 @@ foxhound
 fardelet
 farding
 fards
-frontomaxillary
 friarbird
 felinophobe
 fares
@@ -3935,6 +3934,7 @@ finesser
 feedbacks
 fidelia
 flushers
+frontomaxillary
 finest
 finew
 falsie
