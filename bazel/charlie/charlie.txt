@@ -11858,7 +11858,6 @@ chondromucoid
 chondropharyngeus
 chondrophyte
 chondrophore
-chondroplast
 chondroplasty
 crystall
 consonantally
@@ -15641,6 +15640,7 @@ clarseach
 clarsech
 censused
 clarseth
+chondroplast
 chemotaxonomically
 clarshech
 clart
