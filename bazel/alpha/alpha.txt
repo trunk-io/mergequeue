@@ -6372,7 +6372,6 @@ agraffe
 analemmatic
 agral
 agramed
-agrammaphasia
 agrammatica
 accouple
 afterpeak
@@ -10564,6 +10563,7 @@ amaryllid
 amidoplastid
 amidoxy
 amidoxyl
+agrammaphasia
 amidrazone
 amids
 amidship
