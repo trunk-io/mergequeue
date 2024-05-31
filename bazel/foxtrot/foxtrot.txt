@@ -9270,7 +9270,6 @@ frambesia
 framea
 framer
 frames
-frameshift
 frapler
 flunkydom
 futuramic
@@ -10505,6 +10504,7 @@ formulise
 farandman
 fettle
 fluorenyl
+frameshift
 frise
 firefall
 fad
