@@ -18583,7 +18583,6 @@ considerateness
 clypeole
 coyer
 coyest
-coif
 coifed
 coiffe
 coiffed
@@ -22248,6 +22247,7 @@ confustication
 confutability
 confutation
 confutator
+coif
 confuters
 confutes
 confuting
