@@ -2547,6 +2547,7 @@ barges
 bicycles
 borscht
 barghests
+bonducnut
 beslash
 barging
 bargir
@@ -13260,7 +13261,6 @@ bogomil
 bosset
 barebacked
 besieger
-bonducnut
 bossies
 bedstaff
 brune

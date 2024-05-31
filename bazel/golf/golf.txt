@@ -7335,6 +7335,7 @@ gossiper
 greensward
 gascoign
 gossipy
+gripsack
 galagala
 gomarite
 gossypin
@@ -8320,7 +8321,6 @@ gadolinite
 gazelles
 gingering
 grassnut
-gripsack
 gawby
 gunnership
 grasswidow
