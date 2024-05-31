@@ -7398,7 +7398,6 @@ cuticles
 cephalology
 cephalom
 calina
-cephalomancy
 cephalomant
 cephalomeningitis
 cultivatable
@@ -10694,6 +10693,7 @@ chimakum
 cogon
 chimane
 chimango
+cephalomancy
 confiscatory
 chimakuan
 chimaphila
