@@ -10666,6 +10666,7 @@ diplotegia
 dissipating
 deregister
 diplozoon
+draws
 decerebrating
 declinometer
 downstreet
@@ -16872,7 +16873,6 @@ diffidence
 drawoff
 drawplate
 drawpoint
-draws
 drawsheet
 disturnpike
 drawspring
