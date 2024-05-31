@@ -2453,7 +2453,6 @@ codecree
 contraparallelogram
 candidiasis
 candidly
-candidness
 candidnesses
 candids
 countermands
@@ -9758,6 +9757,7 @@ confirmee
 channelizes
 cribwork
 cheilodipteridae
+candidness
 cheilodipterus
 cheiloplasty
 cheilostomata
