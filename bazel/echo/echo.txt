@@ -2474,7 +2474,6 @@ electrograving
 erythrophyllin
 enstatite
 electrogasdynamics
-electroharmonic
 empanelment
 electrohemostasis
 electrohydraulically
@@ -12243,6 +12242,7 @@ enfeebled
 execrative
 eunuchry
 execratively
+electroharmonic
 economised
 execrator
 ephemera
