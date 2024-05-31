@@ -3545,7 +3545,6 @@ bucchero
 bandoliered
 bateleur
 bovista
-batell
 bouchal
 bubos
 blawort
@@ -12713,6 +12712,7 @@ braggadocianism
 boogum
 bourd
 boltstrake
+batell
 bolshevism
 bartered
 blunderheaded
