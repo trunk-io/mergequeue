@@ -1234,7 +1234,6 @@ fusilier
 fashing
 fiddley
 forediscern
-foliages
 fascinate
 fratchy
 falasha
@@ -2906,6 +2905,7 @@ figgle
 fumarin
 fumeless
 furunculosis
+foliages
 fetter
 fisty
 figworm
