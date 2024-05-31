@@ -6628,6 +6628,7 @@ flunkeyhood
 fillip
 foehn
 foehnlike
+fiaschi
 foehns
 foeish
 frettier
@@ -10216,7 +10217,6 @@ favoritism
 frizzly
 fluxion
 fro
-fiaschi
 ferryage
 foggages
 frazing
