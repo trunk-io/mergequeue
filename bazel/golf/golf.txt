@@ -2724,7 +2724,6 @@ genethlialogic
 genethlialogical
 goodness
 galores
-graal
 glims
 genethlic
 goatee
@@ -8421,6 +8420,7 @@ gravat
 graveclod
 gravedigger
 genophobia
+graal
 germal
 gravediggers
 grudgment
