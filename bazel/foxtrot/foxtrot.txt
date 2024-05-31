@@ -3158,7 +3158,6 @@ farfet
 facile
 flichters
 finca
-ferrochromium
 flip
 fibroins
 fistulariidae
@@ -6873,6 +6872,7 @@ fauchard
 fadmonger
 firetower
 folkmoter
+ferrochromium
 formuliser
 furnaceman
 foudroyant
