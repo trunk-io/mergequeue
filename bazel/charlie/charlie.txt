@@ -8847,7 +8847,6 @@ cimnel
 cobnut
 chapelling
 commonplaces
-chapelman
 chapelmaster
 chapelry
 combflower
@@ -13896,6 +13895,7 @@ cinderous
 cinders
 cindy
 cindie
+chapelman
 collusive
 cine
 cineangiocardiography
