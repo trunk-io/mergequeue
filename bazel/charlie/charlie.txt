@@ -126,7 +126,6 @@ cabinetworker
 cabinetworking
 cabinlike
 crafter
-canisiana
 cabio
 costotransverse
 camelopard
@@ -1479,6 +1478,7 @@ callianassidae
 calliandra
 cedulas
 curraghs
+canisiana
 calligraph
 calligrapha
 chemurgy
