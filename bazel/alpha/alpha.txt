@@ -7884,6 +7884,7 @@ alea
 aleak
 aleatory
 aleatoric
+arisaid
 alebench
 arustle
 aleberry
@@ -19762,7 +19763,6 @@ ariot
 aculeiform
 amidone
 aripple
-arisaid
 arisard
 arise
 athyrium
