@@ -1231,7 +1231,6 @@ datemark
 dentalise
 didactic
 durational
-dater
 daterman
 dates
 datil
@@ -6889,6 +6888,7 @@ drossless
 disqualified
 desmosite
 desmotrope
+dater
 desmotropy
 desocialization
 diaphote
