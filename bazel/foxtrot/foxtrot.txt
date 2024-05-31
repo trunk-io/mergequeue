@@ -3973,7 +3973,6 @@ forbearers
 facadal
 fayalites
 fillet
-forestlike
 flattish
 forfar
 fingerpost
@@ -8343,6 +8342,7 @@ forloin
 forlore
 filcher
 foredestined
+forestlike
 forlornly
 forever
 fucatious
