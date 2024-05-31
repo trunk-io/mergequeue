@@ -4141,7 +4141,6 @@ admissable
 admissibility
 admission
 admissive
-admissively
 antiperistasis
 admissory
 acoelous
@@ -23005,6 +23004,7 @@ attainting
 attaintment
 adenoma
 attaints
+admissively
 attainture
 amygdaliform
 attalea
