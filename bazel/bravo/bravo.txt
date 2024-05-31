@@ -1066,6 +1066,7 @@ brasswork
 bailiwicks
 baillie
 baillone
+bipropellant
 baillonella
 birks
 bailo
@@ -10010,7 +10011,6 @@ bituminized
 bedivere
 bana
 bituminoid
-bipropellant
 bikes
 bituminosis
 brian

@@ -3739,7 +3739,6 @@ crimpled
 carbazole
 carbeen
 carbene
-cantorian
 carberry
 carbide
 carbides
@@ -7488,6 +7487,7 @@ ceramium
 ceramographic
 cinnamic
 canvass
+cantorian
 counterlocking
 citified
 cerasein
