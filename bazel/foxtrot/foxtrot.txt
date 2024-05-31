@@ -4438,7 +4438,6 @@ fissile
 fissilinguia
 felafel
 footmenfootpad
-furcates
 flimmer
 focaloid
 fissionable
@@ -7199,6 +7198,7 @@ fogs
 forepeak
 fleetings
 flanderkin
+furcates
 footprint
 fb
 forestery
