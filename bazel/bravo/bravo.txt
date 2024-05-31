@@ -3986,6 +3986,7 @@ bch
 bchs
 ballotage
 bd
+boracium
 beteela
 bde
 butternose
@@ -12996,7 +12997,6 @@ balanid
 borable
 borachio
 boracite
-boracium
 boracous
 budgeting
 borage
