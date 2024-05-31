@@ -453,7 +453,6 @@ aporrhais
 abyssopelagic
 abyssus
 abit
-abbreviate
 abiuret
 abjectedness
 abjection
@@ -13755,6 +13754,7 @@ astucious
 anoint
 anointed
 anointment
+abbreviate
 anointments
 anoints
 anoli
