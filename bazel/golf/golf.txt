@@ -5415,7 +5415,6 @@ gayals
 glycolyl
 glycolipine
 glycolysis
-glycolytic
 galiongee
 gateman
 gahnites
@@ -7475,6 +7474,7 @@ generalization
 glial
 goals
 graphostatical
+glycolytic
 gortonian
 gangs
 goutish
