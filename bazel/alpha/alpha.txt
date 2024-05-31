@@ -7809,7 +7809,6 @@ antichresis
 acrodus
 aldebaran
 ambiance
-aldebaranium
 anacahuita
 algorithm
 aldehyde
@@ -8809,6 +8808,7 @@ alliant
 alliaria
 allicampane
 anemonol
+aldebaranium
 allice
 antiketogen
 allicholly
