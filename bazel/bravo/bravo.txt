@@ -1134,6 +1134,7 @@ barkstone
 bedimmed
 brindled
 bluethroat
+butyr
 bienseance
 bairnlier
 bairns
@@ -2661,7 +2662,6 @@ barkless
 barklyite
 barkometer
 bescorch
-butyr
 batrachite
 beheld
 bai
