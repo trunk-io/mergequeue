@@ -2842,7 +2842,6 @@ genotypic
 galatotrophic
 greathead
 gunfire
-glop
 germanism
 gipped
 grabbed
@@ -10276,6 +10275,7 @@ gorsehatch
 gumihan
 geechee
 galvanoplastically
+glop
 gauzelike
 gali
 geomagnetism
