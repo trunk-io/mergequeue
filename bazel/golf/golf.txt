@@ -5682,7 +5682,6 @@ glottogonist
 gurges
 garuda
 gravestone
-governance
 gyarung
 giantesque
 globulysis
@@ -9593,6 +9592,7 @@ gardener
 gemses
 grammates
 globelet
+governance
 guzerat
 glaucosis
 gonorrheal
