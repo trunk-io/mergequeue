@@ -4231,6 +4231,7 @@ cursillo
 careless
 carelessly
 carelessness
+clof
 conflagrate
 careme
 carene
@@ -16570,7 +16571,6 @@ clodlet
 clodpated
 clodpoll
 cloes
-clof
 cloff
 centripetalism
 clog
