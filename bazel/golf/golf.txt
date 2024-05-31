@@ -7117,7 +7117,6 @@ gambrels
 gillnet
 gopak
 gopherberry
-glossate
 gowdy
 gopherberries
 gummers
@@ -10320,6 +10319,7 @@ ganges
 goralog
 gleaner
 genipa
+glossate
 gauffred
 gujarati
 gd
