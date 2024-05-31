@@ -5036,6 +5036,7 @@ bitumen
 beermaker
 beermaking
 beermonger
+berogue
 braggartry
 beefers
 breakfasters
@@ -6840,7 +6841,6 @@ berob
 berobed
 billings
 beroe
-berogue
 bylander
 berime
 beroida

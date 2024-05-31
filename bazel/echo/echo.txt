@@ -5805,7 +5805,6 @@ endict
 evans
 eulerian
 engrammatic
-encashes
 engramme
 engrammes
 edwardine
@@ -13111,6 +13110,7 @@ expertness
 enlure
 estriche
 enfeature
+encashes
 expiable
 eucleidae
 emicate
