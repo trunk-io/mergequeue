@@ -8744,6 +8744,7 @@ electrostereotype
 equiprobability
 enablers
 equiproportional
+eyelast
 equiproportionality
 equiseta
 escopet
@@ -11767,7 +11768,6 @@ exanthem
 equidurable
 exanthemas
 exanthems
-eyelast
 exanthine
 ericetum
 excorticating
