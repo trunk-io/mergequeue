@@ -1477,6 +1477,7 @@ accidencies
 accidentalism
 accidented
 accidential
+alditol
 awakings
 accidentiality
 accidently
@@ -7848,7 +7849,6 @@ arrhythmy
 aldime
 aldimin
 antibias
-alditol
 aldm
 academias
 anthozooid
