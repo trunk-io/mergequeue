@@ -8568,7 +8568,6 @@ grapline
 guidons
 gantlines
 garlicmonger
-gozzard
 goldfielder
 gramaries
 guttered
@@ -9122,6 +9121,7 @@ gridlock
 gangbuster
 griege
 greenstick
+gozzard
 goatees
 grippier
 gastrodiaphanoscopy
