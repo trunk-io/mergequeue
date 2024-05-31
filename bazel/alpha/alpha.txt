@@ -777,7 +777,6 @@ anisotropical
 abridgement
 anticlimactically
 abridgements
-abridger
 anapeiratic
 abridgers
 abridges
@@ -14361,6 +14360,7 @@ antheridia
 antherless
 antherogenous
 adnescent
+abridger
 ascophyllum
 angiotensin
 aspalathus
