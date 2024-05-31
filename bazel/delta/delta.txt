@@ -6021,6 +6021,7 @@ delictus
 deed
 depsides
 dept
+diaschistic
 depth
 droopy
 depthen
@@ -8679,7 +8680,6 @@ diaschisis
 discourtesy
 dactylus
 diaschisma
-diaschistic
 doomlike
 delfs
 diascia
