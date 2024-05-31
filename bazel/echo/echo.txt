@@ -5343,7 +5343,6 @@ elateridae
 embreathement
 encefalon
 elaps
-enhypostasis
 elamitic
 elechi
 endothelial
@@ -13017,6 +13016,7 @@ expellable
 expellant
 expellees
 expellent
+enhypostasis
 egueiite
 evaluations
 exsecting
