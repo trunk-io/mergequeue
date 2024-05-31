@@ -7340,7 +7340,6 @@ forbearant
 fishyback
 forby
 foreparent
-foreplot
 forebodingly
 formally
 flakiness
@@ -10066,6 +10065,7 @@ fling
 fringelet
 fringent
 fringetail
+foreplot
 fringilla
 facials
 frogskin
