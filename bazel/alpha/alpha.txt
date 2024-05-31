@@ -18065,7 +18065,6 @@ apprompt
 approof
 appropinquate
 appropinquation
-appropinquity
 appropre
 akoulalion
 appropriament
@@ -24901,6 +24900,7 @@ awayness
 awaynesses
 amalgamated
 await
+appropinquity
 awaited
 antiqued
 abstention
