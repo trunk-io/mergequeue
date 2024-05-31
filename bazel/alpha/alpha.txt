@@ -2236,7 +2236,6 @@ achras
 antiracer
 ashmolean
 achrodextrin
-algebraized
 achrodextrinase
 achroglobin
 achroiocythaemia
@@ -14774,6 +14773,7 @@ antibacchic
 anchoresses
 antibacchii
 antibacchius
+algebraized
 antibacterial
 antibacteriolytic
 anaglyptograph
