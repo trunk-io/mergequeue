@@ -15986,6 +15986,7 @@ cleck
 commune
 coassumes
 cledde
+connote
 cocuiza
 cledgy
 calibrator
@@ -22715,7 +22716,6 @@ connotation
 connotations
 connotative
 connotatively
-connote
 connoted
 connotes
 connoting
