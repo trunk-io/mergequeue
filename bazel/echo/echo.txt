@@ -5037,7 +5037,6 @@ equipper
 endmost
 eternize
 enrage
-embraces
 ebriety
 enamellar
 enheritance
@@ -9985,6 +9984,7 @@ esthiomenus
 ectophloic
 estimable
 expenthesis
+embraces
 empiricists
 estimableness
 endothrix
