@@ -11063,7 +11063,6 @@ amuser
 abatic
 amove
 amoved
-amoving
 amowt
 ampalaya
 akwapim
@@ -16524,6 +16523,7 @@ ashpit
 acini
 antsier
 antsiest
+amoving
 aground
 anywheres
 agisms
