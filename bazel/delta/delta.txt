@@ -7388,7 +7388,6 @@ detonating
 detonation
 detonations
 detonative
-detonator
 detonize
 detour
 duncifying
@@ -15625,6 +15624,7 @@ dissentaneous
 dooputty
 decamp
 doorbrand
+detonator
 doorcheek
 doorhawk
 doorhead

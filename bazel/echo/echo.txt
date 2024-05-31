@@ -1151,6 +1151,7 @@ evocations
 edificed
 edifices
 edified
+expurgative
 edifiers
 edifying
 edifyingly
@@ -8336,7 +8337,6 @@ exquisiteness
 expensively
 epitaphs
 epitases
-expurgative
 endball
 ectosteally
 epitaxic
