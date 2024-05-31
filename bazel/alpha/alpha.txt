@@ -2329,6 +2329,7 @@ acidity
 adustiosis
 adjournments
 acidize
+authorship
 acidized
 acetylcholinesterase
 avives
@@ -23850,7 +23851,6 @@ agostadero
 authorizes
 authorless
 authors
-authorship
 avianized
 authotype
 autocytolytic
