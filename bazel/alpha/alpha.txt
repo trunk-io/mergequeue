@@ -2047,7 +2047,6 @@ acetonaemic
 acetonation
 acetone
 acetonemia
-acetonemic
 acetones
 acetonic
 advances
@@ -10180,6 +10179,7 @@ amboynas
 amboinese
 ambolic
 ambomalleal
+acetonemic
 antenatus
 ambon
 ambones
