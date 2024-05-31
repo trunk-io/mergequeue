@@ -3914,7 +3914,6 @@ filarees
 findon
 foliature
 fine
-fineableness
 finebent
 fruitfullest
 foggage
@@ -4413,6 +4412,7 @@ fountainwise
 faldage
 fomentation
 faddy
+fineableness
 flashlamp
 familiarizations
 factors
