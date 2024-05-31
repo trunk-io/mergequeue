@@ -2197,6 +2197,7 @@ globosity
 gazeless
 gazella
 gazelle
+gyre
 gazellelike
 gazelline
 gazement
@@ -6233,7 +6234,6 @@ goaded
 greit
 gumshoed
 greatly
-gyre
 gastrostomus
 genealogize
 gnomoniaceae

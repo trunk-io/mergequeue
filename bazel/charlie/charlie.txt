@@ -7348,7 +7348,6 @@ cephaline
 cephalins
 cephalism
 colophon
-cephalitis
 cephalization
 cephaloauricular
 cephalobranchiata
@@ -11965,6 +11964,7 @@ chordeiles
 chording
 chorditis
 collectiveness
+cephalitis
 circumferentor
 cationically
 chordomesoderm
