@@ -19385,6 +19385,7 @@ clinid
 colonisationist
 colonise
 colonised
+counterbond
 colonising
 colonist
 chiromancer
@@ -26773,7 +26774,6 @@ calamitously
 counterbewitch
 conjobble
 counterblast
-counterbond
 cautio
 counterborder
 crookneck
