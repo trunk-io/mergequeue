@@ -4018,7 +4018,6 @@ empaneled
 empanelling
 empanels
 emanant
-electroplated
 empaper
 emparchment
 emparl
@@ -7254,6 +7253,7 @@ enzymolysis
 extrudability
 eupnoeas
 eatableness
+electroplated
 eyalet
 emunct
 embayment
