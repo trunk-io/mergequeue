@@ -7895,6 +7895,7 @@ cervicoscapular
 cervicothoracic
 cervicovesical
 cervid
+confluxible
 cervinae
 cosignatory
 cervine
@@ -22146,7 +22147,6 @@ conflow
 confluent
 confluxes
 confluxibility
-confluxible
 conormal
 confluxibleness
 cheateries
