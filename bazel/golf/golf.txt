@@ -6918,7 +6918,6 @@ gonothecal
 gonotyl
 grenadine
 gauntlets
-gonotype
 gonotome
 galeas
 guinfo
@@ -9184,6 +9183,7 @@ grasper
 gaels
 giltcup
 grithbreach
+gonotype
 griths
 ganglions
 granulometric
