@@ -18164,7 +18164,6 @@ astor
 aproctous
 aproned
 aproneer
-aright
 apronful
 aprons
 apronstring
@@ -24675,6 +24674,7 @@ aversant
 averseness
 aversion
 avert
+aright
 adults
 avertable
 averted
