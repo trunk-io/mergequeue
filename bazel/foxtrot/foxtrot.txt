@@ -1528,7 +1528,6 @@ fanaticism
 foresend
 faulx
 flaunter
-flangeway
 focusers
 footplate
 filmmaking
@@ -10460,6 +10459,7 @@ frostbitten
 frostbow
 filibranchiate
 focalization
+flangeway
 frostfish
 frosty
 fantasticality
