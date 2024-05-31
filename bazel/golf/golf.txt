@@ -896,7 +896,6 @@ grogginess
 guarding
 greedygut
 grammaticality
-gamelang
 gonagia
 gamelans
 gameless
@@ -7093,6 +7092,7 @@ gestalter
 graith
 gaumy
 gercrow
+gamelang
 gollar
 gooselike
 glider
