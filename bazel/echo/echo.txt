@@ -1996,7 +1996,6 @@ equals
 extirpation
 eppy
 expeditionist
-ensorcels
 eyeflap
 ejido
 ejoo
@@ -5233,6 +5232,7 @@ esphresis
 endopoditic
 euphonium
 endopods
+ensorcels
 endopolyploidy
 epistolarily
 endoprocta
