@@ -5405,6 +5405,7 @@ ballroom
 backswimmer
 blossomry
 begone
+behest
 begonia
 bridalty
 begoniaceae
@@ -18015,7 +18016,6 @@ belucki
 benevolence
 businesslikeness
 businessmen
-behest
 busing
 busyworks
 brutification
