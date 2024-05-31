@@ -3203,6 +3203,7 @@ grace
 geopotential
 georama
 gelosin
+girds
 gumshoing
 georgemas
 globulins
@@ -4658,7 +4659,6 @@ glottochronology
 gibbing
 greegree
 girdles
-girds
 graminous
 gyred
 girella
