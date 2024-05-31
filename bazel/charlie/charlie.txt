@@ -8113,7 +8113,6 @@ chaetodontidae
 chaetognatha
 chaetognathan
 chaetophobia
-chaetophora
 casabe
 chaetophoraceous
 cuvierian
@@ -28397,6 +28396,7 @@ conversations
 crawtae
 craze
 crazed
+chaetophora
 crazedly
 crazes
 crazy
