@@ -4520,6 +4520,7 @@ bretonian
 bilabials
 beclothe
 beclothes
+blanketry
 blushwort
 beclouded
 buriels
@@ -10453,7 +10454,6 @@ blanketlike
 bootlickers
 blanketmaker
 boatwise
-blanketry
 blankets
 brigue
 blanky
