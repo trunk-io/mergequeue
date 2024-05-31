@@ -4921,6 +4921,7 @@ antitax
 aerobia
 asamblea
 antisubmarine
+anapsid
 aerobic
 aerobiological
 aerobiologically
@@ -11993,7 +11994,6 @@ anapnoic
 anapodeictic
 airedale
 anapophysial
-anapsid
 australopithecus
 anapterygota
 anapterygote

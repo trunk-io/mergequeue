@@ -442,7 +442,6 @@ daytide
 daytimes
 dayton
 disburthen
-denda
 dayward
 dayworker
 daywrit
@@ -11344,6 +11343,7 @@ dehydrogenise
 dischevel
 dyschiria
 dyschroa
+denda
 dyschroia
 dyschromatoptic
 disci
