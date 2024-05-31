@@ -1073,7 +1073,6 @@ farmerlike
 fletcherize
 farmership
 formicarian
-farmhouse
 furphy
 fontinalaceae
 fothergilla
@@ -8286,6 +8285,7 @@ forisfamiliation
 fundulus
 forjaskit
 foujdar
+farmhouse
 forjudges
 forjudging
 formularisation
