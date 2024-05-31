@@ -854,7 +854,6 @@ bagdad
 bagdi
 bagel
 bauxites
-bagful
 bemantle
 barbaric
 baggagemaster
@@ -16806,6 +16805,7 @@ brumbee
 buffable
 buffalo
 buffaloback
+bagful
 blasty
 buffaloes
 buffalofish
