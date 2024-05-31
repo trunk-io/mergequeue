@@ -7369,6 +7369,7 @@ fatalistic
 forborne
 fibroadipose
 forbow
+foxskin
 forestland
 fighter
 fasciculus
@@ -10281,7 +10282,6 @@ frokin
 filum
 frolic
 frolicful
-foxskin
 foreslack
 frolicker
 fonctionnaire
