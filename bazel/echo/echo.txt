@@ -4096,7 +4096,6 @@ empiry
 escapers
 empiric
 empirical
-empiricalness
 empiricism
 eurypelma
 epibolism
@@ -4947,6 +4946,7 @@ estrada
 emulatress
 endocorpuscular
 endeavour
+empiricalness
 endeavorer
 endamaging
 edificable
