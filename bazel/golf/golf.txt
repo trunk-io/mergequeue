@@ -2986,7 +2986,6 @@ groggier
 greekery
 gnawable
 grindstone
-geo
 gallerylike
 geoagronomic
 gigmanhood
@@ -9446,6 +9445,7 @@ gunnies
 gumfield
 groundlessly
 graysbies
+geo
 guacharos
 goldmist
 groundlings
