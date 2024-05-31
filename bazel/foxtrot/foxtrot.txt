@@ -3527,7 +3527,6 @@ falcones
 futtah
 faipule
 forcepses
-feuilletonist
 figurer
 flyweight
 flocculous
@@ -7474,6 +7473,7 @@ feathering
 falconine
 fittable
 flocked
+feuilletonist
 forebitt
 forebitten
 fideos
