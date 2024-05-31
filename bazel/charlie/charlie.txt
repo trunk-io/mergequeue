@@ -11878,7 +11878,6 @@ chonta
 chontal
 chontaquiro
 chookie
-chookies
 choop
 coasted
 choora
@@ -22082,6 +22081,7 @@ confiscable
 confiscatable
 confiscate
 crois
+chookies
 confiscated
 confiscates
 confiscation
