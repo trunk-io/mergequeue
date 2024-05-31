@@ -4167,7 +4167,6 @@ beans
 beansetter
 beanshooter
 beanstalk
-beanstalks
 begrain
 beanweed
 beaproned
@@ -11839,6 +11838,7 @@ browbeater
 bootlegging
 bodybuilding
 bodice
+beanstalks
 bebop
 believing
 brainwashers
