@@ -39,7 +39,6 @@ babblative
 bracketwise
 bimbil
 babblers
-bodement
 babbles
 babbly
 brushable
@@ -2275,6 +2274,7 @@ bevesselled
 barbarically
 barbequing
 bourage
+bodement
 buddler
 bassoons
 barbarisation
