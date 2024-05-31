@@ -7282,6 +7282,7 @@ deteriorates
 deteriorating
 deterioration
 deuce
+data
 dear
 dabblings
 dicyan
@@ -10458,7 +10459,6 @@ damask
 devinct
 disinflame
 disobliging
-data
 duenna
 dialogued
 denotate
