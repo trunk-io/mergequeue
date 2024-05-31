@@ -5469,7 +5469,6 @@ casuistry
 catpipe
 conductances
 cellar
-casuistries
 casule
 casus
 cat
@@ -12432,6 +12431,7 @@ chromatically
 carcinogen
 chromatician
 cantatrici
+casuistries
 constructionally
 chromaticness
 chromatid
