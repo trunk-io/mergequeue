@@ -9593,7 +9593,6 @@ checkrein
 checkroll
 checkroom
 compathy
-checkrooms
 checkrope
 colleagued
 checkrowed
@@ -18306,6 +18305,7 @@ chauldron
 coffers
 cofferwork
 christology
+checkrooms
 coffin
 copper
 coffing
