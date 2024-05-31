@@ -240,7 +240,6 @@ defeminize
 demonstratively
 daggly
 daggar
-dagger
 daggerboard
 dyssynergia
 daggerproof
@@ -14849,6 +14848,7 @@ doctrix
 doctus
 docudramas
 document
+dagger
 disinfector
 documentable
 deist
