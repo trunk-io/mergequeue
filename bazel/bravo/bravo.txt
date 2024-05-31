@@ -1612,7 +1612,6 @@ bestar
 brahms
 balloen
 ballone
-borderings
 bullbird
 ballones
 ballonette
@@ -11111,6 +11110,7 @@ blockers
 brid
 blockhead
 blaver
+borderings
 blockheaded
 bankruptlike
 blockheadish

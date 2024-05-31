@@ -9942,6 +9942,7 @@ chemoresistance
 chemosensitive
 chemoserotherapy
 chemoses
+cryptographist
 conformate
 chemosynthesis
 chemosynthetic
@@ -14303,7 +14304,6 @@ circulative
 carotte
 concentricity
 catatonia
-cryptographist
 circulators
 circulet
 circulus
