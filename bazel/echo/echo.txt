@@ -3898,7 +3898,6 @@ equivote
 electrotonus
 emilia
 extraboldface
-eminencies
 eminent
 ensporia
 eminently
@@ -10652,6 +10651,7 @@ euchres
 endboard
 eckehart
 ethmose
+eminencies
 erotomania
 euchroic
 entomophily
