@@ -10583,6 +10583,7 @@ defending
 defs
 diploid
 diploidic
+doa
 diploidies
 disney
 doryman
@@ -17349,7 +17350,6 @@ disquisition
 desirers
 daughters
 duplicidentata
-doa
 drooled
 drooly
 diacetylmorphine
