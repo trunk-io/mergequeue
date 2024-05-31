@@ -2884,7 +2884,6 @@ alienness
 acromiohyoid
 areometer
 acromiohumeral
-acromioscapular
 acromiosternal
 antichurchian
 acromiothoracic
@@ -11351,6 +11350,7 @@ amphiuma
 abroad
 amphiumidae
 antixerophthalmic
+acromioscapular
 amphivasal
 amphodarch
 amphogeny
