@@ -9140,7 +9140,6 @@ grippleness
 grazier
 garnel
 gunyah
-gryllotalpa
 geulah
 glom
 geochronic
@@ -9893,6 +9892,7 @@ golding
 galette
 galloons
 gibbed
+gryllotalpa
 guaranine
 gelogenic
 glowered
