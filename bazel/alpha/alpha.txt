@@ -5681,7 +5681,6 @@ autosuggestive
 afterstudy
 acetylaminobenzene
 alectoropodes
-antidynamic
 aftermarket
 antethem
 autotherapeutic
@@ -15152,6 +15151,7 @@ antidemoniac
 antidepressant
 antidetonant
 anociassociation
+antidynamic
 antidetonating
 auxographic
 actuose
