@@ -2152,7 +2152,6 @@ elastivity
 elastomer
 emperish
 enfamish
-euryphage
 elastomers
 elastose
 emportment
@@ -10430,6 +10429,7 @@ enquired
 explain
 etwite
 ethnol
+euryphage
 ethnolinguist
 ethnologer
 erysibe
