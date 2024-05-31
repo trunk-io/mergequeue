@@ -4652,7 +4652,6 @@ goosebill
 glycine
 gieseckite
 glouting
-gentianin
 gloeocapsa
 glady
 glottochronology
@@ -8885,6 +8884,7 @@ gecked
 gridded
 gyration
 greund
+gentianin
 griddlecake
 griddlecakes
 gnosiology
