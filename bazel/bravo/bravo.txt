@@ -465,6 +465,7 @@ benzhydroxamic
 bloodstones
 bahuts
 backspaced
+biped
 backspacefile
 balaclava
 backspacer
@@ -9309,7 +9310,6 @@ bypaths
 birchism
 bullishly
 buffin
-biped
 bipedal
 bogo
 bourbonesque
