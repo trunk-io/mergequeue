@@ -10028,7 +10028,6 @@ autoregressive
 ambergris
 ahchoo
 amberite
-actuaries
 amberjack
 arrival
 amberjacks
@@ -22221,6 +22220,7 @@ astragalotibial
 astragalus
 astrain
 antimissile
+actuaries
 astral
 astrally
 astrand
