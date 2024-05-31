@@ -1200,6 +1200,7 @@ bloop
 bakeout
 bakeoven
 bimillenniums
+bardash
 blennostatic
 bakeress
 bakeries
@@ -2538,7 +2539,6 @@ bargemaster
 booklice
 barger
 bloomage
-bardash
 barges
 bicycles
 borscht
