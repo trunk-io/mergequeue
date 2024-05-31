@@ -3420,6 +3420,7 @@ biotechnics
 bassetta
 bughouse
 beholders
+binning
 bassette
 bays
 bassetting
@@ -16726,7 +16727,6 @@ bucolics
 bucorvinae
 bucorvus
 bahama
-binning
 bucrane
 bx
 babis
