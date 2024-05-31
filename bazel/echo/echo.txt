@@ -1429,7 +1429,6 @@ epeidia
 effigies
 epilaryngeal
 effigurate
-effiguration
 efflagitate
 efflate
 emissions
@@ -4818,6 +4817,7 @@ encommon
 encompany
 encompassment
 extinguishing
+effiguration
 encopreses
 exes
 electrolyzer
