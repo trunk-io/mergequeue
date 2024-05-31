@@ -1659,7 +1659,6 @@ calorimetrically
 calorimotor
 calorist
 calorized
-calorizes
 calorizing
 calosoma
 calotermes
@@ -20239,6 +20238,7 @@ commissurotomies
 commistion
 caulite
 commit
+calorizes
 commitment
 commitments
 commits
