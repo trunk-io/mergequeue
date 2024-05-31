@@ -7388,7 +7388,6 @@ detonation
 detonations
 detonative
 detonator
-detonize
 detour
 duncifying
 detectability
@@ -9182,6 +9181,7 @@ doblons
 didric
 didst
 diducing
+detonize
 diduction
 dowses
 devastations
