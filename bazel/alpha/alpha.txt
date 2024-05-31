@@ -14213,7 +14213,6 @@ adrostal
 antenuptial
 amphibious
 anteoccupation
-anteocular
 argyria
 anteopercle
 adenotomy
@@ -22890,6 +22889,7 @@ atriopore
 atrip
 atrypa
 asthenopic
+anteocular
 atriplex
 atrypoid
 assimilation
