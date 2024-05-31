@@ -18170,7 +18170,6 @@ aporosa
 aproterodont
 antirestoration
 aroused
-apsid
 apsidal
 apsides
 apsidiole
@@ -23799,6 +23798,7 @@ autecologically
 acurative
 admov
 autecologist
+apsid
 autem
 auteur
 auth
