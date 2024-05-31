@@ -5557,7 +5557,6 @@ epigeic
 enflame
 embost
 enflames
-enduringness
 eukaryote
 enflaming
 epiklesis
@@ -10171,6 +10170,7 @@ entamoebiasis
 ethanediol
 erianthus
 expurgatorial
+enduringness
 ethanedithiol
 ephedra
 estuate
