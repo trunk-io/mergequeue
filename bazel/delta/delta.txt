@@ -1491,6 +1491,7 @@ dc
 dca
 dcb
 dcollet
+discrepancies
 dcor
 ddname
 dea
@@ -11761,7 +11762,6 @@ discreetly
 disobligatory
 discreetness
 disappointing
-discrepancies
 discrepancries
 discrepantly
 decaudation

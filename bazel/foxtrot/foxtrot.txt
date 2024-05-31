@@ -6684,7 +6684,6 @@ flyblow
 faveoluli
 fogdogs
 fairways
-fogdom
 fogfruit
 foretype
 flatterable
@@ -11725,6 +11724,7 @@ forecool
 futurition
 fratority
 footrail
+fogdom
 futurology
 figurational
 futurologist
