@@ -6610,7 +6610,6 @@ ceders
 cedes
 cunye
 cottiers
-cedi
 cedilla
 cedillas
 ceding
@@ -14214,6 +14213,7 @@ cypselous
 cypselus
 collectibles
 cyptozoic
+cedi
 cyrano
 compend
 contretemps
