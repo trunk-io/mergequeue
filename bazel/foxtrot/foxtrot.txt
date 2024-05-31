@@ -916,7 +916,6 @@ fanums
 fenberry
 fortuitist
 fanwise
-flintlock
 falangism
 fadaise
 fleabug
@@ -6675,6 +6674,7 @@ fogdom
 fogfruit
 foretype
 flatterable
+flintlock
 fogfruits
 fluerics
 fingerroot
