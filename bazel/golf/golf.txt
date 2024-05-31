@@ -814,7 +814,6 @@ gamari
 gamash
 gamashes
 gristliness
-gamasidae
 goombay
 guamuchil
 gamasoidea
@@ -6218,6 +6217,7 @@ gunneries
 gombos
 gressible
 glengarries
+gamasidae
 greatcoats
 gnessic
 granogabbro
