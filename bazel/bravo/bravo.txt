@@ -6883,7 +6883,6 @@ blackbirds
 bin
 berserks
 berskin
-berhyme
 bert
 bugshas
 berteroa
@@ -11463,6 +11462,7 @@ bluetongue
 bedmates
 bluetop
 blueweed
+berhyme
 bravos
 bundlers
 blintze
