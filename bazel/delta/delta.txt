@@ -3364,7 +3364,6 @@ definably
 define
 demyelination
 dizz
-defined
 definedly
 dripproof
 definers
@@ -6408,6 +6407,7 @@ dermosclerite
 dermoskeleton
 dermotropic
 derms
+defined
 ducula
 demurrable
 dern

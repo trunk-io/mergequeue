@@ -5968,7 +5968,6 @@ bellpull
 burhead
 bells
 belltail
-baresarks
 balloons
 bullom
 babylonish
@@ -12865,6 +12864,7 @@ boomslang
 boomslange
 bequote
 birkies
+baresarks
 borrelomycetaceae
 boomster
 bureaucratism
