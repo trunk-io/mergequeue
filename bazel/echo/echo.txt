@@ -6848,7 +6848,6 @@ embonpoint
 entoil
 entoils
 entoloma
-entom
 extender
 episternalia
 expressionful
@@ -11161,6 +11160,7 @@ eutaenia
 eutannin
 everness
 equipotent
+entom
 endimanche
 ephestian
 excruciate
