@@ -5141,7 +5141,6 @@ caseous
 caserios
 cowpunch
 chronal
-caserne
 casernes
 caserns
 cases
@@ -20873,6 +20872,7 @@ componendo
 component
 componental
 componented
+caserne
 confronters
 crocodilian
 componential
