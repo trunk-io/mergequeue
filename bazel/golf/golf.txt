@@ -565,7 +565,6 @@ galleries
 gallerygoer
 galleriidae
 groundless
-galleryite
 gazometer
 gableended
 gybed
@@ -3848,6 +3847,7 @@ gnattier
 guarders
 genipaps
 gibes
+galleryite
 greenbark
 grouchy
 glaze
