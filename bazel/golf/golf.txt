@@ -2322,6 +2322,7 @@ guideway
 gey
 gaits
 geopolitik
+gunmetals
 gladiatorism
 gallantry
 gradation
@@ -10564,7 +10565,6 @@ gurmukhi
 gcd
 gymnodont
 goffering
-gunmetals
 gandhara
 grommets
 goads

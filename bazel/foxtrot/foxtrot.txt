@@ -9639,7 +9639,6 @@ freeholders
 freeholdership
 flueman
 fanwe
-fluviograph
 feeders
 ferias
 fortalice
@@ -11228,6 +11227,7 @@ frescoists
 fungosities
 funguses
 fireball
+fluviograph
 florivorous
 funguslike
 foulminded
