@@ -5158,7 +5158,6 @@ aes
 aesc
 aeschynite
 aeschynomene
-aeschynomenous
 aesculaceae
 aesculaceous
 aesculapius
@@ -6696,6 +6695,7 @@ amphoriskos
 apatosaurus
 aiguellette
 antidomestically
+aeschynomenous
 aiguille
 apocryphally
 aiguilles
