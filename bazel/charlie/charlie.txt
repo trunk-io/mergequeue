@@ -4183,7 +4183,6 @@ cardoncillo
 cerotype
 cardoon
 cardoons
-cardophagus
 clearwing
 carbamido
 chauffeur
@@ -13779,6 +13778,7 @@ cymographic
 capsicins
 cornerstones
 cymoid
+cardophagus
 cenacles
 cysticercus
 cyclostomata

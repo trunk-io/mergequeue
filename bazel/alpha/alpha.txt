@@ -9073,6 +9073,7 @@ allover
 allovers
 allowable
 anteport
+antilytic
 allowableness
 allowancing
 alkalises
@@ -15463,7 +15464,6 @@ antilysin
 antilysis
 antilyssic
 antilithic
-antilytic
 antilitter
 antiliturgy
 amla
