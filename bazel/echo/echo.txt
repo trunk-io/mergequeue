@@ -4033,6 +4033,7 @@ empennages
 exultancy
 embryomas
 etypical
+elevators
 estus
 emperil
 emperors
@@ -5582,7 +5583,6 @@ equipollent
 eretrian
 enfoldings
 enfoldment
-elevators
 enfolds
 enfeeblement
 enfoncee
