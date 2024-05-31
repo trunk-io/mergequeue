@@ -107,6 +107,7 @@ enchisel
 earreach
 extraught
 earrings
+electroencephalography
 ears
 earshot
 edifies
@@ -12967,7 +12968,6 @@ expectorates
 epitheca
 expectorations
 expectorative
-electroencephalography
 eurycerous
 ephebos
 equipollently
