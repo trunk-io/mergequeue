@@ -13283,7 +13283,6 @@ cicatrizate
 cicatrization
 cicatrize
 cott
-cicatrized
 cicatrizer
 cicatrizing
 cicelies
@@ -20999,6 +20998,7 @@ compressively
 compressometer
 compressors
 compressure
+cicatrized
 comprest
 compriest
 causatively
