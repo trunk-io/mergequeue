@@ -2412,6 +2412,7 @@ goodnesses
 gibbartas
 galopin
 gelder
+gratewise
 grisly
 gnabble
 geldesprung
@@ -8340,7 +8341,6 @@ grinds
 granum
 grateless
 graters
-gratewise
 grawls
 grather
 gratia
