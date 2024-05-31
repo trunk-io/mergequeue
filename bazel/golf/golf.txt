@@ -7795,7 +7795,6 @@ gourinae
 grovelled
 grama
 gtc
-geoglossaceae
 gun
 goodsome
 ganoin
@@ -8106,6 +8105,7 @@ granulization
 gardened
 ghastful
 gloomless
+geoglossaceae
 gor
 granuloblastic
 granulocyte
