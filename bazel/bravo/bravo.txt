@@ -4308,7 +4308,6 @@ beaujolais
 beaume
 beaumont
 beaupere
-beauseant
 beausire
 batetela
 buffered
@@ -12959,6 +12958,7 @@ bladderweed
 broadmouth
 bootmaker
 blameless
+beauseant
 breviloquence
 baronetage
 bootmaking
