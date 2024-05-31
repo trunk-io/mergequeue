@@ -7574,7 +7574,6 @@ foulbrood
 farrier
 fossula
 felty
-ferroglass
 fastly
 falcular
 fescenninity
@@ -10512,6 +10511,7 @@ firefall
 fad
 fichat
 frousty
+ferroglass
 frouzy
 frouziest
 frow
