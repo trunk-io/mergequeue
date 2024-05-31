@@ -4776,7 +4776,6 @@ depressor
 demivambrace
 diminutivize
 demivierge
-deckedout
 demivirgin
 deadeyes
 demivol
@@ -8454,6 +8453,7 @@ deliveror
 diallists
 dialog
 downsize
+deckedout
 dialoger
 dialogers
 dialogged
