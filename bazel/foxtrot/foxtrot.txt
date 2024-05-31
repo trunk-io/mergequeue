@@ -2473,7 +2473,6 @@ fermatas
 fleshed
 festivities
 figpecker
-ferme
 frizzle
 firebird
 futtock
@@ -6783,6 +6782,7 @@ forethink
 foldboating
 foldcourse
 festin
+ferme
 frontal
 flaccidity
 faithfuls
