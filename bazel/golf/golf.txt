@@ -1769,7 +1769,6 @@ gastroenterologic
 gastroepiploic
 gonarthritis
 guardants
-gabbler
 gastroesophageal
 gastrograph
 griffon
@@ -9269,6 +9268,7 @@ gedder
 gleamed
 grolieresque
 glycerole
+gabbler
 giggles
 gromatical
 gromia
