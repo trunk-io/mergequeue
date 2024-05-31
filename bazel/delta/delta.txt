@@ -9681,7 +9681,6 @@ dicerion
 demicircle
 daboia
 dika
-dampened
 dispersedelement
 delignated
 diaphanometer
@@ -16200,6 +16199,7 @@ dowager
 dowagerism
 dulcimer
 dowagers
+dampened
 dromical
 dissour
 dowcote
