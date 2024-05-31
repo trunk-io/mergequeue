@@ -2342,7 +2342,6 @@ electrobath
 electrobiological
 epicenity
 eremitic
-excuderunt
 epistroma
 electrocardiogram
 exoperidium
@@ -8129,6 +8128,7 @@ equulei
 enteroscopy
 escartelly
 exotic
+excuderunt
 expositor
 epiglottidean
 epiphloeum

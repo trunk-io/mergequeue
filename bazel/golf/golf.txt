@@ -895,7 +895,6 @@ gobemouche
 grogginess
 guarding
 greedygut
-grammaticality
 gamelang
 gonagia
 gamelans
@@ -3547,6 +3546,7 @@ gestatory
 gyrinid
 ginglyform
 gested
+grammaticality
 gingham
 graphonomy
 gussied
