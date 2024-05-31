@@ -12,6 +12,7 @@ flagellators
 footsoldier
 fabled
 fablemaker
+flaught
 fistuliform
 fablemongering
 fumigator
@@ -3290,7 +3291,6 @@ foldwards
 faradizer
 featurely
 fidate
-flaught
 flocculently
 freit
 functorial
