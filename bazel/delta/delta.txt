@@ -8310,7 +8310,6 @@ diagonalization
 diagnosing
 diseurs
 diagonals
-deducting
 diagonalwise
 dedans
 dicatalexis
@@ -17924,6 +17923,7 @@ dilatory
 degasser
 disillusionise
 duffel
+deducting
 duffels
 duffer
 dekares
