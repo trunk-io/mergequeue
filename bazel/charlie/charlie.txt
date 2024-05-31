@@ -9222,7 +9222,6 @@ chartulary
 coalface
 chartularies
 chartulas
-charwoman
 cowards
 charwomen
 chasable
@@ -28963,6 +28962,7 @@ cricoid
 cricoids
 cricopharyngeal
 cellulosed
+charwoman
 cricothyreoid
 cricothyreotomy
 choosey
