@@ -5494,7 +5494,6 @@ fossils
 flybys
 flyblowing
 flyblows
-freshmanic
 fiendlike
 fleers
 flaxlike
@@ -6360,6 +6359,7 @@ fluorescer
 footbridge
 floreal
 fluorescigenic
+freshmanic
 finick
 fetichic
 fluoroform
