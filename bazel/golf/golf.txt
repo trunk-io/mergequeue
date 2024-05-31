@@ -5046,7 +5046,6 @@ geomaly
 gangway
 geodiatropism
 guvacoline
-garaging
 glairin
 gypsite
 genoblast
@@ -7854,6 +7853,7 @@ gelatification
 gramme
 groggiest
 gumwood
+garaging
 gilbertage
 guildsman
 gusty
