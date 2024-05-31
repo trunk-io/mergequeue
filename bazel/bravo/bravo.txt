@@ -5730,7 +5730,6 @@ bombazeen
 bodgie
 beleaguered
 beleaguering
-beleaguers
 beleapt
 belection
 belecture
@@ -13720,6 +13719,7 @@ briefs
 bourse
 bourtree
 bathochrome
+beleaguers
 betallow
 bdellostomidae
 bisiliquous
