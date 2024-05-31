@@ -4581,6 +4581,7 @@ dosimetric
 demifarthing
 demifigure
 demigardebras
+decentres
 disinflated
 demigauntlet
 disclosing
@@ -9232,7 +9233,6 @@ dieing
 dyeings
 dieldrin
 decahedrodra
-decentres
 dieldrins
 dyeleaves
 dielectric
