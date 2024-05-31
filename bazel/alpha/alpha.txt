@@ -21038,7 +21038,6 @@ ascidioida
 ascidioidea
 ascidiozoa
 ascidiozooid
-asciferous
 ascyphous
 ascyrum
 authorizable
@@ -23622,6 +23621,7 @@ auriscopy
 auriscopic
 aurist
 aurists
+asciferous
 assentiveness
 aurited
 ankee
