@@ -29933,6 +29933,7 @@ crosstown
 crosstrack
 crosstree
 crossway
+curara
 crossways
 crosswalks
 crossweb
@@ -31209,7 +31210,6 @@ curacoas
 curage
 chisellers
 curaghs
-curara
 curaras
 curares
 caulker
