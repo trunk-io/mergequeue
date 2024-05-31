@@ -9394,7 +9394,6 @@ autocratic
 amanda
 arkansan
 alphabetized
-alphabetizer
 alphabetizers
 agaces
 acroblast
@@ -10217,6 +10216,7 @@ ambulacra
 ambulacriform
 acuation
 ambulacrum
+alphabetizer
 ambulance
 acheilary
 amoeboidism
