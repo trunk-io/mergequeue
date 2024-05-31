@@ -2843,7 +2843,6 @@ genotypic
 galatotrophic
 greathead
 gunfire
-glop
 germanism
 gipped
 grabbed
@@ -4729,6 +4728,7 @@ gyroceran
 gramoches
 golliwogg
 gorkhali
+glop
 gyrocompasses
 gyrodactylidae
 gapa
