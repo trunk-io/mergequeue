@@ -5187,7 +5187,6 @@ beflour
 busti
 beflowered
 biotas
-bogbean
 beflum
 befluster
 baetylus
@@ -18113,6 +18112,7 @@ boosts
 brachypnea
 blocklayer
 butcherbird
+bogbean
 bipalium
 brins
 breakwater
