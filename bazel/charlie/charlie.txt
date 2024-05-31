@@ -11936,6 +11936,7 @@ chopstick
 chopsticks
 chopunnish
 cultch
+coequalize
 chora
 cagn
 choragi
@@ -18167,7 +18168,6 @@ coenzymatically
 coenzymes
 coequal
 coequality
-coequalize
 campman
 coequalness
 chopping
