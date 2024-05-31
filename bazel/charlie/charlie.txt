@@ -5844,6 +5844,7 @@ cater
 capuli
 cachexic
 caterans
+contiguous
 caterbrawl
 catercap
 catercorner
@@ -23605,7 +23606,6 @@ corycavidin
 compulsatory
 contignation
 contiguity
-contiguous
 continence
 continental
 continentaler
