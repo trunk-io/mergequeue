@@ -7892,7 +7892,6 @@ cervicoscapular
 cervicothoracic
 cervicovesical
 cervid
-cervinae
 cosignatory
 cervine
 cervixes
@@ -13736,6 +13735,7 @@ cubicles
 cymbel
 cymbid
 clochard
+cervinae
 cymbidium
 cymbiform
 copartner
