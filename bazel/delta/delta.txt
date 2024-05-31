@@ -8913,7 +8913,6 @@ diccon
 domines
 dice
 dyce
-diceboard
 dicebox
 debituminize
 dissemilative
@@ -15001,6 +15000,7 @@ divus
 doggedness
 dysmetria
 dogger
+diceboard
 disembosom
 disarrangements
 doggerel
