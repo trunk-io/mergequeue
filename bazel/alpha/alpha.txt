@@ -8402,6 +8402,7 @@ absentia
 aliner
 alines
 arthroendoscopy
+airify
 agistment
 alinit
 alintatao
@@ -17632,7 +17633,6 @@ apparens
 apparent
 apparentements
 abacisci
-airify
 apparently
 apparentness
 apparitional
