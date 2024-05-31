@@ -8110,7 +8110,6 @@ granulet
 gourmanderie
 galuth
 granulization
-gardened
 ghastful
 gloomless
 gor
@@ -10212,6 +10211,7 @@ guido
 gladiolar
 gighe
 goos
+gardened
 guids
 gillies
 guidwife
