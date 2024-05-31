@@ -3558,7 +3558,6 @@ gesticulations
 gesticulative
 gestion
 gestning
-gestural
 gallimaufries
 gestureless
 glassy
@@ -9138,6 +9137,7 @@ guaka
 grippit
 gripple
 gateage
+gestural
 gunebo
 guller
 gibberosity
