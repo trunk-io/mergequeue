@@ -6379,6 +6379,7 @@ ethmoids
 ensient
 ensemble
 ensiform
+existents
 equilocation
 ensign
 electroplaque
@@ -8436,7 +8437,6 @@ epitomizes
 epitomizing
 explementary
 epitonion
-existents
 epitra
 epitrachelia
 elfish

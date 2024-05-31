@@ -1489,6 +1489,7 @@ boyarisms
 brith
 blighter
 balkish
+brome
 baryton
 beggar
 boroglycerate
@@ -15800,7 +15801,6 @@ bloomsburian
 boilermakers
 bodybuild
 bratling
-brome
 bromegrass
 bromeigon
 bromeikon
