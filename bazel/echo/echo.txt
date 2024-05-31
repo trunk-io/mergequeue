@@ -481,7 +481,6 @@ ecclesiophobia
 entomologic
 eccrine
 eccrinology
-eccrisis
 eccritic
 extradecretal
 embrangling
@@ -4121,6 +4120,7 @@ entries
 emplanement
 entoilment
 emplanes
+eccrisis
 emplaster
 elevating
 emplastic
