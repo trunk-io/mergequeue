@@ -9872,7 +9872,6 @@ banderoles
 boos
 bistros
 bisubstituted
-bisubstitution
 bisulc
 babblingly
 bubblebow
@@ -14717,6 +14716,7 @@ brazee
 brunt
 birdcraft
 backwall
+bisubstitution
 brazenfacedness
 bicaudal
 brazenly
