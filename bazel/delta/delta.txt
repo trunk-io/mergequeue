@@ -4486,7 +4486,6 @@ demeanor
 dayshine
 dactylograph
 disallowableness
-disembark
 demeanored
 dissidents
 devotee
@@ -13668,6 +13667,7 @@ dorize
 dequantitate
 dissimilate
 dissimilated
+disembark
 dissimilating
 dissimilation
 dissimilative
