@@ -4325,7 +4325,6 @@ caricaceous
 cotemporaneous
 carcinology
 caricatura
-caricaturable
 caricatural
 caricature
 caricatured
@@ -25545,6 +25544,7 @@ cutdown
 coroa
 coroado
 corocleisis
+caricaturable
 corody
 corodiary
 corodiastasis
