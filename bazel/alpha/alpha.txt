@@ -3603,7 +3603,6 @@ adelantado
 attackable
 adelantados
 adelante
-alidade
 adelarthra
 alectryon
 apetalae
@@ -18651,6 +18650,7 @@ aporobranchia
 arborists
 arsmetrike
 acidophilous
+alidade
 arborize
 arborizing
 abaca
