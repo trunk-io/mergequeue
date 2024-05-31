@@ -6620,7 +6620,6 @@ formalize
 forwrap
 forbye
 focsle
-flowerpot
 fatalistically
 fashes
 floscularia
@@ -11092,6 +11091,7 @@ fructosan
 filled
 falconbill
 functional
+flowerpot
 farceuse
 fantoms
 functionalities
