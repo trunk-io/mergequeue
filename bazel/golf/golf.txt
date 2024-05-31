@@ -5053,7 +5053,6 @@ gladdened
 glaives
 get
 grulla
-ghebeta
 geochemistry
 glali
 galangal
@@ -10693,6 +10692,7 @@ garvock
 gunship
 glossocoma
 gusher
+ghebeta
 gripsacks
 goethe
 gargety
