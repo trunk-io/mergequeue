@@ -7836,6 +7836,7 @@ facings
 forepretended
 frightfully
 firestorm
+fivers
 foreprize
 forepromise
 foreprovision
@@ -9360,7 +9361,6 @@ fatiguabilities
 fleecier
 frankfurters
 ferlies
-fivers
 frankify
 fictionalization
 fragrances
