@@ -6997,6 +6997,7 @@ entracte
 entradas
 entrain
 entrained
+ectogenous
 epizootiologic
 entraining
 entrainment
@@ -8897,7 +8898,6 @@ ethnicon
 emboweller
 erections
 erectness
-ectogenous
 endarteritis
 erectopatent
 etymography
