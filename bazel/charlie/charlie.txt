@@ -14476,7 +14476,6 @@ circumferent
 charitable
 claver
 conamed
-circumrotate
 circumrotated
 crown
 circumrotatory
@@ -17005,6 +17004,7 @@ clunking
 clunks
 clunter
 coutille
+circumrotate
 clupanodonic
 clupea
 clippings
