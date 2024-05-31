@@ -677,7 +677,6 @@ cafetal
 cafeteria
 cairba
 cafeterias
-cafetiere
 cafetorium
 caff
 caffeic
@@ -28723,6 +28722,7 @@ creolized
 creolizing
 convected
 cypriotes
+cafetiere
 creophagia
 creophagous
 creosol
