@@ -11003,6 +11003,7 @@ dibbler
 diasystem
 disaligned
 diipolia
+dihelios
 disally
 disalliege
 disallow
@@ -14439,7 +14440,6 @@ discolith
 divestitive
 divestitures
 daven
-dihelios
 decoupling
 divestment
 deckhouse
