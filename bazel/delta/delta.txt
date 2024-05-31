@@ -2837,7 +2837,6 @@ dop
 dorsalward
 demihearse
 disharmonize
-decremental
 dactylioglyphy
 decrements
 decremeter
@@ -8693,6 +8692,7 @@ delfs
 diascia
 diascope
 domed
+decremental
 distracted
 didactyl
 dewater
