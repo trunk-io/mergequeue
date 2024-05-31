@@ -2086,7 +2086,6 @@ foys
 forehook
 franca
 flocky
-fele
 frijol
 filibuster
 felicitating
@@ -5409,6 +5408,7 @@ formatters
 fanjets
 furfuran
 fleshliest
+fele
 fleshliness
 fw
 fiddleneck
