@@ -2069,7 +2069,6 @@ bedeguar
 blobbing
 bankrider
 brachycome
-bicollaterality
 brinkless
 bankrolled
 bankrolling
@@ -2238,6 +2237,7 @@ bemaddens
 barathra
 barato
 baghla
+bicollaterality
 bontebok
 bedrivelled
 barbel
