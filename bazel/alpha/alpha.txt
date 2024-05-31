@@ -14318,7 +14318,6 @@ anterosuperior
 antescript
 autocystoplasty
 aupaka
-antesignanus
 antesternal
 antesternum
 amphichromatic
@@ -15437,6 +15436,7 @@ aposematic
 anthropomorphize
 antikings
 azelate
+antesignanus
 antiknock
 aviatory
 antilaborist
