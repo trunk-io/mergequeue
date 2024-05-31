@@ -1451,6 +1451,7 @@ freewheelers
 fattening
 fattest
 follow
+frameless
 fattier
 flannelmouths
 false
@@ -11712,7 +11713,6 @@ feasts
 far
 foretellableness
 fernsick
-frameless
 fumaryl
 fiancailles
 furriered
