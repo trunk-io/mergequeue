@@ -6570,6 +6570,7 @@ fluxive
 flatwares
 forespent
 fluxure
+fungible
 fustle
 fn
 footcloth
@@ -11179,7 +11180,6 @@ fungia
 fungian
 fthm
 fungibility
-fungible
 fideists
 fungicidal
 fungicidally
