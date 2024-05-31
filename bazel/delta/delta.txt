@@ -8972,7 +8972,6 @@ dail
 dusterman
 dichroism
 dihydride
-datacell
 dated
 dichroite
 dichroitic
@@ -17080,6 +17079,7 @@ diceratidae
 dismally
 diclinies
 diaplexus
+datacell
 disaffected
 driddle
 dysplastic
