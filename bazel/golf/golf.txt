@@ -2812,7 +2812,6 @@ garde
 geniculum
 golfing
 grasps
-genitor
 gauntry
 gripeful
 gorlois
@@ -3216,6 +3215,7 @@ geoscience
 gangsters
 geoscientists
 gonopoietic
+genitor
 gellant
 geoscopy
 gelasian
