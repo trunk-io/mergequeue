@@ -2152,7 +2152,6 @@ bantery
 boxfishes
 biotechnologies
 boiler
-bantering
 banteringly
 banty
 bushrope
@@ -17901,6 +17900,7 @@ bearbush
 bacillariales
 bacilluria
 bushcraft
+bantering
 bushelbasket
 bepaints
 bothroi
