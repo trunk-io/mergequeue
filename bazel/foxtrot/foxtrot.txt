@@ -3468,6 +3468,7 @@ forseen
 figaro
 farm
 figeater
+finestill
 fat
 floriate
 figent
@@ -7764,7 +7765,6 @@ foremilk
 foremilks
 fondouk
 fineries
-finestill
 funfairs
 feudalized
 firetraps
