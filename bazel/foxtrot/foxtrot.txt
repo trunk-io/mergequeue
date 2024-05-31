@@ -390,7 +390,6 @@ flows
 fulminating
 fairfieldite
 fashioners
-fogged
 fastigated
 folkland
 fairground
@@ -9326,6 +9325,7 @@ flappy
 figeter
 fanneling
 frangibility
+fogged
 flummydiddle
 frangible
 frangipani
