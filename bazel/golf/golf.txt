@@ -2303,7 +2303,6 @@ glossopharyngeal
 gristle
 gossipmongering
 graverobber
-gunpowder
 grovel
 grillading
 gunsels
@@ -8855,6 +8854,7 @@ geronto
 glauconitic
 gonimic
 gressorious
+gunpowder
 gentman
 glucolipine
 gasworker
