@@ -3372,6 +3372,7 @@ advential
 adamantoblast
 adamantoblastoma
 adamants
+appositive
 adamas
 archery
 acetates
@@ -17964,7 +17965,6 @@ apposition
 appositional
 afrown
 appositionally
-appositive
 apppetible
 appraisable
 atmans
