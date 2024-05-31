@@ -5157,6 +5157,7 @@ flunk
 flavanilin
 flambeing
 floosies
+fetch
 fiscals
 flavescence
 fingall
@@ -11622,7 +11623,6 @@ footglove
 febrifugal
 fieri
 foregame
-fetch
 fioretti
 fusty
 frack
