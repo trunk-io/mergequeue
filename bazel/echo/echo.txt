@@ -6161,7 +6161,6 @@ envisionment
 enolizing
 enological
 educate
-enols
 esquireship
 enterclose
 execs
@@ -8727,6 +8726,7 @@ equiperiodic
 expander
 equipment
 equipoise
+enols
 equipollency
 estrone
 evasively
