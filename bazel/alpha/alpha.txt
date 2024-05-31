@@ -5016,6 +5016,7 @@ aerographical
 aerographies
 aerogun
 aerohydrodynamic
+assail
 aerohydropathy
 approachment
 antritis
@@ -21617,7 +21618,6 @@ assayers
 allometry
 assaying
 antitorpedo
-assail
 assailable
 adenectopic
 assailableness
