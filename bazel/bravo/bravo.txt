@@ -11677,7 +11677,6 @@ boatlike
 boatlip
 boatload
 bankerdom
-boatloader
 boatloading
 boatloads
 bowllike
@@ -13798,6 +13797,7 @@ bestializes
 bowdlerise
 bezantee
 bowdlerised
+boatloader
 biodyne
 bowdlerising
 benighten
