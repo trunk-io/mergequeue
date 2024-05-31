@@ -8856,6 +8856,7 @@ bimotors
 bruisers
 boloman
 bimucronate
+bolides
 bumblebee
 bosc
 bioecologies
@@ -15108,7 +15109,6 @@ bribeless
 briber
 briberies
 bribers
-bolides
 barbiturate
 brevicaudate
 bribeworthy
