@@ -4782,7 +4782,6 @@ extense
 esox
 enlimn
 encoil
-egrid
 encolden
 encollar
 equitangential
@@ -6187,6 +6186,7 @@ elans
 erugatory
 enoughs
 enounce
+egrid
 enounced
 extenuating
 enouncement
