@@ -10820,7 +10820,6 @@ ammo
 amphibological
 abhiseka
 ammochaetae
-ammocoete
 ammocoetes
 addossed
 alloantibody
@@ -20490,6 +20489,7 @@ aequoreal
 artemision
 artemisium
 anchoretical
+ammocoete
 aitiology
 autoptical
 arenae
