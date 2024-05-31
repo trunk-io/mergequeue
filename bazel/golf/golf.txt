@@ -5506,7 +5506,6 @@ glutenin
 granomerite
 glyoxal
 gaga
-geared
 glyoxalic
 griffith
 galliwasp
@@ -8323,6 +8322,7 @@ grippes
 grata
 gunplay
 ghawazi
+geared
 gorgonize
 grateful
 groundman
