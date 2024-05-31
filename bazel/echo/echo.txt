@@ -800,6 +800,7 @@ espigle
 ecraseurs
 elboic
 ecroulement
+eiffel
 emydidae
 extramedullary
 ecstasis
@@ -4160,7 +4161,6 @@ employer
 exedral
 elastance
 employment
-eiffel
 epilithic
 ensheathed
 every
