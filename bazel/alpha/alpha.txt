@@ -12613,6 +12613,7 @@ anesthesis
 anesthetically
 anesthetics
 anesthetization
+auspicating
 anesthetize
 anesthetized
 anesthetizes
@@ -23676,7 +23677,6 @@ auspex
 anisopodous
 acetifier
 auspicated
-auspicating
 avowance
 alto
 auspice
