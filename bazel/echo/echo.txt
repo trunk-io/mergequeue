@@ -3504,7 +3504,6 @@ emblements
 errantly
 emblemist
 eternising
-epibenthos
 emblemizing
 emblemology
 extinguised
@@ -7999,6 +7998,7 @@ exptl
 epilogued
 episcoparian
 epilogues
+epibenthos
 epiloguize
 exordia
 encephalogram
