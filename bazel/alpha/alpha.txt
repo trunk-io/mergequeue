@@ -5699,6 +5699,7 @@ aftertastes
 ancestress
 asherahs
 achromatium
+ardors
 afterthought
 afterthoughts
 afterthrift
@@ -19343,7 +19344,6 @@ arditi
 ardito
 azocorinth
 ardoise
-ardors
 ardour
 ardours
 ardri
