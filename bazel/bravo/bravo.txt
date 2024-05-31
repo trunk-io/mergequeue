@@ -4261,7 +4261,6 @@ beastship
 beat
 benches
 beatable
-beatae
 beatee
 beaters
 beech
@@ -14335,6 +14334,7 @@ brailling
 braillist
 bombinae
 bettors
+beatae
 braincap
 brachiferous
 braincase
