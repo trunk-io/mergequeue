@@ -13117,7 +13117,6 @@ basophil
 bornane
 bornean
 borneol
-borneols
 bidi
 belaced
 borning
@@ -17209,6 +17208,7 @@ bullpup
 bullragged
 bullragging
 bullrings
+borneols
 bullrush
 bijouterie
 bullrushes
