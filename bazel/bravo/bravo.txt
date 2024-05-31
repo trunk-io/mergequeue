@@ -10340,7 +10340,6 @@ bladderwrack
 blade
 brite
 bladebone
-bladelike
 beleaguerer
 bosporian
 befrogged
@@ -11043,6 +11042,7 @@ bendways
 babysit
 blitzkrieging
 backstairs
+bladelike
 bargello
 bardelle
 basioccipital

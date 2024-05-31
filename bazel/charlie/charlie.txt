@@ -1292,7 +1292,6 @@ caliburno
 colossuses
 crawfished
 calycanth
-cosmognosis
 calycanthaceae
 calycanthaceous
 concentrating
@@ -18954,6 +18953,7 @@ collaborativeness
 claw
 collaborator
 collaborators
+cosmognosis
 calligrapher
 colladas
 collage
