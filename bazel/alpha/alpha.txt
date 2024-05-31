@@ -16620,7 +16620,6 @@ aortectasis
 aortic
 aortographic
 augelite
-aortoiliac
 amurcous
 agathism
 aortomalaxis
@@ -16974,6 +16973,7 @@ aphthong
 aporose
 aphthongal
 aberrations
+aortoiliac
 aphthongia
 apiaca
 apiaceae
