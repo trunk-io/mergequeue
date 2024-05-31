@@ -6209,7 +6209,6 @@ grume
 gablock
 gonococcoid
 gloriette
-gnaws
 gedanite
 glebes
 germarium
@@ -8891,6 +8890,7 @@ gridded
 gyration
 greund
 gentianin
+gnaws
 griddlecake
 griddlecakes
 gnosiology
