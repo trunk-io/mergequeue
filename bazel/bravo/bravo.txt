@@ -11320,7 +11320,6 @@ backlashes
 blowen
 blower
 bullshits
-blowgun
 blowguns
 blatchang
 blowhole
@@ -14215,6 +14214,7 @@ bassinets
 bradley
 bareka
 bradmaker
+blowgun
 bonbonnieres
 beckiron
 barbadian
