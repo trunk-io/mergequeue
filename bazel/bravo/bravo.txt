@@ -7642,7 +7642,6 @@ blowpit
 bewailing
 bewails
 bandolier
-beware
 bernoullian
 bewary
 bewash
@@ -9826,6 +9825,7 @@ basilosaurus
 boatie
 byssogenous
 byssoid
+beware
 blurring
 byssolite
 bisson
