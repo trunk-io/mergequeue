@@ -12144,7 +12144,6 @@ boldfacing
 boldhearted
 beloid
 boldheartedly
-boldine
 boldly
 boldnesses
 boldo
@@ -16868,6 +16867,7 @@ buffs
 bullfighting
 basihyal
 brei
+boldine
 bufo
 bufonid
 bargee
