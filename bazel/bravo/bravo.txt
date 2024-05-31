@@ -7430,6 +7430,7 @@ bootstrap
 bethink
 barquentine
 balaenoptera
+becumber
 bethinks
 baklawa
 brasilia
@@ -15287,7 +15288,6 @@ blondine
 brigadier
 bitripartite
 brachypterous
-becumber
 brigandine
 brigandish
 bandhu
