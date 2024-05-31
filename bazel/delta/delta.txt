@@ -374,7 +374,6 @@ daimios
 dorsula
 dadap
 daimyos
-drinkers
 daimiote
 disprovement
 disembargoing
@@ -18414,6 +18413,7 @@ duplexer
 duplexers
 duplexing
 duplicability
+drinkers
 denudates
 duplicates
 duplication
