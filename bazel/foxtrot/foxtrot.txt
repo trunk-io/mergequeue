@@ -5512,7 +5512,6 @@ flyblows
 freshmanic
 fiendlike
 fleers
-flaxlike
 flybrush
 felsophyre
 flatulences
@@ -11719,6 +11718,7 @@ fiancailles
 falus
 futuristically
 futurists
+flaxlike
 foredesign
 faubourg
 forecool
