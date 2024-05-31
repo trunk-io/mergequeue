@@ -5098,6 +5098,7 @@ flatness
 faceting
 flatted
 flattercap
+forehatch
 fremdly
 fragmentized
 foolheadedness
@@ -11499,7 +11500,6 @@ fastgoing
 fairleader
 froggery
 furtherly
-forehatch
 foothill
 fenagler
 fingerparted
