@@ -9034,7 +9034,6 @@ gease
 grimnesses
 gearcase
 gladiatory
-gerontologic
 gainstand
 grimsire
 grin
@@ -10675,6 +10674,7 @@ gurney
 gurneyite
 gurnet
 guests
+gerontologic
 granaries
 generalissima
 gandhist
