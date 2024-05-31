@@ -2464,7 +2464,6 @@ equivalence
 electrogenic
 electrogild
 electrogilt
-ejecting
 electrogram
 eleve
 exegete
@@ -4092,6 +4091,7 @@ evicting
 evangelised
 exorcist
 empiry
+ejecting
 escapers
 empiric
 empirical
