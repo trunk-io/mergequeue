@@ -8732,6 +8732,7 @@ desiredness
 diastem
 dipnoan
 diastema
+duckbill
 diastemata
 dodecahydrated
 deraigned
@@ -17783,7 +17784,6 @@ duchy
 desoxycorticosterone
 duck
 depa
-duckbill
 duckstone
 dossing
 duckblind
