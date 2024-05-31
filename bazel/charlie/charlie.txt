@@ -1264,7 +1264,6 @@ calflike
 calfling
 calfs
 calfskin
-creatural
 calgary
 caliban
 caliber
@@ -12538,6 +12537,7 @@ chromocollotype
 chromocratic
 capetonian
 chromoctye
+creatural
 chromodermatosis
 chromodiascope
 chromogen
