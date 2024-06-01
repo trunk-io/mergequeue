@@ -4904,7 +4904,6 @@ aeroballistic
 agapemonite
 aerobate
 aerobatic
-aerobatics
 aerobe
 azalea
 aerobee
@@ -17014,6 +17013,7 @@ apikorsim
 apili
 apprehender
 apimanias
+aerobatics
 apina
 aciculated
 armillated
