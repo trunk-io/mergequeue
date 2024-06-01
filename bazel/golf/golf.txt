@@ -3281,7 +3281,6 @@ geranyl
 gloppen
 giraffes
 groaningly
-graftage
 geraniums
 giron
 gilgul
@@ -9727,6 +9726,7 @@ gentling
 glossator
 gryphon
 gordiidae
+graftage
 grumose
 gablewise
 gambes
