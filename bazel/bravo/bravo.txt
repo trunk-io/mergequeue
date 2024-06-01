@@ -13083,7 +13083,6 @@ butylic
 borers
 bowlmaker
 bedusk
-bores
 belfry
 boresight
 beblubber
@@ -13599,6 +13598,7 @@ brairo
 bigener
 bolomen
 bouleuterion
+bores
 boulevardiers
 boulework
 berggylt
