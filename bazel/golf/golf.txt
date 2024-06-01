@@ -6036,6 +6036,7 @@ gnomide
 glottal
 gilgames
 gastroenterotomy
+gastromalacia
 gewgawish
 glueyness
 grogshops
@@ -9603,7 +9604,6 @@ growthy
 guisarme
 gracileness
 gorevan
-gastromalacia
 growthless
 goosewinged
 genson
