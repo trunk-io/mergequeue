@@ -388,6 +388,7 @@ altercation
 annabel
 abietin
 abietineae
+agaricoid
 auricyanide
 abiezer
 abigail
@@ -5843,7 +5844,6 @@ agaricaceae
 agaricaceous
 agaricales
 agaricine
-agaricoid
 agarics
 agaricus
 absurds
