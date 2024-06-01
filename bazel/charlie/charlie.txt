@@ -11241,7 +11241,6 @@ chlamydozoa
 chlamydozoan
 chlamyphore
 carroting
-chlamyphorus
 chlamyses
 chleuh
 chloanthite
@@ -27010,6 +27009,7 @@ counteroffer
 counteropening
 counteropponent
 culotte
+chlamyphorus
 carbethoxyl
 counteropposite
 counterorder
