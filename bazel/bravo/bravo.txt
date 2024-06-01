@@ -299,7 +299,6 @@ bostryx
 bowknots
 backbone
 backboned
-benzoid
 backbonelessness
 backbones
 backbrand
@@ -13383,6 +13382,7 @@ backshift
 bluegills
 benzophenanthroline
 bothrenchyma
+benzoid
 billsticker
 bandage
 bothria
