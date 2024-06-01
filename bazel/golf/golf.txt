@@ -4100,6 +4100,7 @@ gravamem
 gravels
 gilds
 gildship
+gawn
 gildsmen
 grossers
 gastrosplenic
@@ -5029,7 +5030,6 @@ glossotomy
 galoch
 goldilocks
 glaiket
-gawn
 gavotted
 glaiks
 glaymore
