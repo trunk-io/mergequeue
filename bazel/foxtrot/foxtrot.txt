@@ -2426,7 +2426,6 @@ foredating
 fromfile
 frescoers
 freelage
-fantods
 feridjee
 falls
 fervidor
@@ -6807,6 +6806,7 @@ folgerite
 fenceplay
 foliaceous
 fluviology
+fantods
 foretold
 fruitist
 frouzier
