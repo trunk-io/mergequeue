@@ -6385,6 +6385,7 @@ dermographia
 dermohemia
 dermohumeral
 dermoid
+disject
 dermoidal
 dermoidectomy
 desexed
@@ -12596,7 +12597,6 @@ disjasked
 disanoint
 disjasket
 disjaskit
-disject
 disjected
 disjoin
 discourage
