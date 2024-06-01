@@ -4717,6 +4717,7 @@ dynasty
 demirobe
 demonastery
 donn
+defeatist
 dungyard
 dol
 depose
@@ -15714,7 +15715,6 @@ doraskean
 dorbeetle
 dorbel
 dorbugs
-defeatist
 dorcastry
 dorcatherium
 dorcopsis
