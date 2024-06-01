@@ -1836,6 +1836,7 @@ benzyls
 bridgewall
 bushwood
 bananivorous
+brent
 banatite
 billycans
 banc
@@ -5536,7 +5537,6 @@ behoof
 behoove
 behooveful
 behoovefulness
-brent
 bazigar
 behooves
 brakeages
