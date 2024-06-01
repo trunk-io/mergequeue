@@ -6849,7 +6849,6 @@ epulones
 entoglossal
 enrooted
 embonpoint
-entoil
 entoils
 entoloma
 entom
@@ -9607,6 +9606,7 @@ esd
 exempt
 endosporous
 esuriently
+entoil
 esebrias
 exigible
 enantiotropy
