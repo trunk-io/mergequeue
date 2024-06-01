@@ -3211,7 +3211,6 @@ capitalizing
 capitalness
 capitals
 capitan
-capitana
 capitasti
 capitated
 capitatim
@@ -17587,6 +17586,7 @@ cocao
 chairmen
 cocarde
 chomped
+capitana
 cocash
 cocause
 cocautioner
