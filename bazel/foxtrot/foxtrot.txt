@@ -4896,7 +4896,6 @@ flamer
 flamers
 ferments
 flubbing
-featherweight
 fallback
 flamethrowers
 frankpledge
@@ -6073,6 +6072,7 @@ florists
 frondeur
 forgift
 flotative
+featherweight
 fishmeal
 freighter
 favouringly
