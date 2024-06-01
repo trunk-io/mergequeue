@@ -3206,7 +3206,6 @@ elsewise
 elsholtzia
 elsin
 elt
-eluant
 eluating
 enteritis
 elucidate
@@ -9980,6 +9979,7 @@ encydlopaedic
 encompasses
 eugenicist
 esthiomene
+eluant
 extenuatingly
 eplot
 esthiomenus
