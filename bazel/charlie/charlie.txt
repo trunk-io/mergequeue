@@ -8475,7 +8475,6 @@ chamaeleon
 chamaelirium
 chamaepericlymenum
 chamaephyte
-compactedness
 chamaerops
 collegianer
 chamaesiphonaceae
@@ -18934,6 +18933,7 @@ coliseum
 cestoid
 colistin
 coypou
+compactedness
 colistins
 colitic
 colitises
