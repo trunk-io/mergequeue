@@ -8093,6 +8093,7 @@ foretopmast
 fencer
 fellatrix
 foretopmen
+featherway
 foretrace
 fluviovolcanic
 foreuse
@@ -11160,7 +11161,6 @@ funereally
 forgettingly
 fluvio
 funfair
-featherway
 flashtester
 figged
 frowy
