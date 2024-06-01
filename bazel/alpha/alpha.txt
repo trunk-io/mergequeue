@@ -1637,7 +1637,6 @@ accountability
 accountable
 accountably
 accountancy
-accountant
 accountants
 accountantship
 accounted
@@ -20091,6 +20090,7 @@ arrestment
 arnicas
 alkoxid
 altumal
+accountant
 arnold
 arnotto
 adzooks
