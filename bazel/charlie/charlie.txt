@@ -19762,7 +19762,6 @@ combe
 connoisseur
 commonwealth
 chowdering
-combfish
 comby
 concealment
 combinability
@@ -31434,6 +31433,7 @@ currans
 currant
 chresards
 conscripted
+combfish
 currantworm
 caulking
 curratow
