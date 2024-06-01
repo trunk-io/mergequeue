@@ -3805,7 +3805,6 @@ barway
 bifollicular
 battlement
 barnstorms
-battler
 battles
 battleship
 battleships
@@ -16852,6 +16851,7 @@ buffoon
 buffooneries
 benzoxycamphor
 blended
+battler
 buffoonesque
 bathysophic
 buffoonish
