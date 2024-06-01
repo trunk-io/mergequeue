@@ -4158,6 +4158,7 @@ cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
+case
 cardiospasm
 cardiospermum
 celts
@@ -5099,7 +5100,6 @@ cascrom
 cascrome
 calculating
 caesarship
-case
 casease
 caseases
 caseated
