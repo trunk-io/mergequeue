@@ -2597,6 +2597,7 @@ barilla
 bleeder
 blackie
 battledore
+bombardmen
 basiglandular
 baryon
 baryphonia
@@ -12431,7 +12432,6 @@ bowlderhead
 bescorches
 bonamano
 bonang
-bombardmen
 bonanzas
 bawdily
 bonapartism
