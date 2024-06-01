@@ -9406,7 +9406,6 @@ alphabetizing
 antiprotease
 anguishful
 aptera
-alphameric
 alphamerically
 alphanumerics
 alphard
@@ -9782,6 +9781,7 @@ allegatum
 amacratic
 aviador
 amacrinal
+alphameric
 amadan
 apitong
 asterella
