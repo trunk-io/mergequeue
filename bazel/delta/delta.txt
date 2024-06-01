@@ -7179,6 +7179,7 @@ dollyman
 dispersement
 drawboring
 deerkill
+deathblows
 dents
 desulphurize
 depullulation
@@ -8949,7 +8950,6 @@ dichondra
 dichondraceae
 dichopodial
 downdraft
-deathblows
 dichotically
 dichotomy
 dichotomic
