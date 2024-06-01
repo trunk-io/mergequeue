@@ -2075,6 +2075,7 @@ badaud
 bristly
 banknotes
 bedeguar
+belemnite
 blobbing
 bankrider
 brachycome
@@ -15092,7 +15093,6 @@ backsaw
 bejeling
 briarroot
 briars
-belemnite
 briarwood
 bribability
 bribable
