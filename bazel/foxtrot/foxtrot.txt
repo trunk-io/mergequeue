@@ -4303,6 +4303,7 @@ fischerite
 foresleeve
 friendlies
 fise
+fleecier
 forb
 fanfish
 fisetin
@@ -9364,7 +9365,6 @@ floatiest
 fellfare
 frostbiting
 fatiguabilities
-fleecier
 frankfurters
 ferlies
 fivers
