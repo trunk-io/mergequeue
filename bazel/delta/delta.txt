@@ -4180,6 +4180,7 @@ delimiting
 displumed
 delimitize
 diphyletic
+diagonally
 delimitized
 diplomyelia
 deline
@@ -6072,7 +6073,6 @@ depure
 depurge
 delta
 depurged
-diagonally
 depurging
 dermitis
 differentiative
