@@ -6875,7 +6875,6 @@ amyctic
 airfares
 airfield
 atelognathia
-airflow
 airflows
 airfoil
 airfoils
@@ -22034,6 +22033,7 @@ astartidae
 afforest
 astasia
 actings
+airflow
 astatine
 archaicism
 astatines
