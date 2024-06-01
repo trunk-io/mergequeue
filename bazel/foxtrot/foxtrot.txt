@@ -4100,6 +4100,7 @@ firearm
 freshment
 fireback
 fumeuses
+feldspathic
 favourably
 fireballs
 fundament
@@ -9836,7 +9837,6 @@ fatals
 fretish
 farrows
 fermiums
-feldspathic
 fuds
 frett
 frettation
