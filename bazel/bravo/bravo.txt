@@ -11649,6 +11649,7 @@ brutality
 boatbuilding
 boatel
 boathook
+bowdlerise
 boathouse
 boatyard
 backbends
@@ -13789,7 +13790,6 @@ bowditch
 bountied
 bowdlerisation
 bestializes
-bowdlerise
 bezantee
 bowdlerised
 biodyne
