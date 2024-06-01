@@ -12915,6 +12915,7 @@ camellias
 chuprassie
 church
 courageousness
+clattery
 churchcraft
 churchdom
 churches
@@ -15734,7 +15735,6 @@ clattered
 clatterer
 crucifier
 circumscriber
-clattery
 courtiery
 clattering
 chicaner
