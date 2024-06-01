@@ -2465,7 +2465,6 @@ electroforming
 emerges
 ethanol
 electrogalvanization
-equalization
 electrogenetic
 ephebi
 equivalence
@@ -5409,6 +5408,7 @@ endrudge
 exampless
 ecderonic
 endseal
+equalization
 endshake
 exploration
 elfishly
