@@ -4443,7 +4443,6 @@ farming
 forcer
 faunal
 forslake
-focuses
 flooded
 fissipedal
 fissipeds
@@ -6153,6 +6152,7 @@ fimetarious
 firebreak
 filagree
 falange
+focuses
 flrie
 flu
 fluate
