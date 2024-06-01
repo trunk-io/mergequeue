@@ -6337,6 +6337,7 @@ gilbertine
 garrisoned
 glomeration
 greengill
+gowpen
 goaty
 geckotoid
 gonfalons
@@ -7736,7 +7737,6 @@ gazoz
 gormed
 glee
 greeve
-gowpen
 glidewort
 grainways
 granularly
