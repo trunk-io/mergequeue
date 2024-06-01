@@ -12591,6 +12591,7 @@ anergies
 alterne
 anerythroplasia
 anes
+amphipleura
 anesis
 anesone
 anesthesia
@@ -17784,7 +17785,6 @@ appetition
 autographist
 appetitional
 aux
-amphipleura
 appetitious
 amma
 antidyscratic

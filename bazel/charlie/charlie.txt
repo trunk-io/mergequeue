@@ -17618,7 +17618,6 @@ coccygeal
 coccygean
 coccygectomy
 coccigenic
-coccygerector
 coccyges
 coccygine
 colloxylin
@@ -29920,6 +29919,7 @@ chromonema
 crossosomataceous
 contrahent
 crossovers
+coccygerector
 crosspatch
 chokebore
 cysterethism
