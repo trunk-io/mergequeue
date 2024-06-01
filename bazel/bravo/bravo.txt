@@ -6446,7 +6446,6 @@ benzein
 blinks
 benzene
 benzenediazonium
-benzenes
 benzenyl
 benzenoid
 billsticking
@@ -15062,6 +15061,7 @@ brewhouse
 brewhouses
 brewing
 brewis
+benzenes
 benzofuroquinoxaline
 babine
 brewises
