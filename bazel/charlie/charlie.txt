@@ -27856,7 +27856,6 @@ cpm
 cpo
 cps
 cpt
-counterclaimant
 cpus
 cputime
 centriffed
@@ -31644,6 +31643,7 @@ cushag
 cushats
 cushaws
 consumed
+counterclaimant
 civies
 countersignal
 cushy
