@@ -5181,7 +5181,6 @@ depopulate
 desexes
 detect
 dendrology
-dendrologist
 discerp
 dendrologists
 daubes
@@ -15852,6 +15851,7 @@ dorsomedial
 deceptious
 dorsomedian
 dorsonasal
+dendrologist
 diastaltic
 disconnectedly
 dossman
