@@ -6510,7 +6510,6 @@ ferrichloride
 fibrilations
 flutter
 firebed
-flutterable
 facultative
 flutterboard
 fluttered
@@ -8304,6 +8303,7 @@ foozler
 fledging
 feeblebrained
 forkwise
+flutterable
 furnarius
 formicative
 fantassin
