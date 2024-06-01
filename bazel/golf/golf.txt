@@ -5060,7 +5060,6 @@ glaistig
 gradational
 gladdened
 glaives
-get
 grulla
 ghebeta
 geochemistry
@@ -7631,6 +7630,7 @@ gradated
 grisping
 gowdnook
 glagolitic
+get
 gradatively
 grafts
 goldbricks
