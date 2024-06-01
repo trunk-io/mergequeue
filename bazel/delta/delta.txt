@@ -4689,7 +4689,6 @@ disgust
 drumsticks
 demipillar
 demipique
-demiplacate
 dishtowel
 deities
 demiplate
@@ -10277,6 +10276,7 @@ diodont
 demonologies
 defaulting
 diodontidae
+demiplacate
 disprivilege
 dismit
 dioecy
