@@ -3361,7 +3361,6 @@ bathflower
 bay
 bathers
 basketing
-basketlike
 bandurria
 bathymetric
 basketmaker
@@ -6460,6 +6459,7 @@ birdwise
 brendan
 bhili
 beadiness
+basketlike
 benzyl
 benzylamine
 benzilic
