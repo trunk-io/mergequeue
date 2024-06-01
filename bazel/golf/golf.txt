@@ -1821,6 +1821,7 @@ genotypes
 gastronosus
 gonyaulax
 galluot
+genuflection
 gastropathic
 gabbier
 gammon
@@ -2941,7 +2942,6 @@ goldtit
 glassite
 gentler
 gentles
-genuflection
 glossoid
 geocentrically
 geogenetic
