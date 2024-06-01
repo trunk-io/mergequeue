@@ -4673,7 +4673,6 @@ flabellation
 fullage
 flabel
 frises
-flabs
 flaccid
 flachery
 flancard
@@ -9752,6 +9751,7 @@ freakful
 frenchly
 frenchman
 floatable
+flabs
 forestick
 flycaster
 fevery
