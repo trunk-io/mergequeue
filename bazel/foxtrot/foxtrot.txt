@@ -2378,7 +2378,6 @@ fiberous
 fenester
 feoffors
 fidelis
-faultier
 feoffs
 fand
 footstalk
@@ -4198,6 +4197,7 @@ farcical
 fleeceable
 fatting
 fireplug
+faultier
 frieze
 fireplugs
 firepot
