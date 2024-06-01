@@ -11622,7 +11622,6 @@ cleavingly
 chold
 choleate
 cholecyanine
-cholecyst
 couchee
 cholecystectasia
 cholecystectomy
@@ -22400,6 +22399,7 @@ congressing
 congressionalist
 congressionally
 complementally
+cholecyst
 congressionist
 coradicate
 congressist

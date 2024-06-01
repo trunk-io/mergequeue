@@ -3796,7 +3796,6 @@ gladiate
 getatable
 goldfield
 gluttonising
-geek
 gutturopalatine
 glossoplegia
 giantkind
@@ -4342,6 +4341,7 @@ gladiators
 gynandromorphy
 gyrometer
 gynandromorphism
+geek
 ghostlikeness
 gynandrosporous
 gasteralgia
