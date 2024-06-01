@@ -13054,6 +13054,7 @@ expergefacient
 expergefaction
 encephala
 experient
+enregistry
 embedding
 eveners
 epistolographic
@@ -13783,7 +13784,6 @@ ecteron
 eastward
 extrabold
 extrabranchial
-enregistry
 endebt
 extrabronchial
 extrabureau
