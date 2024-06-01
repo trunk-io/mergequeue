@@ -1514,7 +1514,6 @@ depressure
 darknesses
 deaccessioning
 dingbats
-declive
 deacetylate
 defraudment
 deacetylating
@@ -10842,6 +10841,7 @@ dirian
 dirichletian
 denicotinized
 disappointed
+declive
 disyoke
 deindustrialize
 daekon
