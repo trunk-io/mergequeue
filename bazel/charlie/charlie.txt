@@ -14467,7 +14467,6 @@ circumscribed
 circumscript
 collapsed
 circumscriptions
-cordiform
 circumsession
 circumsinous
 circumsolar
@@ -24491,6 +24490,7 @@ cooptate
 cooptation
 coopted
 coopting
+cordiform
 cooptions
 coopts
 coordinal
