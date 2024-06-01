@@ -5530,7 +5530,6 @@ another
 afrete
 africa
 apothecaries
-alkalizable
 aspout
 africanize
 africanoid
@@ -12185,6 +12184,7 @@ anatum
 anaudic
 anaunters
 anauxite
+alkalizable
 aggressive
 anax
 anaxagorean
