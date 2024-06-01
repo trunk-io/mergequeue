@@ -9619,6 +9619,7 @@ cuissen
 checksum
 construct
 checksummed
+clencher
 checksumming
 castro
 checkups
@@ -16022,7 +16023,6 @@ clementness
 clemming
 clench
 clenched
-clencher
 clenchers
 clenches
 choosingly
