@@ -4888,7 +4888,6 @@ demolitions
 diodon
 donnot
 dhows
-diabantite
 dermatome
 dialkylic
 demon
@@ -10397,6 +10396,7 @@ dioxane
 dioxanes
 dioxy
 disbrain
+diabantite
 defecate
 dioxid
 divergence
