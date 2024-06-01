@@ -22690,7 +22690,6 @@ connive
 clinker
 connived
 chromochalcography
-countermanifesto
 connivery
 connives
 conniving
@@ -26022,6 +26021,7 @@ corves
 corvet
 corvette
 corvettes
+countermanifesto
 corvetto
 cadges
 corvidae
