@@ -12836,7 +12836,6 @@ doomsters
 dismissable
 driftway
 dyebeck
-demerited
 dismissal
 dismissals
 dismissed
@@ -14550,6 +14549,7 @@ divorcee
 divorcees
 divorcement
 discomposedly
+demerited
 departmentization
 deeming
 dichotomal
