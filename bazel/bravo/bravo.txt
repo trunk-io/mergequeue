@@ -6882,7 +6882,6 @@ berserks
 berskin
 berhyme
 bert
-bugshas
 berteroa
 berthas
 berthed
@@ -15838,6 +15837,7 @@ brinie
 bromidically
 beatster
 bromidrosis
+bugshas
 brominate
 blowhard
 brominated
