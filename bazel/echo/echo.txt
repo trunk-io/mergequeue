@@ -2636,7 +2636,6 @@ eschaufe
 endsheet
 electrophoric
 electrophoridae
-eliciting
 eras
 enrobers
 exempla
@@ -6967,6 +6966,7 @@ ebullitive
 estoppel
 etiolation
 exotism
+eliciting
 erythrocytic
 embitterment
 epideictical
