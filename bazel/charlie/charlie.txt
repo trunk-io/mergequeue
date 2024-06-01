@@ -3187,7 +3187,6 @@ capitaling
 capitalisable
 capitalised
 capitaliser
-capitalising
 capitalist
 capitalistic
 cit
@@ -27208,6 +27207,7 @@ corroded
 countertack
 countertally
 chubbedness
+capitalising
 countertaste
 countertechnicality
 countertendency
