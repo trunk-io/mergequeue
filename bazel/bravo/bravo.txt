@@ -6186,7 +6186,6 @@ burglary
 barragon
 benchful
 blaming
-benchlet
 benchman
 benchmar
 benchmark
@@ -16468,6 +16467,7 @@ bushtit
 bangtailed
 belaites
 blumed
+benchlet
 bishops
 beet
 brutely
