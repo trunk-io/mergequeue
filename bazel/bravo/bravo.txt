@@ -1207,7 +1207,6 @@ bakemeats
 backslash
 bloop
 bakeout
-bakeoven
 bimillenniums
 blennostatic
 bakeress
@@ -7696,6 +7695,7 @@ bewitchments
 bewizard
 bework
 blandished
+bakeoven
 bimolecular
 beworming
 beworn
