@@ -2472,7 +2472,6 @@ anaerobia
 acknowledgers
 aistopodes
 anacatadidymus
-adespota
 acknowledgment
 acknowledgments
 ackton
@@ -11271,6 +11270,7 @@ amphiploidy
 amphipneust
 alephzero
 alkoranic
+adespota
 amphipneusta
 amphipneustic
 aphaniptera
