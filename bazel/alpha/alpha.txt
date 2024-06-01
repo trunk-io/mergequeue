@@ -4313,6 +4313,7 @@ adornments
 adornos
 adorns
 arrivage
+adendric
 attestation
 automorph
 antiaircraft
@@ -6442,7 +6443,6 @@ anatinae
 arsmetry
 agriculturally
 autolithographic
-adendric
 ametrometer
 aganglionic
 agriculturist
