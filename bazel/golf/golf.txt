@@ -3187,7 +3187,6 @@ geophilid
 geophilidae
 groined
 gastrins
-geophytic
 gestae
 gracer
 guardlike
@@ -9472,6 +9471,7 @@ granularity
 glaciaria
 groundward
 gormandizers
+geophytic
 gamodesmy
 groundwards
 gernative
