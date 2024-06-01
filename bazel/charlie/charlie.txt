@@ -3447,6 +3447,7 @@ capsids
 capsizable
 capsizal
 caballeria
+componental
 capsizes
 capsizing
 capsomer
@@ -20865,7 +20866,6 @@ componency
 caciocavallo
 componendo
 component
-componental
 componented
 confronters
 crocodilian
