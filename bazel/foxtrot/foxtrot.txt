@@ -6800,6 +6800,7 @@ folderols
 foveiform
 foldy
 folding
+freed
 foraminiferan
 fikery
 foldout
@@ -9589,7 +9590,6 @@ freebootery
 flask
 freebooting
 falsettos
-freed
 freedman
 feltwork
 facete
