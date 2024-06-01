@@ -1455,6 +1455,7 @@ fattest
 follow
 fattier
 flannelmouths
+faverole
 false
 fatties
 fattiness
@@ -8213,7 +8214,6 @@ forgett
 feldspars
 forgettably
 forgetters
-faverole
 fractionalizing
 forging
 forgings
