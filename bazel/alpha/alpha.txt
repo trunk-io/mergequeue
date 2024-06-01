@@ -15459,7 +15459,6 @@ antilysis
 antilyssic
 antilithic
 antilytic
-antilitter
 antiliturgy
 amla
 annunciators
@@ -24525,6 +24524,7 @@ auxotonic
 auxotox
 auxotroph
 auxotrophy
+antilitter
 avadana
 avadavat
 aleuroscope
