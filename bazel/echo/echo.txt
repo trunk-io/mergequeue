@@ -1147,7 +1147,6 @@ edictally
 edictum
 edicule
 epistolic
-echolalia
 edificate
 echinology
 edification
@@ -4582,6 +4581,7 @@ encephalotomy
 edomite
 ethics
 earths
+echolalia
 encephalous
 embeggar
 erica
