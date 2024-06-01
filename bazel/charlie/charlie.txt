@@ -2170,6 +2170,7 @@ campout
 circumfusile
 camps
 capotes
+cookdom
 chaenactis
 campshed
 campsheeting
@@ -5170,7 +5171,6 @@ continuando
 cashcuttee
 casheen
 cashel
-cookdom
 casher
 cashers
 cashes
