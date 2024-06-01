@@ -7335,6 +7335,7 @@ allele
 alaric
 alarm
 abbess
+animableness
 alarmclock
 alexanders
 abamps
@@ -15428,7 +15429,6 @@ abwatt
 antiketogenesis
 actinobranchia
 antiking
-animableness
 aposematic
 anthropomorphize
 antikings
