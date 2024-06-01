@@ -4257,7 +4257,6 @@ guarapo
 guilandina
 gnathotheca
 globuloid
-glassrope
 gymnolaemata
 gunster
 gamobium
@@ -6858,6 +6857,7 @@ gestures
 goniunia
 geoffroyine
 gonoblast
+glassrope
 gynaecologic
 grooving
 gonochorism
