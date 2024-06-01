@@ -2815,6 +2815,7 @@ alarms
 acrocephalic
 acrocephalous
 acroceraunian
+autotelegraph
 aw
 acrochordinae
 almeh
@@ -24407,7 +24408,6 @@ autosuggestionist
 adversarious
 argentol
 autosuppression
-autotelegraph
 autotelism
 auricyanic
 autotetraploid
