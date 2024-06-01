@@ -5893,6 +5893,7 @@ fabiform
 flooder
 fichtean
 floccule
+figure
 flooders
 floodgates
 fiercest
@@ -9515,7 +9516,6 @@ flattop
 frazzled
 frazzling
 frden
-figure
 freity
 fentanyl
 freaked
