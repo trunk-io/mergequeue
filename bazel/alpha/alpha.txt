@@ -3619,7 +3619,6 @@ adelomorphic
 adelops
 adsorbing
 adamhood
-abreaction
 adelphian
 adelphic
 adelphous
@@ -16877,6 +16876,7 @@ aloofe
 autoplasties
 aphyllous
 anticatalyzer
+abreaction
 aphyric
 antisepsin
 aphislion
