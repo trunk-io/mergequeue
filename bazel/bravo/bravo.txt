@@ -5481,7 +5481,6 @@ biolite
 begunk
 barbacoa
 behale
-behalf
 behallow
 behammer
 beshine
@@ -18206,6 +18205,7 @@ bibliothecary
 butoxyl
 bremely
 betook
+behalf
 busycon
 butsu
 butter
