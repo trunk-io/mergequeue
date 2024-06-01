@@ -6414,7 +6414,6 @@ gymnorhininae
 goblin
 gastral
 gettable
-gateward
 gunite
 glucosulfone
 griddler
@@ -7187,6 +7186,7 @@ gorgia
 gorging
 gorglin
 grabbers
+gateward
 gastrohysterorrhaphy
 graynesses
 gloryful
