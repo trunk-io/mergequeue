@@ -4902,7 +4902,6 @@ floorages
 flamiest
 finials
 flamingant
-flamingos
 flong
 foremarch
 fermentitious
@@ -5864,6 +5863,7 @@ frangent
 flockwise
 fornices
 flocs
+flamingos
 flatfeet
 fertilizability
 floeberg
