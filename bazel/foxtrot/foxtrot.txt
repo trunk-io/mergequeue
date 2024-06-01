@@ -635,7 +635,6 @@ feats
 fanum
 fict
 friskers
-fritterer
 fartherance
 falsism
 freightyard
@@ -10590,6 +10589,7 @@ fatefulness
 freespac
 fulgent
 foiling
+fritterer
 foilsman
 filaceous
 furtive
