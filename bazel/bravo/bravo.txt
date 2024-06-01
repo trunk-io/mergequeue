@@ -1977,6 +1977,7 @@ bandstring
 bandusia
 brandishes
 bosquets
+bitripartite
 bandwagon
 briskness
 burdenable
@@ -15284,7 +15285,6 @@ brigaded
 bolometric
 blondine
 brigadier
-bitripartite
 brachypterous
 brigandine
 brigandish
