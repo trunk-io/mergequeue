@@ -3180,6 +3180,7 @@ cumly
 capital
 chevronny
 capitaldom
+cocuisa
 capitaled
 capitaling
 capitalisable
@@ -17814,7 +17815,6 @@ coction
 coctoantigen
 coctoprecipitin
 cocuyo
-cocuisa
 cocullo
 cocurator
 cocurricular
