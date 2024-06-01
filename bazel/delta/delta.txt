@@ -13468,7 +13468,6 @@ disrest
 disrestore
 disring
 disillusionment
-disrobement
 disrober
 danseur
 disrobes
@@ -17827,6 +17826,7 @@ duels
 ductibility
 ductible
 ductilely
+disrobement
 dislodge
 dodecaphonically
 ductilimeter

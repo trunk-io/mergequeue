@@ -9418,6 +9418,7 @@ alphyl
 attenuations
 alphyls
 alphin
+applicators
 agpaite
 aurochs
 alphitomorphous
@@ -17869,7 +17870,6 @@ applicative
 applicatively
 applicatory
 applicatorily
-applicators
 appliedly
 afterdischarge
 applier
