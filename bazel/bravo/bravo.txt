@@ -6544,7 +6544,6 @@ blanchers
 biostratigraphy
 beothuk
 beothukan
-beowulf
 bellicose
 bayberry
 bepainted
@@ -14745,6 +14744,7 @@ bulborectal
 breachful
 briefcases
 bridelace
+beowulf
 breadbasket
 bearability
 bayard
