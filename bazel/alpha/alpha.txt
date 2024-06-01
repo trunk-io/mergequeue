@@ -5108,7 +5108,6 @@ aeroscepsy
 aurum
 aeroscepsis
 aeroscopy
-aeroscopically
 aerose
 aerosol
 aerosolization
@@ -11434,6 +11433,7 @@ amputation
 aguinaldos
 amputational
 announcers
+aeroscopically
 amputations
 ammines
 anime
