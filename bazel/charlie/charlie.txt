@@ -10130,6 +10130,7 @@ cheskey
 campine
 cheskeys
 cheslep
+classmanship
 coleochaete
 chesoun
 chess
@@ -15703,7 +15704,6 @@ classism
 classists
 classless
 classlessness
-classmanship
 clive
 coevally
 chillo
