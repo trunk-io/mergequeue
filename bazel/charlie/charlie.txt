@@ -8403,6 +8403,7 @@ chalking
 chalklike
 chalkline
 chalkone
+cruppering
 chalkos
 chalkotheke
 chalkpit
@@ -30282,7 +30283,6 @@ crup
 cruppen
 crupper
 cruppered
-cruppering
 crura
 complexionably
 crural
