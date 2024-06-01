@@ -13722,7 +13722,6 @@ cob
 cymballing
 cimbalom
 cymbalom
-cimbaloms
 cymbalon
 cubicles
 cymbel
@@ -24045,6 +24044,7 @@ coonskins
 conveyer
 conveying
 conveyorization
+cimbaloms
 conjugation
 cymbaler
 complicitous
