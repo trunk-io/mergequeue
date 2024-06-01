@@ -4180,6 +4180,7 @@ bearbaiter
 bedmaking
 blearedness
 bearbane
+boggin
 bearbind
 bearcat
 bearcats
@@ -11967,7 +11968,6 @@ boggart
 bogged
 boggier
 boggiest
-boggin
 bogginess
 boggle
 blastemas
