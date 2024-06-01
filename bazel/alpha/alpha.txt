@@ -3597,6 +3597,7 @@ arpent
 adelantado
 attackable
 adelantados
+arpeggios
 adelante
 alidade
 adelarthra
@@ -20190,7 +20191,6 @@ arpeggiation
 anthophile
 astylospongia
 arpeggioed
-arpeggios
 arterialised
 arpen
 arpenteur
