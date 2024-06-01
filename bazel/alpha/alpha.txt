@@ -467,7 +467,6 @@ anticorrosively
 abjudging
 axifugal
 abjudicate
-abjudicated
 arthel
 antennas
 abjudicating
@@ -7806,6 +7805,7 @@ ambiance
 aldebaranium
 anacahuita
 algorithm
+abjudicated
 aldehyde
 aldehydes
 arsenicating

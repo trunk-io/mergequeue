@@ -2359,7 +2359,6 @@ flagboat
 feod
 firestopping
 feodum
-filander
 farewelled
 feoff
 fumarolic
@@ -8790,6 +8789,7 @@ flysch
 frondigerous
 fossiform
 fastwalk
+filander
 fossil
 frigorimeter
 fossildom
