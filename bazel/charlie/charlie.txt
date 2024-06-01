@@ -2944,7 +2944,6 @@ cantilever
 cantilevered
 cantilevers
 cantily
-choroidea
 cantina
 canting
 cantingly
@@ -29912,6 +29911,7 @@ cymas
 crosslink
 crossness
 cladophorales
+choroidea
 crossopodia
 crossopt
 crossopterygii
