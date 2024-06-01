@@ -5660,6 +5660,7 @@ girosols
 globular
 glossolabial
 gconvert
+geotectonics
 glare
 gymnasiums
 globularia
@@ -7208,7 +7209,6 @@ glost
 goopy
 glaciate
 greenthumbed
-geotectonics
 groggily
 gypsyry
 ganglionary
