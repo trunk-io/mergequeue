@@ -4907,6 +4907,7 @@ glossematics
 geostationary
 gandurah
 glar
+guideship
 gagroot
 gyves
 givingness
@@ -6587,7 +6588,6 @@ goldfields
 goldfinny
 graphometrical
 gardenesque
-guideship
 goldy
 gritting
 goldish
