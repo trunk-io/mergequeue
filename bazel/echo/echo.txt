@@ -1036,7 +1036,6 @@ edam
 endomitotic
 edaphology
 edaphon
-epicures
 edaphosauria
 edaphosaurid
 exorbital
@@ -10654,6 +10653,7 @@ erotomania
 euchroic
 entomophily
 epithecial
+epicures
 esprits
 euphroes
 earthiness
