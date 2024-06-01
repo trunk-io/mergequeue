@@ -20203,7 +20203,6 @@ commissary
 commissars
 commission
 commissional
-commissioned
 commissioners
 commissionership
 chandelles
@@ -30150,6 +30149,7 @@ crucilly
 cruck
 cyclize
 crud
+commissioned
 crudded
 convivialize
 carree
