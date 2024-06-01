@@ -2562,6 +2562,7 @@ bargir
 bassetite
 barguest
 barguests
+brambleberries
 buzylene
 barhops
 baria
@@ -13889,7 +13890,6 @@ bowlike
 bowline
 bacalaos
 bowman
-brambleberries
 baptizee
 bowsman
 bowmen
