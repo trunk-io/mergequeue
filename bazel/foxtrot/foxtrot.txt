@@ -198,6 +198,7 @@ flaky
 fissility
 finitary
 flytime
+fences
 factoring
 factoryship
 fuzzed
@@ -2586,7 +2587,6 @@ folder
 fossilisable
 fluorine
 ferreous
-fences
 ferrer
 fusulina
 ferreter
