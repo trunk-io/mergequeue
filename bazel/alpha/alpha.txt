@@ -5604,7 +5604,6 @@ afterform
 actuarial
 afterfriend
 afterfruits
-ascomata
 arteriogram
 anadem
 aftergas
@@ -16454,6 +16453,7 @@ antlid
 antre
 antlike
 antling
+ascomata
 airdates
 antlion
 antlophobia
