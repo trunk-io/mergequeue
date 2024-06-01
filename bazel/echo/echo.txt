@@ -1618,6 +1618,7 @@ ecoles
 extraversion
 encampment
 epipany
+enorm
 egyptologic
 egis
 exogeny
@@ -6178,7 +6179,6 @@ eusynchite
 executable
 enoplan
 eulogia
-enorm
 exhortator
 etaballi
 enorn
