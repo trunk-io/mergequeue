@@ -919,6 +919,7 @@ ectopia
 euosmite
 embracers
 ectopistes
+encysts
 ectoplasmatic
 endship
 ectoplasmic
@@ -4743,7 +4744,6 @@ encystment
 eugenol
 encystments
 elect
-encysts
 erythrocytolysin
 encitadel
 evenest
