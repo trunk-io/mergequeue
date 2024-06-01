@@ -24118,7 +24118,6 @@ convento
 convents
 conventual
 converge
-cuspal
 coexchangeable
 convergement
 cirrolite
@@ -31548,6 +31547,7 @@ comites
 cremule
 curtesies
 curtest
+cuspal
 curtilage
 curtise
 curtlax
