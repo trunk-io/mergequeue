@@ -6372,7 +6372,6 @@ gobber
 girja
 gobby
 ghostiest
-gconv
 gynandrarchic
 genitourinary
 gospelly
@@ -7106,6 +7105,7 @@ griselda
 galactodendron
 gladiators
 graniteware
+gconv
 goglets
 gathers
 galvanometer
