@@ -16531,7 +16531,6 @@ clockings
 catalanist
 clockless
 cuon
-clockmaker
 clockmaking
 crewer
 clocksmith
@@ -20323,6 +20322,7 @@ commorancy
 commorancies
 curviform
 commorient
+clockmaker
 commorse
 costeen
 commorth
