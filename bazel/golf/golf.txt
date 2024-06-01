@@ -6634,6 +6634,7 @@ golly
 guttera
 golo
 geratologic
+grazing
 gallop
 gies
 gaulin
@@ -8523,7 +8524,6 @@ gerontal
 grazes
 grazierdom
 graziers
-grazing
 geobiologic
 glossagra
 growthful
