@@ -12028,7 +12028,6 @@ cilician
 choriamb
 choriambic
 chorometry
-choriambize
 confarreate
 choriambs
 choriambus
@@ -19792,6 +19791,7 @@ combinedly
 cations
 combinedness
 classifiers
+choriambize
 casthouse
 cloudburst
 combiner
