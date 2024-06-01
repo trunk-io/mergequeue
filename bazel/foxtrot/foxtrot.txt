@@ -2757,7 +2757,6 @@ foggish
 fixes
 fightings
 fungate
-fescues
 forelimbs
 folklore
 fesse
@@ -3314,6 +3313,7 @@ fiddlerfish
 field
 fiddlery
 fiddles
+fescues
 flavorousness
 faunology
 fructifying
