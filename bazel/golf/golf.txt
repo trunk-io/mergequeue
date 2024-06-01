@@ -8066,6 +8066,7 @@ gucki
 goanese
 gnatty
 gondoliere
+gyte
 gelder
 grantees
 goric
@@ -8805,7 +8806,6 @@ greying
 greylag
 greylags
 gesten
-gyte
 girouettism
 grillades
 greillade
