@@ -19171,6 +19171,7 @@ collinsia
 collinsite
 chloryl
 collinsonia
+confabs
 colliquable
 colliquament
 colliquate
@@ -21893,7 +21894,6 @@ cones
 conestoga
 conf
 confab
-confabs
 confabulate
 confabulated
 confabulations
