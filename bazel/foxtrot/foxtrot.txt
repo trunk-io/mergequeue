@@ -1138,7 +1138,6 @@ floes
 farset
 farsighted
 fortunize
-forcat
 farsightedness
 flooring
 forkedly
@@ -1992,6 +1991,7 @@ flexibilities
 floative
 fishhooks
 firming
+forcat
 fide
 fortressing
 feere

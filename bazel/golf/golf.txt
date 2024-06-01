@@ -1474,7 +1474,6 @@ garnishment
 glenlike
 garnison
 garniture
-grecize
 ganyie
 grimace
 garookuh
@@ -10796,6 +10795,7 @@ gravimetry
 galilean
 guttie
 glancing
+grecize
 gestonie
 guttiferae
 groundsel
