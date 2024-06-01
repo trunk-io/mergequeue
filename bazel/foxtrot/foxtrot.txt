@@ -8596,7 +8596,6 @@ forecaster
 forewrought
 footing
 fanterie
-forspoke
 fellatory
 flaunt
 fillebeg
@@ -8976,6 +8975,7 @@ feature
 foursquareness
 frakfurt
 fourteener
+forspoke
 fatagaga
 frisch
 fourteenths
