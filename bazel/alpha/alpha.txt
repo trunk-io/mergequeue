@@ -5093,7 +5093,6 @@ aerophysics
 alkylogen
 aerophyte
 aerophobic
-aerophor
 aerophore
 antithermic
 aloneness
@@ -21980,6 +21979,7 @@ ambagiousness
 argentometrically
 assumes
 assuming
+aerophor
 astoundment
 assumingly
 assummon
