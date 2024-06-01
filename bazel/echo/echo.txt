@@ -1704,7 +1704,6 @@ excommunications
 eider
 ectomorphism
 eiders
-eidograph
 explanator
 excavating
 eases
@@ -2240,6 +2239,7 @@ endotoxoid
 eldermen
 elders
 epanodos
+eidograph
 eldersisterly
 epiglottiditis
 elderwoman
