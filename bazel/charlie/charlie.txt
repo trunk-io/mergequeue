@@ -20300,7 +20300,6 @@ commoney
 conversably
 commoners
 commonest
-commoning
 commonly
 commonness
 commuting
@@ -29941,6 +29940,7 @@ crosstown
 crosstrack
 crosstree
 crossway
+commoning
 curara
 crossways
 crosswalks
