@@ -6877,6 +6877,7 @@ berserker
 blackbirds
 bin
 berserks
+betailor
 berskin
 berhyme
 bert
@@ -7361,7 +7362,6 @@ bedraggle
 betacaine
 betacismus
 betag
-betailor
 betain
 blanked
 betake
