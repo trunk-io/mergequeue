@@ -11383,6 +11383,7 @@ evelong
 even
 evendown
 extrametaphysical
+exit
 evener
 entortill
 esophagoplegia
@@ -12579,7 +12580,6 @@ existlessness
 epistemological
 errantness
 examining
-exit
 exsects
 exite
 exitial
