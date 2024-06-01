@@ -8282,7 +8282,6 @@ diphtherial
 diadromous
 dioti
 diadumenus
-diaene
 drumbeat
 diaeretic
 dubiocrystalline
@@ -10747,6 +10746,7 @@ dipstick
 dipt
 dipter
 dipteraceae
+diaene
 dipteraceous
 dipterygian
 dialectically
