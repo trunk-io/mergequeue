@@ -11865,7 +11865,6 @@ analogions
 angiogram
 analogise
 analogised
-anteroventral
 analogize
 appropriation
 analogon
@@ -13395,6 +13394,7 @@ anisotropically
 anencephalotrophia
 archimorphic
 anisotropies
+anteroventral
 anisotropism
 anystidae
 anisum
