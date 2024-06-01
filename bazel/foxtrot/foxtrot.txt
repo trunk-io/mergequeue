@@ -1324,7 +1324,6 @@ falconoid
 fatalists
 fleeced
 fatally
-former
 fatbacks
 fructivorous
 fatbird
@@ -6195,6 +6194,7 @@ fluey
 flueless
 forefence
 firer
+former
 fluellite
 fellowed
 facially
