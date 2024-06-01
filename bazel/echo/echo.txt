@@ -6354,7 +6354,6 @@ erethizon
 eighteenth
 extracurriculum
 ensepulcher
-elderbush
 ensepulchre
 enseraph
 enserfed
@@ -10293,6 +10292,7 @@ emptores
 ethicize
 ethicoaesthetic
 ethicopolitical
+elderbush
 emoter
 ethicoreligious
 evenlight

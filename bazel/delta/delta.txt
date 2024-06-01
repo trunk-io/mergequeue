@@ -5841,7 +5841,6 @@ depopulated
 depopulates
 depopulating
 depopulation
-dunged
 denitrize
 dowsabel
 depopulative
@@ -8909,6 +8908,7 @@ debituminize
 dissemilative
 diced
 diceman
+dunged
 dicentras
 dicephalous
 dicephalus
