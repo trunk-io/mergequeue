@@ -2900,7 +2900,6 @@ greatcoat
 guayules
 glories
 gentilish
-gecko
 guzzledom
 gabelled
 gismos
@@ -4625,6 +4624,7 @@ gait
 grumous
 gypsoplast
 grandparent
+gecko
 gypster
 gypsuming
 giraffidae
