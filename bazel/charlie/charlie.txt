@@ -17874,7 +17874,6 @@ coders
 codes
 certificating
 codescendant
-consumption
 codesign
 catchup
 codesigns
@@ -23259,6 +23258,7 @@ constringent
 constringing
 cajon
 construability
+consumption
 clerestory
 construable
 cataractine
