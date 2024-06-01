@@ -5542,7 +5542,6 @@ deorsum
 deorsumvergence
 deorsumversion
 deossify
-deossification
 dramatizing
 deota
 dyakisdodecahedron
@@ -6141,6 +6140,7 @@ divest
 deraignment
 dooming
 derail
+deossification
 derailing
 dechloridizing
 demiworld
