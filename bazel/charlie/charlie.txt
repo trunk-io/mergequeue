@@ -6313,7 +6313,6 @@ causeuse
 causeuses
 cajaput
 causewayed
-cannellated
 causewaying
 causewayman
 causidical
@@ -9297,6 +9296,7 @@ chasuble
 chasubled
 cooper
 chasubles
+cannellated
 cave
 chat
 chataka
