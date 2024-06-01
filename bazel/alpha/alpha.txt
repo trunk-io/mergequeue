@@ -3249,7 +3249,6 @@ actuating
 actuation
 actuator
 actuators
-acture
 acturience
 actus
 archbuffoon
@@ -12812,6 +12811,7 @@ anamirtin
 angionoma
 arcabucero
 angioparalysis
+acture
 aquiculture
 anglish
 angioparalytic
