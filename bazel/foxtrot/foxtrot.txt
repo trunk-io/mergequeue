@@ -1997,7 +1997,6 @@ fishhooks
 firming
 fide
 fortressing
-feere
 farls
 feering
 fautor
@@ -7206,6 +7205,7 @@ footslogger
 financiery
 fuseau
 fatstocks
+feere
 finnmarks
 foeffment
 fantastic
