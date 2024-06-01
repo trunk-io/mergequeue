@@ -9461,7 +9461,6 @@ brolly
 birdseye
 birdsnest
 birdstone
-befitting
 basichromatic
 bluegums
 belabours
@@ -10991,6 +10990,7 @@ bolimba
 bellhop
 batement
 blinkingly
+befitting
 blinter
 blocky
 blintzes
