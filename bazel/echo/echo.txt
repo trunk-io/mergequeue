@@ -5119,7 +5119,6 @@ endocrines
 endocrinic
 endocrinism
 euthyneurous
-enterocoel
 endocrinology
 ebraick
 emergencies
@@ -12415,6 +12414,7 @@ exhalations
 exhalents
 exhales
 elderbrotherhood
+enterocoel
 exhaling
 exhaust
 exhausted
