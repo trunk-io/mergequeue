@@ -1383,7 +1383,6 @@ accentuated
 accension
 agapanthus
 accentuates
-accentus
 accept
 acceptability
 acceptable
@@ -16295,6 +16294,7 @@ antistreptococcal
 antistreptococcic
 antistreptococcin
 antistreptococcus
+accentus
 antirationalist
 antistrophize
 antispiritualist

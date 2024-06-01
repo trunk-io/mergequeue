@@ -3447,7 +3447,6 @@ goss
 germon
 ghostcraft
 germproof
-germs
 griseous
 glideness
 graymill
@@ -4679,6 +4678,7 @@ greenhorns
 gluelike
 genesiac
 gyrencephala
+germs
 gyrencephalic
 graphometry
 guillotiner
