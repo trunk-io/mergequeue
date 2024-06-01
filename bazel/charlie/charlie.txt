@@ -7183,6 +7183,7 @@ centre
 centreboard
 centred
 centref
+chromospheres
 centreless
 centrepiece
 canephoroe
@@ -12611,7 +12612,6 @@ chromosomes
 cornercap
 chromosphere
 collophore
-chromospheres
 chromospheric
 colytic
 committitur
