@@ -4139,7 +4139,6 @@ beamroom
 baragnosis
 braize
 beams
-beamsman
 beamwork
 birken
 bargees
@@ -11782,6 +11781,7 @@ babeldom
 beefheaded
 bocces
 boccia
+beamsman
 boccias
 boccie
 backstring
