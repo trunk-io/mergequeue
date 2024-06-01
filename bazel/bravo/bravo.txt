@@ -7371,7 +7371,6 @@ bisulphide
 beneventana
 blowby
 betanglement
-borrowed
 besmirches
 balisier
 bicipitous
@@ -16315,6 +16314,7 @@ backbear
 bisonant
 brumes
 boolean
+borrowed
 boryl
 brummagem
 biosynthetic
