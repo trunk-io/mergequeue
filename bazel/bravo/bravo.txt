@@ -6447,7 +6447,6 @@ benzein
 blinks
 benzene
 benzenediazonium
-benzenyl
 benzenoid
 billsticking
 briny
@@ -9914,6 +9913,7 @@ blastiest
 bitheism
 bisegment
 beaten
+benzenyl
 bunton
 biti
 bromals
