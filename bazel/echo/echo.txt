@@ -5147,7 +5147,6 @@ endoenzyme
 entresol
 endoergic
 endoesophagitis
-endothermically
 excoriate
 elephants
 endofaradism
@@ -13929,6 +13928,7 @@ extraordinary
 enduement
 embryogenic
 electrolytical
+endothermically
 evaporable
 extraovate
 epistomata
