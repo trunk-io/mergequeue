@@ -123,7 +123,6 @@ abatable
 amoebid
 abatage
 abate
-abated
 abatement
 abatements
 abater
@@ -889,6 +888,7 @@ androgynus
 avianizes
 absinthismic
 ajoure
+abated
 absinthol
 absinthole
 angiohypertonia
