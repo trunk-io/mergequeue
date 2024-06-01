@@ -22047,6 +22047,7 @@ confinable
 confine
 confineable
 confined
+curdler
 chalcophile
 cadging
 confinedly
@@ -31285,7 +31286,6 @@ curdy
 curdiness
 curdle
 curdled
-curdler
 calorify
 cottabus
 curdles
