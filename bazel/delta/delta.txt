@@ -8059,7 +8059,6 @@ dezincs
 dft
 dysthymic
 dialects
-defences
 dghaisa
 doylt
 dhabb
@@ -17965,6 +17964,7 @@ duikerboks
 dantonesque
 droskies
 downwarp
+defences
 duim
 dermatomuscular
 deploredly
