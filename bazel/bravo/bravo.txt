@@ -6416,6 +6416,7 @@ benzalcohol
 bakupari
 benzaldehyde
 benzaldoxime
+bepride
 bandeaus
 benzalethylamine
 benzalphenylhydrazone
@@ -15562,7 +15563,6 @@ blazoners
 bailage
 brittlely
 brittleness
-bepride
 baste
 birotatory
 batrachotoxin
