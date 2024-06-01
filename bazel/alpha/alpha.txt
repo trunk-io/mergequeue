@@ -1443,6 +1443,7 @@ axilemmata
 awl
 accessioner
 accessioning
+adiposeness
 accessive
 aurichalcum
 awlessness
@@ -3913,7 +3914,6 @@ adipopexia
 adipopexic
 adipopexis
 adipose
-adiposeness
 adiposity
 acrook
 abdominoscope
