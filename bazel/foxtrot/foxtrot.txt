@@ -6524,6 +6524,7 @@ feedboard
 flutterment
 fluvicoline
 fluviolacustrine
+fuselage
 foredesignment
 fleetly
 fluvioterrestrial
@@ -11546,7 +11547,6 @@ fused
 fluormeter
 furtiveness
 furthering
-fuselage
 fatwood
 foxfeet
 fuselages
