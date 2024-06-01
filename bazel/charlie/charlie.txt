@@ -16256,7 +16256,6 @@ chromosantonin
 climbing
 climbingfish
 climbingfishes
-collinearly
 chedites
 chechen
 clime
@@ -20526,6 +20525,7 @@ crotchets
 comparatival
 comparative
 comparatively
+collinearly
 comparativeness
 cystoadenoma
 comparatives
