@@ -2052,6 +2052,7 @@ facedown
 faucalize
 flannelboard
 flub
+firetraps
 frenches
 feinting
 feis
@@ -7761,7 +7762,6 @@ fineries
 finestill
 funfairs
 feudalized
-firetraps
 fountaining
 fidicinales
 filthier
