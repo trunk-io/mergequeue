@@ -1586,7 +1586,6 @@ conveyor
 calmecac
 calmed
 centrobaric
-calmest
 calmier
 calmierer
 calmiest
@@ -12444,6 +12443,7 @@ chromatize
 chromatogenous
 chromatogram
 cinchonia
+calmest
 chromatographic
 chromatographically
 chromatolysis
