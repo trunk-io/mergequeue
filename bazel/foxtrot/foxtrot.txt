@@ -6369,7 +6369,6 @@ farrandly
 fronture
 foredooms
 frogspawn
-fanit
 fluorhydric
 fluoric
 fecundatory
@@ -11615,6 +11614,7 @@ fussers
 faradic
 friend
 fargite
+fanit
 fussing
 fluorindine
 footglove
