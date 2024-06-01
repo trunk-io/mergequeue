@@ -3853,7 +3853,6 @@ batwing
 beswitch
 batwomen
 blastocolla
-bishopship
 beetlestock
 batz
 batzen
@@ -15266,6 +15265,7 @@ birdsong
 blastoporphyritic
 bandylegged
 blisterwort
+bishopship
 boisterously
 brieflessly
 balize
