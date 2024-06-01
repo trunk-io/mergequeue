@@ -1316,7 +1316,6 @@ goodship
 geneki
 griffes
 grimier
-gapping
 grex
 galvaniser
 guib
@@ -4288,6 +4287,7 @@ gymnospore
 grandfather
 glotum
 ges
+gapping
 gan
 gymnostomata
 ganef
