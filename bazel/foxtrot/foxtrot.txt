@@ -3720,7 +3720,6 @@ filletster
 frail
 filly
 feodal
-foxfishes
 fillies
 firedogs
 foalfoot
@@ -4696,6 +4695,7 @@ forestalment
 flammiferous
 fleecily
 flagellantism
+foxfishes
 flagellariaceous
 flagellatae
 fulmination
