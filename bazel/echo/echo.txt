@@ -1641,6 +1641,7 @@ enumerator
 eucaines
 eff
 exoticity
+exogenic
 electrothermally
 elutriating
 enlivens
@@ -12668,7 +12669,6 @@ elegiambus
 excommunicable
 egotism
 encratism
-exogenic
 exogenous
 exogenously
 exogyra
