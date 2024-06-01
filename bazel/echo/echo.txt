@@ -2743,7 +2743,6 @@ electrotypist
 electrotitration
 esquamulose
 electrotrephine
-electrotropic
 electrophilically
 electrovalent
 eosinophilia
@@ -14151,6 +14150,7 @@ ethmopalatine
 extubation
 engouee
 enscale
+electrotropic
 emblossom
 ependymoma
 extuberant
