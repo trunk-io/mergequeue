@@ -453,7 +453,6 @@ eccyesis
 eccl
 excentrical
 ethnobotany
-evector
 earsore
 expandability
 ecclesia
@@ -9405,6 +9404,7 @@ exams
 empeo
 ensilaged
 ectocarpaceous
+evector
 erudition
 erugate
 emerant
