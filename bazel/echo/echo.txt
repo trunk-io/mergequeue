@@ -12,7 +12,6 @@ epidermoid
 estocs
 evaporometer
 emigate
-eadi
 emblazon
 excoriator
 eadios
@@ -633,6 +632,7 @@ existential
 eidetic
 eciton
 ecize
+eadi
 eversions
 epithalamia
 erik
