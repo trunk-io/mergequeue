@@ -743,7 +743,6 @@ economies
 economise
 eschaunge
 endotheloid
-ensnare
 economism
 economist
 economize
@@ -7712,6 +7711,7 @@ ensnarling
 epicurean
 ectocrine
 espece
+ensnare
 embroscopic
 epicurish
 extensometer
