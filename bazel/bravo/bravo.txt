@@ -6032,7 +6032,6 @@ beltane
 belauding
 bactericholia
 bimetalic
-beltcourse
 bullit
 belter
 ballistic
@@ -18119,6 +18118,7 @@ brins
 breakwater
 benzal
 biovular
+beltcourse
 butcherdom
 bealtared
 butcherer
