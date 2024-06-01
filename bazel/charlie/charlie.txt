@@ -26965,7 +26965,6 @@ carles
 countermand
 countermandable
 contemner
-countermanded
 countermanding
 countermaneuver
 countermanifestoes
@@ -27530,6 +27529,7 @@ coveys
 covelline
 covellite
 certie
+countermanded
 conceptualistic
 corpus
 cocas
