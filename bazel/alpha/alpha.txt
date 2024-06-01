@@ -9736,7 +9736,6 @@ alveolate
 alveolation
 alveole
 alveolectomy
-alveoli
 accidie
 alveoliform
 aduncated
@@ -15569,6 +15568,7 @@ alienship
 antiministerial
 antiministerially
 aiming
+alveoli
 anywhere
 antimission
 abjuratory
