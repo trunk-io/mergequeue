@@ -4369,7 +4369,6 @@ enamorado
 enamorate
 enamorato
 enamored
-enamoring
 ejusdem
 erastianize
 enamorment
@@ -14129,6 +14128,7 @@ ephemerality
 epicrises
 enplanement
 emulates
+enamoring
 eloign
 entocuneiform
 egyptize
