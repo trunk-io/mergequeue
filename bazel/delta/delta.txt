@@ -4566,7 +4566,6 @@ demibelt
 dinornithes
 dislink
 demibob
-demibrassart
 dendrological
 demibuckram
 demicanon
@@ -17877,6 +17876,7 @@ duelist
 duelistic
 dispatchers
 durgan
+demibrassart
 dinks
 docible
 duelli
