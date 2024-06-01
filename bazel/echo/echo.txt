@@ -5923,7 +5923,6 @@ etourderie
 ephphatha
 echowise
 enigmatist
-enigmatize
 enigmatizing
 enigmatographer
 exempts
@@ -9518,6 +9517,7 @@ escarpments
 eodiscid
 escarps
 escars
+enigmatize
 escarteled
 escharotic
 exhumed
