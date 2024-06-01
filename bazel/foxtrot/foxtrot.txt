@@ -4368,6 +4368,7 @@ fondlings
 fishman
 folic
 fishmonger
+furthers
 floorward
 flossy
 fraternizer
@@ -6044,7 +6045,6 @@ foremilk
 forsook
 fleyland
 florulent
-furthers
 fdubs
 ferruler
 fogbow
