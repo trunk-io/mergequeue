@@ -7791,7 +7791,6 @@ epidermical
 epidermically
 enteroplasty
 epidermization
-epidermolysis
 ean
 exophthalmic
 existentialistic
@@ -12746,6 +12745,7 @@ embryography
 exceeds
 exorbitation
 engarland
+epidermolysis
 epidemiologically
 ethers
 eriophyid
