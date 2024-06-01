@@ -23488,7 +23488,6 @@ contemporaneousness
 contemporary
 coalfishes
 contemporarily
-contemporariness
 contemporised
 contemporising
 cystocyte
@@ -28812,6 +28811,7 @@ carline
 cresorcinol
 ctg
 cresotinic
+contemporariness
 cresoxy
 cresoxid
 cloyed
