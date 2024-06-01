@@ -695,7 +695,6 @@ genettes
 globulicide
 glint
 gallows
-giterne
 graduale
 gunfires
 gelosine
@@ -4866,6 +4865,7 @@ garran
 gudemother
 garua
 goodyear
+giterne
 gitoxin
 galactite
 glick
