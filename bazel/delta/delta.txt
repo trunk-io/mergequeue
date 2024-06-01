@@ -7230,7 +7230,6 @@ detaining
 decolourise
 durwaun
 detainingly
-detainment
 datsw
 detar
 detassel
@@ -15193,6 +15192,7 @@ directory
 dolefish
 doleful
 dolefully
+detainment
 dolefulness
 denigrators
 deathfulness
