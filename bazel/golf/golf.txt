@@ -3831,7 +3831,6 @@ gibbert
 goffers
 gopher
 gibbeted
-gibbeting
 gelatinise
 grihyasutra
 glucke
@@ -5258,6 +5257,7 @@ geyserine
 gametogony
 guzzler
 guss
+gibbeting
 gleamy
 grapelet
 gorer
