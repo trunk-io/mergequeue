@@ -3581,6 +3581,7 @@ foggily
 forebowline
 filberts
 filched
+forest
 francophobe
 fatimid
 furfur
@@ -7964,7 +7965,6 @@ forespencer
 forespoke
 fiz
 feist
-forest
 fellmongered
 forestage
 forestair
