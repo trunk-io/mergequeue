@@ -5157,6 +5157,7 @@ caseworks
 caseworm
 casha
 cashable
+columbite
 cashableness
 cashaws
 carida
@@ -30749,7 +30750,6 @@ cistic
 cloudbursts
 culicine
 charonian
-columbite
 chiffon
 culicoides
 culinarian
