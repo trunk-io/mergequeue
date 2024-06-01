@@ -14286,6 +14286,7 @@ circularizes
 checklists
 circularly
 circularness
+columnation
 circulars
 circulatable
 circulated
@@ -19668,7 +19669,6 @@ columnate
 columnated
 centimolar
 columnates
-columnation
 crinkleroot
 crystaled
 columned
