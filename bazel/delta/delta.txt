@@ -6721,7 +6721,6 @@ demarch
 diatribes
 digonoporous
 desiderium
-desiderta
 diptycas
 desidiose
 ditroite
@@ -12581,6 +12580,7 @@ dosimeters
 daud
 disintrench
 dysyntribite
+desiderta
 dephase
 disinvagination
 disinvest
