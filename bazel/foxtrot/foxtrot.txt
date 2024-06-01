@@ -6611,7 +6611,6 @@ floscularia
 floodlighting
 funds
 fancymonger
-focusless
 focussed
 fluminose
 focusses
@@ -11139,6 +11138,7 @@ fatcake
 fluttersome
 faintheartedness
 funduck
+focusless
 frisii
 fundulinae
 funduline
