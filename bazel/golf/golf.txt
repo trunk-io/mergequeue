@@ -1430,6 +1430,7 @@ garments
 gegenion
 grasseye
 glyphs
+generalization
 glutael
 garmenture
 gerodermia
@@ -7466,7 +7467,6 @@ gelatinizable
 griffade
 generatrix
 getmesost
-generalization
 glial
 goals
 graphostatical
