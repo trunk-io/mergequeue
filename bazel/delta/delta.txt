@@ -6703,7 +6703,6 @@ desyatin
 desicate
 disprove
 downrange
-desiccated
 desiccating
 desiccations
 desman
@@ -12917,6 +12916,7 @@ discriminability
 dolomitized
 disfavourer
 disorderer
+desiccated
 dormantly
 disordering
 drupal
