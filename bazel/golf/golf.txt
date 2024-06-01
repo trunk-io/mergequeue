@@ -5157,6 +5157,7 @@ glasshouses
 glassie
 gateaux
 glued
+gunship
 griecep
 glassies
 glassin
@@ -10690,7 +10691,6 @@ gu
 guser
 gush
 garvock
-gunship
 glossocoma
 gusher
 gripsacks
