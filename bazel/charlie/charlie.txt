@@ -9996,6 +9996,7 @@ chempaduk
 chemurgical
 chemurgically
 chemurgies
+cubature
 chen
 chena
 chenar
@@ -30458,7 +30459,6 @@ cubane
 cubangle
 cubanite
 cubatory
-cubature
 conciliar
 counterweighed
 cubby
