@@ -778,7 +778,6 @@ fickly
 fixures
 foretack
 fandangle
-fandango
 fallows
 fandangos
 fandoms
@@ -3985,6 +3984,7 @@ fingerprints
 fluorosis
 forleft
 fistulas
+fandango
 fingersmith
 furrow
 fabricated
