@@ -9105,7 +9105,6 @@ gripier
 gripmen
 gripment
 gryposis
-grypotherium
 gridlock
 griege
 greenstick
@@ -10233,6 +10232,7 @@ guyer
 graveling
 getspa
 gutty
+grypotherium
 guyers
 guijo
 grummest

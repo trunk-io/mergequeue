@@ -12566,6 +12566,7 @@ colent
 chromolithic
 concanavalin
 chromolithography
+copyread
 chromolithographic
 chromomere
 chondrosarcoma
@@ -24684,7 +24685,6 @@ copiosity
 copious
 copiousness
 cloners
-copyread
 coarsest
 copyreader
 copyreaders
