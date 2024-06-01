@@ -7640,6 +7640,7 @@ foreguess
 flammant
 fleshlily
 foretopsail
+foldless
 fiefdom
 foregut
 forehalf
@@ -11347,7 +11348,6 @@ ferroelectricity
 fictional
 furane
 furfures
-foldless
 fished
 furfurine
 faujasite
