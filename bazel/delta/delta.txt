@@ -1996,7 +1996,6 @@ decadary
 dimethylcarbinol
 decadency
 decadent
-decadentism
 decadianome
 drysalter
 dolichocephal
@@ -11881,6 +11880,7 @@ delicat
 discustom
 disdain
 disdainable
+decadentism
 disdained
 disdainer
 demersion
