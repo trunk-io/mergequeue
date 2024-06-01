@@ -5095,7 +5095,6 @@ denaturalise
 decaesarize
 dayal
 denaturalised
-denaturalising
 discommendably
 dikamali
 denaturalize
@@ -6837,6 +6836,7 @@ deleted
 destined
 deslime
 desma
+denaturalising
 desmachyme
 desmans
 desmanthus
