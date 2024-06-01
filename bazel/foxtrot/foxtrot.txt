@@ -2218,7 +2218,6 @@ flaccidities
 flaggier
 felucca
 felwort
-femaleness
 females
 friseur
 femality
@@ -9875,6 +9874,7 @@ fungo
 fremitus
 felonsetter
 friary
+femaleness
 friarly
 friarling
 falconidae
