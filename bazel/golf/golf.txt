@@ -4647,6 +4647,7 @@ genocidal
 gyratory
 groundplot
 grademark
+gigabits
 girder
 generalate
 girdlecake
@@ -5192,7 +5193,6 @@ glib
 gubernance
 grainsmen
 gymnospermae
-gigabits
 glassteel
 garbages
 gutturality
