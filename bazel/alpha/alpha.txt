@@ -14311,6 +14311,7 @@ asepticize
 acephal
 anterosuperior
 antescript
+autotomizing
 autocystoplasty
 aupaka
 antesignanus
@@ -24432,7 +24433,6 @@ adoptively
 autotomize
 autotomized
 arthrocarcinoma
-autotomizing
 autotomous
 astragals
 autotoxemia
