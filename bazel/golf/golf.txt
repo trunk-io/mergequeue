@@ -2472,7 +2472,6 @@ ger
 gnomical
 glump
 gemara
-gemaric
 gonopodpodia
 ghostism
 gutsiness
@@ -10561,6 +10560,7 @@ gaun
 gallivanter
 grasset
 gunmetal
+gemaric
 gurmukhi
 gcd
 gymnodont
