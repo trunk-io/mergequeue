@@ -4980,7 +4980,6 @@ acetyltannin
 aeroduct
 aeroducts
 aeroelastic
-aeroelasticity
 aeroelastics
 aporphin
 aerofoil
@@ -6507,6 +6506,7 @@ algesthesis
 antivenom
 agrostologic
 antiresonance
+aeroelasticity
 attempering
 alnascharism
 agrostologist
