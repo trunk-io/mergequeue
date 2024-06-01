@@ -2668,7 +2668,6 @@ eugene
 elytroclasia
 electroscission
 esoterica
-electroscope
 electrosensitive
 electrosherardizing
 edacious
@@ -12084,6 +12083,7 @@ extrication
 excoriated
 electroanalysis
 excoriating
+electroscope
 effeminised
 enlivenment
 excoriation
