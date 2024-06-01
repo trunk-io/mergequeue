@@ -3402,6 +3402,7 @@ definitise
 dekastere
 dormant
 dilatant
+demulceate
 deliriate
 demitting
 domesticable
@@ -5029,7 +5030,6 @@ deflexionize
 dempsters
 deaerate
 demulce
-demulceate
 demulcents
 diphycercy
 demulsibility
