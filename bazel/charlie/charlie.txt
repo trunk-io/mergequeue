@@ -15662,6 +15662,7 @@ chiromantical
 classbook
 classed
 classer
+counterweighted
 classers
 chophouses
 classfellow
@@ -27266,7 +27267,6 @@ coetus
 counterwave
 counterweigh
 counterweight
-counterweighted
 counterweights
 counterwheel
 counterwilling
