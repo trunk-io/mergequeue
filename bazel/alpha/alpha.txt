@@ -4885,7 +4885,6 @@ antihum
 aeriality
 archetto
 aerials
-aeric
 anoplocephalic
 aerier
 aeries
@@ -10140,6 +10139,7 @@ amblyomma
 abrupt
 angrier
 amblyopia
+aeric
 antihemophilic
 amblyopic
 amblyopsidae
