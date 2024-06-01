@@ -3294,7 +3294,6 @@ azotine
 acupuncturator
 acupuncture
 abonne
-acupunctured
 acupuncturing
 aslake
 antivenomous
@@ -6386,6 +6385,7 @@ azotobacterieae
 agreations
 attemptability
 ambushes
+acupunctured
 archpiece
 agreeability
 agreeable
