@@ -7524,7 +7524,6 @@ generalist
 governor
 graveyards
 greenkeeper
-governorate
 governors
 gobian
 garbled
@@ -9837,6 +9836,7 @@ grousy
 guajiras
 gualaca
 guama
+governorate
 griqua
 garrick
 girdlelike
