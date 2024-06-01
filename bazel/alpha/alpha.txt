@@ -4037,7 +4037,6 @@ antimonopoly
 adjutantship
 anesthetic
 adjutator
-adjute
 adjutor
 adjutory
 adjutorious
@@ -22622,6 +22621,7 @@ athymia
 athymic
 antimonyl
 athing
+adjute
 athink
 athyria
 acronymous
