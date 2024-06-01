@@ -5083,7 +5083,6 @@ endocyst
 educatory
 endocystitis
 experted
-eardrums
 exited
 epistlar
 erratical
@@ -12652,6 +12651,7 @@ exoculation
 exoderm
 exodermis
 exoderms
+eardrums
 elephantidae
 exody
 elaphodus
