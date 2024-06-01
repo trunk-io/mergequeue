@@ -9942,6 +9942,7 @@ diminishments
 dulcet
 dehorned
 diminuendoed
+daemonian
 diminuendoes
 degu
 duction
@@ -13912,7 +13913,6 @@ distilled
 durwan
 distillery
 dynamogeneses
-daemonian
 distilleries
 deployments
 dachs
