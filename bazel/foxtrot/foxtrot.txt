@@ -5348,7 +5348,6 @@ fretsome
 fleeter
 fleetest
 fibroses
-fleeting
 fusionless
 fleets
 firefighter
@@ -5578,6 +5577,7 @@ freethink
 flies
 flimsy
 flimsier
+fleeting
 fragmenting
 farmage
 fishbolt

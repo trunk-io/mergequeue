@@ -9095,7 +9095,6 @@ erithacus
 ewound
 erythema
 erythemal
-erythemas
 erythematous
 enamellist
 enfant
@@ -13629,6 +13628,7 @@ exteriority
 exteriorize
 ejects
 elfic
+erythemas
 encomiendas
 exteriorized
 enphytotic
