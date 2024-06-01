@@ -5365,7 +5365,6 @@ frequentage
 fluozirconic
 fleming
 faradise
-frequentness
 formature
 fellowship
 flemishes
@@ -8002,6 +8001,7 @@ fairies
 faculative
 foldskirt
 foggy
+frequentness
 formentation
 fantasticism
 forester
