@@ -1264,7 +1264,6 @@ gurts
 garaged
 gyved
 gowk
-glandless
 grece
 garancin
 geranin
@@ -3878,6 +3877,7 @@ gein
 greyhound
 gavelage
 gibuses
+glandless
 guideless
 goff
 greenbugs
