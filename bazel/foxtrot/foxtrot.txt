@@ -9331,6 +9331,7 @@ funebre
 faller
 flappy
 figeter
+flotations
 fanneling
 frangibility
 fogged
@@ -9659,7 +9660,6 @@ ferrums
 foresay
 flowerer
 freenesses
-flotations
 freers
 foliosity
 freesias

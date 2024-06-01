@@ -628,7 +628,6 @@ bacteriolyze
 bacteriology
 breadnut
 backwards
-bacteriologic
 bacteriologist
 blinds
 bacteriologists
@@ -16949,6 +16948,7 @@ buy
 buick
 bizarre
 building
+bacteriologic
 buildings
 bitterwort
 betimes
