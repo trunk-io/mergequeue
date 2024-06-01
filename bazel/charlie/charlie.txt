@@ -2778,7 +2778,6 @@ cultivable
 canonicalized
 canonicalizes
 circumventive
-congealer
 canonicals
 canonicate
 canonics
@@ -26191,6 +26190,7 @@ cosmologists
 compages
 cosmonaut
 chiromancist
+congealer
 cercopidae
 cosmonautical
 cosmonautically
