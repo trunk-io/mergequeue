@@ -17132,7 +17132,6 @@ axoneuron
 androgynary
 apocalyptism
 apocalyptist
-apocarp
 apocarpy
 apocarpous
 amaethon
@@ -23643,6 +23642,7 @@ aleppine
 aurous
 aurrescu
 amygdalitis
+apocarp
 anchtherium
 aurulent
 anisuria
