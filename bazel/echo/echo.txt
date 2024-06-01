@@ -3571,6 +3571,7 @@ embolon
 elms
 emboltement
 embordered
+endosomes
 embordering
 equoid
 epidesmine
@@ -7257,7 +7258,6 @@ embayment
 enzootics
 ectogenetic
 eo
-endosomes
 e
 equilobate
 edwards
