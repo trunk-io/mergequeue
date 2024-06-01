@@ -15500,6 +15500,7 @@ clansmen
 curnie
 consuetudinary
 clanswoman
+collate
 cyprinodontidae
 crenelated
 clanswomen
@@ -18994,7 +18995,6 @@ cochal
 coadaptation
 collarless
 collars
-collate
 collatee
 correspondentially
 collaterality
