@@ -352,6 +352,7 @@ backgame
 bepuzzle
 beamlet
 backgammon
+biliverdic
 barbarical
 barwares
 background
@@ -8644,7 +8645,6 @@ biliteral
 biliteralism
 babbitts
 bilithon
-biliverdic
 bilk
 bacchanalism
 bronchoesophagoscopy
