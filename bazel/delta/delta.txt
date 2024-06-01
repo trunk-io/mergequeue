@@ -6801,7 +6801,6 @@ dojo
 depr
 desiredly
 desireful
-desirefulness
 desirelessness
 dermoplasty
 desirer
@@ -8710,6 +8709,7 @@ dyassic
 deoxyribonuclease
 diastalses
 diastalsis
+desirefulness
 diastases
 diglossia
 diastasic
