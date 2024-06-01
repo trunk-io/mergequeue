@@ -1107,7 +1107,6 @@ edge
 edgebone
 emyd
 edgeboned
-edged
 eidolon
 edgeling
 edgeman
@@ -3143,6 +3142,7 @@ enmew
 elodeas
 elodes
 eloge
+edged
 elogy
 extrasensorial
 elogium
