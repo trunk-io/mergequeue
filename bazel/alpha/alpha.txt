@@ -5600,6 +5600,7 @@ afterdeal
 afterdeath
 afterdeck
 aftereffect
+angiasthenia
 aspergillales
 afterfame
 afterform
@@ -16215,7 +16216,6 @@ acidulous
 antisex
 antisexist
 antiship
-angiasthenia
 antishipping
 antisialagogue
 alisma
