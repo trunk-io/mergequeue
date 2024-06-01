@@ -3250,6 +3250,7 @@ fraile
 fictionalizes
 fictionalizing
 friers
+futhark
 frostwort
 forefend
 folkmote
@@ -7384,7 +7385,6 @@ forceless
 forcelessness
 forcelet
 freespace
-futhark
 fasciculation
 fumerel
 fey
