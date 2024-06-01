@@ -8507,6 +8507,7 @@ famulus
 fred
 feathers
 frenchwise
+factor
 fictionisation
 falsum
 francium
@@ -10314,7 +10315,6 @@ freightless
 firth
 frondent
 ferrates
-factor
 fluoridising
 foofaraw
 flindersia
