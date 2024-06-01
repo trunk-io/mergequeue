@@ -6989,7 +6989,6 @@ entosternum
 entothorax
 eclat
 entotympanic
-enterokinetic
 entourage
 entozoal
 entozoans
@@ -8638,6 +8637,7 @@ encompassing
 equiconvex
 egrets
 ergatomorph
+enterokinetic
 equid
 equidiagonal
 equidimensional
