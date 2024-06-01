@@ -3270,7 +3270,6 @@ empathizes
 epitomization
 ethnographic
 elvanitic
-elvet
 elvishly
 enigmatically
 elzevir
@@ -6711,6 +6710,7 @@ enspirit
 erepsins
 equipoised
 equilibriria
+elvet
 enterozoon
 enterprise
 evelight

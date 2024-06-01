@@ -5406,7 +5406,6 @@ fleshing
 fleshings
 forthfare
 fettuccine
-formatters
 fanjets
 furfuran
 fleshliest
@@ -5754,6 +5753,7 @@ foots
 featherback
 fellowess
 foreswearing
+formatters
 funned
 flittered
 flittermice
