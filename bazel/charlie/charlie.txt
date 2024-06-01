@@ -1245,6 +1245,7 @@ captainly
 calendric
 calendrical
 calendula
+counterword
 carrageenan
 calendulas
 calendulin
@@ -20483,7 +20484,6 @@ cresols
 concamerate
 companable
 companage
-counterword
 cerebroma
 cannels
 company
