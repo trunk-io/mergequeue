@@ -422,6 +422,7 @@ foraramina
 firetrap
 fairleads
 farsight
+fenceress
 familiariser
 flints
 fulminate
@@ -8561,7 +8562,6 @@ fusarial
 forrarder
 failed
 fetcher
-fenceress
 frivolizing
 forril
 forrit
