@@ -8556,7 +8556,6 @@ facetiously
 farmplace
 forrad
 finnoc
-forrader
 forrard
 flammigerous
 fusarial
@@ -11172,6 +11171,7 @@ fthm
 fungibility
 fungible
 fideists
+forrader
 fungicidal
 fungicidally
 fungicide
