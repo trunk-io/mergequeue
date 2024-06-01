@@ -1333,7 +1333,6 @@ glauconite
 gardenful
 gardenia
 gundeck
-giftlike
 gambiers
 gismo
 gardenless
@@ -1912,6 +1911,7 @@ glaces
 grasses
 gnathopod
 glueing
+giftlike
 glutenous
 gheg
 gatemaker
