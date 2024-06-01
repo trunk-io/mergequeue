@@ -3562,7 +3562,6 @@ gussied
 gynospore
 gestical
 gesticulant
-gesticulations
 gesticulative
 gestning
 gestural
@@ -6514,6 +6513,7 @@ gambians
 gymnasisiums
 grieshoch
 gynecidal
+gesticulations
 gaufer
 goiterogenic
 grimm
