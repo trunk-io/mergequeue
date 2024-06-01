@@ -1076,6 +1076,7 @@ edenic
 estoppage
 edenite
 edenization
+expunge
 edenize
 enarthroses
 ethnogeography
@@ -11720,7 +11721,6 @@ extendlessness
 exalting
 elands
 exaltment
-expunge
 elvers
 exalts
 enclasped
