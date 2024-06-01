@@ -8778,7 +8778,6 @@ deboning
 doorframe
 domelike
 diatomales
-dedicated
 diatomeae
 diatomic
 diatomicity
@@ -16033,6 +16032,7 @@ detrimentality
 doubleheartedness
 doubleyou
 dupability
+dedicated
 doublelunged
 disturn
 doubles
