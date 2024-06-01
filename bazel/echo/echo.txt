@@ -1163,7 +1163,6 @@ edified
 edifiers
 edifying
 edifyingly
-edifyingness
 ediya
 ectoblastic
 edile
@@ -10326,6 +10325,7 @@ eparch
 eisteddfodism
 ethylenimine
 ethylenoid
+edifyingness
 epistolist
 emanationist
 esponton
