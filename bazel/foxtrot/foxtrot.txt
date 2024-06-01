@@ -4644,7 +4644,6 @@ fip
 fizzwater
 fart
 fjeld
-fjelds
 fjerding
 fadeaway
 fathoms
@@ -7134,6 +7133,7 @@ foothot
 fa
 frittata
 fedn
+fjelds
 flippantness
 fossate
 faraon
