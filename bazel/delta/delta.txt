@@ -243,7 +243,6 @@ daggly
 daggar
 dagger
 daggerboard
-dyssynergia
 daggerproof
 daggers
 diskettes
@@ -17140,6 +17139,7 @@ dryinid
 diffusibility
 debentureholder
 dryly
+dyssynergia
 drill
 drillbit
 dullish
