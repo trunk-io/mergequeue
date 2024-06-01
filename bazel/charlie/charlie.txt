@@ -5810,6 +5810,7 @@ crawling
 chateau
 cateye
 catel
+cerumen
 catelectrode
 capstones
 catelectrotonic
@@ -7838,7 +7839,6 @@ cerulific
 cerulignol
 cerulignone
 ceruloplasmin
-cerumen
 cellarman
 cerumens
 ceruminal
