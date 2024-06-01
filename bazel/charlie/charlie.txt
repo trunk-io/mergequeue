@@ -5280,7 +5280,6 @@ caurus
 cassina
 cassinese
 cassinian
-cassino
 cassinos
 cassioberry
 caladium
@@ -12601,6 +12600,7 @@ congelation
 chromoplastid
 countergauger
 chromoprotein
+cassino
 chromopsia
 chromoptometer
 coffle
