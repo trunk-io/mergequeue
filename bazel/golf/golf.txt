@@ -64,7 +64,6 @@ gables
 globigerinidae
 goofball
 gopherman
-gibbon
 gablet
 gynaecoid
 gablewindowed
@@ -1645,6 +1644,7 @@ golf
 geothermally
 gasps
 gassed
+gibbon
 gypsumed
 gasser
 gasserian
