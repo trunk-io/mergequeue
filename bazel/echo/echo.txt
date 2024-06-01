@@ -2294,7 +2294,6 @@ exode
 electricalize
 electrically
 embryony
-electricalness
 espadrille
 encoach
 electricize
@@ -6732,6 +6731,7 @@ entertainment
 echimys
 epicenters
 enuresis
+electricalness
 entertains
 entertake
 esthesioneurosis
