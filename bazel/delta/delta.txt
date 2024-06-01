@@ -5443,6 +5443,7 @@ deproceduring
 dentition
 dilating
 dentolabial
+discurrent
 dentolingual
 dielytra
 dentosurgical
@@ -6838,7 +6839,6 @@ disleafing
 desmarestiaceae
 deterrer
 desmectasia
-discurrent
 denominationalism
 desmidiaceae
 desmidiaceous
