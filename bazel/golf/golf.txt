@@ -4807,7 +4807,6 @@ guisard
 gunhouse
 graecism
 girted
-girthed
 galactoside
 girths
 glutin
@@ -10625,6 +10624,7 @@ gonadotropic
 gardbrace
 grossification
 gunstick
+girthed
 gunstocker
 glycyphyllin
 gunstone
