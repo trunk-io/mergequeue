@@ -8512,7 +8512,6 @@ bijwoner
 buisson
 bauchle
 bloodlettings
-bikers
 bikeway
 bikie
 biking
@@ -9915,6 +9914,7 @@ bitheism
 bisegment
 beaten
 bunton
+bikers
 biti
 bromals
 bityite
