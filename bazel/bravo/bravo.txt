@@ -8415,7 +8415,6 @@ bogomile
 biggen
 biggened
 biggening
-biggest
 bacons
 barbarous
 biliate
@@ -14600,6 +14599,7 @@ brasquing
 burgling
 bullwhack
 beclowning
+biggest
 brassages
 brassard
 briefing
