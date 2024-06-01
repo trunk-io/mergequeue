@@ -4599,7 +4599,6 @@ fdtype
 firetail
 frecked
 fixator
-frighten
 filagrees
 fixe
 fixed
@@ -9624,6 +9623,7 @@ fibs
 forlet
 fallenness
 feuage
+frighten
 freeholders
 freeholdership
 flueman
