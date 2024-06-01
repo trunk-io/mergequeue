@@ -3366,7 +3366,6 @@ basketries
 banyai
 brained
 baskets
-basketware
 basketweaving
 ba
 byzantium
@@ -7363,6 +7362,7 @@ blanked
 betake
 betakes
 betaking
+basketware
 bisulphide
 beneventana
 blowby
