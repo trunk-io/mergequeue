@@ -2387,7 +2387,6 @@ greyfish
 goles
 gelatine
 globuliform
-glucoprotein
 gharial
 gumbotils
 gerastian
@@ -3752,6 +3751,7 @@ grannom
 glossologies
 grille
 gracilescent
+glucoprotein
 googolplex
 gadgeteer
 ghostland
