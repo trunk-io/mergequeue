@@ -4843,7 +4843,6 @@ espiegleries
 encounterer
 endothecium
 encounterers
-encountering
 eros
 equitable
 encourage
@@ -5279,6 +5278,7 @@ excretolic
 edaphic
 endorsed
 exilable
+encountering
 endorsee
 emendating
 endorsees
