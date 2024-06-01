@@ -138,6 +138,7 @@ baboonroot
 baboons
 busboys
 baboot
+berascaling
 babouche
 bavarois
 babouvism
@@ -4609,7 +4610,6 @@ becursed
 babesia
 budgets
 becurses
-berascaling
 becurst
 basommatophorous
 becushioned
