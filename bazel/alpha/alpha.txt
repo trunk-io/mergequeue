@@ -16402,7 +16402,6 @@ aquabelle
 antivariolous
 antivenefic
 antivenereal
-antivenine
 aphodi
 antivenins
 antipathist
@@ -20478,6 +20477,7 @@ ammochryse
 artcraft
 alexinic
 acceptableness
+antivenine
 artefac
 adaptively
 artefacts

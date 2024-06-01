@@ -5292,7 +5292,6 @@ begats
 bastes
 bobbled
 bothsided
-barlock
 begaze
 begazing
 borderer
@@ -13412,6 +13411,7 @@ botryoid
 bantin
 brannier
 botryomycoma
+barlock
 bashful
 biogenetically
 brutal
