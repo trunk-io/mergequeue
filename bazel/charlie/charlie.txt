@@ -1524,7 +1524,6 @@ callisthenic
 cossid
 cric
 cenotaphic
-chemostat
 callisto
 callithrix
 callithump
@@ -8898,6 +8897,7 @@ chappin
 chapping
 cosmopolitic
 catchplate
+chemostat
 chaprasi
 caranx
 chapstick
