@@ -6528,6 +6528,7 @@ benzosulphimide
 bedlamer
 behoot
 benzothiazine
+boltcutter
 buoyages
 benzothiazoline
 benzothiodiazole
@@ -12282,7 +12283,6 @@ bolsterwork
 bolt
 boltage
 biasses
-boltcutter
 botanizer
 bookmark
 buckstay
