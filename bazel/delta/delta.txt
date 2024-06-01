@@ -9402,7 +9402,6 @@ difficulty
 deodorants
 drooling
 difficultly
-difficultness
 diffide
 dunlin
 diffidentness
@@ -14463,6 +14462,7 @@ deadline
 divident
 decertification
 directionless
+difficultness
 dromograph
 dividivis
 dividualism
