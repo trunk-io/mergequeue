@@ -10216,6 +10216,7 @@ ambsaces
 ambulacra
 ambulacriform
 acuation
+autolyzate
 ambulacrum
 ambulance
 acheilary
@@ -24151,7 +24152,6 @@ autolithograph
 autolithographer
 autolithography
 autoinfection
-autolyzate
 autolyze
 autolyzes
 autoloader
