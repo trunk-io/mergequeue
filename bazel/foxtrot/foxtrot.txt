@@ -2862,6 +2862,7 @@ fades
 faunae
 fenestration
 filanders
+folkmoter
 farmsteads
 fetching
 fetes
@@ -6875,7 +6876,6 @@ folkmoots
 fauchard
 fadmonger
 firetower
-folkmoter
 ferrochromium
 formuliser
 furnaceman
