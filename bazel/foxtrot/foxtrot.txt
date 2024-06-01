@@ -6270,7 +6270,6 @@ feridgi
 flukes
 flukeworm
 flukewort
-forbar
 forelands
 follicle
 fluky
@@ -8570,6 +8569,7 @@ forrit
 foxish
 forescript
 fir
+forbar
 fluoridise
 fittings
 forsakenly
