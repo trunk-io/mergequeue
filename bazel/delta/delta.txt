@@ -4450,7 +4450,6 @@ demarcations
 demarcator
 demarcatordemarcators
 disnaturalize
-demarchy
 demaree
 demargarinate
 demark
@@ -12539,6 +12538,7 @@ disinherits
 disinhibition
 demyship
 disinhume
+demarchy
 disinsectization
 dorsoventral
 degums
