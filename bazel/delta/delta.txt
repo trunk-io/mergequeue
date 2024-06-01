@@ -8531,6 +8531,7 @@ downgrades
 diamond
 diamondback
 diamondbacked
+dynamitist
 dynamiting
 diamonded
 diamonding
@@ -15153,7 +15154,6 @@ doitkin
 doits
 dojigger
 deepwater
-dynamitist
 doke
 doketic
 dokimastic
