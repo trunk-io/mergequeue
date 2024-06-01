@@ -3053,7 +3053,6 @@ capacitate
 cofounder
 cooperators
 capacitating
-capacitations
 capacitative
 capacitativly
 capacitator
@@ -23293,6 +23292,7 @@ construer
 cyamus
 cardiatomy
 construers
+capacitations
 construes
 constuctor
 circumstantiated
