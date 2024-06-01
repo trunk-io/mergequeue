@@ -15967,7 +15967,6 @@ cleche
 capacitance
 clechee
 clechy
-cleck
 commune
 coassumes
 cledde
@@ -27042,6 +27041,7 @@ counterplayer
 counterplan
 counterplead
 corrido
+cleck
 counterplot
 coriandrum
 counterplotted
