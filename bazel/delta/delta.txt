@@ -4120,7 +4120,6 @@ deliberators
 decriminalizing
 deposited
 delicate
-delicately
 discussing
 delicatessen
 dominance
@@ -5507,6 +5506,7 @@ denunciator
 denunciatory
 detd
 denver
+delicately
 deobstruct
 demiurges
 deoccidentalize
