@@ -8772,7 +8772,6 @@ gonogenesis
 gregariously
 grazed
 grapnel
-gregariousness
 gregatim
 grege
 geranomorphae
@@ -9077,6 +9076,7 @@ grip
 grandest
 gradins
 gamogenetic
+gregariousness
 golland
 gripey
 gramicidin
