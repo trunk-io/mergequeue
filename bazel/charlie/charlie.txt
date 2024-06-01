@@ -13723,7 +13723,6 @@ cimbaloms
 cymbalon
 cubicles
 cymbel
-cymbid
 clochard
 cymbidium
 cymbiform
@@ -19591,6 +19590,7 @@ coltlike
 calicos
 coltoria
 clubbier
+cymbid
 cryptocarpous
 coltpixy
 coltsfoot
