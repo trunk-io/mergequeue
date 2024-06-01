@@ -5305,6 +5305,7 @@ endosmic
 endosmometric
 endocrinologic
 eyr
+epicoeliac
 evaders
 endosmoses
 edgemaking
@@ -7662,7 +7663,6 @@ epiclinal
 epicnemial
 epicoele
 elkesaite
-epicoeliac
 etiologies
 epicoeloma
 epicoelous
