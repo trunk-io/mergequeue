@@ -4188,7 +4188,6 @@ empoisoned
 encaustes
 etherol
 epistle
-elaborator
 enchronicle
 escaloped
 excellencies
@@ -6958,6 +6957,7 @@ endotheliomyxoma
 exuviable
 ebullitive
 estoppel
+elaborator
 etiolation
 exotism
 erythrocytic
