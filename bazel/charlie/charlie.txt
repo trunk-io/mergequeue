@@ -9962,7 +9962,6 @@ cancers
 chemosterilants
 chemosurgery
 chemotactic
-cresylene
 chemotactically
 choochoo
 chemotaxy
@@ -18494,6 +18493,7 @@ chimney
 coheading
 coheads
 claviature
+cresylene
 cassate
 cessations
 coheartedness
