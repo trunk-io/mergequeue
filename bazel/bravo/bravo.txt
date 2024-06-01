@@ -1918,7 +1918,6 @@ bevies
 belay
 banding
 banjoist
-biostatics
 bandit
 beshrew
 branle
@@ -15700,6 +15699,7 @@ brodyagi
 brodie
 broeboe
 bicolor
+biostatics
 brog
 brogan
 bonnne
