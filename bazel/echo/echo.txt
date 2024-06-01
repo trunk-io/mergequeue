@@ -1364,7 +1364,6 @@ entomologists
 effectively
 effectors
 effectress
-encapsulate
 effects
 exurban
 equivocated
@@ -4710,6 +4709,7 @@ ephahs
 electromagnets
 extrality
 encyclopedias
+encapsulate
 encyclopedic
 encyclopedical
 expulsions
