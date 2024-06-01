@@ -7617,7 +7617,6 @@ ahind
 adrenocorticotrophin
 arrestable
 alburn
-alburnous
 alburnum
 alburnums
 albus
@@ -15142,6 +15141,7 @@ armstrong
 auroras
 antidemocratically
 antidemoniac
+alburnous
 antidepressant
 antidetonant
 anociassociation
