@@ -7489,6 +7489,7 @@ baseboards
 bhajan
 betorn
 betowered
+bradyseism
 betrayed
 bequeathment
 bimarginate
@@ -14192,7 +14193,6 @@ bayhead
 bradypode
 bradypodidae
 borotungstic
-bradyseism
 bradyseismic
 bradyseismical
 bradysphygmia
