@@ -8148,7 +8148,6 @@ biconically
 baalish
 biconnected
 biconsonantal
-biconvex
 biconvexity
 bicorn
 benzoylformic
@@ -10508,6 +10507,7 @@ beclasps
 blason
 blaspheme
 blasphemed
+biconvex
 blasphemes
 blasphemy
 blasphemies

@@ -5831,6 +5831,7 @@ catenarian
 catenas
 catenate
 crooisite
+cycledom
 catenates
 catenating
 cerberic
@@ -13331,7 +13332,6 @@ cyclecar
 coralbells
 cyclecars
 counterextend
-cycledom
 cycler
 cyclers
 comonomer
