@@ -5351,7 +5351,6 @@ castellanship
 chaufer
 chosing
 castellate
-chooseable
 castellation
 castellatus
 castellet
@@ -16826,6 +16825,7 @@ cuckoldom
 clouted
 clouter
 clouterly
+chooseable
 clouty
 clouting
 connoisseurship

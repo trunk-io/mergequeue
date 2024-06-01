@@ -2531,7 +2531,6 @@ beechwoods
 bhut
 brachyoura
 barge
-bargeer
 bergere
 bargehouse
 bargelike
@@ -16483,6 +16482,7 @@ blackplate
 burners
 brutifies
 brutishly
+bargeer
 brachypinacoid
 brutishness
 brewed
