@@ -9142,7 +9142,6 @@ garnel
 gunyah
 gryllotalpa
 geulah
-glom
 griqualander
 geminis
 grysbok
@@ -9851,6 +9850,7 @@ groow
 galaxy
 guaneide
 gallowsness
+glom
 gratuito
 guanethidine
 gallbush

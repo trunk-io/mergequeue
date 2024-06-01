@@ -6263,7 +6263,6 @@ caulomic
 caulopteris
 caulosarc
 caulotaxis
-caulote
 cauls
 caum
 cauma
@@ -26293,6 +26292,7 @@ costed
 coinmaker
 condylopod
 clutters
+caulote
 costellate
 costerdom
 costermonger
