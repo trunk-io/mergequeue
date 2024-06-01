@@ -1059,7 +1059,6 @@ bailieries
 bailieship
 bailiff
 biogeographic
-bailiffry
 bailiffs
 ballow
 bailing
@@ -5759,6 +5758,7 @@ barrettes
 bureau
 berreaved
 boysenberry
+bailiffry
 belgard
 belgas
 belgian
