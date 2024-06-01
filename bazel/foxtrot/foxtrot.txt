@@ -557,7 +557,6 @@ frigga
 falling
 fussed
 falloff
-falloffs
 flamier
 filiate
 fallostomy
@@ -10911,6 +10910,7 @@ flambe
 filmically
 forsworn
 fullery
+falloffs
 fulleries
 flo
 fictile

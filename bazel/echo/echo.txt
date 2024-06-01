@@ -5555,6 +5555,7 @@ eyeline
 enfilade
 enfilades
 eerinesses
+erroneousness
 enfilading
 enfants
 enfiled
@@ -9367,7 +9368,6 @@ errhine
 embodiments
 errhines
 erron
-erroneousness
 expositional
 error
 ebricty
