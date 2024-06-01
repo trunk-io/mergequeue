@@ -3585,7 +3585,6 @@ gether
 gaspar
 getling
 getmjlkost
-getpenny
 gadget
 gibberish
 greaselessness
@@ -3649,6 +3648,7 @@ glutinose
 greenbul
 gingersnap
 glazement
+getpenny
 ghastily
 gaslit
 granulitization
