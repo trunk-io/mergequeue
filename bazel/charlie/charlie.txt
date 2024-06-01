@@ -2507,6 +2507,7 @@ capitalizations
 candlestand
 cecidiology
 committeewoman
+chaetognath
 chinol
 candlesticks
 candlewaster
@@ -7039,7 +7040,6 @@ chink
 centauric
 checkline
 centauridium
-chaetognath
 centauries
 centaurium
 constructure

@@ -1550,7 +1550,6 @@ flagellaria
 faurd
 faussebrayed
 faust
-fortifying
 faustian
 familiarising
 faute
@@ -6672,6 +6671,7 @@ fogdom
 fogfruit
 foretype
 flatterable
+fortifying
 flintlock
 fogfruits
 fluerics
