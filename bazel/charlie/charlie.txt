@@ -19530,6 +19530,7 @@ colourationally
 coltpixie
 colourative
 colourer
+colortype
 colourers
 caveated
 cubage
@@ -19963,7 +19964,6 @@ comity
 comitia
 comitial
 conglobulate
-colortype
 comitium
 cuscuses
 comitje
