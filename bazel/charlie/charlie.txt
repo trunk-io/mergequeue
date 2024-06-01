@@ -15588,6 +15588,7 @@ clarina
 clarine
 clarinet
 clarinetist
+comether
 clarinetists
 clarinets
 clarinettist
@@ -21672,7 +21673,6 @@ condense
 condensed
 condensedly
 condensedness
-comether
 condensers
 condenses
 condensible
