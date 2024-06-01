@@ -19098,6 +19098,7 @@ collencyte
 colleri
 collery
 candyh
+consignataries
 colletarium
 colleted
 colleter
@@ -22969,7 +22970,6 @@ chequeen
 calyptra
 consign
 consignatary
-consignataries
 consignatory
 comforting
 chromosomic
