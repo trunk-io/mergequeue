@@ -2596,7 +2596,6 @@ falerno
 flanes
 ferryboat
 formaldehyd
-ferryboats
 familistery
 fella
 ferrandin
@@ -4298,6 +4297,7 @@ fiscalize
 fiscalized
 felsite
 fischerite
+ferryboats
 foresleeve
 friendlies
 fise
