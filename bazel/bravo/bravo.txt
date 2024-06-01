@@ -3841,7 +3841,6 @@ blowpipe
 battu
 battues
 batture
-battuta
 bielded
 biocontrol
 battute
@@ -6657,6 +6656,7 @@ bladderless
 berchemia
 berdache
 blueish
+battuta
 berdash
 birotation
 bewrap
