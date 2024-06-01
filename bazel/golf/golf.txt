@@ -3686,7 +3686,6 @@ gallowsmaker
 galvanotropism
 gherao
 graduating
-gusset
 grasschat
 gheraoes
 gluon
@@ -4568,6 +4567,7 @@ gunlayer
 gypped
 garrisoning
 giardia
+gusset
 gyppery
 gippy
 gramophonically

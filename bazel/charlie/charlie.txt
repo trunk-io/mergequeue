@@ -11731,7 +11731,6 @@ chappow
 coral
 cholesterinic
 cholesterinuria
-cholesterol
 clepsydrae
 cholesterolemia
 cholesteroluria
@@ -31124,6 +31123,7 @@ cavities
 cupmaker
 cupman
 cupolaed
+cholesterol
 crushable
 cupolaing
 cupolaman
