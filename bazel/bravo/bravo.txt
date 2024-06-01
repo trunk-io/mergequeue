@@ -857,7 +857,6 @@ barbaric
 baggagemaster
 baggager
 benzidin
-baggala
 bagganet
 baggara
 brevis
@@ -5519,6 +5518,7 @@ behenate
 behenic
 bemixed
 behests
+baggala
 beehouse
 behew
 busybodied
