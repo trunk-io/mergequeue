@@ -2965,7 +2965,6 @@ dysmenorrhoeal
 dedenda
 duodecimomos
 dedicant
-dedicatee
 dichotic
 downbeat
 dedicating
@@ -14682,6 +14681,7 @@ divid
 devotees
 dmod
 doand
+dedicatee
 doarium
 dendroceratine
 dimensionality
