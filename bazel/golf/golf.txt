@@ -3868,7 +3868,6 @@ gratefully
 galactophlebitis
 gaul
 guttar
-giblets
 giboia
 goyle
 gibstaff
@@ -8047,6 +8046,7 @@ gamone
 granola
 granolite
 guff
+giblets
 grimily
 gulch
 granophyre
