@@ -5725,7 +5725,6 @@ bookworms
 benjoin
 bylaw
 beldams
-bacchar
 bilify
 britten
 belderroot
@@ -8376,6 +8375,7 @@ betafite
 balaenid
 bigamizing
 burstiness
+bacchar
 bedesman
 byganging
 bigarades
