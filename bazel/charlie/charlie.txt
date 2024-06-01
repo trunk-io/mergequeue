@@ -7511,7 +7511,6 @@ ceratiasis
 ceratiid
 ceratins
 ceratioid
-ceratite
 ceratitic
 capsuligerous
 caffle
@@ -28230,6 +28229,7 @@ crannequin
 chalukyan
 crannia
 crannied
+ceratite
 crannies
 crannying
 compiler
