@@ -1082,7 +1082,6 @@ dartled
 dartlike
 dedecorate
 dartling
-divisibleness
 dissecting
 dramaturgic
 disembellish
@@ -4444,6 +4443,7 @@ deliberator
 dishonourableness
 dispersonalize
 demarcates
+divisibleness
 demarcating
 demarcation
 demarcations
