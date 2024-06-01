@@ -6874,7 +6874,6 @@ bookery
 bersagliere
 bersaglieri
 borocarbide
-berseem
 berserker
 blackbirds
 bin
@@ -14536,6 +14535,7 @@ banbury
 brandrith
 blow
 broncobuster
+berseem
 bellyband
 behorn
 brangled
