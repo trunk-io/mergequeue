@@ -819,6 +819,7 @@ cayos
 caique
 caiquejee
 caiques
+catalase
 cairene
 cairn
 cairned
@@ -4782,7 +4783,6 @@ carport
 carpos
 chibouk
 carposporangial
-catalase
 carpospore
 carposporous
 carps
