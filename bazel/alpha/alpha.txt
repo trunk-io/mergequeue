@@ -325,7 +325,6 @@ abdicate
 aberrancy
 aberrant
 anthraceniferous
-aberrantly
 aberrants
 aberrating
 aberration
@@ -4349,6 +4348,7 @@ adenohypophysial
 appoint
 azophosphore
 adrenalcortical
+aberrantly
 aunthoods
 adrenalectomize
 adrenalectomizing
