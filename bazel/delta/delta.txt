@@ -3115,7 +3115,6 @@ deerstalkers
 deerstalking
 deerweed
 deerweeds
-deescalate
 deescalation
 detribalizing
 deeses
@@ -5881,6 +5880,7 @@ dreiling
 dumbheaded
 depositive
 deposito
+deescalate
 depositor
 directively
 depositories
