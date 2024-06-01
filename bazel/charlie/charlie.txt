@@ -22105,7 +22105,6 @@ confix
 confixing
 carf
 conflagration
-conflagrations
 climatologists
 conflagrative
 conflagrator
@@ -30512,6 +30511,7 @@ cubitiere
 clara
 cubito
 cubitocarpal
+conflagrations
 cumaean
 cercelee
 cubitoradial
