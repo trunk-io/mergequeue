@@ -4039,7 +4039,6 @@ acicularity
 adjutants
 antimonopoly
 adjutantship
-anesthetic
 adjutator
 adjute
 adjutor
@@ -20792,6 +20791,7 @@ aerocolpos
 artiodactylous
 artisan
 appendixed
+anesthetic
 avicularian
 alahee
 agoniadin
