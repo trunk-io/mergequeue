@@ -2534,7 +2534,6 @@ fry
 fernyear
 fernlike
 flustrum
-fernshaw
 forlorner
 foolhardihood
 fernticle
@@ -3709,6 +3708,7 @@ foreleech
 follied
 fermental
 fillable
+fernshaw
 fillemot
 frownless
 flavorlessness
