@@ -19490,6 +19490,7 @@ colormaker
 colorman
 coloroto
 colors
+conjured
 cutose
 cleptomania
 colorum
@@ -22584,7 +22585,6 @@ conjuration
 conjurations
 conjurator
 cesar
-conjured
 conjurement
 canel
 conjurers
