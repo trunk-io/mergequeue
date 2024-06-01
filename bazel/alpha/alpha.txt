@@ -4269,6 +4269,7 @@ adoptee
 alcid
 autozooid
 adoptees
+atriopore
 autocarpous
 adopter
 antitarnish
@@ -22896,7 +22897,6 @@ archpriesthood
 atrickle
 antiquarium
 atriocoelomic
-atriopore
 atrip
 atrypa
 asthenopic
