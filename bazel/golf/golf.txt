@@ -1080,7 +1080,6 @@ groan
 geriatrics
 grabbots
 geotropism
-gaolbird
 gossamer
 gormandizing
 gazer
@@ -5172,6 +5171,7 @@ glasslikeness
 gourdiness
 goosefoots
 galvanocontractility
+gaolbird
 gravery
 glassmaker
 glassmaking
