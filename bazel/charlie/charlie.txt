@@ -3585,7 +3585,6 @@ cumanagoto
 caracol
 caracoled
 caracoler
-caracoli
 caracoling
 critically
 caracolite
@@ -5070,6 +5069,7 @@ casavi
 casbah
 casbahs
 cascabel
+caracoli
 cascabels
 cytocide
 cascable

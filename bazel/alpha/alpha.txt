@@ -7871,7 +7871,6 @@ aready
 assurge
 aldrovanda
 aldus
-alchemically
 ale
 adoze
 abreuvoir
@@ -8230,6 +8229,7 @@ algorithmic
 algorithmically
 algors
 algovite
+alchemically
 algraphy
 alguacil
 apoplectically
