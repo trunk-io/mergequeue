@@ -1104,6 +1104,7 @@ floter
 foredestining
 foremast
 farolito
+firebug
 foveole
 flustration
 ferriages
@@ -4138,7 +4139,6 @@ fanos
 fortifyingly
 frogmouth
 firebrick
-firebug
 flagstones
 fireburn
 flickertail
