@@ -4535,7 +4535,6 @@ erythrophagous
 encephalitic
 exocolitis
 emulators
-encephalitogenic
 elotherium
 encephalographic
 ekphorize
@@ -7427,6 +7426,7 @@ emargination
 epeisodion
 epembryonic
 epencephala
+encephalitogenic
 embittering
 embezzle
 epencephalon
