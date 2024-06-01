@@ -7330,6 +7330,7 @@ aramu
 aggerose
 alaria
 allele
+allokurtic
 alaric
 alarm
 abbess
@@ -8963,7 +8964,6 @@ alloiometric
 adjustments
 acrogenic
 alloisomerism
-allokurtic
 allomerization
 allomerizing
 averager
