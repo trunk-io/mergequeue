@@ -8403,7 +8403,6 @@ chalking
 chalklike
 chalkline
 chalkone
-chalkos
 chalkotheke
 chalkpit
 chalkrail
@@ -14058,6 +14057,7 @@ cynomolgus
 cynomoriaceae
 cytosome
 comptible
+chalkos
 cynomoriaceous
 cynomorium
 cynomorphic
