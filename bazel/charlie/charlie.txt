@@ -5928,6 +5928,7 @@ catheads
 cathect
 cathected
 cathecting
+curagh
 cathection
 cathects
 cathedra
@@ -10509,7 +10510,6 @@ cleistogamous
 capiases
 chylaceous
 chilalgia
-curagh
 chylangioma
 chylaqueous
 chilaria
