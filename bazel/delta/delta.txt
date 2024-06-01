@@ -5631,7 +5631,6 @@ delphinoid
 digested
 diphthongic
 disrepute
-depasturable
 depasture
 depatriate
 dispergation
@@ -13652,6 +13651,7 @@ dolichurus
 draftee
 dissyllabic
 dasypaedic
+depasturable
 dissyllabification
 dissyllabised
 dehonestate
