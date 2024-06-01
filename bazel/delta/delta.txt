@@ -5681,7 +5681,6 @@ dumpiness
 depermed
 deperms
 depersonalise
-depersonalising
 depersonalized
 denudated
 dacelo
@@ -12470,6 +12469,7 @@ dromond
 disingenuity
 disimitation
 disimpark
+depersonalising
 disimpassioned
 disimprison
 disimprisonment

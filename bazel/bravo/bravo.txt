@@ -8657,7 +8657,6 @@ bilks
 bushveld
 brattish
 burro
-bassanello
 barih
 billa
 baptism
@@ -11635,6 +11634,7 @@ boarts
 boarwood
 boas
 boaster
+bassanello
 boastfully
 boastfulness
 bacchus
