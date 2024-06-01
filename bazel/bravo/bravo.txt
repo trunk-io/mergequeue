@@ -7587,7 +7587,6 @@ beulah
 beuncled
 bura
 borates
-beurre
 bevaring
 bevatron
 beveil
@@ -17042,6 +17041,7 @@ bulkage
 bulked
 boldfaces
 burt
+beurre
 bulkhead
 bulkheading
 bulky
