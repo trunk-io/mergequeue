@@ -1192,7 +1192,6 @@ eikons
 elephantine
 esthetics
 environage
-embowelled
 edition
 editions
 editor
@@ -4452,6 +4451,7 @@ encanker
 environmentally
 encanthis
 enfacing
+embowelled
 encapsulates
 elaboratory
 everest
