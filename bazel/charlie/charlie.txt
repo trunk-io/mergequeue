@@ -11827,6 +11827,7 @@ crankness
 concealingly
 chondrocyte
 chondroclasis
+cooker
 chondrocoracoid
 chondrocostal
 chondrocranial
@@ -24375,7 +24376,6 @@ classist
 cookee
 corncutting
 cookeite
-cooker
 cookeries
 cookhouse
 cookhouses
