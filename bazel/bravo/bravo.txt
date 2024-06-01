@@ -6396,6 +6396,7 @@ blimp
 barish
 bentlet
 blastie
+byerite
 benton
 bentonite
 bents
@@ -8287,7 +8288,6 @@ bienvenue
 boosters
 bier
 broid
-byerite
 bierkeller
 byerlite
 backspliced

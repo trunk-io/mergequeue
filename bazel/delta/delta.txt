@@ -6763,6 +6763,7 @@ degummer
 desilicified
 dyestuff
 desiliconization
+disenchantments
 dribbed
 disuniters
 decollating
@@ -12006,7 +12007,6 @@ disenchant
 disenchanting
 deputyship
 dowd
-disenchantments
 dermaskeleton
 disenchantress
 disencharm
