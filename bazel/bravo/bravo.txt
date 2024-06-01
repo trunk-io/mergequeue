@@ -1460,6 +1460,7 @@ baline
 bugler
 balinese
 balinghasay
+burrer
 balistarii
 balister
 balistes
@@ -5368,7 +5369,6 @@ bakalai
 beglerbegluc
 biannulate
 beglerbegship
-burrer
 bivariate
 beglide
 bewilderedness
