@@ -4158,6 +4158,7 @@ cardioptosis
 cardiopulmonary
 cardiorenal
 cardiorespiratory
+coolers
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
@@ -24409,7 +24410,6 @@ cavally
 cooley
 coolen
 cooler
-coolers
 caviling
 coolest
 coned
