@@ -2707,7 +2707,6 @@ emmanuel
 excursed
 electrotaxis
 erythrophobia
-electrotechnic
 electrotechnician
 exports
 expansionary
@@ -3100,6 +3099,7 @@ elliot
 educationable
 enlistment
 elem
+electrotechnic
 ellipsis
 ergatocracy
 emblematic
