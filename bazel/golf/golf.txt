@@ -1883,7 +1883,6 @@ goniodoris
 gatehouses
 gaskins
 guipures
-gastrotome
 gastrotomic
 gastrovascular
 granitiferous
@@ -7786,6 +7785,7 @@ grallae
 greenrooms
 geophone
 glastonbury
+gastrotome
 goldminer
 glagol
 grallic
