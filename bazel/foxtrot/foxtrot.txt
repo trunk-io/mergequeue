@@ -9236,7 +9236,6 @@ flagmaking
 flashier
 frillback
 fraying
-ficin
 frayings
 fullgrownness
 fusk
@@ -9971,6 +9970,7 @@ frightening
 friezed
 farrow
 fleshhook
+ficin
 friezer
 frig
 facework
