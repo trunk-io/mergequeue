@@ -9330,7 +9330,6 @@ bipinnariae
 batussi
 bipinnarias
 bipinnate
-bipinnated
 bipinnatipartite
 bipinnatisect
 bipinnatisected
@@ -16378,6 +16377,7 @@ batitinan
 beclip
 brushet
 boorishly
+bipinnated
 bilestone
 bellwine
 brushful
