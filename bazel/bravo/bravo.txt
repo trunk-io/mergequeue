@@ -3964,7 +3964,6 @@ bawtie
 bawties
 baxter
 bifidated
-baxtone
 bazar
 bazars
 baze
@@ -9180,6 +9179,7 @@ biopsic
 bailliage
 benightmare
 biopsychology
+baxtone
 biopsychological
 biopsychologies
 biopsychologist
