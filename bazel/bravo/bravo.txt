@@ -2938,7 +2938,6 @@ blind
 barrelhead
 barrelhouses
 barreling
-blanco
 bipennated
 broad
 barrelled
@@ -15059,6 +15058,7 @@ bronchotyphoid
 brickliner
 benting
 brewership
+blanco
 brewhouse
 brewhouses
 brewing
