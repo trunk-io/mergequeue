@@ -10860,7 +10860,6 @@ beanie
 birthrate
 branchiate
 blepharochromidrosis
-bcf
 baselard
 bitolyl
 balow
@@ -12068,6 +12067,7 @@ bops
 barbarians
 boycotts
 benzotetrazole
+bcf
 boid
 boyd
 boydekyn
