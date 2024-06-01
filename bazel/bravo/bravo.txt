@@ -3488,7 +3488,6 @@ bastings
 bastion
 blendure
 bastionary
-bodingly
 bastionet
 badgerly
 bastions
@@ -5276,6 +5275,7 @@ beslimed
 basification
 begar
 barkeepers
+bodingly
 basaltic
 bicentenary
 beaky
