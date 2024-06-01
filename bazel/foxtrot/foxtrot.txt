@@ -635,7 +635,6 @@ feats
 fanum
 fict
 friskers
-fritterer
 fartherance
 falsism
 freightyard
@@ -1369,6 +1368,7 @@ flown
 forride
 fathomage
 fathomed
+fritterer
 flatlanders
 fbi
 fellani
