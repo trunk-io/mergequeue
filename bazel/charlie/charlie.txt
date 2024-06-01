@@ -8396,7 +8396,6 @@ colicin
 chalkiest
 chalkiness
 chalking
-chalklike
 chalkline
 chalkone
 chalkos
@@ -29941,6 +29940,7 @@ crosstree
 crossway
 curara
 crossways
+chalklike
 crosswalks
 crossweb
 crossweed
