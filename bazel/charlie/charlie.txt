@@ -9729,6 +9729,7 @@ cheeseparing
 cheeser
 cheeses
 cheesewood
+companyless
 cheesy
 cheesiest
 crabeater
@@ -15284,7 +15285,6 @@ cladophora
 cladophoraceous
 carilloneur
 cladoptosis
-companyless
 cladose
 canicule
 cladoselachea
