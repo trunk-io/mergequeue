@@ -6969,7 +6969,6 @@ codable
 colometrically
 cenobies
 cenobite
-cribber
 cenobites
 cenobitic
 cenobitical
@@ -12548,6 +12547,7 @@ chromogenesis
 choriambuses
 cingulate
 chamaecrista
+cribber
 cranemanship
 chromogenous
 chromoisomer
