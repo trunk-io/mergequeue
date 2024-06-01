@@ -4271,7 +4271,6 @@ cottages
 carfare
 carfares
 carfax
-carfloat
 coater
 carfuffle
 cormels
@@ -8095,6 +8094,7 @@ cerotate
 chemin
 chaetal
 chaetangiaceae
+carfloat
 chaetetes
 cipher
 chaetetidae
