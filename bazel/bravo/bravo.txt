@@ -3564,7 +3564,6 @@ blawort
 babelic
 besigh
 bates
-bogglish
 broadax
 batete
 batfish
@@ -4628,6 +4627,7 @@ beagles
 bequirtle
 bedabbling
 barricadoed
+bogglish
 berceau
 buttonholer
 bedad
