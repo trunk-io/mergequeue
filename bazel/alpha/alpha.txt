@@ -9387,7 +9387,6 @@ adnumber
 alphabetically
 affectation
 alphabeting
-alphabetisation
 alphabetise
 alphabetised
 alphabetiser
@@ -17832,6 +17831,7 @@ appleblossom
 appled
 anthracomartian
 acetylate
+alphabetisation
 appledrone
 allopaths
 aganippe
