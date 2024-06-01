@@ -14466,6 +14466,7 @@ circumsail
 circumscribable
 circumscribed
 circumscript
+collapsed
 circumscriptions
 cordiform
 circumsession
@@ -18968,7 +18969,6 @@ collages
 castalio
 collapsability
 collapse
-collapsed
 collapses
 contam
 cuddles
