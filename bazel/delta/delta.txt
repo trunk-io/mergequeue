@@ -1755,6 +1755,7 @@ dundees
 deathliness
 deathrates
 deaths
+dishabituate
 deathsman
 depaysee
 deathtime
@@ -12315,7 +12316,6 @@ dishabilitate
 dishabille
 dimorphite
 decker
-dishabituate
 dishabituated
 dionysian
 dishabituating
