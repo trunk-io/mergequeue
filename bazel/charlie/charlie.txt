@@ -949,7 +949,6 @@ calamansi
 calamar
 calamary
 calamariaceous
-calculation
 calamarioid
 calamarmar
 canccelli
@@ -11714,6 +11713,7 @@ cholesteatoma
 concorrezanes
 cholesteatomatous
 cholestene
+calculation
 cholesteremia
 cholesteric
 cholesteryl
