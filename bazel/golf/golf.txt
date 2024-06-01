@@ -4460,7 +4460,6 @@ griping
 glozing
 glucosemia
 gestio
-gingerspice
 gingerwort
 garthman
 gleefulness
@@ -5813,6 +5812,7 @@ grenado
 glossemes
 glossemic
 glossers
+gingerspice
 glossy
 glaciometer
 gnathostomatous

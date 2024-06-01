@@ -12622,7 +12622,6 @@ disjoints
 disjointure
 disjunctive
 disjunctively
-deseed
 disjunctor
 disembodying
 dereferences
@@ -16336,6 +16335,7 @@ downpour
 desray
 dements
 downpours
+deseed
 disagreeable
 decidability
 downright
