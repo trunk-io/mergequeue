@@ -6389,6 +6389,7 @@ agreeability
 agreeable
 aflush
 audiovisual
+autoprothesis
 agreeableness
 agreeably
 agreed
@@ -7739,7 +7740,6 @@ anaudia
 anchoritical
 alcoholicity
 antonymic
-autoprothesis
 archdeanery
 alcoholimeter
 autoconverter
