@@ -3604,7 +3604,6 @@ fourniture
 filers
 foxes
 fructification
-felinity
 fungivorous
 files
 filesmith
@@ -6100,6 +6099,7 @@ fester
 frogmouths
 forswore
 faire
+felinity
 freudians
 flours
 forechoir
