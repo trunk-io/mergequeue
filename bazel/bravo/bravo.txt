@@ -4997,7 +4997,6 @@ bioclimatologies
 beekeepers
 beekeeping
 bedight
-beekite
 bosher
 bassos
 beelzebul
@@ -12255,6 +12254,7 @@ bolshevist
 bolshevistic
 berms
 basso
+beekite
 biopoesis
 bolshevistically
 bolshevize
