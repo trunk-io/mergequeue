@@ -3222,7 +3222,6 @@ capite
 capitellar
 capitellate
 capitellum
-capitle
 compenetrate
 capito
 capitol
@@ -3581,6 +3580,7 @@ cumanagoto
 caracol
 caracoled
 caracoler
+capitle
 caracoli
 caracoling
 critically
