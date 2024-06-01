@@ -2846,7 +2846,6 @@ ectocornea
 ecdemic
 emitter
 electrometallurgical
-eleoblast
 eleolite
 eleomargaric
 eleoplast
@@ -3016,6 +3015,7 @@ elymus
 elinguate
 elinguating
 eleatic
+eleoblast
 evaluate
 electing
 eliot
