@@ -9297,7 +9297,6 @@ chastisable
 chastise
 chastised
 chastiser
-chastisers
 clapperboard
 corf
 chastity
@@ -23158,6 +23157,7 @@ constablewick
 constabular
 constabularies
 constancy
+chastisers
 constant
 comminute
 constantan

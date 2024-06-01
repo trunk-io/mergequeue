@@ -5532,7 +5532,6 @@ fratching
 flied
 flier
 flyer
-faeces
 fossilization
 firstling
 felonweed
@@ -7325,6 +7324,7 @@ fontanels
 forbade
 forbare
 forbarred
+faeces
 forbborne
 freshen
 forbearable
