@@ -2752,7 +2752,6 @@ diatessaron
 decontaminations
 dejectly
 decontaminator
-decontaminators
 decontrol
 dustoor
 dvornik
@@ -16847,6 +16846,7 @@ decurtate
 disallowances
 debaters
 dissuited
+decontaminators
 drawfiling
 drawgate
 dividers
