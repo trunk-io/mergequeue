@@ -4784,7 +4784,6 @@ galli
 glycolipide
 gyroscopes
 gastroplenic
-gesticulating
 gyrotheca
 girouette
 girouettes
@@ -5723,6 +5722,7 @@ gorbit
 glomeli
 goonda
 gallicanism
+gesticulating
 gastrasthenia
 glomera
 game
