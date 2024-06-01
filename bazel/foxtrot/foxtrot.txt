@@ -1656,7 +1656,6 @@ faxed
 futilities
 forestaffs
 fevergum
-faxes
 festshrifts
 fivepence
 fructuosity
@@ -7601,6 +7600,7 @@ founderous
 forst
 florinda
 floodmark
+faxes
 forefield
 foreorlop
 forefinger

@@ -17580,7 +17580,6 @@ drumlike
 drumlin
 desisting
 dwarfing
-drumline
 drumlinoid
 drivecap
 decelerated
@@ -18331,6 +18330,7 @@ dogberrydom
 duodedena
 duodedenums
 duodena
+drumline
 duodenary
 duodenate
 declension
