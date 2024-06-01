@@ -1548,7 +1548,6 @@ fauntleroy
 fanciest
 flagellaria
 faurd
-faussebrayed
 faust
 fortifying
 faustian
@@ -10655,6 +10654,7 @@ foodstuffs
 fruitier
 fixity
 fruitiness
+faussebrayed
 famish
 frightable
 facultied
