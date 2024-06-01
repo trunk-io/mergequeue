@@ -3125,7 +3125,6 @@ actinophrys
 actinopod
 actinopraxis
 aget
-actinopteran
 actinopteri
 actinopterygian
 annexal
@@ -18059,6 +18058,7 @@ appropinquity
 appropre
 akoulalion
 appropriament
+actinopteran
 arrogantness
 appropriately
 appropriateness
