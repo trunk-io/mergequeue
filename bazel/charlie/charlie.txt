@@ -2498,6 +2498,7 @@ candlepower
 chemist
 candler
 candlerent
+circumnavigating
 candlers
 candles
 candleshine
@@ -14421,7 +14422,6 @@ circumnavigable
 circumnavigate
 circumnavigates
 corollike
-circumnavigating
 circumnavigation
 clefted
 circumnavigations
