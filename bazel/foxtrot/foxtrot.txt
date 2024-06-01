@@ -2912,7 +2912,6 @@ foliages
 fetter
 fisty
 figworm
-fungid
 folksongs
 flunkeyize
 fortuned
@@ -8825,6 +8824,7 @@ fosterite
 forebye
 fleecing
 flatbrod
+fungid
 foreigners
 fossettes
 fosterling
