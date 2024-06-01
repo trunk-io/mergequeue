@@ -2469,7 +2469,6 @@ degorder
 decimetre
 decimolar
 drainpipe
-diplacusis
 driegh
 daysman
 dangering
@@ -5071,6 +5070,7 @@ dename
 denarcotization
 disgregation
 deskmen
+diplacusis
 denari
 denaries
 denarinarii
