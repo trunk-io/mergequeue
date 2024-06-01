@@ -8480,7 +8480,6 @@ chamaerops
 collegianer
 chamaesiphonaceae
 cocamine
-chamaesiphonales
 chamal
 chamar
 chamber
@@ -19371,6 +19370,7 @@ carshop
 caryatic
 colonials
 colonical
+chamaesiphonales
 crassier
 colonies
 colonisability

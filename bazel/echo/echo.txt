@@ -5345,7 +5345,6 @@ encoring
 endosteomata
 endosteum
 exploitative
-equipments
 excarnate
 ephebes
 enmagazine
@@ -7169,6 +7168,7 @@ epiplexis
 ergotamine
 envying
 employees
+equipments
 energic
 envious
 embryomata
