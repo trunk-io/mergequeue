@@ -13491,7 +13491,6 @@ basementward
 bolted
 brachydactyl
 bottomried
-bottomrying
 bookshelves
 bottstick
 barrelsful
@@ -16315,6 +16314,7 @@ boryl
 brummagem
 biosynthetic
 barged
+bottomrying
 brummagen
 brummer
 backspeer
