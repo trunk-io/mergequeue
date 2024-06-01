@@ -4602,7 +4602,6 @@ demifarthing
 demifigure
 demigardebras
 decentres
-disinflated
 demigauntlet
 disclosing
 demigentleman
@@ -15319,6 +15318,7 @@ dermatophytic
 dolorimeter
 dolorimetric
 desaurin
+disinflated
 dolorimetrically
 dolorogenic
 daimio
