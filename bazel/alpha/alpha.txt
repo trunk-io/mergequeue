@@ -6529,7 +6529,6 @@ agua
 aguacateca
 aguada
 aguador
-aguaji
 aguamiel
 aliments
 aguavina
@@ -15745,6 +15744,7 @@ antioptimism
 afaint
 afrite
 antipharisaic
+aguaji
 albify
 antioptionist
 antiorthodoxy
