@@ -2581,7 +2581,6 @@ ferrelling
 forwake
 fights
 folder
-fossilisable
 fluorine
 ferreous
 fences
@@ -6255,6 +6254,7 @@ fluidmeter
 fairylands
 faulted
 forceful
+fossilisable
 fawnery
 fluidounce
 findal
