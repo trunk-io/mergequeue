@@ -2960,6 +2960,7 @@ cantline
 cantling
 canto
 canton
+clauber
 confederatism
 cortege
 carvel
@@ -15745,7 +15746,6 @@ coquin
 calfskins
 clattertraps
 clatty
-clauber
 claucht
 claude
 claudent
