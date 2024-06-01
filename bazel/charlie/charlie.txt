@@ -26669,7 +26669,6 @@ counite
 counsel
 counselable
 copita
-counseled
 counselee
 counseling
 counsellable
@@ -26740,6 +26739,7 @@ counterassociation
 chaldrons
 cammock
 counterattack
+counseled
 counterattacked
 cyclamate
 counterattacker
