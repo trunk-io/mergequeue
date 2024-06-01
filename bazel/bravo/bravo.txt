@@ -7248,7 +7248,6 @@ beanfest
 bestay
 bestayed
 bestamp
-bestand
 bestarve
 bellical
 bestatued
@@ -13264,6 +13263,7 @@ bedstaff
 brune
 bossily
 bossiness
+bestand
 balconied
 bizarres
 bowler
