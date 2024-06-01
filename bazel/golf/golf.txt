@@ -817,7 +817,6 @@ gamari
 gamash
 gamashes
 gristliness
-gamasidae
 goombay
 guamuchil
 gamasoidea
@@ -9847,6 +9846,7 @@ gonadic
 guanay
 guanayes
 guanare
+gamasidae
 groow
 galaxy
 guaneide
