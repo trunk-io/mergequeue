@@ -3197,7 +3197,6 @@ basic
 bombardier
 basically
 basicerite
-basichromatinic
 basicity
 bumph
 benzins
@@ -5847,6 +5846,7 @@ bylining
 bechalked
 buckthorn
 bellboys
+basichromatinic
 bergalith
 belled
 baggageman
