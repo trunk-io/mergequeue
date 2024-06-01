@@ -10723,7 +10723,6 @@ abib
 antitheistical
 altair
 aminolysis
-aminolytic
 aminomalonic
 analities
 aminopeptidase
@@ -19893,6 +19892,7 @@ archplotter
 armadillos
 astrocyte
 araucarian
+aminolytic
 armado
 amphicyonidae
 armageddonist
