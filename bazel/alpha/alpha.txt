@@ -11873,7 +11873,6 @@ analogise
 analogised
 anteroventral
 analogize
-appropriation
 analogon
 alodiary
 analogous
@@ -19618,6 +19617,7 @@ argots
 arguable
 arguably
 avoiders
+appropriation
 attender
 arguer
 aerobian
