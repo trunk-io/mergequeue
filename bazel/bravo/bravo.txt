@@ -6262,6 +6262,7 @@ banjoes
 blacker
 beneficial
 beneficialness
+blackbuck
 beneficiaryship
 bluebooks
 beneficiate
@@ -10171,7 +10172,6 @@ belknap
 blackbody
 blackboy
 bloodings
-blackbuck
 bisque
 biotrons
 blackbush
