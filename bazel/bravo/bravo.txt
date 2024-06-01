@@ -4578,6 +4578,7 @@ beblister
 becrowd
 becrowded
 burstwort
+bescours
 billeting
 bathhouse
 bumptiously
@@ -6944,7 +6945,6 @@ barhal
 buicks
 bescourge
 bulbocodium
-bescours
 buckeroos
 bescramble
 bescrape
