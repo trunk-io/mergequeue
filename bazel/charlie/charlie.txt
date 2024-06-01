@@ -4677,7 +4677,6 @@ carpellary
 cytinaceous
 coattended
 carpenteria
-carpentering
 composograph
 carpenters
 charlock
@@ -7039,6 +7038,7 @@ centaurium
 constructure
 centauromachy
 centauromachia
+carpentering
 centaurus
 centavo
 centena
