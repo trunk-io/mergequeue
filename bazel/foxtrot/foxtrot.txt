@@ -8352,6 +8352,7 @@ filcher
 foredestined
 forlornly
 fledglings
+friary
 forever
 fucatious
 forethough
@@ -9875,7 +9876,6 @@ friar
 fungo
 fremitus
 felonsetter
-friary
 friarly
 friarling
 falconidae
