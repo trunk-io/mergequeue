@@ -12481,6 +12481,7 @@ bonderize
 belabored
 bloodline
 bonderman
+buttressing
 bondfolk
 bogum
 bynin
@@ -18338,7 +18339,6 @@ brachiation
 buttress
 buttressed
 breviped
-buttressing
 bookstack
 buttresslike
 bromiodide
