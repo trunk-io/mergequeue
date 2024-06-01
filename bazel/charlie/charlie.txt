@@ -6625,7 +6625,6 @@ ceded
 cedens
 ceders
 cedes
-cunye
 cottiers
 cedilla
 cedillas
@@ -7520,6 +7519,7 @@ ceratitoidea
 ceratium
 ceratoblast
 ceratobranchial
+cunye
 ceratocystis
 ceratodidae
 ceratodontidae
