@@ -429,7 +429,6 @@ fulminate
 fauchards
 fishgig
 fur
-fairship
 fairway
 faultfinders
 fairwater
@@ -4218,6 +4217,7 @@ firestop
 foreignize
 fucivorous
 fungose
+fairship
 frith
 flatterers
 facilitated
