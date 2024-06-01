@@ -4902,7 +4902,6 @@ garderobe
 galleta
 gladeye
 glossematics
-geostationary
 gandurah
 glar
 gagroot
@@ -9234,6 +9233,7 @@ garrulity
 groenlandicus
 grazeable
 glucuronic
+geostationary
 gi
 goethites
 grog
