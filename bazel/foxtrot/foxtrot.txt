@@ -3020,7 +3020,6 @@ fiats
 fazed
 fezzed
 fezzes
-fezzy
 fallway
 fadings
 forsake
@@ -3527,6 +3526,7 @@ figurer
 flyweight
 flocculous
 facebread
+fezzy
 figures
 foresting
 finds
