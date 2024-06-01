@@ -2116,6 +2116,7 @@ elapids
 euthyneural
 empurple
 elapine
+extrapolates
 elapse
 exhalate
 embaying
@@ -3841,7 +3842,6 @@ endosteal
 emergence
 echinostomiasis
 emergentness
-extrapolates
 emergents
 enring
 emboweler

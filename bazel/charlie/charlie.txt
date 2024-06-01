@@ -13239,6 +13239,7 @@ catchable
 cycases
 coverless
 cycasins
+commensal
 cicatrice
 colocolo
 cicatrices
@@ -20082,7 +20083,6 @@ commender
 commending
 commendment
 commends
-commensal
 commensalist
 commensally
 campodeid
