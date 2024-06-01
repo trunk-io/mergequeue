@@ -357,7 +357,6 @@ factions
 famines
 fiercening
 foreproduct
-fideicommissor
 fainter
 fumiferana
 faintest
@@ -5208,6 +5207,7 @@ frons
 flawing
 flamandization
 fatiloquent
+fideicommissor
 flawlessness
 flawn
 floppily
