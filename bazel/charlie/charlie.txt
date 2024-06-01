@@ -20810,7 +20810,6 @@ compliances
 compliancy
 consimilarity
 compliant
-compliantly
 compiling
 cupcake
 complicacy
@@ -23453,6 +23452,7 @@ centgrave
 caresses
 contect
 contection
+compliantly
 contek
 conteke
 contemned
