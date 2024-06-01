@@ -7432,7 +7432,6 @@ bethflower
 bootstrap
 bethink
 barquentine
-balaenoptera
 becumber
 bethinks
 baklawa
@@ -10302,6 +10301,7 @@ biborate
 blacksmithing
 beastdom
 botargo
+balaenoptera
 brutalising
 beets
 benevolist
