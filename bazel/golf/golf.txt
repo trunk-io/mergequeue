@@ -3702,7 +3702,6 @@ genearch
 gipsylike
 gnathalgia
 ghettoed
-ghettoes
 ghettoized
 grubbing
 ghettoizing
@@ -10275,6 +10274,7 @@ gastroptosis
 guiltsick
 guimbard
 guinde
+ghettoes
 gorsehatch
 gumihan
 geechee
