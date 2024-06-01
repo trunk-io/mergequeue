@@ -10186,7 +10186,6 @@ git
 grown
 glaived
 gelid
-guide
 guideboard
 guidebooky
 gambogic
@@ -10734,6 +10733,7 @@ germanomania
 genesiurgic
 gustful
 gustfully
+guide
 gulix
 gromet
 gnomonological
