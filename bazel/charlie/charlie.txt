@@ -11659,6 +11659,7 @@ cholecystojejunostomy
 cholecystokinin
 coign
 cholecystolithiasis
+collinear
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
@@ -27797,7 +27798,6 @@ coxcombries
 coxcomically
 coxed
 cissing
-collinear
 coxendix
 cowishness
 coxes
