@@ -3526,6 +3526,7 @@ flyweight
 flocculous
 facebread
 figures
+flagmaker
 foresting
 finds
 friesic
@@ -7697,7 +7698,6 @@ foreignly
 foreignness
 foreigns
 foreimpressed
-flagmaker
 flamberge
 fatal
 fleetness
