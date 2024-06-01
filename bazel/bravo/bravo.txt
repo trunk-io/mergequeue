@@ -2150,7 +2150,6 @@ booms
 beggiatoa
 borofluoride
 bantayan
-buckshots
 bidstand
 bantam
 bantamize
@@ -6426,6 +6425,7 @@ benzoxate
 benzamido
 betail
 benzamine
+buckshots
 bristler
 benzaminic
 barrer
