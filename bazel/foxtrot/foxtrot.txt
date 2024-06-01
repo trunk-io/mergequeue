@@ -4311,7 +4311,6 @@ figureheads
 fishability
 froggier
 fishback
-forebackwardly
 feltwork
 fixion
 fishboats
@@ -6082,6 +6081,7 @@ flotten
 flounce
 fostell
 flounced
+forebackwardly
 flounciest
 flouncing
 flatters
