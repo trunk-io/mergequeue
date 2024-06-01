@@ -2973,6 +2973,7 @@ gustfulness
 garboards
 genuflecting
 graphicalness
+guildship
 gullish
 genuflections
 genuflects
@@ -5937,7 +5938,6 @@ glist
 glowering
 gastropneumatic
 glowingly
-guildship
 glows
 gorgeable
 ghastfulness
