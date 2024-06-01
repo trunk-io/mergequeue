@@ -2537,7 +2537,6 @@ beechwoods
 bhut
 brachyoura
 barge
-bergere
 bargehouse
 bargelike
 bravura
@@ -13439,6 +13438,7 @@ brightsome
 bottegas
 buncombes
 bibliotheca
+bergere
 bottekin
 botticelli
 brakehead
