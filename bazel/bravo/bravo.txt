@@ -1202,7 +1202,6 @@ bakehead
 bibliothetic
 bakehouses
 bakelite
-bakelize
 bakemeats
 backslash
 bloop
@@ -7936,6 +7935,7 @@ botchka
 bearable
 bibelots
 bibenzyl
+bakelize
 biberon
 bibi
 bibio
