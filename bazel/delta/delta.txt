@@ -5835,6 +5835,7 @@ deponing
 distributee
 deltidium
 depopulated
+diplonts
 depopulates
 depopulating
 depopulation
@@ -10616,7 +10617,6 @@ diplonema
 detritus
 dunnaged
 diplont
-diplonts
 domajig
 diplophase
 dictional
