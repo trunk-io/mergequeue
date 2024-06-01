@@ -2728,6 +2728,7 @@ epiperipheral
 enaluron
 exteriorise
 electrothermic
+engross
 endomycetaceae
 electrothermometer
 evanish
@@ -4111,7 +4112,6 @@ epithalami
 empiriocritcism
 everywheres
 empiriocritical
-engross
 empirism
 ethylbenzene
 ecthymata

@@ -12668,7 +12668,6 @@ chronographer
 chronography
 closefitting
 chronographic
-chronographically
 chronoisothermal
 chronologer
 curvedness
@@ -20775,6 +20774,7 @@ complexation
 complexedness
 complexer
 complexes
+chronographically
 complexest
 chelidonate
 complexify
