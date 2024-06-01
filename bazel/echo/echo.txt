@@ -12308,6 +12308,7 @@ els
 endarch
 electromeric
 envy
+exhumate
 exemplarism
 echoes
 exemplarity
@@ -12483,7 +12484,6 @@ exhorters
 exhorting
 exhortingly
 exhorts
-exhumate
 emus
 exhumating
 evacuative
