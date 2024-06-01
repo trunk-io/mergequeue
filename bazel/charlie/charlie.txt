@@ -5960,6 +5960,7 @@ catheterized
 cerastium
 catheterizes
 cathetometer
+chromatophore
 cathetometric
 cephalophorous
 cathetusti
@@ -12465,7 +12466,6 @@ chromatophile
 chromatophilic
 chromatophilous
 chromatophobia
-chromatophore
 chromatophoric
 canthectomy
 chevroned
