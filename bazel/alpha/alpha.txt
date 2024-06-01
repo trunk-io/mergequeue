@@ -483,7 +483,6 @@ abjurations
 abjured
 abjurement
 abjurer
-abjurers
 abkar
 abkari
 abkhasian
@@ -23175,6 +23174,7 @@ attourne
 attract
 alangiaceae
 attractability
+abjurers
 attractance
 attracter
 attractingly
