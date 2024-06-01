@@ -10106,6 +10106,7 @@ fiddlehead
 footnotes
 fafnir
 fishwife
+festal
 fetalism
 flowcontrol
 fathearted
@@ -11042,7 +11043,6 @@ fluoroscope
 frivolist
 fillets
 fumigated
-festal
 floss
 fumigatories
 furzery
