@@ -1984,6 +1984,7 @@ feedstock
 feedstuff
 feeler
 feelers
+fizzling
 fibroserous
 flybook
 fitched
@@ -7487,7 +7488,6 @@ fangotherapy
 filterers
 farceur
 forebrace
-fizzling
 foreburton
 fuzzing
 frae
