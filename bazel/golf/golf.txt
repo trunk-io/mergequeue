@@ -2569,7 +2569,6 @@ glykopectic
 gloaming
 gemot
 gemote
-gemotes
 growingly
 gems
 glaciarium
@@ -3401,6 +3400,7 @@ grids
 gove
 gossipry
 grubbers
+gemotes
 germfree
 gullion
 grooverhead
