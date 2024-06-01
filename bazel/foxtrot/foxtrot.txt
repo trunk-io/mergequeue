@@ -3844,7 +3844,6 @@ faintheart
 flankwise
 fract
 florigenic
-fimbriae
 formicary
 fimbrial
 fimbriate
@@ -10231,6 +10230,7 @@ fob
 figurette
 frogeyed
 fibra
+fimbriae
 fargood
 filite
 flunkyism
