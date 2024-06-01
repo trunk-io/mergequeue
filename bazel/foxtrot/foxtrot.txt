@@ -396,6 +396,7 @@ fairfieldite
 fashioners
 fastigated
 folkland
+familiarity
 fairground
 fairhead
 fairy
@@ -528,7 +529,6 @@ falculate
 falcunculus
 falderal
 falderals
-familiarity
 filicites
 foresays
 forger
