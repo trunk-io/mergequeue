@@ -3540,7 +3540,6 @@ defoliator
 disjunct
 dichroscope
 deuteroprism
-deforced
 deforces
 deforciant
 deforest
@@ -16772,6 +16771,7 @@ downline
 demoid
 drapet
 drapetomania
+deforced
 draping
 diswood
 drastic
