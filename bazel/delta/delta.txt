@@ -1492,7 +1492,6 @@ dazzler
 disposal
 damselflies
 dagos
-dazzlers
 dwindle
 dazzlingness
 dbms
@@ -9878,6 +9877,7 @@ disorientated
 delitescence
 diosphenol
 dinmont
+dazzlers
 dimber
 dimensible
 desilicification
