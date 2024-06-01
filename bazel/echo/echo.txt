@@ -1617,7 +1617,6 @@ egypt
 ecoles
 extraversion
 encampment
-epipany
 egyptologic
 egis
 exogeny
@@ -4254,6 +4253,7 @@ emptyhearted
 excitableness
 emptying
 emptiness
+epipany
 emptio
 emptor
 emprizes
