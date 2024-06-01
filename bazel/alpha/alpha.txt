@@ -1340,7 +1340,6 @@ acauline
 acc
 accable
 accademia
-avellaneous
 acceded
 accel
 accelerable
@@ -4194,6 +4193,7 @@ arousers
 admonitorily
 admonitrix
 alkalinize
+avellaneous
 admrx
 adnascence
 archetypist
