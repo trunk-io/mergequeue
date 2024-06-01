@@ -3636,6 +3636,7 @@ bathythermograph
 bathkol
 barbar
 bathman
+burdenous
 bathmat
 bathmats
 bereaven
@@ -17534,7 +17535,6 @@ bathukolpic
 biograph
 burdeners
 burdenless
-burdenous
 bleep
 babeship
 blabs
