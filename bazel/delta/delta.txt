@@ -4276,7 +4276,6 @@ delocalize
 despiritualize
 delocalizing
 delomorphous
-decrement
 deloo
 deloul
 decocted
@@ -5639,6 +5638,7 @@ depasture
 depatriate
 dispergation
 depauperate
+decrement
 doornails
 depauperation
 depauperize
