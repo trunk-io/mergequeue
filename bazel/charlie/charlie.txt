@@ -8483,7 +8483,6 @@ chamal
 chamar
 chamber
 chamberdeacon
-chambered
 catocala
 cacciatore
 colonopathy
@@ -20233,6 +20232,7 @@ commitments
 commits
 calycoid
 chutist
+chambered
 committable
 committed
 committedly
