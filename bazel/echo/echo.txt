@@ -6327,6 +6327,7 @@ eyespot
 enseal
 estrones
 eicosane
+equisurface
 estancias
 esophoric
 employes
@@ -7520,7 +7521,6 @@ embarment
 excusal
 ebenaceae
 ephydridae
-equisurface
 ephippia
 esterify
 epidiascopic
