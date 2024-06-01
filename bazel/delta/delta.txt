@@ -11017,7 +11017,6 @@ deadheadism
 deoxyribonucleic
 disanalogy
 disanalogous
-disanchor
 disanimal
 disanimation
 despots
@@ -12224,6 +12223,7 @@ dangerless
 deathshot
 disfurniture
 donax
+disanchor
 disgallant
 disgarnish
 descartes
