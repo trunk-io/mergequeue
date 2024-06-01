@@ -3551,7 +3551,6 @@ bogging
 bateau
 blastomycetous
 bucchero
-bandoliered
 bateleur
 bovista
 batell
@@ -9742,6 +9741,7 @@ boulangerite
 bisks
 bislings
 belial
+bandoliered
 battening
 bysmalith
 biggety
