@@ -4623,7 +4623,6 @@ blastodisk
 bed
 bater
 bool
-bedabble
 beagles
 bequirtle
 bedabbling
@@ -13526,6 +13525,7 @@ bichromate
 bouchon
 boucle
 boucles
+bedabble
 butterless
 boudeuse
 butterbough
