@@ -3757,6 +3757,7 @@ fortressed
 farsakh
 filmcard
 filmcards
+fetchers
 filmdom
 fluxing
 filmer
@@ -7018,7 +7019,6 @@ fonts
 froisse
 ferinely
 foodful
-fetchers
 foodless
 fulfilled
 forfeiture
