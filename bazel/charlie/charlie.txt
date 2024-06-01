@@ -216,6 +216,7 @@ cabs
 cabstands
 cabuya
 channelly
+charger
 calendry
 celebrators
 cabureiba
@@ -9035,7 +9036,6 @@ cataphasia
 chargeful
 chargehouse
 chargeless
-charger
 charges
 charybdian
 crankman
