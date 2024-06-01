@@ -7001,7 +7001,6 @@ censoring
 censorious
 censoriously
 censoriousness
-censorship
 coenobiod
 censurability
 censurableness
@@ -8852,6 +8851,7 @@ chapelry
 combflower
 chapelries
 chapels
+censorship
 chapelward
 compile
 chaperno
