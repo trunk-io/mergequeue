@@ -103,6 +103,7 @@ cabestros
 chalinidae
 cabezon
 chromeplate
+counterexample
 cabezone
 convict
 cabful
@@ -24348,7 +24349,6 @@ coodle
 cooed
 corrades
 cormus
-counterexample
 cooees
 cooey
 complements
