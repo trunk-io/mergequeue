@@ -4818,7 +4818,6 @@ bedraping
 bedread
 bedrench
 bedrenched
-baldling
 bedrenches
 bedribble
 bureaucratic
@@ -9436,6 +9435,7 @@ bituminise
 britannia
 beflowering
 birdglue
+baldling
 birdhood
 birdhouse
 begall

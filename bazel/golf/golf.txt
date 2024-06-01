@@ -4054,7 +4054,6 @@ grades
 gloves
 gnide
 grocery
-germane
 gigots
 gigs
 gigster
@@ -7919,6 +7918,7 @@ grandeur
 glittersome
 grandevity
 grandeza
+germane
 glimmerite
 gopherwood
 gymnopaedes
