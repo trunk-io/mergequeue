@@ -7663,7 +7663,6 @@ amidist
 alcazaba
 alcazar
 alcazars
-adamance
 austrasian
 asymptotical
 alce
@@ -20979,6 +20978,7 @@ antirust
 antiphagocytic
 ascendance
 ascendancy
+adamance
 ascendant
 ascendantly
 ascendants
