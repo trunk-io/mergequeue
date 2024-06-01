@@ -8641,6 +8641,7 @@ equidiagonal
 equidimensional
 equidist
 equidistance
+exploitage
 embranglement
 equidistribution
 exect
@@ -12065,7 +12066,6 @@ elastics
 expeditions
 excommunicant
 excommunication
-exploitage
 exterritorially
 episcias
 entackle
