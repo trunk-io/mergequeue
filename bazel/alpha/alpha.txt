@@ -5362,7 +5362,6 @@ affirmingly
 affirms
 affix
 antiaris
-affixable
 affixal
 affixation
 affixed
@@ -20525,6 +20524,7 @@ alacreatine
 arteriolith
 arterioloscleroses
 anoxybiosis
+affixable
 arteriolosclerosis
 ashman
 arteriomalacia
