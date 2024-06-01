@@ -1840,7 +1840,6 @@ febricitant
 fetal
 fore
 feastless
-febriferous
 febrific
 fougue
 fleshless
@@ -2541,6 +2540,7 @@ fordo
 fusionism
 fretwork
 ferocious
+febriferous
 fatales
 ferociously
 frizzles
