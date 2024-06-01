@@ -3284,7 +3284,6 @@ ferrels
 facecloth
 foism
 fibrosity
-foldwards
 faradizer
 foregone
 featurely
@@ -3975,6 +3974,7 @@ fillet
 forestlike
 flattish
 forfar
+foldwards
 fingerpost
 forfeited
 fingerprint
