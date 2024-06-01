@@ -3408,6 +3408,7 @@ embarrass
 equipage
 ellinge
 exteroceptor
+enclosable
 encyclopediac
 embarrassment
 equilibrium
@@ -8386,7 +8387,6 @@ einstein
 evaginate
 epistolize
 erebus
-enclosable
 exterminated
 electropuncturation
 ethnolinguistic
