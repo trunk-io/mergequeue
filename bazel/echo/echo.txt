@@ -5323,7 +5323,6 @@ endows
 embroiderers
 enchiridion
 epiphyte
-estrangement
 entoconid
 endosteitis
 endosteoma
@@ -11766,6 +11765,7 @@ euglena
 escheatorship
 elopidae
 ectosomal
+estrangement
 exampling
 emphrensy
 endocarp
