@@ -2021,6 +2021,7 @@ camoufleurs
 camp
 campa
 campagi
+calpack
 coquettes
 campagna
 campagne
@@ -13653,7 +13654,6 @@ cylindricity
 cylindricule
 cylindriform
 carnifying
-calpack
 cylindrocylindric
 craniad
 cylindroconical
