@@ -14431,7 +14431,6 @@ anthology
 anthological
 anthologically
 anthologies
-anthologise
 animates
 asphyxiates
 anthologised
@@ -23693,6 +23692,7 @@ aussies
 alights
 accursing
 austausch
+anthologise
 austemper
 austenite
 aspermia
