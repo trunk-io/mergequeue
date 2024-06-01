@@ -1913,7 +1913,6 @@ gelsemin
 gatekeeper
 goliard
 gatekeepers
-glaces
 grasses
 gnathopod
 glueing
@@ -2253,6 +2252,7 @@ graduated
 glary
 geraldine
 genitofemoral
+glaces
 gearshift
 goosegirl
 gastrolith
