@@ -8069,6 +8069,7 @@ dhal
 dimension
 dhaman
 dhamnoo
+dormer
 dhan
 dhangar
 dhanuk
@@ -15753,7 +15754,6 @@ dorm
 donec
 downlie
 dormancies
-dormer
 dammara
 dormers
 dormette
