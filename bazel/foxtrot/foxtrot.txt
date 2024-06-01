@@ -516,7 +516,6 @@ favoredness
 fresher
 funambulant
 flatus
-folium
 falcons
 folkboat
 falculate
@@ -9613,6 +9612,7 @@ forset
 freehand
 finalism
 freehandedness
+folium
 frailest
 fairness
 fragmentitious
