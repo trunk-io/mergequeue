@@ -1244,6 +1244,7 @@ educatability
 eident
 educatable
 educatedness
+electrolyzable
 educates
 entitule
 eternalization
@@ -13016,7 +13017,6 @@ eulogistically
 erring
 expeditiously
 ecstasies
-electrolyzable
 enlivened
 expellable
 expellant
