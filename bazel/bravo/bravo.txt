@@ -534,6 +534,7 @@ backveld
 brickwork
 bayok
 backvelder
+bijoux
 backway
 backward
 backwardation
@@ -8624,7 +8625,6 @@ barkle
 bilingually
 bilinguar
 balks
-bijoux
 bilinguist
 byliny
 bebouldered

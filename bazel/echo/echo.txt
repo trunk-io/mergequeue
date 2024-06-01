@@ -5253,7 +5253,6 @@ endopleural
 east
 electrometry
 esphresis
-endopoditic
 euphonium
 endopods
 endopolyploidy
@@ -5329,6 +5328,7 @@ extispices
 endospermic
 endospore
 epithelioceptor
+endopoditic
 endosporic
 exophagous
 encharm
