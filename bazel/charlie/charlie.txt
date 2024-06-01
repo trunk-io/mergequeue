@@ -10908,7 +10908,6 @@ chiotilla
 centropomus
 chip
 chipchap
-chipchop
 collada
 chipewyan
 chiplet
@@ -18126,6 +18125,7 @@ coenobioid
 conicoid
 coenobite
 compactile
+chipchop
 coenobitical
 conductory
 coenocentrum
