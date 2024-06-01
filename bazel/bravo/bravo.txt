@@ -2813,7 +2813,6 @@ bassets
 baudrons
 bowlers
 baronial
-baronize
 baronized
 baronnes
 benzoxyphenanthrene
@@ -3184,6 +3183,7 @@ bashes
 bashfulness
 bashibazouk
 bashyle
+baronize
 buoyances
 benny
 berylloid
