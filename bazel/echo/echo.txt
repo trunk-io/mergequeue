@@ -7913,7 +7913,6 @@ eccentricity
 epigraphic
 epigraphist
 epigraphs
-epiguanine
 engrege
 eireannach
 ephors
@@ -12110,6 +12109,7 @@ entophytically
 excrescent
 exon
 eris
+epiguanine
 entailable
 excrescential
 enaliosaur
