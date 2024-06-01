@@ -4850,7 +4850,6 @@ frequentable
 flambeau
 frocking
 flambeaux
-flambee
 flamberg
 flambes
 flamboyance
@@ -8957,6 +8956,7 @@ fourragere
 famulative
 foiblesse
 fermila
+flambee
 fontainea
 fibrilliform
 fourrageres
