@@ -2643,7 +2643,6 @@ dairymaid
 duppa
 decoy
 dejections
-decoys
 decoke
 decoll
 drumbling
@@ -10223,6 +10222,7 @@ dinners
 dorsocervically
 defibrination
 dinnertime
+decoys
 dappling
 dinnerware
 dinoceras
