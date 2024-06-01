@@ -3354,6 +3354,7 @@ ganglands
 germ
 germain
 german
+glassophone
 germany
 gyro
 galtonia
@@ -9441,7 +9442,6 @@ graysbies
 guacharos
 goldmist
 groundlings
-glassophone
 groundneedle
 galenical
 gobang
