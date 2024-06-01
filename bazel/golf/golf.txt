@@ -3382,7 +3382,6 @@ germanized
 germanizer
 germule
 germanness
-germinant
 genapped
 galactopoietic
 gingeley
@@ -4085,6 +4084,7 @@ gildable
 gliadines
 getic
 grievousness
+germinant
 grotzen
 gilden
 gouter
