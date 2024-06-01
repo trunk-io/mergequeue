@@ -17596,7 +17596,6 @@ appanaging
 audiogenic
 appanagist
 astrographic
-aerostatics
 appar
 apparail
 actinoidea
@@ -22099,6 +22098,7 @@ anerythroplastic
 asteroxylaceae
 asterozoa
 ancestries
+aerostatics
 antistat
 asters
 armpit
