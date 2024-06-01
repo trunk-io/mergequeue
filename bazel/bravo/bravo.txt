@@ -3419,7 +3419,6 @@ bootable
 brythonic
 baculum
 bassan
-bicarbonate
 bassanite
 biotechnics
 bassetta
@@ -6464,6 +6463,7 @@ benzyl
 benzylamine
 benzilic
 batsmanship
+bicarbonate
 benzylic
 balkingly
 benziminazole
