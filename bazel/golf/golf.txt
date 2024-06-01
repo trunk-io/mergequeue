@@ -3657,7 +3657,6 @@ glove
 gunbearer
 galactopoiesis
 gatewaymen
-groups
 gynostegigia
 gargil
 gantries
@@ -10185,6 +10184,7 @@ git
 grown
 glaived
 gelid
+groups
 guide
 guideboard
 guidebooky
