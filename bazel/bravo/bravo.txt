@@ -1327,6 +1327,7 @@ branchiopallial
 balanta
 bescorn
 bottine
+besmearer
 balante
 balantidic
 beamage
@@ -15041,7 +15042,6 @@ balneographer
 brevilingual
 beclouds
 bestirring
-besmearer
 breviloquent
 bushhammer
 breviradiate
