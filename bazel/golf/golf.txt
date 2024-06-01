@@ -10594,7 +10594,6 @@ gowned
 goldenmouth
 gunong
 gerbille
-greenockite
 glazier
 gyrochrome
 gunpoint
@@ -10643,6 +10642,7 @@ guppies
 gur
 gurdle
 gurglingly
+greenockite
 gurged
 gurgeons
 goli
