@@ -2042,7 +2042,6 @@ banish
 banished
 banisher
 banishing
-banishment
 bursting
 banyuls
 baniva
@@ -5839,6 +5838,7 @@ brevipennate
 bellboy
 bipenniform
 bibliophiles
+banishment
 bulbochaete
 biarticular
 bicentennially
