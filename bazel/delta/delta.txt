@@ -5051,7 +5051,6 @@ demure
 diplographical
 disnest
 demurrages
-demurral
 demurrant
 driveling
 demurrer
@@ -16666,6 +16665,7 @@ dopehead
 dragstaff
 dilettantes
 dragster
+demurral
 dragsters
 demisovereign
 donatory
