@@ -16902,7 +16902,6 @@ clubhand
 clubhands
 cerebralgia
 clubhaul
-clubhauled
 clubhauls
 clubhouses
 clubionidae
@@ -27453,6 +27452,7 @@ cozier
 cladoniaceous
 cousinhood
 curupira
+clubhauled
 cousinry
 cousinries
 cousinship
