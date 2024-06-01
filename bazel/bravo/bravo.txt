@@ -1185,6 +1185,7 @@ bajra
 beltmen
 brakehand
 bajree
+burbot
 bajury
 bunco
 bakal
@@ -17522,7 +17523,6 @@ beneficence
 backspeir
 beflower
 burbolt
-burbot
 burd
 burdalone
 brosse
