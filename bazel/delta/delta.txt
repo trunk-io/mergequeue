@@ -7236,7 +7236,6 @@ detar
 detassel
 detat
 defoliating
-detected
 disenchantingly
 detecter
 detecters
@@ -14206,6 +14205,7 @@ ditalini
 ditas
 ditation
 dene
+detected
 ditchdigger
 drygoodsman
 decimeter
