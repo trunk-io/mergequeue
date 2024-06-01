@@ -4239,7 +4239,6 @@ emprint
 emprises
 entomotaxy
 emprison
-emprize
 emulgent
 emprosthotonic
 emblazoning
@@ -5265,6 +5264,7 @@ endopterygota
 endopterygote
 endoradiosonde
 eupathy
+emprize
 enkernel
 embrake
 enkindling
