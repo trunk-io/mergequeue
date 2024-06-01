@@ -6173,6 +6173,7 @@ energetics
 eusynchite
 executable
 enoplan
+essentiality
 enorm
 exhortator
 etaballi
@@ -9855,7 +9856,6 @@ essenism
 effusions
 epinastic
 essentialist
-essentiality
 essentialization
 essentially
 ecumene
