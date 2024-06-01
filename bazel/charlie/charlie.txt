@@ -2755,7 +2755,6 @@ canoe
 chinafish
 canoeist
 canoeists
-canoeload
 canoeman
 canoes
 cardiogenesis
@@ -25520,6 +25519,7 @@ cornuted
 cammocky
 cornutine
 cornuting
+canoeload
 caddisflies
 clong
 cornuto
