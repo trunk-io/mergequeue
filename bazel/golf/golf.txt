@@ -7103,6 +7103,7 @@ gooselike
 glider
 galyac
 griselda
+grimsir
 galactodendron
 gladiators
 graniteware
@@ -9830,7 +9831,6 @@ guayule
 gorillas
 groggery
 guajillo
-grimsir
 guarantied
 gallicism
 grousy
