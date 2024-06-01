@@ -713,7 +713,6 @@ gaddishness
 goneril
 gonfalon
 galopade
-grammies
 garnierite
 ganda
 galops
@@ -2998,6 +2997,7 @@ groggier
 greekery
 gnawable
 grindstone
+grammies
 geo
 gallerylike
 geoagronomic
