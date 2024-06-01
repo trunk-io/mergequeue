@@ -4644,6 +4644,7 @@ gainpain
 grosse
 gyrator
 genocidal
+globeholder
 gyratory
 groundplot
 grademark
@@ -5555,7 +5556,6 @@ gandhiism
 gliffy
 goujon
 glyptotherium
-globeholder
 glires
 golems
 gliridae
