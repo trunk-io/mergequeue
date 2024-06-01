@@ -11989,7 +11989,6 @@ battalia
 brothelry
 bogymen
 bogland
-boglander
 bogled
 boglet
 bolts
@@ -15970,6 +15969,7 @@ bozos
 broncobusting
 brainy
 brahmanaspati
+boglander
 bludgeoning
 bronk
 boxwallah
