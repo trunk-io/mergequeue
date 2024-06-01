@@ -10126,7 +10126,6 @@ bocasine
 bks
 bkt
 bl
-bicephalic
 blaasop
 bedawee
 babbittism
@@ -17859,6 +17858,7 @@ bursitos
 burst
 burster
 bursty
+bicephalic
 burstone
 botein
 burthen
