@@ -2527,7 +2527,6 @@ fibrinoid
 faburden
 faceted
 ferned
-fallibly
 fernery
 fry
 fernyear
@@ -11413,6 +11412,7 @@ fossed
 followed
 fewnes
 fluorindin
+fallibly
 furnacelike
 fosters
 febrifuges
