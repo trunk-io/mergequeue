@@ -6384,7 +6384,6 @@ flyboat
 formants
 fitchet
 fluoridization
-fluoridize
 flutier
 flaking
 fluoridized
@@ -7029,6 +7028,7 @@ foodstuff
 flacked
 fiddlewood
 fool
+fluoridize
 forsado
 faille
 fibroneuroma
