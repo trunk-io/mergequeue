@@ -6497,7 +6497,6 @@ electrophotographic
 enswathement
 enswathes
 enumerations
-enswathing
 ensweeten
 ephelis
 executorship
@@ -9269,6 +9268,7 @@ erogenetic
 enslavement
 endodermic
 excitomotory
+enswathing
 enginelike
 erose
 eusuchia
