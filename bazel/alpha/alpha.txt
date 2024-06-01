@@ -3919,7 +3919,6 @@ acrook
 abdominoscope
 adiposogenital
 aslope
-adiposuria
 adipous
 adnouns
 adipsy
@@ -24020,6 +24019,7 @@ alerts
 autodidact
 autodidactic
 autodidactically
+adiposuria
 aficionados
 accoyed
 albumenised
