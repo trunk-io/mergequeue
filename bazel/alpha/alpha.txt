@@ -703,7 +703,6 @@ abounder
 abounding
 abounds
 about
-apparatchik
 above
 abovedeck
 aboveground
@@ -17813,6 +17812,7 @@ appetizers
 agrostis
 agathology
 appl
+apparatchik
 applanate
 antienzymic
 applanation
