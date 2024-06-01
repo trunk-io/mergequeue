@@ -854,7 +854,6 @@ bootblack
 bagdad
 bagdi
 bauxites
-bagful
 bemantle
 barbaric
 baggagemaster
@@ -7560,6 +7559,7 @@ bipyramidal
 backgrounds
 bobwood
 biont
+bagful
 betumbled
 booby
 blitheful
