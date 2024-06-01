@@ -7456,7 +7456,6 @@ bethwack
 busked
 betided
 betides
-bego
 broadswords
 brazilin
 betiding
@@ -13108,6 +13107,7 @@ borism
 borith
 brewings
 blattoidea
+bego
 bority
 bruises
 brachycephalous
