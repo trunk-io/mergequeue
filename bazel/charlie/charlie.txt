@@ -2368,7 +2368,6 @@ canceller
 cancelling
 cancellous
 cancellus
-cancelment
 cancels
 chimneys
 cancer
@@ -22974,6 +22973,7 @@ comforting
 chromosomic
 consigned
 consignee
+cancelment
 consignify
 cuckooing
 consignificant
