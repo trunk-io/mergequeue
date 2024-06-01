@@ -15517,7 +15517,6 @@ discodactyl
 dispell
 diglottic
 desist
-decolorise
 dealers
 dogedoms
 doncella
@@ -16796,6 +16795,7 @@ draughtman
 draughts
 draughtsboard
 draughtsman
+decolorise
 draughtsmanship
 drave
 demiflouncing
