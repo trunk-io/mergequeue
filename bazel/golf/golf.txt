@@ -4511,6 +4511,7 @@ geometdecrne
 gloss
 grides
 graplines
+gourdhead
 ghoulishness
 ganggang
 grevillea
@@ -7437,7 +7438,6 @@ gourded
 gourdes
 gelling
 gourdful
-gourdhead
 granuliferous
 grabbier
 gourmandise
