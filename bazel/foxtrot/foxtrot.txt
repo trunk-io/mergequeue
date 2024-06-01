@@ -1978,7 +1978,6 @@ feeds
 fern
 feedstock
 feedstuff
-feeler
 feelers
 fibroserous
 flybook
@@ -11394,6 +11393,7 @@ fornacic
 fiasco
 furloughed
 furloughing
+feeler
 furloughs
 furls
 furmenty
