@@ -4937,6 +4937,7 @@ demonizes
 desmon
 daza
 demonizing
+disjointness
 drame
 demonography
 demonographies
@@ -12616,7 +12617,6 @@ disjointedly
 duplicidentate
 disjointing
 disjointly
-disjointness
 dulia
 disjoints
 disjointure
