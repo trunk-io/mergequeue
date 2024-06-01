@@ -6431,7 +6431,6 @@ footbaths
 fluotantalic
 fluotitanic
 franklin
-flurn
 flurried
 facelessness
 futhorks
@@ -9120,6 +9119,7 @@ frabjous
 fracas
 frusta
 fracid
+flurn
 fracted
 flashforwards
 foraminulous
