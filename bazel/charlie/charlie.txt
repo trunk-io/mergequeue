@@ -3210,7 +3210,6 @@ capitan
 capitana
 capitasti
 capitated
-capitatim
 coproduct
 capitation
 casimere
@@ -14115,6 +14114,7 @@ cystoscope
 cyperus
 counterparadox
 curneys
+capitatim
 cyphella
 cyphellae
 cyphellate
