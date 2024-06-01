@@ -1649,7 +1649,6 @@ crimsoning
 calorifier
 calorigenic
 calorimeters
-calorimetry
 calorimetrical
 calorimetrically
 calorimotor
@@ -10896,6 +10895,7 @@ chronobiology
 coprostasis
 chiococca
 countersea
+calorimetry
 chiococcine
 chiogenes
 chiolite
