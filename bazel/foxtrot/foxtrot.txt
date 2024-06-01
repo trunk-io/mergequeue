@@ -1389,7 +1389,6 @@ fissural
 florentine
 fatigable
 favorable
-fatigableness
 fazendas
 financiere
 frock
@@ -11300,6 +11299,7 @@ faradonervous
 flix
 furbelowed
 furbelowing
+fatigableness
 fractionary
 fabular
 furbish

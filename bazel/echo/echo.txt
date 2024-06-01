@@ -5300,6 +5300,7 @@ endoscopes
 endoscopies
 empyreumatical
 endosymbiosis
+exomphalous
 epipodia
 endoskeletons
 endosmic
@@ -12684,7 +12685,6 @@ emerse
 encephaloma
 exomologesis
 exomphalos
-exomphalous
 embryogeny
 exomphalus
 ethionine
