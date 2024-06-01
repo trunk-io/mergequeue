@@ -8487,7 +8487,6 @@ arcadia
 alkalescent
 alkali
 agamogenetic
-alkalic
 alkalies
 alkaliferous
 alkalify
@@ -10397,6 +10396,7 @@ amercement
 anaphorically
 amercer
 amercers
+alkalic
 amerces
 amerciable
 amerciament
