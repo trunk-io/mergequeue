@@ -8351,7 +8351,6 @@ alighting
 align
 aligned
 archived
-aligning
 aligns
 aligreek
 aliyah
@@ -11901,6 +11900,7 @@ anamniata
 aplacophora
 anamnionata
 anamniota
+aligning
 anamniotic
 anamorphic
 asuri
