@@ -2640,7 +2640,6 @@ eras
 enrobers
 exempla
 electrophotomicrography
-electrophrenic
 electropyrometer
 epixylous
 electroplater
@@ -4815,6 +4814,7 @@ encomic
 encompassed
 excitoglandular
 epanisognathous
+electrophrenic
 excipient
 eurytropic
 encomium

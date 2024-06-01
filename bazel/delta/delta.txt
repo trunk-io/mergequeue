@@ -8296,6 +8296,7 @@ davainea
 disomaty
 ductus
 diaglyptic
+drum
 diagnose
 diagnosed
 diagnostical
@@ -17563,7 +17564,6 @@ druids
 druith
 dipterology
 dissimulations
-drum
 doubtsome
 dissipators
 drumbled
