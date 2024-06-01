@@ -684,7 +684,6 @@ dampproof
 dampproofing
 damselfish
 deflater
-damselfishes
 diversions
 damsels
 damsons
@@ -4483,6 +4482,7 @@ dematerialize
 dematerialized
 dematerializing
 dematiaceae
+damselfishes
 dimuence
 dematiaceous
 dragonets
