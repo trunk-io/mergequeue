@@ -2165,7 +2165,6 @@ camporees
 clopping
 campos
 campout
-circumfusile
 camps
 capotes
 chaenactis
@@ -17693,6 +17692,7 @@ containerized
 cochleae
 cochlear
 crystallograph
+circumfusile
 cochleary
 cochlearia
 cochleariform
