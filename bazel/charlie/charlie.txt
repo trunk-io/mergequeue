@@ -29878,7 +29878,6 @@ crossflow
 crossflower
 crossfoot
 crosshackle
-crosshair
 crosshairs
 crosshand
 cubiform
@@ -31516,6 +31515,7 @@ cursorious
 cursorius
 cyriological
 curstful
+crosshair
 curstfully
 curstness
 curt
