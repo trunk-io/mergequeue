@@ -266,7 +266,6 @@ dagobas
 dagomba
 dagswain
 daguerreotype
-daguerreotyped
 deipnosophistic
 daguerreotyping
 daguerreotypist
@@ -9008,6 +9007,7 @@ dicyclist
 disqualifies
 dicyemata
 diarchies
+daguerreotyped
 dicyemidae
 dicier
 diciest
