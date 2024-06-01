@@ -3937,7 +3937,6 @@ bawdrics
 bawdries
 bangling
 bawl
-bevelment
 bawled
 bawley
 bawler
@@ -7557,6 +7556,7 @@ beneaped
 bakongo
 betulinic
 bipyramidal
+bevelment
 backgrounds
 bobwood
 biont
