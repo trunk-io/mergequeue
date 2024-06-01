@@ -14150,7 +14150,6 @@ antiquate
 antedorsal
 antefact
 antefix
-antefixa
 anaesthyl
 antefurcae
 antefurcal
@@ -16611,6 +16610,7 @@ aortectasis
 aortic
 aortographic
 augelite
+antefixa
 aortoiliac
 amurcous
 agathism
