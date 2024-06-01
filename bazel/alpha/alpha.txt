@@ -3420,7 +3420,6 @@ abbreviately
 adaptively
 argosies
 adaptiveness
-adaptometer
 adaptor
 adaptorial
 adapts
@@ -3790,6 +3789,7 @@ adhered
 apophantic
 adherency
 adherend
+adaptometer
 aquashow
 adherent
 acetite
