@@ -899,6 +899,7 @@ guarding
 greedygut
 grammaticality
 gamelang
+glyptic
 gonagia
 gamelans
 gameless
@@ -9962,7 +9963,6 @@ gratillity
 gogglers
 glegness
 glow
-glyptic
 gluish
 gliriform
 guars
