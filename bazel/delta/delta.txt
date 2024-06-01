@@ -7177,7 +7177,6 @@ depictor
 desulfurs
 desulphur
 dilations
-desulphurate
 desulphurating
 delatorian
 desulphurised
@@ -9817,6 +9816,7 @@ dillymen
 doorstops
 dillisk
 dills
+desulphurate
 dillseed
 dimetria
 desilver
