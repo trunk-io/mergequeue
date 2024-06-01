@@ -1615,7 +1615,6 @@ emulsify
 egypt
 ecoles
 extraversion
-encampment
 epipany
 egyptologic
 egis
@@ -11317,6 +11316,7 @@ economic
 extracts
 eonisms
 evangels
+encampment
 esselen
 expirable
 evanishes
