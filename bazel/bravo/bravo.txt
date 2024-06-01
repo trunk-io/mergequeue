@@ -12478,7 +12478,6 @@ bockerel
 bastardly
 barkpeel
 bonderize
-belabored
 bloodline
 bonderman
 bondfolk
@@ -17006,6 +17005,7 @@ bulgaria
 bulge
 bibliothecarial
 bulger
+belabored
 boyhood
 bulgers
 bersim
