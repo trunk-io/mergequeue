@@ -25517,7 +25517,6 @@ chloroleucite
 cornus
 cornuses
 concertstuck
-cornute
 cornuted
 cammocky
 cornutine
@@ -28623,6 +28622,7 @@ creeps
 creese
 creeses
 cinchonine
+cornute
 chiefship
 clientless
 creesh

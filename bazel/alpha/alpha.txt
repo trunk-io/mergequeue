@@ -19260,7 +19260,6 @@ arcking
 arclength
 apennine
 antiars
-arclike
 arco
 arcocentrous
 arcocentrum
@@ -21423,6 +21422,7 @@ aspectable
 aspectant
 aspects
 aspectual
+arclike
 aspen
 aspens
 asper
