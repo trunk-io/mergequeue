@@ -9591,7 +9591,6 @@ escrow
 escrowing
 exceptio
 escudero
-esculent
 esculents
 esculic
 esculin
@@ -9671,6 +9670,7 @@ educationalism
 expressing
 echinospermum
 euxanthin
+esculent
 egocentristic
 esoethmoiditis
 esonarthex
