@@ -1666,6 +1666,7 @@ falcade
 fryer
 fitchering
 fipenny
+facetiously
 fconv
 farcin
 familiar
@@ -8549,7 +8550,6 @@ forpet
 forpining
 fainters
 famishment
-facetiously
 farmplace
 forrad
 finnoc
