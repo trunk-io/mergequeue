@@ -5892,7 +5892,6 @@ elysia
 euphonising
 enhydra
 euphemism
-excusation
 eumenid
 espalier
 edison
@@ -12680,6 +12679,7 @@ exogyra
 exognathite
 expunges
 exogonium
+excusation
 encharge
 exometritis
 echo
