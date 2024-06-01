@@ -1135,6 +1135,7 @@ depaint
 diau
 dasyatis
 dasymeter
+designated
 distractingly
 dasiphora
 dasypod
@@ -6728,7 +6729,6 @@ desight
 designable
 dhutis
 designado
-designated
 direct
 designates
 designative
