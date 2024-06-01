@@ -17468,7 +17468,6 @@ acquital
 aposteriori
 aposthia
 apostil
-apostille
 apheliotropically
 apostle
 aviator
@@ -24174,6 +24173,7 @@ abbasid
 automata
 absorptance
 automatable
+apostille
 apidae
 apothegmatic
 automated
