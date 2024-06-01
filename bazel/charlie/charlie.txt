@@ -3755,7 +3755,6 @@ conficient
 carbineer
 carbines
 carbinol
-carbinols
 commensality
 carboazotine
 carbocyclic
@@ -27228,6 +27227,7 @@ circumgyration
 countertraction
 countertransference
 countertranslation
+carbinols
 cystonectous
 countertraverse
 countertreason
