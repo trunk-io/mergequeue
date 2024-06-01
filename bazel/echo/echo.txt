@@ -2179,7 +2179,6 @@ elateroid
 enkolpia
 emigrated
 eavesdrops
-epirote
 ensorceling
 explicandum
 elaters
@@ -4168,6 +4167,7 @@ employer
 exedral
 elastance
 employment
+epirote
 eiffel
 epilithic
 ensheathed
