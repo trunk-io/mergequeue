@@ -5623,7 +5623,6 @@ elapinae
 enfort
 embarrasses
 epicritic
-enforth
 estrangle
 enfoulder
 epithi
@@ -10243,6 +10242,7 @@ encroaching
 embroideress
 etherialize
 etherially
+enforth
 endocarpoid
 etheric
 etherify
