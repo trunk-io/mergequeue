@@ -5581,7 +5581,6 @@ escapeway
 embryulcus
 enflower
 enfoeffment
-enfold
 enfolded
 exceptionalness
 evibrate
@@ -6001,6 +6000,7 @@ ere
 epiglottises
 enkindles
 estaminets
+enfold
 emeriti
 epiphytotic
 enharbor
