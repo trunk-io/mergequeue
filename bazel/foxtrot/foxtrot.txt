@@ -3876,7 +3876,6 @@ fin
 finagler
 flashlamps
 finaglers
-fordable
 finalization
 finalized
 fionnuala
@@ -10776,6 +10775,7 @@ footsoldiers
 fubbed
 fortissimos
 fubbery
+fordable
 filamentoid
 fubsy
 foraminiferous
