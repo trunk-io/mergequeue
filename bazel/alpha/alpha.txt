@@ -13675,7 +13675,6 @@ annulment
 anaretic
 annulments
 annuloid
-annuloida
 annulosa
 annuls
 annulus
@@ -16789,6 +16788,7 @@ aph
 antilogical
 abjuration
 asserters
+annuloida
 aphacia
 aphacial
 alcaides

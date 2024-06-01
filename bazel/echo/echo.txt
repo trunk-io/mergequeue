@@ -1152,7 +1152,6 @@ edificate
 echinology
 edification
 exfigure
-edificator
 earock
 edificatory
 epimerize
@@ -11571,6 +11570,7 @@ epitoxoid
 emption
 ennoy
 evocator
+edificator
 evoe
 eleut
 enterococci
