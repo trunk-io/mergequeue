@@ -412,6 +412,7 @@ dorsoanterior
 dichroic
 dairyman
 dairywoman
+deliver
 dairywomen
 defensory
 dayroom
@@ -17486,7 +17487,6 @@ definitude
 datums
 demidog
 drouths
-deliver
 delegatee
 drove
 droved
