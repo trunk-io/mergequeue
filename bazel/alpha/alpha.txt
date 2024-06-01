@@ -10238,7 +10238,6 @@ ambulates
 apachette
 anisogamy
 ambulation
-ambulative
 ambulator
 ambulatory
 ambulatoria
@@ -11504,6 +11503,7 @@ amusedly
 attemperately
 amusee
 amusement
+ambulative
 anagennesis
 amusements
 amusers
