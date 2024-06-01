@@ -4404,7 +4404,6 @@ caryophyllin
 consecutiveness
 cytogenetics
 caryophyllous
-caryophyllus
 caryopilite
 caryopsides
 caryopsis
@@ -14392,6 +14391,7 @@ circumintestinal
 circumitineration
 colostomy
 crappin
+caryophyllus
 circumjacence
 circumjacency
 circumjovial
