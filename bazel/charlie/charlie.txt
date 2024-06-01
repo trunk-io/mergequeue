@@ -15291,7 +15291,6 @@ camuse
 cladosiphonic
 colyba
 cladrastis
-clads
 cladus
 claes
 criminosis
@@ -30518,6 +30517,7 @@ cubitoradial
 cubitus
 commonition
 cubmaster
+clads
 cyrtoceratite
 cubocalcaneal
 cuboctahedron
