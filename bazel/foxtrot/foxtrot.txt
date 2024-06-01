@@ -6169,6 +6169,7 @@ foreread
 fairgoing
 foretops
 feebling
+fleabugs
 fluctiferous
 frenal
 frivoling
@@ -10672,7 +10673,6 @@ fever
 fibular
 flyeater
 fruitlessness
-fleabugs
 fruitlets
 fainting
 foxy
