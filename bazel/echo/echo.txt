@@ -1502,6 +1502,7 @@ epipleural
 enfarce
 efforts
 effraction
+ectocyst
 endpapers
 embrase
 eurythermic
@@ -6443,7 +6444,6 @@ ensnarl
 ensnarls
 empiristic
 explaining
-ectocyst
 ensober
 ensophic
 ensorceled
