@@ -4545,7 +4545,6 @@ advantage
 advantaged
 allothogenous
 advantageously
-advantageousness
 accus
 annulose
 antipruritic
@@ -12049,6 +12048,7 @@ adelocerous
 archidium
 anarthrousness
 anas
+advantageousness
 anasa
 anasarca
 aralkylated
