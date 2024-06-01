@@ -2429,7 +2429,6 @@ balate
 barde
 buckhorn
 bardes
-brabant
 bardesanite
 bracts
 barwin
@@ -9586,6 +9585,7 @@ besots
 birthnight
 birthplaces
 backfilled
+brabant
 birthrates
 birthright
 baffeta
