@@ -25479,7 +25479,6 @@ curlew
 cornopean
 cornpipe
 cornrick
-cornrow
 cornrows
 cornstalks
 crawler
@@ -30051,6 +30050,7 @@ carnivores
 crowdedly
 circumambiencies
 cheson
+cornrow
 chordoid
 crowder
 cmdg
