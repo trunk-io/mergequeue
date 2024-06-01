@@ -12,7 +12,6 @@ epidermoid
 estocs
 evaporometer
 emigate
-eadi
 excoriator
 eadios
 eager
@@ -11828,6 +11827,7 @@ earlyish
 excalate
 externization
 effacing
+eadi
 equisetums
 excalation
 exploited
