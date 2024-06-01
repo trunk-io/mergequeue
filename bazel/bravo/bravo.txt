@@ -1072,7 +1072,6 @@ belord
 brasswork
 bailiwicks
 baillie
-baillone
 baillonella
 birks
 bailo
@@ -6940,6 +6939,7 @@ bassnesses
 benignancy
 bescoundrel
 bescour
+baillone
 bashless
 barhal
 buicks
