@@ -2971,7 +2971,6 @@ cellocut
 cheapo
 cantoning
 cantonize
-cantonments
 cantons
 coalhole
 countergager
@@ -24232,6 +24231,7 @@ crosshatch
 casselty
 convince
 convinced
+cantonments
 convincedly
 convincedness
 cataclysm
