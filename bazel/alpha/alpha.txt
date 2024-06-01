@@ -7495,7 +7495,6 @@ antenatal
 albinos
 antivenin
 albinotic
-antitypic
 astragaloscaphoid
 aesthesis
 albinuria
@@ -20162,6 +20161,7 @@ appendixing
 aroph
 auscultate
 agitating
+antitypic
 arboreal
 abash
 arose

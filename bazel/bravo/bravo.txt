@@ -2644,7 +2644,6 @@ byelaws
 bacchides
 borana
 bunglesome
-bushie
 barkey
 briers
 barken
@@ -10685,6 +10684,7 @@ blazonries
 blazons
 bld
 bothriocidaris
+bushie
 bleach
 bluebutton
 bleachable
