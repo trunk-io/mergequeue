@@ -1648,7 +1648,6 @@ daundered
 dealkylation
 dioxide
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -1750,6 +1749,7 @@ deathlikeness
 dustlessness
 dundees
 deathliness
+deallocated
 deathrates
 deaths
 deathsman
