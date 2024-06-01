@@ -346,6 +346,7 @@ fortypenny
 faineance
 foredeck
 fainest
+forpass
 fainly
 fixtures
 flatwash
@@ -11582,7 +11583,6 @@ furanoses
 foxite
 flickered
 fusileer
-forpass
 fcs
 flummery
 fusiliers
