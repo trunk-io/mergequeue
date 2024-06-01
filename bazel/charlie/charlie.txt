@@ -11702,6 +11702,7 @@ choleric
 cholerically
 cricothyroid
 cholericness
+componental
 choleriform
 cholerigenous
 cholerine
@@ -20867,7 +20868,6 @@ componency
 caciocavallo
 componendo
 component
-componental
 componented
 confronters
 crocodilian
