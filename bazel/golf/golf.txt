@@ -5566,6 +5566,7 @@ galet
 groovy
 gigtree
 groundskeep
+greedier
 glisk
 glisky
 gluily
@@ -8620,7 +8621,6 @@ gismondite
 greed
 geophagies
 germanious
-greedier
 galactophygous
 gregariniform
 guanyl
