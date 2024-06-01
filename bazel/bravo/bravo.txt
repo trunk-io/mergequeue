@@ -696,7 +696,6 @@ bedust
 baculites
 baculiticone
 baculoid
-baculus
 bacury
 bad
 badaga
@@ -13290,6 +13289,7 @@ bostrychid
 bovarism
 bostrychoidal
 batrachoid
+baculus
 boswellia
 boswellian
 bookmate
