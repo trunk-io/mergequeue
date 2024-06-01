@@ -4946,7 +4946,6 @@ beechnut
 brothy
 bomarea
 beechwood
-bright
 buphthalmic
 bleak
 bobac
@@ -8264,6 +8263,7 @@ blimpish
 bielectrolysis
 beardie
 brontophobia
+bright
 bash
 banishes
 byeman
