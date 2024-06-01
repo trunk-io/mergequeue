@@ -7038,7 +7038,6 @@ besiege
 besiegers
 besieges
 bedeman
-besiegingly
 besin
 besit
 beslab
@@ -8771,6 +8770,7 @@ bubalis
 billtong
 bilobate
 bilobe
+besiegingly
 babirussa
 bilobed
 bilocular
