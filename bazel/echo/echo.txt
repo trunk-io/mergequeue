@@ -9110,7 +9110,6 @@ eves
 enargite
 erythraean
 erythraemia
-echinus
 erythrasma
 erythremia
 esculapian
@@ -10960,6 +10959,7 @@ exmoor
 endangerer
 euphonised
 exothermic
+echinus
 euphonized
 easternize
 enterokinase
