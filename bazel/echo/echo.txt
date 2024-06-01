@@ -888,7 +888,6 @@ endangerments
 eloquentness
 eudemonism
 ectogeneous
-embound
 emraud
 eddic
 entourages
@@ -5172,6 +5171,7 @@ endogenicity
 endogenies
 endogenous
 essive
+embound
 endogenously
 electo
 embroider
