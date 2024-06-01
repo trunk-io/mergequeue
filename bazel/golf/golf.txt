@@ -484,7 +484,6 @@ glutoid
 galeorhinidae
 galeorhinus
 gillying
-galere
 gaugeable
 galericulate
 galerum
@@ -4533,6 +4532,7 @@ grumps
 ghaut
 gynobase
 gyros
+galere
 gynocardia
 gluer
 gynodioecious
