@@ -3705,7 +3705,6 @@ encoronate
 embryopathology
 embryophyte
 elucidators
-embryophore
 educations
 electrogenesis
 embryoplastic
@@ -13637,6 +13636,7 @@ exteriorizing
 exteriorness
 eringos
 exoduses
+embryophore
 emotionlessness
 ergotoxin
 effigial
