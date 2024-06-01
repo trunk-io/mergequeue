@@ -2190,7 +2190,6 @@ fluorescence
 folkmoot
 flatfooting
 felonwort
-feriae
 fraela
 flatterdock
 fraudproof
@@ -5265,6 +5264,7 @@ fleamy
 flemish
 fleams
 flowed
+feriae
 fettles
 flatland
 ferulaic
