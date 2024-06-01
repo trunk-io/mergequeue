@@ -2691,7 +2691,6 @@ generated
 gomerel
 generater
 generations
-generative
 generators
 generatrices
 gymnostomina
@@ -4425,6 +4424,7 @@ gabelle
 gynethusia
 germicide
 gynetype
+generative
 grieves
 gingal
 geologising
