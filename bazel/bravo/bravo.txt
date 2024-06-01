@@ -8613,7 +8613,6 @@ bilin
 bylina
 bolded
 boardmanship
-berun
 bibliotheke
 bylined
 bailees
@@ -17904,6 +17903,7 @@ bepaints
 bothroi
 biassed
 busheled
+berun
 beauship
 bivium
 bushelers
