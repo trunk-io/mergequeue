@@ -16289,7 +16289,6 @@ clinia
 clinic
 clinical
 clinically
-clinicians
 condensations
 cask
 clinicopathological
@@ -27966,6 +27965,7 @@ crackskull
 cracksmen
 crackups
 cradge
+clinicians
 chiliagon
 cradlechild
 cradled
