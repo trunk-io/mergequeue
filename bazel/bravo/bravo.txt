@@ -850,6 +850,7 @@ bleachs
 blackboards
 bagaudae
 backband
+birthrates
 bootblack
 bagdad
 bagdi
@@ -9587,7 +9588,6 @@ besots
 birthnight
 birthplaces
 backfilled
-birthrates
 birthright
 baffeta
 birthrights
