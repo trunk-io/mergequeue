@@ -4733,7 +4733,6 @@ enciphering
 executonis
 epigean
 encircle
-elocutive
 encircled
 exercitant
 encircles
@@ -12204,6 +12203,7 @@ excusing
 elytron
 endpoint
 egger
+elocutive
 everyday
 ellipse
 econometrical
