@@ -6174,7 +6174,6 @@ cauchillo
 caucus
 caucused
 caucuses
-concatenation
 caucusses
 caucussing
 chlorion
@@ -19957,6 +19956,7 @@ comitant
 comitatensian
 collectives
 clayish
+concatenation
 caccias
 coachmanship
 comity
