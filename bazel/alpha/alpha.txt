@@ -6226,6 +6226,7 @@ aglow
 aglucon
 agma
 agmas
+alternator
 assemblywomen
 anucleated
 agminated
@@ -9539,7 +9540,6 @@ alternativeness
 alternatives
 angioblast
 autopista
-alternator
 alternifoliate
 altaid
 alternipetalous
