@@ -9040,7 +9040,6 @@ dicruridae
 dict
 dehort
 dictaen
-dolichosoma
 dictamina
 dictaphone
 dictaphones
@@ -12535,6 +12534,7 @@ demyship
 disinhume
 disinsectization
 dorsoventral
+dolichosoma
 degums
 disinsulation
 disinsure
