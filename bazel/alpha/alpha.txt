@@ -9859,7 +9859,6 @@ agst
 amanuenses
 amanuensis
 amapa
-amapondo
 amara
 amphiboliferous
 angriest
@@ -23586,6 +23585,7 @@ apios
 amphisile
 auriculoparietal
 auriculotemporal
+amapondo
 auriculovertical
 auride
 auriferous
