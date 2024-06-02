@@ -1852,7 +1852,6 @@ bananivorous
 brent
 banatite
 billycans
-banc
 bancha
 banco
 bonhomie
@@ -14435,6 +14434,7 @@ botch
 balanophorin
 battleful
 brambling
+banc
 brambrack
 brame
 biblicist
