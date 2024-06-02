@@ -5181,6 +5181,7 @@ cashierment
 cashkeeper
 clearest
 cashment
+chapeless
 cashmere
 cashmeres
 conepates
@@ -8818,7 +8819,6 @@ chapeau
 chaped
 cobriform
 chapeled
-chapeless
 cologarithm
 crotalism
 convalescency
