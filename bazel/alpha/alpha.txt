@@ -2325,7 +2325,6 @@ arachnephobia
 acidifies
 avgasses
 acidifying
-acidimetric
 acidite
 acidity
 adustiosis
@@ -11503,6 +11502,7 @@ amusers
 attractors
 authenticators
 amarelles
+acidimetric
 amusette
 anisole
 amusia
