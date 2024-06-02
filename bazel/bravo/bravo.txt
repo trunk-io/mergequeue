@@ -3980,7 +3980,6 @@ baze
 bazoo
 bazooka
 benote
-bazookamen
 bazookas
 bazzite
 bamboos
@@ -17711,6 +17710,7 @@ birgus
 blackfin
 blueings
 burlaps
+bazookamen
 boomlets
 burleycue
 burler
