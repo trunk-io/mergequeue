@@ -11776,7 +11776,6 @@ cocomats
 chondria
 crumster
 columbian
-chondric
 curdiest
 chondrify
 chondrification
@@ -24190,6 +24189,7 @@ convexes
 cecropia
 clinicopathologically
 convexity
+chondric
 calcific
 convexities
 convexly
