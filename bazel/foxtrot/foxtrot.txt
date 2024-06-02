@@ -5330,7 +5330,6 @@ fastness
 floorwalkers
 forager
 fang
-fitchery
 filterable
 fireclay
 fleering
@@ -8802,6 +8801,7 @@ fossilism
 fossilist
 fleeringly
 fossilizing
+fitchery
 fossillike
 foozles
 formly
