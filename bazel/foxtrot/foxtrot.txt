@@ -6048,7 +6048,6 @@ florisugent
 floruit
 flinder
 forespeak
-factual
 foremilk
 forsook
 fleyland
@@ -7391,6 +7390,7 @@ fighter
 fasciculus
 forecasting
 featherwood
+factual
 frankenia
 forceless
 forcelessness
