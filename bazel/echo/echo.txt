@@ -1247,6 +1247,7 @@ educatability
 eident
 educatable
 educatedness
+epodes
 electrolyzable
 educates
 entitule
@@ -6596,7 +6597,6 @@ enterocholecystostomy
 eumeristic
 enwrapment
 ectopias
-epodes
 enterochromaffin
 episcopalians
 enterocyst
