@@ -10188,7 +10188,6 @@ behelp
 blacked
 blackey
 becco
-blackeye
 blackeyes
 blackener
 bungerly
@@ -10639,6 +10638,7 @@ bldr
 bockeret
 braless
 bransle
+blackeye
 blatting
 blattodea
 blattoid
