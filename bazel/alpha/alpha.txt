@@ -13356,6 +13356,7 @@ agglutinability
 anisomeles
 accentuator
 anisomeric
+automatically
 anisomerous
 arraignability
 apoturmeric
@@ -24184,7 +24185,6 @@ automated
 automates
 aphetism
 automatic
-automatically
 automaticity
 automatin
 autunite
