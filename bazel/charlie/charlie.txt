@@ -3454,6 +3454,7 @@ capsomere
 capsomers
 capstan
 capstans
+chlordane
 capstone
 commons
 capsula
@@ -11268,7 +11269,6 @@ chlorates
 chimars
 chlorcosane
 chlordan
-chlordane
 chlordans
 chlorella
 costotransversal
