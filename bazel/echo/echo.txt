@@ -1436,7 +1436,6 @@ epeidia
 effigies
 epilaryngeal
 effigurate
-effiguration
 efflagitate
 efflate
 emissions
@@ -12543,6 +12542,7 @@ euaster
 enrapting
 electicism
 emperess
+effiguration
 eyebath
 everyway
 embarrel
