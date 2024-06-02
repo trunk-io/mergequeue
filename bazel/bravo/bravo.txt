@@ -1610,6 +1610,7 @@ boldface
 briefer
 brughs
 bursati
+barrener
 ballo
 brakier
 ballock
@@ -2473,7 +2474,6 @@ bareboat
 borderside
 bareboats
 bummalo
-barrener
 bareboned
 bemuffle
 bareca
