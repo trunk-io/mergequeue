@@ -4842,7 +4842,6 @@ carryings
 carriole
 carrioles
 cutwaters
-carryon
 carrions
 carryons
 carryout
@@ -12732,6 +12731,7 @@ chuckfarthing
 chuckfull
 circumscription
 chuckhole
+carryon
 chaule
 clergywomen
 chucky
