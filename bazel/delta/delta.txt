@@ -5154,7 +5154,6 @@ dafla
 dendrocoelan
 dendrocoele
 dendrocolaptidae
-dendrocolaptine
 drummers
 defunctness
 dendroctonus
@@ -8755,6 +8754,7 @@ diathermometer
 decatholicize
 diathermotherapy
 dispensatrix
+dendrocolaptine
 diathesic
 demisacrilege
 diathesis
