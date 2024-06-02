@@ -5053,7 +5053,6 @@ antisymmetric
 amphisbaenid
 auriculate
 admissibleness
-aeropathy
 aeropause
 aerope
 aeroperitoneum
@@ -11996,6 +11995,7 @@ anaptychus
 anaptyctic
 antecloset
 anaptomorphidae
+aeropathy
 anaptomorphus
 anaptotic
 anarcestes
