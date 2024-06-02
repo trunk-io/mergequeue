@@ -3090,6 +3090,7 @@ barware
 barwood
 boneblack
 backhouse
+befur
 barksome
 basale
 bursarship
@@ -5274,7 +5275,6 @@ boxberries
 befuddling
 ballistophobia
 berating
-befur
 befurbelowed
 befurred
 beg
