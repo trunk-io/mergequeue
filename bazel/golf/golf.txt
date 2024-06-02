@@ -4753,6 +4753,7 @@ graphometer
 gowkit
 groszy
 gasconade
+granita
 galliards
 gamori
 glyoxime
@@ -5064,7 +5065,6 @@ glamorizer
 glamorizes
 gavelkind
 glamors
-granita
 glossary
 glamourless
 gadolinic

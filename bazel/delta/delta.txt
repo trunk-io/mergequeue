@@ -9043,7 +9043,6 @@ dictaen
 dolichosoma
 dictamina
 dictaphone
-dictaphones
 dictate
 dictating
 deadlines
@@ -12174,6 +12173,7 @@ disfigure
 draughter
 defencelessness
 disfigurer
+dictaphones
 diasper
 depositure
 degausser
