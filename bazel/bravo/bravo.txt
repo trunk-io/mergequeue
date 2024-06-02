@@ -4252,6 +4252,7 @@ bearwort
 boanthropy
 beastbane
 beasthood
+buglewort
 biomedical
 backbend
 beastily
@@ -16923,7 +16924,6 @@ bugled
 badmouth
 buglet
 bugleweed
-buglewort
 buffer
 buckwheater
 blennophlogisma
