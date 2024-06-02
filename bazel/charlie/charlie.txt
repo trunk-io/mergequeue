@@ -3391,7 +3391,6 @@ chunkier
 caprifig
 caprifigs
 caprifoil
-caprifole
 caprifoliaceae
 caprifoliaceous
 caprifolium
@@ -19116,6 +19115,7 @@ collyba
 collibert
 collicle
 colliculate
+caprifole
 correctives
 colonialise
 captivatrix
