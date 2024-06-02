@@ -6726,6 +6726,7 @@ foyboat
 foyer
 furioso
 flamming
+forespecified
 foil
 foin
 foining
@@ -7969,7 +7970,6 @@ frumpled
 flatteur
 forespeaking
 floroun
-forespecified
 finniest
 forespencer
 forespoke
