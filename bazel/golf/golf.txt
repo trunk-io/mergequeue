@@ -5239,7 +5239,6 @@ glead
 gleam
 greathearted
 geyserine
-gametogony
 guzzler
 guss
 gleamy
@@ -6622,6 +6621,7 @@ golly
 guttera
 golo
 geratologic
+gametogony
 grazing
 gallop
 gies
