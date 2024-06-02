@@ -24584,7 +24584,6 @@ copelatae
 copeman
 copemate
 copemates
-copen
 copending
 copenetrate
 copenhagen
@@ -29211,6 +29210,7 @@ cripple
 characid
 crippledom
 crippleness
+copen
 coerects
 crippler
 cripples
