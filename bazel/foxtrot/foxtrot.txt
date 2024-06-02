@@ -1862,6 +1862,7 @@ frutify
 fusils
 februation
 furniment
+flasket
 fluocerite
 fec
 fight
@@ -3339,7 +3340,6 @@ fallowing
 fideicommissaries
 faon
 forevermore
-flasket
 facioscapulohumeral
 fideist
 fossilologist
