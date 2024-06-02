@@ -5158,7 +5158,6 @@ galoisian
 grasni
 glassines
 glassiness
-glasslikeness
 gourdiness
 goosefoots
 galvanocontractility
@@ -8846,6 +8845,7 @@ grieving
 goosefoot
 graffito
 geronto
+glasslikeness
 glauconitic
 gonimic
 gressorious

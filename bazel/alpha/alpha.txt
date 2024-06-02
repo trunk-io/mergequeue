@@ -4062,7 +4062,6 @@ admeasurer
 adumbrant
 admeasuring
 admedial
-admedian
 afforced
 anthus
 amphoricity
@@ -11978,6 +11977,7 @@ anaplasmoses
 anaplasmosis
 anaplasty
 anaplastic
+admedian
 arrastre
 autallotriomorphic
 anaplerosis
