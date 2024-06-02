@@ -5836,7 +5836,6 @@ bavardage
 bell
 bonos
 bellacoola
-belladonna
 bellatrix
 biliation
 bigoted
@@ -14687,6 +14686,7 @@ bravi
 bayoneted
 braving
 bravissimo
+belladonna
 boulevards
 boho
 bound
