@@ -2561,6 +2561,7 @@ bicycles
 borscht
 barghests
 beslash
+balustraded
 barging
 bargir
 bassetite
@@ -13247,7 +13248,6 @@ britoness
 bossage
 bossboy
 bossdom
-balustraded
 boastful
 bructeri
 bossdoms
