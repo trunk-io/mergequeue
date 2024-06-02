@@ -18093,7 +18093,6 @@ contaminable
 chiffonniers
 carrottop
 coalitional
-coendidae
 coendure
 coendures
 coenenchym
@@ -24037,6 +24036,7 @@ coonskins
 conveyer
 conveying
 conveyorization
+coendidae
 conjugation
 cymbaler
 complicitous
