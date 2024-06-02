@@ -7849,6 +7849,7 @@ clorinator
 cerusite
 cerusites
 cerussite
+configures
 cervalet
 centaurid
 cervantic
@@ -22032,7 +22033,6 @@ configurations
 concolorous
 configurative
 configure
-configures
 configuring
 coxcombry
 confinable
