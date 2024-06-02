@@ -3464,6 +3464,7 @@ cons
 capsular
 capsulated
 capsulation
+coenzymatically
 capsule
 ceride
 collegatary
@@ -18154,7 +18155,6 @@ coenthrone
 coenunuri
 coleochaetaceae
 coenures
-coenzymatically
 coenzymes
 coequal
 coequality
