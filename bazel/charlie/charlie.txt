@@ -1361,7 +1361,6 @@ califs
 caliga
 caligate
 caligated
-caligation
 caliginosity
 caliginous
 caliginously
@@ -6908,6 +6907,7 @@ cementa
 coenocyte
 cementation
 counselled
+caligation
 chymosins
 coaugment
 capricornus
