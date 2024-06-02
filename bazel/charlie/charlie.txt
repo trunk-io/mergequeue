@@ -11042,7 +11042,6 @@ chiropodous
 chiropompholyx
 chiropractor
 chiropraxis
-chiroptera
 chiropteran
 chiropterygian
 chiropterygious
@@ -24270,6 +24269,7 @@ carboxypeptidase
 convoked
 convoker
 convoluta
+chiroptera
 centigram
 caliphs
 convolutedly
