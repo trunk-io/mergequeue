@@ -3261,6 +3261,7 @@ abrasives
 aculeae
 ambassiate
 atolls
+anemogram
 aculei
 appropriate
 abram
@@ -7754,7 +7755,6 @@ aeneous
 alcoholize
 alcoholmeter
 airmass
-anemogram
 alcoholmetric
 acroter
 abaissed
