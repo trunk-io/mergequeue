@@ -8431,7 +8431,6 @@ dialyzed
 dialyzer
 demotion
 dialyzes
-dialkylamine
 detentes
 diallage
 diallagic
@@ -15360,6 +15359,7 @@ domatium
 domatophobia
 displeasureable
 domba
+dialkylamine
 dombeya
 dome
 dysaesthetic
