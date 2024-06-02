@@ -1891,7 +1891,6 @@ cameloidea
 camelopardalis
 consubstantiation
 camelopardid
-cinnamomum
 camelopardidae
 camelopards
 camelopardus
@@ -7253,6 +7252,7 @@ centrodesmus
 centrodorsal
 centroidal
 centroids
+cinnamomum
 centrolepidaceae
 centrolepidaceous
 centromere
