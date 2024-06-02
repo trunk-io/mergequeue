@@ -8105,7 +8105,6 @@ chadri
 chaenolobus
 chaetae
 chemin
-chaetal
 chaetangiaceae
 chaetetes
 cipher
@@ -25846,6 +25845,7 @@ corroboree
 corroboreed
 corrobori
 corrode
+chaetal
 copremic
 corroders
 cneoraceae
