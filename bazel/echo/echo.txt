@@ -205,6 +205,7 @@ earthsmoke
 earthwall
 earthwards
 earthworks
+epicyte
 ethmovomer
 enddamaged
 ebriate
@@ -6254,7 +6255,6 @@ embolden
 enravishingly
 ectozoic
 enregistered
-epicyte
 exostema
 elve
 eisodic
