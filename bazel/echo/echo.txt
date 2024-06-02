@@ -3808,6 +3808,7 @@ emender
 electroplax
 erythrons
 evertebrate
+enddamage
 ethene
 eluants
 enddamaging
@@ -7602,7 +7603,6 @@ eburine
 eduardo
 enshrining
 epicene
-enddamage
 epicentral
 epicentrum
 endoscopically
