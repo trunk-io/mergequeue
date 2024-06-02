@@ -4913,7 +4913,6 @@ galvanise
 graspable
 graftdom
 glaciable
-gatelike
 gunless
 globalized
 gelatinousness
@@ -7502,6 +7501,7 @@ governesses
 governing
 galvanotonic
 guttles
+gatelike
 governingly
 geomalic
 gombay
