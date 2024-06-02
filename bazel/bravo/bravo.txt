@@ -8684,7 +8684,6 @@ brantcorn
 brawlis
 billeted
 billeter
-bilabe
 billeters
 bletia
 bastinading
@@ -12619,6 +12618,7 @@ bonnets
 bonny
 boettner
 bonnibel
+bilabe
 bimethyl
 blottesque
 biochemically
