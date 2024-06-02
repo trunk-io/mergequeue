@@ -14361,6 +14361,7 @@ circumflant
 circumflex
 craziness
 circinately
+convexoconcave
 cawnie
 circumfluence
 cantillation
@@ -24201,7 +24202,6 @@ convexly
 crampet
 convexness
 convexo
-convexoconcave
 conviciate
 convicinity
 congelifract
