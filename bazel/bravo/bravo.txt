@@ -772,6 +772,7 @@ badland
 badlands
 buba
 bat
+becriming
 badman
 badmen
 brushcut
@@ -4578,7 +4579,6 @@ becrimed
 bunemost
 brasqued
 buckrams
-becriming
 becrinolined
 bowdlerism
 becrippled
