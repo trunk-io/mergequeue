@@ -14857,7 +14857,6 @@ citer
 citers
 cites
 citess
-citharas
 citharexylum
 citharist
 citharista
@@ -16059,6 +16058,7 @@ clericalists
 crumbum
 clericality
 clericals
+citharas
 cruzados
 clericate
 clericature
