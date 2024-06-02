@@ -12784,7 +12784,6 @@ angiogeny
 anyway
 adeems
 angiography
-angiographic
 angiohemophilia
 anhelous
 angiohypotonia
@@ -14314,6 +14313,7 @@ aupaka
 anobiidae
 antesignanus
 antesternal
+angiographic
 antesternum
 amphichromatic
 antesuperior
