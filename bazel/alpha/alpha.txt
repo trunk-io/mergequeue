@@ -6591,7 +6591,6 @@ acridane
 ammocetes
 ahull
 ahum
-arboretum
 ahunt
 ahura
 ahush
@@ -16409,6 +16408,7 @@ annunciative
 aquabelle
 antivariolous
 antivenefic
+arboretum
 antivenereal
 antivenine
 aphodi
