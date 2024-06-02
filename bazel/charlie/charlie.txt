@@ -20555,7 +20555,6 @@ compartments
 critchfield
 codding
 compass
-compassability
 compassable
 compassed
 compasses
@@ -26850,6 +26849,7 @@ counterermine
 counterespionage
 counterestablishment
 crystallise
+compassability
 conspiring
 counterexaggeration
 counterexamples
