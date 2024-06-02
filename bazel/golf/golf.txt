@@ -25,7 +25,6 @@ gunsling
 gashouse
 gabble
 gabbled
-gabblers
 glamourize
 gabbro
 gabbroid
@@ -8113,6 +8112,7 @@ gadus
 granulators
 gripper
 guanidins
+gabblers
 gnatsnap
 granulet
 gourmanderie
