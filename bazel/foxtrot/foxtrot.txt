@@ -1685,7 +1685,6 @@ frugivora
 filters
 feak
 federate
-fealty
 fumigates
 fear
 fimbles
@@ -6509,6 +6508,7 @@ flutter
 firebed
 flutterable
 facultative
+fealty
 flutterboard
 fluttered
 furnacer
