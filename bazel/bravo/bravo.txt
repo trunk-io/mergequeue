@@ -3729,7 +3729,6 @@ baculere
 batrachidae
 batrachium
 bailiffwick
-batrachophidia
 bats
 booboo
 bergut
@@ -6002,6 +6001,7 @@ bailiffship
 beshear
 bibb
 belongs
+batrachophidia
 belonid
 bicameral
 belonidae
