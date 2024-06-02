@@ -2101,7 +2101,6 @@ bumbaste
 barebone
 banksmen
 bucketed
-bibliophage
 banlieu
 botel
 boidae
@@ -7667,6 +7666,7 @@ bewest
 bewhisker
 briguer
 bewhisper
+bibliophage
 bewhistle
 bewhiten
 bewhore
