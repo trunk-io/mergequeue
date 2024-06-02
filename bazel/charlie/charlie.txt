@@ -11554,7 +11554,6 @@ chelicere
 choir
 choirboys
 choired
-choirlike
 conoidally
 choristoma
 choirman
@@ -16720,6 +16719,7 @@ crusading
 closings
 campoo
 closky
+choirlike
 clupeoid
 coembody
 clostridian

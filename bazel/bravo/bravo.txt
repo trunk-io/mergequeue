@@ -3761,6 +3761,7 @@ birdlore
 batteaux
 bonnering
 batteling
+biggy
 bascule
 battels
 battement
@@ -8428,7 +8429,6 @@ biggest
 bacons
 barbarous
 biliate
-biggy
 biggie
 beribboned
 biggies
