@@ -14235,7 +14235,6 @@ catskin
 cardcastle
 casemate
 circler
-circlet
 corticoid
 circleting
 circlets
@@ -20567,6 +20566,7 @@ compartmentize
 composition
 compartments
 critchfield
+circlet
 codding
 compass
 compassability
