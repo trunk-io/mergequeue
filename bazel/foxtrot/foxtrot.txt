@@ -4976,6 +4976,7 @@ forepaw
 flannelmouth
 ferries
 fungate
+fellowshiping
 fedelini
 forekeel
 flanque
@@ -8113,7 +8114,6 @@ fibulas
 federalize
 fuliginous
 foreverness
-fellowshiping
 firewall
 foreview
 foederatus

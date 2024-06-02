@@ -7433,7 +7433,6 @@ enskied
 electoral
 epichindrotic
 echinochloa
-epenetic
 everglade
 epenla
 enchondroma
@@ -9154,6 +9153,7 @@ electrotherapeutics
 ellipsometer
 erythrocytometry
 ethiopians
+epenetic
 erythrocytoschisis
 erythrocytosis
 erythroclastic
