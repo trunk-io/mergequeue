@@ -125,6 +125,7 @@ cabinetted
 chordophone
 clitelline
 cabinetworker
+cuifs
 cabinetworking
 cabinlike
 crafter
@@ -30687,7 +30688,6 @@ contorno
 conspue
 cuiejo
 cuif
-cuifs
 cuinage
 cuinfo
 cuing
