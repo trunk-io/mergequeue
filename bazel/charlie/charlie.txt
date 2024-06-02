@@ -14256,7 +14256,6 @@ circuitry
 circuits
 clochan
 cardioneural
-circulant
 circular
 cryalgesia
 circularisation
@@ -19534,6 +19533,7 @@ colourfast
 colourful
 colourfully
 colourfulness
+circulant
 cavated
 coloury
 colourific
