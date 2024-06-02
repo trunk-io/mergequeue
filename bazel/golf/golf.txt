@@ -787,7 +787,6 @@ grovers
 gavel
 gridder
 galvanopsychic
-gatefold
 galvanopuncture
 glossoepiglottidean
 galvanoscope
@@ -5234,6 +5233,7 @@ gorgonesque
 glycidic
 glazer
 glazers
+gatefold
 geldant
 glazes
 gullible
