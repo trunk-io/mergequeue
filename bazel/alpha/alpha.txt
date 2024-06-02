@@ -1420,7 +1420,6 @@ attriutively
 acceptingly
 acceptingness
 arabesquerie
-acceptor
 acceptors
 antifreezes
 acceptress
@@ -19818,6 +19817,7 @@ aristomonarchy
 aristophanic
 aristorepublicanism
 aristos
+acceptor
 aristotelean
 aristotelianism
 aristotelic

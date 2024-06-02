@@ -3841,6 +3841,7 @@ carbonisable
 carbonise
 choirmaster
 canister
+cocircularity
 carbazin
 carbonitride
 cincinatti
@@ -17722,7 +17723,6 @@ cocinera
 cocircular
 commutual
 cultrirostres
-cocircularity
 cocitizen
 cocitizenship
 codicil
