@@ -3916,7 +3916,6 @@ baure
 bausond
 bautta
 bauxite
-blistery
 balsas
 bicker
 bauxitic
@@ -11213,6 +11212,7 @@ bacteroidal
 bloodsuckers
 bloodthirster
 bloodthirstiness
+blistery
 bloodweed
 blindages
 beknot
