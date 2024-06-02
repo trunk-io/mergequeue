@@ -5293,7 +5293,6 @@ begass
 blastocyst
 begats
 bastes
-bobbled
 bothsided
 barlock
 begaze
@@ -10146,6 +10145,7 @@ bott
 blackamoors
 blackarm
 blackbine
+bobbled
 blackback
 blackballed
 blattidae
