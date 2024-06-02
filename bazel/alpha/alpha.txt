@@ -224,7 +224,6 @@ abbozzo
 adenomyxoma
 abbrev
 alodially
-abbreviatable
 abraded
 abbreviated
 argotic
@@ -4543,6 +4542,7 @@ asperness
 airbrushed
 ascended
 adventitial
+abbreviatable
 aerobiotically
 accerse
 arapunga
