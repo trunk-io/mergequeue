@@ -78,7 +78,6 @@ abamperes
 aband
 abandon
 abandonable
-amphipods
 abandoned
 abandonee
 abandoner
@@ -19801,6 +19800,7 @@ ancle
 aristogenetic
 anticivilian
 actinosphaerium
+amphipods
 aristogenic
 amebous
 argonauts
