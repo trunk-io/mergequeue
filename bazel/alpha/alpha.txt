@@ -1658,6 +1658,7 @@ accouter
 accoutered
 accouterment
 acemetic
+alkahestica
 attouchement
 accouters
 accoutre
@@ -8472,7 +8473,6 @@ alkahest
 alkahestic
 agalaxy
 aortoptosis
-alkahestica
 alkaid
 alkalemia
 anesthesiometer

@@ -1257,7 +1257,6 @@ calfkill
 calfless
 calflike
 calfling
-calfs
 calfskin
 creatural
 calgary
@@ -19397,6 +19396,7 @@ colophany
 colophene
 cranny
 colophenic
+calfs
 catechise
 colophonate
 colophony
