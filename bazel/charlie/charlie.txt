@@ -3209,7 +3209,6 @@ capitals
 capitan
 capitana
 capitasti
-capitated
 capitatim
 coproduct
 capitation
@@ -19065,6 +19064,7 @@ collectors
 circumscissile
 collectorship
 collectress
+capitated
 crisped
 colleen
 college
