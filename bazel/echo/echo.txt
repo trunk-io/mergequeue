@@ -5047,7 +5047,6 @@ enamellar
 enheritance
 endoangiitis
 exemplum
-endoaortitis
 endoappendicitis
 economization
 elan
@@ -6945,6 +6944,7 @@ enteropneust
 epiblema
 epitrchelia
 eruca
+endoaortitis
 exarchal
 emblema
 engenderer
