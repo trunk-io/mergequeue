@@ -1703,7 +1703,6 @@ accruals
 accrue
 accrued
 accruement
-accruer
 adiabatic
 accrues
 accruing
@@ -23824,6 +23823,7 @@ angularization
 alumbrado
 authenticness
 authigene
+accruer
 authigenetic
 authigenous
 aurite
