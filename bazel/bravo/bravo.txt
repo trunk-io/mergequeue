@@ -2152,7 +2152,6 @@ bornan
 bantay
 branchihyal
 blaw
-booms
 beggiatoa
 borofluoride
 bantayan
@@ -11106,6 +11105,7 @@ blockaded
 blockader
 blockading
 bedwarfed
+booms
 blockboard
 balsamic
 beblain
