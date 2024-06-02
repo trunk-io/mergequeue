@@ -3543,7 +3543,6 @@ deforciant
 deforest
 deforested
 downheartedness
-deforester
 dentiform
 deform
 diasters
@@ -5994,6 +5993,7 @@ depriment
 deprint
 depriorize
 dysmerism
+deforester
 deprivable
 degrader
 disprofit
