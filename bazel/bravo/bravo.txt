@@ -795,6 +795,7 @@ bandless
 becker
 baedeker
 baedekerian
+bints
 bisulfite
 baedekers
 baeria
@@ -8973,7 +8974,6 @@ beforested
 bellhanger
 boychicks
 behen
-bints
 binturong
 brownian
 biostatistics
