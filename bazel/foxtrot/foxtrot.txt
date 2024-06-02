@@ -393,7 +393,6 @@ faintness
 faints
 fainted
 feltings
-forkers
 flows
 fulminating
 fairfieldite
@@ -2051,6 +2050,7 @@ fadme
 frontspiece
 feinter
 feudary
+forkers
 facedown
 faucalize
 flannelboard
