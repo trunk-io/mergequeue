@@ -6515,7 +6515,6 @@ discourtesies
 diag
 descendability
 dispossesses
-descendable
 descendants
 dentellated
 descendent
@@ -10230,6 +10229,7 @@ dinomys
 dinophilea
 discontinuance
 dinornithic
+descendable
 depute
 dinornithid
 dinornithiformes
