@@ -5408,7 +5408,6 @@ dentical
 denticle
 denticular
 denticulate
-dustfall
 dentiferous
 dentification
 dentifrice
@@ -5649,6 +5648,7 @@ dependabilities
 dependably
 dibber
 dependance
+dustfall
 disedification
 depended
 dependence
