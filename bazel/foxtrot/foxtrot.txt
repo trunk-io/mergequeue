@@ -7684,7 +7684,6 @@ forbathe
 format
 fulls
 frayproof
-frequencies
 flavedos
 foreigneering
 foreigner
@@ -7941,6 +7940,7 @@ femic
 fearsomely
 felicitousness
 funnelwise
+frequencies
 foresight
 familiarised
 factorability
