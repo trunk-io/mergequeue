@@ -4452,6 +4452,7 @@ footmenfootpad
 furcates
 focaloid
 fissionable
+furrowers
 fissioned
 furzes
 fissions
@@ -11475,7 +11476,6 @@ flaccidly
 feyer
 furfurylidene
 fortitudes
-furrowers
 furrowy
 furrowing
 furrowless
