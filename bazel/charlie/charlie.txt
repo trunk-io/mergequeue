@@ -3808,7 +3808,6 @@ carbonade
 crotcheted
 creepers
 carbonarist
-carbonatation
 carbonates
 carbonating
 carbonation
@@ -10264,6 +10263,7 @@ chiasmodontid
 chiasms
 chiasmus
 chiastic
+carbonatation
 curacao
 cantoon
 chiastoneural

@@ -4104,7 +4104,6 @@ glamourizer
 germander
 gilled
 gillenia
-gambas
 grangerise
 gesan
 guavas
@@ -8521,6 +8520,7 @@ gnathostomi
 gawsy
 gravitic
 gardenin
+gambas
 gretchen
 guarri
 gravities
