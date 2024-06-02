@@ -7443,7 +7443,6 @@ detrition
 dancer
 drumfire
 deselect
-defends
 detrivorous
 dervish
 doggereled
@@ -13670,6 +13669,7 @@ dissimilated
 dissimilating
 dissimilation
 dissimilative
+defends
 dangered
 dissimile
 dandyishly
