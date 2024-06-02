@@ -5469,6 +5469,7 @@ cellar
 casuistries
 casule
 casus
+counteraverment
 cat
 catabaptist
 catabases
@@ -9888,7 +9889,6 @@ chemisorption
 cantator
 cardiotherapy
 caudillos
-counteraverment
 cornroot
 coprophilic
 copperytailed
