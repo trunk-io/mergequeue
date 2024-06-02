@@ -1436,7 +1436,6 @@ ephemerons
 effigiate
 electrifier
 epeidia
-effigies
 epilaryngeal
 effigurate
 effiguration
@@ -13022,6 +13021,7 @@ expellable
 expellant
 expellees
 expellent
+effigies
 elaidic
 egueiite
 evaluations
