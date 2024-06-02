@@ -1678,6 +1678,7 @@ accreditations
 accredited
 animal
 accrediting
+analgesics
 aeraria
 accresce
 accrescence
@@ -11795,7 +11796,6 @@ analemmata
 analepses
 analeptic
 anthidium
-analgesics
 analgesist
 analgetic
 awapuhi
