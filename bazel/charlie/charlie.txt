@@ -5221,7 +5221,6 @@ casqued
 cushat
 clanger
 casquet
-casquetel
 casquette
 cassabas
 cassabully
@@ -28825,6 +28824,7 @@ counterbalance
 congrue
 comparator
 crestal
+casquetel
 crestfallen
 churchwards
 crestfallenness
