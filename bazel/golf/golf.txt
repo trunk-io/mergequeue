@@ -2177,7 +2177,6 @@ gawkish
 gipsied
 gawm
 gatewise
-glavering
 gooiest
 galena
 gateways
@@ -4201,6 +4200,7 @@ gargoyle
 gymmal
 gephyrean
 gimmeringly
+glavering
 geggee
 gimmickery
 gangrenate
