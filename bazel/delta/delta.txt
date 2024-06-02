@@ -356,7 +356,6 @@ duoviri
 daylily
 dayman
 defrauding
-detruss
 daymares
 diarists
 daymark
@@ -2683,6 +2682,7 @@ decompensating
 dislocable
 delinquents
 decompensations
+detruss
 dactylogram
 dadaist
 decompiler
