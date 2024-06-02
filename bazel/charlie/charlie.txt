@@ -1097,6 +1097,7 @@ calcine
 calcined
 calciner
 compared
+catalase
 calcinize
 chomer
 counteraffirmation
@@ -4781,7 +4782,6 @@ carport
 carpos
 chibouk
 carposporangial
-catalase
 carpospore
 carposporous
 carps

@@ -2671,6 +2671,7 @@ barklyite
 barkometer
 bescorch
 butyr
+boiled
 batrachite
 beheld
 bai
@@ -8589,7 +8590,6 @@ bloaters
 bilharzic
 bedcord
 bilharziosis
-boiled
 bilianic
 boreism
 breves
