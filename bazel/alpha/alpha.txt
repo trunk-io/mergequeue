@@ -3598,7 +3598,6 @@ adelantado
 attackable
 adelantados
 adelante
-alidade
 adelarthra
 alectryon
 apetalae
@@ -4102,6 +4101,7 @@ administrating
 antihemolytic
 alabastrons
 administration
+alidade
 administrational
 administrations
 administrative
