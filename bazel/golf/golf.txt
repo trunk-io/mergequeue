@@ -120,6 +120,7 @@ gadolinia
 gilsonite
 gifted
 gaugers
+gloves
 grosz
 goatfish
 gavottes
@@ -4039,7 +4040,6 @@ grayer
 goldurn
 ginnle
 grades
-gloves
 gnide
 grocery
 germane
