@@ -740,7 +740,6 @@ boyish
 brinjal
 badgerlike
 bending
-badgers
 bandsawing
 badges
 baddy
@@ -3356,6 +3355,7 @@ basiventral
 bask
 basked
 bioelectricities
+badgers
 basker
 basketballer
 basketballs
