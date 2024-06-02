@@ -2428,6 +2428,7 @@ ensorcell
 events
 ellipsoids
 eskar
+espece
 empetraceous
 electrodialitic
 ethnarchies
@@ -7719,7 +7720,6 @@ engagingly
 ensnarling
 epicurean
 ectocrine
-espece
 embroscopic
 epicurish
 epicurishly
