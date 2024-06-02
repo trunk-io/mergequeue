@@ -8746,7 +8746,6 @@ equipondious
 extreat
 equipotential
 endostyle
-equipped
 electrostereotype
 equiprobability
 enablers
@@ -13487,6 +13486,7 @@ exsanguious
 electrocauterization
 entrochus
 endocrinal
+equipped
 embowels
 eachwhere
 exscinds
