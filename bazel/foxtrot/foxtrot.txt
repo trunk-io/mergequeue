@@ -2797,6 +2797,7 @@ fratery
 festerment
 festers
 footway
+fruitage
 feis
 flanges
 forefeels
@@ -9886,7 +9887,6 @@ forecited
 frats
 friation
 frib
-fruitage
 faden
 fribbler
 friskle
