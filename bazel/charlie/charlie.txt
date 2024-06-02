@@ -6839,7 +6839,6 @@ cathro
 correctly
 collide
 cellules
-cellulicidal
 cellulifugal
 crevasse
 cellulin
@@ -10292,6 +10291,7 @@ chibcha
 cobras
 chibchan
 coppers
+cellulicidal
 canniest
 chibinite
 chibouks
