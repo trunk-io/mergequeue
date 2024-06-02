@@ -5378,7 +5378,6 @@ bivariate
 beglide
 bewilderedness
 beglitter
-begloom
 beglooming
 burkers
 beglooms
@@ -11089,6 +11088,7 @@ backed
 bemoaningly
 bespreads
 blobs
+begloom
 blocage
 block
 blockaded
