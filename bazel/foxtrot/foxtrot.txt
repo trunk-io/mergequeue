@@ -2254,6 +2254,7 @@ freshmanhood
 fountainhead
 firebombs
 flatcars
+fissle
 fulham
 foredecree
 furiosa
@@ -4461,7 +4462,6 @@ finickiest
 freighting
 fissirostrate
 forerunner
-fissle
 furcule
 fissura
 forwardsearch
