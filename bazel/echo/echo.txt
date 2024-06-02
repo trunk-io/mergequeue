@@ -3793,7 +3793,6 @@ emcee
 explored
 electrotechnics
 ecotone
-equiponderous
 emceeing
 enquirer
 emcumbering
@@ -9103,6 +9102,7 @@ eves
 enargite
 erythraean
 erythraemia
+equiponderous
 echinus
 erythrasma
 erythremia
