@@ -11211,7 +11211,6 @@ episome
 evacuants
 evacuated
 epexegetical
-evacuations
 excipular
 evulse
 evacuator
@@ -12640,6 +12639,7 @@ eburna
 embouchement
 eyeserver
 exocrines
+evacuations
 estancieros
 epitonium
 endostoma
