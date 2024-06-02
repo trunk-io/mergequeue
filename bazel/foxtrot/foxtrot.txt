@@ -7708,7 +7708,6 @@ foreignism
 fidessa
 footprints
 foreignly
-foreignness
 foreigns
 foreimpressed
 flagmaker
@@ -9760,6 +9759,7 @@ frenchification
 freakful
 frenchly
 frenchman
+foreignness
 floatable
 flabs
 forestick
