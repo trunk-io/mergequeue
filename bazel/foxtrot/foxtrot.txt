@@ -4740,6 +4740,7 @@ forgiver
 flagger
 feuillants
 flocculable
+fraternities
 fragilariaceae
 feltmonger
 flaunching
@@ -9173,7 +9174,6 @@ foofaraws
 foolify
 formicaria
 fraena
-fraternities
 foundationless
 fanning
 foment
