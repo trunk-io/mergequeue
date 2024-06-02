@@ -2526,7 +2526,6 @@ bottom
 begod
 buphaga
 busies
-barf
 blens
 britzka
 blear
@@ -6471,6 +6470,7 @@ bursera
 blunderingly
 birdwise
 brendan
+barf
 bhili
 beadiness
 benzyl
