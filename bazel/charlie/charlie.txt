@@ -3788,7 +3788,6 @@ carboline
 carbolineum
 carbolising
 carbolize
-carbolized
 carbolizes
 carbolizing
 carboloy
@@ -27437,6 +27436,7 @@ courtney
 courtnoll
 courtroll
 courtship
+carbolized
 courtships
 cleach
 courtside
