@@ -5364,7 +5364,6 @@ affixal
 affixation
 affixed
 affixer
-affixers
 affixes
 affixial
 aspatia
@@ -13044,6 +13043,7 @@ archilochian
 angustura
 acetobenzoic
 angwantibo
+affixers
 angwich
 aphorismic
 anhaemolytic
