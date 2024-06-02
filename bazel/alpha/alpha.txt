@@ -8618,6 +8618,7 @@ allagostemonous
 allah
 austafrican
 allay
+artificer
 allayers
 allaying
 archdukedom
@@ -20761,7 +20762,6 @@ artifacts
 artifactual
 artifactually
 artifex
-artificer
 artificership
 aerobiology
 artificial
