@@ -6117,6 +6117,7 @@ entertainers
 enneahedral
 enneahedron
 eyepoints
+epulosis
 enneahedrons
 eustatic
 embedment
@@ -8556,7 +8557,6 @@ edulcorator
 eurindic
 explants
 epuloid
-epulosis
 epulotic
 epuration
 exculpable

@@ -7129,6 +7129,7 @@ bookcraft
 baret
 bioplasms
 besonnet
+biocatalytic
 branchiostomidae
 bowlegged
 balnea
@@ -7975,7 +7976,6 @@ botaniser
 bewigged
 boiling
 bedazzlement
-biocatalytic
 bibliographies
 bibliographize
 bipyridine
