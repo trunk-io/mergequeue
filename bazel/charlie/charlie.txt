@@ -4108,7 +4108,6 @@ cardiographer
 cardiographic
 cardiographies
 cardiohepatic
-cardioid
 cardioids
 countertrend
 courche
@@ -8502,6 +8501,7 @@ cabala
 chameleonlike
 cantilena
 cultrirostral
+cardioid
 comstockery
 chamfer
 chamfered
