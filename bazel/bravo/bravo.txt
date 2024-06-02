@@ -5441,6 +5441,7 @@ bloedite
 begrim
 befingered
 begrimed
+bow
 bandusian
 begrimer
 begrimes
@@ -9907,7 +9908,6 @@ biternately
 biters
 barbing
 bearfoot
-bow
 begums
 bites
 brubru
