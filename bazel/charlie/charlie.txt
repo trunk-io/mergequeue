@@ -4705,6 +4705,7 @@ carpeting
 carpetlayer
 carpetless
 carpetmaking
+captivation
 carpetmonger
 carpets
 carpetweb
@@ -30868,7 +30869,6 @@ csc
 cultivably
 cultivate
 cultivated
-captivation
 cultivates
 creationistic
 cultivating
