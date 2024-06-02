@@ -3694,7 +3694,6 @@ defoliant
 dropforging
 deglutition
 deglutitious
-degold
 decathlon
 decomposite
 debacles
@@ -8238,6 +8237,7 @@ diacromyodi
 deformism
 djelab
 diact
+degold
 dadding
 diactin
 defrosted
