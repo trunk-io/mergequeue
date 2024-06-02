@@ -2763,7 +2763,6 @@ fusain
 fervours
 fishboat
 fescue
-foggish
 fixes
 fightings
 fescues
@@ -7631,6 +7630,7 @@ fontanges
 foredeep
 foreseeability
 foregleam
+foggish
 ferrocyanide
 forego
 fables
