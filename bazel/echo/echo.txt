@@ -2483,7 +2483,6 @@ eleve
 exegete
 electrography
 eudyptes
-electrograving
 erythrophyllin
 enstatite
 electrogasdynamics
@@ -10268,6 +10267,7 @@ extraditing
 endnote
 etherizing
 encoders
+electrograving
 eudora
 ethernet
 ecclesiolater
