@@ -3091,6 +3091,7 @@ barwood
 boneblack
 backhouse
 barksome
+bunchiness
 basale
 bursarship
 bacteriofluorescin
@@ -17363,7 +17364,6 @@ bunchflower
 bunchy
 bunchier
 bunchily
-bunchiness
 buncoing
 burk
 bedraggles
