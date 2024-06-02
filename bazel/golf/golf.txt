@@ -6143,7 +6143,6 @@ grassiness
 gnarls
 gaidropsaridae
 gravelweed
-gutturonasal
 gallicolous
 goodwilly
 gelatinously
@@ -8215,6 +8214,7 @@ graphotype
 getas
 guidwillie
 grapier
+gutturonasal
 gyarung
 gasthaus
 gusseting
