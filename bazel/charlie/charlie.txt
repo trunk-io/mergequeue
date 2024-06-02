@@ -11731,7 +11731,6 @@ cholesterin
 chappow
 coral
 cholesterinic
-cholesterinuria
 cholesterol
 clepsydrae
 cholesterolemia
@@ -28120,6 +28119,7 @@ craned
 chips
 cranelike
 cautionry
+cholesterinuria
 cranesman
 cranet
 craneway
