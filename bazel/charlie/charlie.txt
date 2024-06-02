@@ -7950,7 +7950,6 @@ cest
 cesta
 catafalque
 cestidae
-cestode
 cestodes
 cestoi
 copatron
@@ -31452,6 +31451,7 @@ curry
 cavitating
 curricle
 charted
+cestode
 croupade
 curricles
 curricling
