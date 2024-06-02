@@ -10253,7 +10253,6 @@ chloasmata
 chiasmas
 chiasmata
 cystoscopy
-chiasmatic
 connaraceae
 chiasmatype
 counterformula
@@ -12461,6 +12460,7 @@ chromatoptometer
 chromatoptometry
 chromatoscope
 couch
+chiasmatic
 chromatoscopy
 chromatosis
 chromaturia
