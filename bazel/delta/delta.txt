@@ -3540,7 +3540,6 @@ deforces
 deforciant
 deforest
 deforested
-downheartedness
 deforester
 dentiform
 deforests
@@ -3635,6 +3634,7 @@ degaussing
 destituting
 diatonous
 degener
+downheartedness
 declaredness
 dripping
 degeneralize
