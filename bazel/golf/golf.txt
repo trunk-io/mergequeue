@@ -2193,7 +2193,6 @@ globosity
 gazeless
 gazella
 gazelle
-gazellelike
 gazelline
 gazement
 gynocratic
@@ -10704,6 +10703,7 @@ glitterance
 gerbera
 geomalism
 gushily
+gazellelike
 gusla
 gaumless
 gearwheel
