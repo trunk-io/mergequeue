@@ -3582,7 +3582,6 @@ foody
 filatory
 filature
 flareboard
-flagrantness
 fulgence
 foggily
 forebowline
@@ -11224,6 +11223,7 @@ funguses
 fooless
 fireball
 florivorous
+flagrantness
 funguslike
 foulminded
 funic
