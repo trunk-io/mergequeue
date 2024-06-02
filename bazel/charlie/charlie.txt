@@ -7592,7 +7592,6 @@ cercopod
 cramberry
 cercosporella
 canalisation
-cercus
 cerdonian
 cere
 cereal
@@ -23477,6 +23476,7 @@ creatureless
 contemplative
 canner
 centenaries
+cercus
 contemplator
 contemple
 campanularia
