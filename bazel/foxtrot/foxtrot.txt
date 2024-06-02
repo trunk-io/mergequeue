@@ -2863,6 +2863,7 @@ fitcher
 fades
 faunae
 fenestration
+foliating
 filanders
 farmsteads
 fetching
@@ -3665,7 +3666,6 @@ functionalistic
 fretsaws
 firing
 filigrained
-foliating
 fanged
 freshed
 foibles
