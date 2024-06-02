@@ -8562,7 +8562,6 @@ gallied
 grapline
 guidons
 gantlines
-garlicmonger
 gozzard
 goldfielder
 gramaries
@@ -10866,6 +10865,7 @@ grig
 grozet
 graduation
 graphidiaceae
+garlicmonger
 goadlike
 glochids
 gwendolen
