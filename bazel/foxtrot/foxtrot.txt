@@ -264,7 +264,6 @@ fertilizations
 floorwalker
 fluviation
 faddist
-faddists
 founder
 flightily
 fathomable
@@ -6994,6 +6993,7 @@ fonduk
 fulgide
 fondus
 frustrations
+faddists
 fluorocarbon
 frigorific
 forconceit
