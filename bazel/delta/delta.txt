@@ -16704,6 +16704,7 @@ draisine
 detach
 darnel
 diablo
+droit
 drake
 drakelet
 drainboard
@@ -17288,7 +17289,6 @@ dronet
 discombobulating
 drogoman
 drogue
-droit
 drokpa
 droll
 droller
