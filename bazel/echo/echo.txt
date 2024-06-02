@@ -5566,6 +5566,7 @@ enflame
 embost
 enflames
 enduringness
+emoter
 endogens
 eukaryote
 enflaming
@@ -10292,7 +10293,6 @@ emptores
 ethicize
 ethicoaesthetic
 ethicopolitical
-emoter
 ethicoreligious
 evenlight
 exantlate
