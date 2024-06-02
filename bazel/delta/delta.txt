@@ -8725,6 +8725,7 @@ dyaster
 deathrate
 depolarizing
 diastereoisomerism
+darkeners
 diastereomer
 dodges
 dytiscidae
@@ -15105,7 +15106,6 @@ dogmouth
 dognap
 dactylopatagium
 discotheques
-darkeners
 dowdiness
 dognaps
 dogplate
