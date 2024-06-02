@@ -3400,7 +3400,6 @@ bronchobuster
 bungled
 bertha
 basoid
-baraithas
 beltine
 basommatophora
 bason
@@ -5983,6 +5982,7 @@ butterbur
 bellwether
 betaines
 bellwood
+baraithas
 bellwort
 beloam
 belock
