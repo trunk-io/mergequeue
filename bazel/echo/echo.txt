@@ -2681,7 +2681,6 @@ elucidative
 envenoms
 ethnocentrism
 electrosmosis
-electrostatic
 electrostatical
 exegetist
 enquiries
@@ -10727,6 +10726,7 @@ eastlake
 extricating
 embrangle
 exclamatorily
+electrostatic
 exothermally
 eudiometrical
 eudiometrically
