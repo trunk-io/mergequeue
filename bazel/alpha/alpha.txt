@@ -6425,7 +6425,6 @@ aganglionic
 agriculturist
 agriculturists
 admittible
-agrilus
 abohms
 agrimony
 agrimotor
@@ -21842,6 +21841,7 @@ assignable
 assignably
 assignation
 assignats
+agrilus
 ambiparous
 assignee
 assignees
