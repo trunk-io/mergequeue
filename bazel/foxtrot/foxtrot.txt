@@ -536,7 +536,6 @@ falderals
 familiarity
 filicites
 foresays
-forger
 feedman
 forded
 fondon
@@ -10670,6 +10669,7 @@ frequenting
 fruitless
 fruitlessly
 flingdust
+forger
 fever
 fibular
 flyeater
