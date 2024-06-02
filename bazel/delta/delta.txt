@@ -1075,7 +1075,6 @@ dewbeam
 disbanding
 dartagnan
 dentals
-darted
 darters
 dartingly
 dartled
@@ -6165,6 +6164,7 @@ deranging
 deader
 derated
 diphtheroid
+darted
 derater
 derating
 dijudicant
