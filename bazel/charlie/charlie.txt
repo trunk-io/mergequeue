@@ -8401,7 +8401,6 @@ chalkpit
 chalkrail
 circumflect
 chalkstone
-chalkworker
 challah
 centriciput
 challahs
@@ -21531,6 +21530,7 @@ classifically
 concordantial
 cankerworm
 concordantly
+chalkworker
 concordat
 concordatory
 concordatum
