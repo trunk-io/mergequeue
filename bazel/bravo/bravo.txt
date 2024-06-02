@@ -4470,6 +4470,7 @@ bursts
 bechance
 bechanced
 banana
+bicolor
 bices
 becharmed
 bellona
@@ -15702,7 +15703,6 @@ bilirubin
 brodyagi
 brodie
 broeboe
-bicolor
 brog
 brogan
 bonnne
