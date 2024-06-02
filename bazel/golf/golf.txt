@@ -721,7 +721,6 @@ geometrised
 gaspereaus
 galoshe
 galp
-gates
 gimmals
 greenheaded
 grass
@@ -8653,6 +8652,7 @@ grammars
 gambiers
 geranials
 gerontological
+gates
 giglets
 grownup
 green
