@@ -3383,7 +3383,6 @@ eaglestone
 escrod
 embarge
 emphase
-egoist
 entablement
 environs
 embargoed
@@ -10110,6 +10109,7 @@ etamins
 etang
 etape
 escopette
+egoist
 etapes
 explainability
 epoptes
