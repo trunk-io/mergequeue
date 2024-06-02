@@ -5398,7 +5398,6 @@ displant
 dentelliere
 dentelure
 davit
-dentes
 dealable
 docimasies
 dorsimesal
@@ -9899,6 +9898,7 @@ defectuous
 dimerisms
 dimerization
 dimerize
+dentes
 dimerized
 dimerizes
 dillydallied
