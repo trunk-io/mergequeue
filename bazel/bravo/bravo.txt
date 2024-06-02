@@ -1841,6 +1841,7 @@ banande
 benzyls
 bridgewall
 bushwood
+babul
 bananivorous
 brent
 banatite
@@ -4073,7 +4074,6 @@ brookside
 beshamed
 beadlehood
 beadleism
-babul
 beadleship
 besiegement
 beadlet
