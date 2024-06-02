@@ -87,7 +87,6 @@ cabby
 cabbie
 crenelate
 cabbies
-cabble
 cabbled
 cabbler
 chars
@@ -7455,6 +7454,7 @@ cephalotractor
 cephalotribe
 cephalotrocha
 cephalotus
+cabble
 cephalous
 cephas
 cepheid
