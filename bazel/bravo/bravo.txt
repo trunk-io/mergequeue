@@ -11850,7 +11850,6 @@ brushlike
 biometeorology
 bum
 bodicemaking
-bodices
 beaune
 bodycheck
 bodied
@@ -12628,6 +12627,7 @@ backlist
 bonnyish
 beverages
 boogeyman
+bodices
 bisinuation
 bonnnes
 bonnocks
