@@ -4815,7 +4815,6 @@ carretela
 carretera
 carreton
 cofferlike
-carri
 cetaceous
 carry
 carriable
@@ -21933,6 +21932,7 @@ coziness
 confederations
 cancellarian
 confederator
+carri
 confelicity
 confer
 counterpanes
