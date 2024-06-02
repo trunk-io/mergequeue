@@ -26281,7 +26281,6 @@ congrio
 confectionery
 costeaning
 costectomy
-costectomies
 costed
 coinmaker
 condylopod
@@ -29745,6 +29744,7 @@ crookery
 crookeries
 crookesite
 continuous
+costectomies
 crookheaded
 crooking
 circule
