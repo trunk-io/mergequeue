@@ -21091,7 +21091,6 @@ computativeness
 circumstantiates
 compute
 computer
-computerese
 computerise
 computerization
 computerize
@@ -30477,6 +30476,7 @@ cubdom
 cubebs
 cubelet
 cubelium
+computerese
 carsten
 cubera
 cure
