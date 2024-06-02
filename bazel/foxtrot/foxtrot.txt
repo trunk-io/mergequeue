@@ -9191,6 +9191,7 @@ fanaloka
 fraggings
 fishpot
 fragileness
+foregame
 fragility
 frizer
 fusels
@@ -11619,7 +11620,6 @@ fluorindine
 footglove
 febrifugal
 fieri
-foregame
 fetch
 fioretti
 fusty
