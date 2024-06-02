@@ -1254,7 +1254,6 @@ germania
 gurts
 garaged
 gyved
-gowk
 glandless
 grece
 garancin
@@ -9195,6 +9194,7 @@ grizzlers
 grizzly
 grizzling
 groaned
+gowk
 gallflower
 ghosts
 groanful
