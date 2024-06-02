@@ -4806,7 +4806,6 @@ encoil
 encolden
 ecocide
 encollar
-equitangential
 encolour
 encolpia
 encolpion
@@ -12286,6 +12285,7 @@ epipsychidion
 enabling
 euryhaline
 exegeses
+equitangential
 exegesis
 exegesist
 eloigner

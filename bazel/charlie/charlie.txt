@@ -835,7 +835,6 @@ caisse
 caissons
 caite
 caitif
-charque
 caitiffs
 crams
 cayubaba
@@ -28515,6 +28514,7 @@ creatureship
 creaturize
 churchanity
 creaze
+charque
 crebricostate
 crebrisulcate
 coteau
