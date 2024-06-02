@@ -5047,7 +5047,6 @@ beers
 beest
 beestings
 bonytail
-beeswax
 beeswaxes
 bothriums
 beeswing
@@ -5128,6 +5127,7 @@ biglenoid
 bewith
 befeather
 becoming
+beeswax
 bodger
 beferned
 bheesties
