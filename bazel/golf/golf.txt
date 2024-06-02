@@ -4775,7 +4775,6 @@ gyrotheca
 girouette
 girouettes
 gestes
-gyrous
 gyrovagues
 gorgon
 gonoblastic
@@ -4823,6 +4822,7 @@ gibbsite
 glazily
 galchic
 gearless
+gyrous
 gastraeas
 gallinula
 gynodioecism
