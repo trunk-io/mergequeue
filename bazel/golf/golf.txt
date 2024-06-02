@@ -5843,7 +5843,6 @@ goldsmithery
 glossohyal
 gaultherase
 gyres
-gobos
 glossolalia
 glossolysis
 guestimating
@@ -6663,6 +6662,7 @@ gomer
 gooseberries
 grew
 gypsied
+gobos
 glutting
 gladstone
 gentianales
