@@ -3271,7 +3271,6 @@ bantingize
 basilica
 belverdian
 basilical
-basilican
 backoff
 basilicate
 basilicock
@@ -4591,6 +4590,7 @@ buffering
 becrust
 becrusting
 becudgeled
+basilican
 backslidingness
 bibbs
 becudgeling
