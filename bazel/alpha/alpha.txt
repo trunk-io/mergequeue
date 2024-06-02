@@ -11204,7 +11204,6 @@ amphidiploid
 amphidiploidy
 amphidisc
 amphidiscophora
-auroral
 amphidiscophoran
 amphidromic
 anthropopithecus
@@ -15138,6 +15137,7 @@ anticularia
 anticus
 antidactyl
 antidancing
+auroral
 antideflation
 antidemocrat
 armstrong
