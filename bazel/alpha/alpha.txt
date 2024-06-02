@@ -4929,7 +4929,6 @@ aerobious
 acalepha
 aeroboat
 aerobranchia
-aerobranchiate
 aerobus
 arythmically
 aerocamera
@@ -19180,6 +19179,7 @@ archpretender
 archpriest
 archpriestship
 archprimate
+aerobranchiate
 anno
 archprince
 acoustical

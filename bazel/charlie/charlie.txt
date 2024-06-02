@@ -17269,6 +17269,7 @@ candlesnuffer
 coalescent
 combustibility
 coalesces
+cumulant
 cadastre
 coalescing
 choya
@@ -30996,7 +30997,6 @@ caprocks
 confessionalian
 cumsha
 cumshaw
-cumulant
 cumular
 cumulate
 cumulated
