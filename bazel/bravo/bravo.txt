@@ -1066,7 +1066,6 @@ ballow
 bailing
 busway
 bailiwick
-beaconed
 bridler
 benzothiopyran
 belord
@@ -10593,6 +10592,7 @@ blad
 badasses
 blastula
 butterier
+beaconed
 blastular
 brownistical
 blowfly

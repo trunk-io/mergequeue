@@ -5429,6 +5429,7 @@ covertical
 comdt
 classic
 corollated
+cosubordinate
 capillitia
 cylindrenchema
 castrati
@@ -26359,7 +26360,6 @@ costumire
 choreomania
 cathetus
 cosubject
-cosubordinate
 cochlospermaceous
 cosuffer
 caracole
