@@ -863,6 +863,7 @@ ectypography
 epacrid
 exulate
 ectiris
+essayer
 espies
 episodal
 equations
@@ -9817,7 +9818,6 @@ exchange
 essay
 envapor
 essayed
-essayer
 essayism
 essayists
 estranged
