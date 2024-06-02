@@ -8745,7 +8745,6 @@ allergenic
 abouchement
 autarkical
 allergenicity
-allergies
 arrhythmous
 atheology
 ankylotome
@@ -12790,6 +12789,7 @@ angiographic
 angiohemophilia
 anhelous
 angiohypotonia
+allergies
 anachronously
 anglophilia
 angioid
