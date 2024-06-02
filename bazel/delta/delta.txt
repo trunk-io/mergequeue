@@ -1491,6 +1491,7 @@ diffusor
 degomme
 dazzler
 disposal
+dentelated
 damselflies
 dagos
 dazzlers
@@ -10319,7 +10320,6 @@ dionysia
 dionysiac
 dionysiacally
 dionysus
-dentelated
 diastrophy
 dionize
 dognapped
