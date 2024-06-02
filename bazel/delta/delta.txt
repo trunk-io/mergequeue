@@ -5671,6 +5671,7 @@ deperm
 dumpiness
 depermed
 deperms
+disserves
 depersonalise
 depersonalising
 depersonalized
@@ -13622,7 +13623,6 @@ dissertative
 dissertator
 destroyed
 damme
-disserves
 disparple
 daintith
 disservice
