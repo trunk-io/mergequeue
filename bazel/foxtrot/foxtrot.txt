@@ -145,7 +145,6 @@ flajolotite
 freemasonry
 fem
 file
-fidgets
 facsim
 facsimile
 facsimiled
@@ -4434,6 +4433,7 @@ fisnoga
 flogging
 finicality
 flap
+fidgets
 foreshank
 feriation
 fissidentaceous
