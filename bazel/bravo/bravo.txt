@@ -4202,6 +4202,7 @@ bicompact
 beard
 bankrupts
 bodysurfs
+bombing
 beggars
 bowmaking
 bro
@@ -12384,7 +12385,6 @@ bacchantic
 bombination
 blan
 bobfly
-bombing
 beautifies
 bombings
 broguery
