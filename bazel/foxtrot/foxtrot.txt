@@ -5604,7 +5604,6 @@ fishnets
 forecabin
 forthbringer
 freighters
-flyflapper
 foulnesses
 faff
 frondous
@@ -9570,6 +9569,7 @@ forche
 fudging
 freddo
 fucate
+flyflapper
 fishwives
 felicitate
 fanegada

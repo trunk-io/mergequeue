@@ -1991,7 +1991,6 @@ bandwidth
 bandwidths
 bandwork
 bagginess
-bandworm
 boogiewoogie
 bonebinder
 baylet
@@ -4608,6 +4607,7 @@ brigadiership
 baccate
 backstopping
 burnsides
+bandworm
 becudgelling
 becudgels
 becuffed
