@@ -2957,7 +2957,6 @@ cantline
 cantling
 canto
 canton
-confederatism
 cortege
 carvel
 cantonal
@@ -25777,6 +25776,7 @@ correspondently
 citators
 chalcolite
 correspondentship
+confederatism
 correctrice
 colophan
 conule
