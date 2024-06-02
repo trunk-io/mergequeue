@@ -4775,7 +4775,6 @@ basil
 bedlamize
 bloomeria
 blennorrhinia
-bedlamized
 bedlamizing
 bedlamps
 bedlams
@@ -4823,6 +4822,7 @@ bedrench
 bedrenched
 baldling
 bedrenches
+bedlamized
 bedribble
 bureaucratic
 bedrift
