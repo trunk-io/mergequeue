@@ -4553,6 +4553,7 @@ carnifex
 carnifexes
 carnification
 carnifices
+cymbal
 carnificial
 carnifies
 colonel
@@ -9759,7 +9760,6 @@ cheirogaleus
 cheirography
 cheirolin
 cytoma
-cymbal
 cheiroline
 cheirology
 ciconiidae
