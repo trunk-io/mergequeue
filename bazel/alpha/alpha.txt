@@ -23112,7 +23112,6 @@ atterr
 ascence
 aggressionist
 attest
-attestable
 amphibology
 abolla
 attestant
@@ -23711,6 +23710,7 @@ austere
 austerely
 atheistic
 antimallein
+attestable
 archaeology
 austereness
 austerest
