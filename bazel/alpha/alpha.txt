@@ -430,7 +430,6 @@ araroba
 anklebone
 aerified
 abiotically
-abiotrophy
 abipon
 abir
 akrteria
@@ -4310,6 +4309,7 @@ adorns
 arrivage
 attestation
 automorph
+abiotrophy
 antiaircraft
 astichous
 axis
