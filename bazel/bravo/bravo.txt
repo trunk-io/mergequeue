@@ -2924,7 +2924,6 @@ belap
 barrelet
 bookend
 barrelfishes
-batuque
 botanical
 bundies
 blennometritis
@@ -3276,6 +3275,7 @@ basilical
 basilican
 backoff
 basilicate
+batuque
 basilicock
 basilics
 basilidan
