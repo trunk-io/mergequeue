@@ -5532,6 +5532,7 @@ glyptodontoid
 gracelike
 gethsemane
 gablatores
+guardhouse
 geranium
 gaea
 glyptolith
@@ -10681,7 +10682,6 @@ gandhist
 goaling
 gurshes
 gamble
-guardhouse
 guru
 gurus
 glairing
