@@ -2647,7 +2647,6 @@ electrophrenic
 electropyrometer
 epixylous
 electroplater
-electropolish
 electropower
 electropsychrometer
 executioner
@@ -8805,6 +8804,7 @@ equivocatingly
 excusively
 equivocations
 echolocate
+electropolish
 estadio
 endurably
 equivokes
