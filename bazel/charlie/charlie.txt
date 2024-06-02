@@ -18286,6 +18286,7 @@ coffeeman
 coquinas
 classico
 coffeepot
+clayed
 coffeepots
 coffeeroom
 coffees
@@ -25355,7 +25356,6 @@ cornbinks
 coidentity
 cornbird
 chaplainship
-clayed
 cornbole
 cornbottle
 commemorating
