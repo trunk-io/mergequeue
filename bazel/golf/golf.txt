@@ -991,7 +991,6 @@ geocentrical
 gamodesmic
 gamogamy
 globosely
-gamogenesis
 gamophagy
 glomeruli
 garrote
@@ -4654,6 +4653,7 @@ gyred
 girella
 girellidae
 gastrogastrotomy
+gamogenesis
 girtonian
 grangousier
 gluteus
