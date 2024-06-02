@@ -5407,6 +5407,7 @@ china
 castlet
 commercing
 candlesticked
+counterchange
 chairwoman
 castleward
 casaque
@@ -26774,7 +26775,6 @@ cephalomenia
 counterbuff
 countercathexis
 countercause
-counterchange
 counterchanged
 countercharged
 countercharm
