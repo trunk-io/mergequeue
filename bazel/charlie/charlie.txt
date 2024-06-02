@@ -678,7 +678,6 @@ cairba
 cafeterias
 cafetiere
 cafetorium
-caff
 caffeic
 caffeina
 caffeines
@@ -7713,6 +7712,7 @@ coes
 cerialia
 cerianthid
 cerianthidae
+caff
 cervelases
 cerianthoid
 calculable
