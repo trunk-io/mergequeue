@@ -4433,7 +4433,6 @@ frowst
 fishweed
 fico
 fishwood
-fishworker
 fracticipita
 frazil
 ferrovanadium
@@ -7092,6 +7091,7 @@ football
 famelessness
 footballist
 forfeitable
+fishworker
 familarity
 footballs
 frakturs
