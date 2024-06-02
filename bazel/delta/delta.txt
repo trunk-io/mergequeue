@@ -8516,7 +8516,6 @@ diamond
 diamondback
 diamondbacked
 dynamiting
-diamonded
 diamonding
 dayment
 donnybrook
@@ -9485,6 +9484,7 @@ digesting
 digestion
 digestively
 digestiveness
+diamonded
 dermad
 domically
 dehumidify
