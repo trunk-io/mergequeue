@@ -4722,6 +4722,7 @@ aeciospore
 aeciostage
 aecioteliospore
 abigeus
+aerogel
 adversed
 aedeagi
 aedeagus
@@ -4976,7 +4977,6 @@ aerofoil
 aerofoils
 algine
 amberfish
-aerogel
 antilogous
 aerogen
 astounding
