@@ -1886,7 +1886,6 @@ banderole
 brigading
 banders
 banjara
-bandfile
 bosch
 bandfiled
 bandgap
@@ -14359,6 +14358,7 @@ brainily
 bombardon
 boom
 braininess
+bandfile
 braining
 baken
 brainlessness
