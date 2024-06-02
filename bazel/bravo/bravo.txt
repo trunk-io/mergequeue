@@ -728,7 +728,6 @@ boudoirs
 backyard
 bogwort
 badgered
-badgerer
 badgering
 buoyant
 blundersome
@@ -825,6 +824,7 @@ bafflers
 baffling
 bafflingly
 bauckiebird
+badgerer
 bassi
 bulbus
 bottomry
