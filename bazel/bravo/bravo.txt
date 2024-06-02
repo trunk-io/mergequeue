@@ -1139,6 +1139,7 @@ bairns
 bairnteam
 bootful
 bankman
+bureaucratic
 bairntime
 bairnwort
 baisemain
@@ -4825,7 +4826,6 @@ bedrenched
 baldling
 bedrenches
 bedribble
-bureaucratic
 bedrift
 bedright
 bhalu
