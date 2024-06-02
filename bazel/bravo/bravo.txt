@@ -636,7 +636,6 @@ bacteriologists
 bacteriopathology
 burnoose
 bacteriophages
-bacteriophagy
 balneal
 bacteriophagic
 bear
@@ -10603,6 +10602,7 @@ blatancy
 bopper
 boastless
 backlash
+bacteriophagy
 blatant
 blatch
 brahma
