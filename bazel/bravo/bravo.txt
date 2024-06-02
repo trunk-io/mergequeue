@@ -3596,6 +3596,7 @@ bathed
 bellower
 bather
 bathes
+bietle
 bathetically
 bathhouses
 braggest
@@ -7460,7 +7461,6 @@ bumbler
 bethrall
 bulbiferous
 bethroot
-bietle
 bethump
 bethumped
 bethwack
