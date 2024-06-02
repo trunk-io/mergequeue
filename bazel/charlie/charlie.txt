@@ -12642,7 +12642,6 @@ chronocrator
 chronogeneous
 chronogram
 chronogrammatic
-chronogrammatically
 cheetah
 cenospecifically
 chronogrammatist
@@ -30114,6 +30113,7 @@ crs
 crts
 coccinella
 cru
+chronogrammatically
 confections
 crosscrosslet
 crubeen
