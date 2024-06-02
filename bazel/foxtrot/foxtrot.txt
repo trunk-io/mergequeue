@@ -3538,7 +3538,6 @@ facebread
 figures
 foresting
 finds
-friesic
 forestine
 femoropopliteal
 figurist
@@ -8018,6 +8017,7 @@ falconnoid
 ferrimagnetic
 felicitates
 fairies
+friesic
 faculative
 foggy
 formentation
