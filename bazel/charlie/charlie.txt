@@ -8764,6 +8764,7 @@ coronels
 cabinetmake
 chanters
 coinhering
+competitors
 chantership
 chanteur
 chanteuse
@@ -20665,7 +20666,6 @@ competitiveness
 competitor
 competitory
 cascol
-competitors
 competitorship
 competitress
 challengee
