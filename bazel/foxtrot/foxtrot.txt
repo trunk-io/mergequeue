@@ -7006,7 +7006,6 @@ fons
 ferrum
 fiberware
 fontal
-frothing
 fraenums
 fluorines
 fires
@@ -7868,6 +7867,7 @@ flapperdom
 flannelbush
 frenzying
 forerun
+frothing
 fname
 factiousness
 franklinia
