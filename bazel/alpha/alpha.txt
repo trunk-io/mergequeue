@@ -6971,6 +6971,7 @@ airtimes
 assailment
 albronze
 apologiser
+amende
 airts
 adversative
 aptian
@@ -10343,7 +10344,6 @@ amendableness
 amici
 amydon
 amendatory
-amende
 amended
 amending
 amendment
