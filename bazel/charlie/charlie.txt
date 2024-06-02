@@ -10897,6 +10897,7 @@ chipchop
 collada
 chipewyan
 chiplet
+cytochalasin
 clayman
 chipling
 chipmuck
@@ -14942,7 +14943,6 @@ cytoblastemal
 caseless
 cytoblastemic
 cytoblastemous
-cytochalasin
 cytochemistry
 chameleons
 cytochylema
