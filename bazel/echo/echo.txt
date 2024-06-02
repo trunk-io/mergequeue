@@ -4343,7 +4343,6 @@ enterable
 entrenches
 esture
 enlinking
-equispatial
 envapour
 enamdar
 expulsive
@@ -8763,6 +8762,7 @@ epicondylar
 ecstatics
 esthesiogenic
 elastometry
+equispatial
 equisetic
 equisided
 equisignal
