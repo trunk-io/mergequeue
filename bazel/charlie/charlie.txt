@@ -6468,7 +6468,6 @@ caviya
 cavyyard
 caviled
 caviler
-cavilers
 cavilingly
 ceraunogram
 cognizably
@@ -12021,6 +12020,7 @@ chorometry
 choriambize
 confarreate
 choriambs
+cavilers
 choriambus
 cease
 choric
