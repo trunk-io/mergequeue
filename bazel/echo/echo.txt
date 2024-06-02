@@ -3392,7 +3392,6 @@ embarkations
 epitomize
 embarkment
 embarks
-electrograph
 embarrass
 equipage
 ellinge
@@ -12171,6 +12170,7 @@ ennoblment
 enregister
 equanimity
 elytrorrhaphy
+electrograph
 especial
 excurrent
 excurse
