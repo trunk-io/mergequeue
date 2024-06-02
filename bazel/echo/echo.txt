@@ -2490,6 +2490,7 @@ electrogasdynamics
 electroharmonic
 empanelment
 electrohemostasis
+eventide
 electrohydraulically
 emulsoidal
 electrohomeopathy
@@ -13542,7 +13543,6 @@ exsufflate
 exsufflation
 emmies
 exsufflicate
-eventide
 exsuperance
 extracutaneous
 enculturated
