@@ -1782,7 +1782,6 @@ fetichmonger
 forsterite
 farsalah
 forlorn
-franchiser
 foundery
 fetid
 featherless
@@ -8116,6 +8115,7 @@ forevow
 fruitages
 fantastry
 feverberries
+franchiser
 formicinae
 faddle
 fraught
