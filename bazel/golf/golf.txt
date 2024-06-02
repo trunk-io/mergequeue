@@ -1195,7 +1195,6 @@ gastroplication
 ganza
 grazers
 gowdnie
-guffin
 gigantology
 gaol
 grift
@@ -5917,6 +5916,7 @@ grain
 glovemaker
 gibbets
 gametes
+guffin
 gloveman
 glover
 glochines
