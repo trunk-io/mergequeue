@@ -11538,7 +11538,6 @@ alfakis
 anabasine
 anabasse
 anabata
-anabathmos
 anabathrum
 anaberoga
 anabia
@@ -24375,6 +24374,7 @@ ambushing
 autosyn
 aarrgh
 autosyndesis
+anabathmos
 appreciable
 autostyly
 autositic
