@@ -3782,7 +3782,6 @@ gunlaying
 genethliacally
 giant
 glabellae
-gasterothecal
 glace
 glinse
 gladiate
@@ -5920,6 +5919,7 @@ gibbets
 gametes
 gloveman
 glover
+gasterothecal
 glochines
 gnarlier
 glowbard

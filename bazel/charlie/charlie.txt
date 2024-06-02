@@ -5155,7 +5155,6 @@ caseweed
 caseworker
 caseworks
 caseworm
-casha
 cashable
 cashableness
 cashaws
@@ -6400,6 +6399,7 @@ cavalero
 cardinalist
 curarizes
 cavalier
+casha
 cavaliere
 choregic
 conopholis
