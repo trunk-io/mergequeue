@@ -2375,7 +2375,6 @@ girting
 greyfish
 goles
 gelatine
-globuliform
 glucoprotein
 gharial
 gumbotils
@@ -3761,6 +3760,7 @@ ghoulishly
 grill
 gladly
 gyse
+globuliform
 gelada
 gremlin
 gushiness
