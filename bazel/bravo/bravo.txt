@@ -680,6 +680,7 @@ brisk
 brioche
 becoiffed
 bicorne
+boltage
 bactrian
 biannual
 bronchiolitis
@@ -12281,7 +12282,6 @@ boardwalk
 brake
 bolsterwork
 bolt
-boltage
 biasses
 boltcutter
 botanizer
