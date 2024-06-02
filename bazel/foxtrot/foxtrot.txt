@@ -1748,6 +1748,7 @@ farthingale
 filicin
 flashflood
 feasters
+forearming
 feastful
 feastfully
 feastly
@@ -10375,7 +10376,6 @@ flusterment
 fecundities
 floodtime
 filmized
-forearming
 fertilizable
 formularize
 footworks
