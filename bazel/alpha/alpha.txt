@@ -5557,6 +5557,7 @@ aft
 afteract
 alexin
 afterattack
+alerted
 afterbay
 afterstorm
 appetitive
@@ -9905,7 +9906,6 @@ antepreterit
 amarillo
 amarin
 agastreae
-alerted
 admeasurement
 amarine
 amarity
