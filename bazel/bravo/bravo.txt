@@ -592,6 +592,7 @@ bricoles
 bacquet
 billmen
 bact
+belverdian
 betongue
 bacteremic
 bacteriaceae
@@ -3273,7 +3274,6 @@ basilic
 barrenwort
 bantingize
 basilica
-belverdian
 basilical
 basilican
 backoff

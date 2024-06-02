@@ -3966,7 +3966,6 @@ carcharodont
 correctify
 carcinemia
 carcinogenesis
-carcinogenic
 colorimetry
 carcinoid
 compartmental
@@ -28549,6 +28548,7 @@ credentials
 credently
 credenza
 credere
+carcinogenic
 cerebbella
 credible
 concealers
