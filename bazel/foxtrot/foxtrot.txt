@@ -5440,7 +5440,6 @@ fleshful
 foes
 farfel
 flewed
-favourite
 furunculus
 flewit
 forcarve
@@ -9765,6 +9764,7 @@ flycaster
 fevery
 filace
 frenchness
+favourite
 fretworks
 flaccidness
 frenchwomen
