@@ -9184,6 +9184,7 @@ animations
 alboranite
 almemar
 almemars
+aphelenchus
 accordable
 almemor
 almendron
@@ -16835,7 +16836,6 @@ aphasiacs
 aphasics
 aphelandra
 averse
-aphelenchus
 agog
 amylometer
 anterointerior
