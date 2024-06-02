@@ -7807,7 +7807,6 @@ gourinae
 grovelled
 grama
 gtc
-geoglossaceae
 gun
 goodsome
 ganoin
@@ -10058,6 +10057,7 @@ gudok
 giver
 glume
 gulped
+geoglossaceae
 gammation
 gargoyles
 greasing
