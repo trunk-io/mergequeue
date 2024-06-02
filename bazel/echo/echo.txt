@@ -3719,6 +3719,7 @@ embryotome
 exsculp
 embryotomies
 echelette
+expectedness
 embryotrophy
 embrittle
 enchasers
@@ -12952,7 +12953,6 @@ expectantly
 expectation
 exodoi
 expected
-expectedness
 euemerism
 expecter
 expecting
