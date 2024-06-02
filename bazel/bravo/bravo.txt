@@ -7303,7 +7303,6 @@ basename
 bestiarist
 bestirred
 bestirs
-bestock
 bestow
 bestowals
 bigamic
@@ -14674,6 +14673,7 @@ blastostyle
 buckbeans
 brazened
 borrichia
+bestock
 bravadoes
 bravadoing
 bravely
