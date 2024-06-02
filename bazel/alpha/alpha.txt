@@ -8783,7 +8783,6 @@ alliage
 alliance
 accoast
 anschluss
-alliances
 alliancing
 alliant
 alliaria
@@ -12116,6 +12115,7 @@ aegeriid
 anathematizer
 alopiidae
 alidades
+alliances
 anatheme
 ammoniac
 anatidae
