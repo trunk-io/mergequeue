@@ -9800,7 +9800,6 @@ boondoggle
 bigam
 bissellia
 bissextile
-bissextus
 byssiferous
 bullbats
 balding
@@ -10862,6 +10861,7 @@ blepharomelasma
 boarish
 blepharoncosis
 beplumed
+bissextus
 blepharoncus
 blepharoplast
 blepharoplastic
