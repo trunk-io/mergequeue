@@ -3771,7 +3771,6 @@ adhere
 adhered
 apophantic
 adherency
-adherend
 aquashow
 adherent
 acetite
@@ -10170,6 +10169,7 @@ arilled
 azedarach
 amboynas
 amboinese
+adherend
 ambolic
 ambomalleal
 antenatus
