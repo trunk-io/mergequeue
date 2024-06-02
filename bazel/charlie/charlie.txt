@@ -17966,7 +17966,6 @@ coefficients
 coelacanth
 cyclophrenia
 coelacanthidae
-coelacanthine
 coelacanthoid
 coelacanthous
 coelanaglyphic
@@ -19979,6 +19978,7 @@ commandatory
 commanded
 commandedness
 courtesying
+coelacanthine
 classicised
 commandeer
 centenarians
