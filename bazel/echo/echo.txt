@@ -3954,7 +3954,6 @@ emmove
 emodins
 emollescence
 efflorescent
-emollience
 ensuable
 erogenesis
 expugnable
@@ -8991,6 +8990,7 @@ ergostat
 elegit
 ectotropic
 ergosterol
+emollience
 experimentally
 ergoted
 emarginula
