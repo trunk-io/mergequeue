@@ -2585,7 +2585,6 @@ frame
 foulmouth
 formaldehyde
 ferredoxin
-ferreled
 fibrilla
 ferreling
 frondescent
@@ -6478,6 +6477,7 @@ facades
 factionist
 floody
 flustrated
+ferreled
 filches
 flustrine
 flustroid
