@@ -7681,6 +7681,7 @@ gaw
 gemutlich
 gallantness
 gradually
+granulometric
 gleir
 graduands
 goofing
@@ -9189,7 +9190,6 @@ giltcup
 grithbreach
 griths
 ganglions
-granulometric
 gaolerness
 grits
 gritted
