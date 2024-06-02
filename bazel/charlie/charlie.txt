@@ -3492,6 +3492,7 @@ captaincies
 captained
 captainry
 captainship
+chaotically
 captainships
 chemicked
 captan
@@ -20109,7 +20110,6 @@ commentarialism
 corky
 commentated
 cragsmen
-chaotically
 cabossed
 commentation
 commentative
