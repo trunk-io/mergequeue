@@ -3205,6 +3205,7 @@ assailability
 admonishing
 aliners
 aid
+assignat
 acton
 actory
 actorship
@@ -21835,7 +21836,6 @@ assign
 assignability
 assignable
 assignably
-assignat
 assignation
 assignats
 ambiparous
