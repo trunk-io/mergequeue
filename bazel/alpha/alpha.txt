@@ -5111,6 +5111,7 @@ aerosteam
 antivaccinist
 aethalioid
 antapex
+antiautolysin
 aerotactic
 aerotaxis
 agacant
@@ -14772,7 +14773,6 @@ archetypic
 armholes
 aftereffects
 antiattrition
-antiautolysin
 antibacchic
 anchoresses
 antibacchii
