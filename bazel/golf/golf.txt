@@ -1404,7 +1404,6 @@ garlandry
 galvanist
 garlic
 glycolylurea
-garliclike
 geoside
 galloner
 glorifier
@@ -3164,6 +3163,7 @@ geonic
 geonyctinastic
 germanize
 ganglion
+garliclike
 geophagia
 glowworms
 geocline
