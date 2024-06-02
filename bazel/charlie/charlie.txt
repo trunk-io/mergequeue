@@ -5428,7 +5428,6 @@ castors
 castra
 castrates
 covertical
-comdt
 classic
 corollated
 capillitia
@@ -27621,6 +27620,7 @@ caesuras
 cowages
 cowan
 coward
+comdt
 cowardy
 cowardice
 chrobat
