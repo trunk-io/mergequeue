@@ -4996,6 +4996,7 @@ consolan
 cartwhip
 cartwrighting
 caruage
+centgrave
 carucage
 counterprove
 carucarius
@@ -23443,7 +23444,6 @@ contaminous
 contangential
 compactest
 conte
-centgrave
 caresses
 contect
 contection
