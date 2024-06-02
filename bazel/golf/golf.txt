@@ -5102,7 +5102,6 @@ giganticidal
 greenable
 gauls
 globeflower
-galloping
 girasoles
 goofed
 greenths
@@ -9427,6 +9426,7 @@ groundbird
 gypsums
 groundedly
 gets
+galloping
 grassation
 grounden
 gallybeggar
