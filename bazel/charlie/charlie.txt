@@ -8765,7 +8765,6 @@ cabinetmake
 chanters
 coinhering
 chantership
-chanteur
 chanteuse
 chanteuses
 chanty
@@ -29339,6 +29338,7 @@ cryptonemiales
 corvina
 cryptoneurous
 cryptonymic
+chanteur
 correctitude
 casina
 cryptonymous
