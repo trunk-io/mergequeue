@@ -5031,7 +5031,6 @@ antepartum
 aeromancer
 aeromechanic
 aeromechanics
-aeromedical
 aerometeorograph
 aerometer
 aerometry
@@ -8317,6 +8316,7 @@ alienists
 alienize
 alienor
 autologist
+aeromedical
 archdeaconship
 aliens
 acetanion
