@@ -2765,7 +2765,6 @@ acrindoline
 acrisy
 arak
 acrisius
-acrita
 acritan
 alcarraza
 authorizing
@@ -23115,6 +23114,7 @@ abolla
 attestant
 alytarch
 appercipient
+acrita
 akelas
 attestations
 alalia
