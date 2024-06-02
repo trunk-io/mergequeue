@@ -8859,7 +8859,6 @@ chapes
 chapfallenly
 chapin
 chapiter
-chapitral
 chaplain
 chaplaincies
 chaplains
@@ -20694,6 +20693,7 @@ complacently
 chantant
 complain
 complainant
+chapitral
 complainants
 conventionism
 complained
