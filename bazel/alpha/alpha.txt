@@ -4951,7 +4951,6 @@ anthoecology
 amphistomous
 aerodynamics
 ambitionist
-approximant
 aerodyne
 astonisher
 aerodynes
@@ -13829,6 +13828,7 @@ anoperineal
 anophele
 anopheles
 anophelinae
+approximant
 acquent
 anophoria
 anophthalmos
