@@ -7014,7 +7014,6 @@ censurers
 coexecutant
 censureship
 coddling
-census
 craftswoman
 caecitis
 censusing
@@ -22435,6 +22434,7 @@ commaing
 conic
 conical
 canajong
+census
 conicality
 chordally
 conicein

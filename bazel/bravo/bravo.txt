@@ -2554,7 +2554,6 @@ barger
 bloomage
 bardash
 barges
-bicycles
 borscht
 barghests
 beslash
@@ -8902,6 +8901,7 @@ broadtail
 bingee
 bolete
 browed
+bicycles
 bingeys
 binges
 beatnikism
