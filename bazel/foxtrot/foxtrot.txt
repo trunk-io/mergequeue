@@ -4157,6 +4157,7 @@ federals
 ferfathmur
 foothold
 fireclays
+forwaste
 faujdar
 fringilliform
 fritt
@@ -10614,7 +10615,6 @@ flechette
 familistere
 foal
 frugalism
-forwaste
 flatnesses
 frugalities
 foregoing

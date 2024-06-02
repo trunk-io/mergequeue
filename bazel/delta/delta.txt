@@ -2413,7 +2413,6 @@ deciders
 disownment
 disguisements
 deadrize
-diplontic
 deciduity
 deciduoma
 deciduously
@@ -9599,6 +9598,7 @@ dulias
 downloadable
 digraph
 digraphically
+diplontic
 digredience
 drogher
 digrediency
