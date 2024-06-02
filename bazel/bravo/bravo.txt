@@ -3204,7 +3204,6 @@ basibregmatic
 bowwood
 bauld
 basic
-bombardier
 basically
 basicerite
 basicity
@@ -17622,6 +17621,7 @@ burghership
 burgraves
 burghmaster
 burring
+bombardier
 burglarious
 bearlet
 burglarized
