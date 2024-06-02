@@ -3783,7 +3783,6 @@ filmmake
 fullword
 filmogen
 frutescent
-filmography
 filmographies
 felspathose
 freewheeler
@@ -10283,6 +10282,7 @@ feminise
 froise
 frokin
 filum
+filmography
 frolic
 frolicful
 foreslack
