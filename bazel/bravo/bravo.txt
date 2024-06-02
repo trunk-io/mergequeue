@@ -1426,6 +1426,7 @@ basnet
 balearica
 bisellium
 balebos
+byzantian
 baled
 bonaught
 baleen
@@ -9162,7 +9163,6 @@ biophysic
 branchstand
 biophysiography
 biophysiology
-byzantian
 biophysiologist
 backfire
 biophyte
