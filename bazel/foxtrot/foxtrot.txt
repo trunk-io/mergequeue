@@ -7423,6 +7423,7 @@ freemen
 forjudger
 forcipation
 forcipressure
+fleuron
 fishhook
 frigidoreceptor
 foy
@@ -8850,7 +8851,6 @@ florideous
 foreshorten
 fictious
 folia
-fleuron
 fotmal
 foud
 folkvang
