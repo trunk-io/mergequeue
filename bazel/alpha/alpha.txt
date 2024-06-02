@@ -10418,7 +10418,6 @@ americanize
 audio
 americanizes
 americanizing
-americanly
 almuds
 americanoid
 americans
@@ -22836,6 +22835,7 @@ atonicity
 atonics
 atoning
 ageusia
+americanly
 atoningly
 atop
 alcelaphus
