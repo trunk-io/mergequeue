@@ -4896,7 +4896,6 @@ flamer
 flamers
 ferments
 flubbing
-fallback
 flamethrowers
 frankpledge
 flamy
@@ -9006,6 +9005,7 @@ fetichist
 frightment
 fewer
 fregatidae
+fallback
 foveolet
 fovilla
 fustee
