@@ -2001,7 +2001,6 @@ cruelize
 camote
 camoudie
 coburgess
-camouflage
 cornerman
 camouflageable
 cryptocrystallization
@@ -15505,6 +15504,7 @@ clanswomen
 claosaurus
 clapboard
 clapboarding
+camouflage
 cleidomastoid
 clapboards
 clapcake
