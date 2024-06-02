@@ -2855,7 +2855,6 @@ fetations
 flourescent
 fusht
 fretted
-frontosquamosal
 fitcher
 fades
 faunae
@@ -5613,6 +5612,7 @@ flingers
 firking
 frontoparietal
 forhooie
+frontosquamosal
 flingy
 forsaken
 fablemonger
