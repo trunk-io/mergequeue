@@ -1099,7 +1099,6 @@ farmyardy
 farmout
 fisc
 farmtown
-floricomous
 folily
 farnesol
 farnesols
@@ -7781,6 +7780,7 @@ fiftypenny
 foremost
 foremostly
 fibrohemorrhagic
+floricomous
 foremother
 fusillade
 flyblew

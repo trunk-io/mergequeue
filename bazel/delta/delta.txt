@@ -2653,6 +2653,7 @@ desalter
 decoloring
 darkening
 decolorisation
+driftlet
 decolorising
 dispose
 demises
@@ -13963,7 +13964,6 @@ daubreelite
 dichroism
 distomatous
 distomes
-driftlet
 distomiasis
 dystomic
 distomidae
