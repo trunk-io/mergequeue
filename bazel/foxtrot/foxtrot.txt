@@ -2765,6 +2765,7 @@ fathomer
 fusain
 fervours
 fishboat
+furnished
 fescue
 foggish
 fixes
@@ -8277,7 +8278,6 @@ falsities
 fuddled
 foryield
 forethoughtless
-furnished
 forints
 facade
 forisfamiliate

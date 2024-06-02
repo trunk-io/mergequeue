@@ -5626,7 +5626,6 @@ demicolumn
 depascent
 delphinoid
 digested
-diphthongic
 disrepute
 depasturable
 depasture
@@ -17918,6 +17917,7 @@ dadaisms
 duff
 duffadar
 dumpier
+diphthongic
 decarchies
 duffed
 doublers
