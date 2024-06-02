@@ -1771,7 +1771,6 @@ gastroenterology
 gelatination
 gastightness
 gastroenterologic
-gastroepiploic
 gonarthritis
 guardants
 gabbler
@@ -4722,6 +4721,7 @@ gallies
 giro
 ganch
 girders
+gastroepiploic
 gonake
 glossae
 gillhooter
