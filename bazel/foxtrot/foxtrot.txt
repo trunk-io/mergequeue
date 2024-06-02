@@ -2088,6 +2088,7 @@ feldspathoid
 foys
 forehook
 franca
+forfear
 flocky
 foggara
 frijol
@@ -9549,7 +9550,6 @@ furcilia
 flitches
 freaks
 forested
-forfear
 fellage
 floristic
 foveate
