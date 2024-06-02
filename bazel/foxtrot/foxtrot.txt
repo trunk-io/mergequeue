@@ -4147,6 +4147,7 @@ firebug
 flagstones
 fireburn
 flickertail
+falloffs
 fibrocaseous
 featherwork
 fadedness
@@ -10911,7 +10912,6 @@ flambe
 filmically
 forsworn
 fullery
-falloffs
 fulleries
 flo
 fictile
