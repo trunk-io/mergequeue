@@ -1164,7 +1164,6 @@ baits
 baittle
 baywoods
 balladized
-baiza
 baizas
 baize
 baized
@@ -4769,6 +4768,7 @@ birdbrain
 bedizen
 bemitered
 beekmantown
+baiza
 bedizens
 bedkey
 bourses
