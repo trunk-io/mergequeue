@@ -4883,6 +4883,7 @@ forwards
 fibbing
 fchar
 fourteens
+fumacious
 fractabling
 flushing
 flamen
@@ -8055,7 +8056,6 @@ fichtelite
 funkiest
 finances
 foreswore
-fumacious
 foret
 fragilaria
 floodgate

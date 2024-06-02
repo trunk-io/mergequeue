@@ -10641,6 +10641,7 @@ amyloidoses
 amyloidosis
 aplanospore
 anguille
+avidities
 agglomerating
 amyloleucite
 amylolysis
@@ -12530,7 +12531,6 @@ anemonal
 anemone
 anglemeter
 anticreator
-avidities
 anemonella
 anemones
 albuminiform
