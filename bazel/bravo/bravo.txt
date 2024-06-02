@@ -4509,6 +4509,7 @@ beclaw
 bassoonist
 besieged
 bloodstanch
+birders
 becloak
 blubberer
 batis
@@ -11898,7 +11899,6 @@ bonded
 boysenberries
 brows
 bodstick
-birders
 blase
 baalite
 battleplane
