@@ -3564,7 +3564,6 @@ eponyms
 extreme
 enneapetalous
 euphratean
-embolize
 embolo
 eupeptic
 embolomalerism
@@ -12534,6 +12533,7 @@ eximidus
 eximious
 expatiator
 etiogenic
+embolize
 envisages
 eyedroppers
 embosture
