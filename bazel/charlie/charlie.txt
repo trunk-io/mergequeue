@@ -8631,7 +8631,6 @@ conoscente
 chancer
 chancery
 chances
-chancewise
 chasseur
 chanche
 cycloaddition
@@ -11667,6 +11666,7 @@ choleine
 colorization
 cholelith
 cholelithiasis
+chancewise
 caliperer
 cholelithic
 cholelithotomy
