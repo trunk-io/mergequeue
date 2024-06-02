@@ -2043,7 +2043,6 @@ acetonemic
 acetonic
 advances
 antependia
-acetonyl
 acetonylacetone
 acetamido
 amidoaldehyde
@@ -8513,6 +8512,7 @@ antilog
 alkalinizing
 avogram
 anticausotic
+acetonyl
 alkalinuria
 apocryphalist
 alkalisable
