@@ -3645,6 +3645,7 @@ adenine
 adatom
 adenitis
 adenization
+australioid
 adenoacanthoma
 adenocarcinoma
 adenocarcinomas
@@ -23725,7 +23726,6 @@ aeromarine
 alcogel
 australian
 australianism
-australioid
 aim
 australis
 acquit
