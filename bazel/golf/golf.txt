@@ -204,7 +204,6 @@ ghee
 gaggler
 goaler
 goslings
-gummer
 garewaite
 greyest
 gaius
@@ -8147,6 +8146,7 @@ ganisters
 grapes
 grapeskin
 grapestalk
+gummer
 grapevines
 graphanalysis
 gravid
