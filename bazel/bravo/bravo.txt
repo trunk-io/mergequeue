@@ -1626,7 +1626,6 @@ bestar
 brahms
 balloen
 ballone
-borderings
 bullbird
 ballones
 ballonette
@@ -6479,6 +6478,7 @@ birdwise
 brendan
 bhili
 beadiness
+borderings
 benzyl
 benzylamine
 benzilic

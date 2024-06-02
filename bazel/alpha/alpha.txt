@@ -20783,7 +20783,6 @@ artillerymen
 aurochloride
 artilleryship
 aciculums
-artillerist
 artillerists
 apoplectiform
 artiness
@@ -21303,6 +21302,7 @@ acknowledgement
 asymmetries
 asymmetron
 asymptomatic
+artillerist
 asymptote
 accompletive
 asymptotes
