@@ -8944,7 +8944,6 @@ cuniform
 cumarone
 characterism
 credibilities
-characteristically
 characteristicalness
 characteristicness
 characteristics
@@ -15333,6 +15332,7 @@ consumables
 claimers
 claiming
 claymore
+characteristically
 claims
 clayoquot
 claypans
