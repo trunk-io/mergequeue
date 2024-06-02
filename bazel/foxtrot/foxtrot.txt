@@ -636,7 +636,6 @@ falsifier
 falsifying
 falunian
 feats
-fanum
 fict
 friskers
 fritterer
@@ -2737,6 +2736,7 @@ ferulic
 fissipedate
 frogeater
 fervanite
+fanum
 filaze
 frizziness
 fervence
