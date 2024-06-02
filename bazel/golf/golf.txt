@@ -4441,7 +4441,6 @@ glomerular
 glycoluric
 gingerness
 gingerous
-gibbles
 griping
 glucosemia
 gestio
@@ -8616,6 +8615,7 @@ glossless
 gres
 greco
 grecomania
+gibbles
 grecophil
 galilei
 guernseyed
