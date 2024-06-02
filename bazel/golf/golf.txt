@@ -1580,7 +1580,6 @@ gasterolichenes
 gladded
 grainier
 guittonian
-guazzo
 guerinet
 garners
 gaolage
@@ -9502,6 +9501,7 @@ glimes
 groupoid
 galbraithian
 gisla
+guazzo
 groupwise
 goloch
 grouseberry
