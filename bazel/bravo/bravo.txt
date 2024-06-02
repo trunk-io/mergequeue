@@ -9850,7 +9850,6 @@ bistorts
 besoothes
 bistred
 battleground
-basiating
 bystreet
 bystreets
 bistres
@@ -14709,6 +14708,7 @@ birdcraft
 backwall
 brazenfacedness
 bicaudal
+basiating
 brazenly
 bargh
 bugseed
