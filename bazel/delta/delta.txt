@@ -4875,7 +4875,6 @@ demolish
 detrained
 dazzlingly
 demolished
-demolisher
 demolishing
 diarrhoea
 demolition
@@ -15309,6 +15308,7 @@ dumpty
 demerge
 dolomitize
 disorganic
+demolisher
 diabolical
 dolomize
 deadlatch
