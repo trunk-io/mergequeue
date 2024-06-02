@@ -2252,7 +2252,6 @@ gearshift
 goosegirl
 gastrolith
 goniostat
-gearshifts
 goldfinches
 gratification
 garlics
@@ -4522,6 +4521,7 @@ gearcases
 gutters
 glumpily
 gorgoneum
+gearshifts
 guestling
 gigadoid
 gaultheria
