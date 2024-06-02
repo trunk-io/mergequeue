@@ -2317,7 +2317,6 @@ galax
 gruiform
 gehlenite
 goblet
-guideway
 gey
 gaits
 geopolitik
@@ -4948,6 +4947,7 @@ griffithite
 glaciologists
 glaciomarine
 gnetum
+guideway
 gypaetus
 glacionatant
 grasswork
