@@ -1470,6 +1470,7 @@ duxelles
 dawts
 dawut
 damages
+dissolveability
 daze
 discerptibility
 dazed
@@ -3935,7 +3936,6 @@ deixis
 decreases
 deja
 deject
-dissolveability
 decamps
 dejection
 dregginess
