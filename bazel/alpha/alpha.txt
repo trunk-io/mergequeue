@@ -275,7 +275,6 @@ abdominoscopy
 agas
 abdominothoracic
 abdominous
-abduce
 abducens
 abducentes
 abduces
@@ -10273,6 +10272,7 @@ availableness
 amebean
 amebian
 anthropologically
+abduce
 asiarchate
 antirationalism
 amebicide
