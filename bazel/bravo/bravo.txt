@@ -7604,6 +7604,7 @@ belayer
 beveller
 bookbinder
 biathlon
+biddelian
 bevenom
 bever
 barleducs
@@ -9378,7 +9379,6 @@ byproducts
 biprong
 bipunctual
 biconcavity
-biddelian
 bedsheets
 browsers
 bewet
