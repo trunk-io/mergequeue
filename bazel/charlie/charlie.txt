@@ -23240,7 +23240,6 @@ carroll
 choiak
 constrainingly
 cubbyhole
-constraint
 constraints
 cardioscope
 constrict
@@ -29567,6 +29566,7 @@ crittur
 critturs
 consular
 crivetz
+constraint
 crizzel
 checkerboarding
 crizzled
