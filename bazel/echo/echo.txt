@@ -3569,6 +3569,7 @@ eupeptic
 embolomalerism
 epidural
 ectoskeleton
+epopt
 embolon
 elms
 emboltement
@@ -7939,7 +7940,6 @@ ejectum
 exululate
 epil
 endamaged
-epopt
 epilabra
 epilate
 econ
