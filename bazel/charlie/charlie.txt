@@ -15243,6 +15243,7 @@ clacker
 clackers
 clackety
 clacking
+composed
 clacks
 clad
 cladanthous
@@ -20897,7 +20898,6 @@ corpulence
 composable
 carcasses
 composant
-composed
 composedness
 ceduous
 composer
