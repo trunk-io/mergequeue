@@ -2976,7 +2976,6 @@ coalhole
 countergager
 cantoral
 cantoria
-cantorial
 cardsharps
 crystallographic
 cantoris
@@ -7030,6 +7029,7 @@ centaurdom
 centaurea
 carretta
 ceste
+cantorial
 clitellum
 centauress
 centaury
