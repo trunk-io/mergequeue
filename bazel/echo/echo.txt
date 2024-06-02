@@ -3884,6 +3884,7 @@ emication
 emyde
 externalising
 eysoge
+eclipsable
 ecclesiologist
 engendering
 ethid
@@ -13314,7 +13315,6 @@ echinoderes
 exportations
 elbow
 exported
-eclipsable
 enlength
 entireties
 enfonce
