@@ -2886,7 +2886,6 @@ barrage
 barnmen
 banger
 barraged
-barrages
 brushland
 barraging
 bailer
@@ -11788,6 +11787,7 @@ bardolphian
 bocher
 barbedness
 boches
+barrages
 boondocker
 bobbles
 bock
