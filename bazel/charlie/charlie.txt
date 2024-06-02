@@ -3668,7 +3668,6 @@ carapacic
 carapax
 coxing
 carapaxes
-coachable
 carapidae
 carapine
 canvasback
@@ -7880,6 +7879,7 @@ cobitis
 cervicobuccal
 cervicodynia
 cervicofacial
+coachable
 cervicolabial
 cervicolumbar
 crystal
