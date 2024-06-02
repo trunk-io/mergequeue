@@ -7236,6 +7236,7 @@ detecters
 decentralist
 digitate
 dandiacal
+doub
 damnified
 detectible
 detection
@@ -16025,7 +16026,6 @@ dottrel
 dehumanize
 dottrels
 douane
-doub
 decrepitude
 double
 denumberment
