@@ -5975,6 +5975,7 @@ confessionaries
 cathodal
 cathode
 coherency
+cytotactic
 cathodegraph
 comique
 cathodes
@@ -15060,7 +15061,6 @@ contrastingly
 curding
 cytostomal
 cytostromatic
-cytotactic
 cardioaccelerator
 cerebroganglion
 cytotaxis
