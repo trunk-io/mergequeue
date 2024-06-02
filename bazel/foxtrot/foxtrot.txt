@@ -6269,7 +6269,6 @@ flukes
 flukeworm
 flukewort
 forelands
-follicle
 fluky
 flavour
 ferryhouse
@@ -11117,6 +11116,7 @@ flicking
 fundatrices
 febres
 fearlessness
+follicle
 framework
 funder
 feeblehearted
