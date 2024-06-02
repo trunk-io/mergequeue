@@ -2507,7 +2507,6 @@ decivilize
 deck
 dateline
 deckel
-deporte
 deblocking
 ditchdown
 dirigent
@@ -9280,6 +9279,7 @@ diesters
 diestock
 death
 diestrous
+deporte
 drawbridge
 diestrums
 drupaceae
