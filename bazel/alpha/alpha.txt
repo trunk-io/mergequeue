@@ -5558,7 +5558,6 @@ aftercataract
 afterchurch
 afterclause
 aftercome
-aftercoming
 aftercooler
 aftercost
 aftercrop
@@ -20701,6 +20700,7 @@ arthrozoan
 arranged
 arthur
 arty
+aftercoming
 artiad
 advertising
 artichoke
