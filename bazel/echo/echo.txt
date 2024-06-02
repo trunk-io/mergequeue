@@ -5038,7 +5038,6 @@ equipper
 endmost
 eternize
 enrage
-embraces
 ebriety
 enamellar
 enheritance
@@ -8839,6 +8838,7 @@ embeddable
 etcetera
 electrocardiograms
 epistolise
+embraces
 eradicatory
 euda
 expedients

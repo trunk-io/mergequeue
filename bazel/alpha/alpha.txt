@@ -20686,7 +20686,6 @@ arthrosteitis
 arthrostome
 arthrostomy
 apeptic
-arthrotyphoid
 amninia
 amputative
 arthrotome
@@ -23225,6 +23224,7 @@ atropinization
 attune
 analgesia
 attunely
+arthrotyphoid
 attunement
 archivists
 attunes
