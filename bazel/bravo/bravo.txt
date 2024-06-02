@@ -12644,6 +12644,7 @@ brigantine
 blackballer
 bloodroots
 bonser
+brewing
 braccate
 bakshaish
 bonspell
@@ -15058,7 +15059,6 @@ benting
 brewership
 brewhouse
 brewhouses
-brewing
 brewis
 benzenes
 benzofuroquinoxaline
