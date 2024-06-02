@@ -45,7 +45,6 @@ flick
 fabricators
 fabricature
 futurities
-flatuosity
 fuddledness
 fabronia
 fabroniaceae
@@ -4879,6 +4878,7 @@ fruits
 fortescure
 flocking
 frontispiece
+flatuosity
 firebase
 flamencos
 firmance
