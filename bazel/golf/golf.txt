@@ -4888,7 +4888,6 @@ garderobe
 galleta
 gladeye
 glossematics
-geostationary
 gandurah
 glar
 gagroot
@@ -7588,6 +7587,7 @@ generation
 gurgulation
 gravimetrically
 genicular
+geostationary
 gemmula
 grus
 grabhook
