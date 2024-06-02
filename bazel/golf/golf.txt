@@ -2810,7 +2810,6 @@ genitivally
 grocer
 genitive
 geniculum
-golfing
 grasps
 genitor
 gauntry
@@ -5311,6 +5310,7 @@ glene
 graciles
 grindery
 gaited
+golfing
 golgi
 guardsman
 gipsiologist
