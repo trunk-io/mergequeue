@@ -3151,6 +3151,7 @@ actinulae
 action
 albiflorous
 allotrophic
+archthief
 actionability
 actionably
 assoc
@@ -19214,7 +19215,6 @@ archspy
 archspirit
 argumentation
 archsteward
-archthief
 archtyrant
 aleft
 arachnites
