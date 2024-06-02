@@ -4681,7 +4681,6 @@ carpentry
 carper
 carpers
 carpet
-carpetbag
 carpetbagger
 carpetbaggery
 catty
@@ -17761,6 +17760,7 @@ cocoas
 cocoawood
 caraipe
 churchgoing
+carpetbag
 cocobola
 cocobolas
 conscriptionist
