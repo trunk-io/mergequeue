@@ -6852,7 +6852,6 @@ embonpoint
 entoil
 entoils
 entoloma
-entom
 extender
 episternalia
 expressionful
@@ -12755,6 +12754,7 @@ embryography
 exceeds
 exorbitation
 engarland
+entom
 epidemiologically
 ethers
 eriophyid
