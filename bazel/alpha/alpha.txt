@@ -126,7 +126,6 @@ abate
 abated
 abatement
 abatements
-abater
 altisonous
 accreditee
 alanyl
@@ -5715,6 +5714,7 @@ afterworld
 apodeixis
 adenocyst
 afterwrath
+abater
 aftonian
 aftosa
 aftward
