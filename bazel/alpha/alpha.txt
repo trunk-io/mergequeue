@@ -10582,7 +10582,6 @@ amyelotrophy
 amyelous
 aposematically
 androgynous
-amygdal
 amygdala
 amygdalaceous
 animated
@@ -21408,6 +21407,7 @@ aspace
 autoclastic
 agnoiology
 asparagic
+amygdal
 asparagyl
 antiglyoxalase
 asparagin
