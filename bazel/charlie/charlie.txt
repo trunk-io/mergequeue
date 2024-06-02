@@ -3897,7 +3897,6 @@ carburetest
 carbureting
 carburetion
 chichipate
-conformational
 carburetor
 curatel
 consulted
@@ -8532,6 +8531,7 @@ confiscator
 choribi
 chamoised
 chamoisette
+conformational
 cumbers
 chamoisite
 campilan
