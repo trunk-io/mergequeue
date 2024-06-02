@@ -3576,6 +3576,7 @@ cinques
 caraboid
 carabus
 caracara
+coroplasta
 carack
 caracks
 caracoa
@@ -25610,7 +25611,6 @@ canvasman
 coronopus
 coroparelcysis
 coperception
-coroplasta
 coroplastae
 cauf
 coroplastic
