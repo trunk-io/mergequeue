@@ -9158,7 +9158,6 @@ geminis
 grysbok
 gaslock
 gleaning
-garrison
 grisettish
 grisled
 genocides
@@ -9732,6 +9731,7 @@ gambir
 gooder
 gentling
 glossator
+garrison
 gryphon
 gordiidae
 grumose
