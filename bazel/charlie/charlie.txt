@@ -6449,6 +6449,7 @@ cavern
 cavernal
 cavernlike
 cavernoma
+cystine
 cavernous
 cavernously
 cavernulous
@@ -24991,7 +24992,6 @@ corbelling
 corbels
 corbet
 corby
-cystine
 corbicula
 corbiculae
 corbiculate
