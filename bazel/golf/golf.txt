@@ -3978,7 +3978,6 @@ gleeting
 garrisons
 gripped
 glittered
-gigawatt
 gutser
 goldenfleece
 groynes
@@ -8989,6 +8988,7 @@ grounder
 givin
 galoshes
 geochronologist
+gigawatt
 gramophonical
 gyrates
 greing
