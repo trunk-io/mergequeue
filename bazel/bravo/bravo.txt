@@ -894,7 +894,6 @@ baglike
 biacromial
 bagmaker
 bagmaking
-bagne
 bagnes
 bibliotics
 bastnaesite
@@ -2557,6 +2556,7 @@ bardash
 barges
 bicycles
 borscht
+bagne
 barghests
 beslash
 barging
