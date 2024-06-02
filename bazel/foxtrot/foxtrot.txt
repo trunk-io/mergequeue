@@ -2363,7 +2363,6 @@ furner
 flattops
 fenzelia
 flagboat
-feod
 firestopping
 feodum
 filander
@@ -5944,6 +5943,7 @@ floweret
 freshmanship
 featherbedding
 floorcloths
+feod
 foreclosable
 fluidizing
 folkways
