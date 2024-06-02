@@ -9621,7 +9621,6 @@ chapatty
 checkstring
 cuissen
 checksum
-construct
 checksummed
 checksumming
 castro
@@ -21272,6 +21271,7 @@ cricoidectomy
 conceptuality
 conceptualize
 conceptualized
+construct
 calyptrogen
 conceptualizes
 conceptus
