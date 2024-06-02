@@ -9158,7 +9158,6 @@ erythrocytometry
 ethiopians
 erythrocytoschisis
 erythrocytosis
-erythroclastic
 erythrophage
 erythrodegenerative
 ephebeum
@@ -10703,6 +10702,7 @@ eudaimonist
 eric
 eudemian
 eudemon
+erythroclastic
 eudemonic
 eluvial
 exigenter
