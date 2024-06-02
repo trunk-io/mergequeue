@@ -3488,7 +3488,6 @@ erke
 emblazes
 envies
 emblazoned
-emblazoner
 emblazonment
 emblazonments
 escandalize
@@ -5465,6 +5464,7 @@ energid
 energise
 epitendineum
 etatist
+emblazoner
 energiser
 euscaro
 energises
