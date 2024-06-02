@@ -1139,6 +1139,7 @@ edh
 edhs
 edibility
 edible
+enigmata
 expeditive
 exhaustingly
 eumycetic
@@ -5921,7 +5922,6 @@ enigmas
 endenizen
 enrapturer
 enjambements
-enigmata
 enigmatical
 etourderie
 ephphatha
