@@ -2670,7 +2670,6 @@ barkinji
 barkless
 barklyite
 barkometer
-bescorch
 butyr
 batrachite
 beheld
@@ -13771,6 +13770,7 @@ blesseder
 bovld
 bait
 beheading
+bescorch
 bovver
 bowable
 bapt
