@@ -4320,7 +4320,6 @@ fishability
 froggier
 fishback
 forebackwardly
-feltwork
 fixion
 fishboats
 fishbolts
@@ -7777,6 +7776,7 @@ foremother
 fusillade
 flyblew
 forename
+feltwork
 furs
 furl
 finning
