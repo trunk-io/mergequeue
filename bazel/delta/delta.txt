@@ -3350,7 +3350,6 @@ dropax
 demideity
 duxes
 defier
-defiers
 defying
 defilades
 drogues
@@ -15628,6 +15627,7 @@ domina
 doomwatcher
 dissentaneous
 dooputty
+defiers
 decamp
 doorcheek
 doorhawk
