@@ -1200,7 +1200,6 @@ bakehead
 bibliothetic
 bakehouses
 bakelite
-bakelize
 bakemeats
 backslash
 bloop
@@ -13505,6 +13504,7 @@ botulins
 belgravian
 besmother
 burghemot
+bakelize
 botulinum
 botulinus
 botulinuses
