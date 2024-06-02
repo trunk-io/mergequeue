@@ -1762,6 +1762,7 @@ accurst
 anglophobe
 accusable
 accusal
+agname
 accusals
 accusant
 affinal
@@ -6213,7 +6214,6 @@ assemblywomen
 anucleated
 agminated
 agnails
-agname
 agnat
 agnatha
 agnathia
