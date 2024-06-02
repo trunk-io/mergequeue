@@ -4437,6 +4437,7 @@ enc
 encadre
 encaenia
 ectorganism
+embiidae
 emphasised
 etua
 encage
@@ -10045,7 +10046,6 @@ estrado
 estragole
 entity
 estragons
-embiidae
 eradicates
 equicellular
 estrayed
