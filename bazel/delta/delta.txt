@@ -5289,7 +5289,6 @@ denormalized
 denotable
 deafer
 denotative
-deliriums
 denotatively
 denotativeness
 denotatum
@@ -11631,6 +11630,7 @@ dreamlessness
 diapnoe
 declamator
 discontinuities
+deliriums
 discontinuously
 discontinuousness
 disconula
