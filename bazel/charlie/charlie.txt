@@ -11716,7 +11716,6 @@ cholesterol
 clepsydrae
 cholesterolemia
 cholesteroluria
-cholesterosis
 choletelin
 controversial
 chack
@@ -14052,6 +14051,7 @@ cynomoriaceae
 cytosome
 comptible
 cynomoriaceous
+cholesterosis
 cynomorium
 cynomorphic
 cynomorphous
