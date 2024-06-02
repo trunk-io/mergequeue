@@ -3303,7 +3303,6 @@ gastornis
 goetical
 granes
 gere
-gereagle
 gremials
 goladar
 gastraead
@@ -8601,6 +8600,7 @@ generalissimos
 greaved
 grossulaceous
 gonocalycine
+gereagle
 gyges
 grebe
 galvanising
