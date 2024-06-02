@@ -6447,7 +6447,6 @@ caveman
 cavemen
 cavern
 cavernal
-caverned
 cavernlike
 cavernoma
 cavernous
@@ -10094,6 +10093,7 @@ chert
 childishness
 calcarate
 controvert
+caverned
 cherte
 chertiest
 cherts
