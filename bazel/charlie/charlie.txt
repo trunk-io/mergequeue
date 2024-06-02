@@ -2498,6 +2498,7 @@ crewel
 candlenut
 candlepins
 candlepower
+cotingid
 chemist
 candler
 candlerent
@@ -26461,7 +26462,6 @@ cotylosacral
 cotylosaur
 cotylosauria
 cotylosaurian
-cotingid
 cotingidae
 cuprein
 cotingoid
