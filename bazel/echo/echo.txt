@@ -2027,6 +2027,7 @@ epop
 ekebergite
 ekename
 earthen
+enclosing
 etymologisable
 exteriorate
 eagle
@@ -4990,7 +4991,6 @@ energy
 endenize
 executional
 escalop
-enclosing
 entosarc
 empathetically
 encapsule
