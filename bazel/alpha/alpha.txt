@@ -14076,6 +14076,7 @@ ante
 anteact
 arsenillo
 anteambulate
+antimask
 anteambulation
 anteater
 astrologian
@@ -15502,7 +15503,6 @@ amylums
 antiprogressive
 antimartyr
 androlepsy
-antimask
 asslike
 antimasks
 antimason
