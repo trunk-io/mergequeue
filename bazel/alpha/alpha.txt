@@ -8758,7 +8758,6 @@ allerion
 assurable
 allethrin
 alleve
-alleviate
 antitragi
 alleviated
 alleviater
@@ -19494,6 +19493,7 @@ acetaldol
 atomistics
 argentan
 argentarii
+alleviate
 acephalite
 argentate
 argentation
