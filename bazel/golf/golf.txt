@@ -7458,6 +7458,7 @@ gyrostatics
 gibing
 gymnotidae
 glasshouse
+goldney
 goldsmith
 gerful
 gluemaking
@@ -8912,7 +8913,6 @@ gastrodidymus
 gryde
 gridelin
 griding
-goldney
 gastrotrichan
 gabion
 glucina
