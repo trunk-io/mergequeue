@@ -6373,7 +6373,6 @@ benomyl
 backspread
 benorth
 bensall
-bensell
 bromine
 barbigerous
 bensh
@@ -13432,6 +13431,7 @@ buckjumper
 betelnuts
 bassus
 blueprints
+bensell
 bookiness
 bibliopoly
 brightsome
