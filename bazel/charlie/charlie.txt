@@ -8789,7 +8789,6 @@ chantment
 chantor
 carman
 cheiloplasties
-chantors
 chantress
 chantry
 chantries
@@ -19016,6 +19015,7 @@ collates
 collation
 collationer
 collations
+chantors
 cesti
 collatitious
 cloine
