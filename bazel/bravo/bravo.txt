@@ -9881,7 +9881,6 @@ bytalk
 bytalks
 bitangential
 bields
-bitanhol
 bitartrate
 beneplacito
 biteable
@@ -13383,6 +13382,7 @@ bothrenchyma
 billsticker
 bandage
 bothria
+bitanhol
 bothridia
 bontequagga
 bothriocephalus
