@@ -16774,7 +16774,6 @@ acceder
 apertured
 apertures
 aperu
-aperulosid
 apes
 antiptosis
 apesthetic
@@ -19497,6 +19496,7 @@ argentarii
 acephalite
 argentate
 argentation
+aperulosid
 argenteous
 albolite
 argentic
