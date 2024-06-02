@@ -1893,7 +1893,6 @@ banjara
 bandfile
 bosch
 bandfiled
-bandgap
 bandh
 burdon
 brownism
@@ -5770,6 +5769,7 @@ beleve
 butterpaste
 barkpeeling
 blunderheadedness
+bandgap
 bluism
 buna
 barrettes
