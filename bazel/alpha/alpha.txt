@@ -4008,6 +4008,7 @@ adjurer
 aphthae
 adjures
 aspersorium
+attesting
 autotyphization
 adjuring
 angeldom
@@ -23123,7 +23124,6 @@ attestator
 antiseption
 attested
 attester
-attesting
 acy
 attestor
 attests
