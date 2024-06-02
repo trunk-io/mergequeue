@@ -1753,7 +1753,6 @@ deaths
 deathsman
 depaysee
 deathtime
-deathtrap
 downtimes
 deathtraps
 drof
@@ -18047,6 +18046,7 @@ dangersome
 diwans
 dullification
 dulling
+deathtrap
 dullishly
 drometer
 dullity
