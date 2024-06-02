@@ -1402,7 +1402,6 @@ garlandry
 galvanist
 garlic
 glycolylurea
-geoside
 galloner
 glorifier
 gervao
@@ -7146,6 +7145,7 @@ gyttja
 gleeishly
 gremio
 gorble
+geoside
 gorblin
 gorcocks
 goniatite
