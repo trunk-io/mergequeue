@@ -3369,7 +3369,6 @@ gabback
 germanized
 germanizer
 germule
-germanness
 germinant
 genapped
 galactopoietic
@@ -8968,6 +8967,7 @@ greengrocers
 garoter
 grifting
 ghent
+germanness
 gneissose
 galt
 geographers

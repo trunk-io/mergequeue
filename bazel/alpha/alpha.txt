@@ -6195,6 +6195,7 @@ aglint
 aglipayan
 aglipayano
 aglypha
+avulsion
 analogal
 aglyphodont
 aglyphodonta
@@ -24878,7 +24879,6 @@ antinoness
 aedility
 avulses
 avulsing
-avulsion
 aponeurotome
 avuncular
 anteaters
