@@ -40,6 +40,7 @@ enumerated
 epidemiological
 emigrational
 eons
+exogonium
 equiangularity
 earbash
 earcockle
@@ -12684,7 +12685,6 @@ exogenously
 exogyra
 exognathite
 expunges
-exogonium
 encharge
 exometritis
 echo
