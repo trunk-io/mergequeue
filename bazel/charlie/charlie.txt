@@ -3401,7 +3401,6 @@ caprylyl
 caprylin
 caprylone
 caprimulgi
-caprimulgidae
 caprimulgiformes
 chinwood
 concertised
@@ -9074,6 +9073,7 @@ cloaks
 comus
 charking
 charlady
+caprimulgidae
 charladies
 celestiality
 cookings
