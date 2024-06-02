@@ -16841,7 +16841,6 @@ aphelinus
 aphelion
 aphemia
 ambidextrous
-aphemic
 aphengescope
 aphengoscope
 aphenoscope
@@ -24481,6 +24480,7 @@ autumnally
 autumnian
 autumnity
 autunites
+aphemic
 auturgy
 acroconidium
 auxanogram
