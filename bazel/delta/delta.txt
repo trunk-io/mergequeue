@@ -11017,7 +11017,6 @@ disanimal
 disanimation
 despots
 discomforted
-disadjust
 disannuller
 disannulment
 disincarcerate
@@ -14817,6 +14816,7 @@ doctorhood
 diethylenediamine
 dispensating
 doctorial
+disadjust
 doctorially
 doctoring
 doctorize
