@@ -10529,6 +10529,7 @@ batodendron
 brickfielder
 beeflower
 blastochyle
+bawlers
 blastocyte
 blastocoel
 blastocoele
@@ -17267,7 +17268,6 @@ bespecklement
 bedriveled
 bryology
 bello
-bawlers
 bumblers
 bumbles
 bootlaces
