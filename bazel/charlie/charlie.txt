@@ -14951,7 +14951,6 @@ cytocyst
 cytoclasis
 cytoclastic
 crioboly
-cytococci
 cytococcus
 cytode
 cytoderm
@@ -31385,6 +31384,7 @@ circumambulation
 compressing
 curled
 curledly
+cytococci
 centranthus
 curledness
 curler
