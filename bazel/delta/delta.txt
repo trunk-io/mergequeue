@@ -1490,6 +1490,7 @@ diffusor
 degomme
 dazzler
 disposal
+devocalised
 damselflies
 dagos
 dazzlers
@@ -5588,7 +5589,6 @@ depark
 dewdrops
 deparliament
 delighting
-devocalised
 depart
 dwining
 denials
