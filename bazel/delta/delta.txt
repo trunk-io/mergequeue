@@ -3693,7 +3693,6 @@ dumbfound
 defoliant
 dropforging
 deglutition
-deglutitious
 degold
 decathlon
 decomposite
@@ -10025,6 +10024,7 @@ depair
 descaling
 dynam
 dissightly
+deglutitious
 dynamic
 dynamically
 debarkations
