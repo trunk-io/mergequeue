@@ -8398,7 +8398,6 @@ centriciput
 challahs
 challas
 contraponend
-challengable
 challengeable
 challenged
 chamicuro
@@ -20532,6 +20531,7 @@ comparisons
 comparition
 compart
 comparted
+challengable
 compartimenti
 chimley
 comparting
