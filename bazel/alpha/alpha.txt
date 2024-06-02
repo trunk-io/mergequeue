@@ -8532,6 +8532,7 @@ autoheterodyne
 abdomens
 alkalization
 alkalize
+autoecholalia
 alkalizer
 alkalizes
 alkalizing
@@ -10067,7 +10068,6 @@ abvolt
 ambiguous
 anorthitite
 ambilateralaterally
-autoecholalia
 antipatharia
 ambiopia
 ambisextrous
