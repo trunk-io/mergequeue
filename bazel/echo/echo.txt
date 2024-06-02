@@ -1196,6 +1196,7 @@ esthetics
 environage
 embowelled
 edition
+encasement
 editions
 editor
 exploitation
@@ -4493,7 +4494,6 @@ endrin
 enworthy
 entirely
 epitonic
-encasement
 encases
 euryzygous
 embarrassing
