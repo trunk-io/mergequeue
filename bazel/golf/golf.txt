@@ -1719,7 +1719,6 @@ griper
 glossophytia
 gastrocentrous
 geomorphogenic
-geom
 greetingly
 garrotting
 gumlikeness
@@ -1764,6 +1763,7 @@ gastroenterology
 gelatination
 gastightness
 gastroenterologic
+geom
 gonarthritis
 guardants
 gabbler
