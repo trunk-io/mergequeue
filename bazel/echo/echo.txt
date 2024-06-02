@@ -6615,7 +6615,6 @@ enterococcal
 esperantidist
 enseam
 epiphanic
-expulsatory
 enterococcus
 enterocoela
 enterocoelous
@@ -8470,6 +8469,7 @@ elasmotherium
 eudaemonia
 ensigncy
 essera
+expulsatory
 emittent
 epizoon
 epizootically
