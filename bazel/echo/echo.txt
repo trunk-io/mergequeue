@@ -5629,7 +5629,6 @@ epithi
 enfrai
 ensnarers
 expressness
-enclitics
 enframed
 enfranch
 ethnarch
@@ -9589,6 +9588,7 @@ escrowing
 exceptio
 escudero
 esculents
+enclitics
 esculic
 esculin
 enciphered
