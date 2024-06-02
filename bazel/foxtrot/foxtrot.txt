@@ -2323,7 +2323,6 @@ fleuronne
 foambow
 fibrosarcoma
 flotation
-fenestrae
 foreword
 farreate
 fluoresced
@@ -3246,6 +3245,7 @@ firecracker
 fosterable
 forewarningly
 fictation
+fenestrae
 faecalith
 fictility
 fiction
