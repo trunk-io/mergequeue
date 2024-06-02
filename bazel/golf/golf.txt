@@ -162,6 +162,7 @@ geryon
 guarantees
 gastroscopic
 grubber
+glacialize
 gingerroot
 gardenmaker
 gaiter
@@ -4932,7 +4933,6 @@ garishness
 gamophagia
 ghostfish
 garbure
-glacialize
 glaciated
 grumbles
 glaciating
