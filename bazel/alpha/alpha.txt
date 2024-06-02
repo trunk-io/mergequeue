@@ -13901,7 +13901,6 @@ anorthoscope
 anorthose
 aguilawood
 anoscope
-angstrom
 approximatively
 aqueduct
 anoscopy
@@ -21086,6 +21085,7 @@ adjournment
 alabama
 anthelae
 afteryears
+angstrom
 asthorin
 anomural
 ascolichen
