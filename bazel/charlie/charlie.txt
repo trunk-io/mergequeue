@@ -7489,7 +7489,6 @@ cayuco
 ceramicite
 ceramics
 cledge
-ceramidium
 ceramium
 ceramographic
 cinnamic
@@ -9669,6 +9668,7 @@ cheepers
 cheepier
 cheepiest
 cheepiness
+ceramidium
 cyathozooid
 cheered
 cecil
