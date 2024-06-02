@@ -3432,7 +3432,6 @@ embattlement
 embed
 exsibilate
 euphonetic
-embedment
 embelic
 ectethmoid
 expenditures
@@ -6124,6 +6123,7 @@ enneahedron
 eyepoints
 enneahedrons
 eustatic
+embedment
 ethnicize
 enneandrian
 exorcisers
