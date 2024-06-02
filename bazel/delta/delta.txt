@@ -11154,7 +11154,6 @@ disagglomeration
 disbar
 dehydrant
 drubbings
-disbarment
 disbarred
 disbarring
 disbars
@@ -18535,6 +18534,7 @@ durukuli
 durzada
 disanimated
 dyslexic
+disbarment
 decentration
 dush
 dusked
