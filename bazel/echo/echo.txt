@@ -3867,7 +3867,6 @@ emesis
 emetia
 essie
 easiness
-extrabulbar
 excludible
 exemplarily
 engladden
@@ -10333,6 +10332,7 @@ ethylthioether
 evectic
 ethinamate
 ethyne
+extrabulbar
 ethynes
 elucidatory
 eunectes
