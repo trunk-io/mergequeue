@@ -4572,6 +4572,7 @@ generically
 gazehound
 gypsyhead
 gaitt
+gazook
 gloeocapsoid
 gadoid
 giglot
@@ -9883,7 +9884,6 @@ grendel
 gagman
 genders
 guans
-gazook
 glaked
 glacially
 guilty
