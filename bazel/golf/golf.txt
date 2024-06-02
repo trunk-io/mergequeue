@@ -2170,7 +2170,6 @@ grandness
 grottolike
 gastrostege
 geison
-gruffed
 gymnogenous
 gawking
 gawkish
@@ -3926,6 +3925,7 @@ giftwrap
 giftwrapping
 genitures
 gig
+gruffed
 geom
 gurgle
 gardenwards
