@@ -12415,7 +12415,6 @@ bombycilla
 bombs
 bombsights
 bardesanism
-bombus
 bombardelle
 bomi
 barbuts
@@ -16879,6 +16878,7 @@ bulbil
 bufonite
 bufotalin
 bufotoxin
+bombus
 baudekin
 buzukia
 ballproof
