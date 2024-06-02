@@ -5933,6 +5933,7 @@ agendums
 amovability
 agene
 ataxite
+ascidioida
 agenes
 ageneses
 agenesis
@@ -21042,7 +21043,6 @@ ascidiate
 angelologic
 ascidiform
 ascidioid
-ascidioida
 ascidioidea
 ascidiozoa
 ascidiozooid
