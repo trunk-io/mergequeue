@@ -13366,7 +13366,6 @@ cyclocoelous
 cyclo
 coulometric
 crossrail
-cycloaliphatic
 cycloalkane
 cyclobothra
 cyclobutane
@@ -20822,6 +20821,7 @@ complicator
 complicators
 calesa
 complice
+cycloaliphatic
 complicity
 complied
 complier

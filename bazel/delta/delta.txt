@@ -5871,7 +5871,6 @@ disgorgement
 dreiling
 dumbheaded
 depositive
-deposito
 depositor
 directively
 depositories
@@ -16541,6 +16540,7 @@ dilutions
 dottiness
 deadwoods
 dumpfile
+deposito
 draegermen
 deoxidator
 dynamogenic
