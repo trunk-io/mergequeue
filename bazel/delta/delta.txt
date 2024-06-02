@@ -12644,6 +12644,7 @@ defoliage
 divining
 die
 daubs
+defocus
 disks
 demipike
 diatrymiformes
@@ -13925,7 +13926,6 @@ distinctio
 divagations
 distinction
 disorient
-defocus
 dertrum
 disorganizer
 distinctity
