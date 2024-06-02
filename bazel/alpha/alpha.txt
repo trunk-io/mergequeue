@@ -8787,7 +8787,6 @@ allhallowtide
 allheals
 ally
 acestoma
-alliage
 alliance
 accoast
 anschluss
@@ -15161,6 +15160,7 @@ antidicomarian
 antidicomarianite
 antidictionary
 aegir
+alliage
 antidynastic
 antidynastical
 antidynastically
