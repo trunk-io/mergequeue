@@ -10324,7 +10324,6 @@ anacrusis
 apocenter
 allice
 ameliorations
-ameliorator
 amelioratory
 amellus
 amelu
@@ -19752,6 +19751,7 @@ acmesthesia
 acylal
 aryls
 arimathaean
+ameliorator
 agglutinins
 arioian
 arabidopsis
