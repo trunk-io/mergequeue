@@ -2971,7 +2971,6 @@ enricher
 exploiters
 ennoblers
 elicitors
-elicits
 expensefulness
 euchromatin
 emaciate
@@ -12822,6 +12821,7 @@ exoterical
 englutting
 exoterically
 escobadura
+elicits
 exotericism
 extenuated
 energised
