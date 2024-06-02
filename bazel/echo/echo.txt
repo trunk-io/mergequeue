@@ -12072,7 +12072,6 @@ egbert
 elastics
 expeditions
 excommunicant
-excommunication
 exploitage
 exterritorially
 episcias
@@ -13401,6 +13400,7 @@ expressmen
 expresso
 expressure
 exaltative
+excommunication
 ethmophysal
 electrotechnical
 expurge
