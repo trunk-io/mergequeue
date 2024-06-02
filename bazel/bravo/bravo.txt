@@ -68,6 +68,7 @@ blist
 babelize
 beshlik
 bimodulus
+blacklist
 babels
 babery
 baccarat
@@ -10258,7 +10259,6 @@ blackleg
 blacklegged
 blackleggery
 blacklegism
-blacklist
 bicycling
 blacklisted
 blacklister
