@@ -5908,7 +5908,6 @@ agedly
 agedness
 agednesses
 agee
-ageing
 anglophiles
 ageings
 archiannelida
@@ -14584,6 +14583,7 @@ anthropomancy
 anthropomantist
 anthropometer
 anthropometry
+ageing
 anthropometric
 antinucleon
 acrocarpi
