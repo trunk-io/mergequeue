@@ -11508,6 +11508,7 @@ authenticators
 amarelles
 acidimetric
 amusette
+aptate
 anisole
 amusia
 amusias
@@ -23731,7 +23732,6 @@ australioid
 aim
 australis
 acquit
-aptate
 australopithecinae
 assistantship
 amatorious
