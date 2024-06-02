@@ -62,7 +62,6 @@ babelish
 barouches
 bluestoner
 babelism
-bongar
 bendell
 blist
 babelize
@@ -1317,6 +1316,7 @@ bedbug
 bacterioprecipitin
 buffers
 bishophood
+bongar
 belledom
 bepuzzlement
 binational
