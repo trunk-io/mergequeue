@@ -3163,7 +3163,6 @@ cellvibrio
 capillitial
 capillitium
 capillose
-capillus
 capilotade
 caping
 coelelminthes
@@ -22337,6 +22336,7 @@ cordy
 conglomeration
 conglomerations
 conglomerative
+capillus
 conglomerator
 conglomeritic
 conglutin
