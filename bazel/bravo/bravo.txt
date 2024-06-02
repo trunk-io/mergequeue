@@ -10057,7 +10057,6 @@ bizarrerie
 bield
 biventral
 barbell
-baroscopical
 bargainor
 beggardom
 biverb
@@ -13182,6 +13181,7 @@ bortzes
 britannica
 borwort
 bumper
+baroscopical
 borzoi
 borzois
 boschbok
