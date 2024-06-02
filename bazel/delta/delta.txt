@@ -9628,7 +9628,6 @@ discommendable
 dihalogen
 dihdroxycholecalciferol
 dihedrals
-dihedron
 dhootie
 discipleship
 dishumour
@@ -13220,6 +13219,7 @@ deserveless
 droopily
 dispoint
 diety
+dihedron
 dispondee
 deputising
 dispone
