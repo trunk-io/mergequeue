@@ -2757,7 +2757,6 @@ decor
 diervilla
 diplopic
 decorable
-degreeless
 doubtfulness
 desertic
 decorament
@@ -4845,6 +4844,7 @@ demodex
 degreasing
 dangs
 dilated
+degreeless
 demodulates
 demodulating
 designless
