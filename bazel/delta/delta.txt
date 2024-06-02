@@ -9391,6 +9391,7 @@ diffide
 dunlin
 dottels
 diffidentness
+dicyclica
 dentirostres
 diffiding
 difforme
@@ -12344,7 +12345,6 @@ disharmonism
 didymiums
 deflectors
 dishaunt
-dicyclica
 deathweed
 dishcloth
 decrepity
