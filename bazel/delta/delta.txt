@@ -3716,7 +3716,6 @@ degraduation
 degras
 denigrative
 degravate
-deoxidized
 designees
 deplantation
 degreaser
@@ -10334,6 +10333,7 @@ demurrers
 diopter
 diopters
 dioptometer
+deoxidized
 disfavoring
 desilverizer
 discophore
