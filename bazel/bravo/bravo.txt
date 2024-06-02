@@ -5655,7 +5655,6 @@ bekisses
 buoys
 bekko
 befoolment
-blethering
 beknave
 beknight
 blossoming
@@ -16858,6 +16857,7 @@ buffoonish
 bungle
 bloomingness
 buffoonishness
+blethering
 benchwork
 bedead
 buras
