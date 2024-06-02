@@ -788,7 +788,6 @@ ecotype
 ecotypes
 ecotipically
 ecotypically
-ecotonal
 enclaved
 epiloia
 ecotones
@@ -11979,6 +11978,7 @@ excisemanship
 excises
 excision
 excystment
+ecotonal
 encinal
 exhibitant
 excitability
