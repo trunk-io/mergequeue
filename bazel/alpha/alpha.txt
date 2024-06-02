@@ -8487,7 +8487,6 @@ alkaligenous
 alkalimetry
 alkalimetric
 alkalimetrically
-alkaline
 alkalinisation
 alkalinise
 alkalinising
@@ -9375,6 +9374,7 @@ amphibiontic
 argos
 acerose
 alphabetic
+alkaline
 alphabetical
 adnumber
 alphabetically
