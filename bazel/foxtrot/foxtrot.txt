@@ -2740,6 +2740,7 @@ filaze
 frizziness
 fervence
 fortnightlies
+flectional
 forerunnership
 firebote
 ferventness
@@ -4775,7 +4776,6 @@ financed
 flagrancy
 freshens
 frostbiter
-flectional
 fenderless
 fibrinuria
 fetted
