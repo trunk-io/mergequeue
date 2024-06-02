@@ -1140,7 +1140,6 @@ calcographic
 calcsinter
 calcspar
 calcspars
-cotwal
 calctufa
 calctuff
 calculability
@@ -25417,6 +25416,7 @@ cornfactor
 comprising
 cornfed
 cornfields
+cotwal
 cornflag
 countersiege
 cornflakes
