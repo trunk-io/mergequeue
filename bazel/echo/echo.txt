@@ -8070,7 +8070,6 @@ eriodendron
 epinicia
 euphotic
 epinicial
-extrusion
 epinician
 epinicion
 encephalalgia
@@ -9699,6 +9698,7 @@ esophagometer
 evoked
 esophagomycosis
 esophagopathy
+extrusion
 esophagoplasty
 esophagoptosis
 esophagorrhagia
