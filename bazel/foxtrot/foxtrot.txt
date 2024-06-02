@@ -386,7 +386,6 @@ feldspathose
 forhoo
 faintly
 forborn
-ferrymen
 fearer
 filicauline
 faintness
@@ -4712,6 +4711,7 @@ follies
 flagellated
 flagellations
 fieldstrip
+ferrymen
 flunkeydom
 footwalls
 feif
