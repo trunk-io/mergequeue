@@ -659,6 +659,7 @@ bacteriotherapy
 bales
 bechances
 beletter
+bedimpling
 boracic
 bacteriotrypsin
 bynames
@@ -4747,7 +4748,6 @@ bedimple
 bedimples
 bowne
 billywix
-bedimpling
 bathymetrically
 bacterioid
 bella

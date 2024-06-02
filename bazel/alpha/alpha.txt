@@ -2281,7 +2281,6 @@ ayes
 achromobacter
 achromobacterieae
 achromoderma
-achromotrichia
 amygdalolith
 achromous
 articulability
@@ -13649,6 +13648,7 @@ autonavigators
 aquarists
 annuity
 authenticator
+achromotrichia
 annuities
 annul
 annular
