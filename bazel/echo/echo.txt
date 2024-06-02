@@ -2345,6 +2345,7 @@ exundation
 electroanalytic
 embassade
 electroanesthesia
+electromyograph
 eavesdrop
 electroballistics
 electrobath
@@ -13287,7 +13288,6 @@ exorcisms
 explosively
 explosiveness
 explosives
-electromyograph
 elusively
 embroiderer
 expone
