@@ -3014,7 +3014,6 @@ gonocyte
 gelose
 glovelike
 gobiiformes
-galgal
 gwiniad
 gatsby
 glitter
@@ -3558,6 +3557,7 @@ gluier
 glycolipid
 girding
 gibel
+galgal
 getae
 granet
 getatableness
