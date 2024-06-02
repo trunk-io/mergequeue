@@ -12817,7 +12817,6 @@ bepity
 blastoderm
 bookstand
 blemisher
-bookstore
 bookstores
 bipacks
 bioassayed
@@ -12993,6 +12992,7 @@ bombycillidae
 bandersnatch
 booziness
 bop
+bookstore
 bopeep
 blueleg
 bopyridae
