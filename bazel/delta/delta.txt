@@ -184,6 +184,7 @@ dunstable
 daedaloid
 dendroidal
 dreadful
+disroost
 daemonic
 displacement
 diel
@@ -13469,7 +13470,6 @@ disrobes
 disrobing
 dealerdom
 disroof
-disroost
 disrooted
 disrooting
 debenture
