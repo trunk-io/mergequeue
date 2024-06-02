@@ -17077,7 +17077,6 @@ diceratidae
 dismally
 diclinies
 diaplexus
-datacell
 disaffected
 driddle
 dysplastic
@@ -17861,6 +17860,7 @@ dourines
 dualin
 dudleya
 developmentalist
+datacell
 dudler
 diagnosis
 due
