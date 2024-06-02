@@ -2646,7 +2646,6 @@ electropyrometer
 epixylous
 electroplater
 electropolish
-electropower
 electropsychrometer
 executioner
 excitably
@@ -7140,6 +7139,7 @@ exportable
 enures
 evadible
 enuresises
+electropower
 envaye
 esogastritis
 envelope
