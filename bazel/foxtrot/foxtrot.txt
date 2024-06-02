@@ -5323,6 +5323,7 @@ freightment
 faunistic
 fleeces
 fleech
+framable
 fleeching
 fellowmen
 fleecy
@@ -7102,7 +7103,6 @@ forthward
 forecastles
 facer
 figwort
-framable
 fundamentalistic
 fenouillette
 flaughtbred
