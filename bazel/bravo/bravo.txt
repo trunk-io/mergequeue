@@ -5190,7 +5190,6 @@ beflum
 befluster
 baetylus
 befogging
-bewinter
 beguile
 befogs
 bottoms
@@ -11288,6 +11287,7 @@ bloubiskop
 bourgeois
 bloodguiltiness
 beglobed
+bewinter
 blouse
 bloused
 blearier
