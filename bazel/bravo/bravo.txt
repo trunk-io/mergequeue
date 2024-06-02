@@ -3227,7 +3227,6 @@ ballerinas
 basidigitale
 basidigitalia
 basidiolichen
-basidiomycete
 baclava
 bravish
 bushed
@@ -17612,6 +17611,7 @@ burghbote
 burgher
 burgherage
 beguine
+basidiomycete
 blowtubes
 brawniness
 boloneys

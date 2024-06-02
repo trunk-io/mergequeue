@@ -2983,6 +2983,7 @@ groggier
 greekery
 gnawable
 grindstone
+gundog
 geo
 gallerylike
 geoagronomic
@@ -10520,7 +10521,6 @@ gypsous
 grayishness
 goblinry
 gundie
-gundog
 girl
 genially
 geometrina
