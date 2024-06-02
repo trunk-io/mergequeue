@@ -8724,7 +8724,6 @@ alternationist
 allelomorphic
 allelomorphism
 allelopathy
-allelotropy
 allelotropic
 asexualizing
 allelotropism
@@ -19538,6 +19537,7 @@ abbest
 argents
 argentum
 adalid
+allelotropy
 anaconda
 argentums
 argh
