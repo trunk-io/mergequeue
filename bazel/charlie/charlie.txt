@@ -9619,7 +9619,6 @@ chapatty
 checkstring
 cuissen
 checksum
-construct
 checksummed
 checksumming
 castro
@@ -13632,6 +13631,7 @@ ciliform
 cocytean
 ciliiferous
 ciliiform
+construct
 ciliium
 cylinder
 constructing
