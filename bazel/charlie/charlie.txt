@@ -3636,7 +3636,6 @@ caramels
 conjugable
 commendam
 carancha
-carancho
 caranday
 carandas
 crepidomata
@@ -12325,6 +12324,7 @@ chrysopidae
 chrysopoeia
 chrysoprase
 chrysoprasus
+carancho
 counteradvice
 chrysops
 casement
