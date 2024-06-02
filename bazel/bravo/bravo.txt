@@ -1203,7 +1203,6 @@ bakelite
 bakelize
 bakemeats
 backslash
-bloop
 bakeout
 bakeoven
 bimillenniums
@@ -6519,6 +6518,7 @@ benzonitrile
 benzonitrol
 benzophenone
 benzophenothiazine
+bloop
 benzophloroglucinol
 benzophthalazine
 benzopyran
