@@ -7160,6 +7160,7 @@ gore
 gorebill
 gearboxes
 gored
+gooseneck
 gores
 gingerbready
 gorfly
@@ -8161,7 +8162,6 @@ glycerolyses
 glack
 grandfatherless
 governorships
-gooseneck
 glues
 graphemically
 gasconading
