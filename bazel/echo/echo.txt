@@ -2355,7 +2355,6 @@ epicenity
 eremitic
 excuderunt
 epistroma
-electrocardiogram
 electrocardiograph
 ever
 electrocardiographic
@@ -8237,6 +8236,7 @@ episememe
 episyllogism
 eisenhower
 episynthetic
+electrocardiogram
 expedientist
 essayette
 episyntheton
