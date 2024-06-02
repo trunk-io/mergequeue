@@ -13239,6 +13239,7 @@ accords
 animetta
 animi
 anabiosis
+azimuth
 animikean
 animikite
 animine
@@ -25269,7 +25270,6 @@ azimide
 azimin
 azimino
 azymite
-azimuth
 azimuthal
 azimuths
 azine
