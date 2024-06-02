@@ -2988,6 +2988,7 @@ actiniae
 axisymmetric
 appalment
 aguilarite
+apocyte
 ashless
 antozonite
 actiniarian
@@ -17159,7 +17160,6 @@ ascitic
 arcsin
 apocynthion
 apocynthions
-apocyte
 apocopate
 apocopated
 apocopating
