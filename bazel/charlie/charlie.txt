@@ -18152,7 +18152,6 @@ chicory
 coenosteum
 cacopharyngia
 coenotype
-coenotypic
 coenotrope
 coenthrone
 coenunuri
@@ -31534,6 +31533,7 @@ curtainwise
 curtays
 curtal
 curtalaxes
+coenotypic
 curtana
 curtate
 controversialists
