@@ -5159,7 +5159,6 @@ geophysics
 grittier
 guerdonless
 guillemet
-gunman
 gormless
 glareproof
 glib
@@ -7627,6 +7626,7 @@ grackle
 gradated
 gowdnook
 glagolitic
+gunman
 gradatively
 grafts
 goldbricks
