@@ -476,7 +476,6 @@ caddies
 cottons
 clinics
 chincough
-cadding
 commendatary
 candency
 cinerararia
@@ -12023,6 +12022,7 @@ choreutic
 chorial
 cilician
 choriamb
+cadding
 choriambic
 chorometry
 choriambize
