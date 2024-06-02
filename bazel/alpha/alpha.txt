@@ -1453,7 +1453,6 @@ alg
 anakinetic
 atka
 accessorily
-accessorius
 aviculture
 accessorize
 arsenobenzene
@@ -8862,6 +8861,7 @@ ao
 allobrogical
 allocatable
 absorption
+accessorius
 allocate
 allocatee
 anglophobes
