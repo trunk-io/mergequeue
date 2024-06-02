@@ -4160,7 +4160,6 @@ gastrectomies
 germanical
 gimcrack
 galictis
-gastroduodenotomy
 glandular
 grasswards
 gulfed
@@ -7657,6 +7656,7 @@ gradgrind
 gud
 gradient
 gamopetalae
+gastroduodenotomy
 gradin
 greenlander
 gobblers
