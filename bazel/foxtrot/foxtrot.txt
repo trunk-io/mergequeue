@@ -1175,7 +1175,6 @@ flexures
 flippers
 fingerlike
 forestaller
-fenite
 fogeater
 forefends
 farraginous
@@ -8473,6 +8472,7 @@ frogleaf
 flouring
 fluid
 faultless
+fenite
 fetlock
 formols
 formosity
