@@ -7946,7 +7946,6 @@ galvanotaxis
 grandfer
 glossina
 goniatitid
-gudge
 getups
 gasteropod
 glottogony
@@ -8519,6 +8518,7 @@ gravity
 gnathostomi
 gawsy
 gravitic
+gudge
 gardenin
 gretchen
 guarri
