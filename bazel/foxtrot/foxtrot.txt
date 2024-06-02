@@ -6275,7 +6275,6 @@ flukewort
 forelands
 follicle
 fluky
-flavour
 ferryhouse
 flukier
 fishy
@@ -7757,6 +7756,7 @@ foremean
 fasciately
 followingly
 foremeant
+flavour
 foremen
 fanbearer
 ferroprussic
