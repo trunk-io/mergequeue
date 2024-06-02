@@ -4644,6 +4644,7 @@ beday
 biddable
 bedamned
 bedamning
+behaviour
 beweep
 benzylpenicillin
 bituberculated
@@ -14070,7 +14071,6 @@ brachymetropic
 brachinus
 brachiocephalic
 burkites
-behaviour
 brachiocyllosis
 brachiocubital
 brachiolaria
