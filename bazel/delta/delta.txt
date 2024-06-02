@@ -306,6 +306,7 @@ dayak
 dayanim
 directories
 daybeacon
+dentirostral
 dipylon
 daybed
 disambiguation
@@ -5428,7 +5429,6 @@ dentins
 demagogically
 dentiroster
 duotype
-dentirostral
 dentist
 demonisms
 dribbler
