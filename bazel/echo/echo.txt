@@ -6392,7 +6392,6 @@ ensiform
 equilocation
 ensign
 electroplaque
-entranceway
 ensignry
 ensilages
 episcopal
@@ -8141,6 +8140,7 @@ exotic
 expositor
 epiglottidean
 epiphloeum
+entranceway
 etherize
 epiphonema
 emetins
