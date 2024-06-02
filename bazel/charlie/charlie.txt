@@ -18849,7 +18849,6 @@ coleopterist
 coleopterology
 catteries
 coleopterological
-coleopteron
 coleopterous
 coleoptile
 chromosomal
@@ -22627,6 +22626,7 @@ cryptanalysis
 connaturalize
 chalaza
 connaturalness
+coleopteron
 connature
 connaught
 connect
