@@ -5030,7 +5030,6 @@ folial
 flashes
 fishiest
 flashgun
-flashguns
 factitive
 flashiest
 faugh
@@ -5805,6 +5804,7 @@ fulcrums
 fitz
 floatless
 furbelows
+flashguns
 floatman
 floatsman
 flypapers
