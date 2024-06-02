@@ -8758,7 +8758,6 @@ chanteyman
 chantepleure
 chanterelle
 coronels
-cabinetmake
 chanters
 coinhering
 chantership
@@ -20707,6 +20706,7 @@ complaintful
 complaintiveness
 complaints
 complaisance
+cabinetmake
 complaisant
 cankerworms
 congregationally
