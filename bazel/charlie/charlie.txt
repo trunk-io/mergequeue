@@ -14409,7 +14409,6 @@ cassoni
 circummundane
 circummure
 circummuring
-circumnavigable
 circumnavigate
 circumnavigates
 corollike
@@ -28394,6 +28393,7 @@ conversations
 crawtae
 craze
 crazed
+circumnavigable
 crazedly
 crazes
 crazy

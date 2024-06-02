@@ -18439,7 +18439,6 @@ authoriser
 aragonian
 aragonitic
 antifoggant
-aragonspath
 araguane
 araguato
 araignee
@@ -24683,6 +24682,7 @@ avertable
 averted
 avertedly
 averter
+aragonspath
 autolyzed
 ambulia
 avertiment
