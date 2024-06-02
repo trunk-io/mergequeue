@@ -1643,7 +1643,6 @@ dealkylate
 daundered
 dealkylation
 dioxide
-deallocate
 deallocated
 daunter
 deallocates
@@ -11492,6 +11491,7 @@ discolouring
 discolourization
 discombobulate
 differencing
+deallocate
 diapase
 denominator
 demiparallel
