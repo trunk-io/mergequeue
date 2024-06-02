@@ -2981,7 +2981,6 @@ exeunt
 electrotropism
 elidible
 eligibility
-eligibles
 eligibly
 equipede
 endodontic
@@ -12789,6 +12788,7 @@ exordiums
 exordize
 exorhason
 ejectamenta
+eligibles
 egoists
 exortion
 eviler
