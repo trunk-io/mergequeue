@@ -9814,7 +9814,6 @@ buildingless
 babble
 boatels
 bioenergetics
-basilosaurus
 boatie
 byssogenous
 byssoid
@@ -17365,6 +17364,7 @@ burk
 bedraggles
 blotches
 buncombe
+basilosaurus
 bund
 boxier
 babes
