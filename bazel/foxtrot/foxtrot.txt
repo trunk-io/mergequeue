@@ -1757,7 +1757,6 @@ frustule
 featherbedded
 fistulana
 featherbird
-forfare
 foreshore
 floorman
 feathercut
@@ -8851,6 +8850,7 @@ fotmal
 foud
 folkvang
 forum
+forfare
 fredaine
 furbelow
 fouettee
