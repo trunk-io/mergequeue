@@ -3322,7 +3322,6 @@ basins
 bookkeeps
 brandenburgs
 bandaite
-basion
 babbler
 bloodiest
 basions
@@ -15104,6 +15103,7 @@ bribable
 bribeability
 bulblet
 bribed
+basion
 blossomhead
 bribees
 bribegiver
