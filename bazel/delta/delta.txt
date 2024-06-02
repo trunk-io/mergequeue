@@ -2695,7 +2695,6 @@ decompoundable
 diffractional
 decompoundly
 decompress
-dibble
 decompresses
 detectaphone
 delphinium
@@ -10045,6 +10044,7 @@ dynamitic
 denitrify
 dynamitical
 dynamitically
+dibble
 dynamitism
 dynamization
 doddle
