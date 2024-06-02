@@ -3070,7 +3070,6 @@ actinometry
 actinometrical
 actinometricy
 actinomyces
-actinomycese
 actinomycesous
 actinomycestal
 areche
@@ -16182,6 +16181,7 @@ allometric
 apomictic
 antisensitizing
 antiseptic
+actinomycese
 asseverate
 antiseptical
 antiseptically
