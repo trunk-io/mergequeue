@@ -6994,6 +6994,7 @@ aisles
 aissor
 aistopoda
 ait
+antiferromagnet
 aitch
 asphaltene
 antheral
@@ -9766,7 +9767,6 @@ agatelike
 amaas
 apterygotous
 argentina
-antiferromagnet
 amabel
 amabile
 amable
