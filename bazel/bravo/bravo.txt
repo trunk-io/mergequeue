@@ -6464,7 +6464,6 @@ benzein
 blinks
 benzene
 benzenediazonium
-benzenyl
 benzenoid
 billsticking
 briny
@@ -9208,6 +9207,7 @@ burling
 byordinary
 bioreaction
 bidented
+benzenyl
 bandagist
 brachygraphic
 biorhythm
