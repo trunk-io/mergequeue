@@ -11334,7 +11334,6 @@ amphithecium
 amphithyra
 amphithyron
 amphithura
-amphithurons
 amphithurthura
 alloquy
 amphitriaene
@@ -12382,6 +12381,7 @@ andreaeales
 andreas
 andrena
 andrewartha
+amphithurons
 andrewsite
 andria
 anthralin
