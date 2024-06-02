@@ -9527,7 +9527,6 @@ checkage
 checkback
 checkbird
 checkbite
-checkbits
 checkbook
 chachalaca
 climatically
@@ -11762,6 +11761,7 @@ choluria
 clinal
 choluteca
 chompers
+checkbits
 chomps
 cuffle
 commissionary
