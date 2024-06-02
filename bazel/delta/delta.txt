@@ -1649,7 +1649,6 @@ dealkalize
 dealkylate
 daundered
 dealkylation
-dioxide
 deallocate
 deallocated
 daunter
@@ -15927,6 +15926,7 @@ dossy
 deradenoncus
 dossier
 dossil
+dioxide
 dartos
 dormition
 devilwood
