@@ -5883,7 +5883,6 @@ agallop
 agedly
 agedness
 agednesses
-agee
 ageing
 anglophiles
 ageings
@@ -21687,6 +21686,7 @@ assaultable
 anthramin
 alfred
 airest
+agee
 antiquer
 assaulter
 attainably

@@ -1983,7 +1983,6 @@ glistering
 galidia
 glaikit
 gavelmen
-gunboat
 gaudless
 gastromycosis
 gammoner
@@ -10657,6 +10656,7 @@ gladius
 gagmen
 gurglet
 gurgling
+gunboat
 glaumrie
 guardee
 gurgoyle
