@@ -7850,7 +7850,6 @@ cerulignol
 cerulignone
 ceruloplasmin
 cerumen
-cellarman
 cerumens
 ceruminal
 casa
@@ -17457,6 +17456,7 @@ coaxy
 clinoaxis
 cordigeri
 coaxial
+cellarman
 coaxing
 coazervate
 coazervation
