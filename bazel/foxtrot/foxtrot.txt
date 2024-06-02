@@ -1666,7 +1666,6 @@ futilities
 forestaffs
 fevergum
 faxes
-festshrifts
 fivepence
 fructuosity
 featishly
@@ -3127,6 +3126,7 @@ forfeitableness
 frizzlier
 festology
 foxinesses
+festshrifts
 flitter
 fillmass
 fibrinose
