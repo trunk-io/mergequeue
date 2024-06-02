@@ -2745,7 +2745,6 @@ electrotypist
 electrotitration
 esquamulose
 electrotrephine
-electrotropic
 electrophilically
 electrovalent
 eosinophilia
@@ -7249,6 +7248,7 @@ enderon
 erythropoietic
 enzymolysis
 extrudability
+electrotropic
 eupnoeas
 eatableness
 electroplated
