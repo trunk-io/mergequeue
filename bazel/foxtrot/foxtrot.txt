@@ -7395,6 +7395,7 @@ fey
 foisted
 forceput
 fazing
+flabs
 funt
 fileable
 forcet
@@ -9758,7 +9759,6 @@ freakful
 frenchly
 frenchman
 floatable
-flabs
 forestick
 flycaster
 fevery
