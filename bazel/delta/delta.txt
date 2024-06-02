@@ -6622,7 +6622,6 @@ draglines
 deprecations
 desegregation
 duststorm
-deselected
 deselecting
 desiccants
 dauphiness
@@ -12734,6 +12733,7 @@ doily
 disloyal
 dotardly
 develope
+deselected
 disloyalist
 disloyally
 dieback
