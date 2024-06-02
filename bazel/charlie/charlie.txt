@@ -14810,7 +14810,6 @@ cystose
 cardioschisis
 cystosyrinx
 cystospasm
-cystospastic
 cystospore
 cystostomy
 cystostomies
@@ -23759,6 +23758,7 @@ couxio
 contradictoriness
 contradicts
 celeomorphae
+cystospastic
 contradistinct
 contradistinctions
 contradistinctive
