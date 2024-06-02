@@ -6269,7 +6269,6 @@ grammar
 germiparity
 grammaticize
 garters
-gadfly
 garibaldi
 goadsman
 gazetteers
@@ -9554,6 +9553,7 @@ girgasite
 ganglioform
 gesticularious
 geophones
+gadfly
 genealogize
 gazed
 gynecologist
