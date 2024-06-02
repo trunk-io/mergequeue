@@ -7203,7 +7203,6 @@ footslog
 furious
 flockman
 frameworks
-footslogger
 financiery
 fuseau
 fatstocks
@@ -8227,6 +8226,7 @@ fractious
 federates
 forewarn
 forgivenesses
+footslogger
 feists
 fortuities
 flump
