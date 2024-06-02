@@ -3212,7 +3212,6 @@ capitatim
 coproduct
 capitation
 casimere
-capitations
 cyclotomy
 capitatum
 capite
@@ -27497,6 +27496,7 @@ covalency
 carpoptosis
 coriander
 calorize
+capitations
 corallike
 chrysorin
 covalent
