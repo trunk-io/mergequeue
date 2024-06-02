@@ -10200,7 +10200,6 @@ ambrosiaceae
 ambrosially
 ambrosian
 ambrosias
-ambrosiate
 ambrosin
 anteclassical
 ambrosine
@@ -11811,6 +11810,7 @@ analysers
 addressee
 arbitre
 analyses
+ambrosiate
 analysing
 antimoniate
 analysis
