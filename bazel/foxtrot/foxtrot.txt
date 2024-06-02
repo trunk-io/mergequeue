@@ -2686,6 +2686,7 @@ frumentation
 familiarisation
 ferrules
 fanman
+flutterboard
 fissionability
 fabric
 freshes
@@ -6520,7 +6521,6 @@ flutter
 firebed
 flutterable
 facultative
-flutterboard
 fluttered
 furnacer
 ferial
