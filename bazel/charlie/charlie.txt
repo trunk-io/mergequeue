@@ -2028,7 +2028,6 @@ campagus
 campaign
 clotheshorses
 campaigners
-campaigns
 campana
 campane
 campanella
@@ -27095,6 +27094,7 @@ comatulid
 counterraid
 counterreaction
 counterreckoning
+campaigns
 counterrefer
 congoni
 coccule
