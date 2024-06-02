@@ -1015,6 +1015,7 @@ fardage
 farded
 forklifts
 fardel
+forehand
 foxhound
 fardelet
 farding
@@ -5869,7 +5870,6 @@ floeberg
 faniente
 formers
 facilely
-forehand
 flogmaster
 forjesket
 flogs
