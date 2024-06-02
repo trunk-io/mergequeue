@@ -4520,7 +4520,6 @@ bereavement
 beclog
 beclogged
 bludging
-beclogging
 beclogs
 bretonian
 bilabials
@@ -7789,6 +7788,7 @@ bf
 bhabar
 belemnites
 blaine
+beclogging
 bacchanalization
 bhagat
 bhagavat
