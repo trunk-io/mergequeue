@@ -4305,6 +4305,7 @@ effluxes
 env
 emulsoids
 enteropathogenic
+ephestia
 emunctory
 electroencephalographic
 enlay
@@ -4934,7 +4935,6 @@ extemporaneous
 encrinoid
 ende
 errite
-ephestia
 endocardium
 eurytomid
 ectodermic
