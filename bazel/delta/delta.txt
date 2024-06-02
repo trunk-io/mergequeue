@@ -5390,6 +5390,7 @@ dentelliere
 dentelure
 davit
 dentes
+dragonne
 dealable
 docimasies
 dorsimesal
@@ -13054,7 +13055,6 @@ develed
 dispensatress
 dispensed
 dispensers
-dragonne
 dispenses
 dabbed
 diactine
