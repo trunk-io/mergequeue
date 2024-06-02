@@ -12908,7 +12908,6 @@ anglist
 aerostation
 anglistics
 ailette
-anglo
 anglogaea
 anthemwise
 antihumanist
@@ -23902,6 +23901,7 @@ autobiology
 autoboat
 autoboating
 autobuses
+anglo
 autobusses
 ariettes
 autocall
