@@ -3636,6 +3636,7 @@ adenoacanthoma
 adenocarcinoma
 adenocarcinomas
 aulacocarpous
+aphengoscope
 adenocarcinomata
 akepiros
 adenochondroma
@@ -16847,7 +16848,6 @@ aphemia
 ambidextrous
 aphemic
 aphengescope
-aphengoscope
 aphenoscope
 apheresis
 apheses
