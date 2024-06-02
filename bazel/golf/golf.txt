@@ -5914,7 +5914,6 @@ glorifiable
 garnishees
 grain
 glovemaker
-gibbets
 gametes
 gloveman
 glover
@@ -10123,6 +10122,7 @@ greener
 gresil
 galahs
 gastropods
+gibbets
 grammarian
 guirlande
 gasoscope
