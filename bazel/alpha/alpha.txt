@@ -2372,7 +2372,6 @@ arenose
 arteriole
 aulacodus
 acierage
-acierate
 androcles
 acierated
 acierates
@@ -15845,6 +15844,7 @@ antipetalous
 antipewism
 antipharmic
 astonished
+acierate
 antiphase
 aviolite
 amidic
