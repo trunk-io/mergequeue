@@ -4215,6 +4215,7 @@ breastpiece
 balminess
 beards
 bearer
+bedrenched
 ballhausplatz
 bras
 bearhound
@@ -4821,7 +4822,6 @@ bedrapes
 bedraping
 bedread
 bedrench
-bedrenched
 baldling
 bedrenches
 bedribble
