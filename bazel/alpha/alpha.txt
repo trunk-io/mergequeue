@@ -938,7 +938,6 @@ absonous
 absorb
 adiathermanous
 absorbable
-absorbancy
 absorbed
 acescency
 absorbedness
@@ -6852,6 +6851,7 @@ advantageous
 argentarius
 afterband
 amyrin
+absorbancy
 airdock
 autopsic
 airdrome
