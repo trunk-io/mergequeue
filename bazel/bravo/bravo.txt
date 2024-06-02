@@ -5246,7 +5246,6 @@ bluebead
 befretting
 buoyage
 befriended
-bellbind
 befriender
 benignly
 befriending
@@ -13026,6 +13025,7 @@ boras
 borasca
 bemeet
 borasque
+bellbind
 borassus
 barouchet
 boraxes
