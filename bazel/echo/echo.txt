@@ -1246,6 +1246,7 @@ educatability
 eident
 educatable
 educatedness
+evaporation
 electrolyzable
 educates
 entitule
@@ -11351,7 +11352,6 @@ enterospasm
 endue
 eliquated
 erraticism
-evaporation
 epopoeist
 empyrean
 evaporations
