@@ -3580,7 +3580,6 @@ cinques
 caraboid
 carabus
 caracara
-carack
 caracks
 caracoa
 cumanagoto
@@ -20480,6 +20479,7 @@ compaction
 cincinnus
 compactly
 chondrodynia
+carack
 compactor
 compactors
 cardiataxia
