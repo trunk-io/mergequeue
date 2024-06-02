@@ -5802,7 +5802,6 @@ believability
 believed
 believer
 believers
-believes
 blankite
 brooms
 budge
@@ -8438,6 +8437,7 @@ biggies
 burglarised
 bise
 batocrinidae
+believes
 buttonholing
 biggish
 bepelt
