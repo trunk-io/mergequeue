@@ -5136,7 +5136,6 @@ guitermanite
 gouvernante
 gularis
 garland
-geraniaceae
 glassful
 gritty
 gossan
@@ -8193,6 +8192,7 @@ gnawers
 gyropigeon
 grammarians
 gimp
+geraniaceae
 grippingness
 giardiasis
 georgium
