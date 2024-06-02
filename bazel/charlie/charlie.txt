@@ -24,7 +24,6 @@ cnicus
 cabalist
 cabalistic
 cabalistical
-courier
 cabalistically
 cabalists
 caball
@@ -6529,6 +6528,7 @@ cb
 coeditorship
 cc
 ccesser
+courier
 cachemia
 coryphaeus
 cchaddoorck
