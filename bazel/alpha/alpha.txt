@@ -4127,6 +4127,7 @@ admit
 allowanced
 admits
 admittable
+apotelesm
 antedate
 admittance
 admittatur
@@ -17511,7 +17512,6 @@ apotactite
 aillt
 arciferous
 astuciously
-apotelesm
 ancients
 apotelesmatical
 apothecal

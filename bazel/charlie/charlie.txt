@@ -3199,6 +3199,7 @@ cubatures
 capitalize
 cananaean
 coremium
+corker
 capitalized
 capitalizer
 capitalizers
@@ -25310,7 +25311,6 @@ corkboard
 conventionalized
 cadence
 cordages
-corker
 corkers
 cense
 corkier
