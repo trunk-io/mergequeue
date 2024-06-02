@@ -5322,7 +5322,6 @@ gamecraft
 grenade
 gullet
 glomerulus
-glenohumeral
 glenoid
 greensick
 glenoidal
@@ -7491,6 +7490,7 @@ goutweed
 glitch
 griffs
 giddea
+glenohumeral
 gastrodisk
 gymnogen
 governableness
