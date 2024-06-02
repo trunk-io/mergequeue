@@ -5244,7 +5244,6 @@ endopterygota
 endopterygote
 endoradiosonde
 eupathy
-enkernel
 embrake
 enkindling
 evened
@@ -7348,6 +7347,7 @@ epanalepsis
 evanition
 escruage
 enolize
+enkernel
 extrauterine
 epanaphora
 electuaries
