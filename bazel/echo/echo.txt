@@ -3096,6 +3096,7 @@ enlistment
 elem
 ellipsis
 ergatocracy
+exdividend
 emblematic
 ellipsograph
 experienceable
@@ -12222,7 +12223,6 @@ extract
 excussing
 eggar
 exdie
-exdividend
 estuaries
 eucolite
 exeat
