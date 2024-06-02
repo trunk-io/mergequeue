@@ -5142,7 +5142,6 @@ glasshouses
 glassie
 gateaux
 glued
-griecep
 glassies
 glassin
 gastrorrhagia
@@ -6585,6 +6584,7 @@ graphometrical
 gardenesque
 guideship
 goldy
+griecep
 gritting
 goldish
 guerillas
