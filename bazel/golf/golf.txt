@@ -6580,7 +6580,6 @@ generates
 grower
 gambrelled
 goldfields
-goldfinny
 graphometrical
 gardenesque
 guideship
@@ -7418,6 +7417,7 @@ gravures
 garrulous
 grangerized
 gnatproof
+goldfinny
 gesellschaften
 galenas
 goularo
