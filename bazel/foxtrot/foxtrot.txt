@@ -1108,6 +1108,7 @@ financial
 faro
 floriken
 floter
+fitment
 foredestining
 foremast
 farolito
@@ -8922,7 +8923,6 @@ fountainheads
 flections
 fourre
 folktales
-fitment
 faroeish
 flout
 fountainlike
