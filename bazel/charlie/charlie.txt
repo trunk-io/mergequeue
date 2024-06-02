@@ -3979,7 +3979,6 @@ carcinologist
 carcinoma
 carcinomas
 creameryman
-carcinomata
 corroborees
 carcinomatoid
 carcinomatosis
@@ -12495,6 +12494,7 @@ chromiole
 chromism
 chromite
 chromites
+carcinomata
 chromitite
 conacre
 courtroom
