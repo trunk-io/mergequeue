@@ -3712,7 +3712,6 @@ adenophore
 alphabetics
 adenophorous
 accumulative
-adenopodous
 adenosarcoma
 adenosarcomata
 adiaphoristic
@@ -24596,6 +24595,7 @@ aveloz
 avena
 agouti
 avenage
+adenopodous
 afrogaean
 avenant
 avenary
