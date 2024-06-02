@@ -66,7 +66,6 @@ bongar
 bendell
 blist
 babelize
-beshlik
 bimodulus
 babels
 babery
@@ -768,6 +767,7 @@ badju
 betterer
 badland
 badlands
+beshlik
 buba
 bat
 badman
