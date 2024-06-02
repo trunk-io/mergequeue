@@ -3525,7 +3525,6 @@ addleheadedness
 addleness
 addlepate
 angiotome
-adjudge
 addlepated
 addlepatedness
 addles
@@ -12525,6 +12524,7 @@ appropriated
 anemography
 anemographically
 anemologic
+adjudge
 anemometer
 anemometers
 anemometrical
