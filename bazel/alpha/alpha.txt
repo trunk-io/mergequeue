@@ -4431,6 +4431,7 @@ adstipulator
 adterminal
 adtevac
 aduana
+ambles
 adular
 arrestor
 adularescence
@@ -10107,7 +10108,6 @@ ambleocarpus
 ambler
 amblers
 awakes
-ambles
 aphthonite
 amahs
 asteroidean
