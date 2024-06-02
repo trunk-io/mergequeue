@@ -5825,7 +5825,6 @@ catenarian
 catenas
 catenate
 crooisite
-catenates
 catenating
 cerberic
 catenation
@@ -25602,6 +25601,7 @@ chese
 coronium
 coronobasilar
 coronofrontal
+catenates
 coronograph
 conemaker
 crenelation
