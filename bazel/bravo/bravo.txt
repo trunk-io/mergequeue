@@ -5485,7 +5485,6 @@ barbacoa
 behale
 behalf
 behallow
-behammer
 beshine
 behap
 bookmonger
@@ -7044,6 +7043,7 @@ besiege
 besiegers
 besieges
 bedeman
+behammer
 besin
 besit
 beslab
