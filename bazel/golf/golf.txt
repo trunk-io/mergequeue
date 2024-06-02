@@ -1601,6 +1601,7 @@ gasolier
 gangland
 grouse
 gasoliers
+gravigrada
 gasometry
 gastrodisc
 garlandlike
@@ -6994,7 +6995,6 @@ globoid
 geostatics
 gastrozooid
 goodwife
-gravigrada
 geometrid
 grecians
 gnostically
