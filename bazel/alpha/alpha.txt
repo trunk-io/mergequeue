@@ -1782,7 +1782,6 @@ apectomy
 accusatorial
 accusatorially
 accusatrix
-accusatrixes
 accuse
 amidships
 accused
@@ -10185,6 +10184,7 @@ ambrain
 ambreate
 acleistocardia
 acidimetry
+accusatrixes
 ambreic
 ambrein
 archdiocese
