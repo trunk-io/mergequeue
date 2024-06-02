@@ -3064,7 +3064,6 @@ barvell
 beduin
 brainwashing
 bimetal
-bakerite
 boffola
 basipoditic
 ballon
@@ -5532,6 +5531,7 @@ behenic
 bemixed
 behests
 beehouse
+bakerite
 behew
 busybodied
 bedfordshire
