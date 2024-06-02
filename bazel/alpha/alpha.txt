@@ -5956,7 +5956,6 @@ archprototype
 advanceable
 archsnob
 achromats
-agents
 ageometrical
 ager
 ageratums
@@ -12257,6 +12256,7 @@ ancien
 anciency
 anciennete
 anciens
+agents
 ancientest
 ancienty
 anciently
