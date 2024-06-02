@@ -4957,6 +4957,7 @@ confessionist
 cartographically
 cartomancies
 carton
+complotter
 cartoner
 cartonful
 cartoning
@@ -20846,7 +20847,6 @@ complines
 complins
 complot
 complots
-complotter
 complotting
 complutensian
 clonuses
