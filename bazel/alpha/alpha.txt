@@ -4980,6 +4980,7 @@ aerodromes
 acetyltannin
 aeroduct
 aeroducts
+appinite
 aeroelastic
 aeroelasticity
 aeroelastics
@@ -13402,7 +13403,6 @@ anisotropism
 anystidae
 anisum
 anither
-appinite
 adjudicata
 appliably
 anytime
