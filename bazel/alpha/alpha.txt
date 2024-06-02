@@ -11837,7 +11837,6 @@ analyze
 analyzed
 analyzers
 alypin
-adjudicator
 analyzes
 analyzing
 analkalinity
@@ -19463,6 +19462,7 @@ argala
 australasian
 apiin
 acontius
+adjudicator
 arthrobranchia
 arithmetics
 argals
