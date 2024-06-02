@@ -17164,6 +17164,7 @@ coadjutorship
 coadjutress
 coadjutrix
 coadjuvant
+crossing
 coadjuvate
 candystick
 coadminister
@@ -29890,7 +29891,6 @@ crosshatching
 crosshaul
 crosshauling
 chipper
-crossing
 crossings
 crossite
 crossjack
