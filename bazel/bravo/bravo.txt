@@ -10548,6 +10548,7 @@ blastocyte
 blastocoel
 blastocoele
 blephara
+butty
 blastodermic
 blastodisc
 blastoffs
@@ -18284,7 +18285,6 @@ breed
 beryciform
 boomeranging
 burrowing
-butty
 biovulate
 buffoonism
 bamah
