@@ -54,7 +54,6 @@ annotation
 abacuses
 abaddon
 abadejo
-amphigonia
 abadengo
 abadia
 abadite
@@ -13190,6 +13189,7 @@ adenostemonous
 aphidicolous
 androgametangium
 animalisation
+amphigonia
 animalise
 animalising
 anathematizing
