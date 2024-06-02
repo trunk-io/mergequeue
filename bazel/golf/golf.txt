@@ -1931,7 +1931,6 @@ gyrostabilized
 gatewoman
 galidictis
 guffaw
-gatherable
 gilgai
 galacturia
 gruffily
@@ -4765,6 +4764,7 @@ gyrophoraceous
 glance
 ghafir
 gyroscope
+gatherable
 goosishly
 galli
 glycolipide
