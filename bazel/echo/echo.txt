@@ -3005,7 +3005,6 @@ eliminator
 earmarked
 eliminators
 embosk
-elymus
 elinguate
 elinguating
 eleatic
@@ -11166,6 +11165,7 @@ erroneously
 euterpe
 echar
 euterpean
+elymus
 eutexia
 euthamia
 euthenasia
