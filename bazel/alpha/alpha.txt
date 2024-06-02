@@ -6685,7 +6685,6 @@ ailanthus
 aversive
 achromatised
 ailanthuses
-ailantine
 ailanto
 aile
 ailed
@@ -18882,6 +18881,7 @@ apotropaism
 anaplasis
 angioneoplasm
 archenia
+ailantine
 archeocyte
 acneform
 archeolithic
