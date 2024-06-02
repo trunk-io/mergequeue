@@ -4317,7 +4317,6 @@ gaillard
 griph
 gisarme
 gilts
-gynandria
 gynandrian
 gynandries
 galenian
@@ -6832,6 +6831,7 @@ glycogens
 generates
 goosefishes
 gallops
+gynandria
 ganocephala
 grouted
 grossart
