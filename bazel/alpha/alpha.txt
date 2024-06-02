@@ -6202,6 +6202,7 @@ aglossa
 astrolabes
 aglossal
 aglossia
+awned
 aglow
 aglucon
 agma
@@ -25027,7 +25028,6 @@ awlwort
 awlworts
 awmous
 awn
-awned
 awner
 awning
 awninged
