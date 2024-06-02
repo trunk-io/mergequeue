@@ -5720,7 +5720,6 @@ glomerella
 granadilla
 glomeroporphyritic
 gallinago
-gradative
 grx
 glossarially
 gregau
@@ -9432,6 +9431,7 @@ groundbird
 gypsums
 groundedly
 gets
+gradative
 grassation
 grounden
 gallybeggar
