@@ -4194,7 +4194,6 @@ bioblast
 biassing
 boomlet
 bicompact
-beard
 bankrupts
 bodysurfs
 beggars
@@ -4535,6 +4534,7 @@ bootee
 beclowned
 burlier
 bedeafen
+beard
 becluster
 bromizer
 becollier
