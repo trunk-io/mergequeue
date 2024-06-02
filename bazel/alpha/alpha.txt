@@ -6963,7 +6963,6 @@ airstrip
 airstrips
 adrent
 airt
-adibasi
 airted
 ablepharia
 anthranil
@@ -15366,6 +15365,7 @@ aminoacetanilide
 arcadings
 antigraph
 antigravitate
+adibasi
 akey
 awalim
 antigravitation

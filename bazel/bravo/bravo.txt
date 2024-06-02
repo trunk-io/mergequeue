@@ -5205,6 +5205,7 @@ baetylus
 befogging
 bewinter
 beguile
+buttoned
 befogs
 bottoms
 batoid
@@ -18308,7 +18309,6 @@ button
 buttonball
 burtons
 buttonbush
-buttoned
 borealis
 baddishly
 basidiocarp
