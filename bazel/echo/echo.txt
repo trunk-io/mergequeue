@@ -8822,7 +8822,6 @@ equoidean
 eucalypt
 erade
 exhedra
-enfeebler
 enormousness
 ends
 euphyllite
@@ -13797,6 +13796,7 @@ encodes
 earring
 endowers
 extratropical
+enfeebler
 extendible
 extracerebral
 effervescingly
