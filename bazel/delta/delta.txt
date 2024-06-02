@@ -5793,7 +5793,6 @@ deplump
 depoetize
 disclaimers
 depoh
-depolarisation
 depolarise
 drapeable
 depolariser
@@ -9932,6 +9931,7 @@ dimyaria
 dimidiate
 dimidiation
 downcourt
+depolarisation
 diminish
 dipneustal
 dogmata
