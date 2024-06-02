@@ -5076,7 +5076,6 @@ aerophysics
 alkylogen
 aerophyte
 aerophobic
-aerophor
 aerophore
 antithermic
 aloneness
@@ -20772,6 +20771,7 @@ artificiality
 artificialities
 artificially
 amphitokous
+aerophor
 artilize
 artiller
 artillery
