@@ -6574,7 +6574,6 @@ goldenrod
 gelatinising
 goldentop
 grapewise
-gastrea
 golder
 grower
 gambrelled
@@ -9443,6 +9442,7 @@ groundneedle
 galenical
 gobang
 glim
+gastrea
 gonadectomizing
 groundskeeping
 gasped
