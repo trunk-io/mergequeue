@@ -4505,7 +4505,6 @@ beclang
 barrable
 bickers
 beclaw
-bassoonist
 besieged
 bloodstanch
 becloak
@@ -10973,6 +10972,7 @@ beetler
 begun
 blackbeetle
 blinis
+bassoonist
 blinkard
 blesbuck
 blinkards
