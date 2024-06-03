@@ -1705,7 +1705,6 @@ fluidizes
 fluellin
 fearful
 fathometer
-frypan
 foresight
 faucets
 fieldmice
@@ -6739,6 +6738,7 @@ fumette
 formulized
 foresighted
 forestep
+frypan
 furthersome
 foison
 flavorers
