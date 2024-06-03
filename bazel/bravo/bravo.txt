@@ -4180,7 +4180,6 @@ bagge
 beans
 beansetter
 beanshooter
-beanstalk
 beanstalks
 begrain
 beanweed
@@ -6470,6 +6469,7 @@ birdwise
 brendan
 bhili
 beadiness
+beanstalk
 benzyl
 benzylamine
 benzilic
