@@ -2690,7 +2690,6 @@ befog
 barley
 barleybrake
 broadener
-barleycorn
 barleyhood
 biologese
 basidiophore
@@ -18248,6 +18247,7 @@ bases
 butteryfingered
 bundook
 bumboatmen
+barleycorn
 butteriness
 butteris
 butterjags
