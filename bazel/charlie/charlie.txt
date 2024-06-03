@@ -13070,7 +13070,6 @@ clothes
 cyanids
 cyanimide
 cyanine
-cyanines
 contingent
 cyanite
 cyanitic
@@ -25601,6 +25600,7 @@ coronobasilar
 coronofrontal
 catenates
 coronograph
+cyanines
 conemaker
 crenelation
 coronographic
