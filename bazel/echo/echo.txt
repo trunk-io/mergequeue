@@ -2719,6 +2719,7 @@ enmesh
 edaphodont
 electrotherapy
 electrotherapist
+epidemic
 electrotheraputic
 emyds
 electrothermal
@@ -7734,7 +7735,6 @@ endomesoderm
 euphemiser
 epideistic
 enthymematical
-epidemic
 eriocaulaceous
 estrus
 entrancer
