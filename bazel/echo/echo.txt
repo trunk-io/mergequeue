@@ -4455,6 +4455,7 @@ elaboratory
 everest
 encapsulation
 emitted
+episememe
 encapsuled
 estimators
 encapsules
@@ -8240,7 +8241,6 @@ episcopized
 eyeteeth
 episcotister
 episedia
-episememe
 episyllogism
 eisenhower
 euchromatin
