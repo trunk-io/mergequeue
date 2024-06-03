@@ -1345,7 +1345,6 @@ dipentine
 demissive
 dunno
 dompt
-dauntingly
 damagement
 dart
 dauntingness
@@ -12640,6 +12639,7 @@ die
 daubs
 disks
 demipike
+dauntingly
 diatrymiformes
 doctrinable
 disleaf
