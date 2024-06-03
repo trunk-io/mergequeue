@@ -898,6 +898,7 @@ gamelang
 gonagia
 gamelans
 gameless
+geocyclic
 gamelike
 goracco
 gadids
@@ -3017,7 +3018,6 @@ galeres
 growlier
 glumpish
 gifting
-geocyclic
 gnat
 glideless
 gymnosoph
