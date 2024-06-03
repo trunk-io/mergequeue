@@ -2999,7 +2999,6 @@ chicadee
 cantwise
 canula
 canulae
-copiability
 canulas
 chthonophagy
 canulates
@@ -11492,6 +11491,7 @@ choanephora
 choanocytal
 choanocyte
 choanoflagellate
+copiability
 choanoflagellida
 cotta
 cryptanalytical
