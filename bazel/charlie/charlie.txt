@@ -2081,6 +2081,7 @@ coniopterygidae
 channeler
 campers
 chiloma
+collimator
 campesinos
 campestral
 cordelier
@@ -19151,7 +19152,6 @@ collimated
 collimates
 collimating
 collimation
-collimator
 collin
 colline
 collections

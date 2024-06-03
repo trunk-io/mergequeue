@@ -667,7 +667,6 @@ falutin
 falx
 fernambuck
 famacide
-ferromagnet
 fletcherite
 flatweed
 furlanas
@@ -10883,6 +10882,7 @@ folioing
 footwarmers
 freedwomen
 finished
+ferromagnet
 foreteller
 fluxroot
 fistify
