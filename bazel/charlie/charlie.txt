@@ -3258,7 +3258,6 @@ chobdar
 campshot
 capitulator
 capituliform
-capiturlary
 counterlighted
 celebratory
 coilers
@@ -20073,6 +20072,7 @@ commendations
 commendator
 charlotte
 confront
+capiturlary
 circularizations
 champert
 commendatorily
