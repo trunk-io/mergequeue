@@ -3176,7 +3176,6 @@ admonishing
 aliners
 aid
 acton
-actory
 actorship
 actress
 actresses
@@ -18823,6 +18822,7 @@ appendent
 archdioceses
 apposiopestic
 archdiplomatist
+actory
 archdivine
 archdogmatist
 archdolt
