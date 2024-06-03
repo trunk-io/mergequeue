@@ -5946,7 +5946,6 @@ cathected
 cathecting
 cathection
 cathects
-cathedra
 cuneocuboid
 cathedraled
 cathedralesque
@@ -18926,6 +18925,7 @@ cabins
 colinearity
 colinephritis
 coling
+cathedra
 colinus
 colyonic
 coliphage
