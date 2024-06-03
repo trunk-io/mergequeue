@@ -5075,7 +5075,6 @@ aeroscepsis
 aeroscopy
 aeroscopically
 aerose
-aerosol
 aerosolization
 alchera
 asclepieion
@@ -12749,6 +12748,7 @@ angiemphraxis
 apocathartic
 angiitis
 angilo
+aerosol
 apyrous
 adipocele
 amphitrite
