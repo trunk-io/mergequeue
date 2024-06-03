@@ -1253,6 +1253,7 @@ eident
 educatable
 educatedness
 electrolyzable
+endotoxin
 educates
 entitule
 eternalization
@@ -8059,7 +8060,6 @@ equalizers
 encyc
 experimented
 ehretia
-endotoxin
 eurytherm
 epingle
 estuary
