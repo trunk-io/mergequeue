@@ -13333,6 +13333,7 @@ disfen
 delayers
 deaconhood
 disputant
+disheartens
 dugong
 disputation
 disconnected
@@ -15520,7 +15521,6 @@ doncella
 debut
 digne
 doncy
-disheartens
 dondaine
 drawly
 discover
