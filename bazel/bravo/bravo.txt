@@ -4608,6 +4608,7 @@ brigadiership
 baccate
 backstopping
 burnsides
+boolies
 becudgelling
 becudgels
 becuffed
@@ -7069,7 +7070,6 @@ bestrid
 beslimes
 besliming
 backsheesh
-boolies
 bepaid
 beslipper
 beslobber
