@@ -5024,6 +5024,7 @@ gardebras
 gedeckt
 geomaly
 gangway
+galactolytic
 geodiatropism
 guvacoline
 garaging
@@ -5808,7 +5809,6 @@ glossy
 glaciometer
 gnathostomatous
 goniatitoid
-galactolytic
 goitered
 glossies
 glew
