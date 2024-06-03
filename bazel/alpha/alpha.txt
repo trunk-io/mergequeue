@@ -9482,7 +9482,6 @@ armbone
 altarwise
 altazimuth
 alter
-alterability
 alterable
 anerethisia
 alterableness
@@ -22757,6 +22756,7 @@ atmolyze
 atmology
 atmologic
 anisotropous
+alterability
 atmological
 atmometry
 atmometric
