@@ -4456,7 +4456,6 @@ fissionable
 fissioned
 furzes
 fissions
-fissipalmation
 forheed
 farming
 forcer
@@ -11649,6 +11648,7 @@ friendship
 followers
 fetlow
 fustiness
+fissipalmation
 fustoc
 fusula
 fussily
