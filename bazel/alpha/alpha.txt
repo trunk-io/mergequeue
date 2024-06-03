@@ -15464,7 +15464,6 @@ antilysis
 antilyssic
 antilithic
 antilytic
-antilitter
 antiliturgy
 amla
 annunciators
@@ -25315,6 +25314,7 @@ azoic
 azole
 ambulant
 azoles
+antilitter
 azolitmin
 azolla
 azon
