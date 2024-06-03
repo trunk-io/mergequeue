@@ -7532,6 +7532,7 @@ graveyards
 greenkeeper
 governorate
 governors
+gnapweed
 gobian
 garbled
 gravimeter
@@ -8156,7 +8157,6 @@ galeodes
 gopura
 grapery
 guayule
-gnapweed
 graperoot
 ganisters
 grapes
