@@ -9003,7 +9003,6 @@ grimacers
 grimaces
 gryllid
 galluptious
-gestured
 grabbable
 grimacier
 glassworking
@@ -10707,6 +10706,7 @@ geomalism
 gushily
 gusla
 gaumless
+gestured
 gearwheel
 guslee
 glyoxim
