@@ -3145,7 +3145,6 @@ fibroblastic
 fibrocalcareous
 ferngale
 fonds
-ferine
 freres
 fineer
 fibrocellular
@@ -6423,6 +6422,7 @@ fluoaluminate
 fluorogen
 fluorometry
 fluoroscopy
+ferine
 friendly
 furuncular
 framing
