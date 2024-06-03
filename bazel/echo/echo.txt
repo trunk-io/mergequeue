@@ -3215,7 +3215,6 @@ elt
 eluant
 eluating
 enteritis
-elucidate
 expulser
 elucidations
 embraciveg
@@ -8184,6 +8183,7 @@ examples
 epipterous
 epipubis
 epirhizous
+elucidate
 egyptology
 epirogenetic
 elderling
