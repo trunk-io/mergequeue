@@ -4015,6 +4015,7 @@ empanelling
 empanels
 emanant
 empaper
+ecumene
 emparchment
 emparl
 eventuates
@@ -9855,7 +9856,6 @@ essentialist
 essentiality
 essentialization
 essentially
-ecumene
 ecostate
 essentiate
 easterner
