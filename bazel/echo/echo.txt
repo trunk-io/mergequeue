@@ -4524,6 +4524,7 @@ ethernets
 extradotal
 enceinte
 excipule
+extravascular
 entozoology
 explanative
 encense
@@ -7261,7 +7262,6 @@ eo
 endosomes
 equilobate
 edwards
-extravascular
 equinecessary
 encyclic
 esplanades
