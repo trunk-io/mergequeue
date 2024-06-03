@@ -8877,6 +8877,7 @@ bugologist
 byname
 bedrown
 bungo
+balantidial
 beezer
 binaphthyl
 binaries
@@ -17185,7 +17186,6 @@ bullyrag
 barons
 bullyragger
 bullyragging
-balantidial
 brachiopod
 buckramed
 baubles
