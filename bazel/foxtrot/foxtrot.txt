@@ -2386,7 +2386,6 @@ footstalk
 fremescence
 fer
 flotsan
-fusibility
 foolmonger
 farriers
 featherstitching
@@ -9142,6 +9141,7 @@ forepoled
 fractionally
 foreperiod
 fodient
+fusibility
 faired
 florulae
 fungosity
