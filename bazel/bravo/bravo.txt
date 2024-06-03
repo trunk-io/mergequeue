@@ -704,7 +704,6 @@ birdshot
 badaxe
 brasseries
 balustered
-badderlocks
 baddest
 breathable
 baddie
@@ -5347,6 +5346,7 @@ breathlessness
 blowbacks
 biconical
 beginger
+badderlocks
 beginner
 bugbite
 beginning
