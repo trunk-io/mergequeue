@@ -2442,7 +2442,6 @@ beleve
 buckhorn
 bardes
 brabant
-bardesanite
 bracts
 beforetimes
 bardess
@@ -4686,6 +4685,7 @@ bedeaf
 bewilderingly
 ballett
 bedeafened
+bardesanite
 bedeafening
 bedeck
 bedecked

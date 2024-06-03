@@ -2995,6 +2995,7 @@ deducement
 deduces
 dolt
 deducibility
+diereses
 devitrify
 deducibly
 deducing
@@ -18175,7 +18176,6 @@ dunciad
 dinucleotide
 disportive
 dottard
-diereses
 duncical
 diethanolamine
 dharani
