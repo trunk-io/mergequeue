@@ -2561,6 +2561,7 @@ fawnskin
 fastus
 forehorse
 ferox
+fumbling
 forcy
 fainthearted
 farted
@@ -11008,7 +11009,6 @@ flintiest
 fifers
 fumblers
 fumbles
-fumbling
 forkable
 fohn
 fumblingness
