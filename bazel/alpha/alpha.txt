@@ -843,7 +843,6 @@ attributiveness
 archegoniate
 agha
 absconding
-absconsa
 aerator
 abscound
 absee
@@ -6788,6 +6787,7 @@ appomatox
 airbusses
 aircheck
 aircoaches
+absconsa
 aircraft
 aircraftman
 atenist

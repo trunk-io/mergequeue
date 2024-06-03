@@ -4337,7 +4337,6 @@ fixion
 fishboats
 fishbolts
 framed
-falchions
 fellers
 fishbowls
 forky
@@ -10105,6 +10104,7 @@ fiercly
 fiddlehead
 footnotes
 fafnir
+falchions
 fishwife
 fetalism
 flowcontrol
