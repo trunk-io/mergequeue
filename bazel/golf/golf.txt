@@ -3216,6 +3216,7 @@ geosphere
 gal
 graylags
 geotaxes
+guardiancy
 geotechnic
 geotectonically
 graplin
@@ -9947,7 +9948,6 @@ guardeen
 ghatwal
 guardhouses
 glozer
-guardiancy
 gynephobia
 guardianship
 guardo
