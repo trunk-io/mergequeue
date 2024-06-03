@@ -2033,6 +2033,7 @@ coadjuvancy
 campanero
 campania
 cecils
+coinfinite
 comdg
 campaniform
 campanile
@@ -28553,7 +28554,6 @@ credibly
 creditabilities
 creditable
 creditableness
-coinfinite
 creditably
 caracaras
 cephalexin
