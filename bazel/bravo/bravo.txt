@@ -4118,7 +4118,6 @@ beamed
 beeve
 beamer
 bestrut
-beamers
 beamfilling
 beamful
 beeware
@@ -14503,6 +14502,7 @@ belozenged
 branchiopoda
 branchiopodan
 branchiopodous
+beamers
 baktun
 bonding
 branchiosauria

@@ -770,7 +770,6 @@ fortunella
 fibrilliferous
 fanatics
 factum
-fanatism
 foliaging
 fabricating
 fenchol
@@ -8460,6 +8459,7 @@ formidable
 floormen
 fondler
 furoin
+fanatism
 florissant
 furstone
 formylal
