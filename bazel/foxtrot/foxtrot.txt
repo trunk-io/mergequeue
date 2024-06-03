@@ -5336,7 +5336,6 @@ fleecy
 fastness
 floorwalkers
 forager
-fang
 fitchery
 filterable
 fireclay
@@ -11216,6 +11215,7 @@ fungologist
 frescoists
 fungosities
 funguses
+fang
 fooless
 fireball
 florivorous
