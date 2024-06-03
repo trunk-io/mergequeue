@@ -4835,7 +4835,6 @@ carriage
 carriageable
 carriageful
 carriages
-carriagesmith
 cinchonicin
 carriageway
 carryall
@@ -22481,6 +22480,7 @@ conines
 coning
 conynge
 cosiest
+carriagesmith
 circumduction
 coninidia
 conins
