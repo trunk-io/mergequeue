@@ -4159,7 +4159,6 @@ eslabon
 employee
 endives
 employer
-exedral
 elastance
 epirote
 eiffel
@@ -7991,6 +7990,7 @@ ecphractic
 erosible
 eatery
 examinationist
+exedral
 epinasty
 epilogizing
 eulogically
