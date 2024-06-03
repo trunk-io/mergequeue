@@ -5299,7 +5299,6 @@ ernest
 elegiast
 eliminability
 endosclerite
-endoscope
 enfortune
 endoscopes
 endoscopies
@@ -10724,6 +10723,7 @@ enclasp
 eastlake
 extricating
 embrangle
+endoscope
 exclamatorily
 electrostatic
 exothermally
