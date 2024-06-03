@@ -2844,6 +2844,7 @@ certainties
 cantala
 cantalever
 cantaliver
+coacervating
 cackled
 cantaloup
 careerer
@@ -17083,7 +17084,6 @@ cytodieretic
 coacceptor
 coacervate
 coacervated
-coacervating
 coacervation
 coach
 coachbuilder
