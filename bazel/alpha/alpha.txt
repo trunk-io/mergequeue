@@ -3945,7 +3945,6 @@ adjourns
 adjoust
 adjt
 adjudgeable
-aleyrodidae
 adjudging
 adjudgment
 adjudicate
@@ -13392,6 +13391,7 @@ anisotrope
 anisotropically
 anencephalotrophia
 archimorphic
+aleyrodidae
 anisotropies
 anisotropism
 anystidae
