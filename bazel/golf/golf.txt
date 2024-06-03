@@ -553,7 +553,6 @@ getters
 gritten
 grapiest
 gastromelus
-geisotherm
 gasolines
 glycerine
 griming
@@ -617,6 +616,7 @@ gyrinidae
 gladless
 geocronite
 gallinazo
+geisotherm
 galline
 germanity
 gibbetwise
