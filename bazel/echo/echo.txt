@@ -8697,7 +8697,6 @@ equimolar
 endonuclease
 espinillo
 equimultiple
-encirclements
 equinal
 enzymotic
 emphyteuta
@@ -11453,6 +11452,7 @@ enlaced
 ethanal
 everyplace
 extrorsal
+encirclements
 entanglement
 everywhen
 everywhither
