@@ -16643,7 +16643,6 @@ ambuscading
 anack
 apa
 apabhramsa
-acecaffin
 apace
 apache
 attained
@@ -23415,6 +23414,7 @@ augmentive
 augmentor
 alarbus
 augrim
+acecaffin
 arguendo
 augural
 augurate
