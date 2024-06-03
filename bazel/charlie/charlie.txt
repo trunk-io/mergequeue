@@ -2550,7 +2550,6 @@ canephor
 carfour
 canephora
 canephorae
-canephore
 canephori
 canephoroi
 canephoros
@@ -8821,6 +8820,7 @@ connectant
 chapbook
 carbonylating
 chape
+canephore
 chapeau
 chaped
 cobriform
