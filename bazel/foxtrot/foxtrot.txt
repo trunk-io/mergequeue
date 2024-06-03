@@ -5463,7 +5463,6 @@ flexions
 flexitime
 ferdiad
 folliculate
-flexive
 flexography
 fleecer
 flexographic
@@ -9104,6 +9103,7 @@ fasciae
 foxly
 fraps
 flaith
+flexive
 featherworker
 fuage
 frenetics
