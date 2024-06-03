@@ -8946,7 +8946,6 @@ acrogenic
 alloisomerism
 allokurtic
 allomerization
-allomerizing
 averager
 anematizing
 aerobiologic
@@ -22295,6 +22294,7 @@ astrocompass
 astrodiagnosis
 astrodynamic
 androphyll
+allomerizing
 achromatolysis
 africanist
 astrodynamics
