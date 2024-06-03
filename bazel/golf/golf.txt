@@ -125,6 +125,7 @@ grosz
 goatfish
 gavottes
 gadroon
+girasol
 graped
 girdled
 gawkies
@@ -4611,7 +4612,6 @@ getter
 gaeltacht
 ghetti
 gigantine
-girasol
 gyrate
 gyrated
 gosain
