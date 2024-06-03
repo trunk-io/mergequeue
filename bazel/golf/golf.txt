@@ -1323,6 +1323,7 @@ granch
 glauconite
 gardenful
 gardenia
+graminology
 gundeck
 giftlike
 gismo
@@ -7235,7 +7236,6 @@ getah
 gorman
 grewt
 grailer
-graminology
 gormand
 gormandised
 gormandism
