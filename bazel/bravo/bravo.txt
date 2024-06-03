@@ -422,6 +422,7 @@ bughouses
 backpedal
 backpedaling
 backpiece
+brahui
 belonged
 backplane
 brachiostrophosis
@@ -3821,7 +3822,6 @@ battles
 battleship
 battleships
 buhr
-brahui
 battlesome
 brahmany
 brigantes
