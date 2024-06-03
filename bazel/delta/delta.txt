@@ -2467,7 +2467,6 @@ decimole
 denizenize
 designs
 decyne
-diaeresis
 decipherability
 dand
 delay
@@ -9710,6 +9709,7 @@ dilambdodont
 dilamination
 dylan
 dealings
+diaeresis
 dilaniate
 dribbling
 doubled
