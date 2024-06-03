@@ -6746,6 +6746,7 @@ gustoish
 gunsman
 goners
 gonfalcon
+groupable
 gambolled
 gonfanon
 gong
@@ -9483,7 +9484,6 @@ grundlov
 gilgie
 group
 gammer
-groupable
 gynophoric
 grandrelle
 gallous
