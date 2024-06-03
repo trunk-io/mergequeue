@@ -17453,7 +17453,6 @@ auguste
 actors
 autocollimator
 antiforeign
-apostate
 apostates
 apostatic
 apostatical
@@ -24296,6 +24295,7 @@ autopolo
 anomalous
 autopoloist
 animalculae
+apostate
 accessoriusorii
 autopore
 autoportraiture
