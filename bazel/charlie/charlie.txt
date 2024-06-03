@@ -5965,7 +5965,6 @@ catties
 catheterisation
 catheterise
 coiffes
-catheterised
 catheterism
 catheterization
 catheterize
@@ -19812,6 +19811,7 @@ capturer
 combust
 corotation
 caesiums
+catheterised
 copolymers
 combustible
 chambellan

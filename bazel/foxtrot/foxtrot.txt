@@ -1474,6 +1474,7 @@ fattishness
 fattrels
 fother
 foreweep
+foreshaft
 freewheel
 fluoroscopic
 fatuism
@@ -7562,7 +7563,6 @@ frequency
 foredefeated
 frankheartedness
 flightworthy
-foreshaft
 flavorings
 foredevote
 fermentation
