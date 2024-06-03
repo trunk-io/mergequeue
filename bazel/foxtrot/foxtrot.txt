@@ -9085,7 +9085,6 @@ foxholes
 film
 furnace
 filterer
-fanzine
 fleabanes
 fillingly
 fissipedia
@@ -10470,6 +10469,7 @@ fabulate
 folkvangr
 foxfinger
 fluyt
+fanzine
 freesia
 fervencies
 felsosphaerite
