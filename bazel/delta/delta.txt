@@ -9785,6 +9785,7 @@ dilettantist
 dilettantship
 diligence
 diligences
+disable
 diligent
 debentured
 dilis
@@ -10885,7 +10886,6 @@ disa
 dereference
 deployed
 dashboards
-disable
 disabled
 doorplates
 dasypygal
