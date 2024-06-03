@@ -5722,7 +5722,6 @@ granadilla
 glomeroporphyritic
 gallinago
 gradative
-grx
 glossarially
 gregau
 glomerulate
@@ -6361,6 +6360,7 @@ gob
 goban
 glycemic
 gobbed
+grx
 gobber
 girja
 gobby
