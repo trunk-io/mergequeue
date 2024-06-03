@@ -4923,7 +4923,6 @@ flamless
 floorers
 flammed
 foreyards
-fidac
 feebleheartedly
 flammulation
 flammule
@@ -8596,6 +8595,7 @@ forsythias
 fontinalis
 feignedness
 foeticide
+fidac
 figurial
 forslow
 forsooth
