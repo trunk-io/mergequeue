@@ -3161,6 +3161,7 @@ activated
 activates
 achtel
 activation
+amphoricity
 activator
 active
 actively
@@ -4037,7 +4038,6 @@ admedial
 admedian
 afforced
 anthus
-amphoricity
 attrist
 admen
 advect

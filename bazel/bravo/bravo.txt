@@ -10472,7 +10472,6 @@ breaker
 blanketlike
 bootlickers
 blanketmaker
-boatwise
 blankets
 brigue
 blanky
@@ -16897,6 +16896,7 @@ bugdom
 banneret
 bugeye
 bugeyes
+boatwise
 bugfish
 bonducs
 buggane
