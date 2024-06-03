@@ -7598,7 +7598,6 @@ grabs
 glasgow
 garpike
 gynerium
-gilbertite
 gauffering
 gracefuller
 graceless
@@ -8803,6 +8802,7 @@ graecized
 greyed
 grosser
 greyflies
+gilbertite
 glyoxilin
 ganglioside
 greyiaceae
