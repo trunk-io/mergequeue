@@ -5157,7 +5157,6 @@ dendrodic
 dendroeca
 drakes
 daalder
-dooxidize
 dendrophagous
 dendrohyrax
 dendroidea
@@ -17247,6 +17246,7 @@ drivers
 discoidal
 diol
 drivership
+dooxidize
 drives
 dredgings
 disulfate
