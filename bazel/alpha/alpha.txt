@@ -4472,7 +4472,6 @@ adumbral
 adunation
 astutely
 adunc
-aduncate
 aduncity
 aduncous
 adure
@@ -21701,6 +21700,7 @@ assegaied
 acaudal
 achromatophil
 algogenic
+aduncate
 assegaiing
 americanized
 assegaing
