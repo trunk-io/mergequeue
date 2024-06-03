@@ -3816,7 +3816,6 @@ emendable
 emendandum
 electrized
 ekerite
-emendations
 enterprisingly
 esthetical
 ethnohistorical
@@ -10267,6 +10266,7 @@ endnote
 etherizing
 encoders
 eudora
+emendations
 ethernet
 ecclesiolater
 etherous
