@@ -6865,7 +6865,6 @@ ectosarcs
 enl
 epicranial
 elastic
-entombing
 entombs
 eviscerator
 elia
@@ -9648,6 +9647,7 @@ epionychium
 electrophori
 eskualdun
 exodermal
+entombing
 ergatandry
 elevations
 eslisor
