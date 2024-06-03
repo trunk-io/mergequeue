@@ -3544,6 +3544,7 @@ adduces
 adducible
 anthracic
 auriculo
+alvite
 ampelideous
 adducted
 adducting
@@ -9748,7 +9749,6 @@ alvin
 ambidexterous
 alvine
 alvissmal
-alvite
 astasias
 algific
 always
