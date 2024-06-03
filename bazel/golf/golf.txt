@@ -4311,6 +4311,7 @@ gisarme
 gilts
 gynandria
 gynandrian
+glottologies
 gynandries
 galenian
 gladiators
@@ -7954,7 +7955,6 @@ grandiosity
 grandisonant
 grandisonianism
 ganglionectomy
-glottologies
 goldarn
 grandity
 guidonian
