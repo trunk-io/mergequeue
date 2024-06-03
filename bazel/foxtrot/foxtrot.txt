@@ -4352,7 +4352,6 @@ fragmentate
 fudged
 fisherfolk
 formulaic
-fishery
 florentium
 fraus
 fealties
@@ -5608,6 +5607,7 @@ fishnets
 forecabin
 forthbringer
 freighters
+fishery
 flyflapper
 foulnesses
 faff
