@@ -6699,7 +6699,6 @@ enright
 enterotoxemia
 enterotoxication
 essence
-enteroviral
 enterovirus
 evenmindedness
 enlight
@@ -10543,6 +10542,7 @@ estudy
 ericius
 etypically
 etiquet
+enteroviral
 exalate
 encroachingly
 etiquette
