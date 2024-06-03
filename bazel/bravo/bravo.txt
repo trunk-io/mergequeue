@@ -8717,7 +8717,6 @@ boopic
 ballaton
 bimillenial
 billiard
-billiardist
 birch
 baldicoot
 beeswinged
@@ -15738,6 +15737,7 @@ brokages
 bridehead
 basidium
 bouncer
+billiardist
 broke
 burglariously
 barebones
