@@ -7960,7 +7960,6 @@ firn
 flench
 feet
 frontispiecing
-flipper
 foreslow
 frumpled
 flatteur
@@ -8256,6 +8255,7 @@ fountaining
 foursome
 fricandeau
 frore
+flipper
 fameflower
 forhaile
 foreroyal
