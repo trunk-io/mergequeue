@@ -219,7 +219,6 @@ gags
 guarder
 gagster
 gagtooth
-gagwriter
 gradefinder
 gratiano
 gaiassa
@@ -4419,6 +4418,7 @@ grubless
 gravidity
 gnashing
 geopony
+gagwriter
 gaullism
 geodesist
 genetor
