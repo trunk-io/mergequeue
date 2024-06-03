@@ -2125,6 +2125,7 @@ bannermen
 bannerole
 bannerols
 bannisters
+benamidar
 birthmarks
 bioflavinoid
 bannock
@@ -6185,7 +6186,6 @@ boyishly
 bequeathable
 beckett
 becowarded
-benamidar
 berat
 benasty
 beholdable
