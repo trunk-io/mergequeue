@@ -673,7 +673,6 @@ agricultures
 aborter
 aborters
 aborticide
-abortient
 anacardic
 accessions
 assuring
@@ -7961,6 +7960,7 @@ alerta
 anorak
 anabasis
 antinaturalist
+abortient
 alertedly
 alerters
 alertest
