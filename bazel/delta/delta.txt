@@ -2620,7 +2620,6 @@ decoctive
 decocts
 deaminizing
 decoctum
-decodable
 decode
 decoded
 decoders
@@ -6451,6 +6450,7 @@ derrid
 derride
 derriere
 dactyli
+decodable
 decree
 dispersedly
 derringers
