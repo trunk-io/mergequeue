@@ -1107,6 +1107,7 @@ electioneered
 excisable
 exenteritis
 eyeless
+entwine
 endoskeleton
 enchants
 eqpt
@@ -7095,7 +7096,6 @@ exocoetus
 entte
 ecdyson
 entune
-entwine
 elohistic
 entepicondylar
 excorticated
