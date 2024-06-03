@@ -4921,6 +4921,7 @@ cowherbs
 carte
 carted
 cartel
+chondriosomes
 calor
 centifolious
 cesarean
@@ -11802,7 +11803,6 @@ chondrioma
 chondriome
 chondriomere
 chondriosome
-chondriosomes
 colubriformia
 chondriosphere
 ceresin
