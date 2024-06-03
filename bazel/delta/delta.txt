@@ -381,7 +381,6 @@ disembargoing
 daimonology
 daimons
 ditches
-dainchas
 daynet
 daint
 dihalid
@@ -12008,6 +12007,7 @@ dorados
 disemployment
 disenable
 disenabled
+dainchas
 disenabling
 disenact
 disenamor
