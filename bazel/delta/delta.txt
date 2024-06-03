@@ -9227,6 +9227,7 @@ dyeings
 dieldrin
 decahedrodra
 dieldrins
+disservice
 dyeleaves
 dielectric
 depender
@@ -13618,7 +13619,6 @@ destroyed
 damme
 disparple
 daintith
-disservice
 decisteres
 disserviceably
 dysgnosia
