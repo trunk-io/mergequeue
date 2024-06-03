@@ -2718,6 +2718,7 @@ epithelioma
 exogens
 electrotherapeutical
 enmesh
+encephaloma
 edaphodont
 electrotherapy
 electrotherapist
@@ -12689,7 +12690,6 @@ exometritis
 echo
 erotized
 emerse
-encephaloma
 exomologesis
 exomphalos
 exomphalous
