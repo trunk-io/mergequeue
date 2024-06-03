@@ -1187,6 +1187,7 @@ datagram
 datagrams
 doormat
 datakit
+directional
 datamation
 datana
 dulciloquy
@@ -10783,7 +10784,6 @@ directer
 directest
 directexamination
 dacryoadenitis
-directional
 directionality
 diluteness
 diseur
