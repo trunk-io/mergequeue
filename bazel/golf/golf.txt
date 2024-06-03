@@ -1337,7 +1337,6 @@ grippers
 gurgled
 gastriloquy
 gazania
-gestation
 garefowl
 garetta
 gnawingly
@@ -7997,6 +7996,7 @@ gambiae
 grandpas
 grandsir
 garibaldian
+gestation
 gerrymanderer
 gettering
 gustable
