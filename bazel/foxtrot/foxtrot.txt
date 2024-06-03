@@ -5418,7 +5418,6 @@ formatters
 fanjets
 furfuran
 fleshliest
-fele
 fleshliness
 fw
 fiddleneck
@@ -10598,6 +10597,7 @@ frontward
 finched
 frictionizing
 fructuate
+fele
 fightwite
 fructuous
 festooned

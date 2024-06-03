@@ -2304,7 +2304,6 @@ canalside
 canamo
 cranesbill
 canangium
-chaetognathous
 carby
 canap
 cabriole
@@ -30824,6 +30823,7 @@ culpa
 capicha
 culpabilis
 culpable
+chaetognathous
 chabouks
 cathop
 croakiness
