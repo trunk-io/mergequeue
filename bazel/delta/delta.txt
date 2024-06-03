@@ -4884,6 +4884,7 @@ demolition
 demolitionist
 dishonest
 demolitions
+dispraise
 donnot
 diabantite
 dermatome
@@ -9056,7 +9057,6 @@ dependability
 dictation
 dictational
 destructionism
-dispraise
 dictative
 dictator
 dictatory

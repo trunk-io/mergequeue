@@ -1475,7 +1475,6 @@ fattrels
 fother
 foreweep
 freewheel
-fluoroscopic
 fatuism
 fatuity
 fundamentalism
@@ -2612,6 +2611,7 @@ ferrandin
 furiosity
 ferricyanide
 ferrihydrocyanic
+fluoroscopic
 furosemide
 fervency
 fenugreek
