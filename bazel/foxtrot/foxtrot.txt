@@ -2239,7 +2239,6 @@ frigate
 faciobrachial
 femcee
 feme
-feruling
 femorotibial
 facetious
 flameproofer
@@ -4218,6 +4217,7 @@ fireplace
 fireplow
 fiefs
 fleeceable
+feruling
 fatting
 fireplug
 frieze
