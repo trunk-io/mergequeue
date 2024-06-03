@@ -8696,7 +8696,6 @@ equimodal
 exodos
 entoptoscopy
 equimolal
-eunomia
 equimolar
 endonuclease
 espinillo
@@ -12391,6 +12390,7 @@ eseptate
 economical
 estops
 evase
+eunomia
 epithelize
 evader
 expects
