@@ -4699,7 +4699,6 @@ aecidium
 aeciospore
 aeciostage
 aecioteliospore
-abigeus
 adversed
 aedeagi
 aedeagus
@@ -5460,6 +5459,7 @@ aforetime
 anemoclastic
 allod
 attainers
+abigeus
 arrhinia
 agenesic
 aforetimes
