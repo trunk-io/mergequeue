@@ -2356,7 +2356,6 @@ dustpoint
 dropsy
 decerning
 donne
-decerns
 decertation
 dasypaedal
 dielike
@@ -18027,6 +18026,7 @@ dacryocystalgia
 dulcor
 dulcorate
 dulcose
+decerns
 dislocations
 diffusiometer
 duler
