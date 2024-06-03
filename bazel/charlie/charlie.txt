@@ -9582,7 +9582,6 @@ checkmate
 chirosophist
 checkmating
 cautioning
-circumferences
 checkpoint
 checkpointed
 concursus
@@ -20819,6 +20818,7 @@ clamberer
 complicatedness
 complicates
 complication
+circumferences
 complicative
 complicator
 complicators
