@@ -8717,7 +8717,6 @@ fixedly
 fortunes
 frenchism
 frankfort
-fizz
 forbiddable
 flogged
 fortunetelling
@@ -11244,6 +11243,7 @@ feudal
 funky
 ferv
 funkia
+fizz
 funkias
 funkier
 featherdom
