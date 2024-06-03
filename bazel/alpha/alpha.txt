@@ -4705,7 +4705,6 @@ aedeagi
 aedeagus
 aedicula
 aediculae
-aedicule
 aedile
 adject
 aediles
@@ -12629,6 +12628,7 @@ abrotin
 aesopic
 aneurine
 advene
+aedicule
 aneurism
 allochroite
 aneurysm
