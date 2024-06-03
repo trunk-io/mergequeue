@@ -1048,7 +1048,6 @@ dzeren
 dutra
 darner
 daising
-devoiced
 darners
 darning
 darns
@@ -10871,6 +10870,7 @@ dx
 dirtying
 dockworker
 disentangler
+devoiced
 dirtily
 diplograph
 dirtplate
