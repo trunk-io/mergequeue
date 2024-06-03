@@ -8960,6 +8960,7 @@ dichotomize
 dichotomousness
 demographic
 diamylose
+developmentary
 dub
 dail
 dusterman
@@ -14565,7 +14566,6 @@ damourite
 divorcible
 diminue
 demosthenic
-developmentary
 divorcive
 devs
 divort
