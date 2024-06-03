@@ -3034,7 +3034,6 @@ fiats
 fazed
 fezzed
 fezzes
-fezzy
 fallway
 fadings
 forsake
@@ -7294,6 +7293,7 @@ fair
 flagellant
 forbearing
 fulcrum
+fezzy
 fullnesses
 fleshlessness
 fasciolar
