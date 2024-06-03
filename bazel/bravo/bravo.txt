@@ -2371,7 +2371,6 @@ binful
 barbicanage
 bathyscape
 barbicel
-barbicels
 brines
 barbierite
 barbion
@@ -11081,6 +11080,7 @@ buckshot
 blo
 behavioristically
 bloat
+barbicels
 bonhomme
 benefactorship
 builded
