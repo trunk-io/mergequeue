@@ -7290,7 +7290,6 @@ eolopiles
 extrauterine
 eolotropic
 expressively
-extraenteric
 eom
 eon
 echoless
@@ -13084,6 +13083,7 @@ experimentalism
 ejuration
 ebauche
 eternality
+extraenteric
 experimentative
 experimenter
 experimenters
