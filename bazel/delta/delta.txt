@@ -2343,7 +2343,6 @@ deceptively
 deceptiveness
 dinichthyid
 deceptory
-deafnesses
 decerebrate
 disfavourable
 dustup
@@ -15631,6 +15630,7 @@ dooryards
 dooring
 doorkeeper
 doorknob
+deafnesses
 doorknobs
 doorless
 doormaid
