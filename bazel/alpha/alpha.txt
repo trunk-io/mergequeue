@@ -14727,7 +14727,6 @@ antianthropomorphism
 antiantibody
 aire
 antiantienzyme
-antiantitoxin
 antianxiety
 antiaphrodisiac
 antiboss
@@ -25183,6 +25182,7 @@ arcady
 axoidean
 arseniosiderite
 anapleroses
+antiantitoxin
 axometry
 aurantiaceous
 aetheogamic
