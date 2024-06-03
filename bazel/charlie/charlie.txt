@@ -3390,7 +3390,6 @@ caprid
 caprificate
 chunkier
 caprifig
-caprifigs
 caprifoil
 caprifole
 caprifoliaceae
@@ -25277,6 +25276,7 @@ cailleach
 coryph
 cladode
 coryphaei
+caprifigs
 coryphaenoididae
 confucians
 coryphee
