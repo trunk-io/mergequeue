@@ -15502,7 +15502,6 @@ claosaurus
 clapboard
 clapboarding
 cleidomastoid
-clapboards
 clapcake
 clapdish
 clape
@@ -31239,6 +31238,7 @@ colorbearer
 curatrices
 carabid
 curatrix
+clapboards
 curb
 cabombas
 citronellal
