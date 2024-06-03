@@ -19227,6 +19227,7 @@ ayuyu
 availers
 abasia
 allophane
+accelerating
 archtreasurership
 archturncoat
 apurpose
@@ -24074,7 +24075,6 @@ autogeny
 autogenic
 autogenies
 autogenous
-accelerating
 antiresonator
 abrasiometer
 autogyro
