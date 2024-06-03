@@ -1265,7 +1265,6 @@ avocation
 acarari
 acardite
 acarian
-acariasis
 acarid
 acaridan
 acaridans
@@ -11571,6 +11570,7 @@ anacampsis
 asteraceae
 anacamptic
 adjourned
+acariasis
 anacamptically
 archhead
 after
