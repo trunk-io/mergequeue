@@ -1547,7 +1547,6 @@ beeherd
 bersiamite
 bulbiform
 blackheads
-bouton
 backsword
 ballaster
 ballastic
@@ -11319,6 +11318,7 @@ bloubiskop
 bourgeois
 bloodguiltiness
 beglobed
+bouton
 blouse
 bloused
 blearier
