@@ -5675,6 +5675,7 @@ geochemist
 geophysical
 generality
 gumi
+gibberosity
 glendale
 gefilte
 glottogonist
@@ -9140,7 +9141,6 @@ gripple
 gateage
 gunebo
 guller
-gibberosity
 grippleness
 grazier
 garnel
