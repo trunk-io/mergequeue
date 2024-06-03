@@ -7091,7 +7091,6 @@ besmircher
 besmirchers
 billethead
 besmirchment
-bruiser
 besmoked
 besmokes
 biodynamic
@@ -15061,6 +15060,7 @@ brewage
 brewages
 bogier
 bishopscap
+bruiser
 baw
 basiated
 bicentennials
