@@ -930,7 +930,6 @@ aldolize
 appeasably
 absonous
 absorb
-adiathermanous
 absorbable
 absorbancy
 absorbed
@@ -10442,6 +10441,7 @@ ametoecious
 aurigid
 aculeolus
 ametrope
+adiathermanous
 antshrike
 ametropia
 ametrous
