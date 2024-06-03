@@ -8787,7 +8787,6 @@ antiketogen
 allicholly
 alliciency
 allicient
-autognosis
 allie
 allied
 allies
@@ -23570,6 +23569,7 @@ atpoints
 absvolt
 auricle
 antiexpressively
+autognosis
 auriculare
 anticreativeness
 anzac
