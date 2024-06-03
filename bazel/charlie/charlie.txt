@@ -2179,7 +2179,6 @@ conusor
 circaea
 campstool
 camptodrome
-camptonite
 camptosorus
 campulitropal
 cabaan
@@ -21333,6 +21332,7 @@ concerts
 concessible
 concession
 concessionaire
+camptonite
 concessional
 chausseemeile
 concessionist
