@@ -7388,6 +7388,7 @@ fasciculus
 forecasting
 featherwood
 frankenia
+fungibility
 forceless
 forcelessness
 forcelet
@@ -11166,7 +11167,6 @@ furanose
 fungia
 fungian
 fthm
-fungibility
 fungible
 fideists
 fungicidal
