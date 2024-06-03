@@ -6800,6 +6800,7 @@ atenist
 axometer
 aircraftmen
 antidynasty
+ambigenous
 ausu
 aircraftsman
 auresca
@@ -7729,7 +7730,6 @@ argentite
 alcoholysis
 aphorised
 antepyretic
-ambigenous
 adopters
 alcoholist
 alcoholytic
