@@ -2884,7 +2884,6 @@ gumminess
 gageable
 grasped
 gentlemanize
-gentlemanly
 gentlemanlikeness
 goosehouse
 gentlemanliness
@@ -7264,6 +7263,7 @@ ginsengs
 gladstonian
 gorsebird
 geochronic
+gentlemanly
 grainsick
 glazed
 globy
