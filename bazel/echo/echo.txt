@@ -1790,7 +1790,6 @@ eyelash
 eliding
 eyelessness
 eyelet
-expwy
 eyeleted
 eyeletting
 eyelid
@@ -10887,6 +10886,7 @@ endarteria
 eupatorium
 eupatrid
 eupatridae
+expwy
 eupatrids
 eluent
 epigram
