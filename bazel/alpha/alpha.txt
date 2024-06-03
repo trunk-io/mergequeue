@@ -23707,6 +23707,7 @@ austenite
 aspermia
 austenitic
 austenitize
+addlins
 austenitizing
 auster
 aruspices
@@ -23961,7 +23962,6 @@ autocide
 autocinesis
 acetylbiuret
 alumnus
-addlins
 antiproton
 autoclasis
 autoclave
