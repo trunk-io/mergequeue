@@ -2305,7 +2305,6 @@ forkfuls
 folktale
 fortifications
 fended
-ferric
 frolicness
 fender
 fulmineous
@@ -8509,6 +8508,7 @@ forgainst
 fletch
 formulator
 fontinal
+ferric
 formulisation
 friaries
 flinchers
