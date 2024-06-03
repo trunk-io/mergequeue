@@ -2555,6 +2555,7 @@ diplococcus
 declaring
 declasse
 dwined
+disauthenticate
 declasses
 disjudication
 declassicize
@@ -11122,7 +11123,6 @@ donating
 disastrously
 disattaint
 disattune
-disauthenticate
 disauthorize
 diplomacy
 dysautonomia
