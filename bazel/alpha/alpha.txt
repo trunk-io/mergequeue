@@ -2193,7 +2193,6 @@ ammobium
 aflame
 anthophyllite
 ararao
-achluophobia
 acholia
 acholoe
 acholous
@@ -17594,6 +17593,7 @@ appanage
 arthrostraca
 appanaged
 abusage
+achluophobia
 algaeology
 adsbud
 acinacifoliate
