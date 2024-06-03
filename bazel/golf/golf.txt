@@ -1239,7 +1239,6 @@ griminess
 gimcrackery
 goodbys
 glanders
-ghettoing
 glossectomies
 garad
 gape
@@ -5943,6 +5942,7 @@ gaffers
 glt
 greywacke
 grainage
+ghettoing
 gedact
 geaster
 glucagon
