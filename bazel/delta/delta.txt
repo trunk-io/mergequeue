@@ -5989,7 +5989,6 @@ depressurize
 dere
 deprest
 depreter
-depriment
 deprint
 depriorize
 dysmerism
@@ -17094,6 +17093,7 @@ delhi
 dries
 diaspidinae
 diphtheriaphor
+depriment
 dryfarm
 dozes
 disuniformity
