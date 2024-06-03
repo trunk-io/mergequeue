@@ -3183,6 +3183,7 @@ capita
 catenated
 cumly
 capital
+coreplastic
 chevronny
 capitaldom
 capitaled
@@ -25162,7 +25163,6 @@ colouring
 chromonematic
 coreometer
 complacential
-coreplastic
 corepressor
 cubas
 calomba
