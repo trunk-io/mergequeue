@@ -9590,7 +9590,6 @@ escrow
 escrowing
 exceptio
 escudero
-esculents
 esculic
 esculin
 enciphered
@@ -13195,6 +13194,7 @@ enjoyers
 explanting
 explat
 enepidermic
+esculents
 exhumer
 epicaridea
 explement
