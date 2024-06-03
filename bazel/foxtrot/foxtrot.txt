@@ -531,7 +531,6 @@ fresher
 funambulant
 flatus
 folium
-falcons
 folkboat
 falculate
 falcunculus
@@ -3583,6 +3582,7 @@ foggily
 forebowline
 filberts
 filched
+falcons
 francophobe
 fatimid
 furfur
