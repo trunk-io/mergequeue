@@ -4335,6 +4335,7 @@ adrenocorticotrophic
 ammonolysis
 albuminosis
 adrenocorticotropic
+allelomorphism
 adrenolysis
 anthracolithic
 adrenosterone
@@ -8703,7 +8704,6 @@ almes
 arsmetrik
 alternationist
 allelomorphic
-allelomorphism
 allelopathy
 allelotropy
 allelotropic
