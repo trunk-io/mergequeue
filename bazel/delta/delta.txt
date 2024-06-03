@@ -5874,7 +5874,6 @@ depositories
 deploration
 dismarshall
 depositors
-disabused
 dowel
 directness
 divestible
@@ -11804,6 +11803,7 @@ drawbridges
 dimitted
 discriminatively
 downthrow
+disabused
 despatch
 discriminativeness
 discriminator
