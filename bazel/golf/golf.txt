@@ -3804,7 +3804,6 @@ greece
 gibber
 ganomalite
 gaslightness
-gibberella
 gibberellin
 gaffing
 gibbert
@@ -6276,6 +6275,7 @@ gazetteers
 guarantine
 gondang
 goal
+gibberella
 glutted
 goala
 gigantolite

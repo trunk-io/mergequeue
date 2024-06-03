@@ -4115,6 +4115,7 @@ admittable
 antedate
 admittance
 admittatur
+astay
 ablutions
 admitted
 agitpunkt
@@ -22028,7 +22029,6 @@ asta
 astable
 astacian
 astacidae
-astay
 antehuman
 anisometropic
 astarboard
