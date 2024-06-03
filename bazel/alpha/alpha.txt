@@ -11831,7 +11831,6 @@ analyze
 analyzed
 analyzers
 alypin
-adjudicator
 analyzes
 analyzing
 analkalinity
@@ -19176,6 +19175,7 @@ archpontiff
 archpractice
 archprelate
 archprelatic
+adjudicator
 archprelatical
 armenize
 aholt
