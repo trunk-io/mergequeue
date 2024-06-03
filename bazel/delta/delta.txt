@@ -2670,6 +2670,7 @@ decommission
 decommissioned
 dumbbeller
 decommissions
+disembarkment
 deepens
 diomedes
 decompensate
@@ -18379,7 +18380,6 @@ degender
 doubtedly
 dishabilitation
 duomos
-disembarkment
 demilune
 duopolist
 duopsony
