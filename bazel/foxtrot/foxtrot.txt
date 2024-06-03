@@ -5749,6 +5749,7 @@ floodplain
 flowe
 fribble
 flitted
+fevertwig
 flambee
 forestside
 foreknowledge
@@ -8126,7 +8127,6 @@ fraught
 flourishable
 furores
 forewarns
-fevertwig
 flockbed
 forewent
 foghorn
