@@ -2350,7 +2350,6 @@ exundation
 electroanalytic
 embassade
 electroanesthesia
-eavesdrop
 electroballistics
 electrobath
 electrobiological
@@ -11415,6 +11414,7 @@ exaristate
 embolism
 evennesses
 evensongs
+eavesdrop
 eventful
 ethnomusicologist
 endodontics
