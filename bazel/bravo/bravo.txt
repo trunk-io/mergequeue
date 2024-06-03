@@ -4631,7 +4631,6 @@ bater
 bool
 bedabble
 beagles
-bedabbling
 barricadoed
 berceau
 buttonholer
@@ -16002,6 +16001,7 @@ backsplicing
 brontograph
 brontolite
 blore
+bedabbling
 barkevikitic
 bielby
 batchers
