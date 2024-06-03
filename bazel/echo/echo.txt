@@ -810,7 +810,6 @@ emotes
 emergences
 euomphalid
 ecrase
-extense
 espigle
 ecraseurs
 elboic
@@ -2773,6 +2772,7 @@ extubate
 eleganter
 elegy
 elegiacally
+extense
 elegiacs
 eighthly
 exprobate
