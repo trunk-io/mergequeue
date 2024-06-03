@@ -17322,7 +17322,6 @@ coannihilate
 clarions
 churrigueresque
 coapparition
-coappear
 calyciflorous
 coappearance
 coappeared
@@ -21470,6 +21469,7 @@ conclusions
 conclusive
 coexistency
 conclusively
+coappear
 compassionated
 criterion
 chemicalize
