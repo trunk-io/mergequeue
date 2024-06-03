@@ -1051,7 +1051,6 @@ gnomons
 geophilous
 glanduliferous
 gully
-gross
 gomavel
 geodetician
 gange
@@ -2631,6 +2630,7 @@ generalism
 gudgeoning
 gutted
 generalistic
+gross
 glen
 gromatic
 galumptious
