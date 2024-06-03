@@ -9145,6 +9145,7 @@ biomorphic
 bion
 bailsman
 blankard
+boletic
 byon
 bionditional
 bionics
@@ -15753,7 +15754,6 @@ binder
 buddha
 brotula
 beaconing
-boletic
 bonaght
 bloviating
 breaches
