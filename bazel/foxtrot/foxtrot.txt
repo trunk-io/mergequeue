@@ -219,7 +219,6 @@ footstock
 fifing
 fazenda
 factotum
-factotums
 ferrihemoglobin
 fellsman
 factrix
@@ -5483,6 +5482,7 @@ fructiparous
 fenagling
 fram
 flyable
+factotums
 fascicle
 felon
 fratriage
