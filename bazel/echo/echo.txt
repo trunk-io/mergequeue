@@ -6177,7 +6177,6 @@ energetics
 eusynchite
 executable
 enoplan
-eulogia
 enorm
 exhortator
 etaballi
@@ -8989,6 +8988,7 @@ ergometrine
 eragrostis
 ergonomic
 ergonomically
+eulogia
 ergonomics
 ergonomist
 eyers
