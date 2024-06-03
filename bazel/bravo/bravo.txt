@@ -3368,7 +3368,6 @@ basketfuls
 bathflower
 bay
 bathers
-basketing
 basketlike
 bandurria
 bathymetric
@@ -17554,6 +17553,7 @@ beslushed
 beleaped
 bottomries
 boltonia
+basketing
 burlesque
 botong
 burdigalian
