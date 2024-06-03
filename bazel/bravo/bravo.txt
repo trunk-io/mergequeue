@@ -3424,6 +3424,7 @@ bass
 bassa
 balaenicipites
 branchiopulmonate
+bleachable
 bassalia
 bootable
 brythonic
@@ -10706,7 +10707,6 @@ bld
 bothriocidaris
 bleach
 bluebutton
-bleachable
 bleacher
 beworrying
 bleacheries
