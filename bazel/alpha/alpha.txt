@@ -5729,7 +5729,6 @@ agalloch
 ambalam
 agallochs
 afunction
-agallochum
 agalma
 antipeptone
 ardea
@@ -19314,6 +19313,7 @@ arcualia
 arcuate
 amortizement
 arcubos
+agallochum
 arcula
 antigay
 ardass
