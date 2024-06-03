@@ -262,7 +262,6 @@ euclases
 encashed
 endgame
 expiries
-exospores
 easterling
 exstemporaneous
 enwraps
@@ -1375,6 +1374,7 @@ effectress
 encapsulate
 effects
 exurban
+exospores
 equivocated
 err
 epeus
