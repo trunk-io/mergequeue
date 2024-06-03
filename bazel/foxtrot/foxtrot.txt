@@ -4026,7 +4026,6 @@ fenianism
 finisher
 fadable
 finishers
-finishes
 finites
 fightingly
 frolickers
@@ -7949,6 +7948,7 @@ foreshow
 foreshower
 fistulous
 foreshown
+finishes
 falsified
 femic
 fearsomely
