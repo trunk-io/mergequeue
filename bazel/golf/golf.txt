@@ -2212,7 +2212,6 @@ guttur
 gastrulation
 gazpachos
 gastropulmonary
-gerontine
 gastrojejunostomies
 gdinfo
 gds
@@ -7535,6 +7534,7 @@ governors
 gobian
 garbled
 gravimeter
+gerontine
 gressible
 greywether
 governs
