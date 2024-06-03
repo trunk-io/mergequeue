@@ -4756,6 +4756,7 @@ feuillants
 flocculable
 fraternities
 fragilariaceae
+freedom
 feltmonger
 flaunching
 freshened
@@ -10070,7 +10071,6 @@ fringilline
 feminity
 forelaying
 fringilloid
-freedom
 foreleader
 frypans
 friponerie
