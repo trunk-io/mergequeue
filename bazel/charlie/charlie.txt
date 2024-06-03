@@ -4717,6 +4717,7 @@ carpetlayer
 carpetless
 carpetmaking
 captivation
+codheaded
 carpetmonger
 carpets
 carpetweb
@@ -17895,7 +17896,6 @@ codfishing
 clysterize
 chrestomathy
 cachaemia
-codheaded
 codiaceae
 chondrotome
 codiaeum
