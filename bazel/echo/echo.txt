@@ -3898,7 +3898,6 @@ emigrator
 eclogues
 equivote
 electrotonus
-emilia
 extraboldface
 eminencies
 eminent
@@ -13303,6 +13302,7 @@ exponent
 educated
 exponentiates
 enwrap
+emilia
 entomion
 encincture
 exponention
