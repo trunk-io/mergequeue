@@ -4389,7 +4389,6 @@ fishmonger
 floorward
 flossy
 fraternizer
-ferociousness
 fluorapatite
 fishmouth
 fishnet
@@ -11496,6 +11495,7 @@ fingerparted
 furthermost
 feetage
 freakiest
+ferociousness
 falkland
 furthest
 flittering
