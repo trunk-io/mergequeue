@@ -6113,7 +6113,6 @@ archilowe
 appetize
 agitable
 agitant
-agitate
 agitated
 agitation
 achillein
@@ -17114,6 +17113,7 @@ ayahausca
 apoapsis
 apoatropine
 apobiotic
+agitate
 alodia
 ambagious
 apoblast
