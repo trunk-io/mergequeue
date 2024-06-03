@@ -13494,7 +13494,6 @@ exscissor
 exscript
 exscriptural
 encrusting
-exsculptate
 ejecta
 exscutellate
 electromedical
@@ -13540,6 +13539,7 @@ emulation
 eyeglance
 esoteric
 exsufflate
+exsculptate
 exsufflation
 emmies
 exsufflicate
