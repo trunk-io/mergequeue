@@ -3249,7 +3249,6 @@ elusory
 elusoriness
 encharnel
 esophagospasm
-elute
 eluting
 exoascus
 elution
@@ -7894,6 +7893,7 @@ euconjugatae
 envermeil
 epigonium
 extractions
+elute
 epigonous
 endopsychic
 electrion

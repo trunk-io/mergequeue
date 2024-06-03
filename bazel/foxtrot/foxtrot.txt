@@ -1677,7 +1677,6 @@ fconv
 farcin
 familiar
 four
-fdnames
 fdub
 flamboyantly
 fortuitousness
@@ -11213,6 +11212,7 @@ failles
 fiendliness
 fieldsman
 flocculency
+fdnames
 fungologist
 frescoists
 fungosities
