@@ -11777,7 +11777,6 @@ commissionary
 chonchina
 chondral
 chondralgia
-chondrarsenite
 chondre
 chondrenchyma
 chondri
@@ -28310,6 +28309,7 @@ crateriform
 cratering
 craterkin
 chromites
+chondrarsenite
 craterless
 craterlet
 craterlike
