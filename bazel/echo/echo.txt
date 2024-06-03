@@ -110,7 +110,6 @@ engineership
 extraught
 earrings
 ears
-earshot
 edifies
 eaves
 earsplitting
@@ -10065,6 +10064,7 @@ estrif
 epauliere
 estrin
 estrins
+earshot
 estrogen
 epaulet
 estrogenic
