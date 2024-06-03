@@ -3313,7 +3313,6 @@ adad
 agalawood
 afreet
 adage
-adagy
 abactinal
 adagietto
 adagiettos
@@ -8213,6 +8212,7 @@ algorithmic
 algorithmically
 algors
 algovite
+adagy
 algraphy
 alguacil
 apoplectically
