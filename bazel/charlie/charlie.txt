@@ -17300,7 +17300,6 @@ coalsack
 coalsacks
 cachucha
 cheetie
-coalshed
 coalsheds
 cantil
 coalternate
@@ -31410,6 +31409,7 @@ clotho
 curmudgeonish
 curmudgeonly
 curmudgeons
+coalshed
 curmurring
 curney
 curnies
