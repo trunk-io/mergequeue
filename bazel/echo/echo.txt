@@ -3573,7 +3573,6 @@ embolon
 elms
 emboltement
 embordered
-embordering
 equoid
 epidesmine
 emboscata
@@ -10537,6 +10536,7 @@ empressment
 eversive
 epeirogenetic
 etypic
+embordering
 ensheath
 ecu
 equiponderation
