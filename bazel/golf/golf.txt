@@ -3138,7 +3138,6 @@ geomorphy
 graphiter
 gerbils
 gooseflesh
-gamelin
 gangliate
 gerate
 gaoler
@@ -4790,6 +4789,7 @@ girthed
 galactoside
 girths
 glutin
+gamelin
 gamosepalous
 germicidal
 gammaridae

@@ -670,6 +670,7 @@ famacide
 ferromagnet
 fletcherite
 flatweed
+fiascos
 furlanas
 flagship
 fantails
@@ -3071,7 +3072,6 @@ forbs
 furiousness
 fins
 fiars
-fiascos
 flukily
 foreman
 floodage
