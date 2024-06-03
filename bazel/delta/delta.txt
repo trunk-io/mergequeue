@@ -4653,7 +4653,6 @@ drawls
 demimonde
 deminatured
 demineralization
-demineralized
 demineralizer
 depreciating
 demonstrators
@@ -16165,6 +16164,7 @@ deoxygenize
 douzepers
 douzieme
 dualist
+demineralized
 douziemes
 dovecot
 dhows
