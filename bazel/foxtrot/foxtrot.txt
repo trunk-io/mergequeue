@@ -6455,7 +6455,6 @@ flurriment
 fisted
 futteret
 fictor
-flurt
 farriery
 flatboat
 fermerer
@@ -11667,6 +11666,7 @@ fusus
 fundal
 fougade
 filoselle
+flurt
 froglike
 flushable
 fut
