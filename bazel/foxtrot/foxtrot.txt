@@ -2986,7 +2986,6 @@ feuillage
 furcation
 flyoff
 feuilleton
-feuilletons
 fleches
 flapcake
 facier
@@ -7120,6 +7119,7 @@ footfault
 flyways
 fesels
 footfolk
+feuilletons
 fu
 fruticulture
 flumerin
