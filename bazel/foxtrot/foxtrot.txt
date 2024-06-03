@@ -3030,7 +3030,6 @@ fiats
 fazed
 fezzed
 fezzes
-fezzy
 fallway
 fadings
 forsake
@@ -3412,6 +3411,7 @@ firkin
 faintish
 fieldworker
 farcemeat
+fezzy
 feeless
 fieldwort
 fiendful
