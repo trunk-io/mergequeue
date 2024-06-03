@@ -8226,7 +8226,6 @@ dopaoxidase
 diaconica
 diaconus
 depotentiation
-diacoustics
 dactylic
 diacranterian
 diacritic
@@ -16197,6 +16196,7 @@ dover
 doves
 desireless
 deplasmolysis
+diacoustics
 dovetailwise
 dulciana
 doveweed
