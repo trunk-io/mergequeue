@@ -2610,7 +2610,6 @@ blackie
 battledore
 basiglandular
 baryon
-baryphonia
 baryphonic
 baris
 bearleap
@@ -16078,6 +16077,7 @@ brookier
 brookite
 brooklets
 batyphone
+baryphonia
 brooks
 budget
 bolsterers
