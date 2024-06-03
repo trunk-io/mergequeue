@@ -5122,7 +5122,6 @@ desensitizers
 denaturizer
 dendraspis
 dendrocoelous
-dendraxon
 desiccation
 decolorizer
 delightsome
@@ -11581,6 +11580,7 @@ drees
 dispassionately
 diandrous
 defrocks
+dendraxon
 dyspneal
 disconducive
 disconectae
