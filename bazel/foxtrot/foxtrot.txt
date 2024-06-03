@@ -8129,7 +8129,6 @@ forewarns
 fevertwig
 flockbed
 forewent
-foghorn
 frostbird
 forewings
 frenate
@@ -9839,6 +9838,7 @@ fatals
 fretish
 farrows
 fermiums
+foghorn
 feldspathic
 fuds
 frett
