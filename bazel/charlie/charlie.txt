@@ -10982,7 +10982,6 @@ chirographers
 crl
 calumniated
 chirography
-candlelighted
 chirographical
 chirolas
 chirology
@@ -29684,6 +29683,7 @@ crokinole
 crom
 cromaltite
 cofathership
+candlelighted
 cromer
 cocovenantor
 cromlech
