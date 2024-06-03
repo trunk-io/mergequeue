@@ -7671,7 +7671,6 @@ forehock
 forehoof
 flotter
 forspeak
-frist
 forehoofs
 forehooves
 forpit
@@ -9558,6 +9557,7 @@ favouress
 frecklier
 frowns
 freckliness
+frist
 flighting
 feedboxes
 freckling
