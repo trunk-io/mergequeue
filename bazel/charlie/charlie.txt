@@ -5220,7 +5220,6 @@ casing
 casings
 casiri
 casita
-casitas
 caskanet
 casket
 corpl
@@ -28202,6 +28201,7 @@ crankiness
 cranking
 crankle
 cima
+casitas
 crankled
 crankles
 crankless
