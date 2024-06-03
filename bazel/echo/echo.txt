@@ -715,7 +715,6 @@ esteros
 epithelial
 epicism
 enanthesis
-ecodeme
 ecol
 ecole
 eidolism
@@ -1542,6 +1541,7 @@ effuviate
 efl
 eflagelliferous
 efoliose
+ecodeme
 electromagnetically
 efph
 enantiomorphism
