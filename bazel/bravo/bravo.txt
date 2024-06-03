@@ -5624,7 +5624,6 @@ bawdship
 barricading
 bourbonian
 bejewelling
-bejewels
 backstamp
 bejezebel
 beadhouses
@@ -11386,6 +11385,7 @@ badgerbrush
 blub
 blickey
 blubbed
+bejewels
 blubber
 bhar
 bluntest
