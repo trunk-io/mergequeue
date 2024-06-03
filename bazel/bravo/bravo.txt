@@ -856,7 +856,6 @@ bagdi
 bauxites
 bagful
 bemantle
-barbaric
 baggagemaster
 baggager
 benzidin
@@ -1290,6 +1289,7 @@ bleaberry
 balangay
 balanidae
 benzopyranyl
+barbaric
 boose
 boliviano
 bawdyhouses
