@@ -16454,7 +16454,6 @@ ascidiia
 antjar
 antler
 alcoves
-antlerite
 antlerless
 antlers
 antlia
@@ -23355,6 +23354,7 @@ aftersong
 alkalescency
 abashedly
 admonitorial
+antlerite
 auditive
 agnail
 antefurcal

@@ -11004,6 +11004,7 @@ diasystem
 disaligned
 diipolia
 disally
+dartboard
 disalliege
 disallow
 disallowance
@@ -18267,7 +18268,6 @@ diacoca
 dysprosium
 dunlap
 dunlins
-dartboard
 dunnaging
 demodulated
 dunnakin
