@@ -1128,6 +1128,7 @@ bairnish
 bairnishness
 bloodthirstily
 bairnly
+biter
 barkstone
 bedimmed
 brindled
@@ -9904,7 +9905,6 @@ barrels
 bited
 bromocamphor
 balawa
-biter
 biternately
 biters
 barbing
