@@ -5178,6 +5178,7 @@ cashbooks
 cashbox
 caesural
 cashboxes
+cambism
 chromophor
 cambaye
 continuando
@@ -29523,7 +29524,6 @@ criteria
 cryptogamous
 criteriia
 criteriology
-cambism
 criterional
 criterions
 capelocracy
