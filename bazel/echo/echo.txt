@@ -4248,7 +4248,6 @@ emptiness
 emptio
 emptor
 emprizes
-encipher
 expo
 emptory
 eduction
@@ -9125,6 +9124,7 @@ erythritol
 ebionism
 earlet
 editorially
+encipher
 erythroblast
 eurychoric
 erythroblastic
