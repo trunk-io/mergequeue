@@ -5731,7 +5731,6 @@ agalwoods
 agama
 agamemnon
 agamete
-angulates
 agami
 agamy
 ascigerous
@@ -19350,6 +19349,7 @@ ardour
 ardours
 ardri
 ardu
+angulates
 aminoethionic
 aerosiderolite
 amygdophenin
