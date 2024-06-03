@@ -10685,7 +10685,6 @@ amphithalmi
 aryepiglottidean
 aminobenzaldehyde
 anthrachrysone
-aminobenzoic
 appetency
 amynodon
 amynodont
@@ -15872,6 +15871,7 @@ antiphonary
 avalanched
 anaphoric
 ahankara
+aminobenzoic
 anodize
 antiphony
 asepsis
