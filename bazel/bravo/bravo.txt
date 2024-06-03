@@ -11467,7 +11467,6 @@ bluepoints
 blueprint
 biophotometer
 bluesy
-bluesides
 bluesman
 bromisms
 bluesmen
@@ -12773,6 +12772,7 @@ booklets
 broomy
 bookling
 bieennia
+bluesides
 brandishing
 booklists
 booklore
