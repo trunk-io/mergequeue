@@ -8839,7 +8839,6 @@ chapellany
 chapelled
 cimnel
 cobnut
-chapelling
 commonplaces
 chapelman
 chapelmaster
@@ -14888,6 +14887,7 @@ cueball
 citification
 cityfied
 citifying
+chapelling
 calycophorae
 cityfolk
 citigradae
