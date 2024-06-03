@@ -2420,6 +2420,7 @@ contuse
 cancrophagous
 cancrum
 cancrums
+catchplate
 cand
 candareen
 candelabra
@@ -8893,7 +8894,6 @@ cantle
 chappin
 chapping
 cosmopolitic
-catchplate
 chaprasi
 caranx
 chapstick
