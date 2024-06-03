@@ -4921,7 +4921,6 @@ batel
 bedur
 bedway
 bedways
-bromargyrite
 bindings
 blackwashing
 belavendered
@@ -15834,6 +15833,7 @@ becompass
 batler
 bryozoa
 beduke
+bromargyrite
 bromeosin
 bromes
 brahminee
