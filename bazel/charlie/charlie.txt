@@ -3800,7 +3800,6 @@ chude
 carbomethene
 carbomethoxy
 carbomethoxyl
-carbomycin
 cryptobranchidae
 carbon
 carbona
@@ -8493,6 +8492,7 @@ chambioa
 chambray
 colloquist
 chlorine
+carbomycin
 chambrays
 chambranle
 confected
