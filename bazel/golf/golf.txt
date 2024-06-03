@@ -6710,7 +6710,6 @@ gonaduct
 gesticulated
 gonalgia
 gallinae
-gonangial
 gar
 gonangium
 gonapod
@@ -9047,6 +9046,7 @@ grinch
 glabrous
 geoid
 grincome
+gonangial
 gipsyhead
 grindable
 glossopalatine
