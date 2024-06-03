@@ -5181,7 +5181,6 @@ euryalida
 endolymphatic
 estafette
 ectobatic
-endolysin
 endomastoiditis
 esterification
 endome
@@ -13865,6 +13864,7 @@ enviers
 extradoses
 extraembryonic
 extraequilibrium
+endolysin
 extraessential
 extrafine
 extrafloral
