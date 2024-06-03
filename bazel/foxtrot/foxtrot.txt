@@ -2949,7 +2949,6 @@ feudalist
 frettage
 feudalists
 fractionising
-fustigation
 feudalizing
 fantastical
 feudatary
@@ -7663,6 +7662,7 @@ franchised
 flustrate
 fyrdung
 frontierlike
+fustigation
 foreshadows
 flourishment
 foziest
