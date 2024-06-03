@@ -2731,7 +2731,6 @@ dyostyle
 dattos
 dollish
 deconsecration
-deconsider
 deconsideration
 decontaminated
 decontaminates
@@ -11112,6 +11111,7 @@ disassociates
 disassociation
 decarburised
 disasterly
+deconsider
 decomposition
 disasters
 diagraphics
