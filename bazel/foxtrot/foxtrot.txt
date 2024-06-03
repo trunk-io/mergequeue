@@ -7291,7 +7291,6 @@ fearnaught
 frampold
 flamfew
 forswearer
-fair
 flagellant
 forbearing
 fulcrum
@@ -11367,6 +11366,7 @@ furify
 felis
 fermage
 futurity
+fair
 fifthly
 furivae
 furlan
