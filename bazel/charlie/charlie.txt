@@ -7573,7 +7573,6 @@ cambrian
 ceraunograph
 ceraunophone
 ceraunoscope
-ceraunoscopy
 cerberus
 cercal
 cercaria
@@ -11616,6 +11615,7 @@ cholanic
 cholanthrene
 conveniens
 cussing
+ceraunoscopy
 cholate
 chamberer
 cholates
