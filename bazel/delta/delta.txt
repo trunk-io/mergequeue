@@ -8706,7 +8706,6 @@ diastalsis
 diastases
 diglossia
 diastasic
-disgustedness
 diazepam
 diastasimetry
 diastasis
@@ -9491,6 +9490,7 @@ dinornithidae
 digesting
 digestion
 digestively
+disgustedness
 digestiveness
 diamonded
 dermad
