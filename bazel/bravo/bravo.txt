@@ -6682,7 +6682,6 @@ beetlers
 beneficence
 bukh
 bereavers
-bodyplate
 bereaves
 boninesses
 biz
@@ -14519,6 +14518,7 @@ branchiostegidae
 branchiostoma
 branchiostomid
 branchiostomous
+bodyplate
 branchireme
 branchless
 banefulness
