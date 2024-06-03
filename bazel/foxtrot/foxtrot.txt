@@ -4001,7 +4001,6 @@ feudalise
 freezable
 fruiterer
 fotched
-fingram
 frumpishness
 finical
 fluxibly
@@ -7339,6 +7338,7 @@ forebodingly
 formally
 flakiness
 flyness
+fingram
 flosculous
 filles
 forbidals
