@@ -17880,7 +17880,6 @@ afterdischarge
 applier
 autocab
 aversation
-applies
 antispasis
 applying
 applyingly
@@ -23008,6 +23007,7 @@ attainment
 attainments
 attainor
 apprehensions
+applies
 antiegoistic
 acridium
 antimicrobial
