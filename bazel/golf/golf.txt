@@ -2665,6 +2665,7 @@ generant
 greige
 generate
 generated
+giga
 gomerel
 generater
 generations
@@ -3914,7 +3915,6 @@ gruffed
 gurgle
 gardenwards
 gwely
-giga
 globoseness
 gaudete
 gigabytes
