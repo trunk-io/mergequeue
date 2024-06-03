@@ -5546,6 +5546,7 @@ firstling
 felonweed
 frouncing
 flageolet
+footman
 flamant
 fascicled
 feoffment
@@ -6870,7 +6871,6 @@ fp
 folklorists
 fiberizer
 florian
-footman
 floccosely
 fringier
 forespeaker
