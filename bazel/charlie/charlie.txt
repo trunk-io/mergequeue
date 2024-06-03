@@ -7901,6 +7901,7 @@ cervicofacial
 cervicolabial
 cervicolumbar
 crystal
+coronalled
 cervicomuscular
 chiasmi
 camphines
@@ -25572,7 +25573,6 @@ cataphonics
 controversionalism
 confervous
 coronaled
-coronalled
 coronals
 coronamen
 coronary
