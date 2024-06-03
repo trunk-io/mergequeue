@@ -2512,6 +2512,7 @@ candlewaster
 cambial
 candlewasting
 candlewick
+cordwoods
 candlewicking
 candlewicks
 candlewright
@@ -25100,7 +25101,6 @@ cordwainer
 cordwood
 choleraic
 cloves
-cordwoods
 cicatrixes
 core
 coreceiver
