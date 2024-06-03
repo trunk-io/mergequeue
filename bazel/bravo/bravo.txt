@@ -1436,6 +1436,7 @@ baleen
 baleens
 balefire
 balefires
+brombenzene
 balefully
 baleys
 baleise
@@ -15803,7 +15804,6 @@ bromaurate
 bromauric
 brombenzamide
 bumboats
-brombenzene
 bidiurnal
 bowwort
 bookbinders
