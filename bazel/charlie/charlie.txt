@@ -2060,6 +2060,7 @@ campanular
 campanulariae
 campanularidae
 campanulatae
+commensally
 campanulate
 campanulated
 chondrosarcomata
@@ -20085,7 +20086,6 @@ commendment
 commends
 commensal
 commensalist
-commensally
 campodeid
 commensals
 commensurability
