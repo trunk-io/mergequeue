@@ -7155,7 +7155,6 @@ edicts
 enemy
 esses
 epiplexis
-ergotamine
 envying
 employees
 energic
@@ -13553,6 +13552,7 @@ escheating
 enjoinder
 embroiders
 extance
+ergotamine
 extancy
 extbook
 ethylated
