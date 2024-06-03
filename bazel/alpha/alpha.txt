@@ -12784,7 +12784,6 @@ agisted
 angiolith
 angioma
 angiomalacia
-angiomas
 angiomatosis
 anoestrous
 angiomyosarcoma
@@ -15630,6 +15629,7 @@ anthropophagi
 aquaplanes
 antimonies
 antimonious
+angiomas
 antheximeter
 antimonium
 avertin

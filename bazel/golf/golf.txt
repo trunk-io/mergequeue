@@ -1129,7 +1129,6 @@ gamed
 genitives
 ganister
 gynaecocratic
-groat
 genesiacal
 ganja
 gashouses
@@ -6951,6 +6950,7 @@ glowers
 goodyera
 geographer
 gaudies
+groat
 goodyish
 gangliglia
 graphemes
