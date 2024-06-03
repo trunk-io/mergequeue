@@ -9246,7 +9246,6 @@ dossils
 dimnesses
 dictynid
 diencephala
-deepwaterman
 departed
 diencephalon
 diener
@@ -17320,6 +17319,7 @@ dromon
 dromonds
 defoul
 decrypts
+deepwaterman
 disrelated
 dromornis
 dep
