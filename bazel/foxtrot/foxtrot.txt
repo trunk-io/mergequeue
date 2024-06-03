@@ -4461,6 +4461,7 @@ furzes
 fissions
 fissipalmation
 forheed
+flagonet
 farming
 forcer
 faunal
@@ -7535,7 +7536,6 @@ forecommend
 foreconclude
 followeth
 foreconsider
-flagonet
 frontignac
 forgivably
 forecount
