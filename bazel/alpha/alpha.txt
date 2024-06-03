@@ -7619,7 +7619,6 @@ abote
 alcalde
 alcaldes
 alcaldeship
-alcaldia
 alcalizate
 alcalzar
 alcanna
@@ -8046,6 +8045,7 @@ airier
 alexipyretic
 alexis
 alexiteric
+alcaldia
 alexiterical
 admirations
 alexius
