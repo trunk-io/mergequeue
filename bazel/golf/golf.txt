@@ -8560,6 +8560,7 @@ gyrene
 guti
 glowbird
 gallied
+gutta
 grapline
 guidons
 gantlines
@@ -10406,7 +10407,6 @@ gullets
 garbanzos
 granulomas
 gnathobasic
-gutta
 gyrenes
 gullies
 girandola
