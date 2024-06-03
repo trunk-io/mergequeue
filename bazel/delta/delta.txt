@@ -6650,6 +6650,7 @@ deserted
 deserters
 deescalated
 denotational
+devirilize
 defatigated
 degrade
 dipped
@@ -12215,7 +12216,6 @@ disclose
 declaratively
 dysfunctional
 dysfunctioning
-devirilize
 davening
 detector
 dysfunctions
