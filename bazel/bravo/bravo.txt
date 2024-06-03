@@ -2230,6 +2230,7 @@ birchbark
 beltline
 barabra
 banderoling
+bevaring
 batwoman
 blushers
 bestseller
@@ -7607,7 +7608,6 @@ beuncled
 bura
 borates
 beurre
-bevaring
 beveil
 bevelers
 bevelled
