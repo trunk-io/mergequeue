@@ -4557,7 +4557,6 @@ carny
 coccostean
 couscouses
 carnie
-clapperdudgeon
 carnied
 carniferrin
 carnifex
@@ -24028,6 +24027,7 @@ conveyance
 conveyances
 conveyed
 coonskins
+clapperdudgeon
 conveyer
 conveying
 conveyorization
