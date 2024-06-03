@@ -4468,7 +4468,6 @@ asthenias
 allemande
 agrypnode
 adumbrative
-adumbral
 adunation
 astutely
 adunc
@@ -7909,6 +7908,7 @@ alphitomancy
 advent
 aleyrodes
 augites
+adumbral
 apostemation
 alejandro
 aleknight
