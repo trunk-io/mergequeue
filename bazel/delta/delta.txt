@@ -16433,7 +16433,6 @@ dowve
 doxa
 diapsidan
 doxastic
-dechlog
 doxasticon
 doxy
 doxie
@@ -18183,6 +18182,7 @@ dispensary
 denotement
 duncish
 dilling
+dechlog
 duncishness
 dundasite
 discalced
