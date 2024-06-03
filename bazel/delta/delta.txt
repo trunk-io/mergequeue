@@ -4766,7 +4766,6 @@ demitint
 demitoilet
 demitone
 deteriorated
-demitrain
 demitranslucence
 demits
 demitted
@@ -12443,6 +12442,7 @@ deboise
 disyllabic
 disyllabized
 destains
+demitrain
 disilluminate
 dumky
 daun
