@@ -6448,7 +6448,6 @@ forsteal
 flurries
 flurrying
 flurriment
-fisted
 futteret
 fictor
 figureheadless
@@ -11636,6 +11635,7 @@ fustians
 fustics
 fustigated
 fixable
+fisted
 frolicsomely
 fibrous
 ficoes
