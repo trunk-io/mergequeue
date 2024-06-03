@@ -11975,6 +11975,7 @@ dropshots
 disencumbering
 disemboweling
 disembowelled
+donee
 disaffirm
 daffs
 dehydrofreezing
@@ -13843,7 +13844,6 @@ distasting
 dross
 displaces
 distater
-donee
 distaves
 dystaxias
 dedicational
