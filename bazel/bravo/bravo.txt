@@ -11730,6 +11730,7 @@ bais
 belfast
 bobcats
 binmen
+brewing
 blet
 beboss
 backlighting
@@ -15070,7 +15071,6 @@ benting
 brewership
 brewhouse
 brewhouses
-brewing
 brewis
 benzenes
 benzofuroquinoxaline
