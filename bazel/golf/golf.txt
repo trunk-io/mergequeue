@@ -2597,7 +2597,6 @@ genep
 gained
 grooveless
 gigmania
-genepi
 grinder
 generable
 generalcy
@@ -4549,6 +4548,7 @@ gyp
 gyps
 greffier
 gentisic
+genepi
 greable
 griskin
 gipsy
