@@ -18138,7 +18138,6 @@ club
 craneman
 coenogenetic
 coenomonoecism
-coenosarc
 coenosarcous
 coenosite
 coenospecies
@@ -19097,6 +19096,7 @@ chelone
 colletes
 counterpose
 colletia
+coenosarc
 colletidae
 colletin
 colleting
