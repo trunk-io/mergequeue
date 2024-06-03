@@ -1850,7 +1850,6 @@ guestimate
 gallophobia
 gyms
 gelatinotype
-grippelike
 gaged
 gestalten
 gastrosopher
@@ -6861,6 +6860,7 @@ gestures
 goniunia
 geoffroyine
 gonoblast
+grippelike
 gynaecologic
 grooving
 gonochorism
