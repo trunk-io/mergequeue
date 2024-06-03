@@ -648,7 +648,6 @@ ghettoization
 gallivant
 gallivanters
 glide
-gallize
 grizzled
 gallnuts
 ginney
@@ -9927,6 +9926,7 @@ gaisling
 guaranteers
 glottis
 genevese
+gallize
 gangplow
 guaranty
 glyceride
