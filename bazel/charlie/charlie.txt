@@ -4793,7 +4793,6 @@ chibouk
 carposporangial
 catalase
 carpospore
-carposporous
 carps
 carpsucker
 cavalierish
@@ -31072,6 +31071,7 @@ counternotice
 cunnilinctus
 cunnilinguism
 cavalries
+carposporous
 cunninger
 cunninghamia
 cunningness
