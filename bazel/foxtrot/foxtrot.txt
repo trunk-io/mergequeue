@@ -5751,7 +5751,6 @@ flitted
 fevertwig
 flambee
 forestside
-foreknowledge
 foreground
 finises
 forebear
@@ -11287,6 +11286,7 @@ funs
 funster
 factorial
 furans
+foreknowledge
 furacious
 falconelle
 furaciousness
