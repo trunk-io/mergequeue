@@ -3646,7 +3646,6 @@ adenohypophyseal
 atry
 adenoidal
 adenoidectomy
-adenoidism
 adroitest
 adenoids
 adenolymphocele
@@ -9521,6 +9520,7 @@ antilocapridae
 archaeogeology
 alternariose
 alternate
+adenoidism
 alternated
 alternately
 apheretic
