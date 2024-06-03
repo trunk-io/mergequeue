@@ -10819,7 +10819,6 @@ ammodytidae
 airtightness
 ammodytoid
 ammonal
-ammonate
 angleworms
 agoge
 amphibryous
@@ -13437,6 +13436,7 @@ ankylosis
 ankylostomiasis
 ankylotia
 ankylotic
+ammonate
 allotriodontia
 ankle
 anklejack
