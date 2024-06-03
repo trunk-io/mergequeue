@@ -3265,7 +3265,6 @@ bote
 bentwood
 blottesquely
 bractea
-babbling
 basilian
 bicorporeal
 basilic
@@ -12863,6 +12862,7 @@ boomkins
 birthdays
 bootes
 basiliscine
+babbling
 barnabite
 blizzardous
 boomslang

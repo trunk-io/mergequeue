@@ -6639,7 +6639,6 @@ aigialosaur
 aigialosauridae
 aigialosaurus
 antasthenic
-aiglet
 antsy
 aiglets
 aiglette
@@ -15398,6 +15397,7 @@ antihygienically
 aircraftswomen
 antihylist
 antihypertensives
+aiglet
 antihypnotically
 antihypochondriac
 anticoincidence
