@@ -1344,7 +1344,6 @@ demissive
 dunno
 dompt
 dauntingly
-damagement
 dart
 dauntingness
 dauntlessly
@@ -5932,6 +5931,7 @@ depreciatingly
 depreciation
 daffery
 depreciative
+damagement
 depreciator
 deoxygenization
 deforceor
