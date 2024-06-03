@@ -2664,7 +2664,6 @@ exciple
 electroresection
 entrepreneuse
 epiboly
-electroretinographic
 essayistic
 embryotic
 eructates
@@ -3835,6 +3834,7 @@ emeraude
 emerge
 ecart
 emerged
+electroretinographic
 edulcorated
 endosteal
 emergence
