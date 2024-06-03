@@ -1182,7 +1182,6 @@ datably
 datafile
 dillydallying
 dataflow
-datagram
 datagrams
 doormat
 datakit
@@ -14361,6 +14360,7 @@ decemfoliolate
 desynonymization
 divebomb
 dogmatists
+datagram
 divellent
 debromination
 diverb
