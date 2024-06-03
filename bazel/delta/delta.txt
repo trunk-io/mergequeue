@@ -1657,7 +1657,6 @@ dozening
 divergency
 deamidase
 dentimeter
-deamidation
 deamidization
 deaminase
 decating
@@ -3355,6 +3354,7 @@ dopamines
 dakoits
 dorsoposteriad
 defeatment
+deamidation
 deleteriously
 disrates
 defiles
