@@ -4357,6 +4357,7 @@ etude
 enameling
 enamelist
 equiped
+enameller
 enamelless
 earsh
 enamels
@@ -8706,7 +8707,6 @@ enzymotic
 emphyteuta
 emergently
 equinate
-enameller
 emerging
 equinity
 excretions
