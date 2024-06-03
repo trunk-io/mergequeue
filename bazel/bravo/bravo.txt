@@ -1495,7 +1495,6 @@ boyarisms
 brith
 blighter
 balkish
-baryton
 beggar
 boroglycerate
 ball
@@ -13126,6 +13125,7 @@ bkbndr
 basophil
 bornane
 bornean
+baryton
 borneol
 borneols
 bidi
