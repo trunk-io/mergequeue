@@ -11704,7 +11704,6 @@ cholesteatomatous
 cholestene
 cholesteremia
 cholesteric
-cholesteryl
 chariotee
 cholesterin
 chappow
@@ -17980,6 +17979,7 @@ coelection
 coelector
 cacheted
 chololith
+cholesteryl
 captiving
 crossbowmen
 colpocele
