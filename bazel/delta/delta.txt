@@ -3582,6 +3582,7 @@ dragboat
 defrocks
 defrost
 dillis
+desktop
 demultiplexes
 dunces
 digitised
@@ -11400,7 +11401,6 @@ disciplining
 discipular
 dislikes
 discission
-desktop
 disempower
 disclaimed
 deadbeats
