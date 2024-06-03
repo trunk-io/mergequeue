@@ -3050,7 +3050,6 @@ grebes
 gomeisa
 gollop
 geoffroyin
-geomance
 geogen
 geogenesis
 gyropilot
@@ -3076,6 +3075,7 @@ gaolering
 geographies
 geordie
 grocerdom
+geomance
 galliardness
 geoids
 geoisotherm
