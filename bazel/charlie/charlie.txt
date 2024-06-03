@@ -2890,7 +2890,6 @@ curling
 checkle
 canthari
 cantharic
-cantharidae
 cake
 chytrid
 cantharidate
@@ -8913,6 +8912,7 @@ costae
 charabanc
 capkin
 compensativeness
+cantharidae
 charabancs
 characeae
 characids
