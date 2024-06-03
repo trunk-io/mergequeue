@@ -37,7 +37,6 @@ fabricates
 flippance
 fabricational
 fabrications
-fabricator
 flintless
 flick
 fabricators
@@ -839,6 +838,7 @@ fallout
 firebolt
 finicalness
 francophobia
+fabricator
 faery
 fosslify
 fanjet
