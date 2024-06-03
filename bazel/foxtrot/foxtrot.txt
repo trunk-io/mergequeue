@@ -10649,7 +10649,6 @@ forenamed
 fruitgrower
 foodstuffs
 fruitier
-fixity
 fruitiness
 famish
 frightable
@@ -10934,6 +10933,7 @@ ferrying
 franticness
 fullterm
 fidgeters
+fixity
 flavorful
 fulltime
 frescoes
