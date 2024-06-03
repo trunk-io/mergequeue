@@ -1898,7 +1898,6 @@ goliard
 gatekeepers
 glaces
 grasses
-gnathopod
 glueing
 glutenous
 gheg
@@ -5351,6 +5350,7 @@ geet
 gunnar
 glyceridic
 granitical
+gnathopod
 guiro
 glossopteris
 glycerin
