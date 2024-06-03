@@ -6453,7 +6453,6 @@ flurriment
 fisted
 futteret
 fictor
-figureheadless
 flurt
 farriery
 flatboat
@@ -10848,6 +10847,7 @@ fishpool
 facies
 fulgency
 fortified
+figureheadless
 forwore
 franciscan
 fabledom
