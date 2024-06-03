@@ -9698,7 +9698,6 @@ esophagomycosis
 esophagopathy
 esophagoplasty
 esophagorrhagia
-embodiment
 expuition
 esophagoscopy
 esophagostenosis
@@ -10359,6 +10358,7 @@ ethmofrontal
 esquamate
 escorial
 envelop
+embodiment
 elapses
 eemis
 ethmolith
