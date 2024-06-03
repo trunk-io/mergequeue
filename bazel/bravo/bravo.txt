@@ -8424,7 +8424,6 @@ boers
 bourtrees
 bureaucratically
 bigeminum
-biconditional
 bigeneric
 buvette
 bigfoot
@@ -12309,6 +12308,7 @@ boltonite
 boltrope
 bittern
 boltropes
+biconditional
 boltsmith
 barbarea
 beakful
