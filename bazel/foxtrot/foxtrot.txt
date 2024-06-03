@@ -2610,7 +2610,6 @@ ferrandin
 furiosity
 ferricyanide
 ferrihydrocyanic
-furosemide
 fervency
 fenugreek
 feedsman
@@ -4798,6 +4797,7 @@ fockle
 feasting
 fustigate
 floor
+furosemide
 fickleness
 formalin
 facia
