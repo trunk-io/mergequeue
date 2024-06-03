@@ -1984,7 +1984,6 @@ fuzes
 feedlots
 fiendishly
 folio
-frat
 fravashi
 forebears
 feeds
@@ -2625,6 +2624,7 @@ fiduciaries
 forbidden
 ferritungstite
 flurry
+frat
 ferryway
 finding
 ferroaluminum
