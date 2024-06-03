@@ -6452,7 +6452,6 @@ flurriment
 fisted
 futteret
 fictor
-flurt
 farriery
 flatboat
 fermerer
@@ -8254,6 +8253,7 @@ fusspots
 forgrow
 fountaining
 foursome
+flurt
 fricandeau
 frore
 fameflower
