@@ -1510,7 +1510,6 @@ dingbats
 declive
 deacetylate
 defraudment
-deacetylating
 deacidification
 deaconal
 deaconate
@@ -8212,6 +8211,7 @@ disload
 diaclinal
 diacodion
 dualistically
+deacetylating
 diacodium
 desertful
 diacoele
