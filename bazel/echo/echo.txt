@@ -615,6 +615,7 @@ egers
 extrudable
 epigeal
 echometer
+enterocoele
 echopractic
 echos
 echovirus
@@ -758,7 +759,6 @@ economist
 economize
 enweaved
 economized
-enterocoele
 errorless
 elucidated
 epithecicia
