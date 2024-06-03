@@ -15906,6 +15906,7 @@ cleanser
 cleansers
 cleanses
 cleanskin
+curfewed
 cleanskins
 cleanup
 chelaship
@@ -31305,7 +31306,6 @@ cawk
 consolitorily
 cruziero
 curfew
-curfewed
 curfews
 captress
 concordats
