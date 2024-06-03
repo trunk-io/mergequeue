@@ -1108,6 +1108,7 @@ floter
 foredestining
 foremast
 farolito
+foederati
 foveole
 flustration
 ferriages
@@ -6632,7 +6633,6 @@ fodder
 fodderer
 foreassign
 foder
-foederati
 frontes
 flintily
 fillip
