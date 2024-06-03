@@ -1968,7 +1968,6 @@ cassique
 camises
 cytosin
 camisia
-camisias
 camisole
 complicacies
 camisoles
@@ -13536,6 +13535,7 @@ crossarm
 cyclotome
 cyclotomic
 conveyorize
+camisias
 cyclotomies
 cyclotosaurus
 cyclotrimethylenetrinitramine
