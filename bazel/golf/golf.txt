@@ -1734,6 +1734,7 @@ gastrodermis
 gpd
 gyracanthus
 gnotobiote
+genl
 goosemouth
 guayabo
 gravemaking
@@ -2084,7 +2085,6 @@ galactia
 glandula
 gauzy
 gauzier
-genl
 gladdening
 gauziest
 gainsayers
