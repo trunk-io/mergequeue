@@ -748,7 +748,6 @@ badging
 badgir
 banksman
 bifrost
-badhan
 badiaga
 breathy
 brassage
@@ -2897,6 +2896,7 @@ brushland
 barraging
 bailer
 berried
+badhan
 bowle
 barramunda
 bracero
