@@ -4530,7 +4530,6 @@ beclogged
 bludging
 beclogs
 bretonian
-bilabials
 beclothe
 beclothes
 blanketry
@@ -4927,6 +4926,7 @@ bindings
 blackwashing
 belavendered
 barratry
+bilabials
 bedwards
 bedwarf
 backstrokes
