@@ -3235,7 +3235,6 @@ defectoscope
 defectum
 dehumidification
 dummkopf
-defedation
 dasyures
 defeise
 dashpot
@@ -4379,6 +4378,7 @@ delver
 documentalist
 demasculinise
 dorsointestinal
+defedation
 dem
 demagnetisable
 dioptrometer
