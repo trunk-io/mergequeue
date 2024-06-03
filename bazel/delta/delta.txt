@@ -2751,7 +2751,6 @@ deconvolution
 dishwash
 devoured
 dartingness
-deconvolve
 decopperization
 decopperize
 decor
@@ -16411,6 +16410,7 @@ dysthymia
 deducive
 downweed
 dehydrating
+deconvolve
 downweighted
 downwind
 dephlegm
