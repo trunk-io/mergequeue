@@ -2181,6 +2181,7 @@ grimgribber
 ganodus
 guarabu
 gazebo
+gwantus
 gazeboes
 glabella
 gazebos
@@ -9063,7 +9064,6 @@ gesture
 gittern
 grisounite
 gringole
-gwantus
 gordonia
 gummosis
 gigful
