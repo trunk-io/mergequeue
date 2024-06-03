@@ -6685,7 +6685,6 @@ enteroplegia
 eulogy
 enthalpies
 epilogism
-enteropneusta
 enteroptosis
 enterorrhagia
 ethions
@@ -12533,6 +12532,7 @@ eximidus
 eximious
 expatiator
 etiogenic
+enteropneusta
 envisages
 eyedroppers
 embosture
