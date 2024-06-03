@@ -2662,7 +2662,6 @@ acraeinae
 acrania
 acranial
 aethalia
-acraniate
 assignor
 acrasias
 antiagglutination
@@ -15641,6 +15640,7 @@ anthropophagi
 aquaplanes
 antimonies
 antimonious
+acraniate
 antheximeter
 antimonium
 avertin

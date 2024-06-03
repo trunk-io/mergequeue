@@ -13602,6 +13602,7 @@ cygnets
 cygnid
 commodore
 cygninae
+corruptions
 cygnus
 cigua
 ciguatera
@@ -25897,7 +25898,6 @@ corruptingly
 corruption
 corruptionist
 cerographies
-corruptions
 corollas
 corruptious
 cattily
