@@ -788,7 +788,6 @@ gummaker
 groupings
 galvanoscopy
 gladsomer
-gustiness
 galvanoscopic
 graywether
 galvanosurgery
@@ -1959,6 +1958,7 @@ germaniums
 gliss
 groundable
 girdler
+gustiness
 gaucie
 gumshoe
 gowd
