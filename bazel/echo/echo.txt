@@ -49,6 +49,7 @@ eschewal
 eardropper
 earflap
 earflaps
+enorganic
 expender
 enzyms
 earflower
@@ -8016,7 +8017,6 @@ eremurus
 epimeric
 epimeride
 epimerism
-enorganic
 exhaustibility
 empidonax
 epitomate
