@@ -7466,7 +7466,6 @@ detrudes
 distalia
 detruding
 disulphid
-detruncate
 detruncating
 detruncation
 damneder
@@ -13811,6 +13810,7 @@ disenchants
 dissuasion
 dissuasively
 demolitionary
+detruncate
 dissuasory
 dissuit
 duhat
