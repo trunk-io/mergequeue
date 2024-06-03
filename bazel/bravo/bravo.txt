@@ -2723,6 +2723,7 @@ barmcloth
 brither
 becoward
 barms
+besing
 barn
 barnabas
 barnaby
@@ -9845,7 +9846,6 @@ bissonata
 byssus
 burrawang
 barwin
-besing
 bystander
 bistate
 boomer
