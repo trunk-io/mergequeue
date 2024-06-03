@@ -14812,6 +14812,7 @@ cystospastic
 cystospore
 cystostomy
 cystostomies
+covert
 cystotome
 cystotomy
 cystotomies
@@ -23422,7 +23423,6 @@ containerships
 containing
 containment
 containments
-covert
 contains
 canzonetta
 contakion
