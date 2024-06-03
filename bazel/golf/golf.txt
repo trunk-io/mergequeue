@@ -510,7 +510,6 @@ globing
 gastriloquist
 galionji
 guestimated
-gnatcatcher
 gamodesmy
 gnocchetti
 gret
@@ -7158,6 +7157,7 @@ gore
 gorebill
 gearboxes
 gored
+gnatcatcher
 gores
 gingerbready
 gorfly
