@@ -3871,6 +3871,7 @@ anschauung
 articulary
 adipomata
 applauded
+angiographic
 adipometer
 adiponitrile
 axial
@@ -12785,7 +12786,6 @@ angiogeny
 anyway
 adeems
 angiography
-angiographic
 angiohemophilia
 anhelous
 angiohypotonia
