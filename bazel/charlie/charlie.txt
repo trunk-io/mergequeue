@@ -3373,7 +3373,6 @@ commonable
 capreolus
 capretto
 capri
-capric
 colicweed
 capriccetto
 capricci
@@ -23475,6 +23474,7 @@ centenaries
 contemplator
 contemple
 campanularia
+capric
 contemporaneous
 contemporaneousness
 contemporary
