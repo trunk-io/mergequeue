@@ -96,7 +96,6 @@ bungy
 baconic
 bludgeoned
 babylike
-babillard
 babylon
 butylating
 backtrace
@@ -699,6 +698,7 @@ bad
 badaga
 badarian
 barnstormed
+babillard
 badass
 besprinkler
 birdshot
