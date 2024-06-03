@@ -431,6 +431,7 @@ backplanes
 backpointer
 braconid
 bushwas
+bluenoses
 backropes
 backrush
 backscatter
@@ -11464,7 +11465,6 @@ beetleweed
 beprank
 bluenose
 burros
-bluenoses
 bluepoint
 behave
 bluepoints
