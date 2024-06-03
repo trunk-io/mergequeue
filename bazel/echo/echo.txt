@@ -5944,7 +5944,6 @@ encoronet
 exploitable
 enisled
 enisles
-equispaced
 eurylaimus
 enisling
 eikonology
@@ -10817,6 +10816,7 @@ eelblenny
 enregistering
 eulogias
 entopopliteal
+equispaced
 eulogic
 excystation
 extrasystolic
