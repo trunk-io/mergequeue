@@ -6069,7 +6069,6 @@ aghast
 aghlabite
 aghori
 acetate
-apardon
 agible
 agiel
 acrasida
@@ -9935,6 +9934,7 @@ amateur
 amateurish
 amateurishness
 amateurs
+apardon
 amateurship
 amati
 arrived
