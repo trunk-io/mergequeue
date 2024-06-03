@@ -9753,7 +9753,6 @@ bauera
 bisk
 boulangerite
 bisks
-bislings
 belial
 battening
 bysmalith
@@ -15940,6 +15939,7 @@ bronchocele
 bufotenin
 brutish
 bronchocephalitis
+bislings
 bronchoconstriction
 blennorrhagic
 benjy
