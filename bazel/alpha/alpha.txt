@@ -6336,7 +6336,6 @@ animative
 agrarianize
 aggress
 aladinist
-agrarianly
 agrauleum
 agre
 agreation
@@ -21069,6 +21068,7 @@ asclepiadic
 autosender
 asclepian
 asclepidin
+agrarianly
 asclepidoid
 asclepin
 adamant
