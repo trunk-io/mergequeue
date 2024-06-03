@@ -26331,7 +26331,6 @@ costothoracic
 costotome
 costotomy
 costotrachelian
-ceteosaur
 chalcomancy
 costovertebral
 costraight
@@ -28594,6 +28593,7 @@ creekfish
 creekfishes
 catoptrical
 creel
+ceteosaur
 climatography
 crematoriums
 creels
