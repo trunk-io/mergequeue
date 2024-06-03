@@ -6124,7 +6124,6 @@ griffado
 gravamen
 gloriana
 geometry
-gutterman
 graspers
 giallolino
 galactophagous
@@ -10377,6 +10376,7 @@ gulfweed
 glebal
 goalers
 golem
+gutterman
 gaums
 gulfweeds
 greenlets
