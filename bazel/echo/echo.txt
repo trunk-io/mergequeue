@@ -3998,7 +3998,6 @@ entitative
 emolument
 esthete
 emotivism
-emotivity
 enragedness
 epileptology
 exorability
@@ -6741,6 +6740,7 @@ entertains
 entertake
 esthesioneurosis
 exstimulate
+emotivity
 entete
 etherate
 enthean
