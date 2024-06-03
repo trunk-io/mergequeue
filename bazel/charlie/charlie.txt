@@ -4369,7 +4369,6 @@ carillonneur
 cityish
 carillonning
 carillons
-carina
 carinae
 carinal
 cavum
@@ -11362,6 +11361,7 @@ childe
 chloroamide
 chloroamine
 chloroaurate
+carina
 chloroaurite
 chlorobenzene
 cavort
