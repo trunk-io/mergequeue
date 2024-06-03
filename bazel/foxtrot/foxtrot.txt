@@ -4883,6 +4883,7 @@ fchar
 fourteens
 fractabling
 flushing
+flatness
 flamen
 firepan
 fetologist
@@ -5088,7 +5089,6 @@ filtering
 frotteur
 frankfurter
 formicidae
-flatness
 faceting
 flatted
 fragmentized
