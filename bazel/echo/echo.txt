@@ -8593,7 +8593,6 @@ eggheadedness
 esoterically
 endomictic
 equatability
-equatable
 equate
 equating
 essentializing
@@ -8749,6 +8748,7 @@ enfetters
 equiponderant
 equiponderated
 estreats
+equatable
 equipondious
 extreat
 equipotential
