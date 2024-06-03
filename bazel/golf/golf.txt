@@ -5687,7 +5687,6 @@ globulysis
 globulite
 globulousness
 globus
-grossular
 goldseed
 gallinules
 grind
@@ -7469,6 +7468,7 @@ griffade
 generatrix
 getmesost
 generalization
+grossular
 glial
 goals
 graphostatical
