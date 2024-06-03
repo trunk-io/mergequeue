@@ -1408,6 +1408,7 @@ ballparks
 bootstraps
 baldmoney
 backbenchers
+baret
 baldmoneys
 bellwaver
 baldoquin
@@ -7127,7 +7128,6 @@ besognier
 besoil
 besomer
 bookcraft
-baret
 bioplasms
 besonnet
 branchiostomidae
