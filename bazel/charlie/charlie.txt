@@ -18644,7 +18644,6 @@ coinfer
 chiropterous
 coinferring
 coinfers
-carapus
 cartboot
 coing
 ceroma
@@ -31426,6 +31425,7 @@ currack
 curragh
 currajong
 curran
+carapus
 currance
 currans
 currant
