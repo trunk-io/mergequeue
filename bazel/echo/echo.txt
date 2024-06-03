@@ -5233,7 +5233,6 @@ enantiomeride
 embeam
 euphuizing
 equiform
-endopleural
 east
 esphresis
 endopoditic
@@ -12654,6 +12653,7 @@ exody
 elaphodus
 equiaxial
 exodic
+endopleural
 erythrocyte
 exodontia
 encincturing
