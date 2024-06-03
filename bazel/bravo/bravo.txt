@@ -1023,7 +1023,6 @@ baidarka
 baidarkas
 baidya
 baiera
-bayesian
 butadiene
 baiginet
 bronchiocrisis
@@ -10535,6 +10534,7 @@ blasphemousness
 buttonhole
 blastema
 blastemal
+bayesian
 buttals
 blastemic
 blaster
