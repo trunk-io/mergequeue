@@ -3305,7 +3305,6 @@ adactyl
 anomurous
 algesireceptor
 adactylous
-automatograph
 adad
 agalawood
 afreet
@@ -6983,6 +6982,7 @@ aisled
 alogism
 aisles
 aissor
+automatograph
 aistopoda
 ait
 antiferromagnet
