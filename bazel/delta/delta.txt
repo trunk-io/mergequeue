@@ -1484,7 +1484,6 @@ diam
 diorthoses
 dazy
 dazzle
-diffusor
 degomme
 dazzler
 disposal
@@ -10668,6 +10667,7 @@ dreadlessness
 demorage
 disendower
 drownproofing
+diffusor
 disorganizing
 disbutton
 dipneumonous

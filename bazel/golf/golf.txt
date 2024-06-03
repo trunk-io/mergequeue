@@ -606,7 +606,6 @@ greaseball
 gallinaceae
 gallinacean
 golconda
-galesaurus
 gasless
 gallinaceous
 gallinae
@@ -3401,6 +3400,7 @@ gelts
 germigene
 giddyhead
 germin
+galesaurus
 galantine
 gramineousness
 germinal
