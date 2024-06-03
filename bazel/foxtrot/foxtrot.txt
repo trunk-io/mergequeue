@@ -3211,7 +3211,6 @@ foci
 fibrospongiae
 fibrotuberculosis
 femurs
-figurative
 fibrously
 fibrousness
 fibrovascular
@@ -5074,6 +5073,7 @@ flathead
 flatiron
 froom
 flatlands
+figurative
 fiberized
 flavoprotein
 fatigued
