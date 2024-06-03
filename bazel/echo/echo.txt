@@ -11628,7 +11628,6 @@ ewes
 ewest
 emergent
 ewte
-exacerbated
 effet
 exacerbates
 enhances
@@ -13565,6 +13564,7 @@ extemporisation
 ewing
 extemporised
 extemporization
+exacerbated
 extemporized
 emendation
 experientially
