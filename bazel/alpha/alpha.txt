@@ -2592,7 +2592,6 @@ allylene
 alumins
 acoumetry
 acounter
-acouometer
 adjacently
 acoup
 acousmatic
@@ -6418,6 +6417,7 @@ agrimony
 agrimotor
 auantic
 agriochoerus
+acouometer
 amoeban
 almah
 agriological
