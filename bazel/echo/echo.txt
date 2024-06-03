@@ -1416,7 +1416,6 @@ entertissue
 epode
 endoskeletal
 exomis
-ebcdic
 excludability
 effervesces
 enopla
@@ -8414,6 +8413,7 @@ eucleid
 eucarpic
 endocyemate
 epithetic
+ebcdic
 effortlessness
 epithetical
 epithetically
