@@ -6240,7 +6240,6 @@ barograph
 biker
 benedictive
 benedictively
-benedictory
 betide
 biggonet
 baikalite
@@ -8944,6 +8943,7 @@ binoculars
 bellarmine
 beached
 binodose
+benedictory
 banalities
 battery
 benzol
