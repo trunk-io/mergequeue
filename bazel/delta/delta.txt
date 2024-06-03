@@ -5651,7 +5651,6 @@ dispersed
 dukeship
 depeopled
 deperdit
-determiners
 dedecoration
 diamine
 demonstratability
@@ -17696,6 +17695,7 @@ descriptions
 dichotomistic
 democratifiable
 desmonosology
+determiners
 duodenojejunal
 duarch
 deputization
