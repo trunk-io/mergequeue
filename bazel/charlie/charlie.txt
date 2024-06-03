@@ -9282,6 +9282,7 @@ chastisable
 chastise
 chastised
 chastiser
+cystometer
 clapperboard
 corf
 chastity
@@ -14764,7 +14765,6 @@ cystolithiasis
 cystolithic
 cystoma
 cystomas
-cystometer
 cystomyoma
 cystomyxoma
 cystonectae
