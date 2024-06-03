@@ -3467,7 +3467,6 @@ fifteens
 frauds
 fifteenths
 faineant
-fifty
 fifties
 fumiduct
 fiftieth
@@ -5626,6 +5625,7 @@ forsaken
 fablemonger
 funded
 flings
+fifty
 flinkite
 forsung
 fertilisability
