@@ -2462,6 +2462,7 @@ foreboot
 forgone
 filioque
 ferlied
+flocculose
 falsiteit
 frangulinic
 ferlying
@@ -5850,7 +5851,6 @@ fossick
 flocculator
 flinted
 flocculent
-flocculose
 flocculus
 flushes
 fluorocarbons
