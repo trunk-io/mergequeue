@@ -14250,7 +14250,6 @@ anteporticoes
 anteporticos
 anteposition
 anteprohibition
-ateleiosis
 anteprostate
 antequalm
 abmho
@@ -24555,6 +24554,7 @@ availably
 availed
 asynaptic
 abstractness
+ateleiosis
 availer
 availing
 availingly
