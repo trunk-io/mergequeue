@@ -4544,6 +4544,7 @@ gip
 gype
 gipon
 gaetulan
+glottalized
 gunlayer
 gypped
 garrisoning
@@ -7505,7 +7506,6 @@ governableness
 goldcrest
 graphostatic
 galavanted
-glottalized
 grafship
 griphosaurus
 gulmohar
