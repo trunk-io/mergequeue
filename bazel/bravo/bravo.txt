@@ -6548,7 +6548,6 @@ benzotrichloride
 buster
 benzotrifluoride
 bolection
-benzoxyacetic
 benzpinacone
 benztrioxazine
 blanchers
@@ -16599,6 +16598,7 @@ bides
 bucconinae
 buccopharyngeal
 bucculae
+benzoxyacetic
 belvidere
 bucculatrix
 bulanda
