@@ -2993,6 +2993,7 @@ cantraips
 cantraps
 cantred
 cantrip
+clapped
 cantrips
 coveting
 cantus
@@ -24615,7 +24616,6 @@ chelidon
 cophosis
 copy
 copia
-clapped
 coroun
 cogitativeness
 copiable
