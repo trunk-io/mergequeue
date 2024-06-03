@@ -3072,7 +3072,6 @@ abdominoanterior
 autolytic
 anilinophilous
 alligatoring
-abscissions
 aphakia
 actinon
 actinonema
@@ -10905,6 +10904,7 @@ amnionata
 antistrophe
 amosite
 anhydric
+abscissions
 amnionia
 airtight
 amnions
