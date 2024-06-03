@@ -4723,7 +4723,6 @@ gapa
 gopherroot
 gansy
 goatishly
-galliardly
 gaudeamus
 gyrodactylus
 grapeshot
@@ -5995,6 +5994,7 @@ glucosaemia
 gerontologies
 glucosone
 gallivorous
+galliardly
 gametal
 galactophorous
 glucosamine
