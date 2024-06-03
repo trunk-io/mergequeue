@@ -2622,7 +2622,6 @@ deaminizing
 decoctum
 decodable
 decode
-decoded
 decoders
 decodes
 decoding
@@ -7775,6 +7774,7 @@ devise
 devised
 devisees
 disastimeter
+decoded
 desulphurized
 deviser
 devising
