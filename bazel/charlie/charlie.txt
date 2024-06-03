@@ -8645,7 +8645,6 @@ chancellorship
 chancellorships
 chancelor
 chancelry
-calathidium
 chancels
 chanceman
 chancemen
@@ -29624,6 +29623,7 @@ circumciser
 cosinesses
 crock
 crockard
+calathidium
 caroaches
 coembodying
 crockery
