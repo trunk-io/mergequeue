@@ -14613,7 +14613,6 @@ conscription
 conditioning
 counterpuncher
 cirsectomies
-cirsoid
 cirsomphalos
 cirsophthalmia
 completable
@@ -18367,6 +18366,7 @@ crabbish
 cogida
 cogie
 chackling
+cirsoid
 concetti
 cogit
 cogitability
