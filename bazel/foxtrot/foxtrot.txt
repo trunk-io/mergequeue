@@ -734,7 +734,6 @@ flagroot
 famous
 florigens
 famousness
-famp
 famuli
 fana
 fossilised
@@ -11058,6 +11057,7 @@ fungated
 fascias
 fumulus
 funambulate
+famp
 funambulation
 funambulator
 felicitously
