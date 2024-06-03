@@ -15385,7 +15385,6 @@ chubb
 clambake
 clamber
 colfox
-cassique
 chaining
 clambering
 clamcracker
@@ -15517,6 +15516,7 @@ clapmatch
 clapnest
 clapnet
 concentered
+cassique
 cricketed
 cen
 clappe
