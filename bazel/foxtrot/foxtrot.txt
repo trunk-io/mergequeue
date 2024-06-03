@@ -8299,6 +8299,7 @@ forkiness
 frontenis
 forking
 forkless
+fruitlessness
 foozler
 fledging
 feeblebrained
@@ -10664,7 +10665,6 @@ flingdust
 fever
 fibular
 flyeater
-fruitlessness
 fruitlets
 fainting
 foxy
