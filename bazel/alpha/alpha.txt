@@ -10351,7 +10351,6 @@ amentia
 amentiferae
 autompne
 amentiform
-aplodiorite
 aments
 amentulum
 amenuse
@@ -20644,6 +20643,7 @@ arthrometry
 aswithe
 arthroncus
 arthroneuralgia
+aplodiorite
 articulite
 ambitioned
 aetiology
