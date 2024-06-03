@@ -10139,7 +10139,6 @@ dingar
 deceptible
 diluvian
 duckbills
-dingbat
 dingdonged
 deterge
 diverticulate
@@ -13441,6 +13440,7 @@ disregarded
 drumskin
 disregardfulness
 disregarding
+dingbat
 dramatise
 dogbolt
 disrelate
