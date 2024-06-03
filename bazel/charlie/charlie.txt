@@ -9821,7 +9821,6 @@ chelidonium
 chelidosaurus
 cfh
 chelydre
-cyclonical
 crepance
 chelydroid
 cradleman
@@ -25775,6 +25774,7 @@ correspondences
 correspondency
 correspondent
 correspondential
+cyclonical
 correspondently
 citators
 chalcolite
