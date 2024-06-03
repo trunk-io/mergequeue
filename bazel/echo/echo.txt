@@ -4822,7 +4822,6 @@ excipient
 eurytropic
 encomium
 encomiumia
-encommon
 encompany
 encompassment
 extinguishing
@@ -6325,6 +6324,7 @@ euchred
 encompasser
 ensphered
 eyespot
+encommon
 enseal
 estrones
 eicosane
