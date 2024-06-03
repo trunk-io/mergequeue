@@ -898,6 +898,7 @@ absis
 absistos
 absit
 absoil
+angletouch
 antient
 amphitron
 absolent
@@ -12873,7 +12874,6 @@ anglepod
 anglepods
 arousement
 antrin
-angletouch
 angletwitch
 anglewing
 allays
