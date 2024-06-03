@@ -11530,7 +11530,6 @@ chockstone
 choco
 chocoan
 chocolate
-chocolatey
 chocolates
 chocolatiere
 calcomp
@@ -23733,6 +23732,7 @@ contractors
 contracts
 contractu
 contractual
+chocolatey
 contractually
 contrada
 contradance
