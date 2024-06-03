@@ -3098,6 +3098,7 @@ groundliness
 gelong
 glosses
 gallinacei
+gillstoup
 glassed
 geomancer
 geomancy
@@ -5570,7 +5571,6 @@ grande
 ganoids
 gimmer
 germantown
-gillstoup
 glycaemia
 gentlemen
 ghegish
