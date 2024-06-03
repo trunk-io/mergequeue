@@ -442,7 +442,6 @@ fairway
 fragility
 faultfinders
 fieldbird
-fluentness
 fays
 faisan
 floriculturist
@@ -4399,6 +4398,7 @@ fishplate
 fossa
 feste
 fishpole
+fluentness
 foodlessness
 faultfinding
 fishpoles
