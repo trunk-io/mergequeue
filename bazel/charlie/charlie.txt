@@ -178,6 +178,7 @@ caboodles
 cabook
 caboose
 cabooses
+counterextend
 caboshed
 chloroanemia
 cabotage
@@ -13325,7 +13326,6 @@ cyclecar
 coralbells
 cyclecars
 crosspatch
-counterextend
 cycledom
 cycler
 cyclers
