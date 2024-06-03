@@ -7595,7 +7595,6 @@ cercopid
 continent
 cercopithecid
 contracting
-cercopithecidae
 cercopithecoid
 cercopithecus
 cimbri
@@ -27473,6 +27472,7 @@ couthly
 coutil
 coupleteer
 confeder
+cercopithecidae
 chemicophysics
 coutumier
 couture
