@@ -6145,7 +6145,6 @@ agitatorial
 aromaticness
 amyous
 agitators
-aesculapius
 agitatrix
 agitprop
 agitprops
@@ -12624,6 +12623,7 @@ aneuploid
 aneuploidy
 aneuric
 aneurilemmic
+aesculapius
 aleuron
 arrayan
 aneurin
