@@ -407,7 +407,6 @@ folkland
 fairground
 fairhead
 fairy
-fairyhood
 futurize
 foreprepare
 frigid
@@ -10842,6 +10841,7 @@ fescennine
 fishpool
 facies
 fulgency
+fairyhood
 fortified
 figureheadless
 forwore
