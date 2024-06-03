@@ -5121,7 +5121,6 @@ gyrencephalate
 gandering
 gigantomachy
 gapped
-glasseye
 glassen
 goalkeeper
 glassfish
@@ -6723,6 +6722,7 @@ gruss
 gunnysack
 gondolas
 global
+glasseye
 gondoletta
 gangliform
 gordius
