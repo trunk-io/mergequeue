@@ -6183,7 +6183,6 @@ alectoriae
 alcyones
 adversaria
 aglitter
-aspartokinase
 aglossa
 astrolabes
 aglossal
@@ -9164,6 +9163,7 @@ artifice
 almehs
 ardhamagadhi
 amar
+aspartokinase
 antiputrefaction
 abolishable
 animations

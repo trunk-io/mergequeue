@@ -2993,6 +2993,7 @@ eliminable
 eliminate
 equiprobabilism
 eliminated
+enfigure
 equaled
 eliminating
 eliminator
@@ -12895,7 +12896,6 @@ essentialized
 exasperating
 enclasping
 electroneutrality
-enfigure
 ergmeter
 engr
 echini
