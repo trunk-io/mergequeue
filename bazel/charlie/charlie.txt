@@ -25435,7 +25435,6 @@ corniches
 cornicle
 cornicles
 cornicular
-corniculate
 corniculer
 corniest
 corniferous
@@ -25669,6 +25668,7 @@ cirsotome
 corporealization
 cochlea
 corporeally
+corniculate
 corporealness
 corporeals
 corporeity
