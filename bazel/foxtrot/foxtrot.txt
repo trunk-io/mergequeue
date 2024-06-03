@@ -7605,7 +7605,6 @@ fubby
 founderous
 forst
 floodmark
-forefield
 foreorlop
 forefinger
 forefingers
@@ -10693,6 +10692,7 @@ frumenty
 frumenties
 frump
 forebearing
+forefield
 frumpery
 fungals
 footband
