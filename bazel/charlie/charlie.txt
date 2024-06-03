@@ -19026,7 +19026,6 @@ ciseleur
 culbut
 colleaguing
 collect
-collectarium
 certify
 collected
 cranberry
@@ -22825,6 +22824,7 @@ conscript
 counterfeiters
 conscripting
 conscriptional
+collectarium
 conscriptions
 conscriptive
 conscripttion

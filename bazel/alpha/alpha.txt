@@ -3645,7 +3645,6 @@ adenoidism
 adroitest
 adenoids
 adenolymphocele
-adenolymphoma
 asexualized
 adenoliomyofibroma
 aracari
@@ -9370,6 +9369,7 @@ alphabetic
 alphabetical
 adnumber
 alphabetically
+adenolymphoma
 affectation
 alphabeting
 alphabetise
