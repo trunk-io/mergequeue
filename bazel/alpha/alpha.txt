@@ -12869,7 +12869,6 @@ argenol
 anglehook
 anglepod
 anglepods
-angler
 arousement
 antrin
 angletouch
@@ -23198,6 +23197,7 @@ apneumatic
 alcids
 antship
 attrap
+angler
 acupuncturists
 attrectation
 adventitia
