@@ -125,6 +125,7 @@ gaugers
 grosz
 goatfish
 gavottes
+gildable
 gadroon
 graped
 girdled
@@ -4061,7 +4062,6 @@ gilbertian
 gorse
 gaseity
 guttula
-gildable
 gliadines
 getic
 grievousness
