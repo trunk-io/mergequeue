@@ -3452,7 +3452,6 @@ gerontocracy
 gerontocracies
 gerontocrat
 greenwing
-gerontologist
 giesel
 gerontologists
 guyline
@@ -6723,6 +6722,7 @@ gondoletta
 gangliform
 gordius
 goldworker
+gerontologist
 gucks
 gismondine
 gondoliers
