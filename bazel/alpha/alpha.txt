@@ -10811,7 +10811,6 @@ ammocoetes
 addossed
 alloantibody
 antirent
-abides
 ammocoetoid
 apparentement
 ammodyte
@@ -19741,6 +19740,7 @@ arylation
 ariled
 artel
 arylide
+abides
 arillary
 arillate
 affricative
