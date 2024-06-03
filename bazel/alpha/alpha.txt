@@ -1903,7 +1903,6 @@ acidities
 acceleration
 achieves
 adstrict
-advanced
 acetable
 acetabula
 acetabularia
@@ -10852,6 +10851,7 @@ assbaa
 ammonitess
 ammonitic
 abstrude
+advanced
 ammonitiferous
 ammonitoid
 ammonitoidea
