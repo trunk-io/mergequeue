@@ -119,7 +119,6 @@ calinago
 cabinet
 cabineting
 cabinetmaking
-cabinetry
 capacitated
 cabinetted
 chordophone
@@ -11504,6 +11503,7 @@ choate
 cautioned
 chob
 chobie
+cabinetry
 choca
 cornetfish
 christina
