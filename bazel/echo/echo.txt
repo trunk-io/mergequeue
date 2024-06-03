@@ -1119,7 +1119,6 @@ edgeboned
 edged
 eidolon
 edgeling
-edgeman
 edger
 edgers
 edgeshot
@@ -6419,6 +6418,7 @@ emulate
 epimerising
 euphoniad
 exarchy
+edgeman
 epitrophic
 enslavements
 enslaver
