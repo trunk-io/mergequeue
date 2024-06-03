@@ -9593,6 +9593,7 @@ checkrooms
 checkrope
 colleagued
 checkrowed
+coxcombicality
 checkrower
 checkrowing
 consummatively
@@ -30724,7 +30725,6 @@ cuke
 culation
 culavamsa
 credits
-coxcombicality
 counterintrigue
 chrysophenine
 copain
