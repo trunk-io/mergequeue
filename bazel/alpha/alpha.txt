@@ -2033,7 +2033,6 @@ acetonaemic
 acetonation
 acetone
 acetonemia
-acetonemic
 acetonic
 advances
 antependia
@@ -7146,6 +7145,7 @@ acetarious
 akinesis
 akinete
 akinetic
+acetonemic
 aking
 anthecology
 asymptomatically
