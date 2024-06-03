@@ -15391,7 +15391,6 @@ clamatory
 cartooned
 clamb
 chubb
-clambake
 clamber
 colfox
 cassique
@@ -18615,6 +18614,7 @@ coin
 cooperativeness
 coyly
 corralled
+clambake
 clanless
 coilyear
 coils
