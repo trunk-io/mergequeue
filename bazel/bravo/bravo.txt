@@ -1728,7 +1728,6 @@ biwa
 balneotherapy
 balneotherapia
 bombe
-bedumbing
 bravehearted
 balnibarbi
 blackbrush
@@ -3849,6 +3848,7 @@ batts
 blowpipe
 battu
 battues
+bedumbing
 batture
 bielded
 biocontrol
