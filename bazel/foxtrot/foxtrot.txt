@@ -6383,7 +6383,6 @@ fecundatory
 formularization
 fluoridation
 fossae
-fluoride
 fluoridisation
 frasera
 farmstead
@@ -10295,6 +10294,7 @@ fimbrilla
 foister
 falernian
 formalins
+fluoride
 folkmot
 fanfishes
 factorage
