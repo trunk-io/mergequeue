@@ -7223,7 +7223,6 @@ centrifuge
 cavitates
 centrifugence
 centrifuges
-centrifuging
 centring
 centrings
 clivia
@@ -29243,6 +29242,7 @@ crypticness
 coupled
 covenantally
 crypto
+centrifuging
 cryptoagnostic
 coextended
 countercharge
