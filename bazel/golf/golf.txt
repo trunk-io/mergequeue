@@ -5229,7 +5229,6 @@ greater
 glazing
 glb
 glorioles
-gymnospermy
 gossipred
 gordian
 genipap
@@ -7535,6 +7534,7 @@ governorate
 governors
 gobian
 garbled
+gymnospermy
 gravimeter
 gressible
 greywether
