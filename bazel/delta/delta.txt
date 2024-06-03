@@ -5635,6 +5635,7 @@ depeinct
 depencil
 depend
 dependabilities
+diabaterial
 dependably
 dibber
 dependance
@@ -14885,7 +14886,6 @@ delitous
 disengagement
 dodecade
 dodecadrachm
-diabaterial
 dallas
 dodecafid
 delftware
