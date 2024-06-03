@@ -2211,6 +2211,7 @@ gerontine
 gastrojejunostomies
 gdinfo
 gds
+garbleable
 grimoire
 gapers
 grayfish
@@ -5825,7 +5826,6 @@ glossiphonidae
 galvanomagnet
 glossitis
 guttule
-garbleable
 glamberry
 globalism
 glossocele
