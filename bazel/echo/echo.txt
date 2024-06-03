@@ -2723,6 +2723,7 @@ enmesh
 edaphodont
 electrotherapy
 electrotherapist
+emergencies
 electrotheraputic
 emyds
 electrothermal
@@ -5119,7 +5120,6 @@ euthyneurous
 enterocoel
 endocrinology
 ebraick
-emergencies
 entogenous
 endocrinologist
 ecdysones
