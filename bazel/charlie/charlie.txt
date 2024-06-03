@@ -9560,7 +9560,6 @@ checkerbellies
 checkerberry
 checkerberries
 checkerbloom
-checkerboard
 calyciform
 checkerboarded
 checkerboards
@@ -17079,6 +17078,7 @@ cnidoblast
 cnidocil
 cobbed
 coexplosion
+checkerboard
 cnidophorous
 cupmate
 cnidopod
