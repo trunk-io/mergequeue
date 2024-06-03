@@ -3221,6 +3221,7 @@ gal
 graylags
 geotaxes
 geotechnic
+gobbles
 geotectonically
 graplin
 gluing
@@ -6376,7 +6377,6 @@ gavelling
 guatambu
 gobbler
 gid
-gobbles
 gobbling
 gobelin
 gyrolite
