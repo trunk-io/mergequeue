@@ -4777,7 +4777,6 @@ flagmen
 fasciolaria
 fullwords
 faena
-faunula
 figurehead
 fra
 falsen
@@ -10462,6 +10461,7 @@ foamers
 frostily
 footpounds
 frostiness
+faunula
 flnerie
 fluitant
 frostings
