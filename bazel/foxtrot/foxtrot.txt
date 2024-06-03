@@ -5899,7 +5899,6 @@ fawns
 fructiferous
 fearfully
 floodable
-fineable
 freeze
 fertilize
 fabiform
@@ -7204,6 +7203,7 @@ footrest
 fecial
 filicite
 fremescent
+fineable
 fiorded
 finial
 footscraper
