@@ -3324,6 +3324,7 @@ goxes
 ganglands
 germ
 germain
+geminis
 german
 germany
 gyro
@@ -9159,7 +9160,6 @@ gryllotalpa
 geulah
 glom
 griqualander
-geminis
 grysbok
 gaslock
 gleaning
