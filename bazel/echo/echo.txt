@@ -1713,7 +1713,6 @@ ectomorphism
 enshielding
 eiders
 eidograph
-explanator
 excavating
 engrained
 eases
@@ -6089,6 +6088,7 @@ estrildine
 ethoses
 eschscholtzia
 enmist
+explanator
 enmeshed
 epicentre
 enmeshment
