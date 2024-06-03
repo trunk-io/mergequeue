@@ -8246,7 +8246,6 @@ chairmanned
 chairmanning
 chairmans
 chairmanship
-chairmanships
 checkoff
 chairmender
 chairpersons
@@ -23395,6 +23394,7 @@ contadino
 ceratosaurus
 contagion
 contagioned
+chairmanships
 computation
 cercis
 cumulating
