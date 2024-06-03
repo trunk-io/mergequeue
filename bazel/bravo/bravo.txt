@@ -5961,6 +5961,7 @@ bellmaking
 banquo
 backlashed
 bachel
+barlow
 baronship
 bellmanship
 bielorouss
@@ -11034,7 +11035,6 @@ blistered
 blistering
 botaurinae
 blisteringly
-barlow
 blisters
 bibracteolate
 bicuspids
