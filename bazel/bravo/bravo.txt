@@ -13769,7 +13769,6 @@ bedmaker
 blossomtime
 boutonnieres
 bayete
-boutons
 bouvardia
 bouviers
 bouw
@@ -13954,6 +13953,7 @@ boxhauling
 boxhauls
 boxhead
 boxy
+boutons
 boxing
 boxmaker
 bicycloheptane
