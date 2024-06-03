@@ -6981,7 +6981,6 @@ entosternal
 entothorax
 eclat
 entotympanic
-entourage
 empt
 entozoal
 entozoans
@@ -12165,6 +12164,7 @@ especial
 excurrent
 excurse
 excrementitiously
+entourage
 elonite
 ejam
 europocentric
