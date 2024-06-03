@@ -65,7 +65,6 @@ facebar
 facebow
 faced
 faceharden
-flagships
 flecken
 fishpond
 filibustering
@@ -8849,6 +8848,7 @@ frolics
 foppery
 fot
 fothering
+flagships
 florideous
 foreshorten
 fictious
