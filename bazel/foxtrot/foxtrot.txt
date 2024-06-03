@@ -4613,7 +4613,6 @@ fearfullest
 flatnose
 footslogs
 fdtype
-firetail
 frecked
 fixator
 frighten
@@ -5530,6 +5529,7 @@ fiords
 flickermouse
 flowery
 flossa
+firetail
 flickers
 flappered
 fulsome

@@ -5622,6 +5622,7 @@ depascent
 delphinoid
 digested
 diphthongic
+didelphian
 disrepute
 depasturable
 depasture
@@ -16631,7 +16632,6 @@ dragonflies
 delayage
 dragonhead
 deprecated
-didelphian
 dragonhood
 dissimulator
 downily
