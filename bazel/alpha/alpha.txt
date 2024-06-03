@@ -6635,7 +6635,6 @@ antasthenic
 aiglet
 antsy
 aiglets
-aiglette
 aigre
 alkaligen
 aigret
@@ -8184,6 +8183,7 @@ appraisement
 applicant
 anticked
 anastasis
+aiglette
 algonquin
 algophagous
 algophilia
