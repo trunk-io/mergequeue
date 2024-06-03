@@ -2639,7 +2639,6 @@ acquire
 acquirement
 acquiring
 acquisite
-acquisited
 acquisitional
 acquisitive
 acquisitively
@@ -17994,6 +17993,7 @@ apprehended
 anaclisis
 acquired
 apprehending
+acquisited
 antelation
 awan
 argininephosphoric
