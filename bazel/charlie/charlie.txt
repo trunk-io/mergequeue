@@ -2794,7 +2794,6 @@ canonize
 canonized
 catapult
 cetorhinoid
-canonizer
 canonizes
 canonizing
 caesalpinia
@@ -7369,6 +7368,7 @@ cephalins
 cephalism
 colophon
 cephalitis
+canonizer
 cephalization
 cephaloauricular
 cephalobranchiata
