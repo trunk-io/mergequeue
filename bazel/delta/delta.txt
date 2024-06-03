@@ -3153,7 +3153,6 @@ defamations
 defamatory
 dipygus
 daubing
-dentated
 defamed
 defames
 disestablisher
@@ -7137,6 +7136,7 @@ dactylitic
 destructors
 destructuralize
 deplorable
+dentated
 destuff
 destuffs
 dribblet
