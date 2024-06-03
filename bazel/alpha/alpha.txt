@@ -14735,6 +14735,7 @@ attaching
 antiaquatic
 anaspidacea
 antiar
+aquaplane
 antiarchi
 antiarin
 antilogarithm
@@ -18235,7 +18236,6 @@ allegator
 arrondi
 attracting
 aerogenic
-aquaplane
 accustomed
 aquaplaner
 allegoricalness
