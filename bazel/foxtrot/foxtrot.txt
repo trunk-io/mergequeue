@@ -3809,7 +3809,6 @@ filmstrips
 flicks
 filo
 fulmicotton
-filose
 furnitureless
 fils
 fashional
@@ -9326,6 +9325,7 @@ francize
 finnicky
 fatback
 fluxility
+filose
 francolin
 francolite
 franconian
