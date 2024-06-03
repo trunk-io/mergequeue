@@ -7604,7 +7604,6 @@ fireshine
 flashlights
 filling
 faluns
-fubby
 founderous
 forst
 floodmark
@@ -8776,6 +8775,7 @@ forwork
 feoffing
 fallacia
 fulgor
+fubby
 fly
 fyce
 frustula

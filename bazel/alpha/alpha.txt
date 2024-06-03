@@ -3644,7 +3644,6 @@ accordature
 anarch
 adenologaditis
 adenology
-adenological
 adenomalacia
 argolet
 adenomatome
@@ -11990,6 +11989,7 @@ anaptychus
 anaptyctic
 antecloset
 anaptomorphidae
+adenological
 anaptomorphus
 anaptotic
 anarcestes
