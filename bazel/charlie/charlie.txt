@@ -27168,6 +27168,7 @@ counterspy
 counterspies
 coverage
 cardicentesis
+cryptopin
 counterstand
 counterstep
 corabeca
@@ -29828,7 +29829,6 @@ crosnes
 cross
 circummeridian
 chronos
-cryptopin
 crossarms
 calculate
 crossband
