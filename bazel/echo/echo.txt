@@ -313,7 +313,6 @@ emprosthotonus
 embleming
 enameler
 eagerer
-eatability
 eg
 exoduses
 eatables
@@ -1131,6 +1130,7 @@ enshrouded
 embryonically
 edgy
 edginess
+eatability
 edgings
 edgrow
 elopers
