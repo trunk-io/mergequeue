@@ -13042,7 +13042,6 @@ engrapple
 expend
 estacade
 embolomeri
-expenders
 encalendar
 enameled
 epistolizable
@@ -13552,6 +13551,7 @@ escheating
 enjoinder
 embroiders
 extance
+expenders
 extancy
 extbook
 ethylated
