@@ -11894,7 +11894,6 @@ coaster
 copaljocote
 chooser
 choosers
-choosier
 choosiness
 chadar
 chop
@@ -29628,6 +29627,7 @@ crockery
 calkage
 crocketed
 crockets
+choosier
 crocking
 creedmore
 crocko
