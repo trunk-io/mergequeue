@@ -3678,6 +3678,7 @@ foibles
 firstborn
 filigrane
 feedbag
+franchisee
 foregoneness
 fridays
 frayn
@@ -9288,7 +9289,6 @@ france
 firmans
 frances
 franchise
-franchisee
 franchisees
 federalizations
 foulings
