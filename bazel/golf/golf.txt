@@ -2181,6 +2181,7 @@ gazebo
 gazeboes
 glabella
 gazebos
+gyros
 grampus
 galla
 globosity
@@ -4513,7 +4514,6 @@ ginnier
 grumps
 ghaut
 gynobase
-gyros
 gynocardia
 gluer
 gynodioecious
