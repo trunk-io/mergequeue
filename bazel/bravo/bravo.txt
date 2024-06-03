@@ -6588,7 +6588,6 @@ bephrase
 brachiopodist
 bepicture
 bepiece
-basiotribe
 bellyflaught
 bepile
 bodeword
@@ -12207,6 +12206,7 @@ boleweed
 bolewort
 baklawas
 benzodiazine
+basiotribe
 bolide
 befoul
 bolivar
