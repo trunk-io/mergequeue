@@ -8848,6 +8848,7 @@ chapelling
 commonplaces
 chapelman
 chapelmaster
+chintses
 chapelry
 combflower
 chapelries
@@ -10876,7 +10877,6 @@ chinse
 chinsed
 chinsing
 chints
-chintses
 chintz
 chintze
 cystal
