@@ -216,7 +216,6 @@ greys
 galewort
 gavot
 gags
-guarder
 gagster
 gagtooth
 gagwriter
@@ -3473,6 +3472,7 @@ guardant
 gerrhosaurid
 glossolaryngeal
 gerridae
+guarder
 gerrymander
 gimme
 gerrymanders
