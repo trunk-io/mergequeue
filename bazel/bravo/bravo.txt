@@ -315,6 +315,7 @@ boule
 burg
 backcourt
 backcourtman
+baconian
 backcross
 backdates
 backstair
@@ -575,7 +576,6 @@ baconer
 baubee
 bignoniad
 bordereau
-baconian
 bellote
 bishopric
 baconianism
