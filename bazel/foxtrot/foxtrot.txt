@@ -5317,7 +5317,6 @@ factory
 fribourg
 foisonless
 forechurch
-fleeceless
 feasten
 forefigure
 forcefulness
@@ -11736,6 +11735,7 @@ fuzed
 fete
 fingerboard
 floramor
+fleeceless
 frights
 flneur
 fremdly
