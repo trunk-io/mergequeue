@@ -6753,6 +6753,7 @@ bluestem
 barbarious
 beriber
 beriberis
+beltmaker
 berycid
 busyhead
 bloodshotten
@@ -8230,7 +8231,6 @@ boomerangs
 bident
 bug
 blasphemer
-beltmaker
 bedder
 birse
 bidental
