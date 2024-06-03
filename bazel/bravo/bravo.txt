@@ -312,7 +312,6 @@ backchat
 backchats
 bindweb
 boule
-burg
 backcourt
 backcourtman
 backcross
@@ -15971,6 +15970,7 @@ bahts
 bronchorrhea
 bronchos
 bronchoscopy
+burg
 bronchoscopic
 barr
 bronchoscopist
