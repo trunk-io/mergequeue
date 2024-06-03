@@ -6214,6 +6214,7 @@ extraphysiological
 enamine
 entered
 enqueues
+electrostereotype
 enticeable
 exor
 eten
@@ -8753,7 +8754,6 @@ extreat
 equipotential
 endostyle
 equipped
-electrostereotype
 equiprobability
 enablers
 equiproportional

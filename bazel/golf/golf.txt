@@ -3647,7 +3647,6 @@ gatewaymen
 groups
 gynostegigia
 gargil
-gantries
 gruesomest
 groundsill
 glovers
@@ -5195,6 +5194,7 @@ gourmander
 gwine
 glycocholic
 guichet
+gantries
 grocers
 glaucescent
 glinting
