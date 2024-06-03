@@ -2407,7 +2407,6 @@ griffinish
 goodnesses
 gibbartas
 galopin
-grisly
 gnabble
 geldesprung
 geldings
@@ -6546,6 +6545,7 @@ geswarp
 goldbugs
 gabbles
 goldeyes
+grisly
 golden
 gomeril
 geryoniidae
