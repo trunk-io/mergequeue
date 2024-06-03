@@ -2541,6 +2541,7 @@ fernery
 fry
 fernyear
 fernlike
+flexure
 flustrum
 fernshaw
 forlorner
@@ -11313,7 +11314,6 @@ formularized
 floriferous
 florikan
 furcate
-flexure
 flexured
 focalising
 firedog
