@@ -11855,7 +11855,6 @@ discurre
 dimming
 dislikable
 discursativeness
-discursify
 donatively
 discursive
 discursory
@@ -17966,6 +17965,7 @@ duikerboks
 dantonesque
 droskies
 downwarp
+discursify
 dozier
 duim
 dermatomuscular
