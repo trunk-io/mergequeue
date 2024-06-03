@@ -7557,6 +7557,7 @@ ceratopsid
 ceratopteridaceae
 carnac
 ceratopteris
+circumsciss
 ceratorhine
 ceratosa
 cayennes
@@ -26986,7 +26987,6 @@ countermission
 coinfeftment
 callianassidae
 countermount
-circumsciss
 countermoved
 cerebralist
 countermoving
