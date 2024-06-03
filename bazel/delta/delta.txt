@@ -8501,7 +8501,6 @@ diametral
 diametric
 diametrical
 diamicton
-diamide
 diamides
 descanter
 dichogamous
@@ -10910,6 +10909,7 @@ dispondaic
 disacceptance
 disaccharid
 deafens
+diamide
 dannock
 disaccomodate
 dromons
