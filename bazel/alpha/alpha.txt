@@ -8390,7 +8390,6 @@ agistment
 alinit
 arado
 aliped
-architectonic
 alipeds
 alipin
 abbie
@@ -14362,6 +14361,7 @@ anthemis
 anthems
 anther
 antheraea
+architectonic
 antheridia
 antherless
 antherogenous
