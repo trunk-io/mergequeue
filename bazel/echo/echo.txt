@@ -4583,7 +4583,6 @@ encephalospinal
 externize
 encephalothlipsis
 emplaned
-encephalotome
 etheostoma
 encephalotomy
 edomite
@@ -9483,6 +9482,7 @@ enflagellation
 enstool
 echeneid
 escaper
+encephalotome
 evulgation
 epidemiographist
 enravishment
