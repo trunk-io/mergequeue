@@ -15093,6 +15093,7 @@ anticor
 anticorn
 anticorona
 anticorrosion
+archespore
 anticorrosive
 anticorrosiveness
 alsatia
@@ -18908,7 +18909,6 @@ archers
 acetonurometer
 abstentions
 arches
-archespore
 archespores
 autonephrectomy
 archesporial
