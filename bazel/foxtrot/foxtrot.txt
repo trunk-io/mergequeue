@@ -6877,6 +6877,7 @@ forespeaker
 foreignization
 folkmoots
 fauchard
+foreruns
 fadmonger
 firetower
 folkmoter
@@ -7865,7 +7866,6 @@ fname
 factiousness
 franklinia
 flagellariaceae
-foreruns
 fumishly
 flourishingly
 fatter
