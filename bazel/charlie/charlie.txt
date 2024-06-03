@@ -2649,6 +2649,7 @@ combinatorics
 cutey
 canmaker
 canman
+craft
 churr
 cannabic
 churchwise
@@ -27979,7 +27980,6 @@ cradleside
 cradlesong
 cradlesongs
 cradling
-craft
 crafted
 craftiest
 craftily
