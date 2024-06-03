@@ -6694,7 +6694,6 @@ burmese
 bereshith
 beresite
 beret
-berets
 beretta
 berettas
 berewick
@@ -10761,6 +10760,7 @@ bled
 blee
 bleed
 bleeders
+berets
 bleekbok
 barretries
 bleeped
