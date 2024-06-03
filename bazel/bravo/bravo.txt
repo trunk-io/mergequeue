@@ -7648,7 +7648,6 @@ bevvy
 baronages
 bewailable
 burglarproof
-bewailers
 buskins
 belimousined
 blowpit
@@ -14753,6 +14752,7 @@ brazils
 bacterioidal
 breach
 breached
+bewailers
 breacher
 breachers
 blendes
