@@ -511,6 +511,7 @@ faky
 faking
 fakir
 fassaite
+feodum
 fakirs
 falafel
 fraternal
@@ -2369,7 +2370,6 @@ fenzelia
 flagboat
 feod
 firestopping
-feodum
 filander
 farewelled
 feoff
