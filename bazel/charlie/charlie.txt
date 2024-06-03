@@ -10975,6 +10975,7 @@ chirl
 contrariety
 chirm
 chirmed
+collides
 chirming
 chirms
 chiro
@@ -29263,7 +29264,6 @@ chondroma
 cutlas
 choices
 cryptobranchiate
-collides
 ciphered
 calibrate
 cryptobranchus
