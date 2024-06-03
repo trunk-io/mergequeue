@@ -3512,7 +3512,6 @@ address
 allotheistic
 actinography
 addressable
-addressees
 addresser
 amplexation
 addressers
@@ -9440,6 +9439,7 @@ arithromania
 aluminous
 alps
 alquier
+addressees
 aversions
 aerobated
 alraun
