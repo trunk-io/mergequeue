@@ -163,6 +163,7 @@ enriched
 eyras
 expressive
 elses
+expandibility
 echidna
 earthmaker
 ejidal
@@ -6426,7 +6427,6 @@ enslaves
 espave
 equanimously
 epiphyseolysis
-expandibility
 errand
 ensnared
 explosive
