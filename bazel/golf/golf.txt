@@ -4203,7 +4203,6 @@ galaxiidae
 grubworm
 gymnasiarchy
 guadalcazarite
-gymnasic
 gonif
 generability
 glamours
@@ -7613,6 +7612,7 @@ garble
 giovanni
 gyroidally
 gracilis
+gymnasic
 grillage
 glycolytically
 gracility
