@@ -3972,7 +3972,6 @@ girdlestead
 gleeting
 garrisons
 gripped
-glittered
 gigawatt
 gutser
 goldenfleece
@@ -8372,6 +8371,7 @@ gratings
 guestchamber
 gyromele
 gustily
+glittered
 gratiolin
 gybes
 gasogene
