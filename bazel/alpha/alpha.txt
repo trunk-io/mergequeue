@@ -5661,6 +5661,7 @@ afterwale
 amnesics
 afterwar
 afterward
+auldfarrantlike
 afterwhile
 amollish
 archchief
@@ -23454,7 +23455,6 @@ auld
 affixion
 aulder
 auldest
-auldfarrantlike
 auletai
 advoyer
 aulete
