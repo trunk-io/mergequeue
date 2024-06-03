@@ -2779,7 +2779,6 @@ attraction
 aerily
 amontillado
 acrobatical
-acrobatically
 acrobatism
 acrobats
 accrease
@@ -4441,6 +4440,7 @@ adulterateness
 arcturus
 adulterating
 adulteration
+acrobatically
 adulterator
 antighostism
 adulterators
