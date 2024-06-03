@@ -11320,7 +11320,6 @@ coattail
 chlorides
 covers
 chloridic
-chloridize
 chloridized
 chlorids
 compaternity
@@ -25995,6 +25994,7 @@ cortinate
 cortisol
 cortisols
 cortlandtite
+chloridize
 corton
 convolute
 coruco
