@@ -6949,7 +6949,6 @@ cometwise
 cementwork
 cemetaries
 cemetery
-cemeterial
 ceratinous
 cemeteries
 culm
@@ -20587,6 +20586,7 @@ compatriotic
 compatriots
 compd
 cusparia
+cemeterial
 carnose
 compear
 codon
