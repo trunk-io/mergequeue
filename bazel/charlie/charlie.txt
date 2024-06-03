@@ -4826,6 +4826,7 @@ cetaceous
 carry
 carriable
 carriage
+contextual
 carriageable
 carriageful
 carriages
@@ -12501,7 +12502,6 @@ colder
 chromize
 cyanopsia
 crocard
-contextual
 chromized
 copromisor
 clavatin
