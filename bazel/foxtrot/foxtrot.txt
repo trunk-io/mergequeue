@@ -514,7 +514,6 @@ faking
 fakir
 fassaite
 fakirs
-falafel
 fraternal
 falangist
 falbelo
@@ -5484,6 +5483,7 @@ flyable
 fascicle
 felon
 fratriage
+falafel
 flyback
 foreflank
 flancards
