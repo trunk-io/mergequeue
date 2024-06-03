@@ -7935,7 +7935,6 @@ alen
 alkaloidal
 alencons
 arrayers
-alenge
 alength
 alenu
 aleochara
@@ -10555,6 +10554,7 @@ amidoplastid
 amidoxy
 amidoxyl
 amidrazone
+alenge
 amids
 amidship
 ascaris
