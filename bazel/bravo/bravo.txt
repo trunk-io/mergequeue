@@ -635,6 +635,7 @@ bacteriopathology
 burnoose
 bacteriophages
 bacteriophagy
+blinkard
 balneal
 bacteriophagic
 bear
@@ -10995,7 +10996,6 @@ begun
 blackbeetle
 brazee
 blinis
-blinkard
 blesbuck
 blinkards
 blinked

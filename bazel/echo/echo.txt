@@ -74,7 +74,6 @@ embiodea
 estuarine
 earlier
 earliest
-eastness
 etiam
 earlike
 earlobe
@@ -14060,6 +14059,7 @@ exclude
 enquarter
 epidendral
 extraverted
+eastness
 errantry
 excogitable
 elaborations
