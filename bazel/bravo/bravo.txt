@@ -2459,6 +2459,7 @@ bronchomotor
 bardlike
 bardling
 bluestone
+bilaterality
 banyoro
 bardocucullus
 balarao
@@ -8553,7 +8554,6 @@ bilander
 becolor
 bilateral
 bilateralism
-bilaterality
 bemusement
 battercake
 bandido
