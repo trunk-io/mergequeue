@@ -3010,7 +3010,6 @@ fructuarius
 forefault
 forworden
 formicina
-feverlike
 forgette
 finches
 feverous
@@ -8895,6 +8894,7 @@ filthify
 foundationlessness
 filibranch
 founded
+feverlike
 foutra
 forceps
 feasant
