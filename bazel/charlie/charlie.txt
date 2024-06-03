@@ -24969,7 +24969,6 @@ craniacromial
 coralloidal
 corallum
 corallus
-circumflexion
 caelum
 coralroot
 corals
@@ -27452,6 +27451,7 @@ cousinhood
 curupira
 cousinry
 cousinries
+circumflexion
 cousinship
 coussinet
 centricalness
