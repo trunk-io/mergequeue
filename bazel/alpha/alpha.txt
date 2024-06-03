@@ -2051,7 +2051,6 @@ alkyloxy
 acetonize
 acetophenetide
 acetophenetidin
-acetophenetidine
 abrogations
 astel
 acerin
@@ -3573,6 +3572,7 @@ alectryon
 apetalae
 adelarthrosomatous
 adelaster
+acetophenetidine
 adelea
 adeleidae
 azoospermia
