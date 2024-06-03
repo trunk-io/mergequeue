@@ -14766,7 +14766,6 @@ cystoids
 cystolith
 cystolithiasis
 cystolithic
-cystoma
 cystomas
 cystometer
 cystomyoma
@@ -27918,6 +27917,7 @@ crackbrain
 conferees
 crackbrained
 carpognia
+cystoma
 crackbrainedness
 crackdowns
 cyclonically
