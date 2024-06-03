@@ -17158,7 +17158,6 @@ carduus
 coadjutorship
 coadjutress
 coadjutrix
-coadjuvant
 coadjuvate
 candystick
 coadminister
@@ -31492,6 +31491,7 @@ cursers
 cashmirian
 carposporangia
 curship
+coadjuvant
 cornutin
 cursing
 coelenteron
