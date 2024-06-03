@@ -5420,6 +5420,7 @@ formatters
 fanjets
 furfuran
 fleshliest
+folkvang
 fele
 fleshliness
 fw
@@ -8855,7 +8856,6 @@ folia
 fleuron
 fotmal
 foud
-folkvang
 forum
 fredaine
 furbelow
