@@ -13689,6 +13689,7 @@ cymae
 cymagraph
 clethra
 cimaise
+cubbyhole
 cafe
 colament
 cymaise
@@ -23235,7 +23236,6 @@ constrainedness
 carroll
 choiak
 constrainingly
-cubbyhole
 constraints
 cardioscope
 constrict
