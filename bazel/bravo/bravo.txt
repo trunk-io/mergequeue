@@ -1466,6 +1466,7 @@ bridling
 balistarii
 balister
 balistes
+booting
 battologized
 balistid
 bloodshedding
@@ -16725,7 +16726,6 @@ bedfoot
 bucktooth
 bucktoothed
 bucku
-booting
 babehood
 buckwagon
 buckwash
