@@ -8386,7 +8386,6 @@ bedsteads
 bovarysm
 bigamies
 bigamist
-beseek
 blunders
 bigamize
 boyars
@@ -14926,6 +14925,7 @@ breba
 balsa
 betweens
 bonked
+beseek
 breccial
 breccias
 brecciated
