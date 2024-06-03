@@ -1600,7 +1600,6 @@ fortyfold
 faviform
 farcelike
 favillous
-farcetta
 florilage
 favissa
 fegary
@@ -2834,6 +2833,7 @@ flatly
 facets
 flinchingly
 ftncmd
+farcetta
 festoonery
 fotch
 festoony
