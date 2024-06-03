@@ -2171,6 +2171,7 @@ chaenactis
 campshed
 campsheeting
 campsite
+commender
 caver
 compasser
 coadunation
@@ -20084,7 +20085,6 @@ champert
 commendatorily
 commended
 curwillet
-commender
 commending
 commendment
 commends
