@@ -2907,7 +2907,6 @@ escalators
 exocycloida
 eu
 eleven
-elevener
 elevenfold
 eegrass
 enthrall
@@ -12267,6 +12266,7 @@ executor
 excur
 ensigns
 extralateral
+elevener
 erodable
 ergotine
 executorial
