@@ -7600,6 +7600,7 @@ cercomonad
 cercomonadidae
 cercopid
 continent
+clysters
 cercopithecid
 contracting
 cercopithecidae
@@ -16430,7 +16431,6 @@ clysmic
 clyssus
 clyster
 connectives
-clysters
 clistocarp
 circumvolute
 clistothcia
