@@ -7881,6 +7881,7 @@ biacid
 breechblock
 basoko
 biacuru
+bullgine
 baviere
 blessings
 bodysuits
@@ -13841,7 +13842,6 @@ baggy
 bowelling
 bower
 bowerbird
-bullgine
 bowery
 boweries
 boyos
