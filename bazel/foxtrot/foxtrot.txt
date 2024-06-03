@@ -2921,6 +2921,7 @@ foliages
 fetter
 fisty
 figworm
+flybelts
 fungid
 flunkeyize
 fortuned
@@ -6279,7 +6280,6 @@ fluigram
 filestatus
 frankincensed
 fluyts
-flybelts
 fluke
 fluked
 feridgi
