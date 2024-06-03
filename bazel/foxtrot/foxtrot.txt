@@ -533,7 +533,6 @@ folium
 falcons
 folkboat
 falculate
-falcunculus
 falderal
 falderals
 familiarity
@@ -8827,6 +8826,7 @@ fossorious
 fossulae
 faltche
 featureless
+falcunculus
 fostered
 footstone
 foist
