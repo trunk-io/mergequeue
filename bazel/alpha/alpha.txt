@@ -1855,7 +1855,6 @@ acequia
 acer
 aceraceous
 acerae
-acerate
 acerated
 acerathere
 aceratherium
@@ -21145,6 +21144,7 @@ andabata
 arterioles
 adglutinate
 asellus
+acerate
 ascertainableness
 accepting
 asem
