@@ -6891,7 +6891,6 @@ blackbirds
 bin
 berserks
 berskin
-berhyme
 bert
 bugshas
 berteroa
@@ -9527,6 +9526,7 @@ btl
 byrlady
 baptisteries
 byrlawman
+berhyme
 ballottable
 birle
 birler
