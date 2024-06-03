@@ -7785,7 +7785,6 @@ aldea
 antichresis
 acrodus
 aldebaran
-ambiance
 abe
 aldebaranium
 anacahuita
@@ -20049,6 +20048,7 @@ armors
 armouchiquois
 anopisthographic
 armour
+ambiance
 armourbearer
 armoured
 armourer
