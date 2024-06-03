@@ -3742,7 +3742,6 @@ cheerios
 carbazine
 crimpled
 carbazole
-carbeen
 carbene
 cantorian
 carberry
@@ -26415,6 +26414,7 @@ cycloidian
 cerenkov
 cothon
 cothouse
+carbeen
 cothurn
 chemigrapher
 cothurned

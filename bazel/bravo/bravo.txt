@@ -1057,7 +1057,6 @@ bailiery
 bargainwise
 bailieries
 bailieship
-bailiff
 biogeographic
 bailiffs
 ballow
@@ -14348,6 +14347,7 @@ benthos
 bambino
 brailling
 braillist
+bailiff
 bombinae
 bettors
 braincap
