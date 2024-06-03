@@ -1126,7 +1126,6 @@ glares
 gangwa
 grenadilla
 gamed
-genitives
 ganister
 gynaecocratic
 groat
@@ -10668,6 +10667,7 @@ goliardeys
 gurl
 galloptious
 grove
+genitives
 glycerols
 gurnard
 greegrees
