@@ -2139,7 +2139,6 @@ gelndesprung
 gradations
 garbline
 griefs
-gawkhammer
 geat
 gump
 ghouls
@@ -3721,6 +3720,7 @@ gasoliner
 georgiadesite
 ghostdom
 generalidad
+gawkhammer
 gallimatia
 guardstone
 gelastic
