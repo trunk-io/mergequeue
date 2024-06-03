@@ -1960,6 +1960,7 @@ feebleness
 feebless
 feebly
 feeblish
+fortescure
 fulldo
 flammivomous
 feedbags
@@ -4885,7 +4886,6 @@ firepan
 fetologist
 factionary
 fruits
-fortescure
 flocking
 frontispiece
 firebase
