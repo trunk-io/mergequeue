@@ -7320,7 +7320,6 @@ gossiped
 glycerolysis
 guttery
 gossipee
-gossiper
 greensward
 gascoign
 gossipy
@@ -8935,6 +8934,7 @@ germinating
 griff
 gigant
 glutamine
+gossiper
 gynaeolatry
 guiltier
 galactotherapy
