@@ -6939,7 +6939,6 @@ bescarf
 belout
 blandishment
 bejig
-bullhoof
 bescatter
 balletic
 blibe
@@ -9556,6 +9555,7 @@ burnies
 brittling
 blazoning
 babingtonite
+bullhoof
 biron
 byronesque
 birostrate
