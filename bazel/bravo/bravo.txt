@@ -2066,6 +2066,7 @@ bank
 barat
 bankalachi
 bobsleds
+buckbrush
 bidactyl
 bankbooks
 bankcard
@@ -2491,7 +2492,6 @@ brawner
 bareges
 barehead
 baboodom
-buckbrush
 bisexuality
 bogles
 bareheaded
