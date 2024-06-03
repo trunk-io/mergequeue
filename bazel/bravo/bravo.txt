@@ -12513,7 +12513,6 @@ bulbose
 bondsmen
 bondstone
 bondswoman
-bondswomen
 bagpiped
 bondwoman
 bone
@@ -15891,6 +15890,7 @@ bromometry
 bopper
 barbeyaceae
 biose
+bondswomen
 bookmarker
 bestrow
 bromometrical
