@@ -9748,7 +9748,6 @@ alveolonasal
 alveolosubnasal
 alveolus
 alveus
-alviducous
 alvin
 ambidexterous
 alvine
@@ -24412,6 +24411,7 @@ autostradas
 autosuggestible
 autosuggestion
 autosuggestionist
+alviducous
 adversarious
 argentol
 autosuppression
