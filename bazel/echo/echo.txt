@@ -1204,7 +1204,6 @@ edition
 editions
 editor
 exploitation
-editorial
 editorialization
 editorialize
 editorialized
@@ -9971,6 +9970,7 @@ esthesis
 encave
 ephapse
 encompasses
+editorial
 eugenicist
 esthiomene
 extenuatingly
