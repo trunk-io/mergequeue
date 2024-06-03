@@ -1823,6 +1823,7 @@ folkmots
 flak
 featishness
 farrand
+frustules
 fraenum
 flyspecks
 featliness
@@ -10739,7 +10740,6 @@ flyover
 flat
 felup
 frustulent
-frustules
 footrope
 fleeing
 fletches
