@@ -7646,7 +7646,6 @@ flammant
 fleshlily
 foretopsail
 fiefdom
-foregut
 forehalf
 feudalize
 forehammer
@@ -7863,6 +7862,7 @@ forerehearsed
 forerequest
 foredates
 flapperdom
+foregut
 flannelbush
 frenzying
 forerun
