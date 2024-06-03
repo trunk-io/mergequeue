@@ -7562,7 +7562,6 @@ gownsman
 goalie
 geothlypis
 gravamens
-gelechiid
 gownsmen
 gox
 gangism
@@ -8154,6 +8153,7 @@ grapelike
 gritrock
 gazingstock
 gashest
+gelechiid
 galeodes
 gopura
 grapery
