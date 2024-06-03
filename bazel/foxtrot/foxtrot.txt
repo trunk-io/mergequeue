@@ -4055,6 +4055,7 @@ fraid
 figment
 foxtail
 fasten
+facet
 forex
 finland
 finlander
@@ -9186,7 +9187,6 @@ forward
 fanning
 foment
 fetometry
-facet
 fructicultural
 filenames
 flams
