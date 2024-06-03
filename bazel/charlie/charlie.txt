@@ -9914,7 +9914,6 @@ colpostat
 chemolyze
 chemonite
 chemopallidectomy
-chemopause
 congregativeness
 countable
 chemophysiology
@@ -20022,6 +20021,7 @@ coinheres
 carayan
 cocarboxylase
 conjectural
+chemopause
 commassation
 carot
 commassee
