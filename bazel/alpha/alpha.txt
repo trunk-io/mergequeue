@@ -1500,7 +1500,6 @@ acclimatise
 angelizing
 anticynically
 acclimatised
-acclimatiser
 acclimatising
 arachnidial
 algid
@@ -1984,6 +1983,7 @@ acetylhydrazine
 acetylic
 acetylid
 acetylizable
+acclimatiser
 acetylization
 ammonization
 acetylize
