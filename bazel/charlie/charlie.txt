@@ -15648,6 +15648,7 @@ clash
 clashee
 coachwhip
 clasher
+copters
 cogeneration
 clashers
 clashes
@@ -24821,7 +24822,6 @@ copsy
 copsing
 copt
 copter
-copters
 clausilia
 coptic
 concert
