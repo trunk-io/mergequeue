@@ -131,6 +131,7 @@ cabinlike
 crafter
 canisiana
 cabio
+chemisorptive
 costotransverse
 camelopard
 cabiria
@@ -9275,7 +9276,6 @@ chasseurs
 creatine
 chassignite
 coachful
-chemisorptive
 chastacosta
 chaste
 chastelain
