@@ -2075,6 +2075,7 @@ bullaria
 bankmen
 banknote
 badaud
+boatbuilding
 bristly
 banknotes
 bedeguar
@@ -11654,7 +11655,6 @@ bacterioscopical
 barspoon
 byres
 brutality
-boatbuilding
 boatel
 boathook
 boathouse
