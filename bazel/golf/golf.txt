@@ -868,7 +868,6 @@ grindal
 goalage
 grangerising
 gambols
-gobbe
 gelsemine
 garoting
 gernitz
@@ -7502,6 +7501,7 @@ goldcrest
 graphostatic
 galavanted
 glottalized
+gobbe
 grafship
 griphosaurus
 gulmohar
