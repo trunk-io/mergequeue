@@ -8684,7 +8684,6 @@ billage
 bushwhacker
 billbergia
 boatsmen
-beckon
 bourgeoisify
 billboards
 banff
@@ -17401,6 +17400,7 @@ bangboard
 bundles
 bastnasite
 bundts
+beckon
 bundu
 bundweed
 bunga
