@@ -2471,7 +2471,6 @@ designs
 decyne
 diaeresis
 decipherability
-decipherable
 dand
 delay
 doctrinarily
@@ -6618,6 +6617,7 @@ decontamination
 desegregates
 dilettant
 draglines
+decipherable
 deprecations
 desegregation
 duststorm

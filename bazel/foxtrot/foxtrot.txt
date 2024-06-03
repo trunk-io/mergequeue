@@ -4865,7 +4865,6 @@ frequentable
 flambeau
 frocking
 flambeaux
-flambee
 flamberg
 flambes
 flamboyance
@@ -5746,6 +5745,7 @@ floodplain
 flowe
 fribble
 flitted
+flambee
 forestside
 foreknowledge
 foreground
