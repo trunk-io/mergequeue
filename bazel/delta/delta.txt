@@ -7853,7 +7853,6 @@ devotionalist
 derat
 devotionally
 devotionary
-deckhands
 diadochokinesis
 devotions
 discorrespondency
@@ -8835,6 +8834,7 @@ debasing
 demethylation
 diazotype
 dromicia
+deckhands
 diazotization
 deratization
 diagnostics
