@@ -3644,7 +3644,6 @@ embracingness
 excitable
 embracive
 embraid
-embrail
 embranchment
 eluviating
 evestar
@@ -8640,6 +8639,7 @@ equid
 equidiagonal
 equidimensional
 equidist
+embrail
 equidistance
 eumerogenesis
 embranglement
