@@ -365,6 +365,7 @@ flaggelate
 factions
 famines
 fiercening
+finikin
 foreproduct
 fideicommissor
 fainter
@@ -7255,7 +7256,6 @@ favellae
 finchbacked
 filosofe
 feazing
-finikin
 ferijee
 fibulocalcaneal
 fantaseid
