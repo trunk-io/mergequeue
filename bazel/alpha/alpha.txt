@@ -12775,7 +12775,6 @@ angiocarpic
 angiocarpous
 angiocavernous
 angiocholecystitis
-angiochondroma
 angiodermatitis
 angiodiascopy
 atrabile
@@ -21953,6 +21952,7 @@ assonants
 arnottos
 assonia
 alternations
+angiochondroma
 assortatively
 assorted
 alethiologic
