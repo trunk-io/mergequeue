@@ -6844,7 +6844,6 @@ atelognathia
 airflow
 airflows
 airfoil
-airfoils
 airframes
 adiate
 abortus
@@ -7651,6 +7650,7 @@ alchem
 asportation
 asylum
 arrhythmical
+airfoils
 alchemy
 alchemic
 antiviral
