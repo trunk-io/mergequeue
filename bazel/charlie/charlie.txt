@@ -5162,7 +5162,6 @@ caseum
 caseweed
 caseworker
 caseworks
-caseworm
 casha
 cashable
 cashableness
@@ -19998,6 +19997,7 @@ cozzes
 commandments
 clave
 commando
+caseworm
 commandoes
 commandoman
 canfieldite
