@@ -1062,6 +1062,7 @@ bailiffs
 ballow
 bailing
 busway
+boroughmaster
 bailiwick
 beaconed
 bridler
@@ -1702,7 +1703,6 @@ balmonies
 beslur
 balmoral
 buzzwig
-boroughmaster
 benefits
 besoms
 balmorals
