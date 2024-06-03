@@ -1426,7 +1426,6 @@ filecard
 floorer
 fibromyxoma
 fatiscent
-fatless
 frivoller
 fatly
 fatling
@@ -6862,6 +6861,7 @@ feline
 frizette
 fasnacht
 fallaciously
+fatless
 folklike
 finnochio
 folklores
