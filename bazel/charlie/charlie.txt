@@ -7771,7 +7771,6 @@ ceroid
 ceroline
 cerolite
 ceromancy
-cmdr
 ciliolate
 couldron
 cadbit
@@ -29310,6 +29309,7 @@ cryptoglioma
 centeses
 custody
 cryptogram
+cmdr
 cryptogrammatic
 cryptogrammatical
 concelebrated
