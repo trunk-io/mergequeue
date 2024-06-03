@@ -81,7 +81,6 @@ abandonable
 amphipods
 abandoned
 abandonee
-abandoner
 abandoners
 archiphoneme
 abandoning
@@ -17196,6 +17195,7 @@ apocrustic
 apodema
 apodemal
 antistes
+abandoner
 apodemas
 apodematal
 apodeme
