@@ -2997,6 +2997,7 @@ eliminate
 equiprobabilism
 eliminated
 equaled
+externa
 eliminating
 eliminator
 earmarked
@@ -13648,7 +13649,6 @@ exterminatrix
 endways
 extermining
 extern
-externa
 extraconscious
 exurbanite
 escalader
