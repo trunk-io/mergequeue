@@ -11910,7 +11910,6 @@ cyprinoidea
 cereus
 chopine
 chopines
-chopins
 colory
 choplogic
 choplogical
@@ -31633,6 +31632,7 @@ colures
 cusconin
 cretionary
 cusconine
+chopins
 crossbreeds
 cuscus
 cisatlantic
