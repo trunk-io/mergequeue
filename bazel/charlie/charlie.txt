@@ -28884,6 +28884,7 @@ crevices
 combo
 coventries
 chiffrobe
+cubododecahedral
 crevis
 crew
 crewcut
@@ -30522,7 +30523,6 @@ cubocalcaneal
 cuboctahedron
 cubocube
 cubocuneiform
-cubododecahedral
 concarnation
 cuboid
 cuboidal
