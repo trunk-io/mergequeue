@@ -8636,7 +8636,6 @@ electrotherapeutic
 encompassing
 equiconvex
 egrets
-ergatomorph
 equid
 equidiagonal
 equidimensional
@@ -8760,6 +8759,7 @@ epicondylar
 ecstatics
 esthesiogenic
 elastometry
+ergatomorph
 equispatial
 equisetic
 equisided
