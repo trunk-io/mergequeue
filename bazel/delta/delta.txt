@@ -5391,7 +5391,6 @@ displant
 dentelliere
 dentelure
 davit
-dentes
 dragonne
 dealable
 docimasies
@@ -16716,6 +16715,7 @@ dramatical
 dramatically
 dowelled
 deflocculated
+dentes
 deperdition
 dramaticle
 dermatoid
