@@ -1541,7 +1541,6 @@ flaunter
 focusers
 footplate
 filmmaking
-faun
 foulards
 ferreiro
 fluorate
@@ -11635,6 +11634,7 @@ forearmed
 fustians
 fustics
 fustigated
+faun
 fixable
 frolicsomely
 fibrous
