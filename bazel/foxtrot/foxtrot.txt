@@ -260,7 +260,6 @@ furmint
 freeload
 forspend
 flamethrower
-firm
 fertilizations
 floorwalker
 fluviation
@@ -1777,6 +1776,7 @@ feldspathoidal
 featherfew
 finically
 fluoridates
+firm
 featherier
 featheriness
 fetichmonger
