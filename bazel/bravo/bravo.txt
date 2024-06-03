@@ -2851,7 +2851,6 @@ bitis
 ballgowns
 barothermograph
 barothermohygrograph
-baroto
 borophenol
 barotrauma
 bulgurs
@@ -9980,6 +9979,7 @@ bitterbur
 bittered
 bitterender
 ballooning
+baroto
 baffed
 bilineate
 bitterer
