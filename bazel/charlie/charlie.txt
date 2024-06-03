@@ -9948,6 +9948,7 @@ calic
 cameograph
 catalogic
 chemosorb
+crosscut
 chemosorption
 chemosorptive
 chemosphere
@@ -15468,7 +15469,6 @@ clangorously
 cookish
 clangors
 cappella
-crosscut
 clangour
 cynebot
 clangoured
