@@ -11251,7 +11251,6 @@ chloralize
 chloralized
 chloralose
 chloralosed
-chloralum
 chlorambucil
 chloramin
 chloramphenicol
@@ -28494,6 +28493,7 @@ creational
 creationary
 creations
 creative
+chloralum
 conphaseolin
 cutability
 creativity
