@@ -6815,6 +6815,7 @@ cellaret
 caffeine
 cellarette
 cellarmen
+coble
 cellars
 chirologies
 charivariing
@@ -17541,7 +17542,6 @@ craniometer
 clothesbrush
 curculionid
 climacium
-coble
 cobleman
 comminuting
 cuttings
