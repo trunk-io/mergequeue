@@ -5616,6 +5616,7 @@ departs
 drainermen
 demicolumn
 depascent
+dianil
 delphinoid
 digested
 diphthongic
@@ -8540,7 +8541,6 @@ diane
 dianetics
 divider
 didactically
-dianil
 dianilid
 dilate
 dianilide

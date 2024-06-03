@@ -21390,7 +21390,6 @@ cemetary
 coplots
 conchuela
 concyclic
-concyclically
 concierge
 creosols
 concierges
@@ -26462,6 +26461,7 @@ cotingidae
 cuprein
 cotingoid
 chancel
+concyclically
 cotinus
 cotype
 cusparine
