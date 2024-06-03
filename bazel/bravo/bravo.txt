@@ -1239,7 +1239,6 @@ blok
 barkers
 bakutu
 bala
-balaam
 balabos
 bashfully
 barrabkie
@@ -2065,6 +2064,7 @@ bankalachi
 bobsleds
 bidactyl
 bankbooks
+balaam
 bankcard
 becrawl
 bankcards
