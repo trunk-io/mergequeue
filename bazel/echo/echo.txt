@@ -1201,7 +1201,6 @@ elhi
 eikons
 esthetics
 environage
-embowelled
 edition
 editions
 editor
@@ -7125,6 +7124,7 @@ enterozoa
 enlinked
 enunciability
 enunciated
+embowelled
 enunciations
 enchannel
 electroanalytical
