@@ -4609,7 +4609,6 @@ aromatizer
 advertizes
 advice
 advices
-advisable
 advisableness
 advisably
 adiaphorism
@@ -21969,6 +21968,7 @@ assuade
 astrologer
 anthophobia
 apprise
+advisable
 approvableness
 assuaged
 arterin
