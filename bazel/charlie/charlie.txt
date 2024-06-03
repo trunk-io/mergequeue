@@ -12919,7 +12919,6 @@ cantative
 churchgoers
 churchgrith
 churchy
-churchianity
 churchyard
 churchyards
 churchier
@@ -17749,6 +17748,7 @@ cockpit
 couched
 cockroach
 comaking
+churchianity
 chemosmoic
 confraternity
 cockroaches
