@@ -1188,6 +1188,7 @@ genin
 generalness
 gantsl
 gastroplication
+gastrostomus
 ganza
 grazers
 gowdnie
@@ -6233,7 +6234,6 @@ greit
 gumshoed
 greatly
 gyre
-gastrostomus
 gnomoniaceae
 globicephala
 glossic
