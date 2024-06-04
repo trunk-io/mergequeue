@@ -2938,6 +2938,7 @@ elfland
 ergotized
 elflock
 entelodon
+equating
 elflocks
 endermic
 elfship
@@ -8588,7 +8589,6 @@ endomictic
 equatability
 equatable
 equate
-equating
 essentializing
 expulses
 eastlin
