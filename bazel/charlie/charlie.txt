@@ -8140,7 +8140,6 @@ chaetophorous
 chaetopod
 caffein
 chaetopodan
-colonalgia
 chaetopterus
 chaetosoma
 chaetosomatidae
@@ -29304,6 +29303,7 @@ calcify
 cryptodire
 cryptodirous
 cryptodouble
+colonalgia
 cryonics
 cryptogam
 cryptogame
