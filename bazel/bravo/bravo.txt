@@ -8169,6 +8169,7 @@ biconic
 biconically
 baalish
 biconnected
+boildown
 biconsonantal
 biconvex
 biconvexity
@@ -12111,7 +12112,6 @@ boiko
 boilable
 boylas
 bromocresol
-boildown
 befrounce
 boilerful
 boilerman
