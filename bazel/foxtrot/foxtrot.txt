@@ -1803,7 +1803,6 @@ feathertop
 flagellation
 featherweed
 fulminancy
-frostless
 flaunts
 flakeboard
 featherwing
@@ -3461,6 +3460,7 @@ furfurans
 fluidised
 fifish
 fossiled
+frostless
 fifteenfold
 fifteens
 frauds
