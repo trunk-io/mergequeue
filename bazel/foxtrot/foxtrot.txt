@@ -2206,6 +2206,7 @@ foretypified
 forestate
 felspath
 framers
+flashet
 forewinning
 felt
 felter
@@ -8916,7 +8917,6 @@ forget
 finochios
 foundlings
 foundress
-flashet
 foundryman
 flatlets
 foundrymen
