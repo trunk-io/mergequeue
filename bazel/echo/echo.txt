@@ -2695,7 +2695,6 @@ enfirm
 epididymovasostomy
 elaeocarpaceous
 eleutherodactyli
-electrosurgical
 electrosurgically
 esophagism
 electrotactic
@@ -6553,6 +6552,7 @@ electroscopic
 earwort
 enteraden
 enteradenography
+electrosurgical
 enteradenological
 enteral
 enteralgia
