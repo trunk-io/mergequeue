@@ -1379,7 +1379,6 @@ fendering
 flown
 forride
 fathomage
-fathomed
 flatlanders
 fbi
 fellani
@@ -5660,6 +5659,7 @@ fungitoxicity
 fubsiest
 flipped
 fracturableness
+fathomed
 flipperling
 frogface
 frumple
