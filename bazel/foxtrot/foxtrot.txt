@@ -2004,6 +2004,7 @@ fide
 fortressing
 feere
 farls
+fairways
 feering
 fautor
 fees
@@ -6680,7 +6681,6 @@ feudatorial
 flyblow
 faveoluli
 fogdogs
-fairways
 fogdom
 fogfruit
 foretype
