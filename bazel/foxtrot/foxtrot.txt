@@ -557,7 +557,6 @@ fenestellidae
 flyability
 fallage
 footpace
-foreright
 foxwood
 fallaway
 flosculariidae
@@ -8231,6 +8230,7 @@ funeration
 forgetfulness
 forgett
 feldspars
+foreright
 forgettably
 forgetters
 faverole
