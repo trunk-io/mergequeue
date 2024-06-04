@@ -17063,7 +17063,6 @@ cnemial
 centurion
 contributary
 cnemides
-castorized
 cnemidium
 cnemidophorus
 cnemis
@@ -25630,6 +25629,7 @@ coroutines
 clericum
 chati
 cardsharper
+castorized
 corp
 corpn
 corpora

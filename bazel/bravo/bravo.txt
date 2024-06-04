@@ -3375,7 +3375,6 @@ basketing
 basketlike
 bandurria
 bathymetric
-basketmaker
 basketmaking
 biotope
 basketries
@@ -7676,6 +7675,7 @@ barnacle
 bewept
 bewest
 bewhisker
+basketmaker
 briguer
 bewhisper
 brakeages
