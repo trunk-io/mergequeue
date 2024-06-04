@@ -6128,6 +6128,7 @@ disminister
 dognapper
 deputizes
 deputizing
+debriefed
 dequeue
 dermorhynchi
 duomi
@@ -17114,7 +17115,6 @@ derivational
 dispensated
 driftbolt
 dehydrated
-debriefed
 danaid
 disgown
 drifter
