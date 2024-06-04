@@ -4166,7 +4166,6 @@ eclegm
 eatche
 extracranial
 energids
-exemplifier
 empoisoned
 encaustes
 etherol
@@ -5473,6 +5472,7 @@ energism
 energize
 eucalyptian
 enharmonically
+exemplifier
 energizers
 energizes
 ecclesiology
