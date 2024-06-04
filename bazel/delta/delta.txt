@@ -2560,7 +2560,6 @@ doorjamb
 declares
 dudgeons
 demythologise
-daneworts
 diplococcus
 declaring
 declasse
@@ -6160,6 +6159,7 @@ derays
 derangeable
 deranges
 dropout
+daneworts
 durgen
 deranging
 deader
