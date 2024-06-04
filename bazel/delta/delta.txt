@@ -5407,7 +5407,6 @@ dentelliere
 dentelure
 davit
 dentes
-dragonne
 dealable
 docimasies
 dorsimesal
@@ -12313,6 +12312,7 @@ disemployed
 dinos
 disgustfully
 darioles
+dragonne
 disgustfulness
 dietine
 disgustingly
