@@ -4022,6 +4022,7 @@ fenianism
 finisher
 fadable
 finishers
+frowners
 finishes
 finites
 fightingly
@@ -10529,7 +10530,6 @@ finlet
 foresummer
 frowl
 fierily
-frowners
 freq
 fudgy
 frownful
