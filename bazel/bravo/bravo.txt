@@ -5691,7 +5691,6 @@ belamour
 bettas
 belanda
 byland
-belander
 beclamoring
 brunet
 baggages
@@ -7440,6 +7439,7 @@ bootstrap
 bethink
 barquentine
 balaenoptera
+belander
 becumber
 bethinks
 baklawa
