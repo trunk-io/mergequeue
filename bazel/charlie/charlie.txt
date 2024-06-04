@@ -19102,7 +19102,6 @@ colleter
 colleterium
 chelone
 colletes
-counterpose
 colletia
 coenosarc
 colletidae
@@ -21885,6 +21884,7 @@ cordyline
 cones
 conestoga
 conf
+counterpose
 confab
 confabs
 confabulate
