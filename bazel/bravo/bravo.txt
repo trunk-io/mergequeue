@@ -4853,7 +4853,6 @@ bronx
 bedscrew
 bits
 bedsick
-balance
 bedside
 bedsitter
 bedsonia
@@ -11561,6 +11560,7 @@ bannerer
 badinaged
 ballplayers
 bluntness
+balance
 birdwomen
 brachymetropia
 blup
