@@ -2318,7 +2318,6 @@ bescorched
 bolyaian
 barbatimao
 barbe
-barbecue
 bellyfull
 bicone
 barbecuer
@@ -4057,6 +4056,7 @@ bouldery
 beacons
 beaded
 beadeye
+barbecue
 beader
 believe
 beady
