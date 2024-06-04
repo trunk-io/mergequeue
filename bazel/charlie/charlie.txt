@@ -2027,6 +2027,7 @@ campagus
 campaign
 clotheshorses
 campaigners
+cercarias
 campaigns
 campana
 campane
@@ -7588,7 +7589,6 @@ cercarial
 coloni
 cercarian
 corpuscular
-cercarias
 cercariform
 cerci
 cercidiphyllaceae
