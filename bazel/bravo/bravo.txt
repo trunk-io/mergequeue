@@ -5012,7 +5012,6 @@ belgae
 bunt
 bricks
 boltless
-ballast
 beeping
 beeps
 beer
@@ -5753,6 +5752,7 @@ belee
 beleed
 biers
 belemnitic
+ballast
 belemnoid
 belayed
 bowssen
