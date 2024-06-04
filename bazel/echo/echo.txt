@@ -9953,7 +9953,6 @@ excludingly
 esthesiometric
 emblemish
 esthesiophysiology
-esthesis
 encave
 ephapse
 encompasses
@@ -11529,6 +11528,7 @@ endlessly
 embryoma
 evincible
 ectopterygoid
+esthesis
 epicoela
 encephalitis
 endolemma
