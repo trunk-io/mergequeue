@@ -1033,7 +1033,6 @@ eudiagnostic
 eidolology
 ethmolachrymal
 eczematosis
-embryulci
 eponymic
 endosporium
 edaciously
@@ -3913,6 +3912,7 @@ exorganic
 endoenteritis
 emissile
 enalid
+embryulci
 epiglottis
 ekoi
 epitheliliums
