@@ -4817,6 +4817,7 @@ fluidifying
 feramorz
 falterer
 fissional
+frictions
 flaying
 fittedness
 fluidify
@@ -10428,7 +10429,6 @@ fronts
 foreimagination
 factorization
 frontsman
-frictions
 fluxional
 frontspieces
 frontstall
