@@ -1218,7 +1218,6 @@ finenesses
 fasciole
 fascioliasis
 fustier
-fascioloid
 fumigations
 flanken
 flustering
@@ -11180,6 +11179,7 @@ fungicide
 fungicides
 fungicolous
 fridila
+fascioloid
 formability
 fervently
 feces
