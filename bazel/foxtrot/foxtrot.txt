@@ -4786,6 +4786,7 @@ faunula
 figurehead
 fra
 falsen
+forestology
 flagrancy
 frostbiter
 fenderless
@@ -8044,7 +8045,6 @@ flummeries
 forestish
 fishier
 falbala
-forestology
 flashback
 forestral
 forfars
