@@ -11328,7 +11328,6 @@ amphodarch
 amphogeny
 ampholytic
 abaff
-amphophilic
 amphora
 amphorae
 amphore
@@ -21157,6 +21156,7 @@ asemia
 aecium
 asemic
 asepalous
+amphophilic
 asepses
 anagogical
 asepticism
