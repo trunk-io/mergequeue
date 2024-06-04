@@ -3801,7 +3801,6 @@ gelatinise
 grihyasutra
 glucke
 gaberlunzie
-garter
 gauk
 gardenly
 gibbled
@@ -7853,6 +7852,7 @@ glossotherium
 gastroenterostomy
 gelatification
 gramme
+garter
 groggiest
 gumwood
 gilbertage
