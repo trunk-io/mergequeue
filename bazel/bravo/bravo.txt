@@ -886,7 +886,6 @@ bistratal
 baghdad
 bluishness
 bagie
-baginda
 burghal
 bagios
 bedrenching
@@ -8229,6 +8228,7 @@ binocularity
 bidens
 boomerangs
 bident
+baginda
 bug
 blasphemer
 beltmaker
