@@ -1284,7 +1284,6 @@ frigor
 fastener
 fastening
 frocked
-footmanhood
 forefather
 floscular
 fatuate
@@ -6599,6 +6598,7 @@ foamflower
 forecaddie
 faucal
 firework
+footmanhood
 forthcomer
 foxtails
 floriculturally
