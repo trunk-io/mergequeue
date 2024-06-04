@@ -5953,7 +5953,6 @@ coconspirator
 catheads
 cathect
 cathected
-cathecting
 cathection
 cathects
 cathedra
@@ -7339,6 +7338,7 @@ centuriator
 centuried
 centuries
 chimera
+cathecting
 cuitled
 centurions
 captious
