@@ -6421,7 +6421,6 @@ goblins
 gobo
 gobony
 gobs
-gobstick
 galipot
 gobstopper
 groceries
@@ -6464,6 +6463,7 @@ greenwort
 gastrular
 gunnera
 glossophaga
+gobstick
 glomerulitis
 goggliest
 goglet
