@@ -4829,6 +4829,7 @@ carretera
 carreton
 carri
 cetaceous
+choppier
 carry
 carriable
 carriage
@@ -11920,7 +11921,6 @@ cryptomonad
 candider
 chopper
 choppers
-choppier
 choppiest
 choppiness
 cowpuncher
