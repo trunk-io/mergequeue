@@ -3355,7 +3355,6 @@ fideistic
 fractable
 faction
 flabbergastation
-featherweights
 fidejussor
 fortunous
 fidelio
@@ -4872,6 +4871,7 @@ frequentable
 flambeau
 frocking
 flambeaux
+featherweights
 flamberg
 flambes
 flamboyance
