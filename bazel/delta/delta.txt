@@ -9439,6 +9439,7 @@ diffuses
 dechlore
 diffusible
 diffusibleness
+drammach
 diffusimeter
 diffusing
 diffusion
@@ -13989,7 +13990,6 @@ dolichosaur
 distort
 describably
 depriving
-drammach
 diabetic
 dishboard
 disciplinant
