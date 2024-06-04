@@ -6469,7 +6469,6 @@ flatboat
 fermerer
 flourlike
 fussify
-flushgate
 flushingly
 flusk
 flusker
@@ -8818,6 +8817,7 @@ fossil
 frigorimeter
 fossildom
 fossilise
+flushgate
 flowages
 frameableness
 fossilism
