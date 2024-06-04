@@ -4412,7 +4412,6 @@ fishpotter
 forerigging
 fishskin
 flattercap
-fashioned
 foreloop
 fourhanded
 fishspear
@@ -5135,6 +5134,7 @@ fraternizes
 fellagha
 featurally
 fistulization
+fashioned
 flapperish
 fractural
 flappier

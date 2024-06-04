@@ -6797,7 +6797,6 @@ cubhood
 clearway
 celiomyositis
 celioparacentesis
-cerinthian
 celiorrhea
 capless
 celioscope
@@ -31800,6 +31799,7 @@ cuthbert
 cuticle
 cuticolor
 cuticula
+cerinthian
 cuticularize
 cuticulate
 chrysothamnus
