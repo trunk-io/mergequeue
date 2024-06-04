@@ -1142,6 +1142,7 @@ farseer
 floes
 farset
 farsighted
+foretime
 fortunize
 forcat
 farsightedness
@@ -8197,7 +8198,6 @@ forgather
 fop
 fossulate
 foresweat
-foretime
 fabraea
 finickiness
 filthiest
