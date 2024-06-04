@@ -3718,7 +3718,6 @@ fillemot
 frownless
 flavorlessness
 filleted
-featy
 filletster
 frail
 filly
@@ -4080,6 +4079,7 @@ fimble
 featherbrain
 fattable
 fanterie
+featy
 finns
 fino
 fussier
