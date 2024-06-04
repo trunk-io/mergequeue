@@ -4583,6 +4583,7 @@ becrowd
 becrowded
 burstwort
 billeting
+bidi
 bathhouse
 bumptiously
 bearhide
@@ -13148,7 +13149,6 @@ bornane
 bornean
 borneol
 borneols
-bidi
 belaced
 borning
 bornite
