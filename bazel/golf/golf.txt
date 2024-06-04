@@ -4283,7 +4283,6 @@ grovel
 goloka
 gerent
 gois
-glottalization
 gynaecology
 glebeless
 gynaecological
@@ -6646,6 +6645,7 @@ gideonite
 ganomalite
 gomorrean
 ghettos
+glottalization
 geology
 gomphocarpus
 gastornithidae
