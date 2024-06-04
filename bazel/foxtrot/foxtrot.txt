@@ -4817,6 +4817,7 @@ flivvers
 foothook
 forearm
 flagellatory
+ferocities
 fungal
 flailing
 fisheries
@@ -9335,7 +9336,6 @@ flushest
 funiculus
 franciscans
 fidos
-ferocities
 franciums
 francize
 finnicky
