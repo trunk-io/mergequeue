@@ -2027,6 +2027,7 @@ etymologisable
 exteriorate
 eagle
 eker
+entombed
 epigastriocele
 epitritic
 ekhimi
@@ -6842,7 +6843,6 @@ extender
 episternalia
 expressionful
 equuleus
-entombed
 eumenes
 ectosarcs
 enl
