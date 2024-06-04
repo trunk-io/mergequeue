@@ -2642,6 +2642,7 @@ fitness
 ferromanganese
 ferrometer
 filagreed
+fumarine
 ferronatrite
 foh
 filicologist
@@ -9426,7 +9427,6 @@ featless
 falteringly
 franz
 forbear
-fumarine
 ferritization
 familiarizes
 flamines
