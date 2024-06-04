@@ -26,16 +26,6 @@ jobs:
           preRelease: true
           extract: true
 
-      - name: Determine is merge pr
-        id: check_is_merge_pr
-        run: |
-          if [[ "${{ github.event.pull_request.title }}" == trunk-merge/*  ]]; then
-            echo "on_merge=true" >> $GITHUB_OUTPUT
-            echo "yes"
-          else
-            echo "on_merge=false" >> $GITHUB_OUTPUT
-          fi
-
       - name: Determine is_merge
         id: check_is_merge
         run: |
