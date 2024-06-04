@@ -15587,6 +15587,7 @@ clarifiers
 clarifies
 clarifying
 clarigation
+canonlike
 clarin
 cleaved
 clarina
@@ -17653,7 +17654,6 @@ coccogone
 coccogoneae
 coccoidal
 coccoids
-canonlike
 coccolite
 causals
 counterresolution
