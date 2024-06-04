@@ -1857,7 +1857,6 @@ dermatoglyphics
 dodecagon
 debiting
 diplobacillus
-dregless
 dineric
 devirginator
 debitum
@@ -5933,6 +5932,7 @@ deprecative
 drainages
 deprecator
 deprecatory
+dregless
 deprecatorily
 depreciable
 depreciate
