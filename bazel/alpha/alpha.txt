@@ -16395,7 +16395,6 @@ antitruster
 antituberculin
 antituberculosis
 antituberculotic
-antituberculous
 antitumoral
 affray
 antiunion
@@ -23464,6 +23463,7 @@ allokinetic
 aetiophyllin
 aulical
 aulicism
+antituberculous
 auloi
 anthropotomist
 allesthesia
