@@ -8242,7 +8242,6 @@ bidentate
 biacetyls
 bidery
 besieging
-bidiagonal
 bidialectalism
 bidimensional
 barble
@@ -13841,6 +13840,7 @@ bemoans
 bunya
 blawed
 bowdlerizer
+bidiagonal
 bowdlerizes
 brio
 bucephalus
