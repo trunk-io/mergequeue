@@ -3500,6 +3500,7 @@ addoom
 abracadabra
 addr
 address
+allegories
 allotheistic
 actinography
 addressable
@@ -8653,7 +8654,6 @@ allegiant
 astronautically
 allegiare
 allegorically
-allegories
 acidosis
 allegorisation
 allegorise
