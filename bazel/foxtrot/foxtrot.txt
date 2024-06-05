@@ -1139,7 +1139,6 @@ floes
 farset
 farsighted
 foretime
-fortunize
 forcat
 farsightedness
 flooring
@@ -5615,6 +5614,7 @@ fatalness
 fishnets
 forecabin
 forthbringer
+fortunize
 freighters
 flyflapper
 foulnesses
