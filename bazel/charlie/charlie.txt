@@ -15539,6 +15539,7 @@ cen
 clappe
 clapper
 clapperclaw
+compensate
 clappered
 chitchatting
 creditorship
@@ -19051,7 +19052,6 @@ chelonid
 collecting
 collection
 collectivise
-compensate
 collectivism
 collectivist
 collectivistic
