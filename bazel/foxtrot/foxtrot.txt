@@ -7207,7 +7207,6 @@ flanderkin
 footprint
 flannelmouth
 fb
-forestery
 footrest
 fecial
 filicite
@@ -8357,6 +8356,7 @@ forleaving
 forleit
 futuristic
 fossilology
+forestery
 fornications
 fiberfill
 forletting
