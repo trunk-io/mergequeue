@@ -5019,6 +5019,7 @@ equerry
 endiaper
 epiparodos
 endings
+epigraphs
 endysis
 elaeomargaric
 endite
@@ -7906,7 +7907,6 @@ egyptianization
 eccentricity
 epigraphic
 epigraphist
-epigraphs
 epiguanine
 engrege
 eireannach
