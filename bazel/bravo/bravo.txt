@@ -4164,7 +4164,6 @@ branchier
 beanlike
 beano
 beanos
-beanpole
 bagge
 beans
 beansetter
@@ -16603,6 +16602,7 @@ bessemerizing
 buccinatory
 buccinum
 bigging
+beanpole
 bucco
 butte
 booty
