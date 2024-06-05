@@ -9436,7 +9436,6 @@ baroscope
 birdcages
 birdcalls
 bushi
-basten
 blirt
 bonnaz
 bonniness
@@ -16938,6 +16937,7 @@ bugle
 bedcap
 bugled
 bong
+basten
 badmouth
 buglet
 bugleweed
