@@ -17772,7 +17772,6 @@ coco
 cocoach
 cocoanut
 chasing
-cocoanuts
 cocoas
 cocoawood
 caraipe
@@ -17970,6 +17969,7 @@ coedit
 coedited
 coediting
 coeditors
+cocoanuts
 coedits
 coeducationalism
 coeducationalize
