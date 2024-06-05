@@ -1259,7 +1259,6 @@ calfkill
 calfless
 calflike
 calfling
-calfs
 calfskin
 creatural
 calgary
@@ -12613,6 +12612,7 @@ condensate
 chromosomes
 cornercap
 chromosphere
+calfs
 collophore
 chromospheric
 colytic
