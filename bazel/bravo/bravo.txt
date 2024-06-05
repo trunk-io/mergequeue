@@ -3039,7 +3039,6 @@ brankier
 backswordsman
 bartonia
 bartramia
-bullshot
 bubba
 bartramiaceae
 bartramian
@@ -8589,6 +8588,7 @@ bilch
 bilcock
 bellehood
 bildar
+bullshot
 bilder
 bilders
 bilection
