@@ -4852,6 +4852,7 @@ chromatoplasm
 carried
 carryed
 carrier
+capitulation
 carriers
 carries
 carrying
@@ -14836,7 +14837,6 @@ castellan
 cystotrachelotomy
 cystourethritis
 counterfeitness
-capitulation
 chirurgy
 cystourethrography
 cystous
