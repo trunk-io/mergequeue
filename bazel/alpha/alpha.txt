@@ -11782,6 +11782,7 @@ analeptic
 anthidium
 analgesics
 analgesist
+acroesthesia
 analgetic
 awapuhi
 analgia
@@ -15443,7 +15444,6 @@ abrosia
 antilethargic
 antileukemic
 antileveling
-acroesthesia
 alborak
 antiliberal
 antiliberalistic
