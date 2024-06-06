@@ -3964,7 +3964,6 @@ frenums
 forbearers
 frontlessness
 fayalites
-fillet
 forestalled
 forestlike
 flattish
@@ -5411,6 +5410,7 @@ farcied
 fleshy
 fleshier
 finch
+fillet
 ferally
 fleshing
 fleshings
