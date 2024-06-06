@@ -7195,6 +7195,7 @@ envois
 envoyship
 envolume
 enwall
+euhemerized
 enwallow
 enweb
 enwheel
@@ -10802,7 +10803,6 @@ euhemerising
 euhemerism
 euhemerist
 euhemerize
-euhemerized
 emacerate
 emblazer
 euhyostylic
