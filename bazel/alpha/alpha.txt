@@ -1640,6 +1640,7 @@ accoutre
 attire
 appurtenances
 accoutrement
+airstream
 accoutrements
 angioclast
 auspicated
@@ -6934,7 +6935,6 @@ apostolic
 anterin
 airspeeds
 affirms
-airstream
 allegory
 aischrolatreia
 airstrip
