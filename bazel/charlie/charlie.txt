@@ -451,7 +451,6 @@ cryptocrystalline
 cadaster
 cadasters
 cadastral
-consultory
 caledonian
 cadastration
 cadastres
@@ -10401,6 +10400,7 @@ conspirator
 chickpeas
 chicks
 chickstone
+consultory
 chickweed
 canariote
 chickwit
