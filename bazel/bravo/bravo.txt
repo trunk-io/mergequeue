@@ -6445,6 +6445,7 @@ benzein
 blinks
 benzene
 benzenediazonium
+bebar
 benzenyl
 benzenoid
 billsticking
@@ -11452,7 +11453,6 @@ bluefins
 bluegill
 blenched
 belonosphaerite
-bebar
 bluegrass
 bluegum
 bluffy
