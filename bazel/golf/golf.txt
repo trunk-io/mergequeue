@@ -2199,7 +2199,6 @@ grinnellia
 gaycat
 gastrotomy
 guereba
-gorrel
 geal
 gubernacula
 gurish
@@ -7573,6 +7572,7 @@ germing
 ginnery
 generationism
 gps
+gorrel
 glycosaemia
 gunfought
 glucogenic
