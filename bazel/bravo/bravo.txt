@@ -2551,7 +2551,6 @@ bicycles
 borscht
 barghests
 beslash
-bargir
 bassetite
 barguest
 barguests
@@ -12222,6 +12221,7 @@ bolk
 bolled
 barbed
 bolly
+bargir
 bollies
 biocenotic
 brimstone
