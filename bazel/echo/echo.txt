@@ -47,6 +47,7 @@ equiangularity
 earbash
 earcockle
 eschewal
+edges
 eardropper
 earflap
 expender
@@ -9535,7 +9536,6 @@ eschewed
 expand
 eam
 eses
-edges
 egoity
 editorializing
 everwho
