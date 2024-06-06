@@ -6579,7 +6579,6 @@ ccid
 ccitt
 ccm
 custodial
-ccoya
 caic
 charcuterie
 calamitoid
@@ -15663,6 +15662,7 @@ censures
 clashing
 clashingly
 clasmatocyte
+ccoya
 clasmatocytic
 clasmatosis
 cuitle
