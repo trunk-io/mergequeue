@@ -5393,6 +5393,7 @@ agnosticism
 agglutinable
 affriended
 affrighted
+applying
 affrightedly
 acarpellous
 annoyful
@@ -17885,7 +17886,6 @@ autocab
 aversation
 applies
 antispasis
-applying
 applyingly
 antilogy
 applyment
