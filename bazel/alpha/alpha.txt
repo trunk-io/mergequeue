@@ -6804,7 +6804,6 @@ aircraftsmen
 aircraftswoman
 adipsous
 aircraftwoman
-ahint
 aircrew
 aircrewmen
 aortae
@@ -17265,6 +17264,7 @@ antiserum
 anchoring
 alignments
 armrest
+ahint
 anticonservatively
 alodian
 amnigenia
