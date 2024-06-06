@@ -7425,7 +7425,6 @@ cephalodium
 cephalofacial
 cephalogram
 cephalograph
-cephalohumeral
 cephaloid
 culminates
 cuticles
@@ -21563,6 +21562,7 @@ concrement
 concresce
 concrescence
 concrescible
+cephalohumeral
 concrescive
 colocentesis
 coerces
