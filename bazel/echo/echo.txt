@@ -4931,7 +4931,6 @@ epigrammatarian
 endamoeba
 endamoebas
 endamoebidae
-electrotautomerism
 endanger
 endangitis
 endarchies
@@ -6543,6 +6542,7 @@ enrobe
 entasia
 eatings
 entasis
+electrotautomerism
 emiction
 eclectic
 episepalous
