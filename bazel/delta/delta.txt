@@ -4199,7 +4199,6 @@ delimitation
 delimiter
 delimiting
 displumed
-delimitize
 diphyletic
 delimitized
 diplomyelia
@@ -17641,6 +17640,7 @@ drusedom
 druses
 dishevels
 deuteropathy
+delimitize
 deliquesced
 drusy
 dreamfulness
