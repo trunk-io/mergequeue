@@ -5295,6 +5295,7 @@ arnica
 assisan
 assonantal
 affirmation
+atelic
 anchoretish
 amidoxime
 apartments
@@ -20235,7 +20236,6 @@ arrays
 aureola
 arrame
 agdistis
-atelic
 arrand
 arrangeable
 arrangement
