@@ -1679,6 +1679,7 @@ accruable
 accrual
 accruals
 accrue
+actualities
 accrued
 accruement
 accruer
@@ -2092,7 +2093,6 @@ acheat
 artemisin
 acheilia
 affiliation
-actualities
 acolhuan
 altitudinal
 acheiria
