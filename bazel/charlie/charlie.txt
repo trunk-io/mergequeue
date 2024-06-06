@@ -5469,7 +5469,6 @@ castrato
 convulsible
 castrator
 compendent
-castrators
 castrensial
 castrensian
 castrum
@@ -28624,6 +28623,7 @@ creeps
 creese
 creeses
 cinchonine
+castrators
 chiefship
 clientless
 creesh
