@@ -14290,7 +14290,6 @@ anteroparietal
 anencephalous
 anteropygal
 ancipitous
-anterospinal
 asepticize
 acephal
 anterosuperior
@@ -15785,6 +15784,7 @@ alazor
 antiparasitically
 antiparliament
 antiparliamental
+anterospinal
 apoquinamine
 antiparliamentary
 axons
