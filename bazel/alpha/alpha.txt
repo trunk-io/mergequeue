@@ -11400,6 +11400,7 @@ ampullary
 anselmian
 ampullaria
 ampullate
+assizing
 ampullated
 amphioxus
 arrondissements
@@ -21896,7 +21897,6 @@ assize
 amiant
 assizes
 arquebus
-assizing
 assman
 assmanship
 associability
