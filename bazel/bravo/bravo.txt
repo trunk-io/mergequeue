@@ -7057,7 +7057,6 @@ bepaid
 beslipper
 beslobber
 besluit
-backbearing
 besmear
 bespread
 blvd
@@ -13501,6 +13500,7 @@ brattiness
 betweenness
 bacteriocyte
 benefic
+backbearing
 bradyseismism
 bowyangs
 basementward
