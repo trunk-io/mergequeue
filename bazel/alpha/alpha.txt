@@ -11875,7 +11875,6 @@ anamniata
 aplacophora
 anamnionata
 anamniota
-anamniotic
 anamorphic
 asuri
 antimonarchy
@@ -15407,6 +15406,7 @@ accessory
 aceratosis
 antiinsurrectionists
 antikamnia
+anamniotic
 antikathode
 antikenotoxin
 aborning
