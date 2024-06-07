@@ -7877,7 +7877,6 @@ barytas
 biacid
 breechblock
 basoko
-biacuru
 baviere
 blessings
 bodysuits
@@ -10536,6 +10535,7 @@ blart
 blaseness
 bengal
 blashy
+biacuru
 beclasps
 blason
 becoom
