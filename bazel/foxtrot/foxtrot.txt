@@ -4632,6 +4632,7 @@ falter
 flannelleaf
 fixt
 floweret
+forevouched
 fabella
 fidded
 fructed
@@ -5069,7 +5070,6 @@ forellenstein
 fingent
 flashover
 fructure
-forevouched
 ferricyanhydric
 flasker
 foretooth
