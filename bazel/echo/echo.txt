@@ -8565,7 +8565,6 @@ eurindic
 explants
 epuloid
 epulosis
-epulotic
 epuration
 exculpable
 effectual
@@ -8759,6 +8758,7 @@ equipotential
 endostyle
 equipped
 electrostereotype
+epulotic
 equiprobability
 enablers
 equiproportional
