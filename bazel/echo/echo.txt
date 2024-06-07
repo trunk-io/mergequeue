@@ -3898,7 +3898,6 @@ electrotonus
 extraboldface
 eminencies
 eminent
-ensporia
 eminently
 extratympanic
 expressionless
@@ -10283,6 +10282,7 @@ emoter
 ethicoreligious
 evenlight
 exantlate
+ensporia
 ethicosocial
 enturret
 electrooptical
