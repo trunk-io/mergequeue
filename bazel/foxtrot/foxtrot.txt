@@ -1156,7 +1156,6 @@ farads
 fractional
 facty
 fibrillary
-futharc
 filiates
 farthings
 fartlek
@@ -6903,6 +6902,7 @@ folkright
 freekirker
 folks
 fleyedly
+futharc
 fauves
 folksay
 flotsams
