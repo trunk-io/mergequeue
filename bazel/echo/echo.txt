@@ -7091,6 +7091,7 @@ entrustment
 expediate
 entrusts
 exocoetus
+equidistance
 entte
 ecdyson
 exsuction
@@ -8649,7 +8650,6 @@ equid
 equidiagonal
 equidimensional
 equidist
-equidistance
 eumerogenesis
 embranglement
 equidistribution
