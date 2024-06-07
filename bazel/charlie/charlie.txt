@@ -13602,7 +13602,6 @@ commodore
 cygninae
 cygnus
 cigua
-ciguatera
 cyke
 coenurus
 cyl
@@ -23977,6 +23976,7 @@ contumaciousness
 chipyard
 contumacities
 cantel
+ciguatera
 contumely
 consisted
 contumelies
