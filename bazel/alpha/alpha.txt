@@ -5357,7 +5357,6 @@ afford
 alkines
 affordable
 affording
-afforestable
 argoletier
 afforested
 afforesting
@@ -24907,6 +24906,7 @@ await
 awaited
 antiqued
 abstention
+afforestable
 awaiter
 awaiters
 atavisms
