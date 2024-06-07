@@ -3080,7 +3080,6 @@ grumes
 ginglymoidal
 geomant
 geobios
-geomantic
 geomorphic
 gyrally
 garboil
@@ -5132,6 +5131,7 @@ gossan
 glassfuls
 gastronomics
 grumly
+geomantic
 gonotocont
 glasshouses
 glassie
