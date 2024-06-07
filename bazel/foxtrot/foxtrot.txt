@@ -3039,7 +3039,6 @@ fiances
 fistmele
 fasciate
 flatways
-fascinates
 fiestas
 featest
 fianchetti
@@ -6638,6 +6637,7 @@ foreassign
 foder
 frontes
 flintily
+fascinates
 fillip
 foehn
 foehnlike
