@@ -10927,7 +10927,6 @@ asmolder
 aggregatory
 amoebeum
 amoebian
-anaglyphoscope
 azotate
 amoebicide
 alb
@@ -20484,6 +20483,7 @@ artefacts
 assentation
 analyticity
 artemia
+anaglyphoscope
 aeroenterectasia
 apiolin
 aequoreal
