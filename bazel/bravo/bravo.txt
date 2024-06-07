@@ -1282,7 +1282,6 @@ balanceable
 bafflements
 baryonic
 bluejays
-balancelle
 begrutch
 biplanal
 balancers
@@ -16879,6 +16878,7 @@ buffont
 buffoon
 buffooneries
 benzoxycamphor
+balancelle
 blended
 bichromatic
 buffoonesque
