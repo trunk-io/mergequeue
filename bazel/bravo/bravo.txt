@@ -4023,6 +4023,7 @@ beachcombers
 beachcombing
 beachdrops
 biliment
+beknighting
 bowed
 bulging
 biotin
@@ -5651,7 +5652,6 @@ befoolment
 blethering
 beknight
 beknighted
-beknighting
 beknived
 ballistite
 beknotted
