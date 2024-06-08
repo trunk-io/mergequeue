@@ -7233,7 +7233,6 @@ detained
 dreamish
 dehiscence
 detainee
-detainees
 detaining
 decolourise
 durwaun
@@ -11255,6 +11254,7 @@ disbursal
 dogstail
 disbursals
 disburse
+detainees
 duckpins
 decolorimeter
 divinistre
