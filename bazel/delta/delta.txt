@@ -2596,7 +2596,6 @@ delocalized
 derringer
 disruptions
 diachrony
-dissimule
 declassifies
 discus
 dorsocephalic
@@ -7671,6 +7670,7 @@ dryest
 devel
 develing
 develop
+dissimule
 developable
 decompose
 developed
