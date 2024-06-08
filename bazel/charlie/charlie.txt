@@ -2653,7 +2653,6 @@ cankery
 cankering
 cankerroot
 cankers
-cankerweed
 clubmen
 coff
 combinatorics
@@ -4523,6 +4522,7 @@ casamarca
 carnalism
 carnalite
 carnality
+cankerweed
 culverin
 carnalize
 counterexposition
