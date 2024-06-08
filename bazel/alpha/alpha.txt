@@ -5553,7 +5553,6 @@ afterhelp
 afterhend
 afterhope
 afterhours
-afterimages
 afterimpression
 afterings
 afterking
@@ -19489,6 +19488,7 @@ arkie
 allowance
 ably
 argentin
+afterimages
 antidemocratical
 advertisee
 argentine
