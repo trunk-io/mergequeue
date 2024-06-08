@@ -646,6 +646,7 @@ fanum
 fict
 friskers
 fritterer
+forestep
 fartherance
 falsism
 freightyard
@@ -6744,7 +6745,6 @@ foins
 foliageous
 fumette
 foresighted
-forestep
 furthersome
 foison
 flavorers
