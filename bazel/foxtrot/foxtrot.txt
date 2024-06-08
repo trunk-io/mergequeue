@@ -2983,6 +2983,7 @@ fluellite
 filamented
 frizzling
 feuillage
+frontirostria
 furcation
 flyoff
 feuilleton
@@ -10388,7 +10389,6 @@ feared
 fatalist
 focimeter
 fitche
-frontirostria
 footer
 filigree
 forcaria
