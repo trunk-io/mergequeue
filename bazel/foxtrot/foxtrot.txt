@@ -2390,6 +2390,7 @@ forzato
 forthcut
 filmable
 flywire
+flanneled
 fencelike
 forjaskit
 floaters
@@ -3648,7 +3649,6 @@ fence
 filing
 fimbristylis
 foreordination
-flanneled
 foreboard
 filiformed
 falsum
