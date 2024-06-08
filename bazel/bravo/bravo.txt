@@ -5148,7 +5148,6 @@ blooming
 bowellike
 blazoning
 befittingness
-bedboard
 beflag
 barkevikite
 beflagged
@@ -10550,6 +10549,7 @@ blasphemes
 blasphemy
 blasphemies
 blasphemous
+bedboard
 brambled
 blasphemousness
 buttonhole
