@@ -18121,7 +18121,6 @@ communality
 capouch
 cherty
 coenesthesia
-coenesthesis
 coenflame
 coengage
 coengager
@@ -20825,6 +20824,7 @@ complier
 campodea
 crossbolted
 compliment
+coenesthesis
 croisad
 complimental
 complimentally
