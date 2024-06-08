@@ -31206,7 +31206,6 @@ chickenhood
 coque
 cupuliferous
 craniopathy
-cur
 cura
 curability
 claudius
@@ -31696,6 +31695,7 @@ cuspidor
 cuspidors
 cuspids
 cusping
+cur
 cuspis
 cusps
 cuspule
