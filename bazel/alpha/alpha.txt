@@ -8108,7 +8108,6 @@ algernon
 anglaise
 algesiometer
 algy
-algicidal
 algicide
 anionics
 algidity
@@ -11787,6 +11786,7 @@ awestricken
 aurei
 analyt
 acylate
+algicidal
 acrobat
 anality
 ablute
