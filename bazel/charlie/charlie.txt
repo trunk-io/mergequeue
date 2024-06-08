@@ -18966,7 +18966,6 @@ claw
 collaborator
 collaborators
 cosigner
-cosmognosis
 calligrapher
 colladas
 collage
@@ -20951,6 +20950,7 @@ compradore
 comprecation
 compregnate
 comprehend
+cosmognosis
 colonnades
 comprehender
 comprehendible
