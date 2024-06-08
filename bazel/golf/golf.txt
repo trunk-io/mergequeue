@@ -3533,7 +3533,6 @@ gibel
 galgal
 getae
 granet
-grallatores
 gether
 gaspar
 getling
@@ -9308,6 +9307,7 @@ gadis
 grangeriser
 groomling
 gasparillo
+grallatores
 gyrostat
 gilders
 gonocoel
