@@ -897,7 +897,6 @@ bagios
 bedrenching
 babishness
 beadlery
-baglike
 biacromial
 bagmaker
 bagne
@@ -11807,6 +11806,7 @@ biopyribole
 baronesses
 boca
 bluisness
+baglike
 bocage
 buckwheat
 bouquets
