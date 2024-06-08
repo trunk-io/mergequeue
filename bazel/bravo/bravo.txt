@@ -1973,7 +1973,6 @@ bandstand
 beacon
 boronia
 beraked
-ballcarrier
 bandster
 bandstop
 bagnio
@@ -5508,6 +5507,7 @@ bawd
 beheira
 bolter
 beachward
+ballcarrier
 behemoth
 behemothic
 behemoths
