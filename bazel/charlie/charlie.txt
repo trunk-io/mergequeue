@@ -2152,6 +2152,7 @@ camping
 campions
 calcaneus
 cample
+cordyline
 cornamute
 campo
 creedbound
@@ -21893,7 +21894,6 @@ calahan
 coner
 capsicin
 circumnutatory
-cordyline
 cones
 conestoga
 conf
