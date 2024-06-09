@@ -22721,7 +22721,6 @@ connotes
 connoting
 connotive
 connotively
-conns
 connubial
 connubiality
 collectedly
@@ -23994,6 +23993,7 @@ contusion
 contusioned
 contusions
 contusive
+conns
 cicadellidae
 chaffing
 conubium
