@@ -3091,7 +3091,6 @@ emp
 encyclical
 elliot
 educationable
-enlistment
 elem
 ellipsis
 ergatocracy
@@ -5567,6 +5566,7 @@ enophthalmos
 equianchorate
 exfoliatory
 enfevered
+enlistment
 ecphrasis
 echidnae
 enfevering
