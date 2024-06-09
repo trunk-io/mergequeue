@@ -2620,6 +2620,7 @@ auxoflore
 acquirable
 approximated
 acquire
+antescript
 acquirement
 acquiring
 acquisite
@@ -14263,7 +14264,6 @@ ancipitous
 asepticize
 acephal
 anterosuperior
-antescript
 autocystoplasty
 aupaka
 anobiidae
