@@ -5865,7 +5865,6 @@ fangas
 flocculator
 flinted
 flocculent
-flocculose
 fluemen
 flocculus
 flushes
@@ -11434,6 +11433,7 @@ furnishness
 filminess
 felspars
 flushboard
+flocculose
 furniture
 flummoxing
 furodiazole
