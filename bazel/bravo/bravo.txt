@@ -13948,7 +13948,6 @@ bowshots
 bowsprit
 bombarder
 burka
-baptisia
 bowstaff
 bowstring
 binoculate
@@ -16015,6 +16014,7 @@ brontograph
 brontolite
 blore
 barkevikitic
+baptisia
 bielby
 batchers
 bodo
