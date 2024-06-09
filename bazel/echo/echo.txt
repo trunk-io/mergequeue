@@ -7644,7 +7644,6 @@ evaluators
 endovenous
 electrocapillarity
 euphrasy
-exungulate
 entoproct
 epichlorohydrin
 epichondrosis
@@ -10505,6 +10504,7 @@ etymologization
 eurypteroid
 elong
 eviscerated
+exungulate
 emmew
 etymon
 equalities
