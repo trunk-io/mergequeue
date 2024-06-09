@@ -4249,7 +4249,6 @@ cursillo
 careless
 carelessly
 carelessness
-conflagrate
 careme
 carene
 carer
@@ -20271,6 +20270,7 @@ commodious
 cionotomy
 corroder
 caffoy
+conflagrate
 chicagoans
 commodiously
 commodiousness
