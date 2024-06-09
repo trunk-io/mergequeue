@@ -4969,6 +4969,7 @@ goyim
 gymkhana
 gladier
 goutwort
+graveled
 gladiola
 granatite
 gladiolas
@@ -7331,7 +7332,6 @@ gossipped
 gossipping
 gossipries
 gulley
-graveled
 gossips
 gigmaness
 gestor
