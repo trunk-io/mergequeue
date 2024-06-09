@@ -3405,7 +3405,6 @@ fribbles
 flirtish
 fieldpieces
 flosculose
-frate
 feaking
 faintish
 fieldworker
@@ -4326,6 +4325,7 @@ forb
 fanfish
 fisetin
 focuser
+frate
 fibroplastic
 figureheads
 fishability
