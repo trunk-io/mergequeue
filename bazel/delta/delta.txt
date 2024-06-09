@@ -3870,7 +3870,6 @@ drepanididae
 deign
 describes
 deigned
-deigning
 diwan
 deigns
 deyhouse
@@ -6034,6 +6033,7 @@ duodecimo
 deprogrammings
 deprograms
 dropforged
+deigning
 deprome
 deprostrate
 deducibleness
