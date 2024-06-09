@@ -5345,7 +5345,6 @@ beginnings
 begird
 broadsheet
 bournes
-begirding
 begirds
 bickered
 beamishly
@@ -7642,6 +7641,7 @@ bewailing
 bewails
 bandolier
 beware
+begirding
 bernoullian
 bewary
 bewaste
