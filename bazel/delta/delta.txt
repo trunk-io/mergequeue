@@ -8284,7 +8284,6 @@ diadochite
 diadochokinesia
 diadoumenos
 diadrome
-diphtherial
 diadromous
 dioti
 diadumenus
@@ -13571,6 +13570,7 @@ diving
 disseised
 disassociated
 disseisee
+diphtherial
 donorship
 defterdar
 deputation
