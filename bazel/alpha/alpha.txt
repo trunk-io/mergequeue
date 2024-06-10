@@ -3306,7 +3306,6 @@ adamantine
 adamantinoma
 adamantly
 adamantness
-advential
 adamantoblast
 adamantoblastoma
 adamants
@@ -11129,6 +11128,7 @@ antidotary
 amphibolous
 amphibrach
 amphibrachic
+advential
 amphicarpaea
 amphicarpia
 aptitudinal
