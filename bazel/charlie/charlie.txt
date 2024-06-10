@@ -10152,7 +10152,6 @@ cheslep
 coleochaete
 chesoun
 chess
-chessart
 chessboards
 chessdom
 chessel
@@ -26714,6 +26713,7 @@ counteracted
 counteracter
 counteractingly
 costrels
+chessart
 counteraction
 counteractions
 calamumi
