@@ -7955,7 +7955,6 @@ feedings
 fallostomy
 foreshot
 foreshow
-foreshower
 fistulous
 foreshown
 falsified
@@ -9419,6 +9418,7 @@ freewheeling
 functionalizing
 friction
 furacana
+foreshower
 featless
 franz
 forbear
