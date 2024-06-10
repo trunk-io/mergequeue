@@ -4093,6 +4093,7 @@ deleter
 demur
 deleteriousness
 deletes
+dissectors
 deletion
 deletions
 diphyodont
@@ -8230,7 +8231,6 @@ decalcified
 dishelm
 drung
 demency
-dissectors
 disbind
 defiladed
 dipsacaceae
