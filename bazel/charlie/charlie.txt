@@ -9720,7 +9720,6 @@ cheesecake
 crees
 cheesecloth
 cheesecloths
-cheesecurd
 cheesecutter
 cheesed
 caramba
@@ -11715,6 +11714,7 @@ choleras
 choleric
 cholerically
 cricothyroid
+cheesecurd
 cholericness
 choleriform
 cholerigenous
