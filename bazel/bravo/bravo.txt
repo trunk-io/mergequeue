@@ -4639,7 +4639,6 @@ borborus
 bedaubing
 bedaubs
 boden
-bedlike
 bedazement
 bedazzle
 blared
@@ -7986,6 +7985,7 @@ bibliologies
 bibliophobia
 bismuthite
 bibliologist
+bedlike
 biometrics
 bibliomane
 bibliomania
