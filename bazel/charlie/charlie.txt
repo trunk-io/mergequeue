@@ -5343,6 +5343,7 @@ ccws
 conspectuity
 cassius
 cassock
+cleanser
 ctenophora
 cassocked
 cultures
@@ -15925,7 +15926,6 @@ cleanout
 cleansable
 cleanse
 crestfallenly
-cleanser
 crocoite
 cleansers
 cleanses
