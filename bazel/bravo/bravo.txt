@@ -2544,6 +2544,7 @@ bargellos
 bargeman
 bargemaster
 booklice
+begroans
 barger
 bardash
 barges
@@ -5433,7 +5434,6 @@ bot
 begroan
 baileys
 brachycardia
-begroans
 bibliopolism
 begrown
 begrudge
