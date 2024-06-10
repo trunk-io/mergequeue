@@ -5340,7 +5340,6 @@ equipments
 excarnate
 ephebes
 enmagazine
-einkanter
 endostosis
 epanody
 economiser
@@ -11656,6 +11655,7 @@ elasmobranch
 exadverso
 exadversum
 extemporization
+einkanter
 ediya
 electromechanics
 ethnical
