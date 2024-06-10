@@ -1761,7 +1761,6 @@ accuse
 amidships
 accused
 accusers
-asport
 achatour
 accusing
 accusive
@@ -22073,6 +22072,7 @@ asterisking
 asconia
 asteriskos
 asterisks
+asport
 ammocoetidae
 asyndesis
 asternal
