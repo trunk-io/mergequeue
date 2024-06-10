@@ -629,7 +629,6 @@ fleshes
 foredetermination
 forsay
 flambeaus
-falsies
 farrantly
 fibrochondroma
 forelimb
@@ -1725,6 +1724,7 @@ fragmentation
 fledgier
 fleshless
 finishing
+falsies
 fearingly
 ferineness
 fearless
