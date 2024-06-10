@@ -254,7 +254,6 @@ expedition
 epidiorite
 evil
 easygoingly
-easygoingness
 equisegmented
 easylike
 eassel
@@ -2870,6 +2869,7 @@ eleutheromorph
 epitympa
 estoppels
 eleutherophobia
+easygoingness
 eleutherozoa
 ensorcel
 eleutherozoan
