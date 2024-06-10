@@ -5218,7 +5218,6 @@ gymnospermy
 gossipred
 gordian
 genipap
-gld
 glead
 gleam
 gonococcic
@@ -5950,6 +5949,7 @@ glucocorticoid
 gardon
 gasfiring
 guatemaltecan
+gld
 glucokinase
 gastrophrenic
 gliocyte
