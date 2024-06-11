@@ -1840,7 +1840,6 @@ gonimolobe
 goniodoris
 gatehouses
 gaskins
-guipures
 gastrotome
 gastrotomic
 gulsach
@@ -6995,6 +6994,7 @@ goofiness
 grece
 goodies
 gallantize
+guipures
 gibbetted
 glegly
 giinwale
