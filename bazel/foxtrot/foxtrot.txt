@@ -5765,7 +5765,6 @@ fevertwig
 flambee
 forestside
 foreknowledge
-foreground
 finises
 forebear
 funiliform
@@ -7192,6 +7191,7 @@ fifer
 fairer
 fimbrillose
 fiver
+foreground
 footpad
 forewarner
 fibrins
