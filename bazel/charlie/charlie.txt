@@ -2953,7 +2953,6 @@ canticle
 carne
 campesino
 canticles
-cantiga
 conquerableness
 conceptualistically
 cantilating
@@ -10704,6 +10703,7 @@ chylosis
 coagulum
 chilostomatous
 chilotomy
+cantiga
 chilotomies
 chylous
 chilte
