@@ -8436,7 +8436,6 @@ agalaxy
 aortoptosis
 alkahestica
 alkaid
-alkalemia
 academe
 anesthesiometer
 areopagitic
@@ -22783,6 +22782,7 @@ atomerg
 aquo
 atomic
 atomical
+alkalemia
 atomically
 atomician
 assimilative
