@@ -4721,7 +4721,6 @@ galli
 glycolipide
 gyroscopes
 gastroplenic
-gesticulating
 gyrotheca
 girouettes
 gestes
@@ -9349,6 +9348,7 @@ granma
 griots
 gists
 grossest
+gesticulating
 grosshead
 genecologist
 grossly
