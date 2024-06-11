@@ -3019,7 +3019,6 @@ barter
 barterers
 barters
 blood
-barth
 barthite
 bullace
 bartholomewtide
@@ -11004,6 +11003,7 @@ beetler
 begun
 brazee
 blinis
+barth
 blinkard
 blesbuck
 blinkards
