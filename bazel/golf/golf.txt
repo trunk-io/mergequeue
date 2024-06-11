@@ -1099,7 +1099,6 @@ genialize
 geode
 gondite
 glutamic
-ganglioplexus
 gangman
 gangplows
 geomalic
@@ -4546,6 +4545,7 @@ grammontine
 gastrostaxis
 ginning
 gash
+ganglioplexus
 gypsyism
 glossokinesthetic
 governable
