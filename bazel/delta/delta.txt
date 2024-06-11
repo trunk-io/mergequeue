@@ -10615,7 +10615,6 @@ deben
 diplomates
 diplomatically
 depositum
-diplomatique
 dysergia
 dolour
 diplomatism
@@ -14036,6 +14035,7 @@ distraite
 door
 distraught
 distraughtly
+diplomatique
 draggy
 details
 damonico
