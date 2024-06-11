@@ -10037,7 +10037,6 @@ chenille
 cheniller
 chenopod
 chenopodiaceae
-chenopodiaceous
 colocasia
 chenopodiales
 chenopods
@@ -20974,6 +20973,7 @@ comprehensively
 comprehensiveness
 concentrate
 campership
+chenopodiaceous
 collegiums
 comprend
 compresbyter
