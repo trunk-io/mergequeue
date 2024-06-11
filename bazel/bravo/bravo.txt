@@ -2836,7 +2836,6 @@ ballgowns
 bulkiest
 barothermograph
 barothermohygrograph
-baroto
 borophenol
 barotrauma
 bulgurs
@@ -11797,6 +11796,7 @@ berascal
 bobsleded
 beworry
 bacteriopurpurin
+baroto
 biology
 beringleted
 bobstays
