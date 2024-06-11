@@ -1841,7 +1841,6 @@ goniodoris
 gatehouses
 gaskins
 guipures
-gastrotome
 gastrotomic
 gulsach
 gastrovascular
@@ -5899,6 +5898,7 @@ gnarlier
 glowbard
 grasshopperish
 glist
+gastrotome
 gamophyllous
 glowering
 gastropneumatic
