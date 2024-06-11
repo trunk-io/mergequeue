@@ -7917,6 +7917,7 @@ cervicofacial
 cervicolabial
 croh
 crystal
+crankplate
 cervicomuscular
 camphines
 cerviconasal
@@ -28233,7 +28234,6 @@ crankous
 crankpin
 cryptorchid
 crankpins
-crankplate
 cranks
 crossbarring
 crankshafts
