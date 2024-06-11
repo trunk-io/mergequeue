@@ -8521,7 +8521,6 @@ alkaphrah
 alkapton
 alkaptone
 ascent
-alkaptonuria
 alkaptonuric
 alkarsin
 ancipital
@@ -16587,6 +16586,7 @@ aortoiliac
 amurcous
 agathism
 aortomalaxis
+alkaptonuria
 aortopathy
 aortoptosia
 aortorrhaphy
