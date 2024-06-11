@@ -12945,6 +12945,7 @@ expectation
 exodoi
 expected
 expectedness
+explode
 euemerism
 expecter
 expecting
@@ -13236,7 +13237,6 @@ eolation
 eyeshield
 explida
 escalader
-explode
 exploded
 euphenics
 epaleaceous
