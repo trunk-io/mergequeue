@@ -3690,6 +3690,7 @@ climacterial
 carapaxes
 coachable
 carapidae
+clawlike
 carapine
 canvasback
 carara
@@ -15889,7 +15890,6 @@ cyproheptadine
 clinks
 clawker
 clawless
-clawlike
 claws
 claxon
 claxons
