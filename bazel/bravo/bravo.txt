@@ -11717,6 +11717,7 @@ boatsetter
 boatshop
 badju
 boatsteerer
+buddies
 brandying
 boatswain
 boatswains
@@ -16787,7 +16788,6 @@ buddy
 bigamously
 bethunder
 buddie
-buddies
 budding
 boswell
 buddle
