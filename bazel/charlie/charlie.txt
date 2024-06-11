@@ -2423,7 +2423,6 @@ cancion
 cancionero
 canciones
 cancri
-charivaried
 cancrid
 cancriform
 cruzeiro
@@ -8387,6 +8386,7 @@ chalice
 chaliced
 chalicosis
 chalicothere
+charivaried
 chalicotheriid
 crummable
 chalicotheriidae
