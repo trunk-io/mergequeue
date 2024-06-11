@@ -18481,7 +18481,6 @@ cognomens
 copalms
 cognominally
 carnally
-cognominate
 cathedral
 cognominated
 cognomination
@@ -25206,6 +25205,7 @@ colonists
 coreveler
 cottontail
 coreveller
+cognominate
 corevolve
 cryometer
 chlorophyllaceous
