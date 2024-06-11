@@ -15251,6 +15251,7 @@ clachs
 clack
 clackama
 circumtropical
+cornbin
 coronillin
 clacker
 clackers
@@ -25361,7 +25362,6 @@ cornage
 cornballs
 cornberry
 counterscale
-cornbin
 cornbind
 cricking
 crosspieces
