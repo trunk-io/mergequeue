@@ -12153,7 +12153,6 @@ bolag
 backmost
 bolas
 berbery
-builtin
 bolases
 bedell
 bartsia
@@ -14462,6 +14461,7 @@ brakeload
 brakemaker
 brakemaking
 brakeman
+builtin
 brakemen
 brakeroot
 brakesman
