@@ -6213,7 +6213,6 @@ derelict
 detrusive
 dereliction
 derelicts
-doorway
 dereligion
 droshkies
 diotrephes
@@ -15463,6 +15462,7 @@ dominions
 dismounts
 delocalising
 disgracefulness
+doorway
 dominique
 despairingly
 ducamara
