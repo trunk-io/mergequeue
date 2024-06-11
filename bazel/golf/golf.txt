@@ -8225,7 +8225,6 @@ grappas
 grassfinch
 girders
 gravelliness
-grapple
 grapples
 gawks
 gallah
@@ -9444,6 +9443,7 @@ gasped
 gemmiparously
 greenhood
 generating
+grapple
 glorified
 gasolinic
 graphotypic
