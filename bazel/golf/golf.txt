@@ -3410,6 +3410,7 @@ gnatling
 garten
 gorkun
 galbe
+glaciable
 goosecap
 glucogene
 guachamaca
@@ -4880,7 +4881,6 @@ gravidly
 galvanise
 graspable
 graftdom
-glaciable
 gunless
 globalized
 gelatinousness
