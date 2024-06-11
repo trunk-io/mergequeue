@@ -16233,7 +16233,6 @@ culturable
 climacter
 climactery
 climacteric
-climacterical
 climacterically
 climactical
 contexture
@@ -21570,6 +21569,7 @@ cataclasm
 concourse
 cliqueless
 calycle
+climacterical
 celestialize
 concredit
 concrement
