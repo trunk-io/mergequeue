@@ -18219,7 +18219,6 @@ causations
 cobaltocyanide
 condylarth
 classicising
-coercends
 coercer
 coercers
 coercibility
@@ -20274,6 +20273,7 @@ capmint
 coft
 caoutchouc
 cunza
+coercends
 carosella
 commodatum
 commode
