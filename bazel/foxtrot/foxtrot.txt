@@ -1794,7 +1794,6 @@ fetichmonger
 forsterite
 farsalah
 forlorn
-franchiser
 foundery
 fetid
 featherless
@@ -7772,6 +7771,7 @@ fondouk
 fineries
 fulminous
 finestill
+franchiser
 funfairs
 feudalized
 fidicinales
