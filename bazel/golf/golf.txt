@@ -1188,7 +1188,6 @@ gastrostomus
 grazers
 gowdnie
 guffin
-gigantology
 gaol
 grift
 gaoled
@@ -9504,6 +9503,7 @@ gallates
 grouser
 gravediggers
 greatheart
+gigantology
 gymnosporous
 gusto
 gaed
