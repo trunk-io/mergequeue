@@ -2790,7 +2790,6 @@ churlish
 canones
 cardooer
 canonesses
-canonic
 canonicalization
 cultivable
 canonicalized
@@ -2853,6 +2852,7 @@ congenialize
 cant
 connectionless
 cantabank
+canonic
 cantabile
 clothesmonger
 chalcis
