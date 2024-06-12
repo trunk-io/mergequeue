@@ -1393,6 +1393,7 @@ baldfaced
 bruisewort
 blots
 bloodstained
+basophils
 baldhead
 baldheaded
 baldheads
@@ -10519,7 +10520,6 @@ blarneyed
 bedeafens
 blarneys
 bridgetree
-basophils
 blarny
 blout
 begs
