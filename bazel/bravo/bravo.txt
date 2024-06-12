@@ -9761,7 +9761,6 @@ bislings
 belial
 battening
 bysmalith
-biggety
 benzoate
 bismark
 bosslet
@@ -17754,6 +17753,7 @@ bewreath
 burner
 bloodstain
 brasseys
+biggety
 bringed
 burnettize
 besticking
