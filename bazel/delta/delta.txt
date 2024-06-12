@@ -5381,7 +5381,6 @@ dentalized
 dentallia
 doctrinaire
 dentaphone
-dentary
 demivolte
 demoiselle
 deluging
@@ -6910,6 +6909,7 @@ derivative
 desmopathology
 desmopexia
 diaphanometry
+dentary
 desmopyknosis
 desmorrhexis
 desmoscolecidae
