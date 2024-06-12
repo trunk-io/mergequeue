@@ -6403,7 +6403,6 @@ beaconwise
 boiloff
 benzamide
 benzoxate
-benzamido
 betail
 benzamine
 bristler
@@ -14903,6 +14902,7 @@ breastmark
 backspear
 birthy
 breastpin
+benzamido
 breastplates
 breastplow
 breastrail
