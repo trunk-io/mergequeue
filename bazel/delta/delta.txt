@@ -531,7 +531,6 @@ dalt
 dalton
 daltonian
 denomination
-daltonist
 dama
 damageability
 damageably
@@ -7690,6 +7689,7 @@ dermohemal
 development
 developmental
 dryish
+daltonist
 donary
 developmentally
 decompressions

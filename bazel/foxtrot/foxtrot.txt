@@ -3263,7 +3263,6 @@ fictionalizing
 friers
 frostwort
 forefend
-folkmote
 forewarnings
 fictioner
 forehent
@@ -10355,6 +10354,7 @@ foxgloves
 frontbencher
 frontcourt
 flying
+folkmote
 fragrances
 fortune
 fletcherite
