@@ -2721,7 +2721,6 @@ electrotype
 entosphenoid
 electrotyped
 electrotypy
-endiablee
 eights
 earwigged
 electrotypist
@@ -6965,6 +6964,7 @@ extradict
 epimere
 envire
 entopic
+endiablee
 entoplasm
 eightyfold
 enzone
