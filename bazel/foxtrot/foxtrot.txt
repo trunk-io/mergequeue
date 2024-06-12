@@ -3242,6 +3242,7 @@ flotages
 ferricyanogen
 furling
 frogling
+fnese
 ficklest
 ficklety
 forel
@@ -6828,7 +6829,6 @@ foliaged
 fustigator
 furomonazole
 foliary
-fnese
 frustrate
 feeblemindedly
 falcata
