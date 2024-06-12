@@ -17740,7 +17740,6 @@ appestats
 appet
 appetence
 appetent
-appetibility
 anodynous
 automobilist
 appetibleness
@@ -21764,6 +21763,7 @@ altropathy
 asservilize
 abolitionise
 asses
+appetibility
 aenigma
 assess
 anagogically
