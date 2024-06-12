@@ -8802,7 +8802,6 @@ fastwalk
 fossil
 frigorimeter
 fossildom
-fossilise
 flushgate
 frameableness
 fossilism
@@ -9100,6 +9099,7 @@ fishing
 fernland
 forestaves
 falsification
+fossilise
 foxing
 furbishable
 folliculosis
