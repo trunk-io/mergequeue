@@ -330,7 +330,6 @@ fraternation
 fatiguability
 fag
 feint
-fribbled
 fibrillated
 finochio
 flusker
@@ -778,6 +777,7 @@ frequently
 fluidifier
 fanciful
 fancifulness
+fribbled
 fancying
 fanciless
 foliicolous
