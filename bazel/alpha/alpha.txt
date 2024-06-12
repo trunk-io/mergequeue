@@ -9117,6 +9117,7 @@ accipitres
 allwhither
 allwork
 allworthy
+annotine
 anthroposophic
 antdom
 almacen
@@ -13565,7 +13566,6 @@ auxiliar
 annotatory
 annotators
 arrendator
-annotine
 allusory
 anacardiaceae
 atwain
