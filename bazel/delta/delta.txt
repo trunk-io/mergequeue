@@ -4447,7 +4447,6 @@ demarcates
 demarcating
 demarcation
 demarcations
-demarcator
 demarcatordemarcators
 disnaturalize
 demarchy
@@ -7538,6 +7537,7 @@ deuterate
 ditremidae
 deuteration
 denucleate
+demarcator
 disenchain
 dittos
 daemonology
