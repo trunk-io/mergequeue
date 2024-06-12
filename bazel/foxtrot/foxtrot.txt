@@ -5901,6 +5901,7 @@ forjesket
 flogs
 famulli
 ferryboats
+fermis
 fluviovolcanic
 fatstock
 flybane
@@ -7164,7 +7165,6 @@ fluxes
 footingly
 formedon
 flection
-fermis
 footler
 feods
 frangulin
