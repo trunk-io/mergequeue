@@ -5943,7 +5943,6 @@ beride
 bellowslike
 bellowsmaking
 bellpull
-burhead
 bells
 belltail
 balloons
@@ -6565,6 +6564,7 @@ brachiopodist
 bepicture
 bepiece
 bepile
+burhead
 bodeword
 blobbiness
 bepart
