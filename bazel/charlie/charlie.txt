@@ -19445,7 +19445,6 @@ colorant
 colorants
 colorate
 coloration
-colorational
 colorative
 cere
 cycadlike
@@ -26224,6 +26223,7 @@ cosmorama
 cesure
 checking
 cosmoses
+colorational
 chelura
 conatural
 calorimeter
