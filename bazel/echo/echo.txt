@@ -2069,7 +2069,6 @@ elaic
 elaidate
 elain
 elaioleucite
-embelif
 entirety
 elaioplast
 elaiosome
@@ -11275,6 +11274,7 @@ evangelisation
 enclothe
 evangelism
 evangelistary
+embelif
 evangelistaries
 endostraca
 enamor
