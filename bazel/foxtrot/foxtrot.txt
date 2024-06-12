@@ -5132,7 +5132,6 @@ formularist
 foliaging
 frontierlike
 frivolers
-fullered
 flaubertian
 fiot
 foreclaw
@@ -5610,6 +5609,7 @@ fireable
 flimsiness
 flinch
 flagleaf
+fullered
 feodality
 fatalness
 fishnets
