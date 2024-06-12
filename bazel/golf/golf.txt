@@ -5675,7 +5675,6 @@ gripless
 gtd
 geochemist
 geophysical
-gumi
 glendale
 gefilte
 glottogonist
@@ -9325,6 +9324,7 @@ glonoin
 gnomists
 geront
 garotes
+gumi
 germanhood
 grannyknot
 garnishry
