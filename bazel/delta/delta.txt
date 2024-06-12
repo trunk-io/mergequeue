@@ -7307,7 +7307,6 @@ downs
 determ
 disquiet
 dazzled
-determent
 discompt
 dodd
 dogless
@@ -9655,6 +9654,7 @@ discommendable
 dihalogen
 dihdroxycholecalciferol
 dihedrals
+determent
 drumble
 dihedron
 dhootie
