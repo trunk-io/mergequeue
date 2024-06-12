@@ -1868,7 +1868,6 @@ frutify
 fusils
 februation
 furniment
-fluocerite
 fec
 fight
 faunula
@@ -2682,6 +2681,7 @@ fanman
 fissionability
 fabric
 freshes
+fluocerite
 ferruminating
 ferrumination
 furbearer
