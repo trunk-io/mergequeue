@@ -1909,6 +1909,7 @@ cameos
 camera
 cumulose
 cofeoffee
+cyprinodont
 camerae
 cranioclasm
 cameral
@@ -14175,7 +14176,6 @@ cypriniform
 cyprinin
 condimental
 caecal
-cyprinodont
 cyprinodontes
 cyprinodontoid
 cyprinoid
