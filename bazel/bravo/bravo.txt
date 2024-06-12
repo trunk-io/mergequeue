@@ -1509,6 +1509,7 @@ boser
 bacteremia
 borstal
 bistable
+bedsick
 balladic
 balladical
 bipersonal
@@ -4826,7 +4827,6 @@ beds
 bronx
 bedscrew
 bits
-bedsick
 bravure
 bedside
 bedsitter
