@@ -6339,6 +6339,7 @@ fissipeda
 frags
 fullback
 fixtureless
+frogleaf
 foetid
 flunkyish
 flunkyize
@@ -8492,7 +8493,6 @@ forming
 formless
 fistiana
 formnail
-frogleaf
 flouring
 fluid
 faultless
