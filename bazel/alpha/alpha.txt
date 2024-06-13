@@ -19469,7 +19469,6 @@ acephalite
 argentate
 aseptify
 argenteous
-albolite
 argentic
 allicins
 arterial
@@ -19742,6 +19741,7 @@ athyrium
 aas
 aleyrodid
 arisen
+albolite
 ariser
 arises
 attercrop
