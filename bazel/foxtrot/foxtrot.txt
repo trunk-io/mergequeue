@@ -1834,7 +1834,6 @@ fricatives
 febricant
 fanaticize
 febricitant
-fetal
 frictions
 fore
 feastless
@@ -4335,6 +4334,7 @@ fishability
 froggier
 fishback
 forebackwardly
+fetal
 feltwork
 fixion
 fishboats
