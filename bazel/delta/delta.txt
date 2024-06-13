@@ -11695,7 +11695,6 @@ dyestuff
 didest
 dammers
 deaves
-deforests
 disbecome
 discos
 demiditone
@@ -13462,6 +13461,7 @@ drumskin
 disregardfulness
 disregarding
 dingbat
+deforests
 dramatise
 dogbolt
 disrelate
