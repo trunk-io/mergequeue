@@ -7582,7 +7582,6 @@ caneware
 changepocket
 crozier
 ceratopsian
-ceratopsid
 ceratopteridaceae
 carnac
 ceratopteris
@@ -14097,6 +14096,7 @@ cinquefoiled
 cinquefoils
 cinquepace
 cinter
+ceratopsid
 cynthia
 cynthiidae
 cintre
