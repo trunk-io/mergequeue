@@ -2892,7 +2892,6 @@ eleventeenth
 eleventh
 excitation
 emplaning
-earthwork
 elevons
 eurydice
 electrotelethermometer
@@ -3230,6 +3229,7 @@ enzymatically
 eigenstate
 epirotulian
 elutriated
+earthwork
 elutriation
 encamping
 eugranitic
