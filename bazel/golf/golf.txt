@@ -1713,7 +1713,6 @@ gastrodermis
 gpd
 gyracanthus
 gnotobiote
-goosemouth
 guayabo
 gastroduodenitis
 gynics
@@ -4129,6 +4128,7 @@ gamester
 geoteuthis
 gimirrai
 genus
+goosemouth
 gimlet
 grapeful
 gamekeeper
