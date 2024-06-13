@@ -347,7 +347,6 @@ fanti
 facultative
 failure
 foresound
-fainaigue
 frogleg
 formulariser
 faucial
@@ -2683,6 +2682,7 @@ furbearer
 fraters
 flinter
 felspathic
+fainaigue
 fibrinolytic
 flavorer
 flashy
