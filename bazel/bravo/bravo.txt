@@ -9529,6 +9529,7 @@ barogram
 byrl
 btl
 baptisteries
+brawl
 byrlawman
 ballottable
 birle
@@ -12925,7 +12926,6 @@ boonfellow
 behorror
 bangster
 barthian
-brawl
 breastwise
 boong
 bearwood
