@@ -5364,7 +5364,6 @@ cassowary
 cassowaries
 commonty
 cassumunar
-cephadia
 cast
 castable
 castagnole
@@ -8479,6 +8478,7 @@ chamaeleon
 chamaelirium
 chamaepericlymenum
 chamaephyte
+cephadia
 chamaerops
 collegianer
 chamaesiphonaceae
