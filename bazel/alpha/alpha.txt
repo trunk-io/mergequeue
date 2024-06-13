@@ -12409,7 +12409,6 @@ argante
 androsphinges
 androsphinx
 androsporangium
-androspore
 androsterone
 androtomy
 ands
@@ -17012,6 +17011,7 @@ anoure
 arrive
 apishness
 adenovirus
+androspore
 autocephaly
 apjohnite
 apl
