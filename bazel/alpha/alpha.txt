@@ -10446,7 +10446,6 @@ auxosubstance
 albigenses
 amianth
 actinometer
-amianthium
 antireactive
 amianthoid
 amianthoidal
@@ -14380,6 +14379,7 @@ atomize
 anthologizes
 anthomania
 anthomaniac
+amianthium
 aguelike
 auspicate
 anthomyiidae
