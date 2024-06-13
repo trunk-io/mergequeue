@@ -6329,7 +6329,6 @@ ectypes
 electrodeposit
 enscroll
 exigently
-ecotypic
 euchred
 encompasser
 ensphered
@@ -6424,6 +6423,7 @@ ensky
 euthanasia
 enskies
 emulate
+ecotypic
 euphoniad
 exarchy
 eastern
