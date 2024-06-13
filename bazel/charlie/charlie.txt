@@ -3065,7 +3065,6 @@ capableness
 challengingly
 cirque
 capabler
-capablest
 capably
 cerecloth
 capacify
@@ -7014,6 +7013,7 @@ cenogamy
 cenogenesis
 cenogenetic
 cenogonous
+capablest
 cenomanian
 calciphobic
 cenosity
