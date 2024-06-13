@@ -5501,7 +5501,6 @@ bolter
 beachward
 ballcarrier
 behemoth
-behemothic
 behemoths
 behenate
 behenic
@@ -16784,6 +16783,7 @@ barbas
 buddhist
 buddhistic
 buddy
+behemothic
 bigamously
 bethunder
 buddie
