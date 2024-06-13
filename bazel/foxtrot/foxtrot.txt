@@ -2462,6 +2462,7 @@ fleshed
 festivities
 figpecker
 frizzle
+flammation
 fluidize
 firebird
 frazer
@@ -9994,7 +9995,6 @@ frigidarium
 frumentum
 fedayee
 fc
-flammation
 frigiddaria
 frigidly
 finery
