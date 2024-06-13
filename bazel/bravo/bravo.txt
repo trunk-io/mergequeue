@@ -3616,6 +3616,7 @@ bridgekeeper
 bathyplankton
 baygall
 bathyscaphes
+brushy
 bathysophical
 bathysphere
 bathythermogram
@@ -16428,7 +16429,6 @@ blizzardy
 bellwine
 bollixed
 brushful
-brushy
 brushier
 barbouillage
 brushiest
