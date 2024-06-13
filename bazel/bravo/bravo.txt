@@ -4387,7 +4387,6 @@ barricade
 bushbodies
 batiker
 boebera
-bowlders
 breadbaskets
 becall
 becalm
@@ -8056,6 +8055,7 @@ begazes
 biblists
 bovicide
 butanone
+bowlders
 biblos
 buoyed
 biblus
