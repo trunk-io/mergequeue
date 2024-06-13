@@ -8392,7 +8392,6 @@ crummable
 chalicotheriidae
 cephalohumeralis
 cixiid
-chalicotherium
 courtyard
 chalina
 complexity
@@ -10552,6 +10551,7 @@ childproof
 childre
 chontal
 comicality
+chalicotherium
 children
 childrenite
 corylin
