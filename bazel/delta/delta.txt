@@ -8758,7 +8758,6 @@ deathrate
 depolarizing
 diastereoisomerism
 diastereomer
-dodges
 dytiscidae
 diapers
 dismayed
@@ -11360,6 +11359,7 @@ difficulties
 discerptive
 discharacter
 drapery
+dodges
 diggers
 dischargeable
 dispirited
