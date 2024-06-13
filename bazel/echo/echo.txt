@@ -1761,6 +1761,7 @@ electrolyses
 empory
 eyedropperful
 echolocate
+externalness
 eyefuls
 erratics
 exoneration
@@ -13659,7 +13660,6 @@ externalize
 externalized
 externalizes
 eremian
-externalness
 elusions
 externat
 enhallow
