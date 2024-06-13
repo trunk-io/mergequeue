@@ -1930,7 +1930,6 @@ autograft
 acetylator
 acetylbenzene
 amenders
-acetylbenzoate
 acetylbenzoic
 acetylcellulose
 anamnesis
@@ -19496,6 +19495,7 @@ axonophorous
 argentometer
 antillean
 argentometry
+acetylbenzoate
 acatallactic
 anchoritical
 apiculation
