@@ -5435,7 +5435,6 @@ boggishness
 begrudging
 brotherliness
 begruntle
-blether
 biographical
 begrutten
 beguess
@@ -13067,6 +13066,7 @@ borasque
 borassus
 barouchet
 boraxes
+blether
 borboridae
 bulnbuln
 borborygmatic
