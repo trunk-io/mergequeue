@@ -5192,7 +5192,6 @@ affectum
 affectus
 affeerer
 ankerite
-affeerment
 affeeror
 aposthume
 agrias
@@ -5782,6 +5781,7 @@ agata
 apertured
 agate
 agates
+affeerment
 agatha
 agathin
 adiabatically
