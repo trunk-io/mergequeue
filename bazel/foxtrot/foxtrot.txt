@@ -3288,6 +3288,7 @@ featurely
 fidate
 focal
 flaught
+forehalf
 flocculently
 freit
 feoffors
@@ -7626,7 +7627,6 @@ flammant
 foretopsail
 fiefdom
 foregut
-forehalf
 forecasting
 fiesta
 forehammer
