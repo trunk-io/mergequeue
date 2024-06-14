@@ -3587,7 +3587,6 @@ distomum
 delvers
 deformable
 deformation
-deformational
 delete
 deformations
 deformedly
@@ -9934,6 +9933,7 @@ dimerisms
 dimerization
 duka
 dimerized
+deformational
 dimerizes
 dimers
 dimes
