@@ -2462,7 +2462,6 @@ bare
 bareback
 butterwort
 bareboat
-borderside
 bareboats
 bummalo
 barrener
@@ -15670,6 +15669,7 @@ broadsides
 breakfront
 branchiosauria
 broadsiding
+borderside
 broadspread
 broadsword
 bamangwato
