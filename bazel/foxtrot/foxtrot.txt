@@ -3529,7 +3529,6 @@ fike
 fyke
 fains
 fogies
-fopping
 fuzzes
 fitweed
 forehearth
@@ -4210,6 +4209,7 @@ fleeceable
 forma
 fatting
 fireplug
+fopping
 frieze
 fireplugs
 firepot
