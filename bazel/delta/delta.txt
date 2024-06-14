@@ -3026,7 +3026,6 @@ deducement
 deduces
 dolt
 deducibility
-devitrify
 deducibly
 deducing
 disdiaclast
@@ -12851,6 +12850,7 @@ dispatchful
 dragade
 dreamer
 dingo
+devitrify
 dichoree
 dysmeromorphic
 dubhe
