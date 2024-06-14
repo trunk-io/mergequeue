@@ -17446,7 +17446,6 @@ coatrack
 coatroom
 coatrooms
 coats
-cheloid
 coattend
 cajeta
 coattending
@@ -20779,6 +20778,7 @@ complexer
 complexes
 complexest
 chelidonate
+cheloid
 crocoites
 carvy
 complexify
