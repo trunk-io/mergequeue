@@ -5623,7 +5623,6 @@ flinched
 flyblown
 flincher
 flinders
-foliage
 fibrine
 foliiform
 frustrater
@@ -8324,6 +8323,7 @@ ficus
 forswornness
 forks
 feneration
+foliage
 forksful
 forksmith
 faceup
