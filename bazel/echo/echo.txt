@@ -1710,7 +1710,6 @@ eiders
 eidograph
 explanator
 excavating
-engrained
 eases
 evectional
 electromotiv
@@ -6400,6 +6399,7 @@ ensient
 ensemble
 ensiform
 engastrimyth
+engrained
 equilocation
 earthtongue
 ensign
