@@ -7875,7 +7875,6 @@ alectrionidae
 aciliated
 alveola
 alecup
-alefnull
 alefs
 alefzero
 alehouse
@@ -11533,6 +11532,7 @@ anacard
 arsenicate
 anacardium
 anacathartic
+alefnull
 antimonide
 albinoism
 anacephalize
