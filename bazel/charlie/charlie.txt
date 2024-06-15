@@ -2685,7 +2685,6 @@ clubmen
 coff
 combinatorics
 cutey
-canmaker
 canman
 churr
 cannabic
@@ -6515,6 +6514,7 @@ caviya
 cavyyard
 caviled
 caviler
+canmaker
 cavilers
 cavilingly
 ceraunogram
