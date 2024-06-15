@@ -5851,7 +5851,6 @@ footsoldier
 floccipend
 flurries
 freeloader
-funneled
 fermentitious
 floccose
 flaggers
@@ -9035,6 +9034,7 @@ foxberry
 foxberries
 foxer
 foxfire
+funneled
 friesish
 firmer
 folden
