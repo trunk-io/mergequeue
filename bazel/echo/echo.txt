@@ -5320,6 +5320,7 @@ endows
 embroiderers
 enchiridion
 epiphyte
+ectoethmoid
 estrangement
 entoconid
 embarrassing
@@ -8550,7 +8551,6 @@ epicycles
 elelments
 eupyrene
 empties
-ectoethmoid
 epulis
 epulo
 ecphoriae
