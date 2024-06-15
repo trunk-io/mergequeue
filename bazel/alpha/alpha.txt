@@ -4855,7 +4855,6 @@ atmospherical
 aerocharidae
 aerocyst
 armlet
-azophenylene
 aerocraft
 amoebous
 arkwright
@@ -11840,6 +11839,7 @@ analogous
 analogously
 aristocratically
 analogousness
+azophenylene
 analogue
 anaptychi
 analphabet
