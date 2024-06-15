@@ -6637,6 +6637,7 @@ focussed
 flumed
 focussing
 fod
+folkmoter
 fodder
 fodderer
 foder
@@ -6879,7 +6880,6 @@ foreignization
 folkmoots
 fadmonger
 firetower
-folkmoter
 ferrochromium
 formuliser
 furnaceman
