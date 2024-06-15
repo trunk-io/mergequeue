@@ -4607,7 +4607,6 @@ advocative
 aq
 archengineer
 avirulent
-advocator
 advocatress
 alleyed
 advoke
@@ -12058,6 +12057,7 @@ anastomotic
 anastomus
 anastrophy
 anastrophia
+advocator
 anat
 anatabine
 anatase
