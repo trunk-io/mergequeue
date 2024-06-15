@@ -6940,7 +6940,6 @@ aptian
 aln
 airview
 airway
-awearied
 airwayman
 armless
 airwards
@@ -10590,6 +10589,7 @@ anorthographically
 amylase
 amylases
 amylate
+awearied
 aglyphodontia
 amildar
 amylemia
