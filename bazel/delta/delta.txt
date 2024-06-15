@@ -1665,7 +1665,6 @@ daundered
 dealkylation
 dioxide
 deallocate
-deallocated
 devotional
 daunter
 deallocating
@@ -15081,6 +15080,7 @@ doglegging
 doglegs
 doglike
 dufrenite
+deallocated
 delicti
 decolorised
 dogmatic
