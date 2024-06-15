@@ -951,7 +951,6 @@ fasola
 fourchite
 finitely
 flightless
-finespun
 flashing
 furile
 ferny
@@ -7536,6 +7535,7 @@ formulist
 foredeclare
 frequency
 foredefeated
+finespun
 frankheartedness
 flightworthy
 foreshaft
