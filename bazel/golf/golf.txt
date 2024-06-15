@@ -8994,7 +8994,6 @@ grilse
 grassweed
 griffith
 grimaced
-grimacers
 grimaces
 gryllid
 galluptious
@@ -9370,6 +9369,7 @@ gowans
 garbure
 grayhair
 grossularite
+grimacers
 gabriel
 galop
 gloea
