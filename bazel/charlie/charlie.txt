@@ -11813,6 +11813,7 @@ chondrification
 cygnine
 chondrilla
 chondrinous
+cirrhotic
 chondrioma
 chondriome
 chondriomere
@@ -14575,7 +14576,6 @@ cirratulus
 cortian
 costmary
 cirrhose
-cirrhotic
 cipolins
 cirrhus
 cirri
