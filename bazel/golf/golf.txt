@@ -1849,7 +1849,6 @@ grainless
 guinean
 gullah
 gingiva
-graphis
 gelsemin
 gatekeeper
 goliard
@@ -3948,6 +3947,7 @@ gome
 galagos
 gigge
 glossopode
+graphis
 gloamings
 grubworms
 geoidal
