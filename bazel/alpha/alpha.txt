@@ -8715,7 +8715,6 @@ arrhythmous
 atheology
 ankylotome
 allergin
-allergist
 allergists
 agrements
 allerion
@@ -13161,6 +13160,7 @@ animalivorous
 animalization
 animalize
 animalized
+allergist
 animallike
 accouterments
 adapter
