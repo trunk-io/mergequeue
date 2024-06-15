@@ -3042,7 +3042,6 @@ cycadeous
 canvasado
 canvasbacks
 canvasers
-canvases
 coperiodic
 canvasing
 canvaslike
@@ -9251,6 +9250,7 @@ chase
 chaseable
 chased
 corbeilles
+canvases
 chronobarometer
 chases
 chashitsu
