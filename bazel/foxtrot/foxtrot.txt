@@ -4483,7 +4483,6 @@ furcule
 fissura
 frugal
 forwardsearch
-finesse
 fractionized
 frawn
 fissured
@@ -5862,6 +5861,7 @@ fangas
 flocculator
 flinted
 forril
+finesse
 filleted
 flocculent
 fluemen
