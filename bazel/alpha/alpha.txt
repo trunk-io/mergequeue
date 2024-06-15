@@ -2565,7 +2565,6 @@ acouometer
 adjacently
 acoup
 acousmatic
-acoustic
 anisopodal
 acousticolateral
 acousticon
@@ -23752,6 +23751,7 @@ accismus
 amatories
 acicular
 austrianize
+acoustic
 austrians
 annite
 austric
