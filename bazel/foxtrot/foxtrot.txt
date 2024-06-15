@@ -6632,7 +6632,6 @@ fairgrass
 fruitery
 funds
 fancymonger
-focusless
 focussed
 flumed
 focussing
@@ -11679,6 +11678,7 @@ fillowite
 futiley
 fumigate
 futilitarianism
+focusless
 felons
 forepale
 frequenter
