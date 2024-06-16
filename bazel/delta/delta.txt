@@ -8325,6 +8325,7 @@ dele
 diagonal
 diagonalizable
 diagonalization
+disarticulated
 diagnosing
 duel
 diagonals
@@ -14765,7 +14766,6 @@ divinator
 disabusal
 diaheliotropically
 docimasia
-disarticulated
 dentilated
 downrightness
 docimastical
