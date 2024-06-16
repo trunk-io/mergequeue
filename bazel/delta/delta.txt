@@ -2569,7 +2569,6 @@ declarative
 dearomatize
 discomorula
 deutzias
-declarator
 declaratorily
 deaminate
 drain
@@ -5912,6 +5911,7 @@ deposits
 dedifferentiation
 doumaist
 deafforest
+declarator
 deposure
 desistance
 depots
