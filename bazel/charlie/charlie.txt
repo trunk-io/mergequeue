@@ -9616,7 +9616,6 @@ checkrail
 casehardens
 checkrein
 checkroll
-checkroom
 compathy
 checkrooms
 checkrope
@@ -16284,6 +16283,7 @@ circuities
 clinched
 capitalism
 collodiochloride
+checkroom
 clinchers
 clinches
 charmingly
