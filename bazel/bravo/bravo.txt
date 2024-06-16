@@ -4106,6 +4106,7 @@ bargees
 bantlings
 bean
 brickred
+begottenness
 begged
 beanball
 bedeafen
@@ -5389,7 +5390,6 @@ begorra
 brevicipitidae
 bonace
 broadaxe
-begottenness
 bryogenin
 besoothement
 begowk
