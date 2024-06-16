@@ -3232,6 +3232,7 @@ capitalizing
 capitalness
 capitals
 capitan
+curvedness
 capitana
 capitasti
 capitated
@@ -12678,7 +12679,6 @@ chronographic
 chronographically
 chronoisothermal
 chronologer
-curvedness
 chronology
 cleanish
 collembolan
