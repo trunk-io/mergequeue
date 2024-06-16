@@ -7646,6 +7646,7 @@ charpie
 cerebellocortex
 cerebellorubral
 cerebellum
+covariation
 cerebral
 cerebralism
 coneighboring
@@ -27545,7 +27546,6 @@ clavier
 cuban
 covariate
 covariates
-covariation
 covassal
 cove
 courtzilite
