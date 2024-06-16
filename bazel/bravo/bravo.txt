@@ -7817,7 +7817,6 @@ bespangles
 britten
 bathyscaphe
 buxerry
-branchiosaurus
 bhikku
 bhikshu
 bhil
@@ -10714,6 +10713,7 @@ blazons
 bld
 bothriocidaris
 bleach
+branchiosaurus
 bluebutton
 bleachable
 bleacher
