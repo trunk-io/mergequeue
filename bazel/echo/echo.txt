@@ -4771,6 +4771,7 @@ eremopteris
 encoding
 encodings
 encoffinment
+effectivity
 estocs
 epicrisis
 electroionic
@@ -11730,7 +11731,6 @@ escamoteur
 examinable
 examinant
 exocannibalism
-effectivity
 enscrolled
 examinator
 examinatory
