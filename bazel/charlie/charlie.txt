@@ -2108,7 +2108,6 @@ campesinos
 campestral
 cordelier
 campfight
-campfires
 campground
 canful
 campgrounds
@@ -6388,6 +6387,7 @@ collencytal
 caustification
 caustified
 caustifying
+campfires
 casefies
 columnwise
 cautela
