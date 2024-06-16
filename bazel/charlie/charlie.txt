@@ -16273,7 +16273,6 @@ clinamen
 clinamina
 clinandrdria
 cymes
-clinandrium
 clinch
 circuities
 clinched
@@ -26349,6 +26348,7 @@ costocentral
 costochondral
 costogenic
 costoinferior
+clinandrium
 consultative
 chacoli
 costopleural
