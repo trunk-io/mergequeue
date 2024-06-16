@@ -2905,7 +2905,6 @@ acrostic
 acquires
 acrostical
 aerographics
-acrostichal
 approvably
 acrostichic
 acrostichoid
@@ -3471,6 +3470,7 @@ addressable
 addresser
 amplexation
 addressers
+acrostichal
 agrestis
 anybodyd
 addressful
