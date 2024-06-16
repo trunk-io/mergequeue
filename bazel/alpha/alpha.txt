@@ -4706,7 +4706,6 @@ aegrotat
 acroterion
 abush
 adjectivism
-ariste
 aetheling
 antedawn
 aeluroid
@@ -6551,6 +6550,7 @@ ayahuasca
 alinotum
 ayahuca
 analyzable
+ariste
 ayapana
 aias
 ayatollah
