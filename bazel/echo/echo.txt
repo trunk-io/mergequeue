@@ -5805,7 +5805,6 @@ emphasise
 explanation
 engouement
 extorter
-escalops
 epitheliogenetic
 engoument
 efficace
@@ -7049,6 +7048,7 @@ excisor
 encauma
 entrefer
 entrelac
+escalops
 entrenching
 eneas
 eustyle
