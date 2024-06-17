@@ -546,7 +546,6 @@ echinocaris
 eclipsises
 entosthoblast
 echinocereus
-echinochrome
 echinococcosis
 epedaphic
 echinococcus
@@ -6630,6 +6629,7 @@ expulsatory
 enterococcus
 enterocoela
 eructed
+echinochrome
 enterocoelous
 easterliness
 enteroepiplocele
