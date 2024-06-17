@@ -1790,7 +1790,6 @@ glandula
 gagroot
 gastropod
 gynopara
-gonadotrope
 gluttery
 geminately
 germinance
@@ -2016,6 +2015,7 @@ gaskings
 gaydiang
 gageite
 gaussmeter
+gonadotrope
 gauster
 gynoeciumcia
 granville
