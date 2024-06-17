@@ -2305,7 +2305,6 @@ coendear
 corector
 canaliculation
 canaliculization
-crutches
 canaliculus
 canaliferous
 crafted
@@ -9014,6 +9013,7 @@ crenelet
 charco
 charcoal
 charcoaled
+crutches
 charcoaly
 charcoaling
 cryptologic
