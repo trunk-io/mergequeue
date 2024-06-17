@@ -3286,7 +3286,6 @@ ferroinclave
 favor
 flairs
 faceoff
-fantod
 fiddlebow
 fifteenthly
 feelings
@@ -10306,6 +10305,7 @@ fitten
 factuality
 freightless
 firth
+fantod
 frondent
 fanged
 ferrates
