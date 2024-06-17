@@ -1575,6 +1575,7 @@ eggeater
 embog
 eggfruit
 exhale
+exarchate
 emportment
 euthanasy
 endamageable
@@ -7077,7 +7078,6 @@ enactory
 entrochite
 eutectoid
 entrust
-exarchate
 epiphenomenon
 emote
 entrusting
