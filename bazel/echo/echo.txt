@@ -6413,7 +6413,6 @@ ensilages
 espaliered
 enervates
 episcopal
-ensilation
 ensile
 ensiled
 embezzler
@@ -8005,6 +8004,7 @@ evermore
 epimandibular
 enthrone
 epimanikia
+ensilation
 expounds
 epimanikion
 epimeral
