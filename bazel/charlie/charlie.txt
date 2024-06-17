@@ -2060,7 +2060,6 @@ campanero
 campania
 cecils
 comdg
-campaniform
 campanile
 campaniles
 campanili
@@ -29135,6 +29134,7 @@ conjecture
 crinklier
 charmwise
 crinkliest
+campaniform
 cellulation
 crinkliness
 civilisatory
