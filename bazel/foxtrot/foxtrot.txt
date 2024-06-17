@@ -171,7 +171,6 @@ faradopalpation
 fictionary
 foyers
 float
-fulminates
 foreribs
 formicaroid
 flutidae
@@ -8309,6 +8308,7 @@ frostbites
 fimbria
 flaff
 formicarium
+fulminates
 freakier
 forkier
 familiars
