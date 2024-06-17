@@ -3658,7 +3658,6 @@ bromogelatin
 bathvillite
 brooklet
 bathwort
-batidaceae
 bookmobile
 besought
 blithelike
@@ -10214,6 +10213,7 @@ blackcaps
 bejeweled
 borrelia
 blackcod
+batidaceae
 blackcods
 blues
 blackdamp
