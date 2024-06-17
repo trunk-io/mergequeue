@@ -38,6 +38,7 @@ bracketwise
 bimbil
 babblers
 bodement
+bechirp
 babbles
 babbly
 brushable
@@ -4413,7 +4414,6 @@ beche
 becheck
 bechic
 bechignoned
-bechirp
 bacchanalize
 bezel
 bechtler
