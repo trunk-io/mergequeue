@@ -5921,7 +5921,6 @@ griffins
 gedact
 geaster
 glucagon
-gutturally
 guaiaretic
 gladify
 gate
@@ -7270,6 +7269,7 @@ greyling
 groutier
 gyrostatic
 genet
+gutturally
 gospelist
 guze
 gastraea
