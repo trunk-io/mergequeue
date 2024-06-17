@@ -38,7 +38,6 @@ eagres
 ealderman
 ealdorman
 exoperidium
-envergure
 eanling
 ear
 endosporia
@@ -1137,6 +1136,7 @@ equerries
 endearment
 edhs
 edibility
+envergure
 edible
 expeditive
 expurgatory
