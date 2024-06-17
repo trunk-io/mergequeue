@@ -1379,7 +1379,6 @@ baldaquin
 baldcrown
 balded
 balder
-botherheaded
 biskop
 bepewed
 baldest
@@ -18323,6 +18322,7 @@ buttonlike
 brahmans
 brightens
 brewst
+botherheaded
 buttons
 buttonweed
 browallia
