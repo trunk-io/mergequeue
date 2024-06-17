@@ -5839,6 +5839,7 @@ agend
 ampyx
 ave
 agendas
+ankylosaur
 agendum
 agendums
 amovability
@@ -13391,7 +13392,6 @@ auditress
 ankylopodia
 ankyloproctia
 ankylos
-ankylosaur
 ankyloses
 anantherate
 automatontons
