@@ -19428,7 +19428,6 @@ canonizant
 carousing
 checkstone
 color
-colorability
 cycadaceous
 currie
 chinchier
@@ -20607,6 +20606,7 @@ carpogenic
 crumpling
 cipherable
 calvinist
+colorability
 compellers
 compelling
 copycatted
