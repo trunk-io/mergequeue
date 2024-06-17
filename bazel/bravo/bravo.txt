@@ -1445,6 +1445,7 @@ batoneer
 boscages
 bali
 bedye
+brankier
 bight
 balibago
 balibuntal
@@ -3029,7 +3030,6 @@ bartlett
 beigel
 buyides
 bartonella
-brankier
 backswordsman
 bartonia
 bartramia
