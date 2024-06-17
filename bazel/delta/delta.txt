@@ -10770,7 +10770,6 @@ dipsosaurus
 dipstick
 diazotize
 dipt
-dipter
 dipteraceae
 dipterygian
 dipteryx
@@ -13903,6 +13902,7 @@ distensile
 drowns
 disalike
 dissavage
+dipter
 distensions
 disprison
 disterminate
