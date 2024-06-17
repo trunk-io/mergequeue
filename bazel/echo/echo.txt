@@ -5238,7 +5238,6 @@ enamines
 endophyllous
 eavesdropper
 endophyllum
-esophagostomy
 eupepticism
 endophlebitis
 elodea
@@ -12658,6 +12657,7 @@ exogen
 exogenae
 ekaha
 elegiambus
+esophagostomy
 egotism
 encratism
 exogenic
