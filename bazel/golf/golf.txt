@@ -778,7 +778,6 @@ gavel
 gatefold
 gypping
 galvanopuncture
-galvanoscope
 gummaker
 groupings
 gladsomer
@@ -4699,6 +4698,7 @@ gaudeamus
 gyrodactylus
 grapeshot
 gyrodyne
+galvanoscope
 gyrogonite
 gustatorially
 gyrohorizon
