@@ -316,6 +316,7 @@ disseizes
 dollfaced
 daybill
 dayblush
+downcomer
 daybooks
 daybreak
 desand
@@ -12049,7 +12050,6 @@ decumaria
 demonkind
 delve
 disenfranchises
-downcomer
 divinest
 deport
 diapsid
