@@ -2659,7 +2659,6 @@ deathtraps
 decoll
 drumbling
 dispensaries
-decollator
 decolletage
 displeaser
 decollete
@@ -14077,6 +14076,7 @@ dolichocephalic
 distributer
 distributing
 distribution
+decollator
 decretum
 dispensable
 diabantite
