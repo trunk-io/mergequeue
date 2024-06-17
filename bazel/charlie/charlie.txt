@@ -7268,7 +7268,6 @@ chymous
 centripetence
 centriscid
 centriscidae
-cacumen
 cups
 centriscoid
 centriscus
@@ -15258,6 +15257,7 @@ cladocera
 collarband
 commissionerships
 constituent
+cacumen
 cladodial
 cadmus
 cladodium
