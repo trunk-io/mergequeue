@@ -6760,7 +6760,6 @@ enthralling
 exurb
 enthralment
 enthrals
-enthroned
 enthronement
 enveloping
 enthronements
@@ -8663,6 +8662,7 @@ eyeshots
 equielliptical
 equigranular
 equilater
+enthroned
 equilateral
 equilaterally
 earthian
