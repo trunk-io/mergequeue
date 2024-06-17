@@ -4718,7 +4718,6 @@ epigean
 encircle
 encase
 elocutive
-encircled
 entryway
 exercitant
 encircles
@@ -12843,6 +12842,7 @@ efecks
 exoticism
 eyeful
 exoticist
+encircled
 exoticness
 ensconcing
 exotics
