@@ -3924,6 +3924,7 @@ bifidated
 baxtone
 bazar
 bazars
+bint
 baze
 bazoo
 bazooka
@@ -16317,7 +16318,6 @@ brocading
 biglot
 backwash
 bruised
-bint
 backtrack
 beneceptive
 brownwort
