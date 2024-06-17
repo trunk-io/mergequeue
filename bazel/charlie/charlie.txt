@@ -7565,7 +7565,6 @@ ceratohyoid
 ceratoid
 cartellist
 ceratomandibular
-ceratomania
 ceratonia
 cicerones
 cardamoms
@@ -12798,6 +12797,7 @@ chuet
 chueta
 chufas
 cinenchymatous
+ceratomania
 crinite
 catakinesis
 concede
