@@ -5446,6 +5446,7 @@ castles
 cortaderia
 china
 cordies
+chronobarometer
 castlet
 commercing
 candlesticked
@@ -9250,7 +9251,6 @@ chaseable
 chased
 corbeilles
 canvases
-chronobarometer
 chases
 chashitsu
 chasidim

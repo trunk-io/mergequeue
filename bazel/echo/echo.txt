@@ -4611,7 +4611,6 @@ effigies
 encharging
 equidifferent
 enchased
-exchangeable
 elaidinic
 exsolve
 eyednesses
@@ -9578,6 +9577,7 @@ escrow
 escrowing
 exceptio
 escudero
+exchangeable
 esculents
 esculin
 enciphered
