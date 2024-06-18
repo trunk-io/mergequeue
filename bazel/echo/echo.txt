@@ -7592,7 +7592,6 @@ eulamellibranch
 epicanthi
 epicanthus
 epicardia
-epicardium
 epicarid
 eyebrow
 epicarides
@@ -12616,6 +12615,7 @@ exploring
 exocoelic
 exocoelom
 explant
+epicardium
 exocoelum
 exocone
 eustathian
