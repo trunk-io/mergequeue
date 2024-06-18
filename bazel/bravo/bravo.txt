@@ -2456,6 +2456,7 @@ bards
 bardship
 backaching
 bardulph
+bruiser
 burgouts
 biwa
 bare
@@ -7053,7 +7054,6 @@ besmircher
 besmirchers
 billethead
 besmirchment
-bruiser
 besmoked
 besmokes
 biodynamic
