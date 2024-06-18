@@ -9083,6 +9083,7 @@ fenlander
 forehatchway
 featy
 fishing
+fumigator
 fernland
 forestaves
 falsification
@@ -11460,7 +11461,6 @@ frowsiness
 flintified
 frison
 fykes
-fumigator
 furriest
 fortunetell
 fautorship
