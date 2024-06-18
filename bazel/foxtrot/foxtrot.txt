@@ -5565,6 +5565,7 @@ frouncing
 flageolet
 flamant
 fascicled
+formerness
 fourgons
 flight
 flighted
@@ -8404,7 +8405,6 @@ formalities
 formalizable
 formalizations
 fictitiously
-formerness
 formalized
 formalizer
 formalness
