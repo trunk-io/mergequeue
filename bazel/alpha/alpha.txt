@@ -9352,7 +9352,6 @@ alpestrine
 autotype
 alphabetary
 alphabetarian
-alphabeted
 acclimatizable
 amphibiontic
 acerose
@@ -22087,6 +22086,7 @@ asteroids
 asterolepidae
 asterolepis
 asterope
+alphabeted
 anaunter
 asterophyllite
 asterophyllites
