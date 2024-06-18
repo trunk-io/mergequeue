@@ -5920,7 +5920,6 @@ divestible
 deafforestation
 deposits
 dulcitol
-dedifferentiation
 doumaist
 deafforest
 declarator
@@ -17723,6 +17722,7 @@ drabnesses
 dubbin
 dubbing
 discriminable
+dedifferentiation
 decanonization
 dubbins
 dubiety
