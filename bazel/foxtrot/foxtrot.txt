@@ -3015,7 +3015,6 @@ fallway
 fadings
 felucca
 fleshiness
-floorshift
 frothing
 fy
 fiacres
@@ -3225,6 +3224,7 @@ fishpound
 flutterers
 flavourer
 flotages
+floorshift
 fosslology
 furling
 fnese
