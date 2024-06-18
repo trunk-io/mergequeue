@@ -2556,7 +2556,6 @@ gradienter
 griever
 gained
 grooveless
-gaffkya
 guiac
 gigmania
 generable
@@ -3642,6 +3641,7 @@ gillnetting
 genearch
 gipsylike
 gnathalgia
+gaffkya
 ghettoed
 ghettoes
 grubbing
