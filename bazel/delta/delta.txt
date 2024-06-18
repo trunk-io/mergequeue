@@ -1363,6 +1363,7 @@ definer
 dauphine
 dauphines
 drooping
+derivable
 drapable
 daur
 dinned
@@ -6270,7 +6271,6 @@ dejeuners
 deferable
 douzainier
 denouncers
-derivable
 dirigibility
 derival
 derivant
