@@ -3820,7 +3820,6 @@ filtermen
 forcefully
 fluoridated
 fathercraft
-faze
 foreiron
 forenoted
 foliole
@@ -8623,6 +8622,7 @@ fillebeg
 flourishes
 filicides
 fumistery
+faze
 fields
 fortaxed
 faldstool
