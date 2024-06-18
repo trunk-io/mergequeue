@@ -3045,7 +3045,6 @@ bartramian
 bartree
 banish
 brogueneer
-bulwark
 baruch
 barukhzy
 barundi
@@ -11352,6 +11351,7 @@ blowcock
 backlashes
 blowen
 blower
+bulwark
 boaters
 bullshits
 blowguns
