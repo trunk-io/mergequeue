@@ -5871,6 +5871,7 @@ expalpate
 entree
 engysseismology
 endophytous
+erg
 edgings
 engreaten
 ethereal
@@ -8952,7 +8953,6 @@ erethistic
 equiprobable
 erewhile
 erewhiles
-erg
 esthetician
 ergane
 ethnohistorically
