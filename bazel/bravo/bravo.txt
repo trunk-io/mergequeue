@@ -1653,6 +1653,7 @@ balloted
 betrayal
 brancher
 balloting
+bemuck
 ballotist
 ballots
 ballottement
@@ -6107,7 +6108,6 @@ boathead
 bemartyr
 bibl
 buttstrap
-bemuck
 blacktail
 bemuddlement
 bemuddles
