@@ -2577,6 +2577,7 @@ electrons
 emotiveness
 electrooculogram
 encyclopaedian
+electrodiagnoses
 electrobrasser
 etua
 electroori
@@ -10904,7 +10905,6 @@ eligibilities
 endostomata
 extruct
 enchase
-electrodiagnoses
 eisteddfodau
 exercises
 enantiomorphous
