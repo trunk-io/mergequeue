@@ -4843,7 +4843,6 @@ cheesily
 conceitless
 carrat
 carraway
-carreau
 carrefour
 cortinate
 carrel
@@ -13469,6 +13468,7 @@ cyclopite
 cycloplegia
 cycloplegic
 cyclopteridae
+carreau
 centerwise
 cyclopteroid
 compactification
