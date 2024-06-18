@@ -14853,7 +14853,6 @@ cookery
 cite
 citeable
 cited
-couriers
 citer
 citers
 cites
@@ -14916,6 +14915,7 @@ cytisine
 curet
 cytitis
 chamkanni
+couriers
 citywards
 calocarpum
 citizen
