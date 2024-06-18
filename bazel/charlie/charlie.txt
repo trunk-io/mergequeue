@@ -7578,6 +7578,7 @@ cayennes
 contriteness
 ceratospongian
 ceratostomataceae
+cytococcus
 ceratostomella
 ceratotheca
 ceratozamia
@@ -14953,7 +14954,6 @@ cytoclasis
 cytoclastic
 crioboly
 cytococci
-cytococcus
 cytode
 choroidal
 cytoderm
