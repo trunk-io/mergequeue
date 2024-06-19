@@ -3568,7 +3568,6 @@ epidural
 embolon
 emboltement
 embordered
-embordering
 equoid
 erysipelatoid
 exothermally
@@ -11940,6 +11939,7 @@ equiradical
 excerp
 encoffin
 excerpta
+embordering
 etheneldeli
 eradiate
 excess
