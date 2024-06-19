@@ -4173,6 +4173,7 @@ adjag
 appleberry
 apoapsis
 armorers
+arquebusier
 abruptiones
 amalgamable
 adopted
@@ -15595,7 +15596,6 @@ adventuresomeness
 antimonial
 aftertreatment
 antimoniated
-arquebusier
 acrylic
 antigraft
 amylene
