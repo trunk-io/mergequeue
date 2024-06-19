@@ -10405,6 +10405,7 @@ bargepole
 billot
 bounderish
 bamboozlers
+bordman
 blamability
 boil
 blame
@@ -13086,7 +13087,6 @@ borderlander
 bagpipe
 borderlight
 borderline
-bordman
 braggartry
 bordrag
 biophysicochemical
