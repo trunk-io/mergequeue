@@ -1072,7 +1072,6 @@ fastigiately
 farmyard
 farmyardy
 farmout
-farmtown
 floricomous
 folily
 farnesol
@@ -7512,6 +7511,7 @@ fuzils
 foretake
 filer
 fibrilation
+farmtown
 fetisheer
 frocks
 fructokinase
