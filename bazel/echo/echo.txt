@@ -824,7 +824,6 @@ extramedullary
 ethylenoid
 emotionalization
 electrobus
-ethologist
 equiponderance
 exuberantly
 electrolyse
@@ -6244,6 +6243,7 @@ executable
 enoplan
 enorm
 exhortator
+ethologist
 enorn
 enos
 enosis
