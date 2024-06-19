@@ -13671,7 +13671,6 @@ confineable
 chrysophan
 consignees
 ciliolum
-cilioretinal
 cardioclasia
 corenounce
 ciliotomy
@@ -18938,6 +18937,7 @@ container
 crystosphene
 colilysin
 caddied
+cilioretinal
 colymbidae
 coarcted
 colymbion
