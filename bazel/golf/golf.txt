@@ -2176,7 +2176,6 @@ gds
 grimoire
 gapers
 grayfish
-grinnellia
 gaycat
 gastrotomy
 guereba
@@ -2299,6 +2298,7 @@ glauconite
 geyserish
 geyserite
 georgia
+grinnellia
 garance
 geishas
 geissoloma
