@@ -1285,7 +1285,6 @@ baryonic
 bluejays
 begrutch
 boater
-biplanal
 balancers
 balander
 bleaberry
@@ -4726,6 +4725,7 @@ beekmantown
 bedizens
 bedkey
 bourses
+biplanal
 bandpass
 blandiloquence
 booked
