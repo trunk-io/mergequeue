@@ -4002,7 +4002,6 @@ exhilaratory
 expoundable
 excurvation
 evangelise
-empaneled
 endosarcode
 empanelling
 empanels
@@ -7566,6 +7565,7 @@ ephods
 eubacteria
 ephor
 essayical
+empaneled
 ephraim
 ekphory
 escalatory
