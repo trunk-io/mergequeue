@@ -1779,6 +1779,7 @@ feathertop
 flagellation
 featherweed
 frogmen
+flutina
 fulminancy
 fulyie
 frostless
@@ -6511,7 +6512,6 @@ fierabras
 fraist
 flytail
 finecomb
-flutina
 fluting
 foreworn
 freakishness
