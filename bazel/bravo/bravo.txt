@@ -433,7 +433,6 @@ bughouses
 backpedal
 backpedaling
 backpiece
-belonged
 backplane
 brachiostrophosis
 backplanes
@@ -8864,6 +8863,7 @@ bimonthlies
 bimorphs
 banbury
 bimotors
+belonged
 bruisers
 boloman
 bumblebee
