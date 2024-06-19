@@ -2203,7 +2203,6 @@ achroite
 anarchosocialist
 anomalipod
 achroma
-achromasia
 actinal
 aperistalsis
 abattue
@@ -22342,6 +22341,7 @@ astrologous
 astromancer
 astromancy
 astromantic
+achromasia
 astromeda
 apophyges
 astrometeorology
