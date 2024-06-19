@@ -3610,7 +3610,6 @@ glucosidase
 gaucheness
 ghenting
 gallowsmaker
-galvanotropism
 gherao
 graduating
 gheraoes
@@ -5614,6 +5613,7 @@ globigerinas
 gaminish
 greens
 grissen
+galvanotropism
 gorses
 gedrite
 glucine
