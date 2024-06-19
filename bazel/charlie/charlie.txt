@@ -10499,7 +10499,6 @@ conquered
 coryphaena
 clinocephalic
 chihfu
-chihuahua
 chihuahuas
 comephorous
 chikara
@@ -28549,6 +28548,7 @@ creda
 cavillingness
 credal
 correctness
+chihuahua
 chevronel
 coitus
 creddock
