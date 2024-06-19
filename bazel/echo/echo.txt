@@ -5656,7 +5656,6 @@ endocentric
 emblematical
 earnings
 encouraging
-enforcibility
 enforcingly
 enforcively
 eirene
@@ -12188,6 +12187,7 @@ embergoose
 excuser
 excusing
 elytron
+enforcibility
 endpoint
 egger
 ellipse
