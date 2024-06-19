@@ -3988,7 +3988,6 @@ gloves
 gnide
 grocery
 gigots
-gigs
 gigster
 guarinite
 gemonies
@@ -6738,6 +6737,7 @@ gonid
 geer
 gallberry
 graphitic
+gigs
 gonangia
 gonidial
 gonidic
