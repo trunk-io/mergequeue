@@ -2627,7 +2627,6 @@ cangler
 cangue
 cangues
 canham
-canhoop
 canichanan
 canicola
 canicula
@@ -6892,6 +6891,7 @@ cellulosity
 cellulosities
 cellulotoxic
 cellulous
+canhoop
 classicized
 celom
 chauvinistically
