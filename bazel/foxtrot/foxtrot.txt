@@ -6069,7 +6069,6 @@ fanfare
 forespeak
 factual
 flush
-foremilk
 forsook
 fleyland
 flamens
@@ -10985,6 +10984,7 @@ fumaroidal
 fumaroles
 forerunning
 faipule
+foremilk
 firstborn
 fumatory
 forgette
