@@ -3712,7 +3712,6 @@ caraunda
 caravaneer
 cosmogonize
 caravaner
-caravanned
 cohogs
 chetty
 caravanner
@@ -16917,6 +16916,7 @@ clubhand
 clubhands
 cerebralgia
 clubhaul
+caravanned
 clubhauled
 clubhauls
 clubhouses
