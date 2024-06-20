@@ -1365,7 +1365,6 @@ embiotocidae
 euryphagous
 epimachinae
 entomologists
-electrostenolysis
 effectively
 effectors
 effectress
@@ -8037,6 +8036,7 @@ epimeres
 eremurus
 epimeric
 epimeride
+electrostenolysis
 epimerism
 exhaustibility
 ecdysiast
