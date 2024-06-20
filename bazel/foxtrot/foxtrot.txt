@@ -4785,7 +4785,6 @@ feuillants
 fortunetelling
 flocculable
 fraternities
-feest
 fragilariaceae
 friezy
 feltmonger
@@ -9462,6 +9461,7 @@ flippery
 fulcrate
 foreward
 foothil
+feest
 fratricelli
 fratricide
 forespent
