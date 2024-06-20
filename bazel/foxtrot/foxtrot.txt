@@ -2953,6 +2953,7 @@ fumier
 flagonless
 flyboy
 furazane
+flagger
 formularism
 frustums
 farfetch
@@ -4774,7 +4775,6 @@ flowcontrol
 forbiddenness
 figurately
 forgiver
-flagger
 fissurellidae
 feuillants
 fortunetelling
