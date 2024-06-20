@@ -19976,7 +19976,6 @@ comm
 chelydridae
 command
 commandable
-commandant
 curtaxe
 commandatory
 commanded
@@ -22363,6 +22362,7 @@ congratulational
 congratulations
 congratulatory
 congree
+commandant
 congregable
 congreganist
 crooks
