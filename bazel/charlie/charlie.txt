@@ -18043,7 +18043,6 @@ charioteers
 coelodont
 coelogastrula
 comet
-coelogyne
 coeloglossum
 coelom
 coeloma
@@ -24533,6 +24532,7 @@ cooth
 coothay
 cooty
 cootie
+coelogyne
 cooties
 coots
 cop
