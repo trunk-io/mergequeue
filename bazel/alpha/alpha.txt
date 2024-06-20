@@ -10652,7 +10652,6 @@ acquirers
 amyloses
 amylosynthesis
 amylosis
-asthenosphere
 amiloun
 amyls
 amylum
@@ -18257,6 +18256,7 @@ aquatintist
 aquatints
 ascender
 aplanospore
+asthenosphere
 aquatone
 abampere
 acidemias
