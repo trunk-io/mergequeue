@@ -39,6 +39,7 @@ allseeds
 aurine
 aethogen
 avenery
+aerometeorograph
 abaci
 abacination
 abaciscus
@@ -4962,7 +4963,6 @@ aeromancer
 aeromechanic
 aeromechanics
 aeromedical
-aerometeorograph
 aerometer
 autonomously
 aerometry
