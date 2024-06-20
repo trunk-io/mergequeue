@@ -5450,7 +5450,6 @@ dribbler
 dentistical
 dentistry
 dentists
-deproceduring
 dentition
 dilating
 dentolabial
@@ -15748,6 +15747,7 @@ dialyzation
 dormancies
 dormer
 disweapon
+deproceduring
 dormers
 dormette
 dormeuse
