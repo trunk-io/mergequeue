@@ -7756,6 +7756,7 @@ gainable
 groundspeed
 garneter
 gambias
+gestion
 gangplank
 graisse
 gerately
@@ -8657,7 +8658,6 @@ geraniaceous
 gismo
 glossingly
 groundenell
-gestion
 grubby
 gambit
 garrets
