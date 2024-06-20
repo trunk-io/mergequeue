@@ -621,6 +621,7 @@ disegno
 disintegrating
 derrickmen
 detonators
+deadhand
 derelinquendi
 definientia
 desilvered
@@ -5080,7 +5081,6 @@ dirigible
 defenestrate
 demurringly
 dissembling
-deadhand
 driftpin
 divisibly
 dename
