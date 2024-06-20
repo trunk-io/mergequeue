@@ -606,7 +606,6 @@ fleshes
 farthingdeal
 foredetermination
 fluxion
-forsay
 flambeaus
 farrantly
 forelimb
@@ -4454,6 +4453,7 @@ forlane
 frowziness
 fishwood
 fishworker
+forsay
 ferrovanadium
 flour
 fisnoga
