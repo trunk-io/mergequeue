@@ -18214,7 +18214,6 @@ coercer
 coercers
 coercibility
 coercible
-coercion
 coercionary
 coercitive
 coercive
@@ -26005,6 +26004,7 @@ corticotrophin
 cloths
 corticous
 cortile
+coercion
 cortin
 crioceris
 cinerary
