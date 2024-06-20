@@ -3164,7 +3164,6 @@ gangsters
 geoscientists
 guelph
 gnomonical
-gcd
 gonopoietic
 gellant
 grapewort
@@ -5079,6 +5078,7 @@ governesshood
 giganticidal
 gauls
 garnishment
+gcd
 galloping
 goujons
 girasoles
