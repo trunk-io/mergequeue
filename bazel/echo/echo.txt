@@ -2352,7 +2352,6 @@ electrochronometric
 enfroward
 electroplating
 electroplates
-epiphenomenal
 ellipsis
 ecumenical
 emulsifying
@@ -14144,6 +14143,7 @@ englishes
 extrachromosomal
 expromission
 enigmatology
+epiphenomenal
 equirotal
 extrusory
 examinations
