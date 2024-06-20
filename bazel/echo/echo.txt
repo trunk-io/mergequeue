@@ -8358,7 +8358,6 @@ emblematized
 erratums
 epistoma
 endolaryngeal
-eryopid
 epitactic
 epitaphian
 epitaphist
@@ -11378,6 +11377,7 @@ edeotomy
 evenhead
 exotropic
 electrodesiccation
+eryopid
 evenmete
 eruciform
 evenness
