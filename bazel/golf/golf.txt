@@ -1419,6 +1419,7 @@ glenlike
 garnison
 garniture
 gagor
+gaultheria
 grecize
 ganyie
 grimace
@@ -7538,7 +7539,6 @@ gelechiid
 gownsmen
 gox
 greasepaint
-gaultheria
 gangism
 grammatophyllum
 gledge
