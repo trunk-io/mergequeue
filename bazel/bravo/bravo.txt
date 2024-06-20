@@ -1550,7 +1550,6 @@ bouton
 backsword
 ballaster
 ballastic
-ballat
 ballata
 batikulin
 baru
@@ -4302,6 +4301,7 @@ beautihood
 bowpots
 belly
 bonaci
+ballat
 bridges
 burlers
 burman
