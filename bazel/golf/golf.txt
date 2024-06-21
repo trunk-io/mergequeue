@@ -1845,6 +1845,7 @@ gelsemin
 gatekeeper
 goliard
 gatekeepers
+glos
 grasses
 guestship
 glueing
@@ -4211,7 +4212,6 @@ ghosthood
 genealogy
 garnished
 gymnorhinal
-glos
 gonangiums
 gymnosophical
 guddler
