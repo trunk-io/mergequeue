@@ -63,7 +63,6 @@ barouches
 bluestoner
 babelism
 bongar
-bendell
 blist
 babelize
 beshlik
@@ -4524,6 +4523,7 @@ becrime
 becrimed
 bunemost
 brasqued
+bendell
 buckrams
 becriming
 becrinolined

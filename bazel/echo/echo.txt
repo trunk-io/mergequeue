@@ -2460,7 +2460,6 @@ equivalence
 ende
 electrogenic
 electrogild
-electrojet
 electrogilt
 ejecting
 electrogram
@@ -4310,6 +4309,7 @@ epicenes
 emunctories
 epigraphical
 echoed
+electrojet
 emusifies
 ectogenous
 engs
