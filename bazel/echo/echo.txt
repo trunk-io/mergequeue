@@ -11907,7 +11907,6 @@ exceptiveness
 emissivity
 exceptless
 emends
-exceptor
 eightfoil
 ectoderms
 enragement
@@ -12226,6 +12225,7 @@ extradicted
 ephemera
 execute
 executed
+exceptor
 exhibitorial
 extravagancies
 epitrichium
