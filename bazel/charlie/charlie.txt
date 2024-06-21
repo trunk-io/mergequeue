@@ -7604,6 +7604,7 @@ continent
 cercopithecid
 contracting
 cercopithecidae
+collocatory
 catodon
 cercopithecoid
 cercopithecus
@@ -9970,7 +9971,6 @@ cresylene
 chemotactically
 choochoo
 chemotaxy
-collocatory
 chemotaxonomy
 chemotaxonomic
 cannular
