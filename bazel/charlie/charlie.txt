@@ -3954,7 +3954,6 @@ carcajou
 carcajous
 carcake
 carcanet
-codger
 carcanetted
 carcases
 crueler
@@ -10581,6 +10580,7 @@ coevolutionary
 chylifaction
 chylifactory
 chyliferous
+codger
 chirruper
 cosheries
 counterpreparation
