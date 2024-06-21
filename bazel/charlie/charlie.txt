@@ -14791,6 +14791,7 @@ clayman
 cystosyrinx
 cystospastic
 cystospore
+colorimetric
 cystostomies
 cystotome
 cystotomy
@@ -19476,7 +19477,6 @@ colorific
 colorifics
 crowdie
 colorimeter
-colorimetric
 colorimetrically
 colorimetrics
 colorimetrist
