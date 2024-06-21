@@ -2562,7 +2562,6 @@ frondescent
 ferrelling
 forwake
 fights
-folder
 fluorine
 ferreous
 fences
@@ -3696,6 +3695,7 @@ firesider
 franchisal
 fairstead
 fermental
+folder
 fillable
 fillemot
 frownless
