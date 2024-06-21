@@ -5664,6 +5664,7 @@ dibber
 dependance
 dustfall
 disedification
+draftable
 depended
 dependence
 desensitizes
@@ -9616,7 +9617,6 @@ drachm
 deglazes
 dignitary
 dignitarian
-draftable
 demophoon
 doubloons
 dignities
