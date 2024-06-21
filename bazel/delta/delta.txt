@@ -5731,7 +5731,6 @@ dephlogistication
 duennadom
 dephosphorize
 desiccant
-depickle
 darst
 devastates
 denuclearize
@@ -9155,6 +9154,7 @@ devow
 drubbed
 decouple
 dumbcow
+depickle
 diamyl
 dunted
 didactical
