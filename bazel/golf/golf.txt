@@ -1712,7 +1712,6 @@ gaining
 gluts
 gastroenteroanastomosis
 galactopoietic
-gastroenterocolostomy
 gelatination
 gastightness
 guerinet
@@ -6087,6 +6086,7 @@ gelotometer
 gingles
 gonging
 gonifs
+gastroenterocolostomy
 gusting
 gnar
 germinancy
