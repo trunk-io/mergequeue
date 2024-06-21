@@ -6072,7 +6072,6 @@ floruit
 flinder
 footloose
 fanfare
-forespeak
 factual
 flush
 forsook
@@ -8576,6 +8575,7 @@ foxish
 forescript
 fir
 fluoridise
+forespeak
 fittings
 farth
 forsakenly
