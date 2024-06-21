@@ -1096,6 +1096,7 @@ gangues
 ghostliness
 groundway
 glares
+gowdy
 goularo
 gardencraft
 gamed
@@ -2661,7 +2662,6 @@ gathering
 gonothecal
 geologician
 genetoid
-gowdy
 geminal
 ghettoize
 genetous
