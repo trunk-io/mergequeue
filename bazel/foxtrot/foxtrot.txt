@@ -6139,6 +6139,7 @@ frogmouths
 fireboat
 freudians
 flours
+fortunel
 forechoir
 fangled
 fishlines
@@ -8705,7 +8706,6 @@ fortunateness
 fissileness
 fillers
 floriferously
-fortunel
 fortunes
 frankfort
 fizz
