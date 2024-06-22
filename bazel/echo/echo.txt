@@ -1240,7 +1240,6 @@ educand
 emulsive
 educatability
 eident
-enwreathing
 educatable
 educatedness
 electrolyzable
@@ -11150,6 +11149,7 @@ euterpean
 eutexia
 euthamia
 euthenasia
+enwreathing
 eiderdown
 endoplast
 epilatory
