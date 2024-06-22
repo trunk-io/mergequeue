@@ -3846,7 +3846,6 @@ feminie
 formin
 firewoods
 fatbirds
-faintheart
 flankwise
 fract
 fimbriae
@@ -5282,6 +5281,7 @@ fldxt
 foolhardier
 flayflint
 fleabag
+faintheart
 fusible
 furciform
 fleabags
