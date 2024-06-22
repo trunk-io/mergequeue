@@ -3287,6 +3287,7 @@ geothermometer
 germanification
 guess
 gadso
+gorgonian
 gregaritic
 gladder
 gelotoscopy
@@ -6663,7 +6664,6 @@ gallinula
 galeass
 gigolos
 graphalloy
-gorgonian
 good
 ghats
 goatsbane
