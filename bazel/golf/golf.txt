@@ -5311,7 +5311,6 @@ gullet
 gelsemiums
 glomerulus
 glenohumeral
-glenoid
 glenoidal
 gages
 grouted
@@ -6761,6 +6760,7 @@ glomerate
 geyseral
 gazettes
 gruine
+glenoid
 grandstands
 goniocraniometry
 grouters
