@@ -6306,7 +6306,6 @@ enows
 egally
 electrotechnology
 ecclesiastry
-electromotivity
 expediencies
 exalte
 electroengrave
@@ -9574,6 +9573,7 @@ escript
 escritoire
 encephalocele
 escritorial
+electromotivity
 eruptives
 episodic
 escrow
