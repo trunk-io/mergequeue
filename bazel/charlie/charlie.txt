@@ -9242,7 +9242,6 @@ corbeilles
 canvases
 chases
 chashitsu
-chasidim
 chasm
 circumrotation
 chasma
@@ -25581,6 +25580,7 @@ chitchatty
 coronel
 coronene
 coronership
+chasidim
 coroneted
 coronets
 conoid
