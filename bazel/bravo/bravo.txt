@@ -4069,7 +4069,6 @@ bulgers
 beaming
 beamingly
 beamish
-bamboozle
 bottlefuls
 balibuntal
 beamman
@@ -7933,6 +7932,7 @@ bibberies
 borages
 bibbing
 bibble
+bamboozle
 beclose
 bibbler
 blooms
