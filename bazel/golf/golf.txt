@@ -3465,7 +3465,6 @@ gestapos
 gallanting
 gallophobia
 graptomancy
-gaspiness
 gestate
 guageable
 guildic
@@ -6421,6 +6420,7 @@ golfdom
 gigantal
 growliness
 gunarchy
+gaspiness
 gossaniferous
 gog
 gamin
