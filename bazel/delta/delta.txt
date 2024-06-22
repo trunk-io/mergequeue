@@ -7404,7 +7404,6 @@ dominate
 decomponent
 detestations
 detests
-dethroned
 dethronement
 diminute
 dain
@@ -11327,6 +11326,7 @@ disburser
 derailments
 deadly
 dodecatheon
+dethroned
 disced
 devaraja
 dalan
