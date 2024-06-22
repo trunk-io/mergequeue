@@ -6405,7 +6405,6 @@ benzdioxdiazine
 buffalofishes
 benzein
 blinks
-benzene
 benzenediazonium
 bebar
 benzenoid
@@ -12933,6 +12932,7 @@ bequote
 balers
 bacterins
 brushoff
+benzene
 bodily
 birkies
 baresarks
