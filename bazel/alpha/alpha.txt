@@ -7128,6 +7128,7 @@ akka
 akkad
 austerer
 appense
+aphoriser
 aroint
 androides
 akkadian
@@ -14516,7 +14517,6 @@ anoplotheroid
 anthropography
 acritochromacy
 algologically
-aphoriser
 anthropographic
 anthropoid
 ascenseur
