@@ -3331,7 +3331,6 @@ bandurria
 bathymetric
 basketmaker
 basketmaking
-biotope
 basketries
 banyai
 brained
@@ -9587,6 +9586,7 @@ barbarian
 birn
 byrnie
 byrnies
+biotope
 balladmongering
 battlefront
 birodo

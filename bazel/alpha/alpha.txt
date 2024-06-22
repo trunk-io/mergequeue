@@ -3881,7 +3881,6 @@ adjudging
 adjudgment
 adjudicate
 autarkik
-agile
 adjudicated
 adjudication
 adjudications
@@ -15709,6 +15708,7 @@ albify
 antioptionist
 antiorthodoxy
 antioxidant
+agile
 antioxidants
 aigremore
 afterking
