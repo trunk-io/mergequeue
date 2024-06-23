@@ -1754,6 +1754,7 @@ featherbird
 feoffors
 forfare
 foreshore
+fuzztail
 foresaddle
 feathercut
 falconiformes
@@ -3560,7 +3561,6 @@ fundamentally
 flunkyhood
 flavous
 flaggelating
-fuzztail
 filaments
 formularise
 filamentule
