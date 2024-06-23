@@ -2258,6 +2258,7 @@ farmland
 fluidification
 fen
 fenagled
+foamer
 fatil
 fain
 fenced
@@ -11026,7 +11027,6 @@ fumet
 fumets
 follows
 flongs
-foamer
 fumiest
 fluoroscope
 frivolist
