@@ -4117,7 +4117,6 @@ emplanes
 emplaster
 elevating
 emplastic
-exemplupla
 emplastration
 eutheria
 ethological
@@ -6574,6 +6573,7 @@ eclectic
 episepalous
 elutions
 entelechies
+exemplupla
 engorging
 entender
 edgewise
