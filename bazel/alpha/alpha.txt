@@ -5163,7 +5163,6 @@ affability
 apyrexia
 affable
 ambilaevous
-affair
 affaire
 affaite
 affatuate
@@ -18946,6 +18945,7 @@ archidamus
 adherer
 archidiaceae
 archidiaconate
+affair
 archididascalos
 archidome
 antapoplectic
