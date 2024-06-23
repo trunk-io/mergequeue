@@ -6622,7 +6622,6 @@ diacritic
 degradedness
 dichlorhydrin
 dramatism
-diffugient
 described
 dolous
 daunomycin
@@ -15759,6 +15758,7 @@ datival
 dornock
 dornocks
 desanded
+diffugient
 dilleniaceae
 dumka
 doroscentral
