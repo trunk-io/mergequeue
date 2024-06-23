@@ -6817,6 +6817,7 @@ airfield
 atelognathia
 airflow
 airflows
+antimoralist
 airfoil
 airfoils
 airframes
@@ -15616,7 +15617,6 @@ armadillo
 ailurophile
 artiodactyl
 apsychia
-antimoralist
 antimoralistic
 antimorality
 antimosquito
