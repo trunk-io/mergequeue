@@ -999,7 +999,6 @@ concisest
 capuche
 calanque
 calantas
-carnivallike
 chromocenter
 calapite
 calapitte
@@ -20918,6 +20917,7 @@ comprehend
 cosmognosis
 colonnades
 comprehender
+carnivallike
 comedos
 comprehense
 comprehensibility
