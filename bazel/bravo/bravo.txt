@@ -5874,7 +5874,6 @@ basilicon
 bubble
 bellyfish
 bellyful
-bastonite
 bellyfuls
 bestrews
 belligerency
@@ -8162,6 +8161,7 @@ baalish
 biconnected
 boildown
 bayberry
+bastonite
 biconsonantal
 barnburner
 biconvexity
