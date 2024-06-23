@@ -1173,6 +1173,7 @@ bakal
 biasteric
 bake
 brew
+buoys
 brawliest
 bonus
 bibliographer
@@ -5594,7 +5595,6 @@ bekiss
 bekissed
 bangy
 bekisses
-buoys
 bekko
 blowdown
 befoolment
