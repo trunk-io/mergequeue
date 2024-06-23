@@ -2922,6 +2922,7 @@ faeries
 fulfil
 fluky
 fetterlock
+forcipes
 fusarium
 forewing
 foxship
@@ -11189,7 +11190,6 @@ frenzelite
 federacies
 forepaling
 fingerwise
-forcipes
 flinter
 fungitoxic
 fluorophosphate
