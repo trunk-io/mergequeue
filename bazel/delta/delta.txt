@@ -6406,6 +6406,7 @@ delint
 daltonism
 dermis
 dermises
+drawbores
 dryopteris
 dermoblast
 dysrhythmia
@@ -16796,7 +16797,6 @@ detritivorous
 dichroscopic
 drawbore
 deare
-drawbores
 drawcansir
 drawcard
 disconsonant
