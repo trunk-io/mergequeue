@@ -3215,7 +3215,6 @@ capitaled
 capitaling
 capitalisable
 capitalised
-capitaliser
 capitalising
 capitalist
 cynocrambaceae
@@ -8840,6 +8839,7 @@ chapellany
 chapelled
 cimnel
 cobnut
+capitaliser
 chapelling
 commonplaces
 chapelman
