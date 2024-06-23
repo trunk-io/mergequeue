@@ -3416,7 +3416,6 @@ chunkier
 caprifig
 caprifole
 caprifoliaceae
-caprifoliaceous
 caprifolium
 capriform
 caprigenous
@@ -16866,6 +16865,7 @@ cymtia
 cataclysms
 clubable
 charleston
+caprifoliaceous
 calciphylactically
 clofibrate
 clubbed
