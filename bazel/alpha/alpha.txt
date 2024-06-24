@@ -6161,7 +6161,6 @@ agminated
 agnails
 agnat
 agnatha
-adiaphoresis
 agnate
 agnathic
 agnathostomata
@@ -12720,6 +12719,7 @@ angelship
 angeluses
 anger
 angered
+adiaphoresis
 angering
 advocateship
 awed
