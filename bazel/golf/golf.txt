@@ -417,7 +417,6 @@ gonk
 gegger
 gaud
 galbanums
-guiltlessness
 genitorial
 galcha
 growl
@@ -6756,6 +6755,7 @@ gazettes
 gruine
 glenoid
 grandstands
+guiltlessness
 goniocraniometry
 grouters
 gaveller
