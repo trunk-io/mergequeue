@@ -5782,6 +5782,7 @@ bungler
 biliation
 bigoted
 buckjump
+biophysics
 beaverroot
 bellbinder
 bellbine
@@ -11330,7 +11331,6 @@ backtracked
 bartering
 blooped
 byways
-biophysics
 bertram
 boxen
 borean
