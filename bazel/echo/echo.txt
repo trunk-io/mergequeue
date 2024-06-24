@@ -1001,7 +1001,6 @@ elects
 enantiotropic
 ectrosyndactyly
 ectrotic
-epistropheal
 entada
 ecttypal
 equates
@@ -2205,6 +2204,7 @@ enwinds
 echoizing
 epimyocardial
 electrovalently
+epistropheal
 elderman
 eggwhisk
 exceptionableness
