@@ -5860,7 +5860,6 @@ guesstimates
 glottid
 glottides
 galeenies
-guttling
 glottiscope
 gangways
 garlicky
@@ -8647,6 +8646,7 @@ gorsechat
 greekish
 grecism
 gawkier
+guttling
 germiniparous
 grege
 greekize
