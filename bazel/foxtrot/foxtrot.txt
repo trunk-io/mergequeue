@@ -4847,6 +4847,7 @@ formative
 fainer
 floribunda
 fossores
+finlet
 fatagaga
 factorylike
 fockle
@@ -10534,7 +10535,6 @@ flagella
 fourling
 floristry
 firemen
-finlet
 furciferous
 frowl
 fierily
