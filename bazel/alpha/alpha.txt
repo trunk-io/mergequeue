@@ -7702,7 +7702,6 @@ alcmene
 alco
 antimerger
 alcoate
-atterrate
 alchemical
 alcogene
 ascogonium
@@ -15424,6 +15423,7 @@ ansel
 antilibration
 antilife
 afforcement
+atterrate
 antisepticised
 antilift
 antiliquor
