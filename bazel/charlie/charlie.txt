@@ -8800,7 +8800,6 @@ chapanec
 cartboot
 chapapote
 coto
-chaparajos
 chaparejos
 chaparral
 chaparrals
@@ -11009,6 +11008,7 @@ caecum
 chironomid
 chironomidae
 caissoned
+chaparajos
 coinhabit
 chironomus
 cosmologies
