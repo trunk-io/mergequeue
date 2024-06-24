@@ -14147,7 +14147,6 @@ antennular
 antennule
 antenodal
 also
-antenoon
 antenor
 antenumber
 antimonarchic
@@ -14775,6 +14774,7 @@ aeroview
 antibug
 avouches
 antibusing
+antenoon
 anticachectic
 anticalcimine
 anticalculous

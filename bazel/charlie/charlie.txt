@@ -1365,7 +1365,6 @@ chantages
 califs
 caliga
 caligate
-caligated
 caligation
 caliginosity
 caliginous
@@ -14342,6 +14341,7 @@ circumincession
 circuminsession
 circuminsular
 creoles
+caligated
 circumintestinal
 circumitineration
 colostomy
