@@ -2575,6 +2575,7 @@ cane
 corneum
 cliffing
 canebrake
+cementmaking
 canebrakes
 cephalodynia
 cowskins
@@ -6959,7 +6960,6 @@ cementitious
 cementlike
 carinaria
 cementmaker
-cementmaking
 catapan
 candidly
 cementoblast
