@@ -9459,6 +9459,7 @@ bathroom
 backarrow
 birchwood
 bindweb
+buzzy
 barcaroles
 beaverkill
 birdbander
@@ -11268,7 +11269,6 @@ bloodiness
 blooding
 balanic
 bolography
-buzzy
 blunker
 benevolently
 bloodletter
