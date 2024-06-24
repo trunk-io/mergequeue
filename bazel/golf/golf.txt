@@ -3508,7 +3508,6 @@ glycolipid
 girding
 gibel
 galgal
-getae
 gether
 gaspar
 getling
@@ -8909,6 +8908,7 @@ griddled
 ganta
 gothicity
 griddles
+getae
 gruft
 griddling
 gaieties
