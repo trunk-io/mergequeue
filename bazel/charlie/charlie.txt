@@ -6405,6 +6405,7 @@ collocationable
 colius
 cautioner
 cautioners
+cienega
 cautiones
 canard
 cautious
@@ -13519,7 +13520,6 @@ cydonia
 cydonian
 cydonium
 cie
-cienega
 cierge
 coagencies
 cierzo
