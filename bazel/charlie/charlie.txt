@@ -2687,6 +2687,7 @@ cannoneering
 cankering
 cankerroot
 cankers
+comedowns
 clubmen
 coff
 combinatorics
@@ -19823,7 +19824,6 @@ coagulate
 comedo
 comedown
 catacumbal
-comedowns
 comely
 comelier
 comeling
