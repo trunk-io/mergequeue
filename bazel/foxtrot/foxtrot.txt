@@ -7304,7 +7304,6 @@ fearnaught
 frampold
 floressence
 forswearer
-fair
 flagellant
 forbearing
 fulcrum
@@ -9381,6 +9380,7 @@ fidelity
 functionary
 fascia
 fummle
+fair
 franklandite
 fastenings
 fowk
