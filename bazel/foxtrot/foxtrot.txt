@@ -3821,7 +3821,6 @@ furnitureless
 fils
 foretimes
 fashional
-filterability
 flexibilty
 filterableness
 facette
@@ -8628,6 +8627,7 @@ forsar
 forsythia
 fontinalis
 feignedness
+filterability
 fuzes
 foeticide
 figurial
