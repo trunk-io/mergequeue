@@ -13577,7 +13577,6 @@ derider
 disgood
 diphyodont
 disseating
-dissect
 dissectible
 dissection
 dissections
@@ -14536,6 +14535,7 @@ dionymal
 divisible
 debilitations
 division
+dissect
 durango
 dollop
 duckwife
