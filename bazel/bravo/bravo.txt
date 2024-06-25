@@ -3577,6 +3577,7 @@ beckoning
 backsplice
 bridgekeeper
 bathyplankton
+balon
 baygall
 byronish
 bathyscaphes
@@ -11629,7 +11630,6 @@ buckaroos
 blunket
 blunnen
 blunt
-balon
 befuddlements
 blunthearted
 badinaged
