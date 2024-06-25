@@ -6217,7 +6217,6 @@ executable
 enoplan
 enorm
 exhortator
-ethologist
 enorn
 enos
 enosis
@@ -10919,6 +10918,7 @@ eutectic
 euphonetics
 emphractic
 electrothanasia
+ethologist
 euphonically
 epizoism
 exmoor
