@@ -19705,7 +19705,6 @@ comanche
 comanchean
 chlordan
 comanches
-comandante
 comandantes
 comandanti
 cutis
@@ -21433,6 +21432,7 @@ conclaves
 coccous
 concludable
 copyrighted
+comandante
 concluded
 concludent
 concludently
