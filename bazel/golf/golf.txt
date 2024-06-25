@@ -2293,7 +2293,6 @@ gallantry
 gradation
 glasswort
 gluttonised
-geyerite
 gospeller
 gangrel
 glamoury
@@ -2688,6 +2687,7 @@ gup
 gynecologists
 gardeviance
 geneura
+geyerite
 genevan
 grabbing
 gadgets
