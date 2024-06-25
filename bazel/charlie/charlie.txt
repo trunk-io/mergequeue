@@ -20396,7 +20396,6 @@ commutant
 comforted
 commutated
 commutation
-commutative
 commutatively
 carpogone
 commutativity
@@ -26384,6 +26383,7 @@ cotarius
 calander
 cotbetty
 centipedal
+commutative
 cotch
 coteaux
 coted
