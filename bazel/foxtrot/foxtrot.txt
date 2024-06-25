@@ -5038,6 +5038,7 @@ ferries
 fungate
 forekeel
 flanque
+frenzying
 faithbreaker
 faconne
 flapdock
@@ -7870,7 +7871,6 @@ forerequest
 foredates
 flapperdom
 flannelbush
-frenzying
 forerun
 fname
 factiousness
