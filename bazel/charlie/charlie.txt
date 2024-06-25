@@ -7731,6 +7731,7 @@ cerianthidae
 cervelases
 convolvulin
 cerianthoid
+curtaxe
 calculable
 cerias
 chervils
@@ -19957,7 +19958,6 @@ comm
 chelydridae
 command
 commandable
-curtaxe
 commandatory
 commanded
 commandedness
