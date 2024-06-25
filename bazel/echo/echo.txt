@@ -4103,7 +4103,6 @@ emil
 entries
 emplanement
 entoilment
-emplanes
 emplaster
 elevating
 emplastic
@@ -13934,6 +13933,7 @@ extraneousness
 elytrorrhagia
 ethoxyl
 extranuclear
+emplanes
 extraofficial
 earnestly
 expertship
