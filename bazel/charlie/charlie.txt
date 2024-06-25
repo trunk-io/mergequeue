@@ -4208,7 +4208,6 @@ cardmaking
 chapbooks
 cardo
 cardol
-cardon
 cardona
 cardoncillo
 cerotype
@@ -10604,6 +10603,7 @@ chilina
 cordonazo
 comprehension
 chilion
+cardon
 cirsocele
 cymbocephaly
 chilipepper
