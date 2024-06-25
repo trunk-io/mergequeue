@@ -7904,7 +7904,6 @@ cervicofacial
 cervicolabial
 croh
 crystal
-crankplate
 cervicomuscular
 camphines
 cerviconasal
@@ -9398,6 +9397,7 @@ chauffer
 chauffers
 chauffeured
 chauffeuring
+crankplate
 chauffeurship
 chousingha
 chauffeuse
