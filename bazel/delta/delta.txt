@@ -1970,7 +1970,6 @@ disedify
 deadhouse
 disyllabism
 deburr
-deterred
 drunks
 divulgatory
 doated
@@ -4138,6 +4137,7 @@ disbosoms
 dislikelihood
 duologue
 deliberateness
+deterred
 dismalest
 deliberations
 deliberators
