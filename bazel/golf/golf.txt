@@ -1281,7 +1281,6 @@ goodship
 geneki
 griffes
 grimier
-gesture
 gapping
 grex
 galvaniser
@@ -6634,6 +6633,7 @@ ghettos
 glottalization
 ground
 geology
+gesture
 gambeson
 gomphocarpus
 garbless
