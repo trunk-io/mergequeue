@@ -9903,6 +9903,7 @@ bystreet
 bystreets
 bistres
 brights
+borg
 bewitching
 bistriate
 brainache
@@ -13159,7 +13160,6 @@ beblubber
 boresome
 backblocks
 buffeting
-borg
 borghalpenny
 beryls
 borghi
