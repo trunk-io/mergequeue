@@ -8266,6 +8266,7 @@ chairmender
 chairpersons
 chairs
 chairway
+cryptogamian
 conjunctivae
 chairwarmer
 chairwomen
@@ -29306,7 +29307,6 @@ cryptogam
 carbazin
 cryptogame
 cryptogamy
-cryptogamian
 cryptogamic
 cryptogamical
 cryptogamist
