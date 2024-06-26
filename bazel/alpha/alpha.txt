@@ -6035,6 +6035,7 @@ anapophysis
 avestruz
 agility
 auxotrophic
+antemortal
 agilities
 agynarious
 avdp
@@ -14132,7 +14133,6 @@ antemeridian
 antemetallic
 antemillennial
 antemingent
-antemortal
 antemundane
 antenave
 antennae
