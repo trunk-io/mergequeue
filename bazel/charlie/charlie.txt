@@ -7299,7 +7299,6 @@ centrosymmetric
 countians
 centrosymmetrical
 centrosoyus
-centrosome
 centrosomic
 centrosphere
 casuistical
@@ -15496,6 +15495,7 @@ clapping
 claps
 consecratedness
 clapstick
+centrosome
 clapt
 chicane
 claptraps
