@@ -3746,6 +3746,7 @@ battles
 battleships
 barrace
 buhr
+behooveful
 brahui
 battlesome
 brigantes
@@ -5503,7 +5504,6 @@ bahmani
 bootid
 behoof
 baronets
-behooveful
 behoovefulness
 behooves
 behooving
