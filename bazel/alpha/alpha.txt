@@ -4228,7 +4228,6 @@ adornment
 armamentaria
 adornments
 adornos
-arrivage
 attestation
 argentation
 automorph
@@ -20305,6 +20304,7 @@ asepticizing
 allmouth
 arriere
 argand
+arrivage
 acidifies
 arriero
 arriet
