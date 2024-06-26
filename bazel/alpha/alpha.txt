@@ -6849,7 +6849,6 @@ airlifting
 airlifts
 airlike
 airline
-airliner
 airlines
 airling
 aerognosy
@@ -13648,6 +13647,7 @@ annunciations
 annus
 ansated
 anoa
+airliner
 anoas
 aglet
 acaulous
