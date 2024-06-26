@@ -3066,7 +3066,6 @@ ellipticity
 extemporize
 elliptograph
 elliptoid
-electrum
 extraparietal
 eke
 ells
@@ -6919,6 +6918,7 @@ entomosporium
 endangered
 effluents
 entomostraca
+electrum
 epispore
 enramada
 equipluve
