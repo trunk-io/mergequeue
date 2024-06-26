@@ -3081,7 +3081,6 @@ amberous
 actinophryan
 adonize
 actinophrys
-actinopod
 actinopraxis
 actinopteran
 actinopteri
@@ -8731,6 +8730,7 @@ allergies
 arrhythmous
 atheology
 ankylotome
+actinopod
 allergin
 allergists
 agrements
