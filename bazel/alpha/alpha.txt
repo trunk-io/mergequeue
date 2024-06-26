@@ -4229,7 +4229,6 @@ adornment
 armamentaria
 adornments
 adornos
-adorns
 arrivage
 attestation
 argentation
@@ -21548,6 +21547,7 @@ aspirers
 ammoresinol
 abboccato
 aureal
+adorns
 aspiringly
 anabata
 accoucheurs
