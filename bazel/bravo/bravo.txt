@@ -4054,7 +4054,6 @@ bivalvous
 bueno
 beamhouse
 boogymen
-beamy
 bibliophobe
 backbreaker
 bedolt
@@ -8734,6 +8733,7 @@ bearskin
 billfolds
 burel
 billholder
+beamy
 boopic
 ballaton
 bimillenial
