@@ -9151,7 +9151,6 @@ assortative
 ametropic
 allwhere
 accipitres
-allwhither
 applejack
 allwork
 allworthy
@@ -18605,6 +18604,7 @@ arborescently
 arango
 azofier
 amyotaxia
+allwhither
 arboresque
 arboret
 arbory
