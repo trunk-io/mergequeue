@@ -5309,6 +5309,7 @@ beggingly
 beghard
 backstab
 begiggle
+buoyancies
 barretries
 bhuts
 begild
@@ -12821,7 +12822,6 @@ boxty
 breviate
 barging
 brunches
-buoyancies
 booklear
 broomy
 brandishing
