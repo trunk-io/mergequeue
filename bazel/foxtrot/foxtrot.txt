@@ -8786,6 +8786,7 @@ flaxes
 female
 fidel
 fearable
+frameableness
 friss
 feucht
 flysch
@@ -8795,7 +8796,6 @@ fossil
 frigorimeter
 fossildom
 flushgate
-frameableness
 fossilism
 fleeringly
 fossilizing
