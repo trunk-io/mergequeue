@@ -16904,6 +16904,7 @@ clubhand
 clubhands
 cerebralgia
 clubhaul
+correctant
 confirmity
 caravanned
 clubhauled
@@ -25713,7 +25714,6 @@ correct
 colluvies
 carboloy
 correctable
-correctant
 corrected
 complainingness
 correctest
