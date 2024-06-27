@@ -4626,7 +4626,6 @@ dendrite
 demigod
 decern
 demigoddess
-demigrate
 demigriffin
 distraughted
 devocation
@@ -12341,6 +12340,7 @@ driblet
 duplicities
 documentor
 denitration
+demigrate
 disenabling
 diaconia
 dextrotropic
