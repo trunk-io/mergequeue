@@ -2906,7 +2906,6 @@ barrelhouses
 barreling
 blanco
 bited
-bantings
 bipennated
 broad
 barrelled
@@ -8468,6 +8467,7 @@ bedstock
 bigheaded
 beet
 brusque
+bantings
 bigheads
 bumpkinet
 bonefishes
