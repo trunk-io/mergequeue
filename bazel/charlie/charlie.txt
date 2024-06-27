@@ -13249,7 +13249,6 @@ cicatrizer
 cicatrizing
 cicelies
 ciceronage
-cicerone
 ciceroni
 ciceronian
 coccygotomy
@@ -26337,6 +26336,7 @@ chacoli
 costopleural
 costopneumopexy
 collusiveness
+cicerone
 costosternal
 costothoracic
 costotome
