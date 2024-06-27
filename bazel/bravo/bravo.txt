@@ -525,7 +525,6 @@ ballyhooing
 backtenter
 beggingwise
 backtracking
-balian
 backtracks
 backout
 babies
@@ -10875,6 +10874,7 @@ box
 bark
 broilery
 brazes
+balian
 blueback
 bandfish
 bogijiab
