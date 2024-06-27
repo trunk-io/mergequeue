@@ -1339,6 +1339,7 @@ effaceable
 effaced
 elliptical
 effacers
+encapsules
 effare
 exumbrellar
 effect
@@ -4445,7 +4446,6 @@ encapsulation
 emitted
 encapsuled
 estimators
-encapsules
 enure
 encapsuling
 encaptivate
