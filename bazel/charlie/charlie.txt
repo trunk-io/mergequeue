@@ -9908,7 +9908,6 @@ chemiotaxis
 chemiotropic
 chemiotropism
 chemiphotic
-chemis
 chemise
 crinet
 chemisette
@@ -29277,6 +29276,7 @@ christmasberry
 counterplease
 conjugational
 cryptocerata
+chemis
 cryptocerous
 confessarius
 cryptoclastic
