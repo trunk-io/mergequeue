@@ -6225,7 +6225,6 @@ abrim
 agon
 agonal
 aurorae
-agoniada
 atellan
 activable
 audile
@@ -19688,6 +19687,7 @@ aridian
 aridity
 analogies
 antidiffuser
+agoniada
 aridities
 afghanis
 ariegite
