@@ -1929,7 +1929,6 @@ fitly
 federalistic
 flichter
 furling
-foresheet
 federalists
 friable
 fangot
@@ -4377,6 +4376,7 @@ framed
 falchions
 fellers
 fishbowls
+foresheet
 forky
 fisheyes
 forecomingness
