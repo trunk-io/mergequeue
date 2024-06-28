@@ -21,6 +21,7 @@ cabaletta
 cestas
 cardplaying
 cabalisms
+caragheen
 castratory
 cnicus
 cabalist
@@ -3633,7 +3634,6 @@ cocineras
 caragana
 caraganas
 carageens
-caragheen
 chromatography
 caraibe
 caraipa
