@@ -1078,7 +1078,6 @@ abulias
 accolent
 apt
 abumbrellar
-ayudante
 anjan
 albertustaler
 abuna
@@ -14108,6 +14107,7 @@ acropathology
 antehypophysis
 aedoeagus
 antehistoric
+ayudante
 aeolopantalon
 acrostolion
 antejudiciary

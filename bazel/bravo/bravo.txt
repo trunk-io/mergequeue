@@ -6657,6 +6657,7 @@ boniform
 burmese
 bereshith
 beresite
+blithebread
 beret
 berets
 beretta
@@ -17686,7 +17687,6 @@ bonsai
 bellipotent
 burke
 burked
-blithebread
 beliquor
 burker
 bride
