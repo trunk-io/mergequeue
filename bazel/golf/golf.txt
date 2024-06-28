@@ -2097,6 +2097,7 @@ gangboard
 gubbertush
 gigging
 gawk
+goggles
 grubs
 gerberia
 geobotanist
@@ -5835,7 +5836,6 @@ goldweed
 grecizes
 gorling
 gunfighter
-goggles
 glossoptosis
 giraffes
 giantisms
