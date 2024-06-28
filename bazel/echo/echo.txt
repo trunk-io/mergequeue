@@ -5824,7 +5824,6 @@ engraftment
 emagram
 engrafts
 engrailed
-encyrtid
 epizoicide
 engrainer
 engraining
@@ -13543,6 +13542,7 @@ ethmoiditis
 enneads
 escheating
 enjoinder
+encyrtid
 embroiders
 enteroceptor
 erugation
