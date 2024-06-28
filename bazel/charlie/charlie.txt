@@ -9315,7 +9315,6 @@ chastisable
 chastise
 chastiser
 clapperboard
-corf
 chastity
 chastities
 chasuble
@@ -24948,6 +24947,7 @@ coralline
 curricle
 cuichunchulli
 charac
+corf
 caoutchouc
 corallium
 coralloid
