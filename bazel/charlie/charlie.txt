@@ -577,7 +577,6 @@ cadua
 colloque
 confort
 caduac
-cruiseway
 chirographic
 caduca
 catalineta
@@ -14887,6 +14886,7 @@ cytitis
 chamkanni
 couriers
 citywards
+cruiseway
 calocarpum
 citizen
 citizeness

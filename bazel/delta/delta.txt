@@ -5841,7 +5841,6 @@ depolarizers
 droves
 diacrisis
 debater
-depolymerization
 depolymerize
 deadpay
 depolish
@@ -9825,6 +9824,7 @@ dilatometrically
 dilator
 dynamometers
 dilatoriness
+depolymerization
 daypeep
 dreamingly
 denitrificant
