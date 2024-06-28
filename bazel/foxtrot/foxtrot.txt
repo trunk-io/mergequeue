@@ -2468,7 +2468,6 @@ ferlied
 flyflapper
 falsiteit
 fashionable
-frugivorous
 fazendeiro
 frangulinic
 ferlying
@@ -2609,6 +2608,7 @@ fluorine
 ferreous
 fences
 ferrer
+frugivorous
 fusulina
 ferreter
 freebee
