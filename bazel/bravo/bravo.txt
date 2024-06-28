@@ -793,7 +793,6 @@ bespeaker
 blake
 baffies
 bibliotist
-brickwise
 bacalao
 bafflement
 blubberhead
@@ -12280,6 +12279,7 @@ bollix
 blamable
 bollock
 beginner
+brickwise
 baromacrometer
 bolloxes
 bolls
