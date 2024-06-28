@@ -6032,6 +6032,7 @@ deprint
 disinvite
 depriorize
 disorderedness
+drawability
 dysmerism
 deprivable
 degrader
@@ -16795,7 +16796,6 @@ diplomate
 dravite
 draw
 dongon
-drawability
 disreputation
 diarrhoeic
 disorganized

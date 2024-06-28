@@ -4909,6 +4909,7 @@ bobac
 burrowstown
 beef
 beefalo
+boyo
 beefaloes
 bloodedness
 brimmered
@@ -12156,7 +12157,6 @@ bladdernose
 brackishness
 boilover
 boils
-boyo
 boyology
 battiest
 babajaga
