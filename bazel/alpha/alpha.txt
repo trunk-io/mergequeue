@@ -11768,7 +11768,6 @@ analeptic
 anthidium
 analgesics
 apportion
-analgesist
 analgetic
 analgia
 anticephalalgic
@@ -18382,6 +18381,7 @@ augen
 arachis
 arraigner
 almoners
+analgesist
 adenasthenia
 arsenyl
 anatomiless

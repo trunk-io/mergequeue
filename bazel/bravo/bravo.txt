@@ -833,7 +833,6 @@ bagasses
 bruxisms
 beflags
 boohoos
-bleachs
 blackboards
 backband
 bootblack
@@ -4627,6 +4626,7 @@ bedecking
 bankfull
 basifixed
 bedehouse
+bleachs
 bedehouses
 bedelve
 barmiest
