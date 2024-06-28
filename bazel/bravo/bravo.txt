@@ -3703,7 +3703,6 @@ basisolute
 battener
 balladising
 batteners
-battens
 bankrupted
 batter
 batterdock
@@ -6358,6 +6357,7 @@ benward
 baulk
 brigalow
 birdliming
+battens
 benzacridine
 benzalacetone
 benzalacetophenone
