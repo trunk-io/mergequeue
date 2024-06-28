@@ -1859,7 +1859,6 @@ dynameter
 douvecot
 dorsale
 deblai
-deblaterate
 deblateration
 deblock
 dijudicate
@@ -18074,6 +18073,7 @@ dulling
 derail
 dullishly
 drometer
+deblaterate
 dullity
 disgaveling
 droned
