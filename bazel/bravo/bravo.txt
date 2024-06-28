@@ -3607,7 +3607,6 @@ bibliognost
 bathroomed
 broadthroat
 bathrooms
-bathroot
 bazigar
 babas
 ballyragging
@@ -4551,6 +4550,7 @@ befogged
 blastodisk
 beglamour
 bed
+bathroot
 bater
 bool
 blotters
