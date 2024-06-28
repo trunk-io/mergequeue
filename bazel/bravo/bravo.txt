@@ -7941,6 +7941,7 @@ bibio
 bibionid
 barbitalism
 bibiri
+bartizan
 bibitory
 bible
 bohmite
@@ -9122,7 +9123,6 @@ bronzen
 bioinstrument
 biolinguistics
 belted
-bartizan
 biolyses
 bouleverse
 beneficium
