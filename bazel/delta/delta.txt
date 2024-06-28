@@ -7172,7 +7172,6 @@ dolthead
 diagnostic
 destruct
 destructibility
-dicoccous
 destruction
 dividual
 destructions
@@ -12930,6 +12929,7 @@ dryope
 disnaturalization
 disnatured
 disnew
+dicoccous
 dulcineas
 drachmae
 drawspan
