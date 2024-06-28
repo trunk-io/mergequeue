@@ -12803,7 +12803,6 @@ angioparalytic
 aboardage
 angioparesis
 angiopathy
-agnosis
 aeneolithic
 angioplany
 angioplasty
@@ -18778,6 +18777,7 @@ aridge
 autocephality
 alibies
 archbishopry
+agnosis
 archbishopric
 acroamata
 archbishoprics
