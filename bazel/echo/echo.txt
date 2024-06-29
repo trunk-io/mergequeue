@@ -2893,7 +2893,6 @@ electrotelethermometer
 elf
 elfenfolk
 epinard
-elfins
 elfinwood
 echinidea
 enflamed
@@ -12374,6 +12373,7 @@ erodibility
 exhalents
 enchytrae
 exhales
+elfins
 eightieths
 erythrocatalysis
 elderbrotherhood
