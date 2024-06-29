@@ -3259,6 +3259,7 @@ casimere
 capitations
 cyclotomy
 capitatum
+cystenchyme
 capite
 capitellar
 capitellate
@@ -14664,7 +14665,6 @@ cyclolith
 cohanims
 cystelcosis
 cystenchyma
-cystenchyme
 cosmologic
 cistercian
 choppy
