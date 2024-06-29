@@ -6806,7 +6806,6 @@ entitle
 eria
 elixed
 evangelistarion
-englished
 eggheads
 entitling
 entoblastic
@@ -8818,6 +8817,7 @@ erythrorrhexis
 eradicable
 enticement
 eradicant
+englished
 eradicated
 embossable
 enround

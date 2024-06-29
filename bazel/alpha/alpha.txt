@@ -3613,7 +3613,6 @@ adenohypophyseal
 atry
 adenoidal
 adenoidectomy
-adenoidism
 adroitest
 adenolymphocele
 asexualized
@@ -10543,6 +10542,7 @@ amie
 acetal
 amyelencephalous
 apomictically
+adenoidism
 aviator
 automatism
 amyelia
