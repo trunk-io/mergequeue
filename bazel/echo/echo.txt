@@ -2220,6 +2220,7 @@ elderwoman
 exterminating
 eldest
 eventuate
+end
 eldrich
 eldritch
 eulogy
@@ -4899,7 +4900,6 @@ expiating
 experientialist
 ephyrula
 eyednesses
-end
 enterocoelic
 electrodialysis
 endable
