@@ -2660,7 +2660,6 @@ decoloring
 deforce
 darkening
 decolorising
-defatted
 dispose
 demises
 decolors
@@ -9969,6 +9968,7 @@ dimethoxy
 donatistical
 dropworts
 descents
+defatted
 diplodocuses
 dermatoptic
 drear
