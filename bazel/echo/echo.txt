@@ -5465,6 +5465,7 @@ enemyship
 energeia
 energesis
 energetic
+electrochronographic
 epilobium
 expansively
 eths
@@ -8180,7 +8181,6 @@ epirhizous
 epicoelia
 elderling
 emphatic
-electrochronographic
 emblemish
 elongate
 exothermicity
