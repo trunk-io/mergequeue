@@ -3888,6 +3888,7 @@ eclogues
 equivote
 electrotonus
 extraboldface
+entogenous
 eminencies
 evendown
 eminent
@@ -5124,7 +5125,6 @@ existentialistic
 enterocoel
 endocrinology
 emergencies
-entogenous
 ecdysones
 eisell
 endocrinopathic
