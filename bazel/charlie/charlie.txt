@@ -5287,7 +5287,6 @@ cassandras
 cassapanca
 cassare
 coachwood
-cassareep
 cassata
 cassatas
 coalitions
@@ -19835,6 +19834,7 @@ chelydridae
 comedo
 comedown
 catacumbal
+cassareep
 comely
 comelier
 comeling
