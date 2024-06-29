@@ -4713,7 +4713,6 @@ carouse
 caroused
 carousel
 carousels
-carousers
 carp
 carpaine
 carpalia
@@ -11281,6 +11280,7 @@ chloranthaceae
 craniopagus
 chloranthaceous
 calvinists
+carousers
 chloranthy
 caules
 constuprate
