@@ -6311,6 +6311,7 @@ favosite
 factory
 fluigram
 filestatus
+forepoling
 frankincensed
 flybelts
 fisticuffery
@@ -6437,7 +6438,6 @@ foot
 filamentous
 financiered
 frippet
-forepoling
 fluorobenzene
 fructifies
 foreship
