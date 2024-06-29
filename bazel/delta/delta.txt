@@ -1037,7 +1037,6 @@ disjuncts
 darn
 darndest
 dishlike
-darneder
 darnels
 dishes
 deas
@@ -12457,6 +12456,7 @@ disposable
 dishevelled
 dichopodial
 dishevelling
+darneder
 dishevelment
 delomorphic
 dismissingly
