@@ -6823,7 +6823,6 @@ filla
 finmark
 fungin
 foretokening
-furan
 forewonted
 freelancer
 folderols
@@ -7378,6 +7377,7 @@ forestland
 foolisher
 flavorsomeness
 fighter
+furan
 fasciculus
 featherwood
 forceless
