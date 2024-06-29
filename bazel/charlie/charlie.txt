@@ -16222,7 +16222,6 @@ climatius
 climatize
 climatographical
 climatology
-climatologic
 climatological
 conductitious
 crenulated
@@ -30765,6 +30764,7 @@ christmastide
 childbeds
 chousing
 culett
+climatologic
 culeus
 culices
 culiciform
