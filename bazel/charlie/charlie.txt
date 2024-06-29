@@ -11727,7 +11727,6 @@ charoset
 chariotee
 chappow
 columbanian
-coral
 cholesterinic
 cholesterol
 clepsydrae
@@ -24369,6 +24368,7 @@ cookout
 craniophore
 conjury
 cookroom
+coral
 caverning
 caritas
 cookshop
