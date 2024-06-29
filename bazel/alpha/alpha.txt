@@ -16967,7 +16967,6 @@ abridged
 apigenin
 apii
 apikores
-apikorsim
 apili
 apprehender
 apimanias
@@ -22288,6 +22287,7 @@ abound
 astrodome
 apoplectical
 astrogated
+apikorsim
 astrogating
 agreeing
 astrogation
