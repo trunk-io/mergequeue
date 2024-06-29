@@ -3993,7 +3993,6 @@ evangelise
 endosarcode
 empanelling
 empanels
-emanant
 empaper
 ecumene
 emparchment
@@ -4161,6 +4160,7 @@ elaterium
 elaborator
 enchronicle
 escaloped
+emanant
 excellencies
 encallow
 extraessentially
