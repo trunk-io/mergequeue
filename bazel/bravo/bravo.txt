@@ -4468,6 +4468,7 @@ beclogs
 bretonian
 bilabials
 beclothe
+bhili
 beclothes
 blushwort
 buriels
@@ -6418,7 +6419,6 @@ bursera
 blunderingly
 birdwise
 brendan
-bhili
 blossoming
 beadiness
 benzylamine
