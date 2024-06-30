@@ -1960,7 +1960,6 @@ bdls
 bacteriophage
 bandwidth
 bandwidths
-bandwork
 bagginess
 bandworm
 boogiewoogie
@@ -17459,6 +17458,7 @@ bunkers
 beard
 bewearying
 bunkie
+bandwork
 buffi
 boccies
 bunking
