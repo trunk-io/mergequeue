@@ -956,7 +956,6 @@ extrastate
 ectosphenotic
 electrostrictive
 eugenist
-excantation
 excommunicators
 endosporous
 ectostosis
@@ -5422,6 +5421,7 @@ electronvolt
 exarchist
 endowment
 entypies
+excantation
 eviscerating
 endpoints
 excoecaria
