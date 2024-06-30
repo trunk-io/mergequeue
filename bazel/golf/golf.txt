@@ -4490,7 +4490,6 @@ gyppery
 gyp
 gyps
 greffier
-greable
 griskin
 gipsy
 goyle
@@ -7398,6 +7397,7 @@ gyve
 gordolobo
 ghosty
 galbulidae
+greable
 gynecophore
 gou
 gyrometer
