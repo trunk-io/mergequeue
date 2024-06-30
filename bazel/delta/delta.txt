@@ -1786,6 +1786,7 @@ debarking
 discede
 debarkment
 debarment
+dialogic
 debarrance
 derogation
 debarring
@@ -8507,7 +8508,6 @@ dialog
 downsize
 dialogers
 dialogged
-dialogic
 deconcentrator
 deported
 darted
