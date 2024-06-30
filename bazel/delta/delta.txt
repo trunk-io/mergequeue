@@ -1227,7 +1227,6 @@ datemark
 dentalise
 drivelers
 durational
-dater
 daterman
 dates
 datil
@@ -15749,6 +15748,7 @@ dorippid
 doris
 diaxonic
 disyntheme
+dater
 disseated
 dicht
 drubbly
