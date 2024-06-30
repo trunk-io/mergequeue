@@ -9029,7 +9029,6 @@ allotriomorphic
 allotriophagy
 ambulomancy
 allotriophagia
-allotriuria
 allotropy
 allotropic
 ailanthus
@@ -20319,6 +20318,7 @@ arrogant
 arrogantly
 arrogated
 alaloi
+allotriuria
 afocal
 arrogates
 atmospheric
