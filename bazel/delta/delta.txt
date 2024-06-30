@@ -6719,7 +6719,6 @@ deservers
 distinctor
 ductings
 drawarm
-dovecots
 dipneedle
 danders
 deregulates
@@ -12243,6 +12242,7 @@ deliquesce
 dwarfish
 durra
 disfrock
+dovecots
 dotards
 disfrocking
 declaratively
