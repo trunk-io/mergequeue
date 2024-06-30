@@ -4919,7 +4919,6 @@ acculturized
 aerography
 aerographical
 aerographies
-aerogun
 aerohydrodynamic
 approachment
 akaroa
@@ -22054,6 +22053,7 @@ asterospondyli
 adorno
 agnathous
 asterospondylic
+aerogun
 anerythroplastic
 asteroxylaceae
 asterozoa
