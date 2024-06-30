@@ -5902,6 +5902,7 @@ feminology
 faceless
 fastigia
 fuseau
+fdtype
 flocced
 flocci
 flagellate
@@ -7919,7 +7920,6 @@ fosteringly
 fiberglass
 faience
 fornicatory
-fdtype
 fantasticness
 fimicolous
 federalisation
