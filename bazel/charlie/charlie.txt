@@ -6839,7 +6839,6 @@ celiorrhea
 capless
 celioscope
 celiotomy
-cell
 cella
 cellarage
 cellared
@@ -24747,6 +24746,7 @@ coppices
 crepehanger
 coppin
 canyons
+cell
 copping
 croppers
 coppra
