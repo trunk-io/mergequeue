@@ -4892,6 +4892,7 @@ arenite
 areek
 aerodrome
 aerodromes
+arbitrating
 acetyltannin
 aeroelastic
 aeroelasticity
@@ -18539,7 +18540,6 @@ antihunting
 arbitraments
 arbitrariness
 arbitrate
-arbitrating
 aquamanile
 accidentalist
 alroot
