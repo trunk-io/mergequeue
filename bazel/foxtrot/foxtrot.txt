@@ -8786,7 +8786,6 @@ friss
 feucht
 flysch
 fossiform
-fastwalk
 fossil
 frigorimeter
 fossildom
@@ -9470,6 +9469,7 @@ fluidextract
 flatfootedness
 furculum
 fingerprinting
+fastwalk
 figboy
 floodometer
 fantasm
