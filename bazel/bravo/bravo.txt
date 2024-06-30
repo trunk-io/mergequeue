@@ -4282,6 +4282,7 @@ baddy
 bowpots
 belly
 bonaci
+blattariae
 ballat
 burlers
 burman
@@ -10705,7 +10706,6 @@ butyrone
 beflatter
 bourignonism
 blatta
-blattariae
 bounding
 blackbreast
 biostrome
