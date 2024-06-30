@@ -10550,7 +10550,6 @@ boyards
 beam
 barytostrontianite
 blaoner
-blaoners
 blare
 burinist
 belibeled
@@ -13276,6 +13275,7 @@ bose
 bosey
 boselaphus
 bannockburn
+blaoners
 boxboards
 bosh
 boshbok
