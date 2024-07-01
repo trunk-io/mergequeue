@@ -3110,7 +3110,6 @@ abrachias
 anatoly
 actinotherapeutics
 actinotherapy
-actinotoxemia
 actinotrichium
 actinotrocha
 actinozoa
@@ -22510,6 +22509,7 @@ ateuchi
 ateuchus
 anole
 alexipharmacon
+actinotoxemia
 actuators
 acclaimers
 athabasca
