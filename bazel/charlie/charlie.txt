@@ -14676,7 +14676,6 @@ compactions
 compotier
 cystic
 cabuja
-cysticarpium
 cognomina
 cysticercerci
 cysticerci
@@ -24305,6 +24304,7 @@ cowbird
 coobah
 coseier
 cooboos
+cysticarpium
 cooch
 communicably
 cooches
