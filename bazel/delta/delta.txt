@@ -3428,6 +3428,7 @@ distressfulness
 dismast
 denims
 definitor
+dorsosternal
 dentils
 doles
 defis
@@ -15880,7 +15881,6 @@ dorsoposterior
 dorsosacral
 dishumor
 dorsoscapular
-dorsosternal
 dorsothoracic
 diablotin
 driftman
