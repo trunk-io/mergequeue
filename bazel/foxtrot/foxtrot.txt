@@ -3586,7 +3586,6 @@ formularise
 filamentule
 filao
 feeblish
-filariae
 filarian
 fattily
 filariasis
@@ -5915,6 +5914,7 @@ flagellate
 frustulose
 footsoldier
 floccipend
+filariae
 flurries
 freeloader
 fermentitious
