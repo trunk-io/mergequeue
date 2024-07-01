@@ -1905,7 +1905,6 @@ acetaminol
 acetaminophen
 acetanilid
 annard
-acetanilide
 ardentness
 acetaniside
 acetars
@@ -16323,6 +16322,7 @@ above
 antiphilosophically
 arborvitae
 amylamine
+acetanilide
 ariki
 antitragal
 antitetanic
