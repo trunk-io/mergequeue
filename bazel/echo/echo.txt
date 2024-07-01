@@ -2813,6 +2813,7 @@ epipubic
 ectocornea
 ecdemic
 emitter
+exampleless
 eleomargaric
 eleoplast
 epiclesis
@@ -11714,7 +11715,6 @@ example
 excarnation
 eleemosynariness
 exosphere
-exampleless
 enactors
 escheatorship
 entwisted
