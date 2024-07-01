@@ -11178,7 +11178,6 @@ blocked
 blocker
 brid
 blockhead
-blaver
 blockheaded
 bankruptlike
 beguines
@@ -14338,6 +14337,7 @@ barcarolle
 borocitrate
 braggishly
 baccaras
+blaver
 bedirtying
 braggite
 braggle
