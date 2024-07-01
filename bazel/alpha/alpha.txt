@@ -2239,7 +2239,6 @@ australia
 achromatosis
 achromobacter
 achromoderma
-achromotrichia
 amygdalolith
 achromous
 articulability
@@ -12558,6 +12557,7 @@ archrascal
 anesthetization
 anesthetize
 anesthetized
+achromotrichia
 anesthetizes
 anestri
 anestrous
