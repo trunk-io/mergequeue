@@ -6843,7 +6843,6 @@ fado
 filla
 finmark
 fungin
-foretokening
 forewonted
 freelancer
 folderols
@@ -9116,6 +9115,7 @@ forecastors
 feuding
 foziness
 fribblish
+foretokening
 fielded
 fritz
 filial
