@@ -1069,7 +1069,6 @@ bepraisement
 bunns
 bainie
 barometrograph
-bainite
 biogenic
 bedizenment
 baioc
@@ -12310,6 +12309,7 @@ benitoite
 borocaine
 brandisher
 bemud
+bainite
 brocage
 bolstered
 bolsterer
