@@ -2211,7 +2211,6 @@ fogyisms
 foute
 flashet
 forewinning
-felt
 felting
 feltmaker
 ferbams
@@ -8603,6 +8602,7 @@ flukeless
 fingerfishes
 faddishly
 feelers
+felt
 fearfully
 forsakenness
 fledged
