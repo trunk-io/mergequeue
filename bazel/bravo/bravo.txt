@@ -10739,7 +10739,6 @@ blazonry
 blazons
 bld
 beyliks
-bothriocidaris
 bleach
 branchiosaurus
 bluebutton
@@ -16127,6 +16126,7 @@ batyphone
 brooks
 bundweed
 budget
+bothriocidaris
 bolsterers
 brookweed
 brool
