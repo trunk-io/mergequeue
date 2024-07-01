@@ -8638,7 +8638,6 @@ faze
 federating
 fields
 fortaxed
-faldstool
 foederati
 flanchard
 fortescue
@@ -8942,6 +8941,7 @@ feverwort
 favositoid
 forewoman
 fourier
+faldstool
 fourierism
 fourneau
 filly
