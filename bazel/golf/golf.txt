@@ -2061,6 +2061,7 @@ guazuti
 gavelock
 grunion
 gripple
+givenness
 gavelocks
 gavels
 gavia
@@ -9256,7 +9257,6 @@ glottological
 groenendael
 gonidiophore
 gallstone
-givenness
 genialness
 graduale
 greenland
