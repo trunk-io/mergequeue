@@ -2888,6 +2888,7 @@ fitcher
 faunae
 farmsteads
 fetching
+faveolate
 fabronia
 fluidly
 fishhouse
@@ -3091,7 +3092,6 @@ fairyology
 firemanship
 frostflower
 fibbery
-faveolate
 fibbers
 fustin
 fiber
