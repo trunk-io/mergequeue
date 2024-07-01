@@ -3544,7 +3544,6 @@ adamhood
 abreaction
 antimonite
 adelphian
-adelphic
 adelphous
 ademonist
 adempt
@@ -5599,6 +5598,7 @@ afterturn
 androspore
 armory
 arosaguntacook
+adelphic
 aphototaxis
 aftervision
 allegorising
