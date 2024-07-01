@@ -3447,7 +3447,6 @@ defleas
 deflect
 driftfishes
 disinhuming
-deflectable
 deflecting
 deflectionization
 deflectionize
@@ -13562,6 +13561,7 @@ durham
 dissaved
 dissaves
 dissaving
+deflectable
 dysgraphia
 demonomy
 disclander
