@@ -7801,7 +7801,6 @@ alectoromorphous
 aldermanate
 aldermancy
 aldermaness
-aldermanic
 archisphere
 aldermanical
 aldermanity
@@ -12060,6 +12059,7 @@ anathematise
 amices
 anathematised
 anathematising
+aldermanic
 aecial
 antambulacral
 anticonstitutionalism
