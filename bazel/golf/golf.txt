@@ -5149,7 +5149,6 @@ glassteel
 grenadine
 gisler
 goldeneye
-glassworker
 gnomish
 greesagh
 glathsheim
@@ -8670,6 +8669,7 @@ green
 gonys
 garlics
 glossectomy
+glassworker
 goldenly
 greenbackism
 girn
