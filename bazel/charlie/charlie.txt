@@ -10160,6 +10160,7 @@ chesoun
 chess
 chessboards
 counterfugue
+collab
 chessdom
 chessel
 chesser
@@ -18939,7 +18940,6 @@ colyum
 climbs
 coliuria
 colla
-collab
 csnet
 countermoving
 cornulite
