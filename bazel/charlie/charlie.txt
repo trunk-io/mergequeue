@@ -27344,7 +27344,6 @@ couping
 couple
 couplement
 coupler
-couplers
 couples
 cleric
 couplings
@@ -28503,6 +28502,7 @@ cyanites
 caroler
 cardlike
 creatininemia
+couplers
 creatinuria
 cajuputol
 crickets
