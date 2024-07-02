@@ -19949,7 +19949,6 @@ comitragedy
 coml
 conjugating
 comm
-command
 commandable
 commandatory
 commanded
@@ -20326,6 +20325,7 @@ communicative
 countrie
 communicatively
 cercospora
+command
 communicativeness
 communicatory
 communicators
