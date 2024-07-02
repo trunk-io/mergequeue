@@ -14947,7 +14947,6 @@ cytogenic
 cahill
 cytogenies
 cytoglobin
-cytohyaloplasm
 corselette
 concitizen
 cytoid
@@ -27891,6 +27890,7 @@ crabbiest
 crabbily
 crabbing
 crabcatcher
+cytohyaloplasm
 crabeating
 canchas
 craber
