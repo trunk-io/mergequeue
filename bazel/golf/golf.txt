@@ -1612,7 +1612,6 @@ globicephala
 gymnura
 gasted
 gooseweed
-gauntlet
 giltheads
 gutteral
 geropiga
@@ -6423,6 +6422,7 @@ gel
 garston
 gohila
 generics
+gauntlet
 glassworks
 goyana
 gushy
