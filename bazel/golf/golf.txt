@@ -3300,7 +3300,6 @@ germanify
 graphometrist
 graminiferous
 gloominess
-geothermometer
 germanification
 guess
 gadso
@@ -8549,6 +8548,7 @@ gametically
 genealogical
 gerontal
 grazierdom
+geothermometer
 graziers
 geobiologic
 glossagra
