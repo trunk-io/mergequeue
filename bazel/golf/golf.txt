@@ -3357,6 +3357,7 @@ germinal
 glossas
 gessamine
 gonfanons
+gluside
 guruships
 gibbar
 germinations
@@ -7577,7 +7578,6 @@ glossator
 gyving
 grabhook
 grabouche
-gluside
 gripsack
 glasgow
 gerenda
