@@ -4774,7 +4774,6 @@ enclosures
 excentral
 enterotomy
 excusatory
-encloud
 encode
 encoded
 ensnarements
@@ -12628,6 +12627,7 @@ eranthemum
 ecosphere
 elephantidae
 eulogise
+encloud
 equiaxial
 exodic
 erythrocyte
