@@ -2507,6 +2507,7 @@ begroans
 barger
 bardash
 bicycles
+bombay
 borscht
 beruffled
 barghests
@@ -12351,7 +12352,6 @@ bombable
 bombacaceae
 bombace
 behang
-bombay
 byrls
 bombardiers
 bombarding
