@@ -5492,7 +5492,6 @@ fleshhood
 froust
 foraged
 fleshy
-fleshier
 finch
 fillet
 ferally
@@ -7412,7 +7411,6 @@ forcibility
 forcibleness
 filosa
 forcibly
-forcingly
 francophone
 freckliest
 ferredoxin
@@ -7769,6 +7767,7 @@ furl
 finning
 ferrotyped
 footrail
+fleshier
 formosan
 fattiest
 fecundify
@@ -11669,6 +11668,7 @@ fundal
 fougade
 filoselle
 froglike
+forcingly
 flushable
 farasula
 flannelet
