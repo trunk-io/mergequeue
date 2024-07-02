@@ -12069,6 +12069,7 @@ disenmesh
 disenorm
 dyehouse
 dibrom
+donut
 deacon
 dissipativity
 disensanity
@@ -15590,7 +15591,6 @@ donsie
 deflocculent
 donsky
 donum
-donut
 donzel
 doubt
 disenthralment
