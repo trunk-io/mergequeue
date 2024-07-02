@@ -2512,7 +2512,6 @@ genapping
 guildite
 glottologist
 grandity
-gendarmerie
 girdlelike
 gnawings
 gotch
@@ -6877,6 +6876,7 @@ galeas
 gutwise
 genitival
 goniatitic
+gendarmerie
 gonozooid
 galactosemic
 gripman
