@@ -5530,7 +5530,6 @@ dallack
 desiccating
 disenablement
 deorsum
-deorsumvergence
 deorsumversion
 deossify
 deossification
@@ -12275,6 +12274,7 @@ disgavel
 delphinine
 ditone
 disgavelling
+deorsumvergence
 damndest
 dysgenic
 deresinate
