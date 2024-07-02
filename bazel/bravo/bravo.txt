@@ -1337,7 +1337,6 @@ bacteriophagous
 bobbles
 balboa
 bethlehem
-bookdealer
 bioplastic
 balboas
 barrowcoat
@@ -9436,6 +9435,7 @@ besogne
 buller
 bewrathed
 baroscope
+bookdealer
 bushi
 blirt
 bonniness
