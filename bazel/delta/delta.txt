@@ -6825,7 +6825,6 @@ drafts
 detachments
 desinence
 disworth
-delim
 desinent
 dallying
 desinential
@@ -7522,6 +7521,7 @@ detuning
 diastrophic
 dunderpates
 discoverably
+delim
 demobbing
 detur
 deturpate
