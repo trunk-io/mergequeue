@@ -2530,7 +2530,6 @@ embryotomy
 electrometallurgist
 emptiable
 ennead
-electrometer
 exstrophy
 earthgrubber
 ecstrophy
@@ -11889,6 +11888,7 @@ eightfoil
 ectoderms
 enragement
 essoins
+electrometer
 ensuite
 extemporizing
 excerebration

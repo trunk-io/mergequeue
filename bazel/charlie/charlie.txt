@@ -8312,7 +8312,6 @@ congrid
 chairmanships
 checkoff
 chairmender
-chairpersons
 chairway
 cryptogamian
 conjunctivae
@@ -12807,6 +12806,7 @@ courtesied
 countermarch
 cassone
 conventioneer
+chairpersons
 chudders
 clingingness
 countervail
