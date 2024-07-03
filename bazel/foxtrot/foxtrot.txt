@@ -84,6 +84,7 @@ fisticuffs
 felinities
 faces
 facesaving
+folkright
 flattening
 frizettes
 flowerfence
@@ -6923,7 +6924,6 @@ firetower
 ferrochromium
 formuliser
 foudroyant
-folkright
 freekirker
 flavedo
 folks
