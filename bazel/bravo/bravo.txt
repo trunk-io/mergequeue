@@ -6370,7 +6370,6 @@ boxboard
 bibs
 benzanthrone
 buhrstone
-benzdiazine
 bifarious
 bipolarize
 ballbuster
@@ -6922,6 +6921,7 @@ beseems
 beseen
 burgundian
 bazaar
+benzdiazine
 bejaundice
 bitumed
 brandywine
