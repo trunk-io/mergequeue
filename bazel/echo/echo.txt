@@ -2385,6 +2385,7 @@ enjeopard
 electrodeposition
 electrodes
 etherization
+elotherium
 electrodiagnosis
 entoblast
 esterling
@@ -4507,7 +4508,6 @@ erythrophagous
 encephalitic
 emulators
 encephalitogenic
-elotherium
 encephalographic
 ekphorize
 entosternum
