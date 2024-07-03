@@ -909,7 +909,6 @@ fracases
 feedbags
 fleawort
 fireling
-fantee
 fatheads
 featural
 flatheads
@@ -10058,6 +10057,7 @@ freedom
 foreleader
 friponerie
 forewarning
+fantee
 flagitate
 ferriferous
 fireblende
