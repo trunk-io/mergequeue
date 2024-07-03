@@ -5117,6 +5117,7 @@ denaturization
 desensitizers
 denaturizer
 dendraspis
+doomwatcher
 dendrocoelous
 dendraxon
 desiccation
@@ -15627,7 +15628,6 @@ decussating
 doomster
 defaulters
 domina
-doomwatcher
 dissentaneous
 decoders
 diversionist
