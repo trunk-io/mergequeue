@@ -11278,7 +11278,6 @@ amphiumidae
 alegar
 antixerophthalmic
 amphodarch
-amphogeny
 ampholytic
 abaff
 amphora
@@ -14722,6 +14721,7 @@ antibridal
 ageism
 antibromic
 affright
+amphogeny
 antibubonic
 aeroview
 antibug
