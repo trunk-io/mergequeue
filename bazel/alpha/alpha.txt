@@ -4024,7 +4024,6 @@ admissibility
 admission
 asci
 admissive
-antiperistasis
 automan
 admissory
 acromion
@@ -11509,6 +11508,7 @@ archhead
 after
 anility
 anacamptics
+antiperistasis
 anacanthine
 antielectron
 anacanthini
