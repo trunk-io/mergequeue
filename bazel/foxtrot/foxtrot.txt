@@ -3422,6 +3422,7 @@ fishermen
 follicles
 fiendfully
 flokite
+frameableness
 foe
 flyweights
 filtre
@@ -8782,7 +8783,6 @@ fossage
 female
 fidel
 fearable
-frameableness
 friss
 feucht
 flysch
