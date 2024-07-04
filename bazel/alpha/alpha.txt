@@ -793,7 +793,6 @@ abridges
 abridging
 abridgments
 abrin
-abrine
 abris
 abristle
 abroach
@@ -10583,6 +10582,7 @@ ampelidaceae
 amylom
 amylopectin
 amylophagia
+abrine
 amyloplast
 appertaining
 amyloplastid
