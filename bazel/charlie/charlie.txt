@@ -1299,7 +1299,6 @@ colossuses
 crawfished
 calycanth
 calycanthaceae
-calycanthaceous
 calycanthin
 calycanthine
 carious
@@ -16585,6 +16584,7 @@ coinheritance
 clogmaking
 clogwheel
 canners
+calycanthaceous
 clogwyn
 clogwood
 calvinian
