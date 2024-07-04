@@ -7915,6 +7915,7 @@ alembic
 antimedieval
 aliptteria
 alembicated
+antetype
 alembroth
 alemite
 alemmal
@@ -14219,7 +14220,6 @@ antesuperior
 arboretums
 antetemple
 assertorially
-antetype
 antetypes
 ahypnia
 antevert
