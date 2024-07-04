@@ -4998,6 +4998,7 @@ fidac
 feebleheartedly
 flammule
 flanch
+formalize
 foraminate
 flanche
 fact
@@ -6645,7 +6646,6 @@ forcement
 forecondemn
 fogey
 focalizes
-formalize
 forwander
 forwrap
 forgave
