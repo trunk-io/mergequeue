@@ -4321,7 +4321,6 @@ atelectasis
 adsmithing
 adsorb
 autochthony
-arousal
 autotriploid
 adsorbability
 adsorbable
@@ -12609,6 +12608,7 @@ angarias
 aesthesics
 angariation
 abanet
+arousal
 angaries
 aeronomist
 arcticward
