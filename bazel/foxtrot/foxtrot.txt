@@ -1054,7 +1054,6 @@ farmer
 foreprepare
 farinosel
 foussa
-fanes
 farish
 fobs
 farley
@@ -3687,6 +3686,7 @@ frangula
 feedbag
 franchisee
 foregoneness
+fanes
 fridays
 frayn
 flippancies
