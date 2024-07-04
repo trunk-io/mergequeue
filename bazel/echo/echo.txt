@@ -6376,6 +6376,7 @@ episcopize
 eprouvette
 enshrined
 enshrinement
+embars
 exornation
 enshrinements
 ephebe
@@ -11617,7 +11618,6 @@ elaterite
 epileptogenic
 exacter
 epitaphical
-embars
 exacting
 empaled
 electroirrigation
