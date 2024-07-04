@@ -7049,7 +7049,6 @@ ferinely
 farci
 floater
 foodful
-fetchers
 foodless
 fulfilled
 fatalities
@@ -8765,6 +8764,7 @@ feoffing
 fallacia
 fosite
 flunks
+fetchers
 flotillas
 fossage
 female
