@@ -13624,7 +13624,6 @@ cylindrenchyma
 cylindric
 cylindricality
 cylindrically
-cylindricalness
 cylindricity
 cylindricule
 cylindriform
@@ -21694,6 +21693,7 @@ corditis
 clerically
 condylure
 cavascope
+cylindricalness
 chondria
 counterpressure
 cimolite
