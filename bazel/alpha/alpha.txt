@@ -3522,6 +3522,7 @@ aegle
 ajivas
 adelantado
 adelantados
+administrators
 adelante
 alidade
 adelarthra
@@ -4000,7 +4001,6 @@ administrations
 administrative
 airborne
 administratively
-administrators
 administratrices
 administratrix
 adminstration
