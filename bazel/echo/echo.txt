@@ -2919,7 +2919,6 @@ electroendosmotic
 expanse
 essenianism
 evaporatively
-elicitate
 eyewinks
 elicitation
 elicitor
@@ -6981,6 +6980,7 @@ entrain
 escape
 epeus
 entrained
+elicitate
 embrocado
 entraining
 entrainment
