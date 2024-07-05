@@ -407,7 +407,6 @@ fairkeeper
 fronde
 farcy
 ficoes
-faq
 facie
 foraramina
 firetrap
@@ -3094,6 +3093,7 @@ fibred
 fibrefill
 fasciolidae
 fibreless
+faq
 fractionalization
 forensal
 fibril
