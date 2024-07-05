@@ -9495,6 +9495,7 @@ eschew
 eschewance
 eschewed
 expand
+embedment
 erysiphe
 eam
 exequatur
@@ -10805,7 +10806,6 @@ eulogiums
 eulogization
 extort
 ephemeran
-embedment
 eternalness
 extramoralist
 eigenvector
