@@ -1046,7 +1046,6 @@ busway
 basanite
 boroughmaster
 bailiwick
-beaconed
 bridler
 benzothiopyran
 brasswork
@@ -6993,6 +6992,7 @@ besiegers
 bedeman
 besin
 bromism
+beaconed
 bradyacousia
 beslap
 beslave
