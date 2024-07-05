@@ -5580,7 +5580,6 @@ fascicle
 fibbing
 felon
 fratriage
-funniness
 flancards
 flatworm
 fluctuant
@@ -8339,6 +8338,7 @@ flanning
 federalized
 forlanas
 fragrancies
+funniness
 fiduciary
 forleit
 futuristic
