@@ -16531,7 +16531,6 @@ clockbird
 comodato
 clocker
 clockhouse
-clocking
 clockings
 clockless
 cuon
@@ -25227,6 +25226,7 @@ corylus
 corymbed
 chenopodiales
 cads
+clocking
 corymbiate
 corymbiated
 corymbiferous
