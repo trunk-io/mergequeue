@@ -6346,7 +6346,6 @@ cumberlandite
 cestos
 caupones
 colobium
-caurale
 cetiosauria
 clarinda
 caus
@@ -19822,6 +19821,7 @@ cleansed
 cymotrichous
 chalehs
 carpale
+caurale
 cribrose
 crepitous
 comecrudo
