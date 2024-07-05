@@ -11532,7 +11532,6 @@ ceryl
 chocho
 chockablock
 casuary
-chocked
 chronicler
 chocking
 cockpaddle
@@ -14204,6 +14203,7 @@ cedi
 cyrano
 compend
 contretemps
+chocked
 crocodile
 coriandrol
 cleruchial
