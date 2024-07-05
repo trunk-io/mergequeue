@@ -8133,7 +8133,6 @@ epiprecoracoid
 extrude
 elegant
 euxanthate
-examples
 epipterous
 epipubis
 expostulations
@@ -9125,6 +9124,7 @@ escallop
 erythrolein
 enteromorpha
 epigrammatised
+examples
 expanded
 electrothermostatic
 ennobled
