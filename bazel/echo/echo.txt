@@ -2459,7 +2459,6 @@ electrogasdynamics
 electroharmonic
 empanelment
 electrohemostasis
-eventide
 epicleses
 endexines
 electromyographically
@@ -3410,6 +3409,7 @@ electrosynthetic
 ekename
 epochism
 epizoites
+eventide
 embellisher
 earlish
 embellishers
