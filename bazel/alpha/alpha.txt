@@ -943,7 +943,6 @@ azoflavine
 antagonisable
 absorbents
 absorbing
-absorbtion
 absorpt
 absorptiometer
 allegeable
@@ -23075,6 +23074,7 @@ attercop
 artophorion
 attery
 appulsively
+absorbtion
 atterminal
 amiantus
 attermined
