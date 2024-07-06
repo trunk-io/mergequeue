@@ -5104,7 +5104,6 @@ glassines
 glassiness
 glasslikeness
 gopher
-gourdiness
 goosefoots
 garrya
 granza
@@ -5393,6 +5392,7 @@ graph
 gammadion
 gliddery
 gipsyhood
+gourdiness
 gazella
 gigartinaceae
 gospodipoda
