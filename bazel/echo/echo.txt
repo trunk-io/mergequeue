@@ -5835,7 +5835,6 @@ erasures
 erg
 edgings
 engreaten
-ethereal
 evirtuate
 evan
 enocyte
@@ -11207,6 +11206,7 @@ ecumenicist
 etherin
 excogitative
 evaluative
+ethereal
 embourgeoisement
 evolvement
 exclusory
