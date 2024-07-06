@@ -5769,7 +5769,6 @@ clockcase
 cowpock
 caudillism
 catchline
-catchment
 catchments
 catchphrase
 catchpole
@@ -14666,6 +14665,7 @@ cissoids
 cissus
 cist
 cankerwort
+catchment
 cerilla
 cyst
 consoler
