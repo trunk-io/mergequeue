@@ -5352,7 +5352,6 @@ affrontment
 affronts
 affuse
 affusion
-affusions
 afghan
 anapnea
 afghanistan
@@ -7403,6 +7402,7 @@ albi
 aquiparous
 albian
 albicans
+affusions
 albicant
 aguamas
 autosuggestibility
