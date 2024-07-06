@@ -5043,7 +5043,6 @@ aerugo
 aerugos
 aes
 aesc
-aeschynomene
 aeschynomenous
 aesculaceous
 alliancer
@@ -22342,6 +22341,7 @@ apollinian
 astronavigator
 astronomer
 astronomy
+aeschynomene
 astronomical
 astronomically
 archin
