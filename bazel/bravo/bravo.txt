@@ -415,7 +415,6 @@ bacteriorhodopsin
 bwana
 backlit
 betipple
-biradiated
 backlog
 bailor
 backlogged
@@ -4533,6 +4532,7 @@ blastodisk
 beglamour
 bed
 burlier
+biradiated
 bathroot
 bater
 bool
