@@ -12324,7 +12324,6 @@ cupbearers
 chrysome
 chrysomelid
 chrysomyia
-chrysomonadales
 corpuscles
 chrysopa
 chrysopal
@@ -23539,6 +23538,7 @@ chace
 contestingly
 contestless
 contests
+chrysomonadales
 chinquapin
 clodding
 constatations
