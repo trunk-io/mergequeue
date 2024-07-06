@@ -2826,6 +2826,7 @@ barouni
 baroxyton
 beebread
 bawrel
+bitterbump
 buttonmold
 barrabora
 barracan
@@ -9951,7 +9952,6 @@ biplosion
 besee
 bitterbloom
 breadth
-bitterbump
 boukit
 bitterbur
 bittered
