@@ -257,7 +257,6 @@ formalising
 furmint
 freeload
 forspend
-flamethrower
 fidgets
 firm
 fluviation
@@ -4326,6 +4325,7 @@ factive
 fistulate
 fet
 firmness
+flamethrower
 funditor
 fructiferousness
 forebespeak
