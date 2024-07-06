@@ -5004,7 +5004,6 @@ foundationally
 fleetingness
 frosts
 flood
-flane
 fissureless
 flugelhorn
 flaneurs
@@ -9321,6 +9320,7 @@ frangible
 freath
 filazer
 fathoming
+flane
 flecnodal
 fewmets
 ferromagnesian
