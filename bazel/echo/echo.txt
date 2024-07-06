@@ -4873,7 +4873,6 @@ enjamb
 enterohemorrhage
 endomastoiditis
 encroachments
-encrotchet
 encrustation
 embedder
 enculturation
@@ -8765,6 +8764,7 @@ encinas
 embryotrophic
 euphonicalness
 equivelocity
+encrotchet
 eventerate
 equivocal
 extermination
