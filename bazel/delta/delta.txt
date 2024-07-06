@@ -3802,7 +3802,6 @@ defibrinize
 diallers
 dehumidified
 dehumidifier
-dehumidifiers
 disimbitter
 deadpanner
 dignosce
@@ -14927,6 +14926,7 @@ demibastion
 dermatocellulitis
 disparages
 diazoamine
+dehumidifiers
 destructive
 dodecarch
 dodecasemic
