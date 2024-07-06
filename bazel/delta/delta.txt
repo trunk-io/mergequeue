@@ -5334,6 +5334,7 @@ dilatometry
 deashes
 danaro
 disscepter
+drammer
 density
 degasifier
 densitometer
@@ -12751,7 +12752,6 @@ dubbings
 difference
 dislocability
 dosimetry
-drammer
 dustcloth
 dehydratase
 duramatral
