@@ -4182,7 +4182,6 @@ feminise
 floodtime
 firebrick
 foretokening
-folksong
 firebug
 flagstones
 fireburn
@@ -8776,6 +8775,7 @@ fossiform
 fossil
 frigorimeter
 fossildom
+folksong
 flushgate
 flagellulae
 fossilism
