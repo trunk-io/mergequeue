@@ -844,6 +844,7 @@ everliving
 enwrite
 elemicin
 epizoa
+envois
 enecate
 eral
 extradecretal
@@ -7165,7 +7166,6 @@ enshadow
 exoner
 envoy
 episterna
-envois
 envoyship
 envolume
 embarment
