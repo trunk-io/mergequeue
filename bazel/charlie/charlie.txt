@@ -11514,7 +11514,6 @@ chlorpheniramine
 chlorphenol
 carib
 caffa
-chlorpicrin
 chlorpromazine
 cheerfulsome
 ciboule
@@ -28333,6 +28332,7 @@ cratinean
 crating
 cratometer
 cratometry
+chlorpicrin
 carobs
 cratons
 cohos
