@@ -2056,7 +2056,6 @@ fogbows
 fascicule
 flaunting
 feisty
-flanging
 fairyisms
 frothiness
 flaunch
@@ -5902,6 +5901,7 @@ fangas
 flocculator
 flinted
 forril
+flanging
 filleted
 furnishings
 faits
