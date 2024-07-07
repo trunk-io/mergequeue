@@ -8314,7 +8314,6 @@ dispopularize
 dizzy
 disputableness
 dele
-diagonal
 diagonalizable
 diagonalization
 diagnosing
@@ -13390,6 +13389,7 @@ desanding
 discord
 disputes
 disputing
+diagonal
 demonstrableness
 demonological
 devouring
