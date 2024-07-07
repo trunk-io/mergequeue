@@ -5742,6 +5742,7 @@ englishism
 exhilarating
 eolipiles
 eucharistical
+excl
 esteemable
 englobe
 epigraphy
@@ -9253,7 +9254,6 @@ epistome
 enjoyment
 exerts
 etheric
-excl
 erotogenetic
 eyesome
 erotogenicity
