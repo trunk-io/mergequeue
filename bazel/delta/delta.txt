@@ -10034,7 +10034,6 @@ dimna
 dimness
 decisiveness
 dermatographism
-dimolecular
 debriefs
 dimoric
 dimorph
@@ -12030,6 +12029,7 @@ disenabled
 duplicates
 disenchant
 dowd
+dimolecular
 disenchantments
 dermaskeleton
 disenchantress
