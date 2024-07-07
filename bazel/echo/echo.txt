@@ -1014,7 +1014,6 @@ edaphon
 edaphosauria
 edaphosaurid
 exorbital
-explainability
 edaphosaurus
 explosibility
 euthanasic
@@ -10749,6 +10748,7 @@ euhemerising
 emeerate
 euhemerism
 epitomizer
+explainability
 euhemerist
 erichthus
 euhemerize
