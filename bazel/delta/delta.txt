@@ -2017,7 +2017,6 @@ decaffeinate
 decaffeinated
 depicted
 disformity
-decaffeinates
 decaffeinize
 decury
 disregardable
@@ -8403,6 +8402,7 @@ dialed
 decalobate
 dyed
 dryopithecinae
+decaffeinates
 dialycarpous
 dialin
 dialiness
