@@ -5895,7 +5895,6 @@ aggiornamenti
 assemblies
 agglomerate
 agglomerated
-acquits
 agglomerates
 agglomeratic
 agglomeration
@@ -19054,6 +19053,7 @@ archonship
 archonships
 archontia
 archoplasmic
+acquits
 archorrhagia
 aerohydropathy
 antipersonnel
