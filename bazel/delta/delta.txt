@@ -1600,6 +1600,7 @@ dicyanid
 daydreamlike
 dwellings
 dogberries
+destruct
 dimwitted
 deafly
 deafmuteness
@@ -7134,7 +7135,6 @@ diascord
 disambiguated
 dolthead
 diagnostic
-destruct
 destructibility
 dicoccous
 destruction
