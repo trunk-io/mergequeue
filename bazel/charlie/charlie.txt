@@ -9374,6 +9374,7 @@ chatelain
 chatelaine
 cordmaker
 chatelaines
+columned
 chatelainry
 corrosionproof
 conceive
@@ -19664,7 +19665,6 @@ columnates
 columnation
 crinkleroot
 crystaled
-columned
 columner
 commonalties
 carolled
