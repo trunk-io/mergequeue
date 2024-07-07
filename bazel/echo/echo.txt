@@ -4584,7 +4584,6 @@ enam
 effigies
 encharging
 enchased
-elaidinic
 exsolve
 ectochondral
 ectomesoblast
@@ -8182,6 +8181,7 @@ exedra
 enliveningly
 entosphere
 ern
+elaidinic
 episcopature
 eczemas
 emarcid
