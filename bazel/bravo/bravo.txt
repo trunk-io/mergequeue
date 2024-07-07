@@ -9332,6 +9332,7 @@ bantamweights
 blanch
 bipod
 bipods
+bolomen
 botches
 bipolarity
 bipolarization
@@ -13615,7 +13616,6 @@ bandanna
 bilskirnir
 brairo
 bigener
-bolomen
 bahaism
 bestorm
 boulework
