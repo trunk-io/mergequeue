@@ -387,6 +387,7 @@ decoder
 daintify
 daintified
 daintifying
+desiccating
 daintiness
 deregister
 daiquiri
@@ -5508,7 +5509,6 @@ deistic
 decolouriser
 deorganize
 dallack
-desiccating
 disenablement
 deorsum
 deorsumversion
