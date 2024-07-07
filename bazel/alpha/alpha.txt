@@ -13375,7 +13375,6 @@ archmarshal
 assafetida
 ankylosis
 ankylostomiasis
-ankylotia
 attacolite
 ankylotic
 allotriodontia
@@ -18437,6 +18436,7 @@ arank
 aranzada
 acceding
 arapahite
+ankylotia
 arapaho
 arapahos
 azorian
