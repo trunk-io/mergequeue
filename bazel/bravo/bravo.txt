@@ -1868,6 +1868,7 @@ bandiness
 bewend
 bevies
 belay
+bishoplike
 biostatics
 bandit
 beshrew
@@ -11192,7 +11193,6 @@ blennenteritis
 bloodcurdling
 breastband
 bloodcurdlingly
-bishoplike
 booboos
 bloodies
 barhops
