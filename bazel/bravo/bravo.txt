@@ -2849,7 +2849,6 @@ barrage
 barnmen
 banger
 barraged
-barrages
 brushland
 barraging
 bailer
@@ -3457,6 +3456,7 @@ bander
 boobook
 batable
 batad
+barrages
 bagworms
 batak
 blotlessness
