@@ -7129,7 +7129,6 @@ chromene
 center
 centerable
 centerboard
-centered
 centerer
 cannonball
 centerfold
@@ -26006,6 +26005,7 @@ chlamydoselachus
 corve
 cousiny
 corvees
+centered
 corven
 corver
 corves
