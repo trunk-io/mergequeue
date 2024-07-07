@@ -4923,6 +4923,7 @@ desmon
 denominant
 demonizing
 drame
+detecting
 demonography
 demonographies
 denature
@@ -13848,7 +13849,6 @@ dogvane
 dist
 digram
 discomposingly
-detecting
 dindle
 distain
 distaining
