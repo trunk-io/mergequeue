@@ -1906,6 +1906,7 @@ chiliarchy
 camelopardidae
 camelopards
 cataract
+constant
 camelopardus
 camelot
 cloghad
@@ -23132,7 +23133,6 @@ constabularies
 constancy
 calalu
 chastisers
-constant
 comminute
 constantan
 constantine
