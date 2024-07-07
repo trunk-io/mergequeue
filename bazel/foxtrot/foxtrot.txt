@@ -5119,6 +5119,7 @@ flashiness
 famulli
 furler
 fregit
+freeway
 flashings
 flashlight
 frizzly
@@ -5144,7 +5145,6 @@ froom
 flatlands
 fiberized
 flavoprotein
-freeway
 funebrous
 fatigued
 flatlings
