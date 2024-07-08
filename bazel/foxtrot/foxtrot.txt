@@ -8305,7 +8305,6 @@ familiars
 forkiness
 frontenis
 fightable
-forking
 flaveria
 forkless
 fledging
@@ -9436,6 +9435,7 @@ forbearingly
 familial
 fauld
 fico
+forking
 fearbabe
 fratry
 flippery
