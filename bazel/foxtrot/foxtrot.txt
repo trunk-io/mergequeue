@@ -950,6 +950,7 @@ fasola
 fourchite
 fanfishes
 finitely
+frogspawn
 flightless
 flashing
 furile
@@ -6399,7 +6400,6 @@ forefoot
 fronture
 foredooms
 formalization
-frogspawn
 fanit
 fecundatory
 formularization
