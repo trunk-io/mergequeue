@@ -2340,6 +2340,7 @@ fungiform
 furner
 foots
 falbalas
+flared
 fecula
 fenzelia
 feod
@@ -5081,7 +5082,6 @@ forthfigured
 flareback
 foramens
 fengite
-flared
 felicitated
 flareless
 fibromyectomy
