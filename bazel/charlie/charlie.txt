@@ -7410,7 +7410,6 @@ compartner
 codbank
 cantalite
 cephalagra
-computus
 cephalanthium
 coudee
 cephalaspis
@@ -11075,6 +11074,7 @@ comitatus
 cystoscopic
 chiropodial
 chiropodic
+computus
 chiropodical
 caphite
 chiropodistry
