@@ -4716,7 +4716,6 @@ bursula
 basseted
 bedlar
 bedlids
-bibliotic
 blackseed
 bord
 beinked
@@ -12393,6 +12392,7 @@ byronize
 barberry
 bab
 bandlimit
+bibliotic
 brigades
 balmacaan
 bomble
