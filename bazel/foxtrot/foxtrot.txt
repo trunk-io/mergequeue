@@ -1557,7 +1557,6 @@ fauteuil
 fussy
 foreteach
 flywort
-fauvette
 fishbowl
 fauvism
 fause
@@ -4978,6 +4977,7 @@ flamers
 flubbing
 flamethrowers
 flamy
+fauvette
 facepiece
 floorages
 flamingant

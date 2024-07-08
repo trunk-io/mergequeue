@@ -2222,6 +2222,7 @@ electant
 electary
 epithet
 eudiometric
+episthotonos
 enthraldom
 erected
 emotionist
@@ -8363,7 +8364,6 @@ epitheliosis
 evg
 effulgence
 excursional
-episthotonos
 epidictic
 enciphers
 enchannel
