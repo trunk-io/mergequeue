@@ -4205,6 +4205,7 @@ frayn
 foreprise
 fadding
 fibrospongiae
+fungous
 foulmart
 florican
 flagrant
@@ -5742,7 +5743,6 @@ ferulas
 frontis
 fingerstone
 fleuronnee
-fungous
 fuzzball
 favorers
 forestcraft
