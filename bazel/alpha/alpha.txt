@@ -2502,6 +2502,7 @@ acolyte
 ascidiferous
 amoebicidal
 acolyth
+admittable
 aculei
 acolythate
 amphiaster
@@ -4046,7 +4047,6 @@ acromion
 admit
 allowanced
 admits
-admittable
 antedate
 admittance
 admittatur
