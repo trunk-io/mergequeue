@@ -4576,7 +4576,6 @@ fossilify
 fisheye
 fudgy
 fieldstone
-fistuca
 foxchop
 forrue
 freest
@@ -9021,6 +9020,7 @@ flashguns
 fundiform
 farther
 fib
+fistuca
 fallaciousness
 fowls
 flotsan
