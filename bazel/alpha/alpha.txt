@@ -245,6 +245,7 @@ ascebc
 abbreviators
 abc
 abcissa
+absorptance
 abcoulomb
 abd
 aba
@@ -24181,7 +24182,6 @@ automa
 abbasid
 automata
 archdean
-absorptance
 automatable
 apidae
 awash
