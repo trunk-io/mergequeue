@@ -12723,6 +12723,7 @@ chronomancy
 chronomantic
 chronomastix
 chronometer
+countervaunt
 citolers
 chronometers
 chronometric
@@ -30295,7 +30296,6 @@ crunchweed
 crunk
 crunkle
 cabombas
-countervaunt
 crunodes
 clifflet
 countervairy
