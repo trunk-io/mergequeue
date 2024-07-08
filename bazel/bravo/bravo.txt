@@ -6185,6 +6185,7 @@ beneficed
 bravo
 braccae
 benefices
+bromids
 bluebonnet
 beneficiaire
 bromvoel
@@ -9730,7 +9731,6 @@ bismite
 bismosol
 bismuth
 bismuthal
-bromids
 bismuthate
 bismuthide
 bethanked
