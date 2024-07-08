@@ -792,7 +792,6 @@ abridges
 abridging
 abridgments
 abrin
-abris
 abristle
 abroach
 abrocome
@@ -10221,6 +10220,7 @@ ameed
 ameer
 anemophile
 ameerates
+abris
 ameiosis
 angiolymphitis
 alloying
