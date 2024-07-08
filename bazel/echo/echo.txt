@@ -541,7 +541,6 @@ echinidan
 expy
 enzymologist
 eclipsises
-entosthoblast
 echinocereus
 echinococcosis
 epedaphic
@@ -2931,6 +2930,7 @@ electrotropism
 exculpate
 etuis
 epistoler
+entosthoblast
 entomology
 elidible
 eligibility
