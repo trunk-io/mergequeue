@@ -6690,6 +6690,7 @@ flyblow
 flores
 fogdogs
 fairways
+flite
 fogdom
 fogfruit
 foretype
@@ -8911,7 +8912,6 @@ fluminose
 floit
 fourball
 floggable
-flite
 fertilizability
 fiacre
 feverwort
