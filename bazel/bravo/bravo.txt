@@ -5219,6 +5219,7 @@ breadboards
 barkeeps
 begar
 barkeepers
+belatedness
 bandos
 bodingly
 bacteriotrypsin
@@ -5567,7 +5568,6 @@ bejumbles
 bejumbling
 byzant
 bunko
-belatedness
 bekah
 bekick
 bespangled
