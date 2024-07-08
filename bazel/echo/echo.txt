@@ -5097,7 +5097,6 @@ endocrines
 endocrinic
 existentialistic
 enterocoel
-endocrinology
 emergencies
 entogenous
 ecdysones
@@ -11822,6 +11821,7 @@ extractible
 elecive
 excalceate
 excalceation
+endocrinology
 excalibur
 esophagectasia
 entapophysial
