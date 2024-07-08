@@ -3715,7 +3715,6 @@ extras
 economite
 embroideries
 eulogizing
-embroil
 embryon
 embroiler
 embroils
@@ -10965,6 +10964,7 @@ eggnogs
 eggbeater
 epipelagic
 ecbolic
+embroil
 eczema
 eupnoea
 excubant
