@@ -740,7 +740,6 @@ geomorphology
 galvanomagnetic
 galvanomagnetism
 gombeen
-gingerade
 goumi
 gregg
 genae
@@ -4544,6 +4543,7 @@ getter
 gigantine
 gmelinite
 girasol
+gingerade
 gingering
 gyrate
 gyrated

@@ -2839,7 +2839,6 @@ abominability
 alienness
 antenniform
 areometer
-acromiohumeral
 acromiosternal
 antichurchian
 acromiothoracic
@@ -15613,6 +15612,7 @@ antinihilist
 attacked
 allegorister
 arcus
+acromiohumeral
 awfulness
 antinome
 antinomy
