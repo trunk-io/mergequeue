@@ -1221,7 +1221,6 @@ grackles
 guana
 garb
 gaufre
-generalizations
 gesneriaceae
 galligaskin
 gastrulated
@@ -10837,6 +10836,7 @@ grote
 grayhead
 generality
 gregarious
+generalizations
 gyrograph
 guzul
 genotypical
