@@ -6780,7 +6780,6 @@ gyrostatics
 genros
 goniums
 goitrous
-gunwales
 gasterosteoid
 gradate
 gestures
@@ -9665,6 +9664,7 @@ gooneys
 gorgonaceous
 grueler
 glycerinated
+gunwales
 galleriidae
 goldenrod
 gospeler
