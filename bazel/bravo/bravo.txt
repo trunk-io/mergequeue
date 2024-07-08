@@ -367,7 +367,6 @@ backfriend
 backgame
 bepuzzle
 backgammon
-barbarical
 botanized
 barwares
 breaststroke
@@ -13012,6 +13011,7 @@ boracite
 boracous
 budgeting
 borage
+barbarical
 bombarde
 bibles
 boraginaceae
