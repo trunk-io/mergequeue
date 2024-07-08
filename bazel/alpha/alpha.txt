@@ -1244,7 +1244,6 @@ acanthopteran
 acanthopterygian
 adagial
 acanthopterygii
-acanthoses
 acanthotic
 acanthuridae
 argyric
@@ -17350,6 +17349,7 @@ aposaturnium
 acridan
 aposia
 aposiopesis
+acanthoses
 aposiopetic
 arbalest
 apositia
