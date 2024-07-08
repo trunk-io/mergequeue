@@ -519,7 +519,6 @@ disodic
 damageably
 detonatable
 damaged
-detort
 damageous
 deaccessions
 dovyalis
@@ -17807,6 +17806,7 @@ decahydrated
 ducking
 dashnakist
 ducklet
+detort
 ducklings
 deservingly
 duckmeat

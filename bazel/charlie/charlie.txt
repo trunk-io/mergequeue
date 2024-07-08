@@ -16536,7 +16536,6 @@ cloakmaker
 constrainer
 cloakmaking
 cymbaline
-cloakroom
 cloakrooms
 conquer
 caterwaul
@@ -27135,6 +27134,7 @@ colophane
 counterselection
 countersense
 countershade
+cloakroom
 clione
 chasms
 countershear
