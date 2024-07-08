@@ -15631,7 +15631,6 @@ broaching
 batterable
 buffone
 barrenest
-besmudging
 boatel
 bg
 bulkheads
@@ -17424,6 +17423,7 @@ begrudged
 bathochromy
 belinurus
 bipersonal
+besmudging
 bytownite
 bushbaby
 bunked
