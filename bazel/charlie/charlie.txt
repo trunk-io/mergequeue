@@ -5997,7 +5997,6 @@ catheads
 cathect
 cathected
 cathection
-cathects
 cathedra
 cathedraled
 cathedralesque
@@ -30114,6 +30113,7 @@ cartelization
 crowtoe
 coparallel
 crozers
+cathects
 curat
 clinton
 crozes
