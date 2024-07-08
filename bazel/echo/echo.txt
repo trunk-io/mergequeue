@@ -6197,7 +6197,6 @@ enorm
 exhalations
 exhortator
 enorn
-enos
 enosis
 egophony
 epitapher
@@ -10703,6 +10702,7 @@ expeditate
 eyeletter
 entwine
 endocytosis
+enos
 estragon
 enduros
 eugenia
