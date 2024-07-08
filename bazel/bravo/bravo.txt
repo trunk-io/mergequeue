@@ -6081,6 +6081,7 @@ bibl
 buttstrap
 blacktail
 bemuddlement
+besmokes
 bemuddles
 broadaxes
 bemuddling
@@ -11425,7 +11426,6 @@ bogydom
 befame
 bluebell
 belve
-besmokes
 bluebelled
 bluebells
 bepistoled
