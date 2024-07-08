@@ -7379,7 +7379,6 @@ beautifications
 boluses
 betiding
 blindfolds
-bowsprits
 bovver
 betime
 blotching
@@ -12489,6 +12488,7 @@ budlike
 boohoo
 bondmaids
 befoulier
+bowsprits
 botryopteris
 bawhorse
 bondmen
