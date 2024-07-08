@@ -16694,7 +16694,6 @@ athrob
 antihumanism
 ammochryse
 acceder
-apertures
 aperu
 aperulosid
 apes
@@ -22755,6 +22754,7 @@ adjurers
 anaglyphics
 atocha
 atoke
+apertures
 assemblages
 agamid
 anyhow
