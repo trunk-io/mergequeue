@@ -2210,6 +2210,7 @@ camps
 capotes
 chaenactis
 campshed
+counterreconnaissance
 campsheeting
 campsite
 caver
@@ -6906,7 +6907,6 @@ cellose
 cells
 cellucotton
 coadunative
-counterreconnaissance
 casketing
 cellular
 caloris
