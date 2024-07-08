@@ -4105,7 +4105,6 @@ boyishness
 bratticed
 biassing
 boomlet
-bicompact
 bodysurfs
 bowmaking
 beelbow
@@ -6466,6 +6465,7 @@ benzothiazine
 benzothiazoline
 benzothiodiazole
 backcloth
+bicompact
 barangay
 biternate
 benzothiofuran

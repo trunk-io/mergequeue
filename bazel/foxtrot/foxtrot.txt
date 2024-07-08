@@ -5512,6 +5512,7 @@ following
 fervours
 factories
 fletchers
+fellmongered
 furrower
 fisc
 fleuret
@@ -7963,7 +7964,6 @@ fiz
 feist
 fiscus
 fontina
-fellmongered
 forestage
 frivolled
 froebelian
