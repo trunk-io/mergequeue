@@ -70,6 +70,7 @@ faceharden
 flagships
 fighters
 flecken
+farcetta
 facellite
 forementioned
 facemaker
@@ -1582,7 +1583,6 @@ flights
 farcelike
 frisca
 fissirostres
-farcetta
 florilage
 fegary
 favorableness
