@@ -12692,7 +12692,6 @@ chronocyclegraph
 crake
 chronocrator
 chronogeneous
-chronogram
 chronogrammatic
 chronogrammatically
 cheetah
@@ -15607,6 +15606,7 @@ cakier
 counterraising
 certification
 censorate
+chronogram
 clarissimo
 correption
 clarist
