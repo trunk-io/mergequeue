@@ -8728,7 +8728,6 @@ aerocurve
 aller
 allergenic
 abouchement
-allergenicity
 arrhythmous
 atheology
 ankylotome
@@ -17014,6 +17013,7 @@ amulet
 aplitic
 aplobasalt
 aplodontia
+allergenicity
 aplodontiidae
 aplomb
 astond
