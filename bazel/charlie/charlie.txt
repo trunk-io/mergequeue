@@ -26006,7 +26006,6 @@ chlamydoselachus
 corve
 cousiny
 corvees
-centered
 corven
 corver
 corves
@@ -31863,6 +31862,7 @@ cochliodont
 cuttage
 caccabis
 crowfooted
+centered
 cuttail
 cutter
 cutterhead
