@@ -8710,6 +8710,7 @@ allelomorphic
 allelomorphism
 allelotropy
 allelotropic
+aromal
 allelotropism
 alleluia
 applesauce
@@ -20066,7 +20067,6 @@ antitype
 antiamboceptor
 aroynts
 arolia
-aromal
 acervatim
 azonal
 auspices
