@@ -9080,7 +9080,6 @@ apnoeas
 alloxuric
 allozooid
 allround
-ascents
 alls
 assyrian
 adolesce
@@ -23601,6 +23600,7 @@ auriculidae
 auriculocranial
 apios
 amphisile
+ascents
 auriculoparietal
 auriculotemporal
 auriculovertical
