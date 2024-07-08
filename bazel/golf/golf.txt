@@ -545,6 +545,7 @@ griffons
 griming
 gilravager
 gup
+gasconade
 ghetto
 galleryite
 garde
@@ -4673,7 +4674,6 @@ graphometer
 gowkit
 gametogony
 gaonic
-gasconade
 galliards
 gamori
 gentrice
