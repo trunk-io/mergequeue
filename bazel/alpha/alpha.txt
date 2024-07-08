@@ -4961,6 +4961,7 @@ aeronautic
 amazona
 aeronautical
 aeronomer
+anhyd
 amyliferous
 aumil
 aeronomy
@@ -12999,7 +13000,6 @@ anhelose
 anhematopoiesis
 anhemitonic
 anhemolytic
-anhyd
 anhydraemia
 anhydraemic
 antikinase
