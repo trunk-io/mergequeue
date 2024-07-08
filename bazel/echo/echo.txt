@@ -3030,7 +3030,6 @@ ell
 entocuniform
 ella
 equipoises
-estriche
 electrothermostat
 elleck
 ellenyard
@@ -14142,6 +14141,7 @@ enseraph
 enplanement
 emulates
 entocuneiform
+estriche
 extinction
 excussion
 extruded
