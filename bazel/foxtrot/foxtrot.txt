@@ -2117,7 +2117,6 @@ firmers
 flavian
 fraghan
 fell
-fissipalmate
 feal
 forebodies
 facture
@@ -10223,6 +10222,7 @@ function
 flagginess
 functionate
 fruticant
+fissipalmate
 fleshly
 fadedness
 fibrillations
