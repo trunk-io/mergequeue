@@ -537,7 +537,6 @@ fenestellidae
 flyability
 float
 footpace
-figless
 foxwood
 fallectomy
 forebays
@@ -8589,6 +8588,7 @@ fledged
 forsar
 forsythia
 fontinalis
+figless
 feignedness
 freightless
 filterability
