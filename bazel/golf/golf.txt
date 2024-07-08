@@ -4244,6 +4244,7 @@ gynaeconitis
 geysers
 germling
 gaillard
+gapped
 griph
 grabble
 gilts
@@ -5075,7 +5076,6 @@ gandering
 gigantomachy
 goatsbane
 gassy
-gapped
 galoping
 glassen
 goalkeeper
