@@ -5904,6 +5904,7 @@ bellowslike
 bellpull
 belltail
 balloons
+buprestid
 bullom
 babylonish
 bucconasal
@@ -16097,7 +16098,6 @@ bothriocidaris
 bolsterers
 brookweed
 brool
-buprestid
 bookshelf
 beardtongue
 broomballer
