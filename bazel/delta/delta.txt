@@ -1257,7 +1257,6 @@ dusted
 diazoic
 datives
 dato
-deplane
 desmids
 dossil
 dermoptera
@@ -15803,6 +15802,7 @@ dorsales
 dorsalgia
 dorsalwards
 dorsel
+deplane
 dorser
 dorsi
 deliberalize
