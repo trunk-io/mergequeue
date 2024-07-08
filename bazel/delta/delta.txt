@@ -950,7 +950,6 @@ dipsey
 dray
 dardistan
 doughmen
-digraphs
 dare
 directcarving
 drosophila
@@ -12600,6 +12599,7 @@ daffed
 disintegrated
 dipterological
 denotation
+digraphs
 dromedaries
 disintegrator
 deifications
