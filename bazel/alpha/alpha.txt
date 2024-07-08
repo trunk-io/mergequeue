@@ -15384,6 +15384,7 @@ axiomatize
 antilysin
 antilysis
 antilithic
+aglobulism
 antilytic
 antilitter
 antiliturgy
@@ -15824,7 +15825,6 @@ antipyrin
 antipyrine
 antipyrotic
 antiplague
-aglobulism
 antiplanet
 almochoden
 antiplastic
