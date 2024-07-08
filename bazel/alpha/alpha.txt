@@ -19538,7 +19538,6 @@ adenotomy
 acad
 anecdotal
 argonauta
-argonautid
 argonne
 argonon
 argons
@@ -20430,6 +20429,7 @@ analyticity
 abstemiously
 anaglyphoscope
 autosymnoia
+argonautid
 apiolin
 artemision
 artemisium

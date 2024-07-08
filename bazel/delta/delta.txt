@@ -11206,7 +11206,6 @@ depopulate
 disbar
 drubbings
 disbarred
-disbarring
 disbars
 disbase
 disbeliefs
@@ -16147,6 +16146,7 @@ dousing
 dout
 desorbing
 domable
+disbarring
 decrypted
 douzepers
 douzieme
