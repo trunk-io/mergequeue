@@ -5997,6 +5997,7 @@ catheads
 cathect
 cathected
 cathection
+coached
 cathects
 cathedra
 cathedraled
@@ -12796,7 +12797,6 @@ chuckle
 chucklehead
 cavish
 chuckleheaded
-coached
 chuckleheadedness
 chuckler
 cottier
