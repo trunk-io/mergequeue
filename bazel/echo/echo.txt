@@ -836,7 +836,6 @@ euglenidae
 ectypal
 ectype
 everliving
-enwrite
 elemicin
 epizoa
 envois
@@ -11913,6 +11912,7 @@ eudaemonistically
 excursory
 equiradical
 encoffin
+enwrite
 excerpta
 embordering
 etheneldeli
