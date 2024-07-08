@@ -1091,7 +1091,6 @@ graphiola
 ganner
 grammatication
 gannet
-gearshifts
 gravitate
 goney
 gallants
@@ -7983,6 +7982,7 @@ grotesquerie
 gruesomely
 greenishness
 gluttonising
+gearshifts
 garrons
 gleaned
 gambiae
