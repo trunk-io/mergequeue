@@ -6668,7 +6668,6 @@ cebidae
 chlorophyllan
 contributors
 cebil
-ceboids
 chondritis
 ceratitic
 creesh
@@ -13566,6 +13565,7 @@ cid
 cidaris
 cheatrie
 carbolating
+ceboids
 cymols
 cassida
 cider
