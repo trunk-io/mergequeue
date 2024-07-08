@@ -17181,7 +17181,6 @@ apogon
 autolaryngoscopy
 anga
 afterfuture
-apogonid
 apographic
 apographical
 apohyal
@@ -20971,6 +20970,7 @@ antidotes
 asceses
 almshouse
 ascetic
+apogonid
 amphophilous
 asceticism
 ataraxias
