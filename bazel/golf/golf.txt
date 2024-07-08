@@ -3738,7 +3738,6 @@ gastroesophagostomy
 gastronomic
 greenable
 gunong
-giantsize
 gaub
 genoblastic
 gouvernantes
@@ -6655,6 +6654,7 @@ gangliform
 gordius
 goldworker
 gucks
+giantsize
 ganda
 goneness
 gonenesses
