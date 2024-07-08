@@ -10885,7 +10885,6 @@ forsworn
 falloffs
 fulleries
 fundal
-flo
 finfish
 fleets
 fannon
@@ -11505,6 +11504,7 @@ furunculous
 furzeling
 furzy
 flammable
+flo
 flouncy
 fluently
 facet
