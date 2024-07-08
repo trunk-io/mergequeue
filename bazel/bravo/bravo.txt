@@ -1637,7 +1637,6 @@ banker
 ballottement
 backlotter
 baronage
-ballottine
 ballottines
 bathwort
 ballpark
@@ -13064,6 +13063,7 @@ bordrag
 biophysicochemical
 bulder
 bordroom
+ballottine
 botchier
 borinqueno
 balling
