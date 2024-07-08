@@ -5313,6 +5313,7 @@ geometries
 glossopteris
 glycerin
 growler
+granate
 gamelan
 geared
 gromil
@@ -7894,7 +7895,6 @@ gutter
 gaberloonie
 gliriform
 gooseberries
-granate
 grandad
 goggling
 gnomically
