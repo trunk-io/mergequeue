@@ -2662,6 +2662,7 @@ electrotechnician
 exports
 extendibility
 electrotelegraphy
+export
 exhort
 ellagitannin
 epispadia
@@ -10111,7 +10112,6 @@ ethanedithiol
 ephedra
 erythrophyllin
 extrathecal
-export
 entities
 eyey
 evirate
