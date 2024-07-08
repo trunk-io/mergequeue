@@ -1765,6 +1765,7 @@ etacism
 eulogisation
 electric
 eer
+extracondensed
 eyepiece
 eyepit
 embattle
@@ -6617,7 +6618,6 @@ enterocoelous
 epaleaceous
 easterliness
 enteroepiplocele
-extracondensed
 enterogastrone
 egrimonle
 enterogenous
