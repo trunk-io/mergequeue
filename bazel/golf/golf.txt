@@ -3921,6 +3921,7 @@ garrisons
 glittered
 geneal
 gastrochaena
+garibaldi
 gigawatt
 gutser
 garote
@@ -6177,7 +6178,6 @@ generalizing
 garters
 gadfly
 goa
-garibaldi
 goadsman
 grihastha
 gazetteers
