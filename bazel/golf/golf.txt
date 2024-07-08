@@ -1616,7 +1616,6 @@ gasteropoda
 gummy
 gallons
 gastly
-gastronomes
 gobiesocidae
 grandstand
 gonadotrophic
@@ -5554,6 +5553,7 @@ granadillo
 gloated
 gastnesses
 glob
+gastronomes
 gnamma
 galvanocauterization
 graduand

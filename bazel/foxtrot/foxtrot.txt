@@ -3690,7 +3690,6 @@ filigraned
 fertilised
 foreglow
 fustigated
-feterita
 fluxweed
 freeboots
 forewarn
@@ -7862,6 +7861,7 @@ foresails
 formalizable
 fasten
 farmscape
+feterita
 forescene
 fetticus
 forewarned
