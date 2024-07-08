@@ -2972,6 +2972,7 @@ eviscerate
 entrenched
 eliquidate
 eriophorum
+effusion
 elysian
 elysiidae
 elisor
@@ -5875,7 +5876,6 @@ eftest
 enheart
 enhearten
 electrograph
-effusion
 endobronchially
 enhedge
 eigenfunction
