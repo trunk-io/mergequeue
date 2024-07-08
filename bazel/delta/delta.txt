@@ -5785,7 +5785,6 @@ depoh
 decd
 depolarisation
 depolarise
-drapeable
 depolarization
 darrell
 depolarize
@@ -18522,6 +18521,7 @@ desmidiaceae
 durion
 durity
 diphthonged
+drapeable
 durmast
 dirging
 durndest
