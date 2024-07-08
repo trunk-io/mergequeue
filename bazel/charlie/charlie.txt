@@ -6715,7 +6715,6 @@ cedilla
 cedillas
 ceding
 cedis
-cosheath
 chromule
 cedrat
 conglution
@@ -29987,6 +29986,7 @@ crotyl
 crotin
 croton
 crotonaldehyde
+cosheath
 crotonate
 chromaticism
 crotonic
