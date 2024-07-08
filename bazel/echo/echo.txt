@@ -4516,7 +4516,6 @@ enforcing
 encephalolith
 encephalomas
 escudo
-encephalomeningocele
 exhalation
 evenglome
 encephalometric
@@ -6887,6 +6886,7 @@ ebcasc
 expectative
 exship
 engle
+encephalomeningocele
 entomophila
 entomophobia
 earwaxes
