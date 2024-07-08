@@ -523,7 +523,6 @@ bombsights
 butomaceous
 backstroke
 backstromite
-bu
 backswording
 backswordman
 backtender
@@ -8108,6 +8107,7 @@ bicorn
 bourrelet
 boatman
 busked
+bu
 bicornate
 brutal
 bicorned
