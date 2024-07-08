@@ -4506,6 +4506,7 @@ fissionable
 fissioned
 furzes
 feer
+foreground
 forheed
 foreigner
 farming
@@ -7180,7 +7181,6 @@ farers
 fimbrillose
 fiend
 fiver
-foreground
 footpad
 favellidia
 feodary
