@@ -3755,6 +3755,7 @@ drepanoid
 didact
 dehydrogenate
 distillable
+damascener
 dehydrogenated
 dehydrogenating
 dehydrogenisation
@@ -17457,7 +17458,6 @@ droughts
 drouk
 dominium
 drouket
-damascener
 diagrammatician
 drouking
 deprehension
