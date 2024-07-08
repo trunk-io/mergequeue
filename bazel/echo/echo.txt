@@ -6548,7 +6548,6 @@ engorging
 entender
 edgewise
 entendre
-enchant
 entendres
 essayish
 epidermophytosis
@@ -11818,6 +11817,7 @@ exploited
 electromagnetically
 enervated
 excalcarate
+enchant
 extractible
 elecive
 excalceate
