@@ -6379,7 +6379,6 @@ eyemark
 ethmoids
 enrobed
 ensient
-epist
 elapid
 ensemble
 ensiform
@@ -6608,6 +6607,7 @@ excluding
 enterococcal
 esperantidist
 enseam
+epist
 eurypterida
 expulsatory
 enterocoela
