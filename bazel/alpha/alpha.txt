@@ -9448,7 +9448,6 @@ armbone
 anemones
 altazimuth
 alter
-alterable
 anerethisia
 alterably
 anythingarian
@@ -13105,6 +13104,7 @@ ahrendahronon
 animala
 alterant
 adamantine
+alterable
 animalcular
 animalculum
 animalic
