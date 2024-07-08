@@ -4139,7 +4139,6 @@ disanswerable
 dihybrid
 delimitating
 dynastes
-delimitation
 delimiter
 delimiting
 displumed
@@ -15939,6 +15938,7 @@ dotardism
 darned
 duddle
 dotarie
+delimitation
 dotate
 drybeard
 dotation
