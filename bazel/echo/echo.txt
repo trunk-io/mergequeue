@@ -3963,7 +3963,6 @@ evangelise
 endosarcode
 empanelling
 engrailment
-empanels
 ecumene
 emparchment
 emparl
@@ -14089,6 +14088,7 @@ egressive
 epimerised
 exhaustless
 excubittoria
+empanels
 extremuma
 extricable
 engroove
