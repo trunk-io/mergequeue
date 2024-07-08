@@ -14515,7 +14515,6 @@ dyadic
 divinister
 dissimuler
 dialogue
-divinize
 discoverers
 divinized
 divinizes
@@ -17702,6 +17701,7 @@ duarch
 deputization
 duarchy
 duarchies
+divinize
 dhauri
 dracontine
 dubb
