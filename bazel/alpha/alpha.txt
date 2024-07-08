@@ -503,7 +503,6 @@ acidities
 abjunctive
 amphineurous
 abjurations
-abjurement
 abjurer
 abjurers
 abkari
@@ -19030,6 +19029,7 @@ archmachine
 archmagician
 adread
 alar
+abjurement
 archmilitarist
 actiniform
 archmocker
