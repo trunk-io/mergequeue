@@ -4887,7 +4887,6 @@ fungal
 fisheries
 formalness
 followable
-fulgora
 flails
 furoic
 futile
@@ -8390,6 +8389,7 @@ felonsetter
 formalized
 formalizer
 febronian
+fulgora
 flaucht
 fantail
 fidelia
