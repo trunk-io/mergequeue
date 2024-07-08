@@ -9330,6 +9330,7 @@ chastacosta
 chaste
 chastelain
 coots
+cellaring
 carritch
 catarrh
 csects
@@ -23203,7 +23204,6 @@ constitutor
 cassiri
 constr
 commence
-cellaring
 corticipetally
 constrainedly
 constrainedness
