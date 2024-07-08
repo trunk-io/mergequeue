@@ -3146,6 +3146,7 @@ grace
 geopotential
 gelosin
 georgemas
+gipsyhead
 graminiform
 gregarinosis
 germanite
@@ -9073,7 +9074,6 @@ geoid
 garotte
 gestalts
 gonangial
-gipsyhead
 geophagist
 guillemet
 grindable
