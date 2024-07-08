@@ -37,6 +37,7 @@ flippance
 fabricator
 formularize
 flintless
+flintworker
 flick
 finically
 fabricators
@@ -5705,7 +5706,6 @@ flinty
 footpound
 flintwood
 feus
-flintworker
 folioliferous
 facilitator
 flyovers
