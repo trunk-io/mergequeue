@@ -645,7 +645,6 @@ decapitalize
 damped
 desquamated
 dukely
-deafen
 dampers
 dudgeons
 donnard
@@ -16776,6 +16775,7 @@ declamation
 dravidic
 drightin
 diplomate
+deafen
 dravite
 draw
 dichromic
