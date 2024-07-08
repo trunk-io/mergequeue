@@ -8222,7 +8222,6 @@ blimpish
 beardie
 brontophobia
 bash
-banishes
 baldpate
 byeman
 bleezy
@@ -17885,6 +17884,7 @@ baboosh
 busera
 blowfly
 bush
+banishes
 bloviate
 bushbody
 bushbuck

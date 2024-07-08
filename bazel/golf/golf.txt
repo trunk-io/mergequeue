@@ -2307,7 +2307,6 @@ gelatine
 glucoprotein
 gerastian
 ge
-gloryless
 gagsters
 gravitation
 gingival
@@ -9083,6 +9082,7 @@ grinderman
 gadite
 gelseminic
 gummers
+gloryless
 grinders
 gobonated
 gypper
