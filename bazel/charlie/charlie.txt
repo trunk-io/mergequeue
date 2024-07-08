@@ -8432,7 +8432,6 @@ chalicosis
 chalicothere
 chalicotheriid
 crummable
-chalicotheriidae
 cephalohumeralis
 cixiid
 chantress
@@ -29230,6 +29229,7 @@ crippledom
 crippleness
 crippler
 cripples
+chalicotheriidae
 creaser
 capillarity
 cystomatous
