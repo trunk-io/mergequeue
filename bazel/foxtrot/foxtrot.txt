@@ -1078,6 +1078,7 @@ fogas
 faro
 floriken
 floter
+foremessenger
 foredestining
 furriery
 farolito
@@ -6477,7 +6478,6 @@ fermerer
 frosted
 flots
 flourlike
-foremessenger
 fluoroscoped
 flushingly
 flusk
