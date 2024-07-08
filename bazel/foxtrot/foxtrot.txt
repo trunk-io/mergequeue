@@ -3593,7 +3593,6 @@ frenchism
 fluviometer
 filed
 fogie
-fencelet
 fixations
 foremention
 fairydom
@@ -8117,6 +8116,7 @@ fasthold
 fideicommissor
 fingerboards
 fuliginous
+fencelet
 fidgeting
 foreverness
 fellowshiping
