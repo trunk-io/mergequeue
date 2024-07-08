@@ -3309,7 +3309,6 @@ fiddlefaced
 fiddlerfish
 fraticellian
 fiddlery
-fiddles
 ferrites
 faunology
 fishgarth
@@ -3888,6 +3887,7 @@ frustulum
 flueman
 flet
 fimbriatum
+fiddles
 feral
 floria
 fellowly
