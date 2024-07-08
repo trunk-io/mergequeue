@@ -5470,6 +5470,7 @@ foolscap
 furunculoid
 flesh
 forbids
+forewarns
 filchers
 faured
 fenderless
@@ -8134,7 +8135,6 @@ faddle
 fraught
 flourishable
 furores
-forewarns
 flockbed
 foghorn
 foretaste
