@@ -2110,7 +2110,6 @@ filii
 foredefine
 furlers
 fesapo
-filletlike
 fear
 flagpoles
 firmers
@@ -10225,6 +10224,7 @@ functionate
 fruticant
 fleshly
 fadedness
+filletlike
 fibrillations
 fissural
 fingian
