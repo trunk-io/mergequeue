@@ -8342,7 +8342,6 @@ chakram
 carpentry
 chaksi
 chal
-complection
 chalaco
 chalah
 crispation
@@ -12663,6 +12662,7 @@ chromotypographic
 chromotropy
 chromotropic
 cradleboard
+complection
 concepts
 chromotropism
 ciders
