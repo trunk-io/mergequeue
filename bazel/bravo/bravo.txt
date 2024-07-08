@@ -11886,6 +11886,7 @@ brushlike
 bodicemaking
 bodycheck
 bodied
+barbershop
 becrowding
 boucan
 beribers
@@ -14838,7 +14839,6 @@ breaghe
 breakability
 bilith
 brokers
-barbershop
 breakable
 breakableness
 bracket
