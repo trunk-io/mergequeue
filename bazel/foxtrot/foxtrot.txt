@@ -4249,6 +4249,7 @@ fleeceable
 forma
 fatting
 fireplug
+fructiferous
 fopping
 firepot
 frampler
@@ -5945,7 +5946,6 @@ factitude
 ferrary
 foliar
 fawns
-fructiferous
 floodable
 fineable
 freeze
