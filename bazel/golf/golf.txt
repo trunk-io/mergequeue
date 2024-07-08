@@ -2810,7 +2810,6 @@ gecko
 garni
 guzzledom
 gyges
-glaceed
 griper
 guzmania
 gismos
@@ -5425,6 +5424,7 @@ glimmer
 groundswell
 generall
 glucosid
+glaceed
 glycaemic
 glimmering
 garrulus
