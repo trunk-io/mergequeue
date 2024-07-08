@@ -1053,7 +1053,6 @@ fobs
 farley
 fee
 fulfill
-farmed
 farmeress
 farmerish
 farmers
@@ -10993,6 +10992,7 @@ furdle
 fumbles
 fumbling
 foundress
+farmed
 fumblingness
 fumed
 friended
