@@ -2552,7 +2552,6 @@ exclaimed
 elucidative
 ecad
 electrons
-electrooculogram
 encyclopaedian
 electrodiagnoses
 electrobrasser
@@ -6067,6 +6066,7 @@ epifauna
 epirrhema
 extrema
 enochic
+electrooculogram
 erythrolitmin
 existible
 enlightenment
