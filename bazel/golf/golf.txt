@@ -6666,7 +6666,6 @@ giglet
 gash
 grandioso
 gustoish
-gonfalcon
 gambolled
 gong
 gekkota
@@ -10362,6 +10361,7 @@ gruffily
 greenlets
 gulgul
 gigabytes
+gonfalcon
 gangbuster
 geum
 glaur
