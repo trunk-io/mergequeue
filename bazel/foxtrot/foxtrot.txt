@@ -636,7 +636,6 @@ fructuary
 falx
 fernambuck
 ferromagnet
-flatweed
 flagship
 further
 faunch
@@ -6591,6 +6590,7 @@ foaling
 foals
 foam
 fikie
+flatweed
 fablemongering
 foamed
 feltness
