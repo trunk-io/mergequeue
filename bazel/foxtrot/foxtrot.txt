@@ -2403,7 +2403,6 @@ falconiformes
 frogling
 fucivorous
 frowzly
-fossicking
 feudist
 fenchol
 ferganite
@@ -5580,6 +5579,7 @@ fiendlike
 fleers
 flaxlike
 flockowner
+fossicking
 flybrush
 flatulences
 firefight
