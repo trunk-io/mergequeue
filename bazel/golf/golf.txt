@@ -1156,7 +1156,6 @@ glutinate
 gemman
 glyptographer
 gamolepis
-goura
 gaon
 gartered
 gynaecomasty
@@ -7426,6 +7425,7 @@ gades
 groundwater
 gazing
 gladiatory
+goura
 glyphography
 gourounut
 gutti
