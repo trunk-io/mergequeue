@@ -5100,7 +5100,6 @@ funorin
 flashboard
 fiendliest
 flinches
-fatigated
 forewent
 fario
 flashed
@@ -8153,6 +8152,7 @@ forcer
 fulgently
 forewritten
 fundamentals
+fatigated
 forfairn
 fumbler
 friezing
