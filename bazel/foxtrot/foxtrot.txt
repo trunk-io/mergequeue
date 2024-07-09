@@ -8520,7 +8520,6 @@ friaries
 flinchers
 famulus
 fred
-feathers
 flange
 frenchwise
 francium
@@ -9522,6 +9521,7 @@ feria
 flitches
 freaks
 fatiguingly
+feathers
 forested
 forfear
 floristic
