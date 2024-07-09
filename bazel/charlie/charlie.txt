@@ -1128,7 +1128,6 @@ calcitestaceous
 carollers
 cuppers
 calcitic
-checkbit
 calcitrant
 calcitrate
 calcium
@@ -22893,6 +22892,7 @@ conservations
 chondromas
 conservative
 conservatively
+checkbit
 coxcombically
 conservativeness
 commoves
