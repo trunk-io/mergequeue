@@ -5118,7 +5118,6 @@ guerdonless
 gunman
 guernseyed
 glareproof
-glib
 grainsmen
 gymnospermae
 glassteel
@@ -5672,6 +5671,7 @@ gasps
 glomerule
 gaduin
 grunth
+glib
 gloomily
 goatbrush
 gloomings
