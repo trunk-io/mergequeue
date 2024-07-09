@@ -4678,7 +4678,6 @@ demirilievo
 demirobe
 demonastery
 donn
-dilatable
 dungyard
 depose
 dermohemal
@@ -10127,6 +10126,7 @@ dynamometrical
 dirls
 dogfight
 deregulating
+dilatable
 dynamomorphic
 dewret
 dislustring
