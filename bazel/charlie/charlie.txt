@@ -2497,7 +2497,6 @@ colage
 candidated
 candidates
 candidating
-ceria
 candidatures
 candide
 churls
@@ -7586,6 +7585,7 @@ ceratonia
 cicerones
 cardamoms
 chlorophyl
+ceria
 ceratophyllaceous
 crinch
 ceratophyllum
