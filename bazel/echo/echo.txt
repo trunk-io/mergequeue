@@ -937,7 +937,6 @@ excommunicators
 endosporous
 ectostosis
 eriodictyon
-evade
 equalization
 ectotoxin
 ectotrophi
@@ -5779,6 +5778,7 @@ engouement
 extorter
 engoument
 entification
+evade
 efficace
 escapado
 etheling
