@@ -6164,7 +6164,6 @@ gnow
 gazon
 gravels
 gns
-gatefolds
 go
 grammar
 germiparity
@@ -7409,6 +7408,7 @@ grey
 glub
 goupin
 gastrologists
+gatefolds
 goldfish
 gouramis
 gourded
