@@ -1146,7 +1146,6 @@ academes
 academy
 areae
 aneroidograph
-academie
 abacaxi
 academist
 academite
@@ -10624,6 +10623,7 @@ aminization
 aminize
 amino
 aminoacetic
+academie
 afflicts
 aminoacetophenetidine
 adolesced
