@@ -1007,6 +1007,7 @@ foxhound
 fusion
 fardelet
 fards
+firethorn
 friarbird
 fares
 faretta
@@ -8944,7 +8945,6 @@ flixweed
 fuster
 fourrier
 flagellates
-firethorn
 fourscorth
 foelike
 foursquare
