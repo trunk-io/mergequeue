@@ -4744,7 +4744,6 @@ bedrails
 binnacle
 bedral
 bedraped
-bedrapes
 bedraping
 bedread
 bedrench
@@ -11653,6 +11652,7 @@ boardsmanship
 boatloads
 boro
 boardly
+bedrapes
 buceros
 boardwalks
 boarfish
