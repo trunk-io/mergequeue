@@ -3591,7 +3591,6 @@ flareboard
 fulgence
 foggily
 filched
-favouritism
 fatimid
 furfur
 frenchism
@@ -5652,6 +5651,7 @@ fluoroid
 ficary
 flimflams
 freethink
+favouritism
 flies
 flimsy
 flimsier
