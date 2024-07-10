@@ -13529,6 +13529,7 @@ albuminization
 annotator
 auxiliar
 annotators
+aerophone
 arrendator
 assonant
 allusory
@@ -19336,7 +19337,6 @@ areometric
 areometrical
 arbutus
 anthologizer
-aerophone
 areopagist
 awacs
 areopagite
