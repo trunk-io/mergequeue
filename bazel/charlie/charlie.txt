@@ -2206,7 +2206,6 @@ campout
 circumfusile
 camps
 capotes
-chaenactis
 campshed
 campsheeting
 campsite
@@ -12889,6 +12888,7 @@ clonism
 cicindelidae
 chumulu
 cantharophilous
+chaenactis
 chun
 chunam
 calcifies
