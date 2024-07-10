@@ -742,7 +742,6 @@ epithecicia
 essentia
 edifice
 extramolecular
-ensamples
 ecophene
 erythropoietin
 emulsifier
@@ -3033,6 +3032,7 @@ evolvements
 ell
 entocuniform
 ella
+ensamples
 equipoises
 estriche
 electrothermostat
