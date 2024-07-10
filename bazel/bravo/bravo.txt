@@ -709,7 +709,6 @@ binful
 bransles
 berrendo
 badger
-barbered
 breeches
 backyard
 bogwort
@@ -3490,6 +3489,7 @@ bateau
 blastomycetous
 bucchero
 bateleur
+barbered
 bovista
 bouchal
 blindfoldedly
