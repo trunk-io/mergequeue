@@ -8888,7 +8888,6 @@ chapelries
 chapels
 chiasmi
 chapelward
-compile
 chaperno
 custodia
 chaperonage
@@ -17452,6 +17451,7 @@ collegiugia
 cancelled
 cobitidae
 careerist
+compile
 concussion
 christmas
 coemptionator
