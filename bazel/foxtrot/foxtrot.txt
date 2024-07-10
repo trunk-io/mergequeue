@@ -2742,7 +2742,6 @@ frizziness
 facundity
 fervence
 father
-feverbush
 fortnightlies
 futilize
 flectional
@@ -11113,6 +11112,7 @@ fripper
 forecarriage
 forbiddance
 fibroid
+feverbush
 frizzers
 fishtail
 farle
