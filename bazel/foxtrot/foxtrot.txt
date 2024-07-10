@@ -4381,6 +4381,7 @@ flybook
 fixion
 fishboats
 fishbolts
+funt
 framed
 falchions
 fellers
@@ -7376,7 +7377,6 @@ firefang
 forceput
 footmen
 fazing
-funt
 filicides
 fileable
 flittern
