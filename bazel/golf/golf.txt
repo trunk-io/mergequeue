@@ -2872,7 +2872,6 @@ gruel
 gales
 gondolet
 gustfulness
-garboards
 genuflecting
 gaberdine
 graduator
@@ -5115,6 +5114,7 @@ grav
 grittier
 guerdonless
 gunman
+garboards
 guernseyed
 glareproof
 glib
