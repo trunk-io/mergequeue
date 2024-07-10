@@ -5556,7 +5556,6 @@ gypsum
 globalizing
 gasteria
 granulite
-gaupus
 giddify
 gently
 gump
@@ -5849,6 +5848,7 @@ glows
 grinny
 glycerize
 gorgeable
+gaupus
 glissades
 gartering
 gloxinia
