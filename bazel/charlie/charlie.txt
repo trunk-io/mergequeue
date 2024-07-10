@@ -17072,7 +17072,6 @@ cmd
 catalecta
 cml
 cnemial
-centurion
 contributary
 cnemides
 castorized
@@ -19827,6 +19826,7 @@ combusts
 combwise
 catapulting
 comdia
+centurion
 comdr
 ceraunics
 come
