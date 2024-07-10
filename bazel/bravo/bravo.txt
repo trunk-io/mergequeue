@@ -9631,7 +9631,6 @@ binary
 bicapsular
 bisect
 bisected
-bisection
 bisectors
 bisectrices
 busybodyness
@@ -11217,6 +11216,7 @@ bawley
 borons
 brachypnea
 bloodspiller
+bisection
 bloodstream
 bestead
 bloodstreams
