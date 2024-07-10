@@ -3696,6 +3696,7 @@ batteners
 bankrupted
 batter
 batterdock
+bearcat
 battered
 beltis
 batterie
@@ -4101,7 +4102,6 @@ behalves
 bearbaiter
 bedmaking
 blearedness
-bearcat
 beriberi
 boyishness
 bratticed
