@@ -2086,7 +2086,6 @@ emma
 equiglacial
 emblematist
 enclosable
-epistles
 elapsing
 extrared
 epilimnia
@@ -6019,6 +6018,7 @@ edginess
 estaminets
 epiphytotic
 epistolical
+epistles
 enharbor
 elbowchair
 ecumenopolis
