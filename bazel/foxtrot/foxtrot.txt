@@ -121,7 +121,6 @@ faciation
 fingertips
 freeport
 foredivine
-fisherpeople
 funtumia
 faciends
 featheredges
@@ -6938,6 +6937,7 @@ footlicker
 fumarase
 fibromatosis
 fauconnier
+fisherpeople
 flaky
 flusherman
 follily
