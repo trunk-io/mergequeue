@@ -17893,6 +17893,7 @@ coders
 codes
 chromoprotein
 certificating
+claw
 codescendant
 consumption
 cononintelligent
@@ -18963,7 +18964,6 @@ collaborative
 collaboratively
 clothworker
 collaborativeness
-claw
 collaborator
 collaborators
 closehauled
