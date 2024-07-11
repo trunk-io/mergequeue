@@ -2979,7 +2979,6 @@ feuilletons
 filialness
 fleches
 facier
-formulary
 freezed
 flaked
 freeing
@@ -5599,6 +5598,7 @@ force
 fulsome
 forefeel
 fossilation
+formulary
 feminist
 fmt
 flyer
