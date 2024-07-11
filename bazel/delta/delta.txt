@@ -1635,6 +1635,7 @@ disassembler
 deallocate
 devotional
 daunter
+dicephalus
 darkhaired
 deallocating
 deresinize
@@ -8912,7 +8913,6 @@ disbud
 diceman
 dicentras
 dicephalous
-dicephalus
 dipyramid
 diceplay
 dyads
