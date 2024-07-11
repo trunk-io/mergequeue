@@ -2865,7 +2865,6 @@ batching
 broadcasts
 broadthroat
 barranca
-brodyaga
 berakes
 biverbal
 barrandite
@@ -17688,6 +17687,7 @@ burkundaz
 burlace
 bylaws
 bucksaws
+brodyaga
 birgus
 bemajesty
 blackfin
