@@ -9705,7 +9705,6 @@ bellovaci
 bisischiatic
 bauera
 bisk
-boulangerite
 bisks
 belial
 bysmalith
@@ -12714,6 +12713,7 @@ boondoggled
 bloatedness
 boohooing
 besilver
+boulangerite
 biaswise
 bear
 bungarus
