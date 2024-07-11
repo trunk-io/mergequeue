@@ -1069,6 +1069,7 @@ flaxbush
 foredawn
 farmyard
 farmyardy
+focalization
 farmout
 furculae
 floricomous
@@ -10468,7 +10469,6 @@ fluffs
 fidged
 forcite
 frostbitten
-focalization
 flangeway
 frostfish
 frosty
