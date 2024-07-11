@@ -7964,7 +7964,6 @@ cessavit
 cessed
 cesser
 cesses
-chord
 cuttle
 cipolin
 cessible
@@ -10127,6 +10126,7 @@ cherubic
 cabernet
 cherubical
 caribisi
+chord
 cherubim
 cherubimic
 cherubimical
