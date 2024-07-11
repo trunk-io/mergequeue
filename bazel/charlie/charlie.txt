@@ -11596,6 +11596,7 @@ camerata
 congenetic
 choker
 cratonic
+clipsheet
 congelifraction
 chokered
 chokerman
@@ -16391,7 +16392,6 @@ convenienced
 clippingly
 clips
 clipse
-clipsheet
 clipsheets
 clipsome
 crabmeat
