@@ -6129,7 +6129,6 @@ dooming
 derailing
 dechloridizing
 demiworld
-derailleur
 derailleurs
 derailment
 diplomatism
@@ -11946,6 +11945,7 @@ downrange
 disembarkation
 domes
 digestion
+derailleur
 disembarked
 divise
 duskish
