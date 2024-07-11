@@ -2696,6 +2696,7 @@ feedings
 felspathic
 fainaigue
 fabricable
+flickering
 fibrinolytic
 frostbow
 flavorer
@@ -5986,7 +5987,6 @@ fortifiable
 fluorhydric
 filleter
 favism
-flickering
 foresty
 footscald
 forgettery
