@@ -11957,7 +11957,6 @@ causeway
 chorale
 choraleon
 chorales
-civic
 comradery
 concio
 chorally
@@ -17175,6 +17174,7 @@ coadjutrix
 coadjuvate
 coadminister
 coadministration
+civic
 coadministrator
 combite
 coadministratrix
