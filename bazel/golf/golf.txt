@@ -3762,7 +3762,6 @@ gygis
 giboia
 gibstaff
 galeche
-gonidia
 gein
 greyhound
 gavelage
@@ -5325,6 +5324,7 @@ guttulous
 glaived
 goback
 gourds
+gonidia
 gastrulae
 gayals
 glycolyl
