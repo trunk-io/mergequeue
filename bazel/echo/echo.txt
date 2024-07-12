@@ -566,7 +566,6 @@ escolars
 endoperitonitis
 echinopsine
 egotist
-ecaudate
 echinorhynchus
 embolus
 effeminating
@@ -10140,6 +10139,7 @@ etheostominae
 etheostomoid
 electrophoresed
 enarration
+ecaudate
 earwax
 ether
 excising
