@@ -7623,7 +7623,6 @@ colloquies
 cercises
 cercocebus
 cercolabes
-cercolabidae
 cercomonad
 cercomonadidae
 cercopid
@@ -17955,6 +17954,7 @@ crystallographical
 combes
 codons
 citola
+cercolabidae
 codpieces
 childbirth
 codpitchings
