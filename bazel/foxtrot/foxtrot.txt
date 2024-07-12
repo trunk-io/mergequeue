@@ -995,7 +995,6 @@ forride
 fictionization
 forklifts
 fardel
-featherstitch
 flannelmouth
 foxhound
 fusion
@@ -4190,6 +4189,7 @@ fanions
 federals
 ferfathmur
 felonries
+featherstitch
 flier
 foothold
 fringilliform
