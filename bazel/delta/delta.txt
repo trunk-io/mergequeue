@@ -1145,7 +1145,6 @@ dabbers
 dasyurine
 dactylopatagium
 dasyuroid
-dasyus
 demersed
 dassent
 deadheads
@@ -2846,6 +2845,7 @@ draggle
 decriminalizes
 decrypt
 decryption
+dasyus
 decrowning
 decrowns
 detenus
