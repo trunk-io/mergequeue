@@ -2538,7 +2538,6 @@ flustrum
 funs
 fernshaw
 foolhardihood
-fordo
 forehatch
 freightage
 fusionism
@@ -3333,6 +3332,7 @@ faon
 forevermore
 foreward
 flasket
+fordo
 facewise
 facioscapulohumeral
 forgiver
