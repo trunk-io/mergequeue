@@ -5258,7 +5258,6 @@ declaimers
 deputy
 denominations
 dicty
-denominators
 denotable
 depolarisation
 deafer
@@ -18271,6 +18270,7 @@ diseuse
 demonian
 dunkled
 dig
+denominators
 diacoca
 dunlap
 dunlins
