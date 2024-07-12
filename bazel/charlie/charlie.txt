@@ -16907,6 +16907,7 @@ clubdom
 clubfist
 clubfisted
 clubfoot
+cleek
 clubfooted
 clubhand
 clubhands
@@ -25553,7 +25554,6 @@ coronalled
 coronals
 coronamen
 coronary
-cleek
 coronate
 calp
 corrosible
