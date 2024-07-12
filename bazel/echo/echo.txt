@@ -1,7 +1,6 @@
 etiophyllin
 eschoppe
 equidurable
-eudipleural
 exultet
 escutcheons
 elench
@@ -3201,6 +3200,7 @@ esophagospasm
 elute
 exoascus
 elution
+eudipleural
 enzymatically
 effuso
 eigenstate
