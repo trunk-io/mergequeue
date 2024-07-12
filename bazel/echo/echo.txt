@@ -7330,7 +7330,6 @@ emissi
 eoghanacht
 etchers
 encushion
-epaenetic
 epagomenae
 ericolin
 equerryship
@@ -12588,6 +12587,7 @@ exobasidium
 echuca
 eating
 epistolet
+epaenetic
 extinguishment
 emendicate
 exochorion
