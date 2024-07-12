@@ -9673,7 +9673,6 @@ backbeats
 bonete
 brince
 bishopdom
-bishopful
 baptists
 bilateral
 bishopling
@@ -13939,6 +13938,7 @@ boxbush
 brooky
 boxcar
 boxcars
+bishopful
 barwing
 billete
 boxed
