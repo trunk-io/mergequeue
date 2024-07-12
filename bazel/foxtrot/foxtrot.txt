@@ -5874,7 +5874,6 @@ freeloader
 fermentitious
 floccose
 feyer
-failsoft
 forwean
 festine
 fecund
@@ -6491,6 +6490,7 @@ falter
 filagreeing
 forgie
 farweltered
+failsoft
 frotted
 flutey
 foggers
