@@ -6039,7 +6039,6 @@ gulllike
 gaucheries
 greking
 graywacke
-gluhwein
 gonoblastidium
 graine
 guaiol
@@ -8707,6 +8706,7 @@ glossier
 greenish
 graffer
 grottowork
+gluhwein
 grisgris
 gamene
 gallate
