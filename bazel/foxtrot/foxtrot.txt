@@ -7858,6 +7858,7 @@ foresail
 foresails
 fasten
 farmscape
+fork
 forescene
 fetticus
 forewarned
@@ -8283,7 +8284,6 @@ foujdar
 ferrotyping
 forjudging
 forensicality
-fork
 firmament
 fatherlike
 flapperish
