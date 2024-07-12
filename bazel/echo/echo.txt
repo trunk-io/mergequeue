@@ -5235,7 +5235,6 @@ endoproctous
 elutor
 endopterygota
 extraequilibrium
-endopterygote
 exudatory
 endoradiosonde
 eupathy
@@ -11023,6 +11022,7 @@ eurycephalic
 epiglot
 enridged
 epiclastic
+endopterygote
 editorializations
 egocentric
 expede
