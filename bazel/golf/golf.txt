@@ -3734,7 +3734,6 @@ geodetics
 gelatinise
 grihyasutra
 glucke
-greenbul
 gibbled
 grandsir
 gnostical
@@ -8939,6 +8938,7 @@ galvo
 gaj
 greyhens
 glucina
+greenbul
 glenlivet
 glycuronid
 gachupin
