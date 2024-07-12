@@ -5503,6 +5503,7 @@ ganoids
 granolithic
 gimmer
 germantown
+gobbed
 goods
 gentlemen
 galipidine
@@ -6249,7 +6250,6 @@ gregorianizer
 gorier
 gob
 goban
-gobbed
 grx
 gobber
 goateed
