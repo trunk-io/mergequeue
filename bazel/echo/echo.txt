@@ -2570,7 +2570,6 @@ eruginous
 eighteenthly
 ensnarl
 erythroblastosis
-encomendero
 eirenicon
 essaying
 embassies
@@ -13321,6 +13320,7 @@ equipt
 electromyograph
 elusively
 eyewear
+encomendero
 expone
 ephoralty
 exponency
