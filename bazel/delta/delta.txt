@@ -1248,6 +1248,7 @@ datives
 dato
 deplane
 desmids
+dogwatch
 dossil
 dermoptera
 datolitic
@@ -5515,7 +5516,6 @@ doryphoros
 dreggy
 deoxidizers
 deoxidizes
-dogwatch
 deoxidizing
 deoxygenated
 define
