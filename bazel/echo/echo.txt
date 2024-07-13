@@ -3787,7 +3787,6 @@ edility
 escribano
 emerald
 elasticities
-emeraldine
 emeraude
 emerge
 ecart
@@ -10183,6 +10182,7 @@ exhausts
 encroaching
 embroideress
 etherialize
+emeraldine
 etherially
 expressness
 endocarpoid
