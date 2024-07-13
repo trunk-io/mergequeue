@@ -990,7 +990,6 @@ gaudiness
 guessingly
 glissette
 generational
-growable
 glossed
 gordunite
 ganga
@@ -6665,6 +6664,7 @@ grint
 gulae
 glykopectic
 gobmouthed
+growable
 gymnosperm
 grattage
 gewgawed
