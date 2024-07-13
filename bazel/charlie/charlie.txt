@@ -2105,7 +2105,6 @@ campanulariae
 campanularidae
 campanulatae
 campanulate
-campanulated
 chondrosarcomata
 campanulous
 cowbells
@@ -10328,6 +10327,7 @@ caffling
 chicayote
 chicalote
 counterimitate
+campanulated
 columboid
 chicanery
 chicaneries
