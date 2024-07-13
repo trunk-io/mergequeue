@@ -310,7 +310,6 @@ foaming
 filar
 fraternation
 fatiguability
-fishboat
 fag
 feint
 fostell
@@ -1995,6 +1994,7 @@ fent
 flossflower
 fortunel
 feelies
+fishboat
 feelingful
 flexibilities
 floative
