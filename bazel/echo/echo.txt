@@ -6843,7 +6843,6 @@ entoils
 entom
 extender
 episternalia
-exsection
 equuleus
 eumenes
 ectosarcs
@@ -8232,6 +8231,7 @@ exigeant
 epiphany
 enkraal
 extinctive
+exsection
 etwas
 engelmann
 encydlopaedic
