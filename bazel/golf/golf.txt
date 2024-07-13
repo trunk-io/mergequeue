@@ -6301,7 +6301,6 @@ glaucomys
 glyceryl
 guanaco
 gentry
-generalize
 geophysics
 gruneritization
 grubstaker
@@ -8774,6 +8773,7 @@ gregatim
 geranomorphae
 grossularia
 germain
+generalize
 gastroschisis
 galleys
 gymnosporangium
