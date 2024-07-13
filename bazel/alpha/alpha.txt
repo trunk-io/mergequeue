@@ -13269,7 +13269,6 @@ anamnesis
 assailing
 asnort
 anisodactylic
-anisodont
 axilemma
 anisogamete
 anisogametes
@@ -22994,6 +22993,7 @@ attaintment
 adenoma
 asterospondyli
 attaints
+anisodont
 attainture
 amygdaliform
 attalea
