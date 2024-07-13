@@ -5254,7 +5254,6 @@ beggary
 beeriest
 beggaring
 bicrescentic
-beggarlice
 beggarlike
 boshas
 beggarliness
@@ -13558,6 +13557,7 @@ ballutes
 besnowed
 beatermen
 bouffancy
+beggarlice
 biennale
 biquarterly
 balanophoraceae
