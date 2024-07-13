@@ -10004,6 +10004,7 @@ chemotaxy
 collocatory
 chemotaxonomy
 chemotaxonomic
+controls
 cannular
 comma
 carices
@@ -23896,7 +23897,6 @@ costophrenic
 controlless
 conin
 cananga
-controls
 conforming
 controversal
 compositeness
