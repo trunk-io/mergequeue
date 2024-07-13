@@ -1207,7 +1207,6 @@ bakuba
 barathron
 blok
 barkers
-bakutu
 bala
 balaam
 balabos
@@ -12799,6 +12798,7 @@ bookselling
 bescreened
 boloney
 bookshop
+bakutu
 bobotee
 brutifying
 bookstall
