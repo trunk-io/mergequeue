@@ -426,6 +426,7 @@ daysides
 deprevation
 daysmen
 dayspring
+direst
 disthrall
 daswen
 daystreak
@@ -6314,7 +6315,6 @@ deluminize
 deozonizer
 decolonization
 debatter
-direst
 dermatorrhagia
 drossy
 dial
