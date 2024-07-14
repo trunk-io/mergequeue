@@ -4764,6 +4764,7 @@ enclosures
 enchalice
 excentral
 emprent
+emmenia
 enterotomy
 excusatory
 encode
@@ -8361,7 +8362,6 @@ epithem
 emulating
 epitheme
 epithermally
-emmenia
 eucleid
 eucarpic
 endocyemate
