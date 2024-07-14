@@ -2163,6 +2163,7 @@ adductive
 ararao
 achluophobia
 acholia
+armamentaria
 acholoe
 abradant
 acholous
@@ -4215,7 +4216,6 @@ apartado
 adorners
 arachnidial
 algaesthesis
-armamentaria
 adornments
 affy
 attestation
