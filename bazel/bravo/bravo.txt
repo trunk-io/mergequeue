@@ -8162,7 +8162,6 @@ bug
 blasphemer
 beltmaker
 birse
-bidental
 bidery
 besieging
 bidiagonal
@@ -9092,6 +9091,7 @@ bionomies
 beckie
 ballonet
 booky
+bidental
 bize
 bitentaculate
 busheler
