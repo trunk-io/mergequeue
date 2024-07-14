@@ -1908,7 +1908,6 @@ accreted
 assizing
 acetic
 acetified
-acetifies
 acetyl
 autopathic
 acetylamine
@@ -7761,6 +7760,7 @@ aldea
 antichresis
 acrodus
 aldebaran
+acetifies
 ambiance
 arbours
 anticonvulsive
