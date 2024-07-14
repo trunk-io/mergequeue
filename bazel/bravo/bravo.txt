@@ -3666,7 +3666,6 @@ belfather
 batteaux
 bonnering
 batteling
-bascule
 battels
 battement
 basisolute
@@ -17573,6 +17572,7 @@ burfish
 buccellarius
 bhima
 bobble
+bascule
 broadacre
 bothrops
 burgality
