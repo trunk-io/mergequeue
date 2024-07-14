@@ -2723,7 +2723,6 @@ feaking
 fertile
 falsely
 flapjacks
-facsimilize
 fittonia
 funerary
 fertilise
@@ -7554,6 +7553,7 @@ foredawn
 faille
 felsite
 fanal
+facsimilize
 foredated
 folliful
 flubs
