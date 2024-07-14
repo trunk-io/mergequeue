@@ -4497,7 +4497,6 @@ carlylese
 centrefold
 catwood
 carlylian
-carling
 carlings
 carlino
 carlins
@@ -27321,6 +27320,7 @@ couple
 couplement
 coupler
 couples
+carling
 cleric
 couplings
 cattiness
