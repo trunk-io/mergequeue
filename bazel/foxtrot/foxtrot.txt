@@ -3705,6 +3705,7 @@ flippancies
 forecasters
 flawier
 filigraned
+fuzzing
 friskers
 fertilised
 foreglow
@@ -7499,7 +7500,6 @@ foreboom
 filterers
 farceur
 foreburton
-fuzzing
 farandine
 frae
 fameless
