@@ -4213,7 +4213,6 @@ adorned
 apartado
 adorners
 arachnidial
-algaesthesis
 armamentaria
 adornments
 affy
@@ -6504,6 +6503,7 @@ antecardium
 adjuvate
 ahi
 azotometer
+algaesthesis
 antinomian
 amebula
 ahir
