@@ -6952,6 +6952,7 @@ entopic
 endiablee
 entoplasm
 estreats
+exiled
 eudora
 enzone
 esau
@@ -9678,7 +9679,6 @@ esparsette
 epithalamy
 espartos
 eagerly
-exiled
 enhydritic
 especialness
 esperantido
