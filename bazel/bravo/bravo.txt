@@ -10429,6 +10429,7 @@ boomerang
 blankbook
 bailwood
 bethwine
+byzantinesque
 burgrave
 bravado
 bolted
@@ -12137,7 +12138,6 @@ bannets
 bannered
 basti
 bannition
-byzantinesque
 boldos
 besmutch
 bealing
