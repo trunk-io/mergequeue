@@ -5785,7 +5785,6 @@ entification
 evade
 emulatory
 efficace
-escapado
 etheling
 exfoliation
 epicele
@@ -8288,6 +8287,7 @@ eulogize
 enatant
 epistolised
 eure
+escapado
 emblematized
 erratums
 endolaryngeal
