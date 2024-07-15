@@ -5926,7 +5926,6 @@ enhunger
 electromyographical
 emissary
 exhilarates
-echar
 erythrose
 euflavine
 epicondylitis
@@ -7964,6 +7963,7 @@ epimanikia
 ensilation
 expounds
 epimanikion
+echar
 epimeres
 epimeric
 epimeride
