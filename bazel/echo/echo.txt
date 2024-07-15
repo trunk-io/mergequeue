@@ -2968,6 +2968,7 @@ eleoblast
 eradiation
 evaluate
 efflorescence
+extern
 encorpore
 eliot
 eliphalet
@@ -13642,7 +13643,6 @@ effigial
 eurygnathic
 exterminatrix
 equivoke
-extern
 externa
 extraconscious
 externalise
