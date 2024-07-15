@@ -1665,7 +1665,6 @@ eider
 excisemen
 ectomorphism
 enshielding
-electroretinography
 eiders
 eidograph
 explanator
@@ -3966,6 +3965,7 @@ empathies
 empatron
 etrurian
 empearl
+electroretinography
 exultancy
 etypical
 estus
