@@ -12910,7 +12910,6 @@ chunkiness
 chunks
 chunner
 chuntered
-chunters
 chrysotherapy
 chupatty
 crithmene
@@ -17546,6 +17545,7 @@ cobles
 cobleskill
 cobless
 cobloaf
+chunters
 castlery
 cobnuts
 cobola
