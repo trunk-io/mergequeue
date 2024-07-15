@@ -1463,7 +1463,6 @@ flannelmouths
 fanwork
 false
 fiddled
-fortravail
 funis
 fattishness
 fother
@@ -11022,6 +11021,7 @@ fillets
 fumigated
 fierce
 footcandle
+fortravail
 festal
 fumigatories
 furzery
