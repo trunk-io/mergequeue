@@ -7663,6 +7663,7 @@ eliminative
 ensconce
 elixirs
 enhungered
+extrabold
 epicoracoid
 exocrine
 eccentricities
@@ -13786,7 +13787,6 @@ extorts
 ecteron
 esparto
 eastward
-extrabold
 emigating
 erotogenic
 eukaryote
