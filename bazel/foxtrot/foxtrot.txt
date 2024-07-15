@@ -4217,6 +4217,7 @@ felonries
 featherstitch
 flier
 foothold
+fluate
 fingerberry
 froe
 furlable
@@ -6230,7 +6231,6 @@ falange
 fog
 flrie
 frothier
-fluate
 fluavile
 favoritism
 flubbed
