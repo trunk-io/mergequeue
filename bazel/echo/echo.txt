@@ -484,7 +484,6 @@ eccrine
 eccrinology
 epiphylline
 eccrisis
-eccritic
 enregistered
 excavations
 embrangling
@@ -6583,6 +6582,7 @@ enterectomy
 exuviates
 enterer
 excusive
+eccritic
 echiuroidea
 embattled
 eurymus
