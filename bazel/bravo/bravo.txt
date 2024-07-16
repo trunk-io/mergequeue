@@ -3700,7 +3700,6 @@ battles
 battleships
 barrace
 buhr
-brahui
 battlesome
 brigantes
 bimestrial
@@ -13107,6 +13106,7 @@ bacterioscopist
 bromisation
 bastinaded
 blowzier
+brahui
 boride
 bregmatic
 banff
