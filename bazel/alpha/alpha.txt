@@ -11652,7 +11652,6 @@ artal
 anaesthetize
 anaesthetized
 anaesthetizer
-acidoid
 adsum
 arbalester
 anaetiological
@@ -17749,6 +17748,7 @@ appetitost
 azotobacter
 antipasto
 aquarellist
+acidoid
 aurothiosulphuric
 actinians
 anachronisms
