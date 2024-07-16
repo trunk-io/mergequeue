@@ -2067,7 +2067,6 @@ conli
 campaign
 clotheshorses
 campaigners
-cercarias
 campaigns
 colostric
 campana
@@ -8332,6 +8331,7 @@ chandam
 curatical
 cellulomonas
 chalazoidite
+cercarias
 chalazoin
 charvet
 chalcanth
