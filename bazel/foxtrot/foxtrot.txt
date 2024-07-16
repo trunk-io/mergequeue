@@ -7396,7 +7396,6 @@ fighter
 flinging
 furan
 forereport
-fasciculus
 forceless
 forcelessness
 forcelet
@@ -10891,6 +10890,7 @@ fliskier
 fossarian
 forsworn
 falloffs
+fasciculus
 fulleries
 finfish
 fleets
