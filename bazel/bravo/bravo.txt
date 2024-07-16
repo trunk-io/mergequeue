@@ -5478,6 +5478,7 @@ brouze
 bey
 bindi
 bindle
+boxed
 beelines
 beydom
 boatswain
@@ -13936,7 +13937,6 @@ boxcars
 bishopful
 barwing
 billete
-boxed
 bostonese
 bowsie
 bytime
