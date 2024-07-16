@@ -1416,7 +1416,6 @@ earl
 electrodialyses
 expandedness
 epidote
-embryous
 exalbuminose
 exterous
 effloresce
@@ -6625,6 +6624,7 @@ enterocleisis
 excluding
 enterococcal
 esperantidist
+embryous
 enseam
 expulsatory
 enterocoela
