@@ -10262,7 +10262,6 @@ ameliorations
 ameliorator
 amelioratory
 alcoholisation
-anoxyscope
 amellus
 amelu
 amelus
@@ -17571,6 +17570,7 @@ appareling
 apparency
 apparentements
 airify
+anoxyscope
 apparently
 apparitional
 aira
