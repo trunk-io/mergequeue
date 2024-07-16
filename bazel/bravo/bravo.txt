@@ -1905,7 +1905,6 @@ bandsaw
 basilicae
 bandsawn
 bandsman
-bandspreading
 bandstand
 beacon
 boronia
@@ -10678,6 +10677,7 @@ bearableness
 bumblebees
 bleaker
 bleakest
+bandspreading
 butcherliness
 bunion
 bernese
