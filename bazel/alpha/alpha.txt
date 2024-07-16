@@ -5302,7 +5302,6 @@ analgen
 afflictionless
 abranchian
 archoplasm
-afflictive
 agranulocytosis
 attaining
 aluminosity
@@ -14910,6 +14909,7 @@ ankaratrite
 anticlassicist
 ambassadress
 anticlastic
+afflictive
 anticlea
 anticlergy
 anticlerical
