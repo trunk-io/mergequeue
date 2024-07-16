@@ -2437,7 +2437,6 @@ denizenize
 designs
 decyne
 diaeresis
-decipherability
 dand
 devilled
 doctrinarily
@@ -14313,6 +14312,7 @@ ditto
 disperato
 dittoes
 delimitizing
+decipherability
 dittographic
 dubhgall
 dutcher
