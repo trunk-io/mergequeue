@@ -2941,7 +2941,6 @@ guilt
 gurkha
 grebes
 gollop
-geoffroyin
 geomance
 gyropilot
 guapilla
@@ -4834,6 +4833,7 @@ garlicwort
 glades
 graupels
 grush
+geoffroyin
 gritter
 gladful
 gunnel
