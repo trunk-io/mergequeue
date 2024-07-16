@@ -4083,7 +4083,6 @@ gangrenate
 galleria
 gimmor
 guiltful
-grubworm
 gymnasiarchy
 gymnasic
 gonif
@@ -10769,6 +10768,7 @@ gorhen
 gimbals
 gallium
 galempong
+grubworm
 gibbet
 gutlike
 gynaecomorphous
