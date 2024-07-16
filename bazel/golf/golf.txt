@@ -4386,7 +4386,6 @@ gutted
 grumps
 goblinesque
 ghaut
-gelants
 gynobase
 gluer
 griffinage
@@ -9744,6 +9743,7 @@ gambades
 greyhounds
 grocerwise
 glossaries
+gelants
 guying
 grummet
 gable
