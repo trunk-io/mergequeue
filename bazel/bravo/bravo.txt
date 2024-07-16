@@ -9202,7 +9202,6 @@ biotypic
 biotypology
 blowhole
 bettered
-biotite
 biotites
 bagasse
 bolometric
@@ -9926,6 +9925,7 @@ bitterness
 beggarly
 bitternut
 brooklime
+biotite
 bitterroot
 bittersweetly
 bittersweets
