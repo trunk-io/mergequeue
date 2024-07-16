@@ -864,6 +864,7 @@ forebows
 free
 fragilities
 fantasying
+falterer
 flagarie
 farforthly
 flexing
@@ -4899,7 +4900,6 @@ flagstick
 flagworm
 fluidifying
 feramorz
-falterer
 flaying
 fittedness
 florida
