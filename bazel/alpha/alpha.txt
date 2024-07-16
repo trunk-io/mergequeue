@@ -17395,7 +17395,6 @@ actors
 autocollimator
 antiforeign
 apostate
-apostates
 apostatically
 apostatise
 abthain
@@ -21110,6 +21109,7 @@ associator
 aplotomy
 asellate
 andabata
+apostates
 anthracitiferous
 arterioles
 arkansan
