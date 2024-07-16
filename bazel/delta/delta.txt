@@ -11504,6 +11504,7 @@ digredience
 dekaliter
 dishier
 diplodia
+deployments
 demandative
 discoideae
 despatchers
@@ -13935,7 +13936,6 @@ durwan
 distillery
 dynamogeneses
 daemonian
-deployments
 disdainous
 dachs
 distillmint
