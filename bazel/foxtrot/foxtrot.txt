@@ -548,6 +548,7 @@ flyability
 float
 footpace
 figless
+fullery
 frim
 forfeiter
 foxwood
@@ -10107,7 +10108,6 @@ foozling
 farmhands
 fordam
 faki
-fullery
 frithbot
 filmset
 frithy
