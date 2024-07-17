@@ -1693,6 +1693,7 @@ gabbier
 gammon
 gave
 gloeal
+glessite
 glass
 guesses
 gamesman
@@ -2531,7 +2532,6 @@ generated
 gazetteerage
 gomerel
 guetare
-glessite
 generations
 generative
 generatrices
