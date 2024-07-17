@@ -2275,7 +2275,6 @@ canadol
 coquina
 conceivers
 canafistola
-computerized
 canafistolo
 canafistula
 canafistulo
@@ -23288,6 +23287,7 @@ consulate
 consulated
 curiouser
 consulates
+computerized
 consulship
 consulships
 clavieristic
