@@ -3956,7 +3956,6 @@ eyepit
 empall
 exhilaratory
 excurvation
-evangelise
 empanelling
 engrailment
 empanels
@@ -8359,6 +8358,7 @@ epithem
 emulating
 epitheme
 eucleid
+evangelise
 eucarpic
 endocyemate
 epithetic
