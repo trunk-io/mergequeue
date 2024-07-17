@@ -5961,7 +5961,6 @@ factitude
 ferrary
 foliar
 fructiferous
-fasciodesis
 floodable
 fineable
 freeze
@@ -6002,6 +6001,7 @@ floods
 firemaster
 foreordains
 fortifiable
+fasciodesis
 fluorhydric
 filleter
 favism
