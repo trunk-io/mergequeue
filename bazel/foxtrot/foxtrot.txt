@@ -6429,6 +6429,7 @@ formants
 fitchet
 fluoridization
 flaking
+forwhy
 furilic
 fairm
 foliates
@@ -9685,7 +9686,6 @@ fregata
 frisolee
 freya
 freyalite
-forwhy
 frondent
 forfairn
 freibergite
