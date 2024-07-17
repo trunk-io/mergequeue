@@ -2464,7 +2464,6 @@ dunghill
 decipium
 diphase
 diplodocus
-dooms
 dipyre
 decision
 defeatists
@@ -14249,6 +14248,7 @@ diter
 diluter
 ditertiary
 disyokes
+dooms
 danburite
 dithecal
 dither
