@@ -2592,7 +2592,6 @@ gurgeon
 gathering
 grolier
 gargety
-gonothecal
 genetoid
 globulysis
 gangliectomy
@@ -9799,6 +9798,7 @@ galeate
 guebre
 guttiferal
 grutch
+gonothecal
 gewgaw
 grutched
 gunneraceae
