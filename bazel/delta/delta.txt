@@ -9279,7 +9279,6 @@ docibleness
 diener
 dienes
 delis
-dialecticism
 dier
 dyer
 dementis
@@ -13678,6 +13677,7 @@ dedications
 dissyllable
 dissimilarities
 decatyl
+dialecticism
 dignitarial
 dolce
 dissimilars
