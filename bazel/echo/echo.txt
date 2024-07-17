@@ -5704,7 +5704,6 @@ encyclopedist
 engirding
 embrace
 ensteel
-enwraps
 engirdle
 ebullient
 engirdled
@@ -10757,6 +10756,7 @@ euhyostylic
 eukairite
 evangelistics
 eaver
+enwraps
 equiformal
 ecdemite
 eulachan
