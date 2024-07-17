@@ -5872,7 +5872,6 @@ farmeries
 fayal
 floatation
 fists
-floated
 fluochloride
 fattening
 fierasfer
@@ -10210,6 +10209,7 @@ fibra
 frankheartedly
 filite
 flunkyism
+floated
 flanker
 footnote
 froggies
