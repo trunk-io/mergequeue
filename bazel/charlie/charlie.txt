@@ -2213,7 +2213,6 @@ capotes
 campshed
 campsheeting
 campsite
-caver
 compasser
 chugalugging
 coadunation
@@ -18150,6 +18149,7 @@ coenogenesis
 cryptococcic
 craps
 convexedly
+caver
 club
 catnapers
 craneman
