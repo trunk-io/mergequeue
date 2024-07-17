@@ -3430,6 +3430,7 @@ caprylic
 cymene
 caprylyl
 caprylin
+coat
 caprylone
 caprimulgi
 chivarro
@@ -17412,7 +17413,6 @@ channeled
 churchmaster
 coastward
 coastwards
-coat
 coatdress
 coated
 coatee
