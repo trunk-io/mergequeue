@@ -18371,7 +18371,6 @@ crenelled
 cogger
 coggers
 cogging
-claypan
 coggledy
 cogitate
 combed
@@ -18406,6 +18405,7 @@ cogman
 counterbuilding
 conformers
 cogmen
+claypan
 chenevixite
 cognac
 curdier
