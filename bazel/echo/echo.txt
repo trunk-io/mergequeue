@@ -5939,6 +5939,7 @@ enigmas
 endenizen
 enrapturer
 enjambements
+enarration
 enigmata
 eluvial
 exquisite
@@ -10133,7 +10134,6 @@ explosives
 etheostominae
 etheostomoid
 electrophoresed
-enarration
 ecaudate
 earwax
 ether
