@@ -8480,7 +8480,6 @@ chamaepericlymenum
 chamaephyte
 cephadia
 chamaerops
-chamaesiphonaceae
 chamaesiphonales
 chamal
 chamar
@@ -18384,6 +18383,7 @@ culdee
 coggly
 coghle
 crabbish
+chamaesiphonaceae
 cogida
 chamber
 cogie
