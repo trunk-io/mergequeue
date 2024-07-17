@@ -6829,7 +6829,6 @@ burley
 baroi
 bes
 bushpig
-barbets
 boaedon
 busboy
 besagne
@@ -7510,6 +7509,7 @@ bever
 barleducs
 beverse
 bevesseled
+barbets
 bluebirds
 barrelmaking
 boneache
