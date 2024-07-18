@@ -4305,6 +4305,7 @@ enamels
 emit
 edibles
 enami
+estranging
 enamorado
 enamorato
 enamored
@@ -7327,7 +7328,6 @@ ecdysons
 epalpebrate
 eupolyzoa
 epanadiplosis
-estranging
 escruage
 eyelids
 electively
