@@ -6115,6 +6115,7 @@ aglets
 antidotary
 amnestying
 albata
+aliases
 aglycon
 aeonian
 asphodels
@@ -9314,7 +9315,6 @@ alphabetiform
 antrectomy
 alopeke
 alophas
-aliases
 alorcinic
 alosa
 alouette
