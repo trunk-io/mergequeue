@@ -5487,7 +5487,6 @@ deistic
 decolouriser
 deorganize
 deregister
-dallack
 disenablement
 deorsum
 deorsumversion
@@ -5611,6 +5610,7 @@ desensitizes
 dependency
 dependingly
 depends
+dallack
 desmepithelium
 dispersed
 dukeship
