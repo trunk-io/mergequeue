@@ -2574,7 +2574,6 @@ bulletined
 bedevils
 barytocelestite
 barytone
-barytones
 barytons
 busing
 bears
@@ -11459,6 +11458,7 @@ bellyer
 beguiles
 bigeneric
 bivious
+barytones
 bluestockings
 bluetit
 bullhoof
