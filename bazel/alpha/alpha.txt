@@ -22394,6 +22394,7 @@ adversion
 astrospectroscopic
 acct
 astrotheology
+automatization
 astrut
 asturian
 aglethead
@@ -22586,7 +22587,6 @@ atheriogaean
 atheris
 athermancy
 assonances
-automatization
 antihormone
 athermanous
 athermic
