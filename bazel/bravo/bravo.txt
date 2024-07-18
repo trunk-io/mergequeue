@@ -2969,7 +2969,6 @@ blarneyer
 barse
 barstools
 bart
-bartend
 bespot
 bartended
 barrera
@@ -8081,6 +8080,7 @@ bicornes
 bochur
 bicornous
 booklift
+bartend
 bagroom
 bicornuate
 bicornute
