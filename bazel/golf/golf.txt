@@ -4470,6 +4470,7 @@ gypster
 gamb
 giraffidae
 gomutis
+gambrel
 gumwoods
 gills
 getter
@@ -6182,7 +6183,6 @@ goatfishes
 gigmanic
 gytrash
 gilbertine
-gambrel
 gregor
 garrisoned
 gastrimargy
