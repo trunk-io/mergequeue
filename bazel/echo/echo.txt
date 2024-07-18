@@ -106,7 +106,6 @@ exodermal
 eparch
 eartag
 economicalness
-elementoid
 euphonised
 earth
 echinoderma
@@ -3372,6 +3371,7 @@ embarricado
 exuviation
 embarring
 encomy
+elementoid
 emetophobia
 epionynychia
 ephoral
