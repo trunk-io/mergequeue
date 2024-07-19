@@ -6087,7 +6087,6 @@ beckett
 becowarded
 berat
 benasty
-beholdable
 bedrift
 bataan
 boarskin
@@ -6345,6 +6344,7 @@ bibs
 benzanthrone
 bifarious
 bipolarize
+beholdable
 ballbuster
 begalling
 benzdifuran
