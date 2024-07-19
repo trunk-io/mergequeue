@@ -646,7 +646,6 @@ dudgeons
 donnard
 dampne
 dampness
-decolourise
 diacetylene
 dampproof
 dampproofing
@@ -2575,6 +2574,7 @@ dermobranchia
 decartelized
 declutch
 duad
+decolourise
 discouragements
 deco
 docetist
