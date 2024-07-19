@@ -8675,6 +8675,7 @@ fortifiers
 fid
 fortifies
 falsifies
+frustulent
 fortifys
 finalist
 fortyfives
@@ -10743,7 +10744,6 @@ flyover
 flat
 felup
 fomentation
-frustulent
 footrope
 fleeing
 fletches
