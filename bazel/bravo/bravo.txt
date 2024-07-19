@@ -9643,6 +9643,7 @@ bilateral
 bishopling
 biol
 bishoprics
+burrfish
 bishopstool
 bishopweed
 bobbinets
@@ -17794,7 +17795,6 @@ bedrolls
 braccio
 balaenoid
 burrers
-burrfish
 blepharoconjunctivitis
 buzzle
 burrgrailer
