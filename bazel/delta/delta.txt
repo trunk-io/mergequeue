@@ -2722,7 +2722,6 @@ doubtfulness
 decorament
 duetto
 decorate
-decorating
 dont
 discounsel
 diplopterous
@@ -5476,6 +5475,7 @@ deodorization
 displumes
 deodorize
 deodorized
+decorating
 disquiparation
 digitalizing
 deodorizes
