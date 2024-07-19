@@ -9691,7 +9691,6 @@ albacea
 alveololingual
 alveolosubnasal
 alveolus
-alveus
 alviducous
 alvin
 aux
@@ -11996,6 +11995,7 @@ aletris
 abstractors
 anastasian
 accuses
+alveus
 aerogen
 anastasimon
 anastasimos
