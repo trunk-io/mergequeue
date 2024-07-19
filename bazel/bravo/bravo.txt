@@ -5735,7 +5735,6 @@ belion
 blowiness
 barrator
 belittle
-begloomed
 bailees
 belive
 bifurcous
@@ -9310,6 +9309,7 @@ beadles
 biprong
 baseball
 bipunctual
+begloomed
 befit
 bobsled
 browsers
