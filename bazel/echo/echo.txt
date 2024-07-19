@@ -4310,6 +4310,7 @@ enami
 estranging
 enamorado
 enamorato
+exemplificative
 enamored
 endleaves
 ensnarement
@@ -9624,7 +9625,6 @@ emulator
 epihippus
 esophagalgia
 esophagean
-exemplificative
 esophagitis
 entobranchiate
 euryale
