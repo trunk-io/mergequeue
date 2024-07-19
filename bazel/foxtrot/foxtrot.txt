@@ -9420,6 +9420,7 @@ fliers
 foodstuff
 foreteeth
 flossed
+fuscohyaline
 frary
 flinching
 flouriness
@@ -11519,7 +11520,6 @@ flypasts
 fidgetation
 forethoughtless
 fuscin
-fuscohyaline
 fundamentally
 fibrolipomatous
 ficklewise
