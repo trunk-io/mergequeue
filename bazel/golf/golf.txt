@@ -1893,7 +1893,6 @@ groundwave
 garvie
 gauged
 grovet
-gutturals
 glabrescent
 gymnodontes
 goclenian
@@ -3459,6 +3458,7 @@ gilt
 gettings
 gantangs
 gigtree
+gutturals
 galeres
 griffe
 gents
