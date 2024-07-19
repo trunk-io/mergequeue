@@ -5630,7 +5630,6 @@ fmt
 flyer
 frontonasal
 frouncing
-frenchmen
 flageolet
 flamant
 fascicled
@@ -9387,6 +9386,7 @@ franklinization
 flaxseed
 franklins
 flector
+frenchmen
 faffy
 firkins
 fecal
