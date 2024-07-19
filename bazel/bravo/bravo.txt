@@ -12055,7 +12055,6 @@ bromocresol
 befrounce
 boilerful
 boilerman
-boilerplate
 boilersmith
 bladdernose
 brackishness
@@ -16861,6 +16860,7 @@ bigger
 buffing
 bufflehead
 breekums
+boilerplate
 buffont
 bloodleaf
 buffoon
