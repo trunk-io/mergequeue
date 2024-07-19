@@ -6600,7 +6600,6 @@ charcuterie
 calamitoid
 cd
 cdf
-carid
 chemosorb
 cheroot
 cdg
@@ -18201,6 +18200,7 @@ calendry
 coercers
 coercible
 coercionary
+carid
 coercitive
 coercive
 coerciveness
