@@ -702,7 +702,6 @@ brewage
 bathtubs
 baddies
 boral
-biometeorology
 bade
 badenite
 bogyland
@@ -12163,6 +12162,7 @@ boletes
 byrled
 brabbler
 boleweed
+biometeorology
 bolewort
 baklawas
 benzodiazine
