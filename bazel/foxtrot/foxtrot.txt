@@ -411,6 +411,7 @@ ficoes
 frislet
 faq
 facie
+fibber
 foraramina
 firetrap
 frustraneous
@@ -4365,7 +4366,6 @@ frankify
 flunker
 flimmer
 feerie
-fibber
 flavius
 forthward
 flopwing
