@@ -3594,6 +3594,7 @@ calefaction
 carabinier
 carabiniere
 carabinieri
+chiffonade
 cotrespasser
 caraboa
 cinques
@@ -19273,7 +19274,6 @@ collutoria
 collutories
 collutorium
 colluvial
-chiffonade
 countlessly
 couma
 cousins

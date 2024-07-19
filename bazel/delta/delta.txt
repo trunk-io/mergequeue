@@ -1746,7 +1746,6 @@ derogation
 didelphous
 disaccord
 depaysee
-deathtime
 diverticular
 deathtrap
 downtimes
@@ -4262,6 +4261,7 @@ despiritualization
 diarrhetic
 delphinia
 downthrust
+deathtime
 disentranced
 disillude
 diddest
