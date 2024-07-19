@@ -17393,7 +17393,6 @@ cimline
 coassist
 coassistant
 culpas
-craziness
 coassume
 crystallic
 coassuming
@@ -20288,6 +20287,7 @@ coachers
 commot
 commotions
 classless
+craziness
 commove
 commoved
 conjectured
