@@ -24245,6 +24245,7 @@ convolvulinic
 certiorari
 cholecystoduodenostomy
 constraining
+curval
 comr
 choloepus
 convolvulus
@@ -31587,7 +31588,6 @@ catawbas
 cleave
 cornett
 cheet
-curval
 chaton
 curvation
 curvative
