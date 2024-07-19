@@ -3233,7 +3233,6 @@ crackbrain
 casques
 capitalizing
 capitalness
-capitals
 capitan
 capitana
 capitasti
@@ -21142,6 +21141,7 @@ concatenator
 concatervate
 concause
 cyclist
+capitals
 concaves
 concavity
 concavities
