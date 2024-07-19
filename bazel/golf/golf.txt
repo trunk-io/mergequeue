@@ -4697,6 +4697,7 @@ galactite
 gyroscope
 glick
 gendarme
+gabbroic
 grovelers
 ganglander
 greenwood
@@ -6386,7 +6387,6 @@ gobiesocid
 geostrophic
 gusto
 golcondas
-gabbroic
 gocart
 giddypate
 gorgonin
