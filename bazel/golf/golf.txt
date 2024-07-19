@@ -4050,6 +4050,7 @@ geniculum
 gettysburg
 gargoyle
 gymmal
+gerahs
 ganza
 gephyrean
 grimoire
@@ -6251,7 +6252,6 @@ gid
 gobbles
 ginzoes
 grating
-gerahs
 genistein
 gobies
 guiser
