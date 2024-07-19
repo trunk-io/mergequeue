@@ -9190,7 +9190,6 @@ fishpot
 fragileness
 fusels
 foreknown
-foxery
 faceplate
 fragment
 faddism
@@ -10045,6 +10044,7 @@ foollike
 flans
 fringehead
 fringelet
+foxery
 fruitier
 fringent
 forfended
