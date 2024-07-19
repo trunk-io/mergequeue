@@ -1181,6 +1181,7 @@ glade
 glaux
 gimcrackery
 gimmicking
+garnished
 gour
 glanders
 glossectomies
@@ -2727,7 +2728,6 @@ gadhelic
 gung
 garbs
 gamier
-garnished
 gelotometer
 glottochronological
 gristly
