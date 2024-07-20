@@ -1994,7 +1994,6 @@ feeler
 fibroserous
 firespout
 fitched
-fatelike
 fent
 flossflower
 fortunel
@@ -7772,6 +7771,7 @@ firmamental
 finning
 fluorescein
 ferrotyped
+fatelike
 footrail
 fleshier
 facingly
