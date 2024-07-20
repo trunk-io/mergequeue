@@ -11542,7 +11542,6 @@ discolorations
 discolored
 doest
 defalcations
-dacryocystocele
 discolorment
 discolors
 diosma
@@ -15754,6 +15753,7 @@ doria
 demiturned
 disgig
 dukhn
+dacryocystocele
 doryanthes
 doricism
 dorylinae
