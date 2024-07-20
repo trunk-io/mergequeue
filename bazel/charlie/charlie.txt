@@ -1579,6 +1579,7 @@ coassumed
 calls
 callum
 calluna
+coenzyme
 creasy
 cellulating
 calmant
@@ -13270,7 +13271,6 @@ chromometer
 cyclades
 cycladic
 clavichordist
-coenzyme
 cyclamen
 campshot
 cyclamens
