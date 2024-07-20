@@ -20361,7 +20361,6 @@ antistrike
 aistopod
 arsenization
 amphimacer
-arseno
 arsenobenzol
 arsenobismite
 arsenofuran
@@ -20921,6 +20920,7 @@ allactite
 adipometer
 altaic
 arter
+arseno
 achterveld
 ascaridia
 ascaridiasis
