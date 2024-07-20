@@ -132,6 +132,7 @@ debilitations
 dyspathetic
 demiurgus
 deadcenter
+drawbench
 draughtmanship
 deviascope
 dekko
@@ -16805,7 +16806,6 @@ drawbar
 decussation
 demitube
 drawbeam
-drawbench
 dyscrasial
 divinise
 detritivorous
