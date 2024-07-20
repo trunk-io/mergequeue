@@ -73,6 +73,7 @@ fighters
 flecken
 facellite
 felonious
+flysch
 forementioned
 fordeal
 fullfaces
@@ -8778,7 +8779,6 @@ fearable
 flexured
 friss
 feucht
-flysch
 frigorimeter
 fossildom
 folksong
