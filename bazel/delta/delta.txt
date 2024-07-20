@@ -6161,7 +6161,6 @@ derangeable
 deranges
 dropout
 durgen
-deranging
 deader
 deckedout
 derated
@@ -10125,6 +10124,7 @@ dynamization
 dockmackie
 dynamo
 delignate
+deranging
 disinfectant
 dynamoelectrical
 debilitation
