@@ -6755,7 +6755,6 @@ fanny
 featherbed
 foyaitic
 fidepromission
-foyboat
 foyer
 flamming
 foil
@@ -8056,6 +8055,7 @@ frilly
 fumer
 focalizing
 faunistic
+foyboat
 forseeable
 forme
 fulminated
