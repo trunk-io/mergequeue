@@ -5625,7 +5625,6 @@ goatbrush
 gloomings
 glacification
 gunyang
-glanis
 gearings
 gingalls
 gastralgic
@@ -6745,6 +6744,7 @@ genal
 genros
 goniums
 gasterosteoid
+glanis
 gradate
 gestures
 guffawing
