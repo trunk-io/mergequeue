@@ -4308,6 +4308,7 @@ asprawl
 adsignify
 agazed
 aktiebolag
+antickt
 anorthic
 aterian
 adsmith
@@ -18439,7 +18440,6 @@ ankylotia
 arapaho
 arapahos
 azorian
-antickt
 araphorostic
 anticensoriously
 autoecious
