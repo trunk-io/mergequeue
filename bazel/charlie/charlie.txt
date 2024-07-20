@@ -10934,7 +10934,6 @@ coformulator
 chipwood
 chiquito
 chiragra
-chiragrical
 chiral
 clerids
 chiralgia
@@ -18412,6 +18411,7 @@ calorize
 cognatus
 cementum
 cognisable
+chiragrical
 catholicized
 cognisableness
 calpulli
