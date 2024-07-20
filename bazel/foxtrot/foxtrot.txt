@@ -819,7 +819,6 @@ flog
 fissidentaceae
 faun
 faveoli
-firebolt
 francophobia
 frogeyes
 fanjet
@@ -5641,6 +5640,7 @@ fascinations
 flightier
 foster
 facund
+firebolt
 forepassed
 fannier
 formfeed
