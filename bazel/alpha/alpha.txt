@@ -4899,7 +4899,6 @@ almsfolk
 adjurations
 acculturized
 aleuromancy
-aerography
 aerographical
 aerographies
 aerohydrodynamic
@@ -12469,6 +12468,7 @@ alfilaria
 azoturia
 anemonal
 anemone
+aerography
 anticreator
 avidities
 albuminiform
