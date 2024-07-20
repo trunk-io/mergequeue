@@ -8293,6 +8293,7 @@ fuddled
 foryield
 furnished
 forints
+fautorship
 facade
 forisfamiliate
 forisfamiliation
@@ -11447,7 +11448,6 @@ fettering
 forebemoaned
 founte
 fortunetell
-fautorship
 flares
 frigidarium
 flaillike
