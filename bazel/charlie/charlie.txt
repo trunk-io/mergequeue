@@ -7476,7 +7476,6 @@ campbellite
 cephalotaceae
 chalaziferous
 cephalotaxus
-cephalothecal
 cephalothoraxes
 cephalotomy
 contrate
@@ -18048,6 +18047,7 @@ coelonavigation
 ceraceous
 chyluria
 colonelcy
+cephalothecal
 coeloplanula
 chartreuse
 coelospermous
