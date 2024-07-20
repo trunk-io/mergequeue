@@ -2058,7 +2058,6 @@ facedown
 faucalize
 frenches
 feinting
-fatigueless
 fireboat
 forwander
 flatlander
@@ -7766,6 +7765,7 @@ foremother
 fusillade
 flyblew
 flickery
+fatigueless
 fren
 fraenum
 furs
