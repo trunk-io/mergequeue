@@ -14856,7 +14856,6 @@ barbershop
 breakable
 breakableness
 bracket
-behypocrite
 breakax
 bulimic
 breakaxe
@@ -15581,6 +15580,7 @@ borer
 babyhoods
 bristliness
 brucina
+behypocrite
 bristol
 backening
 bewigging
