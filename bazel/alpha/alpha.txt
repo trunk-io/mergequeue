@@ -5177,7 +5177,6 @@ affectless
 affector
 avionics
 affectum
-affectus
 affeerer
 ankerite
 ampulated
@@ -14575,6 +14574,7 @@ anthropurgic
 anthroropolith
 anthroxanic
 analogized
+affectus
 antidiphtheric
 anththeridia
 anthurium
