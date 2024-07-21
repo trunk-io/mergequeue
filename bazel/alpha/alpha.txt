@@ -21202,7 +21202,6 @@ auxins
 anticonformist
 ashrama
 ashstone
-authorish
 ashtoreth
 ashtray
 aspartic
@@ -21399,6 +21398,7 @@ artefact
 azarole
 antitegula
 asperge
+authorish
 anosmias
 asperges
 asperggilla
