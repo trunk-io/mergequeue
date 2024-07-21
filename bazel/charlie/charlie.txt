@@ -6696,7 +6696,6 @@ crenellation
 cedriret
 cedrol
 corticiform
-cedron
 centibar
 cherte
 cedrus
@@ -26264,6 +26263,7 @@ costated
 cloacas
 crouching
 congrio
+cedron
 confectionery
 costeaning
 costectomy
