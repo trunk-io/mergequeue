@@ -3502,7 +3502,6 @@ ghanaian
 galumphed
 glumella
 gourmandize
-gastronomy
 gharnao
 goniaster
 gregarinaria
@@ -7951,6 +7950,7 @@ gangsman
 goniopholis
 glaucine
 gunstocking
+gastronomy
 gastronomics
 gunstock
 gossiper
