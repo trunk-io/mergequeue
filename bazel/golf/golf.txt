@@ -3116,7 +3116,6 @@ geraniaceae
 geotherm
 gelatinobromide
 gasproof
-gamostelic
 glycyrrhiza
 gingelies
 grangerism
@@ -4692,6 +4691,7 @@ gecks
 garshuni
 gangplow
 gytling
+gamostelic
 goniale
 gitonin
 graphitizable
