@@ -10887,7 +10887,6 @@ dhooley
 dirgie
 diriment
 dirhams
-dirhem
 dirhinous
 dirian
 dirichletian
@@ -12854,6 +12853,7 @@ disman
 dismantles
 darksome
 dyarchic
+dirhem
 dismarket
 dervishhood
 dunnages
