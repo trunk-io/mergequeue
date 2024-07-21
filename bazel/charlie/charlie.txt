@@ -4297,6 +4297,7 @@ carfares
 carfloat
 coater
 carfuffle
+capiteaux
 camauros
 centroidal
 carfuffling
@@ -28241,7 +28242,6 @@ crappy
 crappie
 compoundness
 crapple
-capiteaux
 capreolus
 cyclometries
 crapshooters
