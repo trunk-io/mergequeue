@@ -5246,6 +5246,7 @@ elkhorn
 esterellite
 enchest
 emulsionize
+engrafting
 ecmnesia
 endorsable
 entopterygoid
@@ -12300,7 +12301,6 @@ electronegative
 equilucent
 embellishing
 exerce
-engrafting
 exercent
 equimultiple
 exceptious
