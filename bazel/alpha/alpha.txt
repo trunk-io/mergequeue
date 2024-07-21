@@ -11616,7 +11616,6 @@ anaesthesiology
 anaesthesis
 abeltree
 almondlike
-anaesthetic
 appearanced
 anaesthetically
 anthropomantic
@@ -17377,6 +17376,7 @@ atrophiated
 armigeral
 apostematic
 animalcules
+anaesthetic
 autothermy
 aposteme
 aposteriori
