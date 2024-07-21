@@ -2691,7 +2691,6 @@ deconsecrate
 duels
 dareful
 deconsecrated
-deconsecration
 detailedness
 demitrain
 deconsideration
@@ -14640,6 +14639,7 @@ divorcive
 dietal
 devs
 divort
+deconsecration
 demythify
 donning
 divots
