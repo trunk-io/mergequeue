@@ -7193,7 +7193,6 @@ emplace
 enwinding
 elemis
 entomoid
-endangerment
 emboltement
 enwing
 ecclesiasticus
@@ -10082,6 +10081,7 @@ eyestrain
 endogamous
 ensealing
 eterne
+endangerment
 energizer
 escargots
 eternisation
