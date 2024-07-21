@@ -4190,6 +4190,7 @@ emptiers
 emptiest
 emptiness
 emptio
+equipment
 externship
 emptor
 evagination
@@ -8687,7 +8688,6 @@ evangelists
 equipendent
 equiperiodic
 emendations
-equipment
 equipoise
 estrone
 evasively
