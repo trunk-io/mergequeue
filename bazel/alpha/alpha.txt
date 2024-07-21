@@ -5979,7 +5979,6 @@ ancilia
 arrogancy
 aggressin
 altered
-attaint
 abortus
 amount
 antireality
@@ -9873,6 +9872,7 @@ accipenser
 aegithalos
 alascan
 amatembu
+attaint
 alloquial
 announcements
 augurs
