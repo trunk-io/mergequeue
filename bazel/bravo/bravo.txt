@@ -286,6 +286,7 @@ booths
 bacis
 belar
 back
+brachiocubital
 backache
 burrknot
 bocardo
@@ -14093,7 +14094,6 @@ brachinus
 brachiocephalic
 burkites
 behaviour
-brachiocubital
 brachiolaria
 bogusness
 brachiopoda
