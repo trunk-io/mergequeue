@@ -5950,7 +5950,6 @@ broadpiece
 brontothere
 buffaloes
 beltane
-belauding
 bimetalic
 bullit
 belter
@@ -17620,6 +17619,7 @@ burghers
 beprose
 burgraves
 burghmaster
+belauding
 burring
 bearlet
 blindage
