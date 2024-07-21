@@ -13405,6 +13405,7 @@ ann
 anna
 antiwit
 annabergite
+approvement
 annal
 antiminsion
 antimnemonic
@@ -17467,7 +17468,6 @@ airship
 antiarchi
 apothegmatically
 apothegmatist
-approvement
 atriensis
 apothegmatize
 apotheosis
