@@ -940,7 +940,6 @@ gobet
 groans
 gammerstang
 gastropneumatic
-granam
 gammock
 grouched
 gastroparietal
@@ -7715,6 +7714,7 @@ ginny
 grumbletonian
 gnomish
 gray
+granam
 getaway
 greasily
 goosishly
