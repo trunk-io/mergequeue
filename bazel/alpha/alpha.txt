@@ -8761,7 +8761,6 @@ apicifixed
 amblosis
 arachidonic
 allhallows
-allheals
 acestoma
 alliage
 alliance
@@ -18812,6 +18811,7 @@ antecedaneous
 anastomose
 archer
 archerfishes
+allheals
 assurgent
 actinoida
 antideflation
