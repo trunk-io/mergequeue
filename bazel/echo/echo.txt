@@ -4121,7 +4121,6 @@ embryonated
 externum
 encl
 encaustes
-etherol
 elaborator
 elaeosia
 engraphy
@@ -5738,6 +5737,7 @@ engiscope
 enigmatization
 engystomatidae
 enatic
+etherol
 explosions
 extinguish
 ephorus
