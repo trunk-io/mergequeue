@@ -9624,7 +9624,6 @@ combmaking
 checkpoints
 commonize
 checkrack
-checkrail
 casehardens
 cricotracheotomy
 checkrein
@@ -14607,6 +14606,7 @@ cisco
 ciscoes
 cise
 comprisable
+checkrail
 ciseaux
 courante
 cising
