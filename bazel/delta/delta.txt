@@ -3715,7 +3715,6 @@ dehache
 dorsoepitrochlear
 dehypnotize
 dehair
-deheathenize
 denudates
 desuetude
 decard
@@ -6886,6 +6885,7 @@ derivative
 desmopathology
 desmopexia
 diaphanometry
+deheathenize
 dentary
 desmopyknosis
 desmorrhexis
