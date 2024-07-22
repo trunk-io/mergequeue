@@ -2647,7 +2647,6 @@ electrostenolytic
 equable
 ectocornea
 evil
-equiform
 entermise
 exciples
 embiidina
@@ -3958,6 +3957,7 @@ emparchment
 enruin
 embarrassingly
 empathetic
+equiform
 extramodal
 empathies
 empatron
