@@ -1825,7 +1825,6 @@ flakeboard
 foredoes
 fatiguing
 featherwing
-fieldworker
 featherwise
 familiarisingly
 federalizes
@@ -10658,6 +10657,7 @@ fundamental
 fruitgrower
 foodstuffs
 fruitiness
+fieldworker
 famish
 frightable
 facultied
