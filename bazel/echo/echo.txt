@@ -3087,6 +3087,7 @@ eyewash
 elocutionist
 empyreumata
 empennage
+equiangularity
 elaphomyces
 enantiosis
 epicalyces
@@ -5518,7 +5519,6 @@ enfeebles
 enfeebling
 enent
 epigrammatised
-equiangularity
 edessan
 enfeeblish
 effectful
