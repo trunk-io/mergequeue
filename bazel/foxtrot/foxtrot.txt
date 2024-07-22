@@ -88,7 +88,6 @@ faces
 facesaving
 folkright
 flattening
-frizettes
 flowerfence
 foliobranch
 fiendish
@@ -3787,6 +3786,7 @@ fertilizability
 funnily
 faultlessly
 fortressed
+frizettes
 furoate
 fibula
 flaithship
