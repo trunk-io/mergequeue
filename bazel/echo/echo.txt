@@ -8037,7 +8037,6 @@ exscript
 epigonal
 enoplion
 employers
-epirrhematic
 emetin
 epipanies
 ethylene
@@ -11820,6 +11819,7 @@ eplot
 externization
 exploited
 electromagnetically
+epirrhematic
 enduring
 epidendric
 eire
