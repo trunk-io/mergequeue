@@ -3863,7 +3863,6 @@ bint
 bazoo
 brockage
 bazooka
-benote
 bazookas
 bazzite
 bamboos
@@ -11857,6 +11856,7 @@ beento
 braggest
 becrown
 barcan
+benote
 beperiwigged
 barytocelestine
 benzophenanthrazine
