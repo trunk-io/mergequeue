@@ -708,6 +708,7 @@ employing
 enspell
 equidistant
 eidently
+enode
 equivalency
 eutelegenic
 eyefuls
@@ -6197,7 +6198,6 @@ ensteel
 ectosarcous
 exterritorialize
 evviva
-enode
 enzymolytic
 enoint
 enterological
