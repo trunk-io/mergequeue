@@ -5594,7 +5594,6 @@ firefight
 fiddlies
 fader
 fibrinocellular
-flycatcher
 flycatchers
 flicflac
 filet
@@ -11046,6 +11045,7 @@ funambulator
 fishline
 feels
 faunological
+flycatcher
 frictionizing
 funambulatory
 funambule
