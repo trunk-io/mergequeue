@@ -8439,7 +8439,6 @@ electrizer
 evisceration
 egyptianize
 equip
-endochrome
 eglogue
 epizootology
 ersh
@@ -11723,6 +11722,7 @@ examinant
 exocannibalism
 enscrolled
 examinatory
+endochrome
 encumbering
 equivocacies
 examinatorial
