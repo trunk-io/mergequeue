@@ -4993,7 +4993,6 @@ beetles
 bubal
 brompicrin
 baching
-beetlestone
 buoying
 bhunder
 beetlike
@@ -13335,6 +13334,7 @@ bradburya
 botaurus
 blooie
 beeswings
+beetlestone
 badmen
 botched
 botchedly
