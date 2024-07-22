@@ -28,6 +28,7 @@ arrogations
 amblyopia
 aasvogel
 ab
+anaphoric
 assurate
 artemon
 avernus
@@ -10839,7 +10840,6 @@ ammophilous
 athwarthawse
 ammos
 ammotherapy
-anaphoric
 ammu
 antipepsin
 ammunition
