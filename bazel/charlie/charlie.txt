@@ -8358,7 +8358,6 @@ chalcography
 caucho
 chalcographic
 chalcographical
-chalcographist
 chalcolithic
 chalcomenite
 chalcone
@@ -28765,6 +28764,7 @@ cupeler
 civetone
 crepon
 crept
+chalcographist
 canters
 circaetus
 compendiary
