@@ -47,6 +47,7 @@ gunfires
 genotypically
 gollar
 gableboard
+groats
 graperies
 gangue
 gabler
@@ -8689,7 +8690,6 @@ gismo
 groundenell
 grubby
 gambit
-groats
 glucosuric
 garrets
 governess
