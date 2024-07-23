@@ -5836,7 +5836,6 @@ decoupled
 deposer
 deposers
 discouragement
-deposing
 dissuade
 deposit
 diamondwork
@@ -13494,6 +13493,7 @@ domic
 disreport
 disreputability
 desolater
+deposing
 dumpily
 disengagements
 dihexagonal
