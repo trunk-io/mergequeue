@@ -3670,6 +3670,7 @@ flook
 farmable
 fridstool
 fielder
+fauve
 floatsman
 farcicalness
 filigrain
@@ -4798,7 +4799,6 @@ fever
 folie
 flagellula
 flickeringly
-fauve
 fannings
 flageolets
 flagfishes
