@@ -2992,7 +2992,6 @@ flyoff
 feuilletons
 filialness
 fleches
-funniness
 facier
 fooleries
 freezed
@@ -5466,6 +5465,7 @@ farkleberry
 fluozirconic
 fernbrake
 flora
+funniness
 fusk
 frequentness
 flemishes
