@@ -11,7 +11,6 @@ gummous
 gunrooms
 gabber
 gabbers
-gobi
 grasswork
 gabelles
 genetous
@@ -7872,6 +7871,7 @@ gorst
 gravemaking
 guaiacum
 gutter
+gobi
 gaberloonie
 gliriform
 gooseberries
