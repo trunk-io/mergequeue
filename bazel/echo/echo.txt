@@ -10361,7 +10361,6 @@ epitimesis
 exporting
 enleagued
 enneastyle
-ethnogeographer
 eudaemonism
 eclecticist
 epibole
@@ -10410,6 +10409,7 @@ ethography
 eundem
 entropion
 ethology
+ethnogeographer
 ethologic
 ethologies
 eupterotidae
