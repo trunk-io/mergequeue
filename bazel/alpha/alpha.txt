@@ -7676,6 +7676,7 @@ assertorically
 alcohol
 alcoholate
 alcoholature
+annot
 alcoholdom
 abbrev
 apoquinamine
@@ -13510,7 +13511,6 @@ armada
 acropodia
 annomination
 alberich
-annot
 azeotropism
 amoebida
 amputated
