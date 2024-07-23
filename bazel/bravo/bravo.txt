@@ -5989,7 +5989,6 @@ belute
 bhungini
 belvedere
 baywood
-biangulated
 bluewood
 belvedered
 blueblossom
@@ -9266,6 +9265,7 @@ brighter
 bipyramid
 bring
 bipyridyl
+biangulated
 bubale
 bacterioidal
 bothersomeness
