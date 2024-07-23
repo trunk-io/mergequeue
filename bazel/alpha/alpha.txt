@@ -9094,7 +9094,6 @@ abience
 alludes
 alluding
 allumette
-allumine
 acipenser
 actively
 accendibility
@@ -12315,6 +12314,7 @@ andrena
 anopluriform
 andrewartha
 andria
+allumine
 armoniac
 anthralin
 aortolith
