@@ -6010,6 +6010,7 @@ aghori
 allottee
 autoantibody
 apardon
+ans
 algodon
 agible
 agiel
@@ -13853,7 +13854,6 @@ apocyneous
 anquera
 anre
 automation
-ans
 ansar
 ansarie
 abranchialism
