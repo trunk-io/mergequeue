@@ -1616,7 +1616,6 @@ farcetta
 florilage
 format
 fegary
-favorableness
 finfoot
 fooster
 favored
@@ -8904,6 +8903,7 @@ foundrymen
 flabellinerved
 fallency
 flneuse
+favorableness
 foundrous
 flotative
 foragers
