@@ -7044,6 +7044,7 @@ censitaire
 champion
 curiosity
 chitchats
+chantries
 cisalpine
 censored
 censorial
@@ -8803,7 +8804,6 @@ carman
 commonest
 cheiloplasties
 chantry
-chantries
 chanukah
 chaology
 chaori
