@@ -8194,7 +8194,6 @@ chaffinch
 caressable
 cattle
 chaffinches
-chaffless
 chaffman
 culicines
 codiniac
@@ -13237,6 +13236,7 @@ cicatrising
 cystoflagellata
 cicatrisive
 cicatrizate
+chaffless
 caudicle
 craniographer
 cicatrization
