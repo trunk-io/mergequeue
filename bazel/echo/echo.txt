@@ -7401,6 +7401,7 @@ eyries
 epee
 epeeist
 embue
+exstipulate
 epeiric
 enunciate
 embowerment
@@ -13542,7 +13543,6 @@ exsolving
 epochs
 exposedness
 energies
-exstipulate
 ebeneous
 exsudate
 ectadenia
