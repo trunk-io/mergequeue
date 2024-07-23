@@ -8790,7 +8790,6 @@ allies
 alligated
 acceders
 activators
-adventist
 alligatorfish
 alligatorfishes
 allyic
@@ -11680,6 +11679,7 @@ anagrammatism
 anagrammatize
 anagrammatizing
 anagrams
+adventist
 anahau
 anay
 anakinetomer
