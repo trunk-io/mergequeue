@@ -5937,6 +5937,7 @@ caterwauling
 cates
 catesbaea
 catfaced
+constructable
 chivy
 catfacing
 catfall
@@ -23219,7 +23220,6 @@ construable
 cataractine
 chemicobiology
 cabernets
-constructable
 chowk
 constructibility
 constructible
