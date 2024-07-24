@@ -5305,6 +5305,7 @@ disscepter
 drammer
 density
 degasifier
+diatomaceoid
 denouncers
 detestable
 detinue
@@ -8521,7 +8522,6 @@ downgrades
 diamond
 diamondback
 diamondbacked
-diatomaceoid
 diminuendoed
 diamondizing
 dysteleology
