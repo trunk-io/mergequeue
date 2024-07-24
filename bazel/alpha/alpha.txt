@@ -1453,7 +1453,6 @@ accidencies
 accidentalism
 accidented
 accidential
-awakings
 accidently
 accinge
 anhimidae
@@ -11057,6 +11056,7 @@ achromatized
 amperian
 amphistomum
 attenuation
+awakings
 antiorthodoxly
 amperometer
 asswage
