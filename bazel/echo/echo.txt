@@ -5258,7 +5258,6 @@ endopterygota
 extraequilibrium
 exudatory
 endoradiosonde
-eupathy
 exfiguration
 embryotrophy
 espinillo
@@ -12588,6 +12587,7 @@ exobasidiales
 etc
 exclaim
 exobasidium
+eupathy
 echuca
 eating
 epistolet
