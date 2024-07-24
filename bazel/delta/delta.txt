@@ -11298,7 +11298,6 @@ disbury
 disbursal
 definitively
 dogstail
-disbursals
 disburse
 deictic
 detainees
@@ -18629,6 +18628,7 @@ denarii
 dipaschal
 dispirem
 dummyism
+disbursals
 deluded
 dutymonger
 deactivations
