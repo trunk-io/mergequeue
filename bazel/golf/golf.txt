@@ -4504,7 +4504,6 @@ gambrel
 gumwoods
 gills
 gigantomachia
-getter
 gigantine
 gmelinite
 girasol
@@ -7627,6 +7626,7 @@ granzita
 gypsyesque
 gynostemium
 glaringness
+getter
 gynandrophore
 gradual
 gaspy
