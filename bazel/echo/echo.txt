@@ -6793,7 +6793,6 @@ empyema
 entify
 electrocutions
 enemied
-electroaffinity
 entifical
 entyloma
 ergon
@@ -12264,6 +12263,7 @@ exegetics
 ecphorias
 entoiling
 ensheaths
+electroaffinity
 ensued
 eds
 emarginating
