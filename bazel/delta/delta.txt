@@ -8399,7 +8399,6 @@ dialysable
 dorobo
 dahabiahs
 dinitrophenylhydrazine
-dialyse
 dialysed
 dobbins
 deradenitis
@@ -9223,6 +9222,7 @@ desoxycinchonine
 decalog
 digger
 diptych
+dialyse
 diurnation
 dyeability
 denazification
