@@ -6615,7 +6615,6 @@ ellipses
 eyeline
 enorthotrope
 eupomatia
-enterfeat
 electricity
 emigrates
 enwind
@@ -12012,6 +12011,7 @@ expensed
 eryngium
 enscrolls
 everyone
+enterfeat
 exampleship
 essentials
 eigenspace
