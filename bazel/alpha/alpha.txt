@@ -14880,7 +14880,6 @@ anticker
 anticking
 asseth
 anticlassical
-anticlassicalness
 abrosias
 apprehend
 antiaphthic
@@ -20901,6 +20900,7 @@ aphasias
 ascariasis
 aerodynamicist
 assuefaction
+anticlassicalness
 ascarid
 amytal
 ascaridae
