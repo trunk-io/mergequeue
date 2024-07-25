@@ -13118,7 +13118,6 @@ animalivora
 apersee
 animalivore
 animalivorous
-animalization
 animalize
 animalized
 allergist
@@ -19861,6 +19860,7 @@ armfuls
 antisupernaturalism
 agoroth
 aethon
+animalization
 archthief
 armhole
 armhoop
