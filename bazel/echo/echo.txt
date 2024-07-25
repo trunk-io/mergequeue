@@ -2478,6 +2478,7 @@ exsecants
 educables
 electrolier
 embryopathology
+emender
 electrolysation
 enervators
 enmeshed
@@ -3777,7 +3778,6 @@ emeership
 emend
 exscribe
 eglandulose
-emender
 electroplax
 ethene
 expendables
