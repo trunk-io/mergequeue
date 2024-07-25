@@ -2924,7 +2924,6 @@ cantation
 cantatrice
 coverts
 chestily
-chesteine
 chorioids
 cantdog
 cantdogs
@@ -29903,6 +29902,7 @@ cymas
 crosslink
 crossness
 cladophorales
+chesteine
 crossopodia
 crossopt
 carposporangia
