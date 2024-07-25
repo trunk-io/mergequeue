@@ -6652,6 +6652,7 @@ cebidae
 chlorophyllan
 contributors
 chessman
+chirruped
 cebil
 ceboids
 chondritis
@@ -7707,7 +7708,6 @@ cerebrosclerosis
 cerebroscope
 codewords
 cerebrose
-chirruped
 chargers
 calathisci
 calcarated
