@@ -433,7 +433,6 @@ gardenable
 glassblowers
 genre
 gammexane
-galega
 garrote
 gallantness
 gamesters
@@ -7160,6 +7159,7 @@ grasshopperdom
 gaditan
 greenthumbed
 geotectonics
+galega
 grassfinch
 geocratic
 ganglionary
