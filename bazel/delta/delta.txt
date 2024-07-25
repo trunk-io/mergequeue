@@ -11179,6 +11179,7 @@ defiling
 diplomacy
 dysautonomia
 disavail
+dayroom
 disavowable
 discomforted
 despect
@@ -11679,7 +11680,6 @@ disprepare
 daggletail
 dieselizing
 dreamlessness
-dayroom
 dementias
 downweed
 diapnoe
