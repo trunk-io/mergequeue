@@ -1801,6 +1801,7 @@ flitwite
 featheriness
 frogface
 forsterite
+farfet
 farsalah
 forlorn
 foundery
@@ -3160,7 +3161,6 @@ fundic
 firewarden
 furioso
 fallibility
-farfet
 franciscans
 facile
 finca
