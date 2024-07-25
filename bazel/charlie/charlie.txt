@@ -27111,7 +27111,6 @@ chints
 counterscrutiny
 cuticular
 colophane
-counterselection
 countersense
 countershade
 clione
@@ -27956,6 +27955,7 @@ cradlefellow
 corvee
 cradleland
 captivatrix
+counterselection
 cognosce
 cradlemaker
 cradlemate
