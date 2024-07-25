@@ -1391,7 +1391,6 @@ ganodonta
 glossanthrax
 garnison
 garniture
-gaultheria
 grecize
 ganyie
 gallotannin
@@ -5675,6 +5674,7 @@ gant
 grizzler
 grenat
 gaucie
+gaultheria
 glandulous
 gristliest
 greenlandman
