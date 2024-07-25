@@ -1174,7 +1174,6 @@ dextrans
 datary
 dataries
 datasetname
-distractedness
 dithers
 datcha
 disparison
@@ -13697,6 +13696,7 @@ dissyllable
 dissimilarities
 dialecticism
 dignitarial
+distractedness
 dolce
 dissimilars
 dorize
