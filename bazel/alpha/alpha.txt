@@ -879,7 +879,6 @@ absentation
 absentee
 absentees
 absenters
-absently
 aflatus
 amurcosity
 absentminded
@@ -20151,6 +20150,7 @@ arrayals
 arraign
 arraignable
 atroce
+absently
 adverts
 arraignableness
 amateurism
