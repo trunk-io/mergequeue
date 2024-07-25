@@ -1856,6 +1856,7 @@ galacturia
 gardenwise
 grabber
 gatherers
+geostatic
 goldbug
 galumph
 gooma
@@ -6629,7 +6630,6 @@ gladsome
 gonidangium
 gonepoiesis
 gash
-geostatic
 grandioso
 gustoish
 genocides
