@@ -661,7 +661,6 @@ givey
 gravimetry
 glower
 gantryman
-gorget
 genecologically
 galeated
 gunkhole
@@ -4397,6 +4396,7 @@ grammatist
 gloriam
 gazer
 glimmered
+gorget
 gearcases
 gongs
 grifter
