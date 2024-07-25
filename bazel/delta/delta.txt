@@ -11181,7 +11181,6 @@ donating
 disattaint
 disattune
 defiling
-disauthorize
 diplomacy
 dysautonomia
 disavail
@@ -16746,6 +16745,7 @@ dicey
 desalt
 dramseller
 disclaimer
+disauthorize
 differentiations
 dramshop
 disconcerted
