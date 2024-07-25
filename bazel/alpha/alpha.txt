@@ -10671,7 +10671,6 @@ aphronitre
 anorthography
 aminopurine
 aminoquin
-aminosis
 aminosuccinamic
 applicants
 araru
@@ -25258,6 +25257,7 @@ azygote
 atabal
 angiosclerosis
 auriform
+aminosis
 azimene
 antepenultima
 academus
