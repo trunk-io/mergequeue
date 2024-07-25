@@ -8260,7 +8260,6 @@ diadochokinesia
 diadoumenos
 diadromous
 dioti
-diaene
 drumbeat
 diaeretic
 dubiocrystalline
@@ -17654,6 +17653,7 @@ dtd
 dielectrical
 dicranterian
 discourteously
+diaene
 dtente
 diplococci
 dreamed
