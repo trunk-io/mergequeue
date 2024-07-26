@@ -11980,7 +11980,6 @@ boggier
 bogginess
 boggle
 blastemas
-bogglebo
 boggler
 bannerol
 bogglers
@@ -15663,6 +15662,7 @@ broadling
 broadloom
 bulbilis
 bands
+bogglebo
 barbering
 battarism
 broadlooms
