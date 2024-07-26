@@ -10272,7 +10272,6 @@ amenable
 anorganism
 atoll
 anticheater
-amenableness
 amenably
 assess
 amenance
@@ -21078,6 +21077,7 @@ asearch
 alhet
 animalculine
 asecretory
+amenableness
 annatto
 airth
 anagrammatist
