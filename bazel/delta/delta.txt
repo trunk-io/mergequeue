@@ -8206,7 +8206,6 @@ detachment
 duellists
 damselhood
 duple
-deprecate
 diacipiperazine
 disload
 drapeability
@@ -12454,6 +12453,7 @@ durability
 disherited
 divet
 defibrillator
+deprecate
 deamidize
 drybrush
 disheriting
