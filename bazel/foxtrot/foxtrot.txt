@@ -4544,6 +4544,7 @@ fuddles
 forblack
 fissionable
 francophobia
+favissa
 farmlands
 furzes
 feer
@@ -5751,7 +5752,6 @@ fungous
 fuzzball
 favorers
 forestcraft
-favissa
 fathoms
 furnage
 fungistatic
