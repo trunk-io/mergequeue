@@ -1879,7 +1879,6 @@ cambric
 cartonnage
 cambricleaf
 colobus
-curs
 countercampaign
 cambridge
 catostomidae
@@ -11479,6 +11478,7 @@ chlorpicrin
 chlorpromazine
 cheerfulsome
 ciboule
+curs
 chlorsalol
 confetto
 cabrioles
