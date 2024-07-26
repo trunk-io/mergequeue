@@ -5210,7 +5210,6 @@ caesural
 cambism
 cravo
 cavendish
-cambaye
 continuando
 casheen
 casher
@@ -15037,6 +15036,7 @@ cytozzoa
 coelacanthoid
 citraconate
 citral
+cambaye
 citramontane
 cothurns
 citrangeade
