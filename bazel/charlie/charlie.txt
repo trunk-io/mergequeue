@@ -7225,7 +7225,6 @@ centralism
 centrality
 canthi
 centralities
-centralize
 croupy
 chaeta
 cyancarbonic
@@ -17771,6 +17770,7 @@ cocobolas
 comeupance
 cocobolos
 cocoyam
+centralize
 cocomat
 coconnection
 coconscious
