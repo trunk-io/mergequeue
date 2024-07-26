@@ -2756,7 +2756,6 @@ griper
 guemul
 guzmania
 grangousier
-gyrovagi
 garblings
 grandisonous
 gazettal
@@ -5522,6 +5521,7 @@ globalizing
 gasteria
 granulite
 giddify
+gyrovagi
 gently
 gump
 gauffers
