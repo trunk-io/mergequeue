@@ -3498,7 +3498,6 @@ garmentworker
 ganglions
 gadzooks
 gymnorhina
-gulflike
 geomagnetist
 grievers
 grugru
@@ -4191,6 +4190,7 @@ gleesome
 gymnostomata
 ganef
 grotesquery
+gulflike
 gymnotus
 gest
 goli
