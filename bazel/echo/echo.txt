@@ -2670,6 +2670,7 @@ exports
 extendibility
 electrotelegraphy
 exhort
+extractiform
 ellagitannin
 epispadia
 exogens
@@ -2923,7 +2924,6 @@ eyewinks
 elicitation
 elicitor
 equivalvular
-extractiform
 enthymeme
 enricher
 exploiters
