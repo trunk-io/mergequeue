@@ -584,7 +584,6 @@ feeblish
 funerate
 fremd
 flagstaff
-floppies
 frighteningly
 furmety
 famose
@@ -1652,6 +1651,7 @@ florae
 farmost
 fiddlebow
 forereaching
+floppies
 faffle
 funambulo
 fallalery
