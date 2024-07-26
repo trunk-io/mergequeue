@@ -3951,7 +3951,6 @@ behavers
 beachheads
 brand
 bnf
-basely
 beaching
 beachman
 buenas
@@ -10030,6 +10029,7 @@ byway
 baining
 buxine
 bradyuria
+basely
 bushranger
 bedeviled
 battuto
