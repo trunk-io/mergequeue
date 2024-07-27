@@ -1559,6 +1559,7 @@ gymnura
 gauntlet
 gutteral
 geropiga
+glimpse
 galleria
 gunlock
 galvanization
@@ -10040,7 +10041,6 @@ gammation
 grandevous
 gargoyles
 greasing
-glimpse
 granitoidal
 gentianaceae
 guerdoner
