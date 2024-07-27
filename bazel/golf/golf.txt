@@ -8052,7 +8052,6 @@ gallet
 graustark
 grindelia
 gastrostomize
-grantor
 gristmill
 guidership
 galop
@@ -9805,6 +9804,7 @@ graybearded
 guacacoa
 grimacer
 gall
+grantor
 glugglug
 gue
 glycogenous
