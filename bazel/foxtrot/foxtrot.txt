@@ -1491,7 +1491,6 @@ foreweep
 freewheel
 fatuism
 filasse
-fiddlies
 futhork
 fatuitous
 foothil
@@ -5527,6 +5526,7 @@ formatters
 functionalities
 fanjets
 fleshliest
+fiddlies
 fleshliness
 fw
 flacker
