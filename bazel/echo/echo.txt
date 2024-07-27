@@ -1678,7 +1678,6 @@ eiders
 eidograph
 eclogues
 esthiomenus
-enravish
 eases
 elboic
 evectional
@@ -4961,6 +4960,7 @@ egression
 endeictic
 entropium
 expectable
+enravish
 embryotomy
 ephthalite
 endellionite
