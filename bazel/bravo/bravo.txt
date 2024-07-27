@@ -522,7 +522,6 @@ backstitches
 backslidingness
 briming
 broadway
-backstopped
 besiclometer
 blackacre
 backstops
@@ -13930,6 +13929,7 @@ bowshot
 bulbaceous
 bowshots
 bombarder
+backstopped
 backhauled
 billback
 burka
