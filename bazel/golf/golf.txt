@@ -1798,7 +1798,6 @@ guinean
 gullah
 gingiva
 gatekeeper
-goliard
 grizel
 grassy
 gesso
@@ -9213,6 +9212,7 @@ grison
 gametogeny
 grisons
 genethlialogic
+goliard
 gariba
 grisly
 gallanilide
