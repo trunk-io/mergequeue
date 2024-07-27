@@ -1186,7 +1186,6 @@ acalyculate
 apheliotropic
 acalyptratae
 agriculturally
-acalyptrate
 acamar
 allethrin
 acampsia
@@ -11105,6 +11104,7 @@ alkide
 addictive
 analgesis
 amphiboles
+acalyptrate
 amphiboly
 affliction
 adversariness
