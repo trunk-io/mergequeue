@@ -16289,7 +16289,6 @@ clinginess
 chob
 clinging
 clingingly
-clingstone
 clinia
 clinic
 clinically
@@ -31596,6 +31595,7 @@ curvative
 curvature
 curvatures
 cozy
+clingstone
 curve
 constructed
 curvedly
