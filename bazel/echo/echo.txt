@@ -3502,7 +3502,6 @@ equidiagonal
 elevens
 epopoeist
 essential
-emboitement
 elliptic
 embassage
 ekes
@@ -13317,6 +13316,7 @@ esophageal
 exploratively
 explorement
 ectrogeny
+emboitement
 enzyme
 egency
 estoile
