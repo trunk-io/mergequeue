@@ -23968,7 +23968,6 @@ convects
 caproyl
 chrisroot
 convey
-comps
 conveyances
 conveyed
 coonskins
@@ -24050,6 +24049,7 @@ cirrolite
 convergence
 coiling
 convergences
+comps
 convergency
 columbary
 convergent
