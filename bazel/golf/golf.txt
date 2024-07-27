@@ -4382,7 +4382,6 @@ gorget
 gearcases
 gongs
 grifter
-gutters
 griddling
 gorgoneum
 guestling
@@ -4485,6 +4484,7 @@ gypsophila
 gypsophily
 glycolipide
 graddan
+gutters
 gardevisure
 graafian
 glyptology
