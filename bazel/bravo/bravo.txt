@@ -8888,7 +8888,6 @@ bioaccumulation
 bioactivities
 bioassaying
 byplace
-bioastronautical
 bioastronautics
 biobibliographer
 barleysick
@@ -9129,6 +9128,7 @@ buzzwigs
 boylikeness
 bioscopy
 bioscopic
+bioastronautical
 bedecorate
 biosensor
 bearishness
