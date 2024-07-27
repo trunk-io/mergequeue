@@ -2148,7 +2148,6 @@ bribery
 bantu
 bantus
 bandon
-banxring
 bewield
 baphometic
 blandfordia
@@ -14986,6 +14985,7 @@ buro
 barelegged
 breechcloths
 biosatellite
+banxring
 breeched
 benzdiazine
 begift
