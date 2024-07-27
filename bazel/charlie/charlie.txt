@@ -7473,7 +7473,6 @@ cephalopharyngeal
 cephalophyma
 cephalophine
 cryostats
-cephaloplegia
 cervisia
 cryoprobe
 cephalopod
@@ -28754,6 +28753,7 @@ chelae
 crumblings
 creply
 cupeler
+cephaloplegia
 civetone
 crepon
 crept
