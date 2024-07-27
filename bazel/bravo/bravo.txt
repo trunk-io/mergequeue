@@ -612,7 +612,6 @@ bactericide
 beethoven
 bidget
 bacterin
-borofluoric
 bacteriochlorophyll
 bacteriocin
 bathylite
@@ -5710,6 +5709,7 @@ belicoseness
 belie
 balausta
 belied
+borofluoric
 bridalty
 blatancy
 beliefful
