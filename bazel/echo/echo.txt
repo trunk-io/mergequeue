@@ -6238,7 +6238,6 @@ ellipsoid
 exodist
 enophthalmus
 executable
-enoplan
 enorm
 exhalations
 exhortator
@@ -10496,6 +10495,7 @@ etypic
 editorialize
 ensheath
 equiponderation
+enoplan
 ending
 effluviums
 ericius
