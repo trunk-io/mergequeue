@@ -5765,7 +5765,6 @@ antismog
 agrised
 ashmen
 agastric
-awacs
 apickaback
 authorial
 ancestor
@@ -13025,6 +13024,7 @@ anhidrosis
 anhidrotic
 archespsporia
 anhydrotic
+awacs
 anhydroxime
 antispirochetic
 antinovels
