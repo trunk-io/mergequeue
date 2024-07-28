@@ -849,7 +849,6 @@ begoniaceae
 batterfang
 bauxites
 bagful
-bemantle
 baggagemaster
 baggager
 brassica
@@ -10429,6 +10428,7 @@ buonamano
 botong
 breaker
 blanketlike
+bemantle
 brimborion
 blankets
 bhoot
