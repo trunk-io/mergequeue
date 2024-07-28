@@ -1859,7 +1859,6 @@ acertannin
 acerval
 acervate
 acervation
-acervative
 acervulus
 anacoluthia
 atropins
@@ -23708,6 +23707,7 @@ accursing
 atomicism
 austausch
 austemper
+acervative
 aliped
 aspermia
 austenitic
