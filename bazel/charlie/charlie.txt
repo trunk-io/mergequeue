@@ -14,7 +14,6 @@ cabaho
 cabal
 condylarthrous
 cryptostoma
-chevance
 chaenomeles
 cows
 corkmaking
@@ -29591,6 +29590,7 @@ confrontational
 crinion
 crocanthemum
 croceic
+chevance
 croceine
 crocetin
 ceratospongiae

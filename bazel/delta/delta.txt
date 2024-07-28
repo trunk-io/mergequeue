@@ -13626,7 +13626,6 @@ demicritic
 dorcopsis
 dissentive
 datakit
-doggereler
 drawlers
 dosadh
 daphnean
@@ -17581,6 +17580,7 @@ drumrolls
 drums
 decalcifier
 drumstick
+doggereler
 drumwood
 drunk
 diaboleptic
