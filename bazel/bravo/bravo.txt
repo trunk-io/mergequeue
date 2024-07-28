@@ -7030,7 +7030,6 @@ basilian
 besmouch
 bacteritic
 besmudge
-belshazzar
 blindling
 beamless
 bronzite
@@ -10234,6 +10233,7 @@ bureaux
 bootstraps
 bondhold
 bloodletter
+belshazzar
 blackland
 blackleg
 blacklegged
