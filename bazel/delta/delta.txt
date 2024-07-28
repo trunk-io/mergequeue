@@ -2481,7 +2481,6 @@ debased
 ditchdown
 dirigent
 deckhand
-duckwing
 deckle
 depletable
 dulls
@@ -17163,6 +17162,7 @@ decius
 dimwittedness
 drinkables
 disgaveled
+duckwing
 damselfly
 diaphaneity
 diswont
