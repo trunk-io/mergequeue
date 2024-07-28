@@ -2963,7 +2963,6 @@ ectopia
 eliminators
 elymus
 elinguate
-elinguating
 enfield
 eleatic
 eleoblast
@@ -8636,6 +8635,7 @@ equilibrant
 enframe
 estrum
 electrodynamometer
+elinguating
 equilibrated
 ectal
 exhortatively
