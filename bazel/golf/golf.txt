@@ -6715,7 +6715,6 @@ glycolysis
 guntub
 grey
 grandmotherism
-gigantic
 ghostmonger
 grooviness
 glycogens
@@ -10511,6 +10510,7 @@ glumpiness
 germigene
 gunboats
 gnome
+gigantic
 graveman
 guipure
 gonocytes
