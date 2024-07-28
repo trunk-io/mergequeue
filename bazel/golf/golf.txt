@@ -4091,7 +4091,6 @@ glamours
 grapsidae
 gentilities
 gymnastic
-guserid
 gallipot
 geochronology
 gringo
@@ -7475,6 +7474,7 @@ goldarns
 gravimeter
 gallycrow
 galinaceous
+guserid
 greywether
 gigglier
 glowered
