@@ -4471,6 +4471,7 @@ gorry
 griffin
 graveless
 gypsology
+glib
 glareola
 gypsophila
 gypsophily
@@ -5059,7 +5060,6 @@ gunman
 garboards
 guernseyed
 glareproof
-glib
 grainsmen
 gymnospermae
 glassteel
