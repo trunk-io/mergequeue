@@ -5412,7 +5412,6 @@ dentition
 denaturalizing
 dilating
 dielytra
-dentosurgical
 disrate
 diasene
 dentulous
@@ -15850,6 +15849,7 @@ deliberalize
 debosh
 dorsibranchiata
 diaphragming
+dentosurgical
 disprobabilize
 discordia
 dorsicornu
