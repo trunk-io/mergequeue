@@ -2924,7 +2924,6 @@ eyewinks
 elicitation
 elicitor
 equivalvular
-enthymeme
 enricher
 exploiters
 epagomenal
@@ -4418,6 +4417,7 @@ electrophototherapy
 electrophysiologic
 excentrical
 extispices
+enthymeme
 e
 espacement
 encaptive
