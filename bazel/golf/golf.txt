@@ -3483,7 +3483,6 @@ geomagnetist
 grugru
 gunslinging
 grinded
-gnomonology
 glunched
 gymkhana
 galloon
@@ -7979,6 +7978,7 @@ geostationary
 gladioli
 glenoidal
 granitiform
+gnomonology
 granitite
 ghain
 genteelish
