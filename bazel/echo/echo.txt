@@ -7505,6 +7505,7 @@ ephemeralness
 ephemerid
 ephemerida
 excused
+ewe
 escobadura
 ephemeridae
 egesting
@@ -11610,7 +11611,6 @@ evulsion
 end
 encaustic
 evulsions
-ewe
 emanium
 ewery
 exciding
