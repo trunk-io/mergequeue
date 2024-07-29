@@ -3726,7 +3726,6 @@ bringall
 battlement
 barnstorms
 battler
-battles
 basocyte
 battleships
 barrace
@@ -18238,6 +18237,7 @@ blathering
 balistarius
 besweatered
 butterflower
+battles
 batik
 bosks
 bacteraemia
