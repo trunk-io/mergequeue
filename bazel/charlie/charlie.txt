@@ -5406,7 +5406,6 @@ castellans
 castellanship
 cinerararia
 chaufer
-chosing
 castellate
 castellation
 castellatus
@@ -21663,6 +21662,7 @@ condescent
 cocciform
 calcaneofibular
 condiction
+chosing
 condictious
 condiddle
 cooly
