@@ -4442,7 +4442,6 @@ frolicness
 fertiliser
 foretop
 fudged
-fisherfolk
 formulaic
 frumpily
 feeble
@@ -5916,6 +5915,7 @@ furandi
 flockiest
 frankliniana
 forbysening
+fisherfolk
 fdname
 flockings
 fulsamic
