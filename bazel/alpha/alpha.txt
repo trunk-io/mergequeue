@@ -5295,7 +5295,6 @@ avadavats
 agrionidae
 affloof
 affluence
-affluent
 affluently
 abscise
 affluxion
@@ -10164,6 +10163,7 @@ ambulatory
 ambulatoria
 alternating
 anurans
+affluent
 aphanitism
 agraphias
 ambulatories
