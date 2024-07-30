@@ -9991,7 +9991,6 @@ chemoserotherapy
 chemoses
 chemosynthesis
 chemosynthetic
-chemosis
 chemosmoses
 chemosmotic
 consumptible
@@ -26547,6 +26546,7 @@ cotunnite
 concreteness
 culicids
 cymbaled
+chemosis
 clingers
 conjecturable
 coucal
