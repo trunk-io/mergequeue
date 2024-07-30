@@ -6940,7 +6940,6 @@ despecialization
 dispute
 domineer
 despecialize
-defying
 devote
 despecificate
 despecification
@@ -11683,6 +11682,7 @@ dementias
 downweed
 diapnoe
 discontinuities
+defying
 discontinuously
 diversifolious
 discontinuousness
