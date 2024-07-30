@@ -6732,7 +6732,6 @@ airan
 airbills
 airboat
 airboats
-astern
 anomal
 airbrained
 airbrasive
@@ -20210,6 +20209,7 @@ acantholimon
 attributional
 arrest
 arrestation
+astern
 alphabet
 arrester
 anisalcohol
