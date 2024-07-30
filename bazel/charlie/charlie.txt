@@ -4662,7 +4662,6 @@ canescene
 cellarway
 chronisotherm
 cangenet
-carolina
 caryotin
 cutleria
 caroline
@@ -18935,6 +18934,7 @@ cabins
 colinearity
 colinephritis
 colinus
+carolina
 colyonic
 coliphage
 colyone
