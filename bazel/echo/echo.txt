@@ -3006,7 +3006,6 @@ epigram
 everich
 epigenesis
 epidermis
-embryonary
 experimentalists
 essentialness
 elaidin
@@ -6263,6 +6262,7 @@ eidology
 enplane
 ecorticate
 enplaned
+embryonary
 enamine
 ethnogeographical
 entered
