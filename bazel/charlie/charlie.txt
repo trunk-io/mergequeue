@@ -2938,7 +2938,6 @@ chestily
 chorioids
 cantdog
 cantdogs
-canted
 cantefable
 childlier
 canter
@@ -20822,6 +20821,7 @@ concessively
 complines
 complins
 complot
+canted
 complots
 complotter
 complotting
