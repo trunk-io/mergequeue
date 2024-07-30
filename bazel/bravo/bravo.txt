@@ -1823,6 +1823,7 @@ bridgewall
 bushwood
 bananivorous
 banatite
+becharm
 billycans
 bancha
 bonhomie
@@ -6237,7 +6238,6 @@ benighter
 benign
 barked
 brittlestem
-becharm
 basidiolichenes
 banyoro
 breedling
