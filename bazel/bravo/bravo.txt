@@ -528,7 +528,6 @@ backstroke
 backstromite
 boart
 bu
-backswording
 backtender
 ballyhooing
 backtenter
@@ -9841,6 +9840,7 @@ brubru
 bytes
 bitewing
 based
+backswording
 bolelia
 balladry
 bebleed
