@@ -5189,6 +5189,7 @@ ascensor
 affeir
 affenpinscher
 affere
+abnegative
 affiance
 affianced
 angakok
@@ -10956,7 +10957,6 @@ amoral
 anemometry
 arresters
 amoralist
-abnegative
 amorally
 actinomorphy
 alieners
