@@ -13216,7 +13216,6 @@ dilly
 display
 displayable
 displayed
-decolorate
 dumaist
 diazole
 dovetailed
@@ -16815,6 +16814,7 @@ diarrhoeic
 disorganized
 drawback
 drawbar
+decolorate
 decussation
 demitube
 drawbeam
