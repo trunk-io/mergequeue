@@ -308,7 +308,6 @@ dayanim
 directories
 daybeacon
 daybed
-decriminalizing
 dissuasiveness
 dollfaced
 daybill
@@ -9836,6 +9835,7 @@ dclass
 devaster
 dilettanti
 delimiters
+decriminalizing
 dilettantism
 dilettantist
 diligence
