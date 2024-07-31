@@ -7783,7 +7783,6 @@ gtc
 geoglossaceae
 gun
 goodsome
-ganoin
 gutturopalatal
 gorce
 guhayna
@@ -10760,6 +10759,7 @@ generation
 gutbucket
 guiders
 gonfalonierate
+ganoin
 gloam
 graminin
 gorhen
