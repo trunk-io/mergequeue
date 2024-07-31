@@ -6308,7 +6308,6 @@ firers
 flared
 fluidmeter
 fakirism
-faulted
 forceful
 fluidounce
 flower
@@ -6674,6 +6673,7 @@ foehnlike
 foeish
 fpsps
 foeless
+faulted
 fulguration
 fulgurating
 flossing
