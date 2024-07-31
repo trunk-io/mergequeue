@@ -3520,7 +3520,6 @@ cabman
 capsulogenous
 cataphyllum
 capsulolenticular
-cataracted
 capsulopupillary
 cuirie
 capsulorrhaphy
@@ -18801,6 +18800,7 @@ colbertism
 colcannon
 celarent
 campodean
+cataracted
 carbolineum
 colchicaceae
 coistrels
