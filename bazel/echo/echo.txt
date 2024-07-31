@@ -5215,7 +5215,6 @@ entier
 erythrogen
 endoparasitica
 etiotropically
-endfile
 endopathic
 endopelvic
 emong
@@ -10747,6 +10746,7 @@ euglenoid
 ecossaise
 egosyntonic
 etiquet
+endfile
 ellan
 esemplastic
 elihu
