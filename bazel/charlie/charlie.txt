@@ -11136,7 +11136,6 @@ chiseling
 commoned
 chiselled
 chiseller
-campaigner
 chiselly
 chisellike
 chiselling
@@ -16426,6 +16425,7 @@ cliquy
 creasol
 cliquiest
 consentingness
+campaigner
 cliquing
 cliquish
 cliquishly
