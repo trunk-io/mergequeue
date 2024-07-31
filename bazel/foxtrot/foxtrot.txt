@@ -1394,7 +1394,6 @@ features
 fossildom
 forpass
 fendering
-foliature
 fanlight
 forfars
 flatlanders
@@ -2192,6 +2191,7 @@ forra
 fameful
 famously
 fornical
+foliature
 focoids
 fitch
 fawnier
