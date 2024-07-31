@@ -4158,6 +4158,7 @@ beastlike
 bodywise
 buoyantness
 barming
+brickwall
 beastlily
 beclown
 bradypus
@@ -9116,7 +9117,6 @@ bios
 bargander
 biosciences
 bulrushes
-brickwall
 bestrows
 befits
 buzzwigs
