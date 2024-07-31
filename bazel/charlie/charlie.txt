@@ -4028,7 +4028,6 @@ compartmental
 crystalloluminescence
 carcinolysin
 carcinological
-carcinologist
 carcinoma
 carcinomas
 carbocyclic
@@ -29934,6 +29933,7 @@ cammocky
 crosstail
 creepier
 crosstown
+carcinologist
 crosstrack
 crosstree
 crossway
