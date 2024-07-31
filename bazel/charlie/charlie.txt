@@ -1103,7 +1103,6 @@ calciobiotite
 calcioferrite
 calcioscheelite
 calciovolborthite
-clarity
 calciphylactic
 calciphylaxis
 cabecera
@@ -3917,6 +3916,7 @@ chondrin
 carbonous
 carbons
 carbonuria
+clarity
 contradistinguish
 celibacies
 compleat
