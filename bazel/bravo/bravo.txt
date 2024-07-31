@@ -3016,6 +3016,7 @@ burgesses
 bartizans
 becarpets
 beigel
+belee
 beckons
 beachhead
 bartonella
@@ -5679,7 +5680,6 @@ belection
 belecture
 beledgered
 brutedom
-belee
 bardiest
 biers
 belemnitic
