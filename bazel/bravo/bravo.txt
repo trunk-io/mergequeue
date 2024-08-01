@@ -6149,7 +6149,6 @@ benedictinism
 byrl
 brickfield
 benedictionary
-biconcavity
 bibliophobia
 briolet
 benedictions
@@ -16863,6 +16862,7 @@ bulbil
 barvell
 bufotalin
 bufotoxin
+biconcavity
 buzukia
 bugaboo
 bugaboos
