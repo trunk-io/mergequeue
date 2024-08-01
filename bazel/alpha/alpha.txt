@@ -10263,7 +10263,6 @@ ameliorates
 adenotyphoid
 algins
 anacrusis
-apocenter
 allice
 amomales
 ameliorations
@@ -12709,6 +12708,7 @@ ashpit
 anginophobia
 anginose
 anginous
+apocenter
 angioataxia
 anasazi
 areality
