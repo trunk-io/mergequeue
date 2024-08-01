@@ -2151,7 +2151,6 @@ diascord
 ditheistic
 dipterans
 dyspeptical
-decapodiform
 dehydroffrozen
 dehydration
 drowsing
@@ -15946,6 +15945,7 @@ dossel
 dossels
 drench
 dossennus
+decapodiform
 dosser
 duftry
 dosseret
