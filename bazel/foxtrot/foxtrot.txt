@@ -1339,7 +1339,6 @@ fastnesses
 flimsilyst
 fhrer
 filmcard
-forlore
 fixage
 fancywork
 fasts
@@ -9441,6 +9440,7 @@ frary
 flouriness
 frolicly
 frasier
+forlore
 frescoer
 frasse
 fulsomeness
