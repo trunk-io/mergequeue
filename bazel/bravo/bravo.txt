@@ -846,6 +846,7 @@ backband
 bootblack
 bagdad
 bagdi
+bunters
 begoniaceae
 batterfang
 bauxites
@@ -4924,7 +4925,6 @@ bract
 bilobular
 blackwash
 bunomastodontidae
-bunters
 beefier
 bequest
 beefiest
