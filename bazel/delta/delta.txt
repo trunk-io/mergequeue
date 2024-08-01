@@ -9449,6 +9449,7 @@ diffract
 defense
 diffractively
 diffractiveness
+dist
 diffranchise
 dely
 directorial
@@ -13850,7 +13851,6 @@ demurral
 dramatis
 dogvane
 decapod
-dist
 digram
 discomposingly
 declared
