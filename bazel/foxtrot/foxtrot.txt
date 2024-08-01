@@ -6479,7 +6479,6 @@ flurn
 flurried
 futhorks
 fernbird
-forsteal
 ferried
 fumagine
 fordays
@@ -7659,6 +7658,7 @@ foreguess
 flammant
 foretopsail
 fiefdom
+forsteal
 forecasting
 foxskin
 fiesta
