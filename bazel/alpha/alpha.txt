@@ -3984,7 +3984,6 @@ alabastrons
 aboves
 administration
 administrational
-administrations
 administrative
 affixion
 aspidoganoidei
@@ -9437,6 +9436,7 @@ alsweill
 anticathode
 altaian
 aetian
+administrations
 adjustors
 anesthetics
 abyssobenthonic
