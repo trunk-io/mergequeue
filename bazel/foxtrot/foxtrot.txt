@@ -2426,7 +2426,6 @@ fegs
 frolicky
 ferforth
 frapped
-faddish
 falconiformes
 frogling
 fucivorous
@@ -2933,6 +2932,7 @@ filago
 furunculosis
 flatwares
 formol
+faddish
 feltyfare
 fillagreing
 fisty
