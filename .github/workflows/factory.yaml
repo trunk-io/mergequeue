@@ -2,7 +2,7 @@ name: PR Factory
 
 on:
   workflow_dispatch: {}
-# Uncomment the following cron schedule to run this workflow every 30 minutes
+  # Uncomment the following cron schedule to run this workflow every 30 minutes
   schedule:
     - cron: 0/30 * * * *
 
@@ -15,24 +15,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: main
-
-      - name: choose secret
-        id: choose-secret
-        run: |
-          case $(( RANDOM % 3 )) in
-          0)
-            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Eli"
-            ;;
-          1)
-            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Eli"
-            ;;
-          2)
-            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Eli"
-            ;;            
-          esac
 
       - name: trunk install
         uses: trunk-io/trunk-action/install@v1
@@ -51,11 +33,11 @@ jobs:
         id: edits
         run: ./mq generate
         env:
-          GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: run mq
         if: always()
         id: clean
         run: ./mq housekeeping
         env:
-          GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
