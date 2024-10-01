@@ -3,8 +3,8 @@ name: PR Factory
 on:
   workflow_dispatch: {}
 # Uncomment the following cron schedule to run this workflow every 30 minutes
-#   schedule:
-#     - cron: 0/30 * * * *
+  schedule:
+    - cron: 0/30 * * * *
 
 jobs:
   create-pr:
