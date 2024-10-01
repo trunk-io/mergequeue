@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: 0/30 * * * *
 
+permissions:
+  pull-requests: write
+  contents: write
+
 jobs:
   create-pr:
     # needs: merge-pr
