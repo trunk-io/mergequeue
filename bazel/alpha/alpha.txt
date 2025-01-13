@@ -4013,7 +4013,6 @@ acetophenin
 acidogenic
 admiredly
 admiring
-antislip
 admissable
 admissibility
 asci
@@ -13315,6 +13314,7 @@ absolvitory
 antecedent
 anisostaminous
 anisosthenic
+antislip
 anisostichous
 anisostomous
 anisotonic
