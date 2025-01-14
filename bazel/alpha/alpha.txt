@@ -10536,7 +10536,6 @@ algaesthesia
 amyelic
 amyelous
 aposematically
-amygdal
 aludels
 amygdala
 amygdalaceous
@@ -23415,6 +23414,7 @@ adversity
 antiantidote
 aquiform
 augends
+amygdal
 anatomicophysiologic
 auger
 augerer
