@@ -4859,7 +4859,6 @@ formulable
 frontoorbital
 fou
 francisco
-foothills
 flagman
 floppy
 fasciolaria
@@ -10718,6 +10717,7 @@ fringelike
 faenus
 flam
 flotsams
+foothills
 frumps
 foldboat
 forcedly
