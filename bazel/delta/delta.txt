@@ -2891,7 +2891,6 @@ daedalist
 devotions
 decuplet
 drepanis
-discernment
 dronet
 draper
 didunculidae
@@ -7599,6 +7598,7 @@ discernible
 drou
 doublewidth
 diddikai
+discernment
 darwinistic
 deva
 dequeuing
