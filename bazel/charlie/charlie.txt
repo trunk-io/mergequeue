@@ -4975,6 +4975,7 @@ circumambages
 cartelist
 costars
 classical
+clawk
 cartelistic
 cassava
 carter
@@ -15837,7 +15838,6 @@ clawer
 cubbishly
 clawers
 clawing
-clawk
 colobium
 calcicole
 cyproheptadine

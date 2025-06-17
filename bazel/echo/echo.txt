@@ -2726,6 +2726,7 @@ ebons
 equipotent
 electees
 envoi
+enrobement
 eleemosynary
 etymology
 emetic
@@ -9419,7 +9420,6 @@ ectomorphic
 exolution
 emotionally
 emane
-enrobement
 effecter
 enveigle
 epilimnionia
