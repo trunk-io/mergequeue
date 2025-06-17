@@ -2561,7 +2561,6 @@ flashforward
 fumarin
 ferrier
 fieldball
-fastus
 forehorse
 ferox
 flerry
@@ -4048,6 +4047,7 @@ flattish
 forfeited
 flunk
 fingerprint
+fastus
 ferric
 fluorosis
 forleft
