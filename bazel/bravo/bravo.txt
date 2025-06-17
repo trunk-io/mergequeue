@@ -448,7 +448,6 @@ bioscopies
 betrap
 backscraper
 backset
-basename
 brushless
 brinjaree
 begalls
@@ -9916,6 +9915,7 @@ brooklime
 biotite
 bitterroot
 bittersweetly
+basename
 bittersweets
 bittie
 bittiest
