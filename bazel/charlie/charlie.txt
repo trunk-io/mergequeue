@@ -6538,6 +6538,7 @@ canell
 cavefish
 cavey
 chromoscope
+cedarn
 cavekeeper
 cavelet
 confiner
@@ -13686,7 +13687,6 @@ cymba
 cratsmanship
 crinum
 costaea
-cedarn
 centricality
 cymbalist
 crapshooting
