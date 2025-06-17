@@ -19494,7 +19494,6 @@ coloring
 colorings
 conges
 colorisms
-cystous
 coloristically
 cadded
 crosscrosslet
@@ -20341,6 +20340,7 @@ communication
 communicative
 countrie
 cercospora
+cystous
 command
 communicatory
 communicators
