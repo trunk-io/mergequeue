@@ -7540,7 +7540,6 @@ betaine
 bevil
 bevillain
 befell
-bigeye
 balloonfish
 bashaws
 bedote
@@ -15365,6 +15364,7 @@ broadbrim
 bumboatwoman
 botheration
 bevy
+bigeye
 brigsail
 bousing
 brill
