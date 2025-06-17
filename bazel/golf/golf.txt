@@ -4136,6 +4136,7 @@ gaslit
 gainful
 gastrocoele
 geographical
+gairfish
 gaggles
 gundogs
 gnathites
@@ -10723,7 +10724,6 @@ gunnung
 gox
 gussets
 gloms
-gairfish
 gobio
 gustables
 gassers
