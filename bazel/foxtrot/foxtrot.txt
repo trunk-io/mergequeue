@@ -8067,6 +8067,7 @@ falbala
 forestral
 forestries
 firebrats
+frigidarium
 furnitures
 fondness
 fumigating
@@ -11444,7 +11445,6 @@ founte
 fortunetell
 formfeed
 flares
-frigidarium
 firebase
 fiducially
 falteringly
