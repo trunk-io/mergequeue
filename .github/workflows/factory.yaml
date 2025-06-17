@@ -2,9 +2,9 @@ name: PR Factory
 
 on:
   workflow_dispatch: {}
-  # Uncomment the following cron schedule to run this workflow every 30 minutes
-  # schedule:
-  #   - cron: 0/30 * * * *
+  # Comment the following cron schedule to stop running this workflow every 30 minutes
+  schedule:
+    - cron: 0/30 * * * *
 
 permissions:
   pull-requests: write
