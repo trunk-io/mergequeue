@@ -1751,7 +1751,6 @@ falsies
 felonous
 fearingly
 ferineness
-fearless
 feyest
 forehammer
 ferrament
@@ -3397,6 +3396,7 @@ fidejussor
 furfur
 fidelio
 featheredge
+fearless
 forchase
 fameworthy
 fruggan
