@@ -2890,7 +2890,6 @@ barratries
 becrawls
 barratrously
 barrelage
-barreled
 barreleyes
 belap
 barrelet
@@ -14702,6 +14701,7 @@ bacury
 beribbon
 bonbonniere
 baluchistan
+barreled
 brauronian
 brava
 bravade
