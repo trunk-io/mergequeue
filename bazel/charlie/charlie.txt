@@ -16435,7 +16435,6 @@ cliqueier
 cretinize
 cliqueyness
 cytome
-cliques
 collocalia
 cliquy
 creasol
@@ -22124,6 +22123,7 @@ conformer
 coercibleness
 cumbered
 curvate
+cliques
 conformingly
 conformist
 confusably
