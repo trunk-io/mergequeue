@@ -3899,7 +3899,6 @@ gallopers
 graphomaniac
 glossopode
 graphis
-gimping
 grubworms
 glioma
 glossoscopia
@@ -4543,6 +4542,7 @@ greyish
 guadalcazarite
 graphometry
 gagger
+gimping
 grinter
 guardrail
 garotter
