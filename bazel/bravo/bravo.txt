@@ -10943,7 +10943,6 @@ bumps
 beetler
 brazee
 biloquist
-blinis
 biclinia
 bridleless
 barth
@@ -13789,6 +13788,7 @@ brachydactyly
 bait
 beheading
 bowable
+blinis
 bapt
 bowback
 bushment
