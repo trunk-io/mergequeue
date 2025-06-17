@@ -2977,6 +2977,7 @@ deductio
 deductions
 distrainment
 deductive
+dissolve
 deductory
 deducts
 deduplication
@@ -13788,7 +13789,6 @@ dissolutionism
 dearie
 dissolvableness
 dissolvative
-dissolve
 doina
 daffadillies
 dalis
