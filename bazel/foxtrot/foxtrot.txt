@@ -4152,7 +4152,6 @@ fattable
 fanterie
 fatalness
 fissipedal
-fussier
 ferth
 floridan
 floweriness
@@ -5736,6 +5735,7 @@ footed
 flirtatiously
 flosculariidae
 flirtatiousness
+fussier
 fitroot
 freshness
 fetor
