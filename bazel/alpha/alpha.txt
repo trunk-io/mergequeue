@@ -1814,7 +1814,6 @@ assembles
 assyriologist
 acephalous
 antiepicenter
-alackaday
 akoasma
 adduct
 acephalus
@@ -23683,6 +23682,7 @@ antifoggant
 altared
 ashkenazic
 additionally
+alackaday
 aleppine
 aurous
 aurrescu
