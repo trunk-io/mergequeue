@@ -8802,7 +8802,6 @@ flunks
 frailes
 fetchers
 flotillas
-fidelity
 fossage
 fanlight
 female
@@ -11557,6 +11556,7 @@ fortitude
 ferociousness
 footlessly
 flowages
+fidelity
 fetting
 fusicladium
 fusiform
