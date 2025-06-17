@@ -6555,7 +6555,6 @@ aidmen
 adjunctive
 aids
 afterripening
-arbalestre
 antiheterolysin
 aiel
 anoraks
@@ -19510,6 +19509,7 @@ accessoriness
 argolian
 assaults
 adenotomy
+arbalestre
 acad
 anecdotal
 argonauta

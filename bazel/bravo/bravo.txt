@@ -1644,6 +1644,7 @@ balloted
 balibuntl
 brancher
 balloting
+bleached
 ballotist
 ballots
 ballottement
@@ -16680,7 +16681,6 @@ baklavas
 bankbooks
 buckler
 bowknot
-bleached
 bodycheck
 bellybuttons
 bucklers
