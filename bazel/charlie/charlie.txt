@@ -2308,6 +2308,7 @@ carthaginian
 canaler
 caprone
 cipher
+clinometria
 canalete
 canali
 cydippid
@@ -31129,7 +31130,6 @@ cupboards
 cupcakes
 cupel
 cupeling
-clinometria
 cupeller
 conscripts
 cupellers
