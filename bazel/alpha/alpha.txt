@@ -2811,7 +2811,6 @@ acrometer
 armorproof
 acromia
 appalachia
-archostenosis
 autocamping
 acromicria
 antimeres
@@ -6956,6 +6955,7 @@ ayubite
 aminoplast
 avocationally
 aedilities
+archostenosis
 acetanisidine
 anatomizes
 antineutrally
