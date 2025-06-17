@@ -11331,6 +11331,7 @@ chlorhydric
 chloriamb
 chloriambus
 chloric
+coriander
 chlorid
 chloridate
 conturb
@@ -27473,7 +27474,6 @@ chronicity
 covalences
 covalency
 carpoptosis
-coriander
 corallike
 covalent
 campephilus
