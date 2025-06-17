@@ -12474,6 +12474,7 @@ bondship
 bondslave
 bondsman
 blueys
+boatel
 braeman
 befrilled
 bloomiest
@@ -15600,7 +15601,6 @@ burgundies
 batterable
 buffone
 barrenest
-boatel
 bg
 bulkheads
 burred
