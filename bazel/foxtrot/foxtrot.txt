@@ -5856,6 +5856,7 @@ farmeries
 fayal
 fluochloride
 fattening
+forewind
 fierasfer
 fodders
 flounders
@@ -11347,7 +11348,6 @@ footsores
 fluoroid
 fellowship
 fustinella
-forewind
 furlongs
 fraxinus
 firepans
