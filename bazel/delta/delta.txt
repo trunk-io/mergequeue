@@ -5460,6 +5460,7 @@ deodorisation
 deodorised
 deodoriser
 deodorization
+diagnose
 displumes
 deodorize
 deodorized
@@ -14693,7 +14694,6 @@ downtowns
 dizzily
 dramaturgic
 doter
-diagnose
 djagoong
 disemboguement
 djave
