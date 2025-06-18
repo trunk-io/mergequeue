@@ -205,7 +205,6 @@ cohort
 cabresta
 cabrestas
 classicalities
-cabresto
 cabrestos
 cabrettas
 cabreuva
@@ -15528,6 +15527,7 @@ clarendon
 clares
 claret
 cervantes
+cabresto
 cheerio
 coppas
 clary

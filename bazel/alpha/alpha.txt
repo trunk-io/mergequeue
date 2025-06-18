@@ -727,6 +727,7 @@ abounds
 about
 anticytotoxin
 astrofel
+amble
 abovedeck
 azygomatous
 aboveproof
@@ -10038,7 +10039,6 @@ aiger
 ambiversion
 ambivert
 arrect
-amble
 ambleocarpus
 ambler
 amblers
