@@ -2829,7 +2829,6 @@ gynaeceum
 groggier
 greekery
 geo
-gallerylike
 geoponic
 genarch
 geoagronomic
@@ -6332,6 +6331,7 @@ graft
 gippo
 gambelli
 ganoblast
+gallerylike
 garnitures
 gofer
 gutsiness
