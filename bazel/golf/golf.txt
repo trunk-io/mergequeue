@@ -2287,7 +2287,6 @@ grapey
 gelatinizer
 gradates
 giornatate
-gelatinoid
 gadbee
 gavials
 goodnesses
@@ -10218,6 +10217,7 @@ groundneedle
 ganevs
 generaliser
 guildhall
+gelatinoid
 gunny
 grippers
 guzzled
