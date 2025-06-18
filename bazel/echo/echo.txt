@@ -2344,6 +2344,7 @@ entendres
 electroplating
 electroplates
 ellipsis
+exercitant
 ecumenical
 emulsifying
 egba
@@ -10820,7 +10821,6 @@ emer
 expuition
 endogalvanism
 excursions
-exercitant
 extemporaneity
 elasticate
 euchloric
