@@ -16569,7 +16569,6 @@ cloche
 clochette
 clockbird
 comodato
-clocker
 clockhouse
 clockings
 clockless
@@ -22928,6 +22927,7 @@ consignatary
 consignataries
 counterretreat
 comforting
+clocker
 chromosomic
 consigned
 consignee
