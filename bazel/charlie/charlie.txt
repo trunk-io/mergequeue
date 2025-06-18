@@ -17749,7 +17749,6 @@ coldbloodedness
 conservationist
 cochliodontidae
 cochliodus
-cochlite
 cochlospermaceae
 cochlospermum
 catatoniac
@@ -18951,6 +18950,7 @@ coliphage
 colyone
 colipuncture
 coliseum
+cochlite
 colossus
 cestoid
 colistin
