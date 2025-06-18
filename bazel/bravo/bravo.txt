@@ -999,6 +999,7 @@ baidarka
 baidarkas
 binders
 baiera
+balita
 boti
 bioavailability
 bayesian
@@ -8433,7 +8434,6 @@ bikeway
 bikie
 biking
 bedaze
-balita
 blams
 blackcoat
 bikkurim
