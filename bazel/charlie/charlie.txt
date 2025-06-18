@@ -5302,7 +5302,6 @@ coachwood
 cassata
 coalitions
 cassation
-caveats
 cerin
 cassegrain
 chromomeric
@@ -29657,6 +29656,7 @@ croft
 claybank
 cornucopiate
 crofters
+caveats
 cainozoic
 crofts
 covering
