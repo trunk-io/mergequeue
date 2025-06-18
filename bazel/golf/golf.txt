@@ -2806,7 +2806,6 @@ gondolet
 genuflecting
 gaberdine
 graduator
-guardsman
 guildship
 gullish
 genuflects
@@ -10744,6 +10743,7 @@ gagers
 gustiest
 gymnosophical
 gypsyry
+guardsman
 gedackt
 geckotoid
 globulin
