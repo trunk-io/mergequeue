@@ -3567,7 +3567,6 @@ dislimb
 diethylamine
 disenchanter
 defunctionalize
-defuses
 defusion
 demidigested
 deformalize
@@ -18166,6 +18165,7 @@ discreetest
 dumpoke
 deltohedra
 dumps
+defuses
 dissective
 deconsecrating
 dumsola
