@@ -6622,7 +6622,6 @@ fullness
 fettled
 fertilized
 freemanship
-fluidity
 foresummer
 frothily
 floodway
@@ -9709,6 +9708,7 @@ fustle
 fallalishly
 facty
 femoral
+fluidity
 famishes
 fingerroot
 functorial
