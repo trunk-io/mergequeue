@@ -3090,7 +3090,6 @@ georgics
 gnathobasic
 gnast
 galumphing
-galena
 greedygut
 gazzetta
 geoscientists
@@ -6426,6 +6425,7 @@ gauger
 goldener
 gidgee
 guldens
+galena
 geheimrat
 guary
 guaharibo
