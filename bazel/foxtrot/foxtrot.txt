@@ -6316,6 +6316,7 @@ filestatus
 forepoling
 frankincensed
 flybelts
+fleeing
 fisticuffery
 fornicators
 fescennine
@@ -10735,7 +10736,6 @@ flat
 felup
 fomentation
 footrope
-fleeing
 flagstaves
 fletches
 frustum
