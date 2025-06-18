@@ -5053,6 +5053,7 @@ battlers
 blazoned
 bastonet
 bowfin
+beslings
 bloodthirst
 befamilied
 biogeography
@@ -15312,7 +15313,6 @@ brierroot
 bonnetless
 brieve
 beanier
-beslings
 birthstone
 brigaded
 boxbush
