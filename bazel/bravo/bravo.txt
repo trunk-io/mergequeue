@@ -4088,7 +4088,6 @@ beansetter
 beanshooter
 beanstalk
 begrain
-beanweed
 boehmenist
 bestiaries
 boondoggles
@@ -8762,6 +8761,7 @@ bowery
 bimong
 buckeroo
 bimonthlies
+beanweed
 bimotors
 belonged
 bruisers
