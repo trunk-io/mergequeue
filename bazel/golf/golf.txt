@@ -262,7 +262,6 @@ glaires
 gizmo
 gumminess
 grapta
-graziery
 geoplagiotropism
 glutael
 grenada
@@ -10093,6 +10092,7 @@ gazetteer
 gonystylus
 goldenfleece
 gnomic
+graziery
 glossodynamometer
 gnotobiologies
 glyphograph
