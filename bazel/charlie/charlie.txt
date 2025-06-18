@@ -9797,7 +9797,6 @@ casse
 cheewink
 cheezit
 chef
-chefrinia
 chefs
 calypter
 collocate
@@ -27134,6 +27133,7 @@ counterspy
 counterspies
 coverage
 counterstand
+chefrinia
 counterstep
 corabeca
 chengal

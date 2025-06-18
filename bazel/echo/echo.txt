@@ -2110,7 +2110,6 @@ elastica
 extrapolator
 elastically
 edenite
-emberiza
 excitors
 embroiling
 effete
@@ -3368,6 +3367,7 @@ epitomize
 embarkment
 embarks
 equipage
+emberiza
 editorializes
 exteroceptor
 encyclopediac
