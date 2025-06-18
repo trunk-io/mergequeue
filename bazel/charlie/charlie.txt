@@ -15456,7 +15456,6 @@ clankum
 chloropia
 clannishness
 cradlemen
-clansfolk
 churchgrith
 clanship
 chiricahua
@@ -22822,6 +22821,7 @@ corso
 cambers
 cuirassing
 consented
+clansfolk
 consenter
 curium
 consenters
