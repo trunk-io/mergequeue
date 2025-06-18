@@ -8842,7 +8842,6 @@ airmails
 allocate
 anglophobes
 autoimmunization
-allocating
 asthmatics
 allocations
 amyosthenia
@@ -14733,6 +14732,7 @@ anticamera
 anticancer
 attaboy
 anaryan
+allocating
 aetheogamous
 adversarial
 anticapitalist
