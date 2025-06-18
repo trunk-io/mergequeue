@@ -10678,7 +10678,6 @@ drawfile
 diplonema
 detritus
 dunnaged
-diplont
 diplonts
 diplophase
 difficultness
@@ -11934,6 +11933,7 @@ dentel
 dispermic
 dieri
 dewier
+diplont
 dopers
 doux
 deathblow
