@@ -2077,7 +2077,6 @@ gormaw
 guarabu
 gazebo
 gazeboes
-guestship
 gyros
 grampus
 gen
@@ -8989,6 +8988,7 @@ griffonage
 gynandry
 girned
 glasslike
+guestship
 glacis
 guzzlers
 glory
