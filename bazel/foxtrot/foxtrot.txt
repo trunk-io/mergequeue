@@ -5485,7 +5485,6 @@ funniness
 frequentness
 flemishes
 flensed
-frillers
 flensers
 fallation
 fidelities
@@ -6882,6 +6881,7 @@ faradizes
 foliose
 flachery
 farcial
+frillers
 foliot
 floribunda
 fasces
