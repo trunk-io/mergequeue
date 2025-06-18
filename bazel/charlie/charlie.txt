@@ -9144,7 +9144,6 @@ charlatanries
 charlatans
 charleys
 compaa
-ctrl
 charlene
 charles
 corpore
@@ -31525,6 +31524,7 @@ chromosomes
 cursorary
 cundite
 cursory
+ctrl
 cratered
 cuproid
 cursorily
