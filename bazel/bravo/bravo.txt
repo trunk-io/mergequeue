@@ -1312,7 +1312,6 @@ balaos
 baroquely
 benzamino
 broody
-barbed
 balases
 balat
 belying
@@ -8215,6 +8214,7 @@ backspliced
 byestreet
 beatable
 boone
+barbed
 battailous
 best
 bluebuck
