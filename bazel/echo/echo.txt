@@ -1467,6 +1467,7 @@ ethiopian
 emunct
 epipleural
 envelop
+excipulum
 etaerio
 enfarce
 efforts
@@ -10322,7 +10323,6 @@ elasticizer
 ergal
 extravasate
 eulogium
-excipulum
 experimentize
 enzymologies
 electronography
