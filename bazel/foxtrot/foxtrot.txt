@@ -1498,6 +1498,7 @@ false
 fall
 fiddled
 funis
+frontlessness
 fattishness
 fother
 frimitts
@@ -4037,7 +4038,6 @@ friarling
 february
 felicitation
 federalization
-frontlessness
 formability
 fayalites
 fibration
