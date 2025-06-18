@@ -2830,6 +2830,7 @@ groggier
 greekery
 geo
 gallerylike
+grume
 geoponic
 genarch
 geoagronomic
@@ -6067,7 +6068,6 @@ gaduin
 gorbit
 guttie
 grisset
-grume
 gonococcoid
 gnaws
 gramineous
