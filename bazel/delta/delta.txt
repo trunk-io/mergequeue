@@ -3159,7 +3159,6 @@ defeasive
 delphacid
 defeated
 directs
-downs
 diluviate
 disgout
 dissimulated
@@ -16877,6 +16876,7 @@ disturnpike
 drawspring
 dispersible
 divergingly
+downs
 demicaponier
 discophile
 dribbet
