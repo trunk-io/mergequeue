@@ -4528,7 +4528,6 @@ ephorate
 encephalopathia
 encephalophyma
 ethynylation
-entoptoscope
 encephalos
 encapsulated
 encephalospinal
@@ -8602,6 +8601,7 @@ epigeous
 exceptant
 extraparenchymal
 equiaxed
+entoptoscope
 edificable
 exedrae
 eburnification
