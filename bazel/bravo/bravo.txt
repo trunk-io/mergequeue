@@ -5335,7 +5335,6 @@ blueheads
 bethesdas
 burrer
 bivariate
-beglide
 begloom
 beglooming
 burkers
@@ -12316,6 +12315,7 @@ bowdrill
 bombast
 buglers
 bandurrias
+beglide
 brunion
 bezzi
 baculi
