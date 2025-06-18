@@ -9612,7 +9612,6 @@ checkerbellies
 checkerberry
 checkerberries
 chorological
-checkerbloom
 calyciform
 checkerboarded
 checkery
@@ -30439,6 +30438,7 @@ caprification
 crosnes
 ctenolium
 ctenophoran
+checkerbloom
 ctenophore
 codesigning
 ctenophoric
