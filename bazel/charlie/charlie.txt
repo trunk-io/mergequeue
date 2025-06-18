@@ -11140,6 +11140,7 @@ cheapens
 chiselers
 calorify
 chiseling
+creancer
 commoned
 chiselled
 chiseller
@@ -28443,7 +28444,6 @@ creamware
 cindery
 creance
 chabot
-creancer
 carpintero
 creant
 creased
