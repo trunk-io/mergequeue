@@ -1895,6 +1895,7 @@ bougeron
 bandit
 beshrew
 bretwaldadom
+beden
 brooded
 branle
 bandle
@@ -5948,7 +5949,6 @@ bowden
 broadening
 bechancing
 benzalcyanhydrin
-beden
 backswordmen
 batswing
 blitzkrieg
