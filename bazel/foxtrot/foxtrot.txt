@@ -5858,6 +5858,7 @@ fluochloride
 fattening
 fierasfer
 fodders
+furl
 flounders
 flotas
 floatier
@@ -7783,7 +7784,6 @@ fren
 fraenum
 forgathering
 furs
-furl
 fleers
 finning
 fluorescein
