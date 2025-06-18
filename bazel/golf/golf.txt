@@ -6112,6 +6112,7 @@ gjetosts
 gyre
 gammarus
 gnosis
+grammatolator
 galenist
 gnostology
 glaserian
@@ -10014,7 +10015,6 @@ grf
 graphed
 gaonate
 gaussmeter
-grammatolator
 gesneriaceous
 genetoid
 geomancies
