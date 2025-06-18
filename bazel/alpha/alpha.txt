@@ -10694,7 +10694,6 @@ aminosulphonic
 amphiprotic
 amins
 aminta
-amyosthenic
 amyotonia
 amir
 amiray
@@ -14592,6 +14591,7 @@ antiaggressionist
 antienergistic
 antiaggressively
 antiaggressiveness
+amyosthenic
 antialbumin
 antialcoholic
 antialcoholism
