@@ -1147,7 +1147,6 @@ acaciin
 apparitions
 appere
 acclimatized
-academes
 academy
 apheliotropism
 areae
@@ -2301,6 +2300,7 @@ acidosteophyte
 arecuna
 aul
 acids
+academes
 amenity
 acidulant
 acidulate
