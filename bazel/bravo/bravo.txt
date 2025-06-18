@@ -5849,7 +5849,6 @@ bricks
 bellicism
 beyonds
 berhymed
-bellicist
 bromometry
 buildress
 boxcar
@@ -12908,6 +12907,7 @@ blanketing
 byssogenous
 bureaucratese
 boot
+bellicist
 big
 bootees
 blunging
