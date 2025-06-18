@@ -6515,7 +6515,6 @@ gamelans
 gomer
 gesten
 grew
-gpss
 glutting
 greyskin
 gentianales
@@ -8342,6 +8341,7 @@ gawby
 gizzards
 glaucescence
 grippes
+gpss
 giantry
 gunplay
 ghawazi
