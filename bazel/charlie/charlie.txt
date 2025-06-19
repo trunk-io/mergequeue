@@ -10287,7 +10287,6 @@ chia
 chiack
 chyack
 chianti
-chiao
 capsicum
 chiapanec
 chiapanecan
@@ -19125,6 +19124,7 @@ combustibilities
 cresorcin
 colly
 collyba
+chiao
 collibert
 confineless
 colliculate

@@ -1846,7 +1846,6 @@ gatherers
 goldbug
 galumph
 gooma
-gastroenteroanastomosis
 gamenesses
 gatherings
 gastrohysteropexy
@@ -3270,6 +3269,7 @@ geepounds
 germfree
 geostrophically
 glaumrie
+gastroenteroanastomosis
 gullion
 gutterlike
 gang
