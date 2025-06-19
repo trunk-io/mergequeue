@@ -20558,7 +20558,6 @@ compatibleness
 chlorider
 compatriotic
 chays
-compatriots
 compd
 cusparia
 carnose
@@ -28705,6 +28704,7 @@ creephole
 cyrilla
 calcining
 clung
+compatriots
 crenothrix
 crenula
 crenulate
