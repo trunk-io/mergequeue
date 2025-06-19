@@ -7777,6 +7777,7 @@ calculable
 cerias
 chervils
 cerillo
+coaid
 ceriman
 cerimans
 cerine
@@ -17288,7 +17289,6 @@ coagulometer
 coagulose
 coahuiltecan
 cantic
-coaid
 coaita
 coak
 coakum
