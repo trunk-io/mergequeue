@@ -1154,7 +1154,6 @@ epacts
 earthshakingly
 elhi
 eikons
-esthetics
 environage
 edition
 endere
@@ -9761,6 +9760,7 @@ esq
 esquiredom
 esquires
 existence
+esthetics
 evacue
 euselachii
 esquisse
