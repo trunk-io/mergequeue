@@ -11238,6 +11238,7 @@ antiballistic
 abp
 avidious
 amphiprostylar
+avoiders
 amidoazobenzene
 aminoformic
 amphirhinal
@@ -19524,7 +19525,6 @@ antimediaeval
 argots
 arguable
 arguably
-avoiders
 aerobian
 autocremation
 aecidiaceae
