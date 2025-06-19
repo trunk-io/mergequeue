@@ -2852,7 +2852,6 @@ forker
 feston
 flatly
 forgift
-fistulized
 forbearer
 flinchingly
 ftncmd
@@ -6150,6 +6149,7 @@ flours
 fetterers
 forechoir
 flagilate
+fistulized
 fangled
 farthingless
 fishlines
