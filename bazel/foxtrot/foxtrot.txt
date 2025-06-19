@@ -4762,7 +4762,6 @@ fledgy
 fantasticate
 frettage
 fictation
-frumentarious
 flabbergast
 fougue
 feathermonger
@@ -9159,6 +9158,7 @@ feoffees
 flamineous
 fabrications
 fungosity
+frumentarious
 freights
 fondue
 foveolate
