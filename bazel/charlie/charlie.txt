@@ -5257,6 +5257,7 @@ casiri
 casita
 casitas
 casket
+child
 corpl
 conflation
 cellulosed
@@ -10553,7 +10554,6 @@ charlottesville
 cosurety
 chilblained
 chilcat
-child
 childbearing
 circumspatial
 childcrowing
