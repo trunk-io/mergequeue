@@ -502,6 +502,7 @@ geomorphology
 guanyl
 geographic
 gowiddie
+guttide
 golem
 gruffing
 gastriloquist
@@ -7782,7 +7783,6 @@ gorman
 gerents
 gurlet
 gasometric
-guttide
 graces
 glumiflorae
 grisoutine
