@@ -5168,6 +5168,7 @@ exdie
 epimeride
 elephants
 electrology
+equiponderation
 economists
 ergotist
 epicist
@@ -10514,7 +10515,6 @@ eversive
 etypic
 editorialize
 ensheath
-equiponderation
 enoplan
 ending
 effluviums
