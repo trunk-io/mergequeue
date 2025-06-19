@@ -6339,7 +6339,6 @@ chymists
 conferrer
 capuchins
 catalases
-cofermentation
 colourize
 crescence
 cecchine
@@ -24842,6 +24841,7 @@ contumax
 coquillage
 coquille
 corrade
+cofermentation
 crosiers
 conductivity
 coquitlam
