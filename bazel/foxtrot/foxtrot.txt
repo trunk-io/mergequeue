@@ -4765,7 +4765,6 @@ fictation
 frumentarious
 flabbergast
 fougue
-feathermonger
 forshape
 flabbergasting
 fadme
@@ -5474,6 +5473,7 @@ firearmed
 falsifiable
 fley
 fretting
+feathermonger
 foxed
 flem
 feedlot
