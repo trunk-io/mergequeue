@@ -3101,7 +3101,6 @@ fairyology
 firemanship
 footwears
 frostflower
-fissioned
 fibbery
 fibbers
 fustin
@@ -3351,6 +3350,7 @@ fraticellian
 ferrites
 faunology
 fishgarth
+fissioned
 ferrimagnetically
 foreknowable
 forefeet
