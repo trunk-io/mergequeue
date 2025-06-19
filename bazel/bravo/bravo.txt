@@ -4646,7 +4646,6 @@ beltmaking
 bhikhari
 briquetted
 bedfellows
-buildable
 bedford
 brothier
 bedframes
@@ -16593,6 +16592,7 @@ brainlessly
 bachelors
 buccogingival
 brember
+buildable
 balza
 buccolabial
 bides
