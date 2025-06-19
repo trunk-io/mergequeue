@@ -12293,6 +12293,7 @@ barratrous
 bombable
 bombacaceae
 bombace
+branchiopulmonata
 behang
 bundu
 byrls
@@ -13130,7 +13131,6 @@ berob
 borofluohydric
 boroglycerine
 borohydride
-branchiopulmonata
 boronatrocalcite
 boronic
 borophenylic
