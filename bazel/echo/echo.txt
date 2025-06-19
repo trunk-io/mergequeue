@@ -2224,7 +2224,6 @@ epitheliulia
 electary
 engrailing
 epithet
-enthraldom
 erected
 emotionist
 elysee
@@ -6071,6 +6070,7 @@ estaminets
 epiphytotic
 epistolical
 epistles
+enthraldom
 edgemaker
 elbowchair
 ecumenopolis
