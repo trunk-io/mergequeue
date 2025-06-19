@@ -11732,7 +11732,6 @@ cervelases
 choleriform
 cholerigenous
 cholerine
-choleroid
 cholerophobia
 cholestanol
 camphylene
@@ -25052,6 +25051,7 @@ chlorargyrite
 cordoned
 cordoning
 cordonnet
+choleroid
 chere
 cordons
 cords
