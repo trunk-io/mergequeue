@@ -2120,7 +2120,6 @@ bay
 bradoons
 barring
 borofluoride
-bantayan
 buckshots
 bidstand
 bantam
@@ -7662,6 +7661,7 @@ bewry
 bragget
 bankroller
 bullwhip
+bantayan
 bahar
 barranca
 bairnteem
