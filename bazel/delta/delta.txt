@@ -3515,7 +3515,6 @@ disknow
 distomum
 demographical
 delvers
-deformable
 darkey
 deformation
 delete
@@ -6929,6 +6928,7 @@ despairfully
 despairing
 desparple
 disturber
+deformable
 downsinking
 decadation
 despatches
