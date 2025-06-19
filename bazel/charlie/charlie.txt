@@ -11506,7 +11506,6 @@ caffa
 chlorpicrin
 chlorpromazine
 cheerfulsome
-ciboule
 chlorsalol
 confetto
 cabrioles
@@ -15331,6 +15330,7 @@ clayweed
 caam
 colours
 chlorphenol
+ciboule
 crassina
 clam
 cabriolet
