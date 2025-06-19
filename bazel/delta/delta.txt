@@ -11186,7 +11186,6 @@ diplomacy
 dysautonomia
 disavail
 dayroom
-discomforted
 dissaves
 despect
 dishabituating
@@ -11898,6 +11897,7 @@ deuteroprism
 diamines
 discurre
 dimming
+discomforted
 dislikable
 discursify
 donatively

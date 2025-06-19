@@ -4209,7 +4209,6 @@ cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
 cardiospermum
-celts
 cardiosphygmogram
 cardiosphygmograph
 cardiotherapies
@@ -6221,6 +6220,7 @@ catvine
 cerebellospinal
 coordinated
 correlativeness
+celts
 crosstied
 circumjacencies
 ceraunoscope
