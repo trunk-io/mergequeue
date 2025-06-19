@@ -7210,7 +7210,6 @@ disafforest
 desulfurised
 doomsdays
 dehiscence
-detainee
 detaining
 disinfecter
 durwaun
@@ -13966,6 +13965,7 @@ distinct
 distinctify
 distinction
 dertrum
+detainee
 dinero
 disorganizer
 distinctity
