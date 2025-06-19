@@ -6258,7 +6258,6 @@ bypass
 beakful
 benne
 bennes
-beveling
 bungalow
 bennets
 bootlace
@@ -8005,6 +8004,7 @@ bicentric
 bancal
 bicentricity
 beebees
+beveling
 bardier
 banksias
 beauteousness

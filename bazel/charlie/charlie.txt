@@ -4757,7 +4757,6 @@ commas
 choenix
 carpetbags
 counterearth
-ciboria
 catchall
 chigetais
 champerty
@@ -28524,6 +28523,7 @@ carapaced
 credences
 coring
 credencive
+ciboria
 conditioning
 credenda
 confluently
