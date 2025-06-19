@@ -7270,7 +7270,6 @@ centreless
 centrepiece
 canephoroe
 centrer
-closely
 chol
 chatterbox
 centrev
@@ -10999,6 +10998,7 @@ chirinola
 chirk
 chirked
 chirkest
+closely
 chirking
 chirks
 contrariety
