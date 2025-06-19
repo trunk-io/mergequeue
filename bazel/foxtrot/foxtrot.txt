@@ -2891,6 +2891,7 @@ frieseite
 friller
 ficus
 fluidly
+firebox
 fishhouse
 floodlights
 fideicommiss
@@ -4198,7 +4199,6 @@ faithwise
 forwarn
 figments
 figuredly
-firebox
 flocculation
 friendliest
 fellowcraft
