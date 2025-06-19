@@ -8827,6 +8827,7 @@ embossable
 enround
 electrodepositable
 eradications
+embosses
 erections
 enterobiliary
 etcetera
@@ -11995,7 +11996,6 @@ ethanoyl
 embryonally
 excellently
 excitons
-embosses
 excitosecretory
 excitovascular
 enamouring
