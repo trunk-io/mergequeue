@@ -5105,7 +5105,6 @@ gyps
 glaucophanite
 goldcrest
 gallinaginous
-guerdon
 gammick
 gravelous
 geologised
@@ -6729,6 +6728,7 @@ gazpacho
 gascheck
 glycolysis
 guntub
+guerdon
 grey
 grandmotherism
 ghostmonger
