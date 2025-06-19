@@ -1585,7 +1585,6 @@ deafmuteness
 disembrace
 digression
 deafness
-deairing
 discernableness
 deairs
 dealate
@@ -2517,6 +2516,7 @@ dubonnet
 deactivating
 declivitously
 declarant
+deairing
 declarations
 declarative
 deligation
