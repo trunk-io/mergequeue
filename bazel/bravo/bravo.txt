@@ -3000,7 +3000,6 @@ boogyman
 barter
 bube
 blechnoid
-barters
 brujo
 blood
 bullace
@@ -13866,6 +13865,7 @@ brooch
 biduous
 bang
 bowheads
+barters
 bowie
 balr
 blatter
