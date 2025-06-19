@@ -2777,7 +2777,6 @@ elementalistic
 extrathoracic
 estrangements
 elementalize
-ephori
 elementaloid
 emperil
 essang
@@ -3701,6 +3700,7 @@ echelette
 exhaustivity
 egoistry
 embrittle
+ephori
 enfranchised
 eschevin
 euploidy
