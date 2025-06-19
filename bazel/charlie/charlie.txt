@@ -9084,6 +9084,7 @@ chargehouse
 chargeless
 charger
 charges
+commentatorship
 charybdian
 crankman
 charybdis
@@ -20115,7 +20116,6 @@ commentator
 chokecherries
 charcutier
 commentators
-commentatorship
 cre
 carboned
 commented
