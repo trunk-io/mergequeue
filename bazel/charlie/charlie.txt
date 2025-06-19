@@ -12346,6 +12346,7 @@ chrysopsis
 crispy
 camphorphorone
 chrysosperm
+calibrators
 chrysosplenium
 chrysothrix
 chrysotile
@@ -17863,7 +17864,6 @@ compearance
 codamin
 compense
 categorisation
-calibrators
 cardiography
 codas
 cardialgic
