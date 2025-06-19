@@ -1762,7 +1762,6 @@ greenovite
 gavelled
 glossolaly
 gutterblood
-gelatinotype
 grippelike
 ghyll
 graped
@@ -9532,6 +9531,7 @@ groupist
 genipapada
 greasy
 gristliness
+gelatinotype
 griminess
 groundkeeper
 glidder
