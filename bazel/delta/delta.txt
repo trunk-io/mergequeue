@@ -5049,7 +5049,6 @@ deluder
 dropshots
 denaro
 dejectedness
-depr
 denasalize
 dictamen
 denasalized
@@ -14217,6 +14216,7 @@ dermatomic
 disunion
 drolly
 download
+depr
 disunites
 dithyrambic
 disunity
