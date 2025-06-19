@@ -9354,7 +9354,6 @@ dietic
 decolorant
 dietitians
 dtset
-diplomat
 dietotherapy
 dietotoxic
 detersive
@@ -12465,6 +12464,7 @@ disheriting
 deforms
 disposable
 dishevelled
+diplomat
 dishevelling
 delomorphic
 dismissingly
