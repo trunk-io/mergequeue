@@ -8940,7 +8940,6 @@ giveaways
 galvo
 gaj
 greyhens
-glucina
 greenbul
 glenlivet
 glycuronid
@@ -10338,6 +10337,7 @@ grubstaking
 gpcd
 gushed
 gules
+glucina
 gaud
 gown
 gonoph
