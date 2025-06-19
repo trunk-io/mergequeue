@@ -1373,7 +1373,6 @@ amintor
 acceptance
 aggressions
 acceptances
-absorbent
 aspermous
 acceptancies
 athalline
@@ -8935,6 +8934,7 @@ archaically
 averager
 anematizing
 aerobiologic
+absorbent
 acetoxime
 allomorphism
 anisidin
