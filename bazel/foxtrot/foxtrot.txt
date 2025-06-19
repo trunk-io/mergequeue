@@ -1732,6 +1732,7 @@ fadeaways
 forces
 frisker
 feaster
+furtive
 fearedness
 fluidizes
 fathometer
@@ -10599,7 +10600,6 @@ fulgent
 foiling
 foilsman
 filaceous
-furtive
 famular
 fatigues
 finched
