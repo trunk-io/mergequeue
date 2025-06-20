@@ -3100,7 +3100,6 @@ anatoly
 actinotherapeutics
 actinotrichium
 actinozoa
-actinozoan
 actinozoon
 ablutions
 actins
@@ -8559,6 +8558,7 @@ alkylic
 appendiculariidae
 antiphonetic
 anorexies
+actinozoan
 alkylidene
 afterburners
 alkylize
