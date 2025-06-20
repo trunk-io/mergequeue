@@ -3693,7 +3693,6 @@ battered
 beltis
 batterie
 breck
-batteries
 batteryman
 batterman
 bullockman
@@ -11953,6 +11952,7 @@ bogeyman
 broommaker
 branchiopneustic
 bogeymen
+batteries
 bawke
 beltlines
 betweens
