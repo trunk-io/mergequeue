@@ -5846,7 +5846,6 @@ fenestration
 flywinch
 fellnesses
 fulfils
-flouncey
 footback
 forgrown
 fallers
@@ -11363,6 +11362,7 @@ foreassign
 fizzes
 frousier
 flayed
+flouncey
 fluencies
 furmities
 fornicated
