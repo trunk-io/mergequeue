@@ -332,7 +332,6 @@ galactolipide
 graveship
 galactometer
 gastritis
-gaussian
 grilses
 gleen
 gerontologic
@@ -3711,6 +3710,7 @@ gouvernantes
 goodish
 giarra
 gherao
+gaussian
 giarre
 gastaldo
 grylle
