@@ -11505,6 +11505,7 @@ chemotroph
 caffa
 chlorpicrin
 chlorpromazine
+cottered
 cheerfulsome
 ciboule
 chlorsalol
@@ -26502,7 +26503,6 @@ cottas
 cotte
 cotted
 cotter
-cottered
 cotterel
 cottid
 capitulating
