@@ -11197,7 +11197,6 @@ biquadratic
 bloodworthy
 belched
 blearily
-blooey
 bloomed
 baloghia
 bloomeries
@@ -12493,6 +12492,7 @@ bonebreaker
 boned
 benignantly
 bonedry
+blooey
 bonefish
 broodier
 biennially
