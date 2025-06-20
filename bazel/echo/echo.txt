@@ -8815,7 +8815,6 @@ embrue
 erade
 exhedra
 enfeebler
-ends
 euphyllite
 erythrorrhexis
 eradicable
@@ -14137,6 +14136,7 @@ ephemerality
 epicrises
 enseraph
 enplanement
+ends
 emulates
 enlard
 entocuneiform
