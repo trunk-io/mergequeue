@@ -6006,6 +6006,7 @@ dissatisfiedness
 dragons
 diopside
 delictus
+demyship
 deed
 depsides
 discommoded
@@ -12607,7 +12608,6 @@ disinheritances
 daturic
 dhole
 disinheriting
-demyship
 disinhume
 disinsectization
 djagatay
