@@ -5433,7 +5433,6 @@ frisado
 factorial
 fledgiest
 freestones
-floatless
 foisonless
 fabian
 feasten
@@ -6627,6 +6626,7 @@ foresummer
 frothily
 floodway
 foamlike
+floatless
 fascioliasis
 fenagles
 flagrante
