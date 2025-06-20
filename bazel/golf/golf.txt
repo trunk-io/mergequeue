@@ -2476,6 +2476,7 @@ genecology
 guanidopropionic
 gibed
 griever
+gnetum
 gained
 grooveless
 gigmania
@@ -4803,7 +4804,6 @@ giggish
 glaciology
 glairiness
 glaciomarine
-gnetum
 guideway
 gypaetus
 griffinism
