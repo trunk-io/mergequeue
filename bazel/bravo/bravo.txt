@@ -9359,7 +9359,6 @@ blethers
 brabbles
 besogne
 biographic
-bewrathed
 brinish
 baroscope
 bushi
@@ -14856,6 +14855,7 @@ byssolite
 breakout
 breakpoint
 breaks
+bewrathed
 benzdifuran
 besteaded
 besselian

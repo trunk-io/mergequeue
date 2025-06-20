@@ -6235,7 +6235,6 @@ grx
 gadslid
 gobber
 goateed
-guitarlike
 garths
 guttural
 ghostiest
@@ -8691,6 +8690,7 @@ grinner
 grassroots
 greencoat
 gastrolater
+guitarlike
 gormandising
 glew
 greenery
