@@ -4862,7 +4862,6 @@ aeroelasticity
 aporphin
 aerofoil
 adjurors
-aerofoils
 algine
 amberfish
 aerogel
@@ -5354,6 +5353,7 @@ afire
 aflagellar
 acapnias
 almight
+aerofoils
 aflat
 araliaephyllum
 agons
