@@ -2992,7 +2992,6 @@ anthropopathite
 atonement
 appear
 actinogram
-aerophore
 appearances
 actinograph
 aporobranchiata
@@ -5322,6 +5321,7 @@ affriended
 affrighted
 applying
 affrightedly
+aerophore
 acarpellous
 annoyful
 affrightful
