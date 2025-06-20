@@ -1204,7 +1204,6 @@ egrimony
 entitule
 estivates
 education
-enscroll
 ensweep
 educational
 extratracheal
@@ -5191,6 +5190,7 @@ eleme
 ephemerons
 existibility
 eagled
+enscroll
 embossment
 epigastrial
 endointoxication
