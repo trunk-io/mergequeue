@@ -1804,6 +1804,7 @@ featherbird
 feoffors
 forfare
 foreshore
+fress
 foveal
 fuzztail
 foresaddle
@@ -9815,7 +9816,6 @@ floorwalker
 fresison
 fraudless
 fresno
-fress
 fret
 fatals
 farrows
