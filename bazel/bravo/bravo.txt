@@ -1045,7 +1045,6 @@ bailing
 busway
 basanite
 boroughmaster
-bailiwick
 bridler
 benzothiopyran
 brasswork
@@ -12205,6 +12204,7 @@ bollworm
 blizzardly
 bolo
 bicron
+bailiwick
 bicarbide
 buckhound
 balustered
