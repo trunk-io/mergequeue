@@ -6022,7 +6022,6 @@ catheterisation
 catheterise
 clienteles
 coiffes
-catheterised
 catheterism
 catheterization
 catheterized
@@ -30397,6 +30396,7 @@ crabhole
 crux
 cruxes
 cognominate
+catheterised
 cruzado
 cruzieros
 crwd

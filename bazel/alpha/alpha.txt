@@ -1618,7 +1618,6 @@ attire
 accoutrement
 angioclast
 accoutres
-accoutring
 accredit
 argenteum
 accreditate
@@ -2383,6 +2382,7 @@ acinetiform
 acaricidal
 acinic
 aciniform
+accoutring
 anatomicophysiological
 aggrate
 acinus
