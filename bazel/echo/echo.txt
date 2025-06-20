@@ -1851,6 +1851,7 @@ eightpenny
 euler
 ecchymose
 epidiorite
+electrogenesis
 encystments
 errabund
 edestin
@@ -3682,7 +3683,6 @@ elucidators
 extramural
 embryophore
 educations
-electrogenesis
 elements
 embryos
 esthesioblast
