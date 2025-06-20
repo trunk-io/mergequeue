@@ -5922,7 +5922,6 @@ faultfinding
 fdname
 flockings
 fulsamic
-folgerite
 fencepost
 feculae
 foetalism
@@ -10823,6 +10822,7 @@ flus
 flavorous
 fulfillments
 foreshadowing
+folgerite
 fulfilment
 fashionably
 furfuration
