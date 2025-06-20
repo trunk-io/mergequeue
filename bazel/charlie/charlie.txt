@@ -3710,7 +3710,6 @@ contumacity
 cognates
 carapacic
 carapax
-climacterial
 carapaxes
 coachable
 carbonadoes
@@ -19711,6 +19710,7 @@ coating
 colzas
 com
 coma
+climacterial
 comprobate
 cardiectomy
 carillon
