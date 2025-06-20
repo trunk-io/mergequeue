@@ -8789,7 +8789,6 @@ channelure
 cestus
 chronoscope
 chansonette
-commissionaire
 chansonnette
 chansonniers
 chantey
@@ -16065,6 +16064,7 @@ clericature
 cointension
 colloquialize
 clericism
+commissionaire
 conglomerator
 centares
 clerid
