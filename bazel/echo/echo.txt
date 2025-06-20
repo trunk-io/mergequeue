@@ -2526,6 +2526,7 @@ emoluments
 escadrilles
 electrolyser
 exorcist
+eviller
 efficaciousness
 endocritic
 eminency
@@ -4375,7 +4376,6 @@ enbrave
 eggheadedness
 embar
 egotize
-eviller
 eruptively
 eatage
 electromechanical
