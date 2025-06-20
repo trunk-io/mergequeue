@@ -2244,7 +2244,6 @@ felts
 forthtell
 feltwort
 fastidiosity
-flaggier
 felwort
 faciobrachial
 forestery
@@ -4186,6 +4185,7 @@ fatling
 feezed
 fluey
 fireboy
+flaggier
 fam
 flying
 fraticelli
