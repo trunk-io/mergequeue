@@ -3396,7 +3396,6 @@ cervelas
 chemotropism
 comfits
 cappings
-coagencies
 capple
 cappuccino
 chandu
@@ -30870,6 +30869,7 @@ culter
 culti
 cultic
 caecity
+coagencies
 cultigens
 cultish
 cerasin
