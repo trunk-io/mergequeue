@@ -1957,6 +1957,7 @@ banding
 bacteriophage
 bandwidth
 bagginess
+bloomy
 bandworm
 boogiewoogie
 baylet
@@ -16612,7 +16613,6 @@ bucharest
 buchloe
 bunkoing
 burros
-bloomy
 buchnerite
 balconette
 buchonite
