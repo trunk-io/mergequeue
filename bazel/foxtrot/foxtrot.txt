@@ -9314,7 +9314,6 @@ fluidise
 fundable
 faulting
 forty
-foveae
 furfurole
 forcipulata
 firedamp
@@ -11673,6 +11672,7 @@ forepale
 foxskins
 flameholder
 fructiform
+foveae
 ferrocerium
 fresne
 fluorochrome
