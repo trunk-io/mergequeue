@@ -3091,7 +3091,6 @@ falconet
 ferrotype
 fortepiano
 flukily
-forasmuch
 foreman
 floodage
 fiat
@@ -6339,6 +6338,7 @@ flickerproof
 flintlocks
 fistnote
 funori
+forasmuch
 fettling
 futurable
 fictive
