@@ -5278,7 +5278,6 @@ fstore
 flot
 fissiped
 frilal
-figgery
 flavoured
 flavourful
 fieldy
@@ -6081,6 +6080,7 @@ flavorfulness
 firmarius
 flocculating
 floridity
+figgery
 feminises
 floriscope
 fetterbush
