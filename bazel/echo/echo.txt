@@ -992,7 +992,6 @@ eponymic
 edits
 enterococcus
 endosporium
-exclaimers
 esoterics
 expanse
 excavatory
@@ -11370,6 +11369,7 @@ examiner
 eveline
 even
 entortill
+exclaimers
 equilater
 epitrochlear
 equivalencing
