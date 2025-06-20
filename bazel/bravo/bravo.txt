@@ -11640,6 +11640,7 @@ bacauan
 blacks
 bizant
 boarwood
+briarroot
 boas
 boaster
 boastfully
@@ -14484,7 +14485,6 @@ bran
 bolivarite
 bodier
 brancard
-briarroot
 bahan
 branchiomeric
 branchellion
