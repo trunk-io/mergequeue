@@ -2122,7 +2122,6 @@ barring
 borofluoride
 bantayan
 buckshots
-bidstand
 bantam
 bantamize
 bismar
@@ -8892,6 +8891,7 @@ biobibliographer
 barleysick
 bioblastic
 backwoodsiness
+bidstand
 bungaloid
 berakot
 biocenology
