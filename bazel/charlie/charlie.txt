@@ -2820,7 +2820,6 @@ cannulae
 cannulate
 circumscribe
 carajura
-cursitor
 cannulating
 canoe
 chinafish
@@ -26604,6 +26603,7 @@ coumara
 coumaran
 coumaric
 celluloided
+cursitor
 coumarilic
 coumarins
 copal
