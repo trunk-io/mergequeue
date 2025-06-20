@@ -4242,6 +4242,7 @@ cardophagus
 clearwing
 carbamido
 carnet
+cardstock
 chiron
 coloboma
 chauffeur
@@ -10983,7 +10984,6 @@ chiquito
 clavate
 chiral
 clerids
-cardstock
 chiralgia
 contiguousness
 chirapsia
