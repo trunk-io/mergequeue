@@ -8465,7 +8465,6 @@ gametophyte
 ganglioblast
 gulden
 gastrosuccorrhea
-gyromitra
 glack
 grecian
 grues
@@ -10730,6 +10729,7 @@ gassers
 gaddi
 gustard
 guergal
+gyromitra
 grouping
 gustatorial
 groupie
