@@ -10114,7 +10114,6 @@ coffles
 cheries
 cosmotron
 coronavirus
-circumhorizontal
 celeries
 cherry
 cherryblossom
@@ -14704,6 +14703,7 @@ cryptorchid
 catholicism
 cystidium
 candescent
+circumhorizontal
 cystiferous
 cyath
 cystiform
