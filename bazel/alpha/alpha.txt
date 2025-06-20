@@ -11333,7 +11333,6 @@ artels
 auguster
 amplexus
 amplexuses
-autocephaly
 absorptance
 ampliative
 aiguiere
@@ -13087,6 +13086,7 @@ animable
 atrichia
 archaeopteris
 animacule
+autocephaly
 animadversal
 animadversional
 almuten
