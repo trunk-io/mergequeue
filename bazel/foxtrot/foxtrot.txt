@@ -92,6 +92,7 @@ faces
 folkright
 flattening
 flowerfence
+forenames
 foliobranch
 fiendish
 flagrantness
@@ -2616,7 +2617,6 @@ ferrihydrocyanic
 fervency
 freshmanship
 fenugreek
-forenames
 feedsman
 frailties
 fortuitus
