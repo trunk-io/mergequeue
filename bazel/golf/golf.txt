@@ -5722,7 +5722,6 @@ goldsmithery
 glockenspiel
 glossohyal
 gaultherase
-gobos
 glossolalia
 gamble
 glossolysis
@@ -8062,6 +8061,7 @@ girandole
 gulping
 granulary
 guidebooks
+gobos
 gonagra
 glyoxalin
 gobs
