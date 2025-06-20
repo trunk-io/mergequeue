@@ -8488,7 +8488,6 @@ bavardage
 bootjack
 bouteloua
 bilgeway
-bilgier
 bilharzial
 beglerbey
 bloaters
@@ -13971,6 +13970,7 @@ brooders
 boxtop
 brager
 benzotoluide
+bilgier
 beadhouses
 blastman
 bluecup
