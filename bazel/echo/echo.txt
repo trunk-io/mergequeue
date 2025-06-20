@@ -2969,7 +2969,6 @@ elinguate
 enfield
 eleatic
 eleoblast
-eradiation
 evaluate
 efflorescence
 extern
@@ -9845,6 +9844,7 @@ engrave
 efficiencies
 encouragements
 estab
+eradiation
 euphrates
 expenthesis
 enzygotic
