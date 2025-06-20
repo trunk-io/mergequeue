@@ -5643,7 +5643,6 @@ glasses
 glassrope
 glorifications
 girdlers
-garefowls
 gentlefolks
 graveside
 guayule
@@ -5714,6 +5713,7 @@ graphics
 gabendum
 grieshuckle
 girasols
+garefowls
 gyrolite
 gurus
 geologize
