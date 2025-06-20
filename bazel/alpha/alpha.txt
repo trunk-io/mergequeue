@@ -6599,7 +6599,6 @@ aiguilles
 aiguillette
 anthropoids
 ayins
-aquiline
 agorae
 aik
 aikane
@@ -16792,6 +16791,7 @@ aphislion
 acinetina
 aphlogistic
 amberina
+aquiline
 alle
 anginal
 antipascha

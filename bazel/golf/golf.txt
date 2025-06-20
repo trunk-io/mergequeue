@@ -3524,6 +3524,7 @@ galvanic
 gyrocar
 greg
 gleit
+geoty
 gatewaymen
 glutinosity
 gustus
@@ -3903,7 +3904,6 @@ gimping
 grubworms
 glioma
 glossoscopia
-geoty
 grand
 graphium
 gorgoneioneia
