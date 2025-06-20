@@ -1701,7 +1701,6 @@ flophouse
 fied
 foreannounce
 fipenny
-four
 fdnames
 floretum
 forthcut
@@ -3772,6 +3771,7 @@ falla
 flaccidities
 fillings
 furfuryl
+four
 fatuously
 fricti
 flyable
