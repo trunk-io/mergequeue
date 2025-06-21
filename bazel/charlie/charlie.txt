@@ -11909,6 +11909,7 @@ chazzen
 cycloidal
 choose
 coaster
+cloudcap
 copaljocote
 chooser
 choosers
@@ -16840,7 +16841,6 @@ clotweed
 clou
 cloudage
 cloudberry
-cloudcap
 cloudful
 cacolike
 colouristic
