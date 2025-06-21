@@ -1150,7 +1150,6 @@ genio
 generalness
 gantsl
 galactometry
-gastrostomus
 glossograph
 gnetums
 guffin
@@ -3890,6 +3889,7 @@ gastrochaena
 gigawatt
 gutser
 garote
+gastrostomus
 grannie
 geobotanical
 gratuito
