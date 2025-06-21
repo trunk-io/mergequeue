@@ -6674,7 +6674,6 @@ growse
 ghosty
 gyrus
 grittle
-gardenize
 goosey
 goup
 glimed
@@ -8753,6 +8752,7 @@ greensickness
 glummer
 greenstone
 goldfields
+gardenize
 gimballing
 gauntree
 gange
