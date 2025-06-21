@@ -8149,7 +8149,6 @@ formlessly
 forthwith
 fretless
 ferberite
-foretopmast
 fencer
 foretopmen
 foreperiod
@@ -10923,6 +10922,7 @@ flexure
 field
 fulminatory
 fetal
+foretopmast
 floorage
 fadridden
 fack
