@@ -3244,7 +3244,6 @@ glent
 grabbable
 glosseme
 gemless
-gula
 gabback
 geneticists
 germanized
@@ -9584,6 +9583,7 @@ gravelike
 gujrati
 guttiferales
 guld
+gula
 gerbe
 gowds
 gorgon
