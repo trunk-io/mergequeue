@@ -1965,7 +1965,6 @@ cameration
 camery
 camerier
 camerine
-cecidium
 casavas
 camerinidae
 camerist
@@ -27246,6 +27245,7 @@ counties
 counting
 clothespress
 countinghouse
+cecidium
 conflagrating
 countywide
 cerebellopontine
