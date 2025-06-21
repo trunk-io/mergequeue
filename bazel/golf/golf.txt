@@ -6146,7 +6146,6 @@ gazetteers
 groveling
 goal
 glutted
-griffithite
 galactophore
 gigantolite
 glandiferous
@@ -8962,6 +8961,7 @@ gillnet
 graphotypic
 grievous
 gearbox
+griffithite
 giher
 germinating
 galingale
