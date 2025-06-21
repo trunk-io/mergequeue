@@ -15793,7 +15793,6 @@ clavering
 clavi
 chirres
 clavy
-clavicembalist
 clavicembalo
 claviceps
 caiarara
@@ -19160,6 +19159,7 @@ chloridizing
 collimated
 collimates
 collimating
+clavicembalist
 collimation
 collimator
 carcinus
