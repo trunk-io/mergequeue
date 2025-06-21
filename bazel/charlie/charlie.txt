@@ -6153,6 +6153,7 @@ catskill
 coll
 catso
 catsos
+chord
 catspaw
 catstane
 catstep
@@ -10145,7 +10146,6 @@ chowder
 cabernet
 cherubical
 caribisi
-chord
 composers
 cherubim
 cherubimic
