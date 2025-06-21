@@ -2104,6 +2104,7 @@ digraph
 dihydrol
 duograph
 decamethonium
+dodgy
 decametric
 decan
 decanal
@@ -13442,7 +13443,6 @@ disesteem
 decolourize
 disecondary
 displeasurable
-dodgy
 disquisitions
 disquisitively
 disquisitor
