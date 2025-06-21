@@ -7590,6 +7590,7 @@ foredeclare
 foredefeated
 frankheartedness
 flightworthy
+featureless
 fatuity
 fermentation
 footslogs
@@ -8834,7 +8835,6 @@ fusing
 fossorious
 fossulae
 faltche
-featureless
 fostered
 footstone
 fator
