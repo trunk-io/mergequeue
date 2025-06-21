@@ -10864,7 +10864,6 @@ athwarthawse
 ammos
 ammotherapy
 ammu
-antipepsin
 ammunition
 amnesia
 amnesiac
@@ -11388,6 +11387,7 @@ amrit
 aphodus
 achitophel
 ajugas
+antipepsin
 attendants
 assets
 artinite
