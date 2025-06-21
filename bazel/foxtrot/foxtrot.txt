@@ -404,6 +404,7 @@ filicauline
 forbid
 fairfieldite
 facets
+fresnel
 faceoff
 fairground
 fairy
@@ -6198,7 +6199,6 @@ fluohydric
 furnacemen
 flowerwork
 flowing
-fresnel
 fascisticization
 flowingness
 forestless
