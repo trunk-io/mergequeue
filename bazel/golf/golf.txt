@@ -2962,7 +2962,6 @@ grumble
 gabbroid
 gaps
 goatherdess
-glassed
 guildsmen
 geomancy
 garnered
@@ -10429,6 +10428,7 @@ gnateater
 gillbird
 giller
 geepound
+glassed
 gratuity
 graphiology
 gum
