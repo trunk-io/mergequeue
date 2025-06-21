@@ -5468,7 +5468,6 @@ gluttery
 groschen
 glyster
 gangboard
-gablet
 glissando
 glistened
 grande
@@ -10805,6 +10804,7 @@ gabbroitic
 gibli
 guttlers
 gainly
+gablet
 goblinism
 gonenesses
 guttulate
