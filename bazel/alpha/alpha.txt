@@ -17755,7 +17755,6 @@ applications
 appositely
 applicative
 applicatively
-applicatory
 applicators
 appliedly
 afterdischarge
@@ -24469,6 +24468,7 @@ axlesmith
 autotrophic
 autotropic
 autotruck
+applicatory
 asclepias
 ayless
 argalis
