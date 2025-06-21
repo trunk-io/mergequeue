@@ -2890,6 +2890,7 @@ doloroso
 daedalist
 devotions
 decuplet
+dismisses
 drepanis
 discernment
 dronet
@@ -12908,7 +12909,6 @@ dismissals
 dismissed
 dismissers
 distemperate
-dismisses
 dismissing
 dismissory
 discographically
