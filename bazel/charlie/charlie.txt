@@ -1300,6 +1300,7 @@ colossuses
 crawfished
 calycanthin
 cantador
+cerolite
 carious
 cryptogrammatist
 chaucer
@@ -7815,7 +7816,6 @@ contestants
 contracter
 cerographical
 ceroline
-cerolite
 ceromancy
 ciliolate
 couldron
