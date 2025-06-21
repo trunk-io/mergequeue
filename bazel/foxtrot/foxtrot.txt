@@ -7223,7 +7223,6 @@ factionaries
 fairer
 farers
 fimbrillose
-fiend
 fiver
 foreground
 footpad
@@ -9233,6 +9232,7 @@ facts
 fabulists
 frayedly
 frayedness
+fiend
 fabulize
 fretter
 fidging
