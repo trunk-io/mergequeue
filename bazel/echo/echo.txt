@@ -4252,7 +4252,6 @@ evertebrata
 emphasise
 extoller
 emulsoids
-enteropathogenic
 elohim
 emunctory
 enlay
@@ -13614,6 +13613,7 @@ extends
 emblemed
 eponychium
 extensibility
+enteropathogenic
 epilemma
 extensions
 endorsements
