@@ -5561,7 +5561,6 @@ forestays
 favellae
 fissiparism
 flexion
-flexitime
 ferdiad
 folliculate
 flexography
@@ -9718,6 +9717,7 @@ frappes
 filosofe
 farragos
 freyja
+flexitime
 fanit
 flied
 femes
