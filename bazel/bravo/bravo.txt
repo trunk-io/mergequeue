@@ -7520,7 +7520,6 @@ bardism
 belayer
 beveller
 bookbinder
-bardelle
 biathlon
 bedgery
 bevenom
@@ -10567,6 +10566,7 @@ blathery
 blackprint
 baretta
 blathers
+bardelle
 bazookamen
 biomicroscopy
 bivinyls
