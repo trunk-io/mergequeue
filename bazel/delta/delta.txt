@@ -5497,7 +5497,6 @@ dismounting
 decimalise
 dolley
 deoxidation
-deoxidative
 dibbles
 deoxidisation
 dsnames
@@ -6211,6 +6210,7 @@ derivates
 depictured
 disnosed
 derivations
+deoxidative
 degrading
 discorder
 demising
