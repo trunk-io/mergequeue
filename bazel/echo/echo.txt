@@ -2435,7 +2435,6 @@ electroscopes
 elutriate
 erythrocytolysin
 elean
-electroforming
 emerges
 ethanol
 electrogalvanization
@@ -3428,6 +3427,7 @@ estival
 enate
 epees
 elaeothesium
+electroforming
 enginemen
 exuberance
 excusative
