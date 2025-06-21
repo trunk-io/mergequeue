@@ -2970,6 +2970,7 @@ enfield
 eleatic
 eleoblast
 eradiation
+enqueued
 evaluate
 efflorescence
 extern
@@ -5034,7 +5035,6 @@ expositoriness
 econometer
 evens
 entomb
-enqueued
 excuses
 encumbrances
 eucosmid
