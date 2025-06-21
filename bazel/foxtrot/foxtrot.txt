@@ -2430,6 +2430,7 @@ ferganite
 fetial
 fortunetellers
 ferguson
+forspent
 frondage
 feriation
 falsedad
@@ -8589,7 +8590,6 @@ fricative
 firedragon
 fornix
 fanegada
-forspent
 flocculus
 feower
 fainters
