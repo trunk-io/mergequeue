@@ -610,6 +610,7 @@ galliney
 guaranian
 glockenspiels
 gravities
+gig
 glossopalatine
 grieben
 galliots
@@ -3815,7 +3816,6 @@ gorgonesque
 goats
 gambetta
 gushing
-gig
 gruffed
 gardenwards
 gwely
