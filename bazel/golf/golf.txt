@@ -3670,6 +3670,7 @@ gurdy
 ghuz
 giant
 glabellae
+gyrinid
 griffons
 gasterothecal
 gallein
@@ -9555,7 +9556,6 @@ goster
 geophagies
 graphical
 glamorized
-gyrinid
 guidage
 groveller
 gauteite
