@@ -3014,7 +3014,6 @@ facier
 fooleries
 freezed
 fiddlewood
-fac
 flaked
 freeing
 fulmarus
@@ -6940,6 +6939,7 @@ fomes
 facia
 fedarie
 fulgurite
+fac
 formalisation
 forbode
 fastball
