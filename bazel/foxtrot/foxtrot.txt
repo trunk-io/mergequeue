@@ -5787,6 +5787,7 @@ finebent
 finings
 fulth
 ferrochrome
+flexure
 flitfold
 flytiers
 frigorifical
@@ -10919,7 +10920,6 @@ factorizing
 ferreiro
 fub
 foehn
-flexure
 field
 fulminatory
 fetal
