@@ -7800,7 +7800,6 @@ emendable
 edelweisses
 epidialogue
 entelam
-epidiascope
 escallops
 engraff
 ecce
@@ -8751,6 +8750,7 @@ edgemaking
 enchain
 erupting
 enamorate
+epidiascope
 enjoyed
 ecstatics
 esthesiogenic
