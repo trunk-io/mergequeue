@@ -19354,7 +19354,6 @@ colony
 colonial
 colonialised
 crabbier
-cabezones
 coresidence
 chelem
 colonialists
@@ -27768,6 +27767,7 @@ calceiform
 coxankylometer
 clements
 coxbones
+cabezones
 coxcomb
 coxcombess
 catacaustic
