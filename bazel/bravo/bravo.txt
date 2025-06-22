@@ -4786,7 +4786,6 @@ bougee
 bedroll
 bedrooms
 bruckle
-bedrowse
 bandicoots
 bedrugged
 bedrugs
@@ -6278,6 +6277,7 @@ benni
 bennies
 benomyl
 backspread
+bedrowse
 benightedness
 benorth
 benefact
