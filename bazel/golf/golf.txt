@@ -3834,6 +3834,7 @@ galloperdix
 gigaherz
 gighe
 gramaryes
+grubworm
 grossen
 guelph
 geese
@@ -10764,7 +10765,6 @@ gorhen
 gimbals
 gallium
 galempong
-grubworm
 gynaecomorphous
 glossospasm
 glamourie
