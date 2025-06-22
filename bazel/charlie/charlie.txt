@@ -3143,6 +3143,7 @@ craterid
 cape
 chequerboard
 capeadores
+coryphaenoid
 capel
 capelan
 capelans
@@ -25680,7 +25681,6 @@ circumscript
 correctively
 correctiveness
 convincers
-coryphaenoid
 cyanogenic
 circumvolant
 correctory
