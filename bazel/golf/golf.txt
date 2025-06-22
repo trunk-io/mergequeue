@@ -4933,7 +4933,6 @@ girondist
 gavelkind
 glamors
 geldable
-granita
 gainst
 growze
 gauziest
@@ -6695,6 +6694,7 @@ gambled
 gauges
 googols
 gyrostats
+granita
 glomerate
 geyseral
 gurdfish
