@@ -3440,6 +3440,7 @@ disgarland
 deceleron
 deflower
 damnosa
+deskbound
 dentagra
 deflowered
 deflowerer
@@ -11516,7 +11517,6 @@ dissuasive
 discodactylous
 damasse
 dispositive
-deskbound
 dyotheletic
 dividuous
 downturned
