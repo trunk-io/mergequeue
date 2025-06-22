@@ -4660,7 +4660,6 @@ aegina
 aeginetan
 aeginetic
 aegipan
-aegyptilla
 agonisingly
 aegisthus
 aegithognathae
@@ -16428,6 +16427,7 @@ armrests
 antra
 antralgia
 antres
+aegyptilla
 autocollimation
 antrocele
 antrophose
