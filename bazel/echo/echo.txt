@@ -1579,7 +1579,6 @@ ensconces
 erosible
 egypt
 extraversion
-encampment
 epinasty
 envigor
 exsuscitate
@@ -2969,6 +2968,7 @@ elinguate
 enfield
 eleatic
 eleoblast
+encampment
 eradiation
 evaluate
 efflorescence
