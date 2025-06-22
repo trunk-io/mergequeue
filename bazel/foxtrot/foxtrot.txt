@@ -3060,6 +3060,7 @@ felucca
 frothing
 fy
 fiacres
+foldboat
 fetichry
 firelit
 fiance
@@ -10719,7 +10720,6 @@ faenus
 flam
 flotsams
 frumps
-foldboat
 forcedly
 foveated
 fuder
