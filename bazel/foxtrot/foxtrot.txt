@@ -8467,7 +8467,6 @@ foreannouncement
 fortin
 frondesce
 factorized
-formatter
 father
 floridans
 flunkeyite
@@ -10932,6 +10931,7 @@ fulminurate
 fulness
 feminize
 fezzy
+formatter
 fulnesses
 fennec
 flanconade
