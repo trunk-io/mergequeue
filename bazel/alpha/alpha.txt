@@ -5000,7 +5000,6 @@ aurum
 altumal
 aeroscepsis
 aeroscopy
-aerose
 aerosolization
 alchera
 aerosolize
@@ -7471,6 +7470,7 @@ archivist
 albugineous
 albugines
 albuginitis
+aerose
 albugo
 album
 alces
