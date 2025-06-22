@@ -2011,7 +2011,6 @@ bandcutter
 bhaiachara
 banisher
 banishing
-banishment
 banyuls
 baniva
 brittonic
@@ -16145,6 +16144,7 @@ brotherwort
 beachfront
 brotocrystal
 bromoform
+banishment
 betweenwhiles
 bezaleelian
 bithynian
