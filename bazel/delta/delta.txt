@@ -1342,6 +1342,7 @@ dobule
 dauties
 dauting
 delta
+degorder
 diminishableness
 decurionate
 duodecillion
@@ -2431,7 +2432,6 @@ diminished
 decime
 dacrya
 disobediently
-degorder
 decimetre
 demoid
 decimolar
