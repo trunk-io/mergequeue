@@ -4793,7 +4793,6 @@ bedrugs
 bemeans
 brakesman
 bits
-bedside
 bedsonia
 bedsonias
 bescribbling
@@ -11907,6 +11906,7 @@ bovovaccine
 brevirostrate
 buggies
 besmutting
+bedside
 barabora
 befouled
 brent
