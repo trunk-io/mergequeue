@@ -3782,7 +3782,6 @@ blundering
 boatsmanship
 bribeable
 blksize
-barreler
 bitterbush
 brujas
 binitarian
@@ -10420,6 +10419,7 @@ blanketlike
 bemantle
 brimborion
 blankets
+barreler
 bhoot
 beedged
 blankish
