@@ -14929,7 +14929,6 @@ cahill
 cytoglobin
 corselette
 concitizen
-cytoid
 citoyenne
 confiscated
 conscious
@@ -25846,6 +25845,7 @@ clima
 cerographies
 corollas
 corruptious
+cytoid
 cattily
 contretemps
 corruptive
