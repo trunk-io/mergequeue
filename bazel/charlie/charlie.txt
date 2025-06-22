@@ -18823,7 +18823,6 @@ cinnamal
 colchicia
 centeredly
 colchicin
-colchicine
 colchicum
 clavichords
 colchis
@@ -23813,6 +23812,7 @@ capillarities
 contrastive
 contrastiveness
 chemicalization
+colchicine
 contrasts
 contrasuggestible
 cruiskeen
