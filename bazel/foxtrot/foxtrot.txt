@@ -8140,6 +8140,7 @@ focalized
 flexo
 flatcaps
 faithful
+flabellarium
 featurette
 fuchsias
 forevers
@@ -8970,7 +8971,6 @@ fourpenny
 fableist
 fabricate
 furrieries
-flabellarium
 fourragere
 flutter
 fermila
