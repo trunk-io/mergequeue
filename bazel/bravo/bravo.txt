@@ -5686,7 +5686,6 @@ bardiest
 biers
 belemnitic
 ballast
-bairnlier
 belemnoid
 belayed
 bowssen
@@ -5983,6 +5982,7 @@ beltless
 benchmarks
 brecciate
 beltman
+bairnlier
 belts
 beltway
 bloodspilling
