@@ -7585,7 +7585,6 @@ eulamellibranch
 epicanthus
 epicardia
 emendately
-eyebrow
 employs
 exstemporaneous
 epauliere
@@ -10157,6 +10156,7 @@ etheostomoid
 esthetician
 electrophoresed
 earwax
+eyebrow
 ether
 excising
 esther
