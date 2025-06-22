@@ -8560,6 +8560,7 @@ dentation
 doree
 diapause
 diapauses
+detectable
 donaries
 decarburize
 dodecastylos
@@ -11777,7 +11778,6 @@ discoverture
 discradle
 deprivation
 dockhands
-detectable
 dyscrasic
 demissness
 dactylologies
