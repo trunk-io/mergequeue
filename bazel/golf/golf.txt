@@ -220,7 +220,6 @@ gradefinder
 gratiano
 gaiassa
 gifts
-galapee
 gelasimus
 guidman
 globalized
@@ -9274,6 +9273,7 @@ grockle
 goidel
 gamely
 gemauve
+galapee
 granitoid
 groenendael
 gallstone
