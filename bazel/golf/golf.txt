@@ -4931,6 +4931,7 @@ gamines
 gladioluses
 girondist
 gavelkind
+germanist
 glamors
 geldable
 granita
@@ -7043,7 +7044,6 @@ glossorrhaphy
 galletas
 gooselike
 gregorianist
-germanist
 galactodendron
 gedanken
 grumly
