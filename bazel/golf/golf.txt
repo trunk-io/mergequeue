@@ -501,7 +501,6 @@ gluconokinase
 geomorphology
 guanyl
 geographic
-gowiddie
 golem
 gruffing
 gastriloquist
@@ -7230,6 +7229,7 @@ grumness
 gladstonian
 geochronic
 glowbird
+gowiddie
 generatrix
 glandular
 gunl
