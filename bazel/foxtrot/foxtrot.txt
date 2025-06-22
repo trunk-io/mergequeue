@@ -9075,7 +9075,6 @@ folding
 fiant
 friesish
 fenter
-forbruise
 foxfires
 foeish
 foederis
@@ -10056,6 +10055,7 @@ foreleader
 forearms
 friponerie
 forewarning
+forbruise
 fantee
 ferriferous
 fireblende
