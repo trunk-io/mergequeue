@@ -6262,6 +6262,7 @@ egophony
 epitapher
 educative
 eradiation
+enqueues
 enostosis
 elisions
 erugatory
@@ -6284,7 +6285,6 @@ ethnogeographical
 entered
 expend
 endplate
-enqueues
 entocoelic
 enticeable
 exor
