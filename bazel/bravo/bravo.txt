@@ -6612,7 +6612,6 @@ blotter
 bluff
 broquineer
 betons
-bannerer
 bere
 bereavements
 butterbox
@@ -15104,6 +15103,7 @@ babine
 brewises
 bocks
 bellpulls
+bannerer
 bristlier
 brusk
 brewsterite
