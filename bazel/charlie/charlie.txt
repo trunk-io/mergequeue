@@ -13118,7 +13118,6 @@ cyanoethylation
 crumbable
 crates
 cyanoguanidine
-cyanohermidin
 cyanometer
 cuneate
 camaile
@@ -25139,6 +25138,7 @@ coinstantaneous
 corequisite
 corer
 combinantive
+cyanohermidin
 corers
 cores
 carbonates
