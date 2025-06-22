@@ -786,7 +786,6 @@ baetyl
 browniness
 bldr
 blautok
-baetulus
 boothose
 batrachophobia
 benignness
@@ -14920,6 +14919,7 @@ breathability
 bilateralism
 browbeat
 bromol
+baetulus
 begun
 brassicas
 breathe
