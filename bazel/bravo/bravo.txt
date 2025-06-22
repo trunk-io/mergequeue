@@ -8912,6 +8912,7 @@ bandoras
 baisakh
 biocycle
 biocycles
+bosses
 botan
 biocidal
 biocide
@@ -18166,7 +18167,6 @@ butyryls
 butyrin
 bragging
 begets
-bosses
 biogenase
 butyrometer
 barometrically
