@@ -3852,6 +3852,7 @@ carbomethene
 carbomethoxy
 carbomethoxyl
 carbon
+cleanups
 carbona
 carbonaceous
 cuter
@@ -8264,7 +8265,6 @@ coelastrum
 chainsman
 couchantly
 capetian
-cleanups
 cattiest
 chainsmith
 chimneyed
