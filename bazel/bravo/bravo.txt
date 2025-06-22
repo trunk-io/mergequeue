@@ -2671,6 +2671,7 @@ barmaster
 bergalith
 benzoic
 barmcloth
+bartending
 brither
 birdcage
 becoward
@@ -2992,7 +2993,6 @@ bess
 boist
 bartenders
 benzene
-bartending
 bulbiferous
 bartends
 baggywrinkle
