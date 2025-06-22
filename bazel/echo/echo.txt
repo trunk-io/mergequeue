@@ -3111,7 +3111,6 @@ eloigning
 enactment
 euryte
 eloigns
-eloin
 eloine
 eloiner
 eloiners
@@ -6746,6 +6745,7 @@ enterprise
 exploitations
 enterprize
 expertising
+eloin
 entosclerite
 elective
 eulogiser
