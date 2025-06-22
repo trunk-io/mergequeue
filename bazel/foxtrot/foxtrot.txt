@@ -2042,6 +2042,7 @@ fissipeds
 fogging
 fide
 feere
+flintiness
 firster
 fautor
 fours
@@ -5602,7 +5603,6 @@ fader
 fibrinocellular
 flycatchers
 flicflac
-flintiness
 filet
 flavaniline
 flicker
