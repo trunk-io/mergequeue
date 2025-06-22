@@ -3382,7 +3382,6 @@ facewise
 forgiver
 flashcube
 furrows
-ferrohydrocyanic
 fossilologist
 ferretto
 folklorist
@@ -3979,6 +3978,7 @@ filea
 fined
 fineish
 faulty
+ferrohydrocyanic
 fineness
 farmy
 forweend

@@ -5822,7 +5822,6 @@ eddy
 engrammic
 eternalized
 epopees
-explanation
 engouement
 engoument
 entification
@@ -6430,6 +6429,7 @@ eyemark
 ethmoids
 enrobed
 encrinitical
+explanation
 epist
 enunciator
 elapid
