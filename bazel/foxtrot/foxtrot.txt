@@ -5660,6 +5660,7 @@ farmage
 fishbolt
 felicitations
 florist
+finnochio
 fellowshiped
 frumpiest
 fianchetto
@@ -8616,7 +8617,6 @@ fir
 fittings
 flamefishes
 fuzzed
-finnochio
 flukeless
 functionate
 fingerfishes
