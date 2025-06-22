@@ -1204,7 +1204,6 @@ dermatoskeleton
 daystars
 drumly
 datebook
-dibstones
 degermed
 disemplane
 disobligation
@@ -11121,6 +11120,7 @@ disappropriate
 digladiator
 diabolisation
 drakonite
+dibstones
 disapprovals
 disapproves
 disillusioned
