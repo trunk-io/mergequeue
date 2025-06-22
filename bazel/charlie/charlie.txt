@@ -7706,6 +7706,7 @@ cirrhosed
 cerebromeningeal
 cerebromeningitis
 celiopyosis
+crevalle
 carduaceous
 cerebrometer
 cerebron
@@ -28866,7 +28867,6 @@ cretism
 cretize
 cretonne
 coch
-crevalle
 collogue
 calfdozer
 chatoyancy
