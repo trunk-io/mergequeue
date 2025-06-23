@@ -11505,7 +11505,6 @@ chemotroph
 caffa
 chlorpicrin
 chlorpromazine
-cheerfulsome
 ciboule
 chlorsalol
 confetto
@@ -15421,6 +15420,7 @@ clangful
 clanging
 clangingly
 corticoefferent
+cheerfulsome
 clangorous
 corridored
 cookish
