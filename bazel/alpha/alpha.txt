@@ -11305,7 +11305,6 @@ ampholytic
 abaff
 anobiidae
 amphora
-amphorae
 anthracite
 apiator
 amphore
@@ -11957,6 +11956,7 @@ aka
 anarthropod
 armagnac
 anarthrosis
+amphorae
 archangels
 anarthrously
 archidium

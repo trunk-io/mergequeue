@@ -3223,7 +3223,6 @@ babbling
 battened
 bicorporeal
 biotechnological
-basilic
 bantingize
 bedouin
 basilica
@@ -12664,6 +12663,7 @@ braccia
 bestowable
 boogeymen
 bane
+basilic
 bellical
 buhrs
 bec
