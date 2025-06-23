@@ -70,7 +70,6 @@ fenchone
 faceharden
 flagships
 fighters
-flecken
 facellite
 felonious
 furthers
@@ -6671,6 +6670,7 @@ fillip
 foehnlike
 fpsps
 foeless
+flecken
 faulted
 fulguration
 fulgurating
