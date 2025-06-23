@@ -9638,7 +9638,6 @@ bilateral
 bishopling
 biol
 bishopstool
-bishopweed
 bobbinets
 blackly
 bestir
@@ -17245,6 +17244,7 @@ bootlaces
 bumbling
 bumbo
 blueball
+bishopweed
 bumboat
 bumclock
 biguttulate
