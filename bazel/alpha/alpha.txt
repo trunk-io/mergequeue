@@ -16859,7 +16859,6 @@ aeration
 anaerobe
 appenage
 aphthongia
-apiaca
 apiaceae
 apiararies
 apiarian
@@ -24168,6 +24167,7 @@ arythmia
 aetosaurian
 apteryxes
 autokinetic
+apiaca
 assuage
 ampalea
 autokrator
