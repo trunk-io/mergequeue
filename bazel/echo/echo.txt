@@ -11371,7 +11371,6 @@ eveline
 even
 entortill
 equilater
-epitrochlear
 equivalencing
 equiparate
 evenfall
@@ -12815,6 +12814,7 @@ exostra
 ebullition
 engraves
 exostrae
+epitrochlear
 exoteric
 exoterica
 elementalistically
