@@ -15456,7 +15456,6 @@ clankum
 chloropia
 clannishness
 cradlemen
-clansfolk
 churchgrith
 clanship
 chiricahua
@@ -29537,6 +29536,7 @@ coendured
 colophonist
 criticaster
 criticasterism
+clansfolk
 criticastry
 criticisms
 chontal

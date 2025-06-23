@@ -1865,7 +1865,6 @@ brython
 birken
 bandhook
 balladromic
-bandicoy
 bonzes
 befoam
 bloodier
@@ -4593,6 +4592,7 @@ bedtick
 bedchair
 bedchairs
 bellowing
+bandicoy
 buntal
 bryophyte
 branchial
