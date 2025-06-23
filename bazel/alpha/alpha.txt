@@ -3625,7 +3625,6 @@ anatomised
 adenostoma
 ailanthic
 adenotyphus
-antislickens
 alphabetist
 attenuant
 anachoret
@@ -14275,6 +14274,7 @@ arabesk
 aspalathus
 antherozoid
 antherozooidal
+antislickens
 anthers
 antheses
 aquosity
