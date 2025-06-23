@@ -1473,7 +1473,6 @@ callback
 closish
 conversus
 coffeepot
-commise
 callbacks
 callboy
 callboys
@@ -8236,6 +8235,7 @@ commiphora
 chagrining
 chagrinning
 chagrins
+commise
 chaguar
 chahar
 chahars
