@@ -4645,6 +4645,7 @@ brunhild
 beltmaking
 bhikhari
 briquetted
+bakeshops
 bedfellows
 buildable
 bedford
@@ -9620,7 +9621,6 @@ barb
 bisexuals
 bongs
 bisglyoxaline
-bakeshops
 brusquerie
 bluest
 bishari
