@@ -2818,7 +2818,6 @@ crispening
 chebeck
 cannulae
 cannulate
-circumscribe
 carajura
 cursitor
 cannulating
@@ -13376,6 +13375,7 @@ cyclohexanone
 cyclohexatriene
 cyclohexyl
 cycloheximide
+circumscribe
 chetverik
 chemiatry
 cycloid
