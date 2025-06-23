@@ -3655,7 +3655,6 @@ abarthrosis
 atlantomastoid
 anchorhold
 ambustion
-autere
 agillawood
 annihilating
 awfully
@@ -22937,6 +22936,7 @@ atropidae
 altigraph
 atropin
 atropine
+autere
 atropisms
 atropos
 atropous
