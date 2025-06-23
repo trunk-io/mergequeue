@@ -1864,6 +1864,7 @@ containers
 cologne
 cotwin
 calicoed
+cascable
 cordwains
 chickling
 cyanophil
@@ -5123,7 +5124,6 @@ cascabel
 coestate
 cytocide
 chemoprophylaxis
-cascable
 cascadable
 cascade
 coupes

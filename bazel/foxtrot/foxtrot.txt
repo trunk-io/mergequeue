@@ -1164,7 +1164,6 @@ fervidness
 farthing
 fluffing
 feverishness
-fractional
 fibrillary
 filiates
 farthings
@@ -7834,6 +7833,7 @@ filamentose
 flingdust
 familia
 fumaroles
+fractional
 fulvidness
 foveolets
 fractionisation
