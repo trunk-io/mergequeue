@@ -1343,7 +1343,6 @@ balbusard
 burlap
 bluenose
 brayed
-butterbump
 betwixen
 balconies
 bacule
@@ -10305,6 +10304,7 @@ blade
 beleaguerer
 bosporian
 befrogged
+butterbump
 bladesmith
 bladewise
 bladygrass
