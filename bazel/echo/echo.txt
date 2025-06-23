@@ -11465,7 +11465,6 @@ embryotic
 expdt
 evetide
 epenthetic
-extirpating
 encipherment
 elucidation
 engraving
@@ -12888,6 +12887,7 @@ expanders
 eserines
 extorting
 expandible
+extirpating
 editions
 envenoms
 embalmer
