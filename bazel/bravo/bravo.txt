@@ -8579,7 +8579,6 @@ bedder
 bradycardia
 billabong
 billage
-brumes
 barricading
 billboards
 beshawled
@@ -12053,6 +12052,7 @@ boyhoods
 bebloom
 balisaurs
 boilable
+brumes
 bromocresol
 befrounce
 blindage
