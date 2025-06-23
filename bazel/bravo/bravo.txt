@@ -6532,6 +6532,7 @@ brandi
 bequalm
 bioblast
 bklr
+basten
 bequeathed
 bruges
 blooping
@@ -16903,7 +16904,6 @@ bugara
 buginvillaea
 bootjacks
 bong
-basten
 basiliscan
 bugleweed
 buffer
