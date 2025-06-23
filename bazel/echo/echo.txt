@@ -7257,7 +7257,6 @@ enderon
 erythropoietic
 electrotropic
 eupnoeas
-exudate
 eyalet
 enzootics
 entophytous
@@ -7434,6 +7433,7 @@ everywhither
 earthmoving
 epembryonic
 equipollency
+exudate
 eyres
 epencephala
 embittering
