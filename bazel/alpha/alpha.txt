@@ -1369,7 +1369,6 @@ appointable
 agapanthus
 accept
 acceptability
-amintor
 acceptance
 aggressions
 acceptances
@@ -9678,6 +9677,7 @@ alvah
 alvar
 anecdotist
 alveary
+amintor
 alvearies
 alvearium
 alveated
