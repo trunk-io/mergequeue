@@ -2388,7 +2388,6 @@ aggrate
 acinus
 aedes
 acipenseridae
-acipenserine
 acipenseroid
 acipenseroidei
 archpapist
@@ -17824,6 +17823,7 @@ apposability
 aegialitis
 attacapan
 appose
+acipenserine
 alex
 alisphenoid
 asterales
