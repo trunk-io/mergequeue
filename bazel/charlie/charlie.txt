@@ -11729,7 +11729,6 @@ circumjacent
 choleras
 choleric
 cervelases
-choleriform
 cholerigenous
 cholerine
 choleroid
@@ -23248,6 +23247,7 @@ construe
 controversialize
 construer
 cyamus
+choleriform
 cardiatomy
 coalitionist
 construes
