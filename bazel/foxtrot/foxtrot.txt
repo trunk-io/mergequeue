@@ -4107,6 +4107,7 @@ formants
 foppishness
 finitude
 flushable
+fidibus
 fluking
 frijoles
 finitudes
@@ -10424,7 +10425,6 @@ frontoauricular
 frontolysis
 frontomallar
 frontomental
-fidibus
 forrel
 folks
 fotive
