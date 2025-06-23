@@ -16152,7 +16152,6 @@ columned
 clich
 cliche
 cryopathy
-cliches
 click
 clicked
 clicker
@@ -17762,6 +17761,7 @@ cocinera
 cocircular
 cultrirostres
 cocitizen
+cliches
 cocitizenship
 cockade
 colour
