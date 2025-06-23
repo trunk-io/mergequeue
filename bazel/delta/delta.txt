@@ -5482,7 +5482,6 @@ deorganization
 deistic
 decolouriser
 deorganize
-deregister
 disenablement
 deorsum
 deorsumversion
@@ -5729,6 +5728,7 @@ depletive
 denutrition
 decarboxylating
 deploy
+deregister
 desipramine
 despotic
 deplumed
