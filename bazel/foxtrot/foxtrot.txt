@@ -10012,7 +10012,6 @@ footprint
 ferruled
 frike
 footpaths
-foreshroud
 framableness
 fenceless
 fanga
@@ -11212,6 +11211,7 @@ funiform
 funje
 fustians
 flashcubes
+foreshroud
 fivish
 fabricative
 flexuosities
