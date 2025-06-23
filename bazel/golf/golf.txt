@@ -4805,7 +4805,6 @@ glairiness
 glaciomarine
 gnetum
 guideway
-gypaetus
 griffinism
 gynecidal
 geotactically
@@ -6151,6 +6150,7 @@ galactophore
 gigantolite
 glandiferous
 gynecomastia
+gypaetus
 givens
 greenhead
 goliaths
