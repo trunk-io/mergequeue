@@ -2551,7 +2551,6 @@ glamourization
 gesticular
 grisette
 glossolabial
-goutte
 garabato
 galluot
 glisters
@@ -10404,6 +10403,7 @@ gunneries
 graciousness
 glyptological
 genitory
+goutte
 greenstuff
 gaggler
 gyracanthus
