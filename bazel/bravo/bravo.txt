@@ -913,6 +913,7 @@ bagsful
 bequirtle
 bulgar
 bijugular
+biotelemetries
 bazookaman
 bassalian
 bravely
@@ -9175,7 +9176,6 @@ bathysmal
 bowl
 botanists
 becalmment
-biotelemetries
 biotical
 bobwhite
 bespreads
