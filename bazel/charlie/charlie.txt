@@ -2063,6 +2063,7 @@ chests
 cosherer
 camp
 campa
+cardiopathic
 campagi
 coquettes
 counteraverment
@@ -4197,7 +4198,6 @@ cannibal
 cardioneurosis
 cardionosus
 cardiopath
-cardiopathic
 cardiophrenia
 capette
 chloanthite

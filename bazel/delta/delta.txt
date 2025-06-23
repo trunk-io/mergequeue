@@ -8561,7 +8561,6 @@ doree
 diapause
 diapauses
 donaries
-decarburize
 dodecastylos
 divinations
 decongesting
@@ -13690,6 +13689,7 @@ dorize
 dequantitate
 dissimilate
 disacquaintance
+decarburize
 dissimilating
 dissimilative
 dangered
