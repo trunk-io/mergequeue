@@ -3199,6 +3199,7 @@ gauze
 geotropically
 galagala
 gremials
+gyrometer
 guarantor
 gossypol
 gorsedd
@@ -7378,7 +7379,6 @@ galbulidae
 greable
 gynecophore
 gou
-gyrometer
 glasswork
 germens
 glycines
