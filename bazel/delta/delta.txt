@@ -3683,7 +3683,6 @@ degradative
 degraded
 degradement
 deplorers
-dozing
 depsid
 disrupt
 dewal
@@ -3815,6 +3814,7 @@ deicing
 dismutation
 deictical
 dissevered
+dozing
 devilkin
 dreissiger
 deific

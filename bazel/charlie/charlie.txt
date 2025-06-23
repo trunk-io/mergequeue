@@ -10224,6 +10224,7 @@ chevaliers
 chippewa
 categorizers
 compagnie
+chromomere
 chevener
 cheventayn
 cheverel
@@ -12574,7 +12575,6 @@ chromolithic
 concanavalin
 chromolithography
 chromolithographic
-chromomere
 chondrosarcoma
 chromone
 carboxide
