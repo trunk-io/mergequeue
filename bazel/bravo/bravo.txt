@@ -1196,7 +1196,6 @@ bakeries
 budling
 bakerly
 bakerlike
-brownstones
 bromobenzyl
 buttinskies
 bakersfield
@@ -4543,6 +4542,7 @@ biradiated
 bathroot
 bater
 bool
+brownstones
 blotters
 bedabble
 beagles
