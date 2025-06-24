@@ -398,7 +398,6 @@ extraforaneous
 enleaf
 etude
 exalte
-estrepement
 embouchment
 ensear
 egoists
@@ -2963,6 +2962,7 @@ explait
 emony
 equiprobabilism
 eliminated
+estrepement
 ectopia
 elymus
 elinguate
