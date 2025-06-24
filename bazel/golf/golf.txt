@@ -4384,6 +4384,7 @@ gorget
 gearcases
 gongs
 grifter
+glossaries
 griddling
 gorgoneum
 guestling
@@ -9721,7 +9722,6 @@ gandurah
 gambades
 greyhounds
 grocerwise
-glossaries
 gelants
 guying
 grummet
