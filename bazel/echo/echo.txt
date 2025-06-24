@@ -4173,6 +4173,7 @@ entomotaxy
 emprison
 euphausiid
 emprize
+enameling
 emulgent
 emprosthotonic
 emblazoning
@@ -4296,7 +4297,6 @@ enactor
 exinanition
 epigrammatize
 eloquence
-enameling
 exclaustration
 enamelist
 enamelless
