@@ -1429,7 +1429,6 @@ accessorize
 accessors
 acciaccaturas
 acciaccature
-accidence
 annotto
 arsesmart
 axletrees
@@ -5303,6 +5302,7 @@ albedograph
 afforce
 afford
 alkines
+accidence
 affordable
 argoletier
 afforested
