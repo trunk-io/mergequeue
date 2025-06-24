@@ -6117,6 +6117,7 @@ benchmark
 baryecoia
 burnout
 briggsian
+brief
 behooveful
 benchmen
 balneologic
@@ -13508,7 +13509,6 @@ beseek
 boondoggle
 boneyards
 botulisms
-brief
 brodequin
 briquette
 bouch
