@@ -11148,7 +11148,6 @@ expiate
 endolumbar
 eusthenopteron
 espies
-emulated
 eutaenia
 eutannin
 escudero
@@ -11977,6 +11976,7 @@ evaporation
 epiploon
 eugenic
 endangiitis
+emulated
 excitations
 escapes
 eastbound
