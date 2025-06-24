@@ -4793,7 +4793,6 @@ arrivisme
 arrivederci
 aerobiologist
 autocross
-aperture
 amidase
 aequoreal
 aerobioscope
@@ -20435,6 +20434,7 @@ antitypes
 acceptableness
 appeared
 adaptively
+aperture
 artefacts
 assentation
 analyticity
