@@ -2629,7 +2629,6 @@ ferryway
 finding
 fumes
 forechase
-ferrocene
 fogramity
 flongs
 ferrocyanate
@@ -3858,6 +3857,7 @@ freon
 ferritization
 frizzliest
 frocklike
+ferrocene
 frijolillo
 filigreeing
 forestall
