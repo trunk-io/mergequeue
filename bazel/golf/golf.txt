@@ -1846,7 +1846,6 @@ gatherers
 goldbug
 galumph
 gooma
-gastroenteroanastomosis
 gamenesses
 gatherings
 gastrohysteropexy
@@ -3441,6 +3440,7 @@ grosbeak
 gerontology
 gannetry
 gelignite
+gastroenteroanastomosis
 gnomical
 guyots
 gramercies
