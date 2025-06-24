@@ -3638,7 +3638,6 @@ blackball
 budded
 batonist
 bumbleberry
-betacism
 bakehouses
 brazenfacedly
 botchery
@@ -18190,6 +18189,7 @@ belief
 butleries
 butlerlike
 butlers
+betacism
 butlership
 buttonlike
 butment
