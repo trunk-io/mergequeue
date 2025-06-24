@@ -3322,7 +3322,6 @@ adansonia
 aircrews
 appeasableness
 adapid
-adapt
 anisospore
 apolytikion
 apeman
@@ -12636,6 +12635,7 @@ angeleen
 angeleyes
 angeles
 airsick
+adapt
 angelet
 angelfishes
 arreptitious
