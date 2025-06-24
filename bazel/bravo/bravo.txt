@@ -7837,7 +7837,6 @@ biaxiality
 birdseyes
 beshrouds
 brooklyn
-bazaars
 bicephalous
 bogman
 biface
@@ -11969,6 +11968,7 @@ bogglers
 boggling
 basswoods
 bessarabian
+bazaars
 brinded
 bogyism
 bogyman
