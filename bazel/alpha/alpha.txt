@@ -11148,7 +11148,6 @@ aluconidae
 amphicarpogenous
 amphichroic
 arbustum
-anilopyrin
 amphichrom
 amphichromy
 amphicyon
@@ -14828,6 +14827,7 @@ alife
 anticyclical
 apocodeine
 anticyclically
+anilopyrin
 affrighter
 anticyclogenesis
 anticyclolysis
