@@ -11639,7 +11639,6 @@ bevels
 bacauan
 blacks
 bizant
-boarwood
 boas
 boaster
 boastfully
@@ -17569,6 +17568,7 @@ bhima
 bobble
 bascule
 broadacre
+boarwood
 bothrops
 burgality
 beaufort
