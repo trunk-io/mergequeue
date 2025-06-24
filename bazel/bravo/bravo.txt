@@ -310,6 +310,7 @@ backarrows
 backbar
 bedright
 backbencher
+brawlsome
 backberand
 birkenhead
 biolith
@@ -14730,7 +14731,6 @@ bravuras
 baetzner
 buncal
 brawlingly
-brawlsome
 brawnedness
 biaxillary
 brawnily
