@@ -3584,7 +3584,6 @@ counterbase
 conacaste
 capucine
 capulet
-capulin
 caput
 caputium
 caque
@@ -23091,6 +23090,7 @@ conspicuously
 cabalic
 conspiracy
 conspirant
+capulin
 conspiration
 confocal
 conspirative
