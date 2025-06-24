@@ -4059,7 +4059,6 @@ guatemala
 gaufer
 gudget
 glorification
-goneoclinic
 gipsywort
 gulgul
 gilder
@@ -8555,6 +8554,7 @@ graziers
 gravidate
 grassland
 gullied
+goneoclinic
 goslarite
 gregge
 gotos
