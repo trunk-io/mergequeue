@@ -1500,6 +1500,7 @@ explanatorily
 exonarthex
 edificator
 equippers
+explore
 estivate
 effusively
 excipula
@@ -8476,7 +8477,6 @@ ethoses
 eponge
 exhibitioner
 ethopoetic
-explore
 extensure
 eurytropic
 electroencephalography
