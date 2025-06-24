@@ -7776,7 +7776,6 @@ curtaxe
 calculable
 cerias
 chervils
-cerillo
 ceriman
 cerimans
 cerine
@@ -20696,6 +20695,7 @@ chiromancer
 complect
 cottierism
 collapsible
+cerillo
 converser
 complemental
 complementary

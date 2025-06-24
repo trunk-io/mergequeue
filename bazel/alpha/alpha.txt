@@ -3542,6 +3542,7 @@ ascesis
 assedat
 arabicize
 agora
+apron
 adendritic
 akenbold
 amphibion
@@ -25132,7 +25133,6 @@ archarios
 anthidium
 acoustician
 ahem
-apron
 ambisyllabic
 axiomatical
 aspergil
