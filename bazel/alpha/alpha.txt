@@ -5640,6 +5640,7 @@ antilens
 amphidromia
 againward
 ardeid
+arrays
 agal
 agalactic
 appoggiaturas
@@ -20182,7 +20183,6 @@ arraying
 areaway
 anoura
 aleck
-arrays
 agdistis
 arrand
 arrangeable
