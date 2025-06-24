@@ -5484,6 +5484,7 @@ decolouriser
 deorganize
 deregister
 disenablement
+dewberries
 deorsum
 deorsumversion
 deossification
@@ -7889,7 +7890,6 @@ disard
 desmocyte
 dispenser
 dihydrogen
-dewberries
 dewcap
 dewclaw
 devocalised
