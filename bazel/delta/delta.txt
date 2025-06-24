@@ -3370,6 +3370,7 @@ doles
 dagos
 deturn
 defis
+decorationist
 deflagrable
 decolor
 disrestore
@@ -3883,7 +3884,6 @@ deselects
 disinteresting
 dissceptred
 denegate
-decorationist
 deionizer
 deionizing
 dissipatedness
