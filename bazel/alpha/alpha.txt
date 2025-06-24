@@ -5050,6 +5050,7 @@ archaised
 aeronomies
 aesculin
 aesculus
+asterophyllites
 abiogenetic
 aplacophora
 aesir
@@ -22073,7 +22074,6 @@ accordature
 amphibichnite
 anaunter
 asterophyllite
-asterophyllites
 adorno
 agnathous
 anerythroplastic
