@@ -201,6 +201,7 @@ goslings
 gasbags
 greyest
 gaius
+glutter
 glug
 gambiers
 gentleness
@@ -7777,7 +7778,6 @@ gegg
 glagol
 guaba
 groaners
-glutter
 gorman
 gerents
 gurlet
