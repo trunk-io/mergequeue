@@ -10624,6 +10624,7 @@ amyloses
 amylosynthesis
 amylosis
 amiloun
+antispasis
 amyls
 amylum
 amin
@@ -17767,7 +17768,6 @@ acettoluide
 autocab
 aversation
 applies
-antispasis
 antilogy
 applique
 appliqueing
