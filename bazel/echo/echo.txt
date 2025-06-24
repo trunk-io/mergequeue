@@ -3213,7 +3213,6 @@ emancipates
 esophagospasm
 embuia
 elute
-elution
 eudipleural
 enzymatically
 effuso
@@ -13735,6 +13734,7 @@ eclairissement
 extinctor
 ententophil
 etaballi
+elution
 ectoenzym
 enzyme
 embrocate
