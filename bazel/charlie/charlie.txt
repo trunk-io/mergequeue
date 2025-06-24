@@ -11361,7 +11361,6 @@ chlorinating
 curly
 chlorination
 chlorinator
-chlorines
 chlorinity
 chicote
 chloriodide
@@ -31868,6 +31867,7 @@ crowfooted
 cuttail
 cutterhead
 chemicals
+chlorines
 cutthroat
 chylopoietic
 cuttyhunk
