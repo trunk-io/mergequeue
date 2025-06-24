@@ -1554,7 +1554,6 @@ gassing
 gismos
 guytrash
 gondoliere
-glaceed
 globicephala
 gymnura
 gauntlet
@@ -9398,6 +9397,7 @@ genotypic
 gesticulating
 grosshead
 grossly
+glaceed
 grosso
 gowans
 gabriel
