@@ -528,7 +528,6 @@ filicite
 faking
 fumify
 figgle
-fassaite
 flayer
 feodum
 fishbone
@@ -9787,6 +9786,7 @@ frapp
 fallacies
 falchion
 fessways
+fassaite
 formular
 foolhardiest
 fascet
