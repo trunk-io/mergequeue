@@ -1308,7 +1308,6 @@ escuages
 explicatively
 ericophyte
 efface
-effaceable
 effaced
 elliptical
 effacers
@@ -12661,6 +12660,7 @@ equipped
 exodontia
 encincturing
 emeralds
+effaceable
 essancia
 egurgitating
 excussio
