@@ -3116,6 +3116,7 @@ geosphere
 gapless
 guerilla
 growthful
+gauges
 guardiancy
 germina
 geotechnic
@@ -6692,7 +6693,6 @@ gonidic
 gucki
 genes
 gambled
-gauges
 googols
 gyrostats
 glomerate
