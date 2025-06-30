@@ -1075,6 +1075,7 @@ endoskeleton
 eqpt
 edgar
 experimentalist
+expandability
 exheredate
 expatiatory
 emyd
@@ -5556,7 +5557,6 @@ enfeoffment
 exestuate
 enfettering
 enophthalmos
-expandability
 episcopality
 enfevered
 ecphrasis
