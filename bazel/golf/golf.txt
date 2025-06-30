@@ -3518,7 +3518,6 @@ gnomelike
 gregarinaria
 gavial
 glutinose
-gastrospasm
 granulitization
 galvanic
 gyrocar
@@ -5136,6 +5135,7 @@ glossocomon
 guavas
 genipap
 gadgeteers
+gastrospasm
 globeflower
 gonococcic
 gregarinina
