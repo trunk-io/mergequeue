@@ -2941,6 +2941,7 @@ boobishness
 blobby
 barricaded
 beltian
+baniwa
 benedicts
 barricaders
 barricadoes
@@ -12323,7 +12324,6 @@ biophor
 beldame
 boterol
 bonds
-baniwa
 behoovefully
 bombasticness
 boastingly
