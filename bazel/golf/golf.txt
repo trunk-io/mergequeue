@@ -5352,7 +5352,6 @@ graph
 gammadion
 gliddery
 gourdiness
-gowkedness
 groutiest
 gloaters
 galley
@@ -8941,6 +8940,7 @@ galvo
 gaj
 greyhens
 glucina
+gowkedness
 greenbul
 glenlivet
 glycuronid
