@@ -5709,7 +5709,6 @@ belgas
 beater
 beclap
 belgrade
-bombasine
 bora
 birefracting
 backwasher
@@ -6065,6 +6064,7 @@ bort
 befrill
 bablah
 bloated
+bombasine
 boathead
 bollard
 bemartyr
