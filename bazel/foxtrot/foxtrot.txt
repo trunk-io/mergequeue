@@ -3270,7 +3270,6 @@ flavourer
 flotages
 foods
 fogman
-feloness
 fluework
 floorshift
 firmisternous
@@ -10974,6 +10973,7 @@ fleshlier
 fumatory
 floricin
 featherpated
+feloness
 fumatoria
 fumatoriums
 freesilverism
