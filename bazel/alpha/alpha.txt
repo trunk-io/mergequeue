@@ -5886,7 +5886,6 @@ agglutination
 arenaceous
 arri
 agglutinative
-aliseptal
 adamantine
 agglutinatively
 aarrghh
@@ -23367,6 +23366,7 @@ antitwilight
 audion
 audiophile
 audiophiles
+aliseptal
 abbandono
 anticreative
 audiotape
