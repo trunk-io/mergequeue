@@ -6089,6 +6089,7 @@ carryable
 chandeliers
 cathouses
 crownling
+centonization
 cathrin
 cathryn
 coversine
@@ -7224,7 +7225,6 @@ carunculate
 centners
 centones
 centonism
-centonization
 centos
 centra
 centrad
