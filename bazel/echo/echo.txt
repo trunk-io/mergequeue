@@ -6567,7 +6567,6 @@ eaglet
 embarrassedly
 egipto
 ensmall
-encephalorrhagia
 erythrocytometer
 entamoebic
 endostosis
@@ -7977,6 +7976,7 @@ exudates
 exptl
 exordia
 encephalogram
+encephalorrhagia
 evermore
 epimandibular
 enthrone
