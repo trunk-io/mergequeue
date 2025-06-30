@@ -17150,7 +17150,6 @@ anga
 afterfuture
 apogonid
 apographic
-apographical
 apohyal
 acuminous
 apoidea
@@ -18236,6 +18235,7 @@ anecdotally
 aquocarbonic
 augusti
 alectorioid
+apographical
 aquopentamminecobaltic
 anagenetic
 aquose
