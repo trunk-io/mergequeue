@@ -3270,6 +3270,7 @@ babbler
 bloodiest
 basions
 backstabbed
+barreler
 bioplasm
 bronzes
 backpacking
@@ -3782,7 +3783,6 @@ blundering
 boatsmanship
 bribeable
 blksize
-barreler
 bitterbush
 brujas
 binitarian
