@@ -2058,6 +2058,7 @@ camouflaging
 combats
 chandlery
 collapsar
+cabaretier
 camoufleur
 chests
 cosherer
@@ -30316,7 +30317,6 @@ crurogenital
 cruroinguinal
 coadventuress
 compt
-cabaretier
 crurotarsal
 crus
 champed
