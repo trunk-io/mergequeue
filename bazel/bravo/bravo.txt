@@ -2824,6 +2824,7 @@ barotraumas
 bostons
 barotropic
 barouche
+bunged
 barouchette
 bioecologic
 barouni
@@ -17367,7 +17368,6 @@ beachier
 bogledom
 blockage
 bloodmobiles
-bunged
 bylawman
 buccinator
 bungee
