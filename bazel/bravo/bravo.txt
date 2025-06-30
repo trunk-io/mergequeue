@@ -5370,7 +5370,6 @@ bacteriogenic
 bonace
 besoothement
 begowk
-begowned
 buyable
 begray
 bromobenzene
@@ -7155,6 +7154,7 @@ brashest
 bespray
 ballute
 bespreng
+begowned
 besprent
 bocking
 blowy
