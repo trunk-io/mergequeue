@@ -5927,7 +5927,6 @@ caterbrawl
 catercap
 catercorner
 camsteary
-catercornered
 catercornerways
 craner
 catered
@@ -9300,6 +9299,7 @@ chass
 chasse
 cauliculus
 chassed
+catercornered
 chromatopathic
 chasseing
 chassepot
