@@ -1829,7 +1829,6 @@ bakunda
 bialystoker
 bags
 bandaged
-bandaging
 bowlin
 bandaid
 bandala
@@ -2741,6 +2740,7 @@ boroughship
 barometers
 barometric
 beefy
+bandaging
 blam
 beachside
 burthenman
