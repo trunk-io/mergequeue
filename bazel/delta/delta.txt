@@ -2834,7 +2834,6 @@ dithymol
 duplicative
 defi
 deferred
-declarator
 decried
 desistive
 diathetic
@@ -4969,6 +4968,7 @@ demoralizers
 draughty
 debussy
 demoralizes
+declarator
 demorphism
 demospongiae
 demosthenean
