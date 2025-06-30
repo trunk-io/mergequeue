@@ -2307,7 +2307,6 @@ dactylioglyphic
 danglement
 drat
 diacetyls
-denizens
 didna
 disseizin
 dilapidate
@@ -9120,6 +9119,7 @@ demifarthing
 dermatophobia
 disproportion
 defigure
+denizens
 dictionarian
 dorsoabdominal
 dispensers
