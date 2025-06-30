@@ -364,6 +364,7 @@ droughtiness
 detruss
 daymares
 disseizes
+determinable
 diarists
 discoloured
 daymark
@@ -15117,7 +15118,6 @@ doggo
 distinguisher
 dehors
 doggones
-determinable
 doggonest
 doggoning
 detant
