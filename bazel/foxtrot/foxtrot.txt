@@ -1782,7 +1782,6 @@ feasibleness
 fuselage
 faviform
 feasibly
-fashionmonger
 flighted
 fascio
 floats
@@ -3763,6 +3762,7 @@ featherers
 filletster
 frail
 feodal
+fashionmonger
 facebread
 fillies
 feetless
