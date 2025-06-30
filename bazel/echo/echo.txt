@@ -4569,6 +4569,7 @@ extraregular
 encephalola
 esoterism
 exhalent
+eject
 enlightened
 exploited
 enchanting
@@ -8076,7 +8077,6 @@ easements
 extruding
 evident
 equipartile
-eject
 entertaining
 elytrum
 enteroscope

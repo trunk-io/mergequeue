@@ -1059,7 +1059,6 @@ calceolate
 cowhide
 calceus
 challengable
-costoclavicular
 calchas
 calche
 cordials
@@ -14260,6 +14259,7 @@ colistins
 chuffing
 coffers
 cryalgesia
+costoclavicular
 circularisation
 circularised
 calandre
