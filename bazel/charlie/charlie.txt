@@ -15791,7 +15791,6 @@ controllingly
 clavered
 clavering
 clavi
-chirres
 clavy
 clavicembalist
 clavicembalo
@@ -17452,6 +17451,7 @@ channeled
 condensible
 churchmaster
 coastward
+chirres
 coastwards
 coatdress
 coated
