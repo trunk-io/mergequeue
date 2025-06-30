@@ -1255,7 +1255,6 @@ gapper
 guib
 grimaces
 garran
-globelet
 granage
 ged
 gavall
@@ -2385,6 +2384,7 @@ glariest
 ganton
 gazel
 guidwilly
+globelet
 guiac
 gummose
 guardship
