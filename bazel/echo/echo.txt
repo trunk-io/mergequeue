@@ -3070,7 +3070,6 @@ elliptograph
 elliptoid
 extraparietal
 eke
-elm
 educing
 elmiest
 epistolographist
@@ -9360,6 +9359,7 @@ entomolegist
 erthen
 eumorphous
 ekistic
+elm
 erthly
 estriate
 ericaceous
