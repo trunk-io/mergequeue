@@ -1718,7 +1718,6 @@ guesses
 gamesman
 guernseys
 gastropexy
-gastrophile
 garroo
 gorgonacea
 gansel
@@ -6858,6 +6857,7 @@ goodbyes
 goodenia
 gestated
 gatling
+gastrophile
 guyed
 gastrocolostomy
 gitterns

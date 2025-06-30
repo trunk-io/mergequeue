@@ -2598,7 +2598,6 @@ abacli
 ansate
 amygdalotomy
 accrescent
-agapeic
 allocated
 auxoflore
 approximated
@@ -9300,6 +9299,7 @@ along
 ataxiameter
 alongships
 alongshore
+agapeic
 alemana
 alongshoreman
 angulare
