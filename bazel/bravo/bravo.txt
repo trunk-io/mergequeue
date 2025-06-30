@@ -4118,7 +4118,6 @@ bearding
 balminess
 beslimer
 beards
-birthroot
 bearer
 bombazette
 bedrenched
@@ -10624,6 +10623,7 @@ blazes
 blazy
 bridgeheads
 brahmanhood
+birthroot
 bicepses
 blusterous
 bluing
