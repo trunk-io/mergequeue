@@ -9246,7 +9246,6 @@ ficin
 feminate
 fissioning
 flopped
-frailness
 flagellum
 furzetop
 fenagling
@@ -10038,6 +10037,7 @@ foollike
 flans
 fringehead
 fringelet
+frailness
 fruitier
 fringent
 fringetail
