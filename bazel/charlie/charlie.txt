@@ -10523,7 +10523,6 @@ chignons
 consorts
 chigoes
 chih
-conquered
 coryphaena
 clinocephalic
 chihfu
@@ -30948,6 +30947,7 @@ cumara
 cumarins
 cuvage
 collocal
+conquered
 chromoplastid
 cumber
 consumptiveness
