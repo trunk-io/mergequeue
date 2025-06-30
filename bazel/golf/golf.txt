@@ -842,6 +842,7 @@ goalage
 geonim
 giroflore
 gwine
+glavered
 geezers
 gelsemine
 gernitz
@@ -10551,7 +10552,6 @@ gunflint
 griffinhood
 gossipingly
 gentamicin
-glavered
 gunge
 germinability
 gunjah
