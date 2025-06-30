@@ -4194,7 +4194,6 @@ fakiness
 firebombing
 fairlike
 fractionlet
-faithwise
 forwarn
 figments
 figuredly
@@ -9330,6 +9329,7 @@ francolite
 francophil
 fissury
 funebre
+faithwise
 faller
 figeter
 fanneling
