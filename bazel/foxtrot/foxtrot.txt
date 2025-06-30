@@ -7610,6 +7610,7 @@ forril
 festino
 foulbrood
 farrier
+frayedness
 fossula
 felty
 ferroglass
@@ -9232,7 +9233,6 @@ foraneous
 facts
 fabulists
 frayedly
-frayedness
 fabulize
 fretter
 fidging
