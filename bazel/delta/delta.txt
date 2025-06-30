@@ -7968,7 +7968,6 @@ dextran
 doruck
 dextranase
 disallowable
-demicylinder
 defunctive
 downsteepy
 dismayedness
@@ -9446,6 +9445,7 @@ diffractiveness
 dist
 diffranchise
 dely
+demicylinder
 directorial
 diadumenus
 durabilities
