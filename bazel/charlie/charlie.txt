@@ -7510,6 +7510,7 @@ cephalothoraxes
 cephalotomy
 corozo
 contrate
+costae
 cephalotractor
 cephalotrocha
 cephalotus
@@ -8956,7 +8957,6 @@ char
 conveyability
 crouchingly
 chara
-costae
 charabanc
 capkin
 compensativeness
