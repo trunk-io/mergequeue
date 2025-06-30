@@ -3719,7 +3719,6 @@ brucella
 barnstorms
 battler
 basocyte
-battleships
 barrace
 blushiness
 buhr
@@ -18388,6 +18387,7 @@ buzzies
 budwood
 bedarkens
 buzziest
+battleships
 butylated
 boobery
 buzzing
