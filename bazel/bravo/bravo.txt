@@ -10042,6 +10042,7 @@ booklets
 bummock
 blenders
 bairntime
+brisket
 begohm
 byzantine
 byzantinize
@@ -17553,7 +17554,6 @@ boss
 boletic
 bureaucratizing
 burele
-brisket
 buret
 biochemics
 bodock
