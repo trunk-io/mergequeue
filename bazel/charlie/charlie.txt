@@ -4186,7 +4186,6 @@ cardiomegaly
 cyclus
 cardiomelanosis
 contradivide
-cardiometer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
@@ -25671,6 +25670,7 @@ correctest
 club
 correctible
 confirmatorily
+cardiometer
 cubicly
 correctionalist
 correctioner
