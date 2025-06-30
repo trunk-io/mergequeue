@@ -6394,6 +6394,7 @@ glassman
 genius
 greatcoats
 gobiesocid
+graphotype
 geostrophic
 gymnocladus
 grows
@@ -8230,7 +8231,6 @@ grinderies
 gamestress
 gorling
 graphostatics
-graphotype
 groggery
 grapier
 gasthaus
