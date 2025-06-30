@@ -11655,6 +11655,7 @@ byres
 boatbuilding
 boathook
 boathouse
+barrancas
 backbends
 boffos
 baccare
@@ -13643,7 +13644,6 @@ beggaress
 becafico
 buttressless
 bidarkees
-barrancas
 blights
 buttermaking
 brochan
