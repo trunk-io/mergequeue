@@ -7212,7 +7212,6 @@ gormand
 gibbus
 gormandised
 graduators
-gormandism
 gormandize
 glomi
 gormandizes
@@ -10205,6 +10204,7 @@ guyer
 getspa
 guyers
 guijo
+gormandism
 gobet
 grindstone
 gluttei
