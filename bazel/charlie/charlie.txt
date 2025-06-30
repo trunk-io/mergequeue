@@ -19160,7 +19160,6 @@ chloridizing
 collimated
 collimates
 collimating
-collimation
 collimator
 carcinus
 collin
@@ -27024,6 +27023,7 @@ counterposting
 counterpotence
 cantilated
 counterpotency
+collimation
 counterpotent
 centenarian
 cajuela
