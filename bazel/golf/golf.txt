@@ -767,7 +767,6 @@ gawkily
 geometrically
 graywether
 galvanotherapy
-galvanotropism
 globulolysis
 gaulter
 gurle
@@ -9569,6 +9568,7 @@ granted
 gazed
 gynecologist
 galactoscope
+galvanotropism
 grind
 grovellingly
 geishas
