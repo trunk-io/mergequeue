@@ -1193,6 +1193,7 @@ educability
 educand
 emulsive
 educatability
+entrancement
 eident
 educatable
 educatedness
@@ -7004,7 +7005,6 @@ entrains
 emissaryship
 entrancedly
 epicentrums
-entrancement
 enscene
 empusa
 expressed
