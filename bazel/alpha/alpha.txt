@@ -5828,6 +5828,7 @@ agendums
 amovability
 agene
 ataxite
+actuate
 ageneses
 ancestorial
 agenesis
@@ -25298,7 +25299,6 @@ allocability
 acetylrosaniline
 azoerythrin
 antithermin
-actuate
 avionic
 azofication
 azoformamide
