@@ -11651,6 +11651,7 @@ bosket
 boatage
 bacterioscopical
 barspoon
+brickbatting
 byres
 boatbuilding
 boathook
@@ -15168,7 +15169,6 @@ brick
 bankruptship
 brickbat
 borish
-brickbatting
 brickcroft
 billhook
 brickel
