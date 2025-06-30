@@ -1218,7 +1218,6 @@ gatewards
 grannybush
 goodeniaceae
 galavants
-gramy
 gooseliver
 gonakie
 grackles
@@ -9285,6 +9284,7 @@ goyana
 gurge
 gunj
 gi
+gramy
 glossatorial
 girlish
 geodynamicist
