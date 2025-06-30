@@ -3033,7 +3033,6 @@ germanize
 ganglion
 geophagia
 glowworms
-geocline
 gipping
 geophagism
 grubhood
@@ -5391,6 +5390,7 @@ goosander
 glyn
 galatotrophic
 glynn
+geocline
 gamogenetical
 goonch
 groundflower
