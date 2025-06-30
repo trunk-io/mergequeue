@@ -5459,7 +5459,6 @@ foggy
 fisted
 fleering
 faunal
-flavorers
 fleerish
 figurativeness
 formulator
@@ -8181,6 +8180,7 @@ ferula
 fantastry
 feverberries
 fleeceless
+flavorers
 formicinae
 faddle
 fraught
