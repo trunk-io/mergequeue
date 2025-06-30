@@ -5694,7 +5694,6 @@ fountains
 firebrands
 frontoparietal
 freeloader
-forewarns
 forhooie
 forevouched
 forfeitures
@@ -10845,6 +10844,7 @@ franciscan
 frousy
 finestill
 fabledom
+forewarns
 fatties
 foeticidal
 faddism
