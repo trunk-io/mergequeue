@@ -3478,6 +3478,7 @@ craniovertebral
 capsella
 calyptras
 capshore
+caliological
 capsian
 ceruses
 capsicums
@@ -10725,7 +10726,6 @@ chylous
 chilte
 chiltern
 chilver
-caliological
 chimaera
 chimaerid
 chimaeroid
