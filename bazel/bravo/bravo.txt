@@ -3364,6 +3364,7 @@ brythonic
 baculum
 bassan
 bassanite
+bombardelle
 biotechnics
 bassetta
 beholders
@@ -12385,7 +12386,6 @@ bombonne
 bombora
 bawls
 bombus
-bombardelle
 bomi
 bomos
 beloveds
