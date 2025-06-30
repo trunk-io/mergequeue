@@ -3582,7 +3582,6 @@ flyweight
 fernland
 figures
 feelingless
-fasciculi
 forenews
 foresting
 forestine
@@ -4675,6 +4674,7 @@ firked
 factorizations
 fullnesses
 fifers
+fasciculi
 fittingly
 frigidities
 formulations
