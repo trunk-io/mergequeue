@@ -13630,6 +13630,7 @@ blockaders
 bunglings
 brantail
 bibulosities
+beast
 bounded
 bridgepot
 bounder
@@ -15523,7 +15524,6 @@ biliprasin
 briskets
 bromlite
 bescent
-beast
 bussy
 barbule
 boardable
