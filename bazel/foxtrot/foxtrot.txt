@@ -3391,6 +3391,7 @@ fioritura
 faction
 fulgide
 flabbergastation
+fascioplasty
 flexility
 fencings
 fidejussor
@@ -5328,7 +5329,6 @@ flyway
 fucaceous
 felonwood
 farrierlike
-fascioplasty
 flamelet
 flaxman
 foreplanting
