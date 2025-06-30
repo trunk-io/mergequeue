@@ -8084,7 +8084,6 @@ gnomoniaceae
 gulfed
 gloat
 glowflies
-gametophytic
 granulators
 gripper
 gynaecocracy
@@ -10447,6 +10446,7 @@ groundsill
 goudy
 gesneraceous
 germanics
+gametophytic
 gomphodont
 geobiologic
 gumdigging
