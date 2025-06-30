@@ -6235,7 +6235,6 @@ grx
 gadslid
 gobber
 goateed
-guitarlike
 garths
 guttural
 ghostiest
@@ -9314,6 +9313,7 @@ guignol
 glopnen
 gerland
 groins
+guitarlike
 grolieresque
 glycerole
 ganging
