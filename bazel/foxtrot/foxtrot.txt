@@ -2197,6 +2197,7 @@ fornical
 foliature
 focoids
 fitch
+flattened
 fawnier
 fallenness
 fellowships
@@ -6576,7 +6577,6 @@ forecloses
 flamless
 furrings
 flysches
-flattened
 feaked
 fetches
 flockier
