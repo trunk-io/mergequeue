@@ -11306,7 +11306,6 @@ abaff
 anobiidae
 amphora
 amphorae
-anthracite
 apiator
 amphore
 aquifers
@@ -19956,6 +19955,7 @@ apperceived
 arterialized
 anemochoric
 abstrusenesses
+anthracite
 armorless
 antileukemic
 aplopappus
