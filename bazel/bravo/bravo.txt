@@ -7634,7 +7634,6 @@ beworn
 bullocks
 borne
 butanones
-bugseed
 beworries
 beworship
 bedare
@@ -11309,6 +11308,7 @@ blowing
 blowings
 basify
 brigandage
+bugseed
 belage
 bredstitch
 blowiron
