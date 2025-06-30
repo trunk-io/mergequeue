@@ -2075,6 +2075,7 @@ gruellers
 ganodus
 gormaw
 guarabu
+glycogen
 gazebo
 gazeboes
 guestship
@@ -5005,7 +5006,6 @@ gelechia
 guru
 gyrencephalate
 guards
-glycogen
 gerefa
 grizzlers
 gandering
