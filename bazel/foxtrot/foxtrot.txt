@@ -747,7 +747,6 @@ florigens
 francic
 famp
 famuli
-frustrater
 fana
 fcs
 feoffment
@@ -3980,6 +3979,7 @@ fined
 fineish
 faulty
 fineness
+frustrater
 farmy
 forweend
 formature
