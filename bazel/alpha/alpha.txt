@@ -10600,7 +10600,6 @@ aptly
 amyloidoses
 acatharsia
 amyloidosis
-anguille
 amyloleucite
 afterwrath
 amylolysis
@@ -18789,6 +18788,7 @@ apotropaism
 angioneoplasm
 archenia
 ailantine
+anguille
 archeocyte
 acneform
 archeolithic
