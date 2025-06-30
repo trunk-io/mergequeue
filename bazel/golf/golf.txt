@@ -1239,7 +1239,6 @@ grassman
 garbill
 guyline
 gougers
-goosebone
 ganomalite
 goatbush
 garbler
@@ -3467,6 +3466,7 @@ gibbsites
 gumbotils
 glucogene
 gilt
+goosebone
 gettings
 grogginess
 gantangs
