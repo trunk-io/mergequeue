@@ -5590,6 +5590,7 @@ ethologist
 enflaming
 epiklesis
 equuleus
+enwind
 escapeway
 embryulcus
 enflower
@@ -6631,7 +6632,6 @@ ellipses
 enorthotrope
 electricity
 emigrates
-enwind
 exolemma
 emove
 eligenda
