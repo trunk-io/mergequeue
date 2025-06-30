@@ -13312,7 +13312,6 @@ bulbless
 balsamed
 bemat
 bradburya
-botaurus
 blooie
 beeswings
 birdyback
@@ -13946,6 +13945,7 @@ bowsie
 bytime
 boxful
 blackboys
+botaurus
 bleed
 brussels
 bullring
