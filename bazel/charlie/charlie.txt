@@ -9325,7 +9325,6 @@ coplanation
 chastening
 chastenment
 chastens
-chaster
 crombec
 chastest
 chasteweed
@@ -30053,6 +30052,7 @@ crowbar
 cliffy
 crowbill
 columbo
+chaster
 chilomata
 carnivores
 crowdedly
