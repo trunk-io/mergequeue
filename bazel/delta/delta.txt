@@ -8044,6 +8044,7 @@ dezincs
 damageable
 dft
 dysthymic
+doughfoot
 dialects
 defences
 derbylite
@@ -16263,7 +16264,6 @@ depurant
 dacryocystoblennorrhea
 dindymus
 downbeard
-doughfoot
 distilled
 defease
 downcastness
