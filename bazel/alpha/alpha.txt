@@ -11041,7 +11041,6 @@ amovable
 acronarcotic
 abatic
 amove
-amylolytic
 ampangabeite
 ampasimenite
 ampelidaceous
@@ -12587,6 +12586,7 @@ aesopic
 advene
 allochroite
 aneurysm
+amylolytic
 aneurysmal
 aeriferous
 algosis
