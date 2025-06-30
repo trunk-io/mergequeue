@@ -4488,7 +4488,6 @@ encephalartos
 encephalasthenia
 effloresced
 escocheon
-encephalic
 erythrophagous
 encephalitic
 executively
@@ -5483,6 +5482,7 @@ encyclopaediac
 epacrid
 estimatingly
 extrasystole
+encephalic
 exospheres
 eigenstate
 entitledness
