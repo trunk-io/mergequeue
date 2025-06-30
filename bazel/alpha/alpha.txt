@@ -13354,7 +13354,6 @@ ankerites
 ankylenteron
 ankylocheilia
 ankylodactylia
-antiinflammatory
 ankylodontia
 ankyloglossia
 allergia
@@ -21228,6 +21227,7 @@ antennaria
 akonge
 asians
 asiarch
+antiinflammatory
 asiatically
 anisocarpous
 angiospasm
