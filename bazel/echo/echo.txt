@@ -5102,7 +5102,6 @@ eupanorthidae
 ectozoan
 epitomical
 emuls
-encysted
 emanatistic
 epilogic
 eobiont
@@ -10792,6 +10791,7 @@ eulachans
 eulamellibranchiata
 electrical
 exanthemas
+encysted
 epizeuxis
 ethylenically
 etrier
