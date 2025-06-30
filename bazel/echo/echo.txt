@@ -2210,7 +2210,6 @@ equiprobable
 elderwoman
 ervenholder
 encrisp
-eldest
 effigiated
 eventuate
 eldrich
@@ -3764,6 +3763,7 @@ explored
 emceeing
 escalader
 enquirer
+eldest
 emcumbering
 eyewater
 electroneutral
