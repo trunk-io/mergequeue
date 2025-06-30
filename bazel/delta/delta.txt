@@ -2291,7 +2291,6 @@ dirtplate
 decenters
 dialyzed
 disaggregation
-digestors
 decentralising
 duckhunting
 decentralism
@@ -8304,6 +8303,7 @@ duel
 diagonals
 deducting
 diagonalwise
+digestors
 denudate
 dicatalexis
 demonization
