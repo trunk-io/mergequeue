@@ -1613,7 +1613,6 @@ calms
 coemployee
 calochortaceae
 contraceptives
-calodaemon
 calodemon
 coracles
 calodemonial
@@ -22376,6 +22375,7 @@ congresso
 congresswomen
 congridae
 centigramme
+calodaemon
 cyclothymia
 cyclopedist
 cistaceous
