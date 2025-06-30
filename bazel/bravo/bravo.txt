@@ -15191,7 +15191,6 @@ bulbospinal
 bricklike
 brickmason
 beclose
-blennoid
 backstrip
 bucketing
 balneal
@@ -16867,6 +16866,7 @@ bufotoxin
 biconcavity
 buzukia
 bugaboo
+blennoid
 bugaboos
 bugan
 brahm
