@@ -7484,7 +7484,6 @@ cyclostylar
 cephalometer
 cephalometric
 clysis
-cephalonasal
 cephalopathy
 cephalopharyngeal
 cephalophyma
@@ -29931,6 +29930,7 @@ cobwebs
 cardinals
 cammocky
 crosstail
+cephalonasal
 creepier
 crosstown
 carcinologist
