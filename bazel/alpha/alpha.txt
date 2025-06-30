@@ -2827,7 +2827,6 @@ antenniform
 areometer
 acromiohumeral
 acromiosternal
-antichurchian
 acromiothoracic
 addaxes
 accrete
@@ -22502,6 +22501,7 @@ abiston
 adonean
 atelestite
 admittances
+antichurchian
 atelier
 archetypical
 affeeror
