@@ -2145,6 +2145,7 @@ forerehearsed
 fell
 fissipalmate
 forebodies
+findable
 facture
 finetop
 favorless
@@ -3957,7 +3958,6 @@ followers
 foppishly
 falseness
 footslogged
-findable
 fruz
 foreshop
 findhorn
