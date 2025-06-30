@@ -3677,7 +3677,6 @@ glinse
 goonie
 graveldiver
 geometdecrne
-getatable
 ginnery
 goldfield
 generator
@@ -10169,6 +10168,7 @@ gerusia
 gastropathy
 granulated
 greed
+getatable
 gloriana
 goosery
 gloomed
