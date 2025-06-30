@@ -534,7 +534,6 @@ damagers
 dumber
 damalic
 duodecillionth
-dextrorotation
 demobilized
 dieback
 designations
@@ -15243,6 +15242,7 @@ daimonic
 directory
 dolefully
 detainment
+dextrorotation
 deeryards
 drawlier
 dolefulness
