@@ -8260,7 +8260,6 @@ ancylodactyla
 adipocyte
 alienage
 alienated
-alienation
 allactite
 aliene
 alienee
@@ -22359,6 +22358,7 @@ astrologize
 astromancer
 astromantic
 astromeda
+alienation
 apophyges
 astrometeorology
 astrometeorological
