@@ -5281,6 +5281,7 @@ afflated
 ataxia
 afflatus
 absent
+ankylotome
 avenue
 afflicted
 afflicter
@@ -8732,7 +8733,6 @@ abouchement
 allergenicity
 arrhythmous
 atheology
-ankylotome
 actinopod
 allergin
 allergists
