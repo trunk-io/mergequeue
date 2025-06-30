@@ -8611,6 +8611,7 @@ balkanized
 bhuts
 bearskin
 billfolds
+backstring
 burel
 billholder
 ballaton
@@ -11802,7 +11803,6 @@ benefactrixes
 banished
 boccias
 boccie
-backstring
 baron
 bluefish
 bromoiodism
