@@ -2551,7 +2551,6 @@ dweller
 declassification
 delocalized
 derringer
-diachrony
 declassifies
 discus
 dorsocephalic
@@ -6810,6 +6809,7 @@ desirous
 desirousness
 dhotis
 dented
+diachrony
 dedicates
 diaconate
 desize
