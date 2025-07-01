@@ -7563,6 +7563,7 @@ forecome
 forecommend
 foreconclude
 flagonet
+forleave
 figworts
 fishpound
 floggers
@@ -11526,7 +11527,6 @@ ficklewise
 finalis
 fuzziness
 filmsetting
-forleave
 ferruler
 ferricyanic
 fistic
