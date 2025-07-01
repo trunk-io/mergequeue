@@ -5698,7 +5698,6 @@ belemnoidea
 beleper
 bicycle
 bathybic
-balandra
 butterpaste
 barkpeeling
 boogymen
@@ -10567,6 +10566,7 @@ blathery
 blackprint
 baretta
 blathers
+balandra
 bazookamen
 biomicroscopy
 bivinyls

@@ -6280,6 +6280,7 @@ farmtown
 fluidic
 flapdragon
 friendlike
+fearnaught
 forgette
 frankeniaceous
 fecit
@@ -7324,7 +7325,6 @@ foralite
 foram
 franchisers
 fronds
-fearnaught
 frampold
 flowed
 forswearer
