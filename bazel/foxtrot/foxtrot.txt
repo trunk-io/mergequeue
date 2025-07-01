@@ -1025,6 +1025,7 @@ flannelmouth
 foxhound
 fusion
 fardelet
+fastings
 futtah
 fards
 firethorn
@@ -10191,7 +10192,6 @@ flichtering
 fellest
 frizzy
 fizzwater
-fastings
 fleishig
 formalism
 farce
