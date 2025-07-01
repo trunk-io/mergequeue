@@ -3294,7 +3294,6 @@ amylenes
 adamantean
 anisodactylous
 antipolyneuritic
-adamantinoma
 adamantness
 adamantoblast
 adamas
@@ -20421,6 +20420,7 @@ arteriorrhaphy
 arseniuret
 antalgic
 arsonists
+adamantinoma
 arsons
 art
 aldehydic
