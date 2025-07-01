@@ -2450,7 +2450,6 @@ filtrable
 fingernail
 flanged
 ferigee
-flicky
 forfar
 fondlers
 fleer
@@ -9785,6 +9784,7 @@ frequentest
 feldspar
 frapp
 fallacies
+flicky
 falchion
 fessways
 formular
