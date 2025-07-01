@@ -528,7 +528,6 @@ filicite
 faking
 fumify
 figgle
-fassaite
 flayer
 feodum
 fishbone
@@ -11431,6 +11430,7 @@ few
 furomethyl
 flams
 furcated
+fassaite
 fibry
 fishings
 furfuraceously
