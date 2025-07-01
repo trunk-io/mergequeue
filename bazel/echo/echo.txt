@@ -3107,7 +3107,6 @@ eloigned
 empanelled
 endoscopy
 earthsmoke
-eloigning
 enactment
 euryte
 eloigns
@@ -5230,6 +5229,7 @@ endoperidium
 externalised
 echogram
 endophagous
+eloigning
 ephebeion
 endophasic
 episiocele
