@@ -18865,7 +18865,6 @@ cabochon
 concentrical
 coleophoridae
 coleopter
-coleoptera
 chalcedonic
 cardiotoxic
 coleopterist
@@ -21693,6 +21692,7 @@ condylomatous
 condylome
 chamaeleon
 condylopodous
+coleoptera
 conjurator
 condylos
 corditis
