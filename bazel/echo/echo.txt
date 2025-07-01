@@ -3582,6 +3582,7 @@ embows
 egeria
 egma
 eveque
+enkindling
 embowered
 exanimate
 empoisoner
@@ -11252,7 +11253,6 @@ epibolies
 evangeliaries
 endocycle
 exocrinology
-enkindling
 elohism
 encomimiums
 eradiated
