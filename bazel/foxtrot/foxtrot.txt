@@ -3932,6 +3932,7 @@ fores
 fany
 fig
 flowerlet
+foreutter
 forfit
 flabbergastingly
 flashlamps
@@ -8156,7 +8157,6 @@ foreperiod
 fossilology
 foretrace
 foreuse
-foreutter
 flavoursome
 fillercap
 fairishness
