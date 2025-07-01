@@ -14593,7 +14593,6 @@ antienergistic
 antiaggressively
 antiaggressiveness
 antialbumin
-antialcoholic
 antialcoholism
 antialcoholist
 antialdoxime
@@ -16668,6 +16667,7 @@ alternipinnate
 apertness
 abnormalism
 apertometer
+antialcoholic
 apocarpies
 adventures
 apertural
