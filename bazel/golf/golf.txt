@@ -2445,7 +2445,6 @@ guildite
 grandity
 genro
 glossier
-girdlelike
 gradienter
 gnawings
 gotch
@@ -4520,6 +4519,7 @@ gil
 generalate
 goosebill
 goupen
+girdlelike
 grasscutter
 gibbing
 greegree
