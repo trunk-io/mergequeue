@@ -7202,6 +7202,7 @@ governorate
 gourmands
 glassmaker
 grailer
+gustativeness
 generosity
 gribble
 gemination
@@ -8475,7 +8476,6 @@ geisha
 galga
 graveolent
 gingkoes
-gustativeness
 groinery
 gymnoderinae
 gozzan
