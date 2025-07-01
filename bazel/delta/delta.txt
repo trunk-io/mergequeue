@@ -3440,7 +3440,6 @@ disgarland
 deceleron
 deflower
 damnosa
-dentagra
 deflowered
 deflowerer
 dumpcart
@@ -18670,6 +18669,7 @@ dwarfer
 dwarfishness
 documentarily
 derogatoriness
+dentagra
 dwarfisms
 darwinically
 detersively
