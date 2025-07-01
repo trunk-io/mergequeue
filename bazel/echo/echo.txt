@@ -6629,6 +6629,7 @@ eccles
 epimedium
 ellipses
 enorthotrope
+evacuator
 electricity
 emigrates
 enwind
@@ -11198,7 +11199,6 @@ evacuations
 evulse
 entropionize
 expatriation
-evacuator
 ewhow
 evaded
 earthlier
