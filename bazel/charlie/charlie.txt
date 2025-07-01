@@ -4741,7 +4741,6 @@ carpenters
 charlock
 carpenterworm
 carpet
-carpetbag
 carpetbagger
 carpetbaggery
 conchometry
@@ -9565,6 +9564,7 @@ comprehensor
 cheatableness
 cheated
 cubits
+carpetbag
 characterisation
 cheater
 cheatery
