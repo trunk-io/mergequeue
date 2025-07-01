@@ -11964,7 +11964,6 @@ choral
 choralcelo
 causeway
 chorale
-carmagnoles
 choraleon
 chorales
 comradery
@@ -31004,6 +31003,7 @@ cuminseed
 chry
 cummer
 cummerbund
+carmagnoles
 cummerbunds
 cummers
 cummingtonite
