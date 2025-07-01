@@ -6348,7 +6348,6 @@ gamin
 gugal
 greenwort
 gastrular
-guesstimate
 glossophaga
 gobstick
 gulmohar
@@ -10269,6 +10268,7 @@ gastrologist
 gab
 getid
 grotianism
+guesstimate
 gempylid
 gutturalization
 groaningly
