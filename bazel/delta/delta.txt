@@ -1192,7 +1192,6 @@ datary
 dataries
 datasetname
 dithers
-datcha
 disparison
 demiassignation
 dragooner
@@ -7170,6 +7169,7 @@ depauperate
 depullulation
 doves
 dubbeltje
+datcha
 disgusts
 deedbox
 desume
