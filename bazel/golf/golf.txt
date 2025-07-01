@@ -332,7 +332,6 @@ galactolipide
 graveship
 galactometer
 gastritis
-gaussian
 grilses
 gleen
 gerontologic
@@ -5000,6 +4999,7 @@ glariness
 gregarinae
 gutturalizing
 gatch
+gaussian
 giraffes
 gelechia
 guru
