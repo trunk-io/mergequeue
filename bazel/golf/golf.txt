@@ -3974,7 +3974,6 @@ gubbings
 gellert
 grounds
 gilds
-gildhall
 grandness
 gildship
 gutturals
@@ -7925,6 +7924,7 @@ glouts
 goodhap
 galleyman
 gipper
+gildhall
 gollywobbler
 geologized
 grandmammy
