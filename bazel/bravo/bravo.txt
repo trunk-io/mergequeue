@@ -3960,7 +3960,6 @@ barytes
 behavers
 beachheads
 brand
-bnf
 beaching
 beachman
 buenas
@@ -17901,6 +17900,7 @@ biassed
 busheled
 bourse
 bookman
+bnf
 beauship
 bivium
 bushelers
