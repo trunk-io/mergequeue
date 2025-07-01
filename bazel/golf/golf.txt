@@ -728,7 +728,6 @@ gypsydom
 gugglet
 galvanizers
 gujar
-galvanizes
 galvanizing
 gemmiferousness
 gunner
@@ -2214,6 +2213,7 @@ greeney
 geopolitik
 gymnospermal
 gradation
+galvanizes
 glasswort
 glarry
 gospeller
