@@ -4714,7 +4714,6 @@ filicinean
 fearsome
 firm
 flatnose
-figurante
 flaunched
 flections
 flexibilities
@@ -10653,6 +10652,7 @@ florican
 fundamental
 fruitgrower
 foodstuffs
+figurante
 fruitiness
 fieldworker
 flagless
