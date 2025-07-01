@@ -3435,7 +3435,6 @@ deerlet
 doddy
 deflore
 duvet
-dubash
 disgarland
 deceleron
 deflower
@@ -10504,6 +10503,7 @@ diphenoxylate
 diphysite
 dyphone
 dosimeters
+dubash
 damask
 discolith
 devinct
