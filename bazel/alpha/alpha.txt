@@ -18185,6 +18185,7 @@ asthenosphere
 atip
 aquatone
 abampere
+argosy
 acidemias
 aquavit
 aquavits
@@ -19517,7 +19518,6 @@ argonautid
 argonne
 argonon
 argons
-argosy
 argot
 archaizes
 antimediaeval
