@@ -443,7 +443,6 @@ direst
 disthrall
 daswen
 daytide
-daytimes
 disburthen
 disorderliness
 daywrit
@@ -10622,6 +10621,7 @@ digammate
 denote
 disequilibrium
 discoblastula
+daytimes
 diplocoria
 diploe
 disbalancement
