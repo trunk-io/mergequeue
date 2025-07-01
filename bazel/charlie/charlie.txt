@@ -102,7 +102,6 @@ cabestro
 cabestros
 chalinidae
 cabezon
-chromeplate
 cabezone
 cabful
 cabiai
@@ -4191,6 +4190,7 @@ cardiometric
 cardiomyomalacia
 cardiomyopathy
 cardioncus
+chromeplate
 camshaft
 cardionecrosis
 cannibal
