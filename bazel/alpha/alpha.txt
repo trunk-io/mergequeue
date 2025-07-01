@@ -20637,7 +20637,6 @@ arthrorheumatism
 arthrocele
 anaudic
 agistor
-aquamanalia
 anserous
 arthroses
 arthrosynovitis
@@ -23356,6 +23355,7 @@ autohypnosis
 audings
 audiology
 acca
+aquamanalia
 audiological
 audiologies
 aliquid
