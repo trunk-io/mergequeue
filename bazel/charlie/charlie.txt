@@ -4469,6 +4469,7 @@ caryopsis
 currawong
 courthouses
 caripuna
+catfoot
 cariri
 caririan
 commoner
@@ -5957,7 +5958,6 @@ catfalls
 catfight
 creeled
 catfish
-catfoot
 catfooted
 catgut
 cath
