@@ -9933,6 +9933,7 @@ aphthongal
 abayah
 afferently
 abele
+aflush
 ambarella
 activator
 ambari
@@ -11659,7 +11660,6 @@ alban
 amigo
 anagap
 amos
-aflush
 avoure
 appraisal
 anagyrine
