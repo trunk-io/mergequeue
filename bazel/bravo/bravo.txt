@@ -988,6 +988,7 @@ boat
 bayamos
 brownier
 brigand
+bishopscap
 bayano
 birlie
 bewitch
@@ -10663,7 +10664,6 @@ balanophoraceae
 bandspreading
 bunion
 bernese
-bishopscap
 bleaky
 buist
 bleakness
