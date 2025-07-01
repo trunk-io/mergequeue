@@ -1562,7 +1562,6 @@ gutteral
 geropiga
 glimpse
 galleria
-gumshoe
 gunlock
 galvanization
 gasterotheca
@@ -4859,6 +4858,7 @@ gimme
 grandstanding
 gladiola
 granatite
+gumshoe
 goldurns
 goldhammer
 globeholder
