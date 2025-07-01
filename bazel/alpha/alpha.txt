@@ -5547,7 +5547,6 @@ aftershafted
 acetylcholinic
 archdruid
 almagests
-aftershave
 adviso
 aftershocks
 aftersound
@@ -13746,6 +13745,7 @@ anopheles
 anophelinae
 anophoria
 anophthalmos
+aftershave
 anopia
 amusable
 abortuses
