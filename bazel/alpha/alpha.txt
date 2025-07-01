@@ -6396,7 +6396,6 @@ agrostemma
 agrosteral
 agrostographer
 agrostography
-agrostographical
 algesthesis
 antivenom
 agrostologic
@@ -24172,6 +24171,7 @@ assuage
 ampalea
 autokrator
 anamesite
+agrostographical
 autolaryngoscopic
 autolater
 advoke
