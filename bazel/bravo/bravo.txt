@@ -6112,7 +6112,6 @@ blimpishness
 blusters
 barragon
 benchful
-benchman
 benchmark
 baryecoia
 burnout
@@ -7724,6 +7723,7 @@ barker
 bugre
 bagleaves
 bulbotuber
+benchman
 bhaktimarga
 bucca
 boomy
