@@ -6879,7 +6879,6 @@ chanceable
 caudal
 cellarette
 cellarmen
-cellars
 chirologies
 charivariing
 cellarwoman
@@ -25606,6 +25605,7 @@ corporately
 corporateness
 corporation
 corporationer
+cellars
 corporationism
 countergift
 coituses
