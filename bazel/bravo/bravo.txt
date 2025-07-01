@@ -703,7 +703,6 @@ bombardo
 breathable
 banjo
 baddie
-betimber
 brewage
 bathtubs
 baddies
@@ -5056,6 +5055,7 @@ bowfin
 bloodthirst
 befamilied
 biogeography
+betimber
 bibracteolate
 bemas
 biglenoid
