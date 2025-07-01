@@ -9830,6 +9830,7 @@ billed
 bullyable
 bagmen
 barbing
+birota
 brands
 begums
 bites
@@ -15912,7 +15913,6 @@ bronchiospasm
 bronchitic
 bronchitis
 bethrall
-birota
 bronchoalveolar
 bronchoblennorrhea
 birdlike
