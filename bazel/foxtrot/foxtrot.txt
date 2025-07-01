@@ -5111,6 +5111,7 @@ fuligo
 fumettes
 frsikets
 flagboat
+filterer
 fructus
 forthfigured
 flareback
@@ -9095,7 +9096,6 @@ farcied
 fords
 fucus
 fondants
-filterer
 fleabanes
 fourberie
 fedelini
