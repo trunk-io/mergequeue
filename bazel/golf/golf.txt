@@ -53,7 +53,6 @@ glucosidic
 gables
 goofball
 gatherum
-gibbon
 griller
 gablewindowed
 gogga
@@ -4181,6 +4180,7 @@ gliosa
 gigantosaurus
 gonidiose
 graniform
+gibbon
 ghibelline
 gynaecium
 gunned
