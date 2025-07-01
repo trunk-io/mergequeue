@@ -5504,7 +5504,6 @@ friseurs
 fluxmeter
 fossed
 fretwork
-forbarred
 fratching
 fleshhood
 foraged
@@ -8627,6 +8626,7 @@ fearfully
 fibromucous
 fulup
 fringilloid
+forbarred
 forsakenness
 fermentarian
 fledged
