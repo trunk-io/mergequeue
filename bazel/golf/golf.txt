@@ -7068,7 +7068,6 @@ guernsey
 gopherberries
 gist
 garbologist
-gothics
 glaucously
 gatter
 guacin
@@ -8455,6 +8454,7 @@ gulpers
 genie
 gabling
 ginglymus
+gothics
 grouchingly
 grownups
 greystone
