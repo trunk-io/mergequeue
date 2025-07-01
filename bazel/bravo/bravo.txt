@@ -276,7 +276,6 @@ beroe
 bacilli
 bacillian
 bacillicidal
-bacillicidic
 bacilliform
 bigamic
 blackey
@@ -15941,6 +15940,7 @@ bemourn
 benamed
 bronchographic
 blooming
+bacillicidic
 bronchohemorrhagia
 battels
 boatwoman
