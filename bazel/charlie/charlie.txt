@@ -19030,6 +19030,7 @@ canzone
 corved
 cham
 collates
+curship
 collation
 collations
 cesti
@@ -31509,7 +31510,6 @@ cursen
 conoclinium
 curser
 cursers
-curship
 coadjuvant
 cornutin
 cursing
