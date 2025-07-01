@@ -2964,7 +2964,6 @@ emony
 equiprobabilism
 eliminated
 ectopia
-elymus
 elinguate
 enfield
 eleatic
@@ -6281,6 +6280,7 @@ enplaned
 embryonary
 enamine
 ethnogeographical
+elymus
 entered
 expend
 endplate
