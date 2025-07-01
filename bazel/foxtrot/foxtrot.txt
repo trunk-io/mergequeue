@@ -5884,6 +5884,7 @@ fowlers
 flocced
 flagellate
 frustulose
+faraway
 footsoldier
 floccipend
 filariae
@@ -6135,7 +6136,6 @@ flounced
 flouncing
 flounder
 frowardness
-faraway
 faciata
 flourish
 fermion
