@@ -7008,7 +7008,6 @@ beslobber
 belcher
 besluit
 bespread
-besmile
 besmiled
 besmirch
 bobtailing
@@ -11246,6 +11245,7 @@ blotchiness
 buckeye
 blote
 beaker
+besmile
 boder
 brazenness
 bf
