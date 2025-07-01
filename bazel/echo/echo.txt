@@ -1309,7 +1309,6 @@ explicatively
 ericophyte
 efface
 effaceable
-effaced
 elliptical
 effacers
 encapsules
@@ -5250,6 +5249,7 @@ extrascriptural
 escartelly
 euphuizing
 esphresis
+effaced
 emission
 endopoditic
 expenseless
