@@ -9245,6 +9245,7 @@ chartermaster
 charters
 cryptograms
 cindered
+constrained
 chartist
 chartless
 caricatured
@@ -14426,7 +14427,6 @@ circumpacific
 circulet
 ciliectomy
 circumpallial
-constrained
 circumparallelogram
 circumpentagon
 convexed
