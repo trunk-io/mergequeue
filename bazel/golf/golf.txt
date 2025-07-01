@@ -8272,7 +8272,6 @@ glod
 gazelle
 grattoir
 glaucodot
-greenslade
 greyer
 gau
 glucuronidase
@@ -9346,6 +9345,7 @@ griffs
 gruf
 geophila
 graduate
+greenslade
 galleasses
 geoducks
 goliad
