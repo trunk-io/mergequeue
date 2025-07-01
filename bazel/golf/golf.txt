@@ -332,7 +332,6 @@ galactolipide
 graveship
 galactometer
 gastritis
-gaussian
 grilses
 gleen
 gerontologic
@@ -3041,6 +3040,7 @@ glottological
 gashliness
 geat
 gynethusia
+gaussian
 gunpoint
 guardroom
 generally
