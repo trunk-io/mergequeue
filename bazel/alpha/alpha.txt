@@ -5763,7 +5763,6 @@ apickaback
 ancestor
 agata
 apertured
-agate
 admen
 agates
 affeerment
@@ -21701,6 +21700,7 @@ assentatory
 apoikia
 aventure
 assented
+agate
 assenter
 arquerite
 autoclaved
