@@ -6594,7 +6594,6 @@ amphoriskos
 apatosaurus
 antidomestically
 aiguille
-apocryphally
 aiguilles
 aiguillette
 anthropoids
@@ -8829,6 +8828,7 @@ arthropyosis
 allo
 archcount
 anoesia
+apocryphally
 atmogenic
 allobar
 allobaric
