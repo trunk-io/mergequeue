@@ -11077,6 +11077,7 @@ amperometer
 asswage
 ampersand
 ampersands
+antimnemonic
 archpontiff
 amphanthia
 amphanthium
@@ -13409,7 +13410,6 @@ anna
 annabergite
 annal
 antiminsion
-antimnemonic
 annaly
 annalia
 annaline
