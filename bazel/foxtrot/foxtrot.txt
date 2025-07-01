@@ -3695,6 +3695,7 @@ fibrose
 frisbees
 flook
 farmable
+friableness
 fridstool
 fielder
 floatsman
@@ -9605,7 +9606,6 @@ floreta
 frontopontine
 fizzed
 fichus
-friableness
 fusteric
 frizzing
 fraternality
