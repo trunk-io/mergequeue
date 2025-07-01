@@ -1762,7 +1762,6 @@ adsorption
 actualist
 abuse
 aceacenaphthene
-anticosine
 asphyxies
 adularia
 arabis
@@ -5726,6 +5725,7 @@ afeared
 agapeti
 agapetid
 agennetic
+anticosine
 aciculate
 atoning
 autocoder
