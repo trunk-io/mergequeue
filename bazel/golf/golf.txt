@@ -1237,7 +1237,6 @@ gonglike
 gladstone
 grassman
 garbill
-guyline
 gougers
 goosebone
 ganomalite
@@ -1945,6 +1944,7 @@ geology
 geranic
 goring
 gelded
+guyline
 grubroot
 groupage
 gripes
