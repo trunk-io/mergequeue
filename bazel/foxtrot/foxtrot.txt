@@ -307,7 +307,6 @@ flanks
 felid
 fraenums
 foreboder
-forebar
 fistnotes
 fumade
 flambeed
@@ -8457,6 +8456,7 @@ footwall
 fatbrained
 foresettled
 formazan
+forebar
 formee
 formel
 furiant
