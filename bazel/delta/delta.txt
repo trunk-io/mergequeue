@@ -3604,7 +3604,6 @@ dodecant
 degaussing
 destituting
 diatonous
-degener
 declaredness
 dripping
 dextrogyre
@@ -12331,6 +12330,7 @@ doublegear
 dogface
 decipolar
 durbar
+degener
 druttle
 duboisia
 diamminobromide
