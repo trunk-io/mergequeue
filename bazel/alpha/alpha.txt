@@ -3725,6 +3725,7 @@ adiadochokinesis
 adiadokokinesia
 adiagnostic
 adiamorphic
+abv
 adiantiform
 adeniform
 adiaphon
@@ -4975,7 +4976,6 @@ awaft
 accentuable
 agister
 archibenthal
-abv
 adobos
 aerophysics
 apologising
