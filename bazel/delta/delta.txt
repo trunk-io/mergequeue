@@ -5768,6 +5768,7 @@ depolarise
 drapeable
 depolarization
 depolarize
+diffund
 dextrorsal
 downstroke
 diaphany
@@ -9190,7 +9191,6 @@ desmopathy
 dramatising
 didynamous
 diffractometer
-diffund
 defiances
 degradable
 descend
