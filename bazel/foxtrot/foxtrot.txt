@@ -962,6 +962,7 @@ ferrate
 faquir
 farad
 faradaic
+frostbow
 fluorometer
 flamed
 feel
@@ -2708,7 +2709,6 @@ flickering
 foxfishes
 fishhold
 fifty
-frostbow
 fetish
 flashy
 frump
