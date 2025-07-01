@@ -5979,7 +5979,6 @@ catharization
 crumbcloth
 carapacial
 catharize
-chenilles
 coppernosed
 catharizing
 catharping
@@ -30006,6 +30005,7 @@ crouch
 crouchant
 crouchback
 crouched
+chenilles
 crouches
 crouchie
 cahnite
