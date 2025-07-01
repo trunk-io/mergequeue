@@ -18009,6 +18009,7 @@ approximator
 appt
 arteriotomy
 aggrandise
+armaria
 alemonger
 anchoritism
 agt
@@ -19692,7 +19693,6 @@ aristarchies
 aristate
 aristeas
 alertness
-armaria
 aristeia
 aristida
 aristides
