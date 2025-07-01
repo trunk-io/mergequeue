@@ -735,7 +735,6 @@ gunner
 giantlikeness
 greenskeeper
 gollywog
-gonoplasm
 galvanoglyph
 gerbillinae
 gummiest
@@ -7569,6 +7568,7 @@ grainy
 giovanni
 gracilis
 grillage
+gonoplasm
 gracing
 greyly
 gyal
