@@ -7462,7 +7462,6 @@ experiencing
 electromagnetist
 encolumn
 etruria
-etalon
 eperlan
 eperotesis
 encheat
@@ -9196,6 +9195,7 @@ exograph
 endothermism
 erliche
 etiolating
+etalon
 eldern
 encaenia
 episplenitis

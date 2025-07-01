@@ -1344,6 +1344,7 @@ burlap
 bluenose
 brayed
 butterbump
+bioscopes
 betwixen
 balconies
 bacule
@@ -13563,7 +13564,6 @@ bougar
 bouge
 brogued
 brighella
-bioscopes
 bacchian
 bough
 blenniid
