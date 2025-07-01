@@ -2829,6 +2829,7 @@ bioecologic
 barouni
 baroxyton
 beebread
+bathometry
 bawrel
 bitterbump
 buttonmold
@@ -3587,7 +3588,6 @@ balconet
 bankeress
 barkentine
 bathometer
-bathometry
 blockmaking
 bathool
 bathophobia
