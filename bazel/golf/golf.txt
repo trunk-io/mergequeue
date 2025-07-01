@@ -2966,7 +2966,6 @@ glassed
 guildsmen
 geomancy
 garnered
-grumbled
 gushingness
 gauchest
 gaggle
@@ -4543,6 +4542,7 @@ greyish
 guadalcazarite
 graphometry
 gagger
+grumbled
 grinter
 guardrail
 garotter
