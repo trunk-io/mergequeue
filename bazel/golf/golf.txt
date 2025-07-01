@@ -3886,6 +3886,7 @@ garrisons
 glittered
 gynaecocratic
 geneal
+granary
 gastrochaena
 gigawatt
 gutser
@@ -7859,7 +7860,6 @@ gouged
 geochemistry
 guidelines
 graphitoidal
-granary
 greases
 glecoma
 gorst
