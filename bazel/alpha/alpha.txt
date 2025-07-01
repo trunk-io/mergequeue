@@ -9967,7 +9967,6 @@ artiller
 arrival
 acridid
 amberjacks
-atraumatic
 allege
 afraidness
 attachers
@@ -24631,6 +24630,7 @@ ambage
 adventureship
 avenges
 avenging
+atraumatic
 aveny
 adenoiditis
 avenida
