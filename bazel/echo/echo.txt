@@ -2969,7 +2969,6 @@ elinguate
 enfield
 eleatic
 eleoblast
-eradiation
 evaluate
 efflorescence
 extern
@@ -14031,6 +14030,7 @@ exordize
 emeus
 endothecia
 electromotive
+eradiation
 enthrallingly
 enteroclisis
 epidemy
