@@ -1716,6 +1716,7 @@ glessite
 glass
 guesses
 gamesman
+gunstocker
 guernseys
 gastropexy
 gastrophile
@@ -10635,7 +10636,6 @@ gulches
 gunsmithing
 grossification
 grank
-gunstocker
 geronto
 glycyphyllin
 grantee
