@@ -2476,6 +2476,7 @@ binotic
 bigram
 baresthesia
 bottom
+bombings
 begod
 busies
 brashness
@@ -10003,7 +10004,6 @@ bivocal
 briton
 bossism
 bivocalized
-bombings
 bivoluminous
 bivouaced
 bivouacked
