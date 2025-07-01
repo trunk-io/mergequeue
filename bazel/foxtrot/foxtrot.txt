@@ -2727,7 +2727,6 @@ fortissimi
 fylfots
 fertilizational
 funeral
-fallowed
 fantoccini
 foremelt
 foghorns
@@ -6462,6 +6461,7 @@ fairs
 fingerwise
 fibrinolysis
 fungi
+fallowed
 fistulariidae
 flapjack
 fluorotic
