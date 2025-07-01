@@ -3868,7 +3868,6 @@ electrotonus
 extraboldface
 eminencies
 evendown
-exterminating
 eminent
 easternized
 esperance
@@ -9214,6 +9213,7 @@ enleague
 ermines
 epiloguize
 ectoenzyme
+exterminating
 ectocinerea
 encolor
 erne
