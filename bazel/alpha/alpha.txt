@@ -6663,7 +6663,6 @@ autogiros
 aimee
 artize
 aimer
-anc
 ampitheater
 alkaliferous
 accredits
@@ -10085,6 +10084,7 @@ alumin
 attirement
 aspirin
 amoraic
+anc
 aggadic
 ambodexter
 adjutage
