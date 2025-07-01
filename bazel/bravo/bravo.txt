@@ -274,7 +274,6 @@ bacillarieae
 bacillariophyta
 beroe
 bacilli
-bacillian
 bacillicidal
 bacillicidic
 bacilliform
@@ -13140,6 +13139,7 @@ beadman
 brucite
 borosalicylic
 bywalk
+bacillian
 borotungstate
 borough
 bouquetin
