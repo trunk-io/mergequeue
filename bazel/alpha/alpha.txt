@@ -7529,7 +7529,6 @@ albuminone
 alepot
 alloplasm
 albuminorrhea
-albuminoscope
 acari
 acanthoma
 abyssinian
@@ -15209,6 +15208,7 @@ atomies
 antifire
 antiflash
 antiecclesiastically
+albuminoscope
 antiflattering
 antiflatulent
 antiflux
