@@ -971,7 +971,6 @@ gerodontology
 granddads
 gastrolobium
 gundi
-gnathobase
 gramercy
 gouge
 greasebush
@@ -9100,6 +9099,7 @@ gelseminic
 gummers
 grinders
 gobonated
+gnathobase
 grummel
 grandiose
 galligaskins
