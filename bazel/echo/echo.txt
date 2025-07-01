@@ -477,6 +477,7 @@ evector
 ecclesia
 epicarp
 enumerable
+eulachan
 eucommia
 ecclesiarch
 ecclesiarchy
@@ -10784,7 +10785,6 @@ enwraps
 elicitory
 equiformal
 egriot
-eulachan
 exhibiters
 embedder
 epornitic
