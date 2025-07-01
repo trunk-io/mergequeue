@@ -909,7 +909,6 @@ galerite
 garnishable
 grittiness
 galt
-gametophoric
 gated
 gnashes
 glycaemia
@@ -8063,6 +8062,7 @@ gulping
 granulary
 guidebooks
 gonagra
+gametophoric
 glyoxalin
 gobs
 genically
