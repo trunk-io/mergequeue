@@ -163,7 +163,6 @@ gamboges
 grandson
 glassworm
 gerontocratic
-gag
 garoted
 glamour
 greyhen
@@ -1162,6 +1161,7 @@ grogs
 grift
 groatsworth
 glutinate
+gag
 glyptographer
 gamolepis
 gaslights
