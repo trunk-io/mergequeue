@@ -11741,7 +11741,6 @@ examinable
 eglateres
 examinant
 exocannibalism
-enscrolled
 examinatory
 endochrome
 encumbering
@@ -13506,6 +13505,7 @@ equipollence
 ensnares
 examine
 elephantous
+enscrolled
 erotology
 exteriorization
 electrocauterization
