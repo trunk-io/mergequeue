@@ -800,7 +800,6 @@ farrandly
 fanciless
 foliicolous
 forestaff
-fragrance
 fallows
 fandangos
 fandoms
@@ -8536,6 +8535,7 @@ flacourtia
 feedboxes
 flapped
 foreanswer
+fragrance
 forehatchway
 fenceful
 flusterate
