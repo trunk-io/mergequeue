@@ -1986,7 +1986,6 @@ foreknower
 familiarizingly
 falsify
 fenouillet
-falsum
 fone
 foursquarely
 feds
@@ -4041,6 +4040,7 @@ frontlessness
 formability
 fayalites
 fibration
+falsum
 flukewort
 furcula
 forestalled
