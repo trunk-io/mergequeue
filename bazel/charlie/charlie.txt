@@ -7291,6 +7291,7 @@ clamors
 canalized
 centrifugaller
 cladoceran
+checkpoint
 centrifugate
 centrifuge
 centrifugence
@@ -9641,7 +9642,6 @@ chiotilla
 checkmating
 cautioning
 circumferences
-checkpoint
 checkpointed
 checkpointing
 combmaking
