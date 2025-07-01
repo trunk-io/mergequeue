@@ -3949,7 +3949,6 @@ elkhound
 embroglio
 empale
 empalers
-empaling
 eyepit
 empall
 exhilaratory
@@ -4857,6 +4856,7 @@ escapable
 epidermatoid
 embryogenetic
 engraven
+empaling
 eria
 eperva
 eupepticism
