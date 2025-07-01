@@ -9671,7 +9671,6 @@ esophagoplasty
 embodiment
 esophagoscopy
 esophagotome
-endodermal
 exploits
 earthshine
 eremacausis
@@ -10721,6 +10720,7 @@ eugeny
 ecrasite
 expeditate
 entwine
+endodermal
 excitory
 endocytosis
 estragon
