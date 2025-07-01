@@ -4617,6 +4617,7 @@ bulletproofed
 bankfull
 bedehouse
 byrewards
+beswelter
 bullrushes
 bedehouses
 balustrade
@@ -7277,7 +7278,6 @@ bestuds
 bescreens
 besully
 beswarm
-beswelter
 bisque
 burkes
 bethuel
