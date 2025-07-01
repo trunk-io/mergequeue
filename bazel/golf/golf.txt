@@ -2644,7 +2644,6 @@ granularity
 geek
 genip
 genyplasty
-glaistig
 gastroduodenostomies
 glashan
 globularness
@@ -5875,6 +5874,7 @@ glycosidase
 gawney
 gipsyweed
 glucoses
+glaistig
 glances
 glucoside
 goshawk
