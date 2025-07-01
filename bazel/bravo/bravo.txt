@@ -1893,7 +1893,6 @@ bishoplike
 biostatics
 bougeron
 bandit
-beshrew
 bretwaldadom
 brooded
 branle
@@ -9774,6 +9773,7 @@ bistred
 beknights
 basiating
 bemixing
+beshrew
 bathhouses
 bystreet
 bystreets
