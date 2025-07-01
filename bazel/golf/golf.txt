@@ -612,6 +612,7 @@ glockenspiels
 gravities
 glossopalatine
 grieben
+gelada
 galliots
 goulashes
 gurnets
@@ -8423,7 +8424,6 @@ gaylussite
 gravitations
 grudgers
 geotaxis
-gelada
 glossingly
 gov
 ginglymoarthrodial
