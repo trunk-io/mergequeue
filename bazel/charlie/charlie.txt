@@ -2558,6 +2558,7 @@ candlerent
 concealed
 candlers
 casework
+coadjutant
 candles
 collaborated
 candleshine
@@ -17199,7 +17200,6 @@ chemotherapeutic
 cohesive
 copiable
 coadjudicator
-coadjutant
 campement
 coadjute
 calculagraph
