@@ -1795,6 +1795,7 @@ ciceronize
 camaca
 collochromate
 circularizing
+casebook
 camachile
 camay
 camaieu
@@ -4341,7 +4342,6 @@ chintziness
 casco
 cargason
 campulitropal
-casebook
 cargoes
 cargos
 chenopodiaceae
