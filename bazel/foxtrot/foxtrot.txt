@@ -3260,6 +3260,7 @@ fairyland
 frosh
 fickle
 fruits
+fortin
 fiches
 findjan
 feracious
@@ -8464,7 +8465,6 @@ foresinger
 formelt
 filmsetter
 foreannouncement
-fortin
 frondesce
 factorized
 formatter
