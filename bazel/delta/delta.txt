@@ -8473,7 +8473,6 @@ dials
 ds
 describable
 dithalous
-duopsony
 dialuric
 diamagnet
 diamagnetic
@@ -12997,6 +12996,7 @@ drupal
 downwith
 decasyllables
 disordinance
+duopsony
 disordinate
 devastator
 disconsider
