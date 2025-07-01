@@ -19966,7 +19966,6 @@ acle
 armouchiquois
 anopisthographic
 ammine
-armour
 armourbearer
 avalanched
 adossed
@@ -24575,6 +24574,7 @@ ambergrease
 actinophryan
 avalanche
 amantadine
+armour
 avalanches
 avalanching
 assortive
