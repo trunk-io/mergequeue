@@ -8695,6 +8695,7 @@ equipages
 expositions
 equiparation
 equipartisan
+epiglottal
 eggcrate
 endnotes
 equipedal
@@ -11133,7 +11134,6 @@ egoity
 exulceratory
 ekacaesium
 epistemolog
-epiglottal
 extravasation
 eurytus
 erythrolysin
