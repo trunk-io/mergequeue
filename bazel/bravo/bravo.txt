@@ -1911,7 +1911,6 @@ bubonalgia
 bandog
 bandanas
 bergama
-bandogs
 barken
 bandoleer
 burlesquely
@@ -15653,6 +15652,7 @@ broadsides
 breakfront
 branchiosauria
 broadsiding
+bandogs
 broadspread
 broadsword
 bejig
