@@ -4999,7 +4999,6 @@ aeroscepsy
 aurum
 altumal
 aeroscepsis
-aeroscopy
 aerose
 aerosolization
 alchera
@@ -6142,6 +6141,7 @@ aus
 aroeira
 agnations
 amphi
+aeroscopy
 agnel
 acetobenzoic
 agnification
