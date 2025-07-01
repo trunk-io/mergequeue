@@ -6719,6 +6719,7 @@ cedillas
 ceding
 cedis
 cosheath
+cordelier
 chromule
 cedrat
 conglution
@@ -28772,7 +28773,6 @@ catenary
 cres
 cresc
 comparativeness
-cordelier
 crescendo
 crescendoing
 crescendos
