@@ -16580,6 +16580,7 @@ clockmaking
 crewer
 clocksmith
 clockwatcher
+coccidae
 clockwise
 couter
 clockworked
@@ -17638,7 +17639,6 @@ coccerin
 corr
 coccic
 chrisoms
-coccidae
 coagency
 coccidial
 cutikin
