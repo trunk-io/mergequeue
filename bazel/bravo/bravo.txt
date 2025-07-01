@@ -875,6 +875,7 @@ builders
 bagios
 bedrenching
 babishness
+banjore
 beadlery
 biacromial
 bagmaker
@@ -6815,7 +6816,6 @@ barnumize
 berskin
 balize
 berhyme
-banjore
 bert
 blowhole
 bugshas
