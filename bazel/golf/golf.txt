@@ -1255,7 +1255,6 @@ gapper
 guib
 grimaces
 garran
-globelet
 granage
 ged
 gavall
@@ -6639,6 +6638,7 @@ generational
 gong
 grenelle
 gekkota
+globelet
 glanced
 gonomery
 gild
