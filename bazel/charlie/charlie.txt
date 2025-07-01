@@ -4769,7 +4769,6 @@ contested
 carpeting
 carpetlayer
 carpetmaking
-clubability
 captivation
 carpetmonger
 carpets
@@ -17737,6 +17736,7 @@ cochleariform
 cochleiform
 cyclophrenia
 comedy
+clubability
 creationistic
 cochleleae
 choregraphy
