@@ -1468,7 +1468,6 @@ foodlessness
 fatsia
 formy
 fatsoes
-fermiums
 fatalize
 fusilly
 frequentage
@@ -8802,6 +8801,7 @@ flunks
 frailes
 fetchers
 flotillas
+fermiums
 fidelity
 fossage
 fanlight
