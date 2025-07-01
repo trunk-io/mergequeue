@@ -5594,7 +5594,6 @@ escapeway
 embryulcus
 enflower
 equalization
-epidendrum
 elaeopten
 enfold
 enfolded
@@ -13845,6 +13844,7 @@ extracostal
 ethnozoological
 equipotentiality
 eelpot
+epidendrum
 epidiplosis
 equivocation
 evaporize
