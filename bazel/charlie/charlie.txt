@@ -4229,7 +4229,6 @@ chervante
 chinner
 chopin
 cardmaking
-chapbooks
 cardo
 cardol
 cardona
@@ -5332,6 +5331,7 @@ cassimere
 caurus
 cassina
 cassinian
+chapbooks
 cassinos
 cassioberry
 cassiope
