@@ -1426,7 +1426,6 @@ gnosticity
 gadget
 germinate
 guild
-garbages
 gulfy
 gainward
 glossarial
@@ -6035,6 +6034,7 @@ gnathonically
 grayware
 guising
 gunate
+garbages
 geyerite
 grislier
 glovemen
