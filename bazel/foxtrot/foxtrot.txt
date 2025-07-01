@@ -2621,7 +2621,6 @@ feedsman
 frailties
 fortuitus
 fiduciaries
-fanti
 fimbriatum
 flappy
 fluidification
@@ -8141,6 +8140,7 @@ flexo
 flatcaps
 faithful
 featurette
+fanti
 fuchsias
 forevers
 flectionless
