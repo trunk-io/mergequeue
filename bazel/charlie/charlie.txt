@@ -3317,7 +3317,6 @@ capnomancy
 capnomor
 cirripede
 cowgram
-connivant
 celli
 capo
 chaufers
@@ -5302,6 +5301,7 @@ coachwood
 cassata
 coalitions
 cassation
+connivant
 caveats
 cerin
 cassegrain
