@@ -1614,7 +1614,6 @@ euphonetics
 enablers
 eyewitnesses
 egomania
-endoabdominal
 egomaniacal
 elodea
 empiricist
@@ -9774,6 +9773,7 @@ essay
 embargo
 empyrical
 envapor
+endoabdominal
 essayed
 essayism
 extraorganismal
