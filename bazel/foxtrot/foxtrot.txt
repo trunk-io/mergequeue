@@ -3808,6 +3808,7 @@ flippantness
 faultlessly
 fortressed
 frizettes
+featherlight
 furoate
 fibula
 fellmonger
@@ -9515,7 +9516,6 @@ flatbottom
 floatman
 florets
 fathering
-featherlight
 fibdom
 fomites
 filiated
