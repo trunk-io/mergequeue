@@ -4676,7 +4676,6 @@ gauping
 geisothermal
 glycerate
 gigged
-galchic
 gelatia
 generis
 gastraeas
@@ -5300,6 +5299,7 @@ glaived
 gourds
 gonidia
 glomerulate
+galchic
 gastrulae
 galactosemic
 galactoma
