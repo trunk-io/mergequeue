@@ -5036,6 +5036,7 @@ evens
 entomb
 enqueued
 excuses
+extrasolar
 encumbrances
 eucosmid
 endlichite
@@ -9583,7 +9584,6 @@ entrust
 eugenesis
 extravasated
 epimorphism
-extrasolar
 exempt
 envois
 esuriently
