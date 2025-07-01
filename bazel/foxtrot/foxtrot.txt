@@ -555,6 +555,7 @@ fresher
 forfeiter
 funambulant
 folium
+forepassed
 falcons
 falculate
 falcunculus
@@ -5642,7 +5643,6 @@ flightier
 foster
 facund
 firebolt
-forepassed
 fireboot
 fructuose
 flyless
