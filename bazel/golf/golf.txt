@@ -501,6 +501,7 @@ gluconokinase
 geomorphology
 guanyl
 geographic
+geotonus
 gowiddie
 golem
 gruffing
@@ -10226,7 +10227,6 @@ gyrectomies
 galluses
 groundsel
 gonk
-geotonus
 galusha
 gravimetrical
 guilfat
