@@ -6999,7 +6999,6 @@ gimbaled
 gramash
 gamete
 greenweed
-gossipmonger
 genteelism
 geomantical
 genyantrum
@@ -9566,6 +9565,7 @@ gesticularious
 galactopoiesis
 geophones
 granted
+gossipmonger
 gazed
 gynecologist
 galactoscope
