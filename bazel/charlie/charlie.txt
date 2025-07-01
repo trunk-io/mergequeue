@@ -999,6 +999,7 @@ caprelline
 calappidae
 calas
 colourtype
+conenoses
 cohoba
 calascione
 cydonia
@@ -21845,7 +21846,6 @@ contrasting
 conelrad
 continentalism
 conemaugh
-conenoses
 cyanogens
 cymule
 conepatl
