@@ -2216,7 +2216,6 @@ camponotus
 coteline
 counterhammering
 campos
-campout
 circumfusile
 capotes
 campshed
@@ -26199,6 +26198,7 @@ conatural
 calorimeter
 cosmotellurian
 cupola
+campout
 cysteines
 cosmotheist
 cosmozoans
