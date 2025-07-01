@@ -8601,7 +8601,6 @@ champak
 chamfering
 characterstring
 champaka
-conducts
 clubridden
 champaks
 cholines
@@ -21852,6 +21851,7 @@ conepatl
 conepatls
 calahan
 capsicin
+conducts
 circumnutatory
 cones
 conestoga
