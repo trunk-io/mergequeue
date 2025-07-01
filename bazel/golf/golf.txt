@@ -906,6 +906,7 @@ gelatinate
 gambia
 gidyea
 galerite
+gallnuts
 garnishable
 grittiness
 galt
@@ -10151,7 +10152,6 @@ git
 grown
 gabs
 glochidium
-gallnuts
 guide
 gigglement
 guideboard
