@@ -6555,7 +6555,6 @@ foreworn
 foetid
 flutist
 frenchman
-firebed
 forecover
 flutterboard
 furnacer
@@ -11703,6 +11702,7 @@ foredispose
 fas
 friarhood
 fossicked
+firebed
 far
 foretellableness
 forsakenly
