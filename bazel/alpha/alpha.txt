@@ -5892,7 +5892,6 @@ agglutinatively
 aarrghh
 agamobium
 achieved
-agglutinize
 anathematization
 agglutinogen
 agglutinoscope
@@ -21258,6 +21257,7 @@ acalyptrata
 abscess
 asilidae
 asyllabia
+agglutinize
 asyllabical
 acronycta
 archeostome
