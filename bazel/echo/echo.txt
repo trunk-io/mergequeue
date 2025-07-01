@@ -479,7 +479,6 @@ epicarp
 enumerable
 eucommia
 ecclesiarch
-ecclesiarchy
 extoll
 ecclesiast
 encephalomata
@@ -2279,6 +2278,7 @@ ester
 equality
 electrifiers
 europasian
+ecclesiarchy
 emplacement
 enaliornis
 echoingly
