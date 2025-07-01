@@ -11202,6 +11202,7 @@ chits
 chittack
 chitted
 chitter
+commandos
 chitterling
 chutney
 chitters
@@ -20013,7 +20014,6 @@ commandoes
 ceraunomancy
 commandoman
 canfieldite
-commandos
 colove
 cheery
 commandry
