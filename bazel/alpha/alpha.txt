@@ -8749,6 +8749,7 @@ abnormalizing
 abscind
 accusatival
 aliya
+artificial
 alleviating
 alleviatingly
 alleviative
@@ -20726,7 +20727,6 @@ artifactual
 artifactually
 artifex
 aerobiology
-artificial
 adverted
 antipragmatically
 ambach
