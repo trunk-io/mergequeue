@@ -262,7 +262,6 @@ bacile
 bacillaceae
 brarow
 bacillariaceae
-baldric
 buried
 blotless
 balancedness
@@ -1316,6 +1315,7 @@ barbed
 balases
 balat
 belying
+baldric
 basellaceous
 balatron
 benzaldiphenyl
