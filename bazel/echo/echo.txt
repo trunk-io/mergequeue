@@ -4925,7 +4925,6 @@ eveck
 extradictable
 endamoebas
 endamoebidae
-endangitis
 endarchies
 expertised
 endarteteria
@@ -11339,6 +11338,7 @@ eagles
 evaporimeter
 electrocute
 ecdysons
+endangitis
 evaporitic
 evapotranspiration
 ecaudata
