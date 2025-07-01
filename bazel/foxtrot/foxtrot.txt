@@ -3865,7 +3865,6 @@ foxer
 filmstrips
 filo
 filose
-furnitureless
 foreflap
 fils
 flexibilty
@@ -11618,6 +11617,7 @@ febrifugal
 forlornly
 for
 fetch
+furnitureless
 fioretti
 frough
 frack
