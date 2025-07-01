@@ -2954,7 +2954,6 @@ flatfish
 forewing
 feign
 foxship
-frisettes
 formicarium
 fuzz
 frabjously
@@ -5264,6 +5263,7 @@ foreturn
 fortemente
 fratcher
 flavoriness
+frisettes
 falangist
 fitful
 flaminian
