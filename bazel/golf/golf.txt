@@ -583,6 +583,7 @@ gowan
 gladding
 gauderies
 gallicizer
+gerate
 galliform
 gomphrena
 gorilloid
@@ -3017,7 +3018,6 @@ glom
 grypanian
 gangliate
 gluttonized
-gerate
 gaoler
 geomorphologically
 golliwog
