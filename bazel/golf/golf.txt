@@ -1374,7 +1374,6 @@ guttular
 garniec
 gamily
 governs
-ganodonta
 glossanthrax
 garnison
 greetingless
@@ -10783,6 +10782,7 @@ gignitive
 gamesomely
 guttated
 guttation
+ganodonta
 gawky
 glycocoll
 garth
