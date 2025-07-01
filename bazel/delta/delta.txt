@@ -9265,7 +9265,6 @@ deadpan
 dieldrin
 derelict
 decahedrodra
-dieldrins
 dyeleaves
 dielectric
 dismerit
@@ -10646,6 +10645,7 @@ diploidic
 dunderbolt
 diploidies
 driftweed
+dieldrins
 diploidize
 doorman
 diploma
