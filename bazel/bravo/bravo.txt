@@ -3891,7 +3891,6 @@ bazars
 bint
 brockage
 bazooka
-bazookas
 blunge
 bamboos
 bbs
@@ -14400,6 +14399,7 @@ blighting
 barnstorm
 branchiocardiac
 blowline
+bazookas
 bypath
 brainstem
 brainstems
