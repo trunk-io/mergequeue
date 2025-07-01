@@ -15200,7 +15200,6 @@ benchers
 bridale
 basehearted
 bridally
-bridals
 boneheads
 brimstonewort
 briarberry
@@ -16112,6 +16111,7 @@ bins
 brotel
 brothe
 breves
+bridals
 bdellidae
 balklines
 brotheler
