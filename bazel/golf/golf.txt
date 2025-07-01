@@ -1777,6 +1777,7 @@ gulsach
 glycine
 geodesia
 gastrovascular
+gyros
 geryoniidae
 gthite
 gulleries
@@ -2078,7 +2079,6 @@ guarabu
 gazebo
 gazeboes
 guestship
-gyros
 grampus
 gen
 glumiferous
