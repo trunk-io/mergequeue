@@ -4812,7 +4812,6 @@ bollix
 brazenface
 bikh
 beshrouded
-bolometer
 bedstraw
 bedstraws
 bedstring
@@ -16606,6 +16605,7 @@ bardlet
 bulanda
 blacking
 brevicipitid
+bolometer
 buchanite
 baronies
 bucharest
