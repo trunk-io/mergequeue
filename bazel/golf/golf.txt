@@ -3552,7 +3552,6 @@ gypsine
 galilei
 genarcha
 ghazi
-gweducs
 guttatim
 gogos
 ghees
@@ -4855,6 +4854,7 @@ guaranteeing
 gleam
 glozes
 gyrotheca
+gweducs
 gimme
 grandstanding
 gladiola
