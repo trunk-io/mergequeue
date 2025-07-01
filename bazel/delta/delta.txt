@@ -2568,7 +2568,6 @@ dynasty
 declinator
 declinatory
 declines
-declining
 directrices
 declivent
 derive
@@ -15155,6 +15154,7 @@ dispensator
 discotheques
 darkeners
 dowdiness
+declining
 doctorship
 dogmatize
 dogplate
