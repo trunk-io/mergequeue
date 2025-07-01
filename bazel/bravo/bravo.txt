@@ -1409,6 +1409,7 @@ balefires
 barmbrack
 balefully
 branned
+bearing
 baleys
 blanketed
 baleise
@@ -14646,7 +14647,6 @@ bloc
 bullwhack
 brassages
 brassard
-bearing
 brenthis
 briefing
 brassart
