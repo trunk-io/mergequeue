@@ -3446,7 +3446,6 @@ barabbas
 boughpot
 bef
 bastite
-brushfire
 brigade
 basto
 baguios
@@ -5563,6 +5562,7 @@ bejewelling
 bejewels
 backstamp
 buttonholed
+brushfire
 bejezebel
 bejuco
 bontebucks
