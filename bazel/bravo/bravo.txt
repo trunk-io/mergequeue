@@ -7520,6 +7520,7 @@ bardism
 belayer
 beveller
 bookbinder
+bigam
 bardelle
 biathlon
 bedgery
@@ -9720,7 +9721,6 @@ bissabol
 birdmouthed
 bacchante
 byssal
-bigam
 bissellia
 bissextile
 bissextus
