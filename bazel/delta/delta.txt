@@ -10508,7 +10508,6 @@ damask
 discolith
 devinct
 disinflame
-dow
 disobliging
 douzainier
 duenna
@@ -14030,6 +14029,7 @@ dolabra
 dishboard
 disannul
 disciplinant
+dow
 distorter
 distorters
 distress
