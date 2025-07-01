@@ -4348,7 +4348,6 @@ graphicalness
 grylli
 gunky
 guz
-glottochronology
 gelofer
 galops
 ginglymostomoid
@@ -7687,6 +7686,7 @@ geography
 genetic
 gemul
 gabbed
+glottochronology
 gonystylaceae
 goldbugs
 grantable
