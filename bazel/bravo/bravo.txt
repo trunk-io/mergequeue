@@ -2411,7 +2411,6 @@ betowel
 blinkering
 bromoiodide
 bardolph
-barbion
 brotherhood
 bards
 bardship
@@ -13626,6 +13625,7 @@ begladding
 binning
 beclouded
 blepharophyma
+barbion
 blockaders
 bunglings
 brantail
