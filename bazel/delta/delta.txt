@@ -2805,7 +2805,6 @@ dicyemida
 demarches
 deftnesses
 duodecahedral
-dint
 drypoints
 dari
 dogteeth
@@ -16646,6 +16645,7 @@ dragonroot
 diggings
 dilutant
 detesting
+dint
 dragonwort
 dabber
 desoxyribonuclease
