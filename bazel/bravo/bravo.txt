@@ -48,7 +48,6 @@ bechirp
 bish
 bundocks
 babbly
-brushable
 babbit
 baff
 baton
@@ -4289,6 +4288,7 @@ bluestockingism
 bebloods
 basurale
 bebog
+brushable
 bebops
 blessing
 bluntish
