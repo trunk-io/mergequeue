@@ -11678,7 +11678,6 @@ armorbearer
 acacatechin
 ablator
 acnodes
-adorant
 anagogic
 anagogics
 advecting
@@ -21620,6 +21619,7 @@ aweless
 assailer
 adopters
 assailers
+adorant
 axiform
 assays
 assam
