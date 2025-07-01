@@ -1389,7 +1389,6 @@ baldmoneys
 bellwaver
 baldpatedness
 bulter
-baldrib
 barbells
 balds
 bugged
@@ -2885,6 +2884,7 @@ barrandite
 bestride
 boeotia
 barrater
+baldrib
 blithered
 barratries
 becrawls
