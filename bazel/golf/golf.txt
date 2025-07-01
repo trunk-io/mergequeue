@@ -2743,7 +2743,6 @@ guzmania
 grangousier
 garblings
 grandisonous
-gazettal
 grigris
 gormless
 glottalite
@@ -8168,6 +8167,7 @@ graphically
 gracy
 graphicness
 gigantically
+gazettal
 glamourously
 glutamates
 glorioso
