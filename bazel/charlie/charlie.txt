@@ -14123,7 +14123,6 @@ cyphered
 cipherer
 cipherhood
 ciphering
-ciphers
 ciphertexts
 carbonated
 cyphomandra
@@ -20457,6 +20456,7 @@ companable
 companage
 counterword
 cerebroma
+ciphers
 cannels
 company
 companias
