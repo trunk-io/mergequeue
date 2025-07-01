@@ -1489,7 +1489,6 @@ electroshocks
 exposal
 embolium
 embarrased
-effund
 epicene
 empathic
 etui
@@ -3091,6 +3090,7 @@ endogenies
 echinorhinidae
 etheriidae
 entombed
+effund
 epitomised
 euchroic
 enmew

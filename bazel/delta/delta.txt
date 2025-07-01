@@ -6935,7 +6935,6 @@ despatches
 deoxidise
 dualizing
 despatching
-despecialization
 disembarrassed
 dispute
 domineer
@@ -12057,6 +12056,7 @@ daint
 diammine
 decimus
 disendow
+despecialization
 demideity
 dalasi
 diallelon
