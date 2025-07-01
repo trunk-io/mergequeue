@@ -2555,6 +2555,7 @@ bactrian
 backtalk
 barile
 barilla
+bobtail
 bleeder
 blackie
 basiglandular
@@ -11773,7 +11774,6 @@ biology
 beringleted
 backed
 bobstays
-bobtail
 bobtailed
 bothria
 bobwhites
