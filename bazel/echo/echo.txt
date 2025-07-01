@@ -6059,7 +6059,6 @@ evenminded
 empiry
 eyrie
 estoque
-expromissor
 expelling
 endosarcs
 expire
@@ -7357,6 +7356,7 @@ equerryship
 epagomenous
 endeavorer
 electro
+expromissor
 exception
 extremital
 epalpebrate
