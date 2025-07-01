@@ -147,7 +147,6 @@ cruors
 cistaceae
 cablelaid
 cableless
-cablelike
 cerberic
 chryseis
 cables
@@ -4027,6 +4026,7 @@ caracter
 compartmental
 crystalloluminescence
 carcinolysin
+cablelike
 carcinological
 carcinoma
 carcinomas
