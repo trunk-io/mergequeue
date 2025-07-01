@@ -4926,7 +4926,6 @@ fisheries
 formalness
 followable
 fulgora
-flails
 furoic
 futile
 fraughtage
@@ -11228,6 +11227,7 @@ forevision
 fayence
 factable
 fatherkin
+flails
 forepayment
 funkiness
 frontispieces
