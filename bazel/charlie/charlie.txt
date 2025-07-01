@@ -16968,7 +16968,6 @@ chiccory
 coexists
 crosswort
 clubroom
-casebooks
 clubroots
 clubs
 clubstart
@@ -26988,6 +26987,7 @@ critteria
 cartilaginean
 counterpaned
 countersuggestion
+casebooks
 counterparry
 counterpart
 counterpassant
