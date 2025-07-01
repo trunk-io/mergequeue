@@ -4352,6 +4352,7 @@ bromhydric
 browband
 bilker
 blockishness
+barquest
 beche
 becheck
 befool
@@ -12831,7 +12832,6 @@ betalk
 bibless
 boomkin
 boomkins
-barquest
 bootes
 baseboard
 burglary
