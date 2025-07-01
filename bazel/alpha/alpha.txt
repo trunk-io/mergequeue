@@ -6489,7 +6489,6 @@ ahoy
 amaranthoid
 aholds
 ahom
-ahorse
 ahriman
 ahs
 ablare
@@ -15804,6 +15803,7 @@ antiphons
 assistants
 alloisomeric
 antiphrases
+ahorse
 antiphrastic
 antiphthisic
 amberiferous
