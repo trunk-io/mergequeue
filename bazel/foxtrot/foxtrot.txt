@@ -7431,7 +7431,6 @@ fasciculation
 fey
 flurriment
 falconers
-firefang
 footmen
 forwarder
 filicides
@@ -11673,6 +11672,7 @@ forepale
 foxskins
 flameholder
 fructiform
+firefang
 ferrocerium
 fresne
 fluorochrome
