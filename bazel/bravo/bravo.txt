@@ -3970,7 +3970,6 @@ bounteousness
 becrawl
 beaconless
 bicycles
-beslur
 beacons
 beadeye
 barbecue
@@ -5486,6 +5485,7 @@ behoof
 broadmouth
 baronets
 behoovefulness
+beslur
 barrier
 behooves
 behooving
