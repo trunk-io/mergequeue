@@ -3735,7 +3735,6 @@ delapse
 dehydrochlorinase
 dinumeration
 dowlas
-dehydrochlorinate
 dehydrochlorination
 daytale
 dehydrocorticosterone
@@ -10971,6 +10970,7 @@ disaccomodate
 dromons
 disaccredit
 dobsonflies
+dehydrochlorinate
 dustcloths
 droplike
 disunionism
