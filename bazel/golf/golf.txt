@@ -1799,7 +1799,6 @@ gatekeeper
 grizel
 grassy
 gesso
-gabbier
 gatekeepers
 glos
 grasses
@@ -5683,6 +5682,7 @@ girdlestead
 greedier
 grandnephews
 glossemic
+gabbier
 glaciometer
 gorilline
 goitered
