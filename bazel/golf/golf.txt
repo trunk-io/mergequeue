@@ -3337,7 +3337,6 @@ gerontic
 generalships
 gondolier
 gnatling
-gorkun
 galbe
 glaciable
 gyroscopic
@@ -4615,6 +4614,7 @@ gowkit
 gametogony
 gaonic
 gasconade
+gorkun
 gummosis
 galliards
 gamori
