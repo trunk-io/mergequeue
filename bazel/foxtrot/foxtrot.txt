@@ -2343,7 +2343,6 @@ fibrosarcoma
 filicales
 flotation
 foreface
-flagelliferous
 fenestrae
 foreword
 fluoresced
@@ -7422,6 +7421,7 @@ furan
 forereport
 forceless
 forcelessness
+flagelliferous
 forcelet
 futhark
 fasciolar
