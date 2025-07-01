@@ -3045,7 +3045,6 @@ bimetal
 bedspreads
 bakerite
 ballon
-bestials
 brahman
 bacterization
 breachy
@@ -8598,6 +8597,7 @@ brining
 bastinading
 billety
 billets
+bestials
 bassaris
 berylline
 brauneberger
