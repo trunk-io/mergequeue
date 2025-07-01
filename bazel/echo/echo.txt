@@ -10150,7 +10150,6 @@ ethenoid
 ethenol
 ensorcelize
 ebb
-explosives
 etheostominae
 elytroid
 etheostomoid
@@ -11868,6 +11867,7 @@ engracing
 excavator
 enlace
 excave
+explosives
 eructated
 elutes
 exceeded
