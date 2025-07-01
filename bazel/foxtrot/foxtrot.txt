@@ -8465,7 +8465,6 @@ formelt
 filmsetter
 foreannouncement
 fortin
-frondesce
 factorized
 formatter
 father
@@ -11028,6 +11027,7 @@ fumishing
 friendliness
 fermented
 fumuli
+frondesce
 fungated
 fascias
 funambulate

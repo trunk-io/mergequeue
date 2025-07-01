@@ -3370,7 +3370,6 @@ doles
 dagos
 deturn
 defis
-deflagrable
 decolor
 disrestore
 dynagraph
@@ -9975,6 +9974,7 @@ debarred
 dimethylsulphoxide
 dislock
 dimethoxy
+deflagrable
 donatistical
 descents
 defatted
