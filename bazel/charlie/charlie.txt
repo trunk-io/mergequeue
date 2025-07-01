@@ -11706,7 +11706,6 @@ culrage
 circinal
 colorization
 cholelith
-cholelithiasis
 conchotome
 cholelithic
 cholelithotomy
@@ -23028,6 +23027,7 @@ consomm
 camels
 coimplicate
 consomme
+cholelithiasis
 consommes
 consonance
 consonancy
