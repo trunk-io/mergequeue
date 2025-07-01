@@ -3342,6 +3342,7 @@ definitiones
 disregards
 duplications
 definitions
+draftman
 definitise
 dekastere
 dormant
@@ -13265,7 +13266,6 @@ distempered
 dyspneas
 ducat
 determinator
-draftman
 diapensiaceae
 dorsula
 dorsocephalad
