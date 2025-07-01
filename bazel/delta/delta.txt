@@ -7848,7 +7848,6 @@ deckhands
 diadochokinesis
 dyothelism
 dil
-devour
 dorsad
 devourer
 devourers
@@ -13696,6 +13695,7 @@ dangered
 decentralizationist
 dandyishly
 drumbeating
+devour
 disjoins
 doucin
 degases
