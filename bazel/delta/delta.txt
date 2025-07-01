@@ -12673,7 +12673,6 @@ drate
 delegant
 dertrotheca
 defaultant
-descendentalist
 descrial
 dipl
 duplicidentate
@@ -18203,6 +18202,7 @@ downfallen
 depersonalize
 delights
 ditetragonal
+descendentalist
 dentatocostate
 diamagnetometer
 disfellowship
