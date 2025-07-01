@@ -10007,7 +10007,6 @@ bombings
 bivoluminous
 bivouaced
 bivouacked
-bubbled
 balaphon
 brawlys
 bodes
@@ -14373,6 +14372,7 @@ brachiferous
 braincase
 blastomycosis
 braincraft
+bubbled
 buckish
 bignonia
 befan
