@@ -14126,6 +14126,7 @@ antepalatal
 aliveness
 amphivorous
 auriga
+autocolony
 adjusts
 awesomeness
 agglutinogenic
@@ -23990,7 +23991,6 @@ autoclaving
 aspheric
 autocollimate
 autocollimators
-autocolony
 autocombustion
 autoconduction
 axmaster
