@@ -5073,7 +5073,6 @@ bilingual
 biocatalyst
 basenet
 befezzed
-beffroy
 beggaries
 broiderer
 befile
@@ -5233,6 +5232,7 @@ beworming
 boarcite
 basification
 breadboards
+beffroy
 barkeeps
 begar
 bandos
