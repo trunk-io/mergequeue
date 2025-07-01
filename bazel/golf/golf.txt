@@ -8570,6 +8570,7 @@ galago
 genethliacs
 gentlemanly
 grapnel
+gnomed
 gerb
 gouges
 glider
@@ -10650,7 +10651,6 @@ giganticness
 gargets
 guppies
 galee
-gnomed
 gur
 gabbing
 gastroperiodynia
