@@ -2838,7 +2838,6 @@ declarator
 decried
 desistive
 diathetic
-deerflys
 disulphonate
 decries
 decrying
@@ -14523,6 +14522,7 @@ desk
 dedition
 dodgeries
 decolonised
+deerflys
 dewfalls
 divided
 dividend
