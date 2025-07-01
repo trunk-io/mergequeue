@@ -12180,7 +12180,6 @@ excuser
 elytron
 endpoint
 exposure
-ellipse
 electrophysicist
 econometrical
 emboldened
@@ -13997,6 +13996,7 @@ eisegetic
 elaterist
 encoignures
 embryo
+ellipse
 emboitement
 epitoniidae
 embargoist
