@@ -1926,7 +1926,6 @@ frohlich
 fecundator
 fuligula
 feedwater
-fallow
 fecundity
 fewer
 falcinellus
@@ -11531,6 +11530,7 @@ ferruler
 ferricyanic
 fistic
 foreremembered
+fallow
 fab
 fluormeter
 fosset
