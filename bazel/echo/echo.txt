@@ -6574,7 +6574,6 @@ endostosis
 ephyra
 extratension
 entomophthora
-elaphodus
 endurant
 ended
 entangled
@@ -14168,6 +14167,7 @@ exudes
 enaena
 exuding
 exul
+elaphodus
 ethane
 epochally
 envenomization
