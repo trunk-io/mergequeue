@@ -5881,7 +5881,6 @@ deprecable
 deprecating
 doorbrand
 desolations
-diachoresis
 demeaning
 disconcert
 deprecative
@@ -7841,6 +7840,7 @@ dutchify
 doumas
 delthyria
 delates
+diachoresis
 deflectable
 dissertationist
 devotionally
