@@ -4478,6 +4478,7 @@ fantasies
 fishman
 floorward
 float
+flatuous
 frowzly
 feelable
 flossy
@@ -9794,7 +9795,6 @@ fatigability
 fishworm
 farfel
 fastiia
-flatuous
 fencers
 frescoed
 fraxinella
