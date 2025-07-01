@@ -911,7 +911,6 @@ flakes
 flavicant
 fluorogenic
 fulicine
-fumatories
 frictional
 fluoridated
 faltboats
@@ -7540,6 +7539,7 @@ foment
 feazes
 foredesignment
 foresummon
+fumatories
 forecastle
 forecastlehead
 five
