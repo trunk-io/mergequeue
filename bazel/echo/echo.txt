@@ -3740,7 +3740,6 @@ edificial
 exceeding
 embruing
 edulcorate
-enamellist
 elegiacs
 embruting
 embubble
@@ -13075,6 +13074,7 @@ elongate
 ergates
 enslave
 embassador
+enamellist
 eutaxite
 expressionable
 explications
