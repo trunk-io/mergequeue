@@ -3476,6 +3476,7 @@ causeuse
 comprehends
 craniovertebral
 capsella
+cmd
 calyptras
 capshore
 capsian
@@ -17100,7 +17101,6 @@ cluttery
 clutterment
 cm
 coinclude
-cmd
 catalecta
 cml
 cofferdams
