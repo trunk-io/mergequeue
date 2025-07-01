@@ -3032,6 +3032,7 @@ colander
 cantonal
 cantonalism
 crapelike
+crabweed
 cantoner
 cellocut
 cantoning
@@ -27883,7 +27884,6 @@ comeatable
 calotin
 conquians
 crabut
-crabweed
 coreid
 crabwise
 crabwood
