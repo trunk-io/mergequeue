@@ -5456,7 +5456,6 @@ castle
 cumacean
 castled
 conine
-castlelike
 clitocybe
 castles
 cortaderia
@@ -19071,6 +19070,7 @@ charonic
 collectivize
 collectivized
 collectivizes
+castlelike
 collectivizing
 collectivum
 cocrucify
