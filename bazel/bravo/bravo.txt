@@ -2861,7 +2861,6 @@ barrage
 barnmen
 banger
 brushland
-barraging
 bailer
 braca
 battener
@@ -13438,6 +13437,7 @@ botticelli
 backtracker
 bottlebrush
 beeriness
+barraging
 bedless
 broomer
 balkan
