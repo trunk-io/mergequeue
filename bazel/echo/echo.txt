@@ -4072,7 +4072,6 @@ ethological
 ecdysis
 energetistic
 excoct
-exogenous
 eellike
 epaulette
 engagement
@@ -11441,6 +11440,7 @@ everyman
 entanglement
 everywhen
 euahlayi
+exogenous
 excrementary
 escorting
 eicosane
