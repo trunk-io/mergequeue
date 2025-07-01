@@ -4262,6 +4262,7 @@ gouache
 graveclothes
 goatlike
 gregos
+gravitations
 gyrocompass
 gigantesque
 grousing
@@ -8420,7 +8421,6 @@ gratulation
 gandhara
 glycosuria
 gaylussite
-gravitations
 grudgers
 geotaxis
 gelada
