@@ -7213,6 +7213,7 @@ dehiscence
 detainee
 detaining
 disinfecter
+disable
 durwaun
 detainingly
 detar
@@ -10944,7 +10945,6 @@ decerebrize
 diruption
 dereference
 deployed
-disable
 denazify
 disabled
 doorplates
