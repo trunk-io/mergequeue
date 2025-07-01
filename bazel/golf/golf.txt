@@ -5098,7 +5098,6 @@ glali
 gnatflower
 glauconia
 glomera
-gentlehearted
 gnarred
 goldylocks
 gyps
@@ -5948,6 +5947,7 @@ geodesics
 gazogenes
 galactopathy
 ginkgoes
+gentlehearted
 geoemtry
 gastroparesis
 garreted
