@@ -850,6 +850,7 @@ bunters
 begoniaceae
 batterfang
 bauxites
+brontophobia
 bagful
 baggagemaster
 baggager
@@ -8186,7 +8187,6 @@ bewinter
 benzopinacone
 blimpish
 beardie
-brontophobia
 bash
 banishes
 buffalos
