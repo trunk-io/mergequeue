@@ -1873,6 +1873,7 @@ acetabularia
 acetabulous
 atheromas
 acetabulums
+assert
 acetacetic
 autopsic
 acetalize
@@ -21715,7 +21716,6 @@ antithet
 antiberiberin
 assents
 asseour
-assert
 asserta
 assertable
 asserted
