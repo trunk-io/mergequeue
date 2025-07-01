@@ -6309,6 +6309,7 @@ benthic
 barbar
 bagfuls
 benthonic
+brotel
 bevors
 benthoscope
 bemoat
@@ -16109,7 +16110,6 @@ brotany
 ban
 bloodstain
 bins
-brotel
 brothe
 breves
 bdellidae
