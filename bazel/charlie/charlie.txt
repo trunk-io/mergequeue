@@ -13232,7 +13232,6 @@ cycadofilices
 cannikins
 coronographic
 cycadophyta
-craniograph
 cyanochroic
 climbingfishes
 catchable
@@ -23879,6 +23878,7 @@ contrives
 control
 controling
 controllable
+craniograph
 controllably
 controller
 churner
