@@ -8939,7 +8939,6 @@ diceras
 dmod
 dicerous
 deriving
-disconnect
 dichapetalaceae
 desex
 diet
@@ -11528,6 +11527,7 @@ digredience
 dekaliter
 dishier
 diplodia
+disconnect
 deployments
 demandative
 disaccharid
