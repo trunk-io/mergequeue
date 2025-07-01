@@ -2980,7 +2980,6 @@ bedumb
 barsac
 backhatch
 becowarding
-bioassay
 blarneyer
 barstools
 bart
@@ -15290,6 +15289,7 @@ briefcase
 barramunda
 bandylegged
 blisterwort
+bioassay
 bohorok
 boisterously
 brieflessly
