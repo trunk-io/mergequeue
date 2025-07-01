@@ -3738,7 +3738,6 @@ embrues
 executive
 edificial
 exceeding
-embruing
 edulcorate
 enamellist
 elegiacs
@@ -6115,6 +6114,7 @@ epilator
 enlightenedly
 enlistments
 erasion
+embruing
 encomienda
 epagogic
 emotional
