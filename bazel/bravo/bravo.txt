@@ -2818,6 +2818,7 @@ barothermograph
 barothermohygrograph
 barotrauma
 bulgurs
+beachcomb
 bravest
 burbling
 barotraumas
@@ -8708,7 +8709,6 @@ binoxalate
 bimanous
 bradsot
 bodysurf
-beachcomb
 bournless
 bimanually
 breechloading
