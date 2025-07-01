@@ -6594,7 +6594,6 @@ empanel
 enrobe
 entasia
 eatings
-entasis
 extreat
 electrotautomerism
 emiction
@@ -14195,6 +14194,7 @@ endlong
 equidistance
 exportations
 exurge
+entasis
 exuscitate
 enlists
 effecters
