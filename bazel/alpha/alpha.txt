@@ -7756,6 +7756,7 @@ avianize
 ape
 alderling
 alderman
+ascertain
 alectoromorphous
 aldermanate
 aldermancy
@@ -20964,7 +20965,6 @@ ascensionist
 ascensions
 aizoaceae
 ascensive
-ascertain
 accomplishable
 ascertainably
 ascertaining
