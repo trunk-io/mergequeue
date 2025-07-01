@@ -4789,7 +4789,6 @@ gursh
 glans
 glandule
 guardo
-graftdom
 glacieret
 gouaches
 germiparous
@@ -8643,6 +8642,7 @@ groff
 gree
 glean
 gynaecoid
+graftdom
 gismondite
 germanious
 galactophygous
