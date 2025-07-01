@@ -3904,6 +3904,7 @@ dissect
 disp
 disjointedness
 dyscrasite
+disinfected
 dowdiest
 deerdog
 dewy
@@ -12562,7 +12563,6 @@ doorkeep
 dicotyledonary
 disinfectants
 dreg
-disinfected
 deceivers
 denaturizer
 dols
