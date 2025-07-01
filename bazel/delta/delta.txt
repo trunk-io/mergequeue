@@ -9801,7 +9801,6 @@ descender
 decolourization
 dilatometer
 dilatometrically
-dilator
 dynamometers
 dilatoriness
 daypeep
@@ -17840,6 +17839,7 @@ drawlatch
 ductwork
 duculinae
 dictyosome
+dilator
 decurve
 duddery
 definable
