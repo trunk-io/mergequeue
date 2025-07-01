@@ -521,7 +521,6 @@ damageability
 disodic
 damageably
 detonatable
-damaged
 detort
 destandardize
 damageous
@@ -2361,6 +2360,7 @@ dee
 dosers
 discocarp
 diplographic
+damaged
 dechristianization
 diluted
 diem
