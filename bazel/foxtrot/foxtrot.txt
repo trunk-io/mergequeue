@@ -2692,6 +2692,7 @@ fanman
 fissionability
 fabric
 falanaka
+faradomuscular
 freshes
 fluocerite
 frumpling
@@ -9263,7 +9264,6 @@ futilely
 fraises
 fretwise
 fascinery
-faradomuscular
 frontispieced
 fraktur
 fervently
