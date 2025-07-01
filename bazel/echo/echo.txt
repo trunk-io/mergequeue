@@ -6922,7 +6922,6 @@ electrochemical
 encephala
 eschalot
 entomophthorales
-erythrodextrin
 enfeoffed
 estruses
 extremism
@@ -13597,6 +13596,7 @@ effossion
 extemporizes
 electrotheraputics
 elinvar
+erythrodextrin
 epiphytically
 eremurus
 emamelware
