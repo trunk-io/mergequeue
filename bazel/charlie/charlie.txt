@@ -3715,7 +3715,6 @@ carapaxes
 coachable
 carbonadoes
 carapidae
-cineastes
 clawlike
 carapine
 canvasback
@@ -29521,6 +29520,7 @@ crit
 critch
 criteria
 cryptogamous
+cineastes
 criteriia
 criteriology
 criterional
