@@ -11334,7 +11334,6 @@ baith
 bespoused
 blowsier
 baubees
-blowtorches
 bromos
 blowups
 blowzy
@@ -15533,6 +15532,7 @@ bareboat
 briss
 brist
 bristlecone
+blowtorches
 bombproof
 baldberry
 bristled
