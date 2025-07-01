@@ -7225,7 +7225,6 @@ centners
 centones
 centonism
 centonization
-centos
 centra
 centrad
 central
@@ -15830,6 +15829,7 @@ coy
 carlisle
 clavipectoral
 chips
+centos
 clavolet
 chapel
 clawed
