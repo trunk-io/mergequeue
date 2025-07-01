@@ -2079,6 +2079,7 @@ frogmouth
 fourpounder
 ferngrower
 frontspiece
+feuillemorte
 feinter
 feudary
 fundi
@@ -10994,7 +10995,6 @@ friended
 frigging
 freshly
 fortilage
-feuillemorte
 funkia
 fabliaux
 fusuma
