@@ -3911,7 +3911,6 @@ damone
 deityship
 deywoman
 dinobryon
-deixis
 decreases
 diduce
 daphnite
@@ -15850,6 +15849,7 @@ dorsel
 dorser
 doxantha
 diestrus
+deixis
 dorsi
 debosh
 dorsibranchiata
