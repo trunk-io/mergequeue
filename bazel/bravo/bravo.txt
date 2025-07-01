@@ -3715,6 +3715,7 @@ barotraumata
 bronteon
 battlefronts
 bringall
+bancales
 brucella
 barnstorms
 battler
@@ -14533,7 +14534,6 @@ branchless
 banefulness
 bannerwise
 bollocks
-bancales
 balladeer
 branchlet
 branchman
