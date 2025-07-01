@@ -2766,6 +2766,7 @@ fervor
 flamenco
 frondous
 fashions
+fileting
 funnier
 fathomer
 fantasts
@@ -3657,7 +3658,6 @@ filesniff
 foreaccustom
 fazing
 foreroom
-fileting
 floatboard
 flagitation
 frosting

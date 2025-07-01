@@ -3140,7 +3140,6 @@ advolution
 activation
 active
 academising
-aweather
 apostrophized
 actives
 activin
@@ -3467,6 +3466,7 @@ addressable
 addresser
 addressers
 anilities
+aweather
 assignment
 acrostichal
 agrestis
