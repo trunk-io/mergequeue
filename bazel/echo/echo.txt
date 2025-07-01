@@ -4775,7 +4775,6 @@ enclosers
 enscrolling
 elucubration
 exterminate
-elator
 enclosures
 enchalice
 emprent
@@ -9770,6 +9769,7 @@ englyns
 etrogim
 extima
 entoptoscopic
+elator
 essay
 embargo
 empyrical
