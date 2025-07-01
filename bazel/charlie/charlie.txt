@@ -11707,7 +11707,6 @@ circinal
 colorization
 cholelith
 cholelithiasis
-conchotome
 cholelithic
 cholelithotomy
 chastising
@@ -16234,6 +16233,7 @@ climacteric
 climacterically
 crimpage
 climactical
+conchotome
 contexture
 collotyping
 chymosinogen
