@@ -6715,7 +6715,6 @@ ceded
 ceders
 cottiers
 cedilla
-cedillas
 ceding
 cedis
 cosheath
@@ -15562,6 +15561,7 @@ clarini
 chlorates
 clarino
 clarinos
+cedillas
 chromid
 clarion
 chloridella
