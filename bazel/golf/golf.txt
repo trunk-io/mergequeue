@@ -6612,6 +6612,7 @@ glunch
 gondolas
 guidons
 global
+gamely
 glasseye
 gondoletta
 gumlike
@@ -9272,7 +9273,6 @@ gastric
 giltcup
 grockle
 goidel
-gamely
 gemauve
 granitoid
 groenendael
