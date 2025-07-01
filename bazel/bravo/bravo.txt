@@ -1592,7 +1592,6 @@ basketlike
 beatinest
 ballistae
 beyerite
-ballistician
 brachioganoidei
 ballistocardiograph
 ballflower
@@ -7581,6 +7580,7 @@ beweary
 besottedness
 botflies
 brainworker
+ballistician
 beweeper
 beggared
 beweeps
