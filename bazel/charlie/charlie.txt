@@ -9001,7 +9001,6 @@ characterism
 characteristically
 characteristicalness
 cucaracha
-characteristicness
 characterization
 characterize
 characterizing
@@ -11686,6 +11685,7 @@ cholecystotomy
 cholecystotomies
 choledochal
 culpability
+characteristicness
 choledochoduodenostomy
 colpeurysis
 conformate
