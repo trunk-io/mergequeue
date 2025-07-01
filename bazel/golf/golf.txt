@@ -5826,7 +5826,6 @@ graffito
 gedact
 grosse
 geaster
-glucagon
 grundel
 guaiaretic
 gladify
@@ -7863,6 +7862,7 @@ granary
 greases
 glecoma
 gorst
+glucagon
 guaiacum
 gutter
 gaberloonie
