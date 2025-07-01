@@ -1679,7 +1679,6 @@ calorist
 calorized
 calorizing
 cawing
-calosoma
 calotermes
 calothrix
 calotype
@@ -14290,6 +14289,7 @@ carotte
 consciencelessness
 concentricity
 catatonia
+calosoma
 circulators
 circulus
 cavaedium
