@@ -2999,7 +2999,6 @@ flock
 factoring
 fumier
 flagonless
-flyboy
 furazane
 frustums
 fencing
@@ -4473,6 +4472,7 @@ frenghi
 fraiser
 flogmaster
 fledgier
+flyboy
 floppiest
 fantasies
 fishman
