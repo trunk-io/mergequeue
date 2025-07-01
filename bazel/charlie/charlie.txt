@@ -7349,7 +7349,6 @@ crevassed
 cylinderer
 centrums
 cancrizans
-centum
 centums
 colorcaster
 catarinite
@@ -25287,6 +25286,7 @@ calendars
 corks
 corkscrew
 cosmologists
+centum
 cyanotrichite
 cacophonize
 choom
