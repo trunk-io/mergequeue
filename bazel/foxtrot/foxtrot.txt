@@ -170,6 +170,7 @@ fulfillers
 factionalism
 factualness
 fow
+fusilier
 fullbodied
 freezers
 factionism
@@ -1270,7 +1271,6 @@ figury
 fash
 friborgh
 fasherie
-fusilier
 fashing
 fritt
 fiddley
