@@ -9234,6 +9234,7 @@ container
 charta
 chartable
 charter
+condimental
 chartered
 charterer
 charterers
@@ -14175,7 +14176,6 @@ cyprinids
 cypriniform
 cauline
 cyprinin
-condimental
 caecal
 cyprinodontes
 cyprinodontoid
