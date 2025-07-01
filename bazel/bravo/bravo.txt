@@ -2862,6 +2862,7 @@ barnmen
 banger
 brushland
 barraging
+beechier
 bailer
 braca
 battener
@@ -17290,7 +17291,6 @@ barberite
 bumped
 burrowed
 blobber
-beechier
 boreholes
 bumpers
 bumpily
