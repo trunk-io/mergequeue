@@ -3810,7 +3810,6 @@ gutte
 giftwrap
 galanas
 giftwrapping
-gazeless
 gorgonesque
 goats
 gambetta
@@ -10241,6 +10240,7 @@ guillotinist
 gonophorous
 gastroptosis
 grape
+gazeless
 graminivore
 glycogenase
 guiltsick
