@@ -7107,6 +7107,7 @@ aerocartograph
 actuator
 anointers
 akmuddar
+adaptative
 aknow
 aggradation
 agglomerating
@@ -25358,7 +25359,6 @@ azotic
 azotises
 azotize
 absinthism
-adaptative
 azotoluene
 azotorrhea
 adj
