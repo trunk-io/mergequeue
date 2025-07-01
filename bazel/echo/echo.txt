@@ -4395,7 +4395,6 @@ expectorations
 enfacing
 ensigncies
 endosmometric
-eubacteria
 elaeis
 everest
 eches
@@ -4482,6 +4481,7 @@ endolabyrinthitis
 encense
 encephalomyelopathy
 encenter
+eubacteria
 ensilage
 endolithic
 encephalartos
