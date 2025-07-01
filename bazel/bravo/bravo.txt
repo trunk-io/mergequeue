@@ -875,7 +875,6 @@ builders
 bagios
 bedrenching
 babishness
-beadlery
 biacromial
 bagmaker
 bagnes
@@ -16445,6 +16444,7 @@ brusquest
 brussel
 bestrode
 bowdlerize
+beadlery
 brustle
 bridal
 brusure
