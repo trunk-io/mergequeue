@@ -5848,7 +5848,6 @@ glucinums
 gangflower
 giggle
 glucocorticoid
-gardenless
 gardon
 griddled
 gasfiring
@@ -7097,6 +7096,7 @@ gorble
 gervais
 gorblin
 gorcocks
+gardenless
 goniatite
 gypsylike
 grasscut
