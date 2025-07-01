@@ -5164,7 +5164,6 @@ cased
 cisatlantic
 casefy
 corneter
-counterenamel
 compeller
 chondrectomy
 caseharden
@@ -21522,6 +21521,7 @@ concorder
 concordity
 circline
 colicky
+counterenamel
 centumvir
 cemetary
 cluster
