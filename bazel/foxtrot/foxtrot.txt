@@ -3417,7 +3417,6 @@ floorers
 frowsiest
 flotsam
 fulmined
-foreheaded
 fistulatome
 forjaskit
 fiedlerite
@@ -8683,6 +8682,7 @@ forthgo
 ferreling
 foxings
 furlong
+foreheaded
 febrifuge
 fissility
 frankhearted
