@@ -2686,7 +2686,6 @@ genoise
 geophagy
 gentiopicrin
 greathead
-gunfire
 gyrophoric
 greenflies
 germanism
@@ -4241,6 +4240,7 @@ gelee
 gleamed
 gastroscope
 gangliated
+gunfire
 gibeonite
 gynecological
 greenwithe
