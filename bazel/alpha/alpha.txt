@@ -7757,6 +7757,7 @@ ape
 alderling
 alderman
 alectoromorphous
+abaser
 aldermanate
 aldermancy
 aldermaness
@@ -13502,7 +13503,6 @@ annoy
 annoyance
 attributal
 annoyances
-abaser
 avenin
 anticonscription
 autostandardization
