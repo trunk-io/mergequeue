@@ -807,7 +807,6 @@ genets
 glucosane
 ghurry
 gastrocolic
-grazeable
 gambette
 goldenrods
 guttable
@@ -7945,6 +7944,7 @@ gemse
 gangsman
 gouvernante
 grapnels
+grazeable
 glaucine
 gunstocking
 gastronomy
