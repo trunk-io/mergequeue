@@ -3888,7 +3888,6 @@ amidine
 aisling
 anthropomorphological
 adjuratory
-aneuria
 adjured
 adjurer
 adjures
@@ -21416,6 +21415,7 @@ asperge
 authorish
 anosmias
 asperges
+aneuria
 aspergill
 arillary
 acaricide
