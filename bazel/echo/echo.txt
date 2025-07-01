@@ -3866,6 +3866,7 @@ equivote
 echeneis
 electrotonus
 extraboldface
+ethography
 eminencies
 evendown
 exterminating
@@ -10426,7 +10427,6 @@ epistolary
 elkoshite
 ethnotechnography
 ethnozoology
-ethography
 eundem
 entropion
 ethology
