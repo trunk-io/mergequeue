@@ -4144,7 +4144,6 @@ cardiomegalia
 clerihew
 coadjacent
 cardinalitian
-cubed
 chancellor
 cardinalities
 cardinally
@@ -18463,6 +18462,7 @@ chirimoya
 compactedness
 cognition
 cucullated
+cubed
 conclude
 canmaking
 componentry
