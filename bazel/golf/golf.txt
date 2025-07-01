@@ -1627,7 +1627,6 @@ gaffed
 granulometric
 goldarned
 gardeen
-gryphon
 gutling
 gastrocoel
 gader
@@ -7445,6 +7444,7 @@ glial
 goolde
 goals
 gaen
+gryphon
 graphostatical
 glycolytic
 gortonian
