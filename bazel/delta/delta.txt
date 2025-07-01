@@ -3374,7 +3374,6 @@ deflagrable
 decolor
 disrestore
 dynagraph
-dithionate
 deflagrator
 deflating
 discommend
@@ -17918,6 +17917,7 @@ daybeds
 duettists
 duffadar
 dinman
+dithionate
 demarcating
 dumpier
 duffed
