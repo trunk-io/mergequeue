@@ -907,7 +907,6 @@ fractable
 flawless
 finked
 flowage
-flakes
 flavicant
 fluorogenic
 fulicine
@@ -1703,6 +1702,7 @@ foreannounce
 fipenny
 four
 fdnames
+flakes
 floretum
 forthcut
 fluible
