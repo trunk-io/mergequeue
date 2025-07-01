@@ -3297,7 +3297,6 @@ flunkies
 forewarnings
 flinthearted
 flyability
-fictioner
 forehent
 farrowing
 furbisher
@@ -7588,6 +7587,7 @@ fleshquake
 ferrules
 foredeclare
 foredefeated
+fictioner
 frankheartedness
 flightworthy
 fatuity
