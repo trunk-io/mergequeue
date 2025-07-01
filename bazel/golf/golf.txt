@@ -2479,7 +2479,6 @@ griever
 gained
 grooveless
 gigmania
-generable
 generalise
 gynandrous
 graciously
@@ -6201,6 +6200,7 @@ guillotinade
 gamopetalae
 galactophagist
 greengill
+generable
 goaty
 glissade
 gonfalons

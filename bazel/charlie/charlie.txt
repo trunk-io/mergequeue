@@ -1616,6 +1616,7 @@ contraceptives
 calodaemon
 calodemon
 coracles
+cooptions
 calodemonial
 calogram
 childbirths
@@ -24453,7 +24454,6 @@ coops
 coparty
 cooptate
 coopting
-cooptions
 coopts
 coordinal
 cashment
