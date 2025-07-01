@@ -3916,6 +3916,7 @@ decreases
 diduce
 daphnite
 desilicated
+description
 deja
 dejection
 devested
@@ -16255,7 +16256,6 @@ derange
 dowly
 dowment
 darneder
-description
 diploidion
 duplicated
 devourment
