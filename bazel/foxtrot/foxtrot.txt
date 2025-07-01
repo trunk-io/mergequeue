@@ -2237,7 +2237,6 @@ feltmaker
 feltmaking
 fats
 fratercula
-farmhouse
 fluster
 feudalism
 felts
@@ -11163,6 +11162,7 @@ fridila
 fraughted
 fibronuclear
 farm
+farmhouse
 faence
 flatwash
 forktail
