@@ -1158,7 +1158,6 @@ esthetics
 environage
 edition
 endere
-editorialization
 elsa
 ecphory
 enclosed
@@ -6353,6 +6352,7 @@ equijacent
 embowed
 enrut
 euclidean
+editorialization
 ens
 emmenagogue
 emendator
