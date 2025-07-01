@@ -5920,7 +5920,6 @@ forbysening
 fisherfolk
 faultfinding
 fdname
-flockings
 fulsamic
 folgerite
 fencepost
@@ -7833,6 +7832,7 @@ forepaws
 filamentose
 flingdust
 familia
+flockings
 fumaroles
 fulvidness
 foveolets
