@@ -5727,7 +5727,6 @@ fracturableness
 flipperling
 flawlessly
 furious
-flyproof
 flush
 flavins
 flirt
@@ -10276,6 +10275,7 @@ foreslack
 fasher
 frolicker
 frolicking
+flyproof
 freeholds
 flagitiousness
 ferricyanhydric
