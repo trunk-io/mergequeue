@@ -2247,6 +2247,7 @@ bronstrops
 barbarity
 barbarities
 barbarization
+bbs
 blateroon
 boucle
 brigid
@@ -3894,7 +3895,6 @@ bazooka
 bazookas
 blunge
 bamboos
-bbs
 bassly
 bouchees
 burn
