@@ -5045,7 +5045,6 @@ dename
 denari
 denaries
 denarinarii
-deluder
 dropshots
 denaro
 dejectedness
@@ -9228,6 +9227,7 @@ diurnation
 dyeability
 denazification
 demilance
+deluder
 ditriglyph
 dieb
 delaine
