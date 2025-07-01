@@ -5717,7 +5717,6 @@ demigods
 desterilized
 disposit
 deplenish
-dialup
 depleteable
 decapodan
 ducape
@@ -16794,6 +16793,7 @@ draughtsman
 draughtsmanship
 drave
 demiflouncing
+dialup
 diplasic
 dangersome
 dragomanish
