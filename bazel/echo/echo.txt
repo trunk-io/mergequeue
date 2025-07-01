@@ -2726,7 +2726,6 @@ ebons
 equipotent
 electees
 envoi
-eleemosynary
 etymology
 emetic
 ephydra
@@ -4643,6 +4642,7 @@ extratensive
 erythroxyline
 erethic
 exuberantness
+eleemosynary
 epimerase
 epimerising
 eusuchian
