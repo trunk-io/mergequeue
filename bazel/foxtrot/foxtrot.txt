@@ -8096,7 +8096,6 @@ foreswore
 flavouring
 frisk
 flasklet
-fumacious
 farceur
 floodplain
 filters
@@ -9705,6 +9704,7 @@ fringe
 fouquieria
 fourfiusher
 frigga
+fumacious
 fustle
 fallalishly
 facty
