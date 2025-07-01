@@ -2016,6 +2016,7 @@ fluidiser
 frigiferous
 flannelette
 fireball
+fervidor
 fulminancy
 flushed
 fiendishly
@@ -2444,7 +2445,6 @@ foreordinating
 freakpot
 fantods
 feridjee
-fervidor
 formicivorous
 filtrable
 fingernail
