@@ -15212,7 +15212,6 @@ commissionerships
 constituent
 cacumen
 cladodial
-cadmus
 cladodium
 cladodont
 closetful
@@ -31039,6 +31038,7 @@ choughs
 cumulative
 cumulatively
 chervonets
+cadmus
 cumulativeness
 countersunk
 cumulene
