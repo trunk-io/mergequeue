@@ -1639,7 +1639,6 @@ divergency
 dentimeter
 deamidation
 deaminase
-digitize
 daws
 delocalization
 daw
@@ -7419,6 +7418,7 @@ devest
 decarbonylating
 digitately
 detract
+digitize
 detracting
 detractingly
 detractions
