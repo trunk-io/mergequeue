@@ -6326,7 +6326,6 @@ caulinar
 caulinary
 ceroplast
 caulis
-caulivorous
 choanosomal
 caulk
 casbahs
@@ -11967,6 +11966,7 @@ chorale
 carmagnoles
 choraleon
 chorales
+caulivorous
 comradery
 concio
 cassapanca
