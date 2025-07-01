@@ -5870,6 +5870,7 @@ farine
 fertilisable
 flypapers
 floatsmen
+foreknee
 fluff
 flaxbush
 farthingale
@@ -10128,7 +10129,6 @@ frithstool
 fritniency
 fare
 furied
-foreknee
 fe
 feckly
 fulciform
