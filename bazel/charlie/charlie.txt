@@ -2832,7 +2832,6 @@ canoes
 cardiogenesis
 cukes
 canoewood
-coincident
 cuprammonium
 canoing
 cuerpo
@@ -26375,6 +26374,7 @@ cling
 cans
 coteen
 coteful
+coincident
 cotehardie
 cotele
 curlers
