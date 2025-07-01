@@ -830,6 +830,7 @@ ectypal
 ectype
 everliving
 enwrite
+enmeshed
 embus
 epizoa
 erythrinidae
@@ -2481,7 +2482,6 @@ embryopathology
 emender
 electrolysation
 enervators
-enmeshed
 engrieve
 ensate
 eparcuale
