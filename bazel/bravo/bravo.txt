@@ -10432,7 +10432,6 @@ blanks
 byrewoman
 boltmaking
 beesting
-baritone
 boviform
 bribetaking
 biune
@@ -12522,6 +12521,7 @@ bonewort
 backdoor
 blazed
 bonfires
+baritone
 bongoes
 bongoist
 bypast
