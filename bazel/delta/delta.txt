@@ -12645,7 +12645,6 @@ defoamers
 diapiric
 downmost
 dechenite
-disintoxication
 dankness
 daud
 disintrench
@@ -16828,6 +16827,7 @@ drawcard
 disconsonant
 drawcut
 devex
+disintoxication
 drawee
 disboscation
 durn
