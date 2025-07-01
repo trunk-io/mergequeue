@@ -6611,7 +6611,6 @@ baryglossia
 blotter
 bluff
 broquineer
-betons
 bannerer
 bere
 bereavements
@@ -13587,6 +13586,7 @@ barite
 boulanger
 boulangism
 bouldered
+betons
 bevatrons
 byssi
 boulderhead
