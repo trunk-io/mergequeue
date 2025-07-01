@@ -518,6 +518,7 @@ cadet
 canonize
 counterreply
 cadets
+cariole
 cataleptoid
 cadetship
 cadette
@@ -14776,7 +14777,6 @@ cystosarcoma
 cowbyre
 cyanogenetic
 cystoschisis
-cariole
 cystose
 conurbations
 clayman
