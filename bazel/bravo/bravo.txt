@@ -4307,7 +4307,6 @@ blouselike
 bebrush
 bebuttoned
 bowtie
-barkeepers
 blubbers
 bushbodies
 batiker
@@ -5124,6 +5123,7 @@ boussingaultite
 bunrakus
 beflecked
 bookless
+barkeepers
 basidiomycetes
 bradytelic
 broncobusting
