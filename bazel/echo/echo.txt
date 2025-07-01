@@ -9656,7 +9656,6 @@ epihippus
 esophagalgia
 esophagean
 esophagitis
-entobranchiate
 euryale
 esophago
 esophagogastroscopy
@@ -11587,6 +11586,7 @@ embrute
 evolution
 enlighten
 extensiveness
+entobranchiate
 evolutionism
 evolutionistic
 epigenesis
