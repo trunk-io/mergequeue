@@ -810,7 +810,6 @@ gastrocolic
 grazeable
 gambette
 goldenrods
-guttable
 gyppo
 gletty
 galoots
@@ -3936,6 +3935,7 @@ gloves
 gemshorn
 gnide
 gigots
+guttable
 gigster
 guarinite
 gemonies
