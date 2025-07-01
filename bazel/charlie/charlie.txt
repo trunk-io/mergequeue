@@ -9126,7 +9126,6 @@ coquettish
 colloq
 charities
 condition
-charityless
 caridoid
 cloaks
 comus
@@ -15988,6 +15987,7 @@ cleidorrhexis
 chiripa
 cleidotripsy
 cleistocarp
+charityless
 caulotaxy
 cleistocarpous
 cleistogamic
