@@ -3045,6 +3045,7 @@ gunpoint
 guardroom
 generally
 glucokinin
+glister
 globigerine
 giraffine
 guanase
@@ -5245,7 +5246,6 @@ grundyist
 galoubet
 gammers
 guarea
-glister
 gluon
 grenier
 glibnesses
