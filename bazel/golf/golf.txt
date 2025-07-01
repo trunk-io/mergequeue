@@ -5587,7 +5587,6 @@ girdlecake
 grossular
 giftlike
 gl
-groundwall
 goldseed
 ghostlet
 guayroto
@@ -5832,6 +5831,7 @@ guaiaretic
 gladify
 gate
 gymnosporangium
+groundwall
 gynoecium
 glucate
 gorevan
