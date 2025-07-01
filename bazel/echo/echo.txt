@@ -5324,6 +5324,7 @@ endoskeletons
 endosmic
 evaders
 endosmoses
+ephete
 enjewel
 everglades
 endosome
@@ -12668,7 +12669,6 @@ exoenzyme
 expulsory
 enterobacterial
 exogamies
-ephete
 empyemas
 expedited
 exogen
