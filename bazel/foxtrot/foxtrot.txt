@@ -6276,6 +6276,7 @@ factotums
 fouettee
 felloes
 freewheelers
+frailes
 farmtown
 fluidic
 flapdragon
@@ -8799,7 +8800,6 @@ flashtube
 frustula
 feoffing
 flunks
-frailes
 fetchers
 flotillas
 fidelity
