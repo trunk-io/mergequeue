@@ -8202,7 +8202,6 @@ bronchial
 biens
 bientt
 benefice
-bathroom
 bienvenue
 bayaderes
 bier
@@ -15413,6 +15412,7 @@ breadberry
 babyish
 brannerite
 bereaved
+bathroom
 batonnier
 bindheimite
 bystander
