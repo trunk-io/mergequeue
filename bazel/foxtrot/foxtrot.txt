@@ -4151,7 +4151,6 @@ featherbrain
 fattable
 fanterie
 fatalness
-fissipedal
 fussier
 ferth
 floridan
@@ -6451,6 +6450,7 @@ fulcra
 foreship
 frivoled
 frogeye
+fissipedal
 fluoaluminate
 felicitators
 fainted
