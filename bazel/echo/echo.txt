@@ -1139,6 +1139,7 @@ erinite
 edwina
 edit
 epeisodion
+elliptic
 elatrometer
 electrotypes
 epicaridea
@@ -3498,7 +3499,6 @@ equidiagonal
 elevens
 epopoeist
 essential
-elliptic
 embassage
 ekes
 epepophysial
