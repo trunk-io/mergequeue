@@ -5828,7 +5828,6 @@ grosse
 geaster
 glucagon
 grundel
-guaiaretic
 gladify
 gate
 gymnosporangium
@@ -8664,6 +8663,7 @@ gavelling
 grammars
 guidances
 gearing
+guaiaretic
 gastraeal
 gates
 gnus
