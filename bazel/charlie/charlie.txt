@@ -3439,6 +3439,7 @@ caprifole
 caprifoliaceae
 caprifolium
 cincinnatia
+cochlear
 capriform
 caprigenous
 caprylate
@@ -17731,7 +17732,6 @@ cochief
 cochylis
 containerized
 cochleae
-cochlear
 crystallograph
 cochleariform
 cochleiform
