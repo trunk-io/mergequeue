@@ -4126,6 +4126,7 @@ gouda
 guarapo
 globuloid
 glycoproteid
+gauge
 gastroarthritis
 greenside
 galvanoplastic
@@ -9226,7 +9227,6 @@ grist
 grumbles
 growthiness
 grumph
-gauge
 gyroceran
 gisler
 gemeled
