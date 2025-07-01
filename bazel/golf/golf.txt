@@ -6284,7 +6284,6 @@ gastrocele
 gastronomist
 gymnorhininae
 goblin
-gettable
 gullible
 gunmen
 gargantua
@@ -7948,6 +7947,7 @@ grapnels
 glaucine
 gunstocking
 gastronomy
+gettable
 gastronomics
 gunstock
 gossiper
