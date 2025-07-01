@@ -9864,6 +9864,7 @@ chekker
 collegers
 chelatable
 chelate
+cts
 chelated
 cattish
 chelating
@@ -30452,7 +30453,6 @@ charcuteries
 carbo
 ctr
 congressional
-cts
 cu
 cuadrilla
 caracoles
