@@ -3646,6 +3646,7 @@ florigraphy
 forspoken
 fussle
 fairbanks
+fraist
 fourniture
 filers
 fructification
@@ -4280,7 +4281,6 @@ firepink
 firepinks
 fireplace
 fiendishness
-fraist
 fussification
 flanky
 frogmouths
