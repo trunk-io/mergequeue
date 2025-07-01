@@ -2466,7 +2466,6 @@ endexines
 exairesis
 electroing
 electrokinetic
-eluviate
 ecosphere
 epicanthic
 exterminative
@@ -5240,6 +5239,7 @@ exospherical
 embarcadero
 earings
 excrescencies
+eluviate
 endophragmal
 ensphere
 enterozoic

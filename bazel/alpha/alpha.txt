@@ -1322,7 +1322,6 @@ adtevac
 abscessed
 arginase
 acaulescence
-appair
 acaulescent
 acauline
 avows
@@ -13030,6 +13029,7 @@ anhidrotic
 archespsporia
 anhydrotic
 anhydroxime
+appair
 antispirochetic
 antinovels
 ancillas
