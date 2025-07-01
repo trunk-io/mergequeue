@@ -10378,7 +10378,6 @@ diseuses
 demurrers
 ditton
 diopter
-diopters
 decumary
 delf
 discounter
@@ -13810,6 +13809,7 @@ dumfounder
 disglory
 desiccators
 dissonances
+diopters
 debussyan
 dissonancy
 dacryolin
