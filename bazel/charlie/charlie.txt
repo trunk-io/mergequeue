@@ -29143,6 +29143,7 @@ crioceratite
 cinefaction
 crioceratitic
 cotillons
+cusping
 cryoconite
 cryogeny
 callidity
@@ -31699,7 +31700,6 @@ cotyloid
 cuspidor
 cuspids
 cephalopodan
-cusping
 cur
 cuspis
 cusps
