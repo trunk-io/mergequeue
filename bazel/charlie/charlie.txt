@@ -11233,7 +11233,6 @@ cinecamera
 chivey
 cephalanthium
 chiliadal
-coronitis
 caboclos
 cyphonautes
 chiviatite
@@ -21813,6 +21812,7 @@ cutization
 culmy
 concentive
 corresponsive
+coronitis
 conductometric
 conductor
 conductorial
