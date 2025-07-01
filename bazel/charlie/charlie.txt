@@ -3452,7 +3452,6 @@ caprimulgi
 chivarro
 caprimulgiformes
 chinwood
-caprin
 candlebeam
 cimelia
 caprioled
@@ -14293,6 +14292,7 @@ catatonia
 circulators
 circulus
 cavaedium
+caprin
 circumambiency
 circumambient
 circumambulate
