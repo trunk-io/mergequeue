@@ -4236,7 +4236,6 @@ cardona
 cardoncillo
 cerotype
 cardoon
-conure
 cardoons
 cardophagus
 clearwing
@@ -13753,6 +13752,7 @@ cornerstones
 cymoid
 complexionist
 cenacles
+conure
 cantankerousness
 cymol
 constructer
