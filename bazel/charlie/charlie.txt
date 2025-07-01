@@ -8415,7 +8415,6 @@ chantress
 courtyard
 chalina
 coonskin
-complexity
 carbure
 corallet
 choyroot
@@ -17201,6 +17200,7 @@ copiable
 coadjudicator
 coadjutant
 campement
+complexity
 coadjute
 calculagraph
 covotary
