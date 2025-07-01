@@ -4866,6 +4866,7 @@ aerofoils
 algine
 amberfish
 aerogel
+athapascan
 antilogous
 analogized
 aion
@@ -22547,7 +22548,6 @@ alliterative
 antinomist
 athanor
 antipathida
-athapascan
 autohemic
 agreers
 athapaskan
