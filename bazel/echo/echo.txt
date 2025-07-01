@@ -10432,6 +10432,7 @@ entropion
 ethology
 ethnogeographer
 ethologies
+examine
 electrocataphoretic
 eupterotidae
 explains
@@ -13504,7 +13505,6 @@ elinor
 exsanguinous
 equipollence
 ensnares
-examine
 elephantous
 erotology
 exteriorization
