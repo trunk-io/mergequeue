@@ -6252,6 +6252,7 @@ fatlings
 felones
 formalisms
 favella
+fretty
 fargoing
 floccules
 fluvial
@@ -7723,7 +7724,6 @@ fiord
 florian
 freeish
 falconlike
-fretty
 forsaken
 flamelike
 formalizations
