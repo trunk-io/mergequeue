@@ -2817,7 +2817,6 @@ baudery
 barothermograph
 barothermohygrograph
 barotrauma
-bulgurs
 bravest
 burbling
 barotraumas
@@ -6844,6 +6843,7 @@ brusqueness
 bilic
 berwick
 boldness
+bulgurs
 bummaree
 berzelianite
 burley
