@@ -5844,7 +5844,6 @@ bracts
 bemata
 bellybutton
 beleaps
-bldg
 bricks
 bellicism
 beyonds
@@ -16876,6 +16875,7 @@ beaume
 bimetallists
 beduck
 bugbearish
+bldg
 burdened
 bugdom
 barretry
