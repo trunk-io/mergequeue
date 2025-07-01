@@ -8215,7 +8215,6 @@ grippingness
 giardiasis
 gre
 garamond
-graphometric
 gara
 galenite
 glissaded
@@ -9980,6 +9979,7 @@ gubbins
 geoethnic
 gubernacular
 glutamic
+graphometric
 grabbles
 gubernative
 gunwale
