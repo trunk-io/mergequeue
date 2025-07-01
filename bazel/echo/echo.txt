@@ -5842,7 +5842,6 @@ engrafts
 engrailed
 encyrtid
 elsewards
-epizoicide
 engrainer
 ensepulcher
 engraining
@@ -9047,6 +9046,7 @@ effected
 erysipelatous
 ectosome
 eatables
+epizoicide
 expletively
 erysipeloid
 endothoracic
