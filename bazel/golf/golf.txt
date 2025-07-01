@@ -1505,6 +1505,7 @@ gamekeepers
 gasolier
 geotonic
 gangland
+gelatigenous
 grouse
 gasoliers
 guiro
@@ -2661,7 +2662,6 @@ groundmass
 glozing
 ghostlier
 gryllidae
-gelatigenous
 grather
 gamogenesis
 gatsby
