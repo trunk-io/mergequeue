@@ -2044,6 +2044,7 @@ achape
 achaque
 acharya
 autoimmune
+apparence
 acharne
 afrikander
 acharnement
@@ -8036,7 +8037,6 @@ aer
 algesia
 alfaqui
 alfaquin
-apparence
 apatornis
 alfaquis
 alfenide
