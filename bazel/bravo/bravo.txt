@@ -3712,7 +3712,6 @@ baldly
 baryes
 branches
 barotraumata
-bronteon
 battlefronts
 bringall
 brucella
@@ -14211,6 +14210,7 @@ bradyphrenia
 bradypnea
 bodrag
 bloodtest
+bronteon
 bonally
 bakerless
 brunonian
