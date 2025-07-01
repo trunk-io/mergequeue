@@ -6716,7 +6716,6 @@ demikindred
 diacoustics
 desideration
 deoxidant
-deathroot
 desiderative
 dorine
 drunkard
@@ -18471,6 +18470,7 @@ dermatophony
 devastavit
 dipterous
 diose
+deathroot
 dislocation
 dupped
 dyschronous
