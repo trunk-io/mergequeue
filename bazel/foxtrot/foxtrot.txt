@@ -2171,7 +2171,6 @@ favours
 foddered
 fellatrice
 fluoresage
-floruit
 frigate
 fattener
 fletch
@@ -4761,6 +4760,7 @@ firesideship
 fledgy
 fantasticate
 frettage
+floruit
 fictation
 frumentarious
 flabbergast
