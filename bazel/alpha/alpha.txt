@@ -5894,7 +5894,6 @@ agamobium
 achieved
 agglutinize
 anathematization
-agglutinogen
 agglutinoscope
 acclaiming
 amblygeusia
@@ -15620,6 +15619,7 @@ antinormalness
 alembics
 antinosarian
 anoxaemia
+agglutinogen
 antinovelist
 antinucleons
 amygdalitis
