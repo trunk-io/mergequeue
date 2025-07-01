@@ -10137,6 +10137,7 @@ blackbuck
 backfiller
 biotrons
 blackbush
+barrel
 bayou
 birkenia
 balloonation
@@ -17069,7 +17070,6 @@ barcarole
 brokerages
 beclamor
 bifidate
-barrel
 bulldoggedness
 bearder
 bulldogging
