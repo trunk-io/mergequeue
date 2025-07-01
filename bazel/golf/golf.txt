@@ -4919,7 +4919,6 @@ greenbottle
 glaives
 get
 grulla
-guttar
 gent
 galangal
 grangerizing
@@ -7663,6 +7662,7 @@ grewsome
 gelations
 gos
 gyassa
+guttar
 governors
 graduses
 gentium
