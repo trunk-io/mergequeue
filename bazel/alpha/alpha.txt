@@ -8568,6 +8568,7 @@ alkyls
 aphthae
 anabolin
 agastache
+authenticate
 aerograms
 alkin
 avarish
@@ -17981,7 +17982,6 @@ approvedly
 antiempirical
 allothigene
 approvers
-authenticate
 amphidesmous
 approving
 anthypophora
