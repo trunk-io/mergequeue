@@ -10522,7 +10522,6 @@ frouziest
 frow
 flite
 ferroconcretor
-flappers
 foldstool
 frower
 flagella
@@ -11252,6 +11251,7 @@ finbacks
 forrit
 funster
 furans
+flappers
 furacious
 falconelle
 file
