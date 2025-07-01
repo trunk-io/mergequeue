@@ -5842,7 +5842,6 @@ bellibone
 benevolences
 bracts
 bemata
-bellybutton
 beleaps
 bldg
 bricks
@@ -10062,6 +10061,7 @@ bradynosus
 boudoiresque
 baseband
 bizel
+bellybutton
 bizen
 bizonal
 bioseston
