@@ -1785,7 +1785,6 @@ bamboozles
 bamboozling
 bilanders
 brachman
-bamboula
 benignant
 banterer
 bowmen
@@ -5677,6 +5676,7 @@ belderroot
 bodgie
 beleaguering
 bongar
+bamboula
 beleapt
 belection
 belecture
