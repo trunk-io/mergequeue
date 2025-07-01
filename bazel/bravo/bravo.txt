@@ -5494,7 +5494,6 @@ backiebird
 behoved
 basting
 behoves
-behoving
 battements
 babbitts
 behowled
@@ -10023,6 +10022,7 @@ battuto
 becrusted
 benefiter
 bywalking
+behoving
 buckleya
 biweeklies
 biwinter
