@@ -2723,7 +2723,6 @@ estadal
 enceint
 eleemosinar
 ebons
-equipotent
 electees
 envoi
 eleemosynary
@@ -4894,6 +4893,7 @@ encumbered
 electrodialyzer
 englishly
 eggers
+equipotent
 encumberer
 equibalance
 entablements
