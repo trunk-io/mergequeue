@@ -3439,7 +3439,6 @@ fieldleft
 freewomen
 fribbles
 fieldpieces
-fanioned
 folily
 farcemeat
 feeless
@@ -7180,6 +7179,7 @@ fishers
 fourche
 fuminess
 fraileros
+fanioned
 fiendism
 forkmen
 fulvescent
