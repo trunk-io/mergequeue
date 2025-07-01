@@ -3082,7 +3082,6 @@ causata
 canvasser
 canzona
 canzones
-canzonet
 caodaism
 caodaist
 caoine
@@ -11064,6 +11063,7 @@ chiroplasty
 churchgo
 commenceable
 chiropody
+canzonet
 cheekish
 comitatus
 cystoscopic
