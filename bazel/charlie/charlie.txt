@@ -2116,7 +2116,6 @@ chondrosarcomata
 campanulous
 cowbells
 campbell
-campbellisms
 campbellites
 centrolepidaceous
 costumery
@@ -6621,6 +6620,7 @@ campanula
 confluence
 chokidar
 caxtonian
+campbellisms
 caza
 cazimi
 chamois
