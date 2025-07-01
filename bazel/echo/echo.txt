@@ -481,6 +481,7 @@ eucommia
 ecclesiarch
 ecclesiarchy
 extoll
+eyeservant
 ecclesiast
 encephalomata
 expostulated
@@ -1777,7 +1778,6 @@ eyes
 encasing
 eyeseed
 entophytically
-eyeservant
 eyeshade
 exolve
 enticingness
