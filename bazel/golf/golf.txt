@@ -6827,7 +6827,6 @@ gobonee
 gnomonic
 gloryingly
 gypsied
-glauconite
 granulomas
 gaffsman
 gonosphere
@@ -9093,6 +9092,7 @@ guillemet
 grindable
 gibbose
 grinderman
+glauconite
 grissel
 gingerol
 gadite
