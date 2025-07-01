@@ -637,7 +637,6 @@ geodetic
 grottowork
 gardencraft
 gallomaniac
-gallon
 gonapophysis
 galloper
 guruships
@@ -5167,6 +5166,7 @@ gleamingly
 gleams
 garroters
 gorki
+gallon
 gaviiformes
 gastrologically
 glebae
