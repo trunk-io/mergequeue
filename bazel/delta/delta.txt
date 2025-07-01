@@ -9052,7 +9052,6 @@ dicolon
 disbar
 doornboom
 dicotyledon
-dicotyledonous
 dicotyles
 depigment
 disruption
@@ -14602,6 +14601,7 @@ desalinize
 divergenge
 dondine
 divisorial
+dicotyledonous
 diesinking
 divisural
 dispensing
