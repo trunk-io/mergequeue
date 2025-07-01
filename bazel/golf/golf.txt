@@ -3484,7 +3484,6 @@ garmentworker
 ganglions
 gadzooks
 gymnorhina
-geomagnetist
 grugru
 gunslinging
 grinded
@@ -8402,6 +8401,7 @@ gratton
 gallivanting
 gratuitant
 guaguanche
+geomagnetist
 globulariaceous
 gnathopodous
 guinea
