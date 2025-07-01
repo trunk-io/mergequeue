@@ -757,6 +757,7 @@ fragmentate
 fertilizes
 faceman
 fogscoffer
+forayer
 flittiness
 falcation
 featherweed
@@ -8891,7 +8892,6 @@ flitty
 ferritins
 foumart
 falciparum
-forayer
 fartherance
 filthify
 founded
