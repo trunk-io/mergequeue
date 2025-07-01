@@ -612,7 +612,6 @@ glockenspiels
 gravities
 glossopalatine
 grieben
-galliots
 goulashes
 gurnets
 gramaries
@@ -8112,6 +8111,7 @@ generalissimo
 gironde
 gordiaceous
 granulocytic
+galliots
 granulocytopoiesis
 gambroon
 glazier
