@@ -964,7 +964,6 @@ garottes
 galliferous
 gilgamesh
 graftonite
-grouting
 ganched
 gonotokont
 gerodontology
@@ -10185,6 +10184,7 @@ guids
 gillies
 glossoplegia
 guidwife
+grouting
 groundly
 geladas
 grimy
