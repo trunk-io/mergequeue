@@ -8210,6 +8210,7 @@ duple
 deprecate
 diacipiperazine
 disload
+determinedness
 drapeability
 digitalism
 dualistically
@@ -16248,7 +16249,6 @@ dowf
 dowsets
 densitometer
 dowitchers
-determinedness
 dares
 demagogs
 derange
