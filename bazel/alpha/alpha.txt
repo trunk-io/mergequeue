@@ -5178,6 +5178,7 @@ affectivity
 affector
 avionics
 affectum
+abelite
 affeerer
 auturgy
 ankerite
@@ -14702,7 +14703,6 @@ abjudication
 acclimation
 avarian
 anisotropy
-abelite
 antiblue
 antibodies
 antiboxing
