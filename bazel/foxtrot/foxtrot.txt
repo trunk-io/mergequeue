@@ -742,6 +742,7 @@ franconian
 flincher
 fired
 flagroot
+fructiform
 famous
 florigens
 francic
@@ -11672,7 +11673,6 @@ fillowite
 forepale
 foxskins
 flameholder
-fructiform
 ferrocerium
 fresne
 fluorochrome
