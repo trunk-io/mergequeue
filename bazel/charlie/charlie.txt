@@ -7706,6 +7706,7 @@ cirrhosed
 cerebromeningeal
 cerebromeningitis
 celiopyosis
+catheptic
 carduaceous
 cerebrometer
 cerebron
@@ -18630,7 +18631,6 @@ coiffuring
 coifing
 conner
 caudalward
-catheptic
 canonists
 coigne
 coignes
