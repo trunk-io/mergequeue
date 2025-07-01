@@ -1020,6 +1020,7 @@ foyers
 forride
 fictionization
 forklifts
+fluked
 fardel
 flannelmouth
 foxhound
@@ -6320,7 +6321,6 @@ fisticuffery
 fornicators
 fescennine
 fluke
-fluked
 fuliginosity
 fluent
 flukeworm
