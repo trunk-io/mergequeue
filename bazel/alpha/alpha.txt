@@ -19306,7 +19306,6 @@ areography
 areographical
 adjunction
 areolae
-areolar
 aluminothermics
 areolas
 areocentric
@@ -24458,6 +24457,7 @@ autotomizing
 autotomous
 astragals
 autotoxic
+areolar
 autotoxication
 autotractor
 autotransformer
