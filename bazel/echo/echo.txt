@@ -6809,6 +6809,7 @@ ephemeral
 empyema
 eole
 entify
+explement
 electrocutions
 enemied
 ergon
@@ -13245,7 +13246,6 @@ enepidermic
 exhumer
 endemical
 engram
-explement
 envine
 explicability
 edacity
