@@ -9264,7 +9264,6 @@ dyeings
 deadpan
 dieldrin
 derelict
-decahedrodra
 dieldrins
 dyeleaves
 dielectric
@@ -10753,6 +10752,7 @@ dearticulation
 dah
 dryworker
 deboistly
+decahedrodra
 dowcote
 dipodomys
 dipolar
