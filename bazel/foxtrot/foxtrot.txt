@@ -8324,6 +8324,7 @@ fuddled
 foryield
 forelouper
 furnished
+fumiduct
 forints
 fautorship
 facade
@@ -11068,7 +11069,6 @@ factfinder
 flockless
 functionnaire
 functors
-fumiduct
 functus
 fessewise
 frostwork
