@@ -5590,6 +5590,7 @@ ethologist
 enflaming
 epiklesis
 equuleus
+enleague
 escapeway
 embryulcus
 enflower
@@ -9210,7 +9211,6 @@ ermined
 erminee
 evanid
 extrinsic
-enleague
 ermines
 epiloguize
 ectoenzyme
