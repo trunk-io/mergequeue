@@ -1635,7 +1635,6 @@ ballot
 ballota
 ballotade
 boud
-boyarism
 blier
 burletta
 butyrous
@@ -4760,6 +4759,7 @@ binnacle
 bedral
 bedraped
 bedraping
+boyarism
 bedread
 bedrench
 baldling
