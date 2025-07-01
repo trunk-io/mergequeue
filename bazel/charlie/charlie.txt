@@ -5645,6 +5645,7 @@ cataloes
 cataloged
 character
 cariousness
+cie
 centi
 catalogia
 contractible
@@ -13547,7 +13548,6 @@ cydippida
 cydonian
 confederator
 cydonium
-cie
 cierge
 cierzo
 cierzos

@@ -1998,7 +1998,6 @@ decadrachma
 decadrachmae
 dumbed
 dimorphic
-desugars
 decaedron
 decaffeinate
 depicted
@@ -12307,6 +12306,7 @@ dehortation
 dundavoe
 defogger
 dishwater
+desugars
 dataflow
 dispatriated
 discrepancy
