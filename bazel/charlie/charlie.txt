@@ -4277,7 +4277,6 @@ carefull
 carefuller
 carefullest
 carefully
-chemosensitivities
 covenant
 characteristic
 coauthored
@@ -7720,6 +7719,7 @@ cerebrosclerosis
 cerebroscope
 codewords
 cerebrose
+chemosensitivities
 chargers
 calathisci
 calcarated
