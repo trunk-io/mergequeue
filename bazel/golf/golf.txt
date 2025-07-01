@@ -3125,7 +3125,6 @@ gluing
 glycans
 geraniaceae
 gelatinobromide
-gasproof
 glycyrrhiza
 gingelies
 grangerism
@@ -10540,6 +10539,7 @@ geometrina
 geodesical
 gratiola
 gibs
+gasproof
 gulix
 grallic
 galeorchis
