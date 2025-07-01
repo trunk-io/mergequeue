@@ -7514,7 +7514,6 @@ fleetest
 freeholders
 fergus
 fellatah
-fullface
 forebode
 frictionlessness
 fest
@@ -9924,6 +9923,7 @@ ferreters
 friendlessness
 fancier
 fornices
+fullface
 fritts
 frogskins
 forepeaks
