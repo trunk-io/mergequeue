@@ -8888,6 +8888,7 @@ bioactivities
 bioassaying
 byplace
 bioastronautics
+bisons
 biobibliographer
 barleysick
 bioblastic
@@ -16601,7 +16602,6 @@ buccopharyngeal
 bucculae
 butyr
 bloused
-bisons
 bardlet
 bulanda
 blacking
