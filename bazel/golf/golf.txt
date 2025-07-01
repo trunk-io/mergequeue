@@ -3755,7 +3755,6 @@ gaul
 gygis
 gibstaff
 graceless
-galeche
 greyhound
 gratefulness
 gavelage
@@ -8265,6 +8264,7 @@ gastrotubotomy
 grucche
 greyness
 guha
+galeche
 gaingiving
 grainers
 gynaecia
