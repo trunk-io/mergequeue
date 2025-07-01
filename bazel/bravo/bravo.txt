@@ -9988,7 +9988,6 @@ barrenness
 bivector
 biventer
 bayonetting
-bulkin
 bizarrerie
 bield
 biventral
@@ -17922,6 +17921,7 @@ bowered
 bushy
 barton
 badly
+bulkin
 bushidos
 bractless
 broadaxes
