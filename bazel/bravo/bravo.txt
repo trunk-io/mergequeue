@@ -4498,6 +4498,7 @@ bravure
 borocalcite
 bathala
 brutifies
+bestowable
 becrust
 bandster
 becrusting
@@ -12661,7 +12662,6 @@ bedunch
 blueth
 boodled
 braccia
-bestowable
 boogeymen
 bane
 bellical
