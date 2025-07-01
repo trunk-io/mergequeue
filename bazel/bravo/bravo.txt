@@ -1768,6 +1768,7 @@ broquery
 baluchithere
 becollier
 buses
+barometric
 biretta
 bedraggling
 balustrading
@@ -2739,7 +2740,6 @@ barolong
 bombax
 boroughship
 barometers
-barometric
 beefy
 blam
 beachside
