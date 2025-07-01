@@ -4496,6 +4496,7 @@ febricity
 fishplate
 feste
 fishpole
+fldxt
 fishpoles
 flueless
 flensing
@@ -5353,7 +5354,6 @@ flchette
 flimflam
 focusses
 formolite
-fldxt
 foolhardier
 frugalism
 featherweight
