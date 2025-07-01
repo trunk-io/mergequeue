@@ -5135,6 +5135,7 @@ dendroeca
 drakes
 degrade
 duplicating
+dmod
 dendrohyrax
 deneutralization
 dendrolater
@@ -8936,7 +8937,6 @@ dipyramid
 dyads
 defiatory
 diceras
-dmod
 dicerous
 deriving
 disconnect
