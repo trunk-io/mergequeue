@@ -10304,7 +10304,6 @@ cartilages
 chiasma
 cotesian
 chloasmata
-camacan
 chiasmas
 chiasmata
 cystoscopy
@@ -21511,6 +21510,7 @@ cantalas
 concordancy
 concordant
 classifically
+camacan
 concordantial
 crescent
 cankerworm
