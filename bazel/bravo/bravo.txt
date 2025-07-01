@@ -3565,7 +3565,6 @@ bathysophical
 bathysphere
 bathythermogram
 boliviano
-bathythermograph
 bathkol
 bipartite
 bathmat
@@ -5481,6 +5480,7 @@ bechamel
 boltonite
 briefers
 bahmani
+bathythermograph
 bootid
 behoof
 broadmouth
