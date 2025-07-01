@@ -5183,7 +5183,6 @@ auturgy
 ankerite
 ampulated
 agrias
-ameloblastic
 ascensor
 affeir
 affenpinscher
@@ -25330,6 +25329,7 @@ alp
 azophenine
 azoprotein
 anoplotheriidae
+ameloblastic
 abbroachment
 anagrammatization
 abolitionising
