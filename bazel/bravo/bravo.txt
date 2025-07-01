@@ -5993,7 +5993,6 @@ belute
 bhungini
 belvedere
 bluewood
-belvedered
 blueblossom
 bridaler
 benchwarmer
@@ -16960,6 +16959,7 @@ bonser
 bulby
 bidens
 bulbier
+belvedered
 batrachoid
 biplanar
 bacteriotoxin
