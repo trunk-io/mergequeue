@@ -24404,7 +24404,6 @@ cytochemical
 cools
 coolung
 coolweed
-coolwort
 coom
 coomb
 canella
@@ -28325,6 +28324,7 @@ cloning
 chytra
 circuitor
 crave
+coolwort
 craved
 craven
 churchmen
