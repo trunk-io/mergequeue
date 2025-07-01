@@ -7840,7 +7840,6 @@ aleatory
 aleatoric
 alebench
 arustle
-academics
 aquae
 analphabetical
 ancistrocladaceae
@@ -24943,6 +24942,7 @@ antilogarithmic
 axmaker
 adjudges
 awarders
+academics
 autostage
 awardment
 ablaqueate
