@@ -6551,7 +6551,6 @@ cavernlike
 cavernoma
 cavernous
 cavernously
-cavernulous
 caves
 cavetti
 calusar
@@ -7612,6 +7611,7 @@ clergyman
 cambrian
 ceraunoscopy
 cerberus
+cavernulous
 cercal
 cercaria
 chivvy
