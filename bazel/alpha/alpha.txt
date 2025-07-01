@@ -1669,6 +1669,7 @@ aphonias
 accubitus
 accueil
 accultural
+anconal
 acculturate
 acculturated
 acculturates
@@ -12219,7 +12220,6 @@ alemannian
 addability
 antiblennorrhagic
 accumulated
-anconal
 anticipate
 anconas
 ancone
