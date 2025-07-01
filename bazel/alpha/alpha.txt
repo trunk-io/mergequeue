@@ -5357,7 +5357,6 @@ almight
 aflat
 araliaephyllum
 agons
-argans
 aflow
 acumen
 aflower
@@ -17665,6 +17664,7 @@ appestat
 apostlehood
 appestats
 attemper
+argans
 appetence
 anodynous
 automobilist
