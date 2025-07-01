@@ -5688,7 +5688,6 @@ gorilline
 goitered
 glossies
 glossiest
-gybed
 glossinas
 gertrude
 glowbard
@@ -9088,6 +9087,7 @@ geoid
 garotte
 gestalts
 governableness
+gybed
 geophagist
 guillemet
 grindable
