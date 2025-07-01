@@ -1490,7 +1490,6 @@ acclivities
 antlerless
 acclivitous
 acroceraunian
-afoot
 acclivous
 accloy
 accoil
@@ -22760,6 +22759,7 @@ anosmic
 atmosphereful
 atmosphereless
 antiopium
+afoot
 agamic
 aedilitian
 atmospherically
