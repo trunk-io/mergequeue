@@ -7481,7 +7481,6 @@ compute
 cleansing
 cephalomere
 cyclostylar
-cephalometer
 cephalometric
 clysis
 cephalonasal
@@ -16629,6 +16628,7 @@ cnidosac
 cloghaun
 cloghead
 carboxyl
+cephalometer
 cowsharn
 cosmos
 coinheritance
