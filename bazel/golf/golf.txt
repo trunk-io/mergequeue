@@ -5265,7 +5265,6 @@ graveling
 geometries
 glossopteris
 glycerin
-gamelan
 gromil
 glycerite
 guardrails
@@ -10133,6 +10132,7 @@ greenier
 galvanometry
 grudges
 gaposises
+gamelan
 groggeries
 gridding
 granophyric
