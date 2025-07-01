@@ -4433,7 +4433,6 @@ drawk
 demeanor
 doit
 dactylograph
-disallowableness
 disembark
 demeanored
 dissidents
@@ -8787,6 +8786,7 @@ diatomicity
 dinting
 defocusses
 deescalations
+disallowableness
 diatomist
 dot
 debadge
