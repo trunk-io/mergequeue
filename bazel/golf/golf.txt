@@ -2370,7 +2370,6 @@ gloppy
 generic
 grow
 guianese
-groomed
 gauk
 gruesomer
 gilbertese
@@ -8136,6 +8135,7 @@ graperoot
 gied
 grim
 gem
+groomed
 grapes
 grapeskin
 growthy
