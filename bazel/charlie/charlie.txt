@@ -6674,7 +6674,6 @@ contributors
 chessman
 chirruped
 cebil
-ceboids
 chondritis
 ceratitic
 creesh
@@ -13062,6 +13061,7 @@ cyanformate
 chockful
 consecution
 chontalan
+ceboids
 cyanhydric
 cyanhydrin
 cyanic
