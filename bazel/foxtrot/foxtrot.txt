@@ -3556,7 +3556,6 @@ fury
 ficins
 floorhead
 formuliser
-forpined
 finnic
 figuline
 fended
@@ -8814,6 +8813,7 @@ familiarly
 feucht
 frigorimeter
 flushgate
+forpined
 forespoke
 flagellulae
 frakfurt
