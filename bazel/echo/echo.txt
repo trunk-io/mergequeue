@@ -2442,7 +2442,6 @@ electrogalvanization
 ethicist
 electrogenetic
 equivalence
-electrogenic
 electrogild
 eudemonia
 electrogilt
@@ -3810,6 +3809,7 @@ edulcorated
 echinostomiasis
 elaboration
 emergentness
+electrogenic
 enring
 emboweler
 estamene
