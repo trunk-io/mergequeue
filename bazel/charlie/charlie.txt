@@ -5504,6 +5504,7 @@ casually
 casuals
 casualty
 casuariiformes
+coelenterata
 chloramide
 casuarina
 casuarius
@@ -29900,7 +29901,6 @@ captived
 crosslet
 criolla
 crossleted
-coelenterata
 chopfallen
 carcase
 crosslight
