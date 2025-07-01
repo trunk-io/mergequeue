@@ -4981,7 +4981,6 @@ aerophysics
 apologising
 alkylogen
 anile
-aerophyte
 assessory
 aerophobic
 aerophor
@@ -12524,6 +12523,7 @@ algae
 amorists
 anepithymia
 amyluria
+aerophyte
 awnlike
 appenditious
 aligns

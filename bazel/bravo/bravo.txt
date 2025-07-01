@@ -760,6 +760,7 @@ badious
 betrays
 betterer
 badland
+bacchar
 badlands
 buba
 bat
@@ -5671,7 +5672,6 @@ boraciferous
 benjoin
 bylaw
 beldams
-bacchar
 bilify
 belderroot
 bodgie
