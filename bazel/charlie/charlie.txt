@@ -8446,7 +8446,6 @@ chalkstone
 chalkworker
 challah
 centriciput
-challahs
 challas
 contraponend
 challengeable
@@ -30538,6 +30537,7 @@ cubitalia
 cubiti
 cubitiere
 clara
+challahs
 cubito
 cubitocarpal
 cleanliness
