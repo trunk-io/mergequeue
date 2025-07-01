@@ -2502,6 +2502,7 @@ foreproduct
 fermentable
 fermentativeness
 faradize
+forefigure
 falus
 footbridges
 fermentescible
@@ -5437,7 +5438,6 @@ floatless
 foisonless
 fabian
 feasten
-forefigure
 flurt
 fault
 freightment
