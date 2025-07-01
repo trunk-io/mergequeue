@@ -552,7 +552,6 @@ falconinae
 favoredness
 fleeces
 fresher
-forfeiter
 funambulant
 folium
 falcons
@@ -5360,6 +5359,7 @@ featherweight
 flayflint
 fleabag
 faintheart
+forfeiter
 fusible
 furciform
 finland
