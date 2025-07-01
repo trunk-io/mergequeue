@@ -6578,7 +6578,6 @@ elaphodus
 endurant
 ended
 entangled
-entangledness
 epicentral
 endotrachelitis
 exhauster
@@ -14018,6 +14017,7 @@ exiling
 eduskunta
 exsertile
 elderbrotherly
+entangledness
 extrasocial
 ectophyte
 eshin
