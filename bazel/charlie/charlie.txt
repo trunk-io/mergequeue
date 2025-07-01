@@ -5452,7 +5452,6 @@ chronologize
 chon
 carpi
 confervas
-castle
 cumacean
 castled
 conine
@@ -31705,6 +31704,7 @@ cuspis
 cusps
 cuspule
 crests
+castle
 computers
 coopery
 cond
