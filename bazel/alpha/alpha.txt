@@ -5785,7 +5785,6 @@ aeropause
 ambulative
 agatiferous
 auxetics
-atlatl
 aligner
 author
 agatized
@@ -10566,6 +10565,7 @@ attomy
 anorthographically
 amylase
 amylases
+atlatl
 amylate
 aglyphodontia
 amildar
