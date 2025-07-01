@@ -2603,6 +2603,7 @@ fairyhood
 flanes
 ferryboat
 fitchews
+fisting
 faithbreach
 forewarningly
 forequarter
@@ -4603,7 +4604,6 @@ fort
 fouldre
 familiarness
 fainaigued
-fisting
 faithfulness
 flattest
 frutices
