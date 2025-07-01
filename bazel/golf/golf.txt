@@ -2331,7 +2331,6 @@ gravitates
 goggler
 ger
 guardants
-glump
 gemaric
 gonopodpodia
 greeshoch
@@ -10765,6 +10764,7 @@ gimbals
 gallium
 galempong
 grubworm
+glump
 gynaecomorphous
 glossospasm
 glamourie
