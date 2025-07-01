@@ -1087,6 +1087,7 @@ farish
 farley
 fulfill
 farmed
+fizz
 farmeress
 farmerish
 fireling
@@ -5071,7 +5072,6 @@ flannelleaves
 forepaw
 ferries
 fungate
-fizz
 forekeel
 faithbreaker
 faconne
