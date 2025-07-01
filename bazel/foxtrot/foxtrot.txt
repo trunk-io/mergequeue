@@ -1867,7 +1867,6 @@ flak
 flaithship
 frustules
 flyspecks
-fiddler
 fastener
 fractureproof
 fissiparous
@@ -4240,6 +4239,7 @@ felonries
 featherstitch
 foothold
 fluate
+fiddler
 flittermmice
 froe
 furlable
