@@ -16799,7 +16799,6 @@ codesign
 clamberer
 cirrus
 clothesline
-clotheslines
 clothesman
 crypts
 cheerful
@@ -22549,6 +22548,7 @@ cheekful
 conjuncts
 conjunctur
 conjunctures
+clotheslines
 conjuration
 conjurations
 cesar
