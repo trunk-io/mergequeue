@@ -797,7 +797,6 @@ gravata
 gambang
 grazer
 gonia
-goldbeater
 gambe
 gourmanderie
 gambeered
@@ -2637,6 +2636,7 @@ guptavidya
 grippingly
 grabble
 gestae
+goldbeater
 genyophrynidae
 geodesic
 gasolenes
