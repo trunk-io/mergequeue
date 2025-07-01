@@ -438,7 +438,6 @@ cacti
 crowners
 concrete
 cactiform
-communications
 cactoid
 crocodilean
 cactus
@@ -18544,6 +18543,7 @@ clericalize
 circlet
 champac
 coheirs
+communications
 coheirship
 cestraciont
 cohelper
