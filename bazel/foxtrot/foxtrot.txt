@@ -8203,7 +8203,6 @@ fictioneer
 friezing
 forfault
 forfaulture
-fluoroscoping
 fishways
 faded
 froward
@@ -11069,6 +11068,7 @@ flockless
 functionnaire
 functors
 fumiduct
+fluoroscoping
 functus
 fessewise
 frostwork
