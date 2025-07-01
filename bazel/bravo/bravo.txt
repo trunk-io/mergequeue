@@ -1394,7 +1394,6 @@ barbells
 balds
 bugged
 baculums
-bale
 baleare
 balearian
 bathofloric
@@ -1494,6 +1493,7 @@ ballade
 bespottedness
 bemadamed
 ballades
+bale
 boser
 bacteremia
 borstal
