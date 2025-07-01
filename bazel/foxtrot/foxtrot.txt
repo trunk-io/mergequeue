@@ -4526,7 +4526,6 @@ forlane
 frowziness
 fertilizers
 fishwood
-fishworker
 forsay
 ferrovanadium
 flour
@@ -11407,6 +11406,7 @@ fiddles
 functionlessness
 frosk
 furnishment
+fishworker
 feater
 forksmith
 forestership
