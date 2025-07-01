@@ -3982,6 +3982,7 @@ etymologise
 estrapade
 extirpated
 epionychia
+exhaustiveness
 empexa
 emphasize
 emphasized
@@ -12403,7 +12404,6 @@ eelbob
 exhaustive
 evene
 eryon
-exhaustiveness
 elegances
 electrotonicity
 essencing
