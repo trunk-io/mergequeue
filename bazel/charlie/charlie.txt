@@ -5013,7 +5013,6 @@ criniger
 comminate
 cartography
 cypseli
-cartographic
 cartographical
 cartographically
 carton
@@ -5659,6 +5658,7 @@ cataloguer
 catalogues
 constabulary
 cataloguing
+cartographic
 clankety
 cataloguist
 catalonian
