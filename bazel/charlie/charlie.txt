@@ -515,6 +515,7 @@ cadesse
 ceremoniary
 chainmaking
 cadet
+chara
 canonize
 counterreply
 cadets
@@ -8955,7 +8956,6 @@ commanders
 char
 conveyability
 crouchingly
-chara
 costae
 charabanc
 capkin
