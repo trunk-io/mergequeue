@@ -10680,7 +10680,6 @@ chillness
 crucifixes
 concremation
 celebrator
-chillroom
 chills
 chillsome
 countermove
@@ -31831,6 +31830,7 @@ cutinising
 cutinize
 cutireaction
 corymb
+chillroom
 cutisector
 centillion
 cutises
