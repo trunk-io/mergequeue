@@ -1494,7 +1494,6 @@ afoot
 acclivous
 accloy
 accoil
-acoasma
 accolade
 accolades
 anabo
@@ -11151,6 +11150,7 @@ arbustum
 anilopyrin
 amphichrom
 amphichromy
+acoasma
 amphicyon
 apocryphal
 achillobursitis
