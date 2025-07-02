@@ -1934,6 +1934,7 @@ epiphylaxis
 eluants
 enantiomer
 enabled
+extensimeter
 echinulate
 estoppal
 eurypterid
@@ -6041,7 +6042,6 @@ estampedero
 erosion
 ejects
 extrapituitary
-extensimeter
 embayment
 endoparasitic
 evites
