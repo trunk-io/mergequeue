@@ -2254,7 +2254,6 @@ decemcostate
 durax
 dyewoods
 decemfoliate
-delectable
 dogmas
 decempedal
 demotion
@@ -9152,6 +9151,7 @@ defile
 doundake
 dryish
 didal
+delectable
 didascalic
 dormins
 didder
