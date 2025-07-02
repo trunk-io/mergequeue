@@ -13636,6 +13636,7 @@ compilers
 chisel
 comitiva
 cylindroid
+confecture
 cylindromata
 caudillos
 cylindromatous
@@ -21885,7 +21886,6 @@ confection
 confectionary
 confectioner
 claudetite
-confecture
 confed
 confederalist
 confederate
