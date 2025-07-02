@@ -9322,7 +9322,6 @@ chastener
 cashaw
 chasteners
 coplanation
-chastening
 chastenment
 chastens
 chaster
@@ -19798,6 +19797,7 @@ combinatorially
 combinators
 combind
 combined
+chastening
 ctene
 condyloid
 concertinas
