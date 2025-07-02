@@ -3026,7 +3026,6 @@ furnacing
 forced
 feveret
 forefending
-forefault
 forworden
 facility
 flicks
@@ -6491,6 +6490,7 @@ fruitages
 fissilingual
 farriery
 flatboat
+forefault
 fording
 fetishists
 frosted
