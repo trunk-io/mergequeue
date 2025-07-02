@@ -5927,6 +5927,7 @@ fencepost
 feculae
 foetalism
 frangent
+faithful
 flockwise
 fashiousness
 flocs
@@ -8139,7 +8140,6 @@ fire
 focalized
 flexo
 flatcaps
-faithful
 featurette
 fuchsias
 forevers
