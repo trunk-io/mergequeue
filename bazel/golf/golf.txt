@@ -3404,7 +3404,6 @@ gallberry
 geodynamics
 genoa
 geometrid
-gestapos
 gallanting
 glasgow
 gallophobia
@@ -4451,6 +4450,7 @@ gristles
 geophytes
 gypsyhead
 gloeocapsoid
+gestapos
 girlie
 grantiidae
 gypsying
