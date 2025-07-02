@@ -3176,7 +3176,6 @@ frowstier
 fogbank
 facsimile
 fibrocement
-faint
 federalness
 fluentness
 formulas
@@ -3597,6 +3596,7 @@ fechnerian
 firearm
 farles
 figuriste
+faint
 flicked
 fyke
 fains
