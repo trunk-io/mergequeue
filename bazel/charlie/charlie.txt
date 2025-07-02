@@ -4865,6 +4865,7 @@ cultigen
 conjuror
 contrariantly
 coffea
+coupled
 carr
 carrack
 cymulose
@@ -29228,7 +29229,6 @@ crypteroniaceae
 cryptical
 cryptically
 crypticness
-coupled
 covenantally
 crypto
 cryptoagnostic
