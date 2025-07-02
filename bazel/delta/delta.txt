@@ -6939,7 +6939,6 @@ despecialization
 disembarrassed
 dispute
 domineer
-despecialize
 defying
 devote
 despecificate
@@ -16596,6 +16595,7 @@ deuteromycetes
 defensed
 deepsome
 dissembly
+despecialize
 draghound
 diplostemony
 dragline
