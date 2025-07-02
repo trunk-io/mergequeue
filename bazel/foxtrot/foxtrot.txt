@@ -2924,6 +2924,7 @@ fibroglia
 forespeed
 filago
 furunculosis
+forwake
 flatwares
 formol
 faddish
@@ -11640,7 +11641,6 @@ forehew
 fustigatory
 funkers
 friendship
-forwake
 fetlow
 fustiness
 fatlike
