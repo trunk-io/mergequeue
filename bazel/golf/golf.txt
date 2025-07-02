@@ -4075,7 +4075,6 @@ gimmal
 geotaxes
 geniculum
 gettysburg
-gargoyle
 gymmal
 gephyrean
 grimoire
@@ -5676,6 +5675,7 @@ gnathonize
 gahrwali
 guggling
 gumflower
+gargoyle
 gillyflower
 glycosuric
 gushes

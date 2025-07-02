@@ -626,6 +626,7 @@ commentarial
 clavicytherium
 caenozoic
 caeoma
+coracobrachial
 chera
 caeomas
 chinchiness
@@ -24860,7 +24861,6 @@ coryzas
 coraciidae
 coracle
 cruciate
-coracobrachial
 clipeus
 calcimeter
 coracobrachialis
