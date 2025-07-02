@@ -5601,7 +5601,6 @@ afunctional
 anticorrosion
 afwillite
 afzelia
-adjustable
 aswing
 aga
 alimonied
@@ -22493,6 +22492,7 @@ atechnical
 atef
 apprest
 ateleological
+adjustable
 assay
 ateles
 antimensium
