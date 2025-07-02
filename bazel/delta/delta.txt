@@ -786,7 +786,6 @@ desideratum
 dungeon
 dermititis
 deckhead
-daneweed
 daneweeds
 difficult
 danged
@@ -11343,6 +11342,7 @@ dalliers
 drainageway
 discarding
 detention
+daneweed
 discardment
 discards
 discarnate
