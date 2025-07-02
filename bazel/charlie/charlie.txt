@@ -2072,6 +2072,7 @@ conli
 campaign
 clotheshorses
 campaigners
+capocchia
 campaigns
 colostric
 campana
@@ -3323,7 +3324,6 @@ capo
 chaufers
 coughweed
 capoc
-capocchia
 capoche
 crouche
 cuj
