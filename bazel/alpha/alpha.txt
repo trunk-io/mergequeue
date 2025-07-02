@@ -1669,6 +1669,7 @@ aphonias
 accubitus
 accueil
 accultural
+antikinase
 acculturate
 acculturated
 acculturates
@@ -13009,7 +13010,6 @@ anhyd
 allodially
 anhydraemia
 anhydraemic
-antikinase
 anhydrate
 anhydration
 altering
