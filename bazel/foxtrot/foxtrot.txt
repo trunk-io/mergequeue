@@ -2075,6 +2075,7 @@ feigns
 flunkeyistic
 fidleys
 farouche
+featherlight
 frogmouth
 fourpounder
 ferngrower
@@ -9515,7 +9516,6 @@ flatbottom
 floatman
 florets
 fathering
-featherlight
 fibdom
 fomites
 filiated
