@@ -4920,7 +4920,6 @@ glaives
 get
 grulla
 guttar
-gent
 galangal
 grangerizing
 gamdia
@@ -8294,6 +8293,7 @@ geophytic
 grassflower
 gnatter
 golds
+gent
 gnarling
 genitalia
 greeniest
