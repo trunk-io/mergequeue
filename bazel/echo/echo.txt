@@ -4801,6 +4801,7 @@ equitangential
 encolour
 encolpia
 equilibrator
+eliminates
 enduro
 epidosite
 eccoproticophoric
@@ -13628,7 +13629,6 @@ elongating
 escalate
 extenuate
 extenuates
-eliminates
 enfurrow
 epenthesis
 extenuations
