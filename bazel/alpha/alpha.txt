@@ -15590,7 +15590,6 @@ attritive
 antineutrino
 ametria
 aftermatter
-antineutrons
 anting
 autodermic
 antinganting
@@ -24676,6 +24675,7 @@ averral
 apparatuses
 alii
 angiogenic
+antineutrons
 antiracial
 averroist
 averroistic
