@@ -2674,7 +2674,6 @@ decomposure
 digne
 dogwatches
 decompoundable
-diffractional
 decompoundly
 decompress
 decompresses
@@ -8773,6 +8772,7 @@ demisacrilege
 diathesis
 dirl
 dimps
+diffractional
 diatoma
 deems
 diastase
