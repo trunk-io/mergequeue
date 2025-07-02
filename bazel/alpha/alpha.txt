@@ -8599,7 +8599,6 @@ austafrican
 allay
 allayers
 allaying
-archdukedom
 acyclically
 allanite
 airproofing
@@ -9060,6 +9059,7 @@ alkalises
 ammonoid
 autosuggest
 allowed
+archdukedom
 assertiveness
 acquiescing
 assagais
