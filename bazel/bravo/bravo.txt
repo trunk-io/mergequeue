@@ -1519,6 +1519,7 @@ bezel
 basted
 ballads
 ballahou
+brookable
 balete
 baralipton
 bloodmonger
@@ -3229,7 +3230,6 @@ bedouin
 basilica
 belverdian
 basilical
-brookable
 backoff
 blushfulness
 basilicate
