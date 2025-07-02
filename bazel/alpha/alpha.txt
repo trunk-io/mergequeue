@@ -5874,7 +5874,6 @@ aggiornamenti
 assemblies
 agglomerate
 agglomerated
-agglomerates
 agglomeratic
 agglomeration
 agglomerative
@@ -11003,6 +11002,7 @@ armorician
 antisocially
 amorphously
 amorphousness
+agglomerates
 affirmatory
 archegone
 anychia
