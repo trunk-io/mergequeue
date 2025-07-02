@@ -1870,7 +1870,6 @@ germaniums
 gliss
 groundable
 gowd
-guan
 grails
 golland
 grelot
@@ -5868,6 +5867,7 @@ glucinium
 glucosone
 glucosamine
 genteelest
+guan
 glucosazone
 gadder
 goldfinch
