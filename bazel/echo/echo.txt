@@ -6834,7 +6834,6 @@ eggheads
 entitling
 entoblastic
 entobronchium
-entocalcaneal
 entocarotid
 eelgrass
 entocyemate
@@ -13814,6 +13813,7 @@ endowers
 extratropical
 extendible
 excepted
+entocalcaneal
 editorializing
 extracerebral
 embolo
