@@ -789,7 +789,6 @@ fancied
 fetidness
 fezzan
 fibroangioma
-fural
 ferv
 frequently
 fanciful
@@ -8325,6 +8324,7 @@ foryield
 forelouper
 furnished
 forints
+fural
 fautorship
 facade
 forisfamiliate
