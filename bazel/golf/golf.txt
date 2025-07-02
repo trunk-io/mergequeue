@@ -3976,7 +3976,6 @@ grounds
 gilds
 gildhall
 grandness
-gildship
 gutturals
 goldenrod
 gerundive
@@ -8423,6 +8422,7 @@ gaylussite
 gravitations
 grudgers
 geotaxis
+gildship
 gelada
 glossingly
 gov
