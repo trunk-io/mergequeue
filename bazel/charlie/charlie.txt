@@ -4065,7 +4065,6 @@ cicatrise
 cardamon
 cardamons
 cardamum
-cardanol
 chymist
 cardboard
 crissum
@@ -17639,6 +17638,7 @@ corr
 coccic
 chrisoms
 coccidae
+cardanol
 coagency
 coccidial
 cutikin
