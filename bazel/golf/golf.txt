@@ -4157,7 +4157,6 @@ gene
 graphomania
 grandfather
 gnathopod
-glotum
 gatchwork
 greying
 ges
@@ -7259,6 +7258,7 @@ gyrostatic
 genet
 gutturally
 guze
+glotum
 gravelling
 gangly
 gymnosophy
