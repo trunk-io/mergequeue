@@ -1975,7 +1975,6 @@ bange
 boardroom
 browns
 brachydactyl
-bulbous
 bombard
 ballocks
 banghy
@@ -10934,6 +10933,7 @@ bombers
 babroot
 blindstories
 brede
+bulbous
 blindweed
 blindworm
 backscratcher
