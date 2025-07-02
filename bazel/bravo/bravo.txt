@@ -433,6 +433,7 @@ beamer
 bromocamphor
 backpedal
 backpedaling
+backtalk
 backpiece
 backplane
 baa
@@ -2552,7 +2553,6 @@ bloodberry
 bardel
 barylalia
 bactrian
-backtalk
 barile
 barilla
 bleeder
