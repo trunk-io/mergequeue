@@ -7026,7 +7026,6 @@ besmooths
 beinness
 barricades
 basilian
-besmouch
 bacteritic
 besmudge
 blindling
@@ -16501,6 +16500,7 @@ blackplate
 brachypinacoid
 brutishness
 brewed
+besmouch
 bechern
 bruzz
 bsf
