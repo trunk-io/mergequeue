@@ -5505,6 +5505,7 @@ fluxmeter
 fossed
 fretwork
 forbarred
+foxy
 fratching
 fleshhood
 foraged
@@ -10664,7 +10665,6 @@ fruition
 fibular
 fruitlets
 fainting
-foxy
 felsophyre
 foreseeingly
 feralin
