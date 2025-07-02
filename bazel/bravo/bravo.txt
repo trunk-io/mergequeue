@@ -761,7 +761,6 @@ betrays
 betterer
 badland
 badlands
-buba
 bat
 brushcut
 banket
@@ -7810,6 +7809,7 @@ biannually
 biarchy
 biarcuate
 biarcuated
+buba
 biarticulate
 barrulee
 breccia
