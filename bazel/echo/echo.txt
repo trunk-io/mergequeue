@@ -2681,7 +2681,6 @@ enmesh
 enduros
 electrotherapy
 emigre
-electrotherapist
 electrotheraputic
 emyds
 electrothermal
@@ -12352,6 +12351,7 @@ encumbrous
 excepable
 eaning
 eviscerations
+electrotherapist
 evectant
 exertionless
 estuate
