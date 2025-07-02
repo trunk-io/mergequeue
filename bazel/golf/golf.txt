@@ -3469,6 +3469,7 @@ glucogene
 gilt
 gettings
 grogginess
+growliness
 gantangs
 gigtree
 griffe
@@ -4900,7 +4901,6 @@ glaire
 glosses
 gigger
 gradual
-growliness
 glaired
 gurjun
 geomaly
