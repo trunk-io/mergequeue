@@ -8405,7 +8405,6 @@ chalybite
 chalice
 chancelry
 chaliced
-chalicosis
 chalicothere
 chalicotheriid
 crummable
@@ -19977,6 +19976,7 @@ coml
 conjugating
 commandable
 commandatory
+chalicosis
 commanded
 confervaceae
 commandedness
