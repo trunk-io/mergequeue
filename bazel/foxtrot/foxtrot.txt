@@ -1515,7 +1515,6 @@ floorwalkers
 fringing
 fetched
 fatuoid
-fatuus
 frankly
 firebombed
 finlike
@@ -2875,6 +2874,7 @@ funli
 fumigation
 festucous
 forehood
+fatuus
 firsthand
 falcial
 finlander
