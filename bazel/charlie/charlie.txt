@@ -1553,6 +1553,7 @@ cartographer
 callo
 cloots
 crawlway
+chieftaincy
 commonwealthism
 cuddle
 circumundulate
@@ -10471,7 +10472,6 @@ chiefish
 cytisus
 chiefling
 chieftain
-chieftaincy
 chieftainess
 chieftainry
 chieftainries
