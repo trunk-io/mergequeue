@@ -13890,7 +13890,6 @@ bitbrace
 boloball
 bowldering
 biotoxin
-bowleg
 bowleggedness
 beedi
 bowles
@@ -13985,6 +13984,7 @@ basher
 bonesetter
 brittlest
 brontops
+bowleg
 bemeal
 brabanter
 blindfolder
