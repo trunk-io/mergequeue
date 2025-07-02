@@ -4359,7 +4359,6 @@ enapt
 ethnog
 elemi
 elatinaceae
-enarched
 eurypygidae
 enarme
 electroamalgamation
@@ -9669,6 +9668,7 @@ esophagomycosis
 esophagopathy
 esophagoplasty
 embodiment
+enarched
 esophagoscopy
 esophagotome
 endodermal
