@@ -4849,7 +4849,6 @@ benames
 bartholomew
 blephara
 briefings
-bedsitter
 batmen
 backwraps
 baudekins
@@ -13343,6 +13342,7 @@ blanquette
 botherment
 bothers
 beety
+bedsitter
 bughouses
 bathyorographical
 benightedly
