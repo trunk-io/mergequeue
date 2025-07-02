@@ -3387,7 +3387,6 @@ gymkhanas
 gretel
 gehey
 geodes
-gesseron
 gessoes
 gerrhosauridae
 gathic
@@ -6314,6 +6313,7 @@ gametal
 giglio
 genarchaship
 graplines
+gesseron
 gamic
 greentail
 gonake
