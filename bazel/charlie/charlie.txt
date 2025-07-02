@@ -6549,6 +6549,7 @@ cavern
 cavernal
 cavernlike
 cavernoma
+cermet
 cavernous
 cavernously
 cavernulous
@@ -7797,7 +7798,6 @@ cerithium
 ceriums
 corambis
 chloroplatinite
-cermet
 cyamid
 ciceros
 caramelising
