@@ -2079,7 +2079,6 @@ bannerline
 bannerole
 blossomry
 bronchus
-bcf
 blesses
 bannerols
 bannisters
@@ -17510,6 +17509,7 @@ beflower
 burbolt
 blight
 beauseant
+bcf
 bullragged
 burbot
 burdalone
