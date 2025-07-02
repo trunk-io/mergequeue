@@ -10160,7 +10160,6 @@ billette
 blackens
 bakalei
 blacketeer
-blackfeet
 brakeage
 barrelhouses
 barege
@@ -13035,6 +13034,7 @@ brownprint
 blancard
 bolder
 blackberry
+blackfeet
 bucking
 bordering
 bolster
