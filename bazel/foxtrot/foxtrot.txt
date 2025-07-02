@@ -2810,7 +2810,6 @@ ficary
 festered
 faliscan
 frizer
-foreparts
 fights
 festerment
 footway
@@ -3982,6 +3981,7 @@ faulty
 fineness
 farmy
 forweend
+foreparts
 formature
 forebrain
 firmamental
