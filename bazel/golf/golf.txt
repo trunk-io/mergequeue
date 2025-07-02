@@ -1773,6 +1773,7 @@ gastrostenosis
 gatehouses
 gaskins
 gastrotomic
+grogshops
 gulsach
 glycine
 geodesia
@@ -5903,7 +5904,6 @@ goldarn
 gilgames
 gewgawish
 grackle
-grogshops
 goofs
 grainless
 gambirs
