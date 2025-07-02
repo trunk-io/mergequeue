@@ -1314,7 +1314,6 @@ departure
 daundering
 didappers
 daunt
-daunted
 daunters
 daffy
 dipentine
@@ -12242,6 +12241,7 @@ dysphonic
 disflesh
 disfoliage
 disfoliaged
+daunted
 distich
 disforestation
 descendibility
