@@ -3527,6 +3527,7 @@ batheable
 bathed
 bellower
 bathes
+belauds
 backslidden
 bathetically
 bicondylar
@@ -7842,7 +7843,6 @@ bicephalous
 bogman
 biface
 bibacity
-belauds
 bronzy
 bursautee
 borages
