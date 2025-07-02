@@ -19742,7 +19742,6 @@ comarum
 comate
 crown
 comates
-coquilla
 camarilla
 copintank
 catogene
@@ -24660,6 +24659,7 @@ copywriting
 clamshell
 coplanar
 coplanarities
+coquilla
 cozinesses
 copleased
 coplot
