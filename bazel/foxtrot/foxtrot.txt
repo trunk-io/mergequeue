@@ -2275,7 +2275,6 @@ focometry
 fikie
 firebombs
 flatcars
-fructosan
 ferrara
 foredecree
 furiosa
@@ -3033,6 +3032,7 @@ flicks
 faddists
 fingerparted
 formicina
+fructosan
 finches
 floodlike
 feverous
