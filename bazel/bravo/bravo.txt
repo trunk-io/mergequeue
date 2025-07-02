@@ -1323,7 +1323,6 @@ balatte
 bankcards
 bergfall
 bingy
-burelage
 bedways
 balaustine
 bunks
@@ -5982,6 +5981,7 @@ battiness
 beltless
 benchmarks
 brecciate
+burelage
 beltman
 belts
 beltway
