@@ -263,7 +263,6 @@ gizmo
 gumminess
 grapta
 graziery
-geoplagiotropism
 glutael
 grenada
 gnomon
@@ -2241,6 +2240,7 @@ gnosiological
 geissoloma
 geissolomataceae
 geissolomataceous
+geoplagiotropism
 geissospermine
 grundyite
 glimpses
