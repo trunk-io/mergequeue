@@ -5784,7 +5784,6 @@ deadpay
 depolish
 davened
 draughts
-depolished
 deaconed
 depolishes
 depoliticized
@@ -7227,6 +7226,7 @@ disenchantingly
 detecter
 detecters
 decentralist
+depolished
 duffels
 disaggregate
 digitate
