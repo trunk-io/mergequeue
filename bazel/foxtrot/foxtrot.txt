@@ -979,7 +979,6 @@ flyleaf
 foundry
 ft
 fasola
-fourchite
 fanfishes
 flightless
 flashing
@@ -2018,6 +2017,7 @@ flannelette
 fireball
 fulminancy
 flushed
+fourchite
 fiendishly
 fravashi
 frden
