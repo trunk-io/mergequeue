@@ -1757,7 +1757,6 @@ gramps
 guaiacols
 gonadial
 genealogizer
-gastroscopist
 greenovite
 gavelled
 glossolaly
@@ -9134,6 +9133,7 @@ gisarme
 grandest
 grignet
 gradins
+gastroscopist
 gamogenetic
 glassfish
 gripey

@@ -9333,7 +9333,6 @@ censurers
 chasty
 chastiment
 chastise
-chastiser
 clapperboard
 corf
 chastity
@@ -22732,6 +22731,7 @@ calamitousness
 conquisition
 chelodine
 conation
+chastiser
 cady
 conquistadores
 corradiation
