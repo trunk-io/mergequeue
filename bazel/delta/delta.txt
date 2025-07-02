@@ -2338,6 +2338,7 @@ databases
 dissociant
 downbear
 daphnid
+diary
 decadally
 devocalising
 dotriacontane
@@ -8655,7 +8656,6 @@ davis
 dinge
 debugging
 distilment
-diary
 diaglyph
 demicadence
 disimprove
