@@ -4834,6 +4834,7 @@ fannings
 filigrain
 flageolets
 flagfishes
+footbeat
 flowcontrol
 fubsy
 forbiddenness
@@ -6830,7 +6831,6 @@ ferme
 fiendliness
 frontal
 flaccidity
-footbeat
 forfalt
 faithfuls
 finmark
