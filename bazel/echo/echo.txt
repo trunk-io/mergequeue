@@ -7295,7 +7295,6 @@ eolopiles
 exsector
 eolotropic
 echoless
-electrocatalytic
 epidemiology
 energetics
 eccaleobion
@@ -10776,6 +10775,7 @@ encrease
 emacerate
 emblazer
 euhyostylic
+electrocatalytic
 eosine
 eukairite
 evangelistics
