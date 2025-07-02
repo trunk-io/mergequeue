@@ -6027,7 +6027,6 @@ catheterism
 catheterization
 catheterized
 commonality
-cerastium
 catheterizes
 cathetometer
 cartopper
@@ -10699,6 +10698,7 @@ convivial
 chillingly
 catamounts
 chilodon
+cerastium
 chilognathous
 chilogrammo
 cubic
