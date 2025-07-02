@@ -10830,6 +10830,7 @@ ductings
 dependent
 dipterus
 dotterel
+dissolvableness
 diptychs
 differencing
 dipware
@@ -13786,7 +13787,6 @@ derm
 dissolutional
 dissolutionism
 dearie
-dissolvableness
 dissolvative
 dissolve
 doina
