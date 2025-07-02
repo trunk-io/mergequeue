@@ -5101,7 +5101,6 @@ boundedness
 breek
 beflag
 barkevikite
-bamboo
 binits
 basilicon
 beflagged
@@ -13879,6 +13878,7 @@ bilious
 birches
 bedrite
 bowing
+bamboo
 bowings
 bowkail
 blad
