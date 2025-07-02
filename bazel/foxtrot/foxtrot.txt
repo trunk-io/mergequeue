@@ -7232,7 +7232,6 @@ feodary
 flaxboard
 fungiform
 forewarner
-forepeak
 fordwine
 filature
 flunked
@@ -7508,6 +7507,7 @@ forebay
 fragmentization
 feathering
 flocked
+forepeak
 feuilletonist
 fideos
 fleetest
