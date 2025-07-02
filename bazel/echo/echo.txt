@@ -5794,7 +5794,6 @@ expressions
 englobed
 enneahedral
 envelopment
-extirp
 englut
 emhpasizing
 encored
@@ -11902,6 +11901,7 @@ except
 eppes
 encolure
 entomologise
+extirp
 ennui
 enunciatively
 etyma
