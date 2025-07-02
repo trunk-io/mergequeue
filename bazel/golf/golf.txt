@@ -9,7 +9,6 @@ gummous
 gunrooms
 gabber
 gabbers
-gobi
 grasswork
 gratuities
 gabelles
@@ -8957,6 +8956,7 @@ grievance
 gantlines
 grievances
 galvanoplastics
+gobi
 galbulinae
 gillnet
 graphotypic
