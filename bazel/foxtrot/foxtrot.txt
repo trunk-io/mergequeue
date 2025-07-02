@@ -3571,7 +3571,6 @@ farness
 foreign
 fermentology
 fraternity
-fleches
 falcones
 fastigiate
 forcepses
@@ -10375,6 +10374,7 @@ fireproofness
 farmyards
 filigerous
 fungite
+fleches
 flusterment
 fibroplasia
 fonctionnaire
