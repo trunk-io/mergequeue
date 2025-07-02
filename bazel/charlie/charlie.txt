@@ -21585,7 +21585,6 @@ concurrencies
 cartilage
 concurrently
 cellarets
-concurrentness
 corsepresent
 coercer
 cofinal
@@ -22100,6 +22099,7 @@ confluxible
 champert
 conormal
 cheateries
+concurrentness
 caroach
 conformability
 cyprinoid
