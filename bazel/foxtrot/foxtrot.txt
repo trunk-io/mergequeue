@@ -1143,6 +1143,7 @@ fishling
 fastback
 farrisite
 firehalls
+fingerroot
 figulate
 flyings
 farruca
@@ -9710,7 +9711,6 @@ fallalishly
 facty
 femoral
 famishes
-fingerroot
 functorial
 flummoxed
 filch
