@@ -5111,7 +5111,6 @@ edentulous
 endocoele
 exploiter
 endocolpitis
-endoconidia
 edificate
 epiplanktonic
 ejectives
@@ -9202,6 +9201,7 @@ episplenitis
 equipollentness
 exumbrella
 ermanrich
+endoconidia
 endotheca
 entailer
 epizoarian
