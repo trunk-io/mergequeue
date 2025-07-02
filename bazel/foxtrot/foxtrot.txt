@@ -5921,7 +5921,6 @@ fisherfolk
 faultfinding
 fdname
 flockings
-fulsamic
 folgerite
 fencepost
 feculae
@@ -6186,6 +6185,7 @@ fragmentized
 fulicinae
 frisked
 finality
+fulsamic
 flowerage
 fluxation
 forever
