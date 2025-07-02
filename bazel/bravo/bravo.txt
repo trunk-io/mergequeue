@@ -434,7 +434,6 @@ bromocamphor
 backpedal
 backpedaling
 backpiece
-backplane
 baa
 brachiostrophosis
 backpointer
@@ -7275,6 +7274,7 @@ bestud
 boninite
 bestuds
 bescreens
+backplane
 besully
 beswarm
 beswelter
