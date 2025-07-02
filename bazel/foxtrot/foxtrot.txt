@@ -2016,7 +2016,6 @@ fluidiser
 frigiferous
 flannelette
 fireball
-fulminancy
 flushed
 fiendishly
 fravashi
@@ -10887,6 +10886,7 @@ fulleries
 finfish
 fleets
 fannon
+fulminancy
 fados
 flivver
 fletched
