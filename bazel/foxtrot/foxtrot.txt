@@ -5129,7 +5129,6 @@ funorin
 flashboard
 footglove
 fiendliest
-forelay
 flinches
 forewent
 flashed
@@ -11358,6 +11357,7 @@ ferlied
 furls
 fuchsin
 forfended
+forelay
 furmenty
 foreassign
 fizzes
