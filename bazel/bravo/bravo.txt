@@ -7528,7 +7528,6 @@ bever
 barleducs
 burses
 beverse
-bevesseled
 barbets
 bluebirds
 barrelmaking
@@ -10679,6 +10678,7 @@ bevel
 brotulid
 begarnish
 blearing
+bevesseled
 blearness
 blears
 bleated
