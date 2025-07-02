@@ -1240,6 +1240,7 @@ acanthopteran
 acanthopterygian
 attached
 acanthopterygii
+aceraceous
 acanthoses
 acanthotic
 acanthuridae
@@ -1824,7 +1825,6 @@ argonautic
 acequia
 aethered
 acer
-aceraceous
 acerae
 acerate
 acerated
