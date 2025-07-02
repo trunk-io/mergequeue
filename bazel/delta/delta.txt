@@ -8870,7 +8870,6 @@ disjuncture
 dibenzoyl
 depilator
 dialyzable
-deg
 dichotomal
 dibenzophenazine
 duction
@@ -10683,6 +10682,7 @@ diplonts
 diplophase
 difficultness
 dosology
+deg
 diplophonic
 deviously
 dulias
