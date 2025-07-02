@@ -3825,7 +3825,6 @@ aporrhoea
 arthrosyrinx
 adyton
 adits
-arbovirus
 analcite
 alphorns
 adjacence
@@ -24137,6 +24136,7 @@ autoimmunity
 appledrone
 appealability
 autoimmunize
+arbovirus
 autoincrement
 autoindexing
 atheists
