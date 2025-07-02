@@ -6006,7 +6006,6 @@ arioso
 avestruz
 agility
 auxotrophic
-antemortal
 agilities
 attorneyship
 avdp
@@ -20192,6 +20191,7 @@ auscultated
 arrangers
 aiders
 arranges
+antemortal
 alyssum
 alc
 arrasene
