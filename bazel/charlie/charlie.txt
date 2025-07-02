@@ -5029,7 +5029,6 @@ cartouche
 curmudgeon
 cust
 costrel
-chiclero
 canalman
 conceptuality
 crystallizing
@@ -14740,6 +14739,7 @@ cystolithiasis
 cystoma
 cystomas
 corpusculum
+chiclero
 cystometer
 cystomyoma
 cystomyxoma
