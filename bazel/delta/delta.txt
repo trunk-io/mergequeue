@@ -7247,7 +7247,6 @@ deverbative
 desolately
 dyingly
 detente
-dicotyl
 dimetric
 detenu
 detenue
@@ -14218,6 +14217,7 @@ disunion
 drolly
 download
 disunites
+dicotyl
 dithyrambic
 disunity
 disprofess
