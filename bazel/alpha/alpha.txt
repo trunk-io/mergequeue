@@ -11917,7 +11917,6 @@ amphoriskoi
 ariettas
 awe
 anaptychus
-anaptyctic
 anaptotic
 anarcestes
 anarchy
@@ -13530,6 +13529,7 @@ albuminization
 annotator
 auxiliar
 annotators
+anaptyctic
 aerophone
 arrendator
 assonant
