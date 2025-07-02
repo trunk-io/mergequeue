@@ -6325,7 +6325,6 @@ conche
 caulinar
 caulinary
 ceroplast
-caulis
 caulivorous
 choanosomal
 caulk
@@ -26959,6 +26958,7 @@ countermoved
 casebound
 cerebralist
 countermure
+caulis
 countermutiny
 counternarrative
 chromeplated
