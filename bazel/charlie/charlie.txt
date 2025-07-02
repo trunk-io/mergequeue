@@ -4330,7 +4330,6 @@ carfloat
 coater
 carfuffle
 capiteaux
-camauros
 centroidal
 carfuffling
 carful
@@ -23310,6 +23309,7 @@ consultor
 consults
 consumated
 consumating
+camauros
 cosmopolitical
 consume
 chirpling
