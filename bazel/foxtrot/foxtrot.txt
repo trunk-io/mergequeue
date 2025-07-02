@@ -3864,7 +3864,6 @@ forestall
 foxer
 filmstrips
 filo
-filose
 furnitureless
 foreflap
 fils
@@ -5433,6 +5432,7 @@ frisado
 factorial
 fledgiest
 freestones
+filose
 floatless
 foisonless
 fabian
