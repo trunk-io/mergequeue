@@ -1174,7 +1174,6 @@ blackbelly
 bonnaz
 bewails
 bakal
-biasteric
 bake
 brew
 buoys
@@ -9570,6 +9569,7 @@ bluejack
 ballonnes
 battlements
 ballhawk
+biasteric
 biscayan
 biscayanism
 bizzarro
