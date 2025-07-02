@@ -2309,6 +2309,7 @@ endmatcher
 exundation
 electroanalytic
 electroanesthesia
+expertised
 eavesdrop
 entrapper
 electroballistics
@@ -4927,7 +4928,6 @@ endamoebas
 endamoebidae
 endangitis
 endarchies
-expertised
 endarteteria
 endaspidean
 endbrains
