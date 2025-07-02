@@ -5856,6 +5856,7 @@ farmeries
 fayal
 fluochloride
 fattening
+funeralize
 fierasfer
 fodders
 flounders
@@ -11134,7 +11135,6 @@ fishback
 flyte
 filleul
 flybrush
-funeralize
 footnoted
 featurish
 ferulae
