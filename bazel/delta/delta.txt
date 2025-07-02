@@ -11223,7 +11223,6 @@ depopulate
 disbarring
 disbars
 disbase
-disbeliefs
 diarchic
 dissociating
 disbelieved
@@ -11790,6 +11789,7 @@ discredit
 discreditability
 dahabiya
 delist
+disbeliefs
 deploredly
 damianist
 darkening
