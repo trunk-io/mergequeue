@@ -4166,7 +4166,6 @@ earthlight
 enregistration
 emundation
 empresses
-emprint
 emprises
 epinastically
 entomotaxy
@@ -12110,6 +12109,7 @@ easels
 emblazonry
 expostulation
 extollingly
+emprint
 erepsin
 enflames
 exploit
