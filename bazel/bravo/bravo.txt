@@ -204,6 +204,7 @@ beamlike
 bargainee
 bacchants
 bismanol
+blasphemer
 beguiling
 bloodwood
 bolivian
@@ -8148,7 +8149,6 @@ binocularity
 bourbon
 briars
 bug
-blasphemer
 beslubber
 beltmaker
 birse
