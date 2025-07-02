@@ -478,6 +478,7 @@ ecclesia
 epicarp
 enumerable
 eucommia
+emunct
 ecclesiarch
 ecclesiarchy
 extoll
@@ -1464,7 +1465,6 @@ emmenic
 emeline
 ergonomic
 ethiopian
-emunct
 epipleural
 envelop
 etaerio
