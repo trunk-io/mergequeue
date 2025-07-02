@@ -10040,7 +10040,6 @@ fringehead
 fringelet
 fruitier
 fringent
-fringetail
 foreplot
 farmerlike
 frogskin
@@ -11071,6 +11070,7 @@ functors
 fumiduct
 functus
 fessewise
+fringetail
 frostwork
 flatter
 functionalist
