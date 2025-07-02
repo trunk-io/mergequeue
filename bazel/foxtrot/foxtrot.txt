@@ -7709,7 +7709,6 @@ foreignness
 foreimpressed
 forvay
 firnismalerei
-foreinstruct
 fallal
 fatherland
 flyman
@@ -8997,6 +8996,7 @@ flatirons
 fourth
 forra
 fincas
+foreinstruct
 fourther
 fireroom
 fouter
