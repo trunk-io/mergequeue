@@ -2141,6 +2141,7 @@ betangle
 bribery
 bantu
 bantus
+breloque
 bandon
 bewield
 baphometic
@@ -2319,7 +2320,6 @@ baobab
 biasways
 barbican
 bridgemaker
-breloque
 bathyscape
 barbicel
 barbicels
