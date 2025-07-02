@@ -5874,7 +5874,6 @@ currish
 categorise
 categorised
 chansonnier
-cultivated
 cochlearia
 chemicopharmaceutical
 cuemanship
@@ -25946,6 +25945,7 @@ cloths
 corticous
 cortile
 coercion
+cultivated
 cortin
 crioceris
 collaborativeness
