@@ -8382,6 +8382,7 @@ epitheme
 eucleid
 evangelise
 eternizing
+exec
 eland
 eucarpic
 endocyemate
@@ -12194,7 +12195,6 @@ epigraphically
 eucolite
 enlistee
 exeat
-exec
 epiphonemas
 enteradenology
 eudemonist
