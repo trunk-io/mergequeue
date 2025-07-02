@@ -5952,7 +5952,6 @@ beden
 backswordmen
 batswing
 blitzkrieg
-belast
 berber
 boreas
 belowground
@@ -11981,6 +11980,7 @@ bogymen
 bogland
 budgerigah
 bytalk
+belast
 bogled
 boglet
 beckelite
