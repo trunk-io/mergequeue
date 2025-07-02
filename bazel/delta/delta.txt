@@ -4727,7 +4727,6 @@ denationalizing
 demitint
 demitoilet
 deteriorated
-demitranslucence
 demits
 demitted
 denticulately
@@ -8082,6 +8081,7 @@ dendrobates
 derfness
 dhyal
 deanimalize
+demitranslucence
 devilment
 daftardar
 dhyana
