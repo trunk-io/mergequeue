@@ -1043,7 +1043,6 @@ assignations
 antiwit
 abstrusity
 abstrusities
-aphlaston
 absume
 avellaneous
 absurd
@@ -19161,6 +19160,7 @@ arcograph
 anadipsic
 apneic
 arcos
+aphlaston
 arcose
 angiospermal
 antipolo
