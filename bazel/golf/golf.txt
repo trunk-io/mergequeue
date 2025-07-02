@@ -6995,7 +6995,6 @@ gomart
 gigameter
 gaudish
 gooseberry
-gimbaled
 gramash
 gamete
 greenweed
@@ -10208,6 +10207,7 @@ guijo
 gobet
 grindstone
 gluttei
+gimbaled
 globalism
 gladdon
 gimbaljawed
