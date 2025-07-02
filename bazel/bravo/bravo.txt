@@ -782,6 +782,7 @@ building
 baedekerian
 baeria
 bliny
+bleery
 baetyl
 browniness
 bldr
@@ -4180,7 +4181,6 @@ beat
 benches
 beatae
 beatee
-bleery
 beaters
 beatifical
 blooper
