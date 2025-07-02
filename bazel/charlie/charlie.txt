@@ -3483,6 +3483,7 @@ ceruses
 capsicums
 carvacrol
 capsid
+chlorination
 coumarous
 chylosis
 competencies
@@ -11359,7 +11360,6 @@ chlorimetric
 chlorinated
 chlorinating
 curly
-chlorination
 chlorinator
 chlorines
 chlorinity
