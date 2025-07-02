@@ -6327,7 +6327,6 @@ flukeworm
 follicle
 ferryhouse
 fob
-falerian
 fand
 fulmining
 flumes
@@ -7370,6 +7369,7 @@ foreparent
 forebodingly
 footplate
 flakiness
+falerian
 fortunous
 feedlots
 flyness
