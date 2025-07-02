@@ -14,7 +14,6 @@ cabaho
 cabal
 condylarthrous
 cryptostoma
-chevance
 chaenomeles
 cows
 corkmaking
@@ -3439,6 +3438,7 @@ caprifole
 caprifoliaceae
 caprifolium
 cincinnatia
+chevance
 capriform
 caprigenous
 caprylate
