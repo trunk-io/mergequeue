@@ -263,7 +263,6 @@ gizmo
 gumminess
 grapta
 graziery
-geoplagiotropism
 glutael
 grenada
 gnomon
@@ -5131,6 +5130,7 @@ glorioles
 gymnospermy
 gossipred
 ghostlily
+geoplagiotropism
 gesticulator
 glossocomon
 guavas
