@@ -12754,7 +12754,6 @@ arcabucero
 aquiculture
 anglish
 angioparalytic
-angioparesis
 angiopathy
 agnosis
 aeneolithic
@@ -18546,6 +18545,7 @@ abaca
 antinion
 aphrodisian
 arborolater
+angioparesis
 arborous
 arborvitaes
 arcticwards
