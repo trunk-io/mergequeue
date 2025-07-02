@@ -1785,7 +1785,6 @@ feasibly
 fashionmonger
 flighted
 fascio
-floats
 filicin
 faciend
 frippet
@@ -9959,6 +9958,7 @@ fantoms
 fumatorium
 freckled
 fa
+floats
 frigage
 frigates
 flocculated
