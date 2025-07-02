@@ -5161,6 +5161,7 @@ collectivity
 circumrenal
 casebox
 cased
+cobless
 cisatlantic
 casefy
 corneter
@@ -17574,7 +17575,6 @@ campanist
 coblentzian
 cobles
 cobleskill
-cobless
 cobloaf
 chunters
 castlery
