@@ -18701,7 +18701,6 @@ archband
 archbeacon
 addlebrain
 archbeadle
-aridge
 autocephality
 alibies
 archbishopry
@@ -24746,6 +24745,7 @@ avick
 anthratetrol
 avicolous
 avicula
+aridge
 apocaffeine
 aviculariidae
 avicularium
