@@ -1641,7 +1641,6 @@ extraphysiological
 educed
 expounded
 extrasensorial
-egret
 egritude
 egromancy
 egurgitate
@@ -3507,6 +3506,7 @@ echelons
 embarras
 escorted
 enured
+egret
 equilibrize
 embole
 epigonichthyidae
