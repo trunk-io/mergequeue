@@ -20400,7 +20400,6 @@ commutatively
 carpogone
 commutativity
 commutator
-commute
 cattycorner
 commuted
 commuters
@@ -31791,6 +31790,7 @@ cutcherry
 cutcherries
 cutdowns
 chromochalcographic
+commute
 citation
 cute
 cuteys
