@@ -3852,7 +3852,6 @@ adjoint
 adjoints
 apieces
 adjourn
-allurance
 adjournal
 arylamino
 adjoust
@@ -13172,6 +13171,7 @@ antigraft
 aecium
 alloplasmic
 animistic
+allurance
 anabatic
 animists
 ambivalency
