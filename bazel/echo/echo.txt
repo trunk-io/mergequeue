@@ -1840,7 +1840,6 @@ eyeglasses
 enginous
 enigmatical
 eared
-extendable
 eighties
 exhalable
 eightieth
@@ -12181,6 +12180,7 @@ elytron
 endpoint
 exposure
 ellipse
+extendable
 electrophysicist
 econometrical
 emboldened
