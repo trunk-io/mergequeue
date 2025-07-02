@@ -11994,7 +11994,6 @@ disembarking
 dugout
 drest
 denominationally
-disembarks
 dentifrices
 degum
 decrease
@@ -17856,6 +17855,7 @@ desubstantialize
 dudgeon
 dunst
 despatcher
+disembarks
 dudishness
 dudism
 diaconicum
