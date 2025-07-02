@@ -1014,7 +1014,6 @@ exorbital
 edaphosaurus
 explosibility
 euthanasic
-enterocinetic
 epoxide
 endearments
 equisetales
@@ -7698,6 +7697,7 @@ extrabold
 electrophoridae
 epicoracoid
 exocrine
+enterocinetic
 exhumations
 eventless
 eccentricities
