@@ -3978,7 +3978,6 @@ athodyd
 administrable
 administrant
 allegiantly
-administrates
 antihemolytic
 alabastrons
 aboves
@@ -5432,6 +5431,7 @@ afterstorm
 appetitive
 avidiously
 absorbs
+administrates
 alternator
 actinophone
 afterbirth
