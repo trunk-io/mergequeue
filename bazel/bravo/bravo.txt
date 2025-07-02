@@ -4247,7 +4247,6 @@ beautifier
 bishopbird
 beautiful
 blowball
-beautifulness
 bellhanging
 beautihood
 belly
@@ -7503,6 +7502,7 @@ bistre
 bleariest
 betwine
 betwixt
+beautifulness
 biserrate
 brachypodine
 booteries
