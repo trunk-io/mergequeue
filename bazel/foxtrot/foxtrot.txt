@@ -5338,7 +5338,6 @@ fingerprinting
 ferry
 flb
 fimbriate
-fantasque
 frithsoken
 flutey
 foregather
@@ -6436,6 +6435,7 @@ furilic
 fidia
 fairm
 filiety
+fantasque
 foliates
 fluoryl
 figent
