@@ -3225,7 +3225,6 @@ german
 galtonia
 geckos
 gunstocks
-goundou
 geckotid
 germanify
 graminiferous
@@ -8564,6 +8563,7 @@ gimbaling
 guider
 grauwacke
 greeds
+goundou
 glutaminase
 gemmeous
 galago
