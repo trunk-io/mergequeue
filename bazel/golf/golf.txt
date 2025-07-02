@@ -807,6 +807,7 @@ genets
 glucosane
 ghurry
 gastrocolic
+garbanzo
 grazeable
 gambette
 goldenrods
@@ -10699,7 +10700,6 @@ greedy
 gurshes
 guardhouse
 gonadectomies
-garbanzo
 gurging
 gu
 grams
