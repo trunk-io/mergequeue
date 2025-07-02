@@ -22947,7 +22947,6 @@ consigning
 consignments
 consiliary
 consilience
-consilient
 consimilar
 consimilate
 carnified
@@ -29580,6 +29579,7 @@ computerlike
 croakers
 croaky
 combated
+consilient
 cebine
 croakier
 croakily
