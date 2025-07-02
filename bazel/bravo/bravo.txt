@@ -3431,7 +3431,6 @@ barrelfishes
 baster
 bastille
 bastilles
-basibracteolate
 biggah
 beechdrops
 bastinado
@@ -5500,6 +5499,7 @@ babbitts
 behowled
 boisseau
 broken
+basibracteolate
 brouze
 bey
 bindi
