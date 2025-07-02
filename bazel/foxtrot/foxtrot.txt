@@ -3391,7 +3391,6 @@ fioritura
 faction
 fulgide
 flabbergastation
-flexility
 fencings
 fidejussor
 furfur
@@ -7533,6 +7532,7 @@ foredo
 fameless
 forecast
 foams
+flexility
 ferial
 ferrocyanhydric
 feverously
