@@ -3726,7 +3726,6 @@ adiadokokinesia
 adiagnostic
 adiamorphic
 adiantiform
-adeniform
 adiaphon
 autophagia
 antimechanist
@@ -15291,6 +15290,7 @@ antihemagglutinin
 antihemisphere
 antilopine
 antihero
+adeniform
 azulejo
 antihierarchy
 aidless
