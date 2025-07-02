@@ -3085,7 +3085,6 @@ empyreumata
 empennage
 equiangularity
 elaphomyces
-epicalyces
 encomiums
 endogenies
 echinorhinidae
@@ -7311,6 +7310,7 @@ eos
 earshot
 embetter
 etonian
+epicalyces
 eosate
 endurableness
 echeneidid
