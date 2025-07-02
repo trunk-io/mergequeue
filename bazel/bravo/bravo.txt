@@ -1024,6 +1024,7 @@ bringer
 barfs
 bailable
 boordly
+bumpiness
 baile
 bezazz
 boucherize
@@ -13551,7 +13552,6 @@ brontesque
 barristers
 bratina
 bouffe
-bumpiness
 bouffon
 bremeness
 bopster
