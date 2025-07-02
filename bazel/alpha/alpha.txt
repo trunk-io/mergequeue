@@ -21430,6 +21430,7 @@ anosmatic
 aspergillin
 amitoses
 aspergilloses
+authigenetic
 aspergillosis
 acetylsalicylic
 aspergillum
@@ -23858,7 +23859,6 @@ auganite
 angularization
 alumbrado
 authigene
-authigenetic
 antiozonant
 authigenous
 aurite
