@@ -949,7 +949,6 @@ gunstone
 gamophagy
 generability
 grave
-ghostless
 gigmanity
 glomeruli
 graptolite
@@ -4684,6 +4683,7 @@ guanacos
 gallinula
 gynodioecism
 glucosuria
+ghostless
 garnisheeing
 galeae
 gowland
