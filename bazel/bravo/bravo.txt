@@ -816,7 +816,6 @@ bulbus
 bonnyclabber
 bushelbasket
 bafflingness
-bonelike
 bedene
 bouleversement
 baffs
@@ -1354,6 +1353,7 @@ blankminded
 brauronia
 baldachino
 bootle
+bonelike
 bowers
 bajoire
 belander
