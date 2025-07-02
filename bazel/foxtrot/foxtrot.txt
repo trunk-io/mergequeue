@@ -4152,7 +4152,6 @@ fattable
 fanterie
 fatalness
 fissipedal
-fussier
 ferth
 floridan
 floweriness
@@ -4782,6 +4781,7 @@ fumers
 flacianist
 fife
 foresey
+fussier
 forerank
 fique
 feudalities
