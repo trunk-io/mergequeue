@@ -3098,7 +3098,6 @@ agtbasic
 abrachias
 anatoly
 actinotherapeutics
-actinotrichium
 actinozoa
 actinozoan
 actinozoon
@@ -24864,6 +24863,7 @@ avow
 abashment
 avowable
 avowably
+actinotrichium
 ambivalently
 avowals
 archrebel
