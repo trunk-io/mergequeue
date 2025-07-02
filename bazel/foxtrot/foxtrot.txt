@@ -2934,7 +2934,6 @@ finable
 figworm
 fungid
 familistery
-fortuned
 fameflower
 fettered
 flummadiddle
@@ -10706,6 +10705,7 @@ fellmongering
 flavedo
 frutescence
 frumpish
+fortuned
 forecount
 forbore
 frumpishly
