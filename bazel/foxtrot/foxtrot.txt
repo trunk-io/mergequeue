@@ -6603,7 +6603,6 @@ firebrand
 forebitten
 finfishes
 fortuitist
-flyboats
 falconiform
 foaling
 franseria
@@ -7072,6 +7071,7 @@ fanger
 foolery
 flatterer
 feedstuff
+flyboats
 forejudger
 felix
 favourer
