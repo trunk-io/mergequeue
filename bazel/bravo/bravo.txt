@@ -3878,7 +3878,6 @@ bawneen
 bawra
 barrow
 barklyite
-bawsint
 bawsunt
 blamelessness
 bawties
@@ -7909,6 +7908,7 @@ bibliomania
 bibliomaniac
 buxerries
 biker
+bawsint
 bibliomanist
 bondages
 bogwoods
