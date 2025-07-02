@@ -2939,7 +2939,6 @@ geordie
 galliardness
 geoids
 gloriole
-geolatry
 galatine
 ghetti
 genovino
@@ -8908,6 +8907,7 @@ gringole
 gras
 gator
 gombroon
+geolatry
 grieko
 gecked
 gridded
