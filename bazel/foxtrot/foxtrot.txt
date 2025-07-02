@@ -302,6 +302,7 @@ fissle
 foxfire
 fledges
 fragmentisation
+futhark
 froren
 flanks
 felid
@@ -7423,7 +7424,6 @@ forereport
 forceless
 forcelessness
 forcelet
-futhark
 fasciolar
 flagellariaceae
 floreate
