@@ -12572,7 +12572,6 @@ bonk
 bagpiping
 bonne
 bubbly
-brisken
 bonnet
 brachelytra
 bonnethead
@@ -15590,6 +15589,7 @@ belder
 britzska
 branchage
 briza
+brisken
 brizz
 bangiaceae
 broacher
