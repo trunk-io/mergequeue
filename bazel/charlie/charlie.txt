@@ -12514,7 +12514,6 @@ chiffchaff
 chromides
 chromididae
 chromidiosome
-circuses
 carolers
 celsitude
 chromidium
@@ -28361,6 +28360,7 @@ crawl
 crawled
 crawley
 chaptalized
+circuses
 contributing
 crawlerize
 crawlers
