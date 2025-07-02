@@ -9479,7 +9479,6 @@ antilocapridae
 archaeogeology
 alternariose
 alternate
-alternated
 aftertaste
 alternately
 apheretic
@@ -11784,6 +11783,7 @@ anteposition
 anaximandrian
 amphicome
 analogical
+alternated
 analogicalness
 amidomyelin
 analogions
