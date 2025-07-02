@@ -1502,7 +1502,6 @@ edificator
 equippers
 estivate
 effusively
-excipula
 entasias
 effuviate
 efl
@@ -2650,6 +2649,7 @@ electrostriction
 epizootiologic
 epitomizing
 ensurer
+excipula
 electrosurgery
 enventual
 epididymovasostomy
