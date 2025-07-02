@@ -4772,7 +4772,6 @@ glucogenic
 glassware
 gravidly
 gainfulness
-glaciered
 gunless
 gages
 gelatinousness
@@ -6219,6 +6218,7 @@ greaves
 goatskins
 gopura
 goatstone
+glaciered
 gaum
 goatweed
 guerrillaism
