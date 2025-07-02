@@ -4063,7 +4063,6 @@ cowpox
 cardamom
 cicatrise
 cardamon
-cardamons
 cardamum
 cardanol
 chymist
@@ -7402,6 +7401,7 @@ conchitis
 clincher
 commercer
 constitution
+cardamons
 conicity
 carnelians
 cryptolunatic
