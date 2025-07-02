@@ -4261,6 +4261,7 @@ carecloth
 cadetcy
 cared
 conversant
+cystospore
 careens
 chauri
 career
@@ -14782,7 +14783,6 @@ conurbations
 clayman
 cystospastic
 cited
-cystospore
 cystostomies
 cystotome
 cystotomy
