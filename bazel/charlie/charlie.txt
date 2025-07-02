@@ -2942,7 +2942,6 @@ chestily
 chorioids
 cantdog
 cantdogs
-cantefable
 childlier
 canter
 canterburian
@@ -12626,6 +12625,7 @@ condensate
 cornercap
 collophore
 chromospheric
+cantefable
 colytic
 committitur
 cadjan
