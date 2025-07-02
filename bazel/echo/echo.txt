@@ -2581,7 +2581,6 @@ electrophysiological
 eunectes
 electrocutioner
 ebulus
-exportability
 etherical
 electrophysiologically
 ecphova
@@ -6644,6 +6643,7 @@ epodes
 episcopalians
 enterocyst
 eolienne
+exportability
 embuskin
 etcher
 eschara
