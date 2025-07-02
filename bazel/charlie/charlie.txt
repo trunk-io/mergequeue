@@ -8967,7 +8967,6 @@ characids
 cataria
 cheville
 coriariaceous
-characine
 creasiest
 coercibly
 cuya
@@ -26544,6 +26543,7 @@ culicids
 cymbaled
 chemosis
 clingers
+characine
 conjecturable
 coucal
 couchancy
