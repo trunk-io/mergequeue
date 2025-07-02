@@ -3948,7 +3948,6 @@ empaistic
 elkhound
 embroglio
 empale
-empalers
 empaling
 eyepit
 empall
@@ -4458,6 +4457,7 @@ etymologize
 euryzygous
 exaggerator
 extemporaneousness
+empalers
 encash
 enlightenments
 enquires
