@@ -2653,7 +2653,6 @@ ensurer
 electrosurgery
 enventual
 epididymovasostomy
-electrosurgically
 epitimesis
 esophagism
 electrotactic
@@ -5537,6 +5536,7 @@ enfeeblements
 earwort
 exorcising
 evertors
+electrosurgically
 exoterics
 espiritual
 enfeebles
