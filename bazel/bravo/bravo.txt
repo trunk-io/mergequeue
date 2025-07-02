@@ -6932,7 +6932,6 @@ besets
 besetters
 besew
 borghi
-boccaccio
 betrim
 bradyseismic
 beshade
@@ -7087,6 +7086,7 @@ barad
 barbute
 besouth
 bespake
+boccaccio
 blaming
 bedazzlement
 bespangle
