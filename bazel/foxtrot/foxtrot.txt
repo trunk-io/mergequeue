@@ -4929,6 +4929,7 @@ fulgora
 flails
 furoic
 futile
+furrowless
 fraughtage
 fady
 fiddleback
@@ -11464,7 +11465,6 @@ fortitudes
 folliculose
 furrowy
 furrowing
-furrowless
 forletting
 furrowlike
 forewish
