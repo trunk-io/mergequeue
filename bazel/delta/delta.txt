@@ -3446,6 +3446,7 @@ deflowerer
 dumpcart
 dipleurogenetic
 duelists
+dialectologer
 dehumidifier
 damp
 defluent
@@ -8364,7 +8365,6 @@ dialectical
 dialectician
 dual
 decapodous
-dialectologer
 droopingness
 diplois
 dejerate
