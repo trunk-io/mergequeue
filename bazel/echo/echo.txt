@@ -1006,7 +1006,6 @@ equatorial
 eagling
 edaphology
 etymological
-edaphon
 edaphosauria
 excel
 enquiring
@@ -13435,6 +13434,7 @@ electrotechnical
 expurge
 etas
 expressway
+edaphon
 existentialists
 exencephalous
 endocranial
