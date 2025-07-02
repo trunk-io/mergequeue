@@ -4600,7 +4600,6 @@ forespoken
 feuder
 fisticuff
 fort
-fouldre
 familiarness
 fainaigued
 fisting
@@ -6363,6 +6362,7 @@ flunkyish
 flunkyize
 forefingers
 ferments
+fouldre
 fumigatorium
 fpm
 furcraeas
