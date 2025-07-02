@@ -4971,7 +4971,6 @@ cartel
 chondriosomes
 cesarean
 cakemaker
-circumambages
 cartelist
 costars
 classical
@@ -5936,6 +5935,7 @@ caterer
 coadore
 caterers
 cytolymph
+circumambages
 catering
 cateringly
 copras
