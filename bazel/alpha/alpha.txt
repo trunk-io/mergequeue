@@ -247,7 +247,6 @@ abbreviators
 abc
 abcissa
 abcoulomb
-aba
 abdat
 anthranoyl
 abashing
@@ -9784,6 +9783,7 @@ amanist
 amanitas
 airwaybill
 amanitine
+aba
 aerifying
 amanitins
 agglomerator
