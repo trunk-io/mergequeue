@@ -354,7 +354,6 @@ anglians
 aberrancy
 aberrant
 anthraceniferous
-aberrantly
 aberrants
 aberrating
 aberration
@@ -11363,6 +11362,7 @@ amps
 assigner
 absinthe
 ampul
+aberrantly
 admonitory
 anhydremia
 ampullary
