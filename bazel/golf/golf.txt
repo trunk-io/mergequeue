@@ -9818,7 +9818,6 @@ gewgawry
 gymnotid
 guaiacolize
 guaiaconic
-guesstimated
 guayaqui
 gawcie
 goldbrick
@@ -10263,6 +10262,7 @@ goers
 gregarious
 guinness
 galatians
+guesstimated
 greyback
 gumbos
 gastrologist
