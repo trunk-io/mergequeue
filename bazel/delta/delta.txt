@@ -8262,7 +8262,6 @@ diadochite
 dethroner
 diadochokinesia
 diadoumenos
-diaene
 drumbeat
 diaeretic
 dubiocrystalline
@@ -11908,6 +11907,7 @@ discursus
 discurtain
 discusses
 discussion
+diaene
 dominations
 drumfires
 dispels
