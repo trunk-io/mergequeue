@@ -8147,7 +8147,6 @@ flectionless
 foregate
 formlessly
 forthwith
-fretless
 ferberite
 foretopmast
 fencer
@@ -9721,6 +9720,7 @@ freyja
 fanit
 flied
 femes
+fretless
 freith
 foamingly
 feoffor
