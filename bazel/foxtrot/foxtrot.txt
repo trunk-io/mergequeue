@@ -2093,7 +2093,6 @@ faunlike
 fogbows
 fascicule
 flaunting
-forfouchten
 feisty
 fairyisms
 farl
@@ -6534,6 +6533,7 @@ filagreeing
 forgie
 farweltered
 fip
+forfouchten
 failsoft
 frotted
 forspread
