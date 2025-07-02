@@ -479,7 +479,6 @@ agriotes
 abyss
 abysses
 abyssolith
-aporrhais
 abyssopelagic
 abyssus
 abit
@@ -16093,6 +16092,7 @@ antiscolic
 antiscorbutical
 antiscriptural
 acrosphacelus
+aporrhais
 antiscrofulous
 antiseismic
 antiselene
