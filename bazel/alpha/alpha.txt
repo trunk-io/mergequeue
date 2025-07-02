@@ -11949,7 +11949,6 @@ amara
 anaretical
 anargyros
 anarithia
-arc
 asymtotes
 anarthric
 antisepticizing
@@ -12448,6 +12447,7 @@ arccosine
 adipogenic
 anemobiagraph
 anemochord
+arc
 anemochore
 anemochorous
 appropriated
