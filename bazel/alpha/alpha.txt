@@ -4188,7 +4188,6 @@ abomas
 adorn
 adornation
 adorned
-apartado
 armamentaria
 affy
 attestation
@@ -13889,6 +13888,7 @@ amorously
 abstrusely
 abkhas
 ant
+apartado
 ahong
 anta
 antheroid
