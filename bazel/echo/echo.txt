@@ -3864,7 +3864,6 @@ endodontic
 emigration
 equivote
 echeneis
-electrotonus
 extraboldface
 eminencies
 evendown
@@ -14155,6 +14154,7 @@ extrusory
 examinations
 ethmopalatine
 extubation
+electrotonus
 engouee
 encinctured
 emblossom
