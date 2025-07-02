@@ -5219,7 +5219,6 @@ cashbooks
 caesural
 cambism
 cravo
-cavendish
 continuando
 casheen
 casher
@@ -22089,6 +22088,7 @@ conflicting
 conflictive
 conflictless
 conflictory
+cavendish
 conflicts
 catabiotic
 cheltenham
