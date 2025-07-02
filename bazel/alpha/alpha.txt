@@ -5303,7 +5303,6 @@ albedograph
 afforce
 afford
 alkines
-affordable
 argoletier
 afforested
 afforesting
@@ -9900,6 +9899,7 @@ awaste
 acerata
 alveolodental
 airers
+affordable
 anticlastic
 auricled
 amativeness
