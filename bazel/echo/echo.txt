@@ -2460,6 +2460,7 @@ electrogasdynamics
 electroharmonic
 empanelment
 electrohemostasis
+elasmosaur
 endearing
 epicleses
 endexines
@@ -6120,7 +6121,6 @@ epagogic
 emotional
 eltime
 eulachon
-elasmosaur
 ebullience
 evanesce
 epifauna
