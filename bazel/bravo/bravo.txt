@@ -1672,7 +1672,6 @@ bengali
 bister
 befur
 ballstock
-ballup
 ballweed
 brehon
 botony
@@ -6851,6 +6850,7 @@ baroi
 bes
 bushpig
 boaedon
+ballup
 busboy
 besagne
 bisexually
