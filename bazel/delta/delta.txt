@@ -11974,7 +11974,6 @@ diseases
 diseconomy
 diastemata
 dolerites
-diselenid
 dicetyl
 depthing
 doorba
@@ -15585,6 +15584,7 @@ donkeyman
 draffman
 decahedra
 draegerman
+diselenid
 directness
 donkeywork
 drummers
