@@ -9331,6 +9331,7 @@ geomagnetically
 glyptotheca
 ghostwritten
 grond
+gunship
 gront
 gamodeme
 genuflect
@@ -10704,7 +10705,6 @@ gurging
 gu
 grams
 gumma
-gunship
 gismondine
 gastrolytic
 gutnic
