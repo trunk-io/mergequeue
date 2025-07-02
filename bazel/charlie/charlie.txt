@@ -18064,7 +18064,6 @@ comet
 claymores
 coelom
 coeloma
-coelomata
 coelomatic
 companies
 conservatrix
@@ -24560,6 +24559,7 @@ copenetrate
 copenhagen
 copepod
 copepoda
+coelomata
 chromolithograph
 cleistothecopsis
 cyzicene
