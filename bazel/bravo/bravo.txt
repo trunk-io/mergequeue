@@ -6899,7 +6899,6 @@ beseige
 bescribble
 badness
 botchers
-bescutcheon
 bondservant
 basalia
 beseam
@@ -17552,6 +17551,7 @@ bureaucratizes
 boss
 boletic
 bureaucratizing
+bescutcheon
 burele
 brisket
 buret
