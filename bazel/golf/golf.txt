@@ -5073,7 +5073,6 @@ gymnospermae
 glassteel
 grenadine
 grice
-goldeneye
 greesagh
 glathsheim
 gte
@@ -6540,6 +6539,7 @@ ground
 gesture
 gambeson
 grummets
+goldeneye
 girons
 gimmerpet
 gambas
