@@ -4293,7 +4293,6 @@ girse
 grubless
 gravidity
 gymnic
-gymnemic
 glycoprotein
 gloeosporiose
 gawks
@@ -6065,6 +6064,7 @@ gnats
 glutaeous
 gaduin
 gorbit
+gymnemic
 guttie
 grisset
 grume
