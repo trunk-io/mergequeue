@@ -9661,6 +9661,7 @@ checkrowing
 consummatively
 checkrows
 computational
+conformability
 checks
 chapatty
 checkstring
@@ -22101,7 +22102,6 @@ champert
 conormal
 cheateries
 caroach
-conformability
 cyprinoid
 cashierer
 councilor
