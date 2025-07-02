@@ -1782,7 +1782,6 @@ feasibleness
 fuselage
 faviform
 feasibly
-fashionmonger
 flighted
 fascio
 floats
@@ -3634,6 +3633,7 @@ fogie
 flamboyance
 friseur
 fencelet
+fashionmonger
 foremention
 filemaker
 flenches
