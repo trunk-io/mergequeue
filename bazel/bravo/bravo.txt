@@ -2538,6 +2538,7 @@ burglarise
 bois
 bielenite
 barcolongo
+blitzkrieg
 breadearner
 blepharocoloboma
 besnare
@@ -5951,7 +5952,6 @@ benzalcyanhydrin
 beden
 backswordmen
 batswing
-blitzkrieg
 belast
 berber
 boreas
