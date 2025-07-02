@@ -4148,7 +4148,6 @@ fungusy
 frostation
 fergusonite
 featherbrain
-fattable
 fanterie
 fatalness
 fissipedal
@@ -7529,6 +7528,7 @@ foreboom
 filterers
 foreburton
 frae
+fattable
 foredo
 fameless
 forecast
