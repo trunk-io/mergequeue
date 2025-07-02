@@ -6767,6 +6767,7 @@ compound
 counterquestion
 coathangers
 colligation
+chanoyu
 ceinture
 ceyx
 ceja
@@ -10137,7 +10138,6 @@ calcarate
 controvert
 caverned
 cherub
-chanoyu
 cherubfish
 cherubfishes
 cherubic
