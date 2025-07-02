@@ -3773,6 +3773,7 @@ gola
 girosol
 glarier
 gonapophysal
+gadaria
 gearwheels
 gideon
 gyropilot
@@ -5486,7 +5487,6 @@ gorblimy
 grubble
 gerridae
 garnishment
-gadaria
 grandparenthood
 gastroparietal
 gazingly
