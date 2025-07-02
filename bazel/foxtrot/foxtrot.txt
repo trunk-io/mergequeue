@@ -4899,6 +4899,7 @@ furnishing
 fodder
 foliums
 froebelism
+favouredness
 footfall
 fustigate
 floor
@@ -8110,7 +8111,6 @@ flamandize
 forweary
 foretalking
 floatation
-favouredness
 foretaster
 franklinian
 forefin
