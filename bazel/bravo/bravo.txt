@@ -14978,7 +14978,6 @@ banxring
 benzdiazine
 begift
 barraters
-breedable
 borderies
 bendlet
 breeder
@@ -18124,6 +18123,7 @@ breakably
 bipalium
 brins
 benzal
+breedable
 bealtared
 buskin
 butcherer
