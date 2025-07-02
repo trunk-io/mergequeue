@@ -9190,7 +9190,6 @@ beefhead
 biotypes
 biotypic
 biotypology
-biotites
 bagasse
 bolometric
 bromcamphor
@@ -9748,6 +9747,7 @@ beside
 boatie
 byssoid
 bisson
+biotites
 buckskin
 bedragglement
 bissonata
