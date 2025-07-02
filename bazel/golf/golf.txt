@@ -2070,6 +2070,7 @@ gazabo
 guarantors
 gazabos
 galidia
+garrisons
 guacharos
 gruellers
 ganodus
@@ -3882,7 +3883,6 @@ geoduck
 gemmily
 gyroceras
 gleeting
-garrisons
 glittered
 gynaecocratic
 geneal
