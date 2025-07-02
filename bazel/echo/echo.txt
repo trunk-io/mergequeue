@@ -785,6 +785,7 @@ emotes
 euomphalid
 egger
 ecrase
+essentialize
 enclitic
 extense
 eremophilous
@@ -2414,7 +2415,6 @@ embira
 exciting
 ebonist
 electroencephalographical
-essentialize
 evoker
 ecclesiastically
 electroendosmosis
