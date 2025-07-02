@@ -4016,7 +4016,6 @@ carchariid
 carchariidae
 carcharioid
 congredient
-carcharodont
 correctify
 carcinemia
 croquettes
@@ -29477,6 +29476,7 @@ crystallod
 crystallogeny
 crystallogenical
 confliction
+carcharodont
 contractibleness
 cageot
 chileanize
