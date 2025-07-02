@@ -3796,7 +3796,6 @@ gradientia
 gerontism
 geochronometry
 goldbeating
-galilean
 gifola
 giftbook
 geometer
@@ -6523,6 +6522,7 @@ glandarious
 grandaddy
 genesiac
 glaziest
+galilean
 gemminess
 ganowanian
 gnatty
