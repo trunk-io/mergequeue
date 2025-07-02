@@ -5008,6 +5008,7 @@ guards
 glycogen
 gerefa
 grizzlers
+guaranteed
 gandering
 gigantomachy
 gynaecol
@@ -8965,7 +8966,6 @@ gearbox
 giher
 germinating
 galingale
-guaranteed
 gradgrindish
 gushers
 groundwards
