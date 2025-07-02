@@ -25271,7 +25271,6 @@ corkages
 corkboard
 conventionalized
 corker
-corkers
 cense
 corkier
 chytridiaceous
@@ -30653,6 +30652,7 @@ cuddyhole
 cheero
 cuddleable
 cuddled
+corkers
 cuddlesome
 cuddliest
 celiagra
