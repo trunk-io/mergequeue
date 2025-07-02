@@ -13492,7 +13492,6 @@ cocci
 czarists
 cyclothymic
 cocooned
-cyclothure
 casanovanic
 cyclothurine
 canaanite
@@ -20887,6 +20886,7 @@ composite
 composited
 compositely
 composites
+cyclothure
 compositing
 compositional
 conspirational
