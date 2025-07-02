@@ -3546,7 +3546,6 @@ captandum
 captate
 colation
 captation
-caption
 captioned
 convenably
 captioning
@@ -23033,6 +23032,7 @@ consonance
 consonancy
 consonant
 consonantal
+caption
 consonantalize
 consonantic
 cavalcade
