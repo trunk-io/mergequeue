@@ -5442,7 +5442,6 @@ flurt
 fault
 freightment
 firstfruits
-finnip
 fellowmen
 fleecy
 forager
@@ -9281,6 +9280,7 @@ folious
 frangipani
 framea
 framer
+finnip
 frames
 frapler
 forename
