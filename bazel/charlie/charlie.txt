@@ -145,6 +145,7 @@ cablegram
 cablegrams
 cruors
 cistaceae
+chitarra
 cablelaid
 cableless
 cablelike
@@ -11156,7 +11157,6 @@ chit
 chitak
 cordoba
 chuckled
-chitarra
 circuminsular
 compander
 chitarroni
