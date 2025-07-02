@@ -7485,7 +7485,6 @@ cephalometer
 cephalometric
 clysis
 cephalonasal
-cephalopathy
 cephalopharyngeal
 cephalophyma
 cephalophine
@@ -12435,6 +12434,7 @@ chromas
 coffeeweed
 cenote
 claimless
+cephalopathy
 chromate
 conjunction
 chromates
