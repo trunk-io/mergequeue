@@ -590,7 +590,6 @@ adjure
 abnormalising
 abnormalize
 abnormalized
-anatomical
 abnormous
 abo
 aboard
@@ -15120,6 +15119,7 @@ apsidal
 antiemetic
 antiempiric
 antiempirically
+anatomical
 aggrandiser
 absents
 antiendowment
