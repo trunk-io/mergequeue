@@ -1052,7 +1052,6 @@ fulmina
 fucuses
 formate
 foreorder
-fenester
 flustrating
 flashes
 fluoborid
@@ -8598,6 +8597,7 @@ floodmark
 fabes
 farmplace
 frequence
+fenester
 fiscs
 forrard
 flammigerous
