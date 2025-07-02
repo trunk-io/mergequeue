@@ -2345,7 +2345,6 @@ flotation
 foreface
 flagelliferous
 fenestrae
-foreword
 fluoresced
 fenestrated
 feminizing
@@ -8587,6 +8586,7 @@ forninst
 fiddlestring
 fricative
 firedragon
+foreword
 fornix
 fanegada
 forspent
