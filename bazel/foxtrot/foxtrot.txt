@@ -1429,7 +1429,6 @@ fanning
 fatigue
 fossicks
 fatiguesome
-fishbones
 fulminuric
 fittywise
 fatiha
@@ -2930,6 +2929,7 @@ faddish
 feltyfare
 fillagreing
 fisty
+fishbones
 finable
 figworm
 fungid
