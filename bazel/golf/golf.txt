@@ -568,7 +568,6 @@ gazometer
 getfd
 growls
 gableended
-gravamem
 galleting
 gadinine
 gallian
@@ -1268,6 +1267,7 @@ gumpus
 grallina
 gnatsnapper
 granch
+gravamem
 giddying
 gardenia
 gunnels
