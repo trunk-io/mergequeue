@@ -3002,6 +3002,7 @@ flagonless
 flyboy
 furazane
 frustums
+fario
 fencing
 farfetch
 fluellite
@@ -6513,7 +6514,6 @@ flustery
 filiciform
 fondnesses
 fantasized
-fario
 factionist
 fluxes
 floody
