@@ -4419,6 +4419,7 @@ adv
 argue
 advaita
 advance
+antisolar
 advancedness
 advancement
 advancements
@@ -25081,7 +25082,6 @@ arsine
 axenic
 axenically
 annual
-antisolar
 ausforms
 antiastronomical
 axfetch
