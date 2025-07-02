@@ -4978,7 +4978,6 @@ demote
 demoted
 demotes
 disomus
-demotions
 deraign
 deferent
 dysmeromorph
@@ -9212,6 +9211,7 @@ dreamfully
 doblons
 dowses
 diductively
+demotions
 didunculinae
 djasakid
 doraphobia
