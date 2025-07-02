@@ -3569,7 +3569,6 @@ caucus
 calvarias
 captives
 comatulae
-captor
 capturable
 catechized
 capture
@@ -9957,6 +9956,7 @@ choosy
 chemisorb
 cardiotherapy
 coprophilic
+captor
 copperytailed
 chemistry
 chemists
