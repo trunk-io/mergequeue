@@ -2607,6 +2607,7 @@ eras
 exempla
 electrophotomicrography
 electrophrenic
+exterioration
 electropyrometer
 electrophoric
 electroplater
@@ -8609,7 +8610,6 @@ enharmonic
 equibalanced
 electrodialitic
 equicohesive
-exterioration
 equicontinuous
 eyebar
 electrotherapeutic
