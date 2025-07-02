@@ -3336,6 +3336,7 @@ gothicist
 gerontic
 generalships
 gondolier
+glosses
 gnatling
 gorkun
 galbe
@@ -4897,7 +4898,6 @@ gorse
 gwag
 glair
 glaire
-glosses
 gigger
 gradual
 growliness
