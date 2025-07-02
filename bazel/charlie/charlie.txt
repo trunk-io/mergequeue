@@ -4892,7 +4892,6 @@ cetaceous
 carry
 carriage
 carriageable
-carriageful
 clachans
 carriages
 crosstie
@@ -5119,6 +5118,7 @@ chlamydomonadaceae
 casave
 casavi
 casbah
+carriageful
 cascabel
 coestate
 cytocide
