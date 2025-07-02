@@ -1768,6 +1768,7 @@ broquery
 baluchithere
 becollier
 buses
+birdlet
 biretta
 bedraggling
 balustrading
@@ -15897,7 +15898,6 @@ blattering
 burgh
 bromuret
 bromus
-birdlet
 bronchadenitis
 bimetallistic
 brooding
