@@ -2076,7 +2076,6 @@ bannat
 baulky
 biflorous
 bannerline
-bannerole
 blossomry
 bronchus
 bcf
@@ -4365,6 +4364,7 @@ bechtler
 bely
 bonspiels
 bombola
+bannerole
 bechuana
 bellhops
 burbark

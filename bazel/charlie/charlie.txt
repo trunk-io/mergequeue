@@ -5195,7 +5195,6 @@ casemaking
 casemates
 casemented
 casements
-caseolysis
 caseose
 caseous
 caserios
@@ -9284,6 +9283,7 @@ canvases
 chases
 chashitsu
 chasm
+caseolysis
 castigation
 cannulation
 cotonia
