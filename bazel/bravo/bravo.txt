@@ -3760,7 +3760,6 @@ bielded
 blackening
 buncombe
 biocontrol
-basialveolar
 begger
 bobflies
 battute
@@ -8905,6 +8904,7 @@ beslow
 biochemic
 bromvogel
 boeotian
+basialveolar
 bonedog
 buggeries
 biddings
