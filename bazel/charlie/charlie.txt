@@ -16785,7 +16785,6 @@ clotbur
 covings
 clapbread
 carpetbeater
-clote
 chayota
 clomb
 cloth
@@ -29852,6 +29851,7 @@ capiatur
 curriculums
 crossbow
 crossbows
+clote
 crossbred
 culgee
 cladoselache
