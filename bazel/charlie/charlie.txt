@@ -3351,7 +3351,6 @@ caponising
 camaldolensian
 commissariat
 coderives
-caponize
 crispate
 caponized
 contrasty
@@ -9949,6 +9948,7 @@ carvone
 chemiotaxis
 chemiotropic
 chemiotropism
+caponize
 chemise
 crinet
 chemisette
