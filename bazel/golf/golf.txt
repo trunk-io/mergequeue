@@ -8842,7 +8842,6 @@ great
 garboard
 grieved
 glenwood
-gyroceracone
 guesthouses
 greyfly
 glandula
@@ -9053,6 +9052,7 @@ grimalkin
 genitive
 gentianwort
 gynic
+gyroceracone
 ghast
 grimme
 gipsyhood

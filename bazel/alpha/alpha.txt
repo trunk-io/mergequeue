@@ -19516,7 +19516,6 @@ argonauta
 argonautid
 argonne
 argonon
-argons
 argosy
 argot
 archaizes
@@ -22354,6 +22353,7 @@ astrologically
 astrologist
 astriction
 astrologistic
+argons
 anagrammatise
 astrologize
 astromancer
