@@ -4676,6 +4676,7 @@ gauping
 geisothermal
 glycerate
 gigged
+gigabits
 galchic
 gelatia
 generis
@@ -10053,7 +10054,6 @@ goblinize
 gumshoed
 gonomere
 gorgerin
-gigabits
 guerrillas
 guesdism
 groomish
