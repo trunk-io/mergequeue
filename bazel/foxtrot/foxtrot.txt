@@ -3607,7 +3607,6 @@ featherhead
 formant
 frightful
 foulsome
-filamentary
 filament
 flavous
 flagrancy
@@ -4942,6 +4941,7 @@ foldedly
 frumpy
 fibrinate
 fellage
+filamentary
 forbears
 freedmen
 fairwater
