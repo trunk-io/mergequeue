@@ -1647,7 +1647,6 @@ balloting
 ballotist
 ballots
 ballottement
-backlotter
 baronage
 ballottines
 bathwort
@@ -4217,6 +4216,7 @@ bleedings
 bauckiebird
 brl
 beaufet
+backlotter
 belittling
 beaugregory
 bulbonuclear
