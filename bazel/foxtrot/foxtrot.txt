@@ -5991,7 +5991,6 @@ fluorhydric
 filleter
 favism
 firkin
-foresty
 footscald
 floodwood
 foisty
@@ -9265,6 +9264,7 @@ fretwise
 fascinery
 faradomuscular
 frontispieced
+foresty
 fraktur
 fervently
 fasciolet
