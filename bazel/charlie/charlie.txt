@@ -10149,6 +10149,7 @@ chord
 composers
 cherubim
 cherubimic
+capsized
 cherubimical
 cherublike
 crystalize
@@ -26005,7 +26006,6 @@ coscinomancy
 chn
 cose
 creamometer
-capsized
 creatorrhea
 cranioscopical
 contextual
