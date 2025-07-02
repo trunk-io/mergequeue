@@ -22829,7 +22829,6 @@ consentience
 consentient
 cronstedtite
 consentiently
-consenting
 consentingly
 consentive
 consentment
@@ -30004,6 +30003,7 @@ complaintive
 crottle
 crouch
 crouchant
+consenting
 crouchback
 crouched
 crouches
