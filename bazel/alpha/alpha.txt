@@ -13254,7 +13254,6 @@ asnort
 anisodactylic
 axilemma
 anisogamete
-anisogametes
 algarde
 ateeter
 annueler
@@ -15680,6 +15679,7 @@ antiparallel
 androidal
 amphitokous
 antiparallelogram
+anisogametes
 arylamine
 ablet
 antimetathesis
