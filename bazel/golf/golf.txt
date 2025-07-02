@@ -910,7 +910,6 @@ garnishable
 grittiness
 galt
 gametophoric
-gated
 gnashes
 glycaemia
 grumousness
@@ -5265,6 +5264,7 @@ graveling
 geometries
 glossopteris
 glycerin
+gated
 gamelan
 gromil
 glycerite
