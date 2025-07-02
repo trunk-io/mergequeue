@@ -3339,7 +3339,6 @@ explorator
 excursioner
 envelopes
 encyclopaedial
-embannered
 eidoptometry
 emetine
 eodevonian
@@ -11710,6 +11709,7 @@ entoplastic
 exaggeratively
 exagitate
 effluence
+embannered
 electromer
 epiphragmal
 epistemologically
