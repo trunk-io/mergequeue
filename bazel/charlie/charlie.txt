@@ -2595,7 +2595,6 @@ canduc
 camphires
 censuses
 cyclotrons
-cane
 corneum
 cliffing
 constants
@@ -31013,6 +31012,7 @@ cohob
 cumol
 centiliters
 cicala
+cane
 cheilanthes
 commonplaceness
 calescence
