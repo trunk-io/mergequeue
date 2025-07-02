@@ -10103,7 +10103,6 @@ dishonour
 deled
 damply
 dedal
-dogfought
 decasyllable
 definitization
 digoneutic
@@ -17331,6 +17330,7 @@ drony
 droningly
 degelatinize
 dronish
+dogfought
 duellistic
 descending
 dronishness
