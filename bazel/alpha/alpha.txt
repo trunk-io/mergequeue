@@ -1329,7 +1329,6 @@ avows
 acc
 accable
 accel
-accelerable
 animalizing
 accelerando
 argentojarosite
@@ -14472,6 +14471,7 @@ ascenseur
 anthropoidean
 anthropol
 anthropolatry
+accelerable
 antigraphy
 anthropolatric
 anthropolite
