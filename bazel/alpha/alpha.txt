@@ -2816,7 +2816,6 @@ autocamping
 acromicria
 antimeres
 acromimia
-acromiocoracoid
 acromiodeltoid
 amateurishly
 asperated
@@ -16395,6 +16394,7 @@ antlid
 antre
 antling
 airdates
+acromiocoracoid
 antlophobia
 antocular
 agitationist
