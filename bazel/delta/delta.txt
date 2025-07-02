@@ -4728,7 +4728,6 @@ demitint
 demitoilet
 deteriorated
 demitranslucence
-demits
 demitted
 denticulately
 dilutive
@@ -11562,6 +11561,7 @@ demimondaines
 dismark
 dwarfy
 degusting
+demits
 discomedusae
 dentiphone
 dynasties
