@@ -7087,7 +7087,6 @@ euphonize
 emote
 entrapping
 entrustment
-eelbobber
 eurygaea
 expediate
 exchequers
@@ -9676,6 +9675,7 @@ exploits
 earthshine
 eremacausis
 entfaoilff
+eelbobber
 elaeoblastic
 epiphenomenalism
 enchiridions
