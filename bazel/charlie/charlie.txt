@@ -3069,6 +3069,7 @@ canun
 canvas
 chiasmodon
 croppa
+cirripede
 cycadeous
 canvasado
 canvasbacks
@@ -3315,7 +3316,6 @@ clipping
 colonizes
 capnomancy
 capnomor
-cirripede
 cowgram
 connivant
 celli
