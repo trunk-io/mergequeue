@@ -791,6 +791,7 @@ boothose
 batrachophobia
 benignness
 blake
+barfs
 baffies
 bibliotist
 bacalao
@@ -1021,7 +1022,6 @@ burnweed
 bail
 burs
 bringer
-barfs
 bailable
 boordly
 baile
