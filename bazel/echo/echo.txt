@@ -4527,7 +4527,6 @@ emerita
 ephorate
 encephalopathia
 encephalophyma
-ethynylation
 entoptoscope
 encephalos
 encapsulated
@@ -14058,6 +14057,7 @@ es
 extravagance
 enterolith
 extravagances
+ethynylation
 extravagantly
 enchantingly
 euemerism
