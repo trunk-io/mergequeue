@@ -2672,7 +2672,6 @@ genitor
 gauntry
 gripeful
 gorlois
-geniture
 grenades
 gasan
 gumshoes
@@ -7532,6 +7531,7 @@ gloomful
 gaumy
 generalizer
 gheraoes
+geniture
 grille
 gorrel
 grenatite
