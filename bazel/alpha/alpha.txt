@@ -8522,7 +8522,6 @@ alkanets
 albertina
 amebocyte
 autophyllogeny
-alkanol
 alkaphrah
 alkapton
 alkaptone
@@ -10135,6 +10134,7 @@ achor
 antalkali
 argine
 ambrosiate
+alkanol
 ambrosin
 ambrosine
 ambrosio
