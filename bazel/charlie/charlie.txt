@@ -20739,7 +20739,6 @@ celative
 completory
 completories
 complex
-complexation
 complexedness
 complexer
 complexes
@@ -20866,6 +20865,7 @@ carded
 comporting
 circumflexes
 corbiestep
+complexation
 cerealism
 capacitors
 conspissate
