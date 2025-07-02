@@ -8572,7 +8572,6 @@ equatable
 eudaemons
 equate
 ecclesiasticize
-essentializing
 echinated
 eastlin
 ergographic
@@ -10323,6 +10322,7 @@ ergal
 extravasate
 eulogium
 excipulum
+essentializing
 experimentize
 enzymologies
 electronography
