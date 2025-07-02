@@ -3453,7 +3453,6 @@ chivarro
 caprimulgiformes
 chinwood
 caprin
-candlebeam
 cimelia
 caprioled
 caprioles
@@ -6935,6 +6934,7 @@ cellulomonadeae
 chartaceous
 cellulosic
 contented
+candlebeam
 cellulosing
 cellulosity
 correllated
