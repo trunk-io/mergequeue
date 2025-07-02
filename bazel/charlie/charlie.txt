@@ -27975,6 +27975,7 @@ cistophori
 craftspeople
 concubinaries
 cheeriness
+cruelty
 craftwork
 craftworker
 crag
@@ -30204,7 +30205,6 @@ cruelly
 cruelness
 cruels
 communbus
-cruelty
 cruent
 colmar
 cruentation
