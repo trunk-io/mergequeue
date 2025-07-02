@@ -6855,7 +6855,6 @@ forewords
 forger
 foliaged
 fustigator
-fussify
 flipjack
 furomonazole
 foliary
@@ -8922,6 +8921,7 @@ fount
 freshener
 flu
 fountain
+fussify
 fragged
 fossicker
 flueman
