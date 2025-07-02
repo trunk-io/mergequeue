@@ -16050,6 +16050,7 @@ cotoneaster
 clergylike
 cyclos
 clergymen
+cotarius
 clergion
 clergywoman
 culverfoot
@@ -26363,7 +26364,6 @@ coswearer
 cot
 cotabulate
 carya
-cotarius
 calander
 centipedal
 commutative
