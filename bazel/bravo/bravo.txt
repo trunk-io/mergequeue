@@ -2767,7 +2767,6 @@ boatloading
 bookies
 bookit
 been
-baroneting
 bitonal
 baronetize
 ballistocardiographic
@@ -12665,6 +12664,7 @@ bestowable
 boogeymen
 bane
 bellical
+baroneting
 buhrs
 bec
 bolivares
