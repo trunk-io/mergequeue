@@ -862,7 +862,6 @@ grammaticality
 gonagia
 gonadotropin
 girdlingly
-gameless
 gynecomazia
 ganglionitis
 generators
@@ -7124,6 +7123,7 @@ glycid
 gauming
 gross
 genecor
+gameless
 gorgeret
 gorgers
 glideness
