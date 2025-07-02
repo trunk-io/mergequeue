@@ -600,7 +600,6 @@ diathermal
 deposes
 doff
 dishpanful
-damnability
 damnabilities
 disegno
 dawut
@@ -7239,6 +7238,7 @@ detectible
 detection
 diamantiferous
 detectives
+damnability
 deadlight
 disparatum
 daguilla
