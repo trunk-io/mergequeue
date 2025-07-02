@@ -8642,7 +8642,6 @@ equielliptical
 equigranular
 embellishments
 equilateral
-equilaterally
 equilibrant
 enframe
 estrum
@@ -9579,6 +9578,7 @@ expansively
 essences
 evangelistically
 evenhead
+equilaterally
 entrust
 eugenesis
 extravasated
