@@ -4553,7 +4553,6 @@ favissa
 farmlands
 furzes
 feer
-forheed
 foreigner
 forslake
 foresin
@@ -11178,6 +11177,7 @@ frenzelite
 forepaling
 flinter
 fluorophosphate
+forheed
 fullgrownness
 foetalization
 fungoes
