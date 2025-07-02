@@ -8589,7 +8589,6 @@ fricative
 firedragon
 fornix
 fanegada
-forspent
 flocculus
 feower
 fainters
@@ -10211,6 +10210,7 @@ freetrader
 frogbit
 frogeyed
 fissureless
+forspent
 fibra
 frankheartedly
 filite
