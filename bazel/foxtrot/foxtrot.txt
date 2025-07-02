@@ -1142,6 +1142,7 @@ fudgy
 fishling
 fastback
 farrisite
+felsites
 firehalls
 figulate
 flyings
@@ -8029,7 +8030,6 @@ funerals
 flutterer
 fundraise
 footstools
-felsites
 ferroalloy
 fowlery
 faunally
