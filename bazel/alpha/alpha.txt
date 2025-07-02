@@ -1466,7 +1466,6 @@ acclimating
 archipallial
 acclimatisation
 affixable
-acclimatise
 anticynically
 acclimatised
 acclimatiser
@@ -8808,6 +8807,7 @@ arienzo
 allis
 aristocrat
 alliterate
+acclimatise
 acescence
 alliterates
 await
