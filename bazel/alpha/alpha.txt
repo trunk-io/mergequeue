@@ -804,7 +804,6 @@ abris
 abristle
 abroach
 abrocome
-abrogable
 abrogate
 allergies
 anaglyphy
@@ -13199,6 +13198,7 @@ anyone
 anionic
 amiles
 adaptional
+abrogable
 anisado
 anabolic
 alphecca
