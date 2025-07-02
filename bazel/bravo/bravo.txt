@@ -14060,7 +14060,6 @@ bebusy
 bottlebird
 brachydiagonal
 bediaper
-brachydodromous
 boc
 boding
 binzuru
@@ -17324,6 +17323,7 @@ bunchiness
 buncoing
 berthing
 brucellas
+brachydodromous
 blotches
 basilosaurus
 bund
