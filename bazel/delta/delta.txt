@@ -644,6 +644,7 @@ ditroite
 damon
 disrange
 damosel
+degasify
 drachms
 decapitalize
 damped
@@ -3584,7 +3585,6 @@ degage
 degames
 deganglionate
 dystome
-degasify
 discontinued
 disembodies
 dispond
