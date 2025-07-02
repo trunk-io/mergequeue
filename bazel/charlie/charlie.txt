@@ -9597,7 +9597,6 @@ checkage
 capsulized
 checkback
 checkbite
-checkbits
 checkbook
 chachalaca
 cableways
@@ -13774,6 +13773,7 @@ chairwoman
 coppras
 cocuisa
 chuffed
+checkbits
 choriocapillaris
 claimable
 coincidental
