@@ -3370,7 +3370,6 @@ adaunt
 adaxial
 adazzle
 afforded
-adcons
 autopticity
 anchorer
 admires
@@ -9933,6 +9932,7 @@ aphthongal
 abayah
 afferently
 abele
+adcons
 ambarella
 activator
 ambari
