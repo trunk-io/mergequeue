@@ -10939,7 +10939,6 @@ chipchop
 chipewyan
 chiplet
 culvert
-chipmunk
 claviharp
 chipmunks
 chrysochrous
@@ -16111,6 +16110,7 @@ cluppe
 cleruchies
 cardroom
 clerum
+chipmunk
 caraculs
 clerus
 chremzel
