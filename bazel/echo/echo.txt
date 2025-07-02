@@ -98,7 +98,6 @@ ecotone
 engraffed
 ephydridae
 epithelioma
-enumerate
 enchasten
 earpick
 earpiece
@@ -2983,6 +2982,7 @@ eviscerate
 entrenched
 eliquidate
 elysiidae
+enumerate
 elisor
 escobedo
 elissa
