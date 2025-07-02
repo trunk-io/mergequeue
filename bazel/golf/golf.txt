@@ -1772,7 +1772,6 @@ gangwaymen
 gastrostenosis
 gatehouses
 gaskins
-gastrotomic
 gulsach
 glycine
 geodesia
@@ -7330,6 +7329,7 @@ gynostemia
 goter
 gelling
 gamelike
+gastrotomic
 gasolineless
 grewsomely
 gastrohysterectomy
