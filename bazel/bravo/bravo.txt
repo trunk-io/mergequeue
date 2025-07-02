@@ -1729,7 +1729,6 @@ broon
 byline
 boutonniere
 belorussian
-baronial
 baloskion
 bulbels
 belittled
@@ -14462,6 +14461,7 @@ braky
 boatyards
 banyan
 betray
+baronial
 brakie
 blastophitic
 bramble
