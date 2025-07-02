@@ -4990,6 +4990,7 @@ etypical
 electrofused
 endemism
 eco
+electropercussive
 estipulate
 eightscore
 erroneous
@@ -7271,7 +7272,6 @@ equinecessary
 ells
 esplanades
 elpasolite
-electropercussive
 enguard
 effervesce
 emigrator
