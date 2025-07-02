@@ -15504,7 +15504,6 @@ centrosome
 clapt
 chicane
 cautio
-claptraps
 clapwort
 culbuter
 claque
@@ -31232,6 +31231,7 @@ classification
 curace
 cabriolets
 curacoa
+claptraps
 county
 curacoas
 curage
