@@ -2043,7 +2043,6 @@ bedeguar
 blobbing
 buffoonesque
 bicollaterality
-bankrolled
 bankrolling
 bankrupt
 bosporan
@@ -12473,6 +12472,7 @@ bierbalk
 bondship
 bondslave
 bondsman
+bankrolled
 blueys
 braeman
 befrilled
