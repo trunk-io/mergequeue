@@ -6005,7 +6005,6 @@ flavia
 fala
 floorcloths
 feinted
-fluidizing
 folkways
 foreplays
 fawny
@@ -11177,6 +11176,7 @@ finalizations
 frenzelite
 forepaling
 flinter
+fluidizing
 fluorophosphate
 fullgrownness
 foetalization
