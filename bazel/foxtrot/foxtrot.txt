@@ -6537,6 +6537,7 @@ fip
 failsoft
 frotted
 forspread
+felichthys
 fluther
 foldskirt
 fortifying
@@ -8825,7 +8826,6 @@ funmaker
 fload
 fashionability
 flunkeys
-felichthys
 fettstein
 fieldwork
 flecks
