@@ -4899,7 +4899,6 @@ glair
 glaire
 glosses
 gigger
-gradual
 growliness
 glaired
 gurjun
@@ -5761,6 +5760,7 @@ goorals
 guyandot
 giffgaff
 guesstimates
+gradual
 gestio
 goosecap
 groovers
