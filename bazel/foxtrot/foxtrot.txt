@@ -3083,7 +3083,6 @@ forbs
 furiousness
 fossiform
 filmiform
-forma
 fiars
 fiascos
 ferricyanogen
@@ -4663,6 +4662,7 @@ flavory
 fitout
 fitchered
 foolfish
+forma
 fitters
 fitty
 frenziedness
