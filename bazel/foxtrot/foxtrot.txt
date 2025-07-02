@@ -3327,7 +3327,6 @@ forelooper
 fittit
 fuzed
 facecloth
-fibrosity
 forthrightly
 faradizer
 fidate
@@ -11569,6 +11568,7 @@ fusile
 flytier
 fulgurator
 furanoses
+fibrosity
 fusileer
 foretack
 fulmar
