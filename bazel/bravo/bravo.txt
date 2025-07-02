@@ -947,7 +947,6 @@ bourgeoning
 bahisti
 bahnung
 brassards
-bashilange
 barranco
 betook
 brooming
@@ -16761,6 +16760,7 @@ buoyancy
 budgerow
 budgetary
 bigroot
+bashilange
 bowdlerizer
 begladded
 budgeter
