@@ -2086,7 +2086,6 @@ facedown
 faucalize
 frenches
 feinting
-fireboat
 forwander
 flatlander
 faunlike
@@ -10509,6 +10508,7 @@ fortuities
 fetishry
 feodality
 frotton
+fireboat
 fum
 fascicularly
 fumelike
