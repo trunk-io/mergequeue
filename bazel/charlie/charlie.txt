@@ -8044,7 +8044,6 @@ corixidae
 cetologist
 cetomorpha
 cumular
-celiomyalgia
 cetomorphic
 cetonia
 cetonian
@@ -14892,6 +14891,7 @@ citizens
 cytoanalyzer
 catharsis
 celiitis
+celiomyalgia
 copremia
 cytoarchitectural
 cytoblast
