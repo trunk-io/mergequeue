@@ -13292,7 +13292,6 @@ cicisbeo
 cycl
 chromometer
 cyclades
-cycladic
 clavichordist
 cyclamen
 campshot
@@ -15384,6 +15383,7 @@ chathamite
 cupmaking
 clamorousness
 corallite
+cycladic
 clamorsome
 corgis
 clamour
