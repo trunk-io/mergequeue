@@ -3675,6 +3675,7 @@ factories
 fogus
 franco
 fanwort
+fut
 fenagler
 florification
 faultily
@@ -11663,7 +11664,6 @@ fougade
 filoselle
 forcingly
 farasula
-fut
 fute
 funnellike
 futhorc
