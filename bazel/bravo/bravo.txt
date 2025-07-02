@@ -6655,6 +6655,7 @@ blastoma
 bobcat
 bronchia
 beezers
+beaconed
 bergaptene
 bedstand
 bimane
@@ -6990,7 +6991,6 @@ barrico
 besiegers
 bedeman
 bromism
-beaconed
 bradyacousia
 beslap
 beslave
