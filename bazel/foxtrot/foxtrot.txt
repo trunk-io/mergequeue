@@ -8243,7 +8243,6 @@ fossulate
 foresweat
 fabraea
 finickiness
-forge
 forgeable
 forgery
 forwaked
@@ -10116,6 +10115,7 @@ fragor
 facula
 foretopman
 formiate
+forge
 fructuary
 footlight
 functionality

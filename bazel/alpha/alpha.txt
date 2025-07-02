@@ -5486,7 +5486,6 @@ ablings
 afterglow
 alloclasite
 aftergood
-aftergrief
 aftergrowth
 antipathy
 acton
@@ -10293,6 +10292,7 @@ amendments
 amene
 antierosive
 amenorrheic
+aftergrief
 amenorrho
 amenorrhoea
 amenorrhoeal
