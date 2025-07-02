@@ -2679,7 +2679,6 @@ decompoundly
 decompress
 decompresses
 detectaphone
-demiplacate
 decompressive
 dogies
 duckies
@@ -17240,6 +17239,7 @@ dmarche
 drives
 dredgings
 disulfate
+demiplacate
 devotee
 driveway
 decrepitation
