@@ -4225,6 +4225,7 @@ feminise
 floodtime
 firebrick
 foulmouthed
+furnaceman
 foretokening
 firebug
 flagstones
@@ -9473,7 +9474,6 @@ foeticide
 fico
 fratry
 flippery
-furnaceman
 fulcrate
 flounderingly
 fratricelli
