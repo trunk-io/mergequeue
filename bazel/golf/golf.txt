@@ -3772,7 +3772,6 @@ gorger
 gola
 girosol
 glarier
-gonapophysal
 gearwheels
 gideon
 gyropilot
@@ -9845,6 +9844,7 @@ goaf
 gaposis
 gonadic
 glaniostomi
+gonapophysal
 guanayes
 groow
 galaxy
