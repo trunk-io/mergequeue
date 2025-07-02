@@ -3639,7 +3639,6 @@ glossologies
 gracilescent
 gussying
 guppy
-glossiphonia
 gadgeteer
 grifters
 ghostland
@@ -6255,6 +6254,7 @@ gothicizer
 gobbledygook
 gelatinised
 georama
+glossiphonia
 gobbler
 governessy
 gid
