@@ -3566,6 +3566,7 @@ gld
 grouching
 gedder
 gro
+geochemist
 gluconeogenic
 goldest
 gauntleted
@@ -5570,7 +5571,6 @@ glucaemia
 gumming
 ganglioneuroma
 gripless
-geochemist
 geophysical
 glendale
 gefilte
