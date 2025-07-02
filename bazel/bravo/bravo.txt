@@ -12470,7 +12470,6 @@ bondon
 bookroom
 bawdrick
 bierbalk
-bondship
 bondslave
 bondsman
 blueys
@@ -13742,6 +13741,7 @@ burmanniaceae
 bet
 boutylka
 boutique
+bondship
 boches
 bouto
 boneflower
