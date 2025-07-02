@@ -2816,7 +2816,6 @@ bulkiest
 baudery
 barothermograph
 barothermohygrograph
-barotrauma
 bulgurs
 bravest
 burbling
@@ -9760,6 +9759,7 @@ bacilliparous
 bistephanic
 bastinades
 bistered
+barotrauma
 bisters
 baidak
 bruce
