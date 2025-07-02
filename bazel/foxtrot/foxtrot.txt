@@ -504,6 +504,7 @@ fleetful
 foulard
 fuseau
 fakeer
+feedbags
 fetiferous
 fullbacks
 foremastman
@@ -650,7 +651,6 @@ frame
 falsificate
 facesaving
 falsifier
-feedbags
 floaty
 falsifying
 falunian
