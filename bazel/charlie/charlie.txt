@@ -6544,7 +6544,6 @@ confiner
 cambodia
 cavelike
 caveman
-cavemen
 cavern
 cavernal
 cavernlike
@@ -7008,6 +7007,7 @@ cyborgs
 cementin
 carane
 cementite
+cavemen
 corbeil
 cementitious
 cementlike
