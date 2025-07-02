@@ -10262,7 +10262,6 @@ bratty
 blippers
 bellweather
 bulldogs
-biborate
 boracic
 blacksmithing
 biochemy
@@ -13322,6 +13321,7 @@ botched
 botchedly
 botcher
 benadryl
+biborate
 bridgeman
 botcheries
 botcherly
