@@ -2254,6 +2254,7 @@ decemcostate
 durax
 dyewoods
 decemfoliate
+diag
 delectable
 dogmas
 decempedal
@@ -6495,7 +6496,6 @@ dime
 daubingly
 dorsifixed
 disencumberment
-diag
 dispossesses
 desmarestiaceae
 descendable
