@@ -8587,7 +8587,6 @@ billbroking
 billbug
 biller
 blackeye
-brantcorn
 brawlis
 billeted
 billeter
@@ -15767,6 +15766,7 @@ beaconing
 backlasher
 brokerly
 bradykinesia
+brantcorn
 barding
 beryllium
 broking
