@@ -1077,7 +1077,6 @@ groundway
 gypsums
 glares
 guarding
-gowdy
 goularo
 gormandizers
 genitives
@@ -10357,6 +10356,7 @@ glycerogel
 geum
 gamine
 gallivorous
+gowdy
 glaur
 grouseberry
 gelate
