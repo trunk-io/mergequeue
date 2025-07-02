@@ -14593,7 +14593,6 @@ domine
 detents
 divisions
 divisive
-divisively
 develope
 decomposition
 divisiveness
@@ -17704,6 +17703,7 @@ dubb
 demidevil
 dilemmic
 dullhearted
+divisively
 dynamometer
 dwarves
 deuteroelastose
