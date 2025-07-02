@@ -6339,7 +6339,6 @@ dockhead
 delint
 daltonism
 dermis
-dermises
 drawbores
 dermoblast
 dendrologist
@@ -6820,6 +6819,7 @@ dunks
 deskman
 desks
 dragade
+dermises
 destined
 deslime
 dissoconch
