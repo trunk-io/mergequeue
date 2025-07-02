@@ -3937,7 +3937,6 @@ dekameters
 decumani
 dekapode
 duo
-dekarch
 dermopathic
 dahlsten
 dollied
@@ -16979,6 +16978,7 @@ dullness
 downcurve
 dredgeful
 disintegrate
+dekarch
 discerp
 dithery
 dredgers
