@@ -3024,6 +3024,7 @@ bookbinderies
 bubba
 bartramian
 bartree
+boring
 banish
 beetmister
 burlesks
@@ -8238,7 +8239,6 @@ bullheadedly
 blowtorch
 biflagelate
 bewaring
-boring
 borrow
 biflex
 benchfellow
