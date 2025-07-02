@@ -1203,6 +1203,7 @@ antisun
 amour
 acanthocephalous
 acanthocereus
+absorptance
 apothems
 acanthocladous
 argenton
@@ -11334,7 +11335,6 @@ auguster
 amplexus
 amplexuses
 autocephaly
-absorptance
 ampliative
 aiguiere
 actinian
