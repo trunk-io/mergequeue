@@ -3811,6 +3811,7 @@ boschboks
 baulked
 brache
 bearbane
+beldams
 bequeaths
 bucerotes
 behight
@@ -5670,7 +5671,6 @@ busks
 boraciferous
 benjoin
 bylaw
-beldams
 bacchar
 bilify
 belderroot
