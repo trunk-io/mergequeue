@@ -12773,6 +12773,7 @@ ammocoetid
 angiosclerotic
 angioscope
 aeroelastics
+arithmometer
 arlington
 angiosymphysis
 adry
@@ -17361,7 +17362,6 @@ aposteriori
 arctogaea
 aerogun
 apostil
-arithmometer
 apostille
 argos
 antagonist
