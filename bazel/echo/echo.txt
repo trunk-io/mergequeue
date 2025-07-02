@@ -5841,6 +5841,7 @@ epiblastema
 engrafts
 engrailed
 encyrtid
+entomophaga
 elsewards
 epizoicide
 engrainer
@@ -7966,7 +7967,6 @@ ensiferi
 entreater
 epizootiology
 epilogical
-entomophaga
 eurystomatous
 emitter
 experiment
