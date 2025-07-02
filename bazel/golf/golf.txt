@@ -6422,7 +6422,6 @@ goodyear
 goldenback
 goldeney
 gradationately
-gauger
 goldener
 gidgee
 guldens
@@ -8209,6 +8208,7 @@ grainery
 glimpser
 gyropigeon
 grammarians
+gauger
 galimatias
 gimp
 grippingness
