@@ -20830,6 +20830,7 @@ complines
 complins
 complot
 canted
+cured
 complots
 complotter
 complotting
@@ -31312,7 +31313,6 @@ curdles
 curdly
 curdoo
 conceivably
-cured
 cornix
 cureless
 corypha
