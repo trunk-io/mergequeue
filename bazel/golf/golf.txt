@@ -2601,6 +2601,7 @@ gynecologists
 gynophagite
 gardeviance
 geneura
+guardhouses
 gibbles
 genevan
 gedds
@@ -7630,7 +7631,6 @@ granters
 gardebras
 glozed
 gastropodan
-guardhouses
 gradiometric
 gaup
 gastrophilus
