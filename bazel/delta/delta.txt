@@ -6561,7 +6561,6 @@ dogsled
 descriptionless
 dangleberry
 distensile
-designator
 diota
 daedal
 deity
@@ -17723,6 +17722,7 @@ dedifferentiation
 decanonization
 dubbins
 dicarbonate
+designator
 dubiety
 demutization
 dawing
