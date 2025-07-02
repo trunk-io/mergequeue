@@ -6813,6 +6813,7 @@ airlessness
 anchistopoda
 airlift
 airlifting
+apodal
 airlifts
 airlike
 airline
@@ -17081,7 +17082,6 @@ ammoniac
 arefaction
 aerophotography
 agranulocyte
-apodal
 apodan
 apodedeipna
 acrotarsium
