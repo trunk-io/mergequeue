@@ -6103,6 +6103,7 @@ biochemistries
 benasty
 beholdable
 bedrift
+birdbath
 bataan
 boarskin
 binauricular
@@ -7393,7 +7394,6 @@ betis
 betises
 byproduct
 botrycymose
-birdbath
 baze
 betoken
 braker
