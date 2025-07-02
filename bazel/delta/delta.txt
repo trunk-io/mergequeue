@@ -1732,6 +1732,7 @@ deathrates
 deaths
 deathsman
 dumble
+detuning
 derogation
 didelphous
 disaccord
@@ -7470,7 +7471,6 @@ dynasticism
 deposal
 detune
 destructionism
-detuning
 diastrophic
 dragooned
 dunderpates
