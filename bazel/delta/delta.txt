@@ -2603,7 +2603,6 @@ decode
 dartars
 decodes
 deignous
-deoxygenation
 decodon
 demiurges
 daniele
@@ -4867,6 +4866,7 @@ demonetize
 derotrema
 dextrous
 disappearances
+deoxygenation
 dermatosis
 dustermen
 dilleniad

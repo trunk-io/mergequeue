@@ -1541,6 +1541,7 @@ feods
 frawn
 futureless
 flaillike
+freestones
 flunkyhood
 floatability
 fungillus
@@ -5432,7 +5433,6 @@ fragmentize
 frisado
 factorial
 fledgiest
-freestones
 floatless
 foisonless
 fabian
