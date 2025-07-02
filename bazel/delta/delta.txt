@@ -15305,6 +15305,7 @@ dissociate
 dingmaul
 demipriest
 depressanth
+descending
 derotremate
 domicile
 dother
@@ -17332,7 +17333,6 @@ droningly
 degelatinize
 dronish
 duellistic
-descending
 dronishness
 dronkelew
 dronkgrass
