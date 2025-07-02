@@ -5564,7 +5564,6 @@ flexion
 flexitime
 ferdiad
 folliculate
-flexography
 fleecer
 flexographic
 fatal
@@ -9147,6 +9146,7 @@ fractionalize
 footropes
 flopover
 flitch
+flexography
 fluing
 fuzee
 fruitarian
