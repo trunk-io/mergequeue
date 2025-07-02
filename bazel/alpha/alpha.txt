@@ -5818,6 +5818,7 @@ adradial
 agen
 archfelon
 anisocarpic
+annulling
 agend
 ampyx
 ave
@@ -13580,7 +13581,6 @@ annuli
 aerolitics
 annullate
 annuller
-annulling
 annulment
 anaretic
 annulments
