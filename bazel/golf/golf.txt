@@ -5585,6 +5585,7 @@ governance
 giantesque
 girdlecake
 grossular
+gusseting
 giftlike
 gl
 groundwall
@@ -8234,7 +8235,6 @@ graphotype
 groggery
 grapier
 gasthaus
-gusseting
 glossographer
 globule
 graping
