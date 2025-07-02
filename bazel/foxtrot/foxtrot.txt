@@ -2782,7 +2782,6 @@ fixes
 fetation
 fraternization
 fyrd
-fightings
 forelimbs
 fyce
 fezziwig
@@ -3562,6 +3561,7 @@ figuline
 fended
 federary
 figurable
+fightings
 fixture
 figurae
 forebowels
