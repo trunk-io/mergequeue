@@ -6334,7 +6334,6 @@ gambelli
 ganoblast
 garnitures
 gofer
-gutsiness
 given
 getspace
 goldspink
@@ -10343,6 +10342,7 @@ gown
 gonoph
 gulfside
 grot
+gutsiness
 gibbously
 glebal
 guarana
