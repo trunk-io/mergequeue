@@ -5208,7 +5208,6 @@ futter
 footpaddery
 francolin
 frontate
-frozenhearted
 fruiters
 fedifragous
 furmente
@@ -10656,6 +10655,7 @@ foodstuffs
 fruitiness
 fieldworker
 flagless
+frozenhearted
 footler
 famish
 frightable
