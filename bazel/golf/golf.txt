@@ -2238,7 +2238,6 @@ globelike
 garance
 gomavel
 gnosiological
-geissoloma
 geissolomataceae
 geissolomataceous
 geissospermine
@@ -10220,6 +10219,7 @@ generaliser
 guildhall
 gunny
 grippers
+geissoloma
 guzzled
 guile
 gyrectomies
