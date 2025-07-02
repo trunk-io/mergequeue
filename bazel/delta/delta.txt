@@ -10679,6 +10679,7 @@ diplonema
 detritus
 dunnaged
 diplont
+draftage
 diplonts
 diplophase
 difficultness
@@ -18091,7 +18092,6 @@ denominating
 discontinuer
 dandriffs
 dumbest
-draftage
 dumbfounderment
 dumbfounding
 denatures
