@@ -14903,7 +14903,6 @@ abret
 anticlinal
 anticlines
 anticlinoria
-anticlinorium
 axised
 alkenes
 anticlockwise
@@ -16532,6 +16531,7 @@ aortographic
 augelite
 antefixa
 aortoiliac
+anticlinorium
 amurcous
 agathism
 analyzers
