@@ -437,7 +437,6 @@ backpiece
 backplane
 baa
 brachiostrophosis
-backpointer
 bushwas
 backrush
 backscatter
@@ -11471,6 +11470,7 @@ bluetop
 berths
 blueweed
 bravos
+backpointer
 bundlers
 basophilia
 begemming
