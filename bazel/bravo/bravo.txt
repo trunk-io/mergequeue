@@ -737,7 +737,6 @@ bending
 befoul
 bandsawing
 badges
-badging
 banksman
 bifrost
 badiaga
@@ -4940,6 +4939,7 @@ beehive
 busser
 bandy
 beek
+badging
 balkers
 boarfish
 bergamot
