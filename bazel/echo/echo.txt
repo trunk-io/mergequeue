@@ -347,7 +347,6 @@ electrolyzability
 eaten
 eighty
 electrodynamic
-enchantment
 evangelian
 empeirema
 epacridaceous
@@ -10488,6 +10487,7 @@ ensaint
 enroot
 estruation
 exstill
+enchantment
 etymologizable
 etymologization
 evaluator
