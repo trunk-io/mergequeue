@@ -2479,7 +2479,6 @@ griever
 gained
 grooveless
 gigmania
-generable
 generalise
 gynandrous
 graciously
@@ -4725,6 +4724,7 @@ goad
 gaels
 gasometer
 gigadoid
+generable
 glided
 gomarian
 giuseppe
