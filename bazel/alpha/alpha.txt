@@ -1564,6 +1564,7 @@ abbaye
 accorder
 accordingly
 amritas
+amba
 amalg
 accordion
 accordionist
@@ -11591,7 +11592,6 @@ analgene
 alphabetize
 athens
 anacrogynae
-amba
 anacrogynous
 anacrotic
 altricial
