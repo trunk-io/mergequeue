@@ -9292,7 +9292,6 @@ dictynid
 diencephala
 departed
 diencephalon
-docibleness
 dienes
 delis
 dier
@@ -18201,6 +18200,7 @@ dundasite
 didascalar
 downfallen
 depersonalize
+docibleness
 delights
 ditetragonal
 dentatocostate
