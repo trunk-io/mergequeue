@@ -5662,6 +5662,7 @@ arthrodial
 adiposes
 adulter
 agama
+autocoherer
 awning
 agamemnon
 afterwash
@@ -24876,7 +24877,6 @@ acrobatics
 amphithect
 astronavigation
 avshar
-autocoherer
 acknown
 ayenbite
 attractableness

@@ -9281,7 +9281,6 @@ chaseable
 chased
 corbeilles
 canvases
-chases
 chashitsu
 chasm
 castigation
@@ -24167,6 +24166,7 @@ carfax
 cantinier
 conviction
 convictional
+chases
 civilizatory
 convictions
 convictism
