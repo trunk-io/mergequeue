@@ -11479,7 +11479,6 @@ chlorophora
 cameralist
 chloropicrin
 chloroplast
-chloroplastic
 chloroplasts
 cosmonautics
 coenamorment
@@ -23286,6 +23285,7 @@ consulship
 consulships
 clavieristic
 consulta
+chloroplastic
 captors
 consultable
 carbora
