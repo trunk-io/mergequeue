@@ -6306,7 +6306,6 @@ gribbles
 grail
 galipot
 gobstopper
-goyish
 goosenecked
 groceries
 gracer
@@ -9819,6 +9818,7 @@ gymnotid
 guaiacolize
 guaiaconic
 guesstimated
+goyish
 guayaqui
 gawcie
 goldbrick
