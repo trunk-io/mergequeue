@@ -1712,7 +1712,6 @@ gammon
 glibber
 gave
 gloeal
-glessite
 glass
 guesses
 gamesman
@@ -6797,6 +6796,7 @@ gravelly
 galloflavine
 gyred
 gallowsness
+glessite
 gauntleting
 gatewright
 graille
