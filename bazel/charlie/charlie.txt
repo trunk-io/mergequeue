@@ -7044,7 +7044,6 @@ cotyligerous
 cosinusoid
 cenizo
 cenobe
-codable
 capitellar
 colometrically
 cenobies
@@ -11988,6 +11987,7 @@ chordamesodermal
 chordamesodermic
 chordate
 chorded
+codable
 chordee
 choriso
 cst
