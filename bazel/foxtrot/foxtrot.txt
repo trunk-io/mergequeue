@@ -3766,7 +3766,6 @@ feodal
 facebread
 fillies
 feetless
-firedogs
 foalfoot
 falla
 flaccidities
@@ -3864,6 +3863,7 @@ forestall
 foxer
 filmstrips
 filo
+firedogs
 filose
 furnitureless
 foreflap
