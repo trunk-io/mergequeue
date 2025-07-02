@@ -1317,7 +1317,6 @@ garroter
 glut
 gary
 groundling
-griphus
 gristbite
 glyptodontidae
 gignate
@@ -1981,6 +1980,7 @@ gums
 gauzewing
 gomorrah
 gnaeus
+griphus
 galactia
 grithman
 gauzy
