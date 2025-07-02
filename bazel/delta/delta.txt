@@ -183,7 +183,6 @@ drachmai
 dopiest
 decipherer
 daedaloid
-displacement
 diel
 diaplasma
 dozen
@@ -15692,6 +15691,7 @@ departmentalise
 detacher
 doorward
 doorweed
+displacement
 doover
 doozers
 didascaliae
