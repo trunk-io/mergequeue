@@ -11730,6 +11730,7 @@ binmen
 bede
 beboss
 bardolatry
+beast
 birthmate
 bestubbled
 bonneted
@@ -15523,7 +15524,6 @@ biliprasin
 briskets
 bromlite
 bescent
-beast
 bussy
 barbule
 boardable
