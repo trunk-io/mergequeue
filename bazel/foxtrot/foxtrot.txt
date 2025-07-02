@@ -1497,7 +1497,6 @@ fanwork
 false
 fall
 fiddled
-funis
 fattishness
 fother
 frimitts
@@ -2950,6 +2949,7 @@ fluky
 ferlies
 funks
 fetterlock
+funis
 flatfish
 forewing
 feign
