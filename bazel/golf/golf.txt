@@ -6606,6 +6606,7 @@ gruss
 gyrodyne
 gateman
 gropes
+generosity
 gambusias
 gunnysack
 glunch
@@ -7202,7 +7203,6 @@ governorate
 gourmands
 glassmaker
 grailer
-generosity
 gribble
 gemination
 gloater
