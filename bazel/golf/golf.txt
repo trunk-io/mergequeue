@@ -5208,7 +5208,6 @@ geomancer
 guardianships
 girouette
 gleys
-grimmia
 gynecopathic
 graciles
 grindery
@@ -6710,6 +6709,7 @@ gnotobiote
 granitized
 gagging
 gripped
+grimmia
 geneticist
 georgic
 globulet
