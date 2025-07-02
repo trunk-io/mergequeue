@@ -9639,7 +9639,6 @@ checkmate
 chirosophist
 chiotilla
 checkmating
-cautioning
 circumferences
 checkpoint
 checkpointed
@@ -22373,6 +22372,7 @@ congressist
 cleidotomy
 casettes
 congresso
+cautioning
 congresswomen
 congridae
 centigramme
