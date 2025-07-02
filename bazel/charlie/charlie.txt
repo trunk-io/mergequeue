@@ -2560,6 +2560,7 @@ candlers
 casework
 candles
 collaborated
+chiffonnier
 candleshine
 chaucerism
 candleshrift
@@ -10501,7 +10502,6 @@ chiffoniers
 cooncan
 cementing
 cryptometer
-chiffonnier
 chiffonnieres
 conchinin
 chiffons
