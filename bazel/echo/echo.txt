@@ -1375,7 +1375,6 @@ ebcdic
 excludability
 ethylated
 enopla
-ergotized
 exemplupla
 eucalyptol
 estatesman
@@ -11707,6 +11706,7 @@ erythrogenic
 ecphasis
 ecoid
 entoplastic
+ergotized
 exaggeratively
 exagitate
 effluence
