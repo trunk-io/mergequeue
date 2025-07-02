@@ -15555,7 +15555,6 @@ comether
 clarinetists
 contemporise
 clarinets
-cryptorrhesis
 clarinettist
 clarinettists
 clarini
@@ -17256,6 +17255,7 @@ coagent
 caftan
 customary
 countermount
+cryptorrhesis
 coagents
 coaggregate
 condottieri
