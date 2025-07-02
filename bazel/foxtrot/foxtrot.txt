@@ -33,7 +33,6 @@ fibrocyst
 fabricates
 fabricator
 formularize
-flintless
 flintworker
 furies
 farmscape
@@ -2971,6 +2970,7 @@ fettucini
 feture
 fungiferous
 fruitlet
+flintless
 froglike
 farsightedly
 flows
