@@ -749,7 +749,6 @@ famp
 famuli
 frustrater
 fana
-fcs
 feoffment
 fluxion
 feministics
@@ -8513,6 +8512,7 @@ foxtrot
 flunkydom
 fistiana
 flouring
+fcs
 fluid
 facsimiling
 fetlock
