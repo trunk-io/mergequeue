@@ -9814,6 +9814,7 @@ bandonion
 biteable
 begin
 bongo
+bagman
 bicetyl
 burgherhood
 biteche
@@ -13533,7 +13534,6 @@ bibliophile
 bra
 burdening
 baling
-bagman
 bobs
 binucleolate
 ballutes
