@@ -2954,7 +2954,6 @@ cantering
 canthal
 curling
 canthari
-cantharic
 cantharidae
 cake
 chytrid
@@ -17637,6 +17636,7 @@ conducible
 coccerin
 corr
 coccic
+cantharic
 chrisoms
 coccidae
 coagency
