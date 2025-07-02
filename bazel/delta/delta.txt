@@ -12711,7 +12711,6 @@ disdiplomatize
 disfavour
 dissolute
 disleafed
-diffrangibility
 disleaved
 disjointure
 disepalous
@@ -15133,6 +15132,7 @@ doghead
 doghood
 doghouse
 dogie
+diffrangibility
 doglegging
 doglegs
 doglike
