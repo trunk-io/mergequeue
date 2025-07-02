@@ -3468,7 +3468,6 @@ gumbotils
 glucogene
 gilt
 gettings
-grogginess
 gantangs
 gigtree
 griffe
@@ -5955,6 +5954,7 @@ groucho
 gimmicked
 gurneys
 glutaminic
+grogginess
 galliambus
 gome
 gilaki
