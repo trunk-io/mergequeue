@@ -4419,6 +4419,7 @@ froggier
 feltwork
 flybook
 fixion
+flavoury
 fishboats
 fishbolts
 flechette
@@ -10031,7 +10032,6 @@ frilling
 flee
 flatwork
 fantod
-flavoury
 flor
 fryer
 foollike
