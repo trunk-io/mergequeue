@@ -5420,7 +5420,6 @@ casterless
 cinemograph
 corncob
 crummies
-cibolan
 corv
 casters
 ciliation
@@ -5511,6 +5510,7 @@ celeomorph
 chamaecyparis
 crunode
 casuistess
+cibolan
 conchobor
 chains
 cutaneal
