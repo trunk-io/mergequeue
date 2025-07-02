@@ -3358,7 +3358,6 @@ contrasty
 caponizer
 caponizing
 caponniere
-capons
 caporal
 caporals
 condyle
@@ -18930,6 +18929,7 @@ crystosphene
 colilysin
 caddied
 cilioretinal
+capons
 colymbidae
 coarcted
 colymbion
