@@ -5901,7 +5901,6 @@ colorlessness
 chaffier
 catella
 ctenodactyl
-catena
 catenae
 catenane
 cremates
@@ -10068,6 +10067,7 @@ chiro
 chenopods
 cheoplastic
 cajuputs
+catena
 chequebook
 croup
 chequer
