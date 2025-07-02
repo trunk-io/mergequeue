@@ -195,7 +195,6 @@ daemony
 deforesting
 dealfish
 daemons
-daemonurgist
 dak
 deemstership
 dysgenic
@@ -8297,6 +8296,7 @@ disputableness
 dele
 diagonal
 diagonalizable
+daemonurgist
 diagonalization
 diagnosing
 dandyprat
