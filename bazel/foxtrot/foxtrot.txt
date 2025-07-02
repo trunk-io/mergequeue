@@ -5152,6 +5152,7 @@ faugh
 flashiness
 famulli
 furler
+fuzzes
 fregit
 freeway
 farmhousey
@@ -10594,7 +10595,6 @@ feeblebrained
 freakouts
 finement
 fatefulness
-fuzzes
 fulgent
 foiling
 foilsman
