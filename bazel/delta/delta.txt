@@ -9087,6 +9087,7 @@ dictaphone
 dernier
 drinkproof
 dictaphones
+doover
 dictate
 dictating
 dabbers
@@ -15692,7 +15693,6 @@ departmentalise
 detacher
 doorward
 doorweed
-doover
 doozers
 didascaliae
 diobely
