@@ -1501,6 +1501,7 @@ bistable
 bedsick
 balladic
 balladised
+biotic
 balladism
 brisked
 bronchopleurisy
@@ -5148,7 +5149,6 @@ befools
 bridgeport
 budworm
 before
-biotic
 borings
 boomorah
 broadside
