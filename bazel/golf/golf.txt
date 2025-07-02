@@ -1712,6 +1712,7 @@ gammon
 glibber
 gave
 gloeal
+gaumy
 glessite
 glass
 guesses
@@ -7529,7 +7530,6 @@ grassweed
 gledge
 gemels
 gloomful
-gaumy
 generalizer
 gheraoes
 grille
