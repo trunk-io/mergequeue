@@ -1771,6 +1771,7 @@ buses
 biretta
 bedraggling
 balustrading
+backstitching
 bulbed
 bivvy
 balzarine
@@ -15955,7 +15956,6 @@ bronchophony
 bayoneting
 bibionidae
 bronchoplasty
-backstitching
 bronchorrhaphy
 bronchorrhea
 bronchos
