@@ -7796,7 +7796,6 @@ cerithiidae
 cerithium
 ceriums
 corambis
-chloroplatinite
 cermet
 cyamid
 ciceros
@@ -8419,6 +8418,7 @@ complexity
 carbure
 corallet
 choyroot
+chloroplatinite
 chalinitis
 chalkboard
 chalkboards
