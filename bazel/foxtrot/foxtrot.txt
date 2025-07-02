@@ -3884,6 +3884,7 @@ filtermen
 forcefully
 futtermassel
 foreiron
+feltlike
 forbare
 foundationer
 flowingly
@@ -10642,7 +10643,6 @@ fegatella
 fickly
 forcibly
 fitzroy
-feltlike
 fruitester
 fargood
 fivepence
