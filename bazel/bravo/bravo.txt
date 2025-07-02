@@ -852,7 +852,6 @@ batterfang
 bauxites
 bagful
 baggagemaster
-baggager
 benzidin
 baggala
 bijouterie
@@ -11888,6 +11887,7 @@ birdsall
 bended
 bakshished
 bodoni
+baggager
 biotaxy
 bodonid
 bromic
