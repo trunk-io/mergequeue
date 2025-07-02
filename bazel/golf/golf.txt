@@ -750,6 +750,7 @@ geomechanics
 galvanomagnetism
 gombeen
 goumi
+gaudete
 genericness
 genae
 galvanoplasty
@@ -2084,7 +2085,6 @@ gen
 glumiferous
 galla
 globosity
-gaudete
 graced
 glycoluric
 gazellelike
