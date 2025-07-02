@@ -4237,6 +4237,7 @@ fanions
 federals
 ferfathmur
 felonries
+foreground
 featherstitch
 foothold
 fluate
@@ -7225,7 +7226,6 @@ farers
 fimbrillose
 fiend
 fiver
-foreground
 footpad
 favellidia
 feodary
