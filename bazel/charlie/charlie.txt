@@ -2177,7 +2177,6 @@ calvinize
 conference
 campi
 concurrency
-campy
 campier
 campiest
 campignian
@@ -19346,6 +19345,7 @@ colonels
 colonelships
 conductorless
 coloner
+campy
 cupuliferae
 colones
 colonette
