@@ -1916,7 +1916,6 @@ glutetei
 gruft
 gustoso
 gastrilegous
-gamasidae
 gobans
 gauleiter
 gastrohepatic
@@ -7529,6 +7528,7 @@ grassweed
 gledge
 gemels
 gloomful
+gamasidae
 gaumy
 generalizer
 gheraoes
