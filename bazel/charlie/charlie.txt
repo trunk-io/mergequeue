@@ -6570,7 +6570,6 @@ cavyyard
 caviled
 canmaker
 cavilers
-cavilingly
 craftsmen
 ceraunogram
 cognizably
@@ -17537,6 +17536,7 @@ cobble
 capax
 cobbled
 cobblerfish
+cavilingly
 cobblerism
 cobblers
 cobblership
