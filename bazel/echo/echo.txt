@@ -6654,6 +6654,7 @@ excluding
 enterococcal
 esperantidist
 embryous
+excepts
 enseam
 expulsatory
 enterocoela
@@ -7482,7 +7483,6 @@ ephidrosis
 ephas
 ephebea
 erythrogonium
-excepts
 elenctic
 escapers
 ephebeubea
