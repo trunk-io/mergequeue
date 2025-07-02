@@ -4187,6 +4187,7 @@ cyclus
 cardiomelanosis
 contradivide
 cardiometer
+ceruleite
 cardiometric
 cardiomyomalacia
 cardiomyopathy
@@ -7883,7 +7884,6 @@ cerulean
 ceruleans
 cerulein
 cache
-ceruleite
 ceruleolactite
 cravenette
 contingencies
