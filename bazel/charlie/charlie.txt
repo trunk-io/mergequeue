@@ -7495,6 +7495,7 @@ cryoprobe
 cephalopoda
 convolvulinolic
 crusher
+cherts
 cephalopodous
 cephalopterus
 cephalorhachidian
@@ -15982,7 +15983,6 @@ cleidocostal
 cleidohyoid
 cleidoic
 chiromance
-cherts
 cleidomancy
 cleidorrhexis
 chiripa
