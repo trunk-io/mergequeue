@@ -6348,7 +6348,6 @@ gamin
 gugal
 greenwort
 gastrular
-guesstimate
 glossophaga
 gobstick
 gulmohar
@@ -6834,6 +6833,7 @@ gonosphere
 gymnasiarch
 grisettish
 gorbal
+guesstimate
 guaranty
 globosities
 galaxies
