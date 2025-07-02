@@ -72,7 +72,6 @@ flagships
 fighters
 flecken
 facellite
-felonious
 furthers
 flysch
 forementioned
@@ -11689,6 +11688,7 @@ flocculate
 feminines
 felids
 fusarial
+felonious
 forelands
 flare
 fagaceous
