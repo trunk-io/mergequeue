@@ -2564,7 +2564,6 @@ decasualization
 dipneumones
 dimmed
 declinations
-dynasty
 declinator
 declinatory
 declines
@@ -12703,6 +12702,7 @@ diskophile
 defoliage
 divining
 die
+dynasty
 daubs
 dehorts
 diatrymiformes
