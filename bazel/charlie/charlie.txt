@@ -3319,6 +3319,7 @@ cirripede
 cowgram
 connivant
 celli
+crepitus
 capo
 chaufers
 coughweed
@@ -16905,7 +16906,6 @@ cloverleaves
 cloverley
 cycadophyte
 cloverroot
-crepitus
 clovewort
 castling
 coauditor
