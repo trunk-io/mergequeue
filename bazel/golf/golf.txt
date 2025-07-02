@@ -1753,7 +1753,6 @@ guiba
 guaycuruan
 galliambic
 gastrorrhea
-gramps
 guaiacols
 gonadial
 genealogizer
@@ -5858,6 +5857,7 @@ gravimetric
 glave
 goliards
 glucolipid
+gramps
 glucolipin
 graphometrist
 gallywasp
