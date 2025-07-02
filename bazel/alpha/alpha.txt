@@ -8942,6 +8942,7 @@ allomorphite
 allonym
 alongst
 allonymous
+anticar
 allonymously
 allonyms
 allonomous
@@ -21121,7 +21122,6 @@ asellus
 ascertainableness
 acquisitiveness
 asem
-anticar
 alphabetics
 asemic
 asepses
