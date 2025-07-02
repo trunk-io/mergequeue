@@ -1947,7 +1947,6 @@ endict
 exarchateship
 elementalist
 ejaculatory
-erdvark
 elishah
 ejectively
 enfierce
@@ -3208,6 +3207,7 @@ encephalotomy
 enervated
 elusive
 entrench
+erdvark
 episcleral
 emancipates
 esophagospasm
