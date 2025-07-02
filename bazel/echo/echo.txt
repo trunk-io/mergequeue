@@ -9520,7 +9520,6 @@ eam
 eses
 epicism
 everwho
-erythron
 earths
 exegetes
 eschrufe
@@ -12294,6 +12293,7 @@ enfoul
 exemplificator
 exemplified
 extradites
+erythron
 ellagitannin
 epibolic
 exsequatur
