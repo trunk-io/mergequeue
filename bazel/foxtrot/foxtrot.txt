@@ -2688,7 +2688,6 @@ frumentation
 familiarisation
 farmyardy
 frey
-fanman
 fissionability
 fabric
 falanaka
@@ -6548,6 +6547,7 @@ floodboard
 fierabras
 flytail
 finecomb
+fanman
 fluting
 freakishly
 flasque
