@@ -5895,7 +5895,6 @@ achieved
 agglutinize
 anathematization
 agglutinogen
-agglutinoscope
 acclaiming
 amblygeusia
 agglutogenic
@@ -9722,6 +9721,7 @@ amabile
 amable
 allegatum
 amacratic
+agglutinoscope
 amacrinal
 amadan
 apitong
