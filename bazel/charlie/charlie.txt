@@ -11750,7 +11750,6 @@ cholesterinic
 cholesterol
 clepsydrae
 cholesterolemia
-cholesteroluria
 choletelin
 controversial
 chack
@@ -16344,6 +16343,7 @@ citifies
 clinodiagonal
 clinodomatic
 canzonas
+cholesteroluria
 cardiamorphia
 clinographic
 chlamydosporic
