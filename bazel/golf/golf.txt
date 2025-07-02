@@ -2351,7 +2351,6 @@ geminate
 gilver
 geminates
 gote
-gentile
 gaulish
 gambadoes
 gobioidei
@@ -5247,6 +5246,7 @@ gammers
 guarea
 glister
 gluon
+gentile
 grenier
 glibnesses
 glyceria
