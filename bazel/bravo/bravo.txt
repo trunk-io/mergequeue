@@ -6408,7 +6408,6 @@ bequeath
 benzodiazole
 benzofulvene
 bollen
-benzofuran
 benzofuryl
 bracted
 boundure
@@ -17918,6 +17917,7 @@ bushfighting
 bushfires
 backslider
 bushgrass
+benzofuran
 bowered
 bushy
 barton
