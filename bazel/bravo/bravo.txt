@@ -6457,7 +6457,6 @@ behoot
 blowup
 benzothiazine
 benzothiazoline
-benzothiodiazole
 bergamiol
 bumpering
 backcloth
@@ -13273,6 +13272,7 @@ boswellian
 boswelliana
 boulders
 beng
+benzothiodiazole
 bowge
 boswellism
 briquettes
