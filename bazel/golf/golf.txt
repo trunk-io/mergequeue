@@ -3697,6 +3697,7 @@ glossology
 gentian
 giantship
 geira
+gaslike
 garrafa
 gastroesophagostomy
 glue
@@ -9991,7 +9992,6 @@ gubernatrix
 granada
 graveness
 grungy
-gaslike
 gasworks
 gateau
 gudame
