@@ -5139,7 +5139,6 @@ dendrohyrax
 deneutralization
 dendrolater
 desexes
-detect
 dendrology
 dola
 daubes
@@ -14557,6 +14556,7 @@ decarburised
 demotic
 diviningly
 dyadic
+detect
 divinister
 deallocating
 dualin
