@@ -756,7 +756,6 @@ bumboatmen
 badiner
 badinerie
 birt
-badious
 betrays
 betterer
 badland
@@ -1925,6 +1924,7 @@ bandoleros
 brockle
 bandor
 baaskaap
+badious
 bandora
 biotechs
 brevipen
