@@ -556,7 +556,6 @@ gramas
 geisotherm
 gd
 griming
-glycerize
 gilravager
 gup
 ghetto
@@ -4362,6 +4361,7 @@ gelidiaceae
 gangrene
 gyniatries
 glottitis
+glycerize
 grindings
 groundhog
 goasila
