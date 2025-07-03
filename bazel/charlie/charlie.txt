@@ -25041,7 +25041,6 @@ cordilleran
 cordilleras
 cordinar
 cordlessly
-cordlike
 configured
 cordoban
 cordobas
@@ -26546,6 +26545,7 @@ chemosis
 clingers
 conjecturable
 coucal
+cordlike
 couchancy
 couchant
 couths
