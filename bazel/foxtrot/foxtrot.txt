@@ -911,6 +911,7 @@ flakes
 flavicant
 fluorogenic
 fulicine
+ferities
 fumatories
 frictional
 fluoridated
@@ -2462,7 +2463,6 @@ ferio
 filipuncture
 felanders
 frenchness
-ferities
 fulgoridae
 ferkin
 filioque
