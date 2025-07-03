@@ -13533,6 +13533,7 @@ annotators
 aerophone
 arrendator
 assonant
+alembics
 allusory
 anacardiaceae
 atwain
@@ -15617,7 +15618,6 @@ ailment
 acoustics
 antinormality
 antinormalness
-alembics
 antinosarian
 anoxaemia
 antinovelist
