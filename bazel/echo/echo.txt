@@ -838,7 +838,6 @@ extradecretal
 encrust
 ectypography
 eliminating
-entrecote
 exulate
 ectiris
 equations
@@ -2593,6 +2592,7 @@ enjelly
 exothecate
 electrophoretogram
 expansure
+entrecote
 exturb
 estimated
 ecliptically

@@ -5952,7 +5952,6 @@ freeze
 flaughts
 flubdubs
 forestaysail
-fabiform
 flowerpots
 flooder
 fowlpoxes
@@ -9806,6 +9805,7 @@ falcula
 freshhearted
 fleetingly
 factish
+fabiform
 fulminator
 frowardly
 freshmen
