@@ -5978,6 +5978,7 @@ alacrities
 aggroup
 affrontee
 approximant
+ande
 arcaded
 applauder
 archt
@@ -16087,7 +16088,6 @@ avitaminotic
 antipool
 antiscientific
 antiscii
-ande
 auto
 antiscolic
 antiscorbutical
