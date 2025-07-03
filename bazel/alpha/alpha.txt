@@ -7100,7 +7100,6 @@ arythmic
 akkadian
 akkadist
 akmite
-anagrammatized
 aftershock
 arthroderm
 aerocartograph
@@ -21691,6 +21690,7 @@ assembled
 anniv
 assembler
 assembly
+anagrammatized
 assemblyman
 absinthiate
 assemblywoman
