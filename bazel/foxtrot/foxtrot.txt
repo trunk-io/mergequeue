@@ -5818,6 +5818,7 @@ flitterbat
 fructicultural
 fumeroot
 fallage
+fogfruit
 fastigium
 fellowess
 foreswearing
@@ -6707,7 +6708,6 @@ fogdogs
 frippery
 fairways
 fogdom
-fogfruit
 flatterable
 flintlock
 flouts
