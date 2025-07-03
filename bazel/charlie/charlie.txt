@@ -15671,7 +15671,6 @@ curites
 classific
 crustaceous
 classificator
-culicidae
 classificatory
 classified
 clopping
@@ -31381,6 +31380,7 @@ culinarily
 curiologic
 chemotropic
 curiologically
+culicidae
 curiologics
 comparability
 chewable
