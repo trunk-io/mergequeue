@@ -4603,7 +4603,6 @@ glim
 gammarid
 grayer
 gentility
-gunlocks
 gaudy
 glibness
 guerinet
@@ -10807,6 +10806,7 @@ guttlers
 gainly
 goblinism
 gonenesses
+gunlocks
 guttulate
 glibbery
 ganev
