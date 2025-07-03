@@ -5767,7 +5767,6 @@ groovers
 gangways
 goofiest
 garlicky
-gumhar
 garrulously
 goony
 grunts
@@ -8241,6 +8240,7 @@ graping
 grappa
 grandaunts
 gruff
+gumhar
 gentians
 grapples
 gallah
