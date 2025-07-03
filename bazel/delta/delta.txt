@@ -2310,6 +2310,7 @@ diacetyls
 denizens
 didna
 disseizin
+deltoidal
 dilapidate
 decke
 deceptions
@@ -12268,7 +12269,6 @@ disfrocking
 declaratively
 dysfunctional
 dysfunctioning
-deltoidal
 durous
 detector
 deluding
