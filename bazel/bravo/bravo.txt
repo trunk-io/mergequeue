@@ -2880,6 +2880,7 @@ broadcasts
 broadthroat
 berakes
 biverbal
+boucl
 brachycephales
 barrandite
 bestride
@@ -4872,7 +4873,6 @@ belavendered
 blanket
 barratry
 backstrokes
-boucl
 bedwarfing
 begrace
 bigotty
