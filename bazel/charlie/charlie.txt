@@ -14786,6 +14786,7 @@ cystospore
 cystostomies
 cystotome
 cystotomy
+colonnaded
 cystotomies
 castellan
 cystotrachelotomy
@@ -19392,7 +19393,6 @@ courted
 colonizers
 colonnade
 coughwort
-colonnaded
 cavatinas
 choreographical
 colonnette
