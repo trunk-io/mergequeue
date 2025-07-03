@@ -4539,7 +4539,6 @@ befogged
 beglamour
 bed
 bienness
-biradiated
 bathroot
 bater
 bool
@@ -9214,6 +9213,7 @@ balsaminaceous
 balladical
 biparentally
 businesswoman
+biradiated
 blackboard
 bushelmen
 bunolophodont
