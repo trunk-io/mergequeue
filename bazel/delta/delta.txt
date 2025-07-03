@@ -932,7 +932,6 @@ detachers
 directives
 dewed
 dures
-darb
 darby
 darbies
 diapnoic
@@ -3831,6 +3830,7 @@ deign
 describes
 disunities
 deigned
+darb
 diwan
 deigns
 defail
