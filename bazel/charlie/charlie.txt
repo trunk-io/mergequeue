@@ -1368,6 +1368,7 @@ caliginosity
 caliginous
 caliginously
 clockmutch
+closefitting
 cyanin
 cunctipotent
 cylindrical
@@ -12677,7 +12678,6 @@ chronogrammic
 chronograph
 chronographer
 chronography
-closefitting
 choreas
 crosslap
 cauterizing
