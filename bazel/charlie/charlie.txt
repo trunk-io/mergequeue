@@ -7586,7 +7586,6 @@ cicerones
 cardamoms
 chlorophyl
 ceria
-ceratophyllaceous
 chaos
 crinch
 ceratophyllum
@@ -24361,6 +24360,7 @@ caverning
 caritas
 cookshop
 cookshops
+ceratophyllaceous
 cards
 cookstove
 colligible
