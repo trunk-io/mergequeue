@@ -6511,6 +6511,7 @@ descendent
 dolichosoma
 diadromous
 dispositionally
+duplicate
 determinate
 dactylogram
 descendental
@@ -18117,7 +18118,6 @@ dumfounded
 dahlia
 depetticoat
 dammed
-duplicate
 devisors
 diclytra
 driveboat
