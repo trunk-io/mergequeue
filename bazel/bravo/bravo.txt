@@ -4086,6 +4086,7 @@ beans
 blokes
 beansetter
 beanshooter
+beefsteak
 beanstalk
 begrain
 beanweed
@@ -4927,7 +4928,6 @@ beefier
 bequest
 beefiest
 bristle
-beefsteak
 beeftongue
 beefwoods
 beegerite
