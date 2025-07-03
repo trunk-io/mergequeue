@@ -6005,7 +6005,6 @@ decuples
 dissatisfiedness
 dragons
 diopside
-delictus
 deed
 depsides
 discommoded
@@ -17355,6 +17354,7 @@ drooper
 dihedral
 dismays
 druggier
+delictus
 droopier
 droopiest
 demarcators
