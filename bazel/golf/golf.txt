@@ -5059,6 +5059,7 @@ gastroptosia
 guilders
 gravery
 glassmaking
+gamash
 galactose
 glyc
 gallberries
@@ -7512,7 +7513,6 @@ ghastfulness
 glucolysis
 gowl
 gruntle
-gamash
 gregarinian
 gowning
 gowdnie
