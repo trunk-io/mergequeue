@@ -2897,7 +2897,6 @@ awkwardest
 across
 aubrietas
 anguilliform
-alvus
 autotuberculin
 acrostic
 anacromyodian
@@ -13895,6 +13894,7 @@ antheroid
 antae
 antaean
 antaeus
+alvus
 alvelos
 antefuture
 advantaging
