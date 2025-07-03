@@ -2679,7 +2679,6 @@ escrol
 expectorating
 enmesh
 enduros
-electrotherapy
 emigre
 electrotherapist
 electrotheraputic
@@ -12556,6 +12555,7 @@ emblazons
 excoecaria
 existentialist
 existentialistically
+electrotherapy
 eupione
 epilepsia
 enzymology
