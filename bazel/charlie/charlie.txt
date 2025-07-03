@@ -9142,6 +9142,7 @@ charlatanistic
 cgs
 charlatanries
 charlatans
+collapsable
 charleys
 compaa
 ctrl
@@ -22877,7 +22878,6 @@ coxcombically
 conservativeness
 commoves
 choisya
-collapsable
 conservatives
 conservatoires
 conservator
