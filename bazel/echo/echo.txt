@@ -4173,7 +4173,6 @@ entomotaxy
 emprison
 euphausiid
 emprize
-emulgent
 emprosthotonic
 emblazoning
 electrothanatosis
@@ -6660,6 +6659,7 @@ enterocoela
 eructed
 echinochrome
 eastwardly
+emulgent
 epaleaceous
 easterliness
 enteroepiplocele
