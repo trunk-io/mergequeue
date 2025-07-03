@@ -2095,7 +2095,6 @@ extirpateo
 emma
 emblematist
 electrocoating
-enclosable
 elapsing
 epilimnia
 enterolysis
@@ -3433,6 +3432,7 @@ exuberance
 excusative
 embiid
 evinces
+enclosable
 eductive
 ethnol
 etiquettes
