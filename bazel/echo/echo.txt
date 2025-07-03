@@ -1633,7 +1633,6 @@ egotized
 egracias
 egress
 erizo
-emissarium
 epiblastic
 egressed
 egresses
@@ -7088,6 +7087,7 @@ emote
 entrapping
 entrustment
 eelbobber
+emissarium
 eurygaea
 expediate
 exchequers
