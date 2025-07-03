@@ -123,6 +123,7 @@ featheredges
 fluidization
 facient
 furaldehyde
+franticness
 facilitate
 fractiously
 forthcome
@@ -10906,7 +10907,6 @@ foilable
 fiscalizing
 fullonian
 ferrying
-franticness
 fidgeters
 filtration
 forlay
