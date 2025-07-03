@@ -2288,7 +2288,6 @@ acidnesses
 administrants
 acidology
 acidometer
-anacardium
 acidometry
 antinationalization
 asmear
@@ -7495,6 +7494,7 @@ albumens
 albumimeter
 aftership
 appraisers
+anacardium
 apeiron
 anerotic
 autogenuous
