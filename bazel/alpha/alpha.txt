@@ -4918,7 +4918,6 @@ admonitioner
 aerolithology
 apocamphoric
 aerolitic
-aerological
 antepartum
 aeromancer
 aeromechanic
@@ -18664,6 +18663,7 @@ amulae
 anhungry
 archaise
 almuce
+aerological
 angoumian
 alexipharmical
 acroanesthesia
