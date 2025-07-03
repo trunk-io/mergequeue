@@ -1206,7 +1206,6 @@ drumly
 datebook
 dibstones
 degermed
-disemplane
 disobligation
 dateless
 datelessness
@@ -5826,6 +5825,7 @@ deposers
 discouragement
 dissuade
 deposit
+disemplane
 diamondwork
 distome
 depositaries
