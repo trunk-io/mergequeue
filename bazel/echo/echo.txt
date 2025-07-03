@@ -827,7 +827,6 @@ epispadias
 edaphically
 euglenidae
 ectypal
-ectype
 everliving
 enwrite
 embus
@@ -1276,6 +1275,7 @@ eelfare
 encrinite
 elastomeric
 electrocystoscope
+ectype
 equalness
 eutomous
 eclated
