@@ -12373,6 +12373,7 @@ bandlimit
 buckshee
 brigades
 baskets
+barrooms
 bomble
 boombox
 beget
@@ -17660,7 +17661,6 @@ boris
 britchel
 belady
 blowier
-barrooms
 barrelfish
 bonsai
 bellipotent
