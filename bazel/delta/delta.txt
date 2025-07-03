@@ -7928,7 +7928,6 @@ dewlapped
 deuniting
 dewless
 daggled
-dewlike
 deeps
 deworming
 deworms
@@ -15522,6 +15521,7 @@ dextropinene
 defibrillate
 decrescence
 dicyanodiamide
+dewlike
 deduit
 donat
 dissimulator
