@@ -3863,7 +3863,6 @@ birthbed
 bullpouts
 babus
 bawdrics
-bawdries
 bawl
 bevelment
 bawled
@@ -5462,6 +5461,7 @@ beachward
 bulletmaking
 blubbery
 boardmanship
+bawdries
 boatable
 behemoth
 behemoths
