@@ -6809,7 +6809,6 @@ berserker
 brittles
 blackbirds
 bellmaker
-bin
 berserks
 barnumize
 berskin
@@ -7644,6 +7643,7 @@ barmen
 biciliate
 bewrayer
 bracelets
+bin
 barful
 bewrayers
 britishness
