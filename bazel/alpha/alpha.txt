@@ -5824,7 +5824,6 @@ ave
 agendas
 ankylosaur
 agendum
-agendums
 amovability
 agene
 ataxite
@@ -23393,6 +23392,7 @@ auditorial
 attitudinarian
 alvina
 alleviaters
+agendums
 auditorium
 addition
 avanious
