@@ -348,6 +348,7 @@ furcal
 fayumic
 fricandelle
 fourhanded
+false
 forts
 francisc
 fearsomely
@@ -1494,7 +1495,6 @@ follow
 fattier
 flannelmouths
 fanwork
-false
 fall
 fiddled
 funis
