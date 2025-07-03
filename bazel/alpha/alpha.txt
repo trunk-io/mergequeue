@@ -1830,6 +1830,7 @@ acerate
 acerated
 anastomotic
 aceratherium
+adversed
 anteresurrection
 acerbate
 acerbated
@@ -4609,7 +4610,6 @@ aecidium
 aeciospore
 aecioteliospore
 abigeus
-adversed
 aedeagi
 aedeagus
 aediculae
