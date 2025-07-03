@@ -5216,7 +5216,6 @@ cashaws
 carida
 contek
 cashbooks
-caesural
 cambism
 cravo
 cavendish
@@ -9214,6 +9213,7 @@ charr
 charras
 charre
 charred
+caesural
 charrette
 consenescence
 charrier
