@@ -8643,7 +8643,6 @@ equigranular
 embellishments
 equilateral
 equilaterally
-equilibrant
 enframe
 estrum
 electrodynamometer
@@ -13493,6 +13492,7 @@ equianharmonic
 egocentricities
 edge
 erk
+equilibrant
 editing
 etruscologist
 evaporite
