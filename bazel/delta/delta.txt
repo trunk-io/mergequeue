@@ -327,7 +327,6 @@ demobs
 daydawn
 drugged
 disequilibration
-daidlie
 dupatta
 dummyweed
 deltaite
@@ -7740,6 +7739,7 @@ discipliners
 deviltry
 dissociation
 diastataxy
+daidlie
 deformative
 devirginate
 devisability
