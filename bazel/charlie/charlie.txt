@@ -23306,7 +23306,6 @@ cliquishness
 closets
 consultive
 consulto
-consultor
 consults
 consumated
 consumating
@@ -24402,6 +24401,7 @@ coolness
 coolnesses
 cytochemical
 cools
+consultor
 coolung
 coolweed
 coolwort
