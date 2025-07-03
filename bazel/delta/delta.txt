@@ -4993,7 +4993,6 @@ dephosphorize
 draggled
 demountability
 diamb
-demountable
 devastators
 demounts
 dabble
@@ -14901,6 +14900,7 @@ document
 disinfector
 documentable
 deist
+demountable
 documental
 delimer
 dactylose
