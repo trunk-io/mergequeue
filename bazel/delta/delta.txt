@@ -1738,7 +1738,6 @@ disaccord
 deathtime
 diverticular
 diphyllobothrium
-deathtrap
 devocalization
 downtimes
 drof
@@ -12265,6 +12264,7 @@ dwarfish
 durra
 dovecots
 disfrocking
+deathtrap
 declaratively
 dysfunctional
 dysfunctioning
