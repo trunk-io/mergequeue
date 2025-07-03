@@ -4360,7 +4360,6 @@ firmness
 flamethrower
 funditor
 fructiferousness
-fretworked
 fanaticalness
 forwoden
 foddering
@@ -9611,6 +9610,7 @@ frizzing
 fraternality
 fortifications
 ferren
+fretworked
 ferrotyper
 forhooy
 freedwoman
