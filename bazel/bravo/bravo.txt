@@ -8165,7 +8165,6 @@ beliefs
 bania
 boathouses
 bountith
-bidree
 bottle
 bindweeds
 bidri
@@ -16055,6 +16054,7 @@ bidery
 boskiest
 brookier
 brookite
+bidree
 beneficient
 barbarianized
 battling
