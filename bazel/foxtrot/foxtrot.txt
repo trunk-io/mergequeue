@@ -5805,7 +5805,6 @@ fetter
 fulgurant
 flytraps
 fribble
-fevertwig
 flambee
 frett
 facemaker
@@ -7559,6 +7558,7 @@ fernseed
 foreclosure
 fevering
 fodientia
+fevertwig
 forecome
 forecommend
 foreconclude
