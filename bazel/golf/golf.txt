@@ -6915,6 +6915,7 @@ geromorphism
 grayfly
 geometrised
 gradients
+gouges
 geostatics
 goodwife
 gravigrada
@@ -8571,7 +8572,6 @@ genethliacs
 gentlemanly
 grapnel
 gerb
-gouges
 glider
 grappled
 glyceral
