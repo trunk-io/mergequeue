@@ -3763,7 +3763,6 @@ gelatined
 goff
 greenbugs
 gabbard
-gavialoid
 gulancha
 gorblimey
 genealogies
@@ -5744,6 +5743,7 @@ gloomy
 grapsoid
 gymnoplast
 gattine
+gavialoid
 gossypose
 gonotheca
 gingilis
