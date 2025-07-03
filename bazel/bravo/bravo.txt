@@ -1116,6 +1116,7 @@ brindled
 bluethroat
 brewmaster
 breakwind
+biologism
 belonesite
 bairns
 bootful
@@ -11326,7 +11327,6 @@ blowproof
 blows
 bleachability
 boneyard
-biologism
 blowse
 bargeman
 barse
