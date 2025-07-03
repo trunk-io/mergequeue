@@ -2243,6 +2243,7 @@ feudalism
 felts
 forthtell
 feltwort
+fleeciness
 fastidiosity
 flaggier
 felwort
@@ -3063,7 +3064,6 @@ fiacres
 fetichry
 firelit
 fiance
-fleeciness
 fistmele
 flowers
 filmsets
