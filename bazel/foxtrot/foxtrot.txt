@@ -539,6 +539,7 @@ firerooms
 frowny
 falco
 fermentive
+flinty
 flask
 fluxed
 fusels
@@ -5708,7 +5709,6 @@ flint
 fluffer
 ferratin
 focimetry
-flinty
 footpound
 flintwood
 folioliferous
