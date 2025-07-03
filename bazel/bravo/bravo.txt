@@ -703,7 +703,6 @@ bombardo
 breathable
 banjo
 baddie
-betimber
 brewage
 bathtubs
 baddies
@@ -5157,6 +5156,7 @@ buccinatory
 bagpod
 beforeness
 baffled
+betimber
 becket
 billable
 boxholder
