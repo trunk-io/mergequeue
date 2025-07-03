@@ -1532,7 +1532,6 @@ bulbiform
 bouton
 backsword
 ballaster
-ballastic
 ballata
 batikulin
 ballatoon
@@ -9185,6 +9184,7 @@ bruted
 banksides
 biotins
 basics
+ballastic
 bembex
 beefhead
 biotypes
