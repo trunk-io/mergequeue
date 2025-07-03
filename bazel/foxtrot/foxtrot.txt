@@ -4249,6 +4249,7 @@ fructose
 frayn
 foreprise
 fadding
+faceable
 fibrospongiae
 finialed
 flagrant
@@ -10302,7 +10303,6 @@ fanged
 fingerings
 frazed
 ferrates
-faceable
 farnesses
 factor
 forleaving
