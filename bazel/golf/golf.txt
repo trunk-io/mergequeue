@@ -3796,7 +3796,6 @@ gradientia
 gerontism
 geochronometry
 goldbeating
-galilean
 gifola
 giftbook
 geometer
@@ -4209,6 +4208,7 @@ gloats
 gasteralgia
 gilty
 gluttonise
+galilean
 gynantherous
 goliath
 glossing
