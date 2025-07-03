@@ -10167,7 +10167,6 @@ cheskey
 campine
 cheslep
 coleochaete
-crestings
 chimney
 chesoun
 chessboards
@@ -25271,6 +25270,7 @@ corkages
 corkboard
 conventionalized
 corker
+crestings
 corkers
 cense
 corkier
