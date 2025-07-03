@@ -1646,6 +1646,7 @@ brancher
 balloting
 ballotist
 ballots
+begums
 ballottement
 backlotter
 baronage
@@ -9831,7 +9832,6 @@ bullyable
 bagmen
 barbing
 brands
-begums
 bites
 birefringent
 bebat
