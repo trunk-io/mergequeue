@@ -3322,7 +3322,6 @@ adansonia
 aircrews
 appeasableness
 adapid
-adapt
 anisospore
 apolytikion
 apeman
@@ -21438,6 +21437,7 @@ asperifoliae
 asperifoliate
 asperity
 anthrol
+adapt
 attrib
 associationist
 abdicating
