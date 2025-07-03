@@ -6902,6 +6902,7 @@ botchers
 bescutcheon
 bondservant
 basalia
+bestirs
 beseam
 beseeches
 bisannual
@@ -7235,7 +7236,6 @@ boundable
 bestiarian
 bestiarist
 basifacial
-bestirs
 bestock
 bestow
 bestowment
