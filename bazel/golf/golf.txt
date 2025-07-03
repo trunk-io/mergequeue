@@ -7502,7 +7502,6 @@ gillotype
 gurries
 gedeckt
 gelatiniferous
-grounded
 grinagog
 gowked
 gunkholing
@@ -10399,6 +10398,7 @@ geshurites
 gayish
 greypate
 generalisable
+grounded
 gyrofrequency
 gunneries
 graciousness
