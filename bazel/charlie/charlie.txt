@@ -3130,7 +3130,6 @@ clone
 capanna
 capanne
 cystolithectomy
-caparison
 caparisoned
 caparisoning
 caparisons
@@ -18623,6 +18622,7 @@ clavers
 coiffeur
 coiffeurs
 coiffeuses
+caparison
 coolheaded
 coiffured
 coiffures
