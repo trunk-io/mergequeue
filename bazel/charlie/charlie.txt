@@ -11961,7 +11961,6 @@ choristers
 calashes
 chorai
 choral
-choralcelo
 causeway
 chorale
 carmagnoles
@@ -28673,6 +28672,7 @@ cortins
 crotches
 crenation
 cellblocks
+choralcelo
 clarisse
 consequentially
 canonicalize
