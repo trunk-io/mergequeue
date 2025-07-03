@@ -4901,6 +4901,7 @@ cinchonicin
 carriageway
 carryall
 carrick
+cofferlike
 carrycot
 chromatoplasm
 carried
@@ -19102,7 +19103,6 @@ collenchyme
 collencyte
 colleri
 collery
-cofferlike
 candyh
 colletarium
 colleted
