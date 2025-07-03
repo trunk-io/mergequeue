@@ -4792,6 +4792,7 @@ forestry
 fellfare
 fertil
 furtherest
+foamy
 foregone
 fiddleneck
 freethinkers
@@ -9831,7 +9832,6 @@ fattens
 foredooming
 fleck
 faddist
-foamy
 fretum
 fidget
 fluors
