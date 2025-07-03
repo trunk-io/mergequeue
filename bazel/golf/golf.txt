@@ -8269,7 +8269,6 @@ gaingiving
 grainers
 gynaecia
 glod
-gazelle
 grattoir
 glaucodot
 greenslade
@@ -10165,6 +10164,7 @@ genres
 guidepost
 glossophobia
 geostrategist
+gazelle
 gerusia
 gastropathy
 granulated
