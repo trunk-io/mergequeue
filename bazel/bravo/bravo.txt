@@ -13261,7 +13261,6 @@ bosthoon
 boston
 bostonian
 banderillas
-burglar
 bogeyed
 branchstand
 bouche
@@ -16029,6 +16028,7 @@ broo
 bolty
 buxeous
 brood
+burglar
 bedsock
 bialis
 basiated
