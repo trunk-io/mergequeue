@@ -3578,6 +3578,7 @@ forcepses
 fulgorid
 foreallot
 figurer
+flexion
 flyweight
 fernland
 figures
@@ -5560,7 +5561,6 @@ family
 forestays
 favellae
 fissiparism
-flexion
 flexitime
 ferdiad
 folliculate
