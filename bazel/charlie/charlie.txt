@@ -5783,7 +5783,6 @@ carolean
 cannon
 catchlight
 cultivatability
-clockcase
 cowpock
 caudillism
 catchline
@@ -29660,6 +29659,7 @@ crofters
 cainozoic
 crofts
 covering
+clockcase
 croyden
 croydon
 croiik
