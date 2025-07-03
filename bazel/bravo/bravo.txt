@@ -6814,6 +6814,7 @@ berserks
 barnumize
 berskin
 balize
+backstring
 berhyme
 banjore
 bert
@@ -11802,7 +11803,6 @@ benefactrixes
 banished
 boccias
 boccie
-backstring
 baron
 bluefish
 bromoiodism
