@@ -4040,7 +4040,6 @@ carcinomatoid
 carcinomatosis
 carpetweed
 cellophane
-calcined
 cholers
 cornhusk
 carcinomatous
@@ -31707,6 +31706,7 @@ cuspule
 crests
 computers
 coopery
+calcined
 cond
 cusser
 caselessly
