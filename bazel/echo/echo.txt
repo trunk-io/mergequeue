@@ -270,7 +270,6 @@ electrostatic
 encashed
 electroplated
 expiries
-easterling
 enqueue
 ecrevisse
 epeirogenic
@@ -4544,6 +4543,7 @@ ethics
 epifolliculitis
 euphony
 epagoge
+easterling
 echinodermal
 emberizidae
 electing
