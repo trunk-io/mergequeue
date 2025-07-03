@@ -5605,6 +5605,7 @@ depends
 dallack
 dispersed
 dramatizable
+deservers
 dukeship
 depeopled
 deperdit
@@ -6674,7 +6675,6 @@ dustrags
 distinctio
 deserved
 disesteemer
-deservers
 droplight
 discreated
 distinctor
