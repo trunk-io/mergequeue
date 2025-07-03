@@ -1827,7 +1827,6 @@ bipunctate
 bullose
 bakunda
 bialystoker
-bags
 bandaged
 bandaging
 bowlin
@@ -16393,6 +16392,7 @@ batitinan
 beclip
 boorishly
 bilestone
+bags
 blizzardy
 bellwine
 bollixed
