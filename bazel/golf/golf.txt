@@ -9054,6 +9054,7 @@ genitive
 gentianwort
 gynic
 ghast
+golee
 grimme
 gipsyhood
 grillroom
@@ -9151,7 +9152,6 @@ garon
 garial
 griphite
 gehenna
-golee
 greenhornism
 gripment
 grimacers
