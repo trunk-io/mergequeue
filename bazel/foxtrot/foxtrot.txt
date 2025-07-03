@@ -1968,6 +1968,7 @@ forksful
 flichter
 freight
 furling
+forjudges
 friable
 fangot
 floccule
@@ -9854,7 +9855,6 @@ fungo
 fremitus
 friary
 firings
-forjudges
 frogs
 fouler
 fortescue
