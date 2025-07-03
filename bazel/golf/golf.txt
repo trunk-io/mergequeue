@@ -2732,7 +2732,6 @@ gimmor
 gascoigny
 greatcoat
 glories
-gyro
 gecko
 garni
 guzzledom
@@ -3434,6 +3433,7 @@ gestical
 gesticulant
 gesticulations
 gentiin
+gyro
 gregg
 gallimaufries
 goalers
