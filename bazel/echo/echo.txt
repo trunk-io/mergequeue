@@ -6857,7 +6857,6 @@ enrooted
 eolithic
 entoil
 entoils
-entom
 extender
 episternalia
 eumenes
@@ -13111,6 +13110,7 @@ expediency
 ecoclimate
 experientialism
 encarpuspi
+entom
 extensionality
 ergology
 eudiaphoresis
