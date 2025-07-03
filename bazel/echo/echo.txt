@@ -3336,7 +3336,6 @@ esquirearchy
 emoted
 egal
 explorator
-excursioner
 envelopes
 encyclopaedial
 embannered
@@ -3672,6 +3671,7 @@ embosking
 embryologist
 embryonic
 encyrtidae
+excursioner
 expectant
 elec
 eluates
