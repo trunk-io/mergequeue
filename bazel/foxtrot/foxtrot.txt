@@ -3315,7 +3315,6 @@ fortravail
 fictitiousness
 fiercehearted
 faenas
-fistularioid
 fable
 fortieths
 fox
@@ -5073,6 +5072,7 @@ ferries
 fungate
 fizz
 forekeel
+fistularioid
 faithbreaker
 faconne
 flapdock
