@@ -4159,7 +4159,6 @@ grandfather
 gnathopod
 glotum
 gatchwork
-greying
 ges
 gan
 geod
@@ -7421,6 +7420,7 @@ geodesy
 gades
 groundwater
 gazing
+greying
 gulpy
 gladiatory
 goura
