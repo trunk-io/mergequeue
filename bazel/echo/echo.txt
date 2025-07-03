@@ -3966,7 +3966,6 @@ extramodal
 empathies
 empatron
 etrurian
-essie
 evenhand
 empearl
 electroretinography
@@ -9523,6 +9522,7 @@ everwho
 erythron
 earths
 exegetes
+essie
 eschrufe
 escobilla
 escopeta
