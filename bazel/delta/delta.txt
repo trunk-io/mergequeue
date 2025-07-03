@@ -3445,7 +3445,6 @@ deflowered
 deflowerer
 dumpcart
 dipleurogenetic
-duelists
 dehumidifier
 damp
 defluent
@@ -10111,6 +10110,7 @@ dignified
 dynamitard
 disqualify
 duchess
+duelists
 dynamitic
 denitrify
 diana
