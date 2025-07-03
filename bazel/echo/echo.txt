@@ -3496,7 +3496,6 @@ embodiers
 embodies
 equidiagonal
 elevens
-epopoeist
 essential
 elliptic
 embassage
@@ -7735,6 +7734,7 @@ extroversion
 epicuticular
 expulsed
 entomotomist
+epopoeist
 exacta
 eustele
 enhappy
