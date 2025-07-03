@@ -6134,7 +6134,6 @@ gallification
 grammar
 germiparity
 generalizing
-garters
 gadfly
 geelbec
 goa
@@ -8644,6 +8643,7 @@ gree
 glean
 gynaecoid
 gismondite
+garters
 germanious
 galactophygous
 greediest
