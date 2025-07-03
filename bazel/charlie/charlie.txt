@@ -18430,6 +18430,7 @@ conformers
 cogmen
 claypan
 chenevixite
+crosshackle
 cognac
 curdier
 crookeries
@@ -29881,7 +29882,6 @@ crossfish
 crossflow
 crossflower
 crossfoot
-crosshackle
 crosshair
 crosshand
 crosshatches
