@@ -5488,6 +5488,7 @@ alloclasite
 aftergood
 aftergrief
 aftergrowth
+anginophobia
 antipathy
 acton
 acetonylidene
@@ -12703,7 +12704,6 @@ antimeristem
 accountants
 anginiform
 ashpit
-anginophobia
 anginose
 anginous
 apocenter
