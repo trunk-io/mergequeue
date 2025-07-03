@@ -2127,6 +2127,7 @@ galea
 goniostat
 goldfinches
 gratification
+gurgitation
 glyptotherium
 glistening
 gebbie
@@ -10660,7 +10661,6 @@ glyoxalase
 generableness
 gliding
 gorb
-gurgitation
 gladius
 gyric
 galp
