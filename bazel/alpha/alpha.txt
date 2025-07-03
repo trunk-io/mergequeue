@@ -13354,7 +13354,6 @@ ankerites
 ankylenteron
 ankylocheilia
 ankylodactylia
-antiinflammatory
 ankylodontia
 ankyloglossia
 allergia
@@ -22717,6 +22716,7 @@ arthrodic
 arrowheaded
 antigenically
 antipopulationist
+antiinflammatory
 atlantoodontoid
 atlantosaurus
 atlases
