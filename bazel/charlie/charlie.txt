@@ -16792,7 +16792,6 @@ cloth
 clothe
 clothed
 confusional
-calathian
 clothesbag
 clothesyard
 codesign
@@ -25505,6 +25504,7 @@ corollaries
 corollet
 cholecystonephrostomy
 corolliferous
+calathian
 corollifloral
 capsidae
 corollitic
