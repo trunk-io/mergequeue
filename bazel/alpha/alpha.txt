@@ -17122,7 +17122,6 @@ atropa
 agoranome
 ailuropus
 acmes
-audience
 apogamy
 antibody
 apogamies
@@ -23629,6 +23628,7 @@ auride
 auriferous
 appreciational
 axlike
+audience
 aurify
 aurific
 aceology
