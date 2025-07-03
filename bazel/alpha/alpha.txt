@@ -7706,7 +7706,6 @@ acroter
 abaissed
 alcoholometer
 apterygial
-alcoholometry
 albumenize
 alcoholometric
 antitaxation
@@ -17200,6 +17199,7 @@ apological
 apologies
 apologised
 adenogenesis
+alcoholometry
 amphigenesis
 apologists
 apologizer
