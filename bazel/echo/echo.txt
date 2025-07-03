@@ -9751,7 +9751,6 @@ espousement
 essenwood
 ectoblast
 enshielded
-espouser
 espouses
 espousing
 espressos
@@ -11277,6 +11276,7 @@ evangelisation
 enclothe
 evangelistary
 enthronements
+espouser
 evangelistaries
 earflower
 endostraca
