@@ -4437,7 +4437,6 @@ gundog
 greffier
 griskin
 gipsy
-graveyard
 gipsydom
 giddyhead
 gepoun
@@ -7258,6 +7257,7 @@ greyling
 gyrostatic
 genet
 gutturally
+graveyard
 guze
 gravelling
 gangly
