@@ -4841,6 +4841,7 @@ aerodynamics
 ambitionist
 allochirally
 aerodyne
+asclepius
 astonisher
 aerodynes
 anthroposophist
@@ -16755,7 +16756,6 @@ aphengoscope
 aphenoscope
 apheresis
 apheses
-asclepius
 antiphoner
 allogenically
 apheta
