@@ -2824,7 +2824,6 @@ cursitor
 cannulating
 canoe
 chinafish
-colius
 canoeist
 canoeload
 canoeman
@@ -13962,6 +13961,7 @@ cineritious
 cinerous
 cingalese
 cortinae
+colius
 cynghanedd
 catalysis
 contraindicate
