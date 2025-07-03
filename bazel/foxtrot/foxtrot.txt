@@ -3186,7 +3186,6 @@ filoplume
 fibroelastic
 fountaineer
 fibroenchondroma
-fibroferrite
 fundic
 firewarden
 furioso
@@ -4060,6 +4059,7 @@ festin
 farinha
 fluoaluminic
 felicific
+fibroferrite
 facades
 farcialize
 fertilisability
