@@ -4613,6 +4613,7 @@ bedecked
 bedrid
 bebannered
 bedecking
+bosket
 bulletproofed
 bankfull
 bedehouse
@@ -11647,7 +11648,6 @@ boastfulness
 bacchus
 boasts
 bryologist
-bosket
 boatage
 bacterioscopical
 barspoon
