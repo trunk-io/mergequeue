@@ -15422,6 +15422,7 @@ accordances
 antimasonry
 antimasque
 antimasquer
+atremata
 afterstrain
 antimaterialist
 assidean
@@ -22853,7 +22854,6 @@ atramentary
 atramentous
 avowedness
 alloploidy
-atremata
 atrematous
 apprentices
 ashantee
