@@ -2443,7 +2443,6 @@ gibbetwise
 genitalic
 guildite
 grandity
-genro
 glossier
 girdlelike
 gradienter
@@ -10150,6 +10149,7 @@ guardianly
 git
 grown
 gabs
+genro
 glochidium
 gallnuts
 guide
