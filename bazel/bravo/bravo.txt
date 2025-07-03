@@ -1123,7 +1123,6 @@ berne
 banquets
 backwall
 botete
-bankman
 bairnwort
 baisemain
 baysmelt
@@ -14051,6 +14050,7 @@ bullpens
 brachycrany
 birdwitted
 bowpot
+bankman
 brachydactylia
 beniseed
 bakehouse
