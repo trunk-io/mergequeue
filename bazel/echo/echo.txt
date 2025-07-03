@@ -1937,6 +1937,7 @@ enabled
 echinulate
 estoppal
 eurypterid
+enfree
 elaphe
 essenical
 ejected
@@ -5675,7 +5676,6 @@ extinct
 extraterrestrially
 enhydros
 eucalypts
-enfree
 exposable
 exoarteritis
 eligibly
