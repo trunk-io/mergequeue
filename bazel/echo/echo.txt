@@ -2482,7 +2482,6 @@ emender
 electrolysation
 enervators
 enmeshed
-engrieve
 ensate
 eparcuale
 epitomisation
@@ -5117,6 +5116,7 @@ epiplanktonic
 ejectives
 encrustment
 elegits
+engrieve
 ember
 elaeoblast
 emforth
