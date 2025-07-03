@@ -1310,7 +1310,6 @@ flyspeck
 futteret
 fama
 forevouch
-fatuate
 forescent
 flatten
 filmdom
@@ -8730,6 +8729,7 @@ floppers
 foredecks
 flocculator
 fortresses
+fatuate
 fella
 footlog
 flymen
