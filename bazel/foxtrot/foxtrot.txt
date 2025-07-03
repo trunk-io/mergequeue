@@ -6614,7 +6614,6 @@ feltness
 frounce
 fungify
 foamflower
-firework
 forthcomer
 frocks
 floriculturally
@@ -7923,6 +7922,7 @@ footslog
 fletching
 foreseer
 foresees
+firework
 fonder
 foreseize
 flatteries
