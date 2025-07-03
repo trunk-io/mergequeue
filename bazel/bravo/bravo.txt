@@ -1827,7 +1827,6 @@ bipunctate
 bullose
 bakunda
 bialystoker
-bags
 bandaged
 bandaging
 bowlin
@@ -12592,6 +12591,7 @@ backlist
 bonnyish
 beverages
 boogeyman
+bags
 bodices
 bonnnes
 butylamine
