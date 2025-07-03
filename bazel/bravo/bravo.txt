@@ -6902,7 +6902,6 @@ botchers
 bescutcheon
 bondservant
 basalia
-beseam
 beseeches
 bisannual
 bluegills
@@ -10576,6 +10575,7 @@ bespeech
 blatherskites
 baptisteries
 blatiform
+beseam
 byelorussian
 biotelemetric
 biffies
