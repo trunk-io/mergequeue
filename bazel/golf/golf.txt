@@ -733,7 +733,6 @@ galvanizing
 gemmiferousness
 gunner
 giantlikeness
-greenskeeper
 gollywog
 gonoplasm
 galvanoglyph
@@ -2860,6 +2859,7 @@ gallipots
 griseofulvin
 gledes
 gonocyte
+greenskeeper
 gallinulelike
 gombos
 gallinipper
