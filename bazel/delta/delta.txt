@@ -11123,7 +11123,6 @@ diabolisation
 drakonite
 disapprovals
 disapproves
-disillusioned
 doppelkummel
 demonetisation
 denitrified
@@ -14236,6 +14235,7 @@ disbranching
 discloak
 disuses
 disutility
+disillusioned
 disinsection
 disutilize
 doldrum
