@@ -6180,7 +6180,6 @@ agonal
 aurorae
 agoniada
 antiparabema
-ascendency
 atellan
 avirulent
 activable
@@ -14762,6 +14761,7 @@ antidromal
 anticensorious
 anticensorship
 anticentralism
+ascendency
 anticentralist
 anticentralization
 arthrodira
