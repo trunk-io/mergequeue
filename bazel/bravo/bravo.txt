@@ -3366,6 +3366,7 @@ bassan
 bassanite
 biotechnics
 bassetta
+balms
 beholders
 bespice
 blockbuster
@@ -12233,7 +12234,6 @@ bolshevikian
 bemoult
 bullfights
 briner
-balms
 billet
 bolshevist
 bolshevistic
