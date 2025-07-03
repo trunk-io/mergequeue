@@ -7793,7 +7793,6 @@ devulcanize
 dholes
 devolatilised
 dervishes
-dosimetries
 dryrot
 distrusts
 disbeliever
@@ -8664,6 +8663,7 @@ dibbuk
 denatured
 diarrhea
 dows
+dosimetries
 decarchy
 diarrhoeal
 desophistication
