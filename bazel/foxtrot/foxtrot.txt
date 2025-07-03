@@ -822,6 +822,7 @@ folkloric
 footworn
 fatality
 froster
+fetlock
 forensicality
 flipe
 flea
@@ -8515,7 +8516,6 @@ fistiana
 flouring
 fluid
 facsimiling
-fetlock
 formols
 fiddledeedee
 formosity
