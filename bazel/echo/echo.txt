@@ -5846,6 +5846,7 @@ epizoicide
 engrainer
 ensepulcher
 engraining
+elvanite
 enwoven
 ephesine
 ekaha
@@ -10646,7 +10647,6 @@ ecstasis
 expensing
 englobing
 evernioid
-elvanite
 exalter
 eparchate
 eledone
