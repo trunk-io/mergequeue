@@ -10285,7 +10285,6 @@ croisard
 coussinet
 chia
 chiack
-chyack
 chianti
 chiao
 capsicum
@@ -18617,6 +18616,7 @@ considerateness
 clypeole
 coif
 coiffe
+chyack
 coiffed
 caustics
 clavers
