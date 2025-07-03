@@ -1164,7 +1164,6 @@ fervidness
 farthing
 fluffing
 feverishness
-fractional
 fibrillary
 filiates
 farthings
@@ -3605,6 +3604,7 @@ fitweed
 forehearth
 featherhead
 formant
+fractional
 frightful
 foulsome
 filamentary
