@@ -2535,7 +2535,6 @@ generated
 gazetteerage
 gomerel
 guetare
-generative
 generatrices
 glabbella
 generification
@@ -4830,6 +4829,7 @@ galaxian
 geck
 glaciates
 gladiator
+generative
 guatemalan
 grooviest
 gnash
