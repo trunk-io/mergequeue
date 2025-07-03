@@ -6628,7 +6628,6 @@ embattled
 eccles
 epimedium
 ellipses
-enorthotrope
 electricity
 emigrates
 enwind
@@ -13116,6 +13115,7 @@ ergology
 eudiaphoresis
 ergonovine
 enbaissing
+enorthotrope
 equilibristat
 electrothermotic
 electrochemically
