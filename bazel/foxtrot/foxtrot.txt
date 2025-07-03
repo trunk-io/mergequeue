@@ -7173,6 +7173,7 @@ foremind
 foothalt
 filths
 festivalgoer
+fungibility
 flagfish
 fend
 fishified
@@ -11153,7 +11154,6 @@ fungia
 fremdness
 flyblowing
 fungian
-fungibility
 fideists
 fungicidal
 fungicidally
