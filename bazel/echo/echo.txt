@@ -709,7 +709,6 @@ escheve
 espousal
 electrotrephine
 ecraseurs
-esocyclic
 ened
 ecology
 eromania
@@ -7896,6 +7895,7 @@ electrifiable
 epigrammatically
 epigamic
 ecca
+esocyclic
 emaciates
 elbowed
 elbower
