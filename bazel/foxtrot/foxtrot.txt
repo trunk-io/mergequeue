@@ -3705,7 +3705,6 @@ fretsaws
 filigrained
 fiftieths
 freshed
-fluviose
 feverberry
 filigrane
 frangula
@@ -6568,6 +6567,7 @@ feedboard
 flutterment
 fluviolacustrine
 floccosely
+fluviose
 fleetly
 fluvioterrestrial
 frivols
