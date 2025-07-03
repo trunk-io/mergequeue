@@ -7488,7 +7488,6 @@ cephalonasal
 cephalopathy
 cephalopharyngeal
 cephalophyma
-cephalophine
 cryostats
 cervisia
 cryoprobe
@@ -30848,6 +30847,7 @@ culpable
 chabouks
 cancels
 croakiness
+cephalophine
 culpae
 chionididae
 courbash
