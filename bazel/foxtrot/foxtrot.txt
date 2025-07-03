@@ -4782,7 +4782,6 @@ fumers
 flacianist
 fife
 foresey
-forerank
 fique
 feudalities
 faldfee
@@ -9651,6 +9650,7 @@ freemasonic
 floriform
 freemasonical
 flatfootedness
+forerank
 freen
 featherfoil
 foresay
