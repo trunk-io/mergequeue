@@ -3450,7 +3450,6 @@ coat
 caprylone
 caprimulgi
 chivarro
-caprimulgiformes
 chinwood
 caprin
 candlebeam
@@ -11364,6 +11363,7 @@ chlorinator
 chlorines
 chlorinity
 chicote
+caprimulgiformes
 chloriodide
 counterion
 chlorite
