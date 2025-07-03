@@ -4475,7 +4475,6 @@ gorgio
 grubbers
 galactemia
 gawcey
-gorry
 griffin
 graveless
 gypsology
@@ -6340,6 +6339,7 @@ getspace
 goldspink
 golfdom
 granolithic
+gorry
 geotectology
 gunarchy
 gossaniferous
