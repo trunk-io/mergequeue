@@ -2506,7 +2506,6 @@ aconelline
 aconic
 autoactive
 aconine
-afdecho
 aconital
 aconite
 admass
@@ -21248,6 +21247,7 @@ asides
 assent
 acinacifolious
 acroscleriasis
+afdecho
 alpheratz
 averaged
 asideu
