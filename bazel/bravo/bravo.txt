@@ -3694,7 +3694,6 @@ beltis
 batterie
 breck
 batteries
-batteryman
 batterman
 bullockman
 bindlet
@@ -13365,6 +13364,7 @@ bimillenniums
 buffoonery
 boondoggler
 boundlessness
+batteryman
 blasted
 backshift
 bothrenchyma
