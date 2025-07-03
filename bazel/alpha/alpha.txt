@@ -4310,7 +4310,6 @@ adelocerous
 adsorb
 autotriploid
 adsorbability
-allocryptic
 adsorbable
 acnodal
 angiothlipsis
@@ -13175,6 +13174,7 @@ animistic
 anabatic
 animists
 ambivalency
+allocryptic
 accretionary
 apraxias
 animize
