@@ -4981,7 +4981,6 @@ aerophysics
 apologising
 alkylogen
 anile
-aerophyte
 assessory
 aerophobic
 aerophor
@@ -16768,6 +16767,7 @@ aphetic
 abjudicating
 aphanitic
 aphetize
+aerophyte
 armours
 aphidivorous
 aphidlion
