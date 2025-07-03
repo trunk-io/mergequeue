@@ -8615,7 +8615,6 @@ eyebar
 electrotherapeutic
 encompassing
 equiconvex
-egall
 ergatomorph
 equid
 equidimensional
@@ -12472,6 +12471,7 @@ explorate
 exfiltrate
 exhumes
 euryscope
+egall
 equilibrial
 electrolysing
 exhuming
