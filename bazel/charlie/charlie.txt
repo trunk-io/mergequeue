@@ -10471,7 +10471,6 @@ chiefish
 cytisus
 chiefling
 chieftain
-chieftaincy
 chieftainess
 chieftainry
 chieftainries
@@ -20523,6 +20522,7 @@ compartmentalizing
 chrysenic
 compartmented
 centenionalis
+chieftaincy
 corundum
 composition
 compartments
