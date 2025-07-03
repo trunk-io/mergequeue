@@ -269,7 +269,6 @@ grenada
 gnomon
 glauconiferous
 groser
-gigavolt
 geomagnetism
 gummata
 galiongee
@@ -1555,6 +1554,7 @@ gismos
 guytrash
 gondoliere
 glaceed
+gigavolt
 globicephala
 gymnura
 gauntlet
