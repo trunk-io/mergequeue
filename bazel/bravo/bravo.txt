@@ -2386,6 +2386,7 @@ bardcraft
 barde
 beleve
 buckhorn
+biblos
 brabant
 branchling
 bobtails
@@ -10077,7 +10078,6 @@ basidiolichen
 burglarious
 bizones
 bergeret
-biblos
 bizz
 bluecoats
 bjorne
