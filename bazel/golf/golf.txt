@@ -3433,6 +3433,7 @@ gynospore
 gestical
 gesticulant
 gesticulations
+gapped
 gentiin
 gregg
 gallimaufries
@@ -5012,7 +5013,6 @@ gandering
 gigantomachy
 gynaecol
 gassy
-gapped
 galoping
 glistered
 groused
