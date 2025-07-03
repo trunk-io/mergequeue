@@ -7363,7 +7363,6 @@ giga
 gallinuline
 granduncle
 geylies
-gotra
 germarium
 gravecloth
 gudgeoned
@@ -9281,6 +9280,7 @@ graduale
 greenland
 groenlandicus
 glucuronic
+gotra
 goyana
 gurge
 gunj
