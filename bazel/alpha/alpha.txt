@@ -2105,7 +2105,6 @@ anything
 accedence
 achilleas
 agglutinations
-allopatry
 antadiform
 achilleine
 abnormalness
@@ -14674,6 +14673,7 @@ antibacchius
 antibacterial
 antibacteriolytic
 anaglyptograph
+allopatry
 antiballooner
 antibalm
 antibank
