@@ -31,7 +31,6 @@ fieldmen
 fibrolitic
 fibrocyst
 fabricates
-fabricator
 formularize
 flintless
 flintworker
@@ -7656,6 +7655,7 @@ forst
 forego
 fables
 fishier
+fabricator
 factualism
 foreguess
 flammant
