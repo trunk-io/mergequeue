@@ -5405,7 +5405,6 @@ erthling
 echinocactus
 euryalean
 equisonance
-electively
 evangelium
 envisioned
 endotys
@@ -5660,6 +5659,7 @@ enforth
 estrangle
 enfoulder
 epithi
+electively
 ensnarers
 enclitics
 exquisitism
