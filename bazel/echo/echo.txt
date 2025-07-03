@@ -4119,7 +4119,6 @@ extracranial
 energids
 expungement
 eczematous
-embryonated
 externum
 encl
 encaustes
@@ -12195,6 +12194,7 @@ eucolite
 enlistee
 exeat
 exec
+embryonated
 epiphonemas
 enteradenology
 eudemonist
