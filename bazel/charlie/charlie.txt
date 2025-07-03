@@ -11376,6 +11376,7 @@ culicid
 chlorize
 cynocephalus
 chesterbed
+choate
 chlormethane
 chloroacetone
 chloroacetophenone
@@ -11527,7 +11528,6 @@ cotta
 choanophorous
 cataplasm
 choanosome
-choate
 cautioned
 chobie
 cabinetry
