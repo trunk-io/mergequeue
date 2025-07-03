@@ -2057,7 +2057,6 @@ cruddle
 camouflaging
 combats
 chandlery
-collapsar
 camoufleur
 chests
 cosherer
@@ -9661,6 +9660,7 @@ checkrowing
 consummatively
 checkrows
 computational
+collapsar
 checks
 chapatty
 checkstring

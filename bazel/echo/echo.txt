@@ -1189,6 +1189,7 @@ edplot
 edrioasteroidea
 epipany
 edriophthalmatous
+enroll
 educability
 educand
 emulsive
@@ -6329,7 +6330,6 @@ enrockment
 embastioned
 eyeholes
 eli
-enroll
 enrolle
 enrolled
 enrollee
