@@ -1497,6 +1497,7 @@ geratology
 gremmie
 gasman
 gladen
+gasthauses
 gasmen
 gasogen
 galenian
@@ -7979,7 +7980,6 @@ galleries
 gravat
 gastrulas
 gunzian
-gasthauses
 gearman
 gleeking
 glassier
