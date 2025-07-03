@@ -3656,6 +3656,7 @@ atlantomastoid
 anchorhold
 ambustion
 autere
+agalite
 agillawood
 annihilating
 awfully
@@ -18719,7 +18720,6 @@ archchemic
 antiopelmous
 archchronicler
 archconfraternity
-agalite
 anticonventionally
 archcritic
 archcrown
