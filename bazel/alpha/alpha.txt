@@ -1128,6 +1128,7 @@ abutilon
 abbassi
 airpark
 aucan
+atomicity
 abutment
 assertible
 angiocavernous
@@ -4519,7 +4520,6 @@ advertizes
 advice
 advices
 advisableness
-atomicity
 adiaphorism
 advisal
 antheridial
