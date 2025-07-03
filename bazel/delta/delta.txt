@@ -3386,7 +3386,6 @@ disconfirmed
 disperser
 dorey
 defleaed
-damnum
 defleas
 deflect
 driftfishes
@@ -9785,6 +9784,7 @@ deceive
 desugarize
 didodecahedral
 dudley
+damnum
 diffracts
 dilatedness
 dreamtide
