@@ -4380,7 +4380,6 @@ grammatist
 gloriam
 gazer
 glimmered
-gorget
 gearcases
 gongs
 grifter
@@ -7416,6 +7415,7 @@ grunerite
 gourmandizer
 grapplement
 gomerals
+gorget
 gists
 geodesy
 gades

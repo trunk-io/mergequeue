@@ -11186,7 +11186,6 @@ beliquors
 blindages
 beknot
 bitewings
-breveted
 bumelia
 brutalised
 bloodwite
@@ -15029,6 +15028,7 @@ brekkle
 baldricks
 boulevardiers
 brelan
+breveted
 bremsstrahlung
 brushmaker
 bodiment
