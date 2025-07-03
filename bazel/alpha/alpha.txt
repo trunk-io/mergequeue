@@ -14091,7 +14091,6 @@ amazers
 antennariid
 antennariidae
 antennata
-antennate
 antennifer
 antefixes
 abranchial
@@ -16684,6 +16683,7 @@ apes
 antiptosis
 apesthetic
 arachnitis
+antennate
 affiche
 apesthetize
 acariatre
