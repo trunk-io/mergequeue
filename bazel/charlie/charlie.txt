@@ -15820,7 +15820,6 @@ clavicotomy
 clavicular
 clavicularium
 claviculate
-chrysohermidin
 chirotype
 chrysograph
 claviger
@@ -30604,6 +30603,7 @@ cucule
 credensive
 caryocar
 cerigerous
+chrysohermidin
 cuculiform
 choregraphic
 cuculiformes
