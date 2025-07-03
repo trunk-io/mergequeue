@@ -3873,7 +3873,6 @@ eminent
 easternized
 esperance
 eminently
-earldom
 expressionless
 executorship
 eels
@@ -11192,6 +11191,7 @@ earthdrake
 entity
 eadi
 evacuated
+earldom
 epitomatory
 epexegetical
 evacuations
