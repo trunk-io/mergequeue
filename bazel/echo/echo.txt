@@ -1581,7 +1581,6 @@ egypt
 extraversion
 encampment
 epinasty
-envigor
 exsuscitate
 exogeny
 exaggeratedness
@@ -4293,6 +4292,7 @@ esture
 elytroclasia
 expulsive
 enactor
+envigor
 exinanition
 epigrammatize
 eloquence
