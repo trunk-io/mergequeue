@@ -8298,6 +8298,7 @@ congrid
 chairmanships
 checkoff
 chairmender
+councilor
 chairpersons
 chairway
 cryptogamian
@@ -22104,7 +22105,6 @@ caroach
 conformability
 cyprinoid
 cashierer
-councilor
 conformably
 conformal
 complexed
