@@ -5059,7 +5059,6 @@ gastroptosia
 guilders
 gravery
 glassmaking
-galactose
 glyc
 gallberries
 grav
@@ -5707,6 +5706,7 @@ gnathions
 glamberry
 glossocele
 graian
+galactose
 gummoses
 grandmother
 gantline
