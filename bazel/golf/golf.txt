@@ -6451,7 +6451,6 @@ gambits
 grecomaniac
 gannister
 gastraead
-guarded
 gie
 golfings
 guanare
@@ -6672,6 +6671,7 @@ grattage
 gewgawed
 growse
 ghosty
+guarded
 gyrus
 grittle
 gardenize
