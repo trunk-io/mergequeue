@@ -3694,6 +3694,7 @@ eweries
 embryotome
 exhalatory
 exculpated
+endplay
 exsculp
 exercitorial
 embryotomies
@@ -8317,7 +8318,6 @@ escapado
 erratums
 endolaryngeal
 epitactic
-endplay
 epitheliomatous
 epitaphian
 epitaphist
