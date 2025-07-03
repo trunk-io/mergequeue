@@ -9931,7 +9931,6 @@ chemicoluminescent
 cyclostome
 chemicomineralogical
 carcinogenicity
-chemicophysical
 crucifige
 ciliary
 curtaining
@@ -24487,6 +24486,7 @@ cootie
 coelogyne
 cooties
 chlorosis
+chemicophysical
 cop
 copa
 copable
