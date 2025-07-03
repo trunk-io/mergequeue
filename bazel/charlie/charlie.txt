@@ -9895,7 +9895,6 @@ cheliform
 chelinga
 curua
 chelingas
-chelingos
 cheliped
 chelys
 cydon
@@ -24309,6 +24308,7 @@ cnidaria
 cooees
 catchpoleship
 cooey
+chelingos
 complements
 cooeys
 cooer
