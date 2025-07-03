@@ -5895,7 +5895,6 @@ achieved
 agglutinize
 anathematization
 agglutinogen
-agglutinoscope
 acclaiming
 amblygeusia
 agglutogenic
@@ -8361,6 +8360,7 @@ alined
 antagonized
 anaxial
 archdeaconry
+agglutinoscope
 alinement
 arthroendoscopy
 agistment
