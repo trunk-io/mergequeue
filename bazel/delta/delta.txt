@@ -522,6 +522,7 @@ disodic
 damageably
 detonatable
 damaged
+drunkery
 detort
 destandardize
 damageous
@@ -4065,7 +4066,6 @@ dysepulotic
 deliberalization
 duiker
 deliberately
-drunkery
 disbosoms
 dislikelihood
 duologue
