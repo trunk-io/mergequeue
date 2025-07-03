@@ -687,7 +687,6 @@ eruc
 eclipsing
 enhance
 envier
-excide
 eclogic
 extraocular
 eclogite
@@ -6496,6 +6495,7 @@ ensnared
 ensnarer
 echinostoma
 eobionts
+excide
 edental
 evenmete
 euctical
