@@ -2957,7 +2957,6 @@ dedogmatize
 discounted
 dedolation
 destinal
-dotingness
 diegesis
 diplasiasmus
 deduces
@@ -8458,6 +8457,7 @@ droplet
 devide
 deconcentrator
 deported
+dotingness
 darted
 deliver
 dolia
