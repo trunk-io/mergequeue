@@ -5254,7 +5254,6 @@ casinet
 charet
 casings
 casiri
-casita
 casitas
 casket
 corpl
@@ -22488,6 +22487,7 @@ carotinaemia
 conjecturally
 continuance
 cytoma
+casita
 capitulary
 chromolysis
 cestida
