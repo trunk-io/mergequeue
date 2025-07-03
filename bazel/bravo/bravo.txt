@@ -15066,7 +15066,6 @@ bandhor
 balter
 bashlyk
 bulging
-bloom
 berlina
 breviconic
 bunkered
@@ -18226,6 +18225,7 @@ bandages
 blackwort
 bourran
 bottlelike
+bloom
 butterfish
 besquirt
 botching
