@@ -2109,7 +2109,6 @@ elastases
 elastica
 extrapolator
 elastically
-edenite
 emberiza
 excitors
 embroiling
@@ -9927,6 +9926,7 @@ experimentalize
 epeeists
 enweaving
 esthesiology
+edenite
 endothermous
 excludingly
 esthesiometric
