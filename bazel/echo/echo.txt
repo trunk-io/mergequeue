@@ -4108,7 +4108,6 @@ eiffel
 ensheathed
 every
 employments
-endurability
 entombments
 eniac
 emplunge
@@ -8807,6 +8806,7 @@ engrain
 explainers
 equipoised
 enfume
+endurability
 elementarist
 equivoque
 equoidean
