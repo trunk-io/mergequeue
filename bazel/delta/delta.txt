@@ -3371,7 +3371,6 @@ dagos
 deturn
 defis
 deflagrable
-decolor
 disrestore
 dynagraph
 dithionate
@@ -6127,6 +6126,7 @@ diplomatism
 dynapolis
 december
 derays
+decolor
 derangeable
 deranges
 dropout
