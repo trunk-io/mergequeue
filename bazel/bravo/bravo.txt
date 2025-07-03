@@ -2134,7 +2134,6 @@ banterers
 bloodlessness
 bantery
 boxfishes
-bantering
 banteringly
 banty
 betangle
@@ -5162,6 +5161,7 @@ billable
 boxholder
 bootmaker
 brunizem
+bantering
 befouling
 befoulment
 befraught
