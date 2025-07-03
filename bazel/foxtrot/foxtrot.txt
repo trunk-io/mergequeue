@@ -150,7 +150,6 @@ flagellist
 feedhead
 fibre
 fossiled
-facsimiled
 fracturable
 frigidaria
 flayers
@@ -1511,6 +1510,7 @@ fatuitous
 foothil
 fanwe
 familiarise
+facsimiled
 floorwalkers
 fringing
 fetched
