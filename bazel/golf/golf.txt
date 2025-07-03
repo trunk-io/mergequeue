@@ -6913,6 +6913,7 @@ goodrich
 guides
 geromorphism
 grayfly
+glonoin
 geometrised
 gradients
 geostatics
@@ -9367,7 +9368,6 @@ gwen
 galbanum
 goniac
 goutiness
-glonoin
 gnomists
 garotes
 gumi
