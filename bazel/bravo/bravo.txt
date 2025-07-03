@@ -8913,6 +8913,7 @@ baisakh
 biocycle
 biocycles
 botan
+bestripe
 biocidal
 biocide
 bioclimatic
@@ -10813,7 +10814,6 @@ bitstalk
 blepharocarcinoma
 balinger
 blesmol
-bestripe
 brokership
 bienvenu
 bakership
