@@ -10682,6 +10682,7 @@ agrobiologic
 angulometer
 arachne
 abner
+abfarad
 adulterants
 aphronitre
 anorthography
@@ -24081,7 +24082,6 @@ antifeministic
 accelerated
 approvedness
 adjuncts
-abfarad
 anomalopteryx
 autogeneses
 autogenetically
