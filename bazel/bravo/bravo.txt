@@ -2980,7 +2980,6 @@ bedumb
 barsac
 backhatch
 becowarding
-bioassay
 blarneyer
 barstools
 bart
@@ -14183,6 +14182,7 @@ baikerite
 bractlets
 bashlyks
 bradawls
+bioassay
 bryanite
 bag
 bespot
