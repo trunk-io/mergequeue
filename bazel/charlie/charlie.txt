@@ -11202,7 +11202,6 @@ chits
 chittack
 chitted
 chitter
-chitterling
 chutney
 chitters
 capillaries
@@ -30956,6 +30955,7 @@ congeries
 cumberer
 cumberers
 cumbering
+chitterling
 catostomid
 cumberland
 codefendants
