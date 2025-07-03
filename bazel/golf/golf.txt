@@ -1377,6 +1377,7 @@ governs
 ganodonta
 glossanthrax
 garnison
+gaveller
 greetingless
 garniture
 gaulsh
@@ -6703,7 +6704,6 @@ glenoid
 guiltlessness
 goniocraniometry
 grouters
-gaveller
 goniodoridae
 garvance
 gnotobiote
