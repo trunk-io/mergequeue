@@ -7198,7 +7198,6 @@ getah
 gangion
 garlicmonger
 garlic
-governorate
 gourmands
 glassmaker
 grailer
@@ -9541,6 +9540,7 @@ greenlander
 gadaea
 gastrophthisis
 gastrocentrous
+governorate
 gardening
 geldability
 grouts
