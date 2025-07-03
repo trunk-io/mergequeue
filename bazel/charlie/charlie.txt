@@ -8020,7 +8020,6 @@ collieshangie
 cetane
 cetanes
 cete
-cetera
 ceterach
 cetes
 ceti
@@ -17101,6 +17100,7 @@ clutterment
 cm
 coinclude
 cmd
+cetera
 catalecta
 cml
 cofferdams
