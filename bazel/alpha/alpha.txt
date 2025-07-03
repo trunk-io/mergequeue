@@ -591,6 +591,7 @@ abnormalising
 abnormalize
 abnormalized
 anatomical
+anelastic
 abnormous
 abo
 aboard
@@ -24515,7 +24516,6 @@ aerophile
 auxiliaries
 androcracy
 auxiliate
-anelastic
 ampullulae
 anaptyctical
 amusively
