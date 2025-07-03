@@ -11809,7 +11809,6 @@ chondral
 chondralgia
 chondrarsenite
 chondre
-chondrenchyma
 caramelin
 cocomats
 columbian
@@ -20837,6 +20836,7 @@ complutensian
 cartelized
 coeducate
 contrarational
+chondrenchyma
 compo
 counterstream
 compoed
