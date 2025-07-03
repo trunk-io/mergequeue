@@ -3335,6 +3335,7 @@ equus
 esquirearchy
 emoted
 egal
+exocyclic
 explorator
 excursioner
 envelopes
@@ -9102,7 +9103,6 @@ emlen
 engulfment
 endocannibalism
 endothermic
-exocyclic
 equiglacial
 episcenium
 empyreans
