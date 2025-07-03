@@ -16048,6 +16048,7 @@ clergy
 clergyable
 cotoneaster
 clergylike
+civic
 cyclos
 clergymen
 clergion
@@ -17216,7 +17217,6 @@ coadjutrix
 coadjuvate
 coadminister
 coadministration
-civic
 combite
 coadministratrix
 coadmiration
