@@ -1934,6 +1934,7 @@ epiphylaxis
 eluants
 enantiomer
 enabled
+elongated
 echinulate
 estoppal
 eurypterid
@@ -2264,7 +2265,6 @@ electriferous
 energumen
 esthetophore
 extratubal
-elongated
 equally
 enchantments
 exormia
