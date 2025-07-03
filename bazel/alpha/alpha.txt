@@ -7702,6 +7702,7 @@ alcoholmeter
 airmass
 anemogram
 alcoholmetric
+ankylopodia
 acroter
 abaissed
 alcoholometer
@@ -13360,7 +13361,6 @@ ankyloglossia
 allergia
 abbr
 auditress
-ankylopodia
 ankyloproctia
 alamiqui
 ankylos
