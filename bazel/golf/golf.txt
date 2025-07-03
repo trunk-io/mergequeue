@@ -2640,7 +2640,6 @@ gestae
 genyophrynidae
 geodesic
 gasolenes
-granularity
 geek
 genip
 genyplasty
@@ -2879,6 +2878,7 @@ glumpish
 growleries
 glycol
 geocyclic
+granularity
 gnat
 gorsy
 glideless
