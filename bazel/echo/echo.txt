@@ -1090,6 +1090,7 @@ embalmment
 exterritorial
 ectocuneiform
 enshrouded
+empty
 embryonically
 edgrow
 encephaloscope
@@ -1362,7 +1363,6 @@ exsect
 embusque
 earthiest
 effendis
-empty
 efferently
 efferents
 enallage
