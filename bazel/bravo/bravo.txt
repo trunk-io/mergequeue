@@ -3716,7 +3716,6 @@ bronteon
 battlefronts
 bringall
 brucella
-barnstorms
 battler
 basocyte
 battleships
@@ -6759,6 +6758,7 @@ bhakti
 burrowers
 buhlwork
 bernacle
+barnstorms
 bernardina
 bernardine
 becripple
