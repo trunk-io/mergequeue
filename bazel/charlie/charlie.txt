@@ -8479,7 +8479,6 @@ cohered
 chalons
 coronograph
 chalot
-chaloth
 chaloupe
 cowpunch
 chaluka
@@ -14738,6 +14737,7 @@ cryptogenous
 cystolith
 cystolithiasis
 cystoma
+chaloth
 cystomas
 corpusculum
 cystometer
