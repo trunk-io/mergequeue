@@ -13508,7 +13508,6 @@ beseek
 boondoggle
 boneyards
 botulisms
-brief
 brodequin
 briquette
 bouch
@@ -13848,6 +13847,7 @@ brewing
 bedplates
 bowerlet
 blatterer
+brief
 begins
 bighearted
 bagreef
