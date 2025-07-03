@@ -337,7 +337,6 @@ estops
 eastre
 extents
 enturret
-eat
 eximiously
 empresse
 embleming
@@ -6681,6 +6680,7 @@ elephantlike
 enterohydrocele
 ecstatical
 emetocathartic
+eat
 elevation
 eched
 eyeing
