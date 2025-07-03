@@ -1254,7 +1254,6 @@ grex
 gapper
 guib
 grimaces
-garran
 globelet
 granage
 ged
@@ -7326,6 +7325,7 @@ gestor
 gilthead
 glyptograph
 gallach
+garran
 gynostemia
 goter
 gelling
