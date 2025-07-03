@@ -3432,7 +3432,6 @@ gussied
 gynospore
 gestical
 gesticulant
-gesticulations
 gentiin
 gregg
 gallimaufries
@@ -7418,6 +7417,7 @@ grapplement
 gomerals
 gists
 geodesy
+gesticulations
 gades
 groundwater
 gazing
