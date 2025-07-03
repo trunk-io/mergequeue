@@ -3977,7 +3977,6 @@ gilds
 gildhall
 grandness
 gildship
-gutturals
 goldenrod
 gerundive
 graybacks
@@ -9485,6 +9484,7 @@ ghylls
 guelphish
 galvanothermy
 grundlov
+gutturals
 graceful
 group
 gland
