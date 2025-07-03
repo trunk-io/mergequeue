@@ -2063,7 +2063,6 @@ barreleye
 bouet
 bumbaste
 brine
-barebone
 banksmen
 bucketed
 banlieu
@@ -3112,6 +3111,7 @@ boswellize
 basella
 basellaceae
 bespattering
+barebone
 breakouts
 beallach
 biota
