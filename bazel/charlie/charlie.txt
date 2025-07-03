@@ -14294,7 +14294,6 @@ circulators
 circulus
 cavaedium
 circumambiency
-circumambient
 circumambulate
 circumambulated
 compose
@@ -17224,6 +17223,7 @@ cuphead
 carboxylase
 coadmit
 coadmits
+circumambient
 coadmitted
 coadmitting
 coadnate
