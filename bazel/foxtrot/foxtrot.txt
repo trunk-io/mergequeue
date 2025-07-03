@@ -35,7 +35,6 @@ fabricator
 formularize
 flintless
 flintworker
-furies
 farmscape
 flick
 finically
@@ -1597,6 +1596,7 @@ fussy
 foreteach
 farrow
 frundel
+furies
 flywort
 fauvette
 fishbowl
