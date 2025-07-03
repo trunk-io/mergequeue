@@ -7837,7 +7837,6 @@ alea
 apodictic
 aleak
 aleatory
-aleatoric
 alebench
 arustle
 academics
@@ -13005,6 +13004,7 @@ anhematopoiesis
 anhemitonic
 anhemolytic
 amulla
+aleatoric
 anhyd
 allodially
 anhydraemia
