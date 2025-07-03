@@ -3724,7 +3724,6 @@ barrace
 blushiness
 buhr
 battlesome
-brigantes
 bimestrial
 battlestead
 battlewagon
@@ -10397,6 +10396,7 @@ backwoodser
 brawer
 browman
 blandishing
+brigantes
 blandishingly
 blandishments
 braggadocian
