@@ -4215,7 +4215,6 @@ glossing
 gammoned
 gnawed
 ginned
-guanylic
 gynarchic
 grisard
 groundsman
@@ -6962,6 +6961,7 @@ grunch
 gnotobiology
 grimmest
 greengrocers
+guanylic
 grumpiest
 gyrovague
 griefless
