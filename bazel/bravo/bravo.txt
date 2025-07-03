@@ -3173,7 +3173,6 @@ befriends
 basicerite
 basicity
 baloneys
-benzins
 booklores
 byland
 bukat
@@ -5047,6 +5046,7 @@ beltcourse
 bigotedly
 befalling
 benzomorpholine
+benzins
 befalls
 botanised
 battlers
