@@ -8501,7 +8501,6 @@ compinge
 corkir
 calorisator
 chamaelirium
-chamaepericlymenum
 chamaephyte
 cephadia
 chamaerops
@@ -11956,6 +11955,7 @@ cagn
 choragi
 choragic
 coxalgia
+chamaepericlymenum
 choragion
 choristers
 calashes
