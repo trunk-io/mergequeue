@@ -4676,7 +4676,6 @@ gauping
 geisothermal
 glycerate
 gigged
-galchic
 gelatia
 generis
 gastraeas
@@ -10579,6 +10578,7 @@ glyphs
 guanays
 gunmaking
 gaun
+galchic
 gerbo
 gallivanter
 grasset
