@@ -661,7 +661,6 @@ bacteriotherapy
 bechances
 beletter
 bynames
-bungles
 blepharedema
 bacteriuria
 bkpr
@@ -13879,6 +13878,7 @@ bilious
 birches
 bedrite
 bowing
+bungles
 bowings
 bowkail
 blad
