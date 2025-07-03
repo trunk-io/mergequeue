@@ -2973,6 +2973,7 @@ fungiferous
 fruitlet
 froglike
 farsightedly
+footpick
 flows
 floorcloth
 febricide
@@ -4462,7 +4463,6 @@ feulamort
 farand
 fatuousness
 fishifying
-footpick
 fishily
 farinaceously
 fishiness
