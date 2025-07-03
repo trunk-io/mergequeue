@@ -5721,6 +5721,7 @@ gingham
 goldsmithery
 glockenspiel
 glossohyal
+glacialist
 gaultherase
 gobos
 glossolalia
@@ -7558,7 +7559,6 @@ gripsack
 gerenda
 garpike
 gilbertite
-glacialist
 gracefuller
 gracelessly
 gallerying
