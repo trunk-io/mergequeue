@@ -3622,6 +3622,7 @@ carabiniere
 carabinieri
 cotrespasser
 caraboa
+cowfish
 cinques
 circle
 caraboid
@@ -19213,7 +19214,6 @@ collocational
 crojiks
 collocative
 collock
-cowfish
 compartmentalizes
 collocutor
 cogitations
