@@ -5596,7 +5596,6 @@ borons
 beknighted
 ballistite
 bullidae
-beknotted
 burrio
 brassicaceous
 beknottedly
@@ -14774,6 +14773,7 @@ broadhearted
 bloodweed
 bourgeoise
 breach
+beknotted
 bobization
 breached
 breacher
