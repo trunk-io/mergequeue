@@ -5594,7 +5594,6 @@ donatistic
 dibber
 dustfall
 disedification
-draftable
 depended
 dolichopellic
 dependence
@@ -9510,6 +9509,7 @@ denoted
 dungbird
 digenite
 digerent
+draftable
 dereistically
 disembarrass
 doedicurus
