@@ -4415,7 +4415,6 @@ flavo
 frogfishes
 fathomed
 fishability
-froggier
 feltwork
 flybook
 fixion
@@ -9197,6 +9196,7 @@ ferret
 forward
 filices
 filenames
+froggier
 fifteenths
 flustroid
 fixive
