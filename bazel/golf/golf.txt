@@ -3230,6 +3230,7 @@ geckotid
 germanify
 graminiferous
 germanification
+gates
 guess
 gadso
 geotechnics
@@ -8665,7 +8666,6 @@ grammars
 guidances
 gearing
 gastraeal
-gates
 gnus
 geochronologist
 gnathonical
