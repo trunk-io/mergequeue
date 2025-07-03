@@ -2282,6 +2282,7 @@ coquina
 conceivers
 canafistola
 canafistolo
+captured
 canafistula
 canafistulo
 chlorapatite
@@ -3573,7 +3574,6 @@ captor
 capturable
 catechized
 capture
-captured
 captures
 capturing
 curricular
