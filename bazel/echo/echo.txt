@@ -8816,6 +8816,7 @@ erade
 exhedra
 enfeebler
 ends
+exclude
 euphyllite
 erythrorrhexis
 eradicable
@@ -14067,7 +14068,6 @@ extravaginal
 electrify
 exorcists
 echelonment
-exclude
 enquarter
 extracurriculum
 enfect
