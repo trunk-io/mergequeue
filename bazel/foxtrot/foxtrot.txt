@@ -5277,7 +5277,6 @@ fossilage
 fstore
 flot
 fissiped
-frilal
 figgery
 flavoured
 flavourful
@@ -9683,6 +9682,7 @@ freezy
 frowsty
 fubbed
 fromage
+frilal
 foredivine
 fletcher
 fregata
