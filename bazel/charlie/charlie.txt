@@ -2394,6 +2394,7 @@ coffined
 canceled
 canceleer
 canceler
+cardiameter
 cancelers
 crossbowmen
 cancellable
@@ -4092,7 +4093,6 @@ coevals
 centaurian
 cardialgia
 calla
-cardiameter
 carnationed
 chlorotic
 colibri
