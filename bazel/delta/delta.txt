@@ -2934,7 +2934,6 @@ dedication
 drafting
 duodecimals
 dedicatory
-deployable
 dedicatorily
 doggoner
 dedicators
@@ -13857,6 +13856,7 @@ dindle
 distain
 distaining
 distance
+deployable
 denumeration
 diatomic
 demast
