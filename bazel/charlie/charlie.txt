@@ -11676,7 +11676,6 @@ cholecystocolostomy
 cognisability
 colonialization
 cholecystogastrostomy
-cholecystogram
 cholecystography
 cholecystokinin
 corkiness
@@ -21121,6 +21120,7 @@ consociated
 conalbumin
 conamarin
 cooboo
+cholecystogram
 communard
 cramoisie
 conand
