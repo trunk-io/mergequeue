@@ -2056,7 +2056,6 @@ companionship
 cruddle
 camouflaging
 combats
-chandlery
 collapsar
 camoufleur
 chests
@@ -9984,6 +9983,7 @@ chemoprophylactic
 cruiser
 coaxer
 chemoreception
+chandlery
 chemoreceptive
 chemoreceptivity
 chapelgoer
