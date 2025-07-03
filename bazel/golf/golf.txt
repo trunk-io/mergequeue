@@ -3000,7 +3000,6 @@ gastromyces
 geometridae
 gangshag
 geometriform
-gelinotte
 graminicolous
 gemmipares
 gametogenous
@@ -5253,6 +5252,7 @@ glyceria
 grangerite
 genialize
 guardsmen
+gelinotte
 gossoons
 goldbrickers
 glyoxilin
