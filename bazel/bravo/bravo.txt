@@ -4902,6 +4902,7 @@ burrowstown
 beef
 battled
 beefalo
+bebrine
 beefaloes
 bloodedness
 beefalos
@@ -6976,7 +6977,6 @@ bleacherman
 bewildering
 basad
 beshrews
-bebrine
 beshrivel
 beshroud
 bensil
