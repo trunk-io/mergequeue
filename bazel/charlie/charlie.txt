@@ -12647,6 +12647,7 @@ chron
 caplets
 cacothes
 concurrences
+cutpurses
 chronaxie
 chronaxies
 chronic
@@ -28436,7 +28437,6 @@ creamlaid
 coccobaccilli
 creamless
 creamlike
-cutpurses
 cotarnine
 creams
 creamware
