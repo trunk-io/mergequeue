@@ -9597,7 +9597,6 @@ checkage
 capsulized
 checkback
 checkbite
-checkbits
 checkbook
 chachalaca
 cableways
@@ -10830,6 +10829,7 @@ caligo
 contracivil
 churnability
 chinchona
+checkbits
 chincof
 ciliium
 chincona
