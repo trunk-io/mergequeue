@@ -2040,6 +2040,7 @@ cropper
 capitalizer
 cypresses
 camorristi
+comportance
 cruelize
 camoudie
 coburgess
@@ -20859,7 +20860,6 @@ components
 cricotomy
 compony
 comportable
-comportance
 comported
 circleting
 carded

@@ -2987,7 +2987,6 @@ elisor
 escobedo
 elissa
 expeditor
-eyereach
 edestan
 elitism
 experimentator
@@ -13333,6 +13332,7 @@ explosiveness
 equipt
 electromyograph
 elusively
+eyereach
 eyewear
 encomendero
 expone
