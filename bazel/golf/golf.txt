@@ -5241,6 +5241,7 @@ gitano
 gurish
 glaucophane
 gyrant
+glucosin
 grundyist
 galoubet
 gammers
@@ -8576,7 +8577,6 @@ glider
 grappled
 glyceral
 guti
-glucosin
 gulfed
 gingerleaf
 gallied
