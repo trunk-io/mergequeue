@@ -19622,7 +19622,6 @@ chironomy
 columban
 capabilities
 columbaria
-columbaries
 columbarium
 clours
 columbate
@@ -26224,6 +26223,7 @@ cosplendour
 conidiophore
 cosponsoring
 cosponsors
+columbaries
 cossack
 cessant
 coequality
