@@ -3787,6 +3787,7 @@ gameball
 gastroenterotomy
 greeted
 grimsir
+gyneolater
 goldang
 gids
 gazes
@@ -4271,7 +4272,6 @@ growing
 gynecophorous
 gynecratic
 gelidness
-gyneolater
 guinfo
 germicide
 gynetype
