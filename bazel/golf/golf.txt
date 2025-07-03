@@ -612,6 +612,7 @@ glockenspiels
 gravities
 glossopalatine
 grieben
+glozed
 galliots
 goulashes
 gurnets
@@ -7628,7 +7629,6 @@ gobiesox
 geta
 granters
 gardebras
-glozed
 gastropodan
 guardhouses
 gradiometric
