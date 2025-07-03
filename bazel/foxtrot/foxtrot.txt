@@ -5868,7 +5868,6 @@ fitz
 firmans
 farine
 fertilisable
-flypapers
 floatsmen
 fluff
 flaxbush
@@ -11377,6 +11376,7 @@ fruitade
 fallibly
 faute
 furnacelike
+flypapers
 firetraps
 floccus
 fosters
