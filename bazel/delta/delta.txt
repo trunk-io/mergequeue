@@ -5139,7 +5139,6 @@ dendrohyrax
 deneutralization
 dendrolater
 desexes
-detect
 dendrology
 dola
 daubes
@@ -14993,6 +14992,7 @@ demonised
 dodona
 drugman
 domatium
+detect
 dendrocalamus
 dodonaeaceae
 dodonean
