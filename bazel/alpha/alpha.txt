@@ -1935,7 +1935,6 @@ acetylizable
 aversive
 anamirtin
 acetylization
-ammonization
 acetylize
 acetylized
 acetylizer
@@ -7754,6 +7753,7 @@ almadia
 alderamin
 avianize
 ape
+ammonization
 alderling
 alderman
 alectoromorphous
