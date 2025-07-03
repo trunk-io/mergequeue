@@ -2603,6 +2603,7 @@ allocated
 auxoflore
 approximated
 acquire
+anthropocentric
 antescript
 acquirement
 acquisite
@@ -14440,7 +14441,6 @@ acquisition
 anthropobiology
 automaton
 arthritism
-anthropocentric
 amission
 atheromata
 anthropoclimatology
