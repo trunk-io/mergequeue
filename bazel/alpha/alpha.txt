@@ -8259,7 +8259,6 @@ agouties
 ancylodactyla
 adipocyte
 alienage
-alienated
 alienation
 allactite
 aliene
@@ -16554,6 +16553,7 @@ ap
 anack
 apabhramsa
 acutorsion
+alienated
 apache
 attained
 apachite
