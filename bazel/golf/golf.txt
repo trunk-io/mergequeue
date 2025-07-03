@@ -2182,7 +2182,6 @@ ganefs
 generosities
 galactohemia
 glossopathy
-grounding
 granitiferous
 grounders
 gallantize
@@ -3611,6 +3610,7 @@ glyptician
 gastroenterological
 gametes
 genom
+grounding
 gutturotetany
 gory
 ghorkhar
