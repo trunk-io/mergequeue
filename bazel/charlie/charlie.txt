@@ -8886,6 +8886,7 @@ cinerins
 chapels
 chiasmi
 chapelward
+charterless
 chaperno
 custodia
 chaperonage
@@ -9240,7 +9241,6 @@ charterers
 charterhouse
 chartering
 charterism
-charterless
 chartermaster
 charters
 cryptograms
