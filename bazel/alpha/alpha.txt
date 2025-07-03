@@ -2208,7 +2208,6 @@ achromatocyte
 arctalian
 aerosolizing
 achromatope
-achromatophile
 achromatophilia
 achromatophilic
 antipathies
@@ -15045,6 +15044,7 @@ antidiabetic
 antidiastase
 antidicomarian
 aletaster
+achromatophile
 antidictionary
 aegir
 antidynastic
