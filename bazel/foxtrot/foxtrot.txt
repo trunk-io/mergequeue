@@ -1411,7 +1411,6 @@ formes
 forkable
 financiering
 faticableness
-felspath
 fonly
 firestop
 fluctuations
@@ -5133,6 +5132,7 @@ forelay
 flinches
 forewent
 flashed
+felspath
 fidejussion
 fecundated
 fluidacetextract
