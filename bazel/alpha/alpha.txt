@@ -2341,7 +2341,6 @@ artifact
 acylamino
 acylated
 awalt
-archontate
 acylates
 acylating
 acylation
@@ -13025,6 +13024,7 @@ asocial
 anhydridize
 anhydrization
 anhydroglocose
+archontate
 anhidrosis
 anhidrotic
 archespsporia
