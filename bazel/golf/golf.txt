@@ -1869,6 +1869,7 @@ gamelote
 germaniums
 gliss
 groundable
+grog
 gowd
 guan
 grails
@@ -10670,7 +10671,6 @@ gurgulio
 glaiketness
 glottologist
 guric
-grog
 granitization
 grandeurs
 gurl
