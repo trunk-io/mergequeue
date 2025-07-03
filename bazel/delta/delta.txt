@@ -2549,7 +2549,6 @@ dimorphs
 dumbfounded
 dweller
 declassification
-delocalized
 derringer
 diachrony
 declassifies
@@ -14595,6 +14594,7 @@ divisions
 divisive
 divisively
 develope
+delocalized
 decomposition
 divisiveness
 divisor
