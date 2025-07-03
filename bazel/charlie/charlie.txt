@@ -1274,6 +1274,7 @@ calfskin
 creatural
 calgary
 caliban
+chelide
 cunea
 caliber
 calibers
@@ -9873,7 +9874,6 @@ collisions
 chelicer
 chelicerate
 cysts
-chelide
 cowheart
 chelydidae
 centas
