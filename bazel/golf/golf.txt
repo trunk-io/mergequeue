@@ -1251,6 +1251,7 @@ geneki
 griffes
 gapping
 grex
+gimmerpet
 gapper
 guib
 grimaces
@@ -6541,7 +6542,6 @@ gesture
 gambeson
 grummets
 girons
-gimmerpet
 gambas
 guazzo
 gold
