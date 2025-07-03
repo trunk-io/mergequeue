@@ -1549,7 +1549,6 @@ cystitome
 callitris
 crenitic
 chaplanry
-cartographer
 callo
 cloots
 crawlway
@@ -13265,6 +13264,7 @@ caudicle
 craniographer
 cicatrization
 cott
+cartographer
 cicatrized
 cicatrizer
 cicatrizing
