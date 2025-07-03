@@ -3918,7 +3918,6 @@ butles
 bdelloid
 bdellometer
 boarts
-booksellerish
 bombardier
 bocstaff
 brickbats
@@ -12660,6 +12659,7 @@ beguin
 bedunch
 blueth
 boodled
+booksellerish
 braccia
 bestowable
 boogeymen
