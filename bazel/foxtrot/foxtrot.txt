@@ -4418,7 +4418,6 @@ fishability
 froggier
 feltwork
 flybook
-fixion
 fishboats
 fishbolts
 flechette
@@ -5812,6 +5811,7 @@ facemaker
 forestside
 forepromised
 fussiest
+fixion
 forebear
 fossiliferous
 flitterbat
