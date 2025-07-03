@@ -367,7 +367,6 @@ disseizes
 diarists
 discoloured
 daymark
-doupion
 dormmice
 daimiate
 daimiel
@@ -3801,6 +3800,7 @@ disarticulate
 dor
 demultiplexing
 decency
+doupion
 drillable
 dateable
 dynamites

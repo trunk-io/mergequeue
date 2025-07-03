@@ -2505,7 +2505,6 @@ generalities
 grandezza
 grubbies
 gain
-guilder
 gomeisa
 gonochorism
 galenites
@@ -7634,6 +7633,7 @@ guardhouses
 gradiometric
 gaup
 gastrophilus
+guilder
 granzita
 gypsyesque
 gynostemium
