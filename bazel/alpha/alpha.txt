@@ -21950,7 +21950,6 @@ axolotl
 assumes
 assuming
 astoundment
-assumingly
 assummon
 assumpt
 ash
@@ -23886,6 +23885,7 @@ authorizes
 authorless
 authors
 aeries
+assumingly
 authorship
 anociation
 authotype
