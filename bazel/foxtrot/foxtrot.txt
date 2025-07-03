@@ -966,7 +966,6 @@ fluorometer
 flamed
 feel
 fluoroborate
-faradisation
 fluosilicic
 fimbricated
 fimbrilliferous
@@ -10218,6 +10217,7 @@ floated
 flanker
 footnote
 froggies
+faradisation
 finale
 feverlike
 frogginess
