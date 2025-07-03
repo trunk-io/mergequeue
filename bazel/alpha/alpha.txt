@@ -519,7 +519,6 @@ abjurer
 abjurers
 abkari
 amerism
-abkhasian
 ashtrays
 abl
 ablach
@@ -10883,6 +10882,7 @@ amniomancy
 amnionata
 acclamation
 absolution
+abkhasian
 amosite
 anhydric
 availably
