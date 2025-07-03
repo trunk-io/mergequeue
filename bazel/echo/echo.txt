@@ -4506,7 +4506,6 @@ elsewhat
 encephaloid
 enforcing
 encephalolith
-exterminator
 encephalomas
 escudo
 encephalomeningocele
@@ -12735,6 +12734,7 @@ exophthalmia
 embloom
 exenterating
 exophthalmus
+exterminator
 emboweling
 engramma
 exopod
