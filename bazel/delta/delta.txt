@@ -5962,7 +5962,6 @@ depreter
 depriment
 deprint
 disinvite
-depriorize
 durrie
 disorderedness
 deprivable
@@ -6540,6 +6539,7 @@ devocalise
 dreggily
 descort
 differentiators
+depriorize
 dosa
 dispart
 dialypetalae
