@@ -1261,7 +1261,6 @@ bedim
 balan
 bedstead
 bardie
-balanceable
 bafflements
 bilocellate
 buckskinned
@@ -12596,6 +12595,7 @@ bodices
 bonnnes
 butylamine
 bonnocks
+balanceable
 bonnwis
 bono
 bionomist
