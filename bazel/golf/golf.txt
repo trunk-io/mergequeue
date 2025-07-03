@@ -157,7 +157,6 @@ guesthouse
 gingerroot
 gardenmaker
 gamond
-graniticoline
 gunwhale
 gamboges
 grandson
@@ -10529,6 +10528,7 @@ gimmicks
 goalee
 gypsous
 grayishness
+graniticoline
 garn
 goblinry
 gundie
