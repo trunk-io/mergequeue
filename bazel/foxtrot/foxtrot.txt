@@ -8735,6 +8735,7 @@ footlog
 flymen
 faultsman
 finchery
+fellah
 forehands
 fortuitous
 faying
@@ -11387,7 +11388,6 @@ furnariidae
 flaxwoman
 furnariides
 flect
-fellah
 facies
 furnish
 furnishable
