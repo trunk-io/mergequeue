@@ -11550,6 +11550,7 @@ advertise
 aubin
 anachronismatical
 achamoth
+apronstring
 agars
 afright
 anachronistic
@@ -18052,7 +18053,6 @@ aproneer
 aright
 amadavat
 apronful
-apronstring
 alanins
 adular
 amphigenetic
