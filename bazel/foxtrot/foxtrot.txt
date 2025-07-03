@@ -5025,6 +5025,7 @@ flammule
 flanch
 formalize
 forwarders
+fudge
 foraminate
 fact
 fadeaway
@@ -10773,7 +10774,6 @@ flume
 feuars
 featherlet
 footsoldiers
-fudge
 fanned
 freinage
 factualistic
