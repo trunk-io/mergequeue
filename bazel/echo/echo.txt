@@ -3055,7 +3055,6 @@ et
 eurycephalous
 embeds
 emp
-encyclical
 elliot
 educationable
 ergatocracy
@@ -7591,6 +7590,7 @@ exstemporaneous
 epauliere
 ectoprocta
 etesians
+encyclical
 espiglerie
 exocarp
 experienceable
