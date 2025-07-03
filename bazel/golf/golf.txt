@@ -3763,7 +3763,6 @@ gelatined
 goff
 greenbugs
 gabbard
-gavialoid
 gulancha
 gorblimey
 genealogies
@@ -6407,6 +6406,7 @@ graduates
 gregorian
 grandeeship
 geneses
+gavialoid
 gallivanted
 gouger
 guineapig
