@@ -1099,7 +1099,6 @@ chomer
 clamworm
 calcinosis
 calciobiotite
-calcioferrite
 calcioscheelite
 calciovolborthite
 calciphylactic
@@ -10170,6 +10169,7 @@ coleochaete
 crestings
 chimney
 chesoun
+calcioferrite
 chessboards
 counterfugue
 collab
