@@ -9483,6 +9483,7 @@ biotope
 battlefront
 birodo
 burnies
+bewrite
 brittling
 babingtonite
 biron
@@ -12645,7 +12646,6 @@ betided
 belluine
 benchland
 bushgoats
-bewrite
 beaklike
 bediapers
 bloodlessly
