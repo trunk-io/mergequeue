@@ -3529,6 +3529,7 @@ fortunation
 forebowline
 fenchyl
 farer
+filterability
 frag
 franklinist
 firmisternial
@@ -8636,7 +8637,6 @@ fontinalis
 feignedness
 flamberge
 freightless
-filterability
 feet
 fuzes
 feticides
