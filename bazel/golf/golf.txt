@@ -1676,6 +1676,7 @@ gamebag
 gazetteerish
 gordioidea
 gane
+geoprumnon
 geodetically
 grassquit
 gastrojejunostomy
@@ -8809,7 +8810,6 @@ gm
 gunne
 gadabout
 greegrees
-geoprumnon
 gooses
 girrit
 gastral
