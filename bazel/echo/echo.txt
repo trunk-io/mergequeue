@@ -360,7 +360,6 @@ eriophyidae
 eavedropper
 eavedropping
 ephthianure
-endogeny
 endevil
 embouchement
 excentral
@@ -2916,6 +2915,7 @@ epitomiser
 eelworms
 epistomal
 egyptian
+endogeny
 etchings
 embank
 evaporatively
