@@ -6454,7 +6454,6 @@ engineering
 electrojet
 enlargers
 ensiles
-expediment
 ensiling
 ensilist
 exceptions
@@ -11920,6 +11919,7 @@ eightfoil
 ectoderms
 enragement
 earthenware
+expediment
 expurgation
 ensuite
 excerebration
