@@ -2937,7 +2937,6 @@ geographies
 grievers
 geordie
 galliardness
-geoids
 gloriole
 geolatry
 galatine
@@ -7847,6 +7846,7 @@ gametangium
 gounau
 gourdworm
 gentleheartedness
+geoids
 garbless
 granny
 gastrulated
