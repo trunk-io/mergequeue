@@ -26303,7 +26303,6 @@ costocentral
 carmel
 cyclostomate
 costochondral
-costogenic
 costoinferior
 clinandrium
 clutter
@@ -26832,6 +26831,7 @@ circumduce
 counterfact
 carniferous
 counterfactual
+costogenic
 chilled
 counterfactually
 captivately
