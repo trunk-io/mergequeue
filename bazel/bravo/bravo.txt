@@ -5142,7 +5142,6 @@ batoid
 bromhidrosis
 bloodthirstiness
 baubling
-bulkiness
 banco
 befools
 bridgeport
@@ -17048,6 +17047,7 @@ balanophore
 bullate
 bullation
 bullback
+bulkiness
 bullbaiting
 belduque
 bibb
