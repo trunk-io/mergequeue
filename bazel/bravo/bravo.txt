@@ -11182,7 +11182,6 @@ bacteroidal
 bandarlog
 balloters
 bloodthirster
-beliquors
 blindages
 beknot
 bitewings
@@ -17314,6 +17313,7 @@ bathochromatism
 benzotrifluoride
 bopyrus
 buddling
+beliquors
 boutel
 bucoliast
 bunches
