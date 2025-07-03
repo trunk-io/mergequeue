@@ -2630,7 +2630,6 @@ barkometer
 bescorch
 batrachite
 breathtakingly
-beeth
 barlafumble
 blurred
 basilinna
@@ -7840,6 +7839,7 @@ brooklyn
 bazaars
 bicephalous
 bogman
+beeth
 biface
 bibacity
 belauds
