@@ -2812,7 +2812,6 @@ baroswitch
 barotaxy
 bitis
 ballgowns
-bulkiest
 baudery
 barothermograph
 barothermohygrograph
@@ -6767,6 +6766,7 @@ bernice
 begaze
 bernicia
 biparietal
+bulkiest
 berninesque
 bootprint
 bunnymouth
