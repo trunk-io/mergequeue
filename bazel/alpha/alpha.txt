@@ -1425,7 +1425,6 @@ alg
 anakinetic
 antimosquito
 atka
-accessorize
 accessors
 acciaccaturas
 acciaccature
@@ -15771,6 +15770,7 @@ anisopodal
 antiphilosophies
 antiphilosophism
 antiphysically
+accessorize
 antiphysicalness
 appropriament
 antiphlogistian
