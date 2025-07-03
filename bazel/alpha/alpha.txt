@@ -2622,7 +2622,6 @@ acquittance
 almacenista
 acquitted
 ashkenazim
-acquitter
 acquophonia
 acrab
 acracy
@@ -7668,6 +7667,7 @@ alcogene
 ascogonium
 alcohate
 assertorically
+acquitter
 alcohol
 alcoholature
 annot
