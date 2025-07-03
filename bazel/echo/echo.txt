@@ -4990,6 +4990,7 @@ etypical
 electrofused
 endemism
 eco
+extracellular
 estipulate
 eightscore
 erroneous
@@ -9836,7 +9837,6 @@ exfoliated
 equalisation
 ejectamenta
 envermeil
-extracellular
 essoinment
 essorant
 endarterial
