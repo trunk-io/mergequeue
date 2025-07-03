@@ -6901,7 +6901,6 @@ badness
 botchers
 bescutcheon
 bondservant
-basalia
 beseam
 beseeches
 bisannual
@@ -13238,6 +13237,7 @@ bructeri
 bossdoms
 burghal
 bossed
+basalia
 boanergean
 bosselation
 bolti
