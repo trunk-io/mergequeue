@@ -11505,7 +11505,6 @@ chemotroph
 caffa
 chlorpicrin
 chlorpromazine
-cheerfulsome
 ciboule
 chlorsalol
 confetto
@@ -27616,6 +27615,7 @@ coecum
 cowardly
 choloidinic
 culp
+cheerfulsome
 cowardness
 cowbane
 collided
