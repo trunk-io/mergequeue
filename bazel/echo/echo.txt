@@ -1581,6 +1581,7 @@ egypt
 extraversion
 encampment
 epinasty
+elias
 envigor
 exsuscitate
 exogeny
@@ -2911,7 +2912,6 @@ erigenia
 elian
 exacinate
 equicostate
-elias
 epitomiser
 eelworms
 epistomal
