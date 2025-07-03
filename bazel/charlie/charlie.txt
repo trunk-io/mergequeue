@@ -1140,7 +1140,6 @@ calcspar
 calcspars
 cotwal
 chlamydophore
-catastatic
 crunches
 chilopoda
 calctufa
@@ -31460,6 +31459,7 @@ curred
 contorta
 current
 colorimetry
+catastatic
 currently
 camerieri
 cardicentesis
