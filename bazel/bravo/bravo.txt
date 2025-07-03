@@ -6226,7 +6226,6 @@ berengelite
 bengalese
 bengola
 bipartient
-biaxal
 beni
 baldoquin
 buckjumper
@@ -13806,6 +13805,7 @@ biotoxins
 bathymetric
 bromalbumin
 bowdlerisation
+biaxal
 bezantee
 biodyne
 bizarres
