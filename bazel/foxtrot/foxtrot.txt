@@ -481,7 +481,6 @@ fringeless
 fiancees
 folkmoter
 foliosity
-facticity
 faithworthiness
 fireplaces
 faitours
@@ -1142,6 +1141,7 @@ fudgy
 fishling
 fastback
 farrisite
+facticity
 firehalls
 figulate
 flyings
