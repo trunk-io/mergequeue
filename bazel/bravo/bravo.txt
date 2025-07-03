@@ -432,7 +432,6 @@ bidcock
 beamer
 bromocamphor
 backpedal
-backpedaling
 backpiece
 backplane
 baa
@@ -5068,6 +5067,7 @@ biloculine
 beferned
 befetished
 buirdly
+backpedaling
 bandoline
 bilingual
 biocatalyst
