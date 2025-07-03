@@ -2446,6 +2446,7 @@ denizenize
 disimprisonment
 dietetist
 dolently
+deerstand
 designs
 decyne
 drydenian
@@ -8321,7 +8322,6 @@ dependancy
 dynamiting
 dagesh
 desonation
-deerstand
 doombook
 dialyzer
 diagrams
