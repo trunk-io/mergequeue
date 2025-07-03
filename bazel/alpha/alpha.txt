@@ -19755,7 +19755,6 @@ aoudads
 albarellos
 antechurch
 arithmeticians
-arithmetizations
 arithmetizes
 acrosticheae
 araeostyle
@@ -22383,6 +22382,7 @@ astronomize
 aragallus
 astrophel
 astrophil
+arithmetizations
 antipapacy
 archaisms
 algarobas
