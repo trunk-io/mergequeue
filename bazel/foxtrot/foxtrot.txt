@@ -965,7 +965,6 @@ faradaic
 fluorometer
 flamed
 feel
-fluoroborate
 faradisation
 fluosilicic
 fimbricated
@@ -11364,6 +11363,7 @@ fizzes
 frousier
 flayed
 fluencies
+fluoroborate
 furmities
 fornicated
 fremescence
