@@ -9569,6 +9569,7 @@ bogue
 bluejack
 ballonnes
 battlements
+barmecide
 ballhawk
 biscayan
 biscayanism
@@ -10045,7 +10046,6 @@ bairntime
 begohm
 byzantine
 byzantinize
-barmecide
 bottlemaking
 brasser
 beautician
