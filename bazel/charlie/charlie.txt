@@ -5405,7 +5405,6 @@ castellano
 castellans
 castellanship
 cinerararia
-chaufer
 castellate
 castellation
 castellatus
@@ -18208,6 +18207,7 @@ chopping
 coequals
 coequate
 centerward
+chaufer
 chincha
 counterpunch
 chronologist
