@@ -2937,7 +2937,6 @@ geographies
 grievers
 geordie
 galliardness
-geoids
 gloriole
 geolatry
 galatine
@@ -10581,6 +10580,7 @@ gunmaking
 gaun
 gerbo
 gallivanter
+geoids
 grasset
 gunmetal
 grecoue
