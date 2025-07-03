@@ -12688,7 +12688,6 @@ chronologer
 collembolan
 circularize
 chronological
-chronologies
 coalternative
 chantecler
 cercle
@@ -25124,6 +25123,7 @@ cricketing
 cautionaries
 coremorphosis
 colouring
+chronologies
 chromonematic
 coreometer
 crocks
