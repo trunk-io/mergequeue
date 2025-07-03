@@ -5405,7 +5405,6 @@ castellano
 castellans
 castellanship
 cinerararia
-chaufer
 castellate
 castellation
 castellatus
@@ -11424,6 +11423,7 @@ conged
 cubica
 chloroforming
 chromicizing
+chaufer
 chloroformization
 chloroforms
 chlorogenic
