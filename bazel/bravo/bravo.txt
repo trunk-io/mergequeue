@@ -9116,6 +9116,7 @@ bevellers
 bacteriophagia
 bios
 bargander
+buoyancy
 biosciences
 bulrushes
 bestrows
@@ -16757,7 +16758,6 @@ bicarbonate
 begari
 blindfolding
 budger
-buoyancy
 budgerow
 budgetary
 bigroot
