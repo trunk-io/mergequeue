@@ -1103,7 +1103,6 @@ calcioferrite
 calcioscheelite
 calciovolborthite
 calciphylactic
-calciphylaxis
 cabecera
 calciphile
 calciphilia
@@ -16334,6 +16333,7 @@ clinkum
 coliform
 camphorize
 chilblains
+calciphylaxis
 clinocephaly
 clinocephalous
 canonicalness
