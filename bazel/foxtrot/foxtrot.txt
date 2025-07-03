@@ -1216,6 +1216,7 @@ fluidics
 frays
 footfeed
 federalese
+frangibility
 fascinator
 foliages
 ferous
@@ -2595,7 +2596,6 @@ fibromembranous
 filamentule
 frizzlier
 ferreter
-frangibility
 freebee
 foresightful
 falerno
