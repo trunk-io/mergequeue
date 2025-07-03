@@ -5502,6 +5502,7 @@ friezy
 fiduciarily
 friseurs
 fluxmeter
+faros
 fossed
 fretwork
 forbarred
@@ -10202,7 +10203,6 @@ ferryage
 fending
 foggages
 frazing
-faros
 flaskful
 flatiron
 fistulana
