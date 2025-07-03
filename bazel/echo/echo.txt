@@ -2212,7 +2212,6 @@ ervenholder
 encrisp
 eldest
 effigiated
-eventuate
 eldrich
 eldritch
 enchased
@@ -13036,6 +13035,7 @@ entocornea
 ergotic
 estafette
 ethos
+eventuate
 expeding
 engrapple
 entrusted
