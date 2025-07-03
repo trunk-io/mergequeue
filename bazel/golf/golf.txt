@@ -1146,7 +1146,6 @@ gripier
 genteeler
 grouses
 genin
-genio
 generalness
 gantsl
 galactometry
@@ -1262,6 +1261,7 @@ gavall
 goethites
 gratten
 gromatical
+genio
 gyrator
 glyphographer
 gumpus
