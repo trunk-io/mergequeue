@@ -4924,7 +4924,6 @@ carriwitchet
 carrocci
 carroch
 connivers
-carrollite
 carromatas
 carromed
 carroms
@@ -9525,6 +9524,7 @@ citoyen
 chazan
 chazanim
 chazans
+carrollite
 chazanut
 chazy
 circularwise
