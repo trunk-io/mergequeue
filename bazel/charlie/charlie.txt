@@ -22043,7 +22043,6 @@ confirms
 ceraunite
 confiscable
 confiscatable
-cynebot
 confiscate
 crois
 chookies
@@ -29482,6 +29481,7 @@ cageot
 chileanize
 crystallography
 crystalloid
+cynebot
 concretism
 crystalloidal
 crystallomagnetic
