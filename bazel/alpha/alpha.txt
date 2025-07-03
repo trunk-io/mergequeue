@@ -154,7 +154,6 @@ abattises
 antiracism
 azurites
 abattoirs
-abattu
 antireligionist
 agnostical
 acidproof
@@ -21719,6 +21718,7 @@ assert
 asserta
 assertable
 asserted
+abattu
 assagaied
 asserter
 automatics
