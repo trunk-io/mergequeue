@@ -403,7 +403,6 @@ fearer
 filicauline
 forbid
 fairfieldite
-facets
 faceoff
 fairground
 fairy
@@ -3247,6 +3246,7 @@ friezes
 fibulae
 ficoides
 fibrocytic
+facets
 floodcock
 firma
 feministic
