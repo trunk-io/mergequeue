@@ -9275,7 +9275,6 @@ citrene
 chartulas
 charwoman
 cowards
-charwomen
 chase
 chaseable
 chased
@@ -27216,6 +27215,7 @@ countervenom
 countervibration
 countervindication
 countervolley
+charwomen
 chymiferous
 confederatio
 countervote
