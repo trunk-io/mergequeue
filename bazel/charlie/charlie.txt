@@ -10472,6 +10472,7 @@ cytisus
 chiefling
 chieftain
 chieftaincy
+cityness
 chieftainess
 chieftainry
 chieftainries
@@ -14865,7 +14866,6 @@ coccinellid
 cocinero
 carbazine
 chiarooscuros
-cityness
 cotyle
 citynesses
 chinantecs
