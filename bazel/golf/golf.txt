@@ -1219,6 +1219,7 @@ grannybush
 goodeniaceae
 galavants
 gramy
+glib
 gooseliver
 gonakie
 grackles
@@ -4479,7 +4480,6 @@ gorry
 griffin
 graveless
 gypsology
-glib
 glareola
 gypsophila
 gypsophily
