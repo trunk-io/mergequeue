@@ -4799,7 +4799,6 @@ executioners
 eventides
 equitangential
 encolour
-encolpia
 equilibrator
 enduro
 epidosite
@@ -13952,6 +13951,7 @@ enduement
 eschews
 elaborateness
 embryogenic
+encolpia
 epitomator
 electrolytical
 epistomata
