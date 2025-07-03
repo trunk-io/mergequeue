@@ -1373,7 +1373,6 @@ gramary
 guttular
 garniec
 gamily
-governs
 ganodonta
 glossanthrax
 garnison
@@ -8686,6 +8685,7 @@ glassworker
 goldenly
 girn
 griotte
+governs
 greenbug
 grinner
 grassroots
