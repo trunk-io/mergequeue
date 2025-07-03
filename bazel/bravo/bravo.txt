@@ -5096,7 +5096,6 @@ baselines
 bowellike
 batule
 blazoning
-befittingness
 boundedness
 breek
 beflag
@@ -10913,6 +10912,7 @@ behovely
 benn
 biffing
 blooded
+befittingness
 blindfish
 blindfishes
 bluelegs
