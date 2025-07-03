@@ -1994,6 +1994,7 @@ cames
 camestres
 coalitioner
 condensability
+chkfile
 camiknickers
 cosmodrome
 camilla
@@ -11248,7 +11249,6 @@ clumper
 casklike
 chizz
 chizzel
-chkfile
 chladnite
 chondrite
 churlishly
