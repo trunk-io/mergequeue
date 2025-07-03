@@ -1728,7 +1728,6 @@ accusants
 accusation
 aerical
 accusations
-accusatively
 accusatives
 arbalests
 associates
@@ -9585,6 +9584,7 @@ aspersors
 altruists
 altun
 anisomeles
+accusatively
 alture
 altus
 algivorous
