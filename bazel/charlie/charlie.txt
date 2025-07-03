@@ -1095,7 +1095,6 @@ calcine
 cytherea
 cheeser
 calciner
-chomer
 clamworm
 calcinosis
 calciobiotite
@@ -6659,6 +6658,7 @@ cryogenically
 ceases
 ceasing
 ceasmic
+chomer
 conferment
 calamariaceae
 cebalrai
