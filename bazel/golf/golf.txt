@@ -5575,7 +5575,6 @@ geophysical
 glendale
 gefilte
 gownlet
-glottogonist
 gurges
 garuda
 ginks
@@ -5583,6 +5582,7 @@ gipsyry
 gravestone
 governance
 giantesque
+glottogonist
 girdlecake
 grossular
 giftlike
