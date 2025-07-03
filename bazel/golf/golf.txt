@@ -2646,6 +2646,7 @@ genip
 genyplasty
 glaistig
 gastroduodenostomies
+gemming
 glashan
 globularness
 grainering
@@ -8886,7 +8887,6 @@ grainage
 ganglier
 goldonian
 giros
-gemming
 grooty
 ghess
 groove
