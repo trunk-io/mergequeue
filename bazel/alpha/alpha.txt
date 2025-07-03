@@ -1091,6 +1091,7 @@ abundancy
 apyrase
 abundant
 anachronical
+animalize
 abundantly
 abune
 abura
@@ -13121,7 +13122,6 @@ animalivora
 apersee
 animalivore
 animalivorous
-animalize
 animalized
 allergist
 animallike
