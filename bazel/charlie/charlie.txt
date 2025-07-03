@@ -6757,6 +6757,7 @@ ceiling
 ceilings
 ceilingwards
 copiability
+coarser
 celtophobia
 ceilometer
 couac
@@ -17416,7 +17417,6 @@ canonizations
 chickory
 coarsening
 coarsens
-coarser
 coarticulate
 coarticulation
 claylike
