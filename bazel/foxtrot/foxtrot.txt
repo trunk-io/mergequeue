@@ -9209,6 +9209,7 @@ fishpot
 fries
 fragileness
 foreknown
+flexuosities
 faceplate
 fragment
 fuller
@@ -11214,7 +11215,6 @@ fustians
 flashcubes
 fivish
 fabricative
-flexuosities
 ferned
 flemished
 fluorescing
