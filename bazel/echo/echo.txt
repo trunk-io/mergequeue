@@ -6562,6 +6562,7 @@ entail
 ephemeris
 enrollment
 essayists
+eugeosynclinal
 entails
 eaglet
 embarrassedly
@@ -9339,7 +9340,6 @@ error
 ebricty
 entertains
 euchologia
-eugeosynclinal
 epitaphize
 elytrin
 errors
