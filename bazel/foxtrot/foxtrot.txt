@@ -2977,7 +2977,6 @@ flows
 floorcloth
 febricide
 feudalist
-featuring
 feudalists
 fractionising
 fulham
@@ -6712,6 +6711,7 @@ flatterable
 flintlock
 flouts
 fogfruits
+featuring
 fluerics
 formicariae
 foofaraws
