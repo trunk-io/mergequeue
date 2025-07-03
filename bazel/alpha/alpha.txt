@@ -10287,7 +10287,6 @@ amydon
 amendatory
 amending
 autumns
-adornment
 amendment
 amendments
 amene
@@ -15235,6 +15234,7 @@ accurtation
 antifreeze
 antifreezing
 antifriction
+adornment
 antistate
 antifrost
 antifundamentalism
