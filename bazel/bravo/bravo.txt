@@ -744,7 +744,6 @@ badiaga
 breathy
 boneshaw
 bannerman
-bushmanship
 basilysis
 badigeon
 bechatter
@@ -15298,6 +15297,7 @@ besieges
 briefness
 bleeds
 bedstaves
+bushmanship
 barblet
 backie
 bierstuben
