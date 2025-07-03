@@ -2544,7 +2544,6 @@ faburden
 fry
 fernyear
 funs
-fernshaw
 foolhardihood
 fordo
 forehatch
@@ -9457,6 +9456,7 @@ formic
 fraternised
 fart
 fraternism
+fernshaw
 factitiously
 fitfulness
 finesses
