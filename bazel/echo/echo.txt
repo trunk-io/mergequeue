@@ -6615,7 +6615,6 @@ ethnohistorian
 enteraden
 epipolism
 enteradenological
-enteral
 enteralgia
 ensuant
 epicostal
@@ -11467,6 +11466,7 @@ evetide
 epenthetic
 extirpating
 encipherment
+enteral
 elucidation
 engraving
 evocated
