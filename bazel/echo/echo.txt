@@ -2149,6 +2149,7 @@ elaterins
 endleaf
 electroblasting
 enfoil
+enfeeblement
 exterminatress
 enanthematous
 elateroid
@@ -5614,7 +5615,6 @@ eternalising
 elevators
 enfolds
 eneuch
-enfeeblement
 emigated
 episiostenosis
 enfoncee
