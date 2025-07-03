@@ -15896,7 +15896,6 @@ archils
 antipriest
 astrophotometry
 accreting
-anno
 androkinin
 antipriesthood
 avaritia
@@ -17145,6 +17144,7 @@ anisochromia
 aculeata
 apogeotropism
 apogon
+anno
 autolaryngoscopy
 anga
 afterfuture
