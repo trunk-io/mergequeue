@@ -11196,7 +11196,6 @@ amphigamous
 amphigastrium
 aspersed
 amphigean
-amphigene
 amphigenous
 aminating
 amphigenously
@@ -12675,6 +12674,7 @@ anger
 angered
 adiaphoresis
 alvan
+amphigene
 angering
 alkalinizing
 advocateship
