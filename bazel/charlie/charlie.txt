@@ -14419,6 +14419,7 @@ cardioids
 crenelling
 copplecrown
 canalside
+conoid
 circumnutated
 circumnutation
 circumorbital
@@ -25689,7 +25690,6 @@ committals
 cobra
 correctress
 corrects
-conoid
 centupled
 corregimientos
 chaucerianism
