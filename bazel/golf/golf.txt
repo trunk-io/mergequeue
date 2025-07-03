@@ -7551,7 +7551,6 @@ greengroceries
 goodyness
 genicular
 gemmula
-grus
 grabhook
 grabouche
 gripsack
@@ -9963,6 +9962,7 @@ goitres
 groset
 guatibero
 guauaenok
+grus
 grysbok
 guava
 graven
