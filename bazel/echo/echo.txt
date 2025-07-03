@@ -5566,6 +5566,7 @@ enzootic
 enfilade
 extraovular
 enfilades
+equipotential
 escutcheoned
 eerinesses
 enucleator
@@ -8724,7 +8725,6 @@ equiponderancy
 equiponderant
 equiponderated
 ejecta
-equipotential
 exconjugant
 endostyle
 epicoeliac
