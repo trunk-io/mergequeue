@@ -7486,6 +7486,7 @@ gunyah
 geodesies
 greenths
 gardeners
+gobang
 garbled
 goldarns
 gravimeter
@@ -8880,7 +8881,6 @@ gormandiser
 glomerella
 grewhound
 gentman
-gobang
 grete
 grainage
 ganglier
