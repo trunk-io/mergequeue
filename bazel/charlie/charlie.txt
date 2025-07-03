@@ -15974,7 +15974,6 @@ clef
 cassinese
 chesterfields
 chronomancy
-cleft
 cleidagra
 cleidarthritis
 cadaverize
@@ -30564,6 +30563,7 @@ caldera
 cuboides
 casanovas
 cuboids
+cleft
 chondropharyngeal
 colloquium
 cubomedusan
