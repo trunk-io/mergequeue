@@ -5469,7 +5469,6 @@ groschen
 glyster
 gangboard
 gablet
-glissando
 glistened
 grande
 ganoids
@@ -9381,6 +9380,7 @@ galenobismutite
 gobelin
 glaymore
 gelatinized
+glissando
 geneserin
 graciosity
 gypsies
