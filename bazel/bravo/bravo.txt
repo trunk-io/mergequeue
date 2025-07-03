@@ -8158,7 +8158,6 @@ bidiagonal
 bidimensional
 barble
 biding
-bidirectional
 biophagy
 bidirectionally
 beliefs
@@ -15836,6 +15835,7 @@ bopyridian
 bromgelatin
 bromhydrate
 besprinkling
+bidirectional
 bromid
 bedesmen
 bramblebush
