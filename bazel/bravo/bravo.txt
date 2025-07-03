@@ -2207,7 +2207,6 @@ barathra
 barato
 buxaceae
 bontebok
-baghla
 bodword
 blockade
 bostonite
@@ -14661,6 +14660,7 @@ brassicaceae
 backworm
 brassier
 brassiere
+baghla
 brassieres
 blackhander
 brassies

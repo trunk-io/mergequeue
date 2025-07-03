@@ -5376,6 +5376,7 @@ displaced
 dentical
 denticle
 dentiferous
+dicarboxylic
 dentification
 dentifrice
 diageotropism
@@ -7944,7 +7945,6 @@ defrost
 dowitch
 disentraced
 doublets
-dicarboxylic
 dex
 disponee
 democritean
