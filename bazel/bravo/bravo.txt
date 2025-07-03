@@ -6536,7 +6536,6 @@ bequeathed
 bruges
 blooping
 biokinetics
-boson
 bartramiaceae
 buckeyes
 bequests
@@ -11831,6 +11830,7 @@ bodefully
 bodegas
 belook
 buttes
+boson
 broiden
 baking
 brigands
