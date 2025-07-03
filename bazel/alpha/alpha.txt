@@ -18651,6 +18651,7 @@ archaeotherium
 agriotypus
 archai
 anthropologic
+angiospermal
 archaic
 acing
 anisol
@@ -19162,7 +19163,6 @@ anadipsic
 apneic
 arcos
 arcose
-angiospermal
 antipolo
 allentiac
 arthropoda
