@@ -2150,7 +2150,6 @@ endleaf
 electroblasting
 enfoil
 exterminatress
-enanthematous
 elateroid
 epoxy
 esophagostenosis
@@ -10575,6 +10574,7 @@ estop
 eucharistial
 eurylaimoid
 eudaemony
+enanthematous
 enhusk
 eucharistic
 eucharistically
