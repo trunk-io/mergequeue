@@ -5475,7 +5475,6 @@ grande
 ganoids
 gimmer
 germantown
-gobbed
 goods
 gentlemen
 galipidine
@@ -6947,6 +6946,7 @@ goof
 gallwort
 goofah
 gebanga
+gobbed
 genevoise
 germans
 gallant
