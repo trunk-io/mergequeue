@@ -1587,7 +1587,6 @@ biradial
 britches
 binate
 ballista
-boilermaker
 basketlike
 beatinest
 ballistae
@@ -14285,6 +14284,7 @@ bullpates
 beerishly
 bhotiya
 biporous
+boilermaker
 beamsman
 braggish
 barcarolle
