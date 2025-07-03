@@ -8151,6 +8151,7 @@ bug
 blasphemer
 beslubber
 beltmaker
+boggart
 birse
 besieging
 bloodhound
@@ -8464,7 +8465,6 @@ behaviors
 bilaterally
 belabouring
 bilati
-boggart
 bilberry
 billions
 bilbi
