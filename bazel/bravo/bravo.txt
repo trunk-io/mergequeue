@@ -2654,7 +2654,6 @@ bimensal
 barleys
 bellying
 bable
-barling
 bortz
 bluestone
 bertholletia
@@ -5236,6 +5235,7 @@ breadboards
 barkeeps
 begar
 bandos
+barling
 bodingly
 bacteriotrypsin
 basaltic
