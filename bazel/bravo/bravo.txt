@@ -5907,6 +5907,7 @@ bentwoods
 bluer
 blackman
 begaudy
+bestand
 bellweed
 beggardom
 bretons
@@ -7196,7 +7197,6 @@ bierstube
 bestay
 burleys
 bestamp
-bestand
 bestatued
 boba
 burrito
