@@ -722,6 +722,7 @@ felstones
 fanatico
 fleshlike
 forzandos
+flatwash
 fobs
 familism
 firebolted
@@ -11164,7 +11165,6 @@ fraughted
 fibronuclear
 farm
 faence
-flatwash
 forktail
 fundungi
 firewall
