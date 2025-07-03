@@ -2396,7 +2396,6 @@ gulper
 gynobase
 gadders
 geologian
-gesticulation
 gype
 grandpas
 gemmologists
@@ -3402,6 +3401,7 @@ geometers
 gelatinated
 gallberry
 geodynamics
+gesticulation
 genoa
 geometrid
 gestapos
