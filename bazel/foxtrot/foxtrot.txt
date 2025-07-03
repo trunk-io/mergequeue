@@ -4528,6 +4528,7 @@ fertilizers
 fishwood
 fishworker
 forsay
+focalizing
 ferrovanadium
 flour
 fisnoga
@@ -8076,7 +8077,6 @@ ferrochromium
 forests
 fissuriform
 fumer
-focalizing
 forejudged
 faunistic
 foyboat
