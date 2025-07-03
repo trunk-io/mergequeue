@@ -1192,7 +1192,6 @@ edriophthalmatous
 educability
 educand
 emulsive
-educatability
 eident
 educatable
 educatedness
@@ -4329,6 +4328,7 @@ expostulator
 espouse
 espichellite
 espadrille
+educatability
 enamours
 episperm
 euphrasia
