@@ -13758,7 +13758,6 @@ boutons
 barrelful
 bouvardia
 bouviers
-buffers
 bouw
 butle
 bigheads
@@ -17814,6 +17813,7 @@ benevolent
 burrstone
 bude
 bambini
+buffers
 bundobust
 bursae
 bursary
