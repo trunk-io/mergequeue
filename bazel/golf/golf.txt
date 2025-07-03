@@ -4899,7 +4899,6 @@ glair
 glaire
 glosses
 gigger
-gradual
 growliness
 glaired
 gurjun
@@ -5717,6 +5716,7 @@ girasols
 gyrolite
 gurus
 geologize
+gradual
 gingham
 goldsmithery
 glockenspiel
