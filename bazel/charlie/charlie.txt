@@ -3140,6 +3140,7 @@ capcase
 celotomy
 connexion
 craterid
+choric
 cape
 chequerboard
 capeadores
@@ -12054,7 +12055,6 @@ chorometry
 coaggregated
 confarreate
 choriambus
-choric
 chorines
 collunarium
 consol
