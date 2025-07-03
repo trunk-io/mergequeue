@@ -4200,6 +4200,7 @@ figments
 figuredly
 firebox
 flocculation
+flyway
 friendliest
 fellowcraft
 floerkea
@@ -5324,7 +5325,6 @@ fretters
 french
 flain
 fulyie
-flyway
 fucaceous
 felonwood
 farrierlike
