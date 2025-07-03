@@ -9302,7 +9302,6 @@ franchisees
 foulings
 fertil
 flagons
-fordull
 front
 foremost
 fervors
@@ -10092,6 +10091,7 @@ friskiness
 frisking
 frisch
 friskingly
+fordull
 frisks
 frondiform
 formalise
