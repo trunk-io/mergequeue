@@ -1055,7 +1055,6 @@ baillone
 bailo
 babyhouse
 behowling
-becost
 barrulet
 blousier
 bailors
@@ -12439,6 +12438,7 @@ bonderize
 belabored
 bloodline
 bonderman
+becost
 boii
 bogum
 beice
