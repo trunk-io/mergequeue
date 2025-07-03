@@ -5808,7 +5808,6 @@ fribble
 fevertwig
 flambee
 frett
-facemaker
 forestside
 forepromised
 fussiest
@@ -9301,6 +9300,7 @@ figurants
 franchisees
 foulings
 fertil
+facemaker
 flagons
 fordull
 front
