@@ -1363,7 +1363,6 @@ accents
 auxillary
 accentual
 accentually
-appertise
 accension
 appointable
 agapanthus
@@ -19884,6 +19883,7 @@ armied
 armies
 acetocinnamene
 abthainry
+appertise
 armiferous
 agnoetae
 attributives
