@@ -6255,7 +6255,6 @@ favella
 fargoing
 floccules
 fluvial
-focusable
 fluffiest
 fascinative
 formwork
@@ -10312,6 +10311,7 @@ feudatory
 flindersia
 farriers
 fingerleaf
+focusable
 fingering
 frondeurs
 faldistory
