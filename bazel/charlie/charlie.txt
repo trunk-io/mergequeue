@@ -3080,7 +3080,6 @@ canvasing
 canvaslike
 causata
 canvasser
-canzona
 canzones
 canzonet
 caodaism
@@ -21895,6 +21894,7 @@ complimentary
 chirognostic
 confederation
 confederationist
+canzona
 centrodorsally
 cheddars
 congiary
