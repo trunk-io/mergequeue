@@ -3935,6 +3935,7 @@ carboxylic
 carboxyls
 carbro
 carbromal
+chloridated
 carbuncle
 chuckrum
 carbuncles
@@ -11334,7 +11335,6 @@ chloric
 chlorid
 chloridate
 conturb
-chloridated
 consuls
 chloridation
 chloride
