@@ -10612,7 +10612,6 @@ ampelidaceae
 amylom
 amylopectin
 amylophagia
-acorns
 amyloplast
 appertaining
 amyloplastid
@@ -19874,6 +19873,7 @@ aethon
 animalization
 archthief
 armhole
+acorns
 armhoop
 adpao
 acapsular
