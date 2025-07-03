@@ -5453,7 +5453,6 @@ behaviours
 baviere
 balai
 bandying
-bandura
 beheaded
 beheader
 bawd
@@ -18258,6 +18257,7 @@ buttermilk
 bastardy
 buttermonger
 bice
+bandura
 bagworm
 buttermouth
 bronzier
