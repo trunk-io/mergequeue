@@ -11869,7 +11869,6 @@ braggest
 becrown
 barcan
 benote
-beperiwigged
 barytocelestine
 benzophenanthrazine
 bodysurfed
@@ -13302,6 +13301,7 @@ botanically
 botanics
 bridechamber
 botanies
+beperiwigged
 botanist
 botanize
 boswellizing
