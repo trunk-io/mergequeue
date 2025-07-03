@@ -185,7 +185,6 @@ baccara
 baroques
 bdrm
 bedlam
-bedin
 bristleless
 batholith
 bipartition
@@ -2553,6 +2552,7 @@ bardel
 barylalia
 bactrian
 backtalk
+bedin
 barile
 barilla
 bleeder
