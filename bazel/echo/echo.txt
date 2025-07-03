@@ -1037,6 +1037,7 @@ epithelium
 edemata
 erysimum
 epics
+extraperiosteal
 exactingly
 emphrensy
 eking
@@ -13978,7 +13979,6 @@ endears
 exundance
 echinococcus
 exsuperance
-extraperiosteal
 engem
 eurodollars
 exocardia

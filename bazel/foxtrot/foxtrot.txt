@@ -5709,7 +5709,6 @@ fluffer
 ferratin
 focimetry
 flinty
-footpound
 flintwood
 folioliferous
 facilitator
@@ -9421,6 +9420,7 @@ ficaria
 forequoted
 fractionised
 flamboyer
+footpound
 feudatories
 franticly
 fossor
