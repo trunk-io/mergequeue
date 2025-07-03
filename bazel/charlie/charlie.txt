@@ -4950,6 +4950,7 @@ carageen
 carrs
 carses
 cogitable
+clogged
 carsick
 carsickness
 caviteno
@@ -16613,7 +16614,6 @@ cloff
 centripetalism
 clog
 clogdogdo
-clogged
 cruisken
 channelization
 cucumbers
