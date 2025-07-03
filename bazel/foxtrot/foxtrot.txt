@@ -8729,6 +8729,7 @@ fordoing
 floppers
 foredecks
 flocculator
+fiaunt
 fortresses
 fella
 footlog
@@ -10320,7 +10321,6 @@ forecourt
 feaze
 forgetfully
 footcandles
-fiaunt
 fraenula
 floodlighted
 foredoing
