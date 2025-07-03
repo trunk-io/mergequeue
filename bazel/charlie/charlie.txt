@@ -4193,7 +4193,6 @@ cardiomyopathy
 cardioncus
 camshaft
 cardionecrosis
-cannibal
 cardioneurosis
 cardionosus
 cardiopath
@@ -10832,6 +10831,7 @@ churnability
 chinchona
 chincof
 ciliium
+cannibal
 chincona
 chauffeurs
 counterplotted
