@@ -5976,7 +5976,6 @@ aggro
 acropetal
 alacrities
 aggroup
-affrontee
 approximant
 arcaded
 applauder
@@ -16960,6 +16959,7 @@ aplacental
 aplacentalia
 aplacentaria
 aplacophorous
+affrontee
 anatomicals
 anton
 aftertan
