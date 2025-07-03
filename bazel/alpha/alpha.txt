@@ -3565,7 +3565,6 @@ andric
 abnumerable
 adenocystoma
 antepectoral
-adenocystomatous
 adenodermia
 adenodynia
 apotheces
@@ -22324,6 +22323,7 @@ anniversaries
 astroglia
 actify
 arcturia
+adenocystomatous
 agenda
 asteriskless
 apophorometer
