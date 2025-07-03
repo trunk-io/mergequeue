@@ -2880,7 +2880,6 @@ counsinhood
 crozed
 canopy
 cannelloni
-copesman
 canopid
 canopied
 canopies
@@ -9337,6 +9336,7 @@ chastiser
 clapperboard
 corf
 chastity
+copesman
 chastities
 chockstone
 chasubled
