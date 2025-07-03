@@ -7512,7 +7512,6 @@ eavesdroppers
 ephemeralness
 ephemerid
 ephemerida
-excused
 ewe
 escobadura
 ephemeridae
@@ -10806,6 +10805,7 @@ excystation
 extrasystolic
 ethylenation
 euphonic
+excused
 enid
 ephemerae
 enclaret
