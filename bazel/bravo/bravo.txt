@@ -82,6 +82,7 @@ ballfield
 babelize
 beshlik
 babels
+bitangent
 belinda
 botrytis
 bulwarks
@@ -1010,7 +1011,6 @@ bronchiocrisis
 bulse
 baign
 barbarizes
-bitangent
 blain
 baigneuses
 beshrewed
