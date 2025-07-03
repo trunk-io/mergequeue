@@ -856,7 +856,6 @@ epineolithic
 ectocoelic
 ectocommensal
 ectocondylar
-endophytic
 ectocondyloid
 efficient
 excrementous
@@ -4881,6 +4880,7 @@ effeminateness
 explete
 enjamb
 enterohemorrhage
+endophytic
 encroachments
 encrustation
 elepaio
