@@ -11201,7 +11201,6 @@ chytroi
 chits
 chittack
 chitted
-chitter
 chitterling
 chutney
 chitters
@@ -23497,6 +23496,7 @@ caprock
 conterminable
 centinormal
 callorhynchus
+chitter
 conterminant
 carbonarism
 conterminously
