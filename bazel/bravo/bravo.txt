@@ -3705,7 +3705,6 @@ barny
 battier
 brightest
 batting
-battings
 bailiery
 battledores
 baldly
@@ -8650,6 +8649,7 @@ billman
 blechnum
 basigenic
 baraza
+battings
 bual
 billon
 baronizing
