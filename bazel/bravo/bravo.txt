@@ -7230,7 +7230,6 @@ bloomsbury
 bestiary
 backdating
 byelorussia
-bur
 boundable
 bestiarian
 bestiarist
@@ -8119,6 +8118,7 @@ bicuspid
 bruxism
 bulk
 burrobrush
+bur
 bid
 barbariousness
 bidactylous
