@@ -1735,7 +1735,6 @@ feaster
 fearedness
 fluidizes
 fathometer
-frypan
 faucets
 fervidly
 flatworm
@@ -8299,6 +8298,7 @@ forefronts
 fraps
 foxglove
 faitery
+frypan
 ferrule
 fosterage
 freestyler
