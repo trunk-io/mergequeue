@@ -1554,7 +1554,6 @@ gassing
 gismos
 guytrash
 gondoliere
-glaceed
 globicephala
 gymnura
 gauntlet
@@ -8878,6 +8877,7 @@ ghostified
 graftage
 gormandiser
 glomerella
+glaceed
 grewhound
 gentman
 gobang
