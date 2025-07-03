@@ -2986,7 +2986,6 @@ elysiidae
 elisor
 escobedo
 elissa
-expeditor
 eyereach
 edestan
 elitism
@@ -8843,6 +8842,7 @@ exenteritis
 ectosteal
 evangelary
 el
+expeditor
 ectoskeleton
 ekename
 erasers

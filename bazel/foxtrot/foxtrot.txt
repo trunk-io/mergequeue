@@ -4772,6 +4772,7 @@ fadme
 fobbing
 fijian
 fulgor
+folial
 flabella
 foes
 frises
@@ -8055,7 +8056,6 @@ fairies
 fosterers
 formentation
 facetting
-folial
 fucused
 forestful
 freezes
