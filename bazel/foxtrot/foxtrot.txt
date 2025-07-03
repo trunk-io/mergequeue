@@ -1141,7 +1141,6 @@ finkel
 fudgy
 fishling
 fastback
-farrisite
 firehalls
 figulate
 flyings
@@ -3639,6 +3638,7 @@ filemaker
 flenches
 freedstool
 filename
+farrisite
 forgetable
 fractabling
 fixates
