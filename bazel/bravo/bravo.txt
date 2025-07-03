@@ -13963,7 +13963,6 @@ boxmaker
 bicycloheptane
 boxman
 bickiron
-boxroom
 backstage
 bedlamic
 borghese
@@ -15484,6 +15483,7 @@ bisso
 bitwise
 bimas
 beadlet
+boxroom
 bryony
 biedermeier
 buglet
