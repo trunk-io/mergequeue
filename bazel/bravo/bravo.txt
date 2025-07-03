@@ -7867,7 +7867,6 @@ bibionid
 bewreath
 bealtine
 bibiri
-brad
 barefisted
 bartizan
 bibitory
@@ -10145,6 +10144,7 @@ bromising
 blackbutt
 battue
 blackcaps
+brad
 bejeweled
 borrelia
 barysilite
