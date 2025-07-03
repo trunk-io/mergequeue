@@ -4790,6 +4790,7 @@ encoding
 encodings
 effectivity
 ergasterion
+escapable
 enbusshe
 estocs
 epicrisis
@@ -4853,7 +4854,6 @@ embusy
 effortfully
 euripides
 eucatropine
-escapable
 epidermatoid
 embryogenetic
 engraven
