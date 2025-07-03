@@ -6755,6 +6755,7 @@ gossiping
 geront
 gentilitial
 gambians
+greyflies
 gyrostatics
 genal
 genros
@@ -7274,7 +7275,6 @@ gymnonoti
 gosplan
 grabbings
 gonal
-greyflies
 gilia
 gonfalonier
 gosports
