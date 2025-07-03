@@ -9969,7 +9969,6 @@ cornucopia
 chastizer
 curiological
 chemokinesis
-chemokinetic
 chemolysis
 cicero
 chemolyze
@@ -22191,6 +22190,7 @@ confucius
 crambambuli
 confusability
 circummured
+chemokinetic
 confusedly
 confusedness
 confuser
