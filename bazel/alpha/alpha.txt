@@ -4606,6 +4606,7 @@ aecidiospore
 aecidiostage
 aglare
 aecidium
+anisochromia
 aeciospore
 aecioteliospore
 abigeus
@@ -17141,7 +17142,6 @@ assiduous
 afterdeath
 apogenous
 avocets
-anisochromia
 aculeata
 apogeotropism
 apogon
