@@ -5484,7 +5484,6 @@ flora
 funniness
 frequentness
 flemishes
-flensed
 frillers
 flensers
 fallation
@@ -5500,6 +5499,7 @@ fenderless
 fricassee
 friezy
 fiduciarily
+flensed
 friseurs
 fluxmeter
 fossed
