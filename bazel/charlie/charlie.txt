@@ -18936,7 +18936,6 @@ colymbion
 colymbriformes
 chequy
 colymbus
-choroid
 chaines
 colinear
 chelodina
@@ -20454,6 +20453,7 @@ cresols
 condonative
 concamerate
 companable
+choroid
 companage
 counterword
 cerebroma
