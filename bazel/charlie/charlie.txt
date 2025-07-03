@@ -7796,7 +7796,6 @@ cerithiidae
 cerithium
 ceriums
 corambis
-chloroplatinite
 cermet
 cyamid
 ciceros
@@ -14264,6 +14263,7 @@ circularisation
 circularised
 calandre
 coit
+chloroplatinite
 circularism
 clink
 caulerpa
