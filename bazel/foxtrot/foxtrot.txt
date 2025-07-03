@@ -3271,7 +3271,6 @@ flotages
 foods
 fogman
 feloness
-fluework
 floorshift
 firmisternous
 fosslology
@@ -8617,6 +8616,7 @@ fittings
 flamefishes
 fuzzed
 finnochio
+fluework
 flukeless
 functionate
 fingerfishes
