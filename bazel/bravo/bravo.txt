@@ -1946,7 +1946,6 @@ bocaccios
 bagnio
 balances
 bandstring
-brandishes
 bosquets
 bitripartite
 bandwagon
@@ -4015,6 +4014,7 @@ byegaein
 birdseeds
 beakers
 boltheads
+brandishes
 beakiron
 barms
 beakless
