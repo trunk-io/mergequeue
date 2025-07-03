@@ -2459,6 +2459,7 @@ fleshlessness
 flakelet
 fistularia
 ferio
+flaglike
 filipuncture
 felanders
 frenchness
@@ -7716,7 +7717,6 @@ flyman
 feudality
 fruggin
 flyeater
-flaglike
 fiancee
 foreknew
 fiord
