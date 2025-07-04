@@ -4226,6 +4226,7 @@ floodtime
 firebrick
 foulmouthed
 foretokening
+fusspots
 firebug
 flagstones
 fireburn
@@ -8303,7 +8304,6 @@ ferrule
 fosterage
 freestyler
 forgotten
-fusspots
 forepole
 foregame
 fribbling
