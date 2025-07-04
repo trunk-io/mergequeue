@@ -6333,7 +6333,6 @@ gippo
 gambelli
 ganoblast
 garnitures
-gofer
 gutsiness
 given
 getspace
@@ -10603,6 +10602,7 @@ gonidium
 guttle
 gunners
 gunning
+gofer
 gonzalo
 grandame
 glossmeter
