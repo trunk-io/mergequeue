@@ -3137,7 +3137,6 @@ caparisons
 capataces
 capataz
 capcase
-celotomy
 connexion
 craterid
 cape
@@ -12700,6 +12699,7 @@ chronometer
 citolers
 chronometers
 chronometric
+celotomy
 chronometrically
 chronon
 choppily
