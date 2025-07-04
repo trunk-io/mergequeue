@@ -3415,7 +3415,6 @@ chimericalness
 continuua
 capretto
 capri
-capric
 capriccetto
 capricci
 capriccio
@@ -19682,6 +19681,7 @@ carolled
 civilly
 caschrom
 columniation
+capric
 caballing
 columniferous
 columniform
