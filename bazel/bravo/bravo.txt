@@ -2533,6 +2533,7 @@ barid
 bronchostenosis
 bereaving
 burgus
+bowelled
 barye
 burglarise
 bois
@@ -13831,7 +13832,6 @@ bowe
 bibcock
 bedikah
 boilers
-bowelled
 beardedness
 bulbuls
 bemuddy
