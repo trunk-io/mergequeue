@@ -11653,7 +11653,6 @@ cleavingly
 chold
 choleate
 cholecyanine
-couchee
 cholecystectasia
 cholecystectomy
 cingulum
@@ -23882,6 +23881,7 @@ controllable
 controllably
 controller
 churner
+couchee
 costophrenic
 controlless
 conin
