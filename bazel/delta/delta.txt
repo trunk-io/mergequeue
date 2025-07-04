@@ -2490,6 +2490,7 @@ ditchdown
 dirigent
 deckhand
 duckwing
+destinations
 deckle
 disslander
 depletable
@@ -15884,7 +15885,6 @@ disprovable
 dhurry
 dorsolumbar
 deliberators
-destinations
 dankly
 domeykite
 deputise
