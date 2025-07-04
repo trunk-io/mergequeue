@@ -2296,7 +2296,6 @@ fusilades
 femora
 fen
 fatil
-fain
 fenced
 fencelessness
 fink
@@ -11213,6 +11212,7 @@ funje
 fustians
 flashcubes
 fivish
+fain
 fabricative
 flexuosities
 ferned
