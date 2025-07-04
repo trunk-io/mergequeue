@@ -10151,7 +10151,6 @@ ethenol
 ensorcelize
 ebb
 explosives
-etheostominae
 elytroid
 etheostomoid
 esthetician
@@ -12566,6 +12565,7 @@ esonarthex
 enameler
 electrofusion
 extant
+etheostominae
 existlessness
 epistemological
 exit
