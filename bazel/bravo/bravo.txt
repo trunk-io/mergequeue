@@ -815,6 +815,7 @@ bafflingly
 bulbus
 bonnyclabber
 bushelbasket
+beltways
 bafflingness
 bonelike
 bedene
@@ -2381,7 +2382,6 @@ barcoo
 bemoisten
 bard
 besplash
-beltways
 bardcraft
 barde
 beleve
