@@ -4742,7 +4742,6 @@ charlock
 carpenterworm
 carpet
 carpetbag
-carpetbagger
 carpetbaggery
 conchometry
 catty
@@ -17101,6 +17100,7 @@ clutterment
 cm
 coinclude
 cmd
+carpetbagger
 catalecta
 cml
 cofferdams
