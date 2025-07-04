@@ -532,7 +532,6 @@ fassaite
 flayer
 feodum
 fishbone
-fakirs
 flapcake
 falbelo
 firerooms
@@ -4411,6 +4410,7 @@ forfeitable
 frate
 fibroplastic
 figureheads
+fakirs
 flavo
 frogfishes
 fathomed
