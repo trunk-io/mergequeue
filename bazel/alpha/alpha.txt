@@ -6553,7 +6553,6 @@ adenanthera
 aidman
 aidmen
 adjunctive
-aids
 afterripening
 arbalestre
 antiheterolysin
@@ -20895,6 +20894,7 @@ ambulating
 alveolar
 arthrogastra
 asbestoid
+aids
 asbestoidal
 abscondence
 airfields
