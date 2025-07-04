@@ -6023,7 +6023,6 @@ frug
 felspars
 flacon
 fumattoria
-frayings
 foo
 fidiculae
 fishway
@@ -7716,6 +7715,7 @@ flyman
 feudality
 fruggin
 flyeater
+frayings
 flaglike
 fiancee
 foreknew
