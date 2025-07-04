@@ -3806,7 +3806,6 @@ cenacle
 cotsetle
 conficient
 carbineer
-carbines
 carbinols
 commensality
 carboazotine
@@ -29886,6 +29885,7 @@ crosshair
 crosshand
 crosshatches
 cogwheel
+carbines
 coadjutator
 crosshatching
 crosshaul
