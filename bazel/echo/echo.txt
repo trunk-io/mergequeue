@@ -1635,6 +1635,7 @@ egress
 erizo
 emissarium
 epiblastic
+euonym
 egressed
 egresses
 extraphysiological
@@ -9027,7 +9028,6 @@ eryngos
 elasmotherium
 edgers
 europeanly
-euonym
 essex
 eriocaulaceae
 extraspherical
