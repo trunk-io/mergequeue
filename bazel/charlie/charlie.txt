@@ -12335,7 +12335,6 @@ chrysophyte
 chromonemic
 chrysopid
 chrysopidae
-chrysoprase
 chrysoprasus
 cothe
 chasmic
@@ -28500,6 +28499,7 @@ creatress
 caecectomy
 creatureling
 creatures
+chrysoprase
 carapo
 creatureship
 creaturize
