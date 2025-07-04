@@ -1269,7 +1269,6 @@ chromophotograph
 calfkill
 calfless
 calflike
-calfling
 calfskin
 creatural
 calgary
@@ -21157,6 +21156,7 @@ concause
 cyclist
 capitals
 concavity
+calfling
 conceal
 concealable
 cadger
