@@ -10725,7 +10725,6 @@ chylous
 chilte
 chiltern
 chilver
-caliological
 chimaera
 chimaerid
 chimaeroid
@@ -18621,6 +18620,7 @@ coiffed
 caustics
 clavers
 coiffeur
+caliological
 coiffeurs
 coiffeuses
 coolheaded
