@@ -5122,6 +5122,7 @@ glazers
 geldant
 grouch
 grasslands
+gneissitic
 gyrophoraceae
 graylags
 glazes
@@ -10586,7 +10587,6 @@ gunmetal
 grecoue
 gurmukhi
 goffering
-gneissitic
 gatewoman
 grenadiership
 grommets
