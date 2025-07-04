@@ -1023,7 +1023,6 @@ burs
 bringer
 barfs
 bailable
-boordly
 baile
 bezazz
 boucherize
@@ -9165,6 +9164,7 @@ buckone
 barotropy
 banderlog
 bersil
+boordly
 behalf
 bianchi
 beshag
