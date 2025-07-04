@@ -2122,6 +2122,7 @@ centrolepidaceous
 costumery
 cixiid
 capriciousness
+childe
 campcraft
 campe
 cryal
@@ -11379,7 +11380,6 @@ chesterbed
 chlormethane
 chloroacetone
 chloroacetophenone
-childe
 chloroamide
 chloroamine
 chloroaurate
