@@ -842,7 +842,6 @@ beflags
 boohoos
 bleachs
 blackboards
-backband
 bootblack
 bagdad
 bagdi
@@ -9425,6 +9424,7 @@ bathman
 balustrades
 benedictus
 bridegroom
+backband
 begettal
 bobwood
 boga
