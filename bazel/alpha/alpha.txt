@@ -8983,7 +8983,6 @@ allophite
 annale
 allophones
 allophonically
-alloplast
 angakoks
 alloplastic
 allopolyploidy
@@ -22088,6 +22087,7 @@ asthamatic
 astheny
 achroacyte
 ailantery
+alloplast
 abjudge
 argute
 alcavala
