@@ -4498,6 +4498,7 @@ feste
 fishpole
 fishpoles
 flueless
+funiculate
 flensing
 flameproof
 fishponds
@@ -8674,7 +8675,6 @@ freesia
 flatfooted
 flaunters
 fryers
-funiculate
 furicane
 flapless
 fathomable
