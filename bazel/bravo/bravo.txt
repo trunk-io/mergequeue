@@ -181,6 +181,7 @@ boh
 baccalaureate
 baccalaureates
 baccalaureus
+biordinal
 baccara
 baroques
 bdrm
@@ -16970,7 +16971,6 @@ becks
 bulblike
 biacetyl
 biplosion
-biordinal
 bulbocavernosus
 biochore
 brachycephalies
