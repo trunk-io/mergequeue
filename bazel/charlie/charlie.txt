@@ -2939,6 +2939,7 @@ cantation
 cantatrice
 coverts
 chestily
+commissariats
 chorioids
 cantdog
 cantdogs
@@ -29049,7 +29050,6 @@ copilot
 cephalocaudal
 crymoanesthesia
 coraciae
-commissariats
 cantab
 cryptorhynchus
 crimper
