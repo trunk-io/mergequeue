@@ -26,7 +26,6 @@ aasvogel
 ab
 anaphoric
 assurate
-artemon
 avernus
 assort
 abac
@@ -21719,6 +21718,7 @@ assert
 asserta
 assertable
 asserted
+artemon
 assagaied
 asserter
 automatics
