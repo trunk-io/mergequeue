@@ -13636,7 +13636,6 @@ compilers
 chisel
 comitiva
 cylindroid
-cylindromata
 caudillos
 cylindromatous
 crosswords
@@ -25063,6 +25062,7 @@ corduroying
 corduroys
 chiliadic
 choppered
+cylindromata
 cuprotungstite
 cordwainer
 choleraic
