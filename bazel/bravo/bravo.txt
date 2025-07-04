@@ -875,7 +875,6 @@ builders
 bagios
 bedrenching
 babishness
-beadlery
 biacromial
 bagmaker
 bagnes
@@ -8889,6 +8888,7 @@ bioassaying
 byplace
 bioastronautics
 biobibliographer
+beadlery
 barleysick
 bioblastic
 backwoodsiness
