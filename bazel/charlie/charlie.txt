@@ -28502,7 +28502,6 @@ creatureling
 creatures
 carapo
 creatureship
-creaturize
 churchanity
 creaze
 crebricostate
@@ -29091,6 +29090,7 @@ castrensian
 clinally
 colipyelitis
 crinites
+creaturize
 capriccettos
 crinitory
 craniota
