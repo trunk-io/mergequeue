@@ -5999,7 +5999,6 @@ germanization
 guanabana
 gnarly
 gnarliest
-gnarliness
 grassiness
 gnarls
 gaidropsaridae
@@ -8055,6 +8054,7 @@ gristmill
 galop
 grantors
 grantsman
+gnarliness
 griphe
 granula
 granular
