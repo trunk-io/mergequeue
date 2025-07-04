@@ -3682,7 +3682,6 @@ elucidators
 extramural
 embryophore
 educations
-electrogenesis
 elements
 embryos
 esthesioblast
@@ -9972,6 +9971,7 @@ extensionist
 electromagnetics
 exude
 exoculated
+electrogenesis
 enskies
 electrocratic
 extravertive
