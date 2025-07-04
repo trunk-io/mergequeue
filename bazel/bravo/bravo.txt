@@ -5594,7 +5594,6 @@ bouleuterion
 befoolment
 borons
 beknighted
-ballistite
 bullidae
 beknotted
 burrio
@@ -8457,6 +8456,7 @@ bilaminar
 bilander
 blart
 burblier
+ballistite
 bemusement
 battercake
 bandido
