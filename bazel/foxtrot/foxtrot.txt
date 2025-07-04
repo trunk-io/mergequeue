@@ -438,7 +438,6 @@ fusetron
 festive
 familiariser
 flints
-festae
 fauchards
 fishgig
 fur
@@ -4647,6 +4646,7 @@ filagrees
 ferring
 fiercely
 flowmanostat
+festae
 folsom
 filister
 fodderless
