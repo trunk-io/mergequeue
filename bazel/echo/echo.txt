@@ -302,6 +302,7 @@ epitheliums
 enterolobium
 enantiosis
 ealderman
+entosphenoid
 endark
 espousage
 excusator
@@ -2700,7 +2701,6 @@ evovae
 electiveness
 exogastritis
 electrotype
-entosphenoid
 electrotyped
 electrotypy
 enolase
