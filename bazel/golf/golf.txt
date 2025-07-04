@@ -5277,7 +5277,6 @@ geoponics
 ghaist
 glycosyl
 glyceroxide
-glycide
 galoshed
 glycinin
 glabrous
@@ -6693,6 +6692,7 @@ gucki
 genes
 gambled
 gauges
+glycide
 googols
 gyrostats
 glomerate
