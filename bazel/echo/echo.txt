@@ -4050,7 +4050,6 @@ ecthymata
 euthymy
 equitant
 erotophobia
-exteriorize
 empathized
 empyromancy
 egotistical
@@ -7192,6 +7191,7 @@ estanciero
 everyday
 endocolitis
 envisage
+exteriorize
 envisagement
 established
 examples
