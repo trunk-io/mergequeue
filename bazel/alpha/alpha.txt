@@ -10246,6 +10246,7 @@ ameland
 amelcorn
 alchemister
 amelcorns
+asserta
 atrebates
 amelet
 ambuling
@@ -21716,7 +21717,6 @@ antiberiberin
 assents
 asseour
 assert
-asserta
 assertable
 asserted
 assagaied
