@@ -1335,6 +1335,7 @@ bookdealer
 bioplastic
 balboas
 barrowcoat
+bedazzlingly
 brod
 botrylle
 backdrops
@@ -4586,7 +4587,6 @@ bedazzle
 blared
 bowsprit
 bedazzles
-bedazzlingly
 baptise
 bedbugs
 bedtick
