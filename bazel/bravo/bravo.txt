@@ -788,6 +788,7 @@ bldr
 blautok
 baetulus
 boothose
+bike
 batrachophobia
 benignness
 blake
@@ -4441,7 +4442,6 @@ bhili
 beribers
 beclothes
 blushwort
-bike
 buriels
 boomeranged
 bootee
