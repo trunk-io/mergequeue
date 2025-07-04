@@ -7856,7 +7856,6 @@ cfi
 certifiability
 categorematic
 certifiable
-certificate
 certificated
 certificates
 certifications
@@ -24558,6 +24557,7 @@ colonialist
 calorizes
 copenetrate
 copenhagen
+certificate
 copepod
 copepoda
 chromolithograph
