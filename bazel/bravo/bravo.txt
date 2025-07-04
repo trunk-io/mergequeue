@@ -310,6 +310,7 @@ backarrows
 backbar
 bedright
 backbencher
+befile
 backberand
 birkenhead
 biolith
@@ -5076,7 +5077,6 @@ befezzed
 beffroy
 beggaries
 broiderer
-befile
 befilmed
 befilth
 burgeoned
