@@ -4334,7 +4334,6 @@ follicule
 fibster
 fenland
 fraterniser
-fungology
 firmarii
 furmeties
 forrader
@@ -7321,6 +7320,7 @@ fixation
 foraying
 frognose
 foralite
+fungology
 foram
 franchisers
 fronds
