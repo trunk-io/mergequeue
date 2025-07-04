@@ -7118,7 +7118,6 @@ bathyscaphes
 bespeckle
 bethylid
 bespeckled
-blindman
 bespectacled
 beefless
 besped
@@ -10228,6 +10227,7 @@ blacklegged
 betattering
 blackleggery
 boyd
+blindman
 breakpoints
 blacklist
 blacklisted
