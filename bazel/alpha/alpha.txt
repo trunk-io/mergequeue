@@ -19436,7 +19436,6 @@ alexins
 athwartwise
 audible
 augurial
-argentry
 abbest
 argents
 argentum
@@ -20885,6 +20884,7 @@ abuts
 asarums
 anglicanly
 anteverted
+argentry
 asb
 agoniatites
 asbest
