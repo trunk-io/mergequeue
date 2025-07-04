@@ -4155,7 +4155,6 @@ fissipedal
 fussier
 ferth
 floridan
-floweriness
 fiorin
 fusiladed
 fiorite
@@ -5497,6 +5496,7 @@ forbids
 filchers
 faured
 fenderless
+floweriness
 fricassee
 friezy
 fiduciarily
