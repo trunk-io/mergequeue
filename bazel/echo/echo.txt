@@ -1159,6 +1159,7 @@ environage
 edition
 endere
 editorialization
+ephas
 elsa
 ecphory
 enclosed
@@ -7479,7 +7480,6 @@ ecphorize
 exhibitor
 elbowbush
 ephidrosis
-ephas
 ephebea
 erythrogonium
 excepts
