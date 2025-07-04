@@ -979,6 +979,7 @@ flyleaf
 foundry
 ft
 fasola
+fluorene
 fourchite
 fanfishes
 flightless
@@ -4738,7 +4739,6 @@ fidded
 fructed
 fummel
 furtherer
-fluorene
 fistular
 fistlike
 fizgig
