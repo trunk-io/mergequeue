@@ -853,6 +853,7 @@ fissidentaceae
 faun
 faveoli
 frogeyes
+frontonasal
 fanjet
 fastened
 flemings
@@ -5620,7 +5621,6 @@ fossilation
 formulary
 fmt
 flyer
-frontonasal
 frouncing
 flageolet
 flamant
