@@ -17208,7 +17208,6 @@ commonweal
 coemptional
 champ
 coadjutor
-coadjutors
 carduus
 coadjutorship
 coadjutress
@@ -21208,6 +21207,7 @@ concentration
 clamatores
 commensalist
 concentrations
+coadjutors
 concentrative
 cicatricial
 codirect
