@@ -2295,7 +2295,6 @@ commonwealth
 cytopahgous
 canakin
 canakins
-canal
 cookeys
 canalatura
 canalboat
@@ -19215,6 +19214,7 @@ collocative
 collock
 cowfish
 compartmentalizes
+canal
 collocutor
 cogitations
 collodion
