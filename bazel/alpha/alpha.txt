@@ -1066,7 +1066,6 @@ asimina
 abt
 abterminal
 acetonization
-aphelion
 abthainrie
 abubble
 abuilding
@@ -17514,6 +17513,7 @@ apparatchiks
 apparats
 apparatus
 arist
+aphelion
 appareling
 apparency
 apparentements
