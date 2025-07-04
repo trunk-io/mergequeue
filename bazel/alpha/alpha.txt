@@ -7002,7 +7002,6 @@ arolium
 archworkmaster
 ajuga
 ajutment
-akal
 akali
 akalimba
 akamai
@@ -13605,6 +13604,7 @@ airliner
 anoas
 aglet
 acaulous
+akal
 aminoquinoline
 anocathartic
 abilene
