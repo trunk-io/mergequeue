@@ -2063,6 +2063,7 @@ barreleye
 bouet
 bumbaste
 brine
+bewaste
 barebone
 banksmen
 bucketed
@@ -7576,7 +7577,6 @@ beloam
 begirding
 bernoullian
 bewary
-bewaste
 beweary
 besottedness
 botflies
