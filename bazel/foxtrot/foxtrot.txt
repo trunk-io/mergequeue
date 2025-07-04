@@ -1703,7 +1703,6 @@ foreannounce
 fipenny
 four
 fdnames
-floretum
 forthcut
 fluible
 flamboyantly
@@ -10613,6 +10612,7 @@ familiarities
 fractile
 forswearing
 forwaste
+floretum
 fleeting
 flatnesses
 frugalities
