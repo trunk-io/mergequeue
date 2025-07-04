@@ -478,7 +478,6 @@ abysmal
 agriotes
 abyss
 abysses
-abyssolith
 aporrhais
 abyssopelagic
 abyssus
@@ -8617,6 +8616,7 @@ allantoides
 allantoin
 associationalism
 analyzer
+abyssolith
 allantoinase
 ampullosity
 allantoinuria
