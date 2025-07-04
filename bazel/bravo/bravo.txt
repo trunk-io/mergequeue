@@ -1758,7 +1758,6 @@ bibliokelpt
 balthasar
 baltheus
 blends
-baltimore
 bumblebeefishes
 baluba
 berogue
@@ -14487,6 +14486,7 @@ brancard
 briarroot
 bahan
 branchiomeric
+baltimore
 branchellion
 blattoidea
 beadle
