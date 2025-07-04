@@ -3978,6 +3978,7 @@ fellowing
 filea
 fined
 fineish
+flaglike
 faulty
 fineness
 farmy
@@ -7716,7 +7717,6 @@ flyman
 feudality
 fruggin
 flyeater
-flaglike
 fiancee
 foreknew
 fiord
