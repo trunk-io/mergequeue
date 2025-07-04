@@ -3862,7 +3862,6 @@ adjudging
 adjudgment
 adjudicate
 autarkik
-adjudicated
 adjudication
 adjudications
 agglutinin
@@ -10696,6 +10695,7 @@ amins
 aminta
 amyosthenic
 amyotonia
+adjudicated
 amir
 amiray
 appendicious
