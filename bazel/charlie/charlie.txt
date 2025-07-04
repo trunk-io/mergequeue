@@ -30005,7 +30005,6 @@ crottle
 crouch
 crouchant
 crouchback
-crouched
 crouches
 crouchie
 cahnite
@@ -31864,6 +31863,7 @@ cochliodont
 cransier
 cuttage
 caccabis
+crouched
 crowfooted
 cuttail
 cutterhead
