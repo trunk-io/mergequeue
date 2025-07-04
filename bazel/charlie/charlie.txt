@@ -16306,6 +16306,7 @@ clines
 caudexes
 clinger
 crankness
+chamade
 crossbeak
 clingfishes
 contravenes
@@ -25992,7 +25993,6 @@ chavibetol
 corviser
 clapotis
 corvo
-chamade
 corvoid
 corvorant
 cantiga
