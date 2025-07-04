@@ -11643,6 +11643,7 @@ boarwood
 boas
 boaster
 boastfully
+brewed
 boastfulness
 bacchus
 boasts
@@ -16500,7 +16501,6 @@ bonders
 blackplate
 brachypinacoid
 brutishness
-brewed
 bechern
 bruzz
 bsf
