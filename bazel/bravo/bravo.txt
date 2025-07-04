@@ -729,7 +729,6 @@ booking
 banana
 balada
 badgeringly
-boyish
 blacklead
 brinjal
 badgerlike
@@ -3779,6 +3778,7 @@ beldamship
 bestubble
 batzen
 blundering
+boyish
 boatsmanship
 bribeable
 blksize
