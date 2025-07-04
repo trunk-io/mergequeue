@@ -2514,6 +2514,7 @@ gaiterless
 gitter
 generalized
 graywall
+glaucium
 guv
 gabbards
 gristy
@@ -10177,7 +10178,6 @@ garages
 grovelings
 guido
 glade
-glaucium
 gladiolar
 guetar
 goos
