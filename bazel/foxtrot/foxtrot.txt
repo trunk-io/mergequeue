@@ -2625,7 +2625,6 @@ fanti
 fimbriatum
 flappy
 fluidification
-ferryway
 finding
 fumes
 forechase
@@ -4322,6 +4321,7 @@ fatiguability
 fulsomely
 ferdwit
 foreshortens
+ferryway
 foiblesse
 fendable
 fastuous
