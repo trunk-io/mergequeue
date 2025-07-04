@@ -7481,7 +7481,6 @@ compute
 cleansing
 cephalomere
 cyclostylar
-cephalometer
 cephalometric
 clysis
 cephalonasal
@@ -10939,6 +10938,7 @@ chipchop
 chipewyan
 chiplet
 culvert
+cephalometer
 chipmunk
 claviharp
 chipmunks
