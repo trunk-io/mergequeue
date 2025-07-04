@@ -2369,6 +2369,7 @@ gumphion
 gloppy
 generic
 grow
+glossless
 guianese
 groomed
 gauk
@@ -8627,7 +8628,6 @@ granter
 gph
 grapy
 geyser
-glossless
 gritty
 gres
 galvanologist
