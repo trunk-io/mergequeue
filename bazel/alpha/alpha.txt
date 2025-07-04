@@ -1867,7 +1867,6 @@ acceleration
 achieves
 adstrict
 advanced
-acetable
 acetabula
 acetabularia
 acetabulous
@@ -3486,6 +3485,7 @@ adduced
 abeyances
 aragonese
 adducer
+acetable
 adduces
 adducible
 ampelideous
