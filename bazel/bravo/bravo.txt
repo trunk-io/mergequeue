@@ -223,7 +223,6 @@ banditries
 beslimed
 brainpower
 bacchuslike
-biofog
 bandicoot
 braillist
 baccy
@@ -5086,6 +5085,7 @@ befire
 befist
 boomerangs
 braised
+biofog
 berberia
 bespotted
 beneficiary
