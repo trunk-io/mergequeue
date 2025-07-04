@@ -1476,6 +1476,7 @@ fatsos
 featherleaf
 fossils
 factionalist
+ferlies
 femorofibular
 fisk
 fatted
@@ -2947,7 +2948,6 @@ forwarding
 fibrillose
 faeries
 fluky
-ferlies
 funks
 fetterlock
 flatfish
