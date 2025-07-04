@@ -1508,6 +1508,7 @@ gangland
 grouse
 gasoliers
 guiro
+gunstick
 gripers
 growed
 ganglionary
@@ -5608,7 +5609,6 @@ gruidae
 gallicanism
 gastrasthenia
 game
-gunstick
 glueman
 gamiest
 granadilla
