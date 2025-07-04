@@ -4498,7 +4498,6 @@ gamb
 gomutis
 gambrel
 gumwoods
-gills
 gerbille
 gigantomachia
 gmelinite
@@ -10731,6 +10730,7 @@ gaddi
 gustard
 guergal
 grouping
+gills
 gustatorial
 groupie
 gustfully
