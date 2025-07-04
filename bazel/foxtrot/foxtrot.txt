@@ -2885,7 +2885,6 @@ fcomp
 florigen
 fretted
 frontosquamosal
-faunae
 faveolate
 frieseite
 friller
@@ -3890,6 +3889,7 @@ flowingly
 freckleproof
 femerell
 flubdubberies
+faunae
 flauto
 froze
 filthifying
