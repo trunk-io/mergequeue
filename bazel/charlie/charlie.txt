@@ -17151,7 +17151,6 @@ coperose
 coachfellow
 coachy
 coaching
-coachmaker
 coachmaster
 canceling
 counterdemonstrator
@@ -29989,6 +29988,7 @@ chirothesia
 crotyl
 crotin
 croton
+coachmaker
 consulated
 crotonaldehyde
 crotonate
