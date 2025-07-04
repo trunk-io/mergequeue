@@ -12455,7 +12455,6 @@ cholent
 crack
 coulters
 chromatium
-chromatize
 chromatogenous
 cinchonia
 chromatographic
@@ -31164,6 +31163,7 @@ covetingly
 cuppen
 cupper
 cuppin
+chromatize
 chemonite
 cuppings
 clerklike
