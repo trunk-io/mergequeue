@@ -11400,6 +11400,7 @@ flushness
 factum
 fourposter
 flamberg
+fosite
 farceuse
 fleak
 furnishes
@@ -11633,7 +11634,6 @@ forint
 frolicsomely
 fibrous
 fylgja
-fosite
 funestal
 finestiller
 forehew
