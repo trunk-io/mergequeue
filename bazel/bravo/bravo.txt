@@ -2862,6 +2862,7 @@ barnmen
 banger
 brushland
 barraging
+badinage
 bailer
 braca
 battener
@@ -7717,7 +7718,6 @@ bhagat
 bridging
 bhagavat
 bivouacking
-badinage
 bookrack
 bigamized
 barker
