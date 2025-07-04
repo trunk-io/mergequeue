@@ -5480,7 +5480,6 @@ feedlot
 farkleberry
 fluozirconic
 fernbrake
-flora
 funniness
 frequentness
 flemishes
@@ -11405,6 +11404,7 @@ fleak
 furnishes
 fiddles
 functionlessness
+flora
 frosk
 furnishment
 feater
