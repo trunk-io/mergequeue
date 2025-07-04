@@ -2954,7 +2954,6 @@ flatfish
 forewing
 feign
 foxship
-frisettes
 formicarium
 fuzz
 frabjously
@@ -9067,6 +9066,7 @@ frasco
 fritter
 foxbane
 foxberry
+frisettes
 falcular
 fractionation
 forenent
