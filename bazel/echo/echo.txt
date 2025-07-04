@@ -3590,7 +3590,6 @@ entamoeba
 effusive
 equivalents
 enchainement
-eyeliner
 embraced
 embracement
 erythraean
@@ -12180,6 +12179,7 @@ excuser
 elytron
 endpoint
 exposure
+eyeliner
 ellipse
 electrophysicist
 econometrical
