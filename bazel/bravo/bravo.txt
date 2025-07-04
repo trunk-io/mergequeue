@@ -5462,6 +5462,7 @@ beachward
 bulletmaking
 blubbery
 boardmanship
+barded
 boatable
 behemoth
 behemoths
@@ -13165,7 +13166,6 @@ borrowers
 breakless
 bors
 butteriest
-barded
 belive
 bovines
 besneer
