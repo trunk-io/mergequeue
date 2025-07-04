@@ -5271,6 +5271,7 @@ affixial
 aspatia
 android
 authorism
+ancestrian
 armageddon
 apiales
 aimable
@@ -12135,7 +12136,6 @@ ancestral
 ancestrally
 ancestry
 autocue
-ancestrian
 allodge
 ancha
 asgard
