@@ -269,7 +269,6 @@ grenada
 gnomon
 glauconiferous
 groser
-gigavolt
 geomagnetism
 gummata
 galiongee
@@ -1273,6 +1272,7 @@ gardenia
 gunnels
 granulose
 galium
+gigavolt
 ginkgo
 gitanemuk
 gloria
