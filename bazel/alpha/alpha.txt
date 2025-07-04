@@ -14855,7 +14855,6 @@ abe
 attendancy
 austrian
 accouchements
-anticipations
 almoning
 anticipative
 attensity
@@ -23869,6 +23868,7 @@ authoress
 authorhood
 acaridae
 authorisable
+anticipations
 admonishing
 authorised
 acrobystitis
