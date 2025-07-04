@@ -779,6 +779,7 @@ bethorn
 blackout
 becker
 building
+ballyhoo
 baedekerian
 baeria
 bliny
@@ -1578,7 +1579,6 @@ bareboats
 beknighting
 brummagem
 bemol
-ballyhoo
 ballyrags
 bioelectrogenetic
 belat
