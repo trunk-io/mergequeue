@@ -953,6 +953,7 @@ equipping
 electrophoretic
 excludes
 ectropion
+epencephala
 epilogues
 ectropium
 eluvia
@@ -7435,7 +7436,6 @@ earthmoving
 epembryonic
 equipollency
 eyres
-epencephala
 embittering
 embezzle
 epencephalon
