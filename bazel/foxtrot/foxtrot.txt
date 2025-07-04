@@ -1425,7 +1425,6 @@ favorable
 fatigableness
 fazendas
 frock
-fanning
 fatigue
 fossicks
 fatiguesome
@@ -4007,6 +4006,7 @@ finest
 finew
 fish
 fermentor
+fanning
 frenziedly
 frightfulness
 foreshown
