@@ -7726,6 +7726,7 @@ falconlike
 fretty
 forsaken
 flamelike
+foveated
 formalizations
 fiddlerfishes
 fireshine
@@ -10721,7 +10722,6 @@ flotsams
 frumps
 foldboat
 forcedly
-foveated
 fuder
 frustrating
 fingerless
