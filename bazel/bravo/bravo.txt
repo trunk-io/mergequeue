@@ -2322,6 +2322,7 @@ bridgemaker
 breloque
 bathyscape
 barbicel
+bothriocidaris
 barbicels
 bathonian
 barbierite
@@ -8424,7 +8425,6 @@ bodilessness
 bannerfish
 bijwoner
 beanie
-bothriocidaris
 buisson
 bauchle
 bloodlettings
