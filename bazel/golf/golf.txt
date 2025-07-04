@@ -1248,7 +1248,6 @@ greasers
 galliardly
 grognard
 geneki
-griffes
 gapping
 grex
 gapper
@@ -6236,6 +6235,7 @@ gadslid
 gobber
 goateed
 guitarlike
+griffes
 garths
 guttural
 ghostiest
