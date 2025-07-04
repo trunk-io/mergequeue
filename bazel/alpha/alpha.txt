@@ -10160,7 +10160,6 @@ anisogamy
 ambulation
 avulsion
 appropre
-ambulator
 ambulatory
 ambulatoria
 alternating
@@ -22340,6 +22339,7 @@ aeschylus
 ailurophobic
 assonia
 atechny
+ambulator
 astrolabe
 astrolatry
 astrolithology
