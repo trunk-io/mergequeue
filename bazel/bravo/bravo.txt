@@ -1531,7 +1531,6 @@ bersiamite
 bulbiform
 bouton
 backsword
-ballaster
 ballastic
 ballata
 batikulin
@@ -6310,6 +6309,7 @@ barbar
 bagfuls
 benthonic
 bevors
+ballaster
 benthoscope
 bemoat
 benthoses
