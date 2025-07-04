@@ -5411,6 +5411,7 @@ guniter
 glyphic
 gambist
 gascoign
+gowany
 guran
 girlhood
 gauche
@@ -10597,7 +10598,6 @@ geologic
 gelds
 gens
 grandisonian
-gowany
 guarache
 gonidium
 guttle
