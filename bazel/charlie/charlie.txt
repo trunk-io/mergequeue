@@ -18492,6 +18492,7 @@ concords
 changeling
 castelli
 cognoscente
+competentness
 cognoscing
 cognoscitive
 chemitypies
@@ -20626,7 +20627,6 @@ compert
 cumbly
 competed
 competent
-competentness
 classmates
 competible
 cyclothem
