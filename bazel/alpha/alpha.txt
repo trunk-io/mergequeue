@@ -9613,7 +9613,6 @@ adversative
 alumic
 alumiferous
 acroamatics
-aeroballistics
 abominates
 arachnoid
 atonalist
@@ -22792,6 +22791,7 @@ atomically
 atomician
 ambroids
 assimilative
+aeroballistics
 asterioid
 adelphoi
 alpinely
