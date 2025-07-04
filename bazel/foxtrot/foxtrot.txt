@@ -6657,6 +6657,7 @@ fruitery
 funds
 fancymonger
 focussed
+fringelet
 fencible
 focussing
 fod
@@ -10037,7 +10038,6 @@ fryer
 foollike
 flans
 fringehead
-fringelet
 fruitier
 fringent
 fringetail
