@@ -7349,6 +7349,7 @@ bootstrap
 bethink
 boatswain
 balaenoptera
+bichromatic
 bocklogged
 bisinuation
 bilbies
@@ -16838,7 +16839,6 @@ blastoderm
 biotechnologies
 blended
 burhead
-bichromatic
 brulyie
 bathysophic
 buffoonish
