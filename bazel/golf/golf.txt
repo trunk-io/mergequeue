@@ -290,7 +290,6 @@ gummier
 glossophora
 gaintwist
 giglot
-gamuts
 geobotany
 gynaecian
 gaminesque
@@ -1796,6 +1795,7 @@ guinean
 gullah
 gingiva
 gatekeeper
+gamuts
 grizel
 grassy
 gesso
