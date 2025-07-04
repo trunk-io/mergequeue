@@ -5819,6 +5819,7 @@ bromization
 bombyliidae
 batfish
 bonasa
+burial
 bellhouse
 belli
 buckstone
@@ -13923,7 +13924,6 @@ billback
 burka
 bowstaff
 bowstring
-burial
 bacteriotropic
 binoculate
 bowstringed
