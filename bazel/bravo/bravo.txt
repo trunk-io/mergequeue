@@ -8261,7 +8261,6 @@ browache
 boldin
 biformed
 berthage
-biformity
 bifront
 bavarian
 bhavani
@@ -11627,6 +11626,7 @@ boardwalks
 battledored
 benefactrix
 bolis
+biformity
 brachyural
 blockishly
 biunivocal
