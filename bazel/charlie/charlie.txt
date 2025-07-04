@@ -6500,7 +6500,6 @@ cavalieri
 cavaliering
 catchpenny
 cavalierishness
-cavalierism
 cavalierly
 cytogenous
 cavalierness
@@ -20400,6 +20399,7 @@ commutatively
 carpogone
 commutativity
 commutator
+cavalierism
 commute
 cattycorner
 commuted
