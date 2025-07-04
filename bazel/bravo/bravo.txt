@@ -3557,7 +3557,6 @@ balon
 baygall
 barricade
 byronish
-brushy
 battleground
 berkeleyite
 bien
@@ -4667,6 +4666,7 @@ buckstay
 blastoid
 bediapering
 biosociology
+brushy
 boxiness
 bemisting
 bedighted
