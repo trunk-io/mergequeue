@@ -5902,7 +5902,6 @@ fangas
 flinted
 furcellate
 forehear
-flanging
 filleted
 ferrichloride
 furnishings
@@ -10739,6 +10738,7 @@ fleeing
 flagstaves
 fletches
 frustum
+flanging
 frutage
 faithlessly
 footraces
