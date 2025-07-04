@@ -5185,7 +5185,6 @@ expedition
 endogenous
 enlistment
 electo
-embroider
 endoglobular
 eleme
 ephemerons
@@ -10467,6 +10466,7 @@ entresalle
 excreted
 exposit
 ecb
+embroider
 emeute
 ectocranial
 endemiological
