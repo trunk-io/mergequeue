@@ -3513,6 +3513,7 @@ brabbling
 balotade
 blue
 byroads
+bargeese
 batfishes
 biri
 bondholder
@@ -16492,7 +16493,6 @@ bipolar
 bogy
 basic
 bathorse
-bargeese
 barbarianize
 biflorate
 backbiters
