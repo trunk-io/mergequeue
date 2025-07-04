@@ -7300,6 +7300,7 @@ blanked
 betake
 betakes
 betaking
+blacketeer
 bisulphide
 beneventana
 blowby
@@ -10159,7 +10160,6 @@ blackener
 billette
 blackens
 bakalei
-blacketeer
 blackfeet
 brakeage
 barrelhouses
