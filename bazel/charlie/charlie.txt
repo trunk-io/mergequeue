@@ -3602,7 +3602,6 @@ charadriiform
 carabaos
 carabeen
 cowgirl
-carabidae
 checkle
 carabidan
 carabidoid
@@ -30907,6 +30906,7 @@ culture
 clientship
 culturine
 chainette
+carabidae
 culturing
 cystoids
 crotched
