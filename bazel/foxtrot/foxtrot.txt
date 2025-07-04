@@ -1945,7 +1945,6 @@ fishable
 fontanelle
 fustilarian
 foism
-frothed
 flitched
 fainly
 filicologist
@@ -4656,6 +4655,7 @@ fasciotomy
 fleckless
 fruitgrowing
 fitchew
+frothed
 fitified
 fluoridizing
 flank
