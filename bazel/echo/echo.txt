@@ -2890,6 +2890,7 @@ elevons
 eurydice
 elf
 elfenfolk
+exudation
 epinard
 ecodeme
 elfinwood
@@ -6947,7 +6948,6 @@ eucalyn
 epiblema
 epitrchelia
 eruca
-exudation
 exarchal
 emblema
 elasticize
