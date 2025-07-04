@@ -4976,6 +4976,7 @@ deckels
 drabbletail
 demote
 demoted
+discipline
 demotes
 disomus
 demotions
@@ -18271,7 +18272,6 @@ diseuse
 demonian
 dunkled
 dig
-discipline
 diacoca
 dunlap
 dunlins
