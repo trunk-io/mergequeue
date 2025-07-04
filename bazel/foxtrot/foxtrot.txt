@@ -4355,7 +4355,6 @@ fluyt
 footle
 factive
 fistulate
-fet
 firmness
 flamethrower
 funditor
@@ -11421,6 +11420,7 @@ feasor
 fluidextract
 flocculose
 furniture
+fet
 flummoxing
 frustrable
 furodiazole
