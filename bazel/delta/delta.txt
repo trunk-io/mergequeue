@@ -4577,6 +4577,7 @@ diwans
 demilitarisation
 demilitarise
 demilitarised
+destroys
 demilitarising
 demilitarization
 descendible
@@ -15056,7 +15057,6 @@ depressive
 dreamland
 dueler
 dogfennel
-destroys
 discernibly
 disblame
 dogfights
