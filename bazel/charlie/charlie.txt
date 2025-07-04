@@ -14737,6 +14737,7 @@ crime
 cryptogenous
 cystolith
 cystolithiasis
+cuboid
 cystoma
 cystomas
 corpusculum
@@ -30556,7 +30557,6 @@ crepidula
 cubocuneiform
 cubododecahedral
 concarnation
-cuboid
 conopholis
 cuboidal
 cuneocuboid
