@@ -396,7 +396,6 @@ decoder
 daintified
 daintifying
 desiccating
-daintiness
 demonetizes
 daiquiri
 dingle
@@ -16869,6 +16868,7 @@ dipleuric
 determinativeness
 dozes
 depreciations
+daintiness
 dissyllabise
 diffidence
 drawoff
