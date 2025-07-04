@@ -3807,7 +3807,6 @@ brutus
 bauhinias
 baul
 barrington
-boschboks
 baulked
 brache
 bearbane
@@ -6640,6 +6639,7 @@ beret
 berets
 balancers
 beretta
+boschboks
 berewick
 balkanizing
 banquettes
