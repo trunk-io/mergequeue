@@ -2622,6 +2622,7 @@ frailties
 fortuitus
 fiduciaries
 fanti
+forehands
 fimbriatum
 flappy
 fluidification
@@ -8735,7 +8736,6 @@ footlog
 flymen
 faultsman
 finchery
-forehands
 fortuitous
 faying
 fixate
