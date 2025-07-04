@@ -3130,7 +3130,6 @@ epidermidalization
 epigonousepigons
 eryx
 euphenics
-elongation
 edict
 epiplastral
 eom
@@ -5652,6 +5651,7 @@ epacme
 enform
 ergometric
 epulation
+elongation
 entertainable
 enfort
 embarrasses
