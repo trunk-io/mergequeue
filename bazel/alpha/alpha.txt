@@ -16905,6 +16905,7 @@ apiculus
 apiece
 annelida
 astrogonic
+attntrp
 assortment
 anchusin
 aluminotype
@@ -23175,7 +23176,6 @@ attn
 accroach
 antliate
 avunculate
-attntrp
 anthropidae
 attollent
 amorousness
