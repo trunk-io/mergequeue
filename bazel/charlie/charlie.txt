@@ -184,6 +184,7 @@ counterextend
 cystoscopies
 cotinga
 caboshed
+catfall
 cabotage
 clangored
 caber
@@ -5952,7 +5953,6 @@ catfaced
 constructable
 chivy
 catfacing
-catfall
 catfalls
 catfight
 creeled
