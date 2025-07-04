@@ -12740,7 +12740,6 @@ engramma
 exopod
 epigraphist
 exopterygote
-exopterygotism
 eurypygae
 epha
 extol
@@ -13263,6 +13262,7 @@ exult
 evasiveness
 equiliria
 explicates
+exopterygotism
 euglenoidina
 encoffinment
 explicator
