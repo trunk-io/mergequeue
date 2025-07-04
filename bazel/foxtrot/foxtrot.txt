@@ -4864,6 +4864,7 @@ flagman
 floppy
 fasciolaria
 fancifulness
+fulcrumed
 flinching
 fashionmonging
 fingerflower
@@ -10812,7 +10813,6 @@ firiness
 fixatives
 fulciment
 failures
-fulcrumed
 formicarioid
 fulcruming
 fanatical
