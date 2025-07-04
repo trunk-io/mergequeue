@@ -1665,7 +1665,6 @@ eichhornia
 eichwaldite
 eide
 excommunications
-excepter
 eider
 excisemen
 ectomorphism
@@ -13880,6 +13879,7 @@ expo
 etamine
 exosmosis
 emollient
+excepter
 endolymphangial
 extradited
 extradomestic
