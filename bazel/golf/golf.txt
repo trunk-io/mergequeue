@@ -4639,7 +4639,6 @@ gledy
 gyrovagues
 gloy
 gaatch
-glyph
 groovelike
 girshes
 gipsyish
@@ -5944,6 +5943,7 @@ glassmen
 grangerize
 gensengs
 graylag
+glyph
 geodesics
 gazogenes
 galactopathy
