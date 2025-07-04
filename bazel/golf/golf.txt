@@ -5714,7 +5714,6 @@ graphics
 gabendum
 grieshuckle
 girasols
-gyrolite
 gurus
 geologize
 gingham
@@ -7817,6 +7816,7 @@ greece
 galvanometrical
 groom
 grammarless
+gyrolite
 grammaticaster
 grassers
 garlandlike
