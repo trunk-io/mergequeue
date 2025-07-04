@@ -1735,7 +1735,6 @@ feaster
 fearedness
 fluidizes
 fathometer
-frypan
 faucets
 fervidly
 flatworm
@@ -6532,6 +6531,7 @@ frederic
 falter
 filagreeing
 forgie
+frypan
 farweltered
 fip
 failsoft
