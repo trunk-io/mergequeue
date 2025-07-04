@@ -2733,6 +2733,7 @@ gascoigny
 greatcoat
 glories
 gyro
+genotype
 gecko
 garni
 guzzledom
@@ -7391,7 +7392,6 @@ goujat
 grampuses
 garrulous
 grangerized
-genotype
 galenas
 gladstonianism
 goulash
