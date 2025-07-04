@@ -6326,7 +6326,6 @@ disgrade
 deaccessioned
 dephlegmatory
 dermenchysis
-delacrimation
 dermestid
 dermatoneural
 dextrogyration
@@ -11017,6 +11016,7 @@ disaffectedly
 disaffecting
 dashnak
 dilutor
+delacrimation
 disaffiliated
 disaffinity
 demibrigade
