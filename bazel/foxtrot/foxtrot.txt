@@ -2749,6 +2749,7 @@ facundity
 fervence
 fortnightlies
 futilize
+forecast
 firebote
 ferventness
 frighteningness
@@ -7531,7 +7532,6 @@ foreburton
 frae
 foredo
 fameless
-forecast
 foams
 ferial
 ferrocyanhydric
