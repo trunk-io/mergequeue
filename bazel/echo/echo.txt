@@ -104,6 +104,7 @@ earpick
 earpiece
 enchisel
 enmarble
+exophasia
 earreach
 engineership
 extraught
@@ -2014,7 +2015,6 @@ endocrinotherapy
 epigaea
 erythrosine
 epitrophy
-exophasia
 elytrigerous
 etherish
 erythrophyll
