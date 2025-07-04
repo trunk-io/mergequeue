@@ -2090,6 +2090,7 @@ bannock
 buyers
 bannocks
 boilinglike
+brimstone
 bivittate
 banovina
 banquet
@@ -12190,7 +12191,6 @@ besit
 brevis
 bacchides
 broomcorn
-brimstone
 blamable
 bollock
 bema
