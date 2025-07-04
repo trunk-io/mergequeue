@@ -7290,6 +7290,7 @@ catawba
 clamors
 canalized
 centrifugaller
+conveyorizer
 cladoceran
 centrifugate
 centrifuge
@@ -10466,7 +10467,6 @@ chiefery
 cyatholith
 chiefest
 cervalet
-conveyorizer
 chiefish
 cytisus
 chiefling
