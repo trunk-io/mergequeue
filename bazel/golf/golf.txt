@@ -5425,6 +5425,7 @@ glauconiidae
 glyptodon
 goi
 glyptodontoid
+gustable
 gracelike
 griphosaurus
 gaea
@@ -7960,7 +7961,6 @@ gambiae
 gusted
 gerrymanderer
 gettering
-gustable
 greekess
 gentilize
 ginn
