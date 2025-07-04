@@ -4348,7 +4348,6 @@ graphicalness
 grylli
 gunky
 guz
-glottochronology
 gelofer
 galops
 ginglymostomoid
@@ -7955,6 +7954,7 @@ grandpapa
 geophysicists
 grotesquerie
 gruesomely
+glottochronology
 greenishness
 gambiae
 gusted
