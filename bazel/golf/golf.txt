@@ -8815,7 +8815,6 @@ girrit
 gastral
 girsle
 guanay
-gablelike
 graecized
 geneat
 goldeye
@@ -10604,6 +10603,7 @@ guttle
 gunners
 gunning
 gonzalo
+gablelike
 grandame
 glossmeter
 gadidae
