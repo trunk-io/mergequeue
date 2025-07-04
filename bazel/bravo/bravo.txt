@@ -3946,7 +3946,6 @@ barhal
 bastardizations
 beachcombers
 beachdrops
-biliment
 bloedite
 bowed
 bumpiest
@@ -14956,6 +14955,7 @@ barnstormers
 bungholes
 billitonite
 brechtian
+biliment
 bunchberries
 bred
 bennettites
