@@ -3245,6 +3245,7 @@ grabbable
 glosseme
 gemless
 gula
+gnathonical
 gabback
 geneticists
 germanized
@@ -8668,7 +8669,6 @@ gastraeal
 gates
 gnus
 geochronologist
-gnathonical
 grassflat
 gastrodisc
 growler
