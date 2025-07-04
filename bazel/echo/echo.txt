@@ -619,7 +619,6 @@ exobiological
 echt
 ecchymosed
 excommenge
-enclear
 exostoses
 eciliate
 emporia
@@ -3713,6 +3712,7 @@ erodability
 excessiveness
 enslaving
 encumbers
+enclear
 enfetter
 embrocates
 erythroid
