@@ -915,7 +915,6 @@ clientelage
 consecration
 caking
 collagist
-chazzanut
 cakravartin
 cal
 calaba
@@ -2219,6 +2218,7 @@ campos
 campout
 circumfusile
 capotes
+chazzanut
 campshed
 campsheeting
 campsite
