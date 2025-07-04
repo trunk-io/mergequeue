@@ -12291,7 +12291,6 @@ bolus
 bomb
 barratrous
 bombable
-bombacaceae
 bombace
 behang
 bundu
@@ -18351,6 +18350,7 @@ butterscotch
 buxaceous
 buxbaumiaceae
 brushbush
+bombacaceae
 beery
 bounding
 bro
