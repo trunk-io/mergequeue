@@ -15085,6 +15085,7 @@ citron
 cenobium
 carbonium
 citronalis
+coot
 comparison
 citronellol
 citronin
@@ -24476,7 +24477,6 @@ coost
 chimeres
 curves
 coosuc
-coot
 cootch
 corticin
 cootfoot
