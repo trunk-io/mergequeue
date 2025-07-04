@@ -2099,7 +2099,6 @@ blindish
 banqueting
 beseem
 besteer
-bans
 bufagin
 bladeless
 boguing
@@ -4878,6 +4877,7 @@ begrace
 bigotty
 bubukle
 burglarproof
+bans
 beebee
 biophysical
 bordar
