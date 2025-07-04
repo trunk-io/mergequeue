@@ -7463,6 +7463,7 @@ glossopharyngeal
 glitch
 guessable
 gymnogen
+gul
 glottalized
 grafship
 governed
@@ -10320,7 +10321,6 @@ goas
 geographized
 gastroenterology
 gridder
-gul
 glomming
 gaming
 granose
