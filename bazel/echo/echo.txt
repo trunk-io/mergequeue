@@ -3193,7 +3193,6 @@ elude
 equant
 eludes
 educive
-eludible
 eluding
 enswathes
 enfollow
@@ -4898,6 +4897,7 @@ encumberer
 equibalance
 entablements
 excisions
+eludible
 ef
 esteemable
 encumbrance
