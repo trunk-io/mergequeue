@@ -500,7 +500,6 @@ geminations
 gluconokinase
 geomorphology
 guanyl
-geographic
 gowiddie
 golem
 gruffing
@@ -5443,6 +5442,7 @@ garancin
 gandhiism
 gliffy
 grid
+geographic
 goodwillies
 gliridae
 gasoline
