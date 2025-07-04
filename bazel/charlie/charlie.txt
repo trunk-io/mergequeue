@@ -7691,7 +7691,6 @@ carus
 corrugating
 cooked
 citrulline
-chondric
 corydaline
 cophouse
 cerebrifugal
@@ -23680,6 +23679,7 @@ contractility
 contractionist
 contractions
 circularity
+chondric
 contractly
 contractor
 contractors
