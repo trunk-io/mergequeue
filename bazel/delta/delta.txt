@@ -11085,6 +11085,7 @@ disanchor
 deliberations
 disanimation
 disannuller
+dominated
 dichroic
 disentanglements
 disincarcerate
@@ -15447,7 +15448,6 @@ derisions
 desperacy
 disillusionist
 digestedness
-dominated
 deforestation
 detoxify
 dragonet
