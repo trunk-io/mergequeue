@@ -5072,7 +5072,6 @@ grainsmen
 gymnospermae
 glassteel
 grenadine
-grice
 goldeneye
 greesagh
 glathsheim
@@ -9835,6 +9834,7 @@ guajillo
 gallicism
 gongoresque
 gips
+grice
 grousy
 gametophagia
 guajiras
