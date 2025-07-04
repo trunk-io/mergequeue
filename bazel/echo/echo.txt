@@ -11879,6 +11879,7 @@ enteroparesis
 extbook
 embowing
 excuseful
+enfeature
 ergonomically
 emptysis
 emptying
@@ -13178,7 +13179,6 @@ expertness
 erythea
 erotisms
 enlure
-enfeature
 expiable
 excubitorium
 evenglow
