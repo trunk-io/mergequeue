@@ -2669,7 +2669,6 @@ exports
 enfant
 extendibility
 engenderment
-electrotelegraphy
 exhort
 extractiform
 epispadia
@@ -11603,6 +11602,7 @@ encephalosepsis
 evolutoid
 elegize
 enchiridion
+electrotelegraphy
 evolvable
 explicating
 elaterid
