@@ -6698,7 +6698,6 @@ gyrostats
 glomerate
 geyseral
 gurdfish
-gruine
 glenoid
 guiltlessness
 goniocraniometry
@@ -9815,6 +9814,7 @@ gorfly
 guayabi
 guaiac
 gewgawry
+gruine
 gymnotid
 guaiacolize
 guaiaconic
