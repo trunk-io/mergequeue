@@ -2310,6 +2310,7 @@ diacetyls
 denizens
 didna
 disseizin
+diastereoisomer
 dilapidate
 decke
 deceptions
@@ -12477,7 +12478,6 @@ dermostosis
 defers
 dishmop
 dimerlie
-diastereoisomer
 dishome
 dishonor
 distendedness
