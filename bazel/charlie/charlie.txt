@@ -6636,6 +6636,7 @@ cchaddoorck
 ccid
 ccitt
 custodial
+cobaltite
 caic
 commentation
 contributions
@@ -12179,7 +12180,6 @@ chouan
 chouanize
 committment
 coleus
-cobaltite
 choultries
 compluvium
 chronostichon
