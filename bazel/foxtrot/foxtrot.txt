@@ -2792,7 +2792,6 @@ framing
 fesse
 fedity
 fictionize
-fascis
 foliolate
 fessed
 fragmentarily
@@ -4186,6 +4185,7 @@ fatling
 feezed
 fluey
 fireboy
+fascis
 fam
 flying
 fraticelli
