@@ -3749,7 +3749,6 @@ adiathermal
 adiathermancy
 antioxidase
 alcoranist
-alure
 acaridea
 adiathetic
 adiating
@@ -13434,6 +13433,7 @@ anne
 alod
 anormal
 anglicist
+alure
 anneal
 artlessly
 annealer
