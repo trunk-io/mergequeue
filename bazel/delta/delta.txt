@@ -4025,6 +4025,7 @@ delegalizing
 delegate
 doorsill
 duotone
+denter
 delegates
 dolina
 delegateship
@@ -18385,7 +18386,6 @@ dabbing
 decontrols
 duodenums
 dysphagia
-denter
 dimorphite
 duodiodepentode
 duodrama
