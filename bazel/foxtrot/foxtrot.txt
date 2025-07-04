@@ -6842,6 +6842,7 @@ foveiform
 fjelds
 frette
 forepass
+foreappointment
 fluidible
 foraminiferan
 fikery
@@ -9866,7 +9867,6 @@ fruitage
 faden
 fribbler
 friskle
-foreappointment
 fricace
 fricandeaux
 foozlers
