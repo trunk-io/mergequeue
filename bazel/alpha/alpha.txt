@@ -5458,7 +5458,6 @@ acrostichic
 autocamper
 aftercooler
 alahee
-aftercost
 aftercrop
 acanthodian
 aftercure
@@ -17562,6 +17561,7 @@ anacoluthically
 alkalimetric
 anthracaemia
 amalings
+aftercost
 appeases
 advantages
 acratia
