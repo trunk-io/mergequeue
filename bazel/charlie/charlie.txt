@@ -4741,6 +4741,7 @@ carpenters
 charlock
 carpenterworm
 carpet
+cachucho
 carpetbag
 carpetbagger
 carpetbaggery
@@ -14979,7 +14980,6 @@ cytopathogenic
 cytopathogenicity
 cytopathologic
 cytopathological
-cachucho
 coenactor
 condominate
 cytopathologically
