@@ -8279,7 +8279,6 @@ elephantiasic
 epipharyngeal
 exonerates
 epistatic
-epistaxis
 endear
 epistemically
 enjoyingly
@@ -11521,6 +11520,7 @@ expended
 eridanid
 electromyogram
 emendate
+epistaxis
 engouled
 eunuchize
 evince
