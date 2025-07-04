@@ -2418,6 +2418,7 @@ feres
 floatstone
 flytings
 fegs
+flashbulb
 frolicky
 ferforth
 frapped
@@ -8019,7 +8020,6 @@ frivolled
 ferie
 froebelian
 fireplough
-flashbulb
 fungaceous
 forestal
 firecrackers
