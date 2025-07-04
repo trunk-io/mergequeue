@@ -5785,7 +5785,6 @@ catchlight
 cultivatability
 clockcase
 cowpock
-caudillism
 catchline
 catchments
 catchphrase
@@ -6929,6 +6928,7 @@ curares
 cytologist
 cellulitis
 cellulofibrous
+caudillism
 celluloid
 confabbing
 cellulomonadeae
