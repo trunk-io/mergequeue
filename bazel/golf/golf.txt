@@ -3569,7 +3569,6 @@ gro
 gluconeogenic
 goldest
 gauntleted
-gillnetting
 gonadotropic
 genearch
 gardenin
@@ -10369,6 +10368,7 @@ galactosamine
 gardenly
 gordiid
 gullery
+gillnetting
 grasshook
 gingerwort
 grike
