@@ -7520,7 +7520,6 @@ conchucu
 cepheids
 cephen
 coastings
-cephid
 cardionephric
 cephidae
 cephus
@@ -16795,6 +16794,7 @@ confusional
 calathian
 clothesbag
 clothesyard
+cephid
 codesign
 clamberer
 cirrus
