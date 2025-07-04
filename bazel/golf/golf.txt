@@ -4751,6 +4751,7 @@ garrnishable
 gizz
 grippier
 gorgoniaceous
+gumlike
 gavyuti
 gentlewomanly
 gizzard
@@ -6614,7 +6615,6 @@ guidons
 global
 glasseye
 gondoletta
-gumlike
 guffs
 gangliform
 gamboller
