@@ -1860,6 +1860,7 @@ bosch
 bandfiled
 bandh
 burdon
+belash
 brownism
 brython
 birken
@@ -5611,7 +5612,6 @@ beluchi
 burgonets
 bruscus
 brachyurus
-belash
 backsaws
 blobbed
 bombloads
