@@ -6344,7 +6344,6 @@ drawbores
 dermoblast
 dendrologist
 diaplasis
-dejectory
 dermobranchiata
 dermobranchiate
 diagrammatical
@@ -10512,6 +10511,7 @@ dow
 disobliging
 douzainier
 duenna
+dejectory
 denotate
 demibath
 diphonia
