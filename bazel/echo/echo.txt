@@ -5117,6 +5117,7 @@ epiplanktonic
 ejectives
 encrustment
 elegits
+epiural
 ember
 elaeoblast
 emforth
@@ -8162,7 +8163,6 @@ embellish
 episarkine
 eavesing
 ethnology
-epiural
 extracalicular
 epididymite
 earaches
