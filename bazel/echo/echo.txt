@@ -1057,7 +1057,6 @@ ethyls
 edentate
 edentulate
 edeodynia
-edeology
 edeomania
 enhamper
 emberizinae
@@ -7697,6 +7696,7 @@ enhungered
 extrabold
 electrophoridae
 epicoracoid
+edeology
 exocrine
 exhumations
 eventless
