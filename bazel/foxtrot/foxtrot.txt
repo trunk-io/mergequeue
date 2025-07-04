@@ -985,7 +985,6 @@ flightless
 flashing
 faerie
 farandoles
-fosterer
 flaughter
 fleecers
 flueric
@@ -9629,6 +9628,7 @@ forcipated
 facilitated
 fabula
 flagstaffs
+fosterer
 featherbone
 forte
 feteritas
