@@ -2345,7 +2345,6 @@ electroplating
 electroplates
 ellipsis
 ecumenical
-emulsifying
 egba
 episteme
 electrocolloidal
@@ -3485,6 +3484,7 @@ erraticism
 emblemist
 emblemizing
 electrootiatrics
+emulsifying
 exsiccative
 epilogized
 eproboscidea
