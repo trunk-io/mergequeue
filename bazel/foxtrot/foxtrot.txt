@@ -4923,7 +4923,6 @@ forearm
 flagellatory
 ferocities
 fisheries
-formalness
 followable
 fulgora
 flails
@@ -9698,6 +9697,7 @@ fulgorous
 fuseboard
 fowled
 flipflop
+formalness
 foretoken
 fluorite
 faldstool
