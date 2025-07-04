@@ -2969,7 +2969,6 @@ firefighters
 footstall
 fettucini
 feture
-fungiferous
 fruitlet
 froglike
 farsightedly
@@ -11047,6 +11046,7 @@ frontality
 funambuloes
 filled
 fixups
+fungiferous
 flashforwards
 fragrantness
 functionated
