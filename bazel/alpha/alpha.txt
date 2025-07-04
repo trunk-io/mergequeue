@@ -3926,7 +3926,6 @@ apologer
 adjutory
 adjutorious
 adjutrice
-adjutrix
 adlai
 ambassage
 adlet
@@ -23141,6 +23140,7 @@ atrabilarious
 apomecometry
 antimonic
 anapaganize
+adjutrix
 atticisms
 atticist
 atticize
