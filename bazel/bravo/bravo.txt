@@ -3910,6 +3910,7 @@ bd
 boracium
 buttonholes
 beteela
+biventer
 bde
 butternose
 bdellium
@@ -9986,7 +9987,6 @@ brahmic
 berbery
 barrenness
 bivector
-biventer
 bayonetting
 bulkin
 bizarrerie
