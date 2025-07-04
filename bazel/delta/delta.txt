@@ -2231,7 +2231,6 @@ dreint
 drch
 dartre
 danes
-dishelm
 deceit
 dedan
 deceitfulness
@@ -3655,6 +3654,7 @@ deglut
 dec
 disarrangement
 decubation
+dishelm
 despisement
 delinquencies
 deglutinate
