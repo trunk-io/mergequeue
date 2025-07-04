@@ -10070,7 +10070,6 @@ backfired
 bugbanes
 backwatered
 bizygomatic
-boarhound
 biznaga
 bokos
 basidiolichen
@@ -12456,6 +12455,7 @@ bells
 boukit
 bescrawl
 booklists
+boarhound
 bisymmetrically
 budlike
 boohoo
