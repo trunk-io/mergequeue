@@ -4609,7 +4609,6 @@ glibness
 guerinet
 glossitic
 guttersnipish
-griggles
 graphometer
 gowkit
 gametogony
@@ -10414,6 +10413,7 @@ gigot
 geejee
 glareworm
 glucosidal
+griggles
 graduality
 gigawatts
 gnotobiotic
