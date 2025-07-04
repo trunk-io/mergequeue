@@ -3714,6 +3714,7 @@ gherao
 giarre
 gastaldo
 grylle
+geophila
 gastroelytrotomy
 geobios
 gallantry
@@ -9344,7 +9345,6 @@ goldurn
 governability
 griffs
 gruf
-geophila
 graduate
 galleasses
 geoducks
