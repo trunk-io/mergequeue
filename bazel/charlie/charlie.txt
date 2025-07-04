@@ -9243,7 +9243,6 @@ charterism
 charterless
 chartermaster
 charters
-cryptograms
 cindered
 chartist
 chartless
@@ -31886,6 +31885,7 @@ clarifiable
 cuttlebone
 cuttlebones
 cuttled
+cryptograms
 calamitous
 cuttler
 campanilla
