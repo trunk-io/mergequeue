@@ -385,7 +385,6 @@ brewery
 brachypodous
 bovarist
 backhaul
-backhauls
 bossy
 backhoe
 backhooker
@@ -9992,6 +9991,7 @@ bulkin
 bizarrerie
 bield
 biventral
+backhauls
 barbell
 bn
 baroscopical
