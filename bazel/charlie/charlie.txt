@@ -610,7 +610,6 @@ coorg
 cephalalgy
 ctenodipterini
 caecilia
-caeciliidae
 chiropod
 citizenizing
 caecotomy
@@ -12422,6 +12421,7 @@ corseted
 christophe
 coastside
 christopher
+caeciliidae
 christos
 christward
 cresting
