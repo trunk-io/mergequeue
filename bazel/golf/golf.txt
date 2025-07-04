@@ -8163,7 +8163,6 @@ graphemically
 gris
 gasconading
 genevois
-graphemics
 graphically
 gracy
 graphicness
@@ -8721,6 +8720,7 @@ gluhwein
 grisgris
 gamene
 goaled
+graphemics
 gallate
 grubbily
 galactagoguic
