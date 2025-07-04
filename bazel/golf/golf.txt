@@ -2515,7 +2515,6 @@ gitter
 generalized
 graywall
 guv
-gabbards
 gristy
 gangliasthenia
 goosefish
@@ -7814,6 +7813,7 @@ glochis
 gour
 gardevin
 greece
+gabbards
 galvanometrical
 groom
 grammarless
