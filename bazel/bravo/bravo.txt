@@ -11672,6 +11672,7 @@ bombardmen
 belace
 bankerdom
 boatloader
+bitthead
 beigy
 boatmanship
 boatmen
@@ -14873,7 +14874,6 @@ breastbeam
 bysacki
 burut
 bungerly
-bitthead
 breaster
 breastfast
 balantidium
