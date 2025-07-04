@@ -11616,7 +11616,6 @@ besmudged
 bibulosity
 blastoffs
 boardinghouse
-boardings
 boardsmanship
 boatloads
 blonde
@@ -16146,6 +16145,7 @@ beachfront
 brotocrystal
 bromoform
 betweenwhiles
+boardings
 bezaleelian
 bithynian
 bridget
