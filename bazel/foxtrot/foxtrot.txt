@@ -2344,7 +2344,6 @@ filicales
 flotation
 foreface
 flagelliferous
-fenestrae
 foreword
 fluoresced
 fenestrated
@@ -3055,6 +3054,7 @@ favosite
 fluvanna
 fezzes
 fallway
+fenestrae
 fadings
 felucca
 frothing
