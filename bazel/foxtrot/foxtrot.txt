@@ -1587,6 +1587,7 @@ feedbox
 flippant
 faustian
 fanfaron
+fleeing
 foulish
 foreshift
 foetuses
@@ -10735,7 +10736,6 @@ flat
 felup
 fomentation
 footrope
-fleeing
 flagstaves
 fletches
 frustum
