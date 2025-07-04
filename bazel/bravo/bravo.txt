@@ -2048,6 +2048,7 @@ bankrolling
 bankrupt
 bosporan
 burl
+barreler
 bankruptism
 bankruptcy
 boltel
@@ -3782,7 +3783,6 @@ blundering
 boatsmanship
 bribeable
 blksize
-barreler
 bitterbush
 brujas
 binitarian
