@@ -7849,7 +7849,6 @@ borages
 bibbing
 befooled
 bibble
-bamboozle
 bibbler
 blooms
 bufonite
@@ -10205,6 +10204,7 @@ brachia
 bizcacha
 badawi
 brollies
+bamboozle
 boars
 beaverlike
 blackies
