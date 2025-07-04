@@ -6749,7 +6749,6 @@ expertising
 entosclerite
 elective
 eulogiser
-epulis
 espundia
 endamebiasis
 embolomerous
@@ -12276,6 +12275,7 @@ eds
 emarginating
 electromerism
 evilwishing
+epulis
 endarchy
 efflorescency
 enteromegaly
