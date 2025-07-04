@@ -4769,7 +4769,6 @@ contested
 carpeting
 carpetlayer
 carpetmaking
-clubability
 captivation
 carpetmonger
 carpets
@@ -28833,6 +28832,7 @@ crest
 confiserie
 clinostat
 congrue
+clubability
 crestal
 churchwards
 crestline
