@@ -779,7 +779,6 @@ galvanothermometer
 ggr
 groupageness
 galliformes
-ginneries
 ghrush
 gandergoose
 gamari
@@ -5620,6 +5619,7 @@ genophobia
 gondola
 grandparentage
 gyrators
+ginneries
 glomerule
 grunth
 gossipries
