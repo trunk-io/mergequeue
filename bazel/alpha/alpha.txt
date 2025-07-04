@@ -3234,6 +3234,7 @@ acupuncturist
 acus
 atresy
 acustom
+aethers
 army
 azimin
 ambassadeur
@@ -10340,7 +10341,6 @@ americanese
 aerobacteriology
 antihemoglobin
 academician
-aethers
 americanisms
 americanistic
 aftertax
