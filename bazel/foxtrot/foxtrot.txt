@@ -5011,6 +5011,7 @@ flamy
 fan
 facepiece
 floorages
+flatterer
 flamingant
 flong
 foremarch
@@ -7070,7 +7071,6 @@ frescade
 floweriest
 fanger
 foolery
-flatterer
 feedstuff
 forejudger
 felix
