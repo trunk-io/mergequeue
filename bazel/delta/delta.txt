@@ -1727,7 +1727,6 @@ deathlessness
 deathlikeness
 dundees
 dovey
-deathliness
 deathrates
 deaths
 deathsman
@@ -8505,6 +8504,7 @@ diamicton
 diamide
 diamides
 descanter
+deathliness
 deesis
 dapperest
 diaminogen
