@@ -5459,7 +5459,6 @@ autocamper
 aftercooler
 alahee
 aftercost
-aftercrop
 acanthodian
 aftercure
 affrontment
@@ -10419,6 +10418,7 @@ ametropia
 ametrous
 amhar
 afterbirths
+aftercrop
 alcade
 amharic
 amherstite
