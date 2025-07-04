@@ -6252,6 +6252,7 @@ fatlings
 felones
 formalisms
 favella
+flattie
 fargoing
 floccules
 fluvial
@@ -11239,7 +11240,6 @@ famble
 faciest
 featherwork
 funneling
-flattie
 funnels
 funny
 fundamentality
