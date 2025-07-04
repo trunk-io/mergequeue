@@ -3562,7 +3562,6 @@ adenochondrosarcoma
 adenochrome
 apts
 andric
-abnumerable
 adenocystoma
 antepectoral
 adenocystomatous
@@ -11455,6 +11454,7 @@ anisole
 amusia
 amusias
 antinatural
+abnumerable
 amusingness
 amusive
 amutter
