@@ -5220,7 +5220,6 @@ caesural
 cambism
 cravo
 cavendish
-continuando
 casheen
 casher
 catchups
@@ -24215,6 +24214,7 @@ convocative
 cryoplankton
 convocator
 cantabrize
+continuando
 catbriers
 convoyed
 convoying
