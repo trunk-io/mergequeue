@@ -7461,7 +7461,6 @@ cephalodia
 cephalodymus
 cephalodiscid
 cephalodiscida
-cephalodiscus
 curtains
 cephalodium
 conditionals
@@ -16614,6 +16613,7 @@ centripetalism
 clog
 clogdogdo
 clogged
+cephalodiscus
 cruisken
 channelization
 cucumbers
