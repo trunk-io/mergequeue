@@ -12869,7 +12869,6 @@ anglophilic
 autotype
 adenine
 anglophilism
-anglophobia
 adumbration
 anglophobiac
 antholyza
@@ -22184,6 +22183,7 @@ anaesthesia
 arteries
 astonishment
 astonishments
+anglophobia
 astoop
 abjoint
 arthropodan
