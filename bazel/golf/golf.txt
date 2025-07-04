@@ -174,7 +174,6 @@ goniometry
 gluteoperineal
 glottology
 guesting
-golfer
 goaled
 gulfing
 gabarit
@@ -6110,6 +6109,7 @@ greatly
 gnathostome
 gjetosts
 gyre
+golfer
 gammarus
 gnosis
 galenist
