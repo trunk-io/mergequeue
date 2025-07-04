@@ -11169,6 +11169,7 @@ checksums
 coappears
 chitinoid
 chitinous
+copolymers
 chitins
 chitlin
 chitling
@@ -19830,7 +19831,6 @@ capturer
 corotation
 caesiums
 chromatism
-copolymers
 combustible
 chambellan
 combustibleness
