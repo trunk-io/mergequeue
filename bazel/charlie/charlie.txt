@@ -3895,7 +3895,6 @@ chinkle
 criminalness
 centrosymmetry
 carbonisable
-carbonise
 clarets
 choirmaster
 canister
@@ -18325,6 +18324,7 @@ coffees
 counterview
 continuant
 coffeetime
+carbonise
 coffer
 corridor
 cofferdam
