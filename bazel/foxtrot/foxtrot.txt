@@ -387,7 +387,6 @@ fluids
 flowerily
 fattiness
 flusterer
-faints
 forcedness
 franklandite
 from
@@ -9413,6 +9412,7 @@ foxholes
 foreweigh
 flubbing
 fidgeter
+faints
 forbye
 fibreglass
 fondu
