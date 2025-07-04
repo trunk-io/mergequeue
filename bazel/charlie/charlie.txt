@@ -10063,7 +10063,6 @@ consumable
 cheniller
 chenopod
 colocasia
-criollo
 chiro
 chenopods
 cheoplastic
@@ -20621,6 +20620,7 @@ compere
 compered
 comblessness
 cumulous
+criollo
 compering
 compert
 cumbly
