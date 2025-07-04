@@ -1304,7 +1304,6 @@ fastbacks
 frigor
 flatdom
 faradism
-fastening
 frocked
 flyspeck
 futteret
@@ -4473,6 +4472,7 @@ frenghi
 fraiser
 flogmaster
 fledgier
+fastening
 floppiest
 fantasies
 fishman
