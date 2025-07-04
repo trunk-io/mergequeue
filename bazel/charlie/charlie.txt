@@ -904,7 +904,6 @@ cushily
 caker
 cakette
 cakewalk
-chaptalization
 cakewalked
 cakewalker
 cakewalking
@@ -5739,6 +5738,7 @@ catasterism
 catastrophal
 cryptologist
 catastrophes
+chaptalization
 cystoepiplocele
 catastrophic
 catastrophist
