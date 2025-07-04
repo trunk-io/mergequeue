@@ -13156,6 +13156,7 @@ disenvelop
 discoverability
 disperiwig
 diaphototropism
+disutility
 discardable
 dethyroidism
 decompositions
@@ -14235,7 +14236,6 @@ disuse
 disbranching
 discloak
 disuses
-disutility
 disinsection
 disutilize
 doldrum

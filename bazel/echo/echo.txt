@@ -2000,7 +2000,6 @@ educement
 epidemics
 ektenes
 expeditious
-ektexine
 elabor
 epibenthic
 episternite
@@ -7645,6 +7644,7 @@ epicycle
 epicyemate
 eeyuch
 experiments
+ektexine
 esc
 esogastritis
 excurvate
