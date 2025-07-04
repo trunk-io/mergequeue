@@ -36,6 +36,7 @@ disgeneric
 dachas
 dachshund
 dachshunds
+deprecative
 disaligning
 dacian
 dyce
@@ -5884,7 +5885,6 @@ desolations
 diachoresis
 demeaning
 disconcert
-deprecative
 dissolvable
 deprecator
 deprecatory
