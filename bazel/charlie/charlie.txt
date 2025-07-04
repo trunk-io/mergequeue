@@ -5608,7 +5608,6 @@ cycledom
 cedre
 comicoprosaic
 crushingly
-catalepsis
 catalexes
 catalexis
 catalin
@@ -7431,6 +7430,7 @@ cephalically
 cephalina
 cephaline
 cephalins
+catalepsis
 cephalism
 cephalitis
 cephalization
