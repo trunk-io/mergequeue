@@ -2450,7 +2450,6 @@ filtrable
 fingernail
 flanged
 ferigee
-flicky
 forfar
 fondlers
 fleer
@@ -8772,6 +8771,7 @@ face
 forwearied
 fitchy
 forgemen
+flicky
 faradization
 fiberglass
 floret
