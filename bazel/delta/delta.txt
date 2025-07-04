@@ -1740,7 +1740,6 @@ diverticular
 diphyllobothrium
 deathtrap
 devocalization
-downtimes
 drof
 deathward
 dikaryon
@@ -18531,6 +18530,7 @@ duridine
 ductility
 desmidiaceae
 durion
+downtimes
 durity
 diphthonged
 dekalitre
