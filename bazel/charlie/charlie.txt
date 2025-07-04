@@ -8154,7 +8154,6 @@ chaetochloa
 chaetodon
 chaetodont
 capercally
-chaetodontidae
 chaetognatha
 cityscape
 chaetophobia
@@ -20572,6 +20571,7 @@ crimes
 compeering
 corinthianesque
 chandelier
+chaetodontidae
 checkerspot
 compeers
 chromatophorous
