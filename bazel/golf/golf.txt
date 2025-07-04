@@ -5355,7 +5355,6 @@ gourdiness
 gowkedness
 groutiest
 gloaters
-galley
 gemmary
 gibbets
 gritrock
@@ -10725,6 +10724,7 @@ gussets
 gloms
 gairfish
 gobio
+galley
 gustables
 gassers
 gaddi

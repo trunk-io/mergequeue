@@ -1535,7 +1535,6 @@ flavorings
 fruiter
 fiqh
 foreshows
-fabulate
 flytes
 feods
 frawn
@@ -10250,6 +10249,7 @@ flakers
 fingian
 finickingness
 frust
+fabulate
 fgrid
 fjarding
 fishweed
