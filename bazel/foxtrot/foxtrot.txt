@@ -4791,6 +4791,7 @@ fablemongering
 forestry
 fellfare
 fertil
+ferbam
 furtherest
 foregone
 fiddleneck
@@ -7270,7 +7271,6 @@ footwarmer
 fumiferous
 frater
 footiest
-ferbam
 fenestrate
 furazan
 freesheet
