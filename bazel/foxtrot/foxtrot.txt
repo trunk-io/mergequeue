@@ -4031,7 +4031,6 @@ fulmine
 figurehead
 flanque
 feminisation
-fictionally
 fraulein
 friarling
 february
@@ -9589,6 +9588,7 @@ freeby
 freebie
 frescos
 farsi
+fictionally
 fleeciest
 freebooter
 freebootery
