@@ -15818,7 +15818,6 @@ clavicorn
 clavicornes
 clavicotomy
 clavicular
-clavicularium
 claviculate
 chrysohermidin
 chirotype
@@ -24386,6 +24385,7 @@ cattleless
 coned
 crosspiece
 coolheadedly
+clavicularium
 coolhouse
 conchyle
 coolie
