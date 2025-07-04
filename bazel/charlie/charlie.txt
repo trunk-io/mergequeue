@@ -13604,7 +13604,6 @@ caseating
 cilicism
 ciliella
 cistern
-ciliform
 climacium
 ciliiferous
 ciliiform
@@ -24493,6 +24492,7 @@ copable
 copacetic
 claquer
 creammaking
+ciliform
 copaene
 copaiba
 copaifera
