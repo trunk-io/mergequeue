@@ -7619,7 +7619,6 @@ dird
 ditch
 devastating
 dancingly
-devastation
 drafty
 disabler
 devastative
@@ -18637,6 +18636,7 @@ dutymonger
 deactivations
 deodorizer
 disalignment
+devastation
 denunciatively
 disforest
 drowsily
