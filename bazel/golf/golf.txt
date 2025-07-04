@@ -1385,7 +1385,6 @@ grecize
 gaits
 ganyie
 gallotannin
-gasified
 gearshift
 gliriformia
 gymnogene
@@ -8673,6 +8672,7 @@ grassflat
 gastrodisc
 growler
 guaranteing
+gasified
 golosh
 gnathonic
 guazuma
