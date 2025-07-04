@@ -4119,7 +4119,6 @@ balminess
 beslimer
 beards
 birthroot
-bearer
 bombazette
 bedrenched
 bras
@@ -13105,6 +13104,7 @@ boringness
 bilging
 borith
 brewings
+bearer
 bubblies
 befluster
 begirdles
