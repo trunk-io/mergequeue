@@ -6161,7 +6161,6 @@ enfacement
 enlodge
 episkotister
 estuary
-enlodgement
 enlumine
 entheos
 evelyn
@@ -12466,6 +12465,7 @@ elusoriness
 esquire
 evacuative
 enlimn
+enlodgement
 exhumatory
 emancipations
 explorate
