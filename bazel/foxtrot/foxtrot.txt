@@ -6819,6 +6819,7 @@ forethink
 foldcourse
 fanzines
 fiberless
+fanciness
 folkmoots
 foredoomed
 fleshhook
@@ -10709,7 +10710,6 @@ frumpish
 forecount
 forbore
 frumpishly
-fanciness
 foreyear
 follyer
 fructified
