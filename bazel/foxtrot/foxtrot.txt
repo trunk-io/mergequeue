@@ -1400,7 +1400,6 @@ features
 fossildom
 forpass
 fendering
-forfars
 flatlanders
 fbi
 fellani
@@ -8141,6 +8140,7 @@ flexo
 flatcaps
 faithful
 featurette
+forfars
 fuchsias
 forevers
 flectionless
