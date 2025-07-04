@@ -5266,6 +5266,7 @@ geometries
 glossopteris
 glycerin
 gamelan
+gimbaled
 gromil
 glycerite
 guardrails
@@ -6995,7 +6996,6 @@ gomart
 gigameter
 gaudish
 gooseberry
-gimbaled
 gramash
 gamete
 greenweed
