@@ -346,7 +346,6 @@ faineancy
 fayles
 furcal
 fayumic
-fricandelle
 fourhanded
 forts
 francisc
@@ -3580,6 +3579,7 @@ foreallot
 figurer
 flyweight
 fernland
+fricandelle
 figures
 feelingless
 fasciculi
