@@ -3795,7 +3795,6 @@ esthetical
 emparl
 ethnohistorical
 extolled
-expletory
 emended
 ecu
 emending
@@ -6548,6 +6547,7 @@ envisaging
 epimere
 evaluating
 erythrochroism
+expletory
 exstruct
 euphonicalness
 entocyst
