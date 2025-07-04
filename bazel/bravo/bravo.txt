@@ -1867,6 +1867,7 @@ bandhook
 balladromic
 bandicoy
 bonzes
+bullets
 befoam
 bloodier
 bandidos
@@ -10741,7 +10742,6 @@ blenk
 blennadenitis
 backsetting
 blennemesis
-bullets
 blennenteria
 box
 benzalhydrazine
