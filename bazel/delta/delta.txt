@@ -8498,7 +8498,6 @@ disclike
 diameters
 delabialized
 deciares
-demioctagonal
 diametral
 diametric
 diamicton
@@ -15515,6 +15514,7 @@ dona
 danker
 donaciform
 donack
+demioctagonal
 dilatometric
 donal
 defiance
