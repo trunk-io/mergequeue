@@ -17429,7 +17429,6 @@ afret
 apothecial
 archenemy
 apothecium
-antitrope
 arbitrement
 areologic
 applot
@@ -17473,6 +17472,7 @@ apozema
 apozymase
 awald
 appoints
+antitrope
 app
 atreptic
 appalachians
