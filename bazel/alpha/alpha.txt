@@ -3786,6 +3786,7 @@ acetabuliform
 adipinic
 autotransplant
 adipocellulose
+autoloader
 adipocere
 adipoceriform
 adipoid
@@ -24184,7 +24185,6 @@ autoinfection
 autolyzate
 autolyzes
 ambuscade
-autoloader
 autoloaders
 autology
 autological
