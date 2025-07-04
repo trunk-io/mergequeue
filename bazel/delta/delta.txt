@@ -4577,7 +4577,6 @@ diwans
 demilitarisation
 demilitarise
 demilitarised
-demilitarising
 demilitarization
 descendible
 dehydrogenase
@@ -12696,6 +12695,7 @@ discernibleness
 diskindness
 diskography
 dvandva
+demilitarising
 dextrorse
 doleful
 dodecagonal
