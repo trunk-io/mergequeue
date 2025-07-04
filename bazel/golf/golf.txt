@@ -3432,7 +3432,6 @@ gussied
 gynospore
 gestical
 gesticulant
-gesticulations
 gentiin
 gregg
 gallimaufries
@@ -6702,6 +6701,7 @@ gruine
 glenoid
 guiltlessness
 goniocraniometry
+gesticulations
 grouters
 gaveller
 goniodoridae
