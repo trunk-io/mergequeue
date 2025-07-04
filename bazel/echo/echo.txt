@@ -5402,7 +5402,6 @@ endothermal
 endothermy
 ectopatagia
 erthling
-echinocactus
 euryalean
 equisonance
 electively
@@ -11229,6 +11228,7 @@ evolvement
 exclusory
 enterers
 evalue
+echinocactus
 evanesced
 evanescence
 encephalomalacosis
