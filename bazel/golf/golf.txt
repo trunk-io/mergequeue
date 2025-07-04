@@ -3672,7 +3672,6 @@ giant
 glabellae
 griffons
 gasterothecal
-gallein
 glinse
 goonie
 graveldiver
@@ -9085,6 +9084,7 @@ gapingly
 grinch
 goldwork
 geoid
+gallein
 garotte
 gestalts
 governableness

@@ -2395,7 +2395,6 @@ canceled
 canceleer
 canceler
 cancelers
-crossbowmen
 cancellable
 cyprinidae
 cancellarius
@@ -20089,6 +20088,7 @@ chemurgies
 commensally
 campodeid
 commensals
+crossbowmen
 commensurability
 commensurable
 cajoled
