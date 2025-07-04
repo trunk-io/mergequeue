@@ -3485,6 +3485,7 @@ agisting
 adduced
 abeyances
 aragonese
+afar
 adducer
 adduces
 adducible
@@ -7790,7 +7791,6 @@ aldime
 aldimin
 accepted
 antibias
-afar
 alditol
 aldm
 academias
