@@ -855,6 +855,7 @@ caisse
 caissons
 caite
 colligance
+chisel
 caitif
 charque
 caitiffs
@@ -13633,7 +13634,6 @@ cylindrodendrite
 confederated
 cylindrograph
 compilers
-chisel
 comitiva
 cylindroid
 cylindromata
