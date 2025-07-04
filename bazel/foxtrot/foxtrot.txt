@@ -2547,7 +2547,6 @@ funs
 fernshaw
 foolhardihood
 fordo
-forehatch
 flavic
 freightage
 fawningness
@@ -3101,6 +3100,7 @@ fairyology
 firemanship
 footwears
 frostflower
+forehatch
 fissioned
 fibbery
 fibbers
