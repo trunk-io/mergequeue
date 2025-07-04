@@ -7881,7 +7881,6 @@ forereach
 forereading
 forerecited
 forereckon
-foredates
 flannelbush
 forerun
 fname
@@ -11131,6 +11130,7 @@ fruitiest
 frumple
 fingerhold
 fishback
+foredates
 flyte
 filleul
 flybrush
