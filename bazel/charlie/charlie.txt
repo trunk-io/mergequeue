@@ -4027,7 +4027,6 @@ caracter
 compartmental
 crystalloluminescence
 carcinolysin
-carcinological
 carcinoma
 carcinomas
 carbocyclic
@@ -27068,6 +27067,7 @@ celibatarian
 counterraid
 cariniform
 counterreckoning
+carcinological
 counterrefer
 congoni
 creeky

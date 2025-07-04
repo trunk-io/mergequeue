@@ -2956,6 +2956,7 @@ axtree
 aulostomi
 actiniomorpha
 antineutrality
+apothesine
 actinisms
 arginine
 actinium
@@ -17447,7 +17448,6 @@ apotheosised
 apotheosising
 apotheosize
 apotheosized
-apothesine
 apothesis
 apotype
 anteportico
