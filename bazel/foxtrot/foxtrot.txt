@@ -4741,6 +4741,7 @@ furtherer
 fluorene
 fistular
 fistlike
+fuselike
 fizgig
 fizgigs
 fice
@@ -11539,7 +11540,6 @@ fatwood
 frena
 foxfeet
 fuselages
-fuselike
 forecaddie
 fermentations
 faradiser
