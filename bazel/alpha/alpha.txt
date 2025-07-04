@@ -7569,7 +7569,6 @@ alcaid
 acrosarca
 ankylorrhinia
 antivenene
-alembicate
 atmospheric
 alcaydes
 acounter
@@ -8894,6 +8893,7 @@ allodia
 allodial
 anteroflexion
 allodiality
+alembicate
 asherim
 amphistomoid
 apiaries
