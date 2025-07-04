@@ -2466,7 +2466,6 @@ endexines
 exairesis
 electroing
 electrokinetic
-eluviate
 ecosphere
 epicanthic
 exterminative
@@ -3293,6 +3292,7 @@ endoesophagitis
 emancipated
 enshrouds
 endamages
+eluviate
 epileptic
 emancipator
 emandibulate
