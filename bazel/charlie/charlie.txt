@@ -6448,7 +6448,6 @@ cribbers
 cilantro
 cough
 cautery
-cauteries
 cauterisation
 couche
 cauterise
@@ -11524,6 +11523,7 @@ choanocyte
 choanoflagellate
 choanoflagellida
 cotta
+cauteries
 choanophorous
 cataplasm
 choanosome
