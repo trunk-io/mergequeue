@@ -3745,7 +3745,6 @@ didact
 dehydrogenate
 dawtet
 distillable
-dehydrogenated
 dehydrogenating
 dehydrogenisation
 dehydrogenized
@@ -17826,6 +17825,7 @@ depolarising
 dislodge
 dodecaphonically
 desalts
+dehydrogenated
 ductilize
 disambiguated
 ductilized
