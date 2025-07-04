@@ -2722,7 +2722,6 @@ decontrolled
 deconvolution
 dishwash
 devoured
-deconvolve
 desmon
 decopperize
 decor
@@ -8375,6 +8374,7 @@ duchies
 dialed
 disvouch
 decalobate
+deconvolve
 dyed
 dromed
 decaffeinates

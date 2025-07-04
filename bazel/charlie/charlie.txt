@@ -4064,7 +4064,6 @@ cardamom
 cicatrise
 cardamon
 cardamons
-cardamum
 cardanol
 chymist
 cardboard
@@ -22262,6 +22261,7 @@ cottonopolis
 croisad
 congenital
 congeon
+cardamum
 chapaties
 congeree
 congery
