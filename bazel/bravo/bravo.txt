@@ -13917,7 +13917,6 @@ bowshot
 bulbaceous
 bowshots
 bombarder
-backstopped
 backhauled
 billback
 burka
@@ -15681,6 +15680,7 @@ burliness
 brochant
 brochantite
 bananaquit
+backstopped
 buccinal
 broche
 brochettes
