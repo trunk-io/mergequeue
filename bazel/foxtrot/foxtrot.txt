@@ -3576,7 +3576,6 @@ falcones
 fastigiate
 forcepses
 fulgorid
-foreallot
 figurer
 flyweight
 fernland
@@ -7435,6 +7434,7 @@ firefang
 footmen
 forwarder
 filicides
+foreallot
 fileable
 fillemot
 firefall
