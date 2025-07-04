@@ -2739,7 +2739,6 @@ barolong
 bombax
 boroughship
 barometers
-barometric
 beefy
 blam
 beachside
@@ -6373,6 +6372,7 @@ bebar
 bosominess
 billsticking
 blowspray
+barometric
 bladed
 belite
 barani
