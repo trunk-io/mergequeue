@@ -616,7 +616,6 @@ bacterin
 bacteriochlorophyll
 bacteriocin
 bathylite
-bostangi
 bastiment
 bacteriodiagnosis
 bromates
@@ -1278,6 +1277,7 @@ bawdyhouses
 bogtrotter
 broderie
 balanites
+bostangi
 balanitis
 bassarid
 blowsiest
