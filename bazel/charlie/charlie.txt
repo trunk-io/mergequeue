@@ -8362,7 +8362,6 @@ chalcidicum
 chalcidiform
 caird
 chalcidoid
-conocarp
 cadalene
 chalcioecus
 chalcocite
@@ -10535,6 +10534,7 @@ chelophore
 chikee
 chiliomb
 chil
+conocarp
 complementation
 chilacayote
 cleistogamous
