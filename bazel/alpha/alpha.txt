@@ -3930,7 +3930,6 @@ adjutrix
 adlai
 ambassage
 adlet
-ameba
 adlumia
 affirm
 adlumidin
@@ -19934,6 +19933,7 @@ armlessness
 armlets
 aiguellette
 armlike
+ameba
 armload
 armlock
 armoires
