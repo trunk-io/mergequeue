@@ -1341,7 +1341,6 @@ fhrer
 filmcard
 fixage
 fancywork
-fasts
 florinda
 frigs
 festoons
@@ -7593,6 +7592,7 @@ flightworthy
 fatuity
 fermentation
 footslogs
+fasts
 flacherie
 forjudgment
 forficulate
