@@ -1579,7 +1579,6 @@ foamers
 franklinite
 fattenable
 fauntleroy
-frankability
 flagellaria
 freely
 faurd
@@ -2025,6 +2024,7 @@ feeds
 fern
 futurists
 furile
+frankability
 fulvid
 feedstock
 fibroserous

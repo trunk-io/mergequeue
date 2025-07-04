@@ -5283,7 +5283,6 @@ enchest
 emulsionize
 engrafting
 ecmnesia
-endorsable
 entopterygoid
 excerpt
 enrolles
@@ -12697,6 +12696,7 @@ elzevir
 extrapolation
 exomphalos
 effrontery
+endorsable
 elaborators
 entame
 echoisms
