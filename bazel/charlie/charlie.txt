@@ -16051,7 +16051,6 @@ clergylike
 cyclos
 clergymen
 clergion
-clergywoman
 culverfoot
 caracoled
 clerical
@@ -22482,6 +22481,7 @@ conj
 conjective
 conjecturably
 condylopoda
+clergywoman
 ciconiid
 coronetlike
 carotinaemia
