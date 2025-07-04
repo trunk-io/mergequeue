@@ -9138,7 +9138,6 @@ dailiness
 devow
 drubbed
 discernable
-depickle
 dunted
 detraction
 debility
@@ -14223,6 +14222,7 @@ disunity
 disprofess
 demobilizing
 deeds
+depickle
 delegation
 disuniting
 didrachmas
