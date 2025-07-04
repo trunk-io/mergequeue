@@ -3144,6 +3144,7 @@ cape
 chequerboard
 capeadores
 capel
+colytic
 capelan
 capelans
 capelin
@@ -12626,7 +12627,6 @@ condensate
 cornercap
 collophore
 chromospheric
-colytic
 committitur
 cadjan
 cranemen
