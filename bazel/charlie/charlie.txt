@@ -4153,7 +4153,6 @@ cardings
 cardioarterial
 cardiocarpum
 cardiocele
-chevronelly
 cardiocirrhosis
 cardioclasis
 cacuminate
@@ -12093,6 +12092,7 @@ chirality
 cognizee
 chorisis
 chlorins
+chevronelly
 chorist
 cyanuret
 characetum
