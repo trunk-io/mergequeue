@@ -10337,7 +10337,6 @@ amercing
 america
 arrayed
 americanese
-aerobacteriology
 antihemoglobin
 academician
 aethers
@@ -12191,6 +12190,7 @@ anticks
 asimen
 ancillaries
 ancylopod
+aerobacteriology
 acneiform
 acrider
 anatropous
