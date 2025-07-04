@@ -1442,7 +1442,6 @@ dawts
 damages
 disbarred
 doublehanded
-daze
 discerptibility
 dustoor
 decemfid
@@ -5825,6 +5824,7 @@ deposer
 deposers
 discouragement
 dissuade
+daze
 deposit
 diamondwork
 distome
