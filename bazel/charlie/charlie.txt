@@ -5348,7 +5348,6 @@ cassis
 crampy
 cassises
 courtling
-cassiterite
 ccws
 cassius
 cassock
@@ -12809,6 +12808,7 @@ chufas
 cinenchymatous
 ceratomania
 crinite
+cassiterite
 catakinesis
 concede
 cobaltous
