@@ -6902,7 +6902,6 @@ celloid
 colubrids
 cathodofluorescence
 celloidin
-constative
 counterbalance
 cellose
 cells
@@ -19841,6 +19840,7 @@ combustive
 combusts
 captained
 combwise
+constative
 catapulting
 centurion
 ceraunics
