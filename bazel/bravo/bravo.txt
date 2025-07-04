@@ -3012,7 +3012,6 @@ borts
 branglement
 biomasses
 burgesses
-bartizans
 becarpets
 beigel
 belee
@@ -9672,6 +9671,7 @@ bisk
 bisks
 bysmalith
 benzoate
+bartizans
 bismark
 baltimorean
 besmiles
