@@ -114,7 +114,6 @@ cabin
 cabined
 characin
 calinago
-cabinet
 cabineting
 codshead
 cabinetmaking
@@ -12614,6 +12613,7 @@ charmer
 coachmaking
 cassino
 chrysorin
+cabinet
 chromopsia
 chromoptometer
 chromoptometrical
