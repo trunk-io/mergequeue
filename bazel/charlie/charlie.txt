@@ -12860,6 +12860,7 @@ chummage
 chummed
 congelifract
 crepidoma
+countercolored
 chummery
 chummier
 chummies
@@ -26753,7 +26754,6 @@ counterclaiming
 cirriform
 counterclaims
 counterclassifications
-countercolored
 cliff
 countercompany
 countercompetition
