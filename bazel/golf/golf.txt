@@ -613,6 +613,7 @@ gravities
 glossopalatine
 grieben
 galliots
+gibberose
 goulashes
 gurnets
 gramaries
@@ -9995,7 +9996,6 @@ gaslike
 gasworks
 gateau
 gudame
-gibberose
 gone
 gentlemanship
 geomys
