@@ -913,7 +913,6 @@ bagsful
 bequirtle
 bulgar
 bijugular
-bazookaman
 bassalian
 bravely
 bidarkas
@@ -2696,6 +2695,7 @@ betweenbrain
 beelzebub
 barneys
 bourr
+bazookaman
 britannian
 bestayed
 barnhardtite
