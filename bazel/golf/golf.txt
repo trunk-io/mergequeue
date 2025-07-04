@@ -4906,6 +4906,7 @@ gurjun
 geomaly
 gangway
 garment
+gelfomino
 guvacoline
 grapefruits
 gypsite
@@ -6223,7 +6224,6 @@ gaum
 goatweed
 guerrillaism
 genitures
-gelfomino
 genethliatic
 goave
 greats
