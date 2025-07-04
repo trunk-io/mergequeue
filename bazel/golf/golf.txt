@@ -2479,7 +2479,6 @@ griever
 gained
 grooveless
 gigmania
-generable
 generalise
 gynandrous
 graciously
@@ -7324,6 +7323,7 @@ glochidial
 gossips
 gestor
 gilthead
+generable
 glyptograph
 gallach
 gynostemia
