@@ -1956,7 +1956,6 @@ beworms
 banding
 bacteriophage
 bandwidth
-bagginess
 bandworm
 boogiewoogie
 baylet
@@ -5518,6 +5517,7 @@ bowieful
 brechites
 briefly
 boort
+bagginess
 batukite
 bringdown
 babbled
