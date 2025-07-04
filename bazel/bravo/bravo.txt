@@ -2913,7 +2913,6 @@ benefactor
 bushers
 barreling
 bibaciousness
-backbiting
 blanco
 beslab
 bited
@@ -5587,6 +5586,7 @@ bedframe
 basilican
 bewreak
 bekiss
+backbiting
 bekissed
 bekisses
 bekko
