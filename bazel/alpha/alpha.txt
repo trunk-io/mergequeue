@@ -10865,6 +10865,7 @@ ammos
 ammotherapy
 ammu
 antipepsin
+anorth
 ammunition
 amnesia
 amnesiac
@@ -13797,7 +13798,6 @@ anorn
 anorogenic
 anthropologies
 airthing
-anorth
 arethusa
 atacamite
 anorthite
