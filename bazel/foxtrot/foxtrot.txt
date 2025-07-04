@@ -5561,7 +5561,6 @@ forestays
 favellae
 fissiparism
 flexion
-flexitime
 ferdiad
 folliculate
 flexography
@@ -9059,6 +9058,7 @@ flashbacks
 faineantism
 fix
 foreparents
+flexitime
 fleetwing
 ferison
 frap
