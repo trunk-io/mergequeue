@@ -12249,6 +12249,7 @@ bemud
 bainite
 bolstered
 bolsterer
+barbas
 battologised
 boardwalk
 brake
@@ -16736,7 +16737,6 @@ barbarizing
 bonhomously
 buddhaship
 bandar
-barbas
 buddhist
 buddhistic
 beheadlined
