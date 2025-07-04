@@ -6915,7 +6915,6 @@ geromorphism
 grayfly
 geometrised
 gradients
-geostatics
 goodwife
 gravigrada
 grecians
@@ -7366,6 +7365,7 @@ geylies
 gotra
 germarium
 gravecloth
+geostatics
 gudgeoned
 gaudery
 gruffiest
