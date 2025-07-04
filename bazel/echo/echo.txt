@@ -4301,7 +4301,6 @@ exclaustration
 enamelist
 enamelless
 eluder
-enamels
 emit
 edibles
 enami
@@ -5555,6 +5554,7 @@ episcopant
 enfeoffment
 exestuate
 enfettering
+enamels
 enophthalmos
 expandability
 episcopality
