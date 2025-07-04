@@ -1094,7 +1094,6 @@ bastiles
 bairn
 brevetted
 bransolder
-bromius
 barless
 baseless
 bloodnoun
@@ -13023,6 +13022,7 @@ bacilliculture
 bagattini
 borboridae
 borborygmatic
+bromius
 biggin
 borborygmus
 bettongia
