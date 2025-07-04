@@ -1184,7 +1184,6 @@ burion
 beanfest
 baked
 bibliothetic
-bakelite
 bakemeats
 bloop
 bakeoven
@@ -5426,6 +5425,7 @@ bigmitt
 behallow
 betwit
 behammer
+bakelite
 bacula
 beshine
 breads
