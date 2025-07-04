@@ -12134,6 +12134,7 @@ ancestors
 ancestral
 ancestrally
 ancestry
+antimasque
 autocue
 ancestrian
 allodge
@@ -15420,7 +15421,6 @@ asslike
 antimason
 accordances
 antimasonry
-antimasque
 antimasquer
 afterstrain
 antimaterialist
