@@ -7855,7 +7855,6 @@ caryatidic
 cfi
 certifiability
 categorematic
-certifiable
 certificate
 certificated
 certificates
@@ -24338,6 +24337,7 @@ corncutting
 coarrange
 cookeite
 courtezan
+certifiable
 cooker
 cookeries
 cookhouse
