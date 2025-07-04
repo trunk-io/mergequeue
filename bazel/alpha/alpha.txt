@@ -4250,7 +4250,6 @@ adrenochrome
 adrenocortical
 adrenocorticotrophic
 ammonolysis
-afterstain
 anaspida
 albuminosis
 adrenocorticotropic
@@ -8563,6 +8562,7 @@ alkylidene
 afterburners
 alkylize
 aphidiinae
+afterstain
 aborts
 alkyls
 aphthae
