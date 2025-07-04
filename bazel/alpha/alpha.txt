@@ -10755,7 +10755,6 @@ amlacra
 amlet
 amlikar
 amlong
-ammelide
 apothecary
 ammer
 avidness
@@ -22083,6 +22082,7 @@ annalist
 ampongue
 ancestries
 antistat
+ammelide
 anthracosilicosis
 asthamatic
 astheny
