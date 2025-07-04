@@ -5270,7 +5270,6 @@ casks
 caspar
 castings
 casparian
-caspian
 casque
 casqued
 cushat
@@ -6722,6 +6721,7 @@ cosheath
 chromule
 cedrat
 conglution
+caspian
 cedrate
 cedrela
 cocamine
