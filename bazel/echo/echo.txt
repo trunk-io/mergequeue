@@ -1143,7 +1143,6 @@ elatrometer
 electrotypes
 epicaridea
 euomphalus
-edith
 epitrichial
 exsanguinated
 encatarrhaphy
@@ -9151,6 +9150,7 @@ erythroneocytosis
 expulse
 endoscopic
 exponential
+edith
 equipollent
 entothorax
 epicolic
