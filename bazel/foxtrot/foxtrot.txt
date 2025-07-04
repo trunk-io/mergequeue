@@ -11141,6 +11141,7 @@ ferulae
 featurally
 flowerbed
 foresettle
+fatlike
 flintwork
 forefather
 funereally
@@ -11643,7 +11644,6 @@ friendship
 forwake
 fetlow
 fustiness
-fatlike
 fustoc
 fussily
 friscal
