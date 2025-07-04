@@ -3908,7 +3908,6 @@ bchs
 ballotage
 bd
 boracium
-buttonholes
 beteela
 bde
 butternose
@@ -7745,6 +7744,7 @@ bespangles
 britten
 bathyscaphe
 buxerry
+buttonholes
 bhikshu
 brakehand
 bullan
