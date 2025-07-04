@@ -3991,7 +3991,6 @@ fissiparity
 fraple
 ferrocyanogen
 falsehearted
-furrowed
 fireboxes
 fluoresces
 flemish
@@ -7719,6 +7718,7 @@ flyeater
 flaglike
 fiancee
 foreknew
+furrowed
 fiord
 florian
 freeish
