@@ -2042,7 +2042,6 @@ brasserie
 bedeguar
 blobbing
 buffoonesque
-bicollaterality
 bankrolled
 bankrolling
 bankrupt
@@ -6775,6 +6774,7 @@ bylander
 baikerinite
 berime
 basifies
+bicollaterality
 benetting
 beroidae
 betimes
