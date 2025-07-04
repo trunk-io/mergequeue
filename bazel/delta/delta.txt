@@ -518,7 +518,6 @@ denomination
 dermaskeleton
 dama
 damageability
-disodic
 damageably
 detonatable
 damaged
@@ -15386,6 +15385,7 @@ diastimeter
 displeasureable
 doomful
 descendability
+disodic
 domba
 daimioate
 dombeya
