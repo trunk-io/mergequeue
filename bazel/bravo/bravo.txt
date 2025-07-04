@@ -9149,6 +9149,7 @@ budzart
 bodysuit
 biosome
 biospeleology
+bibio
 biosphere
 breakdown
 bionomical
@@ -11405,7 +11406,6 @@ bluebottle
 bluebreast
 build
 bibbed
-bibio
 bluecoated
 becquerelite
 borable
