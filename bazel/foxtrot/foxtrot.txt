@@ -5156,7 +5156,6 @@ fregit
 freeway
 farmhousey
 flashings
-fulgently
 flashlight
 frizzly
 foreadvise
@@ -7364,6 +7363,7 @@ faeces
 fat
 forbborne
 freshen
+fulgently
 fishyback
 forby
 foreparent
