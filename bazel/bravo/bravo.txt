@@ -7521,7 +7521,6 @@ belayer
 beveller
 bookbinder
 bardelle
-biathlon
 bedgery
 bevenom
 bever
@@ -10753,6 +10752,7 @@ bogijiab
 birthplace
 brachistocephali
 boney
+biathlon
 bathycolpian
 byssus
 beaverboard
