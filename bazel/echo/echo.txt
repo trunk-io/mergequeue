@@ -6458,7 +6458,6 @@ expediment
 ensiling
 ensilist
 exceptions
-ensilver
 existentially
 ensisternum
 equilibrating
@@ -9128,6 +9127,7 @@ electrotherapeutics
 entergogenic
 extrality
 extravascular
+ensilver
 ellipsometer
 erythrocytoschisis
 erythrocytosis
