@@ -1336,7 +1336,6 @@ argentojarosite
 amnesias
 affiliated
 atom
-aiolis
 annihilator
 accelerate
 anilide
@@ -6738,6 +6737,7 @@ autositic
 airbusses
 aircheck
 aircraft
+aiolis
 aircraftman
 atenist
 aquas
