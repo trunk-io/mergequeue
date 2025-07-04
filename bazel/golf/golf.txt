@@ -9053,6 +9053,7 @@ grimalkin
 genitive
 gentianwort
 gynic
+gateway
 ghast
 grimme
 gipsyhood
@@ -9701,7 +9702,6 @@ geminal
 grugous
 gasoliery
 gruyere
-gateway
 gallocyanine
 gasterosteidae
 glutinant
