@@ -1850,6 +1850,7 @@ edematose
 eightpenny
 euler
 ecchymose
+elaeis
 epidiorite
 encystments
 errabund
@@ -4396,7 +4397,6 @@ enfacing
 ensigncies
 endosmometric
 eubacteria
-elaeis
 everest
 eches
 ebriously
