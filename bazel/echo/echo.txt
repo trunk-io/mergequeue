@@ -1795,7 +1795,6 @@ entericoid
 epigraphical
 engravers
 embankments
-encompasser
 enable
 estimates
 entresse
@@ -4148,6 +4147,7 @@ emporiums
 epilemmal
 ethynyls
 emporte
+encompasser
 esrog
 ecstasy
 exegeses
