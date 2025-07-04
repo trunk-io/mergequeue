@@ -1762,7 +1762,6 @@ curagh
 calvarial
 calvaries
 calvarium
-calved
 calvin
 cithern
 commutators
@@ -19611,6 +19610,7 @@ colubrinae
 colubrine
 clarsach
 colubroid
+calved
 choanocytal
 colugo
 canaliculi
