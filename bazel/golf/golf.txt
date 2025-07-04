@@ -5718,7 +5718,6 @@ gyrolite
 gurus
 geologize
 gingham
-goldsmithery
 glockenspiel
 glossohyal
 gaultherase
@@ -7766,6 +7765,7 @@ gangplank
 graisse
 gerately
 grossirete
+goldsmithery
 gook
 glead
 gateado
