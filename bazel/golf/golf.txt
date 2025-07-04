@@ -8089,6 +8089,7 @@ granulators
 gripper
 gynaecocracy
 guanidins
+group
 gabblers
 gnatsnap
 goatling
@@ -9486,7 +9487,6 @@ guelphish
 galvanothermy
 grundlov
 graceful
-group
 gland
 germanophobist
 gammoner
