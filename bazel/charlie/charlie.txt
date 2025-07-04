@@ -13413,7 +13413,6 @@ chirred
 colob
 chrysophyll
 cycloolefine
-cycloolefinic
 cyclop
 cyclopaedia
 cyclopaedias
@@ -17217,6 +17216,7 @@ coadjuvate
 coadminister
 coadministration
 civic
+cycloolefinic
 combite
 coadministratrix
 coadmiration
