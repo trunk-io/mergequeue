@@ -10664,7 +10664,6 @@ bandspreading
 bunion
 bernese
 bishopscap
-bleaky
 buist
 bleakness
 bleaks
@@ -16730,6 +16729,7 @@ bewhistle
 babis
 bullyingly
 blackstick
+bleaky
 berlins
 buddage
 barbarizing
