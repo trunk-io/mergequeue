@@ -4675,7 +4675,6 @@ askile
 aegrotat
 acroterion
 abush
-aetheling
 antedawn
 aeluroid
 aeluroidea
@@ -16997,6 +16996,7 @@ amoinder
 ascidicolous
 alphabetization
 aplotaxene
+aetheling
 aliened
 americanizer
 apneumona
