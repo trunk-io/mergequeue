@@ -2560,7 +2560,6 @@ declensions
 decretist
 declimatize
 declinational
-decasualization
 dipneumones
 dimmed
 declinations
@@ -6352,6 +6351,7 @@ dermogastric
 dermohemia
 dean
 dermoidal
+decasualization
 dermoidectomy
 desexed
 dgag
