@@ -3998,7 +3998,6 @@ empicture
 emendatory
 episporium
 ergotization
-enteroptosis
 equilibristic
 empyemata
 embittered
@@ -6122,6 +6121,7 @@ eltime
 eulachon
 elasmosaur
 ebullience
+enteroptosis
 evanesce
 epifauna
 epirrhema
