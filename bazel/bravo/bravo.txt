@@ -3444,7 +3444,6 @@ badgerly
 bastions
 barabbas
 boughpot
-bef
 bastite
 brushfire
 brigade
@@ -16878,6 +16877,7 @@ beduck
 bugbearish
 burdened
 bugdom
+bef
 barretry
 brassbound
 bugeyes
