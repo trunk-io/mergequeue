@@ -9339,7 +9339,6 @@ buttle
 besugo
 birchers
 bewater
-barman
 backarrow
 birchwood
 bindweb
@@ -15094,6 +15093,7 @@ baldicoot
 bronchotyphoid
 brickliner
 benting
+barman
 brewership
 brewhouse
 brewhouses
