@@ -4977,6 +4977,7 @@ drabbletail
 demote
 demoted
 demotes
+disjointed
 disomus
 demotions
 deraign
@@ -7036,7 +7037,6 @@ dissentiate
 destress
 dorje
 degrees
-disjointed
 despumation
 doegling
 dealing
