@@ -2738,7 +2738,6 @@ foreimpression
 fireshaft
 feruled
 furlana
-ferulic
 fissipedate
 frogeater
 foundational
@@ -6305,6 +6304,7 @@ fluidized
 ferroconcrete
 firers
 flared
+ferulic
 fluidmeter
 fakirism
 forceful

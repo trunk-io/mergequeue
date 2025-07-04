@@ -9618,6 +9618,7 @@ dignifying
 drachm
 departisanize
 deglazes
+disburser
 dignitary
 dignitarian
 demophoon
@@ -17889,7 +17890,6 @@ duellist
 debromination
 duello
 disgrace
-disburser
 deterministically
 durance
 donate
