@@ -1112,7 +1112,6 @@ barkstone
 betrayals
 bedimmed
 boatload
-brindled
 bluethroat
 brewmaster
 breakwind
@@ -11496,6 +11495,7 @@ botryllidae
 bluffest
 balladmonger
 bluffing
+brindled
 barish
 baba
 banyoro
