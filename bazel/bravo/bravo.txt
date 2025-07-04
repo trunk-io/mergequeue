@@ -4590,7 +4590,6 @@ bedazzlingly
 baptise
 bedbugs
 bedtick
-bedchair
 bedchairs
 bellowing
 buntal
@@ -11937,6 +11936,7 @@ bogach
 becrush
 bushelwoman
 barographs
+bedchair
 betutor
 bimeby
 bourns
