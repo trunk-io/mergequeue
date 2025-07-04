@@ -678,6 +678,7 @@ cafetorium
 caffeic
 caffeina
 caffeines
+capsule
 cobblerless
 compensable
 caffeinic
@@ -4593,7 +4594,6 @@ citoler
 carnets
 carny
 coccostean
-capsule
 cotoxo
 couscouses
 clapperdudgeon
