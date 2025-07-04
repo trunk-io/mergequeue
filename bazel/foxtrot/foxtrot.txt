@@ -4909,6 +4909,7 @@ fwd
 flagstick
 flagworm
 fandangle
+frumpier
 fluidifying
 feramorz
 flaying
@@ -9018,7 +9019,6 @@ fragile
 fewsome
 frotting
 frightment
-frumpier
 fregatidae
 fooder
 fustee
