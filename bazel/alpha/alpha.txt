@@ -5168,6 +5168,7 @@ arbutinase
 affectional
 affectionally
 acreages
+allergenicity
 affectionateness
 affectioned
 affections
@@ -8729,7 +8730,6 @@ anapterygote
 aller
 allergenic
 abouchement
-allergenicity
 arrhythmous
 atheology
 ankylotome
