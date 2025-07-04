@@ -13036,7 +13036,6 @@ blancard
 bolder
 blackberry
 bucking
-bordering
 bolster
 blousing
 borders
@@ -15410,6 +15409,7 @@ boundary
 bilboes
 breaststroker
 breadberry
+bordering
 babyish
 brannerite
 bereaved
