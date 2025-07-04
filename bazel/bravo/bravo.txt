@@ -6812,7 +6812,6 @@ bellmaker
 bin
 berserks
 barnumize
-berskin
 balize
 berhyme
 banjore
@@ -15105,6 +15104,7 @@ brewises
 bocks
 bellpulls
 bristlier
+berskin
 brusk
 brewsterite
 bryaceae
