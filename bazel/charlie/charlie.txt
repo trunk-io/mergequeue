@@ -5192,6 +5192,7 @@ casemaker
 caprylene
 cackle
 casemaking
+caducity
 casemates
 casemented
 casements
@@ -5679,7 +5680,6 @@ catamount
 catan
 catanadromous
 catapasm
-caducity
 comprizable
 cataphyll
 correlativism
