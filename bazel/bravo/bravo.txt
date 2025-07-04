@@ -6797,7 +6797,6 @@ busulfan
 berrichonne
 bosquet
 berrier
-berries
 beaut
 buhls
 barytosulphate
@@ -17381,6 +17380,7 @@ beignets
 bejeled
 bunglers
 bungling
+berries
 bullit
 bungos
 boyla
