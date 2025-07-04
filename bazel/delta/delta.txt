@@ -1177,7 +1177,6 @@ dunts
 dillydallying
 datagram
 datagrams
-doormat
 demibrassart
 datana
 dulciloquy
@@ -3290,6 +3289,7 @@ deterging
 defibrillative
 dragoons
 disfavored
+doormat
 defibrillatory
 defibrinate
 dropax
