@@ -241,6 +241,7 @@ bach
 bibliograph
 bacharach
 betonica
+bulky
 bastinadoed
 bactrites
 betrothed
@@ -17022,7 +17023,6 @@ boldfaces
 burt
 bulkhead
 bulkheading
-bulky
 bubastite
 bulkier
 bulkily
