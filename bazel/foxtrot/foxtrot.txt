@@ -356,7 +356,6 @@ flenser
 failingness
 fancifully
 facultative
-failure
 foresound
 floss
 frogleg
@@ -1416,6 +1415,7 @@ fonly
 firestop
 fluctuations
 filmography
+failure
 forwardation
 fatiferous
 flavorfully
