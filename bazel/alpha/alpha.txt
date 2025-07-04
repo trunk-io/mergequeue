@@ -16733,7 +16733,6 @@ aphasia
 atees
 arrestee
 aphasiacs
-aphasics
 azox
 ambience
 anabaptized
@@ -23910,6 +23909,7 @@ aeolotropic
 autoasphyxiation
 algicides
 aphacial
+aphasics
 autoassimilation
 autobahn
 anisopleurous
