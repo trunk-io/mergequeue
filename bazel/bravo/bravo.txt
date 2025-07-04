@@ -12288,7 +12288,6 @@ baptised
 backwardly
 boltwork
 bolus
-bomb
 barratrous
 bombable
 bombacaceae
@@ -13249,6 +13248,7 @@ bosset
 barebacked
 bonducnut
 bedstaff
+bomb
 bokard
 brune
 bossily
