@@ -16797,7 +16797,6 @@ clothesbag
 clothesyard
 codesign
 clamberer
-cirrus
 clothesline
 clotheslines
 clothesman
@@ -17236,6 +17235,7 @@ caddisfly
 creek
 coaters
 crescograph
+cirrus
 chummer
 comminutor
 crankles
