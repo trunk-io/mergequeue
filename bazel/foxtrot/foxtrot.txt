@@ -3646,7 +3646,6 @@ florigraphy
 forspoken
 fussle
 fairbanks
-fourniture
 filers
 fructification
 felinity
@@ -8476,6 +8475,7 @@ formularizing
 frontierman
 fumado
 felling
+fourniture
 feta
 figment
 forked
