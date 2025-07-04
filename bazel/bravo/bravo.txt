@@ -2554,6 +2554,7 @@ barylalia
 bactrian
 backtalk
 barile
+baculi
 barilla
 bleeder
 blackie
@@ -12318,7 +12319,6 @@ buglers
 bandurrias
 brunion
 bezzi
-baculi
 biophor
 beldame
 boterol

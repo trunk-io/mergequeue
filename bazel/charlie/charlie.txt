@@ -11146,7 +11146,6 @@ chiseller
 chiselly
 chisellike
 chiselling
-coevolvedcoevolves
 chiselmouth
 chisels
 chisled
@@ -25944,6 +25943,7 @@ ceintures
 corticotrophin
 cloths
 corticous
+coevolvedcoevolves
 cortile
 coercion
 cortin
