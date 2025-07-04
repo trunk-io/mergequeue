@@ -3535,7 +3535,6 @@ gaelicize
 galany
 gallinaceous
 guttiform
-gananciales
 gantries
 gruesomest
 glovers
@@ -6876,6 +6875,7 @@ geomalism
 glowers
 genealogic
 geographer
+gananciales
 geneserine
 gangliglia
 gulosity
