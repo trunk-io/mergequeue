@@ -2672,6 +2672,7 @@ genitor
 gauntry
 gripeful
 gorlois
+galimatias
 geniture
 grenades
 gasan
@@ -8209,7 +8210,6 @@ grainery
 glimpser
 gyropigeon
 grammarians
-galimatias
 gimp
 grippingness
 giardiasis
