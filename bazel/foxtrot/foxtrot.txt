@@ -3395,7 +3395,6 @@ flexility
 fencings
 fidejussor
 furfur
-fidelio
 featheredge
 forchase
 fameworthy
@@ -9082,6 +9081,7 @@ foederis
 falsettos
 folksinger
 feedbag
+fidelio
 fizzled
 frolicsomeness
 flavors
