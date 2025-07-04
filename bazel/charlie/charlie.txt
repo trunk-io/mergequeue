@@ -9950,6 +9950,7 @@ chemiotaxis
 chemiotropic
 chemiotropism
 chemise
+covalences
 crinet
 chemisette
 chemism
@@ -27470,7 +27471,6 @@ coaeval
 cuprous
 couxia
 chronicity
-covalences
 covalency
 carpoptosis
 coriander
