@@ -5319,6 +5319,7 @@ equivocalities
 egeran
 endoscopies
 endosymbiosis
+extrachromosomal
 epipodia
 endoskeletons
 endosmic
@@ -14146,7 +14147,6 @@ entrails
 extrudes
 epitaphic
 evensongs
-extrachromosomal
 expromission
 ecoles
 enigmatology
