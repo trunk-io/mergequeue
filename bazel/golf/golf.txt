@@ -5474,7 +5474,6 @@ glistened
 grande
 ganoids
 gimmer
-germantown
 gobbed
 goods
 gentlemen
@@ -9278,6 +9277,7 @@ granitoid
 groenendael
 gallstone
 graduale
+germantown
 greenland
 groenlandicus
 glucuronic
