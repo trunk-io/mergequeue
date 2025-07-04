@@ -7030,7 +7030,6 @@ besmouch
 bacteritic
 besmudge
 blindling
-beamless
 bronzite
 besmudges
 baalist
@@ -12075,6 +12074,7 @@ brangling
 boistous
 boistously
 boistousness
+beamless
 backplate
 brinkmanship
 brunellia
