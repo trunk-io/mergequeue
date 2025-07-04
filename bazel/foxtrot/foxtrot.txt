@@ -31,7 +31,6 @@ fieldmen
 fibrolitic
 fibrocyst
 fabricates
-fabricator
 formularize
 flintless
 flintworker
@@ -450,6 +449,7 @@ fairway
 fulminate
 faultfinders
 fragilariaceae
+fabricator
 fieldbird
 forebitt
 fays
