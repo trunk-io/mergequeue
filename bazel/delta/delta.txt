@@ -2104,6 +2104,7 @@ digraph
 dihydrol
 duograph
 decamethonium
+depraver
 decametric
 decan
 decanal
@@ -5867,7 +5868,6 @@ depravedness
 doxologizing
 dreidel
 dimagnesic
-depraver
 dragonfly
 dewaxing
 deadtongue
