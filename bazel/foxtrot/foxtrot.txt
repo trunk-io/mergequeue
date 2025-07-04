@@ -2958,7 +2958,6 @@ frisettes
 formicarium
 fuzz
 frabjously
-formats
 foaled
 fractioning
 fettlings
@@ -3754,6 +3753,7 @@ franchisal
 flannelboard
 fairstead
 folder
+formats
 favourably
 fillable
 frownless
