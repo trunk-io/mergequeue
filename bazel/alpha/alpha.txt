@@ -3093,6 +3093,7 @@ amplidyne
 aequipalpia
 arthropody
 actinostome
+affreightment
 aramus
 agtbasic
 abrachias
@@ -5313,7 +5314,6 @@ affrayers
 affraying
 affrays
 affranchise
-affreightment
 adiadokokinesi
 affret
 agnosticism
