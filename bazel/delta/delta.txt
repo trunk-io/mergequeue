@@ -1321,7 +1321,6 @@ dipentine
 demissive
 dwarfing
 dunno
-draftsperson
 dompt
 dauntingly
 damagement
@@ -3345,6 +3344,7 @@ definitions
 definitise
 dekastere
 dormant
+draftsperson
 dilatant
 depurge
 deliriate
