@@ -519,7 +519,6 @@ foretokens
 forcleave
 fakery
 flaxweed
-ferity
 foreconsider
 funbre
 friz
@@ -5662,6 +5661,7 @@ felicitations
 florist
 fellowshiped
 frumpiest
+ferity
 fianchetto
 fie
 fud
