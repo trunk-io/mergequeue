@@ -1150,7 +1150,6 @@ derivate
 decrementing
 dasyuridae
 dasyurine
-dactylopatagium
 dasyuroid
 dassent
 deadheads
@@ -7070,6 +7069,7 @@ dexterical
 destigmatization
 destigmatizing
 destination
+dactylopatagium
 dunelands
 deliliria
 destines
