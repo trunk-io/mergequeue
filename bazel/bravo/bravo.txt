@@ -5430,6 +5430,7 @@ bacula
 beshine
 breads
 behap
+booting
 boarstaff
 bigarreau
 behaved
@@ -6497,7 +6498,6 @@ bepen
 backdown
 bepepper
 ballat
-booting
 bephilter
 booley
 bronchopneumonic
