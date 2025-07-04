@@ -6315,6 +6315,7 @@ giglio
 genarchaship
 graplines
 gamic
+geostatic
 greentail
 gonake
 goes
@@ -6629,7 +6630,6 @@ gonidangium
 graver
 gonepoiesis
 gash
-geostatic
 grandioso
 gustoish
 genocides
