@@ -879,7 +879,6 @@ encorbelment
 embound
 emraud
 englobement
-engore
 eddic
 entourages
 ejective
@@ -11230,6 +11229,7 @@ exclusory
 enterers
 evalue
 evanesced
+engore
 evanescence
 encephalomalacosis
 epiphytes
