@@ -22810,6 +22810,7 @@ caffeine
 cotyledonoid
 chelonid
 caulicles
+curableness
 congiaries
 consentable
 consentaneity
@@ -31223,7 +31224,6 @@ cura
 curability
 correctness
 curable
-curableness
 cotyloidal
 coverlid
 curacaos

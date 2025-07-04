@@ -8045,7 +8045,6 @@ gulch
 gastrochaenidae
 guacharo
 grantia
-greekist
 grassplat
 gallet
 graustark
@@ -10025,6 +10024,7 @@ gazebos
 gammation
 grandevous
 gargoyles
+greekist
 greasing
 granitoidal
 gentianaceae
