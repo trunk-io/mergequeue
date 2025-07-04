@@ -1039,7 +1039,6 @@ bailieries
 botargos
 bailieship
 bailiff
-biogeographic
 bailiffs
 bailing
 busway
@@ -16365,6 +16364,7 @@ bedazzling
 bouffes
 bruno
 bryanthus
+biogeographic
 boroughs
 barmiest
 bufonidae
