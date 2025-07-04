@@ -5505,7 +5505,6 @@ fluxmeter
 fossed
 fretwork
 forbarred
-fratching
 fleshhood
 foraged
 fleshy
@@ -9934,6 +9933,7 @@ fevercup
 fenestrone
 fortressing
 fleawood
+fratching
 formalin
 formalizes
 foretells
