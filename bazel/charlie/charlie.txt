@@ -17101,6 +17101,7 @@ clutterment
 cm
 coinclude
 cmd
+cocotte
 catalecta
 cml
 cofferdams
@@ -17829,7 +17830,6 @@ cocoons
 cocopan
 cocoroot
 choup
-cocotte
 cocottes
 cocobolo
 condemnate
