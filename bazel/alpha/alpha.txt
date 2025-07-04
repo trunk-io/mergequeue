@@ -5473,6 +5473,7 @@ afterdeal
 afterdeck
 adipomata
 aftereffect
+antalgol
 afterfame
 afterform
 actuarial
@@ -13933,7 +13934,6 @@ acridest
 anolian
 antalgesic
 antalgics
-antalgol
 abmodality
 antalkalies
 acraspeda
