@@ -8758,7 +8758,6 @@ elastometry
 enhallow
 electroencephalograph
 equisided
-equisignal
 erethitic
 epigaeous
 extradicting
@@ -11871,6 +11870,7 @@ excave
 eructated
 elutes
 exceeded
+equisignal
 excelente
 eucre
 econometric
