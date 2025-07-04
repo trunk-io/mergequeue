@@ -4639,6 +4639,7 @@ enajim
 ermelin
 eminence
 enhydrite
+electropositive
 extratensive
 erythroxyline
 erethic
@@ -10452,7 +10453,6 @@ embrase
 exhance
 earwigging
 epiphanize
-electropositive
 exodromic
 exchanged
 ethoxide
