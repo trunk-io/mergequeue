@@ -6285,7 +6285,6 @@ gastronomist
 gymnorhininae
 goblin
 gettable
-gullible
 gunmen
 gargantua
 gauster
@@ -8623,6 +8622,7 @@ gonocalycine
 grebe
 glycohaemia
 graminifolious
+gullible
 granter
 gph
 grapy
