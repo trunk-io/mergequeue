@@ -7943,7 +7943,6 @@ epeirid
 exquisitive
 experimentation
 epileny
-endopeptidase
 enkindled
 extensible
 exotospore
@@ -12280,6 +12279,7 @@ endarchy
 efflorescency
 enteromegaly
 els
+endopeptidase
 elegises
 everduring
 exemplarism
