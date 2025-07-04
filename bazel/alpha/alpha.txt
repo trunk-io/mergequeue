@@ -9482,6 +9482,7 @@ alternate
 alternated
 aftertaste
 alternately
+autoplast
 apheretic
 achier
 assaugement
@@ -24293,7 +24294,6 @@ anticoagulan
 autophotoelectric
 autopilot
 autoplagiarism
-autoplast
 agnomen
 acetonate
 autopoint
