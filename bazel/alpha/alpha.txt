@@ -4515,7 +4515,6 @@ amulets
 assuagable
 allobars
 aromatizer
-advertizes
 advice
 advices
 advisableness
@@ -15099,6 +15098,7 @@ administrator
 atrocious
 advential
 apastra
+advertizes
 antherine
 antiecclesiasticism
 athena
