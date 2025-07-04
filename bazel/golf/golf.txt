@@ -331,7 +331,6 @@ guarantee
 galactolipide
 graveship
 galactometer
-gastritis
 gaussian
 grilses
 gleen
@@ -10052,6 +10051,7 @@ grabens
 goblinize
 gumshoed
 gonomere
+gastritis
 gorgerin
 gigabits
 guerrillas
