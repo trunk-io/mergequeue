@@ -1340,7 +1340,6 @@ botrylle
 backdrops
 borderlands
 balbusard
-burlap
 bluenose
 brayed
 butterbump
@@ -8108,6 +8107,7 @@ bicultural
 broodiness
 biometrics
 bridecup
+burlap
 bellypinch
 buscarle
 breathing
