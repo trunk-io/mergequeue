@@ -2302,6 +2302,7 @@ arecuna
 aul
 acids
 amenity
+angiospermous
 acidulant
 acidulate
 acidulated
@@ -22452,7 +22453,6 @@ ataraxia
 ataraxics
 affectlessness
 atatschite
-angiospermous
 ataunt
 ataunto
 antelopian
