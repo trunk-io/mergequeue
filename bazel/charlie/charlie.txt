@@ -4658,7 +4658,6 @@ carolin
 cochlea
 counterrevolutions
 circlers
-canescene
 cellarway
 chronisotherm
 cangenet
@@ -15024,6 +15023,7 @@ cytostromatic
 cytotactic
 cardioaccelerator
 cerebroganglion
+canescene
 cytotaxis
 cytotaxonomy
 conky
