@@ -4882,7 +4882,6 @@ explete
 enjamb
 enterohemorrhage
 encroachments
-encrustation
 elepaio
 easing
 ecchymoses
@@ -6449,6 +6448,7 @@ enwound
 ensiled
 ectophytic
 embezzler
+encrustation
 endopod
 engineering
 electrojet
