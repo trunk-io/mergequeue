@@ -5422,6 +5422,7 @@ fennel
 friending
 frigefact
 futurity
+flatland
 forswears
 fleabiting
 fledgeling
@@ -11730,7 +11731,6 @@ futurologist
 funebrous
 futurologists
 filibustered
-flatland
 futwa
 fete
 fingerboard
