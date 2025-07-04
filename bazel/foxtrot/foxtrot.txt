@@ -2478,6 +2478,7 @@ ferling
 foredooms
 fortnightly
 fermail
+fingerstone
 flabellifoliate
 fobbed
 festivities
@@ -5745,7 +5746,6 @@ ferulas
 frontis
 farced
 ferule
-fingerstone
 fleuronnee
 fungous
 fuzzball
