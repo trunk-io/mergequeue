@@ -18873,7 +18873,6 @@ coleopterology
 catteries
 comediettas
 coleopteron
-chromosomal
 coleoptilum
 chapfallen
 chayote
@@ -28444,6 +28443,7 @@ cindery
 creance
 chabot
 creancer
+chromosomal
 carpintero
 creant
 creased
