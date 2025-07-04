@@ -2782,7 +2782,6 @@ cableman
 cannie
 cannier
 canning
-cannings
 chiccories
 cannister
 cannisters
@@ -9350,6 +9349,7 @@ chatchke
 chatchkes
 clientry
 chondrogenous
+cannings
 chateaugray
 chateaus
 chateaux
