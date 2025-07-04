@@ -5923,7 +5923,6 @@ enharbour
 electrometallurgy
 exocytosis
 endsweep
-enharden
 especially
 eurytopicity
 exoenzymic
@@ -6768,6 +6767,7 @@ exstimulate
 exhumed
 entete
 eurytherm
+enharden
 epistrophy
 etherate
 enthelminthic
