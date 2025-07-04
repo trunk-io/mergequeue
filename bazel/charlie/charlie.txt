@@ -29882,6 +29882,7 @@ crossflow
 crossflower
 crossfoot
 crosshackle
+cushionlike
 crosshair
 crosshand
 crosshatches
@@ -31674,7 +31675,6 @@ cushioning
 celestial
 cushionless
 ciruses
-cushionlike
 cushions
 cushitic
 cusie
