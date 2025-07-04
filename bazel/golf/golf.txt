@@ -8754,7 +8754,6 @@ glummer
 greenstone
 goldfields
 gimballing
-gauntree
 gange
 golems
 greenswarded
@@ -9875,6 +9874,7 @@ glycerose
 guanize
 gagman
 graticulation
+gauntree
 genders
 grenadilla
 glaked
