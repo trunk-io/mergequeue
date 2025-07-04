@@ -1290,6 +1290,7 @@ balanoid
 boteroll
 beknown
 betorcinol
+bakestone
 beflowers
 bradycinesia
 biogasses
@@ -10504,7 +10505,6 @@ blastodisc
 boxfish
 becharming
 blatjang
-bakestone
 biologistic
 blastogenic
 baizes
