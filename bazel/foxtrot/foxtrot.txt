@@ -5070,7 +5070,6 @@ fungoidal
 flannelleaves
 forepaw
 ferries
-fungate
 fizz
 forekeel
 faithbreaker
@@ -10036,6 +10035,7 @@ flor
 fryer
 foollike
 flans
+fungate
 fringehead
 fringelet
 fruitier
