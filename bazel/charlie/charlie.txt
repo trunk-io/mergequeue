@@ -8954,7 +8954,6 @@ chaqueta
 commanders
 char
 conveyability
-crouchingly
 chara
 costae
 charabanc
@@ -27985,6 +27984,7 @@ chromoscopic
 cataphylla
 craggiest
 craggily
+crouchingly
 craglike
 crags
 carthusian
