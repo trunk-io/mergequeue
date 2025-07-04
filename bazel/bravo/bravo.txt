@@ -1956,6 +1956,7 @@ beworms
 banding
 bacteriophage
 bandwidth
+bitonal
 bagginess
 bandworm
 boogiewoogie
@@ -2768,7 +2769,6 @@ bookies
 bookit
 been
 baroneting
-bitonal
 baronetize
 ballistocardiographic
 benzeneazobenzene
