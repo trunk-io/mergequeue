@@ -6115,6 +6115,7 @@ benchful
 benchman
 benchmark
 baryecoia
+bellyfish
 burnout
 briggsian
 behooveful
@@ -6366,7 +6367,6 @@ begalling
 benzdioxazine
 buffalofishes
 benzein
-bellyfish
 blinks
 benzenediazonium
 bebar
