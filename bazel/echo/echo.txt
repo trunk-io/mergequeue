@@ -2466,7 +2466,6 @@ endexines
 exairesis
 electroing
 electrokinetic
-eluviate
 ecosphere
 epicanthic
 exterminative
@@ -2824,6 +2823,7 @@ enaluron
 elephantiasis
 elephantic
 eliza
+eluviate
 europhium
 eagre
 elephantoid
