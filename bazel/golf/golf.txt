@@ -4747,7 +4747,6 @@ glossematics
 glar
 givingness
 gizmos
-garrnishable
 gizz
 grippier
 gorgoniaceous
@@ -6583,6 +6582,7 @@ glossary
 gangsterism
 glamourless
 grumphies
+garrnishable
 glummy
 garous
 granivorous
