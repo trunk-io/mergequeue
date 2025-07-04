@@ -3907,6 +3907,7 @@ borsholder
 bchs
 ballotage
 bd
+bringal
 boracium
 buttonholes
 beteela
@@ -9055,7 +9056,6 @@ beckie
 ballonet
 booky
 bidental
-bringal
 bize
 bitentaculate
 busheler
