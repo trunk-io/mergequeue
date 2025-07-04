@@ -5579,6 +5579,7 @@ catacoustics
 cwms
 catacromyodian
 conicein
+consumables
 ceratothecal
 cardiological
 catacumba
@@ -15282,7 +15283,6 @@ cezannesque
 claimants
 claimed
 claimer
-consumables
 cacothelin
 claimers
 claymore
