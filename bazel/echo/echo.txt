@@ -5319,7 +5319,6 @@ equivocalities
 egeran
 endoscopies
 endosymbiosis
-epipodia
 endoskeletons
 endosmic
 evaders
@@ -13181,6 +13180,7 @@ enlure
 enfeature
 expiable
 excubitorium
+epipodia
 evenglow
 expansions
 entailment
