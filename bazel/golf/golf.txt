@@ -2498,6 +2498,7 @@ generalistic
 glen
 gromatic
 grue
+gipping
 generations
 gastrula
 gobangs
@@ -3034,7 +3035,6 @@ ganglion
 geophagia
 glowworms
 geocline
-gipping
 geophagism
 grubhood
 glottological
