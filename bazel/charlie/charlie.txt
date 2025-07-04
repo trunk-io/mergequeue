@@ -3144,7 +3144,6 @@ cape
 chequerboard
 capeadores
 capel
-capelan
 capelans
 capelin
 cornette
@@ -20633,6 +20632,7 @@ cyclothem
 competing
 churchish
 coenanthium
+capelan
 competingly
 condensery
 competition
