@@ -7213,7 +7213,6 @@ gibbus
 gormandised
 graduators
 gormandism
-gormandize
 glomi
 gormandizes
 gundeck
@@ -9684,6 +9683,7 @@ gruesome
 galeod
 gasp
 galleylike
+gormandize
 grassworm
 gregale
 gratifying
