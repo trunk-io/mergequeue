@@ -2172,7 +2172,6 @@ clerkliest
 camporee
 camphorone
 camphorweed
-camphorwood
 calvinize
 conference
 campi
@@ -9737,6 +9736,7 @@ cryptopapist
 curtals
 cragginess
 coexistent
+camphorwood
 cheering
 cheerlead
 crystallinity
