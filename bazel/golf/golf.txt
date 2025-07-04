@@ -1319,7 +1319,6 @@ gary
 groundling
 griphus
 gristbite
-glyptodontidae
 gignate
 gra
 greenhouse
@@ -5689,6 +5688,7 @@ goitered
 glossies
 glossiest
 gybed
+glyptodontidae
 glossinas
 gertrude
 glowbard
