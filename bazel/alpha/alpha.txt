@@ -904,7 +904,6 @@ absis
 absistos
 absit
 absoil
-absterging
 antient
 amphitron
 absolent
@@ -13438,6 +13437,7 @@ anneal
 artlessly
 annealer
 anneals
+absterging
 annect
 annelidan
 annelidian
