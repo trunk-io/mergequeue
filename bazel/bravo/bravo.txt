@@ -2692,7 +2692,6 @@ barnard
 benightment
 barnbrack
 brachyprosopic
-betweenbrain
 beelzebub
 barneys
 bourr
@@ -13145,6 +13144,7 @@ borough
 bouquetin
 biseriate
 boroughmonger
+betweenbrain
 blaspheme
 basileis
 bankrupts
