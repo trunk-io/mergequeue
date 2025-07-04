@@ -3567,7 +3567,6 @@ figurae
 forebowels
 formulism
 fictionalizes
-farness
 foreign
 fermentology
 fraternity
@@ -4736,6 +4735,7 @@ furca
 floweret
 fidded
 fructed
+farness
 fummel
 furtherer
 fluorene
