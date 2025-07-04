@@ -4782,6 +4782,7 @@ emprent
 emmenia
 enterotomy
 excusatory
+equiformity
 endocarpic
 encode
 encoded
@@ -5516,7 +5517,6 @@ encake
 electroscope
 ectocarpic
 excitate
-equiformity
 enchainments
 enzymosis
 enervation
