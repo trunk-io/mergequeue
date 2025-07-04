@@ -1879,7 +1879,6 @@ acetalize
 acetals
 amphioxididae
 acetamidin
-arrector
 acetaminol
 ashkoko
 acetaminophen
@@ -5613,6 +5612,7 @@ axbreaker
 anteceding
 agacerie
 autotoxis
+arrector
 austromancy
 agada
 alloiometry
