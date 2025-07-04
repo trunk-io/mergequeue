@@ -7379,6 +7379,7 @@ entameba
 economy
 epanorthidae
 ephorates
+ewest
 enravishment
 epapophysis
 easeled
@@ -11625,7 +11626,6 @@ ewery
 exciding
 empires
 ewes
-ewest
 engraphia
 emeras
 envenomous
