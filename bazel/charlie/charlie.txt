@@ -12656,7 +12656,6 @@ chronicle
 chronicled
 chronicling
 chronicon
-chronics
 craddy
 chronique
 contingency
@@ -13373,6 +13372,7 @@ crossrow
 cyclohexanol
 crass
 cyclohexanone
+chronics
 cyclohexatriene
 cyclohexyl
 cycloheximide
