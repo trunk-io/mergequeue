@@ -5823,7 +5823,6 @@ gruiformes
 ghettoing
 griffins
 graffito
-gedact
 grosse
 geaster
 glucagon
@@ -6750,6 +6749,7 @@ graptoloidea
 gobbe
 grooves
 gaffsail
+gedact
 ganglioside
 gossiping
 geront
