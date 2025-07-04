@@ -4150,7 +4150,6 @@ fergusonite
 featherbrain
 fattable
 fanterie
-fatalness
 fissipedal
 fussier
 ferth
@@ -4569,6 +4568,7 @@ finjan
 fundmonger
 fissura
 frugal
+fatalness
 forwardsearch
 fractionized
 felinophile
