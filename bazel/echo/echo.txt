@@ -2965,6 +2965,7 @@ equiprobabilism
 eliminated
 ectopia
 elymus
+endoss
 elinguate
 enfield
 eleatic
@@ -9478,7 +9479,6 @@ extent
 elsewhere
 escapingly
 escapist
-endoss
 endodontologist
 excitabilities
 escarole
