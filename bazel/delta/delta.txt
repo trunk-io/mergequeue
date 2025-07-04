@@ -414,6 +414,7 @@ devaluate
 decanter
 dithered
 dorsoanterior
+daud
 dairyman
 drinker
 dairywomen
@@ -12647,7 +12648,6 @@ downmost
 dechenite
 disintoxication
 dankness
-daud
 disintrench
 dysyntribite
 deodorise
