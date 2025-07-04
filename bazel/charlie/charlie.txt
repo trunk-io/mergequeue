@@ -6110,6 +6110,7 @@ catling
 catlings
 catlins
 craftsperson
+carrotier
 cryptoporticus
 canephroi
 cumene
@@ -20361,7 +20362,6 @@ carpeted
 communise
 crofting
 chudder
-carrotier
 communism
 crump
 cubitodigital
