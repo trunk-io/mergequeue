@@ -1108,7 +1108,6 @@ farnesols
 fringillidae
 foraging
 fogas
-faro
 floriken
 floter
 foredestining
@@ -10839,6 +10838,7 @@ fortified
 fumblingly
 fallout
 frisky
+faro
 flagitiously
 forwore
 franciscan
