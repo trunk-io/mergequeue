@@ -501,7 +501,6 @@ fumble
 fanciers
 foreclosures
 fleetful
-foulard
 fuseau
 fakeer
 fetiferous
@@ -5633,6 +5632,7 @@ frusla
 faintishness
 flighter
 fraik
+foulard
 fleysome
 forehock
 funicular
