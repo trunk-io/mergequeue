@@ -3560,6 +3560,7 @@ adenocarcinomata
 adenochondroma
 adenochondrosarcoma
 adenochrome
+awning
 apts
 andric
 abnumerable
@@ -5662,7 +5663,6 @@ arthrodial
 adiposes
 adulter
 agama
-awning
 agamemnon
 afterwash
 agamete
