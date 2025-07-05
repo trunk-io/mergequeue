@@ -5147,7 +5147,6 @@ ambilaevous
 affaire
 affaite
 affect
-affectable
 anaxonia
 aflicker
 authoritarianism
@@ -22421,6 +22420,7 @@ asunder
 aswarm
 aswash
 abidden
+affectable
 asweat
 aswell
 aristarchy
