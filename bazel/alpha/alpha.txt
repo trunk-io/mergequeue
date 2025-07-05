@@ -15420,6 +15420,7 @@ asslike
 antimason
 accordances
 antimasonry
+apyrexial
 antimasque
 antimasquer
 afterstrain
@@ -16942,7 +16943,6 @@ apionol
 apiosoma
 apyrases
 apyrexy
-apyrexial
 apyrotype
 anteverts
 anticapital
