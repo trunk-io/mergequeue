@@ -5562,7 +5562,6 @@ diversities
 deadlatch
 dx
 dwarfism
-dimmock
 departmentalism
 departmentalization
 departmentalized
@@ -11475,6 +11474,7 @@ disclass
 deuterogenesis
 dermorhynchous
 disclimax
+dimmock
 dialogite
 dyester
 drossing
