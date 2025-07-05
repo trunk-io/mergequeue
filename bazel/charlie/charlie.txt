@@ -16283,7 +16283,6 @@ climes
 climograph
 conversazioni
 clinamen
-clinamina
 clinandrdria
 clinch
 chromatocyte
@@ -31696,6 +31695,7 @@ chondromyxoma
 cesuras
 carbuncled
 cotyloid
+clinamina
 cuspidor
 cuspids
 cephalopodan
