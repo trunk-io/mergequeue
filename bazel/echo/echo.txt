@@ -4899,7 +4899,6 @@ equibalance
 entablements
 excisions
 ef
-esteemable
 encumbrance
 extrabureau
 english
@@ -11304,6 +11303,7 @@ evanishes
 enterostenosis
 exsolved
 enmass
+esteemable
 exterrestrial
 evaporability
 enwrapped
