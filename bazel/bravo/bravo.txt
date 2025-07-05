@@ -7509,7 +7509,6 @@ booteries
 beuncled
 bura
 borates
-beurre
 benamidar
 bibbling
 bevaring
@@ -15206,6 +15205,7 @@ brimstonewort
 briarberry
 bridebed
 blooddrop
+beurre
 bridecake
 bulgarophil
 blackfire
