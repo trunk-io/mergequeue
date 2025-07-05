@@ -4705,7 +4705,6 @@ futharcs
 filmgoer
 faust
 faeroe
-foliar
 ferrotungsten
 flewit
 freety
@@ -8162,6 +8161,7 @@ fillercap
 fairishness
 fibulas
 fasthold
+foliar
 fideicommissor
 foundlings
 fingerboards
