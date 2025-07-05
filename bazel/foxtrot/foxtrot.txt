@@ -6378,7 +6378,6 @@ fille
 flatlings
 flowchart
 flagpole
-fluocerine
 flang
 fullterm
 fluoran
@@ -11221,6 +11220,7 @@ fluorescing
 funked
 feuilleton
 funky
+fluocerine
 filter
 functional
 fylfot
