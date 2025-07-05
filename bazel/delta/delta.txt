@@ -1582,7 +1582,6 @@ dwellings
 destruct
 deafly
 deafmuteness
-disembrace
 digression
 deafness
 deairing
@@ -3948,6 +3947,7 @@ dogfoot
 deference
 dekes
 derivationally
+disembrace
 dotage
 douser
 duopoly
