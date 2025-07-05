@@ -14480,7 +14480,6 @@ circumstantiability
 chronometry
 circumstantiality
 circumstantialities
-circumstantialness
 circumstantiate
 circumstantiating
 circumstantiation
@@ -28928,6 +28927,7 @@ crybabies
 cancellate
 chelation
 cacodaemon
+circumstantialness
 cycloidei
 cellager
 colloquialism
