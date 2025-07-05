@@ -3584,7 +3584,6 @@ batholiths
 balaamite
 butchers
 balconet
-bankeress
 barkentine
 bathometer
 bathometry
@@ -12372,6 +12371,7 @@ band
 bandlimit
 buckshee
 brigades
+bankeress
 baskets
 bomble
 boombox
