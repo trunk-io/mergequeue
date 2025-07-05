@@ -1886,6 +1886,7 @@ flabellum
 fating
 frostnipped
 fontange
+fief
 feazed
 ferrimagnetic
 febricant
@@ -10161,7 +10162,6 @@ fabricant
 falcidian
 foresing
 frizel
-fief
 frizers
 frizes
 freycinetia
