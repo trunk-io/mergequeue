@@ -292,7 +292,6 @@ fadmongering
 fluidimeter
 felsic
 fairly
-flakily
 fourierite
 febrifacient
 footpounds
@@ -4191,6 +4190,7 @@ flying
 fraticelli
 firebomb
 fakiness
+flakily
 firebombing
 fairlike
 fractionlet
