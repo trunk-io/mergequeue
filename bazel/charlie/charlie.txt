@@ -17537,7 +17537,6 @@ cobble
 capax
 cobbled
 cobblerfish
-cobblerism
 cobblers
 cobblership
 cobbles
@@ -29584,6 +29583,7 @@ cebine
 croakier
 croakily
 croaking
+cobblerism
 consociation
 croape
 croat
