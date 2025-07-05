@@ -7942,7 +7942,6 @@ agglutinates
 alerta
 anorak
 abstractionists
-alerters
 autotropically
 alerting
 alertly
@@ -13643,6 +13642,7 @@ abolition
 annuler
 anodontia
 allocable
+alerters
 abys
 anodos
 ambivalent
