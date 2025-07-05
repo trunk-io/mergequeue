@@ -2142,7 +2142,6 @@ campgrounds
 consarcinate
 camphane
 camphanone
-camphene
 camphenes
 camphine
 cufflinks
@@ -6870,6 +6869,7 @@ cerinthian
 capless
 celioscope
 cella
+camphene
 cellarage
 cellared
 chamoix
