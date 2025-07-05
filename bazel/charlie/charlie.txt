@@ -20391,7 +20391,6 @@ contravariant
 commutable
 canada
 conjee
-clerks
 commutableness
 commutant
 commutated
@@ -29299,6 +29298,7 @@ cryptogamy
 cryptogamic
 cryptogamical
 cryptogamist
+clerks
 cryptogenic
 cryptoglioma
 caried
