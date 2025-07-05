@@ -4466,6 +4466,7 @@ dependant
 delftware
 demerit
 demiluster
+dogfish
 digitogenin
 demersal
 drones
@@ -15060,7 +15061,6 @@ destroys
 discernibly
 disblame
 dogfights
-dogfish
 divus
 doggedness
 desecate
