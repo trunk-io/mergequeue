@@ -10157,7 +10157,6 @@ frontlet
 fitter
 fled
 fashed
-fabricant
 falcidian
 foresing
 frizel
@@ -11447,6 +11446,7 @@ flares
 frigidarium
 firebase
 fiducially
+fabricant
 falteringly
 furrily
 firefly
