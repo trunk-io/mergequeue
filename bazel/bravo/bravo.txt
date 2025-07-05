@@ -855,6 +855,7 @@ baggagemaster
 baggager
 benzidin
 baggala
+bersagliere
 bijouterie
 bagganet
 baggara
@@ -6803,7 +6804,6 @@ buhls
 barytosulphate
 badian
 bookery
-bersagliere
 berseem
 berserker
 brittles
