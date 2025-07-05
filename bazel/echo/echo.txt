@@ -269,7 +269,6 @@ eightsmen
 electrostatic
 encashed
 electroplated
-expiries
 easterling
 enqueue
 ecrevisse
@@ -13690,6 +13689,7 @@ excursionize
 exophagy
 epitaxy
 expiatist
+expiries
 ermanaric
 exemplary
 enfasten
