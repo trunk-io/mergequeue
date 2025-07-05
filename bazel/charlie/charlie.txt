@@ -1926,7 +1926,6 @@ cataract
 cotterite
 constant
 camelopardus
-cloghad
 counterflashing
 camelry
 camelus
@@ -12605,6 +12604,7 @@ chromophotography
 chromophotographic
 cranky
 corundophilite
+cloghad
 colonists
 chromoplast
 congelation
