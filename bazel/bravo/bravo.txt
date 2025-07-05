@@ -672,7 +672,6 @@ brisk
 babua
 basos
 babblement
-brioche
 bicorne
 bombo
 bungey
@@ -12483,6 +12482,7 @@ bonify
 bondstone
 bondswoman
 bondswomen
+brioche
 burntness
 bather
 bagpiped
