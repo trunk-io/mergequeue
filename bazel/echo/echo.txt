@@ -1258,7 +1258,6 @@ epit
 eel
 escalade
 externity
-eelboat
 eudendrium
 epicures
 enjoyable
@@ -9589,6 +9588,7 @@ envois
 esuriently
 esebrias
 exigible
+eelboat
 ellops
 enantiotropy
 esemplasy
