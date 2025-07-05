@@ -19139,7 +19139,6 @@ cepous
 collier
 cuprite
 chariots
-colliery
 crises
 cuber
 callable
@@ -23224,6 +23223,7 @@ cabernets
 chowk
 constructibility
 constructible
+colliery
 construction
 curtsey
 constructionist
