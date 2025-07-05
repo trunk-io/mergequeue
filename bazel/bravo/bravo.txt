@@ -6416,7 +6416,6 @@ biozone
 belgium
 benzoglycolic
 benzoglyoxaline
-balancewise
 benzohydrol
 benzoylated
 becuna
@@ -14840,6 +14839,7 @@ baja
 breakers
 breakfast
 buffetings
+balancewise
 breakfasted
 breakfronts
 breaking
