@@ -5585,6 +5585,7 @@ forespeaker
 fungic
 flybelt
 familiary
+finfish
 felsitic
 flyby
 fratch
@@ -10884,7 +10885,6 @@ forsworn
 falloffs
 fasciculus
 fulleries
-finfish
 fleets
 fannon
 fados
