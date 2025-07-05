@@ -4239,7 +4239,6 @@ cardoon
 conure
 cardoons
 cardophagus
-clearwing
 carbamido
 carnet
 chiron
@@ -22250,6 +22249,7 @@ carkingly
 cynthian
 congenerous
 congeners
+clearwing
 coeffluent
 congenial
 commiserative
