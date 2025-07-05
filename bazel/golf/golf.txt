@@ -3792,6 +3792,7 @@ gids
 gazes
 grandchild
 granulitize
+gulist
 gradientia
 gerontism
 geochronometry
@@ -5920,7 +5921,6 @@ glumes
 gesnera
 gaincome
 glummest
-gulist
 gaggled
 glumnesses
 gederathite
