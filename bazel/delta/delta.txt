@@ -12050,7 +12050,6 @@ disenchantments
 disenchantress
 depluming
 difforme
-disencharm
 drip
 disenclose
 daint
@@ -13836,6 +13835,7 @@ dion
 dissuasion
 decayed
 depravedly
+disencharm
 dissuasively
 detruncate
 dengues
