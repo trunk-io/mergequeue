@@ -479,6 +479,7 @@ agriotes
 abyss
 abysses
 abyssolith
+anathematizer
 aporrhais
 abyssopelagic
 abyssus
@@ -12046,7 +12047,6 @@ anathematize
 aegeriid
 appels
 aspergillaceae
-anathematizer
 antihumanist
 alidades
 alliances
