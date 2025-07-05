@@ -2940,6 +2940,7 @@ absences
 acting
 actiniae
 absentia
+anaxone
 axisymmetric
 appalment
 ashless
@@ -12119,7 +12120,6 @@ alienicola
 alligate
 amidogens
 alcaic
-anaxone
 anazoturia
 amiable
 administrate
