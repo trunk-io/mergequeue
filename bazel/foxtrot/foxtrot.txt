@@ -4336,7 +4336,6 @@ fenland
 fraterniser
 fungology
 firmarii
-furmeties
 forrader
 filthier
 farhand
@@ -7064,6 +7063,7 @@ flacked
 forbreak
 fumily
 fastballs
+furmeties
 foolable
 floutingly
 frescade
