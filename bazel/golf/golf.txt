@@ -1638,7 +1638,6 @@ gif
 gastrodermal
 gastrodermis
 gpd
-gulfweed
 garroting
 guayabo
 gastroduodenitis
@@ -2552,6 +2551,7 @@ gesticular
 grisette
 glossolabial
 goutte
+gulfweed
 garabato
 galluot
 glisters
