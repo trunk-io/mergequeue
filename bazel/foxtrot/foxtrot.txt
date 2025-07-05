@@ -10372,7 +10372,6 @@ fowage
 formatting
 frontierless
 fireproofness
-farmyards
 filigerous
 fungite
 flusterment
@@ -10697,6 +10696,7 @@ flary
 fleckered
 faradays
 fenny
+farmyards
 fortran
 forelaid
 folkboat
