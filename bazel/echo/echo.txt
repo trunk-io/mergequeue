@@ -4107,7 +4107,6 @@ epirote
 eiffel
 ensheathed
 every
-employments
 endurability
 entombments
 eniac
@@ -11918,6 +11917,7 @@ exceptless
 emends
 eightfoil
 ectoderms
+employments
 enragement
 earthenware
 expurgation
