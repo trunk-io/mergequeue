@@ -5190,6 +5190,7 @@ beleaf
 barns
 beadhouse
 bracteal
+benzine
 bondfolk
 byee
 berkeley
@@ -6390,7 +6391,6 @@ batsmanship
 benzylic
 benziminazole
 bethinking
-benzine
 blackfly
 bubbliness
 benzoazurine
