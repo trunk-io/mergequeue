@@ -2834,7 +2834,6 @@ dithymol
 duplicative
 defi
 deferred
-declarator
 decried
 desistive
 diathetic
@@ -18343,6 +18342,7 @@ disrupted
 duodecimole
 dithionic
 duodecimos
+declarator
 draggiest
 duodedena
 dasi
