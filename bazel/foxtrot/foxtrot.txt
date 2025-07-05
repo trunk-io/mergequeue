@@ -6912,7 +6912,6 @@ folklores
 fp
 falsetto
 floatages
-fifes
 fleme
 felafel
 fanakalo
@@ -10276,6 +10275,7 @@ foreslack
 fasher
 frolicker
 frolicking
+fifes
 freeholds
 flagitiousness
 ferricyanhydric
