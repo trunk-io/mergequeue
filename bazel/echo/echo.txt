@@ -2223,7 +2223,6 @@ electant
 epitheliulia
 electary
 engrailing
-epithet
 enthraldom
 erected
 emotionist
@@ -10535,6 +10534,7 @@ ennuying
 etrenne
 etrog
 equatoreal
+epithet
 etruscology
 etta
 endosteally
