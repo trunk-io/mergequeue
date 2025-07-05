@@ -5902,7 +5902,6 @@ chaffier
 catella
 ctenodactyl
 catena
-catenae
 catenane
 cremates
 claybanks
@@ -7453,6 +7452,7 @@ cephalochord
 cowmen
 cephalochordal
 cephalochordata
+catenae
 cucujidae
 consolidator
 cephaloclast
