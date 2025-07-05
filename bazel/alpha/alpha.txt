@@ -6645,7 +6645,6 @@ actinometers
 ally
 abasio
 ailurophilic
-affirmation
 archaeol
 ailuropoda
 ailurus
@@ -15405,6 +15404,7 @@ antiloquy
 asafoetida
 antilottery
 antimacassar
+affirmation
 antimacassars
 amidocaffeine
 antimalaria

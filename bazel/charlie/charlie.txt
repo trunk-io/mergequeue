@@ -7979,6 +7979,7 @@ cyclorrhaphous
 clinician
 cession
 chain
+coupled
 cessionaire
 castaway
 cessor
@@ -29228,7 +29229,6 @@ crypteroniaceae
 cryptical
 cryptically
 crypticness
-coupled
 covenantally
 crypto
 cryptoagnostic
