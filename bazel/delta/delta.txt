@@ -1583,6 +1583,7 @@ destruct
 deafly
 deafmuteness
 disembrace
+disring
 digression
 deafness
 deairing
@@ -13501,7 +13502,6 @@ decantherous
 dishabited
 disrest
 dropsonde
-disring
 disillusionment
 despotism
 disrobement
