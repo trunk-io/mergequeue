@@ -1683,7 +1683,6 @@ calosoma
 calotermes
 calothrix
 calotype
-cephalexin
 cyclodiolefine
 calotypic
 calotypist
@@ -8558,6 +8557,7 @@ chamfron
 carpal
 chamian
 consecrative
+cephalexin
 chamisal
 capeskin
 chamise
