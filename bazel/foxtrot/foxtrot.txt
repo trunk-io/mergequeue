@@ -4707,6 +4707,7 @@ faust
 faeroe
 foliar
 ferrotungsten
+frowardness
 flewit
 freety
 fayettism
@@ -6134,7 +6135,6 @@ floccilation
 flounced
 flouncing
 flounder
-frowardness
 faraway
 faciata
 flourish
