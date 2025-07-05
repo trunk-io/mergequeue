@@ -5375,6 +5375,7 @@ buyable
 begray
 bromobenzene
 barodynamic
+bagataway
 barbarisation
 burly
 birne
@@ -13027,7 +13028,6 @@ biggin
 borborygmus
 bettongia
 bacteriolysis
-bagataway
 berger
 bordeaux
 bz
