@@ -4900,7 +4900,6 @@ glaire
 glosses
 gigger
 gradual
-growliness
 glaired
 gurjun
 geomaly
@@ -10258,6 +10257,7 @@ galvanoplastically
 grownup
 gauzelike
 guanases
+growliness
 globulitic
 goers
 gregarious
