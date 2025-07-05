@@ -6921,7 +6921,6 @@ epic
 electrochemical
 encephala
 eschalot
-entomophthorales
 erythrodextrin
 enfeoffed
 estruses
@@ -12629,6 +12628,7 @@ epistylis
 eustathian
 eumeromorph
 eyeserver
+entomophthorales
 epigramme
 exocrines
 emanative
