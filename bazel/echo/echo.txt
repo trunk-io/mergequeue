@@ -3867,7 +3867,6 @@ echeneis
 electrotonus
 extraboldface
 eminencies
-evendown
 exterminating
 eminent
 easternized
@@ -13978,6 +13977,7 @@ endears
 exundance
 echinococcus
 exsuperance
+evendown
 extraperiosteal
 engem
 eurodollars
