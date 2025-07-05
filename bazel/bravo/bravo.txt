@@ -50,6 +50,7 @@ bundocks
 babbly
 brushable
 babbit
+befouling
 baff
 baton
 botrytises
@@ -5162,7 +5163,6 @@ billable
 boxholder
 bootmaker
 brunizem
-befouling
 befoulment
 befraught
 befreight
