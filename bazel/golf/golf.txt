@@ -5657,6 +5657,7 @@ gatemen
 gant
 grizzler
 grenat
+gustables
 gaucie
 gaultheria
 glandulous
@@ -10725,7 +10726,6 @@ gussets
 gloms
 gairfish
 gobio
-gustables
 gassers
 gaddi
 gustard
