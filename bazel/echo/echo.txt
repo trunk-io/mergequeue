@@ -7334,7 +7334,6 @@ explodent
 exoascaceae
 echinoids
 ejicient
-epicyclic
 epilatory
 exlex
 elechi
@@ -11386,6 +11385,7 @@ extenders
 exigency
 edeotomy
 exotropic
+epicyclic
 electrodesiccation
 eryopid
 eruciform
