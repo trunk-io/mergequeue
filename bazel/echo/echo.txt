@@ -2666,7 +2666,6 @@ electrotechnic
 epicalyx
 electrotechnician
 exports
-enfant
 extendibility
 engenderment
 electrotelegraphy
@@ -3085,6 +3084,7 @@ empyreumata
 empennage
 equiangularity
 elaphomyces
+enfant
 epicalyces
 encomiums
 endogenies
