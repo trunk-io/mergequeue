@@ -2625,6 +2625,7 @@ gemarist
 gigantocyte
 genioglossal
 globoids
+gambeson
 geoteuthis
 goboes
 genioglossus
@@ -6538,7 +6539,6 @@ grassant
 glottalization
 ground
 gesture
-gambeson
 grummets
 girons
 gimmerpet
