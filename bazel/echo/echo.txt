@@ -3396,7 +3396,6 @@ eucirripedia
 embogue
 electrophobia
 ennuyant
-exemplar
 ecliptic
 embatholithic
 enfiladed
@@ -10551,6 +10550,7 @@ errorist
 eclectics
 epulary
 etwee
+exemplar
 electricans
 esoanhydride
 effigy
