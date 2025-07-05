@@ -3695,6 +3695,7 @@ fibrose
 frisbees
 flook
 farmable
+frostbites
 fridstool
 fielder
 floatsman
@@ -8339,7 +8340,6 @@ fair
 furriner
 flagellata
 forkedness
-frostbites
 fimbria
 folderol
 feigningly
