@@ -2341,7 +2341,6 @@ electrochronometric
 enfroward
 estafetted
 entendres
-electroplating
 electroplates
 ellipsis
 ecumenical
@@ -5981,6 +5980,7 @@ enrapturer
 enjambements
 enigmata
 eluvial
+electroplating
 exquisite
 etourderie
 ephphatha
