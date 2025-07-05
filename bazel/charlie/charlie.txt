@@ -7926,6 +7926,7 @@ cervicitis
 cervicoauricular
 chippable
 cervicobasilar
+climata
 cervicobregmatic
 cobitis
 cervicobuccal
@@ -16240,7 +16241,6 @@ chymosinogen
 crownbeard
 climacus
 climant
-climata
 celebesian
 climatal
 corticate
