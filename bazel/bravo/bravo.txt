@@ -8430,7 +8430,6 @@ bauchle
 bloodlettings
 bikers
 bikeway
-bikie
 biking
 bedaze
 balita
@@ -17924,6 +17923,7 @@ barton
 badly
 bushidos
 bractless
+bikie
 broadaxes
 bahmanid
 brahmanda
