@@ -4190,7 +4190,6 @@ goloka
 gois
 gynaecology
 gyromagnetic
-gynaecological
 gabbiness
 gentilesse
 gobbing
@@ -4581,6 +4580,7 @@ gillhooter
 glycose
 germanyl
 gruys
+gynaecological
 glost
 grister
 gutium
