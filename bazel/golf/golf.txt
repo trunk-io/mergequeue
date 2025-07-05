@@ -554,7 +554,6 @@ gastromelus
 gustiness
 gramas
 geisotherm
-gd
 griming
 glycerize
 gilravager
@@ -881,6 +880,7 @@ goffer
 ghatti
 gymnophiona
 guerrilla
+gd
 gametangia
 grillwork
 gotha
