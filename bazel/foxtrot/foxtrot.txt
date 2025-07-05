@@ -1425,6 +1425,7 @@ favorable
 fatigableness
 fazendas
 frock
+floatier
 fanning
 fatigue
 fossicks
@@ -5860,7 +5861,6 @@ fierasfer
 fodders
 flounders
 flotas
-floatier
 flustrum
 fulcrums
 flidge
