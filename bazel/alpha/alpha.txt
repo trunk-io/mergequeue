@@ -4616,7 +4616,6 @@ aediculae
 aedicule
 aedile
 adject
-aediles
 aknee
 airbursts
 aedileship
@@ -15954,6 +15953,7 @@ ablepharous
 antiquaries
 antiquartan
 americas
+aediles
 acquital
 aliasing
 antiquated
