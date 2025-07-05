@@ -5371,7 +5371,6 @@ bonace
 besoothement
 begowk
 begowned
-buyable
 begray
 bromobenzene
 barodynamic
@@ -18130,6 +18129,7 @@ butcherer
 blobbier
 bureaucrats
 ballyrag
+buyable
 bistouries
 butcheress
 butchery
