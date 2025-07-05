@@ -2674,7 +2674,6 @@ gripeful
 gorlois
 geniture
 grenades
-gasan
 gumshoes
 geodesists
 gristmiller
@@ -7215,6 +7214,7 @@ graduators
 gormandism
 gormandize
 glomi
+gasan
 gormandizes
 gundeck
 gangsa
