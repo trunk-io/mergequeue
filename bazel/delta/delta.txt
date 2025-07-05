@@ -5452,6 +5452,7 @@ downgrowth
 discrownment
 detd
 dauk
+doodad
 denver
 divagational
 detachable
@@ -7053,7 +7054,6 @@ duramen
 destinezite
 dessous
 devall
-doodad
 durst
 dessus
 destabilization
