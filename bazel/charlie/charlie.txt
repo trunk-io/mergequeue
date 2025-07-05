@@ -13696,6 +13696,7 @@ cob
 cymballing
 cymbalom
 cimbaloms
+cleats
 cymbalon
 cubicles
 cymbel
@@ -15933,7 +15934,6 @@ cascara
 commis
 cleat
 cleated
-cleats
 cyclonologist
 cheilitis
 copetitioner
