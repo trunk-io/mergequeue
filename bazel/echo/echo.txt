@@ -3592,7 +3592,6 @@ equivalents
 enchainement
 eyeliner
 embraced
-embracement
 erythraean
 embracer
 earspool
@@ -13991,6 +13990,7 @@ extrapolated
 equalising
 easternizing
 enhazard
+embracement
 erythromania
 endexine
 eisegetic
