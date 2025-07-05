@@ -1579,7 +1579,6 @@ foamers
 franklinite
 fattenable
 fauntleroy
-frankability
 flagellaria
 freely
 faurd
@@ -10686,6 +10685,7 @@ flunkeyize
 frumenty
 fungals
 febronianism
+frankability
 footband
 fastidiously
 forecar
