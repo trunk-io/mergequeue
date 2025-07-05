@@ -2984,7 +2984,6 @@ bioassay
 blarneyer
 barstools
 bart
-bartended
 barrera
 bigamistically
 beared
@@ -9526,6 +9525,7 @@ besaint
 birthmark
 biographee
 banality
+bartended
 besots
 birthnight
 birthplaces
