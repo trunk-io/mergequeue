@@ -1644,6 +1644,7 @@ extrasensorial
 egret
 egritude
 egromancy
+evolver
 egurgitate
 egurgitated
 endearingly
@@ -11611,7 +11612,6 @@ ecophene
 engregge
 expatiate
 enmeshing
-evolver
 equiponderating
 ectolecithal
 exergual
