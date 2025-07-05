@@ -3202,7 +3202,6 @@ elul
 epidemic
 erects
 elusion
-enclitical
 elided
 encephalotomy
 enervated
@@ -11805,6 +11804,7 @@ electrocatalysis
 exasperater
 exasperates
 entomolite
+enclitical
 edematous
 engrid
 ewerer
