@@ -14217,6 +14217,7 @@ dermatomic
 disunion
 drolly
 download
+disjointness
 disunites
 dithyrambic
 disunity
@@ -16495,7 +16496,6 @@ dollhouse
 darken
 degradations
 doubtance
-disjointness
 dasyprocta
 domesticities
 diagramming
