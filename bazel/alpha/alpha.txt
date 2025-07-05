@@ -25,7 +25,6 @@ amblyopia
 aasvogel
 ab
 anaphoric
-assurate
 artemon
 avernus
 assort
@@ -11225,6 +11224,7 @@ amphiplatyan
 acknowledge
 amphiploidy
 ascicidia
+assurate
 alephzero
 auguries
 ains
