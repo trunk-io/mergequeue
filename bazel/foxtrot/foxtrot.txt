@@ -5533,7 +5533,6 @@ finnan
 fletchers
 furrower
 fisc
-faked
 filionymic
 frowzy
 furbelowing
@@ -8674,6 +8673,7 @@ freesia
 flatfooted
 flaunters
 fryers
+faked
 funiculate
 furicane
 flapless
