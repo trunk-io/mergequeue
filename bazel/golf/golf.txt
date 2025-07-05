@@ -7161,7 +7161,6 @@ gaminesses
 galvanotactic
 grasshopperdom
 gaditan
-greenthumbed
 geotectonics
 galega
 grassfinch
@@ -9339,6 +9338,7 @@ gorillaship
 goatskin
 gradines
 geronomite
+greenthumbed
 glossas
 goldurn
 governability
