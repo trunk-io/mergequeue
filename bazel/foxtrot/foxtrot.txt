@@ -7725,7 +7725,6 @@ freeish
 falconlike
 fretty
 forsaken
-flamelike
 formalizations
 fiddlerfishes
 fireshine
@@ -8092,6 +8091,7 @@ fructuosity
 funkiest
 fingan
 furify
+flamelike
 foreswore
 flavouring
 frisk
