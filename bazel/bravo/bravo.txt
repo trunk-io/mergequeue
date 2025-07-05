@@ -8151,7 +8151,6 @@ bug
 blasphemer
 beslubber
 beltmaker
-birse
 besieging
 bloodhound
 bidiagonal
@@ -8643,6 +8642,7 @@ brethel
 beldames
 bookable
 brightsomeness
+birse
 bowling
 bryales
 benzo
