@@ -12462,7 +12462,6 @@ deamidize
 deplantation
 drybrush
 disheriting
-deforms
 disposable
 dishevelled
 dishevelling
@@ -18388,6 +18387,7 @@ dysphagia
 denter
 dimorphite
 duodiodepentode
+deforms
 duodrama
 dacryoblenorrhea
 dorrs
