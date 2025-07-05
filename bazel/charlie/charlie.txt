@@ -6477,6 +6477,7 @@ cautiones
 canard
 carbarns
 cautious
+clockwise
 cautiously
 coffeecakes
 cloister
@@ -16580,7 +16581,6 @@ clockmaking
 crewer
 clocksmith
 clockwatcher
-clockwise
 couter
 clockworked
 clavigerous
