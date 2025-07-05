@@ -2177,7 +2177,6 @@ calvinize
 conference
 campi
 concurrency
-campy
 campier
 campiest
 campignian
@@ -18539,6 +18538,7 @@ cassate
 cessations
 cursor
 coheiress
+campy
 cepheus
 clericalize
 circlet
