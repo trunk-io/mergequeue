@@ -6903,7 +6903,6 @@ dovetailer
 declaimant
 darkness
 desolator
-didymium
 dependents
 deadliest
 dactylioglyphtic
@@ -16229,6 +16228,7 @@ deveining
 drupetum
 draconic
 dialector
+didymium
 deerskins
 dizens
 deltahedron
