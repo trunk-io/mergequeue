@@ -8770,7 +8770,6 @@ chankings
 channel
 channelbill
 coendou
-couching
 channeling
 clubbish
 channelize
@@ -22657,6 +22656,7 @@ ceratitoid
 connotations
 connotative
 connotatively
+couching
 connote
 crymotherapy
 connoted
