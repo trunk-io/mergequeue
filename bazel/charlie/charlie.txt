@@ -18317,7 +18317,6 @@ coffeehouses
 cavalry
 coffeeleaf
 coffeeman
-classico
 clayed
 coffeepots
 coffeeroom
@@ -20564,6 +20563,7 @@ cusparia
 carnose
 codon
 corelatively
+classico
 crapon
 commistion
 canonlike
