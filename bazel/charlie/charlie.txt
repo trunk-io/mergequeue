@@ -7521,7 +7521,6 @@ cepheids
 cephen
 coastings
 cephid
-cardionephric
 cephidae
 cephus
 ceps
@@ -14300,6 +14299,7 @@ circumambulated
 compose
 culinary
 circumambulator
+cardionephric
 circumanal
 circumantarctic
 circumarticular
