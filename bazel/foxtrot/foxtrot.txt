@@ -747,7 +747,6 @@ florigens
 francic
 famp
 famuli
-frustrater
 fana
 fcs
 feoffment
@@ -9000,6 +8999,7 @@ fincas
 fourther
 fireroom
 fouter
+frustrater
 foliator
 fustie
 fondling
