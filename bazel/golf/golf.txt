@@ -756,6 +756,7 @@ galvanoplasty
 grovers
 gravitater
 gunbearer
+gramaphone
 gerkin
 galvanopuncture
 gummaker
@@ -8460,7 +8461,6 @@ grownups
 greystone
 geomedical
 goshdarn
-gramaphone
 gametophyte
 ganglioblast
 gulden
