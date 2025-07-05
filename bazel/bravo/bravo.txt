@@ -10973,6 +10973,7 @@ batel
 bilharzic
 blocky
 brassage
+bolas
 blintzes
 bluming
 blacksmiths
@@ -12092,7 +12093,6 @@ bokom
 bola
 bolag
 bosey
-bolas
 bedell
 bartsia
 balmacaan
