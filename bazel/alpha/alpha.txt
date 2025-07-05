@@ -12133,7 +12133,6 @@ ancestorially
 ancestors
 ancestral
 ancestrally
-ancestry
 autocue
 ancestrian
 allodge
@@ -23675,6 +23674,7 @@ answer
 anthropogeography
 aurophore
 aurorally
+ancestry
 aurore
 aurorian
 aurorium
