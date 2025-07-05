@@ -2081,6 +2081,7 @@ ferngrower
 frontspiece
 feinter
 feudary
+filicides
 fundi
 facedown
 faucalize
@@ -7434,7 +7435,6 @@ falconers
 firefang
 footmen
 forwarder
-filicides
 fileable
 fillemot
 firefall
