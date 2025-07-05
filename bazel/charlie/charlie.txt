@@ -11040,7 +11040,6 @@ classicalness
 cartelism
 coigns
 cokers
-crost
 ceramic
 chiromantic
 cabret
@@ -23835,6 +23834,7 @@ contrecoup
 contredanse
 contredanses
 contreface
+crost
 coryphees
 contrefort
 contrepartie
