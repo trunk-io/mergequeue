@@ -13692,7 +13692,6 @@ cymbalist
 crapshooting
 cymbalists
 cymballed
-cob
 cymballing
 cymbalom
 cimbaloms
@@ -26829,6 +26828,7 @@ counterexercise
 cyclometry
 counterextension
 circumduce
+cob
 counterfact
 carniferous
 counterfactual
