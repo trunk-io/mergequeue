@@ -1324,7 +1324,6 @@ cistvaen
 cossyrite
 calicles
 calycles
-calycli
 calico
 cormophytic
 calicoback
@@ -3798,6 +3797,7 @@ carbene
 cantorian
 carbide
 cytoblastematous
+calycli
 classicize
 carbyl
 catchy
