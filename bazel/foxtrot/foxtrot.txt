@@ -2959,7 +2959,6 @@ formicarium
 fuzz
 frabjously
 formats
-foaled
 fractioning
 fettlings
 farcin
@@ -10546,6 +10545,7 @@ feelies
 forehanded
 falltime
 forceput
+foaled
 forcipiform
 frowze
 franking
