@@ -4729,6 +4729,7 @@ fixer
 fixers
 forefeeling
 fixidity
+fedifragous
 fixing
 flannelleaf
 fixt
@@ -5210,7 +5211,6 @@ francolin
 frontate
 frozenhearted
 fruiters
-fedifragous
 furmente
 flaggish
 furial
