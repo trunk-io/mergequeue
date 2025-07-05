@@ -22070,6 +22070,7 @@ asterolepis
 asterope
 amnestic
 accordature
+autochronograph
 amphibichnite
 anaunter
 asterophyllite
@@ -23965,7 +23966,6 @@ autochemical
 aminopolypeptidase
 autocholecystectomy
 autochromy
-autochronograph
 autochthon
 autochthonal
 autochthones
