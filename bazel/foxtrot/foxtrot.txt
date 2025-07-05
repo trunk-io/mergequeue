@@ -3176,6 +3176,7 @@ frowstier
 fogbank
 facsimile
 fibrocement
+frowstiness
 faint
 federalness
 fluentness
@@ -3664,7 +3665,6 @@ frosting
 fili
 foreact
 forzato
-frowstiness
 filially
 filiating
 fragmentised
