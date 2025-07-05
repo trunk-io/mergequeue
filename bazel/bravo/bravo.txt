@@ -5644,6 +5644,7 @@ brunet
 baggages
 backlashing
 bima
+bootes
 berrypicking
 blarina
 bridelike
@@ -12832,7 +12833,6 @@ bibless
 boomkin
 boomkins
 barquest
-bootes
 baseboard
 burglary
 basiliscine
