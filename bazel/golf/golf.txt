@@ -2370,6 +2370,7 @@ gloppy
 generic
 grow
 guianese
+geomys
 groomed
 gauk
 gruesomer
@@ -9998,7 +9999,6 @@ gudame
 gibberose
 gone
 gentlemanship
-geomys
 gamba
 gumdigger
 garlandwise
