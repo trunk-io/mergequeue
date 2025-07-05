@@ -24974,7 +24974,6 @@ corby
 cystine
 corbicula
 corbiculate
-cellulolytic
 corbiculum
 corbie
 corbies
@@ -30573,6 +30572,7 @@ cubti
 cuca
 clambers
 chinese
+cellulolytic
 conduction
 cuchia
 churchliness

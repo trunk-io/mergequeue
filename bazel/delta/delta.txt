@@ -1611,6 +1611,7 @@ deliverable
 difficulty
 daylong
 dimetrodon
+duplexity
 delineates
 deodate
 domify
@@ -4427,7 +4428,6 @@ dematiaceae
 dimuence
 dissepiment
 dragonets
-duplexity
 dizening
 drawk
 demeanor
