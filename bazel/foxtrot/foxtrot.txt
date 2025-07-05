@@ -3576,6 +3576,7 @@ falcones
 fastigiate
 forcepses
 fulgorid
+flaperon
 foreallot
 figurer
 flyweight
@@ -5082,7 +5083,6 @@ frigger
 flowered
 ferroaluminum
 fatteners
-flaperon
 flippantly
 flirter
 flappable
