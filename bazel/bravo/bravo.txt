@@ -994,6 +994,7 @@ bewitch
 bourdon
 bayardly
 blinger
+burleycue
 baycuru
 baidarka
 baidarkas
@@ -17698,7 +17699,6 @@ blackfin
 blueings
 burlaps
 boomlets
-burleycue
 burler
 blisterous
 burlesquer
