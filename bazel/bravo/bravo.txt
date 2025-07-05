@@ -930,6 +930,7 @@ baker
 brumby
 bahadur
 beverage
+bobbling
 basiophthalmite
 bahay
 bahaist
@@ -13088,7 +13089,6 @@ bulimic
 backblocks
 buffeting
 beryls
-bobbling
 backfurrow
 baalath
 bodyguard
