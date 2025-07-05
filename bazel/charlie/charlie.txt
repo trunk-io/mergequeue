@@ -8660,7 +8660,6 @@ categorical
 chanceful
 chancefulness
 chancey
-chanceled
 cardiacea
 chanceless
 cestoda
@@ -14228,6 +14227,7 @@ corticoid
 cyclographer
 circlets
 cochleas
+chanceled
 circocele
 colloquialisms
 codecree
