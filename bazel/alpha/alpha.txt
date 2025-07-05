@@ -2108,7 +2108,6 @@ agglutinations
 allopatry
 antadiform
 achilleine
-abnormalness
 achilles
 anthropological
 alfin
@@ -15725,6 +15724,7 @@ aurinasal
 antipatriot
 antipatriotic
 afterfermentation
+abnormalness
 abkary
 antipatriotically
 antipatriotism
