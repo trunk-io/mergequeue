@@ -18508,7 +18508,6 @@ capillitial
 crystalloblastic
 centrale
 cograil
-conjecture
 chilipepper
 crestmoreite
 chaogenous
@@ -20654,6 +20653,7 @@ compilator
 compileable
 compiled
 compilement
+conjecture
 cogitatingly
 comping
 collectarium
