@@ -1637,6 +1637,7 @@ emissarium
 epiblastic
 egressed
 egresses
+egoist
 extraphysiological
 educed
 expounded
@@ -3356,7 +3357,6 @@ exotism
 exurbanite
 exacters
 emphase
-egoist
 encomia
 embargoes
 endocrinologist
