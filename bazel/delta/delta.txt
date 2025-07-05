@@ -2663,7 +2663,6 @@ decompensations
 dasylirion
 doorkeeper
 decompiler
-decomposable
 deviceful
 decomposer
 debrief
@@ -4897,6 +4896,7 @@ demonishness
 disozonize
 dismaying
 debited
+decomposable
 demonists
 dimenhydrinate
 demonized
