@@ -154,6 +154,7 @@ facsimiled
 fracturable
 frigidaria
 flayers
+forsworn
 fifthly
 fermerer
 folden
@@ -10880,7 +10881,6 @@ fulled
 feeing
 fliskier
 fossarian
-forsworn
 falloffs
 fasciculus
 fulleries
