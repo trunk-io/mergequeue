@@ -10944,7 +10944,6 @@ decerebrize
 diruption
 dereference
 deployed
-disable
 denazify
 disabled
 doorplates
@@ -15033,6 +15032,7 @@ dogberry
 dogberryism
 dubbeh
 dogboat
+disable
 diathermacy
 downcurved
 defogs
