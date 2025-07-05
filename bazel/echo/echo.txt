@@ -3336,6 +3336,7 @@ esquirearchy
 emoted
 egal
 explorator
+enviroment
 excursioner
 envelopes
 encyclopaedial
@@ -11213,7 +11214,6 @@ elinguation
 embussed
 embottle
 electragist
-enviroment
 exonuclease
 endospermic
 exanthema
