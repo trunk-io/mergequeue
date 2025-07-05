@@ -4177,7 +4177,6 @@ bulgy
 beastman
 beastship
 beat
-benches
 beatae
 beatee
 bleery
@@ -17810,6 +17809,7 @@ buoyances
 breakback
 burroweed
 burrows
+benches
 benevolent
 burrstone
 bude
