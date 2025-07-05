@@ -2733,7 +2733,6 @@ foremelt
 foghorns
 feasing
 ferulaceous
-ferular
 foreimpression
 fireshaft
 feruled
@@ -9889,6 +9888,7 @@ fundatorial
 flavanthrone
 fogeys
 feridgi
+ferular
 forefelt
 feterita
 feverroot
