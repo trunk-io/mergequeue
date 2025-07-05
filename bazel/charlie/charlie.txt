@@ -9665,6 +9665,7 @@ checks
 chapatty
 checkstring
 cuissen
+chetif
 checksum
 construct
 checksummed
@@ -25097,7 +25098,6 @@ coreidae
 caeciform
 californians
 coreign
-chetif
 coreigner
 coreigns
 corejoice
