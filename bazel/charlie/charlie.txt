@@ -2075,7 +2075,6 @@ campaigners
 campaigns
 colostric
 campana
-campane
 campanella
 coadjuvancy
 campania
@@ -22180,6 +22179,7 @@ confronter
 connivently
 censureship
 confrontment
+campane
 cannonballs
 caponiser
 cyanophycin
