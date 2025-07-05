@@ -3549,7 +3549,6 @@ allosterically
 adenemphractic
 adenylic
 avichi
-adatom
 adenitis
 adenization
 adenoacanthoma
@@ -8523,6 +8522,7 @@ albertina
 amebocyte
 autophyllogeny
 alkanol
+adatom
 alkaphrah
 alkapton
 alkaptone
