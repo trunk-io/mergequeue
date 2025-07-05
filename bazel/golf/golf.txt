@@ -4877,6 +4877,7 @@ globularity
 guest
 greensand
 grudge
+glowed
 greeter
 glaizie
 genappe
@@ -4993,7 +4994,6 @@ grovels
 gonocheme
 genesiology
 garavance
-glowed
 gelt
 glaum
 glariness
