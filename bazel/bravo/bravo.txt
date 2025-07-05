@@ -6552,7 +6552,6 @@ browis
 berakah
 breadstuff
 bosnisch
-bewelcome
 bavarois
 beaming
 backplanes
@@ -7237,6 +7236,7 @@ bestiarist
 basifacial
 bestirs
 bestock
+bewelcome
 bestow
 bestowment
 burgee
