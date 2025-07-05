@@ -6219,7 +6219,6 @@ greaves
 goatskins
 gopura
 goatstone
-gaum
 goatweed
 guerrillaism
 genitures
@@ -10281,6 +10280,7 @@ garnel
 gonimoblast
 guitar
 gaumish
+gaum
 grecque
 glander
 gourmet
