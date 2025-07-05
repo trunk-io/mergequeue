@@ -646,7 +646,6 @@ disrange
 damosel
 drachms
 decapitalize
-damped
 desquamated
 dukely
 deafen
@@ -8258,6 +8257,7 @@ dissectors
 diorism
 diadochian
 diadochic
+damped
 diadochite
 dethroner
 diadochokinesia
