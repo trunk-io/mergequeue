@@ -4645,6 +4645,7 @@ girshes
 gipsyish
 geomorphologic
 glossarian
+grogshop
 gerbilles
 glassin
 guisard
@@ -9302,7 +9303,6 @@ generale
 gaeldom
 goading
 ghosted
-grogshop
 groin
 gigmaness
 geosyncline
