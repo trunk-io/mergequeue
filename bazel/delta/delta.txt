@@ -3993,6 +3993,7 @@ decompound
 delassement
 dindling
 drugless
+dermutation
 dustman
 decontaminator
 disquixote
@@ -11832,7 +11833,6 @@ dogfall
 disjunctions
 default
 dined
-dermutation
 discretion
 discretional
 delivering
