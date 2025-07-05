@@ -13801,7 +13801,6 @@ anorth
 arethusa
 atacamite
 anorthite
-antiparalytic
 anorthitic
 antiliturgic
 anorthographic
@@ -16779,6 +16778,7 @@ angelim
 adultoid
 aphydrotropic
 aphydrotropism
+antiparalytic
 aphilanthropy
 aphylly
 abidi
