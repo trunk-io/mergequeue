@@ -5855,6 +5855,7 @@ floatage
 farmeries
 fayal
 fluochloride
+fruitery
 fattening
 fierasfer
 fodders
@@ -6653,7 +6654,6 @@ fireweeds
 flatlet
 fairgrass
 flaggers
-fruitery
 funds
 fancymonger
 focussed
