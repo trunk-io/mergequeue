@@ -6785,7 +6785,6 @@ antimoralist
 aglipayan
 airfoil
 airfoils
-adiate
 airglow
 airglows
 airgraphics
@@ -9474,6 +9473,7 @@ alterman
 altern
 alternacy
 alternamente
+adiate
 aframerican
 antilocapridae
 archaeogeology
