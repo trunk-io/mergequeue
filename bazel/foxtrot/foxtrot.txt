@@ -2241,7 +2241,6 @@ farmhouse
 fluster
 feudalism
 felts
-forthtell
 feltwort
 fastidiosity
 flaggier
@@ -8083,6 +8082,7 @@ foyboat
 forseeable
 forme
 fulminated
+forthtell
 femcee
 faradise
 foreswear
