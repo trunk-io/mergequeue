@@ -1129,7 +1129,6 @@ frizer
 flichters
 farreachingly
 fernleaf
-federates
 flacks
 farrel
 figuresome
@@ -5755,6 +5754,7 @@ forestcraft
 fathoms
 furnage
 fungistatic
+federates
 fernery
 frequentation
 fractuosity
