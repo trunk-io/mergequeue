@@ -8219,6 +8219,7 @@ graphometric
 gara
 galenite
 glissaded
+gland
 groundless
 gladii
 geoaesthesia
@@ -9487,7 +9488,6 @@ galvanothermy
 grundlov
 graceful
 group
-gland
 germanophobist
 gammoner
 groupable
