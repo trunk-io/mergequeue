@@ -11040,7 +11040,6 @@ anathematiser
 amovable
 acronarcotic
 abatic
-amove
 amylolytic
 ampangabeite
 ampasimenite
@@ -21220,6 +21219,7 @@ ashrama
 ashtoreth
 aspartic
 ashvamedha
+amove
 ashwort
 aperispermic
 asia
