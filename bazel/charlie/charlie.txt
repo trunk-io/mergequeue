@@ -13142,7 +13142,6 @@ colloquize
 cyanoplastid
 cyanoplatinite
 cyanoplatinous
-cyanose
 cyanoses
 cyanosis
 chemitype
@@ -24733,6 +24732,7 @@ chamidae
 closenesses
 copra
 copraemia
+cyanose
 cencerros
 copraemic
 cruisingly
