@@ -2951,7 +2951,6 @@ ferlies
 funks
 fetterlock
 flatfish
-forewing
 feign
 foxship
 frisettes
@@ -9647,6 +9646,7 @@ frons
 freeloaded
 freemason
 florate
+forewing
 freemasonic
 floriform
 freemasonical
