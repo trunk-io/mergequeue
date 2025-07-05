@@ -12508,7 +12508,6 @@ aye
 arvo
 anencephalus
 anenst
-arteriosclerotic
 agaric
 anent
 anepia
@@ -14583,6 +14582,7 @@ allotrope
 antiacid
 antiaditis
 asuang
+arteriosclerotic
 antiadministration
 audiogram
 animalities
