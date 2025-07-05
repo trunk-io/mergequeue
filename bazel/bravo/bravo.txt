@@ -2375,7 +2375,6 @@ boxwork
 blip
 bebeeru
 barcone
-banshie
 belabors
 barcoo
 bemoisten
@@ -9274,6 +9273,7 @@ bracteiform
 byplay
 bottonhook
 bullfrogs
+banshie
 batfowler
 brownie
 broncholithiasis
