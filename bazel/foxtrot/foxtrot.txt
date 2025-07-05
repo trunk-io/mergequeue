@@ -980,7 +980,6 @@ foundry
 ft
 fasola
 fourchite
-fanfishes
 flightless
 flashing
 faerie
@@ -11660,6 +11659,7 @@ franchiser
 foreknowing
 fusus
 fougade
+fanfishes
 filoselle
 forcingly
 farasula
