@@ -3790,7 +3790,6 @@ grimsir
 goldang
 gids
 gazes
-grandchild
 granulitize
 gradientia
 gerontism
@@ -10353,6 +10352,7 @@ gruffily
 greenlets
 gigabytes
 gangbuster
+grandchild
 glycerogel
 geum
 gamine
