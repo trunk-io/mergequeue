@@ -8737,7 +8737,6 @@ diastematic
 diastematomyelia
 deathrate
 depolarizing
-diastereoisomerism
 diastereomer
 dodges
 druid
@@ -13599,6 +13598,7 @@ disseminations
 disgracement
 digredient
 depeopling
+diastereoisomerism
 disseminative
 discretionary
 dissimulators
