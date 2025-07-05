@@ -2656,7 +2656,6 @@ bellying
 bable
 barling
 bortz
-bluestone
 bertholletia
 barghest
 breechloader
@@ -9420,6 +9419,7 @@ braider
 biophotometer
 bouncily
 bullyhuff
+bluestone
 bungs
 bathman
 balustrades
