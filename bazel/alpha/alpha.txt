@@ -2436,7 +2436,6 @@ aclinic
 ambulate
 acloud
 anethole
-acmaea
 acmaeidae
 acmaesthesia
 acmatic
@@ -17402,6 +17401,7 @@ acidophilus
 apostrophizing
 apostrophus
 apotactic
+acmaea
 apotactici
 adducent
 agriculturalist
