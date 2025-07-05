@@ -8418,7 +8418,6 @@ coonskin
 complexity
 carbure
 corallet
-choyroot
 chalinitis
 chalkboard
 chalkboards
@@ -23077,6 +23076,7 @@ cotula
 conspecific
 conspection
 coccosphere
+choyroot
 conspectus
 cullying
 colias
