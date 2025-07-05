@@ -6665,7 +6665,6 @@ guttler
 grint
 gibbet
 gulae
-gobmouthed
 growable
 gymnosperm
 grattage
@@ -9413,6 +9412,7 @@ glissandi
 gymel
 gainset
 glycerolize
+gobmouthed
 grottoes
 gelatose
 gaywings
