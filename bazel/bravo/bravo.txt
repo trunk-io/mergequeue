@@ -475,7 +475,6 @@ beggarwoman
 blaspheming
 bibliographic
 benzhydroxamic
-brontosauri
 bahuts
 backspaced
 backspacefile
@@ -8740,6 +8739,7 @@ bullethead
 betoss
 bottomry
 brule
+brontosauri
 barhopping
 bimetals
 breislakite
