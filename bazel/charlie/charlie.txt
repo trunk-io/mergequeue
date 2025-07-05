@@ -6791,6 +6791,7 @@ celature
 cele
 celeb
 capicha
+collenchyme
 clition
 celebrant
 cohesions
@@ -19098,7 +19099,6 @@ collembole
 cokernut
 collembolous
 checkweighman
-collenchyme
 collencyte
 colleri
 collery
