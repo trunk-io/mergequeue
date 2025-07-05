@@ -7207,6 +7207,7 @@ gribble
 gemination
 gloater
 gammas
+gimballing
 gromyl
 gormand
 gibbus
@@ -8753,7 +8754,6 @@ greensickness
 glummer
 greenstone
 goldfields
-gimballing
 gauntree
 gange
 golems
