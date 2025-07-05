@@ -4814,7 +4814,6 @@ encomic
 excipient
 encomiumia
 encompassment
-euskara
 extinguishing
 excusation
 episiotomy
@@ -9953,6 +9952,7 @@ estimation
 eluders
 exilian
 earmarks
+euskara
 estimations
 estimative
 eprosy
