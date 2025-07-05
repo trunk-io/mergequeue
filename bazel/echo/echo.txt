@@ -2209,6 +2209,7 @@ eggless
 equiprobable
 elderwoman
 ervenholder
+encourage
 encrisp
 eldest
 effigiated
@@ -4840,7 +4841,6 @@ equilibrate
 exhalate
 equitable
 enforcedly
-encourage
 encouraged
 excellences
 epigne
