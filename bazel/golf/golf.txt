@@ -2517,7 +2517,6 @@ graywall
 guv
 gabbards
 gristy
-gangliasthenia
 goosefish
 generalizers
 granodiorite
@@ -7070,6 +7069,7 @@ gist
 garbologist
 gothics
 glaucously
+gangliasthenia
 gatter
 guacin
 grottoed
