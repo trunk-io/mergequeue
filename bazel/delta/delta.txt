@@ -2574,7 +2574,6 @@ declivent
 derive
 declivity
 ducklingship
-dangled
 detoured
 dermobranchia
 durable
@@ -4740,6 +4739,7 @@ decking
 derealization
 demiurgos
 dipmeter
+dangled
 dewaxed
 drifting
 ducklar
