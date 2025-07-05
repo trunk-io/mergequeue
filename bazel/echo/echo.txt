@@ -3037,6 +3037,7 @@ equipoises
 efficacity
 estriche
 enjoy
+equilibrator
 electrothermostat
 ellenyard
 excurvature
@@ -4800,7 +4801,6 @@ eventides
 equitangential
 encolour
 encolpia
-equilibrator
 enduro
 epidosite
 eccoproticophoric
