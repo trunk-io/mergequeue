@@ -2499,7 +2499,6 @@ glen
 gromatic
 grue
 generations
-gastrula
 gobangs
 generalities
 grandezza
@@ -3125,6 +3124,7 @@ gluing
 glycans
 geraniaceae
 gelatinobromide
+gastrula
 gasproof
 glycyrrhiza
 gingelies
