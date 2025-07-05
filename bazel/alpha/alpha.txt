@@ -6564,6 +6564,7 @@ aeromechanical
 aeolina
 ayenst
 antibaryon
+allomerize
 alectrionidae
 aigialosaur
 aigialosauridae
@@ -17912,7 +17913,6 @@ appriser
 apprisers
 apprising
 antioxidizing
-allomerize
 apprizal
 apprize
 aborting
