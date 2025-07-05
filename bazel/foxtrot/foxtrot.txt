@@ -88,7 +88,6 @@ forewit
 filching
 fisticuffs
 felinities
-faces
 folkright
 flattening
 flowerfence
@@ -5984,6 +5983,7 @@ fibromembrane
 floods
 firemaster
 foreordains
+faces
 foisons
 fortifiable
 fantaisie
