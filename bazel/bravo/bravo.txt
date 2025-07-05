@@ -5605,7 +5605,6 @@ biotype
 beknow
 blimpishly
 bel
-behoovingly
 bela
 beluchi
 burgonets
@@ -12043,6 +12042,7 @@ bubonidae
 boycotted
 brachiated
 benzotetrazole
+behoovingly
 boid
 boydekyn
 boydom
