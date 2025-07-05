@@ -11904,7 +11904,6 @@ alligations
 appendiculata
 axoneme
 aesthesia
-adosculation
 anapnoic
 anapodeictic
 annihilates
@@ -12894,6 +12893,7 @@ angry
 angriness
 angstroms
 arrivers
+adosculation
 audibly
 athetoids
 angsts
