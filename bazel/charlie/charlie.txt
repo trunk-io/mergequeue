@@ -29059,6 +29059,7 @@ crimping
 chattable
 crimpness
 crimps
+counteraffirm
 cantatory
 corbans
 crimson
@@ -29638,7 +29639,6 @@ cotingid
 cruth
 crocodylus
 chronol
-counteraffirm
 croconic
 convincedness
 castellet
