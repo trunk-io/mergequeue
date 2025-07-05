@@ -6407,6 +6407,7 @@ graduates
 gregorian
 grandeeship
 geneses
+gentilization
 gallivanted
 gouger
 guineapig
@@ -7872,7 +7873,6 @@ granate
 grandad
 goggling
 gnomically
-gentilization
 grandads
 goracco
 gerbil
