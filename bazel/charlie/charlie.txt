@@ -14704,7 +14704,6 @@ cryptorchid
 catholicism
 cystidium
 candescent
-cystiferous
 cyath
 cystiform
 cystigerous
@@ -19834,6 +19833,7 @@ copolymers
 combustible
 chambellan
 combustibleness
+cystiferous
 combusting
 combustion
 combustious
