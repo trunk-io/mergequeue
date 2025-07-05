@@ -2948,7 +2948,6 @@ elidible
 eligibility
 epistasy
 eligibles
-entrecotes
 equipede
 enjoining
 encephalopsychesis
@@ -6212,6 +6211,7 @@ endotheliolytic
 enniche
 ennoble
 engraft
+entrecotes
 episememe
 entrappingly
 entocondyloid
