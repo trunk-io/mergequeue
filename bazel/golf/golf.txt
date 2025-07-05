@@ -6682,7 +6682,6 @@ guid
 ginglyni
 gonid
 greengrocery
-gabeler
 gluttonies
 geer
 graphitic
@@ -8511,6 +8510,7 @@ grandada
 graving
 goatsucker
 gleds
+gabeler
 grouped
 gravisphere
 grangerised
