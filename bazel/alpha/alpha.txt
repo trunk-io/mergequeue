@@ -19053,7 +19053,6 @@ archphilosopher
 announcer
 archpilferer
 argylls
-aphicide
 archswindler
 adenin
 almogavar
@@ -23681,6 +23680,7 @@ aurorium
 algorithm
 antifoggant
 altared
+aphicide
 ashkenazic
 additionally
 aleppine

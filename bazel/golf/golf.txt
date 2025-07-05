@@ -157,6 +157,7 @@ guesthouse
 gingerroot
 gardenmaker
 gamond
+gladioluses
 graniticoline
 gunwhale
 gamboges
@@ -4928,7 +4929,6 @@ gardens
 grenadierly
 grondwet
 gamines
-gladioluses
 girondist
 gavelkind
 glamors
