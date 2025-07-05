@@ -5155,7 +5155,6 @@ enoch
 expirator
 electroosmotic
 extrapolate
-endoenzyme
 entresol
 elytrorrhaphy
 endoergic
@@ -11975,6 +11974,7 @@ epipolic
 epistemophilic
 evaporation
 epiploon
+endoenzyme
 eugenic
 endangiitis
 excitations
