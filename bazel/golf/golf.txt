@@ -1846,6 +1846,7 @@ gatherers
 goldbug
 galumph
 gooma
+gardened
 gastroenteroanastomosis
 gamenesses
 gatherings
@@ -4354,7 +4355,6 @@ galops
 ginglymostomoid
 gutturine
 gondi
-gardened
 gerund
 ginhouse
 gare
