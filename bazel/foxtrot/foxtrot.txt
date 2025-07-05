@@ -534,6 +534,7 @@ feodum
 fishbone
 fakirs
 flapcake
+foreshorten
 falbelo
 firerooms
 frowny
@@ -8850,7 +8851,6 @@ foreigners
 frenzily
 fot
 florideous
-foreshorten
 fictious
 freeholder
 folia
