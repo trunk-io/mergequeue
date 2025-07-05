@@ -1299,7 +1299,6 @@ epithalamion
 encircler
 endogenesis
 eassel
-enteroid
 epyllia
 epicranius
 effectiveness
@@ -11718,6 +11717,7 @@ escolar
 exalt
 enfolding
 eventualities
+enteroid
 exaltation
 erenow
 extract
