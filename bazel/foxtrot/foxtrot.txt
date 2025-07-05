@@ -2148,6 +2148,7 @@ forebodies
 facture
 finetop
 favorless
+famulus
 frument
 fellable
 feminist
@@ -8548,7 +8549,6 @@ forgainst
 formulisation
 friaries
 flinchers
-famulus
 fred
 frenchwise
 francium
