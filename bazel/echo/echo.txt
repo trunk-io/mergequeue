@@ -6566,6 +6566,7 @@ entails
 eaglet
 embarrassedly
 egipto
+electrotest
 ensmall
 encephalorrhagia
 erythrocytometer
@@ -10071,7 +10072,6 @@ editor
 enteropexy
 efford
 etching
-electrotest
 eteostic
 elemicin
 edgrew
