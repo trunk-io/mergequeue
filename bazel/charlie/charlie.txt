@@ -4067,7 +4067,6 @@ cardamons
 cardamum
 cardanol
 chymist
-cardboard
 crissum
 cardcases
 cardel
@@ -15988,6 +15987,7 @@ cleidorrhexis
 chiripa
 cleidotripsy
 cleistocarp
+cardboard
 caulotaxy
 cleistocarpous
 cleistogamic
