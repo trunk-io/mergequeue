@@ -5910,7 +5910,6 @@ catenarian
 catenas
 caudaite
 catenate
-crooisite
 catenating
 catenation
 catenative
@@ -23762,6 +23761,7 @@ clinospore
 chalcograph
 contraposit
 cataplexy
+crooisite
 contrapositive
 contrapositives
 contrapposto
