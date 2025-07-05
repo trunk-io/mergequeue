@@ -5265,7 +5265,6 @@ graveling
 geometries
 glossopteris
 glycerin
-gamelan
 gromil
 glycerite
 guardrails
@@ -5995,6 +5994,7 @@ gremmy
 gusting
 gnar
 germinancy
+gamelan
 germanization
 guanabana
 gnarly
