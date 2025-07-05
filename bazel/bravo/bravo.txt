@@ -6417,7 +6417,6 @@ belgium
 benzoglycolic
 benzoglyoxaline
 balancewise
-benzohydrol
 benzoylated
 becuna
 benzoylation
@@ -16597,6 +16596,7 @@ balza
 buccolabial
 bides
 bucconinae
+benzohydrol
 buccopharyngeal
 bucculae
 butyr
