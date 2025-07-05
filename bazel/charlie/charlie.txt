@@ -9404,7 +9404,6 @@ circuitously
 cassidoine
 chattererz
 chattery
-chattermag
 chattermagging
 chatters
 chatti
@@ -23607,6 +23606,7 @@ capfuls
 continuos
 continuously
 civilization
+chattermag
 continuum
 contise
 compendiate
