@@ -5109,6 +5109,7 @@ eobiont
 estray
 edentulous
 endocoele
+endosiphon
 exploiter
 endocolpitis
 endoconidia
@@ -9390,7 +9391,6 @@ erinys
 ew
 eurythmic
 exsputory
-endosiphon
 erugo
 enteropexia
 erugos
