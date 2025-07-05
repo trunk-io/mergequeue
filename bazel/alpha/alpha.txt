@@ -10164,7 +10164,6 @@ ambulator
 ambulatory
 ambulatoria
 alternating
-anurans
 affluent
 aphanitism
 agraphias
@@ -12723,6 +12722,7 @@ angiocholecystitis
 angiodermatitis
 angiodiascopy
 atrabile
+anurans
 angiogeny
 anyway
 angiography
