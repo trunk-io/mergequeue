@@ -4867,7 +4867,6 @@ fancifulness
 flinching
 fashionmonging
 fingerflower
-fullwords
 ferrite
 faena
 fellowshipping
@@ -7333,6 +7332,7 @@ fulcrum
 feathered
 fiddleheaded
 forechamber
+fullwords
 foraminiferal
 fogs
 fidgetingly
