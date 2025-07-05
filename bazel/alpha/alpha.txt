@@ -4234,6 +4234,7 @@ aumous
 adrenalin
 aparejo
 adrenalize
+anticathexis
 ambitus
 afounde
 archconspirator
@@ -14749,7 +14750,6 @@ anticatalyst
 anticatalytic
 anticatalytically
 anticatarrhal
-anticathexis
 afernan
 altiscope
 anticaustic
