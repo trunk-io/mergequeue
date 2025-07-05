@@ -1558,7 +1558,6 @@ diffusibly
 direfulness
 deadness
 deadnesses
-dustproof
 deadpanned
 deadpans
 depayse
@@ -13446,6 +13445,7 @@ dodgy
 disquisitions
 disquisitively
 disquisitor
+dustproof
 dismarble
 deepfreezed
 disform
