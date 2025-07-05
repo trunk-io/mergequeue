@@ -1197,7 +1197,6 @@ eident
 educatable
 educatedness
 electrolyzable
-eudiometric
 educates
 engrainedly
 egrimony
@@ -9467,6 +9466,7 @@ entonic
 explainer
 escapeless
 enflagellation
+eudiometric
 enstool
 echeneid
 eosins
