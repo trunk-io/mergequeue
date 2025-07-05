@@ -4543,7 +4543,6 @@ greyish
 guadalcazarite
 graphometry
 gagger
-grinter
 guardrail
 garotter
 genoms
@@ -7521,6 +7520,7 @@ gaspiness
 geothlypis
 guardless
 grando
+grinter
 generousness
 gruffer
 gownsmen
