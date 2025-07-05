@@ -15323,6 +15323,7 @@ brigadier
 brachypterous
 brigandine
 brigandish
+butyrometric
 bandhu
 brigantia
 brigantines
@@ -18171,7 +18172,6 @@ biogenase
 butyrometer
 barometrically
 barrio
-butyrometric
 botchwork
 begorry
 bingle
