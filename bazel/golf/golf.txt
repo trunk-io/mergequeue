@@ -3707,7 +3707,6 @@ grincome
 giantsize
 gaub
 genoblastic
-gouvernantes
 goodish
 giarra
 gherao
@@ -9504,6 +9503,7 @@ groutier
 gaes
 gins
 gyving
+gouvernantes
 groupwise
 goloch
 goodlike
