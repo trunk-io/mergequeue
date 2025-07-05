@@ -2661,7 +2661,6 @@ decompensating
 delinquents
 decompensations
 dasylirion
-doorkeeper
 decompiler
 decomposable
 deviceful
@@ -5419,6 +5418,7 @@ diamonds
 duodecimality
 denuclearized
 desegregating
+doorkeeper
 deyhouse
 delicatesse
 daffodil
