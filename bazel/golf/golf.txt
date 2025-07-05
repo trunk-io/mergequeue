@@ -5691,7 +5691,6 @@ glossiest
 gybed
 glossinas
 gertrude
-glowbard
 gerres
 gloveress
 guidership
@@ -8381,6 +8380,7 @@ gaseous
 gratis
 graphitization
 grad
+glowbard
 graphic
 gladiolas
 galravage
