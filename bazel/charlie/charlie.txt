@@ -3746,7 +3746,6 @@ coroparelcysis
 chetty
 caravans
 caravansary
-caravansaries
 caravanserai
 chromoxylography
 caravanserial
@@ -6946,6 +6945,7 @@ classicized
 cypreses
 celom
 cytherean
+caravansaries
 chauvinistically
 chilliness
 celomata
