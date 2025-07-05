@@ -8312,7 +8312,6 @@ circumbendibuses
 chaitra
 charring
 chakari
-cheekpiece
 chakavski
 chakdar
 cymbling
@@ -30480,6 +30479,7 @@ cubicovariant
 corozos
 cubane
 cubangle
+cheekpiece
 cubanite
 cubatory
 cubature
