@@ -12116,6 +12116,7 @@ boldfacing
 boldhearted
 burd
 beloid
+bullit
 borborygm
 burbler
 boldheartedly
@@ -17381,7 +17382,6 @@ beignets
 bejeled
 bunglers
 bungling
-bullit
 bungos
 boyla
 bichromic
