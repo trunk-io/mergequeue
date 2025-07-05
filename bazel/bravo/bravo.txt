@@ -15066,7 +15066,6 @@ bandhor
 balter
 bashlyk
 bulging
-bloom
 berlina
 breviconic
 bunkered
@@ -16222,6 +16221,7 @@ brachysclereid
 browntail
 belgravia
 brownweed
+bloom
 bobolinks
 blabbed
 brassate
