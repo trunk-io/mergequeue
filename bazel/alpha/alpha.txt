@@ -19940,7 +19940,6 @@ armoires
 armonicas
 armor
 armoracia
-akuammin
 adonises
 armchairs
 ampoules
@@ -23478,6 +23477,7 @@ aularian
 advents
 algedi
 auld
+akuammin
 aulder
 auldest
 auldfarrantlike
