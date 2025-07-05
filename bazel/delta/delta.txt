@@ -9263,7 +9263,6 @@ derat
 dyeings
 deadpan
 dieldrin
-derelict
 decahedrodra
 dieldrins
 dyeleaves
@@ -15839,6 +15838,7 @@ deponed
 diseasy
 dictions
 demolishment
+derelict
 daring
 dioscoreaceae
 disocclude
