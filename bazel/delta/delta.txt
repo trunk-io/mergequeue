@@ -600,6 +600,7 @@ diathermal
 deposes
 doff
 dishpanful
+daman
 damnability
 damnabilities
 disegno
@@ -16610,7 +16611,6 @@ dragomanate
 disharmonic
 decompile
 disclaims
-daman
 dissimilated
 denunciate
 demifusion

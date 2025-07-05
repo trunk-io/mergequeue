@@ -316,7 +316,6 @@ biolith
 booter
 bakeware
 backslided
-backberend
 backbite
 beeman
 baize
@@ -9836,6 +9835,7 @@ bites
 birefringent
 bebat
 brubru
+backberend
 bytes
 bitewing
 bunked
