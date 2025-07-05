@@ -7342,7 +7342,6 @@ gazelles
 ghedda
 gothically
 greenfish
-gunflints
 gurgoyl
 gunnery
 gothish
@@ -7702,6 +7701,7 @@ gaumlike
 galvanizations
 gell
 gauby
+gunflints
 gabeller
 guaiasanol
 gentisin
