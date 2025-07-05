@@ -12069,7 +12069,6 @@ backward
 battiest
 babajaga
 boiserie
-boyship
 boisterous
 brangling
 boistous
@@ -15611,6 +15610,7 @@ broadcastings
 bullyragging
 bromeliaceous
 bacteriologist
+boyship
 beakerful
 broadcloth
 brutage
