@@ -4294,7 +4294,6 @@ deltohedron
 dogvanes
 dauerlauf
 delubra
-deluce
 delude
 dipperful
 detribalized
@@ -16890,6 +16889,7 @@ decanically
 deaired
 ddt
 dicyclic
+deluce
 diiambus
 drona
 dread
