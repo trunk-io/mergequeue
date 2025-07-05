@@ -3447,7 +3447,6 @@ cymene
 caprylyl
 caprylin
 coat
-caprylone
 caprimulgi
 chivarro
 caprimulgiformes
@@ -8323,6 +8322,7 @@ chakram
 carpentry
 chaksi
 chal
+caprylone
 complection
 chalaco
 chalah
