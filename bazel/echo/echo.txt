@@ -3687,7 +3687,6 @@ elements
 embryos
 esthesioblast
 embryotega
-etherialise
 ebony
 embryotegae
 eweries
@@ -3760,6 +3759,7 @@ efforce
 embussing
 espigle
 enecate
+etherialise
 explored
 emceeing
 escalader
