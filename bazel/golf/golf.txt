@@ -8555,7 +8555,6 @@ graziers
 gravidate
 grassland
 gullied
-goslarite
 gregge
 gotos
 goldanged
@@ -10178,6 +10177,7 @@ grovelings
 guido
 glade
 glaucium
+goslarite
 gladiolar
 guetar
 goos
