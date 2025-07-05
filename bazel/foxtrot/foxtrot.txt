@@ -5525,7 +5525,6 @@ flacker
 fleshmonger
 fcy
 flagfall
-fletcherism
 frontignac
 following
 fervours
@@ -9483,6 +9482,7 @@ furculum
 fastwalk
 fidele
 fraternities
+fletcherism
 figboy
 fantasm
 featish
