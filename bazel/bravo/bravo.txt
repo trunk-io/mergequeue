@@ -8213,7 +8213,6 @@ baleens
 byronically
 backspliced
 byestreet
-beatable
 boone
 battailous
 best
@@ -16791,6 +16790,7 @@ bacterioid
 buffable
 buffalo
 buffaloback
+beatable
 buffalofish
 buffaloing
 bulltoad
