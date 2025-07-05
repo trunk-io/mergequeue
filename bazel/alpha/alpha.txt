@@ -7795,7 +7795,6 @@ alditol
 aldm
 academias
 aurae
-anthozooid
 aphidicide
 aldazine
 aldoheptose
@@ -17292,6 +17291,7 @@ apoplexy
 apoplexious
 adamantoid
 anemometrographic
+anthozooid
 archmime
 aporhyolite
 allanites
