@@ -92,6 +92,7 @@ faces
 folkright
 flattening
 flowerfence
+febrile
 foliobranch
 fiendish
 flagrantness
@@ -1897,7 +1898,6 @@ feastless
 febrific
 flaccid
 feloid
-febrile
 forrue
 fibrinogenically
 fluidizer
