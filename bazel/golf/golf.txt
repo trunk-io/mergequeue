@@ -423,7 +423,6 @@ galeage
 goober
 gair
 glucuronide
-glucic
 gastrojejunal
 gamosepalous
 gardenable
@@ -5063,6 +5062,7 @@ galactose
 glyc
 gallberries
 grav
+glucic
 grittier
 gunman
 garboards
