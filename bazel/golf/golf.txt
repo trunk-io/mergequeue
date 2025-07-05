@@ -3756,7 +3756,6 @@ gygis
 gibstaff
 graceless
 galeche
-greyhound
 gratefulness
 gavelage
 gelatined
@@ -6660,6 +6659,7 @@ gumboils
 gastropancreatic
 genuflected
 goniatites
+greyhound
 garterless
 guttler
 grint
