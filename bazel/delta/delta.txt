@@ -4978,7 +4978,6 @@ demote
 demoted
 demotes
 disomus
-demotions
 deraign
 deferent
 dysmeromorph
@@ -6404,6 +6403,7 @@ displacing
 dixie
 derogating
 deceivableness
+demotions
 derogative
 derogator
 derogatory
