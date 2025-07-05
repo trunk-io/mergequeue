@@ -5531,7 +5531,6 @@ following
 fervours
 finnan
 fletchers
-furrower
 fisc
 faked
 filionymic
@@ -8573,6 +8572,7 @@ fasciation
 figurial
 ferules
 fornication
+furrower
 forest
 feigner
 fossilize
