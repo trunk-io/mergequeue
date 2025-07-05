@@ -4691,6 +4691,7 @@ endemics
 electromagnets
 encyclopedic
 ebauche
+eulachon
 encyclopedical
 expulsions
 etherialisation
@@ -6119,7 +6120,6 @@ encomienda
 epagogic
 emotional
 eltime
-eulachon
 elasmosaur
 ebullience
 evanesce
