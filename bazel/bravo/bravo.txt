@@ -1521,6 +1521,7 @@ ballads
 ballahou
 balete
 baralipton
+brugh
 bloodmonger
 blackware
 ballas
@@ -16263,7 +16264,6 @@ bleachman
 bruckleness
 belfries
 bespete
-brugh
 brugnatellite
 bizone
 benzoxy
