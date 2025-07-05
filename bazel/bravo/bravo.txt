@@ -3177,6 +3177,7 @@ benzins
 booklores
 byland
 bukat
+barbecue
 bhaga
 bollandist
 blastozooid
@@ -3973,7 +3974,6 @@ bicycles
 beslur
 beacons
 beadeye
-barbecue
 beader
 baalitical
 beerothite
