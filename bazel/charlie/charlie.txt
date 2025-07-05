@@ -6883,6 +6883,7 @@ cellars
 chirologies
 charivariing
 cellarwoman
+campal
 cellblock
 celled
 centennium
@@ -27732,7 +27733,6 @@ cowrie
 cowries
 cowroid
 crescentic
-campal
 catbrier
 corkscrews
 cowshed
