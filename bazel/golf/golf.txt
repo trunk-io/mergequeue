@@ -280,6 +280,7 @@ gibby
 gibing
 gavel
 gaslock
+gib
 gaddish
 groundliness
 grubstaked
@@ -10680,7 +10681,6 @@ generalty
 glycerols
 gurnard
 genomes
-gib
 gastroenteroptosis
 grayfish
 googol
