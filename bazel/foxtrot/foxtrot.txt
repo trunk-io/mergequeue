@@ -5345,7 +5345,6 @@ foregather
 fifteen
 fumarole
 feasts
-fant
 forcepslike
 foulmouthedly
 fiddlebrained
@@ -7232,6 +7231,7 @@ feodary
 flaxboard
 fungiform
 forewarner
+fant
 forepeak
 fordwine
 filature
