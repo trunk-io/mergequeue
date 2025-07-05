@@ -2536,7 +2536,6 @@ burgus
 barye
 burglarise
 bois
-bielenite
 barcolongo
 breadearner
 blepharocoloboma
@@ -11094,6 +11093,7 @@ blockheads
 blockholer
 beveto
 bedrip
+bielenite
 bilirubinic
 billy
 bioral
