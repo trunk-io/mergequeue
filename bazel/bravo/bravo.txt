@@ -4611,7 +4611,6 @@ bothriums
 ballant
 bedecked
 bedrid
-bebannered
 bedecking
 bulletproofed
 bankfull
@@ -17453,6 +17452,7 @@ beetling
 bacteroid
 bunoselenodont
 biatomic
+bebannered
 bandyman
 brulots
 bunted
