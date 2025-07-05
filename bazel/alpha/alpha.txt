@@ -5853,6 +5853,7 @@ agents
 ageometrical
 advisor
 ager
+atter
 agers
 autogenous
 ages
@@ -23100,7 +23101,6 @@ antitheistic
 arawakan
 adfix
 attenuators
-atter
 apathism
 attercop
 artophorion
