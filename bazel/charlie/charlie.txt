@@ -11488,7 +11488,6 @@ chiastic
 chloroplatinous
 chloroprene
 creature
-chloroquine
 coronas
 camagon
 cyclamates
@@ -15187,6 +15186,7 @@ clach
 clack
 clackama
 circumtropical
+chloroquine
 coronillin
 chinsed
 clacker
