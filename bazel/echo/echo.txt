@@ -1767,6 +1767,7 @@ epanorthoses
 electric
 eer
 eyepiece
+emboweling
 everard
 embattle
 eyepoint
@@ -12735,7 +12736,6 @@ exophthalmia
 embloom
 exenterating
 exophthalmus
-emboweling
 engramma
 exopod
 epigraphist
