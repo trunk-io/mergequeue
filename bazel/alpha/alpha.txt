@@ -4602,7 +4602,6 @@ agitates
 aecidial
 aecidioform
 abjunctive
-aecidiospore
 aecidiostage
 aglare
 aecidium
@@ -7165,6 +7164,7 @@ alabastrine
 alabastrites
 ascenders
 acidness
+aecidiospore
 alabastrums
 aethrioscope
 alacha
