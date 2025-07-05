@@ -11600,7 +11600,6 @@ bounced
 bathers
 bighorns
 bactritoid
-bm
 bombinate
 becomma
 badgeman
@@ -13697,6 +13696,7 @@ blanketmaker
 branched
 bourkha
 broideress
+bm
 balanceman
 blenchers
 bowlfuls
