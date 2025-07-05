@@ -10807,6 +10807,7 @@ ammonia
 ammoniacs
 acrisius
 artly
+auriculare
 ankaramite
 ammoniated
 ammoniating
@@ -23602,7 +23603,6 @@ atpoints
 absvolt
 auricle
 antiexpressively
-auriculare
 anticreativeness
 acridin
 auriculares
