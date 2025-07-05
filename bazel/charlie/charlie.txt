@@ -17433,7 +17433,6 @@ coassist
 coassistant
 culpas
 coassume
-crystallic
 coassuming
 coast
 coastal
@@ -20587,6 +20586,7 @@ compellers
 clayware
 copepodan
 compelling
+crystallic
 copycatted
 compellingly
 curblike
