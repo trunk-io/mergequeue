@@ -2611,7 +2611,6 @@ barkey
 briers
 barkery
 behn
-barkhan
 batman
 balistarii
 belostoma
@@ -4711,6 +4710,7 @@ bedlamised
 bedlamite
 bastardization
 bedlamitish
+barkhan
 bedub
 bovid
 bibliogenesis
