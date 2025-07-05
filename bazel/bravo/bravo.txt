@@ -4785,7 +4785,6 @@ burriest
 bougee
 bedroll
 bedrooms
-bruckle
 bedrowse
 bandicoots
 bedrugged
@@ -10673,6 +10672,7 @@ bichlorides
 brunissure
 belt
 bouleuteria
+bruckle
 bleary
 blearyeyedness
 bevel
