@@ -1088,7 +1088,6 @@ farley
 fulfill
 farmed
 farmeress
-farmerish
 fireling
 flerrying
 farmerly
@@ -7799,6 +7798,7 @@ fecundify
 fleaweed
 forenight
 flogger
+farmerish
 frondivorous
 foretype
 fleshiest
