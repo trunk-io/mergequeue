@@ -19722,7 +19722,6 @@ comaker
 comals
 comamie
 carrara
-coman
 comanche
 comanchean
 cohesion
@@ -26633,6 +26632,7 @@ counselee
 counseling
 counsellable
 counsellor
+coman
 counsellors
 counselor
 countability
