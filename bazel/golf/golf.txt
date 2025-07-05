@@ -3436,7 +3436,6 @@ gesticulations
 gentiin
 gregg
 gallimaufries
-goalers
 grosbeak
 gerontology
 gannetry
@@ -10518,6 +10517,7 @@ gigantic
 graveman
 gonocytes
 grecale
+goalers
 genuineness
 gemitores
 grecized
