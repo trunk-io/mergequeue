@@ -4344,7 +4344,6 @@ globules
 gharries
 gumbotil
 ginglymostoma
-graphicalness
 grylli
 gunky
 guz
@@ -9594,6 +9593,7 @@ gravimeters
 graphite
 girouettes
 growliest
+graphicalness
 gnathobdellida
 gunbarrel
 grimmiaceous
