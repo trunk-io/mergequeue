@@ -1850,7 +1850,6 @@ edematose
 eightpenny
 euler
 ecchymose
-epidiorite
 encystments
 errabund
 edestin
@@ -12574,6 +12573,7 @@ exite
 eranist
 extinction
 envied
+epidiorite
 enherit
 ensweeten
 exiture
