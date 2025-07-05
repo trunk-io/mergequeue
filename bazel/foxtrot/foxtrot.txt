@@ -7869,6 +7869,7 @@ facings
 flenses
 franger
 firestorm
+fretwise
 foreprize
 forepromise
 forepurpose
@@ -9261,7 +9262,6 @@ fraised
 fertilities
 futilely
 fraises
-fretwise
 fascinery
 faradomuscular
 frontispieced
