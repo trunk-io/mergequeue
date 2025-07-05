@@ -2284,6 +2284,7 @@ canafistola
 canafistolo
 canafistula
 canafistulo
+conjuror
 chlorapatite
 concertgoer
 canaglia
@@ -4862,7 +4863,6 @@ chem
 crosspost
 cressida
 cultigen
-conjuror
 contrariantly
 coffea
 carr
