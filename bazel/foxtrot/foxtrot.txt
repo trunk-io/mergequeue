@@ -119,6 +119,7 @@ fingertips
 freeport
 funtumia
 faciends
+flashcube
 featheredges
 fluidization
 facient
@@ -3380,7 +3381,6 @@ flyting
 flasket
 facewise
 forgiver
-flashcube
 furrows
 ferrohydrocyanic
 fossilologist
