@@ -5959,7 +5959,6 @@ depressurize
 dere
 defeatee
 depreter
-depriment
 deprint
 disinvite
 depriorize
@@ -18236,6 +18235,7 @@ discussant
 drogermen
 denaturate
 dishonorable
+depriment
 dumbfish
 doxologize
 djakarta
