@@ -5303,6 +5303,7 @@ cassata
 coalitions
 cassation
 caveats
+cordoned
 cerin
 cassegrain
 chromomeric
@@ -25049,7 +25050,6 @@ cordon
 cordonazos
 consarn
 chlorargyrite
-cordoned
 cordoning
 cordonnet
 chere
