@@ -18429,7 +18429,6 @@ counterbuilding
 conformers
 cogmen
 claypan
-chenevixite
 cognac
 curdier
 crookeries
@@ -21637,6 +21636,7 @@ condensation
 condensator
 corbeled
 crateris
+chenevixite
 condense
 condensed
 clead
