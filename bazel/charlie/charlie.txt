@@ -2041,7 +2041,6 @@ capitalizer
 cypresses
 camorristi
 cruelize
-camoudie
 coburgess
 camouflage
 camouflageable
@@ -11490,6 +11489,7 @@ chloroprene
 creature
 chloroquine
 coronas
+camoudie
 camagon
 cyclamates
 cloudlessly
