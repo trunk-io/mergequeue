@@ -9961,7 +9961,6 @@ analogues
 autoregressive
 ambergris
 ahchoo
-amberite
 amicron
 artiller
 arrival
@@ -17329,6 +17328,7 @@ archpatriarch
 accusative
 allowing
 antitrypsin
+amberite
 apostacies
 apostacize
 apostasy
