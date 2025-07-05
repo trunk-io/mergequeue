@@ -9554,6 +9554,7 @@ ametaboly
 altiplano
 alarming
 accise
+automata
 altissimo
 agnuses
 astronautics
@@ -24198,7 +24199,6 @@ alienicolae
 autoluminescent
 automa
 abbasid
-automata
 archdean
 automatable
 apidae
