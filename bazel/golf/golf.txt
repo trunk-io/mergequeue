@@ -5589,6 +5589,7 @@ giftlike
 gl
 groundwall
 goldseed
+gamotropic
 ghostlet
 guayroto
 gallinules
@@ -7385,7 +7386,6 @@ glycines
 gorgelet
 greggriffin
 glissading
-gamotropic
 grewt
 goujat
 grampuses
