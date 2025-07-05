@@ -762,7 +762,6 @@ betterer
 badland
 badlands
 buba
-bat
 brushcut
 banket
 badmouthed
@@ -808,6 +807,7 @@ bibliophagist
 baffler
 braggadocianism
 biffed
+bat
 belone
 bafflers
 baffling
