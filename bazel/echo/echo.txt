@@ -7295,7 +7295,6 @@ eolopiles
 exsector
 eolotropic
 echoless
-electrocatalytic
 epidemiology
 energetics
 eccaleobion
@@ -8355,6 +8354,7 @@ ecumenicality
 enukki
 eaceworm
 eluxate
+electrocatalytic
 epitheliolysis
 ependytes
 embrown
