@@ -5787,6 +5787,7 @@ draughts
 depolished
 deaconed
 depolishes
+downgrade
 depoliticized
 donia
 depoliticizes
@@ -16298,7 +16299,6 @@ demiowl
 discoloredness
 duchery
 denude
-downgrade
 ductilimeter
 divers
 diaheliotropism
