@@ -2686,7 +2686,6 @@ genoise
 geophagy
 gentiopicrin
 greathead
-gunfire
 gyrophoric
 greenflies
 germanism
@@ -10443,6 +10442,7 @@ gardbrace
 gutweed
 gruffy
 grosbeaks
+gunfire
 groundsill
 goudy
 gesneraceous
