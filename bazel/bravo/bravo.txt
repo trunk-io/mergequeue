@@ -11978,7 +11978,6 @@ bookbind
 birmingham
 brothelry
 bogymen
-bogland
 budgerigah
 bytalk
 bogled
@@ -12800,6 +12799,7 @@ byronite
 bookworm
 bookwright
 booleans
+bogland
 booleys
 bardy
 booly
