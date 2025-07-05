@@ -1631,6 +1631,7 @@ format
 fegary
 finfoot
 fooster
+fungiform
 favored
 feasibilities
 favorer
@@ -7230,7 +7231,6 @@ footpad
 favellidia
 feodary
 flaxboard
-fungiform
 forewarner
 forepeak
 fordwine
