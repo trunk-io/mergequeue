@@ -8957,7 +8957,6 @@ earflaps
 ergatomorphic
 ergo
 extrameridian
-ergodic
 escapements
 euphoria
 expectorators
@@ -10483,6 +10482,7 @@ etymic
 ergosterin
 endomyces
 electrochronometer
+ergodic
 engraved
 ensaint
 enroot
