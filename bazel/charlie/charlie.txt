@@ -5464,7 +5464,6 @@ cordies
 castlet
 commercing
 candlesticked
-confront
 casaque
 castlewards
 castlewise
@@ -22927,6 +22926,7 @@ consign
 consignatary
 consignataries
 counterretreat
+confront
 comforting
 chromosomic
 consigned
