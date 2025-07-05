@@ -4259,7 +4259,6 @@ gomorrhean
 gesturing
 grumpiness
 gouache
-graveclothes
 goatlike
 gregos
 gyrocompass
@@ -4717,6 +4716,7 @@ ganglander
 greenwood
 gadling
 gonimolobe
+graveclothes
 germanophobia
 gryphite
 ganocephalan
