@@ -2687,6 +2687,7 @@ canions
 canis
 canistel
 crevice
+cheliped
 cepa
 coadunatively
 canjac
@@ -9896,7 +9897,6 @@ chelinga
 curua
 chelingas
 chelingos
-cheliped
 chelys
 cydon
 chellean
