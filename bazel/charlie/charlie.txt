@@ -8975,7 +8975,6 @@ cenospecific
 characins
 charity
 castigating
-charact
 cutouts
 charactered
 capitalist
@@ -21492,6 +21491,7 @@ chilostomata
 counterfeiting
 counterplotting
 concomitance
+charact
 concomitant
 concommitant
 concommitantly
