@@ -4883,7 +4883,6 @@ floorshifts
 fracticipita
 faunus
 fishberries
-fetted
 firepower
 fresser
 fleay
@@ -7903,6 +7902,7 @@ fusillades
 froeman
 foresail
 feuilletonistic
+fetted
 foresails
 fasten
 fork
