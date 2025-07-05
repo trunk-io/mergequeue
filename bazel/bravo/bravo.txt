@@ -6568,7 +6568,6 @@ birdshot
 brustled
 billheads
 becolor
-berated
 bushful
 berates
 breakaway
@@ -10140,6 +10139,7 @@ blackbush
 bayou
 birkenia
 balloonation
+berated
 bemixt
 bromising
 blackbutt
