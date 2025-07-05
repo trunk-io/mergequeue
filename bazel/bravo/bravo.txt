@@ -7431,7 +7431,6 @@ braveries
 betrothing
 betrothment
 betroths
-bromine
 betrousered
 boshboks
 betrust
@@ -13452,6 +13451,7 @@ bawdship
 bottlemaker
 begotten
 burgs
+bromine
 broilery
 beer
 bought
