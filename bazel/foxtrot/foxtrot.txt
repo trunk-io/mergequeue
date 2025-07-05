@@ -10449,7 +10449,6 @@ fowlpox
 filicoid
 fluxional
 frontspieces
-fleet
 frontstall
 forstall
 ferocity
@@ -11602,6 +11601,7 @@ fusobacteria
 foliolose
 floscular
 fissional
+fleet
 foregallery
 fussbudgety
 fevers
