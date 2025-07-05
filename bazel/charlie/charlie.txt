@@ -5292,6 +5292,7 @@ consecute
 calemes
 cassandra
 conc
+cuckoos
 crawthumper
 cartman
 cokeman
@@ -14320,7 +14321,6 @@ carpellum
 cyclotella
 circumbulbar
 circumcallosal
-cuckoos
 corroborating
 circumcellion
 circumcenter
