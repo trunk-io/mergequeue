@@ -3488,7 +3488,6 @@ geomagnetist
 grugru
 gunslinging
 grinded
-glunched
 gymkhana
 galloon
 grudgery
@@ -7843,6 +7842,7 @@ gymnarchidae
 gusty
 gramophonic
 gruelling
+glunched
 gametangium
 gounau
 gourdworm
