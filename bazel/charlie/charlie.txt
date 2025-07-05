@@ -2054,7 +2054,6 @@ camouflagic
 coincidence
 companionship
 cruddle
-camouflaging
 combats
 chandlery
 collapsar
@@ -16393,6 +16392,7 @@ conjugial
 clio
 cresses
 clip
+camouflaging
 canterer
 clipboard
 clipboards
