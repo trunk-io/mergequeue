@@ -8949,6 +8949,7 @@ canonries
 chapteral
 chapterhouse
 chapters
+checkless
 chapwoman
 chaqueta
 commanders
@@ -9631,7 +9632,6 @@ checky
 cityful
 circularising
 cacochymia
-checkless
 checklist
 checkman
 congruencies
