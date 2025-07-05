@@ -5595,6 +5595,7 @@ dibber
 dustfall
 disedification
 draftable
+deckhouse
 depended
 dolichopellic
 dependence
@@ -14508,7 +14509,6 @@ doradidae
 dicynodontidae
 dihelios
 decoupling
-deckhouse
 degauss
 disfavor
 diphyzooid
