@@ -5830,7 +5830,6 @@ glucagon
 grundel
 guaiaretic
 gladify
-gate
 gymnosporangium
 gynoecium
 glucate
@@ -6444,6 +6443,7 @@ gritting
 glimmerous
 galahads
 guileless
+gate
 grandisonianism
 glossopodium
 garrupa
