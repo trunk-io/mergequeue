@@ -906,7 +906,6 @@ gelatinate
 gambia
 gidyea
 galerite
-garnishable
 grittiness
 galt
 gametophoric
@@ -7834,6 +7833,7 @@ gumbo
 glossotherium
 gelatification
 gramme
+garnishable
 groggiest
 glucagons
 gilbertage
