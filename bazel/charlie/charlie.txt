@@ -13612,7 +13612,6 @@ cylinder
 cylinders
 cylindrella
 cylindrelloid
-cryptographic
 cylindrenchyma
 cylindric
 cylindrically
@@ -18392,6 +18391,7 @@ cogger
 coggers
 cogging
 coggledy
+cryptographic
 cogitate
 combed
 cogglety

@@ -2297,7 +2297,6 @@ broom
 besoothed
 beearn
 barbequed
-beautifully
 barber
 bordrag
 businessese
@@ -7852,6 +7851,7 @@ bibble
 bamboozle
 bibbler
 blooms
+beautifully
 bufonite
 bajri
 broose
