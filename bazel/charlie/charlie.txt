@@ -7922,7 +7922,6 @@ caenogenesis
 cichloid
 cerviciplex
 cervicispinal
-cervicitis
 cervicoauricular
 chippable
 cervicobasilar
@@ -14585,6 +14584,7 @@ caseine
 cirrosely
 cirrostomi
 cirrostrative
+cervicitis
 citharoedus
 cuttanee
 celiectasia
