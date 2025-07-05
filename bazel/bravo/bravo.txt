@@ -3561,6 +3561,7 @@ brushy
 battleground
 berkeleyite
 bien
+bartholomew
 bathysophical
 bathysphere
 bathythermogram
@@ -4846,7 +4847,6 @@ becrusts
 bedunced
 bourgeon
 benames
-bartholomew
 blephara
 briefings
 bedsitter
