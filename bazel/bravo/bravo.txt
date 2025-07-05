@@ -7750,6 +7750,7 @@ brakehand
 bullan
 breakover
 brocard
+backsey
 bhindi
 bowstave
 bhishti
@@ -10084,7 +10085,6 @@ bjorne
 bk
 brazilein
 bkg
-backsey
 bks
 bkt
 beflum
