@@ -1066,7 +1066,6 @@ epipleura
 enameloma
 elberta
 expeditions
-electronegativity
 exadversum
 etchareottine
 excisable
@@ -13484,6 +13483,7 @@ exradius
 extraconstitutional
 evenforth
 exsanguinating
+electronegativity
 edison
 exposing
 ethmoidal
