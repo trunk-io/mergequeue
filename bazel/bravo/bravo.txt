@@ -3654,7 +3654,6 @@ bergamots
 batrachidae
 batrachium
 bailiffwick
-bats
 booboo
 bergut
 batsman
@@ -18184,6 +18183,7 @@ bores
 biodegradation
 bricky
 bitterwort
+bats
 balneary
 butlery
 belief
