@@ -9311,7 +9311,6 @@ egressing
 electra
 errantia
 exonerative
-exarch
 epigenous
 episode
 errants
@@ -12473,6 +12472,7 @@ exfiltrate
 exhumes
 euryscope
 equilibrial
+exarch
 electrolysing
 exhuming
 epifaunal
