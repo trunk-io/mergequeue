@@ -17971,7 +17971,6 @@ codiscoverer
 codist
 codivine
 codline
-calcigerous
 controlled
 codling
 classlessness
@@ -24863,6 +24862,7 @@ cruciate
 coracobrachial
 clipeus
 calcimeter
+calcigerous
 coracobrachialis
 coracoclavicular
 coracocostal
