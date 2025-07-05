@@ -9164,6 +9164,7 @@ decagons
 didelphid
 dhoty
 dichoptic
+drawstop
 didelphidae
 dingdong
 didelphoid
@@ -17730,7 +17731,6 @@ dubio
 devot
 diene
 discriminateness
-drawstop
 debugs
 dubiousness
 deportees
