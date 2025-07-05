@@ -5677,6 +5677,7 @@ belderroot
 bodgie
 beleaguering
 bongar
+behests
 beleapt
 belection
 belecture
@@ -12941,7 +12942,6 @@ bara
 bouquiniste
 brambled
 bladderweed
-behests
 berliners
 blameless
 breviloquence
