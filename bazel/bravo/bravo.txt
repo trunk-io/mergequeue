@@ -4845,7 +4845,6 @@ bustard
 becrusts
 bedunced
 bourgeon
-benames
 bartholomew
 blephara
 briefings
@@ -14546,6 +14545,7 @@ brandy
 brosy
 bitty
 bondager
+benames
 brandied
 brandify
 branding
