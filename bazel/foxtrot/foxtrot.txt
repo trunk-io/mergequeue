@@ -4843,6 +4843,7 @@ feuillants
 fortunetelling
 flocculable
 feltmonger
+foreboard
 flaunching
 freshened
 fooling
@@ -10365,7 +10366,6 @@ folkmote
 foreschooling
 fragrances
 fortune
-foreboard
 feldspathization
 fletcherite
 fowage
