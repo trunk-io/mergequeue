@@ -2973,7 +2973,6 @@ deciduata
 delinquent
 depositional
 describers
-deductio
 deductions
 distrainment
 deductive
@@ -18531,6 +18530,7 @@ duridine
 ductility
 desmidiaceae
 durion
+deductio
 durity
 diphthonged
 dekalitre
