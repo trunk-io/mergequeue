@@ -5331,6 +5331,7 @@ exsertion
 endospore
 endosporic
 exophagous
+enterfeat
 evidentness
 encharm
 embroiderers
@@ -12015,7 +12016,6 @@ expensed
 eryngium
 enscrolls
 everyone
-enterfeat
 exampleship
 essentials
 eigenspace
