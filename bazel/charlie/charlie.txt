@@ -11689,7 +11689,6 @@ culpability
 choledochoduodenostomy
 colpeurysis
 conformate
-choledocholithotomy
 choledocholithotripsy
 choledochoplasty
 choledochorrhaphy
@@ -18820,6 +18819,7 @@ colchicaceae
 coistrels
 craters
 cinnamal
+choledocholithotomy
 colchicia
 centeredly
 colchicin
