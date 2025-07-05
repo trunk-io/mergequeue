@@ -2584,6 +2584,7 @@ acquest
 armenite
 aromatite
 actutate
+astrogonic
 arriswise
 acquests
 acquiesce
@@ -16904,7 +16905,6 @@ apiculturist
 apiculus
 apiece
 annelida
-astrogonic
 assortment
 anchusin
 aluminotype
