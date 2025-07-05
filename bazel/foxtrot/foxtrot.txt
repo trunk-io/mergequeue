@@ -5167,7 +5167,6 @@ frivolous
 fawns
 fructure
 flasker
-foretooth
 floccular
 fellifluous
 furbelows
@@ -6804,6 +6803,7 @@ fleechment
 forcet
 fluoroscopic
 frosteds
+foretooth
 fledgeless
 foldage
 foredevised
