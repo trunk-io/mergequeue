@@ -6815,7 +6815,6 @@ barnumize
 berskin
 balize
 berhyme
-banjore
 bert
 blowhole
 bugshas
@@ -8183,6 +8182,7 @@ bossa
 bellicoseness
 bielding
 bewinter
+banjore
 benzopinacone
 blimpish
 beardie
