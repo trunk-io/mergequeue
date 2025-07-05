@@ -3078,7 +3078,6 @@ grudgefully
 geopolitist
 grace
 griquaite
-geopotential
 gelosin
 grassplot
 georgemas
@@ -6769,6 +6768,7 @@ goitrogen
 gonoblast
 girders
 grandsons
+geopotential
 girded
 goodwill
 gibel
