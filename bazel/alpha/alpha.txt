@@ -7857,7 +7857,6 @@ antimonopolist
 affecter
 archimandrite
 accorders
-alecost
 alectoria
 alectorides
 alectoridine
@@ -21256,6 +21255,7 @@ alchemised
 asylabia
 acalyptrata
 abscess
+alecost
 asilidae
 asyllabia
 asyllabical
