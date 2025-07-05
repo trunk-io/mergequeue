@@ -1179,6 +1179,7 @@ datagram
 datagrams
 doormat
 demibrassart
+dipware
 datana
 dulciloquy
 denasalizing
@@ -10832,7 +10833,6 @@ dipterus
 dotterel
 diptychs
 differencing
-dipware
 disadvantageous
 diquat
 dircaean
