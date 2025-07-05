@@ -7146,6 +7146,7 @@ center
 centerable
 centerboard
 centerer
+corresp
 cannonball
 centerfold
 compania
@@ -30940,7 +30941,6 @@ cotyttia
 cumaphytic
 coagulations
 cachou
-corresp
 craniostosis
 cheimatophobia
 cumar
