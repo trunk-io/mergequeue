@@ -991,7 +991,6 @@ darius
 doubleprecision
 dark
 darked
-darkeys
 darkens
 disruptions
 deformeter
@@ -7528,6 +7527,7 @@ dentiloquy
 deuterium
 deinocephalia
 declaimed
+darkeys
 dominators
 deuterocanonical
 deuterocasease
