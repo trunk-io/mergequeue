@@ -1939,7 +1939,6 @@ foodless
 fundless
 flamboyantize
 faradizing
-frs
 fraidycat
 fishable
 fontanelle
@@ -7012,6 +7011,7 @@ flexions
 filla
 functor
 frison
+frs
 frittered
 fondues
 frescoist
