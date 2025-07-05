@@ -780,6 +780,7 @@ allurements
 abreacts
 aepyornis
 ascites
+armigers
 abreast
 archenteric
 abreed
@@ -8475,7 +8476,6 @@ augmentations
 archology
 abiegh
 alkalinized
-armigers
 alkalinizes
 arite
 acrolith
