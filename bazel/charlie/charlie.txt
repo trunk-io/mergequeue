@@ -8899,7 +8899,6 @@ chapin
 chapiter
 chloranaemia
 chapitral
-chaplain
 chaplaincies
 chaplains
 curiboca
@@ -11728,6 +11727,7 @@ cephalospinal
 circumjacent
 choleras
 choleric
+chaplain
 cervelases
 choleriform
 cholerigenous
