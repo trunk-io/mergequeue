@@ -5432,7 +5432,6 @@ fragmentize
 frisado
 factorial
 fledgiest
-freestones
 floatless
 foisonless
 fabian
@@ -6688,6 +6687,7 @@ foetation
 flushing
 filt
 frontad
+freestones
 figurism
 foeti
 fumigatory
