@@ -5075,6 +5075,7 @@ grenadine
 grice
 goldeneye
 greesagh
+glareless
 glathsheim
 gte
 gabrielrache
@@ -10128,7 +10129,6 @@ galways
 guerrila
 gurgling
 guller
-glareless
 greenier
 galvanometry
 grudges
