@@ -1190,7 +1190,6 @@ griot
 gansa
 guestive
 garfishes
-grappler
 glaux
 gimcrackery
 gryposis
@@ -10174,6 +10173,7 @@ goosery
 gloomed
 genethliac
 garages
+grappler
 grovelings
 guido
 glade
