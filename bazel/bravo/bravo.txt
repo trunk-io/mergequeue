@@ -925,7 +925,6 @@ bagwigged
 bogey
 bagwyn
 bustier
-bagwork
 baker
 brumby
 bahadur
@@ -11725,6 +11724,7 @@ bobbish
 bais
 braille
 belfast
+bagwork
 bobcats
 binmen
 bede
