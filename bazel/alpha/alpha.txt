@@ -5426,6 +5426,7 @@ afshah
 aft
 afteract
 alexin
+antiparticle
 afterattack
 afterbay
 afterstorm
@@ -15690,7 +15691,6 @@ anterospinal
 assapanick
 axons
 antiparliamentarians
-antiparticle
 acraniate
 antirobin
 antiparticles
