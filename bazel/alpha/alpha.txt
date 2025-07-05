@@ -17792,7 +17792,6 @@ appointee
 antistatic
 askesis
 appointees
-atopy
 appointer
 agapornis
 alalite
@@ -20204,6 +20203,7 @@ arratel
 amylohydrolytic
 asclepieion
 apothem
+atopy
 arrau
 adoperation
 assiduously
