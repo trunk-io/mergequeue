@@ -2735,7 +2735,6 @@ glories
 gyro
 gecko
 garni
-guzzledom
 gyges
 griper
 guemul
@@ -2846,6 +2845,7 @@ gaincope
 glamorizing
 gomphoses
 guacimo
+guzzledom
 gastrorrhagia
 gruesomeness
 gratulant
