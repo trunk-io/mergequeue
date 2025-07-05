@@ -2219,7 +2219,6 @@ filate
 folkmoot
 falsities
 felonwort
-falutin
 fraela
 flatterdock
 fairylike
@@ -7328,6 +7327,7 @@ fearnaught
 frampold
 flowed
 forswearer
+falutin
 forbearing
 fulcrum
 feathered
