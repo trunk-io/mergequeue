@@ -2531,7 +2531,6 @@ candleball
 candleberries
 candlebomb
 candlefish
-corporeal
 chaldaical
 candlefishes
 collogued
@@ -9535,6 +9534,7 @@ ctenophoral
 cartsale
 chazzenim
 consition
+corporeal
 chazzens
 che
 catalogue
