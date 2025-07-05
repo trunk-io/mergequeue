@@ -30201,7 +30201,6 @@ cruel
 crueller
 cruellest
 cruelly
-cruelness
 cruels
 communbus
 cruelty
@@ -30724,6 +30723,7 @@ chaps
 catheterizing
 cuisine
 coaxingly
+cruelness
 chicles
 castelet
 cuisines
