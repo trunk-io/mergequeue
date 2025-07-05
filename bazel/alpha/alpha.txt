@@ -6787,7 +6787,6 @@ airfoil
 airfoils
 adiate
 airglow
-airglows
 airgraphics
 anisometropia
 androcyte
@@ -11107,6 +11106,7 @@ amphibium
 aquatinting
 amphiblastula
 amphiblestritis
+airglows
 avolation
 amphibole
 alkide
