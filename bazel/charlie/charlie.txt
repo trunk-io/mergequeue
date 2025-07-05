@@ -3037,7 +3037,6 @@ cellocut
 cantoning
 cantonize
 colectomy
-countergager
 cantoral
 cantoria
 cardsharps
@@ -8954,6 +8953,7 @@ chaqueta
 commanders
 char
 conveyability
+countergager
 crouchingly
 chara
 costae
