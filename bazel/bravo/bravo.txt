@@ -12378,7 +12378,6 @@ boombox
 beget
 bluishness
 bedizening
-bergeres
 beele
 boonk
 bombonne
@@ -15086,6 +15085,7 @@ bretwalda
 byeworker
 beqwete
 boar
+bergeres
 bondholding
 brewages
 bogier
