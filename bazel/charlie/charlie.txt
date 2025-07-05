@@ -4839,7 +4839,6 @@ carpophyl
 cressier
 carpophyte
 companions
-cynosarges
 carpopodite
 carpopoditic
 carved
@@ -6095,6 +6094,7 @@ coversine
 cathud
 catydid
 cyclicity
+cynosarges
 catiline
 cating
 cativo
