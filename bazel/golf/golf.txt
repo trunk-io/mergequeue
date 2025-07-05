@@ -2623,7 +2623,6 @@ geniculation
 granule
 gemarist
 gigantocyte
-genioglossal
 globoids
 geoteuthis
 goboes
@@ -10403,6 +10402,7 @@ gyrofrequency
 gunneries
 graciousness
 glyptological
+genioglossal
 genitory
 greenstuff
 gaggler
