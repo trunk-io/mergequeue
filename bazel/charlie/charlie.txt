@@ -25655,7 +25655,6 @@ corpuscularian
 colombian
 confinedness
 completed
-corpuscularity
 corpuscule
 corpusculous
 chairlift
@@ -29167,6 +29166,7 @@ cryophyllite
 cryophyte
 criophore
 crannogs
+corpuscularity
 chlordiazepoxide
 crownband
 cryoscopy
