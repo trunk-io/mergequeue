@@ -5402,6 +5402,7 @@ frats
 frond
 fleche
 forelady
+fumigating
 flechettes
 flecked
 ferrocyanic
@@ -8069,7 +8070,6 @@ forestries
 firebrats
 furnitures
 fondness
-fumigating
 flecnode
 fiendfully
 ferrochromium
