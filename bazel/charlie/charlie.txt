@@ -3626,6 +3626,7 @@ cinques
 circle
 caraboid
 carabus
+chrominance
 caracara
 carack
 caracks
@@ -29623,7 +29624,6 @@ crocking
 creedmore
 crocko
 cystadenoma
-chrominance
 chimariko
 copyholding
 crocodilidae
