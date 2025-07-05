@@ -9412,7 +9412,6 @@ bargehouse
 birdstone
 borak
 befitting
-basichromatic
 bluegums
 belabours
 browpiece
@@ -14837,6 +14836,7 @@ breakaxe
 burning
 blameable
 baja
+basichromatic
 breakers
 breakfast
 buffetings
