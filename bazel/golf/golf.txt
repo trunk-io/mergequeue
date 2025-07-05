@@ -2045,7 +2045,6 @@ galvanizer
 ginglmi
 gnomist
 gelndesprung
-gnarl
 gradations
 garbline
 gawkhammer
@@ -2533,6 +2532,7 @@ generate
 guitars
 generated
 gazetteerage
+gnarl
 gomerel
 guetare
 generative
