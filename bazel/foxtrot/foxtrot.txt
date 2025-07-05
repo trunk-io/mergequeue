@@ -4863,6 +4863,7 @@ foothills
 flagman
 floppy
 fasciolaria
+fingian
 fancifulness
 flinching
 fashionmonging
@@ -10247,7 +10248,6 @@ fleshly
 fadedness
 fibrillations
 flakers
-fingian
 finickingness
 frust
 fgrid
