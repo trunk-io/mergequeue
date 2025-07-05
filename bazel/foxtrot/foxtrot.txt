@@ -961,6 +961,7 @@ fallouts
 ferrate
 faquir
 farad
+formican
 faradaic
 fluorometer
 flamed
@@ -1797,7 +1798,6 @@ foist
 felonies
 feastraw
 feather
-formican
 foreordainment
 filiality
 featherbird
