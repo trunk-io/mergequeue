@@ -16315,6 +16315,7 @@ clinginess
 chob
 clinging
 clingingly
+ctenolium
 clinia
 clinic
 clinically
@@ -30437,7 +30438,6 @@ ctenoid
 cartwright
 caprification
 crosnes
-ctenolium
 ctenophoran
 ctenophore
 codesigning
