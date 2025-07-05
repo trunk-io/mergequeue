@@ -3340,7 +3340,6 @@ gnatling
 gorkun
 galbe
 glaciable
-gyroscopic
 gainor
 guachamaca
 gymnoceratous
@@ -3936,6 +3935,7 @@ gloves
 gemshorn
 gnide
 gigots
+gyroscopic
 gigster
 guarinite
 gemonies
