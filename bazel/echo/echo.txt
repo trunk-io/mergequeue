@@ -10515,7 +10515,6 @@ etypic
 editorialize
 ensheath
 equiponderation
-enoplan
 ending
 effluviums
 ericius
@@ -12134,6 +12133,7 @@ excruciator
 ennomic
 excubitoria
 eradicator
+enoplan
 entwisting
 excud
 europeanize
