@@ -6830,7 +6830,6 @@ gypsied
 glauconite
 granulomas
 gaffsman
-gonosphere
 gymnasiarch
 grisettish
 gorbal
@@ -10427,6 +10426,7 @@ gatecrashers
 gadgetries
 gnateater
 gillbird
+gonosphere
 giller
 geepound
 gratuity
