@@ -4787,7 +4787,6 @@ fique
 feudalities
 faldfee
 forthink
-fablemongering
 forestry
 fellfare
 fertil
@@ -10599,6 +10598,7 @@ fulgent
 foiling
 foilsman
 filaceous
+fablemongering
 furtive
 famular
 fatigues
