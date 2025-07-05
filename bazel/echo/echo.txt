@@ -3337,7 +3337,6 @@ emoted
 egal
 explorator
 excursioner
-envelopes
 encyclopaedial
 embannered
 eidoptometry
@@ -7282,6 +7281,7 @@ evolutionally
 effaces
 epicurize
 eof
+envelopes
 eohippus
 eohippuses
 erythrosin
