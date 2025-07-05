@@ -9482,7 +9482,6 @@ alternate
 alternated
 aftertaste
 alternately
-apheretic
 achier
 assaugement
 aphengescope
@@ -12203,6 +12202,7 @@ ancylostome
 ancylostomiasis
 achlorophyllous
 arrame
+apheretic
 ancylus
 armorica
 ancyrean

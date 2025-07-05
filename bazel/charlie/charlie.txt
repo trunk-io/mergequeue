@@ -24800,7 +24800,6 @@ copula
 chitting
 coroscopy
 copulae
-copular
 copularium
 conceivable
 copulas
@@ -27497,6 +27496,7 @@ clitellar
 clavier
 cuban
 covariate
+copular
 covariates
 covassal
 cove
