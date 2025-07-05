@@ -3183,7 +3183,6 @@ blastozooid
 bromelia
 basidia
 basidial
-basidigital
 bouteselle
 bangwaketsi
 barotactic
@@ -15878,6 +15877,7 @@ brazilianite
 bromoil
 bruising
 bromomania
+basidigital
 bopper
 barbeyaceae
 biose
