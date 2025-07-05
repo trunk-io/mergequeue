@@ -1192,6 +1192,7 @@ datary
 dataries
 datasetname
 dithers
+dimerous
 datcha
 disparison
 demiassignation
@@ -13936,7 +13937,6 @@ distichal
 demisable
 distichlis
 dephased
-dimerous
 distichous
 discina
 distil
