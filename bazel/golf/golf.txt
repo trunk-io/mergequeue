@@ -754,6 +754,7 @@ genericness
 genae
 galvanoplasty
 grovers
+garbologist
 gravitater
 gunbearer
 gerkin
@@ -7067,7 +7068,6 @@ gopherberry
 guernsey
 gopherberries
 gist
-garbologist
 gothics
 glaucously
 gatter
