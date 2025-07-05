@@ -4252,6 +4252,7 @@ gliadin
 gusto
 garnishing
 guncotton
+guardianless
 gantang
 gruelled
 ghalva
@@ -7578,7 +7579,6 @@ ghoster
 gears
 guenons
 gorraf
-guardianless
 geomantic
 gradated
 gowdnook
