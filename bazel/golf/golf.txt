@@ -4862,6 +4862,7 @@ granatite
 goldurns
 goldhammer
 globeholder
+gastness
 goatly
 gastroenteric
 gladship
@@ -8825,7 +8826,6 @@ gainlier
 galleyworm
 gaged
 greyiaceae
-gastness
 gypsiologist
 grushie
 glaury
