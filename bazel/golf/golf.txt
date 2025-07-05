@@ -1757,7 +1757,6 @@ gramps
 guaiacols
 gonadial
 genealogizer
-gastroscopist
 greenovite
 gavelled
 glossolaly
@@ -6553,6 +6552,7 @@ gingivolabial
 gynandrian
 gelsemin
 guff
+gastroscopist
 gawkiest
 gunhouse
 geldesprung
