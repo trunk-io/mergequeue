@@ -2942,6 +2942,7 @@ blobby
 barricaded
 beltian
 benedicts
+bouteloua
 barricaders
 barricadoes
 brainsick
@@ -8486,7 +8487,6 @@ bileve
 bilewhit
 bavardage
 bootjack
-bouteloua
 bilgeway
 bilgier
 bilharzial
