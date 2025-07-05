@@ -5222,7 +5222,6 @@ daemon
 doghole
 deathly
 disterr
-devoid
 diazoamino
 denitrifier
 denitrifying
@@ -16177,6 +16176,7 @@ domable
 decrypted
 dualist
 douziemes
+devoid
 dysmeromorphic
 dovecot
 dhows
