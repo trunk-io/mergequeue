@@ -6227,6 +6227,7 @@ foretops
 feebling
 fleabugs
 fovent
+fillowite
 frenal
 flagmaker
 furbished
@@ -11668,7 +11669,6 @@ fute
 funnellike
 futhorc
 fleshers
-fillowite
 forepale
 foxskins
 flameholder
