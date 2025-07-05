@@ -3485,6 +3485,7 @@ ganglions
 gadzooks
 gymnorhina
 geomagnetist
+gapeworms
 grugru
 gunslinging
 grinded
@@ -6455,7 +6456,6 @@ guarded
 gie
 golfings
 guanare
-gapeworms
 gurry
 grit
 graduatical
