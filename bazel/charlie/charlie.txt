@@ -3435,7 +3435,6 @@ chunkier
 canyon
 caprifig
 constructionally
-caprifole
 caprifoliaceae
 caprifolium
 cincinnatia
@@ -14753,6 +14752,7 @@ campodeiform
 cystophora
 calumet
 cystophore
+caprifole
 cistophorus
 coadjustment
 cystophotography
