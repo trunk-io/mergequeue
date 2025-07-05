@@ -9730,7 +9730,6 @@ farfetchedness
 foeship
 fremontia
 fremontodendron
-fplot
 favuses
 fideicommissum
 firmly
@@ -9955,6 +9954,7 @@ fittable
 friezer
 frig
 fossilated
+fplot
 fantoms
 fumatorium
 freckled
