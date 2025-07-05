@@ -1500,6 +1500,7 @@ explanatorily
 exonarthex
 edificator
 equippers
+eave
 estivate
 effusively
 excipula
@@ -2596,7 +2597,6 @@ expansure
 exturb
 estimated
 ecliptically
-eave
 enslumber
 emunge
 ecthetically
