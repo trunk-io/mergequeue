@@ -748,7 +748,6 @@ francic
 famp
 famuli
 frustrater
-fana
 fcs
 feoffment
 fluxion
@@ -6625,6 +6624,7 @@ freemanship
 fluidity
 foresummer
 frothily
+fana
 floodway
 foamlike
 fascioliasis

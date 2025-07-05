@@ -1257,7 +1257,6 @@ grimaces
 garran
 globelet
 granage
-ged
 gavall
 goethites
 gratten
@@ -5057,6 +5056,7 @@ granza
 gospelist
 gastroptosia
 guilders
+ged
 gravery
 glassmaking
 galactose
