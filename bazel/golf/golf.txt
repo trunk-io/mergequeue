@@ -608,7 +608,6 @@ gorgonize
 giddap
 galliney
 guaranian
-glockenspiels
 gravities
 glossopalatine
 grieben
@@ -2667,6 +2666,7 @@ gamogenesis
 gatsby
 gemmed
 gonopodium
+glockenspiels
 grided
 genitor
 gauntry
