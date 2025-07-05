@@ -3091,7 +3091,6 @@ endogenies
 echinorhinidae
 etheriidae
 entombed
-epitomised
 euchroic
 enmew
 elodeas
@@ -6425,6 +6424,7 @@ extatic
 emulsor
 euskarian
 edibleness
+epitomised
 egested
 eyemark
 ethmoids
