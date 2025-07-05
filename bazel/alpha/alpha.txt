@@ -8740,7 +8740,6 @@ agrements
 allerion
 assurable
 alleve
-alleviate
 antitragi
 aread
 alleviated
@@ -10961,6 +10960,7 @@ amoraim
 amoral
 anemometry
 arresters
+alleviate
 amoralist
 amorally
 actinomorphy
