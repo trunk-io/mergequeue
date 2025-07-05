@@ -1317,7 +1317,6 @@ garroter
 glut
 gary
 groundling
-griphus
 gristbite
 glyptodontidae
 gignate
@@ -10066,6 +10065,7 @@ gudgeon
 glyptical
 grobianism
 gauntest
+griphus
 gainings
 gramophonically
 gymnoglossate
