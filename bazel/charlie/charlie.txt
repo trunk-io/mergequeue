@@ -107,7 +107,6 @@ cabezone
 cabful
 cabiai
 canephorus
-cronish
 cabildo
 cabildos
 cabin
@@ -12646,6 +12645,7 @@ chromoxylograph
 chron
 caplets
 cacothes
+cronish
 concurrences
 chronaxie
 chronaxies
