@@ -2574,6 +2574,7 @@ cambial
 crocoisite
 candlewasting
 coyan
+carnelians
 cordwoods
 codlins
 candlewicking
@@ -7403,7 +7404,6 @@ clincher
 commercer
 constitution
 conicity
-carnelians
 cryptolunatic
 chloro
 cephala
