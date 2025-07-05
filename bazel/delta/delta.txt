@@ -7904,7 +7904,6 @@ dewdrop
 dewdropper
 drank
 dewey
-drillet
 deweylite
 dooryard
 dewflower
@@ -9823,6 +9822,7 @@ domino
 dclass
 devaster
 dilettanti
+drillet
 delimiters
 decriminalizing
 dilettantism
