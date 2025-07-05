@@ -2233,7 +2233,6 @@ fogyisms
 formulae
 foute
 flashet
-feltmaker
 feltmaking
 fats
 fratercula
@@ -9120,6 +9119,7 @@ formity
 follows
 formalins
 furtum
+feltmaker
 fribblish
 fielded
 fritz
