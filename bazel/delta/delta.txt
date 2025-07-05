@@ -15942,7 +15942,6 @@ dossels
 drench
 dossennus
 decapodiform
-dosser
 duftry
 dosseret
 dempster
@@ -16617,6 +16616,7 @@ demifusion
 dragonade
 denotative
 donjon
+dosser
 dactylopius
 denotations
 decorations
