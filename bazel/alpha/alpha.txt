@@ -10680,6 +10680,7 @@ aminopyrine
 aminoplastic
 agrobiologic
 angulometer
+asserted
 arachne
 abner
 adulterants
@@ -21718,7 +21719,6 @@ asseour
 assert
 asserta
 assertable
-asserted
 assagaied
 asserter
 automatics
