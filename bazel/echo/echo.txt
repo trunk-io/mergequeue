@@ -4784,7 +4784,6 @@ enterotomy
 excusatory
 endocarpic
 encode
-encoded
 ensnarements
 encoding
 encodings
@@ -7540,6 +7539,7 @@ ephippia
 enfortune
 earthmover
 esterify
+encoded
 endeign
 eugenia
 epidiascopic

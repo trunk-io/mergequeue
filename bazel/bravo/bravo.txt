@@ -5769,7 +5769,6 @@ bell
 bonos
 bretwaldaship
 bellacoola
-bellatrix
 bungler
 biliation
 buckjump
@@ -15411,6 +15410,7 @@ bilboes
 breaststroker
 breadberry
 babyish
+bellatrix
 brannerite
 bereaved
 batonnier
