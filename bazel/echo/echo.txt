@@ -5313,6 +5313,7 @@ eliminability
 endosclerite
 extrahepatic
 eurybathic
+encurl
 endoscope
 endoscopes
 equivocalities
@@ -8906,7 +8907,6 @@ endocellular
 eremitism
 ecuelling
 epitheloid
-encurl
 enkernel
 eleometer
 ecospecifically
