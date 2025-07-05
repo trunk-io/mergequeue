@@ -10423,7 +10423,6 @@ alcade
 amharic
 amherstite
 asbestus
-amhran
 asherites
 aminophylline
 araba
@@ -25078,6 +25077,7 @@ anesthetizer
 axel
 axemen
 arsine
+amhran
 axenic
 axenically
 annual
