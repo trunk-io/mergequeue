@@ -2056,7 +2056,6 @@ babylonia
 bemock
 betraise
 bankrupture
-bankshall
 basilissa
 banksian
 barreleye
@@ -8442,6 +8441,7 @@ balkier
 biogenous
 blackwood
 bilayer
+bankshall
 burp
 bedarkened
 bookmen
