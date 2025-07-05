@@ -17388,7 +17388,6 @@ aliment
 ampuls
 apostrophes
 atomising
-atik
 aviculture
 avoirdupois
 apostrophied
@@ -23967,6 +23966,7 @@ autocholecystectomy
 autochromy
 autochronograph
 autochthon
+atik
 autochthonal
 autochthones
 aunthoods
