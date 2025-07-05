@@ -17005,7 +17005,6 @@ agrammatical
 apneusis
 apodemata
 apneustic
-apnoea
 abominating
 adiaphoretic
 aldehydase
@@ -25360,6 +25359,7 @@ azotize
 absinthism
 adaptative
 azotoluene
+apnoea
 azotorrhea
 adj
 azotorrhoea
