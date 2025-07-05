@@ -7153,7 +7153,6 @@ coofs
 chelators
 colonus
 centerfolds
-centering
 centerline
 centermost
 centerpiece
@@ -9790,6 +9789,7 @@ cheesiest
 crabeater
 chevre
 convocate
+centering
 cheesing
 cheetahs
 cheetul
