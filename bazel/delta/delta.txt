@@ -4547,7 +4547,6 @@ demifigure
 demigardebras
 decentres
 disinflated
-detroiter
 demigauntlet
 disclosing
 dendrite
@@ -17640,6 +17639,7 @@ disannulled
 diatonical
 dinners
 dsname
+detroiter
 dsri
 defeminization
 diocesian
