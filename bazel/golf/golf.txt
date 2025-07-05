@@ -1883,7 +1883,6 @@ gonadotrophic
 gavelmen
 gunboat
 gaudless
-ganglia
 gulped
 gastromycosis
 glassy
@@ -4422,6 +4421,7 @@ gammelost
 graminology
 grades
 gossipy
+ganglia
 genericalness
 gommelin
 giocoso
