@@ -8922,6 +8922,7 @@ assigners
 araneid
 alloyage
 aeroporotomy
+anode
 afrogaean
 ascogenous
 alloiogenesis
@@ -13616,7 +13617,6 @@ archil
 anodal
 abend
 anodally
-anode
 acrity
 adrenaline
 adinole
