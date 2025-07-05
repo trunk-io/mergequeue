@@ -9716,6 +9716,7 @@ especialness
 esperantido
 enclosing
 emplacements
+emplastrum
 emissaries
 epicycles
 emotionalise
@@ -14112,7 +14113,6 @@ extrinsically
 extrinsicalness
 extrinsication
 enthralls
-emplastrum
 exposers
 extroitive
 enfevers
