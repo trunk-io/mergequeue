@@ -911,7 +911,6 @@ flakes
 flavicant
 fluorogenic
 fulicine
-fumatories
 frictional
 fluoridated
 faltboats
@@ -3268,6 +3267,7 @@ fusilade
 flutterers
 flavourer
 flotages
+fumatories
 foods
 fogman
 feloness
