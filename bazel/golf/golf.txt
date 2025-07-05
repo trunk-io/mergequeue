@@ -1465,7 +1465,6 @@ galaginae
 glumly
 gunmaker
 gymnarchus
-gluconate
 gundelet
 galosh
 gasification
@@ -10762,6 +10761,7 @@ gloam
 graminin
 gorhen
 gimbals
+gluconate
 gallium
 galempong
 grubworm
