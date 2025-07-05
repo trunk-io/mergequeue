@@ -7105,7 +7105,6 @@ footstick
 fickler
 figurant
 fractionator
-fripper
 flaker
 fwelling
 foreallege
@@ -10614,6 +10613,7 @@ fractile
 forswearing
 forwaste
 fleeting
+fripper
 flatnesses
 frugalities
 frugalness
