@@ -54,7 +54,6 @@ gables
 goofball
 gatherum
 gibbon
-griller
 gablewindowed
 gogga
 giggly
@@ -536,6 +535,7 @@ gastrotympanites
 galleins
 gleby
 gomphocarpus
+griller
 getters
 gamodemes
 galler
