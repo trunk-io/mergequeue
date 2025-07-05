@@ -5408,7 +5408,6 @@ ghilzai
 glyoxalic
 galliwasp
 guniter
-glyphic
 gambist
 gascoign
 guran
@@ -9223,6 +9222,7 @@ glagolitic
 gravigrade
 grahamite
 grist
+glyphic
 grumbles
 growthiness
 grumph
