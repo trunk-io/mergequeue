@@ -7598,7 +7598,6 @@ grandeza
 gassier
 gramarye
 gastropyloric
-gaffes
 gaucy
 girdler
 gopherwood
@@ -10607,6 +10606,7 @@ gonzalo
 grandame
 glossmeter
 gadidae
+gaffes
 geohydrologist
 gourmetism
 gillion
