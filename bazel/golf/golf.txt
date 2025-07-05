@@ -499,7 +499,6 @@ ghostism
 geminations
 gluconokinase
 geomorphology
-guanyl
 geographic
 gowiddie
 golem
@@ -9150,6 +9149,7 @@ goosed
 garon
 garial
 griphite
+guanyl
 gehenna
 golee
 greenhornism

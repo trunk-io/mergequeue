@@ -35,6 +35,7 @@ fabricator
 formularize
 flintless
 flintworker
+fideicommissary
 furies
 farmscape
 flick
@@ -2398,7 +2399,6 @@ firecoat
 fusibility
 foolmonger
 featherstitching
-fideicommissary
 ferae
 fairyship
 fronton
