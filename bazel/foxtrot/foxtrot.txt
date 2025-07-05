@@ -1344,6 +1344,7 @@ fancywork
 fasts
 florinda
 frigs
+foreground
 festoons
 foins
 flancards
@@ -7225,7 +7226,6 @@ farers
 fimbrillose
 fiend
 fiver
-foreground
 footpad
 favellidia
 feodary
