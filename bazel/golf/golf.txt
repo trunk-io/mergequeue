@@ -342,7 +342,6 @@ greekless
 galactophoritis
 gutwort
 gingerin
-grade
 galactorrhoea
 gilet
 gisarmes
@@ -2393,6 +2392,7 @@ gemmologist
 goalkeeping
 grocers
 gulper
+grade
 gynobase
 gadders
 geologian
