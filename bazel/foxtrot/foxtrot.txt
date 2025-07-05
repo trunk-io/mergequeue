@@ -7054,7 +7054,6 @@ floater
 fimbriae
 foodful
 fulfilled
-fribby
 fatalities
 foreknow
 flowk
@@ -10264,6 +10263,7 @@ fashionize
 froideur
 froise
 frokin
+fribby
 filum
 felons
 frolic
