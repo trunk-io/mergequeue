@@ -9910,7 +9910,6 @@ artificious
 avoue
 abandonee
 abu
-amaurosis
 androeccia
 amaze
 airlocks
@@ -22376,6 +22375,7 @@ astronomer
 astronomy
 aeschynomene
 astronomical
+amaurosis
 archin
 ajenjo
 astronomics
