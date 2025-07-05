@@ -2249,7 +2249,6 @@ electress
 excessive
 epitomist
 electret
-electrets
 esophagogastrostomy
 exploitive
 exode
@@ -12144,6 +12143,7 @@ earstone
 erotizing
 excurrent
 eavesdrops
+electrets
 excrementitiously
 elonite
 ejam
