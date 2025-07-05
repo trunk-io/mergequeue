@@ -15766,7 +15766,6 @@ candidature
 clausula
 chiasmodontid
 cirrigrade
-clausule
 cheekily
 clausure
 claut
@@ -20852,6 +20851,7 @@ componendo
 component
 componented
 confronters
+clausule
 crocodilian
 componential
 challoth
