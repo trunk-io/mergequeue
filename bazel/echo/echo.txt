@@ -4477,7 +4477,6 @@ ethernets
 enceinte
 excipule
 entozoology
-entozoal
 endolabyrinthitis
 encense
 encephalomyelopathy
@@ -8809,6 +8808,7 @@ equipoised
 enfume
 elementarist
 equivoque
+entozoal
 equoidean
 eucalypt
 embrue
