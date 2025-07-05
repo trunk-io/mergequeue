@@ -4868,6 +4868,7 @@ flinching
 fashionmonging
 fingerflower
 fullwords
+fifteenths
 ferrite
 faena
 fellowshipping
@@ -9197,7 +9198,6 @@ ferret
 forward
 filices
 filenames
-fifteenths
 flustroid
 fixive
 fanaloka
