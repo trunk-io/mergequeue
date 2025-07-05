@@ -1146,7 +1146,6 @@ firehalls
 figulate
 flyings
 farruca
-farseeing
 farseer
 frondescence
 foughten
@@ -3266,6 +3265,7 @@ feracious
 forestress
 fusilade
 flutterers
+farseeing
 flavourer
 flotages
 foods
