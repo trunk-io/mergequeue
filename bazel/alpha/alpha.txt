@@ -6739,6 +6739,7 @@ airbusses
 aircheck
 aircraft
 aircraftman
+atomism
 atenist
 aquas
 axometer
@@ -22800,7 +22801,6 @@ accubation
 antepagment
 atomised
 atomises
-atomism
 atomisms
 agathaumas
 atabek
