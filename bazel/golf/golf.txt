@@ -6230,7 +6230,6 @@ greats
 gregorianizer
 gorier
 gob
-goban
 grx
 gadslid
 gobber
@@ -10458,6 +10457,7 @@ gesticulatory
 gambeer
 gobiidae
 groundlessness
+goban
 genevas
 gastronomically
 grimacing
