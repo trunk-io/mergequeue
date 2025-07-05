@@ -3001,7 +3001,6 @@ fumier
 flagonless
 flyboy
 furazane
-frustums
 fencing
 farfetch
 fluellite
@@ -9021,6 +9020,7 @@ frightment
 frumpier
 fregatidae
 fooder
+frustums
 fustee
 fluffed
 filmier

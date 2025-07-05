@@ -3755,7 +3755,6 @@ gaul
 gygis
 gibstaff
 graceless
-galeche
 greyhound
 gratefulness
 gavelage
@@ -6780,6 +6779,7 @@ geryonia
 gymnothorax
 garle
 glutimate
+galeche
 gonococci
 gambler
 glossopharyngeus
