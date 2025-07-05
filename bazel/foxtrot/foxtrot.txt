@@ -1828,7 +1828,6 @@ forsterite
 farfet
 farsalah
 forlorn
-foundery
 frivolously
 fetid
 featherless
@@ -6407,6 +6406,7 @@ ferinely
 fluoroform
 fluorescigenous
 fumarolic
+foundery
 fricasseing
 forefoot
 fronture
