@@ -12463,7 +12463,6 @@ deplantation
 drybrush
 disheriting
 deforms
-disposable
 dishevelled
 dishevelling
 delomorphic
@@ -14835,6 +14834,7 @@ docking
 dukkha
 dockization
 dockland
+disposable
 docklands
 dominica
 dialogue

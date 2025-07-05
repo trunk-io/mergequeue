@@ -1256,7 +1256,6 @@ benzothiazole
 ballyhack
 balalaika
 birdberry
-batrachiate
 bedim
 balan
 bedstead
@@ -9997,6 +9996,7 @@ bn
 baroscopical
 bargainor
 biverb
+batrachiate
 beblear
 bedfast
 bivocal
