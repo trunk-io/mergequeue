@@ -939,6 +939,7 @@ fatheads
 featural
 flatheads
 fortake
+findon
 fanteeg
 fishhook
 forcive
@@ -1064,7 +1065,6 @@ filmgoing
 faring
 flexuose
 flatlong
-findon
 fumosity
 feverweed
 fretful
