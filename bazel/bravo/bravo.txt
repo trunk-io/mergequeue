@@ -2708,6 +2708,7 @@ beadflush
 barnman
 braconids
 barnstormer
+bacterium
 barnstorming
 besmearing
 bogomile
@@ -8989,7 +8990,6 @@ biogeographically
 bobo
 blankety
 bunchbacked
-bacterium
 biographers
 bossisms
 barley
