@@ -2508,7 +2508,6 @@ bractea
 bombay
 borscht
 beruffled
-barghests
 boccia
 blueblack
 beslash
@@ -3184,6 +3183,7 @@ bromelia
 basidia
 basidial
 basidigital
+barghests
 bouteselle
 bangwaketsi
 barotactic
