@@ -3041,7 +3041,6 @@ electrothermostat
 ellenyard
 excurvature
 escribed
-embryographic
 emetia
 equated
 excreters
@@ -9756,6 +9755,7 @@ espouses
 espousing
 espressos
 esprit
+embryographic
 enterorrhexis
 esq
 esquiredom
