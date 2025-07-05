@@ -12111,7 +12111,6 @@ buphaga
 barristress
 boldfaced
 boldfacedly
-boldfacedness
 boldfacing
 boldhearted
 burd
@@ -14008,6 +14007,7 @@ bracae
 blandly
 bracciale
 breadbaskets
+boldfacedness
 braccianite
 brace
 bemouth
