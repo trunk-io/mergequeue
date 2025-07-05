@@ -4046,7 +4046,6 @@ cornhusk
 carcinomatous
 carcinomorphic
 cholericness
-carcinophagous
 carcinopolypus
 carcinosarcoma
 chloralide
@@ -18473,6 +18472,7 @@ cokelike
 cognitivity
 cognizable
 cognizableness
+carcinophagous
 cognizance
 chetrums
 cognizant
