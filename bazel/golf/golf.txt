@@ -349,7 +349,6 @@ gisarmes
 gley
 ghostwrites
 gasogenic
-gorefish
 gangrenous
 gunsmith
 goniometrical
@@ -3540,6 +3539,7 @@ gantries
 gruesomest
 glovers
 galactoid
+gorefish
 goetae
 gales
 granitification
