@@ -2653,7 +2653,6 @@ bowerlike
 bimensal
 barleys
 bellying
-bable
 barling
 bortz
 bluestone
@@ -6203,6 +6202,7 @@ benefiting
 blotchy
 bedclothing
 beneighbored
+bable
 beneme
 blanker
 barrigudo
