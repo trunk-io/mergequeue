@@ -5980,7 +5980,6 @@ bangalay
 benumbing
 battiness
 beltless
-benchmarks
 brecciate
 beltman
 belts
@@ -13634,6 +13633,7 @@ bounded
 bridgepot
 bounder
 bounders
+benchmarks
 baxter
 burladero
 boundless
