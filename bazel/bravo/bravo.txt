@@ -1242,7 +1242,6 @@ binit
 blindedly
 barrowful
 bendy
-bottomer
 bruke
 bromochlorophenol
 bucketsful
@@ -6419,6 +6418,7 @@ benzoglyoxaline
 balancewise
 benzohydrol
 benzoylated
+bottomer
 becuna
 benzoylation
 benzoinated
