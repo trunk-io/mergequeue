@@ -875,7 +875,6 @@ amianthoid
 absentation
 absentee
 absentees
-absenters
 aflatus
 amurcosity
 absentminded
@@ -13613,6 +13612,7 @@ anomoean
 admaxillary
 adelia
 archil
+absenters
 anodal
 abend
 anodally
