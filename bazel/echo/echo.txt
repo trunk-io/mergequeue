@@ -4926,7 +4926,6 @@ extradictable
 endamoebas
 endamoebidae
 endangitis
-endarchies
 expertised
 endarteteria
 endaspidean
@@ -9658,6 +9657,7 @@ esophagean
 esophagitis
 entobranchiate
 euryale
+endarchies
 esophago
 esophagogastroscopy
 entrike
