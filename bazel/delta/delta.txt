@@ -585,7 +585,6 @@ drawboy
 dups
 damine
 drek
-disaffection
 dialogic
 dedolomitized
 decarbonize
@@ -2573,6 +2572,7 @@ directrices
 declivent
 derive
 declivity
+disaffection
 ducklingship
 dangled
 detoured
