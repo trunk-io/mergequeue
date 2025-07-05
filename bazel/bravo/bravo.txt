@@ -5300,7 +5300,6 @@ backstab
 begiggle
 buddy
 barretries
-botanicas
 begild
 boltonia
 breathlessness
@@ -16396,6 +16395,7 @@ bilestone
 blizzardy
 bellwine
 bollixed
+botanicas
 brushful
 brushier
 bunkoed
