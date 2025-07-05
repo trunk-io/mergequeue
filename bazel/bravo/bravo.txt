@@ -3017,7 +3017,6 @@ becarpets
 beigel
 belee
 beckons
-beachhead
 bartonella
 backswordsman
 bookbinderies
@@ -17852,6 +17851,7 @@ bursty
 bitterhead
 brouille
 burstone
+beachhead
 botein
 burthen
 burthened
