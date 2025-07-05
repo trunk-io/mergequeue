@@ -12611,7 +12611,6 @@ exocline
 etymologist
 escapists
 euphon
-ethion
 exocoelar
 exocoele
 excusing
@@ -12740,6 +12739,7 @@ engramma
 exopod
 epigraphist
 exopterygote
+ethion
 exopterygotism
 eurypygae
 epha
