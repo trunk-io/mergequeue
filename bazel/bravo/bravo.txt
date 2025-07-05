@@ -2500,7 +2500,6 @@ barge
 bergere
 bargelike
 bravura
-bargellos
 begroans
 barger
 bardash
@@ -17233,6 +17232,7 @@ basseting
 bubingas
 bumblebomb
 bumblepuppy
+bargellos
 bespecklement
 bedriveled
 bearbind
