@@ -4541,7 +4541,6 @@ advisership
 adviser
 apparatchiki
 advisers
-androcentric
 alcovinometer
 affinitatively
 amphibious
@@ -11596,6 +11595,7 @@ anacrogynous
 anacrotic
 altricial
 aerenchyma
+androcentric
 anacruses
 anacrustic
 anaculture
