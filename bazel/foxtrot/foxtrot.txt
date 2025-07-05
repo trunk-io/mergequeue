@@ -4334,7 +4334,6 @@ follicule
 fibster
 fenland
 fraterniser
-fungology
 firmarii
 furmeties
 forrader
@@ -7030,6 +7029,7 @@ fermentum
 forebodings
 fucation
 fons
+fungology
 ferrocalcite
 ferrum
 fontal
