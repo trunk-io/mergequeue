@@ -6544,6 +6544,7 @@ aydendron
 achenocarp
 aidenn
 aider
+atpoints
 antiaggressive
 auksinu
 awk
@@ -23598,7 +23599,6 @@ aurichloride
 aurichlorohydric
 auricyanhydric
 anapaests
-atpoints
 absvolt
 auricle
 antiexpressively
