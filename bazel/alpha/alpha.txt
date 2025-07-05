@@ -14903,7 +14903,6 @@ abret
 anticlinal
 anticlines
 anticlinoria
-anticlinorium
 axised
 alkenes
 anticlockwise
@@ -17157,6 +17156,7 @@ apoidea
 astucity
 aoristic
 apoious
+anticlinorium
 apojove
 antihistorical
 apokatastasis
