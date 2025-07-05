@@ -9745,6 +9745,7 @@ buildingless
 babble
 bioenergetics
 beside
+blepharostat
 boatie
 byssoid
 bisson
@@ -13442,7 +13443,6 @@ bedless
 broomer
 balkan
 bionomics
-blepharostat
 bryophytes
 bigential
 bhutatathata
