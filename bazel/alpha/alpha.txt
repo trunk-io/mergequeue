@@ -1201,7 +1201,6 @@ auscultator
 acanthion
 antisun
 amour
-acanthocephalous
 acanthocereus
 apothems
 acanthocladous
@@ -14860,6 +14859,7 @@ almoning
 anticipative
 attensity
 activeness
+acanthocephalous
 aggregational
 antinepotic
 anticipators
