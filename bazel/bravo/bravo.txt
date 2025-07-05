@@ -2549,6 +2549,7 @@ backlists
 brained
 burghalpenny
 bloodberry
+bilboa
 bardel
 barylalia
 bactrian
@@ -8472,7 +8473,6 @@ bilby
 banqueteering
 baignet
 bilbo
-bilboa
 bandsawed
 bilcock
 bellehood
