@@ -298,7 +298,6 @@ articulate
 atonic
 apothece
 abducted
-ataxic
 abductions
 amatorio
 allegro
@@ -24233,6 +24232,7 @@ autometry
 autometric
 automysophobia
 assegaied
+ataxic
 automobile
 automobiled
 automobiles
