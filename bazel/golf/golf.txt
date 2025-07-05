@@ -7482,7 +7482,6 @@ governmental
 garageman
 gangman
 goldsmithing
-gunyah
 geodesies
 greenths
 gardeners
@@ -9137,6 +9136,7 @@ gradins
 gamogenetic
 glassfish
 gripey
+gunyah
 gramicidin
 gusain
 garapata
