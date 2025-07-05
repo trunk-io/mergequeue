@@ -2623,7 +2623,6 @@ geniculation
 granule
 gemarist
 gigantocyte
-genioglossal
 globoids
 geoteuthis
 goboes
@@ -8943,6 +8942,7 @@ greyhens
 glucina
 greenbul
 glenlivet
+genioglossal
 glycuronid
 gachupin
 guaiacums
