@@ -3388,7 +3388,6 @@ dorey
 defleaed
 damnum
 defleas
-deflect
 driftfishes
 disinhuming
 darer
@@ -15202,6 +15201,7 @@ dullpate
 decayable
 dollarfish
 doing
+deflect
 doings
 discopodous
 dotish
