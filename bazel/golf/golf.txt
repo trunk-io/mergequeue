@@ -5581,7 +5581,6 @@ garuda
 ginks
 gipsyry
 gravestone
-governance
 giantesque
 girdlecake
 grossular
@@ -9535,6 +9534,7 @@ gristliness
 griminess
 groundkeeper
 glidder
+governance
 grumbler
 gleaners
 greenlander
