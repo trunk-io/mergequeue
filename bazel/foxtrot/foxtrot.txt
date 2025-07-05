@@ -8431,6 +8431,7 @@ fempty
 fusoid
 felonsetter
 formalized
+fuchsin
 febronian
 flaucht
 fantail
@@ -11356,7 +11357,6 @@ fiasco
 furloughed
 ferlied
 furls
-fuchsin
 forfended
 furmenty
 foreassign
