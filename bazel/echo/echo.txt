@@ -6221,6 +6221,7 @@ estuant
 endrins
 ennoblements
 euryhaline
+entity
 excrescences
 exaspidean
 esker
@@ -11189,7 +11190,6 @@ eighteenmos
 episome
 evacuants
 earthdrake
-entity
 eadi
 evacuated
 epitomatory
