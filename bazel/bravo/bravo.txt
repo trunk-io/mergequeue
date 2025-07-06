@@ -780,6 +780,7 @@ blackout
 becker
 building
 baedekerian
+beleaguerer
 baeria
 bliny
 baetyl
@@ -10302,7 +10303,6 @@ bladderseed
 bladderwort
 blading
 blade
-beleaguerer
 bosporian
 befrogged
 bladesmith
