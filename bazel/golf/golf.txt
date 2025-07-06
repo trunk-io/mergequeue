@@ -2390,7 +2390,6 @@ gummose
 guardship
 gemmological
 gemmologist
-goalkeeping
 grocers
 gulper
 gynobase
@@ -8779,6 +8778,7 @@ greet
 gadid
 googly
 grandchildren
+goalkeeping
 gelatinochloride
 gunslinger
 gregarian
