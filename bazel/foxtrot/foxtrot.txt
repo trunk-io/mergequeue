@@ -2564,6 +2564,7 @@ fieldball
 fastus
 forehorse
 ferox
+flannels
 flerry
 fainthearted
 farted
@@ -6999,7 +7000,6 @@ fondle
 fondled
 fondles
 formalazine
-flannels
 fineries
 fondly
 fluorspar
