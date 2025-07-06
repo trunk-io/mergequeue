@@ -17538,7 +17538,6 @@ capax
 cobbled
 cobblerfish
 cobblerism
-cobblers
 cobblership
 cobbles
 cobblestone
@@ -22966,6 +22965,7 @@ chemotherapies
 chlorogenine
 companioning
 clinodome
+cobblers
 consistencies
 choriambi
 consistent
