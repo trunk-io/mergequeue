@@ -5376,7 +5376,6 @@ displaced
 dentical
 denticle
 dentiferous
-dentification
 dentifrice
 diageotropism
 dentil
@@ -17280,6 +17279,7 @@ didactic
 discountenancing
 discombobulating
 donnee
+dentification
 droit
 drokpa
 dauner
