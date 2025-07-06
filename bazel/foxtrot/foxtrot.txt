@@ -2238,7 +2238,6 @@ feltmaking
 fats
 fratercula
 farmhouse
-fluster
 feudalism
 felts
 forthtell
@@ -5222,6 +5221,7 @@ formularist
 fanwright
 foliaging
 foxiness
+fluster
 frontierlike
 frivolers
 fiot
