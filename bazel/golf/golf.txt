@@ -1559,7 +1559,6 @@ globicephala
 gymnura
 gauntlet
 gutteral
-geropiga
 glimpse
 galleria
 gumshoe
@@ -6200,6 +6199,7 @@ gastrimargy
 guillotinade
 gamopetalae
 galactophagist
+geropiga
 greengill
 goaty
 glissade
