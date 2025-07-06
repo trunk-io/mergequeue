@@ -1024,7 +1024,6 @@ fardel
 flannelmouth
 foxhound
 fusion
-fardelet
 futtah
 fards
 firethorn
@@ -6658,6 +6657,7 @@ funds
 fancymonger
 focussed
 fencible
+fardelet
 focussing
 fod
 flacianism
