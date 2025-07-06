@@ -3908,7 +3908,6 @@ flyways
 fiberscope
 fungistat
 flavanthrene
-favous
 fimbriating
 farcer
 frizette
@@ -6395,6 +6394,7 @@ foetal
 fluorenes
 fluctuability
 ferriage
+favous
 foveolar
 fixup
 fluoresceine

@@ -71,7 +71,6 @@ abaisse
 accessaryship
 alanine
 abalienate
-abalienated
 abalienating
 abalone
 abalones
@@ -3540,6 +3539,7 @@ ademption
 adipsous
 ascesis
 assedat
+abalienated
 arabicize
 agora
 adendritic
