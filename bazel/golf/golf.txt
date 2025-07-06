@@ -1032,7 +1032,6 @@ groan
 gabardine
 geriatrics
 gentles
-gastrectomy
 grabbots
 gossamer
 garvock
@@ -5122,6 +5121,7 @@ glazers
 geldant
 grouch
 grasslands
+gastrectomy
 gyrophoraceae
 graylags
 glazes
