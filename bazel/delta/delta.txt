@@ -1518,7 +1518,6 @@ disciplinarity
 dextrously
 dicranoid
 dibranchious
-deactivation
 deactivators
 distressedness
 doublure
@@ -4774,6 +4773,7 @@ demob
 devi
 disremember
 demobilising
+deactivation
 democracy
 diploneural
 diethylaminoethanol
