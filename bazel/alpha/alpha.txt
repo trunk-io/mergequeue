@@ -8064,6 +8064,7 @@ aviation
 anthosiderite
 alfur
 alga
+afros
 algaecide
 archhouse
 acidyl
@@ -16315,7 +16316,6 @@ atherinidae
 anthraphenone
 antitropy
 antitropic
-afros
 adfroze
 antitruster
 antituberculosis

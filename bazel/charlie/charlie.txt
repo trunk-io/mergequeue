@@ -7627,7 +7627,6 @@ cerci
 cercidiphyllaceae
 cryotrons
 consummations
-colloquies
 cercises
 cercocebus
 cercolabes
@@ -19607,6 +19606,7 @@ coltsfoot
 coltsfoots
 captivities
 coluber
+colloquies
 colubrinae
 colubrine
 clarsach
