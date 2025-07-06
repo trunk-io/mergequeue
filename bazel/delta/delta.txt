@@ -14932,6 +14932,7 @@ dodders
 doddie
 delitous
 disengagement
+debugger
 daggerbush
 dodecade
 dallas
@@ -18613,7 +18614,6 @@ decentring
 decimalising
 dustups
 digitus
-debugger
 dusun
 dollarwise
 desightment
