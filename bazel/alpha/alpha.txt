@@ -5926,7 +5926,6 @@ aerogeology
 amphithecial
 aggravative
 adenohypophysis
-aneurism
 ardeidae
 aggregate
 antroscopy
@@ -9344,6 +9343,7 @@ acerose
 alphabetic
 alphabetical
 alphabetically
+aneurism
 abbotships
 adenolymphoma
 affectation
