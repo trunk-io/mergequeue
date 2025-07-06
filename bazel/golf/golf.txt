@@ -1402,7 +1402,6 @@ graffer
 gipsire
 goodnight
 gashing
-grandgore
 garbage
 geneva
 glazen
@@ -10160,6 +10159,7 @@ gemlich
 goggly
 grazioso
 grooper
+grandgore
 guato
 genres
 guidepost
