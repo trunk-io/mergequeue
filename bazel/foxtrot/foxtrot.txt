@@ -2361,6 +2361,7 @@ favorably
 febrility
 fast
 fixities
+fylgja
 faceteness
 flagitious
 forgivers
@@ -11632,7 +11633,6 @@ fixable
 forint
 frolicsomely
 fibrous
-fylgja
 fosite
 funestal
 finestiller
