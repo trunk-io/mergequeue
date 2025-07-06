@@ -4480,6 +4480,7 @@ floorward
 float
 frowzly
 feelable
+flnerie
 flossy
 fraternizer
 fishmouth
@@ -10462,7 +10463,6 @@ fribblers
 ferruling
 farrant
 frontiersmen
-flnerie
 foregoer
 forbodes
 fosterland
