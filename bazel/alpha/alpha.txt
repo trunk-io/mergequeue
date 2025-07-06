@@ -5803,6 +5803,7 @@ ageable
 agallop
 agedness
 agee
+autosight
 ageing
 ageings
 archiannelida
@@ -24385,7 +24386,6 @@ autoscope
 autoscopic
 atrabiliar
 antagonise
-autosight
 albuminuric
 autosymbolic
 autosymbolical
