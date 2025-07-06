@@ -2641,7 +2641,6 @@ acre
 albuminometry
 aquamarine
 ammochaeta
-acreage
 anamirta
 acred
 acreman
@@ -8206,6 +8205,7 @@ atavist
 aln
 alterne
 aliamenta
+acreage
 antarctalia
 alias
 aleutians
