@@ -1905,6 +1905,7 @@ acetylamine
 acetylaniline
 aitiology
 alabastos
+alkanes
 adamic
 abiogeny
 acetylating
@@ -8514,7 +8515,6 @@ alkalurops
 algorithms
 alkamine
 arguer
-alkanes
 alkanet
 allicholly
 alkanethiol
