@@ -5334,7 +5334,6 @@ becurry
 blueheads
 bethesdas
 burrer
-bivariate
 beglide
 begloom
 beglooming
@@ -13764,6 +13763,7 @@ butle
 bigheads
 bouzoukia
 bouzoukis
+bivariate
 bloat
 bescurf
 burga
