@@ -10489,6 +10489,7 @@ bopyrid
 blaster
 blastid
 blasting
+bennettites
 borolanite
 blastings
 blastocarpous
@@ -14958,7 +14959,6 @@ billitonite
 brechtian
 bunchberries
 bred
-bennettites
 burnut
 bredbergite
 baumhauerite
