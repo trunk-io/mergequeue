@@ -1284,6 +1284,7 @@ firmitude
 frigidity
 fenders
 flexural
+footsoldiers
 fatuities
 feodatory
 freieslebenite
@@ -10772,7 +10773,6 @@ fth
 flume
 feuars
 featherlet
-footsoldiers
 fudge
 fanned
 freinage
