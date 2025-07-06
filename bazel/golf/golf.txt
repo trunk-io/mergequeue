@@ -4088,7 +4088,6 @@ gendering
 gangrenate
 guiltful
 gymnasic
-galeidae
 gonif
 galactophthysis
 grapsidae
@@ -5914,6 +5913,7 @@ glitzy
 garrison
 gemitorial
 globuliform
+galeidae
 gluishness
 germy
 glumes
