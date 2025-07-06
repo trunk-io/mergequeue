@@ -5975,6 +5975,7 @@ anemophilous
 aggro
 acropetal
 alacrities
+aptnesses
 aggroup
 affrontee
 approximant
@@ -18092,7 +18093,6 @@ aptychus
 aproning
 aptitude
 aptitudes
-aptnesses
 autohypnotization
 anises
 amuletic
