@@ -3773,7 +3773,6 @@ gola
 girosol
 glarier
 gonapophysal
-gearwheels
 gideon
 gyropilot
 gesticulate
@@ -4140,6 +4139,7 @@ gaggles
 gundogs
 gnathites
 gastroplication
+gearwheels
 glaswegian
 gibbeted
 gelofre
