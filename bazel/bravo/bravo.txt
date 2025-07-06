@@ -10968,7 +10968,6 @@ byerlite
 batement
 benchmar
 blinkingly
-blinter
 batel
 bilharzic
 blocky
@@ -16372,6 +16371,7 @@ bridgeless
 bestink
 bps
 banditry
+blinter
 botanising
 brunonism
 bromellite
