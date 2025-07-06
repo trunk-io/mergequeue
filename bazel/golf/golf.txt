@@ -1149,6 +1149,7 @@ genin
 genio
 generalness
 gantsl
+gaslike
 galactometry
 gastrostomus
 glossograph
@@ -9991,7 +9992,6 @@ gubernatrix
 granada
 graveness
 grungy
-gaslike
 gasworks
 gateau
 gudame
