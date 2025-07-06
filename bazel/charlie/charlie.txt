@@ -5257,6 +5257,7 @@ casiri
 casita
 casitas
 casket
+countercathexis
 corpl
 conflation
 cellulosed
@@ -26744,7 +26745,6 @@ counterbrand
 curted
 confutable
 counterbuff
-countercathexis
 countercause
 counterchanged
 countercharm
