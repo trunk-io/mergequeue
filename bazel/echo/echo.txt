@@ -3416,7 +3416,6 @@ evacuate
 eventide
 embellisher
 earlish
-embellishers
 enchained
 eddied
 encolden
@@ -10343,6 +10342,7 @@ eemis
 epidemial
 expecters
 effacer
+embellishers
 ethmopalatal
 ectases
 exsurgent
