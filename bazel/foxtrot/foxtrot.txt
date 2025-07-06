@@ -304,7 +304,6 @@ fledges
 fragmentisation
 froren
 flanks
-felid
 fraenums
 foreboder
 forebar
@@ -3464,6 +3463,7 @@ foxish
 fractonimbus
 foresters
 ferocious
+felid
 firmation
 flowcharts
 fiascoes
