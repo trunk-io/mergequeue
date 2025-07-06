@@ -11561,6 +11561,7 @@ deepened
 demimondaines
 dismark
 dwarfy
+diatomic
 degusting
 discomedusae
 dentiphone
@@ -13858,7 +13859,6 @@ distain
 distaining
 distance
 denumeration
-diatomic
 demast
 dryers
 doable
