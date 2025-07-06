@@ -1624,7 +1624,6 @@ argenteum
 accreditate
 archpresbyter
 accreditations
-accrediting
 absentmindedness
 aeraria
 accrescence
@@ -17934,6 +17933,7 @@ amblypod
 autocorrelate
 aliesterase
 approacher
+accrediting
 approaching
 approbated
 anosia
