@@ -3745,7 +3745,6 @@ cohogs
 coroparelcysis
 chetty
 caravans
-caravansary
 caravansaries
 caravanserai
 chromoxylography
@@ -26865,6 +26864,7 @@ coccagee
 countergauge
 cassoon
 countergirded
+caravansary
 contest
 counterguard
 counterguerilla

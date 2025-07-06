@@ -1744,6 +1744,7 @@ downtimes
 drof
 deathward
 dikaryon
+digitron
 docent
 deathworm
 disomic
@@ -9592,7 +9593,6 @@ draggly
 digitoplantar
 diprismatic
 deevilick
-digitron
 dialogising
 digladiating
 decken
