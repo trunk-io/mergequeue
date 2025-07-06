@@ -5312,7 +5312,6 @@ afformative
 affrayers
 affraying
 affrays
-affranchise
 affreightment
 adiadokokinesi
 affret
@@ -9359,6 +9358,7 @@ alphabetized
 arbalos
 alphabetizer
 alphabetizers
+affranchise
 acroblast
 axifera
 antineoplastic
