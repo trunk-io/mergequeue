@@ -260,7 +260,6 @@ bloodroot
 bacilary
 bacile
 bacillaceae
-brarow
 bacillariaceae
 baldric
 buried
@@ -5538,6 +5537,7 @@ beisance
 bouvier
 burled
 beja
+brarow
 bejant
 bloodwit
 bergsonism
