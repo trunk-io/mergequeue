@@ -3695,7 +3695,6 @@ batterie
 breck
 batteries
 batteryman
-batterman
 bullockman
 bindlet
 bepinch
@@ -6911,6 +6910,7 @@ beshake
 bentinck
 beseemed
 bendel
+batterman
 beryllosis
 beastie
 bougainvillaeas
