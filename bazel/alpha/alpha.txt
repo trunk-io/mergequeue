@@ -10617,7 +10617,6 @@ amyloplast
 appertaining
 amyloplastid
 amylopsin
-anteromedian
 amylose
 achree
 amyloses
@@ -22619,6 +22618,7 @@ abnegated
 atherosperma
 abfarads
 atherurus
+anteromedian
 accelerant
 atheticize
 athetotic
