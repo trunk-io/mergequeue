@@ -20046,7 +20046,6 @@ commem
 commemorate
 caules
 commemorated
-commemorates
 commemoration
 commemorative
 concavo
@@ -24526,6 +24525,7 @@ commandrie
 copartnership
 chronodeik
 counterquarterly
+commemorates
 copassionate
 countermotion
 clampdown
