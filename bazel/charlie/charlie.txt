@@ -10655,7 +10655,6 @@ conter
 carports
 chiller
 chillers
-confessionary
 comino
 corporational
 cotwist
@@ -16453,6 +16452,7 @@ clisere
 clyses
 clishmaclaver
 clysma
+confessionary
 cribral
 cacophonies
 clyssus
