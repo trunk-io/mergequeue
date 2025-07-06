@@ -1608,7 +1608,6 @@ ballo
 bursitises
 begluc
 ballock
-banneret
 brairding
 bestar
 brahms
@@ -12714,6 +12713,7 @@ boatkeeper
 billion
 bookers
 brachydactylic
+banneret
 bailsmen
 brahminism
 bookfold
