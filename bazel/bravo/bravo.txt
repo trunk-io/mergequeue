@@ -4147,7 +4147,6 @@ barbastel
 bagwigs
 baddishness
 bearward
-bearwort
 boanthropy
 beastbane
 bravadoing
@@ -15605,6 +15604,7 @@ bg
 bulkheads
 burred
 belemnid
+bearwort
 broadcast
 broadcaster
 broadcastings
