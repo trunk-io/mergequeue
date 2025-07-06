@@ -4443,7 +4443,6 @@ disgracefulness
 dowdyish
 demembre
 dreamlike
-disassembled
 dementation
 dementedly
 deul
@@ -8322,6 +8321,7 @@ dynamiting
 dagesh
 desonation
 deerstand
+disassembled
 doombook
 dialyzer
 diagrams
