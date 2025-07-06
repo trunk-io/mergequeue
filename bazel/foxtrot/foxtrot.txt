@@ -2297,7 +2297,6 @@ femora
 fen
 fatil
 fain
-fenced
 fencelessness
 fink
 forkiest
@@ -10170,6 +10169,7 @@ flaxen
 farmwife
 forbit
 foreguidance
+fenced
 fishless
 forepredicament
 femme
