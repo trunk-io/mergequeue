@@ -3686,7 +3686,6 @@ electrogenesis
 elements
 embryos
 esthesioblast
-embryotega
 etherialise
 ebony
 embryotegae
@@ -6335,6 +6334,7 @@ enrolled
 enrollee
 extraorbitally
 embryologies
+embryotega
 efformative
 episcenia
 earmarking
