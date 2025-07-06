@@ -9153,7 +9153,6 @@ endoscopic
 exponential
 equipollent
 entothorax
-epicolic
 euryalae
 encanker
 electroencephalographic
@@ -12328,6 +12327,7 @@ equimolecular
 epimerite
 erichtoid
 enjambment
+epicolic
 eradicating
 emusive
 earthlings
