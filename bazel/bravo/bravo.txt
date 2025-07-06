@@ -12465,7 +12465,6 @@ botryopteris
 bawhorse
 bondmen
 bullyrock
-bondminder
 bondon
 bookroom
 bawdrick
@@ -15151,6 +15150,7 @@ bedeaf
 blancs
 brandyball
 barbiturate
+bondminder
 backslash
 batwa
 bribing
