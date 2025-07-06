@@ -3746,7 +3746,6 @@ anisopterous
 adiapneustia
 adiated
 adiathermal
-adiathermancy
 antioxidase
 alcoranist
 alure
@@ -19934,6 +19933,7 @@ armlessness
 armlets
 aiguellette
 armlike
+adiathermancy
 armload
 armlock
 armoires
