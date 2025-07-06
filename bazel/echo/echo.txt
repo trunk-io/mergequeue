@@ -35,7 +35,6 @@ ear
 endosporia
 estafet
 earache
-enumerated
 estimableness
 epidemiological
 erroneously
@@ -4777,6 +4776,7 @@ elucubration
 exterminate
 elator
 enclosures
+enumerated
 enchalice
 emprent
 emmenia
