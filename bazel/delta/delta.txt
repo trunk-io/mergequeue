@@ -8518,7 +8518,6 @@ displacer
 downgrades
 diamond
 diamondback
-diamondbacked
 diamondizing
 dysteleology
 debaucher
@@ -18322,6 +18321,7 @@ dunting
 depository
 dasyproctidae
 dishonesties
+diamondbacked
 debussing
 detonate
 duodecastyle
