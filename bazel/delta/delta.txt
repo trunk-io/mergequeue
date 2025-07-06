@@ -7050,7 +7050,6 @@ dykage
 dessertspoon
 dessertspoonfuls
 duramen
-destinezite
 dessous
 devall
 doodad
@@ -7943,6 +7942,7 @@ dews
 defrost
 dowitch
 disentraced
+destinezite
 doublets
 dicarboxylic
 dex
