@@ -2766,7 +2766,6 @@ acrospore
 acroclinium
 acrocomia
 acrocoracoid
-acrodactyla
 acrodermatitis
 acrodynia
 anapophyses
@@ -23388,6 +23387,7 @@ accommodational
 auditor
 auditory
 androgonium
+acrodactyla
 apportioned
 auditorial
 attitudinarian
