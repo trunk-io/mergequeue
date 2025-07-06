@@ -4277,6 +4277,7 @@ germicide
 gynetype
 gymnadenia
 glazieries
+gastness
 grieves
 geologising
 gippy
@@ -8825,7 +8826,6 @@ gainlier
 galleyworm
 gaged
 greyiaceae
-gastness
 gypsiologist
 grushie
 glaury
