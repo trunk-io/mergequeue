@@ -3267,7 +3267,6 @@ forestress
 fusilade
 flutterers
 flavourer
-flotages
 foods
 fogman
 feloness
@@ -5620,6 +5619,7 @@ fossilation
 formulary
 fmt
 flyer
+flotages
 frontonasal
 frouncing
 flageolet
