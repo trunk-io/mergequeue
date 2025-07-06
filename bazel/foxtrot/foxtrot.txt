@@ -5921,7 +5921,6 @@ fisherfolk
 faultfinding
 fdname
 flockings
-fulsamic
 folgerite
 fencepost
 feculae
@@ -6713,6 +6712,7 @@ flintlock
 flouts
 fogfruits
 fluerics
+fulsamic
 formicariae
 foofaraws
 furrier
