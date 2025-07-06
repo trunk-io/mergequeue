@@ -6049,7 +6049,6 @@ grifts
 gnawers
 grane
 gnathopodite
-gneissic
 gasifying
 gruffiness
 grizelin
@@ -8698,6 +8697,7 @@ globin
 geraniaceous
 gastrodialysis
 gismo
+gneissic
 groundenell
 grubby
 gambit
