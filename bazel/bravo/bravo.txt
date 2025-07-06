@@ -3499,6 +3499,7 @@ batcher
 bargemen
 bogging
 bateau
+bedrapes
 blastomycetous
 bateleur
 barbered
@@ -11621,7 +11622,6 @@ boardsmanship
 boatloads
 blonde
 boardly
-bedrapes
 buceros
 boardwalks
 battledored
