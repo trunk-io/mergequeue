@@ -1933,7 +1933,6 @@ embreastment
 epiphylaxis
 eluants
 enantiomer
-enabled
 echinulate
 estoppal
 eurypterid
@@ -10784,6 +10783,7 @@ enwraps
 elicitory
 equiformal
 egriot
+enabled
 eulachan
 exhibiters
 embedder
