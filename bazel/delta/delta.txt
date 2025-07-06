@@ -1915,7 +1915,6 @@ disapprobations
 demineralizer
 dacryd
 deferments
-desire
 durocs
 dawsonite
 deaccession
@@ -9681,6 +9680,7 @@ disfunctions
 drizzle
 dupers
 dihydrochloride
+desire
 duplicable
 diapason
 devastations
