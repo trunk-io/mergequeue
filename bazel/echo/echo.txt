@@ -5228,7 +5228,6 @@ emong
 encyclopaedist
 endoperidium
 externalised
-echogram
 endophagous
 ephebeion
 endophasic
@@ -8007,6 +8006,7 @@ enflesh
 eteocreton
 embower
 explication
+echogram
 epinaos
 embox
 eliminand
