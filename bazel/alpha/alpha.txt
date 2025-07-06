@@ -11973,7 +11973,6 @@ asclent
 awakenable
 anaschistic
 anaseismic
-anasitch
 anaspadias
 anaspalin
 auntship
@@ -23436,6 +23435,7 @@ augmenters
 augmentive
 augmentor
 augrim
+anasitch
 aggravator
 ambidexterous
 acecaffin
