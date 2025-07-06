@@ -3137,7 +3137,6 @@ grigs
 geotropy
 guardant
 gametoid
-ganglial
 gooier
 guerdoning
 gephyrea
@@ -5588,6 +5587,7 @@ grossular
 giftlike
 gl
 groundwall
+ganglial
 goldseed
 ghostlet
 guayroto
