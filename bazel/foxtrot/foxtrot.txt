@@ -7560,7 +7560,6 @@ foreclosure
 fevering
 fodientia
 forecome
-forecommend
 foreconclude
 flagonet
 figworts
@@ -10853,6 +10852,7 @@ fantasizing
 footholds
 fallings
 fele
+forecommend
 fossors
 flavor
 fon
