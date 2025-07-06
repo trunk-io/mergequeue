@@ -8433,7 +8433,6 @@ converts
 chalklike
 chalkline
 chantage
-columnated
 chalkone
 chalkos
 chalkotheke
@@ -14188,6 +14187,7 @@ cyprus
 cypseliform
 cypseliformes
 chiriana
+columnated
 cryptostomate
 cypseloid
 coutel
