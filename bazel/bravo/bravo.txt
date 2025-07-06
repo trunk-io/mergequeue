@@ -9833,7 +9833,6 @@ barbing
 brands
 begums
 bites
-birefringent
 bebat
 brubru
 bytes
@@ -14735,6 +14734,7 @@ brawnedness
 biaxillary
 brawnily
 bloodsuckers
+birefringent
 budbreak
 blacklegs
 babel
