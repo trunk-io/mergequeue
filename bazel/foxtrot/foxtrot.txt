@@ -71,7 +71,6 @@ faceharden
 flagships
 fighters
 flecken
-facellite
 felonious
 furthers
 flysch
@@ -659,6 +658,7 @@ fanum
 fauster
 flagmen
 freightyard
+facellite
 falsity
 faltboat
 flugelmen
