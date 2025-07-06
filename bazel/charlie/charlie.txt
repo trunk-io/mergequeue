@@ -24761,7 +24761,6 @@ carlage
 coprolith
 coprolitic
 coprophagy
-coprophagia
 couril
 coprophagist
 corroboree
@@ -30006,6 +30005,7 @@ crouch
 crouchant
 crouchback
 crouched
+coprophagia
 crouches
 crouchie
 cahnite
