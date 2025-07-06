@@ -5833,7 +5833,6 @@ gladify
 gate
 gymnosporangium
 gynoecium
-glucate
 gorevan
 gliders
 gibelite
@@ -10609,6 +10608,7 @@ glossmeter
 gadidae
 geohydrologist
 gourmetism
+glucate
 gillion
 glandaceous
 gowned
