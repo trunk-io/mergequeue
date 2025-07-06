@@ -4815,7 +4815,6 @@ beshrouded
 bolometer
 bedstraw
 bedstraws
-bedstring
 boundedly
 beautiless
 broadwise
@@ -16388,6 +16387,7 @@ buttonless
 botas
 booted
 bouffage
+bedstring
 balbriggan
 batitinan
 beclip
