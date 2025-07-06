@@ -6489,6 +6489,7 @@ flightful
 fictor
 fruitages
 fissilingual
+frappes
 farriery
 flatboat
 fording
@@ -9714,7 +9715,6 @@ fingerroot
 functorial
 flummoxed
 filch
-frappes
 filosofe
 farragos
 freyja
