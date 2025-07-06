@@ -2350,7 +2350,6 @@ doctorfish
 dechloridation
 dechloridize
 dehydroascorbic
-dendrites
 dechlorinate
 dissymmetrical
 dillweed
@@ -18674,6 +18673,7 @@ dwarfisms
 darwinically
 detersively
 dwarfs
+dendrites
 dwelled
 diaulos
 dwindled
