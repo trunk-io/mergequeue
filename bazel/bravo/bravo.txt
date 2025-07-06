@@ -4176,6 +4176,7 @@ beastlings
 bulgy
 beastman
 beastship
+bloaters
 beat
 benches
 beatae
@@ -8491,7 +8492,6 @@ bilgeway
 bilgier
 bilharzial
 beglerbey
-bloaters
 bilharziosis
 boiled
 bilianic
