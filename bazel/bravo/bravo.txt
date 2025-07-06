@@ -1315,7 +1315,6 @@ broody
 barbed
 balases
 balat
-belying
 basellaceous
 balatron
 benzaldiphenyl
@@ -2819,6 +2818,7 @@ barothermohygrograph
 barotrauma
 bulgurs
 bravest
+belying
 burbling
 barotraumas
 bostons
