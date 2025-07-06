@@ -10354,7 +10354,6 @@ deans
 draughting
 dames
 dionysia
-dionysiac
 dionysiacally
 dionysus
 dirigibles
@@ -15749,6 +15748,7 @@ downbye
 dorask
 dorbeetle
 deflectors
+dionysiac
 dissava
 dorbel
 dorbugs
