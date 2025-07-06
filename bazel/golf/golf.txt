@@ -8965,6 +8965,7 @@ gearbox
 giher
 germinating
 galingale
+gimbals
 guaranteed
 gradgrindish
 gushers
@@ -10761,7 +10762,6 @@ ganoin
 gloam
 graminin
 gorhen
-gimbals
 gallium
 galempong
 grubworm
