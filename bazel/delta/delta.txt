@@ -2619,6 +2619,7 @@ deathtraps
 decoll
 deguelia
 drumbling
+discharged
 dumbcow
 dispensaries
 decolletage
@@ -12397,7 +12398,6 @@ dactyl
 dithyrambically
 dromaeognathous
 dielectrics
-discharged
 differentiates
 dispending
 dalmatian
