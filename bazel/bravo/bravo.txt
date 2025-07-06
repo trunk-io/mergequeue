@@ -2476,7 +2476,6 @@ binotic
 bigram
 baresthesia
 bottom
-begod
 busies
 brashness
 blens
@@ -11277,6 +11276,7 @@ bloodguiltiness
 beglobed
 begirdled
 blouse
+begod
 blearier
 basks
 blouses
