@@ -13409,7 +13409,6 @@ anna
 annabergite
 annal
 antiminsion
-antimnemonic
 annaly
 annalia
 annaline
@@ -23374,6 +23373,7 @@ athyroid
 audiotypist
 aceric
 amirates
+antimnemonic
 aluminosilicate
 audiphone
 ababdeh
