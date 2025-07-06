@@ -4499,7 +4499,6 @@ fishpole
 fishpoles
 flueless
 flensing
-flameproof
 fishponds
 fibrilled
 fishpotter
@@ -10993,6 +10992,7 @@ fumed
 friended
 frigging
 freshly
+flameproof
 fortilage
 feuillemorte
 funkia
