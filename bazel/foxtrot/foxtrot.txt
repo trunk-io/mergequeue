@@ -1362,7 +1362,6 @@ fop
 fleeced
 former
 foxtails
-fructivorous
 fatbird
 fated
 fatefully
@@ -6709,6 +6708,7 @@ fairways
 fogdom
 fogfruit
 flatterable
+fructivorous
 flintlock
 flouts
 fogfruits
