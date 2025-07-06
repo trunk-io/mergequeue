@@ -2627,7 +2627,6 @@ flappy
 fluidification
 ferryway
 finding
-fumes
 forechase
 ferrocene
 fogramity
@@ -6302,6 +6301,7 @@ fermentate
 fluidist
 festers
 fluidized
+fumes
 ferroconcrete
 firers
 flared
