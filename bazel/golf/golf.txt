@@ -2731,7 +2731,6 @@ growling
 gimmor
 gascoigny
 greatcoat
-glories
 gyro
 gecko
 garni
@@ -3465,6 +3464,7 @@ garotting
 gunkholed
 gibbsites
 gumbotils
+glories
 glucogene
 gilt
 gettings
