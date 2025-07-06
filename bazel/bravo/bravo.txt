@@ -5051,7 +5051,6 @@ befalls
 botanised
 battlers
 blazoned
-bastonet
 bowfin
 bloodthirst
 befamilied
@@ -6794,6 +6793,7 @@ bedscrew
 boteler
 bumpier
 busulfan
+bastonet
 berrichonne
 bosquet
 berrier
