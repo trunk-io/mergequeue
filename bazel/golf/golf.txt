@@ -2533,7 +2533,6 @@ generate
 guitars
 generated
 gazetteerage
-gomerel
 guetare
 generative
 generatrices
@@ -4650,6 +4649,7 @@ glassin
 guisard
 glycuronic
 glary
+gomerel
 gradely
 graecism
 goglet
