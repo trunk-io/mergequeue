@@ -2344,7 +2344,6 @@ filicales
 flotation
 foreface
 flagelliferous
-fenestrae
 foreword
 fluoresced
 fenestrated
@@ -8035,6 +8034,7 @@ fowlery
 faunally
 fanfoot
 fieldie
+fenestrae
 fourteenthly
 forestation
 flexional
