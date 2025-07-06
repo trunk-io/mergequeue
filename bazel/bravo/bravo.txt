@@ -12592,7 +12592,6 @@ backlist
 bonnyish
 beverages
 boogeyman
-bodices
 bonnnes
 butylamine
 bonnocks
@@ -17407,6 +17406,7 @@ bewitchments
 bunk
 begrudged
 belinurus
+bodices
 bipersonal
 bytownite
 byerite
