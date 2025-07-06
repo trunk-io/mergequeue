@@ -3771,7 +3771,6 @@ geodaesia
 gorger
 gola
 girosol
-glarier
 gonapophysal
 gearwheels
 gideon
@@ -7301,6 +7300,7 @@ gratify
 gossiped
 glaive
 glittering
+glarier
 gossipee
 griffon
 greensward
