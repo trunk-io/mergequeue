@@ -1663,7 +1663,6 @@ gluts
 galactopoietic
 gelatination
 gastightness
-gabbler
 gastroesophageal
 glyptodont
 gentries
@@ -6712,6 +6711,7 @@ gagging
 gripped
 geneticist
 georgic
+gabbler
 globulet
 gulash
 graminivorous
