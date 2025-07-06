@@ -8602,6 +8602,7 @@ chamfering
 characterstring
 champaka
 conducts
+chirurgery
 clubridden
 champaks
 cholines
@@ -11131,7 +11132,6 @@ chirt
 chirurgeon
 crimean
 chirurgeonly
-chirurgery
 chis
 chiseled
 curuba
