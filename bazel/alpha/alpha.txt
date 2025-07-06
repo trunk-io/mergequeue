@@ -17310,6 +17310,7 @@ ambiguousness
 archcorsair
 anights
 aport
+arval
 aportlast
 aposaturnium
 aposia
@@ -20835,7 +20836,6 @@ aruspex
 aruspice
 aruspicy
 arteriography
-arval
 arvejon
 arverni
 arvicoline
