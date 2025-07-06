@@ -11382,7 +11382,6 @@ chloroacetophenone
 childe
 chloroamide
 chloroamine
-chloroaurate
 chloroaurite
 cirratulus
 chlorobenzene
@@ -22295,6 +22294,7 @@ conglobed
 conglobes
 conglomerate
 carolling
+chloroaurate
 cylices
 calzoons
 conglomerating
