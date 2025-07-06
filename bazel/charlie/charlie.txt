@@ -9761,7 +9761,6 @@ coastman
 catholiciser
 cheeros
 castoroides
-cafuso
 cheesebox
 cheeseburger
 cheeseburgers
@@ -24360,6 +24359,7 @@ concentrate
 caverning
 caritas
 cookshop
+cafuso
 cookshops
 cards
 cookstove
