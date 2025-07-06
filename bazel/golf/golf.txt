@@ -4695,7 +4695,6 @@ gitim
 glamourousness
 guideship
 gecks
-garshuni
 gangplow
 gytling
 gamostelic
@@ -10386,6 +10385,7 @@ gems
 gpad
 groans
 girandola
+garshuni
 goujon
 gullying
 gastritic
