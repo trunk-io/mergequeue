@@ -4883,7 +4883,6 @@ genappe
 glaga
 glagolic
 guttiferae
-glaieul
 glaik
 glossotomy
 geodal
@@ -10704,6 +10703,7 @@ gurging
 gu
 grams
 gumma
+glaieul
 gunship
 gismondine
 gastrolytic

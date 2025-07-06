@@ -7426,7 +7426,6 @@ cephalate
 cephaletron
 cephalhematoma
 coracovertebral
-cephalic
 cephalically
 cephalina
 cephaline
@@ -7984,6 +7983,7 @@ castaway
 cessor
 cesspipe
 churchly
+cephalic
 cesspit
 coordinating
 cesspits
