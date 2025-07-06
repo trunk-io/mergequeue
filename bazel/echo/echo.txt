@@ -7986,7 +7986,6 @@ estragol
 ensilation
 expounds
 epimanikion
-echar
 epimeres
 electrostenolysis
 epimerism
@@ -9644,6 +9643,7 @@ emptory
 echinospermum
 expediente
 excurse
+echar
 epiphenomenalist
 esculent
 egocentristic

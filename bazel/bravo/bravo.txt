@@ -12368,7 +12368,6 @@ bonkers
 byronize
 beplaided
 bab
-band
 bandlimit
 buckshee
 brigades
@@ -16665,6 +16664,7 @@ blurrily
 bucky
 besa
 buckishness
+band
 buddled
 buckism
 buckland
