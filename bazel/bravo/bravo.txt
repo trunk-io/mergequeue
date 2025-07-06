@@ -1499,6 +1499,7 @@ bacteremia
 borstal
 bistable
 bedsick
+bout
 balladic
 balladised
 balladism
@@ -6580,7 +6581,6 @@ boatside
 basichromiole
 borickite
 berberi
-bout
 biohazard
 berberid
 bricked
