@@ -2240,6 +2240,7 @@ endoplasma
 elector
 exhume
 elks
+electroacoustics
 ethnarchs
 encyclopedian
 encell
@@ -2303,7 +2304,6 @@ epigonus
 electroacoustic
 electroacoustical
 elfkin
-electroacoustics
 epithalamia
 endmatcher
 exundation
