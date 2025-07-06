@@ -8786,6 +8786,7 @@ allied
 allies
 alligated
 acceders
+atua
 activators
 arctoid
 alligatorfish
@@ -23248,7 +23249,6 @@ attunement
 attunes
 apteryges
 ablation
-atua
 atule
 abessive
 atune
