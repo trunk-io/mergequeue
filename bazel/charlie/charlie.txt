@@ -3195,6 +3195,7 @@ cultivation
 cede
 cacochymic
 capeweed
+ceromancy
 coverlet
 citruses
 capewise
@@ -7816,7 +7817,6 @@ contracter
 cerographical
 ceroline
 cerolite
-ceromancy
 ciliolate
 couldron
 chidden
