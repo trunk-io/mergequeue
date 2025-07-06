@@ -4059,7 +4059,6 @@ beams
 bargees
 bantlings
 bean
-brickred
 begottenness
 bedeafen
 brooked
@@ -13255,6 +13254,7 @@ bossily
 bowler
 boarish
 bosniac
+brickred
 bucketfuls
 bostanji
 bosthoon
