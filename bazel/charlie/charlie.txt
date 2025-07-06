@@ -11682,6 +11682,7 @@ cholecystokinin
 corkiness
 cholecystolithiasis
 cholecystostomy
+cirsomphalos
 cholecystotomy
 cholecystotomies
 choledochal
@@ -14595,7 +14596,6 @@ cassatas
 counterpuncher
 cirsectomies
 cirsoid
-cirsomphalos
 cirsophthalmia
 completable
 cirsotomy
