@@ -2102,7 +2102,6 @@ besteer
 bans
 bufagin
 bladeless
-boguing
 bulker
 billbeetle
 botoyan
@@ -12594,6 +12593,7 @@ beverages
 boogeyman
 bodices
 bonnnes
+boguing
 butylamine
 bonnocks
 bonnwis
