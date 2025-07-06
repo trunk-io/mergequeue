@@ -3746,6 +3746,7 @@ dehydrogenate
 dawtet
 distillable
 dehydrogenated
+doxographer
 dehydrogenating
 dehydrogenisation
 dehydrogenized
@@ -7908,7 +7909,6 @@ drillet
 deweylite
 dooryard
 dewflower
-doxographer
 duct
 doh
 dewing
