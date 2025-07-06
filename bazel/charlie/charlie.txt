@@ -3748,7 +3748,6 @@ caravans
 caravansary
 caravansaries
 caravanserai
-chromoxylography
 caravanserial
 companeros
 caravel
@@ -12004,6 +12003,7 @@ chordotomy
 chore
 caviare
 chorea
+chromoxylography
 choreal
 choreatic
 cuchan
