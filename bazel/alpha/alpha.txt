@@ -8376,6 +8376,7 @@ arbitrational
 afforestment
 alipteria
 alipterion
+alphanumeric
 aliptes
 aliptic
 aporia
@@ -19083,7 +19084,6 @@ anatinacea
 alit
 absorbant
 alkylamino
-alphanumeric
 alveoloclasia
 agritos
 actu
