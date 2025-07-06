@@ -7776,6 +7776,7 @@ geophone
 gegg
 glagol
 guaba
+gravitative
 groaners
 glutter
 gorman
@@ -8516,7 +8517,6 @@ gravisphere
 grangerised
 gooroo
 guiltlessly
-gravitative
 glomeli
 gainliest
 growths
