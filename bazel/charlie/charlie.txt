@@ -15065,7 +15065,6 @@ chromoplasm
 citrean
 counterparallel
 crossjack
-citreous
 citric
 citril
 citrylidene
@@ -17632,6 +17631,7 @@ coccaceae
 crucifix
 colloid
 coccaceous
+citreous
 coccal
 conducible
 coccerin
