@@ -20683,7 +20683,6 @@ complains
 cascaron
 cannabinaceous
 cryptographist
-complaint
 counteranswer
 complaintiveness
 complaints
@@ -22658,6 +22657,7 @@ connotations
 connotative
 connotatively
 connote
+complaint
 crymotherapy
 connoted
 connoting
