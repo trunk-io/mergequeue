@@ -1596,7 +1596,6 @@ flumped
 fussy
 foreteach
 farrow
-frundel
 flywort
 fauvette
 fishbowl
@@ -6263,6 +6262,7 @@ fermentitious
 foundationary
 frenzied
 fluffiness
+frundel
 flugel
 foreseat
 frettingly
