@@ -1299,7 +1299,6 @@ goodie
 germanous
 gamekeeping
 ginglymoid
-gateward
 gibbered
 galilee
 gorging
@@ -3575,6 +3574,7 @@ genearch
 gardenin
 gipsylike
 gaffkya
+gateward
 genotypicity
 ghettoes
 grubbing
