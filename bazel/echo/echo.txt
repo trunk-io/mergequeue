@@ -3336,6 +3336,7 @@ esquirearchy
 emoted
 egal
 explorator
+espundia
 excursioner
 envelopes
 encyclopaedial
@@ -6750,7 +6751,6 @@ entosclerite
 elective
 eulogiser
 epulis
-espundia
 endamebiasis
 embolomerous
 entertainingly
