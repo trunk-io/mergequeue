@@ -5467,6 +5467,7 @@ candlesticked
 confront
 casaque
 castlewards
+coastwaiter
 castlewise
 castock
 clepes
@@ -11023,7 +11024,6 @@ cerebrates
 contd
 cimmaron
 chirograph
-coastwaiter
 chirographers
 crl
 calumniated
