@@ -1049,7 +1049,6 @@ fimbrillae
 fontanges
 funicule
 fulmina
-fucuses
 formate
 foreorder
 fenester
@@ -2607,6 +2606,7 @@ faithbreach
 forewarningly
 forequarter
 ferrandin
+fucuses
 finlandization
 fleerer
 flimp
