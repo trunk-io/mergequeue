@@ -1084,7 +1084,6 @@ eagerly
 edged
 eidolon
 edger
-edgeshot
 edgeway
 embalmment
 exterritorial
@@ -7670,6 +7669,7 @@ epicoeloma
 euchymous
 epicoelous
 epicondyle
+edgeshot
 epicondylian
 exorhason
 exspuition
