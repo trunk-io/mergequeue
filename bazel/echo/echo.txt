@@ -5435,6 +5435,7 @@ ecderonic
 endseal
 endshake
 ennew
+ephemeralities
 exploration
 elfishly
 egretta
@@ -7505,7 +7506,6 @@ eutrophic
 ephelcystic
 eunuchizing
 extinguishant
-ephemeralities
 effluvial
 embattling
 eavesdroppers
