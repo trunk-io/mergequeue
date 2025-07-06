@@ -4024,7 +4024,6 @@ carcinogenesis
 carcinogenic
 carcinoid
 caracter
-compartmental
 crystalloluminescence
 carcinolysin
 carcinological
@@ -11525,6 +11524,7 @@ choanoflagellate
 choanoflagellida
 cotta
 choanophorous
+compartmental
 cataplasm
 choanosome
 choate
