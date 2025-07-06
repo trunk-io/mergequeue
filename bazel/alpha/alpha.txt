@@ -12846,7 +12846,6 @@ apneumatosis
 allineate
 aditio
 anglicized
-anglify
 alkalometry
 antirumor
 apperceiving
@@ -22731,6 +22730,7 @@ adenophthalmia
 adsorbates
 atloidoaxoid
 academicianship
+anglify
 atma
 atman
 acotyledon
