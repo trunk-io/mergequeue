@@ -7813,7 +7813,6 @@ aldols
 aldose
 aguador
 antefurca
-aldoside
 aldosterone
 aldosteronism
 aldrin
@@ -21801,6 +21800,7 @@ ambiparous
 assignee
 assignees
 aerophilous
+aldoside
 amphorophony
 antimeningococcic
 amebas
