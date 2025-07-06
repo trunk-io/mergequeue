@@ -7799,7 +7799,6 @@ anthozooid
 aphidicide
 aldazine
 aldoheptose
-aldoketene
 aldol
 assured
 alismad
@@ -11681,6 +11680,7 @@ acnodes
 adorant
 anagogic
 anagogics
+aldoketene
 advecting
 annoying
 annoyment
