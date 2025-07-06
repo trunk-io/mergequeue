@@ -1642,6 +1642,7 @@ fibrinogen
 filespec
 favorites
 ficoid
+fascinating
 furstone
 fadges
 fiats
@@ -7089,7 +7090,6 @@ fedayeen
 fluorogen
 foolish
 ferryboats
-fascinating
 fleapit
 forespeech
 factious
