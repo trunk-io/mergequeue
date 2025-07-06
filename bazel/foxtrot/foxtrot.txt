@@ -617,7 +617,6 @@ forerunners
 floorless
 fourfold
 fellon
-foreknows
 forpet
 fuchsone
 falsary
@@ -2294,6 +2293,7 @@ filesave
 fainaiguer
 fusilades
 femora
+foreknows
 fen
 fatil
 fain
