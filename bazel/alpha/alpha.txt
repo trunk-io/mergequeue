@@ -5613,7 +5613,6 @@ axbreaker
 anteceding
 agacerie
 autotoxis
-austromancy
 agada
 alloiometry
 ashlaring
@@ -14290,6 +14289,7 @@ anthesterion
 anthicidae
 anthills
 anthinae
+austromancy
 anthine
 amnesic
 anthypnotic
