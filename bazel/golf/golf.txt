@@ -811,7 +811,6 @@ grazeable
 gambette
 goldenrods
 guttable
-gyppo
 gletty
 galoots
 ginney
@@ -4253,6 +4252,7 @@ gusto
 garnishing
 guncotton
 gantang
+gyppo
 gruelled
 ghalva
 gomorrhean
