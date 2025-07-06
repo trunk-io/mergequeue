@@ -1804,7 +1804,6 @@ featherbird
 feoffors
 forfare
 foreshore
-foveal
 fuzztail
 foresaddle
 fluphenazine
@@ -4785,6 +4784,7 @@ foresey
 forerank
 fique
 feudalities
+foveal
 faldfee
 forthink
 fablemongering
