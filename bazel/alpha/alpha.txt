@@ -20490,6 +20490,7 @@ admov
 asterospondylous
 arteriocapillary
 arteriogenesis
+adenophthalmia
 arteriograph
 ahorseback
 adenectopia
@@ -22727,7 +22728,6 @@ atloid
 atloidean
 arousals
 anility
-adenophthalmia
 adsorbates
 atloidoaxoid
 academicianship
