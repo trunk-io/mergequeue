@@ -2846,7 +2846,6 @@ cultivable
 cinctures
 canonicalized
 canonicalizes
-circumventive
 congealer
 cremor
 canonicals
@@ -23033,6 +23032,7 @@ consonance
 consonancy
 consonant
 consonantal
+circumventive
 consonantalize
 consonantic
 cavalcade
