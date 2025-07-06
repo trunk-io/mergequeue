@@ -5731,7 +5731,6 @@ chested
 ching
 cephalodymia
 catastases
-congregationist
 catastasis
 catoptromancy
 catastate
@@ -22575,6 +22574,7 @@ conn
 connaraceous
 connascency
 connate
+congregationist
 connately
 connateness
 crinate
