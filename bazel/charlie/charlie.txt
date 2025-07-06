@@ -15175,6 +15175,7 @@ combine
 carposperm
 cl
 clabber
+conciser
 crossover
 clabbered
 clabbery
@@ -22693,7 +22694,6 @@ chessboard
 contributor
 conoidically
 camphanyl
-conciser
 camletine
 cotinus
 circadian
