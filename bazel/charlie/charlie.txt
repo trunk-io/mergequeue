@@ -9453,7 +9453,6 @@ chauna
 chaunoprockt
 childlikeness
 chartometer
-chaunted
 chaunter
 capillaritis
 chaunts
@@ -22003,6 +22002,7 @@ configuration
 configurationally
 configurations
 configurative
+chaunted
 configure
 configures
 coxcombry
