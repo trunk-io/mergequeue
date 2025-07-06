@@ -6325,6 +6325,7 @@ fuliginosity
 fluent
 flukeworm
 follicle
+fuselike
 ferryhouse
 fob
 falerian
@@ -11539,7 +11540,6 @@ fatwood
 frena
 foxfeet
 fuselages
-fuselike
 forecaddie
 fermentations
 faradiser
