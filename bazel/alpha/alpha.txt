@@ -8860,6 +8860,7 @@ allocators
 allocatur
 assumable
 allanturic
+acephalan
 antevocalic
 arrayment
 armouries
@@ -23036,7 +23037,6 @@ ammonolyze
 antheriform
 attemperament
 aizle
-acephalan
 abhenrys
 attempered
 anaxon
