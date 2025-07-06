@@ -5255,7 +5255,6 @@ bribability
 blastocyst
 begats
 bolters
-bastes
 bothsided
 begazing
 bimasty
@@ -16795,6 +16794,7 @@ buffalofish
 buffaloing
 bulltoad
 biflagellate
+bastes
 buffball
 branchiostege
 backings
