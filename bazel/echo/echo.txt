@@ -689,7 +689,6 @@ enhance
 envier
 excide
 eclogic
-extraocular
 eclogite
 eucryptite
 eclosion
@@ -3336,6 +3335,7 @@ esquirearchy
 emoted
 egal
 explorator
+extraocular
 excursioner
 envelopes
 encyclopaedial
