@@ -5098,6 +5098,7 @@ glali
 gnatflower
 glauconia
 glomera
+germiparity
 gentlehearted
 gnarred
 goldylocks
@@ -6132,7 +6133,6 @@ grumpish
 gnapweed
 gallification
 grammar
-germiparity
 generalizing
 garters
 gadfly
