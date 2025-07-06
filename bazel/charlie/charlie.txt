@@ -5695,7 +5695,6 @@ cataphracted
 cataphractic
 cataphrenia
 cataphrenic
-cataphrygian
 cataphrygianism
 cyclarthrosis
 cataplane
@@ -8392,6 +8391,7 @@ chaldean
 chiver
 caucused
 chaldee
+cataphrygian
 caricetum
 councillary
 chalder
