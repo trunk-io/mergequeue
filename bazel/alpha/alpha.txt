@@ -6047,7 +6047,6 @@ appetize
 agitable
 agitant
 agitate
-agitated
 agitation
 agitational
 azotite
@@ -10164,6 +10163,7 @@ ambulator
 ambulatory
 ambulatoria
 alternating
+agitated
 anurans
 affluent
 aphanitism
