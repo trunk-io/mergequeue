@@ -4415,7 +4415,6 @@ artisanry
 adustive
 amang
 aldoxime
-adv
 argue
 advaita
 advance
@@ -7683,6 +7682,7 @@ aberroscope
 autoprothesis
 alcoholimeter
 autoconverter
+adv
 asterin
 alcoholised
 argentite
