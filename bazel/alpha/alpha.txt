@@ -4792,7 +4792,6 @@ aconites
 arrivisme
 arrivederci
 aerobiologist
-autocross
 aperture
 amidase
 aequoreal
@@ -11720,6 +11719,7 @@ analemmata
 analepses
 agrege
 analeptic
+autocross
 analgesics
 argyrocephalous
 allargando
