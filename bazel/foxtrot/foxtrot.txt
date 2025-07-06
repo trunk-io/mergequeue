@@ -10103,7 +10103,6 @@ functions
 fondant
 finger
 fistulas
-furnisher
 foozling
 farmhands
 fordam
@@ -10214,6 +10213,7 @@ fissureless
 fibra
 frankheartedly
 filite
+furnisher
 floated
 flanker
 footnote
