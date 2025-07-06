@@ -6935,7 +6935,6 @@ formeret
 filibusterous
 finely
 fuseless
-foll
 fomes
 facia
 fedarie
@@ -10921,6 +10920,7 @@ fub
 foehn
 flexure
 field
+foll
 fulminatory
 fetal
 floorage
