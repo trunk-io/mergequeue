@@ -3057,7 +3057,6 @@ fezzes
 fallway
 fadings
 felucca
-frothing
 fy
 fiacres
 fetichry
@@ -4983,6 +4982,7 @@ fchar
 fluidised
 foining
 forsooth
+frothing
 fourteens
 flamen
 flamandization
