@@ -1192,7 +1192,6 @@ datary
 dataries
 datasetname
 dithers
-datcha
 disparison
 demiassignation
 dragooner
@@ -2810,6 +2809,7 @@ drypoints
 dari
 dogteeth
 decresc
+datcha
 desalination
 delphinus
 duodecahedron
