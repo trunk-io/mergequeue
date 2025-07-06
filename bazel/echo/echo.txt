@@ -4060,6 +4060,7 @@ entries
 emplanement
 ethmophysal
 entoilment
+encurl
 emplaster
 elevating
 emplastic
@@ -8906,7 +8907,6 @@ endocellular
 eremitism
 ecuelling
 epitheloid
-encurl
 enkernel
 eleometer
 ecospecifically
