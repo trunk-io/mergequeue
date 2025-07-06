@@ -5834,6 +5834,7 @@ gate
 gymnosporangium
 gynoecium
 glucate
+glyoxim
 gorevan
 gliders
 gibelite
@@ -10716,7 +10717,6 @@ gaumless
 grate
 gearwheel
 guslee
-glyoxim
 grumping
 gubernatorial
 gunnung
