@@ -4897,7 +4897,6 @@ clachans
 carriages
 crosstie
 carriagesmith
-cinchonicin
 carriageway
 carryall
 carrick
@@ -23292,6 +23291,7 @@ carbora
 commote
 calmative
 checkrooms
+cinchonicin
 cutlash
 cresotinate
 complainers
