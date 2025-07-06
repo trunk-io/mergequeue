@@ -4297,7 +4297,6 @@ forebooms
 floridians
 fax
 fourposters
-foreignize
 feverish
 fungose
 flatterers
@@ -4926,6 +4925,7 @@ fisheries
 formalness
 followable
 fulgora
+foreignize
 flails
 furoic
 futile
