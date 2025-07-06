@@ -11313,7 +11313,6 @@ aquifers
 antiplatelet
 amphoteric
 aircrewman
-ampicillin
 antonina
 ampyxes
 amigas
@@ -14101,6 +14100,7 @@ antennula
 antennular
 antiegoistically
 antennule
+ampicillin
 antenodal
 also
 antenor
