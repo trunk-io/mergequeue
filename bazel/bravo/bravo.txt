@@ -2675,6 +2675,7 @@ brither
 birdcage
 becoward
 bascules
+bathool
 bismuths
 balmlike
 barnabas
@@ -3589,7 +3590,6 @@ barkentine
 bathometer
 bathometry
 blockmaking
-bathool
 bathophobia
 bathos
 bathrobes
