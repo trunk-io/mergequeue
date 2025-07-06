@@ -1585,7 +1585,6 @@ belat
 ballised
 biradial
 britches
-binate
 ballista
 boilermaker
 basketlike
@@ -16254,6 +16253,7 @@ boussingaultia
 brucellosis
 barely
 bruchidae
+binate
 biolytic
 brucia
 brucin
