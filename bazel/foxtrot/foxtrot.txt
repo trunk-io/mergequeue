@@ -1946,6 +1946,7 @@ fontanelle
 fustilarian
 foism
 frothed
+forenote
 flitched
 fainly
 filicologist
@@ -7809,7 +7810,6 @@ fibrilla
 fablers
 florette
 fashes
-forenote
 fastness
 feltyflier
 fleamy
