@@ -62,7 +62,6 @@ gabon
 gonidiophore
 garoo
 greffe
-gorcrow
 glacionatant
 grayouts
 gloiosiphonia
@@ -5473,6 +5472,7 @@ glissando
 glistened
 grande
 ganoids
+gorcrow
 gimmer
 germantown
 gobbed
