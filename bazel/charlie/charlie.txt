@@ -14806,7 +14806,6 @@ cistus
 citable
 citadel
 cital
-countersynod
 cytase
 cytasic
 cytasters
@@ -25191,6 +25190,7 @@ corporealize
 corybantian
 corybantiasm
 corybantine
+countersynod
 chemung
 counterbreastwork
 corybantish
