@@ -7502,7 +7502,6 @@ gillotype
 gurries
 gedeckt
 gelatiniferous
-grounded
 grinagog
 gowked
 gunkholing
@@ -8637,6 +8636,7 @@ garlopa
 gawkishly
 geotactic
 goosing
+grounded
 gnu
 greenage
 groff
