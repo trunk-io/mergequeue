@@ -9430,7 +9430,6 @@ bobwood
 boga
 birectangular
 burh
-batteler
 bireme
 begeck
 bacteriostat
@@ -11752,6 +11751,7 @@ buzzword
 bobol
 biconvex
 bedamns
+batteler
 bedwarfs
 brynza
 bajocian
