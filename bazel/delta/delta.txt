@@ -11063,7 +11063,6 @@ diasystem
 disaligned
 disalliege
 disallow
-displaying
 disconformably
 dramatised
 dieselized
@@ -14619,6 +14618,7 @@ deoxyribonucleoprotein
 dismemberment
 demureness
 denotive
+displaying
 degradation
 demiurgically
 doorjambs
