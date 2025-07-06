@@ -3130,6 +3130,7 @@ backseats
 bleakest
 bonnes
 burghemot
+bourgade
 bronchography
 bleat
 briskly
@@ -13682,7 +13683,6 @@ bourg
 beckoned
 befoolable
 bespawl
-bourgade
 bonailie
 bourgeoisie
 bullroarer
