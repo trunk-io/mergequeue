@@ -8849,6 +8849,7 @@ erasers
 eventuations
 eldmother
 elod
+emissaria
 equestrial
 elide
 executory
@@ -10618,7 +10619,6 @@ equational
 excursionary
 ethylenic
 eckehart
-emissaria
 ethmose
 erotomania
 epephragmal
