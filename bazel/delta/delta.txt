@@ -5485,7 +5485,6 @@ deorganize
 deregister
 disenablement
 deorsum
-deorsumversion
 deossification
 deota
 dissipates
@@ -9028,6 +9027,7 @@ demurrals
 duckmole
 disobeyers
 dicyclies
+deorsumversion
 disqualifies
 dicyemata
 donnish
