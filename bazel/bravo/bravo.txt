@@ -2735,7 +2735,6 @@ bukeyef
 barology
 blockbusters
 balsam
-barolong
 bombax
 boroughship
 barometers
@@ -3353,6 +3352,7 @@ basques
 bass
 blankeel
 brans
+barolong
 bassa
 balaenicipites
 basiphobia
