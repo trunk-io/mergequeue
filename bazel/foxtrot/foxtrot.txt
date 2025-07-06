@@ -8152,7 +8152,6 @@ ferberite
 foretopmast
 fencer
 foretopmen
-foreperiod
 fossilology
 foretrace
 foreuse
@@ -11002,6 +11001,7 @@ farmery
 fumet
 forcipate
 fumets
+foreperiod
 fumiest
 fluoroscope
 frivolist
