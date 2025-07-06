@@ -1291,6 +1291,7 @@ een
 endosternite
 extraditable
 ecorche
+encomienda
 eblis
 eleonorite
 eq
@@ -6115,7 +6116,6 @@ epilator
 enlightenedly
 enlistments
 erasion
-encomienda
 epagogic
 emotional
 eltime
