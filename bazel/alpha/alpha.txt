@@ -5277,6 +5277,7 @@ aimable
 affixment
 anophthalmia
 actinocarp
+arraigner
 afflated
 ataxia
 afflatus
@@ -18301,7 +18302,6 @@ arach
 astonishing
 arachidic
 augen
-arraigner
 almoners
 adenasthenia
 arsenyl
