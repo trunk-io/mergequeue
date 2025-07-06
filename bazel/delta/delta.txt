@@ -3947,7 +3947,6 @@ dearomatize
 dogfoot
 deference
 dekes
-derivationally
 dotage
 douser
 duopoly
@@ -17600,6 +17599,7 @@ dabbler
 dubitant
 decastylar
 duant
+derivationally
 dentigerous
 dandelion
 defeminisation
