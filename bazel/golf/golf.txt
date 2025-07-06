@@ -6137,7 +6137,6 @@ generalizing
 garters
 gadfly
 geelbec
-goa
 gadsbud
 garibaldi
 goadsman
@@ -6831,6 +6830,7 @@ glauconite
 granulomas
 gaffsman
 gonosphere
+goa
 gymnasiarch
 grisettish
 gorbal
