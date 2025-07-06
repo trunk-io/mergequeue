@@ -8953,6 +8953,7 @@ chapwoman
 chaqueta
 commanders
 char
+colory
 conveyability
 crouchingly
 chara
@@ -11930,7 +11931,6 @@ connation
 chopines
 clarina
 chopins
-colory
 coinquinate
 choplogic
 choplogical
