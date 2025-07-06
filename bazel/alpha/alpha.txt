@@ -5455,6 +5455,7 @@ afterclause
 aftercome
 australasian
 acrostichic
+arenaria
 autocamper
 aftercooler
 alahee
@@ -19271,7 +19272,6 @@ areg
 areic
 aren
 arena
-arenaria
 annam
 auditives
 aquarii
