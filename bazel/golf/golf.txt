@@ -796,7 +796,6 @@ gambado
 gravata
 gambang
 grazer
-gonia
 goldbeater
 gambe
 gourmanderie
@@ -4209,6 +4208,7 @@ gloats
 gasteralgia
 gilty
 gluttonise
+gonia
 gynantherous
 goliath
 glossing
