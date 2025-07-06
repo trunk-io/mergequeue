@@ -6353,7 +6353,6 @@ astringently
 antiochene
 animate
 agriot
-agriotypidae
 allotypical
 agrypnia
 agrypnotic
@@ -11050,6 +11049,7 @@ ampelidae
 archespore
 anoxia
 alaskan
+agriotypidae
 ampelography
 apter
 ampelographist
