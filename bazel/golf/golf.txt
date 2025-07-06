@@ -6142,7 +6142,6 @@ gadsbud
 garibaldi
 goadsman
 grihastha
-gazetteers
 groveling
 goal
 glutted
@@ -9173,6 +9172,7 @@ grippiness
 gratulatory
 gausterer
 glycolytically
+gazetteers
 guanajuatite
 galvanometer
 greenwich
