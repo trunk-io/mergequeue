@@ -4892,7 +4892,6 @@ cetaceous
 carry
 carriage
 carriageable
-carriageful
 clachans
 carriages
 crosstie
@@ -12902,6 +12901,7 @@ computes
 carlylesque
 confronted
 crooknecks
+carriageful
 chunk
 chunked
 circumumbilical
