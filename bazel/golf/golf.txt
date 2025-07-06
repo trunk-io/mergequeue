@@ -4380,7 +4380,6 @@ grammatist
 gloriam
 gazer
 glimmered
-gorget
 gearcases
 gongs
 grifter
@@ -9776,6 +9775,7 @@ gruntling
 gazook
 gardenlike
 gruppo
+gorget
 galeate
 guebre
 grutch
