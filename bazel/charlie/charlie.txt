@@ -5906,7 +5906,6 @@ catenae
 catenane
 cremates
 claybanks
-catenarian
 catenas
 caudaite
 catenate
@@ -24064,6 +24063,7 @@ convergency
 columbary
 convergent
 chemoceptor
+catenarian
 converges
 converging
 conversable
