@@ -702,7 +702,6 @@ baddest
 bombardo
 breathable
 banjo
-baddie
 betimber
 brewage
 bathtubs
@@ -9794,6 +9793,7 @@ brokenhearted
 banderoles
 boos
 bisubstituted
+baddie
 bisubstitution
 bisulc
 babblingly
