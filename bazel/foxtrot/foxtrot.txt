@@ -966,7 +966,6 @@ fluorometer
 flamed
 feel
 fluoroborate
-faradisation
 fluosilicic
 fimbricated
 fimbrilliferous
@@ -5362,6 +5361,7 @@ fleabag
 faintheart
 fusible
 furciform
+faradisation
 finland
 fleabags
 fissidactyl
