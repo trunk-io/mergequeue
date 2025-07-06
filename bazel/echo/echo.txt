@@ -3537,7 +3537,6 @@ eupeptic
 epididymal
 entocone
 embolomalerism
-enervator
 epidural
 exceeder
 embolon
@@ -5835,6 +5834,7 @@ epicele
 expiations
 engrafter
 eluviated
+enervator
 emagram
 exibilate
 epiblastema
