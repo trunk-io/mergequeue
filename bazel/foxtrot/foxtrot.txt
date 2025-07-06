@@ -1495,7 +1495,6 @@ fattier
 flannelmouths
 fanwork
 false
-fall
 fiddled
 funis
 fattishness
@@ -5365,6 +5364,7 @@ furciform
 finland
 fleabags
 fissidactyl
+fall
 fluorites
 fricandoes
 feoffee
