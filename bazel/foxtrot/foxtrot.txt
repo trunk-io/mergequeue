@@ -5480,7 +5480,6 @@ feedlot
 farkleberry
 fluozirconic
 fernbrake
-flora
 funniness
 frequentness
 flemishes
@@ -7049,6 +7048,7 @@ fonts
 fusula
 farci
 fists
+flora
 francis
 floater
 fimbriae
