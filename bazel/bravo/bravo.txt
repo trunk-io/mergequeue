@@ -1126,6 +1126,7 @@ botete
 bankman
 bairnwort
 baisemain
+blunge
 baysmelt
 besmears
 baited
@@ -3892,7 +3893,6 @@ bint
 brockage
 bazooka
 bazookas
-blunge
 bamboos
 bbs
 bassly
