@@ -10485,7 +10485,6 @@ diacidic
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
-diospyros
 diphenylene
 despend
 diphenylenimine
@@ -18608,6 +18607,7 @@ dure
 dissonantly
 denudational
 dusttight
+diospyros
 dustuk
 decentring
 decimalising
