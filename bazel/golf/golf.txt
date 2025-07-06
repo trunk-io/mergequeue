@@ -2575,7 +2575,6 @@ gynecia
 galores
 graal
 glims
-gymnosophist
 genethlic
 glossopetra
 grossify
@@ -5401,6 +5400,7 @@ gender
 glutenin
 granomerite
 glyoxal
+gymnosophist
 gervase
 guardian
 geared

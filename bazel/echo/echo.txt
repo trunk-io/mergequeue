@@ -1296,7 +1296,6 @@ eleonorite
 eq
 eeriness
 epithalamion
-encircler
 endogenesis
 eassel
 enteroid
@@ -13109,6 +13108,7 @@ epistolographic
 eyeshine
 expediency
 ecoclimate
+encircler
 experientialism
 encarpuspi
 extensionality
