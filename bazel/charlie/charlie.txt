@@ -9778,7 +9778,6 @@ cheeselip
 cephalochorda
 cheesemaker
 cheesemaking
-cheesemongery
 cheesemongering
 cheeseparer
 canaster
@@ -10752,6 +10751,7 @@ chimbly
 constructional
 calcaemia
 chime
+cheesemongery
 chimer
 chimeral
 chanteys
