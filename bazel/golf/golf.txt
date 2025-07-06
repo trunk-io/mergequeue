@@ -505,6 +505,7 @@ gowiddie
 golem
 gruffing
 gastriloquist
+gutter
 geologers
 graff
 galivants
@@ -7864,7 +7865,6 @@ greases
 glecoma
 gorst
 guaiacum
-gutter
 gaberloonie
 gliriform
 gooseberries
