@@ -13859,7 +13859,6 @@ distaining
 distance
 denumeration
 diatomic
-demast
 dryers
 doable
 distanceless
@@ -18205,6 +18204,7 @@ delights
 ditetragonal
 dentatocostate
 diamagnetometer
+demast
 disfellowship
 deadlocks
 dermatorrhoea
