@@ -3148,6 +3148,7 @@ depauperization
 downfolded
 defaults
 defaulture
+datum
 dayworker
 defeasanced
 dialings
@@ -16474,7 +16475,6 @@ derivately
 delirate
 diachyma
 drabbler
-datum
 difflugia
 dunnesses
 dacoities
