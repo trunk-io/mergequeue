@@ -3573,7 +3573,6 @@ fermentology
 fraternity
 fleches
 falcones
-fastigiate
 forcepses
 fulgorid
 foreallot
@@ -8375,6 +8374,7 @@ filed
 frass
 framers
 federalized
+fastigiate
 forlanas
 fragrancies
 fiduciary
