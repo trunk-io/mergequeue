@@ -5072,7 +5072,6 @@ forepaw
 ferries
 fungate
 fizz
-forekeel
 faithbreaker
 faconne
 flapdock
@@ -9930,6 +9929,7 @@ forepeaks
 fines
 friendliwise
 flamboyancy
+forekeel
 fevercup
 fenestrone
 fortressing
