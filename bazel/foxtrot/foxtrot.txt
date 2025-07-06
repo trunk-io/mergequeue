@@ -1399,7 +1399,6 @@ fathership
 features
 fossildom
 forpass
-fendering
 forfars
 flatlanders
 fbi
@@ -7974,6 +7973,7 @@ falsified
 fanegadas
 femic
 fruitless
+fendering
 felicitousness
 fellside
 flaunty
