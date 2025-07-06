@@ -3965,6 +3965,7 @@ beaching
 beachman
 buenas
 blinky
+brigands
 berchta
 bounteousness
 becrawl
@@ -11833,7 +11834,6 @@ belook
 buttes
 broiden
 baking
-brigands
 braking
 bepity
 brashes
