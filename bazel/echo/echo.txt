@@ -6285,7 +6285,6 @@ entered
 expend
 endplate
 enqueues
-entocoelic
 enticeable
 exor
 elongations
@@ -7253,6 +7252,7 @@ exposed
 ejidos
 earthshock
 exiguous
+entocoelic
 enderon
 erythropoietic
 electrotropic
