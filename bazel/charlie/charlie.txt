@@ -1030,7 +1030,6 @@ calcaneoastragaloid
 calcaneoplantar
 countersale
 calcaneoscaphoid
-calcaneum
 calcannea
 calcannei
 chloroplastid
@@ -25572,6 +25571,7 @@ coroplastae
 cauf
 coroplastic
 colloidally
+calcaneum
 camelias
 corotate
 corotates
