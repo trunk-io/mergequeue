@@ -7760,6 +7760,7 @@ flavour
 foremen
 fanbearer
 ferroprussic
+forcite
 fruitwise
 fractionize
 flyflower
@@ -10475,7 +10476,6 @@ fantast
 fluffs
 fidged
 frostfish
-forcite
 frostbitten
 frosty
 feuillet
