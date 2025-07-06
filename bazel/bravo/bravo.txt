@@ -11975,7 +11975,6 @@ bogyman
 broncobusters
 bandagers
 bookbind
-birmingham
 brothelry
 bogymen
 bogland
@@ -14209,6 +14208,7 @@ bradypeptic
 bradyphrasia
 bradyphrenia
 bradypnea
+birmingham
 bodrag
 bloodtest
 bonally
