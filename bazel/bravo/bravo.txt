@@ -9776,7 +9776,6 @@ basiating
 bemixing
 bathhouses
 bystreet
-bystreets
 bistres
 boeotarch
 brights
@@ -13863,6 +13862,7 @@ bedded
 bookwise
 barleybird
 brooch
+bystreets
 biduous
 bang
 bowheads
