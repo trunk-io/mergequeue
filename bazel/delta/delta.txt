@@ -6620,6 +6620,7 @@ deprecations
 desegregation
 duststorm
 deselected
+delatorian
 deselecting
 deadborn
 duddie
@@ -7155,7 +7156,6 @@ depictor
 desulfurs
 desulphur
 desulphurate
-delatorian
 desulphurised
 demonize
 dollyman
