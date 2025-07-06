@@ -2980,6 +2980,7 @@ deductive
 deductory
 deducts
 deduplication
+dicycle
 despoliations
 deecodder
 demobilise
@@ -14059,7 +14060,6 @@ defending
 dumpling
 disorb
 distractively
-dicycle
 dibromide
 desmoid
 disparadise
