@@ -8068,6 +8068,7 @@ forestral
 forestries
 firebrats
 furnitures
+freedoot
 fondness
 fumigating
 flecnode
@@ -9600,7 +9601,6 @@ feltwork
 facete
 forensic
 ferreted
-freedoot
 floreta
 frontopontine
 fizzed
