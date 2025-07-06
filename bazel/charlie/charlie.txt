@@ -8890,7 +8890,6 @@ chaperno
 custodia
 chaperonage
 chaperone
-chaperonless
 catesbeiana
 cirsium
 chapes
@@ -15312,6 +15311,7 @@ cardiemphraxia
 compresses
 clairsentience
 clairsentient
+chaperonless
 confrontationism
 conceder
 clairvoyances
