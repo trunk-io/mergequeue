@@ -1773,6 +1773,7 @@ drawknife
 debarking
 digamist
 discede
+difflation
 debarkment
 doohickeys
 debarment
@@ -14745,7 +14746,6 @@ disincline
 dimensionality
 diphylleia
 dotlike
-difflation
 diaristic
 drizzling
 discommission
