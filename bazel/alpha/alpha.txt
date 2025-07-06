@@ -2992,7 +2992,6 @@ anthropopathite
 atonement
 appear
 actinogram
-aerophore
 appearances
 actinograph
 aporobranchiata
@@ -15233,6 +15232,7 @@ adapa
 anthropomorphization
 accurtation
 antifreeze
+aerophore
 antifreezing
 antifriction
 antistate
