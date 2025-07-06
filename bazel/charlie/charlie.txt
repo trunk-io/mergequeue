@@ -3414,7 +3414,6 @@ capreoline
 chimericalness
 continuua
 capretto
-capri
 capric
 capriccetto
 capricci
@@ -9739,6 +9738,7 @@ cragginess
 coexistent
 cheering
 cheerlead
+capri
 crystallinity
 cheerleader
 caesareanize
