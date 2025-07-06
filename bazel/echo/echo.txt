@@ -5314,7 +5314,6 @@ endosclerite
 extrahepatic
 eurybathic
 endoscope
-endoscopes
 equivocalities
 egeran
 endoscopies
@@ -8210,6 +8209,7 @@ ethmosphenoid
 episcopized
 episcotister
 eisenhower
+endoscopes
 equanimity
 euchromatin
 expedientist
