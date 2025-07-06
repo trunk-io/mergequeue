@@ -1646,7 +1646,6 @@ brancher
 balloting
 ballotist
 ballots
-ballottement
 backlotter
 baronage
 ballottines
@@ -17076,6 +17075,7 @@ bulldogging
 bulldoggishly
 beadswoman
 banditti
+ballottement
 bitterwood
 bellrags
 bulldoggishness
