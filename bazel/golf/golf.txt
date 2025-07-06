@@ -888,6 +888,7 @@ gametocyst
 gametocyte
 gurrah
 gametogenic
+gallinae
 gooseflesh
 gueparde
 glutathione
@@ -6594,7 +6595,6 @@ gonalgia
 gradatively
 galanga
 glassine
-gallinae
 gonapod
 gaed
 goncalo
