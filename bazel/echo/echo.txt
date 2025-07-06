@@ -3867,6 +3867,7 @@ echeneis
 electrotonus
 extraboldface
 eminencies
+excurrent
 evendown
 exterminating
 eminent
@@ -12142,7 +12143,6 @@ entwite
 ennoblment
 earstone
 erotizing
-excurrent
 eavesdrops
 excrementitiously
 elonite
