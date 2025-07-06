@@ -5566,7 +5566,6 @@ coumbite
 cataclysmatist
 cataclysmic
 cataclysmically
-catacomb
 crowboot
 catacombic
 cpm
@@ -27289,6 +27288,7 @@ countryseat
 coalboxes
 countryside
 countryward
+catacomb
 countrywoman
 clap
 countrywomen
