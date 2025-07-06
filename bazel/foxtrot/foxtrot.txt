@@ -3290,7 +3290,6 @@ fictionalizing
 fourcher
 friers
 frostwort
-flexionless
 fango
 forefend
 flunkies
@@ -5404,6 +5403,7 @@ fleche
 forelady
 flechettes
 flecked
+flexionless
 ferrocyanic
 fleckering
 frontoethmoid
