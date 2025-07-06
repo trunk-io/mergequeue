@@ -11314,7 +11314,6 @@ charquid
 chloranthus
 chlorate
 chlorcosane
-chlordans
 costotransversal
 chlorellaceous
 chloremia
@@ -28776,6 +28775,7 @@ cordelier
 crescendo
 crescendoing
 crescendos
+chlordans
 crescentade
 cussing
 circulator
