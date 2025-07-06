@@ -2476,7 +2476,6 @@ binotic
 bigram
 baresthesia
 bottom
-begod
 busies
 brashness
 blens
@@ -10992,6 +10991,7 @@ bebotch
 blockman
 balden
 buxomer
+begod
 blistered
 baclin
 bunodonta
