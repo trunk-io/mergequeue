@@ -6361,7 +6361,6 @@ exilarch
 elenchtic
 ensanguine
 eriocomi
-eloquent
 evisite
 emicant
 enlargingly
@@ -13396,6 +13395,7 @@ endurable
 empodium
 expostulative
 expostulatively
+eloquent
 exemplify
 exposture
 epanaphoral
