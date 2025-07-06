@@ -3140,7 +3140,6 @@ biphase
 balneotherapeutics
 branchway
 baseplug
-basepoint
 baser
 brazen
 blanda
@@ -17564,6 +17563,7 @@ bedirtied
 bashkir
 burfish
 bellonion
+basepoint
 buccellarius
 bhima
 bobble
