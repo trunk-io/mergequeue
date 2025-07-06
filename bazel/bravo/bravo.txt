@@ -4612,7 +4612,6 @@ ballant
 bedecked
 bedrid
 bebannered
-bedecking
 bulletproofed
 bankfull
 bedehouse
@@ -10739,6 +10738,7 @@ bowhead
 blenheim
 blenk
 blennadenitis
+bedecking
 backsetting
 blennemesis
 bullets
