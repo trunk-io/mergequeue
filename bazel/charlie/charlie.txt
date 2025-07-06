@@ -7147,7 +7147,6 @@ centerable
 centerboard
 centerer
 cannonball
-centerfold
 compania
 coofs
 chelators
@@ -27557,6 +27556,7 @@ circumambiently
 calvity
 consumation
 coverlids
+centerfold
 caller
 clairce
 coverslip
