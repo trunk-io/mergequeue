@@ -1505,6 +1505,7 @@ gamekeepers
 gasolier
 geotonic
 gangland
+gingerline
 grouse
 gasoliers
 guiro
@@ -4305,7 +4306,6 @@ gaugeable
 guss
 guilds
 garrulity
-gingerline
 glomerular
 gingerness
 guestimated
