@@ -3583,7 +3583,6 @@ fernland
 figures
 feelingless
 fasciculi
-forenews
 foresting
 forestine
 frubbish
@@ -8301,6 +8300,7 @@ foxglove
 faitery
 ferrule
 fosterage
+forenews
 freestyler
 forgotten
 fusspots
