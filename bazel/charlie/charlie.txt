@@ -3512,7 +3512,6 @@ centinody
 countershaft
 chappow
 caff
-cognizers
 capsuliferous
 cheloniid
 capsuliform
@@ -22543,6 +22542,7 @@ clings
 cupriferous
 conjunctively
 conjunctives
+cognizers
 chersonese
 chimbleys
 cheekful
