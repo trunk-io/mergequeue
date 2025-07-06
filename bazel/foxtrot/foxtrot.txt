@@ -1971,6 +1971,7 @@ furling
 friable
 fangot
 floccule
+frustulose
 finagling
 federally
 flanchard
@@ -5883,7 +5884,6 @@ fdtype
 fowlers
 flocced
 flagellate
-frustulose
 footsoldier
 floccipend
 filariae
