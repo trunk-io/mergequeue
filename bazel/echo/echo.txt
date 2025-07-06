@@ -1658,6 +1658,7 @@ entrez
 enterobacterium
 eyah
 embliss
+exonian
 equating
 esquimau
 eschaufe
@@ -12718,7 +12719,6 @@ electromyographical
 endorsor
 ejaculative
 etoffe
-exonian
 exonerator
 eudiometer
 evomit
