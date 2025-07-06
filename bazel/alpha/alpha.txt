@@ -3534,7 +3534,6 @@ abreaction
 antimonite
 adelphian
 adelphic
-adelphous
 adempt
 ademption
 adipsous
@@ -20431,6 +20430,7 @@ aguamas
 arrojadite
 artarine
 artcraft
+adelphous
 antitypes
 acceptableness
 appeared
