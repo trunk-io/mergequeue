@@ -10357,6 +10357,7 @@ flamiest
 footgeld
 firs
 feigning
+fletches
 foxgloves
 frontbencher
 footlining
@@ -10737,7 +10738,6 @@ fomentation
 footrope
 fleeing
 flagstaves
-fletches
 frustum
 frutage
 faithlessly
