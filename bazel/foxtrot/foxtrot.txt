@@ -77,6 +77,7 @@ furthers
 flysch
 forementioned
 fordeal
+frag
 frets
 fullfaces
 facemark
@@ -3529,7 +3530,6 @@ fortunation
 forebowline
 fenchyl
 farer
-frag
 franklinist
 firmisternial
 figgiest
