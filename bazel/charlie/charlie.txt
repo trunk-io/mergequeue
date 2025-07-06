@@ -2646,6 +2646,7 @@ crabier
 conclusiveness
 canezou
 canfield
+cols
 counterstatement
 canfields
 cantillating
@@ -4426,7 +4427,6 @@ carinas
 chrysene
 carinate
 carinated
-cols
 coprocessing
 chologenetic
 carination
