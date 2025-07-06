@@ -1248,7 +1248,6 @@ acanthuthi
 acronymically
 ascetical
 acapu
-articulator
 antiproductiveness
 acarapis
 asaphic
@@ -17143,6 +17142,7 @@ apogenous
 avocets
 anisochromia
 aculeata
+articulator
 apogeotropism
 apogon
 autolaryngoscopy
