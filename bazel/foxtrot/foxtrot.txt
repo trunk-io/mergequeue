@@ -1477,7 +1477,6 @@ featherleaf
 fossils
 factionalist
 femorofibular
-fisk
 fatted
 fetialis
 formulators
@@ -2125,6 +2124,7 @@ fusibleness
 freeform
 fideistic
 fogle
+fisk
 frixion
 fiscalism
 federalist
