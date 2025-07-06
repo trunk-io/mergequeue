@@ -12562,6 +12562,7 @@ chromoisomeric
 chamaenerion
 cerebralize
 chromoleucite
+coelar
 chromolipoid
 clayen
 choleinic
@@ -18012,7 +18013,6 @@ coefficients
 coelacanth
 coelacanthidae
 coelacanthous
-coelar
 coelastraceous
 canonics
 coelata
