@@ -4160,6 +4160,7 @@ bowbells
 beastlier
 boloroot
 beefiness
+behave
 barkening
 brawled
 bartlemy
@@ -10103,7 +10104,6 @@ blabbermouths
 blabbers
 blabbing
 blabmouth
-behave
 blackamoors
 blair
 blackbine
