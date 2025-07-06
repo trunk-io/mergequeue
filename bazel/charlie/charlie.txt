@@ -5251,7 +5251,6 @@ casimire
 casimiroa
 curarine
 casinet
-charet
 casings
 casiri
 casita
@@ -9766,6 +9765,7 @@ cheesebox
 cheeseburger
 cheeseburgers
 cheesecake
+charet
 crees
 clyfaker
 cheesecloth
