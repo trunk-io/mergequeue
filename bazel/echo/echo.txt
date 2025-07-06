@@ -7380,6 +7380,7 @@ economy
 epanorthidae
 ephorates
 enravishment
+execrates
 epapophysis
 easeled
 evangeliser
@@ -9726,7 +9727,6 @@ electrocoagulation
 escrows
 espinal
 electrogalvanic
-execrates
 epilogize
 excitable
 ensearcher
