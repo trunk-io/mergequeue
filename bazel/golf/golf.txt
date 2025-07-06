@@ -1412,7 +1412,6 @@ genipa
 grapenuts
 golfs
 gemologists
-gn
 gargle
 gynoeciumcia
 genitourinary
@@ -2858,6 +2857,7 @@ glints
 geometrized
 gallipots
 griseofulvin
+gn
 gledes
 gonocyte
 gallinulelike
