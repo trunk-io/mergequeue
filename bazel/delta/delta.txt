@@ -1561,7 +1561,6 @@ deadnesses
 dustproof
 deadpanned
 deadpans
-depayse
 deadweight
 daikering
 deadwork
@@ -6191,6 +6190,7 @@ disbosomed
 doppler
 deriders
 detractress
+depayse
 dittograph
 deriding
 divertor
