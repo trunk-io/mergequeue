@@ -4939,6 +4939,7 @@ agenizes
 aerometric
 aeronat
 aeronaut
+aptnesses
 aeronautic
 amazona
 aeronautical
@@ -18092,7 +18093,6 @@ aptychus
 aproning
 aptitude
 aptitudes
-aptnesses
 autohypnotization
 anises
 amuletic
