@@ -4176,6 +4176,7 @@ gimped
 gimpier
 guidable
 galactolytic
+goback
 gippers
 gliosa
 gigantosaurus
@@ -5885,7 +5886,6 @@ gluttonize
 gomerels
 glucosidically
 glebous
-goback
 gynecide
 glebe
 ging
