@@ -14650,7 +14650,6 @@ bearing
 brenthis
 briefing
 brassart
-brassarts
 brassbounder
 brasse
 brassey
@@ -16360,6 +16359,7 @@ barred
 bushed
 blastocheme
 butyrolactone
+brassarts
 brainache
 bedazzling
 bouffes
