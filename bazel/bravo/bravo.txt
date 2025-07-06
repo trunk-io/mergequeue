@@ -5147,7 +5147,6 @@ banco
 befools
 bridgeport
 budworm
-before
 biotic
 borings
 boomorah
@@ -12313,6 +12312,7 @@ bombardments
 bedazed
 bombline
 bowdrill
+before
 bombast
 buglers
 bandurrias
