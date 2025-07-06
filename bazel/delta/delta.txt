@@ -9268,7 +9268,6 @@ decahedrodra
 dieldrins
 dyeleaves
 dielectric
-dismerit
 demasculinised
 depender
 devolve
@@ -15361,6 +15360,7 @@ dolphin
 dirling
 dolphinfish
 dolphinlike
+dismerit
 dolphins
 discountenance
 design
