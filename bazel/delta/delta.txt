@@ -6405,7 +6405,6 @@ dixie
 derogating
 deceivableness
 derogative
-derogator
 derogatory
 dooja
 dermovaccine
@@ -11322,6 +11321,7 @@ discabinet
 discommendableness
 discamp
 drawstring
+derogator
 discanted
 dermochelys
 dayberry
