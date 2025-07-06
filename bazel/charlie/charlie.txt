@@ -3745,7 +3745,6 @@ cohogs
 coroparelcysis
 chetty
 caravans
-caravansary
 caravansaries
 caravanserai
 chromoxylography
@@ -7843,6 +7842,7 @@ cerotypes
 confirmedly
 cerous
 ceroxyle
+caravansary
 cerrial
 certain
 conservatism
