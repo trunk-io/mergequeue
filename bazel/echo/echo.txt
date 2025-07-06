@@ -6919,7 +6919,6 @@ esthesiography
 egalite
 epic
 electrochemical
-encephala
 eschalot
 entomophthorales
 erythrodextrin
@@ -11518,6 +11517,7 @@ exoergic
 echinopanax
 exhibited
 expended
+encephala
 eridanid
 electromyogram
 emendate
