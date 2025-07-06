@@ -1074,6 +1074,7 @@ eyeless
 endoskeleton
 eqpt
 edgar
+esophagostomy
 experimentalist
 exheredate
 expatiatory
@@ -12674,7 +12675,6 @@ expedited
 exogen
 exogenae
 elegiambus
-esophagostomy
 encratism
 exogenously
 elisabeth
