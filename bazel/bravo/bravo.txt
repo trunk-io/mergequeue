@@ -3558,7 +3558,6 @@ baygall
 barricade
 byronish
 brushy
-battleground
 berkeleyite
 bien
 bathysophical
@@ -12286,6 +12285,7 @@ bawds
 brusquely
 baptised
 backwardly
+battleground
 boltwork
 bolus
 bomb
