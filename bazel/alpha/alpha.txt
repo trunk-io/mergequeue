@@ -874,7 +874,6 @@ arithmic
 amianthoid
 absentation
 absentee
-absentees
 absenters
 aflatus
 amurcosity
@@ -24811,6 +24810,7 @@ aud
 avocations
 avocative
 antipragmatic
+absentees
 avocet
 acheck
 avogadrite
