@@ -4642,7 +4642,6 @@ gaatch
 glyph
 groovelike
 girshes
-gipsyish
 geomorphologic
 glossarian
 gerbilles
@@ -5863,6 +5862,7 @@ graphometrist
 gallywasp
 gyle
 gadger
+gipsyish
 glucosaemia
 glucinium
 glucosone
