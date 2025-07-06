@@ -4600,6 +4600,7 @@ forespoken
 feuder
 fisticuff
 fort
+furnacer
 fouldre
 familiarness
 fainaigued
@@ -6558,7 +6559,6 @@ frenchman
 firebed
 forecover
 flutterboard
-furnacer
 faucal
 flutteriness
 flagrate
