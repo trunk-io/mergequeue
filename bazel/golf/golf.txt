@@ -2490,6 +2490,7 @@ geothermal
 gilliver
 glusid
 groceteria
+globs
 gapeseeds
 geoselenic
 gweduc
@@ -5966,7 +5967,6 @@ gluemaker
 glutinative
 granuloadipose
 giftedness
-globs
 glutose
 gregarianism
 gainspeaking
