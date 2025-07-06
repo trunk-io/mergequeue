@@ -5785,7 +5785,6 @@ aeropause
 ambulative
 agatiferous
 auxetics
-atlatl
 aligner
 author
 agatized
@@ -16451,6 +16450,7 @@ antsigne
 altarist
 alkargen
 antum
+atlatl
 ambulatio
 antwerp
 antwise
