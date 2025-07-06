@@ -5468,7 +5468,6 @@ afterdate
 antifoam
 amadou
 afternote
-actresses
 afterdeal
 afterdeck
 adipomata
@@ -17224,6 +17223,7 @@ apomecometer
 apometabolic
 apomictical
 aquilegia
+actresses
 athletocracy
 agrafe
 adoxa
