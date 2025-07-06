@@ -3288,6 +3288,7 @@ aerology
 adays
 agrestal
 agnizing
+agitprops
 adam
 assistor
 amylenes
@@ -6072,7 +6073,6 @@ albuminoidal
 agitators
 agitatrix
 agitprop
-agitprops
 agkistrodon
 aglaia
 aglance
