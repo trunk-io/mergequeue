@@ -5684,7 +5684,6 @@ beledgered
 brutedom
 bardiest
 biers
-belemnitic
 ballast
 bairnlier
 belemnoid
@@ -10011,6 +10010,7 @@ bubbled
 balaphon
 brawlys
 bodes
+belemnitic
 bouilli
 betelnuts
 byway
