@@ -897,7 +897,6 @@ angiohypertonia
 alachah
 audiometric
 ascidium
-aures
 absyrtus
 amylon
 absis
@@ -13130,6 +13129,7 @@ accouterments
 adapter
 ayrshire
 animant
+aures
 atmidometer
 animastic
 animastical
