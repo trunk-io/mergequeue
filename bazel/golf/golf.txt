@@ -1869,7 +1869,6 @@ gamelote
 germaniums
 gliss
 groundable
-gowd
 guan
 grails
 golland
@@ -5941,6 +5940,7 @@ germlike
 garrisonian
 gastrohydrorrhea
 glassmen
+gowd
 grangerize
 gensengs
 graylag
