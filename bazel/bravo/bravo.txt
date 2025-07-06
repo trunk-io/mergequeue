@@ -4749,6 +4749,7 @@ barmskin
 bries
 beeball
 besplit
+bifurcating
 bedpost
 bypasses
 bedrabbling
@@ -8269,7 +8270,6 @@ blanketflower
 bifurcated
 bifurcately
 berdaches
-bifurcating
 bergschrund
 bekilted
 bifurcation
