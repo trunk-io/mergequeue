@@ -5876,7 +5876,6 @@ gawney
 gipsyweed
 glucoses
 glances
-glucoside
 goshawk
 grandparents
 grantha
@@ -8276,6 +8275,7 @@ greenslade
 greyer
 gau
 glucuronidase
+glucoside
 geegaws
 geanticlinal
 glaciated
