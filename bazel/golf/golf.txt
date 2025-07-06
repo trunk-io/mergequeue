@@ -1865,7 +1865,6 @@ geophyte
 germinated
 gerbillus
 goodyship
-gamelote
 germaniums
 gliss
 groundable
@@ -6406,6 +6405,7 @@ glucidic
 graduates
 gregorian
 grandeeship
+gamelote
 geneses
 gallivanted
 gouger
