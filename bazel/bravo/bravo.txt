@@ -6409,6 +6409,7 @@ benzodiazole
 benzofulvene
 bollen
 benzofuran
+benzoxy
 benzofuryl
 bracted
 boundure
@@ -16266,7 +16267,6 @@ bespete
 brugh
 brugnatellite
 bizone
-benzoxy
 bluehearted
 bossing
 bifurcal
