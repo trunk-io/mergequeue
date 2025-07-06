@@ -2947,7 +2947,6 @@ barricadoes
 brainsick
 blayk
 bemazed
-boltsmith
 bicentral
 basiation
 bolthole
@@ -3792,6 +3791,7 @@ bootleg
 baubo
 bauch
 bondoc
+boltsmith
 baboon
 browsing
 bescorched
