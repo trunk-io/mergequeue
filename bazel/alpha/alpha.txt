@@ -2933,7 +2933,6 @@ aquatint
 agrarian
 actin
 actinautography
-actinautographic
 actine
 actinenchyma
 absences
@@ -24874,6 +24873,7 @@ avower
 accidentally
 acrobatics
 amphithect
+actinautographic
 astronavigation
 avshar
 autocoherer
