@@ -586,7 +586,6 @@ forebays
 fussbudgets
 fallen
 fallfish
-ferny
 fishery
 fally
 falling
@@ -1936,6 +1935,7 @@ foredoom
 footstep
 fourdrinier
 foodless
+ferny
 fundless
 flamboyantize
 faradizing
