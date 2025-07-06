@@ -1142,7 +1142,6 @@ fudgy
 fishling
 fastback
 farrisite
-firehalls
 figulate
 flyings
 farruca
@@ -6519,6 +6518,7 @@ fluxes
 floody
 flustrated
 fotui
+firehalls
 filches
 folacins
 flustrine
