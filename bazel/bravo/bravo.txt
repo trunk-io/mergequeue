@@ -3101,7 +3101,6 @@ birdlime
 basebred
 brawnier
 baseburner
-basecourt
 betokener
 baselessly
 baselevel
@@ -5015,6 +5014,7 @@ beetled
 boite
 banqueteer
 braunschweiger
+basecourt
 beglic
 bloodletting
 beetleheadedness
