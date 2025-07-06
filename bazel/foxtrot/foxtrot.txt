@@ -1862,7 +1862,6 @@ federalizes
 freeboard
 ferninst
 forbesite
-folkmots
 flak
 flaithship
 frustules
@@ -7637,6 +7636,7 @@ fubby
 forefield
 factitiousness
 foreorlop
+folkmots
 flips
 forefinger
 fritillaries
