@@ -16601,7 +16601,6 @@ catguts
 clodhead
 clodhopper
 clodhoppers
-curettage
 clodhopping
 canchi
 clodlet
@@ -17411,6 +17410,7 @@ cadis
 coarsely
 cranched
 coarsened
+curettage
 coarseness
 canonizations
 chickory
