@@ -8435,7 +8435,6 @@ afterloss
 anthrathiophene
 antilipoid
 aljamado
-assistances
 aljamia
 aljamiado
 atfalati
@@ -19758,6 +19757,7 @@ arithmeticians
 arithmetizations
 arithmetizes
 acrosticheae
+assistances
 araeostyle
 arythmical
 anteprandial
