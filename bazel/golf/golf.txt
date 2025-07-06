@@ -2225,7 +2225,6 @@ gigantoblast
 gunroom
 gammoning
 giust
-granulate
 gonofs
 greengage
 geisa
@@ -9904,6 +9903,7 @@ gaveling
 greith
 grander
 gallop
+granulate
 gunsels
 gastaldite
 galiots
