@@ -17448,7 +17448,6 @@ apotheosising
 apotheosize
 apotheosized
 apothesine
-apothesis
 apotype
 anteportico
 amercers
@@ -22182,6 +22181,7 @@ aphthic
 adeption
 anaesthesia
 arteries
+apothesis
 astonishment
 astonishments
 astoop
