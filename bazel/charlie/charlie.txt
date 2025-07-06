@@ -8381,6 +8381,7 @@ chalcolithic
 coadunation
 chalcomenite
 chalcone
+cwrite
 chalcopyrite
 chalcosiderite
 chalcosine
@@ -20547,7 +20548,6 @@ catalepsy
 compassive
 coinhere
 compassivity
-cwrite
 compassment
 compatibility
 compatibilities
