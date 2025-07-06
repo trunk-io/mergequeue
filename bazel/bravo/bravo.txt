@@ -4748,6 +4748,7 @@ bedpans
 barmskin
 bries
 beeball
+boswellized
 besplit
 bedpost
 bypasses
@@ -13277,7 +13278,6 @@ bowge
 boswellism
 briquettes
 bosun
-boswellized
 bairnliness
 blastoidea
 bandlessness
