@@ -3729,6 +3729,7 @@ foreglow
 finedrawing
 fluxweed
 fungible
+footpaddery
 freeboots
 forewarn
 footbreadth
@@ -5205,7 +5206,6 @@ flued
 flatulentness
 flangeway
 futter
-footpaddery
 francolin
 frontate
 frozenhearted
