@@ -5125,7 +5125,6 @@ grasslands
 gyrophoraceae
 graylags
 glazes
-gemmy
 glb
 glorioles
 gymnospermy
@@ -7858,6 +7857,7 @@ generalist
 gouged
 geochemistry
 guidelines
+gemmy
 graphitoidal
 granary
 greases
