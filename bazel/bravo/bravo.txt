@@ -6461,6 +6461,7 @@ benzothiodiazole
 bergamiol
 bumpering
 backcloth
+bitwise
 barangay
 biternate
 benzothiofuran
@@ -15481,7 +15482,6 @@ brioches
 baud
 blase
 bisso
-bitwise
 bimas
 beadlet
 bryony
