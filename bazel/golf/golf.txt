@@ -3456,7 +3456,6 @@ getpenny
 gibberish
 greaselessness
 germanish
-gatewayman
 gaunter
 gracile
 gawish
@@ -10260,6 +10259,7 @@ gauzelike
 guanases
 globulitic
 goers
+gatewayman
 gregarious
 guinness
 galatians
