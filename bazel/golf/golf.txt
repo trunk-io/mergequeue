@@ -10223,6 +10223,7 @@ grippers
 guzzled
 guile
 gyrectomies
+gobio
 galluses
 groundsel
 gonk
@@ -10724,7 +10725,6 @@ gox
 gussets
 gloms
 gairfish
-gobio
 gustables
 gassers
 gaddi
