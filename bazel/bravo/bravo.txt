@@ -10250,7 +10250,6 @@ bebump
 bilged
 broomwort
 blackpatch
-belongings
 beavering
 batara
 brominism
@@ -16895,6 +16894,7 @@ bushboy
 bussu
 beudanite
 baloch
+belongings
 bugginess
 bemeaned
 buginese
