@@ -3542,7 +3542,6 @@ ascesis
 assedat
 arabicize
 agora
-adendritic
 akenbold
 amphibion
 allosterically
@@ -18525,6 +18524,7 @@ axiology
 arboresque
 arboret
 arbory
+adendritic
 aardwolf
 apprizement
 anyplace
