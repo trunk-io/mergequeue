@@ -2539,6 +2539,7 @@ candleholder
 corrections
 candlelight
 candlelighter
+chummer
 confraternities
 choosable
 candlelighting
@@ -17236,7 +17237,6 @@ caddisfly
 creek
 coaters
 crescograph
-chummer
 comminutor
 crankles
 cryptogenetic
