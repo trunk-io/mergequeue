@@ -4288,7 +4288,6 @@ garganeys
 gingely
 goblets
 gnocchetti
-gyrostabilizer
 girse
 grubless
 gravidity
@@ -5127,6 +5126,7 @@ graylags
 glazes
 gemmy
 glb
+gyrostabilizer
 glorioles
 gymnospermy
 gossipred
