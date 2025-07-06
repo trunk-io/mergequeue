@@ -5081,6 +5081,7 @@ demographers
 denaturants
 dueller
 denaturing
+dermatherm
 duplicand
 diminishingturns
 denaturise
@@ -16973,7 +16974,6 @@ drearisome
 drearly
 drearness
 drecks
-dermatherm
 demihorse
 dullness
 downcurve
