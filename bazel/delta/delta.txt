@@ -8048,7 +8048,6 @@ dialects
 defences
 derbylite
 defenestration
-doylt
 dietician
 duomi
 dispersion
@@ -8086,6 +8085,7 @@ devilment
 daftardar
 dhyana
 declivate
+doylt
 dhobee
 dhoby
 dhobie
