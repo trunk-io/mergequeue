@@ -5560,6 +5560,7 @@ auditioned
 autosuggestive
 afterstudy
 acutenaculum
+architeuthis
 acetylaminobenzene
 alectoropodes
 antidynamic
@@ -12001,7 +12002,6 @@ anastasimon
 anastasimos
 anastasius
 anemosis
-architeuthis
 anastate
 anastatus
 anastigmat
