@@ -3568,7 +3568,6 @@ diethylamine
 disenchanter
 defunctionalize
 defuses
-defusion
 demidigested
 deformalize
 dingles
@@ -7618,6 +7617,7 @@ devas
 dird
 ditch
 devastating
+defusion
 dancingly
 devastation
 drafty
