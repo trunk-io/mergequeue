@@ -5744,6 +5744,7 @@ gloomy
 grapsoid
 gymnoplast
 gattine
+governed
 gossypose
 gonotheca
 gingilis
@@ -7465,7 +7466,6 @@ guessable
 gymnogen
 glottalized
 grafship
-governed
 graecizing
 governesses
 governing
