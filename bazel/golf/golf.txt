@@ -2758,6 +2758,7 @@ gulley
 gentlemanlikeness
 gossan
 gybing
+gestor
 goosehouse
 gnathoplasty
 genuflection
@@ -7322,7 +7323,6 @@ gardenful
 gossipped
 glochidial
 gossips
-gestor
 gilthead
 glyptograph
 gallach
