@@ -7778,6 +7778,7 @@ glagol
 guaba
 groaners
 glutter
+guaranine
 gorman
 gerents
 gurlet
@@ -9899,7 +9900,6 @@ gabgab
 glaucophyllous
 geeks
 galloons
-guaranine
 gaveling
 greith
 grander
