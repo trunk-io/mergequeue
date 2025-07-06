@@ -1976,7 +1976,6 @@ aleurites
 acetomorphin
 acetomorphine
 acetonaemia
-acetonaemic
 acetonemic
 acetonic
 advances
@@ -9609,6 +9608,7 @@ alumel
 agrom
 alumian
 apometabolous
+acetonaemic
 adversative
 alumic
 alumiferous
