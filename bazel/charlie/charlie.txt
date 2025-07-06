@@ -5042,6 +5042,7 @@ cartware
 cabossed
 clotheshorse
 confervoid
+conchies
 claptrap
 cartwheel
 coannex
@@ -21337,7 +21338,6 @@ cunonia
 chummy
 conchfishes
 conchy
-conchies
 confederatize
 circummigration
 ceboid
