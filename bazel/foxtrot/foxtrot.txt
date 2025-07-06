@@ -4093,7 +4093,6 @@ finishers
 febris
 finishes
 fultz
-finites
 formenic
 frolickers
 fibered
@@ -7563,6 +7562,7 @@ forecome
 forecommend
 foreconclude
 flagonet
+finites
 figworts
 fishpound
 floggers
