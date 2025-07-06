@@ -3228,6 +3228,7 @@ acupuncture
 abonne
 apsides
 acupunctured
+ape
 acupuncturing
 antivenomous
 acupuncturist
@@ -7753,7 +7754,6 @@ aldehydine
 almadia
 alderamin
 avianize
-ape
 alderling
 alderman
 alectoromorphous
