@@ -7265,6 +7265,7 @@ centre
 centreboard
 centred
 centref
+cumulate
 chromospheres
 centreless
 centrepiece
@@ -31023,7 +31024,6 @@ caprocks
 cumsha
 cumshaw
 cyclones
-cumulate
 cumulated
 cerebrate
 cumulately
