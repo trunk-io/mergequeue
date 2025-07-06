@@ -4529,6 +4529,7 @@ fishwood
 fishworker
 forsay
 ferrovanadium
+fjerding
 flour
 fisnoga
 flogging
@@ -8776,7 +8777,6 @@ faradization
 fiberglass
 floret
 forechurch
-fjerding
 formula
 falcopern
 fliped
