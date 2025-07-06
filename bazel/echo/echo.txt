@@ -11053,7 +11053,6 @@ eriometer
 eurypharyngidae
 elfin
 extund
-endomorph
 embryophagous
 exanthine
 encreel
@@ -12155,6 +12154,7 @@ exsecant
 eg
 eyelike
 epural
+endomorph
 excursionist
 excursiveness
 enterate
