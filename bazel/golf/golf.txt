@@ -1916,7 +1916,6 @@ glutetei
 gruft
 gustoso
 gastrilegous
-gamasidae
 gobans
 gauleiter
 gastrohepatic
@@ -5756,6 +5755,7 @@ germanies
 gade
 graphites
 glottalize
+gamasidae
 glycogenolysis
 goorals
 guyandot
