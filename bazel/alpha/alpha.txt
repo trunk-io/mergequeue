@@ -7777,7 +7777,6 @@ aldermen
 almehs
 asteroidea
 alderney
-anatomies
 alders
 alderwomen
 aldhafara
@@ -8196,6 +8195,7 @@ abapical
 alhambra
 alhambraic
 asteria
+anatomies
 alhena
 arbitratorship
 apogeotropically
