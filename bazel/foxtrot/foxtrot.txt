@@ -8068,7 +8068,6 @@ forestral
 forestries
 firebrats
 furnitures
-fondness
 fumigating
 flecnode
 fiendfully
@@ -10445,6 +10444,7 @@ frontotemporal
 frontozygomatic
 forestian
 frontsman
+fondness
 fowlpox
 filicoid
 fluxional
