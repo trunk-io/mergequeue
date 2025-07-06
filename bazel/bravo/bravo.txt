@@ -1496,7 +1496,6 @@ bemadamed
 ballades
 boser
 bacteremia
-borstal
 bistable
 bedsick
 balladic
@@ -4814,6 +4813,7 @@ bikh
 beshrouded
 bolometer
 bedstraw
+borstal
 bedstraws
 bedstring
 boundedly
