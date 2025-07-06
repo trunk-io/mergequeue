@@ -2060,7 +2060,6 @@ chandlery
 collapsar
 camoufleur
 chests
-cosherer
 camp
 campa
 campagi
@@ -30058,6 +30057,7 @@ carnivores
 crowdedly
 circumambiencies
 cheson
+cosherer
 crocodilus
 comptrol
 cephalophorous
