@@ -2829,6 +2829,7 @@ acromiohumeral
 acromiosternal
 antichurchian
 acromiothoracic
+argulus
 addaxes
 accrete
 actuals
@@ -19544,7 +19545,6 @@ anklets
 afars
 arguing
 apnea
-argulus
 argument
 arabidopsis
 antirationalistic
