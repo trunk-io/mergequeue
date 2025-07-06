@@ -1647,7 +1647,6 @@ dextraural
 deamination
 deaminize
 deaminized
-deammonation
 deashing
 dichastic
 demarks
@@ -2400,6 +2399,7 @@ dwelling
 decylic
 dorsiparous
 deciliter
+deammonation
 delineation
 druidry
 demographer
