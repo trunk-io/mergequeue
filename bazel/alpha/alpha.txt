@@ -6832,7 +6832,6 @@ apanages
 amphithurthura
 airmobile
 awry
-airn
 anthropomorphical
 aloadae
 auripuncture
@@ -15544,6 +15543,7 @@ antimonies
 antimonious
 antimonium
 anemoses
+airn
 antimoniuret
 anatine
 antethem
