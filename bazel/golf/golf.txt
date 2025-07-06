@@ -2305,6 +2305,7 @@ gelees
 geologist
 genomic
 gagroot
+gl
 greengrocer
 gutturalisation
 grubbiness
@@ -5586,7 +5587,6 @@ giantesque
 girdlecake
 grossular
 giftlike
-gl
 groundwall
 goldseed
 ghostlet
