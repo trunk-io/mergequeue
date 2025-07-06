@@ -3698,7 +3698,6 @@ exsculp
 exercitorial
 embryotomies
 echelette
-exhaustivity
 egoistry
 embrittle
 enfranchised
@@ -10069,6 +10068,7 @@ europiums
 etched
 editor
 enteropexy
+exhaustivity
 efford
 etching
 electrotest

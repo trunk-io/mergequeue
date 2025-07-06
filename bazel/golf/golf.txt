@@ -5265,7 +5265,6 @@ graveling
 geometries
 glossopteris
 glycerin
-gamelan
 gromil
 glycerite
 guardrails
@@ -8781,6 +8780,7 @@ googly
 grandchildren
 gelatinochloride
 gunslinger
+gamelan
 gregarian
 garbles
 gayway
