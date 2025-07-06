@@ -9893,6 +9893,7 @@ expurgator
 eikon
 enthronising
 endoceras
+escheatable
 equiomnipotent
 engin
 envyingly
@@ -12501,7 +12502,6 @@ expiated
 ethicality
 exilement
 escalading
-escheatable
 exility
 exanthem
 eyestones
