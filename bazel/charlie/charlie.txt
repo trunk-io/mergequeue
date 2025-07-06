@@ -2633,7 +2633,6 @@ camelopardel
 canes
 caprellidae
 canescence
-canescent
 chaetetes
 conversationalist
 composes
@@ -15622,6 +15621,7 @@ concordist
 cojones
 clasher
 cogeneration
+canescent
 clashers
 clashes
 censures
