@@ -4521,7 +4521,6 @@ generalate
 goosebill
 goupen
 grasscutter
-gibbing
 greegree
 gressible
 girdles
@@ -7903,6 +7902,7 @@ grandfathers
 gangster
 gaboons
 galvanotaxis
+gibbing
 grandfer
 glossina
 goniatitid
