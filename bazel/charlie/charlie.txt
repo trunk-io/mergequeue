@@ -4045,6 +4045,7 @@ cholers
 cornhusk
 carcinomatous
 carcinomorphic
+cephalochorda
 cholericness
 carcinophagous
 carcinopolypus
@@ -9775,7 +9776,6 @@ caramba
 concursus
 cheeselep
 cheeselip
-cephalochorda
 cheesemaker
 cheesemaking
 cheesemongery
