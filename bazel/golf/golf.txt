@@ -1151,6 +1151,7 @@ generalness
 gantsl
 galactometry
 gastrostomus
+guttar
 glossograph
 gnetums
 guffin
@@ -4919,7 +4920,6 @@ greenbottle
 glaives
 get
 grulla
-guttar
 gent
 galangal
 grangerizing
