@@ -8886,7 +8886,6 @@ bathypelagic
 bioaccumulation
 bioactivities
 bioassaying
-byplace
 bioastronautics
 biobibliographer
 barleysick
@@ -9366,6 +9365,7 @@ bushi
 blirt
 bonniness
 beau
+byplace
 bluebush
 butter
 bottommost
