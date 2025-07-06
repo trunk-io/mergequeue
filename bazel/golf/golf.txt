@@ -3566,7 +3566,6 @@ gld
 grouching
 gedder
 gro
-gluconeogenic
 goldest
 gauntleted
 gillnetting
@@ -7688,6 +7687,7 @@ genetic
 gemul
 gabbed
 gonystylaceae
+gluconeogenic
 goldbugs
 grantable
 grandma
