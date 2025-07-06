@@ -9741,7 +9741,6 @@ doors
 dipneusti
 dispense
 daphnias
-devilward
 ditting
 dungbred
 diageotropy
@@ -15423,6 +15422,7 @@ demicivilized
 deipara
 diversicolored
 dorical
+devilward
 demoralisation
 domiciled
 dissipator
