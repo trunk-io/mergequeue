@@ -3289,7 +3289,6 @@ believe
 basiradial
 bacterioscopic
 basirostral
-basiscopic
 bacterial
 bangiales
 blepharitic
@@ -6438,6 +6437,7 @@ benedight
 benzophthalazine
 breakup
 benzil
+basiscopic
 banewort
 bibliothecaire
 benzopyrazolone
