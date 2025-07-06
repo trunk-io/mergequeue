@@ -2081,6 +2081,7 @@ coadjuvancy
 campania
 cecils
 comdg
+chelerythrine
 campanile
 campaniles
 colloquiquiums
@@ -9868,7 +9869,6 @@ chelated
 cattish
 chelating
 chelator
-chelerythrine
 collisions
 chelicer
 chelicerate
