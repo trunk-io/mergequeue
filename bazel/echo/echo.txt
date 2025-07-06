@@ -3215,6 +3215,7 @@ embuia
 elute
 elution
 eudipleural
+ejectable
 enzymatically
 effuso
 epirotulian
@@ -13091,7 +13092,6 @@ ectethmoid
 echites
 expending
 eleuin
-ejectable
 expenditor
 expenditrix
 enfonced
