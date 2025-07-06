@@ -1431,7 +1431,6 @@ gulfy
 gainward
 glossarial
 gidjee
-garnishee
 gadaba
 guidebookish
 geophagous
@@ -8234,6 +8233,7 @@ graphotype
 groggery
 grapier
 gasthaus
+garnishee
 gusseting
 glossographer
 globule
