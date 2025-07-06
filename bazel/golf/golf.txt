@@ -2626,7 +2626,6 @@ gigantocyte
 genioglossal
 globoids
 geoteuthis
-goboes
 genioglossus
 genitocrural
 grout
@@ -10762,6 +10761,7 @@ gloam
 graminin
 gorhen
 gimbals
+goboes
 gallium
 galempong
 grubworm
