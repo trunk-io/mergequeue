@@ -6177,7 +6177,6 @@ fewness
 flowable
 fcp
 fewneses
-foresaw
 farrieries
 fabella
 flowcharted
@@ -10820,6 +10819,7 @@ fulfiller
 flambeaux
 fulfillment
 flus
+foresaw
 flavorous
 fulfillments
 foreshadowing
