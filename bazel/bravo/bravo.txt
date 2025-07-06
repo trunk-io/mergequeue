@@ -1532,7 +1532,6 @@ bulbiform
 bouton
 backsword
 ballaster
-ballastic
 ballata
 batikulin
 ballatoon
@@ -13770,6 +13769,7 @@ burga
 bufflehorn
 bovaristic
 blastocoelic
+ballastic
 burgout
 bovate
 besmirching
