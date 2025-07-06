@@ -5448,6 +5448,7 @@ fleecy
 forager
 fashion
 frolickly
+fatalist
 forseek
 fitchery
 fusobteria
@@ -10390,7 +10391,6 @@ furoid
 feedable
 feared
 frangipanis
-fatalist
 focimeter
 forecatching
 flags
