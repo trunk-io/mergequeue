@@ -10868,7 +10868,6 @@ directorially
 departing
 directors
 directorships
-desugared
 dapples
 deposable
 deificatory
@@ -18055,6 +18054,7 @@ dullishly
 drometer
 desiccates
 dullity
+desugared
 disgaveling
 droned
 deluster
