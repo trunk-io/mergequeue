@@ -6803,7 +6803,6 @@ buhls
 barytosulphate
 badian
 bookery
-bersagliere
 berseem
 berserker
 brittles
@@ -16019,6 +16018,7 @@ bronze
 bhotia
 brethren
 bannered
+bersagliere
 bronzewing
 bio
 bcd
