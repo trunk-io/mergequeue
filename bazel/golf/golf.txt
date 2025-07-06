@@ -3540,7 +3540,6 @@ gantries
 gruesomest
 glovers
 galactoid
-goetae
 gales
 granitification
 ghastliness
@@ -9603,6 +9602,7 @@ gr
 guzerat
 giottesque
 glaucophanization
+goetae
 ginep
 goniodorididae
 glaucodote
