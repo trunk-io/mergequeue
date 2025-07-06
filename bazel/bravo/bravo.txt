@@ -3509,7 +3509,6 @@ bubos
 bogglish
 broadax
 batete
-brabbling
 balotade
 blue
 byroads
@@ -7032,6 +7031,7 @@ besmudge
 blindling
 beamless
 bronzite
+brabbling
 besmudges
 baalist
 bespouses
