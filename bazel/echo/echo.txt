@@ -7213,7 +7213,6 @@ enwallow
 enwheel
 ensampler
 eposes
-eglandulous
 expirer
 equestrians
 enwheels
@@ -13735,6 +13734,7 @@ eclairissement
 extinctor
 ententophil
 etaballi
+eglandulous
 ectoenzym
 enzyme
 embrocate
