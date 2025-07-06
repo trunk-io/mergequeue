@@ -11199,7 +11199,6 @@ failles
 fieldsman
 flailing
 flocculency
-fungosities
 funguses
 funic
 fistulae
@@ -11297,6 +11296,7 @@ feasance
 fatwa
 feyness
 firedog
+fungosities
 formatted
 feverfew
 firesides
