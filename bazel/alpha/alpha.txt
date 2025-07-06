@@ -5480,7 +5480,6 @@ aevum
 aerolith
 afterfruits
 arteriogram
-aftergas
 abstractedness
 ablings
 afterglow
@@ -20258,6 +20257,7 @@ arry
 atomized
 arribadas
 actinomycetous
+aftergas
 aeolodion
 athetosis
 apparelling
