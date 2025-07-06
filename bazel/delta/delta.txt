@@ -7822,6 +7822,7 @@ desalters
 desirability
 devoration
 drawsheet
+damage
 dairyings
 devoted
 dogfishes
@@ -14242,7 +14243,6 @@ doldrum
 dismasts
 dramatists
 dicer
-damage
 daboia
 derotrematous
 disvisage
