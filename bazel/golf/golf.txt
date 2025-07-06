@@ -1382,6 +1382,7 @@ garniture
 gaulsh
 glycosemia
 grecize
+garamond
 gaits
 ganyie
 gallotannin
@@ -8214,7 +8215,6 @@ gimp
 grippingness
 giardiasis
 gre
-garamond
 graphometric
 gara
 galenite
