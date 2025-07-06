@@ -1130,6 +1130,7 @@ gallnut
 galyac
 gunpowder
 genion
+gtc
 gratias
 granddam
 gypsologist
@@ -7787,7 +7788,6 @@ graces
 glumiflorae
 grisoutine
 grovelled
-gtc
 geoglossaceae
 gun
 goodsome
