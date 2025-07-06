@@ -4285,7 +4285,6 @@ carey
 careys
 cashel
 cursillo
-careless
 carelessly
 carelessness
 careme
@@ -15812,6 +15811,7 @@ clavicittern
 collectable
 contraction
 clavicle
+careless
 clavicles
 cannas
 clavicorn
