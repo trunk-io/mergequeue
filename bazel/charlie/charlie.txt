@@ -1601,6 +1601,7 @@ calmed
 cylindraceous
 centrobaric
 crureus
+caustics
 calmest
 calmier
 calmiest
@@ -18618,7 +18619,6 @@ clypeole
 coif
 coiffe
 coiffed
-caustics
 clavers
 coiffeur
 coiffeurs
