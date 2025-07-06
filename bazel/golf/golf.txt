@@ -1259,6 +1259,7 @@ globelet
 granage
 ged
 gavall
+guitarfish
 goethites
 gratten
 gromatical
@@ -5231,7 +5232,6 @@ gullet
 gelsemiums
 glenohumeral
 grouted
-guitarfish
 gliadine
 galvanism
 geomedicine
