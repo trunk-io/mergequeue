@@ -3243,7 +3243,6 @@ germanistic
 glent
 grabbable
 glosseme
-gemless
 gula
 gabback
 geneticists
@@ -5383,6 +5382,7 @@ garrulus
 guanidin
 glimmeringly
 gadroons
+gemless
 glunimie
 ghostdom
 garveys
