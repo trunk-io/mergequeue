@@ -4486,7 +4486,6 @@ adverbial
 adverbially
 aggerose
 adverbiation
-adverbs
 adversatively
 ambushed
 anthropophysiography
@@ -20417,6 +20416,7 @@ arsoite
 arson
 acquiescingly
 arsonate
+adverbs
 arteriorrhaphy
 arseniuret
 antalgic
