@@ -2938,6 +2938,7 @@ barrets
 blindeyes
 boundaries
 boobishness
+blanketing
 blobby
 barricaded
 beltian
@@ -12904,7 +12905,6 @@ bouffante
 bump
 bursectomy
 brachigerous
-blanketing
 byssogenous
 bureaucratese
 boot
