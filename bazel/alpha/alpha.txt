@@ -4753,7 +4753,6 @@ anthologizing
 aerialist
 asterionella
 acarology
-antihum
 aeriality
 aerials
 agrologically
@@ -17707,6 +17706,7 @@ applanation
 applaudable
 araneiformes
 applaudably
+antihum
 ancyroid
 allicin
 applauders
