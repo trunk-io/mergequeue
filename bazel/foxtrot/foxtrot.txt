@@ -4530,7 +4530,6 @@ fishworker
 forsay
 ferrovanadium
 flour
-fisnoga
 flogging
 finicality
 felinae
@@ -4564,6 +4563,7 @@ famille
 fortread
 finickiest
 fissirostrate
+fisnoga
 fusser
 finjan
 fundmonger
