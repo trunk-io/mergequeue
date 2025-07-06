@@ -5650,7 +5650,6 @@ epilogation
 enforest
 epacme
 enform
-ergometric
 epulation
 entertainable
 enfort
@@ -11607,6 +11606,7 @@ evolvable
 explicating
 elaterid
 electroretinogram
+ergometric
 ecophene
 engregge
 expatiate
