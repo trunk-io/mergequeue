@@ -2983,7 +2983,6 @@ becowarding
 bioassay
 blarneyer
 barstools
-bart
 bartended
 barrera
 bigamistically
@@ -15716,6 +15715,7 @@ brodyagi
 brodie
 broeboe
 bicolor
+bart
 brog
 brogue
 basiparachromatin
