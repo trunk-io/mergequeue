@@ -12206,7 +12206,6 @@ dredger
 dichloromethane
 daystreak
 drawcansir
-dilker
 disproven
 dehusk
 depthometer
@@ -13857,6 +13856,7 @@ dindle
 distain
 distaining
 distance
+dilker
 denumeration
 diatomic
 demast
