@@ -3202,6 +3202,7 @@ capework
 capful
 caphar
 corsaint
+coggie
 clistogastra
 cotillon
 capias
@@ -18556,7 +18557,6 @@ coherence
 containment
 cataractal
 coherent
-coggie
 coherer
 cohering
 coheritor
