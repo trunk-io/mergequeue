@@ -6620,7 +6620,6 @@ deprecations
 desegregation
 duststorm
 deselected
-deselecting
 deadborn
 duddie
 desiccants
@@ -7455,6 +7454,7 @@ dermoplasty
 djellab
 debating
 doctoral
+deselecting
 detrudes
 dubhgall
 distalia
