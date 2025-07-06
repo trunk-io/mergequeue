@@ -4652,7 +4652,6 @@ filister
 fodderless
 footweary
 foresaying
-fasciotomy
 fleckless
 fruitgrowing
 fitchew
@@ -8187,6 +8186,7 @@ fraught
 flourishable
 furores
 flockbed
+fasciotomy
 foghorn
 foretaste
 forewings
