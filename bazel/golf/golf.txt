@@ -5826,7 +5826,6 @@ graffito
 gedact
 grosse
 geaster
-glucagon
 grundel
 guaiaretic
 gladify
@@ -6361,6 +6360,7 @@ gummites
 gamest
 gamgia
 garston
+glucagon
 gohila
 generics
 glassworks
