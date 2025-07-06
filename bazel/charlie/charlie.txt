@@ -13346,7 +13346,6 @@ crossrail
 cycloaliphatic
 capricorn
 cycloalkane
-cyclobothra
 carmakers
 cyclobutane
 constableship
@@ -18073,6 +18072,7 @@ coelome
 capillarimeter
 corvktte
 coelomic
+cyclobothra
 consensuses
 colporteur
 coelonavigation
