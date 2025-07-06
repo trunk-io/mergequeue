@@ -929,6 +929,7 @@ darabukka
 dauts
 darac
 detachers
+depreter
 directives
 dewed
 dures
@@ -5958,7 +5959,6 @@ drew
 depressurize
 dere
 defeatee
-depreter
 depriment
 deprint
 disinvite
