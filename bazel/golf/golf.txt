@@ -1373,7 +1373,6 @@ gramary
 guttular
 garniec
 gamily
-governs
 ganodonta
 glossanthrax
 garnison
@@ -9161,6 +9160,7 @@ gridlock
 griege
 greenstick
 glavering
+governs
 goatees
 glaucomas
 gastrodiaphanoscopy
