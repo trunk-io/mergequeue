@@ -293,6 +293,7 @@ giglot
 gamuts
 geobotany
 gynaecian
+gerbo
 gaminesque
 gaysome
 gaist
@@ -10579,7 +10580,6 @@ glyphs
 guanays
 gunmaking
 gaun
-gerbo
 gallivanter
 grasset
 gunmetal
