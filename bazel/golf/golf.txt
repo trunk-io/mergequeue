@@ -46,7 +46,6 @@ groats
 graperies
 gangue
 gabler
-glaucolite
 guemal
 geometrine
 glucosidic
@@ -2726,6 +2725,7 @@ gemeinde
 gamphrel
 glooming
 gaunt
+glaucolite
 gentiledom
 growling
 gimmor
