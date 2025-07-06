@@ -3011,7 +3011,6 @@ cantilating
 cantilene
 cantilever
 cantilevered
-cantilevers
 cantily
 choroidea
 cantina
@@ -11681,6 +11680,7 @@ cholecystography
 cholecystokinin
 corkiness
 cholecystolithiasis
+cantilevers
 cholecystostomy
 cholecystotomy
 cholecystotomies
