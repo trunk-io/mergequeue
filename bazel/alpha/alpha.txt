@@ -4659,7 +4659,6 @@ abolishing
 aegina
 aeginetan
 aeginetic
-aegipan
 aegyptilla
 agonisingly
 aegisthus
@@ -9537,6 +9536,7 @@ academia
 arenig
 altimeters
 anthema
+aegipan
 antithrombic
 alchemistry
 ammocetes
