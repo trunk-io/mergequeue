@@ -3484,7 +3484,6 @@ garmentworker
 ganglions
 gadzooks
 gymnorhina
-geomagnetist
 grugru
 gunslinging
 grinded
@@ -6549,6 +6548,7 @@ gamins
 groyne
 goulan
 ghostwrite
+geomagnetist
 gingivolabial
 gynandrian
 gelsemin
