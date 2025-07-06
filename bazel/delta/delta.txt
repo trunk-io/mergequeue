@@ -5964,7 +5964,6 @@ deprint
 disinvite
 depriorize
 durrie
-disorderedness
 deprivable
 degrader
 departements
@@ -13033,6 +13032,7 @@ descaling
 diphthongized
 deallocated
 dispar
+disorderedness
 disparageable
 disparagement
 disparagements
