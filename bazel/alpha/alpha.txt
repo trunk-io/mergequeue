@@ -4599,7 +4599,6 @@ aechmophorus
 athenian
 atlantodidymus
 agitates
-aecidial
 aecidioform
 abjunctive
 aecidiospore
@@ -15078,6 +15077,7 @@ ascetics
 antidotally
 antidote
 agnosias
+aecidial
 antidoted
 amethyst
 abruptest
