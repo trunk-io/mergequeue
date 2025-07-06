@@ -8229,7 +8229,6 @@ alliterating
 aluminise
 adelite
 aqueousness
-alicyclic
 actiniochrome
 allochroous
 asaron
@@ -19768,6 +19767,7 @@ arithmograph
 arithmography
 azulejos
 arithmomancy
+alicyclic
 arivaipa
 amphoral
 arizonian
