@@ -655,7 +655,6 @@ dudgeons
 donnard
 dampne
 dampness
-diacetylene
 despairs
 dampproof
 dampproofing
@@ -9493,6 +9492,7 @@ droiture
 dodgier
 dibatag
 doomfulness
+diacetylene
 delaw
 demode
 doppelganger
