@@ -1879,7 +1879,6 @@ featurelessness
 featureliness
 figureheadship
 firebreaks
-feudalize
 fractured
 furiouser
 flabellum
@@ -7048,6 +7047,7 @@ fontlet
 fonts
 fusula
 farci
+feudalize
 fists
 francis
 floater
