@@ -5951,7 +5951,6 @@ benzalcyanhydrin
 beden
 backswordmen
 batswing
-blitzkrieg
 belast
 berber
 boreas
@@ -7561,6 +7560,7 @@ bevomiting
 briefer
 bevomits
 bread
+blitzkrieg
 bevvy
 baronages
 bewailers
