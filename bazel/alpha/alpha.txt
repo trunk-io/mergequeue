@@ -2980,7 +2980,6 @@ actinocrinite
 agnates
 actinodielectric
 actinodromous
-actinoelectric
 actinoelectrically
 aerogeography
 axemaster
@@ -10437,6 +10436,7 @@ auxosubstance
 amianth
 aegle
 actinometer
+actinoelectric
 antireactive
 achimenes
 aponogetonaceous
