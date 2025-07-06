@@ -4554,6 +4554,7 @@ farmlands
 furzes
 feer
 forheed
+foram
 foreigner
 forslake
 foresin
@@ -7321,7 +7322,6 @@ fixation
 foraying
 frognose
 foralite
-foram
 franchisers
 fronds
 fearnaught
