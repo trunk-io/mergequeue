@@ -10483,7 +10483,6 @@ chieftains
 cracknels
 chiefty
 chiel
-coapts
 column
 chield
 chields
@@ -18654,6 +18653,7 @@ combusted
 clerkhood
 coin
 cephalopod
+coapts
 cooperativeness
 coyly
 corralled
