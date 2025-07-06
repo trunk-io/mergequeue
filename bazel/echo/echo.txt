@@ -4169,7 +4169,6 @@ empresses
 emprint
 emprises
 epinastically
-entomotaxy
 emprison
 euphausiid
 emprize
@@ -12008,6 +12007,7 @@ event
 exclamations
 exclamative
 endolymphic
+entomotaxy
 exclamatory
 exclaves
 excavational
