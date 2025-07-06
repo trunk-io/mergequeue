@@ -17142,7 +17142,6 @@ afterdeath
 apogenous
 avocets
 anisochromia
-aculeata
 apogeotropism
 apogon
 autolaryngoscopy
@@ -20279,6 +20278,7 @@ austerity
 abstracting
 altschin
 arrimby
+aculeata
 anthologise
 aphides
 akasha
