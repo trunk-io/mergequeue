@@ -5697,7 +5697,6 @@ bibliotaph
 belemnoidea
 beleper
 bicycle
-bathybic
 balandra
 butterpaste
 barkpeeling
@@ -16056,6 +16055,7 @@ boskiest
 brookier
 brookite
 beneficient
+bathybic
 barbarianized
 battling
 batyphone
