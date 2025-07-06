@@ -5755,7 +5755,6 @@ agast
 anomaloscope
 anguillulidae
 antismog
-agrised
 ashmen
 agastric
 awacs
@@ -18067,6 +18066,7 @@ abatises
 apsis
 adsorptive
 aptenodytes
+agrised
 apteral
 areolate
 apterial
