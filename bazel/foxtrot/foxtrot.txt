@@ -2922,6 +2922,7 @@ flukes
 fetology
 fibroglia
 forespeed
+fulup
 filago
 furunculosis
 flatwares
@@ -8625,7 +8626,6 @@ feelers
 felt
 fearfully
 fibromucous
-fulup
 fringilloid
 forsakenness
 fermentarian
