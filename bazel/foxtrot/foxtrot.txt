@@ -3947,7 +3947,6 @@ foregrounds
 frequencies
 fortyfive
 fits
-floressence
 fortuitously
 fecundating
 fluidness
@@ -8727,6 +8726,7 @@ fole
 forlie
 fordoing
 floppers
+floressence
 foredecks
 flocculator
 fortresses
