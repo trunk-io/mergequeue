@@ -3405,7 +3405,6 @@ geodynamics
 genoa
 geometrid
 gestapos
-gallanting
 glasgow
 gallophobia
 graptomancy
@@ -8173,6 +8172,7 @@ glutamates
 glorioso
 graphiological
 gemotes
+gallanting
 gynaecocrat
 gelders
 gastroplasty
