@@ -3389,7 +3389,6 @@ defleaed
 damnum
 defleas
 deflect
-driftfishes
 disinhuming
 darer
 deflecting
@@ -12872,6 +12871,7 @@ disme
 decast
 dipteran
 dismembrator
+driftfishes
 doughfoots
 deafish
 depucel
