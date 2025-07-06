@@ -696,7 +696,6 @@ formism
 flan
 fractioned
 fiendful
-folklorish
 fellow
 feijoa
 finenesses
@@ -5525,6 +5524,7 @@ flacker
 fleshmonger
 fcy
 flagfall
+folklorish
 fletcherism
 frontignac
 following
