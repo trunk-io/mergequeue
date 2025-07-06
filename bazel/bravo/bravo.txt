@@ -4914,7 +4914,6 @@ border
 brevets
 beefburgers
 bebelted
-backchat
 beefeater
 beefeaters
 barkentines
@@ -12541,6 +12540,7 @@ barbecued
 bloodshot
 barnage
 balsamroot
+backchat
 brails
 brontogram
 bridehead
