@@ -2976,7 +2976,6 @@ extern
 encorpore
 eliot
 eliphalet
-elbowroom
 exarchist
 excrementize
 eviscerate
@@ -11640,6 +11639,7 @@ effet
 excided
 enfrenzy
 ersatz
+elbowroom
 ethnocentricity
 exclosure
 emollition
