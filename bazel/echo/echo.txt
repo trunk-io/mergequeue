@@ -4191,7 +4191,6 @@ emptiers
 emptiest
 emptiness
 emptio
-equipment
 externship
 emptor
 eggeater
@@ -8153,6 +8152,7 @@ expostulations
 erminois
 esterifying
 epicoelia
+equipment
 encephalothlipsis
 electrovection
 emblemish
