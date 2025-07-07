@@ -3978,7 +3978,6 @@ gildhall
 grandness
 gildship
 gutturals
-goldenrod
 gerundive
 graybacks
 grossierete
@@ -10564,6 +10563,7 @@ gypsy
 gunk
 geeing
 grateman
+goldenrod
 grilling
 guillemot
 graverobber
