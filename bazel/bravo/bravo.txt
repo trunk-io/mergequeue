@@ -8161,7 +8161,6 @@ biding
 bidirectional
 biophagy
 bidirectionally
-beliefs
 bania
 boathouses
 bountith
@@ -15684,6 +15683,7 @@ bananaquit
 buccinal
 broche
 brochettes
+beliefs
 burble
 brochidodromous
 bigfoot
