@@ -7385,7 +7385,6 @@ clamper
 chimar
 captious
 centurist
-coroners
 cherishes
 ceorl
 cep
@@ -28620,6 +28619,7 @@ cavillation
 cornball
 cremaillere
 cremaster
+coroners
 calendarian
 cremasterial
 cremasteric
