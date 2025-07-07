@@ -3252,7 +3252,6 @@ germanizer
 germule
 germanness
 germinant
-gunrunner
 genapped
 gingeley
 grr
@@ -7795,6 +7794,7 @@ gorce
 guhayna
 gond
 grasserie
+gunrunner
 glumpier
 gingall
 gynaeocracy
