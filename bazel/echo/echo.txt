@@ -2462,7 +2462,6 @@ empanelment
 electrohemostasis
 endearing
 epicleses
-endexines
 exairesis
 electroing
 electrokinetic
@@ -8898,6 +8897,7 @@ eternities
 egyptologic
 enjeopardy
 encrypt
+endexines
 emptive
 euonymin
 eremic
