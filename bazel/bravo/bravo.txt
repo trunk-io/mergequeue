@@ -3766,7 +3766,6 @@ bobflies
 battute
 burratine
 bacterian
-blastomeric
 batwing
 beswitch
 betatrons
@@ -6639,6 +6638,7 @@ beresite
 beret
 berets
 balancers
+blastomeric
 beretta
 berewick
 balkanizing
