@@ -2079,7 +2079,6 @@ gazebo
 gazeboes
 guestship
 gyros
-grampus
 gen
 glumiferous
 galla
@@ -7012,6 +7011,7 @@ glassworkers
 gladrags
 gazy
 gunite
+grampus
 gunther
 geikia
 gesellschaft
