@@ -11613,7 +11613,6 @@ bisontine
 board
 boarded
 besmudged
-bibulosity
 blastoffs
 boardinghouse
 boardings
@@ -13357,6 +13356,7 @@ baggers
 bellicosity
 benighten
 bunder
+bibulosity
 bothnian
 bothnic
 batteled
