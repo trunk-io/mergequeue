@@ -2506,7 +2506,6 @@ falus
 footbridges
 fermentescible
 fielding
-fornax
 ferruginated
 fungal
 foliocellosis
@@ -10406,6 +10405,7 @@ forcaria
 filesmith
 feudalistic
 fustiest
+fornax
 fringeflower
 fossified
 frictionlessly
