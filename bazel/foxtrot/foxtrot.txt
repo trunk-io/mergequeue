@@ -9784,7 +9784,6 @@ ferijee
 frequentest
 feldspar
 frapp
-fallacies
 falchion
 fessways
 formular
@@ -9952,6 +9951,7 @@ furze
 friesian
 friezed
 fittable
+fallacies
 friezer
 frig
 fossilated
