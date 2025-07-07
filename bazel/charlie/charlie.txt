@@ -4575,7 +4575,6 @@ cordialize
 carnation
 carnationist
 carnations
-carnauba
 carnaubas
 carneau
 carnegie
@@ -13592,6 +13591,7 @@ corsetless
 cloying
 cilia
 ciliate
+carnauba
 ciliated
 ciliately
 coolish
