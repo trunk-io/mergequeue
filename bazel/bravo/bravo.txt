@@ -6464,7 +6464,6 @@ backcloth
 barangay
 biternate
 benzothiofuran
-benzothiophene
 benzotrichloride
 bolection
 benzoxyacetic
@@ -14696,6 +14695,7 @@ brauna
 burgheristh
 britannic
 bullwork
+benzothiophene
 braunite
 braunites
 bacury
