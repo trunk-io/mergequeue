@@ -2633,7 +2633,6 @@ ferrocene
 fogramity
 flongs
 ferrocyanate
-ferroelectric
 fingerbreadth
 ferrogoslarite
 franked
@@ -5876,6 +5875,7 @@ farthingale
 forestem
 formidableness
 furanes
+ferroelectric
 filanders
 feminology
 fastigia
