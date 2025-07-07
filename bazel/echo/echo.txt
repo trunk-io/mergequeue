@@ -1468,6 +1468,7 @@ emunct
 epipleural
 envelop
 etaerio
+equivalved
 enfarce
 efforts
 effraction
@@ -8784,7 +8785,6 @@ exposited
 extempore
 effs
 ektexines
-equivalved
 emmergoose
 entombing
 encinas
