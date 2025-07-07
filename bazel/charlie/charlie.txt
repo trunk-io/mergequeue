@@ -10095,7 +10095,6 @@ chermes
 cassidinae
 creamcake
 champaign
-chermidae
 chermish
 cocopans
 clanjamfray
@@ -10369,6 +10368,7 @@ casabe
 cnidocyst
 concordable
 committer
+chermidae
 champerator
 cantharidin
 chicest
