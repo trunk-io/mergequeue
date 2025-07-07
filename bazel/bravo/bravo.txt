@@ -1178,6 +1178,7 @@ biasteric
 bake
 brew
 buoys
+butterroot
 brawliest
 breth
 burion
@@ -4006,7 +4007,6 @@ butcheries
 brevier
 beaked
 beakerman
-butterroot
 bellite
 beakermen
 bountiful
