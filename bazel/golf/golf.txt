@@ -4174,7 +4174,6 @@ gest
 geomagnetic
 gimped
 gimpier
-guidable
 galactolytic
 gippers
 gliosa
@@ -5893,6 +5892,7 @@ ginkgoales
 gentilish
 gleesomeness
 gassiness
+guidable
 gymnospermous
 goitrous
 globosphaerite
