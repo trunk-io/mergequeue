@@ -8786,7 +8786,6 @@ channelled
 channelling
 commiseratingly
 channelure
-cestus
 chronoscope
 chansonette
 commissionaire
@@ -11837,6 +11836,7 @@ chondroalbuminoid
 chondroangioma
 credential
 chondroarthritis
+cestus
 contestant
 chondroblastoma
 chondrocyte
