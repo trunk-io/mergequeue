@@ -1779,7 +1779,6 @@ fasciolariidae
 flourless
 foodservices
 feasibleness
-fuselage
 faviform
 feasibly
 fashionmonger
@@ -10384,6 +10383,7 @@ footworks
 frontignan
 fucate
 fronting
+fuselage
 fizzle
 focus
 furoid
