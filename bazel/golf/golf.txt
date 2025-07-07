@@ -862,7 +862,6 @@ grammaticality
 gonagia
 gonadotropin
 girdlingly
-gameless
 gynecomazia
 ganglionitis
 generators
@@ -6270,6 +6269,7 @@ gobies
 guiser
 gallify
 gasogenes
+gameless
 gobiid
 gossypium
 gobylike
