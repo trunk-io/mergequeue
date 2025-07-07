@@ -4063,6 +4063,7 @@ goneoclinic
 gipsywort
 gulgul
 gilder
+gazetteers
 glycerogelatin
 giraffish
 genapper
@@ -6142,7 +6143,6 @@ gadsbud
 garibaldi
 goadsman
 grihastha
-gazetteers
 groveling
 goal
 glutted
