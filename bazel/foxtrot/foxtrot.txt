@@ -5698,6 +5698,7 @@ forewarns
 forhooie
 forevouched
 forfeitures
+frondless
 flingy
 funded
 flings
@@ -10326,7 +10327,6 @@ floodlighted
 foredoing
 fortiori
 flexible
-frondless
 feezing
 fooyoung
 frondlet
