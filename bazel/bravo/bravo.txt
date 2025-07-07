@@ -10419,7 +10419,6 @@ breaker
 blanketlike
 bemantle
 brimborion
-blankets
 bhoot
 beedged
 blankish
@@ -12312,6 +12311,7 @@ beswarmed
 bombardments
 bedazed
 bombline
+blankets
 bowdrill
 bombast
 buglers
