@@ -2057,7 +2057,6 @@ cruddle
 camouflaging
 combats
 chandlery
-collapsar
 camoufleur
 chests
 cosherer
@@ -8214,6 +8213,7 @@ codiniac
 coracosteon
 carcer
 chaffron
+collapsar
 chondri
 clavicornia
 chaffs
