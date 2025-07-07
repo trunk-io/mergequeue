@@ -9001,7 +9001,6 @@ gradgrindism
 ghent
 gneissose
 geographers
-geog
 gobletful
 gnathophorous
 gravenstein
@@ -10607,6 +10606,7 @@ gonzalo
 grandame
 glossmeter
 gadidae
+geog
 geohydrologist
 gourmetism
 gillion
