@@ -1146,7 +1146,6 @@ gripier
 genteeler
 grouses
 genin
-genio
 generalness
 gantsl
 galactometry
@@ -7185,6 +7184,7 @@ guaruan
 gonesome
 guerickian
 gesticulative
+genio
 gimblet
 guarneri
 gavages
