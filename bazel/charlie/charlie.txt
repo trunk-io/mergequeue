@@ -9774,6 +9774,7 @@ cheesecutter
 caramba
 concursus
 cheeselep
+claromontane
 cheeselip
 cephalochorda
 cheesemaker
@@ -15592,7 +15593,6 @@ confraternization
 claro
 claroes
 collegian
-claromontane
 claros
 chemotaxis
 contraposition
