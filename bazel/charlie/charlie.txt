@@ -1672,7 +1672,6 @@ calorifier
 calorigenic
 calorimeters
 calorimetry
-calorimetrical
 calorimetrically
 calorimotor
 calorist
@@ -7313,6 +7312,7 @@ centriscoid
 cappadine
 centriscus
 coservant
+calorimetrical
 centrism
 chalices
 clark
