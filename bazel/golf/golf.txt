@@ -4642,7 +4642,6 @@ gaatch
 glyph
 groovelike
 girshes
-gipsyish
 geomorphologic
 glossarian
 gerbilles
@@ -8733,6 +8732,7 @@ gools
 guacharoes
 gymnastically
 greenlet
+gipsyish
 gorge
 greenling
 grogram
