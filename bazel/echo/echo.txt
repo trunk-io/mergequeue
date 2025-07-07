@@ -2440,7 +2440,6 @@ emerges
 ethanol
 electrogalvanization
 ethicist
-electrogenetic
 equivalence
 electrogenic
 electrogild
@@ -4662,6 +4661,7 @@ enchoric
 encyclopedias
 ekoi
 entanglers
+electrogenetic
 entablement
 energico
 electrophonically
