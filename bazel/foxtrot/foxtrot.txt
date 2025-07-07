@@ -3361,7 +3361,6 @@ finickin
 frambesia
 farsight
 fivescore
-flounces
 ferrelled
 fortier
 finity
@@ -10201,6 +10200,7 @@ fro
 ferryage
 fending
 foggages
+flounces
 frazing
 faros
 flaskful
