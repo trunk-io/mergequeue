@@ -6322,7 +6322,6 @@ anticlassicism
 arsonium
 airs
 amphionic
-agricole
 agricolist
 atsara
 ambulances
@@ -11663,6 +11662,7 @@ aflush
 avoure
 appraisal
 anagyrine
+agricole
 anagyris
 anaglyph
 annulism
