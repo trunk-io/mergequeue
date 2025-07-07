@@ -3561,6 +3561,7 @@ brushy
 battleground
 berkeleyite
 bien
+borecole
 bathysophical
 bathysphere
 bathythermogram
@@ -10804,7 +10805,6 @@ bkpt
 barkingly
 boylike
 blepharism
-borecole
 brosse
 brewster
 bradford
