@@ -5476,7 +5476,6 @@ ganoids
 gimmer
 germantown
 gobbed
-goods
 gentlemen
 galipidine
 glisten
@@ -10752,6 +10751,7 @@ germinator
 gerald
 gut
 glycerins
+goods
 giber
 generation
 gutbucket
