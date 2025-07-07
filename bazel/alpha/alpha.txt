@@ -2994,7 +2994,6 @@ appear
 actinogram
 aerophore
 appearances
-actinograph
 aporobranchiata
 antipodes
 asbolin
@@ -21018,6 +21017,7 @@ ascitical
 ascititious
 agaz
 asclepiad
+actinograph
 asporous
 asclepiadaceae
 asclepiadae
