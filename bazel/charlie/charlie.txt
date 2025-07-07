@@ -8433,7 +8433,6 @@ converts
 chalklike
 chalkline
 chantage
-columnated
 chalkone
 chalkos
 chalkotheke
@@ -28979,6 +28978,7 @@ crossbowman
 compositions
 chlorinize
 cochair
+columnated
 cricotus
 criddle
 cried
