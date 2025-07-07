@@ -1547,7 +1547,6 @@ balled
 barbules
 batterer
 blauboks
-baller
 beclowning
 ballerina
 ballet
@@ -12522,6 +12521,7 @@ bonewort
 backdoor
 blazed
 bonfires
+baller
 bongoes
 bongoist
 bypast
