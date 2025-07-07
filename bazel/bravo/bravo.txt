@@ -4440,7 +4440,6 @@ bonasus
 bhili
 beribers
 beclothes
-blushwort
 bike
 buriels
 boomeranged
@@ -10806,6 +10805,7 @@ boylike
 blepharism
 borecole
 brosse
+blushwort
 brewster
 bradford
 borism
