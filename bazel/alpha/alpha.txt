@@ -17429,7 +17429,6 @@ afret
 apothecial
 archenemy
 apothecium
-antitrope
 arbitrement
 areologic
 applot
@@ -23927,6 +23926,7 @@ autobiographist
 antitypy
 autobiology
 autoboat
+antitrope
 archipelagos
 amorphozoa
 autoboating
