@@ -4429,6 +4429,7 @@ gip
 gleba
 gipon
 gaetulan
+gomontia
 gunlayer
 gypped
 giardia
@@ -10250,7 +10251,6 @@ guimbard
 gorsehatch
 geographics
 goglets
-gomontia
 geechee
 gonophore
 glacier
