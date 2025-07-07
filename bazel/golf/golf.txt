@@ -1241,7 +1241,6 @@ guyline
 gougers
 goosebone
 ganomalite
-goatbush
 garbler
 gradings
 greasers
@@ -10825,6 +10824,7 @@ gargol
 gelatinizing
 gyved
 gigunu
+goatbush
 guvacine
 gimpiest
 goodwilled
