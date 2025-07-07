@@ -661,7 +661,6 @@ flagmen
 freightyard
 falsity
 faltboat
-flugelmen
 faltere
 flavored
 filarial
@@ -5645,6 +5644,7 @@ firebolt
 forepassed
 fireboot
 fructuose
+flugelmen
 flyless
 fuddle
 fulgurata
