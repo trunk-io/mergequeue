@@ -8453,7 +8453,6 @@ filmdoms
 foxes
 formations
 folies
-footwall
 fatbrained
 foresettled
 formazan
@@ -9715,6 +9714,7 @@ functorial
 flummoxed
 filch
 frappes
+footwall
 filosofe
 farragos
 freyja
