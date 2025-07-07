@@ -3387,6 +3387,7 @@ fossilologist
 ferretto
 folklorist
 featherlessness
+forestcraft
 fioritura
 faction
 fulgide
@@ -5751,7 +5752,6 @@ fungous
 fuzzball
 frontlessly
 favorers
-forestcraft
 fathoms
 furnage
 fungistatic
