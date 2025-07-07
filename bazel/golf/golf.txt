@@ -1094,7 +1094,6 @@ graphiola
 grammatication
 grover
 gannet
-gearshifts
 gravitate
 graptolitic
 gallants
@@ -4046,6 +4045,7 @@ gastroduodenotomy
 grasswards
 grasshop
 gimel
+gearshifts
 gobernadora
 gegenschein
 gamester

@@ -2423,7 +2423,6 @@ ferforth
 frapped
 falconiformes
 frogling
-fucivorous
 feudist
 fenchol
 ferganite
@@ -6447,6 +6446,7 @@ foot
 financiered
 fluorobenzene
 fructifies
+fucivorous
 fulcra
 foreship
 frivoled
