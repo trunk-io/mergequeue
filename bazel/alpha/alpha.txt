@@ -5751,7 +5751,6 @@ adorner
 angiomatosis
 antiteetotalism
 agasp
-agast
 anomaloscope
 anguillulidae
 antismog
@@ -17143,6 +17142,7 @@ apogenous
 avocets
 anisochromia
 aculeata
+agast
 apogeotropism
 apogon
 autolaryngoscopy
