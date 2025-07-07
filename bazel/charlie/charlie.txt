@@ -5351,6 +5351,7 @@ courtling
 cassiterite
 ccws
 cassius
+crosswords
 cassock
 cleanser
 ctenophora
@@ -13639,7 +13640,6 @@ cylindroid
 cylindromata
 caudillos
 cylindromatous
-crosswords
 cylindrometric
 carceration
 chartographer

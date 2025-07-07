@@ -2979,7 +2979,6 @@ geomant
 gloom
 geomorphic
 gorily
-gyrally
 garboil
 gallicolous
 gulinula
@@ -8449,6 +8448,7 @@ gayal
 galleon
 geomorphological
 gravelish
+gyrally
 gillaroo
 geognostical
 gulpers
