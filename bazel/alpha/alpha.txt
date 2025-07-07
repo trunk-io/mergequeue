@@ -903,6 +903,7 @@ amylon
 absis
 absistos
 absit
+acipenserid
 absoil
 absterging
 antient
@@ -1723,7 +1724,6 @@ accusal
 accusant
 animadvert
 aristocracies
-acipenserid
 accusants
 accusation
 aerical
