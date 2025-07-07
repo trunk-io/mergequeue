@@ -1377,7 +1377,6 @@ governs
 ganodonta
 glossanthrax
 garnison
-greetingless
 garniture
 gaulsh
 glycosemia
@@ -7493,6 +7492,7 @@ gallycrow
 galinaceous
 guserid
 greywether
+greetingless
 gigglier
 glowered
 gynecophoric
