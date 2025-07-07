@@ -1600,6 +1600,7 @@ accountantship
 accounted
 atacamenian
 accounter
+addible
 accounters
 accounting
 accountment
@@ -3398,7 +3399,6 @@ abridgment
 addibility
 antroversion
 aphoruridae
-addible
 addicent
 addicted
 antiknocks
