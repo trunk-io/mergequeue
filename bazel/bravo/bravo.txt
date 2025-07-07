@@ -6137,7 +6137,6 @@ bends
 bendwise
 begay
 balaneutics
-benedicks
 benedicta
 butcherbroom
 bit
@@ -10509,6 +10508,7 @@ biologistic
 blastogenic
 baizes
 beleaguer
+benedicks
 bridgewards
 backcourt
 bodywood
