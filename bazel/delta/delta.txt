@@ -3965,7 +3965,6 @@ delactation
 distensibility
 delayable
 demes
-delayer
 delayful
 dooli
 devitalisation
@@ -5068,6 +5067,7 @@ denationalization
 dexiocardia
 denationalize
 denaturalisation
+delayer
 dedicator
 decaesarize
 dayal
