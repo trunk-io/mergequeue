@@ -1061,7 +1061,6 @@ depositions
 darrein
 devonite
 darshan
-dampening
 dorsomesal
 darsonval
 darsonvalism
@@ -12965,6 +12964,7 @@ downswing
 deniability
 dimensionless
 disomatic
+dampening
 doubtmonger
 dognaping
 discolor
