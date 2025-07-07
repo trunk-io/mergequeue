@@ -2193,6 +2193,7 @@ bewilders
 bestove
 baramika
 baramin
+bhaktas
 bertat
 backflash
 briscola
@@ -9159,7 +9160,6 @@ belamcanda
 bletting
 banc
 beefburger
-bhaktas
 bubbybush
 buckone
 barotropy
