@@ -9641,7 +9641,6 @@ chiotilla
 checkmating
 cautioning
 circumferences
-checkpoint
 checkpointed
 checkpointing
 combmaking
@@ -13288,6 +13287,7 @@ cichlidae
 colocynthin
 cichorium
 cicisbeism
+checkpoint
 cicisbeo
 cycl
 chromometer
