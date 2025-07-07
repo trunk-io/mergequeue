@@ -1388,7 +1388,6 @@ falser
 fletton
 flukiness
 footmanry
-fyttes
 frothi
 frantically
 fluxible
@@ -9069,6 +9068,7 @@ foxbane
 foxberry
 falcular
 fractionation
+fyttes
 forenent
 funneled
 folding
