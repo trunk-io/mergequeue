@@ -5119,7 +5119,6 @@ begirdle
 bunkery
 barracoutas
 befleas
-baffle
 boussingaultite
 bunrakus
 beflecked
@@ -10223,6 +10222,7 @@ bootstraps
 bondhold
 bloodletter
 belshazzar
+baffle
 blackleg
 blacklegged
 betattering
