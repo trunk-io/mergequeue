@@ -4742,7 +4742,6 @@ fluorene
 fistular
 fistlike
 fizgig
-fizgigs
 fice
 foined
 fairyish
@@ -5827,6 +5826,7 @@ flittermouse
 fathmur
 flamb
 flitters
+fizgigs
 frequents
 froggiest
 frivolize
