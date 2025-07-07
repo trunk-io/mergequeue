@@ -2489,7 +2489,6 @@ frisco
 farandola
 foils
 fluidize
-flutterable
 frazer
 fulgourous
 fullymart
@@ -10230,6 +10229,7 @@ frailer
 falcated
 flaming
 frogman
+flutterable
 fluoroscopically
 fatherlands
 fraudulently
