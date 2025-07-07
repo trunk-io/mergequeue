@@ -3856,6 +3856,7 @@ bawdies
 bestrow
 bricklaying
 backaches
+bilobe
 bedaggered
 bawdiest
 bristlemouth
@@ -8674,7 +8675,6 @@ bubalis
 behear
 billtong
 basins
-bilobe
 besiegingly
 bilobed
 bilocular
