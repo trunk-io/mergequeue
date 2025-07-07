@@ -4797,7 +4797,6 @@ aperture
 amidase
 aequoreal
 aerobioscope
-aerobiosis
 addleheaded
 aerobiotic
 aerobious
@@ -11635,6 +11634,7 @@ anaerobium
 avanti
 anaerophyte
 anaphylactic
+aerobiosis
 amatols
 anaeroplastic
 anaesthesiology
