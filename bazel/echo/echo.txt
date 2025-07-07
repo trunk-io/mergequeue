@@ -1574,7 +1574,6 @@ eggs
 emplastra
 excerptive
 encyclopedial
-eupeptically
 ensconces
 erosible
 egypt
@@ -9133,6 +9132,7 @@ erythrocytoschisis
 erythrocytosis
 erythrodermia
 embryogony
+eupeptically
 ectasia
 epistropheus
 equivocations
