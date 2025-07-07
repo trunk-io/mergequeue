@@ -6892,6 +6892,7 @@ exterior
 embarque
 eleusinion
 entomologies
+ern
 entomologised
 emblemized
 eelskin
@@ -12850,7 +12851,6 @@ exothermal
 exothermically
 erythrolysis
 exciter
-ern
 ecphorization
 emendated
 eisteddfods
