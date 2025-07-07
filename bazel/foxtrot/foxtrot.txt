@@ -2120,6 +2120,7 @@ feudalisation
 foremasthand
 felicity
 froglet
+floatman
 fructidor
 fusibleness
 freeform
@@ -9512,7 +9513,6 @@ frauleins
 formaliter
 fissiparousness
 flatbottom
-floatman
 florets
 fathering
 featherlight
