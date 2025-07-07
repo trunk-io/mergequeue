@@ -7644,6 +7644,7 @@ footgrip
 floruits
 faeculence
 foreimagination
+foollike
 flashlike
 footrace
 fumy
@@ -10034,7 +10035,6 @@ fantod
 flavoury
 flor
 fryer
-foollike
 flans
 fringehead
 fringelet
