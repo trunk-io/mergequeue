@@ -5476,7 +5476,6 @@ coldly
 castoreum
 caftaned
 chilloes
-cookshack
 calcaneonavicular
 castorite
 castra
@@ -6089,6 +6088,7 @@ carryable
 chandeliers
 cathouses
 crownling
+cookshack
 cathrin
 cathryn
 coversine
