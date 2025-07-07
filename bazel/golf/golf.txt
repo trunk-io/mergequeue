@@ -7298,7 +7298,6 @@ gibbetted
 goldlike
 gossip
 gratify
-gossiped
 glaive
 glittering
 gossipee
@@ -10669,6 +10668,7 @@ gurgoyle
 gurgulio
 glaiketness
 glottologist
+gossiped
 guric
 grog
 granitization
