@@ -2176,7 +2176,6 @@ frigate
 fattener
 fletch
 faujdar
-fuchsite
 fosterling
 fluer
 fidepromissor
@@ -6525,6 +6524,7 @@ flustrine
 figurally
 fluted
 featherbedded
+fuchsite
 faintish
 filmlands
 frills
