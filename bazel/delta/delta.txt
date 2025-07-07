@@ -7162,7 +7162,6 @@ dollyman
 decompose
 derailleurs
 dispersement
-drawboring
 deerkill
 dents
 desulphurize
@@ -11194,6 +11193,7 @@ dyslectic
 doeg
 decciare
 danite
+drawboring
 dismask
 dogmatist
 diagrammers
