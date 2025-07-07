@@ -1726,6 +1726,7 @@ buskers
 brokerage
 bodgery
 broon
+beat
 byline
 boutonniere
 belorussian
@@ -4176,7 +4177,6 @@ beastlings
 bulgy
 beastman
 beastship
-beat
 benches
 beatae
 beatee
