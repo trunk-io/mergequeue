@@ -7252,7 +7252,6 @@ dimetric
 detenu
 detenue
 detenues
-dephlegmator
 deter
 deterged
 desertlike
@@ -7794,6 +7793,7 @@ dholes
 devolatilised
 dervishes
 dosimetries
+dephlegmator
 dryrot
 distrusts
 disbeliever
