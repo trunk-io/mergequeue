@@ -3541,6 +3541,7 @@ fanfares
 fingerable
 frostfishes
 foreseason
+fergus
 fallback
 fighteress
 fighting
@@ -7512,7 +7513,6 @@ feuilletonist
 fideos
 fleetest
 freeholders
-fergus
 fellatah
 fullface
 forebode
