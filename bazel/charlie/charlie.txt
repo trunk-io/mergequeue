@@ -17213,6 +17213,7 @@ carduus
 coadjutorship
 coadjutress
 coadjutrix
+castoff
 coadjuvate
 coadminister
 coadministration
@@ -25010,7 +25011,6 @@ cordate
 catawamptious
 cordax
 carnivora
-castoff
 cordeau
 cordel
 comae
