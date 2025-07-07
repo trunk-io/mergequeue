@@ -7176,6 +7176,7 @@ ectosphenotic
 edicts
 engaud
 enfranchisable
+entoplastic
 enemy
 epiplexis
 ergotamine
@@ -11706,7 +11707,6 @@ expends
 erythrogenic
 ecphasis
 ecoid
-entoplastic
 exaggeratively
 exagitate
 effluence
