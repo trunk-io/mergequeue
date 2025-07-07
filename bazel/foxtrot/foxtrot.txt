@@ -4419,7 +4419,6 @@ froggier
 feltwork
 flybook
 fixion
-fishboats
 fishbolts
 flechette
 funt
@@ -8771,6 +8770,7 @@ fumbler
 face
 forwearied
 fitchy
+fishboats
 forgemen
 faradization
 fiberglass
