@@ -2921,7 +2921,6 @@ fetlocked
 flukes
 fetology
 fibroglia
-forespeed
 filago
 furunculosis
 flatwares
@@ -7304,6 +7303,7 @@ forelock
 fopperies
 fopperly
 fraternized
+forespeed
 formaldoxime
 fourer
 facers
