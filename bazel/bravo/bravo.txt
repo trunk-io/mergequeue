@@ -1531,7 +1531,6 @@ bersiamite
 bulbiform
 bouton
 backsword
-ballaster
 ballastic
 ballata
 batikulin
@@ -13692,6 +13691,7 @@ bourgeoisitic
 breadlessness
 bourgeons
 baalshem
+ballaster
 bourignian
 blanketmaker
 branched
