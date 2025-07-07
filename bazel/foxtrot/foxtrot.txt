@@ -3764,7 +3764,6 @@ filletster
 frail
 feodal
 facebread
-fillies
 feetless
 firedogs
 foalfoot
@@ -10810,6 +10809,7 @@ fearful
 ferniest
 firiness
 fixatives
+fillies
 fulciment
 failures
 fulcrumed
