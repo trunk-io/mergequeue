@@ -3876,7 +3876,6 @@ deionizations
 dichroiscope
 diatropic
 dyspnoea
-deionize
 decastyle
 dephlegm
 deselects
@@ -14225,6 +14224,7 @@ demobilizing
 deeds
 delegation
 disuniting
+deionize
 didrachmas
 dysuria
 dysurias
