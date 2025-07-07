@@ -1077,7 +1077,6 @@ groundway
 gypsums
 glares
 guarding
-gowdy
 goularo
 gormandizers
 genitives
@@ -6123,6 +6122,7 @@ gazon
 guttulous
 gns
 gymnasisia
+gowdy
 gagmen
 gatefolds
 globical
