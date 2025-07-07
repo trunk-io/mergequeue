@@ -5856,7 +5856,6 @@ categorematical
 category
 choledoch
 cinurous
-categorial
 chieftainship
 cylindrocephalic
 categoric
@@ -28224,6 +28223,7 @@ cardiopathy
 crapehanger
 cinnabaric
 crapette
+categorial
 conjoiner
 concordial
 cricothyreoid
