@@ -2533,6 +2533,7 @@ generate
 guitars
 generated
 gazetteerage
+grandeza
 gomerel
 guetare
 generative
@@ -7594,7 +7595,6 @@ goldbricks
 gleaminess
 geospiza
 gradationally
-grandeza
 gassier
 gramarye
 gastropyloric
