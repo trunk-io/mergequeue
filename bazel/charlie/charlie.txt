@@ -3495,7 +3495,6 @@ clerklier
 capsomer
 capsomere
 capsomers
-capstan
 capstans
 capstone
 capsula
@@ -27371,6 +27370,7 @@ courtepy
 courter
 cozily
 courters
+capstan
 chilblain
 courtesan
 citriculturist
