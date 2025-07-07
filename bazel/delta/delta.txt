@@ -5477,7 +5477,6 @@ deoppilation
 dep
 doss
 doment
-deordination
 deorganization
 deistic
 decolouriser
@@ -10133,6 +10132,7 @@ dynamogenesis
 dynamogeny
 dauphins
 dynamograph
+deordination
 dauerschlaf
 doubted
 dynamometamorphic
