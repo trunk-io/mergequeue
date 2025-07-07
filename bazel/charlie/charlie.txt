@@ -6581,7 +6581,6 @@ chemins
 cavillers
 cavillous
 cavils
-cyaathia
 cavina
 cynicisms
 colonization
@@ -16374,6 +16373,7 @@ convector
 clinopodium
 conterminous
 constrainment
+cyaathia
 curvilinear
 civilise
 citronize
