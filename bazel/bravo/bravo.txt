@@ -3585,7 +3585,6 @@ balaamite
 butchers
 balconet
 bankeress
-barkentine
 bathometer
 bathometry
 blockmaking
@@ -6510,6 +6509,7 @@ bepiece
 bepile
 bragas
 bolshie
+barkentine
 boca
 blobbiness
 blowiness
