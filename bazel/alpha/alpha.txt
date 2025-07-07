@@ -14487,7 +14487,6 @@ anthropometry
 anuloma
 anthropometric
 acrocarpi
-allan
 anthropometrist
 anthropomophitism
 antipestilence
@@ -17630,6 +17629,7 @@ alectoris
 acuesthesia
 appendorontgenography
 antheximeter
+allan
 appendotome
 activist
 astroid
