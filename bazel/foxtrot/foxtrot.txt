@@ -2047,7 +2047,6 @@ fautor
 fours
 feeze
 fimicolous
-feudovassalism
 furmity
 funnelled
 feezes
@@ -7420,6 +7419,7 @@ fighter
 flinging
 furan
 forereport
+feudovassalism
 forceless
 forcelessness
 forcelet
