@@ -2456,6 +2456,7 @@ fondlers
 fleer
 fad
 fleshlessness
+fusil
 flakelet
 fistularia
 ferio
@@ -11560,7 +11561,6 @@ flowages
 fetting
 fusicladium
 fusiform
-fusil
 frictionized
 figurations
 feedback
