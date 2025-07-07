@@ -1616,6 +1616,7 @@ accouters
 accoutre
 attire
 accoutrement
+accent
 angioclast
 accoutres
 accoutring
@@ -15253,7 +15254,6 @@ advocatory
 angiocarpian
 ampulla
 amphithyrons
-accent
 alloquialism
 antigenes
 antigigmanic
