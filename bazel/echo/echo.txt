@@ -557,7 +557,6 @@ echinidan
 expy
 enzymologist
 eclipsises
-entosthoblast
 echinococcosis
 epedaphic
 echinoderidae
@@ -3531,6 +3530,7 @@ eponyms
 extreme
 euphratean
 entrefer
+entosthoblast
 egyptianism
 embolize
 eupeptic
