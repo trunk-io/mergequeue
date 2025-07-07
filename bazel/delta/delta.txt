@@ -311,7 +311,6 @@ dayanim
 directories
 daybeacon
 daybed
-dissuasiveness
 dollfaced
 daybill
 downcomer
@@ -14679,6 +14678,7 @@ dixain
 decentre
 dizain
 decameter
+dissuasiveness
 dora
 degradability
 deuteropathy
