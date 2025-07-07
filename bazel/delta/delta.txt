@@ -3671,7 +3671,6 @@ deprogrammer
 dioestrous
 dropforging
 deglutition
-deglutitious
 degold
 decathlon
 disinhibition
@@ -17570,6 +17569,7 @@ duckhearted
 deathlike
 disavowal
 distained
+deglutitious
 domesticates
 duteousness
 drumming
