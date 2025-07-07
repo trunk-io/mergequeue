@@ -913,7 +913,6 @@ bagsful
 bequirtle
 bulgar
 bijugular
-bazookaman
 bassalian
 bravely
 bidarkas
@@ -4115,6 +4114,7 @@ beswarms
 beardy
 blanchimeter
 bearding
+bazookaman
 balminess
 beslimer
 beards
