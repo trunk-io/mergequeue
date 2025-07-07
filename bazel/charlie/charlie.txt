@@ -3495,7 +3495,6 @@ clerklier
 capsomer
 capsomere
 capsomers
-capstan
 capstans
 capstone
 capsula
@@ -15194,6 +15193,7 @@ clackers
 clackety
 clacking
 clacks
+capstan
 clad
 confated
 cladanthous
