@@ -8341,6 +8341,7 @@ camise
 cercomonas
 compressing
 cosingular
+choplogic
 caracoli
 chalazium
 chandam
@@ -11932,7 +11933,6 @@ clarina
 chopins
 colory
 coinquinate
-choplogic
 choplogical
 choregi
 cryptomonad

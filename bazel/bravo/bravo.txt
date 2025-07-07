@@ -2125,6 +2125,7 @@ buckshots
 bidstand
 bantam
 bantamize
+bembecidae
 bismar
 botanomancy
 burette
@@ -4294,7 +4295,6 @@ blessing
 bluntish
 boggish
 brabbled
-bembecidae
 bathyscaph
 battledore
 bacterious
