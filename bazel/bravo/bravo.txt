@@ -3719,7 +3719,6 @@ brucella
 barnstorms
 battler
 basocyte
-battleships
 barrace
 blushiness
 buhr
@@ -4540,6 +4539,7 @@ beglamour
 bed
 bienness
 biradiated
+battleships
 bathroot
 bater
 bool

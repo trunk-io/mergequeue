@@ -3929,6 +3929,7 @@ adjutrice
 adjutrix
 adlai
 ambassage
+afterworld
 adlet
 ameba
 adlumia
@@ -5592,7 +5593,6 @@ afterword
 afterwork
 agathodemon
 aint
-afterworld
 apodeixis
 aftonian
 amygdalopathy
