@@ -311,7 +311,6 @@ dayanim
 directories
 daybeacon
 daybed
-dissuasiveness
 dollfaced
 daybill
 downcomer
@@ -15691,6 +15690,7 @@ dennis
 departmentalise
 detacher
 doorward
+dissuasiveness
 doorweed
 doover
 doozers
