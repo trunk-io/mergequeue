@@ -2218,7 +2218,6 @@ counterhammering
 campos
 campout
 circumfusile
-capotes
 campshed
 campsheeting
 campsite
@@ -17249,6 +17248,7 @@ coaffirmation
 coafforest
 coaged
 cablemen
+capotes
 coagel
 counterdemonstration
 coeloms
