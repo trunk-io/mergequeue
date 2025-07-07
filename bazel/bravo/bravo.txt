@@ -5143,6 +5143,7 @@ bromhidrosis
 bloodthirstiness
 baubling
 bulkiness
+bonspell
 banco
 befools
 bridgeport
@@ -12613,7 +12614,6 @@ billposting
 braccate
 bakshaish
 beaproned
-bonspell
 buttresses
 bonspiel
 boruca
