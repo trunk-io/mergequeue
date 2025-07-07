@@ -1056,7 +1056,6 @@ bailo
 babyhouse
 behowling
 becost
-barrulet
 blousier
 bailors
 birdlimed
@@ -9840,6 +9839,7 @@ bytes
 bitewing
 bunked
 beryx
+barrulet
 based
 backswording
 bolelia
