@@ -1581,6 +1581,7 @@ egypt
 extraversion
 encampment
 epinasty
+exceeder
 envigor
 exsuscitate
 exogeny
@@ -3539,7 +3540,6 @@ entocone
 embolomalerism
 enervator
 epidural
-exceeder
 embolon
 equoid
 epicureanism
