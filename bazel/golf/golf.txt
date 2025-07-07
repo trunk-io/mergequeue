@@ -3773,7 +3773,6 @@ gola
 girosol
 glarier
 gonapophysal
-gearwheels
 gideon
 gyropilot
 gesticulate
@@ -5821,6 +5820,7 @@ gendarmes
 greywacke
 gruiformes
 ghettoing
+gearwheels
 griffins
 graffito
 gedact
