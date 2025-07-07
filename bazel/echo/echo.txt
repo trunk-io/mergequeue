@@ -992,7 +992,6 @@ eponymic
 edits
 enterococcus
 endosporium
-exclaimers
 esoterics
 expanse
 excavatory
@@ -1532,6 +1531,7 @@ egbo
 escars
 etch
 extracalendar
+exclaimers
 ettarre
 emmetropism
 egesta
