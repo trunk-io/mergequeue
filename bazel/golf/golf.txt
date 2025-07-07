@@ -1506,7 +1506,6 @@ gasolier
 geotonic
 gangland
 grouse
-gasoliers
 guiro
 gripers
 growed
@@ -7832,6 +7831,7 @@ giglots
 grammatite
 gumbo
 glossotherium
+gasoliers
 gelatification
 gramme
 groggiest
