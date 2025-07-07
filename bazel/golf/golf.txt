@@ -1634,6 +1634,7 @@ gader
 gamelion
 goriest
 gorkiesque
+galenite
 gif
 gastrodermal
 gastrodermis
@@ -8217,7 +8218,6 @@ gre
 garamond
 graphometric
 gara
-galenite
 glissaded
 groundless
 gladii
