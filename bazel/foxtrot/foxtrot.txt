@@ -9410,6 +9410,7 @@ fountainheads
 facing
 fettler
 foxholes
+fancies
 foreweigh
 flubbing
 fidgeter
@@ -11021,7 +11022,6 @@ filiferous
 fumarate
 flammulated
 fontainea
-fancies
 flanerie
 ferruminate
 fumishing
