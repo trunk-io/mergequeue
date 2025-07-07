@@ -3141,7 +3141,6 @@ balneotherapeutics
 branchway
 baseplug
 basepoint
-baser
 brazen
 blanda
 besetter
@@ -8050,6 +8049,7 @@ bicycler
 bluebooks
 bisiliac
 bbls
+baser
 bickerer
 bailsman
 breathalyse
