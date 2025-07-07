@@ -5156,7 +5156,6 @@ fregit
 freeway
 farmhousey
 flashings
-fulgently
 flashlight
 frizzly
 foreadvise
@@ -11556,6 +11555,7 @@ fretfully
 fortitude
 ferociousness
 footlessly
+fulgently
 flowages
 fetting
 fusicladium
