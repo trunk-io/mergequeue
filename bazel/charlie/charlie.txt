@@ -2110,7 +2110,6 @@ captivator
 campanular
 campanulariae
 campanularidae
-campanulatae
 campanulate
 chondrosarcomata
 campanulous
@@ -15039,6 +15038,7 @@ clumpy
 caprimulgus
 cytotoxin
 cytotrophy
+campanulatae
 chiaroscuro
 chitties
 cloud
