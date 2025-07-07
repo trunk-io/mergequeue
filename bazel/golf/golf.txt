@@ -3337,7 +3337,6 @@ gerontic
 generalships
 gondolier
 gnatling
-gorkun
 galbe
 glaciable
 gyroscopic
@@ -4965,6 +4964,7 @@ gouging
 glandiform
 gastrelcosis
 glanditerous
+gorkun
 ginger
 grisliest
 gaudily
