@@ -4423,7 +4423,6 @@ fishboats
 fishbolts
 flechette
 funt
-fellers
 flagged
 forbearances
 fishbowls
@@ -11496,6 +11495,7 @@ firmity
 fiercened
 furtively
 furud
+fellers
 flamboyant
 flotant
 faddisms
