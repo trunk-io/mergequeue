@@ -2511,7 +2511,6 @@ gonochorism
 galenites
 grosses
 gaiterless
-gitter
 generalized
 graywall
 guv
@@ -8799,6 +8798,7 @@ germain
 generalize
 griddler
 gastroschisis
+gitter
 galleys
 globefishes
 gentianaceous
