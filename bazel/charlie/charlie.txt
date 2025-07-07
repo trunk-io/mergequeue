@@ -11886,7 +11886,6 @@ chondroseptum
 construed
 colpohysterotomy
 chondrosin
-conopid
 chondrosis
 chondrostean
 chondrostei
@@ -19216,6 +19215,7 @@ collock
 cowfish
 compartmentalizes
 collocutor
+conopid
 cogitations
 collodion
 crushproof
