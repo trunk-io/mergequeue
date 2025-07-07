@@ -2559,7 +2559,6 @@ fatales
 ferociously
 flashforward
 fumarin
-ferrier
 fieldball
 fastus
 forehorse
@@ -8546,6 +8545,7 @@ formulated
 formulating
 forgainst
 formulisation
+ferrier
 friaries
 flinchers
 famulus
