@@ -7345,6 +7345,7 @@ greenfish
 gunflints
 gurgoyl
 gunnery
+gyric
 gothish
 grame
 globousness
@@ -10662,7 +10663,6 @@ gliding
 gorb
 gurgitation
 gladius
-gyric
 galp
 guardee
 gurgoyle
