@@ -12086,7 +12086,6 @@ baltetei
 balladier
 bojo
 bokhara
-baronized
 bokharan
 bokom
 bola
@@ -17488,6 +17487,7 @@ betes
 bioecologist
 buqshas
 brambrack
+baronized
 barometz
 babyhood
 buran
