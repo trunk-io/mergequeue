@@ -3235,6 +3235,7 @@ cumly
 capital
 chevronny
 capitaldom
+cathexion
 capitaled
 capitalisable
 capitalised
@@ -8848,7 +8849,6 @@ chaparrals
 chaparraz
 chaparro
 chapati
-cathexion
 chilindre
 chapatties
 chapattis
