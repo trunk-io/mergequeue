@@ -419,7 +419,6 @@ flabellate
 fallaway
 farfara
 fairishly
-fairkeeper
 fronde
 farcy
 ficoes
@@ -5654,6 +5653,7 @@ flimflamming
 flimflams
 freethink
 favouritism
+fairkeeper
 flimsy
 flimsier
 farmage
