@@ -485,7 +485,6 @@ ecclesiast
 encephalomata
 expostulated
 empasm
-envelopers
 extended
 endoconidium
 extorsion
@@ -12621,6 +12620,7 @@ exocoelic
 exocoelom
 explant
 epicardium
+envelopers
 electrostatics
 exocoelum
 electioneered
