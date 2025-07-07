@@ -7132,7 +7132,6 @@ gorglin
 galvayne
 grabbers
 graphitoid
-gnawable
 graynesses
 gloryful
 generalship
@@ -10108,6 +10107,7 @@ gufa
 greynesses
 gardyloo
 grano
+gnawable
 guffawed
 geodetical
 gravels
