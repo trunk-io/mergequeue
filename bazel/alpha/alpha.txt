@@ -5416,7 +5416,6 @@ afrit
 adeliza
 armary
 adored
-aulic
 agaces
 attuned
 antiputrid
@@ -11991,6 +11990,7 @@ anastases
 admiral
 anastasia
 autodestruction
+aulic
 aletris
 abstractors
 anastasian
