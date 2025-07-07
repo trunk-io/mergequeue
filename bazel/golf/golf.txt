@@ -4878,7 +4878,6 @@ guest
 greensand
 grudge
 greeter
-glaizie
 genappe
 glaga
 glagolic
@@ -10620,6 +10619,7 @@ gotraja
 goy
 gunpoints
 gloomiest
+glaizie
 ghoul
 gunpower
 gasping
