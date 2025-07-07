@@ -4020,6 +4020,7 @@ ferthumlungur
 forfends
 fingerer
 fingerers
+fabricant
 feed
 fono
 freehanded
@@ -10157,7 +10158,6 @@ frontlet
 fitter
 fled
 fashed
-fabricant
 falcidian
 foresing
 frizel
