@@ -8093,7 +8093,6 @@ bochur
 bicornous
 booklift
 bartend
-bagroom
 bicornuate
 bicornute
 beshadow
@@ -12751,6 +12750,7 @@ bookmarks
 bastardisation
 bhoots
 bookmobiles
+bagroom
 baroni
 barwise
 burlesk
