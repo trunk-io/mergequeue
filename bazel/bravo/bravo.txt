@@ -5701,7 +5701,6 @@ bathybic
 balandra
 butterpaste
 barkpeeling
-boogymen
 bluism
 berreaved
 belgard
@@ -7025,6 +7024,7 @@ besmooth
 besmooths
 beinness
 barricades
+boogymen
 basilian
 besmouch
 bacteritic
