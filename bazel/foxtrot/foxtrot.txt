@@ -4895,7 +4895,6 @@ factorylike
 festinately
 fructiparous
 feasting
-furnishing
 fodder
 foliums
 froebelism
@@ -11573,6 +11572,7 @@ fusileer
 foretack
 fulmar
 flummery
+furnishing
 futhermore
 fixature
 finnickiest
