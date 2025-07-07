@@ -5875,6 +5875,7 @@ bellyland
 bellylike
 bellyman
 biunique
+baalath
 biogenetical
 bunty
 balopticon
@@ -13090,7 +13091,6 @@ buffeting
 beryls
 bobbling
 backfurrow
-baalath
 bodyguard
 borid
 bacterioscopist
