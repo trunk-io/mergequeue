@@ -16585,7 +16585,6 @@ couter
 clockworked
 clavigerous
 carthamin
-chaldron
 clockworks
 clodder
 creepage
@@ -25181,6 +25180,7 @@ conditional
 cycled
 calabar
 centesimate
+chaldron
 curvier
 clinocephalus
 coriaria
