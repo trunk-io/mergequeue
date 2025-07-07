@@ -17451,6 +17451,7 @@ coastlines
 channeled
 condensible
 churchmaster
+copperplated
 coastward
 coastwards
 coatdress
@@ -27929,7 +27930,6 @@ cracklier
 crassament
 cumbraite
 crackliest
-copperplated
 capillation
 cracklings
 clockface
