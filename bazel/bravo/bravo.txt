@@ -11633,7 +11633,6 @@ biunivocal
 barche
 boarspear
 balloter
-belzebuth
 burns
 bevels
 bacauan
@@ -18267,6 +18266,7 @@ batea
 blindstitch
 bunuelo
 berryman
+belzebuth
 basque
 badan
 burweed
