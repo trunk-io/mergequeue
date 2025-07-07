@@ -4541,7 +4541,6 @@ bed
 bienness
 biradiated
 bathroot
-bater
 bool
 blotters
 bedabble
@@ -15057,6 +15056,7 @@ brettice
 betty
 brickwork
 blisterweed
+bater
 bradawl
 breva
 burbs
