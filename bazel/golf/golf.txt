@@ -884,7 +884,6 @@ guerrilla
 gametangia
 grillwork
 gotha
-gametocyst
 gametocyte
 gurrah
 gametogenic
@@ -2220,6 +2219,7 @@ gospeller
 gangrel
 grandpaternal
 glamoury
+gametocyst
 gandered
 gigantoblast
 gunroom
