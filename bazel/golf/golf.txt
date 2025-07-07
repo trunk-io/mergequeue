@@ -2479,7 +2479,6 @@ griever
 gained
 grooveless
 gigmania
-generable
 generalise
 gynandrous
 graciously
@@ -3204,6 +3203,7 @@ gossypol
 gorsedd
 gyral
 galvanical
+generable
 gustatory
 grayback
 gayatri
