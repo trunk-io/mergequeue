@@ -11586,7 +11586,6 @@ choirman
 colonizations
 corelysis
 campuses
-choirmasters
 cornaceous
 charthouse
 classmen
@@ -29744,6 +29743,7 @@ crookedly
 crookedness
 crookery
 crookesite
+choirmasters
 continuous
 crookheaded
 crooking
