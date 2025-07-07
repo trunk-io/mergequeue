@@ -1163,7 +1163,6 @@ grift
 groatsworth
 glutinate
 glyptographer
-gamolepis
 gaslights
 gaon
 gartered
@@ -9681,6 +9680,7 @@ galeopithecus
 gascoyne
 gruellings
 gruesome
+gamolepis
 galeod
 gasp
 galleylike
