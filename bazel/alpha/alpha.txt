@@ -4553,7 +4553,6 @@ anaclasis
 antechapel
 altercate
 aix
-adiaphora
 adlumine
 amatungula
 aftergo
@@ -8832,6 +8831,7 @@ anoesia
 atmogenic
 allobar
 allobaric
+adiaphora
 ammonolyses
 adolescency
 allobroges
