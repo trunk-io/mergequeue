@@ -2882,7 +2882,6 @@ flattops
 fettle
 fetas
 fcomp
-florigen
 fretted
 frontosquamosal
 faunae
@@ -10653,6 +10652,7 @@ florican
 fundamental
 fruitgrower
 foodstuffs
+florigen
 fruitiness
 fieldworker
 flagless
