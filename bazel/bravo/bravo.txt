@@ -5886,6 +5886,7 @@ buckbrush
 baronship
 bellmanship
 bellmouth
+beesting
 briners
 braggingly
 buttstock
@@ -10431,7 +10432,6 @@ blankness
 blanks
 byrewoman
 boltmaking
-beesting
 baritone
 boviform
 bribetaking
