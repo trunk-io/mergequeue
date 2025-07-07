@@ -7967,7 +7967,6 @@ dextral
 dextran
 doruck
 dextranase
-disallowable
 demicylinder
 defunctive
 downsteepy
@@ -15996,6 +15995,7 @@ deindividualization
 dothidella
 desuete
 deviant
+disallowable
 dissonancies
 dotiest
 doting
