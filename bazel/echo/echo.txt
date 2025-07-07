@@ -477,7 +477,6 @@ evector
 ecclesia
 epicarp
 enumerable
-eucommia
 ecclesiarch
 ecclesiarchy
 extoll
@@ -4119,6 +4118,7 @@ extracranial
 energids
 expungement
 eczematous
+eucommia
 embryonated
 externum
 encl
