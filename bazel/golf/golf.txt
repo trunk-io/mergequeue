@@ -1703,7 +1703,6 @@ goldstone
 genotypes
 glike
 gunsmiths
-geogonical
 gastronosus
 gonyaulax
 gnarrs
@@ -6208,6 +6207,7 @@ gentilitian
 gowkedly
 galiot
 galactosan
+geogonical
 goatsbeard
 guestimate
 gavotting
