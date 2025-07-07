@@ -3979,7 +3979,6 @@ filea
 fined
 fineish
 faulty
-fineness
 farmy
 forweend
 formature
@@ -5181,6 +5180,7 @@ flywheels
 fjords
 flatman
 formnail
+fineness
 filtering
 frotteur
 frankfurter
