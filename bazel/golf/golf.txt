@@ -3659,7 +3659,6 @@ gasterosteus
 groundedness
 garnierite
 ghoulishly
-gastrocystis
 gladly
 gyse
 granaries
@@ -8232,6 +8231,7 @@ gorling
 graphostatics
 graphotype
 groggery
+gastrocystis
 grapier
 gasthaus
 gusseting
