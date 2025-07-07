@@ -7710,7 +7710,6 @@ carduaceous
 cerebrometer
 cerebron
 cerebronic
-cerebroparietal
 cerebropedal
 coppy
 cerebropsychosis
@@ -9640,6 +9639,7 @@ chirosophist
 chiotilla
 checkmating
 cautioning
+cerebroparietal
 circumferences
 checkpoint
 checkpointed

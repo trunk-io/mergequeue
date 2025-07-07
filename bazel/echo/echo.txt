@@ -3740,7 +3740,6 @@ edificial
 exceeding
 embruing
 edulcorate
-enamellist
 elegiacs
 embruting
 embubble
@@ -12608,6 +12607,7 @@ earthpeas
 embrawn
 epsomite
 exocline
+enamellist
 etymologist
 escapists
 euphon
