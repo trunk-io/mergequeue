@@ -1024,7 +1024,6 @@ fardel
 flannelmouth
 foxhound
 fusion
-fardelet
 futtah
 fards
 firethorn
@@ -11244,6 +11243,7 @@ funnels
 funny
 fundamentality
 flagellants
+fardelet
 frumaryl
 filibusterer
 fenks
