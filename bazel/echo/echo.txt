@@ -2054,7 +2054,6 @@ electrophorese
 evilly
 eudialyte
 elance
-elanet
 elanus
 enantiopathia
 extravenate
@@ -12221,6 +12220,7 @@ ephemera
 execute
 executed
 exceptor
+elanet
 extravagancies
 epitrichium
 elachistaceae
