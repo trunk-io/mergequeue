@@ -857,6 +857,7 @@ ectocoelic
 ectocommensal
 ectocondylar
 endophytic
+elastic
 ectocondyloid
 efficient
 excrementous
@@ -3462,7 +3463,6 @@ evelight
 emblazoned
 emblazoner
 emblazonments
-elastic
 escandalize
 epirotic
 evergreenery
