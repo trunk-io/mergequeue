@@ -4022,7 +4022,6 @@ fingerer
 fingerers
 feed
 fono
-freehanded
 fingerhook
 finalizes
 fibrinemia
@@ -6671,6 +6670,7 @@ fillip
 foehnlike
 fpsps
 foeless
+freehanded
 faulted
 fulguration
 fulgurating
