@@ -1890,7 +1890,6 @@ bevies
 belay
 browbound
 bishoplike
-biostatics
 bougeron
 bandit
 beshrew
@@ -8018,6 +8017,7 @@ bichloride
 biffin
 bichord
 borazons
+biostatics
 bioxalate
 bichos
 bichromatize
