@@ -17416,7 +17416,6 @@ canonizations
 chickory
 coarsening
 coarsens
-coarser
 coarticulate
 coarticulation
 claylike
@@ -19439,6 +19438,7 @@ colorado
 chorioretinitis
 coloradoite
 connectionism
+coarser
 captainships
 cherubin
 consecrating
