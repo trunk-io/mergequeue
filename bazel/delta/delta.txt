@@ -2729,7 +2729,6 @@ decor
 diplopic
 decorable
 doubtfulness
-decorament
 duetto
 decorate
 decorating
@@ -10360,6 +10359,7 @@ dionysus
 dirigibles
 diastrophy
 dionize
+decorament
 dognapped
 dioon
 diophysite
