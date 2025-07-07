@@ -7702,7 +7702,6 @@ alcoholmeter
 airmass
 anemogram
 alcoholmetric
-acroter
 abaissed
 alcoholometer
 apterygial
@@ -10451,6 +10450,7 @@ appredicate
 amicably
 amphipodous
 antiphonical
+acroter
 amical
 amarettos
 answerableness
