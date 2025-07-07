@@ -1378,7 +1378,6 @@ ganodonta
 glossanthrax
 garnison
 greetingless
-garniture
 gaulsh
 glycosemia
 grecize
@@ -9914,6 +9913,7 @@ glottis
 genevese
 glebes
 gliocyte
+garniture
 greylags
 geoparallelotropic
 grassless
