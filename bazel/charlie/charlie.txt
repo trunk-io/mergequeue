@@ -3470,6 +3470,7 @@ caprizant
 caldron
 caproin
 capromys
+cuit
 camptodrome
 capron
 causeuse
@@ -30730,7 +30731,6 @@ cuisines
 cuisinier
 crine
 cuisse
-cuit
 canonical
 composing
 cuitlateco
