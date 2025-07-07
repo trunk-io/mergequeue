@@ -5488,7 +5488,6 @@ alloclasite
 aftergood
 aftergrief
 aftergrowth
-antipathy
 acton
 acetonylidene
 afterguard
@@ -20690,6 +20689,7 @@ anteroclusion
 atrichosis
 angami
 articularly
+antipathy
 articulars
 articulata
 alcantara
