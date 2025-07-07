@@ -20593,7 +20593,6 @@ curblike
 cosines
 compendency
 compendia
-celtophobe
 compendious
 compendium
 compendiums
@@ -25314,6 +25313,7 @@ cornbind
 checkerboards
 cricking
 crosspieces
+celtophobe
 chromoisomerism
 cornbinks
 coidentity
