@@ -2000,7 +2000,6 @@ dumbed
 dimorphic
 desugars
 decaedron
-decaffeinate
 depicted
 disformity
 decaffeinize
@@ -13535,6 +13534,7 @@ diss
 dissait
 diblastula
 dissatisfaction
+decaffeinate
 dissatisfactions
 dissatisfactory
 dillies
