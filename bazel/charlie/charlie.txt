@@ -6547,7 +6547,6 @@ caveman
 cavemen
 cavern
 cavernal
-cavernlike
 cavernoma
 cavernous
 cavernously
@@ -17991,6 +17990,7 @@ childbirth
 codpitchings
 carwitchet
 cods
+cavernlike
 cephalanthus
 codswallop
 coueism
