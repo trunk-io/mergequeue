@@ -1596,7 +1596,6 @@ ballistician
 brachioganoidei
 ballistocardiograph
 ballflower
-ballistocardiography
 bifurcate
 ballywack
 basalt
@@ -6392,6 +6391,7 @@ benziminazole
 bethinking
 benzine
 blackfly
+ballistocardiography
 bubbliness
 benzoazurine
 benzobis
