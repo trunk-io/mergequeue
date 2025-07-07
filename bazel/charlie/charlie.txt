@@ -5446,7 +5446,6 @@ camaldolite
 contradictoriness
 castilla
 castilleja
-castillo
 castilloa
 chronologize
 chon
@@ -31393,6 +31392,7 @@ curiosa
 curiosi
 curiosities
 cremona
+castillo
 curioso
 curious
 collylyria
