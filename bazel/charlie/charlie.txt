@@ -15892,7 +15892,6 @@ conveniently
 chelaship
 colonized
 clearable
-clearage
 clearance
 clearances
 coteller
@@ -25675,6 +25674,7 @@ cubicly
 correctionalist
 correctioner
 conformities
+clearage
 corrective
 circumscript
 correctively
