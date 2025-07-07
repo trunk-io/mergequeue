@@ -3183,7 +3183,6 @@ blastozooid
 bromelia
 basidia
 basidial
-basidigital
 bouteselle
 bangwaketsi
 barotactic
@@ -12952,6 +12951,7 @@ blasphemously
 bootman
 boots
 bootstrapping
+basidigital
 blouson
 bittersweet
 boottop
