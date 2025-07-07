@@ -4508,7 +4508,6 @@ enforcing
 encephalolith
 exterminator
 encephalomas
-escudo
 encephalomeningocele
 evenglome
 endoerythrocytic
@@ -9401,6 +9400,7 @@ erasing
 eruptional
 establishing
 ellen
+escudo
 eruptive
 estrous
 ectoparasitic
