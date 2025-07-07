@@ -7152,7 +7152,6 @@ desulfurizer
 desulfurizing
 dynamometric
 depictor
-desulfurs
 desulphur
 desulphurate
 delatorian
@@ -12396,6 +12395,7 @@ detracted
 dactyl
 dithyrambically
 dromaeognathous
+desulfurs
 dielectrics
 discharged
 differentiates
