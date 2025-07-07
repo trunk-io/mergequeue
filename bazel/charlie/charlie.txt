@@ -7202,6 +7202,7 @@ casziel
 canton
 caliculus
 centimes
+climatological
 centimetre
 cashmerette
 centimetres
@@ -16254,7 +16255,6 @@ climatius
 climatize
 climatographical
 climatology
-climatological
 conductitious
 crenulated
 climatologically

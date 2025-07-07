@@ -2785,6 +2785,7 @@ fyrd
 fightings
 forelimbs
 fyce
+firearms
 fezziwig
 folklore
 faunas
@@ -7744,7 +7745,6 @@ foremade
 fauvist
 facer
 fanfaronade
-firearms
 foremast
 fritters
 franciscanism
