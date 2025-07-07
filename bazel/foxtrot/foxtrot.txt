@@ -2080,6 +2080,7 @@ fourpounder
 ferngrower
 frontspiece
 feinter
+fossulate
 feudary
 fundi
 facedown
@@ -8239,7 +8240,6 @@ footwork
 forgather
 fossulet
 falsifications
-fossulate
 foresweat
 fabraea
 finickiness
