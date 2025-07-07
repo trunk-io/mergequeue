@@ -100,7 +100,6 @@ ephydridae
 epithelioma
 enumerate
 enchasten
-earpick
 earpiece
 enchisel
 enmarble
@@ -4614,6 +4613,7 @@ exencephalus
 electorally
 exquisitiveness
 economist
+earpick
 efficaciously
 entapophysis
 externals
