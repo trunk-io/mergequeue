@@ -13843,7 +13843,6 @@ bowerbird
 briquet
 bullgine
 binominal
-bidential
 brewing
 bedplates
 bowerlet
@@ -17901,6 +17900,7 @@ biassed
 busheled
 bourse
 bookman
+bidential
 beauship
 bivium
 bushelers
