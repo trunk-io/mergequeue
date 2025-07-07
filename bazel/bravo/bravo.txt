@@ -9192,7 +9192,6 @@ biotypic
 biotypology
 biotites
 bagasse
-bolometric
 bromcamphor
 bruja
 biotome
@@ -12002,6 +12001,7 @@ bogued
 bogus
 bohairic
 baume
+bolometric
 bickern
 bottled
 bohemian
