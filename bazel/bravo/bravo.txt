@@ -2674,6 +2674,7 @@ barmcloth
 brither
 birdcage
 becoward
+benevolences
 bascules
 bismuths
 balmlike
@@ -5839,7 +5840,6 @@ billa
 billowiness
 bellyaching
 bellibone
-benevolences
 bracts
 bemata
 bellybutton
