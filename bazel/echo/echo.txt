@@ -2664,7 +2664,6 @@ excursed
 electrotaxis
 electrotechnic
 epicalyx
-electrotechnician
 exports
 enfant
 extendibility
@@ -13245,6 +13244,7 @@ enepidermic
 exhumer
 endemical
 engram
+electrotechnician
 explement
 envine
 explicability
