@@ -3503,7 +3503,6 @@ cons
 capsular
 conceitedness
 capsulation
-ceride
 collegatary
 chainomatic
 chawbone
@@ -28763,6 +28762,7 @@ crept
 canters
 circaetus
 compendiary
+ceride
 crepuscular
 cavitate
 cornutine
