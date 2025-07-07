@@ -25262,7 +25262,6 @@ corium
 chiasmal
 chirurgic
 contradistinctively
-cytomitome
 coryza
 cork
 corkage
@@ -30504,6 +30503,7 @@ correctives
 cystomata
 cubelium
 carsten
+cytomitome
 cubera
 cure
 cubers
