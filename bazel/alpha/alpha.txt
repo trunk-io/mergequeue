@@ -3295,7 +3295,6 @@ adamantean
 anisodactylous
 antipolyneuritic
 adamantinoma
-adamantness
 adamantoblast
 adamas
 archery
@@ -8013,6 +8012,7 @@ alexandrine
 alexandrite
 accadian
 altruistically
+adamantness
 alexia
 alexias
 arenicole

@@ -3087,7 +3087,6 @@ caodaism
 caodaist
 caoine
 caon
-chlorocruorin
 caoutchin
 caoutchoucin
 cap
@@ -11296,6 +11295,7 @@ caperwort
 chilopodous
 chloranemia
 couchy
+chlorocruorin
 chloranemic
 chloranhydride
 chloranil
