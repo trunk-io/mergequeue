@@ -3882,7 +3882,6 @@ enalid
 examinability
 epiglottis
 ethicists
-emissory
 endured
 emitting
 entamebas
@@ -11948,6 +11947,7 @@ endemic
 excircle
 endotheliolysin
 epicedial
+emissory
 esmeraldan
 epanagoge
 eructating
