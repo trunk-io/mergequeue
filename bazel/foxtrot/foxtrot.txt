@@ -7840,6 +7840,7 @@ fractionisation
 favorite
 fligged
 focusing
+forepayment
 fatiguable
 florences
 fellen
@@ -11228,7 +11229,6 @@ forevision
 fayence
 factable
 fatherkin
-forepayment
 funkiness
 frontispieces
 frigorify
