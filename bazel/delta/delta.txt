@@ -4326,6 +4326,7 @@ delved
 dicacodyl
 dermatopathology
 dysarthria
+drawl
 dissemble
 delver
 documentalist
@@ -11436,7 +11437,6 @@ decussis
 depicter
 dispress
 defrays
-drawl
 disciplinability
 disciplinable
 dishfuls
