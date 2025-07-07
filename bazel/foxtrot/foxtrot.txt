@@ -3369,7 +3369,6 @@ factitious
 flirtationless
 framed
 fideicommissa
-fideicommissaries
 fungus
 flirtling
 finesser
@@ -6910,6 +6909,7 @@ folklike
 feasible
 folklores
 fp
+fideicommissaries
 falsetto
 floatages
 fifes
