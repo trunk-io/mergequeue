@@ -7921,7 +7921,6 @@ alembicated
 antetype
 alembroth
 alemite
-alemmal
 alen
 alkaloidal
 alenge
@@ -10439,6 +10438,7 @@ aegle
 actinometer
 antireactive
 achimenes
+alemmal
 aponogetonaceous
 amianthus
 aisles
