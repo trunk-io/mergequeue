@@ -2676,7 +2676,6 @@ geniture
 grenades
 gasan
 gumshoes
-geodesists
 gristmiller
 gliadins
 guillotine
@@ -4252,6 +4251,7 @@ gliadin
 gusto
 garnishing
 guncotton
+geodesists
 gantang
 gruelled
 ghalva
