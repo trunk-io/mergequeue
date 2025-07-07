@@ -5124,7 +5124,6 @@ dravya
 dipsomania
 dottle
 dafla
-dentals
 dendrocoelan
 dendrocoele
 dendrocolaptidae
@@ -9266,6 +9265,7 @@ dieldrin
 derelict
 decahedrodra
 dieldrins
+dentals
 dyeleaves
 dielectric
 dismerit
