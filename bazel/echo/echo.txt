@@ -3592,7 +3592,6 @@ equivalents
 enchainement
 eyeliner
 embraced
-embracement
 erythraean
 embracer
 earspool
@@ -6819,6 +6818,7 @@ engluts
 excalate
 enjoys
 ebenezer
+embracement
 entireness
 ethologic
 evading
