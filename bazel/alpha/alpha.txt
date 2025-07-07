@@ -10759,7 +10759,6 @@ ammelide
 apothecary
 ammer
 avidness
-adderbolt
 adductor
 ammeter
 ammeters
@@ -22402,6 +22401,7 @@ astrophotometer
 astroscopy
 autocratorical
 astroscopus
+adderbolt
 astrospectral
 acrasiaceae
 adversion
