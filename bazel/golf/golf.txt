@@ -2284,7 +2284,6 @@ galvanography
 graviton
 gravamina
 grapey
-gelatinizer
 gradates
 giornatate
 gelatinoid
@@ -6826,6 +6825,7 @@ garnets
 gobonee
 gnomonic
 gloryingly
+gelatinizer
 gypsied
 glauconite
 granulomas
