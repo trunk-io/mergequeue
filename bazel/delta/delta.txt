@@ -5486,6 +5486,7 @@ deregister
 disenablement
 deorsum
 deorsumversion
+destined
 deossification
 deota
 dissipates
@@ -6820,7 +6821,6 @@ dunks
 deskman
 desks
 dragade
-destined
 deslime
 dissoconch
 desmachyme
