@@ -9668,7 +9668,6 @@ cuissen
 checksum
 construct
 checksummed
-checksumming
 castro
 chromogenous
 checkups
@@ -16874,6 +16873,7 @@ cloured
 cotyliform
 cuckoldom
 clouted
+checksumming
 clouter
 clouterly
 chooseable
