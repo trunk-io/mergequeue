@@ -1869,6 +1869,7 @@ gamelote
 germaniums
 gliss
 groundable
+gunslinger
 gowd
 guan
 grails
@@ -8780,7 +8781,6 @@ gadid
 googly
 grandchildren
 gelatinochloride
-gunslinger
 gregarian
 garbles
 gayway
