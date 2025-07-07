@@ -5708,6 +5708,7 @@ damayanti
 disrobe
 dentelliere
 deplaning
+discommendation
 dawdled
 drumler
 deplant
@@ -11584,7 +11585,6 @@ dirham
 dani
 defter
 dovewood
-discommendation
 dheneb
 dedanim
 deaner
