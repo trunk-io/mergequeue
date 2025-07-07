@@ -4072,7 +4072,6 @@ ethological
 ecdysis
 energetistic
 excoct
-exogenous
 eellike
 epaulette
 engagement
@@ -5933,6 +5932,7 @@ excursive
 ectoproct
 exclave
 eftest
+exogenous
 enheart
 enhearten
 endobronchially
