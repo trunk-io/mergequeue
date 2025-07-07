@@ -71,7 +71,6 @@ faceharden
 flagships
 fighters
 flecken
-facellite
 felonious
 furthers
 flysch
@@ -304,6 +303,7 @@ fledges
 fragmentisation
 froren
 flanks
+facellite
 felid
 fraenums
 foreboder
