@@ -16538,7 +16538,6 @@ analyzers
 aortomalaxis
 anthropogeographer
 alkaptonuria
-antichoromanic
 aortoptosia
 aortorrhaphy
 aotearoa
@@ -22903,6 +22902,7 @@ atriums
 analepsy
 aegises
 anchorites
+antichoromanic
 antispace
 aeolism
 atroceruleous
