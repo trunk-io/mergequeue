@@ -10263,7 +10263,6 @@ blippers
 bellweather
 bulldogs
 biborate
-boracic
 blacksmithing
 biochemy
 beastdom
@@ -15197,6 +15196,7 @@ bucketing
 balneal
 bugloss
 benchers
+boracic
 bridale
 basehearted
 bridally
