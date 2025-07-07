@@ -7459,7 +7459,6 @@ cephaloclast
 cephalocone
 cephalodia
 cephalodymus
-cephalodiscid
 cephalodiscida
 cephalodiscus
 curtains
@@ -25271,6 +25270,7 @@ corkages
 corkboard
 conventionalized
 corker
+cephalodiscid
 corkers
 cense
 corkier
