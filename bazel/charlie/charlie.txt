@@ -1891,6 +1891,7 @@ cambric
 cartonnage
 cambricleaf
 colobus
+circumradiuses
 curs
 countercampaign
 cambridge
@@ -14441,7 +14442,6 @@ condite
 circumquaque
 circumradii
 circumradius
-circumradiuses
 charitable
 claver
 conferring
