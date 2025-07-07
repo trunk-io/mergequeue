@@ -2344,7 +2344,6 @@ filicales
 flotation
 foreface
 flagelliferous
-fenestrae
 foreword
 fluoresced
 fenestrated
@@ -7228,6 +7227,7 @@ fiver
 foreground
 footpad
 favellidia
+fenestrae
 feodary
 flaxboard
 fungiform
