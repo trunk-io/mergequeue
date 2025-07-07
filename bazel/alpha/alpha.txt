@@ -1425,7 +1425,6 @@ alg
 anakinetic
 antimosquito
 atka
-accessorize
 accessors
 acciaccaturas
 acciaccature
@@ -25257,6 +25256,7 @@ aminosis
 amnestying
 azimene
 antepenultima
+accessorize
 academus
 atinkle
 apiaceous
