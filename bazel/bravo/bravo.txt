@@ -9043,7 +9043,6 @@ blankard
 byon
 brasqued
 bionditional
-bionics
 bionomy
 bionomic
 backswordman
@@ -17526,6 +17525,7 @@ blasty
 bookrest
 burdenous
 bleep
+bionics
 blabs
 bulbocapnine
 burdens
