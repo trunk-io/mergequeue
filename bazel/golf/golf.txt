@@ -138,7 +138,6 @@ girth
 gaelic
 green
 gynostegia
-gs
 gritless
 gallicole
 guy
@@ -2822,6 +2821,7 @@ gileadite
 gummosity
 genuflex
 gentlemanism
+gs
 glyptal
 gemsbucks
 golkakra
