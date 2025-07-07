@@ -1854,6 +1854,7 @@ acerval
 acervate
 acervation
 acervative
+algorithm
 acervulus
 anacoluthia
 atropins
@@ -23678,7 +23679,6 @@ aurorally
 aurore
 aurorian
 aurorium
-algorithm
 antifoggant
 altared
 ashkenazic
