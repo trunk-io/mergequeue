@@ -5816,7 +5816,6 @@ forebear
 fossiliferous
 flitterbat
 fructicultural
-fumeroot
 fallage
 fastigium
 fellowess
@@ -10856,6 +10855,7 @@ fele
 fossors
 flavor
 fon
+fumeroot
 frontalis
 fustianist
 filagreing
