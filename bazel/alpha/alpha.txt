@@ -13354,6 +13354,7 @@ ankerites
 ankylenteron
 ankylocheilia
 ankylodactylia
+authenticated
 antiinflammatory
 ankylodontia
 ankyloglossia
@@ -23849,7 +23850,6 @@ arthritics
 asiphonate
 authentic
 authentically
-authenticated
 authenticates
 authentication
 apathy
