@@ -4862,7 +4862,6 @@ granatite
 goldurns
 goldhammer
 globeholder
-goatly
 gastroenteric
 gladship
 gastrosplenic
@@ -7030,6 +7029,7 @@ goyle
 gynandrarchy
 gunnage
 gliomatous
+goatly
 guelphic
 glaces
 gestalter
