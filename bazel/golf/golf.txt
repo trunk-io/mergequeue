@@ -1842,7 +1842,6 @@ geodic
 galacturia
 gardenwise
 grabber
-gatherers
 goldbug
 galumph
 gooma
@@ -3191,6 +3190,7 @@ grainedness
 goldminer
 gastornis
 geometrising
+gatherers
 goetical
 gere
 gereagle
