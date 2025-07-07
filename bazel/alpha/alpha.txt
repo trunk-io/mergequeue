@@ -4515,6 +4515,7 @@ amulets
 assuagable
 allobars
 aromatizer
+acoenaesthesia
 advertizes
 advice
 advices
@@ -22514,7 +22515,6 @@ abacist
 atelomyelia
 antisnob
 ateloprosopia
-acoenaesthesia
 abhorrency
 adoptative
 atelostomia
