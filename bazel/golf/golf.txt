@@ -6329,6 +6329,7 @@ genderless
 gymnolaemata
 gloriosa
 graft
+galeproof
 gippo
 gambelli
 ganoblast
@@ -8069,7 +8070,6 @@ genically
 galactic
 grimed
 gibsons
-galeproof
 gastrolavage
 gnawing
 gudebrother
