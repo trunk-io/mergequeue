@@ -9204,7 +9204,6 @@ dido
 didodecahedron
 didoes
 didonia
-dihexahedron
 daubry
 decapods
 disprized
@@ -15469,6 +15468,7 @@ domini
 decalomania
 demurer
 denis
+dihexahedron
 dishwares
 demideify
 dijudication
