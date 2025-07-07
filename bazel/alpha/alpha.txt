@@ -3692,7 +3692,6 @@ adhaka
 adhara
 adharma
 ashstone
-adhere
 atticists
 adhered
 apophantic
@@ -15466,6 +15465,7 @@ alone
 antimetropia
 antimetropic
 antimycotic
+adhere
 antimicrobic
 alphatoluic
 antimilitary
