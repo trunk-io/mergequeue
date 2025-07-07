@@ -1677,6 +1677,7 @@ esthiomenus
 eases
 elboic
 evectional
+epenthetic
 enlivening
 electromotiv
 eidos
@@ -11464,7 +11465,6 @@ entheate
 embryotic
 expdt
 evetide
-epenthetic
 extirpating
 encipherment
 elucidation
