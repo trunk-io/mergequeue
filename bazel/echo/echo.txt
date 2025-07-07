@@ -5920,7 +5920,6 @@ enhancements
 enfief
 enhancing
 enharbour
-electrometallurgy
 exocytosis
 endsweep
 enharden
@@ -14006,6 +14005,7 @@ enfigure
 extrapolatory
 entemple
 extraposition
+electrometallurgy
 electrolytic
 extraprofessional
 extrapunitive
