@@ -3037,6 +3037,7 @@ cellocut
 cantoning
 cantonize
 colectomy
+caplets
 countergager
 cantoral
 cantoria
@@ -12644,7 +12645,6 @@ ciders
 cajeputol
 chromoxylograph
 chron
-caplets
 cacothes
 concurrences
 chronaxie
