@@ -12454,7 +12454,6 @@ dishelms
 disher
 damas
 disherison
-durability
 disherited
 divet
 defibrillator
@@ -15565,6 +15564,7 @@ despicability
 dendral
 dobbie
 dualists
+durability
 desensitize
 diplococcocci
 dongola
