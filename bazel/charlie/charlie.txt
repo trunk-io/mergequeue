@@ -13484,7 +13484,6 @@ charadriidae
 croshabell
 cyclostomatous
 cyclostomes
-cyclostomi
 cyclostomidae
 cedent
 cyclothymiac
@@ -19217,6 +19216,7 @@ cowfish
 compartmentalizes
 collocutor
 cogitations
+cyclostomi
 collodion
 crushproof
 collodionization
