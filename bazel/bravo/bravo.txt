@@ -11930,7 +11930,6 @@ boffs
 boozify
 bankmen
 bilio
-bellowers
 bewrought
 baggily
 bogach
@@ -15326,6 +15325,7 @@ brigandish
 bandhu
 brigantia
 brigantines
+bellowers
 brigatry
 brigetty
 beliquoring
