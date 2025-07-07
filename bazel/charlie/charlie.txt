@@ -7637,7 +7637,6 @@ cercopid
 continent
 cercopithecid
 contracting
-cercopithecidae
 catodon
 cercopithecus
 cimbri
@@ -30368,6 +30367,7 @@ charted
 cresotinic
 crustalogy
 crustalogical
+cercopithecidae
 crustalogist
 cyrenaic
 crustated
