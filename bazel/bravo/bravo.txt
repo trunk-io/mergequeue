@@ -11427,7 +11427,6 @@ boxthorn
 bagplant
 bluey
 bathhouse
-birri
 bluejacket
 bluejacks
 blueline
@@ -11939,6 +11938,7 @@ bushelwoman
 barographs
 betutor
 bimeby
+birri
 bourns
 botonn
 bogart
