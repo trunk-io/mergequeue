@@ -7427,7 +7427,6 @@ cephaletron
 cephalhematoma
 coracovertebral
 cephalic
-cephalically
 cephalina
 cephaline
 cephalins
@@ -20773,6 +20772,7 @@ cerebropontile
 complexness
 complexometry
 chandry
+cephalically
 cacalia
 complexus
 comply
