@@ -2083,7 +2083,6 @@ bcf
 blesses
 bannerols
 bannisters
-birthmarks
 bioflavinoid
 brooklets
 bannock
@@ -7449,6 +7448,7 @@ betterment
 bepewed
 betterments
 bulbocavernous
+birthmarks
 bivouacks
 brabblingly
 bushelled
