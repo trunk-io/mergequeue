@@ -17472,6 +17472,7 @@ coattending
 coattestation
 conductivities
 cineangiocardiographic
+countercathexis
 coattestator
 coattested
 coattesting
@@ -26744,7 +26745,6 @@ counterbrand
 curted
 confutable
 counterbuff
-countercathexis
 countercause
 counterchanged
 countercharm
