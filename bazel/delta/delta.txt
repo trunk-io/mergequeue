@@ -12458,6 +12458,7 @@ durability
 disherited
 divet
 defibrillator
+dopping
 deamidize
 deplantation
 drybrush
@@ -15729,7 +15730,6 @@ dopperbird
 demot
 disespouse
 deflorescence
-dopping
 doppio
 dactyloscopy
 dorab
