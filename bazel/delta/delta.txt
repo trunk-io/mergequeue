@@ -5591,7 +5591,6 @@ depeinct
 depend
 dependabilities
 donatistic
-dibber
 dustfall
 disedification
 draftable
@@ -17233,6 +17232,7 @@ drivenness
 drivepipe
 driver
 despising
+dibber
 drivers
 diol
 drivership
