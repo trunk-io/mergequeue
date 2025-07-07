@@ -4489,7 +4489,6 @@ becrowded
 burstwort
 billeting
 bacchanalias
-bidi
 bumptiously
 brokes
 buffering
@@ -9227,6 +9226,7 @@ bypassed
 bypaths
 birchism
 buffin
+bidi
 biped
 bipedal
 bogo
