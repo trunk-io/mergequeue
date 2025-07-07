@@ -8660,6 +8660,7 @@ diaglyph
 demicadence
 disimprove
 diarist
+distanceless
 dibbuk
 denatured
 diarrhea
@@ -13862,7 +13863,6 @@ diatomic
 demast
 dryers
 doable
-distanceless
 dressership
 distancy
 dissimilar
