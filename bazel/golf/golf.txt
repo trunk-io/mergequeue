@@ -3336,7 +3336,6 @@ gothicist
 gerontic
 generalships
 gondolier
-gnatling
 gorkun
 galbe
 glaciable
@@ -9185,6 +9184,7 @@ gangling
 greenyard
 grana
 globalist
+gnatling
 gripping
 gelandesprung
 glycocin
