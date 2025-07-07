@@ -2891,6 +2891,7 @@ eurydice
 elf
 elfenfolk
 epinard
+enlist
 ecodeme
 elfinwood
 exfoliating
@@ -11967,7 +11968,6 @@ emirs
 ensilages
 endurance
 electrocauteries
-enlist
 exactress
 excitant
 escarped
