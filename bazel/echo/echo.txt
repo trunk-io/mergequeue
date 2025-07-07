@@ -170,7 +170,6 @@ expressive
 elses
 enticed
 echinostome
-echidna
 earthmaker
 engelmanni
 ejidal
@@ -6308,6 +6307,7 @@ elemong
 executors
 enomotarch
 epicyte
+echidna
 eyre
 epigaster
 ethanes
