@@ -9985,7 +9985,6 @@ cruiser
 coaxer
 chemoreception
 chemoreceptive
-chemoreceptivity
 chapelgoer
 chemoreceptor
 cryptographers
@@ -30567,6 +30566,7 @@ cuboids
 chondropharyngeal
 colloquium
 cubomedusan
+chemoreceptivity
 cubometatarsal
 cubonavicular
 cubti
