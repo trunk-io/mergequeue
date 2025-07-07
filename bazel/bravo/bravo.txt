@@ -6803,6 +6803,7 @@ buhls
 barytosulphate
 badian
 bookery
+bop
 bersagliere
 berseem
 berserker
@@ -16097,7 +16098,6 @@ broses
 blueness
 bitesheep
 bullfight
-bop
 brosot
 bradyteleokinesis
 booksy
