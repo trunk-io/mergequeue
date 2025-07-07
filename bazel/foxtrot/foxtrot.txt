@@ -7520,6 +7520,7 @@ frictionlessness
 fest
 forebodes
 forebody
+forespent
 flaser
 forsakers
 flentes
@@ -9478,7 +9479,6 @@ fulcrate
 flounderingly
 fratricelli
 fratricide
-forespent
 furculum
 fastwalk
 fidele
