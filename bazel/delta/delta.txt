@@ -2407,6 +2407,7 @@ doodads
 dispelled
 donny
 dripstick
+didactician
 disaffects
 decima
 decimalism
@@ -12226,7 +12227,6 @@ draughter
 defencelessness
 dumbfound
 disfigurer
-didactician
 diasper
 depositure
 degausser
