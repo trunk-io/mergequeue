@@ -7371,7 +7371,6 @@ centupling
 centure
 countertenor
 carbonados
-century
 coda
 centurial
 concerto
@@ -27007,6 +27006,7 @@ counterplan
 carassow
 counterplead
 corrido
+century
 coriandrum
 counterplotter
 curatage

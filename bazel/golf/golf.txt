@@ -1436,7 +1436,6 @@ gadaba
 guidebookish
 geophagous
 glossagra
-grossart
 generical
 grillages
 glamouring
@@ -6517,6 +6516,7 @@ gesten
 grew
 gpss
 glutting
+grossart
 greyskin
 gentianales
 glandarious
