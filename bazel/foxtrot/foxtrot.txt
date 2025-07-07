@@ -1507,7 +1507,6 @@ freewheel
 fatuism
 filasse
 futhork
-fatuitous
 foothil
 fanwe
 familiarise
@@ -7726,6 +7725,7 @@ falconlike
 fretty
 forsaken
 flamelike
+fatuitous
 formalizations
 fiddlerfishes
 fireshine
