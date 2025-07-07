@@ -13939,7 +13939,6 @@ barylite
 brooky
 boxcars
 bishopful
-barwing
 billete
 bostonese
 bowsie
@@ -16324,6 +16323,7 @@ bioelectronics
 brume
 borrowed
 boryl
+barwing
 branchipus
 biosynthetic
 brushers
