@@ -4948,6 +4948,7 @@ chaetodontid
 corallinaceae
 carageen
 carrs
+cystenchyma
 carses
 cogitable
 carsick
@@ -13560,7 +13561,6 @@ cig
 cigaret
 coolants
 cigarette
-cystenchyma
 cigarettes
 cigarfish
 counterconversion
