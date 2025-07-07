@@ -7239,6 +7239,7 @@ bestirs
 bestock
 bestow
 bestowment
+bumpiness
 burgee
 briary
 breaching
@@ -13551,7 +13552,6 @@ brontesque
 barristers
 bratina
 bouffe
-bumpiness
 bouffon
 bremeness
 bopster
