@@ -1145,6 +1145,7 @@ gantleted
 gripier
 genteeler
 grouses
+gdinfo
 genin
 genio
 generalness
@@ -2108,7 +2109,6 @@ gastropulmonary
 gaudies
 gharris
 gerontine
-gdinfo
 guatuso
 gnomide
 gds
