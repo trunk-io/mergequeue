@@ -2488,6 +2488,7 @@ bandelet
 barfish
 bargainable
 buckraming
+beteela
 billbugs
 bucchero
 bargainer
@@ -3909,7 +3910,6 @@ ballotage
 bd
 boracium
 buttonholes
-beteela
 bde
 butternose
 bdellium
