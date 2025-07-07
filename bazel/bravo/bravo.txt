@@ -2498,7 +2498,6 @@ bedark
 brachyoura
 barge
 bergere
-bargelike
 bravura
 bargellos
 begroans
@@ -14985,6 +14984,7 @@ breeder
 breeders
 breedy
 brunneous
+bargelike
 bengalic
 bepillared
 brachyceric
