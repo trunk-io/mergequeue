@@ -8729,6 +8729,7 @@ anapterygote
 aller
 allergenic
 abouchement
+autoagglutinating
 allergenicity
 arrhythmous
 atheology
@@ -23898,7 +23899,6 @@ autoabstract
 amphibiousness
 acrology
 antiscepticism
-autoagglutinating
 autoagglutinin
 autoalarm
 autoalkylation
