@@ -5164,7 +5164,6 @@ forerunnings
 fingent
 flashover
 frivolous
-fawns
 fructure
 flasker
 foretooth
@@ -8517,6 +8516,7 @@ fluid
 facsimiling
 fetlock
 formols
+fawns
 fiddledeedee
 formosity
 frondosely
