@@ -1605,7 +1605,6 @@ accounting
 accountment
 audioemission
 accounts
-accouplement
 accouter
 accoutered
 aneling
@@ -4844,6 +4843,7 @@ aerodyne
 astonisher
 aerodynes
 anthroposophist
+accouplement
 apitpat
 auslaut
 airphobia
