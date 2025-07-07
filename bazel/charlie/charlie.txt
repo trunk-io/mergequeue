@@ -16801,6 +16801,7 @@ cirrus
 clothesline
 clotheslines
 clothesman
+coupelet
 crypts
 cheerful
 carbamoyl
@@ -19009,7 +19010,6 @@ collaret
 collarette
 clypeaster
 carpuspi
-coupelet
 cochal
 conjugate
 coadaptation
