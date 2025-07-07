@@ -5927,6 +5927,7 @@ caterbrawl
 catercap
 catercorner
 camsteary
+confessors
 catercornered
 catercornerways
 craner
@@ -27194,7 +27195,6 @@ clattertrap
 corbelling
 catholicus
 caprine
-confessors
 collodionize
 countertruth
 chelas
