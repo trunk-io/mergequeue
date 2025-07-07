@@ -5298,6 +5298,7 @@ gutturalism
 gingals
 glaived
 gourds
+gid
 gonidia
 glomerulate
 gastrulae
@@ -6257,7 +6258,6 @@ gelatinised
 georama
 gobbler
 governessy
-gid
 gobbles
 glaucescent
 ginzoes
