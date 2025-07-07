@@ -3568,7 +3568,6 @@ forebowels
 formulism
 fictionalizes
 farness
-foreign
 fermentology
 fraternity
 fleches
@@ -6944,6 +6943,7 @@ formalisation
 forbode
 fastball
 foxlike
+foreign
 farthingales
 formication
 formalistically
