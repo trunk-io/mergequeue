@@ -3960,7 +3960,6 @@ footslogged
 findable
 fruz
 foreshop
-findhorn
 filarees
 fine
 fineableness
@@ -10897,6 +10896,7 @@ fripperies
 flirtations
 finagler
 feute
+findhorn
 foremastmen
 fulgoroidea
 furzier
