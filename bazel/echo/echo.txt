@@ -4301,7 +4301,6 @@ exclaustration
 enamelist
 enamelless
 eluder
-enamels
 emit
 edibles
 enami
@@ -10054,6 +10053,7 @@ endamnify
 ensures
 etamins
 etang
+enamels
 endothelioma
 enamdar
 etape
