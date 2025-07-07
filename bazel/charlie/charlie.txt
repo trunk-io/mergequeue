@@ -990,7 +990,6 @@ concisest
 claretian
 capuche
 calanque
-calantas
 chromocenter
 chondroid
 calapite
@@ -25655,6 +25654,7 @@ corpuscularian
 colombian
 confinedness
 completed
+calantas
 corpuscularity
 corpuscule
 corpusculous
