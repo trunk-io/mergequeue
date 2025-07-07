@@ -7927,7 +7927,6 @@ cervicoauricular
 chippable
 cervicobasilar
 cervicobregmatic
-cobitis
 cervicobuccal
 cervicodynia
 cervicofacial
@@ -22870,6 +22869,7 @@ clype
 conservationists
 condensable
 conservations
+cobitis
 chondromas
 conservatively
 checkbit
