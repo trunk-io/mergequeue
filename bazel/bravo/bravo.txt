@@ -5424,6 +5424,7 @@ biolite
 barbacoa
 bigmitt
 behallow
+belongings
 betwit
 behammer
 bacula
@@ -10250,7 +10251,6 @@ bebump
 bilged
 broomwort
 blackpatch
-belongings
 beavering
 batara
 brominism
