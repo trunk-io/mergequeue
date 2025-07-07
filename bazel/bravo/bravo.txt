@@ -4370,7 +4370,6 @@ bellhops
 burbark
 blackhearted
 becircled
-botfly
 beck
 banters
 bowman
@@ -11944,6 +11943,7 @@ botonn
 bogart
 backboneless
 bisaxillary
+botfly
 bogatyr
 bogbeans
 bordels
