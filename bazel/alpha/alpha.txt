@@ -2592,7 +2592,6 @@ acquiesced
 acanthopterous
 alginates
 acquiescement
-acquiescence
 acquiescency
 abacli
 ansate
@@ -22778,6 +22777,7 @@ adjurers
 atocha
 atoke
 assemblages
+acquiescence
 alphenic
 agamid
 anyhow
