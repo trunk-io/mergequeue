@@ -6003,7 +6003,6 @@ cathect
 cathected
 cathection
 cathects
-cathedra
 cathedraled
 cathedralesque
 cavorter
@@ -19273,6 +19272,7 @@ classifier
 collum
 corbed
 cutover
+cathedra
 collun
 couthe
 collunaria
