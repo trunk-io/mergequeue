@@ -4416,7 +4416,6 @@ electrophototherapy
 electrophysiologic
 excentrical
 endenizen
-extispices
 enthymeme
 e
 espacement
@@ -12603,6 +12602,7 @@ engaged
 epistylar
 enterocolitis
 eaglestone
+extispices
 escheat
 earthpeas
 embrawn
