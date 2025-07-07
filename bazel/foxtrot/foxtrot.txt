@@ -443,6 +443,7 @@ fauchards
 fishgig
 fur
 frockmaker
+fructuary
 fairship
 feal
 flitting
@@ -10116,7 +10117,6 @@ fragor
 facula
 foretopman
 formiate
-fructuary
 footlight
 functionality
 frithles
