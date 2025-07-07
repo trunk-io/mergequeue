@@ -8923,6 +8923,7 @@ diccon
 depolariser
 daimio
 domines
+dogmeat
 dermatitis
 dice
 diceboard
@@ -16349,7 +16350,6 @@ downshifted
 downshore
 downside
 dephlegmatize
-dogmeat
 dibbler
 downsitting
 dragonism
