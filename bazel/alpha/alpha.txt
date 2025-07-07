@@ -795,7 +795,6 @@ abridgement
 abridgements
 abridger
 anapeiratic
-argles
 abridgers
 abridges
 abridging
@@ -20834,6 +20833,7 @@ aryan
 aruspex
 aruspice
 aruspicy
+argles
 arteriography
 arval
 arvejon
