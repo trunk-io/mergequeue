@@ -6852,6 +6852,7 @@ airport
 ady
 airposts
 asst
+askings
 airproofs
 archmurderer
 aistopoda
@@ -13656,7 +13657,6 @@ anoetic
 alluviviums
 anogenital
 anogra
-askings
 anoint
 anointed
 austere
