@@ -14826,6 +14826,7 @@ attern
 arrondi
 alife
 anticyclical
+apass
 apocodeine
 anticyclically
 affrighter
@@ -16599,7 +16600,6 @@ aparthrosis
 animately
 apartmental
 apartness
-apass
 apast
 apatan
 antihierarchically
