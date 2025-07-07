@@ -6928,6 +6928,7 @@ dunamis
 despairfully
 despairing
 desparple
+dialogs
 disturber
 downsinking
 decadation
@@ -12841,7 +12842,6 @@ doubty
 diploes
 dismail
 dismal
-dialogs
 disworkmanship
 dorsomedian
 downhaul
