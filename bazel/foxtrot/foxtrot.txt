@@ -5006,7 +5006,6 @@ flamer
 farmhold
 flamers
 fictionist
-flamethrowers
 flamy
 fan
 facepiece
@@ -8172,6 +8171,7 @@ fellowshiping
 foreview
 foregoes
 foederatus
+flamethrowers
 fingerprinted
 florulent
 fruitfullest
