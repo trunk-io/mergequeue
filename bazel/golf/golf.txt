@@ -3392,7 +3392,6 @@ gessoes
 gerrhosauridae
 gathic
 gila
-gestalt
 gestaltist
 gallicisms
 gynecology
@@ -7310,6 +7309,7 @@ gomarite
 gossypine
 geoponical
 gleamier
+gestalt
 gamotropism
 gestational
 grumps
