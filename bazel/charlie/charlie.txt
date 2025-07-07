@@ -5664,7 +5664,6 @@ cataloguist
 catalonian
 cataloon
 catalos
-catalufa
 catalufas
 catamarcan
 choufleur
@@ -6414,6 +6413,7 @@ counterassurance
 caustical
 caustically
 causticism
+catalufa
 celticism
 causticity
 causticizer
