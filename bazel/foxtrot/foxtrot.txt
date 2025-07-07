@@ -4893,6 +4893,7 @@ finlet
 fatagaga
 factorylike
 festinately
+forsooth
 fructiparous
 feasting
 furnishing
@@ -4982,7 +4983,6 @@ forwards
 fchar
 fluidised
 foining
-forsooth
 fourteens
 flamen
 flamandization
