@@ -2945,6 +2945,7 @@ benedicts
 barricaders
 barricadoes
 brainsick
+blackamoor
 blayk
 bemazed
 boltsmith
@@ -10937,7 +10938,6 @@ brede
 blindweed
 blindworm
 backscratcher
-blackamoor
 beshiver
 bumps
 beetler
