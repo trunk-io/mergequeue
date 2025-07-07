@@ -1864,6 +1864,7 @@ ferninst
 forbesite
 folkmots
 flak
+flavorous
 flaithship
 frustules
 flyspecks
@@ -10820,7 +10821,6 @@ fulfiller
 flambeaux
 fulfillment
 flus
-flavorous
 fulfillments
 foreshadowing
 fulfilment
