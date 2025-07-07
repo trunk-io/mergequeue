@@ -8890,7 +8890,6 @@ chaperno
 custodia
 chaperonage
 chaperone
-chaperonless
 catesbeiana
 cirsium
 chapes
@@ -28318,6 +28317,7 @@ coses
 craunchingly
 cravat
 capmaker
+chaperonless
 cravats
 cravatted
 cravatting
