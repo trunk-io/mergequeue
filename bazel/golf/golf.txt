@@ -8395,6 +8395,7 @@ guestchamber
 gigas
 gustily
 gravelroot
+gateways
 gallstones
 gratiolin
 glaciarium
@@ -9020,7 +9021,6 @@ gaper
 givin
 gilguy
 galoshes
-gateways
 gomasta
 gothlander
 gramophonical
