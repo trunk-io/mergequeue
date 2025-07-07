@@ -1178,6 +1178,7 @@ biasteric
 bake
 brew
 buoys
+bardulph
 brawliest
 breth
 burion
@@ -2419,7 +2420,6 @@ backaching
 biocoenoses
 boobies
 bronteana
-bardulph
 bruiser
 burgouts
 brachyure
