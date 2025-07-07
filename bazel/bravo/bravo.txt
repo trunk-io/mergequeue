@@ -2549,7 +2549,6 @@ backlists
 brained
 burghalpenny
 bloodberry
-bardel
 barylalia
 bactrian
 backtalk
@@ -16739,6 +16738,7 @@ bandar
 barbas
 buddhist
 buddhistic
+bardel
 beheadlined
 behemothic
 bigamously
