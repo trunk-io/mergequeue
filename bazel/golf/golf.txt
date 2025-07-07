@@ -6999,6 +6999,7 @@ gimbaled
 gramash
 gamete
 greenweed
+ghosted
 gossipmonger
 genteelism
 geomantical
@@ -9301,7 +9302,6 @@ grudgingness
 generale
 gaeldom
 goading
-ghosted
 grogshop
 groin
 gigmaness
