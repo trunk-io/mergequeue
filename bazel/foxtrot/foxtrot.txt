@@ -5062,6 +5062,7 @@ fluctuable
 frowsier
 feathers
 faineantise
+forjudges
 flammation
 forepad
 flatbeds
@@ -9854,7 +9855,6 @@ fungo
 fremitus
 friary
 firings
-forjudges
 frogs
 fouler
 fortescue
