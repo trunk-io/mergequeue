@@ -13093,6 +13093,7 @@ backfurrow
 baalath
 bodyguard
 borid
+bg
 bacterioscopist
 bromisation
 bastinaded
@@ -15601,7 +15602,6 @@ batterable
 buffone
 barrenest
 boatel
-bg
 bulkheads
 burred
 belemnid
