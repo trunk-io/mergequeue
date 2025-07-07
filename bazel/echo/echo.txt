@@ -4107,6 +4107,7 @@ epirote
 eiffel
 ensheathed
 every
+elasmobranch
 employments
 endurability
 entombments
@@ -11681,7 +11682,6 @@ exactors
 enterophthisis
 electrophone
 equimomental
-elasmobranch
 extemporization
 ediya
 electromechanics
