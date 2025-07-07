@@ -4556,7 +4556,6 @@ feer
 forheed
 foreigner
 forslake
-foresin
 flooded
 fountainhead
 fructify
@@ -5644,6 +5643,7 @@ facund
 firebolt
 forepassed
 fireboot
+foresin
 fructuose
 flyless
 fuddle
