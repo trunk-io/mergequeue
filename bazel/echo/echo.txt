@@ -475,6 +475,7 @@ eveners
 enanthesis
 evector
 ecclesia
+evulgate
 epicarp
 enumerable
 eucommia
@@ -9527,7 +9528,6 @@ eschrufe
 escobilla
 escopeta
 euphemistical
-evulgate
 emeries
 eliquation
 electronic
