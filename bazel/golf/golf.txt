@@ -3342,6 +3342,7 @@ galbe
 glaciable
 gyroscopic
 gainor
+gobble
 guachamaca
 gymnoceratous
 geosid
@@ -6247,7 +6248,6 @@ genuflexion
 grunting
 gospelly
 gainable
-gobble
 gierfalcon
 gematria
 gobbled
