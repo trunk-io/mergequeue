@@ -22,6 +22,7 @@ gashouse
 geotropic
 gabbro
 gabelleman
+geotropism
 gowf
 gainers
 glycic
@@ -6322,7 +6323,6 @@ gradating
 ginnet
 goethian
 gam
-geotropism
 goety
 gummage
 genderless
