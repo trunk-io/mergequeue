@@ -778,7 +778,6 @@ biometrical
 bethorn
 blackout
 becker
-building
 baedekerian
 baeria
 bliny
@@ -9974,6 +9973,7 @@ brevirostral
 bivalency
 ballottine
 blairmorite
+building
 bivalents
 biognosis
 bivalvia
