@@ -3771,6 +3771,7 @@ geodaesia
 gorger
 gola
 girosol
+glyptodon
 glarier
 gonapophysal
 gearwheels
@@ -5422,7 +5423,6 @@ galvanosurgery
 guaranteers
 glossoplasty
 glauconiidae
-glyptodon
 goi
 glyptodontoid
 gracelike
