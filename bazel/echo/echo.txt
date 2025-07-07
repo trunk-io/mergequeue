@@ -1319,6 +1319,7 @@ exumbrellar
 effect
 endocardiac
 exopeptidase
+evade
 equalled
 effective
 euryphagous
@@ -5826,7 +5827,6 @@ explanation
 engouement
 engoument
 entification
-evade
 emulatory
 efficace
 etheling
