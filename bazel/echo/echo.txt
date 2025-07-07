@@ -8001,7 +8001,6 @@ equisetic
 evaniidae
 epimerized
 epimeron
-epimers
 epimysia
 enflesh
 eteocreton
@@ -13737,6 +13736,7 @@ ententophil
 etaballi
 ectoenzym
 enzyme
+epimers
 embrocate
 extinguished
 extinguisher
