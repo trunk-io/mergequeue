@@ -7075,7 +7075,6 @@ besot
 baronet
 boodh
 boysenberry
-boothian
 bridehouse
 besottedly
 boweled
@@ -16792,6 +16791,7 @@ buffable
 buffalo
 buffaloback
 buffalofish
+boothian
 buffaloing
 bulltoad
 biflagellate
