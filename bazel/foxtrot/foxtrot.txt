@@ -1727,7 +1727,6 @@ fimbles
 folksong
 flemer
 forgrow
-fearedly
 fadeaways
 forces
 frisker
@@ -6086,6 +6085,7 @@ floriscope
 fetterbush
 firehouses
 faba
+fearedly
 floristically
 feringhee
 ferrivorous
