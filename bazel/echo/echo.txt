@@ -2726,7 +2726,6 @@ ebons
 equipotent
 electees
 envoi
-eleemosynary
 etymology
 emetic
 ephydra
@@ -5487,6 +5486,7 @@ exospheres
 eigenstate
 entitledness
 energical
+eleemosynary
 energid
 epitendineum
 evertile
