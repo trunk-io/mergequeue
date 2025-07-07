@@ -6014,7 +6014,6 @@ griffinesque
 gulllike
 greking
 graywacke
-gonoblastidium
 groomlet
 graine
 guaiol
@@ -7321,6 +7320,7 @@ glisky
 gardenful
 gossipped
 glochidial
+gonoblastidium
 gossips
 gestor
 gilthead
