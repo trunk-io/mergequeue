@@ -2251,6 +2251,7 @@ epitomist
 electret
 electrets
 esophagogastrostomy
+ellipsometer
 exploitive
 exode
 electrically
@@ -9128,7 +9129,6 @@ electrotherapeutics
 entergogenic
 extrality
 extravascular
-ellipsometer
 erythrocytoschisis
 erythrocytosis
 erythrodermia
