@@ -9045,7 +9045,6 @@ brasqued
 bionditional
 bionics
 bionomy
-bionomic
 backswordman
 bursas
 batton
@@ -14127,6 +14126,7 @@ bontee
 brachistocephalic
 boloed
 brass
+bionomic
 brachistochrone
 brachistochronous
 brachystomatous
