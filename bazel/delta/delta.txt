@@ -10608,7 +10608,6 @@ diplocardia
 demiking
 dauw
 diplocardiac
-diplocarpon
 discoidea
 diplocaulescent
 diplocephalus
@@ -15507,6 +15506,7 @@ dural
 deoxyribonucleic
 duffing
 dope
+diplocarpon
 dompteuse
 doms
 derve
