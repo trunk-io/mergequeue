@@ -2755,6 +2755,7 @@ dragged
 durum
 demilancer
 dammars
+determiners
 disfeatured
 defeaters
 decorticated
@@ -5608,7 +5609,6 @@ dramatizable
 dukeship
 depeopled
 deperdit
-determiners
 dictyosiphonaceae
 derrid
 drisheen
