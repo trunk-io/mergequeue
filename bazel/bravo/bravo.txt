@@ -1890,7 +1890,6 @@ bevies
 belay
 browbound
 bishoplike
-biostatics
 bougeron
 bandit
 beshrew
@@ -8786,6 +8785,7 @@ binaural
 blow
 bind
 binbashi
+biostatics
 bobbysoxers
 barkevikitic
 binderies
