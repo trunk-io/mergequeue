@@ -8231,7 +8231,6 @@ gamestress
 gorling
 graphostatics
 graphotype
-groggery
 grapier
 gasthaus
 gusseting
@@ -9638,6 +9637,7 @@ guestmaster
 gorsiest
 grueller
 gowfer
+groggery
 gerardia
 grammatophyllum
 grudgefulness
