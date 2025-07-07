@@ -5406,7 +5406,6 @@ guardian
 geared
 ghilzai
 glyoxalic
-galliwasp
 guniter
 glyphic
 gambist
@@ -7871,6 +7870,7 @@ gooseberries
 granate
 grandad
 goggling
+galliwasp
 gnomically
 gentilization
 grandads
