@@ -555,6 +555,7 @@ evelina
 eching
 echinidan
 expy
+eof
 enzymologist
 eclipsises
 entosthoblast
@@ -7281,7 +7282,6 @@ ergatomorphism
 evolutionally
 effaces
 epicurize
-eof
 eohippus
 eohippuses
 erythrosin
