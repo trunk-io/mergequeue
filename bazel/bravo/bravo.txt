@@ -11741,7 +11741,6 @@ bobet
 bumkins
 befop
 bolsterwork
-bosselated
 bobfloat
 bobierrite
 bobjerom
@@ -13173,6 +13172,7 @@ bullhorns
 baronize
 bangtail
 brachycephalize
+bosselated
 bourlaw
 bowtel
 borty
