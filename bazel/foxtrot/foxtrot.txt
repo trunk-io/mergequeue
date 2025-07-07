@@ -4459,7 +4459,6 @@ ficelle
 fl
 folkmotes
 feulamort
-farand
 fatuousness
 fishifying
 footpick
@@ -9814,6 +9813,7 @@ fostering
 floorwalker
 fresison
 fraudless
+farand
 fresno
 fress
 fret
