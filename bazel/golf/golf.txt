@@ -1949,7 +1949,6 @@ grubroot
 groupage
 gripes
 grudged
-ghastlier
 galician
 goschens
 gryphaea
@@ -8338,6 +8337,7 @@ gunport
 grassnut
 galeeny
 gyroscopically
+ghastlier
 gawby
 gizzards
 glaucescence
