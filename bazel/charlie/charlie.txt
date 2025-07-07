@@ -7145,7 +7145,6 @@ chromene
 center
 centerable
 centerboard
-centerer
 cannonball
 centerfold
 compania
@@ -9317,6 +9316,7 @@ carritch
 catarrh
 csects
 carettochelydidae
+centerer
 carbonylic
 chastener
 cashaw
