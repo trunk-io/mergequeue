@@ -8355,7 +8355,6 @@ frontenis
 fightable
 forking
 flaveria
-forkless
 freedoms
 forkwise
 formicative
@@ -10634,6 +10633,7 @@ feebly
 fusc
 frankness
 fiddlededee
+forkless
 frogstool
 farmstead
 filtrability
