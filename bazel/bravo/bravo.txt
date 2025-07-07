@@ -9991,7 +9991,6 @@ bayonetting
 bulkin
 bizarrerie
 bield
-biventral
 barbell
 bn
 baroscopical
@@ -12086,6 +12085,7 @@ baltetei
 balladier
 bojo
 bokhara
+biventral
 baronized
 bokharan
 bokom
