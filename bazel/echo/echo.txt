@@ -2701,7 +2701,6 @@ electiveness
 exogastritis
 electrotype
 entosphenoid
-electrotyped
 electrotypy
 enolase
 earwigged
@@ -11710,6 +11709,7 @@ entoplastic
 exaggeratively
 exagitate
 effluence
+electrotyped
 electromer
 epiphragmal
 epistemologically
