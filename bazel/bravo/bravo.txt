@@ -4082,6 +4082,7 @@ branchier
 beano
 beanos
 bagge
+bichord
 beans
 blokes
 beansetter
@@ -8016,7 +8017,6 @@ bedlight
 berhyming
 bichloride
 biffin
-bichord
 borazons
 bioxalate
 bichos
