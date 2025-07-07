@@ -2708,7 +2708,6 @@ beadflush
 barnman
 braconids
 barnstormer
-barnstorming
 besmearing
 bogomile
 buoyantly
@@ -14820,6 +14819,7 @@ breadstitch
 burnet
 blackwork
 betrample
+barnstorming
 bechalking
 berms
 breadwinner
