@@ -1771,6 +1771,7 @@ buses
 biretta
 bedraggling
 balustrading
+barreleyes
 bulbed
 bivvy
 balzarine
@@ -2891,7 +2892,6 @@ becrawls
 barratrously
 barrelage
 barreled
-barreleyes
 belap
 barrelet
 bookend
