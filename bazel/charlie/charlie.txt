@@ -12700,7 +12700,6 @@ chronometer
 citolers
 chronometers
 chronometric
-chronometrically
 chronon
 choppily
 chronons
@@ -29361,6 +29360,7 @@ chinkiest
 cryptorchis
 cheng
 curara
+chronometrically
 corebox
 candroy
 cryptorchism
