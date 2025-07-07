@@ -2033,7 +2033,6 @@ camoodie
 carrot
 cyperus
 commandants
-camorras
 camorrism
 camorrist
 cropper
@@ -31599,6 +31598,7 @@ curvature
 curvatures
 cozy
 clingstone
+camorras
 curve
 constructed
 curvedly
