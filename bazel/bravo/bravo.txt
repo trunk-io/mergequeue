@@ -9286,7 +9286,6 @@ bobolink
 biplanes
 beclogging
 bonavist
-butler
 bantamweights
 blanch
 bipod
@@ -10157,6 +10156,7 @@ blackdamp
 bellhanger
 blackener
 billette
+butler
 blackens
 bakalei
 blacketeer
