@@ -5430,6 +5430,7 @@ casteth
 crossbench
 castice
 castigable
+clag
 confederates
 cyclopism
 castigate
@@ -15251,7 +15252,6 @@ claes
 criminosis
 condecent
 crumbled
-clag
 clagged
 claggy
 claggum
