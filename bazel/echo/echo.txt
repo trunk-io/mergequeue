@@ -1634,6 +1634,7 @@ egracias
 egress
 erizo
 emissarium
+exsecants
 epiblastic
 egressed
 egresses
@@ -2473,7 +2474,6 @@ exterminative
 electrokinetics
 elasticum
 electroless
-exsecants
 educables
 electrolier
 expansivity
