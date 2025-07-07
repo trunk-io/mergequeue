@@ -4344,6 +4344,7 @@ campulitropal
 casebook
 cargoes
 cargos
+collatee
 chenopodiaceae
 carhop
 carhops
@@ -19015,7 +19016,6 @@ conjugate
 coadaptation
 collarless
 collate
-collatee
 collaterality
 chuchona
 chaperon
