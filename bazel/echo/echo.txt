@@ -3057,7 +3057,6 @@ embeds
 emp
 encyclical
 elliot
-educationable
 ergatocracy
 exdividend
 emblematic
@@ -11746,6 +11745,7 @@ examinatory
 endochrome
 encumbering
 equivocacies
+educationable
 examinatorial
 echopraxia
 ethoxyls
