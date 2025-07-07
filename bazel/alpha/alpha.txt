@@ -5558,7 +5558,6 @@ afterstretch
 amphitriaene
 auditioned
 autosuggestive
-afterstudy
 acutenaculum
 acetylaminobenzene
 alectoropodes
@@ -22328,6 +22327,7 @@ agenda
 asteriskless
 apophorometer
 armourers
+afterstudy
 astrogony
 aspartyl
 astrograph
