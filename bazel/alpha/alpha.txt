@@ -10915,7 +10915,6 @@ amoebas
 astipulate
 asmolder
 aggregatory
-amperometric
 amoebeum
 amoebian
 apologize
@@ -22322,6 +22321,7 @@ astrogeologist
 ariadne
 anniversaries
 astroglia
+amperometric
 actify
 arcturia
 agenda
