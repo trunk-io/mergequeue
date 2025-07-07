@@ -2552,6 +2552,7 @@ bloodberry
 bardel
 barylalia
 bactrian
+binauricular
 backtalk
 barile
 barilla
@@ -6105,7 +6106,6 @@ beholdable
 bedrift
 bataan
 boarskin
-binauricular
 benchership
 bodge
 blimpishness
