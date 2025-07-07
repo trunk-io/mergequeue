@@ -10266,7 +10266,6 @@ biborate
 boracic
 blacksmithing
 biochemy
-beastdom
 botargo
 beehead
 brutalising
@@ -12122,6 +12121,7 @@ boldheartedly
 backstop
 boldly
 blackmail
+beastdom
 brahminic
 baedekers
 boldnesses
