@@ -4621,7 +4621,6 @@ cacomixls
 carnivals
 carnivoracity
 carnivoral
-carnivore
 carnivorism
 cordialness
 carnivorously
@@ -21563,6 +21562,7 @@ concubinarian
 chondropterygii
 concubinate
 conchinine
+carnivore
 concubine
 chasteningly
 concubines
