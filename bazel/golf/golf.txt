@@ -6217,7 +6217,6 @@ gonne
 growlers
 greaves
 goatskins
-gopura
 goatstone
 gaum
 goatweed
@@ -7219,6 +7218,7 @@ gormandizes
 gundeck
 gangsa
 gwerziou
+gopura
 gavelman
 glassblowing
 grubs
