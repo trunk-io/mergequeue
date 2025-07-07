@@ -3087,7 +3087,6 @@ forma
 fiars
 fiascos
 ferricyanogen
-falconet
 ferrotype
 fortepiano
 flukily
@@ -10117,6 +10116,7 @@ facula
 foretopman
 formiate
 fructuary
+falconet
 footlight
 functionality
 frithles
