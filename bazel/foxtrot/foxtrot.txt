@@ -5659,6 +5659,7 @@ flimsier
 farmage
 fishbolt
 felicitations
+fusuma
 florist
 fellowshiped
 frumpiest
@@ -10997,7 +10998,6 @@ fortilage
 feuillemorte
 funkia
 fabliaux
-fusuma
 farmery
 fumet
 forcipate
