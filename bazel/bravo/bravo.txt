@@ -1898,7 +1898,6 @@ bretwaldadom
 brooded
 branle
 bandle
-bedrel
 blastoff
 bushcraft
 breadwinners
@@ -7464,6 +7463,7 @@ barbeau
 bookstack
 budgeting
 balmier
+bedrel
 boilery
 briards
 briefest
