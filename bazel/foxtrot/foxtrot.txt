@@ -3974,7 +3974,6 @@ foggage
 fang
 formalised
 filopodia
-fellowing
 filea
 fined
 fineish
@@ -4521,6 +4520,7 @@ faldage
 frangulin
 ferrotitanium
 faddy
+fellowing
 frowst
 forlane
 frowziness
