@@ -8396,7 +8396,6 @@ epithets
 enterocolostomy
 exuvial
 eyetooth
-enthrallments
 excitomotory
 estivated
 epithyme
@@ -12562,6 +12561,7 @@ enzymology
 exculpative
 extoolitic
 enactable
+enthrallments
 esonarthex
 enameler
 electrofusion
