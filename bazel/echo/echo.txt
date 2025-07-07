@@ -484,7 +484,6 @@ extoll
 ecclesiast
 encephalomata
 expostulated
-empasm
 envelopers
 extended
 endoconidium
@@ -3536,6 +3535,7 @@ embolize
 eupeptic
 epididymal
 entocone
+empasm
 embolomalerism
 enervator
 epidural
