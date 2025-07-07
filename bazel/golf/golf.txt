@@ -6735,7 +6735,6 @@ ghostmonger
 grooviness
 glycogens
 gaolers
-glaireous
 gobleted
 graybeards
 garvanzo
@@ -7269,6 +7268,7 @@ gospelmonger
 glareolidae
 gospels
 gospelwards
+glaireous
 gossard
 gymnonoti
 gosplan
