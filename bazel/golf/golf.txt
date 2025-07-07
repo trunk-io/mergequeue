@@ -5137,6 +5137,7 @@ guavas
 genipap
 gadgeteers
 globeflower
+gps
 gonococcic
 gregarinina
 greathearted
@@ -8736,7 +8737,6 @@ greenlet
 gorge
 greenling
 grogram
-gps
 greensauce
 genera
 gigartina
