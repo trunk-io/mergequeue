@@ -4924,7 +4924,6 @@ equiv
 eveck
 extradictable
 endamoebas
-endamoebidae
 endangitis
 endarchies
 expertised
@@ -6632,6 +6631,7 @@ enorthotrope
 electricity
 emigrates
 enwind
+endamoebidae
 exolemma
 emove
 eligenda
