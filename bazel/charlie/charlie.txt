@@ -1017,6 +1017,7 @@ capsulated
 cher
 compression
 calaththi
+covariables
 calathus
 calatrava
 calavance
@@ -27486,7 +27487,6 @@ chelicerae
 curtailer
 covariable
 cathartical
-covariables
 cheongsam
 coal
 covariant
