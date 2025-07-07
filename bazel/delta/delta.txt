@@ -5504,7 +5504,6 @@ dsnames
 dissolubility
 deadest
 deoxidised
-dorsiventrality
 deoxidize
 doryphoros
 dreggy
@@ -10909,6 +10908,7 @@ disgenius
 disyoke
 deindustrialize
 daekon
+dorsiventrality
 disedge
 dirigo
 dirity
