@@ -13926,6 +13926,7 @@ bowstring
 burial
 bacteriotropic
 binoculate
+bargestone
 bowstringed
 bowstrung
 behavior
@@ -17912,7 +17913,6 @@ belabour
 bookplate
 bushelling
 boopis
-bargestone
 busher
 bushfighting
 bushfires
