@@ -596,6 +596,7 @@ fussed
 forjudger
 falloff
 flamier
+forelook
 fdubs
 filiate
 fiducia
@@ -7739,7 +7740,6 @@ foreleg
 florilege
 finickily
 fetography
-forelook
 foremade
 fauvist
 facer
