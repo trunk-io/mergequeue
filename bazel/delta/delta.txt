@@ -9681,7 +9681,6 @@ disfunctions
 drizzle
 dupers
 dihydrochloride
-duplicable
 diapason
 devastations
 dishonestly
@@ -14759,6 +14758,7 @@ drawls
 doby
 dobla
 distender
+duplicable
 doblon
 digest
 dobos
