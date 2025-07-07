@@ -7835,7 +7835,6 @@ defalcator
 devoting
 dalecarlian
 disgorge
-disallowed
 devotionalist
 dutchify
 doumas
@@ -16834,6 +16833,7 @@ durn
 dissimilarly
 datto
 drawerful
+disallowed
 diametrical
 delaines
 dominee
