@@ -6705,7 +6705,6 @@ flyblow
 flores
 fogdogs
 frippery
-fairways
 fogdom
 fogfruit
 flatterable
@@ -9451,6 +9450,7 @@ filmslide
 furazolidone
 fireboats
 flambant
+fairways
 fells
 fraternally
 formic
