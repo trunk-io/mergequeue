@@ -9634,7 +9634,6 @@ cacochymia
 checkless
 checklist
 checkman
-congruencies
 checkmate
 chirosophist
 chiotilla
@@ -19143,6 +19142,7 @@ colliery
 crises
 cuber
 callable
+congruencies
 colliflower
 cruset
 colliform
