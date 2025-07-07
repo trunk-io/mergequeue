@@ -1908,6 +1908,7 @@ bando
 besieger
 bodiced
 bubonalgia
+bardlet
 bandog
 bandanas
 bergama
@@ -16602,7 +16603,6 @@ bucculae
 butyr
 bloused
 bisons
-bardlet
 bulanda
 blacking
 brevicipitid
