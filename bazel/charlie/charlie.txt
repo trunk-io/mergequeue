@@ -14821,7 +14821,6 @@ cookery
 cite
 citer
 citers
-cites
 citess
 citharas
 citharexylum
@@ -17843,6 +17842,7 @@ cocreatorship
 cocreditor
 campbellism
 coct
+cites
 coctile
 coction
 chloroformist
