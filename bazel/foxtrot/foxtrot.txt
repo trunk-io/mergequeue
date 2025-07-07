@@ -3056,7 +3056,6 @@ fluvanna
 fezzes
 fallway
 fadings
-felucca
 frothing
 fy
 fiacres
@@ -10751,6 +10750,7 @@ fulmars
 fouth
 fruticose
 folles
+felucca
 forweep
 fruticous
 forepretended
