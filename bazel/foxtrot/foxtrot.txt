@@ -536,7 +536,6 @@ fakirs
 flapcake
 falbelo
 firerooms
-frowny
 falco
 fermentive
 flask
@@ -5925,6 +5924,7 @@ fulsamic
 folgerite
 fencepost
 feculae
+frowny
 foetalism
 frangent
 flockwise
