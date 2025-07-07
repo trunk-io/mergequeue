@@ -6281,7 +6281,6 @@ ceile
 clappering
 caudodorsal
 covertness
-caudofemoral
 caudolateral
 curstness
 centetidae
@@ -11046,6 +11045,7 @@ chiromantic
 cabret
 crudites
 coalition
+caudofemoral
 cicatrixes
 chiromantis
 chirometer
