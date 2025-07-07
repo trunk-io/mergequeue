@@ -4617,6 +4617,7 @@ bulletproofed
 bankfull
 bedehouse
 byrewards
+begums
 bullrushes
 bedehouses
 balustrade
@@ -9831,7 +9832,6 @@ bullyable
 bagmen
 barbing
 brands
-begums
 bites
 birefringent
 bebat
