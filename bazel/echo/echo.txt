@@ -4955,6 +4955,7 @@ ecliptics
 estrada
 emulatress
 endeavour
+emissaries
 endamaging
 ericeticolous
 exilable
@@ -9716,7 +9717,6 @@ especialness
 esperantido
 enclosing
 emplacements
-emissaries
 epicycles
 emotionalise
 espy
