@@ -7477,7 +7477,6 @@ coquettishness
 calina
 cephalomant
 cephalomeningitis
-compute
 cleansing
 cephalomere
 cyclostylar
@@ -9870,6 +9869,7 @@ chelating
 chelator
 chelerythrine
 collisions
+compute
 chelicer
 chelicerate
 cysts
