@@ -3924,7 +3924,6 @@ adjutor
 aqueity
 apologer
 adjutory
-adjutorious
 adjutrice
 adjutrix
 adlai
@@ -5952,6 +5951,7 @@ ancilia
 arrogancy
 aggressin
 altered
+adjutorious
 abortus
 amount
 antireality
