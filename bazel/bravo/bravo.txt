@@ -11027,7 +11027,6 @@ besmoking
 botryopterid
 blitzkrieging
 backstairs
-bladelike
 bargello
 bp
 blizz
@@ -15411,6 +15410,7 @@ bilboes
 breaststroker
 breadberry
 babyish
+bladelike
 brannerite
 bereaved
 batonnier
