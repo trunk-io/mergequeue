@@ -13349,7 +13349,6 @@ cycloalkane
 cyclobothra
 carmakers
 cyclobutane
-constableship
 cholecystopexy
 cyclocephaly
 cyclocoelic
@@ -27538,6 +27537,7 @@ coverable
 coverages
 coverall
 coveralled
+constableship
 coveralls
 coils
 coverchief
