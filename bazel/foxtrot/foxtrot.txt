@@ -7866,7 +7866,6 @@ filler
 foreshots
 furfuraldehyde
 facings
-flenses
 franger
 firestorm
 foreprize
@@ -9178,6 +9177,7 @@ fiaschi
 feat
 foveole
 folded
+flenses
 federations
 formalizable
 fadednyess
