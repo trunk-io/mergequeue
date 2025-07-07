@@ -6455,7 +6455,6 @@ guarded
 gie
 golfings
 guanare
-gapeworms
 gurry
 grit
 graduatical
@@ -8573,6 +8572,7 @@ grapnel
 gerb
 gouges
 glider
+gapeworms
 grappled
 glyceral
 guti
