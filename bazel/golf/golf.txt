@@ -1021,7 +1021,6 @@ grindstones
 gloriette
 gitoxin
 galvanoscopy
-geodist
 gullibility
 gleemen
 gaily
@@ -3600,6 +3599,7 @@ gpm
 graeae
 gangwa
 gagee
+geodist
 georgie
 graters
 gillnets
