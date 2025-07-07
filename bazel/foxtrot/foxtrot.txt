@@ -8068,7 +8068,6 @@ forestral
 forestries
 firebrats
 furnitures
-fondness
 fumigating
 flecnode
 fiendfully
@@ -9564,6 +9563,7 @@ flyted
 frecklier
 feudalizing
 frist
+fondness
 findfault
 fullers
 forche
