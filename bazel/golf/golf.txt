@@ -1309,7 +1309,6 @@ gaut
 greeting
 gargoyley
 grimier
-gladite
 gheleem
 gieing
 gazaboes
@@ -8210,6 +8209,7 @@ glimpser
 gyropigeon
 grammarians
 galimatias
+gladite
 gimp
 grippingness
 giardiasis
