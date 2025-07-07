@@ -6817,7 +6817,6 @@ ferryman
 farfal
 forethink
 foldcourse
-fanzines
 fiberless
 folkmoots
 foredoomed
@@ -6915,6 +6914,7 @@ floatages
 fifes
 fleme
 felafel
+fanzines
 fanakalo
 flosculous
 februaries
