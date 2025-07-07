@@ -14481,7 +14481,6 @@ chronometry
 circumstantiality
 circumstantialities
 circumstantialness
-circumstantiate
 circumstantiating
 circumstantiation
 circumstellar
@@ -17918,6 +17917,7 @@ chromoprotein
 certificating
 codescendant
 consumption
+circumstantiate
 cononintelligent
 catchup
 codespairer
