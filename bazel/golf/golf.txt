@@ -4285,6 +4285,7 @@ gluttonous
 gomerec
 gymnasiast
 garganeys
+graminivorous
 gingely
 goblets
 gnocchetti
@@ -6714,7 +6715,6 @@ geneticist
 georgic
 globulet
 gulash
-graminivorous
 gropple
 galvanolysis
 giddyberry
