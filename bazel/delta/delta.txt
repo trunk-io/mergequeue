@@ -3226,7 +3226,6 @@ doftberry
 diphthongising
 defencive
 defend
-defendable
 dikast
 dolmenic
 demimondaine
@@ -16739,6 +16738,7 @@ diphtheritic
 decreement
 devisceration
 drammage
+defendable
 dramme
 drammed
 dottler
