@@ -4501,7 +4501,6 @@ gumwoods
 gills
 gerbille
 gigantomachia
-gmelinite
 girasol
 gingering
 gyrate
@@ -5947,6 +5946,7 @@ graylag
 geodesics
 gazogenes
 galactopathy
+gmelinite
 ginkgoes
 geoemtry
 gastroparesis
