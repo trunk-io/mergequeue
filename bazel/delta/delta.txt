@@ -2096,7 +2096,6 @@ doline
 diapasm
 daunts
 dissembles
-doab
 duddies
 despoilment
 decameron
@@ -9086,6 +9085,7 @@ dictamina
 dictaphone
 dernier
 drinkproof
+doab
 dictaphones
 dictate
 dictating
