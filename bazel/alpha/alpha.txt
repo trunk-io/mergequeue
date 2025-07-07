@@ -17447,7 +17447,6 @@ apotheosised
 apotheosising
 apotheosize
 apotheosized
-apothesine
 apothesis
 apotype
 anteportico
@@ -19989,6 +19988,7 @@ archdeanery
 acclimatization
 aryballos
 armplate
+apothesine
 armrack
 azans
 afterclap
