@@ -6712,6 +6712,7 @@ cedars
 cochairman
 cedarwood
 ceded
+carabins
 ceders
 cottiers
 cedilla
@@ -17547,7 +17548,6 @@ chokeweed
 cobbling
 cobbra
 cobbs
-carabins
 chloritoid
 calixtin
 categorematically
