@@ -3482,7 +3482,6 @@ geums
 gangues
 garmentworker
 ganglions
-gadzooks
 gymnorhina
 geomagnetist
 grugru
@@ -9498,6 +9497,7 @@ gaydiang
 grouper
 garnisheing
 grisbet
+gadzooks
 gecking
 groupment
 groutier
