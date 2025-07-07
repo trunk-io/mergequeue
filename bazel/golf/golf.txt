@@ -2627,7 +2627,6 @@ genioglossal
 globoids
 geoteuthis
 goboes
-genioglossus
 genitocrural
 grout
 gallooned
@@ -8593,6 +8592,7 @@ gynecium
 gemsbok
 guttered
 gunated
+genioglossus
 geoffrey
 grip
 gladdy
