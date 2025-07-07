@@ -13509,7 +13509,6 @@ boondoggle
 boneyards
 botulisms
 brief
-brodequin
 briquette
 bouch
 bouchaleen
@@ -15309,6 +15308,7 @@ briered
 brainwasher
 bagatelles
 brierroot
+brodequin
 bonnetless
 brieve
 beanier
