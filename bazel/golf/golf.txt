@@ -4787,7 +4787,6 @@ glady
 gamophagia
 gursh
 glans
-glandule
 guardo
 graftdom
 glacieret
@@ -5879,6 +5878,7 @@ glances
 glucoside
 goshawk
 grandparents
+glandule
 grantha
 gestening
 gluttonize
