@@ -1590,7 +1590,6 @@ discernableness
 deairs
 dealate
 drupelet
-dealbate
 daks
 doe
 dinginess
@@ -11974,6 +11973,7 @@ diseases
 diseconomy
 diastemata
 dolerites
+dealbate
 diselenid
 dicetyl
 depthing
