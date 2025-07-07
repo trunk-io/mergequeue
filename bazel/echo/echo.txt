@@ -2217,7 +2217,6 @@ eldrich
 eldritch
 enchased
 eulogy
-endocytic
 elecives
 electant
 epitheliulia
@@ -8820,6 +8819,7 @@ euphyllite
 erythrorrhexis
 eradicable
 enticement
+endocytic
 eradicant
 eradicated
 equilibrity
