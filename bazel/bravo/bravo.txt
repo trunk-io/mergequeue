@@ -8410,7 +8410,6 @@ brachygraphic
 byhand
 bicarpellate
 bija
-brachiofaciolingual
 bijasal
 bijections
 bree
@@ -16971,6 +16970,7 @@ bulblike
 biacetyl
 biplosion
 biordinal
+brachiofaciolingual
 bulbocavernosus
 biochore
 brachycephalies
