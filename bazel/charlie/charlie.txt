@@ -8030,7 +8030,6 @@ ceticide
 cetid
 chitinization
 cetyl
-cetylic
 caquet
 cebids
 chaetangium
@@ -28324,6 +28323,7 @@ cravatting
 cloning
 chytra
 circuitor
+cetylic
 crave
 craved
 craven
