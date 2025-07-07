@@ -4421,7 +4421,6 @@ carillons
 carina
 carinae
 carinal
-cavum
 carinas
 chrysene
 carinate
@@ -13086,6 +13085,7 @@ cretonnes
 cyanize
 conchoidally
 cleeky
+cavum
 cotty
 cyanizing
 cirrhopetalum
