@@ -69,7 +69,6 @@ facebow
 fenchone
 faceharden
 flagships
-fighters
 flecken
 facellite
 felonious
@@ -5625,6 +5624,7 @@ frouncing
 flageolet
 flamant
 fascicled
+fighters
 formerness
 fourgons
 flimflammed
