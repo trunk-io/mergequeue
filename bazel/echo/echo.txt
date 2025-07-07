@@ -2301,6 +2301,7 @@ errorful
 encrypting
 epigonus
 electroacoustic
+exporting
 electroacoustical
 elfkin
 electroacoustics
@@ -10377,7 +10378,6 @@ ethnocentric
 encyclopaedical
 epipastic
 ethiops
-exporting
 enneastyle
 eudaemonism
 eclecticist
