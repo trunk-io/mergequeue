@@ -263,6 +263,7 @@ bacillaceae
 brarow
 bacillariaceae
 baldric
+bootable
 buried
 blotless
 balancedness
@@ -3359,7 +3360,6 @@ basiphobia
 buccheros
 branchiopulmonate
 bassalia
-bootable
 brythonic
 baculum
 bassan
