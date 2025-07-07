@@ -17848,7 +17848,6 @@ coction
 chloroformist
 catnache
 condog
-cocuyo
 cocullo
 cocurator
 coviello
@@ -29528,6 +29527,7 @@ creolin
 criterions
 cerealist
 crith
+cocuyo
 crithidia
 crithomancy
 critic
