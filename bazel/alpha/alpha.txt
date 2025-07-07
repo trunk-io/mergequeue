@@ -5988,7 +5988,6 @@ aghast
 aghlabite
 aghori
 allottee
-autoantibody
 apardon
 ans
 algodon
@@ -16415,6 +16414,7 @@ antonymies
 antonyms
 antoniniani
 antoninianus
+autoantibody
 appointed
 antonomasia
 anaplastic
