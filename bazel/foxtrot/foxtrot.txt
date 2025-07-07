@@ -8244,7 +8244,6 @@ foresweat
 fabraea
 finickiness
 forge
-forgeable
 forgery
 forwaked
 fillingness
@@ -10707,6 +10706,7 @@ flavedo
 frutescence
 frumpish
 forecount
+forgeable
 forbore
 frumpishly
 fanciness
