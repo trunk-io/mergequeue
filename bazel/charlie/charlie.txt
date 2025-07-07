@@ -1280,7 +1280,6 @@ calibers
 clavicembali
 colunar
 calibrated
-calibrater
 calibrates
 confectionaries
 cloison
@@ -29459,6 +29458,7 @@ creatines
 circuiter
 crystallising
 crystallite
+calibrater
 crystallites
 coilyear
 constabless
