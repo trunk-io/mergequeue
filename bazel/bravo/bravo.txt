@@ -371,7 +371,6 @@ backframe
 backfriend
 bottegas
 backgame
-backgammon
 barbarical
 botanized
 barwares
@@ -16428,6 +16427,7 @@ brusker
 brushlet
 butches
 bumpkinish
+backgammon
 burrhel
 biscacha
 birdfarms
