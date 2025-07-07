@@ -2552,7 +2552,6 @@ bloodberry
 bardel
 barylalia
 bactrian
-backtalk
 barile
 barilla
 bleeder
@@ -8745,6 +8744,7 @@ bimetals
 breislakite
 bolsters
 babyfied
+backtalk
 brauneria
 barchans
 bimethyls
