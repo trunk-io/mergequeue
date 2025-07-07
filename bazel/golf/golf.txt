@@ -3762,6 +3762,7 @@ gavelage
 gelatined
 goff
 greenbugs
+gyration
 gabbard
 gavialoid
 gulancha
@@ -8912,7 +8913,6 @@ grieko
 gecked
 gridded
 glossopalatinus
-gyration
 greund
 gurgulation
 gentianin
