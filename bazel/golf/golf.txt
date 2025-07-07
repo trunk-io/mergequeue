@@ -2294,6 +2294,7 @@ goodnesses
 goloe
 gibbartas
 galopin
+gaedelian
 geldings
 gol
 gelated
@@ -2680,7 +2681,6 @@ geodesists
 gristmiller
 gliadins
 guillotine
-gaedelian
 grooms
 genoise
 geophagy
