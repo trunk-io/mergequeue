@@ -3314,7 +3314,6 @@ beings
 bathflower
 bandurria
 basketmaking
-bonnets
 basketware
 basketweaving
 bluecoat
@@ -10646,6 +10645,7 @@ bleachable
 bovidae
 bartramia
 brakehead
+bonnets
 beworrying
 becloud
 bleacherite
