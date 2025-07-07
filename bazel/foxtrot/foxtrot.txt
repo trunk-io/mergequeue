@@ -71,7 +71,6 @@ faceharden
 flagships
 fighters
 flecken
-facellite
 felonious
 furthers
 flysch
@@ -3747,6 +3746,7 @@ feistiest
 forgiveable
 foysen
 futurisms
+facellite
 fathead
 filipinization
 firesider
