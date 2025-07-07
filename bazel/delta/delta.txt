@@ -2472,7 +2472,6 @@ defeatists
 distinctly
 decisional
 decisions
-decisis
 defilade
 dribbled
 dixy
@@ -17700,6 +17699,7 @@ deputization
 duarchy
 duarchies
 dhauri
+decisis
 dubb
 demidevil
 dilemmic
