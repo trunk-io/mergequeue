@@ -5871,7 +5871,6 @@ genteelest
 glucosazone
 gadder
 goldfinch
-glycosidase
 gawney
 gipsyweed
 glucoses
@@ -9364,6 +9363,7 @@ glamorize
 gownsman
 goggliest
 gwen
+glycosidase
 galbanum
 goniac
 goutiness
