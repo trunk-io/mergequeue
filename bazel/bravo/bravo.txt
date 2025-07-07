@@ -5391,7 +5391,6 @@ begrimes
 begriming
 begrimmed
 brickly
-bot
 baileys
 brachycardia
 bibliopolism
@@ -15717,6 +15716,7 @@ brodie
 broeboe
 bicolor
 brog
+bot
 brogue
 basiparachromatin
 broguer
