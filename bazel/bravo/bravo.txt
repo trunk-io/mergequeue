@@ -3592,7 +3592,6 @@ blockmaking
 bathool
 bathophobia
 bathos
-bathrobes
 bunkmates
 brach
 balneophysiology
@@ -15736,6 +15735,7 @@ bunds
 broiled
 broiler
 bastide
+bathrobes
 blare
 beshame
 birthdays
