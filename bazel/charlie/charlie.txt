@@ -6702,7 +6702,6 @@ carders
 cecrops
 codifier
 cecum
-cecums
 cecutiency
 cedar
 cedary
@@ -19849,6 +19848,7 @@ comebacker
 cephalochordate
 cymotrichous
 chalehs
+cecums
 catechols
 cribrose
 crepitous
