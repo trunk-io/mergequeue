@@ -5218,6 +5218,7 @@ contek
 cashbooks
 caesural
 cambism
+catamnesis
 cravo
 cavendish
 continuando
@@ -20327,7 +20328,6 @@ communer
 chemopallidectomy
 cashiers
 communes
-catamnesis
 cytostroma
 communicability
 communicable
