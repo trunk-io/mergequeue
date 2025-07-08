@@ -12485,7 +12485,6 @@ bondswoman
 bondswomen
 burntness
 bather
-bagpiped
 buphthalmos
 bondwoman
 bone
@@ -16684,6 +16683,7 @@ bleached
 bodycheck
 bellybuttons
 bucklers
+bagpiped
 bucko
 buckoes
 baronetise
