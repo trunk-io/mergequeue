@@ -3324,7 +3324,6 @@ appeasableness
 adapid
 adapt
 anisospore
-apolytikion
 apeman
 aliased
 adaptableness
@@ -13586,6 +13585,7 @@ anaretic
 annulments
 annuloid
 autoaddress
+apolytikion
 akaakai
 apostasis
 annulosa
