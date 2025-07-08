@@ -2341,7 +2341,6 @@ electrochronometric
 enfroward
 estafetted
 entendres
-electroplating
 electroplates
 ellipsis
 ecumenical
@@ -4510,6 +4509,7 @@ exterminator
 encephalomas
 escudo
 encephalomeningocele
+electroplating
 evenglome
 endoerythrocytic
 encephalomyelitic
