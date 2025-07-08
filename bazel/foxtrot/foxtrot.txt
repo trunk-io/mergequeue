@@ -1539,7 +1539,6 @@ fabulate
 flytes
 feods
 frawn
-futureless
 flaillike
 flunkyhood
 floatability
@@ -4417,6 +4416,7 @@ fathomed
 fishability
 froggier
 feltwork
+futureless
 flybook
 fixion
 fishboats
