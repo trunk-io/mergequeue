@@ -5992,6 +5992,7 @@ autoantibody
 apardon
 ans
 algodon
+arval
 agible
 agiel
 acrasida
@@ -20835,7 +20836,6 @@ aruspex
 aruspice
 aruspicy
 arteriography
-arval
 arvejon
 arverni
 arvicoline

@@ -19146,7 +19146,6 @@ callable
 colliflower
 cruset
 colliform
-colligate
 colligating
 commutual
 colligative
@@ -30931,6 +30930,7 @@ culverwort
 cum
 cumaceous
 cants
+colligate
 cumay
 currack
 cumal
