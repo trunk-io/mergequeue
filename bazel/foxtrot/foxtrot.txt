@@ -6223,7 +6223,6 @@ fanam
 fairgoing
 flaxes
 fulgurate
-foretops
 feebling
 fleabugs
 fovent
@@ -9749,6 +9748,7 @@ fafaronade
 festinate
 floatable
 facework
+foretops
 flabs
 forestick
 flycaster
