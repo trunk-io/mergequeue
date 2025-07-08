@@ -1848,6 +1848,7 @@ frogmen
 flashlamp
 flabra
 flutina
+fibratus
 flaunts
 flakeboard
 foredoes
@@ -2010,7 +2011,6 @@ fillock
 flaxseeds
 fungused
 fernticle
-fibratus
 functionalize
 fluidiser
 frigiferous
