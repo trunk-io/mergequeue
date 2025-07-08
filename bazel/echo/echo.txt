@@ -1309,7 +1309,6 @@ explicatively
 ericophyte
 efface
 effaceable
-effaced
 elliptical
 effacers
 encapsules
@@ -6254,6 +6253,7 @@ enophthalmus
 executable
 enorm
 exhalations
+effaced
 endopericarditis
 exhortator
 enorn
