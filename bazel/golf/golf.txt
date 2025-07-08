@@ -1043,7 +1043,6 @@ ganglioid
 ganglioma
 goodbys
 gangliomas
-ganglionate
 ganglionated
 gymnoconia
 glyceridic
@@ -1152,6 +1151,7 @@ gantsl
 galactometry
 gastrostomus
 glossograph
+ganglionate
 gnetums
 guffin
 gaol
