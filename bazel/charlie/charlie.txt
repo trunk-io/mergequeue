@@ -7995,7 +7995,6 @@ chromophotolithograph
 cataphoretic
 cest
 cesta
-catafalque
 cestidae
 cestode
 cestodes
@@ -14419,6 +14418,7 @@ cardioids
 crenelling
 copplecrown
 canalside
+catafalque
 circumnutated
 circumnutation
 circumorbital
