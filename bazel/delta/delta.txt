@@ -2255,6 +2255,7 @@ durax
 dyewoods
 decemfoliate
 delectable
+defacing
 dogmas
 decempedal
 demotion
@@ -3097,7 +3098,6 @@ daddock
 degradand
 defaces
 decongestive
-defacing
 defacto
 dodgers
 defade
