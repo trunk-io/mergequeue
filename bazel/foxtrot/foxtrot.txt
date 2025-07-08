@@ -8310,7 +8310,6 @@ fribbling
 fountaining
 foursome
 forhaile
-foreroyal
 faroese
 floralia
 fraughan
@@ -9866,6 +9865,7 @@ fruitage
 faden
 fribbler
 friskle
+foreroyal
 foreappointment
 fricace
 fricandeaux
