@@ -15662,7 +15662,6 @@ detergible
 dooring
 doorknob
 doorless
-destinate
 doormaid
 dietist
 doormaker
@@ -16931,6 +16930,7 @@ dreamless
 decident
 dreamlikeness
 dobchick
+destinate
 dreams
 disorders
 diphylla
