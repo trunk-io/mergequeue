@@ -3455,7 +3455,6 @@ foe
 floramour
 flyweights
 feignedly
-filtre
 faculative
 fops
 flighting
@@ -5606,6 +5605,7 @@ flintiness
 filet
 flavaniline
 flicker
+filtre
 fixity
 fiords
 flickermouse
