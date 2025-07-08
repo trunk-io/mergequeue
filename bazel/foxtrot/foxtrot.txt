@@ -4870,6 +4870,7 @@ fingerflower
 fullwords
 ferrite
 faena
+fella
 fellowshipping
 falsen
 forestology
@@ -8730,7 +8731,6 @@ floppers
 foredecks
 flocculator
 fortresses
-fella
 footlog
 flymen
 faultsman
