@@ -22592,7 +22592,6 @@ connaught
 connectable
 connected
 connectedly
-connecter
 connecters
 confabbed
 chiaroscurist
@@ -24165,6 +24164,7 @@ convictfishes
 convictible
 carfax
 cantinier
+connecter
 conviction
 convictional
 civilizatory
