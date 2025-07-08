@@ -273,6 +273,7 @@ expiries
 easterling
 enqueue
 ecrevisse
+effected
 epeirogenic
 enantioblastic
 esquired
@@ -9043,7 +9044,6 @@ explorative
 ecumenist
 electrophonic
 epizootiological
-effected
 erysipelatous
 ectosome
 eatables
