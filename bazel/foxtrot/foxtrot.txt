@@ -1106,7 +1106,6 @@ furculae
 floricomous
 farnesols
 fringillidae
-foraging
 fogas
 faro
 floriken
@@ -6175,6 +6174,7 @@ fraughts
 fuses
 fewness
 flowable
+foraging
 fcp
 fewneses
 foresaw
