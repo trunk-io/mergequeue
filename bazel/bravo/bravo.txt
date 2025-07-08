@@ -1743,7 +1743,6 @@ balsaminaceae
 beneplacit
 balsamine
 basongo
-become
 balsamitic
 balsamiticness
 benzoylating
@@ -3024,6 +3023,7 @@ bookbinderies
 bubba
 bartramian
 bartree
+become
 banish
 beetmister
 burlesks
