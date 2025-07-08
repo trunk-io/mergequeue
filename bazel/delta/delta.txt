@@ -5564,7 +5564,6 @@ dx
 dwarfism
 dimmock
 departmentalism
-departmentalization
 departmentalized
 dorper
 derner
@@ -10329,6 +10328,7 @@ demurred
 dressy
 dioecian
 dioeciopolygamous
+departmentalization
 disclout
 duodenal
 dustpans
