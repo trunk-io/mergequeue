@@ -1880,7 +1880,6 @@ glochids
 gastrozooid
 glaikit
 gonadotrophic
-gavelmen
 gunboat
 gaudless
 ganglia
@@ -4052,6 +4051,7 @@ gamester
 gogglebox
 genus
 gelechiid
+gavelmen
 goosemouth
 gaulic
 gamekeeper
