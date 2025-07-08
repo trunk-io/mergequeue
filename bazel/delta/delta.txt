@@ -2710,6 +2710,7 @@ demitrain
 deconsideration
 decontaminates
 decontaminating
+dasypaedes
 diatessaron
 dortiness
 dejectly
@@ -10212,7 +10213,6 @@ diploblastic
 diting
 defogging
 downy
-dasypaedes
 doater
 dinged
 diploids
