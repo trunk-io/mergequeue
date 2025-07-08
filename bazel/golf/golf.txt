@@ -1676,7 +1676,6 @@ gamebag
 gazetteerish
 gordioidea
 gane
-geodetically
 grassquit
 gastrojejunostomy
 glaciation
@@ -7885,6 +7884,7 @@ gainless
 greenhorn
 granddaughter
 grandees
+geodetically
 giglets
 got
 galleons
