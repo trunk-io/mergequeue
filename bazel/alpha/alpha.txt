@@ -3862,7 +3862,6 @@ adjudging
 adjudgment
 adjudicate
 autarkik
-adjudicated
 adjudication
 adjudications
 agglutinin
@@ -16744,6 +16743,7 @@ amylometer
 anterointerior
 accur
 aphelian
+adjudicated
 anthophagy
 audacity
 aphelilia
