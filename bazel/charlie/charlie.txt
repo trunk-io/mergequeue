@@ -230,6 +230,7 @@ cacajao
 cacam
 cacanapa
 cacara
+confidences
 cacas
 cacatuidae
 cacatuinae
@@ -14895,7 +14896,6 @@ celiitis
 copremia
 cytoarchitectural
 cytoblast
-confidences
 cytoblastema
 cytoblastemal
 caseless
