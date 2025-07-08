@@ -6618,7 +6618,6 @@ draglines
 decipherable
 deprecations
 desegregation
-duststorm
 deselected
 deselecting
 deadborn
@@ -13724,6 +13723,7 @@ dissipaters
 digestedly
 doyle
 despumated
+duststorm
 disseating
 denationalising
 dimmish
