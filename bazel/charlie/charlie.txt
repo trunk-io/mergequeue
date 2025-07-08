@@ -7939,7 +7939,6 @@ cerviconasal
 cribrous
 crotchy
 cervicoscapular
-cervicothoracic
 cervicovesical
 cervinae
 cosignatory
@@ -18484,6 +18483,7 @@ cognizing
 cognizor
 cognomens
 carnally
+cervicothoracic
 cathedral
 cognominated
 cognomination
