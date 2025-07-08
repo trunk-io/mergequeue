@@ -13514,6 +13514,7 @@ authigenic
 atomical
 armada
 acropodia
+appliance
 alberich
 azeotropism
 amoebida
@@ -17737,7 +17738,6 @@ applewood
 apply
 anthorine
 appliable
-appliance
 appliances
 appliant
 aporrhaidae
