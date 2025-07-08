@@ -2941,7 +2941,6 @@ boobishness
 blobby
 barricaded
 beltian
-benedicts
 barricaders
 barricadoes
 brainsick
@@ -9488,6 +9487,7 @@ babingtonite
 biron
 byronesque
 birostrate
+benedicts
 byronic
 binocles
 beirut
