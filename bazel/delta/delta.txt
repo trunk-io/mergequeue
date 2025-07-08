@@ -9052,7 +9052,6 @@ dicolon
 disbar
 doornboom
 dicotyledon
-dicotyledonous
 dicotyles
 depigment
 disruption
@@ -9782,6 +9781,7 @@ demythologized
 dimethyl
 disunified
 deceive
+dicotyledonous
 desugarize
 didodecahedral
 dudley
