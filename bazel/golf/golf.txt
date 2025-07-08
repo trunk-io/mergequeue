@@ -3703,6 +3703,7 @@ glue
 gelatinising
 greenable
 gunong
+gambet
 grincome
 giantsize
 gaub
@@ -7506,7 +7507,6 @@ grounded
 grinagog
 gowked
 gunkholing
-gambet
 gastraea
 ghastfulness
 glucolysis
