@@ -5354,7 +5354,6 @@ cassius
 cassock
 cleanser
 ctenophora
-cassocked
 cultures
 cassocks
 chamberlain
@@ -23301,6 +23300,7 @@ consultary
 consultatively
 clarksville
 ceiled
+cassocked
 coumarin
 cliquishness
 closets
