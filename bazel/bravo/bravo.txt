@@ -5984,6 +5984,7 @@ benchmarks
 brecciate
 beltman
 belts
+branchiostege
 beltway
 bloodspilling
 beadlike
@@ -16796,7 +16797,6 @@ buffaloing
 bulltoad
 biflagellate
 buffball
-branchiostege
 backings
 breastrail
 bohemians
