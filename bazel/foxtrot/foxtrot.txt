@@ -9848,6 +9848,7 @@ factorist
 fedora
 foretrysail
 fuci
+flivver
 fevertwitch
 friar
 fungo
@@ -10888,7 +10889,6 @@ finfish
 fleets
 fannon
 fados
-flivver
 fletched
 fullmouthed
 firesafeness
