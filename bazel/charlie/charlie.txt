@@ -2136,7 +2136,6 @@ coadjacence
 campesinos
 campestral
 campfight
-campground
 canful
 campgrounds
 consarcinate
@@ -19175,6 +19174,7 @@ cocainise
 carbin
 collins
 collinses
+campground
 circumterraneous
 chaptrel
 collinsite
