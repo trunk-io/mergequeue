@@ -3695,6 +3695,7 @@ batterie
 breck
 batteries
 batteryman
+besetters
 batterman
 bullockman
 bindlet
@@ -6929,7 +6930,6 @@ bitumed
 brandywine
 besetment
 besets
-besetters
 besew
 borghi
 boccaccio
