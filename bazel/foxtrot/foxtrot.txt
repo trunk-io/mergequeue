@@ -4460,6 +4460,7 @@ fl
 folkmotes
 feulamort
 farand
+flagleaf
 fatuousness
 fishifying
 footpick
@@ -5672,7 +5673,6 @@ fortifies
 flimsiness
 fairleads
 flinch
-flagleaf
 feck
 fishnets
 finedraw
