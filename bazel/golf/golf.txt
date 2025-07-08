@@ -7420,7 +7420,6 @@ gists
 geodesy
 gades
 groundwater
-gazing
 gulpy
 gladiatory
 goura
@@ -8083,6 +8082,7 @@ gynaeolater
 gnomoniaceae
 gulfed
 gloat
+gazing
 glowflies
 gametophytic
 granulators
