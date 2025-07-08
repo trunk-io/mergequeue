@@ -603,7 +603,6 @@ billmen
 beclothed
 betongue
 bacteremic
-bacteriaceae
 blooddrops
 bacteriaemia
 bacterially
@@ -13046,6 +13045,7 @@ bagpipe
 borderlight
 borderline
 balneae
+bacteriaceae
 bedrop
 braggartry
 biophysicochemical
