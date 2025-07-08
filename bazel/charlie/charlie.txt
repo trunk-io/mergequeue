@@ -8672,7 +8672,6 @@ chancellorship
 chancellorships
 chancelor
 capillaire
-calathidium
 chancels
 chancemen
 corance
@@ -24307,6 +24306,7 @@ cormus
 counterexample
 cnidaria
 cooees
+calathidium
 catchpoleship
 cooey
 complements
