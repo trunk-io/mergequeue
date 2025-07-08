@@ -5014,7 +5014,6 @@ argas
 aerosteam
 aethalioid
 antapex
-aerotaxis
 actinodrome
 agacant
 argo
@@ -12462,6 +12461,7 @@ avoided
 anticonfederationist
 anemometrically
 attenuated
+aerotaxis
 amanuenses
 arterial
 anemometrographically
