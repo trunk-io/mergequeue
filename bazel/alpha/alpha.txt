@@ -14207,6 +14207,7 @@ agiotages
 anteroom
 anterooms
 anteroparietal
+atlases
 anencephalous
 alchochoden
 ancipitous
@@ -22719,7 +22720,6 @@ antigenically
 antipopulationist
 atlantoodontoid
 atlantosaurus
-atlases
 apropos
 atlaslike
 amplificator
