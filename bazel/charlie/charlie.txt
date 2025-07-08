@@ -3682,7 +3682,6 @@ caramelise
 conveyorize
 caramelize
 caramelized
-clangoring
 caramels
 conjugable
 commendam
@@ -6621,6 +6620,7 @@ campanula
 confluence
 chokidar
 caxtonian
+clangoring
 caza
 cazimi
 chamois
