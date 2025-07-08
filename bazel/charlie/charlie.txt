@@ -3624,7 +3624,6 @@ cotrespasser
 caraboa
 cinques
 circle
-caraboid
 carabus
 caracara
 carack
@@ -7932,6 +7931,7 @@ cervicobuccal
 cervicodynia
 cervicofacial
 cervicolabial
+caraboid
 cooeyed
 croh
 cervicomuscular
