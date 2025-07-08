@@ -11651,7 +11651,6 @@ bosket
 boatage
 bacterioscopical
 barspoon
-byres
 boatbuilding
 boathook
 boathouse
@@ -12170,6 +12169,7 @@ boleweed
 biometeorology
 bolewort
 baklawas
+byres
 benzodiazine
 bolide
 bolivar
