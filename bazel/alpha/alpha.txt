@@ -5385,7 +5385,6 @@ apocatastasis
 afoul
 afray
 athrocytosis
-antisymmetrical
 anticensoriousness
 aspirator
 afrasia
@@ -5723,6 +5722,7 @@ adduceable
 answers
 amphistome
 afeared
+antisymmetrical
 agapeti
 agapetid
 agennetic
