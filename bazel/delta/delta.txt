@@ -1172,7 +1172,6 @@ dasturi
 dreggish
 datably
 demoiselles
-datafile
 dunts
 dillydallying
 datagram
@@ -8517,6 +8516,7 @@ draconitic
 displacer
 downgrades
 diamond
+datafile
 diamondback
 diamondbacked
 diamondizing
