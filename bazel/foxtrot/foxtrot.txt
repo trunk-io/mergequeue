@@ -2502,7 +2502,6 @@ foreproduct
 fermentable
 fermentativeness
 faradize
-falus
 footbridges
 fermentescible
 fielding
@@ -6488,6 +6487,7 @@ fouquieriaceous
 flightful
 fictor
 fruitages
+falus
 fissilingual
 farriery
 flatboat
