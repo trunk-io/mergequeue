@@ -4100,7 +4100,6 @@ fibered
 frimaire
 finitesimal
 freefd
-finitism
 finitive
 felapton
 formants
@@ -6355,6 +6354,7 @@ fissipeda
 frags
 fuzzy
 flack
+finitism
 futural
 fullback
 fixtureless
