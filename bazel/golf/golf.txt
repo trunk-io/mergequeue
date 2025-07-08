@@ -881,7 +881,6 @@ goffer
 ghatti
 gymnophiona
 guerrilla
-gametangia
 grillwork
 gotha
 gametocyst
@@ -2226,6 +2225,7 @@ gunroom
 gammoning
 giust
 granulate
+gametangia
 gonofs
 greengage
 geisa
