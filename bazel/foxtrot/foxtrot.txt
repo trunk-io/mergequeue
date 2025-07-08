@@ -2428,7 +2428,6 @@ feudist
 fenchol
 ferganite
 fetial
-fortunetellers
 ferguson
 frondage
 feriation
@@ -10181,6 +10180,7 @@ fragmentise
 fractionalism
 feminizes
 forebears
+fortunetellers
 flobby
 falcer
 fano
