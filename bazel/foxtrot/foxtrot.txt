@@ -3762,7 +3762,6 @@ flavorlessness
 featherers
 filletster
 frail
-feodal
 facebread
 fillies
 feetless
@@ -8703,6 +8702,7 @@ fogydom
 fortieth
 feminisms
 fortify
+feodal
 fibroids
 foulmart
 fortifiers
