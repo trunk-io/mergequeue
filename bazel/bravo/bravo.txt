@@ -2660,7 +2660,6 @@ bluestone
 bertholletia
 barghest
 breechloader
-basiliscus
 backlins
 berrugate
 barm
@@ -9387,6 +9386,7 @@ bromous
 barramundi
 bullety
 backseat
+basiliscus
 birdies
 brimse
 brackebuschite
