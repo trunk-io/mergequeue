@@ -13379,7 +13379,6 @@ besonnet
 blackcap
 beothuk
 boltant
-bothway
 burgle
 bunched
 byth
@@ -17567,6 +17566,7 @@ bellonion
 buccellarius
 bhima
 bobble
+bothway
 bascule
 broadacre
 bothrops
