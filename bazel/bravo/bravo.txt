@@ -1112,7 +1112,6 @@ barkstone
 betrayals
 bedimmed
 boatload
-brindled
 bluethroat
 brewmaster
 breakwind
@@ -2949,6 +2948,7 @@ blayk
 bemazed
 boltsmith
 bicentral
+brindled
 basiation
 bolthole
 boarders
