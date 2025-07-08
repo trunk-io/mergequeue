@@ -3271,6 +3271,7 @@ flotages
 foods
 fogman
 feloness
+flathe
 fluework
 floorshift
 firmisternous
@@ -7211,7 +7212,6 @@ footlock
 fraising
 fitches
 footlockers
-flathe
 forfeits
 frizzlers
 formulate
