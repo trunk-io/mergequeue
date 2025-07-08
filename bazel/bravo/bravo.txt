@@ -613,7 +613,6 @@ bactericide
 beethoven
 bidget
 bacterin
-bacteriochlorophyll
 bacteriocin
 bathylite
 bostangi
@@ -12930,6 +12929,7 @@ boothite
 bootie
 bootied
 bearfoot
+bacteriochlorophyll
 bialy
 bootlegs
 bootlessly
