@@ -7088,6 +7088,7 @@ emote
 entrapping
 entrustment
 eelbobber
+exostome
 eurygaea
 expediate
 exchequers
@@ -12174,7 +12175,6 @@ entertainments
 equity
 ethaldehyde
 excusefully
-exostome
 embergoose
 excuser
 elytron
