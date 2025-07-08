@@ -6219,7 +6219,6 @@ greaves
 goatskins
 gopura
 goatstone
-gaum
 goatweed
 guerrillaism
 genitures
@@ -6247,6 +6246,7 @@ genuflexion
 grunting
 gospelly
 gainable
+gaum
 gobble
 gierfalcon
 gematria
