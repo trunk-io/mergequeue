@@ -1477,7 +1477,6 @@ featherleaf
 fossils
 factionalist
 femorofibular
-fisk
 fatted
 fetialis
 formulators
@@ -9365,6 +9364,7 @@ fireguard
 foreschool
 flocci
 folcgemot
+fisk
 funambulating
 florilegium
 frying
