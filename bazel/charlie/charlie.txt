@@ -119,7 +119,6 @@ cabineting
 codshead
 cabinetmaking
 capacitated
-cabinetted
 chordophone
 clitelline
 cabinetworker
@@ -3876,6 +3875,7 @@ cincha
 carbonemia
 coccolith
 cavilled
+cabinetted
 carbonide
 convalescent
 cacophonical
