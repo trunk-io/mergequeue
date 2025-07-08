@@ -5883,6 +5883,7 @@ doorbrand
 desolations
 diachoresis
 demeaning
+diplotaxis
 disconcert
 deprecative
 dissolvable
@@ -10717,7 +10718,6 @@ diminuting
 dawties
 diplospondylism
 diplostichous
-diplotaxis
 dissipating
 diplozoon
 draws
