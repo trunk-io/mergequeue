@@ -4787,6 +4787,7 @@ bedroll
 bedrooms
 bruckle
 bedrowse
+bungo
 bandicoots
 bedrugged
 bedrugs
@@ -8773,7 +8774,6 @@ birchen
 binal
 bugologist
 bedrown
-bungo
 beezer
 binaphthyl
 bletia
