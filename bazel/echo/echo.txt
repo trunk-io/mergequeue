@@ -4766,7 +4766,6 @@ establishments
 exploratory
 extracardial
 encloister
-extend
 endosporously
 emeried
 extrarhythmical
@@ -13477,6 +13476,7 @@ exsolution
 enterocystoma
 epithalamium
 ethnomusicology
+extend
 enterparlance
 episiorrhagia
 effectuation
