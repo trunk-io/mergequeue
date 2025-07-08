@@ -21360,7 +21360,6 @@ conchol
 conchometer
 conchospiral
 conchostraca
-corotated
 computed
 conchs
 conchubar
@@ -24175,6 +24174,7 @@ connexive
 convictment
 convictor
 convicts
+corotated
 crosshatch
 convince
 cephalophus
