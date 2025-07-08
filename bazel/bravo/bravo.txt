@@ -6674,7 +6674,6 @@ bergs
 boneshave
 bodegon
 beribanded
-birdy
 bargeboard
 barbarious
 beriber
@@ -13100,6 +13099,7 @@ blowzier
 brahui
 boride
 bregmatic
+birdy
 banff
 boringness
 bilging
