@@ -8883,6 +8883,7 @@ chapelry
 combflower
 chapelries
 cinerins
+campylodrome
 chapels
 chiasmi
 chapelward
@@ -28426,7 +28427,6 @@ creamy
 considered
 creamiest
 creamily
-campylodrome
 cortical
 creaming
 caponization
