@@ -5881,7 +5881,6 @@ feminology
 fastigia
 fdtype
 fowlers
-flocced
 flagellate
 frustulose
 footsoldier
@@ -11251,6 +11250,7 @@ ferrean
 finbacks
 forrit
 funster
+flocced
 furans
 furacious
 falconelle
