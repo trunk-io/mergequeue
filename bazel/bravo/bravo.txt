@@ -12380,7 +12380,6 @@ bluishness
 bedizening
 bergeres
 beele
-boonk
 bombonne
 bombora
 bawls
@@ -16832,6 +16831,7 @@ buffont
 bloodleaf
 buffoon
 buffooneries
+boonk
 benzoxycamphor
 balancelle
 blastoderm
