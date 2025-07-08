@@ -1928,7 +1928,6 @@ constant
 camelopardus
 cloghad
 counterflashing
-camelry
 camelus
 castalia
 camembert
@@ -6024,6 +6023,7 @@ clienteles
 coiffes
 catheterised
 catheterism
+camelry
 catheterization
 catheterized
 commonality
