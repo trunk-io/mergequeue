@@ -4478,6 +4478,7 @@ fantasies
 fishman
 floorward
 float
+flimflamming
 frowzly
 feelable
 flossy
@@ -5650,7 +5651,6 @@ fuddle
 fulgurata
 foxite
 firetop
-flimflamming
 flimflams
 freethink
 favouritism
