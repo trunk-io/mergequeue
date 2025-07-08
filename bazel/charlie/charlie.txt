@@ -3100,7 +3100,6 @@ capable
 capableness
 clayoquot
 challengingly
-cirque
 capabler
 capably
 cerecloth
@@ -7468,6 +7467,7 @@ conditionals
 cephalofacial
 cephalogram
 cephaloid
+cirque
 culminates
 cuticles
 cephalology
