@@ -7564,7 +7564,6 @@ bread
 bevvy
 baronages
 bewailers
-bunnell
 buskins
 belimousined
 blowpit
@@ -8461,6 +8460,7 @@ bemusement
 battercake
 bandido
 behaviors
+bunnell
 bilaterally
 belabouring
 bilati
