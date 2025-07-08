@@ -659,6 +659,7 @@ fanum
 fauster
 flagmen
 freightyard
+fogon
 falsity
 faltboat
 flugelmen
@@ -6739,7 +6740,6 @@ fogo
 frescoists
 fudgy
 feast
-fogon
 fogproof
 frugally
 fellator
