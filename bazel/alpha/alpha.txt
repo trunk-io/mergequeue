@@ -11008,7 +11008,6 @@ archegone
 anychia
 assais
 amorphus
-amort
 amuguis
 amortising
 amortizable
@@ -18911,6 +18910,7 @@ adenomas
 archimandrites
 archimedean
 anticommercial
+amort
 achernar
 archimedes
 archimycetes
