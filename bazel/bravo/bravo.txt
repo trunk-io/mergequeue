@@ -3875,7 +3875,6 @@ bodyhood
 bidding
 beforesaid
 bawneen
-bawra
 barrow
 barklyite
 bawsint
@@ -11327,6 +11326,7 @@ blows
 bleachability
 boneyard
 biologism
+bawra
 blowse
 bargeman
 barse
