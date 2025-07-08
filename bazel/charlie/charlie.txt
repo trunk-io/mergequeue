@@ -5950,7 +5950,6 @@ cates
 catesbaea
 catfaced
 constructable
-chivy
 catfacing
 catfall
 catfalls
@@ -29951,6 +29950,7 @@ corollate
 crostarie
 cajoler
 crotal
+chivy
 crotalic
 completely
 crotalidae
