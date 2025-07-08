@@ -566,6 +566,7 @@ garde
 goolah
 gazometer
 getfd
+glovemaker
 growls
 gableended
 gravamem
@@ -5789,7 +5790,6 @@ gloveless
 glorifiable
 grain
 goldsmith
-glovemaker
 gadarene
 gloveman
 gumtrees

@@ -3300,7 +3300,6 @@ adamantoblast
 adamas
 archery
 atelets
-adamellite
 allosyndesis
 antihierarchic
 adamine
@@ -20057,6 +20056,7 @@ acervatim
 azonal
 auspices
 aculeate
+adamellite
 archaeohippus
 aromas
 aromatic
