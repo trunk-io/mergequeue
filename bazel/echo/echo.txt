@@ -377,7 +377,6 @@ eschewer
 exosseous
 ebcd
 eben
-experts
 electrepeter
 entelodont
 eighteenfold
@@ -5923,6 +5922,7 @@ enharbour
 electrometallurgy
 exocytosis
 endsweep
+experts
 enharden
 especially
 eurytopicity

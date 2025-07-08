@@ -2628,7 +2628,6 @@ canepin
 cheeseflower
 cursaro
 coign
-caner
 camelopardel
 canes
 caprellidae
@@ -14969,6 +14968,7 @@ chorda
 chess
 cartmaker
 cobberer
+caner
 cytoparaplastin
 cytopathic
 cosmine
