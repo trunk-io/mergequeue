@@ -77,7 +77,6 @@ furthers
 flysch
 forementioned
 fordeal
-frets
 fullfaces
 facemark
 flunkeyhood
@@ -3610,6 +3609,7 @@ foulsome
 filamentary
 filament
 flavous
+frets
 flagrancy
 flaggelating
 filaments
