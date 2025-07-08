@@ -617,7 +617,6 @@ bacteriochlorophyll
 bacteriocin
 bathylite
 bostangi
-bastiment
 bacteriodiagnosis
 bromates
 benomyls
@@ -3798,6 +3797,7 @@ bescorched
 balancer
 bauckie
 beerish
+bastiment
 benzole
 beatrice
 befleck
