@@ -8885,7 +8885,6 @@ chapelries
 cinerins
 chapels
 chiasmi
-chapelward
 chaperno
 custodia
 chaperonage
@@ -14817,6 +14816,7 @@ citational
 calixtus
 citatory
 canvassers
+chapelward
 cookery
 cite
 citer
