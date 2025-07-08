@@ -12312,7 +12312,6 @@ beswarmed
 bombardments
 bedazed
 bombline
-bowdrill
 bombast
 buglers
 bandurrias
@@ -18127,6 +18126,7 @@ benzal
 bealtared
 buskin
 butcherer
+bowdrill
 blobbier
 bureaucrats
 ballyrag
