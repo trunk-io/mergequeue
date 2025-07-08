@@ -9449,7 +9449,6 @@ altars
 armbone
 anemones
 altazimuth
-alter
 alterable
 anerethisia
 alterably
@@ -10597,6 +10596,7 @@ anapestically
 amyloid
 adossee
 aptly
+alter
 amyloidoses
 acatharsia
 amyloidosis
