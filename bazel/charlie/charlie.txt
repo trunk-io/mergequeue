@@ -6867,7 +6867,6 @@ cerianthoid
 clearway
 celioparacentesis
 cerinthian
-capless
 celioscope
 cella
 cellarage
@@ -7930,6 +7929,7 @@ cervicobregmatic
 cobitis
 cervicobuccal
 cervicodynia
+capless
 cervicofacial
 cervicolabial
 cooeyed
