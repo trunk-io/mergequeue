@@ -1969,7 +1969,6 @@ flichter
 freight
 furling
 friable
-fangot
 floccule
 finagling
 federally
@@ -9626,6 +9625,7 @@ fdub
 frailest
 fragmentitious
 forcipated
+fangot
 facilitated
 fabula
 flagstaffs
