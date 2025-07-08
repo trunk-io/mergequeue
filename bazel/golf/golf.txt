@@ -1940,6 +1940,7 @@ glamor
 gallamine
 gnomonical
 gimbal
+grume
 gas
 geology
 geranic
@@ -6067,7 +6068,6 @@ gaduin
 gorbit
 guttie
 grisset
-grume
 gonococcoid
 gnaws
 gramineous
