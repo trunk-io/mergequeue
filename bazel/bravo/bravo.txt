@@ -2703,7 +2703,6 @@ barnyard
 beastings
 butein
 bottomries
-batch
 beadflush
 barnman
 braconids
@@ -12368,6 +12367,7 @@ bonkers
 byronize
 beplaided
 bab
+batch
 band
 bandlimit
 buckshee
