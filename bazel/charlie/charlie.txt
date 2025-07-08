@@ -6296,6 +6296,7 @@ capacity
 circularise
 cauking
 cyrtoceracone
+clawhammer
 cutinises
 cfs
 chloralism
@@ -31218,7 +31219,6 @@ commonplace
 coque
 cupuliferous
 craniopathy
-clawhammer
 cura
 curability
 correctness
