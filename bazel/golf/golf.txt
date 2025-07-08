@@ -875,6 +875,7 @@ gripman
 gallowsward
 geegaw
 galactan
+gulsach
 glove
 guily
 goffer
@@ -1773,7 +1774,6 @@ gastrostenosis
 gatehouses
 gaskins
 gastrotomic
-gulsach
 glycine
 geodesia
 gastrovascular
