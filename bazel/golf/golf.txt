@@ -1149,7 +1149,6 @@ genin
 genio
 generalness
 gantsl
-galactometry
 gastrostomus
 glossograph
 gnetums
@@ -1817,6 +1816,7 @@ glyconics
 gerhardtite
 gregory
 gunfighting
+galactometry
 gateposts
 gatewaying
 gatetender
