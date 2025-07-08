@@ -12019,7 +12019,6 @@ civilite
 choreguses
 contrivers
 choreic
-choreiform
 choreman
 choreodrama
 choreographed
@@ -30072,6 +30071,7 @@ crowds
 chromatrope
 crowed
 crower
+choreiform
 crowers
 centuried
 crowfeet
