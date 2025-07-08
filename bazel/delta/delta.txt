@@ -3539,6 +3539,7 @@ doom
 deperition
 defrayers
 defraying
+dep
 desaturate
 defraudation
 desmomyaria
@@ -5474,7 +5475,6 @@ deceives
 detectably
 deoppilate
 deoppilation
-dep
 doss
 doment
 deordination
