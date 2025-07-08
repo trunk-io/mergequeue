@@ -4340,7 +4340,6 @@ cargadores
 chintziness
 casco
 cargason
-campulitropal
 casebook
 cargoes
 cargos
@@ -4972,6 +4971,7 @@ chondriosomes
 cesarean
 cakemaker
 circumambages
+campulitropal
 cartelist
 costars
 classical
