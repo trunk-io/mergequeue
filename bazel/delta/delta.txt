@@ -7425,7 +7425,6 @@ detractions
 detrainment
 detraque
 deathsmen
-detrect
 detrench
 demigentleman
 dismoded
@@ -8438,6 +8437,7 @@ diallagite
 deadwort
 dt
 decimetres
+detrect
 dishonorably
 diallelus
 dysphasic

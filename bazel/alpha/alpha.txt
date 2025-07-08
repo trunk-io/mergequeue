@@ -6500,7 +6500,6 @@ aminoethionic
 ahuaca
 acridane
 ahull
-ascomata
 ahum
 amicableness
 arboretum
@@ -7886,6 +7885,7 @@ alefzero
 alehouse
 averrable
 amor
+ascomata
 aleikoum
 alboranite
 accidentality
