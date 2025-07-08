@@ -5853,7 +5853,6 @@ dressings
 divestible
 deafforestation
 deposits
-dulcitol
 dichotomously
 deafforest
 destrier
@@ -12411,6 +12410,7 @@ demasculinized
 dwarfishly
 droner
 decolorised
+dulcitol
 depone
 deepening
 decempartite
