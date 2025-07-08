@@ -881,7 +881,6 @@ bagmaker
 bagnes
 bastnaesite
 blowze
-burdies
 broommaking
 balmily
 bago
@@ -7547,6 +7546,7 @@ bedote
 breezeless
 banes
 bevilled
+burdies
 butterbill
 bromometrically
 baronga
