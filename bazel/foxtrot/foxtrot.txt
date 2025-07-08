@@ -3103,6 +3103,7 @@ footwears
 frostflower
 fissioned
 fibbery
+frisesomorum
 fibbers
 fustin
 fiber
@@ -7202,7 +7203,6 @@ footless
 footlights
 forearming
 frockless
-frisesomorum
 filthless
 frecked
 fortnight
