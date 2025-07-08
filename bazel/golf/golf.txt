@@ -5375,7 +5375,6 @@ glimmer
 graphometry
 groundswell
 generall
-glucosid
 glycaemic
 grimmer
 glimmering
@@ -8541,6 +8540,7 @@ groggy
 gemel
 gravure
 gambeering
+glucosid
 gossameriness
 gradus
 gametically
