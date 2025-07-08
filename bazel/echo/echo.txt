@@ -2376,7 +2376,6 @@ energist
 enjeopard
 electrodeposition
 electrodes
-etherization
 elotherium
 electrodiagnosis
 esterling
@@ -8629,6 +8628,7 @@ embranglement
 equidistribution
 exect
 eutaxic
+etherization
 equidiurnal
 eelpouts
 eleutheromania
