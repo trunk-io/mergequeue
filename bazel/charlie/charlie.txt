@@ -2782,7 +2782,6 @@ cableman
 cannie
 cannier
 canning
-cannings
 chiccories
 cannister
 cannisters
@@ -11773,6 +11772,7 @@ claries
 corruptness
 cholo
 chaver
+cannings
 cholochrome
 cholocyanine
 cinematographic
