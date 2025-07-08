@@ -7921,7 +7921,6 @@ cyanided
 caenogenesis
 cichloid
 cerviciplex
-cervicispinal
 cervicitis
 cervicoauricular
 chippable
@@ -28060,6 +28059,7 @@ cramped
 colonalgia
 computerize
 conversions
+cervicispinal
 crampette
 crampfish
 constituter
