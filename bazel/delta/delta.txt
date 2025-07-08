@@ -5080,6 +5080,7 @@ drovy
 demographers
 denaturants
 dueller
+dovecots
 denaturing
 duplicand
 diminishingturns
@@ -12263,7 +12264,6 @@ discoursiveness
 deliquesce
 dwarfish
 durra
-dovecots
 disfrocking
 declaratively
 dysfunctional
