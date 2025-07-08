@@ -930,6 +930,7 @@ baker
 brumby
 bahadur
 beverage
+bowsman
 basiophthalmite
 bahay
 bahaist
@@ -13903,7 +13904,6 @@ bowline
 bacalaos
 baptizee
 biochemist
-bowsman
 bown
 bows
 brontograph
