@@ -2578,6 +2578,7 @@ glims
 gymnosophist
 genethlic
 glossopetra
+gearman
 grossify
 goatee
 glossosteresis
@@ -7980,7 +7981,6 @@ gravat
 gastrulas
 gunzian
 gasthauses
-gearman
 gleeking
 glassier
 gratae
