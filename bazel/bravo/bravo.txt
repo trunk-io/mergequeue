@@ -6780,7 +6780,6 @@ beroidae
 betimes
 berossos
 beround
-bendability
 berreaves
 bolos
 berret
@@ -17586,6 +17585,7 @@ blore
 belong
 bugle
 burgau
+bendability
 burgees
 braconidae
 barons
