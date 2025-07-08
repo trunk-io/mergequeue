@@ -8910,7 +8910,6 @@ chapleted
 countersmile
 clothesbasket
 chaplets
-chapon
 corrugators
 ce
 cuppa
@@ -28165,6 +28164,7 @@ cranioscopist
 craniotome
 cameos
 craniotomy
+chapon
 craniotopography
 craniums
 crankcases
