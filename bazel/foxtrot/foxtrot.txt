@@ -1630,6 +1630,7 @@ farcetta
 format
 fegary
 finfoot
+fowlfoot
 fooster
 favored
 feasibilities
@@ -9040,7 +9041,6 @@ flirtational
 fifteener
 flintified
 flux
-fowlfoot
 fared
 fightwite
 fowlings
