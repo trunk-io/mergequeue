@@ -2918,7 +2918,6 @@ cantabrigian
 cantalever
 cantaliver
 cackled
-cantaloup
 careerer
 cantaloupes
 catboat
@@ -31177,6 +31176,7 @@ cuprene
 cupreous
 carriers
 cupressinoxylon
+cantaloup
 cupressus
 campagus
 custode
