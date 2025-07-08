@@ -9741,7 +9741,6 @@ byssine
 budgy
 byssinosis
 backslapped
-buildingless
 babble
 bioenergetics
 beside
@@ -17282,6 +17281,7 @@ bunts
 boniest
 bantams
 bummel
+buildingless
 bummie
 bumming
 bummler
