@@ -928,7 +928,6 @@ bustier
 bagwork
 baker
 brumby
-bahadur
 beverage
 basiophthalmite
 bahay
@@ -9448,6 +9447,7 @@ birkeniidae
 birky
 birkremite
 boldine
+bahadur
 batonga
 birl
 begrease
