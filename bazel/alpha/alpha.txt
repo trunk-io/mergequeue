@@ -19936,7 +19936,6 @@ aiguellette
 armlike
 armload
 armlock
-armoires
 armonicas
 armor
 armoracia
@@ -22834,6 +22833,7 @@ atophan
 academism
 atorai
 atour
+armoires
 amitie
 apathia
 atoxyl
