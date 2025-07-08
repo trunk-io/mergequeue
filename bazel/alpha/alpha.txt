@@ -1093,6 +1093,7 @@ abundant
 anachronical
 abundantly
 abune
+amnesties
 abura
 ausubo
 aburban
@@ -21405,7 +21406,6 @@ aspects
 aspen
 aspens
 asper
-amnesties
 amenage
 alluvia
 asperate
