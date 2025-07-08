@@ -5916,7 +5916,6 @@ betaines
 bradmaker
 bellwort
 belock
-beloeilite
 basimesostasis
 belomancy
 belonephobia
@@ -12456,6 +12455,7 @@ bells
 boukit
 bescrawl
 booklists
+beloeilite
 bisymmetrically
 budlike
 boohoo
