@@ -1065,6 +1065,7 @@ enslavedness
 epipleura
 enameloma
 elberta
+editchar
 expeditions
 electronegativity
 exadversum
@@ -9732,7 +9733,6 @@ excitable
 ensearcher
 espingole
 equaling
-editchar
 espino
 erythroplastid
 evilsayer
