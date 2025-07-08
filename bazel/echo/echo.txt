@@ -5965,7 +5965,6 @@ emprosthotonos
 encoffin
 effate
 enhuile
-enhunger
 emissary
 exhilarates
 erythrose
@@ -14196,6 +14195,7 @@ equidistance
 exportations
 exurge
 exuscitate
+enhunger
 enlists
 effecters
 enow
