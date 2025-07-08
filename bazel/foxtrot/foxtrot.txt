@@ -7867,6 +7867,7 @@ foreshots
 furfuraldehyde
 facings
 flenses
+feedable
 franger
 firestorm
 foreprize
@@ -10387,7 +10388,6 @@ fronting
 fizzle
 focus
 furoid
-feedable
 feared
 frangipanis
 fatalist
