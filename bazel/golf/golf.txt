@@ -3542,6 +3542,7 @@ glovers
 galactoid
 goetae
 gales
+glaive
 granitification
 ghastliness
 ghatwazi
@@ -7299,7 +7300,6 @@ goldlike
 gossip
 gratify
 gossiped
-glaive
 glittering
 gossipee
 griffon
