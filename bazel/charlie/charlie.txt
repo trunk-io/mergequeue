@@ -13705,7 +13705,6 @@ cymbidium
 cymbiform
 copartner
 cymbocephalous
-cymbopogon
 cote
 cimbrian
 cimbric
@@ -18448,6 +18447,7 @@ calorize
 cognatus
 cementum
 cognisable
+cymbopogon
 chiragrical
 catholicized
 cognisableness
