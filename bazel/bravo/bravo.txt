@@ -606,7 +606,6 @@ bacteremic
 bacteriaceae
 blooddrops
 bacteriaemia
-bacterially
 bacterioblast
 brooched
 bactericide
@@ -10367,6 +10366,7 @@ bowpin
 blanc
 beneath
 baltimorite
+bacterially
 bergomask
 bumbler
 ballist
