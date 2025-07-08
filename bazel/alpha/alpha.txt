@@ -6472,7 +6472,6 @@ ahi
 azotometer
 algaesthesis
 antinomian
-amebula
 ahir
 ahistoric
 alternant
@@ -7147,6 +7146,7 @@ assignation
 al
 archaeus
 autoregulation
+amebula
 antibiotics
 argovian
 antiodontalgic
