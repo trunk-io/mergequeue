@@ -2110,6 +2110,7 @@ fieldfare
 frory
 feldspathoid
 foys
+foliaged
 forehook
 flammably
 flocky
@@ -6853,7 +6854,6 @@ frederick
 fruitist
 forewords
 forger
-foliaged
 fustigator
 fussify
 flipjack
