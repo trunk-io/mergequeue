@@ -2042,6 +2042,7 @@ fissipeds
 fogging
 fide
 feere
+funest
 firster
 fautor
 fours
@@ -5229,7 +5230,6 @@ foreclaw
 fuchsia
 frumpery
 foozler
-funest
 fraternizes
 formylating
 fictionising
