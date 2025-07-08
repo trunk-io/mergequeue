@@ -4877,6 +4877,7 @@ globularity
 guest
 greensand
 grudge
+gangism
 greeter
 glaizie
 genappe
@@ -7524,7 +7525,6 @@ grando
 generousness
 gruffer
 gownsmen
-gangism
 grassweed
 gledge
 gemels
