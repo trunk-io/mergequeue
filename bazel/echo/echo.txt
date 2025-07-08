@@ -2987,7 +2987,6 @@ elisor
 escobedo
 elissa
 expeditor
-eyereach
 edestan
 elitism
 experimentator
@@ -11351,6 +11350,7 @@ encephalomeric
 evenworthy
 eventual
 eozoic
+eyereach
 eve
 exorcistical
 epixylous
