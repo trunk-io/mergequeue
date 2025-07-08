@@ -5600,7 +5600,6 @@ beknotted
 burrio
 brassicaceous
 beknottedly
-basophile
 biotype
 beknow
 blimpishly
@@ -10236,6 +10235,7 @@ beparse
 blacklists
 brainer
 beclamour
+basophile
 banian
 bataleur
 bisexual
