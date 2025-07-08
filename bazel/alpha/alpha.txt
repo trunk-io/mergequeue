@@ -3302,7 +3302,6 @@ archery
 atelets
 adamellite
 allosyndesis
-antihierarchic
 adamine
 arborescence
 adamite
@@ -15624,6 +15623,7 @@ antinovelist
 antinucleons
 amygdalitis
 aeolight
+antihierarchic
 acrocontracture
 antiochian
 arthrosia
