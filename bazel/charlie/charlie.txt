@@ -28905,7 +28905,6 @@ crewless
 crewman
 crewmanship
 crewmen
-crewneck
 capsheaf
 chaetognathan
 crex
@@ -29421,6 +29420,7 @@ culicidal
 crispine
 crisping
 crispins
+crewneck
 citramide
 crisply
 cremometer
