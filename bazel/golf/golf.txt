@@ -5406,7 +5406,6 @@ guardian
 geared
 ghilzai
 glyoxalic
-galliwasp
 guniter
 glyphic
 gambist
@@ -9015,6 +9014,7 @@ gramashes
 granatum
 gleyde
 gorhens
+galliwasp
 gastroenterologic
 gaper
 givin
