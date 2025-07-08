@@ -5085,6 +5085,7 @@ fatteners
 flaperon
 flippantly
 flirter
+frayproof
 flappable
 foremark
 frankalmoin
@@ -7695,7 +7696,6 @@ finnack
 forbathe
 fernier
 foresense
-frayproof
 foreigneering
 flaggelated
 flipping
