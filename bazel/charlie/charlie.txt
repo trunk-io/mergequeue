@@ -2445,7 +2445,6 @@ centgener
 cancha
 canchalagua
 cropsickness
-cherubically
 cancion
 cancionero
 canciones
@@ -27316,6 +27315,7 @@ cornbrash
 cowal
 concatenating
 couponless
+cherubically
 coupons
 coups
 chemicking

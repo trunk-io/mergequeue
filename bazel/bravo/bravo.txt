@@ -2242,7 +2242,6 @@ bassoons
 barbarise
 barbarised
 benzazimide
-barbarising
 bronstrops
 barbarity
 barbarities
@@ -6591,6 +6590,7 @@ bahima
 berberidaceae
 broils
 berberidaceous
+barbarising
 berberis
 berberry
 berceuses
