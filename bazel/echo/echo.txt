@@ -5019,7 +5019,6 @@ eyedropper
 eumitotic
 endhand
 echinocereus
-emboweled
 epichindrotic
 endia
 endiadem
@@ -5920,6 +5919,7 @@ enhancements
 enfief
 enhancing
 enharbour
+emboweled
 electrometallurgy
 exocytosis
 endsweep
