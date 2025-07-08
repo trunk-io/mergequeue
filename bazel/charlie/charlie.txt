@@ -1283,7 +1283,6 @@ calibrated
 calibrater
 calibrates
 confectionaries
-cloison
 catchwater
 calibrating
 calibre
@@ -5180,6 +5179,7 @@ cyberneticists
 cherimolla
 casein
 caseinate
+cloison
 cancriform
 canvaser
 chaprassi
