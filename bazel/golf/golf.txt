@@ -814,6 +814,7 @@ guttable
 gyppo
 gletty
 galoots
+glottalized
 ginney
 gravicembali
 gutturalise
@@ -7463,7 +7464,6 @@ glossopharyngeal
 glitch
 guessable
 gymnogen
-glottalized
 grafship
 governed
 graecizing
