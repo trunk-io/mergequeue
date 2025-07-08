@@ -5379,7 +5379,6 @@ glucosid
 glycaemic
 grimmer
 glimmering
-garrulus
 guanidin
 glimmeringly
 gadroons
@@ -7177,6 +7176,7 @@ grater
 gonial
 gymnocarpous
 galahad
+garrulus
 gonoblastidial
 grabbler
 globulose
