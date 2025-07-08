@@ -15244,7 +15244,6 @@ being
 blister
 bridewort
 bridge
-bighorn
 budtime
 bridgebuilder
 bridgehead
@@ -17089,6 +17088,7 @@ bullet
 bulleted
 byepath
 bequeather
+bighorn
 bulletheadedness
 baptornis
 bayard
