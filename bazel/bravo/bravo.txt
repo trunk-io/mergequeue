@@ -2980,7 +2980,6 @@ bedumb
 barsac
 backhatch
 becowarding
-bioassay
 blarneyer
 barstools
 bart
@@ -3840,6 +3839,7 @@ breakbones
 bulldoze
 billers
 bavian
+bioassay
 bodeful
 bawarchi
 bawble
