@@ -207,7 +207,6 @@ bismanol
 beguiling
 bloodwood
 bolivian
-bees
 biriani
 bushrope
 bookiness
@@ -11645,6 +11644,7 @@ boaster
 boastfully
 boastfulness
 bacchus
+bees
 boasts
 bryologist
 bosket
