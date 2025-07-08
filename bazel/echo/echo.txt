@@ -760,7 +760,6 @@ edriophthalmous
 endermatic
 effascinate
 exuvium
-ecotype
 ecotypes
 ecotipically
 epigeic
@@ -5601,6 +5600,7 @@ enfolded
 exceptionalness
 engendrure
 edenization
+ecotype
 ethiopia
 euthanatize
 evibrate
