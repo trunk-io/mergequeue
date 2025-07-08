@@ -2820,6 +2820,7 @@ barotrauma
 bulgurs
 bravest
 burbling
+buglosses
 barotraumas
 bostons
 barotropic
@@ -16909,7 +16910,6 @@ bugleweed
 buffer
 bressomer
 bugling
-buglosses
 bugong
 burrah
 balloonlike
