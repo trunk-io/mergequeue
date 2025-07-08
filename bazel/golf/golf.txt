@@ -3359,7 +3359,6 @@ gerrhosaurid
 glossolaryngeal
 globularia
 gourmets
-gerrymander
 goldwater
 gerrymanders
 guilts
@@ -8052,6 +8051,7 @@ graustark
 grindelia
 gastrostomize
 gristmill
+gerrymander
 galop
 grantors
 grantsman
