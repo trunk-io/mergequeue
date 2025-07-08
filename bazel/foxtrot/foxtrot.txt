@@ -5072,6 +5072,7 @@ forepaw
 ferries
 fungate
 fizz
+figgery
 forekeel
 faithbreaker
 faconne
@@ -5278,7 +5279,6 @@ fstore
 flot
 fissiped
 frilal
-figgery
 flavoured
 flavourful
 fieldy
