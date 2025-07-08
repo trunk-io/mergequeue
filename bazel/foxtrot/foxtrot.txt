@@ -4602,7 +4602,6 @@ fisticuff
 fort
 fouldre
 familiarness
-fainaigued
 fisting
 faithfulness
 flattest
@@ -11564,6 +11563,7 @@ fusil
 frictionized
 figurations
 feedback
+fainaigued
 friskful
 fusile
 flytier

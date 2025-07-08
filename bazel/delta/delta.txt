@@ -5911,7 +5911,6 @@ definitiveness
 diagnoses
 deleting
 droshky
-depredatory
 deontic
 disembargoed
 deodars
@@ -17238,6 +17237,7 @@ diol
 drivership
 dmarche
 drives
+depredatory
 dredgings
 disulfate
 devotee
