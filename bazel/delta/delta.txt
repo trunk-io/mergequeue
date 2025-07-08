@@ -3567,7 +3567,6 @@ dislimb
 diethylamine
 disenchanter
 defunctionalize
-defuses
 defusion
 demidigested
 deformalize
@@ -17907,6 +17906,7 @@ duer
 dues
 downsome
 duessa
+defuses
 delayingly
 duets
 demulce
