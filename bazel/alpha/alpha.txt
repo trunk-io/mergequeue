@@ -504,7 +504,6 @@ abjudicated
 arthel
 antennas
 assmannshauser
-abjudicator
 abjugate
 abjunct
 assonantal
@@ -8703,6 +8702,7 @@ alleles
 anoxidative
 anemology
 alleleu
+abjudicator
 allelic
 allelism
 almes
