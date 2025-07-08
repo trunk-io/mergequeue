@@ -1338,6 +1338,7 @@ fissipedial
 fastnesses
 flimsilyst
 fhrer
+fraiser
 filmcard
 fixage
 fancywork
@@ -4470,7 +4471,6 @@ fenbank
 flanched
 frogwort
 frenghi
-fraiser
 flogmaster
 fledgier
 floppiest
