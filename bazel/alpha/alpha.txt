@@ -2766,7 +2766,6 @@ acrospore
 acroclinium
 acrocomia
 acrocoracoid
-acrodactyla
 acrodermatitis
 acrodynia
 anapophyses
@@ -22243,6 +22242,7 @@ astream
 arteriopalmus
 adamically
 antigrammatically
+acrodactyla
 astrictive
 astrictively
 amrelle
