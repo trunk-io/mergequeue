@@ -2441,7 +2441,6 @@ ethanol
 electrogalvanization
 ethicist
 electrogenetic
-equivalence
 electrogenic
 electrogild
 eudemonia
@@ -5350,6 +5349,7 @@ exosepsis
 evilspeaking
 expatriations
 evzones
+equivalence
 endocline
 epicrystalline
 encoring
