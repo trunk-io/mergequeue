@@ -6134,7 +6134,6 @@ floccilation
 flounced
 flouncing
 flounder
-frowardness
 faraway
 faciata
 flourish
@@ -10886,6 +10885,7 @@ fasciculus
 fulleries
 finfish
 fleets
+frowardness
 fannon
 fados
 flivver
