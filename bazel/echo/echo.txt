@@ -6263,7 +6263,6 @@ epitapher
 educative
 eradiation
 enostosis
-elisions
 erugatory
 espresso
 enoughs
@@ -9306,6 +9305,7 @@ existences
 engraftation
 errancies
 endospermous
+elisions
 entrapments
 egressing
 electra
