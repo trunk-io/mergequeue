@@ -1742,7 +1742,6 @@ blasthole
 balsaminaceae
 beneplacit
 balsamine
-basongo
 become
 balsamitic
 balsamiticness
@@ -5584,6 +5583,7 @@ belatedness
 bekah
 bekinkinite
 bedframe
+basongo
 basilican
 bewreak
 bekiss
