@@ -5147,7 +5147,6 @@ geochemical
 guzzler
 gainsay
 gunbright
-grandioseness
 gaussbergite
 gleamy
 grapelet
@@ -8809,6 +8808,7 @@ gm
 gunne
 gadabout
 greegrees
+grandioseness
 geoprumnon
 gooses
 girrit
