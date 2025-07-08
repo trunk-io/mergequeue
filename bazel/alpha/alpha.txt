@@ -5033,7 +5033,6 @@ albruna
 allantoidal
 aerotonometric
 antepagmenta
-aerotropism
 allantois
 aeruginous
 aerugo
@@ -6603,6 +6602,7 @@ aquiline
 agorae
 aik
 aikane
+aerotropism
 automatictacessing
 aikido
 apogalacteum
