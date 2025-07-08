@@ -3334,7 +3334,6 @@ basoid
 baraithas
 beltine
 blennoma
-breast
 blowfish
 bellote
 buoyant
@@ -13217,6 +13216,7 @@ bifer
 benzoyl
 barundi
 bosom
+breast
 blemmyes
 botryoidal
 bosomed
