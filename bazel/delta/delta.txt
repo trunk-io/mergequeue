@@ -3965,7 +3965,6 @@ delactation
 distensibility
 delayable
 demes
-delayer
 delayful
 dooli
 devitalisation
@@ -14034,6 +14033,7 @@ distorter
 distorters
 distress
 dystonias
+delayer
 dismount
 distorting
 dactylioglyphy
