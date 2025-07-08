@@ -2304,6 +2304,7 @@ gimcracks
 gelees
 geologist
 genomic
+gasterosteoid
 gagroot
 greengrocer
 gutturalisation
@@ -6759,7 +6760,6 @@ gyrostatics
 genal
 genros
 goniums
-gasterosteoid
 glanis
 gradate
 gestures
