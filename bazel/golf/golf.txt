@@ -4431,7 +4431,6 @@ gipon
 gaetulan
 gunlayer
 gypped
-giardia
 gyp
 gundog
 greffier
@@ -6211,6 +6210,7 @@ galactosan
 goatsbeard
 guestimate
 gavotting
+giardia
 glossarist
 glucosidase
 gonne
