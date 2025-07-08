@@ -2578,6 +2578,7 @@ ferrateen
 feudal
 functionize
 ferritic
+filamentar
 fiducial
 frush
 flunky
@@ -5590,7 +5591,6 @@ flyby
 fratch
 flybys
 fallaciously
-filamentar
 fiendlike
 fellatrixes
 flaxlike
