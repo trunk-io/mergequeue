@@ -1185,7 +1185,6 @@ campimetrical
 caldrons
 charry
 calean
-cystorrhea
 calebite
 calebites
 cichar
@@ -14384,6 +14383,7 @@ circumjacence
 circumjacency
 circumjovial
 circumlitio
+cystorrhea
 circumlittoral
 circumlocute
 circumlocution
