@@ -3023,7 +3023,6 @@ educt
 eumycetic
 elkslip
 enharbor
-elkuma
 elkwood
 etherean
 epicenter
@@ -8778,6 +8777,7 @@ ecchymotic
 explodable
 equities
 equivalenced
+elkuma
 equivalent
 equivaluer
 exposited
