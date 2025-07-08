@@ -2508,6 +2508,7 @@ candidness
 candidnesses
 candids
 crawlie
+connecters
 cantorial
 countermands
 coasters
@@ -22593,7 +22594,6 @@ connectable
 connected
 connectedly
 connecter
-connecters
 confabbed
 chiaroscurist
 connectible
