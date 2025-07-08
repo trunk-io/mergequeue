@@ -1723,6 +1723,7 @@ accusal
 accusant
 animadvert
 aristocracies
+avowed
 acipenserid
 accusants
 accusation
@@ -24867,7 +24868,6 @@ avowably
 ambivalently
 avowals
 archrebel
-avowed
 aseptic
 avowedly
 avower
