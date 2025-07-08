@@ -8767,7 +8767,6 @@ belonged
 bruisers
 bosc
 blightbird
-beagling
 barycentre
 birchen
 binal
@@ -10720,6 +10719,7 @@ blellums
 blemished
 byelorussians
 bogeys
+beagling
 blemishment
 brandies
 blemmatrope
