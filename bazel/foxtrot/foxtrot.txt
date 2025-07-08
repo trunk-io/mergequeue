@@ -6226,7 +6226,6 @@ fulgurate
 foretops
 feebling
 fleabugs
-fovent
 frenal
 flagmaker
 furbished
@@ -8397,6 +8396,7 @@ fm
 fecundations
 filcher
 fucatious
+fovent
 forethough
 form
 fluoroscopes
