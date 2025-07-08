@@ -4397,7 +4397,6 @@ caricology
 cloches
 crisper
 carpers
-counterslope
 crum
 caricologist
 cowlstaff
@@ -26636,6 +26635,7 @@ counsellor
 counsellors
 counselor
 countability
+counterslope
 cellos
 ciliolum
 countably
