@@ -3812,6 +3812,7 @@ deicers
 deicidal
 deicides
 deicing
+disjunctor
 dismutation
 deictical
 dissevered
@@ -8650,7 +8651,6 @@ disennoble
 drainless
 duckhouse
 dyarchies
-disjunctor
 davis
 dinge
 debugging
