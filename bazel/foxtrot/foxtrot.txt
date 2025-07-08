@@ -3176,7 +3176,6 @@ frowstier
 fogbank
 facsimile
 fibrocement
-faint
 federalness
 fluentness
 formulas
@@ -10017,6 +10016,7 @@ framableness
 fenceless
 fanga
 forerevelation
+faint
 frilled
 flacons
 finicky
