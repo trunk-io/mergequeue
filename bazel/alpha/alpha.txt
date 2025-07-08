@@ -4854,7 +4854,6 @@ antipedal
 arenite
 areek
 aerodrome
-aerodromes
 arbitrating
 acetyltannin
 aeroelastic
@@ -19028,6 +19027,7 @@ archantiquary
 arnebia
 astaticism
 adhering
+aerodromes
 astronautical
 airmailed
 archocele
