@@ -5735,7 +5735,6 @@ etymologic
 exampless
 engineers
 engineless
-engineman
 eudidymite
 egalites
 engineries
@@ -6052,6 +6051,7 @@ enumerates
 enkidu
 ekatantalum
 excursus
+engineman
 empaler
 enhydrinae
 exemplifier
