@@ -5012,7 +5012,6 @@ aerostatical
 attainments
 argas
 aerosteam
-aethalioid
 antapex
 aerotaxis
 actinodrome
@@ -16747,6 +16746,7 @@ aphelian
 anthophagy
 audacity
 aphelilia
+aethalioid
 abstricts
 aphemia
 ambidextrous
