@@ -9072,7 +9072,6 @@ equiponderous
 erythrasma
 erythremia
 esculapian
-equisetum
 erythric
 expertized
 eteocretes
@@ -13613,6 +13612,7 @@ endoparasitism
 extends
 emblemed
 eponychium
+equisetum
 extensibility
 epilemma
 extensions
