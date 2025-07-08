@@ -2727,7 +2727,6 @@ fortissimi
 fylfots
 fertilizational
 funeral
-fallowed
 fantoccini
 foremelt
 foghorns
@@ -3520,6 +3519,7 @@ fiftieth
 forseen
 figaro
 florilegia
+fallowed
 figeater
 floriate
 fascisti
