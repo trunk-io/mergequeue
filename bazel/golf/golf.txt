@@ -2000,6 +2000,7 @@ gnomologic
 greiges
 guazuti
 gavelock
+gyration
 gobinist
 grunion
 gripple
@@ -8912,7 +8913,6 @@ grieko
 gecked
 gridded
 glossopalatinus
-gyration
 greund
 gurgulation
 gentianin
