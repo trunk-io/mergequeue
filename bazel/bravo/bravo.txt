@@ -5450,7 +5450,6 @@ brachioradial
 brisling
 brooklynite
 behaviours
-baviere
 balai
 bandying
 bandura
@@ -12088,6 +12087,7 @@ bojo
 bokhara
 baronized
 bokharan
+baviere
 bokom
 bola
 bolag
