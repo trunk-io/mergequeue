@@ -5105,7 +5105,6 @@ gyps
 glaucophanite
 goldcrest
 gallinaginous
-guerdon
 gammick
 gravelous
 geologised
@@ -7138,6 +7137,7 @@ gloryful
 generalship
 gospoda
 glycan
+guerdon
 gillotage
 granuloma
 goopy
