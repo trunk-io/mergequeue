@@ -35,7 +35,6 @@ fabricator
 formularize
 flintless
 flintworker
-furies
 farmscape
 flick
 finically
@@ -4566,6 +4565,7 @@ finickiest
 fissirostrate
 fusser
 finjan
+furies
 fundmonger
 fissura
 frugal
