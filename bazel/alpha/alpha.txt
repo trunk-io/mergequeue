@@ -15290,7 +15290,6 @@ aitiotropic
 antihemagglutinin
 antihemisphere
 antilopine
-antihero
 azulejo
 antihierarchy
 aidless
@@ -19606,6 +19605,7 @@ aryballus
 arybballi
 argol
 aricin
+antihero
 archichlamydeous
 arided
 adhesions
