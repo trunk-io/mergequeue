@@ -14257,6 +14257,7 @@ cardioneural
 circulant
 circular
 colistins
+conicoid
 chuffing
 coffers
 cryalgesia
@@ -18162,7 +18163,6 @@ coenobic
 catostomoid
 cissoid
 coenobioid
-conicoid
 coenobite
 contentless
 cardinalism
