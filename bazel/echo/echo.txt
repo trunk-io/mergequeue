@@ -1312,7 +1312,6 @@ effaceable
 effaced
 elliptical
 effacers
-encapsules
 effare
 exhilarated
 exumbrellar
@@ -5016,6 +5015,7 @@ enneads
 extorsively
 emplane
 eyedropper
+encapsules
 eumitotic
 endhand
 echinocereus
