@@ -2946,7 +2946,6 @@ forestair
 forwarding
 fibrillose
 faeries
-fluky
 ferlies
 funks
 fetterlock
@@ -9684,6 +9683,7 @@ frowsty
 fubbed
 fromage
 foredivine
+fluky
 fletcher
 fregata
 frisolee
