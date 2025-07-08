@@ -259,7 +259,6 @@ bootmaking
 bloodroot
 bacilary
 bacile
-bacillaceae
 brarow
 bacillariaceae
 baldric
@@ -4595,6 +4594,7 @@ bedchairs
 bellowing
 buntal
 bryophyte
+bacillaceae
 branchial
 brachelytrous
 bedcovers
