@@ -2190,7 +2190,6 @@ alginic
 amphioxides
 anomalipod
 achroma
-actinal
 aperistalsis
 abattue
 achromatically
@@ -7991,6 +7990,7 @@ aleuronic
 aleurons
 aleut
 aleutic
+actinal
 alevin
 agnatically
 aprilis
