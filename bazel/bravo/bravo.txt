@@ -4305,7 +4305,6 @@ backcourtman
 bebrother
 blouselike
 bebrush
-bebuttoned
 bowtie
 barkeepers
 blubbers
@@ -12404,6 +12403,7 @@ betterly
 bassariscus
 buckram
 befingering
+bebuttoned
 blindless
 bonbonnieres
 bibliophilist
