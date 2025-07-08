@@ -1081,7 +1081,6 @@ gowdy
 goularo
 gormandizers
 genitives
-ganister
 groat
 gawkies
 grannies
@@ -8793,6 +8792,7 @@ gonogenesis
 gregariously
 glaciologic
 grazed
+ganister
 geranomorphae
 grossularia
 germain
