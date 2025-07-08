@@ -2735,6 +2735,7 @@ bukeyef
 barology
 blockbusters
 balsam
+besnows
 barolong
 bombax
 boroughship
@@ -10377,7 +10378,6 @@ blancher
 blanches
 blancmange
 buntlines
-besnows
 blancmanges
 beanfeaster
 biggest
