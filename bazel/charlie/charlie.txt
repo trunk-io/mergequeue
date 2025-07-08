@@ -7293,7 +7293,6 @@ centrifugaller
 cladoceran
 centrifugate
 centrifuge
-centrifugence
 centrifuging
 coffeehousing
 centring
@@ -25872,6 +25871,7 @@ chemoautotrophically
 corseleted
 contradicting
 cornish
+centrifugence
 collatable
 corseleting
 cloudier
