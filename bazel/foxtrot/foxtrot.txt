@@ -1024,7 +1024,6 @@ fardel
 flannelmouth
 foxhound
 fusion
-fardelet
 futtah
 fards
 firethorn
@@ -3996,6 +3995,7 @@ fireboxes
 fluoresces
 flemish
 fluoranthene
+fardelet
 foeniculum
 fictionmonger
 furcating
