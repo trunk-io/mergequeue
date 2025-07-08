@@ -24716,7 +24716,6 @@ copperskin
 ciderist
 coppersmith
 coppersmithing
-copperware
 copperwing
 cladodes
 cruelest
@@ -25449,6 +25448,7 @@ cajang
 czars
 cornua
 cornual
+copperware
 cornuated
 christlikeness
 coelastraceae
