@@ -1333,6 +1333,7 @@ balboa
 bethlehem
 bookdealer
 bioplastic
+beetroots
 balboas
 barrowcoat
 brod
@@ -5032,7 +5033,6 @@ beetrave
 beetrooty
 bedunces
 bronzings
-beetroots
 becarve
 beeway
 beeweed
