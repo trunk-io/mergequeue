@@ -4767,6 +4767,7 @@ blast
 bedribble
 bureaucratic
 bhalu
+benign
 burglarizes
 barque
 billfold
@@ -6236,7 +6237,6 @@ bituminization
 buzzed
 bandalore
 benighter
-benign
 barked
 brittlestem
 basidiolichenes
