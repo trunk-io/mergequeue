@@ -10911,7 +10911,6 @@ deindustrialize
 daekon
 disedge
 dirigo
-dirity
 dirked
 dhabb
 drawbored
@@ -12275,6 +12274,7 @@ deluding
 deviators
 dysfunctions
 disfurnish
+dirity
 disfurnished
 dangerless
 desulfurating
