@@ -3659,7 +3659,6 @@ gasterosteus
 groundedness
 garnierite
 ghoulishly
-gastrocystis
 gladly
 gyse
 granaries
@@ -6087,6 +6086,7 @@ greenbone
 grogging
 gnetales
 gastrogenous
+gastrocystis
 guffy
 guessworker
 goodby
