@@ -2619,6 +2619,7 @@ amphigonous
 assuaging
 acquittal
 acquittance
+attained
 almacenista
 acquitted
 ashkenazim
@@ -16555,7 +16556,6 @@ anack
 apabhramsa
 acutorsion
 apache
-attained
 apachite
 apadana
 apaesthetic
