@@ -7465,7 +7465,6 @@ guessable
 gymnogen
 glottalized
 grafship
-governed
 graecizing
 governesses
 governing
@@ -10045,6 +10044,7 @@ globulimeter
 guerison
 guerites
 gage
+governed
 geitjie
 graveolency
 gyneconitis
