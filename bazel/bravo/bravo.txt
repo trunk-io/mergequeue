@@ -5406,7 +5406,6 @@ brodeglass
 biographical
 begrutten
 beguess
-beguilement
 biunial
 beguilements
 biferous
@@ -12666,6 +12665,7 @@ boogeymen
 bane
 bellical
 buhrs
+beguilement
 bec
 bolivares
 bestraddling
