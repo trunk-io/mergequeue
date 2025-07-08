@@ -3334,6 +3334,7 @@ essentialities
 equus
 esquirearchy
 emoted
+emprizes
 egal
 explorator
 excursioner
@@ -4196,7 +4197,6 @@ externship
 emptor
 eggeater
 evagination
-emprizes
 epicycloid
 ebbs
 enunciative
