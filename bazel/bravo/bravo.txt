@@ -2146,7 +2146,6 @@ bewield
 baphometic
 blandfordia
 buphthalmia
-behung
 botrychium
 backup
 blahlaut
@@ -4847,6 +4846,7 @@ bedunced
 bourgeon
 benames
 bartholomew
+behung
 blephara
 briefings
 bedsitter
