@@ -9764,7 +9764,6 @@ castoroides
 cafuso
 cheesebox
 cheeseburger
-cheeseburgers
 cheesecake
 crees
 clyfaker
@@ -28091,6 +28090,7 @@ crane
 craned
 cerveliere
 cichoriaceae
+cheeseburgers
 cranelike
 cautionry
 cholesterinuria
