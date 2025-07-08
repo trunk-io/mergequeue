@@ -4898,7 +4898,6 @@ encumberer
 equibalance
 entablements
 excisions
-ef
 esteemable
 encumbrance
 extrabureau
@@ -6984,6 +6983,7 @@ evections
 evangelicality
 enjoyableness
 entosternal
+ef
 eleganter
 eroticist
 endarteria
