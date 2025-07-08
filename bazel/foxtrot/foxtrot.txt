@@ -8596,6 +8596,7 @@ fainters
 famishment
 floodmark
 fabes
+feverroot
 farmplace
 frequence
 fiscs
@@ -9891,7 +9892,6 @@ fogeys
 feridgi
 forefelt
 feterita
-feverroot
 fluviomarine
 foolishness
 fosses
