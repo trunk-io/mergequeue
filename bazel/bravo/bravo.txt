@@ -3863,7 +3863,6 @@ birthbed
 bullpouts
 babus
 bawdrics
-bawdries
 bawl
 bevelment
 bawled
@@ -5172,6 +5171,7 @@ baguette
 burbank
 bluebead
 bordereau
+bawdries
 baselard
 befretting
 befume
