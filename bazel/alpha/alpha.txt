@@ -3859,7 +3859,6 @@ adjoust
 adjt
 aleyrodidae
 adjudging
-adjudgment
 adjudicate
 autarkik
 adjudicated
@@ -4828,6 +4827,7 @@ amas
 amoebous
 arkwright
 aerodermectasia
+adjudgment
 aerodynamical
 aerodynamically
 appoggiatura
