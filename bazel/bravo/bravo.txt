@@ -1418,7 +1418,6 @@ boxinesses
 bombastically
 baleless
 boun
-balestra
 batoneer
 boscages
 bouffants
@@ -10609,6 +10608,7 @@ besayle
 bereft
 bohemia
 blaunner
+balestra
 bein
 blawing
 blawn
