@@ -5398,7 +5398,6 @@ concessive
 casteless
 chifforobes
 chimerical
-castellany
 crizzling
 castellanies
 castellano
@@ -7091,6 +7090,7 @@ censurably
 cutlips
 censure
 censureless
+castellany
 coexecutant
 coddling
 census
