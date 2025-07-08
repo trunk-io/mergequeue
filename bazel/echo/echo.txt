@@ -6052,6 +6052,7 @@ enumerates
 enkidu
 ekatantalum
 excursus
+enlace
 empaler
 enhydrinae
 exemplifier
@@ -11866,7 +11867,6 @@ entoproctous
 excaudate
 engracing
 excavator
-enlace
 excave
 eructated
 elutes
