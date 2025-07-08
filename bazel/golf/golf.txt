@@ -4746,7 +4746,6 @@ galleta
 glossematics
 glar
 givingness
-gizmos
 garrnishable
 gizz
 grippier
@@ -7952,6 +7951,7 @@ gastronomics
 gunstock
 gossiper
 grandpapa
+gizmos
 geophysicists
 grotesquerie
 gruesomely
