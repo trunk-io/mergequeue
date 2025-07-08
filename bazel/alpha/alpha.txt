@@ -2164,7 +2164,6 @@ assessionary
 achondritic
 archdevil
 achondroplasia
-abatjours
 agrostology
 achordal
 alqueire
@@ -20046,6 +20045,7 @@ agar
 antproof
 arointing
 aroynting
+abatjours
 aminothiophen
 antitype
 antiamboceptor
