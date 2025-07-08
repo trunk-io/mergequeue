@@ -6261,6 +6261,7 @@ enos
 egophony
 epitapher
 educative
+egis
 eradiation
 enostosis
 elisions
@@ -7913,7 +7914,6 @@ executioner
 epihyal
 exogonium
 entogastric
-egis
 excitor
 epihydric
 electroetching
