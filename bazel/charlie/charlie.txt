@@ -6438,7 +6438,6 @@ casefies
 columnwise
 cautela
 chancre
-cautelous
 cornfed
 camphoronic
 cautelously
@@ -28767,6 +28766,7 @@ crepuscular
 cavitate
 cornutine
 chafer
+cautelous
 crepusculine
 catenary
 cres
