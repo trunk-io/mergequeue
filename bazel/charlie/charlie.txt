@@ -5643,7 +5643,6 @@ cladocerans
 catalo
 cataloes
 cataloged
-character
 cariousness
 centi
 catalogia
@@ -16363,6 +16362,7 @@ clinometry
 clinometric
 cantos
 canisters
+character
 clinometrical
 calendal
 carvol
