@@ -1012,7 +1012,6 @@ excel
 enquiring
 exorbital
 edaphosaurus
-explosibility
 euthanasic
 enterocinetic
 epoxide
@@ -4408,6 +4407,7 @@ encapsuled
 estimators
 enure
 effectively
+explosibility
 encapsuling
 encaptivate
 essence
