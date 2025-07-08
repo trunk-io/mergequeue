@@ -4124,7 +4124,6 @@ cardigan
 cameoing
 cornmaster
 condalia
-cardin
 cardinal
 costoxiphoid
 cardinalates
@@ -22385,6 +22384,7 @@ congruency
 columella
 congruent
 congruism
+cardin
 congruist
 congruity
 congruously
