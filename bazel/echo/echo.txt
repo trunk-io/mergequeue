@@ -98,7 +98,6 @@ ecotone
 engraffed
 ephydridae
 epithelioma
-enumerate
 enchasten
 earpick
 earpiece
@@ -7462,6 +7461,7 @@ experiencing
 electromagnetist
 encolumn
 etruria
+enumerate
 etalon
 eperlan
 eperotesis
