@@ -1194,7 +1194,6 @@ educand
 emulsive
 educatability
 eident
-educatable
 educatedness
 electrolyzable
 eudiometric
@@ -5917,6 +5916,7 @@ execrators
 exaggerativeness
 edeitis
 enhancements
+educatable
 enfief
 enhancing
 enharbour
