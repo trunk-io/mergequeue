@@ -1928,7 +1928,6 @@ grossing
 gaultherin
 gaumed
 geomorphologist
-gaunch
 gangers
 gruelly
 gaunty
@@ -10663,6 +10662,7 @@ gorb
 gurgitation
 gladius
 gyric
+gaunch
 galp
 guardee
 gurgoyle
