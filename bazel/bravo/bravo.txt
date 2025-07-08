@@ -4312,7 +4312,6 @@ blubbers
 bushbodies
 batiker
 boebera
-barly
 becall
 becalm
 becalming
@@ -5313,6 +5312,7 @@ bugbite
 beginning
 bemirement
 beginnings
+barly
 begird
 broadsheet
 bundlerooted
