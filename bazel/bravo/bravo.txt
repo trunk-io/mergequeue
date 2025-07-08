@@ -1402,6 +1402,7 @@ balearica
 bisellium
 balebos
 baled
+brigid
 baleen
 balefire
 bobance
@@ -2249,7 +2250,6 @@ barbarities
 barbarization
 blateroon
 boucle
-brigid
 birthrights
 birdclapper
 blastment
