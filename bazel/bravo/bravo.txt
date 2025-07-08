@@ -187,7 +187,6 @@ bdrm
 bedlam
 bedin
 bristleless
-batholith
 bipartition
 balneum
 bitt
@@ -4300,6 +4299,7 @@ battledore
 bacterious
 bayish
 bebrave
+batholith
 bebreech
 backcourtman
 bebrother
