@@ -528,6 +528,7 @@ competence
 clogmaker
 carbuilder
 cungevoi
+circulus
 cadged
 cacao
 cadgers
@@ -14291,7 +14292,6 @@ consciencelessness
 concentricity
 catatonia
 circulators
-circulus
 cavaedium
 circumambiency
 circumambient
