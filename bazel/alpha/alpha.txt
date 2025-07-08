@@ -1618,7 +1618,6 @@ attire
 accoutrement
 angioclast
 accoutres
-accoutring
 accredit
 argenteum
 accreditate
@@ -13340,6 +13339,7 @@ anyways
 anywhen
 advertize
 ascill
+accoutring
 anywhence
 anywhither
 anywise
