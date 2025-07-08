@@ -2407,7 +2407,6 @@ electroencephalogram
 empeople
 entophytal
 espinel
-euphausid
 eudiometry
 epitaxial
 embira
@@ -10385,6 +10384,7 @@ extraquiz
 epibole
 ethnogeographic
 extirpator
+euphausid
 embillow
 emmarble
 electroplaque
