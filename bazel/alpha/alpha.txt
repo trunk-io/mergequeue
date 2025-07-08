@@ -6786,7 +6786,6 @@ aglipayan
 airfoil
 airfoils
 adiate
-airglow
 airglows
 airgraphics
 anisometropia
@@ -23320,6 +23319,7 @@ alighten
 alewhap
 audacities
 audad
+airglow
 aurora
 adoxaceous
 audads
