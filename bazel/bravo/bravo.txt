@@ -775,6 +775,7 @@ bads
 beeline
 besteading
 biometrical
+burgher
 bethorn
 blackout
 becker
@@ -17606,7 +17607,6 @@ baseballs
 burggrave
 burghbote
 brandished
-burgher
 burgherage
 beguine
 blowtubes
