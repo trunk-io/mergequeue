@@ -7382,6 +7382,7 @@ bootikins
 beautifications
 boluses
 blindfolds
+batons
 bowsprits
 betime
 blotching
@@ -11783,7 +11784,6 @@ baronesses
 burmannia
 barnful
 bluisness
-batons
 baglike
 billingsgate
 buckwheat
