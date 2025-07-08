@@ -1016,7 +1016,6 @@ azogreen
 award
 artifice
 arthrochondritis
-antidromous
 abtruse
 affluxes
 abstractions
@@ -6777,6 +6776,7 @@ asseverations
 ammoniacal
 airfare
 amyctic
+antidromous
 airfares
 airfield
 airflow
