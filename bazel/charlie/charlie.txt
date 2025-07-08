@@ -7184,7 +7184,6 @@ coquetoon
 centiday
 centigrado
 cannikin
-copt
 confluences
 centigrams
 centile
@@ -7300,6 +7299,7 @@ centring
 centrings
 clivia
 cavaedia
+copt
 centriole
 chalazogam
 codebreak
