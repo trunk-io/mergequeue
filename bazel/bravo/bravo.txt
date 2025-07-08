@@ -6710,6 +6710,7 @@ burghs
 babbles
 berytidae
 boblet
+bisected
 bortzes
 bergh
 brimmimg
@@ -9592,7 +9593,6 @@ biscutate
 bisdiapason
 binary
 bicapsular
-bisected
 bandlimits
 bisectors
 bisectrices
