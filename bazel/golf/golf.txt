@@ -3248,7 +3248,6 @@ gula
 gabback
 geneticists
 germanized
-germanizer
 germule
 germanness
 germinant
@@ -8809,6 +8808,7 @@ gm
 gunne
 gadabout
 greegrees
+germanizer
 geoprumnon
 gooses
 girrit
