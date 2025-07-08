@@ -8525,7 +8525,6 @@ autophyllogeny
 alkanol
 alkaphrah
 alkapton
-alkaptone
 ascent
 alkaptonuric
 alkarsin
@@ -22171,6 +22170,7 @@ annualize
 autoimmunized
 astonishedly
 asterismal
+alkaptone
 astonishes
 astonishingly
 anaphia
