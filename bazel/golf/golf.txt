@@ -625,7 +625,6 @@ gunslingers
 gillie
 geophysicist
 gallivanters
-glide
 gradatory
 guenepe
 gimps
@@ -889,6 +888,7 @@ gametocyte
 gurrah
 gametogenic
 gooseflesh
+glide
 gueparde
 glutathione
 geognost
