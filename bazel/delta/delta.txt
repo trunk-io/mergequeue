@@ -446,7 +446,6 @@ daytide
 daytimes
 disburthen
 disorderliness
-daywrit
 dakerhen
 designing
 disappointing
@@ -9447,6 +9446,7 @@ dist
 diffranchise
 dely
 directorial
+daywrit
 diadumenus
 durabilities
 diffrangible
