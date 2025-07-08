@@ -1670,6 +1670,7 @@ accubitus
 accueil
 accultural
 acculturate
+anemoscope
 acculturated
 acculturates
 anorganic
@@ -12480,7 +12481,6 @@ anemopathy
 astroscope
 antisudorific
 anemopsis
-anemoscope
 acquiescer
 antivice
 anticonformities
