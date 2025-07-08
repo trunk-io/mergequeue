@@ -12085,6 +12085,7 @@ boites
 baltetei
 balladier
 bojo
+burlington
 bokhara
 baronized
 bokharan
@@ -17718,7 +17719,6 @@ bismosol
 butteriness
 bratchet
 biont
-burlington
 broach
 bicornes
 buyer
