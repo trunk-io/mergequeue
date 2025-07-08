@@ -1283,7 +1283,6 @@ calibrated
 calibrater
 calibrates
 confectionaries
-cloison
 catchwater
 calibrating
 calibre
@@ -20786,6 +20785,7 @@ cupcake
 complicacy
 ceramiaceae
 complicant
+cloison
 coelomate
 camphanic
 complicate
