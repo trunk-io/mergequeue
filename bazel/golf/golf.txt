@@ -4817,6 +4817,7 @@ guillotines
 geoffroyin
 generalidad
 gritter
+gump
 gladful
 gunnel
 gnomonics
@@ -5512,7 +5513,6 @@ gasteria
 granulite
 gyrovagi
 gently
-gump
 gauffers
 guttiferous
 globes
