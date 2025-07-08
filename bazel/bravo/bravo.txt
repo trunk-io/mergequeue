@@ -5696,7 +5696,6 @@ biogeochemical
 bibliotaph
 belemnoidea
 beleper
-bicycle
 bathybic
 balandra
 butterpaste
@@ -7838,6 +7837,7 @@ birdseyes
 beshrouds
 brooklyn
 bazaars
+bicycle
 bicephalous
 bogman
 biface
