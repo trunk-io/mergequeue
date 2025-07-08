@@ -740,7 +740,6 @@ galvanoglyph
 gerbillinae
 gummiest
 gar
-goniometric
 gnawer
 guildry
 greenshank
@@ -6565,6 +6564,7 @@ gentianal
 guesswork
 gonycampsis
 geckotian
+goniometric
 gastradenitis
 grayhound
 gastrohyperneuria
