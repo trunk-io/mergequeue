@@ -19764,7 +19764,6 @@ combatant
 cimbalom
 combater
 combaters
-combating
 combative
 combativeness
 citizenship
@@ -29892,6 +29891,7 @@ crosshaul
 crosshauling
 chipper
 crossings
+combating
 crossite
 cinnamenyl
 crosslegs
