@@ -3893,7 +3893,6 @@ engreen
 emmers
 exogamic
 electrogalvanize
-emmetropy
 emmetropic
 equationally
 endplates
@@ -12995,6 +12994,7 @@ emotion
 expectorant
 expectorate
 expectorated
+emmetropy
 exculpate
 endosecretory
 etatisms
