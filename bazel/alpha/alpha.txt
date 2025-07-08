@@ -520,7 +520,6 @@ abjurers
 abkari
 amerism
 abkhasian
-ashtrays
 abl
 ablach
 asperities
@@ -1809,6 +1808,7 @@ anthropomorphous
 acephalist
 adumbratively
 acephalocyst
+ashtrays
 alveloz
 assembles
 assyriologist
