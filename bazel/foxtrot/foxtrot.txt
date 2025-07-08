@@ -4416,7 +4416,6 @@ frogfishes
 fathomed
 fishability
 froggier
-feltwork
 flybook
 fixion
 fishboats
@@ -11064,6 +11063,7 @@ foreknowableness
 functionation
 flappering
 fane
+feltwork
 factfinder
 flockless
 functionnaire
