@@ -13073,7 +13073,6 @@ continentality
 cyanides
 cyanidin
 cyanidrosis
-clothes
 cyanids
 cyanimide
 cyanine
@@ -15022,6 +15021,7 @@ cytostomal
 cordwood
 cytostromatic
 cytotactic
+clothes
 cardioaccelerator
 cerebroganglion
 cytotaxis
