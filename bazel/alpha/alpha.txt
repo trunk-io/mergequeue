@@ -1511,7 +1511,6 @@ accommodableness
 accommodate
 avicularimorphae
 accommodated
-adscriptive
 accommodating
 accommodatingness
 accommodations
@@ -12855,6 +12854,7 @@ anglings
 anglist
 anglistics
 anglogaea
+adscriptive
 anthemwise
 antennarius
 antiliturgically
