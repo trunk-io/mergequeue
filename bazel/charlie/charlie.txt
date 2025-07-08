@@ -14784,7 +14784,6 @@ cystospastic
 cited
 cystospore
 cystostomies
-cystotome
 cystotomy
 cystotomies
 castellan
@@ -16203,6 +16202,7 @@ cliffhangers
 coextending
 coccogonales
 crystallochemistry
+cystotome
 cliffhanging
 copemates
 cliffier
