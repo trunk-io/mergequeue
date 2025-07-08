@@ -6328,6 +6328,7 @@ ceroplast
 caulis
 caulivorous
 choanosomal
+colocentesis
 caulk
 casbahs
 caulkers
@@ -21540,7 +21541,6 @@ concrescence
 concrescible
 cephalohumeral
 concrescive
-colocentesis
 coerces
 concreted
 concretely
