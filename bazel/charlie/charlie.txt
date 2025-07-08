@@ -4326,7 +4326,6 @@ carex
 cottages
 carfare
 carfares
-carfloat
 coater
 carfuffle
 capiteaux
@@ -7093,6 +7092,7 @@ censure
 censureless
 coexecutant
 coddling
+carfloat
 census
 caecitis
 censusing
