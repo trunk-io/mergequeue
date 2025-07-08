@@ -21947,7 +21947,6 @@ cornfield
 clubrooms
 confessedly
 confesser
-confesses
 coiners
 crystallogy
 confessingly
@@ -22284,6 +22283,7 @@ cornered
 conglobate
 circumlocutional
 conglobating
+confesses
 cobhead
 cameleers
 ceorlish
