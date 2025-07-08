@@ -6099,6 +6099,7 @@ bequeathable
 beckett
 becowarded
 berat
+bowfront
 biochemistries
 benasty
 beholdable
@@ -8703,7 +8704,6 @@ bimalar
 bimana
 bimanal
 belleter
-bowfront
 binoxalate
 bimanous
 bradsot
