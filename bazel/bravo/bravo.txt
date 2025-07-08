@@ -1771,7 +1771,6 @@ buses
 biretta
 bedraggling
 balustrading
-bulbed
 bivvy
 balzarine
 bam
@@ -5665,6 +5664,7 @@ belches
 blowpipes
 blepharodiastasis
 brasiers
+bulbed
 bocher
 busks
 boraciferous
