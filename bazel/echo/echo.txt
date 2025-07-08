@@ -1989,7 +1989,6 @@ encyclopedist
 electrine
 edward
 ekka
-enolate
 exophoric
 ekphorias
 empetrum
@@ -9665,6 +9664,7 @@ exceptio
 esophagometer
 eupomatiaceae
 evoked
+enolate
 esophagomycosis
 esophagopathy
 esophagoplasty
