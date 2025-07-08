@@ -5208,6 +5208,7 @@ geomancer
 guardianships
 girouette
 gleys
+guidership
 grimmia
 gynecopathic
 graciles
@@ -5694,7 +5695,6 @@ gertrude
 glowbard
 gerres
 gloveress
-guidership
 gimmaled
 ganglioneuron
 gestning
