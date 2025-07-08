@@ -5698,6 +5698,7 @@ belemnoidea
 beleper
 bicycle
 bathybic
+bakership
 balandra
 butterpaste
 barkpeeling
@@ -10816,7 +10817,6 @@ blesmol
 bestripe
 brokership
 bienvenu
-bakership
 boul
 bavin
 blepharoceridae
