@@ -6354,6 +6354,7 @@ embowed
 enrut
 euclidean
 ens
+equipartisan
 emmenagogue
 emendator
 epicureans
@@ -8694,7 +8695,6 @@ elfishness
 equipages
 expositions
 equiparation
-equipartisan
 eggcrate
 endnotes
 equipedal
