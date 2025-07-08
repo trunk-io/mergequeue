@@ -2123,7 +2123,6 @@ borofluoride
 bantayan
 buckshots
 bidstand
-bantam
 bantamize
 bismar
 botanomancy
@@ -8884,6 +8883,7 @@ binukau
 bleariness
 bathypelagic
 bioaccumulation
+bantam
 bioactivities
 bioassaying
 byplace
