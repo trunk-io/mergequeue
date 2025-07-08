@@ -55,7 +55,6 @@ adstringe
 abacus
 annotation
 alcheringa
-abacuses
 abaddon
 abadejo
 amphigonia
@@ -19921,6 +19920,7 @@ armipotence
 analeptical
 armipotent
 armisonous
+abacuses
 armistice
 armistices
 avenaceous
