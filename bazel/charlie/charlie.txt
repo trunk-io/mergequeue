@@ -2245,6 +2245,7 @@ camshafts
 camstane
 caval
 comer
+collery
 chrismale
 camstone
 camstrary
@@ -19101,7 +19102,6 @@ checkweighman
 collenchyme
 collencyte
 colleri
-collery
 cofferlike
 candyh
 colletarium
