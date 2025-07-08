@@ -5601,7 +5601,6 @@ dependence
 desensitizes
 dependency
 dependingly
-depends
 dallack
 dispersed
 dramatizable
@@ -18245,6 +18244,7 @@ darts
 debussed
 dungiest
 disapprobative
+depends
 dippy
 deuterogamist
 draffs
