@@ -1114,6 +1114,7 @@ bedimmed
 boatload
 brindled
 bluethroat
+barcarole
 brewmaster
 breakwind
 belonesite
@@ -17065,7 +17066,6 @@ bullcart
 bullcomber
 bucentaur
 batoidei
-barcarole
 brokerages
 beclamor
 bifidate
