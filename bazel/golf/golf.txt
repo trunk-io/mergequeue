@@ -7103,7 +7103,6 @@ grasscut
 guayaba
 greenfly
 gile
-gore
 gorebill
 grumbly
 gordioid
@@ -9430,6 +9429,7 @@ ghastfully
 grouchiness
 geminally
 gitksan
+gore
 goldtit
 genially
 glorify
