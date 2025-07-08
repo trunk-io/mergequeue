@@ -2368,6 +2368,7 @@ gemmer
 gumphion
 gloppy
 generic
+glossaries
 grow
 guianese
 groomed
@@ -9721,7 +9722,6 @@ gandurah
 gambades
 greyhounds
 grocerwise
-glossaries
 gelants
 guying
 grummet
