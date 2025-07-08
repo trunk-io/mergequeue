@@ -2218,6 +2218,7 @@ counterhammering
 campos
 campout
 circumfusile
+conveyable
 capotes
 campshed
 campsheeting
@@ -6706,7 +6707,6 @@ cecums
 cecutiency
 cedar
 cedary
-conveyable
 convolvement
 cedars
 cochairman
