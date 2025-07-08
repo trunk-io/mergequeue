@@ -1624,7 +1624,6 @@ deobstruct
 devotional
 daunter
 dicephalus
-darkhaired
 deerhair
 deallocations
 deprival
@@ -18627,6 +18626,7 @@ duty
 dutiability
 disdains
 dutied
+darkhaired
 denarii
 dipaschal
 dummyism
