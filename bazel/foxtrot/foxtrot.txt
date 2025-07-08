@@ -3329,6 +3329,7 @@ fuzed
 facecloth
 fibrosity
 forthrightly
+flanging
 faradizer
 fidate
 flaught
@@ -5902,7 +5903,6 @@ fangas
 flinted
 furcellate
 forehear
-flanging
 filleted
 ferrichloride
 furnishings
