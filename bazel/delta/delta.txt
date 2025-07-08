@@ -1728,7 +1728,6 @@ deathlikeness
 dundees
 dovey
 deathliness
-deathrates
 deaths
 deathsman
 dumble
@@ -11280,6 +11279,7 @@ desoxybenzoin
 diacle
 depredator
 domesticability
+deathrates
 dangler
 decrescendos
 dogtoothing
