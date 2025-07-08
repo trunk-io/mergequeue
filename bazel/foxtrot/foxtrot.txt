@@ -5382,6 +5382,7 @@ fraughting
 feedbin
 fettles
 flanken
+fordoing
 fascia
 fruiteries
 ferulaic
@@ -8725,7 +8726,6 @@ fabricatress
 fraenular
 fole
 forlie
-fordoing
 floppers
 foredecks
 flocculator
