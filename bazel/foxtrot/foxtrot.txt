@@ -1864,7 +1864,6 @@ ferninst
 forbesite
 folkmots
 flak
-flaithship
 frustules
 flyspecks
 fiddler
@@ -4306,6 +4305,7 @@ fission
 fleckier
 forenoted
 flowerpecker
+flaithship
 fetichist
 foreyard
 flail
