@@ -8599,6 +8599,7 @@ austafrican
 allay
 allayers
 allaying
+attendants
 archdukedom
 acyclically
 allanite
@@ -11388,7 +11389,6 @@ amrit
 aphodus
 achitophel
 ajugas
-attendants
 assets
 artinite
 aneroids
