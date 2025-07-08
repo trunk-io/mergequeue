@@ -5051,6 +5051,7 @@ galloping
 glassiness
 glasslikeness
 goosefoots
+grabhook
 garrya
 gilled
 granza
@@ -7552,7 +7553,6 @@ goodyness
 genicular
 gemmula
 grus
-grabhook
 grabouche
 gripsack
 gerenda
