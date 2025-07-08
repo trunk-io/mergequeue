@@ -8487,7 +8487,6 @@ catacrotic
 chalumeau
 collegium
 capercailye
-chalumeaux
 chalutzim
 chama
 coworkers
@@ -12137,6 +12136,7 @@ chevreuil
 chorook
 cyclops
 choroti
+chalumeaux
 chorous
 chort
 chortle
