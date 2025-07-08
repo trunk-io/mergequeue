@@ -5528,6 +5528,7 @@ casus
 cat
 catabaptist
 contos
+clamberer
 catabases
 catabasion
 catabasis
@@ -16796,7 +16797,6 @@ calathian
 clothesbag
 clothesyard
 codesign
-clamberer
 cirrus
 clothesline
 clotheslines
