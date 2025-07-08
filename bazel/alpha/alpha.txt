@@ -3848,7 +3848,6 @@ analphabetism
 amalgamating
 adjoiner
 allioniaceae
-adjoint
 adjoints
 apieces
 adjourn
@@ -14351,6 +14350,7 @@ anthophilian
 anthophyllitic
 apometabolism
 attractancy
+adjoint
 anthophora
 ancyloceras
 awful
