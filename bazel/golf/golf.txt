@@ -5577,7 +5577,6 @@ gefilte
 gownlet
 glottogonist
 gurges
-garuda
 ginks
 gipsyry
 gravestone
@@ -10095,6 +10094,7 @@ goldenfleece
 gnomic
 glossodynamometer
 gnotobiologies
+garuda
 glyphograph
 gaskets
 gabe
