@@ -7443,6 +7443,7 @@ befreeze
 better
 besmirched
 batrachia
+bonce
 buboes
 bashalick
 betterment
@@ -9805,7 +9806,6 @@ buries
 bocca
 bitable
 bidialectal
-bonce
 bytalks
 bitanhol
 bitartrate
