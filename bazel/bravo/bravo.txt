@@ -1109,6 +1109,7 @@ bairnish
 bairnly
 branky
 barkstone
+bipartite
 betrayals
 bedimmed
 boatload
@@ -3567,7 +3568,6 @@ bathythermogram
 boliviano
 bathythermograph
 bathkol
-bipartite
 bathmat
 bathmats
 broodsac
