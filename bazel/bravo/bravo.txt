@@ -3920,6 +3920,7 @@ bdellometer
 boarts
 booksellerish
 bombardier
+bute
 bocstaff
 brickbats
 bdelloura
@@ -7246,7 +7247,6 @@ blades
 beveled
 bestraddled
 baptize
-bute
 bituminised
 beshear
 balearic
