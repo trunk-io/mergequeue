@@ -12655,7 +12655,6 @@ chronically
 chronicle
 chronicled
 chronicling
-chronicon
 chronics
 craddy
 chronique
@@ -14930,6 +14929,7 @@ cytoglobin
 corselette
 concitizen
 cytoid
+chronicon
 citoyenne
 confiscated
 conscious
