@@ -7152,7 +7152,6 @@ desulfurizer
 desulfurizing
 dynamometric
 depictor
-desulfurs
 desulphur
 desulphurate
 delatorian
@@ -12247,6 +12246,7 @@ disforestation
 descendibility
 disherent
 disfortune
+desulfurs
 disbandment
 directional
 dormie
