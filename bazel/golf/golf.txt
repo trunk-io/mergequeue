@@ -2580,7 +2580,6 @@ genethlic
 glossopetra
 grossify
 goatee
-glossosteresis
 geniality
 genetics
 gastrolysis
@@ -8223,6 +8222,7 @@ groundless
 gladii
 geoaesthesia
 graphophone
+glossosteresis
 grossulariaceae
 graphophonic
 graphoscope
