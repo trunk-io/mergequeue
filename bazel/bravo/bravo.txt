@@ -10187,7 +10187,6 @@ broomy
 bibasic
 bassing
 bagmaking
-bitreadle
 blackguard
 bos
 betokening
@@ -16545,6 +16544,7 @@ beerier
 bubbler
 bubblers
 bullshitting
+bitreadle
 brawny
 bubbletop
 banderoled
