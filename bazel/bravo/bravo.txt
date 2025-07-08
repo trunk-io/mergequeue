@@ -6808,7 +6808,6 @@ berseem
 berserker
 brittles
 blackbirds
-bellmaker
 bin
 berserks
 barnumize
@@ -18333,6 +18332,7 @@ baragouin
 bunkums
 buttress
 brakier
+bellmaker
 buttressed
 breviped
 buttresslike
