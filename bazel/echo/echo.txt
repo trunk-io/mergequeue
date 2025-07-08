@@ -1847,6 +1847,7 @@ eightieth
 entitlement
 eightling
 edematose
+eprouvette
 eightpenny
 euler
 ecchymose
@@ -6414,7 +6415,6 @@ enshield
 endostitis
 ebbed
 episcopize
-eprouvette
 enshrined
 enshrinement
 embars
