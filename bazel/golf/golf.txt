@@ -798,6 +798,7 @@ gambang
 grazer
 gonia
 goldbeater
+gobstick
 gambe
 gourmanderie
 gambeered
@@ -6350,7 +6351,6 @@ greenwort
 gastrular
 guesstimate
 glossophaga
-gobstick
 gulmohar
 gamesomeness
 geometrize
