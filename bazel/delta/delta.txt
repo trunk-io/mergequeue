@@ -4663,6 +4663,7 @@ dichelyma
 demirilievo
 deflea
 demirobe
+drawspan
 demonastery
 donn
 diddle
@@ -12932,7 +12933,6 @@ dermaptera
 disnatured
 disnew
 drachmae
-drawspan
 delving
 distillment
 deorientalize
