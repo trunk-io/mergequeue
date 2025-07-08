@@ -12243,7 +12243,6 @@ disflesh
 disfoliage
 disfoliaged
 distich
-disforestation
 descendibility
 disherent
 disfortune
@@ -16507,6 +16506,7 @@ disagreeance
 docilities
 draconid
 douzieme
+disforestation
 draconites
 dracontian
 debouching
