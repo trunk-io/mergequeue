@@ -3635,7 +3635,6 @@ electrocuted
 ennoic
 enwheeled
 embrectomy
-emergency
 epiphloedic
 embrica
 embryectomy
@@ -13328,6 +13327,7 @@ explosimeter
 ecphore
 englishmen
 exorcisms
+emergency
 explosively
 explosiveness
 equipt
