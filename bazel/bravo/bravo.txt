@@ -4755,7 +4755,6 @@ bedrabbling
 bauds
 bisulcate
 bogway
-bedrails
 binnacle
 bedral
 bedraped
@@ -10264,6 +10263,7 @@ bellweather
 bulldogs
 biborate
 boracic
+bedrails
 blacksmithing
 biochemy
 beastdom
