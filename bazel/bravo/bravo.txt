@@ -115,7 +115,6 @@ barn
 baconic
 bludgeoned
 babylike
-babillard
 babylon
 butylating
 backtrace
@@ -1573,6 +1572,7 @@ befiddle
 bacchanal
 ballies
 backrushes
+babillard
 bifidity
 bareboats
 beknighting
