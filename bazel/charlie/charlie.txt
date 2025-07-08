@@ -420,7 +420,6 @@ cacotype
 cacotopia
 cacotrophia
 coombs
-ceratocricoid
 consonantize
 chiefer
 cellulipetally
@@ -9666,6 +9665,7 @@ chapatty
 checkstring
 cuissen
 checksum
+ceratocricoid
 construct
 checksummed
 checksumming
