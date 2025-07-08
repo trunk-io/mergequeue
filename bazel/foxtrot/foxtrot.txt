@@ -4375,7 +4375,6 @@ firms
 fumulus
 firns
 freespac
-freestanding
 fleshings
 formicivora
 fieriest
@@ -6692,6 +6691,7 @@ figurism
 foeti
 fumigatory
 fica
+freestanding
 ferbams
 fausen
 finewed
