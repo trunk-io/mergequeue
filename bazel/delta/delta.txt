@@ -4133,7 +4133,6 @@ departments
 disconformable
 delimitized
 diplomyelia
-deline
 dishonourably
 dissoluteness
 drivelled
@@ -5546,6 +5545,7 @@ drama
 dematiaceous
 denotement
 dyvour
+deline
 disilicate
 disattire
 doodia
