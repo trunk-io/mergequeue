@@ -2690,7 +2690,6 @@ farmyardy
 frey
 fanman
 fissionability
-fabric
 falanaka
 freshes
 fluocerite
@@ -7271,6 +7270,7 @@ fumiferous
 frater
 footiest
 ferbam
+fabric
 fenestrate
 furazan
 freesheet
