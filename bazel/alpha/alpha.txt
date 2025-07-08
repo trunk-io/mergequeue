@@ -5951,7 +5951,6 @@ aggressed
 ancilia
 arrogancy
 aggressin
-altered
 abortus
 amount
 antireality
@@ -8685,6 +8684,7 @@ astromancy
 allegresse
 allegrettos
 autonomically
+altered
 apasttra
 annulosan
 askeses
