@@ -15480,7 +15480,6 @@ clapboards
 clapcake
 chortled
 caulkings
-clapdish
 cripply
 clapnest
 clapnet
@@ -22326,6 +22325,7 @@ congratulates
 coevalneity
 coward
 congratulational
+clapdish
 costumire
 congratulations
 congratulatory
