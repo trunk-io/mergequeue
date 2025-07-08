@@ -4810,6 +4810,7 @@ flagellatae
 fulmination
 follies
 flagellated
+freed
 flagellations
 fieldstrip
 fingal
@@ -9594,7 +9595,6 @@ freebooter
 freebootery
 forestiera
 freebooting
-freed
 freedman
 feltwork
 facete
