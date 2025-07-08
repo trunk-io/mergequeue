@@ -6016,7 +6016,6 @@ chroatol
 cathedraticum
 cathepsin
 catherine
-cathern
 catties
 catheterisation
 catheterise
@@ -8441,6 +8440,7 @@ chalkpit
 chalkrail
 circumflect
 catechizable
+cathern
 calycanthemous
 chalkstone
 chalkworker
