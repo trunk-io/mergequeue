@@ -9073,6 +9073,7 @@ charge
 chargeable
 ciphertext
 collective
+chaines
 chargeably
 chargeant
 charged
@@ -18937,7 +18938,6 @@ colymbriformes
 chequy
 colymbus
 choroid
-chaines
 colinear
 chelodina
 chadars
