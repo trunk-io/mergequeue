@@ -14278,7 +14278,6 @@ choriambs
 circularly
 circularness
 circulars
-circulatable
 cabbalize
 circulated
 cyanhydrate
@@ -27632,6 +27631,7 @@ cowbind
 cypriot
 caurale
 cowbinds
+circulatable
 clapperclawer
 cracksman
 carbonadoed
