@@ -6314,6 +6314,7 @@ gametal
 giglio
 genarchaship
 graplines
+gonionia
 gamic
 greentail
 gonake
@@ -6740,7 +6741,6 @@ gobleted
 graybeards
 garvanzo
 ganocephala
-gonionia
 gnosticize
 goniopholidae
 gamelang
