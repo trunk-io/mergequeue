@@ -5036,7 +5036,6 @@ glasshouses
 glassie
 gateaux
 gasts
-glued
 gnarr
 griecep
 glassies
@@ -10319,6 +10318,7 @@ gigantostraca
 goas
 geographized
 gastroenterology
+glued
 gridder
 gul
 glomming
