@@ -1944,7 +1944,6 @@ gas
 geology
 geranic
 goring
-gelded
 grubroot
 groupage
 gripes
@@ -4204,6 +4203,7 @@ gynandria
 gladiators
 gynandromorphy
 gynandrosporous
+gelded
 grovelling
 gloats
 gasteralgia
