@@ -2240,6 +2240,7 @@ endoplasma
 elector
 exhume
 elks
+exedrae
 ethnarchs
 encyclopedian
 encell
@@ -8603,7 +8604,6 @@ exceptant
 extraparenchymal
 equiaxed
 edificable
-exedrae
 eburnification
 enharmonic
 equibalanced
