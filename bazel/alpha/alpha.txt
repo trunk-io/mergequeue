@@ -8376,7 +8376,6 @@ arbitrational
 afforestment
 alipteria
 alipterion
-aliptes
 aliptic
 aporia
 amoebidae
@@ -21124,6 +21123,7 @@ asem
 anticar
 alphabetics
 asemic
+aliptes
 asepses
 anagogical
 asepticism
