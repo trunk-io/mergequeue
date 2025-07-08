@@ -5939,7 +5939,6 @@ belonoid
 bricktimber
 blisses
 backslap
-belostomatidae
 bisnagas
 bouillabaisse
 belostomidae
@@ -16371,6 +16370,7 @@ bufonidae
 bridgeless
 bestink
 bps
+belostomatidae
 banditry
 botanising
 brunonism
