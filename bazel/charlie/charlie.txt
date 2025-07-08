@@ -4386,7 +4386,6 @@ caricatural
 caricature
 chud
 caricaturing
-caricaturist
 contaminator
 cooptation
 chimeras
@@ -11170,6 +11169,7 @@ coappears
 chitinoid
 chitinous
 chitins
+caricaturist
 chitlin
 chitling
 chitlings
