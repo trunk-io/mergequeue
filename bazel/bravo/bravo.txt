@@ -5171,7 +5171,6 @@ baddish
 baguette
 burbank
 bluebead
-bordereau
 baselard
 befretting
 befume
@@ -6408,6 +6407,7 @@ bequeath
 benzodiazole
 benzofulvene
 bollen
+bordereau
 benzofuran
 benzofuryl
 bracted
