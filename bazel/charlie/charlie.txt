@@ -16479,6 +16479,7 @@ cleridae
 clithe
 clithral
 clitia
+coverable
 copolymerizations
 chromobacterieae
 cylindruria
@@ -27534,7 +27535,6 @@ coroplast
 creaturehood
 cover
 containable
-coverable
 coverages
 coverall
 coveralled
