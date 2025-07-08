@@ -5458,7 +5458,6 @@ acrostichic
 autocamper
 aftercooler
 alahee
-aftercost
 aftercrop
 acanthodian
 aftercure
@@ -9918,6 +9917,7 @@ akroterial
 amazedly
 autotrophy
 amazeful
+aftercost
 anatomicopathological
 amazer
 accented
