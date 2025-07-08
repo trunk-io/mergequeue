@@ -6768,7 +6768,6 @@ counterquestion
 coathangers
 colligation
 ceinture
-ceyx
 ceja
 clovery
 celadon
@@ -24333,6 +24332,7 @@ creation
 crull
 creatable
 classist
+ceyx
 cookee
 corncutting
 coarrange
