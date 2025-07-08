@@ -10827,7 +10827,6 @@ delay
 disbark
 divas
 ductings
-dependent
 dipterus
 dotterel
 diptychs
@@ -12854,6 +12853,7 @@ dismals
 disman
 dismantles
 darksome
+dependent
 dishevelment
 dyarchic
 dirhem
