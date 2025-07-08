@@ -7286,6 +7286,7 @@ eohippus
 eohippuses
 erythrosin
 ecocide
+equisignal
 eoith
 eoiths
 entamebae
@@ -8758,7 +8759,6 @@ elastometry
 enhallow
 electroencephalograph
 equisided
-equisignal
 erethitic
 epigaeous
 extradicting
