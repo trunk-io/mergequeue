@@ -5303,7 +5303,6 @@ cassata
 coalitions
 cassation
 caveats
-cerin
 cassegrain
 chromomeric
 cassegrainian
@@ -19424,6 +19423,7 @@ coloquintid
 coloquintida
 craniotabes
 curatorship
+cerin
 carousing
 checkstone
 color
