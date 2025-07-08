@@ -4351,7 +4351,6 @@ guz
 glottochronology
 gelofer
 galops
-ginglymostomoid
 gutturine
 gondi
 gardened
@@ -4522,6 +4521,7 @@ goosebill
 goupen
 grasscutter
 gibbing
+ginglymostomoid
 greegree
 gressible
 girdles
