@@ -7632,6 +7632,7 @@ cercises
 cercocebus
 cercolabes
 cercomonad
+clodknocker
 cercomonadidae
 cercopid
 continent
@@ -16733,7 +16734,6 @@ cathodically
 cimaroon
 clewed
 clos
-clodknocker
 closable
 closeable
 closecross
