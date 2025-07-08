@@ -10818,7 +10818,6 @@ extramoralist
 eigenvector
 emer
 expuition
-endogalvanism
 excursions
 exercitant
 extemporaneity
@@ -13257,6 +13256,7 @@ explosionist
 expensive
 explicanda
 explicate
+endogalvanism
 enterokinesia
 enterectomies
 exult
