@@ -7404,7 +7404,6 @@ glub
 goupin
 gastrologists
 goldfish
-gouramis
 gastronomic
 gourded
 gainfully
@@ -9198,6 +9197,7 @@ gateage
 gunebo
 geoscience
 gibberosity
+gouramis
 gallup
 grippleness
 grazier
