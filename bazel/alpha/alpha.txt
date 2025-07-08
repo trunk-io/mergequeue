@@ -7530,7 +7530,6 @@ alepot
 alloplasm
 albuminorrhea
 albuminoscope
-acari
 acanthoma
 abyssinian
 anonyms
@@ -14223,6 +14222,7 @@ antesuperior
 arboretums
 antisyndication
 antetemple
+acari
 assertorially
 antetypes
 ahypnia
