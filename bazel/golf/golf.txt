@@ -9522,7 +9522,6 @@ goalies
 granting
 guiltiness
 gentilitious
-graals
 glutinize
 guanaco
 gemellion
@@ -10621,6 +10620,7 @@ goy
 gunpoints
 gloomiest
 ghoul
+graals
 gunpower
 gasping
 gentled
