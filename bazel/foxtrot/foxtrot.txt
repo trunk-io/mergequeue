@@ -5013,6 +5013,7 @@ facepiece
 floorages
 flamingant
 flong
+furors
 foremarch
 flaminical
 fomenters
@@ -10960,7 +10961,6 @@ fouling
 firmless
 freesias
 frigidaire
-furors
 forgettable
 fumaroidal
 flappier
