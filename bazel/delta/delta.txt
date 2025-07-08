@@ -518,7 +518,6 @@ denomination
 dermaskeleton
 dama
 damageability
-disodic
 damageably
 detonatable
 damaged
@@ -2121,6 +2120,7 @@ discrepate
 dataria
 decane
 dromedary
+disodic
 decanery
 decanes
 diabolify
