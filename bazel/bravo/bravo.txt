@@ -3661,7 +3661,6 @@ batsman
 besetting
 basil
 benzophenol
-bardolater
 bunsen
 books
 blissfully
@@ -4979,6 +4978,7 @@ burgage
 basement
 bluebeardism
 belleric
+bardolater
 beermaker
 beermaking
 beermonger
