@@ -5090,7 +5090,6 @@ cytozoon
 carves
 carvestrene
 carving
-curses
 carvings
 carvoeira
 carvoepra
@@ -12558,6 +12557,7 @@ cingulate
 chamaecrista
 cranemanship
 chromoisomer
+curses
 chromoisomeric
 chamaenerion
 cerebralize
