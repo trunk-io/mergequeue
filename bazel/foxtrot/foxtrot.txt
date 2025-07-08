@@ -2397,7 +2397,6 @@ foreigns
 firecoat
 fusibility
 foolmonger
-featherstitching
 fideicommissary
 ferae
 fairyship
@@ -4731,6 +4730,7 @@ forefeeling
 fixidity
 fixing
 flannelleaf
+featherstitching
 fixt
 furca
 floweret
