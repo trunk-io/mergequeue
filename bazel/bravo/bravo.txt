@@ -14328,6 +14328,7 @@ bumf
 blowback
 baits
 brahmin
+bioassayed
 behowl
 boxkeeper
 burnable
@@ -16765,7 +16766,6 @@ bowdlerizer
 begladded
 budgeter
 beyrichite
-bioassayed
 berycoidean
 budgies
 bellerophontidae
