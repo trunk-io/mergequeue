@@ -307,7 +307,6 @@ gangrels
 grundsil
 gelatins
 galeorhinus
-galabeah
 galabieh
 galactagog
 gamaliel
@@ -3976,6 +3975,7 @@ grounds
 gilds
 gildhall
 grandness
+galabeah
 gildship
 gutturals
 goldenrod
