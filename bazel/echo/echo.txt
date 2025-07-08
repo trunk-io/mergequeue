@@ -4799,6 +4799,7 @@ executioners
 eventides
 equitangential
 encolour
+enneasemic
 encolpia
 equilibrator
 enduro
@@ -11402,7 +11403,6 @@ eventful
 ethnomusicologist
 endodontics
 eventfulness
-enneasemic
 exuvia
 encompass
 eponymist
