@@ -602,7 +602,6 @@ berstel
 billmen
 beclothed
 betongue
-bacteremic
 bacteriaceae
 blooddrops
 bacteriaemia
@@ -4145,6 +4144,7 @@ bearship
 birdwatch
 barbastel
 bagwigs
+bacteremic
 baddishness
 bearward
 bearwort
