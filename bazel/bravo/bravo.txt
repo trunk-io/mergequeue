@@ -4586,7 +4586,6 @@ bedazzle
 blared
 bowsprit
 bedazzles
-bedazzlingly
 baptise
 bedbugs
 bedtick
@@ -5237,6 +5236,7 @@ barkeeps
 begar
 bandos
 bodingly
+bedazzlingly
 bacteriotrypsin
 basaltic
 bicentenary
