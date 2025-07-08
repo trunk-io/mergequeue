@@ -2512,7 +2512,6 @@ barghests
 boccia
 blueblack
 beslash
-bassetite
 barguest
 bhagavata
 barguests
@@ -3190,6 +3189,7 @@ barotactic
 breadth
 ballerinas
 basidigitale
+bassetite
 bauta
 beknave
 baclava
