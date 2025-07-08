@@ -785,7 +785,6 @@ emotes
 euomphalid
 egger
 ecrase
-enclitic
 extense
 eremophilous
 epitheliliums
@@ -6461,6 +6460,7 @@ exceptions
 ensilver
 existentially
 ensisternum
+enclitic
 equilibrating
 esquiring
 earthling
