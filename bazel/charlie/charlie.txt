@@ -11730,7 +11730,6 @@ choleras
 choleric
 cervelases
 choleriform
-cholerigenous
 cholerine
 choleroid
 cholerophobia
@@ -19231,6 +19230,7 @@ coalsheds
 czarship
 colloidochemical
 cordless
+cholerigenous
 cattan
 collop
 colloped
