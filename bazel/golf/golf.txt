@@ -5777,7 +5777,6 @@ goniometer
 glouted
 globoid
 garblers
-gosling
 gratters
 gigamaree
 gauchos
@@ -6362,6 +6361,7 @@ gamest
 gamgia
 garston
 gohila
+gosling
 generics
 glassworks
 gonotyl
