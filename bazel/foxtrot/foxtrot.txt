@@ -227,7 +227,6 @@ factorials
 fanons
 fertilizing
 frillings
-forborne
 fluffy
 futurist
 fenestellidae
@@ -11475,6 +11474,7 @@ families
 foible
 foreglimpse
 fin
+forborne
 foresightedly
 ferri
 furnit
