@@ -3572,7 +3572,6 @@ foreign
 fermentology
 fraternity
 fleches
-falcones
 fastigiate
 forcepses
 fulgorid
@@ -6222,6 +6221,7 @@ foreread
 fanam
 fairgoing
 flaxes
+falcones
 fulgurate
 foretops
 feebling
