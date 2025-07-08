@@ -6011,6 +6011,7 @@ depsides
 discommoded
 dept
 diaschistic
+dug
 depth
 dispraise
 droopy
@@ -10490,7 +10491,6 @@ diphenylene
 despend
 diphenylenimine
 ditcher
-dug
 diphenylhydantoin
 dogmatic
 diodon
