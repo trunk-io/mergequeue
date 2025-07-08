@@ -4596,7 +4596,6 @@ faciolingual
 frit
 futtocks
 fascicular
-forespoken
 feuder
 fisticuff
 fort
@@ -6958,6 +6957,7 @@ flub
 fumarase
 fibromatosis
 fauconnier
+forespoken
 fisherpeople
 flaky
 flusherman
