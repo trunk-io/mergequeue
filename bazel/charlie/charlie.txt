@@ -10148,7 +10148,6 @@ caribisi
 chord
 composers
 cherubim
-cherubimic
 cherubimical
 cherublike
 crystalize
@@ -21484,6 +21483,7 @@ cloaking
 crescive
 comediennes
 concoctive
+cherubimic
 concoctor
 choco
 crowfoot
