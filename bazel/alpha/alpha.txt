@@ -9619,7 +9619,6 @@ arachnoid
 atonalist
 apodous
 aluminas
-aluminate
 alumines
 archicontinent
 absfarad
@@ -24755,6 +24754,7 @@ alitrunk
 aromadendrin
 alternators
 aviculturist
+aluminate
 avidin
 archcity
 abacot
