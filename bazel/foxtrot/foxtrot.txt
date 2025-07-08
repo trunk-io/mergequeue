@@ -4812,7 +4812,6 @@ follies
 flagellated
 flagellations
 fieldstrip
-fingal
 flunkeydom
 footwalls
 feif
@@ -6555,6 +6554,7 @@ foreworn
 foetid
 flutist
 frenchman
+fingal
 firebed
 forecover
 flutterboard
