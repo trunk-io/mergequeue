@@ -18731,7 +18731,6 @@ corporales
 cointensity
 cointer
 cointerest
-cointerred
 cointerring
 cointersecting
 cointreau
@@ -19974,6 +19973,7 @@ comitium
 cuscuses
 comitje
 coml
+cointerred
 conjugating
 commandable
 commandatory
