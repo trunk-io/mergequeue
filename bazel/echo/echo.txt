@@ -4305,7 +4305,6 @@ enamels
 emit
 edibles
 enami
-estranging
 enamorado
 enamorato
 exemplificative
@@ -7530,6 +7529,7 @@ ephetic
 endosiphuncle
 eclectist
 esuriency
+estranging
 ephialtes
 excusal
 ebenaceae
