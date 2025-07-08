@@ -3513,7 +3513,6 @@ epigonichthyidae
 embolectomy
 enicuridae
 emboli
-ergastulum
 epipodialia
 embolimeal
 ectosphenoid
@@ -10955,6 +10954,7 @@ exothermic
 esthete
 eventerate
 eastlander
+ergastulum
 eanlings
 euphonized
 easternize
