@@ -12712,7 +12712,6 @@ bowet
 booker
 boatkeeper
 billion
-bookers
 brachydactylic
 bailsmen
 brahminism
@@ -17698,6 +17697,7 @@ blackfin
 blueings
 burlaps
 boomlets
+bookers
 burleycue
 burler
 blisterous
