@@ -1834,6 +1834,7 @@ bowlin
 bandaid
 bandala
 buggery
+bandstand
 bandanaed
 battlepiece
 bollito
@@ -1938,7 +1939,6 @@ basilicae
 boreus
 bandsawn
 bandsman
-bandstand
 beacon
 boronia
 beseechment
