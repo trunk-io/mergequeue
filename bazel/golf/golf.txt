@@ -4251,7 +4251,6 @@ gramophones
 gliadin
 gusto
 garnishing
-guncotton
 gantang
 gruelled
 ghalva
@@ -9522,6 +9521,7 @@ goalies
 granting
 guiltiness
 gentilitious
+guncotton
 graals
 glutinize
 guanaco
