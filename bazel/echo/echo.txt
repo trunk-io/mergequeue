@@ -3336,7 +3336,6 @@ esquirearchy
 emoted
 egal
 explorator
-excursioner
 envelopes
 encyclopaedial
 embannered
@@ -10848,6 +10847,7 @@ euskera
 esterases
 eluviation
 encumber
+excursioner
 enureses
 eucrystalline
 elastance
