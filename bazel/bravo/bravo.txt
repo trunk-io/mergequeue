@@ -1378,7 +1378,6 @@ baldhead
 baldheaded
 baldheads
 buckshees
-bandager
 braise
 bushings
 baldish
@@ -8936,6 +8935,7 @@ beleap
 biodegraded
 biodegrading
 biodynamical
+bandager
 bridoon
 biodynamics
 buccinoid
