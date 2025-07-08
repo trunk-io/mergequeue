@@ -343,7 +343,6 @@ aneurismatic
 anacephalaeosis
 absurdist
 aberdeen
-aberduvine
 ambos
 attache
 argasidae
@@ -12757,6 +12756,7 @@ angioparalytic
 angioparesis
 angiopathy
 agnosis
+aberduvine
 aeneolithic
 angioplasty
 asynapsis
