@@ -5839,7 +5839,6 @@ gliders
 gibelite
 grieflessness
 gastrostomies
-gammons
 glucemia
 gildedness
 glamourous
@@ -7701,6 +7700,7 @@ grafted
 gaumlike
 galvanizations
 gell
+gammons
 gauby
 gabeller
 guaiasanol
