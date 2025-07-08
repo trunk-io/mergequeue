@@ -1494,6 +1494,7 @@ follow
 fattier
 flannelmouths
 fanwork
+flensed
 false
 fall
 fiddled
@@ -5484,7 +5485,6 @@ flora
 funniness
 frequentness
 flemishes
-flensed
 frillers
 flensers
 fallation
