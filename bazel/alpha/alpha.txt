@@ -38,6 +38,7 @@ area
 allseeds
 aurine
 aethogen
+antifrost
 avenery
 apopetalous
 aerometeorograph
@@ -15236,7 +15237,6 @@ antifreeze
 antifreezing
 antifriction
 antistate
-antifrost
 antifundamentalism
 amens
 antifungal
