@@ -10996,6 +10996,7 @@ freshly
 fortilage
 feuillemorte
 funkia
+fluormeter
 fabliaux
 fusuma
 farmery
@@ -11532,7 +11533,6 @@ ferricyanic
 fistic
 foreremembered
 fab
-fluormeter
 fosset
 furtiveness
 fatwood
