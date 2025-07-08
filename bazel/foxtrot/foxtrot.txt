@@ -7433,6 +7433,7 @@ flurriment
 falconers
 firefang
 footmen
+fribbler
 forwarder
 filicides
 fileable
@@ -9864,7 +9865,6 @@ fissileness
 frib
 fruitage
 faden
-fribbler
 friskle
 foreappointment
 fricace
