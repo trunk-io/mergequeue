@@ -604,7 +604,6 @@ galline
 germanity
 gigue
 guarauno
-gorgonize
 giddap
 galliney
 guaranian
@@ -6911,6 +6910,7 @@ goodmen
 gomeral
 goodrich
 guides
+gorgonize
 geromorphism
 grayfly
 geometrised
