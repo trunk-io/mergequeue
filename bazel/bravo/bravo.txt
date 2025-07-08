@@ -12833,6 +12833,7 @@ boomkin
 boomkins
 barquest
 bootes
+borley
 baseboard
 burglary
 basiliscine
@@ -17228,7 +17229,6 @@ bumbard
 bumbaze
 bumbee
 bumbelo
-borley
 basseting
 bubingas
 bumblebomb
