@@ -8053,7 +8053,6 @@ grindelia
 gastrostomize
 gristmill
 galop
-grantors
 grantsman
 griphe
 granula
@@ -10428,6 +10427,7 @@ gadgetries
 gnateater
 gillbird
 giller
+grantors
 geepound
 gratuity
 graphiology
