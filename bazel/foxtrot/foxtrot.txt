@@ -4398,7 +4398,6 @@ fiscalize
 fellows
 forewomen
 fiscalized
-foresleeve
 feebler
 friendlies
 fuliginously
@@ -7546,6 +7545,7 @@ five
 fringillaceous
 forespake
 fallacious
+foresleeve
 fuzils
 foretake
 fetisheer
