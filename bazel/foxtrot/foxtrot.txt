@@ -5660,6 +5660,7 @@ farmage
 fishbolt
 felicitations
 florist
+fertilizations
 fellowshiped
 frumpiest
 fianchetto
@@ -10576,7 +10577,6 @@ formylate
 feracities
 florins
 founds
-fertilizations
 falcade
 fructificative
 fussock
