@@ -18246,6 +18246,7 @@ aquotize
 antitrochanter
 ar
 ara
+aggros
 antediluvial
 ayen
 adsignification
@@ -19999,7 +20000,6 @@ armseye
 aals
 amyelinic
 armure
-aggros
 armures
 arn
 achromatinic
