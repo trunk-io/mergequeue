@@ -5526,7 +5526,6 @@ fleshmonger
 fcy
 flagfall
 fletcherism
-frontignac
 following
 fervours
 finnan
@@ -6943,6 +6942,7 @@ fulgurite
 formalisation
 forbode
 fastball
+frontignac
 foxlike
 farthingales
 formication
