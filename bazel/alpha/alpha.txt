@@ -6628,6 +6628,7 @@ albedos
 ailments
 antitobacco
 ails
+arachnoidal
 allemandes
 acarol
 autosign
@@ -15347,7 +15348,6 @@ aposematic
 araneology
 anthropomorphize
 antikings
-arachnoidal
 albatros
 azelate
 aviatory
