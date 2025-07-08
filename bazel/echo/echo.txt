@@ -5183,7 +5183,6 @@ echeloning
 enchanter
 expedition
 endogenous
-enlistment
 electo
 embroider
 endoglobular
@@ -12287,6 +12286,7 @@ exempli
 ectotheca
 endotoxin
 embodier
+enlistment
 efferent
 evocatrix
 everlasting
