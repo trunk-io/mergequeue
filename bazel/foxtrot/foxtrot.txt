@@ -6555,7 +6555,6 @@ foreworn
 foetid
 flutist
 frenchman
-firebed
 forecover
 flutterboard
 furnacer
@@ -10399,6 +10398,7 @@ footer
 ferfel
 fraggings
 filigree
+firebed
 flow
 fictility
 firstling
