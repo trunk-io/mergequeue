@@ -1380,7 +1380,6 @@ garnison
 greetingless
 garniture
 gaulsh
-glycosemia
 grecize
 gaits
 ganyie
@@ -7818,6 +7817,7 @@ galvanometrical
 groom
 grammarless
 grammaticaster
+glycosemia
 grassers
 garlandlike
 gabbais
