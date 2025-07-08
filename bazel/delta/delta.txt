@@ -2399,7 +2399,6 @@ deciles
 dwelling
 decylic
 dorsiparous
-deciliter
 delineation
 druidry
 demographer
@@ -9234,6 +9233,7 @@ delaine
 diebacks
 dictyopteran
 dehydrogenation
+deciliter
 diecious
 diectasis
 dead
