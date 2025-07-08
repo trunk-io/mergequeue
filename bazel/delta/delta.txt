@@ -2450,7 +2450,6 @@ designs
 decyne
 drydenian
 diaeresis
-decipherability
 dand
 devilled
 doctrinarily
@@ -4034,6 +4033,7 @@ dibasicity
 designation
 dialing
 dipteros
+decipherability
 dirten
 delegations
 dalradian
