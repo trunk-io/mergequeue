@@ -9051,6 +9051,7 @@ flashguns
 fundiform
 fibrillate
 familiar
+foresign
 farther
 fib
 frumentaceous
@@ -9663,7 +9664,6 @@ fivefold
 farthest
 favoured
 fatiscence
-foresign
 fecklessly
 feliform
 fantad
