@@ -7363,7 +7363,6 @@ giga
 gallinuline
 granduncle
 geylies
-gotra
 germarium
 gravecloth
 gudgeoned
@@ -9057,6 +9056,7 @@ ghast
 grimme
 gipsyhood
 grillroom
+gotra
 gleet
 guillotinement
 grimmiaceae
