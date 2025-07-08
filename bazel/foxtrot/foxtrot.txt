@@ -3231,7 +3231,6 @@ frighty
 fenceplay
 flowerier
 fatso
-fossate
 foci
 freeloaders
 forthfare
@@ -10145,6 +10144,7 @@ falchions
 foulness
 freemasons
 finalize
+fossate
 fricatives
 frivolousness
 foray
