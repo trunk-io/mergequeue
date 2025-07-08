@@ -4064,7 +4064,6 @@ cardamom
 cicatrise
 cardamon
 cardamons
-cardamum
 cardanol
 chymist
 cardboard
@@ -24171,6 +24170,7 @@ civilizatory
 convictions
 convictism
 cresolin
+cardamum
 connexive
 convictment
 convictor

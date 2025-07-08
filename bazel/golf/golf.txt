@@ -3251,7 +3251,6 @@ germanized
 germanizer
 germule
 germanness
-germinant
 gunrunner
 genapped
 gingeley
@@ -6961,6 +6960,7 @@ gunnership
 grunch
 gnotobiology
 grimmest
+germinant
 greengrocers
 grumpiest
 gyrovague
