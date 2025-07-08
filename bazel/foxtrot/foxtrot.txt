@@ -3992,6 +3992,7 @@ fraple
 ferrocyanogen
 falsehearted
 furrowed
+foresummon
 fireboxes
 fluoresces
 flemish
@@ -7539,7 +7540,6 @@ feverously
 foment
 feazes
 foredesignment
-foresummon
 forecastle
 forecastlehead
 five
