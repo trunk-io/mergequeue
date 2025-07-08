@@ -9725,7 +9725,6 @@ dika
 dampened
 dieter
 dispersedelement
-desulphurization
 dikaryophasic
 dikaryophyte
 demission
@@ -11460,6 +11459,7 @@ disciplinatory
 dewaterer
 depuration
 disciples
+desulphurization
 discipling
 disciplining
 depopulator
