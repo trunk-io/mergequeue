@@ -1110,7 +1110,6 @@ foraging
 fogas
 faro
 floriken
-floter
 foredestining
 furriery
 farolito
@@ -1427,6 +1426,7 @@ fazendas
 frock
 fanning
 fatigue
+floter
 fossicks
 fatiguesome
 fishbones
