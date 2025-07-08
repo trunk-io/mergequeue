@@ -6615,7 +6615,6 @@ global
 glasseye
 gondoletta
 gumlike
-guffs
 gangliform
 gamboller
 gordius
@@ -9841,6 +9840,7 @@ guajiras
 guama
 garcinia
 garrick
+guffs
 goaf
 gaposis
 gonadic
