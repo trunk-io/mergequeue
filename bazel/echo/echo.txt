@@ -2150,6 +2150,7 @@ endleaf
 electroblasting
 enfoil
 exterminatress
+entrusted
 enanthematous
 elateroid
 epoxy
@@ -13038,7 +13039,6 @@ estafette
 ethos
 expeding
 engrapple
-entrusted
 epinaoi
 eraser
 edana
