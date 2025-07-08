@@ -1505,7 +1505,6 @@ callynteria
 callionymidae
 crookkneed
 clepe
-calliope
 concertos
 calliopes
 celtomaniac
@@ -8169,6 +8168,7 @@ chaetopterus
 chaetosoma
 chaetosomatidae
 chaetosomidae
+calliope
 codrus
 chaetotactic
 calculus
