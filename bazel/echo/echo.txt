@@ -3280,7 +3280,6 @@ euphorias
 explanatoriness
 embassade
 emanatist
-extracapsular
 excommunicable
 epical
 energeticist
@@ -9610,6 +9609,7 @@ enchytraeidae
 emigree
 euchromatic
 endura
+extracapsular
 emasculated
 embarrassed
 embastardize
