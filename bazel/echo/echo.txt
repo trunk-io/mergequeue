@@ -4195,7 +4195,6 @@ equipment
 externship
 emptor
 eggeater
-evagination
 emprizes
 epicycloid
 ebbs
@@ -12783,6 +12782,7 @@ elasmobranchiate
 exorcizer
 epiceratodus
 exordium
+evagination
 eelblennies
 engold
 elsewise
