@@ -1204,7 +1204,6 @@ bakes
 belzebub
 bakeshop
 brevicomis
-bakie
 bakingly
 bakli
 baymen
@@ -10431,6 +10430,7 @@ blankness
 blanks
 byrewoman
 boltmaking
+bakie
 beesting
 baritone
 boviform
