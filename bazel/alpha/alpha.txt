@@ -1865,7 +1865,6 @@ acesodynous
 acestes
 acceleration
 achieves
-adstrict
 advanced
 acetable
 acetabula
@@ -10500,6 +10499,7 @@ allantoidea
 ascomycetous
 amidol
 amidophenol
+adstrict
 anlaute
 ausones
 authorisation
