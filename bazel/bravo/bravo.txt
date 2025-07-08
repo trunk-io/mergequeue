@@ -9810,7 +9810,6 @@ bytalks
 bitanhol
 bitartrate
 beneplacito
-bandonion
 biteable
 begin
 bongo
@@ -14554,6 +14553,7 @@ bimaculate
 billhooks
 blume
 buri
+bandonion
 buggyman
 brandisite
 boyar
