@@ -4737,7 +4737,6 @@ aranein
 allometric
 attemperation
 aequor
-altitudes
 aequorins
 aerate
 astrophotographer
@@ -10772,6 +10771,7 @@ amminolytic
 anorexias
 aselline
 aljofaina
+altitudes
 alzheimer
 ammites
 ammo
