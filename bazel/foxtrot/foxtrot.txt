@@ -1427,7 +1427,6 @@ fazendas
 frock
 fanning
 fatigue
-fossicks
 fatiguesome
 fishbones
 fulminuric
@@ -9027,6 +9026,7 @@ filmier
 frangibleness
 flaxwort
 fustian
+fossicks
 fractus
 feminists
 forwork
