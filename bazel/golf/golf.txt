@@ -4435,6 +4435,7 @@ giardia
 gyp
 gundog
 greffier
+glaciometer
 griskin
 gipsy
 graveyard
@@ -5683,7 +5684,6 @@ girdlestead
 greedier
 grandnephews
 glossemic
-glaciometer
 gorilline
 goitered
 glossies
