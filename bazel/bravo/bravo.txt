@@ -8040,7 +8040,6 @@ borsht
 beslipper
 bespatterer
 buttstrapping
-bicircular
 bicirrose
 bitemporal
 byname
@@ -16564,6 +16563,7 @@ buenos
 buccaneer
 buccaneerish
 buccaning
+bicircular
 beraunite
 benevolentness
 buccanned
