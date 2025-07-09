@@ -4191,7 +4191,6 @@ gois
 gynaecology
 gyromagnetic
 gynaecological
-gabbiness
 gentilesse
 gobbing
 gynaeconitis
@@ -10227,6 +10226,7 @@ galluses
 groundsel
 gonk
 geotonus
+gabbiness
 galusha
 gravimetrical
 guilfat
