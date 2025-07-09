@@ -1380,6 +1380,7 @@ garnison
 greetingless
 garniture
 gaulsh
+goodwives
 glycosemia
 grecize
 gaits
@@ -6937,7 +6938,6 @@ gigglers
 grinds
 glyconeogenesis
 grasseye
-goodwives
 germander
 garrigue
 garhwali
