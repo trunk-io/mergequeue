@@ -6186,6 +6186,7 @@ beneficiaire
 bromvoel
 blacker
 beneficial
+basifacial
 beneficialness
 beneficiaryship
 beneficiated
@@ -7234,7 +7235,6 @@ bur
 boundable
 bestiarian
 bestiarist
-basifacial
 bestirs
 bestock
 bestow
