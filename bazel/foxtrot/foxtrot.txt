@@ -7128,7 +7128,6 @@ flophouses
 familarity
 forecastlemen
 footballs
-foxproof
 footboard
 footboards
 frotteurs
@@ -8879,6 +8878,7 @@ fling
 fatiloquent
 fidation
 forepast
+foxproof
 falsificator
 fretfulness
 flown
