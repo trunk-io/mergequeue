@@ -3582,7 +3582,6 @@ embows
 egeria
 egma
 eveque
-embowered
 exanimate
 empoisoner
 enculturate
@@ -4939,6 +4938,7 @@ entropy
 eyelight
 endocardium
 emporetic
+embowered
 eurytomid
 ectodermic
 emulsifiers
