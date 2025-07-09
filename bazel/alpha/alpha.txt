@@ -4703,6 +4703,7 @@ ambrotype
 aeolis
 aeolist
 averin
+acneiform
 aeolotropy
 aeolus
 artichokes
@@ -12191,7 +12192,6 @@ anticks
 asimen
 ancillaries
 ancylopod
-acneiform
 acrider
 anatropous
 alnico
