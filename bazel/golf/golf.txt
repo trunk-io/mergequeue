@@ -3244,6 +3244,7 @@ glent
 grabbable
 glosseme
 gemless
+gershonite
 gula
 gabback
 geneticists
@@ -3365,7 +3366,6 @@ gerrymanders
 guilts
 gers
 gliffs
-gershonite
 galleypot
 grandiosely
 greenlandish
