@@ -10099,7 +10099,6 @@ bewhiskered
 blabberer
 blabbering
 blabbermouth
-blabbermouths
 blabbers
 blabbing
 blabmouth
@@ -12856,6 +12855,7 @@ boomster
 boomtown
 boardbill
 beefcake
+blabbermouths
 biblicistic
 boomtowns
 barracuda
