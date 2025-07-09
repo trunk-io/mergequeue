@@ -4488,6 +4488,7 @@ carity
 caritive
 circumfusion
 colubridae
+confidences
 companionage
 carked
 canarin
@@ -14895,7 +14896,6 @@ celiitis
 copremia
 cytoarchitectural
 cytoblast
-confidences
 cytoblastema
 cytoblastemal
 caseless
