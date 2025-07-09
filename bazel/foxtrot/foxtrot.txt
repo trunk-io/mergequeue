@@ -4982,7 +4982,6 @@ forwards
 fchar
 fluidised
 foining
-forsooth
 fourteens
 flamen
 flamandization
@@ -11540,6 +11539,7 @@ frena
 foxfeet
 fuselages
 fuselike
+forsooth
 forecaddie
 fermentations
 faradiser
