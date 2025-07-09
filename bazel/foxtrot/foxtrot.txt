@@ -2852,6 +2852,7 @@ forker
 feston
 flatly
 forgift
+fabledom
 fistulized
 forbearer
 flinchingly
@@ -10844,7 +10845,6 @@ forwore
 franciscan
 frousy
 finestill
-fabledom
 fatties
 foeticidal
 faddism
