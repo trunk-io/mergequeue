@@ -1846,6 +1846,7 @@ gatherers
 goldbug
 galumph
 gooma
+gates
 gastroenteroanastomosis
 gamenesses
 gatherings
@@ -8665,7 +8666,6 @@ grammars
 guidances
 gearing
 gastraeal
-gates
 gnus
 geochronologist
 gnathonical
