@@ -2246,7 +2246,6 @@ grundyite
 glimpses
 geitonogamy
 gekko
-gonostyle
 geomoroi
 grange
 gynarchy
@@ -8843,6 +8842,7 @@ garboard
 grieved
 glenwood
 gyroceracone
+gonostyle
 guesthouses
 greyfly
 glandula
