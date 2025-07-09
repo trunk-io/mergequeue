@@ -6549,7 +6549,6 @@ cavern
 cavernal
 cavernlike
 cavernoma
-cavernous
 cavernously
 cavernulous
 caves
@@ -25294,6 +25293,7 @@ corkwing
 commissions
 cormac
 cormel
+cavernous
 concetto
 coardent
 cormidium
