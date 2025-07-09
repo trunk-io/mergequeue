@@ -11669,7 +11669,6 @@ annulism
 anisopleural
 anaglyphs
 anaglypta
-anaglyptical
 aldim
 anaglyptography
 anaglyptographic
@@ -12979,6 +12978,7 @@ angustura
 angwantibo
 angwich
 aphorismic
+anaglyptical
 archly
 anhaemolytic
 anhalamine
