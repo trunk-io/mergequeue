@@ -6805,7 +6805,6 @@ badian
 bookery
 bersagliere
 berseem
-berserker
 brittles
 blackbirds
 bellmaker
@@ -17323,6 +17322,7 @@ bunchily
 bunchiness
 buncoing
 berthing
+berserker
 brucellas
 blotches
 basilosaurus
