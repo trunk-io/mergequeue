@@ -4099,7 +4099,6 @@ blearedness
 beriberi
 betoil
 boyishness
-biassing
 ballistics
 boomlet
 baroclinicity
@@ -14431,6 +14430,7 @@ brainwave
 baragouinish
 brainwood
 brairded
+biassing
 barricado
 breamed
 behelp
