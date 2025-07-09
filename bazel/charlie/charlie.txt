@@ -17100,7 +17100,6 @@ cluttery
 clutterment
 cm
 coinclude
-cmd
 catalecta
 cml
 cofferdams
@@ -18647,6 +18646,7 @@ coil
 curtis
 conchylia
 coiled
+cmd
 crusie
 coiler
 coeducational
