@@ -2067,7 +2067,6 @@ expedites
 exalbuminous
 elapids
 euthyneural
-elapine
 endysis
 eutectics
 epigyny
@@ -9683,6 +9682,7 @@ euphuistically
 essenize
 esoterist
 evildoers
+elapine
 expertism
 exceptionary
 ensearch
