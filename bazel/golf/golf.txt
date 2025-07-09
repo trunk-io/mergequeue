@@ -4239,6 +4239,7 @@ gunshots
 gp
 gelee
 gleamed
+gospelist
 gastroscope
 gangliated
 gibeonite
@@ -5054,7 +5055,6 @@ goosefoots
 garrya
 gilled
 granza
-gospelist
 gastroptosia
 guilders
 gravery
