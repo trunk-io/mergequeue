@@ -5207,7 +5207,6 @@ affidavy
 affidavit
 aviso
 affied
-abjured
 affies
 affile
 affiliable
@@ -17545,6 +17544,7 @@ appealing
 appealingly
 agruif
 ambidextrousness
+abjured
 archaicness
 appearer
 appearers
