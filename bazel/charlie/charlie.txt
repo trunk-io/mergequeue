@@ -2597,7 +2597,6 @@ censuses
 cyclotrons
 cane
 corneum
-cliffing
 constants
 canebrake
 cardioschisis
@@ -24037,6 +24036,7 @@ comatous
 cadmide
 conventionalising
 conventionalities
+cliffing
 conventionalize
 conventionalizes
 conventionally
