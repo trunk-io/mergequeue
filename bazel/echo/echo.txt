@@ -490,6 +490,7 @@ extended
 endoconidium
 extorsion
 ecclesiastics
+event
 encup
 ecclesioclastic
 expenditure
@@ -12004,7 +12005,6 @@ exclaims
 exclam
 endocrinopath
 epitenon
-event
 exclamations
 exclamative
 endolymphic
