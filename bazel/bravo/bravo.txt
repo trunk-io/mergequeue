@@ -10256,7 +10256,6 @@ batara
 brominism
 blennorrhoea
 bilobiate
-boolean
 biofeedback
 bratty
 blippers
@@ -10564,6 +10563,7 @@ breadboxes
 bilo
 blathered
 blathery
+boolean
 blackprint
 baretta
 blathers
