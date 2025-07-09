@@ -1268,7 +1268,6 @@ acarina
 acrasy
 acarine
 acarines
-acarinosis
 anucleate
 acontias
 arteriodiastasis
@@ -1676,6 +1675,7 @@ anorganic
 alkalimeter
 ambiguously
 aphidid
+acarinosis
 acculturating
 acculturation
 acculturize
