@@ -1662,7 +1662,6 @@ equating
 esquimau
 eschaufe
 eichhornia
-eichwaldite
 eide
 excommunications
 excepter
@@ -4298,6 +4297,7 @@ epigrammatize
 eloquence
 enameling
 exclaustration
+eichwaldite
 enamelist
 enamelless
 eluder
