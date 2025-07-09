@@ -2238,6 +2238,7 @@ exocolitis
 effluve
 endoplasma
 elector
+exotropic
 exhume
 elks
 ethnarchs
@@ -11385,7 +11386,6 @@ emergers
 extenders
 exigency
 edeotomy
-exotropic
 electrodesiccation
 eryopid
 eruciform
