@@ -5440,7 +5440,6 @@ feasten
 forefigure
 flurt
 fault
-freightment
 firstfruits
 finnip
 fellowmen
@@ -10947,6 +10946,7 @@ flagellar
 floodless
 formicide
 flubdub
+freightment
 fedayee
 fructifying
 finally
