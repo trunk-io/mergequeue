@@ -2036,7 +2036,6 @@ bethought
 banky
 banknote
 beachless
-bristly
 banknotes
 brasserie
 bedeguar
@@ -10420,6 +10419,7 @@ blanketlike
 bemantle
 brimborion
 blankets
+bristly
 bhoot
 beedged
 blankish
