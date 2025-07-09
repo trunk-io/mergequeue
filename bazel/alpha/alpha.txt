@@ -5286,7 +5286,6 @@ afflicted
 afflicter
 afflicting
 afflictingly
-afflictionless
 abranchian
 archoplasm
 agranulocytosis
@@ -9035,6 +9034,7 @@ ailanthus
 abusively
 allotropical
 allotropically
+afflictionless
 aenean
 appoggiature
 allotropies
