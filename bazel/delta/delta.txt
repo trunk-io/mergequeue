@@ -9353,7 +9353,6 @@ deobstruent
 dietic
 decolorant
 dietitians
-dtset
 diplomat
 dietotherapy
 dietotoxic
@@ -15764,6 +15763,7 @@ dukhn
 dacryocystocele
 doryanthes
 doricism
+dtset
 dorylinae
 dyemaker
 deflectometer
