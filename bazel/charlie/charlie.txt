@@ -13688,7 +13688,6 @@ crinum
 costaea
 cedarn
 centricality
-cymbalist
 crapshooting
 cymbalists
 cymballed
@@ -14824,6 +14823,7 @@ citers
 cites
 citess
 citharas
+cymbalist
 citharexylum
 citharist
 coprophiliac
