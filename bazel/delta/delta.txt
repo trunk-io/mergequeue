@@ -3289,6 +3289,7 @@ deteriority
 deterging
 defibrillative
 dragoons
+duramens
 disfavored
 defibrillatory
 defibrinate
@@ -18490,7 +18491,6 @@ dementi
 driftlet
 declamator
 duramater
-duramens
 datch
 duffer
 durances
