@@ -2830,7 +2830,6 @@ groggier
 greekery
 geo
 gallerylike
-geoponic
 genarch
 geoagronomic
 gigmanhood
@@ -4699,6 +4698,7 @@ garshuni
 gangplow
 gytling
 gamostelic
+geoponic
 goniale
 gitonin
 graphitizable
