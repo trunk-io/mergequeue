@@ -5184,7 +5184,6 @@ ankerite
 ampulated
 agrias
 ameloblastic
-ascensor
 affeir
 affenpinscher
 affere
@@ -22285,6 +22284,7 @@ astrocytoma
 astrocytomas
 ailerons
 anal
+ascensor
 asperger
 aplanat
 autoreduction
