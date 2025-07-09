@@ -10099,6 +10099,7 @@ chermidae
 chermish
 cocopans
 clanjamfray
+cloth
 chernites
 chernomorish
 cooried
@@ -16788,7 +16789,6 @@ carpetbeater
 clote
 chayota
 clomb
-cloth
 clothe
 clothed
 confusional
