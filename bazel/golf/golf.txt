@@ -568,6 +568,7 @@ gazometer
 getfd
 growls
 gableended
+glim
 gravamem
 galleting
 gadinine
@@ -4599,7 +4600,6 @@ greenheart
 gyrating
 galvanise
 gyrolith
-glim
 gammarid
 grayer
 gentility
