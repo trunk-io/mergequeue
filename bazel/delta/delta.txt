@@ -781,7 +781,6 @@ delusters
 dovecote
 diuretical
 dago
-danegelds
 desideratum
 dungeon
 dermititis
@@ -4685,6 +4684,7 @@ demisecond
 demised
 depas
 diploglossate
+danegelds
 demisemiquaver
 delineable
 demisemitone
