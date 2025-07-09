@@ -9231,6 +9231,7 @@ biped
 bipedal
 bogo
 backhauling
+bloomerism
 bourbonesque
 bipedality
 bipeds
@@ -12496,7 +12497,6 @@ bonedry
 bonefish
 broodier
 biennially
-bloomerism
 bonelessly
 brattishing
 bonelet

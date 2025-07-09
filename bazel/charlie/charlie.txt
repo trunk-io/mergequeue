@@ -3473,6 +3473,7 @@ capromys
 camptodrome
 capron
 causeuse
+consulage
 comprehends
 craniovertebral
 capsella
@@ -23273,7 +23274,6 @@ culmen
 consubstantive
 consuetudinal
 consul
-consulage
 coloclysis
 chirurgical
 concertizes
