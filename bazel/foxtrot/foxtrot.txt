@@ -148,6 +148,7 @@ freemasonry
 frill
 flagellist
 feedhead
+forename
 fibre
 fossiled
 facsimiled
@@ -9283,7 +9284,6 @@ framea
 framer
 frames
 frapler
-forename
 footmenfootpad
 fungologist
 fumarine
