@@ -3671,7 +3671,6 @@ deprogrammer
 dioestrous
 dropforging
 deglutition
-deglutitious
 degold
 decathlon
 disinhibition
@@ -13389,6 +13388,7 @@ dacrydium
 disfeature
 disputer
 definitising
+deglutitious
 dorsally
 dysorexy
 discerns
