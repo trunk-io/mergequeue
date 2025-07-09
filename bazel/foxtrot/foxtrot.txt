@@ -2360,6 +2360,7 @@ fenetre
 favorably
 febrility
 fast
+frequentness
 fixities
 faceteness
 flagitious
@@ -5482,7 +5483,6 @@ fluozirconic
 fernbrake
 flora
 funniness
-frequentness
 flemishes
 flensed
 frillers
