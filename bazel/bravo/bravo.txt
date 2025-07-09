@@ -8799,6 +8799,7 @@ broker
 binding
 bookkeep
 becher
+benday
 bindingness
 bekissing
 basoche
@@ -11266,7 +11267,6 @@ bewail
 burez
 blasts
 brightening
-benday
 bertrand
 blotto
 blottto
