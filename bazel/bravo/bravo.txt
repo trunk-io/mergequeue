@@ -9040,7 +9040,6 @@ besmuts
 biometries
 bion
 blankard
-byon
 brasqued
 bionditional
 bionics
@@ -16410,6 +16409,7 @@ bronzify
 brevetting
 batful
 brumal
+byon
 bises
 bullhorn
 bellwood
