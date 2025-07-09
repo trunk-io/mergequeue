@@ -2899,7 +2899,6 @@ fraction
 feldsher
 forebush
 foreadmonish
-farmhand
 fetichlike
 flowerets
 feticide
@@ -10699,6 +10698,7 @@ faradays
 fenny
 fortran
 forelaid
+farmhand
 folkboat
 fluoridating
 fil
