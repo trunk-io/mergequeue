@@ -578,7 +578,6 @@ equatorially
 excommunicatory
 echinoidea
 equiarticulate
-encrimson
 enclisis
 echinomys
 entrained
@@ -7698,6 +7697,7 @@ extrabold
 electrophoridae
 epicoracoid
 exocrine
+encrimson
 exhumations
 eventless
 eccentricities
