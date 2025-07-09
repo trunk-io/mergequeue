@@ -8740,7 +8740,6 @@ bullethead
 betoss
 bottomry
 brule
-barhopping
 bimetals
 breislakite
 bolsters
@@ -18277,6 +18276,7 @@ buttgenbachite
 bolimba
 boomeranging
 burrowing
+barhopping
 butty
 biovulate
 buffoonism
