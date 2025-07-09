@@ -7625,6 +7625,7 @@ evaluators
 endovenous
 electrocapillarity
 entoproct
+epiphyseal
 extemporal
 epichondrosis
 epichordal
@@ -13015,7 +13016,6 @@ equipollently
 exhaustingly
 expostulatory
 estive
-epiphyseal
 expeded
 expatiated
 efflate
