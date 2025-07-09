@@ -2925,6 +2925,7 @@ divide
 desmodont
 duodecimomos
 dedicant
+daytime
 dedicatee
 dichotic
 downbeat
@@ -5836,7 +5837,6 @@ dreiling
 depositive
 deposito
 depositor
-daytime
 deleatur
 dujan
 disambiguation
