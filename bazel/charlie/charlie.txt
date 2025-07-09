@@ -11880,7 +11880,6 @@ chondroplastic
 chondroprotein
 cult
 chondropterygian
-chondropterygious
 chondrosarcomatous
 chondroseptum
 construed
@@ -28022,6 +28021,7 @@ coxarthritis
 consolidating
 craisey
 craythur
+chondropterygious
 captivators
 craizey
 crajuru
