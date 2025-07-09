@@ -2833,7 +2833,6 @@ bawrel
 bitterbump
 buttonmold
 barbery
-barrabora
 barracan
 barrack
 barracked
@@ -6173,6 +6172,7 @@ basin
 brookie
 baske
 benefactress
+barrabora
 benefactrices
 bepearl
 bucayo
