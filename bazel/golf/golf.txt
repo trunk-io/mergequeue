@@ -2626,6 +2626,7 @@ gigantocyte
 genioglossal
 globoids
 geoteuthis
+gyromitra
 goboes
 genioglossus
 genitocrural
@@ -8465,7 +8466,6 @@ gametophyte
 ganglioblast
 gulden
 gastrosuccorrhea
-gyromitra
 glack
 grecian
 grues
