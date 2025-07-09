@@ -4727,7 +4727,6 @@ butcherliness
 badmash
 bedlams
 bienseance
-bursula
 basseted
 bedlar
 bedlids
@@ -17105,6 +17104,7 @@ bombazeen
 bulletproofing
 blowhard
 bulletwood
+bursula
 britchka
 bibliomanian
 bifold
