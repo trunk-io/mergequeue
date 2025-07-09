@@ -2083,6 +2083,7 @@ cecils
 comdg
 campanile
 campaniles
+cadjan
 colloquiquiums
 campaniliform
 campanini
@@ -12628,7 +12629,6 @@ collophore
 chromospheric
 colytic
 committitur
-cadjan
 cranemen
 chromotypy
 cynegetics
