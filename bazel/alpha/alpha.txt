@@ -2564,7 +2564,6 @@ acoustoelectric
 acpt
 anacahuite
 acquaint
-acquaintanceship
 acquisible
 acquaintanceships
 alodia
@@ -18926,6 +18925,7 @@ apospory
 adroiter
 argyrosis
 apogeotropic
+acquaintanceship
 archines
 aidmanmen
 archinformer
