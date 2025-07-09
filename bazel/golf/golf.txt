@@ -2645,7 +2645,6 @@ geek
 genip
 genyplasty
 glaistig
-gastroduodenostomies
 glashan
 globularness
 grainering
@@ -6820,6 +6819,7 @@ gasmaker
 groves
 grocer
 grandpa
+gastroduodenostomies
 gonorrhoeal
 geogen
 garnets
