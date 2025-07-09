@@ -3653,7 +3653,6 @@ felinity
 floorway
 files
 fiddle
-filesniff
 foreaccustom
 fazing
 foreroom
@@ -4072,6 +4071,7 @@ foredawn
 frettiest
 feudalise
 fingram
+filesniff
 fossilisable
 finical
 fluxibly
