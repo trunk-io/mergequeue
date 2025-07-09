@@ -1535,7 +1535,6 @@ deviler
 dim
 deadhearted
 deadheartedly
-diagenetic
 deadheartedness
 deady
 decoic
@@ -14372,6 +14371,7 @@ deteriorations
 diureses
 diuresis
 difficile
+diagenetic
 demogorgon
 democratical
 divagatory
