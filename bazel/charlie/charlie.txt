@@ -2107,7 +2107,6 @@ ceilingward
 chieftaincies
 circumnuclear
 captivator
-campanular
 campanulariae
 campanularidae
 campanulatae
@@ -5998,6 +5997,7 @@ contorting
 chevied
 carburized
 cathartolinum
+campanular
 catheads
 cathect
 cathected
