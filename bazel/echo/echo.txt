@@ -854,7 +854,6 @@ enquire
 eriophorum
 epineolithic
 ectocoelic
-ectocommensal
 ectocondylar
 endophytic
 ectocondyloid
@@ -13067,6 +13066,7 @@ elaidic
 egueiite
 evaluations
 expermentized
+ectocommensal
 emus
 expensefully
 eucaine
