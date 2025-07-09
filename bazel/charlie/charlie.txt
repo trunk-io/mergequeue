@@ -11680,6 +11680,7 @@ cholecystogram
 cholecystography
 cholecystokinin
 corkiness
+coinage
 cholecystolithiasis
 cholecystostomy
 cholecystotomy
@@ -18663,7 +18664,6 @@ coimplore
 coyn
 cosmometry
 coinable
-coinage
 coinages
 coincide
 corpulently
