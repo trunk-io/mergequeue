@@ -3686,7 +3686,6 @@ battement
 balladising
 batteners
 bankrupted
-batterdock
 bearcat
 bucketmaker
 battered
@@ -6850,6 +6849,7 @@ burley
 baroi
 bes
 bushpig
+batterdock
 boaedon
 busboy
 besagne
