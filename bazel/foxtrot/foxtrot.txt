@@ -9506,7 +9506,6 @@ footganger
 financed
 fishwoman
 facinorous
-ffa
 forbidding
 frauleins
 formaliter
@@ -9852,6 +9851,7 @@ fevertwitch
 friar
 fungo
 fremitus
+ffa
 friary
 firings
 forjudges
