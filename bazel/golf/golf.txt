@@ -7303,7 +7303,6 @@ glaive
 glittering
 gossipee
 griffon
-greensward
 glyoxime
 glomus
 gomarite
@@ -8104,6 +8103,7 @@ gleek
 gauntly
 graftages
 gloomless
+greensward
 granuloblastic
 granulocyte
 gladys
