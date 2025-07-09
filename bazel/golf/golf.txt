@@ -783,7 +783,6 @@ ginneries
 ghrush
 gandergoose
 gamari
-giver
 girllikeness
 grinnellia
 gamashes
@@ -5038,6 +5037,7 @@ gateaux
 gasts
 glued
 gnarr
+giver
 griecep
 glassies
 galoisian
