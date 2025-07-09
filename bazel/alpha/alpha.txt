@@ -3229,7 +3229,6 @@ abonne
 apsides
 acupunctured
 acupuncturing
-antivenomous
 acupuncturist
 acus
 atresy
@@ -5230,6 +5229,7 @@ alogia
 affines
 anthomedusae
 affinitative
+antivenomous
 alemanni
 aggerate
 affinities
