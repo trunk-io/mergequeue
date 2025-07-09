@@ -3357,7 +3357,6 @@ forefeet
 fungilliform
 filopodium
 fiddlestick
-finickin
 frambesia
 farsight
 fivescore
@@ -8803,6 +8802,7 @@ frailes
 fetchers
 flotillas
 fidelity
+finickin
 fossage
 fanlight
 female
