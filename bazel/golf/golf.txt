@@ -4076,6 +4076,7 @@ geotaxes
 geniculum
 gettysburg
 gargoyle
+grubbery
 gymmal
 gephyrean
 grimoire
@@ -9626,7 +9627,6 @@ gaeltacht
 grozer
 guerite
 gastrointestinal
-grubbery
 grintern
 garse
 ghanian
