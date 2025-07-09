@@ -6004,6 +6004,7 @@ animalcular
 anatomists
 arioso
 avestruz
+atik
 agility
 auxotrophic
 antemortal
@@ -17388,7 +17389,6 @@ aliment
 ampuls
 apostrophes
 atomising
-atik
 aviculture
 avoirdupois
 apostrophied
