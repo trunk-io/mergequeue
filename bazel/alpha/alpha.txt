@@ -6751,7 +6751,6 @@ aircraftsmen
 aircraftswoman
 aircraftwoman
 aircrew
-aortae
 agrimonia
 axoplasms
 airdate
@@ -22896,6 +22895,7 @@ atrypa
 asthenopic
 argyraspides
 atriplex
+aortae
 atrypoid
 assimilation
 antigovernment
