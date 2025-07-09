@@ -5223,6 +5223,7 @@ doghole
 deathly
 disterr
 devoid
+detrimental
 diazoamino
 denitrifier
 denitrifying
@@ -13202,7 +13203,6 @@ dysphonia
 dispends
 dysphotic
 dysphrasia
-detrimental
 dollardee
 dispicion
 dicentrin
