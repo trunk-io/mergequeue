@@ -1313,7 +1313,6 @@ gladite
 gheleem
 gieing
 gazaboes
-garroter
 glut
 gary
 groundling
@@ -4421,6 +4420,7 @@ grainsickness
 gammelost
 graminology
 grades
+garroter
 gossipy
 genericalness
 gommelin
