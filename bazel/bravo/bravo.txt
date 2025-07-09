@@ -9144,7 +9144,6 @@ basiotribe
 bighted
 biosystematic
 biosociological
-biocoenose
 budzart
 bodysuit
 biosome
@@ -9177,6 +9176,7 @@ botanists
 becalmment
 biotelemetries
 biotical
+biocoenose
 bobwhite
 bespreads
 beanstalks
