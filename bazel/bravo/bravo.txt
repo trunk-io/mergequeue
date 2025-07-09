@@ -539,7 +539,6 @@ backtracking
 backtracks
 backout
 babies
-backus
 betrayment
 backveld
 beech
@@ -9370,6 +9369,7 @@ bluebush
 butter
 bottommost
 birded
+backus
 birdfarm
 bimah
 brachiotomy
