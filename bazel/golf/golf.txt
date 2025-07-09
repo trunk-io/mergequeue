@@ -8973,7 +8973,6 @@ griff
 getable
 gigant
 glenlike
-greenbelt
 guiltier
 griffaun
 gingivectomy
@@ -9209,6 +9208,7 @@ gleaning
 guser
 gebur
 glouting
+greenbelt
 gooserumped
 grison
 galangals
