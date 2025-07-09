@@ -4985,6 +4985,7 @@ beermonger
 blackland
 benzoyls
 bumpoff
+bricked
 beefers
 bombycilla
 breakfasters
@@ -6583,7 +6584,6 @@ berberi
 bout
 biohazard
 berberid
-bricked
 brutality
 bundoc
 bedevilled
