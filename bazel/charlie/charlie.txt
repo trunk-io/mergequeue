@@ -9944,7 +9944,6 @@ caudotibialis
 chemiloon
 chemiluminescence
 chemiotactic
-chemiotaxic
 carvone
 chemiotaxis
 chemiotropic
@@ -27501,6 +27500,7 @@ covariates
 covassal
 cove
 coadunate
+chemiotaxic
 courtzilite
 coved
 clavately
