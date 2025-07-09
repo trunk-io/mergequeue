@@ -5828,7 +5828,6 @@ agendums
 amovability
 agene
 ataxite
-ageneses
 ancestorial
 agenesis
 agenetic
@@ -7903,6 +7902,7 @@ adumbral
 aleknight
 agreat
 avouched
+ageneses
 azodiphenyl
 afterlife
 adenography
