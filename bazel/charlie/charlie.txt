@@ -6793,7 +6793,6 @@ celeb
 capicha
 clition
 celebrant
-cohesions
 celebrants
 celebrate
 comiakin
@@ -15924,6 +15923,7 @@ coprostasia
 chien
 caranga
 catnapper
+cohesions
 clearsightedness
 clearstarcher
 clearstory
