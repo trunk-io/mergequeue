@@ -3496,7 +3496,6 @@ bissext
 birdcall
 batched
 batcher
-bargemen
 bogging
 bateau
 blastomycetous
@@ -8164,6 +8163,7 @@ bidirectionally
 beliefs
 bania
 boathouses
+bargemen
 bountith
 bidree
 bottle
