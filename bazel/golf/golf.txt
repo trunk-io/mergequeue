@@ -4718,7 +4718,6 @@ greenwood
 gadling
 gonimolobe
 germanophobia
-gryphite
 ganocephalan
 grumium
 goad
@@ -10310,6 +10309,7 @@ goralog
 gleaner
 guichet
 gujarati
+gryphite
 gametic
 girondin
 gamodesmic
