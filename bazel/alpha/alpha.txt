@@ -273,6 +273,7 @@ accenting
 abdominalian
 appurtenances
 accuracy
+aminase
 autotropism
 abdominally
 aeroacoustic
@@ -13382,7 +13383,6 @@ ankles
 aetolian
 armament
 anklet
-aminase
 anklong
 anklung
 ankoli
