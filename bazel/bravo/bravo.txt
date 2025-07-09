@@ -6451,7 +6451,6 @@ balau
 benzosulfimide
 biophysiologist
 barbaresque
-benzosulphimide
 bedlamer
 behoot
 blowup
@@ -7516,6 +7515,7 @@ bevaring
 bestowage
 beveil
 bevelled
+benzosulphimide
 bardism
 belayer
 beveller
