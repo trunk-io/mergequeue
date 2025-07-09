@@ -2908,6 +2908,7 @@ bearers
 bioenvironmentaly
 barrelfuls
 baguettes
+benzol
 blind
 benefactor
 bushers
@@ -8856,7 +8857,6 @@ bari
 banalities
 battery
 bedrivels
-benzol
 balsamiferous
 braeface
 brimfulness
