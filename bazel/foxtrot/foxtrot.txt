@@ -3101,7 +3101,6 @@ fairyology
 firemanship
 footwears
 frostflower
-fissioned
 fibbery
 fibbers
 fustin
@@ -4939,6 +4938,7 @@ frightenedness
 factional
 fabricational
 foldedly
+fissioned
 frumpy
 fibrinate
 fellage
