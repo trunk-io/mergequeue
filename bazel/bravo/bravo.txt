@@ -1577,6 +1577,7 @@ bifidity
 bareboats
 beknighting
 brummagem
+bundlet
 bemol
 ballyhoo
 ballyrags
@@ -15622,7 +15623,6 @@ bisulcated
 bosoming
 bacteriohemolysin
 bauxitite
-bundlet
 bluster
 botulismus
 blastomycetes

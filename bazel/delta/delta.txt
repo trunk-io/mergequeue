@@ -6326,7 +6326,6 @@ disgrade
 deaccessioned
 dephlegmatory
 dermenchysis
-delacrimation
 dermestid
 dermatoneural
 dextrogyration
@@ -15969,6 +15968,7 @@ dotard
 dotardism
 darned
 duddle
+delacrimation
 dotarie
 drybeard
 disheveling
