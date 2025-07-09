@@ -1037,7 +1037,6 @@ bailiaries
 bargainwise
 bailieries
 botargos
-bailieship
 bailiff
 biogeographic
 bailiffs
@@ -9016,6 +9015,7 @@ biologic
 biologics
 busybodyish
 biologist
+bailieship
 bedstands
 bioluminescence
 blighties
