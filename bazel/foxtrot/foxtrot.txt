@@ -2051,7 +2051,6 @@ feudovassalism
 furmity
 funnelled
 feezes
-forejudge
 fefnicute
 frizzer
 fullam
@@ -9198,6 +9197,7 @@ forward
 filices
 filenames
 fifteenths
+forejudge
 flustroid
 fixive
 fanaloka
