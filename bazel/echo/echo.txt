@@ -4040,6 +4040,7 @@ erratical
 encrusting
 eremian
 enchaining
+eplot
 engross
 earle
 elve
@@ -11834,7 +11835,6 @@ exists
 exauthorate
 exauthorizeexc
 epileptics
-eplot
 externization
 electromagnetically
 epirrhematic
