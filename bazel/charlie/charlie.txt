@@ -6027,7 +6027,6 @@ catheterism
 catheterization
 catheterized
 commonality
-cerastium
 catheterizes
 cathetometer
 cartopper
@@ -31858,6 +31857,7 @@ consortion
 cutout
 collenchyma
 cutpurse
+cerastium
 cyclothyme
 casuality
 cochliodont
