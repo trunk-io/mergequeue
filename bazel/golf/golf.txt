@@ -7667,7 +7667,6 @@ governors
 graduses
 gentium
 gullage
-graciosos
 guinde
 girba
 gemlike
@@ -10849,6 +10848,7 @@ galeres
 galianes
 girderless
 guzzling
+graciosos
 gunneress
 grewsomer
 granoblastic
