@@ -2749,6 +2749,7 @@ dictates
 dissembling
 decore
 dorsoventrad
+dur
 dewcup
 decorist
 dragged
@@ -7497,7 +7498,6 @@ devalue
 deurwaarder
 dipsadinae
 doorwise
-dur
 degger
 dibase
 durdum
