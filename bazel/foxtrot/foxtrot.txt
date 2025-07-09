@@ -6698,7 +6698,6 @@ finewed
 figurize
 fofarraw
 falderol
-fortifier
 faqirs
 feted
 flyblow
@@ -11224,6 +11223,7 @@ funky
 filter
 functional
 fylfot
+fortifier
 forevision
 fayence
 factable
