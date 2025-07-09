@@ -8442,7 +8442,6 @@ balkier
 biogenous
 blackwood
 bilayer
-burp
 bedarkened
 bookmen
 bilalo
@@ -9801,6 +9800,7 @@ bubblebow
 blandest
 bisulfate
 bromatology
+burp
 buries
 bocca
 bitable
