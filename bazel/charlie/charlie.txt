@@ -418,7 +418,6 @@ cacotheline
 cacothymia
 cacotype
 cacotopia
-cacotrophia
 coombs
 ceratocricoid
 consonantize
@@ -4088,6 +4087,7 @@ cardiagraphy
 cardial
 cardialgy
 caryl
+cacotrophia
 coevals
 centaurian
 cardialgia
