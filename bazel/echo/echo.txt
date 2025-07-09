@@ -672,7 +672,6 @@ epigonos
 enshrouding
 extracondensed
 emaculate
-eclipse
 exudative
 eclipsed
 equivocacy
@@ -2217,6 +2216,7 @@ eldrich
 eldritch
 enchased
 eulogy
+eclipse
 endocytic
 elecives
 electant
