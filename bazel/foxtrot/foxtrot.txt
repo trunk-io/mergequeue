@@ -92,6 +92,7 @@ faces
 folkright
 flattening
 flowerfence
+fitified
 foliobranch
 fiendish
 flagrantness
@@ -4656,7 +4657,6 @@ fasciotomy
 fleckless
 fruitgrowing
 fitchew
-fitified
 fluoridizing
 flank
 flavory
