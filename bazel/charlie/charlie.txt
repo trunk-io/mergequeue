@@ -8432,6 +8432,7 @@ chalking
 converts
 chalklike
 chalkline
+charge
 chantage
 columnated
 chalkone
@@ -9069,7 +9070,6 @@ charette
 chemisms
 chargable
 combmaker
-charge
 chargeable
 ciphertext
 collective
