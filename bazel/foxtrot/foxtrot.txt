@@ -5156,6 +5156,7 @@ fregit
 freeway
 farmhousey
 flashings
+forepale
 fulgently
 flashlight
 frizzly
@@ -11669,7 +11670,6 @@ funnellike
 futhorc
 fleshers
 fillowite
-forepale
 foxskins
 flameholder
 fructiform
