@@ -5316,6 +5316,7 @@ fungibles
 fleshlily
 finmarks
 farmsteads
+feudalizable
 fetishistic
 fogbound
 fumage
@@ -10606,7 +10607,6 @@ finched
 fructuate
 festooned
 fulani
-feudalizable
 farceurs
 flative
 familiarities
