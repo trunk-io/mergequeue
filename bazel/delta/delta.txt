@@ -8303,7 +8303,6 @@ dandyprat
 duel
 diagonals
 deducting
-diagonalwise
 denudate
 dicatalexis
 demonization
@@ -13701,6 +13700,7 @@ doucin
 degases
 dissymmetric
 degender
+diagonalwise
 dampy
 devises
 dynamis

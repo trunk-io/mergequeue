@@ -978,7 +978,6 @@ enosis
 epimeritic
 embalming
 entailments
-emanator
 epencephalic
 eulogies
 eodiscid
@@ -10593,6 +10592,7 @@ energiser
 epitoxoid
 epistolized
 endogenic
+emanator
 exody
 engolden
 euchlorine
