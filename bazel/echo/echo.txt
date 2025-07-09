@@ -7253,7 +7253,6 @@ exposed
 ejidos
 earthshock
 exiguous
-enderon
 erythropoietic
 electrotropic
 eupnoeas
@@ -12843,6 +12842,7 @@ excavation
 empacket
 eroticization
 expansive
+enderon
 exothecal
 eccentrics
 ecologic
