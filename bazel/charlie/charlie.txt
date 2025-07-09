@@ -2633,6 +2633,7 @@ camelopardel
 canes
 caprellidae
 canescence
+carpogone
 canescent
 chaetetes
 conversationalist
@@ -20397,7 +20398,6 @@ commutant
 commutated
 commutation
 commutatively
-carpogone
 commutativity
 commutator
 commute
