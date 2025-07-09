@@ -1960,6 +1960,7 @@ acetins
 adangle
 acetize
 assertions
+analyzer
 abulyeit
 acetla
 acetoacetate
@@ -8616,7 +8617,6 @@ allantoidean
 allantoides
 allantoin
 associationalism
-analyzer
 allantoinase
 ampullosity
 allantoinuria
