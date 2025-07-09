@@ -4992,6 +4992,7 @@ firmware
 foveolet
 flocking
 fulcraceous
+fluxmeter
 flagarie
 flamencos
 fraunch
@@ -5501,7 +5502,6 @@ fricassee
 friezy
 fiduciarily
 friseurs
-fluxmeter
 fossed
 fretwork
 forbarred
