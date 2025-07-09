@@ -3410,7 +3410,6 @@ fidge
 frogfoot
 fractionally
 fidgeted
-fractals
 faultage
 foilsmen
 floorers
@@ -9949,6 +9948,7 @@ forsythias
 ferromagnetism
 flappiest
 furze
+fractals
 friesian
 friezed
 fittable
