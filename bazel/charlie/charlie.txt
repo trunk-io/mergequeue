@@ -11261,7 +11261,6 @@ cantion
 chlamydobacteriales
 clamours
 castrations
-chlamydosaurus
 chlamydoselachidae
 chlamydozoa
 chlamydozoan
@@ -17409,6 +17408,7 @@ comptonite
 constrains
 cadis
 coarsely
+chlamydosaurus
 cranched
 coarsened
 coarseness
