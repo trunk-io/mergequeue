@@ -872,7 +872,6 @@ garrooka
 gazi
 gameness
 gripman
-gallowsward
 geegaw
 galactan
 glove
@@ -10773,6 +10772,7 @@ gibblegable
 glycyl
 gutt
 gerenuk
+gallowsward
 ghole
 guttae
 genialness
