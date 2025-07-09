@@ -9285,7 +9285,6 @@ biplane
 bobolink
 biplanes
 beclogging
-bonavist
 butler
 bantamweights
 blanch
@@ -12535,6 +12534,7 @@ bonhomies
 bonhomous
 boni
 bony
+bonavist
 burtonize
 boniata
 barbecued
