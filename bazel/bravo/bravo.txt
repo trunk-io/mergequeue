@@ -384,7 +384,6 @@ balkily
 brewery
 brachypodous
 bovarist
-backhaul
 backhauls
 bossy
 backhoe
@@ -10867,6 +10866,7 @@ beheads
 bonism
 blew
 blewits
+backhaul
 blick
 batekes
 bongrace
