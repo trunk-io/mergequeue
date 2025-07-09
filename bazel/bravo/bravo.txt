@@ -3112,6 +3112,7 @@ boswellize
 basella
 basellaceae
 bespattering
+bioaccumulation
 breakouts
 beallach
 biota
@@ -8883,7 +8884,6 @@ bastant
 binukau
 bleariness
 bathypelagic
-bioaccumulation
 bioactivities
 bioassaying
 byplace
