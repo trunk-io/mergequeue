@@ -17487,7 +17487,6 @@ coemptionator
 coauthority
 coauthors
 coauthorship
-coawareness
 coaxal
 coaxation
 canneries
@@ -26118,6 +26117,7 @@ congruential
 cosmically
 canterelle
 chiefdoms
+coawareness
 conspiratorial
 cosmism
 cosmisms
