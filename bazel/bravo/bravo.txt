@@ -580,6 +580,7 @@ bacon
 balkar
 baubee
 balisaur
+beardlike
 baconian
 bishopric
 breaths
@@ -15475,7 +15476,6 @@ brinksmanship
 batted
 brinsell
 backshish
-beardlike
 bargeload
 brioches
 baud
