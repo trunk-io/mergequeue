@@ -1164,7 +1164,6 @@ fervidness
 farthing
 fluffing
 feverishness
-fractional
 fibrillary
 filiates
 farthings
@@ -8424,6 +8423,7 @@ foreboded
 foppish
 forpine
 formalities
+fractional
 fetise
 fictitiously
 facsimilize
