@@ -1392,7 +1392,6 @@ bulter
 baldrib
 barbells
 balds
-bugged
 baculums
 bale
 baleare
@@ -10934,6 +10933,7 @@ bombers
 babroot
 blindstories
 brede
+bugged
 blindweed
 blindworm
 backscratcher
