@@ -12160,7 +12160,6 @@ anchoress
 anchoret
 aminish
 anchorets
-amblyopsis
 angiometer
 altruism
 almach
@@ -19644,6 +19643,7 @@ ariled
 artel
 ark
 arylide
+amblyopsis
 arillate
 affricative
 abwatts
