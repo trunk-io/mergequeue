@@ -2794,7 +2794,6 @@ fedity
 fictionize
 fascis
 foliolate
-fessed
 fragmentarily
 fellinic
 fesses
@@ -11426,6 +11425,7 @@ frustrable
 furodiazole
 feoff
 foraminated
+fessed
 funiculus
 few
 furomethyl
