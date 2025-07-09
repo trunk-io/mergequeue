@@ -1257,6 +1257,7 @@ fund
 fluoroscopy
 floggings
 fleech
+filament
 fears
 function
 fascistization
@@ -3608,7 +3609,6 @@ formant
 frightful
 foulsome
 filamentary
-filament
 flavous
 flagrancy
 flaggelating
