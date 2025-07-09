@@ -6613,7 +6613,6 @@ gondolas
 guidons
 global
 glasseye
-gondoletta
 gumlike
 guffs
 gangliform
@@ -6687,6 +6686,7 @@ gluttonies
 geer
 graphitic
 gigs
+gondoletta
 gastronephritis
 gonidic
 gucki
