@@ -7865,7 +7865,6 @@ biberon
 bibi
 bibionid
 bewreath
-bealtine
 bibiri
 brad
 barefisted
@@ -10435,6 +10434,7 @@ beesting
 baritone
 boviform
 bribetaking
+bealtine
 biune
 beachboy
 bastion
