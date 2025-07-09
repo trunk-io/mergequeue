@@ -59,7 +59,6 @@ ferns
 fosterlings
 flauntier
 forebless
-foresight
 friskily
 faster
 fibrolite
@@ -7486,6 +7485,7 @@ fordoes
 flittingly
 faecal
 fray
+foresight
 fini
 fordrive
 forboded

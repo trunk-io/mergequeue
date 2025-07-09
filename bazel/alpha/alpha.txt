@@ -4946,7 +4946,6 @@ aeronomer
 amyliferous
 aumil
 aeronomy
-aeronomic
 aeronomical
 anisogametic
 aeronomics
@@ -18833,6 +18832,7 @@ artamidae
 archeus
 archexorcist
 archfiend
+aeronomic
 aroma
 archflamen
 archfoe
