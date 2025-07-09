@@ -5382,7 +5382,6 @@ fraughting
 feedbin
 fettles
 flanken
-fascia
 fruiteries
 ferulaic
 foldboater
@@ -10719,6 +10718,7 @@ faenus
 flam
 flotsams
 frumps
+fascia
 foldboat
 forcedly
 foveated
