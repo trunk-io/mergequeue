@@ -3025,7 +3025,6 @@ fevered
 furnacing
 forced
 feveret
-forefending
 forefault
 forworden
 facility
@@ -6550,6 +6549,7 @@ flytail
 finecomb
 fluting
 freakishly
+forefending
 flasque
 foreworn
 foetid
