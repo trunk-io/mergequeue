@@ -38,6 +38,7 @@ flintworker
 furies
 farmscape
 flick
+formatters
 finically
 fabricators
 fabricature
@@ -5513,7 +5514,6 @@ fillet
 ferally
 fleshing
 fettuccine
-formatters
 functionalities
 fanjets
 fleshliest
