@@ -259,7 +259,6 @@ bootmaking
 bloodroot
 bacilary
 bacile
-bacillaceae
 brarow
 bacillariaceae
 baldric
@@ -17011,6 +17010,7 @@ bronchiostenosis
 broomtail
 bayman
 braces
+bacillaceae
 bulimus
 baler
 bimahs
