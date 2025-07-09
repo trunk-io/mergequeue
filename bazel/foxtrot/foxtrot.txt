@@ -1106,7 +1106,6 @@ furculae
 floricomous
 farnesols
 fringillidae
-foraging
 fogas
 faro
 floriken
@@ -1511,6 +1510,7 @@ fatuitous
 foothil
 fanwe
 familiarise
+foraging
 floorwalkers
 fringing
 fetched
