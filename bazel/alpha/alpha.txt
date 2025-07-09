@@ -12137,6 +12137,7 @@ ancestry
 autocue
 ancestrian
 allodge
+atlatls
 ancha
 asgard
 albuminimetry
@@ -25002,7 +25003,6 @@ antheriferous
 anthroic
 awhet
 awhile
-atlatls
 awhir
 awhirl
 antedon
