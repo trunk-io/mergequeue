@@ -10196,7 +10196,6 @@ blackguardry
 beseechers
 blackgum
 beclamored
-baulking
 beachcombing
 boastings
 blackgums
@@ -12238,6 +12237,7 @@ billet
 bolshevist
 bolshevistic
 basso
+baulking
 biopoesis
 bolshevize
 bilboas
