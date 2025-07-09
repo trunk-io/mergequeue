@@ -5317,7 +5317,6 @@ endoscope
 endoscopes
 equivocalities
 egeran
-endoscopies
 endosymbiosis
 epipodia
 endoskeletons
@@ -11764,6 +11763,7 @@ eleemosynariness
 epanadiplosis
 exosphere
 elusory
+endoscopies
 excavating
 enactors
 escheatorship
