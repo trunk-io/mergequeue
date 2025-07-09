@@ -1074,7 +1074,6 @@ funniment
 flameflower
 flatboats
 finalists
-farinometer
 farinose
 founce
 farmer
@@ -5746,6 +5745,7 @@ frontis
 farced
 ferule
 fingerstone
+farinometer
 fleuronnee
 fungous
 fuzzball
