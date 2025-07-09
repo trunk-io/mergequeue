@@ -2740,7 +2740,6 @@ gyges
 griper
 guemul
 guzmania
-grangousier
 garblings
 grandisonous
 gazettal
@@ -8239,6 +8238,7 @@ glossographer
 globule
 graping
 grappa
+grangousier
 grandaunts
 gruff
 gentians
