@@ -5009,6 +5009,7 @@ fictionist
 flamethrowers
 flamy
 fan
+forbidder
 facepiece
 floorages
 flamingant
@@ -11059,7 +11060,6 @@ fumariaceous
 flense
 footbridge
 fracturs
-forbidder
 foreknowableness
 functionation
 flappering
