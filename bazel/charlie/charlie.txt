@@ -11050,7 +11050,6 @@ cicatrixes
 chiromantis
 chirometer
 chiromys
-chironym
 caecum
 chironomid
 chastised
@@ -18666,6 +18665,7 @@ coinable
 coinage
 coinages
 coincide
+chironym
 corpulently
 coincided
 cobbler
