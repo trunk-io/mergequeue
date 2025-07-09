@@ -4899,7 +4899,6 @@ equibalance
 entablements
 excisions
 ef
-esteemable
 encumbrance
 extrabureau
 english
@@ -12592,6 +12591,7 @@ exclaim
 exobasidium
 eupathy
 echuca
+esteemable
 eating
 epistolet
 epaenetic
