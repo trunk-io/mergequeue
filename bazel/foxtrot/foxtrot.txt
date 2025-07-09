@@ -7432,6 +7432,7 @@ fey
 flurriment
 falconers
 firefang
+feyness
 footmen
 forwarder
 filicides
@@ -11295,7 +11296,6 @@ fusspot
 fulmicotton
 feasance
 fatwa
-feyness
 firedog
 formatted
 feverfew
