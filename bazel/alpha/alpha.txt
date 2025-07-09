@@ -4482,7 +4482,6 @@ ankle
 antebridal
 aglycone
 atelectatic
-adverbial
 adverbially
 aggerose
 adverbiation
@@ -15432,6 +15431,7 @@ alogical
 antimechanism
 antimechanistic
 apocopic
+adverbial
 antimechanistically
 antimechanization
 antimediaevalist
