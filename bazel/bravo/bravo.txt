@@ -2555,6 +2555,7 @@ bactrian
 backtalk
 barile
 barilla
+becivet
 bleeder
 blackie
 basiglandular
@@ -14435,7 +14436,6 @@ barricado
 breamed
 behelp
 biometrist
-becivet
 braireau
 braises
 bendays
