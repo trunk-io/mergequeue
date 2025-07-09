@@ -5425,7 +5425,6 @@ glauconiidae
 glyptodon
 goi
 glyptodontoid
-gracelike
 griphosaurus
 gaea
 glyptolith
@@ -8934,6 +8933,7 @@ glycogelatin
 germless
 gastrodidymus
 gridelin
+gracelike
 griding
 gasped
 giveaways
