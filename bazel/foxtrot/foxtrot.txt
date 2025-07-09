@@ -504,6 +504,7 @@ fleetful
 foulard
 fuseau
 fakeer
+favorer
 fetiferous
 fullbacks
 foremastman
@@ -1633,7 +1634,6 @@ finfoot
 fooster
 favored
 feasibilities
-favorer
 ferrash
 fleecelike
 fourstrand
