@@ -7266,7 +7266,6 @@ genys
 grizzles
 gymnasisiums
 gospelmonger
-glareolidae
 gospels
 gospelwards
 gossard
@@ -8072,6 +8071,7 @@ gibsons
 galeproof
 gastrolavage
 gnawing
+glareolidae
 gudebrother
 gallygaskins
 granulative
