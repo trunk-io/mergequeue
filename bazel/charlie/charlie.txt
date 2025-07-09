@@ -18326,7 +18326,6 @@ counterview
 continuant
 coffeetime
 coffer
-corridor
 cofferdam
 chaetophorales
 cephalotome
@@ -21477,6 +21476,7 @@ concocted
 concocter
 counteraddress
 concoctions
+corridor
 cornerpiece
 calcination
 carotic
