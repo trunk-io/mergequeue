@@ -2078,7 +2078,6 @@ guarabu
 gazebo
 gazeboes
 guestship
-gyros
 grampus
 gen
 glumiferous
@@ -5079,6 +5078,7 @@ glathsheim
 gte
 gabrielrache
 glathsheimr
+gyros
 ginnel
 grimful
 gourmander
