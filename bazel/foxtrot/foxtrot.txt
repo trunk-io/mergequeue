@@ -3470,7 +3470,6 @@ fiascoes
 fluming
 foretalk
 fiendly
-feudalization
 freestyle
 featurely
 fatidic
@@ -5560,6 +5559,7 @@ family
 forestays
 favellae
 fissiparism
+feudalization
 flexion
 flexitime
 ferdiad
