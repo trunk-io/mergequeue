@@ -1023,7 +1023,6 @@ forklifts
 fardel
 flannelmouth
 foxhound
-fusion
 fardelet
 futtah
 fards
@@ -7742,6 +7741,7 @@ fetography
 forelook
 foremade
 fauvist
+fusion
 facer
 fanfaronade
 firearms
