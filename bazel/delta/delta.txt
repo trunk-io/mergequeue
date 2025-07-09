@@ -1040,6 +1040,7 @@ darn
 darndest
 darnels
 domestics
+discoverable
 dishes
 diacodium
 deas
@@ -11767,7 +11768,6 @@ disprobabilization
 dashy
 discourteousness
 discoach
-discoverable
 disworth
 dockman
 discoverer
