@@ -2572,7 +2572,6 @@ gramma
 gonocalyx
 goodness
 gynecia
-galores
 graal
 glims
 gymnosophist
@@ -6740,6 +6739,7 @@ gobleted
 graybeards
 garvanzo
 ganocephala
+galores
 gonionia
 gnosticize
 goniopholidae
