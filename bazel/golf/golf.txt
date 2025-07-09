@@ -5411,6 +5411,7 @@ guniter
 glyphic
 gambist
 gascoign
+gaby
 guran
 girlhood
 gauche
@@ -10121,7 +10122,6 @@ guggle
 grisping
 glottologic
 giojoso
-gaby
 guglet
 goldenhair
 galways
