@@ -2601,7 +2601,6 @@ foresightful
 falerno
 fairyhood
 flanes
-ferryboat
 fitchews
 faithbreach
 forewarningly
@@ -5102,6 +5101,7 @@ fowler
 fluorescence
 faky
 factorially
+ferryboat
 flapping
 folders
 fessely
