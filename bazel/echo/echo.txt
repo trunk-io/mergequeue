@@ -6251,6 +6251,7 @@ economic
 ellipsoid
 exodist
 enophthalmus
+enhungered
 executable
 enorm
 exhalations
@@ -7693,7 +7694,6 @@ encephalous
 eliminative
 ensconce
 elixirs
-enhungered
 extrabold
 electrophoridae
 epicoracoid
