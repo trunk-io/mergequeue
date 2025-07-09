@@ -2075,7 +2075,6 @@ campaigners
 campaigns
 colostric
 campana
-campane
 campanella
 coadjuvancy
 campania
@@ -9950,6 +9949,7 @@ chemiotaxis
 chemiotropic
 chemiotropism
 chemise
+campane
 crinet
 chemisette
 chemism
