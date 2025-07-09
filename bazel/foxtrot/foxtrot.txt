@@ -5421,6 +5421,7 @@ friendlily
 fennel
 friending
 frigefact
+forebay
 futurity
 forswears
 fleabiting
@@ -7504,7 +7505,6 @@ foreassurance
 forecabin
 feedingstuff
 footpace
-forebay
 fragmentization
 feathering
 flocked
