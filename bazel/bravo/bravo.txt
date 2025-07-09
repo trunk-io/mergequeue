@@ -2525,7 +2525,6 @@ bariatrician
 banderilla
 bariatrics
 baric
-barycenter
 bemused
 burmite
 brillolette
@@ -17120,6 +17119,7 @@ bullheaded
 baromotor
 bodeword
 backliding
+barycenter
 buckass
 bygones
 bullheads
