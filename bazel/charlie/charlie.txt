@@ -23944,6 +23944,7 @@ conuropsis
 conurus
 conus
 cypris
+correspondency
 cytometer
 chirl
 conusance
@@ -25720,7 +25721,6 @@ correspond
 corresponded
 correspondence
 correspondences
-correspondency
 correspondent
 composedness
 correspondential
