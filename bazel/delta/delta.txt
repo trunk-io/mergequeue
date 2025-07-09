@@ -2645,6 +2645,7 @@ decolourizer
 dumpcarts
 depletion
 dinglebird
+dirking
 decreers
 decolours
 decommission
@@ -14752,7 +14753,6 @@ discommission
 dibrach
 despumate
 doats
-dirking
 dobby
 dobermans
 drawls
