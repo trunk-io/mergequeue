@@ -12546,7 +12546,6 @@ euphemy
 enhalos
 enneacontahedron
 electricalness
-exist
 existed
 elucidating
 esne
@@ -13688,6 +13687,7 @@ extrajudicially
 externe
 excursionize
 exophagy
+exist
 epitaxy
 expiatist
 ermanaric
