@@ -8869,7 +8869,6 @@ cockpits
 chapelize
 chapellage
 cryptovolcanic
-coccolithophorid
 chapellany
 chapelled
 cimnel
@@ -17337,6 +17336,7 @@ caperer
 coalification
 cephalostyle
 clinopinacoidal
+coccolithophorid
 coalifies
 coalifying
 coalite
