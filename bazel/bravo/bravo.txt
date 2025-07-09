@@ -9999,7 +9999,6 @@ bargainor
 biverb
 beblear
 bedfast
-bivocal
 briton
 bossism
 bivocalized
@@ -17637,6 +17636,7 @@ burgomasters
 burgomastership
 balladwise
 bhakta
+bivocal
 burgundy
 burhel
 burhmoot
