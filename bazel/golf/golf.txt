@@ -2605,7 +2605,6 @@ gibbles
 genevan
 gedds
 grabbing
-giboia
 gadgets
 grudgingness
 genghis
@@ -6227,6 +6226,7 @@ gelfomino
 genethliatic
 goave
 greats
+giboia
 gregorianizer
 gorier
 gob
