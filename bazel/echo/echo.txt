@@ -4301,7 +4301,6 @@ exclaustration
 enamelist
 enamelless
 eluder
-enamels
 emit
 edibles
 enami
@@ -13089,6 +13088,7 @@ embolomeri
 expenders
 ectethmoid
 echites
+enamels
 expending
 eleuin
 ejectable
