@@ -8640,6 +8640,7 @@ filterability
 feet
 fuzes
 feticides
+forwardly
 forborn
 fytte
 farstepped
@@ -9655,7 +9656,6 @@ freen
 featherfoil
 foresay
 flowerer
-forwardly
 freenesses
 flotations
 freers
