@@ -4611,6 +4611,7 @@ aecioteliospore
 abigeus
 adversed
 aedeagi
+amphicarpaea
 aedeagus
 aediculae
 aedicule
@@ -11135,7 +11136,6 @@ amphibolous
 amphibrach
 amia
 amphibrachic
-amphicarpaea
 amphicarpia
 autallotriomorphic
 aptitudinal
