@@ -6677,7 +6677,6 @@ beribanded
 birdy
 bargeboard
 barbarious
-beriber
 beriberis
 berycid
 busyhead
@@ -11949,6 +11948,7 @@ bogbeans
 bordels
 bogberry
 baluchi
+beriber
 bogeyman
 broommaker
 branchiopneustic
