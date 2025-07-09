@@ -1936,7 +1936,6 @@ foredoom
 footstep
 fourdrinier
 foodless
-fundless
 flamboyantize
 faradizing
 frs
@@ -7000,6 +6999,7 @@ fondled
 fondles
 formalazine
 flannels
+fundless
 fineries
 fondly
 fluorspar
