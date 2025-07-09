@@ -5819,7 +5819,6 @@ glt
 gatten
 gendarmes
 greywacke
-gruiformes
 ghettoing
 griffins
 graffito
@@ -5912,6 +5911,7 @@ gimballed
 gnaphalium
 glitzy
 garrison
+gruiformes
 gemitorial
 globuliform
 gluishness
