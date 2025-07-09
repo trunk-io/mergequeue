@@ -12898,7 +12898,6 @@ disminion
 duumviral
 doomsters
 dismissable
-decreeable
 driftway
 dyebeck
 demerited
@@ -14680,6 +14679,7 @@ decentre
 dizain
 decameter
 dora
+decreeable
 degradability
 deuteropathy
 dizen
