@@ -21,7 +21,6 @@ gunsling
 gashouse
 geotropic
 gabbro
-gabelleman
 gowf
 gainers
 glycic
@@ -1332,6 +1331,7 @@ garlandless
 guls
 guillotiner
 greenalite
+gabelleman
 galvanist
 glycolylurea
 geoside
