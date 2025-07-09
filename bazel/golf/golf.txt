@@ -5249,6 +5249,7 @@ glister
 gluon
 grenier
 glibnesses
+gaussmeter
 glyceria
 grangerite
 genialize
@@ -10013,7 +10014,6 @@ graybeard
 grf
 graphed
 gaonate
-gaussmeter
 grammatolator
 gesneriaceous
 genetoid
