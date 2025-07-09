@@ -6613,7 +6613,6 @@ gondolas
 guidons
 global
 glasseye
-gondoletta
 gumlike
 guffs
 gangliform
@@ -8797,6 +8796,7 @@ geranomorphae
 grossularia
 germain
 generalize
+gondoletta
 griddler
 gastroschisis
 galleys
