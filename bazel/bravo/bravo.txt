@@ -5961,6 +5961,7 @@ broadpiece
 brontothere
 buffaloes
 beltane
+belduque
 belauding
 bimetalic
 belter
@@ -17049,7 +17050,6 @@ bullate
 bullation
 bullback
 bullbaiting
-belduque
 bibb
 boulterer
 beforetime
