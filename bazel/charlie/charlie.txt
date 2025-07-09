@@ -4086,6 +4086,7 @@ cardiagram
 cardiagraph
 cardiagraphy
 cardial
+checkable
 cardialgy
 caryl
 coevals
@@ -31563,7 +31564,6 @@ coho
 curtate
 controversialists
 curtein
-checkable
 curteous
 curter
 curtesies
