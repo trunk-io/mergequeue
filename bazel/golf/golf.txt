@@ -2202,6 +2202,7 @@ gastrotome
 gefulltefish
 galax
 gonidiogenous
+gonophorous
 gehlenite
 goblet
 grunted
@@ -10238,7 +10239,6 @@ gweduck
 gnathism
 gobbet
 guillotinist
-gonophorous
 gastroptosis
 grape
 graminivore
