@@ -7003,7 +7003,6 @@ entrainment
 entrains
 emissaryship
 entrancedly
-epicentrums
 entrancement
 enscene
 empusa
@@ -8270,6 +8269,7 @@ exaltee
 epistases
 epistasies
 energy
+epicentrums
 enhancers
 extrusive
 epibenthos
