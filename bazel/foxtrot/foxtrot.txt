@@ -441,6 +441,7 @@ flints
 festae
 fauchards
 fishgig
+fons
 fur
 frockmaker
 fairship
@@ -7029,7 +7030,6 @@ frigorific
 fermentum
 forebodings
 fucation
-fons
 ferrocalcite
 ferrum
 fontal
