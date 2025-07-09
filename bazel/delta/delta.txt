@@ -3876,7 +3876,6 @@ deionizations
 dichroiscope
 diatropic
 dyspnoea
-deionize
 decastyle
 dephlegm
 deselects
@@ -10234,6 +10233,7 @@ dehonestate
 demirevetment
 dudaim
 disallowing
+deionize
 distillation
 dinging
 dingleberry
