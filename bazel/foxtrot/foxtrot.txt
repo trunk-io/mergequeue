@@ -5526,7 +5526,6 @@ fleshmonger
 fcy
 flagfall
 fletcherism
-frontignac
 following
 fervours
 finnan
@@ -6667,6 +6666,7 @@ flees
 flintily
 formaldehydesulphoxylate
 footpath
+frontignac
 fillip
 foehnlike
 fpsps
