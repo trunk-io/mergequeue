@@ -7947,7 +7947,6 @@ cervixes
 collar
 cervoid
 cervuline
-cervus
 cesare
 cesareans
 cesarevitch
@@ -21411,6 +21410,7 @@ concional
 concionate
 callidness
 concionator
+cervus
 concionatory
 credulously
 concipient
