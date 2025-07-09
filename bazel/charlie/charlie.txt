@@ -21051,7 +21051,6 @@ cypsela
 compunct
 compunction
 cressed
-curvedness
 catenaries
 consolidate
 compunctionless
@@ -21550,6 +21549,7 @@ concretionary
 concretist
 concretive
 concretively
+curvedness
 concretization
 concretized
 contraprovectant
