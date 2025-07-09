@@ -4889,7 +4889,6 @@ carretera
 carreton
 carri
 cetaceous
-carry
 carriage
 carriageable
 carriageful
@@ -10828,6 +10827,7 @@ chinchillas
 chinchillette
 caligo
 contracivil
+carry
 churnability
 chinchona
 chincof
