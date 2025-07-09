@@ -5962,7 +5962,6 @@ enhypostatize
 encrinoidea
 ecclesiophobia
 emprosthotonos
-encoffin
 effate
 enhuile
 enhunger
@@ -10308,6 +10307,7 @@ elucidatory
 embiotocoid
 endoscopist
 endosarcous
+encoffin
 earlap
 embroiled
 everblooming
