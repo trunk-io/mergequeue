@@ -2860,6 +2860,7 @@ bannermen
 barrage
 barnmen
 banger
+boyaux
 brushland
 barraging
 bailer
@@ -12032,7 +12033,6 @@ boyau
 buybacks
 bilinigrin
 bronchiolus
-boyaux
 bronchostomies
 bicentenaries
 bojite
