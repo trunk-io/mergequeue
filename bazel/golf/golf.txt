@@ -610,6 +610,7 @@ galliney
 guaranian
 glockenspiels
 gravities
+gravidae
 glossopalatine
 grieben
 galliots
@@ -3856,7 +3857,6 @@ graders
 gonotome
 glarily
 galeoid
-gravidae
 goral
 glossem
 geminated
