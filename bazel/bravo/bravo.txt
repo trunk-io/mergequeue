@@ -11966,7 +11966,6 @@ blastemas
 boggler
 bannerol
 bogglers
-boggling
 basswoods
 bessarabian
 brinded
@@ -18331,6 +18330,7 @@ biasness
 buttonwood
 baragouin
 bunkums
+boggling
 buttress
 brakier
 buttressed
