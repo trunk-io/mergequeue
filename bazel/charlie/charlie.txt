@@ -18980,6 +18980,7 @@ collaborators
 closehauled
 cosigner
 calligrapher
+conversational
 colladas
 crematoria
 collage
@@ -24077,7 +24078,6 @@ conversationable
 competency
 coactor
 crimpy
-conversational
 conversationalists
 conversationally
 conversationism
