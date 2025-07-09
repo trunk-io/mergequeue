@@ -4545,7 +4545,6 @@ graphometry
 gagger
 grinter
 guardrail
-garotter
 genoms
 gigantopithecus
 gypseian
@@ -8028,6 +8027,7 @@ garrotted
 gymnophobia
 gymnocarpic
 garau
+garotter
 gratulating
 gads
 gyve
