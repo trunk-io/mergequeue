@@ -1596,6 +1596,7 @@ flumped
 fussy
 foreteach
 farrow
+figura
 frundel
 flywort
 fauvette
@@ -2802,7 +2803,6 @@ flaunche
 franciums
 facetiation
 festally
-figura
 fluoridized
 fittyways
 festellae
