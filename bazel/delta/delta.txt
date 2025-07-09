@@ -2241,6 +2241,7 @@ dungeonlike
 diapyetic
 dowieism
 daystar
+declinations
 deceiving
 deflex
 domineerer
@@ -2563,7 +2564,6 @@ declinational
 decasualization
 dipneumones
 dimmed
-declinations
 dynasty
 declinator
 declinatory
