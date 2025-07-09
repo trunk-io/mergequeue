@@ -4786,6 +4786,7 @@ bougee
 bedroll
 bedrooms
 bruckle
+babbitts
 bedrowse
 bandicoots
 bedrugged
@@ -5496,7 +5497,6 @@ basting
 behoves
 behoving
 battements
-babbitts
 behowled
 boisseau
 broken
