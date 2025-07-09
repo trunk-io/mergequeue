@@ -1783,6 +1783,7 @@ fuselage
 faviform
 feasibly
 fashionmonger
+finestiller
 flighted
 fascio
 floats
@@ -11635,7 +11636,6 @@ fibrous
 fylgja
 fosite
 funestal
-finestiller
 forehew
 fustigatory
 funkers
