@@ -3698,6 +3698,7 @@ farmable
 fridstool
 fielder
 floatsman
+forties
 froglets
 fermatas
 figurate
@@ -4873,7 +4874,6 @@ faena
 fellowshipping
 falsen
 forestology
-forties
 footbath
 frostbiter
 footloose
