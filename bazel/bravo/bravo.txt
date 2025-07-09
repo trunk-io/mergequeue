@@ -3217,6 +3217,7 @@ balak
 basilect
 begunk
 beautifying
+bordure
 bote
 blottesquely
 babbling
@@ -16937,7 +16938,6 @@ begirded
 bondelswarts
 bedewoman
 buildups
-bordure
 bespeakable
 backland
 briolettes
