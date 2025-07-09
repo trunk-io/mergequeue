@@ -5945,7 +5945,6 @@ grangerize
 gensengs
 graylag
 geodesics
-gazogenes
 galactopathy
 ginkgoes
 geoemtry
@@ -6655,6 +6654,7 @@ graptolithida
 gallflies
 gimlets
 garce
+gazogenes
 guarnieri
 gumboils
 gastropancreatic
