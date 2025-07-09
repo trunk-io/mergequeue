@@ -3805,7 +3805,6 @@ drillable
 dateable
 dynamites
 distrain
-deice
 disseizoress
 defibrillation
 deicers
@@ -4970,6 +4969,7 @@ draughty
 debussy
 demoralizes
 demorphism
+deice
 demospongiae
 demosthenean
 deckels
