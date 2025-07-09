@@ -14732,7 +14732,6 @@ cystogenesis
 cystogram
 cystoid
 cystoidea
-cystoidean
 crime
 cryptogenous
 cystolith
@@ -23593,6 +23592,7 @@ cleating
 continuedness
 comprovincial
 continuer
+cystoidean
 cytostome
 continuers
 continuing
