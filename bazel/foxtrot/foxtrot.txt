@@ -2704,7 +2704,6 @@ feedings
 felspathic
 fainaigue
 froufrou
-flickering
 foxfishes
 fishhold
 fifty
@@ -10076,6 +10075,7 @@ figure
 faradonervous
 flannelled
 fleyed
+flickering
 flyball
 foamiest
 fluorate
