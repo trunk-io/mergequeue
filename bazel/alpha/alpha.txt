@@ -9963,7 +9963,6 @@ ambergris
 ahchoo
 amberite
 amicron
-artiller
 arrival
 acridid
 amberjacks
@@ -22957,6 +22956,7 @@ attabal
 attacca
 attacco
 amphibolite
+artiller
 akuammine
 antiperistaltic
 attach
