@@ -6131,7 +6131,6 @@ derangeable
 deranges
 dropout
 demurs
-durgen
 deader
 deckedout
 derated
@@ -9408,6 +9407,7 @@ differentiate
 dioscoreaceous
 differentiator
 defalcates
+durgen
 deneb
 dewax
 diplopia
