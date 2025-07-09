@@ -6061,7 +6061,6 @@ eyrie
 estoque
 expromissor
 expelling
-endosarcs
 expire
 ere
 epiglottises
@@ -6496,6 +6495,7 @@ ensnared
 ensnarer
 echinostoma
 eobionts
+endosarcs
 edental
 evenmete
 euctical
