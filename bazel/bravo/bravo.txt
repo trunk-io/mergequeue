@@ -1330,6 +1330,7 @@ bunks
 bacteriophagous
 bobbles
 balboa
+botulismus
 bethlehem
 bookdealer
 bioplastic
@@ -15624,7 +15625,6 @@ bacteriohemolysin
 bauxitite
 bundlet
 bluster
-botulismus
 blastomycetes
 burr
 bedog
