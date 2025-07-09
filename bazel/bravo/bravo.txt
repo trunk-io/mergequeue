@@ -5886,7 +5886,6 @@ buckbrush
 baronship
 bellmanship
 bellmouth
-briners
 braggingly
 buttstock
 bellota
@@ -5961,6 +5960,7 @@ broadpiece
 brontothere
 buffaloes
 beltane
+briners
 belauding
 bimetalic
 belter
