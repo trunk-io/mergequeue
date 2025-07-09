@@ -2892,6 +2892,7 @@ elf
 elfenfolk
 epinard
 ecodeme
+expects
 elfinwood
 exfoliating
 extremity
@@ -12368,7 +12369,6 @@ evase
 etherialism
 epithelize
 ectrodactyly
-expects
 exhibitors
 endorsers
 exflect
