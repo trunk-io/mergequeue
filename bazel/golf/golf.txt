@@ -5277,7 +5277,6 @@ geoponics
 ghaist
 glycosyl
 glyceroxide
-glycide
 galoshed
 glycinin
 glabrous
@@ -10126,6 +10125,7 @@ guglet
 goldenhair
 galways
 guerrila
+glycide
 gurgling
 guller
 glareless
