@@ -2673,7 +2673,6 @@ gauntry
 gripeful
 gorlois
 geniture
-grenades
 gasan
 gumshoes
 geodesists
@@ -5141,6 +5140,7 @@ gonococcic
 gregarinina
 greathearted
 goner
+grenades
 goodlihead
 guidwillie
 geochemical
