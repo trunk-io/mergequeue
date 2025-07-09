@@ -1598,7 +1598,6 @@ foreteach
 farrow
 frundel
 flywort
-fauvette
 fishbowl
 fauvism
 funk
@@ -4702,6 +4701,7 @@ famacide
 flintifying
 frivoling
 futharcs
+fauvette
 filmgoer
 faust
 faeroe
