@@ -1276,7 +1276,6 @@ calgary
 caliban
 cunea
 caliber
-calibers
 clavicembali
 colunar
 calibrated
@@ -10325,6 +10324,7 @@ chalone
 cubanize
 cyclistic
 chiastoneurous
+calibers
 couteaux
 cringed
 chiaus
