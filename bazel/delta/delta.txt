@@ -10721,6 +10721,7 @@ diplotaxis
 dissipating
 diplozoon
 draws
+downspout
 derivable
 declinometer
 downstreet
@@ -14855,7 +14856,6 @@ docs
 doctor
 doctorally
 dumontite
-downspout
 doctored
 defensive
 doctorfishes
