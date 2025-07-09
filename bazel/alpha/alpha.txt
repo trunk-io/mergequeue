@@ -15345,7 +15345,6 @@ actinobranchia
 antiking
 aposematic
 araneology
-anthropomorphize
 antikings
 arachnoidal
 albatros
@@ -16768,6 +16767,7 @@ aphetic
 abjudicating
 aphanitic
 aphetize
+anthropomorphize
 armours
 aphidivorous
 aphidlion
