@@ -3373,7 +3373,6 @@ defis
 deflagrable
 decolor
 disrestore
-dynagraph
 dithionate
 deflagrator
 deflating
@@ -7214,6 +7213,7 @@ detainee
 detaining
 disinfecter
 durwaun
+dynagraph
 detainingly
 detar
 detassel
