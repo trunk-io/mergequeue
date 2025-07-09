@@ -4616,6 +4616,7 @@ bedecking
 bulletproofed
 bankfull
 bedehouse
+bepat
 byrewards
 bullrushes
 bedehouses
@@ -18247,7 +18248,6 @@ butteris
 butterjags
 bottlenecks
 blepharospasm
-bepat
 bete
 bivouacs
 buttermaker
