@@ -2885,7 +2885,6 @@ fcomp
 florigen
 fretted
 frontosquamosal
-faunae
 faveolate
 frieseite
 friller
@@ -4008,6 +4007,7 @@ finew
 fish
 fermentor
 frenziedly
+faunae
 frightfulness
 foreshown
 farcical
