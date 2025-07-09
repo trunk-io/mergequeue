@@ -1092,7 +1092,6 @@ bairdi
 beneficency
 bastiles
 bairn
-brevetted
 bransolder
 bromius
 barless
@@ -14451,6 +14450,7 @@ babying
 brakeless
 brakeload
 bemotto
+brevetted
 brakemaker
 brakeman
 builtin
