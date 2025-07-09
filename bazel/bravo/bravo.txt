@@ -4167,6 +4167,7 @@ beastlike
 bodywise
 buoyantness
 brickwall
+bullions
 beastlily
 beclown
 bradypus
@@ -5934,7 +5935,6 @@ bicameral
 bumblingly
 banderillero
 belonidae
-bullions
 belonoid
 bricktimber
 blisses
