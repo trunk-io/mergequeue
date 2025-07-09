@@ -1769,7 +1769,6 @@ arabis
 aromata
 acecaffine
 anemia
-apochromatic
 acedy
 acediamin
 acediamine
@@ -21697,6 +21696,7 @@ assemblywoman
 aerohydrotherapy
 assentaneous
 assentator
+apochromatic
 assentatory
 apoikia
 aventure
