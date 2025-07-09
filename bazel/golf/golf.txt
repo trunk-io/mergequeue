@@ -1617,7 +1617,6 @@ groovier
 garawi
 gumlikeness
 gastroenteroptosis
-graculus
 grammates
 gonnardite
 geratic
@@ -6685,6 +6684,7 @@ greengrocery
 gabeler
 gluttonies
 geer
+graculus
 graphitic
 gigs
 gastronephritis
