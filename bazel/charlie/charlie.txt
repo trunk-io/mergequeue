@@ -2596,7 +2596,6 @@ camphires
 censuses
 cyclotrons
 cane
-corneum
 cliffing
 constants
 canebrake
@@ -14436,6 +14435,7 @@ circumplicate
 circumplication
 cacciatore
 clavierist
+corneum
 circumpose
 condite
 circumquaque
