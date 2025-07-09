@@ -8511,7 +8511,6 @@ bilin
 boddagh
 bylina
 brummer
-barbre
 bidry
 bibliotheke
 biriba
@@ -13682,6 +13681,7 @@ bourg
 beckoned
 befoolable
 bespawl
+barbre
 bourgade
 bonailie
 bourgeoisie
