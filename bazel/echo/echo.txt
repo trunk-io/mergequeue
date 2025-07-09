@@ -5540,7 +5540,6 @@ evertors
 exoterics
 espiritual
 enfeebles
-enfeebling
 enent
 epigrammatised
 edessan
@@ -8642,6 +8641,7 @@ equielliptical
 equigranular
 embellishments
 equilateral
+enfeebling
 equilaterally
 equilibrant
 enframe
