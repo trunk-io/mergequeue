@@ -2943,6 +2943,7 @@ electrotropism
 etuis
 epizoal
 epistoler
+endogens
 entomology
 elidible
 eligibility
@@ -5585,7 +5586,6 @@ enduringness
 epyllion
 estimably
 enrichment
-endogens
 ethologist
 enflaming
 epiklesis
