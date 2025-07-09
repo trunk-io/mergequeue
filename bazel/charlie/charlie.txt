@@ -24431,7 +24431,6 @@ cooped
 cooperage
 cooperate
 cooperated
-cooperates
 caracals
 crusadoes
 chupatti
@@ -25128,6 +25127,7 @@ chromonematic
 coreometer
 crocks
 complacential
+cooperates
 coreplastic
 corepressor
 cubas
