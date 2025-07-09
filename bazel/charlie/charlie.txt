@@ -15203,7 +15203,6 @@ claddings
 conducta
 chlorophyceous
 conidia
-clade
 casabas
 cladocarpous
 cladocera
@@ -15262,6 +15261,7 @@ chonchina
 candiel
 contangos
 claibornian
+clade
 construal
 commanderies
 claye
