@@ -3803,7 +3803,6 @@ beatrice
 befleck
 bronchoplegia
 baratte
-brutus
 bauhinias
 baul
 barrington
@@ -9594,6 +9593,7 @@ binary
 bicapsular
 bisected
 bandlimits
+brutus
 bisectors
 bisectrices
 busybodyness
