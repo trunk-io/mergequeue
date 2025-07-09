@@ -13350,6 +13350,7 @@ adscripts
 amucks
 anker
 ankerhold
+arthrosteitis
 ankerites
 ankylenteron
 ankylocheilia
@@ -20647,7 +20648,6 @@ aeromagnetic
 arilli
 albumen
 arthrospore
-arthrosteitis
 arthrostome
 arthrostomy
 ainu
