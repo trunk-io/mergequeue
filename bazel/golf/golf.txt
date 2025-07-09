@@ -3404,6 +3404,7 @@ gallberry
 geodynamics
 genoa
 geometrid
+gliosis
 gestapos
 gallanting
 glasgow
@@ -6096,7 +6097,6 @@ gardinol
 gallimaufry
 gurniad
 genuflections
-gliosis
 gastroid
 geissorhiza
 garish
