@@ -5842,6 +5842,7 @@ engrafts
 engrailed
 encyrtid
 elsewards
+errantry
 epizoicide
 engrainer
 ensepulcher
@@ -14071,7 +14072,6 @@ exclude
 enquarter
 extracurriculum
 enfect
-errantry
 epigastral
 expanses
 embolismus
