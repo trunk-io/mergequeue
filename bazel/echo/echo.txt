@@ -6160,7 +6160,6 @@ ereptic
 enfacement
 enlodge
 episkotister
-estuary
 enlodgement
 enlumine
 entheos
@@ -12549,6 +12548,7 @@ electricalness
 exist
 existed
 elucidating
+estuary
 esne
 electrooptical
 enumerably
