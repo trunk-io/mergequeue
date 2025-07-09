@@ -1649,6 +1649,7 @@ ballots
 ballottement
 backlotter
 baronage
+bestick
 ballottines
 bathwort
 ballpark
@@ -16381,7 +16382,6 @@ brushback
 butt
 brushbird
 basilar
-bestick
 betrace
 becharms
 buttonless
