@@ -13144,7 +13144,6 @@ cyanoplatinite
 cyanoplatinous
 cyanose
 cyanoses
-cyanosis
 chemitype
 cyanosite
 cyanotic
@@ -14516,6 +14515,7 @@ contributory
 cered
 callously
 citrus
+cyanosis
 clicky
 canthus
 circumvest

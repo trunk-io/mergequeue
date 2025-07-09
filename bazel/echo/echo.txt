@@ -2212,7 +2212,6 @@ ervenholder
 encrisp
 eldest
 effigiated
-eventuate
 eldrich
 eldritch
 enchased
@@ -10070,6 +10069,7 @@ etched
 editor
 enteropexy
 efford
+eventuate
 etching
 electrotest
 eteostic
