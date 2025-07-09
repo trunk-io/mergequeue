@@ -6048,7 +6048,6 @@ agitable
 agitant
 agitate
 agitated
-agitation
 agitational
 azotite
 agitations
@@ -24743,6 +24742,7 @@ aviatrices
 avicennia
 avicenniaceae
 avick
+agitation
 anthratetrol
 avicolous
 avicula
