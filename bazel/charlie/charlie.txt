@@ -4379,7 +4379,6 @@ candier
 carica
 caricaceae
 caricaceous
-cotemporaneous
 carcinology
 caricatura
 caricatural
@@ -12811,6 +12810,7 @@ ceratomania
 crinite
 catakinesis
 concede
+cotemporaneous
 cobaltous
 cataloguize
 chuff
