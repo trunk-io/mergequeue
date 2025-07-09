@@ -1429,7 +1429,6 @@ guild
 garbages
 gulfy
 gainward
-glossarial
 gidjee
 garnishee
 gadaba
@@ -8545,6 +8544,7 @@ gossameriness
 gradus
 gametically
 gasolines
+glossarial
 genealogical
 guerdonless
 geothermometer
