@@ -4413,7 +4413,6 @@ globigerinidae
 gynura
 goyazite
 gadsman
-gobby
 gio
 giobertite
 grazierdom
@@ -10354,6 +10353,7 @@ greenlets
 gigabytes
 gangbuster
 glycerogel
+gobby
 geum
 gamine
 gallivorous
