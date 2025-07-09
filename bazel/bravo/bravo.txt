@@ -12102,6 +12102,7 @@ berun
 bold
 byrnies
 barrat
+botanizer
 ballyhoos
 boldacious
 beguileful
@@ -12258,7 +12259,6 @@ bolt
 boltage
 biasses
 boltcutter
-botanizer
 bookmark
 brindles
 behold

@@ -4575,7 +4575,6 @@ grecianize
 gad
 gallies
 giro
-ganch
 glossae
 gillhooter
 glycose
@@ -6141,6 +6140,7 @@ goa
 gadsbud
 garibaldi
 goadsman
+ganch
 grihastha
 gazetteers
 groveling
