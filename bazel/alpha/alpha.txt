@@ -3708,7 +3708,6 @@ anticipatively
 archivolt
 adhesion
 adhesional
-adhesive
 adhesiveness
 aggers
 apposes
@@ -6379,6 +6378,7 @@ agromyzid
 agromyzidae
 agron
 alamos
+adhesive
 ascaricidal
 agronome
 aspidocephali
