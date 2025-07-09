@@ -12487,6 +12487,7 @@ chromatopsia
 chromatoptometer
 chromatoptometry
 chromatoscope
+cavin
 couch
 cobalticyanic
 chromatoscopy
@@ -30487,7 +30488,6 @@ contraclockwise
 conciliar
 counterweighed
 cubby
-cavin
 cubbyhouse
 cubbing
 codein
