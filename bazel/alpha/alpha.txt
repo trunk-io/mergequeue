@@ -10479,6 +10479,7 @@ acoelous
 antileft
 adscript
 amidins
+adneural
 amidism
 armenians
 adfrozen
@@ -20092,7 +20093,6 @@ allness
 annuary
 appeasers
 aromatophore
-adneural
 ayatollahs
 agadic
 aromatous
