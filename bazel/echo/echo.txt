@@ -2323,6 +2323,7 @@ enchants
 epistroma
 electrocardiogram
 ever
+equilaterally
 electrocardiographic
 electrocardiographically
 euphuistic
@@ -8642,7 +8643,6 @@ equielliptical
 equigranular
 embellishments
 equilateral
-equilaterally
 equilibrant
 enframe
 estrum
