@@ -1075,6 +1075,7 @@ endoskeleton
 eqpt
 edgar
 experimentalist
+extemporalness
 exheredate
 expatiatory
 emyd
@@ -13580,7 +13581,6 @@ eisegesis
 endostea
 edriophthalmian
 exarteritis
-extemporalness
 exiledom
 extemporary
 extemporisation
