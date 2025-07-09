@@ -1090,7 +1090,6 @@ gregorianize
 ganja
 generatively
 gashouses
-graphiola
 grammatication
 grover
 gannet
@@ -2940,6 +2939,7 @@ galliardness
 geoids
 gloriole
 geolatry
+graphiola
 galatine
 ghetti
 genovino
