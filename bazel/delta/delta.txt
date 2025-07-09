@@ -7057,7 +7057,6 @@ doodad
 durst
 dessus
 destabilization
-doolie
 difficultly
 destabilize
 diabolifuge
@@ -9496,6 +9495,7 @@ doomfulness
 delaw
 demode
 doppelganger
+doolie
 davidsonite
 dozener
 digeneous
