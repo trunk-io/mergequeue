@@ -13583,6 +13583,7 @@ cygnus
 cigua
 cyke
 cyl
+collapsed
 comburivorous
 cilectomy
 cornichon
@@ -14456,7 +14457,6 @@ connectivity
 circumscribable
 condescend
 circumscribed
-collapsed
 circumscriptions
 circumsession
 circumsinous
