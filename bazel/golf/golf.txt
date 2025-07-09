@@ -758,6 +758,7 @@ gravitater
 gunbearer
 gerkin
 galvanopuncture
+gunsmithery
 gummaker
 goutwort
 gunmanship
@@ -7602,7 +7603,6 @@ gaffes
 gaucy
 girdler
 gopherwood
-gunsmithery
 graded
 gorgonlike
 gool
