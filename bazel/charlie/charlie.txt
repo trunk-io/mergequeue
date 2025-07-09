@@ -15506,7 +15506,6 @@ chicane
 cautio
 claptraps
 clapwort
-culbuter
 claque
 candescently
 calipering
@@ -18916,6 +18915,7 @@ cytogene
 colicroot
 colicwort
 cranial
+culbuter
 cervelliere
 colies
 chapt
