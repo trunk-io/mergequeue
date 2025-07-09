@@ -7751,6 +7751,7 @@ bullan
 breakover
 brocard
 bhindi
+boutefeu
 bowstave
 bhishti
 bhistie
@@ -13735,7 +13736,6 @@ banqueted
 braccio
 billetwood
 balneatory
-boutefeu
 bouteria
 buns
 burmanniaceae
