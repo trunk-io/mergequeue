@@ -5487,6 +5487,7 @@ disenablement
 deorsum
 deorsumversion
 deossification
+digest
 deota
 dissipates
 dyakisdodecahedron
@@ -14760,7 +14761,6 @@ doby
 dobla
 distender
 doblon
-digest
 dobos
 decanters
 dobson
