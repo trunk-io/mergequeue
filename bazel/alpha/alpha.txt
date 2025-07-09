@@ -1321,7 +1321,6 @@ acaudelescent
 adtevac
 abscessed
 arginase
-acaulescence
 appair
 acaulescent
 acauline
@@ -4490,6 +4489,7 @@ adverbs
 adversatively
 ambushed
 anthropophysiography
+acaulescence
 acetopyrin
 adversely
 adversing
