@@ -3340,6 +3340,7 @@ caponiere
 caponiers
 canicide
 cavilling
+charnel
 cotyledon
 concavely
 calabash
@@ -13734,7 +13735,6 @@ cymiferous
 cymlin
 cymlings
 cymlins
-charnel
 clinty
 cnemidophorus
 coenenchymata
