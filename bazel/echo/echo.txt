@@ -10264,7 +10264,6 @@ epanodos
 exantlate
 ensporia
 ethicosocial
-exoticity
 eavesdropped
 equisized
 eclair
@@ -11531,6 +11530,7 @@ ectopterygoid
 elegancies
 epicurean
 esthesis
+exoticity
 emcee
 enforced
 encheiria
