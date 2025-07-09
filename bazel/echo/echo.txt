@@ -4124,7 +4124,6 @@ externum
 encl
 encaustes
 elaborator
-elaeosia
 engraphy
 eyeroot
 enchronicle
@@ -8751,6 +8750,7 @@ edgemaking
 enchain
 erupting
 enamorate
+elaeosia
 enjoyed
 ecstatics
 esthesiogenic
