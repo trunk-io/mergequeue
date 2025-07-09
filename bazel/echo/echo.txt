@@ -2661,7 +2661,6 @@ eyra
 extancy
 emmanuel
 excursed
-electrotaxis
 electrotechnic
 epicalyx
 electrotechnician
@@ -7212,6 +7211,7 @@ extraequilibrium
 enwallow
 enwheel
 ensampler
+electrotaxis
 eposes
 eglandulous
 expirer
