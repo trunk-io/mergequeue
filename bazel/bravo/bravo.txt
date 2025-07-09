@@ -4196,6 +4196,7 @@ beatitudes
 beatles
 backchain
 bellmen
+bulkheading
 brusquer
 beatless
 beatnik
@@ -17021,7 +17022,6 @@ bulkage
 boldfaces
 burt
 bulkhead
-bulkheading
 bulky
 bubastite
 bulkier
