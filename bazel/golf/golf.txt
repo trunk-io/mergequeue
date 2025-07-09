@@ -9279,7 +9279,6 @@ groenendael
 gallstone
 graduale
 greenland
-groenlandicus
 glucuronic
 goyana
 gurge
@@ -9475,6 +9474,7 @@ gramp
 glossy
 glossographical
 gleeishly
+groenlandicus
 gauffering
 gossamery
 gae

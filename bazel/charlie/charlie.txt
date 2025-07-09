@@ -9823,7 +9823,6 @@ cribwork
 cheilodipteridae
 cheilodipterus
 cheiloplasty
-cheilostomata
 cheilostomatous
 censer
 cheyneys
@@ -27252,6 +27251,7 @@ cerebellopontine
 cannet
 countlessness
 countor
+cheilostomata
 countour
 cardhouse
 countree
