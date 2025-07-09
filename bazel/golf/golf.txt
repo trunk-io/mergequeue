@@ -6539,6 +6539,7 @@ glottalization
 ground
 gesture
 gambeson
+gumshoed
 grummets
 girons
 gimmerpet
@@ -10050,7 +10051,6 @@ graveolency
 gyneconitis
 grabens
 goblinize
-gumshoed
 gonomere
 gorgerin
 gigabits
