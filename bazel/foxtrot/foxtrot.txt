@@ -3544,6 +3544,7 @@ foreseason
 fallback
 fighteress
 fighting
+folioliferous
 frogtongue
 formboard
 floriparous
@@ -5711,7 +5712,6 @@ focimetry
 flinty
 footpound
 flintwood
-folioliferous
 facilitator
 flyovers
 flype
