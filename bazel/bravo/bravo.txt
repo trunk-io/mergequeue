@@ -10250,6 +10250,7 @@ bebump
 bilged
 broomwort
 blackpatch
+bedewer
 belongings
 beavering
 batara
@@ -14804,7 +14805,6 @@ breadfruits
 bristler
 bluetops
 bronchopulmonary
-bedewer
 breadline
 bihourly
 bestializes
