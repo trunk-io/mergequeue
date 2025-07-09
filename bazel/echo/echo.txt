@@ -6255,7 +6255,6 @@ executable
 enorm
 exhalations
 endopericarditis
-exhortator
 enorn
 enos
 egophony
@@ -11546,6 +11545,7 @@ explosion
 evincive
 excavationist
 echnida
+exhortator
 evite
 evited
 extempory
