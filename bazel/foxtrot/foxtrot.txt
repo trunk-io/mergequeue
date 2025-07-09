@@ -7440,6 +7440,7 @@ fillemot
 firefall
 fartlek
 floperoo
+frustrable
 firstship
 forcibility
 forcibleness
@@ -11422,7 +11423,6 @@ fluidextract
 flocculose
 furniture
 flummoxing
-frustrable
 furodiazole
 feoff
 foraminated
