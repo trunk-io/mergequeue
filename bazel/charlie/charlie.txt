@@ -1166,7 +1166,6 @@ calculators
 chorically
 calculer
 causationist
-calculiform
 calculifrage
 calculist
 chedar
@@ -10316,6 +10315,7 @@ chiasmic
 cleruchic
 chiasms
 chiasmus
+calculiform
 coeline
 curacao
 chiastoneural
