@@ -1342,7 +1342,6 @@ borderlands
 balbusard
 burlap
 bluenose
-brayed
 butterbump
 betwixen
 balconies
@@ -5684,6 +5683,7 @@ beledgered
 brutedom
 bardiest
 biers
+brayed
 belemnitic
 ballast
 bairnlier
