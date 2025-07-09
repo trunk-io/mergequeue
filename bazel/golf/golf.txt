@@ -8879,6 +8879,7 @@ graftage
 gormandiser
 glomerella
 grewhound
+gallium
 gentman
 gobang
 grete
@@ -10762,7 +10763,6 @@ gloam
 graminin
 gorhen
 gimbals
-gallium
 galempong
 grubworm
 gynaecomorphous
