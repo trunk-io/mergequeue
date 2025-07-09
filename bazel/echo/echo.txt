@@ -2068,7 +2068,6 @@ exalbuminous
 elapids
 euthyneural
 elapine
-endysis
 eutectics
 epigyny
 englory
@@ -2526,6 +2525,7 @@ emoluments
 escadrilles
 electrolyser
 exorcist
+endysis
 efficaciousness
 endocritic
 eminency
