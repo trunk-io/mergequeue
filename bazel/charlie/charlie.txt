@@ -8436,7 +8436,6 @@ chantage
 columnated
 chalkone
 chalkos
-chalkotheke
 chalkpit
 chalkrail
 circumflect
@@ -22397,6 +22396,7 @@ contradicted
 coni
 conia
 coniacian
+chalkotheke
 conic
 conical
 canajong
