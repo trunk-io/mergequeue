@@ -790,7 +790,6 @@ daneweed
 daneweeds
 difficult
 danged
-detections
 disingenious
 dangerously
 deduced
@@ -9900,6 +9899,7 @@ disarmament
 disillusionizer
 deviancies
 dissected
+detections
 defeminizing
 disseminate
 deadlines
