@@ -3135,7 +3135,6 @@ edict
 epiplastral
 eom
 elaborate
-epicurishly
 evinced
 egghead
 eichbergite
@@ -4124,6 +4123,7 @@ externum
 encl
 encaustes
 elaborator
+epicurishly
 elaeosia
 engraphy
 eyeroot
