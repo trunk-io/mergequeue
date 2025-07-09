@@ -1907,7 +1907,6 @@ grayfishes
 groundwave
 garvie
 gauged
-grovet
 glabrescent
 goclenian
 germicides
@@ -3719,6 +3718,7 @@ geobios
 gallantry
 gibber
 gaslightness
+grovet
 gibberellin
 grandmotherhood
 gaffing

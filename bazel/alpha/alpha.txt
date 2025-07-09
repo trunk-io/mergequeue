@@ -19877,7 +19877,6 @@ armhole
 armhoop
 adpao
 acapsular
-adeptest
 acquereur
 armida
 armied
@@ -23516,6 +23515,7 @@ aaronical
 apatites
 albuminogenous
 approximate
+adeptest
 arrythmically
 antherid
 alinit
