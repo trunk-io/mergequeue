@@ -9652,7 +9652,6 @@ casehardens
 cricotracheotomy
 checkrein
 checkroll
-compathy
 checkrope
 cumulant
 checkrowed
@@ -11178,6 +11177,7 @@ candours
 calamus
 cocos
 codeless
+compathy
 chiton
 cageling
 chitons
