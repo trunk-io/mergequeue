@@ -5790,7 +5790,6 @@ depolishes
 depoliticized
 donia
 depoliticizes
-dredged
 dreck
 depones
 deponing
@@ -17873,6 +17872,7 @@ durationless
 dishmaking
 dueled
 deathday
+dredged
 duelers
 duelist
 duelistic
