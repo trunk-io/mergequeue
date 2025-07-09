@@ -2829,6 +2829,7 @@ bioecologic
 barouni
 baroxyton
 beebread
+bailli
 bawrel
 bitterbump
 buttonmold
@@ -12983,7 +12984,6 @@ bopeep
 blueleg
 bopped
 bombastical
-bailli
 brigadiers
 beelike
 bedquilts
