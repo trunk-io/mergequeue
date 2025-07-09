@@ -419,7 +419,6 @@ growl
 garnishees
 giambeux
 grapeys
-galeage
 goober
 gair
 glucuronide
@@ -1108,6 +1107,7 @@ gesith
 grotesco
 grope
 galatic
+galeage
 gruntled
 gashes
 glutens
