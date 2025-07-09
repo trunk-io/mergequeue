@@ -1099,6 +1099,7 @@ chomer
 clamworm
 calcinosis
 calciobiotite
+collection
 calcioferrite
 calcioscheelite
 calciovolborthite
@@ -19055,7 +19056,6 @@ cranberry
 constables
 collectibility
 collectible
-collection
 cinnamon
 collectivise
 collectivism
