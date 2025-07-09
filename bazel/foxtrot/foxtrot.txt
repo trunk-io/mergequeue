@@ -3187,7 +3187,6 @@ fibroelastic
 fountaineer
 fibroenchondroma
 fibroferrite
-fundic
 firewarden
 furioso
 fallibility
@@ -6102,6 +6101,7 @@ flinder
 fanfare
 flauntingly
 forsook
+fundic
 foretriangle
 fleyland
 flamens
