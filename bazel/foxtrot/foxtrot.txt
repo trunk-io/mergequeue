@@ -2935,6 +2935,7 @@ figworm
 fungid
 familistery
 fortuned
+fraternized
 fameflower
 fettered
 flummadiddle
@@ -7303,7 +7304,6 @@ furled
 forelock
 fopperies
 fopperly
-fraternized
 formaldoxime
 fourer
 facers
