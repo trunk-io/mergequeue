@@ -1138,7 +1138,6 @@ graecizes
 gravamens
 goners
 gantelope
-genitors
 gantlet
 gled
 gantleted
@@ -1333,6 +1332,7 @@ guls
 guillotiner
 greenalite
 galvanist
+genitors
 glycolylurea
 geoside
 glomerulus
