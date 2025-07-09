@@ -5712,7 +5712,6 @@ grandmother
 gantline
 graphics
 gabendum
-grieshuckle
 girasols
 gyrolite
 gurus
@@ -10729,6 +10728,7 @@ gustables
 gassers
 gaddi
 gustard
+grieshuckle
 guergal
 grouping
 gustatorial
