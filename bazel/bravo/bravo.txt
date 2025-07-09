@@ -2790,6 +2790,7 @@ baronries
 briggs
 baroque
 baconer
+boomable
 buffeter
 butchered
 bureaus
@@ -12815,7 +12816,6 @@ beaches
 braiding
 barrelhouse
 beefcakes
-boomable
 boomah
 boo
 baritonal
