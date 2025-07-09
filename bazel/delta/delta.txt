@@ -6476,6 +6476,7 @@ dactylioglyph
 desamidase
 desands
 desc
+disadvised
 descale
 declericalize
 downrightly
@@ -16749,7 +16750,6 @@ dorrbeetle
 distributedly
 drammock
 drypoint
-disadvised
 dewily
 drammocks
 dicey
