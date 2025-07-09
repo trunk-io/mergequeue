@@ -4977,7 +4977,6 @@ drabbletail
 demote
 demoted
 demotes
-disomus
 demotions
 deraign
 deferent
@@ -12060,6 +12059,7 @@ disendow
 demideity
 dalasi
 diallelon
+disomus
 desmodus
 disendows
 disenfranchisement
