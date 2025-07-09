@@ -7136,6 +7136,7 @@ donenesses
 demolished
 dispraised
 disworship
+disrooting
 dudeen
 desulfuring
 dunging
@@ -13515,7 +13516,6 @@ disroost
 demiurgism
 disrooted
 dissertated
-disrooting
 debenture
 ditrigonal
 dizygous
