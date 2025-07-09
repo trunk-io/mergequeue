@@ -605,7 +605,6 @@ betongue
 bacteremic
 bacteriaceae
 blooddrops
-bacteriaemia
 bacterially
 bacterioblast
 brooched
@@ -13500,6 +13499,7 @@ botulinus
 bottu
 botulinuses
 boggles
+bacteriaemia
 beddable
 botulism
 bigamistic
