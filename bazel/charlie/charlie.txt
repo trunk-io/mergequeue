@@ -7405,6 +7405,7 @@ constitution
 conicity
 carnelians
 cryptolunatic
+calcars
 chloro
 cephala
 caucasus
@@ -25813,7 +25814,6 @@ corrosived
 corrosively
 corrosiveness
 corrosives
-calcars
 corrosivity
 colophonate
 cinclidotus
