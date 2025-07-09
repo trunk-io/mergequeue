@@ -2301,7 +2301,6 @@ errorful
 encrypting
 epigonus
 electroacoustic
-electroacoustical
 elfkin
 electroacoustics
 epithalamia
@@ -9824,6 +9823,7 @@ easterner
 expeditation
 easinesses
 eightballs
+electroacoustical
 eumelanin
 embitterment
 embracive
