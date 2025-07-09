@@ -2681,7 +2681,6 @@ enmesh
 enduros
 electrotherapy
 emigre
-electrotherapist
 electrotheraputic
 emyds
 electrothermal
@@ -13196,6 +13195,7 @@ encinder
 echinopsine
 expiration
 exponentiation
+electrotherapist
 epaxial
 exotica
 eremophyte
