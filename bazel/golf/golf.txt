@@ -6607,6 +6607,7 @@ gyrodyne
 gateman
 gropes
 gambusias
+glissading
 gunnysack
 glunch
 gondolas
@@ -7384,7 +7385,6 @@ germens
 glycines
 gorgelet
 greggriffin
-glissading
 gamotropic
 grewt
 goujat
