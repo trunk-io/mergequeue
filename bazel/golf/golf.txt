@@ -201,7 +201,6 @@ goslings
 gasbags
 greyest
 gaius
-glug
 gambiers
 gentleness
 graphing
@@ -6866,6 +6865,7 @@ groundspeed
 galloman
 glimpsed
 greillade
+glug
 gooders
 goodheartedness
 goody
