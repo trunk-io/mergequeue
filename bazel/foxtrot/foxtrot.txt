@@ -3575,6 +3575,7 @@ fleches
 falcones
 fastigiate
 forcepses
+floatplane
 fulgorid
 foreallot
 figurer
@@ -7391,7 +7392,6 @@ farfels
 fewnes
 furlough
 flatworms
-floatplane
 fredricite
 frost
 familiarized
