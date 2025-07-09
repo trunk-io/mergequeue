@@ -1894,7 +1894,6 @@ biostatics
 bougeron
 bandit
 beshrew
-bretwaldadom
 brooded
 branle
 bandle
@@ -15588,6 +15587,7 @@ brittleness
 batrachotoxin
 belder
 britzska
+bretwaldadom
 branchage
 briza
 brizz
