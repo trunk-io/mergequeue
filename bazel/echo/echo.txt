@@ -7257,7 +7257,6 @@ enderon
 erythropoietic
 electrotropic
 eupnoeas
-exudate
 eyalet
 enzootics
 entophytous
@@ -10073,6 +10072,7 @@ efford
 etching
 electrotest
 eteostic
+exudate
 elemicin
 edgrew
 eterminable
