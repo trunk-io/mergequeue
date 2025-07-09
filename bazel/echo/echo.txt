@@ -3582,6 +3582,7 @@ embows
 egeria
 egma
 eveque
+extinguishment
 embowered
 exanimate
 empoisoner
@@ -12595,7 +12596,6 @@ echuca
 eating
 epistolet
 epaenetic
-extinguishment
 embezzlement
 emendicate
 exochorion
