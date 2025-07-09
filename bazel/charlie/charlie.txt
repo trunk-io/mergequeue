@@ -8898,7 +8898,6 @@ clinicians
 chapin
 chapiter
 chloranaemia
-chapitral
 chaplain
 chaplaincies
 chaplains
@@ -28530,6 +28529,7 @@ confluently
 cassada
 credentialed
 congressman
+chapitral
 croomia
 cueva
 cystines
