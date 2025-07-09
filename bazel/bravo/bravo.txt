@@ -8397,7 +8397,6 @@ bombyxes
 bastian
 bigthatch
 bashawdom
-bigwig
 bigwigged
 bigwiggery
 biomass
@@ -18241,6 +18240,7 @@ battles
 batik
 bosks
 bacteraemia
+bigwig
 bases
 butteryfingered
 butteris
