@@ -2626,7 +2626,6 @@ fimbriatum
 flappy
 fluidification
 ferryway
-finding
 fumes
 forechase
 ferrocene
@@ -6107,6 +6106,7 @@ fleyland
 flamens
 floush
 focalisation
+finding
 fouls
 foudroyant
 flossiest
