@@ -3979,7 +3979,6 @@ filea
 fined
 fineish
 faulty
-fineness
 farmy
 forweend
 formature
@@ -10688,6 +10687,7 @@ fungals
 febronianism
 footband
 fastidiously
+fineness
 forecar
 finnier
 fantasizes
