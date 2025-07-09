@@ -2802,6 +2802,7 @@ gallize
 genua
 gruel
 geatas
+glegnesses
 gondolet
 genuflecting
 gaberdine
@@ -6587,7 +6588,6 @@ glummy
 garous
 granivorous
 grotian
-glegnesses
 gonaduct
 gena
 gonalgia
