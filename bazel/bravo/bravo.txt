@@ -12255,7 +12255,6 @@ brake
 briefless
 byssiferous
 bolt
-boltage
 biasses
 boltcutter
 botanizer
@@ -17923,6 +17922,7 @@ bushy
 barton
 badly
 bushidos
+boltage
 bractless
 broadaxes
 bahmanid
