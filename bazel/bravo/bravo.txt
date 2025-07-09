@@ -4085,7 +4085,6 @@ bagge
 beans
 blokes
 beansetter
-beanshooter
 beanstalk
 begrain
 beanweed
@@ -16369,6 +16368,7 @@ boroughs
 barmiest
 bufonidae
 bridgeless
+beanshooter
 bestink
 bps
 banditry
