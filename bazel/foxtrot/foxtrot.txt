@@ -7609,6 +7609,7 @@ freezable
 forril
 festino
 foulbrood
+fidejussionary
 farrier
 fossula
 felty
@@ -7954,7 +7955,6 @@ ferahan
 frowzily
 fadging
 ferreled
-fidejussionary
 falk
 foreshock
 formoxime
