@@ -3775,7 +3775,6 @@ glarier
 gonapophysal
 gearwheels
 gideon
-gyropilot
 gesticulate
 grasps
 gentlemanhood
@@ -9777,6 +9776,7 @@ gazook
 gardenlike
 gruppo
 galeate
+gyropilot
 guebre
 grutch
 gumfield
