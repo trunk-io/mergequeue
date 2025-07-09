@@ -2170,7 +2170,6 @@ achordal
 alqueire
 amyelotrophy
 achordata
-achordate
 achorion
 anarya
 achillodynia
@@ -7102,6 +7101,7 @@ akkadist
 akmite
 anagrammatized
 aftershock
+achordate
 arthroderm
 aerocartograph
 actuator
