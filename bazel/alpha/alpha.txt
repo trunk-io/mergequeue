@@ -91,6 +91,7 @@ abandonment
 accelerator
 antipriestcraft
 adda
+ancylopod
 abaptiston
 acknow
 annominate
@@ -12190,7 +12191,6 @@ ancilla
 anticks
 asimen
 ancillaries
-ancylopod
 acneiform
 acrider
 anatropous
