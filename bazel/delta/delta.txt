@@ -6392,7 +6392,6 @@ dustmen
 diplotene
 dernly
 disassociation
-dorsiventral
 derodidymus
 derog
 demeanour
@@ -10769,6 +10768,7 @@ dippings
 displayer
 draff
 dipppier
+dorsiventral
 diprimary
 doubtingly
 dipropellant
