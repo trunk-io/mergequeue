@@ -10039,7 +10039,6 @@ chemotropically
 chempaduk
 chemurgical
 chemurgically
-chen
 chena
 chenar
 cheneau
@@ -27144,6 +27143,7 @@ counterstimulation
 counterstimulus
 counterstock
 counterstratagem
+chen
 counterstroke
 cyclopoid
 clientless
