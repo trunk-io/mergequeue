@@ -4397,6 +4397,7 @@ freeboot
 fiscalize
 fellows
 forewomen
+firstling
 fiscalized
 foresleeve
 feebler
@@ -10401,7 +10402,6 @@ fraggings
 filigree
 flow
 fictility
-firstling
 forcaria
 filesmith
 feudalistic
