@@ -3792,6 +3792,7 @@ gids
 gazes
 grandchild
 granulitize
+gratulation
 gradientia
 gerontism
 geochronometry
@@ -8416,7 +8417,6 @@ glossator
 grufted
 gigeria
 galactonic
-gratulation
 gandhara
 glycosuria
 gaylussite
