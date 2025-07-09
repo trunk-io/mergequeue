@@ -5085,6 +5085,7 @@ fatteners
 flaperon
 flippantly
 flirter
+flogged
 flappable
 foremark
 frankalmoin
@@ -8747,7 +8748,6 @@ faintise
 frankfort
 freddo
 forbiddable
-flogged
 followership
 fortuuned
 forwalk
