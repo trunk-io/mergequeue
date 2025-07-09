@@ -4457,7 +4457,6 @@ eumenidae
 etymologize
 euryzygous
 exaggerator
-extemporaneousness
 encash
 enlightenments
 enquires
@@ -13340,6 +13339,7 @@ ephoralty
 exponency
 extrared
 exponent
+extemporaneousness
 educated
 exponentiates
 enwrap
