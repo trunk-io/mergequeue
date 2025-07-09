@@ -5508,7 +5508,6 @@ forbarred
 fratching
 fleshhood
 foraged
-fleshy
 fillet
 ferally
 fleshing
@@ -5703,6 +5702,7 @@ funded
 flings
 fishwife
 flinkite
+fleshy
 forsung
 flint
 fluffer
