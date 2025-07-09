@@ -2505,7 +2505,6 @@ generalities
 grandezza
 grubbies
 gain
-guilder
 gomeisa
 gonochorism
 galenites
@@ -6613,6 +6612,7 @@ gondolas
 guidons
 global
 glasseye
+guilder
 gondoletta
 gumlike
 guffs
