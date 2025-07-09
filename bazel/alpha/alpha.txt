@@ -404,7 +404,6 @@ auxohormone
 abidances
 abide
 anlaut
-abider
 advisability
 abie
 apocatharsis
@@ -6404,6 +6403,7 @@ antiresonance
 amorado
 attempering
 alnascharism
+abider
 agrote
 agrotechny
 agrotype
