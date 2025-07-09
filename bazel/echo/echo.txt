@@ -2668,7 +2668,6 @@ electrotechnician
 exports
 enfant
 extendibility
-engenderment
 electrotelegraphy
 exhort
 extractiform
@@ -3340,6 +3339,7 @@ excursioner
 envelopes
 encyclopaedial
 embannered
+engenderment
 eidoptometry
 emetine
 eodevonian
