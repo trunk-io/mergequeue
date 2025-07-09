@@ -3225,7 +3225,6 @@ eunice
 elongative
 ecumenicize
 eluvies
-ethopoeia
 ellwand
 ermitophobia
 eluviums
@@ -6918,6 +6917,7 @@ earwaxes
 esthesiography
 egalite
 epic
+ethopoeia
 electrochemical
 encephala
 eschalot
