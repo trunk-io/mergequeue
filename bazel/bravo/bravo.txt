@@ -6308,7 +6308,6 @@ benthamism
 benthic
 barbar
 bagfuls
-benthonic
 bevors
 benthoscope
 bemoat
@@ -17794,6 +17793,7 @@ basementless
 base
 braiders
 burrhead
+benthonic
 burrheaded
 burrheadedness
 baroneted
