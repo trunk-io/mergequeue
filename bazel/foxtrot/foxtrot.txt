@@ -92,7 +92,6 @@ faces
 folkright
 flattening
 flowerfence
-foliobranch
 fiendish
 flagrantness
 famousness
@@ -6326,6 +6325,7 @@ fluent
 flukeworm
 follicle
 ferryhouse
+foliobranch
 fob
 falerian
 fand
