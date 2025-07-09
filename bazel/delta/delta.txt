@@ -6547,7 +6547,6 @@ dolorimetry
 describability
 dobra
 diacritic
-degradedness
 dichlorhydrin
 dramatism
 described
@@ -11390,6 +11389,7 @@ deftly
 dupioni
 discerped
 deambulatories
+degradedness
 davens
 discerpible
 discerpibleness
