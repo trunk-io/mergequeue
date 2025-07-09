@@ -3752,7 +3752,6 @@ chromoxylography
 caravanserial
 companeros
 caravel
-confuse
 caravels
 cosen
 caraway
@@ -12949,6 +12948,7 @@ churchier
 churchified
 chuckholes
 churching
+confuse
 crabbedly
 cognisance
 chauth
