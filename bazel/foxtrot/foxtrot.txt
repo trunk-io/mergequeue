@@ -5773,6 +5773,7 @@ folate
 fill
 filliping
 flyswat
+forgeable
 footlessness
 flyswatter
 filipiniana
@@ -8244,7 +8245,6 @@ foresweat
 fabraea
 finickiness
 forge
-forgeable
 forgery
 forwaked
 fillingness
