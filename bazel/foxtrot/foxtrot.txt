@@ -1020,7 +1020,6 @@ foyers
 forride
 fictionization
 forklifts
-fardel
 flannelmouth
 foxhound
 fusion
@@ -6444,6 +6443,7 @@ freshish
 facsimileing
 fluorimetric
 foot
+fardel
 financiered
 fluorobenzene
 fructifies
