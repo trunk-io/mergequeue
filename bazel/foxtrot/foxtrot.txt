@@ -2489,7 +2489,6 @@ frisco
 farandola
 foils
 fluidize
-flutterable
 frazer
 fulgourous
 fullymart
@@ -2761,6 +2760,7 @@ faithing
 feigher
 flaggella
 fertileness
+flutterable
 fouette
 fervor
 flamenco
