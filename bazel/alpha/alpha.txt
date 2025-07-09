@@ -12565,7 +12565,6 @@ anesthetized
 achromotrichia
 anesthetizes
 anestrous
-anestrus
 anethene
 anethol
 albites
@@ -19382,6 +19381,7 @@ argentamid
 amadi
 astasias
 autopyotherapy
+anestrus
 abysms
 archduchies
 atheistical
