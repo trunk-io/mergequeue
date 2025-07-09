@@ -7223,7 +7223,6 @@ alamonti
 archpillar
 afgod
 alamort
-alamosite
 alan
 alange
 alangine
@@ -20498,6 +20497,7 @@ arterioloscleroses
 anoxybiosis
 arteriolosclerosis
 ashman
+alamosite
 acrid
 arteriomalacia
 accomplishment
