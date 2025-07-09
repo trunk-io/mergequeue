@@ -4428,7 +4428,6 @@ giocoso
 gip
 gleba
 gipon
-gaetulan
 gunlayer
 gypped
 giardia
@@ -10659,6 +10658,7 @@ goldmist
 glyoxalase
 generableness
 gliding
+gaetulan
 gorb
 gurgitation
 gladius
