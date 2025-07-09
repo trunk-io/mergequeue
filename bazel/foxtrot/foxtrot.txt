@@ -5869,6 +5869,7 @@ firmans
 farine
 fertilisable
 flypapers
+frenula
 floatsmen
 fluff
 flaxbush
@@ -9765,7 +9766,6 @@ factful
 forgathered
 frenetically
 forlorner
-frenula
 frenular
 footlicker
 fornicate
