@@ -1562,6 +1562,7 @@ adventureful
 accordaturas
 abbaye
 accorder
+adamellite
 accordingly
 amritas
 amalg
@@ -3300,7 +3301,6 @@ adamantoblast
 adamas
 archery
 atelets
-adamellite
 allosyndesis
 antihierarchic
 adamine
