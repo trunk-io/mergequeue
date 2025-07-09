@@ -506,7 +506,6 @@ antennas
 assmannshauser
 abjudicator
 abjugate
-abjunct
 assonantal
 ambassadorial
 anselmian
@@ -10961,6 +10960,7 @@ amoraim
 amoral
 anemometry
 arresters
+abjunct
 amoralist
 amorally
 actinomorphy
