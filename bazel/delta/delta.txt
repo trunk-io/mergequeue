@@ -1481,7 +1481,6 @@ dingbats
 diazines
 disunions
 declive
-deacetylate
 donas
 duppies
 defraudment
@@ -3325,6 +3324,7 @@ defines
 deionizes
 definiens
 derencephalocele
+deacetylate
 dolabre
 decigram
 definish
