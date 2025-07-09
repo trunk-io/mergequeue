@@ -10502,7 +10502,6 @@ blastocoel
 blastocoele
 blastodisc
 boxfish
-becharming
 blatjang
 bakestone
 biologistic
@@ -14923,6 +14922,7 @@ bromol
 begun
 brassicas
 breathe
+becharming
 breatheableness
 bravuraish
 blennophlogisma
