@@ -2302,7 +2302,6 @@ encrypting
 epigonus
 electroacoustic
 electroacoustical
-elfkin
 electroacoustics
 epithalamia
 endmatcher
@@ -13610,6 +13609,7 @@ ethnomusicologically
 exopterygotic
 erme
 endoparasitism
+elfkin
 extends
 emblemed
 eponychium
