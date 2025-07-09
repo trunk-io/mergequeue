@@ -5255,6 +5255,7 @@ genialize
 guardsmen
 gossoons
 goldbrickers
+gainable
 glyoxilin
 gelototherapy
 gnathostomous
@@ -6246,7 +6247,6 @@ galoch
 genuflexion
 grunting
 gospelly
-gainable
 gobble
 gierfalcon
 gematria
