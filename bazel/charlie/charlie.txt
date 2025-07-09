@@ -6151,7 +6151,6 @@ chimbley
 cats
 catskill
 coll
-catso
 catsos
 catspaw
 catstane
@@ -25002,6 +25001,7 @@ canalizations
 celling
 cordaitaceae
 cordaitaceous
+catso
 cordaites
 cowperitis
 circumpolar
