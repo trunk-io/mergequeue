@@ -1590,6 +1590,7 @@ gallons
 gastly
 gobiesocidae
 grandstand
+greasing
 gasbag
 gingili
 gallocyanin
@@ -10025,7 +10026,6 @@ gazebos
 gammation
 grandevous
 gargoyles
-greasing
 granitoidal
 gentianaceae
 guerdoner
