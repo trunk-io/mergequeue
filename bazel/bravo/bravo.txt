@@ -2911,7 +2911,6 @@ baguettes
 blind
 benefactor
 bushers
-barreling
 bibaciousness
 backbiting
 blanco
@@ -5741,6 +5740,7 @@ blemishing
 belies
 braziery
 believability
+barreling
 believer
 believers
 bloomery
