@@ -16138,7 +16138,6 @@ antiphase
 allusion
 alloys
 agarum
-antitryptic
 antisine
 asymmetry
 alcedines
@@ -21630,6 +21629,7 @@ acetamide
 assary
 assart
 antistriker
+antitryptic
 assassinate
 azoeosin
 assigned
