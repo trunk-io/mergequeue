@@ -19624,7 +19624,6 @@ capabilities
 columbaria
 columbaries
 columbarium
-clours
 columbate
 columbeion
 collarinos
@@ -31303,6 +31302,7 @@ curd
 commemorize
 circumoral
 claudent
+clours
 curdy
 curdiness
 curdle
