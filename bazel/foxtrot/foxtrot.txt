@@ -5564,6 +5564,7 @@ flexion
 flexitime
 ferdiad
 folliculate
+fictional
 flexography
 fleecer
 flexographic
@@ -11311,7 +11312,6 @@ flathat
 femorocaudal
 faceted
 foldout
-fictional
 formful
 furfures
 fusulina
