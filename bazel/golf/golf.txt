@@ -5642,6 +5642,7 @@ gratefuller
 glasses
 glassrope
 glorifications
+glade
 girdlers
 garefowls
 gentlefolks
@@ -10176,7 +10177,6 @@ genethliac
 garages
 grovelings
 guido
-glade
 glaucium
 gladiolar
 guetar
