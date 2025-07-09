@@ -5084,7 +5084,6 @@ grimful
 gourmander
 glycocholic
 glinting
-glaucidium
 glaucin
 gainyield
 generalissima
@@ -7201,6 +7200,7 @@ garlic
 governorate
 gourmands
 glassmaker
+glaucidium
 grailer
 generosity
 gribble
