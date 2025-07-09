@@ -1922,7 +1922,6 @@ apparelment
 acetylenic
 acetylenyl
 authoring
-acetylfluoride
 appendix
 affirmance
 acetylglycin
@@ -15170,6 +15169,7 @@ antifaction
 antifame
 antifanatic
 allocochick
+acetylfluoride
 antipathogene
 autoinhibited
 antifascism
