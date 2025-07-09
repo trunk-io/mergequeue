@@ -2039,7 +2039,6 @@ fishhooks
 fayed
 futiley
 fissipeds
-fogging
 fide
 feere
 firster
@@ -4463,6 +4462,7 @@ farand
 fatuousness
 fishifying
 footpick
+fogging
 fishily
 farinaceously
 fishiness
