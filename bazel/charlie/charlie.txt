@@ -3749,7 +3749,6 @@ caravansary
 caravansaries
 caravanserai
 chromoxylography
-caravanserial
 companeros
 caravel
 confuse
@@ -24116,6 +24115,7 @@ converso
 chomper
 conversusi
 convertaplane
+caravanserial
 converter
 chylocele
 converters
