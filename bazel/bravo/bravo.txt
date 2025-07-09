@@ -9187,7 +9187,6 @@ biotins
 basics
 bembex
 beefhead
-biotypes
 biotypic
 biotypology
 biotites
@@ -15144,6 +15143,7 @@ bribees
 bribegiver
 bribeless
 briberies
+biotypes
 bribers
 bactetiophage
 bicentennials
