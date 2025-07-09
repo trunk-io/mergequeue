@@ -2504,7 +2504,6 @@ candide
 churls
 contraparallelogram
 candidiasis
-candidness
 candidnesses
 candids
 crawlie
@@ -12858,6 +12857,7 @@ chumashan
 chumawi
 chummage
 chummed
+candidness
 congelifract
 crepidoma
 chummery
