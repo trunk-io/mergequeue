@@ -2211,7 +2211,6 @@ baghla
 bodword
 blockade
 bostonite
-bedrivelled
 barauna
 barba
 bayards
@@ -17419,6 +17418,7 @@ bunker
 bluebird
 bunkerage
 bedtimes
+bedrivelled
 bandbox
 busy
 boettner
