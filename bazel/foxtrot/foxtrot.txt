@@ -6711,7 +6711,6 @@ fogfruit
 flatterable
 flintlock
 flouts
-fogfruits
 fluerics
 formicariae
 foofaraws
@@ -11386,6 +11385,7 @@ forthby
 furnariidae
 flaxwoman
 furnariides
+fogfruits
 flect
 fellah
 facies
