@@ -9598,7 +9598,6 @@ capsulized
 checkback
 checkbite
 checkbits
-checkbook
 chachalaca
 cableways
 cirrigerous
@@ -14255,6 +14254,7 @@ circuits
 clochan
 cardioneural
 circulant
+checkbook
 circular
 colistins
 chuffing
