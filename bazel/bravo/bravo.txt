@@ -581,6 +581,7 @@ balkar
 baubee
 balisaur
 baconian
+bartizans
 bishopric
 breaths
 bistro
@@ -3012,7 +3013,6 @@ borts
 branglement
 biomasses
 burgesses
-bartizans
 becarpets
 beigel
 belee
