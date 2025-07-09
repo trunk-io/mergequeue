@@ -14604,7 +14604,6 @@ cirterion
 cyrtoceras
 chergui
 courantos
-cyrtometer
 calcavella
 cyrtomium
 cyrtopia
@@ -27404,6 +27403,7 @@ courteously
 chaptered
 courtliest
 croppie
+cyrtometer
 catasta
 calandra
 cibophobiafood
