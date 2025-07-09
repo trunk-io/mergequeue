@@ -4404,6 +4404,7 @@ bunyas
 bennettitales
 bovenland
 beclang
+bilharzic
 briskness
 bakeboard
 bonzian
@@ -10970,7 +10971,6 @@ benchmar
 blinkingly
 blinter
 batel
-bilharzic
 blocky
 brassage
 blintzes
