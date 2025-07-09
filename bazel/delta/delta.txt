@@ -2797,6 +2797,7 @@ desmogen
 dropsied
 dugal
 dop
+desoxyribonuclease
 dorsalward
 disharmonize
 decrements
@@ -16648,7 +16649,6 @@ dilutant
 detesting
 dragonwort
 dabber
-desoxyribonuclease
 dragoonable
 dirt
 denunciable
