@@ -11935,7 +11935,6 @@ coinquinate
 choplogic
 choplogical
 choregi
-cryptomonad
 candider
 chopper
 choppers
@@ -22795,6 +22794,7 @@ consecrator
 consecratory
 consectary
 cardines
+cryptomonad
 consecutive
 consecutively
 consence
