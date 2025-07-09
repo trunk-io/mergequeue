@@ -12095,7 +12095,6 @@ chorisis
 chlorins
 chorist
 cyanuret
-characetum
 chassis
 choristate
 chorister
@@ -26937,6 +26936,7 @@ countermaneuver
 countermanifestoes
 colorable
 chevaux
+characetum
 cunningaire
 countermarching
 complexification
