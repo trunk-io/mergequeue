@@ -6755,7 +6755,6 @@ endamebiasis
 embolomerous
 entertainingly
 entertainingness
-electrophysics
 entertainment
 endosepsis
 echimys
@@ -11603,6 +11602,7 @@ encephalosepsis
 evolutoid
 elegize
 enchiridion
+electrophysics
 evolvable
 explicating
 elaterid
