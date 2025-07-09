@@ -2808,7 +2808,6 @@ duodecahedral
 dint
 drypoints
 dari
-dogteeth
 decresc
 desalination
 delphinus
@@ -14030,6 +14029,7 @@ dolabra
 dishboard
 disannul
 disciplinant
+dogteeth
 distorter
 distorters
 distress
