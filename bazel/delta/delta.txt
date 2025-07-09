@@ -5850,7 +5850,6 @@ dextrocerebral
 depositors
 dowel
 dressings
-divestible
 deafforestation
 deposits
 dulcitol
@@ -11425,6 +11424,7 @@ disciform
 diplopods
 discigerous
 discinct
+divestible
 druidism
 discing
 darwinian
