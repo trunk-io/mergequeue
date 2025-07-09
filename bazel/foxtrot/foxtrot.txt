@@ -1167,7 +1167,6 @@ feverishness
 fractional
 fibrillary
 filiates
-farthings
 folk
 forlornness
 fubs
@@ -8915,6 +8914,7 @@ flneuse
 favorableness
 foundrous
 figurative
+farthings
 farhands
 flotative
 foragers
