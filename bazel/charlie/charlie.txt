@@ -15458,7 +15458,6 @@ clannishness
 cradlemen
 clansfolk
 churchgrith
-clanship
 chiricahua
 coembedded
 camelhair
@@ -19635,6 +19634,7 @@ columbidae
 cankerous
 columbiferous
 costula
+clanship
 chronanagram
 columbiformes
 condemned
