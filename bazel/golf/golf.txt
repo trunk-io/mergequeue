@@ -308,6 +308,7 @@ grundsil
 gelatins
 galeorhinus
 galabeah
+gyroscope
 galabieh
 galactagog
 gamaliel
@@ -4707,7 +4708,6 @@ greenfishes
 gudemother
 garua
 galactite
-gyroscope
 glick
 gendarme
 giantlike
