@@ -3995,7 +3995,6 @@ carcases
 crueler
 carcass
 carcassed
-carcassing
 carcavelhos
 coonjine
 carceag
@@ -25419,6 +25418,7 @@ chaft
 cornigerous
 conies
 cornin
+carcassing
 consignable
 corning
 cornishman
