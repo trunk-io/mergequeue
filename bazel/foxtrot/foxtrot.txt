@@ -617,6 +617,7 @@ forerunners
 floorless
 fourfold
 fellon
+flange
 foreknows
 forpet
 fuchsone
@@ -4688,7 +4689,6 @@ faussebraye
 fatherless
 fourthly
 fatale
-flange
 fivebar
 forages
 ford
