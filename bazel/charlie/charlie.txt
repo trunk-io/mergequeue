@@ -8257,7 +8257,6 @@ chainmaker
 chiropodist
 chainman
 chainmen
-celiomyositis
 cultists
 campanulaceous
 coelastrum
@@ -25651,6 +25650,7 @@ cannula
 closestool
 corpulentness
 converginerved
+celiomyositis
 corpuscularian
 colombian
 confinedness
