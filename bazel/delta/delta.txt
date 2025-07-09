@@ -17168,6 +17168,7 @@ drinkables
 disgaveled
 damselfly
 diaphaneity
+devot
 diswont
 drinks
 dynamics
@@ -17727,7 +17728,6 @@ dubiety
 demutization
 dawing
 dubio
-devot
 diene
 discriminateness
 drawstop
