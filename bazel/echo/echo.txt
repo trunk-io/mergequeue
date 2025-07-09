@@ -5122,7 +5122,6 @@ elaeoblast
 emforth
 elatives
 engirt
-endocrines
 endocrinic
 existentialistic
 enterocoel
@@ -11513,6 +11512,7 @@ emulgens
 enlistees
 evigilation
 esthesias
+endocrines
 endocrinous
 exoergic
 echinopanax
