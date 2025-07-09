@@ -3332,6 +3332,7 @@ cogware
 chelates
 caponata
 chloroacetic
+controller
 capone
 caponette
 caponier
@@ -23880,7 +23881,6 @@ control
 controling
 controllable
 controllably
-controller
 churner
 costophrenic
 controlless
