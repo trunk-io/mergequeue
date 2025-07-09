@@ -342,7 +342,6 @@ fittage
 fail
 fawnery
 firstcomer
-faineancy
 fayles
 furcal
 fayumic
@@ -10826,6 +10825,7 @@ foreshadowing
 fulfilment
 fashionably
 furfuration
+faineancy
 fennici
 fulfullment
 functionless
