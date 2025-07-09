@@ -3052,7 +3052,6 @@ cantraip
 cantraips
 cantraps
 chares
-capitonidae
 centrales
 cantrip
 cantrips
@@ -26879,6 +26878,7 @@ custodes
 counteridea
 cotquean
 choirgirl
+capitonidae
 copperization
 counterideal
 circumambience
