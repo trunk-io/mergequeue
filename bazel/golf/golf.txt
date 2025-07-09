@@ -1648,6 +1648,7 @@ guadua
 gastroduodenostomy
 ganodont
 gamed
+glow
 gommier
 grusian
 garlanded
@@ -2584,7 +2585,6 @@ glossosteresis
 geniality
 genetics
 gastrolysis
-glow
 garg
 globulicidal
 genetika
