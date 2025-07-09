@@ -3339,7 +3339,6 @@ gondolier
 gnatling
 gorkun
 galbe
-glaciable
 gyroscopic
 gainor
 guachamaca
@@ -4891,6 +4890,7 @@ goldilocks
 glycerinize
 gavotted
 glaiks
+glaciable
 grumblingly
 gentianose
 gorse
