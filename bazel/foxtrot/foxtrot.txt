@@ -92,6 +92,7 @@ faces
 folkright
 flattening
 flowerfence
+fortis
 foliobranch
 fiendish
 flagrantness
@@ -8717,7 +8718,6 @@ ferther
 framboesia
 finniest
 fowent
-fortis
 foredetermination
 flabbella
 fortissimo
