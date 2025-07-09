@@ -1382,7 +1382,6 @@ demilitarize
 dispel
 downdale
 dismain
-doketism
 dispraiser
 dorsiflexor
 dissatisfactoriness
@@ -14008,6 +14007,7 @@ diactin
 daubreelite
 dichroism
 distomatous
+doketism
 distomes
 dl
 distomiasis
