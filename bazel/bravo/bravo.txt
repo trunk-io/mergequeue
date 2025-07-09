@@ -6332,6 +6332,7 @@ battens
 benzacridine
 baltic
 benzalacetone
+beaume
 benzalacetophenone
 bonum
 benzalazine
@@ -16872,7 +16873,6 @@ bugan
 brahm
 bugbane
 bliest
-beaume
 bimetallists
 beduck
 bugbearish
