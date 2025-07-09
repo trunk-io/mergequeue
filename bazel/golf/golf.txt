@@ -5907,7 +5907,6 @@ grogshops
 goofs
 grainless
 gambirs
-gluepot
 gimballed
 gnaphalium
 glitzy
@@ -9026,6 +9025,7 @@ gothlander
 gramophonical
 grateful
 granulomatous
+gluepot
 gyrates
 gnatcatcher
 grooved
