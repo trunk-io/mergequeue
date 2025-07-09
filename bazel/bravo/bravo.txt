@@ -12454,7 +12454,6 @@ barrettes
 b
 bells
 boukit
-bescrawl
 booklists
 bisymmetrically
 budlike
@@ -14298,6 +14297,7 @@ bandboxes
 bragi
 bragite
 blimps
+bescrawl
 bluet
 babuls
 bessi
