@@ -2497,7 +2497,6 @@ bhut
 bedark
 brachyoura
 barge
-bergere
 bargelike
 bravura
 bargellos
@@ -11321,6 +11320,7 @@ blown
 bananas
 bauhinia
 blowoff
+bergere
 blowouts
 blowproof
 blows
