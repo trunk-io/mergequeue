@@ -7183,6 +7183,7 @@ centiares
 coquetoon
 centiday
 centigrado
+componentwise
 cannikin
 copt
 confluences
@@ -24950,7 +24951,6 @@ caproate
 corolliform
 cocaigne
 caulophyllum
-componentwise
 combfishes
 corantoes
 chumpivilca
