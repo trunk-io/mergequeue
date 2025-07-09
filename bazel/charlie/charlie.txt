@@ -10461,7 +10461,6 @@ chilies
 cahoots
 cares
 chief
-chiefage
 chiefery
 cyatholith
 chiefest
@@ -21541,6 +21540,7 @@ concrescible
 cephalohumeral
 concrescive
 colocentesis
+chiefage
 coerces
 concreted
 concretely
