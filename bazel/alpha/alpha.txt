@@ -14438,7 +14438,6 @@ anthropic
 anthropical
 acquisition
 anthropobiology
-automaton
 arthritism
 anthropocentric
 amission
@@ -17106,6 +17105,7 @@ apodidae
 apodioxis
 apodyteria
 adverb
+automaton
 airsheet
 apodyterium
 apodoses
