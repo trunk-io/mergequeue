@@ -1672,6 +1672,7 @@ bengali
 bister
 befur
 ballstock
+blastocyst
 ballup
 ballweed
 brehon
@@ -5252,7 +5253,6 @@ begass
 bitless
 backmost
 bribability
-blastocyst
 begats
 bolters
 bastes
