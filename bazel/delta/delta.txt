@@ -1847,7 +1847,6 @@ debitumenize
 dynameter
 douvecot
 dorsale
-deblai
 deblaterate
 daubries
 deblateration
@@ -3448,6 +3447,7 @@ dipleurogenetic
 duelists
 dehumidifier
 damp
+deblai
 defluent
 dragoon
 dunite
