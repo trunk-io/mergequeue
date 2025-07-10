@@ -9765,6 +9765,7 @@ amalgamative
 amalgamatize
 amalgamators
 acmite
+asclent
 amalgamist
 amperage
 amalgamization
@@ -11969,7 +11970,6 @@ anasarca
 aralkylated
 anasarcous
 arteriosclerosis
-asclent
 awakenable
 anaschistic
 anaseismic
