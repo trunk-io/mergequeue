@@ -3402,7 +3402,6 @@ addible
 addicent
 addicted
 antiknocks
-addictedness
 addicting
 addictions
 ampassy
@@ -19094,6 +19093,7 @@ archpriestship
 archprimate
 acoustical
 artotyrite
+addictedness
 archprotopope
 archpuritan
 archdeaconess
