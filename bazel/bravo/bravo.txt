@@ -1646,7 +1646,6 @@ brancher
 balloting
 ballotist
 ballots
-ballottement
 backlotter
 baronage
 ballottines
@@ -2210,6 +2209,7 @@ bontebok
 baghla
 bodword
 blockade
+ballottement
 bostonite
 bedrivelled
 barauna
