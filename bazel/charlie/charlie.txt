@@ -8375,7 +8375,6 @@ comas
 chalcography
 caucho
 chalcographic
-chalcographical
 chalcographist
 chalcolithic
 coadunation
@@ -21690,6 +21689,7 @@ condylion
 cariacus
 condyloma
 condylomatous
+chalcographical
 condylome
 chamaeleon
 condylopodous
