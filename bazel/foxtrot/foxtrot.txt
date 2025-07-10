@@ -5282,6 +5282,7 @@ figgery
 flavoured
 flavourful
 fieldy
+flatus
 flavourless
 flavourous
 fielders
@@ -10549,7 +10550,6 @@ forceput
 forcipiform
 frowze
 franking
-flatus
 fossilised
 fauchard
 folklorism
