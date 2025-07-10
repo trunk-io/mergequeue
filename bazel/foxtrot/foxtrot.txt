@@ -10161,6 +10161,7 @@ fabricant
 falcidian
 foresing
 frizel
+fortified
 fief
 frizers
 frizes
@@ -10835,7 +10836,6 @@ furoin
 fishpool
 fulgency
 forficate
-fortified
 fumblingly
 fallout
 frisky
