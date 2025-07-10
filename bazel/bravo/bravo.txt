@@ -5150,7 +5150,6 @@ budworm
 before
 biotic
 borings
-boomorah
 broadside
 beggarer
 buccinatory
@@ -11433,6 +11432,7 @@ bluejacks
 blueline
 blennophthalmia
 bluelines
+boomorah
 beeves
 bodacious
 bedrail
