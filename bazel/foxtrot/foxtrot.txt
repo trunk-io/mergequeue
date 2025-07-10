@@ -5251,7 +5251,6 @@ flews
 farse
 fulfil
 frith
-fourling
 fluxroot
 fratcheous
 flanconnade
@@ -6673,6 +6672,7 @@ fpsps
 foeless
 faulted
 fulguration
+fourling
 fulgurating
 flossing
 forenotice
