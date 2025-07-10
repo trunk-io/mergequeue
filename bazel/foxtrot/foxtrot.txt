@@ -5591,7 +5591,6 @@ fratch
 flybys
 fallaciously
 filamentar
-fiendlike
 fellatrixes
 flaxlike
 folkvangr
@@ -8603,6 +8602,7 @@ forrard
 flammigerous
 forrarder
 flatworks
+fiendlike
 farseeingness
 fetcher
 fenceress
