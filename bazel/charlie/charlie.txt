@@ -14861,7 +14861,6 @@ cladosiphonic
 coordinate
 coenamor
 cheliceral
-coccinellid
 cocinero
 carbazine
 chiarooscuros
@@ -18402,6 +18401,7 @@ crabbish
 chamaesiphonaceae
 cogida
 chamber
+coccinellid
 chasses
 cogie
 chackling
