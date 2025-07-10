@@ -5499,6 +5499,7 @@ dolley
 deoxidation
 deoxidative
 dibbles
+disenchantments
 deoxidisation
 dsnames
 dissolubility
@@ -12046,7 +12047,6 @@ differen
 disenchant
 dowd
 dimolecular
-disenchantments
 disenchantress
 depluming
 difforme
