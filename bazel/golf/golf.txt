@@ -2079,6 +2079,7 @@ gazebo
 gazeboes
 guestship
 gyros
+gantries
 grampus
 gen
 glumiferous
@@ -3536,7 +3537,6 @@ galany
 gallinaceous
 guttiform
 gananciales
-gantries
 gruesomest
 glovers
 galactoid
