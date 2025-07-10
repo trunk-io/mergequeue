@@ -3057,7 +3057,6 @@ centrales
 cantrip
 cantrips
 cantus
-cantuta
 cantwise
 canula
 canulae
@@ -7151,6 +7150,7 @@ centerfold
 compania
 coofs
 chelators
+cantuta
 colonus
 centerfolds
 centering
