@@ -1461,7 +1461,6 @@ eelpout
 effort
 ethmovomer
 emmenic
-emeline
 ergonomic
 ethiopian
 emunct
@@ -8109,6 +8108,7 @@ empeopled
 emerize
 epiphytic
 extensum
+emeline
 evanescent
 enteroscopy
 expositor
