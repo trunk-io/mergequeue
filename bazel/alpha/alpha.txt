@@ -6077,6 +6077,7 @@ agkistrodon
 aglaia
 aglance
 aglaos
+altar
 aglaozonia
 alkanal
 agleaf
@@ -9441,7 +9442,6 @@ abyssobenthonic
 aitesis
 amasty
 altamira
-altar
 altarage
 allodies
 altarpieces
