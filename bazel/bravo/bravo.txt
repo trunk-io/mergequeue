@@ -1229,7 +1229,6 @@ barathron
 blok
 barkers
 bala
-balaam
 bedabbled
 balabos
 bashfully
@@ -9748,6 +9747,7 @@ beside
 boatie
 byssoid
 bisson
+balaam
 buckskin
 bedragglement
 bissonata
