@@ -238,6 +238,7 @@ fairing
 facular
 fruitworm
 fluorotype
+fouling
 faculous
 firelock
 filibranch
@@ -10956,7 +10957,6 @@ footgears
 fumarates
 fumaric
 fumarium
-fouling
 firmless
 freesias
 frigidaire
