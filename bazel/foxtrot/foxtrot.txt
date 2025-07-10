@@ -2296,7 +2296,6 @@ fusilades
 femora
 fen
 fatil
-fain
 fenced
 fencelessness
 fink
@@ -6572,6 +6571,7 @@ fleetly
 fluvioterrestrial
 frivols
 funereal
+fain
 forecloses
 flamless
 furrings
