@@ -5851,7 +5851,6 @@ footback
 forgrown
 fallers
 filariid
-floatage
 farmeries
 fayal
 fluochloride
@@ -9190,6 +9189,7 @@ frenchiness
 foolify
 formicaria
 fraena
+floatage
 faroff
 frostproofing
 fulfulde
