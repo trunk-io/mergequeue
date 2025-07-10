@@ -11280,7 +11280,6 @@ chloraemia
 chloragogen
 chloragogue
 chloral
-chloralformamide
 cupelling
 comburimeter
 cymbocephalic
@@ -29265,6 +29264,7 @@ chemis
 cryptocerous
 confessarius
 clamoured
+chloralformamide
 conceptualising
 collenchymatous
 ceinte
