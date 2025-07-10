@@ -3631,7 +3631,6 @@ foggily
 filched
 frenchism
 fogie
-flamboyance
 friseur
 fencelet
 foremention
@@ -5288,6 +5287,7 @@ fielders
 frostbird
 fockle
 fabricable
+flamboyance
 fomenter
 foresightedness
 ferricyanate
