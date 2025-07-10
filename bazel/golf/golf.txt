@@ -333,6 +333,7 @@ graveship
 galactometer
 gastritis
 gaussian
+galvanometric
 grilses
 gleen
 gerontologic
@@ -9122,7 +9123,6 @@ gillenia
 grammatically
 gratings
 gareh
-galvanometric
 gaffers
 grammaticalness
 gazeful
