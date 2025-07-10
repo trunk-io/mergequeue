@@ -10469,7 +10469,6 @@ cervalet
 conveyorizer
 chiefish
 cytisus
-chiefling
 chieftain
 chieftaincy
 chieftainess
@@ -27898,6 +27897,7 @@ compurgation
 concreting
 crackajack
 carbanilide
+chiefling
 crackbrained
 carpognia
 crackbrainedness
