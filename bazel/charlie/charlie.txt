@@ -4017,7 +4017,6 @@ carchariidae
 carcharioid
 congredient
 carcharodont
-correctify
 carcinemia
 croquettes
 carcinogenesis
@@ -21463,6 +21462,7 @@ chemicalize
 cringingly
 cyetic
 conclusory
+correctify
 calybite
 conclusum
 caseful
