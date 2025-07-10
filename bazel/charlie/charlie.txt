@@ -6108,7 +6108,6 @@ catlike
 crowns
 catling
 catlings
-catlins
 craftsperson
 cryptoporticus
 canephroi
@@ -12338,6 +12337,7 @@ chrysopidae
 chrysoprase
 chrysoprasus
 cothe
+catlins
 chasmic
 counteradvice
 chrysops
