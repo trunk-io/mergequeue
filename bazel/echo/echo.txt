@@ -2792,7 +2792,6 @@ ecthyma
 ephebeibeia
 egyptological
 elenchi
-elenchic
 elves
 elenchize
 ecthlipsis
@@ -9485,6 +9484,7 @@ escarole
 entoplastral
 enantobiosis
 elutriated
+elenchic
 eighteens
 escarpment
 exostosed
