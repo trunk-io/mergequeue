@@ -8622,7 +8622,6 @@ ampullosity
 allantoinuria
 acetoxim
 allantoxaidin
-actinouranium
 allegorised
 anisogenous
 allasch
@@ -14311,6 +14310,7 @@ anthoecological
 anthoecologist
 application
 anthogenesis
+actinouranium
 anthogenetic
 anthogenous
 agelacrinites
