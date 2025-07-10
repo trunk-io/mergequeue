@@ -1362,6 +1362,7 @@ accentors
 accents
 auxillary
 accentual
+antiportable
 accentually
 appertise
 accension
@@ -15869,7 +15870,6 @@ areito
 antipopes
 asplenium
 anthracemia
-antiportable
 apollonicon
 anthoxanthin
 anglicizing
