@@ -1151,7 +1151,6 @@ generalness
 gantsl
 galactometry
 gastrostomus
-glossograph
 gnetums
 guffin
 gaol
@@ -6004,6 +6003,7 @@ grassiness
 gnarls
 gaidropsaridae
 gnetaceae
+glossograph
 gravelweed
 gutturonasal
 gingerly
